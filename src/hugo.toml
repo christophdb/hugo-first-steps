@@ -3,9 +3,9 @@ languageCode = 'en-us'
 title = 'Example Company'
 theme = 'nike'
 
-[params]
-contactUsText = 'Read to take your business to the next level...'
-slogan = 'Your Partner in Innovation'
-address = "123 Tech Avenue, Suite 456 Cityville, State 78901"
-phone = "(123) 456-7890"
-email = "info@examplecompany.com"
+#[params]
+#contactUsText = 'Read to take your business to the next level...'
+#slogan = 'Your Partner in Innovation'
+#address = "123 Tech Avenue, Suite 456 Cityville, State 78901"
+#phone = "(123) 456-7890"
+#email = "info@examplecompany.com"
