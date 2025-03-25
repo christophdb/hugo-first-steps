@@ -1,0 +1,14 @@
+<header>
+    <div class="container mx-auto h-[90px] flex items-center justify-between border-b border-b-gray">
+        <a class="text-[24px] font-bold" href="/">{{ site.Title }}</a>
+        <nav class="flex gap-[20px]">
+
+            {{ range .Site.Menus.main }}
+
+                <a href="{{ .URL }}" class="text-[18px] font-medium">{{ .Name }}</a>
+
+            {{ end }}
+
+        </nav>
+    </div>
+</header>

@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.content h2 {
+    @apply text-2xl font-bold;
+}
+
+.content p {
+    @apply text-[18px] mt-[10px];
+}

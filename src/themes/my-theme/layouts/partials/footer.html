@@ -1,0 +1,41 @@
+
+<footer class="mt-[100px] mx-auto container border-t border-gray">
+
+    <div class="flex justify-between pt-[30px] pb-[70px]">
+
+        <div>
+
+            <div class="text-[24px] font-bold">{{ .Site.Title }}</div>
+
+            <div class="mt-[10px] text-[14px] italic text-grey">{{ .Site.Params.slogan }}</div>
+
+            <div class="mt-[40px] flex gap-[6px] items-center">
+
+                <div class="text-[14px] text-gray">Made with</div>
+                <img src="/img/hugo-logo.svg" width="80"/>
+
+            </div>
+
+        </div>
+
+        <div>
+
+            <div class="text-[14px] text-gray">
+                {{ .Site.Params.address }}
+            </div>
+
+            <div class="mt-[20px] flex flex-XX gap-[2px]">
+
+                <div class="flex gap-[10px] justify-between">
+                    <a class="text-gray text-[14px]" href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</div></a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+</footer>
+
+<p>Copyright {{ now.Year }}. All rights reserved.</p>
