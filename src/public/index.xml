@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example Company</title>
+    <title>Home on Example Company</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Example Company</description>
+    <description>Recent content in Home on Example Company</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
@@ -28,27 +28,6 @@
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>
       <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/contact-us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact-us/</guid>
-      <description>&lt;section class=&#34;mt-[100px]&#34;&gt;&#xA;&#xA;    &lt;h2 class=&#34;text-[28px] font-bold&#34;&gt;Contact Us&lt;/h2&gt;&#xA;&#xA;    &lt;p class=&#34;text-gray text-[18px] mt-[16px]&#34;&gt;&#xA;        Read to take your business to the next level...&#xA;    &lt;/p&gt;&#xA;&#xA;    &lt;form class=&#34;mt-[40px] flex flex-col gap-[20px]&#34;&gt;&#xA;&#xA;        &lt;div class=&#34;grid grid-cols-2 gap-[20px]&#34;&gt;&#xA;            &lt;div class=&#34;flex flex-col gap-[12px]&#34;&gt;&#xA;                &lt;label&gt;Full Name&lt;/label&gt;&#xA;                &lt;input type=&#34;text&#34; class=&#34;rounded-[8px] border-2 border-gray bg-transparent outline-none py-3 px-2&#34; /&gt;&#xA;            &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;&#xA;        &lt;div class=&#34;grid grid-cols-2 gap-[20px]&#34;&gt;&#xA;            &lt;div class=&#34;flex flex-col gap-[12px]&#34;&gt;&#xA;                &lt;label&gt;E-mail&lt;/label&gt;&#xA;                &lt;input type=&#34;email&#34; class=&#34;rounded-[8px] border-2 border-gray bg-transparent outline-none py-3 px-2&#34; /&gt;&#xA;            &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;&#xA;    &lt;/form&gt;&#xA;&#xA;&lt;/section&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/services/cloud-computing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/cloud-computing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>adadfaf</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;super-dupa&#34;&gt;Super dupa.&lt;/h2&gt;&#xA;&lt;p&gt;At Example Company, we&amp;rsquo;re fully commited&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

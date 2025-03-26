@@ -1,0 +1,153 @@
+{{ define "main" }}
+
+<section class='xl:padding-l wide:padding-r padding-b'>
+
+    <section id="home" class="w-full flex xl:flex-row flex-col justify-center min-h-screen gap-10 max-container">
+
+        <div class="relative xl:w-2/5 flex flex-col justify-center items-start w-full max-xl:padding-x pt-28">
+
+            <p class="text-xl font-montserrat text-coral-red">Our Summer collections</p>
+            <h1 class="mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold">
+                <span class="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">The New Arrival</span>
+                <br/>
+                <span class="text-coral-red inline-block mt-3">Nike</span> Shoes
+            </h1>
+            
+            <p class="font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm">Discover stylish Nike arrivals, quality comfort, and innovativion for your active life.</p>
+            <button class="flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none bg-coral-red rounded-full text-white border-coral-red">Shop now <img class="ml-2 rounded-full w-5 h-5" src="/icons/arrow-right.svg" alt="arrow right icon"/></button>
+
+            <div class="flex justify-start items-start flex-wrap w-full mt-20 gap-16">
+                <div key="brands">
+                    <p class="text-4xl font-palanquin font-bold">1k+</p>
+                    <p class="leading-7 font-montserrat text-slate-gray">Brands</p>
+                </div>
+                <div key="shops">
+                    <p class="text-4xl font-palanquin font-bold">500+</p>
+                    <p class="leading-7 font-montserrat text-slate-gray">Shops</p>
+                </div>
+                <div key="customers">
+                    <p class="text-4xl font-palanquin font-bold">250k+</p>
+                    <p class="leading-7 font-montserrat text-slate-gray">Customers</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="relative flex-1 flex justify-center items-center xl:min-h-screen max-xl:py-40 bg-primary bg-hero bg-cover bg-center">
+            <img src="/images/big-shoe1.png" alt="shoe collection" width="610" height="500" class="object-contain relative z-10" />
+        
+            <div class="flex sm:gap-6 gap-4 absolute -bottom-[5%] sm:left-[10%] max-sm:px-6">
+                <div class="border-2 rounded-xl border-coral-red cursor-pointer max-sm:flex-1">
+                    <div class="flex justify-center items-center bg-card bg-center bg-cover sm:w-40 sm:h-40 rounded-xl max-sm:p-4">
+                        <img src="/images/thumbnail-shoe1.svg" alt="shoe collection" width="127" height="103" class="object-contain" />
+                    </div>
+                </div>
+                <div class="border-2 rounded-xl border-transparent cursor-pointer max-sm:flex-1">
+                    <div class="flex justify-center items-center bg-card bg-center bg-cover sm:w-40 sm:h-40 rounded-xl max-sm:p-4">
+                        <img src="/images/thumbnail-shoe2.svg" alt="shoe collection" width="127" height="103" class="object-contain" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+</section>
+
+<section class="padding">
+    <section id="products" class="max-container max-sm:mt-12">
+        <div class="flex flex-col justify-start gap-5">
+            <h2 class="text-4xl font-palanquin font-bold">Our <span class="text-coral-red">Popular</span> Products</h2>
+            <p class="lg:max-w-lg mt-2 font-montserrat text-slate-gray">Experience top-notch quality and style with our sought-after
+                selections. Discover a world of comfort, design, and value</p>
+        </div>
+
+        <div class="mt-16 grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 sm:gap-6 gap-14">
+           
+            <div class="flex flex-1 flex-col w-full max-sm:w-full">
+                <img src="/images/shoe4.svg" alt="shoe1" class="w-[282px] h-[282px]" />
+                <div class="mt-8 flex justify-start gap-2.5">
+                    <img src="/icons/star.svg" alt="rating icon" width="24" height="24" />
+                    <p class="font-montserrat text-xl leading-normal text-slate-gray">(4.5)</p>
+                </div>
+                <h3 class="mt-2 text-2xl leading-normal font-semibold font-palanquin">Nike Air Jordan-01</h3>
+                <p class="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">$200.20</p>
+            </div>
+
+            <div class="flex flex-1 flex-col w-full max-sm:w-full">
+                <img src="/images/shoe5.svg" alt="shoe1" class="w-[282px] h-[282px]" />
+                <div class="mt-8 flex justify-start gap-2.5">
+                    <img src="/icons/star.svg" alt="rating icon" width="24" height="24" />
+                    <p class="font-montserrat text-xl leading-normal text-slate-gray">(4.5)</p>
+                </div>
+                <h3 class="mt-2 text-2xl leading-normal font-semibold font-palanquin">Nike Air Jordan-10</h3>
+                <p class="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">$210.20</p>
+            </div>
+
+            <div class="flex flex-1 flex-col w-full max-sm:w-full">
+                <img src="/images/shoe6.svg" alt="shoe1" class="w-[282px] h-[282px]" />
+                <div class="mt-8 flex justify-start gap-2.5">
+                    <img src="/icons/star.svg" alt="rating icon" width="24" height="24" />
+                    <p class="font-montserrat text-xl leading-normal text-slate-gray">(4.5)</p>
+                </div>
+                <h3 class="mt-2 text-2xl leading-normal font-semibold font-palanquin">Nike Air Jordan-10</h3>
+                <p class="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">$220.20</p>
+            </div>
+
+            <div class="flex flex-1 flex-col w-full max-sm:w-full">
+                <img src="/images/shoe7.svg" alt="shoe1" class="w-[282px] h-[282px]" />
+                <div class="mt-8 flex justify-start gap-2.5">
+                    <img src="/icons/star.svg" alt="rating icon" width="24" height="24" />
+                    <p class="font-montserrat text-xl leading-normal text-slate-gray">(4.5)</p>
+                </div>
+                <h3 class="mt-2 text-2xl leading-normal font-semibold font-palanquin">Nike Air Jordan-10</h3>
+                <p class="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">$230.20</p>
+            </div>
+
+        </div>
+        
+    </section>
+</section>
+
+<section class="padding">
+    
+    <section id="superquality" class="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container">
+        <div class="flex flex-1 flex-col">
+            <h2 class="font-palanquin text-4xl capitalized font-bold lg:max-w-lg">We Provide Your <span class="text-coral-red">Super Quality</span> Shoes</h2>
+            <p class="mt-4 lg:max-w-lg info-text">Ensuring premium comfort and style, our meticulously crafted footwear
+                is designed to elevate your experience, providing you with unmatched
+                quality, innovation, and a touch of elegance.</p>
+            <p class="mt-6 lg:max-w-lg info-text">Our dedication to detail and excellence ensures your satisfaction</p>
+            <div class="mt-11">
+                <button class="flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none bg-coral-red rounded-full text-white border-coral-red">View details</button>
+            </div>
+
+        </div>
+
+        <div class="flex-1 flex justify-center items-center">
+            <img src="/images/shoe8.svg" alt="product detail" class="object-contain" width="570" height="522" />
+        </div>
+    </section>
+
+</section>
+
+<section class="padding-x py-10">
+    Services
+</section>
+
+<section class="padding">
+    SpecialOffer
+</section>
+
+<section class="bg-pale-blue padding">
+    CustomerReviews
+</section>
+
+<section class="padding-x sm:py-32 py-16 w-full">
+    Subscribe
+</section>
+
+<section class="bg-black padding-x padding-t pb-8">
+    Footer
+</section>
+
+{{ end }}

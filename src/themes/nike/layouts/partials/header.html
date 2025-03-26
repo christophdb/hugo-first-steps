@@ -1,2 +1,19 @@
-<h1>{{ site.Title }}</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<header class="padding-x py-8 absolute z-10 w-full">
+    <nav class="flex justify-between items-center max-container">
+        <a href="/"><img src="/images/header-logo.svg" alt="Logo" width="130" height="29" /></a>
+        <ul class="flex-1 flex justify-center items-center gap-16 max-lg:hidden">
+            <li key="Home"><a href="#" class="font-montserrat leading-normal text-lg text-slate-gray">Home</a></li>
+            <li key="About Us"><a href="#" class="font-montserrat leading-normal text-lg text-slate-gray">About Us</a></li>
+            <li key="Products"><a href="#" class="font-montserrat leading-normal text-lg text-slate-gray">Products</a></li>
+            <li key="Contact Us"><a href="#" class="font-montserrat leading-normal text-lg text-slate-gray">Contact Us</a></li>
+            <li key="Sign in"><a href="#" class="font-montserrat leading-normal text-lg text-slate-gray">Sign in</a></li>
+        </ul>
+        <div class="hidden max-lg:block">
+            <img src="/icons/hamburger.svg" alt="Hamburger" width="25" height="25" />
+        </div>
+    </nav>
+</header>
+
+
+<!--<h1>{{ site.Title }}</h1>-->
+<!--{{ partial "menu.html" (dict "menuID" "main" "page" .) }}-->
