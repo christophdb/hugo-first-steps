@@ -11,9 +11,14 @@ module.exports = {
       '2xl': ['24px', '29.26px'],
       '3xl': ['28px', '50px'],
       '4xl': ['48px', '58px'],
+      '5xl': ['56px', '80px'],
       '8xl': ['96px', '106px']
     },
     extend: {
+      lineHeight: {
+        'narrow': '1.1em'
+        /* brauche ich das ? */
+      },
       fontFamily: {
         palanquin: ['Palanquin', 'sans-serif'],
         montserrat: ['Montserrat', 'sans-serif'],
@@ -30,6 +35,7 @@ module.exports = {
         "seatable-gray": "#393F49",
         "seatable-orange": "#F88000"
       },
+      /* was brquche ich davon wirklich ?? */
       boxShadow: {
         '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'
       },
@@ -40,8 +46,29 @@ module.exports = {
       screens: {
         "wide": "1440px"
       },
+      animation: {
+        marquee: 'marquee 15s linear infinite',
+        marquee2: 'marquee2 15s linear infinite',
+      },
+      keyframes: {
+        marquee: {
+          '0%': { transform: 'translateX(0%)' },
+          '100%': { transform: 'translateX(-100%)' },
+        },
+        marquee2: {
+          '0%': { transform: 'translateX(100%)' },
+          '100%': { transform: 'translateX(0%)' },
+        },
+      },
     },
   },
-  plugins: [],
+  plugins: [
+    /*
+    const path = require('path');
+    require(path.resolve('/usr/lib/node_modules/tailwind-fontawesome'))({
+      version: 6, // Use Font Awesome 6
+      pro: false, // Set to true if using Font Awesome Pro
+    }),*/
+  ],
 }
 
