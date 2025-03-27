@@ -1,10 +1,10 @@
-
-
 {{ $sections := slice
     (dict "name" "hero1" "content" .Params.hero1 "weight" (index .Params.hero1 0).weight)
     (dict "name" "popularproducts" "content" .Params.popularproducts "weight" (index .Params.popularproducts 0).weight)
 }}
 {{ range sort $sections "weight" }}
+
+            
 
     <!-- Hero1 -->
     {{ if eq .name "hero1" }}
@@ -123,6 +123,160 @@
         {{ end }}
     {{ end }}
 {{ end }}
+
+<section class="padding">
+    <section id="blau">
+        <div class="mx-auto text-center max-w-[800px]">
+            <p class="text-2xl font-bold font-poppins gradient">Was ist SeaTable?</p>
+            <h2 class="mt-1 text-4xl font-bold">So einfach wie Excel mit der Power einer Datenbank</h2>
+            <p class="mt-12 text-lg leading-normal">SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen,
+                Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser.</p>
+            <div class="mt-12">
+                <a class="rounded-xl px-7 py-4 bg-gradient text-white font-bold font-poppins" href="/abc">Jetzt ausprobieren</a>
+            </div>
+        </div>
+        <div class="text-center mt-12">
+            <h3 class=" text-4xl font-bold">Die No-Code <span class="gradient">Lösung</span> für ...</h3>
+        </div>
+        <div class="">
+
+        </div>
+    </section>
+</section>
+
+<section class="padding-x pt-8 pb-8 bg-purple-600">
+    <section>
+        <nav class="flex justify-between">
+            <p>Logo</p>
+            <ul class="flex gap-8">
+                <li>Nav 1</li>
+                <li>Nav 2</li>
+            </ul>
+            <p>Other Nav items</p>
+        </nav>
+    </section>
+</section>
+
+<!-- 
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+https://www.youtube.com/watch?v=tS7upsfuxmo
+https://play.tailwindcss.com/
+https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+-->
+
+<!-- Navigation with logo left, nav items right -->
+<section class="padding-x">
+    <section id="header-test" class="">
+        <nav>
+            <ul class="flex gap-8">
+                <li class="mr-auto">Logo</li>
+                <li>About use</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </section>
+</section>
+
+<section class="padding">
+    <section id="abc" class="max-container w-[300px] flex gap-8 h-[100px] justify-start">
+        <div class="bg-green-900">Hello World</div>
+        <div class="bg-coral-red ">to my world</div>
+        <div class="bg-blue-400">the</div>
+        <div class="bg-red-600">world</div>
+    </section>
+</section>
+
+<section class="padding bg-white">
+    <section id="xxx">
+        <h2>das ist mit weißem hintergrund</h2>
+    </section>
+</section>
+
+<section class="!pt-40 padding bg-gray-100 curved">
+    <section id="2col" class="max-container flex justify-between items-start w-full gap-10 max-lg:flex-col">
+        <div class="flex flex-col basis-3/5">
+            <p class="text-2xl font-bold font-poppins gradient">Ohne Programmierkenntnisse</p>
+            <h2 class="mt-1 text-4xl font-bold">Erstellen Sie individuelle Apps</h2>
+            <p class="mt-8">Willkommen in der Zukunft der App-Entwicklung, bei der Programmierkenntnisse optional sind.
+                Mit SeaTable können Sie sofort loslegen!</p>
+            <h3 class="mt-12 text-xl font-bold tracking-tight">Nutzen Sie den No-Code App Builder</h3>
+            <p class="mt-3 text-base leading-normal">Unser No Code App Builder ermöglicht es Ihnen, leistungsstarke, datengetriebene Anwendungen
+                mühelos per Drag-and-Drop-Funktion zu erstellen. Programmieren ohne Code: Ob Sie ein CRM,
+                ein Projektmanagement-Tool oder eine spezifische Lösung für Ihr Unternehmen benötigen – Sie
+                können alles selbst erstellen, auch ohne eine einzige Zeile Code schreiben zu müssen.</p>
+                <h3 class="mt-12 text-xl font-bold tracking-tight">Intuitive No-Code und Low-Code Benutzeroberfläche</h3>
+                <p class="mt-3 text-base leading-normal">Egal, ob Sie ein erfahrener Entwickler oder ein Citizen Developer ohne
+                    Programmierkenntnisse sind, unsere Tools sind darauf ausgelegt, all Ihre Bedürfnisse beim App-Bau zu erfüllen
+                    und Ihre Geschäftsprozesse zu digitalisieren. Starten Sie gleich hier: eigene App erstellen kostenlos.</p>
+                <h3 class="mt-12 text-xl font-bold tracking-tight">Kollaboratives Arbeiten in Echtzeit für Teams</h3>
+                    <p class="mt-3 text-base leading-normal">SeaTable fördert die Zusammenarbeit in Ihrem Team durch Echtzeit-Synchronisation und gemeinsame Arbeitsbereiche.
+                        Jeder im Team kann gleichzeitig auf dieselben Daten zugreifen, Änderungen vornehmen und sehen, was andere bearbeiten.</p>
+                    <p class="mt-3 text-base leading-normal">Dies macht SeaTable zu einem idealen Werkzeug für Teams, die gemeinsam an Projekten arbeiten und ihre Produktivität
+                        steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und
+                        Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren.</p>
+        </div>
+        <div class="basis-2/5 justify-center">
+            <img src="https://placehold.co/560x400" alt="placeholder" />
+        </div>
+    </section>
+</section>
+
+
+
+<section class="padding">
+    <section id="xxx">
+        <h2>das ist mit weißem hintergrund</h2>
+    </section>
+</section>
+
+<!-- requires "relative" -->
+<section class="padding bg-[url('/img/seatable-waves-background-scaled.jpg')] bg-cover bg-center">
+    <section id="abc" class="max-container flex justify-between items-start w-full gap-10 max-lg:flex-col">
+        <div class="flex flex-col flex-1">
+            <h2 class="font-palanquin text-4xl capitalize font-bold">We provide your <span class="text-coral-red">super quality</span> shoes</h2>
+            <p class="mt-4 info-text">Ensuring premium comfort and style, our meticulously crafted footwear is designed
+                to elevate your experience, providing you with unmatched quality, innovation,
+                and a touch of elegance.</p>
+            <p class="mt-4 info-text">Our dedication to detail and excellence ensures your satisfaction</p>
+            <div class="mt-11">
+                <a class="inline-flex justify-center items-center gap-2 font-montserrat text-lg rounded-full px-7 py-4 bg-coral-red text-white">View details <img class="ml-2 rounded-full w-5 h-5" src="/icons/arrow-right.svg" alt="arrow right icon"/></a></button>
+            </div>
+        </div>
+        <div class="flex flex-1 justify-center">
+            <img src="https://placehold.co/570x522" width="570" height="522" alt="placeholder" />
+        </div>
+    </section>
+</section>
+
+<section class="!pt-40 padding bg-gray-100 curved move-up">
+    <section id="2col" class="max-container flex justify-between items-start w-full gap-10 max-lg:flex-col">
+        <div class="flex flex-col basis-3/5">
+            <p class="text-2xl font-bold font-poppins gradient">Ohne Programmierkenntnisse</p>
+            <h2 class="mt-1 text-4xl font-bold">Erstellen Sie individuelle Apps</h2>
+            <p class="mt-8">Willkommen in der Zukunft der App-Entwicklung, bei der Programmierkenntnisse optional sind.
+                Mit SeaTable können Sie sofort loslegen!</p>
+            <h3 class="mt-12 text-xl font-bold tracking-tight">Nutzen Sie den No-Code App Builder</h3>
+            <p class="mt-3 text-base leading-normal">Unser No Code App Builder ermöglicht es Ihnen, leistungsstarke, datengetriebene Anwendungen
+                mühelos per Drag-and-Drop-Funktion zu erstellen. Programmieren ohne Code: Ob Sie ein CRM,
+                ein Projektmanagement-Tool oder eine spezifische Lösung für Ihr Unternehmen benötigen – Sie
+                können alles selbst erstellen, auch ohne eine einzige Zeile Code schreiben zu müssen.</p>
+                <h3 class="mt-12 text-xl font-bold tracking-tight">Intuitive No-Code und Low-Code Benutzeroberfläche</h3>
+                <p class="mt-3 text-base leading-normal">Egal, ob Sie ein erfahrener Entwickler oder ein Citizen Developer ohne
+                    Programmierkenntnisse sind, unsere Tools sind darauf ausgelegt, all Ihre Bedürfnisse beim App-Bau zu erfüllen
+                    und Ihre Geschäftsprozesse zu digitalisieren. Starten Sie gleich hier: eigene App erstellen kostenlos.</p>
+                <h3 class="mt-12 text-xl font-bold tracking-tight">Kollaboratives Arbeiten in Echtzeit für Teams</h3>
+                    <p class="mt-3 text-base leading-normal">SeaTable fördert die Zusammenarbeit in Ihrem Team durch Echtzeit-Synchronisation und gemeinsame Arbeitsbereiche.
+                        Jeder im Team kann gleichzeitig auf dieselben Daten zugreifen, Änderungen vornehmen und sehen, was andere bearbeiten.</p>
+                    <p class="mt-3 text-base leading-normal">Dies macht SeaTable zu einem idealen Werkzeug für Teams, die gemeinsam an Projekten arbeiten und ihre Produktivität
+                        steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und
+                        Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren.</p>
+        </div>
+        <div class="basis-2/5 justify-center">
+            <img src="https://placehold.co/560x400" alt="placeholder" />
+        </div>
+    </section>
+</section>
 
 <section class="padding">
     
