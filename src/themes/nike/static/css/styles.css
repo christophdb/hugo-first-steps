@@ -1085,6 +1085,10 @@ video {
   margin-bottom: calc(0.75rem * var(--tw-space-y-reverse));
 }
 
+.self-end{
+  align-self: flex-end;
+}
+
 .overflow-x-hidden{
   overflow-x: hidden;
 }

@@ -2,6 +2,7 @@
     (dict "name" "hero1" "content" .Params.hero1 "weight" (index .Params.hero1 0).weight)
     (dict "name" "popularproducts" "content" .Params.popularproducts "weight" (index .Params.popularproducts 0).weight)
     (dict "name" "pricetable" "content" .Params.pricetable "weight" (index .Params.pricetable 0).weight)
+    (dict "name" "branchenloesungen" "content" .Params.branchenloesungen "weight" .Params.branchenloesungen.weight)
 }}
 {{ range sort $sections "weight" }}
           
@@ -169,6 +170,38 @@
         {{ end }}
     {{ end }}
 
+    {{ if eq .name "branchenloesungen" }}
+        {{ with .content }}
+                <section class="padding bg-seatable-blue curved">
+                    <section id="blau" class="max-container">
+                        <div class="mx-auto text-center max-w-[800px]">
+                            <p class="text-2xl font-bold font-poppins gradient">{{ .title | markdownify }}</p>
+                            <h2 class="mt-1 text-4xl font-bold text-white">{{ .subtitle | markdownify }}</h2>
+                            <p class="mt-12 text-lg leading-normal text-white">{{ .text | markdownify }}</p>
+                            <div class="mt-12">
+                                {{ with .button }}
+                                    <a class="rounded-xl px-7 py-4 bg-gradient text-white font-bold font-poppins" href="{{ .link | absURL }}">{{ .label }}</a>
+                                {{ end }}
+                            </div>
+                        </div>
+                        <div class="text-center mt-12">
+                            <h3 class=" text-4xl font-bold text-white">{{ .gridheadline | safeHTML }}</h3>
+                        </div>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-12">
+                            {{ range .items }}
+                            <div class="bg-gray-100 flex flex-col p-8 rounded-md">
+                                <i class="fa-solid fa-{{ .icon | markdownify }} text-2xl gradient"></i>
+                                <h3 class="font-bold text-2xl mt-3">{{ .headline | markdownify }}</h3>
+                                <p class="mt-4 mb-8">{{ .text | markdownify }}</p>
+                                <a class="mt-auto" href="{{ .link | absURL }}">{{ T "read_more" }}</a> <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                            {{ end }}
+                        </div>
+                    </section>
+                </section>
+        {{ end }}
+    {{ end }}
+
     {{ if eq .name "popularproducts" }}
         {{ with .content }}
             <!-- popularproducts -->
@@ -229,58 +262,6 @@
         {{ end }}
     {{ end }}
 {{ end }}
-
-<section class="padding bg-seatable-blue curved">
-    <section id="blau" class="max-container">
-        <div class="mx-auto text-center max-w-[800px]">
-            <p class="text-2xl font-bold font-poppins gradient">Was ist SeaTable?</p>
-            <h2 class="mt-1 text-4xl font-bold text-white">So einfach wie Excel mit der Power einer Datenbank</h2>
-            <p class="mt-12 text-lg leading-normal text-white">SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen,
-                Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser.</p>
-            <div class="mt-12">
-                <a class="rounded-xl px-7 py-4 bg-gradient text-white font-bold font-poppins" href="/abc">Jetzt ausprobieren</a>
-            </div>
-        </div>
-        <div class="text-center mt-12">
-            <h3 class=" text-4xl font-bold text-white">Die No-Code <span class="gradient">Lösung</span> für ...</h3>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-12">
-            <div class="bg-gray-100 flex flex-col p-8 rounded-md">
-                <i class="fa-solid fa-chart-simple text-2xl gradient"></i>
-                <h3 class="font-bold text-2xl mt-3">Marketing</h3>
-                <p class="mt-4 mb-8">Planen Sie Kampagnen, verwalten Sie Leads und analysieren Sie Ergebnisse mit SeaTable. Automatisieren Sie Workflows und optimieren Sie Ihre Marketingstrategie.</p>
-                <a class="mt-6" href="#">Mehr erfahren</a> <i class="fa fa-help"></i>
-            </div>
-            <div class="bg-gray-100 flex flex-col p-8 rounded-md">
-                <i class="fa-solid fa-bullseye text-2xl gradient"></i>
-                <h3 class="font-bold text-2xl mt-3">Projektmanagement</h3>
-                <p class="mt-4 mb-8">Nutzen Sie Gantt-Diagramme und Kanban-Boards, um Projekte effizient zu steuern. Verfolgen Sie Fortschritte und koordinieren Sie Teams mit SeaTable.</p>
-                <a class="mt-auto" href="#">Mehr erfahren</a> <i class="fa fa-help"></i>
-            </div>
-            <div class="bg-gray-100 flex flex-col p-8 rounded-md">
-                <i class="fa-solid fa-people-group text-2xl gradient"></i>
-                <h3 class="font-bold text-2xl mt-3">Human Resources</h3>
-                <p class="mt-4 mb-8">Verwalten Sie Mitarbeiterdaten, Schulungen und Urlaubsanträge mit SeaTable. Optimieren Sie HR-Prozesse und verbessern Sie die Mitarbeitererfahrung.</p>
-                <a class="mt-auto" href="#">Mehr erfahren</a> <i class="fa fa-help"></i>
-            </div>
-            <div class="bg-gray-100 flex flex-col p-8 rounded-md">
-                <i class="fa-solid fa-people-group text-2xl gradient"></i>
-                <h3 class="font-bold text-2xl mt-3">Human Resources</h3>
-                <p class="mt-4 mb-8">Verwalten Sie Mitarbeiterdaten, Schulungen und Urlaubsanträge mit SeaTable. Optimieren Sie HR-Prozesse und verbessern Sie die Mitarbeitererfahrung.</p>
-                <a class="mt-auto" href="#">Mehr erfahren</a> <i class="fa fa-help"></i>
-            </div>
-            <div class="bg-gray-100 flex flex-col p-8 rounded-md">
-                <i class="fa-solid fa-chart-simple text-2xl gradient"></i>
-                <h3 class="font-bold text-2xl mt-3">Marketing</h3>
-                <p class="mt-4 mb-8">Planen Sie Kampagnen, verwalten Sie Leads und analysieren Sie Ergebnisse mit SeaTable. Automatisieren Sie Workflows und optimieren Sie Ihre Marketingstrategie.</p>
-                <a class="mt-6" href="#">Mehr erfahren</a> <i class="fa fa-help"></i>
-            </div>
-        </div>
-    </section>
-</section>
-
-
-
 
 
 <section class="padding">
