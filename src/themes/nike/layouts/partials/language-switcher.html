@@ -1,0 +1,12 @@
+<!-- Language List -->
+{{ if hugo.IsMultilingual }}
+<nav>
+    <ul>
+      {{ range $.Translations }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}

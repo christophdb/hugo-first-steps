@@ -1,11 +1,10 @@
 {{ $sections := slice
     (dict "name" "hero1" "content" .Params.hero1 "weight" (index .Params.hero1 0).weight)
     (dict "name" "popularproducts" "content" .Params.popularproducts "weight" (index .Params.popularproducts 0).weight)
+    (dict "name" "pricetable" "content" .Params.pricetable "weight" (index .Params.pricetable 0).weight)
 }}
 {{ range sort $sections "weight" }}
-
-            
-
+          
     <!-- Hero1 -->
     {{ if eq .name "hero1" }}
         {{ with .content }}
@@ -60,6 +59,113 @@
                     
                 </section>
             </section>
+        {{ end }}
+    {{ end }}
+
+    {{ if eq .name "pricetable" }}
+        {{ with .content }}
+
+            <section class="padding curved bg-gray-50">
+                <section id="price-table" class="max-container" x-data="{ isAnnual: true }">
+            
+                    <div class="flex justify-center max-w-[14rem] m-auto mb-2 lg:mb-4">
+                        <div class="relative flex w-full p-1 bg-white dark:bg-slate-900 rounded-full">
+                            <span class="absolute inset-0 m-1 pointer-events-none" aria-hidden="true">
+                                <span class="absolute inset-0 w-1/2 bg-indigo-500 rounded-full shadow-sm shadow-indigo-950/10 transform transition-transform duration-150 ease-in-out" :class="isAnnual ? 'translate-x-0' : 'translate-x-full'"></span>
+                            </span>
+                            <button class="relative flex-1 text-sm font-medium h-8 rounded-full focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600 transition-colors duration-150 ease-in-out" :class="isAnnual ? 'text-white' : 'text-slate-500 dark:text-slate-400'" @click="isAnnual = true" :aria-pressed="isAnnual">{{ T "yearly" }} <span :class="isAnnual ? 'text-indigo-200' : 'text-slate-400 dark:text-slate-500'">-20%</span></button>
+                            <button class="relative flex-1 text-sm font-medium h-8 rounded-full focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600 transition-colors duration-150 ease-in-out" :class="isAnnual ? 'text-slate-500 dark:text-slate-400' : 'text-white'" @click="isAnnual = false" :aria-pressed="isAnnual">{{ T "monthly" }}</button>
+                        </div>
+                    </div>
+            
+                    <div class="mx-auto mt-16 sm:mt-10 grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-4 gap-6 sm:gap-2 items-stretch">
+            
+                        <div class="rounded-3xl bg-white/60 p-8 ring-1 ring-gray-900/10 sm:mx-8  sm:p-10 lg:mx-0">
+                        <h3 id="tier-hobby" class="font-bold text-lg gradient">Free</h3>
+                        <p class="mt-4 flex items-baseline gap-x-2">
+                            <span class="text-4xl font-bold font-poppins tracking-tight text-gray-900" x-text="isAnnual ? '29 €' : '35 €'"></span>
+                            <span class="text-base text-gray-500">/{{ T "month" }}</span>
+                        </p>
+                        <p class="mt-6 text-base/7 text-gray-600">The perfect plan if you&#039;re just getting started with our product.</p>
+                        <a href="#" aria-describedby="tier-hobby" class="mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 sm:mt-10">Get started today</a>
+                        <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 sm:mt-10">
+                            <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 25 products </li>
+                            <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Up to 10,000 subscribers </li>
+                            <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Advanced analytics </li>
+                            <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 24-hour support response time </li>
+                        </ul>
+                        </div>
+            
+                        <div class="rounded-3xl bg-white/60 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+                            <h3 id="tier-hobby" class="font-bold text-lg gradient">Plus</h3>
+                            <p class="mt-4 flex items-baseline gap-x-2">
+                                <span class="text-4xl font-bold font-poppins tracking-tight text-gray-900">29 €</span>
+                                <span class="text-base text-gray-500">/{{ T "month" }}</span>
+                            </p>
+                            <p class="mt-6 text-base/7 text-gray-600">The perfect plan if you&#039;re just getting started with our product.</p>
+                            <a href="#" aria-describedby="tier-hobby" class="mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 sm:mt-10">Get started today</a>
+                            <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 sm:mt-10">
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 25 products </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Up to 10,000 subscribers </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Advanced analytics </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 24-hour support response time </li>
+                            </ul>
+                        </div>
+            
+                        <div class="rounded-3xl  p-8 ring-1 ring-gray-900/10 sm:p-10">
+                            <h3 id="tier-hobby" class="font-bold text-lg gradient">Enterprise</h3>
+                            <p class="mt-4 flex items-baseline gap-x-2">
+                                <span class="text-4xl font-bold font-poppins tracking-tight text-gray-900">99 €</span>
+                                <span class="text-base text-gray-500">/{{ T "month" }}</span>
+                            </p>
+                            <p class="mt-6 text-base/7 text-gray-600">The perfect plan if you&#039;re just getting started with our product.</p>
+                            <a href="#" aria-describedby="tier-hobby" class="mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 sm:mt-10">Get started today</a>
+                            <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 sm:mt-10">
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Unlimiterte Bases </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Unlimitierte Tabellen </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Unlimitierte Zeilen </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 100.000 Zeilen pro Base </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 100 GB für Dateien </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 12 Monate Snapshots </li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Unlimitierte JavaScript und Python Skriptläufe</li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Erweiterte Freigaben</li>
+                                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Erweitertes Customizing</li>
+                            </ul>
+                        </div>
+            
+                        <div class="relative rounded-3xl bg-gray-900 p-8 shadow-2xl ring-1 ring-gray-900/10 sm:p-10">
+                            <h3 id="tier-enterprise" class="font-bold text-lg gradient">Dedicated Cloud</h3>
+                            <p class="mt-4 flex items-baseline gap-x-2">
+                                <span class="text-4xl font-semibold tracking-tight text-white">Custom</span>
+                            </p>
+                            <p class="mt-6 text-base/7 text-gray-300">Dedicated support and infrastructure for your company.</p>
+                            <a href="#" aria-describedby="tier-enterprise" class="mt-8 block rounded-md bg-indigo-500 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500 sm:mt-10">{{ T "contact_sales" }}</a>
+                            <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-300 sm:mt-10">
+                                <li class="flex gap-x-3 text-white text-base">
+                                    <span class="icon-check"></span>
+                                Unlimited products
+                                </li>
+                                <li class="flex gap-x-3 text-white text-base"><span class="icon-check"></span> Unlimited subscribers
+                                </li>
+                                <li class="flex gap-x-3 text-white text-base">
+                                    <span class="icon-check"></span>
+                                Advanced analytics
+                                </li>
+                                <li class="flex gap-x-3 text-white text-base">
+                                    <span class="icon-check"></span>
+                                Dedicated support representative
+                                </li>
+                                <li class="flex gap-x-3 text-white text-base">
+                                    <span class="icon-check"></span>
+                                Marketing automations
+                                </li>
+                            </ul>    
+                        </div>
+
+                    </div>        
+                </section>
+            </section>
+
         {{ end }}
     {{ end }}
 
@@ -172,6 +278,10 @@
         </div>
     </section>
 </section>
+
+
+
+
 
 <section class="padding">
     <section id="galerie" class="max-container">
@@ -415,6 +525,7 @@ https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
     </section>
 </section>
 
+
 <section class="padding curved curved-gradient">
     <section class="">
         <div class="mx-auto text-right max-w-[1000px]">
@@ -427,6 +538,148 @@ https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
         </div>
     </section>
 </section>
+
+<!-- FAQ Section -->
+<section class="padding">
+    <section id="faq">
+        <div class="mx-auto text-center max-w-[900px] mb-24">
+            <h2 class="text-4xl font-bold mt-1 leading-narrow">Häufig gestellte Fragen zur SeaTable No-Code-Lösung
+            </h2>
+        </div>
+
+        <div class="grid grid-cols-1 mx-auto max-w-[900px] mt-4">
+            <div class="cursor-pointer rounded-xl border border-gray-200 bg-gray-50 p-6">
+                <dt class="flex justify-between items-center" aria-controls="faq-1">
+                    <p class="font-poppins font-bold text-lg">Is Desktop for me?</p>
+                    <i class="fa-solid fa-chevron-up -rotate-180 transition-transform"></i>
+                </dt>
+                <dd id="faq-1" class="hidden text-lg mt-6">
+                    <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic nisi quasi, maiores, architecto sapiente odio repellat incidunt expedita
+                        possimus doloremque cupiditate quia fuga corporis error! Voluptate quo quod doloribus totam.
+                    </p>
+                </dd>
+            </div>
+        </div>
+        <div class="grid grid-cols-1 mx-auto max-w-[900px] mt-4">
+            <div class="cursor-pointer rounded-xl border border-gray-200 bg-gray-50 p-6">
+                <dt class="flex justify-between items-center" aria-controls="faq-2">
+                    <p class="font-poppins font-bold text-lg">Is Desktop for me?</p>
+                    <i class="fa-solid fa-chevron-up -rotate-180 transition-transform"></i>
+                </dt>
+                <dd id="faq-2" class="hidden text-lg mt-6">
+                    <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic nisi quasi, maiores, architecto sapiente odio repellat incidunt expedita
+                        possimus doloremque cupiditate quia fuga corporis error! Voluptate quo quod doloribus totam.
+                    </p>
+                </dd>
+            </div>
+        </div>
+    </section>
+</section>
+
+<section class="!pt-40 padding bg-gray-100 curved">
+    <section id="2col" class="max-container flex justify-between items-start w-full gap-10 lg:gap-40 max-lg:flex-col">
+        <div class="flex flex-col basis-3/5">
+            <p class="text-2xl font-bold font-poppins gradient">Datensicherheit und Datenschutz</p>
+            <h2 class="mt-1 text-4xl font-bold">Eine Lösung, der Sie vertrauen können</h2>
+            <p class="mt-8 text-xl leading-normal">Datensicherheit hat bei SeaTable höchste Priorität. Unsere Plattform bietet robuste Sicherheitsfunktionen, um Ihre Daten zuverlässig zu schützen.</p>
+            <p class="mt-8 text-xl leading-normal">Sie behalten stets die Kontrolle über Ihre Informationen und können sicher sein, dass Ihre Daten gemäß den neuesten Datenschutzstandards verwaltet werden.
+                Die SeaTable No-Code Plattform gewährleistet, dass Ihre Daten sicher und konform mit den geltenden Datenschutzbestimmungen gespeichert werden.</p>
+            <p class="mt-8 text-xl leading-normal">Die SeaTable Cloud wird in zertifizierten deutschen Rechenzentren einer Schweizer Anbieters gehostet. Die Registrierung dauert nur wenige Sekunden.</p>
+            <p class="mt-8 text-xl leading-normal">Bei Ihrem eigenen Server entscheiden Sie, wo SeaTable Ihre Daten speicher. Sie haben die volle Datenhoheit.</p>
+            <a href="#" class="mt-8">Erfahren Sie mehr über die verschiedenen Versionen <i class="fa-solid fa-arrow-right"></i></a>
+            <a href="#" class="mt-8">Zum SeaTable On-Premise Angebot <i class="fa-solid fa-arrow-right"></i></a>
+            
+        </div>
+        <div class="basis-2/5 justify-center">
+            <img src="/img/seatable-security-1.jpg" class="p-1 border bg-white rounded-lg shadow-2xl" alt="placeholder" />
+        </div>
+    </section>
+</section>
+
+<!-- Anfrageformular -->
+<section class="padding">
+    <section id="kontaktanfrage" class="max-container">
+        <div class="mx-auto text-center max-w-[800px]">
+            <p class="text-2xl font-bold font-poppins gradient">Kontaktieren Sie uns</p>
+            <h2 class="mt-1 text-4xl font-bold">Lassen Sie uns Ihre Prozess-digitalisierung vorantreiben.</h2>
+            <p class="mt-12 text-lg leading-normal">Unser Team steht Ihnen zur Verfügung, rund um Fragen zu No Code Plattformen, Programmieren ohne Code und Low-Code-Lösungen mit SeaTable. Wir helfen Ihnen,
+                die beste Lösung für Ihr Unternehmen und Ihren Anwendungsfall zu finden. Entdecken Sie noch heute die transformative Power der SeaTable No-Code Digital Solution!</p>
+        </div>
+
+        <form action="#" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
+            <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
+              <div>
+                <label for="first-name" class="block font-bold text-md">First name</label>
+                <div class="mt-2.5">
+                  <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                </div>
+              </div>
+              <div>
+                <label for="last-name" class="block font-bold text-md">Last name</label>
+                <div class="mt-2.5">
+                  <input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full rounded-md bg-white px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                </div>
+              </div>
+              <div class="sm:col-span-2">
+                <label for="company" class="block text-sm/6 font-semibold text-gray-900">Company</label>
+                <div class="mt-2.5">
+                  <input type="text" name="company" id="company" autocomplete="organization" class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                </div>
+              </div>
+              <div class="sm:col-span-2">
+                <label for="email" class="block text-sm/6 font-semibold text-gray-900">Email</label>
+                <div class="mt-2.5">
+                  <input type="email" name="email" id="email" autocomplete="email" class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                </div>
+              </div>
+
+              <div class="sm:col-span-2">
+                <label for="message" class="block text-sm/6 font-semibold text-gray-900">Grund der Anfrage</label>
+
+                <div class="mt-2.5">
+                    <select id="countries" class="bg-gray-50 border appearance-none form-select bg-no-repeat border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                      <option selected>Choose a country</option>
+                      <option value="US">United States</option>
+                      <option value="CA">Canada</option>
+                      <option value="FR">France</option>
+                      <option value="DE">Germany</option>
+                    </select>
+                </div>
+              </div>
+              
+              <div class="sm:col-span-2">
+                <label for="message" class="block text-sm/6 font-semibold text-gray-900">Message</label>
+                <div class="mt-2.5">
+                  <textarea name="message" id="message" rows="4" class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"></textarea>
+                </div>
+              </div>
+
+              <div class="flex gap-x-4 sm:col-span-2">
+                <div class="flex h-6 items-center">
+                  <!-- Enabled: "bg-indigo-600", Not Enabled: "bg-gray-200" -->
+                  <button type="button" class="flex w-8 flex-none cursor-pointer rounded-full bg-gray-200 p-px ring-1 ring-inset ring-gray-900/5 transition-colors duration-200 ease-in-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600" role="switch" aria-checked="false" aria-labelledby="switch-1-label">
+                    <span class="sr-only">Agree to policies</span>
+                    <!-- Enabled: "translate-x-3.5", Not Enabled: "translate-x-0" -->
+                    <span aria-hidden="true" class="size-4 translate-x-0 transform rounded-full bg-white shadow-sm ring-1 ring-gray-900/5 transition duration-200 ease-in-out"></span>
+                  </button>
+                </div>
+                <label class="text-sm/6 text-gray-600" id="switch-1-label">
+                  By selecting this, you agree to our
+                  <a href="#" class="font-semibold text-indigo-600">privacy&nbsp;policy</a>.
+                </label>
+              </div>
+            </div>
+
+            <div class="mt-10">
+              <button type="submit" class="block w-full rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Let's talk</button>
+            </div>
+          </form>
+        
+    </section>
+</section>
+
+
+<!-- AB HIER NIKE !!! -->
 
 
 <!-- requires "relative" -->
