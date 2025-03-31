@@ -63,8 +63,5 @@ RUN PATH=$PATH:/usr/local/go/bin
 
 EXPOSE 1313
 
-#ENTRYPOINT 
-# ENTRYPOINT ["hugo"]
-
-# Command to run when the container starts
-CMD ["hugo", "server", "-D", "-E", "--bind=0.0.0.0"]
+# This starts hugo and tailwind in watch mode
+CMD ["npm", "--prefix", "/hugo/src/themes/nike", "run", "docker:watch"]
