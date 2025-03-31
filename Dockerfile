@@ -64,7 +64,7 @@ RUN PATH=$PATH:/usr/local/go/bin
 EXPOSE 1313
 
 #ENTRYPOINT 
-ENTRYPOINT ["hugo"]
+# ENTRYPOINT ["hugo"]
 
 # Command to run when the container starts
-#CMD ["hugo", "server", "-D", "-E", "--bind=0.0.0.0"]
+CMD ["hugo", "server", "-D", "-E", "--bind=0.0.0.0"]
