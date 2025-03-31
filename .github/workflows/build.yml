@@ -20,4 +20,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: site
-          path: public/archive.tar.gz
+          path: src/archive.tar.gz
