@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-<head>
-  {{ partial "head.html" . }}
-</head>
-<body>
+{{ partial "head.html" . }}
+
+<body class="font-roboto">
+  {{ partial "header/basic.html" . }}
   
-  <main class="relative">
-    {{ partial "header.html" . }}
+  <main id="main-content" class="relative">
     {{ block "main" . }}{{ end }}
   </main>
 
   {{ partial "seocheck.html" . }}
-
 
   <footer>
     {{ partial "footer.html" . }}

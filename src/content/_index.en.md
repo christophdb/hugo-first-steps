@@ -12,8 +12,10 @@ ab_test:
   weight: 3
 pricetable:
   weight: 4
-branchenloesungen:
+maquee:
   weight: 5
+branchenloesungen:
+  weight: 6
   title: "Was ist SeaTable?"
   subtitle: "So einfach wie Excel mit der Power einer Datenbank"
   text: "SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser."

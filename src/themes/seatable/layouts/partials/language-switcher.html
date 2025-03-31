@@ -1,12 +1,25 @@
 <!-- Language List -->
 {{ if hugo.IsMultilingual }}
-<nav>
-    <ul>
-      {{ range $.Translations }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-        </li>
-      {{ end }}
-    </ul>
-  </nav>
+<div class="" x-data="{ languageSwitcherOpen: false }">
+    <div class="w-full flex justify-end">
+        <div class="relative pb-5">
+            <button class=" text-gray-800 rounded shadow-lg py-2 pr-3 pl-5 focus:outline-none" @click="languageSwitcherOpen = !languageSwitcherOpen" aria-label="Toggle language switcher">
+                <span class="flag-icon w-6"></span> <img src="/flags/{{ .Site.Language.Lang }}.svg" width="24" height="24" />
+            </button>
+            <div x-show="languageSwitcherOpen" x-transition @click.away="languageSwitcherOpen = false" class="bg-white text-gray-700 shadow-md rounded text-sm absolute mt-12 top-0 right-0 min-w-full z-30">
+                <span class="absolute top-0 right-0 w-3 h-3 bg-white transform rotate-45 -mt-1 mr-3"></span> 
+                <div class="rounded w-full relative z-10">
+                    <ul class="px-4 py-2 flex">
+                      {{ range $.Translations }}
+                        <li>
+                          <a href="{{ .Permalink }}"><img src="/flags/{{ .Lang }}.svg" width="24" height="24"/></a>
+                        </li>
+                      {{ end }}
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 {{ end }}

@@ -1,0 +1,42 @@
+<header class="padding-x py-8 z-10 w-full" x-data="{ mobileMenuOpen: false }">
+    <nav class="flex justify-between items-center max-container">
+        <!-- Logo -->
+        <a href="/"><img src="/images/seatable-logo.svg" alt="Logo" width="130" height="29" /></a>
+
+        <!-- Hauptnavigation -->
+        <ul class="flex-1 flex justify-center items-center gap-16 max-lg:hidden text-gray-800">
+            {{ if .Site.Menus.main }}
+            {{ range .Site.Menus.main }}
+            {{ partial "header/header-simple.html" . }}
+            {{ end }}
+            {{ end }}
+        </ul>
+
+        <!-- Language, Login, Register -->
+        <div class="flex justify-between items-start gap-8"> 
+            {{ partial "language-switcher.html" . }}
+
+            <!-- Mobile Menu-->
+            <div class="hidden max-lg:block">
+                <button @click="mobileMenuOpen = !mobileMenuOpen" aria-label="Toggle mobile menu">
+                    <img src="/icons/hamburger.svg" alt="Hamburger" width="25" height="25" />
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Mobile menu, show/hide based on menu state. -->
+    <div x-show="mobileMenuOpen" x-transition @click.away="mobileMenuOpen = false" id="mobile-menu" class="hidden max-lg:block">
+        <div class="flex flex-col items-end gap-4 bg-slate-100 p-4">
+            {{ if .Site.Menus.main }}
+            {{ range .Site.Menus.main }}
+            {{ partial "header/header-simple.html" . }}
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+
+</header>
+
+
+
