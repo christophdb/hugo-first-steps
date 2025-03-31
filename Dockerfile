@@ -48,13 +48,11 @@ RUN wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hug
 # Set the working directory for Hugo projects
 WORKDIR /hugo/src
 
-# Tailwind
-#RUN wget https://github.com/tailwindlabs/tailwindcss/releases/download/v4.0.14/tailwindcss-linux-x64 -O /usr/local/tailwindcss
-RUN npm install -g -D tailwindcss@3 postcss@latest autoprefixer@latest prettier prettier-plugin-tailwindcss 
-# tailwind-fontawesome
-#ENV PATH=/app/node_modules/.bin:$PATH
-ENV PATH=/usr/lib/node_modules/.bin:$PATH
+# Copy code
+COPY . /hugo
 
+# Install dependencies
+RUN npm install --prefix /hugo/src/themes/nike
 
 # Clean up
 RUN apt-get remove -y wget && apt-get autoremove -y && apt-get clean
