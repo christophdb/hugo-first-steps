@@ -1,0 +1,23 @@
+name: Build
+
+# TODO: Only on main?
+on: push
+
+jobs:
+  create-archive:
+    name: Create archive
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Build site
+        run: ./build.sh
+      - name: Create tar.gz archive
+        run: tar -czvf archive.tar.gz public
+        working-directory: src
+      # Step 4: Upload the archive as an artifact
+      - name: Upload tar.gz artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: archive.tar.gz
