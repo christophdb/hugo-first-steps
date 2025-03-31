@@ -1,0 +1,15 @@
+baseURL = 'https://seatable.com/'
+theme = 'seatable'
+title = 'SeaTable - no code no limit'
+
+defaultContentLanguage = 'en'
+
+[sitemap]
+  changeFreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+

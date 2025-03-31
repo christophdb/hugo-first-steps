@@ -1,0 +1,10 @@
+disabled = false
+languageCode = "de"
+languageName = "Deutsch"
+weight = 2
+title = "SeaTable"
+
+[params]
+  displayName = "DE"
+  isoCode = "de"
+  dateFormat = "2 January 2006"
