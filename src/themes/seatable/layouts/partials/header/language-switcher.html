@@ -2,7 +2,7 @@
 {{ if hugo.IsMultilingual }}
 <div class="" x-data="{ languageSwitcherOpen: false }">
     <div class="w-full flex justify-end">
-        <div class="relative pb-5">
+        <div class="relative">
             <button class=" text-gray-800 py-2 px-4 focus:outline-none" @click="languageSwitcherOpen = !languageSwitcherOpen" aria-label="Toggle language switcher">
                 <span class="flag-icon w-6"></span> <img src="/flags/{{ .Site.Language.Lang }}.svg" width="24" height="24" />
             </button>

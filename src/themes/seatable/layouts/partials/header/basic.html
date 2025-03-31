@@ -13,8 +13,9 @@
         </ul>
 
         <!-- Language, Login, Register -->
-        <div class="flex justify-between items-start gap-8"> 
-            {{ partial "language-switcher.html" . }}
+        <div class="flex justify-between items-center gap-2"> 
+            {{ partial "header/registration-button.html" . }}
+            {{ partial "header/language-switcher.html" . }}
 
             <!-- Mobile Menu-->
             <div class="hidden max-lg:block">
