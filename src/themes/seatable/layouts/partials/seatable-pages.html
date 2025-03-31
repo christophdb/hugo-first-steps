@@ -293,12 +293,12 @@ https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
         </div>
 
         <div class="grid grid-cols-1 mx-auto max-w-[900px] mt-4">
-            <div class="cursor-pointer rounded-xl border border-gray-200 bg-gray-50 p-6">
-                <dt class="flex justify-between items-center" aria-controls="faq-1">
+            <div x-data="{open:false}" class="cursor-pointer rounded-xl border border-gray-200 bg-gray-50 p-6">
+                <dt @click="open=!open" class="flex justify-between items-center" aria-controls="faq-1">
                     <p class="font-poppins font-bold text-lg">Is Desktop for me?</p>
-                    <i class="fa-solid fa-chevron-up -rotate-180 transition-transform"></i>
+                    <i :class="open || '-rotate-180'" class="fa-solid fa-chevron-up transition-transform"></i>
                 </dt>
-                <dd id="faq-1" class="hidden text-lg mt-6">
+                <dd x-show="open" id="faq-1" class="text-lg mt-6">
                     <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic nisi quasi, maiores, architecto sapiente odio repellat incidunt expedita
                         possimus doloremque cupiditate quia fuga corporis error! Voluptate quo quod doloribus totam.
                     </p>
@@ -306,12 +306,12 @@ https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
             </div>
         </div>
         <div class="grid grid-cols-1 mx-auto max-w-[900px] mt-4">
-            <div class="cursor-pointer rounded-xl border border-gray-200 bg-gray-50 p-6">
-                <dt class="flex justify-between items-center" aria-controls="faq-2">
+            <div x-data="{open:false}" class="cursor-pointer rounded-xl border border-gray-200 bg-gray-50 p-6">
+                <dt @click="open=!open" class="flex justify-between items-center" aria-controls="faq-2">
                     <p class="font-poppins font-bold text-lg">Is Desktop for me?</p>
-                    <i class="fa-solid fa-chevron-up -rotate-180 transition-transform"></i>
+                    <i :class="open || '-rotate-180'" class="fa-solid fa-chevron-up transition-transform"></i>
                 </dt>
-                <dd id="faq-2" class="hidden text-lg mt-6">
+                <dd x-show="open" id="faq-2" class="text-lg mt-6">
                     <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic nisi quasi, maiores, architecto sapiente odio repellat incidunt expedita
                         possimus doloremque cupiditate quia fuga corporis error! Voluptate quo quod doloribus totam.
                     </p>
