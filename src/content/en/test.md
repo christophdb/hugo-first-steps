@@ -2,7 +2,7 @@
 title: "Test"
 
 hero1:
-  - weight: 2
+  weight: 2
 popularproducts:
-  - weight: 1
+  weight: 1
 ---

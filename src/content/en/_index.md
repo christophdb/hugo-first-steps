@@ -1,14 +1,19 @@
 ---
 title: "adaf"
+seotitle: "asdaf"
+keyphrase: "seatable"
+description: "xxx seatable"
 
-hero1: 
-  - weight: 1
+hero1:
+  weight: 1
 popularproducts:
-  - weight: 2
+  weight: 2
+ab_test:
+  weight: 3
 pricetable:
-  - weight: 3
-branchenloesungen:
   weight: 4
+branchenloesungen:
+  weight: 5
   title: "Was ist SeaTable?"
   subtitle: "So einfach wie Excel mit der Power einer Datenbank"
   text: "SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser."
@@ -41,9 +46,17 @@ branchenloesungen:
       headline: "Individuell"
       text: "Erstellen Sie maßgeschneiderte Anwendungen für Ihre spezifischen Geschäftsanforderungen mit SeaTable. Automatisieren Sie Prozesse und verbessern Sie die Effizienz."
       link: ""
-
+    - icon: "arrow-right"
+      headline: "test"
+      text: "test2"
+    - icon: "arrow-right"
+      headline: "asdfadsf"
 
                           
 
 
 ---
+
+## asdfadf
+
+asdfasdfasdfafd

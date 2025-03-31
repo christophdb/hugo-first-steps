@@ -10,10 +10,12 @@
     {{ block "main" . }}{{ end }}
   </main>
 
+  {{ partial "seocheck.html" . }}
+
+
   <footer>
     {{ partial "footer.html" . }}
   </footer>
-
 
   {{- with resources.Get "js/faq.js" }}
   {{- if eq hugo.Environment "development" }}
@@ -29,6 +31,38 @@
 {{- end }}
 
 <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+<script>
+  function abTest() {
+    return {
+      variant: Math.random() > 0.5 ? 'A' : 'B', // Randomly assign 'A' or 'B'
+    };
+  }
+</script>
+<script>
+  function formValidation() {
+    return {
+      email: '',
+      errors: {},
+      validateEmail() {
+        if (!this.email.trim()) {
+          this.errors.email = 'Email is required';
+        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+          this.errors.email = 'Invalid email address';
+        } else {
+          this.errors.email = '';
+        }
+      },
+      submitForm() {
+        this.validateEmail();
+        if (!this.errors.email) {
+          console.log('Form submitted successfully');
+        } else {
+          console.log('Form contains errors');
+        }
+      },
+    };
+  }
+</script>
 
 
 </body>
