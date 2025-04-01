@@ -5,6 +5,13 @@ draft: false
 url: "/de/funktionen"
 translationKey: "functions"
 
+
+sections:
+- name: hero1
+  weight: 1
+- name: pricetable
+  weight: 2
+
 ---
 
 <!-- bei single pages kommt alles in den frontmatter ... -->

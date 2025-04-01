@@ -7,7 +7,7 @@ description: "xxx seatable"
 sections:
 - name: hero1
   weight: 1
-- name: popularproducts
+- name: nike-popularproducts
   weight: 2
 - name: ab_test
   weight: 3

@@ -55,112 +55,12 @@
         </section>
     {{ end }}
 
-    <!-- Hero1 -->
-    {{ if eq .name "hero1" }}
-        {{ with .content }}
-            <!-- Hero1 -->
-            
-        {{ end }}
-    {{ end }}
-
-    {{ if eq .name "pricetable" }}
-        {{ with .content }}
-
-            
-
-        {{ end }}
-    {{ end }}
-
-    {{ if eq .name "branchenloesungen" }}
-        {{ with .content }}
-                <section class="padding bg-seatable-blue curved">
-                    <section id="blau" class="max-container">
-                        <div class="mx-auto text-center max-w-[800px]">
-                            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle | markdownify }}</p>
-                            <h2 class="mt-1 text-4xl font-bold text-white">{{ .title | markdownify }}</h2>
-                            <p class="mt-12 text-lg leading-normal text-white">{{ .text | markdownify }}</p>
-                            
-                        </div>
-                        <div class="text-center mt-12">
-                            <h3 class=" text-4xl font-bold text-white">{{ .gridheadline | safeHTML }}</h3>
-                        </div>
-                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-12">
-                            {{ range .items }}
-                            <div class="bg-gray-100 flex flex-col p-8 rounded-md">
-                                <i class="fa-solid fa-{{ .icon | markdownify }} text-2xl gradient"></i>
-                                <h3 class="font-bold text-2xl mt-3">{{ .headline | markdownify }}</h3>
-                                <p class="mt-4 mb-8">{{ .text | markdownify }}</p>
-                                <a class="mt-auto" href="{{ .link | absURL }}">{{ T "read_more" }}</a> <i class="fa-solid fa-arrow-right"></i>
-                            </div>
-                            {{ end }}
-                        </div>
-                        <div class="mt-24 mx-auto text-center">
-                            {{ with .button }}
-                                <a class="rounded-xl px-7 py-4 bg-gradient text-white font-bold font-poppins" href="{{ .link | absURL }}">{{ .label }}</a>
-                            {{ end }}
-                        </div>
-                    </section>
-                </section>
-        {{ end }}
-    {{ end }}
+ 
 
     {{ if eq .name "popularproducts" }}
         {{ with .content }}
             <!-- popularproducts -->
-            <section class="padding">
-                <section id="products" class="max-container max-sm:mt-12">
-                    <div class="flex flex-col justify-start gap-5">
-                        <h2 class="text-4xl font-palanquin font-bold">Our <span class="text-coral-red">Popular</span> Products</h2>
-                        <p class="lg:max-w-lg mt-2 font-montserrat text-slate-gray">Experience top-notch quality and style with our sought-after
-                            selections. Discover a world of comfort, design, and value</p>
-                    </div>
-
-                    <div class="mt-16 grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 sm:gap-6 gap-14">
-                    
-                        <div class="flex flex-1 flex-col w-full max-sm:w-full">
-                            <img src="/images/shoe4.svg" alt="shoe1" class="w-[282px] h-[282px]" />
-                            <div class="mt-8 flex justify-start gap-2.5">
-                                <img src="/icons/star.svg" alt="rating icon" width="24" height="24" />
-                                <p class="font-montserrat text-xl leading-normal text-slate-gray">(4.5)</p>
-                            </div>
-                            <h3 class="mt-2 text-2xl leading-normal font-semibold font-palanquin">Nike Air Jordan-01</h3>
-                            <p class="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">$200.20</p>
-                        </div>
-
-                        <div class="flex flex-1 flex-col w-full max-sm:w-full">
-                            <img src="/images/shoe5.svg" alt="shoe1" class="w-[282px] h-[282px]" />
-                            <div class="mt-8 flex justify-start gap-2.5">
-                                <img src="/icons/star.svg" alt="rating icon" width="24" height="24" />
-                                <p class="font-montserrat text-xl leading-normal text-slate-gray">(4.5)</p>
-                            </div>
-                            <h3 class="mt-2 text-2xl leading-normal font-semibold font-palanquin">Nike Air Jordan-10</h3>
-                            <p class="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">$210.20</p>
-                        </div>
-
-                        <div class="flex flex-1 flex-col w-full max-sm:w-full">
-                            <img src="/images/shoe6.svg" alt="shoe1" class="w-[282px] h-[282px]" />
-                            <div class="mt-8 flex justify-start gap-2.5">
-                                <img src="/icons/star.svg" alt="rating icon" width="24" height="24" />
-                                <p class="font-montserrat text-xl leading-normal text-slate-gray">(4.5)</p>
-                            </div>
-                            <h3 class="mt-2 text-2xl leading-normal font-semibold font-palanquin">Nike Air Jordan-10</h3>
-                            <p class="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">$220.20</p>
-                        </div>
-
-                        <div class="flex flex-1 flex-col w-full max-sm:w-full">
-                            <img src="/images/shoe7.svg" alt="shoe1" class="w-[282px] h-[282px]" />
-                            <div class="mt-8 flex justify-start gap-2.5">
-                                <img src="/icons/star.svg" alt="rating icon" width="24" height="24" />
-                                <p class="font-montserrat text-xl leading-normal text-slate-gray">(4.5)</p>
-                            </div>
-                            <h3 class="mt-2 text-2xl leading-normal font-semibold font-palanquin">Nike Air Jordan-10</h3>
-                            <p class="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">$230.20</p>
-                        </div>
-
-                    </div>
-
-                </section>
-            </section>
+            
         {{ end }}
     {{ end }}
 {{ end }}
@@ -194,47 +94,7 @@
     </section>
 </section>
 
-<section class="padding">
-    <section id="customers" class="max-container">
-        <div class="mx-auto text-center max-w-[800px]">
-            <p class="text-2xl font-bold font-poppins gradient">Wer nutzt SeaTable?</p>
-            <h2 class="mt-1 text-4xl font-bold">Tausende Menschen weltweit nutzen bereits SeaTable</h2>
-        </div>
-        <div class="relative flex overflow-x-hidden marquee-fade">
-            <div class="py-12 animate-marquee whitespace-nowrap flex gap-4 ">
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/bwi.png" alt="" />
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/united-nations.png" alt="" />
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/max-planck-gesellschaft.png" alt="" />
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/cma-cgm.png" alt="" />
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/hceres.png" alt="" />
-            </div>
-            <div class="absolute pl-2 top-0 py-12 animate-marquee2 whitespace-nowrap flex gap-4">
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/bwi.png" alt="" />
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/united-nations.png" alt="" />
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/max-planck-gesellschaft.png" alt="" />
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/cma-cgm.png" alt="" />
-                <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/hceres.png" alt="" />
-            </div>
-        </div>
-        <div class="grid grid-cols-3 mt-8 gap-16">
-            <div class="text-center">
-                <p class="text-4xl gradient font-bold font-poppins">100.000+</p>
-                <p class="text-xl mt-4">Downloads im ersten Jahr von Docker Hub</p>
-            </div>
-            <div class="text-center">
-                <p class="text-4xl gradient font-bold font-poppins">1.500+</p>
-                <p class="text-xl mt-4">Tägliche Nutzer auf SeaTable Cloud</p>
-            </div>
-            <div class="text-center">
-                <p class="text-4xl gradient font-bold font-poppins">4.6</p>
-                <p class="text-xl mt-4">Bewertung auf Capterra</p>
-            </div>
-        </div>
-        <div class="text-center mt-24">
-            <a href="#" class="rounded-xl px-7 py-4 bg-white text-gray-800 font-bold font-poppins border border-seatable-blue">Lesen Sie weitere Erfolgsgeschichten</a>
-        </div>
-    </section>
-</section>
+
 
 <!--
 <section class="padding-x pt-8 pb-8 bg-purple-600">
