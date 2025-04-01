@@ -5,4 +5,5 @@ date: 2022-04-14
 version: 1.0.1
 type: "legal"
 url: "/de/nutzungsbedingungen"
+translationKey: "terms-of-use"
 ---

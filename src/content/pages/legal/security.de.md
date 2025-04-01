@@ -4,6 +4,7 @@ description: "Legal information about this website"
 date: 2022-05-13
 type: "legal"
 url: "/de/sicherheit"
+translationKey: "security"
 ---
 
 Stand: 13. Mai 2022

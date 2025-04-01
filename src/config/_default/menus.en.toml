@@ -99,7 +99,7 @@
 
 [[footer]]
   name = "Terms of use"
-  pageRef = "terms-of-service"
+  pageRef = "terms-of-use"
   weight = 40
 
 [[footer]]

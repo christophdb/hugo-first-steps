@@ -3,7 +3,8 @@ title: "Datenschutz"
 description: "Legal information about this website"
 date: 2022-05-13
 type: "legal"
-url: "/den/datenschutz"
+url: "/de/datenschutz"
+translationKey: "data-privacy"
 ---
 
 Version 1.3.0 vom 3\. November 2022

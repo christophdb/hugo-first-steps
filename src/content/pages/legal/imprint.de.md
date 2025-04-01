@@ -4,6 +4,7 @@ description: "..."
 date: 2025-03-24
 type: "legal"
 url: "/de/impressum"
+translationKey: "imprint"
 ---
 
 ## Angaben gemäß Paragraph 5 DDG
