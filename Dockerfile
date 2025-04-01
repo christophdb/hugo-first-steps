@@ -51,9 +51,6 @@ WORKDIR /hugo/src
 # Copy code
 COPY . /hugo
 
-# Install dependencies
-RUN npm install --prefix /hugo/src/themes/seatable
-
 # Clean up
 RUN apt-get remove -y wget && apt-get autoremove -y && apt-get clean
 RUN rm -rf /var/lib/apt/lists/*
@@ -62,6 +59,10 @@ RUN rm -rf /var/lib/apt/lists/*
 RUN PATH=$PATH:/usr/local/go/bin
 
 EXPOSE 1313
+
+COPY entrypoint.sh /usr/local/bin/entrypoint.sh
+
+ENTRYPOINT ["entrypoint.sh"]
 
 # This starts hugo and tailwind in watch mode
 CMD ["npm", "--prefix", "/hugo/src/themes/seatable", "run", "docker:watch"]
