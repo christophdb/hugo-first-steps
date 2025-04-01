@@ -1,0 +1,18 @@
+<li>
+    <a href="{{ .URL }}" {{ if or (strings.HasPrefix .URL "http:" ) (strings.HasPrefix .URL "https:" ) }} target="_blank" {{
+        end }} class="text-right text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        <span class="text-lg font-poppins font-bold" title="{{ .Title }}">
+            {{ .Name | markdownify }}
+        </span>
+        
+        {{ if .HasChildren }}
+            <ul class="">
+                {{ range .Children }}
+                <li>
+                    <a href="{{ .URL }}" class="">{{ .Name | markdownify }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        {{ end }}
+    </a>
+</li>
