@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Palanquin:wght@100;200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Palanquin:wght@100;200;300;400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+/*@import "/usr/lib/node_modules/@fortawesome/fontawesome-free/css/all.css";*/
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.marquee-fade {
+  mask-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 20%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0) 100%);
+}
+
+p, label, li {
+  @apply font-roboto;
+  @apply text-seatable-gray;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  @apply font-poppins;
+  @apply text-seatable-blue;
+}
+
+.curved-gradient {
+  background: linear-gradient(90deg, #EE3234 0%, #FF8000 100%) !important;
+}
+.curved-gradient::before, .curved-gradient::after {
+  background: linear-gradient(90deg, #EE3234 0%, #FF8000 100%) !important;
+}
+
+.curved {
+  position: relative;
+  margin: calc(5vw - 4px) 0;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100%;
+  mask-size: 100%;
+}
+.curved::before {
+  background-color: inherit;
+    content: "";
+    height: 5vw;
+    left: 0;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: auto 100%;
+    mask-size: auto 100%;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+  background-position: bottom;
+    -webkit-mask-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIwIDkwLjg1Ij48cGF0aCBkPSJNMCAwdjkwLjg1aDE5MjBWLjM3QzE2MzQuMDcgNTMgMTMwNy42MiA4Mi44NSA5NjEgODIuODUgNjEzLjU3IDgyLjg1IDI4Ni40MSA1Mi44OCAwIDAiIGRhdGEtbmFtZT0iTGF5ZXIgMiIgc3R5bGU9ImZpbGw6IzEwMTAxMCIvPjwvc3ZnPg==);
+    mask-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIwIDkwLjg1Ij48cGF0aCBkPSJNMCAwdjkwLjg1aDE5MjBWLjM3QzE2MzQuMDcgNTMgMTMwNy42MiA4Mi44NSA5NjEgODIuODUgNjEzLjU3IDgyLjg1IDI4Ni40MSA1Mi44OCAwIDAiIGRhdGEtbmFtZT0iTGF5ZXIgMiIgc3R5bGU9ImZpbGw6IzEwMTAxMCIvPjwvc3ZnPg==);
+    -webkit-mask-position: bottom;
+    mask-position: bottom;
+    top: calc(-5vw + 2px);
+}
+.curved::after {
+  background-color: inherit;
+  content: "";
+  height: 5vw;
+  left: 0;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: auto 100%;
+  mask-size: auto 100%;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+  background-position: top;
+    bottom: calc(-5vw + 2px);
+    -webkit-mask-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIwIDg0Ij48ZyBkYXRhLW5hbWU9IkxheWVyIDIiPjxwYXRoIGQ9Ik0wIDEuMTVDMjg2LjQxIDU0IDYxMy41NyA4NCA5NjEgODRjMzQ2LjYyIDAgNjczLjA3LTI5Ljg0IDk1OS04Mi40OVYwSDBaIiBkYXRhLW5hbWU9IkxheWVyIDEiIHN0eWxlPSJmaWxsOiMxMDEwMTAiLz48L2c+PC9zdmc+);
+    mask-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIwIDg0Ij48ZyBkYXRhLW5hbWU9IkxheWVyIDIiPjxwYXRoIGQ9Ik0wIDEuMTVDMjg2LjQxIDU0IDYxMy41NyA4NCA5NjEgODRjMzQ2LjYyIDAgNjczLjA3LTI5Ljg0IDk1OS04Mi40OVYwSDBaIiBkYXRhLW5hbWU9IkxheWVyIDEiIHN0eWxlPSJmaWxsOiMxMDEwMTAiLz48L2c+PC9zdmc+);
+    -webkit-mask-position: top;
+    mask-position: top;
+}
+.move-up {
+  top: calc(-5vw - 60px);
+}
+
+/* select option arrow */
+.form-select {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAQCAYAAAAMJL+VAAAABGdBTUEAALGPC/xhBQAAAQtJREFUOBG1lEEOgjAQRalbGj2OG9caOACn4ALGtfEuHACiazceR1PWOH/CNA3aMiTaBDpt/7zPdBKy7M/DCL9pGkvxxVp7KsvyJftL5rZt1865M+Ucq6pyyF3hNcI7Cuu+728QYn/JQA5yKaempxuZmQngOwEaYx55nu+1lQh8GIatMGi+01NwBcEmhxBqK4nAPZJ78K0KKFAJmR3oPp8+Iwgob0Oa6+TLoeCvRx+mTUYf/FVBGTPRwDkfLxnaSrRwcH0FWhNOmrkWYbE2XEicqgSa1J0LQ+aPCuQgZiLnwewbGuz5MGoAhcIkCQcjaTBjMgtXGURMVHC1wcQEy0J+Zlj8bKAnY1/UzDe2dbAVqfXn6wAAAABJRU5ErkJggg==');
+  background-size: 0.7rem;
+  background-position: right 0.7rem center;
+}
+
+.icon-check {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+
+.icon-check::before {
+  content: '';
+  display: block;
+  width: inherit;
+  height: inherit;
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="%23FFA500"><path fill-rule="evenodd" d="M16.704 4.153a.75.75%200%200%201%20.143%201.052l-8%2010.5a.75.75%200%200%201-1.127.075l-4.5-4.5a.75.75%200%200%201%201.06-1.06l3.894%203.893%207.48-9.817a.75.75%200%200%201%201.05-.143Z" clip-rule="evenodd"/></svg>');
+}
+
+@layer components {
+  .max-container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .input {
+    @apply sm:flex-1 max-sm:w-full text-base leading-normal text-slate-gray pl-5 max-sm:p-5 outline-none sm:border-none border max-sm:border-slate-gray max-sm:rounded-full;
+  }
+}
+
+@layer utilities {
+  .gradient {
+    @apply text-transparent bg-clip-text bg-gradient-to-r from-[#EE3234] to-[#FF8000];
+  }
+  .bg-gradient {
+    background: linear-gradient(90deg, #EE3234 0%, #FF8000 100%) !important;
+  }
+
+  .padding {
+    @apply sm:px-16 px-8 sm:py-24 py-12;
+  }
+
+  .padding-x {
+    @apply sm:px-16 px-8;
+  }
+
+  .padding-y {
+    @apply sm:py-24 py-12;
+  }
+
+  .padding-l {
+    @apply sm:pl-16 pl-8;
+  }
+
+  .padding-r {
+    @apply sm:pr-16 pr-8;
+  }
+
+  .padding-t {
+    @apply sm:pt-24 pt-12;
+  }
+
+  .padding-b {
+    @apply sm:pb-24 pb-12;
+  }
+
+  .info-text {
+    @apply font-montserrat text-slate-gray text-lg leading-7;
+  }
+}

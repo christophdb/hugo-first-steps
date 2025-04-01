@@ -1,0 +1,19 @@
+
+
+{{ with .Params.sections }}
+    {{ range sort . "weight" }}
+        {{ $partialName := printf "partials/content-blocks/%s.html" .name }}
+        {{ if templates.Exists $partialName }}
+            {{ partial $partialName . }}
+        {{ else }}
+            {{ partial "content-blocks/unknown.html" . }}
+        {{ end }}
+    {{ end }}
+{{ else }}
+    {{ partial "content-blocks/undefined.html" . }}
+{{ end }}
+
+
+
+
+

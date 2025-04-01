@@ -99,3 +99,13 @@ go 1.24.1
 - two robots talking with each other, purple background, cartoon style, digital illustration --ar 2:1 
 - Cute robot character, purple background, cartoon style, digital illustration --ar 2:1 
 1000:500px
+
+
+
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+https://www.youtube.com/watch?v=tS7upsfuxmo
+https://play.tailwindcss.com/
+https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
+https://kinsta.com/de/blog/express-app-erstellen/
+https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/

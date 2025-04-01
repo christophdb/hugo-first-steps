@@ -1,0 +1,24 @@
+[[main]]
+  name = "Functions"
+  pageRef = "functions"
+  weight = 10
+
+[[main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 11
+
+[[main]]
+  name = 'Posts'
+  pageRef = '/'
+  weight = 20
+
+[[main]]
+  name = 'Tags'
+  pageRef = '/'
+  weight = 30
+
+[[main]]
+  name = "Preise"
+  pageRef = "prices"
+  weight = 40
