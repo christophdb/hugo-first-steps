@@ -4,17 +4,18 @@ seotitle: "asdaf"
 keyphrase: "seatable"
 description: "xxx seatable"
 
-hero1:
+sections:
+- name: hero1
   weight: 1
-popularproducts:
+- name: popularproducts
   weight: 2
-ab_test:
+- name: ab_test
   weight: 3
-pricetable:
+- name: pricetable
   weight: 4
-maquee:
+- name: maquee
   weight: 5
-branchenloesungen:
+- name: branchenloesungen
   weight: 6
   title: "Was ist SeaTable?"
   subtitle: "So einfach wie Excel mit der Power einer Datenbank"
@@ -53,12 +54,4 @@ branchenloesungen:
       text: "test2"
     - icon: "arrow-right"
       headline: "asdfadsf"
-
-                          
-
-
 ---
-
-## asdfadf
-
-asdfasdfasdfafd

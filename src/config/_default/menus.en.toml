@@ -17,3 +17,8 @@
   name = 'Tags'
   pageRef = '/'
   weight = 30
+
+[[main]]
+  name = "Preise"
+  pageRef = "prices"
+  weight = 40

@@ -71,7 +71,7 @@
 
 [[main]]
   name = "Preise"
-  pageRef = "/"
+  pageRef = "prices"
   weight = 40
 
 [[main]]
