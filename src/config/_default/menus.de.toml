@@ -78,3 +78,31 @@
   name = "Blog"
   pageRef = "/"
   weight = 50
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page.
+
+[[footer]]
+  name = "Impressum"
+  pageRef = "imprint"
+  weight = 10
+
+[[footer]]
+  name = "Sicherheit"
+  pageRef = "security"
+  weight = 20
+
+[[footer]]
+  name = "Datenschutz"
+  pageRef = "data-privacy"
+  weight = 30
+
+[[footer]]
+  name = "Nutzungsbedingungen"
+  pageRef = "terms-of-service"
+  weight = 40
+
+[[footer]]
+  name = "EULA"
+  pageRef = "eula"
+  weight = 50

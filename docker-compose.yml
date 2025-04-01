@@ -1,5 +1,6 @@
 services:
   hugo:
+    container_name: hugo
     # TODO: Replace with image hosted on DockerHub/GCR
     build: .
     environment:

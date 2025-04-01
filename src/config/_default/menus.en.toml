@@ -1,24 +1,108 @@
+# -- Main Menu --
+
 [[main]]
   name = "Functions"
   pageRef = "functions"
   weight = 10
 
 [[main]]
-  name = 'Home'
-  pageRef = '/'
-  weight = 11
-
-[[main]]
-  name = 'Posts'
-  pageRef = '/'
+  name = "Products"
+  pageRef = "/"
   weight = 20
 
 [[main]]
-  name = 'Tags'
-  pageRef = '/'
+  name = "SeaTable Cloud"
+  parent = "Products"
+  pageRef = "/"
+  weight = 21
+
+[[main]]
+  name = "SeaTable Dedicated"
+  parent = "Products"
+  pageRef = "/"
+  weight = 22
+
+[[main]]
+  name = "SeaTable Server"
+  parent = "Products"
+  pageRef = "/"
+  weight = 23
+
+[[main]]
+  name = "Industry solutions"
+  pageRef = "#0"
   weight = 30
 
 [[main]]
-  name = "Preise"
+  name = "Marketing"
+  parent = "Industry solutions"
+  pageRef = "/"
+  weight = 31
+
+[[main]]
+  name = "Project management"
+  parent = "Industry solutions"
+  pageRef = "/"
+  weight = 32
+
+[[main]]
+  name = "HR"
+  parent = "Industry solutions"
+  pageRef = "https://www.google.de"
+  weight = 33
+
+[[main]]
+  name = "Public service"
+  parent = "Industry solutions"
+  pageRef = "https://www.google.de"
+  weight = 34
+
+[[main]]
+  name = "Software development"
+  parent = "Industry solutions"
+  pageRef = "https://www.google.de"
+  weight = 34
+
+[[main]]
+  name = "Individual"
+  parent = "Industry solutions"
+  pageRef = "https://www.google.de"
+  weight = 34
+
+[[main]]
+  name = "Prices"
   pageRef = "prices"
   weight = 40
+
+[[main]]
+  name = "Blog"
+  pageRef = "/"
+  weight = 50
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page
+
+[[footer]]
+  name = "Imprint"
+  pageRef = "imprint"
+  weight = 10
+
+[[footer]]
+  name = "Security"
+  pageRef = "security"
+  weight = 20
+
+[[footer]]
+  name = "Data protection"
+  pageRef = "data-privacy"
+  weight = 30
+
+[[footer]]
+  name = "Terms of use"
+  pageRef = "terms-of-service"
+  weight = 40
+
+[[footer]]
+  name = "EULA"
+  pageRef = "eula"
+  weight = 50
