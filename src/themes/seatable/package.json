@@ -4,10 +4,20 @@
   "description": "## Features",
   "main": "index.js",
   "scripts": {
-    "build": "npx tailwindcss build -i assets/css/styles.css -o static/css/styles.css",
-    "watch": "npx tailwindcss build -i assets/css/styles.css -o static/css/styles.css --watch"
+    "build": "tailwindcss build -i assets/css/styles.css -o static/css/styles.css",
+    "watch": "tailwindcss build -i assets/css/styles.css -o static/css/styles.css --watch",
+    "docker:hugo": "hugo server --source /hugo/src -D -E --bind=0.0.0.0",
+    "docker:watch": "concurrently \"npm run watch\" \"npm run docker:hugo\""
   },
   "keywords": [],
   "author": "Christoph Dyllick-Brenzinger",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "concurrently": "^9.1.2",
+    "postcss": "^8.5.3",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tailwindcss": "^3.4.17"
+  }
 }

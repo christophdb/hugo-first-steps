@@ -1,0 +1,10 @@
+services:
+  hugo:
+    # TODO: Replace with image hosted on DockerHub/GCR
+    build: .
+    environment:
+      - HUGO_BACKEND_URL=http://127.0.0.1:3000
+    ports:
+      - 127.0.0.1:1313:1313
+    volumes:
+      - ${PWD}:/hugo
