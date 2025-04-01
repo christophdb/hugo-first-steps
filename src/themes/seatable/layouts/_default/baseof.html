@@ -3,6 +3,12 @@
 {{ partial "head.html" . }}
 
 <body class="font-roboto">
+  {{ if hugo.IsProduction }}
+  {{ else }}
+    {{ partial "tw-size-indicator.html" . }}
+  {{ end }}
+
+
   {{ partial "header/basic.html" . }}
   
   <main id="main-content" class="relative">
