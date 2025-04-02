@@ -1,35 +1,39 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle: (optional)
+  items:
+  - q:
+    a:
+  - q:
+    a:</code></pre></div>
+{{ end }}
+
+<!-- HTML Block -->
 <section class="padding">
     <section id="faq">
         <div class="mx-auto text-center max-w-[900px] mb-24">
-            <h2 class="text-4xl font-bold mt-1 leading-narrow">Häufig gestellte Fragen zur SeaTable No-Code-Lösung
-            </h2>
+            {{ if .subtitle }}
+                <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
+            {{ end }}
+            <h2 class="text-4xl font-bold mt-1 leading-narrow">{{ .title }}</h2>
         </div>
 
-        <div class="grid grid-cols-1 mx-auto max-w-[900px] mt-4">
-            <div class="cursor-pointer rounded-xl border border-gray-200 bg-gray-50 p-6">
+        {{ range .items }}
+        <div class="grid grid-cols-1 mx-auto max-w-[900px] mt-4" x-data="{ open: false }">
+            <div class="cursor-pointer border-b border-gray-200 p-6" @click="open = !open">
                 <dt class="flex justify-between items-center" aria-controls="faq-1">
-                    <p class="font-poppins font-bold text-lg">Is Desktop for me?</p>
-                    <i class="fa-solid fa-chevron-up -rotate-180 transition-transform"></i>
+                    <p class="font-poppins font-bold leading-normal text-xl" :class="{ 'gradient': open }">{{ .q }}</p>
+                    <i class="fa-solid fa-chevron-up transition-transform" :class="{ '-rotate-180': !open }"></i>
                 </dt>
-                <dd id="faq-1" class="hidden text-lg mt-6">
-                    <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic nisi quasi, maiores, architecto sapiente odio repellat incidunt expedita
-                        possimus doloremque cupiditate quia fuga corporis error! Voluptate quo quod doloribus totam.
-                    </p>
+                <dd class="text-lg mt-6" x-show="open" x-collapse x-transition>
+                    <p class="leading-normal">{{ .a | safeHTML }}</p>
                 </dd>
             </div>
         </div>
-        <div class="grid grid-cols-1 mx-auto max-w-[900px] mt-4">
-            <div class="cursor-pointer rounded-xl border border-gray-200 bg-gray-50 p-6">
-                <dt class="flex justify-between items-center" aria-controls="faq-2">
-                    <p class="font-poppins font-bold text-lg">Is Desktop for me?</p>
-                    <i class="fa-solid fa-chevron-up -rotate-180 transition-transform"></i>
-                </dt>
-                <dd id="faq-2" class="hidden text-lg mt-6">
-                    <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic nisi quasi, maiores, architecto sapiente odio repellat incidunt expedita
-                        possimus doloremque cupiditate quia fuga corporis error! Voluptate quo quod doloribus totam.
-                    </p>
-                </dd>
-            </div>
-        </div>
+        {{ end }}
+        
     </section>
 </section>

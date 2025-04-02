@@ -65,9 +65,9 @@ sections:
       image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
       image_alt: 
     button:
-        label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
-        link: "#"
-        style: not-yet-defined
+      label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
+      link: "#"
+      style: not-yet-defined
 
   - name: content4
     weight: 4
@@ -103,6 +103,97 @@ sections:
     - label: "Zum SeaTable On-Premise Angebot"
       url: "#"
     image: "/img/seatable-security-1.jpg"
+
+  - name: content7
+    weight: 7
+    title: "Wie auch immer Ihr Arbeitsablauf aussieht, mit SeaTable können Sie Ihn realisieren"
+    button:
+      url: "#"
+      label: "Jetzt registrieren und loslegen"
+
+  - name: "content8"
+    weight: 8
+    title: "Behalten Sie immer die Übersicht über alle Ihre Daten"
+    subtitle: "Visualisierung der Daten"
+    description: "Visualisieren Sie Ihre Datensätze auf jede erdenkliche Weise und arbeiten Sie in Echtzeit zusammen. Hier nur einige der Möglichkeiten von SeaTable."
+    items:
+    - text: "Base Editor"
+      image: "https://seatable.com/wp-content/uploads/2025/02/template-content-marketing-strategie.png"
+      alt: "Base Editor"
+    - text: "Galerie"
+      image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
+      alt: "Galerie"
+    - text: "3 or more"
+      alt: ""
+      image: "https://placehold.co/470x250"
+
+  - name: "faq"
+    weight: 1
+    title: Häufig gestellte Fragen zur SeaTable No-Code-Lösung
+    items:
+    - q: "Does the FAQ area supports html in the answers?"
+      a: "Yes, it supports basic html formats like <strong>strong</strong>, <i>italic</i> or br. See here:<br/>New line."
+    - q: "Question No. 2"
+      a: "What a silly question ..."
+    - q: "What is the payment process, and much more to know, that the line becomes long enough..."
+      a: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+
+  - name: "marquee"
+    weight: 1
+    title: "Tausende Menschen weltweit nutzen bereits SeaTable"
+    subtitle: "Wer nutzt SeaTable?"
+    marquee_rows: 2
+    items: 
+    - number: "100.000+"
+      text: Downloads im ersten Jahr von Docker Hub
+    - number: "1.500+"
+      text: "Tägliche Nutzer auf SeaTable Cloud"
+    - number: "4.6"
+      text: "Bewertung auf Capterra"
+    button:
+      url: "customer-story"
+      label: "Lesen Sie weitere Erfolgsgeschichten"
+
+  - name: "branchenloesungen"
+    weight: 0
+    title: "Was ist SeaTable?"
+    subtitle: "So einfach wie Excel mit der Power einer Datenbank"
+    text: "SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser."
+    button:
+      label: "Jetzt ausprobieren"
+      link: "/registrierung"
+    gridheadline: "Die No-Code <span class='gradient'>Lösung</span> für ..."
+    items:
+      - icon: "chart-simple"
+        headline: "Marketing"
+        text: "Planen Sie Kampagnen, verwalten Sie Leads und analysieren Sie Ergebnisse mit SeaTable. Automatisieren Sie Workflows und optimieren Sie Ihre Marketingstrategie."
+        link: "/marketing"
+      - icon: "bullseye"
+        headline: "Projektmanagement"
+        text: "Nutzen Sie Gantt-Diagramme und Kanban-Boards, um Projekte effizient zu steuern. Verfolgen Sie Fortschritte und koordinieren Sie Teams mit SeaTable."
+        link: "/projektmanagement"
+      - icon: "people-group"
+        headline: "Human Resources" 
+        text: "Verwalten Sie Mitarbeiterdaten, Schulungen und Urlaubsanträge mit SeaTable. Optimieren Sie HR-Prozesse und verbessern Sie die Mitarbeitererfahrung."
+        link: "/human-ressources"
+      - icon: "building"
+        headline: "Öffentlicher Dienst"
+        text: "Verwalten Sie Personalakten, Schulungsdaten und Anträge mit SeaTable. Optimieren Sie Prozesse und verbessern Sie die Transparenz im öffentlichen Dienst."
+        link: ""
+      - icon: "terminal"
+        headline: "Softwareentwicklung"
+        text: "Verwalten Sie Backlogs, Issues, Bugs und Releases mit SeaTable. Optimieren Sie den Entwicklungsprozess und verbessern Sie die Teamkommunikation."
+        link: ""
+      - icon: "fingerprint"
+        headline: "Individuell"
+        text: "Erstellen Sie maßgeschneiderte Anwendungen für Ihre spezifischen Geschäftsanforderungen mit SeaTable. Automatisieren Sie Prozesse und verbessern Sie die Effizienz."
+        link: ""
+      - icon: "arrow-right"
+        headline: "test"
+        text: "test2"
+      - icon: "arrow-right"
+        headline: "asdfadsf"
+
 
 ---
 

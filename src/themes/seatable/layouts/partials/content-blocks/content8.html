@@ -1,27 +1,33 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle: 
+  items:
+  - text:
+    image:
+    alt:
+  - text:
+    image:
+    alt:</code></pre></div>
+{{ end }}
+
+<!-- HTML Block -->
 <section class="padding">
     <section id="galerie" class="max-container">
         <div class="mx-auto text-center max-w-[800px]">
-            <p class="text-2xl font-bold font-poppins gradient">Visualisierung der Daten</p>
-            <h2 class="mt-1 text-4xl font-bold">Behalten Sie immer die Übersicht über alle Ihre Daten</h2>
-            <p class="mt-12 text-lg leading-normal">Visualisieren Sie Ihre Datensätze auf jede erdenkliche Weise und arbeiten Sie in Echtzeit zusammen. Hier nur einige der Möglichkeiten von SeaTable.</p>
+            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            <p class="mt-12 text-lg leading-normal">{{ .description }}</p>
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 mt-16">
+            {{ range .items }}
             <div>
-                <p class="font-poppins font-bold text-2xl mb-4 text-seatable-blue">Base Editor</p>
-                <img class="rounded-lg shadow-lg max-h-[250px] " src="https://seatable.com/wp-content/uploads/2025/02/template-content-marketing-strategie.png" alt="Base Editor" />
+                <p class="font-poppins font-bold text-2xl mb-4 text-seatable-blue">{{ .text }}</p>
+                <img class="rounded-lg shadow-lg max-h-[250px] object-cover w-[100%]" src="{{ .image }}" alt="{{ .alt }}" />
             </div>
-            <div>
-                <p class="font-poppins font-bold text-2xl mb-4 text-seatable-blue">Galerie</p>
-                <img class="rounded-lg shadow-lg max-h-[250px] object-cover w-[100%]" src="https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png" alt="Base Editor" />
-            </div>
-            <div>
-                <p class="font-poppins font-bold text-2xl mb-4 text-seatable-blue">Galerie</p>
-                <img class="rounded-lg shadow-lg max-h-[250px] object-cover w-[100%]" src="https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png" alt="Base Editor" />
-            </div>
-            <div>
-                <p class="font-poppins font-bold text-2xl mb-4 text-seatable-blue">Galerie</p>
-                <img class="rounded-lg shadow-lg max-h-[250px] object-cover w-[100%]" src="https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png" alt="Base Editor" />
-            </div>
+            {{ end }}
         </div>
     </section>
 </section>
