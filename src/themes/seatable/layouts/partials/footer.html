@@ -3,41 +3,46 @@
         <div class="flex flex-wrap justify-between gap-2 ">
             <div class="lg:w-1/3 w-full">
                 <a href="/"><img src="/images/seatable-logo.svg" alt="Logo" width="130" height="29" /></a>
-                <p class="text-lg my-8 lg:max-w-60 w-full">Make powerful processes like thousands of others who use SeaTable daily.</p>
+                <p class="text-lg my-8 lg:max-w-60 w-full">Make powerful processes like thousands of others who use SeaTable daily.2</p>
             </div>
 
             <div class="flex flex-wrap justify-between gap-12">
                 <div class="">
-                    <p class="mb-8 text-seatable-blue font-bold font-poppins text-xl">Products</p>
+                    <p class="mb-8 text-seatable-blue font-bold font-poppins text-xl">{{ T "navigation.products.headline" }}</p>
                     <nav>
                         <ul>
-                        <li class="mb-4"><a href="/cloud" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">SeaTable Cloud</a></li>
-                        <li class="mb-4"><a href="/dedicated" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">SeaTable Dedicated</a></li>
-                        <li class="mb-4"><a href="/on-premises" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">SeaTable Server</a></li>
-                        <li class="mb-4"><a href="/support" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">Support</a></li>
+                        <li class="mb-4"><a href="{{ (site.GetPage "functions").RelPermalink }}" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.products.cloud" }}</a></li>
+                        <li class="mb-4"><a href="/dedicated" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.products.dedicated" }}</a></li>
+                        <li class="mb-4"><a href="/on-premises" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.products.server" }}</a></li>
+                        <li class="mb-4"><a href="/support" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.products.support" }}</a></li>
                         </ul>
                     </nav>
                 </div>
                 
                 <div class="">
-                    <h5 class="mb-8 text-seatable-blue font-bold font-poppins text-xl">Unterstützung</h5>
+                    <h5 class="mb-8 text-seatable-blue font-bold font-poppins text-xl">{{ T "navigation.support.headline" }}</h5>
                     <nav>
                         <ul>
-                        <li class="mb-4"><a href="/cloud" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">Kurzanleitung</a></li>
-                        <li class="mb-4"><a href="/dedicated" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">Hilfebereich</a></li>
-                        <li class="mb-4"><a href="/on-premises" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">Vorlagen</a></li>
-                        <li class="mb-4"><a href="/support" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">Integrationen</a></li>
+                        <li class="mb-4"><a href="/cloud" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.support.guide" }}</a></li>
+                        <li class="mb-4"><a href="/dedicated" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.support.help" }}</a></li>
+                        <li class="mb-4"><a href="/on-premises" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.support.templates" }}</a></li>
+                        <li class="mb-4"><a href="/support" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.support.integrations" }}</a></li>
+                        <li class="mb-4"><a href="https://forum.seatable.io" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.support.forum" }}</a></li>
+                        <li class="mb-4"><a href="https://api.seatable.io" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.support.api" }}</a></li>
+                        <li class="mb-4"><a href="https://status.seatable.io" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.support.status" }}</a></li>
                         </ul>
                     </nav>
                 </div>
         
                 <div class="">
-                    <h5 class="mb-8 text-seatable-blue font-bold font-poppins text-xl">Unternehmen</h5>
+                    <h5 class="mb-8 text-seatable-blue font-bold font-poppins text-xl">{{ T "navigation.company.headline" }}</h5>
                     <nav>
                         <ul>
-                        <li class="mb-4"><a href="/cloud" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">Über uns</a></li>
-                        <li class="mb-4"><a href="/dedicated" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">Jobs</a></li>
-                        <li class="mb-4"><a href="/on-premises" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">Presse</a></li>
+                        <li class="mb-4"><a href="/xxx" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.company.about" }}</a></li>
+                        <li class="mb-4"><a href="/dedicated" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.company.jobs" }}</a></li>
+                        <li class="mb-4"><a href="/on-premises" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.company.press" }}</a></li>
+                        <li class="mb-4"><a href="/on-premises" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.company.contact" }}</a></li>
+                        <li class="mb-4"><a href="/on-premises" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ T "navigation.company.blog" }}</a></li>
                         </ul>
                     </nav>
                 </div>

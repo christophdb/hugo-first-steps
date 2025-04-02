@@ -1,0 +1,11 @@
+disabled = true
+languageCode = "ru"
+languageName = "Русский"
+weight = 6
+title = "SeaTable"
+
+[params]
+  displayName = "RU"
+  isoCode = "ru"
+  dateFormat = "2 January 2006"
+  logo = "/images/seatable-logo.svg"

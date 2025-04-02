@@ -1,76 +1,76 @@
 # -- Main Menu --
 
 [[main]]
-  name = "Functions"
+  name = "Fonctions"
   pageRef = "functions"
   weight = 10
 
 [[main]]
-  name = "Products"
+  name = "Produits"
   pageRef = "/"
   weight = 20
 
 [[main]]
   name = "SeaTable Cloud"
-  parent = "Products"
+  parent = "Produits"
   pageRef = "/"
   weight = 21
 
 [[main]]
-  name = "SeaTable Dedicated"
-  parent = "Products"
+  name = "SeaTable Dédié"
+  parent = "Produits"
   pageRef = "/"
   weight = 22
 
 [[main]]
-  name = "SeaTable Server"
-  parent = "Products"
+  name = "Serveur SeaTable"
+  parent = "Produits"
   pageRef = "/"
   weight = 23
 
 [[main]]
-  name = "Industry solutions"
+  name = "Solutions sectorielles"
   pageRef = "#0"
   weight = 30
 
 [[main]]
   name = "Marketing"
-  parent = "Industry solutions"
+  parent = "Solutions sectorielles"
   pageRef = "/"
   weight = 31
 
 [[main]]
-  name = "Project management"
-  parent = "Industry solutions"
+  name = "Gestion de projet"
+  parent = "Solutions sectorielles"
   pageRef = "/"
   weight = 32
 
 [[main]]
-  name = "HR"
-  parent = "Industry solutions"
+  name = "RH"
+  parent = "Solutions sectorielles"
   pageRef = "https://www.google.de"
   weight = 33
 
 [[main]]
-  name = "Public service"
-  parent = "Industry solutions"
+  name = "Service public"
+  parent = "Solutions sectorielles"
   pageRef = "https://www.google.de"
   weight = 34
 
 [[main]]
-  name = "Software development"
-  parent = "Industry solutions"
+  name = "Développement de logiciels"
+  parent = "Solutions sectorielles"
   pageRef = "https://www.google.de"
   weight = 35
 
 [[main]]
-  name = "Individual"
-  parent = "Industry solutions"
+  name = "Individuel"
+  parent = "Solutions sectorielles"
   pageRef = "https://www.google.de"
   weight = 36
 
 [[main]]
-  name = "Prices"
+  name = "Prix"
   pageRef = "prices"
   weight = 40
 
@@ -83,26 +83,26 @@
 # The footer menu is displayed at the bottom of the page
 
 [[footer]]
-  name = "Imprint"
+  name = "Mentions légales"
   pageRef = "imprint"
   weight = 10
 
 [[footer]]
-  name = "Security"
+  name = "Sécurité"
   pageRef = "security"
   weight = 20
 
 [[footer]]
-  name = "Data protection"
+  name = "Protection des données"
   pageRef = "data-privacy"
   weight = 30
 
 [[footer]]
-  name = "Terms of use"
+  name = "Conditions d'utilisation"
   pageRef = "terms-of-use"
   weight = 40
 
 [[footer]]
-  name = "EULA"
+  name = "CLUF"
   pageRef = "eula"
   weight = 50

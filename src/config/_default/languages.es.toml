@@ -1,0 +1,11 @@
+disabled = true
+languageCode = "es"
+languageName = "Español"
+weight = 4
+title = "SeaTable"
+
+[params]
+  displayName = "ES"
+  isoCode = "es"
+  dateFormat = "2 January 2006"
+  logo = "/images/seatable-logo.svg"
