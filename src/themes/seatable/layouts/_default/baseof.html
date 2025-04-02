@@ -6,6 +6,7 @@
   {{ if hugo.IsProduction }}
   {{ else }}
     {{ partial "tw-size-indicator.html" . }}
+    <div class="fixed left-10 top-1 z-10"><a href="/content-blocks/">{{ partial "icon.html" "code" }}</a></div>
   {{ end }}
 
 
