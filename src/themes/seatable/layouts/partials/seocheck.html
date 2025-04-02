@@ -27,14 +27,18 @@
         <!-- Keyphrase checks -->
         {{- $kph := (lower .Params.Keyphrase) }}
         {{- $kpl := (countwords $kph) -}}
-        <i class="fa-solid fa-circle 
-            {{- if (lt $kpl 1) }} text-red-700
+
+		
+        <spann class="
+			{{- if (lt $kpl 1) }} text-red-700
             {{- else if (gt $kpl 6) }} text-orange-500
             {{- else }} text-green-600
-            {{- end }}"></i>
+            {{- end }}">
+			{{ partial "icon.html" "circle" }}
+		</span>
 	    <p class=""><span class="font-bold block">Keyphrase:</span>
 	      {{- if (lt $kpl 1) -}} unavailable
-	      {{- else if (gt $kpl 6) -}} <i>{{ $kph }}</i> is longer than 6 words
+	      {{- else if (gt $kpl 6) -}} <i>{{ $kph }}{{ partial "icon.html" "circle" }}</span> is longer than 6 words
 	      {{- else }} {{ $kph }}
 	      {{- end -}}
 	    </p>
@@ -50,11 +54,13 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class=" 
 		      {{- if gt $nkp 1 }} has-text-danger
 		      {{- else }} has-text-success
-		      {{- end }}"></i>
+		      {{- end }}">
+			  {{ partial "icon.html" "circle" }}
+		</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -70,11 +76,13 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon">
+	    <span class=" 
 		      {{- if in $slug $kph }} has-text-success
 		      {{- else }} has-text-danger
-		      {{- end }}"></i>
+		      {{- end }}">
+			  {{ partial "icon.html" "circle" }}
+		</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -97,11 +105,13 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if gt $nkp 1 }} has-text-danger
 		      {{- else }} has-text-success
-		      {{- end }}"></i>
+		      {{- end }}">
+				{{ partial "icon.html" "circle" }}
+			</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -117,11 +127,11 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if (in . $kph) }} has-text-success
 		      {{- else }} has-text-danger
-		      {{- end }}"></i>
+		      {{- end }}">{{ partial "icon.html" "circle" }}</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -138,12 +148,12 @@
       <aside class="media notification has-background-white">
 	{{- $dsl := (len .Description) }}
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if eq $dsl 0 }} has-text-danger
 		      {{- else if or (lt $dsl 120) (gt $dsl 155) }} has-text-warning
 		      {{- else }} has-text-success
-		      {{- end }}"></i>
+		      {{- end }}">{{ partial "icon.html" "circle" }}</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -162,12 +172,12 @@
       <aside class="media notification has-background-white">
 	{{- $lent := (len $title) }}
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if (lt $lent 40) }} has-text-danger
 		      {{- else if (ge $lent 65) }} has-text-danger
 		      {{- else }} has-text-success
-		      {{- end }}"></i>
+		      {{- end }}">{{ partial "icon.html" "circle" }}</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -188,11 +198,11 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if (in (lower $title) $kph) }} has-text-success
 		      {{- else }} has-text-danger
-		      {{- end }}"></i>
+		      {{- end }}">{{ partial "icon.html" "circle" }}</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -211,11 +221,11 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if (in $toc $kph) }} has-text-success
 		      {{- else }} has-text-danger
-		      {{- end}}"></i>
+		      {{- end}}">{{ partial "icon.html" "circle" }}</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -233,11 +243,11 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if gt .WordCount 300 }} has-text-success
 		      {{- else }} has-text-danger
-		      {{- end }}"></i>
+		      {{- end }}">{{ partial "icon.html" "circle" }}</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -257,11 +267,11 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if (in . $kph) }} has-text-success
 		      {{- else }} has-text-danger
-		      {{- end }}"></i>
+		      {{- end }}">{{ partial "icon.html" "circle" }}</span>
 	  </span>
 	</figure>
 	<div class="media-content">
@@ -284,11 +294,11 @@
     <div class="column is-one-quarter">
       <aside class="media notification has-background-white">
 	<figure class="media-left">
-	  <span class="icon fa-lg">
-	    <i class="fa fa-circle 
+	  <span class="icon ">
+	    <span class="
 		      {{- if fileExists $image }} has-text-success
 		      {{- else }} has-text-danger
-		      {{- end }}"></i>
+		      {{- end }}">{{ partial "icon.html" "circle" }}</span>
 	  </span>
 	</figure>
 	<div class="media-content">

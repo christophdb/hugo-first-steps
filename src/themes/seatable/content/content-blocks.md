@@ -155,7 +155,7 @@ sections:
       label: "Lesen Sie weitere Erfolgsgeschichten"
 
   - name: "branchenloesungen"
-    weight: 0
+    weight: 1
     title: "Was ist SeaTable?"
     subtitle: "So einfach wie Excel mit der Power einer Datenbank"
     text: "SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser."
@@ -193,6 +193,11 @@ sections:
         text: "test2"
       - icon: "arrow-right"
         headline: "asdfadsf"
+
+  - name: hero2
+    weight: 0
+    title: "Starten Sie und Ihr Team mit der SeaTable Cloud"
+    subtitle: "SeaTable Cloud"
 
 
 ---

@@ -26,7 +26,7 @@
             <div class="cursor-pointer border-b border-gray-200 p-6" @click="open = !open">
                 <dt class="flex justify-between items-center" aria-controls="faq-1">
                     <p class="font-poppins font-bold leading-normal text-xl" :class="{ 'gradient': open }">{{ .q }}</p>
-                    <i class="fa-solid fa-chevron-up transition-transform" :class="{ '-rotate-180': !open }"></i>
+                    {{ partial "icon.html" "chevron-up" }}
                 </dt>
                 <dd class="text-lg mt-6" x-show="open" x-collapse x-transition>
                     <p class="leading-normal">{{ .a | safeHTML }}</p>

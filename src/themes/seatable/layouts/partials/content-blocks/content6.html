@@ -29,7 +29,7 @@
             {{ end }}
 
             {{ range .buttons }}
-            <a href="{{ .url }}" class="mt-8">{{ .label }} <i class="fa-solid fa-arrow-right"></i></a>
+            <a href="{{ .url }}" class="mt-8">{{ .label }} {{ partial "icon.html" "arrow-right" }}</a>
             {{ end }}
         </div>
         <div class="basis-2/5 justify-center">

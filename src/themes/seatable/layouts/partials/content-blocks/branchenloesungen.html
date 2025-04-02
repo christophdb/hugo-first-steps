@@ -1,3 +1,27 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle: 
+  text: 
+  button:
+    label:
+    link: 
+  gridheadline:
+  items:
+  - icon: 
+    headline:
+    text: 
+    link: 
+  - icon: 
+    headline: 
+    text: 
+    link:
+    icon:</code></pre></div>
+{{ end }}
+
+<!-- HTML Block -->
 <section class="padding bg-seatable-blue curved">
     <section id="blau" class="max-container">
         <div class="mx-auto text-center max-w-[800px]">
@@ -12,10 +36,10 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-12">
             {{ range .items }}
             <div class="bg-gray-100 flex flex-col p-8 rounded-md">
-                <i class="fa-solid fa-{{ .icon | markdownify }} text-2xl gradient"></i>
+                <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>
                 <h3 class="font-bold text-2xl mt-3">{{ .headline | markdownify }}</h3>
                 <p class="mt-4 mb-8">{{ .text | markdownify }}</p>
-                <a class="mt-auto" href="{{ .link | absURL }}">{{ T "read_more" }}</a> <i class="fa-solid fa-arrow-right"></i>
+                <a class="mt-auto" href="{{ .link | absURL }}">{{ T "read_more" }} {{ partial "icon.html" "arrow-right" }}</a> 
             </div>
             {{ end }}
         </div>

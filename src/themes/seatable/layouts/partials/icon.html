@@ -1,6 +1,8 @@
 {{ $icon := resources.Get (print "icons/" . ".svg") }}
 {{ if $icon }}
-  <span class="relative block icon">
+  <span class="relative block icon" :class="{ '-rotate-180': !open }">
     {{ $icon.Content | safeHTML }}
   </span>
 {{ end }}
+
+<!-- this rotate is for faq-section -->
