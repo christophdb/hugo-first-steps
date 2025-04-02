@@ -1,19 +1,41 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle: 
+  items:
+  - text:
+  - text:
+  - text:
+  - text:
+  buttons:
+  - label:
+    url:
+  - label:
+    url:
+  image:</code></pre></div>
+{{ end }}
+
+
+
+<!-- HTML Block -->
 <section class="!pt-40 padding bg-gray-100 curved">
     <section id="2col" class="max-container flex justify-between items-start w-full gap-10 lg:gap-40 max-lg:flex-col">
         <div class="flex flex-col basis-3/5">
-            <p class="text-2xl font-bold font-poppins gradient">Datensicherheit und Datenschutz</p>
-            <h2 class="mt-1 text-4xl font-bold">Eine Lösung, der Sie vertrauen können</h2>
-            <p class="mt-8 text-xl leading-normal">Datensicherheit hat bei SeaTable höchste Priorität. Unsere Plattform bietet robuste Sicherheitsfunktionen, um Ihre Daten zuverlässig zu schützen.</p>
-            <p class="mt-8 text-xl leading-normal">Sie behalten stets die Kontrolle über Ihre Informationen und können sicher sein, dass Ihre Daten gemäß den neuesten Datenschutzstandards verwaltet werden.
-                Die SeaTable No-Code Plattform gewährleistet, dass Ihre Daten sicher und konform mit den geltenden Datenschutzbestimmungen gespeichert werden.</p>
-            <p class="mt-8 text-xl leading-normal">Die SeaTable Cloud wird in zertifizierten deutschen Rechenzentren einer Schweizer Anbieters gehostet. Die Registrierung dauert nur wenige Sekunden.</p>
-            <p class="mt-8 text-xl leading-normal">Bei Ihrem eigenen Server entscheiden Sie, wo SeaTable Ihre Daten speicher. Sie haben die volle Datenhoheit.</p>
-            <a href="#" class="mt-8">Erfahren Sie mehr über die verschiedenen Versionen <i class="fa-solid fa-arrow-right"></i></a>
-            <a href="#" class="mt-8">Zum SeaTable On-Premise Angebot <i class="fa-solid fa-arrow-right"></i></a>
+            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
             
+            {{ range .items }}
+            <p class="mt-8 text-xl leading-normal">{{ .text }}</p>
+            {{ end }}
+
+            {{ range .buttons }}
+            <a href="{{ .url }}" class="mt-8">{{ .label }} <i class="fa-solid fa-arrow-right"></i></a>
+            {{ end }}
         </div>
         <div class="basis-2/5 justify-center">
-            <img src="/img/seatable-security-1.jpg" class="p-1 border bg-white rounded-lg shadow-2xl" alt="placeholder" />
+            <img src="{{ .image }}" class="p-1 border bg-white rounded-lg shadow-2xl" alt="placeholder" />
         </div>
     </section>
 </section>

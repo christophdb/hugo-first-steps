@@ -72,5 +72,37 @@ sections:
   - name: content4
     weight: 4
     title: Entdecken Sie die Vorteile der SeaTable No-Code-Plattform
+
+  - name: content5
+    weight: 5
+    items:
+    - title: Automatisieren Sie Prozesse
+      subtitle: Sparen Sie wertvolle Zeit
+      text1: "Unsere No-Code Plattform ermöglicht es Ihnen, wiederkehrende Aufgaben zu automatisieren, Workflows zu erstellen und Benachrichtigungen zu konfigurieren. 
+        So können Sie sich auf das Wesentliche konzentrieren und die Effizienz Ihres Unternehmens steigern."
+    - subtitle: Ohne Limits
+      title: Die Datenbank, die dort weitermacht, wo Excel an Grenzen stößt
+      text1: "Verabschieden Sie sich von den Einschränkungen traditioneller Tabellenkalkulationen. Unsere No-Code Datenbank bietet Ihnen die Flexibilität und Leistungsfähigkeit, die Excel nicht erreichen kann."
+      text2: "Verwalten Sie komplexe Datenstrukturen, verknüpfen Sie Tabellen und analysieren Sie Ihre Daten effizient – alles
+        innerhalb einer benutzerfreundlichen Oberfläche. Die <strong>Excel-Alternative</strong> SeaTable revolutioniert das Datenmanagement und bietet Ihnen die Werkzeuge, die Sie benötigen,
+        um Ihre Daten effizient zu verwalten."
+
+  - name: content6
+    weight: 6
+    title: "Eine Lösung, der Sie vertrauen können"
+    subtitle: "Datensicherheit und Datenschutz"
+    items:
+    - text: "Datensicherheit hat bei SeaTable höchste Priorität. Unsere Plattform bietet robuste Sicherheitsfunktionen, um Ihre Daten zuverlässig zu schützen."
+    - text: "Sie behalten stets die Kontrolle über Ihre Informationen und können sicher sein, dass Ihre Daten gemäß den neuesten Datenschutzstandards verwaltet werden.
+      Die SeaTable No-Code Plattform gewährleistet, dass Ihre Daten sicher und konform mit den geltenden Datenschutzbestimmungen gespeichert werden."
+    - text: "Die SeaTable Cloud wird in zertifizierten deutschen Rechenzentren einer Schweizer Anbieters gehostet. Die Registrierung dauert nur wenige Sekunden."
+    - text: "Bei Ihrem eigenen Server entscheiden Sie, wo SeaTable Ihre Daten speicher. Sie haben die volle Datenhoheit."
+    buttons:
+    - label: "Erfahren Sie mehr über die verschiedenen Versionen"
+      url: "#"
+    - label: "Zum SeaTable On-Premise Angebot"
+      url: "#"
+    image: "/img/seatable-security-1.jpg"
+
 ---
 

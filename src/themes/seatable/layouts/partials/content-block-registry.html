@@ -7,10 +7,12 @@
             <!-- show block -->
             {{ partial $partialName . }}
         {{ else }}
+            <!-- block name not known -->
             {{ partial "content-blocks/unknown.html" . }}
         {{ end }}
     {{ end }}
 {{ else }}
+    <!-- no blocks defined at all -->
     {{ partial "content-blocks/undefined.html" . }}
 {{ end }}
 
