@@ -17,3 +17,5 @@ https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://kinsta.com/de/blog/express-app-erstellen/
 https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
+
+- prose styling von blowfish übernehmen!?! - anchor tags for headline. 

@@ -1,5 +1,13 @@
-<section class="padding">
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: </code></pre></div>
+{{ end }}
+
+<!-- HTML Block -->
+<section class="padding" id="{{ .name }}">
     <section class="max-w-[900px] mx-auto">
-        <h2 class="text-center font-bold text-5xl gradient leading-narrow">Entdecken Sie die Vorteile der SeaTable No-Code-Plattform</h2>
+        <h2 class="text-center font-bold text-5xl gradient leading-narrow">{{ .title }}</h2>
     </section>
 </section>

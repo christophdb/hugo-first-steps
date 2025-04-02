@@ -31,6 +31,16 @@ h1,h2,h3,h4,h5,h6 {
   
 }
 
+/* Scale SVG icons to text size */
+.icon svg {
+  @apply h-[1em] w-[1em];
+}
+
+/* Scale SVG logos to appropriate size */
+.logo svg {
+  @apply h-[5rem] w-[5rem];
+}
+
 .prose > p {
   margin-top:1.25em;
   margin-bottom:1.25em

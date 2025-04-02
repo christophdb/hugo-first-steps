@@ -1,5 +1,6 @@
-{{ $iconPath := print "icons/" . ".svg" }}
-<span class="relative block icon">
-<img src="{{ $iconPath }}" alt="{{ . }}" height="12" width="12" />
-</span>
-
+{{ $icon := resources.Get (print "icons/" . ".svg") }}
+{{ if $icon }}
+  <span class="relative block icon">
+    {{ $icon.Content | safeHTML }}
+  </span>
+{{ end }}

@@ -1,8 +1,8 @@
 <section class="padding">
     <section id="customers" class="max-container">
         <div class="mx-auto text-center max-w-[800px]">
-            <p class="text-2xl font-bold font-poppins gradient">Wer nutzt SeaTable?</p>
-            <h2 class="mt-1 text-4xl font-bold">Tausende Menschen weltweit nutzen bereits SeaTable</h2>
+            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle | markdownify }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title | markdownify }}</h2>
         </div>
         <div class="relative flex overflow-x-hidden marquee-fade">
             <div class="py-12 animate-marquee whitespace-nowrap flex gap-4 ">
@@ -20,6 +20,8 @@
                 <img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/hceres.png" alt="" />
             </div>
         </div>
+        {{ $showNumbers := .show_numbers | default "no" }}
+        {{ if eq .show_numbers "yes" }}
         <div class="grid grid-cols-3 mt-8 gap-16">
             <div class="text-center">
                 <p class="text-4xl gradient font-bold font-poppins">100.000+</p>
@@ -37,5 +39,6 @@
         <div class="text-center mt-24">
             <a href="#" class="rounded-xl px-7 py-4 bg-white text-gray-800 font-bold font-poppins border border-seatable-blue">Lesen Sie weitere Erfolgsgeschichten</a>
         </div>
+        {{ end }}
     </section>
 </section>

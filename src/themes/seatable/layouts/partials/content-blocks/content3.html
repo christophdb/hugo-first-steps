@@ -1,26 +1,52 @@
-<section class="padding">
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle:
+  description:
+  items:
+  - headline:
+    text: 
+    image:
+    image_alt: 
+  - headline:
+    text:
+    image:
+    image_alt: 
+  - headline:
+    text:
+    image: 
+    image_alt: 
+  button:
+    label: 
+    link:
+    style:</code></pre></div>
+{{ end }}
+
+<!-- HTML Block -->
+<section class="padding" id="{{ .name }}">
     <section id="galerie" class="max-container">
         <div class="mx-auto text-center max-w-[800px]">
-            <p class="text-2xl font-bold font-poppins gradient">Jetzt loslegen</p>
-            <h2 class="mt-1 text-4xl font-bold">Vorlagen zum Start Ihres nächsten Teamprojekts</h2>
-            <p class="mt-12 text-lg leading-normal">Importieren Sie vorgefertige Vorlagen mit nur einem Klick in Ihren SeaTable Account.</p>
+            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            <p class="mt-12 text-lg leading-normal">{{ .description }}</p>
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 mt-16">
+            {{ range .items }}
             <div>
-                <img class="rounded-lg shadow-lg h-[250px] object-cover w-[100%]" src="https://seatable.com/wp-content/uploads/2025/02/template-projektplan.png" alt="Base Editor" />
-                <h3 class="text-2xl mt-4 mb-2 font-bold">Arbeitszeiterfassung</h3>
-                <p class="font-poppins font-bold text-xl mb-4 gradient">Personalwesen</p>
+                <img class="rounded-lg shadow-lg h-[250px] object-cover w-[100%]" src="{{ .image }}" alt="{{ .image_alt }}" />
+                <h3 class="text-2xl mt-4 mb-2 font-bold">{{ .headline }}</h3>
+                <p class="font-poppins font-bold text-xl mb-4 gradient">{{ .text }}</p>
             </div>
-            <div>
-                <img class="rounded-lg shadow-lg h-[250px] object-cover w-[100%]" src="https://seatable.com/wp-content/uploads/2025/02/template-massnahmenplan.jpg" alt="Base Editor" />
-            </div>
-            <div>
-                <img class="rounded-lg shadow-lg max-h-[250px] object-cover w-[100%]" src="https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png" alt="Base Editor" />
-            </div>
+            {{ end }}
         </div>
 
+        {{ with .button }}
         <div class="text-center mt-12">
-            <a href="#" class="rounded-xl px-7 py-4 bg-white text-gray-800 font-bold font-poppins border border-seatable-blue">Finden Sie weitere Vorlagen für Ihren Anwendungsbereich</a>
+            <a href="{{ .link }}" class="rounded-xl px-7 py-4 bg-white text-gray-800 font-bold font-poppins border border-seatable-blue">{{ .label }}</a>
         </div>
+        {{ end }}
+        
     </section>
 </section>

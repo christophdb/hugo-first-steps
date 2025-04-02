@@ -4,6 +4,7 @@
     {{ range sort . "weight" }}
         {{ $partialName := printf "partials/content-blocks/%s.html" .name }}
         {{ if templates.Exists $partialName }}
+            <!-- show block -->
             {{ partial $partialName . }}
         {{ else }}
             {{ partial "content-blocks/unknown.html" . }}
