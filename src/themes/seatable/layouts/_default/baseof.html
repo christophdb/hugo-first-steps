@@ -45,9 +45,9 @@
       errors: {},
       validateEmail() {
         if (!this.email.trim()) {
-          this.errors.email = 'Email is required';
+          this.errors.email = '{{ T "registration.email_required" }}';
         } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
-          this.errors.email = 'Invalid email address';
+          this.errors.email = '{{ T "registration.email_invalid" }}';
         } else {
           delete this.errors.email;
         }

@@ -20,3 +20,11 @@ article:
 legal:
   version: "Version"
   published_on: "published on"
+
+registration:
+  email_label: "E-mail"
+  email_placeholder: "Enter your e-mail address..."
+  email_invalid: "This e-mail address seems to be incomplete"
+  email_required: "E-mail is required"
+
+  

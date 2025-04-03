@@ -31,7 +31,8 @@ module.exports = {
         "white-400": "rgba(255, 255, 255, 0.80)",
         "seatable-blue": "#021940",
         "seatable-gray": "#393F49",
-        "seatable-orange": "#F88000"
+        "seatable-orange": "#F88000",
+        "seatable-red": "#EE3234"
       },
       /* was brquche ich davon wirklich ?? */
       boxShadow: {

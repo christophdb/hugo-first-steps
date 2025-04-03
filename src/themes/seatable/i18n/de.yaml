@@ -22,3 +22,9 @@ article:
 legal:
   version: "Version"
   published_on: "veröffentlicht am"
+
+registration:
+  email_label: "E-Mail"
+  email_placeholder: "Geben Sie Ihre E-Mail Adresse ein..."
+  email_invalid: "Diese E-Mail Addresse ist unvollständig"
+  email_required: "E-Mail ist ein Pflichtfeld"
