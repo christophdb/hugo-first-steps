@@ -1,10 +1,10 @@
 ---
-title: "End User License Agreement"
-description: "EULA SeaTable Server Enterprise Edition"
+title: 'End User License Agreement'
+description: 'EULA SeaTable Server Enterprise Edition'
 date: 2021-09-28
-version: "1.0"
-type: "legal"
-url: "/eula"
+version: '1.0'
+type: 'legal'
+url: '/eula'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
@@ -53,13 +53,13 @@ The **[German original](/de/lizenzvereinbarung/)** is legally binding.
 1. Any use of the Software beyond the scope agreed in the License Agreement is prohibited and may be prosecuted.
 1. The rights of use, granted pursuant to this EULA, do not include any rights to the source code of the Software and the trademark SeaTable and its logo. The same applies to other copyright protected content for which no rights of use have been explicitly granted.
 1. The rights, granted pursuant to this EULA, do not include and the Customer is not entitled to and shall not allow a third party to
-(i) attempt to circumvent any technical measures and devices of the Software that are directed at, or have the effect of, enforcing this EULA and its terms;
-(ii) modify, create derivative works, translate, decompile, create or attempt to create, by reverse engineering or otherwise, the source code of the Software;
-(iii) remove, modify or obscure any copyright, trademark, service mark or other proprietary rights, confidentiality, serial number, notice, legend or similar on any copy of the Software, or related data, manuals, documentation or other materials;
-(iv) market, sell, lend, rent, lease or otherwise distribute the Software or to make it publicly available;
-(v) use the Software, on its own or as a part of another product and irrespective of the delivery model, for creating or providing a commercial online service or a free public or de-facto public online service; and
-(vi) assign, sublicense or otherwise transfer any rights in or to the Software.
-This shall not affect the Customer’s statutory rights, in particular pursuant to § 69e German Copyright Act (UrhG).
+   (i) attempt to circumvent any technical measures and devices of the Software that are directed at, or have the effect of, enforcing this EULA and its terms;
+   (ii) modify, create derivative works, translate, decompile, create or attempt to create, by reverse engineering or otherwise, the source code of the Software;
+   (iii) remove, modify or obscure any copyright, trademark, service mark or other proprietary rights, confidentiality, serial number, notice, legend or similar on any copy of the Software, or related data, manuals, documentation or other materials;
+   (iv) market, sell, lend, rent, lease or otherwise distribute the Software or to make it publicly available;
+   (v) use the Software, on its own or as a part of another product and irrespective of the delivery model, for creating or providing a commercial online service or a free public or de-facto public online service; and
+   (vi) assign, sublicense or otherwise transfer any rights in or to the Software.
+   This shall not affect the Customer’s statutory rights, in particular pursuant to § 69e German Copyright Act (UrhG).
 1. If the Customer violates any of the above provisions, all rights of use granted under the License Agreement become invalid with immediate effect and automatically revert to SeaTable. In this case, the Customer must immediately and completely cease to use the Software, remove all installed copies of the Software from his/her technical infrastructure and delete the license certificate and license file or return them to SeaTable.
 
 ## 6. Free and Open Source Software
@@ -78,15 +78,15 @@ This shall not affect the Customer’s statutory rights, in particular pursuant 
 1. The Customer is obliged to use the Software only in accordance with the provisions of the License Agreement and in accordance with laws and regulations applicable to such use and may not infringe on any third-party rights in connection with such use. The Customer must, in particular, comply with all applicable data protection and export control provisions.
 1. The requirements for the Software are specified in the administrator manual. The Customer is to familiarize himself/herself with these requirements prior to download, installation, and use of the Software.
 1. The Customer is obliged to document material bugs and errors (collectively “Defects”) immediately after occurrence in a form conforming with industry standards and notify SeaTable, either via the Customer’s account manager or by email to support@seatable.io. The report of any Defect must include:  
-– detailed description of the defect  
-– instructions to reproduce the defect  
-– relevant logs  
-– used version of the Software  
-– used operating system and version  
-If a Defect occurred when accessing the Software via a browser, the report must include additionally:  
-– used browser and version  
-– screenshot of the defect  
-– content of browser console  
+   – detailed description of the defect  
+   – instructions to reproduce the defect  
+   – relevant logs  
+   – used version of the Software  
+   – used operating system and version  
+   If a Defect occurred when accessing the Software via a browser, the report must include additionally:  
+   – used browser and version  
+   – screenshot of the defect  
+   – content of browser console
 1. The Customer is obliged to perform regular backups. The parties are of the opinion that a backup of all relevant data in an interval of 24 hours is sensible and appropriate.
 
 ## 9. Term and Cancellation, Termination of Contract
@@ -102,8 +102,8 @@ If a Defect occurred when accessing the Software via a browser, the report must 
 1. During the term of the License Agreement, the Customer owes to SeaTable the recurring user fee for the rights of use to the Software specified in the Order.
 1. Unless explicitly agreed otherwise in the Order, the price list at the time of conclusion of the License Agreement applies and invoices are due for payment within 14 days net.
 1. Unless explicitly agreed otherwise in the Order, SeaTable invoices the license fee upon conclusion of the License Agreement and with every renewal. The invoicing is made  
-(i) online via an email to the email address provided by the Customer or  
-(ii) through an agreed online interface.  
+   (i) online via an email to the email address provided by the Customer or  
+   (ii) through an agreed online interface.
 1. The Customer is only entitled to a paper receipt or printed invoice when he/she requests the invoice from SeaTable in writing and after paying the postage and handling fee.
 1. Before complete payment of the remuneration of this contract all possible data carriers as well as the handed over user documentation are under retention of title.
 1. An increase in the number of licensed users or a switch to a higher service package (“Upgrade”) is possible at any time. If a Customer wants to upgrade a license before a license is up for renewal, SeaTable invoices the upgrade fee owed until the end of the current term. Fees are calculated on a monthly basis, whereby the current month is fully chargeable.
@@ -111,16 +111,16 @@ If a Defect occurred when accessing the Software via a browser, the report must 
 1. All payment charges (e.g., credit card fees) shall be borne by the Customer.
 1. SeaTable is entitled to reasonably increase the license fee effective as of a renewal. SeaTable informs the Customer in writing about the increase no less than 12 weeks before the renewal. Unless the Customer objects to the increase in writing within four weeks of receipt of the notification, the increase is considered approved. SeaTable is obliged to inform the Customer about the effect of his/her silence in the notification. If the Customer objects to the increase, the License Agreement is terminated at the end of the current term.
 1. The statutory provisions, in particular §§ 286 and 288 German Civil Code (BGB), shall apply to the occurrence of default and default interest. In addition, the following provisions shall apply:  
-(i) Reminder fee: In the case of a second reminder, SeaTable can charge a reminder fee.  
-(ii) Termination in case of default: SeaTable may terminate the License Agreement for good cause if the Customer fails to make the payment within fifteen days of receiving the second reminder. Termination is in addition to (and not in lieu of) any other rights and remedies available to SeaTable hereunder or at law.
+   (i) Reminder fee: In the case of a second reminder, SeaTable can charge a reminder fee.  
+   (ii) Termination in case of default: SeaTable may terminate the License Agreement for good cause if the Customer fails to make the payment within fifteen days of receiving the second reminder. Termination is in addition to (and not in lieu of) any other rights and remedies available to SeaTable hereunder or at law.
 
 ## 11. Confidentiality and Data Protection
 
 1. The parties agree not to disclose confidential information. This obligation continues for a period of three years after termination of this contract.
 1. Such confidential information is excluded from this obligation,  
-(i) which was demonstrably already known to the recipient at the time of conclusion of the contract or which are subsequently made known to the recipient by a third party without this disclosure violating any confidentiality agreement, statutory provisions or official orders;  
-(ii) which is publicly known at the time of conclusion of the contract or are subsequently made public, unless this disclosure is due to a breach of this Agreement;  
-(iii) which must be disclosed due to legal obligations or at the order of a court or authority. To the extent permissible and possible, the recipient obliged to disclose will inform the other party in advance and give it the opportunity to take action against the disclosure.  
+   (i) which was demonstrably already known to the recipient at the time of conclusion of the contract or which are subsequently made known to the recipient by a third party without this disclosure violating any confidentiality agreement, statutory provisions or official orders;  
+   (ii) which is publicly known at the time of conclusion of the contract or are subsequently made public, unless this disclosure is due to a breach of this Agreement;  
+   (iii) which must be disclosed due to legal obligations or at the order of a court or authority. To the extent permissible and possible, the recipient obliged to disclose will inform the other party in advance and give it the opportunity to take action against the disclosure.
 1. SeaTable collects, processes, and uses personal data of Customers in accordance with legal requirements and as described in the Privacy Statement. The Privacy Statement is available at https://seatable.io/en/privacy/.
 1. Non-personal or anonymous data may be collected automatically to improve functionality and the user experience with the Software. The Customer agrees that SeaTable owns all rights in and is free to use any such non-personal or anonymous data in any way it deems fit for development, bugfixing, as well as marketing or any other purposes.
 
@@ -131,11 +131,11 @@ SeaTable reserves the right to use the name, logo, and marks of customers on the
 ## 13. Limitation of Liability
 
 1. SeaTable is liable without limitation in case of  
-(i) intent or gross negligence,  
-(ii) injury to life, body and health,  
-(iii) malice,  
-(iv) guarantees for the quality granted, and  
-(v) liability under the German Product Liability Act.
+   (i) intent or gross negligence,  
+   (ii) injury to life, body and health,  
+   (iii) malice,  
+   (iv) guarantees for the quality granted, and  
+   (v) liability under the German Product Liability Act.
 1. In the event of a breach of an obligation, caused by simple negligence, whose fulfillment is essential to the proper execution of the contract and whose breach jeopardizes the achievement of the purpose of the contract and which the Customer regularly trusts in their compliance (“essential contractual obligations”), the liability of SeaTable is limited in amount to the damage which is foreseeable and typical for the type of transaction in question, but not more than the annual license fee.
 1. If data is lost, for which SeaTable is at fault, SeaTable is liable only for the effort that would be required if the client makes proper and regular backups.
 1. No further liability of SeaTable exists. In particular, SeaTable is not liable for initial defects, unless the requirements of Para. 1 and 2 are met.
@@ -147,10 +147,10 @@ SeaTable reserves the right to use the name, logo, and marks of customers on the
 1. SeaTable warrants that the Software is free from defects that would render it unfit for use as specified in this License Agreement. A negligible reduction of the suitability is irrelevant.
 1. If the License Agreement contains properties expressly warranted, SeaTable is also liable for the software having these warranted properties.
 1. The obligation to preserve the Software pursuant to Para. 1 above does not include the right to  
-(i) adapt the Software to new operating systems or new operating system versions,  
-(ii) adapt the Software to the feature set of competing products,  
-(iii) ensure compatibility with new data formats or releases, or  
-(iv) provide any functionality which is no longer supported by SeaTable.  
+   (i) adapt the Software to new operating systems or new operating system versions,  
+   (ii) adapt the Software to the feature set of competing products,  
+   (iii) ensure compatibility with new data formats or releases, or  
+   (iv) provide any functionality which is no longer supported by SeaTable.
 1. The Customer cannot claim any defects if he/she uses the Software in a hardware and/or software environment that does not meet its requirements.
 
 ## 15. Final Provisions

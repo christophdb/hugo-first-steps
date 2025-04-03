@@ -13,14 +13,16 @@ Registrierungprozess:
 - was macht die layouts/_default/index.json
 - tailwind: <span class="absolute -inset-0.5"></span>
               <span class="sr-only">Open main menu</span>
-- mouse hover bei language bei desktop
+[x] mouse hover bei language bei desktop
 - übersetzung screen reader zeug
 - wie a/b testing optimal umsetzen? 
 [x] faq bereich mit alpine.js machen
 [x] lokale fonts (anstatt google fonts)
+[ ] alpine.js lokal
 [ ] favicon kontrollieren mit https://realfavicongenerator.net/favicon-checker
 [ ] sitemap funktioniert noch nicht richtig.
-[ ] PRETTIER!!!
+[x] PRETTIER
+[x] einheitliche dev settings
 
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://www.youtube.com/watch?v=tS7upsfuxmo

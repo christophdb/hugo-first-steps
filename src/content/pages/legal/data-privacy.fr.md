@@ -1,9 +1,9 @@
 ---
-title: "Protection de données"
-description: ""
+title: 'Protection de données'
+description: ''
 date: 2022-05-13
-type: "legal"
-url: "/protection-de-donnees"
+type: 'legal'
+url: '/protection-de-donnees'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
@@ -13,4 +13,3 @@ Ces protection de données n'est disponible qu'en anglais et en allemand. La tra
 L'**[original allemand](/de/datenschutz/)** est juridiquement contraignant.
 
 {{< /alert >}}
-

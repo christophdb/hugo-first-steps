@@ -1,10 +1,10 @@
 ---
-title: "Endnutzer-Lizenzvereinbarung"
-description: "EULA SeaTable Server Enterprise Edition"
+title: 'Endnutzer-Lizenzvereinbarung'
+description: 'EULA SeaTable Server Enterprise Edition'
 date: 2021-09-28
-version: "1.0"
-type: "legal"
-url: "/de/lizenzvereinbarung"
+version: '1.0'
+type: 'legal'
+url: '/de/lizenzvereinbarung'
 ---
 
 ## 1. Parteien und Gegenstand
@@ -25,7 +25,7 @@ url: "/de/lizenzvereinbarung"
 1. Ein Vertrag über die Lizenzierung der Software gemäß dieser EULA (“Lizenzvertrag”) kommt durch die Annahme der Bestellung durch SeaTable und die Übermittlung einer Auftragsbestätigung (“Auftrag”) an den Kunden zustande. Einzelheiten des Lizenzvertrags (z.B. Preis, Laufzeit, Benutzer) ergeben sich aus dem Auftrag, der Teil des Lizenzvertrags ist.
 1. Nach Abschluss des Lizenzvertrags erhält der Kunde einen Lizenzschein und eine Lizenzdatei ausschliesslich für die Nutzung der Software wie im Lizenzvertrag näher bestimmt. Die Lizenzdatei ist eine Textdatei, mit der sich die Software aktivieren lässt.
 1. Bevor ein Lizenzvertrag geschlossen wird, kann SeaTable dem Kunden die Möglichkeit einer Testnutzung der Software anbieten (“Testnutzung”). SeaTable gewährt dem Kunden hierfür eine zeitlich begrenzte Testnutzungs-Lizenz. Die vorliegende EULA findet auch für eine Testnutzung Anwendung.
-Die Lieferfrist der Software ergibt sich aus dem Auftrag. Ist keine Lieferfrist vereinbart, gilt eine Lieferfrist von einer Woche. Die Lieferfrist beginnt mit dem Versand des Auftrags an den Kunden.
+   Die Lieferfrist der Software ergibt sich aus dem Auftrag. Ist keine Lieferfrist vereinbart, gilt eine Lieferfrist von einer Woche. Die Lieferfrist beginnt mit dem Versand des Auftrags an den Kunden.
 1. Abweichende, entgegenstehende oder ergänzende Geschäftsbedingungen des Kunden werden nur dann und insoweit Bestandteil des Lizenzvertrags, wenn SeaTable ihrer Geltung ausdrücklich zugestimmt hat. Das Zustimmungserfordernis gilt in jedem Fall, beispielsweise auch dann, wenn SeaTable in Kenntnis der Allgemeinen Geschäftsbedingungen des Kunden ein Nutzungsrecht einräumt und diesen nicht explizit widerspricht.
 
 ## 4. Produktbeschreibung

@@ -1,9 +1,9 @@
 ---
-title: "Security in SeaTable Cloud"
-description: ""
+title: 'Security in SeaTable Cloud'
+description: ''
 date: 2022-05-13
-type: "legal"
-url: "/security"
+type: 'legal'
+url: '/security'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
@@ -63,6 +63,7 @@ We use state of the art technology and best practices to control access to SeaTa
 - Logging of administrative logins
 
 ## Data Transmissions
+
 To ensure secure transmission of your data over the Internet, all user data, including subscription and payment data, is encrypted using up-to-date cryptographic methods. This applies to data transfer between you and the application servers, between components in a data center, and between the two data centers used.
 
 For the HTTPS connection between your browser and SeaTable, we only allow the more recent TLS protocols 1.2 and 1.3 and use only current algorithms for encryption, authentication, and key exchange. SeaTable Cloud’s [SSL configuration gets an A rating](https://www.ssllabs.com/ssltest/) by IT security firm Qualys (last update May 2022).

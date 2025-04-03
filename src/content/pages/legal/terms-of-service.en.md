@@ -1,10 +1,10 @@
 ---
-title: "Terms of Service"
-description: ""
+title: 'Terms of Service'
+description: ''
 date: 2022-04-14
 version: 1.0.1
-type: "legal"
-url: "/terms-of-service"
+type: 'legal'
+url: '/terms-of-service'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

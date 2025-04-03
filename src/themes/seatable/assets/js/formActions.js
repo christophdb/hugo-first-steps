@@ -1,0 +1,1 @@
+/* form actions for registration and contact form */

@@ -1,137 +1,45 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-{{ partial "head/head.html" . }}
+    {{ partial "head/head.html" . }}
 
-<body class="font-roboto">
-  {{ if hugo.IsProduction }}
-  {{ else }}
-    {{ partial "tw-size-indicator.html" . }}
-    <div class="fixed left-10 top-1 z-10"><a href="/content-blocks/">{{ partial "icon.html" "code" }}</a></div>
-  {{ end }}
+    <body class="font-roboto">
+        {{ if hugo.IsProduction }}
+        {{ else }}
+            {{ partial "tw-size-indicator.html" . }}
+            <div class="fixed left-10 top-1 z-10"><a href="/content-blocks/">{{ partial "icon.html" "code" }}</a></div>
+        {{ end }}
 
-
-  {{ partial "header/basic.html" . }}
-  
-  <main id="main-content" class="relative">
-    {{ block "main" . }}{{ end }}
-  </main>
-
-  <!--{{ partial "seocheck.html" . }}-->
-
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
-
-<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
-
-<script>
-  function abTest() {
-    return {
-      variant: Math.random() > 0.5 ? 'A' : 'B', // Randomly assign 'A' or 'B'
-    };
-  }
-</script>
-
-<script>
-  function contactForm() {
-    return {
-      firstname: '',
-      lastname: '',
-      company: '',
-      email: '',
-      type: 'sales',
-      subject: '',
-      message: '',
-      errors: {},
-      validateEmail() {
-        if (!this.email.trim()) {
-          this.errors.email = '{{ T "registration.email_required" }}';
-        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
-          this.errors.email = '{{ T "registration.email_invalid" }}';
-        } else {
-          delete this.errors.email;
-        }
-      },
-      submitForm() {
-        this.validateEmail();
-
-        if (this.errors.email) {
-          return;
-        }
-
-        const url = '{{ getenv "HUGO_BACKEND_URL" }}';
-
-        const data = {
-          firstname: this.firstname,
-          lastname: this.lastname,
-          company: this.company,
-          email: this.email,
-          subject: this.subject,
-          type: this.type,
-          message: this.message,
-        };
-
-        const headers = {
-          'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-        };
-        const params = new URLSearchParams(data);
-
-        fetch(`${url}/submit`, {
-          method: 'POST',
-          headers: headers,
-          body: params.toString(),
-        })
-          .then(response => response.json())
-          .then(data => console.log(data))
-          .catch(error => console.error('Error:', error));
-      },
-    };
-  }
-
-  function registrationForm() {
-    return {
-      email: '',
-      errors: {},
-      validateEmail() {
-        if (!this.email.trim()) {
-          this.errors.email = '{{ T "registration.email_required" }}';
-        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
-          this.errors.email = '{{ T "registration.email_invalid" }}';
-        } else {
-          delete this.errors.email;
-        }
-      },
-      submitForm() {
-        this.validateEmail();
-
-        if (this.errors.email) {
-          return;
-        }
-
-        const url = '{{ getenv "HUGO_BACKEND_URL" }}';
-
-        const data = {
-          email: this.email,
-        };
-
-        const headers = {
-          'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-        };
-        const params = new URLSearchParams(data);
-
-        fetch(`${url}/register`, {
-          method: 'POST',
-          headers: headers,
-          body: params.toString(),
-        })
-          .then(response => response.json())
-          .then(data => console.log(data))
-          .catch(error => console.error('Error:', error));
-      },
-    };
-  }
-</script>
+        {{ partial "header/basic.html" . }}
 
 
-</body>
+        <main id="main-content" class="relative">
+            {{ block "main" . }}{{ end }}
+        </main>
+
+        <!--{{ partial "seocheck.html" . }}-->
+
+        <footer>
+            {{ partial "footer.html" . }}
+        </footer>
+
+        <!-- alpine js -->
+        {{ $alpine := resources.Get "js/alpine.js" }}
+        {{ $collapse := resources.Get "js/alpineCollapse.js" }}
+        {{ $bundle := slice $alpine $collapse | resources.Concat "js/alpine-bundle.min.js" | minify | fingerprint }}
+        <script src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" defer></script>
+
+
+        <!-- formActions -->
+        {{ $js := resources.Get "js/formActions.js" | minify | fingerprint }}
+        <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+
+        <!-- AB-Split Tests -->
+        <script>
+            function abTest() {
+                return {
+                    variant: Math.random() > 0.5 ? 'A' : 'B', // Randomly assign 'A' or 'B'
+                };
+            }
+        </script>
+    </body>
 </html>

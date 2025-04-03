@@ -1,21 +1,22 @@
-<header class="padding-x py-8 z-10 w-full" x-data="{ mobileMenuOpen: false, productMenuOpen: false, solutionMenuOpen: false }">
-    <nav class="flex justify-between items-center max-container">
+<header class="padding-x z-10 w-full py-8" x-data="{ mobileMenuOpen: false, productMenuOpen: false, solutionMenuOpen: false }">
+    <nav class="max-container flex items-center justify-between">
         <!-- Logo -->
-        <a href='{{ "/" | relLangURL }}'><img src="/images/seatable-logo.svg" alt="Logo" width="130" height="29" /></a>
+        <a href="{{ "/" | relLangURL }}"><img src="/images/seatable-logo.svg" alt="Logo" width="130" height="29" /></a>
 
         <!-- Hauptnavigation -->
-        <ul class="flex-1 flex justify-center items-center gap-8 max-lg:hidden text-gray-800">
+        <ul class="flex flex-1 items-center justify-center gap-4 max-lg:hidden">
             {{ if .Site.Menus.main }}
-            {{ range .Site.Menus.main }}
-            {{ partial "header/navigation-desktop.html" . }}
-            {{ end }}
+                {{ range .Site.Menus.main }}
+                    {{ partial "header/navigation-desktop.html" . }}
+                {{ end }}
             {{ end }}
         </ul>
 
         <!-- Language, Login, Register -->
-        <div class="flex justify-between items-center gap-2"> 
+        <div class="flex items-center justify-between gap-2">
             {{ partial "header/registration-login-button.html" . }}
             {{ partial "header/language-switcher.html" . }}
+
 
             <!-- Mobile Menu-->
             <div class="hidden max-lg:block">
@@ -30,14 +31,10 @@
     <div x-show="mobileMenuOpen" x-transition @click.away="mobileMenuOpen = false" id="mobile-menu" class="hidden max-lg:block">
         <ul class="flex flex-col items-end gap-4 bg-slate-100 p-4 text-right">
             {{ if .Site.Menus.main }}
-            {{ range .Site.Menus.main }}
-            {{ partial "header/navigation-mobile.html" . }}
-            {{ end }}
+                {{ range .Site.Menus.main }}
+                    {{ partial "header/navigation-mobile.html" . }}
+                {{ end }}
             {{ end }}
         </ul>
     </div>
-
 </header>
-
-
-

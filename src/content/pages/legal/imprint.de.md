@@ -1,9 +1,9 @@
 ---
-title: "Impressum"
-description: ""
+title: 'Impressum'
+description: ''
 date: 2025-03-24
-type: "legal"
-url: "/de/impressum"
+type: 'legal'
+url: '/de/impressum'
 ---
 
 ## Angaben gemäß Paragraph 5 DDG
