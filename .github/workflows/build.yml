@@ -43,4 +43,5 @@ jobs:
       - name: Deploy with rsync
         # TODO: Add --delete
         # There's no target path after the last colon since rrsync is used on the server
-        run: "rsync -avz public ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"
+        run: "rsync -avz . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"
+        working-directory: public
