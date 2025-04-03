@@ -1,0 +1,23 @@
+{{ $iconPath := "icons/*.svg" }}
+{{ $icons := resources.Match $iconPath }}
+
+<section class="padding">
+    <section id="galerie" class="max-container">
+        <div class="mx-auto text-center max-w-[800px]">
+            <p class="text-2xl font-bold font-poppins gradient">Font Awesome Icons</p>
+            <h2 class="mt-1 text-4xl font-bold">Pretty up the site</h2>
+            
+            <p class="mt-4">To add more icons, copy the svg from <a class="text-blue-600 hover:underline" href="https://fontawesome.com/search" target="_blank">https://fontawesome.com</a> to <span class="font-robotoMono">/assets/icons</span>. 
+                Add <span class="font-robotoMono">fill="currentColor"</span> to the path.</p>
+            <ul class="mt-8">    
+            {{ range $icons }}
+                <li class="flex gap-6 border-b border-slate-200 py-2 text-xl">
+                    {{ $name := path.BaseName .Name }}
+                    {{ partial "icon.html" $name }}
+                    <span>{{ printf $name }}</span>
+                </li>
+            {{ end }} 
+            </ul>
+        </div>
+    </section>
+</section>
