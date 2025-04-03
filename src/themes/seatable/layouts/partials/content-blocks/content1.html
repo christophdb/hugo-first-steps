@@ -1,6 +1,7 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
   weight: 1
   title: 
   subtitle: 
@@ -13,23 +14,25 @@
     text:
   - headline:
     text:
-  image:</code></pre></div>
+  image:</code></pre>
+    </div>
 {{ end }}
 
+
 <!-- HTML Block -->
-<section class="!pt-40 padding bg-gray-100 curved" id="{{ .name }}">
-    <section class="max-container flex justify-between items-start w-full gap-10 max-lg:flex-col">
-        <div class="flex flex-col basis-3/5">
-            <p class="text-2xl font-bold font-poppins gradient">{{ .title }}</p>
+<section class="padding curved bg-gray-100 !pt-40" id="{{ .name }}">
+    <section class="max-container flex w-full items-start justify-between gap-10 max-lg:flex-col">
+        <div class="flex basis-3/5 flex-col">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .title }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .subtitle }}</h2>
             <p class="mt-8">{{ .description }}</p>
             {{ range .items }}
                 <h3 class="mt-12 text-xl font-bold tracking-tight">{{ .headline }}</h3>
                 <p class="mt-3 text-base leading-normal">{{ .text }}</p>
                 {{ if .text2 }}
-                <p class="mt-3 text-base leading-normal">{{ .text2 }}</p>
+                    <p class="mt-3 text-base leading-normal">{{ .text2 }}</p>
                 {{ end }}
-            {{ end }}            
+            {{ end }}
         </div>
         <div class="basis-2/5 justify-center">
             <img src="{{ .image }}" alt="placeholder" />

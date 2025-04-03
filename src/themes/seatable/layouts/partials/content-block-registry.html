@@ -1,5 +1,3 @@
-
-
 {{ with .Params.sections }}
     {{ range sort . "weight" }}
         {{ $partialName := printf "partials/content-blocks/%s.html" .name }}
@@ -15,8 +13,3 @@
     <!-- no blocks defined at all -->
     {{ partial "content-blocks/undefined.html" . }}
 {{ end }}
-
-
-
-
-
