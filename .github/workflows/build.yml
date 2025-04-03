@@ -42,4 +42,4 @@ jobs:
         run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
       - name: Deploy with rsync
         # TODO: Add --delete
-        run: rsync -avz public ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/opt/seatable.com/public
+        run: rsync -avz public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/opt/seatable.com/public/
