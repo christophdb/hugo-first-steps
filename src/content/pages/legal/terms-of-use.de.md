@@ -7,3 +7,5 @@ type: "legal"
 url: "/de/nutzungsbedingungen"
 translationKey: "terms-of-use"
 ---
+
+adaf

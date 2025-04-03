@@ -1,11 +1,24 @@
-nav_home: Home
-nav_about: Über uns
-nav_products: Produkte
-nav_contact: Kontakt
-nav_signin: Registrierung
-
+# old stuff ?!?
 month: Monat
 contact_sales: Verkauf kontaktieren
 read_more: "Mehr erfahren"
 yearly: "Jährlich"
 monthly: "Monatlich"
+
+
+navigation:
+  login: "Login"
+  registration: "Registrierung"
+
+
+error:
+  404_title: "Seite nicht gefunden :confused:"
+  404_error: "Fehler 404"
+  404_description: "Es sieht so aus, als ob es diese Seite nicht gibt."
+
+article:
+  table_of_contents: "Inhaltsverzeichnis"
+
+legal:
+  version: "Version"
+  published_on: "veröffentlicht am"

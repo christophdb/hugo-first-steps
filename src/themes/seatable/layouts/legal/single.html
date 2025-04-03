@@ -1,9 +1,18 @@
 {{ define "main" }}
   <article class="max-w-full mx-auto padding">
     <header>
-      <h1 class="mt-0 text-5xl font-extrabold text-neutral-900 dark:text-neutral text-center gradient pt-8">
+      <h1 class="mt-0 mb-2 text-5xl font-extrabold text-neutral-900 dark:text-neutral text-center gradient pt-8">
         {{ .Title | emojify }}
       </h1>
+      {{ if .Description }}
+      <p class="text-sm text-center">{{ .Description }}</p>
+      {{ end}}
+
+      {{ if and (.Params.Version) (not .Date.IsZero) }}
+      {{ $version := .Params.Version }}
+      {{ $date := .Date | time.Format "2006-01-02" }}
+      <p class="text-sm text-center">{{ T "legal.version" }} {{ $version }} {{ T "legal.published_on" }} {{ $date | time.Format site.Params.dateFormat }}</p>
+      {{ end }}
     </header>
 
     <section class="max-w-[800px] mx-auto mt-20">

@@ -7,3 +7,4 @@ type: "legal"
 url: "/terms-of-use"
 translationKey: "terms-of-use"
 ---
+

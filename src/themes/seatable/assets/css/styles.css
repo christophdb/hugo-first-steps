@@ -39,6 +39,12 @@
   @apply pb-2;
   @apply leading-normal;
 }
+#legal ol {
+  @apply list-decimal;
+  @apply pt-4;
+  @apply pl-6;
+  @apply pb-4;
+}
 #legal a {
   @apply no-underline;
   @apply text-blue-600;

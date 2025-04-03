@@ -1,11 +1,22 @@
-nav_home: Home
-nav_about: About Us
-nav_products: Products
-nav_contact: Contact Us
-nav_signin: Sign in
-
+# old stuff ?!?
 month: Month
 contact_sales: Contact sales
 read_more: "Read more"
 yearly: Yearly
 monthly: Monthly
+
+navigation:
+  login: "Login"
+  registration: "Registration"
+
+error:
+  404_title: "Page Not Found :confused:"
+  404_error: "Error 404"
+  404_description: "It seems that the page you've requested does not exist."
+
+article:
+  table_of_contents: "Table of Contents"
+
+legal:
+  version: "Version"
+  published_on: "published on"

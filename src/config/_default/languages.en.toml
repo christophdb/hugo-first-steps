@@ -8,6 +8,6 @@ title = "SeaTable"
 [params]
   displayName = "EN"
   isoCode = "en"
-  dateFormat = "2 January 2006"
+  dateFormat = "Jan 2, 2006"
   logo = "/images/seatable-logo.svg"
   footerPhrase = "Make powerful processes like thousands of others who use SeaTable daily."
