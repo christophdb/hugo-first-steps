@@ -1,28 +1,7 @@
 navigation:
   login: "Login"
   registration: "Registrierung"
-  products: 
-    headline: Produkte
-    cloud: SeaTable Cloud
-    dedicated: SeaTable Dedicated
-    server: SeaTable Server
-    support: Support
-  support:
-    headline: Unterstützung
-    guide: Kurzanleitung
-    help: Hilfebereich
-    templates: Vorlagen
-    integrations: Integrations
-    forum: Forum
-    api: Developer API
-    status: Status
-  company:
-    headline: Unternehmen
-    about: Über uns
-    jobs: Jobs
-    press: Presse
-    contact: Kontakt
-    blog: Blog  
+
 
 error:
   404_title: "Seite nicht gefunden :confused:"

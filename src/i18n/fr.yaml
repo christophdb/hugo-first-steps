@@ -1,6 +1,8 @@
 navigation:
   login: "Connexion"
   registration: "Inscription"
+
+  
   products: 
     headline: Produits
     cloud: SeaTable Cloud

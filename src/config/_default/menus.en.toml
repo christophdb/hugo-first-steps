@@ -1,4 +1,14 @@
 # -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier (translationkey) of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
 
 [[main]]
   name = "Functions"
@@ -80,29 +90,141 @@
   weight = 50
 
 # -- Footer Menu --
-# The footer menu is displayed at the bottom of the page
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
 
 [[footer]]
+  name = "Products"
+  weight = 10
+
+[[footer]]
+  name = "SeaTable Cloud"
+  parent = "Products"
+  pageRef = "seatable-cloud"
+  weight = 11
+
+[[footer]]
+  name = "SeaTable Dedicated"
+  parent = "Products"
+  pageRef = "seatable-dedicated"
+  weight = 12
+
+[[footer]]
+  name = "SeaTable Server"
+  parent = "Products"
+  pageRef = "seatable-server"
+  weight = 13
+
+[[footer]]
+  name = "Support"
+  parent = "Products"
+  pageRef = "support"
+  weight = 14
+
+[[footer]]
+  name = "Assistance"
+  weight = 20
+
+[[footer]]
+  name = "Quick guide"
+  parent = "Assistance"
+  pageRef = "quick-guide"
+  weight = 21
+
+[[footer]]
+  name = "Help area"
+  parent = "Assistance"
+  pageRef = "help"
+  weight = 22
+
+[[footer]]
+  name = "Templates"
+  parent = "Assistance"
+  pageRef = "templates"
+  weight = 23
+
+[[footer]]
+  name = "Integrations"
+  parent = "Assistance"
+  pageRef = "integrations"
+  weight = 24
+
+[[footer]]
+  name = "Forum"
+  parent = "Assistance"
+  url = "https://forum.seatable.io"
+  weight = 25
+
+[[footer]]
+  name = "Developer API"
+  parent = "Assistance"
+  url = "https://api.seatable.io"
+  weight = 26
+
+[[footer]]
+  name = "Status"
+  parent = "Assistance"
+  url = "https://status.seatable.io"
+  weight = 27
+
+[[footer]]
+  name = "The company"
+  weight = 30
+
+[[footer]]
+  name = "About us"
+  parent = "The company"
+  pageRef = "about-us"
+  weight = 31
+
+[[footer]]
+  name = "Jobs"
+  parent = "The company"
+  pageRef = "jobs"
+  weight = 32
+
+[[footer]]
+  name = "Press"
+  parent = "The company"
+  pageRef = "press"
+  weight = 33
+
+[[footer]]
+  name = "Contact"
+  parent = "The company"
+  pageRef = "contact-us"
+  weight = 34
+
+[[footer]]
+  name = "Blog"
+  parent = "The company"
+  pageRef = "posts"
+  weight = 35
+
+# -- Legal Disclaimer --
+# The last line of the page with links to the legal pages.
+
+[[legal]]
   name = "Imprint"
   pageRef = "imprint"
   weight = 10
 
-[[footer]]
+[[legal]]
   name = "Security"
   pageRef = "security"
   weight = 20
 
-[[footer]]
+[[legal]]
   name = "Data protection"
   pageRef = "data-privacy"
   weight = 30
 
-[[footer]]
+[[legal]]
   name = "Terms of use"
   pageRef = "terms-of-use"
   weight = 40
 
-[[footer]]
+[[legal]]
   name = "EULA"
   pageRef = "eula"
   weight = 50
