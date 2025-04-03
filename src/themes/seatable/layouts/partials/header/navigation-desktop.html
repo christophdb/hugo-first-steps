@@ -1,12 +1,12 @@
 {{ if not .HasChildren }}
     <!-- Top-level menu item -->
     <li class="">
-        <a class="rounded-lg p-2 px-4 font-poppins text-lg text-seatable-gray hover:bg-[#25221e12]" href="{{ .URL }}">{{ .Name | markdownify }}</a>
+        <a class="rounded-lg p-2 px-4 font-poppins text-lg font-bold text-seatable-gray hover:bg-[#25221e12]" href="{{ .URL }}">{{ .Name | markdownify }}</a>
     </li>
 {{ else }}
     <!-- Menu item with children -->
     <li class="relative z-20 flex items-center" x-data="{ open: false }" @mouseenter="open = true" @mouseleave="open = false">
-        <a class="rounded-lg p-2 px-4 pr-7 font-poppins text-lg text-seatable-gray hover:bg-[#25221e12]" href="#0" :aria-expanded="open">{{ .Name | markdownify }}</a>
+        <a class="rounded-lg p-2 px-4 pr-7 font-poppins text-lg font-bold text-seatable-gray hover:bg-[#25221e12]" href="#0" :aria-expanded="open">{{ .Name | markdownify }}</a>
         <button class="shrink-0 p-1" :aria-expanded="open" @click.prevent="open = !open">
             <span class="sr-only">Show submenu for "{{ .Name }}"</span>
             <svg class="relative right-7" xmlns="http://www.w3.org/2000/svg" width="12" height="12">
@@ -27,7 +27,7 @@
             @focusout="$nextTick(() => !$el.contains($focus.focused()) && (open = false))">
             {{ range .Children }}
                 <li class="">
-                    <a class="block p-2 font-poppins text-lg hover:rounded-lg hover:bg-[#25221e12]" href="{{ .URL }}">
+                    <a class="block p-2 font-poppins text-lg font-bold hover:rounded-lg hover:bg-[#25221e12]" href="{{ .URL }}">
                         <span class="">{{ .Name }}</span>
                     </a>
                 </li>
