@@ -29,7 +29,7 @@
 
     <!-- Mobile menu, show/hide based on menu state. -->
     <div x-show="mobileMenuOpen" @click.away="mobileMenuOpen = false" id="mobile-menu" class="hidden max-lg:block">
-        <div class="absolute top-0 left-0 w-full z-40 h-full bg-slate-200 p-9 text-right border-b">
+        <div class="absolute top-0 left-0 w-full z-[99999] min-h-full bg-slate-200 p-9 text-right border-b">
         <button @click="mobileMenuOpen = !mobileMenuOpen" aria-label="Toggle mobile menu">
             <img src="/icons/xmark.svg" alt="Hamburger" width="16" height="16" />
         </button>
@@ -40,7 +40,7 @@
                 {{ end }}
             {{ end }}
         </ul>
-        <div class="flex flex-col text-center gap-4 mt-4">
+        <div class="flex flex-col text-center gap-4 mt-4 ">
             <a href="https://cloud.seatable.io"
                 class="bg-white border text-black font-bold font-poppins py-2 px-4 rounded-lg">
                 {{ T "navigation.login" }}
