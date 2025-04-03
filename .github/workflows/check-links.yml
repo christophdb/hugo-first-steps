@@ -15,6 +15,6 @@ jobs:
       - name: Start development server
         run: docker compose up -d
       - name: Install muffet
-        run: go install github.com/raviqqe/muffet/v2@v${MUFFET_VERSION}
+        run: go install github.com/raviqqe/muffet/v2@${MUFFET_VERSION}
       - name: Check links
         run: muffet -t60 -c10 -f -i 'http://127*' -i 'http://localhost' http://127.0.0.1:1313
