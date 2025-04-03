@@ -7,45 +7,47 @@
                 die beste Lösung für Ihr Unternehmen und Ihren Anwendungsfall zu finden. Entdecken Sie noch heute die transformative Power der SeaTable No-Code Digital Solution!</p>
         </div>
 
-        <div x-data="formValidation()">
+        <div x-data="contactForm()">
             <form @submit.prevent="submitForm" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
                 <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
                     <div>
                         <label for="first-name" class="block font-bold text-md">First name</label>
                         <div class="mt-2.5">
-                        <input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                        <input type="text" name="first-name" id="first-name" autocomplete="given-name" x-model="firstname" required class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
                         </div>
                     </div>
                     <div>
                         <label for="last-name" class="block font-bold text-md">Last name</label>
                         <div class="mt-2.5">
-                        <input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full rounded-md bg-white px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                        <input type="text" name="last-name" id="last-name" autocomplete="family-name" x-model="lastname" required class="block w-full rounded-md bg-white px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
                         </div>
                     </div>
                     <div class="sm:col-span-2">
                         <label for="company" class="block text-sm/6 font-semibold text-gray-900">Company</label>
                         <div class="mt-2.5">
-                        <input type="text" name="company" id="company" autocomplete="organization" class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                        <input type="text" name="company" id="company" autocomplete="organization" x-model="company" class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
                         </div>
                     </div>
                     <div class="sm:col-span-2">
                         <label for="email" class="block text-sm/6 font-semibold text-gray-900">Email</label>
                         <div class="mt-2.5">
-                            <input type="email" name="email" id="email" autocomplete="email" x-model="email" @input="validateEmail" class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
+                            <input type="email" name="email" id="email" autocomplete="email" x-model="email" @input="validateEmail" required class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600">
                             <p x-text="errors.email" class="error"></p>
                         </div>
                     </div>
 
                     <div class="sm:col-span-2">
-                        <label for="message" class="block text-sm/6 font-semibold text-gray-900">Grund der Anfrage</label>
+                        <label for="subject" class="block text-sm/6 font-semibold text-gray-900">Grund der Anfrage</label>
 
                         <div class="mt-2.5">
-                            <select id="countries" class="bg-gray-50 border appearance-none form-select bg-no-repeat border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
-                            <option selected>Choose a country</option>
-                            <option value="US">United States</option>
-                            <option value="CA">Canada</option>
-                            <option value="FR">France</option>
-                            <option value="DE">Germany</option>
+                            <select id="subject" x-model="subject" x-init="subject = $el.value; console.log($el.dataset); type = $el.dataset.type" @change="type = $event.target.options[$event.target.selectedIndex].dataset.type" class="bg-gray-50 border appearance-none form-select bg-no-repeat border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-3 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                                <!-- TODO: Define mapping from option to type (sales/support) -->
+                                <option value="Ich möchte mehr über SeaTable Enterprise erfahren" data-type="sales" selected>I would like to learn more about SeaTable Enterprise</option>
+                                <option value="Ich möchte ein Angebot erhalten" data-type="sales">I would like to receive a quote</option>
+                                <option value="Ich habe eine Frage zur SeaTable Cloud" data-type="sales">I have a question about the SeaTable Cloud</option>
+                                <option value="Ich bin ein Kunde und benötige Support" data-type="support">I am a customer and need support</option>
+                                <option value="Ich habe eine Partner/Reseller Anfrage" data-type="sales">I have a partner/reseller request</option>
+                                <option value="Etwas anderes ..." data-type="support">Something else ...</option>
                             </select>
                         </div>
                     </div>
@@ -53,7 +55,7 @@
                     <div class="sm:col-span-2">
                         <label for="message" class="block text-sm/6 font-semibold text-gray-900">Message</label>
                         <div class="mt-2.5">
-                        <textarea name="message" id="message" rows="4" class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"></textarea>
+                        <textarea name="message" id="message" x-model="message" rows="4" class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"></textarea>
                         </div>
                     </div>
 
