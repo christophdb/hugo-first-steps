@@ -22,15 +22,16 @@
             {{ partial "footer.html" . }}
         </footer>
 
-        <!-- alpine js -->
-        {{ $alpine := resources.Get "js/alpine.js" }}
-        {{ $collapse := resources.Get "js/alpineCollapse.js" }}
-        {{ $bundle := slice $alpine $collapse | resources.Concat "js/alpine-bundle.min.js" | minify | fingerprint }}
-        <script src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" defer></script>
-
         <!-- formActions -->
         {{ $js := resources.Get "js/formActions.js" | minify | fingerprint }}
         <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+
+        <!-- alpine js -->
+        {{ $collapse := resources.Get "js/alpineCollapse.js" | fingerprint }}
+        <script src="{{ $collapse.RelPermalink }}" integrity="{{ $collapse.Data.Integrity }}" defer></script>
+
+        {{ $alpine := resources.Get "js/alpine.js" | fingerprint }}
+        <script src="{{ $alpine.RelPermalink }}" integrity="{{ $alpine.Data.Integrity }}" defer></script>
 
         <!-- matomo analytics -->
         {{ partial "matomo-analytics.html" . }}
