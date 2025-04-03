@@ -1,9 +1,9 @@
 ---
-title: "Sicherheit der SeaTable Cloud"
-description: ""
+title: 'Sicherheit der SeaTable Cloud'
+description: ''
 date: 2022-05-13
-type: "legal"
-url: "/de/sicherheit"
+type: 'legal'
+url: '/de/sicherheit'
 ---
 
 Stand: 13. Mai 2022
@@ -12,11 +12,11 @@ Sie vertrauen darauf, dass Ihre Benutzerdaten in SeaTable Cloud sicher, privat u
 
 Fünf Grundsätze leiten unsere Entscheidungen in Bezug auf Aufbau und Betrieb von SeaTable Cloud:
 
-* Zusammenarbeit mit erstklassigen (europäischen) Partnern
-* Verwendung des aktuellen Stands der Technik und Best Practices
-* Kontinuierliche Qualifizierung der Mitarbeiter
-* Sicherheit durch Redundanz
-* Offene, aktive Fehlerkultur
+- Zusammenarbeit mit erstklassigen (europäischen) Partnern
+- Verwendung des aktuellen Stands der Technik und Best Practices
+- Kontinuierliche Qualifizierung der Mitarbeiter
+- Sicherheit durch Redundanz
+- Offene, aktive Fehlerkultur
 
 ## Datenspeicherung
 
@@ -46,15 +46,15 @@ Abgesehen von den berechtigten Mitarbeitern bei der SeaTable GmbH und unseren Pa
 
 Wir nutzen den aktuellen Stand der Technik und etablierte Best-Practices, um den Zugriff auf die Infrastruktur von SeaTable Cloud abzusichern. Eingesetzte Techniken und Methoden sind:
 
-*   Firewalls
-*   IP-Adressen Weißliste
-*   Public-Key-Authentifizierung
-*   Passwort-Mindestanforderungen
-*   2-Faktor Authentisierung
-*   Captcha
-*   API-Throttling
-*   Angriffserkennungssystem (z.B. Monitoring der IP-Adressen)
-*   Protokollierung der administrativen Zugriffe
+- Firewalls
+- IP-Adressen Weißliste
+- Public-Key-Authentifizierung
+- Passwort-Mindestanforderungen
+- 2-Faktor Authentisierung
+- Captcha
+- API-Throttling
+- Angriffserkennungssystem (z.B. Monitoring der IP-Adressen)
+- Protokollierung der administrativen Zugriffe
 
 ## Datenübertragung
 
@@ -74,9 +74,9 @@ Für den Fall unbeabsichtigter Datenlöschungen und -änderungen durch Benutzer 
 
 Sie können Ihre Daten jederzeit aus SeaTable heraus exportieren. SeaTable bietet dafür drei Optionen:
 
-* Export über das Webinterface in eine CSV- bzw. XLSX-Datei
-* Export über das Webinterface in eine DTABLE-Datei
-* Export über die API
+- Export über das Webinterface in eine CSV- bzw. XLSX-Datei
+- Export über das Webinterface in eine DTABLE-Datei
+- Export über die API
 
 Mehr Informationen über das [DTABLE-Dateiformat](https://seatable.io/docs/handbuch/expertenwissen/dtable-dateiformat/) finden Sie im SeaTable Handbuch. Die SeaTable API ist vollständig in der [API-Dokumentation](https://api.seatable.io/) beschrieben.
 

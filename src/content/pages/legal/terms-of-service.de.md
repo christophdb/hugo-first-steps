@@ -1,10 +1,10 @@
 ---
-title: "Nutzungsbedingungen"
-description: ""
+title: 'Nutzungsbedingungen'
+description: ''
 date: 2022-04-14
 version: 1.0.1
-type: "legal"
-url: "/de/nutzungsbedingungen"
+type: 'legal'
+url: '/de/nutzungsbedingungen'
 ---
 
 ## Allgemein

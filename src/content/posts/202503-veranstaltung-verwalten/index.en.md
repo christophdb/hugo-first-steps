@@ -36,10 +36,10 @@ Event planning tools are a dime a dozen. Choosing the right software that is pre
 
 A particular highlight is the ability to record various statistics using the app. This allows important insights to be gained and the success of the event to be analyzed transparently afterwards.
 
--   **User-friendliness**: Very intuitive, no technical expertise required.
--   **Functionality**: Focus on mobile event app with basic functions.
--   **Data protection**: Data is processed in compliance with GDPR and stored on German servers.
--   **Costs**: From 99 euros per event or from 1,999 euros per year.
+- **User-friendliness**: Very intuitive, no technical expertise required.
+- **Functionality**: Focus on mobile event app with basic functions.
+- **Data protection**: Data is processed in compliance with GDPR and stored on German servers.
+- **Costs**: From 99 euros per event or from 1,999 euros per year.
 
 ### idloom
 
@@ -47,10 +47,10 @@ A particular highlight is the ability to record various statistics using the app
 
 A special feature of idloom is its flexible registration: from waiting lists and group registrations to exclusive access, the platform offers a wide range of options to meet your individual requirements when managing events. In addition, idloom scores with integrations, the ability to create certificates and flexible customization to meet company-specific requirements.
 
--   **User-friendliness**: Intuitive, yet extensive, therefore short training period required.
--   **Functionality**: Comprehensive event management.
--   **Data protection**: GDPR-compliant, offers numerous security and compliance features.
--   **Costs**: From 150 euros per month.
+- **User-friendliness**: Intuitive, yet extensive, therefore short training period required.
+- **Functionality**: Comprehensive event management.
+- **Data protection**: GDPR-compliant, offers numerous security and compliance features.
+- **Costs**: From 150 euros per month.
 
 ### SCOOCS
 
@@ -58,10 +58,10 @@ A special feature of idloom is its flexible registration: from waiting lists and
 
 The offering is complemented by a mobile app that can be customized to your company's requirements. Another highlight is the comprehensive analysis function, which can be used to evaluate in detail how successful the planning of an event was.
 
--   **User-friendliness**: Modern, but complex features require familiarization.
--   **Functionality**: Virtual/hybrid events with a focus on networking, matchmaking and gamification.
--   **Data protection**: Server in the EU, data protection friendly
--   **Costs**: One-off from 4,500 euros for 500 visitors, annual from 3,000 euros.
+- **User-friendliness**: Modern, but complex features require familiarization.
+- **Functionality**: Virtual/hybrid events with a focus on networking, matchmaking and gamification.
+- **Data protection**: Server in the EU, data protection friendly
+- **Costs**: One-off from 4,500 euros for 500 visitors, annual from 3,000 euros.
 
 ### Converve
 
@@ -69,10 +69,10 @@ The offering is complemented by a mobile app that can be customized to your comp
 
 The software offers a wide range of features from data management and registration to a customizable app or website, networking and matchmaking options. Another highlight of Converve is the ability to analyze data and create detailed reports.
 
--   **Ease of use**: Flexible but complex; well thought out for networking events.
--   **Functionality**: Networking, lead generation, matchmaking.
--   **Data protection**: GDPR-compliant, good measures for secure data transfer.
--   **Costs**: 4,190 euros for 1 to 100 participants
+- **Ease of use**: Flexible but complex; well thought out for networking events.
+- **Functionality**: Networking, lead generation, matchmaking.
+- **Data protection**: GDPR-compliant, good measures for secure data transfer.
+- **Costs**: 4,190 euros for 1 to 100 participants
 
 ### SeaTable
 
@@ -82,10 +82,10 @@ SeaTable is particularly helpful for your events: Planning an event becomes a br
 
 SeaTable also offers automation functions, such as the automatic sending of e-mails. Even multiple events can be managed centrally in one place without losing track of everything. Plan budgets, track costs and send invoices with just one click.
 
--   **User-friendliness**: Intuitive and easy to use.
--   **Functionality**: Flexible management incl. collaboration and automation features.
--   **Data protection**: DSGVO-compliant, German servers, optional on-premises installation for full data sovereignty
--   **Costs**: Free basic version, more functions from €7 per user/month.
+- **User-friendliness**: Intuitive and easy to use.
+- **Functionality**: Flexible management incl. collaboration and automation features.
+- **Data protection**: DSGVO-compliant, German servers, optional on-premises installation for full data sovereignty
+- **Costs**: Free basic version, more functions from €7 per user/month.
 
 ## How you can manage events perfectly in 10 steps
 
@@ -113,11 +113,11 @@ To ensure that you do not manage events that exceed your budget, it is crucial i
 
 The most important cost items that you should take into account:
 
--   **Location**: Venue rental costs including any ancillary costs such as cleaning or security services.
--   **Technology**: Expenses for the rental of audio, video and lighting equipment as well as labor costs for technicians or support staff.
--   **Catering**: Budget for food and beverages including service charges, gratuities and any additional expenses for special food requests.
--   **Marketing**: Costs for advertising, printing invitations or flyers, and online advertising or social media promotion.
--   **Entertainment**: Budget for live acts, DJs, artists or other forms of event entertainment.
+- **Location**: Venue rental costs including any ancillary costs such as cleaning or security services.
+- **Technology**: Expenses for the rental of audio, video and lighting equipment as well as labor costs for technicians or support staff.
+- **Catering**: Budget for food and beverages including service charges, gratuities and any additional expenses for special food requests.
+- **Marketing**: Costs for advertising, printing invitations or flyers, and online advertising or social media promotion.
+- **Entertainment**: Budget for live acts, DJs, artists or other forms of event entertainment.
 
 By carefully planning and budgeting these main cost items as well as additional expenses for your event, you can ensure that your event stays on budget and does not incur unexpected costs. If you are managing commercial events, you can use this as a basis to calculate how much admission you need to charge to cover costs.
 

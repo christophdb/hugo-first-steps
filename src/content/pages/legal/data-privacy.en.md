@@ -1,9 +1,9 @@
 ---
-title: "Privacy Policy"
-description: ""
+title: 'Privacy Policy'
+description: ''
 date: 2022-05-13
-type: "legal"
-url: "/data-privacy"
+type: 'legal'
+url: '/data-privacy'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
@@ -58,7 +58,7 @@ The data processing controller for this online service is:
 SeaTable GmbH  
 117er Ehrenhof 5  
 55118 Mainz  
-Germany  
+Germany
 
 Phone: +49 6131 26550  
 Email: info@seatable.io
@@ -154,6 +154,7 @@ This data is not merged with other data sources.
 We use the log data to ensure the reliable operation of this online service and to continuously optimize the technical infrastructure. This represents a legitimate interest within the meaning of Art. 6 (1) f GDPR.
 
 ### Cookies
+
 The online service and pages use what the industry refers to as cookies. Cookies are small text files that are either cached temporarily for the duration of a session, so-called session cookies, or they are permanently stored on your device, so-called permanent cookies. Session cookies are automatically deleted once you terminate your visit. Permanent cookies remain archived on your device until you actively delete them or they are automatically removed by the web browser.
 
 In some cases, it is possible that third-party cookies are stored on your device once you enter our site (third-party cookies). These cookies enable you or us to take advantage of certain services offered by the third party (e.g. cookies for the processing of payment services).

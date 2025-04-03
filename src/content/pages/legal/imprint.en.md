@@ -1,9 +1,9 @@
 ---
-title: "Imprint"
-description: ""
+title: 'Imprint'
+description: ''
 date: 2025-03-24
-type: "legal"
-url: "/imprint"
+type: 'legal'
+url: '/imprint'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
@@ -12,7 +12,6 @@ This imprint is only available in english and german. The english translation is
 The **[German original](/de/impressum/)** is legally binding.
 
 {{< /alert >}}
-
 
 ## Information according to paragraph 5 German Telemedia Act (TMG)
 

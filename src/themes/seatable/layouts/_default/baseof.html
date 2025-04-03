@@ -1,36 +1,38 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-{{ partial "head/head.html" . }}
-
-<body class="font-roboto">
-  {{ if hugo.IsProduction }}
-  {{ else }}
-    {{ partial "tw-size-indicator.html" . }}
-    <div class="fixed left-10 top-1 z-10"><a href="/content-blocks/">{{ partial "icon.html" "code" }}</a></div>
-  {{ end }}
+    {{ partial "head/head.html" . }}
 
 
-  {{ partial "header/basic.html" . }}
-  
-  <main id="main-content" class="relative">
-    {{ block "main" . }}{{ end }}
-  </main>
+    <body class="font-roboto">
+        {{ if hugo.IsProduction }}
+        {{ else }}
+            {{ partial "tw-size-indicator.html" . }}
+            <div class="fixed left-10 top-1 z-10"><a href="/content-blocks/">{{ partial "icon.html" "code" }}</a></div>
+        {{ end }}
 
-  <!--{{ partial "seocheck.html" . }}-->
+        {{ partial "header/basic.html" . }}
 
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+        <main id="main-content" class="relative">
+            {{ block "main" . }}{{ end }}
+        </main>
 
-<script>
-  function abTest() {
-    return {
-      variant: Math.random() > 0.5 ? 'A' : 'B', // Randomly assign 'A' or 'B'
-    };
-  }
-</script>
+        <!--{{ partial "seocheck.html" . }}-->
+
+        <footer>
+            {{ partial "footer.html" . }}
+        </footer>
+
+        <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+
+        <script>
+            function abTest() {
+                return {
+                    variant: Math.random() > 0.5 ? 'A' : 'B', // Randomly assign 'A' or 'B'
+                };
+            }
+        </script>
 
 <script>
   function formValidation() {
@@ -88,7 +90,5 @@
     };
   }
 </script>
-
-
-</body>
+    </body>
 </html>
