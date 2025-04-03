@@ -6,7 +6,7 @@ Navigation:
 [ ] mobile menu anders machen
 
 Registrierungprozess:
-[ ] Registrierungsformular bauen
+[x] Registrierungsformular bauen
 [ ] testen mit backend
 
 
@@ -18,7 +18,7 @@ Registrierungprozess:
 - wie a/b testing optimal umsetzen? 
 [x] faq bereich mit alpine.js machen
 [x] lokale fonts (anstatt google fonts)
-[ ] alpine.js lokal
+[x] alpine.js lokal
 [ ] favicon kontrollieren mit https://realfavicongenerator.net/favicon-checker
 [ ] sitemap funktioniert noch nicht richtig.
 [x] PRETTIER
