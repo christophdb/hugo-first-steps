@@ -1,4 +1,4 @@
-baseURL = 'https://seatable.com/'
+baseURL = 'https://162.55.214.220.sslip.io/'
 theme = 'seatable'
 title = 'SeaTable - no code no limit'
 
