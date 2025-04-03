@@ -20,7 +20,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: bold;
-  src: url('/fonts/robot-bold.woff2') format('woff2');
+  src: url('/fonts/roboto-bold.woff2') format('woff2');
 }
 @font-face {
   font-family: 'Roboto-Mono';
@@ -30,7 +30,7 @@
 @font-face {
   font-family: 'Roboto-Mono';
   font-style: bold;
-  src: url('/fonts/robot-mono-bold.woff2') format('woff2');
+  src: url('/fonts/roboto-mono-bold.woff2') format('woff2');
 }
 
 * {
