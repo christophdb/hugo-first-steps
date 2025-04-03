@@ -8,7 +8,7 @@
 - mouse hover bei language bei desktop
 - übersetzung screen reader zeug
 - wie a/b testing optimal umsetzen? 
-- faq bereich mit alpine.js machen
+[x] faq bereich mit alpine.js machen
 
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://www.youtube.com/watch?v=tS7upsfuxmo

@@ -20,16 +20,14 @@ module.exports = {
         /* brauche ich das ? */
       },
       fontFamily: {
-        palanquin: ['Palanquin', 'sans-serif'],
-        montserrat: ['Montserrat', 'sans-serif'],
         poppins: ['Poppins', 'sans-serif'],
-        roboto: ['Roboto', 'sans-serif']
+        roboto: ['Roboto', 'sans-serif'],
+        robotoMono: ['Roboto-Mono', 'sans-serif'],
       },
       colors: {
         'primary': "#ECEEFF",
         "coral-red": "#FF6452",
         "slate-gray": "#6D6D6D",
-        "pale-blue": "#F5F6FF",
         "white-400": "rgba(255, 255, 255, 0.80)",
         "seatable-blue": "#021940",
         "seatable-gray": "#393F49",

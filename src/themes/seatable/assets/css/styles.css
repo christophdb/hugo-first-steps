@@ -1,14 +1,47 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
-
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  src: url('/fonts/poppins-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: bold;
+  src: url('/fonts/poppins-bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  src: url('/fonts/roboto-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: bold;
+  src: url('/fonts/robot-bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Roboto-Mono';
+  font-style: normal;
+  src: url('/fonts/roboto-mono-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Roboto-Mono';
+  font-style: bold;
+  src: url('/fonts/robot-mono-bold.woff2') format('woff2');
+}
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
+}
+
+.abc {
+  @apply text-2xl;
 }
 
 /* legal pages */
@@ -35,14 +68,6 @@
   @apply pb-4;
 }
 #legal li {
-  @apply text-xl;
-  @apply pb-2;
-  @apply leading-normal;
-}
-#legal ol {
-  @apply list-decimal;
-  @apply pt-4;
-  @apply pl-6;
   @apply pb-4;
 }
 #legal a {
@@ -244,6 +269,8 @@ h2 {
   }
 
   .info-text {
-    @apply font-montserrat text-slate-gray text-lg leading-7;
+    @apply text-slate-gray text-lg leading-7;
   }
 }
+
+  
