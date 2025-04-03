@@ -38,12 +38,10 @@ jobs:
         uses: shimataro/ssh-key-action@v2
         with:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-          # TODO
           known_hosts: placeholder
       - name: Adding Known Hosts
         run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
       - name: Deploy with rsync
-        # TODO: Add --delete
         # There's no target path after the last colon since rrsync is used on the server
-        run: "rsync -avz . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"
+        run: "rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"
         working-directory: public
