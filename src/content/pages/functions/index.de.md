@@ -10,6 +10,7 @@ sections:
   weight: 3
 - name: pricetable
   weight: 2
+  -
 ---
 
 <!-- bei single pages kommt alles in den frontmatter ... -->
