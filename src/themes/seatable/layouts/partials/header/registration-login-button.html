@@ -3,6 +3,6 @@
     {{ T "navigation.login" }}
 </a>
 <a href='{{ with .Site.GetPage "registration" }}{{ .RelPermalink }}{{ end }}' 
-    class="bg-gradient text-white font-bold font-poppins py-2 px-4 rounded-lg">
+    class="bg-gradient text-white font-bold font-poppins py-2 px-4 rounded-lg hidden md:block">
     {{ T "navigation.registration" }}
 </a>
