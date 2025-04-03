@@ -2,7 +2,6 @@
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
     {{ partial "head/head.html" . }}
 
-
     <body class="font-roboto">
         {{ if hugo.IsProduction }}
         {{ else }}
@@ -28,6 +27,7 @@
         {{ $collapse := resources.Get "js/alpineCollapse.js" }}
         {{ $bundle := slice $alpine $collapse | resources.Concat "js/alpine-bundle.min.js" | minify | fingerprint }}
         <script src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" defer></script>
+
 
         <!-- formActions -->
         {{ $js := resources.Get "js/formActions.js" | minify | fingerprint }}
