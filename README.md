@@ -109,3 +109,30 @@ https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://kinsta.com/de/blog/express-app-erstellen/
 https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
+
+## Deployment
+
+The deployment is automated through GitHub Actions: [`build.yml`](./.github/workflows/build.yml).
+
+The workflow runs on `main` and uses `rsync` to deploy the generated site to the remote machine.
+
+### Required Steps
+
+- Install Docker: `curl -fsSL get.docker.com | bash`
+- Install rsync: `apt install -y rsync`
+- Create `/opt/seatable.com` and a subdirectory for the static files: `mkdir -p /opt/seatable.com/public`
+- Copy [`deploy/caddy.yml`](./deploy/caddy.yml) to `/opt/seatable.com/caddy.yml`
+- Create `/opt/seatable.com/.env` and enter all required environment variables (take a look at [`deploy/.env-release`](deploy/.env-release))
+- Start the services: `docker compose up -d`
+- Create a new SSH key pair on the remote machine: `ssh-keygen -t rsa -b 4096 -C "GitHub Actions"`
+- Add the public key of this key pair to `~/.ssh/authorized_keys` on the remote machine and prepend the line with `command="/usr/bin/rrsync -wo /opt/seatable.com/public",no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty `
+
+  This restricts the owner of the private key to only run **rrsync** (a restriced version of rsync) inside the specified directory.
+- Add the following variables to this GitHub project:
+  - `SSH_HOST`: IP address of the remote host
+  - `SSH_USER`
+  - `SSH_PRIVATE_KEY`: Private key of the created key pair
+
+### Backend Deployment
+
+Please take a look at [christophdb/hugo-backend](https://github.com/christophdb/hugo-backend) for instructions on how to deploy the backend alongside the frontend.
