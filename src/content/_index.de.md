@@ -52,4 +52,7 @@ sections:
         headline: "asdfadsf"
   - name: content1
     weight: 7
+  - name: contactForm
+    weight: 1
+
 ---
