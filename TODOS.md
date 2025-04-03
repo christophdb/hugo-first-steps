@@ -28,6 +28,7 @@ https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
 Allgemein:
 [ ] style.css aufräumen und nike zeug rauswerfen.
 [ ] ist alles ein theme oder kommt alles in das hauptverzeichnis rein?
+[ ] externe links kriegen automatisch ein nofollow und target:_blank?
 
 Blog-Artikel:
 [ ] prose styling von blowfish übernehmen?
