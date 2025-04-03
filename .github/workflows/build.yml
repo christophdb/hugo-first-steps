@@ -1,7 +1,9 @@
 name: Build
 
-# TODO: Only on main?
-on: push
+on:
+  push:
+    branches:
+      main
 
 jobs:
   create-archive:
@@ -21,3 +23,25 @@ jobs:
         with:
           name: site
           path: src/archive.tar.gz
+  deploy:
+    name: Deploy
+    needs: create-archive
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+      - name: Extract archive
+        run: tar xf archive.tar.gz
+      - name: Add SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: placeholder
+      - name: Adding Known Hosts
+        run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+      - name: Deploy with rsync
+        # There's no target path after the last colon since rrsync is used on the server
+        run: "rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"
+        working-directory: public
