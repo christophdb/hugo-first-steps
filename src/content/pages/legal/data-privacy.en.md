@@ -8,7 +8,7 @@ url: "/data-privacy"
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in english and german. The english translation is an non-binding, convenience translation.
+This privacy policy is only available in english and german. The english translation is an non-binding, convenience translation.
 
 The **[German original](/de/datenschutz/)** is legally binding.
 
