@@ -23,11 +23,11 @@
     {{ with .Params.robots }}
     <meta name="robots" content="{{ . }}" />
     {{ end }}
-
     <link rel="canonical" href="{{ .Permalink }}" />
 
     <!-- hier kann man noch ganz viel machen: apple-touch-icon etc... -->
     <!-- site verification google, bing, ... -->
+    {{ if .Site.Params.Seo.googleSearchConsoleVerificationTag }}<meta name="google-site-verification" content="{{ .Site.Params.Seo.googleSearchConsoleVerificationTag }}" />{{ end }}
     <!-- social ... -->
 
     {{ partialCached "head/css.html" . }}

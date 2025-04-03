@@ -28,10 +28,12 @@
         {{ $bundle := slice $alpine $collapse | resources.Concat "js/alpine-bundle.min.js" | minify | fingerprint }}
         <script src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" defer></script>
 
-
         <!-- formActions -->
         {{ $js := resources.Get "js/formActions.js" | minify | fingerprint }}
         <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+
+        <!-- matomo analytics -->
+        {{ partial "matomo-analytics.html" . }}
 
         <!-- AB-Split Tests -->
         <script>
