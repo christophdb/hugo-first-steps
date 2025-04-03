@@ -1,10 +1,9 @@
 ---
 title: "Imprint"
-description: "Legal information about this website"
+description: ""
 date: 2025-03-24
 type: "legal"
 url: "/imprint"
-translationKey: "imprint"
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

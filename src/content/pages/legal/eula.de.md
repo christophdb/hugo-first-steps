@@ -5,7 +5,6 @@ date: 2021-09-28
 version: "1.0"
 type: "legal"
 url: "/de/lizenzvereinbarung"
-translationKey: "eula"
 ---
 
 ## 1. Parteien und Gegenstand
