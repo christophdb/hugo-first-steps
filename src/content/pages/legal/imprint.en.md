@@ -10,7 +10,7 @@ translationKey: "imprint"
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 This imprint is only available in english and german. The english translation is an non-binding, convenience translation.
-The **[German original](https://seatable.io/fr/impressum)** is legally binding.
+The **[German original](/de/impressum/)** is legally binding.
 
 {{< /alert >}}
 

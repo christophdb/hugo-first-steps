@@ -1,15 +1,18 @@
 {{ define "main" }}
-  <article class="max-w-full py-8 mx-auto">
+  <article class="max-w-full mx-auto padding">
     <header>
-      {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
-        {{ partial "breadcrumbs.html" . }}
-      {{ end }}
       <h1 class="mt-0 text-5xl font-extrabold text-neutral-900 dark:text-neutral text-center gradient pt-8">
         {{ .Title | emojify }}
       </h1>
     </header>
-    <section class="max-w-[800px] prose mx-auto mt-6 pt-8">
+
+    <section class="max-w-[800px] mx-auto mt-20">
+      {{ partial "toc.html" . }}
+    </section>
+
+    <section class="max-w-[800px] mx-auto mt-4" id="legal">
       {{ .Content }}
     </section>
+
   </article>
 {{ end }}

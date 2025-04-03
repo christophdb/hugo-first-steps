@@ -11,6 +11,62 @@
   scroll-behavior: smooth;
 }
 
+/* legal pages */
+#legal h2 { 
+  @apply text-4xl;
+  @apply pt-10;
+  @apply pb-4;
+  @apply leading-narrow;
+}
+#legal h3 { 
+  @apply text-[36px];
+  @apply pt-10;
+  @apply pb-4;
+  @apply leading-narrow;
+}
+#legal p { 
+  @apply text-xl;
+  @apply leading-normal;
+  @apply pb-4;
+}
+#legal ul {
+  @apply list-disc;
+  @apply pl-6;
+  @apply pb-4;
+}
+#legal li {
+  @apply text-xl;
+  @apply pb-2;
+  @apply leading-normal;
+}
+#legal a {
+  @apply no-underline;
+  @apply text-blue-600;
+  @apply hover:underline;
+  @apply font-bold;
+  @apply font-poppins;
+}
+#legal #alert p, #legal #alert a {
+  @apply text-white;
+}
+#legal #alert p {
+  @apply p-2;
+}
+
+/* end legal pages */
+
+#toc ul {
+  @apply list-disc;
+  @apply pl-6;
+}
+#toc a {
+  @apply text-seatable-gray;
+  @apply hover:underline;
+  @apply font-poppins;
+}
+
+
+
 .marquee-fade {
   mask-image: linear-gradient(
     to right,
