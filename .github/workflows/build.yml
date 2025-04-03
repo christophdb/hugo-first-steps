@@ -21,3 +21,19 @@ jobs:
         with:
           name: site
           path: src/archive.tar.gz
+  deploy:
+    name: Deploy
+    needs: create-archive
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: archive.tar.gz
+      - name: Extract archive
+        run: tar xf archive.tar.gz
+      - name: List files
+        run: ls -Al
+      - name: List files
+        run: ls -Al public
