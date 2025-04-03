@@ -1,0 +1,42 @@
+
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle: 
+  description: 
+  items:
+  - headline:
+    text:
+  - headline:
+    text:
+  - headline:
+    text:
+    </code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+<section class="padding bg-gray-100 curved" id="{{ .name }}">
+    <section class="max-container flex w-full items-start justify-between max-lg:flex-col">
+        <div class="flex basis-1/2 flex-col pl-16">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            <p class="mt-8 text-xl leading-relaxed mb-4">{{ .description }}</p>
+
+        </div>
+        <div class="basis-1/2 grid grid-cols-1 md:grid-cols-2 gap-4">
+            {{ range .items }}
+                <div class="bg-white flex flex-col p-6 rounded-xl border shadow-lg">
+                    <h3 class="font-bold text-2xl">{{ .headline | markdownify }}</h3>
+                    <p class="mt-4 mb-2 text-sm">{{ .text | markdownify }}</p>
+                </div>
+            {{ end }}
+        </div>
+
+        
+    </section>
+</section>

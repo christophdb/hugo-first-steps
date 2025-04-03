@@ -23,19 +23,19 @@
 [[main]]
   name = "SeaTable Cloud"
   parent = "Products"
-  pageRef = "/"
+  pageRef = "seatable-cloud"
   weight = 21
 
 [[main]]
   name = "SeaTable Dedicated"
   parent = "Products"
-  pageRef = "/"
+  pageRef = "seatable-dedicated"
   weight = 22
 
 [[main]]
   name = "SeaTable Server"
   parent = "Products"
-  pageRef = "/"
+  pageRef = "seatable-server"
   weight = 23
 
 [[main]]
@@ -46,37 +46,37 @@
 [[main]]
   name = "Marketing"
   parent = "Industry solutions"
-  pageRef = "/"
+  pageRef = "marketing"
   weight = 31
 
 [[main]]
   name = "Project management"
   parent = "Industry solutions"
-  pageRef = "/"
+  pageRef = "project-management"
   weight = 32
 
 [[main]]
   name = "HR"
   parent = "Industry solutions"
-  pageRef = "https://www.google.de"
+  pageRef = "hr"
   weight = 33
 
 [[main]]
   name = "Public service"
   parent = "Industry solutions"
-  pageRef = "https://www.google.de"
+  pageRef = "public-service"
   weight = 34
 
 [[main]]
   name = "Software development"
   parent = "Industry solutions"
-  pageRef = "https://www.google.de"
+  pageRef = "software-development"
   weight = 35
 
 [[main]]
   name = "Individual"
   parent = "Industry solutions"
-  pageRef = "https://www.google.de"
+  pageRef = "individual"
   weight = 36
 
 [[main]]

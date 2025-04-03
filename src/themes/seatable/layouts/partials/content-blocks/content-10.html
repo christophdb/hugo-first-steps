@@ -1,0 +1,44 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle:
+  description:
+  items:
+  - image:
+    image_alt: 
+  - image:
+    image_alt: 
+  - image: 
+    image_alt: 
+  button:
+    label: 
+    link:
+    style:</code></pre></div>
+{{ end }}
+
+<!-- HTML Block -->
+<section class="padding" id="{{ .name }}">
+    <section id="galerie" class="max-container">
+        <div class="mx-auto text-center max-w-[800px]">
+            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            <p class="mt-12 text-xl leading-normal">{{ .description | safeHTML }}</p>
+        </div>
+        <div class="mt-12 mx-auto flex flex-row gap-24 max-w-5xl">
+            {{ range .items }}
+            <div>
+                <img class="h-10" src="{{ .image }}" alt="{{ .image_alt }}" />
+            </div>
+            {{ end }}
+        </div>
+
+        {{ with .button }}
+        <div class="text-center mt-16">
+            <a href="{{ .link }}" class="rounded-xl px-7 py-4 bg-white text-gray-800 font-bold font-poppins border border-gray-400">{{ .label }}</a>
+        </div>
+        {{ end }}
+        
+    </section>
+</section>

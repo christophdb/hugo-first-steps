@@ -1,6 +1,6 @@
 ---
-title: 'adaf'
-description: 'asdfafaf'
+title: 'SeaTable'
+description: ''
 
 sections:
     - name: hero1

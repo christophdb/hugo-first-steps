@@ -6,7 +6,8 @@
         {{ if hugo.IsProduction }}
         {{ else }}
             {{ partial "tw-size-indicator.html" . }}
-            <div class="fixed left-10 top-1 z-10"><a href="/content-blocks/">{{ partial "icon.html" "code" }}</a></div>
+            <div class="fixed left-10 top-1 z-10"><a href="/blocks/">{{ partial "icon.html" "palette" }}</a></div>
+            <div class="fixed left-16 top-1 z-10"><a href="/icons/">{{ partial "icon.html" "font-awesome" }}</a></div>
         {{ end }}
 
         {{ partial "header/basic.html" . }}

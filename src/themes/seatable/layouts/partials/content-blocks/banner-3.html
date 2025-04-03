@@ -1,0 +1,18 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: </code></pre></div>
+{{ end }}
+
+<!-- HTML Block -->
+<section class="padding bg-seatable-blue curved" id="{{ .name }}">
+    <section class="max-container">
+        <h2 class="lg:pl-40 md:pl-20 sm:pl-4 md:text-5xl text-4xl text-right font-bold  gradient leading-narrow">{{ .title }}</h2>
+        <div class="mt-16 mx-auto text-right">
+            {{ with .button }}
+                <a class="rounded-xl px-7 py-4 bg-gradient text-white font-bold text-xl font-poppins" href="{{ .link | absURL }}">{{ .label }}</a>
+            {{ end }}
+        </div>
+    </section>
+</section>

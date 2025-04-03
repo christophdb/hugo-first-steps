@@ -1,0 +1,36 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle: 
+  description: 
+  items:
+  - text:
+  - text:
+  - text:
+  image:</code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+<section class="padding" id="{{ .name }}">
+    <section class="max-container flex w-full items-start justify-between max-lg:flex-col">
+        <div class="basis-1/2 justify-center">
+            <img class="rounded-xl shadow-xl" src="{{ .image }}" alt="placeholder" />
+        </div>
+        <div class="flex basis-1/2 flex-col pl-16">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            <p class="mt-8 text-xl leading-relaxed mb-4">{{ .description }}</p>
+            {{ range .items }}
+                <div class="flex flex-row text-lg items-baseline text-seatable-orange">
+                    {{ partial "icon" "check" }}
+                    <p class="pl-4 relative top-[-1px] mb-2 text-xl leading-normal">{{ .text | safeHTML }}</p>
+                </div>
+            {{ end }}
+        </div>
+    </section>
+</section>

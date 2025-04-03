@@ -1,8 +1,6 @@
 ---
-title: 'adaf'
-seotitle: 'asdaf'
-keyphrase: 'seatable'
-description: 'xxx seatable'
+title: 'SeaTable'
+description: ''
 
 sections:
     - name: hero1
