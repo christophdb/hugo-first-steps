@@ -1,12 +1,4 @@
 ---
 title: Neue Artikel aus der SeaTable Welt
+url: '/de/blog'
 ---
-
-asdfadf
-
-    asdfafd
-
-    ad      adf
-
-* adsfadf
-* asdfadf 
