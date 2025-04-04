@@ -1,0 +1,44 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle: 
+  items:
+  - headline:
+    text: 
+  - headline:
+    text: 
+  - headline:
+    text:
+  - headline:
+    text:</code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+<section class="padding" id="{{ .name }}">
+    <section class="max-container text-center">
+        <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+
+        {{ if .items }}
+            {{ $totalItems := len .items }}
+            <!-- <span class="grid-cols-3 grid-cols-4 grid-cols-2 grid-cols-1 hidden"></span> to load the classes... -->
+            <div class="grid-cols-{{ $totalItems }} mt-16 grid gap-16">
+                {{ range .items }}
+                    <div class="text-center">
+                        <p class="gradient font-poppins text-4xl font-bold">{{ .number }}</p>
+                        <p class="mt-4 text-xl">{{ .text }}</p>
+                    </div>
+                {{ end }}
+            </div>
+        {{ end }}
+
+
+        <div class="m-12 w-full">
+            <img src="{{ .image }}" class="mx-auto rounded-lg border bg-white p-1 shadow-2xl" alt="placeholder" />
+        </div>
+    </section>
+</section>

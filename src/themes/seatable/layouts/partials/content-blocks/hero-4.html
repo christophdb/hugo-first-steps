@@ -1,0 +1,13 @@
+<section class="padding" id="hero-4">
+    <section class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <h2 class="gradient mt-1 text-5xl font-bold leading-narrow">{{ .title }}</h2>
+            <p class="mt-12 text-2xl leading-normal">{{ .description }}</p>
+        </div>
+        <div class="mx-auto mt-16 text-center">
+            {{ with .button }}
+                <a class="bg-gradient rounded-xl px-7 py-4 font-poppins font-bold text-white" href="{{ .link | absURL }}">{{ .label }}</a>
+            {{ end }}
+        </div>
+    </section>
+</section>
