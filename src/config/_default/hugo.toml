@@ -3,6 +3,10 @@ theme = 'seatable'
 title = 'SeaTable - no code no limit'
 
 defaultContentLanguage = 'en'
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [sitemap]
   changeFreq = 'daily'
