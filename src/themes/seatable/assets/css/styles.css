@@ -93,6 +93,69 @@
 
 /* end legal pages */
 
+/* post pages */
+
+.post-content h2 {
+    @apply text-4xl;
+    @apply pt-10;
+    @apply pb-4;
+    @apply leading-narrow;
+}
+.post-content h3 {
+    @apply text-[36px];
+    @apply pt-10;
+    @apply pb-4;
+    @apply leading-narrow;
+}
+.post-content p {
+    @apply text-xl;
+    @apply leading-normal;
+    @apply pb-4;
+}
+.post-content ul {
+    @apply list-disc py-4 pl-6 marker:text-seatable-orange;
+}
+.post-content ul li::marker {
+    @apply text-2xl;
+}
+.post-content li {
+    @apply pb-4 pl-2 text-xl;
+}
+.post-content a {
+    @apply no-underline;
+    @apply text-blue-600;
+    @apply hover:underline;
+    @apply font-bold;
+    @apply font-poppins;
+}
+.post-content figure {
+    @apply my-4;
+}
+.post-content figcaption {
+    @apply pt-2 text-sm text-gray-500;
+}
+
+/* end post pages */
+
+/* Table of Contents */
+.toc ul,
+.toc li {
+    @apply my-2 list-none px-0 font-poppins text-sm leading-snug;
+}
+
+.toc ul ul {
+    @apply mt-3 pl-4;
+}
+
+.toc a {
+    @apply font-normal text-neutral-700 dark:text-neutral-400;
+}
+
+.toc li > ul {
+    @apply mb-6;
+}
+
+/*
 #toc ul {
     @apply list-disc;
     @apply pl-6;
@@ -102,6 +165,7 @@
     @apply hover:underline;
     @apply font-poppins;
 }
+    */
 
 .marquee-fade {
     mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);

@@ -1,0 +1,57 @@
+{{ define "main" }}
+    <section class="max-container padding mx-auto w-full">
+        <article class="">
+            <header>
+                {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+                    {{ partial "breadcrumbs.html" . }}
+                {{ end }}
+
+
+                <!-- I have to use style here, because tailwind does not generate this color ... -->
+                <div class="justify-left mt-6 flex flex-col gap-8 rounded-2xl md:flex-row" style="background-color: {{ .Params.color | default "#ffffff" }}">
+                    <div class="w-1/2 p-20 pl-16">
+                        {{ $colorMap := dict "white" "text-white" "neutral" "text-neutral-500" "dark" "text-neutral-900" }}
+                        {{ $textColor := index $colorMap (default "neutral" .Params.color) }}
+                        <h1 class="text-56 {{ $textColor }} mt-0 pt-8 text-left text-4xl font-extrabold leading-narrow">{{ .Title | emojify }}</h1>
+                        <p class="mt-4 text-xl leading-normal">{{ .Description }}</p>
+                        <p class="mt-8">{{ .Date.Format .Site.Params.dateFormat }}</p>
+                    </div>
+                    <div class="w-1/2">
+                        {{ $images := .Resources.ByType "image" }}
+                        {{ $featured := $images.GetMatch "feature*" }}
+                        {{ if $featured }}
+                            <img
+                                src="{{ $featured.RelPermalink }}"
+                                width="{{ $featured.Width }}"
+                                height="{{ $featured.Height }}"
+                                style="border-top-right-radius:12px; border-bottom-right-radius: 12px;" />
+                        {{ end }}
+                    </div>
+                </div>
+            </header>
+
+            <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
+                <!-- max width of the blog posts is 768px -> image optimization -->
+                <div class="post-content mt-12 w-full max-w-3xl lg:w-3/4">
+                    {{ .Content }}
+
+
+                    <hr />
+                    <p>
+                        TAGS:
+                        {{ range .Site.Taxonomies.tags }}
+                            <a href="{{ .Page.Permalink }}"><span style="background-color: #e1e1e1; padding: 4px 8px; border-radius: 8px;">{{ .Page.Title }}</span></a>
+                        {{ end }}
+                    </p>
+                </div>
+
+                <!-- Second section -->
+                <div class="toc post-toc win-w-[220px] mt-20 hidden w-1/4 lg:block">
+                    <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
+                        {{ .TableOfContents }}
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+{{ end }}

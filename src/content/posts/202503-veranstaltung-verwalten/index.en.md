@@ -3,9 +3,8 @@ title: '10 tips you should know before managing your events'
 description: "Planning the perfect event sounds stressful? It doesn't have to be! With the right tools and a clear checklist, complex planning becomes a simple process. Read how to manage even large events professionally and what really matters."
 date: 2025-03-23
 url: '/event-management'
-type: 'post'
 tags: ['asdaf', 'asdadf']
-backgroundColor: '#f7c1cf'
+color: '#f7c1cf'
 ---
 
 ## How to make your event a success

@@ -3,9 +3,8 @@ title: '10 Tipps, die Sie kennen sollten, bevor Sie Ihre Veranstaltungen verwalt
 description: 'Die perfekte Veranstaltung zu planen klingt nach Stress? Muss es nicht! Mit den richtigen Tools und einer klaren Checkliste wird aus komplexer Planung ein einfacher Ablauf. Lesen Sie, wie Sie selbst große Events professionell managen und worauf es wirklich ankommt.'
 date: 2025-03-23
 url: '/de/veranstaltung-verwalten'
-type: 'post'
 tags: [adadf, asdfadf]
-backgroundColor: '#f7c1cf'
+color: '#f7c1cf'
 ---
 
 ## So wird Ihre Veranstaltung zum Erfolg
