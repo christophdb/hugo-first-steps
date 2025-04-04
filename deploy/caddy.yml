@@ -22,6 +22,9 @@ services:
       # Enable zstd/gzip compression
       caddy.encode:
       caddy.file_server:
+      caddy.handle_errors: 404
+      caddy.handle_errors.rewrite: "/404.html"
+      caddy.handle_errors.file_server:
     healthcheck:
       test: ["CMD-SHELL", "curl --fail http://localhost:2019/metrics || exit 1"]
       start_period: 20s
