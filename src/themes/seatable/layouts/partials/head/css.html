@@ -1,13 +1,16 @@
 {{- with resources.Get "css/main.css" }}
-  {{- if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{- else }}
-    {{- with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{- if eq hugo.Environment "development" }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" />
+    {{- else }}
+        {{- with . | minify | fingerprint }}
+            <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" />
+        {{- end }}
     {{- end }}
-  {{- end }}
 {{- end }}
 
+{{ with resources.Get "css/styles.output.css" }}
+    {{ with . | fingerprint }}
+        <link href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" rel="stylesheet" />
+    {{ end }}
+{{ end }}
 <!-- später minify and fingerprint -->
-<link href="/css/styles.css" rel="stylesheet">
-

@@ -1,5 +1,6 @@
 src/public/*
 src/resources/_gen/*
+src/themes/seatable/assets/css/styles.output.css
 src/themes/seatable/static/css/styles.css
 
 **/node_modules/
