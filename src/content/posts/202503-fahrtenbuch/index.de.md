@@ -4,6 +4,7 @@ description: "Ein Fahrtenbuch kann mehr sein als nur lästige Bürokratie – es
 date: 2025-04-01
 url: "fahrtenbuch"
 tags: [adadf, asdfadf]
+categories: [testos, Community]
 color: "#f34b4c"
 ---
 

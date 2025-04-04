@@ -174,7 +174,7 @@
 [[footer]]
   name = "About us"
   parent = "The company"
-  pageRef = "about-us"
+  pageRef = "about"
   weight = 31
 
 [[footer]]
