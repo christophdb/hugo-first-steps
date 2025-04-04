@@ -84,7 +84,7 @@ sections:
     text: "SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser."
     button:
       label: "Jetzt ausprobieren"
-      link: "/registrierung"
+      link: "/de/registrierung"
     gridheadline: "Die No-Code <span class='gradient'>Lösung</span> für ..."
     items:
       - icon: "chart-simple"
@@ -285,7 +285,7 @@ sections:
     - number: "4.6"
       text: "Bewertung auf Capterra"
     button:
-      url: "customer-story"
+      link: "#"
       label: "Lesen Sie weitere Erfolgsgeschichten"
 
   - name: "form-contact"
