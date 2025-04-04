@@ -90,27 +90,27 @@ sections:
       - icon: "chart-simple"
         headline: "Marketing"
         text: "Planen Sie Kampagnen, verwalten Sie Leads und analysieren Sie Ergebnisse mit SeaTable. Automatisieren Sie Workflows und optimieren Sie Ihre Marketingstrategie."
-        link: "/marketing"
+        link: "#"
       - icon: "bullseye"
         headline: "Projektmanagement"
         text: "Nutzen Sie Gantt-Diagramme und Kanban-Boards, um Projekte effizient zu steuern. Verfolgen Sie Fortschritte und koordinieren Sie Teams mit SeaTable."
-        link: "/projektmanagement"
+        link: "#"
       - icon: "people-group"
         headline: "Human Resources" 
         text: "Verwalten Sie Mitarbeiterdaten, Schulungen und Urlaubsanträge mit SeaTable. Optimieren Sie HR-Prozesse und verbessern Sie die Mitarbeitererfahrung."
-        link: "/human-ressources"
+        link: "#"
       - icon: "building"
         headline: "Öffentlicher Dienst"
         text: "Verwalten Sie Personalakten, Schulungsdaten und Anträge mit SeaTable. Optimieren Sie Prozesse und verbessern Sie die Transparenz im öffentlichen Dienst."
-        link: ""
+        link: "#"
       - icon: "terminal"
         headline: "Softwareentwicklung"
         text: "Verwalten Sie Backlogs, Issues, Bugs und Releases mit SeaTable. Optimieren Sie den Entwicklungsprozess und verbessern Sie die Teamkommunikation."
-        link: ""
+        link: "#"
       - icon: "fingerprint"
         headline: "Individuell"
         text: "Erstellen Sie maßgeschneiderte Anwendungen für Ihre spezifischen Geschäftsanforderungen mit SeaTable. Automatisieren Sie Prozesse und verbessern Sie die Effizienz."
-        link: ""
+        link: "#"
 
   - name: banner-1
     weight: 5
@@ -209,8 +209,8 @@ sections:
     - image: "/images/logos/n8n.svg"
     - image: "/images/logos/seatable-api.svg"
     button:
-      label: "Mehr über Integrationen erfahren  "
-      link: "asdaf"
+      label: "Mehr über Integrationen erfahren"
+      link: "#"
 
   - name: "content-11"
     weight: 11
@@ -301,4 +301,3 @@ sections:
 
 
 ---
-
