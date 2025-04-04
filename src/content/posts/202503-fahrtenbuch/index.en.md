@@ -69,10 +69,6 @@ However, the disadvantage of the analog logbook is that it is **more time-consum
 
 ![Do you want to keep an analog or a digital logbook?](Analog-vs.-digital.jpg)
 
-
-
-#############
-
 ### Keeping a digital logbook
 
 Digital logbooks are becoming increasingly popular as they offer a **convenient and modern alternative**. A clear advantage of digital logbooks is that they **cannot be lost or damaged**, which is a problem with physical logbooks. As digital solutions are usually based on cloud technologies, **your data is stored securely and can be accessed online at any time**. In addition, digital logbooks are often equipped with analysis tools that allow you to precisely **evaluate the routes driven and usage patterns** . For example, you can evaluate and track the kilometers driven in connection with the purpose of use. 
@@ -113,7 +109,7 @@ If you create your logbook using an Excel template, this is inexpensive and flex
 
 If you're looking for a logbook app that's free and makes your day-to-day work easier, SeaTable is an excellent choice. SeaTable offers a **flexibly customizable** [logbook template](https://seatable.io/vorlage/gzggmm9nrqohu-ygi3fwrg/), allowing you to record your journeys digitally and manage them conveniently online.
 
-SeaTable scores highly in terms of **data protection** and offers you the choice between [cloud](seatable-cloud) and [on-premises hosting](seatable-server), so you can decide for yourself where you store your data. Another advantage: entries can be entered quickly and easily using the integrated **web form**. This form can request all the necessary information, including a **digital signature**, which makes the process particularly efficient and secure. 
+SeaTable scores highly in terms of **data protection** and offers you the choice between [cloud]({{< relref "seatable-cloud" >}}) and [on-premises hosting]({{< relref "seatable-server" >}}), so you can decide for yourself where you store your data. Another advantage: entries can be entered quickly and easily using the integrated **web form**. This form can request all the necessary information, including a **digital signature**, which makes the process particularly efficient and secure. 
 
 A particular highlight is the option of generating a **QR code** directly in SeaTable, which you can attach to your company vehicle, for example. This allows you to conveniently access the web form for the logbook at any time. SeaTable also enables simple **analyses and evaluations** so that you can precisely track the use of your vehicle.
 
@@ -130,7 +126,7 @@ After submitting the form, drivers no longer have access to their entries and th
 
 **Note:** With SeaTable you can not only keep an individual logbook, but also efficiently manage your entire [fleet](https://seatable.io/vorlage/qsxitf8ktcojsuivrormnq/).
 
-If you would like to use SeaTable's digital logbook, [simply register](registration) and start with the free template.
+If you would like to use SeaTable's digital logbook, [simply register]({{< relref "registration" >}}) and start with the free template.
 
 ## Frequently asked questions
 

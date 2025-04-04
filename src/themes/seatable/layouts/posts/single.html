@@ -31,11 +31,6 @@
             </header>
 
             <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
-                <!-- Second section -->
-                <div class="post-toc mt-6 hidden w-1/4 lg:block">
-                    {{ .TableOfContents }}
-                </div>
-
                 <!-- max width of the blog posts is 768px -> image optimization -->
                 <div class="post-content mt-12 w-full max-w-3xl lg:w-3/4">
                     {{ .Content }}
@@ -48,6 +43,13 @@
                             <a href="{{ .Page.Permalink }}"><span style="background-color: #e1e1e1; padding: 4px 8px; border-radius: 8px;">{{ .Page.Title }}</span></a>
                         {{ end }}
                     </p>
+                </div>
+
+                <!-- Second section -->
+                <div class="toc post-toc win-w-[220px] mt-20 hidden w-1/4 lg:block">
+                    <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
+                        {{ .TableOfContents }}
+                    </div>
                 </div>
             </div>
         </article>

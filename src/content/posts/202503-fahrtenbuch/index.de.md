@@ -107,7 +107,7 @@ Wenn Sie Ihr Fahrtenbuch mit einer Excel Vorlage erstellen, ist das zwar kosteng
 
 Wenn Sie auf der Suche sind nach einer Fahrtenbuch App, die kostenlos ist und Ihren Arbeitsalltag erleichtert, ist SeaTable eine hervorragende Wahl. SeaTable bietet eine **flexibel anpassbare** [Fahrtenbuch Vorlage](https://seatable.io/vorlage/gzggmm9nrqohu-ygi3fwrg/), wodurch Sie Ihre Fahrtwege digital erfassen und bequem online verwalten können.
 
-SeaTable punktet in Sachen **Datenschutz** und bietet Ihnen die Wahl zwischen [Cloud-](seatable-cloud) und [On-Premises](seatable-server)-Hosting, sodass Sie selbst darüber bestimmen können, wo Sie Ihre Daten speichern. Ein weiterer Vorteil: Durch das integrierte **Webformular** lassen sich Einträge einfach und schnell erfassen. Dieses Formular kann alle erforderlichen Informationen inklusive einer **digitalen Signatur** abfragen, was den Prozess besonders effizient und sicher macht. 
+SeaTable punktet in Sachen **Datenschutz** und bietet Ihnen die Wahl zwischen [Cloud-]({{< relref "seatable-cloud" >}}) und [On-Premises]({{< relref "seatable-server" >}})-Hosting, sodass Sie selbst darüber bestimmen können, wo Sie Ihre Daten speichern. Ein weiterer Vorteil: Durch das integrierte **Webformular** lassen sich Einträge einfach und schnell erfassen. Dieses Formular kann alle erforderlichen Informationen inklusive einer **digitalen Signatur** abfragen, was den Prozess besonders effizient und sicher macht. 
 
 Ein besonderes Highlight ist die Möglichkeit, direkt in SeaTable einen **QR-Code** zu generieren, den Sie beispielsweise im Dienstfahrzeug anbringen können. So können Sie jederzeit bequem auf das Webformular zum Fahrtenbuch zugreifen. Zusätzlich ermöglicht SeaTable einfache **Analysen und Auswertungen**, sodass Sie die Nutzung Ihres Fahrzeugs genau nachvollziehen können.
 
@@ -124,7 +124,7 @@ Nach dem Absenden des Formulars haben die Fahrer keinen Zugriff mehr auf ihre Ei
 
 **Hinweis:** Mit SeaTable können Sie nicht nur ein individuelles Fahrtenbuch führen, sondern auch Ihr gesamtes [Fuhrparkmanagement](https://seatable.io/vorlage/qsxitf8ktcojsuivrormnq/) effizient verwalten.
 
-Wenn Sie das digitale Fahrtenbuch von SeaTable nutzen möchten, [registrieren Sie sich einfach](registration) und starten Sie mit der kostenlosen Vorlage.
+Wenn Sie das digitale Fahrtenbuch von SeaTable nutzen möchten, [registrieren Sie sich einfach]({{< relref "registration" >}}) und starten Sie mit der kostenlosen Vorlage.
 
 ## Häufig gestellte Fragen
 

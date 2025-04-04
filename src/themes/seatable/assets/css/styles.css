@@ -137,6 +137,25 @@
 
 /* end post pages */
 
+/* Table of Contents */
+.toc ul,
+.toc li {
+    @apply my-2 list-none px-0 font-poppins text-sm leading-snug;
+}
+
+.toc ul ul {
+    @apply mt-3 pl-4;
+}
+
+.toc a {
+    @apply font-normal text-neutral-700 dark:text-neutral-400;
+}
+
+.toc li > ul {
+    @apply mb-6;
+}
+
+/*
 #toc ul {
     @apply list-disc;
     @apply pl-6;
@@ -146,6 +165,7 @@
     @apply hover:underline;
     @apply font-poppins;
 }
+    */
 
 .marquee-fade {
     mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
