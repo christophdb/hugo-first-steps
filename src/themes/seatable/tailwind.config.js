@@ -43,7 +43,10 @@ module.exports = {
                 card: "url('/images/thumbnail-background.svg')",
             },
             screens: {
-                wide: '1440px',
+                sm: '640px', // Mobile landscape
+                md: '768px', // Tablets
+                lg: '1024px', // Small laptops
+                wide: '1440px', // Desktop
             },
             animation: {
                 marquee: 'marquee 20s linear infinite',

@@ -1,5 +1,13 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+<section class="padding">
+  <section class="max-container">
+    <div class="mx-auto text-center">
+      <h1 class="mt-1 text-8xl font-bold">{{ .Title }}</h1>
+    </div>
+  </section>
+</section>
+
+
   {{ .Content }}
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>

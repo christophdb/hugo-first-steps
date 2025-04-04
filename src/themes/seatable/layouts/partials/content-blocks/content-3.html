@@ -1,6 +1,7 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
   weight: 1
   title: 
   subtitle:
@@ -21,32 +22,34 @@
   button:
     label: 
     link:
-    style:</code></pre></div>
+    style:</code></pre>
+    </div>
 {{ end }}
+
 
 <!-- HTML Block -->
 <section class="padding" id="{{ .name }}">
-    <section id="galerie" class="max-container">
-        <div class="mx-auto text-center max-w-[800px]">
-            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
+    <section class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
             <p class="mt-12 text-lg leading-normal">{{ .description }}</p>
         </div>
-        <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 mt-16">
+        <div class="mt-16 grid grid-cols-1 gap-4 lg:grid-cols-2 xl:grid-cols-3">
             {{ range .items }}
-            <div>
-                <img class="rounded-lg shadow-lg h-[250px] object-cover w-[100%]" src="{{ .image }}" alt="{{ .image_alt }}" />
-                <h3 class="text-2xl mt-4 mb-2 font-bold">{{ .headline }}</h3>
-                <p class="font-poppins font-bold text-xl mb-4 gradient">{{ .text }}</p>
-            </div>
+                <div>
+                    <img class="h-[250px] w-[100%] rounded-lg object-cover shadow-lg" src="{{ .image }}" alt="{{ .image_alt }}" />
+                    <h3 class="mb-2 mt-4 text-2xl font-bold">{{ .headline }}</h3>
+                    <p class="gradient mb-4 font-poppins text-xl font-bold">{{ .text }}</p>
+                </div>
             {{ end }}
         </div>
 
         {{ with .button }}
-        <div class="text-center mt-12">
-            <a href="{{ .link }}" class="rounded-xl px-7 py-4 bg-white text-gray-800 font-bold font-poppins border border-seatable-blue">{{ .label }}</a>
-        </div>
+            <div class="mt-12 text-center">
+                <a href="{{ .link }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins font-bold text-gray-800">{{ .label }}</a>
+            </div>
         {{ end }}
-        
+
     </section>
 </section>
