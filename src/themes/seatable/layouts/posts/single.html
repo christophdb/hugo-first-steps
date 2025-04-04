@@ -20,6 +20,7 @@
                         {{ $images := .Resources.ByType "image" }}
                         {{ $featured := $images.GetMatch "feature*" }}
                         {{ if $featured }}
+                            {{ $featured := $featured.Resize (printf "%dx%d webp" $featured.Width $featured.Height) }}
                             <img
                                 src="{{ $featured.RelPermalink }}"
                                 width="{{ $featured.Width }}"

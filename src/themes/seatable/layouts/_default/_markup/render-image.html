@@ -21,16 +21,7 @@
                 <img class="my-0 rounded-md" loading="lazy" src="{{ .RelPermalink }}" alt="{{ $altText }}" />
             {{- else }}
                 <!-- hier muss noch angepasst werden!!! ich will 768px ! -->
-                <img
-                    class="my-0 rounded-md"
-                    loading="lazy"
-                    srcset="
-        {{ (.Resize "330x").RelPermalink }} 330w,
-        {{ (.Resize "660x").RelPermalink }} 660w,
-        {{ (.Resize "1024x").RelPermalink }} 1024w,
-        {{ (.Resize "1320x").RelPermalink }} 2x"
-                    src="{{ (.Resize "660x").RelPermalink }}"
-                    alt="{{ $altText }}" />
+                <img class="my-0 rounded-md" loading="lazy" src="{{ (.Resize "768x webp").RelPermalink }}" alt="{{ $altText }}" />
             {{- end }}
             {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
         </figure>
