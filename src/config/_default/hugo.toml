@@ -10,6 +10,14 @@ defaultContentLanguage = 'en'
   priority = 0.5
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "post-sitemap", "page-sitemap"]
 
+[outputFormats.post-sitemap]
+  baseName  = 'post-sitemap'
+  mediaType = 'application/xml'
+  noUgly = true
 
+[outputFormats.page-sitemap]
+  baseName  = 'page-sitemap'
+  mediaType = 'application/xml'
+  noUgly = true

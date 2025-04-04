@@ -1,0 +1,13 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+    <!-- TODO: There must be a better way to do this -->
+    <loc>{{ path.Dir .Permalink }}/post-sitemap.xml</loc>
+    <!-- TODO: Add lastmod -->
+		<lastmod></lastmod>
+	</sitemap>
+	<sitemap>
+    <loc>{{ path.Dir .Permalink }}/page-sitemap.xml</loc>
+    <lastmod></lastmod>
+	</sitemap>
+</sitemapindex>
