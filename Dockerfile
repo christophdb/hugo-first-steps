@@ -51,6 +51,8 @@ WORKDIR /hugo/src
 # Copy code
 COPY . /hugo
 
+RUN git config --global --add safe.directory /hugo
+
 # Clean up
 RUN apt-get remove -y wget && apt-get autoremove -y && apt-get clean
 RUN rm -rf /var/lib/apt/lists/*
