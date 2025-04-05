@@ -55,12 +55,13 @@
 					text-decoration: underline;
 				}
 				td {
-					font-size:11px;
+					font-size:12px;
+					padding:4px;
 				}
 				th {
 					text-align:left;
 					padding-right:30px;
-					font-size:11px;
+					font-size:12px;
 				}
 				thead th {
 					border-bottom: 1px solid #000;
