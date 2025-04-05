@@ -3,7 +3,7 @@
     {{ range $index, $item := $faqItems }}
         {{ $parts := split $item "|||" }}
         {{ if ge (len $parts) 2 }}
-            <div class="cursor-pointer border-b border-gray-200 p-6" x-data="{ open: false }" @click="open = !open">
+            <div class="{{ if ne $index (sub (len $faqItems) 1) }}border-b border-gray-200{{ end }} cursor-pointer p-6" x-data="{ open: false }" @click="open = !open">
                 <dt class="flex items-center justify-between" aria-controls="faq-{{ $index }}">
                     <p class="font-poppins text-xl font-bold leading-normal" :class="{ 'gradient': open }">
                         {{ index $parts 0 | markdownify }}
