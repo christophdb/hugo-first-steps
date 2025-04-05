@@ -3,8 +3,8 @@ title: "Kostenlose Vorlage: So einfach können Sie ein digitales Fahrtenbuch fü
 description: "Ein Fahrtenbuch kann mehr sein als nur lästige Bürokratie – es bietet Ihnen die Möglichkeit, bares Geld zu sparen. Mit den richtigen digitalen Tools maximieren Sie Ihre Vorteile und vermeiden teure Fehler. Entdecken Sie, wie Sie Ihr Fahrtenbuch clever führen und welche Lösungen Ihnen dabei helfen können!"
 date: 2025-04-01
 url: "fahrtenbuch"
-tags: [adadf, asdfadf]
-categories: [testos, Community]
+tags: 
+categories:
 color: "#f34b4c"
 ---
 
@@ -40,9 +40,9 @@ Wenn Sie einen Firmenwagen auch privat nutzen, ist es wichtig, **jede Fahrt gewi
 
 Ein Fahrtenbuch, das den Anforderungen der GoBD (Grundsätze ordnungsgemäßer Buchführung) entspricht, verlangt für **dienstliche Fahrten** die Dokumentation folgender Angaben:
 
-*   **Datum, Uhrzeit und Kilometerstand**: Notieren Sie diese Punkte sowohl zu Beginn als auch am Ende jeder beruflichen Fahrt.
-*   **Ziel und Zweck der Fahrt**: Halten Sie fest, wohin Sie gefahren sind und warum. Bei Umwegen sollten Sie auch die entsprechende Route festhalten.
-*   **Geschäftspartner oder Kunden**: Wenn Sie einen geschäftlichen Termin hatten, sollten Sie den Namen der entsprechenden Person vermerken.
+- **Datum, Uhrzeit und Kilometerstand**: Notieren Sie diese Punkte sowohl zu Beginn als auch am Ende jeder beruflichen Fahrt.
+- **Ziel und Zweck der Fahrt**: Halten Sie fest, wohin Sie gefahren sind und warum. Bei Umwegen sollten Sie auch die entsprechende Route festhalten.
+- **Geschäftspartner oder Kunden**: Wenn Sie einen geschäftlichen Termin hatten, sollten Sie den Namen der entsprechenden Person vermerken.
 
 Für **private Fahrten** genügt es, die gefahrenen Kilometer anzugeben. Fahrten zwischen Ihrem Wohnort und der Arbeitsstätte erfordern lediglich einen kurzen Vermerk, da sie regelmäßig stattfinden und keine weiteren Details nötig sind. Mit einer sorgfältigen Dokumentation der Fahrten stellen Sie nicht nur das Finanzamt zufrieden, sondern behalten auch selbst den Überblick über die Nutzung Ihres Firmenwagens.
 
@@ -91,7 +91,7 @@ Vimcar ist eine digitale Fahrtenbuch-Software speziell für Unternehmen und Selb
 
 **Hinweis**: Falls Sie bereits Lexware als Buchhaltungssoftware nutzen, können Sie über Lexware das Fahrtenbuch von Vimcar verwenden, da beide Unternehmen miteinander kooperieren.
 
-![Hier wird ein Rücklicht eines blauen Autos gezeigt, das mit einem Fahrtenbuch geführt wird](image.jpg)</figure>
+![Hier wird ein Rücklicht eines blauen Autos gezeigt, das mit einem Fahrtenbuch geführt wird](image.jpg)
 
 ### Fahrtenbuch mit Excel
 
