@@ -74,7 +74,7 @@ Below we present three widely used cloud computing services: **IaaS** (Infrastru
 
 ### What is SaaS?
 
-SaaS (Software as a Service) refers to **cloud-based software applications** such as CRM systems or [project management tools](/en/project-management-tools/). SaaS in cloud computing means that you can use the desired software in the cloud at any time and from anywhere, for example via a web browser, without having to install it locally on a device. The SaaS provider hosts the software on a remote server, but also takes care of backups, updates and maintenance work.
+SaaS (Software as a Service) refers to **cloud-based software applications** such as CRM systems or [project management tools](/projectmanagement-tools). SaaS in cloud computing means that you can use the desired software in the cloud at any time and from anywhere, for example via a web browser, without having to install it locally on a device. The SaaS provider hosts the software on a remote server, but also takes care of backups, updates and maintenance work.
 
 ### What is PaaS?
 
