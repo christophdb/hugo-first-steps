@@ -37,8 +37,8 @@
                     {{ .Content }}
 
 
-                    <hr />
-                    <p>
+                    <div class="mt-12 border-t border-gray-300"></div>
+                    <p class="mt-12">
                         TAGS:
                         {{ range .Site.Taxonomies.tags }}
                             <a href="{{ .Page.Permalink }}"><span style="background-color: #e1e1e1; padding: 4px 8px; border-radius: 8px;">{{ .Page.Title }}</span></a>
