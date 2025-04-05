@@ -112,11 +112,21 @@
     @apply leading-normal;
     @apply pb-4;
 }
+.post-content ol {
+    @apply list-decimal;
+}
 .post-content ul {
-    @apply list-disc py-4 pl-6 marker:text-seatable-orange;
+    @apply list-disc;
+}
+.post-content ul,
+.post-content ol {
+    @apply py-4 pl-6 marker:text-seatable-orange;
 }
 .post-content ul li::marker {
     @apply text-2xl;
+}
+.post-content ol li::marker {
+    @apply text-base;
 }
 .post-content li {
     @apply pb-4 pl-2 text-xl leading-normal;
