@@ -25,7 +25,7 @@ Agile project management divides complex processes into manageable sections and 
 
 The **project is divided into sprints**, each representing short, clear work phases in which you pursue defined tasks and goals. Plans are continuously put to the test** and can be adapted so quickly that your team can respond flexibly to new developments. **Regular meetings** enable effective communication and interim results are presented on an ongoing basis to gather feedback and ensure that the project is meeting needs.
 
-![5 cornerstones for agile project management](How-agile-project-management-works.jpg)
+![5 cornerstones for agile project management](Wie-funktioniert-agiles-Projektmanagement.jpg)
 
 ## For which projects is agile project management suitable?
 
@@ -63,7 +63,7 @@ How much benefit do you get for the price and can other agile project management
 - **Team collaboration:** An agile project management tool enables tasks to be processed jointly and simultaneously. Further information about the project must also be centrally accessible for everyone.
 - **Reporting:** Stakeholders may expect a progress report after each sprint. Agile tools make this task easier for you by making KPIs measurable with metrics and helping to continuously improve the quality of the project.
 
-![Key criteria for selecting the right tool for agile project management](criteria-for-selecting-the-suitable-tool.jpg)
+![Key criteria for selecting the right tool for agile project management](Kriterien-zur-Auswahl-des-passenden-Tools.jpg)
 
 ## Which tools are available for agile project management?
 
@@ -71,7 +71,7 @@ Before you invest in tools for your agile project management, it is worth making
 
 ### Asana
 
-Asana is one of the most popular tools for task and project management and boasts a user-friendly interface and intuitive operation**. You can assign different categories with colors for notes. You can display your data in a Gantt chart as well as in lists or a Kanban board. Team collaboration is supported by the "Teams", "Inbox" and "Discussions" areas. Even though reporting in [Asana](https://asana.com/de) is limited to simple statistics, the tool impresses with its **GDPR compliance thanks to server locations in Europe**. Some details, such as the filter functions for tasks that are available in other agile [project management tools](https://seatable.com/projektmanagement-tools/), are missing in Asana. However, the simplified presentation allows project participants to concentrate on the essentials. The San Francisco-based company offers a pure cloud solution that you can use easily and without additional infrastructure, although this removes the option of self-hosting. Getting started is free, while paid subscriptions start at 10.99 euros per user/month.
+Asana is one of the most popular tools for task and project management and boasts a user-friendly interface and intuitive operation**. You can assign different categories with colors for notes. You can display your data in a Gantt chart as well as in lists or a Kanban board. Team collaboration is supported by the "Teams", "Inbox" and "Discussions" areas. Even though reporting in [Asana](https://asana.com/de) is limited to simple statistics, the tool impresses with its **GDPR compliance thanks to server locations in Europe**. Some details, such as the filter functions for tasks that are available in other agile [project management tools](/projektmanagement-tools/), are missing in Asana. However, the simplified presentation allows project participants to concentrate on the essentials. The San Francisco-based company offers a pure cloud solution that you can use easily and without additional infrastructure, although this removes the option of self-hosting. Getting started is free, while paid subscriptions start at 10.99 euros per user/month.
 
 ### monday.com
 
