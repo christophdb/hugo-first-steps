@@ -2,10 +2,9 @@
 title: "Free template: It's so easy to keep a digital logbook"
 description: "A logbook can be more than just annoying bureaucracy - it offers you the opportunity to save money. With the right digital tools, you can maximize your benefits and avoid costly mistakes. Discover how to keep a smart logbook and which solutions can help you!"
 date: 2025-04-01
-url: "digital-logbook"
-tags: [adadf, asdfadf]
-categories: [testos, Community]
-
+url: "/digital-logbook"
+tags:
+categories:
 color: "#f34b4c"
 text: "white"
 ---
