@@ -52,3 +52,7 @@ Themen für Simon:
 - wie am besten scrapen?
 - markdown formatter?
 - es sollte keine h1 in blog beitrag sein => doch seo checks am Ende der Seite?
+
+
+- shortcode für button (z.B. registrieren auf "app erstellen")
+- shortcode für newsletter anmeldung! (z.B. agiles projektmanagement)
