@@ -112,11 +112,21 @@
     @apply leading-normal;
     @apply pb-4;
 }
+.post-content ol {
+    @apply list-decimal;
+}
 .post-content ul {
-    @apply list-disc py-4 pl-6 marker:text-seatable-orange;
+    @apply list-disc;
+}
+.post-content ul,
+.post-content ol {
+    @apply py-4 pl-6 marker:text-seatable-orange;
 }
 .post-content ul li::marker {
     @apply text-2xl;
+}
+.post-content ol li::marker {
+    @apply text-base;
 }
 .post-content li {
     @apply pb-4 pl-2 text-xl leading-normal;
@@ -136,6 +146,25 @@
 }
 .post-content dt > p {
     @apply pb-0;
+}
+
+.post-content table {
+    @apply my-8 w-full overflow-hidden text-left text-sm text-gray-500 shadow-lg;
+}
+.post-content thead {
+    @apply bg-gray-100 font-poppins text-sm uppercase text-gray-700;
+}
+.post-content thead th {
+    @apply px-6 py-3;
+}
+.post-content tbody tr {
+    @apply border-b border-gray-200 bg-white;
+}
+.post-content tbody td {
+    @apply px-6 py-4;
+}
+.post-content tbody strong {
+    @apply whitespace-nowrap text-gray-900;
 }
 
 /* end post pages */
