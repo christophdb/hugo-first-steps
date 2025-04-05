@@ -24,13 +24,13 @@ Online-Tools haben die Veranstaltungsplanung revolutioniert und bieten zahlreich
 
 Auch die Übersichtlichkeit ist ein großer Vorteil. Alle Informationen sind an einem zentralen Ort gebündelt, sodass Sie nicht zwischen verschiedenen Tabellen oder Dokumenten wechseln müssen. Dadurch behalten Sie viel leichter den Überblick über Aufgaben, Deadlines und Kosten – ein echter Gamechanger für große und kleine Veranstaltungen.
 
-![Veranstaltung planen und verwalten im Team](wie-online-tools-ihre-veranstaltungsplanung-vereinfachen.jpg)
+![Veranstaltung planen und verwalten im Team](Wie-Online-Tools-Ihre-Veranstaltungsplanung-vereinfachen.jpg)
 
-## **5 Tools zur Veranstaltungsplanung im Vergleich**
+## 5 Tools zur Veranstaltungsplanung im Vergleich
 
 Tools für die Veranstaltungsplanung gibt es wie Sand am Meer. Die passende Software auszuwählen, die genau auf Ihre Bedürfnisse zugeschnitten ist, kann daher eine echte Herausforderung sein. Um Ihnen die Auswahl zu erleichtern, haben wir fünf Tools genauer unter die Lupe genommen, mit denen Sie Ihre Veranstaltungen verwalten können. Wir haben im Vergleich insbesondere die Kriterien Benutzerfreundlichkeit, Funktionalität, Datenschutz und Kosten berücksichtigt.
 
-### **LineUpr**
+### LineUpr
 
 [LineUpr](https://lineupr.com/) ist eine browserbasierte Veranstaltungs-App aus Deutschland, die seit ihrer Gründung im Jahr 2016 für ihre Benutzerfreundlichkeit und Flexibilität geschätzt wird. Auch ohne Installation bietet sie eine unkomplizierte Lösung, um Teilnehmern alle relevanten Informationen bereitzustellen – von Programmen und Location-Details über Lineup-Profile bis hin zu Info-Seiten und Nachrichten.
 
@@ -41,7 +41,7 @@ Ein besonderes Highlight ist die Möglichkeit, mithilfe der App verschiedene Sta
 - **Datenschutz**: Daten werden DSGVO-konform verarbeitet und auf deutschen Servern gespeichert.
 - **Kosten**: Ab 99 Euro pro Event oder ab 1.999 Euro im Jahr.
 
-### **idloom**
+### idloom
 
 [Idloom](https://www.idloom.com/) ist eine umfassende Veranstaltungs-Management-Plattform, die von der Agenda-Planung über das Ticketing bis hin zur Rechnungsstellung und Steuerabwicklung jeden Aspekt Ihrer Veranstaltung abdeckt. Das 2015 in Belgien gegründete Unternehmen legt großen Wert auf Sicherheit und belegt dies unter anderem mit der ISO-27001-Zertifizierung.
 
@@ -52,7 +52,7 @@ Ein besonderes Merkmal von idloom ist die flexible Registrierung: Von Warteliste
 - **Datenschutz**: DSGVO-konform, bietet zahlreiche Sicherheits- und Compliance-Features.
 - **Kosten**: Ab 150 Euro im Monat.
 
-### **SCOOCS**
+### SCOOCS
 
 [Scoocs](https://scoocs.co/) ist eine umfassende Veranstaltungs- und Community-Plattform, die 2019 in Deutschland gegründet wurde. Ihr Alleinstellungsmerkmal ist der klare Fokus auf hybride und virtuelle Veranstaltungen. Mit Scoocs erhalten Sie eine flexible Lösung, die alle Aspekte beim Veranstaltungen verwalten abdeckt. Von der Registrierung über Videostreaming bis hin zu Networking-Möglichkeiten bietet die Plattform ein nahtloses Erlebnis für Veranstalter und Teilnehmer gleichermaßen.
 
@@ -63,7 +63,7 @@ Ergänzt wird das Angebot durch eine mobile App, die individuell an die Anforder
 - **Datenschutz**: Server in der EU, datenschutzfreundlich
 - **Kosten**: Einmalig ab 4.500 Euro bei 500 Besuchern, jährlich ab 3.000 Euro.
 
-### **Converve**
+### Converve
 
 [Converve](https://www.converve.com/) ist eine vielseitige B2B-Veranstaltungssoftware, die seit ihrer Gründung im Jahr 2000 in Deutschland Unternehmen dabei unterstützt, Veranstaltungen zu verwalten. Besonders stark ist Converve im Bereich Networking und Lead-Generierung, was die Plattform zu einer idealen Wahl für geschäftliche Veranstaltungen macht.
 
@@ -74,7 +74,7 @@ Die Software bietet eine breite Palette an Funktionen von Datenmanagement und Re
 - **Datenschutz**: DSGVO-konform, gute Maßnahmen für sichere Datenübertragung.
 - **Kosten**: 4.190 Euro bei 1 bis 100 Teilnehmern
 
-### **SeaTable**
+### SeaTable
 
 [SeaTable](https://seatable.com/), gegründet 2020 in Deutschland, ist eine innovative No-Code-Datenbank mit integriertem App-Builder. Dieses Tool bietet Ihnen flexibles Datenmanagement und vielseitige Kollaborationsmöglichkeiten – nicht nur um Veranstaltungen zu verwalten, sondern für zahlreiche Anwendungsbereiche. Dank der benutzerfreundlichen Oberfläche können Sie im Handumdrehen Ihr eigenes Datenmanagement-System und individuelle Apps erstellen.
 
@@ -87,7 +87,7 @@ SeaTable bietet darüber hinaus Automationsfunktionen, wie etwa das automatische
 - **Datenschutz**: DSGVO-konform, deutsche Server, optional On-Premises-Installation für volle Datenhoheit
 - **Kosten**: Kostenlose Basisversion, mehr Funktionen ab 7 € pro Nutzer/Monat.
 
-## **Wie Sie in 10 Schritten perfekt Veranstaltungen verwalten können**
+## Wie Sie in 10 Schritten perfekt Veranstaltungen verwalten können**
 
 Erfolgreich Veranstaltungen zu verwalten ist oft eine Herausforderung. Schnell kann man im organisatorischen Trubel etwas übersehen – selbst mit cleveren Tools. Damit Sie dennoch bestens vorbereitet sind, haben wir eine hilfreiche Veranstaltungs Checkliste für Sie erstellt.
 
@@ -151,7 +151,7 @@ Wenn Sie Veranstaltungen verwalten, spielen Einladungen eine entscheidende Rolle
 
 Vergessen Sie nicht, in den Einladungen wichtige Informationen wie Datum, Uhrzeit, Ort und Programm zu vermerken. Um den Buchungsprozess für Ihre Gäste zu erleichtern, bietet sich die Integration eines Ticket-Buchungssystems an. Mit einem [Webformular](https://seatable.io/docs/webformulare/webformulare/) im vorgefertigten [Template](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/) von SeaTable können Sie diesen Schritt einfach umsetzen und ganz automatisiert eine Teilnehmerliste erstellen.
 
-![Einladungen versenden mit SeaTable via Webformular](einladungskommunikation.jpg)
+![Einladungen versenden mit SeaTable via Webformular](Einladungskommunikation.jpg)
 
 **8\. Marketing betreiben**
 
@@ -177,7 +177,7 @@ Ein Notfallplan ist von großer Bedeutung, wenn Sie Veranstaltungen verwalten. T
 
 Am Tag der Veranstaltung ist es ratsam, noch einmal mit Ihren Dienstleistern telefonisch zu besprechen, ob alles läuft wie geplant. Es ist auch wichtig, regelmäßig die Kommunikation mit allen Beteiligten aufrechtzuerhalten und sicherzustellen, dass Ihr Team über den Plan informiert ist. Eine klare Kommunikation und ein gut koordiniertes Team sind entscheidend, um schnell und effektiv auf unvorhergesehene Situationen reagieren zu können und die Veranstaltung erfolgreich durchzuführen.
 
-![Veranstaltung richtig verwalten](notfallplaene.jpg 'caption')
+![Veranstaltung richtig verwalten](Notfallplaene.jpg)
 
 ### Fazit
 
