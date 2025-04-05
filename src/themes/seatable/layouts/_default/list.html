@@ -2,7 +2,7 @@
     <section class="padding">
         <section class="max-container">
             <div class="mx-auto text-center">
-                <h1 class="mt-1 text-8xl font-bold">{{ .Title }}</h1>
+                <h1 class="mt-1 xl:text-8xl lg:text-6xl text-4xl leading-narrow font-bold">{{ .Title }}</h1>
             </div>
 
             <div class="mt-14 flex flex-col">
@@ -12,9 +12,9 @@
                       {{ if eq $index 0 }}
                         <!-- First item -->
                         <a href="{{ .RelPermalink }}">
-                        <div class="flex p-0 justify-between rounded-xl shadow-xl" style="background-color: {{ $page.Params.color | default "#ffffff" }}">
-                            <div class="flex flex-col w-1/2 p-16 justify-center">
-                                <h2 class="text-4xl">{{ $page.Title }}</h2>
+                        <div class="flex p-0 justify-between rounded-xl md:flex-row flex-col shadow-xl" style="background-color: {{ $page.Params.color | default "#ffffff" }}">
+                            <div class="flex flex-col w-1/2 p-8 md:p-16 justify-center">
+                                <h2 class="lg:text-4xl text-2xl">{{ $page.Title }}</h2>
                                 <p class="mt-6 text-xl leading-normal">{{ $page.Description }}</p>
                                 <p class="mt-12">{{ $page.Date | time.Format site.Params.dateFormat }}</p>
                             </div>
@@ -54,7 +54,7 @@
                       {{ else }}
                         <!-- Three items per row -->
                         {{ if modBool $index 3 }}
-                        <div class="flex justify-between mt-14">
+                        <div class="flex justify-between mt-14 gap-14 flex-col lg:flex-row">
                         {{ end }}
                             {{ partial "article-link/card.html" $page }}
                         {{ if modBool (add $index 1) 3 }}
