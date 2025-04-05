@@ -24,7 +24,7 @@ Changes can be made in real time so that everyone involved can see immediately w
 
 Clarity is also a major advantage. All information is bundled in one central location, so you don't have to switch between different tables or documents. This makes it much easier to keep track of tasks, deadlines and costs - a real game changer for events large and small.
 
-![Plan and manage your event as a team](wie-online-tools-ihre-veranstaltungsplanung-vereinfachen.jpg)
+![Plan and manage your event as a team](Wie-Online-Tools-Ihre-Veranstaltungsplanung-vereinfachen.jpg)
 
 ## 5 tools for event planning in comparison
 
@@ -151,7 +151,7 @@ When managing events, invitations play a crucial role in your success. By using 
 
 Don't forget to include important information such as date, time, location and program in the invitations. To make the booking process easier for your guests, it is a good idea to integrate a ticket booking system. With a [web form](https://seatable.io/docs/webformulare/webformulare/) in the ready-made [template](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/) from SeaTable, you can easily implement this step and automatically create a list of participants.
 
-![Send invitations with SeaTable via web form](einladungskommunikation.jpg)
+![Send invitations with SeaTable via web form](Einladungskommunikation.jpg)
 
 **8\. Marketing**
 
@@ -177,7 +177,7 @@ An emergency plan is of great importance when you are managing events. Despite c
 
 On the day of the event, it is advisable to call your service providers again to check that everything is going as planned. It is also important to maintain regular communication with everyone involved and ensure that your team is aware of the plan. Clear communication and a well-coordinated team are crucial to being able to react quickly and effectively to unforeseen situations and successfully execute the event.
 
-![Manage event properly](notfallplaene.jpg 'caption')
+![Manage event properly](Notfallplaene.jpg)
 
 ### Conclusion
 
