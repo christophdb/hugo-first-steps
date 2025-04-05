@@ -58,3 +58,13 @@ Themen für Simon:
 - shortcode für newsletter anmeldung! (z.B. agiles projektmanagement)
 
 - ist sitemap "last modified" wirklich immer richtig? Auch für /de/post-sitemap.xml?
+
+- besseres styling für tabellen in blogposts
+- ganz häufig wird aufzählungsliste mit headline: xxx verwendet. shortcode?
+- andere shortcodes? Alerts, quote, ...
+- die ganzen https://seatable.com in den blog artikeln müssen aufgelöst werden!
+- deepl (auto translate) dateinamen mit *.jpg werden nicht übersetzt, ||| darf nicht entfernt werden. auch ![ am Anfang nicht...
+- adobe stock fotos in hris -> austauschen
+- template property management sind die bilder defekt?
+- quote: low-code blogartikel
+- gif will ich nicht verkleinern oder anpassen: low-code blogartikel

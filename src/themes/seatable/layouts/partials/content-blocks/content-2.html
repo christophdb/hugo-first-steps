@@ -1,6 +1,6 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50">
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
         <pre><code>- name: "{{ .name }}"
   weight: 1
   title: 
@@ -26,15 +26,15 @@
 <!-- HTML Block -->
 <section class="padding" id="{{ .name }}">
     <section class="max-container">
-        <p class=" font-bold text-2xl font-poppins gradient">{{ .title }}</p>
-        <h2 class="mt-1 text-4xl font-bold">{{ .subtitle }}</h2>
+        <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+        <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
 
-        <div class="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 mt-16">
+        <div class="mt-16 grid grid-cols-2 gap-8 lg:grid-cols-3 xl:grid-cols-4">
             {{ range .items }}
                 <div>
                     <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>
-                    <h3 class="font-bold text-2xl mt-3">{{ .headline }}</h3>
-                    <p class="mt-4 mb-8 text-lg leading-normal">{{ .text }}</p>
+                    <h3 class="mt-3 text-2xl font-bold">{{ .headline }}</h3>
+                    <p class="mb-8 mt-4 text-lg leading-normal">{{ .text }}</p>
                 </div>
             {{ end }}
         </div>
