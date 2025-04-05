@@ -2,8 +2,8 @@ name: Build
 
 on:
   push:
-    branches:
-      main
+    branches: 
+      - main
 
 env:
   GO_VERSION: 1.24.1
@@ -16,11 +16,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches entire commit history for git lastmod
+      
       - name: Build site
         run: ./build.sh
+      
       - name: Create tar.gz archive
         run: tar -czvf archive.tar.gz public
         working-directory: src
+      
       # Step 4: Upload the archive as an artifact
       - name: Upload tar.gz artifact
         uses: actions/upload-artifact@v4
