@@ -56,3 +56,5 @@ Themen für Simon:
 
 - shortcode für button (z.B. registrieren auf "app erstellen")
 - shortcode für newsletter anmeldung! (z.B. agiles projektmanagement)
+
+- ist sitemap "last modified" wirklich immer richtig? Auch für /de/post-sitemap.xml?

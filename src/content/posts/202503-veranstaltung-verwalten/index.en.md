@@ -3,7 +3,8 @@ title: '10 tips you should know before managing your events'
 description: "Planning the perfect event sounds stressful? It doesn't have to be! With the right tools and a clear checklist, complex planning becomes a simple process. Read how to manage even large events professionally and what really matters."
 date: 2025-03-23
 url: '/event-management'
-tags: ['asdaf', 'asdadf']
+tags:
+categories:
 color: '#f7c1cf'
 ---
 
@@ -186,27 +187,30 @@ Using the integrated web form makes it easy for participants to register for you
 
 With these features, SeaTable offers the ideal solution to optimize the planning of an event. All you have to do to use the template is register with your e-mail address.
 
-<div class="wp-block-group has-global-padding is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-10 wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)">
-
 ## Frequently asked questions
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>**Why should I use online tools for event planning?**</summary>
+{{< faq >}}
+
+Why should I use online tools for event planning?|||
 
 Online tools make event planning much easier by enabling centralized and automated management of all tasks. They offer a user-friendly interface that allows you to make changes in real time and automate various tasks such as sending emails or customizing guest lists. This saves time, minimizes errors and allows teams to work together regardless of their location.
 
-</details>
+---
 
-<details>
-<summary>What factors should I consider when choosing event management software?
+What factors should I consider when choosing event management software? |||
+
 When selecting software, you should pay attention to the following criteria: Ease of use, functionality, data protection (especially GDPR compliance) and cost. Think about which functions you need and how well the software can be adapted to your specific requirements.
-</details>
 
-<details><summary>How do I create an event budget and what costs do I need to take into account?
+---
+
+How do I create an event budget and what costs do I need to take into account?|||
 
 A detailed event budget should include both obvious costs such as venue hire, catering and technology as well as less obvious expenses such as travel costs, licenses and cleaning costs. It is also important to consider potential savings from volunteers or sponsors.
 
-</details><details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>**How can I ensure that my event is well attended?**</summary>
+---
+
+How can I ensure that my event is well attended?**|||
 
 To maximize the number of participants, it is important to start promoting the event early and use all relevant channels to reach your target group. Personalized invitations, social media marketing and easy registration via an online tool can significantly increase the participation rate.
 
-</details>
+{{< /faq >}}
