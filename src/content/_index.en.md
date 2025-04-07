@@ -5,6 +5,16 @@ description: ''
 sections:
 - name: hero-1
   weight: 1
+  h2_left: "No code,"
+  h2_right: "no limits"
+  h1: "SeaTable no-code platform: Organize all your data and develop custom applications without writing a single row code!"
+  description: Intuitively design custom databases, workflows and apps - easily.<br/>Our no-code solution combines the simplicity of spreadsheets with the power of no-code databases and no-code app builders and can also be used as a low-code platform.
+  buttons:
+    - label: Get started now
+      link: "#"
+      style: "primary"
+    - label: Get to know functions
+      link: "#"
 
 - name: content-4
   weight: 2
@@ -92,6 +102,9 @@ sections:
   title: "Create individual apps"
   subtitle: "Without programming knowledge"
   description: "Welcome to the future of app development, where programming skills are optional. With SeaTable you can get started right away!"
+  classes:
+  - bg-gray-100
+  - curved
   items:
   - headline: "Use the No-Code App Builder"
     text: "Our No Code App Builder allows you to create powerful, data-driven applications effortlessly with drag-and-drop functionality. Programming without code: Whether you need a CRM, a project management tool or a specific solution for your business, you can build it all yourself, even without writing a single row code."
