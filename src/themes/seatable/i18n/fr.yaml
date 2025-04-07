@@ -1,16 +1,18 @@
 navigation:
-  login: "Connexion"
-  registration: "Inscription"
-
+    login: 'Connexion'
+    registration: 'Inscription'
 
 error:
-  404_title: "Page non trouvée :confused:"
-  404_error: "Erreur 404"
-  404_description: "La page que tu cherches n'existe pas ou a été déplacée. Veuillez utiliser la recherche avec le formulaire ci-dessous."
+    404_title: 'Page non trouvée :confused:'
+    404_error: 'Erreur 404'
+    404_description: "La page que tu cherches n'existe pas ou a été déplacée. Veuillez utiliser la recherche avec le formulaire ci-dessous."
 
 article:
-  table_of_contents: "Table des matières"
+    table_of_contents: 'Table des matières'
 
 legal:
-  version: "Version"
-  published_on: "published on"
+    version: 'Version'
+    published_on: 'published on'
+
+newsletter:
+    submit_text: 'Souscrire'
