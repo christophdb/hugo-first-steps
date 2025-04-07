@@ -13,6 +13,7 @@ module.exports = {
             '4xl': ['48px', '58px'],
             '5xl': ['56px', '80px'],
             '8xl': ['96px', '106px'],
+            '9xl': ['108px', '120px'],
         },
         extend: {
             lineHeight: {

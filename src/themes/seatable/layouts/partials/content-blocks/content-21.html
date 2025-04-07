@@ -1,4 +1,4 @@
-{{ $classes := .classes }}
+{{ $classes := .classes | default "" }}
 <section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
     <section class="max-container">
         <div class="mx-auto max-w-[800px] text-center">

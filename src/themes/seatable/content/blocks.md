@@ -14,6 +14,9 @@ sections:
     title: "Erstellen Sie individuelle Apps"
     subtitle: "Ohne Programmierkenntnisse"
     description: "Willkommen in der Zukunft der App-Entwicklung, bei der Programmierkenntnisse optional sind. Mit SeaTable können Sie sofort loslegen!"
+    classes:
+    - bg-gray-100
+    - curved
     items:
     - headline: "Nutzen Sie den No-Code App Builder"
       text: "Unser No Code App Builder ermöglicht es Ihnen, leistungsstarke, datengetriebene Anwendungen 

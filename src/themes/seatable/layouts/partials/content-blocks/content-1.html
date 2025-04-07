@@ -6,6 +6,9 @@
   title: 
   subtitle: 
   description: 
+  classes:
+  - bg-gray-100
+  - curved
   items:
   - headline:
     text:
@@ -19,7 +22,8 @@
 
 
 <!-- HTML Block -->
-<section class="padding curved bg-gray-100 !pt-40" id="{{ .name }}">
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
     <section class="max-container flex w-full items-start justify-between gap-10 max-lg:flex-col">
         <div class="flex basis-3/5 flex-col">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>

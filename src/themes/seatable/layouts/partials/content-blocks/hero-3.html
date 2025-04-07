@@ -1,31 +1,15 @@
-<div class="absolute inset-x-0 top-[-120px]" style="z-index:-10">
-    <img class="w-full h-[1000px] object-cover m-0 nozoom" src="/img/seatable-waves-background-scaled.jpg" role="presentation" style="margin:0">
-</div>
-
 <section class="padding">
-    <section id="customers" class="max-container">
-        <div class="mx-auto text-center max-w-[800px] mb-8">
-            <h1>asdfadf</h1>
-            <h2>asdfaf</h2>
-        </div>
-    </section>
-</section>
+    <section class="max-container">
+        <div class="mx-auto mb-8 text-center">
+            <h1 class="gradient text-8xl">{{ .title }}</h1>
+            <p class="mx-auto mt-8 max-w-3xl text-xl font-bold leading-normal">{{ .description }}</p>
 
-<!-- requires "relative" -->
-<section class="padding ">
-    <section id="abc" class="max-container flex justify-between items-start w-full gap-10 max-lg:flex-col">
-        <div class="flex flex-col flex-1">
-            <h2 class="font-palanquin text-4xl capitalize font-bold">We provide your <span class="text-coral-red">super quality</span> shoes</h2>
-            <p class="mt-4 info-text">Ensuring premium comfort and style, our meticulously crafted footwear is designed
-                to elevate your experience, providing you with unmatched quality, innovation,
-                and a touch of elegance.</p>
-            <p class="mt-4 info-text">Our dedication to detail and excellence ensures your satisfaction</p>
-            <div class="mt-11">
-                <a class="inline-flex justify-center items-center gap-2 font-montserrat text-lg rounded-full px-7 py-4 bg-coral-red text-white">View details <img class="ml-2 rounded-full w-5 h-5" src="/icons/arrow-right.svg" alt="arrow right icon"/></a></button>
-            </div>
-        </div>
-        <div class="flex flex-1 justify-center">
-            <img src="https://placehold.co/570x522" width="570" height="522" alt="placeholder" />
+            {{ with .button }}
+                <div class="mt-12 text-center">
+                    <a href="{{ .url }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins font-bold text-gray-800">{{ .label }}</a>
+                </div>
+            {{ end }}
+
         </div>
     </section>
 </section>

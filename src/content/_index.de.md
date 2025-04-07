@@ -5,6 +5,16 @@ description: ''
 sections:
 - name: hero-1
   weight: 1
+  h2_left: "No code,"
+  h2_right: "no limits"
+  h1: "SeaTable no-code platform: Organize all your data and develop custom applications without writing a single row code!"
+  description: Intuitively design custom databases, workflows and apps - easily.<br/>Our no-code solution combines the simplicity of spreadsheets with the power of no-code databases and no-code app builders and can also be used as a low-code platform.
+  buttons:
+    - label: Jetzt loslegen
+      link: "#"
+      style: "primary"
+    - label: Funktionen kennenlernen
+      link: "#"
 
 - name: content-4
   weight: 2
@@ -13,7 +23,7 @@ sections:
   text: 'SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser.'
   button:
       label: 'Jetzt ausprobieren'
-      link: '/registrierung'
+      link: '/de/registrierung'
   gridheadline: "Die No-Code <span class='gradient'>Lösung</span> für ..."
   items:
       - icon: 'chart-simple'
@@ -23,23 +33,23 @@ sections:
       - icon: 'bullseye'
         headline: 'Projektmanagement'
         text: 'Nutzen Sie Gantt-Diagramme und Kanban-Boards, um Projekte effizient zu steuern. Verfolgen Sie Fortschritte und koordinieren Sie Teams mit SeaTable.'
-        link: '/projektmanagement'
+        link: '#'
       - icon: 'people-group'
         headline: 'Human Resources'
         text: 'Verwalten Sie Mitarbeiterdaten, Schulungen und Urlaubsanträge mit SeaTable. Optimieren Sie HR-Prozesse und verbessern Sie die Mitarbeitererfahrung.'
-        link: '/human-ressources'
+        link: '#'
       - icon: 'building'
         headline: 'Öffentlicher Dienst'
         text: 'Verwalten Sie Personalakten, Schulungsdaten und Anträge mit SeaTable. Optimieren Sie Prozesse und verbessern Sie die Transparenz im öffentlichen Dienst.'
-        link: ''
+        link: '#'
       - icon: 'terminal'
         headline: 'Softwareentwicklung'
         text: 'Verwalten Sie Backlogs, Issues, Bugs und Releases mit SeaTable. Optimieren Sie den Entwicklungsprozess und verbessern Sie die Teamkommunikation.'
-        link: ''
+        link: '#'
       - icon: 'fingerprint'
         headline: 'Individuell'
         text: 'Erstellen Sie maßgeschneiderte Anwendungen für Ihre spezifischen Geschäftsanforderungen mit SeaTable. Automatisieren Sie Prozesse und verbessern Sie die Effizienz.'
-        link: ''
+        link: '#'
 
 - name: "content-8"
   weight: 3
@@ -87,6 +97,9 @@ sections:
   title: "Erstellen Sie individuelle Apps"
   subtitle: "Ohne Programmierkenntnisse"
   description: "Willkommen in der Zukunft der App-Entwicklung, bei der Programmierkenntnisse optional sind. Mit SeaTable können Sie sofort loslegen!"
+  classes:
+  - bg-gray-100
+  - curved
   items:
   - headline: "Nutzen Sie den No-Code App Builder"
     text: "Unser No Code App Builder ermöglicht es Ihnen, leistungsstarke, datengetriebene Anwendungen 
