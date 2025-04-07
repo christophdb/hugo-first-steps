@@ -4,6 +4,9 @@
       "esbenp.prettier-vscode",
       "yzhang.markdown-all-in-one",
       "wayou.vscode-todo-highlight",
-      "soerenuhrbach.vscode-deepl"
+      "soerenuhrbach.vscode-deepl",
+      "ms-azuretools.vscode-docker"
     ]
   }
+
+  
