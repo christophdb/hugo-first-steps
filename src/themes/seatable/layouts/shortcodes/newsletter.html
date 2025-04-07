@@ -1,5 +1,5 @@
 <div x-data="newsletterForm()" class="text-left">
-    <form @submit.prevent="submitForm" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
+    <form @submit.prevent="submitForm" method="POST" class="mt-4 max-w-md">
         <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
             <div class="sm:col-span-2">
                 <label for="email" class="block font-poppins text-lg font-semibold text-seatable-gray">E-Mail <span class="text-base text-red-600">*</span></label>
@@ -18,7 +18,7 @@
             </div>
         </div>
 
-        <div class="mt-10">
+        <div class="mt-4">
             <button type="submit" class="bg-gradient block w-full rounded-lg p-4 font-poppins font-bold text-white">
                 <span x-show="!submitted">{{ T "newsletter.submit_text" }}</span>
                 <span x-show="submitted">{{ ":white_check_mark:" | emojify }}</span>
