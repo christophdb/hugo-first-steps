@@ -121,14 +121,16 @@ sections:
     items:
     - title: Automatisieren Sie Prozesse
       subtitle: Sparen Sie wertvolle Zeit
-      text1: "Unsere No-Code Plattform ermöglicht es Ihnen, wiederkehrende Aufgaben zu automatisieren, Workflows zu erstellen und Benachrichtigungen zu konfigurieren. 
+      text: "Unsere No-Code Plattform ermöglicht es Ihnen, wiederkehrende Aufgaben zu automatisieren, Workflows zu erstellen und Benachrichtigungen zu konfigurieren. 
         So können Sie sich auf das Wesentliche konzentrieren und die Effizienz Ihres Unternehmens steigern."
     - subtitle: Ohne Limits
       title: Die Datenbank, die dort weitermacht, wo Excel an Grenzen stößt
-      text1: "Verabschieden Sie sich von den Einschränkungen traditioneller Tabellenkalkulationen. Unsere No-Code Datenbank bietet Ihnen die Flexibilität und Leistungsfähigkeit, die Excel nicht erreichen kann."
-      text2: "Verwalten Sie komplexe Datenstrukturen, verknüpfen Sie Tabellen und analysieren Sie Ihre Daten effizient – alles
-        innerhalb einer benutzerfreundlichen Oberfläche. Die <strong>Excel-Alternative</strong> SeaTable revolutioniert das Datenmanagement und bietet Ihnen die Werkzeuge, die Sie benötigen,
-        um Ihre Daten effizient zu verwalten."
+      text: "Verabschieden Sie sich von den Einschränkungen traditioneller Tabellenkalkulationen. Unsere No-Code Datenbank bietet Ihnen die Flexibilität und Leistungsfähigkeit, die Excel nicht erreichen kann.<br/><br/>
+        Verwalten Sie komplexe Datenstrukturen, verknüpfen Sie Tabellen und analysieren Sie Ihre Daten effizient – alles innerhalb einer benutzerfreundlichen Oberfläche. Die <strong>Excel-Alternative</strong> SeaTable revolutioniert das Datenmanagement und bietet Ihnen die Werkzeuge, die Sie benötigen, um Ihre Daten effizient zu verwalten."
+    - subtitle: Zusammenarbeit
+      title: Kollaboratives Arbeiten in Echtzeit für Teams
+      text: SeaTable fördert die Zusammenarbeit in Ihrem Team durch Echtzeit-Synchronisation und gemeinsame Arbeitsbereiche. Jeder im Team kann gleichzeitig auf dieselben Daten zugreifen, Änderungen vornehmen und sehen, was andere bearbeiten.<br/><br/>Dies macht SeaTable zu einem idealen Werkzeug für Teams, die gemeinsam an Projekten arbeiten und ihre Produktivität steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren.
+
 
   - name: content-6
     weight: 6
@@ -151,7 +153,7 @@ sections:
 
   - name: banner-2
     weight: 8
-    title: "Wie auch immer Ihr Arbeitsablauf aussieht, mit SeaTable können Sie Ihn realisieren"
+    title: Wie auch immer Ihr Arbeitsablauf aussieht, mit <span class="text-seatable-blue">SeaTable</span> können Sie Ihn realisieren
     button:
       url: "#"
       label: "Jetzt registrieren und loslegen"

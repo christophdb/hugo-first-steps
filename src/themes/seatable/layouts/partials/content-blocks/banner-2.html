@@ -1,22 +1,23 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
   weight: 1
-  title: </code></pre></div>
+  title: </code></pre>
+    </div>
 {{ end }}
+
 
 <!-- HTML Block -->
 <section class="padding curved curved-gradient">
     <section class="">
-        <div class="mx-auto text-right max-w-[1000px]">
-            <h3 class="font-bold text-5xl text-white leading-none">{{ .title }}</h3>
+        <div class="mx-auto max-w-[1000px] text-right">
+            <h3 class="text-5xl font-bold leading-none text-white">{{ .title | safeHTML }}</h3>
             {{ with .button }}
-            <div class="text-right mt-12">
-                <a href="{{ .url }}" class="rounded-xl px-7 py-4 bg-white text-gray-800 font-bold font-poppins border border-seatable-blue">{{ .label }}</a>
-            </div>
+                <div class="mt-12 text-right">
+                    <a href="{{ .url }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins font-bold text-gray-800">{{ .label }}</a>
+                </div>
             {{ end }}
         </div>
     </section>
 </section>
-
-

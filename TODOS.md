@@ -68,3 +68,14 @@ Themen für Simon:
 - template property management sind die bilder defekt?
 - quote: low-code blogartikel
 - gif will ich nicht verkleinern oder anpassen: low-code blogartikel
+
+- formular button hover effect
+- formular rückmeldung!
+- formular übersetzen
+
+
+Aufgabe für Patricia: 
+- Tags/categorien für die anderen Sprachen festlegen
+- übersetzung der blogartikel
+- urls der blogartikel anpassen?
+- wie wollen wir verlinken?

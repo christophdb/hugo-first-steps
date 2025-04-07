@@ -9,7 +9,6 @@
   items:
   - headline:
     text:
-    text2: (optional)
   - headline:
     text:
   - headline:
@@ -23,15 +22,12 @@
 <section class="padding curved bg-gray-100 !pt-40" id="{{ .name }}">
     <section class="max-container flex w-full items-start justify-between gap-10 max-lg:flex-col">
         <div class="flex basis-3/5 flex-col">
-            <p class="gradient font-poppins text-2xl font-bold">{{ .title }}</p>
-            <h2 class="mt-1 text-4xl font-bold">{{ .subtitle }}</h2>
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
             <p class="mt-8">{{ .description }}</p>
             {{ range .items }}
                 <h3 class="mt-12 text-xl font-bold tracking-tight">{{ .headline }}</h3>
-                <p class="mt-3 text-base leading-normal">{{ .text }}</p>
-                {{ if .text2 }}
-                    <p class="mt-3 text-base leading-normal">{{ .text2 }}</p>
-                {{ end }}
+                <p class="mt-3 text-base leading-normal">{{ .text | safeHTML }}</p>
             {{ end }}
         </div>
         <div class="basis-2/5 justify-center">
