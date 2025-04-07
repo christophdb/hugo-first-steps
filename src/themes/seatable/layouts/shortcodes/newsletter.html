@@ -19,7 +19,10 @@
         </div>
 
         <div class="mt-10">
-            <button type="submit" class="bg-gradient block w-full rounded-lg p-4 font-poppins font-bold text-white">{{ T "newsletter.submit_text" }}</button>
+            <button type="submit" class="bg-gradient block w-full rounded-lg p-4 font-poppins font-bold text-white">
+                <span x-show="!submitted">{{ T "newsletter.submit_text" }}</span>
+                <span x-show="submitted">{{ ":white_check_mark:" | emojify }}</span>
+            </button>
         </div>
     </form>
 </div>
