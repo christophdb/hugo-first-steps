@@ -23,38 +23,38 @@ sections:
   text: 'SeaTable can handle all information from you and your team:Images, documents, emails, checkboxes, picklists, shortcuts and much more. You can edit all information conveniently via a web browser.'
   button:
       label: 'Try it out now'
-      link: '/registrierung'
+      link: '/registration'
   gridheadline: "The No-Code <span class='gradient'>solution</span> for ..."
   items:
       - icon: 'chart-simple'
         headline: 'Marketing'
         text: 'Plan campaigns, manage leads and analyze results with SeaTable. Automate workflows and optimize your marketing strategy.'
-        link: '/marketing'
+        link: '#'
 
       - icon: 'bullseye'
         headline: 'Project management'
         text: 'Use Gantt charts and Kanban boards to manage projects efficiently. Track progress and coordinate teams with SeaTable.'
-        link: '/projektmanagement'
+        link: '#'
 
       - icon: 'people-group'
         headline: 'Human Resources'
         text: 'Manage employee data, training and leave requests with SeaTable. Optimize HR processes and improve the employee experience.'
-        link: '/human-ressources'
+        link: '#'
 
       - icon: 'building'
         headline: 'Public service'
         text: 'Manage personnel files, training data and applications with SeaTable. Optimize processes and improve transparency in the public sector.'
-        link: ''
+        link: '#'
 
       - icon: 'terminal'
         headline: 'Software development'
         text: 'Manage backlogs, issues, bugs and releases with SeaTable. Optimize the development process and improve team communication'
-        link: ''
+        link: '#'
 
       - icon: 'fingerprint'
         headline: 'Individual'
         text: 'Create customized applications for your specific business needs with SeaTable. Automate processes and improve efficiency.'
-        link: ''
+        link: '#'
 
 - name: "content-8"
   weight: 3
