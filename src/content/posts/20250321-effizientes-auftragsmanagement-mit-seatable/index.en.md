@@ -6,7 +6,7 @@ categories:
   - "General"
   - "Customer Story"
 tags: 
-  - "Digitale Transformation"
+  - "Digital Transformation"
 color: "#f7f0d6"
 url: "/effizientes-auftragsmanagement-mit-seatable"
 ---

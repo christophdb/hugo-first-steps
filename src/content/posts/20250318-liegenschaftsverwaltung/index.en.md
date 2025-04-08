@@ -5,7 +5,7 @@ date: 2025-03-18
 categories: 
   - "General"
 tags: 
-  - "Öffentliche Verwaltung"
+  - "Public administration"
 color: "#c4e8d8"
 url: "/liegenschaftsverwaltung"
 ---

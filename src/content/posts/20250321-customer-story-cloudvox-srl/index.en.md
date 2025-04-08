@@ -6,8 +6,8 @@ categories:
   - "General"
   - "Customer Story"
 tags: 
-  - "Digitale Transformation"
-  - "Integration & Automatisierung"
+  - "Digital transformation"
+  - "Integration & Automation"
 color: "#faeebf"
 url: "/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht"
 ---
