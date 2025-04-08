@@ -24,7 +24,7 @@ La regla del 1% es un **método de tributación a tanto alzado para vehículos d
 
 Si merece más la pena un libro de registro o la regla del 1% para su coche de empresa **depende en gran medida del tipo de uso que haga el conductor**. Una regla práctica es la siguiente: Si utiliza el coche de empresa tanto para fines privados como profesionales, la tributación a tanto alzado suele ser la opción más favorable y sencilla.
 
-Lleve un diario digital para anotar todos los datos rápidamente](Ob-sich-ein-Fahrtenbuch-oder.jpg "Si utiliza el coche de empresa predominantemente para fines privados, la regla del 1% es ventajosa").
+![Lleve un diario digital para anotar todos los datos rápidamente](Ob-sich-ein-Fahrtenbuch-oder.jpg "Si utiliza el coche de empresa predominantemente para fines privados, la regla del 1% es ventajosa").
 
 ### De cuándo merece la pena un diario de a bordo
 
@@ -131,13 +131,13 @@ Si desea utilizar el cuaderno de bitácora digital de SeaTable, [simplemente reg
 
 {{< faq >}}
 
-¿Tengo que documentar cada viaje?
+¿Tengo que documentar cada viaje?|||
 
 Sí, si lleva un cuaderno de a bordo, debe documentar cada viaje para poder separar correctamente el uso privado del profesional y declararlo a efectos fiscales.
 
 ---
 
-¿Qué debe figurar en un diario de a bordo?
+¿Qué debe figurar en un diario de a bordo?|||
 
 En el cuaderno de a bordo debe constar toda la información necesaria para cada viaje:
 
@@ -149,7 +149,7 @@ En el cuaderno de a bordo debe constar toda la información necesaria para cada 
 
 ---
 
-¿Qué ocurre si pierdo mi cuaderno de viaje?
+¿Qué ocurre si pierdo mi cuaderno de viaje?|||
 
 Si pierde su cuaderno de pesca, las consecuencias dependerán de si estaba obligado a conservarlo:
 
@@ -159,13 +159,13 @@ Si pierde su cuaderno de pesca, las consecuencias dependerán de si estaba oblig
 
 ---
 
-¿Es más favorable la norma del 1% o el libro de registro?
+¿Es más favorable la norma del 1% o el libro de registro?|||
 
 Cuanto menor sea la proporción de viajes privados, más vale la pena llevar un diario de a bordo; sin embargo, el método del 1% suele ser más favorable para el uso privado frecuente. En caso de duda, puedes calcularlo fácilmente online con una calculadora de vehículos de empresa.
 
 ---
 
-¿Cuáles son las ventajas del diario de a bordo?
+¿Cuáles son las ventajas del diario de a bordo?|||
 
 En resumen, puede decirse que un libro de registro para vehículos de empresa ofrece ventajas sobre todo si el uso privado del vehículo es escaso y el esfuerzo que supone un libro de registro parece justificado.  
 
