@@ -1,4 +1,5 @@
 /* form actions for registration and contact form */
+/* TODO: {{ T "registration.email_required" }} does not work...
 
 function contactForm() {
     return {
@@ -88,54 +89,6 @@ function registrationForm() {
                 .then((response) => response.json())
                 .then((data) => console.log(data))
                 .catch((error) => console.error('Error:', error));
-        },
-    };
-}
-
-function newsletterForm() {
-    return {
-        email: '',
-        errors: {},
-        submitted: false,
-        validateEmail() {
-            if (!this.email.trim()) {
-                this.errors.email = '{{ T "registration.email_required" }}';
-            } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
-                this.errors.email = '{{ T "registration.email_invalid" }}';
-            } else {
-                delete this.errors.email;
-            }
-        },
-        async submitForm() {
-            this.validateEmail();
-
-            if (this.errors.email) {
-                return;
-            }
-
-            const url = '{{ getenv "HUGO_BACKEND_URL" }}';
-            const data = {
-                email: this.email,
-                // TODO: Get current language
-                language: 'en',
-            };
-
-            const headers = {
-                'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-            };
-            const params = new URLSearchParams(data);
-
-            try {
-                const response = await fetch(`${url}/subscribe`, {
-                    method: 'POST',
-                    headers: headers,
-                    body: params.toString(),
-                });
-                const body = await response.json();
-                this.submitted = true;
-            } catch (error) {
-                console.error('Error:', error);
-            }
         },
     };
 }
