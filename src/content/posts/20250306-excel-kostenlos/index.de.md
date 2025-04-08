@@ -1,13 +1,13 @@
 ---
-title: "Excel kostenlos? Tabellenkalkulation: Programme im Vergleich"
-description: "Benötigen Sie eine leistungsstarke Tabellenkalkulation, hadern aber mit Excel? Oder haben Sie Datenschutzbedenken gegenüber dem US-Riesen Microsoft? Kein Problem! Es gibt genügend Programme, die im Gegensatz zu Excel kostenlos sind oder sogar mehr Funktionen bieten. Tauchen Sie ein in die Welt der Tabellenlösungen!"
+title: 'Excel kostenlos? Tabellenkalkulation: Programme im Vergleich'
+description: 'Benötigen Sie eine leistungsstarke Tabellenkalkulation, hadern aber mit Excel? Oder haben Sie Datenschutzbedenken gegenüber dem US-Riesen Microsoft? Kein Problem! Es gibt genügend Programme, die im Gegensatz zu Excel kostenlos sind oder sogar mehr Funktionen bieten. Tauchen Sie ein in die Welt der Tabellenlösungen!'
 date: 2025-03-06
-categories: 
-  - "Allgemein"
-tags: 
-  - "Toolings & Plugins"
-url: "/de/excel-kostenlos"
-color: "#6d9c70"
+categories:
+    - 'Allgemein'
+tags:
+    - 'Toolings & Plugins'
+url: '/de/excel-kostenlos'
+color: '#6d9c70'
 ---
 
 ## Konkurrenz für den Marktführer: Wer Excel kostenlos anbietet
@@ -26,14 +26,14 @@ Wenn Sie stattdessen aber die Desktop-Vollversion für Windows oder macOS ben�
 
 Wenn Sie sich nur einen schnellen Überblick verschaffen wollen, schauen Sie in die nachfolgende Tabelle, welche die wichtigsten Tabellenkalkulationen gegenüberstellt. Eine detaillierte Beschreibung folgt weiter unten im Anschluss an eine Kategorisierung der hier betrachteten Tabellenkalkulationsprogramme.
 
-| **Software** | **Entwickelt von** | **Betriebssysteme** |
-| --- | --- | --- |
-| Calc | LibreOffice / OpenOffice | Windows, Mac, Linux |
-| PlanMaker | SoftMaker | Windows, Mac, Linux |
-| Google Sheets | Google | Browser-basiert |
-| Zoho Sheet | Zoho | Browser-basiert |
-| Ethercalc | Open-Source-Projekt | Browser-basiert |
-| SeaTable | Seafile | Browser-basiert |
+| **Software**  | **Entwickelt von**       | **Betriebssysteme** |
+| ------------- | ------------------------ | ------------------- |
+| Calc          | LibreOffice / OpenOffice | Windows, Mac, Linux |
+| PlanMaker     | SoftMaker                | Windows, Mac, Linux |
+| Google Sheets | Google                   | Browser-basiert     |
+| Zoho Sheet    | Zoho                     | Browser-basiert     |
+| Ethercalc     | Open-Source-Projekt      | Browser-basiert     |
+| SeaTable      | Seafile                  | Browser-basiert     |
 
 In diesem Vergleich wurden nur lokale Anwendungen berücksichtigt, die mindestens zwei Betriebssystemfamilien unterstützen. Aus diesem Grund ist Apple Numbers als reine Tabellenkalkulation für MacOS/iOS genauso wenig dabei wie Gnumeric, das seit 2014 eine reine Anwendung für Linux ist.
 
@@ -127,8 +127,8 @@ Neueinsteiger werden sich mit Sheets vermutlich leichter tun als mit Excel. Umst
 
 ### Deutliche Orientierung an Google Sheets
 
-Wenn Sie aufgrund des Namens und des Anspruchs als G Suite Killer weitere Ähnlichkeiten zu Google Sheets vermuten, liegen Sie richtig: Auf den ersten Blick erscheint Zoho Sheet wie ein Klon von Google Sheets. Die **Menüstruktur ist quasi identisch**; Unterschiede zeigen sich erst auf den zweiten Blick. Auch beim direkten Funktionsvergleich sind Zoho Sheet und Google Sheets nah beieinander. Webformulare, Pivot-Tabellen, bedingte Formatierung, Versionierung sowie **umfangreiche Kollaborationsfunktionen** inklusive Sharing, Echtzeit-Zusammenarbeit und Chat gibt es in beiden. Wer mit Google Sheets zurechtkommt, wird auch mit Zoho Sheet keine Mühe haben, Excel kostenlos zu ersetzen.  
-  
+Wenn Sie aufgrund des Namens und des Anspruchs als G Suite Killer weitere Ähnlichkeiten zu Google Sheets vermuten, liegen Sie richtig: Auf den ersten Blick erscheint Zoho Sheet wie ein Klon von Google Sheets. Die **Menüstruktur ist quasi identisch**; Unterschiede zeigen sich erst auf den zweiten Blick. Auch beim direkten Funktionsvergleich sind Zoho Sheet und Google Sheets nah beieinander. Webformulare, Pivot-Tabellen, bedingte Formatierung, Versionierung sowie **umfangreiche Kollaborationsfunktionen** inklusive Sharing, Echtzeit-Zusammenarbeit und Chat gibt es in beiden. Wer mit Google Sheets zurechtkommt, wird auch mit Zoho Sheet keine Mühe haben, Excel kostenlos zu ersetzen.
+
 Man tut Zoho Sheet aber Unrecht, wenn man ihm komplett die Individualität abspricht! Im Bereich Datenanalyse bietet es mit einem Solver und einer Zielwertfunktion mehr als das Google Pendant. Aufgrund seiner weniger marktdominierenden Rolle zeigt es sich auch erfreulich **integrativ**. In Zoho Sheet angelegte Tabellen können Sie in einem eigenen Online-Speicher – **Zoho Docs** für Privatpersonen, **Zoho WorkDrive** für Teams – oder in einem eingebundenen Account von Google Drive, OneDrive oder Dropbox abspeichern. Der Dateiexport ist in Dateien vom Typ .csv, .xlsx und .ods möglich.
 
 ![](Screenshot_Zoho_Sheet.jpg)
@@ -151,7 +151,6 @@ Auf den ersten Blick fällt bei Ethercalc die rudimentäre, etwas verstaubt auss
 
 ![Ethercalc ist anders als Excel kostenlos, kann aber bei den Funktionen nicht mithalten](Screenshot_Ethercalc.jpg)
 
-  
 Vom Funktionsumfang und Komfort ist Ethercalc den anderen Tabellenprogrammen nicht ebenbürtig. Dies ist zum einen auf die kleine Entwickler-Community zurückzuführen, zum anderen aber auch auf die generelle Zielsetzung des Projekts. Im Vordergrund steht bei Ethercalc nicht die Auswertung großer Datensätze, sondern die **Zusammenarbeit** und die **ortsungebundene Datenerfassung** im Browser.
 
 Für die Web-Tabelle benötigt man kein installiertes Programm, sondern kann von unterwegs per Handy oder Tablet Anpassungen machen und dank **Echtzeitunterstützung** sind in Ethercalc alle Änderungen sofort für alle anderen Nutzer sichtbar. Für die Auswertung der erfassten Daten steht dann eine Exportfunktion zur Verfügung, die den einfachen Transfer in XLSX, ODS, CSV und HTML ermöglicht.
@@ -180,16 +179,15 @@ Natürlich verfügt SeaTable auch über die klassischen Funktionen einer Tabelle
 
 ![](Screenshot_SeaTable_Statistics.jpg)
 
-  
-SeaTables [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) bieten erweiterte Visualisierungsoptionen für nicht-numerische Datentypen: Im Karten-Plugin lassen sich Adress- und Geopositionsdaten auf einer Karte darstellen und das Galerie-Plugin zeigt die in einer Tabelle abgelegten Bilddaten übersichtlich in Alben an. In einer Tabelle erfasste Termindaten lassen sich im Kalender- oder im Timeline-Plugin anzeigen und das Kanban-Plugin stellt Workflows mit verschiedenen Phasen dar, wie man es sonst nur aus [Projektmanagement](https://seatable.com/projektmanagement-tools/)\-Anwendungen kennt.
+SeaTables [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) bieten erweiterte Visualisierungsoptionen für nicht-numerische Datentypen: Im Karten-Plugin lassen sich Adress- und Geopositionsdaten auf einer Karte darstellen und das Galerie-Plugin zeigt die in einer Tabelle abgelegten Bilddaten übersichtlich in Alben an. In einer Tabelle erfasste Termindaten lassen sich im Kalender- oder im Timeline-Plugin anzeigen und das Kanban-Plugin stellt Workflows mit verschiedenen Phasen dar, wie man es sonst nur aus [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}})\-Anwendungen kennt.
 
 Zudem können Sie mit SeaTable ohne Programmierkenntnisse eigene Apps erstellen. Eine App besteht aus Seiten, die Sie im integrierten [No-Code-App-Builder](https://seatable.io/docs/apps/universelle-app/) mithilfe verschiedener Seitentypen zusammenstellen können. Eine App greift dabei auf die Daten in SeaTable zu und stellt diese für die Benutzer optimal dar. Der Vorteil: Über das App-Design lässt sich präzise steuern, welche Daten ein Benutzer sieht, wie die Daten visualisiert werden und wie er mit den Daten interagieren kann. Dadurch lassen sich Workflows akkurat abbilden.
 
 ### In der Cloud oder auf eigenen Servern
 
-Als flexible Allzweckwaffe macht SeaTable auch beim Thema **Betriebsart** keine Kompromisse. SeaTable lässt sich komfortabel in der [Cloud](https://seatable.com/cloud/) oder als [selbstgehostete Lösung](https://seatable.com/on-premises/) verwenden. Anders als die anderen webbasierten Excel Konkurrenten gibt es SeaTable also auch als Software für den eigenen Server. Auf diese Weise bietet sich SeaTable für all diejenigen an, die mit strikten Datenschutzanforderungen konfrontiert sind.
+Als flexible Allzweckwaffe macht SeaTable auch beim Thema **Betriebsart** keine Kompromisse. SeaTable lässt sich komfortabel in der [Cloud]({{< relref "pages/product/seatable-cloud" >}}) oder als [selbstgehostete Lösung]({{< relref "pages/product/seatable-server" >}}) verwenden. Anders als die anderen webbasierten Excel Konkurrenten gibt es SeaTable also auch als Software für den eigenen Server. Auf diese Weise bietet sich SeaTable für all diejenigen an, die mit strikten Datenschutzanforderungen konfrontiert sind.
 
-Das [Free Abonnement](https://seatable.com/preise/) ist dauerhaft kostenlos und für den privaten Gebrauch ausreichend. Die kostenpflichtigen Versionen Plus und Enterprise bieten erweiterte Funktionen für den Unternehmenseinsatz wie z. B. benutzerdefinierte Freigaben, Automationen und Customizing. Die [Dedicated Cloud](https://seatable.com/dedicated/) verfügt zudem über eine zentrale Benutzer-Authentifizierung und Objektspeicher-Unterstützung.
+Das [Free Abonnement](https://seatable.com/preise/) ist dauerhaft kostenlos und für den privaten Gebrauch ausreichend. Die kostenpflichtigen Versionen Plus und Enterprise bieten erweiterte Funktionen für den Unternehmenseinsatz wie z. B. benutzerdefinierte Freigaben, Automationen und Customizing. Die [Dedicated Cloud]({{< relref "pages/product/seatable-dedicated" >}}) verfügt zudem über eine zentrale Benutzer-Authentifizierung und Objektspeicher-Unterstützung.
 
 Einen ähnlichen Weg wie Google Sheets – für Entwickler angenehm konventionell – geht SeaTable bei den Erweiterungen. Per API und SDK lassen sich Erweiterungen wie Automatisierungen, Integrationen und Funktionsergänzungen mit überschaubarem Aufwand entwickeln. Angesichts des jungen Alters der Lösung wird es spannend sein zu sehen, welche Neuerungen in Zukunft dazukommen werden.
 

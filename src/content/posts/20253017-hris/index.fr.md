@@ -2,13 +2,13 @@
 title: "SIRH - de quoi il s'agit et comment votre entreprise peut en bénéficier"
 description: "Une gestion efficace du personnel est aujourd'hui pratiquement impossible sans un SIRH (système d'information des ressources humaines), du moins si votre entreprise a atteint une certaine taille. Dans cet article, nous examinons la différence entre un système d'information des ressources humaines (SIRH) et un système de gestion des ressources humaines (SGRH) et discutons de la manière de rendre votre gestion des ressources humaines plus efficace grâce à un logiciel comprenant une base de données RH.."
 date: 2025-03-17
-categories: 
-  - "Allgemein"
-tags: 
-  - "Personalverwaltung"
-  - "Toolings & Plugins"
-color: "#f5bdd6"
-url: "/fr/hris"
+categories:
+    - 'Allgemein'
+tags:
+    - 'Personalverwaltung'
+    - 'Toolings & Plugins'
+color: '#f5bdd6'
+url: '/fr/hris'
 ---
 
 ## Qu'est-ce qu'un SIRH ?
@@ -70,7 +70,7 @@ Les points suivants doivent être garantis à cet égard :
 - Traçabilité de la saisie des données et historique des modifications
 - Suppression des données expirées dans les délais impartis
 
-Auparavant, les logiciels SIRH étaient presque toujours utilisés [sur site](https://seatable.com/on-premises/), ce qui signifie qu'ils fonctionnaient sur place, sur la propre infrastructure technique de l'entreprise. Aujourd'hui, le logiciel de gestion RH se trouve souvent dans le [cloud](https://seatable.com/cloud/). Cela présente le grand avantage que vous et vos collaborateurs pouvez accéder à toutes les données à tout moment et de partout.
+Auparavant, les logiciels SIRH étaient presque toujours utilisés [sur site]({{< relref "pages/product/seatable-server" >}}), ce qui signifie qu'ils fonctionnaient sur place, sur la propre infrastructure technique de l'entreprise. Aujourd'hui, le logiciel de gestion RH se trouve souvent dans le [cloud]({{< relref "pages/product/seatable-cloud" >}}). Cela présente le grand avantage que vous et vos collaborateurs pouvez accéder à toutes les données à tout moment et de partout.
 
 Avec une base de données RH, vous et [vos collaborateurs êtes parfaitement connectés](Mitarbeiterverzeichnis2.jpg)
 
@@ -97,6 +97,7 @@ Réduction des coûts |||
 Grâce à des processus numériques et automatisés, vous et vos collaborateurs pouvez travailler plus rapidement, plus efficacement et surtout à moindre coût, car vous économisez un temps de travail précieux ainsi que des frais de papier et d'impression. Même si vous avez jusqu'à présent confié la comptabilité du personnel à un prestataire de services externe, un système d'information sur les ressources humaines peut vous aider à économiser de l'argent grâce à des processus internes. D'un autre côté, un SIRH engendre naturellement des coûts, qui se composent souvent de frais d'utilisation mensuels par membre de l'équipe. Mais en fin de compte, le rapport coûts/bénéfices devrait être positif.
 
 ---
+
 Une vue d'ensemble parfaite |||
 
 Un SIRH vous donne une vue d'ensemble fondée sur les données de vos collaborateurs. Dans les dossiers numériques du personnel, vous pouvez enregistrer de manière compacte tous les documents et informations. La plupart du temps, il existe un calendrier général, de sorte que vous et vos collaborateurs soyez toujours informés de toutes les absences, congés et arrêts maladie. C'est tout aussi important pour la planification du personnel. Dans un bon système de gestion RH, les analyses statistiques sont un jeu d'enfant. Répondez en un clin d'œil à des questions telles que : Quel était le taux d'absentéisme en octobre ? Combien d'embauches et de départs ont eu lieu au cours des deux dernières années ? Et quelles sont les prévisions de frais de personnel pour l'année à venir ?
