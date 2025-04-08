@@ -1,11 +1,11 @@
 ---
-title : "Modèle gratuit : pour tenir facilement un carnet de route numérique"
-description : "Un livre de bord peut être plus qu'une simple bureaucratie ennuyeuse - il vous offre la possibilité d'économiser de l'argent. Avec les bons outils numériques, vous maximisez vos avantages et évitez les erreurs coûteuses. Découvrez comment tenir intelligemment votre carnet de route et quelles solutions peuvent vous aider !"
-date : 2025-04-01
-url : "/fr/carnet-de-route"
-tags :
-categories :
-color : "#f34b4c"
+title: 'Modèle gratuit : pour tenir facilement un carnet de route numérique'
+description: "Un livre de bord peut être plus qu'une simple bureaucratie ennuyeuse - il vous offre la possibilité d'économiser de l'argent. Avec les bons outils numériques, vous maximisez vos avantages et évitez les erreurs coûteuses. Découvrez comment tenir intelligemment votre carnet de route et quelles solutions peuvent vous aider !"
+date: 2025-04-01
+url: '/fr/carnet-de-route'
+tags:
+categories:
+color: '#f34b4c'
 ---
 
 ## Voici comment votre carnet de route devient un avantage fiscal
@@ -22,7 +22,7 @@ Cet article montre ce à quoi vous devez absolument faire attention lorsque vous
 
 hh La règle du 1 pour cent est une **méthode d'imposition forfaitaire pour les voitures de société**, proposée par l'administration fiscale pour calculer facilement l'avantage en nature d'une voiture de fonction utilisée à des fins privées. Chaque mois, un pour cent du prix de revient national brut de votre véhicule est imposé au titre de l'avantage lié à l'utilisation privée. Cela s'applique indépendamment de la fréquence à laquelle vous utilisez effectivement la voiture à des fins privées ou professionnelles.
 
-La question de savoir s'il est plus intéressant d'utiliser un livre de bord ou la règle du 1% pour votre voiture de société dépend en grande partie du type d'utilisation par le conducteur**. Une règle générale utile est la suivante : si vous utilisez la voiture de société aussi bien à des fins privées que professionnelles, l'imposition forfaitaire est généralement le choix le plus avantageux et le plus simple.
+La question de savoir s'il est plus intéressant d'utiliser un livre de bord ou la règle du 1% pour votre voiture de société dépend en grande partie du type d'utilisation par le conducteur\*\*. Une règle générale utile est la suivante : si vous utilisez la voiture de société aussi bien à des fins privées que professionnelles, l'imposition forfaitaire est généralement le choix le plus avantageux et le plus simple.
 
 Si vous utilisez votre voiture de société principalement à des fins privées, la règle du 1% est avantageuse.
 
@@ -36,7 +36,7 @@ La situation est différente si vous utilisez la voiture **moins de la moitié d
 
 Si vous utilisez une voiture de société également à titre privé, il est important de **documenter consciencieusement chaque trajet** afin de pouvoir déclarer correctement l'avantage en nature. Une saisie en temps réel est à cet égard indispensable : l'idéal est de noter les détails directement après chaque trajet ou au plus tard à la fin de la journée. Vous éviterez ainsi les erreurs et les manipulations et garderez toujours une vue d'ensemble de vos trajets.
 
-![Un compteur de vitesse avec le kilométrage est montré, dont vous avez besoin si vous tenez un carnet de route](die-fahrenen-Kilometer-anzugeben.jpg "Pour chaque trajet, les kilomètres parcourus doivent être indiqués dans le carnet de route").
+![Un compteur de vitesse avec le kilométrage est montré, dont vous avez besoin si vous tenez un carnet de route](die-fahrenen-Kilometer-anzugeben.jpg 'Pour chaque trajet, les kilomètres parcourus doivent être indiqués dans le carnet de route').
 
 Un livre de bord conforme aux exigences de la GoBD (principes de comptabilité en bonne et due forme) exige, pour les **déplacements professionnels**, la documentation des informations suivantes :
 
@@ -83,11 +83,12 @@ Si vous souhaitez tenir un livre de bord, il existe désormais une multitude de 
 Vimcar est un logiciel de carnet de route numérique spécialement conçu pour les entreprises et les indépendants qui ont besoin d'une documentation complète et juridiquement sûre. Grâce à des fonctions conviviales telles que la **reconnaissance et la catégorisation automatiques des trajets** ainsi qu'une intégration sans faille dans les processus de travail existants, Vimcar facilite la gestion du livre de bord.
 
 **Confort d'utilisation** : Grand confort d'utilisation, application conviviale et facilité d'utilisation.
-* **Sécurité juridique** : Sûr sur le plan juridique et reconnu sur le plan fiscal
-* **Protection des données** : Les données sont cryptées et stockées dans le cloud.
-* **Coût** : frais courants grâce à un abonnement mensuel à partir de 13,90 € par mois/véhicule
-* **Fonction d'analyse** : Nombreuses fonctions d'analyse
-**Effort manuel** : Effort minimal, car saisie automatisée
+
+- **Sécurité juridique** : Sûr sur le plan juridique et reconnu sur le plan fiscal
+- **Protection des données** : Les données sont cryptées et stockées dans le cloud.
+- **Coût** : frais courants grâce à un abonnement mensuel à partir de 13,90 € par mois/véhicule
+- **Fonction d'analyse** : Nombreuses fonctions d'analyse
+  **Effort manuel** : Effort minimal, car saisie automatisée
 
 **Remarque** : Si vous utilisez déjà Lexware comme logiciel de comptabilité, vous pouvez utiliser le livre de route de Vimcar via Lexware, car les deux entreprises coopèrent.
 
@@ -97,18 +98,18 @@ Vimcar est un logiciel de carnet de route numérique spécialement conçu pour l
 
 Si vous établissez votre carnet de route à l'aide d'un modèle Excel, cette méthode est certes économique et flexible, **mais elle exige un travail manuel complet et comporte des incertitudes fiscales**. Alors que cette méthode peut parfaitement convenir à des fins internes, elle n'est généralement pas reconnue par les autorités. La raison en est l'absence d'un historique des modifications infalsifiable, qui empêche de manipuler les entrées ultérieurement. C'est un point important qui disqualifie souvent Excel en tant que carnet de route conforme aux exigences fiscales.
 
-* **Confort d'utilisation** : Flexible, mais sans interface préétablie
-* **Sécurité juridique** : Pas juridiquement sûr, car l'absence d'historique des modifications peut conduire à des manipulations.
-* **Protection des données** : Stockage local, respectueux de la protection des données, mais sans cryptage.
-* **Coût** : Pour les utilisateurs de Microsoft 365, sans frais supplémentaires, car Excel est déjà disponible.
-**Fonction d'analyse** : Flexible, mais l'analyse n'est possible qu'avec un effort personnel important.
-**Effort manuel** : Effort manuel très élevé, car entièrement géré manuellement
+- **Confort d'utilisation** : Flexible, mais sans interface préétablie
+- **Sécurité juridique** : Pas juridiquement sûr, car l'absence d'historique des modifications peut conduire à des manipulations.
+- **Protection des données** : Stockage local, respectueux de la protection des données, mais sans cryptage.
+- **Coût** : Pour les utilisateurs de Microsoft 365, sans frais supplémentaires, car Excel est déjà disponible.
+  **Fonction d'analyse** : Flexible, mais l'analyse n'est possible qu'avec un effort personnel important.
+  **Effort manuel** : Effort manuel très élevé, car entièrement géré manuellement
 
 ## Modèle gratuit : Tenir un journal de bord numérique et efficace avec SeaTable
 
 Si vous êtes à la recherche d'une application de livre de route qui soit gratuite et qui facilite votre travail quotidien, SeaTable est un excellent choix. SeaTable propose un **modèle de livre de bord personnalisable**(https://seatable.io/vorlage/gzggmm9nrqohu-ygi3fwrg/) qui vous permet d'enregistrer numériquement vos trajets et de les gérer facilement en ligne.
 
-SeaTable marque des points en matière de **protection des données** et vous offre le choix entre un hébergement [Cloud](/cloud/) et [On-Premises](/on-pimises/), ce qui vous permet de décider vous-même de l'endroit où vous souhaitez stocker vos données. Un autre avantage : grâce au **formulaire web** intégré, les entrées peuvent être saisies facilement et rapidement. Ce formulaire peut demander toutes les informations nécessaires, y compris une **signature numérique**, ce qui rend le processus particulièrement efficace et sûr.
+SeaTable marque des points en matière de **protection des données** et vous offre le choix entre un hébergement [Cloud]({{< relref "pages/product/seatable-cloud" >}}) et [On-Premises]({{< relref "pages/product/seatable-server" >}}), ce qui vous permet de décider vous-même de l'endroit où vous souhaitez stocker vos données. Un autre avantage : grâce au **formulaire web** intégré, les entrées peuvent être saisies facilement et rapidement. Ce formulaire peut demander toutes les informations nécessaires, y compris une **signature numérique**, ce qui rend le processus particulièrement efficace et sûr.
 
 Un point fort particulier est la possibilité de générer directement dans SeaTable un **code QR** que vous pouvez par exemple apposer dans le véhicule de service. Vous pouvez ainsi accéder facilement et à tout moment au formulaire web du carnet de route. De plus, SeaTable permet d'effectuer facilement des **analyses et des évaluations**, ce qui vous permet de suivre précisément l'utilisation de votre véhicule.
 
@@ -117,15 +118,16 @@ Un point fort particulier est la possibilité de générer directement dans SeaT
 Une fois le formulaire envoyé, les conducteurs n'ont plus accès à leurs entrées et ne peuvent donc pas effectuer de modifications ou de manipulations ultérieures. Certes, vous avez vous-même la possibilité de procéder à des adaptations directement dans le tableau, mais toutes les modifications sont consignées en détail et restent ainsi compréhensibles à tout moment.
 
 **Confort d'utilisation** : Flexible, avec un modèle préfabriqué, y compris un formulaire web.
-* **Sécurité juridique** : juridiquement sûr avec historique des modifications
-* **Protection des données** : Conforme au RGPD, cloud ou sur site, serveur situé en Allemagne.
-**Coût** : Version de base gratuite, plus de fonctions à partir de 7 € par mois/utilisateur.
-**Fonction d'analyse** : Analyse étendue avec peu d'effort
-**Effort manuel** : Effort modéré par la saisie manuelle dans le formulaire
+
+- **Sécurité juridique** : juridiquement sûr avec historique des modifications
+- **Protection des données** : Conforme au RGPD, cloud ou sur site, serveur situé en Allemagne.
+  **Coût** : Version de base gratuite, plus de fonctions à partir de 7 € par mois/utilisateur.
+  **Fonction d'analyse** : Analyse étendue avec peu d'effort
+  **Effort manuel** : Effort modéré par la saisie manuelle dans le formulaire
 
 **Note:** Avec SeaTable, vous pouvez non seulement tenir un journal de bord individuel, mais aussi gérer efficacement l'ensemble de votre [gestion de parc automobile](https://seatable.io/vorlage/qsxitf8ktcojsuivrormnq/).
 
-Si vous souhaitez utiliser le livre de bord numérique de SeaTable, [il vous suffit de vous inscrire](/registration/) et de commencer avec le modèle gratuit.
+Si vous souhaitez utiliser le livre de bord numérique de SeaTable, [il vous suffit de vous inscrire]({{< relref "pages/registration" >}}) et de commencer avec le modèle gratuit.
 
 ## Questions fréquentes
 
@@ -153,7 +155,7 @@ Que se passe-t-il si je perds mon carnet de route?|||
 
 Si vous perdez votre carnet de route, les conséquences dépendent de l'obligation ou non de le tenir :
 
-**Si le carnet de route est obligatoire:** La perte entraîne une amende de 100 euros. De plus, l'obligation de tenir un carnet de route peut être prolongée, car le carnet ne peut plus être présenté.  
+**Si le carnet de route est obligatoire:** La perte entraîne une amende de 100 euros. De plus, l'obligation de tenir un carnet de route peut être prolongée, car le carnet ne peut plus être présenté.
 
 **En cas de carnet de route volontaire pour le fisc** : Dans ce cas, la règle du 1% s'applique, ce qui entraîne souvent des frais plus élevés, car l'utilisation privée est imposée de manière forfaitaire.
 
@@ -167,9 +169,9 @@ Plus la part de trajets privés est faible, plus il est intéressant d'utiliser 
 
 Quels sont les avantages d'un carnet de route ?|||
 
-En résumé, un carnet de route pour les voitures de fonction présente surtout des avantages lorsque l'utilisation privée du véhicule est faible et que l'effort que représente un carnet de route semble justifié.  
+En résumé, un carnet de route pour les voitures de fonction présente surtout des avantages lorsque l'utilisation privée du véhicule est faible et que l'effort que représente un carnet de route semble justifié.
 
-Les alternatives numériques rendent le carnet de bord accessible en ligne et en simplifient considérablement la gestion, ce qui les rend particulièrement attrayantes pour les entreprises et les indépendants qui privilégient la précision et l'efficacité.  
+Les alternatives numériques rendent le carnet de bord accessible en ligne et en simplifient considérablement la gestion, ce qui les rend particulièrement attrayantes pour les entreprises et les indépendants qui privilégient la précision et l'efficacité.
 
 La possibilité de documenter les trajets de manière détaillée et juridiquement sûre vous permet de tirer le meilleur parti des avantages fiscaux tout en conservant une vision claire de l'utilisation de votre véhicule.
 

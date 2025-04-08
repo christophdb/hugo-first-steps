@@ -125,7 +125,7 @@ The tools presented may seem quite similar at first glance, but they differ grea
 
 Compare thoroughly and choose the right tool for your needs. If you are looking for agile project management software that promises maximum flexibility and cost efficiency, SeaTable is probably the best choice. Try it out and register for free with your e-mail address today.
 
-{{< button label="Register now for free and get started with agile" link="/registration" >}}
+{{< button label="Register now for free and get started with agile" link="pages/registration" >}}
 
 Register for our newsletter and stay up to date on all things project management!
 
