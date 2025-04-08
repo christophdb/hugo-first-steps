@@ -3,10 +3,10 @@ title: "How to create and implement a professional marketing plan"
 description: "Marketing teams are rarely short of creative ideas. This makes it all the more important to have a carefully developed marketing plan in order to plan and implement your campaigns in a targeted manner. In 6 steps, we show you what is important and how you can easily implement it - with a digital template."
 date: 2025-03-18
 categories: 
-  - "Allgemein"
+  - "General"
   - "Best Practice"
 tags: 
-  - "marketingplanung"
+  - "marketing planning"
 color: "#509dfd"
 url: "/marketingplan"
 ---

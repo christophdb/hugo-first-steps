@@ -9,6 +9,8 @@ color: "#c4d69f"
 url: "/de/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten"
 ---
 
+## Ein Pflanzplan für gelungene Beete
+
 Wer sich im Frühjahr an die Planung der Beete macht, kann schnell überfordert sein. Zwischen Pflanzplan, Fruchtfolge und Mischkultur den Überblick zu behalten, ist gar nicht so einfach. Welche Pflanzen passen zusammen? Was sollten Sie nach Tomaten, Kartoffeln oder Bohnen anbauen? Und wie verhindern Sie, dass der Boden mit der Zeit auslaugt?
 
 Ob ein Pflanzplan für Hochbeet, Gemüse- oder Staudenbeet – eine kluge Planung hat viele Vorteile. In diesem Artikel erfahren Sie, wie Sie eine durchdachte Fruchtfolge umsetzen, welche Kombinationen sich bewährt haben und wie digitale Helfer wie SeaTable Ihnen die Organisation erleichtern.

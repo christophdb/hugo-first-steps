@@ -5,8 +5,8 @@ date: 2025-03-18
 categories: 
   - "Customer Story"
 tags: 
-  - "Marketingplanung"
-  - "Toolings  & Plugins"
+  - "Marketing Planning"
+  - "Toolings & Plugins"
 color: "#dc4d51"
 url: "/customer-story-red-dot"
 ---

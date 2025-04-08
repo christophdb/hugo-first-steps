@@ -6,8 +6,8 @@ categories:
   - "General"
   - "Best Practice"
 tags: 
-  - "IT Prozesse"
-  - "Kollaboratives Arbeiten"
+  - "IT processes"
+  - "Collaborative working"
   - "Toolings & Plugins"
 color: "#79b9e9"
 url: "/software-testing"
