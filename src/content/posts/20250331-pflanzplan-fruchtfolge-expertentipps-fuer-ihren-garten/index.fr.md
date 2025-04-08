@@ -1,5 +1,5 @@
 ---
-title: "Plan de plantation et rotation des cultures : des conseils d'experts pour votre jardin".
+title: "Plan de plantation et rotation des cultures : des conseils d'experts pour votre jardin"
 description : "Un jardin réussi commence par une planification bien pensée. Avec une bonne rotation des cultures, le sol reste fertile, les parasites ont la vie dure et la récolte est plus abondante. Cet article montre comment établir un plan de plantation pour les légumes, les plates-bandes surélevées et les massifs de vivaces."
 date: 2025-03-31
 categories: 
