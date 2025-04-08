@@ -3,7 +3,7 @@ title: 'Protection de données'
 description: ''
 date: 2022-05-13
 type: 'legal'
-url: '/protection-de-donnees'
+url: '/fr/protection-de-donnees'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

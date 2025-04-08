@@ -4,7 +4,7 @@
 # 
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
-#   pageRef = The identifier (translationkey) of the page or section to link to
+#   pageRef = The identifier (relative path below content folder) of the page or section to link to
 #
 # By default the menu is ordered alphabetically. This can be
 # overridden by providing a weight value. The menu will then be
