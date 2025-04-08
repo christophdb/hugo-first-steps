@@ -1,14 +1,14 @@
 ---
-title: "Cloud computing: How to scale your IT cost-effectively"
-description: "The digitalization of the working world is progressing rapidly and cloud computing plays a central role in this. But what exactly does cloud computing mean and how can it help your company? In this article, you will learn everything you need to know about cloud technology."
-categories: 
-  - "General info"
-tags: 
-- "Digital Transformation" 
-- "IT Security & Data Privacy"
+title: 'Cloud computing: How to scale your IT cost-effectively'
+description: 'The digitalization of the working world is progressing rapidly and cloud computing plays a central role in this. But what exactly does cloud computing mean and how can it help your company? In this article, you will learn everything you need to know about cloud technology.'
+categories:
+    - 'General info'
+tags:
+    - 'Digital Transformation'
+    - 'IT Security & Data Privacy'
 date: 2025-04-01
-color: "#c5a6e9"
-url: "/cloud-computing"
+color: '#c5a6e9'
+url: '/cloud-computing'
 ---
 
 ## What is cloud computing?
@@ -38,16 +38,24 @@ Now that we have explained cloud computing in simple terms, let's take a look at
 
 Cost efficiency and convenience|||
 When you use cloud services, you save on high investments in your own servers and only pay for the resources you actually use (pay-as-you-go principle). As you hardly have to worry about local infrastructure, your IT staff have more time for more important issues.
+
 ---
+
 Rapid provision|||
 With cloud computing, you can activate the necessary components in just a few minutes instead of having to wait weeks for ordered hardware, configure your system and install software.
+
 ---
+
 Independence from locations and devices|||
 Your employees can access their data and applications in the cloud at any time and from anywhere. This means that there is no loss of data due to local storage if an end device is broken or lost.
+
 ---
+
 Up-to-dateness and productivity|||
 In a cloud, all users see the current version of their stored data and documents. Changes are synchronized in real time, which significantly improves collaboration.
+
 ---
+
 Elasticity and scalability|||
 Flexibly adapt your cloud infrastructure to your needs and data volumes at any time. Cloud computing allows your company to grow without your IT infrastructure becoming a bottleneck.
 
@@ -76,7 +84,7 @@ Below we present three widely used cloud computing services: **IaaS** (Infrastru
 
 ### What is SaaS?
 
-SaaS (Software as a Service) refers to **cloud-based software applications** such as CRM systems or [project management tools](/projectmanagement-tools). SaaS in cloud computing means that you can use the desired software in the cloud at any time and from anywhere, for example via a web browser, without having to install it locally on a device. The SaaS provider hosts the software on a remote server, but also takes care of backups, updates and maintenance work.
+SaaS (Software as a Service) refers to **cloud-based software applications** such as CRM systems or [project management tools]({{ relref "pages/industry-solutions/project-management" }}). SaaS in cloud computing means that you can use the desired software in the cloud at any time and from anywhere, for example via a web browser, without having to install it locally on a device. The SaaS provider hosts the software on a remote server, but also takes care of backups, updates and maintenance work.
 
 ### What is PaaS?
 
@@ -86,14 +94,13 @@ Platform as a Service (PaaS) is a **cloud-based platform for application develop
 
 Infrastructure as a Service (IaaS) means that you rent your desired **IT infrastructure**, for example servers, networks, databases and operating systems, **in an external data center and access it via the cloud**. Billing is based on usage via the cloud computing provider. This eliminates the need for high investments in your own infrastructure.
 
-| | **IaaS** | **PaaS** | **SaaS** |
-| --- | --- | --- | --- |
-| **Type of service** | Infrastructure | Development platform | Software |
-| **Target group** | System administrators | Software developers | Users |
-| **Examples** | Servers, networks, databases | App development, DevOps | CRM systems, project management tools, HR software |
+|                     | **IaaS**                     | **PaaS**                | **SaaS**                                           |
+| ------------------- | ---------------------------- | ----------------------- | -------------------------------------------------- |
+| **Type of service** | Infrastructure               | Development platform    | Software                                           |
+| **Target group**    | System administrators        | Software developers     | Users                                              |
+| **Examples**        | Servers, networks, databases | App development, DevOps | CRM systems, project management tools, HR software |
 
-
-![For a private cloud, you need your own infrastructure](Fuer-eine-Private-Cloud-benoetigen-Sie-eigene-Infrastruktur.jpg "For a private cloud, you need your own infrastructure.")
+![For a private cloud, you need your own infrastructure](Fuer-eine-Private-Cloud-benoetigen-Sie-eigene-Infrastruktur.jpg 'For a private cloud, you need your own infrastructure.')
 
 ## What cloud computing models are there?
 
@@ -105,13 +112,13 @@ There are various cloud computing models, which differ according to the **type o
 
 The main difference between these cloud computing models is the extent to which you want to **provide the IT resources your company needs** yourself. The more infrastructure you own, the more data sovereignty and control you have, but the higher your effort and costs.
 
-| | **Public Cloud** | **Hybrid Cloud** | **Private Cloud** |
-| --- | --- | --- | --- |
-| **Accessibility** | publicly shared IT resources | partly own, partly public IT resources | own, private IT resources |
-| **Scalability** | very fast and flexible | flexible | can only be expanded with a delay |
-| **Data Sovereignty** | high dependency on the cloud provider | medium dependency on the cloud provider | complete independence and data sovereignty |
-| **Expense and costs** | low, no own infrastructure required, pay-as-you-go principle | moderate, own basic infrastructure, additional resources can be booked if required | high costs for own servers, infrastructure, electricity and IT staff |
-**Examples of target groups and industries** | Start-ups, expanding companies, industries with high seasonal fluctuations | Companies that keep sensitive data private but still want to be flexible | Public authorities, banks, research institutions, companies that work with highly sensitive data |
+|                                              | **Public Cloud**                                                           | **Hybrid Cloud**                                                                   | **Private Cloud**                                                                                |
+| -------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Accessibility**                            | publicly shared IT resources                                               | partly own, partly public IT resources                                             | own, private IT resources                                                                        |
+| **Scalability**                              | very fast and flexible                                                     | flexible                                                                           | can only be expanded with a delay                                                                |
+| **Data Sovereignty**                         | high dependency on the cloud provider                                      | medium dependency on the cloud provider                                            | complete independence and data sovereignty                                                       |
+| **Expense and costs**                        | low, no own infrastructure required, pay-as-you-go principle               | moderate, own basic infrastructure, additional resources can be booked if required | high costs for own servers, infrastructure, electricity and IT staff                             |
+| **Examples of target groups and industries** | Start-ups, expanding companies, industries with high seasonal fluctuations | Companies that keep sensitive data private but still want to be flexible           | Public authorities, banks, research institutions, companies that work with highly sensitive data |
 
 ## Aspects of cloud security
 
@@ -136,13 +143,13 @@ Before you switch from local servers to the cloud, you should develop a well tho
 
 A little-known but very inexpensive cloud service is the [no-code database SeaTable](https://seatable.com/), in which you can store your data **DSGVO-compliant** and under the highest security precautions **in German data centers**. Choose between
 
-- [SeaTable Cloud](/cloud/) as a public cloud
-- [SeaTable Server](/on-premises/) for your private cloud
-- [SeaTable Dedicated](/dedicated/) as a hybrid cloud
+- [SeaTable Cloud]({{ relref "pages/product/seatable-cloud" }}) as a public cloud
+- [SeaTable Server]({{ relref "pages/product/seatable-server" }}) for your private cloud
+- [SeaTable Dedicated]({{ relref "pages/product/seatable-dedicated" }}) as a hybrid cloud
 
 In addition to the **database infrastructure**, SeaTable offers an **intuitive development platform** on which you can design specific **software solutions** for your company and make them available for use, even without programming knowledge. In this way, the cloud service cleverly combines IaaS (Infrastructure as a Service), PaaS (Platform as a Service) and SaaS (Software as a Service).
 
-[Simply register](/registration/) with your e-mail address, start for free and scale up as required as soon as you want to use more storage space, user accounts or functions.
+[Simply register]({{ relref "pages/registration" }}) with your e-mail address, start for free and scale up as required as soon as you want to use more storage space, user accounts or functions.
 
 ## Conclusion: Cloud computing is the future
 
@@ -156,10 +163,14 @@ Cloud computing offers you a cost-effective, convenient and secure way to scale 
 
 What is the cloud?|||
 The cloud is a **symbol for an extensive network of remote servers** that are distributed and connected all over the world. The best-known example of a cloud is the Internet.
+
 ---
+
 What is cloud computing?|||
 Cloud computing (simply explained) refers to the **provision of IT resources via the internet**. Instead of storing programs and data locally on your computer or your own servers, you use the **data centers of cloud providers**. These provide you with as much storage space, computing power or software as you want on demand.
+
 ---
+
 What types of cloud computing are there?|||
 The types of cloud computing are divided into cloud computing services and cloud computing models: The most commonly used cloud services are **IaaS** (Infrastructure as a Service), **PaaS** (Platform as a Service) and **SaaS** (Software as a Service). A distinction is usually made between **Public Cloud**, **Private Cloud** and **Hybrid Cloud** models.
 
