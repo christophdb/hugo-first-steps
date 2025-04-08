@@ -16,6 +16,7 @@ sections:
     - label: Conhecer as funções
       # TODO
       link: "index.md"
+  image: "/images/projektmanagement-mit-seatable.gif"
 
 - name: content-4
   weight: 2

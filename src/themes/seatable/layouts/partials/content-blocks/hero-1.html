@@ -31,6 +31,8 @@
             </div>
         </div>
 
-        <img src="/images/projektmanagement-mit-seatable.gif" class="mt-24 rounded-md shadow-lg" />
+        {{ if .image }}
+            <img src="{{ .image }}" class="mt-24 rounded-md shadow-lg" />
+        {{ end }}
     </section>
 </section>

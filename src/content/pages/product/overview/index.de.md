@@ -1,0 +1,159 @@
+---
+title: 'SeaTable Produkte'
+date: '2025-03-30'
+url: '/de/produkte'
+
+sections:
+    - name: hero-2
+      weight: 1
+      classes:
+          - bg-[#ece5e2]
+      title: 'Finden Sie die passende SeaTable No-Code-Lösung für Ihr Unternehmen'
+      subtitle: 'SeaTable Produkte'
+      text: 'SeaTable hat die passende Lösung für Sie. Entdecken Sie die drei verschiedenen SeaTable-Produktangebote, vergleichen Sie ihre Vorteile und finden Sie die beste Option für Ihre Bedürfnisse.'
+
+    - name: content-4
+      title: 'Die Flexible Lösung für Ihre Geschäftsanforderungen'
+      subtitle: 'Sie haben die Wahl'
+      text: 'SeaTable bietet flexible Lösungen, die perfekt auf Ihre Geschäftsanforderungen zugeschnitten sind. Ob Sie eine sofort einsatzbereite Cloud-Lösung, eine dedizierte und individualisierte Umgebung oder eine vollständige Kontrolle über Ihre Daten auf einem eigenen Server benötigen.'
+      weight: 2
+      items:
+          - headline: SeaTable Cloud
+            text: ''
+          - headline: SeaTable Dedicated
+            text: ''
+          - headline: SeaTable Server
+            text: ''
+
+    - name: content-1
+      weight: 3
+      title: 'Die sofort einsatzbereite Lösung'
+      subtitle: 'SeaTable Cloud'
+      description: Die SeaTable Cloud ist ideal für Unternehmen und Teams, die schnell starten möchten, ohne sich um die Wartung oder IT-Infrastruktur kümmern zu müssen. Sie bietet direkten Zugang zu allen SeaTable-Funktionen über die Cloud.
+      classes:
+          - bg-gray-100
+          - curved
+      items:
+          - headline: Sofort einsatzbereit
+            text: Startklar ohne jede Installation. Wartung inklusive. Wir übernehmen den Betrieb für Sie. Sofort und jederzeit einsetzbar.
+          - headline: Flexibel und Skalierbar
+            text: Flexibel und skalierbar für wachsende Anforderungen. Von überall erreichbar. Passt sich Ihren Anforderungen an.
+          - headline: Überschaubare Kosten
+            text: Registrierung kostenlos. Einfache monatliche Kosten.
+      image: '/images/Produktuebersicht-SeaTable-Cloud.png'
+      button:
+          label: Mehr zu SeaTable Cloud
+          link: 'pages/product/seatable-cloud'
+
+    - name: content-12
+      weight: 4
+      title: 'Ihre individuelle Instanz in der Cloud'
+      subtitle: 'SeaTable Dedicated'
+      description: Mit SeaTable Dedicated erhalten Sie eine dedizierte Instanz in der Cloud, die individuell auf Ihre Bedürfnisse zugeschnitten ist. Diese Option bietet Ihnen volle Kontrolle und erhöhte Sicherheit bei gleichzeitiger Nutzung der Cloud-Vorteile.
+      classes:
+          - bg-white
+          - curved
+      items:
+          - text: Eine exklusive Instanz nur für Ihr Unternehmen
+          - text: Flexible Konfiguration nach Ihren Anforderungen
+          - text: Erreichbar über eine Domain Ihrer Wahl
+          - text: Garantierte Leistung und Verfügbarkeit
+          - text: Immer die aktuellste SeaTable Version
+          - text: Support inklusive
+      image: '/images/Produktuebersicht-SeaTable-Dedicated.png'
+      button:
+          label: Mehr zu SeaTable Dedicated
+          link: 'pages/product/seatable-dedicated'
+
+    - name: content-12
+      weight: 5
+      classes:
+          - bg-gray-100
+          - curved
+      title: 'Volle Kontrolle auf Ihrem eigenen Server'
+      subtitle: 'SeaTable On-Premises'
+      description: Mit SeaTable Dedicated erhalten Sie eine dedizierte Instanz in der Cloud, die individuell auf Ihre Bedürfnisse zugeschnitten ist. Diese Option bietet Ihnen volle Kontrolle und erhöhte Sicherheit bei gleichzeitiger Nutzung der Cloud-Vorteile.
+      items:
+          - text: Eine exklusive Instanz nur für Ihr Unternehmen
+          - text: Flexible Konfiguration nach Ihren Anforderungen
+          - text: Erreichbar über eine Domain Ihrer Wahl
+          - text: Garantierte Leistung und Verfügbarkeit
+          - text: Immer die aktuellste SeaTable Version
+          - text: Support inklusive
+      image: '/images/Produktuebersicht-SeaTable-On-Premises.png'
+      image_position: 'left'
+      button:
+          label: Mehr zu SeaTable Dedicated
+          link: 'pages/product/seatable-dedicated'
+
+    - name: pricetable-2
+      weight: 6
+
+    - name: banner-4
+      weight: 7
+      title: Faire Preisgestaltung für Forschung, Bildung und gemeinnützige Organisationen
+      subtitle: 'Rabatte für den öffentlichen Sektor'
+      text: SeaTable bietet eine faire und transparente Preisgestaltung für **Bildungseinrichtungen**, **Forschungseinrichtungen**, **öffentliche Institutionen** und **gemeinnützige Vereine** Zugang zu modernster Technologie haben, ohne ihr Budget zu überlasten. Profitieren Sie von leistungsstarken No-Code-Lösungen zu ermäßigten Preisen.
+      button:
+          label: Kontaktieren Sie uns
+          link: 'pages/contact'
+          style: primary
+
+    - name: 'content-10'
+      weight: 10
+      title: 'Individuelle Workflows und Automationen mit SeaTable'
+      subtitle: 'Integration leicht gemacht'
+      description: 'Mit SeaTable können Sie nicht nur individuelle Workflows erstellen, sondern auch Ihre bestehenden Systeme einfach integrieren und Automationen aufsetzen. Dank der Integration mit Tools wie n8n, Make und Zapier sowie der Möglichkeit, eigene Systeme über die API anzubinden, gestalten Sie Ihre Prozesse schnell und effizient.'
+      items:
+          - image: '/images/logos/zapier.svg'
+          - image: '/images/logos/make.svg'
+          - image: '/images/logos/n8n.svg'
+          - image: '/images/logos/seatable-api.svg'
+      button:
+      label: 'Mehr über Integrationen erfahren'
+      link: '#'
+
+    - name: 'content-9'
+      weight: 11
+      title: SeaTable im Vergleich zu Wettbewerbern
+      subtitle: Vorteile
+      description: Im Vergleich zu anderen Lösungen auf dem Markt bietet SeaTable entscheidende Vorteile in Bezug auf Flexibilität, Sicherheit und Preisgestaltung. Egal, ob Sie mit **Airtable**, **Asana** oder **Google Sheets** vergleichen – SeaTable bietet einzigartige Alleinstellungsmerkmale.
+      items:
+          - headline: 'Flexibilität'
+            text: 'SeaTable ist sowohl in der Cloud als auch On-Premises verfügbar, was maximale Kontrolle und Anpassungsfähigkeit für verschiedene Anwendungsfälle garantiert.'
+            icon: toggle-off
+          - headline: Effiziente Geschäftsprozesse
+            text: Unsere No-Code-Plattform hilft Ihnen, Zeit und Ressourcen zu sparen, indem Sie sich auf das Wesentliche konzentrieren können. Mit SeaTable steigern Sie die Effizienz Ihres Unternehmens und begegnen den Herausforderungen kontinuierlicher Innovation.
+            icon: medal
+          - headline: Skalierbarkeit
+            text: SeaTable ist ideal sowohl für kleine Teams als auch für große Unternehmen. Unsere Plattform wächst mit Ihren Anforderungen und bietet eine Lösung, die mit Ihrem Unternehmen skaliert.
+            icon: up-right-and-down-left-from-center
+          - headline: Integrationsfähigkeit
+            text: Nutzen Sie unsere APIs und SDKs für eine einfache Integration. SeaTable lässt sich nahtlos in eine Vielzahl von Drittanbieter-Tools integrieren, sodass Sie Ihre bestehenden Systeme und Prozesse weiterhin nutzen können.
+            icon: leaf
+          - headline: Benutzerfreundlichkeit
+            text: Dank der intuitiven Oberfläche und dem WYSIWYG-App-Builder können Sie Anwendungen ohne Programmierkenntnisse erstellen. SeaTable macht es einfach, komplexe Datenbanken und Apps zu erstellen, die genau auf Ihre Bedürfnisse zugeschnitten sind.
+            icon: signature
+          - headline: DSGVO-Konformität
+            text: SeaTable bietet robuste Sicherheitsfunktionen und sorgt dafür, dass Ihre Daten sicher und konform mit den neuesten Datenschutzrichtlinien gespeichert werden. Unsere No-Code-Plattform garantiert, dass Ihre Daten gemäß den Anforderungen der DSGVO geschützt sind.
+            icon: shield-halved
+
+    - name: content-99
+      weight: 12
+
+    - name: content-100
+      weight: 13
+
+    - name: content-22
+      weight: 40
+      title: Starten Sie jetzt mit SeaTable
+      subtitle: Wählen Sie die passende Lösung
+      text: 'Entscheiden Sie sich für die Lösung, die Ihren Anforderungen am besten entspricht. Ob Cloud, Dedicated oder On-Premises – SeaTable bietet Ihnen die Flexibilität, Sicherheit und Leistung, die Sie für Ihr Unternehmen benötigen.'
+      buttons:
+          - label: Jetzt registrieren
+            link: 'pages/registration'
+            style: primary
+          - label: Vertrieb kontaktieren
+            link: 'pages/contact'
+            style: secondary
+---

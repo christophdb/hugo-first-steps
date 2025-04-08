@@ -1,3 +1,6 @@
-<div class="relative mb-8 mt-6">
-    <a class="bg-gradient font-xl rounded-xl px-5 py-3 font-poppins font-bold !text-white" href="{{ .Get "link" | absURL }}">{{ .Get "label" }}</a>
-</div>
+{{ $label := .Get "label" }}
+{{ with .Site.GetPage (.Get "link") }}
+    <div class="relative mb-8 mt-6">
+        <a class="bg-gradient font-xl rounded-xl px-5 py-3 font-poppins font-bold !text-white" href="{{ .Permalink }}">{{ $label }}</a>
+    </div>
+{{ end }}

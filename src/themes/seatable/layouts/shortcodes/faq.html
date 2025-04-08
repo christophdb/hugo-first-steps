@@ -1,5 +1,5 @@
 {{ $faqItems := split .Inner "---" }}
-<div class="mx-auto mt-4 grid max-w-[900px] grid-cols-1">
+<div class="mx-auto mb-6 mt-4 grid max-w-[900px] grid-cols-1">
     {{ range $index, $item := $faqItems }}
         {{ $parts := split $item "|||" }}
         {{ if ge (len $parts) 2 }}

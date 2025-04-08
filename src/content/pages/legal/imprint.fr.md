@@ -3,7 +3,7 @@ title: 'Imprint'
 description: ''
 date: 2025-03-24
 type: 'legal'
-url: '/imprint'
+url: '/fr/imprint'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

@@ -16,6 +16,7 @@ sections:
     - label: Познакомьтесь с функциями
       # TODO
       link: "index.md"
+  image: "/images/projektmanagement-mit-seatable.gif"
 
 - name: content-4
   weight: 2
