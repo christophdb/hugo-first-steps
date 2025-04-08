@@ -84,7 +84,7 @@ Below we present three widely used cloud computing services: **IaaS** (Infrastru
 
 ### What is SaaS?
 
-SaaS (Software as a Service) refers to **cloud-based software applications** such as CRM systems or [project management tools]({{ relref "pages/industry-solutions/project-management" }}). SaaS in cloud computing means that you can use the desired software in the cloud at any time and from anywhere, for example via a web browser, without having to install it locally on a device. The SaaS provider hosts the software on a remote server, but also takes care of backups, updates and maintenance work.
+SaaS (Software as a Service) refers to **cloud-based software applications** such as CRM systems or [project management tools]({{< relref "pages/industry-solutions/project-management" >}}). SaaS in cloud computing means that you can use the desired software in the cloud at any time and from anywhere, for example via a web browser, without having to install it locally on a device. The SaaS provider hosts the software on a remote server, but also takes care of backups, updates and maintenance work.
 
 ### What is PaaS?
 
@@ -143,13 +143,13 @@ Before you switch from local servers to the cloud, you should develop a well tho
 
 A little-known but very inexpensive cloud service is the [no-code database SeaTable](https://seatable.com/), in which you can store your data **DSGVO-compliant** and under the highest security precautions **in German data centers**. Choose between
 
-- [SeaTable Cloud]({{ relref "pages/product/seatable-cloud" }}) as a public cloud
-- [SeaTable Server]({{ relref "pages/product/seatable-server" }}) for your private cloud
-- [SeaTable Dedicated]({{ relref "pages/product/seatable-dedicated" }}) as a hybrid cloud
+- [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) as a public cloud
+- [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) for your private cloud
+- [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) as a hybrid cloud
 
 In addition to the **database infrastructure**, SeaTable offers an **intuitive development platform** on which you can design specific **software solutions** for your company and make them available for use, even without programming knowledge. In this way, the cloud service cleverly combines IaaS (Infrastructure as a Service), PaaS (Platform as a Service) and SaaS (Software as a Service).
 
-[Simply register]({{ relref "pages/registration" }}) with your e-mail address, start for free and scale up as required as soon as you want to use more storage space, user accounts or functions.
+[Simply register]({{< relref "pages/registration" >}}) with your e-mail address, start for free and scale up as required as soon as you want to use more storage space, user accounts or functions.
 
 ## Conclusion: Cloud computing is the future
 

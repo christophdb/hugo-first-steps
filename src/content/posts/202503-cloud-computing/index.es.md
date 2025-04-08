@@ -84,7 +84,7 @@ A continuación presentamos tres servicios de computación en nube muy utilizado
 
 ### ¿Qué es SaaS?
 
-SaaS (Software as a Service) se refiere a **aplicaciones de software basadas en la nube**, como sistemas CRM o [herramientas de gestión de proyectos]({{ relref "pages/industry-solutions/project-management" }}). SaaS en la computación en nube significa que puede utilizar el software deseado en la nube en cualquier momento y desde cualquier lugar, por ejemplo a través de un navegador web, sin tener que instalarlo localmente en un dispositivo. El proveedor de SaaS aloja el software en un servidor remoto, pero también se encarga de las copias de seguridad, las actualizaciones y las tareas de mantenimiento.
+SaaS (Software as a Service) se refiere a **aplicaciones de software basadas en la nube**, como sistemas CRM o [herramientas de gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}). SaaS en la computación en nube significa que puede utilizar el software deseado en la nube en cualquier momento y desde cualquier lugar, por ejemplo a través de un navegador web, sin tener que instalarlo localmente en un dispositivo. El proveedor de SaaS aloja el software en un servidor remoto, pero también se encarga de las copias de seguridad, las actualizaciones y las tareas de mantenimiento.
 
 ### ¿Qué es PaaS?
 
@@ -144,13 +144,13 @@ Antes de pasar de los servidores locales a la nube, debe desarrollar una estrate
 
 Un servicio en la nube poco conocido pero muy económico es la [base de datos sin código SeaTable](https://seatable.com/es), en la que puede almacenar sus datos **conforme a la DSGVO** y bajo las máximas precauciones de seguridad **en centros de datos alemanes**. Elija entre
 
-- [SeaTable Cloud]({{ relref "pages/product/seatable-cloud" }}) como nube pública
-- [SeaTable Server]({{ relref "pages/product/seatable-server" }}) para su nube privada
-- [SeaTable Dedicated]({{ relref "pages/product/seatable-dedicated" }}) como nube híbrida
+- [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) como nube pública
+- [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) para su nube privada
+- [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) como nube híbrida
 
 Además de la **infraestructura de base de datos**, SeaTable ofrece una **plataforma de desarrollo intuitiva** en la que podrá diseñar **soluciones de software** específicas para su empresa y ponerlas a disposición para su uso, incluso sin conocimientos de programación. De este modo, el servicio en la nube combina inteligentemente IaaS (Infrastructure as a Service), PaaS (Platform as a Service) y SaaS (Software as a Service).
 
-[Sólo tienes que registrarte]({{ relref "pages/registration" }}) con tu dirección de correo electrónico, empezar gratis y ampliar según tus necesidades en cuanto quieras utilizar más espacio de almacenamiento, cuentas de usuario o funciones.
+[Sólo tienes que registrarte]({{< relref "pages/registration" >}}) con tu dirección de correo electrónico, empezar gratis y ampliar según tus necesidades en cuanto quieras utilizar más espacio de almacenamiento, cuentas de usuario o funciones.
 
 ## Conclusión: La computación en nube es el futuro
 
