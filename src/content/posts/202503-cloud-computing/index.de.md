@@ -82,7 +82,7 @@ Im Folgenden stellen wir Ihnen drei weitverbreitete Cloud Computing Dienste vor:
 
 ### Was ist SaaS?
 
-Bei SaaS (Software as a Service) handelt es sich um **cloudbasierte Software-Anwendungen** wie etwa CRM-Systeme oder [Projektmanagement-Tools]({{ relref "pages/industry-solutions/project-management" }}). SaaS in Cloud Computing heißt, dass Sie jederzeit und von überall, zum Beispiel über einen Webbrowser, die gewünschte Software in der Cloud nutzen können, ohne sie lokal auf einem Gerät installieren zu müssen. Der SaaS-Anbieter hostet die Software auf einem Remote-Server, kümmert sich aber auch um Backups, Updates und Wartungsarbeiten. 
+Bei SaaS (Software as a Service) handelt es sich um **cloudbasierte Software-Anwendungen** wie etwa CRM-Systeme oder [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}). SaaS in Cloud Computing heißt, dass Sie jederzeit und von überall, zum Beispiel über einen Webbrowser, die gewünschte Software in der Cloud nutzen können, ohne sie lokal auf einem Gerät installieren zu müssen. Der SaaS-Anbieter hostet die Software auf einem Remote-Server, kümmert sich aber auch um Backups, Updates und Wartungsarbeiten. 
 
 ### Was ist PaaS?
 
@@ -141,13 +141,13 @@ Bevor Sie von lokalen Servern auf die Cloud umsteigen, sollten Sie eine durchdac
 
 Ein bisher wenig bekannter, aber sehr preiswerter Cloud Service ist die [No-Code-Datenbank SeaTable](https://seatable.com/), in der Sie Ihre Daten **DSGVO-konform** und unter höchsten Sicherheitsvorkehrungen **in deutschen Rechenzentren** speichern können. Wählen Sie zwischen
 
-- [SeaTable Cloud]({{ relref "pages/product/seatable-cloud" }}) als Public Cloud
-- [SeaTable Server]({{ relref "pages/product/seatable-server" }}) für Ihre Private Cloud
-- [SeaTable Dedicated]({{ relref "pages/product/seatable-dedicated" }}) als Hybrid Cloud
+- [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) als Public Cloud
+- [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) für Ihre Private Cloud
+- [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) als Hybrid Cloud
 
 Über die **Datenbank-Infrastruktur** hinaus bietet SeaTable eine **intuitive Entwicklungsplattform**, auf der Sie auch ohne Programmierkenntnisse spezifische **Software-Lösungen** für Ihr Unternehmen entwerfen und zur Nutzung bereitstellen können. Auf diese Weise vereint der Cloud Service geschickt IaaS (Infrastructure as a Service), PaaS (Platform as a Service) und SaaS (Software as a Service) miteinander.
 
-[Registrieren Sie sich einfach]({{ relref "pages/registration" }}) mit Ihrer E-Mail-Adresse, starten Sie kostenlos und skalieren Sie je nach Bedarf, sobald Sie mehr Speicherplatz, Benutzerkonten oder Funktionen nutzen möchten.
+[Registrieren Sie sich einfach]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse, starten Sie kostenlos und skalieren Sie je nach Bedarf, sobald Sie mehr Speicherplatz, Benutzerkonten oder Funktionen nutzen möchten.
 
 ## Fazit: Cloud Computing ist die Zukunft
 
