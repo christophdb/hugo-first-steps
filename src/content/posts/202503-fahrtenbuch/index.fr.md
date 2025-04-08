@@ -20,7 +20,7 @@ Cet article montre ce à quoi vous devez absolument faire attention lorsque vous
 
 ### Qu'est-ce que la règle du 1% pour les voitures de société ?
 
-La règle du 1 pour cent est une **méthode d'imposition forfaitaire pour les voitures de société**, proposée par l'administration fiscale pour calculer facilement l'avantage en nature d'une voiture de fonction utilisée à des fins privées. Chaque mois, un pour cent du prix de revient national brut de votre véhicule est imposé au titre de l'avantage lié à l'utilisation privée. Cela s'applique indépendamment de la fréquence à laquelle vous utilisez effectivement la voiture à des fins privées ou professionnelles.
+hh La règle du 1 pour cent est une **méthode d'imposition forfaitaire pour les voitures de société**, proposée par l'administration fiscale pour calculer facilement l'avantage en nature d'une voiture de fonction utilisée à des fins privées. Chaque mois, un pour cent du prix de revient national brut de votre véhicule est imposé au titre de l'avantage lié à l'utilisation privée. Cela s'applique indépendamment de la fréquence à laquelle vous utilisez effectivement la voiture à des fins privées ou professionnelles.
 
 La question de savoir s'il est plus intéressant d'utiliser un livre de bord ou la règle du 1% pour votre voiture de société dépend en grande partie du type d'utilisation par le conducteur**. Une règle générale utile est la suivante : si vous utilisez la voiture de société aussi bien à des fins privées que professionnelles, l'imposition forfaitaire est généralement le choix le plus avantageux et le plus simple.
 
@@ -108,7 +108,7 @@ Si vous établissez votre carnet de route à l'aide d'un modèle Excel, cette m�
 
 Si vous êtes à la recherche d'une application de livre de route qui soit gratuite et qui facilite votre travail quotidien, SeaTable est un excellent choix. SeaTable propose un **modèle de livre de bord personnalisable**(https://seatable.io/vorlage/gzggmm9nrqohu-ygi3fwrg/) qui vous permet d'enregistrer numériquement vos trajets et de les gérer facilement en ligne.
 
-SeaTable marque des points en matière de **protection des données** et vous offre le choix entre un hébergement [Cloud]({{< relref "seatable-cloud" >}}) et [On-Premises]({{< relref "seatable-server" >}}), ce qui vous permet de décider vous-même de l'endroit où vous souhaitez stocker vos données. Un autre avantage : grâce au **formulaire web** intégré, les entrées peuvent être saisies facilement et rapidement. Ce formulaire peut demander toutes les informations nécessaires, y compris une **signature numérique**, ce qui rend le processus particulièrement efficace et sûr.
+SeaTable marque des points en matière de **protection des données** et vous offre le choix entre un hébergement [Cloud](/cloud/) et [On-Premises](/on-pimises/), ce qui vous permet de décider vous-même de l'endroit où vous souhaitez stocker vos données. Un autre avantage : grâce au **formulaire web** intégré, les entrées peuvent être saisies facilement et rapidement. Ce formulaire peut demander toutes les informations nécessaires, y compris une **signature numérique**, ce qui rend le processus particulièrement efficace et sûr.
 
 Un point fort particulier est la possibilité de générer directement dans SeaTable un **code QR** que vous pouvez par exemple apposer dans le véhicule de service. Vous pouvez ainsi accéder facilement et à tout moment au formulaire web du carnet de route. De plus, SeaTable permet d'effectuer facilement des **analyses et des évaluations**, ce qui vous permet de suivre précisément l'utilisation de votre véhicule.
 
@@ -125,7 +125,7 @@ Une fois le formulaire envoyé, les conducteurs n'ont plus accès à leurs entr�
 
 **Note:** Avec SeaTable, vous pouvez non seulement tenir un journal de bord individuel, mais aussi gérer efficacement l'ensemble de votre [gestion de parc automobile](https://seatable.io/vorlage/qsxitf8ktcojsuivrormnq/).
 
-Si vous souhaitez utiliser le livre de bord numérique de SeaTable, [il vous suffit de vous inscrire]({{< relref "registration" >}}) et de commencer avec le modèle gratuit.
+Si vous souhaitez utiliser le livre de bord numérique de SeaTable, [il vous suffit de vous inscrire](/registration/) et de commencer avec le modèle gratuit.
 
 ## Questions fréquentes
 
@@ -137,7 +137,7 @@ Oui, si vous tenez un carnet de route, vous devez documenter chaque trajet afin 
 
 ---
 
-Que doit contenir un carnet de route ?
+Que doit contenir un carnet de route ?|||
 
 Dans un carnet de route, les informations suivantes doivent être entièrement documentées pour chaque trajet :
 
@@ -165,7 +165,7 @@ Plus la part de trajets privés est faible, plus il est intéressant d'utiliser 
 
 ---
 
-Quels sont les avantages d'un carnet de route ?
+Quels sont les avantages d'un carnet de route ?|||
 
 En résumé, un carnet de route pour les voitures de fonction présente surtout des avantages lorsque l'utilisation privée du véhicule est faible et que l'effort que représente un carnet de route semble justifié.  
 

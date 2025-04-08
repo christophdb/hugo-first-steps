@@ -2,7 +2,7 @@
 title: "Kostenlose Vorlage: So einfach können Sie ein digitales Fahrtenbuch führen"
 description: "Ein Fahrtenbuch kann mehr sein als nur lästige Bürokratie – es bietet Ihnen die Möglichkeit, bares Geld zu sparen. Mit den richtigen digitalen Tools maximieren Sie Ihre Vorteile und vermeiden teure Fehler. Entdecken Sie, wie Sie Ihr Fahrtenbuch clever führen und welche Lösungen Ihnen dabei helfen können!"
 date: 2025-04-01
-url: "fahrtenbuch"
+url: "/de/fahrtenbuch"
 tags: 
 categories:
 color: "#f34b4c"
