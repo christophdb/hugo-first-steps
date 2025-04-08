@@ -108,7 +108,7 @@ Crear el diario de conducción con una plantilla de Excel es barato y flexible, 
 
 Si busca una aplicación de cuaderno de bitácora que sea gratuita y le facilite el trabajo diario, SeaTable es una excelente elección. SeaTable ofrece una **plantilla de cuaderno de bitácora** flexible y personalizable (https://seatable.io/vorlage/gzggmm9nrqohu-ygi3fwrg/), que le permite registrar sus viajes digitalmente y gestionarlos cómodamente en línea.
 
-
+SeaTable tiene una alta puntuación en **protección de datos** y te ofrece la posibilidad de elegir entre alojamiento [cloud]({{< relref "pages/product/seatable-cloud" >}}) y [On-Premises]({{< relref "pages/product/seatable-server" >}}), para que puedas decidir tú mismo dónde guardas tus datos. Otra ventaja: el **formulario web** integrado te permite introducir entradas de forma rápida y sencilla. Este formulario puede solicitar toda la información necesaria, incluida una **firma digital**, lo que hace que el proceso sea especialmente eficaz y seguro.
 
 Destaca especialmente la posibilidad de generar un **código QR** directamente en SeaTable, que puede adjuntar, por ejemplo, al vehículo de su empresa. Esto le permite acceder cómodamente al formulario web del diario de a bordo en cualquier momento. SeaTable también permite realizar sencillos **análisis y evaluaciones** para que pueda hacer un seguimiento preciso del uso de su vehículo.
 

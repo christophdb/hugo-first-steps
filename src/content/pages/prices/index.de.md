@@ -3,7 +3,6 @@ title: Preise
 date: '2025-03-30'
 draft: false
 url: '/de/preise'
-translationKey: 'prices'
 
 sections:
     - name: 'pricetable'
