@@ -15,7 +15,7 @@
             <div class="mx-auto mt-16 flex justify-center gap-4 text-center">
                 {{ range .buttons }}
                     {{ if eq .style "primary" | default "" }}
-                        <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ .link | absURL }}">{{ .label }}</a>
+                        <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ .link }}">{{ .label }}</a>
                     {{ else }}
                         <a class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-xl font-bold text-gray-800" href="{{ .link }}">{{ .label }}</a>
                     {{ end }}

@@ -1,4 +1,5 @@
 ---
+
 title: "Computación en nube: Cómo escalar su TI de forma rentable"
 description: "La digitalización del mundo laboral avanza rápidamente y la computación en nube desempeña un papel fundamental en ella. Pero, ¿qué significa exactamente computación en nube y cómo puede ayudar a su empresa? En este artículo aprenderá todo lo que necesita saber sobre la tecnología en la nube."
 categories: 
@@ -13,6 +14,7 @@ url: "es/cloud-computing"
 
 ## ¿Qué es la computación en nube?
 
+
 La computación en nube (explicada de forma sencilla) se refiere a la **provisión de recursos informáticos a través de Internet**. En lugar de almacenar programas y datos localmente en su ordenador o en sus propios servidores, usted utiliza los **centros de datos de los proveedores de la nube**. Estos le proporcionan tanto espacio de almacenamiento, potencia de cálculo o software como desee bajo demanda.
 
 **Las soluciones en la nube más conocidas** proceden de los gigantes tecnológicos estadounidenses de siempre: Por ejemplo, puede gestionar su computación en nube en AWS (Amazon Web Services), Microsoft Azure, Google Cloud, Oracle Cloud o IBM Cloud. Sin embargo, también merece la pena tener en el radar sistemas en la nube más pequeños.
@@ -20,6 +22,7 @@ La computación en nube (explicada de forma sencilla) se refiere a la **provisi�
 ### Las 6 características clave de la computación en nube
 
 Además de la definición anterior de computación en nube, 6 rasgos se consideran característicos:
+
 
 1. **Acceso amplio a la red**: Se puede acceder a los servicios en nube a través de Internet mediante mecanismos estándar y no están vinculados a un dispositivo final específico (por ejemplo, ordenador portátil, smartphone, tableta).
 1. **Servicios medibles**: El proveedor de computación en nube puede medir, supervisar, controlar y facturar al cliente con precisión el uso de los recursos (por ejemplo, espacio de almacenamiento, cuentas de usuario).
@@ -39,6 +42,7 @@ Ahora que hemos explicado la computación en nube en términos sencillos, echemo
 Rentabilidad y comodidad|||
 Cuando utilizas servicios en la nube, te ahorras elevadas inversiones en servidores propios y sólo pagas por los recursos que realmente utilizas (principio de pago por uso). Como apenas tiene que preocuparse de la infraestructura local, su personal informático tiene más tiempo para asuntos más importantes.
 ---
+
 Aprovisionamiento rápido|||
 Con la computación en nube, puede activar los componentes necesarios en sólo unos minutos en lugar de tener que esperar semanas a que se encargue el hardware, configurar el sistema e instalar el software.
 ---
@@ -66,6 +70,7 @@ Las ventajas mencionadas anteriormente dan lugar a una serie de escenarios para 
 
 ## La historia de la nube en pocas palabras
 
+
 La historia de la nube, que sirve como **símbolo de una extensa red informática**, se remonta al siglo XX. Ya en 1962, el informático estadounidense Dr. Joseph Carl Robnett Licklider formuló la **idea de una red mundial de ordenadores**, la actual Internet. En última instancia, ésta es también la idea básica de la computación en nube. En los años 90, la **arquitectura multiarrendatario** también hizo posible que varios clientes accedieran al mismo servidor en la red independientemente unos de otros. El gran avance llegó poco después: cuando Amazon ofreció **servicios de almacenamiento y computación en la nube** por primera vez en 2002, la computación en la nube comenzó en AWS. Pocos años después, Google y Microsoft hicieron lo propio con sus primeras aplicaciones en la nube. Desde entonces, el triunfo de la computación en nube ha cobrado un impulso considerable y continúa sin cesar hasta nuestros días.
 
 ![La computación en nube es el futuro](Cloud-Computing-ist-die-Zukunft.jpg)
@@ -75,6 +80,7 @@ La historia de la nube, que sirve como **símbolo de una extensa red informátic
 A continuación presentamos tres servicios de computación en nube muy utilizados: **IaaS** (Infraestructura como servicio), **PaaS** (Plataforma como servicio) y **SaaS** (Software como servicio).
 
 ### ¿Qué es SaaS?
+
 
 SaaS (Software as a Service) se refiere a **aplicaciones de software basadas en la nube**, como sistemas CRM o [herramientas de gestión de proyectos](/projectmanagement-tools). SaaS en la computación en nube significa que puede utilizar el software deseado en la nube en cualquier momento y desde cualquier lugar, por ejemplo a través de un navegador web, sin tener que instalarlo localmente en un dispositivo. El proveedor de SaaS aloja el software en un servidor remoto, pero también se encarga de las copias de seguridad, las actualizaciones y las tareas de mantenimiento.
 
@@ -111,15 +117,18 @@ La principal diferencia entre estos modelos de computación en nube es hasta qu�
 | **Escalabilidad** | muy rápida y flexible | flexible | sólo puede ampliarse con retraso | soberanía de los datos
 | **Soberanía de datos** | Alta dependencia del proveedor de la nube | Dependencia media del proveedor de la nube | Independencia total y soberanía de los datos | | Costes y gastos
 | **Gastos y costes** | bajos, no se requiere infraestructura propia, principio de pago por uso | moderados, infraestructura básica propia, se pueden reservar recursos adicionales en caso necesario | altos costes de servidores, infraestructura, electricidad y personal informático propios | | alta dependencia del proveedor de la nube | completa independencia y soberanía de los datos | independencia y soberanía de los datos
+
 **Ejemplos de grupos destinatarios e industrias** | Nuevas empresas, empresas en expansión, industrias con grandes fluctuaciones estacionales | Empresas que mantienen la privacidad de datos sensibles pero quieren ser flexibles | Administraciones públicas, bancos, institutos de investigación, empresas que trabajan con datos muy sensibles |
 
 ## Aspectos de la seguridad en la nube
+
 
 En el pasado, la computación en nube ofrecía menos seguridad que ahora, por lo que muchas empresas confiaban en sus propios centros de datos o servidores in situ. Aunque la mayoría de los servicios en nube cumplen ahora los **más altos requisitos de seguridad**, la infraestructura propia sigue siendo muy importante, especialmente para instituciones con datos muy sensibles (por ejemplo, autoridades públicas, bancos, hospitales, universidades). En la mayoría de los demás casos, sin embargo, la nube ofrece incluso **más seguridad que las instalaciones locales y los centros de datos internos**. Las principales razones son las siguientes:
 
 Los proveedores de servicios en la nube cuentan con **expertos en seguridad informática** que velan constantemente por la seguridad física y virtual, supervisan los sistemas y responden a las amenazas. Ya se trate de **actualizaciones, copias de seguridad, cifrado, autenticación** u otros mecanismos de seguridad: los sistemas en nube están **siempre al día y bajo observación**, mientras que la infraestructura propia de una empresa se queda rápidamente anticuada y puede presentar lagunas de seguridad.
 
 ![Seguridad en la nube](Cloud-Security.jpg)
+
 
 Si almacena sus datos in situ por motivos de cumplimiento de la normativa, es decir, en servidores de la sede de la empresa, los posibles atacantes a menudo pueden acotar dónde se encuentran. Los grandes proveedores de computación en nube, en cambio, tienen tantos centros de datos en distintas ubicaciones que es difícil averiguar la **ubicación de almacenamiento de datos** de un cliente concreto. Por lo tanto, en este caso, los servicios de computación en nube **dentro de la UE** podrían ser una buena alternativa a su centro de datos local para cumplir **directrices de cumplimiento como el GDPR**, sin que los datos fluyan a las nubes estadounidenses de Amazon, Google, Microsoft, Oracle o IBM.
 
@@ -158,6 +167,7 @@ La computación en nube le ofrece una forma rentable, cómoda y segura de amplia
 La nube es un **símbolo de una extensa red de servidores remotos** que están distribuidos y conectados por todo el mundo. El ejemplo más conocido de nube es Internet.
 ---
 ¿Qué es la computación en nube?|||
+
 La computación en nube (explicada de forma sencilla) se refiere a la **provisión de recursos informáticos a través de Internet**. En lugar de almacenar programas y datos localmente en tu ordenador o en tus propios servidores, utilizas los **centros de datos de los proveedores de la nube**. Estos le proporcionan tanto espacio de almacenamiento, potencia de cálculo o software como desee bajo demanda.
 ---
 ¿Qué tipos de computación en nube existen?|||

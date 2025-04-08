@@ -1,0 +1,21 @@
+navigation:
+    login: 'Iniciar sessão'
+    registration: 'Registo'
+
+error:
+    404_title: 'Página no encontrada :confused:'
+    404_error: 'Error 404'
+    404_description: 'Parece que la página que ha solicitado no existe.'
+
+article:
+    table_of_contents: 'Índice'
+
+legal:
+    version: 'Versión'
+    published_on: 'publicado el'
+
+registration:
+    email_label: 'Correo electrónico'
+    email_placeholder: 'Introduzca su dirección de correo electrónico...'
+    email_invalid: 'Esta dirección de correo electrónico parece estar incompleta'
+    email_required: 'Correo electrónico obligatorio'

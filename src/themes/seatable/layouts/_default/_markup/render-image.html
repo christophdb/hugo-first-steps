@@ -17,7 +17,7 @@
     {{- end }}
     {{- with $resource }}
         <figure>
-            {{- if or $disableImageOptimization (eq .MediaType.SubType "svg") }}
+            {{- if or $disableImageOptimization (eq .MediaType.SubType "svg") (eq .MediaType.SubType "gif") }}
                 <img class="my-0 rounded-md" loading="lazy" src="{{ .RelPermalink }}" alt="{{ $altText }}" />
             {{- else }}
                 <!-- hier muss noch angepasst werden!!! ich will 768px ! -->
