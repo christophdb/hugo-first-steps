@@ -11,10 +11,10 @@ sections:
   description: "Crie bases de dados, fluxos de trabalho e aplicações personalizadas de forma intuitiva e fácil. A nossa solução sem código combina a simplicidade das folhas de cálculo com o poder das bases de dados sem código e dos criadores de aplicações sem código e também pode ser utilizada como uma plataforma com pouco código."
   buttons:
     - label: Começar agora
-      link: "pages/registration"
+      link: "#"
       style: "primary"
     - label: Conhecer as funções
-      link: "pages/functions"
+      link: "#"
 
 - name: content-4
   weight: 2

@@ -11,10 +11,10 @@ sections:
   description: Diseñe intuitivamente bases de datos, flujos de trabajo y aplicaciones personalizadas de forma sencilla. Nuestra solución sin código combina la sencillez de las hojas de cálculo con la potencia de las bases de datos sin código y los creadores de aplicaciones sin código.
   buttons:
     - label: Empezar ahora
-      link: "pages/registration"
+      link: "#"
       style: "primary"
     - label: Conocer las funciones
-      link: "pages/functions"
+      link: "#"
 
 - name: content-4
   weight: 2

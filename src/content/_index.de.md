@@ -11,10 +11,10 @@ sections:
   description: Intuitively design custom databases, workflows and apps - easily.<br/>Our no-code solution combines the simplicity of spreadsheets with the power of no-code databases and no-code app builders and can also be used as a low-code platform.
   buttons:
     - label: Jetzt loslegen
-      link: "pages/registration"
+      link: "#"
       style: "primary"
     - label: Funktionen kennenlernen
-      link: "pages/functions"
+      link: "#"
 
 - name: content-4
   weight: 2

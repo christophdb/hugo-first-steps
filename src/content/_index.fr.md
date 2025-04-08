@@ -11,10 +11,10 @@ sections:
   description: "Concevez intuitivement des bases de données, des workflows et des apps personnalisés - en toute simplicité. Notre solution No-Code allie la simplicité des feuilles de calcul à la puissance des bases de données No-Code et des constructeurs d'applications No-Code et peut également être utilisée comme plateforme Low-Code."
   buttons:
     - label: "Commencer maintenant"
-      link: "pages/registration"
+      link: "#"
       style: "primary"
     - label: "Connaître les fonctions"
-      link: "pages/functions"
+      link: "#"
 
 - name: content-4
   weight: 2
