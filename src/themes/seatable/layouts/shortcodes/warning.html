@@ -1,0 +1,38 @@
+<aside class="group relative -mx-4 mb-16 mt-8 rounded-md bg-yellow-200 py-6 pl-[calc(1rem-3px)] pr-4 text-base" style="--base-icon-color: #374151;">
+    <div class="absolute left-0 top-0 flex h-full flex-col text-white">
+        <svg xmlns="http://www.w3.org/2000/svg" width="37.5" height="35" fill="currentColor" viewBox="0 0 75 70" preserveAspectRatio="none" class="ml-[-2px] mt-[-1.5px]">
+            <path
+                fill="var(--color-page-background)"
+                d="M54.3545 15.0483L46 0.5H0V64L5.42113 56.1695C7.66253 52.9319 11.3497 51 15.2874 51H33.542C51.9925 51 63.5426 31.0483 54.3545 15.0483Z"
+                style="transition:fill var(--color-swap-duration) var(--color-swap-timing-function)"></path>
+            <path
+                fill="var(--color-primary)"
+                d="M52.1101 4.52096C51.2932 3.07946 49.4625 2.57308 48.021 3.38993C46.5795 4.20678 46.0731 6.03754 46.8899 7.47904L52.1101 4.52096ZM15 54H37.2466V48H15V54ZM0 63V69.5H6V63H0ZM46.8899 7.47904L53.777 19.6328L58.9972 16.6747L52.1101 4.52096L46.8899 7.47904ZM37.2466 54C56.4023 54 68.4412 33.3405 58.9972 16.6747L53.777 19.6328C60.9545 32.2988 51.8049 48 37.2466 48V54ZM15 48C6.71573 48 0 54.7157 0 63H6C6 58.0294 10.0294 54 15 54V48Z"></path>
+        </svg>
+    </div>
+    <!-- Warning icon -->
+    <div
+        class="absolute left-0 top-0 -translate-x-[calc(50%+1.5px)] -translate-y-1/2 p-2 text-seatable-orange md:group-[.article-layout]:hidden md:group-[.tutorial-layout]:hidden lg:group-[.tutorial-layout]:block xl:group-[.tutorial-layout]:hidden">
+        <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="32"
+            height="32"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="block">
+            <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"></path>
+            <path d="M12 9v4"></path>
+            <path d="M12 17h.01"></path>
+        </svg>
+    </div>
+
+    <!-- Main content -->
+    <div class="grid pl-4">
+        <strong class="mb-4 mt-2 block font-poppins text-xl font-bold" style="scroll-margin-top: 8rem">{{ .Get "headline" }}</strong>
+        <p class="last:mb-0">{{ .Get "text" | markdownify }}</p>
+    </div>
+</aside>

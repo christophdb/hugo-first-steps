@@ -4,7 +4,9 @@ description: 'Welche Stylings gibt es? Wie nutze ich diese?'
 draft: true
 date: 2025-04-08
 url: '/style-guide'
-color: '#cccccc'
+color: '#eef0f2'
 ---
 
-## test
+## Switch to the German version
+
+Click here for the [German version]({{< relref path="posts/style-guide" lang="de" >}}).
