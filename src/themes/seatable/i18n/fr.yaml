@@ -19,3 +19,6 @@ registration:
     email_placeholder: 'Entrez votre adresse e-mail...'
     email_invalid: 'Cette adresse e-mail semble être incomplète'
     email_required: 'E-mail est requis'
+
+newsletter:
+    submit_text: 'Souscrire'

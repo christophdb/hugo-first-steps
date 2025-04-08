@@ -128,3 +128,5 @@ Compare thoroughly and choose the right tool for your needs. If you are looking 
 {{< button label="Register now for free and get started with agile" link="/registration" >}}
 
 Register for our newsletter and stay up to date on all things project management!
+
+{{< newsletter >}}

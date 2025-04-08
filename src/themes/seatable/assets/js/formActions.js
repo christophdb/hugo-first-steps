@@ -11,41 +11,41 @@ function contactForm() {
         message: '',
         errors: {},
         validateEmail() {
-        if (!this.email.trim()) {
-            this.errors.email = '{{ T "registration.email_required" }}';
-        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
-            this.errors.email = '{{ T "registration.email_invalid" }}';
-        } else {
-            delete this.errors.email;
-        }
+            if (!this.email.trim()) {
+                this.errors.email = '{{ T "registration.email_required" }}';
+            } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+                this.errors.email = '{{ T "registration.email_invalid" }}';
+            } else {
+                delete this.errors.email;
+            }
         },
         submitForm() {
-        this.validateEmail();
+            this.validateEmail();
 
-        const url = '{{ getenv "HUGO_BACKEND_URL" }}';
-        const data = {
-            firstname: this.firstname,
-            lastname: this.lastname,
-            company: this.company,
-            email: this.email,
-            subject: this.subject,
-            type: this.type,
-            message: this.message,
-        };
+            const url = '{{ getenv "HUGO_BACKEND_URL" }}';
+            const data = {
+                firstname: this.firstname,
+                lastname: this.lastname,
+                company: this.company,
+                email: this.email,
+                subject: this.subject,
+                type: this.type,
+                message: this.message,
+            };
 
-        const headers = {
-            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-        };
-        const params = new URLSearchParams(data);
+            const headers = {
+                'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+            };
+            const params = new URLSearchParams(data);
 
-        fetch(`${url}/submit`, {
-            method: 'POST',
-            headers: headers,
-            body: params.toString(),
-        })
-            .then(response => response.json())
-            .then(data => console.log(data))
-            .catch(error => console.error('Error:', error));
+            fetch(`${url}/submit`, {
+                method: 'POST',
+                headers: headers,
+                body: params.toString(),
+            })
+                .then((response) => response.json())
+                .then((data) => console.log(data))
+                .catch((error) => console.error('Error:', error));
         },
     };
 }
@@ -55,39 +55,87 @@ function registrationForm() {
         email: '',
         errors: {},
         validateEmail() {
-        if (!this.email.trim()) {
-            this.errors.email = '{{ T "registration.email_required" }}';
-        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
-            this.errors.email = '{{ T "registration.email_invalid" }}';
-        } else {
-            delete this.errors.email;
-        }
+            if (!this.email.trim()) {
+                this.errors.email = '{{ T "registration.email_required" }}';
+            } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+                this.errors.email = '{{ T "registration.email_invalid" }}';
+            } else {
+                delete this.errors.email;
+            }
         },
         submitForm() {
-        this.validateEmail();
+            this.validateEmail();
 
-        if (this.errors.email) {
-            return;
-        }
+            if (this.errors.email) {
+                return;
+            }
 
-        const url = '{{ getenv "HUGO_BACKEND_URL" }}';
-        const data = {
-            email: this.email,
-        };
+            const url = '{{ getenv "HUGO_BACKEND_URL" }}';
+            const data = {
+                email: this.email,
+            };
 
-        const headers = {
-            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-        };
-        const params = new URLSearchParams(data);
+            const headers = {
+                'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+            };
+            const params = new URLSearchParams(data);
 
-        fetch(`${url}/register`, {
-            method: 'POST',
-            headers: headers,
-            body: params.toString(),
-        })
-            .then(response => response.json())
-            .then(data => console.log(data))
-            .catch(error => console.error('Error:', error));
+            fetch(`${url}/register`, {
+                method: 'POST',
+                headers: headers,
+                body: params.toString(),
+            })
+                .then((response) => response.json())
+                .then((data) => console.log(data))
+                .catch((error) => console.error('Error:', error));
+        },
+    };
+}
+
+function newsletterForm() {
+    return {
+        email: '',
+        errors: {},
+        submitted: false,
+        validateEmail() {
+            if (!this.email.trim()) {
+                this.errors.email = '{{ T "registration.email_required" }}';
+            } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+                this.errors.email = '{{ T "registration.email_invalid" }}';
+            } else {
+                delete this.errors.email;
+            }
+        },
+        async submitForm() {
+            this.validateEmail();
+
+            if (this.errors.email) {
+                return;
+            }
+
+            const url = '{{ getenv "HUGO_BACKEND_URL" }}';
+            const data = {
+                email: this.email,
+                // TODO: Get current language
+                language: 'en',
+            };
+
+            const headers = {
+                'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+            };
+            const params = new URLSearchParams(data);
+
+            try {
+                const response = await fetch(`${url}/subscribe`, {
+                    method: 'POST',
+                    headers: headers,
+                    body: params.toString(),
+                });
+                const body = await response.json();
+                this.submitted = true;
+            } catch (error) {
+                console.error('Error:', error);
+            }
         },
     };
 }

@@ -20,6 +20,10 @@ registration:
     email_invalid: 'Diese E-Mail Addresse ist unvollständig'
     email_required: 'E-Mail ist ein Pflichtfeld'
 
+
+newsletter:
+    submit_text: 'Abonnieren'
+
 # old stuff ?!?
 month: Monat
 contact_sales: Verkauf kontaktieren
@@ -27,3 +31,4 @@ read_more: 'Mehr erfahren'
 yearly: 'Jährlich'
 monthly: 'Monatlich'
 # end old stuff...
+

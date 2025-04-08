@@ -2,6 +2,7 @@
 <html lang="{{ site.Language.LanguageCode }}" dir="ltr">
     {{ partial "head/head.html" . }}
 
+
     <body class="font-roboto">
         {{ if hugo.IsProduction }}
         {{ else }}
@@ -11,6 +12,7 @@
         {{ end }}
 
         {{ partial "header/basic.html" . }}
+
 
         <main id="main-content" class="relative">
             {{ block "main" . }}{{ end }}
@@ -35,6 +37,7 @@
 
         <!-- matomo analytics -->
         {{ partial "matomo-analytics.html" . }}
+
 
         <!-- AB-Split Tests -->
         <script>
