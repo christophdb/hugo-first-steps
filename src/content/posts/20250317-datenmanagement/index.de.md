@@ -107,7 +107,7 @@ Es gibt eine Vielzahl an Tools und Software, die Sie für Ihr Datenmanagement ei
 
 ### Was ist das beste Datenmanagementsystem?
 
-Die Wahl einer geeigneten Datenmanagement-Software hängt von den spezifischen Anforderungen ab, die Sie an den Datenzugriff, die Datenspeicherung, -sicherheit, -integration und -analyse stellen. Dabei können Sie entscheiden, ob Sie Ihre Daten auf Ihren eigenen Servern ([On-Premises](h{{< relref "pages/product/seatable-server" >}})), in einer Cloud oder in einer hybriden Mischung speichern und analysieren wollen.
+Die Wahl einer geeigneten Datenmanagement-Software hängt von den spezifischen Anforderungen ab, die Sie an den Datenzugriff, die Datenspeicherung, -sicherheit, -integration und -analyse stellen. Dabei können Sie entscheiden, ob Sie Ihre Daten auf Ihren eigenen Servern ([On-Premises]({{< relref "pages/product/seatable-server" >}})), in einer Cloud oder in einer hybriden Mischung speichern und analysieren wollen.
 
 Als Trend lässt sich die zunehmende Verwendung von cloudbasierten Datenmanagement-Lösungen beobachten. Eine cloudbasierte Datamanagement-Plattform ermöglicht es Ihnen, Daten sicher zu speichern und effizient zu verarbeiten, ohne in teure Infrastruktur investieren zu müssen.
 

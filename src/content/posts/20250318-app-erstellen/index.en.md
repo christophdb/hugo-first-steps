@@ -116,7 +116,7 @@ So no longer ask yourself the question: "How can I create an app?" - here is the
 
 ### Step 1: Create a base
 
-[First register for free](/registration) with SeaTable. After logging in, you will be taken to a clear user interface where you can create your first base. It is advisable to consider in advance how your app should be structured - be it a project management app, an inventory system or a to-do list. SeaTable offers various templates for this, which you can customize as required.
+[First register for free]({{< relref "pages/registration" >}}) with SeaTable. After logging in, you will be taken to a clear user interface where you can create your first base. It is advisable to consider in advance how your app should be structured - be it a project management app, an inventory system or a to-do list. SeaTable offers various templates for this, which you can customize as required.
 
 To use a ready-made template, click on the plus symbol in the "My bases" area and select the "Create base from template" option. In this example, we are using the template for workshops, which is already filled with sample data. The goal is to create a custom app that provides coaches with a central platform where they can access all important course information.
 
@@ -174,7 +174,7 @@ If you would like to browse a little more and discover additional app functions,
 
 No code app builders such as SeaTable open up completely new possibilities for you to create your own apps - free of charge and without any technical knowledge. They not only offer you flexibility and fast results, but also the freedom to implement ideas independently. Whether for marketing, project management or sales - with the right tools, you can make your work processes more efficient and take your company to the next level. So why wait? Try it out for free and discover how easy app development can be today.
 
-{{< button label="Register now for free" link="/registration" >}}
+{{< button label="Register now for free" link="pages/registration" >}}
 
 ## Frequently asked questions when creating an app
 

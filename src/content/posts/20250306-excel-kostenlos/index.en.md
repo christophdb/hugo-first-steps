@@ -199,4 +199,4 @@ The well-known spreadsheet programs in this comparison are functionally similar 
 
 SeaTable stands out from the crowd thanks to its extended data formats, database functions and app builder. SeaTable is the only application in this comparison that is available both as a cloud and self-hosted application. This means that every user is free to choose between data sovereignty and convenience.
 
-[Register now for free and try SeaTable](/en/registration)
+[Register now for free and try SeaTable]({{< relref "pages/registration" >}})
