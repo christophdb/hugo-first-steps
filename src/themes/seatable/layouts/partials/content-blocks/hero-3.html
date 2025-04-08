@@ -5,8 +5,9 @@
             <p class="mx-auto mt-8 max-w-3xl text-xl font-bold leading-normal">{{ .description }}</p>
 
             {{ with .button }}
+                {{ $link := page.GetPage .link }}
                 <div class="mt-12 text-center">
-                    <a href="{{ .url }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins font-bold text-gray-800">{{ .label }}</a>
+                    <a href="{{ $link.RelPermalink }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins font-bold text-gray-800">{{ .label }}</a>
                 </div>
             {{ end }}
 

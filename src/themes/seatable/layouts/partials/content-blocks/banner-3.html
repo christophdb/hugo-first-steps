@@ -14,7 +14,8 @@
         <h2 class="gradient text-right text-4xl font-bold leading-narrow sm:pl-4 md:pl-20 md:text-5xl lg:pl-40">{{ .title }}</h2>
         <div class="mx-auto mt-16 text-right">
             {{ with .button }}
-                <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ .link | absURL }}">{{ .label }}</a>
+                {{ $link := page.GetPage .link }}
+                <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ $link.RelPermalink }}">{{ .label }}</a>
             {{ end }}
         </div>
     </section>
