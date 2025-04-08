@@ -1,9 +1,3 @@
-# old stuff ?!?
-month: Month
-contact_sales: Contact sales
-read_more: 'Read more'
-yearly: Yearly
-monthly: Monthly
 
 navigation:
     login: 'Login'
@@ -29,3 +23,12 @@ registration:
 
 newsletter:
     submit_text: 'Subscribe'
+
+# old stuff ?!?
+month: Month
+contact_sales: Contact sales
+read_more: 'Read more'
+yearly: Yearly
+monthly: Monthly
+# end old stuff...
+

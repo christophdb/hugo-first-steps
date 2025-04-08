@@ -12,7 +12,13 @@ article:
 
 legal:
     version: 'Version'
-    published_on: 'published on'
+    published_on: 'publié le'
+
+registration:
+    email_label: 'Adresse e-mail'
+    email_placeholder: 'Entrez votre adresse e-mail...'
+    email_invalid: 'Cette adresse e-mail semble être incomplète'
+    email_required: 'E-mail est requis'
 
 newsletter:
     submit_text: 'Souscrire'

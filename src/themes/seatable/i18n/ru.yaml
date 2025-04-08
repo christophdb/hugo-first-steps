@@ -1,0 +1,21 @@
+navigation:
+    login: 'Вход в систему'
+    registration: 'Регистрация'
+
+error:
+    404_title: 'Страница не найдена :confused:'
+    404_error: 'Error 404'
+    404_description: 'Похоже, что запрошенная вами страница не существует.'
+
+article:
+    table_of_contents: 'Оглавление'
+
+legal:
+    version: 'Версия'
+    published_on: 'опубликовано на'
+
+registration:
+    email_label: 'Электронная почта'
+    email_placeholder: 'Введите адрес электронной почты...'
+    email_invalid: 'Этот адрес электронной почты кажется неполным'
+    email_required: 'Электронная почта обязательна'
