@@ -332,6 +332,13 @@ h2 {
     .input {
         @apply border pl-5 text-base leading-normal text-slate-gray outline-none max-sm:w-full max-sm:rounded-full max-sm:border-slate-gray max-sm:p-5 sm:flex-1 sm:border-none;
     }
+
+    .post-content pre {
+        @apply overflow-x-scroll rounded-lg bg-gray-100 p-4;
+    }
+    .post-content code {
+        @apply block rounded-lg bg-gray-100 px-2 py-1 font-mono text-sm;
+    }
 }
 
 @layer utilities {
