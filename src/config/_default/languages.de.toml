@@ -5,8 +5,8 @@ weight = 2
 title = "SeaTable"
 
 [params]
-  displayName = "DE"
-  isoCode = "de"
-  dateFormat = "2. January 2006"
-  logo = "/images/seatable-logo.svg"
-  footerPhrase = "Machen Sie es wie Tausende anderer Menschen, die täglich mit SeaTable leistungsfähige Prozesse entwickeln."
+displayName = "DE"
+isoCode = "de"
+dateFormat = "2. Januar 2006"
+logo = "/images/seatable-logo.svg"
+footerPhrase = "Machen Sie es wie Tausende anderer Menschen, die täglich mit SeaTable leistungsfähige Prozesse entwickeln."
