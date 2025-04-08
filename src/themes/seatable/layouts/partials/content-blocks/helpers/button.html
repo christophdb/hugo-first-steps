@@ -1,0 +1,13 @@
+{{ with .button }}
+    {{ $link := page.GetPage .link }}
+    {{ if not $link }}
+        {{ errorf "[content-1] Page %s does not exist!" .link }}
+    {{ end }}
+
+    {{ if eq .style "primary" | default "" }}
+        <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-lg font-bold text-white" href="{{ $link.RelPermalink }}">{{ .label }}</a>
+    {{ else }}
+        <a class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-lg font-bold text-gray-800" href="{{ $link.RelPermalink }}">{{ .label }}</a>
+    {{ end }}
+
+{{ end }}

@@ -15,6 +15,7 @@ sections:
       style: "primary"
     - label: Conocer las funciones
       link: "pages/functions"
+  image: "/images/projektmanagement-mit-seatable.gif"
 
 - name: content-4
   weight: 2
