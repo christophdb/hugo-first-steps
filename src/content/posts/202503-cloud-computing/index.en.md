@@ -2,8 +2,10 @@
 title: "Cloud computing: How to scale your IT cost-effectively"
 description: "The digitalization of the working world is progressing rapidly and cloud computing plays a central role in this. But what exactly does cloud computing mean and how can it help your company? In this article, you will learn everything you need to know about cloud technology."
 categories: 
-  - "Allgemein"
+  - "General info"
 tags: 
+- "Digital Transformation" 
+- "IT Security & Data Privacy"
 date: 2025-04-01
 color: "#c5a6e9"
 url: "/cloud-computing"
@@ -84,7 +86,7 @@ Platform as a Service (PaaS) is a **cloud-based platform for application develop
 
 Infrastructure as a Service (IaaS) means that you rent your desired **IT infrastructure**, for example servers, networks, databases and operating systems, **in an external data center and access it via the cloud**. Billing is based on usage via the cloud computing provider. This eliminates the need for high investments in your own infrastructure.
 
-| **IaaS** | **PaaS** | **SaaS** |
+| | **IaaS** | **PaaS** | **SaaS** |
 | --- | --- | --- | --- |
 | **Type of service** | Infrastructure | Development platform | Software |
 | **Target group** | System administrators | Software developers | Users |
@@ -103,11 +105,11 @@ There are various cloud computing models, which differ according to the **type o
 
 The main difference between these cloud computing models is the extent to which you want to **provide the IT resources your company needs** yourself. The more infrastructure you own, the more data sovereignty and control you have, but the higher your effort and costs.
 
-| **Public Cloud** | **Hybrid Cloud** | **Private Cloud** |
+| | **Public Cloud** | **Hybrid Cloud** | **Private Cloud** |
 | --- | --- | --- | --- |
 | **Accessibility** | publicly shared IT resources | partly own, partly public IT resources | own, private IT resources |
 | **Scalability** | very fast and flexible | flexible | can only be expanded with a delay |
-| **data sovereignty** | high dependency on the cloud provider | medium dependency on the cloud provider | complete independence and data sovereignty |
+| **Data Sovereignty** | high dependency on the cloud provider | medium dependency on the cloud provider | complete independence and data sovereignty |
 | **Expense and costs** | low, no own infrastructure required, pay-as-you-go principle | moderate, own basic infrastructure, additional resources can be booked if required | high costs for own servers, infrastructure, electricity and IT staff |
 **Examples of target groups and industries** | Start-ups, expanding companies, industries with high seasonal fluctuations | Companies that keep sensitive data private but still want to be flexible | Public authorities, banks, research institutions, companies that work with highly sensitive data |
 

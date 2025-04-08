@@ -8,7 +8,7 @@ tags:
 - "Seguridad informática y privacidad de datos"
 date: 2025-04-01
 color: "#c5a6e9"
-url: "es/computacion_en_nube"
+url: "es/cloud-computing"
 ---
 
 ## ¿Qué es la computación en nube?
