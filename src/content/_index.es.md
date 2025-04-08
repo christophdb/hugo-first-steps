@@ -5,15 +5,15 @@ description: ''
 sections:
 - name: hero-1
   weight: 1
-  h2_left: "No code,"
-  h2_right: "no limits"
-  h1: "SeaTable no-code platform: Organize all your data and develop custom applications without writing a single row code!" 
-  description: Intuitively design custom databases, workflows and apps - easily.<br/>Our no-code solution combines the simplicity of spreadsheets with the power of no-code databases and no-code app builders and can also be used as a low-code platform.
+  h2_left: "Sin código,"
+  h2_right: "sin límites"
+  h1: "Plataforma sin código SeaTable: ¡organice todos sus datos y desarrolle aplicaciones personalizadas sin escribir una sola línea de código!"
+  description: Diseñe intuitivamente bases de datos, flujos de trabajo y aplicaciones personalizadas de forma sencilla. Nuestra solución sin código combina la sencillez de las hojas de cálculo con la potencia de las bases de datos sin código y los creadores de aplicaciones sin código.
   buttons:
-    - label: Get started now
+    - label: Empezar ahora
       link: "pages/registration"
       style: "primary"
-    - label: Get to know functions
+    - label: Conocer las funciones
       link: "pages/functions"
 
 - name: content-4

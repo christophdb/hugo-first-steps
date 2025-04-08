@@ -1,0 +1,29 @@
+navigation:
+    login: 'Iniciar sessão'
+    registration: 'Registo'
+
+error:
+    404_title: 'Página não encontrada :confused:'
+    404_error: 'Error 404'
+    404_description: 'Parece que a página que solicitou não existe.'
+
+article:
+    table_of_contents: 'Índice'
+
+legal:
+    version: 'Versão'
+    published_on: 'publicado em'
+
+registration:
+    email_label: 'Correio eletrónico'
+    email_placeholder: 'Introduza o seu endereço de correio eletrónico...'
+    email_invalid: 'Este endereço de correio eletrónico parece estar incompleto'
+    email_required: 'O correio eletrónico é obrigatório'
+
+# old stuff ?!?
+month: Month
+contact_sales: Contact sales
+read_more: 'Read more'
+yearly: Yearly
+monthly: Monthly
+# end old stuff...

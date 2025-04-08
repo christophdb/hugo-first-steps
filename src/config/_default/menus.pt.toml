@@ -11,71 +11,71 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Functions"
+  name = "Funções"
   pageRef = "pages/functions"
   weight = 10
 
 [[main]]
-  name = "Products"
+  name = "Produtos"
   pageRef = "/"
   weight = 20
 
 [[main]]
-  name = "SeaTable Cloud"
-  parent = "Products"
+  name = "Nuvem SeaTable"
+  parent = "Produtos"
   pageRef = "pages/product/seatable-cloud"
   weight = 21
 
 [[main]]
-  name = "SeaTable Dedicated"
-  parent = "Products"
+  name = "SeaTable Dedicado"
+  parent = "Produtos"
   pageRef = "pages/product/seatable-dedicated"
   weight = 22
 
 [[main]]
-  name = "SeaTable Server"
-  parent = "Products"
+  name = "Servidor SeaTable"
+  parent = "Produtos"
   pageRef = "pages/product/seatable-server"
   weight = 23
 
 [[main]]
-  name = "Industry solutions"
+  name = "Soluções para o sector"
   pageRef = "#0"
   weight = 30
 
 [[main]]
   name = "Marketing"
-  parent = "Industry solutions"
+  parent = "Soluções para o sector"
   pageRef = "pages/industry-solutions/marketing"
   weight = 31
 
 [[main]]
-  name = "Project management"
-  parent = "Industry solutions"
+  name = "Gestão de projectos"
+  parent = "Soluções para o sector"
   pageRef = "pages/industry-solutions/project-management"
   weight = 32
 
 [[main]]
-  name = "HR"
-  parent = "Industry solutions"
+  name = "Recursos humanos"
+  parent = "Soluções para o sector"
   pageRef = "pages/industry-solutions/hr"
   weight = 33
 
 [[main]]
-  name = "Public service"
-  parent = "Industry solutions"
+  name = "Serviço público"
+  parent = "Soluções para o sector"
   pageRef = "pages/industry-solutions/public-service"
   weight = 34
 
 [[main]]
-  name = "Software development"
-  parent = "Industry solutions"
+  name = "Desenvolvimento de software"
+  parent = "Soluções para o sector"
   pageRef = "pages/industry-solutions/software-development"
   weight = 35
 
 [[main]]
-  name = "Individual"
-  parent = "Industry solutions"
+  name = "Personalizado"
+  parent = "Soluções para o sector"
   pageRef = "pages/industry-solutions/individual"
   weight = 36
 
@@ -85,7 +85,7 @@
   weight = 40
 
 [[main]]
-  name = "Blog"
+  name = "Blogue"
   pageRef = "posts"
   weight = 50
 
@@ -94,110 +94,110 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "Products"
+  name = "Produtos"
   weight = 10
 
 [[footer]]
-  name = "SeaTable Cloud"
-  parent = "Products"
+  name = "Nuvem SeaTable"
+  parent = "Produtos"
   pageRef = "pages/product/seatable-cloud"
   weight = 11
 
 [[footer]]
-  name = "SeaTable Dedicated"
-  parent = "Products"
+  name = "SeaTable Dedicado"
+  parent = "Produtos"
   pageRef = "pages/product/seatable-dedicated"
   weight = 12
 
 [[footer]]
-  name = "SeaTable Server"
-  parent = "Products"
+  name = "Servidor SeaTable"
+  parent = "Produtos"
   pageRef = "pages/product/seatable-server"
   weight = 13
 
 [[footer]]
-  name = "Support"
-  parent = "Products"
+  name = "Apoio"
+  parent = "Produtos"
   pageRef = "pages/support"
   weight = 14
 
 [[footer]]
-  name = "Assistance"
+  name = "Apoio a"
   weight = 20
 
 [[footer]]
-  name = "Quick guide"
-  parent = "Assistance"
+  name = "Guia rápido"
+  parent = "Apoio a"
   pageRef = "https://seatable.io/kurzanleitung/?lang=auto"
   weight = 21
 
 [[footer]]
-  name = "Help area"
-  parent = "Assistance"
+  name = "Área de ajuda"
+  parent = "Apoio a"
   pageRef = "https://docs.seatable.io/?lang=auto"
   weight = 22
 
 [[footer]]
-  name = "Templates"
-  parent = "Assistance"
+  name = "Modelos"
+  parent = "Apoio a"
   pageRef = "https://seatable.io/vorlagen/?lang=auto"
   weight = 23
 
 [[footer]]
-  name = "Integrations"
-  parent = "Assistance"
+  name = "Integrações"
+  parent = "Apoio a"
   pageRef = "https://seatable.io/integrationen/?lang=auto"
   weight = 24
 
 [[footer]]
-  name = "Forum"
-  parent = "Assistance"
+  name = "Fórum"
+  parent = "Apoio a"
   url = "https://forum.seatable.io"
   weight = 25
 
 [[footer]]
-  name = "Developer API"
-  parent = "Assistance"
+  name = "API para programadores"
+  parent = "Apoio a"
   url = "https://api.seatable.io"
   weight = 26
 
 [[footer]]
-  name = "Status"
-  parent = "Assistance"
+  name = "Estado"
+  parent = "Apoio a"
   url = "https://status.seatable.io"
   weight = 27
 
 [[footer]]
-  name = "The company"
+  name = "A empresa"
   weight = 30
 
 [[footer]]
-  name = "About us"
-  parent = "The company"
+  name = "Sobre nós"
+  parent = "A empresa"
   pageRef = "pages/about"
   weight = 31
 
 [[footer]]
-  name = "Jobs"
-  parent = "The company"
+  name = "Empregos"
+  parent = "A empresa"
   pageRef = "pages/jobs"
   weight = 32
 
 [[footer]]
-  name = "Press"
-  parent = "The company"
+  name = "Imprensa"
+  parent = "A empresa"
   pageRef = "pages/press"
   weight = 33
 
 [[footer]]
-  name = "Contact"
-  parent = "The company"
+  name = "Contactar-nos"
+  parent = "A empresa"
   pageRef = "pages/contact"
   weight = 34
 
 [[footer]]
-  name = "Blog"
-  parent = "The company"
+  name = "Blogue"
+  parent = "A empresa"
   pageRef = "posts"
   weight = 35
 
@@ -205,22 +205,22 @@
 # The last line of the page with links to the legal pages.
 
 [[legal]]
-  name = "Imprint"
+  name = "Impressão"
   pageRef = "pages/legal/imprint"
   weight = 10
 
 [[legal]]
-  name = "Security"
+  name = "Segurança"
   pageRef = "pages/legal/security"
   weight = 20
 
 [[legal]]
-  name = "Data protection"
+  name = "Proteção de dados"
   pageRef = "pages/legal/data-privacy"
   weight = 30
 
 [[legal]]
-  name = "Terms of use"
+  name = "Termos de utilização"
   pageRef = "pages/legal/terms-of-service"
   weight = 40
 

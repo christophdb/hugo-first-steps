@@ -11,81 +11,81 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Functions"
+  name = "Функции"
   pageRef = "pages/functions"
   weight = 10
 
 [[main]]
-  name = "Products"
+  name = "Продукция"
   pageRef = "/"
   weight = 20
 
 [[main]]
   name = "SeaTable Cloud"
-  parent = "Products"
+  parent = "Продукция"
   pageRef = "pages/product/seatable-cloud"
   weight = 21
 
 [[main]]
   name = "SeaTable Dedicated"
-  parent = "Products"
+  parent = "Продукция"
   pageRef = "pages/product/seatable-dedicated"
   weight = 22
 
 [[main]]
-  name = "SeaTable Server"
-  parent = "Products"
+  name = "Сервер SeaTable"
+  parent = "Продукция"
   pageRef = "pages/product/seatable-server"
   weight = 23
 
 [[main]]
-  name = "Industry solutions"
+  name = "Отраслевые решения"
   pageRef = "#0"
   weight = 30
 
 [[main]]
-  name = "Marketing"
-  parent = "Industry solutions"
+  name = "Маркетинг"
+  parent = "Отраслевые решения"
   pageRef = "pages/industry-solutions/marketing"
   weight = 31
 
 [[main]]
-  name = "Project management"
-  parent = "Industry solutions"
+  name = "Управление проектами"
+  parent = "Отраслевые решения"
   pageRef = "pages/industry-solutions/project-management"
   weight = 32
 
 [[main]]
   name = "HR"
-  parent = "Industry solutions"
+  parent = "Отраслевые решения"
   pageRef = "pages/industry-solutions/hr"
   weight = 33
 
 [[main]]
-  name = "Public service"
-  parent = "Industry solutions"
+  name = "Государственная служба"
+  parent = "Отраслевые решения"
   pageRef = "pages/industry-solutions/public-service"
   weight = 34
 
 [[main]]
-  name = "Software development"
-  parent = "Industry solutions"
+  name = "Разработка программного обеспечения"
+  parent = "Отраслевые решения"
   pageRef = "pages/industry-solutions/software-development"
   weight = 35
 
 [[main]]
-  name = "Individual"
-  parent = "Industry solutions"
+  name = "На заказ"
+  parent = "Отраслевые решения"
   pageRef = "pages/industry-solutions/individual"
   weight = 36
 
 [[main]]
-  name = "Prices"
+  name = "Цены"
   pageRef = "pages/prices"
   weight = 40
 
 [[main]]
-  name = "Blog"
+  name = "Блог"
   pageRef = "posts"
   weight = 50
 
@@ -94,110 +94,110 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "Products"
+  name = "Продукция"
   weight = 10
 
 [[footer]]
   name = "SeaTable Cloud"
-  parent = "Products"
+  parent = "Продукция"
   pageRef = "pages/product/seatable-cloud"
   weight = 11
 
 [[footer]]
   name = "SeaTable Dedicated"
-  parent = "Products"
+  parent = "Продукция"
   pageRef = "pages/product/seatable-dedicated"
   weight = 12
 
 [[footer]]
-  name = "SeaTable Server"
-  parent = "Products"
+  name = "Сервер SeaTable"
+  parent = "Продукция"
   pageRef = "pages/product/seatable-server"
   weight = 13
 
 [[footer]]
-  name = "Support"
-  parent = "Products"
+  name = "Поддержка"
+  parent = "Продукция"
   pageRef = "pages/support"
   weight = 14
 
 [[footer]]
-  name = "Assistance"
+  name = "Поддержка"
   weight = 20
 
 [[footer]]
-  name = "Quick guide"
-  parent = "Assistance"
+  name = "Краткое руководство"
+  parent = "Поддержка"
   pageRef = "https://seatable.io/kurzanleitung/?lang=auto"
   weight = 21
 
 [[footer]]
-  name = "Help area"
-  parent = "Assistance"
+  name = "Зона помощи"
+  parent = "Поддержка"
   pageRef = "https://docs.seatable.io/?lang=auto"
   weight = 22
 
 [[footer]]
-  name = "Templates"
-  parent = "Assistance"
+  name = "Шаблоны"
+  parent = "Поддержка"
   pageRef = "https://seatable.io/vorlagen/?lang=auto"
   weight = 23
 
 [[footer]]
-  name = "Integrations"
-  parent = "Assistance"
+  name = "Интеграции"
+  parent = "Поддержка"
   pageRef = "https://seatable.io/integrationen/?lang=auto"
   weight = 24
 
 [[footer]]
-  name = "Forum"
-  parent = "Assistance"
+  name = "Форум"
+  parent = "Поддержка"
   url = "https://forum.seatable.io"
   weight = 25
 
 [[footer]]
-  name = "Developer API"
-  parent = "Assistance"
+  name = "API для разработчиков"
+  parent = "Поддержка"
   url = "https://api.seatable.io"
   weight = 26
 
 [[footer]]
-  name = "Status"
-  parent = "Assistance"
+  name = "Статус"
+  parent = "Поддержка"
   url = "https://status.seatable.io"
   weight = 27
 
 [[footer]]
-  name = "The company"
+  name = "Компания"
   weight = 30
 
 [[footer]]
-  name = "About us"
-  parent = "The company"
+  name = "О нас"
+  parent = "Компания"
   pageRef = "pages/about"
   weight = 31
 
 [[footer]]
-  name = "Jobs"
-  parent = "The company"
+  name = "Работа"
+  parent = "Компания"
   pageRef = "pages/jobs"
   weight = 32
 
 [[footer]]
-  name = "Press"
-  parent = "The company"
+  name = "Нажмите"
+  parent = "Компания"
   pageRef = "pages/press"
   weight = 33
 
 [[footer]]
-  name = "Contact"
-  parent = "The company"
+  name = "Свяжитесь с нами"
+  parent = "Компания"
   pageRef = "pages/contact"
   weight = 34
 
 [[footer]]
-  name = "Blog"
-  parent = "The company"
+  name = "Блог"
+  parent = "Компания"
   pageRef = "posts"
   weight = 35
 
@@ -205,22 +205,22 @@
 # The last line of the page with links to the legal pages.
 
 [[legal]]
-  name = "Imprint"
+  name = "Оттиск"
   pageRef = "pages/legal/imprint"
   weight = 10
 
 [[legal]]
-  name = "Security"
+  name = "Безопасность"
   pageRef = "pages/legal/security"
   weight = 20
 
 [[legal]]
-  name = "Data protection"
+  name = "Защита данных"
   pageRef = "pages/legal/data-privacy"
   weight = 30
 
 [[legal]]
-  name = "Terms of use"
+  name = "Условия использования"
   pageRef = "pages/legal/terms-of-service"
   weight = 40
 
