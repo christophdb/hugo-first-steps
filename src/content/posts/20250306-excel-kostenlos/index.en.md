@@ -1,13 +1,13 @@
 ---
-title: "Excel for free? Spreadsheet calculation: programs in comparison"
-description: "Do you need a powerful spreadsheet but struggle with Excel? Or do you have data protection concerns about the US giant Microsoft? No problem! There are plenty of programs that, unlike Excel, are free or even offer more functions. Immerse yourself in the world of spreadsheet solutions!"
+title: 'Excel for free? Spreadsheet calculation: programs in comparison'
+description: 'Do you need a powerful spreadsheet but struggle with Excel? Or do you have data protection concerns about the US giant Microsoft? No problem! There are plenty of programs that, unlike Excel, are free or even offer more functions. Immerse yourself in the world of spreadsheet solutions!'
 date: 2025-03-06
-categories: 
-  - "General"
-tags: 
-  - "Tools & Plugins"
-url: "excel-kostenlos"
-color: "#6d9c70"
+categories:
+    - 'General'
+tags:
+    - 'Tools & Plugins'
+url: 'excel-kostenlos'
+color: '#6d9c70'
 ---
 
 ## Competition for the market leader: Who offers Excel for free
@@ -26,14 +26,14 @@ However, if you need the full desktop version for Windows or macOS instead, you 
 
 If you just want to get a quick overview, take a look at the following table, which compares the most important spreadsheet programs. A detailed description follows below after a categorization of the spreadsheet programs considered here.
 
-**Software** | **Developed by** | **Operating systems** |
-| --- | --- | --- |
-| Calc | LibreOffice / OpenOffice | Windows, Mac, Linux |
-| PlanMaker | SoftMaker | Windows, Mac, Linux |
-| Google Sheets | Google | Browser-based |
-| Zoho Sheet | Zoho | Browser-based |
-| Ethercalc | Open source project | Browser-based |
-| SeaTable | Seafile | Browser-based |
+| **Software**  | **Developed by**         | **Operating systems** |
+| ------------- | ------------------------ | --------------------- |
+| Calc          | LibreOffice / OpenOffice | Windows, Mac, Linux   |
+| PlanMaker     | SoftMaker                | Windows, Mac, Linux   |
+| Google Sheets | Google                   | Browser-based         |
+| Zoho Sheet    | Zoho                     | Browser-based         |
+| Ethercalc     | Open source project      | Browser-based         |
+| SeaTable      | Seafile                  | Browser-based         |
 
 In this comparison, only local applications that support at least two operating system families were considered. For this reason, Apple Numbers as a pure spreadsheet application for MacOS/iOS is not included, nor is Gnumeric, which has been a pure application for Linux since 2014.
 
@@ -127,8 +127,8 @@ Newcomers will probably find Sheets easier to use than Excel. New users will als
 
 ### Clear orientation towards Google Sheets
 
-If you suspect further similarities to Google Sheets based on the name and the claim to be a G Suite killer, you are right: at first glance, Zoho Sheet appears to be a clone of Google Sheets. The **menu structure is virtually identical**; differences only become apparent at second glance. Zoho Sheet and Google Sheets are also close to each other in a direct comparison of functions. Web forms, pivot tables, conditional formatting, versioning and **extensive collaboration functions** including sharing, real-time collaboration and chat are available in both. If you're comfortable with Google Sheets, you'll have no trouble replacing Excel with Zoho Sheet for free.  
-  
+If you suspect further similarities to Google Sheets based on the name and the claim to be a G Suite killer, you are right: at first glance, Zoho Sheet appears to be a clone of Google Sheets. The **menu structure is virtually identical**; differences only become apparent at second glance. Zoho Sheet and Google Sheets are also close to each other in a direct comparison of functions. Web forms, pivot tables, conditional formatting, versioning and **extensive collaboration functions** including sharing, real-time collaboration and chat are available in both. If you're comfortable with Google Sheets, you'll have no trouble replacing Excel with Zoho Sheet for free.
+
 But you would be doing Zoho Sheet an injustice if you denied it complete individuality! In the area of data analysis, it offers more than its Google counterpart with a solver and a target value function. Due to its less market-dominating role, it is also pleasingly **integrative**. You can save spreadsheets created in Zoho Sheet in your own online storage - **Zoho Docs** for individuals, **Zoho WorkDrive** for teams - or in an integrated Google Drive, OneDrive or Dropbox account. File export is possible in .csv, .xlsx and .ods files.
 
 ![](Screenshot_Zoho_Sheet.jpg)
@@ -151,7 +151,6 @@ At first glance, Ethercalc's rudimentary, somewhat dusty-looking user interface 
 
 ![Unlike Excel, Ethercalc is free of charge, but cannot keep up with the functions](Screenshot_Ethercalc.jpg)
 
-  
 In terms of functionality and convenience, Ethercalc is not on a par with the other spreadsheet programs. This is partly due to the small developer community, but also to the general objective of the project. Ethercalc does not focus on the evaluation of large data sets, but on **collaboration** and **location-independent data collection** in the browser.
 
 No installed program is required for the web table; instead, adjustments can be made on the move using a cell phone or tablet and, thanks to **real-time support**, all changes in Ethercalc are immediately visible to all other users. An export function is then available for evaluating the recorded data, which enables simple transfer to XLSX, ODS, CSV and HTML.
@@ -180,16 +179,15 @@ Of course, SeaTable also has the classic functions of a spreadsheet: **filters**
 
 ![](Screenshot_SeaTable_Statistics.jpg)
 
-  
-SeaTables [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) offer advanced visualization options for non-numeric data types: In the map plugin, address and geoposition data can be displayed on a map and the gallery plugin displays the image data stored in a table clearly in albums. Appointment data entered in a table can be displayed in the calendar or timeline plugin and the Kanban plugin displays workflows with different phases, as is otherwise only known from [project management](https://seatable.com/projektmanagement-tools/)\ applications.
+SeaTables [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) offer advanced visualization options for non-numeric data types: In the map plugin, address and geoposition data can be displayed on a map and the gallery plugin displays the image data stored in a table clearly in albums. Appointment data entered in a table can be displayed in the calendar or timeline plugin and the Kanban plugin displays workflows with different phases, as is otherwise only known from [project management]({{< relref "pages/industry-solutions/project-management" >}})\ applications.
 
 You can also create your own apps with SeaTable without any programming knowledge. An app consists of pages that you can put together in the integrated [No-Code-App-Builder](https://seatable.io/docs/apps/universelle-app/) using various page types. An app accesses the data in SeaTable and displays it optimally for the user. The advantage: The app design can be used to precisely control which data a user sees, how the data is visualized and how they can interact with the data. This allows workflows to be mapped accurately.
 
 ### In the cloud or on your own servers
 
-As a flexible all-purpose weapon, SeaTable also makes no compromises when it comes to **operating mode**. SeaTable can be conveniently used in the [cloud](https://seatable.com/cloud/) or as a [self-hosted solution](https://seatable.com/on-premises/). Unlike the other web-based Excel competitors, SeaTable is also available as software for your own server. In this way, SeaTable is ideal for all those who are confronted with strict data protection requirements.
+As a flexible all-purpose weapon, SeaTable also makes no compromises when it comes to **operating mode**. SeaTable can be conveniently used in the [cloud]({{< relref "pages/product/seatable-cloud" >}}) or as a [self-hosted solution]({{< relref "pages/product/seatable-server" >}}). Unlike the other web-based Excel competitors, SeaTable is also available as software for your own server. In this way, SeaTable is ideal for all those who are confronted with strict data protection requirements.
 
-The [Free Subscription](https://seatable.com/preise/) is permanently free and sufficient for private use. The paid versions Plus and Enterprise offer extended functions for corporate use, such as user-defined approvals, automations and customizing. The [Dedicated Cloud](https://seatable.com/dedicated/) also has central user authentication and object storage support.
+The [Free Subscription](https://seatable.com/preise/) is permanently free and sufficient for private use. The paid versions Plus and Enterprise offer extended functions for corporate use, such as user-defined approvals, automations and customizing. The [Dedicated Cloud]({{< relref "pages/product/seatable-dedicated" >}}) also has central user authentication and object storage support.
 
 SeaTable follows a similar path to Google Sheets - pleasantly conventional for developers - when it comes to extensions. Extensions such as automations, integrations and functional additions can be developed with manageable effort via API and SDK. Given the young age of the solution, it will be exciting to see what new features will be added in the future.
 

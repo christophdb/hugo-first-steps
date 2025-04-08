@@ -1,18 +1,18 @@
 ---
-title: "Wie Sie mit einem Data Warehouse Ihre Daten nutzbar machen"
-description: "Data Warehouse, Datenbank, Data Lake: Diese Begriffe können verwirrend sein – meinen sie doch alle ein System, das Daten speichert. Der folgende Artikel bringt Licht ins Dunkel und erklärt, was ein Data Warehouse für Vorteile hat und wie Data Warehousing funktioniert."
+title: 'Wie Sie mit einem Data Warehouse Ihre Daten nutzbar machen'
+description: 'Data Warehouse, Datenbank, Data Lake: Diese Begriffe können verwirrend sein – meinen sie doch alle ein System, das Daten speichert. Der folgende Artikel bringt Licht ins Dunkel und erklärt, was ein Data Warehouse für Vorteile hat und wie Data Warehousing funktioniert.'
 date: 2025-03-26
-categories: 
-  - "Allgemein"
+categories:
+    - 'Allgemein'
 tags:
-url: "/de/data-warehouse"
-color: "#34ba9d"
+url: '/de/data-warehouse'
+color: '#34ba9d'
 ---
 
 ## Was ist ein Data Warehouse?
 
-Ein Data Warehouse (auch DWH abgekürzt) ist ein **zentrales Speichersystem**, das große Mengen an Daten aus verschiedenen Quellen zusammenführt, strukturiert und **für Analysezwecke** aufbereitet. Indem es die **Historie** der Daten speichert und visualisiert, können Sie Muster, Trends und Zusammenhänge im Zeitverlauf erkennen. Daher spielt auch die Business Intelligence in Data Warehouses eine wichtige Rolle.  
-  
+Ein Data Warehouse (auch DWH abgekürzt) ist ein **zentrales Speichersystem**, das große Mengen an Daten aus verschiedenen Quellen zusammenführt, strukturiert und **für Analysezwecke** aufbereitet. Indem es die **Historie** der Daten speichert und visualisiert, können Sie Muster, Trends und Zusammenhänge im Zeitverlauf erkennen. Daher spielt auch die Business Intelligence in Data Warehouses eine wichtige Rolle.
+
 Die Analysefunktionen ermöglichen es Ihnen, wertvolle Erkenntnisse zu verschiedenen Geschäftsbereichen aus Ihren Daten abzuleiten, um die **Entscheidungsfindung** zu verbessern. Wenn Sie alle Daten Ihres Unternehmens in Ihr Data Warehouse einfließen lassen, kann man es sogar als **Single Source of Truth** – also vollständigen und verlässlichen Datenbestand – bezeichnen.
 
 ## Was ein Data Warehouse für Vorteile hat
@@ -83,10 +83,10 @@ Nehmen wir an, Sie betreiben einen **Online-Shop** und wollen die Verkäufe, die
 
 Data Warehouse und Datenbank sind zwei verschiedene [Datenmanagementsysteme](https://seatable.com/datenmanagement/). Während sich eine Datenbank meist auf die **Speicherung von Daten** fokussiert, bildet das Data Warehousing System einen längeren Prozess von der Datenbeschaffung über die Datenintegration und -aufbereitung bis hin zur Datenanalyse ab. Dennoch speichern auch Data Warehouses riesige Datenmengen in einer zentralen Datenbank, die das Herz jeder DWH-Lösung darstellt. Ein Datawarehouse dient wiederum als **Grundlage für Analysen und Reporting** im gesamten Unternehmen.
 
-|   | **Data Warehouse** | **Datenbank** |
-| --- | --- | --- |
-| **Zweck / Fokus** | Analysen & Berichte | Datenspeicherung |
-| **Reichweite** | in der Regel unternehmensweit | variabel |
+|                   | **Data Warehouse**            | **Datenbank**    |
+| ----------------- | ----------------------------- | ---------------- |
+| **Zweck / Fokus** | Analysen & Berichte           | Datenspeicherung |
+| **Reichweite**    | in der Regel unternehmensweit | variabel         |
 
 ## Was ist der Unterschied zwischen Data Warehouse und Data Lake?
 
@@ -109,14 +109,14 @@ Ein Data Warehouse in der Cloud hat unter anderem folgende Vorteile:
 
 Im Folgenden sehen Sie die Unterschiede zwischen Cloud und On-Premises im Überblick.
 
-|  | **Cloud** | **On-Premises** |
-| --- | --- | --- |
-| **Bereitstellung** | Setup überall auf der Welt in kurzer Zeit möglich | Hardware-Setup vor Ort kann mehrere Wochen dauern |
-| **Kosten** | Pay-as-you-go-Prinzip, keine zusätzlichen Kosten für Infrastruktur und Personal | hohe Anschaffungs- und Betriebskosten für Infrastruktur und Personal |
-| **Skalierbarkeit** | flexible, automatische Skalierung ohne Limits | manuelle Kapazitätsplanung mit klaren Limits |
-| **Sicherheit** | hohe Verschlüsselung, automatische Backups | volle Kontrolle und Datenhoheit, Sicherheit abhängig von Ihren IT-Prozessen |
-| **Echtzeit-Aktualisierung** | sehr schnell dank In-Memory-Technologie | oft Batch-basiert mit Verzögerungen |
-| **Bedienbarkeit** | oft nutzerfreundlich dank vorgefertigter Elemente, keine IT-Abhängigkeit | oft komplex, IT-Experten müssen die Datenquellen anbinden und das DWH administrieren |
+|                             | **Cloud**                                                                       | **On-Premises**                                                                      |
+| --------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Bereitstellung**          | Setup überall auf der Welt in kurzer Zeit möglich                               | Hardware-Setup vor Ort kann mehrere Wochen dauern                                    |
+| **Kosten**                  | Pay-as-you-go-Prinzip, keine zusätzlichen Kosten für Infrastruktur und Personal | hohe Anschaffungs- und Betriebskosten für Infrastruktur und Personal                 |
+| **Skalierbarkeit**          | flexible, automatische Skalierung ohne Limits                                   | manuelle Kapazitätsplanung mit klaren Limits                                         |
+| **Sicherheit**              | hohe Verschlüsselung, automatische Backups                                      | volle Kontrolle und Datenhoheit, Sicherheit abhängig von Ihren IT-Prozessen          |
+| **Echtzeit-Aktualisierung** | sehr schnell dank In-Memory-Technologie                                         | oft Batch-basiert mit Verzögerungen                                                  |
+| **Bedienbarkeit**           | oft nutzerfreundlich dank vorgefertigter Elemente, keine IT-Abhängigkeit        | oft komplex, IT-Experten müssen die Datenquellen anbinden und das DWH administrieren |
 
 ## SeaTable – das flexible, einfache und kostengünstige Data Warehouse
 
@@ -124,7 +124,7 @@ SeaTable ist eine [No-Code-Plattform](https://seatable.com/), die gegenüber and
 
 Über **Integrationen mit Zapier, Make oder n8n** sowie die **SeaTable API** können Daten aus unzähligen Quellen in SeaTable zusammenfließen. Damit SeaTable alle Daten in strukturierter Form speichern kann, wählen Sie vorab die gewünschten [Datentypen](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). Dies ist dank des **benutzerfreundlichen Baukastenprinzips** ebenso leicht, wie mit dem **integrierten App Builder** [eigene Apps zu erstellen](https://seatable.com/app-erstellen/). Zudem ermöglicht SeaTable die **Zusammenarbeit im Team** und aktualisiert Daten in Echtzeit – Änderungen werden sofort für alle Benutzer sichtbar und in der Versionshistorie vollständig dokumentiert.
 
-Noch dazu haben Sie die Wahl, ob Sie Ihr Datawarehouse [On-Premises](https://seatable.com/on-premises/) oder in der [Cloud](https://seatable.com/cloud/) betreiben möchten. Profitieren Sie von der Skalierbarkeit und dem Komfort der **SeaTable Cloud** oder hosten Sie **SeaTable Server** unter voller Kontrolle und Datenhoheit auf Ihren eigenen Servern. Starten Sie mit der kostenlosen Basis-Version, die Sie jederzeit auf ein [Plus- oder Enterprise-Abo](https://seatable.com/preise/) upgraden können, sobald Sie mehr Funktionen oder Speicherplatz benötigen.
+Noch dazu haben Sie die Wahl, ob Sie Ihr Datawarehouse [On-Premises]({{< relref "pages/product/seatable-server" >}}) oder in der [Cloud]({{< relref "pages/product/seatable-cloud" >}}) betreiben möchten. Profitieren Sie von der Skalierbarkeit und dem Komfort der **SeaTable Cloud** oder hosten Sie **SeaTable Server** unter voller Kontrolle und Datenhoheit auf Ihren eigenen Servern. Starten Sie mit der kostenlosen Basis-Version, die Sie jederzeit auf ein [Plus- oder Enterprise-Abo](https://seatable.com/preise/) upgraden können, sobald Sie mehr Funktionen oder Speicherplatz benötigen.
 
 [Registrieren Sie sich kostenlos](https://seatable.com/registrierung/) und erleben Sie, wie einfach Data Warehousing sein kann.
 
@@ -134,13 +134,19 @@ Noch dazu haben Sie die Wahl, ob Sie Ihr Datawarehouse [On-Premises](https://sea
 
 Was ist ein Data Warehouse?|||
 Eine weitgehend anerkannte Data Warehouse Definition lautet, dass ein DWH vielfältige Daten aus verschiedenen Quellen zu einem einheitlichen Datenbestand zusammenführt, um fundierte Analysen möglich zu machen. Dazu bereitet es die Daten auf und speichert sie strukturiert in einer Datenbank.
+
 ---
+
 Was ist ein Data Lake?|||
 Ein Data Lake ist ebenso wie ein Data Warehouse ein spezielles Speichersystem. Im Vergleich zum Data Warehouse speichert ein Data Lake jedoch unverarbeitete Rohdaten. Die Aufbereitung ist nachgelagert und beginnt erst, wenn Sie die Daten für die Analyse benötigen.
+
 ---
+
 Was ist ein Data Mart?|||
 Ein Data Mart ist ein Teil des Data Warehouses, der für einen bestimmten Anwendungsfall oder Geschäftsbereich vorgesehen ist. Er versorgt eine definierte Nutzergruppe genau mit den Daten, die für sie relevant sind. Dahingegen speichert das Data Warehouse die Daten eines gesamten Unternehmens.
+
 ---
+
 Was bedeutet ETL?|||
 ETL ist die Abkürzung für Extract, Transform, Load. Dies beschreibt die drei Prozessschritte, in denen aus unterschiedlichen Quellen Daten gesammelt, umgewandelt und im Datawarehouse gespeichert werden.
 

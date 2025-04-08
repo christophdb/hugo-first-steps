@@ -1,14 +1,14 @@
 ---
-title: "HRIS - what it is and how it benefits your company"
-description: "Efficient personnel management is practically impossible these days without an HRIS (Human Resources Information System) - at least if your company has reached a certain size. In this article, we take a look at the difference between a human resources information system (HRIS) and a human resources management system (HRMS) and discuss how you can make your HR management more efficient with software that includes an HR database."
+title: 'HRIS - what it is and how it benefits your company'
+description: 'Efficient personnel management is practically impossible these days without an HRIS (Human Resources Information System) - at least if your company has reached a certain size. In this article, we take a look at the difference between a human resources information system (HRIS) and a human resources management system (HRMS) and discuss how you can make your HR management more efficient with software that includes an HR database.'
 date: 2025-03-17
-categories: 
-  - "General"
-tags: 
-  - "Personalverwaltung"
-  - "Toolings & Plugins"
-color: "#f5bdd6"
-url: "/hris"
+categories:
+    - 'General'
+tags:
+    - 'Personalverwaltung'
+    - 'Toolings & Plugins'
+color: '#f5bdd6'
+url: '/hris'
 ---
 
 ## What is an HRIS?
@@ -70,7 +70,7 @@ The following points must be ensured:
 - Traceability of data entry and change history
 - Timely deletion of expired data
 
-In the past, HRIS software was almost always used [on-premises](https://seatable.com/on-premises/), which means that it ran on the company's own technical infrastructure. Nowadays, HR management software is often located in the [cloud](https://seatable.com/cloud/). This has the great advantage that you and your employees can access all data at any time and from anywhere.
+In the past, HRIS software was almost always used [on-premises]({{< relref "pages/product/seatable-server" >}}), which means that it ran on the company's own technical infrastructure. Nowadays, HR management software is often located in the [cloud]({{< relref "pages/product/seatable-cloud" >}}). This has the great advantage that you and your employees can access all data at any time and from anywhere.
 
 ![With an HR database, you and your employees are optimally networked](Mitarbeiterverzeichnis2.jpg)
 
@@ -97,6 +97,7 @@ Lower costs |||
 Digital and automated processes allow you and your employees to work faster, more efficiently and, last but not least, more cost-effectively, as you save valuable working time as well as paper and printing costs. Even if you previously outsourced your personnel accounting to an external service provider, a personnel information system can help you save money with internal processes. On the other hand, an HRIS naturally incurs costs, which often consist of a monthly usage fee per team member. On balance, however, the cost-benefit ratio should be positive.
 
 ---
+
 Perfect overview |||
 
 An HRIS provides you with a well-founded overview of your employee data. You can store all documents and information compactly in digital personnel files. There is usually a comprehensive calendar so that you and your employees are always informed about all absences, vacations and sick notes. This is just as important for staff scheduling. In a good HR management system, statistical evaluations are child's play. Answer questions at a glance, such as: What was the sickness rate in October? How many new hires and departures have there been in the last two years? And what are the expected personnel costs for the coming year?
