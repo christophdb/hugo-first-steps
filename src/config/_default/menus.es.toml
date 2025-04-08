@@ -128,25 +128,25 @@
 [[footer]]
   name = "Guía rápida"
   parent = "Apoyo a"
-  pageRef = "https://seatable.io/kurzanleitung/?lang=auto"
+  url = "https://seatable.io/kurzanleitung/?lang=auto"
   weight = 21
 
 [[footer]]
   name = "Área de ayuda"
   parent = "Apoyo a"
-  pageRef = "https://docs.seatable.io/?lang=auto"
+  url = "https://docs.seatable.io/?lang=auto"
   weight = 22
 
 [[footer]]
   name = "Plantillas"
   parent = "Apoyo a"
-  pageRef = "https://seatable.io/vorlagen/?lang=auto"
+  url = "https://seatable.io/vorlagen/?lang=auto"
   weight = 23
 
 [[footer]]
   name = "Integraciones"
   parent = "Apoyo a"
-  pageRef = "https://seatable.io/integrationen/?lang=auto"
+  url = "https://seatable.io/integrationen/?lang=auto"
   weight = 24
 
 [[footer]]

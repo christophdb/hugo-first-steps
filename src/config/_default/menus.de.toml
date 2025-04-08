@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Funktionen"
-  pageRef = "functions"
+  pageRef = "pages/functions"
   weight = 10
 
 [[main]]
@@ -23,19 +23,19 @@
 [[main]]
   name = "SeaTable Cloud"
   parent = "Produkte"
-  pageRef = "seatable-cloud"
+  pageRef = "pages/product/seatable-cloud"
   weight = 21
 
 [[main]]
   name = "SeaTable Dedicated"
   parent = "Produkte"
-  pageRef = "seatable-dedicated"
+  pageRef = "pages/product/seatable-dedicated"
   weight = 22
 
 [[main]]
   name = "SeaTable Server"
   parent = "Produkte"
-  pageRef = "seatable-server"
+  pageRef = "pages/product/seatable-server"
   weight = 23
 
 [[main]]
@@ -46,42 +46,42 @@
 [[main]]
   name = "Marketing"
   parent = "Branchenlösungen"
-  pageRef = "marketing"
+  pageRef = "pages/industry-solutions/marketing"
   weight = 31
 
 [[main]]
   name = "Projektmanagement"
   parent = "Branchenlösungen"
-  pageRef = "project-management"
+  pageRef = "pages/industry-solutions/project-management"
   weight = 32
 
 [[main]]
   name = "HR"
   parent = "Branchenlösungen"
-  pageRef = "hr"
+  pageRef = "pages/industry-solutions/hr"
   weight = 33
 
 [[main]]
   name = "Öffentlicher Dienst"
   parent = "Branchenlösungen"
-  pageRef = "public-service"
+  pageRef = "pages/industry-solutions/public-service"
   weight = 34
 
 [[main]]
   name = "Softwareentwicklung"
   parent = "Branchenlösungen"
-  pageRef = "software-development"
+  pageRef = "pages/industry-solutions/software-development"
   weight = 35
 
 [[main]]
   name = "Individuell"
   parent = "Branchenlösungen"
-  pageRef = "individual"
+  pageRef = "pages/industry-solutions/individual"
   weight = 36
 
 [[main]]
   name = "Preise"
-  pageRef = "prices"
+  pageRef = "pages/prices"
   weight = 40
 
 [[main]]
@@ -100,25 +100,25 @@
 [[footer]]
   name = "SeaTable Cloud"
   parent = "Produkte"
-  pageRef = "seatable-cloud"
+  pageRef = "pages/product/seatable-cloud"
   weight = 11
 
 [[footer]]
   name = "SeaTable Dedicated"
   parent = "Produkte"
-  pageRef = "seatable-dedicated"
+  pageRef = "pages/product/seatable-dedicated"
   weight = 12
 
 [[footer]]
   name = "SeaTable Server"
   parent = "Produkte"
-  pageRef = "seatable-server"
+  pageRef = "pages/product/seatable-server"
   weight = 13
 
 [[footer]]
   name = "Support"
   parent = "Produkte"
-  pageRef = "support"
+  pageRef = "pages/support"
   weight = 14
 
 [[footer]]
@@ -128,25 +128,25 @@
 [[footer]]
   name = "Kurzanleitung"
   parent = "Unterstützung"
-  pageRef = "quick-guide"
+  url = "https://seatable.io/kurzanleitung/?lang=auto"
   weight = 21
 
 [[footer]]
   name = "Hilfebereich"
   parent = "Unterstützung"
-  pageRef = "help"
+  url = "https://docs.seatable.io/?lang=aut"
   weight = 22
 
 [[footer]]
   name = "Vorlagen"
   parent = "Unterstützung"
-  pageRef = "templates"
+  url = "https://seatable.io/vorlagen/?lang=auto"
   weight = 23
 
 [[footer]]
   name = "Integrationen"
   parent = "Unterstützung"
-  pageRef = "integrations"
+  url = "https://seatable.io/integrationen/?lang=auto"
   weight = 24
 
 [[footer]]
@@ -174,25 +174,25 @@
 [[footer]]
   name = "Über uns"
   parent = "Unternehmen"
-  pageRef = "about"
+  pageRef = "pages/about"
   weight = 31
 
 [[footer]]
   name = "Jobs"
   parent = "Unternehmen"
-  pageRef = "jobs"
+  pageRef = "pages/jobs"
   weight = 32
 
 [[footer]]
   name = "Presse"
   parent = "Unternehmen"
-  pageRef = "press"
+  pageRef = "pages/press"
   weight = 33
 
 [[footer]]
   name = "Kontakt"
   parent = "Unternehmen"
-  pageRef = "contact-us"
+  pageRef = "pages/contact"
   weight = 34
 
 [[footer]]
@@ -206,25 +206,25 @@
 
 [[legal]]
   name = "Impressum"
-  pageRef = "imprint"
+  pageRef = "pages/legal/imprint"
   weight = 10
 
 [[legal]]
   name = "Sicherheit"
-  pageRef = "security"
+  pageRef = "pages/legal/security"
   weight = 20
 
 [[legal]]
   name = "Datenschutz"
-  pageRef = "data-privacy"
+  pageRef = "pages/legal/data-privacy"
   weight = 30
 
 [[legal]]
   name = "Nutzungsbedingungen"
-  pageRef = "terms-of-service"
+  pageRef = "pages/legal/terms-of-service"
   weight = 40
 
 [[legal]]
   name = "EULA"
-  pageRef = "eula"
+  pageRef = "pages/legal/eula"
   weight = 50
