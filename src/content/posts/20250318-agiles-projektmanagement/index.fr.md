@@ -1,5 +1,5 @@
 ---
-title: 'Gestion de projet agile : 10 outils pratiques comparés'.
+title: 'Gestion de projet agile : 10 outils pratiques comparés'
 description: La gestion de projet agile est devenue incontournable dans le monde du travail moderne. Nous vous présentons ici les avantages qu'elle apporte, son fonctionnement et les méthodes les plus importantes. En outre, nous comparons les outils les plus connus pour la gestion de projet agile.'
 date: 2025-03-18
 categories:
