@@ -25,6 +25,16 @@
     {{ end }}
     <link rel="canonical" href="{{ .Permalink }}" />
 
+    {{- if .IsTranslated -}}
+        {{ range .AllTranslations }}
+            <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+        {{- end -}}
+        {{ range first 1 .AllTranslations }}
+            <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+        {{- end -}}
+    {{ end }}
+
+
     <!-- hier kann man noch ganz viel machen: apple-touch-icon etc... -->
     <!-- site verification google, bing, ... -->
     {{ if .Site.Params.Seo.googleSearchConsoleVerificationTag }}
