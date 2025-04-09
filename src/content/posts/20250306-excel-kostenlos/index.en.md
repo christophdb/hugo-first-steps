@@ -6,7 +6,7 @@ categories:
     - 'General'
 tags:
     - 'Tools & Plugins'
-url: 'excel-kostenlos'
+url: '/excel-kostenlos'
 color: '#6d9c70'
 ---
 
@@ -43,7 +43,7 @@ An up-and-coming player among spreadsheets is SeaTable, which as a [no-code data
 
 Not included in the tabular comparison are the two properties **operating mode** and **availability of source code**. We will now make up for this! A matrix covering these two criteria will provide you with a basis for your decision.
 
-![Classification of spreadsheets](Excel_Alternatives_Matrix.jpg)
+![Classification of spreadsheets](Excel_Alternativen_Matrix.jpg)
 
 A comparison of spreadsheets 15 years ago would have shown only **local applications** such as Calc and Apple Numbers in the bottom two quadrants. With the triumph of cloud computing, **browser-based spreadsheets** have gained enormous market share and have increasingly become the leading applications. It is not without reason that Excel is now also available free of charge as a web application of the Microsoft 365 package in addition to the classic desktop version.
 
