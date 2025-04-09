@@ -73,3 +73,10 @@ Aufgabe für Patricia:
 - Tags/categorien für die anderen Sprachen festlegen
 - übersetzung der blogartikel
 - urls der blogartikel anpassen?
+
+button styling primary!, secondary
+button position: right, center, left!
+youtube embed
+dokumentier wie man anker links setzt
+readprogress
+kategorien zu nach bei zeilenumbruch.
