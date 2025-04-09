@@ -1,0 +1,62 @@
+- title: 'High-Tech aus Deutschland? Kein Interesse'
+  year: 2024
+  summary: 'La plataforma innovadora de base de datos BwTable de SeaTable ha despertado gran interés entre las fuerzas armadas. El artículo también muestra que la Bundeswehr está abierta a nuevas tecnologías y ofrece una visión emocionante de la dinámica entre las startups y el sector de defensa.'
+  date: 2024-04-06
+  source: 'zeit.de'
+  link: ''
+
+- title: 'Rheinhessens Gründer von morgen?'
+  year: 2024
+  summary: 'Como parte del proyecto IHK startup @ school, los estudiantes interactúan con empresarios. Pueden hacer preguntas y obtener una visión del mundo de las startups. Christoph Dyllick-Brenzinger proporciona una visión más profunda del emprendimiento.'
+  date: 2024-01-21
+  source: 'www.allgemeine-zeitung.de'
+  link: 'https://www.allgemeine-zeitung.de/lokales/rheinhessen/rheinhessens-gruender-von-morgen-3240084'
+
+- title: 'Tool für Kollaboration'
+  year: 2023
+  summary: 'Cada vez más autoridades están utilizando la solución sin código de SeaTable para diseñar procesos digitales de manera eficiente.'
+  date: 2023-10-31
+  source: 'Kommune21'
+  link: 'https://seatable.io/wp-content/uploads/2023/11/Kommune21.pdf'
+
+- title: 'Agiles Prozessmanagement, No Code und Datensicherheit'
+  year: 2023
+  summary: 'En el podcast IT-Deep-Dive de silicon.de, el fundador de SeaTable Christoph Dyllick-Brenzinger y el capitán Martin Rothe discuten cómo la Bundeswehr implementa procesos internos y proyectos con seguridad utilizando SeaTable.'
+  date: 2023-06-17
+  source: 'Silicon'
+  link: 'https://www.silicon.de/41708553/podcast-agiles-prozessmanagement-no-code-und-datensicherheit'
+
+- title: 'SeaTable 5.0 No-Code Datenbank erhält integrierten App-Builder, neue Plugins …'
+  year: 2023
+  summary: ''
+  date: 2023-07-15
+  source: 'seatable.io'
+  link: 'https://www.allgemeine-zeitung.de/lokales/rheinhessen/rheinhessens-gruender-von-morgen-3240084'
+
+- title: 'Moderne Excel-Alternative SeaTable 4.0 mit komplett neuem Dateimanagement'
+  year: 2023
+  summary: 'La revista iX informa sobre el lanzamiento principal del SeaTable 4.0. Los aspectos destacados incluyen un tipo de columna para firmas digitales, un gestor de archivos integrado y el Universal App Builder (Beta), que ofrece grandes posibilidades para preparar datos para grupos específicos de usuarios.'
+  date: 2023-07-01
+  source: 'iX Magazin'
+  link: 'https://www.heise.de/news/Moderne-Excel-Alternative-SeaTable-4-0-mit-komplett-neuem-Dateimanagement-9204107.html'
+
+- title: 'SeaTable: Zwei Brüder entwickeln „Excel der Zukunft“'
+  year: 2023
+  summary: '"Hace décadas, las empresas tuvieron que adaptarse a la digitalización avanzada. A menudo se encontraron con soluciones estáticas diseñadas solo para casos específicos o áreas definidas estrechamente. Esto puede llevar a flujos laborales ineficientes, especialmente cuando cada departamento utiliza soluciones individuales. Aquí es donde SeaTable busca intervenir."'
+  date: 2023-06-26
+  source: 'Trending Topics'
+  link: 'https://www.trendingtopics.eu/seatable-zwei-brueder-entwickeln-excel-der-zukunft/'
+
+- title: 'How SeaTable navigates the China backlash as it goes West'
+  year: 2023
+  summary: 'Rita Liao de TechCrunch explora la empresa conjunta germano-china de SeaTable. El artículo profundiza en cómo se formó la asociación, cómo funcionan estas colaboraciones, consideraciones clave y reacciones de clientes europeos existentes y potenciales.'
+  date: 2023-05-25
+  source: 'TechCrunch'
+  link: 'https://techcrunch.com/2023/05/26/seatable-seafile-profile/'
+
+- title: 'Wie ein Mainzer IT-Start-up mit der Bundeswehr kooperiert'
+  year: 2023
+  summary: 'En una entrevista con Allgemeine Zeitung, el capitán Martin Rothe de la escuela IT de la Bundeswehr y el fundador de SeaTable Christoph Dyllick-Brenzinger explican cómo funciona la colaboración entre la Bundeswehr y SeaTable y qué es esencial para un proyecto como este.'
+  date: 2023-05-18
+  source: 'Allgemeine Zeitung'
+  link: 'https://www.allgemeine-zeitung.de/lokales/rheinhessen/wie-ein-mainzer-it-start-up-mit-der-bundeswehr-kooperiert-2483712'

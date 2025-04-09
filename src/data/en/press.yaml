@@ -1,0 +1,62 @@
+- title: 'High-Tech aus Deutschland? Kein Interesse'
+  year: 2024
+  summary: "SeaTable's innovative database platform BwTable has attracted great interest from the armed forces. The article also shows that the Bundeswehr is open to new technologies and offers an exciting insight into the dynamics between start-ups and the defense sector."
+  date: 2024-04-06
+  source: 'zeit.de'
+  link: ''
+
+- title: 'Rheinhessens Gründer von morgen?'
+  year: 2024
+  summary: 'As part of the IHK project startup @ school, students interact with entrepreneurs. They can ask questions and gain insight into the start-up scene. Christoph Dyllick-Brenzinger provides deeper insights into entrepreneurship.'
+  date: 2024-01-21
+  source: 'www.allgemeine-zeitung.de'
+  link: 'https://www.allgemeine-zeitung.de/lokales/rheinhessen/rheinhessens-gruender-von-morgen-3240084'
+
+- title: 'Tool für Kollaboration'
+  year: 2023
+  summary: "More and more authorities are using SeaTable's no-code solution to efficiently design digital processes."
+  date: 2023-10-31
+  source: 'Kommune21'
+  link: 'https://seatable.io/wp-content/uploads/2023/11/Kommune21.pdf'
+
+- title: 'Agiles Prozessmanagement, No Code und Datensicherheit'
+  year: 2023
+  summary: 'In the IT-Deep-Dive podcast by silicon.de, SeaTable founder Christoph Dyllick-Brenzinger and Bundeswehr captain Martin Rothe discuss how the Bundeswehr securely implements internal processes and projects with SeaTable.'
+  date: 2023-06-17
+  source: 'Silicon'
+  link: 'https://www.silicon.de/41708553/podcast-agiles-prozessmanagement-no-code-und-datensicherheit'
+
+- title: 'SeaTable 5.0 No-Code Datenbank erhält integrierten App-Builder, neue Plugins …'
+  year: 2023
+  summary: ''
+  date: 2023-07-15
+  source: 'seatable.io'
+  link: 'https://www.allgemeine-zeitung.de/lokales/rheinhessen/rheinhessens-gruender-von-morgen-3240084'
+
+- title: 'Moderne Excel-Alternative SeaTable 4.0 mit komplett neuem Dateimanagement'
+  year: 2023
+  summary: "The iX magazine reports on SeaTable's major release 4.0. Highlights of the new version include a column type for digital signatures, an integrated file manager for easy file management, and the Universal App Builder (Beta), which offers great possibilities for data preparation for individual user groups."
+  date: 2023-07-01
+  source: 'iX Magazin'
+  link: 'https://www.heise.de/news/Moderne-Excel-Alternative-SeaTable-4-0-mit-komplett-neuem-Dateimanagement-9204107.html'
+
+- title: 'SeaTable: Zwei Brüder entwickeln „Excel der Zukunft“'
+  year: 2023
+  summary: 'Decades ago, companies had to adapt to advancing digitization. They often encountered established but static software solutions designed only for specific use cases or narrowly defined areas. This can lead to inefficient workflows, especially when each department relies on individual software solutions. SeaTable aims to address this issue.'
+  date: 2023-06-26
+  source: 'Trending Topics'
+  link: 'https://www.trendingtopics.eu/seatable-zwei-brueder-entwickeln-excel-der-zukunft/'
+
+- title: 'How SeaTable navigates the China backlash as it goes West'
+  year: 2023
+  summary: "Rita Liao from TechCrunch explores SeaTable's German-Chinese joint venture. The article delves into how the partnership was formed, how such collaborations work, key considerations, and reactions from existing and potential European customers."
+  date: 2023-05-25
+  source: 'TechCrunch'
+  link: 'https://techcrunch.com/2023/05/26/seatable-seafile-profile/'
+
+- title: 'Wie ein Mainzer IT-Start-up mit der Bundeswehr kooperiert'
+  year: 2023
+  summary: 'In an interview with Allgemeine Zeitung, Bundeswehr captain Martin Rothe from its IT school and SeaTable founder Christoph Dyllick-Brenzinger explain how the collaboration between Bundeswehr and SeaTable works and what is essential for such a project.'
+  date: 2023-05-18
+  source: 'Allgemeine Zeitung'
+  link: 'https://www.allgemeine-zeitung.de/lokales/rheinhessen/wie-ein-mainzer-it-start-up-mit-der-bundeswehr-kooperiert-2483712'
