@@ -1,33 +1,35 @@
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     {{ with .Site.Language.Params.htmlCode | default .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     {{ if .IsHome -}}
-    <title>{{ .Site.Title | emojify }}</title>
-    <meta name="title" content="{{ .Site.Title | emojify }}" />
+        <title>{{ .Site.Title | emojify }}</title>
+        <meta name="title" content="{{ .Site.Title | emojify }}" />
     {{- else -}}
-    <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
-    <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}" />
+        <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
+        <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}" />
     {{- end }}
     {{/* Metadata */}}
     {{ with (.Params.Summary | default .Params.Description) | default .Site.Params.description -}}
-    <meta name="description" content="{{ . }}" />
+        <meta name="description" content="{{ . }}" />
     {{- end }}
     {{ with  .Params.Tags | default .Site.Params.keywords -}}
-    <meta name="keywords" content="{{ range . }}{{ . }}, {{ end -}}" />
+        <meta name="keywords" content="{{ range . }}{{ . }},{{ end -}}" />
     {{- end }}
     {{ with .Site.Params.robots }}
-    <meta name="robots" content="{{ . }}" />
+        <meta name="robots" content="{{ . }}" />
     {{ end }}
     {{ with .Params.robots }}
-    <meta name="robots" content="{{ . }}" />
+        <meta name="robots" content="{{ . }}" />
     {{ end }}
     <link rel="canonical" href="{{ .Permalink }}" />
 
     <!-- hier kann man noch ganz viel machen: apple-touch-icon etc... -->
     <!-- site verification google, bing, ... -->
-    {{ if .Site.Params.Seo.googleSearchConsoleVerificationTag }}<meta name="google-site-verification" content="{{ .Site.Params.Seo.googleSearchConsoleVerificationTag }}" />{{ end }}
+    {{ if .Site.Params.Seo.googleSearchConsoleVerificationTag }}
+        <meta name="google-site-verification" content="{{ .Site.Params.Seo.googleSearchConsoleVerificationTag }}" />
+    {{ end }}
     <!-- social ... -->
 
     {{ partialCached "head/css.html" . }}
