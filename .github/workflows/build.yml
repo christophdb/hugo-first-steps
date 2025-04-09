@@ -4,6 +4,9 @@ on:
     push:
         branches:
             - main
+    pull_request:
+        branches:
+            - main
 
 env:
     GO_VERSION: 1.24.1
@@ -13,6 +16,7 @@ jobs:
     create-archive:
         name: Create archive
         runs-on: ubuntu-22.04
+        if: github.ref == 'refs/heads/main'
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
@@ -56,6 +60,7 @@ jobs:
             - create-archive
             - check-links
         runs-on: ubuntu-22.04
+        if: github.ref == 'refs/heads/main'
         steps:
             - name: Download artifact
               uses: actions/download-artifact@v4
