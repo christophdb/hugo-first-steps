@@ -1,0 +1,37 @@
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <p class="font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="gradient mt-1 text-5xl font-bold leading-narrow text-seatable-blue">{{ .title }}</h2>
+            <p class="mt-12 text-xl leading-normal">{{ .text | markdownify }}</p>
+        </div>
+
+        <div class="mx-auto mt-14 grid max-w-2xl grid-cols-2 gap-4 text-left">
+            {{ range .items }}
+                <div class="border-1 flex flex-col rounded-xl border border-gray-800 bg-[#ece5e2] p-6 shadow-lg">
+                    <h3 class="text-2xl font-bold">{{ .headline | markdownify }}</h3>
+                    <p class="mb-2 mt-2 text-base leading-tight">{{ .text | safeHTML }}</p>
+                </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <div class="mx-auto mt-24 max-w-3xl gap-4 text-center">
+        <h3 class="gradient text-3xl">Wer schon über uns berichtet hat...</h3>
+        <img class="mt-8" src="/images/Logo_PR.png" alt="Logo PR" />
+        {{ range .buttons }}
+            {{ $link := page.GetPage .link }}
+
+            {{ if not $link }}
+                {{ errorf "[hero-1] Page %s does not exist!" .link }}
+            {{ end }}
+
+            {{ if eq .style "primary" | default "" }}
+                <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ $link.RelPermalink }}">{{ .label }}</a>
+            {{ else }}
+                <a class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-xl font-bold text-gray-800" href="{{ $link.RelPermalink }}">{{ .label }}</a>
+            {{ end }}
+        {{ end }}
+    </div>
+</section>

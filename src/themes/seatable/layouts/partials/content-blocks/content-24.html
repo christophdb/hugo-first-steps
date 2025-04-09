@@ -1,0 +1,54 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  </code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+<section class="padding curved bg-seatable-blue">
+    <section id="blau" class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <h2 class="gradient mt-1 text-4xl font-bold text-white">{{ .title | markdownify }}</h2>
+        </div>
+
+        <div class="mx-auto mt-14 flex max-w-3xl flex-col gap-8">
+            {{ $press := index site.Data site.Language.Lang "press" }}
+            {{/* Create a slice of unique years */}}
+            {{ $years := slice }}
+            {{ range $press }}
+                {{ $years = $years | append .year | uniq }}
+            {{ end }}
+            {{/* Sort years in descending order */}}
+            {{ $years = sort $years "value" "desc" }}
+
+            {{ range $year := $years }}
+                <div class="year-group">
+                    <h2 class="gradient mb-6 border-b pb-2 text-2xl font-bold">{{ $year }}</h2>
+                    <div class="flex flex-col gap-8">
+                        {{/* Filter and sort articles for this year */}}
+                        {{ $articles := where $press "year" $year }}
+                        {{ $articles = sort $articles "date" "desc" }}
+
+                        {{ range $articles }}
+                            <div class="flex flex-col gap-2">
+                                <h3 class="text-xl font-bold text-white">{{ .title }}</h3>
+                                <div class="flex items-center gap-2 text-sm text-gray-500">
+                                    <span>{{ .date | time.Format "2 January 2006" }}</span>
+                                    <span>•</span>
+                                    <span>{{ .source }}</span>
+                                </div>
+                                <p class="text-gray-400">{{ .summary }}</p>
+                                <a href="{{ .link }}" class="text-blue-600 hover:underline" target="_blank">Read more →</a>
+                            </div>
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </section>
+</section>
