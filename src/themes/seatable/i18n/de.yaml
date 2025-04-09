@@ -20,6 +20,14 @@ registration:
     email_invalid: 'Diese E-Mail Addresse ist unvollständig'
     email_required: 'E-Mail ist ein Pflichtfeld'
 
+contact:
+    first_name: 'Vorname'
+    last_name: 'Nachname'
+    company: 'Firma'
+    email: 'E-Mail'
+    reason: 'Grund der Anfrage'
+    message: 'Ihre Nachricht'
+    submit: 'Nachricht schicken'
 
 newsletter:
     submit_text: 'Abonnieren'

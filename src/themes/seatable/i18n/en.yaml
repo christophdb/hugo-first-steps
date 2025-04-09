@@ -1,4 +1,3 @@
-
 navigation:
     login: 'Login'
     registration: 'Registration'
@@ -20,6 +19,15 @@ registration:
     email_placeholder: 'Enter your e-mail address...'
     email_invalid: 'This e-mail address seems to be incomplete'
     email_required: 'E-mail is required'
+
+contact:
+    first_name: 'First name'
+    last_name: 'Last name'
+    company: 'Company'
+    email: 'Email'
+    reason: 'Reason for the request'
+    message: 'Your message'
+    submit: 'Send message'
 
 newsletter:
     submit_text: 'Subscribe'
