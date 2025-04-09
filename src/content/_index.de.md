@@ -11,10 +11,11 @@ sections:
   description: Intuitively design custom databases, workflows and apps - easily.<br/>Our no-code solution combines the simplicity of spreadsheets with the power of no-code databases and no-code app builders and can also be used as a low-code platform.
   buttons:
     - label: Jetzt loslegen
-      link: "#"
+      link: "pages/registration"
       style: "primary"
     - label: Funktionen kennenlernen
-      link: "#"
+      link: "pages/functions"
+  image: "/images/projektmanagement-mit-seatable.gif"
 
 - name: content-4
   weight: 2

@@ -1,13 +1,13 @@
 ---
-title: "Cloudvox SRL: How SeaTable makes complex data accessible"
-description: "Before introducing SeaTable, the IT company Cloudvox SRL used Excel and various other systems. It turned out that a central point for data collection was missing - a place where data could not only be stored but also made accessible to others and at the same time serve as a backend for its own tools."
+title: 'Cloudvox SRL: How SeaTable makes complex data accessible'
+description: 'Before introducing SeaTable, the IT company Cloudvox SRL used Excel and various other systems. It turned out that a central point for data collection was missing - a place where data could not only be stored but also made accessible to others and at the same time serve as a backend for its own tools.'
 date: 2025-03-21
 categories: 
   - "General"
   - "Customer Story"
 tags: 
-  - "Digitale Transformation"
-  - "Integration & Automatisierung"
+  - "Digital transformation"
+  - "Integration & Automation"
 color: "#faeebf"
 url: "/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht"
 ---
@@ -30,7 +30,7 @@ The decision in favor of SeaTable was based on several key factors:
 - Support for webhooks and scripts
 - Easy integration of n8n
 
-The implementation of the [on-premises variant](https://seatable.com/on-premises/) of SeaTable also went smoothly, or in Cristian Livadaru's words: "SeaTable + Docker = instant love". A decisive criterion for the one-man entrepreneur.
+The implementation of the [on-premises variant]({{< relref "pages/product/seatable-server" >}}) of SeaTable also went smoothly, or in Cristian Livadaru's words: "SeaTable + Docker = instant love". A decisive criterion for the one-man entrepreneur.
 
 ![](Cloudvox_n8n-Integration.jpg)
 

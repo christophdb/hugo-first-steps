@@ -1,15 +1,15 @@
 ---
-title: "Erfolgreiche Digitalisierung der Auftragsverwaltung mit SeaTable – ein Use Case von éolane"
-description: "Summary missing"
+title: "Successful digitalization of order management with SeaTable - a use case from éolane"
+description: "French electronics manufacturer éolane was looking for a GDPR-compliant solution for their increasingly complex order management. They found SeaTable."
 date: 2025-04-04
 categories: 
   - "Customer Story"
   - "No Code / Low Code"
 tags: 
-  - "Datenmanagement & Visualisierung"
-  - "Digitale Transformation"
-  - "Integration & Automatisierung"
-  - "Low-Code / No-Code"
+  - "Data management & visualization"
+  - "Digital transformation"
+  - "Integration & automation"
+  - "Low code / no code"
 color: "#469361"
 url: "/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane"
 ---

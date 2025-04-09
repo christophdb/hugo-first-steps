@@ -1,6 +1,6 @@
 ---
-title: "Numérisation réussie de la gestion des commandes avec SeaTable - un cas d'utilisation d'éolane"
-description: "Résumé manquant"
+title: "Réussir la numérisation de la gestion des commandes avec SeaTable - un cas d'utilisation d'éolane"
+description : "Résumé manquant"
 date: 2025-04-04
 categories: 
   - "Témoignage client"
@@ -11,7 +11,7 @@ tags:
   - "Intégration & automatisation"
   - "Low-Code / No-Code"
 color: "#469361"
-url: "/fr/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane"
+url: "/fr/succes-de-la-numerisation-de-la-gestion-des-ordres-avec-un-seatable-usage-de-eolane"
 ---
 
 ## éolane - leader de la fabrication électronique, à la recherche d'une gestion plus efficace des données

@@ -1,12 +1,12 @@
 ---
-title: "Cloud Computing: Wie Sie Ihre IT kostengünstig skalieren"
-description: "Die Digitalisierung der Arbeitswelt schreitet rasant fort und Cloud Computing spielt dabei eine zentrale Rolle. Doch was bedeutet Cloud Computing genau und wie kann es Ihr Unternehmen voranbringen? In diesem Artikel erfahren Sie alles, was Sie über Cloud-Technologie wissen müssen."
-categories: 
-  - "Allgemein"
-tags: 
+title: 'Cloud Computing: Wie Sie Ihre IT kostengünstig skalieren'
+description: 'Die Digitalisierung der Arbeitswelt schreitet rasant fort und Cloud Computing spielt dabei eine zentrale Rolle. Doch was bedeutet Cloud Computing genau und wie kann es Ihr Unternehmen voranbringen? In diesem Artikel erfahren Sie alles, was Sie über Cloud-Technologie wissen müssen.'
+categories:
+    - 'Allgemein'
+tags:
 date: 2025-04-01
-color: "#c5a6e9"
-url: "/de/cloud-computing"
+color: '#c5a6e9'
+url: '/de/cloud-computing'
 ---
 
 ## Was ist Cloud Computing?
@@ -36,16 +36,24 @@ Nachdem wir das Cloud Computing einfach erklärt haben, blicken wir auf die Vort
 
 Kosteneffizienz und Komfort|||
 Wenn Sie Cloud Services in Anspruch nehmen, sparen Sie sich hohe Investitionen in eigene Server und zahlen nur für die Ressourcen, die Sie tatsächlich nutzen (Pay-as-you-go-Prinzip). Da Sie sich kaum noch um lokale Infrastruktur kümmern müssen, haben Ihre IT-Mitarbeiter mehr Zeit für wichtigere Themen.
+
 ---
+
 Schnelle Bereitstellung|||
 Beim Cloud Computing können Sie in wenigen Minuten die notwendigen Komponenten freischalten, anstatt wochenlang auf bestellte Hardware warten, Ihr System konfigurieren und Software installieren zu müssen.
+
 ---
+
 Unabhängigkeit von Orten und Geräten|||
 Ihre Mitarbeiter können jederzeit und von überall auf ihre Daten und Anwendungen in der Cloud zugreifen. So entsteht auch kein Datenverlust durch lokale Speicherung, wenn doch mal ein Endgerät kaputt oder verloren geht.
+
 ---
+
 Aktualität und Produktivität|||
 In einer Cloud sehen alle Benutzer die aktuelle Version ihrer gespeicherten Daten und Dokumente. Änderungen werden in Echtzeit synchronisiert, was die Zusammenarbeit erheblich verbessert.
+
 ---
+
 Elastizität und Skalierbarkeit|||
 Passen Sie Ihre Cloud-Infrastruktur jederzeit flexibel an Ihre Bedürfnisse und Datenmengen an. Cloud Computing erlaubt es Ihrem Unternehmen zu wachsen, ohne dass die IT-Infrastruktur zum Flaschenhals wird.
 
@@ -74,7 +82,7 @@ Im Folgenden stellen wir Ihnen drei weitverbreitete Cloud Computing Dienste vor:
 
 ### Was ist SaaS?
 
-Bei SaaS (Software as a Service) handelt es sich um **cloudbasierte Software-Anwendungen** wie etwa CRM-Systeme oder [Projektmanagement-Tools](/de/projektmanagement-tools/). SaaS in Cloud Computing heißt, dass Sie jederzeit und von überall, zum Beispiel über einen Webbrowser, die gewünschte Software in der Cloud nutzen können, ohne sie lokal auf einem Gerät installieren zu müssen. Der SaaS-Anbieter hostet die Software auf einem Remote-Server, kümmert sich aber auch um Backups, Updates und Wartungsarbeiten. 
+Bei SaaS (Software as a Service) handelt es sich um **cloudbasierte Software-Anwendungen** wie etwa CRM-Systeme oder [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}). SaaS in Cloud Computing heißt, dass Sie jederzeit und von überall, zum Beispiel über einen Webbrowser, die gewünschte Software in der Cloud nutzen können, ohne sie lokal auf einem Gerät installieren zu müssen. Der SaaS-Anbieter hostet die Software auf einem Remote-Server, kümmert sich aber auch um Backups, Updates und Wartungsarbeiten. 
 
 ### Was ist PaaS?
 
@@ -84,14 +92,13 @@ Unter Platform as a Service (PaaS) versteht man eine **cloudbasierte Plattform z
 
 Infrastructure as a Service (IaaS) bedeutet, dass Sie Ihre gewünschte **IT-Infrastruktur**, zum Beispiel Server, Netzwerke, Datenbanken und Betriebssysteme, **in einem externen Rechenzentrum mieten und über die Cloud darauf zugreifen**. Die Abrechnung erfolgt nutzungsabhängig über den Cloud Computing Anbieter. Dadurch werden hohe Investitionen in Ihre eigene Infrastruktur überflüssig.
 
-|   | **IaaS** | **PaaS** | **SaaS** |
-| --- | --- | --- | --- |
-| **Art des Service** | Infrastruktur | Entwicklungsplattform | Software |
-| **Zielgruppe** | Systemadministratoren | Software-Entwickler | Nutzer |
-| **Beispiele** | Server, Netzwerke, Datenbanken | App-Entwicklung, DevOps | CRM-Systeme, Projektmanagement-Tools, HR-Software |
+|                     | **IaaS**                       | **PaaS**                | **SaaS**                                          |
+| ------------------- | ------------------------------ | ----------------------- | ------------------------------------------------- |
+| **Art des Service** | Infrastruktur                  | Entwicklungsplattform   | Software                                          |
+| **Zielgruppe**      | Systemadministratoren          | Software-Entwickler     | Nutzer                                            |
+| **Beispiele**       | Server, Netzwerke, Datenbanken | App-Entwicklung, DevOps | CRM-Systeme, Projektmanagement-Tools, HR-Software |
 
-
-![Für eine Private Cloud benötigen Sie eigene Infrastruktur](Fuer-eine-Private-Cloud-benoetigen-Sie-eigene-Infrastruktur.jpg "Für eine Private Cloud benötigen Sie eigene Infrastruktur.")
+![Für eine Private Cloud benötigen Sie eigene Infrastruktur](Fuer-eine-Private-Cloud-benoetigen-Sie-eigene-Infrastruktur.jpg 'Für eine Private Cloud benötigen Sie eigene Infrastruktur.')
 
 ## Welche Cloud Computing Modelle gibt es?
 
@@ -103,12 +110,12 @@ Es gibt verschiedene Cloud Computing Modelle, die sich nach der **Bereitstellung
 
 Der Hauptunterschied dieser Cloud Computing Modelle besteht darin, inwiefern Sie **selbst für die IT-Ressourcen sorgen** möchten, die Ihr Unternehmen benötigt. Je mehr Infrastruktur Sie besitzen, desto mehr Datenhoheit und Kontrolle haben Sie, aber desto höher sind auch Ihr Aufwand und Ihre Kosten.
 
-|   | **Public Cloud** | **Hybrid Cloud** | **Private Cloud** |
-| --- | --- | --- | --- |
-| **Zugänglichkeit** | öffentlich geteilte IT-Ressourcen | teils eigene, teils öffentliche IT-Ressourcen | eigene, private IT-Ressourcen |
-| **Skalierbarkeit** | sehr schnell und flexibel | flexibel | nur mit Verzögerung erweiterbar |
-| **Datenhoheit** | hohe Abhängigkeit vom Cloud-Anbieter | mittlere Abhängigkeit vom Cloud-Anbieter | komplette Unabhängigkeit und Datenhoheit |
-| **Aufwand und Kosten** | niedrig, keine eigene Infrastruktur nötig, Pay-as-you-go-Prinzip | mäßig, eigene Basis-Infrastruktur, bei Bedarf sind weitere Ressourcen zubuchbar | hohe Kosten für eigene Server, Infrastruktur, Strom und IT-Personal |
+|                                            | **Public Cloud**                                                                 | **Hybrid Cloud**                                                                  | **Private Cloud**                                                                            |
+| ------------------------------------------ | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Zugänglichkeit**                         | öffentlich geteilte IT-Ressourcen                                                | teils eigene, teils öffentliche IT-Ressourcen                                     | eigene, private IT-Ressourcen                                                                |
+| **Skalierbarkeit**                         | sehr schnell und flexibel                                                        | flexibel                                                                          | nur mit Verzögerung erweiterbar                                                              |
+| **Datenhoheit**                            | hohe Abhängigkeit vom Cloud-Anbieter                                             | mittlere Abhängigkeit vom Cloud-Anbieter                                          | komplette Unabhängigkeit und Datenhoheit                                                     |
+| **Aufwand und Kosten**                     | niedrig, keine eigene Infrastruktur nötig, Pay-as-you-go-Prinzip                 | mäßig, eigene Basis-Infrastruktur, bei Bedarf sind weitere Ressourcen zubuchbar   | hohe Kosten für eigene Server, Infrastruktur, Strom und IT-Personal                          |
 | **Beispiele für Zielgruppen und Branchen** | Start-ups, expandierende Unternehmen, Branchen mit hohen saisonalen Schwankungen | Unternehmen, die sensible Daten privat halten, aber dennoch flexibel sein möchten | Behörden, Banken, Forschungseinrichtungen, Unternehmen, die mit hochsensiblen Daten arbeiten |
 
 ## Aspekte der Cloud-Sicherheit
@@ -134,13 +141,13 @@ Bevor Sie von lokalen Servern auf die Cloud umsteigen, sollten Sie eine durchdac
 
 Ein bisher wenig bekannter, aber sehr preiswerter Cloud Service ist die [No-Code-Datenbank SeaTable](https://seatable.com/), in der Sie Ihre Daten **DSGVO-konform** und unter höchsten Sicherheitsvorkehrungen **in deutschen Rechenzentren** speichern können. Wählen Sie zwischen
 
-- [SeaTable Cloud](/de/cloud/) als Public Cloud
-- [SeaTable Server](/de/on-premises/) für Ihre Private Cloud
-- [SeaTable Dedicated](/de/dedicated/) als Hybrid Cloud
+- [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) als Public Cloud
+- [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) für Ihre Private Cloud
+- [SeaTable Dedicated]({{< relref "pages/product/seatable-dedicated" >}}) als Hybrid Cloud
 
 Über die **Datenbank-Infrastruktur** hinaus bietet SeaTable eine **intuitive Entwicklungsplattform**, auf der Sie auch ohne Programmierkenntnisse spezifische **Software-Lösungen** für Ihr Unternehmen entwerfen und zur Nutzung bereitstellen können. Auf diese Weise vereint der Cloud Service geschickt IaaS (Infrastructure as a Service), PaaS (Platform as a Service) und SaaS (Software as a Service) miteinander.
 
-[Registrieren Sie sich einfach](/de/registrierung/) mit Ihrer E-Mail-Adresse, starten Sie kostenlos und skalieren Sie je nach Bedarf, sobald Sie mehr Speicherplatz, Benutzerkonten oder Funktionen nutzen möchten.
+[Registrieren Sie sich einfach]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse, starten Sie kostenlos und skalieren Sie je nach Bedarf, sobald Sie mehr Speicherplatz, Benutzerkonten oder Funktionen nutzen möchten.
 
 ## Fazit: Cloud Computing ist die Zukunft
 
@@ -154,10 +161,14 @@ Cloud Computing bietet Ihnen eine kostengünstige, komfortable und sichere Mögl
 
 Was ist die Cloud?|||
 Die Cloud dient als **Sinnbild für ein umfangreiches Netzwerk aus Remote-Servern**, die über die ganze Welt verteilt und miteinander verbunden sind. Das bekannteste Beispiel für eine Cloud ist das Internet. 
+
 ---
+
 Was versteht man unter Cloud Computing?|||
 Cloud Computing (einfach erklärt) bezeichnet die **Bereitstellung von IT-Ressourcen über das Internet**. Anstatt Programme und Daten lokal auf Ihrem Computer oder eigenen Servern zu speichern, nutzen Sie die **Rechenzentren von Cloud-Anbietern**. Diese stellen Ihnen auf Abruf so viel Speicherplatz, Rechenleistung oder Software zur Verfügung, wie Sie möchten.
+
 ---
+
 Welche Arten von Cloud Computing gibt es?|||
 Die Arten von Cloud Computing teilen sich auf in Cloud Computing Dienste und Cloud Computing Modelle: Die meistgenutzten Cloud Services sind **IaaS** (Infrastructure as a Service), **PaaS** (Platform as a Service) und **SaaS** (Software as a Service). Bei den Modellen unterscheidet man üblicherweise zwischen **Public Cloud**, **Private Cloud** und **Hybrid Cloud**.
 

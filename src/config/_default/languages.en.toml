@@ -4,7 +4,6 @@ languageName = "English"
 weight = 1
 title = "SeaTable"
 
-
 [params]
   displayName = "EN"
   isoCode = "en"

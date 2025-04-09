@@ -1,0 +1,236 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier (relative path below content folder) of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+name = "Funciones"
+pageRef = "pages/functions"
+weight = 10
+
+[[main]]
+name = "Productos"
+pageRef = "#0"
+weight = 20
+
+[[main]]
+name = "Visión general"
+parent = "Productos"
+pageRef = "pages/product/overview"
+weight = 21
+
+[[main]]
+name = "Nube SeaTable"
+parent = "Productos"
+pageRef = "pages/product/seatable-cloud"
+weight = 22
+
+[[main]]
+name = "SeaTable Dedicado"
+parent = "Productos"
+pageRef = "pages/product/seatable-dedicated"
+weight = 23
+
+[[main]]
+name = "Servidor SeaTable"
+parent = "Productos"
+pageRef = "pages/product/seatable-server"
+weight = 24
+
+[[main]]
+name = "Soluciones sectoriales"
+pageRef = "#0"
+weight = 30
+
+[[main]]
+name = "Marketing"
+parent = "Soluciones sectoriales"
+pageRef = "pages/industry-solutions/marketing"
+weight = 31
+
+[[main]]
+name = "Gestión de proyectos"
+parent = "Soluciones sectoriales"
+pageRef = "pages/industry-solutions/project-management"
+weight = 32
+
+[[main]]
+name = "Recursos Humanos"
+parent = "Soluciones sectoriales"
+pageRef = "pages/industry-solutions/hr"
+weight = 33
+
+[[main]]
+name = "Servicio público"
+parent = "Soluciones sectoriales"
+pageRef = "pages/industry-solutions/public-service"
+weight = 34
+
+[[main]]
+name = "Desarrollo de software"
+parent = "Soluciones sectoriales"
+pageRef = "pages/industry-solutions/software-development"
+weight = 35
+
+[[main]]
+name = "Personalizado"
+parent = "Soluciones sectoriales"
+pageRef = "pages/industry-solutions/individual"
+weight = 36
+
+[[main]]
+name = "Precios"
+pageRef = "pages/prices"
+weight = 40
+
+[[main]]
+name = "Blog"
+pageRef = "posts"
+weight = 50
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+name = "Productos"
+weight = 10
+
+[[footer]]
+name = "Nube SeaTable"
+parent = "Productos"
+pageRef = "pages/product/seatable-cloud"
+weight = 11
+
+[[footer]]
+name = "SeaTable Dedicated"
+parent = "Productos"
+pageRef = "pages/product/seatable-dedicated"
+weight = 12
+
+[[footer]]
+name = "SeaTable Server"
+parent = "Productos"
+pageRef = "pages/product/seatable-server"
+weight = 13
+
+[[footer]]
+name = "Support"
+parent = "Productos"
+pageRef = "pages/support"
+weight = 14
+
+[[footer]]
+name = "Apoyo a"
+weight = 20
+
+[[footer]]
+name = "Guía rápida"
+parent = "Apoyo a"
+url = "https://seatable.io/kurzanleitung/?lang=auto"
+weight = 21
+
+[[footer]]
+name = "Área de ayuda"
+parent = "Apoyo a"
+url = "https://docs.seatable.io/?lang=auto"
+weight = 22
+
+[[footer]]
+name = "Plantillas"
+parent = "Apoyo a"
+url = "https://seatable.io/vorlagen/?lang=auto"
+weight = 23
+
+[[footer]]
+name = "Integraciones"
+parent = "Apoyo a"
+url = "https://seatable.io/integrationen/?lang=auto"
+weight = 24
+
+[[footer]]
+name = "Foro"
+parent = "Apoyo a"
+url = "https://forum.seatable.io"
+weight = 25
+
+[[footer]]
+name = "API para desarrolladores"
+parent = "Apoyo a"
+url = "https://api.seatable.io"
+weight = 26
+
+[[footer]]
+name = "Estado"
+parent = "Apoyo a"
+url = "https://status.seatable.io"
+weight = 27
+
+[[footer]]
+name = "La empresa"
+weight = 30
+
+[[footer]]
+name = "Quiénes somos"
+parent = "La empresa"
+pageRef = "pages/about"
+weight = 31
+
+[[footer]]
+name = "Empleo"
+parent = "La empresa"
+pageRef = "pages/jobs"
+weight = 32
+
+[[footer]]
+name = "Pulse"
+parent = "La empresa"
+pageRef = "pages/press"
+weight = 33
+
+[[footer]]
+name = "Contacte con"
+parent = "La empresa"
+pageRef = "pages/contact"
+weight = 34
+
+[[footer]]
+name = "Blog"
+parent = "La empresa"
+pageRef = "posts"
+weight = 35
+
+# -- Legal Disclaimer --
+# The last line of the page with links to the legal pages.
+
+[[legal]]
+name = "Pie de imprenta"
+pageRef = "pages/legal/imprint"
+weight = 10
+
+[[legal]]
+name = "Seguridad"
+pageRef = "pages/legal/security"
+weight = 20
+
+[[legal]]
+name = "Protección de datos"
+pageRef = "pages/legal/data-privacy"
+weight = 30
+
+[[legal]]
+name = "Condiciones de uso"
+pageRef = "pages/legal/terms-of-service"
+weight = 40
+
+[[legal]]
+name = "CLUF"
+pageRef = "pages/legal/eula"
+weight = 50

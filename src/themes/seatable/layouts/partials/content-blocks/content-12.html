@@ -5,32 +5,39 @@
   weight: 1
   title: 
   subtitle: 
-  description: 
+  description:
   items:
   - text:
   - text:
   - text:
+  image_position: [right,left]
   image:</code></pre>
     </div>
 {{ end }}
 
 
 <!-- HTML Block -->
-<section class="padding" id="{{ .name }}">
-    <section class="max-container flex w-full items-start justify-between max-lg:flex-col">
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding" id="{{ .name }}">
+    <section class="max-container {{ if eq .image_position "left" }}flex-row-reverse{{ end }} flex w-full items-start justify-between gap-16 max-lg:flex-col">
         <div class="basis-1/2 justify-center">
             <img class="rounded-xl shadow-xl" src="{{ .image }}" alt="placeholder" />
         </div>
-        <div class="flex basis-1/2 flex-col pl-16">
+        <div class="flex basis-1/2 flex-col">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
-            <p class="mt-8 text-xl leading-relaxed mb-4">{{ .description }}</p>
+            <p class="mb-4 mt-8 text-xl leading-relaxed">{{ .description }}</p>
             {{ range .items }}
-                <div class="flex flex-row text-lg items-baseline text-seatable-orange">
+                <div class="flex flex-row items-baseline text-lg text-seatable-orange">
                     {{ partial "icon" "check" }}
-                    <p class="pl-4 relative top-[-1px] mb-2 text-xl leading-normal">{{ .text | safeHTML }}</p>
+                    <p class="relative top-[-1px] mb-2 pl-4 text-xl leading-normal">{{ .text | safeHTML }}</p>
                 </div>
             {{ end }}
+
+
+            <div class="mt-16 text-left">
+                {{ partial "content-blocks/helpers/button.html" . }}
+            </div>
         </div>
     </section>
 </section>

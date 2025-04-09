@@ -1,14 +1,14 @@
 ---
-title: "The importance of data management for digitization in companies"
-description: "Companies need data to make strategic and operational decisions. But how can you set up modern, efficient data management that really deserves the name? Read on to find out what data management is all about and what different database systems are available."
+title: 'The importance of data management for digitization in companies'
+description: 'Companies need data to make strategic and operational decisions. But how can you set up modern, efficient data management that really deserves the name? Read on to find out what data management is all about and what different database systems are available.'
 date: 2025-03-17
-categories: 
-  - "General"
-tags: 
-  - "Datenmanagement & Visualisierung"
-  - "Toolings & Plugins"
-color: "#bedeab"
-url: "/datenmanagement"
+categories:
+    - 'General'
+tags:
+    - 'Datenmanagement & Visualisierung'
+    - 'Toolings & Plugins'
+color: '#bedeab'
+url: '/datenmanagement'
 ---
 
 ## Data management guarantees success
@@ -19,7 +19,7 @@ But why is data management so important for process digitization? And what chall
 
 ## What is data management?
 
-Data management** refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data. The main objectives are:
+Data management\*\* refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data. The main objectives are:
 
 - Ensure the availability, consistency and quality of data
 - gain valuable insights from the data
@@ -30,15 +30,15 @@ Data management** refers to the entirety of all processes, methods and technolog
 
 ### What does data management involve?
 
-Data management** includes a variety of tasks such as identifying, collecting and storing data, data maintenance and analysis as well as certain precautions for data security. These sub-areas are particularly relevant:
+Data management\*\* includes a variety of tasks such as identifying, collecting and storing data, data maintenance and analysis as well as certain precautions for data security. These sub-areas are particularly relevant:
 
-Everything starts with data capture, collection or generation: while **data capture** means the selective input of data for electronic data processing, **data collection** takes place over a longer period of time. Data generation** refers to the generation and collection of large amounts of data using algorithms.
+Everything starts with data capture, collection or generation: while **data capture** means the selective input of data for electronic data processing, **data collection** takes place over a longer period of time. Data generation\*\* refers to the generation and collection of large amounts of data using algorithms.
 
 The task of **data integration** is to merge and harmonize data from different sources. In **data modeling**, you structure the data so that it can be processed more easily and quickly later on.
 
 For **data analysis**, you evaluate the data using various analysis methods such as statistics, data mining, machine learning or business intelligence in order to identify patterns or trends in the data sets.
 
-Data quality management** aims to improve data quality and ensure that the data is correct, complete, up-to-date and unambiguous.
+Data quality management\*\* aims to improve data quality and ensure that the data is correct, complete, up-to-date and unambiguous.
 
 If you want to store data for the long term and make it accessible, you can arrange for **data archiving** on high-performance data carriers or in cloud storage. With **metadata management**, you also manage metadata such as the data type or creation date.
 
@@ -58,7 +58,7 @@ Process digitalization is about **digitalizing analogue processes** or improving
 
 Through effective data management, you can achieve **higher data integrity and data quality**, which in turn contributes to more informed decisions. You can also reduce costs by using data efficiently, avoiding redundant data and relying on storage technologies that are as affordable as they are secure. The **optimization, digitalization and automation of processes** are also benefits that result from good data management.
 
-A concrete example of this is the use of data management in production. Modern production facilities use large amounts of sensor data to monitor and adjust production processes in real time. Without a solid data management system, such advanced production processes would be almost impossible to implement. But data management is also indispensable for digitization in [human resources](https://seatable.com/hr-prozesse/), [marketing](https://seatable.com/branchenloesung-marketing/) and accounting.
+A concrete example of this is the use of data management in production. Modern production facilities use large amounts of sensor data to monitor and adjust production processes in real time. Without a solid data management system, such advanced production processes would be almost impossible to implement. But data management is also indispensable for digitization in [human resources]({{< relref "pages/industry-solutions/hr" >}}), [marketing](https://seatable.com/branchenloesung-marketing/) and accounting.
 
 ![Data Management](Data-Management_Header.jpg)
 
@@ -74,12 +74,12 @@ A concrete example of this is the use of data management in production. Modern p
 Although data management is essential for work and digitalization in companies, it poses the following challenges for many organizations:
 
 1. **Scalability**: In the age of Big Data, a data management system needs to be scalable to keep up with growing data volumes. Only then can you store and use data from a variety of sources such as sensors, cameras or keyboards.
-1. **Data integration: Another problem is the complexity of this data. If you store your data in different systems and formats, you need to merge and harmonize it before you can use it effectively. Especially with large amounts of data from different sources, it can be time-consuming and difficult to create a uniform structure.
+1. \*\*Data integration: Another problem is the complexity of this data. If you store your data in different systems and formats, you need to merge and harmonize it before you can use it effectively. Especially with large amounts of data from different sources, it can be time-consuming and difficult to create a uniform structure.
 1. **Data utilization:** Collecting data alone does not provide any added value - because this data is not useful until you utilize it. It can take a lot of time and effort to prepare the data in the way you need it for analysis, be it by standardizing data formats, aggregating data sets or removing duplicates. If data management is too time-consuming, no analysis will take place and the potential value of this data will be lost.
 1. **Data quality**: One of the biggest challenges in data management is ensuring data quality. If data is outdated, incomplete or incorrect, it can lead to incorrect analysis and decisions. Continuous data maintenance, in which you update and cleanse the data, is therefore essential.
 1. **Data security and data protection**: Data protection and compliance regulations are multinational and change regularly. As the amount of data collected increases, so does the risk of data protection conflicts. On the one hand, you must ensure that personal data is protected against unauthorized access; on the other hand, you must be able to easily delete the stored data or adapt it to changed usage guidelines.
 
-![Data management is essential for digitization in companies](Header-Data-Management.jpg "How-you-can-use-data-management-for-digitization-in-companies")
+![Data management is essential for digitization in companies](Header-Data-Management.jpg 'How-you-can-use-data-management-for-digitization-in-companies')
 
 ## How you can use data management for digitization in companies
 
@@ -107,7 +107,7 @@ There is a wide range of tools and software that you can use for your data manag
 
 ### What is the best data management system?
 
-Choosing the right data management software depends on the specific requirements you have for data access, storage, security, integration and analysis. You can decide whether you want to store and analyze your data on your own servers ([On-Premises](https://seatable.com/on-premises/)), in a cloud or in a hybrid mix.
+Choosing the right data management software depends on the specific requirements you have for data access, storage, security, integration and analysis. You can decide whether you want to store and analyze your data on your own servers ([On-Premises]({{< relref "pages/product/seatable-server" >}})), in a cloud or in a hybrid mix.
 
 One trend that can be observed is the increasing use of cloud-based data management solutions. A cloud-based data management platform allows you to store data securely and process it efficiently without having to invest in expensive infrastructure.
 
@@ -121,7 +121,7 @@ Unlike other relational databases, SeaTable's **graphical user interface** allow
 
 With the **no-code app builder** from SeaTable, you can build your own apps without any programming knowledge and thus control access to the data in your database precisely. For the app design, there are ready-made page types with visual elements that you can simply drag and drop together.
 
-SeaTable gives you the freedom to choose between the convenience of a [cloud solution](https://seatable.com/cloud/) and the data sovereignty you enjoy with a self-hosted system. Are your ears pricked right now? Then [register for free](https://seatable.com/registrierung/) and try out the SeaTable Cloud for an unlimited time.
+SeaTable gives you the freedom to choose between the convenience of a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}) and the data sovereignty you enjoy with a self-hosted system. Are your ears pricked right now? Then [register for free](https://seatable.com/registrierung/) and try out the SeaTable Cloud for an unlimited time.
 
 ## Drive digitalization forward in your company
 
@@ -133,7 +133,7 @@ In an increasingly digitalized world, data management is not only a technologica
 
 What is data management? |||
 
-Data management** refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data.
+Data management\*\* refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data.
 
 ---
 

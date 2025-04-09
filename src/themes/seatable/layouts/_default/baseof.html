@@ -2,15 +2,20 @@
 <html lang="{{ site.Language.LanguageCode }}" dir="ltr">
     {{ partial "head/head.html" . }}
 
+
     <body class="font-roboto">
         {{ if hugo.IsProduction }}
         {{ else }}
             {{ partial "tw-size-indicator.html" . }}
-            <div class="fixed left-10 top-1 z-10"><a href="/blocks/">{{ partial "icon.html" "palette" }}</a></div>
-            <div class="fixed left-16 top-1 z-10"><a href="/icons/">{{ partial "icon.html" "font-awesome" }}</a></div>
+            <div class="fixed left-10 top-1 z-10 flex gap-3">
+                <div><a href="/blocks/">{{ partial "icon.html" "palette" }}</a></div>
+                <div><a href="/de/style-guide/">{{ partial "icon.html" "heart" }}</a></div>
+                <div><a href="/icons/">{{ partial "icon.html" "font-awesome" }}</a></div>
+            </div>
         {{ end }}
 
         {{ partial "header/basic.html" . }}
+
 
         <main id="main-content" class="relative">
             {{ block "main" . }}{{ end }}
@@ -23,8 +28,148 @@
         </footer>
 
         <!-- formActions -->
-        {{ $js := resources.Get "js/formActions.js" | minify | fingerprint }}
-        <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+        <script>
+            /* form actions for registration and contact form */
+            function contactForm() {
+                return {
+                    firstname: '',
+                    lastname: '',
+                    company: '',
+                    email: '',
+                    type: 'sales',
+                    subject: '',
+                    message: '',
+                    errors: {},
+                    validateEmail() {
+                        if (!this.email.trim()) {
+                            this.errors.email = '{{ T "registration.email_required" }}';
+                        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+                            this.errors.email = '{{ T "registration.email_invalid" }}';
+                        } else {
+                            delete this.errors.email;
+                        }
+                    },
+                    submitForm() {
+                        this.validateEmail();
+
+                        const url = '{{ getenv "HUGO_BACKEND_URL" }}';
+                        const data = {
+                            firstname: this.firstname,
+                            lastname: this.lastname,
+                            company: this.company,
+                            email: this.email,
+                            subject: this.subject,
+                            type: this.type,
+                            message: this.message,
+                        };
+
+                        const headers = {
+                            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                        };
+                        const params = new URLSearchParams(data);
+
+                        fetch(`${url}/submit`, {
+                            method: 'POST',
+                            headers: headers,
+                            body: params.toString(),
+                        })
+                            .then((response) => response.json())
+                            .then((data) => console.log(data))
+                            .catch((error) => console.error('Error:', error));
+                    },
+                };
+            }
+
+            function registrationForm() {
+                return {
+                    email: '',
+                    errors: {},
+                    validateEmail() {
+                        if (!this.email.trim()) {
+                            this.errors.email = '{{ T "registration.email_required" }}';
+                        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+                            this.errors.email = '{{ T "registration.email_invalid" }}';
+                        } else {
+                            delete this.errors.email;
+                        }
+                    },
+                    submitForm() {
+                        this.validateEmail();
+
+                        if (this.errors.email) {
+                            return;
+                        }
+
+                        const url = '{{ getenv "HUGO_BACKEND_URL" }}';
+                        const data = {
+                            email: this.email,
+                        };
+
+                        const headers = {
+                            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                        };
+                        const params = new URLSearchParams(data);
+
+                        fetch(`${url}/register`, {
+                            method: 'POST',
+                            headers: headers,
+                            body: params.toString(),
+                        })
+                            .then((response) => response.json())
+                            .then((data) => console.log(data))
+                            .catch((error) => console.error('Error:', error));
+                    },
+                };
+            }
+
+            function newsletterForm() {
+                return {
+                    email: '',
+                    errors: {},
+                    submitted: false,
+                    validateEmail() {
+                        if (!this.email.trim()) {
+                            this.errors.email = '{{ T "registration.email_required" }}';
+                        } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+                            this.errors.email = '{{ T "registration.email_invalid" }}';
+                        } else {
+                            delete this.errors.email;
+                        }
+                    },
+                    async submitForm() {
+                        this.validateEmail();
+
+                        if (this.errors.email) {
+                            return;
+                        }
+
+                        const url = '{{ getenv "HUGO_BACKEND_URL" }}';
+                        const data = {
+                            email: this.email,
+                            // TODO: Get current language
+                            language: 'en',
+                        };
+
+                        const headers = {
+                            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                        };
+                        const params = new URLSearchParams(data);
+
+                        try {
+                            const response = await fetch(`${url}/subscribe`, {
+                                method: 'POST',
+                                headers: headers,
+                                body: params.toString(),
+                            });
+                            const body = await response.json();
+                            this.submitted = true;
+                        } catch (error) {
+                            console.error('Error:', error);
+                        }
+                    },
+                };
+            }
+        </script>
 
         <!-- alpine js -->
         {{ $collapse := resources.Get "js/alpineCollapse.js" | fingerprint }}
@@ -35,6 +180,7 @@
 
         <!-- matomo analytics -->
         {{ partial "matomo-analytics.html" . }}
+
 
         <!-- AB-Split Tests -->
         <script>

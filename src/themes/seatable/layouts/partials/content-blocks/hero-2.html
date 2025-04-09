@@ -3,8 +3,11 @@
     <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
         <pre><code>- name: "{{ .name }}"
   weight: 1
+  classes:
+    - bg-[#ece5e2]
   title: 
   subtitle: 
+  text: 
   items:
   - text:
     image:
@@ -17,21 +20,24 @@
 
 
 <!-- HTML Block -->
-<div class="absolute inset-x-0 top-[-120px]" style="z-index:-10">
-    <div class="m-0 h-[1000px] w-full bg-[#ece5e2]" role="presentation" style="margin:0">&nbsp;</div>
+{{ $classes := .classes | default "" }}
+<div class="{{ delimit $classes " " }} absolute inset-x-0 top-[-120px]" style="z-index:-10">
+    <div class="m-0 h-[1000px] w-full" role="presentation" style="margin:0">&nbsp;</div>
 </div>
 
 <section class="padding">
     <section id="customers" class="max-container">
-        <div class="mx-auto mb-12 max-w-[800px] text-center">
+        <div class="mx-auto mb-8 max-w-[800px] text-center">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h1 class="mt-1 text-5xl font-bold leading-[1.1em]">{{ .title }}</h1>
             {{ if .text }}
                 <p class="mt-12 text-lg leading-normal">{{ .text | markdownify }}</p>
             {{ end }}
         </div>
-        <div class="max-container max-h-[300px] w-full">
-            <img src="{{ .image.src }}" alt="{{ .image.alt }}" class="" />
-        </div>
+        {{ if .image }}
+            <div class="max-container max-h-[300px] w-full">
+                <img src="{{ .image.src }}" alt="{{ .image.alt }}" class="" />
+            </div>
+        {{ end }}
     </section>
 </section>

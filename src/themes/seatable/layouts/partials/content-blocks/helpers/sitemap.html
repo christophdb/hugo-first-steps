@@ -1,0 +1,16 @@
+{{- $posts := where site.Pages "Section" "posts" -}}
+
+{{ range $posts.ByLastmod.Reverse }}
+    {{ printf "Title: %s | Lastmod: %v" .Title .Lastmod }}<br />
+{{ end }}
+
+
+<div>---</div>
+<hr />
+<div>---</div>
+
+{{- $posts := where site.Pages "Section" "pages" -}}
+
+{{ range $posts.ByLastmod.Reverse }}
+    {{ printf "Title: %s | Lastmod: %v" .Title .Lastmod }}<br />
+{{ end }}

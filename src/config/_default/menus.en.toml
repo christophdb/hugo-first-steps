@@ -4,227 +4,233 @@
 # 
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
-#   pageRef = The identifier (translationkey) of the page or section to link to
+#   pageRef = The identifier (relative path below content folder) of the page or section to link to
 #
 # By default the menu is ordered alphabetically. This can be
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Functions"
-  pageRef = "functions"
-  weight = 10
+name = "Functions"
+pageRef = "pages/functions"
+weight = 10
 
 [[main]]
-  name = "Products"
-  pageRef = "/"
-  weight = 20
+name = "Products"
+pageRef = "#0"
+weight = 20
 
 [[main]]
-  name = "SeaTable Cloud"
-  parent = "Products"
-  pageRef = "seatable-cloud"
-  weight = 21
+name = "Overview"
+parent = "Products"
+pageRef = "pages/product/overview"
+weight = 21
 
 [[main]]
-  name = "SeaTable Dedicated"
-  parent = "Products"
-  pageRef = "seatable-dedicated"
-  weight = 22
+name = "SeaTable Cloud"
+parent = "Products"
+pageRef = "pages/product/seatable-cloud"
+weight = 22
 
 [[main]]
-  name = "SeaTable Server"
-  parent = "Products"
-  pageRef = "seatable-server"
-  weight = 23
+name = "SeaTable Dedicated"
+parent = "Products"
+pageRef = "pages/product/seatable-dedicated"
+weight = 23
 
 [[main]]
-  name = "Industry solutions"
-  pageRef = "#0"
-  weight = 30
+name = "SeaTable Server"
+parent = "Products"
+pageRef = "pages/product/seatable-server"
+weight = 24
 
 [[main]]
-  name = "Marketing"
-  parent = "Industry solutions"
-  pageRef = "marketing"
-  weight = 31
+name = "Industry solutions"
+pageRef = "#0"
+weight = 30
 
 [[main]]
-  name = "Project management"
-  parent = "Industry solutions"
-  pageRef = "project-management"
-  weight = 32
+name = "Marketing"
+parent = "Industry solutions"
+pageRef = "pages/industry-solutions/marketing"
+weight = 31
 
 [[main]]
-  name = "HR"
-  parent = "Industry solutions"
-  pageRef = "hr"
-  weight = 33
+name = "Project management"
+parent = "Industry solutions"
+pageRef = "pages/industry-solutions/project-management"
+weight = 32
 
 [[main]]
-  name = "Public service"
-  parent = "Industry solutions"
-  pageRef = "public-service"
-  weight = 34
+name = "HR"
+parent = "Industry solutions"
+pageRef = "pages/industry-solutions/hr"
+weight = 33
 
 [[main]]
-  name = "Software development"
-  parent = "Industry solutions"
-  pageRef = "software-development"
-  weight = 35
+name = "Public service"
+parent = "Industry solutions"
+pageRef = "pages/industry-solutions/public-service"
+weight = 34
 
 [[main]]
-  name = "Individual"
-  parent = "Industry solutions"
-  pageRef = "individual"
-  weight = 36
+name = "Software development"
+parent = "Industry solutions"
+pageRef = "pages/industry-solutions/software-development"
+weight = 35
 
 [[main]]
-  name = "Prices"
-  pageRef = "prices"
-  weight = 40
+name = "Individual"
+parent = "Industry solutions"
+pageRef = "pages/industry-solutions/individual"
+weight = 36
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 50
+name = "Prices"
+pageRef = "pages/prices"
+weight = 40
+
+[[main]]
+name = "Blog"
+pageRef = "posts"
+weight = 50
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "Products"
-  weight = 10
+name = "Products"
+weight = 10
 
 [[footer]]
-  name = "SeaTable Cloud"
-  parent = "Products"
-  pageRef = "seatable-cloud"
-  weight = 11
+name = "SeaTable Cloud"
+parent = "Products"
+pageRef = "pages/product/seatable-cloud"
+weight = 11
 
 [[footer]]
-  name = "SeaTable Dedicated"
-  parent = "Products"
-  pageRef = "seatable-dedicated"
-  weight = 12
+name = "SeaTable Dedicated"
+parent = "Products"
+pageRef = "pages/product/seatable-dedicated"
+weight = 12
 
 [[footer]]
-  name = "SeaTable Server"
-  parent = "Products"
-  pageRef = "seatable-server"
-  weight = 13
+name = "SeaTable Server"
+parent = "Products"
+pageRef = "pages/product/seatable-server"
+weight = 13
 
 [[footer]]
-  name = "Support"
-  parent = "Products"
-  pageRef = "support"
-  weight = 14
+name = "Support"
+parent = "Products"
+pageRef = "pages/support"
+weight = 14
 
 [[footer]]
-  name = "Assistance"
-  weight = 20
+name = "Assistance"
+weight = 20
 
 [[footer]]
-  name = "Quick guide"
-  parent = "Assistance"
-  pageRef = "quick-guide"
-  weight = 21
+name = "Quick guide"
+parent = "Assistance"
+url = "https://seatable.io/kurzanleitung/?lang=auto"
+weight = 21
 
 [[footer]]
-  name = "Help area"
-  parent = "Assistance"
-  pageRef = "help"
-  weight = 22
+name = "Help area"
+parent = "Assistance"
+url = "https://docs.seatable.io/?lang=auto"
+weight = 22
 
 [[footer]]
-  name = "Templates"
-  parent = "Assistance"
-  pageRef = "templates"
-  weight = 23
+name = "Templates"
+parent = "Assistance"
+url = "https://seatable.io/vorlagen/?lang=auto"
+weight = 23
 
 [[footer]]
-  name = "Integrations"
-  parent = "Assistance"
-  pageRef = "integrations"
-  weight = 24
+name = "Integrations"
+parent = "Assistance"
+url = "https://seatable.io/integrationen/?lang=auto"
+weight = 24
 
 [[footer]]
-  name = "Forum"
-  parent = "Assistance"
-  url = "https://forum.seatable.io"
-  weight = 25
+name = "Forum"
+parent = "Assistance"
+url = "https://forum.seatable.io"
+weight = 25
 
 [[footer]]
-  name = "Developer API"
-  parent = "Assistance"
-  url = "https://api.seatable.io"
-  weight = 26
+name = "Developer API"
+parent = "Assistance"
+url = "https://api.seatable.io"
+weight = 26
 
 [[footer]]
-  name = "Status"
-  parent = "Assistance"
-  url = "https://status.seatable.io"
-  weight = 27
+name = "Status"
+parent = "Assistance"
+url = "https://status.seatable.io"
+weight = 27
 
 [[footer]]
-  name = "The company"
-  weight = 30
+name = "The company"
+weight = 30
 
 [[footer]]
-  name = "About us"
-  parent = "The company"
-  pageRef = "about"
-  weight = 31
+name = "About us"
+parent = "The company"
+pageRef = "pages/about"
+weight = 31
 
 [[footer]]
-  name = "Jobs"
-  parent = "The company"
-  pageRef = "jobs"
-  weight = 32
+name = "Jobs"
+parent = "The company"
+pageRef = "pages/jobs"
+weight = 32
 
 [[footer]]
-  name = "Press"
-  parent = "The company"
-  pageRef = "press"
-  weight = 33
+name = "Press"
+parent = "The company"
+pageRef = "pages/press"
+weight = 33
 
 [[footer]]
-  name = "Contact"
-  parent = "The company"
-  pageRef = "contact-us"
-  weight = 34
+name = "Contact"
+parent = "The company"
+pageRef = "pages/contact"
+weight = 34
 
 [[footer]]
-  name = "Blog"
-  parent = "The company"
-  pageRef = "posts"
-  weight = 35
+name = "Blog"
+parent = "The company"
+pageRef = "posts"
+weight = 35
 
 # -- Legal Disclaimer --
 # The last line of the page with links to the legal pages.
 
 [[legal]]
-  name = "Imprint"
-  pageRef = "imprint"
-  weight = 10
+name = "Imprint"
+pageRef = "pages/legal/imprint"
+weight = 10
 
 [[legal]]
-  name = "Security"
-  pageRef = "security"
-  weight = 20
+name = "Security"
+pageRef = "pages/legal/security"
+weight = 20
 
 [[legal]]
-  name = "Data protection"
-  pageRef = "data-privacy"
-  weight = 30
+name = "Data protection"
+pageRef = "pages/legal/data-privacy"
+weight = 30
 
 [[legal]]
-  name = "Terms of use"
-  pageRef = "terms-of-service"
-  weight = 40
+name = "Terms of use"
+pageRef = "pages/legal/terms-of-service"
+weight = 40
 
 [[legal]]
-  name = "EULA"
-  pageRef = "eula"
-  weight = 50
+name = "EULA"
+pageRef = "pages/legal/eula"
+weight = 50

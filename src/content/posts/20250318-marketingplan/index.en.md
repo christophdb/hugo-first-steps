@@ -1,12 +1,12 @@
 ---
-title: "How to create and implement a professional marketing plan"
-description: "Marketing teams are rarely short of creative ideas. This makes it all the more important to have a carefully developed marketing plan in order to plan and implement your campaigns in a targeted manner. In 6 steps, we show you what is important and how you can easily implement it - with a digital template."
+title: 'How to create and implement a professional marketing plan'
+description: 'Marketing teams are rarely short of creative ideas. This makes it all the more important to have a carefully developed marketing plan in order to plan and implement your campaigns in a targeted manner. In 6 steps, we show you what is important and how you can easily implement it - with a digital template.'
 date: 2025-03-18
 categories: 
-  - "Allgemein"
+  - "General"
   - "Best Practice"
 tags: 
-  - "marketingplanung"
+  - "marketing planning"
 color: "#509dfd"
 url: "/marketingplan"
 ---
@@ -19,7 +19,7 @@ But what actually is a marketing plan? How do you go about it? What marketing pl
 
 ## What is a marketing plan?
 
-A marketing plan is the basis for any effective marketing campaign. Think of it as a roadmap that describes all the necessary measures to address your defined customer groups and achieve your goals. Your plan should serve as a central document containing the current and future marketing activities within a defined period of time, as an important **guide to action for your marketing department** and also for the entire company. This provides your teams with a tool to prioritize, plan and implement measures in a structured manner** and to communicate them consistently to the outside world. Depending on the defined goal and the overarching strategy, marketing plans can include activities across several channels or just for one channel. Examples of marketing plans are
+A marketing plan is the basis for any effective marketing campaign. Think of it as a roadmap that describes all the necessary measures to address your defined customer groups and achieve your goals. Your plan should serve as a central document containing the current and future marketing activities within a defined period of time, as an important **guide to action for your marketing department** and also for the entire company. This provides your teams with a tool to prioritize, plan and implement measures in a structured manner\*\* and to communicate them consistently to the outside world. Depending on the defined goal and the overarching strategy, marketing plans can include activities across several channels or just for one channel. Examples of marketing plans are
 
 - Social media plan
 - Product marketing plan
@@ -111,11 +111,11 @@ When you create a marketing plan and plan campaigns, work processes will inevita
 
 ### Marketing planning with digital tools
 
-Creating a marketing plan as a template on paper is one option - but not necessarily the most effective one. Or can you imagine everyone in the marketing team working with just one piece of paper on which they write down, correct, cross out, etc. all the project data? Digital tools for marketing planning are much less complicated, faster and more transparent. Whether Hubspot, SeaTable or Asana - digital [marketing tools](https://seatable.com/marketing-tool/) like these help you to bring all the information together, keep an eye on the timing and content and present everything clearly for everyone involved.
+Creating a marketing plan as a template on paper is one option - but not necessarily the most effective one. Or can you imagine everyone in the marketing team working with just one piece of paper on which they write down, correct, cross out, etc. all the project data? Digital tools for marketing planning are much less complicated, faster and more transparent. Whether Hubspot, SeaTable or Asana - digital [marketing tools]({{< relref "pages/industry-solutions/hr" >}}) like these help you to bring all the information together, keep an eye on the timing and content and present everything clearly for everyone involved.
 
 ### Measure, measure, measure: Optimization never ends
 
-You already know that it is important to consider the analysis and optimization of your campaigns when creating your marketing plan. Be aware that this is an ongoing process. You will probably extend the intervals over time. However, you should monitor your measures regularly until the end of the campaign and optimize them if necessary - or discontinue individual measures. Important: Act on the basis of the data instead of sticking to preconceived assumptions. It is equally important to regularly scrutinize and adapt your own processes. Are responsibilities unclear? Are the processes structured in such a way that everything is thought of? Do the workflows interlock? Are there any bottlenecks within the team that could jeopardize campaign schedules? You can create the necessary transparency with an online marketing plan. It is best to use a tool that enables collaborative work in real time so that your team members are always on the same level of information.   
+You already know that it is important to consider the analysis and optimization of your campaigns when creating your marketing plan. Be aware that this is an ongoing process. You will probably extend the intervals over time. However, you should monitor your measures regularly until the end of the campaign and optimize them if necessary - or discontinue individual measures. Important: Act on the basis of the data instead of sticking to preconceived assumptions. It is equally important to regularly scrutinize and adapt your own processes. Are responsibilities unclear? Are the processes structured in such a way that everything is thought of? Do the workflows interlock? Are there any bottlenecks within the team that could jeopardize campaign schedules? You can create the necessary transparency with an online marketing plan. It is best to use a tool that enables collaborative work in real time so that your team members are always on the same level of information.
 
 ![Analyses of marketing plan](Optimierung-hoert-nicht-auf.jpg)
 

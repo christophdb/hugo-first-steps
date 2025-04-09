@@ -3,7 +3,7 @@ title: "The best Google Spreadsheet alternative in the test"
 description: "Traditional tools such as Excel and Google Sheets often reach their limits when data volumes grow or special functions are required. Modern alternatives offer powerful features that can be flexibly adapted to your individual requirements. In this article, we will introduce you to the best free solution and show you how you can work more efficiently with it."
 date: 2025-03-18
 categories: 
-  - "Allgemein"
+  - "General"
 tags: 
   - "Toolings & Plugins"
 color: "#59c9a1"

@@ -1,6 +1,6 @@
 ---
 title: "Erfolgreiche Digitalisierung der Auftragsverwaltung mit SeaTable – ein Use Case von éolane"
-description: "Zusammenfassung fehlt"
+description: "Der französische Elektronikhersteller éolane war auf der Suche nach einer DSGVO-konformen Lösung für seine zunehmend komplexere Auftragsverwaltung. Sie fanden SeaTable."
 date: 2025-04-04
 categories: 
   - "Customer Story"
