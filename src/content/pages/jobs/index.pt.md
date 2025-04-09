@@ -1,56 +1,55 @@
 ---
-title: "Jobs"
+title: 'Jobs'
 date: '2025-04-03'
 
-url: '/jobs'
-
+url: '/pt/jobs'
 
 sections:
-- name: hero-2
-  weight: 1
-  title: "Come to our Global Office"
-  subtitle: "Stay where you feel comfortable"
-  text: "With our no-code platform, we are revolutionizing the way people around the world will work with data in the future. For this mission, we need people with drive and the will to make a difference. People who take the initiative and stay on the ball with their jobs."
-  image:
-    src: "/images/people-at-work.png"
-    alt: "people-at-work"
+    - name: hero-2
+      weight: 1
+      title: 'Venha para o nosso Escritório Global'
+      subtitle: 'Fique onde você se sente confortável'
+      text: 'Com nossa plataforma sem código, estamos revolucionando a forma como as pessoas ao redor do mundo trabalharão com dados no futuro. Para essa missão, precisamos de pessoas com motivação e vontade de fazer a diferença. Pessoas que tomam iniciativa e se dedicam aos seus trabalhos.'
+      image:
+          src: '/images/people-at-work.png'
+          alt: 'pessoas-trabalhando'
 
-- name: content-19
-  weight: 2
-  title: "Let's change the world"
-  subtitle: "SeaTable connects"
-  text: "Because only together can we make a difference.<br/>
-    That's why we at SeaTable have created a working environment that focuses on trust and team spirit. Each of our employees can decide for themselves where they work from - because time zone or location don't play a role in the result. The main thing is that you feel comfortable.<br/><br/>What counts instead is enthusiasm - and that's what unites us. We live the philosophy behind the no-code approach and are passionate about improving the everyday working lives of thousands of people.<br/><br/>
-    <strong>Are you with us?</strong>"
-  gridheadline: "Open positions"
+    - name: content-19
+      weight: 2
+      title: 'Vamos mudar o mundo juntos'
+      subtitle: 'SeaTable conecta'
+      text: 'Porque só juntos podemos fazer a diferença.<br/>
+          É por isso que no SeaTable criamos um ambiente de trabalho focado na confiança e no espírito de equipe. Cada um de nossos colaboradores pode decidir por si mesmo de onde trabalhar - porque fuso horário ou localização não influenciam no resultado. O importante é que você se sinta confortável.<br/><br/>O que realmente importa é o entusiasmo - e é isso que nos une. Vivemos a filosofia por trás da abordagem sem código e somos apaixonados por melhorar o dia a dia de trabalho de milhares de pessoas.<br/><br/>
+          <strong>Você está conosco?</strong>'
+      gridheadline: 'Vagas abertas'
 
-- name: content-20
-  weight: 3
-  title: "We live the team spirit"
+    - name: content-20
+      weight: 3
+      title: 'Vivemos o espírito de equipe'
 
-- name: content-21
-  weight: 4
-  classes:
-  - bg-gray-100
-  - curved
-  title: "These benefits await you"
-  text: "Okay, hand on heart - we don't have expensive cars or a world-famous name. Because we think freedom is worth much more. Do you feel the same way? Then become part of our team and look forward to:"
-  items:
-  - headline: First-class work equipment
-    text: "<em>Creating more together</em> - To ensure that we can work efficiently, reliably and comfortably everywhere, every team member receives the equipment he or she needs. Because only those who like to work, work well!"
-  - headline: "Responsibility and ownership"
-    text: "<em>Growing together</em> - standing still is not our thing. That's why we not only develop SeaTable further, but also your skills! Together we will find the right tasks to help you progress."
-  - headline: "Freedom and balance"
-    text: "<em>Experience more together</em> - Stay digitally connected with us and work in our Global Office when and where you want. Never miss out on what's important to you - whether it's a mountain climb or grandma's birthday coffee."
-  - headline: "Our team and the community"
-    text: "<em>Moving more together</em> - SeaTable is more than just software. We want to create something great together and share it with the SeaTable community around the world. Become a part of it now!"
+    - name: content-21
+      weight: 4
+      classes:
+          - bg-gray-100
+          - curved
+      title: 'Estes benefícios esperam por você'
+      text: 'Ok, mão no coração - não temos carros caros nem um nome mundialmente famoso. Porque acreditamos que liberdade vale muito mais. Você sente o mesmo? Então junte-se ao nosso time e prepare-se para:'
+      items:
+          - headline: Equipamento de trabalho de primeira classe
+            text: '<em>Criando mais juntos</em> - Para garantir que possamos trabalhar de forma eficiente, confiável e confortável em qualquer lugar, cada membro da equipe recebe o equipamento necessário. Porque apenas quem gosta de trabalhar, trabalha bem!'
+          - headline: 'Responsabilidade e autonomia'
+            text: '<em>Crescendo juntos</em> - ficar parado não é o nosso estilo. Por isso, não apenas desenvolvemos o SeaTable, mas também suas habilidades! Juntos encontraremos as tarefas certas para ajudá-lo a avançar.'
+          - headline: 'Liberdade e equilíbrio'
+            text: '<em>Experimentando mais juntos</em> - Fique conectado digitalmente conosco e trabalhe em nosso Escritório Global quando e onde quiser. Nunca perca o que é importante para você - seja uma escalada na montanha ou o café do aniversário da sua avó.'
+          - headline: 'Nossa equipe e a comunidade'
+            text: '<em>Avançando mais juntos</em> - SeaTable é mais do que apenas software. Queremos criar algo grandioso juntos e compartilhar com a comunidade global do SeaTable. Junte-se agora!'
 
-- name: content-3
-  weight: 5
-  title: "Apply now and become a SeaTabler!"
-  subtitle: "What are you waiting for?"
-  button:
-    label: "Apply now"
-    link: "#"
-    style: "primary"
+    - name: content-3
+      weight: 5
+      title: 'Candidate-se agora e torne-se um SeaTabler!'
+      subtitle: 'O que você está esperando?'
+      button:
+          label: 'Candidate-se agora'
+          link: '#'
+          style: 'primary'
 ---
