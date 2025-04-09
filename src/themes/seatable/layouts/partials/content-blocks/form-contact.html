@@ -12,7 +12,7 @@
             <form @submit.prevent="submitForm" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
                 <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
                     <div>
-                        <label for="first-name" class="text-md block font-bold">First name</label>
+                        <label for="first-name" class="text-md block font-bold">{{ T "contact.first_name" }}</label>
                         <div class="mt-2.5">
                             <input
                                 type="text"
@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     <div>
-                        <label for="last-name" class="text-md block font-bold">Last name</label>
+                        <label for="last-name" class="text-md block font-bold">{{ T "contact.last_name" }}</label>
                         <div class="mt-2.5">
                             <input
                                 type="text"
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                     <div class="sm:col-span-2">
-                        <label for="company" class="block text-sm/6 font-semibold text-gray-900">Company</label>
+                        <label for="company" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.company" }}</label>
                         <div class="mt-2.5">
                             <input
                                 type="text"
@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="sm:col-span-2">
-                        <label for="email" class="block text-sm/6 font-semibold text-gray-900">Email</label>
+                        <label for="email" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.email" }}</label>
                         <div class="mt-2.5">
                             <input
                                 type="email"
@@ -66,7 +66,7 @@
                     </div>
 
                     <div class="sm:col-span-2">
-                        <label for="subject" class="block text-sm/6 font-semibold text-gray-900">Grund der Anfrage</label>
+                        <label for="subject" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.reason" }}</label>
 
                         <div class="mt-2.5">
                             <select
@@ -88,7 +88,7 @@
                     </div>
 
                     <div class="sm:col-span-2">
-                        <label for="message" class="block text-sm/6 font-semibold text-gray-900">Message</label>
+                        <label for="message" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.message" }}</label>
                         <div class="mt-2.5">
                             <textarea
                                 name="message"
@@ -101,7 +101,7 @@
                 </div>
 
                 <div class="mt-10">
-                    <button type="submit" class="bg-gradient block w-full rounded-xl px-7 py-4 text-center font-poppins font-bold text-white">{{ .submit_message }}</button>
+                    <button type="submit" class="bg-gradient block w-full rounded-xl px-7 py-4 text-center font-poppins font-bold text-white">{{ T "contact.submit" }}</button>
                 </div>
             </form>
         </div>
