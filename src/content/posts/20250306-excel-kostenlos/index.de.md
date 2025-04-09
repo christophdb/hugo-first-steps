@@ -12,7 +12,7 @@ color: '#6d9c70'
 
 ## Konkurrenz für den Marktführer: Wer Excel kostenlos anbietet
 
-Obwohl als **Tabellenkalkulation** konzipiert, wird heute wohl kaum ein anderes Computerprogramm für so viele unterschiedliche Anwendungsfälle genutzt wie **Microsoft Excel**: Schätzungen zufolge sollen bis zu eine Milliarde Menschen regelmäßig Spreadsheets mit Excel online bearbeiten! Dabei kann man mit gewissen Einschränkungen sogar Excel kostenlos nutzen. Wenn Sie sich jedoch nicht an den US-amerikanischen Quasi-Monopolisten binden wollen, haben Sie die Qual der Wahl: **Google Sheets**, **Apple Numbers**, **Calc** und **SeaTable** sind nur die bekanntesten unter den zahlreichen Excel Konkurrenten.
+Obwohl als **Tabellenkalkulation** konzipiert, wird heute wohl kaum ein anderes Computerprogramm für so viele unterschiedliche Anwendungsfälle genutzt wie **Microsoft Excel**: Schätzungen zufolge sollen bis zu eine Milliarde Menschen regelmäßig Spreadsheets mit Excel online bearbeiten! Dabei kann man mit gewissen Einschränkungen sogar Excel kostenlos nutzen. Wenn Sie sich jedoch nicht an den US-amerikanischen Quasi-Monopolisten binden wollen, haben Sie die Qual der Wahl: **Google Sheets, Apple Numbers, Calc und SeaTable** sind nur die bekanntesten unter den zahlreichen Excel Konkurrenten.
 
 Erfahren Sie im Folgenden, wie Sie Excel kostenlos nutzen und welche anderen Tabellenkalkulationsprogramme kostenlos sind.
 
