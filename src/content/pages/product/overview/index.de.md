@@ -110,8 +110,8 @@ sections:
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
       button:
-      label: 'Mehr über Integrationen erfahren'
-      link: '#'
+          label: 'Mehr über Integrationen erfahren'
+          link: '#'
 
     - name: 'content-9'
       weight: 11
