@@ -11,152 +11,152 @@ color: "#509dfd"
 url: "/fr/marketingplan"
 ---
 
-## Marketingplan in 6 Schritten erstellen
+## Créer un plan marketing en 6 étapes
 
-Marketing ist eine zentrale Aufgabe für jedes Unternehmen: die **Markenbekanntheit und die Produktbekanntheit werden gefördert**, es vermittelt dem Kunden wichtige Informationen und fördert damit den Geschäftserfolg. Im Zentrum erfolgreichen Marketings steht, einen Marketingplan zu schreiben. Er ist die **Basis für alle erfolgreichen Marketingaktivitäten**. Jedoch fehlen gerade kleinen und mittelständischen Unternehmen im Tagesgeschäft oft die Ressourcen, um einen sorgfältig durchdachten Plan zu erstellen.
+Le marketing est une tâche centrale pour toute entreprise : il permet de promouvoir la **connaissance de la marque et du produit**, de transmettre des informations importantes au client et de favoriser ainsi le succès commercial. Au cœur d'un marketing réussi se trouve la rédaction d'un plan marketing. C'est la **base de toutes les activités de marketing réussies**. Cependant, les petites et moyennes entreprises n'ont souvent pas les ressources nécessaires pour élaborer un plan soigneusement conçu.
 
-Doch was ist eigentlich ein Marketingplan? Wie geht man vor? Welche Marketingplan Inhalte sollten Sie abdecken? Wir haben einen 6-Schritte-Plan erstellt mit weiteren Tipps, wie Sie vom Plan in die Umsetzung kommen.
+Mais qu'est-ce qu'un plan marketing ? Comment faut-il procéder ? Quels sont les contenus du plan marketing à couvrir ? Nous avons élaboré un plan en six étapes avec des conseils supplémentaires pour passer du plan à la mise en œuvre.
 
-## Was ist ein Marketingplan?
+## Qu'est-ce qu'un plan marketing ?
 
-Ein Marketingplan ist die Basis für jede zielführende Marketingkampagne. Stellen Sie sich eine Roadmap vor, die alle notwendigen Maßnahmen beschreibt, um Ihre definierten Kundengruppen anzusprechen und Ihre Ziele zu erreichen. Ihr Plan sollte als zentrales Dokument, das die laufenden und zukünftigen Marketingaktivitäten innerhalb eines definierten Zeitraums beinhaltet, als wichtiger **Handlungsleitfaden für Ihre Marketingabteilung** und darüber hinaus auch für das gesamte Unternehmen dienen. So haben Ihre Teams eine Handreichung, um **Maßnahmen zu priorisieren, strukturiert zu planen**, umzusetzen und nach außen konsistent zu kommunizieren. Marketingpläne umfassen, je nach definiertem Ziel und der übergeordneten Strategie, Aktivitäten über mehrere Kanäle oder nur für einen Kanal. Marketingplan Beispiele sind: 
+Un plan marketing est la base de toute campagne de marketing ciblée. Imaginez une feuille de route décrivant toutes les mesures nécessaires pour toucher vos groupes de clients définis et atteindre vos objectifs. En tant que document central contenant les activités de marketing en cours et à venir dans une période définie, votre plan doit servir de **guide d'action important pour votre département marketing** et, au-delà, pour l'ensemble de l'entreprise. Vos équipes disposent ainsi d'un guide pour **hiérarchiser les mesures, les planifier de manière structurée**, les mettre en œuvre et les communiquer de manière cohérente à l'extérieur. Les plans marketing comprennent, en fonction de l'objectif défini et de la stratégie globale, des activités sur plusieurs canaux ou sur un seul canal. Voici quelques exemples de plans marketing :
 
-- Social Media Plan
-- Produktmarketing Plan
-- Online Marketing Plan
-- Paid Search Plan
-- Influencer Marketing Plan
-- Content Marketing Plan 
-- Digital Marketing Plan
+- plan de médias sociaux
+- Plan de marketing produit
+- Plan de marketing en ligne
+- Plan de recherche payante
+- Plan de marketing d'influence
+- Plan de marketing de contenu
+- Plan de marketing numérique
 
-![Marketing Team, die an einem Marketingplan arbeiten](Was-ist-ein-Marketingplan.jpg)
+![Équipe marketing travaillant sur un plan marketing](Was-ist-ein-Marketingplan.jpg)
 
-### Marketingplan, Marketingstrategie, Marketingkonzept: Was bedeutet was?
+### Plan marketing, stratégie marketing, concept marketing : que signifie quoi ?
 
-Bevor wir tiefer einsteigen, wie Sie am besten einen Marketingplan erstellen, sollten wir uns kurz über die Begrifflichkeiten klar werden. Denn oft werden Marketingkonzept, -strategie und -plan undifferenziert in einen Topf geworfen. Jedoch sind damit verschiedene Dinge gemeint, die alle gleichermaßen relevant sind und einander bedingen. Die Reihenfolge ist: Marketingkonzept entwickeln – Strategie ausarbeiten –  Marketingplan schreiben.
+Avant d'approfondir la question de savoir comment élaborer au mieux un plan marketing, il convient de clarifier brièvement la terminologie. En effet, le concept, la stratégie et le plan de marketing sont souvent mis dans le même sac sans aucune distinction. Pourtant, il s'agit de choses différentes qui sont toutes aussi pertinentes et interdépendantes. La séquence est la suivante : développer un concept de marketing - élaborer une stratégie - rédiger un plan de marketing.
 
-- Mit einem **Marketingkonzept** wird ein strategischer und operativer Rahmen für Ihre Aktivitäten geschaffen. Ähnlich wie bei einem Marketingplan kann es neben dem Gesamtmarketingkonzept weitere Konzepte für einzelne Teilbereiche geben, wie z. B. für Online Marketing oder Social Media Marketing. Bevor Sie überhaupt über konkrete Ideen nachdenken, sollten Sie unbedingt ein Marketingkonzept erstellen.
-- Die **Marketingstrategie** formuliert die langfristigen Ziele und Elemente des Marketingkonzepts konkret aus. Somit formulieren Sie hier einen grundsätzlichen Weg vom Ist- zum geplanten Soll-Zustand. Sobald Sie Ihre Strategie festgelegt haben, können Sie daraus einen stimmigen Plan ableiten.
-- Der **Marketingplan** dient schließlich dazu, Ihre Strategie operativ umzusetzen. Sie brauchen also erst eine Strategie, der wiederum die Erstellung eines Marketingkonzepts vorangeht, bevor Sie einen Marketingplan schreiben können. Erst dann können Sie konkrete Maßnahmen festlegen, Budgets für einzelne Kanäle bestimmen und spezifische Maßnahmenziele und -zeiträume definieren.
+- Un **concept marketing** permet de créer un cadre stratégique et opérationnel pour vos activités. Comme pour un plan marketing, il peut y avoir, en plus du concept marketing global, d'autres concepts pour certains domaines partiels, comme par exemple le marketing en ligne ou le marketing des médias sociaux. Avant même de réfléchir à des idées concrètes, vous devez absolument établir un concept marketing.
+- La **stratégie marketing** formule concrètement les objectifs à long terme et les éléments du concept marketing. Ainsi, vous formulez ici un chemin fondamental entre l'état actuel et l'état souhaité prévu. Une fois que vous avez défini votre stratégie, vous pouvez en déduire un plan cohérent.
+- Le **plan marketing** sert finalement à mettre en œuvre votre stratégie de manière opérationnelle. Vous avez donc d'abord besoin d'une stratégie, elle-même précédée de l'élaboration d'un concept marketing, avant de pouvoir rédiger un plan marketing. Ce n'est qu'alors que vous pourrez définir des mesures concrètes, déterminer des budgets pour les différents canaux et définir des objectifs et des périodes spécifiques pour les mesures.
 
-## Warum sollten Sie einen Marketingplan entwickeln?
+## Pourquoi élaborer un plan marketing ?
 
-Mit einer durchdachten Marketingplanung schaffen Sie vor allem die Grundlage für die erfolgreiche Arbeit Ihres Teams. Ohne klaren Plan können Ihre Maßnahmen nicht ineinander greifen sondern schweben wie Seifenblasen nebeneinander her und driften auseinander. Über die konkreten Kampagnen und Einzelmaßnahmen hinaus gewinnen Unternehmen damit noch weitere wichtige Erkenntnisse:
+Avec un plan marketing bien pensé, vous créez avant tout la base d'un travail réussi pour votre équipe. Sans plan clair, vos mesures ne peuvent pas s'imbriquer les unes dans les autres mais flottent comme des bulles de savon les unes à côté des autres et dérivent. Au-delà des campagnes concrètes et des mesures individuelles, les entreprises acquièrent ainsi d'autres connaissances importantes :
 
-**Wettbewerbsanalyse:** Bevor Sie einen Marketingplan erstellen können, müssen Sie Ihren Markt näher betrachten. Wer sind Ihre Wettbewerber? Wie und wo positionieren sie sich? So gewinnen Sie ein besseres Verständnis für das Umfeld, in dem Sie sich mit Ihrem Angebot bewegen.
+**Analyse de la concurrence:** Avant de pouvoir élaborer un plan marketing, vous devez examiner votre marché de plus près. Qui sont vos concurrents ? Comment et où se positionnent-ils ? Vous obtiendrez ainsi une meilleure compréhension de l'environnement dans lequel vous évoluez avec votre offre.
 
-**Risikoanalyse:** Durch die Kenntnis Ihres Marktumfeldes und eine Mitbewerberanalyse können Sie Risiken besser identifizieren und frühzeitig erkennen. Dies erlaubt Ihnen ein effektives Risikomanagement.
+**Analyse des risques:** En connaissant votre environnement de marché et en analysant vos concurrents, vous pouvez mieux identifier les risques et les reconnaître à temps. Cela vous permet de gérer les risques de manière efficace.
 
-**Fehlentscheidungen verhindern:** Ein klarer Blick auf mögliche Risiken, eindeutig formulierte Ziele und durchdachte Maßnahmen helfen dabei, (teure) Fehlentscheidungen zu vermeiden.
+**Prévenir les mauvaises décisions:** Une vision claire des risques potentiels, des objectifs clairement formulés et des mesures bien pensées permettent d'éviter les mauvaises décisions (coûteuses).
 
-**Klare Strukturen:** Ein Marketing Maßnahmenplan hilft Ihnen dabei, sich über die erforderlichen Strukturen und Prozesse klar zu werden und diese zu definieren. So steigern Sie die Produktivität und Mitarbeiterzufriedenheit in Ihrem Team.
+**Des structures claires:** Un plan d'action marketing vous aide à comprendre et à définir les structures et les processus nécessaires. Vous augmenterez ainsi la productivité et la satisfaction des collaborateurs de votre équipe.
 
-Wer mit einem guten Plan arbeitet, hat zudem die Möglichkeit, genau die für das jeweilige Ziel und den jeweiligen Kanal passenden Handlungsoptionen zu definieren und diese dann auf die Bedürfnisse Ihrer Zielgruppe zuzuschneiden.
+Celui qui travaille avec un bon plan a en outre la possibilité de définir précisément les options d'action adaptées à chaque objectif et à chaque canal, puis de les adapter aux besoins de votre groupe cible.
 
-## So erstellen Sie einen professionellen Marketingplan
+## Comment élaborer un plan marketing professionnel ?
 
-Bei jeder Marketingmaßnahme geht es darum, **innerhalb eines bestimmten Zeitraums ein bestimmtes Ziel zu erreichen**. Viele verschiedene, notwendige Handlungsschritte müssen dafür geplant, umgesetzt, analysiert und dokumentiert werden. Damit Ihr Marketingteam nicht den Überblick verliert, ist es sinnvoll, auf die Arbeit mit einer digitalen Marketingplan Vorlage zu setzen. Das hilft Ihnen, transparent zu kommunizieren, Prozesse zu strukturieren, Aufgaben effektiv zu priorisieren und jederzeit einen aktuellen Überblick über Ihre Projekte zu haben.
+Toute action marketing vise à **atteindre un objectif précis dans un délai donné**. Pour cela, de nombreuses étapes d'action différentes et nécessaires doivent être planifiées, mises en œuvre, analysées et documentées. Pour que votre équipe marketing ne perde pas la vue d'ensemble, il est judicieux de miser sur le travail avec un modèle de plan marketing numérique. Cela vous aide à communiquer de manière transparente, à structurer les processus, à prioriser efficacement les tâches et à avoir à tout moment une vue d'ensemble actualisée de vos projets.
 
-Wenn Sie einen Marketingplan schreiben, ist es wichtig, sich an den Anforderungen und Vorstellungen in Ihrem Unternehmen zu orientieren. Jedoch gibt es Marketingplan Inhalte, die auf jeden Fall enthalten sein sollten, um wirklich das beste Ergebnis aus Ihren Maßnahmen herauszuholen. Diese fünf Punkte sollten Sie als Bestandteile im Marketingplan berücksichtigen.
+Lorsque vous rédigez un plan marketing, il est important de se baser sur les exigences et les idées de votre entreprise. Toutefois, il existe des contenus de plan marketing qui devraient être inclus dans tous les cas afin de tirer le meilleur parti de vos mesures. Voici les cinq points que vous devez inclure dans votre plan marketing.
 
-![Formel für einen erfolgreichen Marketingplan](Einen-professionellen-Marketing-Plan-erstellen.jpg)
+![Formule pour un plan marketing réussi](Einen-professionellen-Marketing-Plan-erstellen.jpg)
 
-### 1\. Analysieren Sie den Ist-Zustand und legen Sie eine Strategie fest
+### 1\. Analysez la situation actuelle et définissez une stratégie.
 
-Bevor Sie die passenden Maßnahmen für Ihre Marketingprojekte definieren können, ist es wichtig, zu schauen, wo Sie und Ihr Unternehmen aktuell überhaupt stehen. Verschaffen Sie sich einen **Überblick zum Status quo** Ihrer Marketingabteilung: Was sind die **Stärken** und an welchen Stellen gibt es **Schwächen**? Welche **Chancen** bietet der Markt und was sind mögliche **Risiken**? Welches **Alleinstellungsmerkmal** (USP) hat Ihr Produkt oder Ihre Dienstleistung gegenüber der Konkurrenz? Wie ist die Marketingabteilung aufgestellt (Personal, Ressourcen, Kapazitäten)? Wo stehen Sie jetzt und wo wollen Sie hin – was ist Ihre Vision? Betrachten Sie an dieser Stelle auch Ihre Wettbewerber.
+Avant de pouvoir définir les mesures appropriées pour vos projets marketing, il est important de voir où vous et votre entreprise en êtes actuellement. Obtenez une **vue d'ensemble du statu quo** de votre département marketing : quels sont les **points forts** et quels sont les **points faibles** ? Quelles **opportunités** le marché offre-t-il et quels sont les **risques** possibles ? Quelle est la **caractéristique de vente unique** (USP) de votre produit ou de votre service par rapport à la concurrence ? Comment le département marketing est-il organisé (personnel, ressources, capacités) ? Où vous situez-vous actuellement et où souhaitez-vous aller - quelle est votre vision ? À ce stade, considérez également vos concurrents.
 
-Haben Sie den Ist-Zustand definiert, geht es im nächsten Schritt darum, welche Ziele Sie in naher, mittelfristiger und ferner Zukunft erreichen möchten.
+Une fois que vous avez défini la situation actuelle, l'étape suivante consiste à déterminer les objectifs que vous souhaitez atteindre dans un avenir proche, moyen ou lointain.
 
-### 2\. Formulieren Sie Ihre Vision und Ihre Zielsetzung
+### 2\. Formulez votre vision et votre objectif
 
-An welchem Punkt Ihre Marketingabteilung steht, wissen Sie jetzt. Nun geht es darum, herauszufinden, in welche Richtung sich Ihre Marketingmaßnahmen bewegen sollen: Was ist Ihre Zielsetzung? Orientieren Sie sich dabei am besten an der SMART-Methode und wählen Sie Ziele, die spezifisch, messbar, erreichbar, relevant für die Unternehmensziele und zeitgebunden sind. Denken Sie an diesem Punkt der Erstellung vom Marketingplan auch schon daran, Metriken und Benchmarks oder Zielmarken für die spätere Analyse festzulegen. Haben Sie alles ganz klar festgelegt, können Sie den Anfangs- und den Endpunkt Ihres Marketingplans bestimmen.
+Vous savez maintenant à quel stade se trouve votre département marketing. Il s'agit maintenant de déterminer dans quelle direction vos mesures de marketing doivent s'orienter : Quel est votre objectif ? Inspirez-vous de la méthode SMART et choisissez des objectifs spécifiques, mesurables, réalisables, pertinents par rapport aux objectifs de l'entreprise et datés. À ce stade de l'élaboration du plan marketing, pensez également à définir des indicateurs et des repères ou des objectifs pour une analyse ultérieure. Une fois que tout est clairement défini, vous pouvez déterminer le point de départ et le point d'arrivée de votre plan marketing.
 
-### 3\. Werfen Sie einen Blick auf Ihre Zielgruppe
+### 3\. Jetez un coup d'œil sur votre groupe cible
 
-Bevor Sie mit der konkreten Planung der erforderlichen Arbeitsschritte für die Zielerreichung beginnen, sollten Sie wissen, wer Ihre Zielgruppe ist. Denn konkrete Marketingaktivitäten planen, ohne zu wissen, für wen, kann zwar funktionieren, ist jedoch in der Regel mit deutlichen Streuverlusten verbunden. Eine sorgfältige Zielgruppenanalyse ist daher unbedingt empfehlenswert: Wen möchten Sie mit Ihren Aktivitäten ansprechen? Welche Eigenschaften machen Ihre Zielgruppe aus? Über welche Kanäle ist sie erreichbar? Wie gewinnen und halten Sie das Interesse Ihrer Zielgruppe (auch langfristig)? Anhand dieser Informationen können Sie dann idealtypische Benutzerpersönlichkeiten entwickeln, sogenannte Buyer Personas, auf die Ihre Maßnahmen zugeschnitten werden, wenn Sie Marketingaktivitäten planen.
+Avant de commencer à planifier concrètement les étapes de travail nécessaires à la réalisation de vos objectifs, vous devez savoir qui est votre groupe cible. En effet, planifier des activités de marketing concrètes sans savoir pour qui peut certes fonctionner, mais s'accompagne généralement de pertes de diffusion évidentes. Il est donc vivement recommandé de procéder à une analyse minutieuse du groupe cible : à qui souhaitez-vous vous adresser avec vos activités ? Quelles sont les caractéristiques de votre groupe cible ? Par quels canaux est-il accessible ? Comment gagnez-vous et maintenez-vous l'intérêt de votre groupe cible (également à long terme) ? Sur la base de ces informations, vous pouvez ensuite développer des personnalités d'utilisateurs idéales, appelées buyer personas, auxquelles vos mesures seront adaptées lorsque vous planifiez des activités de marketing.
 
-Nehmen Sie sich für diesen Schritt ruhig etwas mehr Zeit und halten Sie alle Informationen über Ihre Zielgruppe und Ihre Personas genau fest. Eine Marketingplan Vorlage hilft Ihnen dabei, Ihre Daten sauber zu strukturieren. Denn die Zielgruppe ist der alles entscheidende Faktor dafür, ob eine Kampagne top ist oder eher Flop.
+N'hésitez pas à prendre un peu plus de temps pour cette étape et à consigner avec précision toutes les informations relatives à votre groupe cible et à vos personas. Un modèle de plan marketing vous aide à structurer proprement vos données. En effet, le groupe cible est le facteur décisif qui détermine si une campagne est un succès ou un échec.
 
-### 4\. Bestimmen Sie Ihr Budget
+### 4\. Déterminez votre budget
 
-Sie kennen nun Ihre Ziele, Ihre Zielgruppen und Ihre Wettbewerber. Jetzt können Sie im nächsten Schritt das Budget festlegen, mit dem Ihre Marketingziele erreicht werden sollen. Definieren Sie Budgets je Marketingkanal und rechnen Sie am besten immer eine Reserve mit ein. Wichtig ist an dieser Stelle, ein realistisches Bild der eigenen Möglichkeiten zu haben, sowohl hinsichtlich der Ressourcen, die man investieren kann, als auch, welche Ergebnisse erzielt werden können.
+Vous connaissez maintenant vos objectifs, vos groupes cibles et vos concurrents. Vous pouvez maintenant passer à l'étape suivante et définir le budget qui vous permettra d'atteindre vos objectifs marketing. Définissez des budgets par canal de marketing et prévoyez de préférence toujours une réserve. Il est important à ce stade d'avoir une image réaliste de ses propres possibilités, tant en ce qui concerne les ressources que l'on peut investir que les résultats que l'on peut obtenir.
 
-Die Größe des Budgets sagt indes nichts über den zu erwartenden Erfolg der Kampagnen aus. Zwar werden Sie mit einem größeren Budget in der Regel auch einen größeren Erfolg erzielen. Jedoch nur, wenn Ihre Kampagne auch tatsächlich auf die Bedürfnisse der Zielgruppe zugeschnitten ist und diese anspricht, denn einen zwangsläufigen Zusammenhang zwischen Budgetgröße und Erfolg gibt es nicht. Hier kommt es vielmehr darauf an, dass Sie im dritten Schritt sauber gearbeitet haben und kreative Ideen entwickeln. Haben Sie das gemacht, lassen sich auch mit niedrigen Budgets gute Erfolge erzielen; fehlt indes eine klare Zielgruppe, werden Sie auch mit hohen Investitionen kaum Erfolg haben.
+La taille du budget ne préjuge pas du succès escompté des campagnes. Il est vrai qu'avec un budget plus important, vous obtiendrez généralement un plus grand succès. Mais seulement si votre campagne est réellement adaptée aux besoins du groupe cible et si elle lui parle, car il n'y a pas de lien obligatoire entre la taille du budget et le succès. Il s'agit plutôt de travailler proprement lors de la troisième étape et de développer des idées créatives. Si vous avez fait cela, il est possible d'obtenir de bons résultats même avec de faibles budgets.
 
-### 5\. Füllen Sie den Marketingplan mit Ihren Ideen und Maßnahmen
+### 5\. Remplissez le plan marketing avec vos idées et vos mesures
 
-Ist die Zielgruppe analysiert und das Budget festgelegt, beginnt der eigentliche Spaß und Sie können Ihren Marketingplan erstellen und mit Leben füllen. Sie kennen nun Ihre Ziele, Ihre USP und Ihre potentiellen Kunden. Nun gilt es, Ideen zu entwickeln und Kampagnen aufzusetzen. Überlegen Sie sich, falls noch nicht geschehen, spätestens jetzt, welche Kommunikationskanäle und Marketinginstrumente aus dem identifizierten Kanalmix wirklich relevant sind. Bestimmen Sie Zwischenziele und gliedern Sie Ihre Kampagnen in einzelne Phasen auf. Achten Sie bei Ihrem Marketing Maßnahmenplan auf einen ausgewogenen Kanal- und Maßnahmenmix. Passen Sie dabei auf, Ihre Maßnahmen nicht als einzelne, voneinander getrennte Projekte zu betrachten. Kombinieren Sie verschiedene Kanäle und Aktivitäten zu einer stimmigen Customer Journey, um ein konsistentes Markenerlebnis zu erzeugen, z. B. E-Mail, SEO, Anzeigen, Events, Ihre Website etc. Auch für diesen Schritt bietet es sich an, auf bestehende Marketingplan Beispiele und Vorlagen zurückzugreifen.
+Une fois que le groupe cible a été analysé et que le budget a été fixé, le vrai plaisir commence et vous pouvez élaborer votre plan marketing et lui donner vie. Vous connaissez maintenant vos objectifs, votre USP et vos clients potentiels. Il s'agit maintenant de développer des idées et de mettre en place des campagnes. Si ce n'est pas encore fait, réfléchissez au plus tard maintenant aux canaux de communication et aux instruments de marketing qui sont vraiment pertinents parmi le mix de canaux identifié. Définissez des objectifs intermédiaires et divisez vos campagnes en différentes phases. Dans votre plan d'action marketing, veillez à un mix équilibré de canaux et de mesures. Veillez à ne pas considérer vos mesures comme des projets individuels et séparés les uns des autres. Combinez différents canaux et activités en un parcours client cohérent afin de créer une expérience de marque cohérente, par exemple l'e-mail, le référencement, les annonces, les événements, votre site web, etc. Pour cette étape également, il est utile de recourir à des exemples de plans marketing et à des modèles existants.
 
-### 6\. Controlling und Erfolgsanalyse
+### 6\. Controlling et analyse des résultats
 
-Ein guter Marketing Maßnahmenplan beinhaltet nicht nur einen Überblick über sämtliche Aktivitäten einer Kampagne, sondern auch die Dokumentation des Kampagnenverlaufs. Das festigt eine strukturierte Vorgehensweise und macht es darüber hinaus möglich, den Fortschritt sowie die Wirtschaftlichkeit einer Kampagne jederzeit im Blick zu haben. So sehen Sie sofort, wenn sich eine Maßnahme in die falsche Richtung bewegt, und können frühzeitig gegensteuern. Wenn Sie einen Marketingplan erstellen, sollten Sie spätestens an diesem Punkt über Ihr Monitoring und Ihre Erfolgsmessung nachdenken. Kennzahlen, auch Metriken genannt, können Rückschlüsse auf den Erfolg Ihrer Aktivitäten und Optimierungspotentiale liefern. Im modernen datengetriebenen Performance Marketing mangelt es nicht an Zahlen, egal für welchen Kanal. Doch nicht jede Metrik ist gleichermaßen geeignet, um eine belastbare Aussage über Erfolg oder Misserfolg einer Kampagne treffen zu können. Entscheidend ist hier wieder, welches Ziel Sie verfolgen. Beantworten Sie für sich daher folgende Fragen: 
+Un bon plan d'action marketing ne comprend pas seulement une vue d'ensemble de toutes les activités d'une campagne, mais aussi la documentation du déroulement de la campagne. Cela consolide une approche structurée et permet en outre d'avoir à tout moment un aperçu de l'avancement et de la rentabilité d'une campagne. Ainsi, vous voyez tout de suite si une mesure va dans la mauvaise direction et vous pouvez prendre des mesures correctives à temps. Lorsque vous élaborez un plan marketing, c'est au plus tard à ce moment-là que vous devez penser à votre suivi et à la mesure de votre succès. Les chiffres clés, également appelés métriques, peuvent fournir des conclusions sur le succès de vos activités et sur les potentiels d'optimisation. Dans le marketing de performance moderne axé sur les données, les chiffres ne manquent pas, quel que soit le canal. Mais toutes les métriques ne sont pas adaptées de la même manière pour pouvoir tirer des conclusions solides sur le succès ou l'échec d'une campagne. Une fois de plus, l'objectif que vous poursuivez est déterminant. Répondez donc aux questions suivantes :
 
-- Welche Kennzahlen können Sie nutzen, um Maßnahmen zu monitoren und zu optimieren?
-- Anhand welcher zentraler Metriken, den KPI (Key Performance Indicators), können Sie den Erfolg einer Maßnahme bewerten?
-- Benötigen Sie zusätzliche Analysetools?
-- In welchen Abständen sollen Sie Maßnahmen bewerten?
-- In welcher Form und in welchen Intervallen sollen Sie über die Ergebnisse berichten? An wen?
+- Quels sont les indicateurs que vous pouvez utiliser pour contrôler et optimiser les mesures ?
+- Sur la base de quelles métriques centrales, les KPI (Key Performance Indicators), pouvez-vous évaluer le succès d'une mesure ?
+- Avez-vous besoin d'outils d'analyse supplémentaires ?
+- À quels intervalles de temps devez-vous évaluer les mesures ?
+- Sous quelle forme et à quels intervalles devez-vous rendre compte des résultats ? À qui ?
 
-Marketinginstrumente und Analysetools gehören zu jeder Marketingplanung dazu. So können Sie auch schwarz auf weiß sehen, welche Maßnahmen erfolgreich und welche weniger erfolgreich waren. Für nachfolgende Projekte können diese Erfahrungen sehr viel wert sein.
+Les instruments de marketing et les outils d'analyse font partie de toute planification marketing. Ainsi, vous pouvez également voir noir sur blanc quelles mesures ont été couronnées de succès et lesquelles l'ont été moins. Pour les projets suivants, ces expériences peuvent être très précieuses.
 
-![Marketingplan erstellen am Board](Header-Marketingplan.jpg)
+![Créer un plan marketing sur le tableau](Header-Marketingplan.jpg)
 
-## Vom Wollen ins Machen: Umsetzung der Kampagnen
+## De la volonté à la réalisation : Mise en œuvre des campagnes
 
-Ihre Marketing Planung ist nun abgeschlossen, doch das Wichtigste kommt noch: die Umsetzung. Dieser Tipp klingt zwar banal, lässt sich aber nicht überbetonen. Denn vermutlich haben Sie auch schon erlebt, dass kreative Ideen einfach versandet sind – sei es, weil sich niemand zuständig gefühlt hat, oder weil die Aufgaben in intransparenten und unübersichtlichen Prozessen einfach übersehen wurden. Einen Marketingplan erstellen ist jedoch ein aufwendiger Prozess, der viel Zeit in Anspruch nimmt und in der Regel nicht von einer Person alleine bewältigt werden kann. Es ist ein Investment in den zukünftigen Erfolg Ihres Unternehmens. Darum ist es wichtig, sicherzustellen, dass diese Ressourcen nicht verschwendet werden.
+Votre plan marketing est maintenant terminé, mais le plus important reste à faire : la mise en œuvre. Ce conseil peut paraître banal, mais il ne faut pas en abuser. En effet, vous avez probablement déjà constaté que des idées créatives se sont tout simplement enlisées - soit parce que personne ne se sentait compétent, soit parce que les tâches ont tout simplement été ignorées dans des processus peu transparents et peu clairs. Or, l'élaboration d'un plan marketing est un processus complexe qui prend beaucoup de temps et qui ne peut généralement pas être géré par une seule personne. C'est un investissement dans le succès futur de votre entreprise. C'est pourquoi il est important de s'assurer que ces ressources ne sont pas gaspillées.
 
-### Klare Prozesse und transparente Kommunikation
+### Des processus clairs et une communication transparente
 
-Wenn Sie einen Marketingplan erstellen und Kampagnen planen, werden Arbeitsprozesse zwangsläufig mit gedacht. Legen Sie klare Prozesse und Zuständigkeiten fest. Kommunizieren Sie Ihren Plan innerhalb des Unternehmens und holen Sie alle betroffenen Abteilungen mit ins Boot. Die beste Lead-Generierungs-Kampagne bringt keine brauchbaren Ergebnisse, wenn Ihr Vertrieb nicht Bescheid weiß und es vor und während der Kampagnen-Laufzeit keinen Austausch gibt. Machen Sie Ihren Plan und Ihre Kommunikation transparent, so dass die beteiligten Teammitglieder und die Stakeholder jederzeit über den aktuellen Stand im Bilde sind. So verhindern Sie unnötige Nachfragen oder Entscheidungen, die auf veralteten Grundlagen basieren.
+Lorsque vous élaborez un plan marketing et planifiez des campagnes, les processus de travail sont inévitablement pris en compte. Définissez des processus et des responsabilités clairs. Communiquez votre plan au sein de l'entreprise et faites participer tous les départements concernés. La meilleure campagne de génération de leads ne donnera pas de résultats utiles si votre service commercial n'est pas au courant et s'il n'y a pas d'échange avant et pendant la durée de la campagne. Rendez votre plan et votre communication transparents, de sorte que les membres de l'équipe impliqués et les parties prenantes soient toujours au courant de l'état actuel. Vous éviterez ainsi des demandes de renseignements inutiles ou des décisions basées sur des bases obsolètes.
 
-### Marketingplanung mit digitalen Tools
+### Planification marketing avec des outils numériques
 
-Einen Marketingplan als Vorlage auf Papier anzulegen, ist eine Möglichkeit – die jedoch nicht unbedingt zielführend ist. Oder können Sie sich vorstellen, dass alle aus dem Marketingteam mit nur einem einzigen Zettel arbeiten, auf dem sie alle Daten zum Projekt notieren, ausbessern, durchstreichen etc.? Wesentlich unkomplizierter, schneller und transparenter geht es mit digitalen Tools zur Marketingplanung. Ob Hubspot, SeaTable oder Asana – digitale [Marketing Tools](https://seatable.com/marketing-tool/) wie diese helfen Ihnen dabei, sämtliche Informationen zusammenzuführen, die zeitliche und inhaltliche Steuerung im Blick zu behalten und alles für jeden Beteiligten übersichtlich darzustellen.
+Créer un plan marketing sous forme de modèle sur papier est une possibilité - mais qui n'est pas forcément efficace. Vous imaginez que tous les membres de l'équipe marketing travaillent avec une seule feuille de papier sur laquelle ils notent, corrigent, raturent, etc. toutes les données relatives au projet ? Les outils numériques de planification marketing sont beaucoup plus simples, rapides et transparents. Qu'il s'agisse de Hubspot, SeaTable ou Asana, les [outils marketing] numériques (https://seatable.com/marketing-tool/) comme celui-ci vous aident à rassembler toutes les informations, à garder un œil sur la gestion du temps et du contenu et à tout présenter de manière claire pour tous les participants.
 
-### Messen, messen, messen: Optimierung hört niemals auf
+### Mesurer, mesurer, mesurer : L'optimisation ne s'arrête jamais
 
-Sie wissen schon, dass es wichtig ist, bereits bei der Erstellung vom Marketingplan die Analyse und Optimierung Ihrer Kampagnen mitzudenken. Seien Sie sich bewusst, dass dies ein andauernder Prozess ist. Vermutlich werden Sie die Intervalle mit der Zeit verlängern. Sie sollten Ihre Maßnahmen jedoch bis zum Kampagnenende regelmäßig monitoren und bei Bedarf optimieren – oder einzelne Maßnahmen einstellen. Wichtig: Handeln Sie anhand der Daten, statt an vorgefertigten Annahmen festzuhalten. Ebenso wichtig ist es, auch die eigenen Prozesse regelmäßig zu hinterfragen und anzupassen. Gibt es unklare Zuständigkeiten? Sind die Prozesse so aufgebaut, dass an alles gedacht wird? Greifen die Arbeitsabläufe ineinander? Bestehen Engpässe innerhalb des Teams, durch die Kampagnen-Zeitpläne gefährdet sind? Mit einem Online Marketing Plan schaffen Sie die nötige Transparenz. Nutzen Sie am besten ein Tool, dass kollaboratives Arbeiten in Echtzeit ermöglicht, damit Ihre Teammitglieder immer auf demselben Informationsstand sind.   
+Vous savez déjà qu'il est important de penser à l'analyse et à l'optimisation de vos campagnes dès l'élaboration du plan marketing. Soyez conscient qu'il s'agit d'un processus continu. Il est probable que vous allongiez les intervalles avec le temps. Vous devriez toutefois contrôler régulièrement vos mesures jusqu'à la fin de la campagne et les optimiser si nécessaire - ou arrêter certaines mesures. Important : agissez sur la base des données au lieu de vous en tenir à des hypothèses préconçues. Il est tout aussi important de remettre en question et d'adapter régulièrement ses propres processus. Les responsabilités ne sont-elles pas claires ? Les processus sont-ils conçus de manière à ce que l'on pense à tout ? Les processus de travail s'imbriquent-ils les uns dans les autres ? Existe-t-il des goulots d'étranglement au sein de l'équipe qui mettent en péril le calendrier des campagnes ? Avec un plan de marketing en ligne, vous créez la transparence nécessaire. Utilisez de préférence un outil qui permet un travail collaboratif en temps réel, afin que les membres de votre équipe soient toujours au même niveau d'information.   
 
-![Analysen von Marketingkonzept](Optimierung-hoert-nicht-auf.jpg)
+![Analyse du concept marketing](Optimierung-hoert-nicht-auf.jpg)
 
-## Fazit: Marketingplan erstellen
+## Conclusion : créer un plan marketing
 
-Ein sorgfältig erstellter Plan ist die Grundlage für den Erfolg Ihrer Kampagnen. Er schafft Klarheit über Ziele, Kanäle, Maßnahmen und die beteiligten Mitarbeiter, legt Verantwortlichkeiten fest und verbessert die Organisation und Arbeitsabläufe innerhalb des Teams. Entsprechend aufgesetzt, werden Sie und Ihr Team effizienter und gewinnen so wertvolle Zeit für das, was Ihre Kampagnen wirklich voranbringt: die kreative Arbeit. Und er sorgt für die notwendige Transparenz und Absprache innerhalb des Unternehmens. Nutzen Sie unsere sechs Schritte für Ihren nächsten Marketing Maßnahmenplan, um Ihre Ziele zu erreichen. Und wenn Sie immer noch Bedenken haben, dass es wertvolle Zeit in Anspruch nimmt, einen Marketingplan schreiben, die Sie lieber anders nutzen möchten: Mit unserer kostenlosen Marketing Plan Vorlage, sind Sie einem effizient erstellten Plan einen großen Schritt näher.
+Un plan soigneusement élaboré est la base du succès de vos campagnes. Il permet de clarifier les objectifs, les canaux, les mesures et les collaborateurs impliqués, de définir les responsabilités et d'améliorer l'organisation et les processus de travail au sein de l'équipe. Mis en place en conséquence, vous et votre équipe devenez plus efficaces et gagnez ainsi un temps précieux pour ce qui fait vraiment avancer vos campagnes : le travail créatif. Et il assure la transparence et la concertation nécessaires au sein de l'entreprise. Utilisez nos six étapes pour votre prochain plan d'action marketing afin d'atteindre vos objectifs. Et si vous craignez toujours que la rédaction d'un plan marketing prenne un temps précieux que vous préféreriez utiliser autrement : Avec notre modèle de plan marketing gratuit, vous êtes à deux doigts d'un plan efficacement rédigé.
 
-### Direkt loslegen mit Ihrer individuellen Marketing Plan Vorlage
+### Commencez directement avec votre modèle de plan marketing personnalisé
 
-Ob [Marketingkampagne](https://seatable.io/vorlage/to2pxzc9q0ww0ciwhfyosa/), Social-Media- oder Redaktionsplan, Konkurrenzanalyse, Kundenfeedback oder NPS Fragebogen – für jede Marketingplanung gibt es bei SeaTable fertige Vorlagen, die alle wichtigen Aspekte beinhalten und sich gleichzeitig flexibel an Ihre Bedürfnisse anpassen lassen. So können Sie direkt mit Ihrer Marketingplanung loslegen. Eine digitale Vorlage sorgt dafür, dass Sie Ihre Arbeitsprozesse vereinfachen und den Arbeitsaufwand reduzieren können. Mit einem digitalen Tool wie SeaTable haben Sie die Möglichkeit, Ihren Marketingplan zum Beispiel zur Prozessoptimierung zu nutzen und Ihrem gesamten Team so ein effizienteres und kreativeres Arbeiten zu ermöglichen. Und das sind nicht die einzigen Vorteile:  
+Qu'il s'agisse d'une [campagne marketing](https://seatable.io/vorlage/to2pxzc9q0ww0ciwhfyosa/), d'un plan pour les médias sociaux ou d'un plan éditorial, d'une analyse de la concurrence, d'un retour d'informations de la part des clients ou d'un questionnaire NPS, SeaTable propose des modèles prêts à l'emploi pour chaque plan marketing, qui contiennent tous les aspects importants tout en étant flexibles et adaptables à vos besoins. Vous pouvez ainsi vous lancer directement dans votre planification marketing. Un modèle numérique vous permet de simplifier vos processus de travail et de réduire la charge de travail. Avec un outil numérique comme SeaTable, vous avez la possibilité d'utiliser votre plan marketing pour optimiser les processus, par exemple, et de permettre ainsi à toute votre équipe de travailler de manière plus efficace et plus créative. Et ce ne sont pas les seuls avantages :
 
-- Als digitales Tool macht SeaTable es möglich, wiederkehrende Tätigkeiten über alle Projektphasen hinweg zu automatisieren. Das spart wertvolle Zeit.
-- Dank übersichtlicher und detaillierter Planung hilft das Tool, Projekte transparent zu organisieren sowie zeitlich und inhaltlich zu steuern.
-- Als zentrales System, das alle Informationen enthält, sorgt SeaTable dafür, dass jedes Teammitglied die Ziele, Maßnahmen und Fristen eines Projektes kennt und so seine Arbeit effizient einteilen kann 
-- Ob Texte, Bilder oder Datumswerte – SeaTable kann mit jeder Art von Information arbeiten. So haben Sie für Ihre Marketingplanvorlage auch die Möglichkeit, andere Anwendungen und Tools in SeaTable zu integrieren – alles ganz übersichtlich an einem Ort.
+- En tant qu'outil numérique, SeaTable permet d'automatiser les tâches répétitives à travers toutes les phases du projet. Cela permet de gagner un temps précieux.
+- Grâce à une planification claire et détaillée, l'outil permet d'organiser les projets de manière transparente et de les contrôler en termes de temps et de contenu.
+- En tant que système central contenant toutes les informations, SeaTable permet à chaque membre de l'équipe de connaître les objectifs, les mesures et les délais d'un projet et de répartir ainsi efficacement son travail.
+- Qu'il s'agisse de textes, d'images ou de valeurs de dates, SeaTable peut travailler avec tout type d'information. Ainsi, pour votre modèle de plan marketing, vous avez également la possibilité d'intégrer d'autres applications et outils dans SeaTable - tout cela de manière très claire et en un seul endroit.
 
-## FAQ – Marketingplan
+## FAQ - Plan marketing
 
 {{< faq >}}
 
-Was ist ein Marketingplan? |||
+Qu'est-ce qu'un plan marketing ? |||
 
-Ein Marketingplan ist ein Dokument, in dem die geplanten Marketingaktivitäten eines Unternehmens mit Zielgruppen und Kampagnenlaufzeit festgehalten werden.
+Un plan marketing est un document dans lequel sont consignées les activités marketing prévues par une entreprise, avec les groupes cibles et la durée de la campagne.
 
 ---
 
-Was muss bei der Erstellung eines Marketingplans berücksichtigt werden? |||
+Quels sont les éléments à prendre en compte lors de l'élaboration d'un plan marketing ? |||
 
-Wenn Sie einen Marketing Plan erstellen, gibt es unabhängig von den Zielen und Produkten eines Unternehmens einige Punkte, die Sie beim Marketingplan Aufbau berücksichtigen müssen:
+Lorsque vous élaborez un plan marketing, quels que soient les objectifs et les produits d'une entreprise, il y a certains points dont vous devez tenir compte lors de la mise en place du plan marketing :
 
-- Controlling und Ergebnisanalyse
-- Ist-Analyse der eigenen Ressourcen
-- Zielbestimmung
-- Zielgruppendefinition
+- Contrôle de gestion et analyse des résultats
+- Analyse de la situation actuelle des propres ressources
+- Définition des objectifs
+- Définition du groupe cible
 - Budget
-- Ideen- und Maßnahmenplan
+- Plan d'idées et de mesures
 
 ---
 
-Warum sollte man eine Cloud-Lösung wie SeaTable nutzen, um einen Marketingplan zu erstellen? |||
+Pourquoi utiliser une solution cloud comme SeaTable pour créer un plan marketing ? |||
 
-Die Nutzung eines Cloud-Tools wie z. B. SeaTables bietet einige Vorteile. Zum einen ermöglichen diese Tools ein schnelleres, effizienteres und transparenteres Arbeiten im Team, wodurch Missverständnisse vermieden werden. Zum anderen wird die zeitliche und inhaltliche Steuerung aller Aufgaben erleichtert, wenn Informationen zentral zusammengeführt und jederzeit abgerufen werden können.
+L'utilisation d'un outil en nuage tel que SeaTables présente plusieurs avantages. D'une part, ces outils permettent de travailler en équipe de manière plus rapide, plus efficace et plus transparente, ce qui évite les malentendus. D'autre part, la gestion du temps et du contenu de toutes les tâches est facilitée lorsque les informations sont centralisées et peuvent être consultées à tout moment.
 
 {{< /faq >}}

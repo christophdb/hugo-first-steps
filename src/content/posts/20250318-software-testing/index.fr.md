@@ -3,7 +3,7 @@ title: "Testing logiciel efficace : comment optimiser la recherche d'erreurs"
 description: "Chaque logiciel a ses pièges - mais seul celui qui les trouve peut y remédier. Les tests logiciels révèlent les erreurs cachées et permettent de transformer les idées en produits aboutis. Vous découvrirez ici comment les tests rendent votre application plus stable et pourquoi ils sont indispensables à la réussite de vos projets."
 date: 2025-03-18
 categories: 
-  - "Généralités"
+  - "Général"
   - "Meilleures pratiques"
 tags: 
   - "Processus informatiques"
