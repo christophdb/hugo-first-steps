@@ -7,22 +7,25 @@ enableGitInfo = true
 
 # FIXME: klären, ob das lokal auskommentiert werden kann, weil ich in build.sh ja lastmod mitgebe...
 [frontmatter]
-  lastmod = ["lastmod", ":git", "date", "publishDate"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [sitemap]
-  changeFreq = 'daily'
-  filename = 'sitemap.xml'
-  priority = 0.5
+changeFreq = 'daily'
+filename = 'sitemap.xml'
+priority = 0.5
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "post-sitemap", "page-sitemap"]
+home = ["HTML", "RSS", "JSON", "post-sitemap", "page-sitemap"]
 
 [outputFormats.post-sitemap]
-  baseName  = 'post-sitemap'
-  mediaType = 'application/xml'
-  noUgly = true
+baseName = 'post-sitemap'
+mediaType = 'application/xml'
+noUgly = true
 
 [outputFormats.page-sitemap]
-  baseName  = 'page-sitemap'
-  mediaType = 'application/xml'
-  noUgly = true
+baseName = 'page-sitemap'
+mediaType = 'application/xml'
+noUgly = true
+
+[pagination]
+pagerSize = 15
