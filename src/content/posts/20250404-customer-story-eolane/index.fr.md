@@ -3,12 +3,12 @@ title: "Réussir la numérisation de la gestion des commandes avec SeaTable - un
 description : "Résumé manquant"
 date: 2025-04-04
 categories: 
-  - "Customer Story"
+  - "Témoignage client"
   - "No Code / Low Code"
 tags: 
-  - "Datenmanagement & Visualisierung"
-  - "Digitale Transformation"
-  - "Integration & Automatisierung"
+  - "Gestion des données & visualisation"
+  - "Transformation digitale"
+  - "Intégration & automatisation"
   - "Low-Code / No-Code"
 color: "#469361"
 url: "/fr/succes-de-la-numerisation-de-la-gestion-des-ordres-avec-un-seatable-usage-de-eolane"
