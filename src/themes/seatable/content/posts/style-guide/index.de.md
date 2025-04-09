@@ -17,6 +17,11 @@ Die Blogbeiträge, die wir mit Hugo schreiben, unterstützen die typischen [Mark
 - **Fett-** und _Kursivschrift_ durch `**Fett-**` oder `*Kursivschrift*`
 - Aufzählungslisten durch `- xxx` oder `1. xxx`
 - horizontale Linien durch `---`
+- Quotes mit `>`
+
+> **Markdown ist wirklich einfach zu erlernen**. Ihr werdet sehen, dass Ihr maximal ein paar Stunden braucht, um damit zurechtzukommen.
+>
+> -- Christoph Dyllick-Brenzinger
 
 ---
 

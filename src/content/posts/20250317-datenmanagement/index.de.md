@@ -121,7 +121,7 @@ Im Gegensatz zu anderen relationalen Datenbanken können Sie auf der **grafische
 
 Mit dem **No-Code-App-Builder** von SeaTable können Sie ohne Programmierkenntnisse eigene Apps bauen und so den Zugriff auf die Daten in Ihrer Datenbank zielgenau steuern. Für das App-Design gibt es vorgefertigte Seitentypen mit visuellen Elementen, die Sie einfach per Drag-and-Drop zusammenfügen können.
 
-SeaTable überlässt Ihnen die freie Entscheidung zwischen dem Komfort einer [Cloudlösung]({{< relref "pages/product/seatable-cloud" >}}) und der Datenhoheit, die Sie mit einem selbstgehosteten System genießen. Sie werden gerade hellhörig? Dann [registrieren Sie sich einfach kostenlos](https://seatable.com/registrierung/) und probieren Sie die SeaTable Cloud zeitlich unbegrenzt aus.
+SeaTable überlässt Ihnen die freie Entscheidung zwischen dem Komfort einer [Cloudlösung]({{< relref "pages/product/seatable-cloud" >}}) und der Datenhoheit, die Sie mit einem selbstgehosteten System genießen. Sie werden gerade hellhörig? Dann [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) und probieren Sie die SeaTable Cloud zeitlich unbegrenzt aus.
 
 ## Treiben Sie die Digitalisierung in Ihrem Unternehmen voran
 
