@@ -1,76 +1,76 @@
 name: Build
 
 on:
-  push:
-    branches: 
-      - main
+    push:
+        branches:
+            - main
 
 env:
-  GO_VERSION: 1.24.1
-  MUFFET_VERSION: v2.10.7
+    GO_VERSION: 1.24.1
+    MUFFET_VERSION: v2.10.7
 
 jobs:
-  create-archive:
-    name: Create archive
-    runs-on: ubuntu-22.04
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetches entire commit history for git lastmod
-      
-      - name: Build site
-        run: ./build.sh
-      
-      - name: Create tar.gz archive
-        run: tar -czvf archive.tar.gz public
-        working-directory: src
-      
-      # Step 4: Upload the archive as an artifact
-      - name: Upload tar.gz artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: site
-          path: src/archive.tar.gz
-  check-links:
-    name: Check links
-    runs-on: ubuntu-22.04
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      - uses: actions/setup-go@v2
-        with:
-          go-version: ${{ env.GO_VERSION }}
-      - name: Start development server
-        run: docker compose up -d
-      - name: Add $GOPATH/bin to $PATH
-        run: |
-          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
-      - name: Install muffet
-        run: go install github.com/raviqqe/muffet/v2@${MUFFET_VERSION}
-      - name: Check links
-        run: muffet -t60 -c10 -f -i 'http://127*' -i 'http://localhost' http://127.0.0.1:1313
-  deploy:
-    name: Deploy
-    needs:
-      - create-archive
-      - check-links
-    runs-on: ubuntu-22.04
-    steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: site
-      - name: Extract archive
-        run: tar xf archive.tar.gz
-      - name: Add SSH Key
-        uses: shimataro/ssh-key-action@v2
-        with:
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          known_hosts: placeholder
-      - name: Adding Known Hosts
-        run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
-      - name: Deploy with rsync
-        # There's no target path after the last colon since rrsync is used on the server
-        run: "rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:"
-        working-directory: public
+    create-archive:
+        name: Create archive
+        runs-on: ubuntu-22.04
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0 # Fetches entire commit history for git lastmod
+
+            - name: Build site
+              run: ./build.sh
+
+            - name: Create tar.gz archive
+              run: tar -czvf archive.tar.gz public
+              working-directory: src
+
+            # Step 4: Upload the archive as an artifact
+            - name: Upload tar.gz artifact
+              uses: actions/upload-artifact@v4
+              with:
+                  name: site
+                  path: src/archive.tar.gz
+    check-links:
+        name: Check links
+        runs-on: ubuntu-22.04
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+            - uses: actions/setup-go@v2
+              with:
+                  go-version: ${{ env.GO_VERSION }}
+            - name: Start development server
+              run: docker compose up -d
+            - name: Add $GOPATH/bin to $PATH
+              run: |
+                  echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+            - name: Install muffet
+              run: go install github.com/raviqqe/muffet/v2@${MUFFET_VERSION}
+            - name: Check links
+              run: muffet -t60 -c10 -f -i 'http://127*' -i 'http://localhost' http://127.0.0.1:1313
+    deploy:
+        name: Deploy
+        needs:
+            - create-archive
+            - check-links
+        runs-on: ubuntu-22.04
+        steps:
+            - name: Download artifact
+              uses: actions/download-artifact@v4
+              with:
+                  name: site
+            - name: Extract archive
+              run: tar xf archive.tar.gz
+            - name: Add SSH Key
+              uses: shimataro/ssh-key-action@v2
+              with:
+                  key: ${{ secrets.SSH_PRIVATE_KEY }}
+                  known_hosts: placeholder
+            - name: Adding Known Hosts
+              run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+            - name: Deploy with rsync
+              # There's no target path after the last colon since rrsync is used on the server
+              run: 'rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:'
+              working-directory: public
