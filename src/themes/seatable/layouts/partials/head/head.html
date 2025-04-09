@@ -30,7 +30,11 @@
     {{ if .Site.Params.Seo.googleSearchConsoleVerificationTag }}
         <meta name="google-site-verification" content="{{ .Site.Params.Seo.googleSearchConsoleVerificationTag }}" />
     {{ end }}
+
+
     <!-- social ... -->
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
 
     {{ partialCached "head/css.html" . }}
     {{ partialCached "head/js.html" . }}
