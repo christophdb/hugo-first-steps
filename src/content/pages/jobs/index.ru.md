@@ -1,56 +1,55 @@
 ---
-title: "Jobs"
+title: 'Jobs'
 date: '2025-04-03'
 
-url: '/jobs'
-
+url: '/ru/jobs'
 
 sections:
-- name: hero-2
-  weight: 1
-  title: "Come to our Global Office"
-  subtitle: "Stay where you feel comfortable"
-  text: "With our no-code platform, we are revolutionizing the way people around the world will work with data in the future. For this mission, we need people with drive and the will to make a difference. People who take the initiative and stay on the ball with their jobs."
-  image:
-    src: "/images/people-at-work.png"
-    alt: "people-at-work"
+    - name: hero-2
+      weight: 1
+      title: 'Присоединяйтесь к нашему глобальному офису'
+      subtitle: 'Оставайтесь там, где вам комфортно'
+      text: 'С нашей платформой без кода мы революционизируем то, как люди по всему миру будут работать с данными в будущем. Для этой миссии нам нужны люди с мотивацией и желанием менять мир. Люди, которые проявляют инициативу и остаются преданными своему делу.'
+      image:
+          src: '/images/people-at-work.png'
+          alt: 'люди-за-работой'
 
-- name: content-19
-  weight: 2
-  title: "Let's change the world"
-  subtitle: "SeaTable connects"
-  text: "Because only together can we make a difference.<br/>
-    That's why we at SeaTable have created a working environment that focuses on trust and team spirit. Each of our employees can decide for themselves where they work from - because time zone or location don't play a role in the result. The main thing is that you feel comfortable.<br/><br/>What counts instead is enthusiasm - and that's what unites us. We live the philosophy behind the no-code approach and are passionate about improving the everyday working lives of thousands of people.<br/><br/>
-    <strong>Are you with us?</strong>"
-  gridheadline: "Open positions"
+    - name: content-19
+      weight: 2
+      title: 'Давайте изменим мир вместе'
+      subtitle: 'SeaTable объединяет'
+      text: 'Только вместе мы можем что-то изменить.<br/>
+          Именно поэтому в SeaTable мы создали рабочую среду, основанную на доверии и командном духе. Каждый из наших сотрудников может сам решать, откуда работать — ведь часовой пояс или местоположение не имеют значения для результата. Главное, чтобы вам было комфортно.<br/><br/>Что действительно важно — это энтузиазм, и именно он нас объединяет. Мы живем философией подхода без кода и с энтузиазмом улучшаем повседневную рабочую жизнь тысяч людей.<br/><br/>
+          <strong>Вы с нами?</strong>'
+      gridheadline: 'Открытые вакансии'
 
-- name: content-20
-  weight: 3
-  title: "We live the team spirit"
+    - name: content-20
+      weight: 3
+      title: 'Мы живем командным духом'
 
-- name: content-21
-  weight: 4
-  classes:
-  - bg-gray-100
-  - curved
-  title: "These benefits await you"
-  text: "Okay, hand on heart - we don't have expensive cars or a world-famous name. Because we think freedom is worth much more. Do you feel the same way? Then become part of our team and look forward to:"
-  items:
-  - headline: First-class work equipment
-    text: "<em>Creating more together</em> - To ensure that we can work efficiently, reliably and comfortably everywhere, every team member receives the equipment he or she needs. Because only those who like to work, work well!"
-  - headline: "Responsibility and ownership"
-    text: "<em>Growing together</em> - standing still is not our thing. That's why we not only develop SeaTable further, but also your skills! Together we will find the right tasks to help you progress."
-  - headline: "Freedom and balance"
-    text: "<em>Experience more together</em> - Stay digitally connected with us and work in our Global Office when and where you want. Never miss out on what's important to you - whether it's a mountain climb or grandma's birthday coffee."
-  - headline: "Our team and the community"
-    text: "<em>Moving more together</em> - SeaTable is more than just software. We want to create something great together and share it with the SeaTable community around the world. Become a part of it now!"
+    - name: content-21
+      weight: 4
+      classes:
+          - bg-gray-100
+          - curved
+      title: 'Эти преимущества ждут вас'
+      text: 'Честно говоря, у нас нет дорогих машин или всемирно известного имени. Потому что мы считаем, что свобода стоит гораздо больше. Вы чувствуете то же самое? Тогда присоединяйтесь к нашей команде и готовьтесь к:'
+      items:
+          - headline: Первоклассное рабочее оборудование
+            text: '<em>Создавать больше вместе</em> — Чтобы мы могли работать эффективно, надежно и комфортно в любом месте, каждый член команды получает необходимое оборудование. Ведь только те, кто любит свою работу, работают хорошо!'
+          - headline: 'Ответственность и самостоятельность'
+            text: '<em>Расти вместе</em> — стоять на месте — это не про нас. Поэтому мы развиваем не только SeaTable, но и ваши навыки! Вместе мы найдем подходящие задачи, чтобы помочь вам двигаться вперед.'
+          - headline: 'Свобода и баланс'
+            text: '<em>Испытывать больше вместе</em> — Оставайтесь на связи с нами в цифровом формате и работайте в нашем глобальном офисе тогда и там, где вам удобно. Никогда не упускайте важные моменты вашей жизни — будь то восхождение на гору или кофе на дне рождения бабушки.'
+          - headline: 'Наша команда и сообщество'
+            text: '<em>Двигаться дальше вместе</em> — SeaTable — это не просто программное обеспечение. Мы хотим создать что-то великое вместе и поделиться этим с мировым сообществом SeaTable. Присоединяйтесь сейчас!'
 
-- name: content-3
-  weight: 5
-  title: "Apply now and become a SeaTabler!"
-  subtitle: "What are you waiting for?"
-  button:
-    label: "Apply now"
-    link: "#"
-    style: "primary"
+    - name: content-3
+      weight: 5
+      title: 'Подайте заявку сейчас и станьте частью команды SeaTable!'
+      subtitle: 'Чего вы ждете?'
+      button:
+          label: 'Подать заявку'
+          link: '#'
+          style: 'primary'
 ---
