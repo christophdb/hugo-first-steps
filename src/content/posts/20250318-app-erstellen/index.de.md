@@ -1,15 +1,15 @@
 ---
-title: "Schnell, einfach und kostenlos: Wie Sie ohne Code eine eigene App erstellen"
-description: "Eine eigene App zu entwickeln, muss weder teuer noch kompliziert sein. Mit modernen No-Code-Tools können Sie Ihre Ideen schnell und einfach umsetzen – ganz ohne Programmierkenntnisse. In diesem Artikel erfahren Sie, welche Tools sich besonders eignen und wie Sie Ihre App in wenigen Schritten selbst erstellen können."
+title: 'Schnell, einfach und kostenlos: Wie Sie ohne Code eine eigene App erstellen'
+description: 'Eine eigene App zu entwickeln, muss weder teuer noch kompliziert sein. Mit modernen No-Code-Tools können Sie Ihre Ideen schnell und einfach umsetzen – ganz ohne Programmierkenntnisse. In diesem Artikel erfahren Sie, welche Tools sich besonders eignen und wie Sie Ihre App in wenigen Schritten selbst erstellen können.'
 date: 2025-03-18
-categories: 
-  - "Allgemein"
-  - "No Code / Low Code"
-tags: 
-  - "Toolings & Plugins"
-  - "Universal App Builder"
-color: "#9fe0cc"
-url: "/de/app-erstellen"
+categories:
+    - 'Allgemein'
+    - 'No Code / Low Code'
+tags:
+    - 'Toolings & Plugins'
+    - 'Universal App Builder'
+color: '#9fe0cc'
+url: '/de/app-erstellen'
 ---
 
 ## Wie Sie ohne Programmierkenntnisse eine eigene App erstellen können
@@ -24,7 +24,7 @@ Die Zeiten, in denen man programmieren musste, um eine eigene App zu erstellen, 
 
 Solche App Builder bieten Ihnen die Möglichkeit, Apps zu programmieren - kostenlos und ohne komplexe Hürden. Sie vereinfachen Ihre Prozesse und erstellen maßgeschneiderte Lösungen, die genau **auf Ihre Bedürfnisse zugeschnitten** sind. So lassen sich innovative Ideen schnell umsetzen, die Effizienz steigern und der Workflow optimieren.
 
-![MacBook Pro - Quellcode App Builder](No-Code-App-Builder.jpg "Verabschieden Sie sich von sperrigem Code und aufwändigem Programmieren.")
+![MacBook Pro - Quellcode App Builder](No-Code-App-Builder.jpg 'Verabschieden Sie sich von sperrigem Code und aufwändigem Programmieren.')
 
 ## Wo Sie App Builder anwenden können
 
@@ -32,7 +32,7 @@ In Unternehmen aller Branchen gibt es vielfältige Workflows, die oft komplex un
 
 - **Marketing:** Organisieren Sie Ihre Kampagnen, verfolgen Sie Ihre Erfolge und halten Sie Ihr Team auf Kurs. Mit einer personalisierten Marketing-App behalten Sie den Überblick – und sorgen dafür, dass Ihnen nichts mehr durch die Lappen geht.
 - **Projektmanagement:** Schluss mit dem Papierchaos und den endlosen E-Mail-Verläufen! Erstellen Sie Apps, die Ihnen helfen Aufgaben und Deadlines im Blick zu behalten. Gestalten Sie Teamarbeit übersichtlich und ressourcenschonend.
-- **HR:** Mit einer cleveren HR-App bringen Sie Ordnung in alle [HR-Prozesse](https://seatable.com/hr-prozesse/). Von Urlaubsanträgen über Arbeitszeiten bis hin zu Lohnabrechnungen – alles digital an einem Ort. So sparen Sie Ressourcen, reduzieren Fehler und haben mehr Zeit für das Wesentliche: Ihr Team.
+- **HR:** Mit einer cleveren HR-App bringen Sie Ordnung in alle [HR-Prozesse]({{< relref "pages/industry-solutions/hr" >}}). Von Urlaubsanträgen über Arbeitszeiten bis hin zu Lohnabrechnungen – alles digital an einem Ort. So sparen Sie Ressourcen, reduzieren Fehler und haben mehr Zeit für das Wesentliche: Ihr Team.
 - **Vertrieb:** Ob unterwegs oder im Büro – haben Sie Ihre Kundendaten immer griffbereit. Im Vertrieb kann eine App dabei helfen, Kundenkontakte zu pflegen, Verkaufszahlen zu überwachen und Angebote zu erstellen – und das alles mit wenigen Klicks. So verkürzen Sie Verkaufszyklen, verbessern die Kundenbindung und steigern Ihren Umsatz.
 - **Softwareentwicklung:** Selbst Entwickler profitieren davon, eine eigene App zu erstellen: testen Sie User-Interfaces vor dem Programmieren, tracken Sie Bugs effizient und planen Sie Ihre Produkteinführungen präzise im Vorfeld. Das Ergebnis? Eine flexiblere [Softwareentwicklung](https://seatable.com/it-service-management/) und wertvolle Zeitersparnis im gesamten Entwicklungsprozess.
 
@@ -116,7 +116,7 @@ Stellen Sie sich also nicht länger die Frage: "Wie kann ich eine App erstellen?
 
 ### Schritt 1: Eine Base erstellen
 
-[Registrieren Sie sich zunächst kostenlos]({{< relref "registration" >}}) bei SeaTable. Nach dem Login gelangen Sie zu einer übersichtlichen Benutzeroberfläche, auf der Sie Ihre erste Base anlegen können. Es empfiehlt sich, im Vorfeld zu überlegen, wie Ihre App strukturiert sein soll – sei es eine Projektmanagement-App, ein Inventarsystem oder eine To-do-Liste. SeaTable bietet dafür verschiedene Vorlagen, die Sie nach Bedarf anpassen können.
+[Registrieren Sie sich zunächst kostenlos]({{< relref "pages/registration" >}}) bei SeaTable. Nach dem Login gelangen Sie zu einer übersichtlichen Benutzeroberfläche, auf der Sie Ihre erste Base anlegen können. Es empfiehlt sich, im Vorfeld zu überlegen, wie Ihre App strukturiert sein soll – sei es eine Projektmanagement-App, ein Inventarsystem oder eine To-do-Liste. SeaTable bietet dafür verschiedene Vorlagen, die Sie nach Bedarf anpassen können.
 
 Um eine vorgefertigte Vorlage zu nutzen, klicken Sie im Bereich „Meine Bases“ auf das Plus-Symbol und wählen die Option „Base von Vorlage erstellen“. In diesem Beispiel verwenden wir das Template für Workshops, das bereits mit Beispieldaten gefüllt ist. Das Ziel ist es, eine eigene App zu erstellen, die den Coaches eine zentrale Plattform bietet, auf der sie alle wichtigen Kursinformationen abrufen können.
 
@@ -154,7 +154,7 @@ Damit die Coaches der Kurse direkt sehen können, welche Teilnehmer sich bereits
 
 Ein besonders spannender Seitentyp ist die individuelle Seite. Mit dieser Ansicht lassen sich benutzerfreundliche Dashboards in der App erstellen, die alle wichtigen Informationen kompakt bündeln. Sobald die Seite erstellt ist, können Sie per Drag-and-Drop Elemente wie Bilder, Statistiken, Container oder Karten hinzufügen – ganz nach Ihren Bedürfnissen.
 
-Fangen wir mit einer Statistik an: Fügen Sie im App Builder ein neues Feld ein, das Sie per Klick konfigurieren können. Wir entscheiden uns für ein einfaches Säulendiagramm und wählen die Feedback-Tabelle aus. Jetzt geht’s an die Datenauswahl: Wir wollen sehen, wie die Workshops bewertet wurden. Für die x-Achse wählen Sie "Workshops", für die y-Achse "Feld zusammenfassen", wodurch weitere Optionen erscheinen. Als Summenfeld nehmen Sie das Rating der Workshops und lassen die Auswertung auf "Summe" eingestellt. So erhalten wir einen klaren Überblick darüber, welche Kurse die besten Bewertungen bekommen haben.  
+Fangen wir mit einer Statistik an: Fügen Sie im App Builder ein neues Feld ein, das Sie per Klick konfigurieren können. Wir entscheiden uns für ein einfaches Säulendiagramm und wählen die Feedback-Tabelle aus. Jetzt geht’s an die Datenauswahl: Wir wollen sehen, wie die Workshops bewertet wurden. Für die x-Achse wählen Sie "Workshops", für die y-Achse "Feld zusammenfassen", wodurch weitere Optionen erscheinen. Als Summenfeld nehmen Sie das Rating der Workshops und lassen die Auswertung auf "Summe" eingestellt. So erhalten wir einen klaren Überblick darüber, welche Kurse die besten Bewertungen bekommen haben.
 
 ![Säulendiagramm in SeaTable App einfügen](Step-3-Dashboard-2.jpg)
 
@@ -181,10 +181,14 @@ No Code App Builder wie SeaTable eröffnen Ihnen ganz neue Möglichkeiten, eige
 {{< faq >}}
 Was ist ein App Builder?|||
 Ein App Builder ist ein Tool, das ermöglicht, Apps ohne Programmierkenntnisse zu erstellen. Mit visuellen Drag-and-Drop-Editoren und vorgefertigten Modulen können Sie eigene Apps erstellen, ohne sich mit technischen Aspekten auseinandersetzen zu müssen.
+
 ---
+
 Für wen kommt ein App Builder in Frage?|||
 App Builder sind ideal für Unternehmen, Freiberufler und Startups, die individuelle Lösungen benötigen, aber weder die Zeit noch das Budget für die traditionelle App-Entwicklung aufbringen können. Auch Entwickler können von diesen Tools profitieren, um Prototypen zu testen oder User-Interfaces zu gestalten.
+
 ---
+
 Wie erstelle ich eine eigene App?|||
 Um eine eigene App zu erstellen, wählen Sie einen No Code App Builder wie SeaTable. In wenigen einfachen Schritten erstellen Sie so eine App: Base anlegen, Universelle App hinzufügen, Seiten konfigurieren und Elemente wie Kalender, Formulare oder Tabellen integrieren.
 

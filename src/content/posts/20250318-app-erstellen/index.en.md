@@ -1,17 +1,16 @@
 ---
-title: "Quick, easy and free: How to create your own app without code"
+title: 'Quick, easy and free: How to create your own app without code'
 description: "Developing your own app doesn't have to be expensive or complicated. With modern no-code tools, you can implement your ideas quickly and easily - without any programming knowledge. In this article, you will find out which tools are particularly suitable and how you can create your own app in just a few steps."
 date: 2025-03-18
-categories: 
-  - "General"
-  - "No Code / Low Code"
-tags: 
-  - "Toolings & Plugins"
-  - "Universal App Builder"
-color: "#9fe0cc"
-url: "/app-erstellen"
+categories:
+    - 'General'
+    - 'No Code / Low Code'
+tags:
+    - 'Toolings & Plugins'
+    - 'Universal App Builder'
+color: '#9fe0cc'
+url: '/app-erstellen'
 ---
-
 
 ## How to create your own app without programming knowledge
 
@@ -25,7 +24,7 @@ The days when you had to program to create your own app are long gone. Modern to
 
 Such app builders offer you the opportunity to program apps - free of charge and without complex hurdles. They simplify your processes and create customized solutions that are precisely **tailored to your needs**. This allows you to quickly implement innovative ideas, increase efficiency and optimize your workflow.
 
-![MacBook Pro - Source Code App Builder](No-Code-App-Builder.jpg "Say goodbye to bulky code and time-consuming programming.")
+![MacBook Pro - Source Code App Builder](No-Code-App-Builder.jpg 'Say goodbye to bulky code and time-consuming programming.')
 
 ## Where you can use App Builder
 
@@ -33,7 +32,7 @@ Companies in all industries have diverse workflows that are often complex and ti
 
 - **Marketing:** Organize your campaigns, track your successes and keep your team on track. With a personalized marketing app, you can stay on top of things - and make sure nothing slips through the cracks.
 - **Project management:** Put an end to paper chaos and endless emails! Create apps that help you keep track of tasks and deadlines. Organize teamwork clearly and save resources.
-- **HR:** With a clever HR app, you can bring order to all [HR processes](https://seatable.com/hr-prozesse/). From vacation requests to working hours and payroll accounting - everything is in one digital place. This saves resources, reduces errors and gives you more time for what really matters: Your team.
+- **HR:** With a clever HR app, you can bring order to all [HR processes]({{< relref "pages/industry-solutions/hr" >}}). From vacation requests to working hours and payroll accounting - everything is in one digital place. This saves resources, reduces errors and gives you more time for what really matters: Your team.
 - **Sales:** Whether you're on the road or in the office - always have your customer data to hand. In sales, an app can help you maintain customer contacts, monitor sales figures and create quotes - all with just a few clicks. This shortens sales cycles, improves customer loyalty and increases your turnover.
 - **Software development:** Even developers benefit from creating their own app: test user interfaces before programming, track bugs efficiently and plan your product launches precisely in advance. The result? More flexible [software development](https://seatable.com/it-service-management/) and valuable time savings throughout the entire development process.
 
@@ -117,7 +116,7 @@ So no longer ask yourself the question: "How can I create an app?" - here is the
 
 ### Step 1: Create a base
 
-[First register for free](/registration) with SeaTable. After logging in, you will be taken to a clear user interface where you can create your first base. It is advisable to consider in advance how your app should be structured - be it a project management app, an inventory system or a to-do list. SeaTable offers various templates for this, which you can customize as required.
+[First register for free]({{< relref "pages/registration" >}}) with SeaTable. After logging in, you will be taken to a clear user interface where you can create your first base. It is advisable to consider in advance how your app should be structured - be it a project management app, an inventory system or a to-do list. SeaTable offers various templates for this, which you can customize as required.
 
 To use a ready-made template, click on the plus symbol in the "My bases" area and select the "Create base from template" option. In this example, we are using the template for workshops, which is already filled with sample data. The goal is to create a custom app that provides coaches with a central platform where they can access all important course information.
 
@@ -155,7 +154,7 @@ So that the coaches of the courses can see directly which participants have alre
 
 A particularly exciting page type is the individual page. With this view, you can create user-friendly dashboards in the app that bundle all important information in a compact form. Once the page has been created, you can add elements such as images, statistics, containers or maps using drag-and-drop - just as you need them.
 
-Let's start with statistics: Add a new field in the App Builder, which you can configure with a click. We opt for a simple bar chart and select the feedback table. Now it's time to select the data: We want to see how the workshops were rated. Select "Workshops" for the x-axis and "Summarize field" for the y-axis, which will display further options. For the summary field, take the rating of the workshops and leave the evaluation set to "Sum". This gives us a clear overview of which courses have received the best ratings.  
+Let's start with statistics: Add a new field in the App Builder, which you can configure with a click. We opt for a simple bar chart and select the feedback table. Now it's time to select the data: We want to see how the workshops were rated. Select "Workshops" for the x-axis and "Summarize field" for the y-axis, which will display further options. For the summary field, take the rating of the workshops and leave the evaluation set to "Sum". This gives us a clear overview of which courses have received the best ratings.
 
 ![Insert bar chart in SeaTable App](Step-3-Dashboard-2.jpg)
 
@@ -175,7 +174,7 @@ If you would like to browse a little more and discover additional app functions,
 
 No code app builders such as SeaTable open up completely new possibilities for you to create your own apps - free of charge and without any technical knowledge. They not only offer you flexibility and fast results, but also the freedom to implement ideas independently. Whether for marketing, project management or sales - with the right tools, you can make your work processes more efficient and take your company to the next level. So why wait? Try it out for free and discover how easy app development can be today.
 
-{{< button label="Register now for free" link="/registration" >}}
+{{< button label="Register now for free" link="pages/registration" >}}
 
 ## Frequently asked questions when creating an app
 
@@ -183,10 +182,14 @@ No code app builders such as SeaTable open up completely new possibilities for y
 
 What is an app builder?|||
 An app builder is a tool that allows you to create apps without programming knowledge. With visual drag-and-drop editors and ready-made modules, you can create your own apps without having to deal with technical aspects.
+
 ---
+
 Who is an App Builder suitable for?|||
 App builders are ideal for companies, freelancers and startups who need customized solutions but don't have the time or budget for traditional app development. Developers can also benefit from these tools to test prototypes or design user interfaces.
+
 ---
+
 How do I create my own app?|||
 To create your own app, choose a no-code app builder like SeaTable. You can create an app in just a few simple steps: create a base, add a universal app, configure pages and integrate elements such as calendars, forms or tables.
 

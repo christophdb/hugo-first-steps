@@ -1,14 +1,14 @@
 ---
-title: "Red Dot Design Award optimiert das Eventmanagement mit SeaTable"
-description: "Die Red Dot GmbH & Co. KG aus Essen, bekannt für den international renommierten Red Dot Design Award, hat sein Event- und Auftragsmanagement mit revolutioniert und optimiert. Mit SeaTable Server profitiert das Team von transparenten, effizienten und kollaborativen Workflows und einer DSGVO-konformen Datenverwaltung."
+title: 'Red Dot Design Award optimiert das Eventmanagement mit SeaTable'
+description: 'Die Red Dot GmbH & Co. KG aus Essen, bekannt für den international renommierten Red Dot Design Award, hat sein Event- und Auftragsmanagement mit revolutioniert und optimiert. Mit SeaTable Server profitiert das Team von transparenten, effizienten und kollaborativen Workflows und einer DSGVO-konformen Datenverwaltung.'
 date: 2025-03-18
-categories: 
-  - "Customer Story"
-tags: 
-  - "Marketingplanung"
-  - "Toolings  & Plugins"
-color: "#dc4d51"
-url: "/de/customer-story-red-dot"
+categories:
+    - 'Customer Story'
+tags:
+    - 'Marketingplanung'
+    - 'Toolings  & Plugins'
+color: '#dc4d51'
+url: '/de/customer-story-red-dot'
 ---
 
 ## Ein zeitgemäßes System für einen effizienten Prozess
@@ -21,7 +21,7 @@ Vor der Einführung von SeaTable war das wichtigste Tool ein [Desktop-Tabellenka
 
 ## SeaTable erfüllt die Anforderungen von perfekt
 
-Für Red Dot war klar, dass ein anderes Tool nötig ist, welches auch eine Echtzeit-Zusammenarbeit in den Daten bieten muss. Eine naheliegende [Cloud-Lösung](https://seatable.com/cloud/) schied jedoch aufgrund der strikten Datenschutzbestimmungen der Firma aus. Es brauchte also eine Lösung, die kollaboratives Arbeiten unterstützt, strengen Datenschutzanforderungen genügt und on-premise gehostet werden kann. Zu diesem Zeitpunkt nutzte Red Dot bereits SeaFile als File-Sharing-Tool, ein Schwesterprodukt von SeaTable. Also erhielt Louisa Mücher von ihrem IT-Dienstleister die Empfehlung, sich einmal SeaTable anzuschauen.
+Für Red Dot war klar, dass ein anderes Tool nötig ist, welches auch eine Echtzeit-Zusammenarbeit in den Daten bieten muss. Eine naheliegende [Cloud-Lösung]({{< relref "pages/product/seatable-cloud" >}}) schied jedoch aufgrund der strikten Datenschutzbestimmungen der Firma aus. Es brauchte also eine Lösung, die kollaboratives Arbeiten unterstützt, strengen Datenschutzanforderungen genügt und on-premise gehostet werden kann. Zu diesem Zeitpunkt nutzte Red Dot bereits SeaFile als File-Sharing-Tool, ein Schwesterprodukt von SeaTable. Also erhielt Louisa Mücher von ihrem IT-Dienstleister die Empfehlung, sich einmal SeaTable anzuschauen.
 
 Die Nutzerfreundlichkeit, der hohe Datenschutz und die unproblematische Möglichkeit, gemeinsam in einer Datei zu arbeiten, überzeugten sofort. Und auch der Implementierungsprozess verlief reibungslos. Mit Unterstützung des IT-Dienstleisters wurde SeaTable schnell in verschiedene Unternehmensbereiche ausgerollt. Da erste Prozesse mit Standard-Templates abgebildet werden konnten und das System sehr anwenderfreundlich und intuitiv ist, war die Akzeptanz im Team groß.
 
@@ -31,7 +31,7 @@ Die Nutzerfreundlichkeit, der hohe Datenschutz und die unproblematische Möglich
 
 Heute wird SeaTable als vielseitiges Management-Tool eingesetzt. Der Hauptanwendungsfall ist immer noch die [Veranstaltungsorganisation](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/). Gästelisten und Saalbelegungsplan, Personalplanung beim Event und selbst der sekundengenau geplante Ablauf der Gala wird in SeaTable abgebildet. Als besonders nützlich hat sich hier die Möglichkeit erwiesen, Audio-Dateien direkt in eine Base zu laden. So hat die Regie jederzeit Zugriff auf Tonaufnahmen, beispielsweise von der Aussprache der Namen der Preisträger.
 
-Dank der API wird auch die Auftragsverwaltung und der Versand der Red Dot Design Jahrbücher inzwischen über SeaTable organisiert. Schließlich wird SeaTable auch als CRM und [Projektmanagement-Tool](https://seatable.com/projektmanagement-tools/) genutzt.
+Dank der API wird auch die Auftragsverwaltung und der Versand der Red Dot Design Jahrbücher inzwischen über SeaTable organisiert. Schließlich wird SeaTable auch als CRM und [Projektmanagement-Tool]({{< relref "pages/industry-solutions/project-management" >}}) genutzt.
 
 ## Prozessmanagement auf einem neuen Level
 

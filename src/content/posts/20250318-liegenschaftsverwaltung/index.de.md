@@ -1,13 +1,13 @@
 ---
-title: "Liegenschaftsverwaltung: Wie Sie Liegenschaften digital managen"
-description: "Liegenschaftsverwaltung bedeutet, vielfältige Aufgaben effizient zu koordinieren und gleichzeitig den Überblick zu behalten. Die Digitalisierung bietet hier wertvolle Unterstützung, um Prozesse zu optimieren und Daten strukturiert zu verwalten. Erfahren Sie, wie Sie Ihre Liegenschaften zukunftssicher und effizient managen."
+title: 'Liegenschaftsverwaltung: Wie Sie Liegenschaften digital managen'
+description: 'Liegenschaftsverwaltung bedeutet, vielfältige Aufgaben effizient zu koordinieren und gleichzeitig den Überblick zu behalten. Die Digitalisierung bietet hier wertvolle Unterstützung, um Prozesse zu optimieren und Daten strukturiert zu verwalten. Erfahren Sie, wie Sie Ihre Liegenschaften zukunftssicher und effizient managen.'
 date: 2025-03-18
-categories: 
-  - "Allgemein"
-tags: 
-  - "Öffentliche Verwaltung"
-color: "#c4e8d8"
-url: "/de/liegenschaftsverwaltung"
+categories:
+    - 'Allgemein'
+tags:
+    - 'Öffentliche Verwaltung'
+color: '#c4e8d8'
+url: '/de/liegenschaftsverwaltung'
 ---
 
 ## Digitale Lösungen für eine moderne Liegenschaftsverwaltung
@@ -90,7 +90,7 @@ Die Verwaltung von Liegenschaften kann eine komplexe und zeitaufwändige Aufgabe
 
 Einer der größten Vorteile von SeaTable ist die Möglichkeit, **individuelle Zugriffsrechte** zu vergeben. Das bedeutet, dass Sie für jede Liegenschaft festlegen können, wer welche Daten einsehen darf. Gerade wenn Sie mehrere Liegenschaften verwalten, ist es essenziell, dass die Daten der jeweiligen Immobilien voneinander getrennt sind – in SeaTable können Sie alle Liegenschaften in einer einzigen No-Code-Datenbank organisieren, ohne dass jemand unerlaubt Einsicht in andere Projekte erhält. So gewährleisten Sie den Datenschutz und erfüllen die Anforderungen der DSGVO.   
 
-SeaTable bietet Ihnen zudem die Flexibilität, Ihre Daten entweder in der [Cloud](https://seatable.com/cloud/) oder [On-Premises](https://seatable.com/on-premises/) zu speichern. Damit können Sie entscheiden, welche Lösung am besten zu Ihren Anforderungen passt – ob Sie den Komfort einer cloudbasierten Lösung bevorzugen oder Ihre Daten lieber auf eigenen Servern hosten möchten.
+SeaTable bietet Ihnen zudem die Flexibilität, Ihre Daten entweder in der [Cloud]({{< relref "pages/product/seatable-cloud" >}}) oder [On-Premises]({{< relref "pages/product/seatable-server" >}}) zu speichern. Damit können Sie entscheiden, welche Lösung am besten zu Ihren Anforderungen passt – ob Sie den Komfort einer cloudbasierten Lösung bevorzugen oder Ihre Daten lieber auf eigenen Servern hosten möchten.
 
 {{< template id="6f9a2b4869804608978c" >}}
 

@@ -1,28 +1,38 @@
 # Todos
 
 Navigation:
-[x] mousepointer bei login/registrierungs buttons
-[x] hover-effect bei login/registrierungs buttons
+[ ] hover-effect bei login/registrierungs buttons
 [ ] mobile menu anders machen
+[ ] Mobile Resolutions der Page checken!
+[ ] mouse hover bei language bei desktop
 
-Registrierungprozess:
-[x] Registrierungsformular bauen
-[ ] testen mit backend
+Formulare:
+[ ] Alle drei testen mit Backend
+[ ] Rate-Limit testen
+[ ] formular button hover effect
+[ ] formular rückmeldung!
+[ ] formular übersetzen
+[ ] Newsletter in den Footer?
 
+Seiten:
 
-- was macht die layouts/_default/index.json
+Barrierefreiheit:
+[ ] Screen-Reader für barrierefreiheit
+
 - tailwind: <span class="absolute -inset-0.5"></span>
-              <span class="sr-only">Open main menu</span>
-[x] mouse hover bei language bei desktop
+  <span class="sr-only">Open main menu</span>
+- was macht die layouts/\_default/index.json
 - übersetzung screen reader zeug
-- wie a/b testing optimal umsetzen? 
-[x] faq bereich mit alpine.js machen
-[x] lokale fonts (anstatt google fonts)
-[x] alpine.js lokal
-[ ] favicon kontrollieren mit https://realfavicongenerator.net/favicon-checker
-[ ] sitemap funktioniert noch nicht richtig.
-[x] PRETTIER
-[x] einheitliche dev settings
+- wie a/b testing optimal umsetzen?
+  [ ] favicon kontrollieren mit https://realfavicongenerator.net/favicon-checker
+  [ ] sitemap erweitern um ...
+
+Allgemein:
+[ ] style.css aufräumen und nike zeug rauswerfen. [class="error" auf registration seite]
+
+Blog-Artikel:
+[ ] anchor tags for headlines richtig positionieren
+[ ] So ein Männchen von der Seite wie hier: joshwcomeau.com
 
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://www.youtube.com/watch?v=tS7upsfuxmo
@@ -32,50 +42,41 @@ https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://kinsta.com/de/blog/express-app-erstellen/
 https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
 
-Allgemein:
-[ ] style.css aufräumen und nike zeug rauswerfen. [class="error" auf registration seite]
-[ ] die style.css sollte genauso integrity und version bekommen.
-[ ] ist alles ein theme oder kommt alles in das hauptverzeichnis rein?
-[ ] externe links kriegen automatisch ein nofollow und target:_blank?
+Themen für Simon: (mit Prio 1 (=wichtig) bis 3 (=unwichtig)):
+[3] es sollte keine h1 in blog beitrag sein => doch seo checks am Ende der Seite? => seo check bereich
+[3] seo vorschau seite
+[??] keywords => muss ich noch klären
+[1] deepl (auto translate) dateinamen mit \*.jpg werden nicht übersetzt, ||| darf nicht entfernt werden. auch ![ am Anfang nicht...
+[2] custom-1 content block überarbeiten: icons in der zweiten reihe stärker verschoben, oder vermischt und es kommt zum abriss.
+[2] blowfish-socialcards für uns aufnehmen
+[1] Übersichtsseite für die Mitarbeiter mit den verwendeten Tags und Taxonomien mit Häufigkeit und dann welche Artikel das sind: z.B.:
 
-Blog-Artikel:
-[ ] prose styling von blowfish übernehmen?
-[ ] anchor tags for headline erzeugen
+Tags:
 
+- Low Code / No Code (3)
+    - Title 1
+    - Title 2
+    - ...
+- Blablub (2)
+    - ...
 
-Themen für Simon:
-- keine _markups gepushed? (headlines? links?)
-- wie den warning in single.html weg kriegen?
-- bilderoptimierung 
-- grafiknamen nur lower case?
-- bild caption anders rendern
-- wie am besten scrapen?
-- markdown formatter?
-- es sollte keine h1 in blog beitrag sein => doch seo checks am Ende der Seite?
+Mitarbeiter:
+[ ] Heute erklären, das branchwechsel wirklich die dateien auf der Festplatte ändern
+[ ] Blog-Style Seite durchgehen
+[ ] Bilder in welcher Auflösung 768px
+[ ] die ganzen https://seatable.com in den blog artikeln müssen aufgelöst werden durch relref
+[ ] adobe stock fotos in hris -> austauschen
+[ ] template property management sind die bilder defekt?
 
+Aufgabe für Patricia:
 
-- shortcode für button (z.B. registrieren auf "app erstellen")
-- shortcode für newsletter anmeldung! (z.B. agiles projektmanagement)
-
-- ist sitemap "last modified" wirklich immer richtig? Auch für /de/post-sitemap.xml?
-
-- besseres styling für tabellen in blogposts
-- ganz häufig wird aufzählungsliste mit headline: xxx verwendet. shortcode?
-- andere shortcodes? Alerts, quote, ...
-- die ganzen https://seatable.com in den blog artikeln müssen aufgelöst werden!
-- deepl (auto translate) dateinamen mit *.jpg werden nicht übersetzt, ||| darf nicht entfernt werden. auch ![ am Anfang nicht...
-- adobe stock fotos in hris -> austauschen
-- template property management sind die bilder defekt?
-- quote: low-code blogartikel
-- gif will ich nicht verkleinern oder anpassen: low-code blogartikel
-
-- formular button hover effect
-- formular rückmeldung!
-- formular übersetzen
-
-
-Aufgabe für Patricia: 
 - Tags/categorien für die anderen Sprachen festlegen
 - übersetzung der blogartikel
 - urls der blogartikel anpassen?
-- wie wollen wir verlinken?
+
+button styling primary!, secondary
+button position: right, center, left!
+youtube embed
+dokumentier wie man anker links setzt
+readprogress
+kategorien zu nach bei zeilenumbruch.

@@ -1,12 +1,12 @@
 ---
-title: "Portfoliomanagement: Wie Sie immer den Überblick über Ihr Portfolio behalten"
-description: "Projektportfoliomanagement, Produktportfoliomanagement oder IT Portfoliomanagement: Egal, wofür Sie ein Portfolio anlegen und wie groß das Portfolio ist, das Sie im Auge behalten möchten – in diesem Artikel erfahren Sie, wie Ihr Portfoliomanagement gelingt."
+title: 'Portfoliomanagement: Wie Sie immer den Überblick über Ihr Portfolio behalten'
+description: 'Projektportfoliomanagement, Produktportfoliomanagement oder IT Portfoliomanagement: Egal, wofür Sie ein Portfolio anlegen und wie groß das Portfolio ist, das Sie im Auge behalten möchten – in diesem Artikel erfahren Sie, wie Ihr Portfoliomanagement gelingt.'
 date: 2025-03-27
-categories: 
-  - "Allgemein"
-tags: 
-color: "#bba9d3"
-url: "/de/portfoliomanagement"
+categories:
+    - 'Allgemein'
+tags:
+color: '#bba9d3'
+url: '/de/portfoliomanagement'
 ---
 
 ## Was ist Portfoliomanagement?
@@ -37,8 +37,8 @@ Dabei bietet Ihnen das Portfoliomanagement in allen Bereichen zahlreiche Vortei
 
 ## Projektportfoliomanagement
 
-Das Projektportfoliomanagement (PPM) übernimmt die **übergeordnete Verwaltung, Planung und Steuerung aller Projekte**, die innerhalb eines Unternehmens miteinander zusammenhängen. Vor allem soll es erreichen, dass die Ressourcen optimal verteilt und die Projekte so priorisiert sind, dass sie die strategischen Unternehmensziele bestmöglich unterstützen. Beim Projekt Portfolio Management handelt es sich daher um eine permanente Aufgabe, welche sich zyklisch wiederholt und die Auswertung vieler Projekte erfordert. Dies ist der größte Unterschied zum normalen [Projektmanagement](https://seatable.com/projektmanagement-tools/), das in der Regel mit dem Abschluss einzelner Projekte endet.  
-  
+Das Projektportfoliomanagement (PPM) übernimmt die **übergeordnete Verwaltung, Planung und Steuerung aller Projekte**, die innerhalb eines Unternehmens miteinander zusammenhängen. Vor allem soll es erreichen, dass die Ressourcen optimal verteilt und die Projekte so priorisiert sind, dass sie die strategischen Unternehmensziele bestmöglich unterstützen. Beim Projekt Portfolio Management handelt es sich daher um eine permanente Aufgabe, welche sich zyklisch wiederholt und die Auswertung vieler Projekte erfordert. Dies ist der größte Unterschied zum normalen [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), das in der Regel mit dem Abschluss einzelner Projekte endet.
+
 **Hinweis**: In größeren Unternehmen und Behörden gibt es für das Project Portfolio Management oft eine eigene Abteilung: das **Project Management Office (PMO)**.
 
 ### Wichtige Aufgaben und Schritte im Projektportfoliomanagement
@@ -55,8 +55,8 @@ Dank Portfoliomanagement ist es ein Leichtes, sowohl laufende als auch geplante 
 
 Mithilfe eines **Scoring-Modells** können Sie aber auch eine strategische Bewertung der Projekte anhand von gewichteten Kriterien vornehmen. Dies könnte wie folgt aussehen:
 
-![Strategic Scoring Modell für das Portfoliomanagement](Strategic-Scoring-Model.jpg "Multiplizieren Sie die Priorität des Ziels mit dem Faktor, wie stark das Projekt aus Ihrer Sicht auf das Ziel einzahlt. Wenn Sie die Ergebnisse über alle Ziele hinweg addieren, erhalten Sie den Strategic Score des Projekts. So machen Sie vergleichbar, wie wichtig verschiedene Projekte für Ihr Unternehmen sind.")
-  
+![Strategic Scoring Modell für das Portfoliomanagement](Strategic-Scoring-Model.jpg 'Multiplizieren Sie die Priorität des Ziels mit dem Faktor, wie stark das Projekt aus Ihrer Sicht auf das Ziel einzahlt. Wenn Sie die Ergebnisse über alle Ziele hinweg addieren, erhalten Sie den Strategic Score des Projekts. So machen Sie vergleichbar, wie wichtig verschiedene Projekte für Ihr Unternehmen sind.')
+
 Darüber hinaus können Sie monetäre und nicht-monetäre Analysemethoden zum Beispiel in einer **Balanced Scorecard** kombinieren, um herauszufinden, welche Projekte sich sowohl finanziell lohnen als auch strategisch zum Erreichen der Unternehmensziele beitragen. Ebenso beliebt ist in diesem Zusammenhang die **Kosten-Nutzen-Analyse**.
 
 #### 3\. Ressourcenzuweisung und Priorisierung von Projekten
@@ -133,7 +133,7 @@ Diese Assets soll das IT Portfoliomanagement so optimieren, dass sie die strateg
 
 Zunächst sollten Sie alle IT-Assets in Ihrem Unternehmen erfassen und diese in die oben genannten Kategorien einordnen. Wie bei den vorigen Arten von Portfoliomanagement ist es hilfreich, bereits bei der Bestandsaufnahme weitere Daten wie die Kosten bzw. den Wert von IT-Assets zu vermerken. Außerdem haben IT-Assets in der Regel einen begrenzten Lebenszyklus: Klären Sie zum Beispiel, wann Software-Lizenzen auslaufen und in welchem Zustand sich die Hardware befindet, um einen vollständigen **Überblick über das IT-Portfolio** zu gewinnen.
 
-![Hardware im IT Portfoliomanagement](Hardware-im-IT-Portfoliomanagement.jpg "Hardware ist eine Asset-Kategorie im IT Portfolio.")
+![Hardware im IT Portfoliomanagement](Hardware-im-IT-Portfoliomanagement.jpg 'Hardware ist eine Asset-Kategorie im IT Portfolio.')
 
 #### 2\. Bewertung und Priorisierung
 

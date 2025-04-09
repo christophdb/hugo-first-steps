@@ -1,6 +1,6 @@
 ---
-title: "Property management: How to manage properties digitally"
-description: "Property management means coordinating a wide range of tasks efficiently while maintaining an overview. Digitalization offers valuable support in optimizing processes and managing data in a structured manner. Find out how you can manage your properties efficiently and in a future-proof way."
+title: 'Property management: How to manage properties digitally'
+description: 'Property management means coordinating a wide range of tasks efficiently while maintaining an overview. Digitalization offers valuable support in optimizing processes and managing data in a structured manner. Find out how you can manage your properties efficiently and in a future-proof way.'
 date: 2025-03-18
 categories: 
   - "General"
@@ -63,9 +63,9 @@ Outsourcing also often offers the **benefit of 24/7 emergency management** that 
 
 ## Property management and public service
 
-Property management in the public sector presents a particular challenge, bringing with it both responsibility and enormous opportunity. Public bodies often manage a wide range of sites and properties - from historic buildings to marketplaces and playgrounds to modern administrative complexes. This diversity requires well thought-out and efficient management that goes far beyond mere maintenance.   
+Property management in the public sector presents a particular challenge, bringing with it both responsibility and enormous opportunity. Public bodies often manage a wide range of sites and properties - from historic buildings to marketplaces and playgrounds to modern administrative complexes. This diversity requires well thought-out and efficient management that goes far beyond mere maintenance.
 
-Responsibility generally lies with the local authority property offices. These offices are responsible for the purchase, sale and letting of municipal properties. They manage and maintain properties that are important both for public purposes and for citizens.  Property management in the public sector is faced with the task of combining economic efficiency with the common good.
+Responsibility generally lies with the local authority property offices. These offices are responsible for the purchase, sale and letting of municipal properties. They manage and maintain properties that are important both for public purposes and for citizens. Property management in the public sector is faced with the task of combining economic efficiency with the common good.
 
 Unlike private property managers, they must not only work cost-effectively**, but also take social interests into account**. Decision-making processes, such as the sale or conversion of properties, are often lengthy as they are subject to political approval procedures. Added to this is the obligation of transparency, as every decision in the public interest must be comprehensible. These factors make management more difficult and significantly more complex than in the private sector.
 
@@ -88,9 +88,9 @@ The tasks of a property manager are varied and require both technical and commer
 
 Property management can be a complex and time-consuming task - especially if you manage several properties at the same time. With SeaTable, you can organize your **properties digitally and efficiently** while always maintaining an overview. Thanks to the flexible structure of the [no-code platform](https://seatable.com/), you can map your individual processes exactly as you wish. In addition, **all relevant data can be stored and managed securely and centrally in one place**.
 
-One of the biggest advantages of SeaTable is the ability to assign **individual access rights**. This means that you can define who can view which data for each property. Especially if you manage several properties, it is essential that the data of the respective properties are separated from each other - in SeaTable you can organize all properties in a single no-code database without anyone gaining unauthorized access to other projects. This ensures data protection and fulfills the requirements of the GDPR.   
+One of the biggest advantages of SeaTable is the ability to assign **individual access rights**. This means that you can define who can view which data for each property. Especially if you manage several properties, it is essential that the data of the respective properties are separated from each other - in SeaTable you can organize all properties in a single no-code database without anyone gaining unauthorized access to other projects. This ensures data protection and fulfills the requirements of the GDPR.
 
-SeaTable also offers you the flexibility to store your data either in the [Cloud](https://seatable.com/cloud/) or [On-Premises](https://seatable.com/on-premises/). This allows you to decide which solution best suits your requirements - whether you prefer the convenience of a cloud-based solution or would rather host your data on your own servers.
+SeaTable also offers you the flexibility to store your data either in the [Cloud]({{< relref "pages/product/seatable-cloud" >}}) or [On-Premises]({{< relref "pages/product/seatable-server" >}}). This allows you to decide which solution best suits your requirements - whether you prefer the convenience of a cloud-based solution or would rather host your data on your own servers.
 
 {{< template id="6f9a2b4869804608978c" height="600" >}}
 

@@ -1,6 +1,6 @@
 ---
-title: "Red Dot Design Award optimizes event management with SeaTable"
-description: "Red Dot GmbH & Co. KG from Essen, known for the internationally renowned Red Dot Design Award, has revolutionized and optimized its event and order management. With SeaTable Server, the team benefits from transparent, efficient and collaborative workflows and GDPR-compliant data management."
+title: 'Red Dot Design Award optimizes event management with SeaTable'
+description: 'Red Dot GmbH & Co. KG from Essen, known for the internationally renowned Red Dot Design Award, has revolutionized and optimized its event and order management. With SeaTable Server, the team benefits from transparent, efficient and collaborative workflows and GDPR-compliant data management.'
 date: 2025-03-18
 categories: 
   - "Customer Story"
@@ -21,7 +21,7 @@ Before the introduction of SeaTable, the most important tool was a [desktop spre
 
 ## SeaTable perfectly fulfills the requirements of
 
-For Red Dot, it was clear that a different tool was needed that would also offer real-time collaboration in the data. However, an obvious [cloud solution](https://seatable.com/cloud/) was ruled out due to the company's strict data protection regulations. A solution was therefore needed that supported collaborative working, met strict data protection requirements and could be hosted on-premise. At the time, Red Dot was already using SeaFile, a sister product of SeaTable, as a file sharing tool. Louisa Mücher therefore received a recommendation from her IT service provider to take a look at SeaTable.
+For Red Dot, it was clear that a different tool was needed that would also offer real-time collaboration in the data. However, an obvious [cloud solution]({{< relref "pages/product/seatable-cloud" >}}) was ruled out due to the company's strict data protection regulations. A solution was therefore needed that supported collaborative working, met strict data protection requirements and could be hosted on-premise. At the time, Red Dot was already using SeaFile, a sister product of SeaTable, as a file sharing tool. Louisa Mücher therefore received a recommendation from her IT service provider to take a look at SeaTable.
 
 The user-friendliness, the high level of data protection and the unproblematic possibility of working together in one file were immediately convincing. The implementation process also went smoothly. With the support of the IT service provider, SeaTable was quickly rolled out in various areas of the company. As initial processes could be mapped using standard templates and the system is very user-friendly and intuitive, acceptance within the team was high.
 
@@ -31,7 +31,7 @@ The user-friendliness, the high level of data protection and the unproblematic p
 
 Today SeaTable is used as a versatile management tool. The main use case is still [event organization](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/). Guest lists and room allocation plans, personnel planning at events and even the gala schedule planned to the second are mapped in SeaTable. The ability to load audio files directly into a base has proven to be particularly useful here. This gives the director access to audio recordings at any time, for example of the pronunciation of the award winners' names.
 
-Thanks to the API, order management and the dispatch of the Red Dot Design yearbooks are now also organized via SeaTable. Finally, SeaTable is also used as a CRM and [project management tool](https://seatable.com/projektmanagement-tools/).
+Thanks to the API, order management and the dispatch of the Red Dot Design yearbooks are now also organized via SeaTable. Finally, SeaTable is also used as a CRM and [project management tool]({{< relref "pages/industry-solutions/project-management" >}}).
 
 ## Process management on a new level
 
