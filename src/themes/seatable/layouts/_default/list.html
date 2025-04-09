@@ -30,11 +30,11 @@
 
                         <!-- Category-List -->
                         <div class="mt-14">
-                            <ul class="flex flex-wrap flex-row gap-6">
-                                <li><a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-xl border border-blue-950 text-blue-950" href="#">All<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">12</span></a></li>
+                            <ul class="flex flex-wrap flex-row gap-4 gap-y-10">
+                                <li><a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-lg border border-blue-950 text-blue-950" href="#">All<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">12</span></a></li>
                             {{ range .Site.Taxonomies.categories }}
                                 <li>
-                                    <a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-xl text-blue-950" href="{{ .Page.Permalink }}">{{ .Page.Title }}<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">{{ .Count }}</span></a> 
+                                    <a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-lg text-blue-950" href="{{ .Page.Permalink }}">{{ .Page.Title }}<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">{{ .Count }}</span></a> 
                                     
                                 </li>
                             {{ end }}

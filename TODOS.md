@@ -61,8 +61,6 @@ Tags:
     - ...
 
 Mitarbeiter:
-[ ] Heute erklären, das branchwechsel wirklich die dateien auf der Festplatte ändern
-[ ] Blog-Style Seite durchgehen
 [ ] Bilder in welcher Auflösung 768px
 [ ] die ganzen https://seatable.com in den blog artikeln müssen aufgelöst werden durch relref
 [ ] adobe stock fotos in hris -> austauschen
@@ -73,10 +71,3 @@ Aufgabe für Patricia:
 - Tags/categorien für die anderen Sprachen festlegen
 - übersetzung der blogartikel
 - urls der blogartikel anpassen?
-
-button styling primary!, secondary
-button position: right, center, left!
-youtube embed
-dokumentier wie man anker links setzt
-readprogress
-kategorien zu nach bei zeilenumbruch.

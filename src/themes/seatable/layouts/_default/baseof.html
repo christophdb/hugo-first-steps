@@ -1,9 +1,18 @@
 <!doctype html>
-<html lang="{{ site.Language.LanguageCode }}" dir="ltr">
+<html
+    lang="{{ site.Language.LanguageCode }}"
+    dir="ltr"
+    x-data="{ scrollPercent: 0 }"
+    x-on:scroll.window="scrollPercent = Math.min(100, window.scrollY / (document.body.scrollHeight - window.innerHeight) * 100)">
     {{ partial "head/head.html" . }}
 
 
     <body class="font-roboto">
+        <!-- Progress Bar (Fixed at top) -->
+        <div class="fixed left-0 top-0 z-50 h-0.5 w-full bg-gray-200">
+            <div class="h-full bg-seatable-orange transition-all duration-100" x-bind:style="`width: ${scrollPercent}%`"></div>
+        </div>
+
         {{ if hugo.IsProduction }}
         {{ else }}
             {{ partial "tw-size-indicator.html" . }}

@@ -1,12 +1,14 @@
 {{ $strAnchor := urlize .Anchor }}
 {{ $replacedAnchor := replaceRE "%25" "" $strAnchor }}
+<div id="{{ .Anchor | safeURL | urlize }}" class="anchor"></div>
 <h{{ .Level }} class="relative group">{{ .Text | safeHTML }}
-    <div id="{{ .Anchor | safeURL | urlize }}" class="anchor"></div>
+    
     {{ if eq .Page.Section "posts" }}
     <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-10 rtl:-right-10 not-prose group-hover:opacity-100">
+        class="absolute top-0 w-6 transition-opacity opacity-0 -left-12 group-hover:opacity-100 pt-10">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
             style="text-decoration-line: none !important;" href="#{{ $replacedAnchor | safeURL }}" aria-label="{{ i18n "article.anchor_label" }}">#</a>
     </span>
     {{ end }}
+    
 </h{{ .Level }}>
