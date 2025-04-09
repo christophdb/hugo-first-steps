@@ -7,104 +7,104 @@ url: '/pt/functions'
 sections:
     - name: hero-3
       weight: 1
-      title: Order for all thoughts and ideas
-      description: SeaTable gives you the certainty that everything is organized and documented. So that you can maintain an overview at all times and concentrate on implementing your thoughts and ideas.
+      title: Ordem para todos os pensamentos e ideias
+      description: O SeaTable oferece a certeza de que tudo está organizado e documentado. Assim, você mantém uma visão geral a qualquer momento e pode se concentrar em transformar seus pensamentos e ideias em realidade.
       button:
-          label: Get started now
+          label: Comece agora
           link: 'pages/registration'
 
     - name: 'content-9'
       weight: 2
-      title: Organize all information in one place
-      subtitle: Individual data management
-      description: SeaTable offers you all the functions you need to stay in control of your data at all times. Give them structure and work efficiently with them.
+      title: Organize todas as informações em um só lugar
+      subtitle: Gestão individual de dados
+      description: O SeaTable oferece todas as funções necessárias para que você mantenha o controle de seus dados o tempo todo. Dê estrutura a eles e trabalhe de forma eficiente.
       items:
-          - headline: 'Tables and bases'
-            text: 'They ensure that your projects, tasks and ideas remain clearly organized. Bases for projects and tables for your data.'
+          - headline: 'Tabelas e bases'
+            text: 'Elas garantem que seus projetos, tarefas e ideias permaneçam claramente organizados. Bases para projetos e tabelas para seus dados.'
             icon: toggle-off
 
-          - headline: Column types
-            text: SeaTable can handle all types of information. Do not limit yourself to text and numbers. A total of 25 different column types are available.
+          - headline: Tipos de colunas
+            text: O SeaTable pode lidar com todos os tipos de informações. Não se limite a texto e números. Um total de 25 tipos diferentes de colunas está disponível.
             icon: medal
 
-          - headline: Views
-            text: Everyone only gets to see what they are supposed to see. So that they only see what they want to and should be able to...
+          - headline: Visualizações
+            text: Todos veem apenas o que devem ver. Assim, cada um vê apenas o que quer e deve ser capaz de ver...
             icon: up-right-and-down-left-from-center
 
-          - headline: Filters, sorting and grouping
-            text: 'They ensure that your projects, tasks and ideas remain clearly organized. Bases for projects and tables for your data.'
+          - headline: Filtros, ordenação e agrupamento
+            text: 'Eles garantem que seus projetos, tarefas e ideias permaneçam claramente organizados. Bases para projetos e tabelas para seus dados.'
             icon: leaf
 
-          - headline: Color highlighting
-            text: "SeaTable can handle all kinds of information. Don't limit yourself to text and numbers. A total of 25 different column types are available."
+          - headline: Destaque por cores
+            text: 'O SeaTable pode lidar com todos os tipos de informações. Não se limite a texto e números. Um total de 25 tipos diferentes de colunas está disponível.'
             icon: signature
 
-          - headline: Authorizations
-            text: 'Everyone only gets to see what they are supposed to see. So that they only see what they want and should be able to.'
+          - headline: Autorizações
+            text: 'Todos veem apenas o que devem ver. Assim, cada um vê apenas o que quer e deve ser capaz de ver.'
             icon: shield-halved
 
     - name: 'banner-3'
       weight: 3
-      title: 'No matter what you want your system to look like. You have control over it.'
+      title: 'Não importa como você quer que seu sistema pareça. Você tem o controle sobre ele.'
       button:
           link: 'pages/registration'
-          label: 'Try it out now'
+          label: 'Experimente agora'
 
     - name: 'content-12'
       weight: 4
-      title: 'Share your work with others'
-      subtitle: 'Teamwork'
-      description: 'Working in a team is usually more efficient. Share individual bases with your team colleagues in order to manage the work better.'
+      title: 'Compartilhe seu trabalho com outras pessoas'
+      subtitle: 'Trabalho em equipe'
+      description: 'Trabalhar em equipe geralmente é mais eficiente. Compartilhe bases individuais com seus colegas de equipe para gerenciar melhor o trabalho.'
       items:
-          - text: Teams and groups
-          - text: Comments
-          - text: Notifications
-          - text: External links
-          - text: Sharing views
+          - text: Equipes e grupos
+          - text: Comentários
+          - text: Notificações
+          - text: Links externos
+          - text: Compartilhamento de visualizações
       image: '/images/Focuspage-Funktionen-Teamwork.png'
 
     - name: content-1
       weight: 5
-      title: The perfect display for everyone
-      subtitle: Visualization
-      description: Display your data in different ways so that you always have an overview. SeaTable offers everything you need.
+      title: A exibição perfeita para todos
+      subtitle: Visualização
+      description: Exiba seus dados de diferentes maneiras para ter sempre uma visão geral. O SeaTable oferece tudo o que você precisa.
 
       items:
-          - headline: Gallery
-            text: Display images and graphics clearly and vividly with any additional information.
-          - headline: Calendar
-            text: Keep track of appointments and deadlines. With the calendar you have everything under control.
+          - headline: Galeria
+            text: Exiba imagens e gráficos de forma clara e vívida com qualquer informação adicional.
+          - headline: Calendário
+            text: Acompanhe compromissos e prazos. Com o calendário, você tem tudo sob controle.
           - headline: Kanban
-            text: Work with the Kanban view and move your data using drag-and-drop.
+            text: Trabalhe com a visualização Kanban e mova seus dados usando arrastar-e-soltar.
       image: '/images/Screenshots-Funktionen.png'
 
     - name: 'content-13'
       weight: 6
-      title: Automate your processes
-      subtitle: Without programming knowledge
-      description: SeaTable offers a wide range of automation options for recurring tasks.
+      title: Automatize seus processos
+      subtitle: Sem conhecimento de programação
+      description: O SeaTable oferece uma ampla gama de opções de automação para tarefas recorrentes.
       items:
           - headline: Javascript
-            text: Automate work steps with your own scripts using JS and Python.
-          - headline: Data processing
-            text: SeaTable allows calculations across all rows of your tables.
-          - headline: Notifications
-            text: Define triggers for which you or your colleagues want to be notified.
-          - headline: Automations
-            text: Have certain processes executed automatically at a specific time or status.
+            text: Automatize etapas de trabalho com seus próprios scripts usando JS e Python.
+          - headline: Processamento de dados
+            text: O SeaTable permite cálculos em todas as linhas das suas tabelas.
+          - headline: Notificações
+            text: Defina gatilhos para os quais você ou seus colegas desejam ser notificados.
+          - headline: Automação
+            text: Faça com que certos processos sejam executados automaticamente em um horário ou status específico.
 
     - name: 'content-10'
       weight: 7
-      title: 'Connect SeaTable with your world'
-      subtitle: 'Integration'
-      description: 'Connect SeaTable with all the apps you already use and use SeaTable as a hub to organize your life.'
+      title: 'Conecte o SeaTable ao seu mundo'
+      subtitle: 'Integração'
+      description: 'Conecte o SeaTable a todos os aplicativos que você já usa e utilize-o como um hub para organizar sua vida.'
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
       button:
-          label: 'Learn more about integrations'
+          label: 'Saiba mais sobre integrações'
           link: '#'
 ---
 
