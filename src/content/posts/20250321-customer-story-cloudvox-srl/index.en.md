@@ -2,14 +2,14 @@
 title: 'Cloudvox SRL: How SeaTable makes complex data accessible'
 description: 'Before introducing SeaTable, the IT company Cloudvox SRL used Excel and various other systems. It turned out that a central point for data collection was missing - a place where data could not only be stored but also made accessible to others and at the same time serve as a backend for its own tools.'
 date: 2025-03-21
-categories:
-    - 'General'
-    - 'Customer Story'
-tags:
-    - 'Digitale Transformation'
-    - 'Integration & Automatisierung'
-color: '#faeebf'
-url: '/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
+categories: 
+  - "General"
+  - "Customer Story"
+tags: 
+  - "Digital transformation"
+  - "Integration & Automation"
+color: "#faeebf"
+url: "/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht"
 ---
 
 ## Background: Missing database interface for non-technical users

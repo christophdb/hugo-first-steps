@@ -72,7 +72,7 @@ Nun sollten Sie die wichtigsten Informationen zur Erstellung Ihrer Roadmap beisa
 
 Um Ihnen die Gestaltung zu erleichtern, stellen Ihnen verschiedene Dienste fertige **Roadmap-Vorlagen** zur Verfügung, welche Sie nur noch individuell befüllen müssen.
 
-**6\. Regelmäßige Updates und Kommunikation**
+### 6\. Regelmäßige Updates und Kommunikation**
 
 Egal, für welche Art der Roadmap Sie sich entschieden haben – Sie sollten Ihre **Fortschritte** und mögliche **Änderungen** regelmäßig aktualisieren. Zum Beispiel können neue Aufgaben hinzukommen oder sich die Umsetzung verzögern. Besonders Strategieänderungen führen zu weitreichenden Anpassungen Ihrer Road Map. Achten Sie darauf, die Auswirkungen der Updates schnell und umfassend zu kommunizieren, damit alle Stakeholder stets auf dem aktuellen Stand sind.
 

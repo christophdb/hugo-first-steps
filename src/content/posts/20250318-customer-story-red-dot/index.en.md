@@ -2,13 +2,13 @@
 title: 'Red Dot Design Award optimizes event management with SeaTable'
 description: 'Red Dot GmbH & Co. KG from Essen, known for the internationally renowned Red Dot Design Award, has revolutionized and optimized its event and order management. With SeaTable Server, the team benefits from transparent, efficient and collaborative workflows and GDPR-compliant data management.'
 date: 2025-03-18
-categories:
-    - 'Customer Story'
-tags:
-    - 'Marketingplanung'
-    - 'Toolings  & Plugins'
-color: '#dc4d51'
-url: '/customer-story-red-dot'
+categories: 
+  - "Customer Story"
+tags: 
+  - "Marketing Planning"
+  - "Toolings & Plugins"
+color: "#dc4d51"
+url: "/customer-story-red-dot"
 ---
 
 ## A modern system for an efficient process
