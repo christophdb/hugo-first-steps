@@ -58,7 +58,7 @@ Externe links erhalten automatisch `target="_blank"` und `rel="nofollow"`.
 Für interne Links in den Blog-Beiträgen, wird die folgende Formatierung verwendet:
 
 - `[Zur Registrierung]({{</* relref "pages/registration" */>}})`
-- `[Zur Registrierung]({{</* relref "pages/product/seatable-server" */>}})`
+- `[Mehr zu SeaTable Server]({{</* relref "pages/product/seatable-server" */>}})`
 - `[Blog-Artikel Cloud-Computing]({{</* relref "posts/202503-cloud-computing" */>}})`
 
 Der Pfad entspricht dem tatsächlichen Pfad ausgehende von `/src/content/`.
