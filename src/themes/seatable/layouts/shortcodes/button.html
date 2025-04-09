@@ -1,6 +1,14 @@
 {{ $label := .Get "label" }}
+{{ $position := .Get "position" | default "left" }}
+{{ $alignClass := cond (or (eq $position "left") (eq $position "center") (eq $position "right")) (printf "text-%s" $position) "text-left" }}
+{{ $style := .Get "style" | default "primary" }}
+
 {{ with .Site.GetPage (.Get "link") }}
-    <div class="relative mb-8 mt-6">
-        <a class="bg-gradient font-xl rounded-xl px-5 py-3 font-poppins font-bold !text-white" href="{{ .Permalink }}">{{ $label }}</a>
+    <div class="{{ $alignClass }} relative mb-8 mt-6">
+        {{ if eq $style "secondary" }}
+            <a class="rounded-xl border border-seatable-blue bg-white px-5 py-3 font-poppins text-lg font-bold !text-gray-800" href="{{ .Permalink }}">{{ $label }}</a>
+        {{ else }}
+            <a class="bg-gradient rounded-xl px-5 py-3 font-poppins text-lg font-bold !text-white" href="{{ .Permalink }}">{{ $label }}</a>
+        {{ end }}
     </div>
 {{ end }}

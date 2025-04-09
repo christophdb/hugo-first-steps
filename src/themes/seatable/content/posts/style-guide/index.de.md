@@ -67,6 +67,12 @@ Sollte man eine Zielsprache erzwingen wollen, dann kann man das auch tun:
 
 `[Zur französischen Registrierung]({{</* relref path="pages/registration" lang="fr" */>}})`
 
+### Anker Links
+
+Die Überschriften eines Textes lassen sich einfach mit folgendem Markdown verlinken:
+
+`[Zum Abschnitt X](#anker-links)` -> [Zum Abschnitt X](#anker-links).
+
 ## Tabellen
 
 Mit Markdown können auch Tabellen geschrieben werden.
@@ -151,6 +157,17 @@ Eigentlich nicht viel. Wenn man
 
 Auch hier wird wie bei der internen Verlinkungen der Pfad der Zielseite unterhalb von `src/content` verwendet, damit automatisch auf die richtige URL verlinkt wird.
 
+Erlaubte Werte für `position` sind
+
+- `left` (standard)
+- `center`
+- `right`
+
+Erlaubte Werte für `style` sind:
+
+- `primary` (default)
+- `secondary`
+
 {{< button label="Jetzt kostenlos registrieren" link="/pages/registration" >}}
 
 ## Warnings
@@ -160,3 +177,19 @@ Auch hier wird wie bei der internen Verlinkungen der Pfad der Zielseite unterhal
 ```
 
 {{< warning headline="Die Headline" text="**Text** mit Markdown Formatierung." >}}
+
+## YouTube
+
+Um ein YouTube-Video mit dieser URL anzuzeigen:
+
+```
+https://www.youtube.com/watch?v=AHTzHMVx2uE
+```
+
+Fügen dies in dein Markdown ein:
+
+```
+{{</* youtube AHTzHMVx2uE */>}}
+```
+
+{{< youtube AHTzHMVx2uE >}}

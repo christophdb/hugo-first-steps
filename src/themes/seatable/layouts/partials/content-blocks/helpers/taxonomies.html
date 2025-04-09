@@ -4,7 +4,7 @@
             <h1 class="gradient text-center font-poppins text-4xl font-bold">Taxonomies</h1>
 
             {{ range $taxonomyName, $taxonomy := site.Taxonomies }}
-                <h2 class="mt-2 text-2xl font-bold"><a href="{{ "/" | relLangURL }}{{ $taxonomyName | urlize }}">{{ $taxonomyName }}</a></h2>
+                <h2 class="mt-12 text-2xl font-bold"><a href="{{ "/" | relLangURL }}{{ $taxonomyName | urlize }}">{{ $taxonomyName }}</a></h2>
                 <ul>
                     {{ range $term, $termData := $taxonomy }}
                         <details>
