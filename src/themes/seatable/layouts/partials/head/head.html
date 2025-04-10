@@ -23,6 +23,14 @@
     {{ with .Params.robots }}
         <meta name="robots" content="{{ . }}" />
     {{ end }}
+
+
+    <!-- Do not index taxonomy and term pages -->
+    {{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+        <meta name="robots" content="noindex" />
+    {{- end }}
+
+
     <link rel="canonical" href="{{ .Permalink }}" />
 
     {{- if .IsTranslated -}}
