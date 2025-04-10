@@ -181,9 +181,56 @@
             }
         </script>
 
+        <!-- Language redirect -->
+        <script>
+            const SUPPORTED_LANGUAGES = ['en', 'de', 'es', 'fr', 'pt', 'ru'];
+            const DEFAULT_LANGUAGE = 'en';
+            const URL_BY_LANGUAGE = {};
+            const LOCAL_STORAGE_KEY = 'hugo_language';
+
+            {{ $urls := dict }}
+            {{ range $.AllTranslations }}
+                URL_BY_LANGUAGE['{{ .Lang }}'] = '{{ .Permalink }}';
+                {{ $urls = merge $urls (dict "{{ .Lang }}" "{{ .Permalink }}") }}
+            {{ end }}
+
+            console.debug('URLs:', URL_BY_LANGUAGE);
+
+            document.addEventListener('alpine:init', () => {
+                // Check local storage first
+                const language = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
+
+                if (language !== null) {
+                    const target = URL_BY_LANGUAGE[language] || URL_BY_LANGUAGE[DEFAULT_LANGUAGE];
+                    redirect(target);
+                    return;
+                }
+
+                const languages = navigator.languages || [navigator.language] || [DEFAULT_LANGUAGE];
+                const languageCodes = languages.map((c) => c.split('-')[0]);
+
+                // Find the first supported language (fallback to default language)
+                const preferredLanguage = languageCodes.filter((code) => SUPPORTED_LANGUAGES.includes(code))[0] || DEFAULT_LANGUAGE;
+
+                const target = URL_BY_LANGUAGE[preferredLanguage] || URL_BY_LANGUAGE[DEFAULT_LANGUAGE];
+                redirect(target);
+                return;
+            });
+
+            const redirect = (url) => {
+                // Redirect if the user is not already on the correct page
+                if (window.location.href !== url) {
+                    window.location.href = url;
+                }
+            };
+        </script>
+
         <!-- alpine js -->
         {{ $collapse := resources.Get "js/alpineCollapse.js" | fingerprint }}
         <script src="{{ $collapse.RelPermalink }}" integrity="{{ $collapse.Data.Integrity }}" defer></script>
+
+        {{ $persistPlugin := resources.Get "js/alpinePersist.js" | fingerprint }}
+        <script src="{{ $persistPlugin.RelPermalink }}" integrity="{{ $persistPlugin.Data.Integrity }}" defer></script>
 
         {{ $alpine := resources.Get "js/alpine.js" | fingerprint }}
         <script src="{{ $alpine.RelPermalink }}" integrity="{{ $alpine.Data.Integrity }}" defer></script>
