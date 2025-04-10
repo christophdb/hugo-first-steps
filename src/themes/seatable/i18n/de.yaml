@@ -53,6 +53,24 @@ support_table:
     sla: SLA
     opening_times: 'Montag - Freitag<br/>10:00 - 17:00 Uhr (CET)'
 
+subscription_table:
+    editions: 'Editionen'
+    use_free: 'Kostenlos nutzbar'
+    administration: 'Administration'
+    any_location: 'beliebiger Serverstandort'
+    automatic_updates: 'automatische Updates'
+    own_admin: 'eigene Administration'
+    command_line: 'Zugriff Linux Kommandozeile'
+    authentication: 'Eigene Authentifizierung'
+    customizing: 'Customizing'
+    custom_logo: 'Eigenes Logo'
+    custom_url: 'Eigene URL'
+    custom_templates: 'Eigene Vorlagen'
+    custom_roles: 'Eigene Benutzerrollen'
+    support: 'Support'
+    corporate_support: 'Optionaler Corporate Support'
+    requirements: 'Voraussetzungen'
+
 # old stuff ?!?
 month: Monat
 contact_sales: Verkauf kontaktieren

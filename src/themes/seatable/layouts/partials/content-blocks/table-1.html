@@ -1,0 +1,97 @@
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section id="price2" class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+        </div>
+
+        <div class="mx-auto mt-12 max-w-6xl overflow-x-auto">
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.newsletter" }} Editionen</div>
+                <div class="text-seatable-orange">Cloud</div>
+                <div class="text-seatable-orange">Dedicated</div>
+                <div class="text-seatable-orange">On-Premises</div>
+            </div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "support_table.support_channel" }}</div>
+
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.newsletter" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.help_area" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.forum" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.support_tickets" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.workshop" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.personal_contact" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "support_table.professional_services" }}</div>
+
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.telephone" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.remote_hands" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.customized_dev" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "support_table.service_level" }}</div>
+
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.availability" }}</div>
+                <div class="text-base">99,5%</div>
+                <div class="text-base">99,5%</div>
+                <div class="text-base">99,5%</div>
+            </div>
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.response_time" }}</div>
+                <div class="text-base">{{ T "support_table.best_effort" }}</div>
+                <div class="text-base">{{ T "support_table.best_effort" }}</div>
+                <div class="text-base">{{ T "support_table.sla" }}</div>
+            </div>
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.service_time" }}</div>
+                <div class="text-base">—</div>
+                <div class="text-base">—</div>
+                <div class="text-center text-sm">{{ T "support_table.opening_times" | safeHTML }}</div>
+            </div>
+        </div>
+    </section>
+</section>

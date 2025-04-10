@@ -137,6 +137,9 @@ sections:
 
   - name: content-6
     weight: 6
+    classes:
+      - curved
+      - bg-gray-100
     title: "Eine Lösung, der Sie vertrauen können"
     subtitle: "Datensicherheit und Datenschutz"
     items:
