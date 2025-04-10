@@ -4,7 +4,11 @@ description: "Um livro de registo pode ser mais do que apenas uma burocracia irr
 date: 2025-04-01
 url: '/pt/digital-logbook'
 tags:
+- 'Finanças'
+- 'Ferramentas e plugins'
+- 'Gestão de frotas'
 categories: 
+- 'Informações gerais'
 color: '#f34b4c'
 text: 'white'
 ---
