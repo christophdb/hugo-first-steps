@@ -12,9 +12,22 @@
 {{- end -}}
 
 {{ if eq .style "primary" }}
-    <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-lg font-bold text-white" href="{{ $link }}">{{ .label }}</a>
+    <a
+        class="bg-gradient rounded-xl px-7 py-4 font-poppins text-lg font-bold text-white"
+        href="{{ $link }}"
+        {{ if $external }}target="_blank" rel="nofollow"{{ end }}
+        >{{ .label }}</a
+    >
 {{ else if eq .style "text" }}
-    <div class="flex"><a href="{{ $link }}">{{ .label }}</a>{{ partial "icon.html" "arrow-right" }}</div>
+    <div class="flex">
+        <a href="{{ $link }}" {{ if $external }}target="_blank" rel="nofollow"{{ end }}>{{ .label }}</a>
+        {{ partial "icon.html" "arrow-right" }}
+    </div>
 {{ else }}
-    <a class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-lg font-bold text-gray-800" href="{{ $link }}">{{ .label }}</a>
+    <a
+        class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-lg font-bold text-gray-800"
+        href="{{ $link }}"
+        {{ if $external }}target="_blank" rel="nofollow"{{ end }}
+        >{{ .label }}</a
+    >
 {{ end }}
