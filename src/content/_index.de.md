@@ -22,9 +22,9 @@ sections:
   subtitle: 'Was ist SeaTable?'
   title: 'So einfach wie Excel mit der Power einer Datenbank'
   text: 'SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser.'
-  button:
-      label: 'Jetzt ausprobieren'
-      link: '/de/registrierung'
+  buttons:
+    - label: 'Jetzt ausprobieren'
+      link: '/pages/registration'
   gridheadline: "Die No-Code <span class='gradient'>Lösung</span> für ..."
   items:
       - icon: 'chart-simple'
@@ -89,9 +89,10 @@ sections:
     text: "Tägliche Nutzer auf SeaTable Cloud"
   - number: "4.6"
     text: "Bewertung auf Capterra"
-  button:
-    link: "#"
-    label: "Lesen Sie weitere Erfolgsgeschichten"
+  buttons:
+    # TODO
+    - link: "index"
+      label: "Lesen Sie weitere Erfolgsgeschichten"
 
 - name: content-1
   weight: 5
@@ -153,10 +154,11 @@ sections:
     text: Marketing
     image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
     image_alt: 
-  button:
-    label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
-    link: "#"
-    style: not-yet-defined
+  buttons:
+    - label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
+      link: "https://seatable.io/vorlagen/?lang=auto"
+      # TODO
+      style: not-yet-defined
 
 - name: content-5
   weight: 8
@@ -213,9 +215,10 @@ sections:
   - image: "/images/logos/make.svg"
   - image: "/images/logos/n8n.svg"
   - image: "/images/logos/seatable-api.svg"
-  button:
-    label: "Mehr über Integrationen erfahren"
-    link: "#"
+  buttons:
+    - label: "Mehr über Integrationen erfahren"
+      # TODO
+      link: "index"
 
 - name: "content-11"
   weight: 12
@@ -230,9 +233,9 @@ sections:
 - name: banner-2
   weight: 13
   title: Wie auch immer Ihr Arbeitsablauf aussieht, mit <span class="text-seatable-blue">SeaTable</span> können Sie Ihn realisieren
-  button:
-    url: "#"
-    label: "Jetzt registrieren und loslegen"
+  buttons:
+    - link: "pages/registration"
+      label: "Jetzt registrieren und loslegen"
 
 - name: "faq"
   weight: 14

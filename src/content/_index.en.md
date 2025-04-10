@@ -22,9 +22,9 @@ sections:
   subtitle: 'What is SeaTable?'
   title: 'As simple as Excel, with the power of a database'
   text: 'SeaTable can handle all information from you and your team:Images, documents, emails, checkboxes, picklists, shortcuts and much more. You can edit all information conveniently via a web browser.'
-  button:
-      label: 'Try it out now'
-      link: '/registration'
+  buttons:
+    - label: 'Try it out now'
+      link: 'pages/registration'
   gridheadline: "The No-Code <span class='gradient'>solution</span> for ..."
   items:
       - icon: 'chart-simple'
@@ -94,9 +94,9 @@ sections:
     text: "Daily users on SeaTable Cloud"
   - number: "4.6"
     text: "Rating on Capterra"
-  button:
-    link: "#"
-    label: "Lesen Sie weitere Erfolgsgeschichten"
+  buttons:
+    - link: "index"
+      label: "Lesen Sie weitere Erfolgsgeschichten"
 
 - name: content-1
   weight: 5
@@ -157,10 +157,11 @@ sections:
     text: Marketing
     image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
     image_alt: 
-  button:
-    label: "Find more templates for your area of application"
-    link: "#"
-    style: not-yet-defined
+  buttons:
+    - label: "Find more templates for your area of application"
+      link: "https://seatable.io/vorlagen/?lang=auto"
+      # TODO
+      style: not-yet-defined
 
 - name: content-5
   weight: 8
@@ -219,9 +220,9 @@ sections:
   - image: "/images/logos/make.svg"
   - image: "/images/logos/n8n.svg"
   - image: "/images/logos/seatable-api.svg"
-  button:
-    label: "Learn more about integrations"
-    link: "#"
+  buttons:
+    - label: "Learn more about integrations"
+      link: "index"
 
 - name: "content-11"
   weight: 12
@@ -236,9 +237,9 @@ sections:
 - name: banner-2
   weight: 13
   title: Whatever your workflow looks like, you can realize it with <span class="text-seatable-blue">SeaTable</span>
-  button:
-    url: "#"
-    label: "Register now and get started"
+  buttons:
+    - link: "pages/registration"
+      label: "Register now and get started"
 
 - name: "faq"
   weight: 14
