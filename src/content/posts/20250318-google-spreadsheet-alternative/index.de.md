@@ -133,7 +133,7 @@ Während Google Sheets eine einfache Bedienung, Echtzeit-Kollaboration und nahtl
 
 ---
 
-Ist SeaTable auch für kleine Unternehmen oder Einzelanwender geeignet?
+Ist SeaTable auch für kleine Unternehmen oder Einzelanwender geeignet? |||
 
 Ja, SeaTable ist dank seiner kostenlosen Version und einfachen Bedienung sowohl für Einzelpersonen als auch für kleine Unternehmen geeignet. Gleichzeitig bietet es skalierbare Funktionen, die mit wachsenden Anforderungen Schritt halten.
 
