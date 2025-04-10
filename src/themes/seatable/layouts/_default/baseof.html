@@ -202,6 +202,13 @@
 
                 if (language !== null) {
                     const target = URL_BY_LANGUAGE[language] || URL_BY_LANGUAGE[DEFAULT_LANGUAGE];
+
+                    if (!target) {
+                        // Do not try to redirect if the page does not exist in other languages
+                        // This can happen with /categories/<name> since the categories are not linked
+                        return;
+                    }
+
                     redirect(target);
                     return;
                 }
@@ -213,6 +220,13 @@
                 const preferredLanguage = languageCodes.filter((code) => SUPPORTED_LANGUAGES.includes(code))[0] || DEFAULT_LANGUAGE;
 
                 const target = URL_BY_LANGUAGE[preferredLanguage] || URL_BY_LANGUAGE[DEFAULT_LANGUAGE];
+
+                if (!target) {
+                    // Do not try to redirect if the page does not exist in other languages
+                    // This can happen with /categories/<name> since the categories are not linked
+                    return;
+                }
+
                 redirect(target);
                 return;
             });
