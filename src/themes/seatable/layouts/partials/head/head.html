@@ -58,7 +58,7 @@
 
 
     <!-- social ... -->
-    {{ template "_internal/opengraph.html" . }}
+    {{ partial "opengraph/opengraph.html" }}
     {{ template "_internal/twitter_cards.html" . }}
 
     {{ partialCached "head/css.html" . }}
