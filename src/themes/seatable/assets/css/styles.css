@@ -46,9 +46,19 @@
     scroll-behavior: smooth;
 }
 
+.main-content a {
+    @apply no-underline;
+    @apply text-blue-600;
+    @apply hover:underline;
+    @apply font-bold;
+    @apply font-poppins;
+}
+
+/*
 .abc {
     @apply text-2xl;
 }
+    */
 
 /* legal pages */
 #legal h2 {
