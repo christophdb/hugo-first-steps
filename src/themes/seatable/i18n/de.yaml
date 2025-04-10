@@ -32,6 +32,27 @@ contact:
 newsletter:
     submit_text: 'Abonnieren'
 
+support_table:
+    support_channel: 'Support-Kanal'
+    newsletter: 'Newsletter'
+    help_area: 'Hilfebereich'
+    forum: 'SeaTable Forum'
+    support_tickets: 'Support-Tickets / E-Mail'
+    workshop: 'Onboarding-Workshop'
+    personal_contact: 'Persönlicher Ansprechpartner'
+    professional_services: 'Professional Services (kostenpflichtig)'
+    telephone: 'Telefonischer Support'
+    remote_hands: 'Remote Hands'
+    customized_dev: 'Individuelle Entwicklung (Plugins, Skripte, Vorlagen)'
+    trainings: 'Trainings & Workshops'
+    service_level: 'Service-Level'
+    availability: 'Verfügbarkeit'
+    response_time: 'Reaktionszeit'
+    service_time: 'Servicezeiten'
+    best_effort: 'Best-efforts'
+    sla: SLA
+    opening_times: 'Montag - Freitag<br/>10:00 - 17:00 Uhr (CET)'
+
 # old stuff ?!?
 month: Monat
 contact_sales: Verkauf kontaktieren

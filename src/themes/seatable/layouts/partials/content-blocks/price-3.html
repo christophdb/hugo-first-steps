@@ -1,10 +1,11 @@
-<section class="padding">
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
     <section id="price2" class="max-container">
         <div class="mx-auto max-w-[800px] text-center">
-            <h2 class="mt-1 text-4xl font-bold">Unser inkludierter Support im Überblick</h2>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
         </div>
 
-        <div class="mx-auto max-w-6xl overflow-x-auto">
+        <div class="mx-auto mt-12 max-w-6xl overflow-x-auto">
             <!-- Table Header -->
             <div class="grid grid-cols-5 gap-4 bg-gray-100 p-2 text-center font-bold">
                 <div></div>
@@ -13,498 +14,107 @@
                 <div>Enterprise</div>
                 <div>Dedicated</div>
             </div>
-            <div class="bg-gray-200 p-3 text-left font-bold text-gray-800">Support-Kanal</div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "support_table.support_channel" }}</div>
 
             <div class="">
                 <div class="grid grid-cols-5 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
-                    <div class="justify-self-start text-left text-lg text-seatable-blue">Newsletter</div>
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.newsletter" }}</div>
                     <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
-                    <div class="justify-self-start text-left text-lg text-seatable-blue">Hilfebereich</div>
                     <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
 
-                    <div class="justify-self-start text-left text-lg text-seatable-blue">SeaTable Forum</div>
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.help_area" }}</div>
                     <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
-                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
 
-                    <div class="justify-self-start text-left text-lg text-seatable-blue">Support-Tickets / E-Mail</div>
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.forum" }}</div>
                     <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.support_tickets" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.workshop" }}</div>
                     <div>{{ partial "icon.html" "circle-xmark" }}</div>
                     <div>{{ partial "icon.html" "circle-xmark" }}</div>
                     <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.personal_contact" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                </div>
+            </div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "support_table.professional_services" }}</div>
+
+            <div class="">
+                <div class="grid grid-cols-5 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.telephone" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                </div>
+                <div class="grid grid-cols-5 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.remote_hands" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                </div>
+                <div class="grid grid-cols-5 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.customized_dev" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                </div>
+            </div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "support_table.service_level" }}</div>
+
+            <div class="">
+                <div class="grid grid-cols-5 place-items-center gap-4 p-4 text-xl hover:bg-gray-50">
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.availability" }}</div>
+                    <div class="text-base">99,5%</div>
+                    <div class="text-base">99,5%</div>
+                    <div class="text-base">99,5%</div>
+                    <div class="text-base">99,5%</div>
+                </div>
+                <div class="grid grid-cols-5 place-items-center gap-4 p-4 text-xl hover:bg-gray-50">
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.response_time" }}</div>
+                    <div class="text-base">{{ T "support_table.best_effort" }}</div>
+                    <div class="text-base">{{ T "support_table.best_effort" }}</div>
+                    <div class="text-base">{{ T "support_table.sla" }}</div>
+                    <div class="text-base">{{ T "support_table.sla" }}</div>
+                </div>
+                <div class="grid grid-cols-5 place-items-center gap-4 p-4 text-xl hover:bg-gray-50">
+                    <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "support_table.service_time" }}</div>
+                    <div class="text-base">—</div>
+                    <div class="text-base">—</div>
+                    <div class="text-center text-sm">{{ T "support_table.opening_times" | safeHTML }}</div>
+                    <div class="text-center text-sm">{{ T "support_table.opening_times" | safeHTML }}</div>
                 </div>
             </div>
         </div>
 
-        <div class="mx-auto grid max-w-sm text-sm md:-mx-6 md:max-w-none md:grid-cols-5" x-data="{ isAnnual: true }">
-            <!-- Column with labels -->
-            <section class="md:contents [&>div:first-child]:rounded-t-2xl [&>div:first-child]:pt-10 [&>div:last-child]:rounded-b-2xl [&>div:last-child]:pb-10">
-                <div class="relative flex flex-col justify-end bg-white px-6">
-                    <div class="border-slate-200 pb-5 md:border-b"></div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-1">
-                    <div class="mt-4 py-2 text-slate-900">Platform</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-2">
-                    <div class="border-b border-slate-200 py-2">Account Access</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-3">
-                    <div class="border-b border-slate-200 py-2">Custom Domains</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-4">
-                    <div class="border-b border-slate-200 py-2">Receipts Forward</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-5">
-                    <div class="border-b border-slate-200 py-2">Supplier Management</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-6">
-                    <div class="mt-4 py-2">Features</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-7">
-                    <div class="border-b border-slate-200 py-2">Generate Public URLs</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-8">
-                    <div class="border-b border-slate-200 py-2">API Integrations</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-9">
-                    <div class="border-b border-slate-200 py-2">Extra Add-ons</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-10">
-                    <div class="border-b border-slate-200 py-2">Admin Roles</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-11">
-                    <div class="border-b border-slate-200 py-2">Admin Roles</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-12">
-                    <div class="border-b border-slate-200 py-2">Enterprise Add-ons</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-[13]">
-                    <div class="mt-4 py-2 text-slate-900">Support</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 max-md:hidden md:order-[14]">
-                    <div class="border-b border-slate-200 py-2">Custom Connection</div>
-                </div>
-            </section>
-            <!-- End: Column with labels -->
-
-            <!-- Essential table -->
-            <section class="md:contents [&>div:first-child]:rounded-t-2xl [&>div:first-child]:pt-10 [&>div:last-child]:rounded-b-2xl [&>div:last-child]:pb-10">
-                <div class="relative flex flex-col justify-end bg-white px-6">
-                    <div class="mb-5 grow border-b border-slate-200 pb-4">
-                        <div class="mb-0.5 font-semibold text-slate-900 dark:text-slate-200">Essential</div>
-                        <div class="mb-1">
-                            <span class="text-xl text-slate-900 dark:text-slate-200">$</span
-                            ><span class="text-3xl font-bold text-slate-900 dark:text-slate-200" x-text="isAnnual ? '29' : '35'">29</span
-                            ><span class="font-medium text-slate-500">/mo</span>
-                        </div>
-                        <div class="text-sm text-slate-500">Unlimited placeholder texts.</div>
-                    </div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 md:order-1">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Platform</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 md:order-2">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>400 <span class="md:sr-only">Account Access</span></span>
-                    </div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 md:order-3">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>4 <span class="md:sr-only">Custom Domains</span></span>
-                    </div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 md:order-4">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Receipts Forward</span></span>
-                    </div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 md:order-5">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>1 <span class="md:sr-only">Supplier Management</span></span>
-                    </div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 md:order-6">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Features</div>
-                </div>
-                <div class="flex flex-col justify-end bg-white px-6 md:order-7">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Generate Public URLs</span></span>
-                    </div>
-                </div>
-                <!-- API Integrations -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-8">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">API Integrations</span></span>
-                    </div>
-                </div>
-                <!-- Extra Add-ons -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-9">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Extra Add-ons</span></span>
-                    </div>
-                </div>
-                <!-- Admin Roles -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-10">
-                    <div class="flex items-center border-b border-slate-200 py-2 max-md:sr-only">
-                        <span><span class="md:sr-only">Admin Roles</span></span>
-                    </div>
-                </div>
-                <!-- Admin Roles -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-11">
-                    <div class="flex items-center border-b border-slate-200 py-2 max-md:sr-only">
-                        <span><span class="md:sr-only">Admin Roles</span></span>
-                    </div>
-                </div>
-                <!-- Enterprise Add-ons -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-12">
-                    <div class="flex items-center border-b border-slate-200 py-2 max-md:sr-only">
-                        <span><span class="md:sr-only">Enterprise Add-ons</span></span>
-                    </div>
-                </div>
-                <!-- # Support -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-[13]">
-                    <div class="sr-only mt-4 py-2 text-slate-900">Support</div>
-                </div>
-                <!-- Custom Connection -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-[14]">
-                    <div class="flex items-center border-b border-slate-200 py-2 max-md:sr-only">
-                        <span><span class="md:sr-only">Custom Connection</span></span>
-                    </div>
-                </div>
-            </section>
-            <!-- End: Essential table -->
-
-            <!-- Perform table -->
-            <section class="dark md:contents [&>div:first-child]:rounded-t-2xl [&>div:first-child]:pt-10 [&>div:last-child]:rounded-b-2xl [&>div:last-child]:pb-10">
-                <div class="relative flex flex-col justify-end bg-white px-6">
-                    <div class="mb-5 grow border-b border-slate-200 pb-4">
-                        <div class="mb-0.5 font-semibold text-slate-900 dark:text-slate-200">Perform</div>
-                        <div class="mb-1">
-                            <span class="text-xl text-slate-900 dark:text-slate-200">$</span
-                            ><span class="text-3xl font-bold text-slate-900 dark:text-slate-200" x-text="isAnnual ? '49' : '54'">49</span
-                            ><span class="font-medium text-slate-500">/mo</span>
-                        </div>
-                        <div class="text-sm text-slate-500">Unlimited placeholder texts.</div>
-                    </div>
-                </div>
-                <!-- # Platform -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-1">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Platform</div>
-                </div>
-                <!-- Account Access -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-2">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>800 <span class="md:sr-only">Account Access</span></span>
-                    </div>
-                </div>
-                <!-- Custom Domains -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-3">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>10 <span class="md:sr-only">Custom Domains</span></span>
-                    </div>
-                </div>
-                <!-- Receipts Forward -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-4">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Receipts Forward</span></span>
-                    </div>
-                </div>
-                <!-- Supplier Management -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-5">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>10 <span class="md:sr-only">Supplier Management</span></span>
-                    </div>
-                </div>
-                <!-- # Features -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-6">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Features</div>
-                </div>
-                <!-- Generate Public URLs -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-7">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Generate Public URLs</span></span>
-                    </div>
-                </div>
-                <!-- API Integrations -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-8">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">API Integrations</span></span>
-                    </div>
-                </div>
-                <!-- Extra Add-ons -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-9">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Extra Add-ons</span></span>
-                    </div>
-                </div>
-                <!-- Admin Roles -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-10">
-                    <div class="flex items-center border-b border-slate-200 py-2 max-md:sr-only">
-                        <span><span class="md:sr-only">Admin Roles</span></span>
-                    </div>
-                </div>
-                <!-- Admin Roles -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-11">
-                    <div class="flex items-center border-b border-slate-200 py-2 max-md:sr-only">
-                        <span><span class="md:sr-only">Admin Roles</span></span>
-                    </div>
-                </div>
-                <!-- Enterprise Add-ons -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-12">
-                    <div class="flex items-center border-b border-slate-200 py-2 max-md:sr-only">
-                        <span><span class="md:sr-only">Enterprise Add-ons</span></span>
-                    </div>
-                </div>
-                <!-- # Support -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-[13]">
-                    <div class="sr-only mt-4 py-2 text-slate-900 dark:text-slate-200">Support</div>
-                </div>
-                <!-- Custom Connection -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-[14]">
-                    <div class="flex items-center border-b border-slate-200 py-2 max-md:sr-only">
-                        <span><span class="md:sr-only">Custom Connection</span></span>
-                    </div>
-                </div>
-            </section>
-            <!-- End: Perform table -->
-
-            <!-- Enterprise table -->
-            <section class="md:contents [&>div:first-child]:rounded-t-2xl [&>div:first-child]:pt-10 [&>div:last-child]:rounded-b-2xl [&>div:last-child]:pb-10">
-                <div class="relative flex flex-col justify-end bg-white px-6">
-                    <div class="mb-5 grow border-b border-slate-200 pb-4">
-                        <div class="mb-0.5 font-semibold text-slate-900 dark:text-slate-200">Enterprise</div>
-                        <div class="mb-1">
-                            <span class="text-xl text-slate-900 dark:text-slate-200">$</span
-                            ><span class="text-3xl font-bold text-slate-900 dark:text-slate-200" x-text="isAnnual ? '79' : '85'">79</span
-                            ><span class="font-medium text-slate-500">/mo</span>
-                        </div>
-                        <div class="text-sm text-slate-500">Unlimited placeholder texts.</div>
-                    </div>
-                </div>
-                <!-- # Platform -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-1">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Platform</div>
-                </div>
-                <!-- Account Access -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-2">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Account Access</span></span>
-                    </div>
-                </div>
-                <!-- Custom Domains -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-3">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Custom Domains</span></span>
-                    </div>
-                </div>
-                <!-- Receipts Forward -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-4">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Receipts Forward</span></span>
-                    </div>
-                </div>
-                <!-- Supplier Management -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-5">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Supplier Management</span></span>
-                    </div>
-                </div>
-                <!-- # Features -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-6">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Features</div>
-                </div>
-                <!-- Generate Public URLs -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-7">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Generate Public URLs</span></span>
-                    </div>
-                </div>
-                <!-- API Integrations -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-8">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">API Integrations</span></span>
-                    </div>
-                </div>
-                <!-- Extra Add-ons -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-9">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Extra Add-ons</span></span>
-                    </div>
-                </div>
-                <!-- Admin Roles -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-10">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Admin Roles</span></span>
-                    </div>
-                </div>
-                <!-- Admin Roles -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-11">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Admin Roles</span></span>
-                    </div>
-                </div>
-                <!-- Enterprise Add-ons -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-12">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Enterprise Add-ons</span></span>
-                    </div>
-                </div>
-                <!-- # Support -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-[13]">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Support</div>
-                </div>
-                <!-- Custom Connection -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-[14]">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Custom Connection</span></span>
-                    </div>
-                </div>
-            </section>
-            <!-- End: Enterprise table -->
-
-            <!-- Enterprise table -->
-            <section class="md:contents [&>div:first-child]:rounded-t-2xl [&>div:first-child]:pt-10 [&>div:last-child]:rounded-b-2xl [&>div:last-child]:pb-10">
-                <div class="relative flex flex-col justify-end bg-white px-6">
-                    <div class="mb-5 grow">
-                        <div class="mb-0.5 font-semibold text-slate-900 dark:text-slate-200">Enterprise</div>
-                        <div class="mb-1">
-                            <span class="text-xl text-slate-900 dark:text-slate-200">$</span
-                            ><span class="text-3xl font-bold text-slate-900 dark:text-slate-200" x-text="isAnnual ? '79' : '85'">79</span
-                            ><span class="font-medium text-slate-500">/mo</span>
-                        </div>
-                        <div class="text-sm text-slate-500">Unlimited placeholder texts.</div>
-                    </div>
-                    <div class="border-b border-slate-200 pb-4">
-                        <a
-                            class="group inline-flex w-full justify-center whitespace-nowrap rounded-lg bg-indigo-500 px-2.5 py-1.5 text-sm text-white shadow-sm shadow-indigo-950/10 transition-colors duration-150 hover:bg-indigo-600 focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
-                            href="#0">
-                            Get Started <span class="ml-1 tracking-normal text-indigo-300 transition-transform duration-150 ease-in-out group-hover:translate-x-0.5">-&gt;</span>
-                        </a>
-                    </div>
-                </div>
-                <!-- # Platform -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-1">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Platform</div>
-                </div>
-                <!-- Account Access -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-2">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Account Access</span></span>
-                    </div>
-                </div>
-                <!-- Custom Domains -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-3">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Custom Domains</span></span>
-                    </div>
-                </div>
-                <!-- Receipts Forward -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-4">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Receipts Forward</span></span>
-                    </div>
-                </div>
-                <!-- Supplier Management -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-5">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span>Unlimited <span class="md:sr-only">Supplier Management</span></span>
-                    </div>
-                </div>
-                <!-- # Features -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-6">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Features</div>
-                </div>
-                <!-- Generate Public URLs -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-7">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Generate Public URLs</span></span>
-                    </div>
-                </div>
-                <!-- API Integrations -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-8">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">API Integrations</span></span>
-                    </div>
-                </div>
-                <!-- Extra Add-ons -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-9">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Extra Add-ons</span></span>
-                    </div>
-                </div>
-                <!-- Admin Roles -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-10">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Admin Roles</span></span>
-                    </div>
-                </div>
-                <!-- Admin Roles -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-11">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Admin Roles</span></span>
-                    </div>
-                </div>
-                <!-- Enterprise Add-ons -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-12">
-                    <div class="flex h-full items-center border-b border-slate-200 py-2">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Enterprise Add-ons2</span></span>
-                    </div>
-                </div>
-                <!-- # Support -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-[13]">
-                    <div class="mt-4 py-2 text-slate-900 md:sr-only dark:text-slate-200">Support</div>
-                </div>
-                <!-- Custom Connection -->
-                <div class="flex flex-col justify-end bg-white px-6 md:order-[14]">
-                    <div class="flex h-full items-center border-b border-slate-200 fill-emerald-500 py-2 text-red-300">
-                        {{ partial "icon.html" "check" }}
-                        <span><span class="md:sr-only">Custom Connection</span></span>
-                    </div>
-                </div>
-            </section>
-            <!-- End: Enterprise table -->
-        </div>
+        {{ with .contact }}
+            <div class="mx-auto mt-20 max-w-[800px] text-center">
+                <h3 class="mt-1 text-3xl font-bold">{{ .title }}</h3>
+                <p class="mt-8 text-xl leading-normal">{{ .text }}</p>
+            </div>
+        {{ end }}
     </section>
 </section>

@@ -27,6 +27,13 @@ sections:
 
     - name: price-3
       weight: 3
+      title: Unser inkludierter Support im Überblick
+      classes:
+          - bg-gray-100
+          - curved
+      contact:
+          title: Sie benötigen individuelle Dienstleistungen?
+          text: Wir bieten Ihnen alle Dienstleistungen rund um SeaTable aus einer Hand. So z. B. Installation, Wartung und Betrieb, individuelle Entwicklungen sowie Schulungen. Sprechen Sie uns an!
 
     - name: content-5
       weight: 4
