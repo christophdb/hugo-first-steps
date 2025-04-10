@@ -41,6 +41,7 @@ https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://kinsta.com/de/blog/express-app-erstellen/
 https://nanmu.me/en/posts/2020/hugo-i18n-automatic-language-redirection/
+https://cloudcannon.com/tutorials/hugo-seo-best-practices/
 
 Themen für Simon: (mit Prio 1 (=wichtig) bis 3 (=unwichtig)):
 [3] es sollte keine h1 in blog beitrag sein => doch seo checks am Ende der Seite? => seo check bereich
