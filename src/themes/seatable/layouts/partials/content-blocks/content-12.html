@@ -30,7 +30,7 @@
             {{ range .items }}
                 <div class="flex flex-row items-baseline text-lg text-seatable-orange">
                     {{ partial "icon" "check" }}
-                    <p class="relative top-[-1px] mb-2 pl-4 text-xl leading-normal">{{ .text | safeHTML }}</p>
+                    <p class="relative top-[-1px] mb-2 pl-4 text-xl leading-normal">{{ .text | markdownify }}</p>
                 </div>
             {{ end }}
 

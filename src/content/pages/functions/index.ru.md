@@ -80,6 +80,9 @@ sections:
 
     - name: 'content-13'
       weight: 6
+      classes:
+          - curved
+          - bg-gray-100
       title: Автоматизируйте свои процессы
       subtitle: Без знаний программирования
       description: SeaTable предлагает широкий спектр возможностей автоматизации для повторяющихся задач.

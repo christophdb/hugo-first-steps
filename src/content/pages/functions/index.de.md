@@ -80,6 +80,9 @@ sections:
 
     - name: 'content-13'
       weight: 6
+      classes:
+          - curved
+          - bg-gray-100
       title: Automatisieren Sie Ihre Prozesse
       subtitle: Ohne Programmierkenntnisse
       description: Für wiederkehrende Aufgaben bietet SeaTable eine Vielzahl an Möglichkeiten zur Automatisierung an.
