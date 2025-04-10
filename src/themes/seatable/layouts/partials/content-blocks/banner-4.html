@@ -6,8 +6,8 @@
   title: 
   subtitle: 
   text: 
-  button:
-    label:
+  buttons:
+  - label:
     link: 
     style: </code></pre>
     </div>
@@ -21,8 +21,12 @@
         <h2 class="text-4xl font-bold leading-tight text-white sm:pl-4 md:pl-20 lg:pl-40">{{ .title }}</h2>
         <p class="ml-auto mt-8 max-w-4xl text-right text-xl leading-normal text-white">{{ .text | markdownify }}</p>
 
-        <div class="mx-auto mt-16 text-right">
-            {{ partial "content-blocks/helpers/button.html" . }}
-        </div>
+        {{ if .buttons }}
+            <div class="mx-auto mt-16 text-right">
+                {{ range .buttons }}
+                    {{ partial "content-blocks/helpers/button.html" . }}
+                {{ end }}
+            </div>
+        {{ end }}
     </section>
 </section>

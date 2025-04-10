@@ -9,9 +9,9 @@ sections:
       weight: 1
       title: Order for all thoughts and ideas
       description: SeaTable gives you the certainty that everything is organized and documented. So that you can maintain an overview at all times and concentrate on implementing your thoughts and ideas.
-      button:
-          label: Get started now
-          link: 'pages/registration'
+      buttons:
+          - label: Get started now
+            link: 'pages/registration'
 
     - name: 'content-9'
       weight: 2
@@ -46,9 +46,9 @@ sections:
     - name: 'banner-3'
       weight: 3
       title: 'No matter what you want your system to look like. You have control over it.'
-      button:
-          link: 'pages/registration'
-          label: 'Try it out now'
+      buttons:
+          - link: 'pages/registration'
+            label: 'Try it out now'
 
     - name: 'content-12'
       weight: 4
@@ -103,9 +103,9 @@ sections:
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
-      button:
-          label: 'Learn more about integrations'
-          link: '#'
+      buttons:
+          - label: 'Learn more about integrations'
+            link: 'https://seatable.io/integrationen/?lang=auto'
 ---
 
 <!-- bei single pages kommt alles in den frontmatter ... -->

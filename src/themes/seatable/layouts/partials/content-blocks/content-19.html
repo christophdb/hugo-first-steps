@@ -6,8 +6,8 @@
   title: 
   subtitle: 
   text: 
-  button:
-    label:
+  buttons:
+  - label:
     link: 
   gridheadline:
   items:
@@ -56,10 +56,13 @@
                 </div>
             {{ end }}
         </div>
-        <div class="mx-auto mt-24 text-center">
-            {{ with .button }}
-                <a class="bg-gradient rounded-xl px-7 py-4 font-poppins font-bold text-white" href="{{ .link | absURL }}">{{ .label }}</a>
-            {{ end }}
-        </div>
+
+        {{ if .buttons }}
+            <div class="mx-auto mt-24 text-center">
+                {{ range .buttons }}
+                    {{ partial "content-blocks/helpers/button.html" . }}
+                {{ end }}
+            </div>
+        {{ end }}
     </section>
 </section>

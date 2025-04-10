@@ -9,9 +9,9 @@ sections:
       weight: 1
       title: Порядок для всех мыслей и идей
       description: SeaTable дает вам уверенность в том, что все организовано и задокументировано. Таким образом, вы всегда сохраняете общий обзор и можете сосредоточиться на реализации своих мыслей и идей.
-      button:
-          label: Начать сейчас
-          link: 'pages/registration'
+      buttons:
+          - label: Начать сейчас
+            link: 'pages/registration'
 
     - name: 'content-9'
       weight: 2
@@ -46,9 +46,9 @@ sections:
     - name: 'banner-3'
       weight: 3
       title: 'Неважно, как вы хотите, чтобы выглядела ваша система. Вы контролируете это.'
-      button:
-          link: 'pages/registration'
-          label: 'Попробуйте сейчас'
+      buttons:
+          - link: 'pages/registration'
+            label: 'Попробуйте сейчас'
 
     - name: 'content-12'
       weight: 4
@@ -103,9 +103,9 @@ sections:
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
-      button:
-          label: 'Узнать больше об интеграциях'
-          link: '#'
+      buttons:
+          - label: 'Узнать больше об интеграциях'
+            link: 'https://seatable.io/integrationen/?lang=auto'
 ---
 
 <!-- bei single pages kommt alles in den frontmatter ... -->

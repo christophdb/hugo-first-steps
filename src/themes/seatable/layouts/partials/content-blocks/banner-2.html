@@ -13,9 +13,12 @@
     <section class="">
         <div class="mx-auto max-w-[1000px] text-right">
             <h3 class="text-5xl font-bold leading-none text-white">{{ .title | safeHTML }}</h3>
-            {{ with .button }}
+
+            {{ if .buttons }}
                 <div class="mt-12 text-right">
-                    <a href="{{ .url }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins font-bold text-gray-800">{{ .label }}</a>
+                    {{ range .buttons }}
+                        {{ partial "content-blocks/helpers/button.html" . }}
+                    {{ end }}
                 </div>
             {{ end }}
         </div>

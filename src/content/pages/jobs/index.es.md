@@ -47,8 +47,8 @@ sections:
       weight: 5
       title: '¡Aplica ahora y conviértete en un SeaTabler!'
       subtitle: '¿Qué estás esperando?'
-      button:
-          label: 'Aplica ahora'
-          link: '#'
-          style: 'primary'
+      buttons:
+          - label: 'Aplica ahora'
+            link: 'https://cloud.seatable.io/dtable/forms/dbf284d1-8b2a-4729-92fa-8b7ab1579731/'
+            style: 'primary'
 ---

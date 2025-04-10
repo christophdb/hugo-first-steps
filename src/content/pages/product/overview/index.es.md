@@ -41,9 +41,9 @@ sections:
           - headline: Costos manejables
             text: Registro gratuito. Costos mensuales sencillos.
       image: '/images/Produktuebersicht-SeaTable-Cloud.png'
-      button:
-          label: Más sobre SeaTable Cloud
-          link: 'pages/product/seatable-cloud'
+      buttons:
+          - label: Más sobre SeaTable Cloud
+            link: 'pages/product/seatable-cloud'
 
     - name: content-12
       weight: 4
@@ -61,9 +61,9 @@ sections:
           - text: Siempre la última versión de SeaTable
           - text: Soporte incluido
       image: '/images/Produktuebersicht-SeaTable-Dedicated.png'
-      button:
-          label: Más sobre SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: Más sobre SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: content-12
       weight: 5
@@ -82,9 +82,9 @@ sections:
           - text: Soporte incluido
       image: '/images/Produktuebersicht-SeaTable-On-Premises.png'
       image_position: 'left'
-      button:
-          label: Más sobre SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: Más sobre SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: pricetable-2
       weight: 6
@@ -94,10 +94,10 @@ sections:
       title: Precios justos para organizaciones de investigación, educación y sin fines de lucro
       subtitle: 'Descuentos para el sector público'
       text: 'SeaTable ofrece precios justos y transparentes para que **instituciones educativas**, **instituciones de investigación**, **instituciones públicas** y **organizaciones sin fines de lucro** tengan acceso a tecnología de punta sin sobrecargar su presupuesto. Benefíciate de potentes soluciones sin código a precios reducidos.'
-      button:
-          label: Contáctanos
-          link: 'pages/contact'
-          style: primary
+      buttons:
+          - label: Contáctanos
+            link: 'pages/contact'
+            style: primary
     - name: 'content-10'
       weight: 10
       title: 'Flujos de trabajo y automatizaciones individuales con SeaTable'
@@ -108,9 +108,9 @@ sections:
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
-      button:
-      label: 'Más información sobre integraciones'
-      link: '#'
+      buttons:
+          - label: 'Más información sobre integraciones'
+            link: 'https://seatable.io/integrationen/?lang=auto'
 
     - name: 'content-9'
       weight: 11

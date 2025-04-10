@@ -41,9 +41,9 @@ sections:
           - headline: Überschaubare Kosten
             text: Registrierung kostenlos. Einfache monatliche Kosten.
       image: '/images/Produktuebersicht-SeaTable-Cloud.png'
-      button:
-          label: Mehr zu SeaTable Cloud
-          link: 'pages/product/seatable-cloud'
+      buttons:
+          - label: Mehr zu SeaTable Cloud
+            link: 'pages/product/seatable-cloud'
 
     - name: content-12
       weight: 4
@@ -61,9 +61,9 @@ sections:
           - text: Immer die aktuellste SeaTable Version
           - text: Support inklusive
       image: '/images/Produktuebersicht-SeaTable-Dedicated.png'
-      button:
-          label: Mehr zu SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: Mehr zu SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: content-12
       weight: 5
@@ -82,9 +82,9 @@ sections:
           - text: Support inklusive
       image: '/images/Produktuebersicht-SeaTable-On-Premises.png'
       image_position: 'left'
-      button:
-          label: Mehr zu SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: Mehr zu SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: pricetable-2
       weight: 6
@@ -94,10 +94,10 @@ sections:
       title: Faire Preisgestaltung für Forschung, Bildung und gemeinnützige Organisationen
       subtitle: 'Rabatte für den öffentlichen Sektor'
       text: SeaTable bietet eine faire und transparente Preisgestaltung für **Bildungseinrichtungen**, **Forschungseinrichtungen**, **öffentliche Institutionen** und **gemeinnützige Vereine** Zugang zu modernster Technologie haben, ohne ihr Budget zu überlasten. Profitieren Sie von leistungsstarken No-Code-Lösungen zu ermäßigten Preisen.
-      button:
-          label: Kontaktieren Sie uns
-          link: 'pages/contact'
-          style: primary
+      buttons:
+          - label: Kontaktieren Sie uns
+            link: 'pages/contact'
+            style: primary
 
     - name: 'content-10'
       weight: 10
@@ -109,9 +109,9 @@ sections:
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
-      button:
-          label: 'Mehr über Integrationen erfahren'
-          link: '#'
+      buttons:
+          - label: 'Mehr über Integrationen erfahren'
+            link: 'https://seatable.io/integrationen/?lang=auto'
 
     - name: 'content-9'
       weight: 11

@@ -28,8 +28,8 @@ sections:
       weight: 3
       title: 'Contáctanos para más información'
       subtitle: 'Persona de contacto'
-      button:
-          label: 'Contactar ahora'
-          link: 'pages/contact'
-          style: 'primary'
+      buttons:
+          - label: 'Contactar ahora'
+            link: 'pages/contact'
+            style: 'primary'
 ---

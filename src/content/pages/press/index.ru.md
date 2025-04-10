@@ -28,8 +28,8 @@ sections:
       weight: 3
       title: Свяжитесь с нами для получения дополнительной информации
       subtitle: Контактное лицо
-      button:
-          label: Связаться сейчас
-          link: 'pages/contact'
-          style: 'primary'
+      buttons:
+          - label: Связаться сейчас
+            link: 'pages/contact'
+            style: 'primary'
 ---

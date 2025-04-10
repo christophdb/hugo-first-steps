@@ -28,13 +28,10 @@
                 <p class="mt-3 text-xl leading-normal">{{ .text | safeHTML }}</p>
             {{ end }}
 
-            {{ with .button }}
+            {{ if .buttons }}
                 <div class="mt-14">
-                    {{ $link := page.GetPage .link }}
-                    {{ if $link }}
-                        <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ $link.RelPermalink }}">{{ .label }}</a>
-                    {{ else }}
-                        <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ .link }}">{{ .label }}</a>
+                    {{ range .buttons }}
+                        {{ partial "content-blocks/helpers/button.html" . }}
                     {{ end }}
                 </div>
             {{ end }}

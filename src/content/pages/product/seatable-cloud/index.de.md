@@ -26,9 +26,9 @@ sections:
           - text: Die Registrierung dauert keine Minute, Sie profitieren von transparenten Kosten, können beliebig skalieren und müssen sich um nichts kümmern.
           - text: Wie klingt das für Sie?
       image: '/images/Product-Page-Cloud_800x500-1.png'
-      button:
-          label: Jetzt registrieren
-          link: 'pages/registration'
+      buttons:
+          - label: Jetzt registrieren
+            link: 'pages/registration'
 
     - name: content-11
       weight: 3

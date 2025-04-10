@@ -75,9 +75,10 @@ sections:
       text:
       image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
       image_alt: 
-    button:
-      label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
-      link: "#"
+    buttons:
+    - label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
+      link: "https://seatable.io/vorlagen/?lang=auto"
+      # TODO: Fix style
       style: not-yet-defined
 
   - name: "content-4"
@@ -85,9 +86,9 @@ sections:
     title: "Was ist SeaTable?"
     subtitle: "So einfach wie Excel mit der Power einer Datenbank"
     text: "SeaTable kann mit allen Informationen von Ihnen und Ihrem Team umgehen: Bilder, Dokumente, E-Mails, Checkboxen, Auswahllisten, Verknüpfungen und noch viele weitere. Sie bearbeiten alle Informationen bequem per Webbrowser."
-    button:
-      label: "Jetzt ausprobieren"
-      link: "/de/registrierung"
+    buttons:
+    - label: "Jetzt ausprobieren"
+      link: "pages/registration"
     gridheadline: "Die No-Code <span class='gradient'>Lösung</span> für ..."
     items:
       - icon: "chart-simple"
@@ -150,9 +151,11 @@ sections:
     - text: "Bei Ihrem eigenen Server entscheiden Sie, wo SeaTable Ihre Daten speicher. Sie haben die volle Datenhoheit."
     buttons:
     - label: "Erfahren Sie mehr über die verschiedenen Versionen"
-      url: "#"
+      link: "pages/product/overview"
+      style: text
     - label: "Zum SeaTable On-Premise Angebot"
-      url: "#"
+      link: "pages/product/seatable-server"
+      style: text
     image: "/img/seatable-security-1.jpg"
 
 
@@ -160,8 +163,8 @@ sections:
   - name: banner-2
     weight: 8
     title: Wie auch immer Ihr Arbeitsablauf aussieht, mit <span class="text-seatable-blue">SeaTable</span> können Sie Ihn realisieren
-    button:
-      url: "#"
+    buttons:
+    - link: "pages/registration"
       label: "Jetzt registrieren und loslegen"
 
   - name: "content-8"
@@ -216,9 +219,10 @@ sections:
     - image: "/images/logos/make.svg"
     - image: "/images/logos/n8n.svg"
     - image: "/images/logos/seatable-api.svg"
-    button:
-      label: "Mehr über Integrationen erfahren"
-      link: "#"
+    buttons:
+    - label: "Mehr über Integrationen erfahren"
+      # TODO
+      link: "index"
 
   - name: "content-11"
     weight: 11
@@ -233,8 +237,8 @@ sections:
   - name: "banner-3"
     weight: 11
     title: "Egal, wie Ihr System aussehen soll. Sie haben die Kontrolle darüber."
-    button:
-      link: "#"
+    buttons:
+    - link: "pages/registration"
       label: "Jetzt ausprobieren"
 
   - name: "content-12"
@@ -292,9 +296,10 @@ sections:
       text: "Tägliche Nutzer auf SeaTable Cloud"
     - number: "4.6"
       text: "Bewertung auf Capterra"
-    button:
-      link: "#"
-      label: "Lesen Sie weitere Erfolgsgeschichten"
+    buttons:
+      # TODO
+      - link: "index"
+        label: "Lesen Sie weitere Erfolgsgeschichten"
 
   - name: "form-contact"
     weight: 20

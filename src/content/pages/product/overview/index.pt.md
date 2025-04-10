@@ -41,9 +41,9 @@ sections:
           - headline: Custos gerenciáveis
             text: Registro gratuito. Custos mensais simples.
       image: '/images/Produktuebersicht-SeaTable-Cloud.png'
-      button:
-          label: Mais sobre o SeaTable Cloud
-          link: 'pages/product/seatable-cloud'
+      buttons:
+          - label: Mais sobre o SeaTable Cloud
+            link: 'pages/product/seatable-cloud'
 
     - name: content-12
       weight: 4
@@ -61,9 +61,9 @@ sections:
           - text: Sempre a versão mais recente do SeaTable
           - text: Suporte incluído
       image: '/images/Produktuebersicht-SeaTable-Dedicated.png'
-      button:
-          label: Mais sobre o SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: Mais sobre o SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: content-12
       weight: 5
@@ -82,9 +82,9 @@ sections:
           - text: Suporte incluído
       image: '/images/Produktuebersicht-SeaTable-On-Premises.png'
       image_position: 'left'
-      button:
-          label: Mais sobre o SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: Mais sobre o SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: pricetable-2
       weight: 6
@@ -94,10 +94,10 @@ sections:
       title: Preços justos para instituições de pesquisa, educação e organizações sem fins lucrativos
       subtitle: 'Descontos para o setor público'
       text: 'SeaTable oferece preços justos e transparentes para **instituições educacionais**, **instituições de pesquisa**, **instituições públicas** e **organizações sem fins lucrativos** terem acesso à tecnologia de ponta sem ultrapassar seu orçamento. Aproveite poderosas soluções no-code com preços reduzidos.'
-      button:
-          label: Entre em contato conosco
-          link: 'pages/contact'
-          style: primary
+      buttons:
+          - label: Entre em contato conosco
+            link: 'pages/contact'
+            style: primary
 
     - name: 'content-10'
       weight: 10
@@ -109,9 +109,9 @@ sections:
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
-      button:
-          label: 'Saiba mais sobre integrações'
-          link: '#'
+      buttons:
+          - label: 'Saiba mais sobre integrações'
+            link: 'https://seatable.io/integrationen/?lang=auto'
 
     - name: 'content-9'
       weight: 11

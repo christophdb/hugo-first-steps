@@ -28,8 +28,8 @@ sections:
       weight: 3
       title: 'Entre em contato conosco para mais informações'
       subtitle: 'Pessoa de contato'
-      button:
-          label: 'Entre em contato agora'
-          link: 'pages/contact'
-          style: 'primary'
+      buttons:
+          - label: 'Entre em contato agora'
+            link: 'pages/contact'
+            style: 'primary'
 ---

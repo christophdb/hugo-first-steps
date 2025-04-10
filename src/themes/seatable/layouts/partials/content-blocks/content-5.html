@@ -6,8 +6,8 @@
   - title: 
     subtitle: 
     text1: 
-    button:
-      label:
+    buttons:
+    - label:
       link:
       style: 
   - subtitle: 
@@ -28,15 +28,12 @@
           <h2 class="text-4xl text-white font-bold mt-1 leading-none">{{ $item.title }}</h2>
           <p class="mt-8 text-white text-lg leading-relaxed">{{ $item.text | safeHTML }}</p>
 
-          {{ with .button }}
-            <div class="mt-14">
-                {{ $link := page.GetPage .link }}
-                {{ if $link }}
-                  <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ $link.RelPermalink }}">{{ .label }}</a>
-                {{ else }}
-                <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ .link }}">{{ .label }}</a>
-                {{ end }}
-            </div>
+          {{ if .buttons }}
+              <div class="mt-14">
+                  {{ range .buttons }}
+                      {{ partial "content-blocks/helpers/button.html" . }}
+                  {{ end }}
+              </div>
           {{ end }}
 
         </div>
