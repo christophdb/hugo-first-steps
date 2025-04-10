@@ -1,0 +1,46 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title:
+  subtitle:
+  items:
+  - title: 
+    subtitle: 
+    text1: 
+    button:
+      label:
+      link:
+      style: 
+  - subtitle: 
+    title: 
+    text: </code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section class="max-container">
+        <div class="mx-auto max-w-3xl text-left">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+        </div>
+
+    
+            {{ range $index, $item := .items }} 
+                <div class="mx-auto mt-28 flex max-w-4xl gap-8 {{ if eq (mod $index 2) 1 }}flex-row-reverse{{ end }}">
+                    <div class="flex basis-1/2 flex-col">
+                        <h2 class="mt-1 text-2xl font-bold">{{ .headline }}</h2>
+                        <p class="mt-8 text-lg leading-normal">{{ .text }}</p>
+                    </div>
+                    <div class="basis-1/2 justify-center">
+                        <img class="border shadow-xl rounded-xl p-4" src="{{ .image }}" alt="placeholder" />
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </section>
+</section>

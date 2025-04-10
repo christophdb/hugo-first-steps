@@ -11,6 +11,7 @@ sections:
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
+      # TODO: hier noch buttons hinzufügen können!
 
     - name: content-12
       weight: 2
