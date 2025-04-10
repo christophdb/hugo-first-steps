@@ -3,7 +3,7 @@ title: "Gestão da carteira: como manter sempre o controlo da sua carteira"
 description: "Gestão de carteiras de projectos, gestão de carteiras de produtos ou gestão de carteiras de TI: independentemente da finalidade da criação de uma carteira e da dimensão da carteira que pretende controlar - neste artigo, aprenderá a gerir a sua carteira com êxito."
 date: 2025-03-27
 categories:
-    - "Geral"
+    - "Informações gerais"
 tags:
 color: '#bba9d3'
 url: "/pt/portfoliomanagement"
