@@ -27,7 +27,7 @@ Die Nutzerfreundlichkeit, der hohe Datenschutz und die unproblematische Möglich
 
 ## Vielseitig einsetzbares Management-Tool
 
-![](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
+![Tablet mit SeaTable Tabelle](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
 
 Heute wird SeaTable als vielseitiges Management-Tool eingesetzt. Der Hauptanwendungsfall ist immer noch die [Veranstaltungsorganisation](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/). Gästelisten und Saalbelegungsplan, Personalplanung beim Event und selbst der sekundengenau geplante Ablauf der Gala wird in SeaTable abgebildet. Als besonders nützlich hat sich hier die Möglichkeit erwiesen, Audio-Dateien direkt in eine Base zu laden. So hat die Regie jederzeit Zugriff auf Tonaufnahmen, beispielsweise von der Aussprache der Namen der Preisträger.
 
