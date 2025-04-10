@@ -32,6 +32,27 @@ contact:
 newsletter:
     submit_text: 'Subscribe'
 
+support_table:
+    support_channel: 'Support channel'
+    newsletter: 'Newsletter'
+    help_area: 'Help area'
+    forum: 'SeaTable Forum'
+    support_tickets: 'Support tickets / e-mail'
+    workshop: 'Onboarding workshop'
+    personal_contact: 'Personal contact person'
+    professional_services: 'Professional Services (subject to a charge)'
+    telephone: 'Telephone support'
+    remote_hands: 'Remote Hands'
+    customized_dev: 'Customized development (plugins, scripts, templates)'
+    trainings: 'Trainings & Workshops'
+    service_level: 'Service level'
+    availability: 'Availability'
+    response_time: 'Response time'
+    service_time: 'Service times'
+    best_effort: 'Best-efforts'
+    sla: 'SLA'
+    opening_times: 'Monday - Friday<br/>10 a.m. - 5 p.m. (CET)'
+
 # old stuff ?!?
 month: Month
 contact_sales: Contact sales
