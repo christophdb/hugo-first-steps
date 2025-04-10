@@ -90,8 +90,7 @@ sections:
   - number: "4.6"
     text: "Bewertung auf Capterra"
   buttons:
-    # TODO
-    - link: "index"
+    - link: "categories/customer-story"
       label: "Lesen Sie weitere Erfolgsgeschichten"
 
 - name: content-1
@@ -217,8 +216,7 @@ sections:
   - image: "/images/logos/seatable-api.svg"
   buttons:
     - label: "Mehr über Integrationen erfahren"
-      # TODO
-      link: "index"
+      link: "https://seatable.io/integrationen/?lang=auto"
 
 - name: "content-11"
   weight: 12

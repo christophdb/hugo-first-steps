@@ -14,8 +14,7 @@ sections:
       link: "pages/registration"
       style: "primary"
     - label: Познакомьтесь с функциями
-      # TODO
-      link: "index.md"
+      link: "pages/functions"
   image: "/images/projektmanagement-mit-seatable.gif"
 
 - name: content-4
@@ -96,8 +95,7 @@ sections:
   - number: "4.6"
     text: "Rating on Capterra"
   buttons:
-  # TODO
-  - link: "index"
+  - link: "categories/история-клиента/"
     label: "Lesen Sie weitere Erfolgsgeschichten"
 
 - name: content-1
@@ -224,8 +222,7 @@ sections:
   - image: "/images/logos/seatable-api.svg"
   buttons:
   - label: "Learn more about integrations"
-    # TODO
-    link: "index"
+    link: "https://seatable.io/integrationen/?lang=auto"
 
 - name: "content-11"
   weight: 12

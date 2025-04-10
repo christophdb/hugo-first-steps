@@ -95,7 +95,7 @@ sections:
   - number: "4.6"
     text: "Rating on Capterra"
   buttons:
-    - link: "index"
+    - link: "categories/customer-story"
       label: "Lesen Sie weitere Erfolgsgeschichten"
 
 - name: content-1
