@@ -8,7 +8,11 @@
             <div class="mt-14 flex flex-col">
                 
                 <div id="container" class="flex flex-col w-full justify-between">
-                    {{ range $index, $page := .Pages }}
+                    {{ $pages := .Pages }}
+                    {{ $paginator := .Paginate $pages.ByDate.Reverse }}
+
+                    <!-- Pagination size is defined in config/hugo.toml -->
+                    {{ range $index, $page := $paginator.Pages }}
                       {{ if eq $index 0 }}
                         <!-- First item -->
                         <a href="{{ .RelPermalink }}">
@@ -63,6 +67,8 @@
                       {{ end }}
 
                     {{ end }}
+
+                    {{ partial "pagination.html" . }}
                   </div>
             </div>
         </section>
