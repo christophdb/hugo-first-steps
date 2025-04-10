@@ -41,9 +41,9 @@ sections:
           - headline: Управляемые затраты
             text: Бесплатная регистрация. Простые ежемесячные затраты.
       image: '/images/Produktuebersicht-SeaTable-Cloud.png'
-      button:
-          label: Подробнее о SeaTable Cloud
-          link: 'pages/product/seatable-cloud'
+      buttons:
+          - label: Подробнее о SeaTable Cloud
+            link: 'pages/product/seatable-cloud'
 
     - name: content-12
       weight: 4
@@ -61,9 +61,9 @@ sections:
           - text: Всегда последняя версия SeaTable
           - text: Поддержка включена
       image: '/images/Produktuebersicht-SeaTable-Dedicated.png'
-      button:
-          label: Подробнее о SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: Подробнее о SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: content-12
       weight: 5
@@ -82,9 +82,9 @@ sections:
           - text: Поддержка включена
       image: '/images/Produktuebersicht-SeaTable-On-Premises.png'
       image_position: 'left'
-      button:
-          label: Подробнее о SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: Подробнее о SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: pricetable-2
       weight: 6
@@ -94,10 +94,10 @@ sections:
       title: Справедливые цены для исследовательских, образовательных и некоммерческих организаций
       subtitle: 'Скидки для государственного сектора'
       text: 'SeaTable предлагает справедливые и прозрачные цены, чтобы **образовательные учреждения**, **исследовательские институты**, **государственные учреждения** и **некоммерческие организации** имели доступ к самым современным технологиям, не перегружая свой бюджет. Воспользуйтесь преимуществами мощных решений no-code по сниженным ценам.'
-      button:
-          label: Свяжитесь с нами
-          link: 'pages/contact'
-          style: primary
+      buttons:
+          - label: Свяжитесь с нами
+            link: 'pages/contact'
+            style: primary
     - name: 'content-10'
       weight: 10
       title: 'Индивидуальные рабочие процессы и автоматизация с SeaTable'
@@ -108,9 +108,9 @@ sections:
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
-      button:
-          label: 'Узнайте больше об интеграциях'
-          link: '#'
+      buttons:
+          - label: 'Узнайте больше об интеграциях'
+            link: 'https://seatable.io/integrationen/?lang=auto'
 
     - name: 'content-9'
       weight: 11

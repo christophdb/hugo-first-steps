@@ -41,9 +41,9 @@ sections:
           - headline: Manageable Costs
             text: Free registration. Simple monthly costs.
       image: '/images/Produktuebersicht-SeaTable-Cloud.png'
-      button:
-          label: More about SeaTable Cloud
-          link: 'pages/product/seatable-cloud'
+      buttons:
+          - label: More about SeaTable Cloud
+            link: 'pages/product/seatable-cloud'
 
     - name: content-12
       weight: 4
@@ -61,9 +61,9 @@ sections:
           - text: Always the latest SeaTable version
           - text: Support included
       image: '/images/Produktuebersicht-SeaTable-Dedicated.png'
-      button:
-          label: More about SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: More about SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: content-12
       weight: 5
@@ -82,9 +82,9 @@ sections:
           - text: Support included
       image: '/images/Produktuebersicht-SeaTable-On-Premises.png'
       image_position: 'left'
-      button:
-          label: More about SeaTable Dedicated
-          link: 'pages/product/seatable-dedicated'
+      buttons:
+          - label: More about SeaTable Dedicated
+            link: 'pages/product/seatable-dedicated'
 
     - name: pricetable-2
       weight: 6
@@ -94,10 +94,10 @@ sections:
       title: Fair pricing for research, education, and non-profit organizations
       subtitle: 'Discounts for the public sector'
       text: 'SeaTable offers fair and transparent pricing for **educational institutions**, **research institutions**, **public institutions**, and **non-profit organizations** have access to state-of-the-art technology without overstretching their budget. Benefit from powerful no-code solutions at discounted prices.'
-      button:
-          label: Contact us
-          link: 'pages/contact'
-          style: primary
+      buttons:
+          - label: Contact us
+            link: 'pages/contact'
+            style: primary
     - name: 'content-10'
       weight: 10
       title: 'Individual Workflows and Automations with SeaTable'
@@ -108,9 +108,9 @@ sections:
           - image: '/images/logos/make.svg'
           - image: '/images/logos/n8n.svg'
           - image: '/images/logos/seatable-api.svg'
-      button:
-          label: 'Learn more about integrations'
-          link: '#'
+      buttons:
+          - label: 'Learn more about integrations'
+            link: 'https://seatable.io/integrationen/?lang=auto'
 
     - name: 'content-9'
       weight: 11

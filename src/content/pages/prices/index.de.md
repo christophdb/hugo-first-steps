@@ -14,7 +14,5 @@ sections:
       title: 'Weltweit vertrauen Unternehmen und Teams jeder Größe auf SeaTable'
       subtitle: 'Sie sind in guter Gesellschaft'
       show_numbers: 'no'
-      button:
-          label:
-          link:
+      buttons: []
 ---

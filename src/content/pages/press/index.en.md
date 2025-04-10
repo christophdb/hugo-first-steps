@@ -28,8 +28,8 @@ sections:
       weight: 3
       title: 'Contact us for more information'
       subtitle: 'Contact Person'
-      button:
-          label: 'Contact now'
-          link: 'pages/contact'
-          style: 'primary'
+      buttons:
+          - label: 'Contact now'
+            link: 'pages/contact'
+            style: 'primary'
 ---

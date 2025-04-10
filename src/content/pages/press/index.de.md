@@ -27,8 +27,8 @@ sections:
       weight: 3
       title: 'Kontaktieren Sie uns für mehr Informationen'
       subtitle: 'Ansprechpartner'
-      button:
-          label: 'Jetzt kontaktieren'
-          link: 'pages/contact'
-          style: 'primary'
+      buttons:
+          - label: 'Jetzt kontaktieren'
+            link: 'pages/contact'
+            style: 'primary'
 ---

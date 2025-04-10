@@ -41,9 +41,9 @@ sections:
           - title: Ask questions, share knowledge, and solve problems.
             subtitle: SeaTable Community
             text: Community resources and forums for Docker enthusiasts to discuss technical solutions, exchange ideas, and stay connected.
-            button:
-                link: 'https://forum.seatable.io'
-                label: 'Community Forum'
+            buttons:
+                - link: 'https://forum.seatable.io'
+                  label: 'Community Forum'
 
     - name: faq
       weight: 5

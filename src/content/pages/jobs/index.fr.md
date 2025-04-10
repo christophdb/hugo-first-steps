@@ -48,8 +48,8 @@ sections:
       weight: 5
       title: 'Postulez maintenant et devenez un SeaTabler !'
       subtitle: "Qu'attendez-vous ?"
-      button:
-          label: 'Postulez maintenant'
-          link: '#'
-          style: 'primary'
+      buttons:
+          - label: 'Postulez maintenant'
+            link: 'https://cloud.seatable.io/dtable/forms/dbf284d1-8b2a-4729-92fa-8b7ab1579731/'
+            style: 'primary'
 ---
