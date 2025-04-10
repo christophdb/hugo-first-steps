@@ -36,7 +36,7 @@
         </div>
 
         {{ if .template }}
-            <div class="max-container relative -z-10 max-h-[300px] w-full">
+            <div class="max-container relative max-h-[300px] w-full">
                 {{ partial "template.html" (dict "id" .template ) }}
             </div>
         {{ end }}
