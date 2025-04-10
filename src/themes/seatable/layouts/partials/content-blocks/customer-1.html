@@ -66,9 +66,11 @@
             </div>
         {{ end }}
 
-        {{ with .button }}
+        {{ if .buttons }}
             <div class="mt-24 text-center">
-                <a href="{{ .link }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins font-bold text-gray-800">{{ .label }}</a>
+                {{ range .buttons }}
+                    {{ partial "content-blocks/helpers/button.html" . }}
+                {{ end }}
             </div>
         {{ end }}
 
