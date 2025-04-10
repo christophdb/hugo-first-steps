@@ -4,8 +4,9 @@ description: 'A digitalização do mundo do trabalho está a progredir rapidamen
 categories:
     - 'Informações gerais'
 tags:
-    - "Transformação digital"
-    - "Segurança informática e proteção de dados"
+    - 'Gestão e visualização de dados'
+    - 'Transformação digital'
+    - 'Segurança informática e privacidade dos dados'
 date: 2025-04-01
 color: '#c5a6e9'
 url: '/pt/cloud-computing'

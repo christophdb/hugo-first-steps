@@ -3,8 +3,12 @@ title: "Modelo gratuito: É muito fácil manter um diário de bordo digital"
 description: "Um livro de registo pode ser mais do que apenas uma burocracia irritante - oferece-lhe a oportunidade de poupar dinheiro. Com as ferramentas digitais certas, pode maximizar os seus benefícios e evitar erros dispendiosos. Descubra como manter um diário de bordo inteligente e quais as soluções que o podem ajudar!"
 date: 2025-04-01
 url: '/pt/digital-logbook'
-tags:
+tags: 
+- 'Finanças'
+- 'Ferramentas e plugins'
+- 'Gestão de frotas'
 categories: 
+- 'Informações gerais'
 color: '#f34b4c'
 text: 'white'
 ---
