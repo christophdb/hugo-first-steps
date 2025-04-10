@@ -1,12 +1,12 @@
 ---
-title: "Gestão da carteira: como manter uma visão geral da sua carteira em qualquer altura"
-description: "Gestão de carteiras de projectos, gestão de carteiras de produtos ou gestão de carteiras de TI: independentemente da finalidade para a qual está a criar uma carteira e da dimensão da carteira que pretende controlar - neste artigo, aprenderá a gerir a sua carteira com sucesso."
+title: 'Gestão da carteira: como manter uma visão geral da sua carteira em qualquer altura'
+description: 'Gestão de carteiras de projectos, gestão de carteiras de produtos ou gestão de carteiras de TI: independentemente da finalidade para a qual está a criar uma carteira e da dimensão da carteira que pretende controlar - neste artigo, aprenderá a gerir a sua carteira com sucesso.'
 date: 2025-03-27
 categories:
     - 'Informações gerais'
 tags:
 color: '#bba9d3'
-url: "/pt/portfoliomanagement"
+url: '/pt/portfoliomanagement'
 ---
 
 ## O que é a gestão de carteiras?
@@ -20,9 +20,9 @@ Uma carteira agrupa uma carteira de objectos que estão relacionados entre si. E
 De seguida, analisamos as áreas mais importantes em que a gestão de portefólios se estabeleceu no mundo dos negócios:
 
 - **Gestão da carteira de projectos**
-- Gestão da carteira de produtos**
-- Gestão de carteiras de TI / software**
-- Gestão de carteiras no sector financeiro**
+- **Gestão da carteira de produtos**
+- **Gestão de carteiras de TI / software**
+- **Gestão de carteiras no sector financeiro**
 
 A gestão de carteiras oferece-lhe inúmeras vantagens em todos os domínios.
 
@@ -37,7 +37,7 @@ A gestão de carteiras oferece-lhe inúmeras vantagens em todos os domínios.
 
 ## Gestão da carteira de projectos
 
-A gestão da carteira de projectos (PPM) é responsável pela **gestão global, planeamento e controlo de todos os projectos** que estão inter-relacionados numa empresa. Acima de tudo, visa garantir que os recursos são distribuídos de forma optimizada e que os projectos são priorizados de forma a melhor apoiarem os objectivos estratégicos da empresa. A gestão da carteira de projectos é, portanto, uma tarefa permanente que se repete ciclicamente e requer a avaliação de muitos projectos. Esta é a maior diferença em relação à [gestão de projectos] normal ({{< relref "pages/industry-solutions/project-management" >}}), que normalmente termina com a conclusão de projectos individuais.
+A gestão da carteira de projectos (PPM) é responsável pela **gestão global, planeamento e controlo de todos os projectos** que estão inter-relacionados numa empresa. Acima de tudo, visa garantir que os recursos são distribuídos de forma optimizada e que os projectos são priorizados de forma a melhor apoiarem os objectivos estratégicos da empresa. A gestão da carteira de projectos é, portanto, uma tarefa permanente que se repete ciclicamente e requer a avaliação de muitos projectos. Esta é a maior diferença em relação à [gestão de projectos] normal ({{< relref "pages/industry-solutions/project-management/" >}}), que normalmente termina com a conclusão de projectos individuais.
 
 **Nota**: Nas grandes empresas e nas autoridades públicas, existe frequentemente um departamento separado para a gestão da carteira de projectos: o **Gabinete de Gestão de Projectos (PMO)**.
 
@@ -119,10 +119,10 @@ Tal como a gestão da carteira de projectos, a gestão da carteira de produtos �
 
 ## Gestão da carteira de TI
 
-A gestão de carteiras de TI** (também conhecida como gestão de activos de TI) oferece a oportunidade de gerir os activos de TI de uma empresa de forma sistemática e com visão de futuro. A carteira de TI pode ser dividida em três categorias de activos:
+A **gestão de carteiras de TI** (também conhecida como gestão de activos de TI) oferece a oportunidade de gerir os activos de TI de uma empresa de forma sistemática e com visão de futuro. A carteira de TI pode ser dividida em três categorias de activos:
 
 1. **Software**: todas as aplicações de software, sistemas operativos e ferramentas utilizadas
-1. hardware e infra-estruturas**: todos os dispositivos, redes, servidores e serviços em nuvem
+1. **hardware e infra-estruturas**: todos os dispositivos, redes, servidores e serviços em nuvem
 1. **Projectos e conhecimentos especializados**: todos os projectos de TI actuais e planeados, bem como os conhecimentos de TI na empresa
 
 A gestão da carteira de TI deve otimizar estes activos para que apoiem da melhor forma os objectivos estratégicos e as operações eficientes da empresa. Antes de mais, deve ser garantida a **escalabilidade, segurança e fiabilidade de todos os sistemas de TI**.
