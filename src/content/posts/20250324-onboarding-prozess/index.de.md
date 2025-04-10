@@ -155,7 +155,7 @@ Setzen Sie auf eine geeignete Software und sorgen Sie dafür, dass sich Ihre neu
 
 Warum ist ein strukturierter Onboarding-Prozess wichtig?|||
 
-## Ein strukturierter Onboarding-Prozess hilft neuen Mitarbeitern, sich schneller in ihre Rolle einzufinden, sich fachlich und sozial zu integrieren und motiviert zu arbeiten. Dies steigert nicht nur die Produktivität, sondern erhöht auch die Mitarbeiterbindung und senkt die Fluktuationsrate.
+Ein strukturierter Onboarding-Prozess hilft neuen Mitarbeitern, sich schneller in ihre Rolle einzufinden, sich fachlich und sozial zu integrieren und motiviert zu arbeiten. Dies steigert nicht nur die Produktivität, sondern erhöht auch die Mitarbeiterbindung und senkt die Fluktuationsrate.
 
 Was sollte in einem guten Onboarding-Konzept enthalten sein?|||
 
