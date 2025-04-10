@@ -18,7 +18,7 @@
 
 <!-- HTML Block -->
 {{ $classes := .classes | default "" }}
-<section class="{{ delimit $classes " " }} padding">
+<section class="{{ delimit $classes " " }} padding" id="{{ .name }}">
     <section class="max-container {{ if eq .image_position "left" }}flex-row-reverse{{ end }} flex w-full items-start justify-between gap-8 max-lg:flex-col">
         <div class="flex basis-1/2 flex-col">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
