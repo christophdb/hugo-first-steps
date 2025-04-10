@@ -32,7 +32,7 @@ Die Entscheidung für SeaTable fiel aufgrund mehrerer Schlüsselfaktoren:
 
 Auch die Implementierung der [On-Premises-Variante]({{< relref "pages/product/seatable-server" >}}) von SeaTable verlief reibungslos, oder in Cristian Livadarus Worten: "SeaTable + Docker = sofortige Liebe". Für den Ein-Mann-Unternehmer ein entscheidendes Kriterium.
 
-![](Cloudvox_n8n-Integration.jpg)
+![Taplet mit Grafik](Cloudvox_n8n-Integration.jpg)
 
 ## Ein unverzichtbarer Allrounder
 
