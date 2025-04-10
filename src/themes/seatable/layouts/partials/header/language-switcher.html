@@ -17,9 +17,7 @@
                         <ul class="flex flex-col gap-4 p-2">
                             {{ range $.Translations }}
                                 <li>
-                                    <a href="{{ .Permalink }}" x-on:click="language = '{{ .Lang }}'; console.log(language)"
-                                        ><img src="/flags/{{ .Lang }}.svg" width="24" height="24"
-                                    /></a>
+                                    <a href="{{ .Permalink }}" x-on:click="language = '{{ .Lang }}'"><img src="/flags/{{ .Lang }}.svg" width="24" height="24" /></a>
                                 </li>
                             {{ end }}
                         </ul>
