@@ -274,9 +274,11 @@ sections:
   - text: "With your own server, you decide where SeaTable stores your data. You have full data sovereignty."
   buttons:
   - label: "Find out more about the different versions"
-    url: "#"
+    link: "pages/product/overview"
+    style: text
   - label: "To the SeaTable On-Premise offer"
-    url: "#"
+    link: "pages/product/seatable-server"
+    style: text
   image: "/img/seatable-security-1.jpg"
 
 - name: "form-contact"

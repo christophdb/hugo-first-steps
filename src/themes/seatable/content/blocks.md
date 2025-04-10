@@ -151,9 +151,11 @@ sections:
     - text: "Bei Ihrem eigenen Server entscheiden Sie, wo SeaTable Ihre Daten speicher. Sie haben die volle Datenhoheit."
     buttons:
     - label: "Erfahren Sie mehr über die verschiedenen Versionen"
-      url: "#"
+      link: "pages/product/overview"
+      style: text
     - label: "Zum SeaTable On-Premise Angebot"
-      url: "#"
+      link: "pages/product/seatable-server"
+      style: text
     image: "/img/seatable-security-1.jpg"
 
 
