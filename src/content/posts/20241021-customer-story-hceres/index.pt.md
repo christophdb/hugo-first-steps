@@ -23,7 +23,7 @@ A Hcéres foi confrontada com o desafio de tornar os seus complexos processos de
 
 ## Situação inicial: A Hcéres e o desafio de uma gestão de dados eficiente
 
-Enquanto autoridade independente, o Hcéres é responsável pela avaliação de todas as instituições francesas de ensino superior e de investigação. Antes da introdução do SeaTable, estes processos eram geridos principalmente através de folhas de cálculo Excel. No entanto, este método era cada vez mais ineficaz e conduzia a lacunas de segurança e a uma base de dados fragmentada. Era altura de encontrar uma [alternativa Excel] (https://seatable.com/pt/excel-alternative/) que simplificasse todo o processo e satisfizesse os requisitos do Hcéres.
+Enquanto autoridade independente, o Hcéres é responsável pela avaliação de todas as instituições francesas de ensino superior e de investigação. Antes da introdução do SeaTable, estes processos eram geridos principalmente através de folhas de cálculo Excel. No entanto, este método era cada vez mais ineficaz e conduzia a lacunas de segurança e a uma base de dados fragmentada. Era altura de encontrar uma [alternativa Excel](https://seatable.com/pt/excel-alternative/) que simplificasse todo o processo e satisfizesse os requisitos do Hcéres.
 
 ## A transição do Excel para o SeaTable: Porque é que o SeaTable foi a escolha certa para a Hcéres
 
@@ -33,7 +33,7 @@ Para ultrapassar os desafios da gestão de dados, o Département du Numérique e
 
 ## Implementação do SeaTable no Hcéres
 
-A implementação do SeaTable começou com uma prova de conceito (POC) num único departamento. Esta fase piloto centrou-se na gestão de convenções e potenciais listas de especialistas. Com base no sucesso deste teste, o SeaTable foi gradualmente alargado a outros departamentos e serviços de avaliação do Hcéres. Atualmente, a agência utiliza a [plataforma sem código] (https://seatable.com/pt/) SeaTable para formar eficazmente comités de avaliação e simplificar o processo de preparação das avaliações.
+A implementação do SeaTable começou com uma prova de conceito (POC) num único departamento. Esta fase piloto centrou-se na gestão de convenções e potenciais listas de especialistas. Com base no sucesso deste teste, o SeaTable foi gradualmente alargado a outros departamentos e serviços de avaliação do Hcéres. Atualmente, a agência utiliza a [plataforma sem código](https://seatable.com/pt/) SeaTable para formar eficazmente comités de avaliação e simplificar o processo de preparação das avaliações.
 
 ![](pexels-edmond-dantes-4342496-1.jpg)
 
