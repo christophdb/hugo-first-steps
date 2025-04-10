@@ -1,7 +1,11 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
   weight: 1
+  classes:
+    - curved
+    - bg-gray-100
   title: 
   subtitle: 
   items:
@@ -14,26 +18,30 @@
     url:
   - label:
     url:
-  image:</code></pre></div>
+  image:</code></pre>
+    </div>
 {{ end }}
 
+
 <!-- HTML Block -->
-<section class="!pt-40 padding bg-gray-100 curved">
-    <section id="2col" class="max-container flex justify-between items-start w-full gap-10 lg:gap-40 max-lg:flex-col">
-        <div class="flex flex-col basis-3/5">
-            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
-            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
-            
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <!--<section class="!pt-40 padding bg-gray-100 curved">-->
+    <section id="2col" class="max-container flex w-full items-start justify-between gap-10 max-lg:flex-col lg:gap-40">
+        <div class="flex basis-3/5 flex-col">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold [.dark_&]:text-white">{{ .title }}</h2>
+
             {{ range .items }}
-            <p class="mt-8 text-xl leading-normal">{{ .text }}</p>
+                <p class="mt-8 text-xl leading-normal [.dark_&]:text-white">{{ .text | markdownify }}</p>
             {{ end }}
 
             {{ range .buttons }}
-            <a href="{{ .url }}" class="mt-8">{{ .label }} {{ partial "icon.html" "arrow-right" }}</a>
+                <a href="{{ .url }}" class="mt-8">{{ .label }} {{ partial "icon.html" "arrow-right" }}</a>
             {{ end }}
         </div>
         <div class="basis-2/5 justify-center">
-            <img src="{{ .image }}" class="p-1 border bg-white rounded-lg shadow-2xl" alt="placeholder" />
+            <img src="{{ .image }}" class="rounded-lg border bg-white p-1 shadow-2xl" alt="placeholder" />
         </div>
     </section>
 </section>

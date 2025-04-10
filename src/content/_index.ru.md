@@ -260,6 +260,9 @@ sections:
 
 - name: content-6
   weight: 15
+  classes:
+  - curved
+  - bg-gray-100
   title: "A solution you can trust"
   subtitle: "Data security and data protection"
   items:
