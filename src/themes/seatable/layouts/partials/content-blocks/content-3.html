@@ -52,13 +52,14 @@
         {{ with .button }}
             {{ $link := page.GetPage .link }}
             {{ if $link }}
-            <div class="mt-14 text-center">
-                {{ if eq .style "primary" | default "" }}
-                    <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ $link.RelPermalink }}">{{ .label }}</a>
-                {{ else }}
-                    <a href="{{ .link }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-xl font-bold text-gray-800">{{ .label }}</a>
-                {{ end }}
-            </div>
+                <div class="mt-14 text-center">
+                    {{ if eq .style "primary" | default "" }}
+                        <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ $link.RelPermalink }}">{{ .label }}</a>
+                    {{ else }}
+                        <a href="{{ .link }}" class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-xl font-bold text-gray-800">{{ .label }}</a>
+                    {{ end }}
+                </div>
+            {{ end }}
         {{ end }}
 
     </section>
