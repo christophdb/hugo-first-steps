@@ -2,11 +2,11 @@
 title: "Gestion de portefeuille : comment garder en permanence une vue d'ensemble de votre portefeuille"
 description: "Gestion de portefeuille de projets, gestion de portefeuille de produits ou gestion de portefeuille informatique : quelle que soit la raison pour laquelle vous créez un portefeuille et quelle que soit la taille du portefeuille que vous souhaitez garder à l'œil, vous trouverez dans cet article comment réussir votre gestion de portefeuille."
 date: 2025-03-27
-categories: 
-  - "Général"
-tags: 
-color: "#bba9d3"
-url: "/fr/portfoliomanagement"
+categories:
+    - 'Général'
+tags:
+color: '#bba9d3'
+url: '/fr/portfoliomanagement'
 ---
 
 ## Qu'est-ce que la gestion de portefeuille ?
@@ -37,8 +37,8 @@ Dans ce contexte, la gestion de portefeuille vous offre de nombreux avantages da
 
 ## Gestion de portefeuille de projets
 
-La gestion de portefeuille de projets (PPM) prend en charge la **gestion, la planification et le pilotage de tous les projets** qui sont liés entre eux au sein d'une entreprise. Elle doit avant tout permettre de répartir les ressources de manière optimale et de prioriser les projets de façon à ce qu'ils soutiennent au mieux les objectifs stratégiques de l'entreprise. La gestion de portefeuille de projets est donc une tâche permanente, qui se répète de manière cyclique et qui nécessite l'évaluation de nombreux projets. C'est la principale différence avec la [gestion de projet] normale (https://seatable.com/projektmanagement-tools/), qui se termine généralement par l'achèvement de projets individuels.  
-  
+La gestion de portefeuille de projets (PPM) prend en charge la **gestion, la planification et le pilotage de tous les projets** qui sont liés entre eux au sein d'une entreprise. Elle doit avant tout permettre de répartir les ressources de manière optimale et de prioriser les projets de façon à ce qu'ils soutiennent au mieux les objectifs stratégiques de l'entreprise. La gestion de portefeuille de projets est donc une tâche permanente, qui se répète de manière cyclique et qui nécessite l'évaluation de nombreux projets. C'est la principale différence avec la [gestion de projet] normale (https://seatable.com/projektmanagement-tools/), qui se termine généralement par l'achèvement de projets individuels.
+
 **Remarque** : Dans les grandes entreprises et les administrations, il existe souvent un service spécifique pour la gestion du portefeuille de projets : le **Project Management Office (PMO)**.
 
 ### Tâches et étapes importantes de la gestion de portefeuille de projets
@@ -56,7 +56,7 @@ Grâce à la gestion de portefeuille, il est facile de comparer, d'analyser et d
 A l'aide d'un **modèle de scoring**, vous pouvez également procéder à une évaluation stratégique des projets sur la base de critères pondérés. Cela pourrait se présenter comme suit :
 
 ![Modèle de scoring stratégique pour la gestion de portefeuille](Strategic-Scoring-Model.jpg "Multipliez la priorité de l'objectif par le facteur qui détermine dans quelle mesure le projet contribue, selon vous, à l'objectif. En additionnant les résultats de tous les objectifs, vous obtenez le Strategic Score du projet. Vous rendez ainsi comparable l'importance de différents projets pour votre entreprise").
-  
+
 En outre, vous pouvez combiner des méthodes d'analyse monétaires et non monétaires, par exemple dans un **balanced scorecard**, afin de déterminer quels projets sont à la fois rentables financièrement et contribuent stratégiquement à la réalisation des objectifs de l'entreprise. L'analyse coûts-bénéfices est tout aussi populaire dans ce contexte.
 
 #### 3\. Allocation des ressources et priorisation des projets
@@ -69,7 +69,7 @@ L'une de vos tâches principales en tant que gestionnaire de portefeuille consis
 
 #### 5\. Suivi des projets
 
-Le portefeuille de projets ne dort pas. C'est pourquoi vous devez vous aussi garder un œil attentif pour vous assurer que les projets restent en phase avec les objectifs de l'entreprise. Informez-vous régulièrement sur l'état d'avancement, les coûts et le calendrier des projets**, afin de détecter rapidement les écarts et de procéder à des ajustements si nécessaire. Des solutions logicielles spécifiques peuvent être utilisées à cet effet pour faciliter le suivi et l'établissement de rapports.
+Le portefeuille de projets ne dort pas. C'est pourquoi vous devez vous aussi garder un œil attentif pour vous assurer que les projets restent en phase avec les objectifs de l'entreprise. Informez-vous régulièrement sur l'état d'avancement, les coûts et le calendrier des projets\*\*, afin de détecter rapidement les écarts et de procéder à des ajustements si nécessaire. Des solutions logicielles spécifiques peuvent être utilisées à cet effet pour faciliter le suivi et l'établissement de rapports.
 
 Les logiciels de gestion de portefeuille habituels tels que Microsoft Project, Asana ou Jira peuvent toutefois vite coûter cher. Testez l'alternative **gratuite** de SeaTable :
 
@@ -165,4 +165,4 @@ Pour plus d'informations, consultez soit l'article [Gestion immobilière](https:
 
 Qu'il s'agisse de la gestion de portefeuille de projets, de produits, de technologies de l'information ou de finances, elles ont toutes pour objectif de gérer un **portefeuille de manière rentable**. Mais selon la taille de votre portefeuille, ce n'est pas si facile. Les modèles gratuits et faciles à utiliser de SeaTable vous permettent de garder une vue d'ensemble stratégique et de disposer de toutes les données dont vous avez besoin pour effectuer des analyses et prendre des décisions en connaissance de cause.
 
-Vous souhaitez utiliser SeaTable comme outil de gestion de portefeuille ? Alors [inscrivez-vous dès aujourd'hui](https://seatable.com/de/registrierung/) gratuitement avec votre adresse e-mail.
+Vous souhaitez utiliser SeaTable comme outil de gestion de portefeuille ? Alors [inscrivez-vous dès aujourd'hui]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail.

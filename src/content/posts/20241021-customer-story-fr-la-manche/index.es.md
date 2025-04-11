@@ -1,20 +1,20 @@
 ---
-title: "Modernizar los procesos públicos - Los objetivos del Conseil Départemental de la Manche"
-description: "El Conseil Départemental de la Manche se ha fijado como objetivo optimizar la gestión y modernizar los procesos de datos de su autoridad. Para responder a las crecientes exigencias, la Dirección de Sistemas de Información y Modernización (DSIM) ha trabajado en la búsqueda de soluciones más eficaces para la gestión de datos. Las hojas de cálculo Excel eran hasta entonces una herramienta central, pero las crecientes restricciones a la centralización y la gestión de los derechos de acceso hicieron necesaria una nueva solución."
+title: 'Modernizar los procesos públicos - Los objetivos del Conseil Départemental de la Manche'
+description: 'El Conseil Départemental de la Manche se ha fijado como objetivo optimizar la gestión y modernizar los procesos de datos de su autoridad. Para responder a las crecientes exigencias, la Dirección de Sistemas de Información y Modernización (DSIM) ha trabajado en la búsqueda de soluciones más eficaces para la gestión de datos. Las hojas de cálculo Excel eran hasta entonces una herramienta central, pero las crecientes restricciones a la centralización y la gestión de los derechos de acceso hicieron necesaria una nueva solución.'
 date: 2024-10-21
-categories: 
-  - "Historia de un cliente"
-tags: 
-  - "visualización de la gestión de datos"
-  - transformación digital
-  - "administración pública"
-color: "#bb9de1"
-url: "/es/customer-story-fr-la-manche/"
+categories:
+    - 'Historia de un cliente'
+tags:
+    - 'visualización de la gestión de datos'
+    - transformación digital
+    - 'administración pública'
+color: '#bb9de1'
+url: '/es/customer-story-fr-la-manche/'
 ---
 
 ## Desafíos en la gestión de datos sensibles
 
-DSIM se enfrentaba al reto de gestionar los datos sensibles de forma segura y accesible. Era crucial encontrar una herramienta que no sólo ofreciera seguridad y flexibilidad, sino que también fuera fácil de usar. La [gestión digital](https://seatable.com/es/digitale-verwaltung/) de la información sensible tenía que estar centralizada y cumplir la legislación sin perturbar los flujos de trabajo de los equipos.
+DSIM se enfrentaba al reto de gestionar los datos sensibles de forma segura y accesible. Era crucial encontrar una herramienta que no sólo ofreciera seguridad y flexibilidad, sino que también fuera fácil de usar. La [gestión digital]({{< relref "pages/industry-solutions/public-service" >}}) de la información sensible tenía que estar centralizada y cumplir la legislación sin perturbar los flujos de trabajo de los equipos.
 
 ## El camino hacia la solución óptima - Por qué el Conseil Départemental eligió SeaTable
 

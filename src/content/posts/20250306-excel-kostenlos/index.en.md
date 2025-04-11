@@ -187,7 +187,7 @@ You can also create your own apps with SeaTable without any programming knowledg
 
 As a flexible all-purpose weapon, SeaTable also makes no compromises when it comes to **operating mode**. SeaTable can be conveniently used in the [cloud]({{< relref "pages/product/seatable-cloud" >}}) or as a [self-hosted solution]({{< relref "pages/product/seatable-server" >}}). Unlike the other web-based Excel competitors, SeaTable is also available as software for your own server. In this way, SeaTable is ideal for all those who are confronted with strict data protection requirements.
 
-The [Free Subscription](https://seatable.com/preise/) is permanently free and sufficient for private use. The paid versions Plus and Enterprise offer extended functions for corporate use, such as user-defined approvals, automations and customizing. The [Dedicated Cloud]({{< relref "pages/product/seatable-dedicated" >}}) also has central user authentication and object storage support.
+The [Free Subscription]({{< relref "pages/prices" >}}) is permanently free and sufficient for private use. The paid versions Plus and Enterprise offer extended functions for corporate use, such as user-defined approvals, automations and customizing. The [Dedicated Cloud]({{< relref "pages/product/seatable-dedicated" >}}) also has central user authentication and object storage support.
 
 SeaTable follows a similar path to Google Sheets - pleasantly conventional for developers - when it comes to extensions. Extensions such as automations, integrations and functional additions can be developed with manageable effort via API and SDK. Given the young age of the solution, it will be exciting to see what new features will be added in the future.
 

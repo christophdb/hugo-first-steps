@@ -51,7 +51,7 @@ Se está a planear alterações estruturais na sua propriedade, o direito de con
 
 ### Proteção de dados
 
-Uma área importante da gestão de propriedades que muitas vezes não é imediatamente óbvia é a proteção de dados. Particularmente no [sector público](https://seatable.com/digitale-verwaltung/) ou em unidades administrativas maiores, deve gerir os dados dos inquilinos e dos proprietários em conformidade com o RGPD. Isto significa que só pode recolher e armazenar de forma segura dados pessoais com o seu consentimento. A proteção eficaz contra o acesso não autorizado a estes dados é essencial para evitar consequências legais e perda de confiança.
+Uma área importante da gestão de propriedades que muitas vezes não é imediatamente óbvia é a proteção de dados. Particularmente no [sector público]({{< relref "pages/industry-solutions/public-service" >}}) ou em unidades administrativas maiores, deve gerir os dados dos inquilinos e dos proprietários em conformidade com o RGPD. Isto significa que só pode recolher e armazenar de forma segura dados pessoais com o seu consentimento. A proteção eficaz contra o acesso não autorizado a estes dados é essencial para evitar consequências legais e perda de confiança.
 
 ## Quando pode subcontratar a gestão de propriedades a entidades externas
 
@@ -63,9 +63,9 @@ A subcontratação também oferece muitas vezes o **benefício de uma gestão de
 
 ## Gestão do património e serviço público
 
-A gestão de propriedades no sector público representa um desafio particular, trazendo consigo tanto responsabilidade como enormes oportunidades. As organizações públicas gerem frequentemente uma vasta gama de locais e propriedades - desde edifícios históricos a praças de mercado e parques infantis, passando por modernos complexos administrativos. Esta diversidade exige uma gestão bem pensada e eficiente que vai muito para além da mera manutenção.   
+A gestão de propriedades no sector público representa um desafio particular, trazendo consigo tanto responsabilidade como enormes oportunidades. As organizações públicas gerem frequentemente uma vasta gama de locais e propriedades - desde edifícios históricos a praças de mercado e parques infantis, passando por modernos complexos administrativos. Esta diversidade exige uma gestão bem pensada e eficiente que vai muito para além da mera manutenção.
 
-A responsabilidade cabe geralmente aos serviços imobiliários das autarquias locais. Estes serviços são responsáveis pela compra, venda e arrendamento dos imóveis municipais. São responsáveis pela gestão e manutenção de imóveis que são importantes tanto para fins públicos como para os cidadãos.  A gestão do património imobiliário no sector público é confrontada com a tarefa de combinar a eficiência económica com o bem comum.
+A responsabilidade cabe geralmente aos serviços imobiliários das autarquias locais. Estes serviços são responsáveis pela compra, venda e arrendamento dos imóveis municipais. São responsáveis pela gestão e manutenção de imóveis que são importantes tanto para fins públicos como para os cidadãos. A gestão do património imobiliário no sector público é confrontada com a tarefa de combinar a eficiência económica com o bem comum.
 
 Ao contrário dos gestores de propriedades privadas, estes devem **não só trabalhar de forma rentável**, mas **também ter em conta os interesses sociais**. Os processos de decisão, como a venda ou a transformação de imóveis, são muitas vezes morosos, pois estão sujeitos a procedimentos de aprovação política. A isto acresce a obrigação de transparência, uma vez que todas as decisões de interesse público devem ser compreensíveis. Estes factores tornam a gestão mais difícil e significativamente mais complexa do que no sector privado.
 
@@ -88,7 +88,7 @@ As tarefas de um gestor imobiliário são variadas e requerem conhecimentos téc
 
 A gestão de propriedades pode ser uma tarefa complexa e morosa - especialmente se gerir várias propriedades ao mesmo tempo. Com o SeaTable, pode organizar as suas **propriedades de forma digital e eficiente**, mantendo sempre uma visão geral. Graças à estrutura flexível da [plataforma sem código](https://seatable.com/), pode mapear os seus processos individuais exatamente como desejar. Além disso, **todos os dados relevantes podem ser armazenados e geridos de forma segura e centralizada num único local**.
 
-Uma das maiores vantagens do SeaTable é a capacidade de atribuir **direitos de acesso individuais**. Isto significa que pode definir quem pode ver que dados para cada propriedade. Especialmente se gerir várias propriedades, é essencial que os dados de cada propriedade sejam mantidos separados - no SeaTable, pode organizar todas as propriedades numa única base de dados sem código, sem que ninguém tenha acesso não autorizado a outros projectos. Isto garante a proteção de dados e cumpre os requisitos do RGPD.   
+Uma das maiores vantagens do SeaTable é a capacidade de atribuir **direitos de acesso individuais**. Isto significa que pode definir quem pode ver que dados para cada propriedade. Especialmente se gerir várias propriedades, é essencial que os dados de cada propriedade sejam mantidos separados - no SeaTable, pode organizar todas as propriedades numa única base de dados sem código, sem que ninguém tenha acesso não autorizado a outros projectos. Isto garante a proteção de dados e cumpre os requisitos do RGPD.
 
 O SeaTable também lhe dá a flexibilidade de armazenar os seus dados na [Cloud]({{< relref "pages/product/seatable-cloud" >}}) ou [On-Premises]({{< relref "pages/product/seatable-server" >}}). Isto permite-lhe decidir qual a solução que melhor se adequa às suas necessidades, quer prefira a comodidade de uma solução baseada na nuvem ou prefira alojar os seus dados nos seus próprios servidores.
 

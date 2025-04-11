@@ -1,20 +1,20 @@
 ---
-title: "Modernization of public processes - The objectives of the Conseil Départemental de la Manche"
+title: 'Modernization of public processes - The objectives of the Conseil Départemental de la Manche'
 description: "The Conseil Départemental de la Manche has set itself the goal of optimizing the management and modernization of its authority's data processes. To meet the growing demands, the Directorate of Information Systems and Modernization (DSIM) worked to find more efficient solutions for data management. Excel spreadsheets were previously a central tool, but the increasing restrictions on centralization and the management of access rights made a new solution necessary."
 date: 2024-10-21
-categories: 
-  - "Customer Story"
-tags: 
-  - "datenmanagement-visualisierung"
-  - "digitale-transformation"
-  - "oeffentliche-verwaltung"
-color: "#bb9de1"
-url: "/customer-story-fr-la-manche/"
+categories:
+    - 'Customer Story'
+tags:
+    - 'datenmanagement-visualisierung'
+    - 'digitale-transformation'
+    - 'oeffentliche-verwaltung'
+color: '#bb9de1'
+url: '/customer-story-fr-la-manche/'
 ---
 
 ## Challenges in the management of sensitive data
 
-DSIM was faced with the challenge of managing sensitive data securely and accessibly at the same time. It was crucial to find a tool that not only offered security and flexibility, but was also easy to use. The [digital management](https://seatable.com/digitale-verwaltung/) of sensitive information had to be centralized and legally compliant without disrupting the teams' workflows.
+DSIM was faced with the challenge of managing sensitive data securely and accessibly at the same time. It was crucial to find a tool that not only offered security and flexibility, but was also easy to use. The [digital management]({{< relref "pages/industry-solutions/public-service" >}}) of sensitive information had to be centralized and legally compliant without disrupting the teams' workflows.
 
 ## The path to the optimal solution - Why the Conseil Départemental chose SeaTable
 

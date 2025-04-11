@@ -28,10 +28,10 @@ A gestão de carteiras oferece-lhe inúmeras vantagens em todos os domínios.
 
 ### Que vantagens tem a gestão de carteiras para si
 
-- Transparência**: Quer se trate de projectos, produtos, TI ou finanças: com um portfólio, pode acompanhar o estado atual e criar clareza sobre o que está a acontecer na sua empresa. Isto evita que vários funcionários trabalhem nos mesmos tópicos em paralelo e sem coordenação.
-- Consistência estratégica**: Porque é que estamos realmente a fazer isto? A gestão de portfólio verifica se algo está de acordo com a estratégia da empresa e contribui para os objectivos gerais. Isto garante que todas as actividades da sua empresa são coordenadas e coerentes em geral.
-- Eficiência dos recursos**: Uma vez que os recursos como o orçamento, o pessoal e o tempo são limitados, deve utilizá-los de forma eficiente. A gestão de carteiras ajuda-o a dar prioridade às questões da sua empresa de acordo com a sua importância estratégica, a fim de obter os melhores resultados possíveis.
-- Acompanhamento e controlo**: Os indicadores-chave de desempenho, os calendários e os planos de custos fluem em conjunto numa carteira, para que tenha todos os desenvolvimentos no ecrã, possa reconhecer imediatamente os desvios e reagir rapidamente às mudanças.
+- Transparência\*\*: Quer se trate de projectos, produtos, TI ou finanças: com um portfólio, pode acompanhar o estado atual e criar clareza sobre o que está a acontecer na sua empresa. Isto evita que vários funcionários trabalhem nos mesmos tópicos em paralelo e sem coordenação.
+- Consistência estratégica\*\*: Porque é que estamos realmente a fazer isto? A gestão de portfólio verifica se algo está de acordo com a estratégia da empresa e contribui para os objectivos gerais. Isto garante que todas as actividades da sua empresa são coordenadas e coerentes em geral.
+- Eficiência dos recursos\*\*: Uma vez que os recursos como o orçamento, o pessoal e o tempo são limitados, deve utilizá-los de forma eficiente. A gestão de carteiras ajuda-o a dar prioridade às questões da sua empresa de acordo com a sua importância estratégica, a fim de obter os melhores resultados possíveis.
+- Acompanhamento e controlo\*\*: Os indicadores-chave de desempenho, os calendários e os planos de custos fluem em conjunto numa carteira, para que tenha todos os desenvolvimentos no ecrã, possa reconhecer imediatamente os desvios e reagir rapidamente às mudanças.
 
 ![Monitorização na gestão de portefólio](Portfoliomanagement.jpg)
 
@@ -153,7 +153,7 @@ Nas carteiras geridas ativamente, o objetivo é superar a taxa de rendimento do 
 
 ### Gestão da carteira de imóveis
 
-Quer seja um proprietário privado, uma empresa ou uma associação municipal de habitação: se possui um grande número de edifícios e propriedades, não é fácil controlar todas as propriedades, rendas e medidas de renovação**. Para facilitar ao máximo a gestão da sua carteira de imóveis, pode utilizar o modelo gratuito do SeaTable.
+Quer seja um proprietário privado, uma empresa ou uma associação municipal de habitação: se possui um grande número de edifícios e propriedades, não é fácil controlar todas as propriedades, rendas e medidas de renovação\*\*. Para facilitar ao máximo a gestão da sua carteira de imóveis, pode utilizar o modelo gratuito do SeaTable.
 
 {{< template id="6f9a2b4869804608978c" >}}
 
@@ -165,4 +165,4 @@ Mais informações podem ser encontradas no artigo [Gestão de propriedades](htt
 
 Quer se trate de gestão de projectos, de produtos, de TI ou de carteiras financeiras - todos têm como objetivo gerir uma **carteira de forma rentável**. No entanto, dependendo da dimensão da sua carteira, isto não é assim tão fácil. Com os modelos gratuitos e de fácil utilização do SeaTable, tem sempre ao seu alcance uma visão estratégica e todos os dados necessários para análises e decisões bem fundamentadas.
 
-Gostaria de utilizar o SeaTable como uma ferramenta de gestão de carteiras? Então [registe-se hoje] (https://seatable.com/de/registrierung/) gratuitamente com o seu endereço de e-mail.
+Gostaria de utilizar o SeaTable como uma ferramenta de gestão de carteiras? Então [registe-se hoje] ({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de e-mail.

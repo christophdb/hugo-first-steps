@@ -1,23 +1,23 @@
 ---
-title: "How to make your data usable with a data warehouse"
-description: "Data warehouse, database, data lake: these terms can be confusing - after all, they all refer to a system that stores data. The following article sheds light on the subject and explains the advantages of a data warehouse and how data warehousing works."
+title: 'How to make your data usable with a data warehouse'
+description: 'Data warehouse, database, data lake: these terms can be confusing - after all, they all refer to a system that stores data. The following article sheds light on the subject and explains the advantages of a data warehouse and how data warehousing works.'
 date: 2025-03-26
-categories: 
-  - "General"
+categories:
+    - 'General'
 tags:
-url: "/data-warehouse"
-color: "#34ba9d"
+url: '/data-warehouse'
+color: '#34ba9d'
 ---
 
 ## What is a data warehouse?
 
-A data warehouse (also abbreviated to DWH) is a **central storage system** that brings together large amounts of data from different sources, structures it and prepares it **for analysis**. By storing and visualizing the **history** of the data, you can identify patterns, trends and correlations over time. This is why business intelligence also plays an important role in data warehouses.  
-  
+A data warehouse (also abbreviated to DWH) is a **central storage system** that brings together large amounts of data from different sources, structures it and prepares it **for analysis**. By storing and visualizing the **history** of the data, you can identify patterns, trends and correlations over time. This is why business intelligence also plays an important role in data warehouses.
+
 The analysis functions enable you to derive valuable insights into various business areas from your data in order to improve **decision-making**. If you incorporate all of your company's data into your data warehouse, it can even be described as a **single source of truth** - i.e. a complete and reliable database.
 
 ## The advantages of a data warehouse
 
-- Make decisions easier**: With the help of a solid database, you can make informed decisions.
+- Make decisions easier\*\*: With the help of a solid database, you can make informed decisions.
 - **Improve data quality**: A data warehouse cleanses, consolidates and standardizes large amounts of data to make it usable.
 - **Visualize correlations**: In a data warehouse system, you can create analyses, reports and presentations in no time at all.
 - **Recognize developments**: In the data warehouse, you collect long-term historical progress data from which you can derive patterns, trends and forecasts.
@@ -83,10 +83,10 @@ Let's assume you run an **online shop** and want to analyze sales, access figure
 
 Data warehouse and database are two different [data management systems](https://seatable.com/datenmanagement/). While a database usually focuses on the **storage of data**, the data warehousing system maps a longer process from data acquisition through data integration and preparation to data analysis. Nevertheless, data warehouses also store huge amounts of data in a central database, which is the heart of every DWH solution. In turn, a data warehouse serves as the **basis for analyses and reporting** throughout the company.
 
-| | **Data Warehouse** | **Database** |
-| --- | --- | --- |
-| **Purpose / Focus** | Analyses & Reports | Data Storage |
-| **Reach** | usually company-wide | variable |
+|                     | **Data Warehouse**   | **Database** |
+| ------------------- | -------------------- | ------------ |
+| **Purpose / Focus** | Analyses & Reports   | Data Storage |
+| **Reach**           | usually company-wide | variable     |
 
 ## What is the difference between a data warehouse and a data lake?
 
@@ -109,14 +109,14 @@ A data warehouse in the cloud has the following advantages, among others:
 
 Below is an overview of the differences between cloud and on-premises.
 
-| | **Cloud** | **On-Premises** |
-| --- | --- | --- |
-| **Delivery** | Setup possible anywhere in the world in a short time | On-site hardware setup can take several weeks |
-| **Costs** | Pay-as-you-go principle, no additional costs for infrastructure and personnel | High acquisition and operating costs for infrastructure and personnel |
-| **Scalability** | flexible, automatic scaling without limits | manual capacity planning with clear limits |
-| **security** | high encryption, automatic backups | full control and data sovereignty, security dependent on your IT processes |
-| **Real-time updating** | very fast thanks to in-memory technology | often batch-based with delays |
-| **Operability** | often user-friendly thanks to prefabricated elements, no IT dependency | often complex, IT experts have to connect the data sources and administer the DWH |
+|                        | **Cloud**                                                                     | **On-Premises**                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Delivery**           | Setup possible anywhere in the world in a short time                          | On-site hardware setup can take several weeks                                     |
+| **Costs**              | Pay-as-you-go principle, no additional costs for infrastructure and personnel | High acquisition and operating costs for infrastructure and personnel             |
+| **Scalability**        | flexible, automatic scaling without limits                                    | manual capacity planning with clear limits                                        |
+| **security**           | high encryption, automatic backups                                            | full control and data sovereignty, security dependent on your IT processes        |
+| **Real-time updating** | very fast thanks to in-memory technology                                      | often batch-based with delays                                                     |
+| **Operability**        | often user-friendly thanks to prefabricated elements, no IT dependency        | often complex, IT experts have to connect the data sources and administer the DWH |
 
 ## SeaTable - the flexible, simple and cost-effective data warehouse
 
@@ -124,7 +124,7 @@ SeaTable is a [no-code platform](https://seatable.com/) that offers the advantag
 
 Data from countless sources can flow into SeaTable via **integrations with Zapier, Make or n8n** and the **SeaTable API**. To enable SeaTable to store all data in a structured form, select the desired [data types](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) in advance. Thanks to the **user-friendly modular principle**, this is just as easy as using the **integrated App Builder** [to create your own apps](https://seatable.com/app-erstellen/). SeaTable also enables **team collaboration** and updates data in real time - changes are immediately visible to all users and fully documented in the version history.
 
-What's more, you can choose whether you want to operate your data warehouse [on-premises](https://seatable.com/on-premises/) or in the [cloud](https://seatable.com/cloud/). Benefit from the scalability and convenience of the **SeaTable Cloud** or host **SeaTable Server** on your own servers with full control and data sovereignty. Start with the free basic version, which you can upgrade to a [Plus or Enterprise subscription](https://seatable.com/preise/) at any time as soon as you need more functions or storage space.
+What's more, you can choose whether you want to operate your data warehouse [on-premises](https://seatable.com/on-premises/) or in the [cloud]({{< relref "pages/product/seatable-cloud" >}}). Benefit from the scalability and convenience of the **SeaTable Cloud** or host **SeaTable Server** on your own servers with full control and data sovereignty. Start with the free basic version, which you can upgrade to a [Plus or Enterprise subscription]({{< relref "pages/prices" >}}) at any time as soon as you need more functions or storage space.
 
 [Register for free](https://seatable.com/registrierung/) and experience how easy data warehousing can be.
 
@@ -134,13 +134,19 @@ What's more, you can choose whether you want to operate your data warehouse [on-
 
 What is a data warehouse?|||
 A widely recognized data warehouse definition is that a DWH combines diverse data from different sources into a uniform database in order to enable well-founded analyses. To do this, it prepares the data and stores it in a structured database.
+
 ---
+
 What is a data lake?|||
 Like a data warehouse, a data lake is a special storage system. In contrast to a data warehouse, however, a data lake stores unprocessed raw data. Processing is downstream and only begins when you need the data for analysis.
+
 ---
+
 What is a data mart?|||
 A data mart is a part of the data warehouse that is intended for a specific use case or business area. It provides a defined user group with exactly the data that is relevant to them. The data warehouse, on the other hand, stores the data of an entire company.
+
 ---
+
 What does ETL mean?|||
 ETL is the abbreviation for Extract, Transform, Load. This describes the three process steps in which data is collected from different sources, transformed and stored in the data warehouse.
 

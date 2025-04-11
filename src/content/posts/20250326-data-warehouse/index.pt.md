@@ -83,10 +83,10 @@ Vamos supor que gere uma **loja online** e pretende analisar as vendas, o tráfe
 
 Data warehouse e base de dados são dois [sistemas de gestão de dados] diferentes (https://seatable.com/datenmanagement/). Enquanto uma base de dados se centra normalmente no **armazenamento de dados**, o sistema de armazenamento de dados mapeia um processo mais longo, desde a aquisição de dados, passando pela integração e preparação dos dados, até à análise dos mesmos. No entanto, os armazéns de dados também armazenam grandes quantidades de dados numa base de dados central, que é o coração de todas as soluções de DWH. Por sua vez, um armazém de dados serve de **base para análises e relatórios** em toda a empresa.
 
-| **Data Warehouse** | **Base de dados** | |
-| ----------------- | ----------------------------- | ---------------- |
-| **Finalidade / Foco** | Análises e Relatórios | Armazenamento de Dados
-| **Alcance** | normalmente em toda a empresa | variável |
+| **Data Warehouse**    | **Base de dados**             |                        |
+| --------------------- | ----------------------------- | ---------------------- |
+| **Finalidade / Foco** | Análises e Relatórios         | Armazenamento de Dados |
+| **Alcance**           | normalmente em toda a empresa | variável               |
 
 ## Qual é a diferença entre um data warehouse e um data lake?
 
@@ -109,14 +109,14 @@ Um data warehouse na nuvem tem as seguintes vantagens, entre outras:
 
 Segue-se uma visão geral das diferenças entre a nuvem e o local.
 
-|                             | **Nuvem**                                                                       | **No local**                                                                      |
-| --------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **Disposições**          | Instalação possível em qualquer parte do mundo num curto espaço de tempo                               | A instalação do hardware no local pode demorar várias semanas |
-| **Custos**                  | Princípio da repartição, sem custos adicionais para as infra-estruturas e o pessoal | elevados custos de aquisição e de funcionamento das infra-estruturas e do pessoal | elevados custos de funcionamento das infra-estruturas e do pessoal
-| **Escalabilidade**          | Escalonamento flexível e automático sem limites | Planeamento manual da capacidade com limites claros              |
-| **Segurança**              | Elevada encriptação, cópias de segurança automáticas | controlo total e soberania dos dados, segurança dependente dos seus processos de TI          |
-| **Atualização em tempo real** | Muito rápido graças à tecnologia in-memory| Frequentemente baseado em lotes com atrasos                                                  |
-| **Usabilidade**           | Muitas vezes de fácil utilização graças a elementos pré-fabricados, sem dependência de TI        | frequentemente complexos, os peritos em TI têm de ligar as fontes de dados e administrar o DWH |
+|                               | **Nuvem**                                                                                 | **No local**                                                                                   |
+| ----------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Disposições**               | Instalação possível em qualquer parte do mundo num curto espaço de tempo                  | A instalação do hardware no local pode demorar várias semanas                                  |
+| **Custos**                    | Princípio da repartição, sem custos adicionais para as infra-estruturas e o pessoal       | elevados custos de aquisição e de funcionamento das infra-estruturas e do pessoal              | elevados custos de funcionamento das infra-estruturas e do pessoal |
+| **Escalabilidade**            | Escalonamento flexível e automático sem limites                                           | Planeamento manual da capacidade com limites claros                                            |
+| **Segurança**                 | Elevada encriptação, cópias de segurança automáticas                                      | controlo total e soberania dos dados, segurança dependente dos seus processos de TI            |
+| **Atualização em tempo real** | Muito rápido graças à tecnologia in-memory                                                | Frequentemente baseado em lotes com atrasos                                                    |
+| **Usabilidade**               | Muitas vezes de fácil utilização graças a elementos pré-fabricados, sem dependência de TI | frequentemente complexos, os peritos em TI têm de ligar as fontes de dados e administrar o DWH |
 
 ## SeaTable - o armazém de dados flexível, simples e económico
 
@@ -124,7 +124,7 @@ O SeaTable é uma [plataforma sem código] (https://seatable.com/) que oferece a
 
 Os dados de inúmeras fontes podem fluir para o SeaTable através de **integrações com Zapier, Make ou n8n** e da **API do SeaTable**. Para permitir que o SeaTable guarde todos os dados de forma estruturada, selecione previamente os [tipos de dados] desejados (https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). Graças ao **princípio modular de fácil utilização**, isto é tão fácil como utilizar o **Construtor de aplicações integrado** [para criar as suas próprias aplicações](https://seatable.com/app-erstellen/). O SeaTable também permite a **colaboração em equipa** e actualiza os dados em tempo real - as alterações são imediatamente visíveis para todos os utilizadores e totalmente documentadas no histórico de versões.
 
-Além disso, pode escolher se pretende operar o seu armazém de dados [on-premises]({{< relref "pages/product/seatable-server" >}}) ou na [cloud]({{< relref "pages/product/seatable-cloud" >}}). Beneficie da escalabilidade e da comodidade do **SeaTable Cloud** ou aloje o **SeaTable Server** nos seus próprios servidores com total controlo e soberania dos dados. Comece com a versão básica gratuita, que pode atualizar para uma subscrição [Plus ou Enterprise](https://seatable.com/preise/) em qualquer altura, assim que necessitar de mais funções ou espaço de armazenamento.
+Além disso, pode escolher se pretende operar o seu armazém de dados [on-premises]({{< relref "pages/product/seatable-server" >}}) ou na [cloud]({{< relref "pages/product/seatable-cloud" >}}). Beneficie da escalabilidade e da comodidade do **SeaTable Cloud** ou aloje o **SeaTable Server** nos seus próprios servidores com total controlo e soberania dos dados. Comece com a versão básica gratuita, que pode atualizar para uma subscrição [Plus ou Enterprise]({{< relref "pages/prices" >}}) em qualquer altura, assim que necessitar de mais funções ou espaço de armazenamento.
 
 [Registe-se gratuitamente](https://seatable.com/registrierung/) e experimente como o armazenamento de dados pode ser fácil.
 

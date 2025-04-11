@@ -1,6 +1,6 @@
 ---
-title: "Cómo utilizar sus datos con un almacén de datos"
-description: "Almacén de datos, base de datos, lago de datos: estos términos pueden resultar confusos; al fin y al cabo, todos hacen referencia a un sistema que almacena datos. El siguiente artículo arroja luz sobre el tema y explica las ventajas de un almacén de datos y cómo funciona."
+title: 'Cómo utilizar sus datos con un almacén de datos'
+description: 'Almacén de datos, base de datos, lago de datos: estos términos pueden resultar confusos; al fin y al cabo, todos hacen referencia a un sistema que almacena datos. El siguiente artículo arroja luz sobre el tema y explica las ventajas de un almacén de datos y cómo funciona.'
 date: 2025-03-26
 categories:
     - 'General'
@@ -84,7 +84,8 @@ Supongamos que dirige una **tienda online** y desea analizar los datos de ventas
 Un almacén de datos y una base de datos son dos [sistemas de gestión de datos](https://seatable.com/es/datenmanagement/) diferentes. Mientras que una base de datos suele centrarse en el **almacenamiento de datos**, el sistema de almacén de datos traza un proceso más largo, desde la adquisición de datos hasta su análisis, pasando por su integración y preparación. No obstante, los almacenes de datos también almacenan enormes cantidades de datos en una base de datos central, que es el corazón de toda solución DWH. A su vez, un almacén de datos sirve de **base para los análisis y la elaboración de informes** en toda la empresa.
 
 | **Almacén de datos** | **Base de datos** |
-| ----------------- | ----------------------------- | ---------------- |
+| -------------------- | ----------------- |
+
 | Propósito / Enfoque Análisis e Informes Almacenamiento de Datos
 | **Alcance** | Generalmente en toda la empresa | Variable |
 
@@ -109,14 +110,15 @@ Un almacén de datos en la nube tiene, entre otras, las siguientes ventajas:
 
 A continuación encontrará un resumen de las diferencias entre la nube y las instalaciones.
 
-| **En la nube** | En las instalaciones** | En las instalaciones
-| --------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **Entrega** | Instalación posible en cualquier lugar del mundo en poco tiempo | La instalación del hardware in situ puede llevar varias semanas | **En la nube** | En las instalaciones de la empresa
-| **Costes** | Principio de "pago por uso", sin costes adicionales de infraestructura y personal | Elevados costes de adquisición y funcionamiento de infraestructura y personal | | Escalabilidad** | Posibilidad de instalación en cualquier lugar del mundo en poco tiempo
-| **Escalabilidad** | Escalabilidad flexible, automática y sin límites | Planificación manual de la capacidad con límites claros | | Seguridad
-| **seguridad** | alta codificación, copias de seguridad automáticas | control total y soberanía de datos, seguridad dependiente de sus procesos de TI |
+| **En la nube**    | En las instalaciones\*\*                                                          | En las instalaciones                                                            |
+| ----------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------- | ---------------------------------- | ---------------------------------------------------------------------- |
+| **Entrega**       | Instalación posible en cualquier lugar del mundo en poco tiempo                   | La instalación del hardware in situ puede llevar varias semanas                 | **En la nube** | En las instalaciones de la empresa |
+| **Costes**        | Principio de "pago por uso", sin costes adicionales de infraestructura y personal | Elevados costes de adquisición y funcionamiento de infraestructura y personal   |                | Escalabilidad\*\*                  | Posibilidad de instalación en cualquier lugar del mundo en poco tiempo |
+| **Escalabilidad** | Escalabilidad flexible, automática y sin límites                                  | Planificación manual de la capacidad con límites claros                         |                | Seguridad                          |
+| **seguridad**     | alta codificación, copias de seguridad automáticas                                | control total y soberanía de datos, seguridad dependiente de sus procesos de TI |
+
 | Actualización en tiempo real: muy rápida gracias a la tecnología en memoria.
-| Usabilidad** | a menudo fácil de usar gracias a los elementos prefabricados, sin dependencia de TI | a menudo complejo, los expertos en TI tienen que conectar las fuentes de datos y administrar el DWH |
+| Usabilidad\*\* | a menudo fácil de usar gracias a los elementos prefabricados, sin dependencia de TI | a menudo complejo, los expertos en TI tienen que conectar las fuentes de datos y administrar el DWH |
 
 ## SeaTable - el almacén de datos flexible, sencillo y rentable
 
@@ -124,7 +126,7 @@ SeaTable es una [plataforma sin código](https://seatable.com/) que ofrece la ve
 
 Los datos de innumerables fuentes pueden fluir hacia SeaTable a través de **integraciones con Zapier, Make o n8n** y la **API de SeaTable**. Para que SeaTable pueda guardar todos los datos de forma estructurada, seleccione de antemano los [tipos de datos deseados](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). Gracias al **principio modular de fácil uso**, esto es tan sencillo como utilizar el **Constructor de aplicaciones integrado** [para crear sus propias aplicaciones](https://seatable.com/app-erstellen/). SeaTable también permite la **colaboración en equipo** y actualiza los datos en tiempo real - los cambios son inmediatamente visibles para todos los usuarios y están totalmente documentados en el historial de versiones.
 
-Además, puede elegir si desea operar su almacén de datos [on-premises]({{< relref "pages/product/seatable-server" >}}) o en la [nube]({{< relref "pages/product/seatable-cloud" >}}). Benefíciese de la escalabilidad y comodidad de **SeaTable Cloud** o aloje **SeaTable Server** en sus propios servidores con total control y soberanía de los datos. Comience con la versión básica gratuita, que puede actualizar a una [suscripción Plus o Enterprise](https://seatable.com/preise/) en cualquier momento en cuanto necesite más funciones o espacio de almacenamiento.
+Además, puede elegir si desea operar su almacén de datos [on-premises]({{< relref "pages/product/seatable-server" >}}) o en la [nube]({{< relref "pages/product/seatable-cloud" >}}). Benefíciese de la escalabilidad y comodidad de **SeaTable Cloud** o aloje **SeaTable Server** en sus propios servidores con total control y soberanía de los datos. Comience con la versión básica gratuita, que puede actualizar a una [suscripción Plus o Enterprise]({{< relref "pages/prices" >}}) en cualquier momento en cuanto necesite más funciones o espacio de almacenamiento.
 
 [Regístrese gratis](https://seatable.com/registrierung/) y experimente lo fácil que puede ser el almacenamiento de datos.
 

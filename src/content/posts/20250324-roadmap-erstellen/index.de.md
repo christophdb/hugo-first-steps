@@ -72,7 +72,7 @@ Nun sollten Sie die wichtigsten Informationen zur Erstellung Ihrer Roadmap beisa
 
 Um Ihnen die Gestaltung zu erleichtern, stellen Ihnen verschiedene Dienste fertige **Roadmap-Vorlagen** zur Verfügung, welche Sie nur noch individuell befüllen müssen.
 
-### 6\. Regelmäßige Updates und Kommunikation**
+### 6\. Regelmäßige Updates und Kommunikation\*\*
 
 Egal, für welche Art der Roadmap Sie sich entschieden haben – Sie sollten Ihre **Fortschritte** und mögliche **Änderungen** regelmäßig aktualisieren. Zum Beispiel können neue Aufgaben hinzukommen oder sich die Umsetzung verzögern. Besonders Strategieänderungen führen zu weitreichenden Anpassungen Ihrer Road Map. Achten Sie darauf, die Auswirkungen der Updates schnell und umfassend zu kommunizieren, damit alle Stakeholder stets auf dem aktuellen Stand sind.
 
@@ -130,7 +130,7 @@ Bei externer Nutzung dient die Produkt-Roadmap dazu, Kunden, Investoren oder and
 
 Eine Technologie- oder auch IT-Roadmap hilft Ihnen weiter, wenn es Ihr Ziel ist, die Technologie-Infrastruktur oder auch die Software-Entwicklung in Ihrem Unternehmen zu visualisieren. Damit behalten Sie den Überblick über Chancen und Risiken für das Management des Unternehmens: Welche Technologien haben ausgedient und welche Systeme wollen Sie einführen, um mit der Digitalisierung Schritt zu halten und auf dem Laufenden zu bleiben?
 
-Stellen Sie Ihre Roadmap für [Softwareentwicklung](https://seatable.com/it-service-management/) mit der Vorlage von SeaTable dar und profitieren Sie von einer strukturierten Übersicht.
+Stellen Sie Ihre Roadmap für [Softwareentwicklung]({{< relref "pages/industry-solutions/software-development" >}}) mit der Vorlage von SeaTable dar und profitieren Sie von einer strukturierten Übersicht.
 
 ### Integrierte Roadmap
 

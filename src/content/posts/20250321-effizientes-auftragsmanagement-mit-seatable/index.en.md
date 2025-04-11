@@ -1,14 +1,14 @@
 ---
-title: "Construction installation company develops efficient order management with SeaTable"
-description: "A Chinese company from the construction installation industry has relaunched its order management system with SeaTable, successfully advancing its digital transformation. The result is a highly efficient, modern management system with a universal app."
+title: 'Construction installation company develops efficient order management with SeaTable'
+description: 'A Chinese company from the construction installation industry has relaunched its order management system with SeaTable, successfully advancing its digital transformation. The result is a highly efficient, modern management system with a universal app.'
 date: 2025-03-21
-categories: 
-  - "General"
-  - "Customer Story"
-tags: 
-  - "Digital Transformation"
-color: "#f7f0d6"
-url: "/effizientes-auftragsmanagement-mit-seatable"
+categories:
+    - 'General'
+    - 'Customer Story'
+tags:
+    - 'Digital Transformation'
+color: '#f7f0d6'
+url: '/effizientes-auftragsmanagement-mit-seatable'
 ---
 
 ## Advancing digital transformation
@@ -17,7 +17,7 @@ SeaTable can be used for a wide variety of purposes thanks to the flexibility of
 
 ## Growing complexity and lack of transparency in order management
 
-Our customer offers the construction and maintenance of building installations. The rapidly growing company previously used Excel for order management. However, as the order volume grew, the employees increasingly reached the limits of the system and were looking for an [Excel alternative](https://seatable.com/excel-alternative/). Many processes were inefficient due to a lack of automation functions and had to be processed manually. The lack of true real-time collaboration meant that data was not always up-to-date and process statuses were not always transparent. In addition, there were increasing concerns about data security. A switch to a new, modern system became imperative.     
+Our customer offers the construction and maintenance of building installations. The rapidly growing company previously used Excel for order management. However, as the order volume grew, the employees increasingly reached the limits of the system and were looking for an [Excel alternative](https://seatable.com/excel-alternative/). Many processes were inefficient due to a lack of automation functions and had to be processed manually. The lack of true real-time collaboration meant that data was not always up-to-date and process statuses were not always transparent. In addition, there were increasing concerns about data security. A switch to a new, modern system became imperative.
 
 **The company's main requirements included:**
 
@@ -50,4 +50,4 @@ A very significant advance is the uncomplicated **creation of dashboards to moni
 
 ## New growth impetus through more efficient workflows and transparency
 
-The implementation of SeaTable has helped the company to modernize its order management and implement efficient, [digital workflows](https://seatable.com/workflow-management/). All employees can now work simultaneously in one system with up-to-date data without fear of data loss. Project managers and the management have access to current data visualizations at all times to evaluate relevant key business figures and project status. And all in one system. Order management in SeaTable has significantly accelerated work processes and decisions, while at the same time creating the basis for future growth.
+The implementation of SeaTable has helped the company to modernize its order management and implement efficient, [digital workflows]({{< relref "pages/industry-solutions/individual" >}}). All employees can now work simultaneously in one system with up-to-date data without fear of data loss. Project managers and the management have access to current data visualizations at all times to evaluate relevant key business figures and project status. And all in one system. Order management in SeaTable has significantly accelerated work processes and decisions, while at the same time creating the basis for future growth.

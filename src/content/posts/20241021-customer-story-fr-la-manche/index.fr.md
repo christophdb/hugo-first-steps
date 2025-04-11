@@ -1,20 +1,20 @@
 ---
-title: "Modernisation des processus publics - Les objectifs du Conseil départemental de la Manche"
+title: 'Modernisation des processus publics - Les objectifs du Conseil départemental de la Manche'
 description: "Le Conseil départemental de la Manche s'est fixé comme objectif d'optimiser la gestion et la modernisation des processus de données de sa collectivité. Afin de répondre aux exigences croissantes, la Direction des systèmes d'information et de la modernisation (DSIM) a travaillé à la mise en place de solutions plus efficaces pour la gestion des données. Les feuilles de calcul Excel constituaient jusqu'à présent un outil central, mais les contraintes croissantes en matière de centralisation et de gestion des droits d'accès ont rendu nécessaire une nouvelle solution"
 date: 2024-10-21
-categories: 
-  - "Témoignage client"
-tags: 
-  - "visualisation de la gestion des données"
-  - "transformation digital"
-  - "administration publique"
-color: "#bb9de1"
-url: "/fr/customer-story-fr-la-manche/"
+categories:
+    - 'Témoignage client'
+tags:
+    - 'visualisation de la gestion des données'
+    - 'transformation digital'
+    - 'administration publique'
+color: '#bb9de1'
+url: '/fr/customer-story-fr-la-manche/'
 ---
 
 ## Les défis de la gestion des données sensibles
 
-La DSIM a été confrontée au défi de gérer des données sensibles de manière sûre et accessible à la fois. Pour ce faire, il était essentiel de trouver un outil qui offre non seulement sécurité et flexibilité, mais qui soit également facile à utiliser. La [gestion numérique](https://seatable.com/digitale-verwaltung/) des informations sensibles devait être centralisée et conforme à la législation, sans pour autant perturber les processus de travail des équipes.
+La DSIM a été confrontée au défi de gérer des données sensibles de manière sûre et accessible à la fois. Pour ce faire, il était essentiel de trouver un outil qui offre non seulement sécurité et flexibilité, mais qui soit également facile à utiliser. La [gestion numérique]({{< relref "pages/industry-solutions/public-service" >}}) des informations sensibles devait être centralisée et conforme à la législation, sans pour autant perturber les processus de travail des équipes.
 
 ## Le chemin vers la solution optimale - pourquoi le Conseil Départemental a choisi SeaTable
 
