@@ -19,3 +19,9 @@ registration:
     email_placeholder: 'Introduzca su dirección de correo electrónico...'
     email_invalid: 'Esta dirección de correo electrónico parece estar incompleta'
     email_required: 'Correo electrónico obligatorio'
+
+newsletter:
+    submit_text: 'Suscribirse'
+
+contact_sales: Contactar con ventas
+read_more: 'Leer más'

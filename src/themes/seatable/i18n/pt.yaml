@@ -20,10 +20,14 @@ registration:
     email_invalid: 'Este endereço de correio eletrónico parece estar incompleto'
     email_required: 'O correio eletrónico é obrigatório'
 
+newsletter:
+    submit_text: 'Subscrever'
+
+contact_sales: Contactar vendas
+read_more: 'Ler mais'
+
 # old stuff ?!?
 month: Month
-contact_sales: Contact sales
-read_more: 'Read more'
 yearly: Yearly
 monthly: Monthly
 # end old stuff...

@@ -20,10 +20,13 @@ sections:
       items:
           - headline: SeaTable Cloud
             text: ''
+            link: pages/product/seatable-cloud
           - headline: SeaTable Dedicated
             text: ''
+            link: pages/product/seatable-dedicated
           - headline: SeaTable Server
             text: ''
+            link: pages/product/seatable-server
 
     - name: content-1
       weight: 3

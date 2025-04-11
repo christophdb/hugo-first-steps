@@ -19,3 +19,9 @@ registration:
     email_placeholder: 'Введите адрес электронной почты...'
     email_invalid: 'Этот адрес электронной почты кажется неполным'
     email_required: 'Электронная почта обязательна'
+
+newsletter:
+    submit_text: 'Подписаться'
+
+contact_sales: 'Связаться с отделом продаж'
+read_more: 'Читать дальше'
