@@ -54,7 +54,6 @@ sections:
           - icon: ghost
             headline: Abwesenheits- und Personalmanagement
             text: Automatisieren Sie die Verwaltung von Personalakten, Urlaubsanträgen und Abwesenheiten, um die Effizienz zu steigern.
-    # TODO: content-4 wenn kein link definiert, dann wird kein link angezeigt.
 
     - name: content-3
       weight: 4

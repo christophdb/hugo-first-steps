@@ -100,13 +100,16 @@ sections:
           - text: Maßnahmenplan
             image: /images/Projektmanagement_Action-Plan_Template_9.png
             alt: ""
-        # button hinzufügen: alle vorlagen entdecken.
-        # Durchsuchen Sie unsere Vorlagen
+      buttons:
+        - label: Durchsuchen Sie unsere Vorlagen
+          link: https://seatable.io/vorlagen/?lang=auto
 
     - name: banner-2
       weight: 20
       title: Wie auch immer Ihr Projekt aussieht, mit SeaTable können Sie es realisieren
-      # TODO: button:
+      buttons:
+          - label: Jetzt registrieren und loslegen
+            link: pages/registration
 
     - name: "content-9"
       weight: 26
@@ -182,7 +185,9 @@ sections:
     - name: banner-2
       weight: 98
       title: SeaTable ebnet Ihnen den Weg zum erfolgreichen Projektmanagement
-      # button:
+      buttons:
+          - label: Jetzt registrieren und loslegen
+            link: pages/registration
 
     - name: faq
       weight: 99

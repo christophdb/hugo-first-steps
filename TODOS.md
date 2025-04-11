@@ -56,3 +56,7 @@ Mitarbeiter:
 [ ] adobe stock fotos in hris -> austauschen
 [ ] template property management sind die bilder defekt?
 [ ] page-urls überarbeiten
+
+Accessibility:
+[ ] immer Alt Tags
+[ ] iframe should have a title
