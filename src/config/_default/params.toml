@@ -1,11 +1,10 @@
-
 [sitemap]
-  excludedKinds = ["taxonomy", "term"]
+excludedKinds = ["taxonomy", "term"]
 
 [seo]
-  matomoSiteId = "99"
-  matomoProviderUrl = "https://wp-stats.seatable.io/"
-  googleSearchConsoleVerificationTag = "iGenigAZSvwGpbLaeutS8SnDlLfYNsxtgZoDXMUNhFg"
+matomoSiteId = "6"
+matomoProviderUrl = "https://wp-stats.seatable.io/"
+googleSearchConsoleVerificationTag = "iGenigAZSvwGpbLaeutS8SnDlLfYNsxtgZoDXMUNhFg"
 
 [acticle]
-  showHeadingAnchors = true
+showHeadingAnchors = true
