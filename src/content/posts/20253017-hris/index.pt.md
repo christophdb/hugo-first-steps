@@ -108,8 +108,6 @@ Elevado nível de autodeterminação e transparência
 
 Na maioria dos casos, os empregados têm a opção de manter os seus próprios dados num HRIS. Permita que os seus colaboradores gerem eles próprios o maior número possível de processos de RH, por exemplo, atualizar os seus dados pessoais, apresentar pedidos de férias ou descarregar folhas de vencimento. Isto alivia a pressão sobre o departamento de RH e é uma situação vantajosa para todos os envolvidos. Uma base de dados de RH, no sentido de uma visão geral interna dos empregados, também conduz a uma maior transparência, porque todos sabem a quem se dirigir em caso de preocupação específica. Essas informações, que são visíveis para todos, podem incluir, por exemplo, o cargo e o departamento exactos, projectos anteriores, o endereço eletrónico profissional de uma pessoa ou o número de telemóvel da empresa.
 
-{{< /faq >}}
-
 ## SeaTable como HRIS ou HRMS
 
 O SeaTable é uma base de dados sem código que é ideal como software de gestão de RH para a nuvem ou no local. O SeaTable oferece a máxima flexibilidade e escalabilidade - o utilizador decide como pretende mapear os seus processos no software e quais as funções de que necessita.
