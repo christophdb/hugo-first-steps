@@ -24,6 +24,7 @@
         <div class="flex basis-1/2 flex-col pl-16">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            {{ if .description }}<p class="mt-8 text-xl leading-relaxed">{{ .description | markdownify }}</p>{{ end }}
         </div>
         <div class="mx-auto mt-14 grid max-w-3xl grid-cols-2 gap-4 text-left">
             {{ range .items }}

@@ -20,8 +20,38 @@ registration:
     email_invalid: 'Этот адрес электронной почты кажется неполным'
     email_required: 'Электронная почта обязательна'
 
+contact:
+    first_name: 'Имя'
+    last_name: 'Фамилия'
+    company: 'Компания'
+    email: 'Электронная почта'
+    reason: 'Причина обращения'
+    message: 'Ваше сообщение'
+    submit: 'Отправить сообщение'
+
 newsletter:
     submit_text: 'Подписаться'
+
+support_table:
+    support_channel: 'Канал поддержки'
+    newsletter: 'Рассылка'
+    help_area: 'Справочный раздел'
+    forum: 'Форум SeaTable'
+    support_tickets: 'Тикеты поддержки/почта'
+    workshop: 'Вводный воркшоп'
+    personal_contact: 'Персональный контакт'
+    professional_services: 'Профессиональные услуги (платные)'
+    telephone: 'Телефонная поддержка'
+    remote_hands: 'Удаленная поддержка'
+    customized_dev: 'Индивидуальная разработка (плагины, скрипты, шаблоны)'
+    trainings: 'Обучение и воркшопы'
+    service_level: 'Уровень сервиса'
+    availability: 'Доступность'
+    response_time: 'Время ответа'
+    service_time: 'Часы работы'
+    best_effort: 'Усилия по возможности'
+    sla: 'SLA (Соглашение об уровне сервиса)'
+    opening_times: 'Понедельник-Пятница<br/>10:00-17:00 (CET)'
 
 contact_sales: 'Связаться с отделом продаж'
 read_more: 'Читать дальше'

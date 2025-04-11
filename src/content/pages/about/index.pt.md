@@ -6,111 +6,111 @@ url: '/pt/about-us'
 sections:
     - name: hero-4
       weight: 1
-      title: 'What is behind the SeaTable company?'
-      description: 'We are changing the way people will work with data in the future.'
+      title: 'O que está por trás da empresa SeaTable?'
+      description: 'Estamos mudando a forma como as pessoas vão trabalhar com dados no futuro.'
       buttons:
-          - label: 'Join our team!'
+          - label: 'Junte-se à nossa equipe!'
             link: 'pages/jobs'
 
     - name: content-14
       weight: 2
-      title: This is what drives us
-      subtitle: Motivation
+      title: Isso é o que nos motiva
+      subtitle: Motivação
       items:
-          - headline: Simplicity
-            text: With our cloud solution, teams and companies can organize their data and information more efficiently in minutes and without technical knowledge
-          - headline: Control
-            text: With the self-hosted version, we offer a way out of dependency. Take full control of your data and processes.
-          - headline: Market leader
-            text: Our goal is to become the European market leader in low-code solutions. We work towards this every day.
-          - headline: Service provider
-            text: We offer installation, configuration, maintenance, training and operation for companies of all sizes.
+          - headline: Simplicidade
+            text: Com nossa solução em nuvem, equipes e empresas podem organizar seus dados e informações de forma mais eficiente em minutos e sem conhecimento técnico
+          - headline: Controle
+            text: Com a versão auto-hospedada, oferecemos uma saída para a dependência. Tenha controle total sobre seus dados e processos.
+          - headline: Líder de mercado
+            text: Nosso objetivo é nos tornar o líder de mercado europeu em soluções low-code. Trabalhamos para isso todos os dias.
+          - headline: Provedor de serviços
+            text: Oferecemos instalação, configuração, manutenção, treinamento e operação para empresas de todos os tamanhos.
 
     - name: content-15
       weight: 3
-      title: SeaTable in figures
+      title: SeaTable em números
       items:
           - number: '2020'
-            text: At the start since
+            text: Em operação desde
           - number: 40+
-            text: Team members
+            text: Membros da equipe
           - number: 3
-            text: Locations
+            text: Localizações
           - number: 100.000+
-            text: Users
+            text: Usuários
       image: '/images/our-team-at-seadays2024.jpg'
 
     - name: content-16
       weight: 4
-      title: This is our identity
-      subtitle: Values
+      title: Esta é a nossa identidade
+      subtitle: Valores
       items:
-          - headline: Innovative
-            text: We find solutions for the needs of tomorrow
-          - headline: Knowledge
-            text: We are experts and are happy to pass on our knowledge
-          - headline: Trustworthiness
-            text: We focus on high quality standards and data security
-          - headline: Enthusiasm
-            text: We look forward to making complex processes easier
-          - headline: Commitment
-            text: We work to make a difference
+          - headline: Inovador
+            text: Encontramos soluções para as necessidades de amanhã
+          - headline: Conhecimento
+            text: Somos especialistas e adoramos compartilhar nosso conhecimento
+          - headline: Confiabilidade
+            text: Nos concentramos em altos padrões de qualidade e segurança de dados
+          - headline: Entusiasmo
+            text: Temos prazer em simplificar processos complexos
+          - headline: Comprometimento
+            text: Trabalhamos para fazer a diferença
 
     - name: content-17
       weight: 5
-      title: We are proud of this
-      subtitle: Milestones
+      title: Temos orgulho disso
+      subtitle: Marcos
       items:
           - date: 04/2019
-            text: "The idea is born and the <span class='gradient'>first row of source code</span> is written"
+            text: "A ideia nasce e a <span class='gradient'>primeira linha de código-fonte</span> é escrita"
           - date: 06/2020
-            text: <span class='gradient'>seatable.io</span> goes online
+            text: <span class='gradient'>seatable.io</span> entra no ar
           - date: 09/2020
-            text: First mention in the <span class='gradient'>German IT press</span>
+            text: Primeira menção na <span class='gradient'>imprensa de TI alemã</span>
           - date: 04/2021
-            text: <span class='gradient'>SeaTable 2.0</span> appears
+            text: <span class='gradient'>SeaTable 2.0</span> é lançado
           - date: 07/2021
-            text: 100+ stars on <span class='gradient'>GitHub</span>
+            text: 100+ estrelas no <span class='gradient'>GitHub</span>
           - date: 04/2022
-            text: <span class='gradient'>The Handelsblatt</span> is the first national German newspaper to report on SeaTable
+            text: <span class='gradient'>O Handelsblatt</span> é o primeiro jornal nacional alemão a reportar sobre a SeaTable
           - date: 06/2022
-            text: <span class='gradient'>SeaTable 3.0</span> is released
+            text: <span class='gradient'>SeaTable 3.0</span> é lançado
           - date: 08/2022
-            text: 10K downloads at <span class='gradient'>Docker Hub</span>
+            text: 10K downloads no <span class='gradient'>Docker Hub</span>
           - date: 03/2023
-            text: <span class='gradient'>BwTable innovation project</span> with the German armed forces
+            text: <span class='gradient'>Projeto de inovação BwTable</span> com as forças armadas alemãs
           - date: 07/2023
-            text: SeaTable is now available in <span class='gradient'>6 different languages</span>
+            text: SeaTable agora disponível em <span class='gradient'>6 idiomas diferentes</span>
           - date: 11/2024
-            text: <span class='gradient'>SeaTable 5.0</span> marks a new milestone in the no-code world
+            text: <span class='gradient'>SeaTable 5.0</span> marca um novo marco no mundo no-code
           - date: 02/2025
-            text: <span class='gradient'>seatable.com</span> sees the light of day
+            text: <span class='gradient'>seatable.com</span> vê a luz do dia
 
     - name: content-18
       weight: 6
-      title: The German-Chinese joint venture
-      subtitle: Management Team
+      title: A joint venture alemã-chinesa
+      subtitle: Equipe de gestão
       items:
-          - headline: The founding brothers of SeaTable GmbH
-            text: 'SeaTable GmbH is responsible for the sales and support of SeaTable as well as the operation of the SeaTable Cloud.<br/><br/> SeaTable GmbH was founded in July 2020 by the brothers Dr. Ralf Dyllick-Brenzinger and Christoph Dyllick-Brenzinger. They are also the managing directors of the company.'
+          - headline: Os irmãos fundadores da SeaTable GmbH
+            text: 'A SeaTable GmbH é responsável pelas vendas e suporte da SeaTable, bem como pela operação da SeaTable Cloud.<br/><br/> A SeaTable GmbH foi fundada em julho de 2020 pelos irmãos Dr. Ralf Dyllick-Brenzinger e Christoph Dyllick-Brenzinger. Eles também são os diretores administrativos da empresa.'
             style: 'clean'
           - headline: Dr. Ralf Dyllick-Brenzinger
-            text: "Dr. Ralf Dyllick-Brenzinger, founder and CEO of SeaTable, is a former management consultant with the Boston Consulting Group. His consulting focus was on finance, which led him to projects in the United Arab Emirates. in 2014, he and his brother Christoph founded datamate GmbH & Co. KG with his brother Christoph to distribute both open source server systems and the private cloud solution Seafile Server.<br/><br/>Ralf studied business administration at the University of St. Gallen and received his doctorate from the Ecole Polytechnique Fédérale de Lausanne (EPFL) for his dissertation entitled 'Energy Strategy Formation in the Middle East and North Africa'."
+            text: "Dr. Ralf Dyllick-Brenzinger, fundador e CEO da SeaTable, é ex-consultor de gestão do Boston Consulting Group. Seu foco de consultoria era finanças, o que o levou a projetos nos Emirados Árabes Unidos. Em 2014, ele e seu irmão Christoph fundaram a datamate GmbH & Co. KG para distribuir tanto sistemas de servidor open source quanto a solução de nuvem privada Seafile Server.<br/><br/>Ralf estudou administração de empresas na Universidade de St. Gallen e obteve seu doutorado na École Polytechnique Fédérale de Lausanne (EPFL) por sua tese intitulada 'Formação de Estratégia Energética no Oriente Médio e Norte da África'."
           - headline: Christoph Dyllick-Brenzinger
-            text: 'Christoph Dyllick-Brenzinger is one of the founders and Chief Product Officer of SeaTable. After several years as a management consultant in the SAP environment for major European corporations, he founded the joint company datamate GmbH & Co. KG.<br/><br/>Christoph studied economics at the University of Mannheim and has been an enthusiastic software developer since his early youth. In 2000, at the age of just 17 (and as the youngest participant in the field), he won the title of European Team Bike Courier Champion.'
-          - headline: Our partners at Seafile Ltd.
-            text: 'Seafile Ltd. is a software company from Beijing, China. Seafile Ltd. has been developing the low-code application SeaTable since 2019. Seafile Ltd. was founded by Daniel Pan and Jonathan Xu in 2012 to market the self-developed software Seafile Server.<br/><br/>Seafile Server is an enterprise file sync-and-share solution that is particularly popular in the European university and research sector. Seafile Server is available in two editions. The Seafile Server Community Edition is open source; the Seafile Server Professional Edition is distributed under a proprietary license.<br/><br/>Seafile Ltd. holds a 50 percent share in SeaTable GmbH. It is neither directly nor indirectly involved in the management.'
+            text: 'Christoph Dyllick-Brenzinger é um dos fundadores e Diretor de Produto da SeaTable. Após vários anos como consultor de gestão no ambiente SAP para grandes corporações europeias, fundou a empresa conjunta datamate GmbH & Co. KG.<br/><br/>Christoph estudou economia na Universidade de Mannheim e é um entusiasta desenvolvedor de software desde sua juventude. Em 2000, com apenas 17 anos (e como o participante mais jovem do campo), ele conquistou o título de Campeão Europeu de Mensageiros de Bicicleta por equipes.'
+          - headline: Nossos parceiros na Seafile Ltd.
+            text: 'A Seafile Ltd. é uma empresa de software de Pequim, China. A Seafile Ltd. vem desenvolvendo o aplicativo low-code SeaTable desde 2019. A Seafile Ltd. foi fundada por Daniel Pan e Jonathan Xu em 2012 para comercializar o software desenvolvido internamente Seafile Server.<br/><br/>O Seafile Server é uma solução empresarial de sincronização e compartilhamento de arquivos que é particularmente popular no setor universitário e de pesquisa europeu. O Seafile Server está disponível em duas edições. A Edição Comunitária do Seafile Server é open source; a Edição Profissional do Seafile Server é distribuída sob licença proprietária.<br/><br/>A Seafile Ltd. detém uma participação de 50% na SeaTable GmbH. Não está envolvida direta ou indiretamente na gestão.'
             style: 'clean'
           - headline: Daniel Pan
-            text: 'Daniel Pan is the Chief Executive Officer of Seafile Ltd. Just two years after finishing his studies, he founded Seafile Ltd together with Jonathan Xu. During their studies, the two later founders had already started to develop their own file synchronization solution.<br/><br/>Daniel is a graduate of Tsinghua University in Beijing, China.'
+            text: 'Daniel Pan é o Diretor Executivo da Seafile Ltd. Apenas dois anos após terminar seus estudos, ele fundou a Seafile Ltd junto com Jonathan Xu. Durante seus estudos, os dois futuros fundadores já haviam começado a desenvolver sua própria solução de sincronização de arquivos.<br/><br/>Daniel é formado pela Universidade Tsinghua em Pequim, China.'
           - headline: Jonathan Xu
-            text: 'Jonathan Xu is CTO of Seafile Ltd. In 2012, he founded Seafile Ltd. together with Daniel Pan to further develop and market the file synchronization software Seafile, which the two had been working on together since their university days.<br/><br/>Jonathan is a graduate of Tsinghua University in Beijing, China.'
+            text: 'Jonathan Xu é CTO da Seafile Ltd. Em 2012, ele fundou a Seafile Ltd. junto com Daniel Pan para continuar desenvolvendo e comercializando o software de sincronização de arquivos Seafile, no qual os dois vinham trabalhando juntos desde seus dias de universidade.<br/><br/>Jonathan é formado pela Universidade Tsinghua em Pequim, China.'
 
     - name: content-3
       weight: 7
-      title: What do others say about us?
-      subtitle: Press
+      title: O que outros dizem sobre nós?
+      subtitle: Imprensa
       buttons:
-          - label: To the press area
+          - label: Ir para a área de imprensa
             link: 'pages/press'
 ---

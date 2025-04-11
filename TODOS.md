@@ -60,3 +60,4 @@ Mitarbeiter:
 Accessibility:
 [ ] immer Alt Tags
 [ ] iframe should have a title
+[ ] links in main-content werden nicht gestylt

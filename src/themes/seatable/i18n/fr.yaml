@@ -20,8 +20,38 @@ registration:
     email_invalid: 'Cette adresse e-mail semble être incomplète'
     email_required: 'E-mail est requis'
 
+contact:
+    first_name: 'Prénom'
+    last_name: 'Nom'
+    company: 'Société'
+    email: 'E-mail'
+    reason: 'Motif de la demande'
+    message: 'Votre message'
+    submit: 'Envoyer le message'
+
 newsletter:
     submit_text: 'Souscrire'
+
+support_table:
+    support_channel: 'Canal de support'
+    newsletter: 'Newsletter'
+    help_area: "Espace d'aide"
+    forum: 'Forum SeaTable'
+    support_tickets: 'Tickets de support / e-mail'
+    workshop: "Atelier d'intégration"
+    personal_contact: 'Contact personnel dédié'
+    professional_services: 'Services professionnels (payants)'
+    telephone: 'Support téléphonique'
+    remote_hands: 'Assistance à distance'
+    customized_dev: 'Développement personnalisé (plugins, scripts, modèles)'
+    trainings: 'Formations & Ateliers'
+    service_level: 'Niveau de service'
+    availability: 'Disponibilité'
+    response_time: 'Délai de réponse'
+    service_time: 'Heures de service'
+    best_effort: 'Meilleur effort'
+    sla: 'Accord de niveau de service (SLA)'
+    opening_times: 'Lundi - Vendredi<br/>10h - 17h (CET)'
 
 contact_sales: Contacter les ventes'
 read_more: 'En savoir plus'
