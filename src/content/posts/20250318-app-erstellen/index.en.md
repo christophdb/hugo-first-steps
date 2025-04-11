@@ -5,7 +5,7 @@ date: 2025-03-18
 categories:
     - 'No Code / Low Code'
 tags:
-    - 'No Code / Low Code'
+    - 'Low Code / No Code'
     - 'Universal App Builder'
 color: '#9fe0cc'
 url: '/app-erstellen'

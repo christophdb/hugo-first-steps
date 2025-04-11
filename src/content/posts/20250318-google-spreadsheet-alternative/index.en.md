@@ -138,4 +138,4 @@ Is SeaTable also suitable for small companies or individual users? |||
 
 Yes, SeaTable is suitable for both individuals and small businesses thanks to its free version and ease of use. At the same time, it offers scalable functions that keep pace with growing requirements.
 
-{{< /faq >}}
+{{< /faq >}}S

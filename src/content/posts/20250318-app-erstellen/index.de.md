@@ -6,7 +6,7 @@ categories:
     - 'No Code / Low Code'
 tags:
     - 'Universal App'
-    - 'No Code / Low Code'
+    - 'Low Code / No Code'
 color: '#9fe0cc'
 url: '/de/app-erstellen'
 ---

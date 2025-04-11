@@ -6,7 +6,7 @@ categories:
     - 'Общий'
 tags:
     - 'Управление данными и визуализация'
-    - 'No Code / Low Code'
+    - 'Low Code / No Code'
     - 'ИТ-процессы'
 color: '#bedeab'
 url: '/ru/datenmanagement/'

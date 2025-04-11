@@ -7,7 +7,7 @@ categories:
 tags:
     - 'Datenmanagement & Visualisierung'
     - 'Toolings & Plugins'
-    - 'No Code / Low Code'
+    - 'Low Code / No Code'
 color: '#bedeab'
 url: '/de/datenmanagement/'
 ---
