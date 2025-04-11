@@ -6,6 +6,7 @@ categories:
     - 'Allgemein'
 tags:
     - 'Öffentliche Verwaltung'
+    - 'Datenmanagement & Visualisierung'
 color: '#c4e8d8'
 url: '/de/liegenschaftsverwaltung'
 ---
