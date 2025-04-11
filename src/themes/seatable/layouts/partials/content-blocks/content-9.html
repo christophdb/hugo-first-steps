@@ -24,8 +24,10 @@
 
 
 <!-- HTML Block -->
-<section class="padding curved bg-gray-100 !pt-40">
-    <section id="content-9" class="max-container">
+{{ $defaultClasses := slice "curved" "bg-gray-100" }}
+{{ $classes := .classes | default $defaultClasses }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section class="max-container">
         <div class="mx-auto max-w-3xl text-center">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
