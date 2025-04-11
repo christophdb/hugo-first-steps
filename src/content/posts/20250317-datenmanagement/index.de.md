@@ -7,8 +7,9 @@ categories:
 tags:
     - 'Datenmanagement & Visualisierung'
     - 'Toolings & Plugins'
+    - 'No Code / Low Code'
 color: '#bedeab'
-url: '/de/datenmanagement'
+url: '/de/datenmanagement/'
 ---
 
 ## Erfolgsgarant Datenmanagement
