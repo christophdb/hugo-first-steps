@@ -33,7 +33,7 @@ sections:
       text2: "Dies macht SeaTable zu einem idealen Werkzeug für Teams, die gemeinsam an Projekten arbeiten und ihre Produktivität
         steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und
         Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren."
-    image: https://placehold.co/560x400
+    image: /images/Group-38.png
 
   - name: fonts
     weight: 1
@@ -73,7 +73,7 @@ sections:
       image_alt: 
     - headline:
       text:
-      image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
+      image: "/images/galerie-plugin.png"
       image_alt: 
     buttons:
     - label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
@@ -157,8 +157,6 @@ sections:
       style: text
     image: "/img/seatable-security-1.jpg"
 
-
-
   - name: banner-2
     weight: 8
     title: Wie auch immer Ihr Arbeitsablauf aussieht, mit <span class="text-seatable-blue">SeaTable</span> können Sie Ihn realisieren
@@ -173,14 +171,14 @@ sections:
     description: "Visualisieren Sie Ihre Datensätze auf jede erdenkliche Weise und arbeiten Sie in Echtzeit zusammen. Hier nur einige der Möglichkeiten von SeaTable."
     items:
     - text: "Base Editor"
-      image: "https://seatable.com/wp-content/uploads/2025/02/template-content-marketing-strategie.png"
+      image: "/images/template-content-marketing-strategie.png"
       alt: "Base Editor"
     - text: "Galerie"
-      image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
+      image: "/images/galerie-plugin.png"
       alt: "Galerie"
     - text: "3 or more"
       alt: ""
-      image: "https://placehold.co/470x250"
+      image: "/images/kanban-plugin.png"
 
   - name: "content-9"
     weight: 10
@@ -269,10 +267,6 @@ sections:
       text: Definieren Sie Trigger, bei denen Sie oder Ihre Kollegen benachrichtigt werden wollen.
     - headline: Automatisierungen
       text: Lassen Sie gewisse Abläufe zu einem speziellen Zeitpunkt oder Zustand automatisch ausführen.
-
-
-
-
 
   - name: "faq"
     weight: 11

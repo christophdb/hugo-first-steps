@@ -7,8 +7,8 @@ sections:
   weight: 1
   h2_left: "No code,"
   h2_right: "no limits"
-  h1: "SeaTable no-code platform: Organize all your data and develop custom applications without writing a single row code!"
-  description: Intuitively design custom databases, workflows and apps - easily.<br/>Our no-code solution combines the simplicity of spreadsheets with the power of no-code databases and no-code app builders and can also be used as a low-code platform.
+  h1: "SeaTable No-Code-Plattform: Organisieren Sie alle Ihre Daten und entwickeln Sie maßgeschneiderte Applikationen, ohne eine einzige Zeile Code zu schreiben!"
+  description: "Gestalten Sie intuitiv benutzerdefinierte Datenbanken, Workflows und Apps – ganz einfach.<br>Unsere No-Code Lösung vereint die Einfachheit von Tabellenkalkulationen mit der Power von No-Code Datenbanken und No-Code App Buildern und lässt sich auch als Low-Code Plattform nutzen."
   buttons:
     - label: Jetzt loslegen
       link: "pages/registration"
@@ -30,27 +30,27 @@ sections:
       - icon: 'chart-simple'
         headline: 'Marketing'
         text: 'Planen Sie Kampagnen, verwalten Sie Leads und analysieren Sie Ergebnisse mit SeaTable. Automatisieren Sie Workflows und optimieren Sie Ihre Marketingstrategie.'
-        link: '/de/marketing-tool'
+        link: '/pages/industry-solutions/marketing'
       - icon: 'bullseye'
         headline: 'Projektmanagement'
         text: 'Nutzen Sie Gantt-Diagramme und Kanban-Boards, um Projekte effizient zu steuern. Verfolgen Sie Fortschritte und koordinieren Sie Teams mit SeaTable.'
-        link: '#'
+        link: '/pages/industry-solutions/project-management'
       - icon: 'people-group'
         headline: 'Human Resources'
         text: 'Verwalten Sie Mitarbeiterdaten, Schulungen und Urlaubsanträge mit SeaTable. Optimieren Sie HR-Prozesse und verbessern Sie die Mitarbeitererfahrung.'
-        link: '#'
+        link: '/pages/industry-solutions/hr'
       - icon: 'building'
         headline: 'Öffentlicher Dienst'
         text: 'Verwalten Sie Personalakten, Schulungsdaten und Anträge mit SeaTable. Optimieren Sie Prozesse und verbessern Sie die Transparenz im öffentlichen Dienst.'
-        link: '#'
+        link: '/pages/industry-solutions/public-service'
       - icon: 'terminal'
         headline: 'Softwareentwicklung'
         text: 'Verwalten Sie Backlogs, Issues, Bugs und Releases mit SeaTable. Optimieren Sie den Entwicklungsprozess und verbessern Sie die Teamkommunikation.'
-        link: '#'
+        link: '/pages/industry-solutions/software-development'
       - icon: 'fingerprint'
         headline: 'Individuell'
         text: 'Erstellen Sie maßgeschneiderte Anwendungen für Ihre spezifischen Geschäftsanforderungen mit SeaTable. Automatisieren Sie Prozesse und verbessern Sie die Effizienz.'
-        link: '#'
+        link: '/pages/industry-solutions/individual'
 
 - name: "content-8"
   weight: 3
@@ -59,23 +59,23 @@ sections:
   description: "Visualisieren Sie Ihre Datensätze auf jede erdenkliche Weise und arbeiten Sie in Echtzeit zusammen. Hier nur einige der Möglichkeiten von SeaTable."
   items:
   - text: "Base Editor"
-    image: "https://seatable.com/wp-content/uploads/2025/02/template-content-marketing-strategie.png"
+    image: "/images/template-content-marketing-strategie.png"
     alt: "Base Editor"
   - text: "Galerie"
-    image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
+    image: "/images/galerie-plugin.png"
     alt: "Galerie"
   - text: "Kanban"
     alt: ""
-    image: "https://placehold.co/470x250"
+    image: "/images/kanban-plugin.png"
   - text: "Zeitleiste"
     alt: ""
-    image: "https://placehold.co/470x250"
+    image: "/images/timeline-plugin.png"
   - text: "Kalender"
     alt: ""
-    image: "https://placehold.co/470x250"
+    image: "/images/calendar-plugin.png"
   - text: "Tabellenbeziehungen"
     alt: ""
-    image: "https://placehold.co/470x250"
+    image: "/images/table-relationship-plugin.png"
 
 - name: "customer-1"
   weight: 4
@@ -114,7 +114,7 @@ sections:
   - headline: "Kollaboratives Arbeiten in Echtzeit für Teams"
     text: "SeaTable fördert die Zusammenarbeit in Ihrem Team durch Echtzeit-Synchronisation und gemeinsame Arbeitsbereiche.
       Jeder im Team kann gleichzeitig auf dieselben Daten zugreifen, Änderungen vornehmen und sehen, was andere bearbeiten.<br/><br/>Dies macht SeaTable zu einem idealen Werkzeug für Teams, die gemeinsam an Projekten arbeiten und ihre Produktivität steigern möchten. Unsere No-Code-/Low-Code Plattform unterstützt kollaboratives Arbeiten auch durch Kommentar- und Freigabefunktionen und hilft Ihnen so, Ihre Teamarbeit zu optimieren."
-  image: https://placehold.co/560x400
+  image: /images/Group-38.png
 
 - name: content-2
   weight: 6
@@ -151,7 +151,7 @@ sections:
     image_alt: 
   - headline: Redaktionsplan
     text: Marketing
-    image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
+    image: "/images/galerie-plugin.png"
     image_alt: 
   buttons:
     - label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
