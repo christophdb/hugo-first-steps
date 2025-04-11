@@ -80,9 +80,34 @@ product_comparison_table:
 contact_sales: Verkauf kontaktieren
 read_more: 'Mehr erfahren'
 
-# old stuff ?!?
-month: Monat
-yearly: 'Jährlich'
-monthly: 'Monatlich'
-# end old stuff...
-
+price_table:
+    month: Monat
+    yearly: 'Jährlich'
+    monthly: 'Monatlich'
+    unlimited_bases: 'Unlimitierte Bases'
+    unlimited_tables: 'Unlimitierte Tabellen'
+    rows: 'Zeilen'
+    rows_per_base: 'Zeilen pro Base'
+    gb_for_files: 'GB für Dateien'
+    month_snapshots: 'Monate Snapshots'
+    unlimited_javascript: 'Unlimitierte JavaScript'
+    python_runs: 'Python Skriptläufe'
+    unlimited_rows: 'Unlimitierte Zeilen'
+    unlimited_python: 'Unlimitierte Python Skriptläufe'
+    advanced_sharing: 'Erweiterte Freigaben'
+    advanced_customization: 'Erweitertes Customizing'
+    automations: 'Automationen'
+    big_data_storage: 'Big-Data-Speicher'
+    bank_transfer_payment: 'Zahlung per Überweisung'
+    unlimited_api_calls: 'Unlimitierte API-Aufrufe'
+    enterprise_admin_panel: 'Enterprise Admin Panel'
+    sso_integration: 'Single Sign-On per SAML und OAuth'
+    corporate_support: 'Optionaler Corporate Support und SLAs'
+    start_now: 'Jetzt loslegen'
+    contact_sales: 'Vertrieb kontaktieren'
+    for_up_to_25_users: 'Für bis zu 25 Benutzer'
+    no_credit_card_needed: 'Keine Kreditkarte nötig'
+    per_user_month: 'Pro Benutzer/Monat'
+    yearly_billing: 'Jährliche Abrechnung'
+    monthly_billing: 'Monatliche Abrechnung'
+    min_100_users: 'Mindestens 100 Benutzer'
