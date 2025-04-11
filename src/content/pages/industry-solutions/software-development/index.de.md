@@ -27,7 +27,6 @@ sections:
       title: ITSM Prozesse nach Ihren Vorstellung
       subtitle: Flexibilität, Sicherheit, Effizienz
       description: Mit der benutzerfreundlichen No- und Low-Code-Plattform bilden Sie Ihre IT Service Management Prozesse einfach und effizient ab! SeaTable bietet anpassbare Workflows, die sich flexibel in Ihre bestehenden Systeme integrieren lassen – so bleiben Sie agil und sind bestens gerüstet für zukünftige Entwicklungen.
-      # TODO: PNG mit transparentem Hintergrund!
       items:
           - text: DSGVO-konform
           - text: 'Einfache Implementierung: No-Code oder Low-Code'
