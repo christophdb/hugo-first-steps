@@ -3,6 +3,9 @@
     <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
         <pre><code>- name: "{{ .name }}"
   weight: 1
+  classes:
+    - curved
+    - [bg-gray-200, bg-seatable-blue]
   title: 
   subtitle: 
   description:
@@ -25,12 +28,12 @@
         </div>
         <div class="flex basis-1/2 flex-col">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
-            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
-            <p class="mb-4 mt-8 text-xl leading-relaxed">{{ .description }}</p>
+            <h2 class="{{ if in $classes "bg-seatable-blue" }}text-white{{ end }} mt-1 text-4xl font-bold">{{ .title }}</h2>
+            <p class="{{ if in $classes "bg-seatable-blue" }}text-white{{ end }} mb-4 mt-8 text-xl leading-relaxed">{{ .description }}</p>
             {{ range .items }}
                 <div class="flex flex-row items-baseline text-lg text-seatable-orange">
                     {{ partial "icon" "check" }}
-                    <p class="relative top-[-1px] mb-2 pl-4 text-xl leading-normal">{{ .text | markdownify }}</p>
+                    <p class="{{ if in $classes "bg-seatable-blue" }}text-white{{ end }} relative top-[-1px] mb-2 pl-4 text-xl leading-normal">{{ .text | markdownify }}</p>
                 </div>
             {{ end }}
 

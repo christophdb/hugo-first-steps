@@ -41,7 +41,6 @@ sections:
       title: Optimieren Sie Ihren Erfolg im Marketing
       subtitle: Der Mehrwert von SeaTable
       description: SeaTable ist das einzige Marketing Management Tool, das Marketingprofis brauchen, um ihre Prozesse und Kampagnen zu automatisieren. Teams können ortsunabhängig und kollaborativ arbeiten, während die Daten gängiger Digital Marketing Tools integriert und Arbeitsabläufe automatisiert werden können. Starten Sie mit SeaTable und bringen Sie Ihre Marketing Automation auf das nächste Level – weil jede Kampagne zählt.
-      # TODO: bei content9 fehlt die description in der beschreibung
       items:
       - headline: Zentralisierung
         text: SeaTable vereint alle wichtigen Funktionen in einer Plattform, um Ihre Prozesse effizient zu organisieren.
@@ -109,7 +108,9 @@ sections:
     - name: banner-2
       weight: 7
       title: Flexibel und skalierbar – machen Sie mehr aus Ihrem Marketing!
-      # TODO: button:
+      buttons:
+          - label: Jetzt registrieren und loslegen
+            link: pages/registration
 
     - name: content-11
       weight: 8
@@ -184,10 +185,10 @@ sections:
 
     # TODO: das noch rechts-links vertauschen
     - name: 'content-13'
-    - classes:
+      weight: 12
+      classes:
           - curved
           - bg-gray-100
-      weight: 12
       title: Monitoring und Analyse
       subtitle: Marketing Reporting
       description: Monitoren Sie all Ihre Marketing Metriken und erstellen Sie überzeugende Dashboards.
@@ -219,12 +220,12 @@ sections:
           - headline: Feedback und Analyse
             text: Führen Sie Umfragen durch und werten Sie den Erfolg Ihres Events aus.
 
-    
-
     - name: banner-2
       weight: 98
       title: Wie auch immer Ihr Arbeitsablauf aussieht, mit SeaTable können Sie Ihn realisieren
-      # button:
+      buttons:
+          - label: Jetzt registrieren und loslegen
+            link: pages/registration
 
     - name: faq
       weight: 99

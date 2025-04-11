@@ -32,4 +32,3 @@ unsafe = true
 
 [cascade.build]
 publishResources = false
-
