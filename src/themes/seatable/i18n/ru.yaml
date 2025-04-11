@@ -20,6 +20,15 @@ registration:
     email_invalid: 'Этот адрес электронной почты кажется неполным'
     email_required: 'Электронная почта обязательна'
 
+contact:
+    first_name: 'Имя'
+    last_name: 'Фамилия'
+    company: 'Компания'
+    email: 'Электронная почта'
+    reason: 'Причина обращения'
+    message: 'Ваше сообщение'
+    submit: 'Отправить сообщение'
+
 newsletter:
     submit_text: 'Подписаться'
 

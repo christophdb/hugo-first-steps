@@ -20,6 +20,15 @@ registration:
     email_invalid: 'Este endereço de correio eletrónico parece estar incompleto'
     email_required: 'O correio eletrónico é obrigatório'
 
+contact:
+    first_name: 'Nome'
+    last_name: 'Sobrenome'
+    company: 'Empresa'
+    email: 'E-mail'
+    reason: 'Motivo do contato'
+    message: 'Sua mensagem'
+    submit: 'Enviar mensagem'
+
 newsletter:
     submit_text: 'Subscrever'
 
