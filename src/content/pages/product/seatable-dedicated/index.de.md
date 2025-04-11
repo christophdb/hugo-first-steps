@@ -27,6 +27,8 @@ sections:
 
     - name: content-11
       weight: 3
+      classes:
+          - curved
       title: Ihr eigenes Cloud-System
       subtitle: Professionell
       items:
