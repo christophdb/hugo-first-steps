@@ -42,8 +42,10 @@ sections:
           label: Demander un devis
           link: '/pages/contact'
 
-    - name: table-x
+    - name: product-comparison-table
       weight: 5
+      title: Les trois produits SeaTable en un coup d'œil
+      subtitle: Comparaison de nos produits
 
     - name: content-4
       weight: 6

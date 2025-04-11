@@ -53,6 +53,30 @@ support_table:
     sla: 'SLA (Acordo de Nível de Serviço)'
     opening_times: 'Segunda a Sexta<br/>10h às 17h (CET)'
 
+product_comparison_table:
+    editions: 'Edições'
+    use_free: 'Uso gratuito'
+    administration: 'Administração'
+    any_location: 'Qualquer localização de servidor'
+    automatic_updates: 'Atualizações automáticas'
+    own_admin: 'Própria administração'
+    command_line: 'Acesso à linha de comandos Linux'
+    authentication: 'Autenticação personalizada'
+    customizing: 'Personalização'
+    custom_logo: 'Logo personalizado'
+    custom_url: 'URL personalizada'
+    custom_templates: 'Modelos personalizados'
+    custom_roles: 'Funções de usuário personalizadas'
+    support: 'Suporte'
+    corporate_support: 'Suporte corporativo opcional'
+    requirements: 'Requisitos'
+    only_free: '(apenas SeaTable Free)'
+    only_enterprise: '(apenas SeaTable Enterprise)'
+    up_to_three_users: '(até 3 usuários)'
+    email: 'Endereço de e-mail'
+    min_100_users: 'Mín. 100 usuários'
+    server_or_vm: 'Servidor Linux ou máquina virtual'
+
 contact_sales: Contactar vendas
 read_more: 'Ler mais'
 

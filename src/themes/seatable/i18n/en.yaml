@@ -53,6 +53,30 @@ support_table:
     sla: 'SLA'
     opening_times: 'Monday - Friday<br/>10 a.m. - 5 p.m. (CET)'
 
+product_comparison_table:
+    editions: 'Editions'
+    use_free: 'Free to use'
+    administration: 'Administration'
+    any_location: 'Any server location'
+    automatic_updates: 'Automatic updates'
+    own_admin: 'Own administration'
+    command_line: 'Linux command line access'
+    authentication: 'Custom authentication'
+    customizing: 'Customizing'
+    custom_logo: 'Custom logo'
+    custom_url: 'Custom URL'
+    custom_templates: 'Custom templates'
+    custom_roles: 'Custom user roles'
+    support: 'Support'
+    corporate_support: 'Optional corporate support'
+    requirements: 'Requirements'
+    only_free: '(only SeaTable Free)'
+    only_enterprise: '(only SeaTable Enterprise)'
+    up_to_three_users: '(up to 3 users)'
+    email: 'Email address'
+    min_100_users: 'Min. 100 users'
+    server_or_vm: 'Linux server or VM'
+
 contact_sales: Contact sales
 read_more: 'Read more'
 

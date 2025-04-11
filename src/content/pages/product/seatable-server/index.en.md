@@ -68,6 +68,8 @@ sections:
             text: Contact us
           # Make a button below and fill the white box with content
 
-    - name: table-x
-      weight: 8
+    - name: product-comparison-table
+      weight: 7
+      title: The three SeaTable products at a glance
+      subtitle: Comparison of our products
 ---

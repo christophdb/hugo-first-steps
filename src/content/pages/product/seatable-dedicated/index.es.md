@@ -42,8 +42,10 @@ sections:
           label: Solicitar cotización ahora
           link: '/pages/contact'
 
-    - name: table-x
+    - name: product-comparison-table
       weight: 5
+      title: Los tres productos SeaTable de un vistazo
+      subtitle: Comparación de nuestros productos
 
     - name: content-4
       weight: 6

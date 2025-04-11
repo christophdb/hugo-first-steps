@@ -68,6 +68,8 @@ sections:
             text: Contáctanos
           # Crear un botón debajo y llenar el cuadro blanco con contenido
 
-    - name: table-x
+    - name: product-comparison-table
       weight: 8
+      title: Los tres productos SeaTable de un vistazo
+      subtitle: Comparación de nuestros productos
 ---
