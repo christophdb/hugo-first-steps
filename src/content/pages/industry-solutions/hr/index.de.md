@@ -18,7 +18,6 @@ sections:
             style: primary
           - label: Funktionen kennenlernen
             link: pages/functions
-      # TODO: die höhe des abschnitts festlegen können. Hier sollte man mehr vom template zeigen.
 
     - name: content-12
       weight: 2
@@ -47,8 +46,6 @@ sections:
       title: Vorlagen zum Start in Ihre optimalen HR Prozesse
       subtitle: Vorlagen
       description: "Für den Einstieg stehen Ihnen kostenlose Templates speziell für HR Prozesse zur Verfügung, ebenso wie ein kostenloser Online-Kurs, der Sie Schritt für Schritt zur ersten eigenen Base führt. Erleben Sie, wie einfach Sie mit SeaTable die Verwaltung Ihrer Personalprozesse auf das nächste Level bringen!<br/><br/>**Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account**"
-      # TODO: bei items die links hinzufügen!
-      # TODO: abstände zwischen den spalten vergrößern
       items:
           - text: Arbeitszeiterfassung
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
@@ -87,7 +84,6 @@ sections:
       - headline: "Prozesse optimieren"
         text: Von der Urlaubsplanung für Mitarbeiter über die Reisekostenabrechnung bis hin zu komplexen Onboarding- und Offboarding Prozessen – SeaTable bietet Ihnen alle Werkzeuge, um Ihre HR Prozesse zu optimieren und Fehler zu minimieren.
         image: /images/Landing-Page_HR_Prozesse-optimieren.png
-        # TODO: doppelte Bilder mit (1) entfernen.
 
     - name: banner-2
       weight: 6
@@ -146,7 +142,6 @@ sections:
           - label: Vertrieb kontaktieren
             link: 'pages/contact'
             style: secondary
-      # TODO: mardownify für text
 
     - name: faq
       weight: 11

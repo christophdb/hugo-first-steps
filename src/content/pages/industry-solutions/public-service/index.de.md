@@ -18,7 +18,6 @@ sections:
             style: primary
           - label: Funktionen kennenlernen
             link: pages/functions
-      # TODO: die höhe des abschnitts festlegen können. Hier sollte man mehr vom template zeigen.
 
     - name: content-12
       weight: 2
@@ -28,7 +27,6 @@ sections:
       title: Digitalisierung in der öffentlichen Verwaltung effizient umsetzen
       subtitle: Datensicherheit und Datenschutz
       description: Die Digitalisierung der öffentlichen Verwaltung kann herausfordernd sein. Egal ob Bürgeranfragen, Liegenschaftsverwaltung oder Haushaltsplanung – mit SeaTable wird es einfach!
-      # TODO: PNG mit transparentem Hintergrund!
       items:
           - text: '**Zentralisiertes Datenmanagement:** Alle Infos sicher an einem Ort, immer zugänglich.'
           - text: '**DSGVO-Konformität:** Mit SeaTable behalten Sie volle Kontrolle über sensible Daten. Datenschutz? Erledigt!'
@@ -96,7 +94,6 @@ sections:
       weight: 6
       title: Digitalisierung der Behörden – effiziente Zusammenarbeit zwischen Behördenstellen
       subtitle: Vorteile der behördenübergreifenden Zusammenarbeit mit SeaTable
-      # TODO: subtitle einbauen!
       text: Ein zentraler Aspekt der Digitalisierung in der Verwaltung ist die übergreifende Zusammenarbeit zwischen verschiedenen Behördenstellen. SeaTable ermöglicht eine nahtlose Integration und Kommunikation zwischen unterschiedlichen Abteilungen und Behörden, **ohne die Sicherheit und Vertraulichkeit der Daten zu gefährden**, also Digitalisierung bis in die Kommunen hinein.
       items:
           - headline: 'Gemeinsame Datenbanken'
@@ -124,7 +121,7 @@ sections:
             link: 'pages/product/seatable-server'
 
       # TODO: links werden nicht richtig aufgelöst
-      # die icons werden nicht richtig gemacht.
+      # FIXME: die icons werden nicht richtig gemacht.
 
     - name: form-newsletter
       weight: 8

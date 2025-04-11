@@ -145,7 +145,7 @@ sections:
 
     - name: faq
       weight: 11
-      title: Häufig gestellte Fragen (FAQs)
+      title: Preguntas más frecuentes (FAQ)
       items:
           - q: '¿Es realmente gratuito el uso de SeaTable? ¿Qué incluye la versión gratuita?'
             a: 'SeaTable ofrece una versión gratuita que cubre todas las funciones básicas que necesita para optimizar sus procesos de RRHH. Puede utilizar la plataforma de forma gratuita sin tener que facilitar una tarjeta de crédito. La versión gratuita le permite crear expedientes digitales de personal, gestionar procesos de RRHH, utilizar sistemas de registro de tiempos y mucho más. También tienes acceso a plantillas gratuitas específicas para RRHH que te ayudarán a empezar. Si necesita funciones avanzadas y más espacio de almacenamiento, puede pasar a una de nuestras asequibles versiones premium en cualquier momento'
