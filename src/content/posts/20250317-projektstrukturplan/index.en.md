@@ -3,12 +3,11 @@ title: 'How to create an effective work breakdown structure - template and tips'
 description: 'A work breakdown structure is an efficient method for clearly presenting and structuring complex projects. Here you can find out when you should create a work breakdown structure template, how you can proceed and which tools can help you.'
 date: 2025-03-17
 categories:
-    - 'General'
     - 'Best Practice'
 tags:
-    - 'Projektmanagement'
+    - 'Project Management'
 color: '#67c3c4'
-url: '/projektstrukturplan'
+url: '/projektstrukturplan/'
 ---
 
 ## The work breakdown structure: A structured approach to projects

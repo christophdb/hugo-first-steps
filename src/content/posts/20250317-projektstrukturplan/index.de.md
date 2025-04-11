@@ -3,7 +3,6 @@ title: 'Wie Sie einen effektiven Projektstrukturplan erstellen – Vorlage und T
 description: 'Ein Projektstrukturplan ist eine effiziente Methode, um komplexe Projekte übersichtlich darzustellen und zu strukturieren. Wann Sie eine Projektstrukturplan Vorlage erstellen sollten, wie Sie dabei vorgehen können und welche Tools Sie dabei unterstützen, erfahren Sie hier.'
 date: 2025-03-17
 categories:
-    - 'Allgemein'
     - 'Best Practice'
 tags:
     - 'Projektmanagement'
