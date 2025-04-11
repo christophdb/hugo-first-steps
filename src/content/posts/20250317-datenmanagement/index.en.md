@@ -19,7 +19,7 @@ But why is data management so important for process digitization? And what chall
 
 ## What is data management?
 
-Data management\*\* refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data. The main objectives are:
+**Data management** refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data. The main objectives are:
 
 - Ensure the availability, consistency and quality of data
 - gain valuable insights from the data
@@ -30,7 +30,7 @@ Data management\*\* refers to the entirety of all processes, methods and technol
 
 ### What does data management involve?
 
-Data management\*\* includes a variety of tasks such as identifying, collecting and storing data, data maintenance and analysis as well as certain precautions for data security. These sub-areas are particularly relevant:
+**Data management** includes a variety of tasks such as identifying, collecting and storing data, data maintenance and analysis as well as certain precautions for data security. These sub-areas are particularly relevant:
 
 Everything starts with data capture, collection or generation: while **data capture** means the selective input of data for electronic data processing, **data collection** takes place over a longer period of time. Data generation\*\* refers to the generation and collection of large amounts of data using algorithms.
 
@@ -38,7 +38,7 @@ The task of **data integration** is to merge and harmonize data from different s
 
 For **data analysis**, you evaluate the data using various analysis methods such as statistics, data mining, machine learning or business intelligence in order to identify patterns or trends in the data sets.
 
-Data quality management\*\* aims to improve data quality and ensure that the data is correct, complete, up-to-date and unambiguous.
+**Data quality management** aims to improve data quality and ensure that the data is correct, complete, up-to-date and unambiguous.
 
 If you want to store data for the long term and make it accessible, you can arrange for **data archiving** on high-performance data carriers or in cloud storage. With **metadata management**, you also manage metadata such as the data type or creation date.
 
@@ -133,7 +133,7 @@ In an increasingly digitalized world, data management is not only a technologica
 
 What is data management? |||
 
-Data management\*\* refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data.
+**Data management** refers to the entirety of all processes, methods and technologies that companies use to systematically record, store, analyze and use their data.
 
 ---
 
