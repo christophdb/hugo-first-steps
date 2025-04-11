@@ -5,7 +5,7 @@ date: 2025-03-18
 categories: 
   - "Customer Story"
 tags: 
-  - "Data Management & Visualisation'
+  - 'Data Management & Visualisation'
   - 'Event Management'
   - 'When Excel is no longer sufficient'
 color: "#dc4d51"
