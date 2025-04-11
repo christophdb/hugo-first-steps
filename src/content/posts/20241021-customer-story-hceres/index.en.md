@@ -5,8 +5,9 @@ date: 2024-10-21
 categories: 
   - "Customer Story"
 tags: 
-  - "Datenmanagement / Visualisierung"
-  - "Öffentliche Verwaltung"
+  - 'Data Management & Visualisation'
+  - 'Digital Transformation'
+  - 'Public Sector'
 color: "#fbe337"
 url: "/effektive-datenverwaltung-beim-hceres-mit-seatable"
 ---

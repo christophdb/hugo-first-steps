@@ -5,8 +5,9 @@ date: 2025-03-18
 categories:
     - 'Customer Story'
 tags:
-    - 'Marketingplanung'
-    - 'Toolings  & Plugins'
+    - 'Datenmanagement & Visualisierung'
+    - 'Eventmanagement'
+    - 'Wenn Excel nicht mehr reicht'
 color: '#dc4d51'
 url: '/de/customer-story-red-dot'
 ---

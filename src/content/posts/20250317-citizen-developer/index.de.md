@@ -5,10 +5,10 @@ date: 2025-03-17
 categories:
     - 'No Code / Low Code'
 tags:
-    - 'Digitale Transformation'
     - 'IT Prozesse'
+    - 'Low Code / No Code'
 color: '#50c2d0'
-url: '/de/citizen-developer'
+url: '/de/citizen-developer/'
 ---
 
 ## Citizen Developer: Innovationstreiber für die digitale Transformation

@@ -3,11 +3,11 @@ title: 'Recruiting kompakt: So finden und überzeugen Sie Talente'
 description: 'Ein erfolgreicher Recruiting-Prozess entscheidet darüber, ob Unternehmen zukunftsfähig bleiben oder im Wettbewerb zurückfallen. Erfahren Sie, welche Strategien und Methoden Ihr Recruiting auf das nächste Level heben und wie Sie im umkämpften Arbeitsmarkt die Nase vorn behalten.'
 date: 2025-03-17
 categories:
-    - 'Allgemein'
+    - 'Best Practice'
 tags:
-    - 'Bewerber & Talentmanagement'
+    - 'Bewerber- & Talentmanagement'
 color: '#d4a2ee'
-url: '/de/recruiting'
+url: '/de/recruiting/'
 ---
 
 ## Wie Sie die besten Talente online erreichen

@@ -6,6 +6,7 @@ categories:
     - 'General'
 tags:
     - 'Tools & Plugins'
+    - 'When Excel is no longer sufficient'
 url: '/excel-kostenlos'
 color: '#6d9c70'
 ---
@@ -103,7 +104,7 @@ However, PlanMaker can also score points against Excel in another area: PlanMake
 
 **Sheets** is the spreadsheet web application from Alphabet. It offers an attractive user interface, rich data analysis functions and practical team functions. All you need to get started with Sheets is a **free Google account** - and who doesn't have one? So it's no wonder that many people currently prefer to use Google Sheets as a free replacement for Excel!
 
-Google Sheets is free compared to Excel](Screenshot_Google_Sheets.jpg)
+![Google Sheets is free compared to Excel](Screenshot_Google_Sheets.jpg)
 
 ### Collaborative spreadsheet for the browser
 

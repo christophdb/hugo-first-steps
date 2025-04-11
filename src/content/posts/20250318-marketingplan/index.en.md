@@ -4,9 +4,8 @@ description: 'Marketing teams are rarely short of creative ideas. This makes it 
 date: 2025-03-18
 categories: 
   - "General"
-  - "Best Practice"
 tags: 
-  - "marketing planning"
+  - "Marketing Planning"
 color: "#509dfd"
 url: "/marketingplan"
 ---
@@ -19,7 +18,7 @@ But what actually is a marketing plan? How do you go about it? What marketing pl
 
 ## What is a marketing plan?
 
-A marketing plan is the basis for any effective marketing campaign. Think of it as a roadmap that describes all the necessary measures to address your defined customer groups and achieve your goals. Your plan should serve as a central document containing the current and future marketing activities within a defined period of time, as an important **guide to action for your marketing department** and also for the entire company. This provides your teams with a tool to prioritize, plan and implement measures in a structured manner\*\* and to communicate them consistently to the outside world. Depending on the defined goal and the overarching strategy, marketing plans can include activities across several channels or just for one channel. Examples of marketing plans are
+A marketing plan is the basis for any effective marketing campaign. Think of it as a roadmap that describes all the necessary measures to address your defined customer groups and achieve your goals. Your plan should serve as a central document containing the current and future marketing activities within a defined period of time, as an important **guide to action for your marketing department** and also for the entire company. This provides your teams with a tool to **prioritize, plan and implement measures in a structured manner** and to communicate them consistently to the outside world. Depending on the defined goal and the overarching strategy, marketing plans can include activities across several channels or just for one channel. Examples of marketing plans are
 
 - Social media plan
 - Product marketing plan

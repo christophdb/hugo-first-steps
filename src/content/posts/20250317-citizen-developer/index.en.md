@@ -5,10 +5,10 @@ date: 2025-03-17
 categories:
     - 'No Code / Low Code'
 tags:
-    - 'Digital Transformation'
-    - 'IT Prozesse'
+    - 'Low Code / No Code'
+    - 'IT Processes'
 color: '#50c2d0'
-url: 'citizen-developer'
+url: '/citizen-developer/'
 ---
 
 ## Citizen Developer: innovation driver for the digital transformation

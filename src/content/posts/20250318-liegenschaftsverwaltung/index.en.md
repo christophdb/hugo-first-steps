@@ -5,7 +5,8 @@ date: 2025-03-18
 categories:
     - 'General'
 tags:
-    - 'Public administration'
+    - 'Public Sector'
+    - 'Data Management & Visualisation'
 color: '#c4e8d8'
 url: '/liegenschaftsverwaltung'
 ---
@@ -67,7 +68,7 @@ Property management in the public sector presents a particular challenge, bringi
 
 Responsibility generally lies with the local authority property offices. These offices are responsible for the purchase, sale and letting of municipal properties. They manage and maintain properties that are important both for public purposes and for citizens. Property management in the public sector is faced with the task of combining economic efficiency with the common good.
 
-Unlike private property managers, they must not only work cost-effectively**, but also take social interests into account**. Decision-making processes, such as the sale or conversion of properties, are often lengthy as they are subject to political approval procedures. Added to this is the obligation of transparency, as every decision in the public interest must be comprehensible. These factors make management more difficult and significantly more complex than in the private sector.
+Unlike private property managers, they must not only **work cost-effectively**, but also take **social interests into account**. Decision-making processes, such as the sale or conversion of properties, are often lengthy as they are subject to political approval procedures. Added to this is the obligation of transparency, as every decision in the public interest must be comprehensible. These factors make management more difficult and significantly more complex than in the private sector.
 
 ![Property management in the public sector. The picture shows the entrance to a public building](Liegenschaftsverwaltung-und-oeffentlicher-Dienst.jpg)
 

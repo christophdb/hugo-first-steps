@@ -5,10 +5,11 @@ date: 2025-03-17
 categories:
     - 'General'
 tags:
-    - 'Datenmanagement & Visualisierung'
-    - 'Toolings & Plugins'
+    - 'Data Management & Visualisation'
+    - 'IT Processes'
+    - 'Low Code / No Code'
 color: '#bedeab'
-url: '/datenmanagement'
+url: '/datenmanagement/'
 ---
 
 ## Data management guarantees success
@@ -74,7 +75,7 @@ A concrete example of this is the use of data management in production. Modern p
 Although data management is essential for work and digitalization in companies, it poses the following challenges for many organizations:
 
 1. **Scalability**: In the age of Big Data, a data management system needs to be scalable to keep up with growing data volumes. Only then can you store and use data from a variety of sources such as sensors, cameras or keyboards.
-1. \*\*Data integration: Another problem is the complexity of this data. If you store your data in different systems and formats, you need to merge and harmonize it before you can use it effectively. Especially with large amounts of data from different sources, it can be time-consuming and difficult to create a uniform structure.
+1. **Data integration**: Another problem is the complexity of this data. If you store your data in different systems and formats, you need to merge and harmonize it before you can use it effectively. Especially with large amounts of data from different sources, it can be time-consuming and difficult to create a uniform structure.
 1. **Data utilization:** Collecting data alone does not provide any added value - because this data is not useful until you utilize it. It can take a lot of time and effort to prepare the data in the way you need it for analysis, be it by standardizing data formats, aggregating data sets or removing duplicates. If data management is too time-consuming, no analysis will take place and the potential value of this data will be lost.
 1. **Data quality**: One of the biggest challenges in data management is ensuring data quality. If data is outdated, incomplete or incorrect, it can lead to incorrect analysis and decisions. Continuous data maintenance, in which you update and cleanse the data, is therefore essential.
 1. **Data security and data protection**: Data protection and compliance regulations are multinational and change regularly. As the amount of data collected increases, so does the risk of data protection conflicts. On the one hand, you must ensure that personal data is protected against unauthorized access; on the other hand, you must be able to easily delete the stored data or adapt it to changed usage guidelines.

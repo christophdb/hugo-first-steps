@@ -7,6 +7,7 @@ categories:
     - 'General'
 tags:
     - 'Toolings & plugins'
+    - 'Project Management
 color: '#1eb0e5'
 url: '/agiles-projektmanagement'
 ---
@@ -23,7 +24,7 @@ Various agile tools support you in successfully implementing agile project manag
 
 Agile project management divides complex processes into manageable sections and assigns specific roles, such as Product Owner and Scrum Master. This allows your team to work together in a structured and flexible way. Instead of pursuing a rigid end goal, agile project management focuses on maximizing **customer value and responding quickly to changing requirements**.
 
-The **project is divided into sprints**, each representing short, clear work phases in which you pursue defined tasks and goals. **Plans are continuously put to the test** and can be adapted so quickly that your team can respond flexibly to new developments. **Regular meetings**\*\*\*\* enable effective communication and interim results are presented on an ongoing basis to gather feedback and ensure that the project is meeting needs.
+The **project is divided into sprints**, each representing short, clear work phases in which you pursue defined tasks and goals. **Plans are continuously put to the test** and can be adapted so quickly that your team can respond flexibly to new developments. **Regular meetings** enable effective communication and interim results are presented on an ongoing basis to gather feedback and ensure that the project is meeting needs.
 
 ![5 cornerstones for agile project management](Wie-funktioniert-agiles-Projektmanagement.jpg)
 
@@ -79,7 +80,7 @@ monday.com is an alternative that scores with its customizable workflows and dif
 
 ### Jira
 
-Jira, a product of the Australian company Atlassian, is known for its extensive agile project management functions, which are aimed in particular at agile methods such as Scrum, Kanban and Extreme Programming. Flexibly customizable [workflows]({{< relref "pages/industry-solutions/individual" >}}) make it possible to manage **complex projects in a structured way**. However, due to its diverse options and integrations - especially with other Atlassian products - Jira requires a lot of prior knowledge and **longer familiarization**. The **solution was originally designed for development teams** and even they sometimes struggle to keep track of the complex functions. With **comprehensive reporting and analysis capabilities**, Jira Software is particularly suitable for teams that need detailed insights and statistics. Depending on your needs, you can either use Jira as a cloud version via AWS or host it on your own hardware. Server locations in Dublin and Frankfurt am Main promise GDPR compliance. A **free version** is available for small \*\*teams with up to 10 users, while paid subscriptions start at €7.90 per user/month. As it is not easy to export projects from Jira to other agile project management tools, you should think carefully about using it beforehand. Atlassian naturally wants to prevent you from switching to a Jira alternative at short notice.
+Jira, a product of the Australian company Atlassian, is known for its extensive agile project management functions, which are aimed in particular at agile methods such as Scrum, Kanban and Extreme Programming. Flexibly customizable [workflows]({{< relref "pages/industry-solutions/individual" >}}) make it possible to manage **complex projects in a structured way**. However, due to its diverse options and integrations - especially with other Atlassian products - Jira requires a lot of prior knowledge and **longer familiarization**. The **solution was originally designed for development teams** and even they sometimes struggle to keep track of the complex functions. With **comprehensive reporting and analysis capabilities**, Jira Software is particularly suitable for teams that need detailed insights and statistics. Depending on your needs, you can either use Jira as a cloud version via AWS or host it on your own hardware. Server locations in Dublin and Frankfurt am Main promise GDPR compliance. A **free version is available for small teams with up to 10 users**, while paid subscriptions start at €7.90 per user/month. As it is not easy to export projects from Jira to other agile project management tools, you should think carefully about using it beforehand. Atlassian naturally wants to prevent you from switching to a Jira alternative at short notice.
 
 ### Trello
 
