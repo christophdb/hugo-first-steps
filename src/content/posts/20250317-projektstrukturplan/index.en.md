@@ -1,14 +1,14 @@
 ---
-title: "How to create an effective work breakdown structure - template and tips"
-description: "A work breakdown structure is an efficient method for clearly presenting and structuring complex projects. Here you can find out when you should create a work breakdown structure template, how you can proceed and which tools can help you."
+title: 'How to create an effective work breakdown structure - template and tips'
+description: 'A work breakdown structure is an efficient method for clearly presenting and structuring complex projects. Here you can find out when you should create a work breakdown structure template, how you can proceed and which tools can help you.'
 date: 2025-03-17
-categories: 
-  - "General"
-  - "Best Practice"
-tags: 
-  - "Projektmanagement"
-color: "#67c3c4"
-url: "/projektstrukturplan"
+categories:
+    - 'General'
+    - 'Best Practice'
+tags:
+    - 'Projektmanagement'
+color: '#67c3c4'
+url: '/projektstrukturplan'
 ---
 
 ## The work breakdown structure: A structured approach to projects
@@ -53,7 +53,7 @@ Now it's time for the actual implementation. We will use an office relocation as
 
 In a kick-off workshop with all project participants, you define the project objectives according to the **SMART criteria** (specific, measurable, attractive, realistic, time-bound). Either there is a single objective for the entire project or it must be broken down into sub-projects. In our case, the overarching goal is to move from the previous office to a new office on time.
 
-![A work breakdown structure will help you achieve your goal](Gehen-Sie-Projekte-strukturiert-an.jpg "A work breakdown structure will help you achieve your goal.")
+![A work breakdown structure will help you achieve your goal](Gehen-Sie-Projekte-strukturiert-an.jpg 'A work breakdown structure will help you achieve your goal.')
 
 ### 2\. Define subtasks
 
@@ -115,6 +115,6 @@ You can find the work breakdown structure template [here](https://seatable.io/vo
 
 The concept behind the work breakdown structure sounds simple - but depending on the size of your project, it can quickly become complex and confusing. A work breakdown structure template in a suitable tool will help you to implement your project as efficiently and smoothly as possible.
 
-[Register today](https://seatable.com/registrierung/), start your next project and make it a success with SeaTable's free work breakdown structure template.
+[Register today]({{< relref "pages/registration" >}}), start your next project and make it a success with SeaTable's free work breakdown structure template.
 
 Do you still need a project plan that shows the chronological sequence of project phases or tasks? Then find out here [how to create a classic project plan](https://seatable.io/vorlage/yio4sr0wrcwuv3-1m0zvkg/).

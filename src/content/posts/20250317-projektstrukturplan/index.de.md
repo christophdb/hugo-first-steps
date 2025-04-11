@@ -1,14 +1,14 @@
 ---
-title: "Wie Sie einen effektiven Projektstrukturplan erstellen – Vorlage und Tipps"
-description: "Ein Projektstrukturplan ist eine effiziente Methode, um komplexe Projekte übersichtlich darzustellen und zu strukturieren. Wann Sie eine Projektstrukturplan Vorlage erstellen sollten, wie Sie dabei vorgehen können und welche Tools Sie dabei unterstützen, erfahren Sie hier."
+title: 'Wie Sie einen effektiven Projektstrukturplan erstellen – Vorlage und Tipps'
+description: 'Ein Projektstrukturplan ist eine effiziente Methode, um komplexe Projekte übersichtlich darzustellen und zu strukturieren. Wann Sie eine Projektstrukturplan Vorlage erstellen sollten, wie Sie dabei vorgehen können und welche Tools Sie dabei unterstützen, erfahren Sie hier.'
 date: 2025-03-17
-categories: 
-  - "Allgemein"
-  - "Best Practice"
-tags: 
-  - "Projektmanagement"
-color: "#67c3c4"
-url: "/de/projektstrukturplan"
+categories:
+    - 'Allgemein'
+    - 'Best Practice'
+tags:
+    - 'Projektmanagement'
+color: '#67c3c4'
+url: '/de/projektstrukturplan'
 ---
 
 ## Der Projektstrukturplan: Vorhaben strukturiert angehen
@@ -53,9 +53,7 @@ Jetzt geht es an die konkrete Umsetzung. Hierzu nehmen wir einen Büroumzug als 
 
 In einem Kick-off-Workshop mit allen Projektbeteiligten legen Sie die Projektziele nach den **SMART-Kriterien** (spezifisch, messbar, attraktiv, realistisch, terminiert) fest. Entweder liegt ein einziges Ziel für das gesamte Projekt vor oder es muss in Teilprojekte gegliedert werden. In unserem Fall ist das übergeordnete Ziel, termingerecht vom bisherigen Büro in ein neues Büro umzuziehen.
 
-![Mit einem Projektstrukturplan erreichen Sie Ihr Ziel.](Gehen-Sie-Projekte-strukturiert-an.jpg "Mit einem Projektstrukturplan erreichen Sie Ihr Ziel.")
-
-
+![Mit einem Projektstrukturplan erreichen Sie Ihr Ziel.](Gehen-Sie-Projekte-strukturiert-an.jpg 'Mit einem Projektstrukturplan erreichen Sie Ihr Ziel.')
 
 ### 2\. Teilaufgaben festlegen
 
@@ -117,6 +115,6 @@ Die Projektstrukturplan Vorlage finden Sie [hier](https://seatable.io/vorlage/ij
 
 Das Konzept rund um den Projektstrukturplan klingt simpel – je nach Größe Ihres Projekts kann er jedoch schnell komplex und unübersichtlich werden. Eine Projektstrukturplan Vorlage in einem passenden Tool hilft Ihnen, Ihr Projekt so effizient und reibungslos wie möglich umzusetzen.
 
-[Registrieren Sie sich noch heute](https://seatable.com/registrierung/), starten Sie Ihr nächstes Projekt und führen Sie es mit der kostenlosen Projektstrukturplanung Vorlage von SeaTable zum Erfolg.
+[Registrieren Sie sich noch heute]({{< relref "pages/registration" >}}), starten Sie Ihr nächstes Projekt und führen Sie es mit der kostenlosen Projektstrukturplanung Vorlage von SeaTable zum Erfolg.
 
 Sie benötigen noch einen Projektplan, der die zeitliche Abfolge von Projektphasen oder -aufgaben abbildet? Dann erfahren Sie hier, [wie Sie einen klassischen Projektplan erstellen](https://seatable.io/vorlage/yio4sr0wrcwuv3-1m0zvkg/).

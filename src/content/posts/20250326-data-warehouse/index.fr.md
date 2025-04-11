@@ -126,7 +126,7 @@ Grâce aux **intégrations avec Zapier, Make ou n8n** et à l'API **SeaTable**, 
 
 De plus, vous pouvez choisir d'exploiter votre entrepôt de données [sur site](https://seatable.com/on-premises/) ou dans le [nuage]({{< relref "pages/product/seatable-cloud" >}}). Profitez de l'évolutivité et du confort du **SeaTable Cloud** ou hébergez **SeaTable Server** sur vos propres serveurs avec un contrôle total et la souveraineté des données. Commencez avec la version de base gratuite, que vous pouvez mettre à niveau à tout moment vers un [abonnement Plus ou Enterprise]({{< relref "pages/prices" >}}) dès que vous avez besoin de plus de fonctionnalités ou d'espace de stockage.
 
-[Inscrivez-vous gratuitement](https://seatable.com/registrierung/) et découvrez à quel point l'entreposage de données peut être simple.
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et découvrez à quel point l'entreposage de données peut être simple.
 
 ## FAQ sur le data warehousing
 

@@ -15,21 +15,18 @@ url: '/pt/onboarding-prozess'
 
 A vaga foi finalmente preenchida e começa o processo de integração do seu novo colaborador. O nervosismo é inevitável, especialmente por parte do empregado. Mas você e o departamento de RH também são confrontados com circunstâncias especiais em cada nova contratação e, naturalmente, querem que o processo de integração do empregado decorra sem problemas. Para si, isto significa organizar todos os processos necessários em tempo útil.
 
-   
 A gestão do onboarding refere-se à **familiarização e integração sistemática de novos colaboradores numa empresa**. O objetivo de um conceito de onboarding é proporcionar aos seus novos colaboradores um bom começo na sua empresa e integrá-los na sua estrutura empresarial, tanto a nível profissional como cultural e social.
 
 ## Porque é que um conceito de onboarding estruturado é importante
 
 A integração estruturada de novos funcionários é de importância central para o sucesso e o desenvolvimento a longo prazo da sua empresa. Ajuda os seus novos empregados a **atingir o seu potencial máximo mais rapidamente**, introduzindo-os nas suas novas tarefas de forma segura. A indução e o apoio direcionados farão com que se sintam competentes e produtivos, o que aumentará rapidamente o seu desempenho.
 
-   
 Além disso, um programa de integração bem organizado ajuda a manter os seus **funcionários na empresa a longo prazo**. Isto porque os empregados que se sentem bem integrados e apoiados desde o início têm mais probabilidades de se manterem fiéis à sua empresa. Isto reduz a rotação do pessoal e assegura a retenção de conhecimentos e experiências valiosos na sua empresa.
 
 ![Processo de integração - A imagem mostra um cinto de segurança com a etiqueta "Bem-vindo a bordo". Está pendurado numa parede de tábuas](an-Bord.jpg)
 
 Uma gestão estruturada da integração **promove também a motivação e a satisfação dos novos empregados**. Se eles compreenderem claramente o que se espera deles e como podem contribuir para o sucesso da empresa, a sua satisfação no trabalho aumenta consideravelmente. Além disso, os empregados com boa formação têm gosto em contribuir com os seus conhecimentos internamente e estão dispostos a desenvolver-se mais. Isto cria uma cultura de aprendizagem contínua e de partilha de conhecimentos.
 
-   
 Por último, os trabalhadores satisfeitos e com boa formação têm o prazer de recomendar a sua empresa como um empregador atrativo. **O boca-a-boca positivo e as boas críticas** em plataformas como a Kununu ou a Glassdoor ajudam a reforçar a sua imagem de empregador e a atrair novos talentos.
 
 ## Os 3 níveis de integração
@@ -144,10 +141,9 @@ Com apenas um clique, pode criar uma lista de verificação intuitiva com todas 
 
 No [modelo gratuito](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) do SeaTable, pode agrupar todas as tarefas e informações num único local. Ao atribuir responsabilidades claras, um horizonte temporal e um estado a cada tarefa, pode visualizar claramente o progresso da indução e acompanhá-lo em direto.
 
-   
 Confie num software adequado e assegure-se de que os seus novos empregados se sentem imediatamente bem-vindos e se instalam rapidamente na sua empresa. Para utilizar a [plataforma sem código SeaTable](https://seatable.com/), basta registar-se gratuitamente. Pode então adicionar o modelo à sua base e completá-lo com os seus próprios dados.
 
-[Experimente SeaTable agora gratuitamente](https://seatable.com/registrierung/)
+[Experimente SeaTable agora gratuitamente]({{< relref "pages/registration" >}})
 
 ## Perguntas frequentes
 

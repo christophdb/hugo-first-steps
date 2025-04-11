@@ -96,7 +96,7 @@ O SeaTable também lhe dá a flexibilidade de armazenar os seus dados na [Cloud]
 
 Com o [modelo gratuito da SeaTable](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/), pode gerir facilmente várias propriedades - desde casas de habitação a terrenos e propriedades comerciais. Pode ver rapidamente quais as propriedades que estão arrendadas, quando é que o próximo pagamento de renda deve ser efectuado ou se é necessário um trabalho de manutenção. Pode introduzir dados como a área, o ano de construção e a morada de cada propriedade. Pode ainda guardar fotografias, plantas e certificados de desempenho energético dos imóveis ou gerir contratos digitalmente. A estrutura clara garante que nada se perde e facilita muito o trabalho quotidiano - independentemente de ter uma pequena carteira ou um grande número de propriedades.
 
-Para utilizar o SeaTable, basta registar-se [gratuitamente] (https://seatable.com/registrierung/). Pode então adicionar o modelo à sua base e completá-lo com os seus próprios dados.
+Para utilizar o SeaTable, basta registar-se [gratuitamente] ({{< relref "pages/registration" >}}). Pode então adicionar o modelo à sua base e completá-lo com os seus próprios dados.
 
 ## Perguntas frequentes
 

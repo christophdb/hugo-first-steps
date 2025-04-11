@@ -145,4 +145,4 @@ La technique de réseau est surtout utilisée dans l'approvisionnement et la pro
 
 Décidez de la structure dont votre projet a besoin : Une approche hybride, classique ou agile ? Les dix méthodes de gestion de projet présentées vous donnent un aperçu de la manière dont vous pouvez réaliser votre projet avec succès.
 
-Nous nous ferons un plaisir de vous aider à mettre en œuvre votre méthode de gestion de projet avec SeaTable. [Inscrivez-vous gratuitement dès aujourd'hui](https://seatable.com/registrierung/) et jetez un coup d'œil à nos modèles.
+Nous nous ferons un plaisir de vous aider à mettre en œuvre votre méthode de gestion de projet avec SeaTable. [Inscrivez-vous gratuitement dès aujourd'hui]({{< relref "pages/registration" >}}) et jetez un coup d'œil à nos modèles.

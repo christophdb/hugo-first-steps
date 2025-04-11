@@ -145,4 +145,4 @@ La técnica de planificación en red se utiliza principalmente en aprovisionamie
 
 Decida qué estructura requiere su proyecto: ¿Un enfoque híbrido, clásico o ágil? Los diez métodos de gestión de proyectos que presentamos aquí le darán una idea de cómo puede realizar su proyecto con éxito.
 
-Estaremos encantados de ayudarle a implantar su método de gestión de proyectos con SeaTable. [Regístrese gratis hoy mismo](https://seatable.com/es/registrierung/) y eche un vistazo a nuestras plantillas.
+Estaremos encantados de ayudarle a implantar su método de gestión de proyectos con SeaTable. [Regístrese gratis hoy mismo]({{< relref "pages/registration" >}}) y eche un vistazo a nuestras plantillas.

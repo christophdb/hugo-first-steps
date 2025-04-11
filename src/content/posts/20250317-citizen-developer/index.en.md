@@ -1,18 +1,17 @@
 ---
-title: "Citizen Developer - Gamechanger in digitization?"
-description: "Are customized software solutions for your specific processes in short supply? Then develop your own solutions! Find out in this article how you can use the expertise in your specialist departments and set up efficient digital processes by involving citizen developers in the development process."
+title: 'Citizen Developer - Gamechanger in digitization?'
+description: 'Are customized software solutions for your specific processes in short supply? Then develop your own solutions! Find out in this article how you can use the expertise in your specialist departments and set up efficient digital processes by involving citizen developers in the development process.'
 date: 2025-03-17
-categories: 
-  - "No Code / Low Code"
-tags: 
-  - "Digital Transformation"
-  - "IT Prozesse"
-color: "#50c2d0"
-url: "citizen-developer"
+categories:
+    - 'No Code / Low Code'
+tags:
+    - 'Digital Transformation'
+    - 'IT Prozesse'
+color: '#50c2d0'
+url: 'citizen-developer'
 ---
 
 ## Citizen Developer: innovation driver for the digital transformation
-
 
 **Efficient, digital processes** are the secret to the success of growing companies and are essential to maintaining their competitiveness. All too often, however, IT departments are **unable to provide flexible IT systems and software applications** that can be tailored to the individual needs and requirements of users due to compliance concerns or a lack of capacity. The result: cumbersome processes and frustrated employees who try to help themselves with **shadow IT**. But there is a miracle weapon that can both relieve your IT department and fulfill the wishes of your specialist departments: **Citizen Developer**.
 
@@ -58,7 +57,7 @@ You should always avoid specialist departments using their own shadow IT in secr
 
 1. By relying on Citizen Development, you **decentralize** software development in your company. Instead of relying on an overburdened IT team, departments can now develop their own solutions that are tailored to their needs. Citizen developers can often create functional applications **in less time** and **at a lower cost** than would be possible using traditional methods.
 1. Citizen Developer can eliminate the need to purchase expensive **specialized software**. Citizen Developer tools offer a flexible development environment in which you can map almost any use case. In addition, Citizen Development can contribute to **innovation** and improve the **efficiency** of application development.
-1. Close cooperation** with the business departments is necessary to minimize the distance between the IT department and the operational business. You can achieve this by getting citizen developers on board directly when selecting and developing suitable solutions. In addition, the software applications that your specialist departments develop themselves have a significantly higher **acceptance** among employees.
+1. Close cooperation** with the business departments is necessary to minimize the distance between the IT department and the operational business. You can achieve this by getting citizen developers on board directly when selecting and developing suitable solutions. In addition, the software applications that your specialist departments develop themselves have a significantly higher **acceptance\*\* among employees.
 1. Managing and coaching Citizen Developers can open up new capacities and relieve **your IT department** without you having to hire additional software developers. This allows you to counter the increasing shortage of IT specialists. However, the prerequisite for this is that you can enable existing employees to develop **customized software solutions** for their use cases with relatively little effort. If Citizen Developers even answer support requests for the software applications they have helped to develop themselves, your IT department will have much more **room for strategic projects**.
 
 ### The advantages of Citizen Development at a glance
@@ -71,7 +70,7 @@ You should always avoid specialist departments using their own shadow IT in secr
 - cross-departmental collaboration
 - Avoidance of shadow IT
 
-![Citizen developers see development through a different lens](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg "Citizen developers see development through a different lens.")
+![Citizen developers see development through a different lens](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg 'Citizen developers see development through a different lens.')
 
 ## 6 skills that characterize a Citizen Developer
 
@@ -90,7 +89,7 @@ As they usually have little programming knowledge, citizen developers rely on lo
 
 However, these development environments must be so **flexible** that the citizen developers can tailor the software to the individual business processes and requirements in their respective departments. No-code platforms [such as SeaTable](https://seatable.com/) are particularly suitable for this. Citizen developers can use these to make the necessary changes and adaptations quickly and easily. You should also opt for Citizen Developer tools that ensure transparent **collaboration** and adherence to **compliance guidelines** (e.g. GDPR).
 
-Make your life easy and provide your Citizen Developers with a no-code platform with integrated app builder: SeaTable gives you everything you need to develop efficient processes. [Register for free](https://seatable.com/registrierung/) with your email address and get started right away!
+Make your life easy and provide your Citizen Developers with a no-code platform with integrated app builder: SeaTable gives you everything you need to develop efficient processes. [Register for free]({{< relref "pages/registration" >}}) with your email address and get started right away!
 
 ## Success factors for Citizen Development
 

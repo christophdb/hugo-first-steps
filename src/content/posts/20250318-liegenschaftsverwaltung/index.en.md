@@ -96,7 +96,7 @@ SeaTable also offers you the flexibility to store your data either in the [Cloud
 
 With the [free template from SeaTable](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/) you can easily manage multiple properties - from residential houses to land and commercial properties. You can see at a glance which properties are rented, when the next rent payment is due or whether a maintenance job is due. You can enter data such as area, year of construction and address for each property. You can even store photos, floor plans and energy performance certificates for the properties or manage contracts digitally. The clear structure ensures that nothing gets lost and makes day-to-day business much easier - regardless of whether you have a small portfolio or a large number of properties.
 
-To use SeaTable, all you need to do is register [free of charge](https://seatable.com/registrierung/). You can then add the template to your base and complete it with your own data.
+To use SeaTable, all you need to do is register [free of charge]({{< relref "pages/registration" >}}). You can then add the template to your base and complete it with your own data.
 
 ## Frequently asked questions
 

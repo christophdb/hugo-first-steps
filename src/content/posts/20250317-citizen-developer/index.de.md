@@ -1,21 +1,20 @@
 ---
-title: "Citizen Developer – Gamechanger in der Digitalisierung?"
-description: "Maßgeschneiderte Software-Lösungen für Ihre speziellen Prozesse sind Mangelware? Dann entwickeln Sie doch eigene Lösungen! Erfahren Sie in diesem Artikel, wie Sie das Know-how in Ihren Fachabteilungen nutzen und effiziente digitale Prozesse aufsetzen, indem Sie Citizen Developer an der Entwicklung beteiligen."
+title: 'Citizen Developer – Gamechanger in der Digitalisierung?'
+description: 'Maßgeschneiderte Software-Lösungen für Ihre speziellen Prozesse sind Mangelware? Dann entwickeln Sie doch eigene Lösungen! Erfahren Sie in diesem Artikel, wie Sie das Know-how in Ihren Fachabteilungen nutzen und effiziente digitale Prozesse aufsetzen, indem Sie Citizen Developer an der Entwicklung beteiligen.'
 date: 2025-03-17
-categories: 
-  - "No Code / Low Code"
-tags: 
-  - "Digitale Transformation"
-  - "IT Prozesse"
-color: "#50c2d0"
-url: "/de/citizen-developer"
+categories:
+    - 'No Code / Low Code'
+tags:
+    - 'Digitale Transformation'
+    - 'IT Prozesse'
+color: '#50c2d0'
+url: '/de/citizen-developer'
 ---
 
 ## Citizen Developer: Innovationstreiber für die digitale Transformation
 
 **Effiziente, digitale Abläufe** sind das Erfolgsgeheimnis wachsender Unternehmen und für den Erhalt ihrer Wettbewerbsfähigkeit unabdingbar. Allzu oft können IT-Abteilungen aber aufgrund von Compliance-Bedenken oder fehlenden Kapazitäten **keine flexiblen IT-Systeme und Software-Anwendungen** bereitstellen, die sich auf die individuellen Bedürfnisse und Anforderungen der Benutzer zuschneiden lassen. Die Folge: Umständliche Prozesse und frustrierte Mitarbeiter, die sich mit **Schatten-IT** selbst zu helfen versuchen. Dabei gibt es eine Wunderwaffe, um sowohl Ihre IT-Abteilung zu entlasten als auch die Wünsche Ihrer Fachabteilungen zu erfüllen: **Citizen Developer**.
 
-  
 Erfahren Sie in diesem Artikel, wie Sie das **Know-how in Ihren Fachabteilungen** nutzen und Schatten IT vermeiden, indem Sie Citizen Developer an der Schnittstelle zur IT einsetzen.
 
 ## Was ist ein Citizen Developer?
@@ -71,7 +70,7 @@ Dass Fachabteilungen im Verborgenen und ohne Einverständnis der IT-Abteilung ei
 - abteilungsübergreifende Zusammenarbeit
 - Vermeidung von Schatten IT
 
-![Citizen Developer sehen die Entwicklung durch eine andere Brille](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg "Citizen Developer sehen die Entwicklung durch eine andere Brille.")
+![Citizen Developer sehen die Entwicklung durch eine andere Brille](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg 'Citizen Developer sehen die Entwicklung durch eine andere Brille.')
 
 ## 6 Fähigkeiten, die einen Citizen Developer auszeichnen
 
@@ -90,7 +89,7 @@ Da sie meist kaum Programmierkenntnisse besitzen, greifen Citizen Developer auf 
 
 Diese Entwicklungsumgebungen müssen allerdings so **flexibel** sein, dass die Citizen Developer die Software auf die individuellen Geschäftsprozesse und Anforderungen in ihrem jeweiligen Fachbereich zuschneiden können. Insbesondere eignen sich dafür [No-Code-Plattformen wie beispielsweise SeaTable](https://seatable.com/). Mit diesen können die Citizen Developer erforderliche Änderungen und Anpassungen schnell und unkompliziert vornehmen. Des Weiteren sollten Sie sich für Citizen Developer Tools entscheiden, die eine transparente **Zusammenarbeit** und die Einhaltung von **Compliance-Richtlinien** (zum Beispiel die DSGVO) gewährleisten.
 
-Machen Sie sich das Leben leicht und stellen Sie Ihren Citizen Developern eine No-Code-Plattform mit integriertem App-Builder zur Verfügung: SeaTable bietet Ihnen alles, was Sie für die Entwicklung effizienter Prozesse benötigen. [Registrieren Sie sich kostenlos](https://seatable.com/registrierung/) mit Ihrer E-Mail-Adresse und legen Sie direkt los!
+Machen Sie sich das Leben leicht und stellen Sie Ihren Citizen Developern eine No-Code-Plattform mit integriertem App-Builder zur Verfügung: SeaTable bietet Ihnen alles, was Sie für die Entwicklung effizienter Prozesse benötigen. [Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse und legen Sie direkt los!
 
 ## Erfolgsfaktoren für Citizen Development
 

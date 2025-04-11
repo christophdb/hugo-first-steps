@@ -1,12 +1,12 @@
 ---
-title: "Portfolio management: How to keep track of your portfolio at all times"
-description: "Project portfolio management, product portfolio management or IT portfolio management: no matter what you are creating a portfolio for and how large the portfolio is that you want to keep an eye on - in this article you will learn how to manage your portfolio successfully."
+title: 'Portfolio management: How to keep track of your portfolio at all times'
+description: 'Project portfolio management, product portfolio management or IT portfolio management: no matter what you are creating a portfolio for and how large the portfolio is that you want to keep an eye on - in this article you will learn how to manage your portfolio successfully.'
 date: 2025-03-27
-categories: 
-  - "General"
-tags: 
-color: "#bba9d3"
-url: "/portfoliomanagement"
+categories:
+    - 'General'
+tags:
+color: '#bba9d3'
+url: '/portfoliomanagement'
 ---
 
 ## What is portfolio management?
@@ -37,8 +37,8 @@ Portfolio management offers you numerous advantages in all areas.
 
 ## Project portfolio management
 
-Project portfolio management (PPM) is responsible for the **overarching management, planning and control of all projects** that are interrelated within a company. Above all, it aims to ensure that resources are optimally distributed and projects are prioritized in such a way that they best support the company's strategic goals. Project portfolio management is therefore a permanent task that is repeated cyclically and requires the evaluation of many projects. This is the biggest difference to normal [project management](https://seatable.com/projektmanagement-tools/), which usually ends with the completion of individual projects.  
-  
+Project portfolio management (PPM) is responsible for the **overarching management, planning and control of all projects** that are interrelated within a company. Above all, it aims to ensure that resources are optimally distributed and projects are prioritized in such a way that they best support the company's strategic goals. Project portfolio management is therefore a permanent task that is repeated cyclically and requires the evaluation of many projects. This is the biggest difference to normal [project management](https://seatable.com/projektmanagement-tools/), which usually ends with the completion of individual projects.
+
 **Note**: In larger companies and public authorities, there is often a separate department for project portfolio management: the **Project Management Office (PMO)**.
 
 ### Important tasks and steps in project portfolio management
@@ -55,8 +55,8 @@ Portfolio management makes it easy to compare, analyze and evaluate current, pla
 
 You can also use a **scoring model** to carry out a strategic evaluation of projects based on weighted criteria. This could look as follows:
 
-![Strategic Scoring Model for Portfolio Management](Strategic-Scoring-Model.jpg "Multiply the priority of the objective by the factor of how much you think the project contributes to the objective. If you add up the results across all objectives, you get the strategic score of the project. This allows you to compare how important different projects are for your company.")
-  
+![Strategic Scoring Model for Portfolio Management](Strategic-Scoring-Model.jpg 'Multiply the priority of the objective by the factor of how much you think the project contributes to the objective. If you add up the results across all objectives, you get the strategic score of the project. This allows you to compare how important different projects are for your company.')
+
 You can also combine monetary and non-monetary analysis methods, for example in a **balanced scorecard**, to find out which projects are both financially worthwhile and contribute strategically to achieving the company's goals. Equally popular in this context is the **cost-benefit analysis**.
 
 #### 3\. Resource allocation and prioritization of projects
@@ -119,7 +119,7 @@ Product portfolio management, just like project portfolio management, is a **dyn
 
 ## IT portfolio management
 
-IT portfolio management** (also known as IT asset management) offers the opportunity to manage a company's IT assets systematically and with foresight. The IT portfolio can be divided into three asset categories:
+IT portfolio management\*\* (also known as IT asset management) offers the opportunity to manage a company's IT assets systematically and with foresight. The IT portfolio can be divided into three asset categories:
 
 1. **Software**: all software applications, operating systems and tools used
 1. **Hardware & infrastructure**: all devices, networks, servers and cloud services
@@ -133,7 +133,7 @@ IT portfolio management should optimize these assets so that they best support t
 
 First of all, you should record all IT assets in your company and classify them into the categories mentioned above. As with the previous types of portfolio management, it is helpful to record additional data such as the cost or value of IT assets as part of the inventory. In addition, IT assets usually have a limited life cycle: for example, clarify when software licenses expire and what condition the hardware is in in order to gain a complete **overview of the IT portfolio**.
 
-![Hardware in IT portfolio management](Hardware-im-IT-Portfoliomanagement.jpg "Hardware is an asset category in the IT portfolio.")
+![Hardware in IT portfolio management](Hardware-im-IT-Portfoliomanagement.jpg 'Hardware is an asset category in the IT portfolio.')
 
 #### 2\. Evaluation and prioritization
 
@@ -145,7 +145,7 @@ Regularly review your IT portfolio to ensure it stays on track and meets busines
 
 ## Portfolio management in the financial sector
 
-In the financial sector, portfolio management consists of managing and optimizing investments and assets in a portfolio. This involves **financial investments such as shares, bonds, funds, real estate or precious metals**. The aim of portfolio management is to make a strategic selection of assets in order to achieve the highest possible return** while minimizing risk through **balanced diversification**.
+In the financial sector, portfolio management consists of managing and optimizing investments and assets in a portfolio. This involves **financial investments such as shares, bonds, funds, real estate or precious metals**. The aim of portfolio management is to make a strategic selection of assets in order to achieve the highest possible return** while minimizing risk through **balanced diversification\*\*.
 
 ![Portfolio management in the financial sector](Finanzportfoliomanagement.jpg)
 
@@ -153,7 +153,7 @@ In actively managed portfolios, the aim is to outperform the market rate of retu
 
 ### Real estate portfolio management
 
-Whether you are a private owner, a company or a municipal housing association: if you own a large number of buildings and properties, it is not easy to keep track of all the properties, rents and renovation measures**. To make your real estate portfolio management as easy as possible, you can use SeaTable's free template.
+Whether you are a private owner, a company or a municipal housing association: if you own a large number of buildings and properties, it is not easy to keep track of all the properties, rents and renovation measures\*\*. To make your real estate portfolio management as easy as possible, you can use SeaTable's free template.
 
 {{< template id="6f9a2b4869804608978c" >}}
 
@@ -165,4 +165,4 @@ Further information can be found either in the article [Property management](htt
 
 Whether project, product, IT or financial portfolio management - they all aim to manage a **portfolio profitably**. But depending on the size of your portfolio, this is not so easy. With SeaTable's free and user-friendly templates, you always have a strategic overview and all the data you need for well-founded analyses and decisions at your fingertips.
 
-Would you like to use SeaTable as a portfolio management tool? Then [register today](https://seatable.com/registrierung/) for free with your e-mail address.
+Would you like to use SeaTable as a portfolio management tool? Then [register today]({{< relref "pages/registration" >}}) for free with your e-mail address.

@@ -1,32 +1,32 @@
 ---
-title: "The ultimate guide to successful onboarding"
-description: "Well thought-out onboarding is the key to a successful start for new employees. With clearly defined processes, you can ensure that new team members quickly find their feet and become productive. In this article, you will learn how to create and successfully implement a structured onboarding concept."
+title: 'The ultimate guide to successful onboarding'
+description: 'Well thought-out onboarding is the key to a successful start for new employees. With clearly defined processes, you can ensure that new team members quickly find their feet and become productive. In this article, you will learn how to create and successfully implement a structured onboarding concept.'
 date: 2025-03-24
-categories: 
-  - "General"
-  - "Best Practice"
-tags: 
-  - "onboarding"
-color: "#d0e4e9"
-url: "/onboarding-prozess"
+categories:
+    - 'General'
+    - 'Best Practice'
+tags:
+    - 'onboarding'
+color: '#d0e4e9'
+url: '/onboarding-prozess'
 ---
 
 ## Optimize your onboarding process
 
-The vacancy has finally been filled and the onboarding process for your new employee begins. Nervousness is inevitable, especially on the part of the employee. But you and the HR department are also confronted with special circumstances with every new hire and naturally want the employee onboarding to go smoothly. For you, this means initiating all the necessary processes in good time.  
-   
+The vacancy has finally been filled and the onboarding process for your new employee begins. Nervousness is inevitable, especially on the part of the employee. But you and the HR department are also confronted with special circumstances with every new hire and naturally want the employee onboarding to go smoothly. For you, this means initiating all the necessary processes in good time.
+
 Onboarding management refers to **the systematic induction and integration of new employees into a company**. The aim of an onboarding concept is to give your new employees a good start in your company and to integrate them into your corporate structure both professionally and culturally and socially.
 
 ## Why a structured onboarding concept is important
 
-Structured onboarding of new employees is of central importance for the success and long-term development of your company. It helps your new employees **achieve their full potential faster** by introducing them safely to their new tasks. Targeted induction and support makes them feel competent and productive, which quickly boosts their performance.  
-   
+Structured onboarding of new employees is of central importance for the success and long-term development of your company. It helps your new employees **achieve their full potential faster** by introducing them safely to their new tasks. Targeted induction and support makes them feel competent and productive, which quickly boosts their performance.
+
 In addition, a well-organized onboarding program helps to keep your **employees in the company in the long term**. This is because employees who feel well integrated and supported from the outset are more likely to remain loyal to your company. This reduces turnover and ensures that valuable knowledge and experience is retained in your company.
 
 ![Onboarding process - The picture shows a life belt with the inscription Welcome On Board. It hangs on a plank wall](an-Bord.jpg)
 
-Structured onboarding management **also promotes the motivation and satisfaction of new employees**. If they clearly understand what you expect of them and how they can contribute to the success of the company, their job satisfaction increases considerably. In addition, well-trained employees are happy to contribute their knowledge internally and are willing to develop themselves further. This creates a culture of continuous learning and knowledge sharing.  
-   
+Structured onboarding management **also promotes the motivation and satisfaction of new employees**. If they clearly understand what you expect of them and how they can contribute to the success of the company, their job satisfaction increases considerably. In addition, well-trained employees are happy to contribute their knowledge internally and are willing to develop themselves further. This creates a culture of continuous learning and knowledge sharing.
+
 Finally, satisfied and well-trained employees are happy to recommend their company as an attractive employer. **Positive word of mouth and good reviews** on platforms such as Kununu or Glassdoor help to strengthen your employer image and attract new talent.
 
 ## The 3 levels of onboarding
@@ -138,12 +138,12 @@ With SeaTable's free template, you can design your onboarding process so efficie
 With just one click, you can create an intuitive checklist with all upcoming tasks for each new employee, so that everyone knows exactly what needs to be done. To avoid chaos and paperwork, you can store all important documents directly in the spreadsheet and have them digitally signed.
 
 {{< template id="89db2f0bd28d41f19c01" height="500" >}}
-  
-In the [free template](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) from SeaTable, you can bundle all tasks and information in one place. By assigning clear responsibilities as well as a time horizon and status to each to-do, you can clearly visualize the progress of the training and track it live.  
-   
+
+In the [free template](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) from SeaTable, you can bundle all tasks and information in one place. By assigning clear responsibilities as well as a time horizon and status to each to-do, you can clearly visualize the progress of the training and track it live.
+
 Rely on suitable software and ensure that your new employees feel immediately welcome and quickly settle into your company. To use the [no-code platform SeaTable](https://seatable.com/), all you need to do is register free of charge. You can then add the template to your base and complete it with your own data.
 
-[Try SeaTable now for free](https://seatable.com/registrierung/)
+[Try SeaTable now for free]({{< relref "pages/registration" >}})
 
 ## Frequently asked questions
 
@@ -151,8 +151,7 @@ Rely on suitable software and ensure that your new employees feel immediately we
 
 Why is a structured onboarding process important?|||
 
-A structured onboarding process helps new employees to settle into their role more quickly, to integrate professionally and socially and to work with motivation. This not only boosts productivity, but also increases employee loyalty and reduces the staff turnover rate.
----
+## A structured onboarding process helps new employees to settle into their role more quickly, to integrate professionally and socially and to work with motivation. This not only boosts productivity, but also increases employee loyalty and reduces the staff turnover rate.
 
 What should be included in a good onboarding concept?|||
 
@@ -169,11 +168,11 @@ Feedback meetings and regular evaluations help to improve the process. With digi
 What are the phases of a typical onboarding process?|||
 
 A typical onboarding process consists of:
-  
-- **Preparation phase (preboarding)**: Contract signing until the first working day.  
-- Orientation phase**: First three months in the company.  
-- **Integration phase**: Three to twelve months after starting.  
-  
+
+- **Preparation phase (preboarding)**: Contract signing until the first working day.
+- Orientation phase\*\*: First three months in the company.
+- **Integration phase**: Three to twelve months after starting.
+
 Each phase focuses on different tasks and objectives, e.g. organizational preparation, introduction and long-term integration.
 
 ---

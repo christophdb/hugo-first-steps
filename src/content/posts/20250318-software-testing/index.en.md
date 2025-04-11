@@ -1,16 +1,16 @@
 ---
-title: "Effective software testing: How to optimize troubleshooting"
-description: "All software has its pitfalls - but only those who find them can fix them. Software testing uncovers hidden errors and ensures that ideas become mature products. Find out here how tests make your application more stable and why they are essential for successful projects."
+title: 'Effective software testing: How to optimize troubleshooting'
+description: 'All software has its pitfalls - but only those who find them can fix them. Software testing uncovers hidden errors and ensures that ideas become mature products. Find out here how tests make your application more stable and why they are essential for successful projects.'
 date: 2025-03-18
-categories: 
-  - "General"
-  - "Best Practice"
-tags: 
-  - "IT processes"
-  - "Collaborative working"
-  - "Toolings & Plugins"
-color: "#79b9e9"
-url: "/software-testing"
+categories:
+    - 'General'
+    - 'Best Practice'
+tags:
+    - 'IT processes'
+    - 'Collaborative working'
+    - 'Toolings & Plugins'
+color: '#79b9e9'
+url: '/software-testing'
 ---
 
 ## The key to reliable applications
@@ -44,7 +44,7 @@ In the software testing concept, there are different types of system tests, each
 - **Acceptance testing**: Acceptance testing, often referred to as user acceptance testing (UAT), tests the software from the end user's or customer's perspective. The aim is to ensure that your product meets the requirements and expectations and is ready for use.
 - **Performance testing**: In this type of software testing, you check the performance of the application under various conditions, such as high utilization. This allows you to identify bottlenecks and ensure that the software remains stable and responsive.
 - **Smoke tests**: A smoke test is a short test run to determine if the basic functions of your software are working. You carry out this software test to identify and eliminate critical errors before starting further tests.  
-    
+
 
 ![Test software and create data analysis](Kunden-langfristig-zufrieden-sind.jpg)
 
@@ -96,13 +96,13 @@ If you are looking for a comprehensive solution that cleverly combines software 
 
 With the Kanban view, your team **easily keeps track of upcoming tasks**. You can immediately see which bugs are in the pipeline, what priority they have and who is working on the solution. More efficient collaboration and transparent processes mean less time spent and fewer misunderstandings.
 
-Another advantage of this template is the versions table, which allows you to link the fixed bugs to specific software versions. This means you always have traceable documentation** of when and with which version an improvement or bug fix came into effect - valuable for long-term quality assurance and internal audits.
+Another advantage of this template is the versions table, which allows you to link the fixed bugs to specific software versions. This means you always have traceable documentation\*\* of when and with which version an improvement or bug fix came into effect - valuable for long-term quality assurance and internal audits.
 
 The Tree plugin also provides an **intuitive overview of the structure and links of your software tests and bugs**. Even with extensive projects, you retain control and navigate easily through your data. Linked entries can be called up quickly, which makes it much easier to find your way around complex test scenarios.
 
 With SeaTable, you create a central point of contact to deliver a reliable and high-performance product. Use the free bug tracker to save you and your team valuable time while ensuring the highest software quality. The result? A smooth testing process and satisfied users who benefit from stable and powerful software.
 
-[Register for free today](https://seatable.com/registrierung/) at SeaTable and see for yourself how easy and clear software testing and bug tracking can be.
+[Register for free today]({{< relref "pages/registration" >}}) at SeaTable and see for yourself how easy and clear software testing and bug tracking can be.
 
 ## Frequently asked questions
 
@@ -116,13 +116,13 @@ Software testing is crucial to identify and fix bugs and vulnerabilities early o
 
 What software testing methods are there? |||
 
-There are various methods for thoroughly testing software. The most common are  
+There are various methods for thoroughly testing software. The most common are
 
-- **Unit tests**: Test individual functions or methods.  
-- **Integration tests**: Check the interaction of different components.  
-- **Function tests**: Simulate the behavior of users to check correct functioning.  
-- **End-to-End-Tests**: Test the entire user journey.  
-- **Performance tests**: Check performance under load.  
+- **Unit tests**: Test individual functions or methods.
+- **Integration tests**: Check the interaction of different components.
+- **Function tests**: Simulate the behavior of users to check correct functioning.
+- **End-to-End-Tests**: Test the entire user journey.
+- **Performance tests**: Check performance under load.
 - **Acceptance tests**: Confirm that the product meets user requirements.
 
 ---

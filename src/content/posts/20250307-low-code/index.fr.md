@@ -138,7 +138,7 @@ D'autre part, SeaTable propose un **No Code App Builder** qui vous permet de con
 
 De plus, SeaTable permet de créer facilement des automatisations qui vous évitent de cliquer manuellement sur les mêmes processus tout en minimisant les risques d'erreur liés aux activités monotones. Pour les processus automatisés avec plusieurs sources de données, vous pouvez également intégrer SeaTable à des plateformes d'automatisation telles que Zapier, make ou n8n.
 
-Vous êtes déjà enthousiaste et souhaitez vous faire votre propre idée ? Alors [inscrivez-vous gratuitement](https://seatable.com/registrierung/) au cloud SeaTable et essayez SeaTable pour une durée illimitée.
+Vous êtes déjà enthousiaste et souhaitez vous faire votre propre idée ? Alors [inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) au cloud SeaTable et essayez SeaTable pour une durée illimitée.
 
 ## Conclusion : réussir avec No Code et Low Code
 

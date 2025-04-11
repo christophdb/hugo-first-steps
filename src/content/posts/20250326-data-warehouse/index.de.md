@@ -126,7 +126,7 @@ SeaTable ist eine [No-Code-Plattform](https://seatable.com/), die gegenüber and
 
 Noch dazu haben Sie die Wahl, ob Sie Ihr Datawarehouse [On-Premises]({{< relref "pages/product/seatable-server" >}}) oder in der [Cloud]({{< relref "pages/product/seatable-cloud" >}}) betreiben möchten. Profitieren Sie von der Skalierbarkeit und dem Komfort der **SeaTable Cloud** oder hosten Sie **SeaTable Server** unter voller Kontrolle und Datenhoheit auf Ihren eigenen Servern. Starten Sie mit der kostenlosen Basis-Version, die Sie jederzeit auf ein [Plus- oder Enterprise-Abo]({{< relref "pages/prices" >}}) upgraden können, sobald Sie mehr Funktionen oder Speicherplatz benötigen.
 
-[Registrieren Sie sich kostenlos](https://seatable.com/registrierung/) und erleben Sie, wie einfach Data Warehousing sein kann.
+[Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) und erleben Sie, wie einfach Data Warehousing sein kann.
 
 ## FAQs zum Data Warehousing
 

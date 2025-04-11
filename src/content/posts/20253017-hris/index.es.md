@@ -1,6 +1,6 @@
 ---
 title: 'SIRH - qué es y cómo beneficia a su organización'
-description: "Hoy en día es prácticamente imposible gestionar eficazmente los RRHH sin un SIRH (Sistema de Información de Recursos Humanos), al menos si su organización ha alcanzado cierto tamaño. En este artículo, examinamos la diferencia entre un sistema de información de recursos humanos (SIRH) y un sistema de gestión de recursos humanos (SGRH) y analizamos cómo puede hacer que su gestión de recursos humanos sea más eficiente con un software que incluya una base de datos de recursos humanos."
+description: 'Hoy en día es prácticamente imposible gestionar eficazmente los RRHH sin un SIRH (Sistema de Información de Recursos Humanos), al menos si su organización ha alcanzado cierto tamaño. En este artículo, examinamos la diferencia entre un sistema de información de recursos humanos (SIRH) y un sistema de gestión de recursos humanos (SGRH) y analizamos cómo puede hacer que su gestión de recursos humanos sea más eficiente con un software que incluya una base de datos de recursos humanos.'
 date: 2025-03-17
 categories:
     - 'General'
@@ -124,4 +124,4 @@ A continuación, puede ampliar su base de datos de RR.HH. con las tablas y funci
 
 Además de las funciones de un HRIS, también puede utilizar SeaTable para implementar la contratación, la gestión de candidatos y la incorporación. Incluso el desarrollo del personal y la formación pueden organizarse en SeaTable. Como base de datos de RRHH alemana, SeaTable cumple con los más altos estándares de protección de datos (GDPR) y almacena todos los datos de forma segura en centros de datos alemanes. Así que cuesta creer que este completo software de gestión de RRHH sea gratuito.
 
-[Regístrese hoy mismo](https://seatable.com/registrierung/) y descubra nuestras plantillas gratuitas para gestores de RRHH.
+[Regístrese hoy mismo]({{< relref "pages/registration" >}}) y descubra nuestras plantillas gratuitas para gestores de RRHH.

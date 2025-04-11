@@ -121,7 +121,7 @@ Unlike other relational databases, SeaTable's **graphical user interface** allow
 
 With the **no-code app builder** from SeaTable, you can build your own apps without any programming knowledge and thus control access to the data in your database precisely. For the app design, there are ready-made page types with visual elements that you can simply drag and drop together.
 
-SeaTable gives you the freedom to choose between the convenience of a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}) and the data sovereignty you enjoy with a self-hosted system. Are your ears pricked right now? Then [register for free](https://seatable.com/registrierung/) and try out the SeaTable Cloud for an unlimited time.
+SeaTable gives you the freedom to choose between the convenience of a [cloud solution]({{< relref "pages/product/seatable-cloud" >}}) and the data sovereignty you enjoy with a self-hosted system. Are your ears pricked right now? Then [register for free]({{< relref "pages/registration" >}}) and try out the SeaTable Cloud for an unlimited time.
 
 ## Drive digitalization forward in your company
 

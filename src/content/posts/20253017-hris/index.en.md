@@ -124,4 +124,4 @@ You can then expand your HR database with additional tables and functions as you
 
 In addition to the functions of an HRIS, you can also use SeaTable to implement recruiting, applicant management and onboarding. Even personnel development and training can be organized in SeaTable. As a German HR database, SeaTable meets the highest data protection standards (GDPR) and stores all data securely in German data centers. So it's hard to believe that this fully-fledged HR management software is free.
 
-[Register today](https://seatable.com/registrierung/) and discover our free templates for HR managers!
+[Register today]({{< relref "pages/registration" >}}) and discover our free templates for HR managers!

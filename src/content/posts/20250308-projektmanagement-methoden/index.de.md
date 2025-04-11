@@ -145,4 +145,4 @@ Die Netzplantechnik findet vor allem Anwendung in der Beschaffung und Produktion
 
 Entscheiden Sie, welche Struktur Ihr Projekt benötigt: Einen hybriden, klassischen oder agilen Ansatz? Die zehn vorgestellten Methoden des Projektmanagements geben Ihnen einen Einblick, wie Sie Ihr Projekt erfolgreich verwirklichen können.
 
-Gerne helfen wir Ihnen dabei, Ihre Projektmanagement-Methode mit SeaTable umzusetzen. [Registrieren Sie sich noch heute kostenlos](https://seatable.com/registrierung/) und werfen Sie einen Blick auf unsere Templates.
+Gerne helfen wir Ihnen dabei, Ihre Projektmanagement-Methode mit SeaTable umzusetzen. [Registrieren Sie sich noch heute kostenlos]({{< relref "pages/registration" >}}) und werfen Sie einen Blick auf unsere Templates.

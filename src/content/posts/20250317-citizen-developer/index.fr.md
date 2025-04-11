@@ -1,21 +1,20 @@
 ---
-title: "Citizen Developer - Gamechanger dans la numérisation ?"
-description: "Les solutions logicielles sur mesure pour vos processus spécifiques sont rares ? Alors, développez vos propres solutions ! Découvrez dans cet article comment utiliser le savoir-faire au sein de vos départements spécialisés et mettre en place des processus numériques efficaces en impliquant des Citizen Developers dans le développement"
+title: 'Citizen Developer - Gamechanger dans la numérisation ?'
+description: 'Les solutions logicielles sur mesure pour vos processus spécifiques sont rares ? Alors, développez vos propres solutions ! Découvrez dans cet article comment utiliser le savoir-faire au sein de vos départements spécialisés et mettre en place des processus numériques efficaces en impliquant des Citizen Developers dans le développement'
 date: 2025-03-17
-categories: 
-  - "No Code / Low Code"
-tags: 
-  - "Transformation digital"
-  - "Processus informatiques"
-color: "#50c2d0"
-url: "/fr/citizen-developer"
+categories:
+    - 'No Code / Low Code'
+tags:
+    - 'Transformation digital'
+    - 'Processus informatiques'
+color: '#50c2d0'
+url: '/fr/citizen-developer'
 ---
 
 ## Citizen Developer : moteur d'innovation pour la transformation numérique
 
-**Des processus numériques efficaces** sont le secret de la réussite des entreprises en pleine croissance et sont indispensables au maintien de leur compétitivité. Mais trop souvent, les départements informatiques ne peuvent pas fournir de systèmes informatiques et d'applications logicielles flexibles** qui s'adaptent aux besoins et exigences individuels des utilisateurs, en raison de problèmes de conformité ou de capacités insuffisantes. Résultat : des processus compliqués et des collaborateurs frustrés qui tentent de s'aider eux-mêmes avec **l'informatique de l'ombre**. Il existe pourtant une arme miracle qui permet à la fois de décharger votre service informatique et de répondre aux souhaits de vos départements spécialisés : **Citizen Developer**.
+**Des processus numériques efficaces** sont le secret de la réussite des entreprises en pleine croissance et sont indispensables au maintien de leur compétitivité. Mais trop souvent, les départements informatiques ne peuvent pas fournir de systèmes informatiques et d'applications logicielles flexibles** qui s'adaptent aux besoins et exigences individuels des utilisateurs, en raison de problèmes de conformité ou de capacités insuffisantes. Résultat : des processus compliqués et des collaborateurs frustrés qui tentent de s'aider eux-mêmes avec **l'informatique de l'ombre**. Il existe pourtant une arme miracle qui permet à la fois de décharger votre service informatique et de répondre aux souhaits de vos départements spécialisés : **Citizen Developer\*\*.
 
-  
 Découvrez dans cet article comment utiliser le **savoir-faire de vos départements spécialisés** et éviter le shadow IT en plaçant des Citizen Developer à l'interface avec l'IT.
 
 ## Qu'est-ce qu'un Citizen Developer ?
@@ -56,10 +55,11 @@ Pourtant, les développeurs citoyens peuvent jouer un rôle important pour faire
 
 Vous devriez dans tous les cas éviter que les départements spécialisés utilisent leur propre Shadow IT en secret et sans l'accord du département informatique. Mais si vous encouragez officiellement des collaborateurs sélectionnés à devenir des "Citizen Developers" et leur donnez les moyens de le faire, ils pourront résoudre bon nombre des problèmes mentionnés ci-dessus, qui sont à l'origine de l'apparition du Shadow IT.
 
-1) En misant sur le Citizen Development, vous **décentralisez** le développement de logiciels dans votre entreprise. Au lieu de dépendre d'une équipe informatique surchargée, les **départements spécialisés** peuvent désormais développer leurs propres solutions, adaptées à leurs besoins. Les développeurs citoyens peuvent souvent créer des applications fonctionnelles **en moins de temps** et **à moindre coût** qu'avec les méthodes traditionnelles.
-1. l'achat de **logiciels spécialisés** coûteux devient en partie superflu grâce à Citizen Developer. En effet, les outils de Citizen Developer offrent un environnement de développement flexible dans lequel vous pouvez reproduire presque tous les cas d'application. En outre, Citizen Development peut contribuer à l'**innovation** et améliorer l'**efficacité** du développement d'applications.
-1. une **coopération étroite** avec les services spécialisés est nécessaire afin de réduire au maximum la distance entre le service informatique et les activités opérationnelles. Vous y parviendrez en impliquant directement les Citizen Developers dans le choix et le développement de solutions appropriées. De plus, les applications logicielles que vos services spécialisés contribuent eux-mêmes à développer sont nettement mieux **acceptées** par les collaborateurs.
-1. le pilotage et le coaching des Citizen Developers peuvent ouvrir de nouvelles capacités et **décharger votre service informatique** sans que vous ayez à engager d'autres développeurs de logiciels. Vous pouvez ainsi faire face à la pénurie croissante de personnel qualifié dans l'informatique. La condition préalable est toutefois que vous puissiez permettre aux collaborateurs existants de développer **des solutions logicielles sur mesure** pour leurs cas d'application avec relativement peu d'efforts. Si les Citizen Developers répondent eux-mêmes aux demandes d'assistance concernant les applications logicielles qu'ils ont contribué à développer, votre service informatique gagne beaucoup plus de **liberté de manœuvre pour les projets stratégiques**.
+1. En misant sur le Citizen Development, vous **décentralisez** le développement de logiciels dans votre entreprise. Au lieu de dépendre d'une équipe informatique surchargée, les **départements spécialisés** peuvent désormais développer leurs propres solutions, adaptées à leurs besoins. Les développeurs citoyens peuvent souvent créer des applications fonctionnelles **en moins de temps** et **à moindre coût** qu'avec les méthodes traditionnelles.
+
+1) l'achat de **logiciels spécialisés** coûteux devient en partie superflu grâce à Citizen Developer. En effet, les outils de Citizen Developer offrent un environnement de développement flexible dans lequel vous pouvez reproduire presque tous les cas d'application. En outre, Citizen Development peut contribuer à l'**innovation** et améliorer l'**efficacité** du développement d'applications.
+1) une **coopération étroite** avec les services spécialisés est nécessaire afin de réduire au maximum la distance entre le service informatique et les activités opérationnelles. Vous y parviendrez en impliquant directement les Citizen Developers dans le choix et le développement de solutions appropriées. De plus, les applications logicielles que vos services spécialisés contribuent eux-mêmes à développer sont nettement mieux **acceptées** par les collaborateurs.
+1) le pilotage et le coaching des Citizen Developers peuvent ouvrir de nouvelles capacités et **décharger votre service informatique** sans que vous ayez à engager d'autres développeurs de logiciels. Vous pouvez ainsi faire face à la pénurie croissante de personnel qualifié dans l'informatique. La condition préalable est toutefois que vous puissiez permettre aux collaborateurs existants de développer **des solutions logicielles sur mesure** pour leurs cas d'application avec relativement peu d'efforts. Si les Citizen Developers répondent eux-mêmes aux demandes d'assistance concernant les applications logicielles qu'ils ont contribué à développer, votre service informatique gagne beaucoup plus de **liberté de manœuvre pour les projets stratégiques**.
 
 ### Les avantages du Citizen Development en un coup d'œil
 
@@ -71,7 +71,7 @@ Vous devriez dans tous les cas éviter que les départements spécialisés utili
 - collaboration interdépartementale
 - évitement du shadow IT
 
-![Les développeurs citoyens voient le développement à travers une autre paire de lunettes](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg "Les développeurs citoyens voient le développement à travers une autre paire de lunettes")
+![Les développeurs citoyens voient le développement à travers une autre paire de lunettes](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg 'Les développeurs citoyens voient le développement à travers une autre paire de lunettes')
 
 ## 6 compétences qui caractérisent un Citizen Developer
 
@@ -79,8 +79,11 @@ Bien qu'ils ne soient pas des experts en informatique, les Citizen Developers do
 
 1. **créativité et capacité à trouver des solutions** : Les Citizen Developers ne craignent pas les défis, voient plus loin que le bout de leur nez et trouvent des solutions créatives aux processus complexes.
 1. **Pensée analytique** : Les Citizen Developers doivent être en mesure d'analyser les processus commerciaux dans les moindres détails. Grâce à leur perspicacité, ils développent des applications qui répondent exactement aux besoins des départements spécialisés.
+
 1) **Esprit d'équipe et communication** : En tant que porte-parole des départements spécialisés, les Citizen Developers doivent pouvoir communiquer clairement leurs exigences et collaborer avec différentes personnalités.
+
 1. **Adaptabilité et flexibilité** : Les Citizen Developers ont besoin d'un état d'esprit flexible qui leur permette d'intégrer rapidement dans les applications les exigences changeantes d'un environnement commercial en constante évolution.
+
 1) **Ouverture d'esprit et plaisir d'apprendre** : Les Citizen Developers sont passionnés par les nouveaux sujets et le développement de code bas. Ils sont ouverts à l'expérimentation, réceptifs et prêts à se former de manière autonome.
 1) **Compréhension de la conformité informatique** : Les Citizen Developers doivent se conformer à des normes et réglementations uniformes. Ils peuvent ainsi contribuer à un paysage technologique sûr et conforme et mettre leurs innovations en conformité avec les directives.
 
@@ -90,7 +93,7 @@ Comme ils n'ont généralement que peu de connaissances en programmation, les Ci
 
 Ces environnements de développement doivent toutefois être suffisamment **flexibles** pour que les Citizen Developer puissent adapter le logiciel aux processus commerciaux et aux exigences individuelles dans leur domaine de spécialité respectif. Les plateformes [No-Code] telles que SeaTable](https://seatable.com/) sont particulièrement adaptées à cet effet. Elles permettent aux Citizen Developers d'effectuer rapidement et facilement les modifications et adaptations nécessaires. En outre, vous devriez opter pour des outils Citizen Developer qui garantissent une **collaboration transparente** et le respect des directives de **conformité** (par exemple le RGPD).
 
-Facilitez-vous la vie et mettez à la disposition de vos Citizen Developers une plateforme No-Code avec App-Builder intégré : SeaTable vous offre tout ce dont vous avez besoin pour développer des processus efficaces. [Inscrivez-vous gratuitement](https://seatable.com/registrierung/) avec votre adresse e-mail et commencez directement !
+Facilitez-vous la vie et mettez à la disposition de vos Citizen Developers une plateforme No-Code avec App-Builder intégré : SeaTable vous offre tout ce dont vous avez besoin pour développer des processus efficaces. [Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) avec votre adresse e-mail et commencez directement !
 
 ## Facteurs de réussite pour le développement citoyen
 
@@ -98,8 +101,8 @@ Pour exploiter tout le potentiel du développement citoyen tout en minimisant le
 
 1. **Environnement de développement** : Le choix d'une plateforme Low-Code ou No-Code appropriée est crucial. Elle doit être conviviale, sûre et s'intégrer facilement à vos systèmes existants.
 1. **Formation et support** : Les développeurs citoyens devraient recevoir une introduction de base à l'utilisation des outils disponibles et aux meilleures pratiques en matière d'assurance qualité. En cas de questions, ils devraient pouvoir consulter des experts informatiques à tout moment.
-1 **Gouvernance informatique** : Le service informatique devrait établir des directives et un cadre clairs pour le développement citoyen afin d'éviter le shadow IT et de garantir que toutes les applications créées respectent les normes de l'entreprise.
-1 **Collaboration** : Une collaboration étroite entre les Citizen Developers et les développeurs professionnels est indispensable pour que les applications logicielles ne présentent pas d'erreurs critiques ou de failles de sécurité.
+   1 **Gouvernance informatique** : Le service informatique devrait établir des directives et un cadre clairs pour le développement citoyen afin d'éviter le shadow IT et de garantir que toutes les applications créées respectent les normes de l'entreprise.
+   1 **Collaboration** : Une collaboration étroite entre les Citizen Developers et les développeurs professionnels est indispensable pour que les applications logicielles ne présentent pas d'erreurs critiques ou de failles de sécurité.
 
 ## Conclusion : Encouragez vos collaborateurs à devenir des Citizen Developers
 

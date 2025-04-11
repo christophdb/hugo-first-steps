@@ -124,4 +124,4 @@ Anschließend können Sie Ihre HR-Datenbank beliebig mit weiteren Tabellen und F
 
 Über die Funktionen eines HRIS hinaus können Sie mit SeaTable aber auch das Recruiting, Bewerbermanagement und Onboarding umsetzen. Sogar die Personalentwicklung und Weiterbildung lässt sich in SeaTable organisieren. Als deutsche HR Datenbank erfüllt SeaTable höchste Datenschutzstandards (DSGVO) und speichert alle Daten sicher in deutschen Rechenzentren. Kaum zu glauben also, dass diese vollwertige Personalmanagement-Software kostenlos ist.
 
-[Registrieren Sie sich noch heute](https://seatable.com/registrierung/) und entdecken Sie unsere kostenlosen Vorlagen für HR Manager!
+[Registrieren Sie sich noch heute]({{< relref "pages/registration" >}}) und entdecken Sie unsere kostenlosen Vorlagen für HR Manager!
