@@ -6,6 +6,7 @@ categories:
     - 'General'
 tags:
     - 'Tools & Plugins'
+    - 'When Excel is no longer sufficient'
 url: '/excel-kostenlos'
 color: '#6d9c70'
 ---
