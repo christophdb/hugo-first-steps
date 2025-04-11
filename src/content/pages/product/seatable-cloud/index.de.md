@@ -31,6 +31,9 @@ sections:
 
     - name: content-11
       weight: 3
+      classes:
+          - curved
+          - bg-white
       title: Eine Cloud – für jeden das richtige Angebot
       subtitle: Drei verschiedene Abonnements
       items:

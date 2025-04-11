@@ -71,10 +71,11 @@ subscription_table:
     corporate_support: 'Optionaler Corporate Support'
     requirements: 'Voraussetzungen'
 
-# old stuff ?!?
-month: Monat
 contact_sales: Verkauf kontaktieren
 read_more: 'Mehr erfahren'
+
+# old stuff ?!?
+month: Monat
 yearly: 'Jährlich'
 monthly: 'Monatlich'
 # end old stuff...
