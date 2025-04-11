@@ -34,7 +34,7 @@
                                 autocomplete="family-name"
                                 x-model="lastname"
                                 required
-                                class="block w-full rounded-md bg-white px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-700 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
                     </div>
                     <div class="sm:col-span-2">
@@ -46,7 +46,7 @@
                                 id="company"
                                 autocomplete="organization"
                                 x-model="company"
-                                class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
                     </div>
                     <div class="sm:col-span-2">
@@ -60,11 +60,12 @@
                                 x-model="email"
                                 @input="validateEmail"
                                 required
-                                class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                             <p x-text="errors.email" class="error"></p>
                         </div>
                     </div>
 
+                    <!--
                     <div class="sm:col-span-2">
                         <label for="subject" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.reason" }}</label>
 
@@ -86,6 +87,7 @@
                             </select>
                         </div>
                     </div>
+                    -->
 
                     <div class="sm:col-span-2">
                         <label for="message" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.message" }}</label>
@@ -95,7 +97,7 @@
                                 id="message"
                                 x-model="message"
                                 rows="4"
-                                class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"></textarea>
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"></textarea>
                         </div>
                     </div>
                 </div>
