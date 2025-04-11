@@ -1,20 +1,20 @@
 ---
-title: "Bajo código, sin código y el desarrollo de software del futuro"
-description: "Gracias al desarrollo sin código y de bajo código, las personas con escasos o nulos conocimientos de programación pueden por fin crear sus propias aplicaciones web. Pero, ¿qué significa realmente low code? ¿En qué se diferencia del no code y del código clásico? ¿Y qué plataforma de bajo código es adecuada para cada aplicación? En este artículo encontrará las respuestas."
+title: 'Bajo código, sin código y el desarrollo de software del futuro'
+description: 'Gracias al desarrollo sin código y de bajo código, las personas con escasos o nulos conocimientos de programación pueden por fin crear sus propias aplicaciones web. Pero, ¿qué significa realmente low code? ¿En qué se diferencia del no code y del código clásico? ¿Y qué plataforma de bajo código es adecuada para cada aplicación? En este artículo encontrará las respuestas.'
 date: 2025-03-07
-categories: 
-  - "No Code / Low Code"
-tags: 
-  - "Transformación digital"
-  - "Integración y automatización"
-  - "Herramientas y plugins"
-color: "#f2afdb"
-url: "/es/low-code"
+categories:
+    - 'No Code / Low Code'
+tags:
+    - 'Transformación digital'
+    - 'Integración y automatización'
+    - 'Herramientas y plugins'
+color: '#f2afdb'
+url: '/es/low-code'
 ---
 
 ## Di Ciao a la codificación - con Low Code y No Code
 
-¿Alguna vez ha deseado poder desarrollar sus propias soluciones de software con unos pocos clics, sin tener que escribir línea tras línea de código? Imagínese lo fácil y rápido que le resultaría de repente [Desarrollo de software](https://seatable.com/es/it-service-management/). ¿Parece ciencia ficción? Pero no lo es: ¡échale un vistazo al mundo del desarrollo de bajo código con nosotros! En el siguiente artículo, también veremos la diferencia entre low code y no code y aclararemos qué es una plataforma no-code/low-code.
+¿Alguna vez ha deseado poder desarrollar sus propias soluciones de software con unos pocos clics, sin tener que escribir línea tras línea de código? Imagínese lo fácil y rápido que le resultaría de repente [Desarrollo de software]({{< relref "pages/industry-solutions/software-development" >}}). ¿Parece ciencia ficción? Pero no lo es: ¡échale un vistazo al mundo del desarrollo de bajo código con nosotros! En el siguiente artículo, también veremos la diferencia entre low code y no code y aclararemos qué es una plataforma no-code/low-code.
 
 ## ¿Qué es el low code?
 
@@ -35,14 +35,14 @@ Una plataforma de bajo código es un entorno de desarrollo en el que se pueden c
 Los rasgos principales de una plataforma de bajo código pueden resumirse con estas características:
 
 1. **Entorno de desarrollo visual**: En lugar de escribir código complejo línea a línea, se utiliza una interfaz gráfica de usuario en la que basta con arrastrar y soltar componentes preconstruidos.
-1 **Bloques de construcción reutilizables**: Las plataformas de bajo código ofrecen una gran variedad de elementos, módulos y plantillas preconstruidos que puedes combinar, reutilizar y adaptar a tus necesidades una y otra vez.
-1 **Integración de código manual**: Aunque la atención se centra en el desarrollo visual, muchas plataformas de bajo código también te permiten integrar tus propios scripts. Esto te da la oportunidad de implementar funciones personalizadas que van más allá de las opciones estándar.
-1 **Despliegue rápido**: Lowcode te permite desarrollar y desplegar prototipos de software y aplicaciones de trabajo en muy poco tiempo, lo que es especialmente beneficioso en entornos de desarrollo ágiles.
-1 **Uso basado en la nube**: En la mayoría de los casos, el desarrollo, despliegue y uso de aplicaciones de software tiene lugar cómodamente a través de un navegador web. Sin embargo, algunas plataformas low-code no sólo pueden utilizarse en la nube, sino que también pueden instalarse localmente como un sistema on-premises.
+   1 **Bloques de construcción reutilizables**: Las plataformas de bajo código ofrecen una gran variedad de elementos, módulos y plantillas preconstruidos que puedes combinar, reutilizar y adaptar a tus necesidades una y otra vez.
+   1 **Integración de código manual**: Aunque la atención se centra en el desarrollo visual, muchas plataformas de bajo código también te permiten integrar tus propios scripts. Esto te da la oportunidad de implementar funciones personalizadas que van más allá de las opciones estándar.
+   1 **Despliegue rápido**: Lowcode te permite desarrollar y desplegar prototipos de software y aplicaciones de trabajo en muy poco tiempo, lo que es especialmente beneficioso en entornos de desarrollo ágiles.
+   1 **Uso basado en la nube**: En la mayoría de los casos, el desarrollo, despliegue y uso de aplicaciones de software tiene lugar cómodamente a través de un navegador web. Sin embargo, algunas plataformas low-code no sólo pueden utilizarse en la nube, sino que también pueden instalarse localmente como un sistema on-premises.
 
 ## ¿Qué es No Code?
 
-No Code va un paso más allá: a diferencia de las plataformas low-code, una **plataforma no-code** está dirigida a usuarios sin conocimientos de programación. En el entorno de desarrollo totalmente visual, se pueden crear aplicaciones principalmente arrastrando y soltando sin tener que escribir ni una sola línea de código. No Code es, por tanto, ideal para crear aplicaciones sencillas y [flujos de trabajo automatizados](https://seatable.com/es/workflow-management/). La atención se centra claramente en la velocidad y la facilidad de uso; no se prevé la integración de código escrito por el usuario.
+No Code va un paso más allá: a diferencia de las plataformas low-code, una **plataforma no-code** está dirigida a usuarios sin conocimientos de programación. En el entorno de desarrollo totalmente visual, se pueden crear aplicaciones principalmente arrastrando y soltando sin tener que escribir ni una sola línea de código. No Code es, por tanto, ideal para crear aplicaciones sencillas y [flujos de trabajo automatizados]({{< relref "pages/industry-solutions/individual" >}}). La atención se centra claramente en la velocidad y la facilidad de uso; no se prevé la integración de código escrito por el usuario.
 
 ## Low code vs. no code
 

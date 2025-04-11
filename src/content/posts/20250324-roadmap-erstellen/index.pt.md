@@ -64,7 +64,7 @@ Para tornar o seu projeto tão eficiente quanto possível, deve envolver as **pe
 
 A estrutura do roteiro define como pretende atingir o seu objetivo. O ponto de partida deve ser sempre o estado atual. Em regra, um roteiro visualiza as **tarefas principais** que são necessárias para atingir o objetivo. Ao fazê-lo, organiza os marcos numa **sequência temporal** lógica. O nível de detalhe desejado determina quantos passos intermédios e subtarefas se pretende registar.
 
-_Dica: Para o planeamento detalhado do seu projeto, é melhor utilizar um plano de trabalho, que pode ser expandido conforme necessário.
+\_Dica: Para o planeamento detalhado do seu projeto, é melhor utilizar um plano de trabalho, que pode ser expandido conforme necessário.
 
 ### 5. criar um roteiro
 
@@ -110,8 +110,6 @@ Cada objetivo tem os seus próprios requisitos. É por isso que faz sentido esco
 
 Um roteiro de projeto fornece exatamente o que o seu nome sugere: uma visão geral de um projeto específico. Pode ser uma campanha de marketing, um grande evento ou um projeto de construção, por exemplo. O roteiro do projeto serve como uma ferramenta poderosa para definir objectivos, comunicar requisitos às partes interessadas e cumprir prazos. As etapas, o planeamento dos custos e dos recursos são também elementos típicos.
 
- 
-
 Se procura um modelo que lhe facilite o registo dos relatórios e da documentação do projeto, o planeador de projectos da SeaTable é ideal.
 
 ### Roteiro estratégico
@@ -130,7 +128,7 @@ Quando utilizado externamente, o roteiro do produto é utilizado para apresentar
 
 Um roteiro de tecnologia ou de TI ajudá-lo-á se o seu objetivo for visualizar a infraestrutura tecnológica ou o desenvolvimento de software na sua empresa. Isto dá-lhe uma visão geral das oportunidades e riscos para a gestão da empresa: que tecnologias se tornaram obsoletas e que sistemas quer introduzir para acompanhar a digitalização e manter-se atualizado?
 
-Visualize o seu roteiro para [desenvolvimento de software](https://seatable.com/it-service-management/) com o modelo SeaTable e beneficie de uma visão geral estruturada.
+Visualize o seu roteiro para [desenvolvimento de software]({{< relref "pages/industry-solutions/software-development" >}}) com o modelo SeaTable e beneficie de uma visão geral estruturada.
 
 ### Roteiro integrado
 

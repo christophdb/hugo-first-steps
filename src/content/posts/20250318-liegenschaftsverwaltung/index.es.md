@@ -51,7 +51,7 @@ Si planea realizar cambios estructurales en su propiedad, el derecho de construc
 
 ### Protección de datos
 
-Un ámbito importante de la gestión inmobiliaria que a menudo no resulta obvio a primera vista es la protección de datos. Especialmente en el [sector público](https://seatable.com/digitale-verwaltung/) o en unidades administrativas más grandes, debe gestionar los datos de inquilinos y propietarios de conformidad con el GDPR. Esto significa que solo puede recopilar y almacenar de forma segura datos personales con consentimiento. Una protección eficaz contra el acceso no autorizado a estos datos es esencial para evitar tanto las consecuencias legales como la pérdida de confianza.
+Un ámbito importante de la gestión inmobiliaria que a menudo no resulta obvio a primera vista es la protección de datos. Especialmente en el [sector público]({{< relref "pages/industry-solutions/public-service" >}}) o en unidades administrativas más grandes, debe gestionar los datos de inquilinos y propietarios de conformidad con el GDPR. Esto significa que solo puede recopilar y almacenar de forma segura datos personales con consentimiento. Una protección eficaz contra el acceso no autorizado a estos datos es esencial para evitar tanto las consecuencias legales como la pérdida de confianza.
 
 ## Cuándo puede externalizar la gestión inmobiliaria a terceros
 
@@ -63,9 +63,9 @@ La externalización también suele ofrecer la **ventaja de una gestión de emerg
 
 ## Administración de fincas y servicio público
 
-La gestión inmobiliaria en el sector público plantea un reto particular, que conlleva tanto responsabilidad como enormes oportunidades. Las organizaciones públicas suelen gestionar una amplia gama de lugares y propiedades, desde edificios históricos hasta plazas de mercado y parques infantiles, pasando por modernos complejos administrativos. Esta diversidad requiere una gestión bien pensada y eficiente que vaya mucho más allá del mero mantenimiento.   
+La gestión inmobiliaria en el sector público plantea un reto particular, que conlleva tanto responsabilidad como enormes oportunidades. Las organizaciones públicas suelen gestionar una amplia gama de lugares y propiedades, desde edificios históricos hasta plazas de mercado y parques infantiles, pasando por modernos complejos administrativos. Esta diversidad requiere una gestión bien pensada y eficiente que vaya mucho más allá del mero mantenimiento.
 
-Por lo general, la responsabilidad recae en las oficinas inmobiliarias de las autoridades locales. Estas oficinas son responsables de la compra, venta y alquiler de propiedades municipales. Son responsables de la gestión y el mantenimiento de propiedades que son importantes tanto para los fines públicos como para los ciudadanos.  La gestión inmobiliaria en el sector público se enfrenta a la tarea de combinar la eficiencia económica con el bien común.
+Por lo general, la responsabilidad recae en las oficinas inmobiliarias de las autoridades locales. Estas oficinas son responsables de la compra, venta y alquiler de propiedades municipales. Son responsables de la gestión y el mantenimiento de propiedades que son importantes tanto para los fines públicos como para los ciudadanos. La gestión inmobiliaria en el sector público se enfrenta a la tarea de combinar la eficiencia económica con el bien común.
 
 A diferencia de los gestores privados, no sólo deben trabajar de forma rentable**, sino que también deben tener en cuenta los intereses sociales**. Los procesos de toma de decisiones, como la venta o reconversión de inmuebles, suelen ser largos, ya que están sujetos a procedimientos de aprobación política. A ello se añade la obligación de transparencia, ya que toda decisión de interés público debe ser comprensible. Estos factores hacen que la gestión sea más difícil y bastante más compleja que en el sector privado.
 
@@ -88,7 +88,7 @@ Las tareas de un administrador de fincas son variadas y requieren conocimientos 
 
 La gestión de propiedades puede ser una tarea compleja y laboriosa, especialmente si gestiona varias propiedades al mismo tiempo. Con SeaTable, puede organizar sus **inmuebles de forma digital y eficiente** manteniendo siempre una visión de conjunto. Gracias a la estructura flexible de la [plataforma sin código](https://seatable.com/), puede organizar sus procesos individuales exactamente como desee. Además, **todos los datos relevantes pueden almacenarse y gestionarse de forma segura y centralizada en un único lugar**.
 
-Una de las mayores ventajas de SeaTable es la posibilidad de asignar **derechos de acceso individuales**. Esto significa que puede definir quién puede ver qué datos de cada propiedad. Especialmente si gestiona varios inmuebles, es esencial que los datos de cada uno de ellos se mantengan separados: en SeaTable puede organizar todos los inmuebles en una única base de datos sin códigos, sin que nadie pueda acceder sin autorización a otros proyectos. Esto garantiza la protección de datos y cumple los requisitos del GDPR.   
+Una de las mayores ventajas de SeaTable es la posibilidad de asignar **derechos de acceso individuales**. Esto significa que puede definir quién puede ver qué datos de cada propiedad. Especialmente si gestiona varios inmuebles, es esencial que los datos de cada uno de ellos se mantengan separados: en SeaTable puede organizar todos los inmuebles en una única base de datos sin códigos, sin que nadie pueda acceder sin autorización a otros proyectos. Esto garantiza la protección de datos y cumple los requisitos del GDPR.
 
 SeaTable también le ofrece la flexibilidad de almacenar sus datos en la [Nube]({{< relref "pages/product/seatable-cloud" >}}) o [En las instalaciones]({{< relref "pages/product/seatable-server" >}}). Esto le permite decidir qué solución se adapta mejor a sus necesidades: si prefiere la comodidad de una solución basada en la nube o si prefiere alojar sus datos en sus propios servidores.
 

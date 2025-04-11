@@ -187,7 +187,7 @@ Zudem können Sie mit SeaTable ohne Programmierkenntnisse eigene Apps erstellen
 
 Als flexible Allzweckwaffe macht SeaTable auch beim Thema **Betriebsart** keine Kompromisse. SeaTable lässt sich komfortabel in der [Cloud]({{< relref "pages/product/seatable-cloud" >}}) oder als [selbstgehostete Lösung]({{< relref "pages/product/seatable-server" >}}) verwenden. Anders als die anderen webbasierten Excel Konkurrenten gibt es SeaTable also auch als Software für den eigenen Server. Auf diese Weise bietet sich SeaTable für all diejenigen an, die mit strikten Datenschutzanforderungen konfrontiert sind.
 
-Das [Free Abonnement](https://seatable.com/preise/) ist dauerhaft kostenlos und für den privaten Gebrauch ausreichend. Die kostenpflichtigen Versionen Plus und Enterprise bieten erweiterte Funktionen für den Unternehmenseinsatz wie z. B. benutzerdefinierte Freigaben, Automationen und Customizing. Die [Dedicated Cloud]({{< relref "pages/product/seatable-dedicated" >}}) verfügt zudem über eine zentrale Benutzer-Authentifizierung und Objektspeicher-Unterstützung.
+Das [Free Abonnement]({{< relref "pages/prices" >}}) ist dauerhaft kostenlos und für den privaten Gebrauch ausreichend. Die kostenpflichtigen Versionen Plus und Enterprise bieten erweiterte Funktionen für den Unternehmenseinsatz wie z. B. benutzerdefinierte Freigaben, Automationen und Customizing. Die [Dedicated Cloud]({{< relref "pages/product/seatable-dedicated" >}}) verfügt zudem über eine zentrale Benutzer-Authentifizierung und Objektspeicher-Unterstützung.
 
 Einen ähnlichen Weg wie Google Sheets – für Entwickler angenehm konventionell – geht SeaTable bei den Erweiterungen. Per API und SDK lassen sich Erweiterungen wie Automatisierungen, Integrationen und Funktionsergänzungen mit überschaubarem Aufwand entwickeln. Angesichts des jungen Alters der Lösung wird es spannend sein zu sehen, welche Neuerungen in Zukunft dazukommen werden.
 
@@ -199,4 +199,4 @@ Die bekannten Tabellenprogramme in diesem Vergleich sind Excel funktional ähnli
 
 Aus der Masse sticht SeaTable durch die erweiterten Datenformate, die Datenbank-Funktionen und den App-Builder heraus. Als einzige Anwendung in diesem Vergleich ist SeaTable gleichermaßen als Cloud- und als selbstgehostete Anwendung verfügbar. Die Entscheidung zwischen Datenhoheit und Komfort kann so jeder Nutzer frei treffen.
 
-[Jetzt kostenlos registrieren und SeaTable ausprobieren](/de/registrierung)
+[Jetzt kostenlos registrieren und SeaTable ausprobieren]({{< relref "pages/registration" >}})

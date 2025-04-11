@@ -165,4 +165,4 @@ Weitere Informationen finden Sie entweder im Artikel [Hausverwaltung](https://se
 
 Ob Projekt-, Produkt-, IT- oder Finanz-Portfoliomanagement – sie alle haben zum Ziel, ein **Portfolio gewinnbringend zu verwalten**. Doch das ist je nach Größe Ihres Portfolios gar nicht so leicht. Mit den kostenlosen und benutzerfreundlichen Vorlagen von SeaTable behalten Sie immer den strategischen Überblick und haben alle Daten parat, die Sie für fundierte Analysen und Entscheidungen brauchen.
 
-Sie möchten SeaTable als Portfoliomanagement Tool nutzen? Dann [registrieren Sie sich noch heute](https://seatable.com/de/registrierung/) kostenlos mit Ihrer E-Mail-Adresse.
+Sie möchten SeaTable als Portfoliomanagement Tool nutzen? Dann [registrieren Sie sich noch heute]({{< relref "pages/registration" >}}) kostenlos mit Ihrer E-Mail-Adresse.

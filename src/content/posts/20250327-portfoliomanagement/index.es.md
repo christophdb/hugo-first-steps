@@ -1,6 +1,6 @@
 ---
 title: 'Gestión de carteras: cómo llevar siempre un seguimiento de su cartera'
-description: "Gestión de carteras de proyectos, gestión de carteras de productos o gestión de carteras de TI: no importa para qué esté creando una cartera ni el tamaño de la cartera que quiera vigilar: en este artículo aprenderá a gestionar su cartera con éxito."
+description: 'Gestión de carteras de proyectos, gestión de carteras de productos o gestión de carteras de TI: no importa para qué esté creando una cartera ni el tamaño de la cartera que quiera vigilar: en este artículo aprenderá a gestionar su cartera con éxito.'
 fecha: 2025-03-27
 categorías:
     - 'General'
@@ -119,7 +119,7 @@ Al igual que la gestión de la cartera de proyectos, la gestión de la cartera d
 
 ## Gestión de la cartera de TI
 
-La gestión de la cartera de TI** (también conocida como gestión de activos de TI) ofrece la oportunidad de gestionar los activos de TI de una empresa de forma sistemática y previsora. La cartera de TI puede dividirse en tres categorías de activos:
+La gestión de la cartera de TI\*\* (también conocida como gestión de activos de TI) ofrece la oportunidad de gestionar los activos de TI de una empresa de forma sistemática y previsora. La cartera de TI puede dividirse en tres categorías de activos:
 
 1. **Software**: todas las aplicaciones de software, sistemas operativos y herramientas utilizadas.
 1. **hardware e infraestructura**: todos los dispositivos, redes, servidores y servicios en la nube
@@ -133,7 +133,7 @@ La gestión de la cartera de TI debe optimizar estos activos para que respalden 
 
 En primer lugar, debe registrar todos los activos informáticos de su empresa y categorizarlos como se ha descrito anteriormente. Al igual que en los tipos anteriores de gestión de carteras, resulta útil registrar datos adicionales como el coste o el valor de los activos informáticos a la hora de hacer inventario. Además, los activos informáticos suelen tener un ciclo de vida limitado: por ejemplo, aclare cuándo caducan las licencias de software y en qué estado se encuentra el hardware para obtener una **visión completa de la cartera informática**.
 
-![Hardware en la gestión de la cartera de TI](Hardware-im-IT-Portfoliomanagement.jpg "El hardware es una categoría de activos en la cartera de TI").
+![Hardware en la gestión de la cartera de TI](Hardware-im-IT-Portfoliomanagement.jpg 'El hardware es una categoría de activos en la cartera de TI').
 
 #### 2\. Evaluación y priorización
 
@@ -165,4 +165,4 @@ Encontrará más información en el artículo [Gestión de la propiedad](https:/
 
 Ya se trate de la gestión de carteras de proyectos, productos, TI o finanzas, todas ellas tienen como objetivo gestionar una **cartera de forma rentable**. Sin embargo, dependiendo del tamaño de su cartera, esto no es tan fácil. Con las plantillas gratuitas y fáciles de usar de SeaTable, siempre tendrá a mano una visión estratégica y todos los datos que necesita para realizar análisis y tomar decisiones bien fundamentadas.
 
-¿Le gustaría utilizar SeaTable como herramienta de gestión de carteras? Entonces [regístrese hoy](https://seatable.com/de/registrierung/) de forma gratuita con su dirección de correo electrónico.
+¿Le gustaría utilizar SeaTable como herramienta de gestión de carteras? Entonces [regístrese hoy]({{< relref "pages/registration" >}}) de forma gratuita con su dirección de correo electrónico.

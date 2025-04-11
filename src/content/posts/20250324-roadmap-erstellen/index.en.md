@@ -1,15 +1,15 @@
 ---
-title: "Create a roadmap: How to clearly visualize your next project"
+title: 'Create a roadmap: How to clearly visualize your next project'
 description: "A well-structured roadmap is more than just a timetable - it shows the path to your goals clearly and comprehensibly. Whether it's strategy development, project management or progress monitoring: a roadmap allows you to maintain an overview at all times. Here you can find out how to create a roadmap and save time and resources with the right template."
 date: 2025-03-24
-categories: 
-  - "General"
-  - "Best Practice"
-tags: 
-  - "IT processes"
-  - "Toolings & Plugins"
-color: "#eee8ca"
-url: "/roadmap-erstellen"
+categories:
+    - 'General'
+    - 'Best Practice'
+tags:
+    - 'IT processes'
+    - 'Toolings & Plugins'
+color: '#eee8ca'
+url: '/roadmap-erstellen'
 ---
 
 ## How to plan your projects efficiently and purposefully
@@ -108,8 +108,7 @@ Every goal has its own requirements. That's why it makes sense to choose a roadm
 
 ### Project roadmap
 
-A project roadmap provides exactly what its name suggests: an overview of a specific project. This could be a marketing campaign, a major event or a construction project, for example. The project roadmap serves as a powerful tool for defining goals, communicating requirements to stakeholders and meeting deadlines. Milestones, cost and resource planning are also typical elements.   
- 
+A project roadmap provides exactly what its name suggests: an overview of a specific project. This could be a marketing campaign, a major event or a construction project, for example. The project roadmap serves as a powerful tool for defining goals, communicating requirements to stakeholders and meeting deadlines. Milestones, cost and resource planning are also typical elements.
 
 If you are looking for a template that makes it easier for you to record project reports and documentation, SeaTable's project planner is a good choice.
 
@@ -129,7 +128,7 @@ When used externally, the product roadmap is used to present planned products or
 
 A technology or IT roadmap helps you if your goal is to visualize the technology infrastructure or software development in your company. This gives you an overview of the opportunities and risks for the company's management: which technologies have become obsolete and which systems do you want to introduce in order to keep pace with digitalization and stay up to date?
 
-Present your roadmap for [software development](https://seatable.com/it-service-management/) with the SeaTable template and benefit from a structured overview.
+Present your roadmap for [software development]({{< relref "pages/industry-solutions/software-development" >}}) with the SeaTable template and benefit from a structured overview.
 
 ### Integrated roadmap
 
@@ -150,7 +149,7 @@ So if you want to create a roadmap and use a template, you should definitely pla
 SeaTable offers you special templates that you can customize to suit your company's requirements.
 
 {{< template id="1b086534c58049f481eb" >}}
-  
+
 If you would like to use SeaTable to create your roadmap, simply register for free.
 
 ## Frequently asked questions
@@ -159,10 +158,12 @@ If you would like to use SeaTable to create your roadmap, simply register for fr
 
 What is a roadmap and how can it help me with project planning?|||
 A roadmap is a visual representation of a project that clearly shows its goals, milestones and tasks. It helps you to clearly structure the entire course of the project so that you can keep an eye on the important steps and monitor progress. The roadmap is particularly useful for simplifying complex projects and improving communication with all stakeholders.
+
 ---
+
 What types of roadmaps are there?|||
-There are different types of roadmaps, each addressing specific requirements and goals. The most common include  
-  
+There are different types of roadmaps, each addressing specific requirements and goals. The most common include
+
 - Project roadmap
 - Strategic roadmap
 - Product roadmap
@@ -170,6 +171,7 @@ There are different types of roadmaps, each addressing specific requirements and
 - Integrated roadmap
 
 ---
+
 Which tools are suitable for creating a roadmap?|||
 There are numerous tools that can help you create a roadmap. One particularly flexible example is SeaTable: a project management tool that provides customizable roadmap templates and supports various display formats such as Gantt charts.
 

@@ -34,7 +34,7 @@ Companies in all industries have diverse workflows that are often complex and ti
 - **Project management:** Put an end to paper chaos and endless emails! Create apps that help you keep track of tasks and deadlines. Organize teamwork clearly and save resources.
 - **HR:** With a clever HR app, you can bring order to all [HR processes]({{< relref "pages/industry-solutions/hr" >}}). From vacation requests to working hours and payroll accounting - everything is in one digital place. This saves resources, reduces errors and gives you more time for what really matters: Your team.
 - **Sales:** Whether you're on the road or in the office - always have your customer data to hand. In sales, an app can help you maintain customer contacts, monitor sales figures and create quotes - all with just a few clicks. This shortens sales cycles, improves customer loyalty and increases your turnover.
-- **Software development:** Even developers benefit from creating their own app: test user interfaces before programming, track bugs efficiently and plan your product launches precisely in advance. The result? More flexible [software development](https://seatable.com/it-service-management/) and valuable time savings throughout the entire development process.
+- **Software development:** Even developers benefit from creating their own app: test user interfaces before programming, track bugs efficiently and plan your product launches precisely in advance. The result? More flexible [software development]({{< relref "pages/industry-solutions/software-development" >}}) and valuable time savings throughout the entire development process.
 
 And that's just the beginning - the possibilities are diverse and customizable.
 

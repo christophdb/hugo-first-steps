@@ -1,15 +1,15 @@
 ---
-title: "Créer une feuille de route : Comment visualiser clairement votre prochain projet"
+title: 'Créer une feuille de route : Comment visualiser clairement votre prochain projet'
 description: "Une feuille de route bien structurée est plus qu'un simple calendrier - elle montre le chemin vers vos objectifs de manière claire et compréhensible. Qu'il s'agisse de développement de stratégie, de gestion de projet ou de contrôle des progrès, une feuille de route vous permet de garder à tout moment une vue d'ensemble. Découvrez ici comment créer une feuille de route et économiser du temps et des ressources avec le bon modèle."
 date: 2025-03-24
-categories: 
-  - "Général"
-  - "Meilleures pratiques"
-tags: 
-  - "Processus informatiques"
-  - "Outils & plugins"
-color: "#eee8ca"
-url: "/fr/roadmap-erstellen"
+categories:
+    - 'Général'
+    - 'Meilleures pratiques'
+tags:
+    - 'Processus informatiques'
+    - 'Outils & plugins'
+color: '#eee8ca'
+url: '/fr/roadmap-erstellen'
 ---
 
 ## Comment planifier vos projets de manière efficace et ciblée
@@ -108,8 +108,7 @@ Chaque objectif a ses propres exigences. C'est pourquoi il est judicieux de choi
 
 ### Feuille de route du projet
 
-Une feuille de route de projet fournit exactement ce que son nom laisse supposer : un aperçu d'un projet spécifique. Il peut s'agir par exemple d'une campagne de marketing, d'un événement important ou d'un projet de construction. La feuille de route du projet sert alors d'outil performant pour définir les objectifs, communiquer les exigences aux parties prenantes et respecter les délais. Les jalons, la planification des coûts et des ressources en sont également des éléments typiques.   
- 
+Une feuille de route de projet fournit exactement ce que son nom laisse supposer : un aperçu d'un projet spécifique. Il peut s'agir par exemple d'une campagne de marketing, d'un événement important ou d'un projet de construction. La feuille de route du projet sert alors d'outil performant pour définir les objectifs, communiquer les exigences aux parties prenantes et respecter les délais. Les jalons, la planification des coûts et des ressources en sont également des éléments typiques.
 
 Si vous cherchez un modèle qui vous permette de consigner plus facilement les rapports et la documentation du projet, le planificateur de projet de SeaTable s'impose.
 
@@ -129,7 +128,7 @@ En cas d'utilisation externe, la feuille de route du produit sert à présenter 
 
 Une roadmap technologique ou informatique vous aide si votre objectif est de visualiser l'infrastructure technologique ou le développement de logiciels dans votre entreprise. Elle vous permet de garder une vue d'ensemble des opportunités et des risques pour la gestion de l'entreprise : quelles technologies sont obsolètes et quels systèmes souhaitez-vous introduire pour suivre le rythme de la numérisation et rester à la pointe du progrès ?
 
-Représentez votre feuille de route pour [le développement de logiciels](https://seatable.com/it-service-management/) avec le modèle de SeaTable et profitez d'une vue d'ensemble structurée.
+Représentez votre feuille de route pour [le développement de logiciels]({{< relref "pages/industry-solutions/software-development" >}}) avec le modèle de SeaTable et profitez d'une vue d'ensemble structurée.
 
 ### Feuille de route intégrée
 
@@ -150,7 +149,7 @@ Ainsi, si vous souhaitez créer une feuille de route et utiliser un modèle, vou
 SeaTable vous propose des modèles spécifiques que vous pouvez adapter à votre guise aux besoins de votre entreprise.
 
 {{< template id="1b086534c58049f481eb" >}}
-  
+
 Si vous souhaitez utiliser SeaTable pour créer votre feuille de route, il vous suffit de vous inscrire gratuitement.
 
 ## Questions fréquentes
@@ -159,10 +158,12 @@ Si vous souhaitez utiliser SeaTable pour créer votre feuille de route, il vous 
 
 Qu'est-ce qu'une feuille de route et comment peut-elle m'aider à planifier un projet?|||
 Une feuille de route est une représentation visuelle d'un projet qui en décrit clairement les objectifs, les étapes et les tâches. Elle vous aide à structurer clairement l'ensemble du projet, de sorte que vous puissiez garder un œil sur les étapes importantes et surveiller les progrès. La feuille de route est particulièrement utile pour simplifier les projets complexes et améliorer la communication avec toutes les parties concernées.
+
 ---
+
 Quels sont les différents types de feuilles de route?|||
-Il existe différents types de feuilles de route, chacune s'adressant à des besoins et objectifs spécifiques. Parmi les plus courants, on trouve  
-  
+Il existe différents types de feuilles de route, chacune s'adressant à des besoins et objectifs spécifiques. Parmi les plus courants, on trouve
+
 - Feuille de route de projet
 - Feuille de route stratégique
 - Feuille de route produit
@@ -170,6 +171,7 @@ Il existe différents types de feuilles de route, chacune s'adressant à des bes
 - Feuille de route intégrée
 
 ---
+
 Quels sont les outils qui permettent de créer une feuille de route ?
 Il existe de nombreux outils qui peuvent vous aider à créer une feuille de route. SeaTable en est un exemple particulièrement flexible : c'est un outil de gestion de projet qui fournit des modèles de feuille de route personnalisables et qui prend en charge différents types de représentation, comme les diagrammes de Gantt.
 

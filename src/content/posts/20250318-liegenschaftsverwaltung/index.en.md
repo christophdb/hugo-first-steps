@@ -2,12 +2,12 @@
 title: 'Property management: How to manage properties digitally'
 description: 'Property management means coordinating a wide range of tasks efficiently while maintaining an overview. Digitalization offers valuable support in optimizing processes and managing data in a structured manner. Find out how you can manage your properties efficiently and in a future-proof way.'
 date: 2025-03-18
-categories: 
-  - "General"
-tags: 
-  - "Public administration"
-color: "#c4e8d8"
-url: "/liegenschaftsverwaltung"
+categories:
+    - 'General'
+tags:
+    - 'Public administration'
+color: '#c4e8d8'
+url: '/liegenschaftsverwaltung'
 ---
 
 ## Digital solutions for modern property management
@@ -51,7 +51,7 @@ If you are planning structural changes to your property, building law is the dec
 
 ### Data protection
 
-An important area of property management that is often not immediately obvious is data protection. Particularly in the [public sector](https://seatable.com/digitale-verwaltung/) or in larger administrative units, you must manage tenant and owner data in compliance with the GDPR. This means that you may only collect and securely store personal data with consent. Effective protection against unauthorized access to this data is essential to avoid both legal consequences and loss of trust.
+An important area of property management that is often not immediately obvious is data protection. Particularly in the [public sector]({{< relref "pages/industry-solutions/public-service" >}}) or in larger administrative units, you must manage tenant and owner data in compliance with the GDPR. This means that you may only collect and securely store personal data with consent. Effective protection against unauthorized access to this data is essential to avoid both legal consequences and loss of trust.
 
 ## When you can outsource property management to external parties
 

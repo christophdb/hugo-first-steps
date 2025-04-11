@@ -1,14 +1,14 @@
 ---
-title: "Bauinstallations-Firma entwickelt effizientes Auftragsmanagement mit SeaTable"
-description: "Ein chinesisches Unternehmen aus der Bauinstallationsbranche hat mit SeaTable seine Auftragsverwaltung neu aufgesetzt und damit seine digitale Transformation erfolgreich vorangebracht. Entstanden ist ein hocheffizientes, modernes Management-System mit Universal App."
+title: 'Bauinstallations-Firma entwickelt effizientes Auftragsmanagement mit SeaTable'
+description: 'Ein chinesisches Unternehmen aus der Bauinstallationsbranche hat mit SeaTable seine Auftragsverwaltung neu aufgesetzt und damit seine digitale Transformation erfolgreich vorangebracht. Entstanden ist ein hocheffizientes, modernes Management-System mit Universal App.'
 date: 2025-03-21
-categories: 
-  - "Allgemein"
-  - "Customer Story"
-tags: 
-  - "Digitale Transformation"
-color: "#f7f0d6"
-url: "/de/effizientes-auftragsmanagement-mit-seatable"
+categories:
+    - 'Allgemein'
+    - 'Customer Story'
+tags:
+    - 'Digitale Transformation'
+color: '#f7f0d6'
+url: '/de/effizientes-auftragsmanagement-mit-seatable'
 ---
 
 ## Digitale Transformation voranbringen
@@ -50,4 +50,4 @@ Ein ganz wesentlicher Fortschritt besteht in der unkomplizierten **Erstellung vo
 
 ## Neue Wachstumsimpulse durch effizientere Workflows und Transparenz
 
-Die Implementierung von SeaTable hat dem Unternehmen geholfen, sein  Auftragsmanagement zu modernisieren und effiziente, [digitale Workflows](https://seatable.com/workflow-management/) zu implementieren. Alle Mitarbeiter können nun zeitgleich in einem System mit aktuellen Daten arbeiten, ohne Datenverluste zu befürchten. Projektverantwortliche und die Geschäftsführung haben jederzeit Zugriff auf aktuelle Datenvisualisierungen um relevante Geschäftskennzahlen und Projektstatus zu bewerten. Und das alles in einem System. Mit dem Auftragsmanagement in SeaTable wurden Arbeitsabläufe und Entscheidungen deutlich beschleunigt und zugleich die Basis für zukünftiges Wachstum geschaffen.
+Die Implementierung von SeaTable hat dem Unternehmen geholfen, sein  Auftragsmanagement zu modernisieren und effiziente, [digitale Workflows]({{< relref "pages/industry-solutions/individual" >}}) zu implementieren. Alle Mitarbeiter können nun zeitgleich in einem System mit aktuellen Daten arbeiten, ohne Datenverluste zu befürchten. Projektverantwortliche und die Geschäftsführung haben jederzeit Zugriff auf aktuelle Datenvisualisierungen um relevante Geschäftskennzahlen und Projektstatus zu bewerten. Und das alles in einem System. Mit dem Auftragsmanagement in SeaTable wurden Arbeitsabläufe und Entscheidungen deutlich beschleunigt und zugleich die Basis für zukünftiges Wachstum geschaffen.

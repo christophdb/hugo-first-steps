@@ -1,18 +1,18 @@
 ---
-title: "Comment rendre vos données utilisables avec un entrepôt de données"
+title: 'Comment rendre vos données utilisables avec un entrepôt de données'
 description: "Entrepôt de données, base de données, lac de données : ces termes peuvent prêter à confusion - ils désignent tous un système qui stocke des données. L'article suivant apporte des éclaircissements et explique quels sont les avantages d'un entrepôt de données et comment fonctionne le data warehousing."
 date: 2025-03-26
-categories: 
-  - "Général"
+categories:
+    - 'Général'
 tags:
-url: "/fr/data-warehouse"
-color: "#34ba9d"
+url: '/fr/data-warehouse'
+color: '#34ba9d'
 ---
 
 ## Qu'est-ce qu'un entrepôt de données ?
 
-Un entrepôt de données (également abrégé DWH) est un **système de stockage central** qui rassemble de grandes quantités de données provenant de différentes sources, les structure et les **prépare à des fins d'analyse**. En enregistrant et en visualisant l'**historique** des données, il est possible d'identifier des modèles, des tendances et des corrélations dans le temps. C'est pourquoi la Business Intelligence joue également un rôle important dans les entrepôts de données.  
-  
+Un entrepôt de données (également abrégé DWH) est un **système de stockage central** qui rassemble de grandes quantités de données provenant de différentes sources, les structure et les **prépare à des fins d'analyse**. En enregistrant et en visualisant l'**historique** des données, il est possible d'identifier des modèles, des tendances et des corrélations dans le temps. C'est pourquoi la Business Intelligence joue également un rôle important dans les entrepôts de données.
+
 Les fonctions d'analyse vous permettent d'extraire de vos données des connaissances précieuses sur différents domaines d'activité afin d'améliorer la **prise de décision**. Si vous intégrez toutes les données de votre entreprise dans votre entrepôt de données, on peut même le qualifier de **Single Source of Truth**, c'est-à-dire de base de données complète et fiable.
 
 ## Les avantages d'un entrepôt de données
@@ -83,10 +83,10 @@ Supposons que vous exploitiez une **boutique en ligne** et que vous souhaitiez a
 
 L'entrepôt de données et la base de données sont deux [systèmes de gestion de données](https://seatable.com/datenmanagement/) différents. Alors qu'une base de données se focalise généralement sur le **stockage de données**, le système d'entrepôt de données reproduit un processus plus long, de l'acquisition des données à l'analyse des données en passant par l'intégration et la préparation des données. Néanmoins, les entrepôts de données stockent également d'énormes quantités de données dans une base de données centrale, qui constitue le cœur de toute solution DWH. Un entrepôt de données sert à son tour de **base pour les analyses et les rapports** dans toute l'entreprise.
 
-| | **Entrepôt de données** | **Base de données** |
-| --- | --- | --- |
-| **Objectif / Focus** | Analyses & Rapports | Stockage des données |
-| **Couverture** | généralement à l'échelle de l'entreprise | variable |
+|                      | **Entrepôt de données**                  | **Base de données**  |
+| -------------------- | ---------------------------------------- | -------------------- |
+| **Objectif / Focus** | Analyses & Rapports                      | Stockage des données |
+| **Couverture**       | généralement à l'échelle de l'entreprise | variable             |
 
 ## Quelle est la différence entre un entrepôt de données et un lac de données ?
 
@@ -109,14 +109,14 @@ Un entrepôt de données dans le nuage présente notamment les avantages suivant
 
 Ci-dessous, vous trouverez un aperçu des différences entre le cloud et le sur site.
 
-| | **Cloud** | **On-Premises** |
-| --- | --- | --- |
-| **Déploiement** | Configuration possible partout dans le monde en peu de temps | Configuration du matériel sur site pouvant prendre plusieurs semaines |
-| **Coûts** | principe du "pay-as-you-go", pas de coûts supplémentaires pour l'infrastructure et le personnel | coûts d'acquisition et d'exploitation élevés pour l'infrastructure et le personnel |
-| **Évolutivité** | mise à l'échelle flexible et automatique sans limites | planification manuelle des capacités avec des limites claires |
-| **Sécurité** | cryptage élevé, sauvegardes automatiques | contrôle total et souveraineté des données, sécurité dépendant de vos processus informatiques |
-| **Mise à jour en temps réel** | très rapide grâce à la technologie in-memory | souvent basée sur le traitement par lots avec des retards |
-| **Utilisation** | souvent conviviale grâce à des éléments prédéfinis, pas de dépendance informatique | souvent complexe, les experts informatiques doivent connecter les sources de données et administrer le DWH |
+|                               | **Cloud**                                                                                       | **On-Premises**                                                                                            |
+| ----------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Déploiement**               | Configuration possible partout dans le monde en peu de temps                                    | Configuration du matériel sur site pouvant prendre plusieurs semaines                                      |
+| **Coûts**                     | principe du "pay-as-you-go", pas de coûts supplémentaires pour l'infrastructure et le personnel | coûts d'acquisition et d'exploitation élevés pour l'infrastructure et le personnel                         |
+| **Évolutivité**               | mise à l'échelle flexible et automatique sans limites                                           | planification manuelle des capacités avec des limites claires                                              |
+| **Sécurité**                  | cryptage élevé, sauvegardes automatiques                                                        | contrôle total et souveraineté des données, sécurité dépendant de vos processus informatiques              |
+| **Mise à jour en temps réel** | très rapide grâce à la technologie in-memory                                                    | souvent basée sur le traitement par lots avec des retards                                                  |
+| **Utilisation**               | souvent conviviale grâce à des éléments prédéfinis, pas de dépendance informatique              | souvent complexe, les experts informatiques doivent connecter les sources de données et administrer le DWH |
 
 ## SeaTable - l'entrepôt de données flexible, simple et économique
 
@@ -124,7 +124,7 @@ SeaTable est une [plate-forme sans code](https://seatable.com/) qui présente l'
 
 Grâce aux **intégrations avec Zapier, Make ou n8n** et à l'API **SeaTable**, les données provenant d'innombrables sources peuvent converger vers SeaTable. Pour que SeaTable puisse stocker toutes les données sous forme structurée, il suffit de sélectionner au préalable les [types de données](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) souhaités. C'est aussi facile grâce au **principe modulaire convivial** que de créer ses propres applications grâce au **constructeur d'applications intégré** [Apps](https://seatable.com/app-erstellen/). De plus, SeaTable permet la **collaboration en équipe** et actualise les données en temps réel - les modifications sont immédiatement visibles pour tous les utilisateurs et entièrement documentées dans l'historique des versions.
 
-De plus, vous pouvez choisir d'exploiter votre entrepôt de données [sur site](https://seatable.com/on-premises/) ou dans le [nuage](https://seatable.com/cloud/). Profitez de l'évolutivité et du confort du **SeaTable Cloud** ou hébergez **SeaTable Server** sur vos propres serveurs avec un contrôle total et la souveraineté des données. Commencez avec la version de base gratuite, que vous pouvez mettre à niveau à tout moment vers un [abonnement Plus ou Enterprise](https://seatable.com/preise/) dès que vous avez besoin de plus de fonctionnalités ou d'espace de stockage.
+De plus, vous pouvez choisir d'exploiter votre entrepôt de données [sur site](https://seatable.com/on-premises/) ou dans le [nuage]({{< relref "pages/product/seatable-cloud" >}}). Profitez de l'évolutivité et du confort du **SeaTable Cloud** ou hébergez **SeaTable Server** sur vos propres serveurs avec un contrôle total et la souveraineté des données. Commencez avec la version de base gratuite, que vous pouvez mettre à niveau à tout moment vers un [abonnement Plus ou Enterprise]({{< relref "pages/prices" >}}) dès que vous avez besoin de plus de fonctionnalités ou d'espace de stockage.
 
 [Inscrivez-vous gratuitement](https://seatable.com/registrierung/) et découvrez à quel point l'entreposage de données peut être simple.
 
@@ -134,13 +134,19 @@ De plus, vous pouvez choisir d'exploiter votre entrepôt de données [sur site](
 
 Qu'est-ce qu'un entrepôt de données ?
 Une définition largement reconnue de l'entrepôt de données est qu'un DWH rassemble de multiples données provenant de différentes sources en un ensemble de données unifié afin de permettre des analyses fondées. Pour ce faire, il prépare les données et les stocke de manière structurée dans une base de données.
+
 ---
+
 Qu'est-ce qu'un data lake ?
 Un data lake est, tout comme un entrepôt de données, un système de stockage spécial. Par rapport à un entrepôt de données, un data lake stocke toutefois des données brutes non traitées. Le traitement se fait en aval et ne commence que lorsque vous avez besoin des données pour l'analyse.
+
 ---
+
 Qu'est-ce qu'un data mart?|||
 Un data mart est une partie du data warehouse destinée à un cas d'application ou à un domaine d'activité spécifique. Il fournit à un groupe d'utilisateurs défini les données qui les intéressent. En revanche, l'entrepôt de données stocke les données de toute une entreprise.
+
 ---
+
 Que signifie ETL ?
 ETL est l'abréviation d'Extract, Transform, Load. Cela décrit les trois étapes du processus au cours duquel les données sont collectées à partir de différentes sources, transformées et stockées dans l'entrepôt de données.
 

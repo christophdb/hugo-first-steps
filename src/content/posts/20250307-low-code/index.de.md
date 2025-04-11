@@ -1,27 +1,27 @@
 ---
-title: "Low Code, No Code und die Software-Entwicklung der Zukunft"
-description: "Dank No Code und Low Code Entwicklung können endlich auch Personen mit geringen oder gar keinen Programmierkenntnissen eigene Web-Applikationen bauen. Doch was bedeutet eigentlich Low Code? Wie unterscheidet es sich von No Code und klassischem Coding? Und welche Low Code Plattform eignet sich für welche Anwendung? In diesem Artikel finden Sie Antworten."
+title: 'Low Code, No Code und die Software-Entwicklung der Zukunft'
+description: 'Dank No Code und Low Code Entwicklung können endlich auch Personen mit geringen oder gar keinen Programmierkenntnissen eigene Web-Applikationen bauen. Doch was bedeutet eigentlich Low Code? Wie unterscheidet es sich von No Code und klassischem Coding? Und welche Low Code Plattform eignet sich für welche Anwendung? In diesem Artikel finden Sie Antworten.'
 date: 2025-03-07
-categories: 
-  - "No Code / Low Code"
-tags: 
-  - "Digitale Transformation"
-  - "Integration & Automatisierung"
-  - "Toolings & Plugins"
-color: "#f2afdb"
-url: "/de/low-code"
+categories:
+    - 'No Code / Low Code'
+tags:
+    - 'Digitale Transformation'
+    - 'Integration & Automatisierung'
+    - 'Toolings & Plugins'
+color: '#f2afdb'
+url: '/de/low-code'
 ---
 
 ## Sagen Sie Ciao zum Coden – mit Low Code und No Code
 
-Haben Sie sich schon einmal gewünscht, mit wenigen Klicks Ihre eigenen Softwarelösungen entwickeln zu können, ohne Zeile für Zeile Code schreiben zu müssen? Stellen Sie sich vor, wie leicht und schnell Ihnen die [Softwareentwicklung](https://seatable.com/it-service-management/) plötzlich von der Hand ginge! Fühlt sich an wie Science-Fiction? Ist es aber nicht: Werfen Sie mit uns einen Blick in die Welt der Low-Code-Entwicklung! Im folgenden Artikel betrachten wir auch den Unterschied zwischen Low Code und No Code und klären, was eine No-Code-/Low-Code-Plattform ist.
+Haben Sie sich schon einmal gewünscht, mit wenigen Klicks Ihre eigenen Softwarelösungen entwickeln zu können, ohne Zeile für Zeile Code schreiben zu müssen? Stellen Sie sich vor, wie leicht und schnell Ihnen die [Softwareentwicklung]({{< relref "pages/industry-solutions/software-development" >}}) plötzlich von der Hand ginge! Fühlt sich an wie Science-Fiction? Ist es aber nicht: Werfen Sie mit uns einen Blick in die Welt der Low-Code-Entwicklung! Im folgenden Artikel betrachten wir auch den Unterschied zwischen Low Code und No Code und klären, was eine No-Code-/Low-Code-Plattform ist.
 
 ## Was ist Low Code?
 
 Low Code ist der englische Fachbegriff für Entwicklungsmethoden, bei denen das Programmieren nicht mehr mithilfe von textbasierten Programmiersprachen, sondern auf Basis von visuellen Hilfsmitteln erfolgt. Intuitive grafische Tools und vorgefertigte Bausteine ermöglichen es dabei, Anwendungen mit geringem manuellem Programmieraufwand zu erstellen.
 
 > „Softwareentwicklung ist immer anstrengend, zeitraubend und erfordert die Fähigkeiten von erfahrenen Entwicklern. Low Code Entwicklung verspricht, diesen aufwändigen Prozess zu beschleunigen und zu vereinfachen.“
-> 
+>
 > Christoph Dyllick-Brenzinger, CTO von SeaTable
 
 ## Was ist eine Low Code Plattform?
@@ -42,7 +42,7 @@ Was eine Low Code Plattform im Kern ausmacht, lässt sich anhand dieser Merkmale
 
 ## Was ist No Code?
 
-No Code geht noch einen Schritt weiter: Im Gegensatz zu Low-Code-Plattformen richtet sich eine **No-Code-Plattform** an Benutzer ohne jegliche Programmierkenntnisse. In der vollständig visuellen Entwicklungsumgebung können Sie Anwendungen zumeist per Drag-and-Drop erstellen, ohne eine einzige Zeile Code schreiben zu müssen. No Code ist daher ideal für die Erstellung von einfachen Anwendungen und [automatisierten Workflows](https://seatable.com/workflow-management/). Der Fokus liegt hier klar auf Schnelligkeit und Benutzerfreundlichkeit; das Einbinden von selbst geschriebenem Code ist nicht vorgesehen.
+No Code geht noch einen Schritt weiter: Im Gegensatz zu Low-Code-Plattformen richtet sich eine **No-Code-Plattform** an Benutzer ohne jegliche Programmierkenntnisse. In der vollständig visuellen Entwicklungsumgebung können Sie Anwendungen zumeist per Drag-and-Drop erstellen, ohne eine einzige Zeile Code schreiben zu müssen. No Code ist daher ideal für die Erstellung von einfachen Anwendungen und [automatisierten Workflows]({{< relref "pages/industry-solutions/individual" >}}). Der Fokus liegt hier klar auf Schnelligkeit und Benutzerfreundlichkeit; das Einbinden von selbst geschriebenem Code ist nicht vorgesehen.
 
 ## Low Code vs. No Code
 
@@ -84,7 +84,7 @@ Typische Anwendungsfälle sind:
 - **Prototypen und MVPs (Minimum Viable Products)**: Entwickeln Sie schnell einsatzbereite Software-Prototypen, um Ideen zu testen und früh Feedback einzuholen.
 
 > „Aus meiner Sicht sollte man eine Low Code Plattform als einen Spielplatz zum Ausprobieren neuer Lösungen ansehen, um Prozesse digital zu gestalten und zu automatisieren.“
-> 
+>
 > Christoph Dyllick-Brenzinger, CTO von SeaTable
 
 ### Sollten Sie eine Low Code oder No Code Plattform nutzen?
@@ -152,7 +152,7 @@ Was versteht man unter Low Code? |||
 
 Low Code bedeutet im Englischen so viel wie "geringer Programmieraufwand" und meint eine bestimmte Art von Entwicklungsmethoden. Bei diesen erfolgt das Programmieren nicht mehr mithilfe von textbasierten Programmiersprachen, sondern auf Basis von visuellen Hilfsmitteln. Intuitive grafische Tools und vorgefertigte Bausteine ermöglichen es dabei, Anwendungen mit geringem manuellem Programmieraufwand zu erstellen.
 
---- 
+---
 
 Was ist der Unterschied zwischen Low Code und No Code? |||
 

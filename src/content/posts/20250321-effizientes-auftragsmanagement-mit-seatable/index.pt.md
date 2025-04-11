@@ -1,14 +1,14 @@
 ---
-title: "A empresa de instalações de construção desenvolve uma gestão eficiente de encomendas com o SeaTable"
-description: "Uma empresa chinesa do sector da instalação de construção reorganizou o seu sistema de gestão de encomendas com o SeaTable, avançando com sucesso na sua transformação digital. O resultado é um sistema de gestão moderno e altamente eficiente com uma aplicação universal."
+title: 'A empresa de instalações de construção desenvolve uma gestão eficiente de encomendas com o SeaTable'
+description: 'Uma empresa chinesa do sector da instalação de construção reorganizou o seu sistema de gestão de encomendas com o SeaTable, avançando com sucesso na sua transformação digital. O resultado é um sistema de gestão moderno e altamente eficiente com uma aplicação universal.'
 date: 2025-03-21
-categories: 
-  - "Informações gerais"
-  - "Casos de clientes"
-tags: 
-  - "Transformação digital"
-color: "#f7f0d6"
-url: "/pt/effizientes-auftragsmanagement-mit-seatable"
+categories:
+    - 'Informações gerais'
+    - 'Casos de clientes'
+tags:
+    - 'Transformação digital'
+color: '#f7f0d6'
+url: '/pt/effizientes-auftragsmanagement-mit-seatable'
 ---
 
 ## Avançar na transformação digital
@@ -17,7 +17,7 @@ Graças à flexibilidade do sistema, o SeaTable pode ser utilizado para uma gran
 
 ## Complexidade crescente e falta de transparência na gestão de encomendas
 
-O nosso cliente dedica-se à construção e manutenção de instalações de edifícios. A empresa em rápido crescimento utilizava anteriormente o Excel para a gestão de encomendas. No entanto, à medida que o volume de encomendas crescia, os funcionários atingiam cada vez mais os limites do sistema e procuravam uma [alternativa ao Excel](https://seatable.com/excel-alternative/). Muitos processos eram ineficientes devido à falta de funções de automatização e tinham de ser processados manualmente. A falta de um verdadeiro trabalho colaborativo em tempo real significava que os dados nem sempre estavam actualizados e que o estado dos processos não era apresentado de forma transparente a todo o momento. Para além disso, havia preocupações crescentes com a segurança dos dados. A mudança para um sistema novo e moderno tornou-se imperativa.     
+O nosso cliente dedica-se à construção e manutenção de instalações de edifícios. A empresa em rápido crescimento utilizava anteriormente o Excel para a gestão de encomendas. No entanto, à medida que o volume de encomendas crescia, os funcionários atingiam cada vez mais os limites do sistema e procuravam uma [alternativa ao Excel](https://seatable.com/excel-alternative/). Muitos processos eram ineficientes devido à falta de funções de automatização e tinham de ser processados manualmente. A falta de um verdadeiro trabalho colaborativo em tempo real significava que os dados nem sempre estavam actualizados e que o estado dos processos não era apresentado de forma transparente a todo o momento. Para além disso, havia preocupações crescentes com a segurança dos dados. A mudança para um sistema novo e moderno tornou-se imperativa.
 
 **Os principais requisitos da empresa incluíam:**
 
@@ -32,7 +32,7 @@ O nosso cliente dedica-se à construção e manutenção de instalações de edi
 
 Com a Universal App da SeaTable, foi desenvolvida uma aplicação de gestão de encomendas personalizada com base num SeaTable inteligente com várias tabelas, automações e funções sem código. Isto significa que os funcionários de diferentes departamentos podem agora trabalhar em conjunto nas encomendas em tempo real. Se necessário, a aplicação pode ser expandida através de drag & drop sem a necessidade de contratar programadores.
 
-Mas isso não é tudo: graças às automações e funções de notificação integradas no SeaTable, os processos foram acelerados. Os dados em tempo real preparados visualmente** permitem análises rápidas e processos de tomada de decisão. E tudo isto sem ter de comprometer a segurança dos dados.
+Mas isso não é tudo: graças às automações e funções de notificação integradas no SeaTable, os processos foram acelerados. Os dados em tempo real preparados visualmente\*\* permitem análises rápidas e processos de tomada de decisão. E tudo isto sem ter de comprometer a segurança dos dados.
 
 ### Trabalho colaborativo e autorizações de acesso
 
@@ -50,4 +50,4 @@ Um avanço muito significativo é a **criação descomplicada de painéis para m
 
 ## Novos impulsos de crescimento através de fluxos de trabalho mais eficientes e transparência
 
-A implementação do SeaTable ajudou a empresa a modernizar a sua gestão de encomendas e a implementar fluxos de trabalho [digitais eficientes](https://seatable.com/workflow-management/). Todos os funcionários podem agora trabalhar simultaneamente num único sistema com dados actualizados, sem receio de perda de dados. Os gestores de projectos e a administração têm acesso a visualizações de dados actuais em qualquer altura, a fim de avaliarem os números-chave relevantes da empresa e o estado do projeto. E tudo num único sistema. A gestão de encomendas no SeaTable acelerou significativamente os processos de trabalho e as decisões, criando ao mesmo tempo a base para o crescimento futuro.
+A implementação do SeaTable ajudou a empresa a modernizar a sua gestão de encomendas e a implementar fluxos de trabalho [digitais eficientes]({{< relref "pages/industry-solutions/individual" >}}). Todos os funcionários podem agora trabalhar simultaneamente num único sistema com dados actualizados, sem receio de perda de dados. Os gestores de projectos e a administração têm acesso a visualizações de dados actuais em qualquer altura, a fim de avaliarem os números-chave relevantes da empresa e o estado do projeto. E tudo num único sistema. A gestão de encomendas no SeaTable acelerou significativamente os processos de trabalho e as decisões, criando ao mesmo tempo a base para o crescimento futuro.

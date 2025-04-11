@@ -1,5 +1,5 @@
 ---
-title: "Excel gratuit ? Tableur : comparaison des programmes"
+title: 'Excel gratuit ? Tableur : comparaison des programmes'
 description: "Vous avez besoin d'un tableur puissant, mais vous n'êtes pas à l'aise avec Excel ? Ou vous avez des doutes sur la protection des données par rapport au géant américain Microsoft ? Pas de problème ! Il existe suffisamment de programmes qui, contrairement à Excel, sont gratuits ou offrent même plus de fonctions. Plongez dans le monde des solutions de tableur!"
 date: 2025-03-06
 categories:
@@ -20,20 +20,20 @@ Découvrez ci-dessous comment utiliser Excel gratuitement et quels autres tableu
 
 Excel est le tableur du géant américain de la technologie Microsoft et fait partie des applications Microsoft 365. Avec un **compte Microsoft gratuit**, vous pouvez utiliser Excel exclusivement en ligne - y compris 5 gigaoctets de mémoire cloud. Comme Microsoft propose également l'application mobile Excel gratuitement, vous pouvez installer Excel gratuitement sur les appareils Android et iOS. Pour certaines applications, cela peut suffire.
 
-Mais si vous avez besoin de la version de bureau complète pour Windows ou macOS, vous devrez mettre la main à la poche. Un abonnement **Microsoft 365 pour une personne coûte 69 euros par an ou 7 euros par mois à la maison et même 11,70 euros HT par utilisateur et par mois pour les entreprises. Il vaut donc en tout cas la peine de s'intéresser à d'autres fournisseurs et de tester gratuitement l'un ou l'autre des tableurs.
+Mais si vous avez besoin de la version de bureau complète pour Windows ou macOS, vous devrez mettre la main à la poche. Un abonnement \*\*Microsoft 365 pour une personne coûte 69 euros par an ou 7 euros par mois à la maison et même 11,70 euros HT par utilisateur et par mois pour les entreprises. Il vaut donc en tout cas la peine de s'intéresser à d'autres fournisseurs et de tester gratuitement l'un ou l'autre des tableurs.
 
 ## Tableurs qui, contrairement à Excel, sont gratuits
 
 Si vous souhaitez simplement avoir un aperçu rapide, consultez le tableau ci-dessous, qui compare les principaux tableurs. Une description détaillée suit plus loin, après une catégorisation des tableurs considérés ici.
 
-| **Logiciel** | **Développé par** | **Systèmes d'exploitation** |
-| ------------- | ------------------------ | ------------------- |
-| Calc | LibreOffice / OpenOffice | Windows, Mac, Linux |
-| PlanMaker | SoftMaker | Windows, Mac, Linux |
-| Google Sheets | Google | basé sur le navigateur |
-| Zoho Sheet | Zoho | basé sur le navigateur |
-| Ethercalc | projet open source | basé sur un navigateur |
-| SeaTable | Seafile | basé sur un navigateur |
+| **Logiciel**  | **Développé par**        | **Systèmes d'exploitation** |
+| ------------- | ------------------------ | --------------------------- |
+| Calc          | LibreOffice / OpenOffice | Windows, Mac, Linux         |
+| PlanMaker     | SoftMaker                | Windows, Mac, Linux         |
+| Google Sheets | Google                   | basé sur le navigateur      |
+| Zoho Sheet    | Zoho                     | basé sur le navigateur      |
+| Ethercalc     | projet open source       | basé sur un navigateur      |
+| SeaTable      | Seafile                  | basé sur un navigateur      |
 
 Dans cette comparaison, seules les applications locales supportant au moins deux familles de systèmes d'exploitation ont été prises en compte. C'est la raison pour laquelle Apple Numbers, qui est un simple tableur pour MacOS/iOS, n'y figure pas, pas plus que Gnumeric, qui est depuis 2014 une simple application pour Linux.
 
@@ -187,7 +187,7 @@ De plus, SeaTable vous permet de créer vos propres apps sans connaissances en p
 
 En tant qu'arme polyvalente et flexible, SeaTable ne fait pas non plus de compromis en matière de **mode d'exploitation**. SeaTable peut être utilisé confortablement dans le [nuage]({{< relref "pages/product/seatable-cloud" >}}) ou comme [solution auto-hébergée]({{< relref "pages/product/seatable-server" >}}). Contrairement aux autres concurrents Excel basés sur le web, SeaTable existe donc aussi en tant que logiciel pour son propre serveur. De cette manière, SeaTable est idéal pour tous ceux qui sont confrontés à des exigences strictes en matière de protection des données.
 
-L'[abonnement gratuit](https://seatable.com/preise/) est gratuit en permanence et suffit pour un usage privé. Les versions payantes Plus et Enterprise offrent des fonctionnalités avancées pour une utilisation en entreprise, telles que les partages personnalisés, l'automatisation et la personnalisation. Le [nuage dédié]({{< relref "pages/product/seatable-dedicated" >}}) dispose en outre d'une authentification centrale des utilisateurs et d'une prise en charge du stockage d'objets.
+L'[abonnement gratuit]({{< relref "pages/prices" >}}) est gratuit en permanence et suffit pour un usage privé. Les versions payantes Plus et Enterprise offrent des fonctionnalités avancées pour une utilisation en entreprise, telles que les partages personnalisés, l'automatisation et la personnalisation. Le [nuage dédié]({{< relref "pages/product/seatable-dedicated" >}}) dispose en outre d'une authentification centrale des utilisateurs et d'une prise en charge du stockage d'objets.
 
 SeaTable suit une voie similaire à celle de Google Sheets - agréablement conventionnelle pour les développeurs - en ce qui concerne les extensions. Grâce à l'API et au SDK, il est possible de développer des extensions telles que des automatisations, des intégrations et des compléments de fonctions à un coût raisonnable. Vu le jeune âge de la solution, il sera intéressant de voir quelles nouveautés seront ajoutées à l'avenir.
 
@@ -199,4 +199,4 @@ Les tableurs connus présentés dans ce comparatif sont fonctionnellement simila
 
 SeaTable se distingue de la masse par ses formats de données avancés, ses fonctions de base de données et son constructeur d'applications. SeaTable est la seule application de ce comparatif à être disponible à la fois en tant qu'application en nuage et en tant qu'application auto-hébergée. Chaque utilisateur peut ainsi choisir librement entre la souveraineté des données et le confort.
 
-[S'inscrire gratuitement et essayer SeaTable maintenant](/fr/registration)
+[S'inscrire gratuitement et essayer SeaTable maintenant]({{< relref "pages/registration" >}})

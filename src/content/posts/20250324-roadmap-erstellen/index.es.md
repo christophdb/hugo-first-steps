@@ -72,7 +72,7 @@ Ahora debería disponer de la información más importante para crear su hoja de
 
 Para facilitarte el diseño, varios servicios te ofrecen **plantillas de hojas de ruta** ya preparadas, que sólo tienes que rellenar individualmente.
 
-### 6\. Actualizaciones y comunicación periódicas**
+### 6\. Actualizaciones y comunicación periódicas\*\*
 
 Independientemente del tipo de hoja de ruta que haya elegido, debe actualizar periódicamente su **progreso** y cualquier **cambio**. Por ejemplo, pueden añadirse nuevas tareas o retrasarse su ejecución. Los cambios de estrategia, en particular, provocan ajustes de gran alcance en su hoja de ruta. Asegúrese de comunicar los efectos de las actualizaciones de forma rápida y exhaustiva para que todas las partes interesadas estén siempre al día.
 
@@ -110,8 +110,6 @@ Cada objetivo tiene sus propios requisitos. Por eso tiene sentido elegir una hoj
 
 Una hoja de ruta de proyecto proporciona exactamente lo que su nombre indica: una visión general de un proyecto específico. Puede tratarse de una campaña de marketing, un evento importante o un proyecto de construcción, por ejemplo. La hoja de ruta del proyecto es una poderosa herramienta para definir objetivos, comunicar requisitos a las partes interesadas y cumplir plazos. Los hitos, la planificación de costes y recursos también son elementos típicos.
 
- 
-
 Si busca una plantilla que le facilite el registro de informes y documentación del proyecto, el planificador de proyectos de SeaTable es ideal.
 
 ### Hoja de ruta estratégica
@@ -130,7 +128,7 @@ Cuando se utiliza externamente, la hoja de ruta del producto sirve para presenta
 
 Una hoja de ruta tecnológica o informática le ayudará si su objetivo es visualizar la infraestructura tecnológica o el desarrollo de software en su empresa. Esto le ofrece una visión general de las oportunidades y los riesgos para la gestión de la empresa: ¿qué tecnologías se han quedado obsoletas y qué sistemas desea introducir para seguir el ritmo de la digitalización y mantenerse al día?
 
-Visualice su hoja de ruta para [desarrollo de software](https://seatable.com/it-service-management/) con la plantilla SeaTable y benefíciese de una visión estructurada.
+Visualice su hoja de ruta para [desarrollo de software]({{< relref "pages/industry-solutions/software-development" >}}) con la plantilla SeaTable y benefíciese de una visión estructurada.
 
 ### Hoja de ruta integrada
 
