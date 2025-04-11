@@ -3,14 +3,28 @@
     <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
         <pre><code>- name: "{{ .name }}"
   weight: 1
-  title: </code></pre>
+  title:
+  orientation: (left, center, right)
+  buttons: </code></pre>
     </div>
 {{ end }}
+
+{{ $orientation := .Params.orientation | default "right" }}
+{{ $orientationClass := cond (eq $orientation "right") "text-right" (cond (eq $orientation "center") "text-center" (cond (eq $orientation "left") "text-left" "")) }}
 
 
 <!-- HTML Block -->
 <section class="padding" id="{{ .name }}">
     <section class="mx-auto max-w-[900px]">
-        <h2 class="gradient text-center text-5xl font-bold leading-narrow">{{ .title }}</h2>
+        <h2 class="gradient {{ $orientationClass }} text-5xl font-bold leading-narrow">{{ .title }}</h2>
+        {{ if .text }}<p class="{{ $orientationClass }} mb-12 mt-8 text-xl leading-normal">{{ .text | markdownify }}</p>{{ end }}
+
+        {{ if .buttons }}
+            <div class="{{ $orientationClass }} mx-auto mt-16">
+                {{ range .buttons }}
+                    {{ partial "content-blocks/helpers/button.html" . }}
+                {{ end }}
+            </div>
+        {{ end }}
     </section>
 </section>

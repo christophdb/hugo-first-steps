@@ -10,6 +10,8 @@ sections:
       title: Press Area and Media Reports
       subtitle: 'We are in the spotlight'
       text: 'Not only do we talk about ourselves, but numerous media reports do as well. You can find them all here in our press area. Would you like to write about us too? Feel free! [Contact us]({{< relref "pages/contact" >}}) for more information.'
+      subheadline: Who has already reported about us...
+      image: /images/Logo_PR.png
       items:
           - headline: 'Media Kit'
             text: '43.87 MB'

@@ -1,6 +1,7 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
   weight: 1
   title: 
   subtitle: (optional)
@@ -8,32 +9,34 @@
   - q:
     a:
   - q:
-    a:</code></pre></div>
+    a:</code></pre>
+    </div>
 {{ end }}
+
 
 <!-- HTML Block -->
 <section class="padding">
     <section id="faq">
-        <div class="mx-auto text-center max-w-[900px] mb-24">
+        <div class="mx-auto mb-24 max-w-[900px] text-center">
             {{ if .subtitle }}
-                <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
+                <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             {{ end }}
-            <h2 class="text-4xl font-bold mt-1 leading-narrow">{{ .title }}</h2>
+            <h2 class="mt-1 text-4xl font-bold leading-narrow">{{ .title }}</h2>
         </div>
 
         {{ range .items }}
-        <div class="grid grid-cols-1 mx-auto max-w-[900px] mt-4" x-data="{ open: false }">
-            <div class="cursor-pointer border-b border-gray-200 p-6" @click="open = !open">
-                <dt class="flex justify-between items-center" aria-controls="faq-1">
-                    <p class="font-poppins font-bold leading-normal text-xl" :class="{ 'gradient': open }">{{ .q }}</p>
-                    {{ partial "icon.html" "chevron-up" }}
-                </dt>
-                <dd class="text-lg mt-6" x-show="open" x-collapse x-transition>
-                    <p class="leading-normal">{{ .a | safeHTML }}</p>
-                </dd>
+            <div class="mx-auto mt-4 grid max-w-[900px] grid-cols-1" x-data="{ open: false }">
+                <div class="cursor-pointer border-b border-gray-200 p-6" @click="open = !open">
+                    <dt class="flex items-center justify-between" aria-controls="faq-1">
+                        <p class="font-poppins text-xl font-bold leading-normal" :class="{ 'gradient': open }">{{ .q }}</p>
+                        {{ partial "icon.html" "chevron-up" }}
+                    </dt>
+                    <dd class="mt-6 text-lg" x-show="open" x-collapse x-transition>
+                        <p class="leading-normal">{{ .a | markdownify }}</p>
+                    </dd>
+                </div>
             </div>
-        </div>
         {{ end }}
-        
+
     </section>
 </section>

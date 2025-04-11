@@ -53,6 +53,13 @@
     @apply font-bold;
     @apply font-poppins;
 }
+/* FIXME: das ist noch nicht geil für ein faq - z.B. excel alternative */
+#faq dd ul {
+    @apply mt-4 list-disc pb-4 pl-6;
+}
+#faq dd li {
+    @apply pb-4;
+}
 
 /*
 .abc {

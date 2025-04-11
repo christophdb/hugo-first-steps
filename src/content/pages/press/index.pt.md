@@ -10,6 +10,8 @@ sections:
       title: Área de Imprensa e Relatórios da Mídia
       subtitle: 'Estamos em destaque'
       text: 'Não apenas falamos sobre nós mesmos, mas também inúmeros relatórios da mídia o fazem. Você pode encontrá-los todos aqui na nossa área de imprensa. Gostaria de escrever sobre nós também? Fique à vontade! [Entre em contato conosco]({{< relref "pages/contact" >}}) para mais informações.'
+      subheadline: Quem já falou de nós...
+      image: /images/Logo_PR.png
       items:
           - headline: 'Kit de Mídia'
             text: '43.87 MB'
