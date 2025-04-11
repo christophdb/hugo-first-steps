@@ -5,9 +5,8 @@ date: 2025-03-07
 categories:
     - 'No Code / Low Code'
 tags:
-    - 'Digitale Transformation'
-    - 'Integration & Automatisierung'
-    - 'Toolings & Plugins'
+    - 'Digital Transformation'
+    - 'No Code / Low Code'
 color: '#f2afdb'
 url: '/low-code'
 ---
