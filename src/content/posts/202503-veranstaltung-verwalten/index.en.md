@@ -211,7 +211,7 @@ A detailed event budget should include both obvious costs such as venue hire, ca
 
 ---
 
-How can I ensure that my event is well attended?**|||
+How can I ensure that my event is well attended?|||
 
 To maximize the number of participants, it is important to start promoting the event early and use all relevant channels to reach your target group. Personalized invitations, social media marketing and easy registration via an online tool can significantly increase the participation rate.
 

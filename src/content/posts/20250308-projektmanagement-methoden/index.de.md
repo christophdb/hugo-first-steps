@@ -5,6 +5,7 @@ date: 2025-03-08
 categories:
     - 'Allgemein'
 tags:
+- 'Projektmanagement'
 color: '#fca86c'
 url: '/de/projektmanagement-methoden/'
 ---
