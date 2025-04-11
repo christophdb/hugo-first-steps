@@ -25,7 +25,9 @@ sections:
           - text: 'Nutzen Sie alle Funktionen von SeaTable und bleiben Sie dennoch unabhängig: Sie entscheiden, wie viel Unterstützung Sie von uns haben möchten.'
       image: '/images/Product-Page-SeaTable-Server-700x450-1.png'
       image_position: left
-      # TODO: Button zum Adminhancbuch
+      buttons:
+          - label: Zum Adminhandbuch
+            link: https://admin.seatable.io
 
     - name: content-11
       weight: 3
@@ -36,7 +38,9 @@ sections:
           - text: Gleichzeitig unterstützt SeaTable alle gängigen Authentifizierungstechniken wie SAML, OAuth, Shibboleth, Active Directory und LDAP. Es ermöglicht Zwei-Faktor-Authentifizierung und Single Sign-on und unterstützt clusterfähige Backends wie Ceph und S3.
           - text: In Ihrem System bestimmen Sie, welche API-Limits gelten sollen bzw. ob überhaupt welche gelten sollen.
       image: '/images/Product-Page-Server_750x500.png'
-      # TODO: Button zu den Preisen
+      buttons:
+          - label: Zu den Preisen
+            link: pages/prices
 
     - name: content-4
       weight: 6
