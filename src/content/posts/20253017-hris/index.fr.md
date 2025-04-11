@@ -124,4 +124,4 @@ Vous pouvez ensuite développer votre base de données RH à votre guise avec d'
 
 Au-delà des fonctions d'un SIRH, SeaTable vous permet également de mettre en œuvre le recrutement, la gestion des candidats et l'onboarding. Même le développement du personnel et la formation peuvent être organisés dans SeaTable. En tant que base de données RH allemande, SeaTable répond aux normes de protection des données les plus strictes (RGPD) et stocke toutes les données en toute sécurité dans des centres de données allemands. Il est donc difficile de croire que ce logiciel de gestion du personnel à part entière est gratuit.
 
-[Inscrivez-vous dès aujourd'hui](https://seatable.com/registrierung/) et découvrez nos modèles gratuits pour les gestionnaires RH !
+[Inscrivez-vous dès aujourd'hui]({{< relref "pages/registration" >}}) et découvrez nos modèles gratuits pour les gestionnaires RH !

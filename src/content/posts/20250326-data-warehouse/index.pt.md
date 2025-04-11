@@ -126,7 +126,7 @@ Os dados de inúmeras fontes podem fluir para o SeaTable através de **integraç
 
 Além disso, pode escolher se pretende operar o seu armazém de dados [on-premises]({{< relref "pages/product/seatable-server" >}}) ou na [cloud]({{< relref "pages/product/seatable-cloud" >}}). Beneficie da escalabilidade e da comodidade do **SeaTable Cloud** ou aloje o **SeaTable Server** nos seus próprios servidores com total controlo e soberania dos dados. Comece com a versão básica gratuita, que pode atualizar para uma subscrição [Plus ou Enterprise]({{< relref "pages/prices" >}}) em qualquer altura, assim que necessitar de mais funções ou espaço de armazenamento.
 
-[Registe-se gratuitamente](https://seatable.com/registrierung/) e experimente como o armazenamento de dados pode ser fácil.
+[Registe-se gratuitamente]({{< relref "pages/registration" >}}) e experimente como o armazenamento de dados pode ser fácil.
 
 ## FAQs sobre armazenamento de dados
 

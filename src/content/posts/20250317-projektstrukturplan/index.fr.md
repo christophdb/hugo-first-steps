@@ -1,14 +1,14 @@
 ---
-title: "Comment créer un organigramme technique de projet efficace - modèle et conseils"
+title: 'Comment créer un organigramme technique de projet efficace - modèle et conseils'
 description: "Un organigramme technique de projet est une méthode efficace pour présenter et structurer de manière claire des projets complexes. Vous apprendrez ici quand vous devriez créer un modèle d'organigramme de projet, comment vous pouvez procéder et quels outils vous aident à le faire"
 date: 2025-03-17
-categories: 
-  - "Général"
-  - "Meilleures pratiques"
-tags: 
-  - "Gestion de projet"
-color: "#67c3c4"
-url: "/fr/projektstrukturplan"
+categories:
+    - 'Général'
+    - 'Meilleures pratiques'
+tags:
+    - 'Gestion de projet'
+color: '#67c3c4'
+url: '/fr/projektstrukturplan'
 ---
 
 ## L'organigramme de projet : Aborder les projets de manière structurée
@@ -53,9 +53,7 @@ Il s'agit maintenant de passer à la mise en œuvre concrète. Pour ce faire, no
 
 Lors d'un atelier de lancement avec toutes les personnes impliquées dans le projet, vous définissez les objectifs du projet selon les critères **SMART** (spécifiques, mesurables, attrayants, réalistes, datés). Soit il existe un objectif unique pour l'ensemble du projet, soit celui-ci doit être divisé en sous-projets. Dans notre cas, l'objectif global est de déménager de l'ancien bureau vers un nouveau dans les délais impartis.
 
-![Avec un organigramme technique de projet, vous atteignez votre objectif.](Gehen-Sie-Projekte-strukturiert-an.jpg "Avec un organigramme technique de projet, vous atteignez votre objectif.")
-
-
+![Avec un organigramme technique de projet, vous atteignez votre objectif.](Gehen-Sie-Projekte-strukturiert-an.jpg 'Avec un organigramme technique de projet, vous atteignez votre objectif.')
 
 ### 2\. Définir les tâches partielles
 
@@ -117,6 +115,6 @@ Vous trouverez le modèle d'organigramme technique de projet [ici](https://seata
 
 Le concept autour de l'organigramme technique de projet semble simple - mais selon la taille de votre projet, il peut vite devenir complexe et difficile à gérer. Un modèle d'organigramme de projet dans un outil adapté vous aidera à mettre en œuvre votre projet de la manière la plus efficace et la plus fluide possible.
 
-[Enregistrez-vous dès aujourd'hui](https://seatable.com/registrierung/), lancez votre prochain projet et faites-le aboutir grâce au modèle de planification de structure de projet gratuit de SeaTable.
+[Enregistrez-vous dès aujourd'hui]({{< relref "pages/registration" >}}), lancez votre prochain projet et faites-le aboutir grâce au modèle de planification de structure de projet gratuit de SeaTable.
 
 Vous avez encore besoin d'un plan de projet qui illustre la chronologie des phases ou des tâches du projet ? Alors découvrez ici [comment créer un plan de projet classique](https://seatable.io/vorlage/yio4sr0wrcwuv3-1m0zvkg/).

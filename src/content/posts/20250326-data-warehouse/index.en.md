@@ -126,7 +126,7 @@ Data from countless sources can flow into SeaTable via **integrations with Zapie
 
 What's more, you can choose whether you want to operate your data warehouse [on-premises](https://seatable.com/on-premises/) or in the [cloud]({{< relref "pages/product/seatable-cloud" >}}). Benefit from the scalability and convenience of the **SeaTable Cloud** or host **SeaTable Server** on your own servers with full control and data sovereignty. Start with the free basic version, which you can upgrade to a [Plus or Enterprise subscription]({{< relref "pages/prices" >}}) at any time as soon as you need more functions or storage space.
 
-[Register for free](https://seatable.com/registrierung/) and experience how easy data warehousing can be.
+[Register for free]({{< relref "pages/registration" >}}) and experience how easy data warehousing can be.
 
 ## FAQs on data warehousing
 

@@ -1,6 +1,6 @@
 ---
-title: "HRIS - o que é e como pode beneficiar a sua organização"
-description: "Atualmente, é praticamente impossível uma gestão eficiente do pessoal sem um HRIS (Human Resources Information System) - pelo menos se a sua organização tiver atingido uma determinada dimensão. Neste artigo, analisamos a diferença entre um sistema de informação de recursos humanos (HRIS) e um sistema de gestão de recursos humanos (HRMS) e discutimos como pode tornar a sua gestão de RH mais eficiente com software que inclui uma base de dados de RH."
+title: 'HRIS - o que é e como pode beneficiar a sua organização'
+description: 'Atualmente, é praticamente impossível uma gestão eficiente do pessoal sem um HRIS (Human Resources Information System) - pelo menos se a sua organização tiver atingido uma determinada dimensão. Neste artigo, analisamos a diferença entre um sistema de informação de recursos humanos (HRIS) e um sistema de gestão de recursos humanos (HRMS) e discutimos como pode tornar a sua gestão de RH mais eficiente com software que inclui uma base de dados de RH.'
 date: 2025-03-17
 categories:
     - 'Informações gerais'
@@ -122,4 +122,4 @@ Pode depois expandir a sua base de dados de RH com tabelas e funções adicionai
 
 Para além das funções de um HRIS, também pode utilizar o SeaTable para implementar o recrutamento, a gestão de candidatos e a integração. Até o desenvolvimento do pessoal e a formação contínua podem ser organizados no SeaTable. Enquanto base de dados de RH alemã, o SeaTable cumpre as mais elevadas normas de proteção de dados (RGPD) e armazena todos os dados de forma segura em centros de dados alemães. Por isso, é difícil acreditar que este software de gestão de RH completo é gratuito.
 
-[Registe-se hoje] (https://seatable.com/registrierung/) e descubra os nossos modelos gratuitos para gestores de RH!
+[Registe-se hoje] ({{< relref "pages/registration" >}}) e descubra os nossos modelos gratuitos para gestores de RH!

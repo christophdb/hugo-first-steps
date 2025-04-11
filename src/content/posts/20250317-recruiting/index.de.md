@@ -1,13 +1,13 @@
 ---
-title: "Recruiting kompakt: So finden und überzeugen Sie Talente"
-description: "Ein erfolgreicher Recruiting-Prozess entscheidet darüber, ob Unternehmen zukunftsfähig bleiben oder im Wettbewerb zurückfallen. Erfahren Sie, welche Strategien und Methoden Ihr Recruiting auf das nächste Level heben und wie Sie im umkämpften Arbeitsmarkt die Nase vorn behalten."
+title: 'Recruiting kompakt: So finden und überzeugen Sie Talente'
+description: 'Ein erfolgreicher Recruiting-Prozess entscheidet darüber, ob Unternehmen zukunftsfähig bleiben oder im Wettbewerb zurückfallen. Erfahren Sie, welche Strategien und Methoden Ihr Recruiting auf das nächste Level heben und wie Sie im umkämpften Arbeitsmarkt die Nase vorn behalten.'
 date: 2025-03-17
-categories: 
-  - "Allgemein"
-tags: 
-  - "Bewerber & Talentmanagement"
-color: "#d4a2ee"
-url: "/de/recruiting"
+categories:
+    - 'Allgemein'
+tags:
+    - 'Bewerber & Talentmanagement'
+color: '#d4a2ee'
+url: '/de/recruiting'
 ---
 
 ## Wie Sie die besten Talente online erreichen
@@ -86,7 +86,8 @@ Ein erfolgreicher Recruiting Prozess legt den Grundstein für die Gewinnung qual
 - **Transparenz** ist ein weiterer Schlüssel zu einem erfolgreichen Recruiting-Prozess. Regelmäßige Updates und klare Informationen über die nächsten Schritte geben Ihren Bewerbern Orientierung und zeigen, dass Ihr Unternehmen strukturiert und professionell vorgeht.
 - Um Fairness und Objektivität zu gewährleisten, sollten Sie **standardisierte Fragen und Bewertungskriterien** einsetzen. Dies minimiert subjektive Einflüsse und sorgt dafür, dass alle Bewerberinnen und Bewerber nach den gleichen Maßstäben beurteilt werden.
 - Schließlich sollte der Recruiting Prozess **Ihre Unternehmenskultur widerspiegeln**. Ein authentisches Auftreten zeigt, wofür Ihr Unternehmen steht, und hilft Ihnen dabei, Kandidaten zu finden, die nicht nur fachlich, sondern auch aufgrund ihrer Persönlichkeit gut zu Ihnen passen.  
-    
+
+
 ![Recruiting Prozess abbilden](Das-zeichnet-einen-guten-Recruiting-Prozess-aus.jpg)
 
 ## Kosten, die im Recruiting anfallen
@@ -115,7 +116,7 @@ Auch die Prozesssteuerung wird einfacher: Dank des integrierten **Kanban-Boards*
 
 Aber SeaTable unterstützt Sie nicht nur im Personal Recruiting. Auch die Organisation von Vorstellungsgesprächen und das Onboarding neuer Teammitglieder können Sie mit weiteren kostenlosen Templates ganz leicht abbilden. Alles, was Sie für ein modernes und effizientes Recruiting brauchen, finden Sie in einem Tool.
 
-Probieren Sie SeaTable aus und erleben Sie, wie einfach Recruiting sein kann. [Registrieren Sie sich noch heute kostenlos](https://seatable.com/registrierung/) – und starten Sie direkt durch!
+Probieren Sie SeaTable aus und erleben Sie, wie einfach Recruiting sein kann. [Registrieren Sie sich noch heute kostenlos]({{< relref "pages/registration" >}}) – und starten Sie direkt durch!
 
 ## Häufig gestellte Fragen
 
@@ -135,22 +136,22 @@ Unternehmen können zwischen internem und externem Recruiting wählen. Internes 
 
 Was macht eine erfolgreiche Recruiting-Strategie aus?|||
 
-Eine gute Recruiting-Strategie ist authentisch, effizient und auf die Zielgruppe abgestimmt. Sie berücksichtigt folgende Aspekte:  
+Eine gute Recruiting-Strategie ist authentisch, effizient und auf die Zielgruppe abgestimmt. Sie berücksichtigt folgende Aspekte:
 
-- klare und ansprechende Stellenbeschreibungen  
-- schnelle und transparente Prozesse  
-- Fokussierung auf die Candidate Experience, um Talente langfristig zu binden  
+- klare und ansprechende Stellenbeschreibungen
+- schnelle und transparente Prozesse
+- Fokussierung auf die Candidate Experience, um Talente langfristig zu binden
 - Einsatz moderner Tools wie SeaTable für ein strukturiertes Bewerbermanagement
 
 ---
 
 Wie finde ich online die besten Talente?|||
 
-Online-Recruiting bietet vielfältige Möglichkeiten, Talente zu erreichen:  
+Online-Recruiting bietet vielfältige Möglichkeiten, Talente zu erreichen:
 
-- Nutzen Sie Social-Media-Plattformen wie LinkedIn oder Xing, um direkt mit Kandidaten in Kontakt zu treten.  
-- Optimieren Sie Ihre Karrierewebsite, um sie mobilfreundlich und informativ zu gestalten.  
-- Schalten Sie gezielte Anzeigen auf Jobbörsen wie StepStone oder Indeed.  
+- Nutzen Sie Social-Media-Plattformen wie LinkedIn oder Xing, um direkt mit Kandidaten in Kontakt zu treten.
+- Optimieren Sie Ihre Karrierewebsite, um sie mobilfreundlich und informativ zu gestalten.
+- Schalten Sie gezielte Anzeigen auf Jobbörsen wie StepStone oder Indeed.
 - Setzen Sie auf kreative Ansätze wie Guerilla-Marketing, um Aufmerksamkeit zu erzeugen.
 
 ---

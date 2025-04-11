@@ -15,21 +15,18 @@ url: '/es/onboarding-prozess'
 
 Por fin se ha cubierto la vacante y comienza el proceso de incorporación de su nuevo empleado. El nerviosismo es inevitable, sobre todo por parte del empleado. Pero usted y el departamento de RR.HH. también se enfrentan a circunstancias especiales con cada nueva contratación y, naturalmente, quieren que la incorporación del empleado se desarrolle sin problemas. Para usted, esto significa organizar todos los procesos necesarios a tiempo.
 
-   
 La gestión de la incorporación se refiere a **la familiarización e integración sistemáticas de los nuevos empleados en una empresa**. El objetivo de un concepto de onboarding es ofrecer a sus nuevos empleados un buen comienzo en su empresa e integrarlos en su estructura corporativa tanto profesional como cultural y socialmente.
 
 ## Por qué es importante un concepto estructurado de onboarding
 
 La incorporación estructurada de los nuevos empleados es de vital importancia para el éxito y el desarrollo a largo plazo de su empresa. Ayuda a sus nuevos empleados a **alcanzar su pleno potencial más rápidamente** introduciéndoles en sus nuevas tareas de forma segura. La iniciación y el apoyo específicos harán que se sientan competentes y productivos, lo que aumentará rápidamente su rendimiento.
 
-   
 Además, un programa de incorporación bien organizado ayuda a mantener a sus **empleados en la empresa a largo plazo**. Esto se debe a que los empleados que se sienten bien integrados y apoyados desde el principio tienen más probabilidades de permanecer leales a su empresa. Esto reduce la rotación de personal y garantiza que se conserven en la empresa valiosos conocimientos y experiencia.
 
 ![La imagen muestra un cinturón salvavidas con la etiqueta Bienvenido a bordo. Está colgado en una pared de tablones](an-Bord.jpg)
 
 Una gestión estructurada del proceso de incorporación **también fomenta la motivación y la satisfacción de los nuevos empleados**. Si entienden claramente lo que se espera de ellos y cómo pueden contribuir al éxito de la empresa, su satisfacción laboral aumenta considerablemente. Además, los empleados bien formados están encantados de aportar sus conocimientos internamente y están dispuestos a seguir desarrollándose. Esto crea una cultura de aprendizaje continuo e intercambio de conocimientos.
 
-   
 Por último, los empleados satisfechos y bien integrados están encantados de recomendar su empresa como empleador atractivo. **El boca a boca positivo y las buenas críticas** en plataformas como Kununu o Glassdoor contribuyen a reforzar su imagen de empleador y a atraer nuevos talentos.
 
 ## Los 3 niveles de integración
@@ -144,10 +141,9 @@ Con un solo clic, puede crear una lista de comprobación intuitiva con todas las
 
 En la [plantilla gratuita](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) de SeaTable, puede agrupar todas las tareas y la información en un solo lugar. Al asignar responsabilidades claras, así como un horizonte temporal y un estado a cada tarea, puedes visualizar claramente el progreso de la inducción y hacer un seguimiento en directo.
 
-   
 Apóyese en un software adecuado y asegúrese de que sus nuevos empleados se sientan inmediatamente bienvenidos y se integren rápidamente en su empresa. Para utilizar la [plataforma sin código SeaTable](https://seatable.com/), sólo tiene que registrarse gratuitamente. A continuación, puede añadir la plantilla a su base y completarla con sus propios datos.
 
-[Pruebe SeaTable ahora gratis](https://seatable.com/registrierung/)
+[Pruebe SeaTable ahora gratis]({{< relref "pages/registration" >}})
 
 ## Preguntas frecuentes
 
@@ -173,9 +169,9 @@ Las reuniones de feedback y las evaluaciones periódicas ayudan a mejorar el pro
 
 Un proceso de incorporación típico consta de
 
-- Fase de preparación (preboarding)**: Firma del contrato hasta el primer día de trabajo.
-- Fase de orientación**: Los tres primeros meses en la empresa.
-- Fase de integración**: De tres a doce meses después de empezar.
+- Fase de preparación (preboarding)\*\*: Firma del contrato hasta el primer día de trabajo.
+- Fase de orientación\*\*: Los tres primeros meses en la empresa.
+- Fase de integración\*\*: De tres a doce meses después de empezar.
 
 Cada fase se centra en tareas y objetivos diferentes, por ejemplo, preparación organizativa, introducción e integración a largo plazo.
 

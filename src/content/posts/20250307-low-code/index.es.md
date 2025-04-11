@@ -138,7 +138,7 @@ SeaTable también ofrece un **No Code App Builder**, con el que puede crear sus 
 
 Además, SeaTable facilita la creación de automatizaciones que le ahorran clics manuales para procesos que son siempre los mismos y, al mismo tiempo, minimizan la susceptibilidad a errores de las actividades monótonas. Para procesos automatizados con múltiples fuentes de datos, también puede integrar SeaTable con plataformas de automatización como Zapier, make o n8n.
 
-¿Ya estás enganchado y quieres comprobarlo por ti mismo? Entonces [simplemente regístrese gratis](https://seatable.com/es/registrierung/) en SeaTable Cloud y pruebe SeaTable por tiempo ilimitado.
+¿Ya estás enganchado y quieres comprobarlo por ti mismo? Entonces [simplemente regístrese gratis]({{< relref "pages/registration" >}}) en SeaTable Cloud y pruebe SeaTable por tiempo ilimitado.
 
 ## Conclusión: Éxito sin código y con poco código
 

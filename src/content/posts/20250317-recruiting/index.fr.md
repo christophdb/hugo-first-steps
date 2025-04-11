@@ -1,13 +1,13 @@
 ---
-title: "Recrutement compact : comment trouver et convaincre des talents"
+title: 'Recrutement compact : comment trouver et convaincre des talents'
 description: "Un processus de recrutement réussi détermine si les entreprises restent viables ou si elles se font distancer par la concurrence. Découvrez les stratégies et les méthodes qui feront passer votre recrutement au niveau supérieur et qui vous permettront de garder une longueur d'avance sur un marché du travail très concurrentiel"
 date: 2025-03-17
-categories: 
-  - "Général"
-tags: 
-  - "Candidats & gestion des talents"
-color: "#d4a2ee"
-url: "/fr/recruiting"
+categories:
+    - 'Général'
+tags:
+    - 'Candidats & gestion des talents'
+color: '#d4a2ee'
+url: '/fr/recruiting'
 ---
 
 ## Comment atteindre les meilleurs talents en ligne
@@ -86,7 +86,8 @@ Un processus de recrutement réussi pose la première pierre pour l'acquisition 
 - **La transparence** est une autre clé d'un processus de recrutement réussi. Des mises à jour régulières et des informations claires sur les prochaines étapes permettent à vos candidats de s'orienter et montrent que votre entreprise procède de manière structurée et professionnelle.
 - Pour garantir l'équité et l'objectivité, vous devriez utiliser **des questions et des critères d'évaluation standardisés**. Cela minimise les influences subjectives et garantit que tous les candidats sont évalués selon les mêmes critères.
 - Enfin, le processus de recrutement devrait **refléter votre culture d'entreprise**. Une attitude authentique montre ce que votre entreprise représente et vous aide à trouver des candidats qui vous conviennent bien, non seulement sur le plan professionnel, mais aussi en raison de leur personnalité.  
-    
+
+
 ![Représenter le processus de recrutement](Das-zeichnet-einen-guten-Recruiting-Prozess-aus.jpg)
 
 ## Coûts engendrés par le recrutement
@@ -115,7 +116,7 @@ La gestion des processus est également plus simple : grâce au **Kanban-Board**
 
 Mais SeaTable ne vous aide pas seulement à recruter du personnel. Vous pouvez aussi facilement organiser des entretiens d'embauche et l'onboarding des nouveaux membres de l'équipe grâce à d'autres modèles gratuits. Tout ce dont vous avez besoin pour un recrutement moderne et efficace se trouve dans un seul outil.
 
-Essayez SeaTable et découvrez à quel point le recrutement peut être simple. [Inscrivez-vous gratuitement dès aujourd'hui](https://seatable.com/registrierung/) - et démarrez directement !
+Essayez SeaTable et découvrez à quel point le recrutement peut être simple. [Inscrivez-vous gratuitement dès aujourd'hui]({{< relref "pages/registration" >}}) - et démarrez directement !
 
 ## Foire aux questions
 
@@ -148,9 +149,9 @@ Comment trouver les meilleurs talents en ligne?|||
 
 Le recrutement en ligne offre de multiples possibilités d'atteindre les talents :
 
-- Utilisez les plateformes de médias sociaux comme LinkedIn ou Xing pour entrer directement en contact avec les candidats.  
-- Optimisez votre site web de carrière pour qu'il soit adapté aux mobiles et informatif.  
-- Passez des annonces ciblées sur des sites d'emploi comme StepStone ou Indeed.  
+- Utilisez les plateformes de médias sociaux comme LinkedIn ou Xing pour entrer directement en contact avec les candidats.
+- Optimisez votre site web de carrière pour qu'il soit adapté aux mobiles et informatif.
+- Passez des annonces ciblées sur des sites d'emploi comme StepStone ou Indeed.
 - Misez sur des approches créatives comme le guerilla marketing pour attirer l'attention.
 
 ---

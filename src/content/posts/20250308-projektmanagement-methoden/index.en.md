@@ -145,4 +145,4 @@ The network planning technique is primarily used in procurement and production. 
 
 Decide what structure your project needs: A hybrid, classic or agile approach? The ten project management methods presented here will give you an insight into how you can successfully implement your project.
 
-We would be happy to help you implement your project management method with SeaTable. [Register for free today](https://seatable.com/registrierung/) and take a look at our templates.
+We would be happy to help you implement your project management method with SeaTable. [Register for free today]({{< relref "pages/registration" >}}) and take a look at our templates.

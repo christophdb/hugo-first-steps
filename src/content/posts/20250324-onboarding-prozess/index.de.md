@@ -147,7 +147,7 @@ In der [kostenlosen Vorlage](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa
    
 Setzen Sie auf eine geeignete Software und sorgen Sie dafür, dass sich Ihre neuen Mitarbeiter direkt willkommen fühlen und schnell in Ihrem Unternehmen einleben. Um die [No-Code-Plattform SeaTable](https://seatable.com/) zu verwenden, müssen Sie sich lediglich kostenlos registrieren. Sie können anschließend die Vorlage zu Ihrer Base hinzufügen und mit Ihren eigenen Daten ergänzen.
 
-[Jetzt SeaTable kostenlos testen](https://seatable.com/registrierung/)
+[Jetzt SeaTable kostenlos testen]({{< relref "pages/registration" >}})
 
 ## Häufig gestellte Fragen
 

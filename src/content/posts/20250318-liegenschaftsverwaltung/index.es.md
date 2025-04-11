@@ -96,7 +96,7 @@ SeaTable también le ofrece la flexibilidad de almacenar sus datos en la [Nube](
 
 Con la [plantilla gratuita de SeaTable](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/) puede gestionar fácilmente varias propiedades: desde casas residenciales hasta parcelas o propiedades comerciales. Puede ver de un vistazo qué propiedades están alquiladas, cuándo vence el próximo pago del alquiler o si hay que realizar algún trabajo de mantenimiento. Puede introducir datos como la superficie, el año de construcción y la dirección de cada propiedad. Incluso puede almacenar fotos, planos y certificados de eficiencia energética de los inmuebles o gestionar los contratos digitalmente. Su clara estructura garantiza que nada se pierda y facilita enormemente el trabajo diario, independientemente de si tiene una cartera pequeña o un gran número de propiedades.
 
-Para utilizar SeaTable, sólo tiene que registrarse [gratuitamente](https://seatable.com/registrierung/). A continuación, puede añadir la plantilla a su base y completarla con sus propios datos.
+Para utilizar SeaTable, sólo tiene que registrarse [gratuitamente]({{< relref "pages/registration" >}}). A continuación, puede añadir la plantilla a su base y completarla con sus propios datos.
 
 ## Preguntas frecuentes
 
