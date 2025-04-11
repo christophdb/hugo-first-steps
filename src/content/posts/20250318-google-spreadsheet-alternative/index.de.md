@@ -6,6 +6,7 @@ categories:
     - 'Allgemein'
 tags:
     - 'Toolings & Plugins'
+    - 'Wenn Excel nicht mehr reicht'
 color: '#59c9a1'
 url: '/de/google-spreadsheet-alternative'
 ---
