@@ -4,9 +4,8 @@ description: 'In Marketing-Teams mangelt es selten an kreativen Ideen. Umso wich
 date: 2025-03-18
 categories:
     - 'Allgemein'
-    - 'Best Practice'
 tags:
-    - 'marketingplanung'
+    - 'Marketingplanung'
 color: '#509dfd'
 url: '/de/marketingplan'
 ---
