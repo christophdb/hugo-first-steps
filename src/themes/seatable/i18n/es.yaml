@@ -32,5 +32,26 @@ contact:
 newsletter:
     submit_text: 'Suscribirse'
 
+support_table:
+    support_channel: 'Canal de soporte'
+    newsletter: 'Boletín informativo'
+    help_area: 'Área de ayuda'
+    forum: 'Foro SeaTable'
+    support_tickets: 'Tickets de soporte/correo electrónico'
+    workshop: 'Taller de incorporación'
+    personal_contact: 'Contacto personal asignado'
+    professional_services: 'Servicios profesionales (de pago)'
+    telephone: 'Soporte telefónico'
+    remote_hands: 'Asistencia remota'
+    customized_dev: 'Desarrollo personalizado (plugins, scripts, plantillas)'
+    trainings: 'Capacitaciones y talleres'
+    service_level: 'Nivel de servicio'
+    availability: 'Disponibilidad'
+    response_time: 'Tiempo de respuesta'
+    service_time: 'Horario de servicio'
+    best_effort: 'Mejor esfuerzo'
+    sla: 'Acuerdo de Nivel de Servicio (SLA)'
+    opening_times: 'Lunes a Viernes<br/>10:00 - 17:00 (CET)'
+
 contact_sales: Contactar con ventas
 read_more: 'Leer más'
