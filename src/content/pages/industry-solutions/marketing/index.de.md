@@ -184,10 +184,10 @@ sections:
 
     # TODO: das noch rechts-links vertauschen
     - name: 'content-13'
-    - classes:
+      weight: 12
+      classes:
           - curved
           - bg-gray-100
-      weight: 12
       title: Monitoring und Analyse
       subtitle: Marketing Reporting
       description: Monitoren Sie all Ihre Marketing Metriken und erstellen Sie überzeugende Dashboards.
