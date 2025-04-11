@@ -3,11 +3,9 @@ title: 'Effective software testing: How to optimize troubleshooting'
 description: 'All software has its pitfalls - but only those who find them can fix them. Software testing uncovers hidden errors and ensures that ideas become mature products. Find out here how tests make your application more stable and why they are essential for successful projects.'
 date: 2025-03-18
 categories:
-    - 'General'
     - 'Best Practice'
 tags:
-    - 'IT processes'
-    - 'Collaborative working'
+    - 'IT Processes'
     - 'Toolings & Plugins'
 color: '#79b9e9'
 url: '/software-testing'
@@ -96,7 +94,7 @@ If you are looking for a comprehensive solution that cleverly combines software 
 
 With the Kanban view, your team **easily keeps track of upcoming tasks**. You can immediately see which bugs are in the pipeline, what priority they have and who is working on the solution. More efficient collaboration and transparent processes mean less time spent and fewer misunderstandings.
 
-Another advantage of this template is the versions table, which allows you to link the fixed bugs to specific software versions. This means you always have traceable documentation\*\* of when and with which version an improvement or bug fix came into effect - valuable for long-term quality assurance and internal audits.
+Another advantage of this template is the versions table, which allows you to link the fixed bugs to specific software versions. This means you **always have traceable documentation** of when and with which version an improvement or bug fix came into effect - valuable for long-term quality assurance and internal audits.
 
 The Tree plugin also provides an **intuitive overview of the structure and links of your software tests and bugs**. Even with extensive projects, you retain control and navigate easily through your data. Linked entries can be called up quickly, which makes it much easier to find your way around complex test scenarios.
 
