@@ -29,3 +29,7 @@ noUgly = true
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[cascade.build]
+publishResources = false
+
