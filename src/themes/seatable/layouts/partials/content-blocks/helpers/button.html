@@ -6,7 +6,7 @@
 {{ else }}
     {{ $link = page.GetPage .link }}
     {{ if not $link }}
-        {{ errorf "[content-1] Page %s does not exist!" .link }}
+        {{ errorf "Page %s does not exist!" .link }}
     {{ end }}
     {{ $link = $link.RelPermalink }}
 {{- end -}}

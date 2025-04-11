@@ -11,8 +11,9 @@
 <!-- HTML Block -->
 <section class="padding curved curved-gradient">
     <section class="">
-        <div class="mx-auto max-w-[1000px] text-right">
-            <h3 class="text-5xl font-bold leading-none text-white">{{ .title | safeHTML }}</h3>
+        <div class="mx-auto max-w-3xl text-right">
+            <h3 class="text-5xl font-bold leading-none text-white">{{ .title | markdownify }}</h3>
+            {{ if .text }}<p class="mb-12 mt-8 text-lg leading-normal text-white">{{ .text | markdownify }}</p>{{ end }}
 
             {{ if .buttons }}
                 <div class="mt-12 text-right">

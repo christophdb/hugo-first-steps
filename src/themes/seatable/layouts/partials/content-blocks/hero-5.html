@@ -35,6 +35,14 @@
             {{ end }}
         </div>
 
+        {{ if .buttons }}
+            <div class="mx-auto my-16 flex justify-center gap-4">
+                {{ range .buttons }}
+                    {{ partial "content-blocks/helpers/button.html" . }}
+                {{ end }}
+            </div>
+        {{ end }}
+
         {{ if .template }}
             <div class="max-container relative max-h-[250px] w-full">
                 {{ partial "template.html" (dict "id" .template ) }}

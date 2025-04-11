@@ -1,3 +1,15 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  ... </code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
 {{ $classes := .classes | default "" }}
 <section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
     <section class="max-container">

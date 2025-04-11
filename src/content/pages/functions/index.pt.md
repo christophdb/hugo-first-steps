@@ -80,6 +80,9 @@ sections:
 
     - name: 'content-13'
       weight: 6
+      classes:
+          - curved
+          - bg-gray-100
       title: Automatize seus processos
       subtitle: Sem conhecimento de programação
       description: O SeaTable oferece uma ampla gama de opções de automação para tarefas recorrentes.

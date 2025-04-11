@@ -11,7 +11,12 @@ sections:
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
-      # TODO: hier noch buttons hinzufügen können!
+      buttons:
+          - label: Jetzt loslegen
+            link: 'pages/registration'
+            style: primary
+          - label: Funktionen kennenlernen
+            link: pages/functions
 
     - name: content-12
       weight: 2
@@ -21,7 +26,6 @@ sections:
       title: Das ideale Marketing Management Tool
       subtitle: Zentralisieren, automatisieren, optimieren
       description: SeaTable ist das ideale Marketing Management Tool für alle, die ihre digitalen Marketing Aktivitäten zentralisieren, automatisieren und optimieren wollen. Die Plattform bietet alle Funktionen, die Marketing-Teams benötigen, um erfolgreich zu arbeiten – von der Kampagnenplanung bis hin zur Analyse.
-      # TODO: markdownify
       # TODO: PNG mit transparentem Hintergrund!
       items:
         - text: DSGVO-konform
@@ -162,6 +166,9 @@ sections:
 
     - name: 'content-13'
       weight: 11
+      classes:
+          - curved
+          - bg-gray-100
       title: Von der Planung bis zum Reporting
       subtitle: Kampagnenplanungs Tool
       description: Mit SeaTable können Sie Ihre Marketing Kampagnen strukturiert organisieren und zentral verwalten.
@@ -177,6 +184,9 @@ sections:
 
     # TODO: das noch rechts-links vertauschen
     - name: 'content-13'
+    - classes:
+          - curved
+          - bg-gray-100
       weight: 12
       title: Monitoring und Analyse
       subtitle: Marketing Reporting
@@ -193,6 +203,9 @@ sections:
 
     - name: 'content-13'
       weight: 13
+      classes:
+          - curved
+          - bg-gray-100
       title: Eventmanagement
       subtitle: Messen, Webinare und mehr
       description: Planen, organisieren und verwalten Sie Ihre Events effizient mit SeaTable und behalten Sie die Übersicht über jede Phase der Eventplanung inklusive Eventbudget.

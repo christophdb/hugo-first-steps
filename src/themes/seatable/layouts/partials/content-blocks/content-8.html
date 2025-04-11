@@ -1,6 +1,7 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 bg-seatable-orange rounded-lg border p-4 text-xs z-50"><pre><code>- name: "{{ .name }}"
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
   weight: 1
   title: 
   subtitle: 
@@ -10,24 +11,34 @@
     alt:
   - text:
     image:
-    alt:</code></pre></div>
+    alt:</code></pre>
+    </div>
 {{ end }}
+
 
 <!-- HTML Block -->
 <section class="padding">
     <section id="galerie" class="max-container">
-        <div class="mx-auto text-center max-w-[800px]">
-            <p class="text-2xl font-bold font-poppins gradient">{{ .subtitle }}</p>
+        <div class="mx-auto max-w-[800px] text-center">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
-            <p class="mt-12 text-lg leading-normal">{{ .description }}</p>
+            <p class="mt-12 text-lg leading-normal">{{ .description | markdownify }}</p>
         </div>
-        <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 mt-16">
+        <div class="mt-16 grid grid-cols-1 gap-4 lg:grid-cols-2 xl:grid-cols-3">
             {{ range .items }}
-            <div>
-                <p class="font-poppins font-bold text-2xl mb-4 text-seatable-blue">{{ .text }}</p>
-                <img class="rounded-lg shadow-lg max-h-[250px] object-cover w-[100%]" src="{{ .image }}" alt="{{ .alt }}" />
-            </div>
+                <div>
+                    <p class="mb-4 font-poppins text-2xl font-bold text-seatable-blue">{{ .text }}</p>
+                    <img class="max-h-[250px] w-[100%] rounded-lg object-cover shadow-lg" src="{{ .image }}" alt="{{ .alt }}" />
+                </div>
             {{ end }}
         </div>
+        {{ if .buttons }}
+            <div class="mt-20 text-center">
+                {{ range .buttons }}
+                    {{ partial "content-blocks/helpers/button.html" . }}
+                {{ end }}
+            </div>
+        {{ end }}
+
     </section>
 </section>

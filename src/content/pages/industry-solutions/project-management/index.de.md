@@ -11,7 +11,12 @@ sections:
       classes:
           - bg-gray-200
       template: 1acd19d97c8f4ed3ad38
-      # TODO: hier noch buttons hinzufügen können!
+      buttons:
+          - label: Jetzt loslegen
+            link: 'pages/registration'
+            style: primary
+          - label: Funktionen kennenlernen
+            link: pages/functions
       # TODO: die höhe des abschnitts festlegen können. Hier sollte man mehr vom template zeigen.
 
     - name: "content-4"

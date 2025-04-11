@@ -12,7 +12,12 @@ sections:
       classes:
           - bg-orange-100
       template: 1acd19d97c8f4ed3ad38
-      # TODO: hier noch buttons hinzufügen können!
+      buttons:
+          - label: Jetzt loslegen
+            link: 'pages/registration'
+            style: primary
+          - label: Funktionen kennenlernen
+            link: pages/functions
       # TODO: die höhe des abschnitts festlegen können. Hier sollte man mehr vom template zeigen.
 
     - name: content-12
@@ -23,7 +28,6 @@ sections:
       title: Digitalisierung in der öffentlichen Verwaltung effizient umsetzen
       subtitle: Datensicherheit und Datenschutz
       description: Die Digitalisierung der öffentlichen Verwaltung kann herausfordernd sein. Egal ob Bürgeranfragen, Liegenschaftsverwaltung oder Haushaltsplanung – mit SeaTable wird es einfach!
-      # TODO: markdownify
       # TODO: PNG mit transparentem Hintergrund!
       items:
           - text: '**Zentralisiertes Datenmanagement:** Alle Infos sicher an einem Ort, immer zugänglich.'

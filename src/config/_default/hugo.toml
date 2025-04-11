@@ -27,5 +27,9 @@ baseName = 'page-sitemap'
 mediaType = 'application/xml'
 noUgly = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [cascade.build]
 publishResources = false
+

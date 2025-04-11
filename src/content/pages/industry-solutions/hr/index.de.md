@@ -12,7 +12,12 @@ sections:
       classes:
           - bg-gray-200
       template: 7b72578c0e714750954a
-      # TODO: hier noch buttons hinzufügen können!
+      buttons:
+          - label: Jetzt loslegen
+            link: 'pages/registration'
+            style: primary
+          - label: Funktionen kennenlernen
+            link: pages/functions
       # TODO: die höhe des abschnitts festlegen können. Hier sollte man mehr vom template zeigen.
 
     - name: content-12
@@ -22,7 +27,6 @@ sections:
           - bg-orange-100
       title: DSGVO-konform, zentral und effizient verwaltet an einem Ort.
       description: Mit unserer Plattform behalten Sie stets den Überblick über alle wichtigen Aufgaben und sparen wertvolle Zeit.
-      # TODO: markdownify
       # TODO: PNG mit transparentem Hintergrund!
       items:
           - text: Urlaubsplanung
@@ -32,22 +36,19 @@ sections:
 
     - name: banner-2
       weight: 3
-      title: Starten Sie jetzt kostenlos – ohne Kreditkarte
-      text: Nutzen Sie SeaTable und beginnen Sie sofort mit der Abbildung / Optimierung Ihrer HR Prozesse – kostenlos und ohne Kreditkarte. Registrieren Sie sich noch heute und entdecken Sie die einfache Handhabung der Plattform.
-      # TODO: button:
-      # TODO: text ermöglichen.
-      # markdownify für zeilenumbruch
+      title: "Starten Sie jetzt kostenlos – ohne Kreditkarte"
+      text: 'Nutzen Sie SeaTable und beginnen Sie sofort mit der Abbildung / Optimierung Ihrer HR Prozesse – kostenlos und ohne Kreditkarte. Registrieren Sie sich noch heute und entdecken Sie die einfache Handhabung der Plattform.'
+      buttons:
+          - label: Jetzt registrieren und loslegen
+            link: 'pages/registration'
 
     - name: 'content-8'
       weight: 4
       title: Vorlagen zum Start in Ihre optimalen HR Prozesse
       subtitle: Vorlagen
-      description: "Für den Einstieg stehen Ihnen kostenlose Templates speziell für HR Prozesse zur Verfügung, ebenso wie ein kostenloser Online-Kurs, der Sie Schritt für Schritt zur ersten eigenen Base führt. Erleben Sie, wie einfach Sie mit SeaTable die Verwaltung Ihrer Personalprozesse auf das nächste Level bringen!
-
-      Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account"
-      # TODO: markdownify
-      # bei items die links hinzufügen!
-      # abstände zwischen den spalten vergrößern
+      description: "Für den Einstieg stehen Ihnen kostenlose Templates speziell für HR Prozesse zur Verfügung, ebenso wie ein kostenloser Online-Kurs, der Sie Schritt für Schritt zur ersten eigenen Base führt. Erleben Sie, wie einfach Sie mit SeaTable die Verwaltung Ihrer Personalprozesse auf das nächste Level bringen!<br/><br/>**Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account**"
+      # TODO: bei items die links hinzufügen!
+      # TODO: abstände zwischen den spalten vergrößern
       items:
           - text: Arbeitszeiterfassung
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
@@ -58,7 +59,9 @@ sections:
           - text: Personalrekrutierung
             image: /images/Landing-Page-HR_Template_Recruiting.png
             alt: 
-        # button hinzufügen: alle vorlagen entdecken.
+      buttons:
+          - label: "Entdecken Sie weitere HR Vorlagen"
+            link: "https://seatable.io/vorlagen/?lang=auto"
 
     - name: content-25
       weight: 5
@@ -89,7 +92,9 @@ sections:
     - name: banner-2
       weight: 6
       title: Wie auch immer Ihre HR Prozesse aussehen, mit SeaTable können Sie sie realisieren
-      ## TODO: button
+      buttons:
+        - label: Jetzt registrieren und loslegen
+          link: pages/registration
 
     - name: content-22
       weight: 7
@@ -100,7 +105,7 @@ sections:
       weight: 8
       classes:
         - bg-white
-      # TODO: support for classes
+        - "!pt-0"
       title: Personalprozesse gestalten
       subtitle: Effizient und transparent
       description: Gestalten Sie Ihre HR Prozesse so individuell und flexibel, wie Sie es brauchen!

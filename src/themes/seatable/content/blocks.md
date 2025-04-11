@@ -78,8 +78,7 @@ sections:
     buttons:
     - label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
       link: "https://seatable.io/vorlagen/?lang=auto"
-      # TODO: Fix style
-      style: not-yet-defined
+      style: secondary
 
   - name: "content-4"
     weight: 4
@@ -221,8 +220,7 @@ sections:
     - image: "/images/logos/seatable-api.svg"
     buttons:
     - label: "Mehr über Integrationen erfahren"
-      # TODO
-      link: "index"
+      link: "https://seatable.io/integrationen/?lang=auto"
 
   - name: "content-11"
     weight: 11
@@ -256,6 +254,9 @@ sections:
 
   - name: "content-13"
     weight: 13
+    classes:
+          - curved
+          - bg-gray-100
     title: Automatisieren Sie Ihre Prozesse
     subtitle: Ohne Programmierkenntnisse
     description: Für wiederkehrende Aufgaben bietet SeaTable eine Vielzahl an Möglichkeiten zur Automatisierung an.
@@ -297,8 +298,7 @@ sections:
     - number: "4.6"
       text: "Bewertung auf Capterra"
     buttons:
-      # TODO
-      - link: "index"
+      - link: "categories/customer-story"
         label: "Lesen Sie weitere Erfolgsgeschichten"
 
   - name: "form-contact"
@@ -446,6 +446,42 @@ sections:
       - label: Vertrieb kontaktieren
         link: "pages/contact"
         style: secondary
+
+  - name: content-23
+    weight: 41
+    title: Pressebereich und Medienberichte
+    subtitle: 'Wir sind in aller Munde'
+    text: 'Nicht nur wir selber erzählen über uns, sondern auch zahlreiche Medienberichte. Sie finden alle hier in unserem Pressebereich. Sie möchten ebenfalls über uns schreiben? Immer gerne! [Kontaktieren Sie uns]({{< relref "pages/contact" >}}) einfach für mehr Informationen.'
+    items:
+        - headline: 'Media Kit'
+          text: '43,87 MB'
+        - headline: 'SeaTable Logo PNG'
+          text: '300dpi, 5,12 MB'
+        - headline: 'Flyer'
+          text: '12,13 MB'
+        - headline: 'Presse Kit'
+          text: '300dpi, 12.44 MB'
+
+  - name: 'content-24'
+    weight: 42
+    title: 'SeaTable is bekannt aus'
+
+  - name: content-25
+    weight: 44
+    title: Schlüsselfunktionen, die Ihre HR Prozesse revolutionieren
+    subtitle: Vorteile für Ihre HR Prozesse in der Übersicht
+    items:
+    - headline: "Umfassendes Bewerbermanagement"
+      text: Leistungsstarkes Bewerbermanagement Tool, das den gesamten Rekrutierungsprozess abdeckt – von dem Eingang bis zur Absage einer Bewerbung. Optimieren Sie Ihren Recruiting Prozess und verbessern Sie die Candidate Experience.
+      image: /images/Landing-Page_HR_Bewerbermanagement.png
+
+    - headline: "Digitale Personalakte verwalten"
+      text: Mit der digitalen Personalakte von SeaTable können Sie Ihre Personalakten digitalisieren und sicher speichern. Dank klarer Struktur für die elektronische Personalakte und der Einhaltung der Aufbewahrungsfristen bleiben Sie stets gesetzeskonform.
+      image: /images/Landing-Page_HR_Personalakte.png
+
+    - headline: "Einfache Arbeitszeiterfassung"
+      text: Organigramm erstellen leicht gemacht – mit SeaTable behalten Sie die Struktur Ihres Unternehmens immer im Blick und können Organigramme schnell und übersichtlich darstellen.
+      image: /images/Landing-Page_HR_Zeiterfassung.png
 
 
 ---
