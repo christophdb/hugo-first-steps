@@ -73,7 +73,6 @@ sections:
           - headline: Skalierbarkeit
             text: SeaTable skaliert mit Ihnen und Ihren wachsenden Anforderungen. Es ist die ideale Lösung für Unternehmen jeder Größe, die ihre Arbeitsabläufe digitalisieren und optimieren möchten.
       image: /images/Landing-Page-Workflow-Managment.png
-      #TODO: white background
 
     - name: 'content-10'
       weight: 5

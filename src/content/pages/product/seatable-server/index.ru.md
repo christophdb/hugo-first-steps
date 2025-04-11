@@ -68,6 +68,8 @@ sections:
             text: Свяжитесь с нами
           # Создать кнопку ниже и заполнить белый блок контентом
 
-    - name: table-x
-      weight: 8
+    - name: product-comparison-table
+      weight: 7
+      title: Три продукта SeaTable с первого взгляда
+      subtitle: Сравнение наших продуктов
 ---

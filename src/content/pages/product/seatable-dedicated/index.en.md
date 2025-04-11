@@ -42,8 +42,10 @@ sections:
           label: Request a Quote Now
           link: '/pages/contact'
 
-    - name: table-x
+    - name: product-comparison-table
       weight: 5
+      title: The three SeaTable products at a glance
+      subtitle: Comparison of our products
 
     - name: content-4
       weight: 6

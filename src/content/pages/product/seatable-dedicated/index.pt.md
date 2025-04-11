@@ -42,8 +42,10 @@ sections:
           label: Solicitar orçamento agora
           link: '/pages/contact'
 
-    - name: table-x
+    - name: product-comparison-table
       weight: 5
+      title: Os três produtos SeaTable em resumo
+      subtitle: Comparação dos nossos produtos
 
     - name: content-4
       weight: 6

@@ -42,8 +42,10 @@ sections:
           label: Запросить предложение
           link: '/pages/contact'
 
-    - name: table-x
+    - name: product-comparison-table
       weight: 5
+      title: Три продукта SeaTable с первого взгляда
+      subtitle: Сравнение наших продуктов
 
     - name: content-4
       weight: 6

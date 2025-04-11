@@ -46,10 +46,10 @@ sections:
           - label: Zu den Preisen
             link: 'pages/prices'
 
-    #- name: table-1
-    #  weight: 4
-    #  title: Die drei Produkte von SeaTable im Überblick
-    #  subtitle: Vergleich unserer Produkte
+    - name: product-comparison-table
+      weight: 4
+      title: Die drei Produkte von SeaTable im Überblick
+      subtitle: Vergleich unserer Produkte
 
     - name: content-6
       weight: 5

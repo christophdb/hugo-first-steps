@@ -46,10 +46,10 @@ sections:
           - label: Посмотреть цены
             link: 'pages/prices'
 
-    #- name: table-1
-    #  weight: 4
-    #  title: Обзор трех продуктов SeaTable
-    #  subtitle: Сравните наши продукты
+    - name: product-comparison-table
+      weight: 4
+      title: Три продукта SeaTable с первого взгляда
+      subtitle: Сравнение наших продуктов
 
     - name: content-6
       weight: 5

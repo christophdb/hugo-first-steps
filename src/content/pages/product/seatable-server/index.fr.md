@@ -68,6 +68,8 @@ sections:
             text: Contactez-nous
           # Créer un bouton en dessous et remplir le cadre blanc avec du contenu
 
-    - name: table-x
-      weight: 8
+    - name: product-comparison-table
+      weight: 7
+      title: Les trois produits SeaTable en un coup d'œil
+      subtitle: Comparaison de nos produits
 ---
