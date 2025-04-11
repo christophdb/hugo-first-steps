@@ -4,7 +4,11 @@ description: 'Ein Fahrtenbuch kann mehr sein als nur lästige Bürokratie – es
 date: 2025-04-01
 url: '/de/fahrtenbuch'
 tags:
+- 'Toolings & Plugins'
+- 'Finanzen'
+- 'Fuhrparkmanagement'
 categories:
+- 'Allgemein'
 color: '#f34b4c'
 ---
 

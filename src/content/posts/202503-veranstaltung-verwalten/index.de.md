@@ -4,7 +4,9 @@ description: 'Die perfekte Veranstaltung zu planen klingt nach Stress? Muss es n
 date: 2025-03-23
 url: '/de/veranstaltung-verwalten'
 tags: 
+- 'Eventmanagement'
 categories:
+- 'Best Practice'
 color: '#f7c1cf'
 ---
 

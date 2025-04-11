@@ -5,9 +5,9 @@ date: 2024-10-21
 categories:
     - 'Customer Story'
 tags:
-    - 'datenmanagement-visualisierung'
-    - 'digitale-transformation'
-    - 'oeffentliche-verwaltung'
+    - 'Datenmanagement & Visualisierung'
+    - 'Digitale Transformation'
+    - 'Öffentliche Verwaltung'
 color: '#bb9de1'
 url: '/de/customer-story-fr-la-manche/'
 ---
