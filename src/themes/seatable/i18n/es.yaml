@@ -19,6 +19,10 @@ registration:
     email_placeholder: 'Introduzca su dirección de correo electrónico...'
     email_invalid: 'Esta dirección de correo electrónico parece estar incompleta'
     email_required: 'Correo electrónico obligatorio'
+    submit: 'Regístrate ahora'
+    send: 'Enviando registro...'
+    success: 'Registro exitoso. Revisa tu bandeja de entrada.'
+    error: 'Ha ocurrido un error.'
 
 contact:
     first_name: 'Prénom'
@@ -28,6 +32,9 @@ contact:
     reason: 'Motif de la demande'
     message: 'Votre message'
     submit: 'Envoyer le message'
+    send: 'Enviando tu mensaje...'
+    success: 'Hemos recibido tu mensaje.'
+    error: 'Ha ocurrido un error.'
 
 newsletter:
     submit_text: 'Suscribirse'

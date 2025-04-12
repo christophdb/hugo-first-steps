@@ -19,6 +19,10 @@ registration:
     email_placeholder: 'Geben Sie Ihre E-Mail Adresse ein...'
     email_invalid: 'Diese E-Mail Addresse ist unvollständig'
     email_required: 'E-Mail ist ein Pflichtfeld'
+    submit: 'Jetzt anmelden'
+    send: 'Registrierung wird geschickt...'
+    success: 'Registrierung erfolgreich. Prüfen Sie Ihre E-Mail Inbox.'
+    error: 'Es ist ein Fehler aufgetreten.'
 
 contact:
     first_name: 'Vorname'
@@ -28,6 +32,9 @@ contact:
     reason: 'Grund der Anfrage'
     message: 'Ihre Nachricht'
     submit: 'Nachricht schicken'
+    send: 'Ihre Nachricht wird geschickt...'
+    success: 'Wir haben Ihre Nachricht erhalten.'
+    error: 'Es ist ein Fehler aufgetreten.'
 
 newsletter:
     submit_text: 'Abonnieren'

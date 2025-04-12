@@ -19,6 +19,10 @@ registration:
     email_placeholder: 'Enter your e-mail address...'
     email_invalid: 'This e-mail address seems to be incomplete'
     email_required: 'E-mail is required'
+    submit: 'Sign up now'
+    send: 'Registration is being sent...'
+    success: 'Registration successful. Check your email inbox.'
+    error: 'An error has occurred.'
 
 contact:
     first_name: 'First name'
@@ -28,6 +32,9 @@ contact:
     reason: 'Reason for the request'
     message: 'Your message'
     submit: 'Send message'
+    send: 'Your message is being sent...'
+    success: 'We have received your message.'
+    error: 'An error has occurred.'
 
 newsletter:
     submit_text: 'Subscribe'

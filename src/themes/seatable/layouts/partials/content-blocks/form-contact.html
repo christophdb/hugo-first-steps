@@ -103,8 +103,17 @@
                 </div>
 
                 <div class="mt-10">
-                    <button type="submit" class="bg-gradient block w-full rounded-xl px-7 py-4 text-center font-poppins font-bold text-white">{{ T "contact.submit" }}</button>
+                    <button
+                        type="submit"
+                        x-bind:disabled="isSubmitting"
+                        x-html="buttonText"
+                        class="bg-gradient flex w-full justify-center gap-4 rounded-lg p-4 font-poppins font-bold text-white">
+                        {{ T "contact.submit" }}
+                    </button>
                 </div>
+
+                <!-- Success/Error Messages -->
+                <p x-show="errorMessage" x-text="errorMessage" class="mt-4 text-center text-red-500"></p>
             </form>
         </div>
     </section>
