@@ -65,11 +65,11 @@ sections:
     items:
     - headline: "Arbeitszeiterfassung"
       text: Personalwesen
-      image: https://seatable.com/wp-content/uploads/2025/02/template-projektplan.png
+      image: /images/projektplan.png
       image_alt: Base Editor
     - headline: asdafd
       text: adadf
-      image: https://seatable.com/wp-content/uploads/2025/02/template-massnahmenplan.jpg
+      image: /images/massnahmenplan.jpg
       image_alt: 
     - headline:
       text:

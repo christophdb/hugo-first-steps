@@ -143,11 +143,11 @@ sections:
   items:
   - headline: "Arbeitszeiterfassung"
     text: Personalwesen
-    image: https://seatable.com/wp-content/uploads/2025/02/template-projektplan.png
+    image: /images/template-projektplan.png
     image_alt: Base Editor
   - headline: Maßnahmenplan
     text: Projekte
-    image: https://seatable.com/wp-content/uploads/2025/02/template-massnahmenplan.jpg
+    image: /images/template-massnahmenplan.jpg
     image_alt: 
   - headline: Redaktionsplan
     text: Marketing
