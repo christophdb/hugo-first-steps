@@ -20,9 +20,9 @@
   <section id="abc">
     {{ range $index, $item := .items }}
       {{ if eq (mod $index 2) 0 }}
-        <div class="mx-auto text-left max-w-[800px] pr-44 mt-24">
+        <div class="mx-auto text-left max-w-[800px] sm:pr-44 mt-24 pr-4">
       {{ else }}
-        <div class="mx-auto text-right max-w-[800px] pl-44 mt-24">
+        <div class="mx-auto text-right max-w-[800px] sm:pl-44 pl-4 mt-24">
       {{ end }}
           <p class="gradient font-poppins font-bold text-2xl">{{ $item.subtitle }}</p>
           <h2 class="text-4xl text-white font-bold mt-1 leading-none">{{ $item.title }}</h2>

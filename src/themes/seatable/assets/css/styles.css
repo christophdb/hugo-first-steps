@@ -243,9 +243,7 @@ h3,
 h4,
 h5,
 h6 {
-    @apply font-poppins;
-    @apply text-seatable-blue;
-    @apply font-bold;
+    @apply break-words font-poppins font-bold text-seatable-blue;
 }
 
 /* Scale SVG icons to text size */

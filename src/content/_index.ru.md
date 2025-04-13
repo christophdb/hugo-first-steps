@@ -147,11 +147,11 @@ sections:
       items:
           - headline: 'Учет рабочего времени'
             text: 'HR'
-            image: 'https://seatable.com/wp-content/uploads/2025/02/template-projektplan.png'
+            image: '/images/projektplan.png'
             image_alt: 'Редактор базы'
           - headline: 'План мероприятий'
             text: 'Проекты'
-            image: 'https://seatable.com/wp-content/uploads/2025/02/template-massnahmenplan.jpg'
+            image: '/images/massnahmenplan.jpg'
             image_alt: ''
           - headline: 'Редакционный план'
             text: 'Маркетинг'
