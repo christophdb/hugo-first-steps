@@ -1,27 +1,26 @@
 {{ define "main" }}
-  <article class="max-w-full mx-auto padding">
-    <header>
-      <h1 class="mt-0 mb-2 text-5xl font-extrabold text-neutral-900 dark:text-neutral text-center gradient pt-8">
-        {{ .Title | emojify }}
-      </h1>
-      {{ if .Description }}
-      <p class="text-sm text-center">{{ .Description }}</p>
-      {{ end}}
+    <article class="padding mx-auto max-w-full">
+        <header>
+            <h1 class="dark:text-neutral gradient mb-2 mt-0 pt-8 text-center text-4xl text-neutral-900 md:text-5xl">
+                {{ .Title | emojify }}
+            </h1>
+            {{ if .Description }}
+                <p class="text-center text-sm">{{ .Description }}</p>
+            {{ end }}
 
-      {{ if and (.Params.Version) (not .Date.IsZero) }}
-      {{ $version := .Params.Version }}
-      {{ $date := .Date | time.Format "2006-01-02" }}
-      <p class="text-sm text-center">{{ T "legal.version" }} {{ $version }} {{ T "legal.published_on" }} {{ $date | time.Format site.Params.dateFormat }}</p>
-      {{ end }}
-    </header>
+            {{ if and (.Params.Version) (not .Date.IsZero) }}
+                {{ $version := .Params.Version }}
+                {{ $date := .Date | time.Format "2006-01-02" }}
+                <p class="text-center text-sm">{{ T "legal.version" }} {{ $version }} {{ T "legal.published_on" }} {{ $date | time.Format site.Params.dateFormat }}</p>
+            {{ end }}
+        </header>
 
-    <section class="max-w-[800px] mx-auto mt-20">
-      {{ partial "toc.html" . }}
-    </section>
+        <section class="mx-auto mt-20 max-w-[800px]">
+            {{ partial "toc.html" . }}
+        </section>
 
-    <section class="max-w-[800px] mx-auto mt-4" id="legal">
-      {{ .Content }}
-    </section>
-
-  </article>
+        <section class="mx-auto mt-4 max-w-[800px]" id="legal">
+            {{ .Content }}
+        </section>
+    </article>
 {{ end }}

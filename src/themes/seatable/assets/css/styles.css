@@ -69,10 +69,7 @@
 
 /* legal pages */
 #legal h2 {
-    @apply text-4xl;
-    @apply pt-10;
-    @apply pb-4;
-    @apply leading-narrow;
+    @apply pb-4 pt-10 text-3xl leading-narrow md:text-4xl;
 }
 #legal h3 {
     @apply text-[36px];
@@ -113,16 +110,13 @@
 /* post pages */
 
 .post-content h2 {
-    @apply pb-4 pt-10 text-4xl leading-narrow;
+    @apply pb-4 pt-10 text-3xl leading-narrow md:text-4xl;
 }
 .post-content h3 {
-    @apply text-[36px];
-    @apply pt-10;
-    @apply pb-4;
-    @apply leading-narrow;
+    @apply pb-4 pt-10 text-2xl leading-narrow md:text-3xl;
 }
 .post-content h4 {
-    @apply pb-2 pt-6 text-[24px] leading-narrow;
+    @apply pb-2 pt-6 text-xl leading-narrow md:text-2xl;
 }
 .post-content p {
     @apply text-xl;
@@ -259,14 +253,6 @@ h6 {
 .prose > p {
     margin-top: 1.25em;
     margin-bottom: 1.25em;
-}
-
-h1 {
-    font-size: 80px;
-}
-h2 {
-    font-size: 42px;
-    @apply leading-[1.2em];
 }
 
 .curved-gradient {
