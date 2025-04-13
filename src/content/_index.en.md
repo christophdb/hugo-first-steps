@@ -147,11 +147,11 @@ sections:
   items:
   - headline: "Working time recording"
     text: Human resources
-    image: /images/projektplan.png
+    image: /images/template-projektplan.png
     image_alt: Base Editor
   - headline: Action plan
     text: Projects
-    image: /images/massnahmenplan.jpg
+    image: /images/template-massnahmenplan.jpg
     image_alt: 
   - headline: Editorial plan
     text: Marketing

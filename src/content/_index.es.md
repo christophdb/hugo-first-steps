@@ -147,11 +147,11 @@ sections:
   items:
   - headline: "Registro de tiempo de trabajo"
     text: Recursos humanos
-    image: /images/projektplan.png
+    image: /images/template-projektplan.png
     image_alt: Editor base
   - headline: Plan de acción
     text: Proyectos
-    image: /images/massnahmenplan.jpg
+    image: /images/template-massnahmenplan.jpg
     image_alt: 
   - headline: Plan editorial
     text: Marketing

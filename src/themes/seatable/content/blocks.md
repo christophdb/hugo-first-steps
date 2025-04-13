@@ -65,11 +65,11 @@ sections:
     items:
     - headline: "Arbeitszeiterfassung"
       text: Personalwesen
-      image: /images/projektplan.png
+      image: /images/template-projektplan.png
       image_alt: Base Editor
     - headline: asdafd
       text: adadf
-      image: /images/massnahmenplan.jpg
+      image: /images/template-massnahmenplan.jpg
       image_alt: 
     - headline:
       text:
