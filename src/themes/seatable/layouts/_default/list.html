@@ -2,7 +2,7 @@
     <section class="padding">
         <section class="max-container">
             <div class="mx-auto text-center">
-                <h1 class="mt-1 xl:text-8xl lg:text-6xl text-4xl leading-narrow font-bold">{{ .Title }}</h1>
+                <h1 class="mt-1 xl:text-8xl lg:text-6xl text-5xl leading-narrow font-bold">{{ .Title }}</h1>
             </div>
 
             <div class="mt-14 flex flex-col">
@@ -10,15 +10,17 @@
                 <div id="container" class="flex flex-col w-full justify-between">
                     {{ range $index, $page := .Pages }}
                       {{ if eq $index 0 }}
+                        {{ $colorMap := dict "white" "text-white" "neutral" "text-neutral-500" "dark" "text-neutral-900" }}
+                        {{ $textColor := index $colorMap (default "neutral" .Params.color) }}
                         <!-- First item -->
                         <a href="{{ .RelPermalink }}">
-                        <div class="flex p-0 justify-between rounded-xl md:flex-row flex-col shadow-xl" style="background-color: {{ $page.Params.color | default "#ffffff" }}">
-                            <div class="flex flex-col w-1/2 p-8 md:p-16 justify-center">
-                                <h2 class="lg:text-4xl text-2xl">{{ $page.Title }}</h2>
-                                <p class="mt-6 text-xl leading-normal">{{ $page.Description }}</p>
-                                <p class="mt-12">{{ $page.Date | time.Format site.Params.dateFormat }}</p>
+                        <div class="justify-left mt-6 flex flex-col gap-0 rounded-2xl shadow-2xl md:gap-8 lg:flex-row" style="background-color: {{ $page.Params.color | default "#ffffff" }}">
+                            <div class="w-full p-8 lg:w-3/5 lg:p-12 xl:p-20">
+                                <h2 class="text-56 {{ $textColor }} mt-0 pt-8 text-left text-4xl font-extrabold leading-narrow">{{ $page.Title }}</h2>
+                                <p class="mt-4 text-xl leading-normal">{{ $page.Description }}</p>
+                                <p class="mt-18">{{ $page.Date | time.Format site.Params.dateFormat }}</p>
                             </div>
-                            <div class="w-2/5">
+                            <div class="w-9/12 self-center lg:w-2/5">
                                 {{- $images := .Resources.ByType "image" -}}
                                 {{- $featured := $images.GetMatch "feature*" -}}
                                 {{- with $featured -}}

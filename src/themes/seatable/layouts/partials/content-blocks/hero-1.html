@@ -5,7 +5,9 @@
 <section class="padding">
     <section id="customers" class="max-container">
         <div class="mx-auto mb-8 max-w-[800px] text-center">
-            <h2 class="gradient text-9xl"><span class="mr-24">{{ .h2_left | safeHTML }}</span><br /><span class="ml-24">{{ .h2_right | safeHTML }}</span></h2>
+            <h2 class="gradient text-8xl md:text-9xl">
+                <span class="mr-0 md:mr-24">{{ .h2_left | safeHTML }}</span><br /><span class="ml-0 md:ml-24">{{ .h2_right | safeHTML }}</span>
+            </h2>
             <h1 class="mt-8 text-2xl">{{ .h1 }}</h1>
             {{ if .description }}
                 <p class="mt-12 text-lg leading-normal">{{ .description | markdownify }}</p>
