@@ -147,11 +147,11 @@ sections:
       items:
           - headline: 'Учет рабочего времени'
             text: 'HR'
-            image: '/images/projektplan.png'
+            image: '/images/template-projektplan.png'
             image_alt: 'Редактор базы'
           - headline: 'План мероприятий'
             text: 'Проекты'
-            image: '/images/massnahmenplan.jpg'
+            image: '/images/template-massnahmenplan.jpg'
             image_alt: ''
           - headline: 'Редакционный план'
             text: 'Маркетинг'

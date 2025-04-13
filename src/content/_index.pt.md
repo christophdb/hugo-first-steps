@@ -147,11 +147,11 @@ sections:
       items:
           - headline: 'Registro de horas trabalhadas'
             text: Recursos humanos
-            image: /images/projektplan.png
+            image: /images/template-projektplan.png
             image_alt: Editor Base
           - headline: Plano de ação
             text: Projetos
-            image: /images/massnahmenplan.jpg
+            image: /images/template-massnahmenplan.jpg
             image_alt:
           - headline: Plano editorial
             text: Marketing

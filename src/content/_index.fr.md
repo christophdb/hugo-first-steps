@@ -147,11 +147,11 @@ sections:
   items:
   - headline: "Suivi du temps de travail"
     text: Ressources humaines
-    image: /images/projektplan.png
+    image: /images/template-projektplan.png
     image_alt: Éditeur de base
   - headline: Plan d'action
     text: Projets
-    image: /images/massnahmenplan.jpg
+    image: /images/template-massnahmenplan.jpg
     image_alt: 
   - headline: Plan éditorial
     text: Marketing
