@@ -1,6 +1,6 @@
 ---
 title: 'Registration'
-url: '/ru/registration/'
+url: '/ru/регистрация/'
 
 sections:
 - name: form-registration

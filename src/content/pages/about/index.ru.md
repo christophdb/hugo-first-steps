@@ -1,7 +1,7 @@
 ---
 title: 'About Us'
 date: '2025-04-03'
-url: '/ru/about-us'
+url: '/ru/o-нас/'
 
 sections:
     - name: hero-4

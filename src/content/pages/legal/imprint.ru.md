@@ -3,7 +3,7 @@ title: 'Imprint'
 description: ''
 date: 2025-03-24
 type: 'legal'
-url: '/ru/imprint'
+url: '/ru/юридическое-уведомление'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

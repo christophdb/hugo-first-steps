@@ -2,7 +2,7 @@
 title: Functions
 date: '2025-03-30'
 
-url: '/ru/functions'
+url: '/ru/функции'
 
 sections:
     - name: hero-3

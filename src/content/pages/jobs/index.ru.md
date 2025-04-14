@@ -2,7 +2,7 @@
 title: 'Jobs'
 date: '2025-04-03'
 
-url: '/ru/jobs'
+url: '/ru/бакансии'
 
 sections:
     - name: hero-2
