@@ -5,6 +5,8 @@ date: 2025-03-27
 categories:
     - 'Allgemein'
 tags:
+- "Projektmanagement"
+- "Finanzen"
 color: '#bba9d3'
 url: '/de/portfoliomanagement'
 ---
