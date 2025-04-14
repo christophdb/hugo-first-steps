@@ -65,3 +65,5 @@ Accessibility:
 Mobile:
 [ ] Blog Header Box
 [ ] Tables in blog posts z.B. http://localhost:1313/de/data-warehouse/
+
+[ ] Simon: redirect logic for relref with lang!?!

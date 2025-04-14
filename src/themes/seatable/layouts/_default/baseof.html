@@ -239,8 +239,6 @@
                 {{ $urls = merge $urls (dict "{{ .Lang }}" "{{ .Permalink }}") }}
             {{ end }}
 
-            console.debug('URLs:', URL_BY_LANGUAGE);
-
             document.addEventListener('alpine:init', () => {
                 // Check local storage first
                 const language = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
