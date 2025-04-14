@@ -1,5 +1,6 @@
 ---
-title: 'Jobs'
+title: 'SeaTable Jobs: centrarse en los éxitos conjuntos'
+description: 'Descubre SeaTable Jobs y revoluciona tu jornada laboral con nuestra plataforma sin código. ¡Forma parte del cambio!'
 date: '2025-04-03'
 url: '/es/jobs'
 

@@ -1,5 +1,6 @@
 ---
-title: 'SeaTable Cloud'
+title: 'SeaTable Cloud: plataforma sem código para bases de dados | solução em nuvem'
+description: 'Descubra SeaTable Cloud, a inovadora plataforma sem código. Pode desenvolver soluções personalizadas sem qualquer conhecimento de programação.'
 date: '2025-03-30'
 url: '/pt/cloud'
 

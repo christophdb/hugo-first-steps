@@ -1,5 +1,6 @@
 ---
-title: 'SeaTable Dedicated'
+title: 'SeaTable Dedicated: безопасность данных и персонализация'
+description: 'Наслаждайтесь преимуществами облака без компромиссов! SeaTable Dedicated предлагает собственную систему с полным контролем и обслуживанием данных.'
 date: '2025-03-30'
 url: '/ru/dedicated'
 

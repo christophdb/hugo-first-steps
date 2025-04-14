@@ -1,5 +1,6 @@
 ---
-title: 'SeaTable Cloud'
+title: 'SeaTable Cloud: No-code platform for databases | Cloud solution'
+description: 'Discover SeaTable Cloud, the innovative no-code platform. You can develop customized solutions without any programming knowledge.'
 date: '2025-03-30'
 url: '/cloud'
 

@@ -1,5 +1,6 @@
 ---
-title: 'SeaTable Dedicated'
+title: 'SeaTable Dedicated: Data security and individualization'
+description: 'Enjoy the benefits of the cloud without compromise! SeaTable Dedicated offers its own system with full data control and maintenance.'
 date: '2025-03-30'
 url: '/dedicated'
 

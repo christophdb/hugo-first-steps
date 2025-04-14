@@ -1,5 +1,6 @@
 ---
-title: 'Marketing'
+title: "Utiliser l'outil marketing de SeaTable : Automatiser les processus"
+description: 'Découvrez SeaTable comme un puissant outil de marketing. Automatisez les processus, analysez les données, améliorez votre efficacité.'
 date: '2025-04-03'
 url: '/fr/marketing-tool'
 
