@@ -1,10 +1,10 @@
 ---
-title: 'Terms of Service'
+title: 'условия использования'
 description: ''
 date: 2022-04-14
 version: 1.0.1
 type: 'legal'
-url: '/terms-of-service'
+url: '/ru/usloviya-ispolzovaniya'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

@@ -1,6 +1,6 @@
 ---
 title: 'Inscripción'
-url: '/es/Inscripcion/'
+url: '/es/registro/'
 
 sections:
 - name: form-registration

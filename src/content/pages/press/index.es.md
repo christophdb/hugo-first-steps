@@ -1,8 +1,8 @@
 ---
-title: 'Press'
+title: 'Prensa'
 date: '2025-04-03'
 
-url: '/es/press'
+url: '/es/prensa'
 
 sections:
     - name: 'content-23'

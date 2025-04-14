@@ -1,6 +1,6 @@
 ---
-title: Prices
+title: Precio
 date: '2025-03-30'
 
-url: '/es/prices'
+url: '/es/precio'
 ---

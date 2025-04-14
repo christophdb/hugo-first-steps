@@ -1,6 +1,6 @@
 ---
-title: Prices
+title: Preco
 date: '2025-03-30'
 
-url: '/pt/prices'
+url: '/pt/preco'
 ---

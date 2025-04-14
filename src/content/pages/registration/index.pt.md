@@ -1,6 +1,6 @@
 ---
-title: 'Registo'
-url: '/pt/registo/'
+title: 'Registro'
+url: '/pt/registro/'
 
 sections:
 - name: form-registration

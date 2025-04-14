@@ -1,8 +1,8 @@
 ---
-title: 'Press'
+title: 'пресса'
 date: '2025-04-03'
 
-url: '/ru/press'
+url: '/ru/pressa'
 
 sections:
     - name: 'content-23'

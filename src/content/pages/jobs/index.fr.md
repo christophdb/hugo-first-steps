@@ -1,8 +1,8 @@
 ---
-title: 'Jobs'
+title: 'Emploi'
 date: '2025-04-03'
 
-url: '/fr/jobs'
+url: '/fr/emploi'
 
 sections:
     - name: hero-2

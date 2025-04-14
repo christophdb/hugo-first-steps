@@ -1,10 +1,10 @@
 ---
-title: 'End User License Agreement'
+title: 'Acuerdo-de-licencia'
 description: 'EULA SeaTable Server Enterprise Edition'
 date: 2021-09-28
 version: '1.0'
 type: 'legal'
-url: '/es/eula'
+url: '/es/acuerdo-de-licencia'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

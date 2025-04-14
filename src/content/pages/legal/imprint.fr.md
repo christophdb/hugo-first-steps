@@ -1,9 +1,9 @@
 ---
-title: 'Imprint'
+title: 'Mentions-legales'
 description: ''
 date: 2025-03-24
 type: 'legal'
-url: '/fr/imprint'
+url: '/fr/mentions-legales'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

@@ -1,6 +1,6 @@
 ---
-title: "Support"
+title: "Suporte"
 date: '2025-04-03'
 
-url: '/pt/support'
+url: '/pt/suporte'
 ---

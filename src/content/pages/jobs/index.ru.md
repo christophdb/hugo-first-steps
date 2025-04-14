@@ -1,8 +1,8 @@
 ---
-title: 'Jobs'
+title: 'Pабота'
 date: '2025-04-03'
 
-url: '/ru/jobs'
+url: '/ru/rabota'
 
 sections:
     - name: hero-2
