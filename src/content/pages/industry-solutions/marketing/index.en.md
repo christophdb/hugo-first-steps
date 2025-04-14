@@ -1,5 +1,6 @@
 ---
-title: 'Marketing'
+title: 'Use the SeaTable marketing tool: Automate processes'
+description: 'Discover SeaTable as a powerful marketing tool. Automate processes, analyze data and increase your efficiency.'
 date: '2025-04-03'
 url: '/marketing-tool'
 

@@ -1,5 +1,6 @@
 ---
-title: 'SeaTable Dedicated'
+title: 'SeaTable Dedicated: Datensicherheit und Individualisierung'
+description: 'Genießen Sie die Vorteile der Cloud ohne Kompromisse! SeaTable Dedicated bietet ein eigenes System mit voller Datenkontrolle und Wartung.'
 date: '2025-03-30'
 url: '/de/dedicated'
 

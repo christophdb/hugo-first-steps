@@ -1,5 +1,6 @@
 ---
-title: Prices
+title: 'Precios SeaTable: Tarifas transparentes para todos los tamaños de equipo'
+description: 'SeaTable ofrece potentes funciones a precios justos. Descubra nuestras diferentes tarifas y encuentre la solución óptima para su gestión de datos.'
 date: '2025-03-30'
 url: '/es/prices'
 

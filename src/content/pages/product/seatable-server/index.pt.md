@@ -1,5 +1,6 @@
 ---
-title: 'SeaTable Server'
+title: 'SeaTable On-Premises: Controlo total no seu próprio servidor'
+description: 'Instale o SeaTable no seu próprio servidor e mantenha o controlo total. Ideal para empresas com elevados requisitos de proteção'
 date: '2025-03-30'
 url: '/pt/on-premises'
 

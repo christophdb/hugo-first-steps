@@ -1,5 +1,6 @@
 ---
-title: "Projectmanagement"
+title: 'The flexible project management tool for your team | SeaTable'
+description: 'Increase productivity with SeaTable. The project management tool can be adapted to your needs in simple steps.'
 date: '2025-04-03'
 url: '/projectmanagement-tools'
 
