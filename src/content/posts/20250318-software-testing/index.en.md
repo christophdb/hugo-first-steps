@@ -6,7 +6,7 @@ categories:
     - 'Best Practice'
 tags:
     - 'IT Processes'
-    - 'Toolings & Plugins'
+    - 'Tools & Plugins'
 color: '#79b9e9'
 url: '/software-testing'
 ---
