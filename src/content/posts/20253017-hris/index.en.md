@@ -5,8 +5,7 @@ date: 2025-03-17
 categories:
     - 'General'
 tags:
-    - 'Personalverwaltung'
-    - 'Toolings & Plugins'
+    - 'HR Administration'
 color: '#f5bdd6'
 url: '/hris'
 ---
