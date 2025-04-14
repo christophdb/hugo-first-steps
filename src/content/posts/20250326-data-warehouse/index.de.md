@@ -5,6 +5,8 @@ date: 2025-03-26
 categories:
     - 'Allgemein'
 tags:
+- "Datenmanagement & Visualisierung"
+- "Digitale Transformation"
 url: '/de/data-warehouse'
 color: '#34ba9d'
 ---

@@ -5,6 +5,8 @@ date: 2025-03-26
 categories:
     - 'General'
 tags:
+- "Data Management & Visualisation"
+- "Digital Transformation"
 url: '/data-warehouse'
 color: '#34ba9d'
 ---
@@ -17,7 +19,7 @@ The analysis functions enable you to derive valuable insights into various busin
 
 ## The advantages of a data warehouse
 
-- Make decisions easier\*\*: With the help of a solid database, you can make informed decisions.
+- **Make decisions easier**: With the help of a solid database, you can make informed decisions.
 - **Improve data quality**: A data warehouse cleanses, consolidates and standardizes large amounts of data to make it usable.
 - **Visualize correlations**: In a data warehouse system, you can create analyses, reports and presentations in no time at all.
 - **Recognize developments**: In the data warehouse, you collect long-term historical progress data from which you can derive patterns, trends and forecasts.
