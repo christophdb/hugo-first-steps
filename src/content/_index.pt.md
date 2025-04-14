@@ -1,6 +1,6 @@
 ---
-title: 'SeaTable'
-description: ''
+title: 'Plataforma sem código | Soluções personalizadas sem programação'
+description: 'A plataforma low-code flexível e sem código. Crie aplicações personalizadas para os seus processos empresariais sem quaisquer conhecimentos de programação.'
 
 sections:
     - name: hero-1
