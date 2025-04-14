@@ -1,5 +1,6 @@
 ---
-title: 'Individual'
+title: 'Gestion des flux de travail : automatiser efficacement les processus'
+description: 'Optimisez vos flux de travail avec SeaTable, pratiquez une gestion moderne des flux de travail et automatisez ainsi vos processus.'
 date: '2025-04-03'
 url: '/fr/workflow-management'
 

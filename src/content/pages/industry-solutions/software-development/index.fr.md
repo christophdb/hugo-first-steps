@@ -1,5 +1,6 @@
 ---
-title: 'Software Development'
+title: 'Gestion des services informatiques avec SeaTable : efficace &amp; flexible'
+description: 'SeaTable vous offre la possibilité de personnaliser et d&#039;optimiser votre gestion des services informatiques. Utilisez notre solution No-Code.'
 date: '2025-04-03'
 url: '/fr/it-service-management'
 

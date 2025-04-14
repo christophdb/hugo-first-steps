@@ -1,5 +1,6 @@
 ---
-title: 'HR'
+title: 'Digitalize e automatize os processos de RH com o SeaTable'
+description: 'Revolucione os seus processos de RH com o SeaTable. Desde a integração ao registo de horas - aumente a eficiência do seu departamento de RH.'
 date: '2025-04-03'
 url: '/pt/hr-processes'
 

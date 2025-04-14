@@ -1,5 +1,6 @@
 ---
-title: 'HR'
+title: 'Digitize and automate HR processes with SeaTable'
+description: 'Revolutionize your HR processes with SeaTable. From onboarding to time recording - increase the efficiency of your HR department.'
 date: '2025-04-03'
 url: '/hr-processes'
 

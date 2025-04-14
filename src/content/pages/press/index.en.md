@@ -1,7 +1,7 @@
 ---
-title: 'Press'
+title: 'SeaTable Press: News and media reports'
+description: 'Find out more about SeaTable Press and the interesting media reports that highlight our platform and its applications.'
 date: '2025-04-03'
-
 url: '/press'
 
 sections:

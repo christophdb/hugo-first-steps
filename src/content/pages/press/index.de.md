@@ -1,5 +1,6 @@
 ---
-title: 'Presse'
+title: 'SeaTable Presse: Neuigkeiten und Medienberichte'
+description: 'Erfahren Sie mehr über SeaTable Presse und die interessanten Medienberichte, die unsere Plattform und ihre Anwendungen beleuchten.'
 date: '2025-04-03'
 url: '/de/presse'
 

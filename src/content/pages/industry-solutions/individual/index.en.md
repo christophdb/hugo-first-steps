@@ -1,5 +1,6 @@
 ---
-title: 'Individual'
+title: 'Workflow management: automate processes efficiently'
+description: 'Optimize your workflows with SeaTable, operate modern workflow management and automate your processes.'
 date: '2025-04-03'
 url: '/workflow-management'
 

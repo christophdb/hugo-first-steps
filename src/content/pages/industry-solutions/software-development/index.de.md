@@ -1,5 +1,6 @@
 ---
-title: 'Software Entwicklung'
+title: 'IT Service Management mit SeaTable: Effizient und flexibel'
+description: 'SeaTable bietet Ihnen die Möglichkeit, Ihr IT Service Management individuell anzupassen und zu optimieren. Nutzen Sie unsere No-Code-Lösung.'
 date: '2025-04-03'
 url: '/de/it-service-management'
 

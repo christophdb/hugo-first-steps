@@ -1,5 +1,6 @@
 ---
-title: 'About Us'
+title: 'Sobre nosotros: Nuestra misión para un trabajo eficiente con los datos | SeaTable'
+description: 'Nos centramos en la calidad, la seguridad y la eficacia. Conozca a nuestro equipo y nuestra misión de convertirnos en líderes del mercado europeo.'
 date: '2025-04-03'
 url: '/es/about-us'
 

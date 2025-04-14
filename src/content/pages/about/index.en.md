@@ -1,5 +1,6 @@
 ---
-title: 'About Us'
+title: 'About us: Our mission for efficient data work | SeaTable'
+description: 'We focus on quality, safety and efficiency. Get to know our team and our mission to become the European market leader.'
 date: '2025-04-03'
 url: '/about-us'
 
