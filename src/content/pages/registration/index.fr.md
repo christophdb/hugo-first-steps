@@ -1,5 +1,7 @@
 ---
-title: 'Inscription'
+title: 'Inscription : Pour démarrer facilement | SeaTable'
+description: "Inscrivez-vous maintenant et profitez de notre abonnement gratuit. Peu d'efforts, utilisation immédiate, pas besoin de carte de crédit."
+date: 2025-03-24
 url: '/fr/inscription/'
 
 sections:
@@ -9,4 +11,3 @@ sections:
   cta: "Commencer immédiatement, aucune carte de crédit n'est nécessaire!"
   submit: "S\'inscrire maintenant"
 ---
-

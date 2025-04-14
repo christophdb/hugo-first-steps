@@ -1,5 +1,6 @@
 ---
-title: Excel alternative for your company
+title: 'Excel alternative for your company | Smart data management'
+description: 'Forget rigid tables. SeaTable offers collaborative data management. Switch to the intelligent Excel alternative.'
 date: '2025-03-30'
 url: '/excel-alternative'
 

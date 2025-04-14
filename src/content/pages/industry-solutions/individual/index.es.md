@@ -1,5 +1,6 @@
 ---
-title: 'Individual'
+title: 'Gestión de flujos de trabajo: automatice los procesos con eficacia'
+description: 'Optimice sus flujos de trabajo con SeaTable, utilice una moderna gestión de flujos de trabajo y automatice sus procesos.'
 date: '2025-04-03'
 url: '/es/workflow-management'
 

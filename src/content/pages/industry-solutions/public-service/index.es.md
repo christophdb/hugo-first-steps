@@ -1,5 +1,6 @@
 ---
-title: 'Public service'
+title: 'Administración digital más fácil para administraciones públicas y empresas'
+description: 'Administración digital repensada: Seatable permite soluciones flexibles y personalizables para administraciones públicas y empresas de todos los tamaños'
 date: '2025-04-03'
 url: '/es/public-service'
 

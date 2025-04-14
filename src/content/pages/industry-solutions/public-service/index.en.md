@@ -1,5 +1,6 @@
 ---
-title: 'Public service'
+title: 'Digital administration made easy for public authorities &amp; companies'
+description: 'Digital administration rethought: Seatable enables flexible and customizable solutions for public authorities and companies of all sizes'
 date: '2025-04-03'
 url: '/public-service'
 

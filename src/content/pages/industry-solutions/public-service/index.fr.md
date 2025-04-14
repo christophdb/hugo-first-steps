@@ -1,5 +1,6 @@
 ---
-title: 'Public service'
+title: "L'administration numérique simplifiée pour les administrations et les entreprises"
+description: "L'administration numérique repensée : Seatable permet des solutions flexibles et adaptables pour les administrations et les entreprises de toutes tailles"
 date: '2025-04-03'
 url: '/fr/public-service'
 
