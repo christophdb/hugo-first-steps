@@ -37,7 +37,7 @@ The trick is to **rotate the plants** in the beds on a 3- to 4-year cycle. This 
 
 ![Prepare bed](2.jpg)
 
-_**Note**: An ever-flowering bed can logically be planned in the planting plan without any crop rotation at all. If you want to create a planting plan for your ever-flowering bed, you should make sure to combine plants with different flowering times in order to balance the nutrient uptake over the season. For example, a planting plan for a perennial bed (sunny, dry) may include lavender, sage and yarrow, while a planting plan for hydrangeas in the bed design should include humus-rich and moist soil _.
+_**Note**: An ever-flowering bed can logically be planned in the planting plan without any crop rotation at all. If you want to create a planting plan for your ever-flowering bed, you should make sure to combine plants with different flowering times in order to balance the nutrient uptake over the season. For example, a planting plan for a perennial bed (sunny, dry) may include lavender, sage and yarrow, while a planting plan for hydrangeas in the bed design should include humus-rich and moist soil_.
 
 ## Tips for creating your own planting plan
 
