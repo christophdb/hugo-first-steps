@@ -8,7 +8,7 @@ categories:
 tags:
     - 'Processus informatiques'
     - 'Travail collaboratif'
-    - 'Outils et plugins'
+    - 'Outils & plugins'
 color: '#79b9e9'
 url: '/fr/software-testing'
 ---
