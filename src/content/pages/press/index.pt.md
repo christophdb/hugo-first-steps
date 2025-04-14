@@ -2,7 +2,7 @@
 title: 'SeaTable Press: Notícias e relatórios dos media'
 description: 'Saiba mais sobre o SeaTable Press e as interessantes reportagens dos media que destacam a nossa plataforma e as suas aplicações.'
 date: '2025-04-03'
-url: '/pt/press'
+url: '/pt/imprensa'
 
 sections:
     - name: 'content-23'

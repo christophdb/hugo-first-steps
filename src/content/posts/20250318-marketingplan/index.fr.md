@@ -6,7 +6,7 @@ categories:
   - "Général"
   - "Meilleures pratiques"
 tags: 
-  - "plan du marketing"
+  - "planification du marketing"
 color: "#509dfd"
 url: "/fr/marketingplan"
 ---

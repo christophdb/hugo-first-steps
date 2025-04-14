@@ -1,9 +1,9 @@
 ---
-title: 'Pie de imprenta | SeaTable'
+title: 'Aviso-legal'
 description: ''
 date: 2025-03-24
 type: 'legal'
-url: '/es/imprint'
+url: '/es/aviso-legal'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

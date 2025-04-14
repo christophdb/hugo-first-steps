@@ -1,7 +1,9 @@
 ---
-title: 'Support'
+
+title: "Soporte"
 date: '2025-04-03'
-url: '/es/support'
+url: '/es/soporte'
+---
 
 sections:
     - name: hero-2

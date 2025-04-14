@@ -5,8 +5,8 @@ date: 2024-10-21
 categories:
     - 'Témoignage client'
 tags:
-    - 'visualisation de la gestion des données'
-    - 'transformation digital'
+    - 'gestion des données & visualisation'
+    - 'transformation digitale'
     - 'administration publique'
 color: '#bb9de1'
 url: '/fr/customer-story-fr-la-manche/'

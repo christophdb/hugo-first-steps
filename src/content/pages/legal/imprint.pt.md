@@ -1,9 +1,9 @@
 ---
-title: 'Impressão | SeaTable'
+title: 'Informações-legais'
 description: ''
 date: 2025-03-24
 type: 'legal'
-url: '/pt/imprint'
+url: '/pt/informacoes-legais'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

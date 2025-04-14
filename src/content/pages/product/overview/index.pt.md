@@ -1,7 +1,7 @@
 ---
-title: 'SeaTable Products'
+title: 'SeaTable Produtos'
 date: '2025-03-30'
-url: '/pt/products'
+url: '/pt/produtos'
 
 sections:
     - name: hero-2

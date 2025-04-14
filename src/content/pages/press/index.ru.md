@@ -1,8 +1,8 @@
 ---
-title: 'SeaTable Press: Новости и сообщения СМИ'
+title: 'SeaTable пресса: Новости и сообщения СМИ'
 description: 'Узнайте больше о SeaTable Press и интересных публикациях в СМИ, которые освещают нашу платформу и ее применение.'
 date: '2025-04-03'
-url: '/ru/press'
+url: '/ru/pressa'
 
 sections:
     - name: 'content-23'

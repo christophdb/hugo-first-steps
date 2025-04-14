@@ -5,7 +5,7 @@ date: 2025-03-17
 categories:
     - 'No Code / Low Code'
 tags:
-    - 'Transformation digital'
+    - 'Transformation digitale'
     - 'Processus informatiques'
 color: '#50c2d0'
 url: '/fr/citizen-developer'

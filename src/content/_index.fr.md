@@ -95,8 +95,9 @@ sections:
   - number: "4.6"
     text: "Évaluation sur Capterra"
   buttons:
-  - link: "categories/customer-story"
-    label: "Lire d'autres témoignages de réussite"
+  - link: "categories/témoignage-client"
+    label: "Lesen Sie weitere Erfolgsgeschichten"
+
 
 - name: content-1
   weight: 5
