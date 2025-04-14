@@ -1,17 +1,22 @@
-<img class="h-[92px] w-[180px]" src="/images/logos/bwi.png" alt="Logo BWI" />
-<img class="h-[92px] w-[180px]" src="/images/logos/united-nations.png" alt="Logo United Nations" />
-<img class="h-[92px] w-[180px]" src="/images/logos/max-planck-gesellschaft.png" alt="Logo Max Planck Society" />
-<img class="h-[92px] w-[180px]" src="/images/logos/cma-cgm.png" alt="Logo CMA CGM" />
-<img class="h-[92px] w-[180px]" src="/images/logos/hceres.png" alt="Logo hceres" />
-<img class="h-[92px] w-[180px]" src="/images/logos/reddot.png" alt="Logo reddot" />
-<img class="h-[92px] w-[180px]" src="/images/logos/bundeswehr.png" alt="Logo German Armed Forces" />
-<img class="h-[92px] w-[180px]" src="/images/logos/tu-berlin.png" alt="Logo TU-Berlin" />
-<img class="h-[92px] w-[180px]" src="/images/logos/eolane.png" alt="Logo eolane" />
-<img class="h-[92px] w-[180px]" src="/images/logos/telus.png" alt="Logo Telus" />
-<img class="h-[92px] w-[180px]" src="/images/logos/aesio.png" alt="Logo aesio" />
-<img class="h-[92px] w-[180px]" src="/images/logos/imba.png" alt="Logo IMBA" />
-<img class="h-[92px] w-[180px]" src="/images/logos/hu-berlin.png" alt="Logo HU-Berlin" />
-<img class="h-[92px] w-[180px]" src="/images/logos/humanizing.png" alt="Logo Humanizing" />
-<img class="h-[92px] w-[180px]" src="/images/logos/publicplan.png" alt="Logo Publicplan" />
-<img class="h-[92px] w-[180px]" src="/images/logos/toyo-engineering.png" alt="Logo Toyo Engineering" />
-<img class="h-[92px] w-[180px]" src="/images/logos/cj-cheiljedang.png" alt="Logo cj-cheiljedang" />
+{{ $logos := slice
+    (dict "src" "/images/logos/bwi.png" "alt" "Logo BWI")
+    (dict "src" "/images/logos/united-nations.png" "alt" "Logo United Nations")
+    (dict "src" "/images/logos/max-planck-gesellschaft.png" "alt" "Logo Max Planck Society")
+    (dict "src" "/images/logos/cma-cgm.png" "alt" "Logo CMA CGM")
+    (dict "src" "/images/logos/hceres.png" "alt" "Logo hceres")
+    (dict "src" "/images/logos/reddot.png" "alt" "Logo reddot")
+    (dict "src" "/images/logos/bundeswehr.png" "alt" "Logo German Armed Forces")
+    (dict "src" "/images/logos/tu-berlin.png" "alt" "Logo TU-Berlin")
+    (dict "src" "/images/logos/eolane.png" "alt" "Logo eolane")
+    (dict "src" "/images/logos/telus.png" "alt" "Logo Telus")
+    (dict "src" "/images/logos/aesio.png" "alt" "Logo aesio")
+    (dict "src" "/images/logos/imba.png" "alt" "Logo IMBA")
+    (dict "src" "/images/logos/hu-berlin.png" "alt" "Logo HU-Berlin")
+    (dict "src" "/images/logos/humanizing.png" "alt" "Logo Humanizing")
+    (dict "src" "/images/logos/publicplan.png" "alt" "Logo Publicplan")
+    (dict "src" "/images/logos/toyo-engineering.png" "alt" "Logo Toyo Engineering")
+    (dict "src" "/images/logos/cj-cheiljedang.png" "alt" "Logo cj-cheiljedang")
+}}
+{{ range shuffle $logos }}
+    <img class="mr-4 h-[92px] w-[180px]" src="{{ .src }}" alt="{{ .alt }}" />
+{{ end }}
