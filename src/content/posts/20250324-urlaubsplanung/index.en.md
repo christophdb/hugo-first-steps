@@ -5,6 +5,8 @@ date: 2025-03-24
 categories: 
   - "General"
   - "Best Practice"
+tags:
+- "HR Administration"
 color: "#fdf505"
 url: "/urlaubsplanung"
 ---
@@ -21,7 +23,7 @@ Your employees' leave is clearly regulated in employment law. According to the F
 
 In many companies, however, this includes fixed company vacations during which the entire company is shut down for several days. This usually takes place from Christmas to New Year, as there are several public holidays that interrupt operations anyway. If a company announces company vacations, employees must take leave during these periods. As company leave is deducted from employees' annual leave entitlement, they do not have the full number of vacation days at their disposal.
 
-![Vacation planning - picture shows sunglasses, an older camera, a straw hat and a glass of orange juice](Das-Bundesurlaubsgesetz-kurz-erklaert.jpg)
+![Vacation planning – picture shows sunglasses, an older camera, a straw hat and a glass of orange juice](Das-Bundesurlaubsgesetz-kurz-erklaert.jpg)
 
 ## When your employees should apply for vacation
 
