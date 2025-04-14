@@ -1,13 +1,13 @@
 ---
-title: 'Registo: É muito fácil começar a trabalhar'
-description: 'Registe-se agora e beneficie da nossa assinatura gratuita. Quase nenhum esforço, utilização imediata, sem necessidade de cartão de crédito.'
+title: 'Registro: Es muy fácil empezar'
+description: 'Regístrese ahora y benefíciese de nuestra suscripción gratuita. Sin apenas esfuerzo, uso inmediato y sin necesidad de tarjeta de crédito.'
 date: 2025-03-24
 url: '/es/registro/'
 
 sections:
     - name: form-registration
-      title: 'Experimente o SeaTable'
-      subtitle: 'Comece agora com a nossa subscrição gratuita.'
-      cta: 'Comece agora mesmo, sem necessidade de cartão de crédito!'
-      submit: 'Registar agora'
+      title: 'Pruebe SeaTable'
+      subtitle: 'Empieza ahora con nuestra suscripción gratuita.'
+      cta: 'Empiece ahora mismo, ¡sin necesidad de tarjeta de crédito!'
+      submit: 'Regístrese ahora'
 ---

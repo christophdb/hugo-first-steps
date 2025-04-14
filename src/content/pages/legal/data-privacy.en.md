@@ -10,7 +10,7 @@ url: '/data-privacy'
 
 This privacy policy is only available in english and german. The english translation is an non-binding, convenience translation.
 
-The **[German original](/de/datenschutz/)** is legally binding.
+The **[German original]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 
