@@ -4,7 +4,11 @@ description: 'A logbook can be more than just annoying bureaucracy - it offers y
 date: 2025-04-01
 url: '/digital-logbook'
 tags:
+- 'Finances'
+- 'Tools & Plugins'
+- 'Fleetmanagement'
 categories:
+- 'General'
 color: '#f34b4c'
 text: 'white'
 ---

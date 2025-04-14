@@ -1,5 +1,22 @@
-<img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/bwi.png" alt="" />
-<img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/united-nations.png" alt="" />
-<img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/max-planck-gesellschaft.png" alt="" />
-<img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/cma-cgm.png" alt="" />
-<img class="w-[180px] h-[92px]" src="https://seatable.com/wp-content/uploads/2025/02/hceres.png" alt="" />
+{{ $logos := slice
+    (dict "src" "/images/logos/bwi.png" "alt" "Logo BWI")
+    (dict "src" "/images/logos/united-nations.png" "alt" "Logo United Nations")
+    (dict "src" "/images/logos/max-planck-gesellschaft.png" "alt" "Logo Max Planck Society")
+    (dict "src" "/images/logos/cma-cgm.png" "alt" "Logo CMA CGM")
+    (dict "src" "/images/logos/hceres.png" "alt" "Logo hceres")
+    (dict "src" "/images/logos/reddot.png" "alt" "Logo reddot")
+    (dict "src" "/images/logos/bundeswehr.png" "alt" "Logo German Armed Forces")
+    (dict "src" "/images/logos/tu-berlin.png" "alt" "Logo TU-Berlin")
+    (dict "src" "/images/logos/eolane.png" "alt" "Logo eolane")
+    (dict "src" "/images/logos/telus.png" "alt" "Logo Telus")
+    (dict "src" "/images/logos/aesio.png" "alt" "Logo aesio")
+    (dict "src" "/images/logos/imba.png" "alt" "Logo IMBA")
+    (dict "src" "/images/logos/hu-berlin.png" "alt" "Logo HU-Berlin")
+    (dict "src" "/images/logos/humanizing.png" "alt" "Logo Humanizing")
+    (dict "src" "/images/logos/publicplan.png" "alt" "Logo Publicplan")
+    (dict "src" "/images/logos/toyo-engineering.png" "alt" "Logo Toyo Engineering")
+    (dict "src" "/images/logos/cj-cheiljedang.png" "alt" "Logo cj-cheiljedang")
+}}
+{{ range shuffle $logos }}
+    <img class="mr-4 h-[92px] w-[180px]" src="{{ .src }}" alt="{{ .alt }}" />
+{{ end }}

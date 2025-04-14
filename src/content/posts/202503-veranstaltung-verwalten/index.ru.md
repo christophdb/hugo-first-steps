@@ -6,6 +6,7 @@ url: '/ru/event-management'
 tags:
 - "Управление событиями"
 categories:
+- 'Лучшие практики'
 color: '#f7c1cf'
 ---
 

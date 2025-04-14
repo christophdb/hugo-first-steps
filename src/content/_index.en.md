@@ -1,6 +1,6 @@
 ---
-title: 'SeaTable'
-description: ''
+title: 'No-code platform | Individual solutions without programming'
+description: 'The flexible no-code low-code platform. Create individual applications for your business processes without any programming knowledge.'
 
 sections:
 - name: hero-1
@@ -30,32 +30,32 @@ sections:
       - icon: 'chart-simple'
         headline: 'Marketing'
         text: 'Plan campaigns, manage leads and analyze results with SeaTable. Automate workflows and optimize your marketing strategy.'
-        link: '#'
+        link: '/pages/industry-solutions/marketing'
 
       - icon: 'bullseye'
         headline: 'Project management'
         text: 'Use Gantt charts and Kanban boards to manage projects efficiently. Track progress and coordinate teams with SeaTable.'
-        link: '#'
+        link: '/pages/industry-solutions/project-management'
 
       - icon: 'people-group'
         headline: 'Human Resources'
         text: 'Manage employee data, training and leave requests with SeaTable. Optimize HR processes and improve the employee experience.'
-        link: '#'
+        link: '/pages/industry-solutions/hr'
 
       - icon: 'building'
         headline: 'Public service'
         text: 'Manage personnel files, training data and applications with SeaTable. Optimize processes and improve transparency in the public sector.'
-        link: '#'
+        link: '/pages/industry-solutions/public-service'
 
       - icon: 'terminal'
         headline: 'Software development'
         text: 'Manage backlogs, issues, bugs and releases with SeaTable. Optimize the development process and improve team communication'
-        link: '#'
+        link: '/pages/industry-solutions/software-development'
 
       - icon: 'fingerprint'
         headline: 'Individual'
         text: 'Create customized applications for your specific business needs with SeaTable. Automate processes and improve efficiency.'
-        link: '#'
+        link: '/pages/industry-solutions/individual'
 
 - name: "content-8"
   weight: 3
@@ -64,23 +64,23 @@ sections:
   description: "Visualize your data sets in any way you can imagine and collaborate in real time. Here are just some of the possibilities of SeaTable."
   items:
   - text: "Base Editor"
-    image: "https://seatable.com/wp-content/uploads/2025/02/template-content-marketing-strategie.png"
+    image: "/images/template-content-marketing-strategie.png"
     alt: "Base Editor"
   - text: "Gallery"
-    image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
+    image: "/images/galerie-plugin.png"
     alt: "Galerie"
   - text: "Kanban"
     alt: ""
-    image: "https://placehold.co/470x250"
+    image: "/images/kanban-plugin.png"
   - text: "Timeline"
     alt: ""
-    image: "https://placehold.co/470x250"
+    image: "/images/timeline-plugin.png"
   - text: "Calendar"
     alt: ""
-    image: "https://placehold.co/470x250"
+    image: "/images/calendar-plugin.png"
   - text: "Table relationships"
     alt: ""
-    image: "https://placehold.co/470x250"
+    image: "/images/table-relationship-plugin.png"
 
 - name: "customer-1"
   weight: 4
@@ -115,7 +115,7 @@ sections:
 
   - headline: "Collaborative working in real time for teams"
     text: "SeaTable promotes collaboration in your team through real-time synchronization and shared workspaces. Everyone in the team can access the same data at the same time, make changes and see what others are working on.<br/><br/>This makes SeaTable an ideal tool for teams who want to work together on projects and increase their productivity. Our no-code/low-code platform also supports collaborative work through commenting and sharing features, helping you to optimize your teamwork."
-  image: https://placehold.co/560x400
+  image: /images/Group-38.png
 
 - name: content-2
   weight: 6
@@ -147,15 +147,15 @@ sections:
   items:
   - headline: "Working time recording"
     text: Human resources
-    image: https://seatable.com/wp-content/uploads/2025/02/template-projektplan.png
+    image: /images/template-projektplan.png
     image_alt: Base Editor
   - headline: Action plan
     text: Projects
-    image: https://seatable.com/wp-content/uploads/2025/02/template-massnahmenplan.jpg
+    image: /images/template-massnahmenplan.jpg
     image_alt: 
   - headline: Editorial plan
     text: Marketing
-    image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
+    image: "/images/galerie-plugin.png"
     image_alt: 
   buttons:
     - label: "Find more templates for your area of application"

@@ -30,8 +30,9 @@
     </section>
 
     <div class="mx-auto mt-24 max-w-3xl gap-4 text-center">
-        <h3 class="gradient text-3xl">Wer schon über uns berichtet hat...</h3>
-        <img class="mt-8" src="/images/Logo_PR.png" alt="Logo PR" />
+        {{ if .subheadline }}<h3 class="gradient text-3xl">{{ .subheadline }}</h3>{{ end }}
+        {{ if .image }}<img class="mt-8" src="{{ .image }}" alt="Logo PR" />{{ end }}
+
         {{ range .buttons }}
             {{ $link := page.GetPage .link }}
 

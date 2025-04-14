@@ -33,7 +33,7 @@ sections:
           - curved
       contact:
           title: Sie benötigen individuelle Dienstleistungen?
-          text: Wir bieten Ihnen alle Dienstleistungen rund um SeaTable aus einer Hand. So z. B. Installation, Wartung und Betrieb, individuelle Entwicklungen sowie Schulungen. Sprechen Sie uns an!
+          text: 'Wir bieten Ihnen alle Dienstleistungen rund um SeaTable aus einer Hand. So z. B. Installation, Wartung und Betrieb, individuelle Entwicklungen sowie Schulungen. Sprechen Sie uns an!'
 
     - name: content-5
       weight: 4

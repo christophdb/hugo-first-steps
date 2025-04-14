@@ -19,9 +19,102 @@ registration:
     email_placeholder: 'Entrez votre adresse e-mail...'
     email_invalid: 'Cette adresse e-mail semble être incomplète'
     email_required: 'E-mail est requis'
+    submit: "S'inscrire maintenant"
+    send: "Envoi de l'inscription en cours..."
+    success: 'Inscription réussie. Vérifiez votre boîte mail.'
+    error: "Une erreur s'est produite."
+
+contact:
+    first_name: 'Prénom'
+    last_name: 'Nom'
+    company: 'Société'
+    email: 'E-mail'
+    reason: 'Motif de la demande'
+    message: 'Votre message'
+    submit: 'Envoyer le message'
+    send: 'Envoi de votre message en cours...'
+    success: 'Nous avons bien reçu votre message.'
+    error: "Une erreur s'est produite."
 
 newsletter:
     submit_text: 'Souscrire'
 
+support_table:
+    support_channel: 'Canal de support'
+    newsletter: 'Newsletter'
+    help_area: "Espace d'aide"
+    forum: 'Forum SeaTable'
+    support_tickets: 'Tickets de support / e-mail'
+    workshop: "Atelier d'intégration"
+    personal_contact: 'Contact personnel dédié'
+    professional_services: 'Services professionnels (payants)'
+    telephone: 'Support téléphonique'
+    remote_hands: 'Assistance à distance'
+    customized_dev: 'Développement personnalisé (plugins, scripts, modèles)'
+    trainings: 'Formations & Ateliers'
+    service_level: 'Niveau de service'
+    availability: 'Disponibilité'
+    response_time: 'Délai de réponse'
+    service_time: 'Heures de service'
+    best_effort: 'Meilleur effort'
+    sla: 'Accord de niveau de service (SLA)'
+    opening_times: 'Lundi - Vendredi<br/>10h - 17h (CET)'
+
+product_comparison_table:
+    editions: 'Éditions'
+    use_free: 'Gratuit à utiliser'
+    administration: 'Administration'
+    any_location: 'Emplacement du serveur au choix'
+    automatic_updates: 'Mises à jour automatiques'
+    own_admin: 'Auto-administration'
+    command_line: 'Accès à la ligne de commande Linux'
+    authentication: 'Authentification personnalisée'
+    customizing: 'Personnalisation'
+    custom_logo: 'Logo personnalisé'
+    custom_url: 'URL personnalisée'
+    custom_templates: 'Modèles personnalisés'
+    custom_roles: 'Rôles utilisateur personnalisés'
+    support: 'Support'
+    corporate_support: 'Support entreprise optionnel'
+    requirements: 'Prérequis'
+    only_free: '(uniquement SeaTable Free)'
+    only_enterprise: '(uniquement SeaTable Enterprise)'
+    up_to_three_users: "(jusqu'à 3 utilisateurs)"
+    email: 'Adresse email'
+    min_100_users: 'Min. 100 utilisateurs'
+    server_or_vm: 'Serveur Linux ou machine virtuelle'
+
 contact_sales: Contacter les ventes'
 read_more: 'En savoir plus'
+
+price_table:
+    month: 'Mois'
+    yearly: 'Annuel'
+    monthly: 'Mensuel'
+    unlimited_bases: 'Bases illimitées'
+    unlimited_tables: 'Tableaux illimités'
+    rows: 'Lignes'
+    rows_per_base: 'Lignes par base'
+    gb_for_files: 'Go pour fichiers'
+    month_snapshots: 'Mois de snapshots'
+    unlimited_javascript: 'JavaScript illimité'
+    python_runs: 'Exécutions Python'
+    unlimited_rows: 'Lignes illimitées'
+    unlimited_python: 'Exécutions Python illimitées'
+    advanced_sharing: 'Partage avancé'
+    advanced_customization: 'Personnalisation avancée'
+    automations: 'Automatisations'
+    big_data_storage: 'Stockage Big Data'
+    bank_transfer_payment: 'Paiement par virement'
+    unlimited_api_calls: 'Appels API illimités'
+    enterprise_admin_panel: 'Panneau admin Entreprise'
+    sso_integration: 'Single Sign-On via SAML et OAuth'
+    corporate_support: 'Support Entreprise optionnel et SLA'
+    start_now: 'Commencer maintenant'
+    contact_sales: 'Contacter les ventes'
+    for_up_to_25_users: "Jusqu'à 25 utilisateurs"
+    no_credit_card_needed: 'Carte bancaire non requise'
+    per_user_month: 'Par utilisateur/mois'
+    yearly_billing: 'Facturation annuelle'
+    monthly_billing: 'Facturation mensuelle'
+    min_100_users: 'Minimum 100 utilisateurs'

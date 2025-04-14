@@ -3,10 +3,9 @@ title: 'Quick, easy and free: How to create your own app without code'
 description: "Developing your own app doesn't have to be expensive or complicated. With modern no-code tools, you can implement your ideas quickly and easily - without any programming knowledge. In this article, you will find out which tools are particularly suitable and how you can create your own app in just a few steps."
 date: 2025-03-18
 categories:
-    - 'General'
     - 'No Code / Low Code'
 tags:
-    - 'Toolings & Plugins'
+    - 'Low Code / No Code'
     - 'Universal App Builder'
 color: '#9fe0cc'
 url: '/app-erstellen'

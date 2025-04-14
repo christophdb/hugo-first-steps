@@ -4,6 +4,9 @@ description: 'Die Digitalisierung der Arbeitswelt schreitet rasant fort und Clou
 categories:
     - 'Allgemein'
 tags:
+- 'IT Sicherheit & Datenschutz'
+- 'Datenmanagement & Visualisierung'
+- 'Digitale Transformation'
 date: 2025-04-01
 color: '#c5a6e9'
 url: '/de/cloud-computing'

@@ -1,5 +1,6 @@
 ---
-title: 'SeaTable Dedicated'
+title: 'SeaTable Dedicated: Datensicherheit und Individualisierung'
+description: 'Genießen Sie die Vorteile der Cloud ohne Kompromisse! SeaTable Dedicated bietet ein eigenes System mit voller Datenkontrolle und Wartung.'
 date: '2025-03-30'
 url: '/de/dedicated'
 
@@ -27,6 +28,8 @@ sections:
 
     - name: content-11
       weight: 3
+      classes:
+          - curved
       title: Ihr eigenes Cloud-System
       subtitle: Professionell
       items:
@@ -42,8 +45,10 @@ sections:
           label: Jetzt Angebot anfordern
           link: '/pages/contact'
 
-    - name: table-x
+    - name: product-comparison-table
       weight: 5
+      title: Die drei Produkte von SeaTable im Überblick
+      subtitle: Vergleich unserer Produkte
 
     - name: content-4
       weight: 6

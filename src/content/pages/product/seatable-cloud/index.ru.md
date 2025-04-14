@@ -1,5 +1,6 @@
 ---
-title: 'SeaTable Cloud'
+title: 'SeaTable Cloud: платформа для баз данных без кода | облачное решение'
+description: 'Откройте для себя SeaTable Cloud, инновационную платформу без кода. Вы можете разрабатывать индивидуальные решения без каких-либо знаний программирования.'
 date: '2025-03-30'
 url: '/ru/cloud'
 
@@ -46,10 +47,10 @@ sections:
           - label: Посмотреть цены
             link: 'pages/prices'
 
-    #- name: table-1
-    #  weight: 4
-    #  title: Обзор трех продуктов SeaTable
-    #  subtitle: Сравните наши продукты
+    - name: product-comparison-table
+      weight: 4
+      title: Три продукта SeaTable с первого взгляда
+      subtitle: Сравнение наших продуктов
 
     - name: content-6
       weight: 5

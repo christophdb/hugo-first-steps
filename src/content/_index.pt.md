@@ -1,291 +1,284 @@
 ---
-title: 'SeaTable'
-description: ''
+title: 'Plataforma sem código | Soluções personalizadas sem programação'
+description: 'A plataforma low-code flexível e sem código. Crie aplicações personalizadas para os seus processos empresariais sem quaisquer conhecimentos de programação.'
 
 sections:
-- name: hero-1
-  weight: 1
-  h2_left: "Sem código,"
-  h2_right: "sem limites"
-  h1: "Plataforma sem código SeaTable: organize todos os seus dados e desenvolva aplicações personalizadas sem escrever uma única linha de código!" 
-  description: "Crie bases de dados, fluxos de trabalho e aplicações personalizadas de forma intuitiva e fácil. A nossa solução sem código combina a simplicidade das folhas de cálculo com o poder das bases de dados sem código e dos criadores de aplicações sem código e também pode ser utilizada como uma plataforma com pouco código."
-  buttons:
-    - label: Começar agora
-      link: "pages/registration"
-      style: "primary"
-    - label: Conhecer as funções
-      link: "pages/functions"
-  image: "/images/projektmanagement-mit-seatable.gif"
+    - name: hero-1
+      weight: 1
+      h2_left: 'Sem código,'
+      h2_right: 'sem limites'
+      h1: 'Plataforma sem código SeaTable: organize todos os seus dados e desenvolva aplicações personalizadas sem escrever uma única linha de código!'
+      description: 'Crie bases de dados, fluxos de trabalho e aplicações personalizadas de forma intuitiva e fácil. A nossa solução sem código combina a simplicidade das folhas de cálculo com o poder das bases de dados sem código e dos criadores de aplicações sem código e também pode ser utilizada como uma plataforma com pouco código.'
+      buttons:
+          - label: Começar agora
+            link: 'pages/registration'
+            style: 'primary'
+          - label: Conhecer as funções
+            link: 'pages/functions'
+      image: '/images/projektmanagement-mit-seatable.gif'
 
-- name: content-4
-  weight: 2
-  subtitle: 'What is SeaTable?'
-  title: 'As simple as Excel, with the power of a database'
-  text: 'SeaTable can handle all information from you and your team:Images, documents, emails, checkboxes, picklists, shortcuts and much more. You can edit all information conveniently via a web browser.'
-  buttons:
-    - label: 'Try it out now'
-      link: 'pages/registration'
-  gridheadline: "The No-Code <span class='gradient'>solution</span> for ..."
-  items:
-      - icon: 'chart-simple'
-        headline: 'Marketing'
-        text: 'Plan campaigns, manage leads and analyze results with SeaTable. Automate workflows and optimize your marketing strategy.'
-        link: '#'
+    - name: content-4
+      weight: 2
+      subtitle: 'O que é SeaTable?'
+      title: 'Tão simples como Excel, com o poder de um banco de dados'
+      text: 'O SeaTable pode lidar com todas as informações de você e da sua equipe: imagens, documentos, e-mails, caixas de seleção, listas suspensas, atalhos e muito mais. Você pode editar todas as informações convenientemente através de um navegador web.'
+      buttons:
+          - label: 'Experimente agora'
+            link: 'pages/registration'
+      gridheadline: "A solução <span class='gradient'>No-Code</span> para..."
+      items:
+          - icon: 'chart-simple'
+            headline: 'Marketing'
+            text: 'Planeje campanhas, gerencie leads e analise resultados com o SeaTable. Automatize fluxos de trabalho e otimize sua estratégia de marketing.'
+            link: '/pages/industry-solutions/marketing'
 
-      - icon: 'bullseye'
-        headline: 'Project management'
-        text: 'Use Gantt charts and Kanban boards to manage projects efficiently. Track progress and coordinate teams with SeaTable.'
-        link: '#'
+          - icon: 'bullseye'
+            headline: 'Gestão de projetos'
+            text: 'Use gráficos de Gantt e quadros Kanban para gerenciar projetos com eficiência. Acompanhe o progresso e coordene equipes com o SeaTable.'
+            link: '/pages/industry-solutions/project-management'
 
-      - icon: 'people-group'
-        headline: 'Human Resources'
-        text: 'Manage employee data, training and leave requests with SeaTable. Optimize HR processes and improve the employee experience.'
-        link: '#'
+          - icon: 'people-group'
+            headline: 'Recursos Humanos'
+            text: 'Gerencie dados de funcionários, treinamentos e solicitações de folga com o SeaTable. Otimize processos de RH e melhore a experiência do colaborador.'
+            link: '/pages/industry-solutions/hr'
 
-      - icon: 'building'
-        headline: 'Public service'
-        text: 'Manage personnel files, training data and applications with SeaTable. Optimize processes and improve transparency in the public sector.'
-        link: '#'
+          - icon: 'building'
+            headline: 'Serviço público'
+            text: 'Gerencie arquivos de pessoal, dados de treinamento e aplicações com o SeaTable. Otimize processos e melhore a transparência no setor público.'
+            link: '/pages/industry-solutions/public-service'
 
-      - icon: 'terminal'
-        headline: 'Software development'
-        text: 'Manage backlogs, issues, bugs and releases with SeaTable. Optimize the development process and improve team communication'
-        link: '#'
+          - icon: 'terminal'
+            headline: 'Desenvolvimento de software'
+            text: 'Gerencie backlogs, issues, bugs e releases com o SeaTable. Otimize o processo de desenvolvimento e melhore a comunicação da equipe'
+            link: '/pages/industry-solutions/software-development'
 
-      - icon: 'fingerprint'
-        headline: 'Individual'
-        text: 'Create customized applications for your specific business needs with SeaTable. Automate processes and improve efficiency.'
-        link: '#'
+          - icon: 'fingerprint'
+            headline: 'Individual'
+            text: 'Crie aplicativos personalizados para necessidades específicas do seu negócio com o SeaTable. Automatize processos e melhore a eficiência.'
+            link: '/pages/industry-solutions/individual'
 
-- name: "content-8"
-  weight: 3
-  title: "Always keep track of all your data"
-  subtitle: "Visualization of the data"
-  description: "Visualize your data sets in any way you can imagine and collaborate in real time. Here are just some of the possibilities of SeaTable."
-  items:
-  - text: "Base Editor"
-    image: "https://seatable.com/wp-content/uploads/2025/02/template-content-marketing-strategie.png"
-    alt: "Base Editor"
-  - text: "Gallery"
-    image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
-    alt: "Galerie"
-  - text: "Kanban"
-    alt: ""
-    image: "https://placehold.co/470x250"
-  - text: "Timeline"
-    alt: ""
-    image: "https://placehold.co/470x250"
-  - text: "Calendar"
-    alt: ""
-    image: "https://placehold.co/470x250"
-  - text: "Table relationships"
-    alt: ""
-    image: "https://placehold.co/470x250"
+    - name: 'content-8'
+      weight: 3
+      title: 'Mantenha sempre o controle de todos os seus dados'
+      subtitle: 'Visualização dos dados'
+      description: 'Visualize seus conjuntos de dados de qualquer forma que imaginar e colabore em tempo real. Aqui estão apenas algumas das possibilidades do SeaTable.'
+      items:
+          - text: 'Editor Base'
+            image: '/images/template-content-marketing-strategie.png'
+            alt: 'Editor Base'
+          - text: 'Galeria'
+            image: '/images/galerie-plugin.png'
+            alt: 'Galeria'
+          - text: 'Kanban'
+            alt: ''
+            image: '/images/kanban-plugin.png'
+          - text: 'Linha do tempo'
+            alt: ''
+            image: '/images/timeline-plugin.png'
+          - text: 'Calendário'
+            alt: ''
+            image: '/images/calendar-plugin.png'
+          - text: 'Relacionamentos de tabela'
+            alt: ''
+            image: '/images/table-relationship-plugin.png'
 
-- name: "customer-1"
-  weight: 4
-  title: "Thousands of people around the world already use SeaTable"
-  subtitle: "Who uses SeaTable?"
-  marquee_rows: 2
-  items: 
-  - number: "100.000+"
-    text: Downloads in the first year of Docker Hub
-  - number: "1.500+"
-    text: "Daily users on SeaTable Cloud"
-  - number: "4.6"
-    text: "Rating on Capterra"
-  buttons:
-    # TODO: categories/<slug>
-    - link: "posts"
-      label: "Lesen Sie weitere Erfolgsgeschichten"
+    - name: 'customer-1'
+      weight: 4
+      title: 'Milhares de pessoas ao redor do mundo já usam SeaTable'
+      subtitle: 'Quem usa SeaTable?'
+      marquee_rows: 2
+      items:
+          - number: '100.000+'
+            text: Downloads no primeiro ano do Docker Hub
+          - number: '1.500+'
+            text: 'Usuários diários no SeaTable Cloud'
+          - number: '4.6'
+            text: 'Avaliação no Capterra'
+      buttons:
+          - link: 'posts'
+            label: 'Leia mais histórias de sucesso'
 
-- name: content-1
-  weight: 5
-  title: "Create individual apps"
-  subtitle: "Without programming knowledge"
-  description: "Welcome to the future of app development, where programming skills are optional. With SeaTable you can get started right away!"
-  classes:
-  - bg-gray-100
-  - curved
-  items:
-  - headline: "Use the No-Code App Builder"
-    text: "Our No Code App Builder allows you to create powerful, data-driven applications effortlessly with drag-and-drop functionality. Programming without code: Whether you need a CRM, a project management tool or a specific solution for your business, you can build it all yourself, even without writing a single row code."
+    - name: content-1
+      weight: 5
+      title: 'Crie aplicativos individuais'
+      subtitle: 'Sem conhecimento de programação'
+      description: 'Bem-vindo ao futuro do desenvolvimento de aplicativos, onde habilidades de programação são opcionais. Com o SeaTable você pode começar imediatamente!'
+      classes:
+          - bg-gray-100
+          - curved
+      items:
+          - headline: 'Use o Construtor de Apps No-Code'
+            text: 'Nosso No Code App Builder permite criar aplicativos poderosos e baseados em dados facilmente com funcionalidade de arrastar e soltar. Programação sem código: Seja um CRM, ferramenta de gestão de projetos ou solução específica para seu negócio, você pode construir tudo sozinho, sem escrever uma única linha de código.'
 
-  - headline: "Intuitive no-code and low-code user interface"
-    text: "Whether you are an experienced developer or a citizen developer with no programming skills, our tools are designed to meet all your app building needs and digitize your business processes. Start right here: create your own app for free."
+          - headline: 'Interface intuitiva no-code e low-code'
+            text: 'Seja você um desenvolvedor experiente ou um desenvolvedor cidadão sem habilidades de programação, nossas ferramentas são projetadas para atender todas as suas necessidades de criação de aplicativos e digitalizar seus processos de negócios. Comece aqui: crie seu próprio aplicativo gratuitamente.'
 
-  - headline: "Collaborative working in real time for teams"
-    text: "SeaTable promotes collaboration in your team through real-time synchronization and shared workspaces. Everyone in the team can access the same data at the same time, make changes and see what others are working on.<br/><br/>This makes SeaTable an ideal tool for teams who want to work together on projects and increase their productivity. Our no-code/low-code platform also supports collaborative work through commenting and sharing features, helping you to optimize your teamwork."
-  image: https://placehold.co/560x400
+          - headline: 'Trabalho colaborativo em tempo real para equipes'
+            text: 'O SeaTable promove colaboração em sua equipe através de sincronização em tempo real e espaços de trabalho compartilhados. Todos na equipe podem acessar os mesmos dados ao mesmo tempo, fazer alterações e ver o que outros estão trabalhando.<br/><br/>Isso torna o SeaTable uma ferramenta ideal para equipes que querem trabalhar juntas em projetos e aumentar sua produtividade. Nossa plataforma no-code/low-code também suporta trabalho colaborativo através de recursos de comentários e compartilhamento, ajudando você a otimizar o trabalho em equipe.'
+      image: /images/Group-38.png
 
-- name: content-2
-  weight: 6
-  subtitle: Why SeaTable?
-  title: Discover the advantages of the SeaTable no-code platform
-  description: 
-  items:
-  - headline: "No code, full flexibility"
-    text: "Say goodbye to complex programming processes. Even the most demanding processes can be created using a simple drag-and-drop interface."
-    icon: "twitter"
+    - name: content-2
+      weight: 6
+      subtitle: Por que SeaTable?
+      title: Descubra as vantagens da plataforma no-code SeaTable
+      description:
+      items:
+          - headline: 'Sem código, flexibilidade total'
+            text: 'Diga adeus aos complexos processos de programação. Até os processos mais exigentes podem ser criados usando uma simples interface de arrastar e soltar.'
+            icon: 'twitter'
 
-  - headline: "Versatile app builder"
-    text: "Create apps yourself - customized for your business management, customer loyalty and much more, perfectly tailored to the needs of your company."
-    icon: "sun"
+          - headline: 'Construtor de apps versátil'
+            text: 'Crie aplicativos personalizados para sua gestão empresarial, fidelização de clientes e muito mais, perfeitamente adaptados às necessidades da sua empresa.'
+            icon: 'sun'
 
-  - headline: "Cost effective"
-    text: "Start creating your database and building your app for free - you scale as your team grows. No hidden costs."
-    icon: "bomb"
+          - headline: 'Custo-eficiente'
+            text: 'Comece criando seu banco de dados e construindo seu aplicativo gratuitamente - você escala conforme sua equipe cresce. Sem custos ocultos.'
+            icon: 'bomb'
 
-  - headline: "User-friendly"
-    text: "Our low-code/no-code platform is designed for both programmers and citizen developers, making app creation accessible to all."
-    icon: "codepen"
+          - headline: 'Amigável ao usuário'
+            text: 'Nossa plataforma low-code/no-code é projetada tanto para programadores quanto para desenvolvedores cidadãos, tornando a criação de aplicativos acessível a todos.'
+            icon: 'codepen'
 
-- name: content-3
-  weight: 7
-  title: Templates for the start of your next team project
-  subtitle: Get started now
-  description: Import ready-made templates into your SeaTable account with just one click.
-  items:
-  - headline: "Working time recording"
-    text: Human resources
-    image: https://seatable.com/wp-content/uploads/2025/02/template-projektplan.png
-    image_alt: Base Editor
-  - headline: Action plan
-    text: Projects
-    image: https://seatable.com/wp-content/uploads/2025/02/template-massnahmenplan.jpg
-    image_alt: 
-  - headline: Editorial plan
-    text: Marketing
-    image: "https://seatable.com/wp-content/uploads/2025/02/galerie-plugin.png"
-    image_alt: 
-  buttons:
-  - label: "Find more templates for your area of application"
-    link: "index"
-    # TODO
-    style: not-yet-defined
+    - name: content-3
+      weight: 7
+      title: Modelos para iniciar seu próximo projeto em equipe
+      subtitle: Comece agora
+      description: Importe modelos prontos para sua conta SeaTable com apenas um clique.
+      items:
+          - headline: 'Registro de horas trabalhadas'
+            text: Recursos humanos
+            image: /images/template-projektplan.png
+            image_alt: Editor Base
+          - headline: Plano de ação
+            text: Projetos
+            image: /images/template-massnahmenplan.jpg
+            image_alt:
+          - headline: Plano editorial
+            text: Marketing
+            image: '/images/galerie-plugin.png'
+            image_alt:
+      buttons:
+          - label: 'Encontre mais modelos para sua área de aplicação'
+            link: 'index'
+            style: not-yet-defined
 
-- name: content-5
-  weight: 8
-  items:
-  - title: Automate processes
-    subtitle: Save valuable time
-    text: "Our no-code platform allows you to automate recurring tasks, create workflows and configure notifications.
-      This allows you to focus on the essentials and increase the efficiency of your company."
+    - name: content-5
+      weight: 8
+      items:
+          - title: Automatize processos
+            subtitle: Economize tempo valioso
+            text: 'Nossa plataforma no-code permite automatizar tarefas repetitivas, criar fluxos de trabalho e configurar notificações. Isso permite que você se concentre no essencial e aumente a eficiência da sua empresa.'
 
-  - subtitle: Without limits
-    title: The database that continues where Excel reaches its limits
-    text: "Say goodbye to the limitations of traditional spreadsheets. Our no-code database gives you the flexibility and power that Excel can't match.<br/><br/>
-      Manage complex data structures, link tables and analyze your data efficiently - all within a user-friendly interface. The <strong>Excel alternative</strong> SeaTable revolutionizes data management and gives you the tools you need to manage your data efficiently."
-      
-  - subtitle: Collaboration
-    title: Collaborative working in real time for teams
-    text: SeaTable promotes collaboration in your team through real-time synchronization and shared workspaces. Everyone in the team can simultaneously access the same data, make changes and see what others are working on.<br/><br/>This makes SeaTable an ideal tool for teams who want to work together on projects and increase their productivity. Our no-code/low-code platform also supports collaborative work through commenting and sharing features, helping you to optimize your teamwork.
+          - subtitle: Sem limites
+            title: O banco de dados que continua onde o Excel chega ao limite
+            text: 'Diga adeus às limitações das planilhas tradicionais. Nosso banco de dados no-code oferece a flexibilidade e potência que o Excel não pode igualar.<br/><br/>Gerencie estruturas de dados complexas, vincule tabelas e analise seus dados com eficiência - tudo dentro de uma interface amigável. A <strong>alternativa ao Excel</strong> SeaTable revoluciona o gerenciamento de dados e fornece as ferramentas necessárias para gerenciar seus dados com eficiência.'
 
-- name: banner-1
-  weight: 9
-  title: Discover the advantages of the SeaTable no-code platform
+          - subtitle: Colaboração
+            title: Trabalho colaborativo em tempo real para equipes
+            text: 'O SeaTable promove a colaboração em sua equipe através de sincronização em tempo real e espaços de trabalho compartilhados. Todos na equipe podem acessar simultaneamente os mesmos dados, fazer alterações e ver o que outros estão trabalhando.<br/><br/>Isso torna o SeaTable uma ferramenta ideal para equipes que desejam trabalhar juntas em projetos e aumentar sua produtividade. Nossa plataforma no-code/low-code também suporta trabalho colaborativo através de recursos de comentários e compartilhamento, ajudando a otimizar o trabalho em equipe.'
 
-- name: "content-9"
-  weight: 10
-  title: Advantages of the SeaTable No-Code solution
-  subtitle: Innovation
-  description: Change the way your company works with our innovative no-code/low-code platform.
-  items:
-  - headline: "Flexibility for all business areas"
-    text: "Our solution adapts seamlessly to a wide range of use cases. Whether you need a CRM solution, a project management tool, a marketing tool, a human resources management tool, an IT service management tool or a specific application for your business, SeaTable offers you the customization you need to create individual solutions without programming knowledge.<br/><br/>
-    The SeaTable no-code platform enables you to develop customized digital solutions that meet your specific business needs."
-    icon: toggle-off
-  - headline: Efficient business processes
-    text: Optimize your data processing and automation for maximum productivity. With SeaTable, you can automate repetitive tasks, manage complex data structures and make your business processes more efficient.<br/><br/>Our no-code platform helps you save time and resources by allowing you to focus on the essentials. With SeaTable, you can increase the efficiency of your company and meet the challenges of continuous innovation.
-    icon: medal
-  - headline: Scalability
-    text: SeaTable is ideal for both small teams and large companies. Our platform grows with your needs and offers a solution that scales with your business.<br/><br/>Whether you're a small workgroup or a large enterprise, SeaTable offers the flexibility and performance you need to achieve your goals. Our no-code and low-code platforms are designed to support your business processes regardless of the size of your organization.
-    icon: up-right-and-down-left-from-center
-  - headline: Integration capability
-    text: "Use our APIs and SDKs for easy integration. SeaTable integrates seamlessly with a variety of third-party tools so you can continue to use your existing systems and processes.<br/><br/>Connect your applications and synchronize data in real time to create an efficient and cohesive IT landscape. SeaTable's no-code and low-code platform supports integration with CRM systems, marketing tools and many other business applications."
-    icon: leaf
-  - headline: Ease of use
-    text: "Thanks to the intuitive interface and WYSIWYG app builder, you can create applications without programming knowledge. SeaTable makes it easy to create complex databases and apps tailored to your exact needs.<br/><br/>Drag-and-drop functionality and pre-built templates make it quick and easy to get started. SeaTable's no-code platform is so user-friendly that anyone, regardless of technical ability, can create their own apps."
-    icon: signature
-  - headline: GDPR compliance
-    text: "Your data is hosted exclusively in the EU to ensure the highest data protection standards.<br/><br/>SeaTable offers robust security features and ensures that your data is stored securely and compliant with the latest data protection guidelines. Our no-code platform guarantees that your data is protected in accordance with GDPR requirements."
-    icon: shield-halved
+    - name: banner-1
+      weight: 9
+      title: Descubra as vantagens da plataforma no-code SeaTable
 
-- name: "content-10"
-  weight: 11
-  title: Integrate SeaTable with your world
-  subtitle: "Integration"
-  description: "Connect SeaTable with all the apps you already use and use SeaTable as a hub to organize your life.<br/><br/>We offer apps for all leading integration platforms, so you don't have to write a single row code."
-  items:
-  - image: "/images/logos/zapier.svg"
-  - image: "/images/logos/make.svg"
-  - image: "/images/logos/n8n.svg"
-  - image: "/images/logos/seatable-api.svg"
-  buttons:
-    - label: "Learn more about integrations"
-      link: "https://seatable.io/integrationen/?lang=auto"
+    - name: 'content-9'
+      weight: 10
+      title: Vantagens da solução No-Code SeaTable
+      subtitle: Inovação
+      description: Mude a forma como sua empresa trabalha com nossa inovadora plataforma no-code/low-code.
+      items:
+          - headline: 'Flexibilidade para todas as áreas de negócios'
+            text: 'Nossa solução se adapta perfeitamente a diversos casos de uso. Seja uma solução CRM, ferramenta de gestão de projetos, ferramenta de marketing, ferramenta de gestão de RH, ferramenta de gerenciamento de serviços de TI ou uma aplicação específica para seu negócio, o SeaTable oferece a personalização necessária para criar soluções individuais sem conhecimento de programação.<br/><br/>A plataforma no-code SeaTable permite desenvolver soluções digitais personalizadas que atendam às necessidades específicas do seu negócio.'
+            icon: toggle-off
+          - headline: 'Processos empresariais eficientes'
+            text: 'Otimize seu processamento de dados e automação para máxima produtividade. Com o SeaTable, você pode automatizar tarefas repetitivas, gerenciar estruturas de dados complexas e tornar seus processos de negócios mais eficientes.<br/><br/>Nossa plataforma no-code ajuda a economizar tempo e recursos, permitindo que você se concentre no essencial. Com o SeaTable, você pode aumentar a eficiência da sua empresa e enfrentar os desafios da inovação contínua.'
+            icon: medal
+          - headline: 'Escalabilidade'
+            text: 'O SeaTable é ideal tanto para pequenas equipes quanto para grandes empresas. Nossa plataforma cresce com suas necessidades e oferece uma solução que escala junto com seu negócio.<br/><br/>Seja um pequeno grupo de trabalho ou uma grande empresa, o SeaTable oferece a flexibilidade e desempenho necessários para alcançar seus objetivos.'
+            icon: up-right-and-down-left-from-center
+          - headline: 'Capacidade de integração'
+            text: 'Use nossas APIs e SDKs para integração fácil. O SeaTable se integra perfeitamente com diversas ferramentas de terceiros, permitindo continuar usando seus sistemas e processos existentes.<br/><br/>Conecte suas aplicações e sincronize dados em tempo real para criar um panorama de TI eficiente e coeso.'
+            icon: leaf
+          - headline: 'Facilidade de uso'
+            text: 'Graças à interface intuitiva e ao construtor de aplicativos WYSIWYG, você pode criar aplicativos sem conhecimento de programação. O SeaTable facilita a criação de bancos de dados complexos e aplicativos personalizados para suas necessidades exatas.<br/><br/>Funcionalidade de arrastar e soltar e modelos pré-construídos tornam rápido e fácil começar.'
+            icon: signature
+          - headline: 'Conformidade com GDPR'
+            text: 'Seus dados são hospedados exclusivamente na UE para garantir os mais altos padrões de proteção de dados.<br/><br/>O SeaTable oferece recursos robustos de segurança e garante que seus dados sejam armazenados com segurança em conformidade com as diretrizes mais recentes de proteção de dados.'
+            icon: shield-halved
 
-- name: "content-11"
-  weight: 12
-  title: Flexible integration of any third-party tool
-  subtitle: SeaTable API
-  items:
-  - text: SeaTable integrates seamlessly with a variety of third-party tools. Connect your applications via APIs to synchronize data in real time.
-  - text: "Whether CRM systems, marketing tools or other business applications - SeaTable enables simple and <strong>flexible integration into your existing IT landscape</strong>."
-  - text: "Our no-code platform supports integration with numerous tools and helps you to optimize your IT infrastructure."
-  image: "/images/seatable-integrations.png"
+    - name: 'content-10'
+      weight: 11
+      title: Integre o SeaTable ao seu mundo
+      subtitle: 'Integração'
+      description: 'Conecte o SeaTable com todos os aplicativos que você já usa e utilize o SeaTable como um hub para organizar sua vida.<br/><br/>Oferecemos aplicativos para todas as principais plataformas de integração, para que você não precise escrever uma única linha de código.'
+      items:
+          - image: '/images/logos/zapier.svg'
+          - image: '/images/logos/make.svg'
+          - image: '/images/logos/n8n.svg'
+          - image: '/images/logos/seatable-api.svg'
+      buttons:
+          - label: 'Saiba mais sobre integrações'
+            link: 'https://seatable.io/integrationen/?lang=auto'
 
-- name: banner-2
-  weight: 13
-  title: Whatever your workflow looks like, you can realize it with <span class="text-seatable-blue">SeaTable</span>
-  buttons:
-  - link: "pages/registration"
-    label: "Register now and get started"
+    - name: 'content-11'
+      weight: 12
+      title: Integração flexível com qualquer ferramenta de terceiros
+      subtitle: API SeaTable
+      items:
+          - text: 'O SeaTable se integra perfeitamente com diversas ferramentas de terceiros. Conecte seus aplicativos via APIs para sincronizar dados em tempo real.'
+          - text: 'Sejam sistemas CRM, ferramentas de marketing ou outros aplicativos empresariais - o SeaTable permite uma <strong>integração simples e flexível na sua infraestrutura de TI existente</strong>.'
+          - text: 'Nossa plataforma no-code suporta integração com diversas ferramentas e ajuda você a otimizar sua infraestrutura de TI.'
+      image: '/images/seatable-integrations.png'
 
-- name: "faq"
-  weight: 14
-  title: Frequently asked questions about the SeaTable no-code solution
-  items:
-  - q: "How do I create an app?"
-    a: "Our platform offers you all the features you need to create an app from scratch without any programming knowledge."
-  - q: "Is it free to use the no-code / low-code platform?"
-    a: "Yes, you can use our basic functions free of charge and upgrade to advanced functions later."
-  - q: "What is SeaTable's pricing model?"
-    a: "SeaTable offers a flexible pricing model that adapts to your company's needs and budget. Start with our free trial and discover the benefits of our no-code platform without risk. Once you're convinced, choose the plan that best suits your needs. The SeaTable no-code platform offers you a cost-effective solution to digitize your business processes and increase your efficiency."
-  - q: "Can you host SeaTable on your own server? What deployment options are available?"
-    a: "The choice is yours: use SeaTable in the cloud or run it on your own server. Our flexible deployment option allows you to choose the solution that best suits your requirements and security policies. Benefit from the scalability and convenience of the cloud or the control and security of an on-premises installation. SeaTable's no-code and low-code platforms give you the flexibility to choose the deployment option that's right for your business."
-  - q: "What are the key features of low code / no code solutions?"
-    a: "Our platform offers a variety of benefits to support your digital transformation. Whether you prefer the flexibility of a low-code platform or the simplicity of no-code platforms, we support both. You can seamlessly integrate data management systems to collect, prepare and analyze data. With our tools, you can accelerate your company's digital transformation by digitizing, optimizing and automating processes. Our approach encourages citizen development, so your team can be creative and innovative without relying on IT dependency. You also have access to comprehensive support to guide you through your no-code development and help you create your own app."
-  - q: "What are typical applications of no code and low code?"
-    a: "With our platform, you can digitize, automate and optimize business processes to increase efficiency and reduce costs. We offer individual app creation to develop customized solutions for your specific business needs. Start with our free version to create your own app with no initial investment. We also allow you to quickly prototype and test your ideas before going into full development, ideal for creating Minimal Viable Products (MVPs)."
+    - name: banner-2
+      weight: 13
+      title: "Seja qual for seu fluxo de trabalho, você pode realizá-lo com <span class='text-seatable-blue'>SeaTable</span>"
+      buttons:
+          - link: 'pages/registration'
+            label: 'Registre-se agora e comece'
 
-- name: content-6
-  weight: 15
-  classes:
-  - curved
-  - bg-gray-100
-  title: "A solution you can trust"
-  subtitle: "Data security and data protection"
-  items:
-  - text: "Data security is a top priority at SeaTable. Our platform offers robust security features to reliably protect your data."
-  - text: "You are always in control of your information and can be sure that your data is managed according to the latest data protection standards.
-    The SeaTable no-code platform ensures that your data is stored securely and compliant with applicable data protection regulations."
-  - text: "The SeaTable Cloud is hosted in certified German data centers of a Swiss provider. Registration only takes a few seconds."
-  - text: "With your own server, you decide where SeaTable stores your data. You have full data sovereignty."
-  buttons:
-  - label: "Find out more about the different versions"
-    link: "pages/product/overview"
-    style: text
-  - label: "To the SeaTable On-Premise offer"
-    link: "pages/product/seatable-server"
-    style: text
-  image: "/img/seatable-security-1.jpg"
+    - name: 'faq'
+      weight: 14
+      title: 'Perguntas frequentes sobre a solução no-code SeaTable'
+      items:
+          - q: 'Como criar um aplicativo?'
+            a: 'Nossa plataforma oferece todos os recursos necessários para criar um aplicativo do zero sem nenhum conhecimento de programação.'
+          - q: 'É gratuito usar a plataforma no-code/low-code?'
+            a: 'Sim, você pode usar nossas funções básicas gratuitamente e atualizar para funções avançadas posteriormente.'
+          - q: 'Qual é o modelo de precificação do SeaTable?'
+            a: 'O SeaTable oferece um modelo flexível que se adapta às necessidades e orçamento da sua empresa. Comece com nossa versão gratuita e descubra os benefícios sem riscos. Depois de convencido, escolha o plano que melhor atenda às suas necessidades.'
+          - q: 'Posso hospedar o SeaTable no meu próprio servidor? Quais opções de implantação existem?'
+            a: 'A escolha é sua: use o SeaTable na nuvem ou em seu próprio servidor. Nossa opção flexível permite escolher a solução que melhor atende seus requisitos de segurança e políticas.'
+          - q: 'Quais são os principais recursos das soluções low-code/no-code?'
+            a: 'Nossa plataforma oferece diversos benefícios para apoiar sua transformação digital. Com nossas ferramentas, você pode acelerar a digitalização da sua empresa automatizando e otimizando processos.'
+          - q: 'Quais são as aplicações típicas de no-code e low-code?'
+            a: 'Com nossa plataforma, você pode digitalizar, automatizar e otimizar processos de negócios para aumentar eficiência e reduzir custos. Oferecemos criação de apps personalizados para necessidades específicas do seu negócio.'
 
-- name: "form-contact"
-  weight: 16
-  subtitle: Get in touch with us
-  title: Let us drive your process digitization forward.
-  description: Our team is available to answer your questions about no-code platforms, programming without code and low-code solutions with SeaTable. We'll help you find the best solution for your business and use case. Discover the transformative power of the SeaTable No-Code Digital Solution today!
-  submit_message: Send message
+    - name: content-6
+      weight: 15
+      classes:
+          - curved
+          - bg-gray-100
+      title: 'Uma solução em que você pode confiar'
+      subtitle: 'Segurança e proteção de dados'
+      items:
+          - text: 'Segurança de dados é prioridade no SeaTable. Nossa plataforma oferece recursos robustos para proteger seus dados de forma confiável.'
+          - text: 'Você sempre tem controle sobre suas informações e pode ter certeza que seus dados são gerenciados conforme os mais recentes padrões de proteção.'
+          - text: 'O SeaTable Cloud é hospedado em data centers alemães certificados de um provedor suíço. O registro leva apenas alguns segundos.'
+          - text: 'Com seu próprio servidor, você decide onde o SeaTable armazena seus dados. Você tem soberania total sobre seus dados.'
+      buttons:
+          - label: 'Saiba mais sobre as diferentes versões'
+            link: 'pages/product/overview'
+            style: text
+          - label: 'Conheça a oferta SeaTable On-Premise'
+            link: 'pages/product/seatable-server'
+            style: text
+      image: '/img/seatable-security-1.jpg'
 
+    - name: 'form-contact'
+      weight: 16
+      subtitle: 'Entre em contato conosco'
+      title: 'Vamos impulsionar sua digitalização de processos.'
+      description: 'Nossa equipe está disponível para responder suas perguntas sobre plataformas no-code, programação sem código e soluções low-code com SeaTable. Ajudaremos você a encontrar a melhor solução para seu negócio e caso de uso. Descubra hoje mesmo o poder transformador da Solução Digital No-Code SeaTable!'
+      submit_message: 'Enviar mensagem'
 ---

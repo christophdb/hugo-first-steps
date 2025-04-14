@@ -3,6 +3,7 @@
     <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
         <pre><code>- name: "{{ .name }}"
   weight: 1
+  classes:
   title: 
   subtitle:
   description:
@@ -22,14 +23,15 @@
 
 
 <!-- HTML Block -->
-<section class="padding" id="{{ .name }}">
-    <section id="galerie" class="max-container">
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section class="max-container">
         <div class="mx-auto max-w-[800px] text-center">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
             <p class="mt-12 text-xl leading-normal">{{ .description | safeHTML }}</p>
         </div>
-        <div class="mx-auto mt-12 flex max-w-5xl flex-row gap-24">
+        <div class="mx-auto mt-12 flex max-w-5xl flex-wrap justify-center gap-24">
             {{ range .items }}
                 <div>
                     <img class="h-10" src="{{ .image }}" alt="{{ .image_alt }}" />

@@ -1,5 +1,6 @@
 ---
-title: 'Individuell'
+title: 'Workflow Management: Prozesse effizient automatisieren'
+description: 'Optimieren Sie mit SeaTable Ihre Arbeitsabläufe, betreiben Sie modernes Workflow Management und automatisieren Sie so Ihre Prozesse.'
 date: '2025-04-03'
 url: '/de/workflow-management'
 
@@ -73,7 +74,6 @@ sections:
           - headline: Skalierbarkeit
             text: SeaTable skaliert mit Ihnen und Ihren wachsenden Anforderungen. Es ist die ideale Lösung für Unternehmen jeder Größe, die ihre Arbeitsabläufe digitalisieren und optimieren möchten.
       image: /images/Landing-Page-Workflow-Managment.png
-      #TODO: white background
 
     - name: 'content-10'
       weight: 5

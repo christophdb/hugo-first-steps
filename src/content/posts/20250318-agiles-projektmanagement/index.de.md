@@ -6,6 +6,7 @@ categories:
     - 'Allgemein'
 tags:
     - 'Toolings & Plugins'
+    - 'Projektmanagement'
 color: '#1eb0e5'
 url: '/de/agiles-projektmanagement'
 ---

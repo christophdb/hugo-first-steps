@@ -1,0 +1,110 @@
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section id="price2" class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+        </div>
+
+        <div class="mx-auto mt-12 max-w-6xl overflow-x-auto">
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.editions" }}</div>
+                <div class="text-seatable-orange">Cloud</div>
+                <div class="text-seatable-orange">Dedicated</div>
+                <div class="text-seatable-orange">On-Premises</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.use_free" }}</div>
+                <div class="text-seatable-orange">
+                    <div class="flex flex-col items-center">
+                        {{ partial "icon.html" "circle-check" }}
+                        <span class="text-sm text-gray-600">{{ T "product_comparison_table.only_free" }}</span>
+                    </div>
+                </div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">
+                    <div class="flex flex-col items-center">
+                        {{ partial "icon.html" "circle-check" }}
+                        <span class="text-sm text-gray-600">{{ T "product_comparison_table.up_to_three_users" }}</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "product_comparison_table.administration" }}</div>
+
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.any_location" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.automatic_updates" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.own_admin" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.command_line" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.authentication" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "product_comparison_table.customizing" }}</div>
+
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.custom_logo" }}</div>
+                <div class="text-seatable-orange">
+                    <div class="flex flex-col items-center">
+                        {{ partial "icon.html" "circle-check" }}
+                        <span class="text-sm text-gray-600">{{ T "product_comparison_table.only_enterprise" }}</span>
+                    </div>
+                </div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.custom_url" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.custom_templates" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.custom_roles" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+
+            <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ T "product_comparison_table.support" }}</div>
+
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl text-[#ece5e2] hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.corporate_support" }}</div>
+                <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+            </div>
+
+            <div class="grid grid-cols-4 place-items-center gap-4 p-4 text-xl hover:bg-gray-50">
+                <div class="justify-self-start text-left text-lg text-seatable-blue">{{ T "product_comparison_table.requirements" }}</div>
+                <div class="text-base">{{ T "product_comparison_table.email" }}</div>
+                <div class="text-base">{{ T "product_comparison_table.min_100_users" }}</div>
+                <div class="text-base">{{ T "product_comparison_table.server_or_vm" }}</div>
+            </div>
+        </div>
+    </section>
+</section>

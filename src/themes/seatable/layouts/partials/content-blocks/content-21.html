@@ -17,8 +17,9 @@
 <section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
     <section class="max-container">
         <div class="mx-auto max-w-[800px] text-center">
+            {{ if .subtitle }}<p class="gradient font-poppins text-2xl font-bold">{{ .subtitle | markdownify }}</p>{{ end }}
             <h2 class="mt-1 text-4xl font-bold text-seatable-blue">{{ .title }}</h2>
-            <p class="mt-12 text-xl leading-normal">{{ .text }}</p>
+            <p class="mt-12 text-xl leading-normal">{{ .text | markdownify }}</p>
         </div>
     </section>
 
@@ -28,7 +29,7 @@
                 <div class="pl-12 pt-1 text-xl text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
                 <div class="flex flex-col">
                     <h3 class="text-2xl">{{ .headline }}</h3>
-                    <p class="mt-6 text-xl leading-normal">{{ .text | safeHTML }}</p>
+                    <p class="mt-6 text-xl leading-normal">{{ .text | markdownify }}</p>
                 </div>
             </div>
         {{ end }}

@@ -89,8 +89,10 @@ sections:
           - label: More about SeaTable Dedicated
             link: 'pages/product/seatable-dedicated'
 
-    - name: pricetable-2
+    - name: product-comparison-table
       weight: 6
+      title: The three SeaTable products at a glance
+      subtitle: Comparison of our products
 
     - name: banner-4
       weight: 7
@@ -140,11 +142,21 @@ sections:
             text: SeaTable offers robust security features and ensures that your data is stored securely and in compliance with the latest data protection guidelines. Our no-code platform guarantees that your data is protected in accordance with GDPR requirements.
             icon: shield-halved
 
-    - name: content-99
-      weight: 12
+    # TODO: diesen block noch bauen.
+    #- name: content-99
+    #  weight: 12
 
-    - name: content-100
+    - name: content-22
       weight: 13
+      classes:
+          - curved
+          - bg-gray-100
+      title: Support and services - your partners on the road to efficiency
+      subtitle: Support
+      text: In addition to the powerful platform, SeaTable offers extensive support and services to assist you with implementation and operation. Our support team is on hand to ensure you get the most out of SeaTable.
+      buttons:
+          - label: To our support offer
+            link: pages/support
 
     - name: content-22
       weight: 40

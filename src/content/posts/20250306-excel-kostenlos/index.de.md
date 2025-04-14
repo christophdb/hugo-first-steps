@@ -5,6 +5,7 @@ date: 2025-03-06
 categories:
     - 'Allgemein'
 tags:
+    - 'Wenn Excel nicht mehr reicht'
     - 'Toolings & Plugins'
 url: '/de/excel-kostenlos'
 color: '#6d9c70'

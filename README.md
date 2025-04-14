@@ -31,12 +31,13 @@ touch src/themes/my-theme/assets/css/styles.css
 ```
 
 in package.json
+
 ```
 "scripts": {
     "build": "npx tailwindcss build -i assets/css/styles.css -o static/css/styles.css",
     "watch": "npx tailwindcss build -i assets/css/styles.css -o static/css/styles.css --watch"
   },
-  
+
 ```
 
 ```
@@ -45,21 +46,21 @@ hugo-npm run build => generate style.css from assets...
 hugo-npm run watch
 ```
 
-
 ---
 
-4. 
-5. 
-6. 
+4.
+5.
+6.
 7. hugo version
 
 RUN hugo new theme my-theme
 RUN cd /hugo/src/themes/my-theme
 RUN npm init -y
-RUN tailwindcss-cli init -p 
+RUN tailwindcss-cli init -p
 
 #6. hugo-npm init -y
 #7. hugo-npm install --save-dev tailwindcss @tailwindcss/postcss postcss autoprefixer
+
 1. preview.sh
 
 # used versions
@@ -92,15 +93,12 @@ go 1.24.1
 [ ] youtube videos einbetten
 [optional] Vorschau anpassen wie hier: https://demo.stack.jimmycai.com/ mit tags und kleinen icons bei date und read time...
 
-
 ## Midnight:
 
 - Group of robots coding, purple background, cartoon style, digital illustration --ar 2:1
-- two robots talking with each other, purple background, cartoon style, digital illustration --ar 2:1 
-- Cute robot character, purple background, cartoon style, digital illustration --ar 2:1 
-1000:500px
-
-
+- two robots talking with each other, purple background, cartoon style, digital illustration --ar 2:1
+- Cute robot character, purple background, cartoon style, digital illustration --ar 2:1
+  1000:500px
 
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://www.youtube.com/watch?v=tS7upsfuxmo
@@ -124,14 +122,25 @@ The workflow runs on `main` and uses `rsync` to deploy the generated site to the
 - Copy [`deploy/caddy.yml`](./deploy/caddy.yml) to `/opt/seatable.com/caddy.yml`
 - Create `/opt/seatable.com/.env` and enter all required environment variables (take a look at [`deploy/.env-release`](deploy/.env-release))
 - Start the services: `docker compose up -d`
-- Create a new SSH key pair on the remote machine: `ssh-keygen -t rsa -b 4096 -C "GitHub Actions"`
+- Create a new SSH key pair on the remote machine: `ssh-keygen -t rsa -b 4096 -f ~/.ssh/github-actions -C "GitHub Actions"`
 - Add the public key of this key pair to `~/.ssh/authorized_keys` on the remote machine and prepend the line with `command="/usr/bin/rrsync -wo /opt/seatable.com/public",no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty `
 
-  This restricts the owner of the private key to only run **rrsync** (a restriced version of rsync) inside the specified directory.
+It looks like this:
+
+```
+# other keys ...
+
+# GitHub Actions
+# Only allow rrsync access to /opt/seatable.com/public
+command="/usr/bin/rrsync -wo /opt/seatable.com/public",no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty ssh-rsa AAAAB3Nza... (hier geht der Key weiter...)
+```
+
+This restricts the owner of the private key to only run **rrsync** (a restriced version of rsync) inside the specified directory.
+
 - Add the following variables to this GitHub project:
-  - `SSH_HOST`: IP address of the remote host
-  - `SSH_USER`
-  - `SSH_PRIVATE_KEY`: Private key of the created key pair
+    - `SSH_HOST`: IP address of the remote host
+    - `SSH_USER`
+    - `SSH_PRIVATE_KEY`: Private key of the created key pair
 
 ### Backend Deployment
 

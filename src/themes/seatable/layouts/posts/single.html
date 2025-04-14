@@ -8,24 +8,20 @@
 
 
                 <!-- I have to use style here, because tailwind does not generate this color ... -->
-                <div class="justify-left mt-6 flex flex-col gap-8 rounded-2xl md:flex-row" style="background-color: {{ .Params.color | default "#ffffff" }}">
-                    <div class="w-1/2 p-20 pl-16">
+                <div class="justify-left mt-6 flex flex-col gap-0 rounded-2xl shadow-2xl md:gap-8 lg:flex-row" style="background-color: {{ .Params.color | default "#ffffff" }}">
+                    <div class="w-full p-8 lg:w-3/5 lg:p-12 xl:p-20">
                         {{ $colorMap := dict "white" "text-white" "neutral" "text-neutral-500" "dark" "text-neutral-900" }}
                         {{ $textColor := index $colorMap (default "neutral" .Params.color) }}
                         <h1 class="text-56 {{ $textColor }} mt-0 pt-8 text-left text-4xl font-extrabold leading-narrow">{{ .Title | emojify }}</h1>
                         <p class="mt-4 text-xl leading-normal">{{ .Description }}</p>
                         <p class="mt-8">{{ .Date.Format .Site.Params.dateFormat }}</p>
                     </div>
-                    <div class="w-1/2">
+                    <div class="w-9/12 self-center lg:w-2/5">
                         {{ $images := .Resources.ByType "image" }}
                         {{ $featured := $images.GetMatch "feature*" }}
                         {{ if $featured }}
                             {{ $featured := $featured.Resize (printf "%dx%d webp" $featured.Width $featured.Height) }}
-                            <img
-                                src="{{ $featured.RelPermalink }}"
-                                width="{{ $featured.Width }}"
-                                height="{{ $featured.Height }}"
-                                style="border-top-right-radius:12px; border-bottom-right-radius: 12px;" />
+                            <img src="{{ $featured.RelPermalink }}" width="{{ $featured.Width }}" height="{{ $featured.Height }}" class="rounded-r-2xl" />
                         {{ end }}
                     </div>
                 </div>

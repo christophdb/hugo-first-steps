@@ -3,9 +3,9 @@ title: 'Construction installation company develops efficient order management wi
 description: 'A Chinese company from the construction installation industry has relaunched its order management system with SeaTable, successfully advancing its digital transformation. The result is a highly efficient, modern management system with a universal app.'
 date: 2025-03-21
 categories:
-    - 'General'
     - 'Customer Story'
 tags:
+    - 'Data Management & Visualisation'
     - 'Digital Transformation'
 color: '#f7f0d6'
 url: '/effizientes-auftragsmanagement-mit-seatable'

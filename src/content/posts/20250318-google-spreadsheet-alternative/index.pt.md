@@ -24,7 +24,7 @@ Os dias em que o Excel era o líder indiscutível das folhas de cálculo acabara
 
 Se pretende utilizar não só fórmulas e diagramas, mas também **funções de base de dados ou formulários Web**, deve recorrer a folhas de cálculo online. A nova geração de alternativas à folha de cálculo do Google oferece formatos de dados alargados e diferentes visualizações de aplicações. O triunfo das folhas de cálculo online não é, portanto, uma coincidência - elas oferecem funções que não vai querer dispensar no futuro.
 
-**O que é uma folha de cálculo?
+**O que é uma folha de cálculo?**
 Uma folha de cálculo é uma tabela digital que é utilizada para **organizar, analisar e processar dados\*\* numa grelha de linhas e colunas. O termo deriva das palavras inglesas "spread" e "sheet". É frequentemente utilizado como sinónimo de folha de cálculo.
 
 ![Folha de cálculo Excel vazia](Online-Tabellen.jpg)
@@ -95,10 +95,9 @@ Antes de criar as suas folhas de cálculo gratuitamente, deve colocar a si próp
 
 1. **Que informação deve ser capturada** A clareza é fundamental! Defina exatamente quais os dados que devem constar da sua folha de cálculo. Isto poupa tempo e evita o caos.
 1. **Quem precisa de ter acesso a que folha de cálculo?** Nem toda a gente precisa de ver tudo. Pense em quem precisa de ter acesso a cada folha de cálculo e defina especificamente a autorização.
-
-1) **Pode simplificar ou automatizar processos?** Se os seus dados estão em tempo real e são constantemente actualizados, pense em como pode simplificar ou automatizar estes processos.
-   1 **Como posso acompanhar a evolução de todas as folhas de cálculo?** O controlo de versões e de alterações é essencial para se manter atualizado.
-   1 **Já existe um modelo que seja útil para o meu projeto?** Porquê reinventar a roda? Utilize modelos disponíveis gratuitamente para começar a trabalhar de forma rápida e eficiente.
+1. **Pode simplificar ou automatizar processos?** Se os seus dados estão em tempo real e são constantemente actualizados, pense em como pode simplificar ou automatizar estes processos.
+1. **Como posso acompanhar a evolução de todas as folhas de cálculo?** O controlo de versões e de alterações é essencial para se manter atualizado.
+1. **Já existe um modelo que seja útil para o meu projeto?** Porquê reinventar a roda? Utilize modelos disponíveis gratuitamente para começar a trabalhar de forma rápida e eficiente.
 
 ## Porque é que o SeaTable é a melhor alternativa ao Google Spreadsheet
 

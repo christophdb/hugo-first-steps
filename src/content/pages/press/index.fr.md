@@ -1,7 +1,7 @@
 ---
-title: 'Presse'
+title: 'La presse de SeaTable : Actualités et communiqués de presse'
+description: 'Découvrez la presse SeaTable et les articles de presse intéressants qui mettent en lumière notre plateforme et ses applications.'
 date: '2025-04-03'
-
 url: '/fr/presse'
 
 sections:
@@ -10,6 +10,8 @@ sections:
       title: Espace Presse et Rapports Médias
       subtitle: 'Nous sommes sous les projecteurs'
       text: 'Non seulement nous parlons de nous-mêmes, mais de nombreux articles médiatiques le font également. Vous pouvez les retrouver tous ici dans notre espace presse. Vous souhaitez écrire sur nous aussi ? N’hésitez pas ! [Contactez-nous]({{< relref "pages/contact" >}}) pour plus d’informations.'
+      subheadline: Ceux qui ont déjà fait un reportage sur nous...
+      image: /images/Logo_PR.png
       items:
           - headline: 'Kit Média'
             text: '43.87 MB'

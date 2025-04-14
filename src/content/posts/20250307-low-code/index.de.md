@@ -6,8 +6,7 @@ categories:
     - 'No Code / Low Code'
 tags:
     - 'Digitale Transformation'
-    - 'Integration & Automatisierung'
-    - 'Toolings & Plugins'
+    - 'Low Code / No Code'
 color: '#f2afdb'
 url: '/de/low-code'
 ---

@@ -28,35 +28,26 @@
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
         </div>
 
-        {{ $marqueeRows := .marquee_rows | default 1 }}
-        {{ range $index, $_ := seq $marqueeRows }}
-            {{ if eq $index 0 }}
-                <div class="marquee-fade relative flex gap-4 overflow-x-hidden">
-                    <div class="flex animate-marquee gap-4 whitespace-nowrap py-4">
-                        {{ partial "marquee-items.html" . }}
-                    </div>
-                    <div class="absolute top-0 flex animate-marquee2 gap-4 whitespace-nowrap py-4 pl-[8px]">
-                        {{ partial "marquee-items.html" . }}
-                        <!-- Duplicate content -->
-                    </div>
-                </div>
-            {{ else }}
-                <div class="marquee-fade relative flex gap-4 overflow-x-hidden pl-20">
-                    <div class="flex animate-marquee gap-4 whitespace-nowrap py-4">
-                        {{ partial "marquee-items.html" . }}
-                    </div>
-                    <div class="absolute top-0 flex animate-marquee2 gap-4 whitespace-nowrap py-4 pl-[8px]">
-                        {{ partial "marquee-items.html" . }}
-                        <!-- Duplicate content -->
+        <div class="my-20">
+            {{ $marqueeRows := .marquee_rows | default 1 }}
+            {{ range $index, $_ := seq $marqueeRows }}
+                <div class="marquee-fade {{ if eq $index 1 }}pt-6 pl-20{{ end }} overflow-x-hidden">
+                    <div class="flex w-max min-w-fit">
+                        <span class="flex animate-marquee">
+                            {{ partial "marquee-items.html" . }}
+                        </span>
+                        <span class="flex animate-marquee">
+                            {{ partial "marquee-items.html" . }}
+                        </span>
                     </div>
                 </div>
             {{ end }}
-        {{ end }}
+        </div>
 
         {{ if .items }}
             {{ $totalItems := len .items }}
             <!-- <span class="grid-cols-3 grid-cols-4 grid-cols-2 grid-cols-1 hidden"></span> to load the classes... -->
-            <div class="grid-cols-{{ $totalItems }} mt-8 grid gap-16">
+            <div class="md:grid-cols-{{ $totalItems }} mt-8 grid grid-cols-1 gap-16">
                 {{ range .items }}
                     <div class="text-center">
                         <p class="gradient font-poppins text-4xl font-bold">{{ .number }}</p>

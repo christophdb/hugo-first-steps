@@ -24,7 +24,7 @@
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
             <p class="mt-12 text-lg leading-normal">{{ .description | markdownify }}</p>
         </div>
-        <div class="mt-16 grid grid-cols-1 gap-4 lg:grid-cols-2 xl:grid-cols-3">
+        <div class="mt-16 grid grid-cols-1 gap-14 lg:grid-cols-2 xl:grid-cols-3">
             {{ range .items }}
                 <div>
                     <p class="mb-4 font-poppins text-2xl font-bold text-seatable-blue">{{ .text }}</p>

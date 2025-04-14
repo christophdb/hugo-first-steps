@@ -5,13 +5,14 @@ date: 2025-03-08
 categories:
     - 'General'
 tags:
+- 'Project Management'
 color: '#fca86c'
 url: '/projektmanagement-methoden/'
 ---
 
 ## Why are project management methods useful?
 
-With the help of project management methods, you can structure and control a project in such a way as to minimize costs, resources and time\*\*. This is why project management methods are extremely useful for your company.
+With the help of project management methods, you can structure and control a project in such a way as to **minimize costs, resources and time**. This is why project management methods are extremely useful for your company.
 
 Take a look at the top 10 with us to determine the right approach for your project.
 
@@ -58,7 +59,7 @@ The **waterfall method** is a project management method that involves the **proc
 
 This project management model is suitable for projects with a clear timeline and tasks that are interdependent. As errors only become apparent at the end of the project, you should use the waterfall model primarily for predictable and short projects.
 
-![Project Management Methods: The Waterfall Model](Project Management Methods-Waterfall Model.jpg)
+![Project Management Methods: The Waterfall Model](Projektmanagement-Methoden-Wasserfallmodell.jpg)
 
 ### 2\. PRINCE2
 

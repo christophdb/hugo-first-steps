@@ -1,10 +1,11 @@
 <!-- Language List -->
 {{ if hugo.IsMultilingual }}
     <div class="" x-data="{ languageSwitcherOpen: false }">
-        <div class="flex w-full justify-end">
+        <div class="flex w-full min-w-[40px] justify-end">
             <div class="relative">
                 <button class="p-2 text-gray-800 focus:outline-none" @click="languageSwitcherOpen = !languageSwitcherOpen" aria-label="Toggle language switcher">
-                    <span class="flag-icon w-6"></span> <img src="/flags/{{ .Site.Language.Lang }}.svg" width="24" height="24" />
+                    <span class="flag-icon w-6"></span>
+                    <img src="/flags/{{ .Site.Language.Lang }}.svg" width="24" height="24" alt="{{ .Site.Language.Lang | upper }} Language Option" />
                 </button>
 
                 <div
@@ -17,7 +18,9 @@
                         <ul class="flex flex-col gap-4 p-2">
                             {{ range $.Translations }}
                                 <li>
-                                    <a href="{{ .Permalink }}" x-on:click="language = '{{ .Lang }}'"><img src="/flags/{{ .Lang }}.svg" width="24" height="24" /></a>
+                                    <a href="{{ .Permalink }}" x-on:click="language = '{{ .Lang }}'"
+                                        ><img src="/flags/{{ .Lang }}.svg" width="24" height="24" alt="{{ .Site.Language.Lang | upper }} Language Option"
+                                    /></a>
                                 </li>
                             {{ end }}
                         </ul>

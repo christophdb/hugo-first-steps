@@ -4,7 +4,11 @@ description: 'Журнал учета может быть не просто на
 date: 2025-04-01
 url: '/ru/digital-logbook'
 tags:
+- 'Финансы'
+- 'Инструменты и плагины'
+- 'Управление автопарком'
 categories:
+    - 'Общий'
 color: '#f34b4c'
 text: 'white'
 ---
