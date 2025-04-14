@@ -1,7 +1,7 @@
 <header class="xl:padding-x z-10 w-full px-4 py-8" x-data="{ mobileMenuOpen: false, productMenuOpen: false, solutionMenuOpen: false }">
     <nav class="max-container flex items-center justify-between">
         <!-- Logo -->
-        <a href="{{ "/" | relLangURL }}"><img src="/images/seatable-logo.svg" alt="Logo" width="130" height="29" /></a>
+        <a href="{{ "/" | relLangURL }}"><img src="/images/seatable-logo.svg" alt="SeaTable Logo" width="130" height="29" /></a>
 
         <!-- Hauptnavigation -->
         <ul class="flex flex-1 items-center justify-center gap-1 max-lg:hidden xl:gap-4">
@@ -21,7 +21,7 @@
             <!-- Mobile Menu-->
             <div class="hidden max-lg:block">
                 <button @click="mobileMenuOpen = !mobileMenuOpen" aria-label="Toggle mobile menu">
-                    <img src="/icons/hamburger.svg" alt="Hamburger" width="25" height="25" />
+                    <img src="/icons/hamburger.svg" alt="Open Mobile Menu" width="25" height="25" />
                 </button>
             </div>
         </div>
@@ -31,7 +31,7 @@
     <div x-show="mobileMenuOpen" @click.away="mobileMenuOpen = false" id="mobile-menu" class="hidden max-lg:block">
         <div class="absolute left-0 top-0 z-[99999] min-h-full w-full border-b bg-slate-200 p-9 text-right">
             <button @click="mobileMenuOpen = !mobileMenuOpen" aria-label="Toggle mobile menu">
-                <img src="/icons/xmark.svg" alt="Hamburger" width="16" height="16" />
+                <img src="/icons/xmark.svg" alt="Close Mobile Menu" width="16" height="16" />
             </button>
             <ul class="mt-4 flex flex-col items-end gap-4">
                 {{ if .Site.Menus.main }}
