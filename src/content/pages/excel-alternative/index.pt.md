@@ -90,7 +90,9 @@ sections:
       title: Veja por si mesmo e teste o SeaTable gratuitamente.
       buttons:
           - label: 'Registre-se agora e comece'
-            link: 'pages/registration'... - name: 'content-2'
+            link: 'pages/registration'
+            
+    - name: 'content-2'
       weight: 7
       title: Colabore em tempo real
       subtitle: Finalmente colaboração em tempo real
@@ -144,7 +146,9 @@ sections:
           - headline: Notificações
             text: Defina gatilhos para quando você ou seus colegas forem notificados ou os status das tarefas forem atualizados.
           - headline: Marcações de cor
-            text: Defina regras de acordo com as quais colunas individuais ou múltiplas são destacadas em cores para garantir uma melhor visão geral.... - name: 'content-4'
+            text: Defina regras de acordo com as quais colunas individuais ou múltiplas são destacadas em cores para garantir uma melhor visão geral. 
+            
+    - name: 'content-4'
       weight: 11
       title: Comece com nossos modelos gratuitos
       subtitle: O que é SeaTable?
