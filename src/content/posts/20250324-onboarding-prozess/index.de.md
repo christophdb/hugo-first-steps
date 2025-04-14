@@ -6,7 +6,7 @@ categories:
     - 'Allgemein'
     - 'Best Practice'
 tags:
-    - 'onboarding'
+    - 'Bewerber- & Talentmanagement'
 color: '#d0e4e9'
 url: '/de/onboarding-prozess'
 ---

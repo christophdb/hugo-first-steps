@@ -6,7 +6,7 @@ categories:
     - 'General'
     - 'Best Practice'
 tags:
-    - 'onboarding'
+    - 'Applicants & Talents Management'
 color: '#d0e4e9'
 url: '/onboarding-prozess'
 ---
@@ -151,7 +151,7 @@ Rely on suitable software and ensure that your new employees feel immediately we
 
 Why is a structured onboarding process important?|||
 
-## A structured onboarding process helps new employees to settle into their role more quickly, to integrate professionally and socially and to work with motivation. This not only boosts productivity, but also increases employee loyalty and reduces the staff turnover rate.
+A structured onboarding process helps new employees to settle into their role more quickly, to integrate professionally and socially and to work with motivation. This not only boosts productivity, but also increases employee loyalty and reduces the staff turnover rate.
 
 What should be included in a good onboarding concept?|||
 
@@ -170,7 +170,7 @@ What are the phases of a typical onboarding process?|||
 A typical onboarding process consists of:
 
 - **Preparation phase (preboarding)**: Contract signing until the first working day.
-- Orientation phase\*\*: First three months in the company.
+- **Orientation phase**: First three months in the company.
 - **Integration phase**: Three to twelve months after starting.
 
 Each phase focuses on different tasks and objectives, e.g. organizational preparation, introduction and long-term integration.
