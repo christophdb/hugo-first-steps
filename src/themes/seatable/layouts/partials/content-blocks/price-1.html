@@ -1,100 +1,146 @@
-<section class="padding curved bg-gray-50">
+<section class="padding curved bg-gray-100">
     <section id="price-table" class="max-container" x-data="{ isAnnual: true }">
-
-        <div class="flex justify-center max-w-[14rem] m-auto mb-2 lg:mb-4">
-            <div class="relative flex w-full p-1 bg-white dark:bg-slate-900 rounded-full">
-                <span class="absolute inset-0 m-1 pointer-events-none" aria-hidden="true">
-                    <span class="absolute inset-0 w-1/2 bg-indigo-500 rounded-full shadow-sm shadow-indigo-950/10 transform transition-transform duration-150 ease-in-out" :class="isAnnual ? 'translate-x-0' : 'translate-x-full'"></span>
+        <div class="m-auto mb-2 flex max-w-[18rem] justify-center lg:mb-4">
+            <div class="relative flex w-full rounded-full bg-white p-1 dark:bg-slate-900">
+                <span class="pointer-events-none absolute inset-0 m-1" aria-hidden="true">
+                    <span
+                        class="absolute inset-0 w-1/2 transform rounded-full bg-indigo-500 shadow-sm shadow-indigo-950/10 transition-transform duration-150 ease-in-out"
+                        :class="isAnnual ? 'translate-x-0' : 'translate-x-full'"></span>
                 </span>
-                <button class="relative flex-1 text-sm font-medium h-8 rounded-full focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600 transition-colors duration-150 ease-in-out" :class="isAnnual ? 'text-white' : 'text-slate-500 dark:text-slate-400'" @click="isAnnual = true" :aria-pressed="isAnnual">{{ T "yearly" }} <span :class="isAnnual ? 'text-indigo-200' : 'text-slate-400 dark:text-slate-500'">-20%</span></button>
-                <button class="relative flex-1 text-sm font-medium h-8 rounded-full focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600 transition-colors duration-150 ease-in-out" :class="isAnnual ? 'text-slate-500 dark:text-slate-400' : 'text-white'" @click="isAnnual = false" :aria-pressed="isAnnual">{{ T "monthly" }}</button>
+                <button
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
+                    :class="isAnnual ? 'text-white' : 'text-slate-500 dark:text-slate-400'"
+                    @click="isAnnual = true"
+                    :aria-pressed="isAnnual">
+                    {{ T "price_table.yearly" }} <span :class="isAnnual ? 'text-indigo-200' : 'text-slate-400 dark:text-slate-500'">-20%</span>
+                </button>
+                <button
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
+                    :class="isAnnual ? 'text-slate-500 dark:text-slate-400' : 'text-white'"
+                    @click="isAnnual = false"
+                    :aria-pressed="isAnnual">
+                    {{ T "price_table.monthly" }}
+                </button>
             </div>
         </div>
 
-        <div class="mx-auto mt-16 sm:mt-10 grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-4 gap-6 sm:gap-2 items-stretch">
-
-            <div class="rounded-3xl bg-white/60 p-8 ring-1 ring-gray-900/10 sm:mx-8  sm:p-10 lg:mx-0">
-            <h3 id="tier-hobby" class="font-bold text-lg gradient">Free</h3>
-            <p class="mt-4 flex items-baseline gap-x-2">
-                <span class="text-4xl font-bold font-poppins tracking-tight text-gray-900" x-text="isAnnual ? '29 €' : '35 €'"></span>
-                <span class="text-base text-gray-500">/{{ T "month" }}</span>
-            </p>
-            <p class="mt-6 text-base/7 text-gray-600">The perfect plan if you&#039;re just getting started with our product.</p>
-            <a href="#" aria-describedby="tier-hobby" class="mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 sm:mt-10">Get started today</a>
-            <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 sm:mt-10">
-                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 25 products </li>
-                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Up to 10,000 subscribers </li>
-                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Advanced analytics </li>
-                <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 24-hour support response time </li>
-            </ul>
-            </div>
-
-            <div class="rounded-3xl bg-white/60 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
-                <h3 id="tier-hobby" class="font-bold text-lg gradient">Plus</h3>
+        <div class="mx-auto mt-16 grid grid-cols-1 items-stretch gap-6 sm:mt-10 sm:gap-2 lg:grid-cols-2 xl:grid-cols-4">
+            <div class="rounded-3xl bg-white/40 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+                <h3 id="tier-hobby" class="gradient text-lg font-bold">Free</h3>
                 <p class="mt-4 flex items-baseline gap-x-2">
-                    <span class="text-4xl font-bold font-poppins tracking-tight text-gray-900">29 €</span>
-                    <span class="text-base text-gray-500">/{{ T "month" }}</span>
+                    <span class="font-poppins text-4xl font-bold tracking-tight text-gray-900" x-text="isAnnual ? '0 €' : '0 €'"></span>
+                    <span class="text-lg text-gray-500"></span>
                 </p>
-                <p class="mt-6 text-base/7 text-gray-600">The perfect plan if you&#039;re just getting started with our product.</p>
-                <a href="#" aria-describedby="tier-hobby" class="mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 sm:mt-10">Get started today</a>
-                <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 sm:mt-10">
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 25 products </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Up to 10,000 subscribers </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Advanced analytics </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 24-hour support response time </li>
+                <p class="mt-6 text-lg/7 text-gray-600">{{ T "price_table.for_up_to_25_users" }}<br />&nbsp;</p>
+                <a
+                    href="{{ (page.GetPage "pages/registration").RelPermalink }}"
+                    class="bg-gradient mt-8 block rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    >{{ T "price_table.start_now" }}</a
+                >
+                <ul role="list" class="mt-8 space-y-3 text-base/6 text-gray-600 sm:mt-10">
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_bases" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_tables" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 10.000 {{ T "price_table.rows" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 10.000 {{ T "price_table.rows_per_base" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 2 {{ T "price_table.gb_for_files" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 1 {{ T "price_table.month_snapshots" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_javascript" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 100 {{ T "price_table.python_runs" }}</li>
                 </ul>
             </div>
 
-            <div class="rounded-3xl  p-8 ring-1 ring-gray-900/10 sm:p-10">
-                <h3 id="tier-hobby" class="font-bold text-lg gradient">Enterprise</h3>
+            <div class="rounded-3xl bg-white/70 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+                <h3 id="tier-hobby" class="gradient text-lg font-bold">Plus</h3>
                 <p class="mt-4 flex items-baseline gap-x-2">
-                    <span class="text-4xl font-bold font-poppins tracking-tight text-gray-900">99 €</span>
-                    <span class="text-base text-gray-500">/{{ T "month" }}</span>
+                    <span class="font-poppins text-4xl font-bold tracking-tight text-gray-900" x-text="isAnnual ? '7 €' : '9 €'"></span>
+                    <span class="text-lg text-gray-500">/{{ T "price_table.month" }}</span>
                 </p>
-                <p class="mt-6 text-base/7 text-gray-600">The perfect plan if you&#039;re just getting started with our product.</p>
-                <a href="#" aria-describedby="tier-hobby" class="mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 sm:mt-10">Get started today</a>
-                <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 sm:mt-10">
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Unlimiterte Bases </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Unlimitierte Tabellen </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Unlimitierte Zeilen </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 100.000 Zeilen pro Base </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 100 GB für Dateien </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> 12 Monate Snapshots </li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Unlimitierte JavaScript und Python Skriptläufe</li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Erweiterte Freigaben</li>
-                    <li class="flex gap-x-3 text-base"><span class="icon-check"></span> Erweitertes Customizing</li>
+                <p class="mt-6 text-lg/7 text-gray-600">
+                    {{ T "price_table.per_user_month" }}<br /><span x-text="isAnnual ? '{{ T "price_table.yearly_billing" }}' : '{{ T "price_table.monthly_billing" }}'"></span>
+                </p>
+                <a
+                    href="{{ (page.GetPage "pages/registration").RelPermalink }}"
+                    class="bg-gradient mt-8 block rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    >{{ T "price_table.start_now" }}</a
+                >
+                <ul role="list" class="mt-8 space-y-3 text-base/6 text-gray-600 sm:mt-10">
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_bases" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_tables" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 50.000 {{ T "price_table.rows" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 60.000 {{ T "price_table.rows_per_base" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 50 {{ T "price_table.gb_for_files" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 6 {{ T "price_table.month_snapshots" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_javascript" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 5000 {{ T "price_table.python_runs" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.advanced_sharing" }}</li>
+                </ul>
+            </div>
+
+            <!-- enterprise -->
+            <div class="rounded-3xl bg-white/100 p-8 ring-1 ring-gray-900/10 sm:p-10">
+                <h3 class="gradient text-lg font-bold">Enterprise</h3>
+                <p class="mt-4 flex items-baseline gap-x-2">
+                    <span class="font-poppins text-4xl font-bold tracking-tight text-gray-900" x-text="isAnnual ? '14 €' : '18 €'"></span>
+                    <span class="text-lg text-gray-500">/{{ T "price_table.month" }}</span>
+                </p>
+                <p class="mt-6 text-lg/7 text-gray-600">
+                    {{ T "price_table.per_user_month" }}<br /><span x-text="isAnnual ? '{{ T "price_table.yearly_billing" }}' : '{{ T "price_table.monthly_billing" }}'"></span>
+                </p>
+                <a
+                    href="{{ (page.GetPage "pages/registration").RelPermalink }}"
+                    aria-describedby="tier-hobby"
+                    class="bg-gradient mt-8 block rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    >{{ T "price_table.start_now" }}</a
+                >
+                <ul role="list" class="mt-8 space-y-3 text-base/6 text-gray-600 sm:mt-10">
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_bases" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_tables" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_rows" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 100.000 {{ T "price_table.rows_per_base" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 100 {{ T "price_table.gb_for_files" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> 12 {{ T "price_table.month_snapshots" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_javascript" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.unlimited_python" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.advanced_sharing" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.advanced_customization" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.automations" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.big_data_storage" }}</li>
+                    <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ T "price_table.bank_transfer_payment" }}</li>
                 </ul>
             </div>
 
             <div class="relative rounded-3xl bg-gray-900 p-8 shadow-2xl ring-1 ring-gray-900/10 sm:p-10">
-                <h3 id="tier-enterprise" class="font-bold text-lg gradient">Dedicated Cloud</h3>
+                <h3 id="tier-enterprise" class="gradient text-lg font-bold">Dedicated Cloud</h3>
                 <p class="mt-4 flex items-baseline gap-x-2">
-                    <span class="text-4xl font-semibold tracking-tight text-white">Custom</span>
+                    <span class="text-4xl font-semibold tracking-tight text-white">*</span>
                 </p>
-                <p class="mt-6 text-base/7 text-gray-300">Dedicated support and infrastructure for your company.</p>
-                <a href="#" aria-describedby="tier-enterprise" class="mt-8 block rounded-md bg-indigo-500 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500 sm:mt-10">{{ T "contact_sales" }}</a>
-                <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-300 sm:mt-10">
-                    <li class="flex gap-x-3 text-white text-base">
-                        <span class="icon-check"></span>
-                    Unlimited products
-                    </li>
-                    <li class="flex gap-x-3 text-white text-base"><span class="icon-check"></span> Unlimited subscribers
-                    </li>
-                    <li class="flex gap-x-3 text-white text-base">
-                        <span class="icon-check"></span>
-                    Advanced analytics
-                    </li>
-                    <li class="flex gap-x-3 text-white text-base">
-                        <span class="icon-check"></span>
-                    Dedicated support representative
-                    </li>
-                    <li class="flex gap-x-3 text-white text-base">
-                        <span class="icon-check"></span>
-                    Marketing automations
-                    </li>
-                </ul>    
+                <p class="mt-6 text-lg/7 text-gray-300">{{ T "price_table.min_100_users" }}<br />{{ T "price_table.yearly_billing" }}</p>
+                <a
+                    href="{{ (page.GetPage "pages/contact").RelPermalink }}"
+                    aria-describedby="tier-enterprise"
+                    class="bg-gradient mt-8 block rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    >{{ T "price_table.contact_sales" }}</a
+                >
+                <ul role="list" class="mt-8 space-y-3 text-base/6 sm:mt-10">
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.unlimited_bases" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.unlimited_tables" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.unlimited_rows" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> 200.000 {{ T "price_table.rows_per_base" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> 1.000 {{ T "price_table.gb_for_files" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> 24 {{ T "price_table.month_snapshots" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.unlimited_javascript" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span>{{ T "price_table.unlimited_python" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.advanced_sharing" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.advanced_customization" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.automations" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.big_data_storage" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.bank_transfer_payment" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.unlimited_api_calls" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.enterprise_admin_panel" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.sso_integration" }}</li>
+                    <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.corporate_support" }}</li>
+                </ul>
             </div>
-
-        </div>        
+        </div>
     </section>
 </section>

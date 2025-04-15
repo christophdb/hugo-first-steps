@@ -27,7 +27,7 @@
         {{ partial "header/basic.html" . }}
 
 
-        <main id="main-content" class="relative">
+        <main id="main-content" class="relative overflow-auto sm:overflow-visible">
             {{ block "main" . }}{{ end }}
         </main>
 
@@ -49,6 +49,9 @@
                     type: 'sales',
                     subject: '',
                     message: '',
+                    buttonText: '{{ T "contact.submit"}}',
+                    isSubmitting: false, // Tracks if the form is being submitted
+                    errorMessage: '', // Message to show on error
                     errors: {},
                     validateEmail() {
                         if (!this.email.trim()) {
@@ -61,6 +64,10 @@
                     },
                     submitForm() {
                         this.validateEmail();
+
+                        // Disable the button
+                        this.isSubmitting = true;
+                        this.buttonText = '{{ T "contact.send" }}';
 
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
                         const data = {
@@ -84,8 +91,24 @@
                             body: params.toString(),
                         })
                             .then((response) => response.json())
-                            .then((data) => console.log(data))
-                            .catch((error) => console.error('Error:', error));
+                            .then((data) => {
+                                console.log(data);
+                                if (data.success) {
+                                    this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "contact.success" }}';
+                                } else {
+                                    this.errorMessage = data.error || 'error message'; // Show error message
+                                    this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
+                                }
+                            })
+                            .catch((error) => {
+                                console.error('Error:', error);
+                                this.errorMessage = error; // Show error message
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
+                            })
+                            .finally(() => {
+                                //this.isSubmitting = false; // Enable the button again after completion
+                            });
+
                     },
                 };
             }
@@ -94,6 +117,11 @@
                 return {
                     email: '',
                     errors: {},
+                    isSubmitting: false, // Tracks if the form is being submitted
+                    successMessage: '', // Message to show on success
+                    errorMessage: '', // Message to show on error
+                    buttonText: '{{ T "registration.submit"}}',
+
                     validateEmail() {
                         if (!this.email.trim()) {
                             this.errors.email = '{{ T "registration.email_required" }}';
@@ -110,11 +138,14 @@
                             return;
                         }
 
+                        // Disable the button
+                        this.isSubmitting = true;
+                        this.buttonText = '{{ T "registration.send" }}';
+
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
                         const data = {
                             email: this.email,
                         };
-
                         const headers = {
                             'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
                         };
@@ -126,8 +157,22 @@
                             body: params.toString(),
                         })
                             .then((response) => response.json())
-                            .then((data) => console.log(data))
-                            .catch((error) => console.error('Error:', error));
+                            .then((data) => {
+                                if (data.success) {
+                                    this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "registration.success" }}';
+                                } else {
+                                    this.errorMessage = data.error || 'error message'; // Show error message
+                                    this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
+                                }
+                            })
+                            .catch((error) => {
+                                console.error('Error:', error);
+                                this.errorMessage = error; // Show error message
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
+                            })
+                            .finally(() => {
+                                //this.isSubmitting = false; // Enable the button again after completion
+                            });
                     },
                 };
             }
@@ -193,8 +238,6 @@
                 URL_BY_LANGUAGE['{{ .Lang }}'] = '{{ .Permalink }}';
                 {{ $urls = merge $urls (dict "{{ .Lang }}" "{{ .Permalink }}") }}
             {{ end }}
-
-            console.debug('URLs:', URL_BY_LANGUAGE);
 
             document.addEventListener('alpine:init', () => {
                 // Check local storage first

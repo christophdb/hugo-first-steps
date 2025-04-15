@@ -1,8 +1,8 @@
 ---
-title: 'Jobs'
+title: 'Empregos no SeaTable: Concentração nos êxitos conjuntos'
+description: 'Descubra o SeaTable Jobs e revolucione o seu dia de trabalho com a nossa plataforma sem código. Faça parte da mudança!'
 date: '2025-04-03'
-
-url: '/pt/jobs'
+url: '/pt/empregos'
 
 sections:
     - name: hero-2

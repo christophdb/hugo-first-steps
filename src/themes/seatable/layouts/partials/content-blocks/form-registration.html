@@ -1,28 +1,42 @@
 <section class="padding" id="{{ .name }}">
     <section class="max-container text-center">
-        <h2 class="mt-1 text-5xl font-bold gradient">{{ .title }}</h2>
-        <p class="text-xl">{{ .subtitle }}</p>
-        <p class="mt-6 text-xl py-2 px-4 bg-green-100 text-green-700 inline-block rounded-lg">{{ .cta }}</p>
+        <h2 class="gradient mt-1 text-4xl font-bold leading-narrow md:text-5xl">{{ .title }}</h2>
+        <p class="mt-4 text-xl">{{ .subtitle }}</p>
+        <p class="mt-6 inline-block rounded-lg bg-green-100 px-4 py-2 text-xl text-green-700">{{ .cta }}</p>
 
         <div x-data="registrationForm()" class="text-left">
             <form @submit.prevent="submitForm" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
                 <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
                     <div class="sm:col-span-2">
-                        <label for="email" class="block text-lg text-seatable-gray font-semibold font-poppins">E-Mail <span class="text-red-600 text-base">*</span></label>
+                        <label for="email" class="block font-poppins text-lg font-semibold text-seatable-gray">E-Mail <span class="text-base text-red-600">*</span></label>
                         <div class="mt-2.5">
-                            <input type="email" name="email" id="email" autocomplete="email" x-model="email" @input="validateEmail" placeholder='{{ T "registration.email_placeholder" }}'
-                                class="block w-full rounded-md px-3.5 py-4 text-base bg-gray-100 text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300
-                                placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-gray-600">
-                            <p x-text="errors.email" class="error text-red-500 pt-1 font-bold font-poppins"></p>
+                            <input
+                                type="email"
+                                name="email"
+                                id="email"
+                                autocomplete="email"
+                                x-model="email"
+                                @input="validateEmail"
+                                placeholder="{{ T "registration.email_placeholder" }}"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-4 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-gray-600" />
+                            <p x-text="errors.email" class="error pt-1 font-poppins font-bold text-red-500"></p>
                         </div>
                     </div>
                 </div>
 
                 <div class="mt-10">
-                    <button type="submit" class="block w-full bg-gradient text-white font-bold font-poppins p-4 rounded-lg">{{ .submit }}</button>
+                    <button
+                        type="submit"
+                        x-bind:disabled="isSubmitting"
+                        x-html="buttonText"
+                        class="bg-gradient flex w-full justify-center gap-4 rounded-lg p-4 font-poppins font-bold text-white">
+                        {{ .submit }}
+                    </button>
                 </div>
+
+                <!-- Success/Error Messages -->
+                <p x-show="errorMessage" x-text="errorMessage" class="mt-4 text-center text-red-500"></p>
             </form>
         </div>
-
     </section>
 </section>

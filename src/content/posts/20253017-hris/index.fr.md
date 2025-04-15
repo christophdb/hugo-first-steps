@@ -3,9 +3,9 @@ title: "SIRH - de quoi il s'agit et comment votre entreprise peut en bénéficie
 description: "Une gestion efficace du personnel est aujourd'hui pratiquement impossible sans un SIRH (système d'information des ressources humaines), du moins si votre entreprise a atteint une certaine taille. Dans cet article, nous examinons la différence entre un système d'information des ressources humaines (SIRH) et un système de gestion des ressources humaines (SGRH) et discutons de la manière de rendre votre gestion des ressources humaines plus efficace grâce à un logiciel comprenant une base de données RH.."
 date: 2025-03-17
 categories:
-    - 'Allgemein'
+    - 'Général'
 tags:
-    - 'Personalverwaltung'
+    - 'Gestion du personnel'
     - 'Toolings & Plugins'
 color: '#f5bdd6'
 url: '/fr/hris'

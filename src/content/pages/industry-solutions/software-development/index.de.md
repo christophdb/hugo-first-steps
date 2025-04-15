@@ -1,5 +1,6 @@
 ---
-title: 'Software Entwicklung'
+title: 'IT Service Management mit SeaTable: Effizient und flexibel'
+description: 'SeaTable bietet Ihnen die Möglichkeit, Ihr IT Service Management individuell anzupassen und zu optimieren. Nutzen Sie unsere No-Code-Lösung.'
 date: '2025-04-03'
 url: '/de/it-service-management'
 
@@ -14,7 +15,7 @@ sections:
       template: 51d678ca8b004e9b9b79
       buttons:
           - label: Jetzt loslegen
-            link: 'pages/registration'
+            link: pages/registration
             style: primary
           - label: Funktionen kennenlernen
             link: pages/functions
@@ -107,8 +108,6 @@ sections:
       subtitle: Vorlagen
       description: "Mit unseren kostenlosen, flexibel anpassbaren Vorlagen für das IT Service Management können Sie direkt loslegen. Alle Vorlagen sind beliebig erweiterbar, sodass sie genau auf die spezifischen Anforderungen Ihrer IT Organisation zugeschnitten werden können:<br><br>
       **Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account!**"
-      # bei items die links hinzufügen!
-      # abstände zwischen den spalten vergrößern
       items:
           - text: Software-Tests
             image: /images/Software-Dev_-Software-Test_Template.png

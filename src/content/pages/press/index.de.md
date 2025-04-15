@@ -1,5 +1,6 @@
 ---
-title: 'Presse'
+title: 'SeaTable Presse: Neuigkeiten und Medienberichte'
+description: 'Erfahren Sie mehr über SeaTable Presse und die interessanten Medienberichte, die unsere Plattform und ihre Anwendungen beleuchten.'
 date: '2025-04-03'
 url: '/de/presse'
 
@@ -9,6 +10,8 @@ sections:
       title: Pressebereich und Medienberichte
       subtitle: 'Wir sind in aller Munde'
       text: 'Nicht nur wir selber erzählen über uns, sondern auch zahlreiche Medienberichte. Sie finden alle hier in unserem Pressebereich. Sie möchten ebenfalls über uns schreiben? Immer gerne! [Kontaktieren Sie uns]({{< relref "pages/contact" >}}) einfach für mehr Informationen.'
+      subheadline: Wer schon über uns berichtet hat...
+      image: /images/Logo_PR.png
       items:
           - headline: 'Media Kit'
             text: '43,87 MB'

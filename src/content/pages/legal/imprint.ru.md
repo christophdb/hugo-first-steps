@@ -1,9 +1,10 @@
 ---
-title: 'Imprint'
+title: 'выходные данные'
 description: ''
 date: 2025-03-24
 type: 'legal'
-url: '/ru/юридическое-уведомление'
+url: '/ru/vykhodnye-dannye'
+
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

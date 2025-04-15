@@ -6,7 +6,7 @@ categories:
     - 'Général'
     - 'Témoignage client'
 tags:
-    - 'Transformation digtiale'
+    - 'Transformation digitale'
 color: '#f7f0d6'
 url: '/fr/effizientes-auftragsmanagement-mit-seatable'
 ---

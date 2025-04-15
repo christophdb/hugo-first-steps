@@ -60,3 +60,10 @@ Mitarbeiter:
 Accessibility:
 [ ] immer Alt Tags
 [ ] iframe should have a title
+[ ] links in main-content werden nicht gestylt
+
+Mobile:
+[ ] Blog Header Box
+[ ] Tables in blog posts z.B. http://localhost:1313/de/data-warehouse/
+
+[ ] Simon: redirect logic for relref with lang!?!

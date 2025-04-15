@@ -1,5 +1,6 @@
 ---
-title: 'Marketing'
+title: 'Marketing Tool von SeaTable nutzen: Automatisieren Sie Prozesse'
+description: 'Entdecken Sie SeaTable als leistungsstarkes Marketing-Tool. Automatisieren Sie Prozesse, analysieren Sie Daten, steigern Sie Ihre Effizienz.'
 date: '2025-04-03'
 url: '/de/marketing-tool'
 
@@ -81,9 +82,11 @@ sections:
         text: Mit SeaTable erstellen Sie Ihre Reportings im Marketing effizient und können Sie direkt in Dashboards abbilden und auswerten.
     # TODO: content-4 wenn kein link definiert, dann wird kein link angezeigt.
 
-    # TODO: bei content-10 die classes hinzufügen
     - name: "content-10"
       weight: 5
+      classes:
+        - curved
+        - bg-white
       title: "Automatisierung und Integration von Marketingprozessen"
       subtitle: "Zentralisieren Sie Ihr Marketing"
       description: "Mit SeaTable automatisieren Sie Ihre manuellen Aufgaben. Dank No-Code- / Low-Code-Funktionen richten Sie Ihre Workflows schnell ein und passen Sie an Ihre Anforderungen an. Zusätzlich ermöglicht SeaTable die Integration externer Datenquellen über seine API oder Marketing Automation Tools."
@@ -93,17 +96,22 @@ sections:
         - image: "/images/logos/n8n.svg"
         - image: "/images/logos/seatable-api.svg"
     
-    # TODO: bei content-4 die classes hinzufügen
-    # TODO: so kann ich die beiden container zusammenziehen
     - name: "content-4"
       weight: 6
       classes:
         - curved
-        - bg-gray-100
+        - bg-white
+        - "!pt-0"
       items:
       - icon: leaf
         headline: No-Code Plattform mit Low-Code Optionen
         text: SeaTable ist eine No-Code-Plattform für Marketing-Teams ohne Programmierkenntnisse. Sie ermöglicht die Erstellung individueller Workflows und Automatisierungen ohne Programmierung. Fortgeschrittene Nutzer können mit Low-Code-Erweiterungen komplexe Automatisierungen und Integrationen umsetzen.
+      - icon: leaf
+        headline: Integration externer Datenquellen
+        text: "Dank der API von SeaTable können Sie externe Datenquellen wie CRM-Systeme oder E-Mail-Marketing-Tools einfach integrieren.<br><br>Dies bedeutet, dass Sie alle Ihre Marketingdaten an einem zentralen Ort verwalten und analysieren können, was die Effizienz erheblich steigert."
+      - icon: leaf
+        headline: SQL-Abfragen und Big Data Funktionen
+        text: "SeaTable bietet die Möglichkeit, SQL-Abfragen durchzuführen. Dies ist besonders nützlich für Marketing-Teams, die mit großen Datenmengen arbeiten und detaillierte Analysen durchführen müssen. Mit der Big Data-Funktion von SeaTable können Sie große Datenmengen effizient verwalten und auswerten."
 
     - name: banner-2
       weight: 7
@@ -133,8 +141,6 @@ sections:
 
       Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account"
       # TODO: markdownify
-      # bei items die links hinzufügen!
-      # abstände zwischen den spalten vergrößern
       items:
           - text: Konkurrenzanalyse
             image: /images/Marketing_Competitor-Analysis_Template.png
@@ -163,7 +169,10 @@ sections:
           - text: Newsletter Anmeldung
             image: /images/Marketing_Newsletter_Subscription_Template.png
             alt: Verwalten Sie Ihre Newsletter-Anmeldungen und analysieren Sie deren Erfolg.
-        # button hinzufügen: alle vorlagen entdecken.
+      buttons:
+        - label: Alle Vorlagen entdecken
+          link: "https://seatable.io/vorlagen/?lang=auto"
+
 
     - name: 'content-13'
       weight: 11
@@ -183,15 +192,16 @@ sections:
           - headline: Marketing Budget
             text: Planen, überwachen und optimieren Sie Ihr Budget.
 
-    # TODO: das noch rechts-links vertauschen
     - name: 'content-13'
       weight: 12
       classes:
           - curved
           - bg-gray-100
+          - "!pt-0"
       title: Monitoring und Analyse
       subtitle: Marketing Reporting
       description: Monitoren Sie all Ihre Marketing Metriken und erstellen Sie überzeugende Dashboards.
+      box_position: left
       items:
           - headline: Zentrales Monitoring
             text: Sammeln Sie alle Metriken von verschiedenen Online Marketing Plattformen in SeaTable.
@@ -207,6 +217,7 @@ sections:
       classes:
           - curved
           - bg-gray-100
+          - "!pt-0"
       title: Eventmanagement
       subtitle: Messen, Webinare und mehr
       description: Planen, organisieren und verwalten Sie Ihre Events effizient mit SeaTable und behalten Sie die Übersicht über jede Phase der Eventplanung inklusive Eventbudget.
@@ -221,14 +232,14 @@ sections:
             text: Führen Sie Umfragen durch und werten Sie den Erfolg Ihres Events aus.
 
     - name: banner-2
-      weight: 98
+      weight: 14
       title: Wie auch immer Ihr Arbeitsablauf aussieht, mit SeaTable können Sie Ihn realisieren
       buttons:
           - label: Jetzt registrieren und loslegen
             link: pages/registration
 
     - name: faq
-      weight: 99
+      weight: 15
       title: FAQ – SeaTable als Marketing Management Tool
       items:
           - q: 'Warum brauche ich ein Marketing Management Tool?'

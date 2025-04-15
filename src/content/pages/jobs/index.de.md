@@ -1,7 +1,7 @@
 ---
-title: 'Jobs'
+title: 'SeaTable Jobs: Gemeinsame Erfolge im Fokus'
+description: 'Entdecke SeaTable Jobs und revolutioniere deinen Arbeitsalltag mit unserer No-Code-Plattform. Werde Teil des Wandels!'
 date: '2025-04-03'
-
 url: '/de/jobs'
 
 sections:

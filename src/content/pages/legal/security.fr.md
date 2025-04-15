@@ -1,9 +1,9 @@
 ---
-title: 'Security in SeaTable Cloud'
+title: 'Sécurité dans SeaTable Cloud'
 description: ''
 date: 2022-05-13
 type: 'legal'
-url: '/security'
+url: '/securite'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

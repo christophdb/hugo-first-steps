@@ -1,9 +1,10 @@
 ---
-title: 'Privacy Policy'
+title: 'защита данных'
 description: ''
 date: 2022-05-13
 type: 'legal'
-url: '/ru/политика-конфиденциальности'
+url: '/ru/zashchita-dannykh'
+
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

@@ -9,6 +9,7 @@
   title: 
   subtitle: 
   description: 
+  box-position: [right!, left]
   items:
   - headline:
     text:
@@ -24,7 +25,7 @@
 <!-- HTML Block -->
 {{ $classes := .classes | default "" }}
 <section class="{{ delimit $classes " " }} padding" id="{{ .name }}">
-    <section class="max-container flex w-full items-start justify-between max-lg:flex-col">
+    <section class="max-container {{ if eq .box_position "left" }}flex-row-reverse{{ end }} flex w-full items-start justify-between max-lg:flex-col">
         <div class="flex basis-1/2 flex-col pl-16">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>

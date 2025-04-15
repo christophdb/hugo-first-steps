@@ -1,5 +1,6 @@
 ---
-title: 'Projektmanagement'
+title: 'Das flexible Projektmanagement-Tool für dein Team | SeaTable'
+description: 'Steigern Sie die Produktivität mit SeaTable. Das Projektmanagement-Tool lässt sich in einfachen Schritten an Ihre Bedürfnisse anpassen.'
 date: '2025-04-03'
 url: '/de/projektmanagement-tools'
 
@@ -17,7 +18,6 @@ sections:
             style: primary
           - label: Funktionen kennenlernen
             link: pages/functions
-      # TODO: die höhe des abschnitts festlegen können. Hier sollte man mehr vom template zeigen.
 
     - name: "content-4"
       weight: 4
@@ -39,7 +39,7 @@ sections:
       
       - icon: heart
         headline: Automatisierung von Routinetätigkeiten
-        text: Automatisieren Sie in SeaTable wiederkehrende Workflows. So reduzieren Sie den manuellen Arbeitsaufwand und minimieren menschliche Fehler. Über die SeaTable API oder Automationsplattformen wie Zapier, Make und n8n können Sie zudem all Ihre Lieblingstools mit SeaTable integrieren.
+        text: Automatisieren Sie in SeaTable wiederkehrende [Workflows]({{< relref "pages/industry-solutions/individual" >}}). So reduzieren Sie den manuellen Arbeitsaufwand und minimieren menschliche Fehler. Über die SeaTable API oder Automationsplattformen wie Zapier, Make und n8n können Sie zudem all Ihre Lieblingstools mit SeaTable integrieren.
 
       - icon: globe
         headline: Skalierbarkeit, Betriebsart und Datenschutz
@@ -48,8 +48,6 @@ sections:
       - icon: shield
         headline: Kosteneffizienz durch maßgeschneiderte Lösungen
         text: "Als kostenloses Projektmanagement-Tool überzeugt SeaTable mit seiner Kosteneffizienz und Flexibilität: Wählen Sie zwischen verschiedenen Modellen und passen Sie Ihre Projektmanagement Software an Ihr Projekt an. SeaTable Free ist dauerhaft kostenlos – Sie skalieren erst, wenn nötig."
-    # TODO: content-4 wenn kein link definiert, dann wird kein link angezeigt.
-    # TODO: Link im Text zu "Workflow-Management"
 
     - name: content-12
       weight: 8
@@ -89,7 +87,6 @@ sections:
       description: "Nutzen Sie für den Einstieg kostenlose Templates speziell für das Projektmanagement. Ein kostenloser Online-Kurs hilft Ihnen Schritt für Schritt dabei, eine erste eigene Base zu erstellen. Erleben Sie, wie einfach Sie mit SeaTable die Verwaltung Ihrer Projekte auf das nächste Level bringen!
       **Importieren Sie Vorlagen mit nur einem Klick in Ihren SeaTable Account!**"
       # bei items die links hinzufügen!
-      # abstände zwischen den spalten vergrößern
       items:
           - text: Projektplan
             image: /images/1-Projektmanagement_Project-Plan_Template_9.png
@@ -115,9 +112,7 @@ sections:
       weight: 26
       classes:
         - bg-white
-      # TODO: content-9 classes support
-      # TODO: content-9 nicht auf drei umbrechen, sondern von 4 auf 2.
-      # TODO: Icons anpassen
+        - "!pt-40"
       title: 4 Tipps für erfolgreiche Projekte
       subtitle: Agiles Projektmanagement
       description: "SeaTable bietet Ihnen eine völlig neue Art, Ihr Projektmanagement zu organisieren: Sie bedienen sich aus einem Software-Baukasten und stellen Ihren Projektplan und Ihre Prozesse nach Ihren eigenen Wünschen zusammen. Mit diesen 4 Tipps läuft Ihr nächstes Projekt in SeaTable reibungslos und erfolgreich:"
@@ -127,14 +122,13 @@ sections:
         icon: circle-question
       - headline: Klare Kommunikation
         text: Wenn wichtige Informationen unklar bleiben oder nicht rechtzeitig alle Projektbeteiligten erreichen, kann dies zu Fehlern und Verzögerungen führen. Eine Projektmanagement Software wie SeaTable ermöglicht deshalb allen Stakeholdern einen transparenten Überblick über den aktuellen Projektstand, kollaboratives Arbeiten und direkte Kommunikation.
-        icon: 
+        icon: bullseye
       - headline: Flexible Zeitpläne
         text: "Damit unvorhergesehene Änderungen Ihre Projekte nicht aus der Bahn werfen, sollten Sie auf flexible Projektmanagement Tools setzen, in denen Sie Ihren Projektplan spontan ändern können. Mit SeaTable können Sie im Projektmanagement den Zeitplan flexibel anpassen, auf Ressourcenengpässe reagieren, Aufgaben umverteilen und dennoch das Ziel im Auge behalten."
-        icon:
+        icon: fire
       - headline: Stakeholder einbinden
         text: "Stakeholdermanagement ist eine besonders kritische Aufgabe. In einem Projektmanagement Tool wie SeaTable können Sie Stakeholdern beschränkten Zugriff auf Ihre Projektdaten geben. Richten Sie Automatisierungen ein, um sie über wichtige Meilensteine zu informieren oder Reports zu versenden."
         icon: star
-
 
     - name: content-25
       weight: 28
@@ -162,25 +156,16 @@ sections:
       weight: 30
       title: Wechseln Sie jetzt zu SeaTable – so leicht geht’s!
       subtitle: Der Mehrwert von SeaTable
-      # TODO: markdownify by diesen textabschnitten"
       items:
       - headline: Einfacher Umstieg
-        text: "Der Wechsel zu SeaTable ist kinderleicht: Registrieren Sie sich einfach mit Ihrer E-Mail-Adresse und legen Sie direkt los – ohne Kreditkarte, ohne versteckte Kosten!
-        
-        SeaTable bietet zahlreiche Importmöglichkeiten, welche die Migration Ihrer Daten und den Umstieg von Ihren bisherigen Projektmanagement Tools einfach machen."
-        icon: circle-question
+        text: "Der Wechsel zu SeaTable ist kinderleicht: Registrieren Sie sich einfach mit Ihrer E-Mail-Adresse und legen Sie direkt los – ohne Kreditkarte, ohne versteckte Kosten!<br><br>SeaTable bietet zahlreiche Importmöglichkeiten, welche die Migration Ihrer Daten und den Umstieg von Ihren bisherigen Projektmanagement Tools einfach machen."
       - headline: Kostenlose Vorlagen
         text: Starten Sie mit einer kostenlosen Projektmanagement Vorlage und überzeugen Sie sich selbst von SeaTables Leistungsfähigkeit und Flexibilität! Sie werden schnell merken, wie SeaTable Ihr Projektmanagement auf ein neues Level heben kann. Laden Sie Ihre eigenen Daten hoch und innerhalb kürzester Zeit ist Ihr neues Projektmanagementsystem einsatzbereit.
-        icon: 
       - headline: Umfassender Support
         text: "Wir stehen Ihnen von Beginn an zur Seite, wenn Sie Fragen rund um unser kostenloses Projektmanagement-Tool haben: Nutzen Sie über 350 Hilfeartikel, den Online-Kurs für Einsteiger, YouTube-Tutorials oder unser Community-Forum.
         Darüber hinaus erstellen wir Ihnen gerne ein individuelles Support-Angebot, damit Sie das volle Potenzial von SeaTable bei Ihren Projekten ausschöpfen können."
-        icon:
       - headline: Preiswerte Lösung
         text: "Managen Sie Ihre Projekte mit der Free Version von SeaTable komplett kostenlos – oder skalieren Sie SeaTable ganz nach Ihren Anforderungen: Wenn Sie erweiterte Funktionen oder mehr Speicherkapazitäten für Ihre Projekte benötigen, können Sie einfach auf eine kostengünstige Premium-Version upgraden."
-        icon: star
-    # TODO: mache ich hier noch grafiken drunter?
-    # TODO: Icons anpassen
 
     - name: banner-2
       weight: 98
@@ -200,10 +185,9 @@ sections:
           - q: Welches Abo brauche ich für ein effizientes Projektmanagement?
             a: Mit dem Free-Abo erhalten Sie bereits die wichtigsten Funktionen für kleinere Projekte und Teams. Mit dem Plus-Abo wird die Zusammenarbeit mit externen Stakeholdern dank der erweiterten Freigabe-Optionen deutlich einfacher und die höheren Speicherlimits erlauben es Ihnen, größere Projekte zu betreuen. Im Enterprise-Abo kommen schließlich noch Automationen, erweitertes Customizing und der Big-Data-Speicher für datenintensive Projekte hinzu.
           - q: Wie kann ich meine Daten zu SeaTable migrieren?
-            a: SeaTable bietet zahlreiche Importmöglichkeiten, welche die Migration Ihrer Daten und den Umstieg von Ihren bisherigen Projektmanagement Tools einfach machen. Laden Sie Ihre bestehenden Daten hoch und innerhalb kürzester Zeit ist Ihr neues Projektmanagementsystem einsatzbereit. Dank der intuitiven, grafischen Benutzeroberfläche werden Sie sich schnell zurechtfinden.
+            a: "SeaTable bietet zahlreiche Importmöglichkeiten, welche die Migration Ihrer Daten und den Umstieg von Ihren bisherigen Projektmanagement Tools einfach machen. Laden Sie Ihre bestehenden Daten hoch und innerhalb kürzester Zeit ist Ihr neues Projektmanagementsystem einsatzbereit. Dank der intuitiven, grafischen Benutzeroberfläche werden Sie sich schnell zurechtfinden."
           - q: "Ist SeaTable eine Alternative zu Monday, Jira oder Asana?"
             a: "Asana, Monday und Jira sind drei bekannte Projektmanagement Tools, auf die viele Teams aus aller Welt zurückgreifen. Wenn Sie sich nun fragen, ob diese Projektmanagement Tools kostenlos sind, lautet die Antwort – bis auf stark funktionseingeschränkte Versionen – nein. Im Gegensatz zu SeaTable müssen Sie gerade bei größeren Teams hohe Kosten in Kauf nehmen, da pro Nutzer und Monat direkt zweistellige Beträge anfallen. Wenn Sie mit Monday, Jira oder Asana Projektmanagement betreiben wollen, kann es also richtig teuer werden. SeaTable hingegen überzeugt durch das umfangreiche Free Abo auch als das kostenlose Projektmanagement Tool für Teams jeder Größe.
-            Zudem sind die klassischen Projektmanagement Tools weniger intuitiv als SeaTable. Dies gilt insbesondere für kostenlose Projektmanagement Tools. Die Fülle an Funktionen kann auf Einsteiger überfordernd wirken, vor allem wenn Sie in Monday Ihr Projektmanagement abbilden möchten. Jira ist besonders auf Software-Projekte und agiles Projektmanagement nach Scrum spezialisiert, was bereits viele Kenntnisse voraussetzt. Dadurch, dass die meisten Projektbeteiligten dieses Wissen erst erwerben müssen, erfordert die Einarbeitung relativ viel Zeit, wohingegen Sie mit SeaTable direkt starten können. Asana und Jira sind im Vergleich zu SeaTable außerdem weniger flexibel und nicht für datenintensive Projekte zu empfehlen. Lesen Sie mehr dazu in unserem Blog."
-    # TODO: faq: markdownify und link zu blog!
+            Zudem sind die klassischen Projektmanagement Tools weniger intuitiv als SeaTable. Dies gilt insbesondere für kostenlose Projektmanagement Tools. Die Fülle an Funktionen kann auf Einsteiger überfordernd wirken, vor allem wenn Sie in Monday Ihr Projektmanagement abbilden möchten. Jira ist besonders auf Software-Projekte und agiles Projektmanagement nach Scrum spezialisiert, was bereits viele Kenntnisse voraussetzt. Dadurch, dass die meisten Projektbeteiligten dieses Wissen erst erwerben müssen, erfordert die Einarbeitung relativ viel Zeit, wohingegen Sie mit SeaTable direkt starten können. Asana und Jira sind im Vergleich zu SeaTable außerdem weniger flexibel und nicht für datenintensive Projekte zu empfehlen. Lesen Sie mehr dazu in unserem [Blog]({{< relref \"posts\" >}})."
           
 ---

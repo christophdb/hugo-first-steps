@@ -1,9 +1,9 @@
 ---
-title: 'Privacy Policy'
+title: 'Proteccion-de-datos'
 description: ''
 date: 2022-05-13
 type: 'legal'
-url: '/es/data-privacy'
+url: '/es/proteccion-de-datos'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

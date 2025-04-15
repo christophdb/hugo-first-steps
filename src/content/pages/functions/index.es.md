@@ -1,7 +1,7 @@
 ---
-title: Funciones
+title: 'La mejor solución de base de datos para su equipo | Características de SeaTable'
+description: 'Descubra las amplias funciones de SeaTable: desde tablas flexibles hasta potentes automatizaciones.'
 date: '2025-03-30'
-
 url: '/es/funciones'
 
 sections:
