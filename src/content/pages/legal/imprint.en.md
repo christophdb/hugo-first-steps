@@ -1,5 +1,5 @@
 ---
-title: 'Imprint | SeaTable'
+title: 'Imprint'
 description: ''
 date: 2025-03-24
 type: 'legal'

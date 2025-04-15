@@ -8,8 +8,8 @@ url: '/es/aviso-legal'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in english and german. The english translation is an non-binding, convenience translation.
-The **[German original](/de/impressum/)** is legally binding.
+Este sello sólo está disponible en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
+El **[original alemán](/de/impressum/)** es jurídicamente vinculante.
 
 {{< /alert >}}
 

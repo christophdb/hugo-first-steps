@@ -5,14 +5,13 @@ date: 2021-09-28
 version: '1.0'
 type: 'legal'
 url: '/ru/licenzionnoe-soglashenie'
-
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in English and German. The English translation is an non-binding, convenience translation.
+Этот оттиск доступен только на английском и немецком языках. Английский перевод является необязательным, удобным переводом.
 
-The **[German original](/de/lizenzvereinbarung/)** is legally binding.
+Оригинал на **[немецком языке](/de/lizenzvereinbarung/)** является юридически обязательным.
 
 {{< /alert >}}
 

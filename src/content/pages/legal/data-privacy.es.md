@@ -8,9 +8,9 @@ url: '/es/proteccion-de-datos'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This privacy policy is only available in english and german. The english translation is an non-binding, convenience translation.
+Esta política de privacidad sólo está disponible en inglés y alemán. La traducción al español no es vinculante.
 
-The **[German original](/de/datenschutz/)** is legally binding.
+La **[original alemana]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** es jurídicamente vinculante.
 
 {{< /alert >}}
 

@@ -118,3 +118,17 @@ price_table:
     yearly_billing: 'Jährliche Abrechnung'
     monthly_billing: 'Monatliche Abrechnung'
     min_100_users: 'Mindestens 100 Benutzer'
+
+    year: Jahr
+    years: Jahre
+    user: Benutzer
+    yearly_license: '-Jahres-Lizenz'
+    download: 'Kostenlos runterladen'
+    buy: 'Jetzt abonnieren'
+    free: 'Dauerhaft kostenlos'
+    u10_y1: 'https://licenses.st-stage.de/b/9AQ4iW54F93j0rC8wO'
+    u25_y1: 'https://licenses.st-stage.de/b/00gg1EgNn2EV2zK3cx'
+    u10_y2: 'https://licenses.st-stage.de/b/7sI4iW2Wxcfva2c7sL'
+    u25_y2: 'https://licenses.st-stage.de/b/3cs8zc40Bbbrdeo6oE'
+    u10_y3: 'https://licenses.st-stage.de/b/7sI4iW2Wxcfva2c7sL'
+    u25_y3: 'https://licenses.st-stage.de/b/bIY3eSbt3a7n1vGdRa'

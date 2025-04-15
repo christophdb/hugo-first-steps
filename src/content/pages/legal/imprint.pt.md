@@ -8,8 +8,8 @@ url: '/pt/informacoes-legais'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in english and german. The english translation is an non-binding, convenience translation.
-The **[German original](/de/impressum/)** is legally binding.
+Esta impressão só está disponível em inglês e alemão. A tradução inglesa é uma tradução de conveniência, não vinculativa.
+O **[original alemão](/de/impressum/)** é juridicamente vinculativo.
 
 {{< /alert >}}
 

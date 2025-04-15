@@ -8,9 +8,9 @@ url: '/ru/bezopasnost'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in English and German. The English translation is an non-binding, convenience translation.
+Этот оттиск доступен только на английском и немецком языках. Английский перевод является необязательным, удобным переводом.
 
-The **[German original](/de/sicherheit/)** is legally binding.
+Оригинал на **[немецком языке](/de/sicherheit/)** является юридически обязательным.
 
 {{< /alert >}}
 

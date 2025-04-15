@@ -10,6 +10,7 @@ sections:
       title: SeaTable Cloud. Tailored to you.
       subtitle: What we offer
       text: Start for free and get more features and higher limits from €7 per user per month when you need them
+      price_selector: 'yes'
 
     - name: 'price-1'
       weight: 2
