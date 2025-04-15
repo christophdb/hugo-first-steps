@@ -1,4 +1,5 @@
-<section class="padding curved bg-gray-100">
+<!-- SeaTable Cloud -->
+<section class="padding curved bg-gray-100" x-show="showCloud">
     <section id="price-table" class="max-container" x-data="{ isAnnual: true }">
         <div class="m-auto mb-2 flex max-w-[18rem] justify-center lg:mb-4">
             <div class="relative flex w-full rounded-full bg-white p-1 dark:bg-slate-900">
@@ -140,6 +141,150 @@
                     <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.sso_integration" }}</li>
                     <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ T "price_table.corporate_support" }}</li>
                 </ul>
+            </div>
+        </div>
+    </section>
+</section>
+
+<!-- SeaTable Dedicated -->
+<section class="padding curved bg-gray-100" x-show="!showCloud">
+    <section
+        id="price-table"
+        class="max-container"
+        x-data="{ selectedOption: '1-year', licenseLinks: {
+        '1-year': '{{ T "price_table.u10_y1" }}',
+        '2-year': '{{ T "price_table.u10_y2" }}', 
+        '3-year': '{{ T "price_table.u10_y3" }}'
+    } }">
+        <div class="m-auto mb-2 flex max-w-[24rem] justify-center lg:mb-4">
+            <div class="relative flex w-full rounded-full bg-white p-1 dark:bg-slate-900">
+                <!-- Active indicator (now needs to handle 3 positions) -->
+                <span class="pointer-events-none absolute inset-0 m-1" aria-hidden="true">
+                    <span
+                        class="absolute inset-0 w-1/3 transform rounded-full bg-indigo-500 shadow-sm shadow-indigo-950/10 transition-transform duration-150 ease-in-out"
+                        :class="{
+                            'translate-x-0': selectedOption === '1-year',
+                            'translate-x-full': selectedOption === '2-year',
+                            'translate-x-[200%]': selectedOption === '3-year'
+                        }"></span>
+                </span>
+
+                <!-- 1 Year -->
+                <button
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
+                    :class="selectedOption === '1-year' ? 'text-white' : 'text-slate-500 dark:text-slate-400'"
+                    @click="selectedOption = '1-year'"
+                    :aria-pressed="selectedOption === '1-year'">
+                    1
+                    {{ T "price_table.year" }}
+                </button>
+
+                <!-- 2 Years -->
+                <button
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
+                    :class="selectedOption === '2-year' ? 'text-white' : 'text-slate-500 dark:text-slate-400'"
+                    @click="selectedOption = '2-year'"
+                    :aria-pressed="selectedOption === '2-year'">
+                    2 {{ T "price_table.years" }} <span :class="selectedOption === '1-year' ? 'text-indigo-200' : 'text-slate-400 dark:text-slate-500'">-5%</span>
+                </button>
+
+                <!-- 3 Years -->
+                <button
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
+                    :class="selectedOption === '3-year' ? 'text-white' : 'text-slate-500 dark:text-slate-400'"
+                    @click="selectedOption = '3-year'"
+                    :aria-pressed="selectedOption === '3-year'">
+                    3 {{ T "price_table.years" }} <span :class="selectedOption === '1-year' ? 'text-indigo-200' : 'text-slate-400 dark:text-slate-500'">-10%</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- 25 Benutzer on-premises -->
+        <div class="mx-auto mt-16 grid grid-cols-1 items-stretch gap-6 sm:mt-10 sm:gap-2 lg:grid-cols-2 xl:grid-cols-4">
+            <div class="rounded-3xl bg-white/40 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+                <h3 id="tier-hobby" class="gradient text-lg font-bold">3 {{ T "price_table.user" }}</h3>
+                <p class="mt-4 flex items-baseline gap-x-2">
+                    <span class="font-poppins text-4xl font-bold tracking-tight text-gray-900">0 €</span>
+                    <span class="text-lg text-gray-500"></span>
+                </p>
+                <p class="mt-6 text-lg/7 text-gray-600">{{ T "price_table.free" }}</p>
+                <a
+                    href="{{ (page.GetPage "pages/registration").RelPermalink }}"
+                    class="bg-gradient mt-8 block rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    >{{ T "price_table.download" }}</a
+                >
+            </div>
+
+            <!-- 10 Benutzer on-premises -->
+            <div class="rounded-3xl bg-white/70 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+                <h3 id="tier-hobby" class="gradient text-lg font-bold">10 {{ T "price_table.user" }}</h3>
+                <p class="mt-4 flex items-baseline gap-x-2">
+                    <span
+                        class="font-poppins text-4xl font-bold tracking-tight text-gray-900"
+                        x-text="
+                    selectedOption === '3-year' ? '1.350 €' : 
+                    selectedOption === '2-year' ? '950 €' : 
+                    '500 €'
+                "></span>
+                </p>
+                <p
+                    class="mt-6 text-lg/7 text-gray-600"
+                    x-text="
+                selectedOption === '3-year' ? '3{{ T "price_table.yearly_license" }}' : 
+                selectedOption === '2-year' ? '2{{ T "price_table.yearly_license" }}' : 
+                '1{{ T "price_table.yearly_license" }}'
+            "></p>
+                <a :href="licenseLinks[selectedOption]" class="bg-gradient mt-8 block rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    >{{ T "price_table.buy" }}</a
+                >
+            </div>
+
+            <!-- 25 Benutzer on-premises -->
+            <div class="rounded-3xl bg-white/100 p-8 ring-1 ring-gray-900/10 sm:p-10">
+                <h3 class="gradient text-lg font-bold">25 {{ T "price_table.user" }}</h3>
+                <p class="mt-4 flex items-baseline gap-x-2">
+                    <span
+                        class="font-poppins text-4xl font-bold tracking-tight text-gray-900"
+                        x-text="
+                    selectedOption === '3-year' ? '3.375 €' : 
+                    selectedOption === '2-year' ? '2.375 €' : 
+                    '1.250 €'
+                "></span>
+                </p>
+                <p
+                    class="mt-6 text-lg/7 text-gray-600"
+                    x-text="
+                selectedOption === '3-year' ? '3{{ T "price_table.yearly_license" }}' : 
+                selectedOption === '2-year' ? '2{{ T "price_table.yearly_license" }}' : 
+                '1{{ T "price_table.yearly_license" }}'
+            "></p>
+                <a
+                    href="{{ (page.GetPage "pages/registration").RelPermalink }}"
+                    aria-describedby="tier-hobby"
+                    class="bg-gradient mt-8 block rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    >{{ T "price_table.buy" }}</a
+                >
+            </div>
+
+            <div class="relative rounded-3xl bg-gray-900 p-8 shadow-2xl ring-1 ring-gray-900/10 sm:p-10">
+                <h3 id="tier-enterprise" class="gradient text-lg font-bold">50+ {{ T "price_table.user" }}</h3>
+                <p class="mt-4 flex items-baseline gap-x-2">
+                    <span class="text-4xl font-semibold tracking-tight text-white">90 €</span>
+                    <span class="text-lg text-gray-500">/{{ T "price_table.user" }}</span>
+                </p>
+                <p
+                    class="mt-6 text-lg/7 text-gray-300"
+                    x-text="
+                selectedOption === '3-year' ? '3{{ T "price_table.yearly_license" }}' : 
+                selectedOption === '2-year' ? '2{{ T "price_table.yearly_license" }}' : 
+                '1{{ T "price_table.yearly_license" }}'
+            "></p>
+                <a
+                    href="{{ (page.GetPage "pages/contact").RelPermalink }}"
+                    aria-describedby="tier-enterprise"
+                    class="bg-gradient mt-8 block rounded-xl px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    >{{ T "price_table.contact_sales" }}</a
+                >
             </div>
         </div>
     </section>

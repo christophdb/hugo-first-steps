@@ -27,7 +27,8 @@
         {{ partial "header/basic.html" . }}
 
 
-        <main id="main-content" class="relative overflow-auto sm:overflow-visible">
+        <!-- showCloud is necessary for price page - not beautiful but working... -->
+        <main id="main-content" class="relative overflow-auto sm:overflow-visible" x-data="{ showCloud: true }">
             {{ block "main" . }}{{ end }}
         </main>
 
