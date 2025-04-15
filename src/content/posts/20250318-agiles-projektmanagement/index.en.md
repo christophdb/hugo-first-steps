@@ -6,7 +6,7 @@ lastmod: 2025-04-05T01:14:54+01:00
 categories:
     - 'General'
 tags:
-    - 'Toolings & plugins'
+    - 'Tools & Plugins'
     - 'Project Management
 color: '#1eb0e5'
 url: '/agiles-projektmanagement'

@@ -6,10 +6,10 @@ categories:
   - "Customer Story"
   - "No Code / Low Code"
 tags: 
-  - "Data management & visualization"
-  - "Digital transformation"
-  - "Integration & automation"
-  - "Low code / no code"
+  - "Data Management & Visualisation"
+  - "Digital Transformation"
+  - "Integration & Automation"
+  - "Low Code / No Code"
 color: "#469361"
 url: "/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane"
 ---

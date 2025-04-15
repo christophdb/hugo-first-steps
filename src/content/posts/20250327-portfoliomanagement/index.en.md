@@ -5,6 +5,8 @@ date: 2025-03-27
 categories:
     - 'General'
 tags:
+- "Finances"
+- "Project Management"
 color: '#bba9d3'
 url: '/portfoliomanagement'
 ---
@@ -119,7 +121,7 @@ Product portfolio management, just like project portfolio management, is a **dyn
 
 ## IT portfolio management
 
-IT portfolio management\*\* (also known as IT asset management) offers the opportunity to manage a company's IT assets systematically and with foresight. The IT portfolio can be divided into three asset categories:
+**IT portfolio management** (also known as IT asset management) offers the opportunity to manage a company's IT assets systematically and with foresight. The IT portfolio can be divided into three asset categories:
 
 1. **Software**: all software applications, operating systems and tools used
 1. **Hardware & infrastructure**: all devices, networks, servers and cloud services
@@ -145,7 +147,7 @@ Regularly review your IT portfolio to ensure it stays on track and meets busines
 
 ## Portfolio management in the financial sector
 
-In the financial sector, portfolio management consists of managing and optimizing investments and assets in a portfolio. This involves **financial investments such as shares, bonds, funds, real estate or precious metals**. The aim of portfolio management is to make a strategic selection of assets in order to achieve the highest possible return** while minimizing risk through **balanced diversification\*\*.
+In the financial sector, portfolio management consists of managing and optimizing investments and assets in a portfolio. This involves **financial investments such as shares, bonds, funds, real estate or precious metals**. The aim of portfolio management is to make a strategic selection of assets in order to achieve the highest possible return** while minimizing risk through **balanced diversification**.
 
 ![Portfolio management in the financial sector](Finanzportfoliomanagement.jpg)
 
@@ -153,7 +155,7 @@ In actively managed portfolios, the aim is to outperform the market rate of retu
 
 ### Real estate portfolio management
 
-Whether you are a private owner, a company or a municipal housing association: if you own a large number of buildings and properties, it is not easy to keep track of all the properties, rents and renovation measures\*\*. To make your real estate portfolio management as easy as possible, you can use SeaTable's free template.
+Whether you are a private owner, a company or a municipal housing association: if you own a large number of buildings and properties, it is not easy to **keep track of all the properties, rents and renovation measures**. To make your real estate portfolio management as easy as possible, you can use SeaTable's free template.
 
 {{< template id="6f9a2b4869804608978c" >}}
 

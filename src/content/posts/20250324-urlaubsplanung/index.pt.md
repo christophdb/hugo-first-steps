@@ -5,6 +5,8 @@ date: 2025-03-24
 categories: 
   - "Informações gerais"
   - "Melhores práticas"
+tags:
+- "Administração de Recursos Humanos"
 color: "#fdf505"
 url: "/pt/urlaubsplanung"
 
@@ -32,7 +34,7 @@ Por estas razões, os seus empregados devem anunciar as suas férias com pelo me
 
 Existem várias abordagens para encontrar uma distribuição justa das férias dos trabalhadores ao longo do ano. O princípio "primeiro a chegar, primeiro a ser servido" não se aplica necessariamente aos pedidos de férias. Para as férias que vários trabalhadores pretendem gozar ao mesmo tempo, é necessário ter em conta determinadas circunstâncias. Estas incluem, por exemplo, filhos em idade escolar ou compromissos de anos anteriores. Nestes casos, o superior hierárquico decidirá qual o trabalhador a que será dada prioridade.
 
-Dois trabalhadores sentam-se ao computador portátil e introduzem as suas férias] (When-your-employees-should-apply-for-leave.jpg)
+![Dois trabalhadores sentam-se ao computador portátil e introduzem as suas férias](Wann-Ihre-Mitarbeiter-Urlaub-beantragen-sollten.jpg)
 
 ## A partir do momento em que as férias são consideradas aprovadas
 

@@ -5,6 +5,8 @@ date: 2025-03-24
 categories: 
   - "Allgemein"
   - "Best Practice"
+tags:
+- "Personalverwaltung"
 color: "#fdf505"
 url: "/de/urlaubsplanung"
 

@@ -6,7 +6,6 @@ categories:
     - 'Allgemein'
 tags:
     - 'Personalverwaltung'
-    - 'Toolings & Plugins'
 color: '#f5bdd6'
 url: '/de/hris'
 ---
