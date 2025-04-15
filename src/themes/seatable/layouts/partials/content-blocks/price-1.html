@@ -2,22 +2,22 @@
 <section class="padding curved bg-gray-100" x-show="showCloud">
     <section id="price-table" class="max-container" x-data="{ isAnnual: true }">
         <div class="m-auto mb-2 flex max-w-[18rem] justify-center lg:mb-4">
-            <div class="relative flex w-full rounded-full bg-white p-1 dark:bg-slate-900">
+            <div class="relative flex w-full rounded-full bg-white p-1">
                 <span class="pointer-events-none absolute inset-0 m-1" aria-hidden="true">
                     <span
                         class="absolute inset-0 w-1/2 transform rounded-full bg-indigo-500 shadow-sm shadow-indigo-950/10 transition-transform duration-150 ease-in-out"
                         :class="isAnnual ? 'translate-x-0' : 'translate-x-full'"></span>
                 </span>
                 <button
-                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
-                    :class="isAnnual ? 'text-white' : 'text-slate-500 dark:text-slate-400'"
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300"
+                    :class="isAnnual ? 'text-white' : 'text-slate-500'"
                     @click="isAnnual = true"
                     :aria-pressed="isAnnual">
-                    {{ T "price_table.yearly" }} <span :class="isAnnual ? 'text-indigo-200' : 'text-slate-400 dark:text-slate-500'">-20%</span>
+                    {{ T "price_table.yearly" }} <span :class="isAnnual ? 'text-indigo-200' : 'text-slate-400'">-20%</span>
                 </button>
                 <button
-                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
-                    :class="isAnnual ? 'text-slate-500 dark:text-slate-400' : 'text-white'"
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300"
+                    :class="isAnnual ? 'text-slate-500' : 'text-white'"
                     @click="isAnnual = false"
                     :aria-pressed="isAnnual">
                     {{ T "price_table.monthly" }}
@@ -26,7 +26,7 @@
         </div>
 
         <div class="mx-auto mt-16 grid grid-cols-1 items-stretch gap-6 sm:mt-10 sm:gap-2 lg:grid-cols-2 xl:grid-cols-4">
-            <div class="rounded-3xl bg-white/40 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+            <div class="rounded-3xl bg-white/40 p-8 ring-1 ring-gray-900/10 sm:p-10 lg:mx-0">
                 <h3 id="tier-hobby" class="gradient text-lg font-bold">Free</h3>
                 <p class="mt-4 flex items-baseline gap-x-2">
                     <span class="font-poppins text-4xl font-bold tracking-tight text-gray-900" x-text="isAnnual ? '0 €' : '0 €'"></span>
@@ -50,7 +50,7 @@
                 </ul>
             </div>
 
-            <div class="rounded-3xl bg-white/70 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+            <div class="rounded-3xl bg-white/70 p-8 ring-1 ring-gray-900/10 sm:p-10 lg:mx-0">
                 <h3 id="tier-hobby" class="gradient text-lg font-bold">Plus</h3>
                 <p class="mt-4 flex items-baseline gap-x-2">
                     <span class="font-poppins text-4xl font-bold tracking-tight text-gray-900" x-text="isAnnual ? '7 €' : '9 €'"></span>
@@ -157,7 +157,7 @@
         '3-year': '{{ T "price_table.u10_y3" }}'
     } }">
         <div class="m-auto mb-2 flex max-w-[24rem] justify-center lg:mb-4">
-            <div class="relative flex w-full rounded-full bg-white p-1 dark:bg-slate-900">
+            <div class="relative flex w-full rounded-full bg-white p-1">
                 <!-- Active indicator (now needs to handle 3 positions) -->
                 <span class="pointer-events-none absolute inset-0 m-1" aria-hidden="true">
                     <span
@@ -171,8 +171,8 @@
 
                 <!-- 1 Year -->
                 <button
-                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
-                    :class="selectedOption === '1-year' ? 'text-white' : 'text-slate-500 dark:text-slate-400'"
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300"
+                    :class="selectedOption === '1-year' ? 'text-white' : 'text-slate-500'"
                     @click="selectedOption = '1-year'"
                     :aria-pressed="selectedOption === '1-year'">
                     1
@@ -181,27 +181,27 @@
 
                 <!-- 2 Years -->
                 <button
-                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
-                    :class="selectedOption === '2-year' ? 'text-white' : 'text-slate-500 dark:text-slate-400'"
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300"
+                    :class="selectedOption === '2-year' ? 'text-white' : 'text-slate-500 '"
                     @click="selectedOption = '2-year'"
                     :aria-pressed="selectedOption === '2-year'">
-                    2 {{ T "price_table.years" }} <span :class="selectedOption === '1-year' ? 'text-indigo-200' : 'text-slate-400 dark:text-slate-500'">-5%</span>
+                    2 {{ T "price_table.years" }} <span :class="selectedOption === '1-year' ? 'text-indigo-200' : 'text-slate-400 '">-5%</span>
                 </button>
 
                 <!-- 3 Years -->
                 <button
-                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 dark:focus-visible:ring-slate-600"
-                    :class="selectedOption === '3-year' ? 'text-white' : 'text-slate-500 dark:text-slate-400'"
+                    class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300"
+                    :class="selectedOption === '3-year' ? 'text-white' : 'text-slate-500 '"
                     @click="selectedOption = '3-year'"
                     :aria-pressed="selectedOption === '3-year'">
-                    3 {{ T "price_table.years" }} <span :class="selectedOption === '1-year' ? 'text-indigo-200' : 'text-slate-400 dark:text-slate-500'">-10%</span>
+                    3 {{ T "price_table.years" }} <span :class="selectedOption === '1-year' ? 'text-indigo-200' : 'text-slate-400 '">-10%</span>
                 </button>
             </div>
         </div>
 
         <!-- 25 Benutzer on-premises -->
         <div class="mx-auto mt-16 grid grid-cols-1 items-stretch gap-6 sm:mt-10 sm:gap-2 lg:grid-cols-2 xl:grid-cols-4">
-            <div class="rounded-3xl bg-white/40 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+            <div class="rounded-3xl bg-white/40 p-8 ring-1 ring-gray-900/10 sm:p-10 lg:mx-0">
                 <h3 id="tier-hobby" class="gradient text-lg font-bold">3 {{ T "price_table.user" }}</h3>
                 <p class="mt-4 flex items-baseline gap-x-2">
                     <span class="font-poppins text-4xl font-bold tracking-tight text-gray-900">0 €</span>
@@ -216,7 +216,7 @@
             </div>
 
             <!-- 10 Benutzer on-premises -->
-            <div class="rounded-3xl bg-white/70 p-8 ring-1 ring-gray-900/10 sm:mx-8 sm:p-10 lg:mx-0">
+            <div class="rounded-3xl bg-white/70 p-8 ring-1 ring-gray-900/10 sm:p-10 lg:mx-0">
                 <h3 id="tier-hobby" class="gradient text-lg font-bold">10 {{ T "price_table.user" }}</h3>
                 <p class="mt-4 flex items-baseline gap-x-2">
                     <span
