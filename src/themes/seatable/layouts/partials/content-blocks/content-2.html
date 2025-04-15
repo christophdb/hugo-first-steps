@@ -1,8 +1,9 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs" x-show="{{ .xshow }}">
         <pre><code>- name: "{{ .name }}"
   weight: 1
+  classes:
   title: 
   subtitle: 
   description: 
@@ -24,7 +25,8 @@
 
 
 <!-- HTML Block -->
-<section class="padding" id="{{ .name }}">
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}" x-show="{{ .xshow }}">
     <section class="max-container">
         <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
         <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>

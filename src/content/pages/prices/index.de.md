@@ -15,6 +15,37 @@ sections:
     - name: 'price-1'
       weight: 2
 
+    # details
+
+    # details on-premise
+    - name: 'content-9'
+      weight: 3
+      classes:
+          - bg-gray-100
+          - curved
+      xshow: '!showCloud'
+      title: Vorteile eines eigenen Servers
+      subtitle: Gründe für on-premises
+      items:
+          - headline: Enterprise-Funktionen
+            text: Bei Ihrem eigenen Server, gibt es keine unterschiedlichen Versionen. Sie erhalten immer den vollen Funktionsumfang von SeaTable Enterprise.
+            icon: ghost
+          - headline: Enterprise Support
+            text: Im Preis der SeaTable Enterprise Lizenz ist immer unser Enterprise Support inklusive.
+            icon: ghost
+          - headline: Customizing
+            text: Bei Ihrem SeaTable Enterprise System können Sie eine eigene URL, eigene Templates, individuelle Farbcodes sowie Rollen und Berechtigungen verwenden.
+            icon: ghost
+          - headline: Maximaler Datenschutz
+            text: SeaTable ist eine der wenigen Cloud-Lösungen, die Sie auch als On-Premises-Lösung bekommen können.<br><br>Sie lizenzieren einen SeaTable Enterprise Server und können die Server-Software dort installieren und betreiben, wo Sie wollen.
+            icon: ghost
+          - headline: Authentifizierung
+            text: SeaTable unterstützt alle gängigen Authentifizierungstechniken wie SAML, OAuth, Shibboleth, Active Directory und LDAP. Es ermöglicht Zwei-Faktor-Authentifizierung und Single Sign-on.
+            icon: ghost
+          - headline: Eigene Limits
+            text: In Ihrem System bestimmen Sie, welche API-Limits gelten sollen bzw. ob überhaupt welche gelten sollen.
+            icon: ghost
+
     - name: 'customer-1'
       weight: 9
       title: 'Weltweit vertrauen Unternehmen und Teams jeder Größe auf SeaTable'
@@ -31,7 +62,16 @@ sections:
       image: /images/image-341.png
 
     - name: faq
+      weight: 19
+      xshow: '!showCloud'
+      title: Häufig gestellte Fragen
+      items:
+          - q: Kann ich SeaTable Cloud kostenlos nutzen?
+            a: 'Mit unserem Free Abonnement können Sie SeaTable Cloud dauerhaft mit bis zu 25 Benutzern kostenfrei benutzen. Mit der Registrierung schließen Sie ein solches Abonnement ab.<br><br>Wenn Ihnen die Limite oder Funktionen des Free Abonnements nicht ausreichen, dann können Sie jederzeit ein Upgrade auf das kostenpflichtige Plus oder Enterprise Abonnement mit höheren Limits und erweiterten Funktionen durchführen.'
+
+    - name: faq
       weight: 20
+      xshow: 'showCloud'
       title: Häufig gestellte Fragen
       items:
           - q: Kann ich SeaTable Cloud kostenlos nutzen?

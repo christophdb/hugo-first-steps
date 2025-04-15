@@ -10,6 +10,7 @@ sections:
       title: SeaTable Cloud. Sur mesure pour vous.
       subtitle: Notre offre
       text: Commencez gratuitement et obtenez plus de fonctionnalités et des limites supérieures à partir de 7€ par utilisateur/mois quand vous en avez besoin
+      price_selector: 'yes'
 
     - name: 'price-1'
       weight: 2

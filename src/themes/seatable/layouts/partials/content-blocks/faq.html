@@ -1,6 +1,6 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs" x-show="{{ .xshow }}">
         <pre><code>- name: "{{ .name }}"
   weight: 1
   title: 
@@ -15,7 +15,7 @@
 
 
 <!-- HTML Block -->
-<section class="padding">
+<section class="padding" x-show="{{ .xshow }}">
     <section id="faq">
         <div class="mx-auto mb-24 max-w-[900px] text-center">
             {{ if .subtitle }}

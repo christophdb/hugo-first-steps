@@ -118,3 +118,17 @@ price_table:
     yearly_billing: 'Facturation annuelle'
     monthly_billing: 'Facturation mensuelle'
     min_100_users: 'Minimum 100 utilisateurs'
+
+    year: Année
+    years: Années
+    user: Utilisateur
+    yearly_license: '-licence annuelle'
+    download: 'Télécharger gratuitement'
+    buy: 'S’abonner maintenant'
+    free: 'Gratuit à vie'
+    u10_y1: 'https://licenses.seatable.com/b/00gcPs9kV7Zf2zK9AM'
+    u25_y1: 'https://licenses.seatable.com/b/3cs16K0Op3IZ2zK9AL'
+    u10_y2: 'https://licenses.seatable.com/b/5kA7v8dBb3IZfmw00f'
+    u25_y2: 'https://licenses.seatable.com/b/3cs8zc40Bbbrdeo6oE'
+    u10_y3: 'https://licenses.seatable.com/b/14k16K0OpfrH8Y88wK'
+    u25_y3: 'https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3'
