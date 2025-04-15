@@ -4,14 +4,13 @@ description: ''
 date: 2022-05-13
 type: 'legal'
 url: '/ru/zashchita-dannykh'
-
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This privacy policy is only available in english and german. The english translation is an non-binding, convenience translation.
+Данная политика конфиденциальности доступна только на английском и немецком языках. Перевод на английский язык является необязательным, удобным переводом.
 
-The **[German original](/de/datenschutz/)** is legally binding.
+Оригинал на **[немецком языке]({{< relref path="/pages/legal/data-privacy" lang="de">}})** является юридически обязательным.
 
 {{< /alert >}}
 

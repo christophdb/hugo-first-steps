@@ -8,9 +8,9 @@ url: '/pt/privacidade'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This privacy policy is only available in english and german. The english translation is an non-binding, convenience translation.
+Esta política de privacidade só está disponível em inglês e alemão. A tradução inglesa é uma tradução não vinculativa e de conveniência.
 
-The **[German original](/de/datenschutz/)** is legally binding.
+O **[original alemão]({{< relref path="/pages/legal/data-privacy" lang="de" >}})** é juridicamente vinculativo.
 
 {{< /alert >}}
 

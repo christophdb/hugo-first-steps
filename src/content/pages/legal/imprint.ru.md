@@ -4,13 +4,12 @@ description: ''
 date: 2025-03-24
 type: 'legal'
 url: '/ru/vykhodnye-dannye'
-
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in english and german. The english translation is an non-binding, convenience translation.
-The **[German original](/de/impressum/)** is legally binding.
+Этот оттиск доступен только на английском и немецком языках. Перевод на английский язык является необязательным, удобным переводом.
+Оригинал на **[немецком языке](/de/impressum/)** является юридически обязательным.
 
 {{< /alert >}}
 

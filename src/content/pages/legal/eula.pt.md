@@ -9,9 +9,9 @@ url: '/pt/acordo-de-licença'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in English and German. The English translation is an non-binding, convenience translation.
+Esta impressão só está disponível em inglês e alemão. A tradução inglesa é uma tradução não vinculativa e de conveniência.
 
-The **[German original](/de/lizenzvereinbarung/)** is legally binding.
+O **[original alemão](/de/lizenzvereinbarung/)** é juridicamente vinculativo.
 
 {{< /alert >}}
 

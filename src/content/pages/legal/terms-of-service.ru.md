@@ -9,8 +9,8 @@ url: '/ru/usloviya-ispolzovaniya'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-These Terms of Service are only available in English and German. The English translation is an non-binding, convenience translation.
-The **[German original](/de/nutzungsbedingungen/)** is legally binding.
+Настоящие Условия предоставления услуг доступны только на английском и немецком языках. Английский перевод является необязательным, удобным переводом.
+Оригинал на **[немецком языке] (/de/nutzungsbedingungen/)** является юридически обязательным.
 
 {{< /alert >}}
 

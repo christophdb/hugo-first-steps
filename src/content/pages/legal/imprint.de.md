@@ -1,12 +1,12 @@
 ---
-title: 'Impressum | SeaTable'
+title: 'Impressum'
 description: ''
 date: 2025-03-24
 type: 'legal'
 url: '/de/impressum'
 ---
 
-## Angaben gemäß Paragraph 5 DDG
+## Angaben gemäß Paragraph 5 TMG
 
 SeaTable GmbH  
 117er Ehrenhof 5  

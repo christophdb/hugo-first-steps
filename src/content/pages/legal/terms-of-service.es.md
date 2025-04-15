@@ -9,8 +9,8 @@ url: '/es/terminos-de-uso'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-These Terms of Service are only available in English and German. The English translation is an non-binding, convenience translation.
-The **[German original](/de/nutzungsbedingungen/)** is legally binding.
+Estas Condiciones de servicio sólo están disponibles en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
+El **[original alemán](/de/nutzungsbedingungen/)** es jurídicamente vinculante.
 
 {{< /alert >}}
 

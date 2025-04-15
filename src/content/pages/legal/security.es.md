@@ -8,9 +8,9 @@ url: '/seguridad'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in English and German. The English translation is an non-binding, convenience translation.
+Este pie de imprenta sólo está disponible en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
 
-The **[German original](/de/sicherheit/)** is legally binding.
+El **[original alemán](/de/sicherheit/)** es jurídicamente vinculante.
 
 {{< /alert >}}
 

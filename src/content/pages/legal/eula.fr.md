@@ -9,9 +9,9 @@ url: '/fr/contrat-de-licence-utilisateur-final'
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
-This imprint is only available in English and German. The English translation is an non-binding, convenience translation.
+Ces mentions légales ne sont disponibles qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
 
-The **[German original](/de/lizenzvereinbarung/)** is legally binding.
+L'**[original allemand](/de/lizenzvereinbarung/)** est juridiquement contraignant.
 
 {{< /alert >}}
 
