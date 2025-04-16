@@ -1,6 +1,6 @@
 ---
-title: 'Die beste Datenbank-Lösung für Ihr Team | Funktionen SeaTable'
-description: 'Entdecken Sie die umfangreichen Funktionen von SeaTable: Von flexiblen Tabellen bis hin zu leistungsstarken Automatisierungen.'
+title: 'The best database solution for your team | SeaTable features'
+description: 'Discover the extensive functions of SeaTable: from flexible tables to powerful automations.'
 date: '2025-03-30'
 url: '/functions'
 
