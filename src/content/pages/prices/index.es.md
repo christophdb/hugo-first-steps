@@ -10,7 +10,7 @@ sections:
       title: SeaTable Cloud. Hecho a tu medida.
       subtitle: Lo que ofrecemos
       text: Empieza gratis y obtén más funciones y límites más altos desde 7€ por usuario al mes cuando lo necesites
-      price_selector: 'yes'
+      platform_selector: 'yes'
 
     - name: 'price-1'
       weight: 2
@@ -30,8 +30,20 @@ sections:
           - text: Nos complace apoyar a personas en proyectos extraordinarios. Las organizaciones sin fines de lucro y las instituciones educativas reciben un 50% de descuento. En casos excepcionales, las asociaciones locales pueden obtener hasta un 75% de descuento en las suscripciones de SeaTable Plus y SeaTable Enterprise. Envíenos [su solicitud de descuento a través de la administración del equipo](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
       image: /images/image-341.png
 
+    - name: platform-selector
+      weight: 18
+
+    - name: faq
+      weight: 19
+      xshow: '!showCloud'
+      title: Preguntas Frecuentes
+      items:
+          - q: ¿Puedo usar SeaTable Cloud gratis?
+            a: 'Con nuestra suscripción Free puedes usar SeaTable Cloud permanentemente con hasta 25 usuarios sin costo. Al registrarte, activas esta suscripción.<br><br>Si los límites o funciones de la suscripción Free son insuficientes, puedes actualizar en cualquier momento a la suscripción de pago Plus o Enterprise con mayores límites y funciones extendidas.'
+
     - name: faq
       weight: 20
+      xshow: 'showCloud'
       title: Preguntas Frecuentes
       items:
           - q: ¿Puedo usar SeaTable Cloud gratis?

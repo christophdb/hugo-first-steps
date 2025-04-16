@@ -10,10 +10,16 @@ sections:
       title: SeaTable Cloud. Tailored to you.
       subtitle: What we offer
       text: Start for free and get more features and higher limits from €7 per user per month when you need them
-      price_selector: 'yes'
+      platform_selector: 'yes'
 
     - name: 'price-1'
       weight: 2
+
+    # details
+    # TODO: hinzufügen
+
+    # details on-premise
+    # TODO: icons anpassen und dann hinzufügen
 
     - name: 'customer-1'
       weight: 9
@@ -30,8 +36,27 @@ sections:
           - text: We are pleased to support people in great projects. Non-profit organizations and educational institutions generally receive a 50% discount. Local associations may even receive up to a 75% discount on SeaTable Plus and SeaTable Enterprise subscriptions in exceptional cases. Send us [your discount request via team management](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
       image: /images/image-341.png
 
+    - name: platform-selector
+      weight: 18
+
+    - name: faq
+      weight: 19
+      xshow: '!showCloud'
+      title: Frequently Asked Questions
+      items:
+          - q: Can I use SeaTable Cloud free of charge?
+            a: 'Ein Benutzer meint ein (aktives) Benutzerkonto auf einer SeaTable Server Instanz. Ein (aktives) Benutzerkonto erlaubt die Authentifizierung und Anmeldung am System.<br><br>
+            Eine Anmeldung und damit ein Benutzerkonto ist für folgende Aktionen notwendig:<br>
+            – Erstellung, Bearbeitung und Löschung von Bases, Apps und Webformularen<br>
+            – Erfassung, Bearbeitung und Löschung von Daten in Bases und Apps<br><br>
+            Keine Anmeldung und damit kein Benutzerkonto ist für diese Aktionen notwendig:<br>
+            – Nutzung von öffentlichen Apps<br>
+            – Zugriff auf Bases/Ansichten über externe Links<br>
+            – Einreichung von öffentlichen Webformularen'
+
     - name: faq
       weight: 20
+      xshow: 'showCloud'
       title: Frequently Asked Questions
       items:
           - q: Can I use SeaTable Cloud for free?
