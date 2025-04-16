@@ -15,6 +15,38 @@ sections:
     - name: 'price-1'
       weight: 2
 
+    # details
+    # TODO: hinzufügen
+
+    # details on-premise
+    - name: 'content-9'
+      weight: 3
+      classes:
+          - bg-gray-100
+          - curved
+      xshow: '!showCloud'
+      title: Vantagens de ter seu próprio servidor
+      subtitle: Razões para on-premises
+      items:
+          - headline: Funcionalidades Enterprise
+            text: Com seu próprio servidor, não há diferentes versões. Você sempre obtém o conjunto completo de funcionalidades do SeaTable Enterprise.
+            icon: robot
+          - headline: Suporte Enterprise
+            text: O preço da licença do SeaTable Enterprise sempre inclui nosso Suporte Enterprise.
+            icon: award
+          - headline: Personalização
+            text: Com seu sistema SeaTable Enterprise, você pode usar seu próprio URL, modelos personalizados, códigos de cores individuais, além de funções e permissões.
+            icon: paint-roller
+          - headline: Máxima Proteção de Dados
+            text: O SeaTable é uma das poucas soluções em nuvem que você também pode obter como solução on-premises.<br><br>Você licencia um SeaTable Enterprise Server e pode instalar e operar o software do servidor onde quiser.
+            icon: file-shield
+          - headline: Autenticação
+            text: O SeaTable suporta todos os métodos de autenticação comuns, como SAML, OAuth, Shibboleth, Active Directory e LDAP. Ele permite autenticação de dois fatores e Single Sign-On.
+            icon: fingerprint
+          - headline: Limites Personalizados
+            text: No seu sistema, você decide quais limites de API devem ser aplicados ou se algum limite deve ser aplicado.
+            icon: compass
+
     - name: 'customer-1'
       weight: 9
       title: 'Empresas e equipes de todos os tamanhos confiam no SeaTable em todo o mundo'
@@ -40,6 +72,40 @@ sections:
       items:
           - q: O que é um utilizador?
             a: 'Ein Benutzer meint ein'
+          - q: What is a user?
+            a: ''
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
+          - q:
+            a:
 
     - name: faq
       weight: 20
