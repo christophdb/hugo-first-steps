@@ -1,6 +1,6 @@
 <!-- Describe the block options -->
 {{ if not hugo.IsProduction }}
-    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs" x-show="{{ .xshow }}">
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs" {{ with .xshow }}x-show="{{ . }}"{{ end }}>
         <pre><code>- name: "{{ .name }}"
   weight: 1
   title: 
@@ -26,7 +26,7 @@
 <!-- HTML Block -->
 {{ $defaultClasses := slice "curved" "bg-gray-100" }}
 {{ $classes := .classes | default $defaultClasses }}
-<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}" x-show="{{ .xshow }}">
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}" {{ with .xshow }}x-show="{{ . }}"{{ end }}>
     <section class="max-container">
         <div class="mx-auto max-w-3xl text-center">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
