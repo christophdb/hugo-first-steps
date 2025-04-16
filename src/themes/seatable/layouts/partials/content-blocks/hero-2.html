@@ -40,32 +40,8 @@
             </div>
         {{ end }}
 
-        {{ if .price_selector }}
-            <div class="max-auto mt-12 text-center">
-                <div class="m-auto mb-2 flex max-w-[24rem] justify-center lg:mb-4">
-                    <div class="relative flex w-full rounded-full bg-gray-200 p-4">
-                        <span class="pointer-events-none absolute inset-0 m-1" aria-hidden="true">
-                            <span
-                                class="absolute inset-0 w-1/2 transform rounded-full bg-indigo-500 shadow-sm shadow-indigo-950/10 transition-transform duration-150 ease-in-out"
-                                :class="showCloud ? 'translate-x-0' : 'translate-x-full'"></span>
-                        </span>
-                        <button
-                            class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300"
-                            :class="showCloud ? 'text-white' : 'text-slate-500 '"
-                            @click="showCloud = true"
-                            :aria-pressed="showCloud">
-                            <strong>Cloud</strong> (we host)
-                        </button>
-                        <button
-                            class="relative h-8 flex-1 rounded-full text-base font-medium transition-colors duration-150 ease-in-out focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300"
-                            :class="showCloud ? 'text-slate-500 ' : 'text-white'"
-                            @click="showCloud = false"
-                            :aria-pressed="showCloud">
-                            <strong>Self-Host</strong> (you host)
-                        </button>
-                    </div>
-                </div>
-            </div>
+        {{ if .platform_selector }}
+            {{ partial "content-blocks/platform-selector.html" . }}
         {{ end }}
 
     </section>

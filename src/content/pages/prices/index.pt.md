@@ -10,7 +10,7 @@ sections:
       title: SeaTable Cloud. Feito sob medida para você.
       subtitle: O que oferecemos
       text: Comece gratuitamente e obtenha mais recursos e limites maiores a partir de € 7 por usuário/mês quando precisar
-      price_selector: 'yes'
+      platform_selector: 'yes'
 
     - name: 'price-1'
       weight: 2
@@ -30,8 +30,20 @@ sections:
           - text: Temos prazer em apoiar pessoas em projetos extraordinários. Organizações sem fins lucrativos e instituições de ensino recebem 50% de desconto. Em casos excepcionais, associações locais podem obter até 75% de desconto nas assinaturas do SeaTable Plus e SeaTable Enterprise. Envie-nos [sua solicitação de desconto via gerenciamento de equipe](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
       image: /images/image-341.png
 
+    - name: platform-selector
+      weight: 18
+
+    - name: faq
+      weight: 19
+      xshow: '!showCloud'
+      title: Perguntas Frequentes
+      items:
+          - q: O que é um utilizador?
+            a: 'Ein Benutzer meint ein'
+
     - name: faq
       weight: 20
+      xshow: 'showCloud'
       title: Perguntas Frequentes
       items:
           - q: Posso usar o SeaTable Cloud gratuitamente?

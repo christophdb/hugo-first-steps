@@ -10,7 +10,7 @@ sections:
       title: SeaTable Cloud. Индивидуальное решение для вас.
       subtitle: Что мы предлагаем
       text: Начните бесплатно и получите больше функций и увеличенные лимиты от 7 € за пользователя в месяц при необходимости
-      price_selector: 'yes'
+      platform_selector: 'yes'
 
     - name: 'price-1'
       weight: 2
@@ -30,8 +30,20 @@ sections:
           - text: Мы рады поддерживать людей в их важных проектах. Некоммерческие организации и учебные заведения получают 50% скидку. В исключительных случаях местные объединения могут получить до 75% скидки на подписки SeaTable Plus и SeaTable Enterprise. Отправьте нам [запрос на скидку через управление командой](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
       image: /images/image-341.png
 
+    - name: platform-selector
+      weight: 18
+
+    - name: faq
+      weight: 19
+      xshow: '!showCloud'
+      title: Часто задаваемые вопросы
+      items:
+          - q: Что такое пользователь?
+            a: 'Ein Benutzer meint ein'
+
     - name: faq
       weight: 20
+      xshow: 'showCloud'
       title: Часто задаваемые вопросы
       items:
           - q: Можно ли использовать SeaTable Cloud бесплатно?
