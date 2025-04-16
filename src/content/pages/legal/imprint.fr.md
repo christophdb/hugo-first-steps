@@ -9,7 +9,7 @@ url: '/fr/mentions-legales'
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 Cette impression n'est disponible qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
-Le **[original allemand](/de/impressum/)** est légalement contraignant.
+Le **[original allemand]({{< relref path="pages/legal/imprint" lang="de" >}})** est légalement contraignant.
 
 {{< /alert >}}
 

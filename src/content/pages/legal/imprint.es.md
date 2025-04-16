@@ -9,7 +9,7 @@ url: '/es/aviso-legal'
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 Este sello sólo está disponible en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
-El **[original alemán](/de/impressum/)** es jurídicamente vinculante.
+El **[original alemán]({{< relref path="pages/legal/imprint" lang="de" >}})** es jurídicamente vinculante.
 
 {{< /alert >}}
 

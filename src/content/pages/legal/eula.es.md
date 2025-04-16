@@ -11,7 +11,7 @@ url: '/es/acuerdo-de-licencia'
 
 Este pie de imprenta sólo está disponible en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
 
-El **[original alemán](/de/lizenzvereinbarung/)** es jurídicamente vinculante.
+El **[original alemán]({{< relref path="pages/legal/eula" lang="de" >}})** es jurídicamente vinculante.
 
 {{< /alert >}}
 

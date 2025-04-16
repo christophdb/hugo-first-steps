@@ -10,7 +10,7 @@ url: '/terms-of-service'
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 These Terms of Service are only available in English and German. The English translation is an non-binding, convenience translation.
-The **[German original](/de/nutzungsbedingungen/)** is legally binding.
+The **[German original]({{< relref path="pages/legal/terms-of-service" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 

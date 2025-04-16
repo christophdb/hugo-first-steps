@@ -10,7 +10,7 @@ url: '/fr/protection-de-donnees'
 
 Ces protection de données n'est disponible qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
 
-L'**[original allemand](/de/datenschutz/)** est juridiquement contraignant.
+L'**[original allemand]({{< relref path="pages/legal/data-privacy" lang="de" >}})** est juridiquement contraignant.
 
 {{< /alert >}}
 

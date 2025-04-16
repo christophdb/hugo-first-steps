@@ -10,7 +10,7 @@ url: '/securite'
 
 Ces mentions légales ne sont disponibles qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
 
-L'**[original allemand](/de/sicherheit/)** est juridiquement contraignant.
+L'**[original allemand]({{< relref path="pages/legal/security" lang="de" >}})** est juridiquement contraignant.
 
 {{< /alert >}}
 

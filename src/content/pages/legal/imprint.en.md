@@ -9,7 +9,7 @@ url: '/imprint'
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 This imprint is only available in english and german. The english translation is an non-binding, convenience translation.
-The **[German original](/de/impressum/)** is legally binding.
+The **[German original]({{< relref path="pages/legal/imprint" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 
