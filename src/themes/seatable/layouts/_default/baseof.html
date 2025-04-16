@@ -241,6 +241,15 @@
             {{ end }}
 
             document.addEventListener('alpine:init', () => {
+                const params = new URLSearchParams(window.location.search);
+
+                // Check if the URL has a force_language query parameter
+                if (params.has('force_language')) {
+                    // Update local storage
+                    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(params.get('force_language')));
+                    return;
+                }
+
                 // Check local storage first
                 const language = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
 

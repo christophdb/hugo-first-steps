@@ -1,0 +1,6 @@
+<!-- Based on https://github.com/gohugoio/hugo/blob/64cf008880e48a5f7ea82be30bf87d8077ebb85b/tpl/tplimpl/embedded/templates/_shortcodes/relref.html -->
+{{- if .Get "lang" -}}
+    {{ relref . .Params }}?force_language={{ .Get "lang" }}
+{{- else -}}
+    {{ relref . .Params }}
+{{- end -}}
