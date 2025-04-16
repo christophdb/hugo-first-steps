@@ -9,7 +9,7 @@ url: '/pt/informacoes-legais'
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 Esta impressão só está disponível em inglês e alemão. A tradução inglesa é uma tradução de conveniência, não vinculativa.
-O **[original alemão](/de/impressum/)** é juridicamente vinculativo.
+O **[original alemão]({{< relref path="pages/legal/imprint" lang="de" >}})** é juridicamente vinculativo.
 
 {{< /alert >}}
 

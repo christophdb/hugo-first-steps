@@ -10,7 +10,7 @@ url: '/fr/conditions-d-utilisation'
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 Les présentes conditions d'utilisation ne sont disponibles qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
-La **[version originale allemande](/de/nutzungsbedingungen/)** est juridiquement contraignante.
+La **[version originale allemande]({{< relref path="pages/legal/terms-of-service" lang="de" >}})** est juridiquement contraignante.
 
 {{< /alert >}}
 

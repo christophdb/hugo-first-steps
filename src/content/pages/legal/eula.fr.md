@@ -11,7 +11,7 @@ url: '/fr/contrat-de-licence-utilisateur-final'
 
 Ces mentions légales ne sont disponibles qu'en anglais et en allemand. La traduction anglaise est une traduction de commodité non contraignante.
 
-L'**[original allemand](/de/lizenzvereinbarung/)** est juridiquement contraignant.
+L'**[original allemand]({{< relref path="pages/legal/eula" lang="de" >}})** est juridiquement contraignant.
 
 {{< /alert >}}
 

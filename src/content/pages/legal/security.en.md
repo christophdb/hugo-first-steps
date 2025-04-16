@@ -10,7 +10,7 @@ url: '/security'
 
 This imprint is only available in English and German. The English translation is an non-binding, convenience translation.
 
-The **[German original](/de/sicherheit/)** is legally binding.
+The **[German original]({{< relref path="pages/legal/security" lang="de" >}})** is legally binding.
 
 {{< /alert >}}
 

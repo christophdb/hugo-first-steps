@@ -10,7 +10,7 @@ url: '/seguridad'
 
 Este pie de imprenta sólo está disponible en inglés y alemán. La traducción al inglés es una traducción de conveniencia no vinculante.
 
-El **[original alemán](/de/sicherheit/)** es jurídicamente vinculante.
+El **[original alemán]({{< relref path="pages/legal/security" lang="de" >}})** es jurídicamente vinculante.
 
 {{< /alert >}}
 

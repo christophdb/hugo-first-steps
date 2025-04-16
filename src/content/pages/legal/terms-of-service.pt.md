@@ -10,7 +10,7 @@ url: '/pt/termos-de-uso'
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
 Estes Termos de Serviço estão disponíveis apenas em inglês e alemão. A tradução inglesa é uma tradução não vinculativa e de conveniência.
-O **[original alemão](/de/nutzungsbedingungen/)** é juridicamente vinculativo.
+O **[original alemão]({{< relref path="pages/legal/terms-of-service" lang="de" >}})** é juridicamente vinculativo.
 
 {{< /alert >}}
 
