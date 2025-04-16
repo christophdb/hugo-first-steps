@@ -15,6 +15,38 @@ sections:
     - name: 'price-1'
       weight: 2
 
+    # details
+    # TODO: hinzufügen
+
+    # details on-premise
+    - name: 'content-9'
+      weight: 3
+      classes:
+          - bg-gray-100
+          - curved
+      xshow: '!showCloud'
+      title: Ventajas de tener su propio servidor
+      subtitle: Razones para on-premises
+      items:
+          - headline: Funcionalidades Enterprise
+            text: Con su propio servidor, no hay diferentes versiones. Siempre obtiene la gama completa de funciones de SeaTable Enterprise.
+            icon: robot
+          - headline: Soporte Enterprise
+            text: El precio de la licencia de SeaTable Enterprise siempre incluye nuestro soporte Enterprise.
+            icon: award
+          - headline: Personalización
+            text: Con su sistema SeaTable Enterprise, puede utilizar su propia URL, plantillas personalizadas, códigos de color individuales, así como roles y permisos.
+            icon: paint-roller
+          - headline: Máxima Protección de Datos
+            text: SeaTable es una de las pocas soluciones en la nube que también puede obtener como solución on-premises.<br><br>Usted licencia un SeaTable Enterprise Server y puede instalar y operar el software del servidor donde quiera.
+            icon: file-shield
+          - headline: Autenticación
+            text: SeaTable es compatible con todos los métodos de autenticación comunes como SAML, OAuth, Shibboleth, Active Directory y LDAP. Permite la autenticación de dos factores y el inicio de sesión único (Single Sign-On).
+            icon: fingerprint
+          - headline: Límites Personalizados
+            text: En su sistema, usted decide qué límites de API deben aplicarse o si debe aplicarse alguno.
+            icon: compass
+
     - name: 'customer-1'
       weight: 9
       title: 'Empresas y equipos de todos los tamaños confían en SeaTable en todo el mundo'
@@ -38,8 +70,47 @@ sections:
       xshow: '!showCloud'
       title: Preguntas Frecuentes
       items:
-          - q: ¿Puedo usar SeaTable Cloud gratis?
-            a: 'Con nuestra suscripción Free puedes usar SeaTable Cloud permanentemente con hasta 25 usuarios sin costo. Al registrarte, activas esta suscripción.<br><br>Si los límites o funciones de la suscripción Free son insuficientes, puedes actualizar en cualquier momento a la suscripción de pago Plus o Enterprise con mayores límites y funciones extendidas.'
+          - q: ¿Qué es un usuario?
+            a: 'Un usuario significa una cuenta de usuario (activa) en una instancia del Servidor SeaTable. Una cuenta de usuario (activa) permite la autenticación y el inicio de sesión en el sistema.<br><br>
+            Se requiere un inicio de sesión y, por lo tanto, una cuenta de usuario para las siguientes acciones:<br>
+            – Crear, editar y eliminar bases, apps y formularios web<br>
+            – Introducir, editar y borrar datos en bases y apps<br><br>
+            No es necesario iniciar sesión y, por tanto, no se requiere cuenta de usuario para estas acciones:<br>
+            – Uso de apps públicas<br>
+            – Acceso a bases/vistas a través de enlaces externos<br>
+            – Envío de formularios web públicos'
+          - q: ¿Qué es un usuario inactivo?
+            a: Por usuario inactivo se entiende una cuenta de usuario que se ha configurado como inactiva y que no permite iniciar sesión en el sistema. Los usuarios inactivos no cuentan para la licencia y ésta no limita el número de usuarios inactivos. El estado de actividad de un usuario puede ser modificado por un administrador del sistema en cualquier momento.
+          - q: ¿Qué métodos de pago puedo utilizar?
+            a: Puedes pagar con tarjeta de crédito, Apple Pay y Google Pay. También puedes pagar licencias para 50 usuarios y más mediante transferencia bancaria.
+          - q: ¿Puedo adquirir una licencia para SeaTable Server sin renovación automática?
+            a: Si desea adquirir una licencia de SeaTable Server sin renovación automática de la licencia, adquiera una licencia con renovación automática y desactive la renovación automática en el [Portal de Gestión de Suscripciones de SeaTable Server](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000) inmediatamente después de la compra.
+          - q: ¿Cómo puedo cancelar la renovación automática de la licencia SeaTable Server?
+            a: Puede desactivar la renovación automática en cualquier momento en el [Portal de Gestión de Suscripciones de SeaTable Server](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000).
+          - q: ¿Cómo puedo personalizar la dirección de facturación?
+            a: Puede cambiar la dirección de facturación en cualquier momento en el [Portal de Gestión de Suscripciones de SeaTable Server](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000).<br><br>No es posible modificar una factura a posteriori.
+          - q: ¿Puedo cambiar el tamaño de una licencia de SeaTable Server en funcionamiento?
+            a: Puede ampliar una licencia de SeaTable Server para 50 usuarios o más en cualquier momento. Póngase en contacto con sales@seatable.io e indique la clave de licencia y el número de usuarios deseado. El precio de la licencia para los usuarios adicionales se calcula pro rata temporis.<br><br>Una licencia SeaTable Server para 10 y 25 usuarios no puede aumentarse durante el periodo de vigencia. Si necesita más usuarios, deberá adquirir una nueva licencia.<br><br>No es posible combinar varias licencias. Una instancia de SeaTable Server solo puede conectarse a una licencia.
+          - q: ¿Puedo combinar varias licencias de SeaTable Server?
+            a: No es posible combinar varias licencias de SeaTable Server. Sólo se activa una licencia en una instancia de SeaTable Server.
+          - q: ¿Cómo funciona la renovación automática?
+            a: Recibirá un correo electrónico unos 30 días antes de que caduque su licencia de SeaTable Server informándole de la próxima renovación. El correo electrónico explicará cuándo tendrá lugar la renovación y qué método de pago se utilizará. El correo electrónico también contendrá un enlace al [Portal de Gestión de Suscripciones de SeaTable Server](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000). Allí podrá cambiar la dirección de facturación y el método de pago. Tras la renovación, recibirá la factura y los documentos de la licencia por correo electrónico. Para activar la licencia renovada, cargue el archivo de licencia en su instancia de SeaTable Server.
+          - q: ¿Puedo especificar un número de pedido o un centro de costes al comprar una licencia?
+            a: "Si necesita una referencia en la factura, póngase en contacto con sales@seatable.io. Incluya la siguiente información en su consulta: Número de usuarios, dirección de facturación, NIF, correo electrónico de contacto y correo electrónico de facturación, si procede. Recibirá una oferta por correo electrónico. Indíquenos la referencia al confirmar la oferta. La referencia se mencionará en la factura."
+          - q: ¿Tengo descuento como organismo público o como organización sin ánimo de lucro?
+            a: Las instituciones públicas y las organizaciones sin ánimo de lucro disfrutan de un descuento en las licencias de SeaTable Server. Póngase en contacto con [nuestro departamento de ventas]({{< relref "pages/contact" >}}).<br><br>Las licencias SeaTable Server para 10 y 25 usuarios no suelen estar sujetas a ningún descuento.
+          - q: ¿Para qué periodos de licencia puedo adquirir una licencia para SeaTable Server?
+            a: La duración mínima de una licencia de software para SeaTable Server es de 1 año. También puede adquirir licencias con plazos de 2 y 3 años. Ahorra un 5% o un 10% en licencias con plazos de 2 o 3 años.<br><br>Por lo general, el canon de licencia se factura y vence al principio del periodo de licencia por la totalidad del plazo.<br><br>Para licencias con un plazo más largo, póngase en contacto con [nuestro departamento de ventas]({{< relref "pages/contact" >}}) e indique el plazo deseado y el número de usuarios. Recibirá una oferta por correo electrónico.
+          - q: ¿Cómo activo la licencia para SeaTable Server?
+            a: Debe tomar medidas para activar la licencia. Inicie sesión en su instancia de SeaTable Server como usuario con derechos de administrador y acceda a la administración del sistema. Para ello, haga clic en su avatar en la esquina superior derecha de la página de inicio. Puede cargar el archivo de licencia en el área de información de la administración del sistema. El periodo de validez de la licencia se mostrará inmediatamente en el área de información.<br><br>Si la interfaz web de su instancia de SeaTable Server ya no es accesible, debe guardar el archivo de licencia en el sistema de archivos del host. Encontrará más información en el [Manual de administración de SeaTable](https://admin.seatable.io).
+          - q: ¿Qué derechos me otorga la licencia del software SeaTable Server?
+            a: Una licencia de software para SeaTable es la autorización para que el licenciatario utilice SeaTable Server. Los derechos de uso otorgados por la licencia y otros derechos se pueden encontrar en el [EULA de SeaTable Server Enterprise Edition]({{< relref "pages/legal/eula" >}}).
+          - q: ¿Es transferible una licencia?
+            a: El [EULA de SeaTable Server Enterprise Edition]({{< relref "pages/legal/eula" >}}) excluye la transferencia de derechos de uso. No podrá vender ni ceder una licencia.
+          - q: ¿Puedo adquirir también una licencia para SeaTable Server a través de un distribuidor?
+            a: Sólo puede adquirir licencias de SeaTable Server directamente de SeaTable GmbH.
+          - q: ¿Cuáles son los requisitos mínimos para utilizar SeaTable Server?
+            a: Consulte el [Manual de administración de SeaTable](https://admin.seatable.io) para todas las cuestiones técnicas.
 
     - name: faq
       weight: 20

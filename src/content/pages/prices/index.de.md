@@ -30,22 +30,22 @@ sections:
       items:
           - headline: Enterprise-Funktionen
             text: Bei Ihrem eigenen Server, gibt es keine unterschiedlichen Versionen. Sie erhalten immer den vollen Funktionsumfang von SeaTable Enterprise.
-            icon: ghost
+            icon: robot
           - headline: Enterprise Support
             text: Im Preis der SeaTable Enterprise Lizenz ist immer unser Enterprise Support inklusive.
-            icon: ghost
+            icon: award
           - headline: Customizing
             text: Bei Ihrem SeaTable Enterprise System können Sie eine eigene URL, eigene Templates, individuelle Farbcodes sowie Rollen und Berechtigungen verwenden.
-            icon: ghost
+            icon: paint-roller
           - headline: Maximaler Datenschutz
             text: SeaTable ist eine der wenigen Cloud-Lösungen, die Sie auch als On-Premises-Lösung bekommen können.<br><br>Sie lizenzieren einen SeaTable Enterprise Server und können die Server-Software dort installieren und betreiben, wo Sie wollen.
-            icon: ghost
+            icon: file-shield
           - headline: Authentifizierung
             text: SeaTable unterstützt alle gängigen Authentifizierungstechniken wie SAML, OAuth, Shibboleth, Active Directory und LDAP. Es ermöglicht Zwei-Faktor-Authentifizierung und Single Sign-on.
-            icon: ghost
+            icon: fingerprint
           - headline: Eigene Limits
             text: In Ihrem System bestimmen Sie, welche API-Limits gelten sollen bzw. ob überhaupt welche gelten sollen.
-            icon: ghost
+            icon: compass
 
     - name: 'customer-1'
       weight: 9

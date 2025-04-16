@@ -19,7 +19,33 @@ sections:
     # TODO: hinzufügen
 
     # details on-premise
-    # TODO: icons anpassen und dann hinzufügen
+    - name: 'content-9'
+      weight: 3
+      classes:
+          - bg-gray-100
+          - curved
+      xshow: '!showCloud'
+      title: Advantages of your own server
+      subtitle: Reasons for on-premises
+      items:
+          - headline: Enterprise Features
+            text: With your own server, there are no different versions. You always get the full range of features from SeaTable Enterprise.
+            icon: robot
+          - headline: Enterprise Support
+            text: The price of the SeaTable Enterprise license always includes our Enterprise Support.
+            icon: award
+          - headline: Customization
+            text: With your SeaTable Enterprise system, you can use your own URL, custom templates, individual color codes, as well as roles and permissions.
+            icon: paint-roller
+          - headline: Maximum Data Protection
+            text: SeaTable is one of the few cloud solutions that you can also get as an on-premises solution.<br><br>You license a SeaTable Enterprise Server and can install and operate the server software wherever you want.
+            icon: file-shield
+          - headline: Authentication
+            text: SeaTable supports all common authentication methods such as SAML, OAuth, Shibboleth, Active Directory, and LDAP. It enables two-factor authentication and single sign-on.
+            icon: fingerprint
+          - headline: Custom Limits
+            text: In your system, you decide which API limits should apply or whether any should apply at all.
+            icon: compass
 
     - name: 'customer-1'
       weight: 9
@@ -44,15 +70,47 @@ sections:
       xshow: '!showCloud'
       title: Frequently Asked Questions
       items:
-          - q: Can I use SeaTable Cloud free of charge?
-            a: 'Ein Benutzer meint ein (aktives) Benutzerkonto auf einer SeaTable Server Instanz. Ein (aktives) Benutzerkonto erlaubt die Authentifizierung und Anmeldung am System.<br><br>
-            Eine Anmeldung und damit ein Benutzerkonto ist für folgende Aktionen notwendig:<br>
-            – Erstellung, Bearbeitung und Löschung von Bases, Apps und Webformularen<br>
-            – Erfassung, Bearbeitung und Löschung von Daten in Bases und Apps<br><br>
-            Keine Anmeldung und damit kein Benutzerkonto ist für diese Aktionen notwendig:<br>
-            – Nutzung von öffentlichen Apps<br>
-            – Zugriff auf Bases/Ansichten über externe Links<br>
-            – Einreichung von öffentlichen Webformularen'
+          - q: What is a user?
+            a: 'A user means an (active) user account on a SeaTable Server instance. An (active) user account allows authentication and login to the system.<br><br>
+            A login and thus a user account is required for the following actions:<br>
+            – Creating, editing and deleting bases, apps and web forms<br>
+            – Entering, editing and deleting data in bases and apps<br><br>
+            No login and therefore no user account is required for these actions:<br>
+            – Use of public apps<br>
+            – Accessing bases/views via external links<br>
+            – Submission of public web forms'
+          - q: What is an inactive user?
+            a: An inactive user means a user account that has been set to inactive and that does not allow logging in to the system. Inactive users do not count against the license and the license does not limit the number of inactive users. The activity status of a user can be changed by a system administrator at any time.
+          - q: Which payment methods can I use?
+            a: You can always pay by credit card as well as with Apple Pay and Google Pay. You can also pay for licenses for 50 users and more by bank transfer.
+          - q: Can I purchase a license for SeaTable Server without automatic renewal?
+            a: If you want to purchase a SeaTable Server license without automatic renewal of the license, please purchase a license with automatic renewal and deactivate the automatic renewal in the [SeaTable Server Subscription Management Portal](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000) immediately after purchase.
+          - q: How can I cancel the automatic renewal of the SeaTable Server license?
+            a: You can deactivate automatic renewal at any time in the [SeaTable Server Subscription Management Portal](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000).
+          - q: How can I change the billing address?
+            a: You can change the billing address at any time in the [SeaTable Server Subscription Management Portal](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000).<br><br>It is not possible to change an invoice retrospectively.
+          - q: Can I change the size of a running SeaTable Server license?
+            a: You can extend a SeaTable Server license for 50 users or more at any time. Please contact sales@seatable.io and state the license key and the desired number of users. The license price for the additional users is calculated pro rata temporis.<br><br>A SeaTable Server license for 10 and 25 users cannot be extended during the term. If you need more users, you must purchase a new license.<br><br>It is not possible to combine multiple licenses. A SeaTable Server instance can only be connected to one license.
+          - q: Can I combine multiple SeaTable Server licenses?
+            a: It is not possible to combine multiple SeaTable Server licenses. Only one license is activated on a SeaTable Server instance at a time.
+          - q: How does automatic renewal work?
+            a: About 30 days before your SeaTable Server license expires, you will receive an email notifying you of the upcoming renewal. The e-mail will explain when the renewal will take place and which payment method will be used. The email will also contain a link to the [SeaTable Server Subscription Management Portal](https://licenses.seatable.com/p/login/5kA4j61uU641eqY000). There you can change the billing address and payment method. After the renewal, you will receive the invoice and the license documents by e-mail. To activate the renewed license, upload the license file to your SeaTable Server instance.
+          - q: Can I specify an order number or cost center when purchasing a license?
+            a: 'If you require a reference on the invoice, please contact sales@seatable.io. Please include the following information in your request: Number of users, billing address, VAT ID, contact e-mail and invoice e-mail if applicable. You will then receive an offer by e-mail. Please provide us with the reference when confirming the offer. The reference will then be mentioned on the invoice.'
+          - q: Do I get a discount as a public body or as a non-profit organization?
+            a: Public institutions and non-profit organizations receive a discount on SeaTable Server licenses. Please contact [our sales department]({{< relref "pages/contact" >}}).<br><br>SeaTable Server licenses for 10 and 25 users are generally not discounted.
+          - q: For which license periods can I purchase a license for SeaTable Server?
+            a: The minimum term of a software license for SeaTable Server is 1 year. You can also purchase licenses with terms of 2 and 3 years. You save 5% or 10% on licenses with 2 or 3-year terms.<br><br>The license fee is generally invoiced and due at the beginning of the license period for the entire term.<br><br>For licenses with a longer term, please contact [our sales department]({{< relref "pages/contact" >}}) and state the desired term and number of users. You will then receive an offer by e-mail.
+          - q: How do I activate the license for SeaTable Server?
+            a: You must take action to activate the license! Log in to your SeaTable Server instance as a user with administrator rights and call up the system administration. To do this, click on your avatar in the top right-hand corner of the start page. You can upload the license file in the info area of the system administration. The license period of the license is then immediately displayed in the info area.<br><br>If the web interface of your SeaTable Server instance is no longer accessible, you must save the license file in the file system of the host. You can find more information in the [SeaTable Admin Manual](https://admin.seatable.io).
+          - q: What rights does the software license for SeaTable Server give me?
+            a: A software license for SeaTable is the authorization for the licensee to use SeaTable Server. The rights of use granted by the license and other rights can be found in the [SeaTable Server Enterprise Edition EULA]({{< relref "pages/legal/eula" >}}).
+          - q: Is a license transferable?
+            a: The [SeaTable Server Enterprise Edition EULA]({{< relref "pages/legal/eula" >}}) excludes the transfer of rights of use. You may not sell or assign a license.
+          - q: Can I also purchase a license for SeaTable Server from a dealer?
+            a: You can only purchase SeaTable Server licenses directly from SeaTable GmbH.
+          - q: What are the minimum requirements for operating SeaTable Server?
+            a: Consult the [SeaTable Admin Manual](https://admin.seatable.io) for all technical questions.
 
     - name: faq
       weight: 20
