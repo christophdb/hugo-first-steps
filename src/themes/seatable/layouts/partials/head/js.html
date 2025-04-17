@@ -15,6 +15,13 @@
         // Enable debug mode (logs everything to the browser console)
         window._mtm = window._mtm || [];
         window._mtm.push(['enableDebugMode']);
+
+        // Enable preview mode
+        // TODO: Check why this does not work with the MTM query parameters
+        // Issue: Hugo automatically refreshes the page, which causes the query parameters to be gone and the cookie won't be set
+        // Workaround: Manually set the cookie
+        const containerId = 'g4kOtYep';
+        document.cookie = `mtmPreviewMode=mtmPreview6_${containerId}%3D1; max-age=3600; path=/; domain=localhost; SameSite=Lax; Secure`;
     </script>
 {{- else -}}
     <!-- Matomo Tag Manager (production environment) -->
