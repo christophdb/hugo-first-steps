@@ -36,7 +36,7 @@ La situation est différente si vous utilisez la voiture **moins de la moitié d
 
 Si vous utilisez une voiture de société également à titre privé, il est important de **documenter consciencieusement chaque trajet** afin de pouvoir déclarer correctement l'avantage en nature. Une saisie en temps réel est à cet égard indispensable : l'idéal est de noter les détails directement après chaque trajet ou au plus tard à la fin de la journée. Vous éviterez ainsi les erreurs et les manipulations et garderez toujours une vue d'ensemble de vos trajets.
 
-![Un compteur de vitesse avec le kilométrage est montré, dont vous avez besoin si vous tenez un carnet de route](die-fahrenen-Kilometer-anzugeben.jpg 'Pour chaque trajet, les kilomètres parcourus doivent être indiqués dans le carnet de route').
+![Un compteur de vitesse avec le kilométrage est montré, dont vous avez besoin si vous tenez un carnet de route](die-gefahrenen-Kilometer-anzugeben.jpg 'Pour chaque trajet, les kilomètres parcourus doivent être indiqués dans le carnet de route.')
 
 Un livre de bord conforme aux exigences de la GoBD (principes de comptabilité en bonne et due forme) exige, pour les **déplacements professionnels**, la documentation des informations suivantes :
 
