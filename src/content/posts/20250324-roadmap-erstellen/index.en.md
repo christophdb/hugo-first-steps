@@ -92,7 +92,7 @@ Jira offers a powerful roadmap tool that has been specially developed for agile 
 
 ### Project management and roadmap tools such as SeaTable
 
-Other providers also provide directly usable roadmap templates that enable data collection and visualization in one. Reputable [project management](https://seatable.com/projektmanagement-tools/) roadmap tools such as SeaTable rely on **individually customizable templates** that you can tailor precisely to your requirements and show you a preview of the features you can expect before downloading. This way you avoid buying the proverbial pig in a poke.
+Other providers also provide directly usable roadmap templates that enable data collection and visualization in one. Reputable [project management](https://({{< relref "pages/industry-solutions/project-management" >}})) roadmap tools such as SeaTable rely on **individually customizable templates** that you can tailor precisely to your requirements and show you a preview of the features you can expect before downloading. This way you avoid buying the proverbial pig in a poke.
 
 In addition, a good tool should allow multiple display types such as calendars, timelines, Gantt or flow charts so that the data can be prepared individually for different people and purposes. It is important that you have exactly the **key functions** at hand that you need for your work.
 

@@ -94,7 +94,7 @@ Jira offre un outil de feuille de route puissant, spécialement conçu pour les 
 
 ### Outils de gestion de projet et de feuille de route comme SeaTable
 
-D'autres fournisseurs proposent en outre des modèles de feuilles de route directement utilisables, qui permettent à la fois de collecter des données et de les visualiser. Les outils de roadmap [gestion de projet](https://seatable.com/projektmanagement-tools/) sérieux comme SeaTable misent sur des modèles **personnalisables** que vous pouvez adapter exactement à vos besoins et vous montrent, avant même le téléchargement, un aperçu des fonctionnalités qui vous attendent. Vous évitez ainsi d'acheter un chat dans un sac.
+D'autres fournisseurs proposent en outre des modèles de feuilles de route directement utilisables, qui permettent à la fois de collecter des données et de les visualiser. Les outils de roadmap [gestion de projet](https://({{< relref "pages/industry-solutions/project-management" >}})) sérieux comme SeaTable misent sur des modèles **personnalisables** que vous pouvez adapter exactement à vos besoins et vous montrent, avant même le téléchargement, un aperçu des fonctionnalités qui vous attendent. Vous évitez ainsi d'acheter un chat dans un sac.
 
 En outre, un bon outil doit permettre plusieurs types de représentation, comme des calendriers, des lignes de temps, des diagrammes de Gantt ou des organigrammes, afin de pouvoir préparer les données de manière individuelle pour différentes personnes et à différentes fins. L'important est d'avoir à portée de main exactement les **fonctions clés** dont vous avez besoin pour votre travail.
 
