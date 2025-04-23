@@ -1,57 +1,59 @@
-<div class="bg-[#f8f4f2]  pt-8 pb-16 padding-x">
+<div class="padding-x bg-[#f8f4f2] pb-16 pt-8">
     <div class="max-container mt-8 w-full">
-        <div class="flex flex-wrap justify-between gap-2 ">
-            <div class="lg:w-1/3 w-full">
+        <div class="flex flex-wrap justify-between gap-2">
+            <div class="w-full lg:w-1/3">
                 <a href="{{ "/" | relLangURL }}"><img src="/images/seatable-logo.svg" alt="Logo" width="130" height="29" /></a>
-                <p class="text-lg my-8 lg:max-w-60 w-full leading-normal">{{ .Site.Language.Params.FooterPhrase }}</p>
+                <p class="my-8 w-full text-lg leading-normal lg:max-w-60">{{ .Site.Language.Params.FooterPhrase }}</p>
             </div>
 
             {{/* Footer menu */}}
             {{ if .Site.Menus.footer }}
-            <div class="flex flex-wrap justify-between gap-12">
-                {{ range .Site.Menus.footer }}
-                <div class="">
-                    <p class="mb-8 text-seatable-blue font-bold font-poppins text-xl">{{ .Name }}</p>
-                    {{ if .HasChildren }}
-                        <nav>
-                            <ul>
-                                {{ range .Children }}
-                                    <li class="mb-4">
-                                        <a href="{{ .URL }}" class="hover:bg-[#25221e12] px-4 py-2 relative right-4 rounded-lg font-poppins text-base">{{ .Name }}</a>
-                                    </li>
-                                {{ end }}
-                            </ul>
-                        </nav>
+                <div class="flex flex-wrap justify-between gap-12">
+                    {{ range .Site.Menus.footer }}
+                        <div class="">
+                            <p class="mb-8 font-poppins text-xl font-bold text-seatable-blue">{{ .Name }}</p>
+                            {{ if .HasChildren }}
+                                <nav>
+                                    <ul>
+                                        {{ range .Children }}
+                                            <li class="mb-4">
+                                                <a href="{{ .URL }}" class="relative right-4 rounded-lg px-4 py-2 font-poppins text-base hover:bg-[#25221e12]">{{ .Name }}</a>
+                                            </li>
+                                        {{ end }}
+                                    </ul>
+                                </nav>
+                            {{ end }}
+                        </div>
                     {{ end }}
-                </div>
-                {{ end }}
 
 
-                <div class="flex flex-col gap-3 text-3xl text-gray-600 ">
-                    <a href="https://linkedin.com/company/seatable" class="hover:bg-[#25221e12] top-[-4px] p-1 relative rounded-lg ">{{ partial "icon.html" "linkedin" }}</a>
-                    <a href="https://medium.com/@seatable" class="hover:bg-[#25221e12] top-[-4px] p-1 relative rounded-lg">{{ partial "icon.html" "medium" }}</a>
-                    <a href="https://www.instagram.com/seatable.io/" class="hover:bg-[#25221e12] top-[-4px] p-1 relative rounded-lg">{{ partial "icon.html" "instagram" }}</a>
-                    <a href="https://x.com/SeaTableIO" class="hover:bg-[#25221e12] top-[-4px] p-1 relative rounded-lg">{{ partial "icon.html" "x-twitter" }}</a>
-                    <a href="https://www.reddit.com/r/SeaTable/" class="hover:bg-[#25221e12] top-[-4px] p-1 relative rounded-lg">{{ partial "icon.html" "reddit" }}</a>
-                    <a href="https://github.com/seatable" class="hover:bg-[#25221e12] top-[-4px] p-1 relative rounded-lg">{{ partial "icon.html" "github" }}</a>
-                    <a href="https://www.youtube.com/seatable" class="hover:bg-[#25221e12] top-[-4px] p-1 relative rounded-lg">{{ partial "icon.html" "youtube" }}</a>
+                    <div class="flex flex-col gap-3 text-3xl text-gray-600">
+                        <a href="https://www.linkedin.com/company/seatable/posts/" class="relative top-[-4px] rounded-lg p-1 hover:bg-[#25221e12]"
+                            >{{ partial "icon.html" "linkedin" }}</a
+                        >
+                        <a href="https://medium.com/@seatable" class="relative top-[-4px] rounded-lg p-1 hover:bg-[#25221e12]">{{ partial "icon.html" "medium" }}</a>
+                        <a href="https://www.instagram.com/seatable.io/" class="relative top-[-4px] rounded-lg p-1 hover:bg-[#25221e12]">{{ partial "icon.html" "instagram" }}</a>
+                        <a href="https://x.com/SeaTableIO" class="relative top-[-4px] rounded-lg p-1 hover:bg-[#25221e12]">{{ partial "icon.html" "x-twitter" }}</a>
+                        <a href="https://www.reddit.com/r/SeaTable/" class="relative top-[-4px] rounded-lg p-1 hover:bg-[#25221e12]">{{ partial "icon.html" "reddit" }}</a>
+                        <a href="https://github.com/seatable" class="relative top-[-4px] rounded-lg p-1 hover:bg-[#25221e12]">{{ partial "icon.html" "github" }}</a>
+                        <a href="https://www.youtube.com/seatable" class="relative top-[-4px] rounded-lg p-1 hover:bg-[#25221e12]">{{ partial "icon.html" "youtube" }}</a>
+                    </div>
                 </div>
-            </div>
             {{ end }}
         </div>
     </div>
 </div>
 
-<div id="site-footer" class="w-full padding-x print:hidden bg-[#ece5e2]">
+<div id="site-footer" class="padding-x w-full bg-[#ece5e2] print:hidden">
     <div class="max-container mx-auto">
         {{/* Legal disclaimer menu */}}
         {{ if .Site.Menus.legal }}
-            <nav class=" text-base font-medium text-neutral-500 dark:text-neutral-400">
-                <ul class="flex flex-wrap list-none md:flex-row gap-2 py-4">
+            <nav class="text-base font-medium text-neutral-500 dark:text-neutral-400">
+                <ul class="flex list-none flex-wrap gap-2 py-4 md:flex-row">
                     {{ range .Site.Menus.legal }}
                         <li class="mb-1 sm:mb-0">
                             <a
-                                class="items-center font-poppins text-sm  hover:bg-[#25221e12] relative right-4 rounded-lg px-4 py-2 text-center"
+                                class="relative right-4 items-center rounded-lg px-4 py-2 text-center font-poppins text-sm hover:bg-[#25221e12]"
                                 href="{{ .URL }}"
                                 title="{{ .Title }}">
                                 {{ .Name | markdownify }}
