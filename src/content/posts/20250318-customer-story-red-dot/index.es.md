@@ -17,7 +17,7 @@ Red Dot GmbH & Co. KG, con sede en Essen, forma parte integrante del mundo inter
 
 ![](Blog_reddot_I1.jpg)
 
-Antes de la introducción de SeaTable, la herramienta más importante era un [programa de hoja de cálculo de escritorio](https:/seatable.com/es/excel-alternative/). Esta solución ya no estaba al día, sobre todo para la gestión de datos. La colaboración dentro del equipo era un verdadero reto, ya que no era posible trabajar en colaboración. El proceso existente resultó especialmente problemático a la hora de organizar la ceremonia de entrega de los premios Red Dot Award: Product Design, un importante acontecimiento internacional. La falta de oportunidades para trabajar en colaboración dificultó una organización fluida y los cambios de última hora.
+Antes de la introducción de SeaTable, la herramienta más importante era un [programa de hoja de cálculo de escritorio]({{< relref "pages/excel-alternative" >}}). Esta solución ya no estaba al día, sobre todo para la gestión de datos. La colaboración dentro del equipo era un verdadero reto, ya que no era posible trabajar en colaboración. El proceso existente resultó especialmente problemático a la hora de organizar la ceremonia de entrega de los premios Red Dot Award: Product Design, un importante acontecimiento internacional. La falta de oportunidades para trabajar en colaboración dificultó una organización fluida y los cambios de última hora.
 
 ## SeaTable cumple a la perfección los requisitos de
 
