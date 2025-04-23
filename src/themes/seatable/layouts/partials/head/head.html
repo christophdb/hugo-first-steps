@@ -3,15 +3,21 @@
     {{ with .Site.Language.Params.htmlCode | default .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
     <meta name="viewport" content="width=device-width" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
     {{ if .IsHome -}}
         <title>{{ .Site.Title | emojify }}</title>
         <meta name="title" content="{{ .Site.Title | emojify }}" />
     {{- else -}}
         <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
-        <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}" />
-    {{- end }}
+        {{ if .Params.seo.title -}}
+            <meta name="title" content="{{ .Params.seo.title | emojify }}" />
+        {{- else -}}
+            <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}" />
+        {{- end -}}
+    {{- end -}}
+
     {{/* Metadata */}}
-    {{ with (.Params.Summary | default .Params.Description) | default .Site.Params.description -}}
+    {{ with (.Params.seo.description | default .Params.Summary | default .Params.Description) | default .Site.Params.description -}}
         <meta name="description" content="{{ . }}" />
     {{- end }}
     {{ with  .Params.Tags | default .Site.Params.keywords -}}
