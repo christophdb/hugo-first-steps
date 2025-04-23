@@ -2,7 +2,11 @@
     <section id="kontaktanfrage" class="max-container">
         <div class="mx-auto max-w-[800px] text-center">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
-            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            {{ if eq .weight 1 }}
+                <h1 class="mt-1 text-4xl font-bold">{{ .title }}</h1>
+            {{ else }}
+                <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            {{ end }}
             <p class="mt-12 text-lg leading-normal">
                 {{ .description }}
             </p>
