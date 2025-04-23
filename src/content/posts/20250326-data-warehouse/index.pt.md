@@ -81,7 +81,7 @@ Vamos supor que gere uma **loja online** e pretende analisar as vendas, o tráfe
 
 ## Diferenças entre um data warehouse e uma base de dados
 
-Data warehouse e base de dados são dois [sistemas de gestão de dados] diferentes (https://({{< relref "posts/20250317-datenmanagement" >}}). Enquanto uma base de dados se centra normalmente no **armazenamento de dados**, o sistema de armazenamento de dados mapeia um processo mais longo, desde a aquisição de dados, passando pela integração e preparação dos dados, até à análise dos mesmos. No entanto, os armazéns de dados também armazenam grandes quantidades de dados numa base de dados central, que é o coração de todas as soluções de DWH. Por sua vez, um armazém de dados serve de **base para análises e relatórios** em toda a empresa.
+Data warehouse e base de dados são dois [sistemas de gestão de dados] diferentes ({{< relref "posts/20250317-datenmanagement" >}}). Enquanto uma base de dados se centra normalmente no **armazenamento de dados**, o sistema de armazenamento de dados mapeia um processo mais longo, desde a aquisição de dados, passando pela integração e preparação dos dados, até à análise dos mesmos. No entanto, os armazéns de dados também armazenam grandes quantidades de dados numa base de dados central, que é o coração de todas as soluções de DWH. Por sua vez, um armazém de dados serve de **base para análises e relatórios** em toda a empresa.
 
 | **Data Warehouse**    | **Base de dados**             |                        |
 | --------------------- | ----------------------------- | ---------------------- |

@@ -83,7 +83,7 @@ Let's assume you run an **online shop** and want to analyze sales, access figure
 
 ## Differences between a data warehouse and a database
 
-Data warehouse and database are two different [data management systems](https://({{< relref "posts/20250317-datenmanagement" >}}). While a database usually focuses on the **storage of data**, the data warehousing system maps a longer process from data acquisition through data integration and preparation to data analysis. Nevertheless, data warehouses also store huge amounts of data in a central database, which is the heart of every DWH solution. In turn, a data warehouse serves as the **basis for analyses and reporting** throughout the company.
+Data warehouse and database are two different [data management systems]({{< relref "posts/20250317-datenmanagement" >}}). While a database usually focuses on the **storage of data**, the data warehousing system maps a longer process from data acquisition through data integration and preparation to data analysis. Nevertheless, data warehouses also store huge amounts of data in a central database, which is the heart of every DWH solution. In turn, a data warehouse serves as the **basis for analyses and reporting** throughout the company.
 
 |                     | **Data Warehouse**   | **Database** |
 | ------------------- | -------------------- | ------------ |

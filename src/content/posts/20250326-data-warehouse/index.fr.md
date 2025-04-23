@@ -81,7 +81,7 @@ Supposons que vous exploitiez une **boutique en ligne** et que vous souhaitiez a
 
 ## Différences entre un entrepôt de données et une base de données
 
-L'entrepôt de données et la base de données sont deux [systèmes de gestion de données](https://({{< relref "posts/20250317-datenmanagement" >}}) différents. Alors qu'une base de données se focalise généralement sur le **stockage de données**, le système d'entrepôt de données reproduit un processus plus long, de l'acquisition des données à l'analyse des données en passant par l'intégration et la préparation des données. Néanmoins, les entrepôts de données stockent également d'énormes quantités de données dans une base de données centrale, qui constitue le cœur de toute solution DWH. Un entrepôt de données sert à son tour de **base pour les analyses et les rapports** dans toute l'entreprise.
+L'entrepôt de données et la base de données sont deux [systèmes de gestion de données]({{< relref "posts/20250317-datenmanagement" >}}) différents. Alors qu'une base de données se focalise généralement sur le **stockage de données**, le système d'entrepôt de données reproduit un processus plus long, de l'acquisition des données à l'analyse des données en passant par l'intégration et la préparation des données. Néanmoins, les entrepôts de données stockent également d'énormes quantités de données dans une base de données centrale, qui constitue le cœur de toute solution DWH. Un entrepôt de données sert à son tour de **base pour les analyses et les rapports** dans toute l'entreprise.
 
 |                      | **Entrepôt de données**                  | **Base de données**  |
 | -------------------- | ---------------------------------------- | -------------------- |
