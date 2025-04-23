@@ -159,7 +159,7 @@ url: '/ru/portfoliomanagement'
 
 {{< template id="6f9a2b4869804608978c">}}
 
-[Узнайте, как использовать шаблон портфолио недвижимости SeaTable в своих интересах здесь](https://seatable.io/ru/orlage/ufyf6scpsgucxv8y0g9asw/)
+[Узнайте, как использовать шаблон портфолио недвижимости SeaTable в своих интересах здесь](https://seatable.io/ru/vorlage/ufyf6scpsgucxv8y0g9asw/)
 
 Дополнительную информацию можно найти либо в статье [Управление недвижимостью](https://seatable.io/hausverwaltung/) для частных владельцев, либо в статье [Управление недвижимостью](https://seatable.com/ru/liegenschaftsverwaltung/) для компаний и муниципальных органов.
 
