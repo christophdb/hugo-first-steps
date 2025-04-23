@@ -39,7 +39,7 @@ Portfolio management offers you numerous advantages in all areas.
 
 ## Project portfolio management
 
-Project portfolio management (PPM) is responsible for the **overarching management, planning and control of all projects** that are interrelated within a company. Above all, it aims to ensure that resources are optimally distributed and projects are prioritized in such a way that they best support the company's strategic goals. Project portfolio management is therefore a permanent task that is repeated cyclically and requires the evaluation of many projects. This is the biggest difference to normal [project management](https://seatable.com/projektmanagement-tools/), which usually ends with the completion of individual projects.
+Project portfolio management (PPM) is responsible for the **overarching management, planning and control of all projects** that are interrelated within a company. Above all, it aims to ensure that resources are optimally distributed and projects are prioritized in such a way that they best support the company's strategic goals. Project portfolio management is therefore a permanent task that is repeated cyclically and requires the evaluation of many projects. This is the biggest difference to normal [project management]({{< relref "pages/industry-solutions/project-management" >}}), which usually ends with the completion of individual projects.
 
 **Note**: In larger companies and public authorities, there is often a separate department for project portfolio management: the **Project Management Office (PMO)**.
 
@@ -81,7 +81,7 @@ However, standard portfolio management software such as Microsoft Project, Asana
 
 #### 6\. Quality, information and knowledge management
 
-In the end, the decisive factor is whether the **quality of the projects** is right and whether they achieve the desired results with an appropriate use of resources. In particular, if you have a Project Management Office (PMO), you can establish **uniform standards for efficient project management** in your organization, which ensure that certain [project management methods](https://seatable.com/projektmanagement-methoden/), processes and tools are applied. A PMO provides project managers with advice and support and takes on cross-project quality, information and knowledge management, for example with instructions, documentation and training.
+In the end, the decisive factor is whether the **quality of the projects** is right and whether they achieve the desired results with an appropriate use of resources. In particular, if you have a Project Management Office (PMO), you can establish **uniform standards for efficient project management** in your organization, which ensure that certain [project management methods]({{< relref "posts/20250308-projektmanagement-methoden" >}}), processes and tools are applied. A PMO provides project managers with advice and support and takes on cross-project quality, information and knowledge management, for example with instructions, documentation and training.
 
 ## Product portfolio management
 

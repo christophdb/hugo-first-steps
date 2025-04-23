@@ -79,7 +79,7 @@ No entanto, o software de gestão de portefólio padrão, como o Microsoft Proje
 
 #### 6\. Gestão da qualidade, da informação e do conhecimento
 
-No final, o fator decisivo é se a **qualidade dos projectos** é correta e se estes atingem os resultados desejados com uma utilização adequada dos recursos. Em particular, se tiver um Gabinete de Gestão de Projectos (PMO), pode estabelecer **normas uniformes para uma gestão de projectos eficiente** na sua organização, que assegurem a aplicação de determinados [métodos de gestão de projectos] (https://seatable.com/projektmanagement-methoden/), processos e ferramentas. Um PMO presta aconselhamento e apoio aos gestores de projectos e assume a gestão da qualidade, da informação e dos conhecimentos entre projectos, por exemplo, através de instruções, documentação e formação.
+No final, o fator decisivo é se a **qualidade dos projectos** é correta e se estes atingem os resultados desejados com uma utilização adequada dos recursos. Em particular, se tiver um Gabinete de Gestão de Projectos (PMO), pode estabelecer **normas uniformes para uma gestão de projectos eficiente** na sua organização, que assegurem a aplicação de determinados [métodos de gestão de projectos]({{< relref "posts/20250308-projektmanagement-methoden" >}}), processos e ferramentas. Um PMO presta aconselhamento e apoio aos gestores de projectos e assume a gestão da qualidade, da informação e dos conhecimentos entre projectos, por exemplo, através de instruções, documentação e formação.
 
 ## Gestão da carteira de produtos
 
