@@ -37,7 +37,7 @@ Dans ce contexte, la gestion de portefeuille vous offre de nombreux avantages da
 
 ## Gestion de portefeuille de projets
 
-La gestion de portefeuille de projets (PPM) prend en charge la **gestion, la planification et le pilotage de tous les projets** qui sont liés entre eux au sein d'une entreprise. Elle doit avant tout permettre de répartir les ressources de manière optimale et de prioriser les projets de façon à ce qu'ils soutiennent au mieux les objectifs stratégiques de l'entreprise. La gestion de portefeuille de projets est donc une tâche permanente, qui se répète de manière cyclique et qui nécessite l'évaluation de nombreux projets. C'est la principale différence avec la [gestion de projet] normale (https://seatable.com/projektmanagement-tools/), qui se termine généralement par l'achèvement de projets individuels.
+La gestion de portefeuille de projets (PPM) prend en charge la **gestion, la planification et le pilotage de tous les projets** qui sont liés entre eux au sein d'une entreprise. Elle doit avant tout permettre de répartir les ressources de manière optimale et de prioriser les projets de façon à ce qu'ils soutiennent au mieux les objectifs stratégiques de l'entreprise. La gestion de portefeuille de projets est donc une tâche permanente, qui se répète de manière cyclique et qui nécessite l'évaluation de nombreux projets. C'est la principale différence avec la [gestion de projet]({{< relref "posts/20250308-projektmanagement-methoden" >}}) normale, qui se termine généralement par l'achèvement de projets individuels.
 
 **Remarque** : Dans les grandes entreprises et les administrations, il existe souvent un service spécifique pour la gestion du portefeuille de projets : le **Project Management Office (PMO)**.
 
@@ -79,7 +79,7 @@ Les logiciels de gestion de portefeuille habituels tels que Microsoft Project, A
 
 #### 6\. Gestion de la qualité, de l'information et des connaissances
 
-Au final, ce qui compte, c'est de savoir si la **qualité des projets** est bonne et s'ils atteignent les résultats souhaités avec une utilisation appropriée des ressources. En particulier, si vous disposez d'un Project Management Office (PMO), vous pouvez établir dans votre organisation **des normes uniformes pour une gestion de projet efficace**, qui garantissent l'application de certaines [méthodes de gestion de projet](https://seatable.com/projektmanagement-methoden/), de processus et d'outils. Un PMO assiste les chefs de projet en leur prodiguant des conseils et en prenant en charge la gestion de la qualité, de l'information et des connaissances pour l'ensemble du projet, par exemple en leur fournissant des instructions, de la documentation et des formations.
+Au final, ce qui compte, c'est de savoir si la **qualité des projets** est bonne et s'ils atteignent les résultats souhaités avec une utilisation appropriée des ressources. En particulier, si vous disposez d'un Project Management Office (PMO), vous pouvez établir dans votre organisation **des normes uniformes pour une gestion de projet efficace**, qui garantissent l'application de certaines [méthodes de gestion de projet]({{< relref "posts/20250308-projektmanagement-methoden" >}}), de processus et d'outils. Un PMO assiste les chefs de projet en leur prodiguant des conseils et en prenant en charge la gestion de la qualité, de l'information et des connaissances pour l'ensemble du projet, par exemple en leur fournissant des instructions, de la documentation et des formations.
 
 ## Gestion du portefeuille de produits
 

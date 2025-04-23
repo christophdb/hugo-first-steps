@@ -81,7 +81,7 @@ However, standard portfolio management software such as Microsoft Project, Asana
 
 #### 6\. Quality, information and knowledge management
 
-In the end, the decisive factor is whether the **quality of the projects** is right and whether they achieve the desired results with an appropriate use of resources. In particular, if you have a Project Management Office (PMO), you can establish **uniform standards for efficient project management** in your organization, which ensure that certain [project management methods](https://seatable.com/projektmanagement-methoden/), processes and tools are applied. A PMO provides project managers with advice and support and takes on cross-project quality, information and knowledge management, for example with instructions, documentation and training.
+In the end, the decisive factor is whether the **quality of the projects** is right and whether they achieve the desired results with an appropriate use of resources. In particular, if you have a Project Management Office (PMO), you can establish **uniform standards for efficient project management** in your organization, which ensure that certain [project management methods]({{< relref "posts/20250308-projektmanagement-methoden" >}}), processes and tools are applied. A PMO provides project managers with advice and support and takes on cross-project quality, information and knowledge management, for example with instructions, documentation and training.
 
 ## Product portfolio management
 

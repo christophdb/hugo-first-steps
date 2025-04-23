@@ -81,7 +81,7 @@ Das Projektportfolio schläft nicht. Daher müssen auch Sie stets ein wachsames 
 
 #### 6\. Qualitäts-, Informations- und Wissensmanagement
 
-Am Ende ist entscheidend, ob die **Qualität der Projekte** stimmt und sie die gewünschten Ergebnisse mit einem angemessenen Ressourceneinsatz erzielen. Insbesondere, wenn Sie ein Project Management Office (PMO) besitzen, können Sie in Ihrer Organisation **einheitliche Standards für effizientes Projektmanagement** etablieren, die dafür sorgen, dass bestimmte [Projektmanagement-Methoden](https://seatable.com/projektmanagement-methoden/), -Prozesse und -Tools Anwendung finden. Ein PMO steht den Projektmanagern mit Rat und Tat zur Seite und übernimmt das projektübergreifende Qualitäts-, Informations- und Wissensmanagement, zum Beispiel mit Anleitungen, Dokumentationen und Schulungen.
+Am Ende ist entscheidend, ob die **Qualität der Projekte** stimmt und sie die gewünschten Ergebnisse mit einem angemessenen Ressourceneinsatz erzielen. Insbesondere, wenn Sie ein Project Management Office (PMO) besitzen, können Sie in Ihrer Organisation **einheitliche Standards für effizientes Projektmanagement** etablieren, die dafür sorgen, dass bestimmte [Projektmanagement-Methoden]({{< relref "posts/20250308-projektmanagement-methoden" >}}), -Prozesse und -Tools Anwendung finden. Ein PMO steht den Projektmanagern mit Rat und Tat zur Seite und übernimmt das projektübergreifende Qualitäts-, Informations- und Wissensmanagement, zum Beispiel mit Anleitungen, Dokumentationen und Schulungen.
 
 ## Produktportfoliomanagement 
 
