@@ -15,7 +15,11 @@
     <section class="max-container">
         <div class="mx-auto max-w-[800px] text-center">
             <p class="font-poppins text-2xl font-bold">{{ .subtitle }}</p>
-            <h2 class="gradient mt-1 text-5xl font-bold leading-narrow text-seatable-blue">{{ .title }}</h2>
+            {{ if eq .weight 1 }}
+                <h1 class="gradient mt-1 text-5xl font-bold leading-narrow text-seatable-blue">{{ .title }}</h1>
+            {{ else }}
+                <h2 class="gradient mt-1 text-5xl font-bold leading-narrow text-seatable-blue">{{ .title }}</h2>
+            {{ end }}
             <p class="mt-12 text-xl leading-normal">{{ .text | markdownify }}</p>
         </div>
 
