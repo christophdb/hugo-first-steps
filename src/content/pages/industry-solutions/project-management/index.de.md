@@ -1,5 +1,5 @@
 ---
-title: 'Das flexible Projektmanagement-Tool für dein Team | SeaTable'
+title: 'Das flexible Projektmanagement-Tool für Teams | SeaTable'
 description: 'Steigern Sie die Produktivität mit SeaTable. Das Projektmanagement-Tool lässt sich in einfachen Schritten an Ihre Bedürfnisse anpassen.'
 date: '2025-04-03'
 url: '/de/projektmanagement-tools'
