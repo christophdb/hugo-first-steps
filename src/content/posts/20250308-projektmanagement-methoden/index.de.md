@@ -1,6 +1,9 @@
 ---
 title: 'Die 10 beliebtesten Projektmanagement-Methoden im Überblick'
 description: 'Die Wahl der richtigen Projektmanagement Methoden ist für den Erfolg eines Projektes oft entscheidend. Denn nicht immer eignet sich jeder Ansatz für jedes Projekt. Doch welche Methoden gibt es überhaupt? Und wann ist welche am sinnvollsten? Werfen Sie mit uns einen Blick auf die Top 10, um den passenden Ansatz für Ihr Projekt zu bestimmen.'
+seo:
+    title: "Projektmanagement Methoden: Agil vs. Wasserfall & Co."
+    description: "Welche Projektmanagement-Methode passt zu am besten zu Ihnen? Unser umfassender Guide vergleicht Scrum, Kanban, PRINCE2 und Co."
 date: 2025-03-08
 categories:
     - 'Allgemein'

@@ -1,6 +1,10 @@
 ---
 title: 'Citizen Developer – Gamechanger in der Digitalisierung?'
 description: 'Maßgeschneiderte Software-Lösungen für Ihre speziellen Prozesse sind Mangelware? Dann entwickeln Sie doch eigene Lösungen! Erfahren Sie in diesem Artikel, wie Sie das Know-how in Ihren Fachabteilungen nutzen und effiziente digitale Prozesse aufsetzen, indem Sie Citizen Developer an der Entwicklung beteiligen.'
+seo:
+    title: "Citizen Developer – Gamechanger in der Digitalisierung"
+    description: "Entwickeln Sie eigene Softwarelösungen mit Citizen Developern! Dieser Artikel zeigt Ihnen, wie Sie das Know-how Ihrer Fachabteilungen nutzen"
+    
 date: 2025-03-17
 categories:
     - 'No Code / Low Code'

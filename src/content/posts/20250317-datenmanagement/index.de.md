@@ -1,6 +1,9 @@
 ---
 title: 'Die Bedeutung von Datenmanagement für die Digitalisierung in Unternehmen'
 description: 'Unternehmen brauchen Daten, um strategische und operative Entscheidungen zu treffen. Doch wie lässt sich ein modernes, effizientes Datenmanagement aufsetzen, das diesen Namen wirklich verdient? Lesen Sie, worauf es beim Datenmanagement ankommt und welche verschiedenen Datenbanksysteme es gibt.'
+seo:
+    title: "Datenmanagement für die Digitalisierung in Unternehmen"
+    description: "Erfahren Sie in unserem Blogbeitrag, worauf es beim Datenmanagement ankommt und welche verschiedenen Datenbanksysteme es gibt."
 date: 2025-03-17
 categories:
     - 'Allgemein'

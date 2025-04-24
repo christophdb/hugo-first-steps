@@ -1,6 +1,9 @@
 ---
 title: 'Low Code, No Code und die Software-Entwicklung der Zukunft'
 description: 'Dank No Code und Low Code Entwicklung können endlich auch Personen mit geringen oder gar keinen Programmierkenntnissen eigene Web-Applikationen bauen. Doch was bedeutet eigentlich Low Code? Wie unterscheidet es sich von No Code und klassischem Coding? Und welche Low Code Plattform eignet sich für welche Anwendung? In diesem Artikel finden Sie Antworten.'
+seo:
+    title: "Low Code No Code | Software-Entwicklung mit Zukunft | SeaTable"
+    description: "Die neue Welt von Low-Code und No-Code! Erfahre Sie, wie ohne Programmierkenntnisse leistungsstarke Anwendungen erstellt werden können"
 date: 2025-03-07
 categories:
     - 'No Code / Low Code'
@@ -62,7 +65,7 @@ Die Übergänge zwischen den beiden Ansätzen sind jedoch fließend. Deshalb kan
 Low Code und No Code haben drei zentrale Vorteile gemeinsam:
 
 - **Beschleunigte Entwicklung**: Durch den Einsatz von visuellen Tools und vorgefertigten Bausteinen können Sie Anwendungen in einem Bruchteil der Zeit erstellen, die bei traditioneller Softwareentwicklung erforderlich wäre.
-- **Zusammenarbeit**: Dank der grafischen Benutzeroberfläche können auch Personen ohne Programmierkenntnisse, zum Beispiel [Citizen Developer](https://seatable.com/citizen-developer/), am Entwicklungsprozess teilnehmen, Feedback geben oder sogar selbstständig eigene Lösungen erstellen.
+- **Zusammenarbeit**: Dank der grafischen Benutzeroberfläche können auch Personen ohne Programmierkenntnisse, zum Beispiel [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}), am Entwicklungsprozess teilnehmen, Feedback geben oder sogar selbstständig eigene Lösungen erstellen.
 - **Kosteneffizienz**: Ein deutlich niedrigerer Zeitaufwand und die Möglichkeit, dass auch weniger erfahrene Entwickler produktiv programmieren können, führen zu geringeren Entwicklungskosten.
 
 ### Die größten Vorteile von Low Code Programmierung

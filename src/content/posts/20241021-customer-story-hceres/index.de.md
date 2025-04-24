@@ -1,6 +1,9 @@
 ---
 title: "Effektive Datenverwaltung beim Hcéres mit SeaTable"
 description: "Lesen Sie mehr darüber, wie eine unabhängige öffentliche Behörde SeaTable nutzt."
+seo:
+    title: "Customer Story Hcéres: Effektive Datenverwaltung | SeaTable"
+    description: "Erfahren Sie, wie SeaTable die Zusammenarbeit mit den Evaluationsabteilungen enorm verbesserte, intuitiv, anpassbar und sicher machte"
 date: 2024-10-21
 categories: 
   - "Customer Story"
@@ -20,7 +23,7 @@ Der Haut Conseil de l’évaluation de la recherche et de l’enseignement sup�
     
 Hcéres stand vor der Herausforderung, seine komplexen Datenprozesse effizienter zu gestalten und die gesetzlichen Anforderungen zu erfüllen. Mit SeaTable fand der Hcéres eine Lösung, um seine Datenverwaltung zu zentralisieren und die Zusammenarbeit zu verbessern.
 
-![](pexels-anete-lusina-4792285-1.jpg)
+![Datenverwaltung mit Ordner ist veraltet und mühsam - Digitale Transformation mit SeaTable](pexels-anete-lusina-4792285-1.jpg)
 
 ## Ausgangslage: Hcéres und die Herausforderung einer effizienten Datenverwaltung
 
@@ -30,13 +33,13 @@ Als unabhängige Behörde ist der Hcéres für die Evaluierung aller französisc
 
 Um die Herausforderungen der Datenverwaltung zu meistern, entschied sich das Département du Numérique et des Données (DND) des Hcéres für SeaTable – eine flexible und benutzerfreundliche Plattform, die die Evaluierungsprozesse deutlich optimierte. SeaTable zentralisierte alle Daten und ermöglichte es dem Hcéres, den gesamten Evaluierungsprozess sowohl in Frankreich als auch international zu vereinfachen.
 
-![](pexels-natri-792199-1.jpg)
+![Digitale Verwaltung mit SeaTable](pexels-natri-792199-1.jpg)
 
 ## Implementierung von SeaTable bei Hcéres
 
 Die Einführung von SeaTable begann mit einem Proof of Concept (POC) in einem einzigen Abteil. Diese Pilotphase konzentrierte sich auf die Verwaltung von Konventionen und potenziellen Expertenlisten. Aufgrund des Erfolgs dieses Tests wurde SeaTable schrittweise auf weitere Abteilungen und Evaluationsdienste des Hcéres ausgedehnt. Heute nutzt die Behörde die [No-Code-Plattform](https://seatable.com/) SeaTable, um Evaluierungskomitees effizient zu bilden und den Vorbereitungsprozess für Evaluierungen zu straffen.
 
-![](pexels-edmond-dantes-4342496-1.jpg)
+![Beratung beim digitalen Umbruch mit SeaTable](pexels-edmond-dantes-4342496-1.jpg)
 
 ## Die Vorteile von SeaTable für Hcéres
 
@@ -50,7 +53,7 @@ Die Einführung von SeaTable begann mit einem Proof of Concept (POC) in einem ei
 Jean-Christophe Martin, stellvertretender Direktor des DND, erklärt: „SeaTable hat uns ermöglicht, unsere Datenverwaltung zu erneuern und ihre Nutzung sowie Darstellung zu verbessern. Dies hat die Effizienz unserer Nutzer deutlich gesteigert.“  
 Clément Bréhin, technischer Projektleiter, fügt hinzu: „SeaTable hat unsere Zusammenarbeit mit den Evaluationsabteilungen enorm verbessert. Es ist intuitiv, leicht anpassbar und sicher.“ Dank interner Workshops und Schulungen konnten die Mitarbeiter von Hcéres SeaTable schnell und problemlos übernehmen.
 
-![](pexels-moose-photos-170195-1036641-1.jpg)
+![Einführung einer neuen digitalen Datenverwaltung](pexels-moose-photos-170195-1036641-1.jpg)
 
 ## Fazit: Hcéres verbessert seine Datenverwaltung – und Sie können das auch
 
