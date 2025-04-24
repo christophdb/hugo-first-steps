@@ -123,7 +123,7 @@ Next are two project management methods that focus on graphical illustration: Th
 
 ### 9\. Work breakdown structure
 
-In the [work breakdown structure](https://seatable.com/projektstrukturplan/), you record all project tasks in a single graphic. You can then create work packages, assign responsibilities and set deadlines.
+In the [work breakdown structure]({{< relref "posts/20250317-projektstrukturplan" >}}), you record all project tasks in a single graphic. You can then create work packages, assign responsibilities and set deadlines.
 
 The work breakdown structure is suitable for keeping track of large projects. It originates from classic project management and is sometimes difficult to adapt to agile methods. However, in projects where you need an overall view, you can streamline and simplify the plan so that it remains clear and you can easily make changes.
 

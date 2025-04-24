@@ -41,7 +41,7 @@ Google Sheets, en revanche, offre une fonctionnalité nettement plus étendue po
 
 ## Avantages et inconvénients de Google Spreadsheet
 
-Les particuliers et les entreprises du monde entier utilisent quotidiennement Google pour créer un tableau. Certaines fonctionnalités en font une option attrayante pour les utilisateurs à la recherche d'une [alternative à Excel](https://seatable.com/excel-alternative/) qui soit **flexible et basée sur le cloud**. D'un autre côté, il y a aussi quelques écueils à ne pas sous-estimer. En fin de compte, il vaut la peine de jeter un regard plus attentif sur les avantages et les inconvénients.
+Les particuliers et les entreprises du monde entier utilisent quotidiennement Google pour créer un tableau. Certaines fonctionnalités en font une option attrayante pour les utilisateurs à la recherche d'une [alternative à Excel]({{< relref "pages/excel-alternative" >}}) qui soit **flexible et basée sur le cloud**. D'un autre côté, il y a aussi quelques écueils à ne pas sous-estimer. En fin de compte, il vaut la peine de jeter un regard plus attentif sur les avantages et les inconvénients.
 
 ### Avantages
 

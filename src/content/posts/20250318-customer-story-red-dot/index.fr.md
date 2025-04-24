@@ -17,7 +17,7 @@ La société Red Dot GmbH & Co. KG à Essen est devenue incontournable dans le m
 
 ![](Blog_reddot_I1.jpg)
 
-Avant l'introduction de SeaTable, l'outil principal était un [tableur de bureau](https://seatable.com/excel-alternative/). Cette solution n'était plus adaptée, notamment pour la gestion des données. La collaboration au sein de l'équipe constituait un véritable défi, car il n'était pas possible de travailler en mode collaboratif. Le processus existant s'est avéré particulièrement problématique lors de l'organisation de la remise des prix pour le Red Dot Award : Product Design, un grand événement international. Pour une organisation sans faille et des changements de dernière minute, le manque de possibilités de travail collaboratif s'est avéré difficile.
+Avant l'introduction de SeaTable, l'outil principal était un [tableur de bureau]({{< relref "pages/excel-alternative" >}}). Cette solution n'était plus adaptée, notamment pour la gestion des données. La collaboration au sein de l'équipe constituait un véritable défi, car il n'était pas possible de travailler en mode collaboratif. Le processus existant s'est avéré particulièrement problématique lors de l'organisation de la remise des prix pour le Red Dot Award : Product Design, un grand événement international. Pour une organisation sans faille et des changements de dernière minute, le manque de possibilités de travail collaboratif s'est avéré difficile.
 
 ## SeaTable répond parfaitement aux exigences de
 

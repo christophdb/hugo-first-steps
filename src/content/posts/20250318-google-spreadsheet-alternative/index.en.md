@@ -42,7 +42,7 @@ Google Sheets, on the other hand, offers significantly enhanced functionality fo
 
 ## Advantages and disadvantages of Google Spreadsheet
 
-Both individuals and businesses around the world use Google every day to create a spreadsheet. Some features make it an attractive option for users looking for an [Excel alternative](https://seatable.com/excel-alternative/) that is **flexible and cloud-based**. On the other hand, there are also a few stumbling blocks that you should not underestimate. Ultimately, it's worth taking a closer look at the pros and cons.
+Both individuals and businesses around the world use Google every day to create a spreadsheet. Some features make it an attractive option for users looking for an [Excel alternative]({{< relref "pages/excel-alternative" >}}) that is **flexible and cloud-based**. On the other hand, there are also a few stumbling blocks that you should not underestimate. Ultimately, it's worth taking a closer look at the pros and cons.
 
 ### Advantages
 

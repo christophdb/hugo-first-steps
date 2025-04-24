@@ -126,7 +126,7 @@ Als Nächstes folgen zwei Projektmanagement-Methoden, die eine grafische Veransc
 
 ### 9\. Projektstrukturplan
 
-Im [Projektstrukturplan](https://seatable.com/projektstrukturplan/) erfassen Sie alle Projektaufgaben in einer einzigen Grafik. Anschließend können Sie Arbeitspakete schnüren, Zuständigkeiten verteilen und Termine festlegen.
+Im [Projektstrukturplan]({{< relref "posts/20250317-projektstrukturplan" >}}) erfassen Sie alle Projektaufgaben in einer einzigen Grafik. Anschließend können Sie Arbeitspakete schnüren, Zuständigkeiten verteilen und Termine festlegen.
 
 Der Projektstrukturplan eignet sich dafür, große Projekte im Blick zu behalten. Er stammt aus dem klassischen Projektmanagement und lässt sich mitunter schwer auf agile Methoden anpassen. In Projekten, in denen Sie einen Gesamtüberblick benötigen, können Sie den Plan jedoch entschlacken und vereinfachen, damit er übersichtlich bleibt und Sie leicht Änderungen vornehmen können.
 

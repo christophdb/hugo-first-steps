@@ -21,7 +21,7 @@ Die Red Dot GmbH & Co. KG in Essen ist aus der internationalen Marken-, Produkt
 
 ![](Blog_reddot_I1.jpg)
 
-Vor der Einführung von SeaTable war das wichtigste Tool ein [Desktop-Tabellenkalkulationsprogramm](https://seatable.com/excel-alternative/). Diese Lösung war insbesondere beim Datenmanagement nicht mehr zeitgemäß. Die Zusammenarbeit innerhalb des Teams war eine echte Herausforderung, da kein kollaboratives Arbeiten möglich war. Als besonders problematisch erwies sich der bestehende Prozess bei der Organisation der Preisverleihung für den Red Dot Award: Product Design, einem internationalen Großevent. Für eine reibungslose Organisation und Last-Minute-Änderungen erwiesen sich die fehlenden Möglichkeiten zum kollaborativen Arbeiten als schwierig.
+Vor der Einführung von SeaTable war das wichtigste Tool ein [Desktop-Tabellenkalkulationsprogramm]({{< relref "pages/excel-alternative" >}}). Diese Lösung war insbesondere beim Datenmanagement nicht mehr zeitgemäß. Die Zusammenarbeit innerhalb des Teams war eine echte Herausforderung, da kein kollaboratives Arbeiten möglich war. Als besonders problematisch erwies sich der bestehende Prozess bei der Organisation der Preisverleihung für den Red Dot Award: Product Design, einem internationalen Großevent. Für eine reibungslose Organisation und Last-Minute-Änderungen erwiesen sich die fehlenden Möglichkeiten zum kollaborativen Arbeiten als schwierig.
 
 ## SeaTable erfüllt die Anforderungen von perfekt
 
