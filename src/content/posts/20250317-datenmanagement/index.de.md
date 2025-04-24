@@ -119,7 +119,7 @@ Als Trend lässt sich die zunehmende Verwendung von cloudbasierten Datenmanageme
 
 ## Relationale No-Code-Datenbank in der Cloud oder On-Premises
 
-In der tabellenbasierten [No-Code-Datenbank SeaTable](https://seatable.com/) können Sie Ihre Daten effizient speichern, abrufen und analysieren, ohne SQL-Kenntnisse oder sonstige technische Vorerfahrung mitbringen zu müssen. Dabei können Sie nicht nur spielend leicht Daten strukturieren und verknüpfen, sondern auch Dateien, Bilder und Dokumente speichern.
+In der tabellenbasierten [No-Code-Datenbank SeaTable]({{< relref "/" >}}) können Sie Ihre Daten effizient speichern, abrufen und analysieren, ohne SQL-Kenntnisse oder sonstige technische Vorerfahrung mitbringen zu müssen. Dabei können Sie nicht nur spielend leicht Daten strukturieren und verknüpfen, sondern auch Dateien, Bilder und Dokumente speichern.
 
 Im Gegensatz zu anderen relationalen Datenbanken können Sie auf der **grafischen Benutzeroberfläche** von SeaTable direkt Auswertungen vornehmen. Für weitergehende Analysen stehen Ihnen zahlreiche Statistiken zur Verfügung. Wenn Ihnen dies noch nicht reicht, können Sie Ihre Daten mithilfe von [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) in Galerien, Kalendern, Organigrammen etc. visualisieren.
 

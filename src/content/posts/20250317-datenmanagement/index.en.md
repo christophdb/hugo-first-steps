@@ -116,7 +116,7 @@ One trend that can be observed is the increasing use of cloud-based data managem
 
 ## Relational no-code database in the cloud or on-premises
 
-In the table-based [no-code database SeaTable](https://seatable.com/) you can efficiently store, retrieve and analyze your data without having to have any SQL knowledge or other prior technical experience. Not only can you easily structure and link data, you can also store files, images and documents.
+In the table-based [no-code database SeaTable]({{< relref "/" >}}) you can efficiently store, retrieve and analyze your data without having to have any SQL knowledge or other prior technical experience. Not only can you easily structure and link data, you can also store files, images and documents.
 
 Unlike other relational databases, SeaTable's **graphical user interface** allows you to carry out analyses directly. Numerous statistics are available for further analysis. If this is not enough, you can visualize your data in galleries, calendars, organization charts, etc. with the help of [plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/).
 

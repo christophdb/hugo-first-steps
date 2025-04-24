@@ -34,7 +34,7 @@ To overcome the challenges of data management, the Département du Numérique et
 
 ## Implementation of SeaTable at Hcéres
 
-The implementation of SeaTable began with a proof of concept (POC) in a single department. This pilot phase focused on the management of conventions and potential expert lists. Based on the success of this test, SeaTable was gradually extended to other departments and evaluation services of the Hcéres. Today, the agency uses the [no-code platform](https://seatable.com/) SeaTable to efficiently form evaluation committees and streamline the preparation process for evaluations.
+The implementation of SeaTable began with a proof of concept (POC) in a single department. This pilot phase focused on the management of conventions and potential expert lists. Based on the success of this test, SeaTable was gradually extended to other departments and evaluation services of the Hcéres. Today, the agency uses the [no-code platform]({{< relref "/" >}}) SeaTable to efficiently form evaluation committees and streamline the preparation process for evaluations.
 
 ![](pexels-edmond-dantes-4342496-1.jpg)
 

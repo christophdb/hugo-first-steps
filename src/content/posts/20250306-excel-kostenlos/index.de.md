@@ -41,7 +41,7 @@ Wenn Sie sich nur einen schnellen Überblick verschaffen wollen, schauen Sie in 
 
 In diesem Vergleich wurden nur lokale Anwendungen berücksichtigt, die mindestens zwei Betriebssystemfamilien unterstützen. Aus diesem Grund ist Apple Numbers als reine Tabellenkalkulation für MacOS/iOS genauso wenig dabei wie Gnumeric, das seit 2014 eine reine Anwendung für Linux ist.
 
-Ein aufstrebender Player unter den Tabellenkalkulationen ist SeaTable, das als [No-Code-Datenbank und App-Builder](https://seatable.com/) einen deutlich erweiterten Funktionsumfang gegenüber Excel und anderen Lösungen aufweist und damit den Wettbewerb neu belebt. Wie die anderen in diesem Artikel vorgestellten Lösungen ist auch die Free-Version von SeaTable im Gegensatz zu Excel kostenlos.
+Ein aufstrebender Player unter den Tabellenkalkulationen ist SeaTable, das als [No-Code-Datenbank und App-Builder]({{< relref "/" >}}) einen deutlich erweiterten Funktionsumfang gegenüber Excel und anderen Lösungen aufweist und damit den Wettbewerb neu belebt. Wie die anderen in diesem Artikel vorgestellten Lösungen ist auch die Free-Version von SeaTable im Gegensatz zu Excel kostenlos.
 
 ### Einordnung der Tabellenkalkulationen
 

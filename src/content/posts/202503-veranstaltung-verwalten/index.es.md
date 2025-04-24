@@ -76,7 +76,7 @@ El software ofrece una amplia gama de funciones, desde la gestión de datos y el
 
 ### SeaTable
 
-[SeaTable](https://seatable.com/), fundada en Alemania en 2020, es una innovadora base de datos sin código con un creador de aplicaciones integrado. Esta herramienta le ofrece una gestión de datos flexible y opciones de colaboración versátiles, no sólo para la gestión de eventos, sino para numerosos ámbitos de aplicación. Gracias a su sencilla interfaz, podrá crear su propio sistema de gestión de datos y aplicaciones personalizadas en un abrir y cerrar de ojos.
+[SeaTable]({{< relref "/" >}}), fundada en Alemania en 2020, es una innovadora base de datos sin código con un creador de aplicaciones integrado. Esta herramienta le ofrece una gestión de datos flexible y opciones de colaboración versátiles, no sólo para la gestión de eventos, sino para numerosos ámbitos de aplicación. Gracias a su sencilla interfaz, podrá crear su propio sistema de gestión de datos y aplicaciones personalizadas en un abrir y cerrar de ojos.
 
 SeaTable es especialmente útil para sus eventos: Planificar un evento se convierte en un juego de niños con la plantilla de SeaTable. Por ejemplo, puede controlar sus gastos, generar facturas y gestionar su lista de asistentes en línea, de forma gratuita y sin necesidad de conocimientos técnicos previos.
 

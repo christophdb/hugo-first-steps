@@ -38,7 +38,7 @@ If you just want to get a quick overview, take a look at the following table, wh
 
 In this comparison, only local applications that support at least two operating system families were considered. For this reason, Apple Numbers as a pure spreadsheet application for MacOS/iOS is not included, nor is Gnumeric, which has been a pure application for Linux since 2014.
 
-An up-and-coming player among spreadsheets is SeaTable, which as a [no-code database and app builder](https://seatable.com/) has a significantly expanded range of functions compared to Excel and other solutions, thus revitalizing the competition. Like the other solutions presented in this article, the free version of SeaTable is also free of charge, unlike Excel.
+An up-and-coming player among spreadsheets is SeaTable, which as a [no-code database and app builder]({{< relref "/" >}}) has a significantly expanded range of functions compared to Excel and other solutions, thus revitalizing the competition. Like the other solutions presented in this article, the free version of SeaTable is also free of charge, unlike Excel.
 
 ### Classification of spreadsheets
 

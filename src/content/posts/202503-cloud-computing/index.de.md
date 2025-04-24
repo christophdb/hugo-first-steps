@@ -145,7 +145,7 @@ Bevor Sie von lokalen Servern auf die Cloud umsteigen, sollten Sie eine durchdac
 
 ## Entdecken Sie SeaTable für Ihre Cloud
 
-Ein bisher wenig bekannter, aber sehr preiswerter Cloud Service ist die [No-Code-Datenbank SeaTable](https://seatable.com/), in der Sie Ihre Daten **DSGVO-konform** und unter höchsten Sicherheitsvorkehrungen **in deutschen Rechenzentren** speichern können. Wählen Sie zwischen
+Ein bisher wenig bekannter, aber sehr preiswerter Cloud Service ist die [No-Code-Datenbank SeaTable]({{< relref "/" >}}), in der Sie Ihre Daten **DSGVO-konform** und unter höchsten Sicherheitsvorkehrungen **in deutschen Rechenzentren** speichern können. Wählen Sie zwischen
 
 - [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) als Public Cloud
 - [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) für Ihre Private Cloud

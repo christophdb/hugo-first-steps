@@ -86,7 +86,7 @@ As tarefas de um gestor imobiliário são variadas e requerem conhecimentos téc
 
 ## Gerir as propriedades digitalmente com o SeaTable
 
-A gestão de propriedades pode ser uma tarefa complexa e morosa - especialmente se gerir várias propriedades ao mesmo tempo. Com o SeaTable, pode organizar as suas **propriedades de forma digital e eficiente**, mantendo sempre uma visão geral. Graças à estrutura flexível da [plataforma sem código](https://seatable.com/), pode mapear os seus processos individuais exatamente como desejar. Além disso, **todos os dados relevantes podem ser armazenados e geridos de forma segura e centralizada num único local**.
+A gestão de propriedades pode ser uma tarefa complexa e morosa - especialmente se gerir várias propriedades ao mesmo tempo. Com o SeaTable, pode organizar as suas **propriedades de forma digital e eficiente**, mantendo sempre uma visão geral. Graças à estrutura flexível da [plataforma sem código]({{< relref "/" >}}), pode mapear os seus processos individuais exatamente como desejar. Além disso, **todos os dados relevantes podem ser armazenados e geridos de forma segura e centralizada num único local**.
 
 Uma das maiores vantagens do SeaTable é a capacidade de atribuir **direitos de acesso individuais**. Isto significa que pode definir quem pode ver que dados para cada propriedade. Especialmente se gerir várias propriedades, é essencial que os dados de cada propriedade sejam mantidos separados - no SeaTable, pode organizar todas as propriedades numa única base de dados sem código, sem que ninguém tenha acesso não autorizado a outros projectos. Isto garante a proteção de dados e cumpre os requisitos do RGPD.
 

@@ -92,7 +92,7 @@ Auch in Pflanzkübeln auf beispielsweise Balkonen lässt sich die Fruchtfolge um
 
 ## Digitale Unterstützung: Pflanzplan mit SeaTable erstellen
 
-Wer jedes Jahr von Hand notiert, was wo gepflanzt wurde, verliert schnell den Überblick. Genau hier kann Ihnen die [No-Code-Plattform](https://seatable.com/) SeaTable helfen – eine digitale Lösung, mit der sich Ihre Pflanzpläne übersichtlich verwalten und langfristig optimieren lassen. Statt mit chaotischen Notizen oder Excel-Tabellen zu kämpfen, können Sie **Beete, Pflanzenarten und Fruchtfolgen strukturiert festhalten und flexibel anpassen**.
+Wer jedes Jahr von Hand notiert, was wo gepflanzt wurde, verliert schnell den Überblick. Genau hier kann Ihnen die [No-Code-Plattform]({{< relref "/" >}}) SeaTable helfen – eine digitale Lösung, mit der sich Ihre Pflanzpläne übersichtlich verwalten und langfristig optimieren lassen. Statt mit chaotischen Notizen oder Excel-Tabellen zu kämpfen, können Sie **Beete, Pflanzenarten und Fruchtfolgen strukturiert festhalten und flexibel anpassen**.
 
 Der Pflanzplan in SeaTable ist so aufgebaut, dass jede Beetreihe eine eigene Zeile erhält und die Pflanzen für die kommenden Jahre in separaten Spalten eingetragen werden. So bleibt jederzeit für Sie ersichtlich, welche Kultur aktuell wächst und was im nächsten Jahr folgen sollte. Farbcodierungen können Ihnen dabei helfen, die Kategorien Starkzehrer, Mittelzehrer, Schwachzehrer und Bodenverbesserer auf einen Blick zu unterscheiden. Zudem können Sie zusätzliche Notizen ergänzen – etwa zu Ernteerträgen, Wetterbedingungen oder Schädlingsbefall.  
 

@@ -105,7 +105,7 @@ The calculation of cost-per-hire is simple: **It is the sum of internal and exte
 
 ## SeaTable as free recruiting software
 
-The search for new talent can quickly become an expensive challenge for companies. This often raises the question: Where can you make savings without sacrificing quality? A smart answer is to use the right tools. Especially in the area of recruiting, there are software solutions that make processes more efficient and save your budget at the same time - an excellent option for this is [SeaTable](https://seatable.com/).
+The search for new talent can quickly become an expensive challenge for companies. This often raises the question: Where can you make savings without sacrificing quality? A smart answer is to use the right tools. Especially in the area of recruiting, there are software solutions that make processes more efficient and save your budget at the same time - an excellent option for this is [SeaTable]({{< relref "/" >}}).
 
 With SeaTable, you have the entire application process under control. From job advertisement to onboarding, everything can be managed centrally and clearly. The **free template for personnel recruiting** allows you to collect applications via a web form in which all important **data and documents** are recorded directly. These are then organized and clearly arranged in a table so that you always have an overview.
 

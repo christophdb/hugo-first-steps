@@ -86,7 +86,7 @@ Las tareas de un administrador de fincas son variadas y requieren conocimientos 
 
 ## Gestionar propiedades digitalmente con SeaTable
 
-La gestión de propiedades puede ser una tarea compleja y laboriosa, especialmente si gestiona varias propiedades al mismo tiempo. Con SeaTable, puede organizar sus **inmuebles de forma digital y eficiente** manteniendo siempre una visión de conjunto. Gracias a la estructura flexible de la [plataforma sin código](https://seatable.com/), puede organizar sus procesos individuales exactamente como desee. Además, **todos los datos relevantes pueden almacenarse y gestionarse de forma segura y centralizada en un único lugar**.
+La gestión de propiedades puede ser una tarea compleja y laboriosa, especialmente si gestiona varias propiedades al mismo tiempo. Con SeaTable, puede organizar sus **inmuebles de forma digital y eficiente** manteniendo siempre una visión de conjunto. Gracias a la estructura flexible de la [plataforma sin código]({{< relref "/" >}}), puede organizar sus procesos individuales exactamente como desee. Además, **todos los datos relevantes pueden almacenarse y gestionarse de forma segura y centralizada en un único lugar**.
 
 Una de las mayores ventajas de SeaTable es la posibilidad de asignar **derechos de acceso individuales**. Esto significa que puede definir quién puede ver qué datos de cada propiedad. Especialmente si gestiona varios inmuebles, es esencial que los datos de cada uno de ellos se mantengan separados: en SeaTable puede organizar todos los inmuebles en una única base de datos sin códigos, sin que nadie pueda acceder sin autorización a otros proyectos. Esto garantiza la protección de datos y cumple los requisitos del GDPR.
 

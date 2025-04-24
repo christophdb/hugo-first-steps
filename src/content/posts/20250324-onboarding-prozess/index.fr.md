@@ -141,7 +141,7 @@ En un seul clic, vous créez pour chaque nouveau collaborateur une liste de cont
 
 Dans le [modèle gratuit](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) de SeaTable, vous pouvez regrouper toutes les tâches et informations en un seul endroit. En attribuant à chaque tâche à faire des responsabilités claires ainsi qu'un horizon temporel et un statut, vous pouvez visualiser clairement la progression de l'incorporation et la suivre en direct.
 
-Misez sur un logiciel adapté et faites en sorte que vos nouveaux collaborateurs se sentent directement bienvenus et s'intègrent rapidement dans votre entreprise. Pour utiliser la [plate-forme No-Code SeaTable](https://seatable.com/), il vous suffit de vous inscrire gratuitement. Vous pouvez ensuite ajouter le modèle à votre base et le compléter avec vos propres données.
+Misez sur un logiciel adapté et faites en sorte que vos nouveaux collaborateurs se sentent directement bienvenus et s'intègrent rapidement dans votre entreprise. Pour utiliser la [plate-forme No-Code SeaTable]({{< relref "/" >}}), il vous suffit de vous inscrire gratuitement. Vous pouvez ensuite ajouter le modèle à votre base et le compléter avec vos propres données.
 
 [Essayer SeaTable gratuitement maintenant]({{< relref "pages/registration" >}})
 

@@ -37,7 +37,7 @@ Um die Herausforderungen der Datenverwaltung zu meistern, entschied sich das Dé
 
 ## Implementierung von SeaTable bei Hcéres
 
-Die Einführung von SeaTable begann mit einem Proof of Concept (POC) in einem einzigen Abteil. Diese Pilotphase konzentrierte sich auf die Verwaltung von Konventionen und potenziellen Expertenlisten. Aufgrund des Erfolgs dieses Tests wurde SeaTable schrittweise auf weitere Abteilungen und Evaluationsdienste des Hcéres ausgedehnt. Heute nutzt die Behörde die [No-Code-Plattform](https://seatable.com/) SeaTable, um Evaluierungskomitees effizient zu bilden und den Vorbereitungsprozess für Evaluierungen zu straffen.
+Die Einführung von SeaTable begann mit einem Proof of Concept (POC) in einem einzigen Abteil. Diese Pilotphase konzentrierte sich auf die Verwaltung von Konventionen und potenziellen Expertenlisten. Aufgrund des Erfolgs dieses Tests wurde SeaTable schrittweise auf weitere Abteilungen und Evaluationsdienste des Hcéres ausgedehnt. Heute nutzt die Behörde die [No-Code-Plattform]({{< relref "/" >}}) SeaTable, um Evaluierungskomitees effizient zu bilden und den Vorbereitungsprozess für Evaluierungen zu straffen.
 
 ![Beratung beim digitalen Umbruch mit SeaTable](pexels-edmond-dantes-4342496-1.jpg)
 

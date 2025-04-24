@@ -94,7 +94,7 @@ So do yourself a favor and use suitable software for your work breakdown structu
 
 If you want a mind map, **Miro** is the leading provider. However, there are also a dozen other tools, such as **MindManager**, with which you can achieve comparable results.
 
-If you need an easy to work through list of tasks and more structure than a mind map, [SeaTable](https://seatable.com/) is for you. With this project management and collaboration platform, you can easily assign work packages to responsible parties and sub-projects.
+If you need an easy to work through list of tasks and more structure than a mind map, [SeaTable]({{< relref "/" >}}) is for you. With this project management and collaboration platform, you can easily assign work packages to responsible parties and sub-projects.
 
 ## Advantages of the work breakdown structure template from SeaTable
 

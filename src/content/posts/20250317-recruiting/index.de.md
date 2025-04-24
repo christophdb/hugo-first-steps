@@ -1,6 +1,9 @@
 ---
 title: 'Recruiting kompakt: So finden und überzeugen Sie Talente'
 description: 'Ein erfolgreicher Recruiting-Prozess entscheidet darüber, ob Unternehmen zukunftsfähig bleiben oder im Wettbewerb zurückfallen. Erfahren Sie, welche Strategien und Methoden Ihr Recruiting auf das nächste Level heben und wie Sie im umkämpften Arbeitsmarkt die Nase vorn behalten.'
+seo:
+    title: "Recruiting: Tipps & Strategien für die Personalsuche"
+    description: "Die Zukunft des Recruitings: Erfahre mehr über neue Technologien und innovative Wege, um Top-Kandidaten zu finden und langfristig zu binden"
 date: 2025-03-17
 categories:
     - 'Best Practice'
@@ -106,7 +109,7 @@ Die Berechnung der Cost-per-Hire ist einfach: **Sie ergibt sich aus der Summe de
 
 ## SeaTable als kostenlose Recruiting Software
 
-Die Suche nach neuen Talenten kann für Unternehmen schnell zu einer teuren Herausforderung werden. Dabei stellt sich oft die Frage: Wo können Sie sparen, ohne an Qualität einzubüßen? Eine kluge Antwort liegt im Einsatz der richtigen Tools. Gerade im Bereich Recruiting gibt es Softwarelösungen, die Prozesse effizienter machen und gleichzeitig Ihr Budget schonen – eine hervorragende Option dafür ist [SeaTable](https://seatable.com/).
+Die Suche nach neuen Talenten kann für Unternehmen schnell zu einer teuren Herausforderung werden. Dabei stellt sich oft die Frage: Wo können Sie sparen, ohne an Qualität einzubüßen? Eine kluge Antwort liegt im Einsatz der richtigen Tools. Gerade im Bereich Recruiting gibt es Softwarelösungen, die Prozesse effizienter machen und gleichzeitig Ihr Budget schonen – eine hervorragende Option dafür ist [SeaTable]({{< relref "/" >}}).
 
 Mit SeaTable haben Sie den gesamten Bewerbungsprozess im Griff. Von der Stellenausschreibung bis zum Onboarding lässt sich alles zentral und übersichtlich managen. Das **kostenlose Template für Personalrecruiting** ermöglicht es Ihnen, Bewerbungen über ein Webformular zu sammeln, in dem alle wichtigen **Daten und Dokumente** direkt erfasst werden. Anschließend landen diese geordnet und übersichtlich in einer Tabelle, sodass Sie stets den Überblick behalten.
 

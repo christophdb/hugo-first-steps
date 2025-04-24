@@ -87,7 +87,7 @@ The tasks of a property manager are varied and require both technical and commer
 
 ## Manage properties digitally with SeaTable
 
-Property management can be a complex and time-consuming task - especially if you manage several properties at the same time. With SeaTable, you can organize your **properties digitally and efficiently** while always maintaining an overview. Thanks to the flexible structure of the [no-code platform](https://seatable.com/), you can map your individual processes exactly as you wish. In addition, **all relevant data can be stored and managed securely and centrally in one place**.
+Property management can be a complex and time-consuming task - especially if you manage several properties at the same time. With SeaTable, you can organize your **properties digitally and efficiently** while always maintaining an overview. Thanks to the flexible structure of the [no-code platform]({{< relref "/" >}}), you can map your individual processes exactly as you wish. In addition, **all relevant data can be stored and managed securely and centrally in one place**.
 
 One of the biggest advantages of SeaTable is the ability to assign **individual access rights**. This means that you can define who can view which data for each property. Especially if you manage several properties, it is essential that the data of the respective properties are separated from each other - in SeaTable you can organize all properties in a single no-code database without anyone gaining unauthorized access to other projects. This ensures data protection and fulfills the requirements of the GDPR.
 

@@ -146,7 +146,7 @@ Avant de passer des serveurs locaux au cloud, il convient d'élaborer une strat�
 
 ## Découvrez SeaTable pour votre cloud
 
-Un service cloud peu connu jusqu'à présent, mais très avantageux, est la [base de données No-Code SeaTable](https://seatable.com/), dans laquelle vous pouvez stocker vos données **conformément au RGPD** et avec les plus hautes mesures de sécurité **dans des centres de données allemands**. Choisissez entre
+Un service cloud peu connu jusqu'à présent, mais très avantageux, est la [base de données No-Code SeaTable]({{< relref "/" >}}), dans laquelle vous pouvez stocker vos données **conformément au RGPD** et avec les plus hautes mesures de sécurité **dans des centres de données allemands**. Choisissez entre
 
 - [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) en tant que cloud public
 - [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) pour votre cloud privé

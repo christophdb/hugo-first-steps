@@ -95,7 +95,7 @@ Por isso, faça um favor a si próprio e utilize o software adequado para a sua 
 
 Se pretender um mapa mental, **Miro** é o principal fornecedor. No entanto, existem também uma dúzia de outras ferramentas, como o **MindManager**, com as quais pode obter resultados comparáveis.
 
-Se precisar de uma lista de tarefas fácil de trabalhar e de mais estrutura do que um mapa mental, o [SeaTable](https://seatable.com/pt/) é a solução ideal para si. Com esta plataforma de gestão e colaboração de projectos, pode atribuir facilmente pacotes de trabalho a responsáveis e subprojectos.
+Se precisar de uma lista de tarefas fácil de trabalhar e de mais estrutura do que um mapa mental, o [SeaTable]({{< relref "/" >}}) é a solução ideal para si. Com esta plataforma de gestão e colaboração de projectos, pode atribuir facilmente pacotes de trabalho a responsáveis e subprojectos.
 
 ## Vantagens do modelo de estrutura analítica de trabalho do SeaTable
 

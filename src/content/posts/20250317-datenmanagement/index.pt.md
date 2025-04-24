@@ -116,7 +116,7 @@ Uma tendência que pode ser observada é a utilização crescente de soluções 
 
 ## Base de dados relacional sem código na nuvem ou no local
 
-Na [base de dados sem código SeaTable](https://seatable.com/pt/) baseada em tabelas, pode armazenar, recuperar e analisar eficazmente os seus dados sem ter de possuir quaisquer conhecimentos de SQL ou outra experiência técnica prévia. Não só pode facilmente estruturar e ligar dados, como também pode armazenar ficheiros, imagens e documentos.
+Na [base de dados sem código SeaTable]({{< relref "/" >}}) baseada em tabelas, pode armazenar, recuperar e analisar eficazmente os seus dados sem ter de possuir quaisquer conhecimentos de SQL ou outra experiência técnica prévia. Não só pode facilmente estruturar e ligar dados, como também pode armazenar ficheiros, imagens e documentos.
 
 Ao contrário de outras bases de dados relacionais, a **interface gráfica do utilizador** do SeaTable permite-lhe efetuar análises diretamente. Estão disponíveis numerosas estatísticas para uma análise mais aprofundada. Se isto não for suficiente, pode visualizar os seus dados em galerias, calendários, organogramas, etc. com a ajuda de [plugins](https://seatable.io/pt/docs/plugins/alle-plugins-in-der-uebersicht/).
 

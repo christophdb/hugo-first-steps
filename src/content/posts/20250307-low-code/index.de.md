@@ -130,7 +130,7 @@ Automatisierungsplattformen wie Zapier, make oder n8n dienen dazu, Daten zwisch
 
 ## SeaTable: No-Code-Datenbank mit integriertem App-Builder, Skripten und Automationen
 
-In SeaTable können Sie Prozesse und Anwendungen bequem über eine grafische Benutzeroberfläche im Browser konfigurieren. Dank der visuellen Elemente benötigen Sie dafür keine einzige Zeile Code, was SeaTable zu einer [No-Code-Lösung](https://seatable.com/) macht. Allerdings erlaubt SeaTable auch die Ausführung von manuell programmierten JavaScript- und Python-Skripten. Diese Möglichkeit entspricht eher dem Low Coding Ansatz, womit man SeaTable ebenso als Low Code Entwicklungsplattform bezeichnen könnte.
+In SeaTable können Sie Prozesse und Anwendungen bequem über eine grafische Benutzeroberfläche im Browser konfigurieren. Dank der visuellen Elemente benötigen Sie dafür keine einzige Zeile Code, was SeaTable zu einer [No-Code-Lösung]({{< relref "/" >}}) macht. Allerdings erlaubt SeaTable auch die Ausführung von manuell programmierten JavaScript- und Python-Skripten. Diese Möglichkeit entspricht eher dem Low Coding Ansatz, womit man SeaTable ebenso als Low Code Entwicklungsplattform bezeichnen könnte.
 
 Auch die Einordnung in eine Kategorie ist nicht eindeutig: Zum einen ist SeaTable eine **No-Code-Datenbank**, in der Sie nahezu jede Art von Information speichern, organisieren und visualisieren können. Dafür stehen Ihnen unter anderem 25 verschiedene Spaltentypen, Plugins wie Galerie, Kanban, Karte oder Kalender, Ansichten mit Filter-, Sortier- und Gruppierungsfunktionen sowie Statistiken und Webformulare zur Verfügung.
 

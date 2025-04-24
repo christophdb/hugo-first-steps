@@ -142,7 +142,7 @@ Before you switch from local servers to the cloud, you should develop a well tho
 
 ## Discover SeaTable for your cloud
 
-A little-known but very inexpensive cloud service is the [no-code database SeaTable](https://seatable.com/), in which you can store your data **DSGVO-compliant** and under the highest security precautions **in German data centers**. Choose between
+A little-known but very inexpensive cloud service is the [no-code database SeaTable]({{< relref "/" >}}), in which you can store your data **DSGVO-compliant** and under the highest security precautions **in German data centers**. Choose between
 
 - [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) as a public cloud
 - [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) for your private cloud
