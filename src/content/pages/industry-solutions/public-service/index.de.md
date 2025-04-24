@@ -1,6 +1,9 @@
 ---
 title: 'Digitale Verwaltung für Behörden &amp; Unternehmen einfach gemacht'
 description: 'Digitale Verwaltung neu gedacht: Seatable ermöglicht flexible und anpassbare Lösungen für Behörden und Unternehmen jeder Größe'
+seo:
+    title: "Digitale Verwaltung für Behörden &amp; Unternehmen | SeaTable"
+    description: "Digitale Verwaltung neu gedacht: Seatable ermöglicht flexible und anpassbare Lösungen für Behörden und Unternehmen jeder Größe"
 date: '2025-04-03'
 url: '/de/digitale-verwaltung'
 

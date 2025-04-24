@@ -1,6 +1,9 @@
 ---
 title: '10 Tipps, die Sie kennen sollten, bevor Sie Ihre Veranstaltungen verwalten'
 description: 'Die perfekte Veranstaltung zu planen klingt nach Stress? Muss es nicht! Mit den richtigen Tools und einer klaren Checkliste wird aus komplexer Planung ein einfacher Ablauf. Lesen Sie, wie Sie selbst große Events professionell managen und worauf es wirklich ankommt.'
+seo:
+    title: "Veranstaltung verwalten | 10 Tipps für Ihren Erfolg | SeaTable"
+    description: "Lesen Sie, wie selbst große Veranstaltungen professionell verwaltet werden können und wie Tools Sie bei komplexen Planungen unterstützen"
 date: 2025-03-23
 url: '/de/veranstaltung-verwalten'
 tags: 
