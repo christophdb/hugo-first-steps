@@ -23,7 +23,7 @@ Die DSIM sah sich mit der Herausforderung konfrontiert, sensible Daten sicher un
 
 Um diese Herausforderungen zu bewältigen, testete die DSIM verschiedene Tools, darunter auch SeaTable. SeaTable überzeugte durch seine Flexibilität und kollaborativen Funktionen, weshalb es für eine Testphase ausgewählt wurde. In dieser Testphase nutzten die Teams die kostenlose Version von SeaTable, um sich mit den Funktionen vertraut zu machen. Schon bald erkannte die DSIM den Mehrwert der Lösung und entschied sich, auf die Enterprise-Version umzusteigen, um alle Teams in das neue System einzubinden.
 
-![](pexels-anthonyshkraba-production-8374293.jpg)
+![Modernisierung öffentlicher Prozesse durch Digitalisierung](pexels-anthonyshkraba-production-8374293.jpg)
 
 ### Erfolgreiche Einführung von SeaTable – Schrittweise Transformation in der Datenverwaltung
 
@@ -38,7 +38,7 @@ Die Vorteile der Umstellung auf SeaTable ließen nicht lange auf sich warten:
 - **Erhöhte Datensicherheit durch Rechteverwaltung:** Durch eine genaue Rechtevergabe wurde die Datensicherheit erhöht und die Zusammenarbeit zwischen den Abteilungen verbessert.
 - **Präzisere Berichte und verbesserte Entscheidungsfindung:** Mit SeaTable wurden die Berichte klarer und übersichtlicher, was die Entscheidungsprozesse effizienter gestaltete.
 
-![](pexels-artempodrez-5716042.jpg)
+![Steigerung der Arbeitsprozesse durch Auswertungsmöglichkeiten](pexels-artempodrez-5716042.jpg)
 
 ### Nutzerakzeptanz und Zusammenarbeit – Wie Workshops den Erfolg sicherten
 
@@ -49,7 +49,7 @@ Zudem ermöglichte der Austausch bewährter Praktiken mit anderen Gemeinden, die
 
 Durch die Einführung von SeaTable konnte der Conseil Départemental de la Manche seine Prozesse in der Datenverwaltung entscheidend modernisieren. Dank der zentralisierten Verwaltung, der verbesserten Zusammenarbeit und der erhöhten Datensicherheit ist SeaTable zu einem unverzichtbaren Werkzeug für die Behörde geworden. Die sorgfältige Vorbereitung, die schrittweise Einführung und die aktive Einbindung der Nutzer sorgten dafür, dass die Transformation reibungslos verlief.
 
-![](jason-goodman-Oalh2MojUuk-unsplash.jpg)
+![Verbesserte Zusammenarbeit öffentlicher Behörden](jason-goodman-Oalh2MojUuk-unsplash.jpg)
 
 ## Revolutionieren Sie Ihre Datenverwaltung mit SeaTable
 

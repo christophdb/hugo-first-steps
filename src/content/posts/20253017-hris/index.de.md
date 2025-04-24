@@ -39,7 +39,7 @@ Zudem ist manchmal die Rede vom Human Capital Management (HCM). Dieses bezieht z
 - Vergütungsmanagement
 - Personalentwicklung und Weiterbildung
 
-![](Grafik-HRIS-vs-HMRS.jpg)
+![Grafik HRIS vs. HMRS](Grafik-HRIS-vs-HMRS.jpg)
 
 Je nach Anbieter unterscheidet sich der Funktionsumfang der Personalverwaltungssoftware erheblich. Achten Sie bei der Auswahl Ihrer HR Management Software also darauf, welche Funktionen Sie benötigen. Während ein HRIS mit einer einfachen Mitarbeiterdatenbank für alltägliche administrative Prozesse überzeugt, bringt ein HRMS komplexere Funktionen für die (qualitative) Personalplanung mit sich.
 
@@ -47,7 +47,7 @@ Je nach Anbieter unterscheidet sich der Funktionsumfang der Personalverwaltungss
 
 Im Wesentlichen bietet Ihnen ein HRIS die Chance, Prozesse in Ihrer Personalabteilung effizienter zu gestalten und datengestützte Entscheidungen zu treffen. Denn die Personalabteilung ist neben der Buchhaltung eine der **verwaltungsintensivsten** Abteilungen jedes Unternehmens. Deswegen sind Sie nicht nur mit einer enormen Menge an Bürokratie und Unterlagen konfrontiert, sondern Sie verwalten auch besonders wertvolle und **sensible Informationen** über Ihre Beschäftigten und Bewerber. 
 
-Über ein HRIS erhalten Mitarbeiter normalerweise Zugriff auf bestimmte digitale Systeme zur **Arbeitszeiterfassung**, **[Urlaubsplanung](https://seatable.com/urlaubsplanung/)** und **Krankmeldung**. Das heißt, sie können selbst ihre Daten erfassen und Dokumente hochladen und entlasten damit die Personalabteilung. Über diese HR-Datenbank können Sie Ihren Beschäftigten im Sinne des **Employee Self Service** zudem Gehaltsabrechnungen, Formulare für bestimmte Anträge sowie Infomaterial und Checklisten zu bestimmten Prozessen wie beispielsweise On- und Offboarding zur Verfügung stellen.
+Über ein HRIS erhalten Mitarbeiter normalerweise Zugriff auf bestimmte digitale Systeme zur **Arbeitszeiterfassung**, **[Urlaubsplanung]({{< relref "posts/20250324-urlaubsplanung" >}})** und **Krankmeldung**. Das heißt, sie können selbst ihre Daten erfassen und Dokumente hochladen und entlasten damit die Personalabteilung. Über diese HR-Datenbank können Sie Ihren Beschäftigten im Sinne des **Employee Self Service** zudem Gehaltsabrechnungen, Formulare für bestimmte Anträge sowie Infomaterial und Checklisten zu bestimmten Prozessen wie beispielsweise On- und Offboarding zur Verfügung stellen.
 
 Ein modernes Personalinformationssystem kann außerdem Workflows automatisieren, Feedback integrieren und Daten für das Reporting aggregieren. Durch die Synchronisation in Echtzeit, intuitive Benutzeroberflächen und flexible Funktionen ermöglichen moderne HRIS heute äußerst effizient, produktiv und agil zu arbeiten.
 

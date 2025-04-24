@@ -30,7 +30,7 @@ Unter **Datenmanagement** (englisch: Data Management) versteht man die Gesamthe
 - fundierte Geschäftsentscheidungen treffen
 - Produktivität und Effizienz steigern
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 Dimensionen von Datenqualität](Vorteile-dank-Datenmanagement.jpg)
 
 ### Was gehört zum Datenmanagement?
 
