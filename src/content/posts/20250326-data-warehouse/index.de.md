@@ -1,6 +1,9 @@
 ---
 title: 'Wie Sie mit einem Data Warehouse Ihre Daten nutzbar machen'
 description: 'Data Warehouse, Datenbank, Data Lake: Diese Begriffe können verwirrend sein – meinen sie doch alle ein System, das Daten speichert. Der folgende Artikel bringt Licht ins Dunkel und erklärt, was ein Data Warehouse für Vorteile hat und wie Data Warehousing funktioniert.'
+seo:
+    title: "Data Warehouse: Vorteile für Ihr Unternehmen im Überblick"
+    description: "Entdecken Sie die Grundlagen und fortgeschrittenen Techniken des Data Warehousing. Erfahren Sie, wie Sie Daten effektiv speichern"
 date: 2025-03-26
 categories:
     - 'Allgemein'

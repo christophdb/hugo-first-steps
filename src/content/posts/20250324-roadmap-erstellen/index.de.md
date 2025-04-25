@@ -1,6 +1,9 @@
 ---
 title: 'Roadmap erstellen: Wie Sie Ihr nächstes Projekt übersichtlich visualisieren'
 description: 'Eine gut strukturierte Roadmap ist mehr als nur ein Zeitplan – sie zeigt den Weg zu Ihren Zielen klar und verständlich auf. Ob Strategieentwicklung, Projektmanagement oder Fortschrittskontrolle: Mit einer Roadmap behalten Sie jederzeit den Überblick. Hier erfahren Sie, wie Sie eine Roadmap erstellen und dabei mit der richtigen Vorlage Zeit und Ressourcen sparen.'
+seo:
+    title: "Roadmap erstellen: Projekt übersichtlich visualisieren"
+    description: "In diesem Blogartikel erfahren Sie, wie Sie eine Roadmap erstellen und dabei mit der richtigen Vorlage Zeit und Ressourcen sparen"
 date: 2025-03-24
 categories:
     - 'Best Practice'

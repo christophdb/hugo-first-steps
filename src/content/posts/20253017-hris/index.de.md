@@ -1,6 +1,9 @@
 ---
 title: 'HRIS – was es ist und wie Ihr Unternehmen davon profitiert'
 description: 'Eine effiziente Personalverwaltung ist heutzutage ohne ein HRIS (Human Resources Information System) praktisch unmöglich – zumindest, wenn Ihr Unternehmen eine gewisse Größe erreicht hat. In diesem Artikel werfen wir einen Blick auf den Unterschied zwischen einem Personalinformationssystem (HRIS) und einem Personalmanagementsystem (HRMS) und diskutieren, wie Sie Ihr Personalmanagement mit einer Software samt HR-Datenbank effizienter gestalten.'
+seo:
+    title: "HRIS – was es ist und wie Ihr Unternehmen davon profitiert"
+    description: "In diesem Artikel zeigen wir den Unterschied zwischen einem Personalinformationssystem (HRIS) und einem Personalmanagementsystem (HRMS)"
 date: 2025-03-17
 categories:
     - 'Allgemein'

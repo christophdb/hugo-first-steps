@@ -1,6 +1,9 @@
 ---
 title: 'Bauinstallations-Firma entwickelt effizientes Auftragsmanagement mit SeaTable'
 description: 'Ein chinesisches Unternehmen aus der Bauinstallationsbranche hat mit SeaTable seine Auftragsverwaltung neu aufgesetzt und damit seine digitale Transformation erfolgreich vorangebracht. Entstanden ist ein hocheffizientes, modernes Management-System mit Universal App.'
+seo:
+    title: "Customer Story chinesische Bauinstallations-Firma | SeaTable"
+    description: "Erfahren Sie, wie SeaTable bei einer Bauinstallations-Firma die Auftragsverwaltung neu aufsetzte und die digitale Transformation einleitete"
 date: 2025-03-21
 categories:
     - 'Allgemein'

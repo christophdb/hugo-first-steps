@@ -1,6 +1,9 @@
 ---
 title: 'Der ultimative Guide zum erfolgreichen Onboarding'
 description: 'Ein gut durchdachtes Onboarding ist der Schlüssel für einen erfolgreichen Start neuer Mitarbeitender. Mit klar definierten Prozessen sorgen Sie dafür, dass sich neue Teammitglieder schnell zurechtfinden und produktiv werden. In diesem Artikel erfahren Sie, wie Sie ein strukturiertes Onboarding-Konzept erstellen und erfolgreich umsetzen.'
+seo:
+    title: "Onboarding Prozess: Erfolgreiches Einarbeiten der Mitarbeiter"
+    description: "In diesem Artikel erfahren Sie, wie Sie ein strukturiertes Onboarding-Konzept für neie Mitarbeiter erstellen und erfolgreich umsetzen"
 date: 2025-03-24
 categories:
     - 'Allgemein'
