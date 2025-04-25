@@ -1,6 +1,9 @@
 ---
 title: 'Cómo crear y aplicar un plan de marketing profesional'
 description: 'A los equipos de marketing rara vez les faltan ideas creativas. Esto hace que un plan de marketing cuidadosamente desarrollado sea aún más importante para planificar e implementar sus campañas de manera específica. Le mostramos en 6 pasos lo que es importante y cómo puede aplicarlo fácilmente, con una plantilla digital.'
+seo:
+    title: "Crear un plan de marketing: Cómo alcanzar tus objetivos | SeaTable"
+    description: "Aprende a crear un plan de marketing eficaz para alcanzar tus objetivos empresariales, desde el análisis hasta la implementación"
 date: 2025-03-18
 categories:
     - 'General'

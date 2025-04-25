@@ -1,6 +1,9 @@
 ---
 title: 'A importância da gestão de dados para a digitalização nas empresas'
 description: 'As empresas precisam de dados para tomar decisões estratégicas e operacionais. Mas como é que se pode criar uma gestão de dados moderna e eficiente que realmente mereça esse nome? Continue a ler para saber o que é a gestão de dados e quais os diferentes sistemas de bases de dados disponíveis.'
+seo:
+    title: "Gestão de dados para a digitalização nas empresas"
+    description: "Leia a nossa publicação no blogue para saber o que é a gestão de dados e quais os diferentes sistemas de bases de dados disponíveis."
 date: 2025-03-17
 categories:
     - 'Informações gerais'
@@ -27,7 +30,7 @@ A **gestão de dados** refere-se à totalidade de todos os processos, métodos e
 - tomar decisões comerciais bem fundamentadas
 - Aumentar a produtividade e a eficiência
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 dimensões da qualidade dos dados](Vorteile-dank-Datenmanagement.jpg)
 
 ### O que é que a gestão de dados envolve?
 

@@ -1,6 +1,9 @@
 ---
 title: '10 tips you should know before managing your events'
 description: "Planning the perfect event sounds stressful? It doesn't have to be! With the right tools and a clear checklist, complex planning becomes a simple process. Read how to manage even large events professionally and what really matters."
+seo:
+    title: "Manage your event | 10 tips for your success | SeaTable"
+    description: "Read how even large events can be professionally managed and how tools can help you with complex planning"
 date: 2025-03-23
 url: '/event-management'
 tags:

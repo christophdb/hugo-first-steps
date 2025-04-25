@@ -4,7 +4,6 @@ description: 'Maßgeschneiderte Software-Lösungen für Ihre speziellen Prozesse
 seo:
     title: "Citizen Developer – Gamechanger in der Digitalisierung"
     description: "Entwickeln Sie eigene Softwarelösungen mit Citizen Developern! Dieser Artikel zeigt Ihnen, wie Sie das Know-how Ihrer Fachabteilungen nutzen"
-    
 date: 2025-03-17
 categories:
     - 'No Code / Low Code'

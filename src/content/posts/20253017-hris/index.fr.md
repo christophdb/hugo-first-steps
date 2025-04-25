@@ -40,7 +40,7 @@ En outre, on parle parfois de gestion du capital humain (HCM). Celui-ci intègre
 - Gestion de la rémunération
 - Développement du personnel et formation continue
 
-![](Mitarbeiterverzeichnis.jpg)
+![Graphique HRIS vs. HMRS](Mitarbeiterverzeichnis.jpg)
 
 Selon le fournisseur, l'étendue des fonctions du logiciel de gestion du personnel varie considérablement. Lors du choix de votre logiciel de gestion RH, faites donc attention aux fonctions dont vous avez besoin. Alors qu'un SIRH convainc par une simple base de données des collaborateurs pour les processus administratifs quotidiens, un SGRH apporte des fonctions plus complexes pour la planification (qualitative) du personnel.
 

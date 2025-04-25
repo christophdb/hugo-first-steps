@@ -1,6 +1,10 @@
 ---
 title: "Comment créer et mettre en œuvre un plan marketing professionnel"
 description: "Les équipes de marketing manquent rarement d'idées créatives. Un plan marketing soigneusement élaboré est donc d'autant plus important pour planifier et mettre en œuvre vos campagnes de manière ciblée. Nous vous montrons en 6 étapes ce qui est important et comment vous pouvez facilement passer à la mise en œuvre - avec un modèle numérique."
+seo:
+    title: "Créer un plan marketing : Comment atteindre vos objectifs | SeaTable"
+    description: "Découvrez comment créer un plan marketing efficace pour atteindre vos objectifs commerciaux, de l'analyse à la mise en œuvre."
+
 date: 2025-03-18
 categories: 
   - "Général"

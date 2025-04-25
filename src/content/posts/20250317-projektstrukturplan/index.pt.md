@@ -1,6 +1,9 @@
 ---
 title: "Como criar uma estrutura analítica do trabalho eficaz - modelo e sugestões"
 description: "Uma estrutura analítica do trabalho é um método eficaz para apresentar e estruturar claramente projectos complexos. Aqui pode descobrir quando deve criar um modelo de estrutura analítica do trabalho, como pode proceder e quais as ferramentas que o podem ajudar."
+seo:
+    title: "Criar estrutura analítica do trabalho | Ferramentas e modelos | SeaTable"
+    description: "Não volte a ficar atolado no caos dos projectos! Descubra as vantagens de uma estrutura analítica do trabalho bem pensada e como criar uma"
 date: 2025-03-17
 categories: 
   - "Informações gerais"

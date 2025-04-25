@@ -1,9 +1,12 @@
 ---
 title: '10 consejos que debe conocer antes de gestionar sus eventos'
 description: '¿Planificar el evento perfecto le parece estresante? No tiene por qué. Con las herramientas adecuadas y una lista de comprobación clara, la planificación compleja se convierte en un proceso sencillo. Lea cómo gestionar incluso grandes eventos de forma profesional y qué es lo que realmente importa.'
+seo:
+    title: 'VGestione su evento | 10 consejos para su éxito | SeaTable'
+    description: 'Lea cómo incluso los grandes eventos pueden gestionarse de forma profesional y cómo las herramientas pueden ayudarle con una planificación compleja'
 date: 2025-03-23
 url: '/es/veranstaltung-verwalten'
-tags: 
+tags:
 categories:
 color: '#f7c1cf'
 ---

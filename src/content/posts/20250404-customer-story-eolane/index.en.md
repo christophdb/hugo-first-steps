@@ -18,7 +18,7 @@ url: "/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-
 
 éolane is the leading electronic manufacturing services (EMS) company in France, developing state-of-the-art electronic circuit boards and integrating them into its customers' end products. The company was increasingly confronted with the challenges of ever more complex order processes. Traditional tools, such as spreadsheets, could no longer meet the requirements and the company was looking for a flexible and powerful solution to optimize their data and order management.
 
-![](pexels-tima-miroshnichenko-6755080.jpg)
+![Picture circuit boards from éolane](pexels-tima-miroshnichenko-6755080.jpg)
 
 ## The challenge: Managing complex order processes with traditional tools
 
@@ -32,7 +32,7 @@ Bruno Vérilhac, responsible for data and processes at éolane, tested ten diffe
 
 In just two months, Bruno Vérilhac was able to develop and implement a customized solution with SeaTable that digitized the entire order processes. From customer requirements to tracking the schedules of support teams in the workshops, SeaTable facilitates the management of complex processes involving dozens of employees per order.
 
-![](pexels-www-erzetich-com-2517330.jpg)
+![Working on a circuit board from éolane](pexels-www-erzetich-com-2517330.jpg)
 
 ## More efficient processes and improved collaboration through no-code automation
 
@@ -46,7 +46,7 @@ The implementation of SeaTable led to immediate improvements. Processes were sta
 
 Today, éolane benefits from centralized and optimized order management, where every process is monitored with the utmost precision. The challenges associated with data instability and rights management are a thing of the past. SeaTable has not only solved these problems, but has also significantly improved collaboration and communication within the company. éolane is a perfect example of how digitalization, when implemented correctly, can transform a company.
 
-![](pexels-vojtech-okenka-127162-392018.jpg)
+![Digital order management with SeaTable](pexels-vojtech-okenka-127162-392018.jpg)
 
 ## Would you like to make your order and data processes more efficient?
 

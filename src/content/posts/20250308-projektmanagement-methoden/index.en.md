@@ -1,6 +1,9 @@
 ---
 title: 'The 10 most popular project management methods at a glance'
 description: 'Choosing the right project management methods is often crucial to the success of a project. After all, not every approach is suitable for every project. But which methods are actually available? And which one makes the most sense when? Take a look at the top 10 with us to determine the right approach for your project.'
+seo:
+    title: "Project management methods: Agile vs. waterfall & co."
+    description: "Which project management method suits you best? Our comprehensive guide compares Scrum, Kanban, PRINCE2 and co."
 date: 2025-03-08
 categories:
     - 'General'

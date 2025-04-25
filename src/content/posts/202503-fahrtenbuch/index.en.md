@@ -1,6 +1,9 @@
 ---
 title: "Free template: It's so easy to keep a digital logbook"
 description: 'A logbook can be more than just annoying bureaucracy - it offers you the opportunity to save money. With the right digital tools, you can maximize your benefits and avoid costly mistakes. Discover how to keep a smart logbook and which solutions can help you!'
+seo:
+    title: "Keep a digital logbook: It's that easy | SeaTable"
+    description: "A digital logbook has many advantages. Discover how to keep a smart logbook without the hassle of bureaucracy."
 date: 2025-04-01
 url: '/digital-logbook'
 tags:

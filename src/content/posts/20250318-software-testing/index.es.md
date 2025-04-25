@@ -1,6 +1,9 @@
 ---
 title: 'Pruebas eficaces de software: cómo optimizar la resolución de problemas'
 description: 'Todo software tiene sus trampas, pero sólo quien las encuentra puede solucionarlas. Las pruebas de software descubren errores ocultos y garantizan que las ideas se conviertan en productos maduros. Descubra aquí cómo las pruebas hacen que su aplicación sea más estable y por qué son esenciales para el éxito de los proyectos.'
+seo:
+    title: "Pruebas de software: cómo optimizar la resolución de problemas"
+    description: "Aprenda cómo las pruebas de software hacen que su aplicación sea más estable y por qué son esenciales para el éxito de los proyectos"
 date: 2025-03-18
 categories:
     - 'General'

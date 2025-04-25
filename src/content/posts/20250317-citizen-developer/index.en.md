@@ -1,6 +1,9 @@
 ---
 title: 'Citizen Developer - Gamechanger in digitization?'
 description: 'Are customized software solutions for your specific processes in short supply? Then develop your own solutions! Find out in this article how you can use the expertise in your specialist departments and set up efficient digital processes by involving citizen developers in the development process.'
+seo:
+    title: "Citizen Developer - Gamechanger in digitalisation"
+    description: "Develop your own software solutions with Citizen Developers! This article shows you how to utilise the expertise of your specialist departments"
 date: 2025-03-17
 categories:
     - 'No Code / Low Code'

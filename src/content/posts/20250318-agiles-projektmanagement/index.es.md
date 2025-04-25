@@ -1,6 +1,9 @@
 ---
 title: 'Gestión ágil de proyectos: comparación de 10 herramientas prácticas'
 description: 'La gestión ágil de proyectos se ha convertido en parte integrante del mundo laboral moderno. Aquí presentamos sus ventajas, su funcionamiento y los métodos más importantes. Además: una comparación de las herramientas más conocidas para la gestión ágil de proyectos.'
+seo:
+    title: "Gestión ágil de proyectos: fundamentos y métodos"
+    description: "Conoce los fundamentos de la gestión ágil de proyectos. Consejos prácticos y estrategias probadas para la gestión flexible de proyectos"
 date: 2025-03-18
 categories:
     - 'General'

@@ -1,6 +1,9 @@
 ---
 title: "Les 10 méthodes de gestion de projet les plus populaires en un coup d'œil"
 description: Le choix des bonnes méthodes de gestion de projet est souvent décisif pour la réussite d'un projet. En effet, chaque approche n'est pas toujours adaptée à chaque projet. Mais quelles sont les méthodes existantes ? Et quand est ce qu'il faut choisir la meilleure ? Jetez avec nous un coup d'œil sur le top 10 afin de déterminer l'approche la plus adaptée à votre projet'
+seo:
+    title: "Méthodes de gestion de projet : Agile vs. Chute d'eau & Co."
+    description: "Quelle est la méthode de gestion de projet qui vous convient le mieux ? Notre guide complet compare Scrum, Kanban, PRINCE2 et autres."
 date: 2025-03-08
 categories:
     - 'Général'

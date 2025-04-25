@@ -1,6 +1,9 @@
 ---
 title: "Recrutamento compacto: como encontrar e convencer talentos"
 description: "Um processo de recrutamento bem sucedido determina se as empresas se mantêm preparadas para o futuro ou se ficam atrás da concorrência. Descubra quais as estratégias e métodos que levarão o seu recrutamento para o próximo nível e como pode manter-se à frente num mercado de trabalho competitivo."
+seo:
+    title: "Recrutamento: dicas e estratégias para encontrar as pessoas certas"
+    description: "O futuro do recrutamento: conheça as novas tecnologias e as formas inovadoras de encontrar e reter os melhores candidatos"
 date: 2025-03-17
 categories: 
   - "Informações gerais"

@@ -1,6 +1,9 @@
 ---
 title: 'Agile project management: 10 practical tools in comparison'
 description: 'Agile project management has become an integral part of the modern working world. Here we present the advantages, how it works and the most important methods. Plus: a comparison of the best-known tools for agile project management.'
+seo:
+    title: "Agile project management: basics and methods"
+    description: "Get to know the basics of agile project management. Practical tips and proven strategies for flexible project management"
 date: 2025-03-18
 lastmod: 2025-04-05T01:14:54+01:00
 categories:

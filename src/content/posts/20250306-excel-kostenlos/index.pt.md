@@ -1,6 +1,9 @@
 ---
 title: 'Excel de graça? Cálculo em folhas de cálculo: programas em comparação'
 description: "Precisa de uma folha de cálculo poderosa mas tem dificuldades com o Excel? Ou tem preocupações com a proteção de dados da gigante americana Microsoft? Não há problema! Há muitos programas que, ao contrário do Excel, são gratuitos ou até oferecem mais funções. Mergulhe no mundo das soluções de folha de cálculo!"
+seo:
+    title: "Excel grátis | Folhas de cálculo | Ferramentas em comparação"
+    description: "Gostaria de utilizar o Excel gratuitamente? Descubra alternativas inteligentes ao Excel na nossa publicação do blogue. Folhas de cálculo eficientes"
 date: 2025-03-06
 categories:
     - 'Informações gerais'
@@ -131,7 +134,7 @@ Se suspeitar de mais semelhanças com o Google Sheets com base no nome e na aleg
 
 Mas estaria a fazer uma injustiça ao Zoho Sheet se lhe negasse toda a sua individualidade! No domínio da análise de dados, oferece mais do que o seu homólogo do Google, com um solucionador e uma função de valor-alvo. Devido ao seu papel menos dominante no mercado, é também agradavelmente **integrativa**. Pode guardar as folhas de cálculo criadas no Zoho Sheet no seu próprio armazenamento online - **Zoho Docs** para indivíduos, **Zoho WorkDrive** para equipas - ou numa conta integrada do Google Drive, OneDrive ou Dropbox. A exportação de ficheiros é possível em ficheiros .csv, .xlsx e .ods.
 
-![](Screenshot_Zoho_Sheet.jpg)
+![Captura de ecrã do Zoho Sheet](Screenshot_Zoho_Sheet.jpg)
 
 ### Vantagens e desvantagens se quiser utilizá-lo como um substituto gratuito do Excel
 
@@ -165,7 +168,7 @@ O facto de o SeaTable fazer as coisas de forma diferente das outras folhas de c�
 
 Os campos de seleção simples são semelhantes às listas pendentes que podem ser apresentadas no Excel através da validação de dados, mas são mais flexíveis e fáceis de utilizar. Os campos de seleção múltipla, que não têm equivalente no Excel, ajudam a categorizar e a escrever os dados. Com estes tipos de colunas alargadas, todos os tipos de informação concebíveis podem ser armazenados numa tabela. **Os diferentes locais de armazenamento** para diferentes tipos de dados são agora uma coisa do passado.
 
-![](Screenshot_SeaTable.jpg)
+![Captura de ecrã SeaTable Datenorganisation](Screenshot_SeaTable.jpg)
 
 ### Folhas de cálculo com o poder das bases de dados sem código e dos criadores de aplicações
 
@@ -177,7 +180,7 @@ Os principiantes no SeaTable terão primeiro de se habituar a definir os tipos d
 
 Naturalmente, o SeaTable também tem as funções clássicas de uma folha de cálculo: **filtros**, **classificação** e **agrupamento** colocam os dados na ordem desejada, **tabelas dinâmicas** permitem avaliar rapidamente até grandes conjuntos de dados e os vários **tipos de gráficos** apresentam os dados visualmente. Mas tal como acontece com os tipos de dados suportados, o SeaTable também vai um passo mais além do que os outros concorrentes do Excel no que diz respeito às opções de visualização.
 
-![](Screenshot_SeaTable_Statistics.jpg)
+![Captura de ecrã das opções de avaliação do SeaTable para visualização de dados](Screenshot_SeaTable_Statistics.jpg)
 
 Os [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) do SeaTables oferecem opções de visualização avançadas para tipos de dados não numéricos: No plugin de mapa, os dados de endereço e geoposição podem ser apresentados num mapa e o plugin de galeria apresenta claramente os dados de imagem armazenados numa tabela em álbuns. Os dados de compromissos introduzidos numa tabela podem ser visualizados no plugin de calendário ou de cronologia e o plugin Kanban apresenta fluxos de trabalho com diferentes fases, como só é conhecido nas aplicações de [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}).
 

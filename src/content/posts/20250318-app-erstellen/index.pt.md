@@ -1,6 +1,9 @@
 ---
 title: 'Rápido, fácil e gratuito: Como criar a sua própria aplicação sem código'
 description: "Desenvolver a sua própria aplicação não tem de ser dispendioso ou complicado. Com as modernas ferramentas sem código, pode implementar as suas ideias de forma rápida e fácil - sem qualquer conhecimento de programação. Neste artigo, irá descobrir que ferramentas são particularmente adequadas e como pode criar a sua própria aplicação em apenas alguns passos."
+seo:
+    title: "Criar uma aplicação: Solução sem código, sem conhecimentos de programação"
+    description: "Criar as suas próprias aplicações de forma fácil! Descubra formas simples de desenvolver aplicações personalizadas sem conhecimentos de programação"
 date: 2025-03-18
 categories:
     - 'Informações gerais'

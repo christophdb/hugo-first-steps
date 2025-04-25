@@ -1,6 +1,9 @@
 ---
 title: "Low code, no code e o desenvolvimento de software do futuro"
 description: "Graças ao desenvolvimento sem código e de baixo código, as pessoas com pouco ou nenhum conhecimento de programação podem finalmente construir as suas próprias aplicações Web. Mas o que é que significa realmente \"low code\"? Em que é que difere do \"sem código\" e da codificação clássica? E que plataforma de baixo código é adequada para que aplicação? Encontrará as respostas neste artigo."
+seo:
+    title: "Low Code No Code | Desenvolvimento de Software com Futuro | SeaTable"
+    description: "O novo mundo de low-code e no-code! Aprenda a criar aplicações poderosas sem conhecimentos de programação"
 date: 2025-03-07
 categories: 
   - "No Code / Low Code"
@@ -134,7 +137,7 @@ A classificação numa categoria também não é clara: por um lado, o SeaTable 
 
 O SeaTable também oferece um **No Code App Builder**, que pode utilizar para criar as suas próprias aplicações sem quaisquer conhecimentos de programação. Uma aplicação acede à informação no backend da base de dados e apresenta-a de forma optimizada para o utilizador final. Para o design da aplicação, existem tipos de páginas prontas com elementos visuais que pode simplesmente arrastar e largar.
 
-![](No-Code-App-Builder.jpg)
+![Captura de ecrã do criador de aplicações sem código SeaTable](No-Code-App-Builder.jpg)
 
 Além disso, o SeaTable facilita a criação de automações que poupam cliques manuais para os mesmos processos repetidamente e, ao mesmo tempo, minimizam a suscetibilidade a erros de actividades monótonas. Para processos automatizados com várias fontes de dados, também pode integrar o SeaTable com plataformas de automatização como o Zapier, make ou n8n.
 

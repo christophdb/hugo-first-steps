@@ -1,6 +1,9 @@
 ---
 title: 'Citizen Developer - Gamechanger dans la numérisation ?'
 description: 'Les solutions logicielles sur mesure pour vos processus spécifiques sont rares ? Alors, développez vos propres solutions ! Découvrez dans cet article comment utiliser le savoir-faire au sein de vos départements spécialisés et mettre en place des processus numériques efficaces en impliquant des Citizen Developers dans le développement'
+seo:
+    title: "Citizen Developer - Gamechanger dans la numérisation"
+    description: "Développez vos propres solutions logicielles avec les Citizen Developers ! Cet article vous montre comment utiliser le savoir-faire de vos départements spécialisés."
 date: 2025-03-17
 categories:
     - 'No Code / Low Code'

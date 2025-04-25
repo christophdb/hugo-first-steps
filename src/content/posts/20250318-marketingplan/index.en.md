@@ -1,6 +1,9 @@
 ---
 title: 'How to create and implement a professional marketing plan'
 description: 'Marketing teams are rarely short of creative ideas. This makes it all the more important to have a carefully developed marketing plan in order to plan and implement your campaigns in a targeted manner. In 6 steps, we show you what is important and how you can easily implement it - with a digital template.'
+seo:
+    title: "Create a marketing plan: How to achieve your goals | SeaTable"
+    description: "Learn how to create an effective marketing plan to achieve your business goals, from analysis to implementation"
 date: 2025-03-18
 categories: 
   - "General"

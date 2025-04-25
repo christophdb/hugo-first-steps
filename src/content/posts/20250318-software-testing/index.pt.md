@@ -1,6 +1,9 @@
 ---
 title: 'Testes de software eficazes: como otimizar a resolução de problemas'
 description: 'Todo o software tem as suas armadilhas - mas só quem as encontra é que as pode corrigir. Os testes de software revelam erros ocultos e garantem que as ideias se transformam em produtos maduros. Descubra aqui como os testes tornam a sua aplicação mais estável e porque são essenciais para projectos de sucesso.'
+seo:
+    title: "Teste de software: como otimizar a resolução de problemas"
+    description: "Descubra como os testes de software tornam a sua aplicação mais estável e porque são essenciais para projectos bem sucedidos"
 date: 2025-03-18
 categories:
     - 'Informações gerais'

@@ -32,7 +32,7 @@ A decisão a favor do SeaTable baseou-se em vários factores-chave:
 
 A implementação da [variante no local]({{< relref "pages/product/seatable-server" >}}) do SeaTable também decorreu sem problemas, ou, nas palavras de Cristian Livadaru: "SeaTable + Docker = amor instantâneo". Um critério decisivo para o empresário em nome individual.
 
-![](Cloudvox_n8n-Integration.jpg)
+![Tapete com grafismos](Cloudvox_n8n-Integration.jpg)
 
 ## Um polivalente indispensável
 

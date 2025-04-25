@@ -1,6 +1,9 @@
 ---
 title: 'Computación en nube: Cómo escalar su TI de forma rentable'
 description: 'La digitalización del mundo laboral avanza rápidamente y la computación en nube desempeña un papel fundamental en ella. Pero, ¿qué significa exactamente computación en nube y cómo puede ayudar a su empresa? En este artículo aprenderá todo lo que necesita saber sobre la tecnología en la nube.'
+seo:
+    title: "Cloud computing | Escala tu TI de forma rentable"
+    description: "¿Qué es la computación en nube y cómo ayuda a su empresa? Descubre todo lo que necesitas saber sobre la tecnología en la nube"
 categories:
     - 'Información general'
 tags:

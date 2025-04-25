@@ -32,7 +32,7 @@ Le choix de SeaTable a été motivé par plusieurs facteurs clés :
 
 L'implémentation de la [variante sur site]({{< relref "pages/product/seatable-server" >}}) de SeaTable s'est également déroulée sans problème, ou selon les mots de Cristian Livadaru : "SeaTable + Docker = amour immédiat". Un critère décisif pour cet entrepreneur d'une seule personne.
 
-![](Cloudvox_n8n-Integration.jpg)
+![Taplet avec graphique](Cloudvox_n8n-Integration.jpg)
 
 ## Un outil polyvalent indispensable
 

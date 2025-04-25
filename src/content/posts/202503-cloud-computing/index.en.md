@@ -1,6 +1,9 @@
 ---
 title: 'Cloud computing: How to scale your IT cost-effectively'
 description: 'The digitalization of the working world is progressing rapidly and cloud computing plays a central role in this. But what exactly does cloud computing mean and how can it help your company? In this article, you will learn everything you need to know about cloud technology.'
+seo:
+    title: "Cloud computing | Scale your IT cost-effectively"
+    description: "What is cloud computing and how does it help your company? Find out everything you need to know about cloud technology"
 categories:
     - 'General'
 tags:

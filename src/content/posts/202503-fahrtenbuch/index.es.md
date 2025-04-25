@@ -1,6 +1,9 @@
 ---
 title: "Plantilla gratuita: así de fácil es llevar un cuaderno de bitácora digital"
 description: "Un libro de registro puede ser algo más que una molesta burocracia: le ofrece la oportunidad de ahorrar dinero. Con las herramientas digitales adecuadas, puede maximizar sus beneficios y evitar costosos errores. Descubra cómo llevar un cuaderno de bitácora inteligente y qué soluciones pueden ayudarle."
+seo:
+    title: "Lleva un cuaderno de bitácora digital: Así de fácil | SeaTable"
+    description: "Un cuaderno de bitácora digital tiene muchas ventajas. Descubre cómo llevar un cuaderno de bitácora inteligente sin las molestias de la burocracia."
 date: 2025-04-01
 url: "/es/fahrtenbuch"
 tags: 

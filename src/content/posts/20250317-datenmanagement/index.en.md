@@ -1,6 +1,9 @@
 ---
 title: 'The importance of data management for digitization in companies'
 description: 'Companies need data to make strategic and operational decisions. But how can you set up modern, efficient data management that really deserves the name? Read on to find out what data management is all about and what different database systems are available.'
+seo:
+    title: "Data management for digitisation in companies"
+    description: "Find out in our blog post what data management is all about and what different database systems are available."
 date: 2025-03-17
 categories:
     - 'General'
@@ -27,13 +30,13 @@ But why is data management so important for process digitization? And what chall
 - make well-founded business decisions
 - Increase productivity and efficiency
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 dimensions of data quality](Vorteile-dank-Datenmanagement.jpg)
 
 ### What does data management involve?
 
 **Data management** includes a variety of tasks such as identifying, collecting and storing data, data maintenance and analysis as well as certain precautions for data security. These sub-areas are particularly relevant:
 
-Everything starts with data capture, collection or generation: while **data capture** means the selective input of data for electronic data processing, **data collection** takes place over a longer period of time. Data generation\*\* refers to the generation and collection of large amounts of data using algorithms.
+Everything starts with data capture, collection or generation: while **data capture** means the selective input of data for electronic data processing, **data collection** takes place over a longer period of time. **Data generation** refers to the generation and collection of large amounts of data using algorithms.
 
 The task of **data integration** is to merge and harmonize data from different sources. In **data modeling**, you structure the data so that it can be processed more easily and quickly later on.
 

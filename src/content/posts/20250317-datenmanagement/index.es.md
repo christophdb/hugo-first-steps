@@ -1,6 +1,9 @@
 ---
 title: 'La importancia de la gestión de datos para la digitalización de las empresas'
 description: 'Las empresas necesitan datos para tomar decisiones estratégicas y operativas. Pero, ¿cómo establecer una gestión de datos moderna y eficaz que realmente merezca ese nombre? Siga leyendo para saber qué es importante en la gestión de datos y qué sistemas de bases de datos existen.'
+seo:
+    title: "Gestión de datos para la digitalización en las empresas"
+    description: "Lee nuestra entrada del blog para saber en qué consiste la gestión de datos y qué diferentes sistemas de bases de datos existen."
 date: 2025-03-17
 categories:
     - 'General'
@@ -26,7 +29,7 @@ Pero, ¿por qué es tan importante la gestión de datos para la digitalización 
 - Tomar decisiones empresariales bien fundadas
 - Aumentar la productividad y la eficiencia
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 dimensiones de la calidad de los datos](Vorteile-dank-Datenmanagement.jpg)
 
 ### ¿Qué implica la gestión de datos?
 

@@ -1,6 +1,9 @@
 ---
 title: 'Excel for free? Spreadsheet calculation: programs in comparison'
 description: 'Do you need a powerful spreadsheet but struggle with Excel? Or do you have data protection concerns about the US giant Microsoft? No problem! There are plenty of programs that, unlike Excel, are free or even offer more functions. Immerse yourself in the world of spreadsheet solutions!'
+seo:
+    title: "Excel for free | Spreadsheets | Tools in comparison"
+    description: "Would you like to use Excel for free? Discover clever Excel alternatives in our blog post. Efficient spreadsheets"
 date: 2025-03-06
 categories:
     - 'General'
@@ -88,7 +91,7 @@ Another obstacle to switching to Calc is the incomplete support of the XLSX file
 
 **PlanMaker** is the spreadsheet application in the SoftMaker Office Suite, which is developed by Nuremberg-based SoftMaker Software GmbH. In addition to PlanMaker, the Office Suite from Germany also includes the word processor **TextMaker** and the **Presentations** application.
 
-![PlanMaker](Screenshot_PlanMaker.jpg)
+![Screenshot PlanMaker](Screenshot_PlanMaker.jpg)
 
 If you are looking for a spreadsheet application that you can use free of charge, unlike Excel, you will be disappointed with PlanMaker at first: the annual subscription for five workstations costs around 200 euros, the license for five private computers in the same household or one business computer is 29.90 euros per year or 2.99 euros per month. If you don't want to spend anything at all, you can find a limited-function version of the SoftMaker Office Suite under the name **FreeOffice**, which allows you to use a modification of Excel permanently free of charge.
 
@@ -132,7 +135,7 @@ If you suspect further similarities to Google Sheets based on the name and the c
 
 But you would be doing Zoho Sheet an injustice if you denied it complete individuality! In the area of data analysis, it offers more than its Google counterpart with a solver and a target value function. Due to its less market-dominating role, it is also pleasingly **integrative**. You can save spreadsheets created in Zoho Sheet in your own online storage - **Zoho Docs** for individuals, **Zoho WorkDrive** for teams - or in an integrated Google Drive, OneDrive or Dropbox account. File export is possible in .csv, .xlsx and .ods files.
 
-![](Screenshot_Zoho_Sheet.jpg)
+![Screenshot Zoho Sheet](Screenshot_Zoho_Sheet.jpg)
 
 ### Advantages and disadvantages if you want to use it as a free replacement for Excel
 
@@ -166,7 +169,7 @@ The fact that SeaTable does things differently from other spreadsheets is immedi
 
 Single selection fields are similar to the drop-down lists that you can display in Excel via data validation, but are more flexible and easier to use. Multiple selection fields, which have no equivalent in Excel, help with the categorization and keywording of data. With these extended column types, all conceivable types of information can be stored in a table. **Different storage locations** for different data types are now a thing of the past.
 
-![](Screenshot_SeaTable.jpg)
+![Screenshot SeaTable Data organisation](Screenshot_SeaTable.jpg)
 
 ### Spreadsheets with the power of no-code databases and app builders
 
@@ -178,7 +181,7 @@ SeaTable beginners will first have to get used to defining the column types befo
 
 Of course, SeaTable also has the classic functions of a spreadsheet: **filters**, **sorting** and **grouping** bring data into the desired order, **pivot tables** allow even large data sets to be evaluated quickly and the various **chart types** present data visually. But as with the supported data types, SeaTable also goes one step further than the other Excel competitors when it comes to display options.
 
-![](Screenshot_SeaTable_Statistics.jpg)
+![Screenshot of SeaTable evaluation options for data visualisation](Screenshot_SeaTable_Statistics.jpg)
 
 SeaTables [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) offer advanced visualization options for non-numeric data types: In the map plugin, address and geoposition data can be displayed on a map and the gallery plugin displays the image data stored in a table clearly in albums. Appointment data entered in a table can be displayed in the calendar or timeline plugin and the Kanban plugin displays workflows with different phases, as is otherwise only known from [project management]({{< relref "pages/industry-solutions/project-management" >}})\ applications.
 
