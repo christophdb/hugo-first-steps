@@ -3,7 +3,7 @@ title: L'importance de la gestion des données pour la numérisation dans les en
 description: Les entreprises ont besoin de données pour prendre des décisions stratégiques et opérationnelles. Mais comment mettre en place une gestion des données moderne et efficace, digne de ce nom ? Lisez ce qui est important dans la gestion des données et quels sont les différents systèmes de base de données disponibles.'
 seo:
     title: "Gestion des données pour la numérisation en entreprise".
-    description : "Découvrez dans notre article de blog ce qui est important dans la gestion des données et quels sont les différents systèmes de base de données disponibles."
+    description: "Découvrez dans notre article de blog ce qui est important dans la gestion des données et quels sont les différents systèmes de base de données disponibles."
 date: 2025-03-17
 categories:
     - 'Général'

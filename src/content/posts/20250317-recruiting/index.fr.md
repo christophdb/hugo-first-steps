@@ -3,7 +3,7 @@ title: 'Recrutement compact : comment trouver et convaincre des talents'
 description: "Un processus de recrutement réussi détermine si les entreprises restent viables ou si elles se font distancer par la concurrence. Découvrez les stratégies et les méthodes qui feront passer votre recrutement au niveau supérieur et qui vous permettront de garder une longueur d'avance sur un marché du travail très concurrentiel"
 seo:
     title: "Recrutement : conseils et stratégies pour la recherche de personnel".
-    description : "L'avenir du recrutement : découvrez les nouvelles technologies et les moyens innovants de trouver les meilleurs candidats et de les fidéliser à long terme".
+    description: "L'avenir du recrutement : découvrez les nouvelles technologies et les moyens innovants de trouver les meilleurs candidats et de les fidéliser à long terme".
 date: 2025-03-17
 categories:
     - 'Général'

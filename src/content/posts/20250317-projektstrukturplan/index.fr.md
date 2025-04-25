@@ -3,7 +3,7 @@ title: 'Comment créer un organigramme technique de projet efficace - modèle et
 description: "Un organigramme technique de projet est une méthode efficace pour présenter et structurer de manière claire des projets complexes. Vous apprendrez ici quand vous devriez créer un modèle d'organigramme de projet, comment vous pouvez procéder et quels outils vous aident à le faire."
 seo:
     title: "Créer un organigramme technique de projet | Outils et modèles | SeaTable".
-    description : "Ne plus jamais sombrer dans le chaos des projets ! Découvrez les avantages d'un organigramme technique de projet bien conçu et comment le créer."
+    description: "Ne plus jamais sombrer dans le chaos des projets ! Découvrez les avantages d'un organigramme technique de projet bien conçu et comment le créer."
 date: 2025-03-17
 categories:
     - 'Général'
