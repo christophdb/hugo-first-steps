@@ -2,7 +2,7 @@
 title: "Modelo gratuito: É muito fácil manter um diário de bordo digital"
 description: "Um livro de registo pode ser mais do que apenas uma burocracia irritante - oferece-lhe a oportunidade de poupar dinheiro. Com as ferramentas digitais certas, pode maximizar os seus benefícios e evitar erros dispendiosos. Descubra como manter um diário de bordo inteligente e quais as soluções que o podem ajudar!"
 seo:
-    title: "Mantenha um diário de bordo digital: É muito fácil | SeaTbale"
+    title: "Mantenha um diário de bordo digital: É muito fácil | SeaTable"
     description: "Um diário de bordo digital tem muitas vantagens. Descubra como manter um diário de bordo inteligente sem o incómodo da burocracia."
 date: 2025-04-01
 url: '/pt/digital-logbook'

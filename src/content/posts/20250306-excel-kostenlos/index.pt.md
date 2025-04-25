@@ -1,6 +1,9 @@
 ---
 title: 'Excel de graça? Cálculo em folhas de cálculo: programas em comparação'
 description: "Precisa de uma folha de cálculo poderosa mas tem dificuldades com o Excel? Ou tem preocupações com a proteção de dados da gigante americana Microsoft? Não há problema! Há muitos programas que, ao contrário do Excel, são gratuitos ou até oferecem mais funções. Mergulhe no mundo das soluções de folha de cálculo!"
+seo:
+    title: "Excel grátis | Folhas de cálculo | Ferramentas em comparação"
+    description: "Gostaria de utilizar o Excel gratuitamente? Descubra alternativas inteligentes ao Excel na nossa publicação do blogue. Folhas de cálculo eficientes"
 date: 2025-03-06
 categories:
     - 'Informações gerais'

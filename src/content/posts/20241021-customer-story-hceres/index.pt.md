@@ -1,6 +1,9 @@
 ---
 title: "Gestão eficaz de dados na Hcéres com o SeaTable"
 description: "Leia mais sobre como uma autoridade pública independente utiliza o SeaTable."
+seo:
+    title: "História de um cliente Hcéres: Gestão eficaz de dados | SeaTable"
+    description: "Saiba como o SeaTable tornou a colaboração com os departamentos de avaliação muito melhorada, intuitiva, personalizável e segura"
 data: 2024-10-21
 categories: 
   - "Casos de clientes"

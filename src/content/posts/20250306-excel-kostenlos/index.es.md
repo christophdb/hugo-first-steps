@@ -1,6 +1,9 @@
 ---
 title: '¿Excel gratuito? Cálculo en hoja de cálculo: comparación de programas'
 description: '¿Necesitas una hoja de cálculo potente pero te cuesta manejar Excel? ¿O te preocupa la protección de datos del gigante estadounidense Microsoft? No hay problema. Hay un montón de programas que, a diferencia de Excel, son gratuitos o incluso ofrecen más funciones. Sumérgete en el mundo de las hojas de cálculo.'
+seo:
+    title: "Excel gratis | Hojas de cálculo | Herramientas en comparación"
+    description: "¿Quieres usar Excel gratis? Descubre alternativas inteligentes a Excel en nuestra entrada del blog. Hojas de cálculo eficientes"
 date: 2025-03-06
 categories:
     - 'General'

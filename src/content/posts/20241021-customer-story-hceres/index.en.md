@@ -1,6 +1,9 @@
 ---
 title: "Effective data management at Hcéres with SeaTable"
 description: "Read more about how an independent public authority uses SeaTable."
+seo:
+    title: "Customer Story Hcéres: Effective data management | SeaTable"
+    description: "Learn how SeaTable made collaboration with the evaluation departments vastly improved, intuitive, customisable and secure"
 date: 2024-10-21
 categories: 
   - "Customer Story"

@@ -1,6 +1,9 @@
 ---
 title: 'Excel for free? Spreadsheet calculation: programs in comparison'
 description: 'Do you need a powerful spreadsheet but struggle with Excel? Or do you have data protection concerns about the US giant Microsoft? No problem! There are plenty of programs that, unlike Excel, are free or even offer more functions. Immerse yourself in the world of spreadsheet solutions!'
+seo:
+    title: "Excel for free | Spreadsheets | Tools in comparison"
+    description: "Would you like to use Excel for free? Discover clever Excel alternatives in our blog post. Efficient spreadsheets"
 date: 2025-03-06
 categories:
     - 'General'

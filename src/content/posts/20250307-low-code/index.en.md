@@ -1,6 +1,9 @@
 ---
 title: 'Low code, no code and the software development of the future'
 description: 'Thanks to no code and low code development, people with little or no programming knowledge can finally build their own web applications. But what does low code actually mean? How does it differ from no code and classic coding? And which low-code platform is suitable for which application? You will find the answers in this article.'
+seo:
+    title: "Low Code No Code | Software Development with a Future | SeaTable"
+    description: "The new world of low-code and no-code! Learn how to create powerful applications without programming skills"
 date: 2025-03-07
 categories:
     - 'No Code / Low Code'
