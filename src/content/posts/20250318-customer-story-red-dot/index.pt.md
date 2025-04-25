@@ -16,7 +16,7 @@ url: "/pt/customer-story-red-dot"
 
 A Red Dot GmbH & Co. KG em Essen é parte integrante do mundo internacional do design de marcas, produtos e comunicação. Com o Red Dot Design Award, a empresa organiza um dos concursos de design mais reconhecidos internacionalmente e também gere os três Red Dot Design Museums em Essen, Singapura e Xiamen (China), que estão entre os mais importantes museus de design contemporâneo. As cerimónias de entrega de prémios de dois dos três concursos de design são agora apresentadas através do SeaTable, depois de a equipa já não conseguir mapear os processos complexos com as soluções existentes. Louisa Mücher, Gestora de Negócios Digitais no Red Dot Design Award, explica porque é que o Red Dot mudou para o SeaTable e o que mudou como resultado.
 
-![](Blog_reddot_I1.jpg)
+![Imagem do evento Red Dot](Blog_reddot_I1.jpg)
 
 Antes da introdução do SeaTable, a ferramenta mais importante era um [programa de folha de cálculo para computador]({{< relref "pages/excel-alternative" >}}). Esta solução estava desactualizada, especialmente no que diz respeito à gestão de dados. A colaboração no seio da equipa era um verdadeiro desafio, uma vez que não era possível trabalhar em conjunto. O processo existente revelou-se particularmente problemático na organização da cerimónia de entrega dos prémios do Red Dot Award: Product Design, um grande evento internacional. A falta de oportunidades de trabalho colaborativo dificultou a organização e as alterações de última hora.
 
@@ -28,7 +28,7 @@ A facilidade de utilização, o elevado nível de proteção de dados e a possib
 
 ## Ferramenta de gestão versátil
 
-![](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
+![Tablet com mesa SeaTable](3-SeaTable-erfuellt-die-Anforderungen-perfekt-1.jpg)
 
 Atualmente, o SeaTable é utilizado como uma ferramenta de gestão versátil. O principal caso de utilização continua a ser a [organização de eventos](https://seatable.io/pt/vorlage/fewxqfzbsxocskxl7hikqq/). As listas de convidados e os planos de atribuição de salas, o planeamento do pessoal em eventos e até o programa da gala planeado ao segundo são mapeados no SeaTable. A capacidade de carregar ficheiros áudio diretamente para uma base revelou-se particularmente útil neste caso. Isto permite que o diretor tenha acesso a gravações áudio em qualquer altura, por exemplo, da pronúncia dos nomes dos vencedores dos prémios.
 

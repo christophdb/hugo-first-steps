@@ -19,7 +19,7 @@ Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur
     
 Hcéres était confronté au défi de rendre ses processus de données complexes plus efficaces et de se conformer aux exigences légales. Avec SeaTable, le Hcéres a trouvé une solution pour centraliser la gestion de ses données et améliorer la collaboration.
 
-![](pexels-anete-lusina-4792285-1.jpg)
+![La gestion des données par dossier est obsolète et fastidieuse - Transformation numérique avec SeaTable](pexels-anete-lusina-4792285-1.jpg)
 
 ## Situation initiale : Hcéres et le défi d'une gestion efficace des données
 
@@ -29,13 +29,13 @@ En tant qu'autorité indépendante, le Hcéres est responsable de l'évaluation 
 
 Pour relever les défis de la gestion des données, le Département du Numérique et des Données (DND) du Hcéres a opté pour SeaTable - une plateforme flexible et conviviale qui a considérablement optimisé les processus d'évaluation. SeaTable a centralisé toutes les données et a permis au Hcéres de simplifier l'ensemble du processus d'évaluation, tant en France qu'à l'international.
 
-![](pexels-natri-792199-1.jpg)
+![Gestion numérique avec SeaTable](pexels-natri-792199-1.jpg)
 
 ## Implémentation de SeaTable au Hcéres
 
 Le déploiement de SeaTable a commencé par une preuve de concept (POC) dans un seul département. Cette phase pilote s'est concentrée sur la gestion des conventions et des listes d'experts potentiels. Suite au succès de ce test, SeaTable a été progressivement étendu à d'autres départements et services d'évaluation du Hcéres. Aujourd'hui, l'autorité utilise la [plate-forme sans code]({{< relref "/" >}}) SeaTable pour former efficacement des comités d'évaluation et rationaliser le processus de préparation des évaluations.
 
-![](pexels-edmond-dantes-4342496-1.jpg)
+![Conseils sur la transition numérique avec SeaTable](pexels-edmond-dantes-4342496-1.jpg)
 
 ## Les avantages de SeaTable pour Hcéres
 
@@ -49,7 +49,7 @@ Le déploiement de SeaTable a commencé par une preuve de concept (POC) dans un 
 Jean-Christophe Martin, directeur adjoint du MDN, explique : "SeaTable nous a permis de renouveler notre gestion des données et d'améliorer leur utilisation et leur présentation. Cela a considérablement amélioré l'efficacité de nos utilisateurs".  
 Clément Bréhin, chef de projet technique, ajoute : "SeaTable a énormément amélioré notre collaboration avec les services d'évaluation. C'est intuitif, facilement adaptable et sécurisé". Grâce à des ateliers et des formations internes, les collaborateurs du Hcéres ont pu adopter SeaTable rapidement et sans difficulté.
 
-![](pexels-moose-photos-170195-1036641-1.jpg)
+![Introduction d'une nouvelle gestion numérique des données](pexels-moose-photos-170195-1036641-1.jpg)
 
 ## Conclusion : Hcéres améliore sa gestion des données - et vous pouvez aussi le faire
 

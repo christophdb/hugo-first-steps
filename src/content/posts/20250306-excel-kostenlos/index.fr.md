@@ -131,7 +131,7 @@ Si, en raison du nom et de la prétention à être le tueur de G Suite, vous sup
 
 Mais c'est faire injure à Zoho Sheet que de lui dénier toute individualité ! Dans le domaine de l'analyse des données, il offre plus que son équivalent Google avec un solveur et une fonction de valeur cible. En raison de son rôle moins dominant sur le marché, il se montre aussi agréablement **intégratif**. Les tableaux créés dans Zoho Sheet peuvent être sauvegardés dans un propre espace de stockage en ligne - **Zoho Docs** pour les personnes privées, **Zoho WorkDrive** pour les équipes - ou dans un compte intégré de Google Drive, OneDrive ou Dropbox. L'exportation de fichiers est possible dans des fichiers de type .csv, .xlsx et .ods.
 
-![](Screenshot_Zoho_Sheet.jpg)
+![Capture d'écran Zoho Sheet](Screenshot_Zoho_Sheet.jpg)
 
 ### Avantages et inconvénients si vous souhaitez l'utiliser gratuitement en remplacement d'Excel
 
@@ -165,7 +165,7 @@ La différence entre SeaTable et les autres tableurs saute aux yeux dès la prem
 
 Les sélections simples sont similaires aux listes déroulantes que vous pouvez mapper dans Excel via la validation des données, mais elles sont plus flexibles et plus faciles à utiliser. Les sélections multiples, qui n'ont pas d'équivalent dans Excel, aident à catégoriser et à indexer les données. Ces types de colonnes avancés permettent de stocker tous les types d'informations imaginables dans un tableau. **Les différents emplacements** pour les différents types de données appartiennent ainsi au passé.
 
-![](Screenshot_SeaTable.jpg)
+![Capture d'écran SeaTable Datenorganisation](Screenshot_SeaTable.jpg)
 
 ### Tableur avec la puissance des bases de données No-Code et des constructeurs d'applications
 
@@ -177,9 +177,9 @@ Les débutants de SeaTable devront d'abord s'habituer à définir les types de c
 
 Bien entendu, SeaTable dispose également des fonctions classiques d'un tableur : **filtres**, **triages** et **groupements** permettent de classer les données dans l'ordre souhaité, les **tableaux croisés dynamiques** permettent d'évaluer rapidement de grands ensembles de données et les divers **types de graphiques** représentent les données de manière visuelle. Mais comme pour les types de données supportés, SeaTable va plus loin que les autres concurrents d'Excel en ce qui concerne les options de représentation.
 
-![](Screenshot_SeaTable_Statistics.jpg)
+![Capture d'écran SeaTable Possibilités d'évaluation pour la visualisation des données](Screenshot_SeaTable_Statistics.jpg)
 
-SeaTables [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) offre des options de visualisation avancées pour les types de données non numériques : Le plug-in de carte permet de représenter les données d'adresse et de géoposition sur une carte et le plug-in de galerie affiche clairement les données d'image stockées dans une table dans des albums. Les données de rendez-vous saisies dans un tableau peuvent être affichées dans le plugin Calendrier ou dans le plugin Ligne de temps et le plugin Kanban représente des flux de travail avec différentes phases, comme on ne le connaît normalement que dans les applications [Gestion de projet]({{< relref "pages/industry-solutions/project-management" >}})\.
+SeaTables [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) offre des options de visualisation avancées pour les types de données non numériques : Le plug-in de carte permet de représenter les données d'adresse et de géoposition sur une carte et le plug-in de galerie affiche clairement les données d'image stockées dans une table dans des albums. Les données de rendez-vous saisies dans un tableau peuvent être affichées dans le plugin Calendrier ou dans le plugin Ligne de temps et le plugin Kanban représente des flux de travail avec différentes phases, comme on ne le connaît normalement que dans les applications [Gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}).
 
 De plus, SeaTable vous permet de créer vos propres apps sans connaissances en programmation. Une app se compose de pages que vous pouvez composer dans le [No-Code-App-Builder] intégré (https://seatable.io/docs/apps/universelle-app/) à l'aide de différents types de pages. Une app accède aux données de SeaTable et les présente de manière optimale à l'utilisateur. L'avantage est que la conception de l'application permet de contrôler précisément les données qu'un utilisateur voit, la manière dont les données sont visualisées et la manière dont il peut interagir avec les données. Les flux de travail peuvent ainsi être représentés avec précision.
 

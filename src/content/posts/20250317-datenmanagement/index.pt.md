@@ -27,7 +27,7 @@ A **gestão de dados** refere-se à totalidade de todos os processos, métodos e
 - tomar decisões comerciais bem fundamentadas
 - Aumentar a produtividade e a eficiência
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 dimensões da qualidade dos dados](Vorteile-dank-Datenmanagement.jpg)
 
 ### O que é que a gestão de dados envolve?
 

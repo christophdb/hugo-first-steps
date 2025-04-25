@@ -131,7 +131,7 @@ Si sospechas más similitudes con Google Sheets basado en el nombre y la afirmac
 
 Pero se cometería una injusticia con Zoho Sheet si se le negara toda su individualidad. En el ámbito del análisis de datos, ofrece más que su homólogo de Google con un solucionador y una función de valor objetivo. Debido a su papel menos dominante en el mercado, también es agradablemente **integrativo**. Puede guardar las hojas de cálculo creadas en Zoho Sheet en su propio almacenamiento en línea - **Zoho Docs** para individuos, **Zoho WorkDrive** para equipos - o en una cuenta integrada de Google Drive, OneDrive o Dropbox. La exportación de archivos es posible en archivos .csv, .xlsx y .ods.
 
-![](Screenshot_Zoho_Sheet.jpg)
+![Captura de pantalla de Zoho Sheet](Screenshot_Zoho_Sheet.jpg)
 
 ### Ventajas y desventajas si quieres usarlo como sustituto gratuito de Excel
 
@@ -165,7 +165,7 @@ El hecho de que SeaTable haga las cosas de forma diferente a otras hojas de cál
 
 Los campos de selección simple son similares a las listas desplegables que puede asignar en Excel mediante la validación de datos, pero son más flexibles y fáciles de usar. Los campos de selección múltiple, que no tienen equivalente en Excel, ayudan a categorizar y clasificar los datos. Con estos tipos de columnas ampliados, se pueden almacenar en una tabla todos los tipos de información imaginables. **Se acabaron las distintas ubicaciones de almacenamiento** para distintos tipos de datos.
 
-![](Screenshot_SeaTable.jpg)
+![Captura de pantalla de SeaTable Datenorganisation](Screenshot_SeaTable.jpg)
 
 ### Hojas de cálculo con la potencia de las bases de datos sin código y los creadores de aplicaciones
 
@@ -177,7 +177,7 @@ Los principiantes en SeaTable tendrán que acostumbrarse primero a definir los t
 
 Por supuesto, SeaTable también dispone de las funciones clásicas de una hoja de cálculo: **filtros**, **clasificación** y **agrupación** ordenan los datos como se desee, con las **tablas dinámicas** se pueden analizar rápidamente incluso grandes conjuntos de datos y los distintos **tipos de gráficos** presentan los datos visualmente. Pero al igual que con los tipos de datos soportados, SeaTable también va un paso más allá que los demás competidores de Excel en lo que respecta a las opciones de visualización.
 
-![](Screenshot_SeaTable_Statistics.jpg)
+![Captura de pantalla de las opciones de evaluación de SeaTable para la visualización de datos](Screenshot_SeaTable_Statistics.jpg)
 
 SeaTables [Plugins](https://seatable.io/es/docs/plugins/alle-plugins-in-der-uebersicht/) ofrece opciones de visualización ampliadas para tipos de datos no numéricos: En el plugin de mapa, los datos de dirección y geoposición pueden mostrarse en un mapa y el plugin de galería muestra los datos de imagen almacenados en una tabla claramente en álbumes. Los datos de citas introducidos en una tabla pueden mostrarse en el plugin de calendario o línea de tiempo y el plugin Kanban muestra flujos de trabajo con diferentes fases, como sólo se conoce en aplicaciones de [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}})\-Conoce las aplicaciones.
 

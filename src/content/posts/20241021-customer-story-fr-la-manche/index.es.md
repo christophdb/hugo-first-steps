@@ -20,7 +20,7 @@ DSIM se enfrentaba al reto de gestionar los datos sensibles de forma segura y ac
 
 Para superar estos retos, el DSIM probó varias herramientas, entre ellas SeaTable. SeaTable destacó por su flexibilidad y sus funciones de colaboración, por lo que fue seleccionada para una fase de prueba. Durante esta fase de prueba, los equipos utilizaron la versión gratuita de SeaTable para familiarizarse con sus funciones. DSIM no tardó en reconocer el valor añadido de la solución y decidió actualizarla a la versión empresarial para integrar a todos los equipos en el nuevo sistema.
 
-![Administración digital](pexels-anthonyshkraba-production-8374293.jpg)
+![Modernizar los procesos públicos mediante la digitalización](pexels-anthonyshkraba-production-8374293.jpg)
 
 ### Éxito de la implantación de SeaTable: transformación paso a paso de la gestión de datos
 
@@ -35,7 +35,7 @@ Los beneficios del cambio a SeaTable no se hicieron esperar:
 - **Mayor seguridad de los datos gracias a la gestión de derechos:** La asignación precisa de derechos aumentó la seguridad de los datos y mejoró la colaboración entre departamentos.
 - **Informes más concisos y mejora de la toma de decisiones:** SeaTable hizo que los informes fueran más claros y estuvieran mejor organizados, haciendo que los procesos de toma de decisiones fueran más eficientes.
 
-![](pexels-artempodrez-5716042.jpg)
+![Aumento de los procesos de trabajo mediante opciones de evaluación](pexels-artempodrez-5716042.jpg)
 
 ### Aceptación del usuario y colaboración - Cómo los talleres garantizaron el éxito
 
@@ -46,7 +46,7 @@ Además, el intercambio de buenas prácticas con otros municipios que también u
 
 La introducción de SeaTable ha permitido al Conseil Départemental de la Manche modernizar considerablemente sus procesos de gestión de datos. Gracias a la gestión centralizada, la mejora de la colaboración y el aumento de la seguridad de los datos, SeaTable se ha convertido en una herramienta indispensable para la autoridad. La cuidadosa preparación, la introducción gradual y la participación activa de los usuarios garantizaron que la transformación se desarrollara sin contratiempos.
 
-![](jason-goodman-Oalh2MojUuk-unsplash.jpg)
+![Mejora de la cooperación entre las autoridades públicas](jason-goodman-Oalh2MojUuk-unsplash.jpg)
 
 ## Revolucione su gestión de datos con SeaTable
 

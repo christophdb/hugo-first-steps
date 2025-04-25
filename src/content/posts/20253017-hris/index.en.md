@@ -39,7 +39,7 @@ Human Capital Management (HCM) is also sometimes mentioned. In addition to the H
 - Compensation management
 - Personnel development and training
 
-![](Grafik-HRIS-vs-HMRS.jpg)
+![Graphic HRIS vs. HMRS](Grafik-HRIS-vs-HMRS.jpg)
 
 The range of functions of HR management software varies considerably depending on the provider. So when choosing your HR management software, pay attention to which functions you need. While an HRIS convinces with a simple employee database for everyday administrative processes, an HRMS offers more complex functions for (qualitative) personnel planning.
 

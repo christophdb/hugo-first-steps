@@ -40,7 +40,7 @@ A gestão do capital humano (HCM) é também por vezes mencionada. Para além do
 - Gestão das remunerações
 - Desenvolvimento do pessoal e formação
 
-![](Grafik-HRIS-vs-HMRS.jpg)
+![Gráfico HRIS vs. HMRS](Grafik-HRIS-vs-HMRS.jpg)
 
 O âmbito funcional do software de gestão de RH varia consideravelmente consoante o fornecedor. Por isso, ao escolher o seu software de gestão de RH, preste atenção às funções de que necessita. Enquanto um HRIS convence com uma simples base de dados de empregados para os processos administrativos diários, um HRMS oferece funções mais complexas para o planeamento (qualitativo) do pessoal.
 

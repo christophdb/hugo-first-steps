@@ -18,7 +18,7 @@ url: "/pt/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-u
 
 A éolane é a empresa líder em serviços de fabrico de produtos electrónicos (EMS) em França, desenvolvendo placas de circuitos electrónicos de última geração e integrando-as nos produtos finais dos seus clientes. A empresa enfrentava cada vez mais os desafios de processos de encomenda cada vez mais complexos. As ferramentas tradicionais, como as folhas de cálculo, já não conseguiam satisfazer os requisitos e a empresa procurava uma solução flexível e poderosa para otimizar a gestão dos seus dados e encomendas.
 
-![](pexels-tima-miroshnichenko-6755080.jpg)
+![Placas de circuitos impressos da éolane](pexels-tima-miroshnichenko-6755080.jpg)
 
 ## O desafio: gerir processos de encomendas complexos com ferramentas tradicionais
 
@@ -32,7 +32,7 @@ Bruno Vérilhac, responsável pelos dados e processos na éolane, testou dez fer
 
 Em apenas dois meses, Bruno Vérilhac foi capaz de desenvolver e implementar uma solução personalizada com o SeaTable que digitalizou todos os processos de encomenda. Desde os requisitos dos clientes até ao acompanhamento dos horários das equipas de apoio nas oficinas, o SeaTable facilita a gestão de processos complexos que envolvem dezenas de funcionários por encomenda.
 
-![](pexels-www-erzetich-com-2517330.jpg)
+![Trabalhar numa placa de circuitos da éolane](pexels-www-erzetich-com-2517330.jpg)
 
 ## Processos mais eficientes e colaboração melhorada através da automatização sem código
 
@@ -46,7 +46,7 @@ A implementação do SeaTable levou a melhorias imediatas. Os processos foram es
 
 Atualmente, a éolane beneficia de uma gestão de encomendas centralizada e optimizada, onde cada processo é monitorizado com a máxima precisão. Os desafios associados à instabilidade dos dados e à gestão dos direitos são coisa do passado. O SeaTable não só resolveu estes problemas, como também melhorou significativamente a colaboração e a comunicação dentro da empresa. A éolane é um exemplo perfeito de como a digitalização, quando implementada corretamente, pode transformar uma empresa.
 
-![](pexels-vojtech-okenka-127162-392018.jpg)
+![Gestão digital de encomendas com o SeaTable](pexels-vojtech-okenka-127162-392018.jpg)
 
 ## Gostaria de tornar os seus processos de encomendas e de dados mais eficientes?
 

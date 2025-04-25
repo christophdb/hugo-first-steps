@@ -15,7 +15,7 @@ url: '/es/customer-story-red-dot'
 
 Red Dot GmbH & Co. KG, con sede en Essen, forma parte integrante del mundo internacional del diseño de marcas, productos y comunicación. Con el Red Dot Design Award, la empresa organiza uno de los concursos de diseño de mayor renombre internacional y también gestiona los tres Museos de Diseño Red Dot en Essen, Singapur y Xiamen (China), que se encuentran entre los museos más importantes para el diseño contemporáneo. Las ceremonias de entrega de premios de dos de los tres concursos de diseño se presentan ahora a través de SeaTable, después de que el equipo ya no fuera capaz de organizar los complejos procesos con las soluciones existentes. Louisa Mücher, Digital Business Manager del Red Dot Design Award, explica por qué Red Dot se pasó a SeaTable y qué ha cambiado a raíz de ello.
 
-![](Blog_reddot_I1.jpg)
+![Evento Picture Red Dot](Blog_reddot_I1.jpg)
 
 Antes de la introducción de SeaTable, la herramienta más importante era un [programa de hoja de cálculo de escritorio]({{< relref "pages/excel-alternative" >}}). Esta solución ya no estaba al día, sobre todo para la gestión de datos. La colaboración dentro del equipo era un verdadero reto, ya que no era posible trabajar en colaboración. El proceso existente resultó especialmente problemático a la hora de organizar la ceremonia de entrega de los premios Red Dot Award: Product Design, un importante acontecimiento internacional. La falta de oportunidades para trabajar en colaboración dificultó una organización fluida y los cambios de última hora.
 

@@ -134,7 +134,7 @@ La clasificación en una categoría tampoco está clara: por un lado, SeaTable e
 
 SeaTable también ofrece un **No Code App Builder**, con el que puede crear sus propias aplicaciones sin conocimientos de programación. Una aplicación accede a la información de la base de datos y la muestra de la mejor manera posible para el usuario final. Para el diseño de la aplicación, hay tipos de páginas listas con elementos visuales que puedes simplemente arrastrar y soltar.
 
-![](No-Code-App-Builder.jpg)
+![Captura de pantalla No-Code App-Builder SeaTable](No-Code-App-Builder.jpg)
 
 Además, SeaTable facilita la creación de automatizaciones que le ahorran clics manuales para procesos que son siempre los mismos y, al mismo tiempo, minimizan la susceptibilidad a errores de las actividades monótonas. Para procesos automatizados con múltiples fuentes de datos, también puede integrar SeaTable con plataformas de automatización como Zapier, make o n8n.
 

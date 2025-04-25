@@ -20,7 +20,7 @@ A DSIM foi confrontada com o desafio de gerir dados sensíveis de forma segura e
 
 Para ultrapassar estes desafios, o DSIM testou várias ferramentas, incluindo o SeaTable. O SeaTable destacou-se pela sua flexibilidade e caraterísticas colaborativas, razão pela qual foi selecionado para uma fase de teste. Durante esta fase de teste, as equipas utilizaram a versão gratuita do SeaTable para se familiarizarem com as suas funcionalidades. A DSIM reconheceu rapidamente o valor acrescentado da solução e decidiu atualizar para a versão empresarial, a fim de integrar todas as equipas no novo sistema.
 
-![](pexels-anthonyshkraba-production-8374293.jpg)
+![Modernizar os processos públicos através da digitalização](pexels-anthonyshkraba-production-8374293.jpg)
 
 ### Introdução bem sucedida do SeaTable - transformação passo-a-passo na gestão de dados
 
@@ -35,7 +35,7 @@ Os benefícios da mudança para o SeaTable não demoraram a chegar:
 - **Aumento da segurança dos dados através da gestão de direitos:** A atribuição precisa de direitos aumentou a segurança dos dados e melhorou a colaboração entre departamentos.
 - **Relatórios mais concisos e melhor tomada de decisões:** O SeaTable tornou os relatórios mais claros e organizados, tornando os processos de tomada de decisões mais eficientes.
 
-![](pexels-artempodrez-5716042.jpg)
+![Aumento dos processos de trabalho através de opções de avaliação](pexels-artempodrez-5716042.jpg)
 
 ### Aceitação do utilizador e colaboração - Como os workshops garantiram o sucesso
 
@@ -46,7 +46,7 @@ Além disso, a partilha de boas práticas com outros municípios que também uti
 
 A introdução do SeaTable permitiu ao Conseil Départemental de la Manche modernizar significativamente os seus processos de gestão de dados. Graças à gestão centralizada, à melhoria da colaboração e ao aumento da segurança dos dados, o SeaTable tornou-se uma ferramenta indispensável para a autoridade. A preparação cuidadosa, a introdução gradual e o envolvimento ativo dos utilizadores garantiram que a transformação decorresse sem problemas.
 
-![](jason-goodman-Oalh2MojUuk-unsplash.jpg)
+![Melhoria da cooperação entre as autoridades públicas](jason-goodman-Oalh2MojUuk-unsplash.jpg)
 
 ## Revolucione a sua gestão de dados com o SeaTable
 

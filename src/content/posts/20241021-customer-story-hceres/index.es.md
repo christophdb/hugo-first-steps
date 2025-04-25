@@ -19,23 +19,23 @@ El Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur
     
 Hcéres se enfrentaba al reto de hacer más eficientes sus complejos procesos de datos y cumplir los requisitos legales. Con SeaTable, Hcéres encontró una solución para centralizar la gestión de sus datos y mejorar la colaboración.
 
-![](pexels-anete-lusina-4792285-1.jpg)
+![La gestión de datos con carpetas es anticuada y tediosa - Transformación digital con SeaTable](pexels-anete-lusina-4792285-1.jpg)
 
 ## Situación inicial: Hcéres y el reto de una gestión eficaz de los datos
 
-Como autoridad independiente, el Hcéres es responsable de evaluar todas las instituciones francesas de enseñanza superior e investigación. Antes de la introducción de SeaTable, estos procesos se gestionaban principalmente mediante hojas de cálculo Excel. Sin embargo, este método era cada vez más ineficaz y provocaba lagunas de seguridad y una base de datos fragmentada. Había llegado el momento de encontrar una [alternativa a Excel](https://seatable.com/es/excel-alternative/) que simplificara todo el proceso y cumpliera los requisitos del Hcéres.
+Como autoridad independiente, el Hcéres es responsable de evaluar todas las instituciones francesas de enseñanza superior e investigación. Antes de la introducción de SeaTable, estos procesos se gestionaban principalmente mediante hojas de cálculo Excel. Sin embargo, este método era cada vez más ineficaz y provocaba lagunas de seguridad y una base de datos fragmentada. Había llegado el momento de encontrar una [alternativa a Excel]({{< relref "pages/excel-alternative" >}}) que simplificara todo el proceso y cumpliera los requisitos del Hcéres.
 
 ## La transición de Excel a SeaTable: Por qué SeaTable fue la elección correcta para Hcéres
 
 Para superar los retos de la gestión de datos, el Département du Numérique et des Données (DND) de las Hcéres optó por SeaTable, una plataforma flexible y fácil de usar que optimizó considerablemente los procesos de evaluación. SeaTable centralizó todos los datos y permitió a las Hcéres simplificar todo el proceso de evaluación, tanto en Francia como a escala internacional.
 
-![](pexels-natri-792199-1.jpg)
+![Gestión digital con SeaTable](pexels-natri-792199-1.jpg)
 
 ## Implantación de SeaTable en Hcéres
 
 La implantación de SeaTable comenzó con una prueba de concepto (POC) en un único departamento. Esta fase piloto se centró en la gestión de convenios y posibles listas de expertos. Basándose en el éxito de esta prueba, SeaTable se extendió gradualmente a otros departamentos y servicios de evaluación del Hcéres. En la actualidad, la agencia utiliza la [plataforma sin código]({{< relref "/" >}}) SeaTable para formar eficazmente comités de evaluación y agilizar el proceso de preparación de las evaluaciones.
 
-![](pexels-edmond-dantes-4342496-1.jpg)
+![Asesoramiento sobre transformación digital con SeaTable](pexels-edmond-dantes-4342496-1.jpg)
 
 ## Las ventajas de SeaTable para Hcéres
 
@@ -49,7 +49,7 @@ La implantación de SeaTable comenzó con una prueba de concepto (POC) en un ún
 Jean-Christophe Martin, Director Adjunto del DND, explica: "SeaTable nos ha permitido modernizar nuestra gestión de datos y mejorar su uso y presentación. Esto ha aumentado considerablemente la eficacia de nuestros usuarios".  
 Clément Bréhin, director técnico del proyecto, añade: "SeaTable ha mejorado mucho nuestra colaboración con los departamentos de evaluación. Es intuitivo, fácilmente personalizable y seguro". Gracias a los talleres internos y a la formación, los empleados de Hcéres pudieron adoptar SeaTable rápida y fácilmente.
 
-![](pexels-moose-photos-170195-1036641-1.jpg)
+![Introducción de un nuevo sistema digital de gestión de datos](pexels-moose-photos-170195-1036641-1.jpg)
 
 ## Conclusión: Hcéres está mejorando su gestión de datos - y usted también puede hacerlo
 

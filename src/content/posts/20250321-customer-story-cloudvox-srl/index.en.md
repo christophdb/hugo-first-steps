@@ -32,7 +32,7 @@ The decision in favor of SeaTable was based on several key factors:
 
 The implementation of the [on-premises variant]({{< relref "pages/product/seatable-server" >}}) of SeaTable also went smoothly, or in Cristian Livadaru's words: "SeaTable + Docker = instant love". A decisive criterion for the one-man entrepreneur.
 
-![](Cloudvox_n8n-Integration.jpg)
+![Taplet with graphics](Cloudvox_n8n-Integration.jpg)
 
 ## An indispensable all-rounder
 

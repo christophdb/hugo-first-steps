@@ -27,7 +27,7 @@ url: '/ru/datenmanagement/'
 - принятие обоснованных бизнес-решений
 - повысить производительность и эффективность
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 измерений качества данных](Vorteile-dank-Datenmanagement.jpg)
 
 ### Что включает в себя управление данными?
 

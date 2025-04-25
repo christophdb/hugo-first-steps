@@ -27,13 +27,13 @@ But why is data management so important for process digitization? And what chall
 - make well-founded business decisions
 - Increase productivity and efficiency
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 dimensions of data quality](Vorteile-dank-Datenmanagement.jpg)
 
 ### What does data management involve?
 
 **Data management** includes a variety of tasks such as identifying, collecting and storing data, data maintenance and analysis as well as certain precautions for data security. These sub-areas are particularly relevant:
 
-Everything starts with data capture, collection or generation: while **data capture** means the selective input of data for electronic data processing, **data collection** takes place over a longer period of time. Data generation\*\* refers to the generation and collection of large amounts of data using algorithms.
+Everything starts with data capture, collection or generation: while **data capture** means the selective input of data for electronic data processing, **data collection** takes place over a longer period of time. **Data generation** refers to the generation and collection of large amounts of data using algorithms.
 
 The task of **data integration** is to merge and harmonize data from different sources. In **data modeling**, you structure the data so that it can be processed more easily and quickly later on.
 

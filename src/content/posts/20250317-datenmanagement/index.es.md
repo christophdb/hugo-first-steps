@@ -26,7 +26,7 @@ Pero, ¿por qué es tan importante la gestión de datos para la digitalización 
 - Tomar decisiones empresariales bien fundadas
 - Aumentar la productividad y la eficiencia
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 dimensiones de la calidad de los datos](Vorteile-dank-Datenmanagement.jpg)
 
 ### ¿Qué implica la gestión de datos?
 

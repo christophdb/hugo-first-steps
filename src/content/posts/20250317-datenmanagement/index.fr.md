@@ -26,7 +26,7 @@ Par **gestion des données** (en anglais : data management), on entend l'ensembl
 - prendre des décisions commerciales éclairées
 - augmenter la productivité et l'efficacité
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 dimensions de la qualité des données](Vorteile-dank-Datenmanagement.jpg)
 
 ### Qu'est-ce qui fait partie de la gestion des données ?
 

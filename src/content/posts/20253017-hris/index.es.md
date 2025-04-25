@@ -40,7 +40,7 @@ A veces también se menciona la Gestión del Capital Humano (GCH). Además del s
 - Gestión de la remuneración
 - Desarrollo y formación del personal
 
-![](Grafik-HRIS-vs-HMRS.jpg)
+![Gráfico HRIS vs. HMRS](Grafik-HRIS-vs-HMRS.jpg)
 
 El alcance funcional del software de gestión de RRHH varía considerablemente en función del proveedor. Por ello, a la hora de elegir su software de gestión de RRHH, preste atención a las funciones que necesita. Mientras que un HRIS convence con una simple base de datos de empleados para los procesos administrativos cotidianos, un HRMS ofrece funciones más complejas para la planificación (cualitativa) del personal.
 

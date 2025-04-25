@@ -20,7 +20,7 @@ La DSIM a été confrontée au défi de gérer des données sensibles de manièr
 
 Pour relever ces défis, la DSIM a testé différents outils, dont SeaTable. SeaTable a convaincu par sa flexibilité et ses fonctions collaboratives, raison pour laquelle il a été choisi pour une phase de test. Durant cette phase de test, les équipes ont utilisé la version gratuite de SeaTable pour se familiariser avec ses fonctions. Très vite, la DSIM s'est rendu compte de la valeur ajoutée de la solution et a décidé de passer à la version Enterprise afin d'intégrer toutes les équipes dans le nouveau système.
 
-![](pexels-anthonyshkraba-production-8374293.jpg)
+![Modernisation des processus publics grâce à la numérisation](pexels-anthonyshkraba-production-8374293.jpg)
 
 ### Introduction réussie de SeaTable - Transformation progressive dans la gestion des données
 
@@ -35,7 +35,7 @@ Les avantages du passage à SeaTable ne se sont pas fait attendre :
 - **Sécurité accrue des données grâce à la gestion des droits:** Grâce à une attribution précise des droits, la sécurité des données a été renforcée et la collaboration entre les départements améliorée.
 - **Rapports plus précis et meilleure prise de décision:** Avec SeaTable, les rapports sont devenus plus clairs et plus concis, ce qui a rendu les processus de décision plus efficaces.
 
-![](pexels-artempodrez-5716042.jpg)
+![Augmentation des processus de travail grâce aux possibilités d'évaluation](pexels-artempodrez-5716042.jpg)
 
 ### Adoption par les utilisateurs et collaboration - Comment les ateliers ont assuré le succès
 
@@ -46,7 +46,7 @@ De plus, l'échange de bonnes pratiques avec d'autres communautés utilisant ég
 
 L'introduction de SeaTable a permis au Conseil départemental de la Manche de moderniser de manière décisive ses processus de gestion des données. Grâce à une gestion centralisée, une meilleure collaboration et une sécurité accrue des données, SeaTable est devenu un outil indispensable pour la collectivité. Une préparation minutieuse, une mise en œuvre progressive et une implication active des utilisateurs ont permis à la transformation de se dérouler en douceur.
 
-![](jason-goodman-Oalh2MojUuk-unsplash.jpg)
+![Amélioration de la coopération entre les autorités publiques](jason-goodman-Oalh2MojUuk-unsplash.jpg)
 
 ## Révolutionner la gestion des données avec SeaTable
 

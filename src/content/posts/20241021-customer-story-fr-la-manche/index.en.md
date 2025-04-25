@@ -20,7 +20,7 @@ DSIM was faced with the challenge of managing sensitive data securely and access
 
 To overcome these challenges, the DSIM tested various tools, including SeaTable. SeaTable stood out for its flexibility and collaborative features, which is why it was selected for a test phase. During this test phase, the teams used the free version of SeaTable to familiarize themselves with its features. DSIM soon recognized the added value of the solution and decided to upgrade to the enterprise version in order to integrate all teams into the new system.
 
-![](pexels-anthonyshkraba-production-8374293.jpg)
+![Modernising public processes through digitalisation](pexels-anthonyshkraba-production-8374293.jpg)
 
 ### Successful introduction of SeaTable - step-by-step transformation in data management
 
@@ -35,7 +35,7 @@ The benefits of switching to SeaTable were not long in coming:
 - **Increased data security through rights management:** Precise assignment of rights increased data security and improved collaboration between departments.
 - **More concise reports and improved decision-making:** SeaTable made reports clearer and more organized, making decision-making processes more efficient.
 
-![](pexels-artempodrez-5716042.jpg)
+![Increase in work processes through evaluation options](pexels-artempodrez-5716042.jpg)
 
 ### User acceptance and collaboration - How workshops ensured success
 
@@ -46,7 +46,7 @@ In addition, sharing best practices with other municipalities also using SeaTabl
 
 The introduction of SeaTable has enabled the Conseil Départemental de la Manche to significantly modernize its data management processes. Thanks to centralized management, improved collaboration and increased data security, SeaTable has become an indispensable tool for the authority. The careful preparation, gradual introduction and active involvement of users ensured that the transformation went smoothly.
 
-![](jason-goodman-Oalh2MojUuk-unsplash.jpg)
+![Improved cooperation between public authorities](jason-goodman-Oalh2MojUuk-unsplash.jpg)
 
 ## Revolutionize your data management with SeaTable
 

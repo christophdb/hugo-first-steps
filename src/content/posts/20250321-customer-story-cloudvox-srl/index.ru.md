@@ -32,7 +32,7 @@ url: "/ru/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht"
 
 Реализация [on-premises variant](https://seatable.com/ru/on-premises/) SeaTable также прошла гладко, или, по словам Кристиана Ливадару: "SeaTable + Docker = мгновенная любовь". Решающий критерий для предпринимателя-одиночки.
 
-![](Cloudvox_n8n-Integration.jpg)
+![Таплеты с графикой](Cloudvox_n8n-Integration.jpg)
 
 ## Незаменимый универсал
 
