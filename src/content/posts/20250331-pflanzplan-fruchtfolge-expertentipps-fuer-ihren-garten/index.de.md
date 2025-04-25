@@ -1,6 +1,9 @@
 ---
 title: "Pflanzplan und Fruchtfolge: Expertentipps für Ihren Garten"
 description: "Ein erfolgreicher Garten beginnt mit einer durchdachten Planung. Mit der richtigen Fruchtfolge bleibt der Boden fruchtbar, Schädlinge haben es schwerer und die Ernte fällt reicher aus. Dieser Artikel zeigt, wie Sie einen Pflanzplan für Gemüse, Hochbeete und Staudenbeete erstellen."
+seo:
+    title: "Pflanzplan und Fruchtfolge: Expertentipps für Ihren Garten"
+    description: "Dieser Artikel zeigt, wie Sie einen Pflanzplan für Gemüse, Hochbeete und Staudenbeete erstellen für eine langfristige gute Ernte."
 date: 2025-03-31
 categories: 
   - "Allgemein"

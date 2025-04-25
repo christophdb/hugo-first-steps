@@ -1,6 +1,9 @@
 ---
 title: "Erfolgreiche Urlaubsplanung gemäß Bundesurlaubsgesetz: Tipps für Personaler"
 description: "Chaos im Kalender? Wenn zu viele Mitarbeiter gleichzeitig fehlen, wird’s schnell kritisch. Mit cleveren Strategien und digitalen Tools sorgen Sie dafür, dass Urlaubswünsche erfüllt werden, ohne den Betriebsablauf zu stören. Erfahren Sie, wie eine smarte Urlaubsplanung alle Seiten glücklich macht."
+seo:
+    title: "Urlaubsplanung für Mitarbeiter: Tipps für Personaler"
+    description: "Effiziente Urlaubsplanung im Team: So koordinieren Sie Mitarbeiterabwesenheiten optimal und vermeiden Engpässe.Tipps und Vorlagen"
 date: 2025-03-24
 categories: 
   - "Allgemein"

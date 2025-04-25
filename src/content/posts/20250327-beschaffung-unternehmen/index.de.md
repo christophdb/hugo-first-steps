@@ -1,6 +1,9 @@
 ---
 title: "5 Tipps, wie Sie die Beschaffung in Ihrem Unternehmen optimieren"
 description: "Die Beschaffung ist das Herzstück jeder erfolgreichen Unternehmensstrategie, deren Optimierung nicht nur Kosten spart, sondern auch die Wettbewerbsfähigkeit steigert. In diesem Artikel zeign wir Ihnen die größten Erfolgsfaktoren und Herausforderungen für eine erfolgreiche Beschaffung und geben Ihnen 5 Tipps, die Ihnen helfen, Ihre Beschaffungsprozesse zu optimieren."
+seo:
+    title: "Beschaffung im Unternehmen: Strategisch gut aufstellen"
+    description: "Entdecken Sie die Grundlagen und fortgeschrittenen Techniken des Data Warehousing. Erfahren Sie, wie Sie Daten effektiv speichern"
 date: 2025-03-27
 categories: 
   - "Best Practice"
