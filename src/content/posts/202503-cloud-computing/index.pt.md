@@ -1,6 +1,9 @@
 ---
 title: 'Computação em nuvem: Como dimensionar as suas TI de forma económica'
 description: 'A digitalização do mundo do trabalho está a progredir rapidamente e a computação em nuvem desempenha um papel central neste processo. Mas o que significa exatamente a computação em nuvem e como pode ajudar a sua empresa? Neste artigo, ficará a saber tudo o que precisa de saber sobre a tecnologia da nuvem.'
+seo:
+    title: "Computação em nuvem | Dimensione as suas TI de forma económica"
+    description: "O que é a computação em nuvem e como pode ajudar a sua empresa? Descubra tudo o que precisa de saber sobre a tecnologia de nuvem."
 categories:
     - 'Informações gerais'
 tags:

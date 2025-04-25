@@ -1,6 +1,9 @@
 ---
 title: 'Modèle gratuit : pour tenir facilement un carnet de route numérique'
 description: "Un livre de bord peut être plus qu'une simple bureaucratie ennuyeuse - il vous offre la possibilité d'économiser de l'argent. Avec les bons outils numériques, vous maximisez vos avantages et évitez les erreurs coûteuses. Découvrez comment tenir intelligemment votre carnet de route et quelles solutions peuvent vous aider !"
+seo:
+    title: "Tenir un carnet de route numérique : C'est aussi simple que ça | SeaTbale".
+    description : "Un carnet de route numérique présente de nombreux avantages. Découvrez comment tenir intelligemment votre carnet de route, sans paperasserie fastidieuse."
 date: 2025-04-01
 url: '/fr/carnet-de-route'
 tags:

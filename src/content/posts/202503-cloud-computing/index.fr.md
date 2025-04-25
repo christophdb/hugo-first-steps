@@ -1,6 +1,9 @@
 ---
 title: 'Cloud Computing : comment faire évoluer votre informatique à moindre coût'
 description: 'La numérisation du monde du travail progresse rapidement et le cloud computing joue un rôle central dans ce processus. Mais que signifie exactement le cloud computing et comment peut-il faire progresser votre entreprise ? Dans cet article, vous apprendrez tout ce que vous devez savoir sur la technologie cloud.'
+seo:
+    title: "Cloud Computing | Faites évoluer votre informatique à moindre coût"
+    description : "Que signifie le cloud computing et comment fait-il progresser votre entreprise ? Découvrez tout ce que vous devez savoir sur la technologie cloud"
 categories:
     - 'Meilleures pratiques'
 tags:

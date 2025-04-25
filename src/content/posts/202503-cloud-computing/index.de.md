@@ -3,7 +3,7 @@ title: 'Cloud Computing: Wie Sie Ihre IT kostengünstig skalieren'
 description: 'Die Digitalisierung der Arbeitswelt schreitet rasant fort und Cloud Computing spielt dabei eine zentrale Rolle. Doch was bedeutet Cloud Computing genau und wie kann es Ihr Unternehmen voranbringen? In diesem Artikel erfahren Sie alles, was Sie über Cloud-Technologie wissen müssen.'
 seo:
     title: "Cloud Computing | Skalieren Sie kostengünstig Ihre IT"
-    description: "Was bedeutet Cloud Computing und wie bringt es Ihr Unternehmen voran? Erfahren Sie alles, was Sie über Cloud-Technologie wissen müssen."
+    description: "Was bedeutet Cloud Computing und wie bringt es Ihr Unternehmen voran? Erfahren Sie alles, was Sie über Cloud-Technologie wissen müssen"
 categories:
     - 'Allgemein'
 tags:
