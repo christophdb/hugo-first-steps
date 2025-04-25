@@ -1,6 +1,9 @@
 ---
 title: 'Property management: How to manage properties digitally'
 description: 'Property management means coordinating a wide range of tasks efficiently while maintaining an overview. Digitalization offers valuable support in optimizing processes and managing data in a structured manner. Find out how you can manage your properties efficiently and in a future-proof way.'
+seo:
+    title: "Property management: Manage properties digitally"
+    description: "Simplify the organisation of your properties! Our blog provides you with insights for successful property management"
 date: 2025-03-18
 categories:
     - 'General'

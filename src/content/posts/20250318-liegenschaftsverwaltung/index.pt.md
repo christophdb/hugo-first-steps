@@ -1,6 +1,9 @@
 ---
 title: 'Gestão de propriedades: Como gerir as propriedades digitalmente'
 description: 'A gestão de propriedades significa coordenar eficientemente uma vasta gama de tarefas, mantendo uma visão geral. A digitalização oferece aqui um apoio valioso para otimizar os processos e gerir os dados de forma estruturada. Descubra como pode gerir as suas propriedades de forma eficiente e preparada para o futuro.'
+seo:
+    title: "Gestão de imóveis: gerir os imóveis digitalmente"
+    description: "Simplifique a organização dos seus imóveis! O nosso blogue fornece-lhe informações para uma gestão imobiliária bem sucedida"
 date: 2025-03-18
 categories:
     - 'Informações gerais'

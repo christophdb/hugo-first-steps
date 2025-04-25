@@ -1,6 +1,9 @@
 ---
 title: 'Gestión inmobiliaria: cómo gestionar las propiedades digitalmente'
 description: 'La gestión inmobiliaria significa coordinar eficazmente una amplia gama de tareas manteniendo al mismo tiempo una visión de conjunto. La digitalización ofrece aquí un valioso apoyo para optimizar los procesos y gestionar los datos de forma estructurada. Descubra cómo gestionar sus propiedades de forma eficiente y preparada para el futuro.'
+seo:
+    title: "Gestión de propiedades: Gestione sus propiedades digitalmente"
+    description: "¡Simplifique la organización de sus propiedades! Nuestro blog le ofrece ideas para gestionar con éxito sus propiedades"
 date: 2025-03-18
 categories:
     - 'General'

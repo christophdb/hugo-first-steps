@@ -1,6 +1,9 @@
 ---
 title: 'Como criar e implementar um plano de marketing profissional'
 description: 'As equipas de marketing raramente têm falta de ideias criativas. Por isso, é ainda mais importante ter um plano de marketing cuidadosamente desenvolvido para planear e implementar as suas campanhas de forma direcionada. Mostramos-lhe em 6 passos o que é importante e como pode começar facilmente a implementação - com um modelo digital.'
+seo:
+    title: "Criar um plano de marketing: Como atingir os seus objectivos | SeaTable"
+    description: "Saiba como criar um plano de marketing eficaz para atingir os seus objectivos empresariais, desde a análise à implementação"
 date: 2025-03-18
 categories:
     - 'Informações gerais'

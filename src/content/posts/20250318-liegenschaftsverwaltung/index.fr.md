@@ -1,6 +1,9 @@
 ---
 title: 'Gestion des biens immobiliers : comment gérer les biens immobiliers de manière numérique'
 description: La gestion des biens immobiliers implique de coordonner efficacement de multiples tâches tout en gardant une vue d'ensemble. La numérisation offre ici un soutien précieux pour optimiser les processus et gérer les données de manière structurée. Découvrez comment gérer vos biens immobiliers de manière efficace et à l'épreuve du temps'.
+seo:
+    title: "Gestion des biens immobiliers : gérer les biens immobiliers de manière numérique".
+    description: "Simplifiez l'organisation de vos biens immobiliers ! Notre blog vous donne un aperçu de la gestion immobilière."
 date: 2025-03-18
 categories:
     - 'Général'

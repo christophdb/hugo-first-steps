@@ -27,7 +27,7 @@ Sin embargo, si en cambio necesitas la versión completa de escritorio para Wind
 
 ## Hojas de cálculo gratuitas, a diferencia de Excel
 
-Si sólo quieres tener una visión general rápida, echa un vistazo a la siguiente tabla, que compara los programas de hojas de cálculo más importantes. A continuación se ofrece una descripción detallada tras una categorización de los programas de hojas de cálculo aquí considerados.
+Si sólo quieres tener una visión general rápida, echa un vistazo a la siguiente tabla, que compara los programas de hojas de cálculo más importantes. A continuación se ofrece una description: detallada tras una categorización de los programas de hojas de cálculo aquí considerados.
 
 **Software**    | **Desarrollado por**       | **Sistemas operativos** | 
 | ------------- | -------------------------- | ----------------------- |
