@@ -106,7 +106,7 @@ Le calcul du cost-per-hire est simple : **il résulte de la somme des coûts int
 
 ## SeaTable comme logiciel de recrutement gratuit
 
-La recherche de nouveaux talents peut rapidement devenir un défi coûteux pour les entreprises. La question qui se pose alors est souvent la suivante : où peut-on économiser sans perdre en qualité ? Une réponse intelligente réside dans l'utilisation des bons outils. Dans le domaine du recrutement en particulier, il existe des solutions logicielles qui rendent les processus plus efficaces tout en ménageant votre budget - [SeaTable](https://seatable.com/) est une excellente option à cet égard.
+La recherche de nouveaux talents peut rapidement devenir un défi coûteux pour les entreprises. La question qui se pose alors est souvent la suivante : où peut-on économiser sans perdre en qualité ? Une réponse intelligente réside dans l'utilisation des bons outils. Dans le domaine du recrutement en particulier, il existe des solutions logicielles qui rendent les processus plus efficaces tout en ménageant votre budget - [SeaTable]({{< relref "/" >}}) est une excellente option à cet égard.
 
 Avec SeaTable, vous maîtrisez l'ensemble du processus de recrutement. De l'offre d'emploi à l'onboarding, tout peut être géré de manière centralisée et claire. Le modèle **gratuit pour le recrutement** vous permet de collecter les candidatures via un formulaire web, dans lequel toutes les **données et documents importants** sont directement saisis. Ils sont ensuite classés dans un tableau, ce qui vous permet de garder une vue d'ensemble.
 

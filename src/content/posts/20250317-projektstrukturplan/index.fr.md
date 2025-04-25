@@ -95,7 +95,7 @@ Rendez-vous donc service et utilisez un logiciel adapté pour votre organigramme
 
 S'il s'agit d'une carte mentale, **Miro** est le principal fournisseur. Mais il existe aussi une douzaine d'autres outils, comme **MindManager**, qui vous permettront d'obtenir des résultats comparables.
 
-Si vous avez besoin d'une liste de tâches facile à traiter et plus structurée qu'une carte mentale, [SeaTable](https://seatable.com/) est fait pour vous. Cette plate-forme de gestion de projet et de collaboration vous permet d'attribuer facilement les lots de travaux aux responsables et aux sous-projets.
+Si vous avez besoin d'une liste de tâches facile à traiter et plus structurée qu'une carte mentale, [SeaTable]({{< relref "/" >}}) est fait pour vous. Cette plate-forme de gestion de projet et de collaboration vous permet d'attribuer facilement les lots de travaux aux responsables et aux sous-projets.
 
 ## Avantages du modèle d'organigramme de projet de SeaTable
 

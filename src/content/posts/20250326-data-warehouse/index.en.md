@@ -122,7 +122,7 @@ Below is an overview of the differences between cloud and on-premises.
 
 ## SeaTable - the flexible, simple and cost-effective data warehouse
 
-SeaTable is a [no-code platform](https://seatable.com/) that offers the advantage over other relational databases that users can work on an **intuitive graphical user interface** without SQL or other IT knowledge. With the help of various **views, plugins and statistics**, you can easily prepare and visualize the data the way you want. This makes it easier for you to carry out precise analyses and make well-founded decisions without any headaches.
+SeaTable is a [no-code platform]({{< relref "/" >}}) that offers the advantage over other relational databases that users can work on an **intuitive graphical user interface** without SQL or other IT knowledge. With the help of various **views, plugins and statistics**, you can easily prepare and visualize the data the way you want. This makes it easier for you to carry out precise analyses and make well-founded decisions without any headaches.
 
 Data from countless sources can flow into SeaTable via **integrations with Zapier, Make or n8n** and the **SeaTable API**. To enable SeaTable to store all data in a structured form, select the desired [data types](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) in advance. Thanks to the **user-friendly modular principle**, this is just as easy as using the **integrated App Builder** [to create your own apps](https://seatable.com/app-erstellen/). SeaTable also enables **team collaboration** and updates data in real time - changes are immediately visible to all users and fully documented in the version history.
 

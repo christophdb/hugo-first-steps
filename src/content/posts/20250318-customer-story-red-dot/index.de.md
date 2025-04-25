@@ -1,6 +1,9 @@
 ---
 title: 'Red Dot Design Award optimiert das Eventmanagement mit SeaTable'
 description: 'Die Red Dot GmbH & Co. KG aus Essen, bekannt für den international renommierten Red Dot Design Award, hat sein Event- und Auftragsmanagement mit revolutioniert und optimiert. Mit SeaTable Server profitiert das Team von transparenten, effizienten und kollaborativen Workflows und einer DSGVO-konformen Datenverwaltung.'
+seo:
+    title: "Customer Story Red Dot Design Award optimiert"
+    description: "Mit SeaTable Server profitiert das Team von effizienten und kollaborativen Workflows und einer DSGVO-konformen Datenverwaltung."
 date: 2025-03-18
 categories:
     - 'Customer Story'
@@ -16,9 +19,9 @@ url: '/de/customer-story-red-dot'
 
 Die Red Dot GmbH & Co. KG in Essen ist aus der internationalen Marken-, Produkt- und Kommunikationsdesignwelt nicht mehr wegzudenken. Das Unternehmen organisiert mit dem Red Dot Design Award einen der international renommiertesten Designwettbewerbe und betreibt darüber hinaus die drei Red Dot Design Museen in Essen, Singapur und Xiamen (China), die zu den bedeutendsten Museen für zeitgenössisches Design zählen. Die Preisverleihungen für zwei der drei Designwettbewerbe, werden inzwischen über SeaTable dargestellt, nachdem das Team die vielschichtigen Prozesse mit den bestehenden Lösungen nicht mehr abbilden konnte. Louisa Mücher, Digital Business Manager beim Red Dot Design Award, schildert, warum Red Dot auf SeaTable umgestiegen ist und was sich dadurch geändert hat.
 
-![](Blog_reddot_I1.jpg)
+![Bild Red Dot Veranstaltung](Blog_reddot_I1.jpg)
 
-Vor der Einführung von SeaTable war das wichtigste Tool ein [Desktop-Tabellenkalkulationsprogramm](https://seatable.com/excel-alternative/). Diese Lösung war insbesondere beim Datenmanagement nicht mehr zeitgemäß. Die Zusammenarbeit innerhalb des Teams war eine echte Herausforderung, da kein kollaboratives Arbeiten möglich war. Als besonders problematisch erwies sich der bestehende Prozess bei der Organisation der Preisverleihung für den Red Dot Award: Product Design, einem internationalen Großevent. Für eine reibungslose Organisation und Last-Minute-Änderungen erwiesen sich die fehlenden Möglichkeiten zum kollaborativen Arbeiten als schwierig.
+Vor der Einführung von SeaTable war das wichtigste Tool ein [Desktop-Tabellenkalkulationsprogramm]({{< relref "pages/excel-alternative" >}}). Diese Lösung war insbesondere beim Datenmanagement nicht mehr zeitgemäß. Die Zusammenarbeit innerhalb des Teams war eine echte Herausforderung, da kein kollaboratives Arbeiten möglich war. Als besonders problematisch erwies sich der bestehende Prozess bei der Organisation der Preisverleihung für den Red Dot Award: Product Design, einem internationalen Großevent. Für eine reibungslose Organisation und Last-Minute-Änderungen erwiesen sich die fehlenden Möglichkeiten zum kollaborativen Arbeiten als schwierig.
 
 ## SeaTable erfüllt die Anforderungen von perfekt
 

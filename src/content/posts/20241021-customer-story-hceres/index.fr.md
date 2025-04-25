@@ -23,7 +23,7 @@ Hcéres était confronté au défi de rendre ses processus de données complexes
 
 ## Situation initiale : Hcéres et le défi d'une gestion efficace des données
 
-En tant qu'autorité indépendante, le Hcéres est responsable de l'évaluation de tous les établissements d'enseignement supérieur et de recherche français. Avant l'introduction de SeaTable, ces processus étaient principalement gérés à l'aide de feuilles de calcul Excel. Cependant, cette méthode était de plus en plus inefficace et entraînait des failles de sécurité ainsi qu'une fragmentation des données. Il était temps de trouver une [alternative Excel](https://seatable.com/excel-alternative/) qui simplifierait l'ensemble du processus et répondrait aux exigences du Hcéres.
+En tant qu'autorité indépendante, le Hcéres est responsable de l'évaluation de tous les établissements d'enseignement supérieur et de recherche français. Avant l'introduction de SeaTable, ces processus étaient principalement gérés à l'aide de feuilles de calcul Excel. Cependant, cette méthode était de plus en plus inefficace et entraînait des failles de sécurité ainsi qu'une fragmentation des données. Il était temps de trouver une [alternative Excel]({{< relref "pages/excel-alternative" >}}) qui simplifierait l'ensemble du processus et répondrait aux exigences du Hcéres.
 
 ## La transition d'Excel à SeaTable : Pourquoi SeaTable était le bon choix pour le Hcéres
 
@@ -33,7 +33,7 @@ Pour relever les défis de la gestion des données, le Département du Numériqu
 
 ## Implémentation de SeaTable au Hcéres
 
-Le déploiement de SeaTable a commencé par une preuve de concept (POC) dans un seul département. Cette phase pilote s'est concentrée sur la gestion des conventions et des listes d'experts potentiels. Suite au succès de ce test, SeaTable a été progressivement étendu à d'autres départements et services d'évaluation du Hcéres. Aujourd'hui, l'autorité utilise la [plate-forme sans code](https://seatable.com/) SeaTable pour former efficacement des comités d'évaluation et rationaliser le processus de préparation des évaluations.
+Le déploiement de SeaTable a commencé par une preuve de concept (POC) dans un seul département. Cette phase pilote s'est concentrée sur la gestion des conventions et des listes d'experts potentiels. Suite au succès de ce test, SeaTable a été progressivement étendu à d'autres départements et services d'évaluation du Hcéres. Aujourd'hui, l'autorité utilise la [plate-forme sans code]({{< relref "/" >}}) SeaTable pour former efficacement des comités d'évaluation et rationaliser le processus de préparation des évaluations.
 
 ![](pexels-edmond-dantes-4342496-1.jpg)
 

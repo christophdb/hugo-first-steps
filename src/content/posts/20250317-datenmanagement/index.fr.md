@@ -115,7 +115,7 @@ La tendance observée est l'utilisation croissante de solutions de gestion des d
 
 ## Base de données relationnelle no-code dans le cloud ou sur site
 
-La [base de données No-Code SeaTable](https://seatable.com/) vous permet de stocker, de consulter et d'analyser efficacement vos données sans avoir besoin de connaissances SQL ou d'autres expériences techniques préalables. Vous pouvez non seulement structurer et relier facilement des données, mais aussi stocker des fichiers, des images et des documents.
+La [base de données No-Code SeaTable]({{< relref "/" >}}) vous permet de stocker, de consulter et d'analyser efficacement vos données sans avoir besoin de connaissances SQL ou d'autres expériences techniques préalables. Vous pouvez non seulement structurer et relier facilement des données, mais aussi stocker des fichiers, des images et des documents.
 
 Contrairement à d'autres bases de données relationnelles, l'interface utilisateur **graphique** de SeaTable vous permet d'effectuer directement des analyses. De nombreuses statistiques sont à votre disposition pour des analyses plus approfondies. Si cela ne vous suffit pas, vous pouvez visualiser vos données à l'aide de [plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) dans des galeries, des calendriers, des organigrammes, etc.
 

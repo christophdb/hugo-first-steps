@@ -1,6 +1,9 @@
 ---
 title: 'HR Prozesse digitalisieren und automatisieren mit SeaTable'
 description: 'Revolutionieren Sie Ihre HR-Prozesse mit SeaTable. Von Onboarding bis Zeiterfassung – steigern Sie die Effizienz Ihrer Personalabteilung.'
+seo:
+    title: "HR Prozesse digitalisieren und automatisieren | SeaTable"
+    description: "Revolutionieren Sie Ihre HR-Prozesse mit SeaTable. Von Onboarding bis Zeiterfassung – steigern Sie die Effizienz Ihrer Personalabteilung"
 date: '2025-04-03'
 url: '/de/hr-prozesse'
 

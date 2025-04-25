@@ -1,6 +1,9 @@
 ---
 title: 'Die Bedeutung von Datenmanagement für die Digitalisierung in Unternehmen'
 description: 'Unternehmen brauchen Daten, um strategische und operative Entscheidungen zu treffen. Doch wie lässt sich ein modernes, effizientes Datenmanagement aufsetzen, das diesen Namen wirklich verdient? Lesen Sie, worauf es beim Datenmanagement ankommt und welche verschiedenen Datenbanksysteme es gibt.'
+seo:
+    title: "Datenmanagement für die Digitalisierung in Unternehmen"
+    description: "Erfahren Sie in unserem Blogbeitrag, worauf es beim Datenmanagement ankommt und welche verschiedenen Datenbanksysteme es gibt."
 date: 2025-03-17
 categories:
     - 'Allgemein'
@@ -27,7 +30,7 @@ Unter **Datenmanagement** (englisch: Data Management) versteht man die Gesamthe
 - fundierte Geschäftsentscheidungen treffen
 - Produktivität und Effizienz steigern
 
-![](Vorteile-dank-Datenmanagement.jpg)
+![5 Dimensionen von Datenqualität](Vorteile-dank-Datenmanagement.jpg)
 
 ### Was gehört zum Datenmanagement?
 
@@ -116,7 +119,7 @@ Als Trend lässt sich die zunehmende Verwendung von cloudbasierten Datenmanageme
 
 ## Relationale No-Code-Datenbank in der Cloud oder On-Premises
 
-In der tabellenbasierten [No-Code-Datenbank SeaTable](https://seatable.com/) können Sie Ihre Daten effizient speichern, abrufen und analysieren, ohne SQL-Kenntnisse oder sonstige technische Vorerfahrung mitbringen zu müssen. Dabei können Sie nicht nur spielend leicht Daten strukturieren und verknüpfen, sondern auch Dateien, Bilder und Dokumente speichern.
+In der tabellenbasierten [No-Code-Datenbank SeaTable]({{< relref "/" >}}) können Sie Ihre Daten effizient speichern, abrufen und analysieren, ohne SQL-Kenntnisse oder sonstige technische Vorerfahrung mitbringen zu müssen. Dabei können Sie nicht nur spielend leicht Daten strukturieren und verknüpfen, sondern auch Dateien, Bilder und Dokumente speichern.
 
 Im Gegensatz zu anderen relationalen Datenbanken können Sie auf der **grafischen Benutzeroberfläche** von SeaTable direkt Auswertungen vornehmen. Für weitergehende Analysen stehen Ihnen zahlreiche Statistiken zur Verfügung. Wenn Ihnen dies noch nicht reicht, können Sie Ihre Daten mithilfe von [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) in Galerien, Kalendern, Organigrammen etc. visualisieren.
 

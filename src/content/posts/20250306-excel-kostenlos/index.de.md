@@ -1,6 +1,9 @@
 ---
 title: 'Excel kostenlos? Tabellenkalkulation: Programme im Vergleich'
 description: 'Benötigen Sie eine leistungsstarke Tabellenkalkulation, hadern aber mit Excel? Oder haben Sie Datenschutzbedenken gegenüber dem US-Riesen Microsoft? Kein Problem! Es gibt genügend Programme, die im Gegensatz zu Excel kostenlos sind oder sogar mehr Funktionen bieten. Tauchen Sie ein in die Welt der Tabellenlösungen!'
+seo:
+    title: "Excel kostenlos | Tabellenkalkulation | Tools im Vergleich"
+    description: "Möchten Sie Excel kostenlos nutzen? Entdecken Sie in unserem Blogbeitrag clevere Excel Alternativen. Effiziente Tabellenkalkulation"
 date: 2025-03-06
 categories:
     - 'Allgemein'
@@ -38,7 +41,7 @@ Wenn Sie sich nur einen schnellen Überblick verschaffen wollen, schauen Sie in 
 
 In diesem Vergleich wurden nur lokale Anwendungen berücksichtigt, die mindestens zwei Betriebssystemfamilien unterstützen. Aus diesem Grund ist Apple Numbers als reine Tabellenkalkulation für MacOS/iOS genauso wenig dabei wie Gnumeric, das seit 2014 eine reine Anwendung für Linux ist.
 
-Ein aufstrebender Player unter den Tabellenkalkulationen ist SeaTable, das als [No-Code-Datenbank und App-Builder](https://seatable.com/) einen deutlich erweiterten Funktionsumfang gegenüber Excel und anderen Lösungen aufweist und damit den Wettbewerb neu belebt. Wie die anderen in diesem Artikel vorgestellten Lösungen ist auch die Free-Version von SeaTable im Gegensatz zu Excel kostenlos.
+Ein aufstrebender Player unter den Tabellenkalkulationen ist SeaTable, das als [No-Code-Datenbank und App-Builder]({{< relref "posts/20250318-app-erstellen" >}}) einen deutlich erweiterten Funktionsumfang gegenüber Excel und anderen Lösungen aufweist und damit den Wettbewerb neu belebt. Wie die anderen in diesem Artikel vorgestellten Lösungen ist auch die Free-Version von SeaTable im Gegensatz zu Excel kostenlos.
 
 ### Einordnung der Tabellenkalkulationen
 
@@ -132,7 +135,7 @@ Wenn Sie aufgrund des Namens und des Anspruchs als G Suite Killer weitere Ähnli
 
 Man tut Zoho Sheet aber Unrecht, wenn man ihm komplett die Individualität abspricht! Im Bereich Datenanalyse bietet es mit einem Solver und einer Zielwertfunktion mehr als das Google Pendant. Aufgrund seiner weniger marktdominierenden Rolle zeigt es sich auch erfreulich **integrativ**. In Zoho Sheet angelegte Tabellen können Sie in einem eigenen Online-Speicher – **Zoho Docs** für Privatpersonen, **Zoho WorkDrive** für Teams – oder in einem eingebundenen Account von Google Drive, OneDrive oder Dropbox abspeichern. Der Dateiexport ist in Dateien vom Typ .csv, .xlsx und .ods möglich.
 
-![](Screenshot_Zoho_Sheet.jpg)
+![Screenshot Zoho Sheet](Screenshot_Zoho_Sheet.jpg)
 
 ### Vor- und Nachteile, wenn Sie es als Ersatz für Excel kostenlos nutzen möchten
 
@@ -166,7 +169,7 @@ Dass SeaTable einiges anders macht als die anderen Tabellenkalkulationen, fällt
 
 Einfachauswahlfelder sind den Drop-down-Listen, die Sie in Excel via Datenvalidierung abbilden können, ähnlich, aber flexibler und einfacher zu bedienen. Mehrfachauswahlfelder, die keine Entsprechung in Excel haben, helfen bei der Kategorisierung und Verschlagwortung von Daten. Mit diesen erweiterten Spaltentypen lassen sich alle erdenklichen Informationstypen in einer Tabelle ablegen. **Unterschiedliche Speicherorte** für unterschiedliche Datentypen gehören damit der Vergangenheit an.
 
-![](Screenshot_SeaTable.jpg)
+![Screenshot SeaTable Datenorganisation](Screenshot_SeaTable.jpg)
 
 ### Tabellenkalkulation mit der Power von No-Code-Datenbanken und App-Buildern
 
@@ -178,7 +181,7 @@ SeaTable Einsteiger werden sich zunächst daran gewöhnen müssen, vor der Daten
 
 Natürlich verfügt SeaTable auch über die klassischen Funktionen einer Tabellenkalkulation: **Filter**, **Sortierungen** und **Gruppierungen** bringen Daten in die gewünschte Ordnung, mit **Pivot-Tabellen** lassen sich auch große Datensätze rasch auswerten und die diversen **Diagrammtypen** stellen Daten visuell dar. Aber wie schon bei den unterstützten Datentypen geht SeaTable auch bei den Darstellungsoptionen einen Schritt weiter als die anderen Excel Konkurrenten.
 
-![](Screenshot_SeaTable_Statistics.jpg)
+![Screenshot SeaTable Auswertungsmöglichkeiten zur Datenvisualisierung](Screenshot_SeaTable_Statistics.jpg)
 
 SeaTables [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) bieten erweiterte Visualisierungsoptionen für nicht-numerische Datentypen: Im Karten-Plugin lassen sich Adress- und Geopositionsdaten auf einer Karte darstellen und das Galerie-Plugin zeigt die in einer Tabelle abgelegten Bilddaten übersichtlich in Alben an. In einer Tabelle erfasste Termindaten lassen sich im Kalender- oder im Timeline-Plugin anzeigen und das Kanban-Plugin stellt Workflows mit verschiedenen Phasen dar, wie man es sonst nur aus [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}})\-Anwendungen kennt.
 

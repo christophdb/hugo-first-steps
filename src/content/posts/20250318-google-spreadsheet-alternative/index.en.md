@@ -42,7 +42,7 @@ Google Sheets, on the other hand, offers significantly enhanced functionality fo
 
 ## Advantages and disadvantages of Google Spreadsheet
 
-Both individuals and businesses around the world use Google every day to create a spreadsheet. Some features make it an attractive option for users looking for an [Excel alternative](https://seatable.com/excel-alternative/) that is **flexible and cloud-based**. On the other hand, there are also a few stumbling blocks that you should not underestimate. Ultimately, it's worth taking a closer look at the pros and cons.
+Both individuals and businesses around the world use Google every day to create a spreadsheet. Some features make it an attractive option for users looking for an [Excel alternative]({{< relref "pages/excel-alternative" >}}) that is **flexible and cloud-based**. On the other hand, there are also a few stumbling blocks that you should not underestimate. Ultimately, it's worth taking a closer look at the pros and cons.
 
 ### Advantages
 
@@ -70,7 +70,7 @@ In the world of spreadsheets, Google Sheets is undoubtedly a well-known heavywei
 
 You can create a spreadsheet with many programs - free of charge and even user-friendly. There is a shining star in the spreadsheet sky that doesn't need to shy away from comparison with Google Sheets and other tools: **SeaTable**. This tool goes far beyond the functions of conventional spreadsheets. Where Google Sheets scores points, SeaTable shows that it has even more to offer. It **combines the ease of use and flexibility of spreadsheets with all the benefits of a no-code database**, making it the perfect solution for modern teams.
 
-SeaTable stands out as a [no-code platform](https://seatable.com/) and app builder. It not only allows you to create and manage tables, but also to build **customized applications tailored to your needs**. This possibility opens up completely new ways of data management and process optimization that Google Spreadsheets cannot offer in this form.
+SeaTable stands out as a [no-code platform]({{< relref "/" >}}) and app builder. It not only allows you to create and manage tables, but also to build **customized applications tailored to your needs**. This possibility opens up completely new ways of data management and process optimization that Google Spreadsheets cannot offer in this form.
 
 The benefits of SeaTable are clear: it's flexible, powerful and enables **transparent collaboration** - all in a single, intuitive platform. So if you're looking for a solution that can do more than traditional spreadsheets while meeting your unique needs, SeaTable is the ideal choice.
 

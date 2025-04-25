@@ -142,7 +142,7 @@ Antes de pasar de los servidores locales a la nube, debe desarrollar una estrate
 
 ## Descubra SeaTable para su nube
 
-Un servicio en la nube poco conocido pero muy económico es la [base de datos sin código SeaTable](https://seatable.com/es), en la que puede almacenar sus datos **conforme a la DSGVO** y bajo las máximas precauciones de seguridad **en centros de datos alemanes**. Elija entre
+Un servicio en la nube poco conocido pero muy económico es la [base de datos sin código SeaTable]({{< relref "/" >}}), en la que puede almacenar sus datos **conforme a la DSGVO** y bajo las máximas precauciones de seguridad **en centros de datos alemanes**. Elija entre
 
 - [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) como nube pública
 - [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) para su nube privada

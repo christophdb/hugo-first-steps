@@ -104,7 +104,7 @@ O cálculo do custo por contratação é simples: **É a soma dos custos interno
 
 ## SeaTable como software de recrutamento gratuito
 
-A procura de novos talentos pode rapidamente tornar-se um desafio dispendioso para as empresas. Isto levanta muitas vezes a questão: Onde é que se pode poupar sem sacrificar a qualidade? Uma resposta inteligente é utilizar as ferramentas corretas. Especialmente na área do recrutamento, existem soluções de software que tornam os processos mais eficientes e poupam o seu orçamento ao mesmo tempo - uma excelente opção para este efeito é o [SeaTable](https://seatable.com/pt/).
+A procura de novos talentos pode rapidamente tornar-se um desafio dispendioso para as empresas. Isto levanta muitas vezes a questão: Onde é que se pode poupar sem sacrificar a qualidade? Uma resposta inteligente é utilizar as ferramentas corretas. Especialmente na área do recrutamento, existem soluções de software que tornam os processos mais eficientes e poupam o seu orçamento ao mesmo tempo - uma excelente opção para este efeito é o [SeaTable]({{< relref "/" >}}).
 
 Com o SeaTable, tem todo o processo de candidatura sob controlo. Desde o anúncio de emprego até à integração, tudo pode ser gerido de forma centralizada e clara. O **modelo gratuito para recrutamento de pessoal** permite-lhe recolher candidaturas através de um formulário Web no qual todos os **dados e documentos** importantes são registados diretamente. Estes são depois organizados e dispostos de forma clara numa tabela, para que tenha sempre uma visão geral.
 

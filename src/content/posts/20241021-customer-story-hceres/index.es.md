@@ -33,7 +33,7 @@ Para superar los retos de la gestión de datos, el Département du Numérique et
 
 ## Implantación de SeaTable en Hcéres
 
-La implantación de SeaTable comenzó con una prueba de concepto (POC) en un único departamento. Esta fase piloto se centró en la gestión de convenios y posibles listas de expertos. Basándose en el éxito de esta prueba, SeaTable se extendió gradualmente a otros departamentos y servicios de evaluación del Hcéres. En la actualidad, la agencia utiliza la [plataforma sin código](https://seatable.com/es/) SeaTable para formar eficazmente comités de evaluación y agilizar el proceso de preparación de las evaluaciones.
+La implantación de SeaTable comenzó con una prueba de concepto (POC) en un único departamento. Esta fase piloto se centró en la gestión de convenios y posibles listas de expertos. Basándose en el éxito de esta prueba, SeaTable se extendió gradualmente a otros departamentos y servicios de evaluación del Hcéres. En la actualidad, la agencia utiliza la [plataforma sin código]({{< relref "/" >}}) SeaTable para formar eficazmente comités de evaluación y agilizar el proceso de preparación de las evaluaciones.
 
 ![](pexels-edmond-dantes-4342496-1.jpg)
 

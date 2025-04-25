@@ -1,6 +1,9 @@
 ---
 title: 'Cloud Computing: Wie Sie Ihre IT kostengünstig skalieren'
 description: 'Die Digitalisierung der Arbeitswelt schreitet rasant fort und Cloud Computing spielt dabei eine zentrale Rolle. Doch was bedeutet Cloud Computing genau und wie kann es Ihr Unternehmen voranbringen? In diesem Artikel erfahren Sie alles, was Sie über Cloud-Technologie wissen müssen.'
+seo:
+    title: "Cloud Computing | Skalieren Sie kostengünstig Ihre IT"
+    description: "Was bedeutet Cloud Computing und wie bringt es Ihr Unternehmen voran? Erfahren Sie alles, was Sie über Cloud-Technologie wissen müssen."
 categories:
     - 'Allgemein'
 tags:
@@ -142,7 +145,7 @@ Bevor Sie von lokalen Servern auf die Cloud umsteigen, sollten Sie eine durchdac
 
 ## Entdecken Sie SeaTable für Ihre Cloud
 
-Ein bisher wenig bekannter, aber sehr preiswerter Cloud Service ist die [No-Code-Datenbank SeaTable](https://seatable.com/), in der Sie Ihre Daten **DSGVO-konform** und unter höchsten Sicherheitsvorkehrungen **in deutschen Rechenzentren** speichern können. Wählen Sie zwischen
+Ein bisher wenig bekannter, aber sehr preiswerter Cloud Service ist die [No-Code-Datenbank SeaTable]({{< relref "/" >}}), in der Sie Ihre Daten **DSGVO-konform** und unter höchsten Sicherheitsvorkehrungen **in deutschen Rechenzentren** speichern können. Wählen Sie zwischen
 
 - [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) als Public Cloud
 - [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) für Ihre Private Cloud

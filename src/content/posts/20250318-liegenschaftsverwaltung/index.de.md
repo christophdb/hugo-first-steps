@@ -1,6 +1,9 @@
 ---
 title: 'Liegenschaftsverwaltung: Wie Sie Liegenschaften digital managen'
 description: 'Liegenschaftsverwaltung bedeutet, vielfältige Aufgaben effizient zu koordinieren und gleichzeitig den Überblick zu behalten. Die Digitalisierung bietet hier wertvolle Unterstützung, um Prozesse zu optimieren und Daten strukturiert zu verwalten. Erfahren Sie, wie Sie Ihre Liegenschaften zukunftssicher und effizient managen.'
+seo:
+    title: "Liegenschaftsverwaltung: Liegenschaften digital managen"
+    description: "Vereinfachen Sie die Organisation Ihrer Immobilien! Unser Blog liefert Ihnen Einblicke für eine erfolgreiche Liegenschaftsverwaltung"
 date: 2025-03-18
 categories:
     - 'Allgemein'
@@ -87,7 +90,7 @@ Die Aufgaben einer Liegenschaftsverwaltung sind vielfältig und erfordern sowohl
 
 ## Liegenschaften digital verwalten mit SeaTable
 
-Die Verwaltung von Liegenschaften kann eine komplexe und zeitaufwändige Aufgabe sein – vor allem, wenn Sie mehrere Immobilien gleichzeitig betreuen. Mit SeaTable können Sie Ihre **Liegenschaften digital und effizient organisieren** und dabei stets den Überblick behalten. Dank der flexiblen Struktur der [No-Code-Plattform](https://seatable.com/) können Sie Ihre individuellen Prozesse genauso abbilden, wie Sie möchten. Zudem lassen sich **alle relevanten Daten sicher und zentral an einem Ort speichern** und verwalten.
+Die Verwaltung von Liegenschaften kann eine komplexe und zeitaufwändige Aufgabe sein – vor allem, wenn Sie mehrere Immobilien gleichzeitig betreuen. Mit SeaTable können Sie Ihre **Liegenschaften digital und effizient organisieren** und dabei stets den Überblick behalten. Dank der flexiblen Struktur der [No-Code-Plattform]({{< relref "/" >}}) können Sie Ihre individuellen Prozesse genauso abbilden, wie Sie möchten. Zudem lassen sich **alle relevanten Daten sicher und zentral an einem Ort speichern** und verwalten.
 
 Einer der größten Vorteile von SeaTable ist die Möglichkeit, **individuelle Zugriffsrechte** zu vergeben. Das bedeutet, dass Sie für jede Liegenschaft festlegen können, wer welche Daten einsehen darf. Gerade wenn Sie mehrere Liegenschaften verwalten, ist es essenziell, dass die Daten der jeweiligen Immobilien voneinander getrennt sind – in SeaTable können Sie alle Liegenschaften in einer einzigen No-Code-Datenbank organisieren, ohne dass jemand unerlaubt Einsicht in andere Projekte erhält. So gewährleisten Sie den Datenschutz und erfüllen die Anforderungen der DSGVO.   
 

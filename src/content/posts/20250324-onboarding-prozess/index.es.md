@@ -141,7 +141,7 @@ Con un solo clic, puede crear una lista de comprobación intuitiva con todas las
 
 En la [plantilla gratuita](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) de SeaTable, puede agrupar todas las tareas y la información en un solo lugar. Al asignar responsabilidades claras, así como un horizonte temporal y un estado a cada tarea, puedes visualizar claramente el progreso de la inducción y hacer un seguimiento en directo.
 
-Apóyese en un software adecuado y asegúrese de que sus nuevos empleados se sientan inmediatamente bienvenidos y se integren rápidamente en su empresa. Para utilizar la [plataforma sin código SeaTable](https://seatable.com/), sólo tiene que registrarse gratuitamente. A continuación, puede añadir la plantilla a su base y completarla con sus propios datos.
+Apóyese en un software adecuado y asegúrese de que sus nuevos empleados se sientan inmediatamente bienvenidos y se integren rápidamente en su empresa. Para utilizar la [plataforma sin código SeaTable]({{< relref "/" >}}), sólo tiene que registrarse gratuitamente. A continuación, puede añadir la plantilla a su base y completarla con sus propios datos.
 
 [Pruebe SeaTable ahora gratis]({{< relref "pages/registration" >}})
 

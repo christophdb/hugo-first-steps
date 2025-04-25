@@ -17,7 +17,7 @@ SeaTable can be used for a wide variety of purposes thanks to the flexibility of
 
 ## Growing complexity and lack of transparency in order management
 
-Our customer offers the construction and maintenance of building installations. The rapidly growing company previously used Excel for order management. However, as the order volume grew, the employees increasingly reached the limits of the system and were looking for an [Excel alternative](https://seatable.com/excel-alternative/). Many processes were inefficient due to a lack of automation functions and had to be processed manually. The lack of true real-time collaboration meant that data was not always up-to-date and process statuses were not always transparent. In addition, there were increasing concerns about data security. A switch to a new, modern system became imperative.
+Our customer offers the construction and maintenance of building installations. The rapidly growing company previously used Excel for order management. However, as the order volume grew, the employees increasingly reached the limits of the system and were looking for an [Excel alternative]({{< relref "pages/excel-alternative" >}}). Many processes were inefficient due to a lack of automation functions and had to be processed manually. The lack of true real-time collaboration meant that data was not always up-to-date and process statuses were not always transparent. In addition, there were increasing concerns about data security. A switch to a new, modern system became imperative.
 
 **The company's main requirements included:**
 

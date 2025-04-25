@@ -37,7 +37,7 @@ Si sólo quieres tener una visión general rápida, echa un vistazo a la siguien
 
 En esta comparación, sólo se han tenido en cuenta las aplicaciones locales compatibles con al menos dos familias de sistemas operativos. Por este motivo, no se incluye Apple Numbers como aplicación pura de hoja de cálculo para macOS/iOS, ni tampoco Gnumeric, que es una aplicación pura para Linux desde 2014.
 
-Un actor emergente entre las hojas de cálculo es SeaTable, que como [no-code database and app builder](https://seatable.com/es/) tiene una gama de funciones significativamente ampliada en comparación con Excel y otras soluciones, revitalizando así la competencia. Al igual que las demás soluciones presentadas en este artículo, la versión gratuita de SeaTable también es gratuita, a diferencia de Excel.
+Un actor emergente entre las hojas de cálculo es SeaTable, que como [no-code database and app builder]({{< relref "/" >}}) tiene una gama de funciones significativamente ampliada en comparación con Excel y otras soluciones, revitalizando así la competencia. Al igual que las demás soluciones presentadas en este artículo, la versión gratuita de SeaTable también es gratuita, a diferencia de Excel.
 
 ### Clasificación de las hojas de cálculo
 

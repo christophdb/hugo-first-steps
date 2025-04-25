@@ -122,7 +122,7 @@ Viennent ensuite deux méthodes de gestion de projet qui mettent l'accent sur un
 
 ### 9\. Arbre de projet
 
-Dans l'[organigramme technique de projet](https://seatable.com/projektstrukturplan/), vous saisissez toutes les tâches du projet dans un seul graphique. Vous pouvez ensuite créer des lots de travaux, répartir les responsabilités et fixer des délais.
+Dans l'[organigramme technique de projet]({{< relref "posts/20250317-projektstrukturplan" >}}), vous saisissez toutes les tâches du projet dans un seul graphique. Vous pouvez ensuite créer des lots de travaux, répartir les responsabilités et fixer des délais.
 
 L'organigramme technique de projet permet de garder une vue d'ensemble des grands projets. Il est issu de la gestion de projet classique et peut être difficile à adapter aux méthodes agiles. Dans les projets où vous avez besoin d'une vue d'ensemble, vous pouvez toutefois alléger et simplifier le plan afin qu'il reste clair et que vous puissiez facilement y apporter des modifications.
 

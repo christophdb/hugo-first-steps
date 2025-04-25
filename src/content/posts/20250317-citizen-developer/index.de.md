@@ -1,6 +1,10 @@
 ---
 title: 'Citizen Developer – Gamechanger in der Digitalisierung?'
 description: 'Maßgeschneiderte Software-Lösungen für Ihre speziellen Prozesse sind Mangelware? Dann entwickeln Sie doch eigene Lösungen! Erfahren Sie in diesem Artikel, wie Sie das Know-how in Ihren Fachabteilungen nutzen und effiziente digitale Prozesse aufsetzen, indem Sie Citizen Developer an der Entwicklung beteiligen.'
+seo:
+    title: "Citizen Developer – Gamechanger in der Digitalisierung"
+    description: "Entwickeln Sie eigene Softwarelösungen mit Citizen Developern! Dieser Artikel zeigt Ihnen, wie Sie das Know-how Ihrer Fachabteilungen nutzen"
+    
 date: 2025-03-17
 categories:
     - 'No Code / Low Code'
@@ -87,7 +91,7 @@ Obwohl sie keine IT-Experten sind, müssen Citizen Developer bestimmte Skills mi
 
 Da sie meist kaum Programmierkenntnisse besitzen, greifen Citizen Developer auf Low-Code oder No-Code Entwicklungsumgebungen zurück. Diese bieten **intuitiv bedienbare Benutzeroberflächen** und **vorgefertigte Software-Bausteine**, mit denen man ohne Code eigene Anwendungen erstellen kann. Dadurch, dass die IT-Abteilung den Fachbereichen eine solche Umgebung zur Verfügung stellt, werden die Anwendungen auf einer einheitlichen technologischen Basis entwickelt. Im Gegensatz zur Schatten-IT gehören Citizen Developer Tools also von Anfang an zur offiziellen Unternehmens-IT.
 
-Diese Entwicklungsumgebungen müssen allerdings so **flexibel** sein, dass die Citizen Developer die Software auf die individuellen Geschäftsprozesse und Anforderungen in ihrem jeweiligen Fachbereich zuschneiden können. Insbesondere eignen sich dafür [No-Code-Plattformen wie beispielsweise SeaTable](https://seatable.com/). Mit diesen können die Citizen Developer erforderliche Änderungen und Anpassungen schnell und unkompliziert vornehmen. Des Weiteren sollten Sie sich für Citizen Developer Tools entscheiden, die eine transparente **Zusammenarbeit** und die Einhaltung von **Compliance-Richtlinien** (zum Beispiel die DSGVO) gewährleisten.
+Diese Entwicklungsumgebungen müssen allerdings so **flexibel** sein, dass die Citizen Developer die Software auf die individuellen Geschäftsprozesse und Anforderungen in ihrem jeweiligen Fachbereich zuschneiden können. Insbesondere eignen sich dafür [No-Code-Plattformen wie beispielsweise SeaTable]({{< relref "/" >}}). Mit diesen können die Citizen Developer erforderliche Änderungen und Anpassungen schnell und unkompliziert vornehmen. Des Weiteren sollten Sie sich für Citizen Developer Tools entscheiden, die eine transparente **Zusammenarbeit** und die Einhaltung von **Compliance-Richtlinien** (zum Beispiel die DSGVO) gewährleisten.
 
 Machen Sie sich das Leben leicht und stellen Sie Ihren Citizen Developern eine No-Code-Plattform mit integriertem App-Builder zur Verfügung: SeaTable bietet Ihnen alles, was Sie für die Entwicklung effizienter Prozesse benötigen. [Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse und legen Sie direkt los!
 

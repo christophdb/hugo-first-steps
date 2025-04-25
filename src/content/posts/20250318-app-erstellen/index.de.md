@@ -1,6 +1,9 @@
 ---
 title: 'Schnell, einfach und kostenlos: Wie Sie ohne Code eine eigene App erstellen'
 description: 'Eine eigene App zu entwickeln, muss weder teuer noch kompliziert sein. Mit modernen No-Code-Tools können Sie Ihre Ideen schnell und einfach umsetzen – ganz ohne Programmierkenntnisse. In diesem Artikel erfahren Sie, welche Tools sich besonders eignen und wie Sie Ihre App in wenigen Schritten selbst erstellen können.'
+seo:
+    title: "App erstellen: No-Code-Lösung ohne Programmierkenntnisse"
+    description: "Eigene Apps erstellen leicht gemacht! Entdecke einfache Wege, individuelle Anwendungen ohne Programmierkenntnisse zu entwickeln"
 date: 2025-03-18
 categories:
     - 'No Code / Low Code'

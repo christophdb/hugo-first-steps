@@ -1,6 +1,9 @@
 ---
 title: 'Digitales Fahrtenbuch führen: So einfach geht es!'
 description: 'Ein Fahrtenbuch kann mehr sein als nur lästige Bürokratie – es bietet Ihnen die Möglichkeit, bares Geld zu sparen. Mit den richtigen digitalen Tools maximieren Sie Ihre Vorteile und vermeiden teure Fehler. Entdecken Sie, wie Sie Ihr Fahrtenbuch clever führen und welche Lösungen Ihnen dabei helfen können!'
+seo:
+    title: "Digitales Fahrtenbuch führen: So einfach geht es | SeaTbale"
+    description: "Ein digitales Fahrtenbuch bringt viele Vorteile. Entdecken Sie, wie Sie Ihr Fahrtenbuch clever führen, ohne lästige Bürokratie."
 date: 2025-04-01
 url: '/de/fahrtenbuch'
 tags:

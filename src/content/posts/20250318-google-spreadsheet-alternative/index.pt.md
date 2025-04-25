@@ -41,7 +41,7 @@ O Google Sheets, por outro lado, oferece uma funcionalidade significativamente m
 
 ## Vantagens e desvantagens da folha de cálculo do Google
 
-Tanto os indivíduos como as organizações de todo o mundo utilizam o Google todos os dias para criar uma folha de cálculo. Algumas caraterísticas tornam-no uma opção atractiva para os utilizadores que procuram uma [alternativa ao Excel](https://seatable.com/excel-alternative/) que seja **flexível e baseada na nuvem**. Por outro lado, existem também alguns obstáculos que não deve subestimar. Em última análise, vale a pena analisar mais detalhadamente os prós e os contras.
+Tanto os indivíduos como as organizações de todo o mundo utilizam o Google todos os dias para criar uma folha de cálculo. Algumas caraterísticas tornam-no uma opção atractiva para os utilizadores que procuram uma [alternativa ao Excel]({{< relref "pages/excel-alternative" >}}) que seja **flexível e baseada na nuvem**. Por outro lado, existem também alguns obstáculos que não deve subestimar. Em última análise, vale a pena analisar mais detalhadamente os prós e os contras.
 
 ### Vantagens
 
@@ -69,7 +69,7 @@ No mundo das folhas de cálculo, o Google Sheets é, sem dúvida, um peso pesado
 
 É possível criar uma folha de cálculo com muitos programas - gratuitos e até fáceis de utilizar. Há uma estrela brilhante no firmamento das folhas de cálculo que não precisa de se furtar à comparação com o Google Sheets e outras ferramentas: **SeaTable**. Esta ferramenta vai muito além das funções das folhas de cálculo convencionais. Se o Google Sheets tem uma boa pontuação, o SeaTable mostra que tem ainda mais para oferecer. **Combina a facilidade de utilização e a flexibilidade das folhas de cálculo com todas as vantagens de uma base de dados sem código**, o que faz dela a solução perfeita para as equipas modernas.
 
-O SeaTable destaca-se como uma [plataforma sem código](https://seatable.com/) e criador de aplicações. Permite não só criar e gerir tabelas, mas também construir **aplicações personalizadas adaptadas às suas necessidades**. Esta possibilidade abre formas completamente novas de gestão de dados e otimização de processos que as folhas de cálculo do Google não podem oferecer nesta forma.
+O SeaTable destaca-se como uma [plataforma sem código]({{< relref "/" >}}) e criador de aplicações. Permite não só criar e gerir tabelas, mas também construir **aplicações personalizadas adaptadas às suas necessidades**. Esta possibilidade abre formas completamente novas de gestão de dados e otimização de processos que as folhas de cálculo do Google não podem oferecer nesta forma.
 
 As vantagens do SeaTable são claras: é flexível, potente e permite uma **colaboração transparente** - tudo numa plataforma única e intuitiva. Por isso, se procura uma solução que pode fazer mais do que as folhas de cálculo tradicionais e satisfazer as suas necessidades individuais, o SeaTable é a escolha ideal.
 

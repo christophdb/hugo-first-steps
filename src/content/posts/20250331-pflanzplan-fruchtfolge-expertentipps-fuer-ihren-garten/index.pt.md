@@ -92,7 +92,7 @@ A rotação de culturas também pode ser implementada em jardineiras em varandas
 
 ## Suporte digital: Criar um plano de plantação com o SeaTable
 
-Se todos os anos escrever à mão o que foi plantado e onde, pode perder rapidamente o rasto. É exatamente aqui que a [plataforma sem código](https://seatable.com/) SeaTable o pode ajudar - uma solução digital que lhe permite gerir os seus planos de plantação de forma clara e optimizá-los a longo prazo. Em vez de se debater com notas caóticas ou folhas de cálculo Excel, pode registar **beterrabas, espécies vegetais e rotações de culturas de forma estruturada e adaptá-las de forma flexível**.
+Se todos os anos escrever à mão o que foi plantado e onde, pode perder rapidamente o rasto. É exatamente aqui que a [plataforma sem código]({{< relref "/" >}}) SeaTable o pode ajudar - uma solução digital que lhe permite gerir os seus planos de plantação de forma clara e optimizá-los a longo prazo. Em vez de se debater com notas caóticas ou folhas de cálculo Excel, pode registar **beterrabas, espécies vegetais e rotações de culturas de forma estruturada e adaptá-las de forma flexível**.
 
 O plano de plantação no SeaTable está estruturado de forma a que cada linha de canteiros tenha a sua própria linha e as plantas para os próximos anos sejam registadas em colunas separadas. Isto significa que pode sempre ver qual a cultura que está atualmente a crescer e o que deverá seguir-se no próximo ano. A codificação por cores pode ajudá-lo a diferenciar rapidamente as categorias de plantas fortes, médias, fracas e melhoradoras do solo. Também pode acrescentar notas adicionais - por exemplo, sobre o rendimento das culturas, as condições climatéricas ou a infestação de pragas.  
 

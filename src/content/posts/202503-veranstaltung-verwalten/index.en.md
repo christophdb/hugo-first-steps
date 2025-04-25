@@ -78,7 +78,7 @@ The software offers a wide range of features from data management and registrati
 
 ### SeaTable
 
-[SeaTable](https://seatable.com/), founded in Germany in 2020, is an innovative no-code database with an integrated app builder. This tool offers you flexible data management and versatile collaboration options - not only for managing events, but for numerous areas of application. Thanks to the user-friendly interface, you can create your own data management system and individual apps in no time at all.
+[SeaTable]({{< relref "/" >}}), founded in Germany in 2020, is an innovative no-code database with an integrated app builder. This tool offers you flexible data management and versatile collaboration options - not only for managing events, but for numerous areas of application. Thanks to the user-friendly interface, you can create your own data management system and individual apps in no time at all.
 
 SeaTable is particularly helpful for your events: Planning an event becomes a breeze with SeaTable's template. For example, you can keep track of your expenses, generate invoices and manage your attendee list online - free of charge and without any prior technical knowledge.
 

@@ -1,6 +1,9 @@
 ---
 title: 'Wie Sie einen effektiven Projektstrukturplan erstellen – Vorlage und Tipps'
 description: 'Ein Projektstrukturplan ist eine effiziente Methode, um komplexe Projekte übersichtlich darzustellen und zu strukturieren. Wann Sie eine Projektstrukturplan Vorlage erstellen sollten, wie Sie dabei vorgehen können und welche Tools Sie dabei unterstützen, erfahren Sie hier.'
+seo:
+    title: "Projektstrukturplan erstellen | Tools und Vorlagen | SeaTable"
+    description: "Nie wieder im Projektchaos versinken! Entdecken Sie die Vorteile eines gut durchdachten Projektstrukturplans und wie Sie diesen erstellen"
 date: 2025-03-17
 categories:
     - 'Best Practice'
@@ -94,7 +97,7 @@ Tun Sie sich also einen Gefallen und nutzen Sie passende Software für Ihren Pro
 
 Soll es eine Mindmap werden, ist **Miro** der führende Anbieter. Es gibt aber auch ein Dutzend andere Tools, wie beispielsweise **MindManager**, mit denen Sie vergleichbare Ergebnisse erzielen.
 
-Wenn Sie eine leicht abzuarbeitende Liste an Aufgaben und mehr Struktur als in einer Mindmap benötigen, ist [SeaTable](https://seatable.com/) genau das Richtige für Sie. Mit dieser Projektmanagement- und Kollaborationsplattform können Sie die Arbeitspakete einfach Verantwortlichen und Teilprojekten zuordnen.
+Wenn Sie eine leicht abzuarbeitende Liste an Aufgaben und mehr Struktur als in einer Mindmap benötigen, ist [SeaTable]({{< relref "/" >}}) genau das Richtige für Sie. Mit dieser Projektmanagement- und Kollaborationsplattform können Sie die Arbeitspakete einfach Verantwortlichen und Teilprojekten zuordnen.
 
 ## Vorteile der Projektstrukturplan Vorlage von SeaTable
 

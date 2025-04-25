@@ -128,7 +128,7 @@ Además de estas cuatro categorías, también existen plataformas low-code más 
 
 ## SeaTable: Base de datos sin código con app builder integrado, scripts y automatizaciones.
 
-En SeaTable, puede configurar procesos y aplicaciones cómodamente a través de una interfaz gráfica de usuario en el navegador. Gracias a los elementos visuales, no se necesita ni una sola línea de código, lo que convierte a SeaTable en una [solución sin código](https://seatable.com/es/). Sin embargo, SeaTable también permite la ejecución de scripts JavaScript y Python programados manualmente. Esta opción está más en consonancia con el enfoque de bajo código, lo que significa que SeaTable también podría describirse como una plataforma de desarrollo de bajo código.
+En SeaTable, puede configurar procesos y aplicaciones cómodamente a través de una interfaz gráfica de usuario en el navegador. Gracias a los elementos visuales, no se necesita ni una sola línea de código, lo que convierte a SeaTable en una [solución sin código]({{< relref "/" >}}). Sin embargo, SeaTable también permite la ejecución de scripts JavaScript y Python programados manualmente. Esta opción está más en consonancia con el enfoque de bajo código, lo que significa que SeaTable también podría describirse como una plataforma de desarrollo de bajo código.
 
 La clasificación en una categoría tampoco está clara: por un lado, SeaTable es una **base de datos sin código** en la que se puede almacenar, organizar y visualizar casi cualquier tipo de información. Entre otras cosas, tiene a su disposición 25 tipos de columnas diferentes, plugins como galería, Kanban, mapa o calendario, vistas con funciones de filtro, clasificación y agrupación, así como estadísticas y formularios web.
 

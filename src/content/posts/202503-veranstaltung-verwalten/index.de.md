@@ -1,6 +1,9 @@
 ---
 title: '10 Tipps, die Sie kennen sollten, bevor Sie Ihre Veranstaltungen verwalten'
 description: 'Die perfekte Veranstaltung zu planen klingt nach Stress? Muss es nicht! Mit den richtigen Tools und einer klaren Checkliste wird aus komplexer Planung ein einfacher Ablauf. Lesen Sie, wie Sie selbst große Events professionell managen und worauf es wirklich ankommt.'
+seo:
+    title: "Veranstaltung verwalten | 10 Tipps für Ihren Erfolg | SeaTable"
+    description: "Lesen Sie, wie selbst große Veranstaltungen professionell verwaltet werden können und wie Tools Sie bei komplexen Planungen unterstützen"
 date: 2025-03-23
 url: '/de/veranstaltung-verwalten'
 tags: 
@@ -78,7 +81,7 @@ Die Software bietet eine breite Palette an Funktionen von Datenmanagement und Re
 
 ### SeaTable
 
-[SeaTable](https://seatable.com/), gegründet 2020 in Deutschland, ist eine innovative No-Code-Datenbank mit integriertem App-Builder. Dieses Tool bietet Ihnen flexibles Datenmanagement und vielseitige Kollaborationsmöglichkeiten – nicht nur um Veranstaltungen zu verwalten, sondern für zahlreiche Anwendungsbereiche. Dank der benutzerfreundlichen Oberfläche können Sie im Handumdrehen Ihr eigenes Datenmanagement-System und individuelle Apps erstellen.
+[SeaTable]({{< relref "/" >}}), gegründet 2020 in Deutschland, ist eine innovative No-Code-Datenbank mit integriertem App-Builder. Dieses Tool bietet Ihnen flexibles Datenmanagement und vielseitige Kollaborationsmöglichkeiten – nicht nur um Veranstaltungen zu verwalten, sondern für zahlreiche Anwendungsbereiche. Dank der benutzerfreundlichen Oberfläche können Sie im Handumdrehen Ihr eigenes Datenmanagement-System und individuelle Apps erstellen.
 
 Besonders hilfreich ist SeaTable für Ihre Veranstaltungen: Eine Veranstaltung zu planen wird mit der Vorlage von SeaTable zum Kinderspiel. Beispielsweise können Sie Ihre Ausgaben im Auge behalten, Rechnungen erzeugen und Ihre Teilnehmerliste online verwalten – kostenlos und ohne technische Vorkenntnisse.
 

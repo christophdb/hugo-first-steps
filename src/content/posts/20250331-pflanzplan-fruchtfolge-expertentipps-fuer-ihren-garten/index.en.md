@@ -92,7 +92,7 @@ Crop rotation can also be implemented in planters on balconies, for example. The
 
 ## Digital support: Create a planting plan with SeaTable
 
-If you write down by hand every year what has been planted where, you can quickly lose track. This is exactly where the [no-code platform](https://seatable.com/) SeaTable can help you - a digital solution that allows you to manage your planting plans clearly and optimize them in the long term. Instead of struggling with chaotic notes or Excel spreadsheets, you can record **beets, plant species and crop rotations in a structured way and adapt them flexibly**.
+If you write down by hand every year what has been planted where, you can quickly lose track. This is exactly where the [no-code platform]({{< relref "/" >}}) SeaTable can help you - a digital solution that allows you to manage your planting plans clearly and optimize them in the long term. Instead of struggling with chaotic notes or Excel spreadsheets, you can record **beets, plant species and crop rotations in a structured way and adapt them flexibly**.
 
 The planting plan in SeaTable is structured in such a way that each row of beds has its own row and the plants for the coming years are entered in separate columns. This means you can always see which crop is currently growing and what should follow next year. Color coding can help you to differentiate between the categories of strong growers, medium growers, weak growers and soil improvers at a glance. You can also add additional notes - for example on crop yields, weather conditions or pest infestation.  
 

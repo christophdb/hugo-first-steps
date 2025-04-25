@@ -145,7 +145,7 @@ Mit nur einem Klick erstellen Sie für jeden neuen Mitarbeiter eine intuitive Ch
 In der [kostenlosen Vorlage](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) von SeaTable können Sie alle Aufgaben und Informationen an einem Ort bündeln. Indem Sie jedem To-do klare Zuständigkeiten sowie einen Zeithorizont und einen Status zuweisen, können Sie den Fortschritt der Einarbeitung übersichtlich visualisieren und live verfolgen.
 
    
-Setzen Sie auf eine geeignete Software und sorgen Sie dafür, dass sich Ihre neuen Mitarbeiter direkt willkommen fühlen und schnell in Ihrem Unternehmen einleben. Um die [No-Code-Plattform SeaTable](https://seatable.com/) zu verwenden, müssen Sie sich lediglich kostenlos registrieren. Sie können anschließend die Vorlage zu Ihrer Base hinzufügen und mit Ihren eigenen Daten ergänzen.
+Setzen Sie auf eine geeignete Software und sorgen Sie dafür, dass sich Ihre neuen Mitarbeiter direkt willkommen fühlen und schnell in Ihrem Unternehmen einleben. Um die [No-Code-Plattform SeaTable]({{< relref "/" >}}) zu verwenden, müssen Sie sich lediglich kostenlos registrieren. Sie können anschließend die Vorlage zu Ihrer Base hinzufügen und mit Ihren eigenen Daten ergänzen.
 
 [Jetzt SeaTable kostenlos testen]({{< relref "pages/registration" >}})
 

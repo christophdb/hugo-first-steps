@@ -37,7 +37,7 @@ Si vous souhaitez simplement avoir un aperçu rapide, consultez le tableau ci-de
 
 Dans cette comparaison, seules les applications locales supportant au moins deux familles de systèmes d'exploitation ont été prises en compte. C'est la raison pour laquelle Apple Numbers, qui est un simple tableur pour MacOS/iOS, n'y figure pas, pas plus que Gnumeric, qui est depuis 2014 une simple application pour Linux.
 
-Un acteur émergent parmi les tableurs est SeaTable, qui, en tant que [base de données No-Code et App-Builder](https://seatable.com/), présente une gamme de fonctions nettement plus étendue qu'Excel et d'autres solutions, ce qui relance la concurrence. Comme les autres solutions présentées dans cet article, la version gratuite de SeaTable est également gratuite, contrairement à Excel.
+Un acteur émergent parmi les tableurs est SeaTable, qui, en tant que [base de données No-Code et App-Builder]({{< relref "/" >}}), présente une gamme de fonctions nettement plus étendue qu'Excel et d'autres solutions, ce qui relance la concurrence. Comme les autres solutions présentées dans cet article, la version gratuite de SeaTable est également gratuite, contrairement à Excel.
 
 ### Classement des tableurs
 

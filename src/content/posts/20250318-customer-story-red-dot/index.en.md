@@ -18,7 +18,7 @@ Red Dot GmbH & Co. KG in Essen is an integral part of the international brand, p
 
 ![](Blog_reddot_I1.jpg)
 
-Before the introduction of SeaTable, the most important tool was a [desktop spreadsheet program](https://seatable.com/excel-alternative/). This solution was outdated, especially when it came to data management. Collaboration within the team was a real challenge, as collaborative work was not possible. The existing process proved to be particularly problematic when organizing the award ceremony for the Red Dot Award: Product Design, a major international event. The lack of opportunities for collaborative working proved difficult for smooth organization and last-minute changes.
+Before the introduction of SeaTable, the most important tool was a [desktop spreadsheet program]({{< relref "pages/excel-alternative" >}}). This solution was outdated, especially when it came to data management. Collaboration within the team was a real challenge, as collaborative work was not possible. The existing process proved to be particularly problematic when organizing the award ceremony for the Red Dot Award: Product Design, a major international event. The lack of opportunities for collaborative working proved difficult for smooth organization and last-minute changes.
 
 ## SeaTable perfectly fulfills the requirements of
 

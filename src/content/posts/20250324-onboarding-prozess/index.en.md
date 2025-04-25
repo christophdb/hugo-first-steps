@@ -141,7 +141,7 @@ With just one click, you can create an intuitive checklist with all upcoming tas
 
 In the [free template](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) from SeaTable, you can bundle all tasks and information in one place. By assigning clear responsibilities as well as a time horizon and status to each to-do, you can clearly visualize the progress of the training and track it live.
 
-Rely on suitable software and ensure that your new employees feel immediately welcome and quickly settle into your company. To use the [no-code platform SeaTable](https://seatable.com/), all you need to do is register free of charge. You can then add the template to your base and complete it with your own data.
+Rely on suitable software and ensure that your new employees feel immediately welcome and quickly settle into your company. To use the [no-code platform SeaTable]({{< relref "/" >}}), all you need to do is register free of charge. You can then add the template to your base and complete it with your own data.
 
 [Try SeaTable now for free]({{< relref "pages/registration" >}})
 
