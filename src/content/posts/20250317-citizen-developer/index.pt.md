@@ -1,6 +1,9 @@
 ---
 title: "Citizen Developer - um fator de mudança na digitalização?"
 description: "As soluções de software personalizadas para os seus processos específicos são escassas? Então, desenvolva as suas próprias soluções! Descubra neste artigo como pode utilizar as competências dos seus departamentos especializados e criar processos digitais eficientes, envolvendo cidadãos programadores no processo de desenvolvimento."
+seo:
+    title: "Citizen Developer - Um fator de mudança na digitalização"
+    description: "Desenvolva as suas próprias soluções de software com Citizen Developers! Este artigo mostra-lhe como utilizar os conhecimentos dos seus departamentos especializados"
 date: 2025-03-17
 categories: 
   - "No Code / Low Code"

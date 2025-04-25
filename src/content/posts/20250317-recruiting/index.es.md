@@ -1,6 +1,9 @@
 ---
 title: "Reclutamiento compacto: cómo encontrar y convencer al talento"
 description: "Un proceso de contratación satisfactorio determina si las empresas se mantienen preparadas para el futuro o se quedan rezagadas frente a la competencia. Descubra qué estrategias y métodos llevarán su contratación al siguiente nivel y cómo puede mantenerse a la cabeza en un mercado laboral competitivo."
+seo:
+    title: "Contratación: consejos y estrategias para encontrar a las personas adecuadas"
+    description: "El futuro de la contratación: conozca las nuevas tecnologías y las formas innovadoras de encontrar y retener a los mejores candidatos"."
 date: 2025-03-17
 categories: 
   - "General"

@@ -1,6 +1,9 @@
 ---
 title: 'Recruiting compact: How to find and convince talent'
 description: 'A successful recruiting process determines whether companies remain fit for the future or fall behind the competition. Find out which strategies and methods will take your recruiting to the next level and how you can stay ahead in a competitive job market.'
+seo:
+    title: "Recruiting: Tips & strategies for the search for personnel"
+    description: "The future of recruiting: Learn about new technologies and innovative ways to find and retain top candidates"
 date: 2025-03-17
 categories:
     - 'Best Practice'

@@ -1,6 +1,9 @@
 ---
 title: 'The importance of data management for digitization in companies'
 description: 'Companies need data to make strategic and operational decisions. But how can you set up modern, efficient data management that really deserves the name? Read on to find out what data management is all about and what different database systems are available.'
+seo:
+    title: "Data management for digitisation in companies"
+    description: "Find out in our blog post what data management is all about and what different database systems are available."
 date: 2025-03-17
 categories:
     - 'General'

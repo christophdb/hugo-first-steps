@@ -1,6 +1,9 @@
 ---
 title: "Desarrollador ciudadano: ¿un cambio en la digitalización?"
 description: "¿Le faltan soluciones de software a medida para sus procesos específicos? Entonces, ¿por qué no desarrollar sus propias soluciones? Descubra en este artículo cómo puede aprovechar la experiencia de sus departamentos especializados y establecer procesos digitales eficientes implicando a desarrolladores ciudadanos en el proceso de desarrollo."
+seo:
+    title: "Citizen Developer - Cambiador de juego en la digitalización"
+    description: "Desarrolle sus propias soluciones de software con Citizen Developer. Este artículo le muestra cómo utilizar la experiencia de sus departamentos especializados"
 date: 2025-03-17
 categories: 
   - "No Code / Low Code"
