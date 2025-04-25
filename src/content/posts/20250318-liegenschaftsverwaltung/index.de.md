@@ -1,6 +1,9 @@
 ---
 title: 'Liegenschaftsverwaltung: Wie Sie Liegenschaften digital managen'
 description: 'Liegenschaftsverwaltung bedeutet, vielfältige Aufgaben effizient zu koordinieren und gleichzeitig den Überblick zu behalten. Die Digitalisierung bietet hier wertvolle Unterstützung, um Prozesse zu optimieren und Daten strukturiert zu verwalten. Erfahren Sie, wie Sie Ihre Liegenschaften zukunftssicher und effizient managen.'
+seo:
+    title: "Liegenschaftsverwaltung: Liegenschaften digital managen"
+    description: "Vereinfachen Sie die Organisation Ihrer Immobilien! Unser Blog liefert Ihnen Einblicke für eine erfolgreiche Liegenschaftsverwaltung"
 date: 2025-03-18
 categories:
     - 'Allgemein'
