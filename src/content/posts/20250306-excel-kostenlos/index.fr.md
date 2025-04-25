@@ -2,7 +2,7 @@
 title: 'Excel gratuit ? Tableur : comparaison des programmes'
 description: "Vous avez besoin d'un tableur puissant, mais vous n'êtes pas à l'aise avec Excel ? Ou vous avez des doutes sur la protection des données par rapport au géant américain Microsoft ? Pas de problème ! Il existe suffisamment de programmes qui, contrairement à Excel, sont gratuits ou offrent même plus de fonctions. Plongez dans le monde des solutions de tableur!"
 seo:
-    title: "Excel gratuit | Tableur | Comparaison des outils".
+    title: "Excel gratuit | Tableur | Comparaison des outils"
     description: "Vous voulez utiliser Excel gratuitement ? Découvrez des alternatives Excel intelligentes dans notre article de blog. Un tableur efficace"
 date: 2025-03-06
 categories:

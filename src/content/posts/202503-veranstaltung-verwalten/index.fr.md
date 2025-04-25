@@ -2,7 +2,7 @@
 title: "10 conseils à connaître avant de gérer vos événements"
 description: "Organiser l'événement parfait peut sembler stressant ? Pas du tout ! Avec les bons outils et une liste de contrôle claire, la planification complexe devient un processus simple. Lisez comment gérer de manière professionnelle même les grands événements et ce qui est vraiment important."
 seo:
-    title: "Vgérer un événement | 10 conseils pour réussir | SeaTable".
+    title: "Vgérer un événement | 10 conseils pour réussir | SeaTable"
     description: "Découvrez comment gérer de manière professionnelle même les événements les plus importants et comment les outils peuvent vous aider à planifier des événements complexes."
 date: 2025-03-23
 url: '/fr/veranstaltung-verwalten'

@@ -2,7 +2,7 @@
 title: 'Rapide, facile et gratuit : Comment créer sa propre app sans code'
 description: Développer sa propre application ne doit pas être coûteux ni compliqué. Grâce à des outils no-code modernes, vous pouvez concrétiser vos idées rapidement et facilement - sans aucune connaissance en programmation. Dans cet article, vous découvrirez quels outils sont particulièrement adaptés et comment vous pouvez créer vous-même votre app en quelques étapes.'
 seo:
-    title: "Créer une application : Solution no code sans connaissances en programmation".
+    title: 'Créer une application : Solution no code sans connaissances en programmation'
     description: "Créer ses propres apps, c'est facile ! Découvre des moyens simples de développer des applications individuelles sans connaissances en programmation."
 date: 2025-03-18
 categories:
