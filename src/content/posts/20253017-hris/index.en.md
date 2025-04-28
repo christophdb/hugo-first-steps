@@ -1,6 +1,9 @@
 ---
 title: 'HRIS - what it is and how it benefits your company'
 description: 'Efficient personnel management is practically impossible these days without an HRIS (Human Resources Information System) - at least if your company has reached a certain size. In this article, we take a look at the difference between a human resources information system (HRIS) and a human resources management system (HRMS) and discuss how you can make your HR management more efficient with software that includes an HR database.'
+seo:
+    title: "HRIS - what it is and how it benefits your organisation"
+    description: "In this article we show the difference between a human resources information system (HRIS) and a human resources management system (HRMS)"
 date: 2025-03-17
 categories:
     - 'General'

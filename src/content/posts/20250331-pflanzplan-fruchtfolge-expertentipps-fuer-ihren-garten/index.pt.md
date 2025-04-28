@@ -1,6 +1,9 @@
 ---
 title: "Plano de plantação e rotação de culturas: dicas de especialistas para o seu jardim"
 description: "Uma horta bem sucedida começa com um planeamento bem pensado. Com a rotação correta das culturas, o solo permanece fértil, as pragas têm mais dificuldade e a colheita é mais rica. Este artigo mostra-lhe como criar um plano de plantação para legumes, canteiros elevados e canteiros de plantas perenes."
+seo:
+    title: "Plano de plantação e rotação de culturas: dicas de especialistas para o seu jardim"
+    description: "Este artigo mostra-lhe como criar um plano de plantação de legumes, canteiros elevados e canteiros de plantas perenes para uma boa colheita a longo prazo"
 date: 2025-03-31
 categories: 
   - "Informações gerais"

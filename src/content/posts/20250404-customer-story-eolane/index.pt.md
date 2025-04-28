@@ -1,6 +1,9 @@
 ---
 title: "Digitalização bem sucedida da gestão de encomendas com o SeaTable - um caso de utilização da éolane"
 description: "O fabricante francês de eletrónica éolane estava à procura de uma solução compatível com o RGPD para a sua gestão de encomendas cada vez mais complexa. Encontraram o SeaTable."
+seo:
+    title: "História de um cliente éolane: Digitalização da gestão de encomendas"
+    description: "O fabricante francês de produtos electrónicos éolane procurava uma solução compatível com o RGPD para o seu sistema de gestão de encomendas cada vez mais complexo"
 date: 2025-04-04
 categories: 
   - "Caso de sucesso"
