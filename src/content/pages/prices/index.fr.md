@@ -152,6 +152,6 @@ Si les limites ou fonctionnalités de l'abonnement Free sont insuffisantes, vous
           a: "C'est notre priorité absolue. Vos données sont traitées exclusivement dans des centres de données allemands sous surveillance constante. Plus de détails dans [Confidentialité]({{< relref \"pages/legal/data-privacy\" >}}) et [Sécurité]({{< relref \"pages/legal/security\" >}})."
 
         - q: "Comment supprimer mon compte ?"
-          a: "L'administrateur peut supprimer des utilisateurs ou des équipes via la [gestion](http://https.//account.seatable.io). Le seul membre d'une équipe en est l'administrateur.<br><br>Nous regrettons votre départ. [Partagez-nous vos raisons]({{< relref \"pages/contact\" >}}).<br><br>Les [Conditions d'utilisation]({{< relref \"pages/legal/terms-of-service\" >}}) détaillent le traitement des données après suppression."
+          a: "L'administrateur peut supprimer des utilisateurs ou des équipes via la [gestion](https://account.seatable.io). Le seul membre d'une équipe en est l'administrateur.<br><br>Nous regrettons votre départ. [Partagez-nous vos raisons]({{< relref \"pages/contact\" >}}).<br><br>Les [Conditions d'utilisation]({{< relref \"pages/legal/terms-of-service\" >}}) détaillent le traitement des données après suppression."
 
 ---
