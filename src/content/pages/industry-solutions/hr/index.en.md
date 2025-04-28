@@ -50,13 +50,13 @@ sections:
       items:
           - text: Time tracking
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt:
+            alt: Time tracking
           - text: Employee onboarding
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt:
+            alt: Employee onboarding
           - text: Personnel recruitment
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt:
+            alt: Personnel recruitment
       buttons:
           - label: 'Discover more HR templates'
             link: 'https://seatable.io/vorlagen/?lang=auto'
