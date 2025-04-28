@@ -1,6 +1,9 @@
 ---
 title: "Planificar con éxito las vacaciones de acuerdo con la Ley Federal de Vacaciones: consejos para los responsables de RRHH"
 description: "¿Caos en el calendario? Si demasiados empleados se ausentan al mismo tiempo, las cosas se ponen críticas rápidamente. Con estrategias inteligentes y herramientas digitales, puede asegurarse de que las solicitudes de vacaciones se cumplan sin interrumpir las operaciones. Descubra cómo una planificación inteligente de las vacaciones hace felices a todos."
+seo:
+    title: "Planificación de las vacaciones de los empleados: consejos para los responsables de RRHH"
+    description: "Planificación eficaz de las vacaciones en equipo: cómo coordinar de forma óptima las ausencias de los empleados y evitar cuellos de botella Consejos y plantillas"
 date: 2025-03-24
 categories: 
   - "General"

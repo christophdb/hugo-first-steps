@@ -1,6 +1,9 @@
 ---
 title: 'Como utilizar os seus dados com um armazém de dados'
 description: 'Data warehouse, base de dados, data lake: estes termos podem ser confusos - afinal, todos eles se referem a um sistema que armazena dados. O artigo a seguir esclarece o assunto e explica as vantagens de um data warehouse e como funciona o armazenamento de dados.'
+seo:
+    title: "Data warehouse: as vantagens para a sua empresa em resumo"
+    description: "Descubra as técnicas básicas e avançadas de armazenamento de dados. Saiba como armazenar dados de forma eficaz"
 date: 2025-03-26
 categories:
     - 'Informações gerais'

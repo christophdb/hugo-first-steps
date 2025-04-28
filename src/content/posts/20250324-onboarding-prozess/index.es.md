@@ -1,6 +1,9 @@
 ---
 title: 'La guía definitiva para una incorporación exitosa'
 description: 'Una incorporación bien pensada es la clave para que los nuevos empleados empiecen con buen pie. Con procesos claramente definidos, puede asegurarse de que los nuevos miembros del equipo se adapten rápidamente y sean productivos. En este artículo aprenderá a crear y aplicar con éxito un concepto estructurado de incorporación.'
+seo:
+    title: "Onboarding process: Acogida con éxito de los empleados"
+    description: "En este artículo aprenderá a crear y aplicar con éxito un concepto estructurado de incorporación para los nuevos empleados"
 date: 2025-03-24
 categories:
     - 'General'

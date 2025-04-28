@@ -1,6 +1,9 @@
 ---
 title: 'Le guide ultime pour un onboarding réussi'
 description: "Un onboarding bien pensé est la clé d'un démarrage réussi pour les nouveaux collaborateurs. Grâce à des processus clairement définis, vous veillez à ce que les nouveaux membres de l'équipe trouvent rapidement leurs marques et deviennent productifs. Dans cet article, vous apprendrez comment élaborer un concept d'onboarding structuré et le mettre en œuvre avec succès."
+seo:
+    title: "Processus d'onboarding : réussir l'intégration des collaborateurs"
+    description: "Dans cet article, vous apprendrez comment créer et mettre en œuvre avec succès un concept structuré d'onboarding pour les nouveaux collaborateurs"
 date: 2025-03-24
 categories:
     - 'Général'

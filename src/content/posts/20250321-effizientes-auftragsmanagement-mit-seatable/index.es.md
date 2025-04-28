@@ -1,6 +1,9 @@
 ---
 title: 'Empresa de instalaciones de construcción desarrolla una gestión de pedidos eficiente con SeaTable'
 description: 'Una empresa china del sector de las instalaciones de construcción ha reorganizado su gestión de pedidos con SeaTable y ha avanzado con éxito en su transformación digital. El resultado es un sistema de gestión moderno y altamente eficiente con una app universal.'
+seo:
+    title: "Customer Story Empresa china de instalaciones de construcción | SeaTable"
+    description: "Conozca cómo SeaTable reorganizó la gestión de pedidos e inició la transformación digital en una empresa de instalaciones de construcción"
 date: 2025-03-21
 categorías:
     - 'General'

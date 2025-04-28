@@ -1,6 +1,9 @@
 ---
 title: 'The ultimate guide to successful onboarding'
 description: 'Well thought-out onboarding is the key to a successful start for new employees. With clearly defined processes, you can ensure that new team members quickly find their feet and become productive. In this article, you will learn how to create and successfully implement a structured onboarding concept.'
+seo:
+    title: "Onboarding process: Successful employee induction"
+    description: "In this article you will learn how to create and successfully implement a structured onboarding concept for new employees"
 date: 2025-03-24
 categories:
     - 'General'

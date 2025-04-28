@@ -1,6 +1,9 @@
 ---
 title: 'Créer une feuille de route : Comment visualiser clairement votre prochain projet'
 description: "Une feuille de route bien structurée est plus qu'un simple calendrier - elle montre le chemin vers vos objectifs de manière claire et compréhensible. Qu'il s'agisse de développement de stratégie, de gestion de projet ou de contrôle des progrès, une feuille de route vous permet de garder à tout moment une vue d'ensemble. Découvrez ici comment créer une feuille de route et économiser du temps et des ressources avec le bon modèle."
+seo:
+    title: "Créer une feuille de route : visualiser le projet de manière claire"
+    description: "Dans cet article de blog, vous apprendrez à créer une feuille de route et à gagner du temps et des ressources en utilisant le bon modèle"
 date: 2025-03-24
 categories:
     - 'Général'

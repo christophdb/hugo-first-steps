@@ -1,6 +1,9 @@
 ---
 title: 'Cloudvox SRL: Cómo SeaTable hace accesibles datos complejos'
 description: "Antes de introducir SeaTable, la empresa de TI Cloudvox SRL utilizaba Excel y otros sistemas. Se dio cuenta de que le faltaba un punto central para la recopilación de datos, un lugar donde los datos no sólo pudieran almacenarse, sino también ponerse a disposición de otros y, al mismo tiempo, servir como backend para sus propias herramientas."
+seo:
+    title: "Customer Story Cloudvox SRL: datos complejos"
+    description: "Descubra cómo SeaTable Cloudvox SRL permitió centralizar el almacenamiento de datos y acelerar el trabajo en colaboración."
 date: 2025-03-21
 categories:
     - 'General'

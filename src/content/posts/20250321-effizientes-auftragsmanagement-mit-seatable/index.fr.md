@@ -1,6 +1,9 @@
 ---
 title: "Une entreprise d'installation de construction développe une gestion efficace des commandes avec SeaTable"
 description: "Une entreprise chinoise du secteur de l'installation de bâtiments a utilisé SeaTable pour revoir la gestion de ses commandes et a ainsi réussi sa transformation numérique. Il en résulte un système de gestion moderne et très efficace avec une application universelle."
+seo:
+    title: "Témoignage d'une entreprise chinoise d'installations de construction | SeaTable"
+    description: "Découvrez comment SeaTable a permis à une entreprise d'installation de construction de revoir la gestion de ses commandes et d'entamer sa transformation numérique"
 date: 2025-03-21
 categories:
     - 'Général'

@@ -1,6 +1,9 @@
 ---
 title: 'Crear una hoja de ruta: Cómo visualizar claramente tu próximo proyecto'
 description: 'Una hoja de ruta bien estructurada es algo más que un calendario: muestra el camino hacia tus objetivos de forma clara y comprensible. Ya se trate del desarrollo de estrategias, la gestión de proyectos o el seguimiento de los avances: con una hoja de ruta siempre tendrá una visión de conjunto. Aquí descubrirá cómo crear una hoja de ruta y ahorrar tiempo y recursos con la plantilla adecuada.'
+seo:
+    title: "Cree una hoja de ruta: Visualice su proyecto con claridad"
+    description: "En este artículo, aprenderá a crear una hoja de ruta y ahorrar tiempo y recursos con la plantilla adecuada"
 date: 2025-03-24
 categories:
     - 'General'

@@ -1,6 +1,9 @@
 ---
 title: 'Criar um roteiro: Como visualizar claramente o seu próximo projeto'
 description: 'Um roteiro bem estruturado é mais do que um simples calendário - mostra o caminho para os seus objectivos de forma clara e compreensível. Quer se trate de desenvolvimento de estratégias, gestão de projectos ou monitorização de progressos: um roteiro permite-lhe manter uma visão geral em qualquer altura. Aqui pode descobrir como criar um roteiro e poupar tempo e recursos com o modelo certo.'
+seo:
+    title: "Criar um roteiro: Visualize claramente o seu projeto"
+    description: "Neste artigo do blogue, ficará a saber como criar um roteiro e poupar tempo e recursos com o modelo certo"
 date: 2025-03-24
 categories:
     - 'Melhores práticas'

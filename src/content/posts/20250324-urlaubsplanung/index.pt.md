@@ -1,6 +1,9 @@
 ---
 title: "Planeamento bem sucedido das férias de acordo com a Lei Federal das Férias: dicas para os gestores de RH"
 description: "Caos no calendário? Se demasiados empregados estiverem ausentes ao mesmo tempo, as coisas tornam-se rapidamente críticas. Com estratégias inteligentes e ferramentas digitais, pode garantir que os pedidos de férias são satisfeitos sem perturbar as operações. Descubra como o planeamento inteligente das férias faz com que todos fiquem felizes."
+seo:
+    title: "Planeamento das férias dos trabalhadores: dicas para os gestores de RH"
+    description: "Planeamento eficiente das férias em equipa: como coordenar da melhor forma as ausências dos trabalhadores e evitar estrangulamentos Dicas e modelos"
 date: 2025-03-24
 categories: 
   - "Informações gerais"
