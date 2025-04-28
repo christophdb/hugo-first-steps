@@ -73,13 +73,13 @@ sections:
     alt: "Kanban"
     image: "/images/kanban-plugin.png"
   - text: "Cronología"
-    alt: ""
+    alt: "Cronología"
     image: "/images/timeline-plugin.png"
   - text: "Calendario"
-    alt: ""
+    alt: "Calendario"
     image: "/images/calendar-plugin.png"
   - text: "Relaciones entre tablas"
-    alt: ""
+    alt: "Relaciones entre tablas"
     image: "/images/table-relationship-plugin.png"
 
 - name: "customer-1"
@@ -152,11 +152,11 @@ sections:
   - headline: Plan de acción
     text: Proyectos
     image: /images/template-massnahmenplan.jpg
-    image_alt: 
+    image_alt: Proyectos
   - headline: Plan editorial
     text: Marketing
     image: "/images/galerie-plugin.png"
-    image_alt: 
+    image_alt: Marketing
   buttons:
     - label: "Encuentra más plantillas para tu área de aplicación"
       link: "https://seatable.io/vorlagen/?lang=auto"
