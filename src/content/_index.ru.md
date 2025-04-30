@@ -13,8 +13,10 @@ sections:
           - label: Начните прямо сейчас
             link: 'pages/registration'
             style: 'primary'
+            id: ru-homepage-registration-hero-1
           - label: Познакомьтесь с функциями
             link: 'pages/functions'
+            id: ru-homepage-functions-hero-1
       image: '/images/projektmanagement-mit-seatable.gif'
 
     - name: content-4
@@ -25,6 +27,7 @@ sections:
       buttons:
           - label: 'Попробуйте сейчас'
             link: 'pages/registration'
+            id: ru-homepage-registration-content-4
       gridheadline: "No-Code <span class='gradient'>решение</span> для ..."
       items:
           - icon: 'chart-simple'
@@ -97,6 +100,7 @@ sections:
       buttons:
           - link: 'categories/Истории-клиентов/'
             label: 'Читать другие истории успеха'
+            id: ru-homepage-customer-1
 
     - name: content-1
       weight: 5
@@ -161,6 +165,7 @@ sections:
           - label: 'Найти больше шаблонов для вашей сферы'
             link: 'https://seatable.io/vorlagen/?lang=auto'
             style: not-yet-defined
+            id: ru-homepage-vorlagen-allgemein-content-3
 
     - name: content-5
       weight: 8
@@ -219,6 +224,7 @@ sections:
       buttons:
           - label: 'Подробнее об интеграциях'
             link: 'https://seatable.io/integrationen/?lang=auto'
+            id: ru-homepage-integrations-content-10
 
     - name: 'content-11'
       weight: 12
@@ -236,6 +242,7 @@ sections:
       buttons:
           - link: 'pages/registration'
             label: 'Зарегистрируйтесь и начните'
+            id: ru-homepage-registration-banner-2
 
     - name: 'faq'
       weight: 14
@@ -270,9 +277,11 @@ sections:
           - label: 'Подробнее о версиях'
             link: 'pages/product/overview'
             style: text
+            id: ru-homepage-product-content-6
           - label: 'Предложение SeaTable On-Premise'
             link: 'pages/product/seatable-server'
             style: text
+            id: ru-homepage-seatable-server-content-6
       image: '/img/seatable-security-1.jpg'
 
     - name: 'form-contact'

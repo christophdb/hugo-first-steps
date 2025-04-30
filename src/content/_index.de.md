@@ -13,8 +13,10 @@ sections:
     - label: Jetzt loslegen
       link: "pages/registration"
       style: "primary"
+      id: de-homepage-registration-hero-1
     - label: Funktionen kennenlernen
       link: "pages/functions"
+      id: de-homepage-functions-hero-1
   image: "/images/projektmanagement-mit-seatable.gif"
 
 - name: content-4
@@ -25,6 +27,7 @@ sections:
   buttons:
     - label: 'Jetzt ausprobieren'
       link: '/pages/registration'
+      id: de-homepage-registration-content-4
   gridheadline: "Die No-Code <span class='gradient'>Lösung</span> für ..."
   items:
       - icon: 'chart-simple'
@@ -92,6 +95,7 @@ sections:
   buttons:
     - link: "categories/customer-story"
       label: "Lesen Sie weitere Erfolgsgeschichten"
+      id: de-homepage-customer-1
 
 - name: content-1
   weight: 5
@@ -156,6 +160,7 @@ sections:
   buttons:
     - label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
       link: "https://seatable.io/vorlagen/?lang=auto"
+      id: de-homepage-vorlagen-allgemein-content-3
       # TODO
       style: not-yet-defined
 
@@ -217,6 +222,7 @@ sections:
   buttons:
     - label: "Mehr über Integrationen erfahren"
       link: "https://seatable.io/integrationen/?lang=auto"
+      id: de-homepage-integrations-content-10
 
 - name: "content-11"
   weight: 12
@@ -234,6 +240,7 @@ sections:
   buttons:
     - link: "pages/registration"
       label: "Jetzt registrieren und loslegen"
+      id: de-homepage-registration-banner-2
 
 - name: "faq"
   weight: 14
@@ -269,9 +276,11 @@ sections:
   - label: "Erfahren Sie mehr über die verschiedenen Versionen"
     link: "pages/product/overview"
     style: text
+    id: de-homepage-product-content-6
   - label: "Zum SeaTable On-Premise Angebot"
     link: "pages/product/seatable-server"
     style: text
+    id: de-homepage-seatable-server-content-6
   image: "/img/seatable-security-1.jpg"
 
 - name: "form-contact"
