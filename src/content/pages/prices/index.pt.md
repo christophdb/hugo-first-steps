@@ -146,5 +146,5 @@ sections:
             a: 'São nossa prioridade máxima. Seus dados são processados exclusivamente em data centers alemães com monitoramento contínuo. Mais detalhes em [Privacidade]({{< relref "pages/legal/data-privacy" >}}) e [Segurança]({{< relref "pages/legal/security" >}}).'
 
           - q: 'Como excluo minha conta?'
-            a: 'O administrador pode excluir usuários ou times inteiros pelo [gerenciamento](http://https.//account.seatable.io). Se for o único usuário, você é o administrador.<br><br>Lamentamos sua saída. [Compartilhe seus motivos]({{< relref "pages/contact" >}}).<br><br>Os [Termos de Serviço]({{< relref "pages/legal/terms-of-service" >}}) detalham o tratamento de dados após exclusão.'
+            a: 'O administrador pode excluir usuários ou times inteiros pelo [gerenciamento](https://account.seatable.io). Se for o único usuário, você é o administrador.<br><br>Lamentamos sua saída. [Compartilhe seus motivos]({{< relref "pages/contact" >}}).<br><br>Os [Termos de Serviço]({{< relref "pages/legal/terms-of-service" >}}) detalham o tratamento de dados após exclusão.'
 ---

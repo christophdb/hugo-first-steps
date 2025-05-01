@@ -50,13 +50,13 @@ sections:
       items:
           - text: Учет рабочего времени
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt:
+            alt: Учет рабочего времени
           - text: Адаптация сотрудников
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt:
+            alt: Адаптация сотрудников
           - text: Подбор персонала
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt:
+            alt: Подбор персонала
       buttons:
           - label: 'Откройте для себя другие HR-шаблоны'
             link: 'https://seatable.io/vorlagen/?lang=auto'

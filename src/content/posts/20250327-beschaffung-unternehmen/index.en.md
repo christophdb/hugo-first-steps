@@ -1,6 +1,9 @@
 ---
 title: "5 tips on how to optimize procurement in your company"
 description: "Procurement is at the heart of every successful corporate strategy, and optimizing it not only saves costs but also increases competitiveness. In this article, we show you the biggest success factors and challenges for successful procurement and give you 5 tips to help you optimize your procurement processes."
+seo:
+    title: "Procurement in the company: Strategically well positioned"
+    description: "Efficient procurement processes are the be-all and end-all for corporate success. Discover strategies for purchasing processes & supplier management"
 date: 2025-03-27
 categories: 
   - "Best Practice"

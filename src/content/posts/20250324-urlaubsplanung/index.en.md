@@ -1,6 +1,9 @@
 ---
 title: "Successful vacation planning in accordance with the Federal Vacation Act: tips for HR managers"
 description: "Chaos in the calendar? If too many employees are absent at the same time, things quickly become critical. With clever strategies and digital tools, you can ensure that vacation requests are fulfilled without disrupting operations. Find out how smart vacation planning makes everyone happy."
+seo:
+    title: "Holiday planning for employees: tips for HR managers"
+    description: "Efficient holiday planning in a team: How to optimally coordinate employee absences and avoid bottlenecks - tips and templates"
 date: 2025-03-24
 categories: 
   - "General"

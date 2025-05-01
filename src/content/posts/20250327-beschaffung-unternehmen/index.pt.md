@@ -1,6 +1,9 @@
 ---
 title: "5 dicas sobre como otimizar o aprovisionamento na sua empresa"
 description: "O aprovisionamento está no centro de qualquer estratégia empresarial bem sucedida e a sua otimização não só poupa custos como também aumenta a competitividade. Neste artigo, mostramos-lhe os maiores factores de sucesso e desafios para uma aquisição bem sucedida e damos-lhe 5 dicas para o ajudar a otimizar os seus processos de aquisição."
+seo:
+    title: "Compras na empresa: Estrategicamente bem posicionado"
+    description: "Processos de aquisição eficientes são a chave para o sucesso de uma empresa. Descubra estratégias para processos de compra e gestão de fornecedores"
 date: 2025-03-27
 categories: 
   - "Informações gerais"

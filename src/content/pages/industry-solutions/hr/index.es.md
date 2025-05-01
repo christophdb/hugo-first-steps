@@ -50,13 +50,13 @@ sections:
       items:
           - text: Control del tiempo
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt:
+            alt: Control del tiempo
           - text: Incorporación de empleados
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt:
+            alt: Incorporación de empleados
           - text: Reclutamiento de personal
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt:
+            alt: Reclutamiento de personal
       buttons:
           - label: 'Descubra más plantillas de RR. HH.'
             link: 'https://seatable.io/vorlagen/?lang=auto'

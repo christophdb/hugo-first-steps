@@ -1,6 +1,9 @@
 ---
 title: "Planting plan & crop rotation: expert tips for your garden"
 description: "A successful garden starts with well thought-out planning. With the right crop rotation, the soil remains fertile, pests have a harder time and the harvest is richer. This article shows you how to create a planting plan for vegetables, raised beds and perennial beds."
+seo:
+    title: "Planting plan and crop rotation: expert tips for your garden"
+    description: "This article shows you how to create a planting plan for vegetables, raised beds and perennial beds for a good long-term harvest"
 date: 2025-03-31
 categories: 
   - "General"

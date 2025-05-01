@@ -17,7 +17,7 @@ url: '/de/recruiting/'
 
 Recruiting ist längst kein einseitiger Prozess mehr, bei dem Unternehmen die Regeln diktieren. Die Machtverhältnisse am Arbeitsmarkt haben sich verschoben – und zwar deutlich. Laut einer aktuellen Studie des [Marktforschungsinstituts Bilendi](https://www.bilendi.de/) ist jeder Zweite überzeugt, sich seinen Job aussuchen zu können. Fachkräfte werden immer knapper, während Personalabteilungen verzweifelt versuchen, offene Stellen zu besetzen. Die Zeiten, in denen Bewerber sich um Jobs reißen mussten, sind in vielen Branchen vorbei.
 
-Heute sitzen Arbeitnehmer oft am längeren Hebel: Sie stellen Forderungen, erwarten attraktive Arbeitsbedingungen und suchen sich die Arbeitgeber aus, die ihren Vorstellungen am besten entsprechen. Für Personaler bedeutet das, dass sie beim Recruiting clever und aktiv vorgehen müssen, um im Rennen um die besten Köpfe nicht zu verlieren. Aber keine Sorge – in diesem Artikel erfahren Sie, worauf es beim Recruiting ankommt, weshalb Social Recruiting vielversprechend ist und welche Tools Ihnen beim [Bewerbermanagement](https://seatable.com/tag/bewerber-talentmanagement/) optimal helfen können.
+Heute sitzen Arbeitnehmer oft am längeren Hebel: Sie stellen Forderungen, erwarten attraktive Arbeitsbedingungen und suchen sich die Arbeitgeber aus, die ihren Vorstellungen am besten entsprechen. Für Personaler bedeutet das, dass sie beim Recruiting clever und aktiv vorgehen müssen, um im Rennen um die besten Köpfe nicht zu verlieren. Aber keine Sorge – in diesem Artikel erfahren Sie, worauf es beim Recruiting ankommt, weshalb Social Recruiting vielversprechend ist und welche Tools Ihnen beim Bewerbermanagement optimal helfen können.
 
 ![Recruiting beginnt mit einer durchdachten Strategie](Header-3.jpg)
 

@@ -1,6 +1,9 @@
 ---
 title: "Réussir la numérisation de la gestion des commandes avec SeaTable - un cas d'utilisation d'éolane"
 description: "Le fabricant français d'électronique éolane était à la recherche d'une solution conforme au RGPD pour gérer ses commandes de plus en plus complexes. Ils ont trouvé SeaTable"
+seo:
+    title: "Customer story éolane : Numérisation de la gestion des commandes"
+    description: "Le fabricant français d'électronique éolane était à la recherche d'une solution conforme au RGPD pour la gestion de ses commandes de plus en plus complexes"
 date: 2025-04-04
 categories: 
   - "Témoignage client"

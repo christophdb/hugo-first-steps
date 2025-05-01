@@ -1,6 +1,9 @@
 ---
 title: 'HRIS - o que é e como pode beneficiar a sua organização'
 description: 'Atualmente, é praticamente impossível uma gestão eficiente do pessoal sem um HRIS (Human Resources Information System) - pelo menos se a sua organização tiver atingido uma determinada dimensão. Neste artigo, analisamos a diferença entre um sistema de informação de recursos humanos (HRIS) e um sistema de gestão de recursos humanos (HRMS) e discutimos como pode tornar a sua gestão de RH mais eficiente com software que inclui uma base de dados de RH.'
+seo:
+    title: "HRIS - o que é e como beneficia a sua empresa"
+    description: "Neste artigo, mostramos a diferença entre um sistema de informação de recursos humanos (HRIS) e um sistema de gestão de recursos humanos (HRMS)"
 date: 2025-03-17
 categories:
     - 'Informações gerais'

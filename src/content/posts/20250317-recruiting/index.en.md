@@ -17,7 +17,7 @@ url: '/recruiting'
 
 Recruiting is no longer a one-sided process in which companies dictate the rules. The balance of power on the labor market has shifted - and significantly so. According to a recent study by the [market research institute Bilendi](https://www.bilendi.de/), every second person is convinced that they can choose their job. Skilled workers are becoming increasingly scarce, while HR departments are desperately trying to fill vacancies. The days when applicants had to scramble for jobs are over in many sectors.
 
-Today, employees often have the upper hand: they make demands, expect attractive working conditions and choose the employers that best meet their expectations. For HR managers, this means that they have to be clever and proactive in their recruiting in order not to lose out in the race for the best minds. But don't worry - in this article you will find out what is important when recruiting, why social recruiting is promising and which tools can help you optimally with [applicant management](https://seatable.com/tag/bewerber-talentmanagement/).
+Today, employees often have the upper hand: they make demands, expect attractive working conditions and choose the employers that best meet their expectations. For HR managers, this means that they have to be clever and proactive in their recruiting in order not to lose out in the race for the best minds. But don't worry - in this article you will find out what is important when recruiting, why social recruiting is promising and which tools can help you optimally with applicant management.
 
 ![Recruiting starts with a well thought-out strategy](Header-3.jpg)
 

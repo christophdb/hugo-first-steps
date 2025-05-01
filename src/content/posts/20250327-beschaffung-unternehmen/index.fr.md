@@ -1,6 +1,9 @@
 ---
 title: "5 conseils pour optimiser l'approvisionnement dans votre entreprise"
-description: "L'approvisionnement est au cœur de toute stratégie d'entreprise réussie. Son optimisation permet non seulement de réduire les coûts, mais aussi d'accroître la compétitivité. Dans cet article, nous vous présentons les principaux facteurs de réussite et défis pour un approvisionnement réussi et vous donnons 5 conseils qui vous aideront à optimiser vos processus d'approvisionnement.."
+description: "L'approvisionnement est au cœur de toute stratégie d'entreprise réussie. Son optimisation permet non seulement de réduire les coûts, mais aussi d'accroître la compétitivité. Dans cet article, nous vous présentons les principaux facteurs de réussite et défis pour un approvisionnement réussi et vous donnons 5 conseils qui vous aideront à optimiser vos processus d'approvisionnement."
+seo:
+    title: "L'approvisionnement dans l'entreprise : Bien se positionner stratégiquement"
+    description: "Des processus d'achat efficaces sont essentiels à la réussite d'une entreprise. Découvre les stratégies pour les processus d'achat et la gestion des fournisseurs"
 date: 2025-03-27
 categories: 
   - "Général"

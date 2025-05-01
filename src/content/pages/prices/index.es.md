@@ -151,5 +151,5 @@ sections:
             a: 'Son prioridad absoluta. Tus datos se procesan exclusivamente en centros de datos alemanes con monitoreo continuo. Más detalles en [Privacidad]({{< relref "pages/legal/data-privacy" >}}) y [Seguridad]({{< relref "pages/legal/security" >}}).'
 
           - q: '¿Cómo elimino mi cuenta?'
-            a: 'El administrador puede eliminar usuarios o equipos completos desde la [administración](http://https.//account.seatable.io). Si eres el único usuario, eres administrador.<br><br>Lamentamos que dejes SeaTable. [Comparte tus razones]({{< relref "pages/contact" >}}).<br><br>Los [Términos de Servicio]({{< relref "pages/legal/terms-of-service" >}}) detallan el tratamiento de datos tras la eliminación.'
+            a: 'El administrador puede eliminar usuarios o equipos completos desde la [administración](https://account.seatable.io). Si eres el único usuario, eres administrador.<br><br>Lamentamos que dejes SeaTable. [Comparte tus razones]({{< relref "pages/contact" >}}).<br><br>Los [Términos de Servicio]({{< relref "pages/legal/terms-of-service" >}}) detallan el tratamiento de datos tras la eliminación.'
 ---

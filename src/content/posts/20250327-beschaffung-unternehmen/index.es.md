@@ -1,6 +1,9 @@
 ---
 title: "5 consejos para optimizar las compras en su empresa"
 description: "El aprovisionamiento está en el centro de toda estrategia empresarial de éxito, y optimizarlo no sólo ahorra costes sino que también aumenta la competitividad. En este artículo, le mostramos los principales factores de éxito y retos para el éxito de las compras y le damos 5 consejos para ayudarle a optimizar sus procesos de compras."
+seo:
+    title: "Adquisiciones en la empresa: Estratégicamente bien situada"
+    description: "Unos procesos de compra eficientes son la clave del éxito empresarial. Descubra estrategias para los procesos de compra y la gestión de proveedores"
 date: 2025-03-27
 categorías:
   - "General"

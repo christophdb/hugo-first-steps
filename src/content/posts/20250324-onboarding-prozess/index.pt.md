@@ -1,6 +1,9 @@
 ---
 title: 'O guia definitivo para uma integração bem sucedida'
 description: 'Uma integração bem planeada é a chave para um início bem sucedido dos novos funcionários. Com processos claramente definidos, é possível garantir que os novos membros da equipa se adaptem rapidamente e se tornem produtivos. Neste artigo, ficará a saber como criar e implementar com sucesso um conceito de integração estruturado.'
+seo:
+    title: "Processo de integração: familiarização bem sucedida dos empregados"
+    description: "Neste artigo, ficará a saber como criar e implementar com êxito um conceito de integração estruturado para os novos trabalhadores"
 date: 2025-03-24
 categories:
     - 'Informações gerais'

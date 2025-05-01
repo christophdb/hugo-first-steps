@@ -1,6 +1,9 @@
 ---
 title: 'Comment rendre vos données utilisables avec un entrepôt de données'
 description: "Entrepôt de données, base de données, lac de données : ces termes peuvent prêter à confusion - ils désignent tous un système qui stocke des données. L'article suivant apporte des éclaircissements et explique quels sont les avantages d'un entrepôt de données et comment fonctionne le data warehousing."
+seo:
+    title: "Entrepôt de données : aperçu des avantages pour votre entreprise"
+    description: "Découvrez les bases et les techniques avancées du data warehousing. Apprenez à stocker efficacement les données"
 date: 2025-03-26
 categories:
     - 'Général'

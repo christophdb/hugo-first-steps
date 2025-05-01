@@ -1,6 +1,9 @@
 ---
 title: 'SIRH - qué es y cómo beneficia a su organización'
 description: 'Hoy en día es prácticamente imposible gestionar eficazmente los RRHH sin un SIRH (Sistema de Información de Recursos Humanos), al menos si su organización ha alcanzado cierto tamaño. En este artículo, examinamos la diferencia entre un sistema de información de recursos humanos (SIRH) y un sistema de gestión de recursos humanos (SGRH) y analizamos cómo puede hacer que su gestión de recursos humanos sea más eficiente con un software que incluya una base de datos de recursos humanos.'
+seo:
+    title: "SIRH: qué es y cómo beneficia a su empresa"
+    description: "En este artículo, mostramos la diferencia entre un sistema de información de recursos humanos (SIRH) y un sistema de gestión de recursos humanos (SGRH)"
 date: 2025-03-17
 categories:
     - 'General'

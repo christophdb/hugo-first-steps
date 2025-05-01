@@ -1,6 +1,9 @@
 ---
 title: "Plan de siembra y rotación de cultivos: consejos de expertos para su huerto"
 description: "El éxito de un huerto empieza por una planificación bien pensada. Con la rotación de cultivos adecuada, el suelo se mantiene fértil, las plagas lo tienen más difícil y la cosecha es más abundante. Este artículo te muestra cómo crear un plan de siembra para hortalizas, arriates elevados y parterres de plantas perennes."
+seo:
+    title: "Plan de siembra y rotación de cultivos: consejos de expertos para su huerto"
+    description: "Este artículo le muestra cómo crear un plan de plantación de hortalizas, camas elevadas y camas perennes para obtener una buena cosecha a largo plazo"
 fecha: 2025-03-31
 categorías:
   - "General"

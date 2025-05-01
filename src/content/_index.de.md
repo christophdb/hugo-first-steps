@@ -65,16 +65,16 @@ sections:
     image: "/images/galerie-plugin.png"
     alt: "Galerie"
   - text: "Kanban"
-    alt: ""
+    alt: "Kanban"
     image: "/images/kanban-plugin.png"
   - text: "Zeitleiste"
     alt: ""
     image: "/images/timeline-plugin.png"
   - text: "Kalender"
-    alt: ""
+    alt: "Kalender"
     image: "/images/calendar-plugin.png"
   - text: "Tabellenbeziehungen"
-    alt: ""
+    alt: "Tabellenbeziehungen"
     image: "/images/table-relationship-plugin.png"
 
 - name: "customer-1"
@@ -148,11 +148,11 @@ sections:
   - headline: Maßnahmenplan
     text: Projekte
     image: /images/template-massnahmenplan.jpg
-    image_alt: 
+    image_alt: Maßnahmenplan 
   - headline: Redaktionsplan
     text: Marketing
     image: "/images/galerie-plugin.png"
-    image_alt: 
+    image_alt: Marketing
   buttons:
     - label: "Finden Sie weitere Vorlagen für Ihren Anwendungsbereich"
       link: "https://seatable.io/vorlagen/?lang=auto"

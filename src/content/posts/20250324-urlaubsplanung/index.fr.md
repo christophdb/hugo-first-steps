@@ -1,6 +1,9 @@
 ---
 title: "Planifier avec succès les congés conformément à la loi fédérale sur les congés : conseils pour le personnel"
 description: "Le chaos dans le calendrier ? Lorsque trop de collaborateurs sont absents en même temps, la situation devient vite critique. Avec des stratégies intelligentes et des outils numériques, vous veillez à ce que les souhaits de vacances soient satisfaits sans perturber le fonctionnement de l'entreprise. Découvrez comment une planification intelligente des vacances peut rendre tout le monde heureux."
+seo:
+    title: "Planification des congés pour les employés : conseils pour le personnel"
+    description: "Planification efficace des congés en équipe : comment coordonner de manière optimale les absences des collaborateurs et éviter les goulets d'étranglement.conseils et modèles"
 date: 2025-03-24
 categories: 
   - "Général"

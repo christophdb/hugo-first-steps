@@ -1,6 +1,9 @@
 ---
 title: 'Create a roadmap: How to clearly visualize your next project'
 description: "A well-structured roadmap is more than just a timetable - it shows the path to your goals clearly and comprehensibly. Whether it's strategy development, project management or progress monitoring: a roadmap allows you to maintain an overview at all times. Here you can find out how to create a roadmap and save time and resources with the right template."
+seo:
+    title: "Create a roadmap: Visualise your project clearly"
+    description: "In this blog article, you will learn how to create a roadmap and save time and resources with the right template"
 date: 2025-03-24
 categories:
     - 'Best Practice'
