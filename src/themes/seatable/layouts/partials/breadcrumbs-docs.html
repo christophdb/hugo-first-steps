@@ -1,0 +1,29 @@
+<nav aria-label="breadcrumb">
+    <span class="flex w-fit place-items-center gap-2 rounded-md bg-gray-200 px-6 py-2">
+        <a href="/docs">Help</a>
+
+        {{ with .Params.category }}
+            {{ partial "icon.html" "arrow-right" }}
+            <a href="#">{{ . }}</a>
+        {{ end }}
+
+        {{ with .Params.section }}
+            {{ partial "icon.html" "arrow-right" }}
+            <a href="#">{{ . }}</a>
+        {{ end }}
+    </span>
+</nav>
+
+<!-- 
+
+in englisch:
+/help
+/help/first-steps/course-level-1
+/help/xxx
+
+in deutsch
+/de/hilfe
+/de/hilfe/erste-schritte/kurs-level-1
+/de/hilfe/xxx
+
+-->

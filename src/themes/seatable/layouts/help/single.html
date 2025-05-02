@@ -1,0 +1,35 @@
+{{ define "main" }}
+    <section class="max-container padding mx-auto w-full">
+        <article class="">
+            {{ partial "breadcrumbs-docs.html" . }}
+
+
+            <h1 class="gradient mt-12 font-poppins text-4xl">{{ .Title }}</h1>
+
+            <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
+                <!-- max width of the blog posts is 768px -> image optimization -->
+                <div class="post-content w-full max-w-3xl lg:w-3/4">
+                    {{ .Content }}
+
+
+                    <!--<div class="mt-12 border-t border-gray-300"></div>
+                    <p class="mt-12">
+                        TAGS:
+                        {{ range (.GetTerms "tags") }}
+                        <a href="{{ .Permalink }}"><span style="background-color: #e1e1e1; padding: 4px 8px; border-radius: 8px;">{{ .LinkTitle }}</span></a>
+                    {{ end }}
+                    </p>-->
+                </div>
+
+                <!-- Second section -->
+
+                <div class="toc post-toc win-w-[220px] hidden w-1/4 lg:block">
+                    <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
+                        INHALTSVERZEICHNIS
+                        {{ .TableOfContents }}
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+{{ end }}
