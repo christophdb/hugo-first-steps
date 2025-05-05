@@ -6,7 +6,9 @@
             {{ if not .IsHome }}
                 <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
                 {{ if ne . $last }}
-                    {{ partial "icon.html" "arrow-right" }}
+                    <span class="-rotate-90">
+                        {{ partial "icon.html" "chevron-down" }}
+                    </span>
                 {{ end }}
             {{ end }}
         {{ end }}

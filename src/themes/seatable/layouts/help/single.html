@@ -6,7 +6,7 @@
 
             <h1 class="gradient mt-12 font-poppins text-4xl">{{ .Title }}</h1>
 
-            <div class="justify-left post mt-6 flex w-full gap-12 md:flex-row">
+            <div class="justify-left post mt-16 flex w-full gap-12 md:flex-row">
                 <!-- max width of the blog posts is 768px -> image optimization -->
                 <div class="post-content w-full max-w-3xl lg:w-3/4">
                     {{ .Content }}
@@ -19,14 +19,48 @@
                         <a href="{{ .Permalink }}"><span style="background-color: #e1e1e1; padding: 4px 8px; border-radius: 8px;">{{ .LinkTitle }}</span></a>
                     {{ end }}
                     </p>-->
+
+                    <div class="mt-24 flex flex-row justify-between">
+                        <span class="rounded-xl bg-gray-100 px-4 py-2">Vorheriger Artikel</span>
+                        <span class="rounded-xl bg-gray-100 px-4 py-2">Nächster Artikel</span>
+                    </div>
                 </div>
 
                 <!-- Second section -->
 
                 <div class="toc post-toc win-w-[220px] hidden w-1/4 lg:block">
                     <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
-                        INHALTSVERZEICHNIS
-                        {{ .TableOfContents }}
+                        <div class="">
+                            INHALTSVERZEICHNIS
+                            {{ .TableOfContents }}
+                        </div>
+
+                        <div class="mt-12">
+                            WEITERE ARTIKEL IN DIESER KATEGORIE
+                            <ul>
+                                {{ range .CurrentSection.Pages.ByWeight }}
+                                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                {{ end }}
+                            </ul>
+                        </div>
+
+                        <div class="mt-12">
+                            ÄHNLICHE ARTIKEL
+                            <ul>
+                                <li>-</li>
+                            </ul>
+                        </div>
+
+                        <div class="mt-12">
+                            ZULETZT AKTUALISIERT VON
+                            <div class="flex flex-row">
+                                <img src="https://placehold.co/48x48" class="rounded-full" />
+                                <div class="flex flex-col pl-4">
+                                    <span>{{ .Params.author | default "Kevin Graf" }}</span>
+                                    <span>{{ .Date | time.Format (.Site.Language.Params.dateFormat | default ":date_long" ) }}</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
