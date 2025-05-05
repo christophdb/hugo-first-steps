@@ -17,7 +17,7 @@ sections:
           - label: Get started now
             link: 'pages/registration'
             style: primary
-            id: en-hr-prozecesses
+            id: en-hr-processes
           - label: Get to know the functions
             link: pages/functions
 
