@@ -3,7 +3,6 @@ class Scroller {
     static init() {
         if (document.querySelector('#TableOfContents')) {
             this.tocLinks = document.querySelectorAll('#TableOfContents a');
-            console.log(this.tocLinks);
             this.tocLinks.forEach((link) => link.classList.add('transition', 'duration-200'));
             this.headers = Array.from(this.tocLinks).map((link) => {
                 const name = link.href.split('#')[1];
@@ -28,8 +27,6 @@ class Scroller {
         let activeIndex = this.headers.findIndex((header) => {
             return header.getBoundingClientRect().top > 180;
         });
-
-        console.log(activeIndex);
 
         if (activeIndex == -1) {
             activeIndex = this.headers.length - 1;
