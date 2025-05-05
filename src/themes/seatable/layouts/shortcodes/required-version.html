@@ -1,0 +1,9 @@
+<div class="rounded-md border border-gray-300 bg-red-100 p-4">
+    <p>Verfügbar mit:</p>
+    <div>
+        {{ range .Params }}
+            <span class="me-2 rounded-md bg-gray-200 px-2.5 py-0.5 font-poppins text-base text-gray-800">{{ . }}</span>
+        {{ end }}
+
+    </div>
+</div>

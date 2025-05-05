@@ -1,0 +1,8 @@
+{{ $color := .Get "color" }}
+{{ if eq $color "blue" }}
+    <span class="me-2 rounded-md bg-blue-100 px-2.5 py-0.5 font-poppins text-base text-blue-800">{{ .Get "text" }}</span>
+{{ else if eq $color "red" }}
+    <span class="me-2 rounded-md bg-red-100 px-2.5 py-0.5 font-poppins text-base text-red-800">{{ .Get "text" }}</span>
+{{ else }}
+    <span class="me-2 rounded-md bg-gray-200 px-2.5 py-0.5 font-poppins text-base text-gray-800">{{ .Get "text" }}</span>
+{{ end }}

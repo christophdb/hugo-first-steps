@@ -193,3 +193,23 @@ Fügen dies in dein Markdown ein:
 ```
 
 {{< youtube AHTzHMVx2uE >}}
+
+## Keyboard
+
+Um eine Tastenkombination wie z.B. {{< keyboard "STRG" >}} + {{< keyboard "C" >}} auszugeben, genügt folgender Shortcode:
+
+```
+{{</* keyboard "STRG" */>}} + {{</* keyboard "C" */>}}
+```
+
+## Tags
+
+Das sind Tags, in den Farben {{< tag color="blue" text="Blau" >}}, {{< tag color="red" text="Rot" >}} oder {{< tag text="irgendwas anderes" >}}.
+Hier die gesamte Übersicht:
+
+- ...
+- ...
+
+## Verfügbar mit
+
+{{< required-version "free" "plus" "enterprise" >}}
