@@ -1,9 +1,14 @@
 <section class="padding" id="{{ .name }}">
     <section class="max-container text-center">
         <h2 class="gradient mt-1 text-4xl font-bold leading-narrow md:text-5xl">{{ .title }}</h2>
-        <p class="mt-4 text-xl">{{ .subtitle }}</p>
-        <p class="mt-6 inline-block rounded-lg bg-green-100 px-4 py-2 text-xl text-green-700">{{ .cta }}</p>
+        <!--<p class="mt-4 text-xl">{{ .subtitle }}</p>
+        <p class="mt-6 inline-block rounded-lg bg-green-100 px-4 py-2 text-xl text-green-700">{{ .cta }}</p>-->
 
+        <div class="mt-12 text-lg">
+            Registration is currently disabled. Please use <a href="https://seatable.io/registrierung/?lang=auto">https://seatable.io/registrierung</a>.
+        </div>
+
+        <!--
         <div x-data="registrationForm()" class="text-left">
             <form @submit.prevent="submitForm" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
                 <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
@@ -33,6 +38,7 @@
                         {{ .submit }}
                     </button>
                 </div>
+                -->
 
                 <!-- Success/Error Messages -->
                 <p x-show="errorMessage" x-text="errorMessage" class="mt-4 text-center text-red-500"></p>
