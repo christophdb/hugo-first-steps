@@ -1,7 +1,7 @@
 ---
 title: 'course level 1 (deutsch) adsfadfafd afd laöfd öaskdf aölkfd aöfd'
 description: '...'
-url: '/de/help/erste-schritte'
+url: '/de/hilfe/level-1-introduction'
 
 category: Erste Schritte
 section: Online Kurs - Level 1

@@ -1,29 +1,49 @@
 {{ define "main" }}
-    <section class="help-categories my-8">
-        <h1 class="mb-6 text-3xl font-bold">Help Categories</h1>
-        <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {{ range .Sections }}
-                <a href="{{ .RelPermalink }}" class="block rounded-lg bg-gray-100 p-6 shadow transition hover:bg-gray-200">
-                    <h2 class="mb-2 text-xl font-semibold">{{ .Title }}</h2>
-                    {{ with .Params.description }}
-                        <p class="text-gray-600">{{ . }}</p>
-                    {{ end }}
-                    <span class="text-sm text-gray-500">{{ .Pages | len }} articles</span>
-
-                    <ul class="list-disc pl-4 text-sm text-gray-500">
-                        {{ range .Pages }}
-                            <li>{{ .Title }} - {{ .RelPermalink }}</li>
-                        {{ end }}
-                    </ul>
-                </a>
-            {{ end }}
+    {{/* Traverse up to the root section (e.g., /content/help/) */}}
+    {{ $root := . }}
+    {{ range seq 5 }}
+        {{/* Safety loop to prevent infinite recursion */}}
+        {{ if $root.Parent.Parent }}
+            {{/* Stop when parent is the homepage */}}
+            {{ $root = $root.Parent }}
+        {{ else }}
+            {{ break }}
+        {{ end }}
+    {{ end }}
 
 
-            <ul>
-                {{ range .Pages }}
-                    <li>{{ .Title }} - {{ .RelPermalink }}</li>
+    <section class="padding max-container my-8">
+        <div class="flex gap-8">
+            <div class="root-categories">
+                <a href="{{ $root.RelPermalink }}">Zurück zur Hilfe-Startseite (später neben Logo)</a><br /><br />
+                {{/* Display sections under the root */}}
+                {{ range $root.Sections }}
+                    <div>
+                        <h2 class="mb-2 text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                        <ul class="list-disc pl-4 text-sm text-gray-500">
+                            {{ range .Pages }}
+                                <li class="{{ if eq .RelPermalink $.RelPermalink }}text-red-300{{ end }}"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
                 {{ end }}
-            </ul>
+            </div>
+
+            <div class="pl-12">
+                <h2 class="text-4xl">{{ .Parent.Title }}</h2>
+                <p>{{ .Title }}</p>
+
+                <div class="mt-8 grid grid-cols-2 gap-8">
+                    {{ range .Pages }}
+
+                        <div class="flex flex-col gap-4 rounded-xl bg-gray-100 p-4">
+                            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                            Artikel lesen...
+                        </div>
+                    {{ end }}
+
+                </div>
+            </div>
         </div>
     </section>
 {{ end }}

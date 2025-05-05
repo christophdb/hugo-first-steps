@@ -1,0 +1,27 @@
+{{ define "main" }}
+    <section class="padding max-container my-4">
+        <div class="text-center">
+            <h1 class="mb-8 text-4xl">This is the new help area</h1>
+            <span class="bg-gray-100 px-32 py-4">Search bar</span>
+        </div>
+
+        <div class="my-12 grid grid-cols-4 gap-8">
+            {{ range .Sections }}
+                <a href="{{ .RelPermalink }}">
+                    <div class="rounded-xl bg-gray-200 p-4">
+                        {{ .Title }}
+                    </div>
+                </a>
+            {{ end }}
+        </div>
+
+        <div class="my-12">Noch ganz viele andere Hilfequellen...</div>
+        <ul>
+            <li>Was gibt es neues?</li>
+            <li>Kurzanleitung</li>
+            <li>Kundenstimmen</li>
+            <li>Vorlagen</li>
+            <li>Andere Dokumenttionen</li>
+        </ul>
+    </section>
+{{ end }}
