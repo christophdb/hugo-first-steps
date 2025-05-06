@@ -71,7 +71,7 @@ sections:
     alt: "Kanban"
     image: "/images/kanban-plugin.png"
   - text: "Zeitleiste"
-    alt: ""
+    alt: "Zeitleiste"
     image: "/images/timeline-plugin.png"
   - text: "Kalender"
     alt: "Kalender"
