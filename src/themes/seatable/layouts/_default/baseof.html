@@ -117,6 +117,8 @@
             function registrationForm() {
                 return {
                     email: '',
+                    // Honeypot field
+                    name: '',
                     errors: {},
                     isSubmitting: false, // Tracks if the form is being submitted
                     successMessage: '', // Message to show on success
@@ -136,6 +138,11 @@
                         this.validateEmail();
 
                         if (this.errors.email) {
+                            return;
+                        }
+
+                        // Validate honeypot field
+                        if (this.name.length >= 1) {
                             return;
                         }
 
