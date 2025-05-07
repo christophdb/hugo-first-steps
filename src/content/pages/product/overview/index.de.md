@@ -168,6 +168,7 @@ sections:
           - label: Jetzt registrieren
             link: 'pages/registration'
             style: primary
+            id: de-product-overview-registration-content-22
           - label: Vertrieb kontaktieren
             link: 'pages/contact'
             style: secondary

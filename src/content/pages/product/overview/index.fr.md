@@ -167,6 +167,7 @@ sections:
           - label: Inscrivez-vous maintenant
             link: 'pages/registration'
             style: primary
+            id: fr-product-overview-registration-content-22
           - label: Contactez les ventes
             link: 'pages/contact'
             style: secondary
