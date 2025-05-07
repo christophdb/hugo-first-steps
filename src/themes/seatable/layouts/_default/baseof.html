@@ -50,6 +50,8 @@
                     type: 'sales',
                     subject: '',
                     message: '',
+                    // Honeypot field
+                    name: '',
                     buttonText: '{{ T "contact.submit"}}',
                     isSubmitting: false, // Tracks if the form is being submitted
                     errorMessage: '', // Message to show on error
@@ -65,6 +67,11 @@
                     },
                     submitForm() {
                         this.validateEmail();
+
+                        // Validate honeypot field
+                        if (this.name.length >= 1) {
+                            return;
+                        }
 
                         // Disable the button
                         this.isSubmitting = true;
@@ -188,6 +195,8 @@
             function newsletterForm() {
                 return {
                     email: '',
+                    // Honeypot field
+                    name: '',
                     errors: {},
                     submitted: false,
                     validateEmail() {
@@ -203,6 +212,11 @@
                         this.validateEmail();
 
                         if (this.errors.email) {
+                            return;
+                        }
+
+                        // Validate honeypot field
+                        if (this.name.length >= 1) {
                             return;
                         }
 
