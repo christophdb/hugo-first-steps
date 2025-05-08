@@ -166,6 +166,7 @@ sections:
           - label: Зарегистрироваться сейчас
             link: 'pages/registration'
             style: primary
+            id: ru-product-overview-registration-content-22
           - label: Связаться с отделом продаж
             link: 'pages/contact'
             style: secondary

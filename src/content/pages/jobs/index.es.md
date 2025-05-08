@@ -10,9 +10,7 @@ sections:
       title: 'Ven a nuestra Oficina Global'
       subtitle: 'Quédate donde te sientas cómodo'
       text: 'Con nuestra plataforma sin código, estamos revolucionando la forma en que las personas de todo el mundo trabajarán con datos en el futuro. Para esta misión, necesitamos personas con impulso y la voluntad de marcar la diferencia. Personas que tomen la iniciativa y se mantengan comprometidas con sus trabajos.'
-      image:
-          src: '/images/people-at-work.png'
-          alt: 'personas-trabajando'
+     
 
     - name: content-19
       weight: 2

@@ -10,9 +10,7 @@ sections:
       title: 'Come to our Global Office'
       subtitle: 'Stay where you feel comfortable'
       text: 'With our no-code platform, we are revolutionizing the way people around the world will work with data in the future. For this mission, we need people with drive and the will to make a difference. People who take the initiative and stay on the ball with their jobs.'
-      image:
-          src: '/images/people-at-work.png'
-          alt: 'people-at-work'
+      
 
     - name: content-19
       weight: 2
