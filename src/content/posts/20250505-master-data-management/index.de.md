@@ -120,7 +120,7 @@ Alle Stammdaten durchlaufen einen Lebenszyklus vom ersten Anlegen bis hin zu ihr
 
 5. **Löschung**: Der Lebenszyklus endet mit der endgültigen Löschung der Daten. Beachten Sie etwaige Löschfristen (zum Beispiel gemäß DSGVO) und löschen Sie personenbezogene Daten auf Wunsch sofort.
 
-![Tipps fürs Master Data Management](Zentrale%20Stammdatenverwaltung.jpg)
+![Tipps fürs Master Data Management](Zentrale-Stammdatenverwaltung.jpg)
 
 ## 6 Tipps, wie Sie das Stammdatenmanagement erfolgreich umsetzen
 
