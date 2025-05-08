@@ -1,7 +1,7 @@
 {{ define "main" }}
     <section class="padding max-container my-4">
         <div class="text-center">
-            <h1 class="mb-8 text-4xl">This is the new help area</h1>
+            <h1 class="mb-8 text-4xl">{{ .Params.headline }}</h1>
 
             <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
             <script src="/pagefind/pagefind-ui.js"></script>
@@ -13,16 +13,21 @@
             </script>
         </div>
 
-        <div class="my-12 grid grid-cols-4 gap-8">
+        <div class="my-12 grid auto-rows-fr grid-cols-5 gap-4">
             {{ range .Sections }}
                 <a href="{{ .RelPermalink }}">
-                    <div class="rounded-xl bg-gray-200 p-4">
-                        {{ .Title }}
+                    <div class="flex h-full flex-col rounded-xl">
+                        <div class="flex w-full justify-center rounded-t-xl bg-red-100 p-4 text-3xl text-seatable-gray">
+                            {{ partial "icon.html" .Params.icon }}
+                        </div>
+                        <span class="text-md h-full rounded-b-xl border p-4 text-center font-poppins font-bold text-seatable-gray">{{ .Title }}</span>
                     </div>
                 </a>
             {{ end }}
+
         </div>
 
+        <!--
         <div class="my-12">Noch ganz viele andere Hilfequellen...</div>
         <ul>
             <li>Was gibt es neues?</li>
@@ -31,5 +36,6 @@
             <li>Vorlagen</li>
             <li>Andere Dokumenttionen</li>
         </ul>
+        -->
     </section>
 {{ end }}

@@ -32,3 +32,13 @@ unsafe = true
 
 [cascade.build]
 publishResources = false
+
+# added 06.05.2025 (CDB)
+# kann später wieder weg, da wir keine "related" articles machen
+#[related]
+#threshold = 0       # Lower threshold to increase matches
+#includeNewer = true
+#toLower = false
+#[[related.indices]]
+#name = "keywords" # Match front matter field name
+#weight = 100      # Highest priority

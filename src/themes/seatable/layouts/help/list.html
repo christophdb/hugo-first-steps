@@ -14,7 +14,7 @@
 
     <section class="padding max-container my-8">
         <div class="flex gap-8">
-            <div class="root-categories">
+            <div class="root-categories w-1/4">
                 <a href="{{ $root.RelPermalink }}">Zurück zur Hilfe-Startseite (später neben Logo)</a><br /><br />
                 {{/* Display sections under the root */}}
                 {{ range $root.Sections }}
@@ -29,7 +29,7 @@
                 {{ end }}
             </div>
 
-            <div class="pl-12">
+            <div class="w-full max-w-3xl pl-12 lg:w-3/4">
                 <h2 class="text-4xl">{{ .Title }}</h2>
                 <p>{{ .Description }}</p>
 
