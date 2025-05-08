@@ -1,5 +1,8 @@
 ---
 title: 'SeaTable Products'
+seo:
+    title: "SeaTable products | Find the right solution for you"
+    description: "SeaTable offers flexible cloud, dedicated and on-premises solutions, perfectly tailored to your business requirements"
 date: '2025-03-30'
 url: '/products'
 
