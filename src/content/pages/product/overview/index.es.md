@@ -1,5 +1,8 @@
 ---
 title: 'SeaTable Productos'
+seo:
+    title: "Productos SeaTable | Encuentre la solución adecuada"
+    description: "SeaTable ofrece soluciones flexibles en la nube, dedicadas y locales, perfectamente adaptadas a las necesidades de su empresa"
 date: '2025-03-30'
 url: '/es/productos'
 
