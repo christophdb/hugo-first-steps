@@ -2,7 +2,15 @@
     <section class="padding max-container my-4">
         <div class="text-center">
             <h1 class="mb-8 text-4xl">This is the new help area</h1>
-            <span class="bg-gray-100 px-32 py-4">Search bar</span>
+
+            <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+            <script src="/pagefind/pagefind-ui.js"></script>
+            <div id="search" class="mx-auto max-w-2xl text-left"></div>
+            <script>
+                window.addEventListener('DOMContentLoaded', (event) => {
+                    new PagefindUI({ element: '#search', showImages: false, showSubResults: true });
+                });
+            </script>
         </div>
 
         <div class="my-12 grid grid-cols-4 gap-8">

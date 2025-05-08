@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <section class="max-container padding mx-auto w-full">
+    <section class="max-container padding mx-auto w-full" data-pagefind-body>
         <article class="">
             {{ partial "breadcrumbs-docs.html" . }}
 
@@ -20,23 +20,38 @@
                     {{ end }}
                     </p>-->
 
-                    <div class="mt-24 flex flex-row justify-between">
-                        <span class="rounded-xl bg-gray-100 px-4 py-2">Vorheriger Artikel</span>
-                        <span class="rounded-xl bg-gray-100 px-4 py-2">Nächster Artikel</span>
+                    <div class="mt-24 flex flex-row justify-between" data-pagefind-ignore>
+                        <div>
+                            <span class="flex rounded-xl bg-gray-100 px-4 py-2 pr-8">
+                                <span class="mr-2 rotate-90">
+                                    {{ partial "icon.html" "chevron-down" }}
+                                </span>
+                                Vorheriger Artikel
+                            </span>
+                        </div>
+
+                        <div>
+                            <span class="flex rounded-xl bg-gray-100 px-4 py-2 pl-8"
+                                >Nächster Artikel
+                                <span class="ml-2 -rotate-90">
+                                    {{ partial "icon.html" "chevron-down" }}
+                                </span>
+                            </span>
+                        </div>
                     </div>
                 </div>
 
                 <!-- Second section -->
 
-                <div class="toc post-toc win-w-[220px] hidden w-1/4 lg:block">
+                <div class="toc post-toc win-w-[220px] hidden w-1/4 lg:block" data-pagefind-ignore>
                     <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
-                        <div class="">
-                            INHALTSVERZEICHNIS
+                        <h3>INHALTSVERZEICHNIS</h3>
+                        <div>
                             {{ .TableOfContents }}
                         </div>
 
-                        <div class="mt-12">
-                            WEITERE ARTIKEL IN DIESER KATEGORIE
+                        <h3 class="mt-12">WEITERE ARTIKEL IN DIESER KATEGORIE</h3>
+                        <div>
                             <ul>
                                 {{ range .CurrentSection.Pages.ByWeight }}
                                     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -44,11 +59,17 @@
                             </ul>
                         </div>
 
-                        <div class="mt-12">
-                            ÄHNLICHE ARTIKEL
+                        <!--
+                        <h3 class="mt-12">ÄHNLICHE ARTIKEL</h3>
+                        <div>
+                            {{ $related := .Site.RegularPages.Related . | first 5 }}
+                            {{ with $related }}
                             <ul>
-                                <li>-</li>
+                                {{ range . }}
+                                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                {{ end }}
                             </ul>
+                        {{ end }}
                         </div>
 
                         <div class="mt-12">
@@ -61,6 +82,7 @@
                                 </div>
                             </div>
                         </div>
+                        -->
                     </div>
                 </div>
             </div>
