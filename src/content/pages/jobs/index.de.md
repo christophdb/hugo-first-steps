@@ -10,9 +10,7 @@ sections:
       title: 'Komm in unser Global Office'
       subtitle: 'Bleib, wo du dich wohlfühlst'
       text: 'Mit unserer No-Code-Plattform revolutionieren wir die Art und Weise, wie Menschen rund um die Welt künftig mit Daten arbeiten werden. Für diese Mission brauchen wir Menschen mit Tatendrang und dem Willen, etwas zu bewegen. Menschen, die selbst die Initiative ergreifen und bei ihren Jobs immer am Ball bleiben.'
-      image:
-          src: '/images/people-at-work.png'
-          alt: 'people-at-work'
+      
 
     - name: content-19
       weight: 2

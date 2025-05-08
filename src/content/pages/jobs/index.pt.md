@@ -10,10 +10,7 @@ sections:
       title: 'Venha para o nosso Escritório Global'
       subtitle: 'Fique onde você se sente confortável'
       text: 'Com nossa plataforma sem código, estamos revolucionando a forma como as pessoas ao redor do mundo trabalharão com dados no futuro. Para essa missão, precisamos de pessoas com motivação e vontade de fazer a diferença. Pessoas que tomam iniciativa e se dedicam aos seus trabalhos.'
-      image:
-          src: '/images/people-at-work.png'
-          alt: 'pessoas-trabalhando'
-
+      
     - name: content-19
       weight: 2
       title: 'Vamos mudar o mundo juntos'
