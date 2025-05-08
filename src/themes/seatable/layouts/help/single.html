@@ -21,32 +21,29 @@
                     </p>-->
 
                     {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
-                    <div class="mt-24 flex flex-row justify-between" data-pagefind-ignore>
+                    <div class="mt-24 flex flex-row justify-between gap-4" data-pagefind-ignore>
                         {{ with $pages.Prev . }}
-                            <div>
-                                <a href="{{ .RelPermalink }}">
-                                    <span class="flex rounded-xl bg-gray-100 px-4 py-2 pr-8">
-                                        <span class="mr-2 rotate-90">
-                                            {{ partial "icon.html" "chevron-down" }}
-                                        </span>
-                                        Previous
+                            <a href="{{ .RelPermalink }}" class="group">
+                                <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
+                                    <span class="flex-shrink-0 rotate-90">
+                                        {{ partial "icon.html" "chevron-down" }}
                                     </span>
-                                </a>
-                            </div>
+                                    <span class="min-w-0 max-w-72 text-sm font-normal tracking-tight"> {{ .LinkTitle }} </span>
+                                </span>
+                            </a>
                         {{ end }}
 
                         {{ with $pages.Next . }}
-                            <div>
-                                <a href="{{ .RelPermalink }}">
-                                    <span class="flex rounded-xl bg-gray-100 px-4 py-2 pl-8">
-                                        Next
-                                        <span class="ml-2 -rotate-90">
-                                            {{ partial "icon.html" "chevron-down" }}
-                                        </span>
+                            <a href="{{ .RelPermalink }}" class="group">
+                                <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
+                                    <span class="min-w-0 max-w-72 text-right text-sm font-normal tracking-tight"> {{ .LinkTitle }} </span>
+                                    <span class="flex-shrink-0 -rotate-90">
+                                        {{ partial "icon.html" "chevron-down" }}
                                     </span>
-                                </a>
-                            </div>
+                                </span>
+                            </a>
                         {{ end }}
+
                     </div>
                 </div>
 
