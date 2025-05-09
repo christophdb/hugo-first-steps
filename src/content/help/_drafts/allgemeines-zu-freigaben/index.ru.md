@@ -1,9 +1,10 @@
 ---
-title: "Freigaben"
+title: 'Freigaben'
 date: 2022-08-25
-lastmod: "2023-01-13"
-author: "cdb"
-url: "/ru/help/freigaben"
+lastmod: '2023-01-13'
+author: 'cdb'
+url: '/ru/help/freigaben'
+draft: true
 ---
 
 Sie haben in einer Base Ihre Informationen organisiert und möchte diese mit Teammitgliedern teilen und gemeinsam daran arbeiten? In SeaTable ist das mit einer Freigabe ganz einfach. Mit einer Freigabe können Sie einem einzelnen Teammitglied oder einer Gruppe Zugriff auf Ihre Daten gewähren. Dank abgestufter Freigabeberechtigungen und der Möglichkeit, eine Freigabe genauso schnell wieder zu entziehen, wie Sie sie erteilt haben, können Sie genau steuern, wer was in Ihren Bases tun kann.

@@ -3,7 +3,8 @@ title: 'Externe Links und Einladungs-Links löschen'
 date: 2022-08-25
 lastmod: '2023-01-13'
 author: 'cdb'
-url: '/es/ayuda/externe-links'
+url: '/help/externe-links'
+draft: true
 ---
 
 Sowohl **externe Links** als auch **Einladungs-Links** können Sie jederzeit auf zwei unterschiedlichen Wegen **löschen**. Beachten Sie dabei, welche Konsequenzen die Löschung für den Zugang zu Ihren Daten hat.

@@ -1,9 +1,10 @@
 ---
-title: "Externe Links"
+title: 'Externe Links'
 date: 2022-08-25
-lastmod: "2023-01-13"
-author: "cdb"
-url: "/de/hilfe/externe-links"
+lastmod: '2023-01-13'
+author: 'cdb'
+url: '/de/hilfe/externe-links'
+draft: true
 ---
 
 Sie haben Daten, die Sie mit einer größeren Anzahl an Personen teilen wollen, ja sogar öffentlich zugänglich machen wollen? Für diese Anwendungsfälle sind SeaTables externe Links genau das richtige! Externe Links gewähren Lesezugriff auf Daten in SeaTable, ohne dass dazu eine Benutzeranmeldung erforderlich ist. Auch lassen sich externe Links in Webseiten einbetten und damit kleine und große Datensammlungen ganz einfach online stellen.
