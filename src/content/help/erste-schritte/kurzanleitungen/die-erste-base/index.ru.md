@@ -1,0 +1,41 @@
+---
+title: 'Первая база'
+date: 2022-08-25
+lastmod: '2023-05-15'
+categories:
+    - 'kurzanleitungen'
+author: 'cdb'
+url: '/ru/help/die-erste-base'
+---
+
+В SeaTable вы организуете свои данные в [базах](https://seatable.io/ru/docs/arbeiten-mit-bases/bases/). База - это контейнер для одной или нескольких таблиц. Таблицы базы могут стоять независимо друг от друга или, как в базе данных, быть связаны друг с другом отношениями.
+
+Вы также можете [поделиться](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) своими [базами](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) с другими членами команды или [пригласить](https://seatable.io/ru/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) внешних третьих лиц для совместной работы над ними.
+
+SeaTable ведет [историю](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) для каждой базы в фоновом режиме, позволяя вам отменить изменения и восстановить предыдущие состояния, если это необходимо.
+
+## Главная страница
+
+После входа в систему вы окажетесь на **стартовой** странице. Здесь вы можете управлять своими базами. Если при регистрации вы выбрали [шаблоны](/ru/docs/handbuch/templates/), они будут отображаться здесь.
+
+Нажав на **изображение аватара** в правом верхнем углу, вы можете перейти в [личные настройки](https://seatable.io/ru/docs/persoenliche-einstellungen/persoenliche-einstellungen/), чтобы, например, настроить язык системы.
+
+Нажмите кнопку **Добавить базу**, чтобы создать свою первую базу. Дайте ей **имя**, нажмите **Enter**, и база будет помещена на стартовую страницу. Если вы наведете указатель мыши на название базы, справа появится **символ карандаша** {{< seatable-icon icon="dtable-icon-rename" >}} и символ с тремя точками {{< seatable-icon icon="dtable-icon-more-vertical" >}} для расширенных функций.
+
+С помощью значка карандаша можно переименовать базу и присвоить ей другой значок и цвет. Дополнительные функции включают, например, [совместное использование](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) базы или ее [экспорт](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/). Вы открываете базу, щелкнув по ее названию.
+
+## Вид таблицы
+
+Новая база содержит [таблицу](https://seatable.io/ru/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) с самого начала. Представление таблицы является центральным, но не единственным [представлением](/ru/docs/handbuch/datenmanagement/ansichten/) SeaTable. В представлении таблицы вы управляете таблицами базы, определяете структуру их колонок и вводите или анализируете свои данные.
+
+Перед [вводом данных](https://seatable.io/ru/docs/seatable-nutzen/datenerfassung/) необходимо определить структуру таблицы. Структура столбцов определяет, какие типы данных вы можете вводить в таблицу, какие варианты просмотра у вас есть и как поля ведут себя в [веб-формах](https://seatable.io/ru/docs/webformulare/webformulare/).
+
+SeaTable предлагает в общей сложности [более 20 типов колонок](https://seatable.io/ru/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). Вы, вероятно, уже знакомы с текстовыми столбцами, столбцами чисел и дат из обычных электронных таблиц. Конечно, SeaTable также знает их. Кроме того, SeaTable предлагает колонки для [изображений и файлов](https://seatable.io/ru/docs/dateien-und-bilder/unterschiede-zwischen-bild-und-datei-spalte/), для [форматированного текста](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), для [кнопок](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) и [флажков](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-checkbox-spalte/), а также [поля для](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/) [одиночного](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) и [множественного выбора](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
+
+Вы хотите добавить фотографии к записи? Просто перетащите картинку в колонку с картинками, и SeaTable сохранит ее прямо в таблице. В SeaTable все ваши данные находятся в одном месте!
+
+Еще один тип столбцов, с которым вы не знакомы по электронным таблицам, - это [ссылки на другие записи](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). С помощью ссылок вы создаете отношения между строками разных таблиц. Эта процедура, соответствующая принципу работы реляционных баз данных, позволяет избежать двойных записей, обеспечивает согласованность данных и создает общую картину.
+
+Вот пример применения: компания по управлению недвижимостью регистрирует управляемые объекты в таблице и связывает их с арендаторами, которые находятся под управлением в другой таблице. Если что-то меняется в свойствах объекта, менеджеру достаточно изменить настройку в таблице объектов. При связывании измененная информация автоматически обновляется для всех назначенных арендаторов.
+
+[Вы можете создавать дополнительные таблицы с помощью вкладок таблиц](https://seatable.io/ru/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/). Каждая таблица имеет индивидуальный макет: оформляйте столбцы в соответствии со своими желаниями и потребностями.

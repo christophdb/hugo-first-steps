@@ -33,6 +33,10 @@
     <!-- Main content -->
     <div class="grid pl-4">
         <strong class="mb-4 mt-2 block font-poppins text-xl font-bold" style="scroll-margin-top: 8rem">{{ .Get "headline" }}</strong>
-        <p class="last:mb-0">{{ .Get "text" | markdownify }}</p>
+        {{ if .Get "text" }}
+            <p class="last:mb-0">{{ .Get "text" | markdownify }}</p>
+        {{ else if .Inner }}
+            <div class="last:mb-0">{{ .Inner | strings.TrimSpace | .Page.RenderString }}</div>
+        {{ end }}
     </div>
 </aside>

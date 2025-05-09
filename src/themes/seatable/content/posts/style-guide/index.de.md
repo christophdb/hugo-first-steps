@@ -172,11 +172,37 @@ Erlaubte Werte für `style` sind:
 
 ## Warnings
 
+Warn-Hinweise können auf zwei verschiedene Arten geschreiben werden. Bei einfachen Texten genügt ein inline Parameter, bei längeren Texten mit Absätzen und Formatierungen, empfiehlt sich die längere Schreibweise.
+
+### Kurzschreibweise
+
 ```
-{{</* warning headline="Die Headline" text="**Text** mit Markdown Formatierung." */>}}
+{{</* warning headline="Die Headline" text="**Text** mit Markdown Formatierung." *//>}}
 ```
 
-{{< warning headline="Die Headline" text="**Text** mit Markdown Formatierung." >}}
+{{< warning headline="Die Headline" text="**Text** mit Markdown Formatierung." />}}
+
+### Langschreibweise
+
+```
+{{</* warning headline="Die Headline" */>}}
+
+Hier kann beliebiger Text und Aufzählungen hin:
+
+1. asdafd
+2. asdfafda
+
+{{</* /warning */>}}
+```
+
+{{< warning headline="Die Headline" >}}
+
+Hier kann beliebiger Text und Aufzählungen hin:
+
+1. asdafd
+2. asdfafda
+
+{{< /warning >}}
 
 ## YouTube
 

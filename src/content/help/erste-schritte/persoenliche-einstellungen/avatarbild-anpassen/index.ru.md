@@ -1,0 +1,29 @@
+---
+title: 'Настройка изображения аватара'
+date: 2023-02-27
+lastmod: '2023-03-09'
+categories:
+    - 'persoenliche-einstellungen'
+author: 'nsc2'
+url: '/ru/help/avatarbild-anpassen'
+---
+
+Вы можете настроить **изображение** своего **аватара** всего за несколько шагов в **личных настройках** своей учетной записи.
+
+Изображение аватара полезно для того, чтобы другие члены команды могли быстро идентифицировать вас в SeaTable, поскольку изображение также отображается в виде эскиза, например, в [колонках](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)" [Сотрудники](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/)", " [Создатель"](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) и " [Последний редактор"](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/), а также перед вашим именем в акциях.
+
+## Чтобы настроить изображение своего аватара
+
+1. Переключитесь на **начальную** страницу SeaTable.
+2. Нажмите на **изображение аватара** в правом верхнем углу, чтобы открыть выпадающее меню.
+
+![Открыть личные настройки через выпадающее меню](images/Persoenliche-Einstellungen-ueber-Drop-down-Menue-oeffnen.png)
+
+4. Нажмите на **Личные настройки**.
+5. Наведите курсор мыши на **квадрат**, содержащий **изображение** вашего **текущего аватара**, и нажмите на появившийся **значок карандаша** {{< seatable-icon icon="dtable-icon-rename" >}}.
+
+![Загрузите изображение аватара](images/Avatarbild-hochladen.png)
+
+7. В открывшемся окне "Загрузка файла" выберите **новую картинку** в качестве изображения аватара.
+
+{{< warning  headline="Техническое примечание"  text="В качестве аватара можно использовать файл изображения в формате GIF, JPG/JPEG или PNG с максимальным размером 1 МБ. SeaTable автоматически масштабирует изображение до нужного размера при загрузке." />}}

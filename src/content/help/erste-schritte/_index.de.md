@@ -1,6 +1,6 @@
 ---
 title: 'Erste Schritte'
-description: 'Help articles about managing your account.'
+description: ''
 weight: 1
 url: '/de/hilfe/erste-schritte'
 icon: 'lightbulb'
