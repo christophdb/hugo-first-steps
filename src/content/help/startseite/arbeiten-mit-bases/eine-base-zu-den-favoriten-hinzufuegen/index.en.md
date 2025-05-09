@@ -1,5 +1,5 @@
 ---
-title: 'Eine Base zu den Favoriten hinzufügen'
+title: 'Add a Base to Favorites'
 date: 2022-09-26
 lastmod: '2022-12-19'
 categories:
@@ -8,32 +8,32 @@ author: 'nsc2'
 url: '/help/eine-base-zu-den-favoriten-hinzufuegen'
 ---
 
-Um Ihnen die Übersicht über alle Bases in SeaTable zu erleichtern, können einzelne Bases favorisiert werden. Favorisierte Bases erscheinen unter dem Abschnitt **Favoriten.** Hier erfahren Sie, wie Sie Bases zu den Favoriten hinzufügen können:
+To help you keep track of all the bases in SeaTable, individual bases can be favorited. Favorited Bases appear under the **Favorites** section. Here you can learn how to add bases to favorites:
 
-## Eine Base in SeaTable favorisieren:
+## Favorite a base in SeaTable:
 
-1. Wechseln Sie zur **Startseite** von SeaTable.
-2. Fahren Sie mit der Maus über die **Base**, die Sie zu den Favoriten hinzufügen möchten.
-3. Klicken Sie auf die **drei Punkte**.
-4. Klicken Sie auf **Favoriten hinzufügen**.
-5. Die entsprechende Base wird nun automatisch mit einem **Stern markiert** und erscheint unter dem Abschnitt **Favoriten**.
+1. Switch to the SeaTable **home** page.
+1. Hover the mouse over the **Base** you want to add to the Favorites.
+1. Click on the **three dots**.
+1. Click **Add Favorites**.
+1. The corresponding Base is now automatically **marked with a star** and appears under the **Favorites** section.
 
-{{< warning headline="Tipp" >}}
+{{< warning headline="Tip" >}}
 
-Wenn Sie eine Base wieder aus den Favoriten **entfernen** möchten, stehen Ihnen hierfür zwei Optionen zur Verfügung:
+If you want to **remove** a base from the Favorites again, you have two options available.
 
-1. Klicken Sie bei der entsprechenden Base auf die **drei Punkte** und wählen Sie anschließend **Aus Favoriten entfernen.**
-2. Fahren Sie mit der Maus über die entsprechende Base in den Favoriten und klicken Sie auf das **X**
+1. Click on the **three dots** next to the corresponding base and then select **Remove from Favorites**.
+2. Move the mouse over the corresponding Base in the Favorites and click on the **X**.
 
 {{< /warning >}}
 
-## Bedeutung der Favoriten
+## Favorites meaning
 
-Bases, die Sie zu Ihren **Favoriten** hinzugefügt haben, erscheinen auf Ihrer Startseite stets ganz **oben**. Die Anordnung Ihrer Bases und Gruppen ist dabei immer (von oben nach unten):
+Bases that you have added to your **favorites** always appear at the **top of** your home page. The order of your bases and groups is always (from top to bottom):
 
-- Meine Bases
-- **Favoriten**
-- Für mich freigegeben
-- Gruppe 1
-- Gruppe 2
-- … (es folgen alle Ihre Gruppen in beliebiger von Ihnen [veränderbarer Reihenfolge](https://seatable.io/docs/arbeiten-mit-gruppen/die-reihenfolge-der-gruppen-aendern/))
+- My Bases
+- Favorites
+- Released for me
+- Group 1
+- Group 2
+- … (all your groups follow in any [order you can change](https://seatable.io/docs/arbeiten-mit-gruppen/die-reihenfolge-der-gruppen-aendern/))

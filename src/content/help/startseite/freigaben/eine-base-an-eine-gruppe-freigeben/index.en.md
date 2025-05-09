@@ -1,5 +1,5 @@
 ---
-title: 'Eine Base an eine Gruppe freigeben'
+title: 'Release a base to a group'
 date: 2022-09-28
 lastmod: '2023-02-22'
 categories:
@@ -8,36 +8,34 @@ author: 'nsc2'
 url: '/help/eine-base-an-eine-gruppe-freigeben'
 ---
 
-Bases gehören in SeaTable immer einem **Benutzer** oder einer **Gruppe**. Daher können Sie Bases entweder an Gruppen oder [an einzelne Benutzer freigeben](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/). Dieser Artikel beleuchtet die Freigabe einer Base an eine gesamte Gruppe.
+Bases in SeaTable always belong to a **user** or a **group**. Therefore, you can [share bases either with groups or with individual users](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/). This article highlights the release of a base to an entire group.
 
-Hierbei können Sie für jede Base individuell entscheiden, ob es sich um eine **Lesefreigabe** oder um eine **Lese- und Schreibfreigabe** handeln soll.
+Here you can decide individually for each base whether it is a sharing with **read** or **read-write** sharing permission..
 
-{{< warning  headline="Hinweis"  text="Wenn Sie einer Gruppe eine **Lese- und Schreibfreigabe** erteilen, können **alle Mitglieder** der Gruppe die Inhalte der Base **sehen** und **bearbeiten**. Sie können aber **keine Plugins** installieren und die Base **nicht** mit weiteren Benutzern und Gruppen **teilen**." />}}
+{{< warning headline="Note" text="When you grant **read and write** permission to a group, **all members of** the group can **see** and **edit** the contents of the base. However, they **cannot** install **plug-ins** or **share** the base with other users and groups." />}}
 
-Sie können Ihre Bases sowohl **von der Startseite aus** als auch **innerhalb einer Base** freigeben.
+## Share a Base from the Home Page
 
-## Eine Base von der Startseite aus freigeben
+![Releasing a Base to a Group](images/Freigabe-einer-Base-an-eine-Gruppe.gif)
 
-![Freigabe einer Base an eine Gruppe](images/Freigabe-einer-Base-an-eine-Gruppe.gif)
+1. Go to the **home page of SeaTable**.
+1. Move the mouse cursor to the **base** you want to split and click the **three dots** that appear on the right.
+1. Click **Share**.
+1. Go to **Release for group**.
+1. Select the desired **group** to which you want to share the **Base**.
+1. Set whether you want to assign **read and write permissions** or **read-only permissions**.
+1. Click **Submit**.
 
-1. Gehen Sie auf die **Startseite von SeaTable**.
-2. Bewegen Sie den Mauszeiger auf die **Base**, die Sie teilen möchten, und klicken Sie auf die rechts erscheinenden **drei Punkte**.
-3. Klicken Sie auf **Freigeben**.
-4. Gehen Sie auf **Freigabe für Gruppe**.
-5. Wählen Sie die gewünschte **Gruppe** aus, an die Sie die **Base** freigeben möchten.
-6. Stellen Sie ein, ob Sie **Lese- und Schreibrechte** oder nur **Leserechte** vergeben möchten.
-7. Klicken Sie auf **Absenden**.
+## Release within Base
 
-## Freigabe innerhalb der Base
+![Release within Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
 
-![Freigabe innerhalb der Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+If you are currently **in a Base**, you can also create a share without having to switch to the Home screen. To do this, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} at the top right of the **Base options**. The window that opens to create a share looks just like the one on the Home page. Just follow the above clicking instructions starting from step 4.
 
-Wenn Sie sich gerade **in einer Base** befinden, können Sie auch eine Freigabe erstellen, ohne auf die Startseite wechseln zu müssen. Klicken Sie dazu auf das **Teilen-Icon** {{< seatable-icon icon="dtable-icon-share" >}} rechts oben bei den **Base-Optionen**. Das Fenster, das sich zum Erstellen einer Freigabe öffnet, sieht genauso aus wie das auf der Startseite. Befolgen Sie einfach die obige Klickanleitung ab Schritt 4.
+## Limitations
 
-## Limitationen
+- You can **only** share bases with groups you are already a **member of**.
+- Bases that you have **created yourself** can be shared at any time, while bases that belong to a group can only be shared with other groups by **owners** and **administrators**.
+- A group that has been released a base by you has **no owner rights** and thus **cannot** change the name of the base, for example.
 
-- Sie können Bases **ausschließlich** an Gruppen freigeben, in denen Sie bereits **Mitglied** sind.
-- Bases, die Sie **selbst erstellt** haben, können Sie jederzeit freigeben, während Bases, die zu einer Gruppe gehören, nur von **Eigentümern** und **Administratoren** an andere Gruppen freigegeben werden können.
-- Eine Gruppe, die von Ihnen eine Base freigegeben bekommen hat, besitzt **keine Eigentümerrechte** und kann somit beispielsweise **nicht** den Namen der Base ändern.
-
-Wie Sie **einzelne Tabellen und Ansichten** einer Base an eine Gruppe freigeben können, erfahren Sie im Artikel [Benutzerdefinierte Freigabe erstellen](https://seatable.io/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+To learn how to share **individual tables and views of** a Base to a group, see the article [Creating Custom Sharing](https://seatable.io/en/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).

@@ -5,7 +5,7 @@ lastmod: '2023-01-16'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/help/gruppen'
+url: '/de/hilfe/gruppen'
 ---
 
 Für die Zusammenarbeit in Ihrem Team sind **Gruppen** von besonderer Bedeutung. Sie bringen in gemeinsame Projekte involvierte Teammitglieder zusammen, erlauben den einfachen Austausch von Daten in gemeinsamen Bases und verlagern benutzerverwaltende Funktionen direkt in die Gruppe. Je größer Ihr Team ist, desto öfter sollten Sie Gruppen nutzen.
