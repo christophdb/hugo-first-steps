@@ -1,0 +1,82 @@
+---
+title: 'Abfrageseiten in Universellen Apps'
+date: 2023-12-08
+lastmod: '2025-02-27'
+categories:
+    - 'seitentypen-in-universellen-apps'
+author: 'kgr'
+url: '/de/hilfe/abfrageseiten-in-universellen-apps'
+---
+
+Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) funktioniert, können Sie Ihre Datensätze über bestimmte Felder hinweg nach spezifischen Werten durchsuchen. Der Seitentyp erweist sich besonders bei **umfangreichen Datensätzen** wie Produktkatalogen oder Bibliotheken als hilfreich. Ein konkreter Anwendungsfall könnte beispielsweise die Abfrage eines Mitarbeiterverzeichnisses sein.
+
+![Abfrageseiten in Universellen Apps](images/Abfrageseiten-in-Universellen-Apps.png)
+
+## Seiteneinstellungen
+
+Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
+
+![Einstellungen der Abfrageseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Abfrageseite-aendern.png)
+
+## Voreingestellte Filter, Sortierungen und ausgeblendete Spalten
+
+In den **Seiteneinstellungen** definieren Sie zuerst die **Tabelle**, die durchsucht werden soll.
+
+Daraufhin können Sie voreingestellte **Filter**, **Sortierungen** und **ausgeblendete Spalten** definieren, um die angezeigten Daten für die Nutzer einzugrenzen und zu ordnen. Zum Filtern oder Sortieren klicken Sie auf **Filter hinzufügen** oder **Sortierung hinzufügen**, wählen Sie die gewünschte **Spalte** und **Bedingung** aus und bestätigen mit **Abschicken**.
+
+![Add filter on query pages in Universal Apps](images/Add-filter-on-query-pages-in-Universal-Apps.png)
+
+Die Nutzer können in den **Abfrageergebnissen** alle Informationen der zutreffenden Datensätze sehen, wenn Sie diese nicht einschränken. Entscheiden Sie daher, welche Daten **sichtbar** sein sollen, und blenden Sie die entsprechenden Spalten mithilfe der **Regler** ein oder aus.
+
+![Hide columns on query pages in Universal Apps](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
+
+{{< warning  type="warning" headline="Wichtiger Hinweis"  text="**Voreingestellte Filter** und **ausgeblendete Spalten** können die App-Nutzer **nicht verändern**. Sie bekommen also, wie von Ihnen gewünscht, nur die gefilterten Einträge angezeigt. Die **Zeilenhöhe** und die **Sortierung** der abgefragten Datensätze können die Nutzer allerdings individuell anpassen." />}}
+
+## Abfragefelder hinzufügen
+
+Für diesen Seitentyp sind **Abfragefelder** von zentraler Bedeutung. Mit ihnen können die Nutzer die ausgewählten Tabellenspalten nach spezifischen Werten durchsuchen und so **Datensätze finden**. Klicken Sie in den Seiteneinstellungen auf {{< seatable-icon icon="dtable-icon-enlarge" >}} **Feld hinzufügen**, um ein Abfragefeld zu definieren.
+
+![Felder auf Abfrageseiten hinzufügen](images/Felder-auf-Abfrageseiten-hinzufuegen.png)
+
+Anschließend können Sie die gewünschte **Spalte** auswählen und einstellen, ob das Abfragefeld **erforderlich** sein soll, ob eine **unscharfe Suche** möglich ist und ob **Groß- und Kleinschreibung** bei der Eingabe berücksichtigt werden.
+
+## Hinweis hinzufügen
+
+Sie können Ihrer Abfrageseite einen einleitenden **Hinweis** hinzufügen, der zum Beispiel Erklärungen zum Ausfüllen der Abfragefelder enthalten kann. Aktivieren Sie dazu einfach den **Regler** in den Seiteneinstellungen und schreiben Sie den Hinweis in die erscheinende Textbox.
+
+![Hinweis auf Abfrageseiten der Universellen App hinzufügen](images/Hinweis-auf-Abfrageseiten-der-Universellen-App-hinzufuegen.png)
+
+## Abfrageergebnisse bearbeiten
+
+Um diese Funktion nutzen zu können, müssen Sie in den Seiteneinstellungen bei **Ist das Abfrageergebnis bearbeitbar** den Regler **aktivieren**.
+
+![Abfrageergebnis bearbeitbar machen](https://seatable.io/wp-content/uploads/2023/12/Abfrageergebnis-bearbeitbar-machen.png)
+
+Anschließend können alle Nutzer mit Zugriff auf die Abfrageseite die gesuchten **Datensätze bearbeiten**.
+
+![Abfrageergebnisse bearbeiten auf Abfrageseiten der App](images/Abfrageergebnisse-bearbeiten-auf-Abfrageseiten-der-App.gif)
+
+- Führen Sie eine **erfolgreiche Datenabfrage** durch.
+- Bewegen Sie Ihre Maus auf die **Zeilennummerierung** der Trefferliste und klicken Sie auf das **Doppelpfeil-Symbol** vor dem Datensatz, den Sie bearbeiten möchten.
+- Nehmen Sie in den geöffneten **Zeilendetails** die gewünschten Änderungen vor.
+- Klicken Sie auf das **x-Symbol**, um das Fenster zu schließen und Ihre Änderungen zu speichern.
+
+## Seitenberechtigungen
+
+Ganz unten in den Seiteneinstellungen können Sie eingrenzen, wer die Abfrageseite sehen darf.
+
+![Berechtigung für individuelle Seiten der Universellen App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+
+Das ist die einzige [Seitenberechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/), die Sie hier zur Auswahl haben. Über Abfrageseiten kann man keine Zeilen in der Tabelle hinzufügen oder löschen.
+
+Allerdings können die Nutzer der App nach einer erfolgreichen Datenabfrage [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) in der angezeigten Trefferliste betätigen, um bestimmte **Aktionen auszuführen**.
+
+![Schaltflächen auf Abfrageseiten ausführen](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
+
+Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt die schnelle Suche nach relevanten Positionen. Ist eine interessante Stelle dabei, dann reicht ein Klick auf die Schaltfläche in den Suchergebnissen, um sich direkt für die Stelle zu bewerben.
+
+{{< warning  type="warning" headline="Achtung bei Schaltflächen"  text="[Schaltflächen](\"https://seatable.io/docs/andere-spalten/die-schaltflaeche/\") können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Abfrageergebnisse berechtigt ist." />}}
+
+## Weitere hilfreiche Artikel
+
+Falls Sie für Ihre Anwendung nur die oben beschriebene Abfrage-Funktionalität benötigen, können Sie statt einer Universellen App auch direkt die [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) nutzen.

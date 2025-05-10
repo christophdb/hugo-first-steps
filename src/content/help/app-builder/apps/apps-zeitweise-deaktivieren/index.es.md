@@ -1,0 +1,33 @@
+---
+title: 'Desactivar aplicaciones temporalmente - SeaTable'
+date: 2023-11-28
+lastmod: '2024-02-16'
+categories:
+    - 'apps'
+author: 'kgr'
+url: '/es/ayuda/apps-zeitweise-deaktivieren'
+---
+
+Puede suceder que desee **impedir temporalmente el uso de una aplicación** porque, por ejemplo, está realizando cambios extensos en la base subyacente. En este caso, puede deshabilitar las aplicaciones en cualquier momento con solo unos pocos clics.
+
+{{< warning  headline="Autorización necesaria en el grupo"  text="Para poder desactivar una aplicación, debes ser el **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. Los simples **miembros del** grupo no están autorizados a hacerlo." />}}
+
+## Deshabilitar una aplicación
+
+1. Abra la **base** donde desea deshabilitar una aplicación.
+2. Haga clic en **Aplicaciones** en la cabecera Base.
+
+![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
+
+4. Pasa el ratón por encima de la aplicación deseada y haz clic en los **tres puntos de** la derecha.
+5. Seleccione **Pausa** .
+
+![Suspender temporalmente y reactivar aplicaciones](images/Suspend-and-activate-apps.gif)
+
+{{< warning  headline="Reactivar la aplicación"  text="De la misma manera, puede reactivar aplicaciones inactivas en cualquier momento." />}}
+
+Puede reconocer una aplicación desactivada por la nota **(inactiva)** después del nombre de la aplicación.
+
+## Consecuencias de la desactivación
+
+Al desactivar una aplicación, **se revoca el acceso a todos los usuarios anteriores**. Ya no podrán ver la aplicación y ya no podrán usarla hasta que la reactives. Tenga en cuenta que no puede [editar](https://seatable.io/es/docs/apps/apps-bearbeiten/) ni [copiar](https://seatable.io/es/docs/apps/apps-kopieren/) una aplicación inactiva.
