@@ -1,5 +1,5 @@
 ---
-title: "Mise en cascade d'une sélection simple - SeaTable"
+title: "Mise en cascade d'une sélection simple"
 date: 2022-12-16
 lastmod: '2023-01-24'
 categories:

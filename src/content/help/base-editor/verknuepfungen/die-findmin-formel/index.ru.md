@@ -1,5 +1,5 @@
 ---
-title: 'Формула Финдмина - SeaTable'
+title: 'Формула Финдмина'
 date: 2023-02-13
 lastmod: '2023-02-13'
 categories:

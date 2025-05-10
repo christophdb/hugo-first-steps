@@ -1,11 +1,11 @@
 ---
-title: "Instruções para o módulo de estatísticas - SeaTable"
+title: 'Instruções para o módulo de estatísticas'
 date: 2023-02-06
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "vge"
-url: "/pt/ajuda/anleitung-zum-statistik-modul"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'vge'
+url: '/pt/ajuda/anleitung-zum-statistik-modul'
 ---
 
 O **módulo de estatísticas** permite-lhe visualizar os dados da sua tabela sob a forma de vários **gráficos** e **diagramas**. Isto é extremamente útil para o seu trabalho no SeaTable: graças aos **painéis de controlo**, tem sempre uma visão geral dos números e da evolução estatística da sua base.

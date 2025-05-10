@@ -1,11 +1,11 @@
 ---
-title: "Déplacer un tableau - SeaTable"
+title: 'Déplacer un tableau'
 date: 2022-10-11
-lastmod: "2025-02-25"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/fr/aide/verschieben-einer-tabelle"
+lastmod: '2025-02-25'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/fr/aide/verschieben-einer-tabelle'
 ---
 
 Au plus tard lorsque votre base s'est peu à peu remplie de divers tableaux, il est temps de réfléchir à un **ordre judicieux des tableaux** dans votre base. **Déplacez** les tableaux thématiques les uns à côté des autres et placez les tableaux les plus importants au début. Vous verrez que cela fonctionne : Grâce au **glisser-déposer**, le déplacement est un jeu d'enfant.

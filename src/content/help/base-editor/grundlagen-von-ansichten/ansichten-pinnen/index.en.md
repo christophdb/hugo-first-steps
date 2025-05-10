@@ -1,11 +1,11 @@
 ---
-title: "Pin views - SeaTable"
+title: 'Pin views'
 date: 2023-02-21
-lastmod: "2023-02-21"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "nsc2"
-url: "/help/ansichten-pinnen"
+lastmod: '2023-02-21'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'nsc2'
+url: '/help/ansichten-pinnen'
 ---
 
 In each table, you have the option of permanently displaying all available [views](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) in a navigation bar on the left-hand side. This is particularly useful if you often switch between views and **quick access** makes this more efficient.

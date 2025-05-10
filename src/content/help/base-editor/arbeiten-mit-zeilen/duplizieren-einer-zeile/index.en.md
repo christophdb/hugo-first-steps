@@ -1,11 +1,11 @@
 ---
-title: "Duplicate a row - SeaTable"
+title: 'Duplicate a row'
 date: 2022-10-14
-lastmod: "2023-01-05"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/help/duplizieren-einer-zeile"
+lastmod: '2023-01-05'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/help/duplizieren-einer-zeile'
 ---
 
 In SeaTable you have several options to duplicate a row . To find out which is the best approach in your situation, read this article.

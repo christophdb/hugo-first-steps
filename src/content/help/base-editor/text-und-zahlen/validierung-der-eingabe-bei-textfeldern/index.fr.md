@@ -1,5 +1,5 @@
 ---
-title: 'Validation de la saisie dans les champs de texte avec expressions régulières - SeaTable'
+title: 'Validation de la saisie dans les champs de texte avec expressions régulières'
 date: 2023-05-03
 lastmod: '2024-03-11'
 categories:

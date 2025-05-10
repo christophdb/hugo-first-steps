@@ -1,5 +1,5 @@
 ---
-title: 'rows lock by automation - SeaTable'
+title: 'rows lock by automation'
 date: 2023-01-27
 lastmod: '2023-03-31'
 categories:

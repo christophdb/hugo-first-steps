@@ -1,5 +1,5 @@
 ---
-title: 'Bedingte Anzeige von einzelnen Formularfeldern - SeaTable'
+title: 'Bedingte Anzeige von einzelnen Formularfeldern'
 date: 2023-01-08
 lastmod: '2024-02-14'
 categories:

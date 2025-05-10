@@ -1,11 +1,11 @@
 ---
-title: "Overview of all column types - SeaTable"
+title: 'Overview of all column types'
 date: 2022-08-25
-lastmod: "2024-03-18"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "cdb"
-url: "/help/uebersicht-alle-spaltentypen"
+lastmod: '2024-03-18'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'cdb'
+url: '/help/uebersicht-alle-spaltentypen'
 ---
 
 In SeaTable you can store information and data in a wide variety of formats.

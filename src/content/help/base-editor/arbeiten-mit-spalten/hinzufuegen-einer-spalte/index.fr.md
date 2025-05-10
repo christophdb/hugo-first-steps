@@ -1,5 +1,5 @@
 ---
-title: 'Ajouter une colonne - SeaTable'
+title: 'Ajouter une colonne'
 date: 2022-10-10
 lastmod: '2023-01-24'
 categories:

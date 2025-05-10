@@ -1,5 +1,5 @@
 ---
-title: 'Ocultar y mover columnas - SeaTable'
+title: 'Ocultar y mover columnas'
 date: 2022-10-26
 lastmod: '2023-01-02'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Filtrar entradas en una vista - SeaTable"
+title: 'Filtrar entradas en una vista'
 date: 2022-11-16
-lastmod: "2025-02-25"
-categories: 
-  - "ansichtsoptionen"
-author: "vge"
-url: "/es/ayuda/filtern-von-eintraegen-in-einer-ansicht"
+lastmod: '2025-02-25'
+categories:
+    - 'ansichtsoptionen'
+author: 'vge'
+url: '/es/ayuda/filtern-von-eintraegen-in-einer-ansicht'
 ---
 
 Con la función de filtrado de SeaTable, puede utilizar **reglas de** filtrado para filtrar las entradas deseadas de una tabla y mostrar sólo las entradas que cumplan determinados criterios. El conjunto de filtros sólo se refiere a la **vista activa**.

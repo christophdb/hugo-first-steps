@@ -1,5 +1,5 @@
 ---
-title: 'Delete images and files from a row - SeaTable'
+title: 'Delete images and files from a row'
 date: 2022-11-16
 lastmod: '2023-06-29'
 categories:

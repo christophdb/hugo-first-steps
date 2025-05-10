@@ -1,11 +1,11 @@
 ---
-title: "Options de configuration d'un formulaire web - SeaTable"
+title: "Options de configuration d'un formulaire web"
 date: 2023-01-08
-lastmod: "2024-02-14"
-categories: 
-  - "webformulare"
-author: "vge"
-url: "/fr/aide/konfigurationsmoeglichkeiten-eines-webformulars"
+lastmod: '2024-02-14'
+categories:
+    - 'webformulare'
+author: 'vge'
+url: '/fr/aide/konfigurationsmoeglichkeiten-eines-webformulars'
 ---
 
 Vous pouvez configurer votre formulaire web en termes d'apparence, de contenu et de fonctionnalité en adaptant les **paramètres du formulaire**, les **paramètres des champs** et le **schéma de couleurs**. Ce dernier point nécessite un abonnement Enterprise.

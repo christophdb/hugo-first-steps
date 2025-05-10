@@ -1,5 +1,5 @@
 ---
-title: 'Instrucciones para el plugin de pizarra (tldraw) - SeaTable'
+title: 'Instrucciones para el plugin de pizarra (tldraw)'
 date: 2025-04-24
 lastmod: '2025-04-24'
 categories:

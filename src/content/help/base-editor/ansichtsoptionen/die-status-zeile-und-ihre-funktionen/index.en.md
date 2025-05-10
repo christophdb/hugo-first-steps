@@ -1,11 +1,11 @@
 ---
-title: "The statusrow and its functions - SeaTable"
+title: 'The statusrow and its functions'
 date: 2023-02-21
-lastmod: "2023-02-21"
-categories: 
-  - "ansichtsoptionen"
-author: "nsc2"
-url: "/help/die-status-zeile-und-ihre-funktionen"
+lastmod: '2023-02-21'
+categories:
+    - 'ansichtsoptionen'
+author: 'nsc2'
+url: '/help/die-status-zeile-und-ihre-funktionen'
 ---
 
 The **status-row** is located at the bottom of your tables and basically fulfills two different functions, which are explained in more detail in this article:

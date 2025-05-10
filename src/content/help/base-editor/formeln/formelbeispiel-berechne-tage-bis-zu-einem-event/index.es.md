@@ -1,5 +1,5 @@
 ---
-title: 'Ejemplo de fórmula: Calcular los días que faltan para un acontecimiento - SeaTable'
+title: 'Ejemplo de fórmula: Calcular los días que faltan para un acontecimiento'
 date: 2023-01-28
 lastmod: '2023-09-21'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Gatilho de automatização - SeaTable"
+title: 'Gatilho de automatização'
 date: 2023-01-27
-lastmod: "2024-02-12"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/pt/ajuda/automations-trigger"
+lastmod: '2024-02-12'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/pt/ajuda/automations-trigger'
 ---
 
 {{< required-version "Empresa" >}}
@@ -83,7 +83,7 @@ Este acionador é uma mistura do acionador periódico e do acionador "As entrada
 
 Além disso, com este evento de disparo pode definir individualmente certas **condições para** cada coluna da tabela, que as **entradas** na respectiva coluna devem cumprir para que a automatização seja concluída no momento especificado.
 
-![Desencadeamento automático: &quot;Desencadeamento periódico quando as entradas satisfazem determinadas condições&quot;.](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
+![Desencadeamento automático: "Desencadeamento periódico quando as entradas satisfazem determinadas condições".](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
 
 Se selecionar a opção "Acionamento periódico para entradas que satisfazem determinadas condições" para uma automatização, as seguintes **acções automáticas** estão disponíveis para seleção:
 

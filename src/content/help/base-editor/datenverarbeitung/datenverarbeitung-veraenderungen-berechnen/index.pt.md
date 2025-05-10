@@ -1,11 +1,11 @@
 ---
-title: "Processamento de dados: Calcular alterações - SeaTable"
+title: 'Processamento de dados: Calcular alterações'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/pt/ajuda/datenverarbeitung-veraenderungen-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/pt/ajuda/datenverarbeitung-veraenderungen-berechnen'
 ---
 
 Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. Uma operação é o **cálculo das alterações**, com a qual se podem calcular as alterações de valor para valor numa coluna numérica. Para o fazer, basta definir uma operação de processamento de dados correspondente através das opções de visualização da sua tabela.

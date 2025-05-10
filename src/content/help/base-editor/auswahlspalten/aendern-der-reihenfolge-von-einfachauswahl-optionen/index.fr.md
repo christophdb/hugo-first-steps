@@ -1,5 +1,5 @@
 ---
-title: "Modifier l'ordre des options de sélection simple - SeaTable"
+title: "Modifier l'ordre des options de sélection simple"
 date: 2023-01-07
 lastmod: '2024-04-15'
 categories:

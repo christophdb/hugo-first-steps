@@ -1,11 +1,11 @@
 ---
-title: "Pin Views - SeaTable"
+title: 'Pin Views'
 date: 2023-02-21
-lastmod: "2023-02-21"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "nsc2"
-url: "/es/ayuda/ansichten-pinnen"
+lastmod: '2023-02-21'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'nsc2'
+url: '/es/ayuda/ansichten-pinnen'
 ---
 
 En cada tabla tiene la opción de mostrar permanentemente todas las [vistas](https://seatable.io/es/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) disponibles en una barra de navegación en el margen izquierdo. Esto tiene sentido sobre todo si cambias a menudo de vista y un **acceso** hace que esto sea más eficiente.

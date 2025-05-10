@@ -1,5 +1,5 @@
 ---
-title: 'Instrucciones para el plugin Árbol - SeaTable'
+title: 'Instrucciones para el plugin Árbol'
 date: 2024-12-10
 lastmod: '2024-12-10'
 categories:

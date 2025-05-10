@@ -1,5 +1,5 @@
 ---
-title: "Utilisation d'emojis dans le nom d'une table - SeaTable"
+title: "Utilisation d'emojis dans le nom d'une table"
 date: 2022-12-13
 lastmod: '2025-02-28'
 categories:

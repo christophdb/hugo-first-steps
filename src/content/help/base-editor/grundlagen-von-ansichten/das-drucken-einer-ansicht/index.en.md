@@ -1,11 +1,11 @@
 ---
-title: "Printing a view - SeaTable"
+title: 'Printing a view'
 date: 2022-11-07
-lastmod: "2023-06-28"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/help/das-drucken-einer-ansicht"
+lastmod: '2023-06-28'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/help/das-drucken-einer-ansicht'
 ---
 
 Different **views** can facilitate working with tables that contain a lot of information. You can also **print** these views.

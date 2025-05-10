@@ -1,5 +1,5 @@
 ---
-title: 'Ajustar la altura de la fila - SeaTable'
+title: 'Ajustar la altura de la fila'
 date: 2022-10-26
 lastmod: '2023-03-28'
 categories:

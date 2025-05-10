@@ -1,11 +1,11 @@
 ---
-title: "The permanent column - SeaTable"
+title: 'The permanent column'
 date: 2023-01-07
-lastmod: "2023-01-23"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/help/die-dauer-spalte"
+lastmod: '2023-01-23'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/help/die-dauer-spalte'
 ---
 
 The **duration column** is particularly suitable for recording the duration of various events. It can record a **period of time** to the minute or even to the second. For example, the duration column can be used in conjunction with a [date](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) column for recording working hours.

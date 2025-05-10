@@ -1,5 +1,5 @@
 ---
-title: 'Verrouiller des lignes par automation - SeaTable'
+title: 'Verrouiller des lignes par automation'
 date: 2023-01-27
 lastmod: '2023-03-31'
 categories:

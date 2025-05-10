@@ -1,11 +1,11 @@
 ---
-title: "Diferenças entre as fórmulas em Excel e SeaTable - SeaTable"
+title: 'Diferenças entre as fórmulas em Excel e SeaTable'
 date: 2023-02-03
-lastmod: "2023-02-03"
-categories: 
-  - "formeln"
-author: "ssc"
-url: "/pt/ajuda/unterschiede-zwischen-formeln-in-excel-und-seatable"
+lastmod: '2023-02-03'
+categories:
+    - 'formeln'
+author: 'ssc'
+url: '/pt/ajuda/unterschiede-zwischen-formeln-in-excel-und-seatable'
 ---
 
 É um utilizador de Excel que está familiarizado com a escrita de fórmulas e está apenas a começar com o SeaTable?  

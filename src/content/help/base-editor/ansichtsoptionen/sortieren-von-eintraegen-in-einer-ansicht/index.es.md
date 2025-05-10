@@ -1,5 +1,5 @@
 ---
-title: 'Ordenar las entradas en una vista - SeaTable'
+title: 'Ordenar las entradas en una vista'
 date: 2022-10-26
 lastmod: '2023-01-09'
 categories:

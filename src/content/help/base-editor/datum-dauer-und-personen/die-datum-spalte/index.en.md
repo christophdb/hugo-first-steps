@@ -1,11 +1,11 @@
 ---
-title: "The date column - SeaTable"
+title: 'The date column'
 date: 2023-01-23
-lastmod: "2023-11-08"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/help/die-datum-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/help/die-datum-spalte'
 ---
 
 You can use the date column to enter **times** and **dates** in your tables down to the minute. Simply use the displayed calendar or your keyboard to enter a date manually. Please note that SeaTable does not accept any other data inputs in a date column.

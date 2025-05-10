@@ -1,5 +1,5 @@
 ---
-title: 'Créer une nouvelle vue - SeaTable'
+title: 'Créer une nouvelle vue'
 date: 2022-10-10
 lastmod: '2023-01-02'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Introdução às possibilidades do Big Data - SeaTable"
+title: 'Introdução às possibilidades do Big Data'
 date: 2023-05-12
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "cdb"
-url: "/pt/ajuda/potenzial-big-data"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'cdb'
+url: '/pt/ajuda/potenzial-big-data'
 ---
 
 {{< required-version "Empresa" >}}

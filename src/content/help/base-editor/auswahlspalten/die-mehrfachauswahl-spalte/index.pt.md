@@ -1,11 +1,11 @@
 ---
-title: "A Coluna de Selecção Múltipla - SeaTable"
+title: 'A Coluna de Selecção Múltipla'
 date: 2023-03-28
-lastmod: "2023-04-27"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/pt/ajuda/die-mehrfachauswahl-spalte"
+lastmod: '2023-04-27'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/pt/ajuda/die-mehrfachauswahl-spalte'
 ---
 
 Uma coluna multi-selecção é ideal se quiser atribuir as suas linhas numa coluna **várias opções** de uma lista de opções a serem definidas. As opções são dadas etiquetas coloridas que pode utilizar para rotular os seus registos e tornar as tabelas claras, por exemplo, através [de filtragem](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) para opções específicas.

@@ -1,5 +1,5 @@
 ---
-title: 'Data recovery options with SeaTable - SeaTable'
+title: 'Data recovery options with SeaTable'
 date: 2022-10-11
 lastmod: '2023-01-11'
 categories:

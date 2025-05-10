@@ -1,11 +1,11 @@
 ---
-title: "Data processing: Calculate changes - SeaTable"
+title: 'Data processing: Calculate changes'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/help/datenverarbeitung-veraenderungen-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/help/datenverarbeitung-veraenderungen-berechnen'
 ---
 
 Using the data processing function, you can perform various operations over a column. One operation is the **calculation of changes**, which allows you to calculate the changes from value to value in a numeric column. To do this, simply define an appropriate data processing operation using the view options of your table.

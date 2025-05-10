@@ -1,5 +1,5 @@
 ---
-title: 'Restoring a snapshot - SeaTable'
+title: 'Restoring a snapshot'
 date: 2022-10-11
 lastmod: '2024-08-05'
 categories:

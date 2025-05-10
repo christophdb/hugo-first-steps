@@ -1,5 +1,5 @@
 ---
-title: "Supprimer des images et des fichiers d'une ligne - SeaTable"
+title: "Supprimer des images et des fichiers d'une ligne"
 date: 2022-11-16
 lastmod: '2023-06-29'
 categories:

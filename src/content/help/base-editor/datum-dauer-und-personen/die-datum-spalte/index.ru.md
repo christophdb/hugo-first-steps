@@ -1,11 +1,11 @@
 ---
-title: "Колонка даты - SeaTable"
+title: 'Колонка даты'
 date: 2023-01-23
-lastmod: "2023-11-08"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/ru/help/die-datum-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/ru/help/die-datum-spalte'
 ---
 
 С помощью столбца даты можно вводить в таблицы **время** и **даты** с точностью до минуты. Для ввода даты вручную достаточно воспользоваться появившимся календарем или клавиатурой. Обратите внимание, что SeaTable не принимает никаких других данных, вводимых в колонку даты.

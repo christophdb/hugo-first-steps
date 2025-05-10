@@ -1,5 +1,5 @@
 ---
-title: 'Комментарий к рядам - SeaTable'
+title: 'Комментарий к рядам'
 date: 2022-11-16
 lastmod: '2025-02-27'
 categories:

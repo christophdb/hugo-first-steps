@@ -1,5 +1,5 @@
 ---
-title: 'Creación de un formulario web - SeaTable'
+title: 'Creación de un formulario web'
 date: 2022-11-21
 lastmod: '2024-02-14'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Modifier l'ordre des lignes - SeaTable"
+title: "Modifier l'ordre des lignes"
 date: 2022-11-16
 lastmod: '2023-02-16'
 categories:

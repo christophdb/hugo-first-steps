@@ -1,5 +1,5 @@
 ---
-title: 'La colonne des e-mails - SeaTable'
+title: 'La colonne des e-mails'
 date: 2022-10-10
 lastmod: '2023-02-10'
 categories:

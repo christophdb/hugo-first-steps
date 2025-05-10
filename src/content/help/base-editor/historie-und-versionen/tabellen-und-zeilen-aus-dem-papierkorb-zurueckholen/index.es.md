@@ -1,5 +1,5 @@
 ---
-title: 'Recuperar tablas, filas y columnas de la papelera - SeaTable'
+title: 'Recuperar tablas, filas y columnas de la papelera'
 date: 2022-10-11
 lastmod: '2023-01-11'
 categories:

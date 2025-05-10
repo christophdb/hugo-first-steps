@@ -1,5 +1,5 @@
 ---
-title: 'Exemple de formule : Multiplication simple par une formule - SeaTable'
+title: 'Exemple de formule : Multiplication simple par une formule'
 date: 2023-01-28
 lastmod: '2023-09-14'
 categories:

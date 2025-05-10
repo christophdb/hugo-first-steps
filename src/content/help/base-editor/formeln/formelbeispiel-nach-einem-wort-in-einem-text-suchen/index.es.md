@@ -1,5 +1,5 @@
 ---
-title: 'Ejemplo de fórmula: Buscar una palabra en un texto - SeaTable'
+title: 'Ejemplo de fórmula: Buscar una palabra en un texto'
 date: 2023-01-28
 lastmod: '2023-09-19'
 categories:

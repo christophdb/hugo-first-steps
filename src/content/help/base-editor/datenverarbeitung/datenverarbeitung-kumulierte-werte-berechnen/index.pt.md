@@ -1,11 +1,11 @@
 ---
-title: "Processamento de dados: Calcular valores acumulados - SeaTable"
+title: 'Processamento de dados: Calcular valores acumulados'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/pt/ajuda/datenverarbeitung-kumulierte-werte-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/pt/ajuda/datenverarbeitung-kumulierte-werte-berechnen'
 ---
 
 Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. Uma operação é o **cálculo de valores acumulados**, com a qual se pode acumular todos os valores de uma coluna numérica. Para o fazer, basta definir uma operação de processamento de dados correspondente através das opções de visualização da sua tabela.

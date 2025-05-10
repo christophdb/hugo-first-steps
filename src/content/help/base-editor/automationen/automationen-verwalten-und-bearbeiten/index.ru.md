@@ -1,11 +1,11 @@
 ---
-title: "Управление и редактирование автоматизаций - SeaTable"
+title: 'Управление и редактирование автоматизаций'
 date: 2023-01-27
-lastmod: "2023-02-01"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/ru/help/automationen-verwalten-und-bearbeiten"
+lastmod: '2023-02-01'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/ru/help/automationen-verwalten-und-bearbeiten'
 ---
 
 {{< required-version "Предприятие" >}}

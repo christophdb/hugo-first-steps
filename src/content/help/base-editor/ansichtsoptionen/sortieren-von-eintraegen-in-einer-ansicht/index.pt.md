@@ -1,5 +1,5 @@
 ---
-title: 'Classificar entradas numa vista - SeaTable'
+title: 'Classificar entradas numa vista'
 date: 2022-10-26
 lastmod: '2023-01-09'
 categories:

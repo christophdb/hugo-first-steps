@@ -1,5 +1,5 @@
 ---
-title: "Ajouter des entrées à d'autres tableaux par automatisation - SeaTable"
+title: "Ajouter des entrées à d'autres tableaux par automatisation"
 date: 2023-03-03
 lastmod: '2023-04-12'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Развернутые таблицы - SeaTable"
+title: 'Развернутые таблицы'
 date: 2024-03-18
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "kgr"
-url: "/ru/help/pivot-tabellen"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'kgr'
+url: '/ru/help/pivot-tabellen'
 ---
 
 Разворотные таблицы - это мощные инструменты анализа, с помощью которых вы можете в течение нескольких секунд получить нужные результаты даже из больших и запутанных наборов данных. С помощью **модуля статистики** создание разворотных таблиц не требует особых усилий.

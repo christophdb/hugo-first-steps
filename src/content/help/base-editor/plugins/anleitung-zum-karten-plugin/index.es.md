@@ -1,5 +1,5 @@
 ---
-title: 'Guía de plugins de mapas - SeaTable'
+title: 'Guía de plugins de mapas'
 date: 2023-02-06
 lastmod: '2023-06-29'
 categories:

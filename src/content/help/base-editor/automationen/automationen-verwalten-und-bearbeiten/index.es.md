@@ -1,11 +1,11 @@
 ---
-title: "Gestionar y editar automatizaciones - SeaTable"
+title: 'Gestionar y editar automatizaciones'
 date: 2023-01-27
-lastmod: "2023-02-01"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/es/ayuda/automationen-verwalten-und-bearbeiten"
+lastmod: '2023-02-01'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/es/ayuda/automationen-verwalten-und-bearbeiten'
 ---
 
 {{< required-version "Empresa" >}}

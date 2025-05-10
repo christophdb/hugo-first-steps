@@ -1,11 +1,11 @@
 ---
-title: "Texte statique - SeaTable"
+title: 'Texte statique'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/fr/aide/statischer-text"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/fr/aide/statischer-text'
 ---
 
 Le **texte statique** vous offre la possibilité d'intégrer **des éléments de texte** tels que des titres ou du texte courant dans une page. C'est très utile pour créer **des modèles de documents** que vous pourrez ensuite personnaliser avec les données de votre tableau.

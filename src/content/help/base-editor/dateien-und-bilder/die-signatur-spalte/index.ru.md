@@ -1,5 +1,5 @@
 ---
-title: 'Фирменная колонка - SeaTable'
+title: 'Фирменная колонка'
 date: 2023-06-27
 lastmod: '2024-03-18'
 categories:

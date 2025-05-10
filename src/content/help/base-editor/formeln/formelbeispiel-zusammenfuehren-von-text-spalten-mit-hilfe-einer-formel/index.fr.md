@@ -1,5 +1,5 @@
 ---
-title: "Exemple de formule : Fusionner des colonnes de texte à l'aide d'une formule - SeaTable"
+title: "Exemple de formule : Fusionner des colonnes de texte à l'aide d'une formule"
 date: 2023-01-28
 lastmod: '2023-09-18'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'A Coluna Arquivo - SeaTable'
+title: 'A Coluna Arquivo'
 date: 2022-11-16
 lastmod: '2024-08-02'
 categories:

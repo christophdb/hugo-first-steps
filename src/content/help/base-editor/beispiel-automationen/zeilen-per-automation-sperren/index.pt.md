@@ -1,5 +1,5 @@
 ---
-title: 'Linhas de bloqueio via automatização - SeaTable'
+title: 'Linhas de bloqueio via automatização'
 date: 2023-01-27
 lastmod: '2023-03-31'
 categories:

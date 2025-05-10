@@ -1,11 +1,11 @@
 ---
-title: "The button - SeaTable"
+title: 'The button'
 date: 2023-01-07
-lastmod: "2023-08-23"
-categories: 
-  - "andere-spalten"
-author: "nsc2"
-url: "/help/die-schaltflaeche"
+lastmod: '2023-08-23'
+categories:
+    - 'andere-spalten'
+author: 'nsc2'
+url: '/help/die-schaltflaeche'
 ---
 
 The Button column has a similar function to [automations](https://seatable.io/en/docs/arbeiten-mit-automationen/anlegen-einer-automation/), where you always have to operate buttons **manually**. Using the **button** you can add in this column to your **rows** you trigger **actions** defined in advance. For this reason, this type of column is particularly suitable for automating process steps.

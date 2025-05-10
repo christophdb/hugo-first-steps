@@ -1,5 +1,5 @@
 ---
-title: 'Whiteboard plugin instructions (deprecated) - SeaTable'
+title: 'Whiteboard plugin instructions (deprecated)'
 date: 2024-08-01
 lastmod: '2025-04-24'
 categories:

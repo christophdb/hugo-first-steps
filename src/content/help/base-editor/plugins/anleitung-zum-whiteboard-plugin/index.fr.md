@@ -1,5 +1,5 @@
 ---
-title: 'Instructions pour le plugin de tableau blanc (obsolète) - SeaTable'
+title: 'Instructions pour le plugin de tableau blanc (obsolète)'
 date: 2024-08-01
 lastmod: '2025-04-24'
 categories:

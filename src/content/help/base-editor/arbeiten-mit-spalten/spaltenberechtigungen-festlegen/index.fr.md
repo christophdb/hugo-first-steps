@@ -1,5 +1,5 @@
 ---
-title: 'Définir les autorisations de colonne - SeaTable'
+title: 'Définir les autorisations de colonne'
 date: 2023-02-21
 lastmod: '2023-02-21'
 categories:

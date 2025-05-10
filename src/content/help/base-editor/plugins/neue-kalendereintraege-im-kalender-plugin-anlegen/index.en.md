@@ -1,5 +1,5 @@
 ---
-title: 'Create new calendar entries in calendar plugin - SeaTable'
+title: 'Create new calendar entries in calendar plugin'
 date: 2023-01-08
 lastmod: '2025-02-27'
 categories:

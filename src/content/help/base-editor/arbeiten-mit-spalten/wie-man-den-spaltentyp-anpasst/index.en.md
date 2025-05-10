@@ -1,5 +1,5 @@
 ---
-title: 'How to customize the column type - SeaTable'
+title: 'How to customize the column type'
 date: 2022-10-10
 lastmod: '2024-03-15'
 categories:

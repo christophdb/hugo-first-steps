@@ -1,5 +1,5 @@
 ---
-title: 'Execution limit for automations - SeaTable'
+title: 'Execution limit for automations'
 date: 2023-08-07
 lastmod: '2023-08-07'
 categories:

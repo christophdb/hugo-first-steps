@@ -1,5 +1,5 @@
 ---
-title: 'Como remover ficheiros permanentemente - SeaTable'
+title: 'Como remover ficheiros permanentemente'
 date: 2022-11-16
 lastmod: '2024-03-18'
 categories:

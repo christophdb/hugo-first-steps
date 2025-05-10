@@ -1,5 +1,5 @@
 ---
-title: 'Desfazer acções - SeaTable'
+title: 'Desfazer acções'
 date: 2022-09-28
 lastmod: '2022-12-28'
 categories:

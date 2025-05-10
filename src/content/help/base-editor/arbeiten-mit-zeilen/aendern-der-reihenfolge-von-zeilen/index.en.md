@@ -1,5 +1,5 @@
 ---
-title: 'Changing the order of rows - SeaTable'
+title: 'Changing the order of rows'
 date: 2022-11-16
 lastmod: '2023-02-16'
 categories:

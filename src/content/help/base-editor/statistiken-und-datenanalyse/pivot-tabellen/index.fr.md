@@ -1,11 +1,11 @@
 ---
-title: "Tableaux croisés dynamiques - SeaTable"
+title: 'Tableaux croisés dynamiques'
 date: 2024-03-18
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "kgr"
-url: "/fr/aide/pivot-tabellen"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'kgr'
+url: '/fr/aide/pivot-tabellen'
 ---
 
 Les tableaux croisés dynamiques sont des outils d'analyse puissants qui vous permettent d'obtenir les résultats recherchés en quelques secondes, même à partir de grandes bases de données encombrantes. Grâce au **module Statistiques**, la création de tableaux croisés dynamiques est un jeu d'enfant.

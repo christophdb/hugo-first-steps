@@ -1,11 +1,11 @@
 ---
-title: "A general overview - SeaTable"
+title: 'A general overview'
 date: 2022-08-25
-lastmod: "2023-05-12"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/help/allgemeiner-ueberblick"
+lastmod: '2023-05-12'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/help/allgemeiner-ueberblick'
 ---
 
 In SeaTable you organize data of any type and any format, just as you want it: Appointments and tasks for the upcoming product launch, image material for the next exhibition as well as property data for efficient property management. But the use of such a powerful tool as SeaTable needs to be learned.

@@ -1,5 +1,5 @@
 ---
-title: 'Mostrar registro de ejecución de una automatización - SeaTable'
+title: 'Mostrar registro de ejecución de una automatización'
 date: 2023-01-26
 lastmod: '2023-02-01'
 categories:

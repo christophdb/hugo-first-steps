@@ -1,11 +1,11 @@
 ---
-title: "Pré-remplir les champs de formulaire - SeaTable"
+title: 'Pré-remplir les champs de formulaire'
 date: 2023-01-08
-lastmod: "2024-03-18"
-categories: 
-  - "webformulare"
-author: "vge"
-url: "/fr/aide/formularfelder-per-url-vorbefuellen"
+lastmod: '2024-03-18'
+categories:
+    - 'webformulare'
+author: 'vge'
+url: '/fr/aide/formularfelder-per-url-vorbefuellen'
 ---
 
 Pour **pré-remplir les formulaires web**, vous avez la possibilité de définir des valeurs par défaut dans les champs du formulaire. Vous pouvez le faire directement dans l'URL ou à l'aide d'une fonction conviviale dans SeaTable.
@@ -36,13 +36,13 @@ Le résultat, c'est-à-dire l'URL étendue, est le même que celui de la procéd
 1. Créez un [formulaire web](https://seatable.io/fr/docs/webformulare/webformulare/).
 2. Dans l'éditeur de formulaire web, cliquez sur le bouton {{< seatable-icon icon="dtable-icon-share" >}} **Partager** pour obtenir le lien vers le formulaire web.
 3. **Copiez** le lien et collez-le dans un nouvel onglet dans **la ligne de recherche du navigateur**, où vous pourrez le modifier et le tester.
-4. Pour pré-remplir un champ de formulaire avec une valeur standard, ajoutez la chaîne de caractères **/?prefill\_COLUMNNAME=PREFILLVALUE'** au lien du formulaire.
+4. Pour pré-remplir un champ de formulaire avec une valeur standard, ajoutez la chaîne de caractères **/?prefill_COLUMNNAME=PREFILLVALUE'** au lien du formulaire.
 
 Au lieu de **COLUMNNAME**, insérez le nom du champ que vous souhaitez remplir ; pour **PREFILLVALUE**, insérez la valeur standard souhaitée. Les espaces doivent être écrits sous la forme **%20**. Veillez à respecter les majuscules et les minuscules.
 
-**Exemple**: Si vous souhaitez envoyer à Joe Smith un formulaire web personnalisé dans lequel son nom est déjà inscrit, ajoutez la chaîne **/?prefill\_Name=Joe%20Smith** au lien du formulaire.
+**Exemple**: Si vous souhaitez envoyer à Joe Smith un formulaire web personnalisé dans lequel son nom est déjà inscrit, ajoutez la chaîne **/?prefill_Name=Joe%20Smith** au lien du formulaire.
 
-Pour utiliser **plusieurs valeurs par défaut**, concaténer les entrées de pré-remplissage avec le **signe &**: /?**prefill\_COLUMNNAME=PREFILLVALUE&prefill\_COLUMNNAME=PREFILLVALUE**
+Pour utiliser **plusieurs valeurs par défaut**, concaténer les entrées de pré-remplissage avec le **signe &**: /?**prefill_COLUMNNAME=PREFILLVALUE&prefill_COLUMNNAME=PREFILLVALUE**
 
 Une fois que vous avez terminé, vous pouvez tester le lien en appuyant sur la **touche "Entrée"** et en affichant le formulaire web. Si tout s'est bien passé, vous pouvez voir dans cet **aperçu** les valeurs par défaut pré-remplies.
 
@@ -50,29 +50,29 @@ Une fois que vous avez terminé, vous pouvez tester le lien en appuyant sur la *
 
 Selon le type de colonne sur lequel repose un champ de formulaire, le pré-remplissage n'est pas toujours possible. Dans l'aperçu suivant, vous pouvez voir quels types de colonnes permettent le pré-remplissage par URL et lesquels ne le permettent pas.
 
-| Type de colonne | soutient le pré-remplissage |
-| --- | --- |
-| Numéro automatique |  |
-| Image |  |
-| Case à cocher |  |
-| Fichier |  |
-| Date |  |
-| Durée |  |
-| Sélection unique |  |
-| Courriel : |  |
-| Créateur |  |
-| Créé |  |
-| Texte formaté |  |
-| Formule |  |
-| Formule pour les liens |  |
-| Géoposition |  |
-| Dernier responsable |  |
-| Sélection multiple |  |
-| Employés |  |
-| Rating |  |
-| Bouton |  |
-| Signature |  |
-| Texte |  |
-| URL |  |
-| Nombre |  |
-| Dernièrement édité |  |
+| Type de colonne        | soutient le pré-remplissage |
+| ---------------------- | --------------------------- |
+| Numéro automatique     |                             |
+| Image                  |                             |
+| Case à cocher          |                             |
+| Fichier                |                             |
+| Date                   |                             |
+| Durée                  |                             |
+| Sélection unique       |                             |
+| Courriel :             |                             |
+| Créateur               |                             |
+| Créé                   |                             |
+| Texte formaté          |                             |
+| Formule                |                             |
+| Formule pour les liens |                             |
+| Géoposition            |                             |
+| Dernier responsable    |                             |
+| Sélection multiple     |                             |
+| Employés               |                             |
+| Rating                 |                             |
+| Bouton                 |                             |
+| Signature              |                             |
+| Texte                  |                             |
+| URL                    |                             |
+| Nombre                 |                             |
+| Dernièrement édité     |                             |

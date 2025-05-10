@@ -1,5 +1,5 @@
 ---
-title: 'Activación de un plugin en una base - SeaTable'
+title: 'Activación de un plugin en una base'
 date: 2022-11-07
 lastmod: '2023-02-02'
 categories:

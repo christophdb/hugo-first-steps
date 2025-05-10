@@ -1,5 +1,5 @@
 ---
-title: 'Add entries to other tables via automation - SeaTable'
+title: 'Add entries to other tables via automation'
 date: 2023-03-03
 lastmod: '2023-04-12'
 categories:

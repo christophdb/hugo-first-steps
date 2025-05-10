@@ -1,5 +1,5 @@
 ---
-title: 'Дублирование таблицы - SeaTable'
+title: 'Дублирование таблицы'
 date: 2024-02-20
 lastmod: '2024-02-20'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Creating an Automation - SeaTable"
+title: 'Creating an Automation'
 date: 2022-12-06
-lastmod: "2023-03-10"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/help/anlegen-einer-automation"
+lastmod: '2023-03-10'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/help/anlegen-einer-automation'
 ---
 
 {{< required-version "Enterprise" >}}

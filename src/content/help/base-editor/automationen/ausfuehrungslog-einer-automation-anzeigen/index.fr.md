@@ -1,5 +1,5 @@
 ---
-title: "Afficher le journal d'exécution d'une automatisation - SeaTable"
+title: "Afficher le journal d'exécution d'une automatisation"
 date: 2023-01-26
 lastmod: '2023-02-01'
 categories:

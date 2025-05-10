@@ -1,11 +1,11 @@
 ---
-title: "Agrupar, clasificar y filtrar - SeaTable"
+title: 'Agrupar, clasificar y filtrar'
 date: 2022-08-25
-lastmod: "2022-08-29"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "cdb"
-url: "/es/ayuda/gruppierung-sortierung-und-filter"
+lastmod: '2022-08-29'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'cdb'
+url: '/es/ayuda/gruppierung-sortierung-und-filter'
 ---
 
 SeaTable ofrece varios métodos para analizar los datos. Los filtros, la clasificación y la agrupación son herramientas de evaluación sencillas de SeaTable. Con unos pocos clics, puede reorganizar sus datos y obtener la información que desea más fácilmente. Sin embargo, sencillo no significa simplista. Utilizados correctamente, especialmente en combinación, los filtros, la clasificación y la agrupación ofrecen una amplia gama de opciones de evaluación.
@@ -16,8 +16,8 @@ El filtrado, la clasificación y la agrupación de las tablas se realiza mediant
 
 ## Grupo
 
-Con la función de agrupación, puede combinar las entradas de la tabla en agrupaciones y determinar estadísticas descriptivas sencillas como el número de elementos, el total de la columna y el valor medio a través de las agrupaciones.  
-  
+Con la función de agrupación, puede combinar las entradas de la tabla en agrupaciones y determinar estadísticas descriptivas sencillas como el número de elementos, el total de la columna y el valor medio a través de las agrupaciones.
+
 La agrupación se realiza utilizando valores idénticos en la columna seleccionada para la agrupación. Por ejemplo, si organiza las tareas de los miembros de su equipo en una tabla, podrá ver las tareas pendientes por miembro del equipo con una agrupación mediante la columna de miembros.
 
 Si desea visualizar sus datos con mayor precisión, utilice las agrupaciones anidadas. Puede seleccionar varias características de agrupación y así hacer agrupaciones subordinadas. Por ejemplo, puede agrupar los productos primero por color, luego por material y después por tamaño. Esto abre nuevas posibilidades de estructuración de los datos.
@@ -44,7 +44,7 @@ Todas las filas con celdas vacías en la columna de agrupación se combinan -ind
 
 La función de ordenación permite mostrar las entradas no ordenadas de una tabla en una secuencia ordenada.
 
-La regla más sencilla es ordenar una tabla en orden ascendente o descendente según los valores de una columna. Sin embargo, para grandes conjuntos de datos, se pueden utilizar varias reglas de clasificación. Con varias reglas de ordenación, las filas de la tabla se ordenan primero según la primera regla. Las filas con los mismos valores según la primera regla de ordenación se ordenan según la segunda regla.  
+La regla más sencilla es ordenar una tabla en orden ascendente o descendente según los valores de una columna. Sin embargo, para grandes conjuntos de datos, se pueden utilizar varias reglas de clasificación. Con varias reglas de ordenación, las filas de la tabla se ordenan primero según la primera regla. Las filas con los mismos valores según la primera regla de ordenación se ordenan según la segunda regla.
 
 ### Establecer la clasificación
 
@@ -84,7 +84,6 @@ En el caso de las reglas de filtrado, a diferencia de las reglas de agrupación 
 - Criterio de filtrado: Relación entre la columna filtrada y el valor del filtro (por ejemplo, "es", "contiene", "está vacío")
 - Valor del filtro: El valor por el que se va a filtrar (por ejemplo, "123", "hecho").
 
-  
 Las reglas de filtrado también pueden vincularse con los dos operadores booleanos AND y OR. Con un enlace Y, sólo se filtran las entradas que cumplen todas las condiciones vinculadas. Con la operación OR, puede filtrar las entradas que cumplan al menos una de las condiciones definidas. Con tres o más reglas de filtrado, también se pueden utilizar conjuntamente los operadores AND y OR.
 
 ### Configurar la filtración

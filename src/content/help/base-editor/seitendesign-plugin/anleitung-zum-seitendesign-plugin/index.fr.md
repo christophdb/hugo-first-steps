@@ -1,5 +1,5 @@
 ---
-title: 'Instructions pour le plugin de conception de pages - SeaTable'
+title: 'Instructions pour le plugin de conception de pages'
 date: 2023-02-07
 lastmod: '2023-07-04'
 categories:

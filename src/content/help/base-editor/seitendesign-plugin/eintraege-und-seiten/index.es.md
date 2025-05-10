@@ -1,11 +1,11 @@
 ---
-title: "Entradas y páginas - SeaTable"
+title: 'Entradas y páginas'
 date: 2023-02-08
-lastmod: "2023-02-09"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/es/ayuda/eintraege-und-seiten"
+lastmod: '2023-02-09'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/es/ayuda/eintraege-und-seiten'
 ---
 
 Con el [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), es importante entender la diferencia entre entradas y páginas. Mientras que las **páginas** adicionales amplían un documento independientemente del contenido de la tabla, las **entradas** asignan registros diferentes de las filas de la tabla.

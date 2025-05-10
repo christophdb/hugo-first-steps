@@ -1,11 +1,11 @@
 ---
-title: "Добавление описания столбца - SeaTable"
+title: 'Добавление описания столбца'
 date: 2022-10-10
-lastmod: "2024-03-15"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "nsc2"
-url: "/ru/help/hinzufuegen-einer-spaltenbeschreibung"
+lastmod: '2024-03-15'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'nsc2'
+url: '/ru/help/hinzufuegen-einer-spaltenbeschreibung'
 ---
 
 Чтобы хранить информацию, инструкции или пояснения о столбце, вы можете добавить описание к столбцам вашей таблицы в SeaTable. Здесь вы можете узнать, как это сделать:

@@ -1,18 +1,18 @@
 ---
-title: "Доступ к удаленным файлам и изображениям - SeaTable"
+title: 'Доступ к удаленным файлам и изображениям'
 date: 2023-01-07
-lastmod: "2024-03-18"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/ru/help/zugriff-auf-geloeschte-anhaenge"
+lastmod: '2024-03-18'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/ru/help/zugriff-auf-geloeschte-anhaenge'
 ---
 
 **Файлы** и **изображения**, которые вы удалили из [колонки](https://seatable.io/ru/docs/datei-und-bildanhaenge/die-datei-spalte/) [изображений](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/) или [файлов](https://seatable.io/ru/docs/datei-und-bildanhaenge/die-datei-spalte/), **не удаляются окончательно**. Эти удаленные файлы остаются в [файловом менеджере](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base и могут быть **восстановлены** двумя различными способами.
 
 ## Последняя загрузка
 
-![Доступ к удаленным файлам через раздел &quot;Последняя загрузка&quot; в колонке файлов](images/recently-uploaded-files.gif)
+![Доступ к удаленным файлам через раздел "Последняя загрузка" в колонке файлов](images/recently-uploaded-files.gif)
 
 1. Откройте окно **Все файлы** или **Все изображения** **двойным щелчком** по **ячейке** столбца файлов или изображений.
 2. Нажмите кнопку **Добавить файлы/изображения** и выберите опцию **Последняя загрузка**.

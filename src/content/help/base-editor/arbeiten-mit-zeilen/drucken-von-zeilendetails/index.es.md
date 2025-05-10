@@ -1,5 +1,5 @@
 ---
-title: 'Imprimir detalles de la fila - SeaTable'
+title: 'Imprimir detalles de la fila'
 date: 2022-11-16
 lastmod: '2023-08-16'
 categories:

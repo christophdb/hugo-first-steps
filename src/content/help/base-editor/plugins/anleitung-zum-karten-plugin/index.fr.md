@@ -1,5 +1,5 @@
 ---
-title: 'Instructions pour le plugin de cartographie - SeaTable'
+title: 'Instructions pour le plugin de cartographie'
 date: 2023-02-06
 lastmod: '2023-06-29'
 categories:

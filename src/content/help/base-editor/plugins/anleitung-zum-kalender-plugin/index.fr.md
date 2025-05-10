@@ -1,5 +1,5 @@
 ---
-title: 'Instructions pour le plugin de calendrier - SeaTable'
+title: 'Instructions pour le plugin de calendrier'
 date: 2022-11-07
 lastmod: '2023-08-14'
 categories:

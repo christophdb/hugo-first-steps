@@ -1,5 +1,5 @@
 ---
-title: 'Regrouper des entrées dans une vue - SeaTable'
+title: 'Regrouper des entrées dans une vue'
 date: 2022-10-26
 lastmod: '2023-01-13'
 categories:

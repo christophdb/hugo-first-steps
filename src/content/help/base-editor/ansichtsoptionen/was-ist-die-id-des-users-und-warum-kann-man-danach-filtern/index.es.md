@@ -1,5 +1,5 @@
 ---
-title: '¿Qué es el ID de usuario y cómo se puede filtrar con él? - SeaTable'
+title: '¿Qué es el ID de usuario y cómo se puede filtrar con él?'
 date: 2023-04-25
 lastmod: '2023-05-12'
 categories:

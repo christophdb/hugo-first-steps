@@ -1,11 +1,11 @@
 ---
-title: "The numbers column - SeaTable"
+title: 'The numbers column'
 date: 2023-01-08
-lastmod: "2023-11-08"
-categories: 
-  - "text-und-zahlen"
-author: "ssc"
-url: "/help/die-zahlen-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'text-und-zahlen'
+author: 'ssc'
+url: '/help/die-zahlen-spalte'
 ---
 
 In SeaTable you can use the **Numbers column** in many ways to work with numbers of any kind (e.g. number of items, distance to destinations, price of a product, etc.).

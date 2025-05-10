@@ -1,11 +1,11 @@
 ---
-title: "Введение в работу с базами и таблицами - SeaTable"
+title: 'Введение в работу с базами и таблицами'
 date: 2023-01-07
-lastmod: "2023-03-24"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/ru/help/einfuehrung-in-die-arbeit-mit-bases-und-tabellen"
+lastmod: '2023-03-24'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/ru/help/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 ---
 
 Каждый из квадратных значков на вашей домашней странице представляет собой **Базу**. Это база данных, сравнимая с рабочей книгой в обычной электронной таблице и может содержать несколько **таблиц** по различным темам.

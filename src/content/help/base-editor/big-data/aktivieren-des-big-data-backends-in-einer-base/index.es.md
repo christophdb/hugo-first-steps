@@ -1,11 +1,11 @@
 ---
-title: "Activar el almacenamiento de big data en una base - SeaTable"
+title: 'Activar el almacenamiento de big data en una base'
 date: 2022-09-23
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "cdb"
-url: "/es/ayuda/aktivieren-des-big-data-backends-in-einer-base"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'cdb'
+url: '/es/ayuda/aktivieren-des-big-data-backends-in-einer-base'
 ---
 
 {{< required-version "Empresa" >}}

@@ -1,5 +1,5 @@
 ---
-title: 'Ajustar o número de colunas fixas - SeaTable'
+title: 'Ajustar o número de colunas fixas'
 date: 2022-10-26
 lastmod: '2024-03-15'
 categories:

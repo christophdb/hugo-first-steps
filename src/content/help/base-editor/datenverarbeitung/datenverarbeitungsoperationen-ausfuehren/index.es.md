@@ -1,5 +1,5 @@
 ---
-title: 'Realizar operaciones de tratamiento de datos manualmente - SeaTable'
+title: 'Realizar operaciones de tratamiento de datos manualmente'
 date: 2023-03-03
 lastmod: '2023-04-28'
 categories:

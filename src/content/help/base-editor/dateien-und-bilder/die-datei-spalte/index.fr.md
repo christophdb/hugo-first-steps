@@ -1,5 +1,5 @@
 ---
-title: 'La colonne des fichiers - SeaTable'
+title: 'La colonne des fichiers'
 date: 2022-11-16
 lastmod: '2024-08-02'
 categories:

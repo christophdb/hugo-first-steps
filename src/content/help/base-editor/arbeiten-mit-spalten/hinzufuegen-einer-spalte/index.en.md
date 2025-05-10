@@ -1,5 +1,5 @@
 ---
-title: 'Adding a column - SeaTable'
+title: 'Adding a column'
 date: 2022-10-10
 lastmod: '2023-01-24'
 categories:

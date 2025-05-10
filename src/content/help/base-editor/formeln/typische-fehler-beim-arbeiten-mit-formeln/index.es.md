@@ -1,5 +1,5 @@
 ---
-title: 'Errores típicos al trabajar con fórmulas - SeaTable'
+title: 'Errores típicos al trabajar con fórmulas'
 date: 2023-05-03
 lastmod: '2023-05-03'
 categories:

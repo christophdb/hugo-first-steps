@@ -1,5 +1,5 @@
 ---
-title: 'Bloquear una fila - SeaTable'
+title: 'Bloquear una fila'
 date: 2022-10-10
 lastmod: '2023-01-27'
 categories:

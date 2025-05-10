@@ -1,11 +1,11 @@
 ---
-title: "Tratamiento de datos: Calcular la clasificación - SeaTable"
+title: 'Tratamiento de datos: Calcular la clasificación'
 date: 2023-03-16
-lastmod: "2023-11-27"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/es/ayuda/datenverarbeitung-rangliste-berechnen"
+lastmod: '2023-11-27'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/es/ayuda/datenverarbeitung-rangliste-berechnen'
 ---
 
 Con la ayuda de la función de tratamiento de datos, puede realizar varias operaciones en una columna. Una de estas operaciones es el **cálculo de clasificaciones**, que le permite clasificar todos los valores de una columna numérica. Para ello, basta con definir la operación de tratamiento de datos correspondiente en las opciones de vista de la tabla.

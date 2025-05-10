@@ -1,11 +1,11 @@
 ---
-title: "Руководство по плагинам для галереи - SeaTable"
+title: 'Руководство по плагинам для галереи'
 date: 2023-01-08
-lastmod: "2023-06-29"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/ru/help/anleitung-zum-galerie-plugin"
+lastmod: '2023-06-29'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/ru/help/anleitung-zum-galerie-plugin'
 ---
 
 **Плагин галереи** особенно хорошо подходит для отображения иллюстрированных записей, поскольку в первую очередь речь идет о содержимом [колонки изображений](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/).

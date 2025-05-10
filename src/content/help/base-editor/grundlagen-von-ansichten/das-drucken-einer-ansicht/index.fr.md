@@ -1,11 +1,11 @@
 ---
-title: "L'impression d'une vue - SeaTable"
+title: "L'impression d'une vue"
 date: 2022-11-07
-lastmod: "2023-06-28"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/fr/aide/das-drucken-einer-ansicht"
+lastmod: '2023-06-28'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/fr/aide/das-drucken-einer-ansicht'
 ---
 
 Différentes **vues** peuvent faciliter le travail avec des tableaux qui contiennent beaucoup d'informations. Ces vues peuvent en outre être **imprimées**.

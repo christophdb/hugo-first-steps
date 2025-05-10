@@ -1,11 +1,11 @@
 ---
-title: "Adding a row - SeaTable"
+title: 'Adding a row'
 date: 2022-10-14
-lastmod: "2023-03-01"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/help/hinzufuegen-einer-zeile"
+lastmod: '2023-03-01'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/help/hinzufuegen-einer-zeile'
 ---
 
 There are several ways to add a **new row** in SeaTable. You will learn about the different possibilities in this article.

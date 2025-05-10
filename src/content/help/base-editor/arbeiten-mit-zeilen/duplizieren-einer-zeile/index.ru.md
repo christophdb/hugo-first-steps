@@ -1,11 +1,11 @@
 ---
-title: "Дублирование строки - SeaTable"
+title: 'Дублирование строки'
 date: 2022-10-14
-lastmod: "2023-01-05"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/ru/help/duplizieren-einer-zeile"
+lastmod: '2023-01-05'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/ru/help/duplizieren-einer-zeile'
 ---
 
 В SeaTable у вас есть различные возможности для дублирования строки. В этой статье вы можете узнать, какая процедура является лучшей в вашей ситуации.

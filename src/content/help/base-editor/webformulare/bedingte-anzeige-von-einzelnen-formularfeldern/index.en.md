@@ -1,5 +1,5 @@
 ---
-title: 'Conditional display of individual form fields - SeaTable'
+title: 'Conditional display of individual form fields'
 date: 2023-01-08
 lastmod: '2024-02-14'
 categories:

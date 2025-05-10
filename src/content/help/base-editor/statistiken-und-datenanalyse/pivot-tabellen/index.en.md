@@ -1,11 +1,11 @@
 ---
-title: "Pivot tables - SeaTable"
+title: 'Pivot tables'
 date: 2024-03-18
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "kgr"
-url: "/help/pivot-tabellen"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'kgr'
+url: '/help/pivot-tabellen'
 ---
 
 Pivot tables are powerful analysis tools with which you can determine the results you are looking for within a few seconds, even from large, confusing data sets. With the **statistics module**, creating pivot tables is child's play.

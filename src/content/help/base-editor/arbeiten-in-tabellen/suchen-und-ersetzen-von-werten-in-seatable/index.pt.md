@@ -1,11 +1,11 @@
 ---
-title: "Pesquisar e substituir valores - SeaTable"
+title: 'Pesquisar e substituir valores'
 date: 2022-10-11
-lastmod: "2023-01-02"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/pt/ajuda/suchen-und-ersetzen-von-werten-in-seatable"
+lastmod: '2023-01-02'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/pt/ajuda/suchen-und-ersetzen-von-werten-in-seatable'
 ---
 
 SeaTable oferece-lhe uma função confortável para procurar todas as entradas de um valor especial numa tabela e para substituir ou valores individuais específicos ou todos de uma só vez. Ficará surpreendido com a facilidade com que é fácil.

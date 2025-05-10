@@ -1,11 +1,11 @@
 ---
-title: "Ligar mesas umas com as outras - SeaTable"
+title: 'Ligar mesas umas com as outras'
 date: 2022-10-15
-lastmod: "2023-01-02"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "cdb"
-url: "/pt/ajuda/tabellen-miteinander-verlinken"
+lastmod: '2023-01-02'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'cdb'
+url: '/pt/ajuda/tabellen-miteinander-verlinken'
 ---
 
 À primeira vista, o SeaTable parece uma folha de cálculo, mas em muitos pontos funciona como uma base de dados. As tabelas no SeaTable não são isoladas, mas podem relacionar linhas entre si utilizando uma [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/).

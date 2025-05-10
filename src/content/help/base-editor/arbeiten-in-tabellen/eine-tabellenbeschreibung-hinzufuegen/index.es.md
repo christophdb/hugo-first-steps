@@ -1,5 +1,5 @@
 ---
-title: 'Añadir una descripción de la mesa - SeaTable'
+title: 'Añadir una descripción de la mesa'
 date: 2023-08-21
 lastmod: '2023-08-21'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Activador de automatización - SeaTable"
+title: 'Activador de automatización'
 date: 2023-01-27
-lastmod: "2024-02-12"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/es/ayuda/automations-trigger"
+lastmod: '2024-02-12'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/es/ayuda/automations-trigger'
 ---
 
 {{< required-version "Empresa" >}}
@@ -83,7 +83,7 @@ Este desencadenante es una mezcla del desencadenante periódico y del desencaden
 
 Además, con este evento desencadenante puede definir individualmente determinadas **condiciones para** cada columna de la tabla, que las **entradas** de la columna respectiva deben cumplir para que la automatización se complete en el momento especificado.
 
-![Activación automática: &quot;Activación periódica cuando las entradas cumplen determinadas condiciones&quot;.](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
+![Activación automática: "Activación periódica cuando las entradas cumplen determinadas condiciones".](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
 
 Si selecciona la opción "Activación periódica para entradas que cumplan determinadas condiciones" para una automatización, las siguientes **acciones automáticas** estarán disponibles para su selección:
 

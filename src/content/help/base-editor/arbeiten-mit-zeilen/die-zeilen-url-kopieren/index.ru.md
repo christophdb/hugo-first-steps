@@ -1,5 +1,5 @@
 ---
-title: 'Копирование URL-адреса строки - SeaTable'
+title: 'Копирование URL-адреса строки'
 date: 2023-03-09
 lastmod: '2023-03-09'
 categories:

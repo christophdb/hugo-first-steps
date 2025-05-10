@@ -1,5 +1,5 @@
 ---
-title: 'Deshacer acciones - SeaTable'
+title: 'Deshacer acciones'
 date: 2022-09-28
 lastmod: '2022-12-28'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Delete data processing operations - SeaTable"
+title: 'Delete data processing operations'
 date: 2023-03-13
-lastmod: "2023-03-13"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/help/datenverarbeitungsoperationen-loeschen"
+lastmod: '2023-03-13'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/help/datenverarbeitungsoperationen-loeschen'
 ---
 
 You can perform various **operations** using the data processing function. You can perform mathematical calculations across all values in a column, as well as correlate values when entries in two different tables are identical.

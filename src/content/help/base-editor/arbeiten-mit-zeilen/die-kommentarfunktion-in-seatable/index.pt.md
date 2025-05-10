@@ -1,11 +1,11 @@
 ---
-title: "A função de comentário em SeaTable - SeaTable"
+title: 'A função de comentário em SeaTable'
 date: 2023-01-13
-lastmod: "2023-08-09"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "cdb"
-url: "/pt/ajuda/die-kommentarfunktion-in-seatable"
+lastmod: '2023-08-09'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'cdb'
+url: '/pt/ajuda/die-kommentarfunktion-in-seatable'
 ---
 
 Se trabalhar em dados juntamente com outros utilizadores, então discussões, comentários ou perguntas sobre os dados (por exemplo, sobre a correcção das entradas) são pré-programados. Não pretende ter tais **conversas** por e-mail ou em sistemas de chat, mas de preferência directamente onde se encontram os dados, nomeadamente na **linha** correspondente da tabela. Desta forma, mesmo dias e semanas depois, fica claro, sem uma longa pesquisa, porque é que os dados são o que são, como foram acordados e qual é o estado actual.

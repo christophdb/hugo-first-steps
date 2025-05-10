@@ -1,5 +1,5 @@
 ---
-title: 'Instructions pour le plugin de relations entre les tables - SeaTable'
+title: 'Instructions pour le plugin de relations entre les tables'
 date: 2024-07-29
 lastmod: '2024-08-01'
 categories:

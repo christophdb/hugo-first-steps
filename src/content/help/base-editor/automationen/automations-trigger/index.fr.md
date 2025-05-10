@@ -1,11 +1,11 @@
 ---
-title: "Déclencheur d'automatisation - SeaTable"
+title: "Déclencheur d'automatisation"
 date: 2023-01-27
-lastmod: "2024-02-12"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/fr/aide/automations-trigger"
+lastmod: '2024-02-12'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/fr/aide/automations-trigger'
 ---
 
 {{< required-version "Entreprise" >}}
@@ -83,7 +83,7 @@ Ce déclencheur est un mélange du déclencheur périodique et du déclencheur "
 
 En outre, avec cet événement déclencheur, vous pouvez définir individuellement pour chaque colonne du tableau certaines **conditions** auxquelles les **entrées** de la colonne en question doivent correspondre pour que l'automatisation soit exécutée au moment défini.
 
-![Déclencheur d&#039;automatisation : &quot;Déclenchement périodique lorsque les entrées remplissent certaines conditions&quot;.](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
+![Déclencheur d'automatisation : "Déclenchement périodique lorsque les entrées remplissent certaines conditions".](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
 
 Si vous sélectionnez le "Déclencheur périodique pour les entrées qui remplissent certaines conditions" pour une automatisation, vous avez le choix entre les **actions automatiques** suivantes :
 

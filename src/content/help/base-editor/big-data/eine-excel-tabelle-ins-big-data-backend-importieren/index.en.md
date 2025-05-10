@@ -1,5 +1,5 @@
 ---
-title: 'Import an XLSX file into the Big Data store - SeaTable'
+title: 'Import an XLSX file into the Big Data store'
 date: 2024-05-10
 lastmod: '2024-05-14'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Создание веб-формы - SeaTable'
+title: 'Создание веб-формы'
 date: 2022-11-21
 lastmod: '2024-02-14'
 categories:

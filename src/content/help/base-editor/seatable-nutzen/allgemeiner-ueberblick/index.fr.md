@@ -1,11 +1,11 @@
 ---
-title: "Un aperçu général - SeaTable"
+title: 'Un aperçu général'
 date: 2022-08-25
-lastmod: "2023-05-12"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/fr/aide/allgemeiner-ueberblick"
+lastmod: '2023-05-12'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/fr/aide/allgemeiner-ueberblick'
 ---
 
 SeaTable vous permet d'organiser des données de tout type et de tout format, comme vous le souhaitez : Des rendez-vous et des tâches pour le lancement imminent d'un produit, des images pour la prochaine exposition ou des données d'objets pour une gestion efficace de l'immeuble. Mais il faut apprendre à utiliser un outil aussi puissant que SeaTable.

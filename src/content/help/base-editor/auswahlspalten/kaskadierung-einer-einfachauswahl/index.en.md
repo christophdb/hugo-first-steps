@@ -1,5 +1,5 @@
 ---
-title: 'Cascading a single selection - SeaTable'
+title: 'Cascading a single selection'
 date: 2022-12-16
 lastmod: '2023-01-24'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Cabeçalho e Rodapé - SeaTable'
+title: 'Cabeçalho e Rodapé'
 date: 2023-02-08
 lastmod: '2023-02-09'
 categories:

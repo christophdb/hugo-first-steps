@@ -1,11 +1,11 @@
 ---
-title: "Differences between image and file column - SeaTable"
+title: 'Differences between image and file column'
 date: 2022-10-16
-lastmod: "2023-06-29"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/help/unterschiede-zwischen-bild-und-datei-spalte"
+lastmod: '2023-06-29'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/help/unterschiede-zwischen-bild-und-datei-spalte'
 ---
 
 For the acquisition of **files** and **images**, SeaTable provides you with the two column types of the same name. The [image column](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) is a restricted [file column](https://seatable.io/en/docs/datei-und-bildanhaenge/die-datei-spalte/), because it only accepts special image file formats. This restriction can be very handy in certain use cases.

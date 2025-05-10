@@ -1,11 +1,11 @@
 ---
-title: "Data processing operations in SeaTable - SeaTable"
+title: 'Data processing operations in SeaTable'
 date: 2023-03-20
-lastmod: "2023-04-28"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/help/datenverarbeitungsoperationen-in-seatable"
+lastmod: '2023-04-28'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/help/datenverarbeitungsoperationen-in-seatable'
 ---
 
 The data processing function is a useful feature of SeaTable that allows you to perform **operations** on a column across multiple rows . By defining an operation, you can either perform various **mathematical calculations** or establish **relationships between values** in different tables. Data processing operations have a particularly great effect in large data sets where you can handle a high number of computational processes.

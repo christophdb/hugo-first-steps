@@ -1,11 +1,11 @@
 ---
-title: "O que é um ponto de vista? - SeaTable"
+title: 'O que é um ponto de vista?'
 date: 2023-01-13
-lastmod: "2023-01-13"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/pt/ajuda/was-ist-eine-ansicht"
+lastmod: '2023-01-13'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/pt/ajuda/was-ist-eine-ansicht'
 ---
 
 Sempre que visualiza os seus dados numa tabela, está a visualizá-los através de uma **vista**. Mesmo que tenha criado uma nova tabela, já está a visualizá-la na **"Vista predefinida"** fornecida por defeito.

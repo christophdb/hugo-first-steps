@@ -1,11 +1,11 @@
 ---
-title: "Отображение изменений в одной строке - SeaTable"
+title: 'Отображение изменений в одной строке'
 date: 2022-11-16
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/ru/help/anzeige-der-veraenderungen-auf-einer-zeile"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/ru/help/anzeige-der-veraenderungen-auf-einer-zeile'
 ---
 
 SeaTable сохраняет все изменения, внесенные в базу. Внутри строки **журнал строк** дает возможность проследить, когда именно какой пользователь внес то или иное изменение.

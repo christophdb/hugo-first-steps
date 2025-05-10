@@ -1,18 +1,18 @@
 ---
-title: "Accès aux fichiers et images supprimés - SeaTable"
+title: 'Accès aux fichiers et images supprimés'
 date: 2023-01-07
-lastmod: "2024-03-18"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/fr/aide/zugriff-auf-geloeschte-anhaenge"
+lastmod: '2024-03-18'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/fr/aide/zugriff-auf-geloeschte-anhaenge'
 ---
 
 **Les fichiers** et les **images** que vous avez supprimés d'une [colonne](https://seatable.io/fr/docs/datei-und-bildanhaenge/die-datei-spalte/) [d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/) ou [de fichiers](https://seatable.io/fr/docs/datei-und-bildanhaenge/die-datei-spalte/) ne sont **pas définitivement supprimés**. Ces fichiers supprimés restent dans le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la base et peuvent être **restaurés** de deux manières différentes.
 
 ## Dernièrement téléchargé
 
-![Accès aux fichiers supprimés via la section &quot;Récemment téléchargés&quot; d&#039;une colonne de fichiers](images/recently-uploaded-files.gif)
+![Accès aux fichiers supprimés via la section "Récemment téléchargés" d'une colonne de fichiers](images/recently-uploaded-files.gif)
 
 1. Ouvrez la fenêtre **Tous les fichiers** ou **Toutes les images** en **double-cliquant** sur la **cellule** d'une colonne de fichiers ou d'images.
 2. Cliquez sur le bouton **Ajouter des fichiers/images**, puis sélectionnez l'option **Dernièrement téléchargé**.

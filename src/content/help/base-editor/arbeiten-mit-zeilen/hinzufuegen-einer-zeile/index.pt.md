@@ -1,11 +1,11 @@
 ---
-title: "Adicionar uma fila - SeaTable"
+title: 'Adicionar uma fila'
 date: 2022-10-14
-lastmod: "2023-03-01"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/pt/ajuda/hinzufuegen-einer-zeile"
+lastmod: '2023-03-01'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/pt/ajuda/hinzufuegen-einer-zeile'
 ---
 
 Há várias maneiras de acrescentar uma **nova fila no** SeaTable. Aprenderá sobre as diferentes possibilidades neste artigo.

@@ -1,5 +1,5 @@
 ---
-title: 'rows Copy to another table via button - SeaTable'
+title: 'rows Copy to another table via button'
 date: 2024-02-20
 lastmod: '2024-02-20'
 categories:

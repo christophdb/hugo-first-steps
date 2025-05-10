@@ -1,5 +1,5 @@
 ---
-title: 'Как связать таблицы в SeaTable - SeaTable'
+title: 'Как связать таблицы в SeaTable'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:

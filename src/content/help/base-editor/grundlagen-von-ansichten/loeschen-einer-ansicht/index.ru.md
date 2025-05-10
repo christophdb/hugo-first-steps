@@ -1,5 +1,5 @@
 ---
-title: 'Удалить представление - SeaTable'
+title: 'Удалить представление'
 date: 2022-10-26
 lastmod: '2023-01-02'
 categories:

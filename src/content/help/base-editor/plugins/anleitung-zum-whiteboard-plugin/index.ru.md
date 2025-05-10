@@ -1,5 +1,5 @@
 ---
-title: 'Руководство по плагину Whiteboard (устаревшее) - SeaTable'
+title: 'Руководство по плагину Whiteboard (устаревшее)'
 date: 2024-08-01
 lastmod: '2025-04-24'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Vistas de grupo em pastas - SeaTable"
+title: 'Vistas de grupo em pastas'
 date: 2022-10-26
-lastmod: "2023-01-02"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/pt/ajuda/ansichten-in-ordnern-gruppieren"
+lastmod: '2023-01-02'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/pt/ajuda/ansichten-in-ordnern-gruppieren'
 ---
 
 Para além de alterar a encomenda, pode também organizar as suas opiniões de forma mais clara utilizando **pastas**. Para o fazer, crie tantas pastas de visualização quantas quiser e classifique as suas opiniões.
@@ -17,10 +17,10 @@ Para além de alterar a encomenda, pode também organizar as suas opiniões de f
 3. Seleccionar a opção **Adicionar Pasta**.
 4. Nomear a pasta e confirmar com **Submeter**.
 5. Mova o rato para a vista que pretende mover para a pasta criada.
-6. Segure o **Símbolo de seis pontos** 
-    
+6. Segure o **Símbolo de seis pontos**
+
     ![Ícone para elementos em movimento](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
-     para mover e arrastar a vista para a pasta desejada.
+    para mover e arrastar a vista para a pasta desejada.
 
 ![Opiniões de grupo em pastas](images/Ansichten-in-Ordnern-gruppieren.gif)
 

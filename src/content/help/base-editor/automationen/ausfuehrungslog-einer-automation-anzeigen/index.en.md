@@ -1,5 +1,5 @@
 ---
-title: 'Show execution log of an automation - SeaTable'
+title: 'Show execution log of an automation'
 date: 2023-01-26
 lastmod: '2023-02-01'
 categories:

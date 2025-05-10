@@ -1,5 +1,5 @@
 ---
-title: 'Цветовая маркировка строк - SeaTable'
+title: 'Цветовая маркировка строк'
 date: 2022-11-16
 lastmod: '2025-02-25'
 categories:
@@ -37,11 +37,11 @@ url: '/ru/help/farbliche-markierung-von-zeilen'
 Опция **Использовать правила** позволяет задать условия для цветовой маркировки.
 
 - Нажмите на **символ цветного треугольника**для изменения цвета маркера.
-    ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
+  ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
 - Определите, какие из ваших **Колонки** на что должно ссылаться условие.
-    ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
+  ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
 - Принять решение в пользу **Тип состояния**.
-    ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
+  ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
 
 {{< warning  headline="Выбор типов условий в зависимости от типа колонки"  text="Обратите внимание, что от типа выбранного столбца зависит, какие опции будут доступны для выбора в условиях." />}}
 

@@ -1,5 +1,5 @@
 ---
-title: 'rows Add via automation - SeaTable'
+title: 'rows Add via automation'
 date: 2023-03-02
 lastmod: '2023-03-31'
 categories:

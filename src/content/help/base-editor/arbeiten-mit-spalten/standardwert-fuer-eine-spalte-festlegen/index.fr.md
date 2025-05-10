@@ -1,5 +1,5 @@
 ---
-title: "Définir la valeur par défaut d'une colonne - SeaTable"
+title: "Définir la valeur par défaut d'une colonne"
 date: 2023-11-07
 lastmod: '2024-06-11'
 categories:

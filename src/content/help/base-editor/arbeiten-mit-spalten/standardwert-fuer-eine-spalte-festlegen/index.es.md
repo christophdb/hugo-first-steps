@@ -1,5 +1,5 @@
 ---
-title: 'Establecer valor por defecto para una columna - SeaTable'
+title: 'Establecer valor por defecto para una columna'
 date: 2023-11-07
 lastmod: '2024-06-11'
 categories:

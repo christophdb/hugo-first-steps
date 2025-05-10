@@ -1,5 +1,5 @@
 ---
-title: 'Ajuster la hauteur des lignes - SeaTable'
+title: 'Ajuster la hauteur des lignes'
 date: 2022-10-26
 lastmod: '2023-03-28'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Ajouter des données par copier-coller - SeaTable"
+title: 'Ajouter des données par copier-coller'
 date: 2022-10-15
-lastmod: "2022-12-30"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "vge"
-url: "/fr/aide/hinzufuegen-von-daten-per-copy-and-paste"
+lastmod: '2022-12-30'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'vge'
+url: '/fr/aide/hinzufuegen-von-daten-per-copy-and-paste'
 ---
 
 SeaTable connaît les raccourcis clavier populaires {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} et {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} pour copier et coller des données. Cela fonctionne aussi bien pour les données que vous voulez copier à l'intérieur de SeaTable que pour les données que vous voulez coller dans SeaTable.

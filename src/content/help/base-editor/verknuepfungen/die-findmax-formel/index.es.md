@@ -1,5 +1,5 @@
 ---
-title: 'La fórmula Findmax - SeaTable'
+title: 'La fórmula Findmax'
 date: 2023-02-13
 lastmod: '2023-02-13'
 categories:

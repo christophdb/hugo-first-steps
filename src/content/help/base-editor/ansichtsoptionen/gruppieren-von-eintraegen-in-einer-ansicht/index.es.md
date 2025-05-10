@@ -1,5 +1,5 @@
 ---
-title: 'Agrupación de entradas en una vista - SeaTable'
+title: 'Agrupación de entradas en una vista'
 date: 2022-10-26
 lastmod: '2023-01-13'
 categories:

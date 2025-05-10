@@ -1,11 +1,11 @@
 ---
-title: "Вид из окна - SeaTable"
+title: 'Вид из окна'
 date: 2023-02-21
-lastmod: "2023-02-21"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "nsc2"
-url: "/ru/help/ansichten-pinnen"
+lastmod: '2023-02-21'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'nsc2'
+url: '/ru/help/ansichten-pinnen'
 ---
 
 В каждой таблице у вас есть возможность постоянно отображать все доступные [представления](https://seatable.io/ru/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) в навигационной панели на левом поле. Это имеет смысл, особенно если вы часто переключаетесь между видами, а **доступ** делает это более эффективным.

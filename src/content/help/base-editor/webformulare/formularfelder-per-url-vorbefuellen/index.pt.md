@@ -1,11 +1,11 @@
 ---
-title: "Preencher previamente os campos do formulário - SeaTable"
+title: 'Preencher previamente os campos do formulário'
 date: 2023-01-08
-lastmod: "2024-03-18"
-categories: 
-  - "webformulare"
-author: "vge"
-url: "/pt/ajuda/formularfelder-per-url-vorbefuellen"
+lastmod: '2024-03-18'
+categories:
+    - 'webformulare'
+author: 'vge'
+url: '/pt/ajuda/formularfelder-per-url-vorbefuellen'
 ---
 
 Para **pré-preencher formulários Web**, tem a opção de definir valores predefinidos nos campos do formulário. Pode fazê-lo diretamente no URL ou utilizando uma função de fácil utilização no SeaTable.
@@ -36,13 +36,13 @@ O resultado, ou seja, o URL alargado, é o mesmo que o do procedimento manual de
 1. Criar um [formulário web](https://seatable.io/pt/docs/webformulare/webformulare/).
 2. Clique no botão {{< seatable-icon icon="dtable-icon-share" >}} **Share** no editor de formulários Web para receber a hiperligação para o formulário Web.
 3. **Copie** o link e cole-o num novo separador na **linha de pesquisa do navegador,** onde pode editá-lo e testá-lo.
-4. Para **preencher previamente** um campo do formulário com um valor por defeito, anexar a string **/?prefill\_COLUMNAME=PREFILLVALUE'** ao link do formulário.
+4. Para **preencher previamente** um campo do formulário com um valor por defeito, anexar a string **/?prefill_COLUMNAME=PREFILLVALUE'** ao link do formulário.
 
 Em vez de **COLUMNNAME**, coloque o nome do campo que pretende preencher; para **PREFILLVALUE**, coloque o valor por defeito desejado. Os espaços devem ser escritos como **%20**. Preste atenção às maiúsculas e minúsculas.
 
-**Exemplo:** Se quiser enviar a Joe Smith um formulário web personalizado com o seu nome já preenchido, anexe a string **/?prefill\_name=Joe%20Smith** ao link do formulário.
+**Exemplo:** Se quiser enviar a Joe Smith um formulário web personalizado com o seu nome já preenchido, anexe a string **/?prefill_name=Joe%20Smith** ao link do formulário.
 
-Para utilizar **múltiplos valores por defeito**, concatenar as entradas de pré-preenchimento com um **& caracter**: /**?prefill\_COLUMNAME=PREFILLVALUE&prefill\_COLUMNAME=PREFILLVALUE**
+Para utilizar **múltiplos valores por defeito**, concatenar as entradas de pré-preenchimento com um **& caracter**: /**?prefill_COLUMNAME=PREFILLVALUE&prefill_COLUMNAME=PREFILLVALUE**
 
 Uma vez terminado, pode testar a ligação pressionando a **tecla Enter** e abrindo o formulário web. Se tudo tiver funcionado, poderá ver os valores por defeito pré-preenchidos nesta **pré-visualização**.
 
@@ -50,29 +50,29 @@ Uma vez terminado, pode testar a ligação pressionando a **tecla Enter** e abri
 
 Dependendo do tipo de coluna em que se baseia um campo de formulário, nem sempre é possível o pré-preenchimento. Na síntese seguinte é possível ver quais os tipos de coluna que permitem o pré-preenchimento via URL e quais não permitem.
 
-| Tipo de coluna | Suporta pré-preenchimento |
-| --- | --- |
-| Número automático |  |
-| Imagem |  |
-| Caixa de verificação |  |
-| Ficheiro |  |
-| Data |  |
-| Duração |  |
-| Selecção única |  |
-| Correio electrónico |  |
-| Criador |  |
-| Criado em |  |
-| Texto formatado |  |
-| Fórmula |  |
-| Fórmula para links |  |
-| Geoposição |  |
-| Último editor |  |
-| Selecção múltipla |  |
-| Empregados |  |
-| Classificação |  |
-| Botão |  |
-| Assinatura |  |
-| Texto |  |
-| URL |  |
-| Número |  |
-| Última edição |  |
+| Tipo de coluna       | Suporta pré-preenchimento |
+| -------------------- | ------------------------- |
+| Número automático    |                           |
+| Imagem               |                           |
+| Caixa de verificação |                           |
+| Ficheiro             |                           |
+| Data                 |                           |
+| Duração              |                           |
+| Selecção única       |                           |
+| Correio electrónico  |                           |
+| Criador              |                           |
+| Criado em            |                           |
+| Texto formatado      |                           |
+| Fórmula              |                           |
+| Fórmula para links   |                           |
+| Geoposição           |                           |
+| Último editor        |                           |
+| Selecção múltipla    |                           |
+| Empregados           |                           |
+| Classificação        |                           |
+| Botão                |                           |
+| Assinatura           |                           |
+| Texto                |                           |
+| URL                  |                           |
+| Número               |                           |
+| Última edição        |                           |

@@ -1,5 +1,5 @@
 ---
-title: 'Envio de e-mails via automatização - SeaTable'
+title: 'Envio de e-mails via automatização'
 date: 2023-03-03
 lastmod: '2023-03-03'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Переместить стол - SeaTable"
+title: 'Переместить стол'
 date: 2022-10-11
-lastmod: "2025-02-25"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/ru/help/verschieben-einer-tabelle"
+lastmod: '2025-02-25'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/ru/help/verschieben-einer-tabelle'
 ---
 
 Самое позднее, когда ваша база постепенно заполняется различными столами, пора подумать о **разумном порядке расположения столов** в базе. **Переместите** тематически связанные столы рядом друг с другом и поместите самые важные столы на самый верх. Вы увидите: Благодаря функции **drag-and-drop** перемещать столы - проще простого.

@@ -1,11 +1,11 @@
 ---
-title: "Сбор данных - SeaTable"
+title: 'Сбор данных'
 date: 2023-03-15
-lastmod: "2023-03-15"
-categories: 
-  - "seatable-nutzen"
-author: "kgr"
-url: "/ru/help/datenerfassung"
+lastmod: '2023-03-15'
+categories:
+    - 'seatable-nutzen'
+author: 'kgr'
+url: '/ru/help/datenerfassung'
 ---
 
 В этой статье рассказывается о некоторых способах сбора данных в SeaTable.

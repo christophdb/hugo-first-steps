@@ -1,11 +1,11 @@
 ---
-title: "Vinculación de reglas de filtrado con AND y OR - SeaTable"
+title: 'Vinculación de reglas de filtrado con AND y OR'
 date: 2022-11-16
-lastmod: "2025-02-25"
-categories: 
-  - "ansichtsoptionen"
-author: "vge"
-url: "/es/ayuda/filter-regeln-mit-und-und-oder-verknuepfen"
+lastmod: '2025-02-25'
+categories:
+    - 'ansichtsoptionen'
+author: 'vge'
+url: '/es/ayuda/filter-regeln-mit-und-und-oder-verknuepfen'
 ---
 
 Al [filtrar entradas en una vista](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), también puede crear **múltiples reglas de filtrado** para refinar las condiciones y reducir aún más las entradas aplicables. Aquí se distingue entre el **enlace** **Y** y el enlace **O**. También puede utilizar **grupos de filtros** para combinar los enlaces lógicos Y/O.

@@ -1,11 +1,11 @@
 ---
-title: "La columna de geoposicionamiento - SeaTable"
+title: 'La columna de geoposicionamiento'
 date: 2023-01-07
-lastmod: "2023-01-24"
-categories: 
-  - "andere-spalten"
-author: "nsc2"
-url: "/es/ayuda/die-geopositions-spalte"
+lastmod: '2023-01-24'
+categories:
+    - 'andere-spalten'
+author: 'nsc2'
+url: '/es/ayuda/die-geopositions-spalte'
 ---
 
 Con la ayuda de la columna Geoposiciones, puedes recoger la longitud y la latitud de cualquier lugar de tus tablas. Además, puede utilizar la función de búsqueda para encontrar un país o región y añadirlo como entrada.

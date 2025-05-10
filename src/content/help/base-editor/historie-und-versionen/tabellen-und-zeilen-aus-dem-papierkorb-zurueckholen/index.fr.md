@@ -1,5 +1,5 @@
 ---
-title: 'Récupérer des tableaux, des lignes et des colonnes de la corbeille - SeaTable'
+title: 'Récupérer des tableaux, des lignes et des colonnes de la corbeille'
 date: 2022-10-11
 lastmod: '2023-01-11'
 categories:

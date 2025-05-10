@@ -1,11 +1,11 @@
 ---
-title: "La colonne des cotes - SeaTable"
+title: 'La colonne des cotes'
 date: 2023-01-07
-lastmod: "2023-11-08"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/fr/aide/die-rating-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/fr/aide/die-rating-spalte'
 ---
 
 La colonne Rating permet de **classer** vos enregistrements afin d'établir un **ranking** ou une **évaluation de la qualité**. Lors de la création de la colonne, vous pouvez définir des paramètres spécifiques concernant l'apparence et le nombre maximal de **symboles de rating** autorisés.

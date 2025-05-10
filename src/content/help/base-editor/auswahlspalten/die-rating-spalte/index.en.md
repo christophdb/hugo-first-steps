@@ -1,11 +1,11 @@
 ---
-title: "The rating column - SeaTable"
+title: 'The rating column'
 date: 2023-01-07
-lastmod: "2023-11-08"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/help/die-rating-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/help/die-rating-spalte'
 ---
 
 The Rating column allows you to **classify** your records in order to **rank** them or give them a **quality score**. When creating the column, you can make specific settings concerning the appearance and the maximum number of **rating symbols** allowed.

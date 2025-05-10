@@ -1,5 +1,5 @@
 ---
-title: 'Typical mistakes when working with formulas - SeaTable'
+title: 'Typical mistakes when working with formulas'
 date: 2023-05-03
 lastmod: '2023-05-03'
 categories:

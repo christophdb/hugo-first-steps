@@ -1,5 +1,5 @@
 ---
-title: 'Guia do plug-in de consulta SQL - SeaTable'
+title: 'Guia do plug-in de consulta SQL'
 date: 2023-05-04
 lastmod: '2023-05-15'
 categories:

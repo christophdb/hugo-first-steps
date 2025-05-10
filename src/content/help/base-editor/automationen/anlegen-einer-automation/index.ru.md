@@ -1,11 +1,11 @@
 ---
-title: "Создание автоматизации - SeaTable"
+title: 'Создание автоматизации'
 date: 2022-12-06
-lastmod: "2023-03-10"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/ru/help/anlegen-einer-automation"
+lastmod: '2023-03-10'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/ru/help/anlegen-einer-automation'
 ---
 
 {{< required-version "Предприятие" >}}

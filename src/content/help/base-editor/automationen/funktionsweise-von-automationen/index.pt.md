@@ -1,5 +1,5 @@
 ---
-title: 'Como funcionam as automatizações - SeaTable'
+title: 'Como funcionam as automatizações'
 date: 2023-01-31
 lastmod: '2023-02-01'
 categories:

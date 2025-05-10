@@ -1,5 +1,5 @@
 ---
-title: 'Виды на шлюзы - SeaTable'
+title: 'Виды на шлюзы'
 date: 2022-10-26
 lastmod: '2023-01-04'
 categories:

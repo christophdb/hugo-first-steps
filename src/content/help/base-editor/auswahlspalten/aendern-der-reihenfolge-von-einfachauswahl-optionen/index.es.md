@@ -1,5 +1,5 @@
 ---
-title: 'Cambio del orden de las opciones de selección única - SeaTable'
+title: 'Cambio del orden de las opciones de selección única'
 date: 2023-01-07
 lastmod: '2024-04-15'
 categories:

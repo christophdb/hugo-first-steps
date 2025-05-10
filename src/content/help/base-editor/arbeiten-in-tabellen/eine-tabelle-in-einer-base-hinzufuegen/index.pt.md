@@ -1,21 +1,21 @@
 ---
-title: "Adicionar uma mesa numa Base - SeaTable"
+title: 'Adicionar uma mesa numa Base'
 date: 2022-09-28
-lastmod: "2025-02-28"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/pt/ajuda/eine-tabelle-in-einer-base-hinzufuegen"
+lastmod: '2025-02-28'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/pt/ajuda/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
 As bases consistem em uma ou mais tabelas, que por sua vez podem conter dados muito diferentes e ligar-se umas às outras. Uma base pode conter **até 200 mesas**. No entanto, por uma questão de clareza, deve considerar dividir as tabelas em várias bases e sincronizar os dados com a função de [Conjuntos de Dados Partilhados](https://seatable.io/pt/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/), se tiver mais de 20 tabelas.
 
 ## Acrescentar uma tabela numa base
 
-1. No **Base aberta** No canto superior esquerdo verá as abas com todos os **Tabelas** da base.  
-    
+1. No **Base aberta** No canto superior esquerdo verá as abas com todos os **Tabelas** da base.
+
     ![Mesas numa base de SeaTable](https://seatable.io/wp-content/uploads/2022/09/Tabellen-in-seatable.png)
-    
+
 2. Clique no **símbolo \[+\]** à direita do separador da última tabela.
 3. Agora selecione **Adicionar tabela**.
 4. Dê um **nome** à nova tabela e confirme com **Enviar**.

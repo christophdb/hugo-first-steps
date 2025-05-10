@@ -1,5 +1,5 @@
 ---
-title: 'Sorting entries in a view - SeaTable'
+title: 'Sorting entries in a view'
 date: 2022-10-26
 lastmod: '2023-01-09'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Acrescentar dados por cópia e cola - SeaTable"
+title: 'Acrescentar dados por cópia e cola'
 date: 2022-10-15
-lastmod: "2022-12-30"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "vge"
-url: "/pt/ajuda/hinzufuegen-von-daten-per-copy-and-paste"
+lastmod: '2022-12-30'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'vge'
+url: '/pt/ajuda/hinzufuegen-von-daten-per-copy-and-paste'
 ---
 
 SeaTable conhece as populares combinações de chaves {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} e {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} para cópia e colagem de dados. Isto funciona tanto com dados que pretende copiar dentro do SeaTable como com dados que pretende colar no SeaTable.

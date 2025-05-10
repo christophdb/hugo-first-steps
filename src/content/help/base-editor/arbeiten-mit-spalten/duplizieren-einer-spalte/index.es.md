@@ -1,5 +1,5 @@
 ---
-title: 'Duplicar una columna - SeaTable'
+title: 'Duplicar una columna'
 date: 2022-10-10
 lastmod: '2024-03-15'
 categories:

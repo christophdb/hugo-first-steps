@@ -1,5 +1,5 @@
 ---
-title: 'Guía del complemento de consulta SQL - SeaTable'
+title: 'Guía del complemento de consulta SQL'
 date: 2023-05-04
 lastmod: '2023-05-15'
 categories:

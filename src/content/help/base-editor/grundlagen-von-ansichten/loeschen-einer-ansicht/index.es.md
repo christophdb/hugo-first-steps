@@ -1,5 +1,5 @@
 ---
-title: 'Eliminar una vista - SeaTable'
+title: 'Eliminar una vista'
 date: 2022-10-26
 lastmod: '2023-01-02'
 categories:

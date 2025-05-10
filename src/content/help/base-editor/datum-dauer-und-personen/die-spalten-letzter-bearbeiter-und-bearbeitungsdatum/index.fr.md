@@ -1,11 +1,11 @@
 ---
-title: "Les colonnes Dernier intervenant et Date d'intervention - SeaTable"
+title: "Les colonnes Dernier intervenant et Date d'intervention"
 date: 2023-01-20
-lastmod: "2023-08-04"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/fr/aide/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum"
+lastmod: '2023-08-04'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/fr/aide/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 ---
 
 Les colonnes **Dernier utilisateur** et **Date d'édition** sont exclusivement remplies **automatiquement** par SeaTable et constituent donc des types de colonnes particuliers. Elles sont très utiles si vous souhaitez savoir **quand** et **par qui** une entrée a été **modifiée pour la dernière fois**.
@@ -16,7 +16,7 @@ Comme les deux colonnes enregistrent automatiquement les modifications apportée
 
 Alors que SeaTable remplit la colonne **Dernier utilisateur** avec le nom de l'utilisateur qui a modifié une ligne pour la dernière fois, la colonne **Date de modification** enregistre l'heure exacte (date et heure) à laquelle la dernière modification a été effectuée.
 
-![Les colonnes &quot;Dernier utilisateur&quot; et &quot;Dernièrement modifié&quot; après la création par un utilisateur](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![Les colonnes "Dernier utilisateur" et "Dernièrement modifié" après la création par un utilisateur](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
 
 ## Particularités des deux types de colonnes
 

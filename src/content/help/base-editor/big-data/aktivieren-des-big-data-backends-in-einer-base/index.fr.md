@@ -1,11 +1,11 @@
 ---
-title: "Activer le stockage de données volumineuses dans une base - SeaTable"
+title: 'Activer le stockage de données volumineuses dans une base'
 date: 2022-09-23
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "cdb"
-url: "/fr/aide/aktivieren-des-big-data-backends-in-einer-base"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'cdb'
+url: '/fr/aide/aktivieren-des-big-data-backends-in-einer-base'
 ---
 
 {{< required-version "Entreprise" >}}

@@ -1,18 +1,18 @@
 ---
-title: "Access to deleted files and images - SeaTable"
+title: 'Access to deleted files and images'
 date: 2023-01-07
-lastmod: "2024-03-18"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/help/zugriff-auf-geloeschte-anhaenge"
+lastmod: '2024-03-18'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/help/zugriff-auf-geloeschte-anhaenge'
 ---
 
 **Files** and **images** that you have removed from an [image](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) or [file column](https://seatable.io/en/docs/datei-und-bildanhaenge/die-datei-spalte/) are **not permanently deleted**. These deleted files remain in the Base [file manager](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) and can be **restored** in two different ways.
 
 ## Last uploaded
 
-![Access to deleted files via the &quot;Last uploaded&quot; section of a file column](images/recently-uploaded-files.gif)
+![Access to deleted files via the "Last uploaded" section of a file column](images/recently-uploaded-files.gif)
 
 1. Open the **All Files** or **All Images** window by **double-clicking** the **cell of** a file or image column.
 2. Click the **Add files/images** button and then select the **Last uploaded** option.

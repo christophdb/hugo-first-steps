@@ -1,5 +1,5 @@
 ---
-title: 'Limitations in the use of Big Data - SeaTable'
+title: 'Limitations in the use of Big Data'
 date: 2023-05-11
 lastmod: '2024-12-16'
 categories:

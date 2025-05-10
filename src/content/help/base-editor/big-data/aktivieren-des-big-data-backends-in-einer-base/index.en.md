@@ -1,11 +1,11 @@
 ---
-title: "Activating the big data storage in a base - SeaTable"
+title: 'Activating the big data storage in a base'
 date: 2022-09-23
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "cdb"
-url: "/help/aktivieren-des-big-data-backends-in-einer-base"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'cdb'
+url: '/help/aktivieren-des-big-data-backends-in-einer-base'
 ---
 
 {{< required-version "Enterprise" >}}

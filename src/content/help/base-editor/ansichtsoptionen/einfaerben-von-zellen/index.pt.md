@@ -1,5 +1,5 @@
 ---
-title: 'Células de coloração - SeaTable'
+title: 'Células de coloração'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Processamento de dados: Transferência de nomes de utilizador - SeaTable'
+title: 'Processamento de dados: Transferência de nomes de utilizador'
 date: 2023-03-17
 lastmod: '2023-03-17'
 categories:

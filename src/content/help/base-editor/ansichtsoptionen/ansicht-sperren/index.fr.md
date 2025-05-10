@@ -1,5 +1,5 @@
 ---
-title: 'Verrouiller les vues - SeaTable'
+title: 'Verrouiller les vues'
 date: 2022-10-26
 lastmod: '2023-01-04'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Cambiar el orden de las filas - SeaTable'
+title: 'Cambiar el orden de las filas'
 date: 2022-11-16
 lastmod: '2023-02-16'
 categories:

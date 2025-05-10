@@ -1,11 +1,11 @@
 ---
-title: "Création d'une colonne de sélection simple - SeaTable"
+title: "Création d'une colonne de sélection simple"
 date: 2022-10-10
-lastmod: "2024-04-15"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/fr/aide/anlegen-einer-einfachauswahl-spalte"
+lastmod: '2024-04-15'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/fr/aide/anlegen-einer-einfachauswahl-spalte'
 ---
 
 Une colonne de sélection simple est idéale si vous souhaitez attribuer à vos lignes **exactement une option** parmi une liste d'options à définir. Les options reçoivent des **étiquettes** colorées qui vous permettent de classer vos enregistrements dans des **catégories** et d'organiser vos tableaux de manière claire.

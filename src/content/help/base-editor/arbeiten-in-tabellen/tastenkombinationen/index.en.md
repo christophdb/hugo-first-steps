@@ -1,5 +1,5 @@
 ---
-title: 'Keyboard shortcuts and keyboard shortcuts - SeaTable'
+title: 'Keyboard shortcuts and keyboard shortcuts'
 date: 2022-08-25
 lastmod: '2023-01-12'
 categories:

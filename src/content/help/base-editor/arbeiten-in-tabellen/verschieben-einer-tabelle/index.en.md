@@ -1,11 +1,11 @@
 ---
-title: "Move a table - SeaTable"
+title: 'Move a table'
 date: 2022-10-11
-lastmod: "2025-02-25"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/help/verschieben-einer-tabelle"
+lastmod: '2025-02-25'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/help/verschieben-einer-tabelle'
 ---
 
 At the latest when your base has gradually filled up with various tables, it is time to think about a **sensible order for the tables** in your base. **Move** thematically related tables next to each other and place the most important tables at the top. You will see: Thanks to **drag-and-drop**, moving tables is child's play.

@@ -1,5 +1,5 @@
 ---
-title: 'Comment créer une vue Big Data - SeaTable'
+title: 'Comment créer une vue Big Data'
 date: 2022-09-23
 lastmod: '2024-05-13'
 categories:

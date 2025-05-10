@@ -1,5 +1,5 @@
 ---
-title: 'Instruções para o plug-in do quadro branco (tldraw) - SeaTable'
+title: 'Instruções para o plug-in do quadro branco (tldraw)'
 date: 2025-04-24
 lastmod: '2025-04-24'
 categories:

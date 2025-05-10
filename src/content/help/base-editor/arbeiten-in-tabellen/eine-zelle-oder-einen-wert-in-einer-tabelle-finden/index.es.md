@@ -1,11 +1,11 @@
 ---
-title: "Buscar una celda o un valor en una tabla - SeaTable"
+title: 'Buscar una celda o un valor en una tabla'
 date: 2022-10-11
-lastmod: "2023-08-16"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/es/ayuda/eine-zelle-oder-einen-wert-in-einer-tabelle-finden"
+lastmod: '2023-08-16'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/es/ayuda/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
 ---
 
 Las tablas de SeaTable pueden contener miles de registros de datos. Para que pueda encontrar celdas o valores individuales de forma rápida y sencilla, SeaTable ofrece la posibilidad de buscar valores y términos individuales.

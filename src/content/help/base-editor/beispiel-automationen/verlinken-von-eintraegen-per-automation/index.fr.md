@@ -1,5 +1,5 @@
 ---
-title: 'Lier des entrées par automatisation - SeaTable'
+title: 'Lier des entrées par automatisation'
 date: 2023-01-30
 lastmod: '2023-04-06'
 categories:

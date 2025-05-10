@@ -1,5 +1,5 @@
 ---
-title: 'Perform data processing operation by automation - SeaTable'
+title: 'Perform data processing operation by automation'
 date: 2023-04-28
 lastmod: '2023-05-03'
 categories:

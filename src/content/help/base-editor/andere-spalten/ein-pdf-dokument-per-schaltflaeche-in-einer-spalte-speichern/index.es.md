@@ -1,5 +1,5 @@
 ---
-title: 'Guardar un documento PDF por botón en una columna - SeaTable'
+title: 'Guardar un documento PDF por botón en una columna'
 date: 2023-01-23
 lastmod: '2023-05-04'
 categories:

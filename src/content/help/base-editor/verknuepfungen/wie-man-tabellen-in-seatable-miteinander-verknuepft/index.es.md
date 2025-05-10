@@ -1,5 +1,5 @@
 ---
-title: 'Cómo enlazar tablas en SeaTable - SeaTable'
+title: 'Cómo enlazar tablas en SeaTable'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:

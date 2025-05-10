@@ -1,5 +1,5 @@
 ---
-title: "Trier les entrées d'une vue - SeaTable"
+title: "Trier les entrées d'une vue"
 date: 2022-10-26
 lastmod: '2023-01-09'
 categories:

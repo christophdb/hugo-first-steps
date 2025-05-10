@@ -1,5 +1,5 @@
 ---
-title: 'History and logs - SeaTable'
+title: 'History and logs'
 date: 2023-03-20
 lastmod: '2024-12-16'
 categories:

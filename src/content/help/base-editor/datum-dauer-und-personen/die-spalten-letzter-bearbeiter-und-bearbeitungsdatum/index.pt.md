@@ -1,11 +1,11 @@
 ---
-title: "As colunas Último Editor e Data de Edição - SeaTable"
+title: 'As colunas Último Editor e Data de Edição'
 date: 2023-01-20
-lastmod: "2023-08-04"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/pt/ajuda/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum"
+lastmod: '2023-08-04'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/pt/ajuda/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 ---
 
 As colunas Last Edited ( **Última** edição) e **Edited Date (Data de edição** ) são exclusivamente preenchidas **automaticamente** pelo SeaTable e são, portanto, tipos de colunas especiais. Revelam-se extremamente úteis se pretender registar **quando** e **por quem** uma entrada foi **editada pela última vez**.
@@ -16,7 +16,7 @@ Uma vez que as duas colunas registam automaticamente as alterações às entrada
 
 Enquanto o SeaTable preenche a coluna **Última Edição** com o nome do utilizador que editou uma linha pela última vez, a coluna **Data de Edição** regista a hora exacta (data e hora) em que ocorreu a última edição.
 
-![As colunas &quot;Último editor&quot; e &quot;Último editado&quot; após criação por um utilizador](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![As colunas "Último editor" e "Último editado" após criação por um utilizador](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
 
 ## Características especiais dos dois tipos de colunas
 

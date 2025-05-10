@@ -1,11 +1,11 @@
 ---
-title: "Restaurar uma base apagada - SeaTable"
+title: 'Restaurar uma base apagada'
 date: 2022-10-11
-lastmod: "2022-12-28"
-categories: 
-  - "historie-und-versionen"
-author: "nsc2"
-url: "/pt/ajuda/eine-geloeschte-base-wiederherstellen"
+lastmod: '2022-12-28'
+categories:
+    - 'historie-und-versionen'
+author: 'nsc2'
+url: '/pt/ajuda/eine-geloeschte-base-wiederherstellen'
 ---
 
 As bases que criou em "As minhas bases" ou em grupos podem ser eliminadas e, se necessário, restauradas a partir da respectiva reciclagem. Tenha em atenção que um restauro só é possível até um máximo de 30 dias após a eliminação de uma base. Após este período, as bases eliminadas são removidas permanentemente do SeaTable e já não podem ser restauradas.

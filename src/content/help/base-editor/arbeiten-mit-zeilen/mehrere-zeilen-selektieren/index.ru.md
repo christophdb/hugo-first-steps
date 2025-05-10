@@ -1,11 +1,11 @@
 ---
-title: "Выбор нескольких строк - SeaTable"
+title: 'Выбор нескольких строк'
 date: 2022-10-10
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "cdb"
-url: "/ru/help/mehrere-zeilen-selektieren"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'cdb'
+url: '/ru/help/mehrere-zeilen-selektieren'
 ---
 
 Конечно, бывает так, что вы хотите [скопировать](https://seatable.io/ru/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/), [удалить](https://seatable.io/ru/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) или [заблокировать](https://seatable.io/ru/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) для редактирования **несколько строк** одновременно. Чтобы выполнить эти действия, необходимо предварительно **выделить** нужные строки.

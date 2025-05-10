@@ -1,11 +1,11 @@
 ---
-title: "Champs de table - SeaTable"
+title: 'Champs de table'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/fr/aide/tabellenfelder"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/fr/aide/tabellenfelder'
 ---
 
 **Les champs de tableau** contiennent les entrées d'une colonne de votre tableau. C'est pourquoi le [plug-in de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) énumère dans les champs de tableau **toutes les colonnes** du tableau à partir desquelles vous pouvez intégrer des données dans la page.

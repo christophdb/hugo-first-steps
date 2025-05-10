@@ -1,5 +1,5 @@
 ---
-title: 'Deshacer cambios a través de los registros - SeaTable'
+title: 'Deshacer cambios a través de los registros'
 date: 2023-01-11
 lastmod: '2023-06-22'
 categories:

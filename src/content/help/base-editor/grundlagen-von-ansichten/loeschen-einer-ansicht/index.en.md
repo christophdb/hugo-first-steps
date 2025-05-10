@@ -1,5 +1,5 @@
 ---
-title: 'Delete a view - SeaTable'
+title: 'Delete a view'
 date: 2022-10-26
 lastmod: '2023-01-02'
 categories:

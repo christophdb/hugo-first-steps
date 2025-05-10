@@ -1,5 +1,5 @@
 ---
-title: 'Instructions for the Tree plugin - SeaTable'
+title: 'Instructions for the Tree plugin'
 date: 2024-12-10
 lastmod: '2024-12-10'
 categories:

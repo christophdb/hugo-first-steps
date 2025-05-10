@@ -1,11 +1,11 @@
 ---
-title: "Формула сворачивания - SeaTable"
+title: 'Формула сворачивания'
 date: 2023-01-24
-lastmod: "2023-01-24"
-categories: 
-  - "verknuepfungen"
-author: "vge"
-url: "/ru/help/die-rollup-formel"
+lastmod: '2023-01-24'
+categories:
+    - 'verknuepfungen'
+author: 'vge'
+url: '/ru/help/die-rollup-formel'
 ---
 
 С помощью свернутой формулы столбца типа **Формула для связей** можно установить несколько числовых значений связанного столбца относительно друг друга и выполнить простые статистические расчеты.

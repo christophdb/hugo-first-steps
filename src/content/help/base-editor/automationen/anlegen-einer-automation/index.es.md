@@ -1,11 +1,11 @@
 ---
-title: "Creación de una automatización - SeaTable"
+title: 'Creación de una automatización'
 date: 2022-12-06
-lastmod: "2023-03-10"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/es/ayuda/anlegen-einer-automation"
+lastmod: '2023-03-10'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/es/ayuda/anlegen-einer-automation'
 ---
 
 {{< required-version "Empresa" >}}

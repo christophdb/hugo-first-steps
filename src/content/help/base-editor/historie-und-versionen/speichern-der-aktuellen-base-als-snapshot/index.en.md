@@ -1,5 +1,5 @@
 ---
-title: 'Saving the current Base as a Snapshot - SeaTable'
+title: 'Saving the current Base as a Snapshot'
 date: 2022-10-11
 lastmod: '2024-06-11'
 categories:

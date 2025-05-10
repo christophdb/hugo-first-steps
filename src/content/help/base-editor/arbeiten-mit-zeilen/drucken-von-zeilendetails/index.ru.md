@@ -1,5 +1,5 @@
 ---
-title: 'Печать деталей строки - SeaTable'
+title: 'Печать деталей строки'
 date: 2022-11-16
 lastmod: '2023-08-16'
 categories:

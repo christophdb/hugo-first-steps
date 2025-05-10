@@ -1,5 +1,5 @@
 ---
-title: 'Definir permissões de coluna - SeaTable'
+title: 'Definir permissões de coluna'
 date: 2023-02-21
 lastmod: '2023-02-21'
 categories:

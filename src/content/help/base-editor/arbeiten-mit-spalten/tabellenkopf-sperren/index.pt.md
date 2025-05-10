@@ -1,5 +1,5 @@
 ---
-title: 'Cabeçalho de mesa de bloqueio - SeaTable'
+title: 'Cabeçalho de mesa de bloqueio'
 date: 2023-03-03
 lastmod: '2023-03-03'
 categories:

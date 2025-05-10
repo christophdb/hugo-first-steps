@@ -1,5 +1,5 @@
 ---
-title: 'Traitement des données : Calculer un pourcentage - SeaTable'
+title: 'Traitement des données : Calculer un pourcentage'
 date: 2023-03-16
 lastmod: '2023-03-16'
 categories:

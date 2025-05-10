@@ -1,11 +1,11 @@
 ---
-title: "Timeline Plugin Guide - SeaTable"
+title: 'Timeline Plugin Guide'
 date: 2023-02-06
-lastmod: "2023-08-14"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/help/anleitung-zum-timeline-plugin"
+lastmod: '2023-08-14'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/help/anleitung-zum-timeline-plugin'
 ---
 
 The **Timeline plugin** allows you to display different time spans in the form of a **timeline**. This is very useful, for example, if you want to see whether appointments **overlap**. Accordingly, you can use the Timeline plugin for vacation and project planning or booking (meeting) rooms, among other things.

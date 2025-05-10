@@ -1,11 +1,11 @@
 ---
-title: "Dynamic elements - SeaTable"
+title: 'Dynamic elements'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/help/dynamische-elemente"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/help/dynamische-elemente'
 ---
 
 **Dynamic elements** change based on certain criteria, but are independent of the entries in your table. These fields are **pre-filled** and **automatically** adjust their entries.

@@ -1,5 +1,5 @@
 ---
-title: 'Instructions pour le plugin de requête SQL - SeaTable'
+title: 'Instructions pour le plugin de requête SQL'
 date: 2023-05-04
 lastmod: '2023-05-15'
 categories:

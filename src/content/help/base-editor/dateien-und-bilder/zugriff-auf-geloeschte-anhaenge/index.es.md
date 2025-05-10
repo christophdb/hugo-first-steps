@@ -1,18 +1,18 @@
 ---
-title: "Acceso a archivos e imágenes eliminados - SeaTable"
+title: 'Acceso a archivos e imágenes eliminados'
 date: 2023-01-07
-lastmod: "2024-03-18"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/es/ayuda/zugriff-auf-geloeschte-anhaenge"
+lastmod: '2024-03-18'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/es/ayuda/zugriff-auf-geloeschte-anhaenge'
 ---
 
 **Los archivos** e **imágenes** que ha eliminado de una [columna de](https://seatable.io/es/docs/datei-und-bildanhaenge/die-datei-spalte/) [imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) o archivos **no se borran permanentemente**. Estos archivos eliminados permanecen en el [gestor de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base y pueden **restaurarse** de dos formas distintas.
 
 ## Última carga
 
-![Acceso a los archivos eliminados a través de la sección &quot;Último cargado&quot; de una columna de archivos](images/recently-uploaded-files.gif)
+![Acceso a los archivos eliminados a través de la sección "Último cargado" de una columna de archivos](images/recently-uploaded-files.gif)
 
 1. Abra la ventana **Todos los archivos** o **Todas las imágenes** **haciendo doble clic** en la **celda de** una columna de archivos o imágenes.
 2. Haga clic en el botón **Añadir archivos/imágenes** y seleccione la opción **Última carga**.

@@ -1,11 +1,11 @@
 ---
-title: "Vues et plugins - SeaTable"
+title: 'Vues et plugins'
 date: 2022-08-25
-lastmod: "2024-08-01"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/fr/aide/ansichten"
+lastmod: '2024-08-01'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/fr/aide/ansichten'
 ---
 
 Selon la tâche et les données saisies, différents **modes d'affichage** sont utiles pour vous faciliter le travail dans SeaTable. SeaTable vous propose deux types d'affichage : Les données quantitatives sont plus faciles à saisir dans la vue Tableau, à structurer à l'aide de filtres, de tris et de regroupements, et à analyser à l'aide de **statistiques**.

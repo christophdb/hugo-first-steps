@@ -1,5 +1,5 @@
 ---
-title: 'Formula example: Calculate days until an event - SeaTable'
+title: 'Formula example: Calculate days until an event'
 date: 2023-01-28
 lastmod: '2023-09-21'
 categories:

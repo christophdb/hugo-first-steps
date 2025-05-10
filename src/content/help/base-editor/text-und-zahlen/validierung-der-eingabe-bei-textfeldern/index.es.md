@@ -1,5 +1,5 @@
 ---
-title: 'Validación de entrada para campos de texto con expresiones regulares - SeaTable'
+title: 'Validación de entrada para campos de texto con expresiones regulares'
 date: 2023-05-03
 lastmod: '2024-03-11'
 categories:

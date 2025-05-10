@@ -1,5 +1,5 @@
 ---
-title: 'A Fórmula Lookup - SeaTable'
+title: 'A Fórmula Lookup'
 date: 2022-10-13
 lastmod: '2023-04-06'
 categories:

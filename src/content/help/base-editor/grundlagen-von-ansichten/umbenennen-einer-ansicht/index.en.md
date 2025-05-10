@@ -1,11 +1,11 @@
 ---
-title: "Rename a view - SeaTable"
+title: 'Rename a view'
 date: 2022-10-26
-lastmod: "2023-01-02"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/help/umbenennen-einer-ansicht"
+lastmod: '2023-01-02'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/help/umbenennen-einer-ansicht'
 ---
 
 For the optimal overview of the data in your table, SeaTable offers you **views** in which you can store your filters, sorts and groupings. You should give these views a meaningful name. Even afterwards, you can **rename** your views at any time.

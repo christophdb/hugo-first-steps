@@ -1,5 +1,5 @@
 ---
-title: 'Copy the rows URL - SeaTable'
+title: 'Copy the rows URL'
 date: 2023-03-09
 lastmod: '2023-03-09'
 categories:

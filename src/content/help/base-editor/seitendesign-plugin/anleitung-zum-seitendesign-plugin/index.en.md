@@ -1,5 +1,5 @@
 ---
-title: 'Page Design Plugin Guide - SeaTable'
+title: 'Page Design Plugin Guide'
 date: 2023-02-07
 lastmod: '2023-07-04'
 categories:

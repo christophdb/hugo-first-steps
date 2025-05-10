@@ -1,5 +1,5 @@
 ---
-title: 'Annuler des actions - SeaTable'
+title: 'Annuler des actions'
 date: 2022-09-28
 lastmod: '2022-12-28'
 categories:

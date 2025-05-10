@@ -1,11 +1,11 @@
 ---
-title: "Колонка цифр - SeaTable"
+title: 'Колонка цифр'
 date: 2023-01-08
-lastmod: "2023-11-08"
-categories: 
-  - "text-und-zahlen"
-author: "ssc"
-url: "/ru/help/die-zahlen-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'text-und-zahlen'
+author: 'ssc'
+url: '/ru/help/die-zahlen-spalte'
 ---
 
 В SeaTable вы можете использовать **колонку чисел** различными способами для работы с числами любого вида (например, количество товаров, расстояние до пунктов назначения, цена продукта и т.д.).

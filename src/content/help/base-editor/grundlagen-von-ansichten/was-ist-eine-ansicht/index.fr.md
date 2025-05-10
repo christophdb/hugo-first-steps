@@ -1,11 +1,11 @@
 ---
-title: "Qu'est-ce qu'une vue ? - SeaTable"
+title: "Qu'est-ce qu'une vue ?"
 date: 2023-01-13
-lastmod: "2023-01-13"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/fr/aide/was-ist-eine-ansicht"
+lastmod: '2023-01-13'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/fr/aide/was-ist-eine-ansicht'
 ---
 
 Chaque fois que vous consultez vos données dans un tableau, vous le faites via une **vue**. Même si vous avez créé un tout nouveau tableau, vous le consultez déjà dans la **vue "Default View"** fournie par défaut **.**

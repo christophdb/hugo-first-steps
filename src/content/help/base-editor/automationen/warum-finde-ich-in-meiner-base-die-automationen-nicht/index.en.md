@@ -1,5 +1,5 @@
 ---
-title: "Why can't I find the automations in my base? - SeaTable"
+title: "Why can't I find the automations in my base?"
 date: 2023-01-27
 lastmod: '2023-02-01'
 categories:

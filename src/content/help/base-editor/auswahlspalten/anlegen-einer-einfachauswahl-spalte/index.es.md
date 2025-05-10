@@ -1,11 +1,11 @@
 ---
-title: "Creación de una columna de selección única - SeaTable"
+title: 'Creación de una columna de selección única'
 date: 2022-10-10
-lastmod: "2024-04-15"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/es/ayuda/anlegen-einer-einfachauswahl-spalte"
+lastmod: '2024-04-15'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/es/ayuda/anlegen-einer-einfachauswahl-spalte'
 ---
 
 Una columna de selección única es ideal si desea asignar **exactamente una opción** de una lista de opciones a definir a sus filas. Las opciones tienen **etiquetas de** colores, que puedes utilizar para **clasificar** tus registros y hacer tablas claras.

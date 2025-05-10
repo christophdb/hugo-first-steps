@@ -1,5 +1,5 @@
 ---
-title: 'Copiar linhas para outra tabela utilizando um botão - SeaTable'
+title: 'Copiar linhas para outra tabela utilizando um botão'
 date: 2024-02-20
 lastmod: '2024-02-20'
 categories:

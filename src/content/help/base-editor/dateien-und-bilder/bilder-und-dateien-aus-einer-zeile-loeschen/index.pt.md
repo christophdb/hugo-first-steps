@@ -1,5 +1,5 @@
 ---
-title: 'Apagar imagens e ficheiros de uma fila - SeaTable'
+title: 'Apagar imagens e ficheiros de uma fila'
 date: 2022-11-16
 lastmod: '2023-06-29'
 categories:

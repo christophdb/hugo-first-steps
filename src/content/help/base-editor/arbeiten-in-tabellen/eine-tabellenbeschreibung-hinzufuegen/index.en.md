@@ -1,5 +1,5 @@
 ---
-title: 'Add a table description - SeaTable'
+title: 'Add a table description'
 date: 2023-08-21
 lastmod: '2023-08-21'
 categories:

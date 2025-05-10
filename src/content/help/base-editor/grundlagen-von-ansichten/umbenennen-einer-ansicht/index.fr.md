@@ -1,11 +1,11 @@
 ---
-title: "Renommer une vue - SeaTable"
+title: 'Renommer une vue'
 date: 2022-10-26
-lastmod: "2023-01-02"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/fr/aide/umbenennen-einer-ansicht"
+lastmod: '2023-01-02'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/fr/aide/umbenennen-einer-ansicht'
 ---
 
 Pour une vue d'ensemble optimale des données de votre tableau, SeaTable vous propose **des vues** dans lesquelles vous pouvez enregistrer vos filtres, tris et regroupements. Nous vous conseillons de donner un nom significatif à ces vues. Vous pouvez également **renommer** vos **vues** à tout moment par la suite.

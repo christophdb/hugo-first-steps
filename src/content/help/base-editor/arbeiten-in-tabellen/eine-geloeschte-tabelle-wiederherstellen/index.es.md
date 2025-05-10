@@ -1,5 +1,5 @@
 ---
-title: 'Restaurar una tabla eliminada - SeaTable'
+title: 'Restaurar una tabla eliminada'
 date: 2022-11-17
 lastmod: '2023-01-12'
 categories:

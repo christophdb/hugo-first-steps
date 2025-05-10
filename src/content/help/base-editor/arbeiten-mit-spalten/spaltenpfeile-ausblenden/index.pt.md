@@ -1,5 +1,5 @@
 ---
-title: 'Esconder setas de coluna - SeaTable'
+title: 'Esconder setas de coluna'
 date: 2022-11-16
 lastmod: '2023-02-15'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Dupliquer une table - SeaTable'
+title: 'Dupliquer une table'
 date: 2024-02-20
 lastmod: '2024-02-20'
 categories:

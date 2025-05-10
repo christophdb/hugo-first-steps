@@ -1,5 +1,5 @@
 ---
-title: 'Importar un archivo XLSX al almacén de Big Data - SeaTable'
+title: 'Importar un archivo XLSX al almacén de Big Data'
 date: 2024-05-10
 lastmod: '2024-05-14'
 categories:

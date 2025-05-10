@@ -1,5 +1,5 @@
 ---
-title: 'Criar novas entradas de calendário no plugin do calendário - SeaTable'
+title: 'Criar novas entradas de calendário no plugin do calendário'
 date: 2023-01-08
 lastmod: '2025-02-27'
 categories:

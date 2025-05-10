@@ -1,11 +1,11 @@
 ---
-title: "Guia de Plugin da Galeria - SeaTable"
+title: 'Guia de Plugin da Galeria'
 date: 2023-01-08
-lastmod: "2023-06-29"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/pt/ajuda/anleitung-zum-galerie-plugin"
+lastmod: '2023-06-29'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/pt/ajuda/anleitung-zum-galerie-plugin'
 ---
 
 O **plugin da galeria** é particularmente adequado para apresentar registos ilustrados, uma vez que se refere principalmente ao conteúdo de uma [coluna de imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/).

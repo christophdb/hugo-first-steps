@@ -1,11 +1,11 @@
 ---
-title: "Operaciones de tratamiento de datos en SeaTable - SeaTable"
+title: 'Operaciones de tratamiento de datos en SeaTable'
 date: 2023-03-20
-lastmod: "2023-04-28"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/es/ayuda/datenverarbeitungsoperationen-in-seatable"
+lastmod: '2023-04-28'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/es/ayuda/datenverarbeitungsoperationen-in-seatable'
 ---
 
 La función de tratamiento de datos es una característica útil de SeaTable que le permite realizar **operaciones** en una columna a través de varias filas. Al definir una operación, puede realizar diversos **cálculos matemáticos** o establecer **relaciones entre valores** de distintas tablas. Las operaciones de procesamiento de datos son especialmente eficaces en grandes conjuntos de datos en los que puede realizar un gran número de cálculos.

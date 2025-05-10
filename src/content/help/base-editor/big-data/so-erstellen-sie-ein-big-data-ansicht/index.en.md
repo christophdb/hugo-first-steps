@@ -1,5 +1,5 @@
 ---
-title: 'How to create a big data view - SeaTable'
+title: 'How to create a big data view'
 date: 2022-09-23
 lastmod: '2024-05-13'
 categories:

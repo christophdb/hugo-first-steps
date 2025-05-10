@@ -1,11 +1,11 @@
 ---
-title: "La colonne permanente - SeaTable"
+title: 'La colonne permanente'
 date: 2023-01-07
-lastmod: "2023-01-23"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/fr/aide/die-dauer-spalte"
+lastmod: '2023-01-23'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/fr/aide/die-dauer-spalte'
 ---
 
 La **colonne "Durée** " est particulièrement bien adaptée pour enregistrer la durée de différents événements. Elle peut saisir une **période** à la minute ou même à la seconde près. Par exemple, pour la saisie du temps de travail, il est intéressant d'utiliser la colonne de durée en combinaison avec une [colonne de date](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/).

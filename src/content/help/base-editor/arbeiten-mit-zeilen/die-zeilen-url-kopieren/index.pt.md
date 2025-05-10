@@ -1,5 +1,5 @@
 ---
-title: 'Copiar o URL da linha - SeaTable'
+title: 'Copiar o URL da linha'
 date: 2023-03-09
 lastmod: '2023-03-09'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Create multiple calendars for one base - SeaTable"
+title: 'Create multiple calendars for one base'
 date: 2023-01-08
-lastmod: "2023-08-16"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/help/mehrere-kalender-fuer-eine-base-anlegen"
+lastmod: '2023-08-16'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/help/mehrere-kalender-fuer-eine-base-anlegen'
 ---
 
 By creating **multiple calendars** in a Base, you can store specific appointments in different calendars. For example, you can create individual calendars for different projects. If you collaborate with multiple people in a Base, each team member can create individual calendars.

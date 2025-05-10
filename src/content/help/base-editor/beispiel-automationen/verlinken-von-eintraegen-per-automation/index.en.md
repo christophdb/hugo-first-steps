@@ -1,5 +1,5 @@
 ---
-title: 'Linking entries via automation - SeaTable'
+title: 'Linking entries via automation'
 date: 2023-01-30
 lastmod: '2023-04-06'
 categories:

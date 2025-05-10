@@ -1,5 +1,5 @@
 ---
-title: 'Enviar un correo electrónico por botón - SeaTable'
+title: 'Enviar un correo electrónico por botón'
 date: 2023-01-23
 lastmod: '2024-02-20'
 categories:

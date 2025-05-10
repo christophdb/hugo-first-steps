@@ -1,5 +1,5 @@
 ---
-title: 'História e Registos - SeaTable'
+title: 'História e Registos'
 date: 2023-03-20
 lastmod: '2024-12-16'
 categories:

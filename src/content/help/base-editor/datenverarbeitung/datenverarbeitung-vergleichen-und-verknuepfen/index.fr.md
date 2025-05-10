@@ -1,5 +1,5 @@
 ---
-title: 'Traitement des données : comparer et relier - SeaTable'
+title: 'Traitement des données : comparer et relier'
 date: 2023-03-20
 lastmod: '2023-03-20'
 categories:

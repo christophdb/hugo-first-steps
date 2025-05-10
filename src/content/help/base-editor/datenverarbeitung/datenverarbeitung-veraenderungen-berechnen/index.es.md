@@ -1,11 +1,11 @@
 ---
-title: "Tratamiento de datos: Calcular cambios - SeaTable"
+title: 'Tratamiento de datos: Calcular cambios'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/es/ayuda/datenverarbeitung-veraenderungen-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/es/ayuda/datenverarbeitung-veraenderungen-berechnen'
 ---
 
 Con la función de tratamiento de datos, puede realizar varias operaciones en una columna. Una operación es el **cálculo de cambios**, con el que puede calcular los cambios de valor a valor en una columna numérica. Para ello, basta con definir la operación de tratamiento de datos correspondiente a través de las opciones de vista de la tabla.

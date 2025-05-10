@@ -1,5 +1,5 @@
 ---
-title: 'Formula example: Logical If operators for conditional filling of values - SeaTable'
+title: 'Formula example: Logical If operators for conditional filling of values'
 date: 2023-01-28
 lastmod: '2023-09-19'
 categories:

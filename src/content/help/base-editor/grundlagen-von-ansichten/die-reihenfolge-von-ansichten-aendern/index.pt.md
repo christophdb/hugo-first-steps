@@ -1,5 +1,5 @@
 ---
-title: 'Alterar a ordem de pontos de vista - SeaTable'
+title: 'Alterar a ordem de pontos de vista'
 date: 2022-11-07
 lastmod: '2023-01-02'
 categories:

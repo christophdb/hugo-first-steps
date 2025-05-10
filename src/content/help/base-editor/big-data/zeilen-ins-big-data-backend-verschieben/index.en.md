@@ -1,5 +1,5 @@
 ---
-title: 'rows move to big data storage - SeaTable'
+title: 'rows move to big data storage'
 date: 2022-09-23
 lastmod: '2024-05-13'
 categories:

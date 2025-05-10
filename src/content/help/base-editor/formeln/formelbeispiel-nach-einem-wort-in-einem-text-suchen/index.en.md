@@ -1,5 +1,5 @@
 ---
-title: 'Formula example: Search for a word in a text - SeaTable'
+title: 'Formula example: Search for a word in a text'
 date: 2023-01-28
 lastmod: '2023-09-19'
 categories:

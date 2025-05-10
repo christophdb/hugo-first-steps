@@ -1,5 +1,5 @@
 ---
-title: 'Eliminar imágenes y archivos de una fila - SeaTable'
+title: 'Eliminar imágenes y archivos de una fila'
 date: 2022-11-16
 lastmod: '2023-06-29'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Creating a single selection column - SeaTable"
+title: 'Creating a single selection column'
 date: 2022-10-10
-lastmod: "2024-04-15"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/help/anlegen-einer-einfachauswahl-spalte"
+lastmod: '2024-04-15'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/help/anlegen-einer-einfachauswahl-spalte'
 ---
 
 A single-selection column is ideal if you want to assign**exactly one option** to your rows from a list of options to be defined. The options are given colorful **labels** that you can use to **categorize** your records and organize tables clearly.

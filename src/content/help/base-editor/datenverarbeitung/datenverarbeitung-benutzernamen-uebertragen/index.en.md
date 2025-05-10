@@ -1,5 +1,5 @@
 ---
-title: 'Data processing: Transfer user name - SeaTable'
+title: 'Data processing: Transfer user name'
 date: 2023-03-17
 lastmod: '2023-03-17'
 categories:

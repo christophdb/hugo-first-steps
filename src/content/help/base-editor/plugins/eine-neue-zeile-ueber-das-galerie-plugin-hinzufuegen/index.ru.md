@@ -1,11 +1,11 @@
 ---
-title: "Добавление нового ряда с помощью плагина галереи - SeaTable"
+title: 'Добавление нового ряда с помощью плагина галереи'
 date: 2023-01-08
-lastmod: "2023-02-03"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/ru/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen"
+lastmod: '2023-02-03'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/ru/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 ---
 
 Обычно вы [создаете](https://seatable.io/ru/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) новые строки в **представлении таблицы**. Однако в **плагине галереи** у вас есть и такая возможность. Вновь созданная строка отображается в галерее в виде **альбома** и вставляется в таблицу ниже всех остальных строк.

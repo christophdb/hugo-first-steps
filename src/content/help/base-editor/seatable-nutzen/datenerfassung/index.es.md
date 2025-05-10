@@ -1,11 +1,11 @@
 ---
-title: "Recogida de datos - SeaTable"
+title: 'Recogida de datos'
 date: 2023-03-15
-lastmod: "2023-03-15"
-categories: 
-  - "seatable-nutzen"
-author: "kgr"
-url: "/es/ayuda/datenerfassung"
+lastmod: '2023-03-15'
+categories:
+    - 'seatable-nutzen'
+author: 'kgr'
+url: '/es/ayuda/datenerfassung'
 ---
 
 Este artículo destaca algunas de las formas en que puede capturar datos en SeaTable.

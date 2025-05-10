@@ -1,5 +1,5 @@
 ---
-title: "Limitations de l'utilisation des données volumineuses - SeaTable"
+title: "Limitations de l'utilisation des données volumineuses"
 date: 2023-05-11
 lastmod: '2024-12-16'
 categories:

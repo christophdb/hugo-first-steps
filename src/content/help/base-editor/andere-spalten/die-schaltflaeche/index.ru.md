@@ -1,11 +1,11 @@
 ---
-title: "Кнопка - SeaTable"
+title: 'Кнопка'
 date: 2023-01-07
-lastmod: "2023-08-23"
-categories: 
-  - "andere-spalten"
-author: "nsc2"
-url: "/ru/help/die-schaltflaeche"
+lastmod: '2023-08-23'
+categories:
+    - 'andere-spalten'
+author: 'nsc2'
+url: '/ru/help/die-schaltflaeche'
 ---
 
 Кнопочная колонка выполняет функцию, аналогичную [автоматике](https://seatable.io/ru/docs/arbeiten-mit-automationen/anlegen-einer-automation/), при которой кнопками всегда приходится управлять **вручную**. С помощью **кнопки**, которую вы можете добавить к своим **строкам в** этой колонке, вы запускаете **действия**, определенные заранее. По этой причине данный тип колонн особенно подходит для автоматизации технологических процессов.

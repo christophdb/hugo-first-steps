@@ -1,11 +1,11 @@
 ---
-title: "Связывание правил фильтрации с помощью AND и OR - SeaTable"
+title: 'Связывание правил фильтрации с помощью AND и OR'
 date: 2022-11-16
-lastmod: "2025-02-25"
-categories: 
-  - "ansichtsoptionen"
-author: "vge"
-url: "/ru/help/filter-regeln-mit-und-und-oder-verknuepfen"
+lastmod: '2025-02-25'
+categories:
+    - 'ansichtsoptionen'
+author: 'vge'
+url: '/ru/help/filter-regeln-mit-und-und-oder-verknuepfen'
 ---
 
 При [фильтрации записей в представлении](https://seatable.io/ru/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) можно также создать **несколько правил фильтрации** для уточнения условий и дальнейшего сужения применимых записей. Здесь проводится различие между **связью И** и **связью ИЛИ**. Можно также использовать **группы фильтров** для объединения логических связей И/ИЛИ.

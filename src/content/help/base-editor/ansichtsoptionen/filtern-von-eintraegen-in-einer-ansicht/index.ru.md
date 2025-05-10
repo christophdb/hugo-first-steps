@@ -1,11 +1,11 @@
 ---
-title: "Фильтрация записей в представлении - SeaTable"
+title: 'Фильтрация записей в представлении'
 date: 2022-11-16
-lastmod: "2025-02-25"
-categories: 
-  - "ansichtsoptionen"
-author: "vge"
-url: "/ru/help/filtern-von-eintraegen-in-einer-ansicht"
+lastmod: '2025-02-25'
+categories:
+    - 'ansichtsoptionen'
+author: 'vge'
+url: '/ru/help/filtern-von-eintraegen-in-einer-ansicht'
 ---
 
 С помощью функции фильтрации SeaTable вы можете использовать **правила** фильтрации для отсеивания нужных записей из таблицы и отображения только тех записей, которые соответствуют определенным критериям. Набор фильтров относится только к **активному представлению**.

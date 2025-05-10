@@ -1,5 +1,5 @@
 ---
-title: 'Guía del plugin de pizarra (obsoleto) - SeaTable'
+title: 'Guía del plugin de pizarra (obsoleto)'
 date: 2024-08-01
 lastmod: '2025-04-24'
 categories:

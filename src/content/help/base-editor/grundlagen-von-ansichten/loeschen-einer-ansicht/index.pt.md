@@ -1,5 +1,5 @@
 ---
-title: 'Apagar uma vista - SeaTable'
+title: 'Apagar uma vista'
 date: 2022-10-26
 lastmod: '2023-01-02'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Formateo con Markdown / Texto enriquecido - SeaTable'
+title: 'Formateo con Markdown / Texto enriquecido'
 date: 2023-05-11
 lastmod: '2023-08-21'
 categories:

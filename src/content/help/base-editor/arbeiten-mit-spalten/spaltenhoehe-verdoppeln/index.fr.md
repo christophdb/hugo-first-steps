@@ -1,5 +1,5 @@
 ---
-title: "Doubler la hauteur de l'en-tête du tableau - SeaTable"
+title: "Doubler la hauteur de l'en-tête du tableau"
 date: 2022-11-16
 lastmod: '2023-02-15'
 categories:

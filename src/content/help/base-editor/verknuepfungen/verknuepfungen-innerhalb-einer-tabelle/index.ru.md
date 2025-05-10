@@ -1,5 +1,5 @@
 ---
-title: 'Ссылки внутри таблицы - SeaTable'
+title: 'Ссылки внутри таблицы'
 date: 2025-02-28
 lastmod: '2025-02-28'
 categories:

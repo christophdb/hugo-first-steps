@@ -1,5 +1,5 @@
 ---
-title: 'Wie man Dateien dauerhaft entfernt - SeaTable'
+title: 'Wie man Dateien dauerhaft entfernt'
 date: 2022-11-16
 lastmod: '2024-03-18'
 categories:

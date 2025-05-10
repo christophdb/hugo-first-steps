@@ -1,11 +1,11 @@
 ---
-title: "Aperçu des automatisations - SeaTable"
+title: 'Aperçu des automatisations'
 date: 2023-01-31
-lastmod: "2023-03-21"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/fr/aide/uebersicht-ueber-automationen"
+lastmod: '2023-03-21'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/fr/aide/uebersicht-ueber-automationen'
 ---
 
 {{< required-version "Entreprise" >}}

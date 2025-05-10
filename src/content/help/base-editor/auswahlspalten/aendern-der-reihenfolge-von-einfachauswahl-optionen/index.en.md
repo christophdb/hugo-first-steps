@@ -1,5 +1,5 @@
 ---
-title: 'Changing the order of single-selection options - SeaTable'
+title: 'Changing the order of single-selection options'
 date: 2023-01-07
 lastmod: '2024-04-15'
 categories:

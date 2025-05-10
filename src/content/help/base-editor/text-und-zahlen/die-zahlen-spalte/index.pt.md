@@ -1,11 +1,11 @@
 ---
-title: "A Coluna de Números - SeaTable"
+title: 'A Coluna de Números'
 date: 2023-01-08
-lastmod: "2023-11-08"
-categories: 
-  - "text-und-zahlen"
-author: "ssc"
-url: "/pt/ajuda/die-zahlen-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'text-und-zahlen'
+author: 'ssc'
+url: '/pt/ajuda/die-zahlen-spalte'
 ---
 
 No SeaTable pode utilizar a **coluna de números** de muitas maneiras para trabalhar com números de qualquer tipo (por exemplo, número de artigos, distância até aos destinos, preço de um produto, etc.).

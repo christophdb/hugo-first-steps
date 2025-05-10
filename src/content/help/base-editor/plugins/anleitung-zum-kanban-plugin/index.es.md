@@ -1,5 +1,5 @@
 ---
-title: 'Guía del plugin Kanban - SeaTable'
+title: 'Guía del plugin Kanban'
 date: 2023-01-08
 lastmod: '2023-08-16'
 categories:

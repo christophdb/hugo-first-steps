@@ -1,11 +1,11 @@
 ---
-title: "A coluna de datas - SeaTable"
+title: 'A coluna de datas'
 date: 2023-01-23
-lastmod: "2023-11-08"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/pt/ajuda/die-datum-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/pt/ajuda/die-datum-spalte'
 ---
 
 Pode utilizar a coluna de data para introduzir **horas** e **datas** nas suas tabelas até ao minuto. Basta utilizar o calendário que aparece ou o teclado para introduzir uma data manualmente. Tenha em atenção que o SeaTable não aceita quaisquer outras entradas de dados numa coluna de data.

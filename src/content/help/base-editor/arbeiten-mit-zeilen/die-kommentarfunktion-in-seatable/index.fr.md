@@ -1,11 +1,11 @@
 ---
-title: "La fonction de commentaire dans SeaTable - SeaTable"
+title: 'La fonction de commentaire dans SeaTable'
 date: 2023-01-13
-lastmod: "2023-08-09"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "cdb"
-url: "/fr/aide/die-kommentarfunktion-in-seatable"
+lastmod: '2023-08-09'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'cdb'
+url: '/fr/aide/die-kommentarfunktion-in-seatable'
 ---
 
 Lorsque vous travaillez sur des données avec d'autres utilisateurs, les discussions, remarques ou questions sur les données (par exemple sur l'exactitude des entrées) sont inévitables. Vous ne voulez pas régler de telles **conversations** par e-mail ou dans des systèmes de chat, mais de préférence directement là où se trouvent les données, à savoir dans la **ligne** correspondante du tableau. Ainsi, même des jours ou des semaines plus tard, il est facile de savoir pourquoi les données sont telles qu'elles sont, comment on s'est mis d'accord et quel est l'état actuel.

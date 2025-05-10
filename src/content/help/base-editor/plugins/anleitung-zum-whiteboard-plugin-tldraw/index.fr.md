@@ -1,5 +1,5 @@
 ---
-title: 'Anleitung zum Whiteboard-Plugin (tldraw) - SeaTable'
+title: 'Anleitung zum Whiteboard-Plugin (tldraw)'
 date: 2025-04-24
 lastmod: '2025-04-24'
 categories:

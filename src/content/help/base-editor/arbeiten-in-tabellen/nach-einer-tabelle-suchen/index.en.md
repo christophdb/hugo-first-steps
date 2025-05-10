@@ -1,5 +1,5 @@
 ---
-title: 'Search for a table - SeaTable'
+title: 'Search for a table'
 date: 2025-02-27
 lastmod: '2025-02-27'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Колонка для файлов - SeaTable'
+title: 'Колонка для файлов'
 date: 2022-11-16
 lastmod: '2024-08-02'
 categories:

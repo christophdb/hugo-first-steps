@@ -1,5 +1,5 @@
 ---
-title: 'Header and footer - SeaTable'
+title: 'Header and footer'
 date: 2023-02-08
 lastmod: '2023-02-09'
 categories:

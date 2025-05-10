@@ -1,11 +1,11 @@
 ---
-title: "La colonne des chiffres - SeaTable"
+title: 'La colonne des chiffres'
 date: 2023-01-08
-lastmod: "2023-11-08"
-categories: 
-  - "text-und-zahlen"
-author: "ssc"
-url: "/fr/aide/die-zahlen-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'text-und-zahlen'
+author: 'ssc'
+url: '/fr/aide/die-zahlen-spalte'
 ---
 
 Dans SeaTable, vous pouvez utiliser la **colonne des nombres de** manière polyvalente pour travailler avec des nombres de toutes sortes (par exemple, le nombre d'objets, la distance jusqu'à des cibles, le prix d'un produit, etc.)

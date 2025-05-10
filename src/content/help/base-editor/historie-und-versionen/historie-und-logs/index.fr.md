@@ -1,5 +1,5 @@
 ---
-title: 'Historique et journaux - SeaTable'
+title: 'Historique et journaux'
 date: 2023-03-20
 lastmod: '2024-12-16'
 categories:

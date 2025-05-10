@@ -1,11 +1,11 @@
 ---
-title: "Prefill form fields - SeaTable"
+title: 'Prefill form fields'
 date: 2023-01-08
-lastmod: "2024-03-18"
-categories: 
-  - "webformulare"
-author: "vge"
-url: "/help/formularfelder-per-url-vorbefuellen"
+lastmod: '2024-03-18'
+categories:
+    - 'webformulare'
+author: 'vge'
+url: '/help/formularfelder-per-url-vorbefuellen'
 ---
 
 To **prefill web forms**, you have the option of defining default values in the form fields. You can do this directly in the URL or using a user-friendly function in SeaTable.
@@ -36,13 +36,13 @@ The result, i.e. the extended URL, is the same as with the manual procedure desc
 1. Create a [web form](https://seatable.io/en/docs/webformulare/webformulare/).
 2. Click on the {{< seatable-icon icon="dtable-icon-share" >}} **Share** button in the web form editor to receive the link to the web form.
 3. **Copy** the link and paste it in a new tab in the **browser search bar**, where you can edit and test it.
-4. To **prefill** a form field with a default value, append the string **/?prefill\_COLUMNAME=PREFILLVALUE'** to the form link.
+4. To **prefill** a form field with a default value, append the string **/?prefill_COLUMNAME=PREFILLVALUE'** to the form link.
 
 Instead of **COLUMNNAME** put the name of the field you want to fill in; for **PREFILLVALUE** put the desired default value. Spaces are to be written as **%20**. Pay attention to upper and lower case.
 
-**Example:** If you want to send Joe Smith a personalized web form with his name already filled in, append the string **/?prefill\_name=Joe%20Smith** to the form link.
+**Example:** If you want to send Joe Smith a personalized web form with his name already filled in, append the string **/?prefill_name=Joe%20Smith** to the form link.
 
-To use **multiple default values**, concatenate the prefill entries with an **& character**: /?**prefill\_COLUMNAME=PREFILLVALUE&prefill\_COLUMNAME=PREFILLVALUE**
+To use **multiple default values**, concatenate the prefill entries with an **& character**: /?**prefill_COLUMNAME=PREFILLVALUE&prefill_COLUMNAME=PREFILLVALUE**
 
 Once you are done, you can test the link by pressing the **Enter key** and opening the web form. If everything worked, you can see the pre-filled default values in this **preview**.
 
@@ -50,29 +50,29 @@ Once you are done, you can test the link by pressing the **Enter key** and openi
 
 Depending on which column type a form field is based on, pre-filling is not always possible. In the following overview you can see which column types allow prefilling via URL and which do not.
 
-| Column type | Supports prefilling |
-| --- | --- |
-| Automatic number |  |
-| Image |  |
-| Checkbox |  |
-| File |  |
-| Date |  |
-| Duration |  |
-| Single selection |  |
-| E-mail |  |
-| Creator |  |
-| Created |  |
-| Formatted text |  |
-| Formula |  |
-| Formula for links |  |
-| Geoposition |  |
-| Last editor |  |
-| Multiple selection |  |
-| Employees |  |
-| Rating |  |
-| Button |  |
-| Signature |  |
-| Text |  |
-| URL |  |
-| Number |  |
-| Last edited |  |
+| Column type        | Supports prefilling |
+| ------------------ | ------------------- |
+| Automatic number   |                     |
+| Image              |                     |
+| Checkbox           |                     |
+| File               |                     |
+| Date               |                     |
+| Duration           |                     |
+| Single selection   |                     |
+| E-mail             |                     |
+| Creator            |                     |
+| Created            |                     |
+| Formatted text     |                     |
+| Formula            |                     |
+| Formula for links  |                     |
+| Geoposition        |                     |
+| Last editor        |                     |
+| Multiple selection |                     |
+| Employees          |                     |
+| Rating             |                     |
+| Button             |                     |
+| Signature          |                     |
+| Text               |                     |
+| URL                |                     |
+| Number             |                     |
+| Last edited        |                     |

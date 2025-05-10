@@ -1,11 +1,11 @@
 ---
-title: "Modifier les opérations de traitement des données - SeaTable"
+title: 'Modifier les opérations de traitement des données'
 date: 2023-03-13
-lastmod: "2023-03-13"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/fr/aide/datenverarbeitungsoperationen-bearbeiten"
+lastmod: '2023-03-13'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/fr/aide/datenverarbeitungsoperationen-bearbeiten'
 ---
 
 La fonction de traitement des données vous permet d'**effectuer** diverses **opérations**. Vous pouvez effectuer des calculs mathématiques sur toutes les valeurs d'une colonne ou établir une relation entre les valeurs si les entrées de deux tableaux différents sont identiques.

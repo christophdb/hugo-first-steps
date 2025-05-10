@@ -1,11 +1,11 @@
 ---
-title: "The geoposition column - SeaTable"
+title: 'The geoposition column'
 date: 2023-01-07
-lastmod: "2023-01-24"
-categories: 
-  - "andere-spalten"
-author: "nsc2"
-url: "/help/die-geopositions-spalte"
+lastmod: '2023-01-24'
+categories:
+    - 'andere-spalten'
+author: 'nsc2'
+url: '/help/die-geopositions-spalte'
 ---
 
 Using the Geopositions column, you can collect the longitude and latitude of any location in your tables. Additionally, you have the possibility to find a country or region using the search function and add it as an entry.

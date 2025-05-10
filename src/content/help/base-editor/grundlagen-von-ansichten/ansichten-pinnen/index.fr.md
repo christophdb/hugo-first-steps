@@ -1,11 +1,11 @@
 ---
-title: "Épingler des vues - SeaTable"
+title: 'Épingler des vues'
 date: 2023-02-21
-lastmod: "2023-02-21"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "nsc2"
-url: "/fr/aide/ansichten-pinnen"
+lastmod: '2023-02-21'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'nsc2'
+url: '/fr/aide/ansichten-pinnen'
 ---
 
 Dans chaque tableau, vous avez la possibilité d'afficher en permanence toutes les [vues](https://seatable.io/fr/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) disponibles dans une barre de navigation sur le bord gauche. Cela a surtout du sens si vous passez souvent d'une vue à l'autre et qu'un accès rend cela plus efficace.

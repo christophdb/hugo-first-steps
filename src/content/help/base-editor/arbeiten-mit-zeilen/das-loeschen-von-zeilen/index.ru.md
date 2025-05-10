@@ -1,5 +1,5 @@
 ---
-title: 'Удалить строку - SeaTable'
+title: 'Удалить строку'
 date: 2022-10-14
 lastmod: '2023-02-16'
 categories:

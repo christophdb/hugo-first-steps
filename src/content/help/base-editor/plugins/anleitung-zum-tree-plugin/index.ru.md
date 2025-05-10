@@ -1,5 +1,5 @@
 ---
-title: 'Инструкции для плагина Tree - SeaTable'
+title: 'Инструкции для плагина Tree'
 date: 2024-12-10
 lastmod: '2024-12-10'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'La colonne des signatures - SeaTable'
+title: 'La colonne des signatures'
 date: 2023-06-27
 lastmod: '2024-03-18'
 categories:

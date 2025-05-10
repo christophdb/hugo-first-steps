@@ -1,11 +1,11 @@
 ---
-title: "Traitement des données : calculer les changements - SeaTable"
+title: 'Traitement des données : calculer les changements'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/fr/aide/datenverarbeitung-veraenderungen-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/fr/aide/datenverarbeitung-veraenderungen-berechnen'
 ---
 
 La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. L'une de ces opérations est le **calcul des variations**, qui vous permet de calculer les variations de valeur à valeur dans une colonne numérique. Pour ce faire, il suffit de définir une opération de traitement des données correspondante via les options d'affichage de votre tableau.

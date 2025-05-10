@@ -1,5 +1,5 @@
 ---
-title: 'Procurar uma mesa - SeaTable'
+title: 'Procurar uma mesa'
 date: 2025-02-27
 lastmod: '2025-02-27'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Crear operaciones de tratamiento de datos - SeaTable"
+title: 'Crear operaciones de tratamiento de datos'
 date: 2023-03-03
-lastmod: "2023-03-13"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/es/ayuda/datenverarbeitungsoperationen-anlegen"
+lastmod: '2023-03-13'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/es/ayuda/datenverarbeitungsoperationen-anlegen'
 ---
 
 Con la ayuda de la función de tratamiento de datos, puede realizar diversas **operaciones**. Puede realizar cálculos matemáticos en todos los valores de una columna, así como correlacionar valores cuando las entradas de dos tablas diferentes son idénticas.

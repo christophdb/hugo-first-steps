@@ -1,5 +1,5 @@
 ---
-title: 'Envoyer un e-mail via un bouton - SeaTable'
+title: 'Envoyer un e-mail via un bouton'
 date: 2023-01-23
 lastmod: '2024-02-20'
 categories:

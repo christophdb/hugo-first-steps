@@ -1,5 +1,5 @@
 ---
-title: 'Guide to the organization chart plugin - SeaTable'
+title: 'Guide to the organization chart plugin'
 date: 2024-07-18
 lastmod: '2025-02-28'
 categories:

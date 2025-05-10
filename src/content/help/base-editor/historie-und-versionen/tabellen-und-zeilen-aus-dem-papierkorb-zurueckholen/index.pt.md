@@ -1,5 +1,5 @@
 ---
-title: 'Recuperar tabelas, filas e colunas do lixo - SeaTable'
+title: 'Recuperar tabelas, filas e colunas do lixo'
 date: 2022-10-11
 lastmod: '2023-01-11'
 categories:

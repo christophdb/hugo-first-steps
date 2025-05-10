@@ -1,11 +1,11 @@
 ---
-title: "Печать представления - SeaTable"
+title: 'Печать представления'
 date: 2022-11-07
-lastmod: "2023-06-28"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/ru/help/das-drucken-einer-ansicht"
+lastmod: '2023-06-28'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/ru/help/das-drucken-einer-ansicht'
 ---
 
 Различные **представления** могут облегчить работу с таблицами, содержащими большое количество информации. Вы также можете **распечатать** эти виды.

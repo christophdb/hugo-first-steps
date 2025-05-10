@@ -1,11 +1,11 @@
 ---
-title: "Saisie de données - SeaTable"
+title: 'Saisie de données'
 date: 2023-03-15
-lastmod: "2023-03-15"
-categories: 
-  - "seatable-nutzen"
-author: "kgr"
-url: "/fr/aide/datenerfassung"
+lastmod: '2023-03-15'
+categories:
+    - 'seatable-nutzen'
+author: 'kgr'
+url: '/fr/aide/datenerfassung'
 ---
 
 Cet article met en lumière quelques-unes des manières dont vous pouvez saisir des données dans SeaTable.

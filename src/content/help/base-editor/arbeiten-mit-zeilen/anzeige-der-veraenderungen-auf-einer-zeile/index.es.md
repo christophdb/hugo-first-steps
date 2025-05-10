@@ -1,11 +1,11 @@
 ---
-title: "Visualización de los cambios en una línea - SeaTable"
+title: 'Visualización de los cambios en una línea'
 date: 2022-11-16
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/es/ayuda/anzeige-der-veraenderungen-auf-einer-zeile"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/es/ayuda/anzeige-der-veraenderungen-auf-einer-zeile'
 ---
 
 SeaTable guarda todos los cambios que se realizan en una base. Dentro de una fila, el **registro de filas** ofrece la posibilidad de rastrear exactamente cuándo qué usuario realizó qué cambio.

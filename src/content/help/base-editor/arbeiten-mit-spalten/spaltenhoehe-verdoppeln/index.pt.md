@@ -1,5 +1,5 @@
 ---
-title: 'Duplicar a altura do cabeçalho da mesa - SeaTable'
+title: 'Duplicar a altura do cabeçalho da mesa'
 date: 2022-11-16
 lastmod: '2023-02-15'
 categories:

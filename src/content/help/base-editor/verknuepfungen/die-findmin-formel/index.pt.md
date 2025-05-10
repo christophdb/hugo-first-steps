@@ -1,5 +1,5 @@
 ---
-title: 'A Fórmula Findmin - SeaTable'
+title: 'A Fórmula Findmin'
 date: 2023-02-13
 lastmod: '2023-02-13'
 categories:

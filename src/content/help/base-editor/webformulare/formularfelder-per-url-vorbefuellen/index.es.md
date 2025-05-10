@@ -1,11 +1,11 @@
 ---
-title: "Rellenar campos de formulario - SeaTable"
+title: 'Rellenar campos de formulario'
 date: 2023-01-08
-lastmod: "2024-03-18"
-categories: 
-  - "webformulare"
-author: "vge"
-url: "/es/ayuda/formularfelder-per-url-vorbefuellen"
+lastmod: '2024-03-18'
+categories:
+    - 'webformulare'
+author: 'vge'
+url: '/es/ayuda/formularfelder-per-url-vorbefuellen'
 ---
 
 Para **rellenar formularios web**, tiene la opción de definir valores por defecto en los campos del formulario. Puede hacerlo directamente en la URL o utilizando una función fácil de usar en SeaTable.
@@ -36,13 +36,13 @@ El resultado, es decir, la URL ampliada, es el mismo que con el procedimiento ma
 1. Crear un [formulario web](https://seatable.io/es/docs/webformulare/webformulare/).
 2. Haga clic en el botón {{< seatable-icon icon="dtable-icon-share" >}} **Share** del editor de formularios web para recibir el enlace al formulario web.
 3. **Copia** el enlace y pégalo en una nueva pestaña en la **línea de búsqueda del navegador,** donde podrás editarlo y probarlo.
-4. Para **rellenar previamente** un campo de formulario con un valor predeterminado, añada la cadena **/?prefill\_COLUMNAME=PREFILLVALUE'** al enlace del formulario.
+4. Para **rellenar previamente** un campo de formulario con un valor predeterminado, añada la cadena **/?prefill_COLUMNAME=PREFILLVALUE'** al enlace del formulario.
 
 En lugar de **COLUMNNAME**, ponga el nombre del campo que desea rellenar; para **PREFILLVALUE**, ponga el valor por defecto deseado. Los espacios deben escribirse como **%20**. Preste atención a las mayúsculas y minúsculas.
 
-**Ejemplo:** Si desea enviar a Joe Smith un formulario web personalizado con su nombre ya rellenado, añada la cadena **/?prefill\_name=Joe%20Smith** al enlace del formulario.
+**Ejemplo:** Si desea enviar a Joe Smith un formulario web personalizado con su nombre ya rellenado, añada la cadena **/?prefill_name=Joe%20Smith** al enlace del formulario.
 
-Para utilizar **varios valores predeterminados**, concatene las entradas de relleno con un **carácter &**: /**?prefill\_COLUMNAME=PREFILLVALUE&prefill\_COLUMNAME=PREFILLVALUE**
+Para utilizar **varios valores predeterminados**, concatene las entradas de relleno con un **carácter &**: /**?prefill_COLUMNAME=PREFILLVALUE&prefill_COLUMNAME=PREFILLVALUE**
 
 Una vez que haya terminado, puede probar el enlace pulsando la **tecla Intro** y abriendo el formulario web. Si todo ha funcionado, puedes ver los valores por defecto pre-rellenados en esta **vista previa**.
 
@@ -50,29 +50,29 @@ Una vez que haya terminado, puede probar el enlace pulsando la **tecla Intro** y
 
 Dependiendo del tipo de columna en el que se base un campo de formulario, no siempre es posible rellenarlo previamente. En el siguiente resumen puede ver qué tipos de columna permiten el rellenado previo mediante URL y cuáles no.
 
-| Tipo de columna | Admite prellenado |
-| --- | --- |
-| Número automático |  |
-| Imagen |  |
-| Casilla de verificación |  |
-| Archivo |  |
-| Fecha |  |
-| Duración |  |
-| Selección individual |  |
-| Correo electrónico |  |
-| Creador |  |
-| Creado |  |
-| Texto con formato |  |
-| Fórmula |  |
-| Fórmula para los enlaces |  |
-| Geoposición |  |
-| Último editor |  |
-| Selección múltiple |  |
-| Empleados |  |
-| Clasificación |  |
-| Botón |  |
-| Firma |  |
-| Texto |  |
-| URL |  |
-| Número |  |
-| Última edición |  |
+| Tipo de columna          | Admite prellenado |
+| ------------------------ | ----------------- |
+| Número automático        |                   |
+| Imagen                   |                   |
+| Casilla de verificación  |                   |
+| Archivo                  |                   |
+| Fecha                    |                   |
+| Duración                 |                   |
+| Selección individual     |                   |
+| Correo electrónico       |                   |
+| Creador                  |                   |
+| Creado                   |                   |
+| Texto con formato        |                   |
+| Fórmula                  |                   |
+| Fórmula para los enlaces |                   |
+| Geoposición              |                   |
+| Último editor            |                   |
+| Selección múltiple       |                   |
+| Empleados                |                   |
+| Clasificación            |                   |
+| Botón                    |                   |
+| Firma                    |                   |
+| Texto                    |                   |
+| URL                      |                   |
+| Número                   |                   |
+| Última edición           |                   |

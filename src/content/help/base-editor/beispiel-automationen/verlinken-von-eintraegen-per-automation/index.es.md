@@ -1,5 +1,5 @@
 ---
-title: 'Vinculación de entradas mediante automatización - SeaTable'
+title: 'Vinculación de entradas mediante automatización'
 date: 2023-01-30
 lastmod: '2023-04-06'
 categories:

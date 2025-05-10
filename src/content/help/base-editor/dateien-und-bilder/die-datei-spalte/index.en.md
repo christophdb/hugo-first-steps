@@ -1,5 +1,5 @@
 ---
-title: 'The file column - SeaTable'
+title: 'The file column'
 date: 2022-11-16
 lastmod: '2024-08-02'
 categories:

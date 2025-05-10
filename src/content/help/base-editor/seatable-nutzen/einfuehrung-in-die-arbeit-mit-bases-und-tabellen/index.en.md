@@ -1,11 +1,11 @@
 ---
-title: "Introduction to working with bases and tables - SeaTable"
+title: 'Introduction to working with bases and tables'
 date: 2023-01-07
-lastmod: "2023-03-24"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/help/einfuehrung-in-die-arbeit-mit-bases-und-tabellen"
+lastmod: '2023-03-24'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/help/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 ---
 
 Each of the square icons on your Home page represents a **Base**. It is a database, comparable to a workbook in a conventional spreadsheet and can contain several **tables** on different topics.

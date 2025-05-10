@@ -1,11 +1,11 @@
 ---
-title: "Imagem estática - SeaTable"
+title: 'Imagem estática'
 date: 2023-02-07
-lastmod: "2023-06-29"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/pt/ajuda/statisches-bild"
+lastmod: '2023-06-29'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/pt/ajuda/statisches-bild'
 ---
 
 Uma **imagem estática** oferece-lhe a possibilidade de incluir **ficheiros de imagem** como logótipos, gráficos ou imagens de fundo numa página para criar uma apresentação básica da página. Ao contrário das imagens provenientes de [colunas de imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) na sua tabela, uma imagem estática não se altera e permanece a mesma, independentemente das entradas na tabela. No entanto, é necessário **carregar manualmente** o ficheiro de imagem correspondente.

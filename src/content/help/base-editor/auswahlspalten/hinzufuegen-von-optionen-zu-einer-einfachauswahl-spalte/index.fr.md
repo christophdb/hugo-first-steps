@@ -1,5 +1,5 @@
 ---
-title: 'Ajouter des options à une colonne de sélection simple - SeaTable'
+title: 'Ajouter des options à une colonne de sélection simple'
 date: 2023-01-07
 lastmod: '2023-04-27'
 categories:

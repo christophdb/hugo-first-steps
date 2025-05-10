@@ -1,5 +1,5 @@
 ---
-title: 'Processamento de dados: Calcular percentagem - SeaTable'
+title: 'Processamento de dados: Calcular percentagem'
 date: 2023-03-16
 lastmod: '2023-03-16'
 categories:

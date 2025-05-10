@@ -1,11 +1,11 @@
 ---
-title: "Display of changes on a row - SeaTable"
+title: 'Display of changes on a row'
 date: 2022-11-16
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/help/anzeige-der-veraenderungen-auf-einer-zeile"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/help/anzeige-der-veraenderungen-auf-einer-zeile'
 ---
 
 SeaTable stores all changes that are made in a Base. Within a row the **rows-Log offers the possibility to track exactly when which user has made which change.**

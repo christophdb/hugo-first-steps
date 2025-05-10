@@ -1,5 +1,5 @@
 ---
-title: 'Hide tables - SeaTable'
+title: 'Hide tables'
 date: 2025-02-25
 lastmod: '2025-02-25'
 categories:

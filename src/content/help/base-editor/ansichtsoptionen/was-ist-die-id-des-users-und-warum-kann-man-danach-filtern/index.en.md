@@ -1,5 +1,5 @@
 ---
-title: 'What is the user ID and how can you filter with it? - SeaTable'
+title: 'What is the user ID and how can you filter with it?'
 date: 2023-04-25
 lastmod: '2023-05-12'
 categories:

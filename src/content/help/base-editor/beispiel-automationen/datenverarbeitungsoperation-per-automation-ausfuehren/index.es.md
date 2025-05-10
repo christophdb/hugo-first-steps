@@ -1,5 +1,5 @@
 ---
-title: 'Automatización de las operaciones de tratamiento de datos - SeaTable'
+title: 'Automatización de las operaciones de tratamiento de datos'
 date: 2023-04-28
 lastmod: '2023-05-03'
 categories:

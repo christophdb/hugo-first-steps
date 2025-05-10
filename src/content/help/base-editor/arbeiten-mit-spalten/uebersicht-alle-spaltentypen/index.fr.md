@@ -1,11 +1,11 @@
 ---
-title: "Aperçu de tous les types de colonnes - SeaTable"
+title: 'Aperçu de tous les types de colonnes'
 date: 2022-08-25
-lastmod: "2024-03-18"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "cdb"
-url: "/fr/aide/uebersicht-alle-spaltentypen"
+lastmod: '2024-03-18'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'cdb'
+url: '/fr/aide/uebersicht-alle-spaltentypen'
 ---
 
 SeaTable permet de stocker des informations et des données dans des formats très variés.

@@ -1,11 +1,11 @@
 ---
-title: "Обзор всех типов колонок - SeaTable"
+title: 'Обзор всех типов колонок'
 date: 2022-08-25
-lastmod: "2024-03-18"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "cdb"
-url: "/ru/help/uebersicht-alle-spaltentypen"
+lastmod: '2024-03-18'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'cdb'
+url: '/ru/help/uebersicht-alle-spaltentypen'
 ---
 
 В SeaTable вы можете сохранять информацию и данные в самых разных форматах.

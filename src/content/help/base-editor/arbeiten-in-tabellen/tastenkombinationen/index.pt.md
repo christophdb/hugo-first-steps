@@ -1,5 +1,5 @@
 ---
-title: 'Atalhos de teclado e combinações de teclas - SeaTable'
+title: 'Atalhos de teclado e combinações de teclas'
 date: 2022-08-25
 lastmod: '2023-01-12'
 categories:

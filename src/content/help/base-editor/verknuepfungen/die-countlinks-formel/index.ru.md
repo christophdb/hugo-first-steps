@@ -1,5 +1,5 @@
 ---
-title: 'Формула Countlinks - SeaTable'
+title: 'Формула Countlinks'
 date: 2023-01-11
 lastmod: '2023-01-24'
 categories:

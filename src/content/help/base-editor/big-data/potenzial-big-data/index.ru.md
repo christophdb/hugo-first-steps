@@ -1,11 +1,11 @@
 ---
-title: "Знакомство с возможностями Больших Данных - SeaTable"
+title: 'Знакомство с возможностями Больших Данных'
 date: 2023-05-12
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "cdb"
-url: "/ru/help/potenzial-big-data"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'cdb'
+url: '/ru/help/potenzial-big-data'
 ---
 
 {{< required-version "Предприятие" >}}

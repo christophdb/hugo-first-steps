@@ -1,11 +1,11 @@
 ---
-title: "Add a new row via the gallery plugin - SeaTable"
+title: 'Add a new row via the gallery plugin'
 date: 2023-01-08
-lastmod: "2023-02-03"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen"
+lastmod: '2023-02-03'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 ---
 
 You would normally [create](https://seatable.io/en/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) new rows in the **table view**. However, in the **Gallery plugin**, you also have this option. The newly created row will be displayed in the gallery as an **album** and will be added to the table below all other rows .

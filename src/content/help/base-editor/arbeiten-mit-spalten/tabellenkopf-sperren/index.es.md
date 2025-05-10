@@ -1,5 +1,5 @@
 ---
-title: 'Bloquear cabecera de tabla - SeaTable'
+title: 'Bloquear cabecera de tabla'
 date: 2023-03-03
 lastmod: '2023-03-03'
 categories:

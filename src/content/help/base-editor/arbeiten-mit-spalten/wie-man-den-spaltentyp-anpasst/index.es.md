@@ -1,5 +1,5 @@
 ---
-title: 'Cómo personalizar el tipo de columna - SeaTable'
+title: 'Cómo personalizar el tipo de columna'
 date: 2022-10-10
 lastmod: '2024-03-15'
 categories:

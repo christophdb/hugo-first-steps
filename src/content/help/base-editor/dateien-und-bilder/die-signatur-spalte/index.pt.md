@@ -1,5 +1,5 @@
 ---
-title: 'A Coluna de Assinatura - SeaTable'
+title: 'A Coluna de Assinatura'
 date: 2023-06-27
 lastmod: '2024-03-18'
 categories:

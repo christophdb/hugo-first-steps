@@ -1,5 +1,5 @@
 ---
-title: 'Eliminar una fila - SeaTable'
+title: 'Eliminar una fila'
 date: 2022-10-14
 lastmod: '2023-02-16'
 categories:

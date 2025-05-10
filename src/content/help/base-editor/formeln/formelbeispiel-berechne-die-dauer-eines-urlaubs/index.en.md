@@ -1,5 +1,5 @@
 ---
-title: 'Formula example: Calculate the duration of a vacation - SeaTable'
+title: 'Formula example: Calculate the duration of a vacation'
 date: 2023-01-28
 lastmod: '2023-09-21'
 categories:

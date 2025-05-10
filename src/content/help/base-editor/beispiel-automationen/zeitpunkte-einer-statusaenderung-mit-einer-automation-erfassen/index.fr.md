@@ -1,5 +1,5 @@
 ---
-title: "Saisir les moments d'un changement de statut avec une automatisation - SeaTable"
+title: "Saisir les moments d'un changement de statut avec une automatisation"
 date: 2023-04-28
 lastmod: '2023-04-28'
 categories:

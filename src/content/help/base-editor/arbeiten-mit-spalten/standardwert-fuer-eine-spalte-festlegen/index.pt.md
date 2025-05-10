@@ -1,5 +1,5 @@
 ---
-title: 'Definir o valor predefinido para uma coluna - SeaTable'
+title: 'Definir o valor predefinido para uma coluna'
 date: 2023-11-07
 lastmod: '2024-06-11'
 categories:

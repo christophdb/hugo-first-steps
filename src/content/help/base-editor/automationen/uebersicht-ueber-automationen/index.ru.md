@@ -1,11 +1,11 @@
 ---
-title: "Обзор автоматизаций - SeaTable"
+title: 'Обзор автоматизаций'
 date: 2023-01-31
-lastmod: "2023-03-21"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/ru/help/uebersicht-ueber-automationen"
+lastmod: '2023-03-21'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/ru/help/uebersicht-ueber-automationen'
 ---
 
 {{< required-version "Предприятие" >}}

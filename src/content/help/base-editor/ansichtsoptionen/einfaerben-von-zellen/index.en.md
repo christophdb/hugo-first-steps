@@ -1,5 +1,5 @@
 ---
-title: 'Coloring cells - SeaTable'
+title: 'Coloring cells'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:

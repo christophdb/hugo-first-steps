@@ -1,5 +1,5 @@
 ---
-title: 'Data processing: compare and link - SeaTable'
+title: 'Data processing: compare and link'
 date: 2023-03-20
 lastmod: '2023-03-20'
 categories:

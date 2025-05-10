@@ -1,11 +1,11 @@
 ---
-title: "Записи и страницы - SeaTable"
+title: 'Записи и страницы'
 date: 2023-02-08
-lastmod: "2023-02-09"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/ru/help/eintraege-und-seiten"
+lastmod: '2023-02-09'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/ru/help/eintraege-und-seiten'
 ---
 
 При использовании [плагина дизайна страниц](https://seatable.io/ru/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) важно понимать разницу между записями и страницами. В то время как дополнительные **страницы** расширяют документ независимо от содержимого таблицы, **записи** отображают различные записи из строк таблицы.

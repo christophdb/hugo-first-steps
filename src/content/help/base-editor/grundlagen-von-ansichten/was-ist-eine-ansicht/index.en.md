@@ -1,11 +1,11 @@
 ---
-title: "What is a view? - SeaTable"
+title: 'What is a view?'
 date: 2023-01-13
-lastmod: "2023-01-13"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/help/was-ist-eine-ansicht"
+lastmod: '2023-01-13'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/help/was-ist-eine-ansicht'
 ---
 
 Whenever you view your data in a table, you view it through a **view**. Even if you have created a brand new table, you are already viewing it in the **Default** View that comes with it by default.

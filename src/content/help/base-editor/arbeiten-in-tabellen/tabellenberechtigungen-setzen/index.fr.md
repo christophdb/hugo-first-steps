@@ -1,5 +1,5 @@
 ---
-title: 'Définir des permissions de table - SeaTable'
+title: 'Définir des permissions de table'
 date: 2022-11-16
 lastmod: '2023-08-09'
 categories:

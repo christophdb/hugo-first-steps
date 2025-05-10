@@ -1,5 +1,5 @@
 ---
-title: 'Guia do plug-in do quadro branco (obsoleto) - SeaTable'
+title: 'Guia do plug-in do quadro branco (obsoleto)'
 date: 2024-08-01
 lastmod: '2025-04-24'
 categories:

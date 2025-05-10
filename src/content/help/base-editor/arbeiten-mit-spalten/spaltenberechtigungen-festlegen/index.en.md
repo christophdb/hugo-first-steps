@@ -1,5 +1,5 @@
 ---
-title: 'column permissions set - SeaTable'
+title: 'column permissions set'
 date: 2023-02-21
 lastmod: '2023-02-21'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Marquage des lignes par des couleurs - SeaTable'
+title: 'Marquage des lignes par des couleurs'
 date: 2022-11-16
 lastmod: '2025-02-25'
 categories:
@@ -37,11 +37,11 @@ Pour l'option **Utiliser une colonne de sélection simple**, vous avez besoin d'
 L'option **Utiliser des règles** vous permet de définir des conditions pour le marquage en couleur.
 
 - Cliquez sur le **symbole triangulaire à fond coloré**pour modifier la couleur du marqueur.
-    ![Marquage couleur des cellules](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
+  ![Marquage couleur des cellules](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
 - Déterminez à laquelle de vos **Colonnes** la condition doit se référer.
-    ![Marquage couleur des cellules](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
+  ![Marquage couleur des cellules](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
 - Optez pour la **Type de condition**.
-    ![Marquage couleur des cellules](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
+  ![Marquage couleur des cellules](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
 
 {{< warning  headline="Sélection des types de conditions en fonction du type de colonne"  text="Veuillez noter que le type de colonne sélectionné détermine les options que vous pouvez choisir pour les conditions." />}}
 

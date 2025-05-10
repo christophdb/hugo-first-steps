@@ -1,5 +1,5 @@
 ---
-title: 'La columna de archivos - SeaTable'
+title: 'La columna de archivos'
 date: 2022-11-16
 lastmod: '2024-08-02'
 categories:

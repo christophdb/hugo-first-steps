@@ -1,5 +1,5 @@
 ---
-title: 'Copiar filas a otra tabla usando un botón - SeaTable'
+title: 'Copiar filas a otra tabla usando un botón'
 date: 2024-02-20
 lastmod: '2024-02-20'
 categories:

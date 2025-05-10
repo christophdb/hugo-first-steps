@@ -1,11 +1,11 @@
 ---
-title: "Различия между частными и обычными видами - SeaTable"
+title: 'Различия между частными и обычными видами'
 date: 2022-11-07
-lastmod: "2023-11-27"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "nsc2"
-url: "/ru/help/unterschiede-zwischen-privaten-und-normalen-ansichten"
+lastmod: '2023-11-27'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'nsc2'
+url: '/ru/help/unterschiede-zwischen-privaten-und-normalen-ansichten'
 ---
 
 {{< required-version "Предприятие" >}}

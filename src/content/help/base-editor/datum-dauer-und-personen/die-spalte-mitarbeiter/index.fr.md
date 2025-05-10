@@ -1,5 +1,5 @@
 ---
-title: 'La colonne des employés - SeaTable'
+title: 'La colonne des employés'
 date: 2023-01-07
 lastmod: '2024-02-14'
 categories:

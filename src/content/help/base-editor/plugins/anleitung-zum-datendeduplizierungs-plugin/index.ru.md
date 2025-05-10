@@ -1,11 +1,11 @@
 ---
-title: "Руководство по плагину дедупликации данных - SeaTable"
+title: 'Руководство по плагину дедупликации данных'
 date: 2023-04-27
-lastmod: "2023-04-27"
-categories: 
-  - "plugins"
-author: "nsc2"
-url: "/ru/help/anleitung-zum-datendeduplizierungs-plugin"
+lastmod: '2023-04-27'
+categories:
+    - 'plugins'
+author: 'nsc2'
+url: '/ru/help/anleitung-zum-datendeduplizierungs-plugin'
 ---
 
 С помощью плагина дедупликации данных вы можете проверить свои таблицы на наличие **дубликатов** и автоматически **удалить** их одним щелчком мыши.

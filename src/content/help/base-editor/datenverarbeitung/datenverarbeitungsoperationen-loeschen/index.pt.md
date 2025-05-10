@@ -1,11 +1,11 @@
 ---
-title: "Eliminar operações de processamento de dados - SeaTable"
+title: 'Eliminar operações de processamento de dados'
 date: 2023-03-13
-lastmod: "2023-03-13"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/pt/ajuda/datenverarbeitungsoperationen-loeschen"
+lastmod: '2023-03-13'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/pt/ajuda/datenverarbeitungsoperationen-loeschen'
 ---
 
 Com a ajuda da função de processamento de dados, é possível realizar várias **operações**. Pode efectuar cálculos matemáticos em todos os valores de uma coluna, bem como correlacionar valores quando as entradas em duas tabelas diferentes são idênticas.

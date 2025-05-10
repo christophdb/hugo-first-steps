@@ -1,5 +1,5 @@
 ---
-title: 'Ocultar las flechas de las columnas - SeaTable'
+title: 'Ocultar las flechas de las columnas'
 date: 2022-11-16
 lastmod: '2023-02-15'
 categories:

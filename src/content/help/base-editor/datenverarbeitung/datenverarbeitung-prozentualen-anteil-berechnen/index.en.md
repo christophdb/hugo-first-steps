@@ -1,5 +1,5 @@
 ---
-title: 'Data processing: Calculate percentage - SeaTable'
+title: 'Data processing: Calculate percentage'
 date: 2023-03-16
 lastmod: '2023-03-16'
 categories:

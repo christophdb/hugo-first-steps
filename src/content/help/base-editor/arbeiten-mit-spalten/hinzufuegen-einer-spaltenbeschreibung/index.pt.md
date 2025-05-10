@@ -1,11 +1,11 @@
 ---
-title: "Acrescentar uma descrição da coluna - SeaTable"
+title: 'Acrescentar uma descrição da coluna'
 date: 2022-10-10
-lastmod: "2024-03-15"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "nsc2"
-url: "/pt/ajuda/hinzufuegen-einer-spaltenbeschreibung"
+lastmod: '2024-03-15'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'nsc2'
+url: '/pt/ajuda/hinzufuegen-einer-spaltenbeschreibung'
 ---
 
 Para armazenar informações, instruções ou explicações sobre uma coluna, pode adicionar uma descrição às colunas da sua tabela no SeaTable. Saiba como fazer isto aqui:

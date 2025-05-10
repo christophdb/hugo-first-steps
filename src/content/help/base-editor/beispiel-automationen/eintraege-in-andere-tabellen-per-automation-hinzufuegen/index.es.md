@@ -1,5 +1,5 @@
 ---
-title: 'Añadir entradas a otras tablas mediante automatización - SeaTable'
+title: 'Añadir entradas a otras tablas mediante automatización'
 date: 2023-03-03
 lastmod: '2023-04-12'
 categories:

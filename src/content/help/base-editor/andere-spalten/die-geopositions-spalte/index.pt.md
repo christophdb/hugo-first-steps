@@ -1,11 +1,11 @@
 ---
-title: "A Coluna Geoposição - SeaTable"
+title: 'A Coluna Geoposição'
 date: 2023-01-07
-lastmod: "2023-01-24"
-categories: 
-  - "andere-spalten"
-author: "nsc2"
-url: "/pt/ajuda/die-geopositions-spalte"
+lastmod: '2023-01-24'
+categories:
+    - 'andere-spalten'
+author: 'nsc2'
+url: '/pt/ajuda/die-geopositions-spalte'
 ---
 
 Com a ajuda da coluna de Geoposições, pode recolher a longitude e latitude de qualquer local nas suas tabelas. Além disso, pode usar a função de pesquisa para encontrar um país ou região e adicioná-la como entrada.

@@ -1,11 +1,11 @@
 ---
-title: "The Rollup Formula - SeaTable"
+title: 'The Rollup Formula'
 date: 2023-01-24
-lastmod: "2023-01-24"
-categories: 
-  - "verknuepfungen"
-author: "vge"
-url: "/help/die-rollup-formel"
+lastmod: '2023-01-24'
+categories:
+    - 'verknuepfungen'
+author: 'vge'
+url: '/help/die-rollup-formel'
 ---
 
 With the help of the rollup formula of the column type **Formula for links** you can set several numerical values of a linked column in relation to each other and perform simple statistical calculations.

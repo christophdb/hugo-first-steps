@@ -1,5 +1,5 @@
 ---
-title: 'Vistas de las esclusas - SeaTable'
+title: 'Vistas de las esclusas'
 date: 2022-10-26
 lastmod: '2023-01-04'
 categories:

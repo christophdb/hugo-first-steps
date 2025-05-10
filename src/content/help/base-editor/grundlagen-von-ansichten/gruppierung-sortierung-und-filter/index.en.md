@@ -1,11 +1,11 @@
 ---
-title: "Grouping, sorting and filtering - SeaTable"
+title: 'Grouping, sorting and filtering'
 date: 2022-08-25
-lastmod: "2022-08-29"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "cdb"
-url: "/help/gruppierung-sortierung-und-filter"
+lastmod: '2022-08-29'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'cdb'
+url: '/help/gruppierung-sortierung-und-filter'
 ---
 
 SeaTable offers various methods to analyse data. Filters, sorting and grouping are SeaTable's simple evaluation tools. With just a few clicks, you can reorganise your data and get the information you want more easily. Simple, however, does not mean simplistic. Used correctly, especially in combination, filters, sorting and grouping offer a wide range of evaluation options.
@@ -16,8 +16,8 @@ Sounds complicated? You'll see, in SeaTable grouping, sorting and filtering is a
 
 ## Group
 
-With the grouping function you can combine the table entries into groupings and determine simple descriptive statistics such as number of elements, column sum and average value over the groupings.  
-  
+With the grouping function you can combine the table entries into groupings and determine simple descriptive statistics such as number of elements, column sum and average value over the groupings.
+
 Grouping is done using identical values in the column selected for grouping. For example, if you organize the tasks of your team members in a table, then you can use a grouping via the member column to see the pending tasks per team member.
 
 If you want to display your data even more precisely, then use the nested groupings. You can select multiple grouping characteristics, and thus make subordinate groupings. For example, you can group products first by color, then by material, and then by size. This opens up new possibilities for data structuring.
@@ -44,7 +44,7 @@ All rows with empty cells in the grouping column are - regardless of the sorting
 
 You can use the sorting function to display the unordered entries in a table in an ordered sequence.
 
-The simplest rule is to sort a table in ascending or descending order according to the values in a column. With large data sets, however, several sorting rules can be used. With several sorting rules, the table rows are first sorted according to the first rule. rows with the same values according to the first sorting rule are then sorted according to the second rule.  
+The simplest rule is to sort a table in ascending or descending order according to the values in a column. With large data sets, however, several sorting rules can be used. With several sorting rules, the table rows are first sorted according to the first rule. rows with the same values according to the first sorting rule are then sorted according to the second rule.
 
 ### Set up sorting
 
@@ -84,7 +84,6 @@ For filter rules, unlike grouping and sorting rules, the instruction usually con
 - Filter criterion: ratio of filtered column and filter value (e.g. "is", "contains", "is empty")
 - Filter value: The value to filter by (e.g. "123", "done").
 
-  
 Filter rules can also be linked with the two Boolean operators AND and OR. With an AND link, only those entries are filtered that fulfil all linked conditions. With the OR operation, you can filter the entries that fulfil at least one of the defined conditions. With three or more filter rules, the AND and OR operators can also be used together.
 
 ### Set up filtration

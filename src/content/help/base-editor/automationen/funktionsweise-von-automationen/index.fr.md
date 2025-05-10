@@ -1,5 +1,5 @@
 ---
-title: 'Fonctionnement des automatismes - SeaTable'
+title: 'Fonctionnement des automatismes'
 date: 2023-01-31
 lastmod: '2023-02-01'
 categories:

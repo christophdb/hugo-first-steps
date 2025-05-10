@@ -1,11 +1,11 @@
 ---
-title: "La fórmula Rollup - SeaTable"
+title: 'La fórmula Rollup'
 date: 2023-01-24
-lastmod: "2023-01-24"
-categories: 
-  - "verknuepfungen"
-author: "vge"
-url: "/es/ayuda/die-rollup-formel"
+lastmod: '2023-01-24'
+categories:
+    - 'verknuepfungen'
+author: 'vge'
+url: '/es/ayuda/die-rollup-formel'
 ---
 
 Con la ayuda de la fórmula roll-up del tipo de columna **Fórmula para enlaces**, puede establecer varios valores numéricos de una columna enlazada en relación con los demás y realizar cálculos estadísticos sencillos.

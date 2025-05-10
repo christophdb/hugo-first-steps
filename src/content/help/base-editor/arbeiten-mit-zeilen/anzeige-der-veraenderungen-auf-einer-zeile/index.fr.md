@@ -1,11 +1,11 @@
 ---
-title: "Affichage des changements sur une ligne - SeaTable"
+title: 'Affichage des changements sur une ligne'
 date: 2022-11-16
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/fr/aide/anzeige-der-veraenderungen-auf-einer-zeile"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/fr/aide/anzeige-der-veraenderungen-auf-einer-zeile'
 ---
 
 SeaTable enregistre toutes les modifications effectuées dans une base. Au sein d'une ligne, le **journal des lignes** permet de savoir exactement quand quel utilisateur a effectué quelle modification.

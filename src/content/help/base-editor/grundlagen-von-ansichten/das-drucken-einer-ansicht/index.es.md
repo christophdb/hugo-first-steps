@@ -1,11 +1,11 @@
 ---
-title: "Imprimir una vista - SeaTable"
+title: 'Imprimir una vista'
 date: 2022-11-07
-lastmod: "2023-06-28"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/es/ayuda/das-drucken-einer-ansicht"
+lastmod: '2023-06-28'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/es/ayuda/das-drucken-einer-ansicht'
 ---
 
 Las distintas **vistas** pueden facilitar el trabajo con tablas que contienen mucha información. También puede **imprimir** estas vistas.

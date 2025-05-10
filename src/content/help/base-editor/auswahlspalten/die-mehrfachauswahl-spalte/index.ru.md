@@ -1,11 +1,11 @@
 ---
-title: "Колонка множественного выбора - SeaTable"
+title: 'Колонка множественного выбора'
 date: 2023-03-28
-lastmod: "2023-04-27"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/ru/help/die-mehrfachauswahl-spalte"
+lastmod: '2023-04-27'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/ru/help/die-mehrfachauswahl-spalte'
 ---
 
 Столбец с множественным выбором идеально подходит, если вы хотите назначить своим строкам в столбце **несколько вариантов** из заданного списка. Опциям присваиваются красочные метки, которые можно использовать для маркировки записей и наглядности таблиц, например, для [фильтрации](https://seatable.io/ru/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) по определенным опциям.

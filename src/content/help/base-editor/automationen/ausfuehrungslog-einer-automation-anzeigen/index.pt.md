@@ -1,5 +1,5 @@
 ---
-title: 'Mostrar diário de execução de uma automatização - SeaTable'
+title: 'Mostrar diário de execução de uma automatização'
 date: 2023-01-26
 lastmod: '2023-02-01'
 categories:

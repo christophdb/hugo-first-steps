@@ -1,11 +1,11 @@
 ---
-title: "Exporter et importer des options dans des colonnes à sélection unique ou multiple - SeaTable"
+title: 'Exporter et importer des options dans des colonnes à sélection unique ou multiple'
 date: 2023-01-07
-lastmod: "2023-01-24"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/fr/aide/einfachauswahl-optionen-exportieren-und-importieren"
+lastmod: '2023-01-24'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/fr/aide/einfachauswahl-optionen-exportieren-und-importieren'
 ---
 
 Vous pouvez non seulement **saisir manuellement** les options dont vous disposez dans les colonnes de sélection simple ou multiple, mais aussi les **exporter** facilement d'une colonne existante et les **importer** dans une autre colonne. Cela vous épargne beaucoup de travail si vous souhaitez toujours utiliser les mêmes options - même sur différentes bases - pour vos **colonnes de sélection** **simple** ou **multiple**.

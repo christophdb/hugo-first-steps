@@ -1,11 +1,11 @@
 ---
-title: "Create data processing operations - SeaTable"
+title: 'Create data processing operations'
 date: 2023-03-03
-lastmod: "2023-03-13"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/help/datenverarbeitungsoperationen-anlegen"
+lastmod: '2023-03-13'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/help/datenverarbeitungsoperationen-anlegen'
 ---
 
 You can perform various **operations** using the data processing function. You can perform mathematical calculations across all values in a column, as well as correlate values when entries in two different tables are identical.

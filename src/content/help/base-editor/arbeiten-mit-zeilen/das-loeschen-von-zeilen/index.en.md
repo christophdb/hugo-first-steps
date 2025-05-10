@@ -1,5 +1,5 @@
 ---
-title: 'Delete a row - SeaTable'
+title: 'Delete a row'
 date: 2022-10-14
 lastmod: '2023-02-16'
 categories:

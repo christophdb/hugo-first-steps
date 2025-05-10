@@ -1,11 +1,11 @@
 ---
-title: "Search and replace values - SeaTable"
+title: 'Search and replace values'
 date: 2022-10-11
-lastmod: "2023-01-02"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/help/suchen-und-ersetzen-von-werten-in-seatable"
+lastmod: '2023-01-02'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/help/suchen-und-ersetzen-von-werten-in-seatable'
 ---
 
 SeaTable offers you a comfortable function to search for all entries of a specific value in a table and replace either specific individual values or all at once. You will be amazed at how easy this is.

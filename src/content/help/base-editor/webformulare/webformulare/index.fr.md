@@ -1,5 +1,5 @@
 ---
-title: 'Formulaires web - SeaTable'
+title: 'Formulaires web'
 date: 2022-08-25
 lastmod: '2024-02-14'
 categories:

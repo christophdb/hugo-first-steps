@@ -1,11 +1,11 @@
 ---
-title: "Configuration options of a web form - SeaTable"
+title: 'Configuration options of a web form'
 date: 2023-01-08
-lastmod: "2024-02-14"
-categories: 
-  - "webformulare"
-author: "vge"
-url: "/help/konfigurationsmoeglichkeiten-eines-webformulars"
+lastmod: '2024-02-14'
+categories:
+    - 'webformulare'
+author: 'vge'
+url: '/help/konfigurationsmoeglichkeiten-eines-webformulars'
 ---
 
 You can configure the look, content, and functionality of your web form by customizing the **form** settings, **field settings**, and **color scheme**. The latter requires an Enterprise subscription.

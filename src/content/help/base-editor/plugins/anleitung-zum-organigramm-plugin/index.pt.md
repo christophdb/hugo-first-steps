@@ -1,5 +1,5 @@
 ---
-title: 'Guia para o plugin do organigrama - SeaTable'
+title: 'Guia para o plugin do organigrama'
 date: 2024-07-18
 lastmod: '2025-02-28'
 categories:

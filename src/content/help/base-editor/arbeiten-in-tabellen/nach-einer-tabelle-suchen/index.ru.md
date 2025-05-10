@@ -1,5 +1,5 @@
 ---
-title: 'Поиск столика - SeaTable'
+title: 'Поиск столика'
 date: 2025-02-27
 lastmod: '2025-02-27'
 categories:

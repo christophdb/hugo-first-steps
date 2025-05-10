@@ -1,5 +1,5 @@
 ---
-title: 'Masquer les flèches de colonne - SeaTable'
+title: 'Masquer les flèches de colonne'
 date: 2022-11-16
 lastmod: '2023-02-15'
 categories:

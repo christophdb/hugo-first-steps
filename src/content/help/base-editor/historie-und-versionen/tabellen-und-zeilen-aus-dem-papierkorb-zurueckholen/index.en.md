@@ -1,5 +1,5 @@
 ---
-title: 'Retrieve tables, rows and columns from trash - SeaTable'
+title: 'Retrieve tables, rows and columns from trash'
 date: 2022-10-11
 lastmod: '2023-01-11'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Restore a deleted table - SeaTable'
+title: 'Restore a deleted table'
 date: 2022-11-17
 lastmod: '2023-01-12'
 categories:

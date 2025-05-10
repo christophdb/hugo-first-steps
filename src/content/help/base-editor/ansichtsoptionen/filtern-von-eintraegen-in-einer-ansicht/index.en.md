@@ -1,11 +1,11 @@
 ---
-title: "Filtering entries in a view - SeaTable"
+title: 'Filtering entries in a view'
 date: 2022-11-16
-lastmod: "2025-02-25"
-categories: 
-  - "ansichtsoptionen"
-author: "vge"
-url: "/help/filtern-von-eintraegen-in-einer-ansicht"
+lastmod: '2025-02-25'
+categories:
+    - 'ansichtsoptionen'
+author: 'vge'
+url: '/help/filtern-von-eintraegen-in-einer-ansicht'
 ---
 
 SeaTable's filter function allows you to use **filter rules** to filter out the desired entries from a table and display only those entries that meet certain criteria. The set filter refers only to the **active view**.

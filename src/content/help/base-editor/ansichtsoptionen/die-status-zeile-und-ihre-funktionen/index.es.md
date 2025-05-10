@@ -1,11 +1,11 @@
 ---
-title: "La barra de estado y sus funciones - SeaTable"
+title: 'La barra de estado y sus funciones'
 date: 2023-02-21
-lastmod: "2023-02-21"
-categories: 
-  - "ansichtsoptionen"
-author: "nsc2"
-url: "/es/ayuda/die-status-zeile-und-ihre-funktionen"
+lastmod: '2023-02-21'
+categories:
+    - 'ansichtsoptionen'
+author: 'nsc2'
+url: '/es/ayuda/die-status-zeile-und-ihre-funktionen'
 ---
 
 La **línea de estado** se encuentra en la parte inferior de sus mesas y cumple básicamente dos funciones diferentes, que se explican con más detalle en este artículo:

@@ -1,11 +1,11 @@
 ---
-title: "Lier des tableaux entre eux - SeaTable"
+title: 'Lier des tableaux entre eux'
 date: 2022-10-15
-lastmod: "2023-01-02"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "cdb"
-url: "/fr/aide/tabellen-miteinander-verlinken"
+lastmod: '2023-01-02'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'cdb'
+url: '/fr/aide/tabellen-miteinander-verlinken'
 ---
 
 SeaTable ressemble à première vue à un tableur, mais fonctionne à de nombreux égards comme une base de données. Les tableaux de SeaTable ne sont pas isolés les uns des autres, mais peuvent mettre en relation des lignes à l'aide d'une [colonne de liaison](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/).

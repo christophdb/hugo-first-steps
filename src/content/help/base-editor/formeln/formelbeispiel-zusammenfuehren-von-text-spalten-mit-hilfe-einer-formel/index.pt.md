@@ -1,5 +1,5 @@
 ---
-title: 'Exemplo de fórmula: fundir colunas de texto com a ajuda de uma fórmula - SeaTable'
+title: 'Exemplo de fórmula: fundir colunas de texto com a ajuda de uma fórmula'
 date: 2023-01-28
 lastmod: '2023-09-18'
 categories:

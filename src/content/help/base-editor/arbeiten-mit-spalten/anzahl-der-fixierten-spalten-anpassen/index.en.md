@@ -1,5 +1,5 @@
 ---
-title: 'Anzahl der fixierten Spalten anpassen - SeaTable'
+title: 'Anzahl der fixierten Spalten anpassen'
 date: 2022-10-26
 lastmod: '2024-03-15'
 categories:

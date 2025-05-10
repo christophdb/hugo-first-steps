@@ -1,11 +1,11 @@
 ---
-title: "Añadir datos copiando y pegando - SeaTable"
+title: 'Añadir datos copiando y pegando'
 date: 2022-10-15
-lastmod: "2022-12-30"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "vge"
-url: "/es/ayuda/hinzufuegen-von-daten-per-copy-and-paste"
+lastmod: '2022-12-30'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'vge'
+url: '/es/ayuda/hinzufuegen-von-daten-per-copy-and-paste'
 ---
 
 SeaTable conoce las combinaciones de teclas más populares {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} y {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} para copiar y pegar datos. Esto funciona tanto con los datos que desea copiar dentro de SeaTable como con los datos que desea pegar en SeaTable.

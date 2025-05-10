@@ -1,5 +1,5 @@
 ---
-title: 'La columna URL - SeaTable'
+title: 'La columna URL'
 date: 2022-10-11
 lastmod: '2023-02-10'
 categories:

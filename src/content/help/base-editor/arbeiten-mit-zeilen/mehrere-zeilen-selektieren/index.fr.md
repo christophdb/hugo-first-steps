@@ -1,11 +1,11 @@
 ---
-title: "Sélectionner plusieurs lignes - SeaTable"
+title: 'Sélectionner plusieurs lignes'
 date: 2022-10-10
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "cdb"
-url: "/fr/aide/mehrere-zeilen-selektieren"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'cdb'
+url: '/fr/aide/mehrere-zeilen-selektieren'
 ---
 
 Il vous arrivera certainement de vouloir [copier](https://seatable.io/fr/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/), [supprimer](https://seatable.io/fr/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) ou [bloquer l](https://seatable.io/fr/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) 'édition de **plusieurs lignes** en même temps. Pour effectuer ces actions, vous devez préalablement **sélectionner** les lignes souhaitées.

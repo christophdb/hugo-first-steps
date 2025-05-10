@@ -1,11 +1,11 @@
 ---
-title: "Mover uma mesa - SeaTable"
+title: 'Mover uma mesa'
 date: 2022-10-11
-lastmod: "2025-02-25"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/pt/ajuda/verschieben-einer-tabelle"
+lastmod: '2025-02-25'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/pt/ajuda/verschieben-einer-tabelle'
 ---
 
 O mais tardar quando a sua base estiver gradualmente preenchida com várias mesas, é altura de pensar numa **ordem sensata das mesas** na sua base. **Coloque** as tabelas relacionadas com a temática umas ao lado das outras e as mais importantes no topo. Vai ver: Graças à função **arrastar e largar**, mover as tabelas é uma brincadeira de crianças.

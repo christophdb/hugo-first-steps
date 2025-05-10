@@ -1,11 +1,11 @@
 ---
-title: "Introdução ao trabalho com bases e mesas - SeaTable"
+title: 'Introdução ao trabalho com bases e mesas'
 date: 2023-01-07
-lastmod: "2023-03-24"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/pt/ajuda/einfuehrung-in-die-arbeit-mit-bases-und-tabellen"
+lastmod: '2023-03-24'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/pt/ajuda/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 ---
 
 Cada um dos ícones quadrados na sua página inicial representa uma **Base**. É uma base de dados, comparável a uma pasta de trabalho numa folha de cálculo convencional e pode conter várias **tabelas** sobre diferentes tópicos.

@@ -1,11 +1,11 @@
 ---
-title: "Renomear uma vista - SeaTable"
+title: 'Renomear uma vista'
 date: 2022-10-26
-lastmod: "2023-01-02"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/pt/ajuda/umbenennen-einer-ansicht"
+lastmod: '2023-01-02'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/pt/ajuda/umbenennen-einer-ansicht'
 ---
 
 Para uma visão optimizada dos dados na sua tabela, SeaTable oferece-lhe **vistas** nas quais pode guardar os seus filtros, ordenações e agrupamentos. Deve dar um nome significativo a estes pontos de vista. Pode também **renomear** as suas opiniões em qualquer altura mais tarde.

@@ -1,5 +1,5 @@
 ---
-title: 'Comment supprimer des fichiers de façon permanente - SeaTable'
+title: 'Comment supprimer des fichiers de façon permanente'
 date: 2022-11-16
 lastmod: '2024-03-18'
 categories:

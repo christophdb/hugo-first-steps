@@ -1,5 +1,5 @@
 ---
-title: 'Double the height of the table header - SeaTable'
+title: 'Double the height of the table header'
 date: 2022-11-16
 lastmod: '2023-02-15'
 categories:

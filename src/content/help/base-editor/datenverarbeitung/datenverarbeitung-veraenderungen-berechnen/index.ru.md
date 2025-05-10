@@ -1,11 +1,11 @@
 ---
-title: "Обработка данных: вычисление изменений - SeaTable"
+title: 'Обработка данных: вычисление изменений'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/ru/help/datenverarbeitung-veraenderungen-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/ru/help/datenverarbeitung-veraenderungen-berechnen'
 ---
 
 Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. Одной из операций является **вычисление изменений**, с помощью которой можно вычислить изменения от значения к значению в числовом столбце. Для этого просто определите соответствующую операцию обработки данных в параметрах представления таблицы.

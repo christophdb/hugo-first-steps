@@ -1,5 +1,5 @@
 ---
-title: 'Колонка изображений - SeaTable'
+title: 'Колонка изображений'
 date: 2023-06-29
 lastmod: '2024-08-02'
 categories:

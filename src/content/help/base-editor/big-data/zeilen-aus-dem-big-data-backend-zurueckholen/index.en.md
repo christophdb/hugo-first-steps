@@ -1,11 +1,11 @@
 ---
-title: "rows retrieve from the big data store - SeaTable"
+title: 'rows retrieve from the big data store'
 date: 2023-05-11
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "nsc2"
-url: "/help/zeilen-aus-dem-big-data-backend-zurueckholen"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'nsc2'
+url: '/help/zeilen-aus-dem-big-data-backend-zurueckholen'
 ---
 
 To retrieve rows from the big data storage, you need a [big data view](https://seatable.io/en/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). In this view, you can [select](https://seatable.io/en/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) the desired [rows and move it back to a](https://seatable.io/en/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) **normal view**.

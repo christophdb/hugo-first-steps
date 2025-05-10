@@ -1,5 +1,5 @@
 ---
-title: 'Tratamiento de datos: Comparar y enlazar - SeaTable'
+title: 'Tratamiento de datos: Comparar y enlazar'
 date: 2023-03-20
 lastmod: '2023-03-20'
 categories:

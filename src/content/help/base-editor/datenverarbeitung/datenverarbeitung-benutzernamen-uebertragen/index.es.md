@@ -1,5 +1,5 @@
 ---
-title: 'Tratamiento de datos: Transferencia de nombres de usuario - SeaTable'
+title: 'Tratamiento de datos: Transferencia de nombres de usuario'
 date: 2023-03-17
 lastmod: '2023-03-17'
 categories:

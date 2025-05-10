@@ -1,5 +1,5 @@
 ---
-title: 'Send an email by button - SeaTable'
+title: 'Send an email by button'
 date: 2023-01-23
 lastmod: '2024-02-20'
 categories:

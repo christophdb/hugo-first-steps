@@ -1,11 +1,11 @@
 ---
-title: "Opciones de exportación e importación en columnas de selección única o múltiple - SeaTable"
+title: 'Opciones de exportación e importación en columnas de selección única o múltiple'
 date: 2023-01-07
-lastmod: "2023-01-24"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/es/ayuda/einfachauswahl-optionen-exportieren-und-importieren"
+lastmod: '2023-01-24'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/es/ayuda/einfachauswahl-optionen-exportieren-und-importieren'
 ---
 
 Las opciones disponibles en columnas de selección única o múltiple no sólo pueden **introducirse manualmente**, sino que también pueden **exportarse** cómodamente desde una columna existente e **importarse a** otra. Esto le ahorrará mucho trabajo si desea utilizar las mismas opciones una y otra vez -incluso en diferentes bases- para sus **columnas de selección** **única** y **múltiple**.

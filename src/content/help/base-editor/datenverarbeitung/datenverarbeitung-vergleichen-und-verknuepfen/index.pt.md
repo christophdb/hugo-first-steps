@@ -1,5 +1,5 @@
 ---
-title: 'Processamento de dados: Comparar e Ligar - SeaTable'
+title: 'Processamento de dados: Comparar e Ligar'
 date: 2023-03-20
 lastmod: '2023-03-20'
 categories:

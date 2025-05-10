@@ -1,5 +1,5 @@
 ---
-title: "Restauration d'un instantané - SeaTable"
+title: "Restauration d'un instantané"
 date: 2022-10-11
 lastmod: '2024-08-05'
 categories:

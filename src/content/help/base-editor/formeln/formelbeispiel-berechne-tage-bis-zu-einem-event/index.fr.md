@@ -1,5 +1,5 @@
 ---
-title: 'Exemple de formule : Calculer le nombre de jours avant un événement - SeaTable'
+title: 'Exemple de formule : Calculer le nombre de jours avant un événement'
 date: 2023-01-28
 lastmod: '2023-09-21'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'The email column - SeaTable'
+title: 'The email column'
 date: 2022-10-10
 lastmod: '2023-02-10'
 categories:

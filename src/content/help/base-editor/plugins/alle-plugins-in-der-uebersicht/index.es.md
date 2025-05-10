@@ -1,11 +1,11 @@
 ---
-title: "Todos los plugins de un vistazo - SeaTable"
+title: 'Todos los plugins de un vistazo'
 date: 2023-05-03
-lastmod: "2024-08-01"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/es/ayuda/alle-plugins-in-der-uebersicht"
+lastmod: '2024-08-01'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/es/ayuda/alle-plugins-in-der-uebersicht'
 ---
 
 **Los plugins** de SeaTable le ofrecen la oportunidad de ver sus datos desde una perspectiva completamente diferente. Visualice citas, tareas y ubicaciones, y cree documentos diagramados y perfiles a partir de sus datos. En el siguiente artículo le explicamos qué plugins están disponibles en SeaTable y cómo puede utilizarlos.

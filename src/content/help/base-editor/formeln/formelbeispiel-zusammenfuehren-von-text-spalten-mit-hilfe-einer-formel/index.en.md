@@ -1,5 +1,5 @@
 ---
-title: 'Formula example: Merging text columns with the help of a formula - SeaTable'
+title: 'Formula example: Merging text columns with the help of a formula'
 date: 2023-01-28
 lastmod: '2023-09-18'
 categories:

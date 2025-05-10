@@ -1,11 +1,11 @@
 ---
-title: "La columna de fecha - SeaTable"
+title: 'La columna de fecha'
 date: 2023-01-23
-lastmod: "2023-11-08"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/es/ayuda/die-datum-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/es/ayuda/die-datum-spalte'
 ---
 
 Puede utilizar la columna de fecha para introducir **horas** y **fechas** en sus tablas con una precisión de un minuto. Simplemente utilice el calendario que aparece o su teclado para introducir una fecha manualmente. Tenga en cuenta que SeaTable no acepta ninguna otra entrada de datos en una columna de fecha.

@@ -1,5 +1,5 @@
 ---
-title: 'The file management of a base - SeaTable'
+title: 'The file management of a base'
 date: 2023-06-27
 lastmod: '2024-03-15'
 categories:

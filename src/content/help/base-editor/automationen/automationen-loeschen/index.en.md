@@ -1,5 +1,5 @@
 ---
-title: 'Delete automations - SeaTable'
+title: 'Delete automations'
 date: 2022-12-06
 lastmod: '2023-02-01'
 categories:

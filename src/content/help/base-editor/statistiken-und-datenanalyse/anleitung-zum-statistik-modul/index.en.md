@@ -1,11 +1,11 @@
 ---
-title: "Instructions for the statistics module - SeaTable"
+title: 'Instructions for the statistics module'
 date: 2023-02-06
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "vge"
-url: "/help/anleitung-zum-statistik-modul"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'vge'
+url: '/help/anleitung-zum-statistik-modul'
 ---
 
 With the **statistics module**, you can display the data from your table visually in the form of various **graphs** and **charts**. This is extremely useful for your work in SeaTable: thanks to the **dashboards**, you always have an overview of the figures and statistical developments in your base.

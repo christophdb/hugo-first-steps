@@ -1,5 +1,5 @@
 ---
-title: 'Acrescentar opções a uma coluna de selecção única - SeaTable'
+title: 'Acrescentar opções a uma coluna de selecção única'
 date: 2023-01-07
 lastmod: '2023-04-27'
 categories:

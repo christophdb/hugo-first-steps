@@ -1,11 +1,11 @@
 ---
-title: "Table fields - SeaTable"
+title: 'Table fields'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/help/tabellenfelder"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/help/tabellenfelder'
 ---
 
 **Table fields** contain the entries from one column of your table. Therefore, for the table fields, the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) lists **all the columns of** the table from which you can include data in the page.

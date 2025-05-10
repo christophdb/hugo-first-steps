@@ -1,11 +1,11 @@
 ---
-title: "Acciones de automatización - SeaTable"
+title: 'Acciones de automatización'
 date: 2023-01-27
-lastmod: "2024-02-12"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/es/ayuda/automations-aktionen"
+lastmod: '2024-02-12'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/es/ayuda/automations-aktionen'
 ---
 
 {{< required-version "Empresa" >}}
@@ -42,7 +42,7 @@ Puedes editar los **destinatarios** y el **contenido** de las notificaciones en 
 
 Los usuarios pueden acceder a sus notificaciones a través del **icono de la campana** {{< seatable-icon icon="dtable-icon-notice" >}} que aparece junto a su avatar en la esquina superior derecha.
 
-![Notificación sobre la acción: &quot;Envío de notificaciones a uno o varios usuarios&quot;. ](https://seatable.io/wp-content/uploads/2022/12/example-action-notification.png)
+![Notificación sobre la acción: "Envío de notificaciones a uno o varios usuarios". ](https://seatable.io/wp-content/uploads/2022/12/example-action-notification.png)
 
 La acción de automatización "Enviar notificación" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -76,7 +76,7 @@ La acción de automatización "Enviar notificación de aplicación" está dispon
 
 Al definir "Enviar correo electrónico" como acción automatizada, puede enviar correos electrónicos predefinidos a uno o más usuarios. SeaTable envía un **correo electrónico** a cada usuario seleccionado en cuanto se **activa el disparador** correspondiente. Puede editar el destinatario, asunto, contenido y archivos adjuntos del correo electrónico en cualquier momento en la **configuración de** automatización.
 
-![Definición de la acción de automatización: &quot;Envío de correos electrónicos a uno o varios usuarios&quot;.](https://seatable.io/wp-content/uploads/2022/12/example-action-email.png)
+![Definición de la acción de automatización: "Envío de correos electrónicos a uno o varios usuarios".](https://seatable.io/wp-content/uploads/2022/12/example-action-email.png)
 
 La acción de automatización "Enviar correo electrónico" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -91,7 +91,7 @@ El artículo [Email Dispatch by](https://seatable.io/es/docs/beispiel-automation
 
 Si define "Añadir fila" como acción automatizada, se añadirá una **nueva entrada** a la tabla en cuanto se **active el disparador** correspondiente. Puede definir de antemano el **contenido** exacto de la entrada individualmente para cada columna.
 
-![Acción de automatización: &quot;Añadir una entrada a la tabla&quot;.](https://seatable.io/wp-content/uploads/2022/12/action-add-records.png)
+![Acción de automatización: "Añadir una entrada a la tabla".](https://seatable.io/wp-content/uploads/2022/12/action-add-records.png)
 
 La acción de automatización "Añadir fila" está disponible actualmente para los siguientes **disparadores de automatización**:
 
@@ -120,7 +120,7 @@ El artículo [Bloqueo de líneas mediante automatización](https://seatable.io/e
 
 Si selecciona "Editar entrada" como acción automatizada, las **entradas** de la tabla se ajustan según la **configuración** definida de antemano tras **activarse el disparador**. Como puede verse en la captura de pantalla, por ejemplo, la fecha de inicio de un nuevo empleado introducido en la tabla puede ajustarse automáticamente a la fecha de hoy.
 
-![Acción de automatización: &quot;Ajustar una entrada en la tabla&quot;.](https://seatable.io/wp-content/uploads/2022/12/action-modify-a-record.png)
+![Acción de automatización: "Ajustar una entrada en la tabla".](https://seatable.io/wp-content/uploads/2022/12/action-modify-a-record.png)
 
 La acción de automatización "Editar entrada" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -132,7 +132,7 @@ La acción de automatización "Editar entrada" está disponible actualmente para
 
 Si selecciona "Añadir enlaces" como acción automatizada, se creará un enlace [a las entradas de otra tabla](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) en la columna correspondiente cuando se **active el activador**. En la **configuración** de la regla de automatización, puede especificar exactamente en qué condiciones se añade el enlace a la tabla.
 
-![Acción de automatización: &quot;Añadir una columna vinculada a la tabla&quot;.](https://seatable.io/wp-content/uploads/2022/12/action-add-links.png)
+![Acción de automatización: "Añadir una columna vinculada a la tabla".](https://seatable.io/wp-content/uploads/2022/12/action-add-links.png)
 
 La acción de automatización "Añadir enlaces" está disponible actualmente para los siguientes **activadores de automatización**:
 
@@ -146,7 +146,7 @@ El artículo [Vinculación de entradas mediante automatización](https://seatabl
 
 Si selecciona "Añadir nueva entrada en otra tabla" como acción automatizada, se creará una **entrada** en **otra** tabla cuando se **active el disparador**. En la **configuración** de la regla de automatización, puede definir entradas individuales que se añaden a las tablas seleccionadas como parte de la automatización.
 
-![Acción de automatización: &quot;Añadir una entrada a otra tabla&quot;.](https://seatable.io/wp-content/uploads/2022/12/action-add-records-to-another-table-new.png)
+![Acción de automatización: "Añadir una entrada a otra tabla".](https://seatable.io/wp-content/uploads/2022/12/action-add-records-to-another-table-new.png)
 
 La acción de automatización "Añadir nueva entrada en otra tabla" está disponible actualmente para los siguientes **disparadores de automatización**:
 
@@ -169,7 +169,7 @@ La acción de automatización "Convertir página a PDF" está disponible actualm
 
 Si selecciona la ejecución de un script de Python como acción automatizada, SeaTable puede ejecutar un **script de Python** predefinido en la tabla seleccionada. Puede crear o editar el script en cualquier momento en el [editor de scripts](https://seatable.io/es/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) y luego seleccionarlo en la **configuración** de la regla de automatización.
 
-![Acción de automatización: &quot;Ejecución de un script Python](https://seatable.io/wp-content/uploads/2022/12/action-run-python-script.png)
+![Acción de automatización: "Ejecución de un script Python](https://seatable.io/wp-content/uploads/2022/12/action-run-python-script.png)
 
 La acción de automatización "Ejecutar script Python" está disponible actualmente para los siguientes **disparadores de automatización**:
 

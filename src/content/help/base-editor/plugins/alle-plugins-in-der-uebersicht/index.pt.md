@@ -1,11 +1,11 @@
 ---
-title: "Todos os plugins num relance - SeaTable"
+title: 'Todos os plugins num relance'
 date: 2023-05-03
-lastmod: "2024-08-01"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/pt/ajuda/alle-plugins-in-der-uebersicht"
+lastmod: '2024-08-01'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/pt/ajuda/alle-plugins-in-der-uebersicht'
 ---
 
 **Os plugins** SeaTable dão-lhe a oportunidade de ver os seus dados de uma perspetiva completamente diferente. Visualize compromissos, tarefas e localizações e crie documentos e perfis a partir dos seus dados. No artigo seguinte, explicamos quais os plugins disponíveis no SeaTable e como os pode utilizar.

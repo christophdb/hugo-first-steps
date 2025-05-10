@@ -1,11 +1,11 @@
 ---
-title: "Regroupement, tri et filtre - SeaTable"
+title: 'Regroupement, tri et filtre'
 date: 2022-08-25
-lastmod: "2022-08-29"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "cdb"
-url: "/fr/aide/gruppierung-sortierung-und-filter"
+lastmod: '2022-08-29'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'cdb'
+url: '/fr/aide/gruppierung-sortierung-und-filter'
 ---
 
 SeaTable propose diverses méthodes d'évaluation des données. Filtres, tris et regroupements sont des outils d'évaluation simples de SeaTable. En quelques clics, ils vous permettent de réorganiser vos données et d'obtenir plus facilement les informations souhaitées. Simple ne signifie pas simpliste. Utilisés correctement, notamment en combinaison, les filtres, les tris et les regroupements offrent de nombreuses possibilités d'évaluation.
@@ -16,8 +16,8 @@ Cela vous semble compliqué ? Vous verrez, dans SeaTable, regrouper, trier et fi
 
 ## Regrouper
 
-La fonction de regroupement permet de regrouper les entrées du tableau et d'obtenir des statistiques descriptives simples telles que le nombre d'éléments, le total des colonnes et la moyenne sur les regroupements.  
-  
+La fonction de regroupement permet de regrouper les entrées du tableau et d'obtenir des statistiques descriptives simples telles que le nombre d'éléments, le total des colonnes et la moyenne sur les regroupements.
+
 Le regroupement s'effectue sur la base de valeurs identiques dans la colonne sélectionnée pour le regroupement. Par exemple, si vous organisez les tâches des membres de votre équipe dans un tableau, un regroupement via la colonne des membres vous permet de voir les tâches en attente par membre de l'équipe.
 
 Si vous souhaitez présenter vos données de manière encore plus précise, utilisez les regroupements imbriqués. Vous pouvez sélectionner plusieurs caractéristiques de regroupement et effectuer ainsi des regroupements subordonnés. Vous pouvez par exemple regrouper les produits d'abord par couleur, puis par matériau, puis par taille. Cela vous ouvre de nouvelles possibilités de structuration des données.
@@ -44,7 +44,7 @@ Toutes les lignes avec des cellules vides dans la colonne de regroupement - ind�
 
 La fonction de tri vous permet d'afficher les entrées non classées d'un tableau dans un ordre ordonné.
 
-La règle la plus simple consiste à trier un tableau par ordre croissant ou décroissant en fonction des valeurs d'une colonne. Mais pour les grands ensembles de données, plusieurs règles de tri peuvent être utilisées. Dans le cas de plusieurs règles de tri, les lignes du tableau sont d'abord triées selon la première règle. Les lignes ayant les mêmes valeurs selon la première règle de tri sont ensuite triées selon la deuxième règle.  
+La règle la plus simple consiste à trier un tableau par ordre croissant ou décroissant en fonction des valeurs d'une colonne. Mais pour les grands ensembles de données, plusieurs règles de tri peuvent être utilisées. Dans le cas de plusieurs règles de tri, les lignes du tableau sont d'abord triées selon la première règle. Les lignes ayant les mêmes valeurs selon la première règle de tri sont ensuite triées selon la deuxième règle.
 
 ### Configurer le tri
 
@@ -84,7 +84,6 @@ Dans le cas des règles de filtrage, contrairement aux règles de regroupement e
 - Critère de filtre : rapport entre la colonne filtrée et la valeur du filtre (par ex. "est", "contient", "est vide")
 - Valeur du filtre : la valeur selon laquelle le filtrage est effectué (p. ex. "123", "terminé")
 
-  
 Les règles de filtrage peuvent en outre être combinées avec les deux opérateurs booléens ET et OU. Avec une combinaison ET, seules les entrées qui remplissent toutes les conditions liées sont filtrées. La combinaison OU permet de filtrer les entrées qui remplissent au moins une des conditions définies. En présence de trois règles de filtrage ou plus, les opérateurs ET et OU peuvent également être utilisés ensemble.
 
 ### Mettre en place une filtration

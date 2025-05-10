@@ -1,11 +1,11 @@
 ---
-title: "Vistas e Plugins - SeaTable"
+title: 'Vistas e Plugins'
 date: 2022-08-25
-lastmod: "2024-08-01"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/pt/ajuda/ansichten"
+lastmod: '2024-08-01'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/pt/ajuda/ansichten'
 ---
 
 Dependendo da tarefa e dos dados recolhidos, diferentes **modos de visualização** são úteis para facilitar o seu trabalho no SeaTable. O SeaTable oferece-lhe vistas para este fim: Os dados quantitativos podem ser melhor registados na vista de tabela, estruturados com filtros, ordenação e agrupamento e avaliados com a ajuda de **estatísticas**.

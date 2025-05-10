@@ -1,5 +1,5 @@
 ---
-title: 'Ocultar mesas - SeaTable'
+title: 'Ocultar mesas'
 date: 2025-02-25
 lastmod: '2025-02-25'
 categories:

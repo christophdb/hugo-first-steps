@@ -1,11 +1,11 @@
 ---
-title: "Static image - SeaTable"
+title: 'Static image'
 date: 2023-02-07
-lastmod: "2023-06-29"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/help/statisches-bild"
+lastmod: '2023-06-29'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/help/statisches-bild'
 ---
 
 A **static image** gives you the ability to include **image files** such as logos, graphics, or background images in a page to create a basic page layout. Unlike images that come from [image columns](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) in your table, a static image does not change and remains the same regardless of the entries in the table. However, you must **manually upload** the appropriate image file.

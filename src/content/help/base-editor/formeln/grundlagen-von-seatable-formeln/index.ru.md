@@ -1,5 +1,5 @@
 ---
-title: 'Основы формул SeaTable - SeaTable'
+title: 'Основы формул SeaTable'
 date: 2023-01-28
 lastmod: '2023-09-14'
 categories:

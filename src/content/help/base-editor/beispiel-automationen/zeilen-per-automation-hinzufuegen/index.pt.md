@@ -1,5 +1,5 @@
 ---
-title: 'Adicionar filas via automatização - SeaTable'
+title: 'Adicionar filas via automatização'
 date: 2023-03-02
 lastmod: '2023-03-31'
 categories:

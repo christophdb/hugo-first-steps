@@ -1,5 +1,5 @@
 ---
-title: 'Las características especiales de la primera columna - SeaTable'
+title: 'Las características especiales de la primera columna'
 date: 2022-10-13
 lastmod: '2024-03-15'
 categories:

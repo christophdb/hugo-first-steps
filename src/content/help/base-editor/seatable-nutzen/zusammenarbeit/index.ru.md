@@ -1,11 +1,11 @@
 ---
-title: "Сотрудничество - SeaTable"
+title: 'Сотрудничество'
 date: 2022-08-25
-lastmod: "2023-03-15"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/ru/help/zusammenarbeit"
+lastmod: '2023-03-15'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/ru/help/zusammenarbeit'
 ---
 
 SeaTable - это мощный инструмент, с помощью которого вы можете организовать свои данные в одиночку. Но лучше всего он проявляет себя, когда вы работаете **в команде**. У вас уже есть сильная команда? Сделайте ее еще сильнее с помощью SeaTable!

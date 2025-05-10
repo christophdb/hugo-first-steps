@@ -1,5 +1,5 @@
 ---
-title: 'The Countlinks Formula - SeaTable'
+title: 'The Countlinks Formula'
 date: 2023-01-11
 lastmod: '2023-01-24'
 categories:

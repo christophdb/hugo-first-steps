@@ -1,11 +1,11 @@
 ---
-title: "Opções de configuração de um formulário web - SeaTable"
+title: 'Opções de configuração de um formulário web'
 date: 2023-01-08
-lastmod: "2024-02-14"
-categories: 
-  - "webformulare"
-author: "vge"
-url: "/pt/ajuda/konfigurationsmoeglichkeiten-eines-webformulars"
+lastmod: '2024-02-14'
+categories:
+    - 'webformulare'
+author: 'vge'
+url: '/pt/ajuda/konfigurationsmoeglichkeiten-eines-webformulars'
 ---
 
 Pode configurar o aspecto, conteúdo e funcionalidade do seu formulário web personalizando as **definições do formulário**, as **definições do campo** e o **esquema de cores**. Este último requer uma assinatura Enterprise.

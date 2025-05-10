@@ -1,11 +1,11 @@
 ---
-title: "La columna permanente - SeaTable"
+title: 'La columna permanente'
 date: 2023-01-07
-lastmod: "2023-01-23"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/es/ayuda/die-dauer-spalte"
+lastmod: '2023-01-23'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/es/ayuda/die-dauer-spalte'
 ---
 
 La **columna de duración** es especialmente adecuada para registrar la duración de diversos eventos. Puede grabar un **periodo** de tiempo al minuto o incluso al segundo. Por ejemplo, la columna de duración puede utilizarse junto con una columna de [fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) para registrar las horas de trabajo.

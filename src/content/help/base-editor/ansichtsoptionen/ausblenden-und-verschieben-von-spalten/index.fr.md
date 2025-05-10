@@ -1,5 +1,5 @@
 ---
-title: 'Masquer et déplacer des colonnes - SeaTable'
+title: 'Masquer et déplacer des colonnes'
 date: 2022-10-26
 lastmod: '2023-01-02'
 categories:

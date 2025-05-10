@@ -1,11 +1,11 @@
 ---
-title: "Cooperação - SeaTable"
+title: 'Cooperação'
 date: 2022-08-25
-lastmod: "2023-03-15"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/pt/ajuda/zusammenarbeit"
+lastmod: '2023-03-15'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/pt/ajuda/zusammenarbeit'
 ---
 
 SeaTable é uma ferramenta poderosa com a qual pode organizar os seus dados por si próprio. Mas está no seu melhor quando se **trabalha em equipa**. Já tem uma equipa forte? Torna-a mais forte com o SeaTable!

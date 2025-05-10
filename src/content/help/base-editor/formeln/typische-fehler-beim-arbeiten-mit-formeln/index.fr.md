@@ -1,5 +1,5 @@
 ---
-title: "Erreurs typiques lors de l'utilisation de formules - SeaTable"
+title: "Erreurs typiques lors de l'utilisation de formules"
 date: 2023-05-03
 lastmod: '2023-05-03'
 categories:

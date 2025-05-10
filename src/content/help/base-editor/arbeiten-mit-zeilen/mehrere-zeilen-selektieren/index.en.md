@@ -1,11 +1,11 @@
 ---
-title: "Select multiple rows - SeaTable"
+title: 'Select multiple rows'
 date: 2022-10-10
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "cdb"
-url: "/help/mehrere-zeilen-selektieren"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'cdb'
+url: '/help/mehrere-zeilen-selektieren'
 ---
 
 It surely happens that you want to [copy](https://seatable.io/en/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/), [delete](https://seatable.io/en/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) or [lock for](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) editing **several rows** at the same time. To perform these actions, you must **select** the desired rows beforehand.

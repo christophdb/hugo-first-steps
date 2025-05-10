@@ -1,11 +1,11 @@
 ---
-title: "Campos de la tabla - SeaTable"
+title: 'Campos de la tabla'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/es/ayuda/tabellenfelder"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/es/ayuda/tabellenfelder'
 ---
 
 Los **campos de tabla** contienen las entradas de una columna de la tabla. Por lo tanto, el [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) enumera **todas las columnas de** la tabla a partir de las cuales se pueden incluir datos en la página en los campos de la tabla.

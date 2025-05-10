@@ -1,5 +1,5 @@
 ---
-title: 'Validation of input for text fields with regular expressions - SeaTable'
+title: 'Validation of input for text fields with regular expressions'
 date: 2023-05-03
 lastmod: '2024-03-11'
 categories:

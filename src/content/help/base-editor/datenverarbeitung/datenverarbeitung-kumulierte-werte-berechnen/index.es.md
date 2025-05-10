@@ -1,11 +1,11 @@
 ---
-title: "Tratamiento de datos: Calcular valores acumulados - SeaTable"
+title: 'Tratamiento de datos: Calcular valores acumulados'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/es/ayuda/datenverarbeitung-kumulierte-werte-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/es/ayuda/datenverarbeitung-kumulierte-werte-berechnen'
 ---
 
 Con la función de tratamiento de datos, puede realizar varias operaciones en una columna. Una operación es el **cálculo de valores acumulados**, con el que puede acumular todos los valores de una columna numérica. Para ello, basta con definir la operación de tratamiento de datos correspondiente a través de las opciones de vista de la tabla.

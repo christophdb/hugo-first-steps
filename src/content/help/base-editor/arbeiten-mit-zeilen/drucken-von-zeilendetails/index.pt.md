@@ -1,5 +1,5 @@
 ---
-title: 'Detalhes da linha de impressão - SeaTable'
+title: 'Detalhes da linha de impressão'
 date: 2022-11-16
 lastmod: '2023-08-16'
 categories:

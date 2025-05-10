@@ -1,5 +1,5 @@
 ---
-title: 'As colunas Texto e Texto formatado - SeaTable'
+title: 'As colunas Texto e Texto formatado'
 date: 2023-02-21
 lastmod: '2023-11-08'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'O tipo de coluna de números automáticos - SeaTable'
+title: 'O tipo de coluna de números automáticos'
 date: 2023-01-07
 lastmod: '2023-02-10'
 categories:

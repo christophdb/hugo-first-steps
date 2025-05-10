@@ -1,5 +1,5 @@
 ---
-title: 'Set default value for a column - SeaTable'
+title: 'Set default value for a column'
 date: 2023-11-07
 lastmod: '2024-06-11'
 categories:

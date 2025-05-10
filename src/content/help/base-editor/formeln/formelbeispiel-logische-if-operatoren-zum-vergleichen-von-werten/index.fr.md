@@ -1,5 +1,5 @@
 ---
-title: 'Exemple de formule : Opérateurs logiques If pour remplir des valeurs de manière conditionnelle - SeaTable'
+title: 'Exemple de formule : Opérateurs logiques If pour remplir des valeurs de manière conditionnelle'
 date: 2023-01-28
 lastmod: '2023-09-19'
 categories:

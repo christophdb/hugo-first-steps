@@ -1,11 +1,11 @@
 ---
-title: "Операции обработки данных в SeaTable - SeaTable"
+title: 'Операции обработки данных в SeaTable'
 date: 2023-03-20
-lastmod: "2023-04-28"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/ru/help/datenverarbeitungsoperationen-in-seatable"
+lastmod: '2023-04-28'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/ru/help/datenverarbeitungsoperationen-in-seatable'
 ---
 
 Функция обработки данных - это полезная функция SeaTable, которая позволяет выполнять **операции** в столбце над несколькими строками. Определив операцию, вы можете либо выполнить различные **математические вычисления**, либо установить **взаимосвязи между значениями** в разных таблицах. Операции обработки данных особенно эффективны в больших наборах данных, где можно выполнить большое количество вычислений.

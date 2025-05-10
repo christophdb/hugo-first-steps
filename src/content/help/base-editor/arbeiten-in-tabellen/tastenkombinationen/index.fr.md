@@ -1,5 +1,5 @@
 ---
-title: 'Raccourcis clavier et combinaisons de touches - SeaTable'
+title: 'Raccourcis clavier et combinaisons de touches'
 date: 2022-08-25
 lastmod: '2023-01-12'
 categories:

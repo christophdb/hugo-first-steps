@@ -1,5 +1,5 @@
 ---
-title: 'Masquer les tableaux - SeaTable'
+title: 'Masquer les tableaux'
 date: 2025-02-25
 lastmod: '2025-02-25'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Trasladar filas al almacén de big data - SeaTable'
+title: 'Trasladar filas al almacén de big data'
 date: 2022-09-23
 lastmod: '2024-05-13'
 categories:

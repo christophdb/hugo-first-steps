@@ -1,11 +1,11 @@
 ---
-title: "Adding data by copy-and-paste - SeaTable"
+title: 'Adding data by copy-and-paste'
 date: 2022-10-15
-lastmod: "2022-12-30"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "vge"
-url: "/help/hinzufuegen-von-daten-per-copy-and-paste"
+lastmod: '2022-12-30'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'vge'
+url: '/help/hinzufuegen-von-daten-per-copy-and-paste'
 ---
 
 SeaTable knows the popular keyboard shortcuts {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} and {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} for copying and pasting data. This works both with data you want to copy within SeaTable and with data you want to paste into SeaTable.

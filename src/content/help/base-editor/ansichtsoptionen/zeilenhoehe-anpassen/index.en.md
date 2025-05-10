@@ -1,5 +1,5 @@
 ---
-title: 'Adjust row height - SeaTable'
+title: 'Adjust row height'
 date: 2022-10-26
 lastmod: '2023-03-28'
 categories:

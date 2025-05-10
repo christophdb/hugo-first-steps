@@ -1,5 +1,5 @@
 ---
-title: 'Uso de emojis en el nombre de la tabla - SeaTable'
+title: 'Uso de emojis en el nombre de la tabla'
 date: 2022-12-13
 lastmod: '2025-02-28'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Supprimer des automatismes - SeaTable'
+title: 'Supprimer des automatismes'
 date: 2022-12-06
 lastmod: '2023-02-01'
 categories:

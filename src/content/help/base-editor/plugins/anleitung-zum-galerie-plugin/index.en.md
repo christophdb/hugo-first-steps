@@ -1,11 +1,11 @@
 ---
-title: "Gallery plugin guide - SeaTable"
+title: 'Gallery plugin guide'
 date: 2023-01-08
-lastmod: "2023-06-29"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/help/anleitung-zum-galerie-plugin"
+lastmod: '2023-06-29'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/help/anleitung-zum-galerie-plugin'
 ---
 
 The **Gallery plugin** is particularly well suited to displaying illustrated records, as it primarily refers to the contents of an [image column](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/).

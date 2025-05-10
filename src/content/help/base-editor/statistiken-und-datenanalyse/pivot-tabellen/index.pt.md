@@ -1,11 +1,11 @@
 ---
-title: "Tabelas dinâmicas - SeaTable"
+title: 'Tabelas dinâmicas'
 date: 2024-03-18
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "kgr"
-url: "/pt/ajuda/pivot-tabellen"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'kgr'
+url: '/pt/ajuda/pivot-tabellen'
 ---
 
 As tabelas dinâmicas são ferramentas de análise poderosas com as quais pode determinar os resultados que procura em poucos segundos, mesmo a partir de conjuntos de dados grandes e confusos. Com o **módulo de estatísticas**, criar tabelas dinâmicas é uma brincadeira de crianças.

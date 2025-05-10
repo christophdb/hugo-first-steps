@@ -1,11 +1,11 @@
 ---
-title: "Criação de uma coluna de selecção única - SeaTable"
+title: 'Criação de uma coluna de selecção única'
 date: 2022-10-10
-lastmod: "2024-04-15"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/pt/ajuda/anlegen-einer-einfachauswahl-spalte"
+lastmod: '2024-04-15'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/pt/ajuda/anlegen-einer-einfachauswahl-spalte'
 ---
 
 Uma coluna de selecção única é ideal se quiser atribuir **exactamente uma opção** de uma lista de opções a ser definida para as suas linhas. As opções são dadas **etiquetas** coloridas, que pode utilizar para **categorizar** os seus registos e tornar as tabelas claras.

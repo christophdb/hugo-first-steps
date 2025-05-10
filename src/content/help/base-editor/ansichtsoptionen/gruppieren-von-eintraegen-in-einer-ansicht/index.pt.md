@@ -1,5 +1,5 @@
 ---
-title: 'Agrupar entradas numa vista - SeaTable'
+title: 'Agrupar entradas numa vista'
 date: 2022-10-26
 lastmod: '2023-01-13'
 categories:

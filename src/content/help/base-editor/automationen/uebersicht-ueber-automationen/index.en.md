@@ -1,11 +1,11 @@
 ---
-title: "Automation overview - SeaTable"
+title: 'Automation overview'
 date: 2023-01-31
-lastmod: "2023-03-21"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/help/uebersicht-ueber-automationen"
+lastmod: '2023-03-21'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/help/uebersicht-ueber-automationen'
 ---
 
 {{< required-version "Enterprise" >}}

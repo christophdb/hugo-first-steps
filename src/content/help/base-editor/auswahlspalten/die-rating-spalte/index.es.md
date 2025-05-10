@@ -1,11 +1,11 @@
 ---
-title: "La columna de calificación - SeaTable"
+title: 'La columna de calificación'
 date: 2023-01-07
-lastmod: "2023-11-08"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/es/ayuda/die-rating-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/es/ayuda/die-rating-spalte'
 ---
 
 La columna Clasificación le permite **clasificar** sus registros para **ordenarlos** o darles una **calificación de calidad**. Al crear la columna, puede realizar ajustes específicos relativos a la apariencia y al número máximo de **símbolos de calificación** permitidos.

@@ -1,11 +1,11 @@
 ---
-title: "Export and import options in single or multiple selection columns - SeaTable"
+title: 'Export and import options in single or multiple selection columns'
 date: 2023-01-07
-lastmod: "2023-01-24"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/help/einfachauswahl-optionen-exportieren-und-importieren"
+lastmod: '2023-01-24'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/help/einfachauswahl-optionen-exportieren-und-importieren'
 ---
 
 The options you have available in single or multiple selection columns can not only be **entered manually**, but can also be conveniently **exported** from an existing column and **imported into** another column. This saves you a lot of work if you want to use the same options over and over again - even across different bases - for your **single** and **multiple selection columns**.

@@ -1,11 +1,11 @@
 ---
-title: "Entries and pages - SeaTable"
+title: 'Entries and pages'
 date: 2023-02-08
-lastmod: "2023-02-09"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/help/eintraege-und-seiten"
+lastmod: '2023-02-09'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/help/eintraege-und-seiten'
 ---
 
 In the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), it is important to understand the difference between entries and pages. While additional **pages** extend a document independently from the contents of the table, **entries** map different records from the rows of the table.

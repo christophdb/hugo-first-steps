@@ -1,5 +1,5 @@
 ---
-title: 'The Text and Formatted Text columns - SeaTable'
+title: 'The Text and Formatted Text columns'
 date: 2023-02-21
 lastmod: '2023-11-08'
 categories:

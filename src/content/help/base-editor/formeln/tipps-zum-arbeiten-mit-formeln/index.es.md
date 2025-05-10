@@ -1,11 +1,11 @@
 ---
-title: "Consejos para trabajar con fórmulas - SeaTable"
+title: 'Consejos para trabajar con fórmulas'
 date: 2023-05-03
-lastmod: "2023-09-21"
-categories: 
-  - "formeln"
-author: "nsc2"
-url: "/es/ayuda/tipps-zum-arbeiten-mit-formeln"
+lastmod: '2023-09-21'
+categories:
+    - 'formeln'
+author: 'nsc2'
+url: '/es/ayuda/tipps-zum-arbeiten-mit-formeln'
 ---
 
 Aquí encontrarás ayuda y consejos para facilitar tu trabajo con las fórmulas de Seatable. [Aquí](https://seatable.io/es/docs/formeln/formelreferenz/) encontrará una lista de todas las fórmulas disponibles.

@@ -1,5 +1,5 @@
 ---
-title: "La colonne d'images - SeaTable"
+title: "La colonne d'images"
 date: 2023-06-29
 lastmod: '2024-08-02'
 categories:

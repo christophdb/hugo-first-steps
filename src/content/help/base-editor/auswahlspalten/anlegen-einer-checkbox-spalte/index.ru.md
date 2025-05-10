@@ -1,11 +1,11 @@
 ---
-title: "Колонка с флажком - SeaTable"
+title: 'Колонка с флажком'
 date: 2022-11-16
-lastmod: "2025-02-27"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/ru/help/anlegen-einer-checkbox-spalte"
+lastmod: '2025-02-27'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/ru/help/anlegen-einer-checkbox-spalte'
 ---
 
 В SeaTable есть возможность добавлять в таблицы **столбцы с флажками**. Они идеально подходят, например, для пометки задач как выполненных - т.е. для обзора выполнения строк по определенному **условию "да/нет"**. Таким образом, столбцы с флажками можно использовать для [фильтрации](https://seatable.io/ru/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [сортировки](https://seatable.io/ru/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) и [группировки](https://seatable.io/ru/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/).

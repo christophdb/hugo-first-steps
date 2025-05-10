@@ -1,5 +1,5 @@
 ---
-title: 'A gestão de ficheiros de uma base - SeaTable'
+title: 'A gestão de ficheiros de uma base'
 date: 2023-06-27
 lastmod: '2024-03-15'
 categories:

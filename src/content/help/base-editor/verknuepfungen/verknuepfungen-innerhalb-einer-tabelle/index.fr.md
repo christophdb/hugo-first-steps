@@ -1,5 +1,5 @@
 ---
-title: 'Liens dans une table - SeaTable'
+title: 'Liens dans une table'
 date: 2025-02-28
 lastmod: '2025-02-28'
 categories:

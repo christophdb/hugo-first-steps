@@ -1,5 +1,5 @@
 ---
-title: 'The Automatic Number column type - SeaTable'
+title: 'The Automatic Number column type'
 date: 2023-01-07
 lastmod: '2023-02-10'
 categories:

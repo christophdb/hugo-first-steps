@@ -1,5 +1,5 @@
 ---
-title: 'The specifics of the first column - SeaTable'
+title: 'The specifics of the first column'
 date: 2022-10-13
 lastmod: '2024-03-15'
 categories:

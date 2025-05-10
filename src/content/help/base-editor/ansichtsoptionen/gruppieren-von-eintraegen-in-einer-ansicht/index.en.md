@@ -1,5 +1,5 @@
 ---
-title: 'Grouping entries in a view - SeaTable'
+title: 'Grouping entries in a view'
 date: 2022-10-26
 lastmod: '2023-01-13'
 categories:

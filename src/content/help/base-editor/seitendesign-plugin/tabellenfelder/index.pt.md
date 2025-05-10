@@ -1,11 +1,11 @@
 ---
-title: "Campos de mesa - SeaTable"
+title: 'Campos de mesa'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/pt/ajuda/tabellenfelder"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/pt/ajuda/tabellenfelder'
 ---
 
 Os **campos da tabela** contêm as entradas de uma coluna na sua tabela. Portanto, o [plugin de desenho da página](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) lista **todas as colunas** da tabela a partir das quais se podem incluir dados na página nos campos da tabela.

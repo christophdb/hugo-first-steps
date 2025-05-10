@@ -1,5 +1,5 @@
 ---
-title: 'Encabezado y pie de página - SeaTable'
+title: 'Encabezado y pie de página'
 date: 2023-02-08
 lastmod: '2023-02-09'
 categories:

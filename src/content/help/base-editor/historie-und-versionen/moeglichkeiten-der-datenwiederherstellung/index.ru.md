@@ -1,5 +1,5 @@
 ---
-title: 'Варианты восстановления данных с помощью SeaTable - SeaTable'
+title: 'Варианты восстановления данных с помощью SeaTable'
 date: 2022-10-11
 lastmod: '2023-01-11'
 categories:

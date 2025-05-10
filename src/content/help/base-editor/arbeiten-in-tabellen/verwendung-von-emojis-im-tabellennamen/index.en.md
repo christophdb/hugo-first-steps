@@ -1,5 +1,5 @@
 ---
-title: 'Using emojis in table name - SeaTable'
+title: 'Using emojis in table name'
 date: 2022-12-13
 lastmod: '2025-02-28'
 categories:

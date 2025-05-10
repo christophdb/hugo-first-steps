@@ -1,5 +1,5 @@
 ---
-title: 'Guardar la base actual como una instantánea - SeaTable'
+title: 'Guardar la base actual como una instantánea'
 date: 2022-10-11
 lastmod: '2024-06-11'
 categories:

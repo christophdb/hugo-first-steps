@@ -1,5 +1,5 @@
 ---
-title: 'Формула поиска - SeaTable'
+title: 'Формула поиска'
 date: 2022-10-13
 lastmod: '2023-04-06'
 categories:

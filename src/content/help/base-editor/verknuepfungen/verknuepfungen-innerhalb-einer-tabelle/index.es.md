@@ -1,5 +1,5 @@
 ---
-title: 'Enlaces dentro de una tabla - SeaTable'
+title: 'Enlaces dentro de una tabla'
 date: 2025-02-28
 lastmod: '2025-02-28'
 categories:

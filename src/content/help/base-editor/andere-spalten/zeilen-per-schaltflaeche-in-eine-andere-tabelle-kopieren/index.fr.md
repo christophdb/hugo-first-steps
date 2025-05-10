@@ -1,5 +1,5 @@
 ---
-title: "Copier des lignes dans un autre tableau à l'aide d'un bouton - SeaTable"
+title: "Copier des lignes dans un autre tableau à l'aide d'un bouton"
 date: 2024-02-20
 lastmod: '2024-02-20'
 categories:

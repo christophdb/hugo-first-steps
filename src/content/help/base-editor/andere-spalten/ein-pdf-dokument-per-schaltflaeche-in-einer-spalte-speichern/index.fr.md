@@ -1,5 +1,5 @@
 ---
-title: "Enregistrer un document PDF dans une colonne à l'aide d'un bouton - SeaTable"
+title: "Enregistrer un document PDF dans une colonne à l'aide d'un bouton"
 date: 2023-01-23
 lastmod: '2023-05-04'
 categories:

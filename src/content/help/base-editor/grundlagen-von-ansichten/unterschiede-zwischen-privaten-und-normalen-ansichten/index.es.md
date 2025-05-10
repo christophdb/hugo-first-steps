@@ -1,11 +1,11 @@
 ---
-title: "Diferencias entre las vistas privadas y las normales - SeaTable"
+title: 'Diferencias entre las vistas privadas y las normales'
 date: 2022-11-07
-lastmod: "2023-11-27"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "nsc2"
-url: "/es/ayuda/unterschiede-zwischen-privaten-und-normalen-ansichten"
+lastmod: '2023-11-27'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'nsc2'
+url: '/es/ayuda/unterschiede-zwischen-privaten-und-normalen-ansichten'
 ---
 
 {{< required-version "Empresa" >}}

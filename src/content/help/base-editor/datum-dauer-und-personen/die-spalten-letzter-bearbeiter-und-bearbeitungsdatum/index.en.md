@@ -1,11 +1,11 @@
 ---
-title: "The Last Editor and Edit Date columns - SeaTable"
+title: 'The Last Editor and Edit Date columns'
 date: 2023-01-20
-lastmod: "2023-08-04"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/help/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum"
+lastmod: '2023-08-04'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/help/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 ---
 
 The columns **Last editor** and **Edited date** are exclusively filled **automatically** by SeaTable and therefore represent special column types. They prove to be extremely useful if you want to track **when** and **by whom** an entry was **last edited**.
@@ -16,7 +16,7 @@ Since the two columns automatically capture changes to entries, they are well su
 
 While SeaTable fills the **Last Ed** ited column with the name of the user who last edited a row , the **Edited Date** column records the exact time (date and time) when the last edit occurred.
 
-![The columns &quot;Last editor&quot; and &quot;Last edited&quot; after being created by a user](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![The columns "Last editor" and "Last edited" after being created by a user](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
 
 ## Special features of the two column types
 

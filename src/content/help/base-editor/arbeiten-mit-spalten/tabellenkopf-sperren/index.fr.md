@@ -1,5 +1,5 @@
 ---
-title: "Verrouiller l'en-tête du tableau - SeaTable"
+title: "Verrouiller l'en-tête du tableau"
 date: 2023-03-03
 lastmod: '2023-03-03'
 categories:

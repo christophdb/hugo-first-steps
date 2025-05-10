@@ -1,11 +1,11 @@
 ---
-title: "Обработка данных: вычисление рейтинга - SeaTable"
+title: 'Обработка данных: вычисление рейтинга'
 date: 2023-03-16
-lastmod: "2023-11-27"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/ru/help/datenverarbeitung-rangliste-berechnen"
+lastmod: '2023-11-27'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/ru/help/datenverarbeitung-rangliste-berechnen'
 ---
 
 С помощью функции обработки данных можно выполнять различные операции над столбцом. Одной из операций является **вычисление рангов**, которое позволяет ранжировать все значения в числовом столбце. Для этого просто определите соответствующую операцию обработки данных в параметрах представления таблицы.

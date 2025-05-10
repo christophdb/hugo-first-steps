@@ -1,5 +1,5 @@
 ---
-title: 'Acrescentar uma coluna - SeaTable'
+title: 'Acrescentar uma coluna'
 date: 2022-10-10
 lastmod: '2023-01-24'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Referencia de la fórmula - SeaTable'
+title: 'Referencia de la fórmula'
 date: 2022-08-25
 lastmod: '2023-05-12'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Apagar uma fila - SeaTable'
+title: 'Apagar uma fila'
 date: 2022-10-14
 lastmod: '2023-02-16'
 categories:

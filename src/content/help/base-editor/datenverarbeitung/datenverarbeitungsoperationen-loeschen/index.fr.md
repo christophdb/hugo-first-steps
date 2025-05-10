@@ -1,11 +1,11 @@
 ---
-title: "Supprimer les opérations de traitement des données - SeaTable"
+title: 'Supprimer les opérations de traitement des données'
 date: 2023-03-13
-lastmod: "2023-03-13"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/fr/aide/datenverarbeitungsoperationen-loeschen"
+lastmod: '2023-03-13'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/fr/aide/datenverarbeitungsoperationen-loeschen'
 ---
 
 La fonction de traitement des données vous permet d'**effectuer** diverses **opérations**. Vous pouvez effectuer des calculs mathématiques sur toutes les valeurs d'une colonne ou établir une relation entre les valeurs si les entrées de deux tableaux différents sont identiques.

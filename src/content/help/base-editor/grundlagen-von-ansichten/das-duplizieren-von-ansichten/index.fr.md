@@ -1,5 +1,5 @@
 ---
-title: 'La duplication de vues - SeaTable'
+title: 'La duplication de vues'
 date: 2022-10-26
 lastmod: '2023-04-18'
 categories:

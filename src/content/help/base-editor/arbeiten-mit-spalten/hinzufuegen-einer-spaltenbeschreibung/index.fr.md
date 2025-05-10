@@ -1,11 +1,11 @@
 ---
-title: "Ajouter une description de colonne - SeaTable"
+title: 'Ajouter une description de colonne'
 date: 2022-10-10
-lastmod: "2024-03-15"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "nsc2"
-url: "/fr/aide/hinzufuegen-einer-spaltenbeschreibung"
+lastmod: '2024-03-15'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'nsc2'
+url: '/fr/aide/hinzufuegen-einer-spaltenbeschreibung'
 ---
 
 Pour stocker des informations, des instructions ou des explications sur une colonne, vous pouvez ajouter une description à vos colonnes de tableau dans SeaTable. Vous apprendrez ici comment faire :

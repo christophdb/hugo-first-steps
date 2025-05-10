@@ -1,5 +1,5 @@
 ---
-title: 'Marcação a cores das filas - SeaTable'
+title: 'Marcação a cores das filas'
 date: 2022-11-16
 lastmod: '2025-02-25'
 categories:
@@ -37,11 +37,11 @@ Para a opção **Utilizar coluna de seleção única**, é necessária uma colun
 A opção **Regras de Utilização** permite-lhe definir condições para a marcação por cor.
 
 - Clique no botão **símbolo de triângulo colorido**para mudar a cor do marcador.
-    ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
+  ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
 - Determine qual dos seus **Colunas** a condição deve referir-se a.
-    ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
+  ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
 - Decidir a favor do **Tipo de condição**.
-    ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
+  ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
 
 {{< warning  headline="Selecção dos tipos de condições dependendo do tipo de coluna"  text="Note que o tipo de coluna seleccionada determina que opções tem para selecção nas condições." />}}
 

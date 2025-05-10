@@ -1,5 +1,5 @@
 ---
-title: 'Cambiar el orden de las vistas - SeaTable'
+title: 'Cambiar el orden de las vistas'
 date: 2022-11-07
 lastmod: '2023-01-02'
 categories:

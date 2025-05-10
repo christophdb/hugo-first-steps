@@ -1,11 +1,11 @@
 ---
-title: "Link tables together - SeaTable"
+title: 'Link tables together'
 date: 2022-10-15
-lastmod: "2023-01-02"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "cdb"
-url: "/help/tabellen-miteinander-verlinken"
+lastmod: '2023-01-02'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'cdb'
+url: '/help/tabellen-miteinander-verlinken'
 ---
 
 At first glance, SeaTable looks like a spreadsheet, but in many places it works like a database. The tables in SeaTable are not isolated, but can relate rows to each other using a [link column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/).

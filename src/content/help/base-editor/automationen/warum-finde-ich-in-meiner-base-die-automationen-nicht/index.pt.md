@@ -1,5 +1,5 @@
 ---
-title: 'Porque não consigo encontrar as automatizações na minha base? - SeaTable'
+title: 'Porque não consigo encontrar as automatizações na minha base?'
 date: 2023-01-27
 lastmod: '2023-02-01'
 categories:

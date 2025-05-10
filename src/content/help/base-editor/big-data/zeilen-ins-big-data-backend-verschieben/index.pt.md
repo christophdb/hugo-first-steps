@@ -1,5 +1,5 @@
 ---
-title: 'Mover linhas para o armazenamento de grandes volumes de dados - SeaTable'
+title: 'Mover linhas para o armazenamento de grandes volumes de dados'
 date: 2022-09-23
 lastmod: '2024-05-13'
 categories:

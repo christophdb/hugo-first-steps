@@ -1,11 +1,11 @@
 ---
-title: "Data acquisition - SeaTable"
+title: 'Data acquisition'
 date: 2023-03-15
-lastmod: "2023-03-15"
-categories: 
-  - "seatable-nutzen"
-author: "kgr"
-url: "/help/datenerfassung"
+lastmod: '2023-03-15'
+categories:
+    - 'seatable-nutzen'
+author: 'kgr'
+url: '/help/datenerfassung'
 ---
 
 This article highlights some of the ways you can capture data in SeaTable.

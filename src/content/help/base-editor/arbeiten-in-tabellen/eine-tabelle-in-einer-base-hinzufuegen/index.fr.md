@@ -1,21 +1,21 @@
 ---
-title: "Ajouter une table dans une base - SeaTable"
+title: 'Ajouter une table dans une base'
 date: 2022-09-28
-lastmod: "2025-02-28"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/fr/aide/eine-tabelle-in-einer-base-hinzufuegen"
+lastmod: '2025-02-28'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/fr/aide/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
 Les bases se composent d'un ou de plusieurs tableaux qui peuvent à leur tour contenir des données très différentes et les relier entre elles. Une base peut contenir jusqu'à **200 tableaux**. Pour des raisons de clarté, il est toutefois conseillé de répartir les tables sur plusieurs bases à partir de 20 tables et de synchroniser les données à l'aide de la fonction [Enregistrements communs](https://seatable.io/fr/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/).
 
 ## Ajouter un tableau dans une base
 
-1. Dans la **base ouverte** vous voyez en haut à gauche les onglets avec tous les **Tableaux** de la base.  
-    
+1. Dans la **base ouverte** vous voyez en haut à gauche les onglets avec tous les **Tableaux** de la base.
+
     ![Tableaux dans une base de SeaTable](https://seatable.io/wp-content/uploads/2022/09/Tabellen-in-seatable.png)
-    
+
 2. Cliquez sur le **symbole \[+\]** à droite du dernier onglet du tableau.
 3. Sélectionnez maintenant **Ajouter un tableau**.
 4. Donnez un **nom** au nouveau tableau et confirmez en cliquant sur **Envoyer**.

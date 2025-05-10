@@ -1,11 +1,11 @@
 ---
-title: "Поля таблицы - SeaTable"
+title: 'Поля таблицы'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/ru/help/tabellenfelder"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/ru/help/tabellenfelder'
 ---
 
 **Поля таблицы** содержат записи из столбца вашей таблицы. Поэтому в [плагине дизайна страницы](https://seatable.io/ru/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) в полях таблицы перечислены **все столбцы** таблицы, данные из которых можно включить в страницу.

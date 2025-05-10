@@ -1,5 +1,5 @@
 ---
-title: 'The employee column - SeaTable'
+title: 'The employee column'
 date: 2023-01-07
 lastmod: '2024-02-14'
 categories:

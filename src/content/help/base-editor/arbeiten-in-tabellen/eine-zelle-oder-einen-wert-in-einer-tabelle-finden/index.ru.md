@@ -1,11 +1,11 @@
 ---
-title: "Найти ячейку или значение в таблице - SeaTable"
+title: 'Найти ячейку или значение в таблице'
 date: 2022-10-11
-lastmod: "2023-08-16"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/ru/help/eine-zelle-oder-einen-wert-in-einer-tabelle-finden"
+lastmod: '2023-08-16'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/ru/help/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
 ---
 
 Таблицы в SeaTable могут содержать тысячи записей данных. Чтобы вы могли быстро и легко найти отдельные ячейки или значения, SeaTable предлагает возможность поиска отдельных значений и терминов.

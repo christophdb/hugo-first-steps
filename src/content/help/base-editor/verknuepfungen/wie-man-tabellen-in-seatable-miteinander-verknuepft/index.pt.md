@@ -1,5 +1,5 @@
 ---
-title: 'Como ligar tabelas em SeaTable - SeaTable'
+title: 'Como ligar tabelas em SeaTable'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:

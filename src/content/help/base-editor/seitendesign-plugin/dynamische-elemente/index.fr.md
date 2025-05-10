@@ -1,11 +1,11 @@
 ---
-title: "Éléments dynamiques - SeaTable"
+title: 'Éléments dynamiques'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/fr/aide/dynamische-elemente"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/fr/aide/dynamische-elemente'
 ---
 
 **Les éléments dynamiques** se modifient en fonction de certains critères, mais sont indépendants des entrées de votre tableau. Ces champs sont **pré-remplis** et adaptent **automatiquement** leurs entrées.

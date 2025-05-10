@@ -1,5 +1,5 @@
 ---
-title: 'Selección en cascada - SeaTable'
+title: 'Selección en cascada'
 date: 2022-12-16
 lastmod: '2023-01-24'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "A Coluna de Classificação - SeaTable"
+title: 'A Coluna de Classificação'
 date: 2023-01-07
-lastmod: "2023-11-08"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/pt/ajuda/die-rating-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/pt/ajuda/die-rating-spalte'
 ---
 
 A coluna de Classificação permite-lhe **classificar** os seus registos de modo a **classificá-los** ou dar-lhes uma classificação de **qualidade**. Ao criar a coluna, pode fazer configurações específicas relativamente à aparência e ao número máximo de **símbolos de classificação** permitidos.

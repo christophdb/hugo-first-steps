@@ -1,11 +1,11 @@
 ---
-title: "The multiple selection column - SeaTable"
+title: 'The multiple selection column'
 date: 2023-03-28
-lastmod: "2023-04-27"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/help/die-mehrfachauswahl-spalte"
+lastmod: '2023-04-27'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/help/die-mehrfachauswahl-spalte'
 ---
 
 A multi-select column is ideal if you want to assign your rows in a column **several options** from a list of options to be defined. The options are given colorful labels that you can use to label your records and make tables clear, for example, by [filtering](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) for specific options.

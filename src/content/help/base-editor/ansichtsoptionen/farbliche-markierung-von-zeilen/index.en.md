@@ -1,5 +1,5 @@
 ---
-title: 'Color marking of rows - SeaTable'
+title: 'Color marking of rows'
 date: 2022-11-16
 lastmod: '2025-02-25'
 categories:
@@ -37,11 +37,11 @@ For the **Use single selection column** option, you need a column of this type i
 The **Use rules** option allows you to set conditions for color highlighting.
 
 - Click on the **colored triangle symbol**to change the color of the marker.
-    ![Color marking of cells](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
+  ![Color marking of cells](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
 - Specify to which of your **Columns** the condition should refer to.
-    ![Color marking of cells](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
+  ![Color marking of cells](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
 - Decide for the **Condition type**.
-    ![Color marking of cells](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
+  ![Color marking of cells](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
 
 {{< warning  headline="Selection of condition types depending on the column type"  text="Please note that what options you have to choose from in the conditions depends on the type of the selected column." />}}
 

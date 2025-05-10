@@ -1,11 +1,11 @@
 ---
-title: "Group views in folders - SeaTable"
+title: 'Group views in folders'
 date: 2022-10-26
-lastmod: "2023-01-02"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/help/ansichten-in-ordnern-gruppieren"
+lastmod: '2023-01-02'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/help/ansichten-in-ordnern-gruppieren'
 ---
 
 In addition to changing the order, you can also arrange your views more clearly using **folders**. To do this, create as many view folders as you like and sort your views.
@@ -17,10 +17,10 @@ In addition to changing the order, you can also arrange your views more clearly 
 3. Select the **Add folder** option.
 4. Name the folder and confirm with **Submit**.
 5. Move the mouse to the view you want to move to the created folder.
-6. Hold the **Six dots icon** 
-    
+6. Hold the **Six dots icon**
+
     ![Icon for moving elements](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
-     to move and drag the view to the desired folder.
+    to move and drag the view to the desired folder.
 
 ![Group views in folders](images/Ansichten-in-Ordnern-gruppieren.gif)
 

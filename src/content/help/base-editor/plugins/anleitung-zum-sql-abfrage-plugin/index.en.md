@@ -1,5 +1,5 @@
 ---
-title: 'SQL Query Plugin Guide - SeaTable'
+title: 'SQL Query Plugin Guide'
 date: 2023-05-04
 lastmod: '2023-05-15'
 categories:

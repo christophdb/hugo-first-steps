@@ -1,5 +1,5 @@
 ---
-title: 'Lock table header - SeaTable'
+title: 'Lock table header'
 date: 2023-03-03
 lastmod: '2023-03-03'
 categories:

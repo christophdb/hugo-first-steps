@@ -1,11 +1,11 @@
 ---
-title: "Связывание таблиц друг с другом - SeaTable"
+title: 'Связывание таблиц друг с другом'
 date: 2022-10-15
-lastmod: "2023-01-02"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "cdb"
-url: "/ru/help/tabellen-miteinander-verlinken"
+lastmod: '2023-01-02'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'cdb'
+url: '/ru/help/tabellen-miteinander-verlinken'
 ---
 
 На первый взгляд SeaTable выглядит как электронная таблица, но во многих местах она работает как база данных. Таблицы в SeaTable не изолированы, а могут связывать строки друг с другом с помощью [столбца ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/).

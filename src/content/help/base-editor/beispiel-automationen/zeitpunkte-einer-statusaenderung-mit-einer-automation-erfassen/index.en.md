@@ -1,5 +1,5 @@
 ---
-title: 'Capture times of a status change with an automation - SeaTable'
+title: 'Capture times of a status change with an automation'
 date: 2023-04-28
 lastmod: '2023-04-28'
 categories:

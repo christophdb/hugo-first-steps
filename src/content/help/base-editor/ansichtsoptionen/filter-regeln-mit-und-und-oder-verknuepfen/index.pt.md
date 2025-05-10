@@ -1,11 +1,11 @@
 ---
-title: "Ligação das regras de filtragem com AND e OR - SeaTable"
+title: 'Ligação das regras de filtragem com AND e OR'
 date: 2022-11-16
-lastmod: "2025-02-25"
-categories: 
-  - "ansichtsoptionen"
-author: "vge"
-url: "/pt/ajuda/filter-regeln-mit-und-und-oder-verknuepfen"
+lastmod: '2025-02-25'
+categories:
+    - 'ansichtsoptionen'
+author: 'vge'
+url: '/pt/ajuda/filter-regeln-mit-und-und-oder-verknuepfen'
 ---
 
 Ao [filtrar entradas numa vista](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), também é possível criar **várias regras de filtragem** para refinar as condições e restringir ainda mais as entradas aplicáveis. É feita aqui uma distinção entre a **ligação E** e a **ligação OU**. Também é possível utilizar **grupos de filtros** para combinar as ligações lógicas E/Or.

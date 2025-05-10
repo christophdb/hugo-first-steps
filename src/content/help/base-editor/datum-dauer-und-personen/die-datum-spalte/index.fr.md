@@ -1,11 +1,11 @@
 ---
-title: "La colonne des dates - SeaTable"
+title: 'La colonne des dates'
 date: 2023-01-23
-lastmod: "2023-11-08"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/fr/aide/die-datum-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/fr/aide/die-datum-spalte'
 ---
 
 La colonne des dates vous permet de saisir **des** dates et **des rendez-vous** à la minute près dans vos tableaux. Il vous suffit d'utiliser le calendrier qui s'affiche ou votre clavier pour saisir manuellement une date. Notez que SeaTable n'accepte pas d'autres entrées de données dans une colonne de date.

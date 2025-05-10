@@ -1,11 +1,11 @@
 ---
-title: "Statistics and data analysis - SeaTable"
+title: 'Statistics and data analysis'
 date: 2022-08-25
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "cdb"
-url: "/help/statistiken"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'cdb'
+url: '/help/statistiken'
 ---
 
 Thanks to the **filter, sorting and grouping** evaluation tools, simple analyses can be carried out with just a few clicks. SeaTable also knows various **operations for data processing**, which you can use to calculate cumulative values or create ranked lists, for example. For detailed evaluations with pivot tables, diagrams and graphical representations, SeaTable offers the **statistics module**.

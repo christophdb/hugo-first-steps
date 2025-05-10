@@ -1,11 +1,11 @@
 ---
-title: "Views and plugins - SeaTable"
+title: 'Views and plugins'
 date: 2022-08-25
-lastmod: "2024-08-01"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/help/ansichten"
+lastmod: '2024-08-01'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/help/ansichten'
 ---
 
 Depending on the task and the collected data, different **display modes** are useful to facilitate your work in SeaTable. SeaTable offers you views for this purpose on the one hand: Quantitative data is best captured in the table view, structured with filters, sorting and grouping, and analyzed with the help of **statistics**.

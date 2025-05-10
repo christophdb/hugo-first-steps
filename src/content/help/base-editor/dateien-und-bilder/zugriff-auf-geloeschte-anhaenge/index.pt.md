@@ -1,18 +1,18 @@
 ---
-title: "Aceder a ficheiros e imagens eliminados - SeaTable"
+title: 'Aceder a ficheiros e imagens eliminados'
 date: 2023-01-07
-lastmod: "2024-03-18"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/pt/ajuda/zugriff-auf-geloeschte-anhaenge"
+lastmod: '2024-03-18'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/pt/ajuda/zugriff-auf-geloeschte-anhaenge'
 ---
 
 **Os ficheiros** e **imagens** removidos de uma [coluna de](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) [imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) ou [de ficheiros](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) **não** são **permanentemente eliminados**. Estes ficheiros eliminados permanecem no [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base e podem ser **restaurados** de duas formas diferentes.
 
 ## Último carregamento
 
-![Aceder a ficheiros eliminados através da secção &quot;Último carregamento&quot; de uma coluna de ficheiros](images/recently-uploaded-files.gif)
+![Aceder a ficheiros eliminados através da secção "Último carregamento" de uma coluna de ficheiros](images/recently-uploaded-files.gif)
 
 1. Abra a janela **Todos os ficheiros** ou **Todas as imagens** com um **duplo clique** na **célula de** um ficheiro ou coluna de imagem.
 2. Clique no botão **Adicionar ficheiros/fotos** e, em seguida, seleccione a opção **Último carregamento**.

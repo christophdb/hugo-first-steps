@@ -1,5 +1,5 @@
 ---
-title: "Imprimer les détails d'une ligne - SeaTable"
+title: "Imprimer les détails d'une ligne"
 date: 2022-11-16
 lastmod: '2023-08-16'
 categories:

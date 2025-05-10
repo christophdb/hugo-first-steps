@@ -1,16 +1,16 @@
 ---
-title: "Колонки \"Создатель\" и \"Дата создания\" - SeaTable"
+title: 'Колонки "Создатель" и "Дата создания"'
 date: 2023-01-20
-lastmod: "2023-08-04"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/ru/help/die-spalten-ersteller-und-erstelldatum"
+lastmod: '2023-08-04'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/ru/help/die-spalten-ersteller-und-erstelldatum'
 ---
 
 Колонки **Creator** и **Creation Date** заполняются SeaTable исключительно **автоматически** и поэтому представляют собой специальные типы колонок. В то время как SeaTable заполняет колонку "Создатель" **именем пользователя**, создавшего строку, в колонке "Дата создания" записывается **время** (дата и время), когда пользователь создал строку.
 
-![Столбцы &quot;Создатель и Созданный&quot; после создания пользователя](https://seatable.io/wp-content/uploads/2023/01/column-creator-and-created-time.png)
+![Столбцы "Создатель и Созданный" после создания пользователя](https://seatable.io/wp-content/uploads/2023/01/column-creator-and-created-time.png)
 
 ## Особенности двух типов колонн
 

@@ -1,11 +1,11 @@
 ---
-title: "Различия между колонкой изображений и колонкой файлов - SeaTable"
+title: 'Различия между колонкой изображений и колонкой файлов'
 date: 2022-10-16
-lastmod: "2023-06-29"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/ru/help/unterschiede-zwischen-bild-und-datei-spalte"
+lastmod: '2023-06-29'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/ru/help/unterschiede-zwischen-bild-und-datei-spalte'
 ---
 
 Для записи **файлов** и **изображений** в SeaTable доступны два типа колонок с одинаковым названием. [Колонка изображений](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/) - это [колонка файлов](https://seatable.io/ru/docs/datei-und-bildanhaenge/die-datei-spalte/) с ограниченным доступом, поскольку она принимает только специальные форматы файлов изображений. Это ограничение может быть очень практичным в некоторых приложениях.

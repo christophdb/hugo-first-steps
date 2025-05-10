@@ -1,11 +1,11 @@
 ---
-title: "Le bouton - SeaTable"
+title: 'Le bouton'
 date: 2023-01-07
-lastmod: "2023-08-23"
-categories: 
-  - "andere-spalten"
-author: "nsc2"
-url: "/fr/aide/die-schaltflaeche"
+lastmod: '2023-08-23'
+categories:
+    - 'andere-spalten'
+author: 'nsc2'
+url: '/fr/aide/die-schaltflaeche'
 ---
 
 La colonne des boutons a une fonction similaire à celle [des automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/anlegen-einer-automation/), mais vous devez toujours utiliser les boutons **manuellement**. Le **bouton** que vous pouvez ajouter à vos **lignes** dans cette colonne vous permet de déclencher **des actions** définies à l'avance. C'est pourquoi ce type de colonne convient particulièrement bien à l'automatisation d'étapes de processus.

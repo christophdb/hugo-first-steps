@@ -1,11 +1,11 @@
 ---
-title: "Что такое вид? - SeaTable"
+title: 'Что такое вид?'
 date: 2023-01-13
-lastmod: "2023-01-13"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/ru/help/was-ist-eine-ansicht"
+lastmod: '2023-01-13'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/ru/help/was-ist-eine-ansicht'
 ---
 
 Всякий раз, когда вы просматриваете данные в таблице, вы просматриваете их с помощью **представления**. Даже если вы создали совершенно новую таблицу, вы уже просматриваете ее в **"Представлении по умолчанию"**, предусмотренном по умолчанию.

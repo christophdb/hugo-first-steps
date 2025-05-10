@@ -1,5 +1,5 @@
 ---
-title: 'Importar um ficheiro XLSX para o armazenamento de Big Data - SeaTable'
+title: 'Importar um ficheiro XLSX para o armazenamento de Big Data'
 date: 2024-05-10
 lastmod: '2024-05-14'
 categories:

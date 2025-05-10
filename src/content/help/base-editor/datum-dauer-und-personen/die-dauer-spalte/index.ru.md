@@ -1,11 +1,11 @@
 ---
-title: "Постоянная колонна - SeaTable"
+title: 'Постоянная колонна'
 date: 2023-01-07
-lastmod: "2023-01-23"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/ru/help/die-dauer-spalte"
+lastmod: '2023-01-23'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/ru/help/die-dauer-spalte'
 ---
 
 **Колонка продолжительности** особенно подходит для записи продолжительности различных событий. Он может записывать **период времени** с точностью до минуты или даже до секунды. Например, столбец продолжительности может использоваться в сочетании со столбцом [даты](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/) для учета рабочих часов.

@@ -1,5 +1,5 @@
 ---
-title: 'Importer un fichier XLSX dans le stockage de données volumineuses - SeaTable'
+title: 'Importer un fichier XLSX dans le stockage de données volumineuses'
 date: 2024-05-10
 lastmod: '2024-05-14'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Verrouiller une ligne - SeaTable'
+title: 'Verrouiller une ligne'
 date: 2022-10-10
 lastmod: '2023-01-27'
 categories:

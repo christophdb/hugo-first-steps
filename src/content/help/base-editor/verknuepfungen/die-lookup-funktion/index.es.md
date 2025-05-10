@@ -1,5 +1,5 @@
 ---
-title: 'La fórmula de búsqueda - SeaTable'
+title: 'La fórmula de búsqueda'
 date: 2022-10-13
 lastmod: '2023-04-06'
 categories:

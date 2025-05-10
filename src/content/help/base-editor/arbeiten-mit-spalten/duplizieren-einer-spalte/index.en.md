@@ -1,5 +1,5 @@
 ---
-title: 'Duplicate a column - SeaTable'
+title: 'Duplicate a column'
 date: 2022-10-10
 lastmod: '2024-03-15'
 categories:

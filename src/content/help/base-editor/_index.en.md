@@ -5,5 +5,3 @@ url: '/help/base-editor'
 icon: 'table'
 color: green
 ---
-
-Hier kann content hin...

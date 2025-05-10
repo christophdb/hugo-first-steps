@@ -1,5 +1,5 @@
 ---
-title: 'Detener automatizaciones - SeaTable'
+title: 'Detener automatizaciones'
 date: 2023-01-27
 lastmod: '2023-02-01'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Limite de execução das automatizações - SeaTable'
+title: 'Limite de execução das automatizações'
 date: 2023-08-07
 lastmod: '2023-08-07'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Colorer des cellules - SeaTable'
+title: 'Colorer des cellules'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:

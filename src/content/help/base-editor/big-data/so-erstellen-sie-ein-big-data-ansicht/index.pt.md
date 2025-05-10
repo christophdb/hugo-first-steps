@@ -1,5 +1,5 @@
 ---
-title: 'Como criar uma vista de grandes volumes de dados - SeaTable'
+title: 'Como criar uma vista de grandes volumes de dados'
 date: 2022-09-23
 lastmod: '2024-05-13'
 categories:

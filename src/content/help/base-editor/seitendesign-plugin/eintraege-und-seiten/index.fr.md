@@ -1,11 +1,11 @@
 ---
-title: "Entrées et pages - SeaTable"
+title: 'Entrées et pages'
 date: 2023-02-08
-lastmod: "2023-02-09"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/fr/aide/eintraege-und-seiten"
+lastmod: '2023-02-09'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/fr/aide/eintraege-und-seiten'
 ---
 
 En ce qui concerne le [plug-in de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), il est important de comprendre la différence entre les entrées et les pages. Alors que les **pages** supplémentaires étendent un document indépendamment du contenu du tableau, les **entrées** représentent différents enregistrements des lignes du tableau.

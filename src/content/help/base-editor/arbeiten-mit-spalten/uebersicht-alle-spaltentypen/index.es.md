@@ -1,11 +1,11 @@
 ---
-title: "Resumen de todos los tipos de columnas - SeaTable"
+title: 'Resumen de todos los tipos de columnas'
 date: 2022-08-25
-lastmod: "2024-03-18"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "cdb"
-url: "/es/ayuda/uebersicht-alle-spaltentypen"
+lastmod: '2024-03-18'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'cdb'
+url: '/es/ayuda/uebersicht-alle-spaltentypen'
 ---
 
 En SeaTable puedes guardar información y datos en una gran variedad de formatos.

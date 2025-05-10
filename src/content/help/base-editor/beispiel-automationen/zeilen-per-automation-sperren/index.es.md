@@ -1,5 +1,5 @@
 ---
-title: 'Bloquear filas mediante automatización - SeaTable'
+title: 'Bloquear filas mediante automatización'
 date: 2023-01-27
 lastmod: '2023-03-31'
 categories:

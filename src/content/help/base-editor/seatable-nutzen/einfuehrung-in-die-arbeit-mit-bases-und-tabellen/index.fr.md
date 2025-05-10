@@ -1,11 +1,11 @@
 ---
-title: "Introduction au travail avec les bases et les tableaux - SeaTable"
+title: 'Introduction au travail avec les bases et les tableaux'
 date: 2023-01-07
-lastmod: "2023-03-24"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/fr/aide/einfuehrung-in-die-arbeit-mit-bases-und-tabellen"
+lastmod: '2023-03-24'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/fr/aide/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 ---
 
 Chacune des icônes carrées sur votre page d'accueil représente une **base**. Il s'agit d'une base de données, comparable à un classeur dans un tableur traditionnel, qui peut contenir plusieurs **tableaux** sur différents thèmes.

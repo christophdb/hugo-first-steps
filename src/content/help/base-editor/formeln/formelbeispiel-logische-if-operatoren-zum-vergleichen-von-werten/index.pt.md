@@ -1,5 +1,5 @@
 ---
-title: 'Exemplo de fórmula: operadores lógicos if para preenchimento condicional de valores - SeaTable'
+title: 'Exemplo de fórmula: operadores lógicos if para preenchimento condicional de valores'
 date: 2023-01-28
 lastmod: '2023-09-19'
 categories:

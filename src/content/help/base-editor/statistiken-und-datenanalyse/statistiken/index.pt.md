@@ -1,11 +1,11 @@
 ---
-title: "Estatísticas e análise de dados - SeaTable"
+title: 'Estatísticas e análise de dados'
 date: 2022-08-25
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "cdb"
-url: "/pt/ajuda/statistiken"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'cdb'
+url: '/pt/ajuda/statistiken'
 ---
 
 Graças às ferramentas de avaliação de **filtros, ordenação e agrupamento**, é possível efetuar análises simples com apenas alguns cliques. O SeaTable também reconhece várias **operações para o processamento de dados**, que podem ser utilizadas para calcular valores acumulados ou criar listas ordenadas, por exemplo. O SeaTable oferece o **módulo de estatísticas** para análises detalhadas com tabelas dinâmicas, diagramas e representações gráficas.

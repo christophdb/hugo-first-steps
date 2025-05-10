@@ -1,11 +1,11 @@
 ---
-title: "Las columnas Último editor y Fecha de edición - SeaTable"
+title: 'Las columnas Último editor y Fecha de edición'
 date: 2023-01-20
-lastmod: "2023-08-04"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/es/ayuda/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum"
+lastmod: '2023-08-04'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/es/ayuda/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 ---
 
 Las columnas **Último editor** y **Fecha de** edición sólo son rellenadas **automáticamente** por SeaTable y por lo tanto son tipos de columnas especiales. Son muy útiles si desea saber **cuándo** y **quién** **editó por última vez** una entrada.
@@ -16,7 +16,7 @@ Como las dos columnas registran automáticamente los cambios en las entradas, so
 
 Mientras SeaTable rellena la columna **Último editor** con el nombre del usuario que editó por última vez una fila, la hora exacta (fecha y hora) en la que tuvo lugar la última edición se registra en la columna **Fecha de edición**.
 
-![Las columnas &quot;Último editor&quot; y &quot;Último editado&quot; después de la creación por un usuario](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![Las columnas "Último editor" y "Último editado" después de la creación por un usuario](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
 
 ## Características especiales de los dos tipos de columnas
 

@@ -1,11 +1,11 @@
 ---
-title: "Traitement des données : calculer les valeurs cumulées - SeaTable"
+title: 'Traitement des données : calculer les valeurs cumulées'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/fr/aide/datenverarbeitung-kumulierte-werte-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/fr/aide/datenverarbeitung-kumulierte-werte-berechnen'
 ---
 
 La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. L'une de ces opérations est le **calcul des valeurs cumulées**, qui vous permet de cumuler toutes les valeurs d'une colonne numérique. Pour ce faire, il suffit de définir une opération de traitement des données correspondante via les options d'affichage de votre tableau.

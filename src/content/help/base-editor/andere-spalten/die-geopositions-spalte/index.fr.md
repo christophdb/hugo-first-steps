@@ -1,11 +1,11 @@
 ---
-title: "La colonne de géopositionnement - SeaTable"
+title: 'La colonne de géopositionnement'
 date: 2023-01-07
-lastmod: "2023-01-24"
-categories: 
-  - "andere-spalten"
-author: "nsc2"
-url: "/fr/aide/die-geopositions-spalte"
+lastmod: '2023-01-24'
+categories:
+    - 'andere-spalten'
+author: 'nsc2'
+url: '/fr/aide/die-geopositions-spalte'
 ---
 
 La colonne de géoposition vous permet de collecter la latitude et la longitude de n'importe quel lieu dans vos tableaux. De plus, vous avez la possibilité de trouver un pays ou une région à l'aide de la fonction de recherche et de l'ajouter comme entrée.

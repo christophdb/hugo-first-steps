@@ -1,5 +1,5 @@
 ---
-title: 'Usando emojis no nome da mesa - SeaTable'
+title: 'Usando emojis no nome da mesa'
 date: 2022-12-13
 lastmod: '2025-02-28'
 categories:

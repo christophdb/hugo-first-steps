@@ -1,5 +1,5 @@
 ---
-title: 'Efectuar a operação de tratamento de dados por automatização - SeaTable'
+title: 'Efectuar a operação de tratamento de dados por automatização'
 date: 2023-04-28
 lastmod: '2023-05-03'
 categories:

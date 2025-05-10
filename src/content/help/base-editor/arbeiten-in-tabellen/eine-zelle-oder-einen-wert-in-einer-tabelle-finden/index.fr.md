@@ -1,11 +1,11 @@
 ---
-title: "Trouver une cellule ou une valeur dans un tableau - SeaTable"
+title: 'Trouver une cellule ou une valeur dans un tableau'
 date: 2022-10-11
-lastmod: "2023-08-16"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/fr/aide/eine-zelle-oder-einen-wert-in-einer-tabelle-finden"
+lastmod: '2023-08-16'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/fr/aide/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
 ---
 
 Les tableaux de SeaTable peuvent contenir des milliers d'enregistrements. Pour que vous puissiez malgré tout trouver rapidement et facilement des cellules ou des valeurs individuelles, SeaTable offre la possibilité de rechercher des valeurs et des termes individuels.

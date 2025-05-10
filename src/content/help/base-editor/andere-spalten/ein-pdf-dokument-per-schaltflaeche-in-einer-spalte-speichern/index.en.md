@@ -1,5 +1,5 @@
 ---
-title: 'Save a PDF document by button in a column - SeaTable'
+title: 'Save a PDF document by button in a column'
 date: 2023-01-23
 lastmod: '2023-05-04'
 categories:

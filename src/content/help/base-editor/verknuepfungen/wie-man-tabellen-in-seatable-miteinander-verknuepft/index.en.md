@@ -1,5 +1,5 @@
 ---
-title: 'How to link tables in SeaTable - SeaTable'
+title: 'How to link tables in SeaTable'
 date: 2022-10-11
 lastmod: '2023-11-29'
 categories:

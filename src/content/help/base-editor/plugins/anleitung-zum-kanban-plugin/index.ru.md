@@ -1,5 +1,5 @@
 ---
-title: 'Руководство по подключению Kanban - SeaTable'
+title: 'Руководство по подключению Kanban'
 date: 2023-01-08
 lastmod: '2023-08-16'
 categories:

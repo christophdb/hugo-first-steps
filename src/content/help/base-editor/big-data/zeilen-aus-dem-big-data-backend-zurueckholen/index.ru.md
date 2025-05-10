@@ -1,11 +1,11 @@
 ---
-title: "Получение строк из памяти больших данных - SeaTable"
+title: 'Получение строк из памяти больших данных'
 date: 2023-05-11
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "nsc2"
-url: "/ru/help/zeilen-aus-dem-big-data-backend-zurueckholen"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'nsc2'
+url: '/ru/help/zeilen-aus-dem-big-data-backend-zurueckholen'
 ---
 
 Для извлечения строк из памяти больших данных необходимо [представление больших данных](https://seatable.io/ru/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). В этом представлении можно [выбрать](https://seatable.io/ru/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) нужные строки и переместить их обратно в **обычное представление**.

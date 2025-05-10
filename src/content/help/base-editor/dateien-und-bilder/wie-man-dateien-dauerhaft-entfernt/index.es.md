@@ -1,5 +1,5 @@
 ---
-title: 'Cómo eliminar archivos permanentemente - SeaTable'
+title: 'Cómo eliminar archivos permanentemente'
 date: 2022-11-16
 lastmod: '2024-03-18'
 categories:

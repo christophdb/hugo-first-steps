@@ -1,11 +1,11 @@
 ---
-title: "Добавить строку - SeaTable"
+title: 'Добавить строку'
 date: 2022-10-14
-lastmod: "2023-03-01"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/ru/help/hinzufuegen-einer-zeile"
+lastmod: '2023-03-01'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/ru/help/hinzufuegen-einer-zeile'
 ---
 
 Существует несколько способов добавления **нового ряда в** SeaTable. В этой статье вы узнаете о различных возможностях.

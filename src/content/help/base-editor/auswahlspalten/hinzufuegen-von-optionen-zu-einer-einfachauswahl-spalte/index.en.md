@@ -1,5 +1,5 @@
 ---
-title: 'Adding options to a single-selection column - SeaTable'
+title: 'Adding options to a single-selection column'
 date: 2023-01-07
 lastmod: '2023-04-27'
 categories:

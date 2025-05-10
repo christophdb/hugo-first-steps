@@ -1,5 +1,5 @@
 ---
-title: 'Commenter des lignes - SeaTable'
+title: 'Commenter des lignes'
 date: 2022-11-16
 lastmod: '2025-02-27'
 categories:

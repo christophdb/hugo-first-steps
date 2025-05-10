@@ -1,5 +1,5 @@
 ---
-title: 'Apagar uma mesa de uma base - SeaTable'
+title: 'Apagar uma mesa de uma base'
 date: 2022-09-26
 lastmod: '2023-08-16'
 categories:

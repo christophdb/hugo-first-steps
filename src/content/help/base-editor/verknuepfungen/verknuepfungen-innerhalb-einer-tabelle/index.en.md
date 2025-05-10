@@ -1,5 +1,5 @@
 ---
-title: 'Links within a table - SeaTable'
+title: 'Links within a table'
 date: 2025-02-28
 lastmod: '2025-02-28'
 categories:

@@ -1,11 +1,11 @@
 ---
-title: "Instructions pour le plugin de ligne de temps - SeaTable"
+title: 'Instructions pour le plugin de ligne de temps'
 date: 2023-02-06
-lastmod: "2023-08-14"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/fr/aide/anleitung-zum-timeline-plugin"
+lastmod: '2023-08-14'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/fr/aide/anleitung-zum-timeline-plugin'
 ---
 
 Le **plug-in Timeline** vous permet d'afficher différentes périodes de temps sous la forme d'une **ligne de temps**. Cela est par exemple très utile lorsque vous souhaitez voir si des rendez-vous **se chevauchent**. En conséquence, vous pouvez utiliser le plugin Timeline entre autres pour la planification des vacances et des projets ou la réservation de salles (de réunion).

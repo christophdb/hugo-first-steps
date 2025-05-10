@@ -1,11 +1,11 @@
 ---
-title: "Static text - SeaTable"
+title: 'Static text'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/help/statischer-text"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/help/statischer-text'
 ---
 
 The **static text** gives you the possibility to include **text elements** like headings or body text in a page. This is very useful for creating **templates for documents** that you can later personalize with data from your spreadsheet.

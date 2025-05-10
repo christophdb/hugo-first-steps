@@ -1,5 +1,5 @@
 ---
-title: 'Exemplo de fórmula: Calcular a duração de umas férias - SeaTable'
+title: 'Exemplo de fórmula: Calcular a duração de umas férias'
 date: 2023-01-28
 lastmod: '2023-09-21'
 categories:

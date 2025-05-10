@@ -1,11 +1,11 @@
 ---
-title: "Texto estático - SeaTable"
+title: 'Texto estático'
 date: 2023-02-08
-lastmod: "2023-02-08"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/es/ayuda/statischer-text"
+lastmod: '2023-02-08'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/es/ayuda/statischer-text'
 ---
 
 El **texto estático** le ofrece la posibilidad de incluir en una página **elementos de texto** como títulos o cuerpo de texto. Esto es muy útil para crear **plantillas de documentos** que luego puedes personalizar con los datos de tu tabla.

@@ -1,5 +1,5 @@
 ---
-title: 'Celdas para colorear - SeaTable'
+title: 'Celdas para colorear'
 date: 2022-10-26
 lastmod: '2025-02-25'
 categories:

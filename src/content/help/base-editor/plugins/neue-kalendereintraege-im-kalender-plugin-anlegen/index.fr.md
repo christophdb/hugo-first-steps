@@ -1,5 +1,5 @@
 ---
-title: 'Créer de nouvelles entrées de calendrier dans le plug-in de calendrier - SeaTable'
+title: 'Créer de nouvelles entrées de calendrier dans le plug-in de calendrier'
 date: 2023-01-08
 lastmod: '2025-02-27'
 categories:

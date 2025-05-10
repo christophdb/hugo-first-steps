@@ -1,11 +1,11 @@
 ---
-title: "The comment function in SeaTable - SeaTable"
+title: 'The comment function in SeaTable'
 date: 2023-01-13
-lastmod: "2023-08-09"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "cdb"
-url: "/help/die-kommentarfunktion-in-seatable"
+lastmod: '2023-08-09'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'cdb'
+url: '/help/die-kommentarfunktion-in-seatable'
 ---
 
 When you work on data together with other users, discussions, comments, or questions about the data (e.g., about the correctness of entries) are bound to occur. You don't want to have such **conversations** by e-mail or in chat systems, but preferably directly where the data is, namely in the corresponding **row** table. This way, even days and weeks later, it is clear without a long search why the data is what it is, how it was agreed upon, and what the current status is.

@@ -1,5 +1,5 @@
 ---
-title: 'Visualización condicional de campos de formulario individuales - SeaTable'
+title: 'Visualización condicional de campos de formulario individuales'
 date: 2023-01-08
 lastmod: '2024-02-14'
 categories:

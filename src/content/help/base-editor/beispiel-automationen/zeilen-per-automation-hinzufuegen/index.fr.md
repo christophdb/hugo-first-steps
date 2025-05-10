@@ -1,5 +1,5 @@
 ---
-title: 'Ajouter des lignes par automatisation - SeaTable'
+title: 'Ajouter des lignes par automatisation'
 date: 2023-03-02
 lastmod: '2023-03-31'
 categories:

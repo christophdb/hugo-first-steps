@@ -1,5 +1,5 @@
 ---
-title: 'Restaurar una instantánea - SeaTable'
+title: 'Restaurar una instantánea'
 date: 2022-10-11
 lastmod: '2024-08-05'
 categories:

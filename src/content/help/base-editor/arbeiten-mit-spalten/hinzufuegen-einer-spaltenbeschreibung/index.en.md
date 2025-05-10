@@ -1,11 +1,11 @@
 ---
-title: "Adding a column description - SeaTable"
+title: 'Adding a column description'
 date: 2022-10-10
-lastmod: "2024-03-15"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "nsc2"
-url: "/help/hinzufuegen-einer-spaltenbeschreibung"
+lastmod: '2024-03-15'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'nsc2'
+url: '/help/hinzufuegen-einer-spaltenbeschreibung'
 ---
 
 To store information, instructions or explanations about a column, you can add a description to your table columns in SeaTable. Here you will learn how to do that:

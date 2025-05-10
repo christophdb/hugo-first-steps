@@ -1,11 +1,11 @@
 ---
-title: "Data deduplication plugin guide - SeaTable"
+title: 'Data deduplication plugin guide'
 date: 2023-04-27
-lastmod: "2023-04-27"
-categories: 
-  - "plugins"
-author: "nsc2"
-url: "/help/anleitung-zum-datendeduplizierungs-plugin"
+lastmod: '2023-04-27'
+categories:
+    - 'plugins'
+author: 'nsc2'
+url: '/help/anleitung-zum-datendeduplizierungs-plugin'
 ---
 
 With the data deduplication plugin you can check your tables for **duplicate entries** and have them **deleted** automatically with just one click.

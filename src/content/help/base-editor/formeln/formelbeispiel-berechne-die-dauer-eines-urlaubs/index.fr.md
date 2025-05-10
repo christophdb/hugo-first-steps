@@ -1,5 +1,5 @@
 ---
-title: "Exemple de formule : Calculer la durée d'un congé - SeaTable"
+title: "Exemple de formule : Calculer la durée d'un congé"
 date: 2023-01-28
 lastmod: '2023-09-21'
 categories:

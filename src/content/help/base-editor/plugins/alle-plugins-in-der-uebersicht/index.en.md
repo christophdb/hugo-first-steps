@@ -1,11 +1,11 @@
 ---
-title: "All plugins at a glance - SeaTable"
+title: 'All plugins at a glance'
 date: 2023-05-03
-lastmod: "2024-08-01"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/help/alle-plugins-in-der-uebersicht"
+lastmod: '2024-08-01'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/help/alle-plugins-in-der-uebersicht'
 ---
 
 SeaTable **plugins** give you the opportunity to see your data from a completely different perspective. Visualize appointments, tasks and locations and create laid-out documents and profiles from your data. In the following article, we explain which plugins are available in SeaTable and how you can use them.

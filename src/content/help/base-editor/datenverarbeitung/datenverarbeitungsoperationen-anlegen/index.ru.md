@@ -1,11 +1,11 @@
 ---
-title: "Создание операций обработки данных - SeaTable"
+title: 'Создание операций обработки данных'
 date: 2023-03-03
-lastmod: "2023-03-13"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/ru/help/datenverarbeitungsoperationen-anlegen"
+lastmod: '2023-03-13'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/ru/help/datenverarbeitungsoperationen-anlegen'
 ---
 
 С помощью функции обработки данных можно выполнять различные **операции**. Вы можете выполнять математические вычисления по всем значениям в столбце, а также соотносить значения, когда записи в двух разных таблицах идентичны.

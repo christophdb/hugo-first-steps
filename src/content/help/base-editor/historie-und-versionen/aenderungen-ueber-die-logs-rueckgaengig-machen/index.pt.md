@@ -1,5 +1,5 @@
 ---
-title: 'Desfazer alterações através dos troncos - SeaTable'
+title: 'Desfazer alterações através dos troncos'
 date: 2023-01-11
 lastmod: '2023-06-22'
 categories:

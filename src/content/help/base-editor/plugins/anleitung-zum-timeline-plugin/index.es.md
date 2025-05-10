@@ -1,11 +1,11 @@
 ---
-title: "Instrucciones para el plug-in de línea de tiempo - SeaTable"
+title: 'Instrucciones para el plug-in de línea de tiempo'
 date: 2023-02-06
-lastmod: "2023-08-14"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/es/ayuda/anleitung-zum-timeline-plugin"
+lastmod: '2023-08-14'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/es/ayuda/anleitung-zum-timeline-plugin'
 ---
 
 El **plugin de línea** de tiempo permite mostrar distintos intervalos de tiempo en forma de **línea de tiempo**. Esto es muy útil, por ejemplo, si desea ver si las citas **se solapan**. En consecuencia, puede utilizar el plugin de cronograma para planificar vacaciones y proyectos o reservar salas (de reuniones), entre otras cosas.

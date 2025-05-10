@@ -1,5 +1,5 @@
 ---
-title: 'Блокировка строки - SeaTable'
+title: 'Блокировка строки'
 date: 2022-10-10
 lastmod: '2023-01-27'
 categories:

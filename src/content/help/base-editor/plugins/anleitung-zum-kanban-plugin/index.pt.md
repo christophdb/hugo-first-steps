@@ -1,5 +1,5 @@
 ---
-title: 'Guia de Plug-in Kanban - SeaTable'
+title: 'Guia de Plug-in Kanban'
 date: 2023-01-08
 lastmod: '2023-08-16'
 categories:

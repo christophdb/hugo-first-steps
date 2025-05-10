@@ -1,11 +1,11 @@
 ---
-title: "Diferencias entre fórmulas en Excel y SeaTable - SeaTable"
+title: 'Diferencias entre fórmulas en Excel y SeaTable'
 date: 2023-02-03
-lastmod: "2023-02-03"
-categories: 
-  - "formeln"
-author: "ssc"
-url: "/es/ayuda/unterschiede-zwischen-formeln-in-excel-und-seatable"
+lastmod: '2023-02-03'
+categories:
+    - 'formeln'
+author: 'ssc'
+url: '/es/ayuda/unterschiede-zwischen-formeln-in-excel-und-seatable'
 ---
 
 ¿Es usted un usuario de Excel familiarizado con la escritura de fórmulas y acaba de empezar a utilizar SeaTable?  
@@ -43,7 +43,7 @@ La fórmula utilizada a continuación es:
 
 ![Referencia de columnas en SeaTable](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-2.png)
 
-La fórmula se refiere a _columnas ent_eras, como {Tipo de compra}.
+La fórmula se refiere a \_columnas ent_eras, como {Tipo de compra}.
 
 ## Valores de otras tablas
 

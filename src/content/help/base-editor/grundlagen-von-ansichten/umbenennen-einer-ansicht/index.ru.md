@@ -1,11 +1,11 @@
 ---
-title: "Переименование представления - SeaTable"
+title: 'Переименование представления'
 date: 2022-10-26
-lastmod: "2023-01-02"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/ru/help/umbenennen-einer-ansicht"
+lastmod: '2023-01-02'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/ru/help/umbenennen-einer-ansicht'
 ---
 
 Для оптимального обзора данных в вашей таблице SeaTable предлагает вам **представления**, в которых вы можете сохранить свои фильтры, сортировки и группировки. Вы должны дать этим представлениям осмысленное название. Вы также можете **переименовать** свои представления в любое время позже.

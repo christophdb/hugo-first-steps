@@ -1,11 +1,11 @@
 ---
-title: "Automation Trigger - SeaTable"
+title: 'Automation Trigger'
 date: 2023-01-27
-lastmod: "2024-02-12"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/help/automations-trigger"
+lastmod: '2024-02-12'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/help/automations-trigger'
 ---
 
 {{< required-version "Enterprise" >}}
@@ -83,7 +83,7 @@ This trigger is a mixture of the periodic trigger and the "Entries fulfill certa
 
 In addition, this trigger event allows you to individually specify for each column of the table certain **conditions** that the **entries** in the respective column must meet in order for the automation to be completed at the specified time.
 
-![Automation trigger: &quot;Periodic trigger when entries meet certain conditions&quot;.](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
+![Automation trigger: "Periodic trigger when entries meet certain conditions".](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
 
 If you select the "Periodic trigger for entries that meet certain conditions" for an automation, the following **automatic actions** are available for selection:
 

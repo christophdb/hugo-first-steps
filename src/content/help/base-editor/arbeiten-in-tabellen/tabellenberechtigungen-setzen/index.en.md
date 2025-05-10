@@ -1,5 +1,5 @@
 ---
-title: 'table permissions set - SeaTable'
+title: 'table permissions set'
 date: 2022-11-16
 lastmod: '2023-08-09'
 categories:

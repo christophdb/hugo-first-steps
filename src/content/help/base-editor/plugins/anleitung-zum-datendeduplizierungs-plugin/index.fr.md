@@ -1,11 +1,11 @@
 ---
-title: "Instructions pour le plug-in de déduplication des données - SeaTable"
+title: 'Instructions pour le plug-in de déduplication des données'
 date: 2023-04-27
-lastmod: "2023-04-27"
-categories: 
-  - "plugins"
-author: "nsc2"
-url: "/fr/aide/anleitung-zum-datendeduplizierungs-plugin"
+lastmod: '2023-04-27'
+categories:
+    - 'plugins'
+author: 'nsc2'
+url: '/fr/aide/anleitung-zum-datendeduplizierungs-plugin'
 ---
 
 Le plug-in de déduplication des données vous permet de vérifier si vos tableaux **contiennent des entrées en double** et de les **supprimer** automatiquement en un seul clic.

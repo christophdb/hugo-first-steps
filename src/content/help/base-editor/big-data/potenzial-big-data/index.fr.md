@@ -1,11 +1,11 @@
 ---
-title: "Introduction aux possibilités offertes par les données volumineuses - SeaTable"
+title: 'Introduction aux possibilités offertes par les données volumineuses'
 date: 2023-05-12
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "cdb"
-url: "/fr/aide/potenzial-big-data"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'cdb'
+url: '/fr/aide/potenzial-big-data'
 ---
 
 {{< required-version "Entreprise" >}}

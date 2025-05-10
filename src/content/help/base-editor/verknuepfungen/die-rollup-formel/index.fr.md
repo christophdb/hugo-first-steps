@@ -1,11 +1,11 @@
 ---
-title: "La formule du rollup - SeaTable"
+title: 'La formule du rollup'
 date: 2023-01-24
-lastmod: "2023-01-24"
-categories: 
-  - "verknuepfungen"
-author: "vge"
-url: "/fr/aide/die-rollup-formel"
+lastmod: '2023-01-24'
+categories:
+    - 'verknuepfungen'
+author: 'vge'
+url: '/fr/aide/die-rollup-formel'
 ---
 
 À l'aide de la formule de rollup du type de colonne **Formule pour les relations**, vous pouvez établir un rapport entre plusieurs valeurs numériques d'une colonne liée et effectuer des calculs statistiques simples.

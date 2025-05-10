@@ -1,11 +1,11 @@
 ---
-title: "Instructions pour le plugin de galerie - SeaTable"
+title: 'Instructions pour le plugin de galerie'
 date: 2023-01-08
-lastmod: "2023-06-29"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/fr/aide/anleitung-zum-galerie-plugin"
+lastmod: '2023-06-29'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/fr/aide/anleitung-zum-galerie-plugin'
 ---
 
 Le **plug-in Galerie** est particulièrement adapté à la présentation de jeux de données illustrés, car il se réfère principalement au contenu d'une [colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/).

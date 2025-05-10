@@ -1,5 +1,5 @@
 ---
-title: 'Traitement des données : comparer et copier - SeaTable'
+title: 'Traitement des données : comparer et copier'
 date: 2023-03-17
 lastmod: '2023-11-27'
 categories:

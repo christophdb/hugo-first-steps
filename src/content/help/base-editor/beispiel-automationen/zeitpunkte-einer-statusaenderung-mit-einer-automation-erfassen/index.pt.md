@@ -1,5 +1,5 @@
 ---
-title: 'Capturar os tempos de uma alteração de estado com uma automatização - SeaTable'
+title: 'Capturar os tempos de uma alteração de estado com uma automatização'
 date: 2023-04-28
 lastmod: '2023-04-28'
 categories:

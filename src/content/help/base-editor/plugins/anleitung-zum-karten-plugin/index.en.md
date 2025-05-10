@@ -1,5 +1,5 @@
 ---
-title: 'Map plugin guide - SeaTable'
+title: 'Map plugin guide'
 date: 2023-02-06
 lastmod: '2023-06-29'
 categories:

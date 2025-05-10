@@ -1,5 +1,5 @@
 ---
-title: 'Eliminar una tabla de una base - SeaTable'
+title: 'Eliminar una tabla de una base'
 date: 2022-09-26
 lastmod: '2023-08-16'
 categories:

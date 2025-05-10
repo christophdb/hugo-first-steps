@@ -1,5 +1,5 @@
 ---
-title: 'Change the order of views - SeaTable'
+title: 'Change the order of views'
 date: 2022-11-07
 lastmod: '2023-01-02'
 categories:
