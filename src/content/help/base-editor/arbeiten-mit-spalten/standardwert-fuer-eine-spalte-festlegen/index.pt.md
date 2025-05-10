@@ -1,0 +1,90 @@
+---
+title: 'Definir o valor predefinido para uma coluna - SeaTable'
+date: 2023-11-07
+lastmod: '2024-06-11'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'kgr'
+url: '/pt/ajuda/standardwert-fuer-eine-spalte-festlegen'
+---
+
+Se definir um **valor prede** finido para uma coluna, este é **automaticamente introduzido em cada nova linha** da tabela. Com valores predefinidos, pode poupar alguns cliques ao [adicionar novas linhas](https://seatable.io/pt/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/). É claro que pode ajustar manualmente os valores introduzidos automaticamente mais tarde.
+
+## Como definir valores por defeito
+
+![Definir o valor predefinido para uma coluna](images/Standardwert-festlegen.gif)
+
+1. Clique no **ícone** triangular do menu **pendente** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} à direita do nome da coluna para a qual pretende definir um valor predefinido.
+2. Seleccione a opção **Definir valor por defeito**.
+3. Introduzir o **valor proposto** desejado. Dependendo do tipo de coluna, existem várias opções para selecionar.
+4. Confirmar o processo com o **botão Enter** ou **clicando** fora da janela de diálogo.
+5. Se **criar** agora uma **nova linha**, o SeaTable introduz automaticamente os valores correspondentes. Pode então **ajustar** os dados como habitualmente.
+
+{{< warning  headline="Atenção"  text="Os valores por defeito são utilizados **universalmente** na criação de novas linhas, ou seja, as linhas criadas através de uma ação automática ou de um botão também contêm os valores por defeito." />}}
+
+Também é possível definir um valor por defeito diretamente ao [criar uma nova coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+
+## Para que tipos de colunas é possível definir valores por defeito
+
+Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tipos de colunas no SeaTable](https://seatable.io/pt/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). As colunas cujo conteúdo é gerado automaticamente pelo SeaTable[(fórmulas](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/), [número automático](https://seatable.io/pt/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/), [criador e data de criação](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/), [último editor e data de edição](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)) não oferecem esta opção, tal como as [colunas de](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/) [botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/), [imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/), [ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/) e [assinaturas](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/).
+
+**Segue-se uma síntese dos tipos de colunas para os quais é possível definir valores propostos:**
+
+| Tipo de coluna       | Suporta valores por defeito |
+| -------------------- | --------------------------- |
+| Número automático    |                             |
+| Imagem               |                             |
+| Caixa de verificação |                             |
+| Ficheiro             |                             |
+| Data                 |                             |
+| Duração              |                             |
+| Selecção única       |                             |
+| Correio electrónico  |                             |
+| Criador              |                             |
+| Criado em            |                             |
+| Texto formatado      |                             |
+| Fórmula              |                             |
+| Fórmula para links   |                             |
+| Geoposição           |                             |
+| Último editor        |                             |
+| Selecção múltipla    |                             |
+| Empregados           |                             |
+| Classificação        |                             |
+| Botão                |                             |
+| Assinatura           |                             |
+| Texto                |                             |
+| URL                  |                             |
+| Número               |                             |
+| Última edição        |                             |
+
+## Valores por defeito referenciados em colunas de texto
+
+Se especificar a referência **{creator.name}** ou **{creator.id}** como valor predefinido numa [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), o **nome** ou **ID do utilizador** que adicionou a linha é automaticamente introduzido.
+
+![Referência ao nome do utilizador com um valor predefinido](images/Set-creator-name-as-default-value.png)
+
+## O âmbito dos valores por defeito
+
+Os valores predefinidos aplicam-se **sempre que** é possível criar novas linhas:
+
+- num [quadro](https://seatable.io/pt/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+- numa [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- via [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (ação: "Copiar linha para outra tabela")
+- através da [automatização](https://seatable.io/pt/docs/automationen/automations-aktionen/) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
+- no [calendário](https://seatable.io/pt/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), na [galeria](https://seatable.io/pt/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) ou no [plugin Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/)
+- através de [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/)
+- nas [páginas](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) de [tabela](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [formulário](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) e [Kanban](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) das aplicações
+
+![O valor por defeito aplica-se a todas as novas linhas](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
+
+## Valores por defeito em formulários Web
+
+Para além dos valores por defeito definidos na tabela, [os formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/) também permitem definir valores por defeito para os campos de formulário ligados às colunas. Também é possível definir se os utilizadores podem **alterar** estes valores por defeito ao preencherem o formulário.
+
+![Definir valores predefinidos em formulários Web](images/Set-default-values-in-web-forms.png)
+
+{{< warning  headline="Nota importante"  text="Se for definido um valor predefinido na tabela e no formulário Web, o valor do formulário aplica-se a todas as linhas que são criadas através do formulário Web. Os valores por defeito definidos na tabela **só têm efeito** se não forem definidos quaisquer valores por defeito no editor de formulários." />}}
+
+## Valores por defeito nas aplicações
+
+Os valores predefinidos definidos na base também afectam as linhas que são introduzidas nas **páginas de tabela, formulário e Kanban** das [aplicações universais](https://seatable.io/pt/docs/apps/universelle-app/). O único [tipo de página](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/) para o qual ainda é possível definir valores predefinidos na aplicação é a [página de formulário](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/). As definições funcionam exatamente da mesma forma que para os formulários Web: Para tal, active os cursores, como mostra a imagem acima.

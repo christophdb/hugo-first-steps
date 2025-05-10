@@ -1,0 +1,53 @@
+---
+title: "Die Schaltfläche"
+date: 2023-01-07
+lastmod: "2023-08-23"
+categories: 
+  - "andere-spalten"
+author: "nsc2"
+url: "/de/hilfe/die-schaltflaeche"
+---
+
+Die Schaltflächen-Spalte besitzt eine ähnliche Funktion wie [Automationen](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/), wobei Sie Schaltflächen immer **manuell** bedienen müssen. Mithilfe des **Buttons**, den Sie in dieser Spalte Ihren **Zeilen** hinzufügen können, lösen Sie im Vorhinein definierte **Aktionen** aus. Aus diesem Grund eignet sich dieser Spaltentyp besonders gut für die Automatisierung von Prozessschritten.
+
+## Anlegen der Schaltfläche
+
+Als Erstes benennen Sie die **Spalte** und legen die **Beschriftung** und **Farbe des Buttons** fest, den Sie Ihren Zeilen hinzufügen möchten.
+
+![Anlegen einer Schaltfläche](https://seatable.io/wp-content/uploads/2023/01/create-button-column.png)
+
+Im nächsten Schritt legen Sie eine beliebige Anzahl an **Aktionen** fest, die durch Aktivierung der Schaltfläche ausgelöst werden sollen. Dabei haben Sie die Möglichkeit, **mehrere** Aktionen hintereinanderzuschalten.
+
+![Panel mit neun Schaltflächen-Aktionen](images/New-button-action-modal.png)
+
+Sie können insgesamt zwischen **neun** verschiedenen Aktionen wählen:
+
+- Zeile sperren
+- Zeile bearbeiten
+- Zeile in eine andere Tabelle kopieren
+- URL öffnen
+- Plugin öffnen (nur möglich, wenn Sie mindestens ein [Plugin](https://seatable.io/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) aktiviert haben)
+- PDF-Datei in Spalte speichern (nur möglich, wenn das [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) aktiviert ist)
+- Benachrichtigung versenden
+- E-Mail versenden
+- Skript ausführen
+
+## Anwendungsbeispiel
+
+In diesem Anwendungsbeispiel nutzen wir die Schaltfläche, um bezahlten Rechnungen per Mausklick den Status "paid" zuzuweisen. Hierfür nehmen wir die Aktion **Zeile bearbeiten**.
+
+![Auswahl der Aktion, die durch Aktivierung der Schaltfläche ausgelöst wird](https://seatable.io/wp-content/uploads/2023/01/modify-row.png)
+
+In den **Spalten-Einstellungen** legen wir fest, dass die Einträge in der Einfachauswahl-Spalte **"status"** durch Aktivierung der Schaltfläche von **"pending"** auf **"paid"** gesetzt werden.
+
+![Definition der Schaltfläche im Anwendungs-Beispiel](https://seatable.io/wp-content/uploads/2023/01/settings-of-the-button-column-in-the-example.png)
+
+Nach einem Klick auf die Schaltfläche ändert sich der **Status** der ausgewählten Rechnung auf **paid**.
+
+![Ausgelöste Aktion im Anwendungsbeispiel der Schaltfläche](https://seatable.io/wp-content/uploads/2023/01/example-button-column.gif)
+
+### Zusätzliche Möglichkeit
+
+Um die Automatisierung von Prozessschritten zu erweitern, können Sie Schaltflächen auch in Kombination mit [Automationen](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/) nutzen. Im Anwendungsbeispiel hätten Sie dabei unter anderem die Möglichkeit, die **Zeilen** mit den jeweiligen Rechnungen, die auf bezahlt gesetzt wurden, für die Bearbeitung zu [sperren](https://seatable.io/docs/arbeiten-mit-zeilen/sperren-einer-zeile/).
+
+![Anwendungs-Beispiel für die Nutzung der Schaltfläche in Kombination mit Automationen](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)

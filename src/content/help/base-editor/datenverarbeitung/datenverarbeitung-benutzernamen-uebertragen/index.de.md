@@ -1,0 +1,36 @@
+---
+title: 'Datenverarbeitung: Benutzernamen übertragen'
+date: 2023-03-17
+lastmod: '2023-03-17'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/de/hilfe/datenverarbeitung-benutzernamen-uebertragen'
+---
+
+Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), [Ersteller](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) oder [Letzter Bearbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopiert werden können.
+
+## Anlegen der Operation
+
+![Anlegen einer Datenverarbeitungsaktion](images/create-an-data-processing-action-1.jpg)
+
+1. Öffnen Sie eine beliebige **Tabelle** und klicken Sie auf die **drei Punkte** in den Ansichtsoptionen.
+2. Klicken Sie auf **Datenverarbeitung** und im Anschluss auf **Datenverarbeitungsoperation hinzufügen**.
+3. Geben Sie der Operation einen **Namen** und wählen Sie **Benutzernamen übertragen** aus.
+   ![Benennung der Datenverarbeitungsaktion und Auswahl des Operationstyps](images/select-operation-and-name-example-name.jpg)5. Definieren Sie **Tabelle**, **Ansicht**, **Quellspalte** und **Ergebnisspalte**.
+   ![Definition von Tabelle, Ansicht, Quellspalte und Ergebnisspalte der Operation](images/define-table-view-and-columns-example-name.png)7. Klicken Sie auf **Speichern**, um die Aktion zu speichern und später auszuführen, oder auf **Ausführen**, um die Aktion direkt auszuführen.
+   Bei der ersten erfolgreichen Ausführung erscheint am unteren linken Rand ein kleiner **grüner Haken**. ![Bei erfolgreicher erster Ausführung der Datenverarbeitungsaktion erscheint ein grüner Haken](images/gruener-haken-zur-bestaetigung-der-ersten-ausfuehrung.jpg)
+
+## Ausführung der Operation
+
+Wenn Sie beispielsweise eine Tabelle mit zu erledigenden Aufgaben pflegen, in der Ihre **Teammitglieder** als zuständige Ansprechpersonen in einer [Mitarbeiter-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) erfasst sind, können Sie die Benutzernamen einfach in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopieren, z. B. um diese für eine Mitarbeiterliste zu verwenden.
+
+Befolgen Sie dazu die oben beschriebenen Schritte und wählen Sie die Mitarbeiter-Spalte als **Quellspalte** sowie die Text-Spalte als **Ergebnisspalte** aus.
+
+![Definition der Datenverarbeitungsaktion](images/name-operation-and-define-columns-example-name-1.png)
+
+Bei erfolgreicher Ausführung der Operation werden die **ausgewählten Benutzernamen** aus der Mitarbeiter-Spalte extrahiert und durch ein Komma getrennt in die Text-Spalte übertragen.
+
+![Übertragene Benutzernamen in eine Text- bzw. Ergebnis-Spalte](images/table-after-operation-example-user-name.png)
+
+{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bitte beachten Sie, dass mit jeder erneuten Ausführung dieser Operation die bestehenden Einträge in der Ergebnisspalte **überschrieben** werden, sofern sich die Benutzernamen in der Quellspalte verändert haben." />}}

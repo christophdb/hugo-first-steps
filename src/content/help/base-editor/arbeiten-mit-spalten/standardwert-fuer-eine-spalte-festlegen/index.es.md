@@ -1,0 +1,90 @@
+---
+title: 'Establecer valor por defecto para una columna - SeaTable'
+date: 2023-11-07
+lastmod: '2024-06-11'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'kgr'
+url: '/es/ayuda/standardwert-fuer-eine-spalte-festlegen'
+---
+
+Si define un **valor** por defecto para una columna, éste se **introduce automáticamente en cada nueva** fila de la tabla. Con los valores por defecto predefinidos, puede ahorrarse unos cuantos clics al [añadir nuevas filas](https://seatable.io/es/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/). Por supuesto, después puede ajustar manualmente los valores introducidos automáticamente.
+
+## Cómo establecer valores por defecto
+
+![Establecer el valor por defecto de una columna](images/Standardwert-festlegen.gif)
+
+1. Haga clic en el **icono** triangular **desplegable** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} situado a la derecha del nombre de la columna para la que desea definir un valor por defecto.
+2. Seleccione la opción **Establecer valor por defecto**.
+3. Introduzca el **valor por defecto** deseado. Dependiendo del tipo de columna, tiene varias opciones para elegir.
+4. Confirme el proceso con el **botón Intro** o **haciendo clic** fuera de la ventana de diálogo.
+5. Si ahora **crea** una **nueva fila**, SeaTable introduce automáticamente los valores correspondientes. A continuación, puede **ajustar** los datos como de costumbre.
+
+{{< warning  headline="Atención"  text="Los valores por defecto se utilizan **universalmente** al crear nuevas filas, es decir, las filas que se crean mediante una acción automatizada o de botón también contienen los valores por defecto." />}}
+
+También puede definir un valor por defecto directamente al [crear una nueva columna](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+
+## Para qué tipos de columnas puede definir valores por defecto
+
+Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de columnas en](https://seatable.io/es/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) SeaTable. Las columnas cuyo contenido es generado automáticamente por SeaTable[(fórmulas](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/), [número automático](https://seatable.io/es/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/), [creador y fecha de creación](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/), [último editor y fecha de edición](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)) no ofrecen esta opción, como tampoco los [botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/), las [columnas de](https://seatable.io/es/docs/dateien-und-bilder/die-signatur-spalte/) [imagen](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/), [archivo](https://seatable.io/es/docs/dateien-und-bilder/die-datei-spalte/) y [firma](https://seatable.io/es/docs/dateien-und-bilder/die-signatur-spalte/).
+
+**A continuación encontrará un resumen de los tipos de columna para los que puede definir valores por defecto:**
+
+| Tipo de columna          | Admite valores por defecto |
+| ------------------------ | -------------------------- |
+| Número automático        |                            |
+| Imagen                   |                            |
+| Casilla de verificación  |                            |
+| Archivo                  |                            |
+| Fecha                    |                            |
+| Duración                 |                            |
+| Selección individual     |                            |
+| Correo electrónico       |                            |
+| Creador                  |                            |
+| Creado                   |                            |
+| Texto con formato        |                            |
+| Fórmula                  |                            |
+| Fórmula para los enlaces |                            |
+| Geoposición              |                            |
+| Último editor            |                            |
+| Selección múltiple       |                            |
+| Empleados                |                            |
+| Clasificación            |                            |
+| Botón                    |                            |
+| Firma                    |                            |
+| Texto                    |                            |
+| URL                      |                            |
+| Número                   |                            |
+| Última edición           |                            |
+
+## Valores por defecto referenciados en columnas de texto
+
+Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto en una [columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), el **nombre** o **ID del usuario** que añadió la línea se introduce automáticamente.
+
+![Referenciar el nombre de usuario con un valor por defecto](images/Set-creator-name-as-default-value.png)
+
+## Alcance de los valores por defecto
+
+Los valores por defecto se aplican **siempre que** se puedan crear nuevas líneas:
+
+- en una [tabla](https://seatable.io/es/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+- en una [columna de enlaces](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- mediante [un botón](https://seatable.io/es/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (acción: "Copiar fila a otra tabla")
+- mediante [automatización](https://seatable.io/es/docs/automationen/automations-aktionen/) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")
+- en el [calendario](https://seatable.io/es/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), la [galería](https://seatable.io/es/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) o el [plugin Kanban](https://seatable.io/es/docs/plugins/anleitung-zum-kanban-plugin/)
+- mediante [formularios web](https://seatable.io/es/docs/webformulare/webformulare/)
+- en las [páginas de](https://seatable.io/es/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) [tablas](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) y [Kanban](https://seatable.io/es/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) de las aplicaciones
+
+![El valor por defecto se aplica en todas las líneas nuevas](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
+
+## Valores por defecto en formularios web
+
+Además de los valores por defecto definidos en la tabla, [los formularios web](https://seatable.io/es/docs/webformulare/webformulare/) también permiten establecer valores por defecto para los campos del formulario vinculados a las columnas. También puede establecer si se permite a los usuarios **cambiar** estos valores por defecto al rellenar el formulario.
+
+![Establecer valores por defecto en formularios web](images/Set-default-values-in-web-forms.png)
+
+{{< warning  headline="Nota importante"  text="Si se define un valor por defecto tanto en la tabla como en el formulario web, el valor del formulario se aplica a todas las filas que se creen a través del formulario web. Los valores por defecto definidos en la tabla **sólo tienen** efecto si no se define ningún valor por defecto en el editor de formularios." />}}
+
+## Valores por defecto en las aplicaciones
+
+Los valores por defecto definidos en la base también afectan a las filas que se introducen en las páginas de **tabla, formulario y Kanban** de las [apps universales](https://seatable.io/es/docs/apps/universelle-app/). El único [tipo de página](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/) para el que todavía se pueden establecer valores por defecto en la app es [la página de](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) formulario. Los ajustes funcionan exactamente igual que para los formularios web: Para ello, active los controles deslizantes como se muestra en la captura de pantalla anterior.

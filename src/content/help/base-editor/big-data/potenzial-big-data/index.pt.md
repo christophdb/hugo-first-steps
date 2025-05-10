@@ -1,0 +1,33 @@
+---
+title: "Introdução às possibilidades do Big Data - SeaTable"
+date: 2023-05-12
+lastmod: "2024-05-13"
+categories: 
+  - "big-data"
+author: "cdb"
+url: "/pt/ajuda/potenzial-big-data"
+---
+
+{{< required-version "Empresa" >}}
+
+O SeaTable oferece-lhe duas opções de armazenamento diferentes para os registos de dados numa base: **Por defeito**, uma base pode conter **um máximo de 100.000 linhas**, o que é suficiente para a maioria dos casos de utilização. Se precisar de ainda mais capacidade, pode ativar o **armazenamento de Big Data** com uma [subscrição Enterprise](https://seatable.io/pt/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/), que pode conter um número quase ilimitado de linhas. O facto de serem possíveis milhões de linhas numa base torna o SeaTable uma alternativa às bases de dados SQL clássicas.
+
+Este artigo dá-lhe uma visão geral inicial da função Big Data no SeaTable, enquanto encontrará artigos de ajuda separados para os vários detalhes.
+
+![Grande backend de dados em acção](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Base-Stats-with-Big-Data.png)
+
+## Uma solução para cada necessidade
+
+Ao utilizar duas soluções de armazenamento, o utilizador ganha flexibilidade adicional. A solução padrão SeaTable é ideal para o **trabalho colaborativo** em projectos, enquanto o armazenamento de grandes volumes de dados é ideal para aplicações de dados intensivos com aquisição automática de dados (por exemplo, ficheiros de registo ou valores de medição estáticos).
+
+Depois de [ter ativado](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) o [armazenamento de grandes](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) volumes de dados, ambas as soluções estão disponíveis e pode mover os seus registos de dados entre a solução padrão e o armazenamento de grandes volumes de dados. No entanto, a vantagem do armazenamento de linhas ilimitado tem a desvantagem [de capacidades de colaboração limitadas](https://seatable.io/pt/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
+
+## Vistas separadas para as duas memórias
+
+Como já foi referido, o armazenamento de grandes volumes de dados deve ser ativado numa base. Em seguida, é possível criar uma nova visão com a qual é possível acessar as entradas no big data storage. Mais detalhes sobre esta **visão** de big **data** podem ser encontrados [neste artigo de ajuda](https://seatable.io/pt/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/).
+
+## Possibilidades infinitas
+
+A memória de grandes volumes de dados é uma caraterística única que não encontrará noutras soluções sem código ou com pouco código. Enquanto outras plataformas e fornecedores têm limites superiores rígidos e limites para o número máximo de linhas, o SeaTable não restringe o seu trabalho.
+
+A função de grandes volumes de dados permite implementar processos e aplicações que não seriam possíveis com o [Airtable](https://seatable.io/pt/airtable-alternative/), por exemplo. Experimente por si próprio. Ficará surpreendido com o potencial e as possibilidades oferecidas pelo armazenamento de grandes volumes de dados.

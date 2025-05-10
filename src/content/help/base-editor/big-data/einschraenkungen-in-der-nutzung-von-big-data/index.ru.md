@@ -1,0 +1,26 @@
+---
+title: 'Ограничения в использовании Больших Данных - SeaTable'
+date: 2023-05-11
+lastmod: '2024-12-16'
+categories:
+    - 'big-data'
+author: 'nsc2'
+url: '/ru/help/einschraenkungen-in-der-nutzung-von-big-data'
+---
+
+Обычное представление в SeaTable обеспечивает **совместную работу** в режиме **реального времени** для **100 000 строк**. Big Data позволяет **хранить неограниченное количество** строк, но снижает возможности совместной работы. Прежде чем использовать Big Data, обязательно ознакомьтесь с этой справочной статьей, чтобы узнать, какие ограничения следует ожидать при использовании Big Data.
+
+## Ограничения больших данных
+
+Хранилище больших данных предлагает вам практически **неограниченное количество строк**, но при этом накладывает определенные ограничения. Обзор этих **ограничений** приведен ниже:
+
+- Изменения в записи Big Data **не** **синхронизируются** в **реальном времени** в браузере другого пользователя. Изменения становятся видны другим пользователям только после **перезагрузки** страницы.
+- Вы **не можете совместно использовать** представления Больших Данных - ни индивидуально, ни с [определенными пользователем полномочиями на совместное использование](https://seatable.io/ru/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+- Вы **не можете** создавать **новые строки** в представлении больших данных. Это всегда нужно делать в [обычном представлении](https://seatable.io/ru/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) или через приложение. Вы также не можете [комментировать](https://seatable.io/ru/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) или [блокировать](https://seatable.io/ru/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) какие-либо [строки](https://seatable.io/ru/docs/arbeiten-mit-zeilen/zeilen-kommentieren/).
+- В представлении больших данных нельзя [настроить тип столбца](https://seatable.io/ru/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/) или изменить [полномочия столбца](https://seatable.io/ru/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/).
+- Вы **не можете изменять**[связанные записи](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) в записях больших данных. Ссылки на строки в памяти больших данных **не отображаются** в обычных представлениях - но отображаются в представлении больших данных.
+- Условное форматирование[(выделение строк цветом](https://seatable.io/ru/docs/ansichtsoptionen/farbliche-markierung-von-zellen/)) **недоступно** в Big Data. Однако вы можете [выделять ячейки цветом](https://seatable.io/ru/docs/ansichtsoptionen/einfaerben-von-zellen/).
+- [Операции обработки данных](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) **недоступны** для больших данных. Единственным исключением является [сравнение и объединение](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/). Эта операция может связать записи в памяти больших данных со строками в любой другой таблице, независимо от того, хранятся ли эти строки в базе или в памяти больших данных.
+- Функция [поиска и замены](https://seatable.io/ru/docs/arbeiten-in-tabellen/suchen-und-ersetzen-von-werten-in-seatable/) **недоступна**.
+
+{{< warning  headline="Многие из этих ограничений Больших Данных не относятся к универсальным приложениям."  text="Большинство пользователей хранилищ больших данных не чувствуют, что эти ограничения влияют на их работу. Однако если вас это затронуло, вы можете взглянуть на [универсальное приложение](https://seatable.io/ru/docs/apps/universelle-app/). Некоторые из упомянутых ограничений там не действуют." />}}

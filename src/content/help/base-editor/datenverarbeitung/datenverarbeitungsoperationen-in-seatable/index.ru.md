@@ -1,0 +1,58 @@
+---
+title: "Операции обработки данных в SeaTable - SeaTable"
+date: 2023-03-20
+lastmod: "2023-04-28"
+categories: 
+  - "datenverarbeitung"
+author: "nsc2"
+url: "/ru/help/datenverarbeitungsoperationen-in-seatable"
+---
+
+Функция обработки данных - это полезная функция SeaTable, которая позволяет выполнять **операции** в столбце над несколькими строками. Определив операцию, вы можете либо выполнить различные **математические вычисления**, либо установить **взаимосвязи между значениями** в разных таблицах. Операции обработки данных особенно эффективны в больших наборах данных, где можно выполнить большое количество вычислений.
+
+## Смысл операций по обработке данных
+
+SeaTable часто мыслит рядами. Например, [формула](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/) может связывать между собой только значения в строке, а [связи между таблицами](https://seatable.io/ru/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) осуществляются только из строки в строку.
+
+Обработка данных, напротив, представляет собой функцию для выполнения операций в столбце по нескольким строкам. В принципе, различают два разных типа операций обработки данных:
+
+- **Математические вычисления** по всем значениям в столбце. Пример: доступ к номерам на веб-сайте.
+- Соотносите **значения**, если они одинаковы в двух таблицах. Пример: Присвоить полученные платежи счету-фактуре.
+
+## Математические операции и операции с отношениями
+
+В настоящее время с помощью функции обработки данных можно выполнять следующие **математические операции**:
+
+- [Рассчитать суммарные значения](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
+- [Рассчитать рейтинг](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
+- [Рассчитать изменения](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
+- [Рассчитать процент](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
+
+В настоящее время с помощью функции обработки данных можно выполнить следующие **операции с отношениями**:
+
+- [Сравнить и связать](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Сравнение и копирование](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
+- [Передача имен пользователей](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+
+## Предпосылки для определения операций
+
+Каждый из этих двух типов операций обработки данных имеет свои **требования**, которые должны быть выполнены для создания соответствующей операции.
+
+- **Математические операции** требуют наличия **двух столбцов чисел** в вашей таблице.
+- Для **операций с отношениями** вам нужны очень специфические типы столбцов в зависимости от приложения, например, [столбец с персоналом](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) и [текстовый](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) столбец при переносе имен пользователей.
+
+## Примечания по выполнению
+
+В настоящее время операции по обработке данных могут выполняться [вручную](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) или с [помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). Команда разработчиков работает над тем, чтобы в будущем операции по обработке данных можно было выполнять и с помощью [кнопок](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/).
+
+Каждый раз, когда выполняется операция обработки данных, **результаты** записываются в **столбец результатов** независимо от этого. Если вы не хотите перезаписывать данные, следует заранее [создать новый пустой столбец](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) для результатов.
+
+В отличие от столбцов **формул**, которые постоянно отслеживают соответствующие столбцы, **столбцы результатов** _не_ обновляются. Изменения значений в столбце-источнике _не_ влияют на значения в столбце-результате без [автоматизации](https://seatable.io/ru/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) или повторного выполнения. Поэтому можно вручную перезаписать вычисленные или связанные значения.
+
+## Защита от изменений
+
+Во избежание недоразумений мы рекомендуем **не вно** сить **никаких изменений вручную в** соответствующие столбцы и [заблокировать](https://seatable.io/ru/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) их для [редактирования](https://seatable.io/ru/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) после выполнения в целях безопасности (требуется подписка Plus или Enterprise).
+
+![Столбцы результатов действий по обработке данных, заблокированных для обработки ](images/locked-score-columns.jpg)
+
+Помните, что вычисленные или связанные значения являются **моментальным снимком на** момент выполнения операции. Если вы не выполните операцию снова, результаты могут быть устаревшими, если за это время значения в исходном столбце изменились.

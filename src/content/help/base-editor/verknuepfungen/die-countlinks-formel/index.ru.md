@@ -1,0 +1,33 @@
+---
+title: 'Формула Countlinks - SeaTable'
+date: 2023-01-11
+lastmod: '2023-01-24'
+categories:
+    - 'verknuepfungen'
+author: 'vge'
+url: '/ru/help/die-countlinks-formel'
+---
+
+Формула Countlinks подсчитывает количество связанных записей столбца типа **Link с другими записями** в соответствующей строке.
+
+{{< warning  headline="Связывание таблиц является основным требованием"  text="Вы можете создать столбец с формулой Countlinks, только если вы связали две таблицы. О том, [как создать такую ссылку](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), читайте [здесь](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)." />}}
+
+## Сфера применения формулы Countlinks
+
+**Формула Countlinks** всегда должна использоваться, когда вы хотите отобразить **количество записей** другой таблицы в виде перекрестной ссылки.
+
+Например, при планировании семинара можно вывести количество зарегистрированных участников из отдельной таблицы. Таким образом, в [колонке ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) будут записаны имена всех участников.
+
+![Формула Countlinks.](https://seatable.io/wp-content/uploads/2022/11/countlinks-2.png)
+
+Использование формулы Countlinks имеет смысл только в том случае, если при создании столбца типа Link **to other entries** вы активируете опцию **Allow link to multiple rows**. Если бы опция была выключена, в поле формулы Countlinks всегда была бы единица.
+
+## Создание формулы подсчета ссылок
+
+![Формула Countlinks.](https://seatable.io/wp-content/uploads/2022/11/countlink.gif)
+
+1. Создайте новый столбец типа **Формула для ссылок**.
+2. Дайте колонне подходящее **название**.
+3. Установите параметр **Countlinks** в качестве формулы.
+4. Теперь выберите **колонку ссылок**, записи которой вы хотите подсчитать, в поле **Выбрать** колонку ссылок в **этой таблице**.
+5. Нажмите **Отправить**.

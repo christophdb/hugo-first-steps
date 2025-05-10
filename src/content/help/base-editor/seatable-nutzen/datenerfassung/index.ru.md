@@ -1,0 +1,34 @@
+---
+title: "Сбор данных - SeaTable"
+date: 2023-03-15
+lastmod: "2023-03-15"
+categories: 
+  - "seatable-nutzen"
+author: "kgr"
+url: "/ru/help/datenerfassung"
+---
+
+В этой статье рассказывается о некоторых способах сбора данных в SeaTable.
+
+## Ручной ввод
+
+Если вы только что открыли таблицу, вы можете просто щелкнуть мышью в ячейке и ввести данные с помощью клавиатуры. При необходимости для этого добавьте в таблицу [новую строку](https://seatable.io/ru/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) или [новый столбец](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+
+## Копировать и вставить
+
+Вы также можете использовать **буфер обмена** вашего компьютера для быстрого переноса небольших объемов данных. Для этого скопируйте данные в существующей таблице и вставьте их в SeaTable с помощью [копирования и вставки](https://seatable.io/ru/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/).
+
+## Импорт данных
+
+SeaTable имеет мощную функцию [импорта данных](https://seatable.io/ru/docs-category/import-von-daten/), которая позволяет вам получать данные из **файлов** **Excel** и **CSV** различными способами. Если вам интересно, [какие форматы импорта поддерживает SeaTable](https://seatable.io/ru/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/), прочитайте соответствующие справочные статьи.
+
+## Веб-формы
+
+[Веб-формы](https://seatable.io/ru/docs/webformulare/webformulare/) - это инструмент выбора, когда вы хотите, чтобы новые записи вводились в электронную таблицу **не самостоятельно**, а **людьми внутри и вне вашей команды**. Звучит слишком хорошо, чтобы быть правдой? Тогда попробуйте прямо сейчас!
+
+## Вводы с помощью автоматизации
+
+С помощью [автоматизаций](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/) вам больше не нужно добавлять записи в таблицы вручную, а можно создавать их автоматически при наступлении заранее определенного триггерного события. Подробнее об этом вы можете узнать в этих статьях:
+
+- [Добавление линий с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
+- [Добавление записей в другие таблицы с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
