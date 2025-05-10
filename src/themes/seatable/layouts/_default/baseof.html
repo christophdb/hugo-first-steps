@@ -306,9 +306,13 @@
             });
 
             const redirect = (url) => {
+                // Strip query parameters in order to not take them into account when comparing URLs
+                const currentUrl = window.location.href.split('?')[0];
+
                 // Redirect if the user is not already on the correct page
-                if (window.location.href !== url) {
-                    window.location.href = url;
+                if (currentUrl !== url) {
+                    // Keep query parameters
+                    window.location.href = url + window.location.search;
                 }
             };
         </script>
