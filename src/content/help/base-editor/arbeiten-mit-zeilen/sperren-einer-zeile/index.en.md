@@ -10,34 +10,34 @@ url: '/help/sperren-einer-zeile'
 
 {{< required-version "Plus" "Enterprise" >}}
 
-Um unerwünschte Änderungen an Zeilen zu verhindern, können Sie **Zeilen sperren**. Dies kann beispielsweise sinnvoll sein, wenn mehr als eine Person in einer Tabelle arbeitet. Die Sperrung kann entweder **manuell** durch Sie erfolgen oder **automatisch** durch eine [Automation](https://seatable.io/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+To prevent unwanted changes to rows , you can **lockrows** . This can be useful, for example, if more than one person is working in a table. The locking can either be done **manually** by you or **automatically** by an [automation](https://seatable.io/en/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
 
-## So sperren Sie eine Zeile
+## To lock a row
 
-1. Öffnen Sie eine beliebige Tabelle, in der Sie eine **Zeile** sperren möchten.
-2. Klicken Sie mit der **rechten Maustaste** auf die Zeile, um das Drop-down-Menü zu öffnen.
-3. Wählen Sie die Option **Zeile sperren** aus.
+1. Open any table in which you want to set a **row** want to lock.
+2. **Right-click** on the row to open the drop-down menu.
+3. Select the **Lockrow** option.
 
-Sobald eine Zeile gesperrt ist, erscheint ein kleines **rotes Dreieck in der Nummerierungsspalte**.
+As soon as a row is locked, a small **red triangle** appears in **the numbering column**.
 
-![Sperren einer Zeile](https://seatable.io/wp-content/uploads/2022/10/sperren-einer-zeile-1.png)
+![Locking a row](https://seatable.io/wp-content/uploads/2022/10/sperren-einer-zeile-1.png)
 
-## Zeilen entsperren
+## rows Unlock
 
-Genauso, wie Sie eine Zeile sperren, können Sie diese auch wieder **entsperren**. Folgen Sie dazu der oben beschriebenen Klickanleitung und wählen Sie die Option **Zeile entsperren** aus.
+Just as you lock a row , you can also **unlock** it. To do this, follow the click instructions described above and select the **Unlockrow** option.
 
-{{< warning  headline="Berechtigung erforderlich"  text="Sie können nur Zeilen entsperren, die **Sie selbst** gesperrt haben – es sei denn, Sie haben **Administratorrechte**. Dann können Sie auch Zeilen entsperren, die **von anderen** oder einer **Automation** gesperrt wurden." />}}
+{{< warning headline="Authorization required" text="You can only unlock rows that **you** have locked **yourself** - unless you have **administrator rights**. Then you can also unlock rows that has been locked by **others** or an **automation**." />}}
 
-## Zeilen mithilfe einer Automation sperren
+## rows lock with the help of automation
 
 {{< required-version "Enterprise" >}}
 
-In SeaTable können Sie **Automatisierungsregeln** anlegen, um **Zeilen automatisch zu sperren**, sobald diese gewisse Bedingungen erfüllen.
+In SeaTable you can create **automation rules** to **automatically lockrows** when they meet certain conditions.
 
-Das ist sehr nützlich, wenn Sie viele Zeilen auf einmal sperren möchten oder immer ab einem bestimmten Zeitpunkt (z. B. wenn ein Vorgang abgeschlossen ist) verhindern wollen, dass eine Zeile weiter bearbeitet werden kann.
+This is very useful if you want to lock many rows at once or always want to prevent a row from being processed further from a certain point in time (e.g. when a process has been completed).
 
-**Alles Weitere dazu erfahren Sie im Artikel** [Zeilen per Automation sperren](https://seatable.io/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+**You can find out more about this in the article** [rows Locking via automation](https://seatable.io/en/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
 
-![Mit einer Automation eine Zeile sperren](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Lock a row with an automation](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
 
-{{< warning  headline="Entsperren nur manuell möglich"  text="Mit einer Automation gesperrte Zeilen können Sie **nicht** auf die gleiche Weise wieder entsperren. Dies ist nur manuell und mit den notwendigen **Administratorrechten** möglich." />}}
+{{< warning headline="Unlocking only possible manually" text="You **cannot** unlock rows locked with an automation in the same way. This is only possible manually and with the necessary **administrator rights**." />}}
