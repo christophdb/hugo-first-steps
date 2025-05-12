@@ -5,21 +5,27 @@ weight = 1
 title = "SeaTable"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
-  dateFormat = "Jan 2, 2006"
-  logo = "/images/seatable-logo.svg"
-  footerPhrase = "Make powerful processes like thousands of others who use SeaTable daily."
+displayName = "EN"
+isoCode = "en"
+dateFormat = "Jan 2, 2006"
+logo = "/images/seatable-logo.svg"
+footerPhrase = "Make powerful processes like thousands of others who use SeaTable daily."
 
 # Force post-sitemap to be at /en/post-sitemap.xml instead of /post-sitemap.xml
 [outputFormats.post-sitemap]
-  baseName  = "post-sitemap"
-  mediaType = "application/xml"
-  noUgly = true
-  path = "en"
+baseName = "post-sitemap"
+mediaType = "application/xml"
+noUgly = true
+path = "en"
 
 [outputFormats.page-sitemap]
-  baseName  = "page-sitemap"
-  mediaType = "application/xml"
-  noUgly = true
-  path = "en"
+baseName = "page-sitemap"
+mediaType = "application/xml"
+noUgly = true
+path = "en"
+
+[outputFormats.help-sitemap]
+baseName = "help-sitemap"
+mediaType = "application/xml"
+noUgly = true
+path = "en"
