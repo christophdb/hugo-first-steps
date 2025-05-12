@@ -29,7 +29,16 @@ Je nachdem, welche Aktionen Sie für eine Automation definiert hatten, kann die 
 
 Welche Auswirkungen die Löschung von Automationen auf die verschiedenen Aktionen hat, können Sie in der folgenden Tabelle ablesen:
 
-\[table id=52 /\]
+| Aktion                                      | Auswirkung bei Löschung der Automatisierungsregel                                                                                                           |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Benachrichtigung versenden                  | Bei Eintritt des Trigger-Ereignisses werden keine Benachrichtigungen mehr versendet.                                                                        |
+| E-Mail versenden                            | Bei Eintritt des Trigger-Ereignisses werden keine E-Mails mehr versendet.                                                                                   |
+| Zeile hinzufügen                            | Bei Eintritt des Trigger-Ereignisses werden keine Zeilen mehr hinzugefügt.                                                                                  |
+| Eintrag sperren                             | Bei Eintritt des Trigger-Ereignisses werden die Zeilen nicht mehr für die Bearbeitung gesperrt. Bereits gesperrte Zeilen bleiben jedoch weiterhin gesperrt. |
+| Eintrag bearbeiten                          | Bei Eintritt des Trigger-Ereignisses werden keine Einträge mehr bearbeitet.                                                                                 |
+| Links hinzufügen                            | Bei Eintritt des Trigger-Ereignisses werden keine Links mehr hinzugefügt.                                                                                   |
+| Neuen Eintrag in anderer Tabelle hinzufügen | Bei Eintritt des Trigger-Ereignisses werden keine Einträge mehr in eine andere Tabelle hinzugefügt.                                                         |
+| Python-Skript ausführen                     | Bei Eintritt des Trigger-Ereignisses werden keine Python-Skripte mehr ausgeführt.                                                                           |
 
 ### Weitere hilfreiche Artikel in der Rubrik Automationen:
 
