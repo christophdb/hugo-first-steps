@@ -30,32 +30,32 @@ Default values can be defined for many, but not all, [column types in SeaTable](
 
 **Here is an overview of the column types for which you can define default values:**
 
-| Column type        | Supports default values |
-| ------------------ | ----------------------- |
-| Automatic number   |                         |
-| Image              |                         |
-| Checkbox           |                         |
-| File               |                         |
-| Date               |                         |
-| Duration           |                         |
-| Single selection   |                         |
-| E-mail             |                         |
-| Creator            |                         |
-| Created            |                         |
-| Formatted text     |                         |
-| Formula            |                         |
-| Formula for links  |                         |
-| Geoposition        |                         |
-| Last editor        |                         |
-| Multiple selection |                         |
-| Employees          |                         |
-| Rating             |                         |
-| Button             |                         |
-| Signature          |                         |
-| Text               |                         |
-| URL                |                         |
-| Number             |                         |
-| Last edited        |                         |
+| Column type        | Supports default values                                       |
+| ------------------ | ------------------------------------------------------------- |
+| Automatic number   | {{< icon "circle-xmark" >}}                                   |
+| Image              | {{< icon "circle-xmark" >}}                                   |
+| Checkbox           | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| File               | {{< icon "circle-xmark" >}}                                   |
+| Date               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Duration           | {{< icon "circle-xmark" >}}                                   |
+| Single selection   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| E-mail             | {{< icon "circle-xmark" >}}                                   |
+| Creator            | {{< icon "circle-xmark" >}}                                   |
+| Created            | {{< icon "circle-xmark" >}}                                   |
+| Formatted text     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Formula            | {{< icon "circle-xmark" >}}                                   |
+| Formula for links  | {{< icon "circle-xmark" >}}                                   |
+| Geoposition        | {{< icon "circle-xmark" >}}                                   |
+| Last editor        | {{< icon "circle-xmark" >}}                                   |
+| Multiple selection | {{< icon "circle-xmark" >}}                                   |
+| Employees          | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Rating             | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Button             | {{< icon "circle-xmark" >}}                                   |
+| Signature          | {{< icon "circle-xmark" >}}                                   |
+| Text               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                | {{< icon "circle-xmark" >}}                                   |
+| Number             | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Last edited        | {{< icon "circle-xmark" >}}                                   |
 
 ## Referenced default values in text columns
 

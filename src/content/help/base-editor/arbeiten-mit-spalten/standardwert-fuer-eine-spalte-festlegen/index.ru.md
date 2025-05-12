@@ -30,32 +30,32 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 
 **Ниже приведен обзор типов столбцов, для которых можно задать значения по умолчанию:**
 
-| Тип колонки              | Поддерживает значения по умолчанию |
-| ------------------------ | ---------------------------------- |
-| Автоматический номер     |                                    |
-| Изображение              |                                    |
-| Флажок                   |                                    |
-| Файл                     |                                    |
-| Дата                     |                                    |
-| Продолжительность        |                                    |
-| Одиночный выбор          |                                    |
-| Электронная почта        |                                    |
-| Создатель                |                                    |
-| Создано                  |                                    |
-| Форматированный текст    |                                    |
-| Формула                  |                                    |
-| Формула для ссылок       |                                    |
-| Геопозиция               |                                    |
-| Последний редактор       |                                    |
-| Множественный выбор      |                                    |
-| Сотрудники               |                                    |
-| Рейтинг                  |                                    |
-| Кнопка                   |                                    |
-| Подпись                  |                                    |
-| Текст                    |                                    |
-| URL                      |                                    |
-| Номер                    |                                    |
-| Последнее редактирование |                                    |
+| Тип колонки              | Поддерживает значения по умолчанию                            |
+| ------------------------ | ------------------------------------------------------------- |
+| Автоматический номер     | {{< icon "circle-xmark" >}}                                   |
+| Изображение              | {{< icon "circle-xmark" >}}                                   |
+| Флажок                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Файл                     | {{< icon "circle-xmark" >}}                                   |
+| Дата                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Продолжительность        | {{< icon "circle-xmark" >}}                                   |
+| Одиночный выбор          | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Электронная почта        | {{< icon "circle-xmark" >}}                                   |
+| Создатель                | {{< icon "circle-xmark" >}}                                   |
+| Создано                  | {{< icon "circle-xmark" >}}                                   |
+| Форматированный текст    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Формула                  | {{< icon "circle-xmark" >}}                                   |
+| Формула для ссылок       | {{< icon "circle-xmark" >}}                                   |
+| Геопозиция               | {{< icon "circle-xmark" >}}                                   |
+| Последний редактор       | {{< icon "circle-xmark" >}}                                   |
+| Множественный выбор      | {{< icon "circle-xmark" >}}                                   |
+| Сотрудники               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Рейтинг                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Кнопка                   | {{< icon "circle-xmark" >}}                                   |
+| Подпись                  | {{< icon "circle-xmark" >}}                                   |
+| Текст                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                      | {{< icon "circle-xmark" >}}                                   |
+| Номер                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Последнее редактирование | {{< icon "circle-xmark" >}}                                   |
 
 ## Ссылающиеся значения по умолчанию в текстовых колонках
 

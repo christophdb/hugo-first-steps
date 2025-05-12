@@ -30,32 +30,32 @@ Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tip
 
 **Segue-se uma síntese dos tipos de colunas para os quais é possível definir valores propostos:**
 
-| Tipo de coluna       | Suporta valores por defeito |
-| -------------------- | --------------------------- |
-| Número automático    |                             |
-| Imagem               |                             |
-| Caixa de verificação |                             |
-| Ficheiro             |                             |
-| Data                 |                             |
-| Duração              |                             |
-| Selecção única       |                             |
-| Correio electrónico  |                             |
-| Criador              |                             |
-| Criado em            |                             |
-| Texto formatado      |                             |
-| Fórmula              |                             |
-| Fórmula para links   |                             |
-| Geoposição           |                             |
-| Último editor        |                             |
-| Selecção múltipla    |                             |
-| Empregados           |                             |
-| Classificação        |                             |
-| Botão                |                             |
-| Assinatura           |                             |
-| Texto                |                             |
-| URL                  |                             |
-| Número               |                             |
-| Última edição        |                             |
+| Tipo de coluna       | Suporta valores por defeito                                   |
+| -------------------- | ------------------------------------------------------------- |
+| Número automático    | {{< icon "circle-xmark" >}}                                   |
+| Imagem               | {{< icon "circle-xmark" >}}                                   |
+| Caixa de verificação | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Ficheiro             | {{< icon "circle-xmark" >}}                                   |
+| Data                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Duração              | {{< icon "circle-xmark" >}}                                   |
+| Selecção única       | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Correio electrónico  | {{< icon "circle-xmark" >}}                                   |
+| Criador              | {{< icon "circle-xmark" >}}                                   |
+| Criado em            | {{< icon "circle-xmark" >}}                                   |
+| Texto formatado      | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Fórmula              | {{< icon "circle-xmark" >}}                                   |
+| Fórmula para links   | {{< icon "circle-xmark" >}}                                   |
+| Geoposição           | {{< icon "circle-xmark" >}}                                   |
+| Último editor        | {{< icon "circle-xmark" >}}                                   |
+| Selecção múltipla    | {{< icon "circle-xmark" >}}                                   |
+| Empregados           | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Classificação        | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Botão                | {{< icon "circle-xmark" >}}                                   |
+| Assinatura           | {{< icon "circle-xmark" >}}                                   |
+| Texto                | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                  | {{< icon "circle-xmark" >}}                                   |
+| Número               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Última edição        | {{< icon "circle-xmark" >}}                                   |
 
 ## Valores por defeito referenciados em colunas de texto
 

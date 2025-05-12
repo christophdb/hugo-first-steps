@@ -30,32 +30,32 @@ Les valeurs par défaut peuvent être définies pour de nombreux [types de colon
 
 **Voici un aperçu des types de colonnes pour lesquelles vous pouvez définir des valeurs par défaut :**
 
-| Type de colonne        | supporte les valeurs par défaut |
-| ---------------------- | ------------------------------- |
-| Numéro automatique     |                                 |
-| Image                  |                                 |
-| Case à cocher          |                                 |
-| Fichier                |                                 |
-| Date                   |                                 |
-| Durée                  |                                 |
-| Sélection unique       |                                 |
-| Courriel :             |                                 |
-| Créateur               |                                 |
-| Créé                   |                                 |
-| Texte formaté          |                                 |
-| Formule                |                                 |
-| Formule pour les liens |                                 |
-| Géoposition            |                                 |
-| Dernier responsable    |                                 |
-| Sélection multiple     |                                 |
-| Employés               |                                 |
-| Rating                 |                                 |
-| Bouton                 |                                 |
-| Signature              |                                 |
-| Texte                  |                                 |
-| URL                    |                                 |
-| Nombre                 |                                 |
-| Dernièrement édité     |                                 |
+| Type de colonne        | supporte les valeurs par défaut                               |
+| ---------------------- | ------------------------------------------------------------- |
+| Numéro automatique     | {{< icon "circle-xmark" >}}                                   |
+| Image                  | {{< icon "circle-xmark" >}}                                   |
+| Case à cocher          | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Fichier                | {{< icon "circle-xmark" >}}                                   |
+| Date                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Durée                  | {{< icon "circle-xmark" >}}                                   |
+| Sélection unique       | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Courriel :             | {{< icon "circle-xmark" >}}                                   |
+| Créateur               | {{< icon "circle-xmark" >}}                                   |
+| Créé                   | {{< icon "circle-xmark" >}}                                   |
+| Texte formaté          | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Formule                | {{< icon "circle-xmark" >}}                                   |
+| Formule pour les liens | {{< icon "circle-xmark" >}}                                   |
+| Géoposition            | {{< icon "circle-xmark" >}}                                   |
+| Dernier responsable    | {{< icon "circle-xmark" >}}                                   |
+| Sélection multiple     | {{< icon "circle-xmark" >}}                                   |
+| Employés               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Rating                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Bouton                 | {{< icon "circle-xmark" >}}                                   |
+| Signature              | {{< icon "circle-xmark" >}}                                   |
+| Texte                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                    | {{< icon "circle-xmark" >}}                                   |
+| Nombre                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Dernièrement édité     | {{< icon "circle-xmark" >}}                                   |
 
 ## Valeurs par défaut référencées dans les colonnes de texte
 

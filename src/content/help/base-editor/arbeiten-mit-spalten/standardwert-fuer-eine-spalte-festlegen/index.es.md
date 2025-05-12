@@ -30,32 +30,32 @@ Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de 
 
 **A continuación encontrará un resumen de los tipos de columna para los que puede definir valores por defecto:**
 
-| Tipo de columna          | Admite valores por defecto |
-| ------------------------ | -------------------------- |
-| Número automático        |                            |
-| Imagen                   |                            |
-| Casilla de verificación  |                            |
-| Archivo                  |                            |
-| Fecha                    |                            |
-| Duración                 |                            |
-| Selección individual     |                            |
-| Correo electrónico       |                            |
-| Creador                  |                            |
-| Creado                   |                            |
-| Texto con formato        |                            |
-| Fórmula                  |                            |
-| Fórmula para los enlaces |                            |
-| Geoposición              |                            |
-| Último editor            |                            |
-| Selección múltiple       |                            |
-| Empleados                |                            |
-| Clasificación            |                            |
-| Botón                    |                            |
-| Firma                    |                            |
-| Texto                    |                            |
-| URL                      |                            |
-| Número                   |                            |
-| Última edición           |                            |
+| Tipo de columna          | Admite valores por defecto                                    |
+| ------------------------ | ------------------------------------------------------------- |
+| Número automático        | {{< icon "circle-xmark" >}}                                   |
+| Imagen                   | {{< icon "circle-xmark" >}}                                   |
+| Casilla de verificación  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Archivo                  | {{< icon "circle-xmark" >}}                                   |
+| Fecha                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Duración                 | {{< icon "circle-xmark" >}}                                   |
+| Selección individual     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Correo electrónico       | {{< icon "circle-xmark" >}}                                   |
+| Creador                  | {{< icon "circle-xmark" >}}                                   |
+| Creado                   | {{< icon "circle-xmark" >}}                                   |
+| Texto con formato        | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Fórmula                  | {{< icon "circle-xmark" >}}                                   |
+| Fórmula para los enlaces | {{< icon "circle-xmark" >}}                                   |
+| Geoposición              | {{< icon "circle-xmark" >}}                                   |
+| Último editor            | {{< icon "circle-xmark" >}}                                   |
+| Selección múltiple       | {{< icon "circle-xmark" >}}                                   |
+| Empleados                | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Clasificación            | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Botón                    | {{< icon "circle-xmark" >}}                                   |
+| Firma                    | {{< icon "circle-xmark" >}}                                   |
+| Texto                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                      | {{< icon "circle-xmark" >}}                                   |
+| Número                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Última edición           | {{< icon "circle-xmark" >}}                                   |
 
 ## Valores por defecto referenciados en columnas de texto
 
