@@ -20,4 +20,30 @@ Mit jedem Klick auf die Schaltfläche wird in dieser Zeile die Checkbox aktivier
 
 ## Das komplette Skript
 
-` ``` // vars const viewName = 'Default View'; const targetCheckboxColumnName = 'Checkbox';  // code - don't change careless! const currentRow = base.context.currentRow; const table = base.getActiveTable(); const view = base.getViewByName(table, viewName); const rows = base.getRows(table, view); const selectedRows = [], updatedRows = [];  // set check base.modifyRow(table, currentRow, {[targetCheckboxColumnName]: true});  // remove all other checks let pos = 0; rows.forEach((row) => {   if (pos >= 0 && row[targetCheckboxColumnName])   {     selectedRows.push(row);     updatedRows.push({[targetCheckboxColumnName]: false});   }   pos++; }); base.modifyRows(table, selectedRows, updatedRows);  ``` `
+```js
+// vars
+const viewName = 'Default View';
+const targetCheckboxColumnName = 'Checkbox';
+
+// code - don't change careless!
+const currentRow = base.context.currentRow;
+const table = base.getActiveTable();
+const view = base.getViewByName(table, viewName);
+const rows = base.getRows(table, view);
+const selectedRows = [],
+    updatedRows = [];
+
+// set check
+base.modifyRow(table, currentRow, { [targetCheckboxColumnName]: true });
+
+// remove all other checks
+let pos = 0;
+rows.forEach((row) => {
+    if (pos >= 0 && row[targetCheckboxColumnName]) {
+        selectedRows.push(row);
+        updatedRows.push({ [targetCheckboxColumnName]: false });
+    }
+    pos++;
+});
+base.modifyRows(table, selectedRows, updatedRows);
+```

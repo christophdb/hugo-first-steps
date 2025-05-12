@@ -18,7 +18,7 @@ url: '/ru/help/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
 
 Каждый скрипт Python начинается с загрузки используемых модулей Python, где мы будем использовать _base_ и _context_ из класса _seatable_api_. Модуль _random_ нужен только во второй строке, если вы хотите генерировать случайные числа.
 
-```
+```python
 from seatable_api import Base, context
 import random
 ```
@@ -27,7 +27,7 @@ import random
 
 Следующие две строки необходимы для установления соединения с текущей базой. После этой аутентификации мы можем читать, удалять или манипулировать информацией через _объект базы_.
 
-```
+```python
 base = Base(context.api_token, context.server_url)
 base.auth()
 ```
@@ -36,7 +36,7 @@ base.auth()
 
 Теперь, когда у нас есть доступ к текущей таблице, мы можем определить записи для создания. Следующий код предполагает, что у вас есть столбцы с именами _Name_, _single_, _random_, _rating_. Если ваши столбцы названы по-другому, вам нужно соответствующим образом изменить имена.
 
-```
+```python
 # define the data for two new rows
 rows_data = [
   {
@@ -58,7 +58,7 @@ rows_data = [
 
 В последнем блоке кода содержимое новых _строк_ было определено и сохранено в переменной _rows_data_, но еще не записано в базу. Теперь мы сделаем это с помощью следующего вызова.
 
-```
+```python
 # append the two rows
   base.batch_append_rows(context.current_table, rows_data)
 ```
@@ -67,7 +67,7 @@ rows_data = [
 
 Конечно, можно записать и более двух строк. Это можно сделать либо просто определив дополнительное содержимое строки, либо выполнив процесс записи несколько раз с помощью цикла.
 
-```
+```python
 # execute batch append 10 times
 for i in range(10):
 
@@ -76,7 +76,6 @@ for i in range(10):
 
   # append the two rows
   ...
-
 ```
 
 {{< warning  headline="Отступы для заметок в Python"  text="В Python отступы строк используются для структурирования кода. Это позволяет сделать код коротким и понятным, но в то же время вы должны обратить пристальное внимание на отступы, потому что они определяют, где заканчивается _цикл for_." />}}
@@ -85,7 +84,7 @@ for i in range(10):
 
 Полный сценарий должен быть готов к немедленному запуску без каких-либо серьезных изменений. Измените названия четырех столбцов, и сценарий сможет создавать новые строки в вашей таблице.
 
-```
+```python
 from seatable_api import Base, context
 import random
 
@@ -113,7 +112,6 @@ for i in range(10):
 
   # append the two rows
   base.batch_append_rows(context.current_table, rows_data)
-
 ```
 
 Сценарий может быть запущен вручную или с помощью кнопки или автоматизации. Подробнее об этом можно узнать [здесь](https://seatable.io/ru/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/).

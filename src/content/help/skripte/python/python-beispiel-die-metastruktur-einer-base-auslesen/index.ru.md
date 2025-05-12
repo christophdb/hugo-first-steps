@@ -14,82 +14,81 @@ url: '/ru/help/python-beispiel-die-metastruktur-einer-base-auslesen'
 
 Метаструктура базы описывает таблицы, колонки и представления базы. Записи в строках в метаструктуру не входят. Следующая JSON-структура описывает сравнительно простую базу, содержащую только одну таблицу, два столбца и одно представление.
 
-```
+```json
 {
-  "metadata": {
-    "tables": [
-      {
-        "_id": "0000",
-        "name": "Table1",
-        "columns": [
-          {
-            "key": "0000",
-            "name": "Name",
-            "type": "text",
-            "width": 200,
-            "editable": true,
-            "resizable": true
-          },
-          {
-            "key": "BydO",
-            "type": "date",
-            "name": "Date",
-            "editable": true,
-            "width": 200,
-            "resizable": true,
-            "draggable": true,
-            "data": {
-              "format": "YYYY-MM-DD"
-            },
-            "permission_type": "",
-            "permitted_users": []
-          }
+    "metadata": {
+        "tables": [
+            {
+                "_id": "0000",
+                "name": "Table1",
+                "columns": [
+                    {
+                        "key": "0000",
+                        "name": "Name",
+                        "type": "text",
+                        "width": 200,
+                        "editable": true,
+                        "resizable": true
+                    },
+                    {
+                        "key": "BydO",
+                        "type": "date",
+                        "name": "Date",
+                        "editable": true,
+                        "width": 200,
+                        "resizable": true,
+                        "draggable": true,
+                        "data": {
+                            "format": "YYYY-MM-DD"
+                        },
+                        "permission_type": "",
+                        "permitted_users": []
+                    }
+                ],
+                "views": [
+                    {
+                        "_id": "0000",
+                        "name": "Default View",
+                        "type": "table",
+                        "is_locked": false,
+                        "rows": [],
+                        "formula_rows": {},
+                        "summaries": [],
+                        "filters": [],
+                        "sorts": [],
+                        "hidden_columns": [],
+                        "groupbys": [],
+                        "groups": []
+                    }
+                ]
+            }
         ],
-        "views": [
-          {
-            "_id": "0000",
-            "name": "Default View",
-            "type": "table",
-            "is_locked": false,
-            "rows": [],
-            "formula_rows": {},
-            "summaries": [],
-            "filters": [],
-            "sorts": [],
-            "hidden_columns": [],
-            "groupbys": [],
-            "groups": []
-          }
-        ]
-      }
-    ],
-    "version": 482,
-    "format_version": 7,
-    "settings": {
-      "securities": {
-        "table_settings": {
-          "can_copy": false,
-          "can_export": false,
-          "can_print": false
-        },
-        "share_user_settings": {
-          "can_copy": false,
-          "can_export": false,
-          "can_print": false
+        "version": 482,
+        "format_version": 7,
+        "settings": {
+            "securities": {
+                "table_settings": {
+                    "can_copy": false,
+                    "can_export": false,
+                    "can_print": false
+                },
+                "share_user_settings": {
+                    "can_copy": false,
+                    "can_export": false,
+                    "can_print": false
+                }
+            }
         }
-      }
     }
-  }
 }
 ```
 
 Такой код, конечно, нецелесообразен при обращении за помощью на форум сообщества, поэтому структура этой таблицы должна быть сведена к следующим строкам.
 
-```
+```bash
 --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---
 Table: Table1 (ID: 0000)
 --> Name (text)
-
 ```
 
 Как именно это работает, вы можете узнать из этой статьи.
@@ -100,7 +99,7 @@ Table: Table1 (ID: 0000)
 
 В SeaTable для получения метаструктуры базы достаточно всего нескольких строк кода Python. В частности, нескольких строк достаточно для аутентификации и одной строки для метаструктуры.
 
-```
+```python
 from seatable_api import Base, context
 base = Base(context.api_token, context.server_url)
 base.auth()
@@ -111,7 +110,7 @@ print(metadata)
 
 Однако результат или выход метаструктуры не является удобным для пользователя.
 
-```
+```python
 {'tables': [{'_id': '0000', 'name': 'Table1', 'columns': [{'key': '0000', 'name': 'Name', 'type': 'text', 'width': 200, 'editable': True, 'resizable': True}], 'views': [{'_id': '0000', 'name': 'Default View', 'type': 'table', 'is_locked': False, 'rows': [], 'formula_rows': {}, 'summaries': [], 'filter_conjunction': 'And', 'filters': [], 'sorts': [], 'hidden_columns': [], 'groupbys': [], 'groups': []}]}], 'version': 13, 'format_version': 9, 'scripts': [{'name': 'Untitled', 'url': '/scripts/zkon.py', '_id': 'zkon', 'type': 'Python'}]}
 ```
 
@@ -120,7 +119,7 @@ print(metadata)
 Переменная **метаданных** теперь хранит всю метаструктуру со всеми ее элементами в формате JSON. SeaTable и Python, конечно, предоставляют возможности для обхода этих структур и взаимодействия с ними.  
 С помощью следующих строк метаструктура может быть приведена к нужному виду.
 
-```
+```python
 print("--- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---")
 for table in metadata['tables']:
   print('.')
@@ -139,7 +138,7 @@ for table in metadata['tables']:
 
 Теперь вы почти у цели. Вы уже могли бы использовать эту метаструктуру, но недостатком предыдущего скрипта является то, что при связывании столбцов не очевидно, на что именно они ссылаются. Поэтому замените два последних столбца следующим кодом:
 
-```
+```python
   for column in table['columns']:
     link_target = ""
     if column['type'] == "link":
@@ -153,7 +152,7 @@ for table in metadata['tables']:
 
 Весь скрипт может быть запущен непосредственно в любой базе SeaTable без каких-либо настроек. Он пригодится вам, если вы захотите описать структуру своей базы на форуме сообщества.
 
-```
+```python
 from seatable_api import Base, context
 base = Base(context.api_token, context.server_url)
 base.auth()

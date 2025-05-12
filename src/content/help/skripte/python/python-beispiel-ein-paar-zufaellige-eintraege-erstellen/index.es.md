@@ -18,7 +18,7 @@ Este artículo te guiará a través de las diferentes secciones del script para 
 
 Todo script Python comienza cargando los módulos Python utilizados, donde nosotros utilizaremos _base_ y _context_ de la clase _seatable_api_. Sólo necesitas el módulo _random_ en la segunda línea si quieres generar números aleatorios.
 
-```
+```python
 from seatable_api import Base, context
 import random
 ```
@@ -27,7 +27,7 @@ import random
 
 Las dos líneas siguientes son necesarias para establecer la conexión con la base actual. Después de esta autenticación, podemos leer, borrar o manipular información a través del _objeto base_.
 
-```
+```python
 base = Base(context.api_token, context.server_url)
 base.auth()
 ```
@@ -36,7 +36,7 @@ base.auth()
 
 Ahora que tenemos acceso a la tabla actual, podemos definir los registros a crear. El siguiente código asume que usted tiene columnas con los nombres _Nombre_, _único_, _aleatorio_, _calificación_. Si sus columnas tienen nombres diferentes, deberá ajustar los nombres en consecuencia.
 
-```
+```python
 # define the data for two new rows
 rows_data = [
   {
@@ -58,7 +58,7 @@ rows_data = [
 
 Con el último bloque de código, el contenido de las nuevas _filas_ estaba definido y almacenado en la variable _filas_datos_, pero aún no estaba escrito en la base. Ahora lo hacemos con la siguiente llamada.
 
-```
+```python
 # append the two rows
   base.batch_append_rows(context.current_table, rows_data)
 ```
@@ -67,7 +67,7 @@ Con el último bloque de código, el contenido de las nuevas _filas_ estaba defi
 
 Por supuesto, también puede escribir más de dos líneas. Puede hacerlo simplemente definiendo contenidos de línea adicionales o haciendo que el proceso de escritura se ejecute varias veces con la ayuda de un bucle.
 
-```
+```python
 # execute batch append 10 times
 for i in range(10):
 
@@ -76,7 +76,6 @@ for i in range(10):
 
   # append the two rows
   ...
-
 ```
 
 {{< warning  headline="Nota sangrías en Python"  text="En Python, la sangría de línea se utiliza para estructurar el código. Esto mantiene el código corto y claro, pero al mismo tiempo hay que prestar mucha atención a la sangría porque determina dónde termina el _bucle for_." />}}
@@ -85,7 +84,7 @@ for i in range(10):
 
 El script completo debería estar listo para ejecutarse inmediatamente sin mayores ajustes. Cambie los nombres de las cuatro columnas y el script debería ser capaz de crear nuevas filas en su tabla.
 
-```
+```python
 from seatable_api import Base, context
 import random
 
@@ -113,7 +112,6 @@ for i in range(10):
 
   # append the two rows
   base.batch_append_rows(context.current_table, rows_data)
-
 ```
 
 El script puede iniciarse manualmente o mediante un botón o automatización. Puede obtener más información al respecto [aquí](https://seatable.io/es/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/).

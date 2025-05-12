@@ -14,82 +14,81 @@ Este artigo apresenta-lhe um script Python que produz a meta-estrutura completa 
 
 A meta-estrutura de uma base descreve as tabelas, colunas e vistas de uma base. As entradas e os registos nas linhas não estão incluídos na meta-estrutura. A seguinte estrutura JSON descreve uma base comparativamente simples com apenas uma tabela, duas colunas e uma vista.
 
-```
+```json
 {
-  "metadata": {
-    "tables": [
-      {
-        "_id": "0000",
-        "name": "Table1",
-        "columns": [
-          {
-            "key": "0000",
-            "name": "Name",
-            "type": "text",
-            "width": 200,
-            "editable": true,
-            "resizable": true
-          },
-          {
-            "key": "BydO",
-            "type": "date",
-            "name": "Date",
-            "editable": true,
-            "width": 200,
-            "resizable": true,
-            "draggable": true,
-            "data": {
-              "format": "YYYY-MM-DD"
-            },
-            "permission_type": "",
-            "permitted_users": []
-          }
+    "metadata": {
+        "tables": [
+            {
+                "_id": "0000",
+                "name": "Table1",
+                "columns": [
+                    {
+                        "key": "0000",
+                        "name": "Name",
+                        "type": "text",
+                        "width": 200,
+                        "editable": true,
+                        "resizable": true
+                    },
+                    {
+                        "key": "BydO",
+                        "type": "date",
+                        "name": "Date",
+                        "editable": true,
+                        "width": 200,
+                        "resizable": true,
+                        "draggable": true,
+                        "data": {
+                            "format": "YYYY-MM-DD"
+                        },
+                        "permission_type": "",
+                        "permitted_users": []
+                    }
+                ],
+                "views": [
+                    {
+                        "_id": "0000",
+                        "name": "Default View",
+                        "type": "table",
+                        "is_locked": false,
+                        "rows": [],
+                        "formula_rows": {},
+                        "summaries": [],
+                        "filters": [],
+                        "sorts": [],
+                        "hidden_columns": [],
+                        "groupbys": [],
+                        "groups": []
+                    }
+                ]
+            }
         ],
-        "views": [
-          {
-            "_id": "0000",
-            "name": "Default View",
-            "type": "table",
-            "is_locked": false,
-            "rows": [],
-            "formula_rows": {},
-            "summaries": [],
-            "filters": [],
-            "sorts": [],
-            "hidden_columns": [],
-            "groupbys": [],
-            "groups": []
-          }
-        ]
-      }
-    ],
-    "version": 482,
-    "format_version": 7,
-    "settings": {
-      "securities": {
-        "table_settings": {
-          "can_copy": false,
-          "can_export": false,
-          "can_print": false
-        },
-        "share_user_settings": {
-          "can_copy": false,
-          "can_export": false,
-          "can_print": false
+        "version": 482,
+        "format_version": 7,
+        "settings": {
+            "securities": {
+                "table_settings": {
+                    "can_copy": false,
+                    "can_export": false,
+                    "can_print": false
+                },
+                "share_user_settings": {
+                    "can_copy": false,
+                    "can_export": false,
+                    "can_print": false
+                }
+            }
         }
-      }
     }
-  }
 }
 ```
 
 É claro que este código não é prático quando se pede ajuda no fórum da comunidade, pelo que a estrutura desta tabela deve ser reduzida às linhas seguintes.
 
-```
+```bash
 --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---
 Table: Table1 (ID: 0000)
 --> Name (text)
-
 ```
 
 Pode descobrir exactamente como isto funciona neste artigo.
@@ -100,7 +99,7 @@ Pode descobrir exactamente como isto funciona neste artigo.
 
 Em SeaTable, apenas algumas linhas de código Python são suficientes para obter a infra-estrutura de uma base. Especificamente, algumas linhas são suficientes para autenticação e uma linha para a infra-estrutura de metragem.
 
-```
+```python
 from seatable_api import Base, context
 base = Base(context.api_token, context.server_url)
 base.auth()
@@ -111,7 +110,7 @@ print(metadata)
 
 No entanto, o resultado ou a produção da infra-estrutura é tudo menos fácil de utilizar.
 
-```
+```python
 {'tables': [{'_id': '0000', 'name': 'Table1', 'columns': [{'key': '0000', 'name': 'Name', 'type': 'text', 'width': 200, 'editable': True, 'resizable': True}], 'views': [{'_id': '0000', 'name': 'Default View', 'type': 'table', 'is_locked': False, 'rows': [], 'formula_rows': {}, 'summaries': [], 'filter_conjunction': 'And', 'filters': [], 'sorts': [], 'hidden_columns': [], 'groupbys': [], 'groups': []}]}], 'version': 13, 'format_version': 9, 'scripts': [{'name': 'Untitled', 'url': '/scripts/zkon.py', '_id': 'zkon', 'type': 'Python'}]}
 ```
 
@@ -120,7 +119,7 @@ No entanto, o resultado ou a produção da infra-estrutura é tudo menos fácil 
 A variável **metadados** armazena agora toda a meta-estrutura com todos os seus elementos em formato JSON. O SeaTable e o Python oferecem, naturalmente, possibilidades para percorrer estas estruturas e interagir com elas.  
 Com as linhas seguintes, a meta-estrutura pode ser colocada na forma desejada.
 
-```
+```python
 print("--- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---")
 for table in metadata['tables']:
   print('.')
@@ -139,7 +138,7 @@ Repetir o mesmo para as colunas. Através das **for**\-loop, todas as colunas da
 
 Agora está quase lá. Já podia utilizar a meta-estrutura tão bem, mas uma fraqueza do guião anterior é que, com as colunas de ligação, não é óbvio para onde se ligam exatamente. Por isso, substitua as duas últimas colunas pelo seguinte código:
 
-```
+```python
   for column in table['columns']:
     link_target = ""
     if column['type'] == "link":
@@ -153,7 +152,7 @@ Agora está quase lá. Já podia utilizar a meta-estrutura tão bem, mas uma fra
 
 O script completo pode ser executado diretamente em qualquer base SeaTable sem quaisquer ajustes. Servir-lhe-á bem se quiser descrever a estrutura da sua base no fórum da comunidade.
 
-```
+```python
 from seatable_api import Base, context
 base = Base(context.api_token, context.server_url)
 base.auth()

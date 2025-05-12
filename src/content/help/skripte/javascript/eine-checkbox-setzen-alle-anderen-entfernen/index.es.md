@@ -20,7 +20,7 @@ Con cada clic en el botón, se activa la casilla de esta fila y se desactivan to
 
 ## El guión completo
 
-```
+```js
 // vars
 const viewName = 'Default View';
 const targetCheckboxColumnName = 'Checkbox';
@@ -30,21 +30,20 @@ const currentRow = base.context.currentRow;
 const table = base.getActiveTable();
 const view = base.getViewByName(table, viewName);
 const rows = base.getRows(table, view);
-const selectedRows = [], updatedRows = [];
+const selectedRows = [],
+    updatedRows = [];
 
 // set check
-base.modifyRow(table, currentRow, {[targetCheckboxColumnName]: true});
+base.modifyRow(table, currentRow, { [targetCheckboxColumnName]: true });
 
 // remove all other checks
 let pos = 0;
 rows.forEach((row) => {
-  if (pos >= 0 && row[targetCheckboxColumnName])
-  {
-    selectedRows.push(row);
-    updatedRows.push({[targetCheckboxColumnName]: false});
-  }
-  pos++;
+    if (pos >= 0 && row[targetCheckboxColumnName]) {
+        selectedRows.push(row);
+        updatedRows.push({ [targetCheckboxColumnName]: false });
+    }
+    pos++;
 });
 base.modifyRows(table, selectedRows, updatedRows);
-
 ```

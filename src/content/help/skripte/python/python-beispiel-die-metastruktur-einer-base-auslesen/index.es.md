@@ -14,82 +14,81 @@ Este artículo presenta un script en Python que muestra la metaestructura comple
 
 La metaestructura de una base describe las tablas, columnas y vistas de una base. Las entradas y registros de las filas no se incluyen en la metaestructura. La siguiente estructura JSON describe una base comparativamente sencilla con una sola tabla, dos columnas y una vista.
 
-```
+```json
 {
-  "metadata": {
-    "tables": [
-      {
-        "_id": "0000",
-        "name": "Table1",
-        "columns": [
-          {
-            "key": "0000",
-            "name": "Name",
-            "type": "text",
-            "width": 200,
-            "editable": true,
-            "resizable": true
-          },
-          {
-            "key": "BydO",
-            "type": "date",
-            "name": "Date",
-            "editable": true,
-            "width": 200,
-            "resizable": true,
-            "draggable": true,
-            "data": {
-              "format": "YYYY-MM-DD"
-            },
-            "permission_type": "",
-            "permitted_users": []
-          }
+    "metadata": {
+        "tables": [
+            {
+                "_id": "0000",
+                "name": "Table1",
+                "columns": [
+                    {
+                        "key": "0000",
+                        "name": "Name",
+                        "type": "text",
+                        "width": 200,
+                        "editable": true,
+                        "resizable": true
+                    },
+                    {
+                        "key": "BydO",
+                        "type": "date",
+                        "name": "Date",
+                        "editable": true,
+                        "width": 200,
+                        "resizable": true,
+                        "draggable": true,
+                        "data": {
+                            "format": "YYYY-MM-DD"
+                        },
+                        "permission_type": "",
+                        "permitted_users": []
+                    }
+                ],
+                "views": [
+                    {
+                        "_id": "0000",
+                        "name": "Default View",
+                        "type": "table",
+                        "is_locked": false,
+                        "rows": [],
+                        "formula_rows": {},
+                        "summaries": [],
+                        "filters": [],
+                        "sorts": [],
+                        "hidden_columns": [],
+                        "groupbys": [],
+                        "groups": []
+                    }
+                ]
+            }
         ],
-        "views": [
-          {
-            "_id": "0000",
-            "name": "Default View",
-            "type": "table",
-            "is_locked": false,
-            "rows": [],
-            "formula_rows": {},
-            "summaries": [],
-            "filters": [],
-            "sorts": [],
-            "hidden_columns": [],
-            "groupbys": [],
-            "groups": []
-          }
-        ]
-      }
-    ],
-    "version": 482,
-    "format_version": 7,
-    "settings": {
-      "securities": {
-        "table_settings": {
-          "can_copy": false,
-          "can_export": false,
-          "can_print": false
-        },
-        "share_user_settings": {
-          "can_copy": false,
-          "can_export": false,
-          "can_print": false
+        "version": 482,
+        "format_version": 7,
+        "settings": {
+            "securities": {
+                "table_settings": {
+                    "can_copy": false,
+                    "can_export": false,
+                    "can_print": false
+                },
+                "share_user_settings": {
+                    "can_copy": false,
+                    "can_export": false,
+                    "can_print": false
+                }
+            }
         }
-      }
     }
-  }
 }
 ```
 
 Por supuesto, este código es poco práctico cuando se pide ayuda en el foro de la comunidad, por lo que la estructura de esta tabla se reducirá a las siguientes líneas.
 
-```
+```bash
 --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---
 Table: Table1 (ID: 0000)
 --> Name (text)
-
 ```
 
 Descubra cómo funciona exactamente en este artículo.

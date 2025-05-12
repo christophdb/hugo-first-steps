@@ -18,7 +18,7 @@ Cet article vous guide à travers les différentes sections du script afin que v
 
 Chaque script Python commence par le chargement des modules Python utilisés. Nous utiliserons _Base_ et _context_ de la classe _seatable_api_. Vous n'avez besoin du module _random_ de la deuxième ligne que si vous voulez générer des nombres aléatoires.
 
-```
+```python
 from seatable_api import Base, context
 import random
 ```
@@ -27,7 +27,7 @@ import random
 
 Les deux lignes suivantes sont nécessaires pour établir la connexion avec la base actuelle. Après cette authentification, nous pouvons soit lire, soit supprimer, soit manipuler des informations via l'_objet base_.
 
-```
+```python
 base = Base(context.api_token, context.server_url)
 base.auth()
 ```
@@ -36,7 +36,7 @@ base.auth()
 
 Maintenant que nous avons accès à la table actuelle, nous pouvons définir les enregistrements à créer. Le code suivant part du principe que vous avez des colonnes nommées _Name_, _single_, _random_, _rating_. Si vos colonnes s'appellent autrement, vous devez adapter les noms en conséquence.
 
-```
+```python
 # define the data for two new rows
 rows_data = [
   {
@@ -58,7 +58,7 @@ rows_data = [
 
 Avec le dernier bloc de code, le contenu des nouvelles lignes a certes été défini et enregistré dans la variable _rows_data_, mais il n'a pas encore été écrit dans la base. Nous le faisons maintenant avec l'appel suivant.
 
-```
+```python
 # append the two rows
   base.batch_append_rows(context.current_table, rows_data)
 ```
@@ -67,7 +67,7 @@ Avec le dernier bloc de code, le contenu des nouvelles lignes a certes été dé
 
 Vous pouvez bien entendu écrire plus de deux lignes. Pour ce faire, il vous suffit de définir d'autres contenus de ligne ou d'exécuter plusieurs fois le processus d'écriture à l'aide d'une boucle.
 
-```
+```python
 # execute batch append 10 times
 for i in range(10):
 
@@ -76,7 +76,6 @@ for i in range(10):
 
   # append the two rows
   ...
-
 ```
 
 {{< warning  headline="Respecter les indentations en Python"  text="En Python, l'indentation des lignes est utilisée pour structurer le code. Cela permet de garder un code court et clair, mais en même temps, vous devez faire attention à l'indentation, car elle détermine où la _boucle for_ se termine." />}}
@@ -85,7 +84,7 @@ for i in range(10):
 
 Le script complet devrait pouvoir être exécuté immédiatement chez vous sans grandes adaptations. Modifiez les quatre noms de colonnes et le script devrait pouvoir créer de nouvelles lignes dans votre tableau.
 
-```
+```python
 from seatable_api import Base, context
 import random
 
@@ -113,7 +112,6 @@ for i in range(10):
 
   # append the two rows
   base.batch_append_rows(context.current_table, rows_data)
-
 ```
 
 Le script peut être lancé manuellement, via un bouton ou par automatisation. Pour en savoir plus, [cliquez ici](https://seatable.io/fr/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/).

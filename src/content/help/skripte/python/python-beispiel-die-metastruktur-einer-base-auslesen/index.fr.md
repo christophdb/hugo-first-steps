@@ -14,82 +14,81 @@ Cet article vous présente un script Python qui permet d'afficher la métastruct
 
 La métastructure d'une base décrit les tables, les colonnes et les vues d'une base. Les entrées et les enregistrements dans les lignes ne sont pas inclus dans la métastructure. La structure JSON suivante décrit une base relativement simple avec seulement une table, deux colonnes et une vue.
 
-```
+```json
 {
-  "metadata": {
-    "tables": [
-      {
-        "_id": "0000",
-        "name": "Table1",
-        "columns": [
-          {
-            "key": "0000",
-            "name": "Name",
-            "type": "text",
-            "width": 200,
-            "editable": true,
-            "resizable": true
-          },
-          {
-            "key": "BydO",
-            "type": "date",
-            "name": "Date",
-            "editable": true,
-            "width": 200,
-            "resizable": true,
-            "draggable": true,
-            "data": {
-              "format": "YYYY-MM-DD"
-            },
-            "permission_type": "",
-            "permitted_users": []
-          }
+    "metadata": {
+        "tables": [
+            {
+                "_id": "0000",
+                "name": "Table1",
+                "columns": [
+                    {
+                        "key": "0000",
+                        "name": "Name",
+                        "type": "text",
+                        "width": 200,
+                        "editable": true,
+                        "resizable": true
+                    },
+                    {
+                        "key": "BydO",
+                        "type": "date",
+                        "name": "Date",
+                        "editable": true,
+                        "width": 200,
+                        "resizable": true,
+                        "draggable": true,
+                        "data": {
+                            "format": "YYYY-MM-DD"
+                        },
+                        "permission_type": "",
+                        "permitted_users": []
+                    }
+                ],
+                "views": [
+                    {
+                        "_id": "0000",
+                        "name": "Default View",
+                        "type": "table",
+                        "is_locked": false,
+                        "rows": [],
+                        "formula_rows": {},
+                        "summaries": [],
+                        "filters": [],
+                        "sorts": [],
+                        "hidden_columns": [],
+                        "groupbys": [],
+                        "groups": []
+                    }
+                ]
+            }
         ],
-        "views": [
-          {
-            "_id": "0000",
-            "name": "Default View",
-            "type": "table",
-            "is_locked": false,
-            "rows": [],
-            "formula_rows": {},
-            "summaries": [],
-            "filters": [],
-            "sorts": [],
-            "hidden_columns": [],
-            "groupbys": [],
-            "groups": []
-          }
-        ]
-      }
-    ],
-    "version": 482,
-    "format_version": 7,
-    "settings": {
-      "securities": {
-        "table_settings": {
-          "can_copy": false,
-          "can_export": false,
-          "can_print": false
-        },
-        "share_user_settings": {
-          "can_copy": false,
-          "can_export": false,
-          "can_print": false
+        "version": 482,
+        "format_version": 7,
+        "settings": {
+            "securities": {
+                "table_settings": {
+                    "can_copy": false,
+                    "can_export": false,
+                    "can_print": false
+                },
+                "share_user_settings": {
+                    "can_copy": false,
+                    "can_export": false,
+                    "can_print": false
+                }
+            }
         }
-      }
     }
-  }
 }
 ```
 
 Ce code n'est évidemment pas pratique si vous demandez de l'aide sur le forum de la communauté, c'est pourquoi la structure de ce tableau doit être réduite aux lignes suivantes.
 
-```
+```bash
 --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---
 Table: Table1 (ID: 0000)
 --> Name (text)
-
 ```
 
 Vous découvrirez dans cet article comment cela fonctionne exactement.
@@ -100,7 +99,7 @@ Vous découvrirez dans cet article comment cela fonctionne exactement.
 
 Dans SeaTable, quelques lignes de code Python suffisent pour obtenir la métastructure d'une base. Concrètement, quelques lignes suffisent pour l'authentification et une ligne pour la métastructure.
 
-```
+```python
 from seatable_api import Base, context
 base = Base(context.api_token, context.server_url)
 base.auth()
@@ -111,7 +110,7 @@ print(metadata)
 
 Le résultat ou la sortie de la métastructure est toutefois loin d'être convivial.
 
-```
+```python
 {'tables': [{'_id': '0000', 'name': 'Table1', 'columns': [{'key': '0000', 'name': 'Name', 'type': 'text', 'width': 200, 'editable': True, 'resizable': True}], 'views': [{'_id': '0000', 'name': 'Default View', 'type': 'table', 'is_locked': False, 'rows': [], 'formula_rows': {}, 'summaries': [], 'filter_conjunction': 'And', 'filters': [], 'sorts': [], 'hidden_columns': [], 'groupbys': [], 'groups': []}]}], 'version': 13, 'format_version': 9, 'scripts': [{'name': 'Untitled', 'url': '/scripts/zkon.py', '_id': 'zkon', 'type': 'Python'}]}
 ```
 
@@ -120,7 +119,7 @@ Le résultat ou la sortie de la métastructure est toutefois loin d'être conviv
 La variable **metadata** contient maintenant toute la métastructure et tous ses éléments au format JSON. SeaTable ou Python offrent bien entendu des possibilités de parcourir et d'interagir avec ces structures.  
 Les lignes suivantes permettent de mettre la métastructure sous la forme souhaitée.
 
-```
+```python
 print("--- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---")
 for table in metadata['tables']:
   print('.')
@@ -139,7 +138,7 @@ Répétez la même chose pour les colonnes. Grâce à la **for**\-Toutes les col
 
 Vous y êtes presque. On pourrait déjà très bien utiliser la métastructure, mais l'une des faiblesses du script actuel est que les colonnes de liens ne permettent pas de savoir vers quoi elles renvoient exactement. C'est pourquoi vous remplacez les deux dernières colonnes par le code suivant :
 
-```
+```python
   for column in table['columns']:
     link_target = ""
     if column['type'] == "link":
@@ -153,7 +152,7 @@ Vous y êtes presque. On pourrait déjà très bien utiliser la métastructure, 
 
 Le script complet peut être exécuté directement dans n'importe quelle base SeaTable sans aucune adaptation. Il vous rendra de grands services si vous souhaitez décrire la structure de votre base sur le forum de la communauté.
 
-```
+```python
 from seatable_api import Base, context
 base = Base(context.api_token, context.server_url)
 base.auth()

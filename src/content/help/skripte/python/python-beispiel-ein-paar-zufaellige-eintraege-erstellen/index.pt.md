@@ -18,7 +18,7 @@ Este artigo irá guiá-lo através das diferentes secções do guião, para que 
 
 Cada script Python começa com o carregamento dos módulos Python utilizados, onde utilizaremos _base_ e _contexto_ da classe _seatable_api_. Só é necessário o módulo _aleatório_ na segunda linha se se quiser gerar números aleatórios.
 
-```
+```python
 from seatable_api import Base, context
 import random
 ```
@@ -27,7 +27,7 @@ import random
 
 As duas linhas seguintes são necessárias para estabelecer a ligação com a base actual. Após esta autenticação, podemos ler, apagar ou manipular a informação através do _objecto base_.
 
-```
+```python
 base = Base(context.api_token, context.server_url)
 base.auth()
 ```
@@ -36,7 +36,7 @@ base.auth()
 
 Agora que temos acesso à tabela actual, podemos definir os registos a criar. O código seguinte assume que tem colunas com os nomes _Nome_, _único_, _aleatório_, _classificação_. Se as suas colunas tiverem nomes diferentes, terá de ajustar os nomes de acordo.
 
-```
+```python
 # define the data for two new rows
 rows_data = [
   {
@@ -58,7 +58,7 @@ rows_data = [
 
 Com o último bloco de código, o conteúdo das novas _linhas_ foi definido e armazenado nas variáveis _linhas_dados_, mas ainda não foi escrito na base. Fazemo-lo agora com a seguinte chamada.
 
-```
+```python
 # append the two rows
   base.batch_append_rows(context.current_table, rows_data)
 ```
@@ -67,7 +67,7 @@ Com o último bloco de código, o conteúdo das novas _linhas_ foi definido e ar
 
 Naturalmente, também pode escrever mais de duas linhas. Pode fazê-lo simplesmente definindo conteúdos de linhas adicionais ou fazendo com que o processo de escrita seja executado várias vezes com a ajuda de um laço.
 
-```
+```python
 # execute batch append 10 times
 for i in range(10):
 
@@ -76,7 +76,6 @@ for i in range(10):
 
   # append the two rows
   ...
-
 ```
 
 {{< warning  headline="Indentações de notas em Python"  text="Em Python, a indentação da linha é utilizada para estruturar o código. Isto mantém o código curto e claro, mas ao mesmo tempo tem de se prestar muita atenção ao recuo, porque determina onde termina o _para loop_." />}}
@@ -85,7 +84,7 @@ for i in range(10):
 
 O guião completo deve estar pronto a funcionar imediatamente sem grandes ajustes. Alterar os nomes das quatro colunas e o guião deve ser capaz de criar novas linhas na sua tabela.
 
-```
+```python
 from seatable_api import Base, context
 import random
 
@@ -113,7 +112,6 @@ for i in range(10):
 
   # append the two rows
   base.batch_append_rows(context.current_table, rows_data)
-
 ```
 
 O guião pode ser iniciado manualmente ou através de um botão ou automatização. Pode saber mais sobre isto [aqui](https://seatable.io/pt/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/).
