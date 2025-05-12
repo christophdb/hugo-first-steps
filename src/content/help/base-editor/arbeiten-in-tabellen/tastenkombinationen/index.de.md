@@ -18,30 +18,41 @@ Um schnell eine Übersicht über alle Tastenkombinationen zu erhalten, müssen S
 
 ## Tastenkombinationen in SeaTable
 
-| General                                                                                                                                                                             |                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| {{< keyboard "Ctrl" >}} {{< keyboard "F" >}}                                                                                                                                        | Opens the search function. With {{< keyboard "ESC" >}} close the search field again.             |
-| {{< keyboard "Ctrl" >}} {{< keyboard "G" >}}                                                                                                                                        | Show next search result.                                                                         |
-| {{< keyboard "Ctrl" >}} {{< keyboard "Shift" >}} {{< keyboard "G" >}}                                                                                                               | Show previous search result.                                                                     |
-| Table view                                                                                                                                                                          |                                                                                                  |
-| {{< keyboard "Ctrl" >}} {{< keyboard "?" >}}                                                                                                                                        | Open the overview of available keyboard shortcuts.                                               |
-| {{< keyboard "Ctrl" >}} {{< keyboard "Z" >}}                                                                                                                                        | Undo last action.                                                                                |
-| {{< keyboard "Ctrl" >}} {{< keyboard "Shift" >}} {{< keyboard "Z" >}}                                                                                                               | Perform last action again.                                                                       |
-| {{< keyboard "Ctrl" >}} {{< keyboard ";" >}}                                                                                                                                        | Set selected date or time/date field to today.                                                   |
-| {{< keyboard "Ctrl" >}} {{< keyboard "P" >}}                                                                                                                                        | Print the current view or row details.                                                           |
-| {{< keyboard "Ctrl" >}} {{< keyboard "C" >}}                                                                                                                                        | Copy a cell or cell selection.                                                                   |
-| {{< keyboard "Ctrl" >}} {{< keyboard "X" >}}                                                                                                                                        | Cut a cell or cell selection.                                                                    |
-| {{< keyboard "Ctrl" >}} {{< keyboard "L" >}}                                                                                                                                        | row lock/unlock (requires an Enterprise subscription).                                           |
-| {{< keyboard "Ctrl" >}} {{< keyboard "V" >}}                                                                                                                                        | Paste a cell (if multiple cells are selected, the value will be pasted into all selected cells). |
-| {{< keyboard "Space" >}}                                                                                                                                                            | Expanding the selected row.                                                                      |
-| {{< keyboard "PgUp" >}} {{< keyboard "PgDn" >}} {{< keyboard "Old" >}} {{< keyboard "PgUp" >}} {{< keyboard "Old" >}} {{< keyboard "PgDn" >}}                                       | Scroll screen (up / down / left / right)                                                         |
-| {{< keyboard "Ctrl" >}} {{< keyboard "↑" >}} {{< keyboard "Ctrl" >}} {{< keyboard "↓" >}} {{< keyboard "Ctrl" >}} {{< keyboard "←" >}} {{< keyboard "Ctrl" >}} {{< keyboard "→" >}} | Scroll to the respective table border (top / bottom / left / right).                             |
-| {{< keyboard "Shift" >}} {{< keyboard "Enter" >}}                                                                                                                                   | Insert a new row under the currently selected cell.                                              |
-| {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "Enter" >}}                                                                                                           | Add new row and open the line details.                                                           |
-| {{< keyboard "Ctrl" >}} {{< keyboard "'" >}}                                                                                                                                        | Show comment column.                                                                             |
-| Line details                                                                                                                                                                        |                                                                                                  |
-| {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "," >}} {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "." >}}                                         | Go to the next / previous row details.                                                           |
-| {{< keyboard "ESC" >}}                                                                                                                                                              | Closing the row details.                                                                         |
+| Allgemein                                                             |                                                                                        |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| {{< keyboard "Ctrl" >}} {{< keyboard "F" >}}                          | Öffnet die Suchfunktion. Mit {{< keyboard "ESC" >}} schließen Sie das Suchfeld wieder. |
+| {{< keyboard "Ctrl" >}} {{< keyboard "G" >}}                          | Nächstes Suchergebnis anzeigen.                                                        |
+| {{< keyboard "Ctrl" >}} {{< keyboard "Shift" >}} {{< keyboard "G" >}} | Vorheriges Suchergebnis anzeigen.                                                      |
+
+| Tabellenansicht                                                           |                                                                                                             |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| {{< keyboard "Ctrl" >}} {{< keyboard "?" >}}                              | Öffnen der Übersicht der verfügbaren Tastenkombinationen.                                                   |
+| {{< keyboard "Ctrl" >}} {{< keyboard "Z" >}}                              | Letzte Aktion rückgängig machen.                                                                            |
+| {{< keyboard "Ctrl" >}} {{< keyboard "Shift" >}} {{< keyboard "Z" >}}     | Letzte Aktion erneut ausführen.                                                                             |
+| {{< keyboard "Ctrl" >}} {{< keyboard ";" >}}                              | Ausgewähltes Datums- oder Zeit-/Datumsfeld auf den heutigen Tag setzen.                                     |
+| {{< keyboard "Ctrl" >}} {{< keyboard "P" >}}                              | Drucken der aktuellen Ansicht oder Zeilendetails.                                                           |
+| {{< keyboard "Ctrl" >}} {{< keyboard "C" >}}                              | Kopieren einer Zelle oder Zellenauswahl.                                                                    |
+| {{< keyboard "Ctrl" >}} {{< keyboard "X" >}}                              | Ausschneiden einer Zelle oder Zellenauswahl.                                                                |
+| {{< keyboard "Ctrl" >}} {{< keyboard "L" >}}                              | Zeile sperren/entsperren (erfordert ein Enterprise Abo).                                                    |
+| {{< keyboard "Ctrl" >}} {{< keyboard "V" >}}                              | Einfügen einer Zelle (bei der Auswahl mehrerer Zellen wird der Wert in alle ausgewählten Zellen eingefügt). |
+| {{< keyboard "Space" >}}                                                  | Erweitern der ausgewählten Zeile.                                                                           |
+| {{< keyboard "PgUp" >}}                                                   | Bildschirm nach oben scrollen                                                                               |
+| {{< keyboard "PgDn" >}}                                                   | Bildschirm nach unten scrollen                                                                              |
+| {{< keyboard "Alt" >}} {{< keyboard "PgUp" >}}                            | Bildschirm nach links scrollen                                                                              |
+| {{< keyboard "Old" >}} {{< keyboard "PgDn" >}}                            | Bildschirm nach rechts scrollen                                                                             |
+| {{< keyboard "Ctrl" >}} {{< keyboard "↑" >}}                              | Bis zum oberen Tabellenrand scrollen                                                                        |
+| {{< keyboard "Ctrl" >}} {{< keyboard "↓" >}}                              | Bis zum unteren Tabellenrand scrollen                                                                       |
+| {{< keyboard "Ctrl" >}} {{< keyboard "←" >}}                              | Bis zum linken Tabellenrand scrollen                                                                        |
+| {{< keyboard "Ctrl" >}} {{< keyboard "→" >}}                              | Bis zum rechten Tabellenrand scrollen                                                                       |
+| {{< keyboard "Shift" >}} {{< keyboard "Enter" >}}                         | Einfügen einer neuen Zeile unter der aktuell ausgewählten Zelle.                                            |
+| {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "Enter" >}} | Neue Zeile hinzufügen und die Zeilendetails öffnen.                                                         |
+| {{< keyboard "Ctrl" >}} {{< keyboard "'" >}}                              | Kommentarspalte einblenden.                                                                                 |
+
+| Zeichendetails                                                        |                                           |
+| --------------------------------------------------------------------- | ----------------------------------------- |
+| {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "," >}} | Zu den nächsten Zeilendetails wechseln.   |
+| {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "." >}} | Zu den vorherigen Zeilendetails wechseln. |
+| {{< keyboard "ESC" >}}                                                | Schließen der Zeilendetails.              |
 
 ## Hinweise
 
@@ -54,13 +65,13 @@ Die Beschriftung der Funktionstasten und die Anordnung von manchen in diesem Art
 
 Zum Beispiel: Wenn auf einer englischen Tastatur die Tastenkombination {{< keyboard "Ctrl" >}} {{< keyboard ";" >}} gedrückt werden soll, können Sie auf einer deutschen Tastatur {{< keyboard "Strg" >}} {{< keyboard "Ö" >}} drücken.
 
-| Key on an English keyboard | Key on a German keyboard    |
-| -------------------------- | --------------------------- |
-| {{< keyboard "?" >}}       | {{< keyboard "#" >}}        |
-| {{< keyboard "Ctrl" >}}    | {{< keyboard "Ctrl" >}}     |
-| {{< keyboard "Shift" >}}   | {{< keyboard "⇑" >}}        |
-| {{< keyboard ";" >}}       | {{< keyboard "Ö" >}}        |
-| {{< keyboard "'" >}}       | {{< keyboard "Ä" >}}        |
-| {{< keyboard "Space" >}}   | {{< keyboard "Space" >}}    |
-| {{< keyboard "PgUp" >}}    | {{< keyboard "Picture↑" >}} |
-| {{< keyboard "PgDn" >}}    | {{< keyboard "Image↓" >}}   |
+| Taste auf einer englischen Tastatur | Taste auf einer deutschen Tastatur |
+| ----------------------------------- | ---------------------------------- |
+| {{< keyboard "?" >}}                | {{< keyboard "#" >}}               |
+| {{< keyboard "Ctrl" >}}             | {{< keyboard "Strg" >}}            |
+| {{< keyboard "Shift" >}}            | {{< keyboard "   ⇑" >}}            |
+| {{< keyboard ";" >}}                | {{< keyboard "Ö" >}}               |
+| {{< keyboard "'" >}}                | {{< keyboard "Ä" >}}               |
+| {{< keyboard "Space" >}}            | {{< keyboard "Leerzeichen" >}}     |
+| {{< keyboard "PgUp" >}}             | {{< keyboard "Bild↑" >}}           |
+| {{< keyboard "PgDn" >}}             | {{< keyboard "Bild↓" >}}           |
