@@ -1,5 +1,5 @@
 ---
-title: 'Aplicación de consulta de datos - SeaTable'
+title: 'Aplicación de consulta de datos'
 date: 2023-05-02
 lastmod: '2024-05-15'
 categories:

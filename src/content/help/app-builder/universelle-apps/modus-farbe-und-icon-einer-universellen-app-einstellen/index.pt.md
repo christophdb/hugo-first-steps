@@ -1,5 +1,5 @@
 ---
-title: 'Definir o modo, a cor e o ícone de uma aplicação universal - SeaTable'
+title: 'Definir o modo, a cor e o ícone de uma aplicação universal'
 date: 2024-12-13
 lastmod: '2024-12-13'
 categories:

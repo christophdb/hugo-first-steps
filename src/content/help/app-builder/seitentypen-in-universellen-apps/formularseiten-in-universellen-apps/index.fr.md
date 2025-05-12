@@ -1,5 +1,5 @@
 ---
-title: 'Pages de formulaires dans les applications universelles - SeaTable'
+title: 'Pages de formulaires dans les applications universelles'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:

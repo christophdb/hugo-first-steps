@@ -1,11 +1,11 @@
 ---
-title: "What apps are available? - SeaTable"
+title: 'What apps are available?'
 date: 2023-05-02
-lastmod: "2024-05-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/help/welche-apps-gibt-es"
+lastmod: '2024-05-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/help/welche-apps-gibt-es'
 ---
 
 **Apps** in SeaTable are individual **frontends** for specific user groups that have different information needs (e.g. employees, department managers, directors). Open access to apps allows you to make your data available to **external third parties** (e.g. customers, business partners) **without a SeaTable account**.

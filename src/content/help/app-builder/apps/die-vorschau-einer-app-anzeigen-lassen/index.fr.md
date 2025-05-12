@@ -1,11 +1,11 @@
 ---
-title: "Afficher l'aperçu d'une application - SeaTable"
+title: "Afficher l'aperçu d'une application"
 date: 2023-05-04
-lastmod: "2024-07-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/fr/aide/die-vorschau-einer-app-anzeigen-lassen"
+lastmod: '2024-07-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/fr/aide/die-vorschau-einer-app-anzeigen-lassen'
 ---
 
 Pour optimiser la conception de vos apps, vous devez bien entendu les **tester** avant de les publier. Pour voir vos apps comme les utilisateurs les voient, vous pouvez à tout moment afficher l'état actuel de traitement dans un **aperçu** ou simplement **ouvrir** les apps en mode normal.

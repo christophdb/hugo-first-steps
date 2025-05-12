@@ -1,11 +1,11 @@
 ---
-title: "Mostrar a pré-visualização de uma aplicação - SeaTable"
+title: 'Mostrar a pré-visualização de uma aplicação'
 date: 2023-05-04
-lastmod: "2024-07-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/pt/ajuda/die-vorschau-einer-app-anzeigen-lassen"
+lastmod: '2024-07-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/pt/ajuda/die-vorschau-einer-app-anzeigen-lassen'
 ---
 
 Para optimizar o design das suas aplicações, deve, naturalmente, **testá-las** antes de as publicar. Para ver as suas aplicações como os utilizadores as vêem, pode **pré-visualizar** o estado de edição actual em qualquer altura ou simplesmente **abrir** as aplicações no modo normal.

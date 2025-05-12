@@ -1,5 +1,5 @@
 ---
-title: 'Páginas do tipo Conjunto de dados único em aplicações universais - SeaTable'
+title: 'Páginas do tipo Conjunto de dados único em aplicações universais'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:

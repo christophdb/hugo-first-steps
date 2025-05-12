@@ -1,11 +1,11 @@
 ---
-title: "Page permissions in a universal app - SeaTable"
+title: 'Page permissions in a universal app'
 date: 2023-05-03
-lastmod: "2023-11-30"
-categories: 
-  - "universelle-apps"
-author: "nsc2"
-url: "/help/seitenberechtigungen-in-einer-universellen-app"
+lastmod: '2023-11-30'
+categories:
+    - 'universelle-apps'
+author: 'nsc2'
+url: '/help/seitenberechtigungen-in-einer-universellen-app'
 ---
 
 To precisely control **access to your data**, you can set **individual page permissions for** each page you have created in a Universal App. You edit the permissions through the page settings.

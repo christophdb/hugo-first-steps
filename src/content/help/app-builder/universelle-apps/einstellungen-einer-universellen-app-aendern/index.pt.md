@@ -1,5 +1,5 @@
 ---
-title: 'Alterar as definições globais de uma aplicação universal - SeaTable'
+title: 'Alterar as definições globais de uma aplicação universal'
 date: 2023-05-03
 lastmod: '2024-12-13'
 categories:

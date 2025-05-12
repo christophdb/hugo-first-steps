@@ -1,5 +1,5 @@
 ---
-title: 'Páginas de galería en aplicaciones universales - SeaTable'
+title: 'Páginas de galería en aplicaciones universales'
 date: 2023-12-04
 lastmod: '2024-08-02'
 categories:

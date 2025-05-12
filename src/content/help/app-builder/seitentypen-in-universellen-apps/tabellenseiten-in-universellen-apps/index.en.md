@@ -1,5 +1,5 @@
 ---
-title: 'Table pages in universal apps - SeaTable'
+title: 'Table pages in universal apps'
 date: 2023-12-01
 lastmod: '2024-12-13'
 categories:

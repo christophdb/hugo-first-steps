@@ -1,5 +1,5 @@
 ---
-title: 'Páginas del tipo Conjunto de datos único en Universal Apps - SeaTable'
+title: 'Páginas del tipo Conjunto de datos único en Universal Apps'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:

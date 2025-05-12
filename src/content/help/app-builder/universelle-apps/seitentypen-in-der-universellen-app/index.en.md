@@ -1,11 +1,11 @@
 ---
-title: "Page types in the Universal App - SeaTable"
+title: 'Page types in the Universal App'
 date: 2023-05-03
-lastmod: "2025-02-13"
-categories: 
-  - "universelle-apps"
-author: "nsc2"
-url: "/help/seitentypen-in-der-universellen-app"
+lastmod: '2025-02-13'
+categories:
+    - 'universelle-apps'
+author: 'nsc2'
+url: '/help/seitentypen-in-der-universellen-app'
 ---
 
 In the edit mode of the **Universal App** you can choose between different **page types** for the design of your app. Most of the page types you already know in a similar form from other places in SeaTable.

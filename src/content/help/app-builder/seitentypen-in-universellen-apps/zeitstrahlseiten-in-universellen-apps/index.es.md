@@ -1,5 +1,5 @@
 ---
-title: 'Páginas Timeline en aplicaciones universales - SeaTable'
+title: 'Páginas Timeline en aplicaciones universales'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:

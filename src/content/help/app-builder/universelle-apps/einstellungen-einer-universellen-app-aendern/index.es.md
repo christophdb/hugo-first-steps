@@ -1,5 +1,5 @@
 ---
-title: 'Cambiar la configuración global de una aplicación universal - SeaTable'
+title: 'Cambiar la configuración global de una aplicación universal'
 date: 2023-05-03
 lastmod: '2024-12-13'
 categories:

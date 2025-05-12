@@ -1,5 +1,5 @@
 ---
-title: 'Páginas Kanban em aplicações universais - SeaTable'
+title: 'Páginas Kanban em aplicações universais'
 date: 2023-12-07
 lastmod: '2023-12-07'
 categories:

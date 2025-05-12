@@ -1,5 +1,5 @@
 ---
-title: 'Criar e gerir páginas e pastas numa aplicação universal - SeaTable'
+title: 'Criar e gerir páginas e pastas numa aplicação universal'
 date: 2023-05-04
 lastmod: '2024-12-13'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Apagar aplicações - SeaTable'
+title: 'Apagar aplicações'
 date: 2023-05-02
 lastmod: '2024-02-16'
 categories:

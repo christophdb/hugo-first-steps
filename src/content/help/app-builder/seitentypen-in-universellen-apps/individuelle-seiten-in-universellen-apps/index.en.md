@@ -1,11 +1,11 @@
 ---
-title: "Individual pages in universal apps - SeaTable"
+title: 'Individual pages in universal apps'
 date: 2023-12-08
-lastmod: "2025-02-26"
-categories: 
-  - "seitentypen-in-universellen-apps"
-author: "kgr"
-url: "/help/individuelle-seiten-in-universellen-apps"
+lastmod: '2025-02-26'
+categories:
+    - 'seitentypen-in-universellen-apps'
+author: 'kgr'
+url: '/help/individuelle-seiten-in-universellen-apps'
 ---
 
 With this page type, you can give free rein to your creativity and build a **customized page** according to your wishes. Add **text** and **images** to your page or use **statistics** to create meaningful **dashboards** with the data from your base.
@@ -156,7 +156,7 @@ All setting changes are carried out **in real time**, i.e. the diagram is update
 
 There is a special type of statistics on individual pages: Similar to [table pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), the **simple table** allows the tabular display of a data set that has been pre-filtered and pre-sorted by the app admin. Unlike on the table page, it is therefore possible to combine **several tables** on one dashboard.
 
-![New chart type &quot;Basic table&quot;](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![New chart type "Basic table"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
 
 ## Set the background color of the page
 

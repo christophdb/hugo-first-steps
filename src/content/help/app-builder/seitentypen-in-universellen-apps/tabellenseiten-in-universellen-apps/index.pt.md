@@ -1,5 +1,5 @@
 ---
-title: 'Páginas de tabelas em aplicações universais - SeaTable'
+title: 'Páginas de tabelas em aplicações universais'
 date: 2023-12-01
 lastmod: '2024-12-13'
 categories:

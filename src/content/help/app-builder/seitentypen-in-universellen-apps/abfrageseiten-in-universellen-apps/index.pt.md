@@ -1,5 +1,5 @@
 ---
-title: 'Páginas de consulta em aplicações universais - SeaTable'
+title: 'Páginas de consulta em aplicações universais'
 date: 2023-12-08
 lastmod: '2025-02-27'
 categories:

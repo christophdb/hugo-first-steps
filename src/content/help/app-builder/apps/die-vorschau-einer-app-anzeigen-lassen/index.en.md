@@ -1,11 +1,11 @@
 ---
-title: "Show the preview of an app - SeaTable"
+title: 'Show the preview of an app'
 date: 2023-05-04
-lastmod: "2024-07-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/help/die-vorschau-einer-app-anzeigen-lassen"
+lastmod: '2024-07-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/help/die-vorschau-einer-app-anzeigen-lassen'
 ---
 
 For optimal design of your apps, you should of course **test** them before publishing. To see your apps as users do, you can **preview** the current editing status at any time or simply **open** the apps in normal mode.

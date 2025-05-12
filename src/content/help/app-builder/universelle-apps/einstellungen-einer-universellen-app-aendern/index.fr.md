@@ -1,5 +1,5 @@
 ---
-title: "Modifier les paramètres globaux d'une application universelle - SeaTable"
+title: "Modifier les paramètres globaux d'une application universelle"
 date: 2023-05-03
 lastmod: '2024-12-13'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Añadir aplicaciones a una base - SeaTable'
+title: 'Añadir aplicaciones a una base'
 date: 2023-05-02
 lastmod: '2024-05-15'
 categories:

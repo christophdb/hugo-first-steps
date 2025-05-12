@@ -1,5 +1,5 @@
 ---
-title: 'Change global settings of a universal app - SeaTable'
+title: 'Change global settings of a universal app'
 date: 2023-05-03
 lastmod: '2024-12-13'
 categories:

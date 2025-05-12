@@ -1,5 +1,5 @@
 ---
-title: 'Gallery pages in universal apps - SeaTable'
+title: 'Gallery pages in universal apps'
 date: 2023-12-04
 lastmod: '2024-08-02'
 categories:

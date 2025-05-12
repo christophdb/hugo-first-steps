@@ -1,5 +1,5 @@
 ---
-title: 'Pages de tableaux dans les applications universelles - SeaTable'
+title: 'Pages de tableaux dans les applications universelles'
 date: 2023-12-01
 lastmod: '2024-12-13'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Aplicação universal - SeaTable'
+title: 'Aplicação universal'
 date: 2023-05-04
 lastmod: '2025-02-13'
 categories:

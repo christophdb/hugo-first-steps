@@ -1,11 +1,11 @@
 ---
-title: "Типы страниц в универсальном приложении - SeaTable"
+title: 'Типы страниц в универсальном приложении'
 date: 2023-05-03
-lastmod: "2025-02-13"
-categories: 
-  - "universelle-apps"
-author: "nsc2"
-url: "/ru/help/seitentypen-in-der-universellen-app"
+lastmod: '2025-02-13'
+categories:
+    - 'universelle-apps'
+author: 'nsc2'
+url: '/ru/help/seitentypen-in-der-universellen-app'
 ---
 
 В режиме редактирования **универсального приложения** вы можете выбрать один из различных **типов страниц** для оформления вашего приложения. Вы уже знаете большинство типов страниц в похожей форме из других мест в SeaTable.

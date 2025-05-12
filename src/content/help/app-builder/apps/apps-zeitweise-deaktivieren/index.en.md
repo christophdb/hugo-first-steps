@@ -1,5 +1,5 @@
 ---
-title: 'Disable apps temporarily - SeaTable'
+title: 'Disable apps temporarily'
 date: 2023-11-28
 lastmod: '2024-02-16'
 categories:

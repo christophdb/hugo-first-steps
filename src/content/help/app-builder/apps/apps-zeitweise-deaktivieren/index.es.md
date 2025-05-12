@@ -1,5 +1,5 @@
 ---
-title: 'Desactivar aplicaciones temporalmente - SeaTable'
+title: 'Desactivar aplicaciones temporalmente'
 date: 2023-11-28
 lastmod: '2024-02-16'
 categories:

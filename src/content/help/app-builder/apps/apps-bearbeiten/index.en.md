@@ -1,5 +1,5 @@
 ---
-title: 'Edit Apps - SeaTable'
+title: 'Edit Apps'
 date: 2023-05-02
 lastmod: '2024-02-16'
 categories:

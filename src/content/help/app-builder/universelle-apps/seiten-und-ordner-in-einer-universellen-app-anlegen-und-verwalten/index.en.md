@@ -1,5 +1,5 @@
 ---
-title: 'Create and manage pages and folders in a universal app - SeaTable'
+title: 'Create and manage pages and folders in a universal app'
 date: 2023-05-04
 lastmod: '2024-12-13'
 categories:

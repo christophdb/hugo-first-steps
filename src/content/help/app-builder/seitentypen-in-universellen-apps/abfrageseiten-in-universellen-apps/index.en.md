@@ -1,5 +1,5 @@
 ---
-title: 'Query pages in universal apps - SeaTable'
+title: 'Query pages in universal apps'
 date: 2023-12-08
 lastmod: '2025-02-27'
 categories:

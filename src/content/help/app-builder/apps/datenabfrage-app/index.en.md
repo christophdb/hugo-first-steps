@@ -1,5 +1,5 @@
 ---
-title: 'Data Query App - SeaTable'
+title: 'Data Query App'
 date: 2023-05-02
 lastmod: '2024-05-15'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 'Pages de type Enregistrement unique dans les applications universelles - SeaTable'
+title: 'Pages de type Enregistrement unique dans les applications universelles'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:

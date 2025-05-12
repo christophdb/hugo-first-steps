@@ -1,5 +1,5 @@
 ---
-title: 'Timeline pages in universal apps - SeaTable'
+title: 'Timeline pages in universal apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:

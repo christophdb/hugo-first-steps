@@ -1,5 +1,5 @@
 ---
-title: 'User and role management of a universal app - SeaTable'
+title: 'User and role management of a universal app'
 date: 2023-05-02
 lastmod: '2024-12-13'
 categories:

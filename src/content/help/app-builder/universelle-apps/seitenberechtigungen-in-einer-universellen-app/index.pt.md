@@ -1,11 +1,11 @@
 ---
-title: "Permissões de página numa aplicação universal - SeaTable"
+title: 'Permissões de página numa aplicação universal'
 date: 2023-05-03
-lastmod: "2023-11-30"
-categories: 
-  - "universelle-apps"
-author: "nsc2"
-url: "/pt/ajuda/seitenberechtigungen-in-einer-universellen-app"
+lastmod: '2023-11-30'
+categories:
+    - 'universelle-apps'
+author: 'nsc2'
+url: '/pt/ajuda/seitenberechtigungen-in-einer-universellen-app'
 ---
 
 Para controlar com precisão **o acesso aos seus dados**, pode definir **permissões de página individuais para** cada página que criou numa aplicação universal. Pode editar as permissões através das definições da página.

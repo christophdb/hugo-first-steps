@@ -1,5 +1,5 @@
 ---
-title: "Gestion des versions et des instantanés d'une application universelle - SeaTable"
+title: "Gestion des versions et des instantanés d'une application universelle"
 date: 2023-11-29
 lastmod: '2024-02-16'
 categories:

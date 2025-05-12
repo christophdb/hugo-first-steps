@@ -1,5 +1,5 @@
 ---
-title: "Régler le mode, la couleur et l'icône d'une application universelle - SeaTable"
+title: "Régler le mode, la couleur et l'icône d'une application universelle"
 date: 2024-12-13
 lastmod: '2024-12-13'
 categories:

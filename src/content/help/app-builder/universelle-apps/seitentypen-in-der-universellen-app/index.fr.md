@@ -1,11 +1,11 @@
 ---
-title: "Types de pages dans l'application universelle - SeaTable"
+title: "Types de pages dans l'application universelle"
 date: 2023-05-03
-lastmod: "2025-02-13"
-categories: 
-  - "universelle-apps"
-author: "nsc2"
-url: "/fr/aide/seitentypen-in-der-universellen-app"
+lastmod: '2025-02-13'
+categories:
+    - 'universelle-apps'
+author: 'nsc2'
+url: '/fr/aide/seitentypen-in-der-universellen-app'
 ---
 
 Dans le mode d'édition de l'**application universelle**, vous avez le choix entre différents **types de pages** pour la conception de votre application. Vous connaissez déjà la plupart des types de pages sous une forme similaire dans d'autres parties de SeaTable.

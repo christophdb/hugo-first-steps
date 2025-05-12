@@ -1,11 +1,11 @@
 ---
-title: "Pages personnalisées dans les applications universelles - SeaTable"
+title: 'Pages personnalisées dans les applications universelles'
 date: 2023-12-08
-lastmod: "2025-02-26"
-categories: 
-  - "seitentypen-in-universellen-apps"
-author: "kgr"
-url: "/fr/aide/individuelle-seiten-in-universellen-apps"
+lastmod: '2025-02-26'
+categories:
+    - 'seitentypen-in-universellen-apps'
+author: 'kgr'
+url: '/fr/aide/individuelle-seiten-in-universellen-apps'
 ---
 
 Avec ce type de page, vous pouvez laisser libre cours à votre créativité et construire une **page personnalisée** selon vos souhaits. Insérez **des textes** et **des images** dans votre page ou utilisez **des statistiques** pour créer **des tableaux de bord** pertinents à partir des données de votre base.
@@ -156,7 +156,7 @@ Toutes les modifications de réglage sont effectuées **en temps réel**, ce qui
 
 Sur les pages individuelles, il existe un type de statistiques particulier : le **tableau simple** permet - comme les [pages de tableaux](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - de présenter sous forme de tableau un ensemble de données préfiltrées et prétriées par l'administrateur de l'application. Contrairement à la page de tableau, il est donc possible de réunir **plusieurs tableaux** sur un même tableau de bord.
 
-![Nouveau type de tableau &quot;Tableau de base](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Nouveau type de tableau "Tableau de base](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
 
 ## Régler la couleur de fond de la page
 

@@ -1,5 +1,5 @@
 ---
-title: 'Setting the mode, color and icon of a universal app - SeaTable'
+title: 'Setting the mode, color and icon of a universal app'
 date: 2024-12-13
 lastmod: '2024-12-13'
 categories:

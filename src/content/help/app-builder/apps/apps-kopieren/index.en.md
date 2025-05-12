@@ -1,5 +1,5 @@
 ---
-title: 'Copy Apps - SeaTable'
+title: 'Copy Apps'
 date: 2023-08-25
 lastmod: '2024-02-16'
 categories:

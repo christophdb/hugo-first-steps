@@ -1,5 +1,5 @@
 ---
-title: 'Formularseiten in Universellen Apps - SeaTable'
+title: 'Formularseiten in Universellen Apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:

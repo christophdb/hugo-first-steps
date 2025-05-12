@@ -1,5 +1,5 @@
 ---
-title: 'Удалить приложения - SeaTable'
+title: 'Удалить приложения'
 date: 2023-05-02
 lastmod: '2024-02-16'
 categories:

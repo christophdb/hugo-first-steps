@@ -1,11 +1,11 @@
 ---
-title: "Páginas individuales en aplicaciones universales - SeaTable"
+title: 'Páginas individuales en aplicaciones universales'
 date: 2023-12-08
-lastmod: "2025-02-26"
-categories: 
-  - "seitentypen-in-universellen-apps"
-author: "kgr"
-url: "/es/ayuda/individuelle-seiten-in-universellen-apps"
+lastmod: '2025-02-26'
+categories:
+    - 'seitentypen-in-universellen-apps'
+author: 'kgr'
+url: '/es/ayuda/individuelle-seiten-in-universellen-apps'
 ---
 
 Con este tipo de página, puede dar rienda suelta a su creatividad y construir una **página personalizada** según sus deseos. Añade **texto** e **imágenes** a tu página o utiliza **estadísticas** para crear **cuadros de mando** significativos con los datos de tu base.
@@ -156,7 +156,7 @@ Todos los cambios de ajuste se realizan **en tiempo real**, es decir, el diagram
 
 Existe un tipo especial de estadísticas en páginas individuales: la **tabla simple** permite -de forma similar a las páginas [de tablas](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tablas, es posible combinar **varias tablas** en un panel de control.
 
-![Nuevo tipo de gráfico &quot;Cuadro básico&quot;](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Nuevo tipo de gráfico "Cuadro básico"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
 
 ## Definir el color de fondo de la página
 

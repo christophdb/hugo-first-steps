@@ -1,5 +1,5 @@
 ---
-title: 'Pages of the type Single data set in universal apps - SeaTable'
+title: 'Pages of the type Single data set in universal apps'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:

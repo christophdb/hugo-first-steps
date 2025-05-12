@@ -1,11 +1,11 @@
 ---
-title: "Quelles sont les applications disponibles ? - SeaTable"
+title: 'Quelles sont les applications disponibles ?'
 date: 2023-05-02
-lastmod: "2024-05-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/fr/aide/welche-apps-gibt-es"
+lastmod: '2024-05-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/fr/aide/welche-apps-gibt-es'
 ---
 
 **Les Apps** de SeaTable sont des **frontaux** personnalisés destinés à des groupes d'utilisateurs spécifiques qui ont des besoins d'information différents (par ex. employés, chefs de service, directeurs). L'accès ouvert aux Apps vous permet de rendre vos données utilisables par **des tiers externes** (par ex. clients, partenaires commerciaux) **sans compte SeaTable**.

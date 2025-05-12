@@ -1,5 +1,5 @@
 ---
-title: 'Administración de usuarios y funciones de una aplicación universal - SeaTable'
+title: 'Administración de usuarios y funciones de una aplicación universal'
 date: 2023-05-02
 lastmod: '2024-12-13'
 categories:

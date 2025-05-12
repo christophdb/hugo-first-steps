@@ -1,11 +1,11 @@
 ---
-title: "Отдельные страницы в универсальных приложениях - SeaTable"
+title: 'Отдельные страницы в универсальных приложениях'
 date: 2023-12-08
-lastmod: "2025-02-26"
-categories: 
-  - "seitentypen-in-universellen-apps"
-author: "kgr"
-url: "/ru/help/individuelle-seiten-in-universellen-apps"
+lastmod: '2025-02-26'
+categories:
+    - 'seitentypen-in-universellen-apps'
+author: 'kgr'
+url: '/ru/help/individuelle-seiten-in-universellen-apps'
 ---
 
 С помощью этого типа страницы вы можете дать волю своему творчеству и создать **индивидуальную страницу** в соответствии с вашими пожеланиями. Добавьте на страницу **текст** и **изображения** или используйте **статистику** для создания содержательных **панелей** с данными из вашей базы.
@@ -156,7 +156,7 @@ url: "/ru/help/individuelle-seiten-in-universellen-apps"
 
 Существует особый тип статистики на отдельных страницах: **простая таблица** позволяет - подобно [страницам таблиц](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - отображать в табличном виде набор данных, предварительно отфильтрованных и отсортированных администратором приложения. В отличие от страницы таблицы, здесь можно объединить **несколько таблиц** на одной приборной панели.
 
-![Новый тип диаграммы &quot;Основная таблица&quot;](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Новый тип диаграммы "Основная таблица"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
 
 ## Установите цвет фона страницы
 

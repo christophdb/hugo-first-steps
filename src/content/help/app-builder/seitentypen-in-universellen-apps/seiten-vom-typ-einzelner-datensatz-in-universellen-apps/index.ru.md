@@ -1,5 +1,5 @@
 ---
-title: 'Страницы типа Единый набор данных в Universal Apps - SeaTable'
+title: 'Страницы типа Единый набор данных в Universal Apps'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:

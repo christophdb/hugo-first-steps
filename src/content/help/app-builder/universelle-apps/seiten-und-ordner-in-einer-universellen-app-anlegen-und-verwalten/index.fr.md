@@ -1,5 +1,5 @@
 ---
-title: 'Créer et gérer des pages et des dossiers dans une application universelle - SeaTable'
+title: 'Créer et gérer des pages et des dossiers dans une application universelle'
 date: 2023-05-04
 lastmod: '2024-12-13'
 categories:

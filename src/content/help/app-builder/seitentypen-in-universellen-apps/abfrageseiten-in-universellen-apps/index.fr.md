@@ -1,5 +1,5 @@
 ---
-title: 'Pages de requête dans les applications universelles - SeaTable'
+title: 'Pages de requête dans les applications universelles'
 date: 2023-12-08
 lastmod: '2025-02-27'
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Gestion des utilisateurs et des rôles d'une application universelle - SeaTable"
+title: "Gestion des utilisateurs et des rôles d'une application universelle"
 date: 2023-05-02
 lastmod: '2024-12-13'
 categories:

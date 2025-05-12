@@ -1,5 +1,5 @@
 ---
-title: 'Crear y gestionar páginas y carpetas en una aplicación universal - SeaTable'
+title: 'Crear y gestionar páginas y carpetas en una aplicación universal'
 date: 2023-05-04
 lastmod: '2024-12-13'
 categories:

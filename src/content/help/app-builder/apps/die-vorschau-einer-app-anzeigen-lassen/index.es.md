@@ -1,11 +1,11 @@
 ---
-title: "Mostrar la vista previa de una aplicación - SeaTable"
+title: 'Mostrar la vista previa de una aplicación'
 date: 2023-05-04
-lastmod: "2024-07-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/es/ayuda/die-vorschau-einer-app-anzeigen-lassen"
+lastmod: '2024-07-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/es/ayuda/die-vorschau-einer-app-anzeigen-lassen'
 ---
 
 Para que el diseño de tus aplicaciones sea óptimo, por supuesto debes **probarlas** antes de publicarlas. Para ver tus apps como las ven los usuarios, puedes **previsualizar** el estado de edición actual en cualquier momento o simplemente **abrir** las apps en modo normal.
