@@ -8,11 +8,11 @@ author: 'nsc2'
 url: '/de/hilfe/aktionen-rueckgaengig-machen'
 ---
 
-Aktionen können Sie in SeaTable auf zwei verschiedenen Wegen rückgängig machen. SeaTable unterstützt sowohl die bekannte Tastenkombination \[keybt\]STRG\[/keybt\]+\[keybt\]Z\[/keybt\] als auch eine entsprechende Option per Mausklick. Hier erfahren Sie, wie Sie Ihre letzten Arbeitsschritte und Eingaben rückgängig machen können:
+Aktionen können Sie in SeaTable auf zwei verschiedenen Wegen rückgängig machen. SeaTable unterstützt sowohl die bekannte Tastenkombination {{< keyboard "STRG" >}}+{{< keyboard "Z" >}} als auch eine entsprechende Option per Mausklick. Hier erfahren Sie, wie Sie Ihre letzten Arbeitsschritte und Eingaben rückgängig machen können:
 
 ## Aktionen per Tastenkombination rückgängig machen
 
-Wenn Sie sich gerade in der **Bearbeitung** einer **Base** oder **Tabelle** befinden und eine oder mehrere Eingaben rückgängig machen möchten, genügt es die Tastenkombination \[keybt\]STRG\[/keybt\]+\[keybt\]Z\[/keybt\] zu drücken. Jedes Mal, wenn Sie diese Tastenkombination eintippen, wird SeaTable Ihre letzte **Änderung** **rückgängig** machen.
+Wenn Sie sich gerade in der **Bearbeitung** einer **Base** oder **Tabelle** befinden und eine oder mehrere Eingaben rückgängig machen möchten, genügt es die Tastenkombination {{< keyboard "STRG" >}}+{{< keyboard "Z" >}} zu drücken. Jedes Mal, wenn Sie diese Tastenkombination eintippen, wird SeaTable Ihre letzte **Änderung** **rückgängig** machen.
 
 ## Aktionen per Mausklick rückgängig machen
 

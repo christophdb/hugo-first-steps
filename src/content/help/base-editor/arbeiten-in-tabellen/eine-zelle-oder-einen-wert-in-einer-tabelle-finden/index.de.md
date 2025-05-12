@@ -1,11 +1,11 @@
 ---
-title: "Eine Zelle oder einen Wert in einer Tabelle finden"
+title: 'Eine Zelle oder einen Wert in einer Tabelle finden'
 date: 2022-10-11
-lastmod: "2023-08-16"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/de/hilfe/eine-zelle-oder-einen-wert-in-einer-tabelle-finden"
+lastmod: '2023-08-16'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/de/hilfe/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
 ---
 
 Tabellen in SeaTable können Tausende von Datensätzen enthalten. Damit Sie einzelne Zellen bzw. Werte trotzdem schnell und einfach finden können, gibt es in SeaTable die Möglichkeit, nach einzelnen Werten und Begriffen zu suchen.
@@ -25,4 +25,4 @@ Tabellen in SeaTable können Tausende von Datensätzen enthalten. Damit Sie einz
 Die Suche von SeaTable bietet noch zwei Funktionen, die wir Ihnen natürlich nicht vorenthalten wollen:
 
 - Wenn Sie nach einem Klick auf die Lupe auf **Alle Tabellen durchsuchen** unter dem Suchfeld klicken, öffnet sich ein Fenster, in dem Sie **alle** zur Base gehörenden **Tabellen** nach Ihrem eingegebenen Begriff bzw. Wert durchsuchen können.
-- Natürlich unterstützt SeaTable auch die Tastenkombination \[keybt\]STRG\[/keybt\] + \[keybt\]F\[/keybt\], um das Suchfeld zu aktivieren.
+- Natürlich unterstützt SeaTable auch die Tastenkombination {{< keyboard "STRG" >}} + {{< keyboard "F" >}}, um das Suchfeld zu aktivieren.

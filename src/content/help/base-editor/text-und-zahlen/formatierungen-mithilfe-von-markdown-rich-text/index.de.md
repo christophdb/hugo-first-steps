@@ -26,7 +26,7 @@ Sobald Markdown in SeaTable zum Einsatz kommt, wird Ihnen die folgende Eingabema
 
 ![Markdown in SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
 
-Alternativ können Sie aber auch unmittelbar durch die Eingabe von gewissen Sonderzeichen die Markdown-Formatierung auslösen. Tippen Sie doch einfach mal in einem Markdown-Eingabefeld eine \[keybt\]#\[/keybt\] gefolgt von einem Wort ein. Sie werden sehen, dass die Raute in der Markdown-Syntax für eine erste Überschrift steht. Wenn Sie also wissen, welches Sonderzeichen welche Formatierung auslöst, können Sie deutlich schneller Ihre Texte erfassen und formatieren.
+Alternativ können Sie aber auch unmittelbar durch die Eingabe von gewissen Sonderzeichen die Markdown-Formatierung auslösen. Tippen Sie doch einfach mal in einem Markdown-Eingabefeld eine {{< keyboard "#" >}} gefolgt von einem Wort ein. Sie werden sehen, dass die Raute in der Markdown-Syntax für eine erste Überschrift steht. Wenn Sie also wissen, welches Sonderzeichen welche Formatierung auslöst, können Sie deutlich schneller Ihre Texte erfassen und formatieren.
 
 Aktuell können Sie nur einen Teil der Formatierung durch ein Sonderzeichen auslösen. Welche dies sind, erfahren Sie in diesem Artikel.
 
@@ -38,7 +38,7 @@ Derzeit können Sie in SeaTable die folgenden Syntax-Optionen per Sonderzeichen 
 
 ### Überschriften
 
-Eine Zeile, die mit einem bis drei \[keybt\]#\[/keybt\]-Zeichen beginnt, gefolgt von einem Leerzeichen, ergibt eine **Überschrift** der ersten bis dritten Ebene.
+Eine Zeile, die mit einem bis drei {{< keyboard "#" >}}-Zeichen beginnt, gefolgt von einem Leerzeichen, ergibt eine **Überschrift** der ersten bis dritten Ebene.
 
 **Markdown-Syntax**
 
@@ -50,7 +50,7 @@ Eine Zeile, die mit einem bis drei \[keybt\]#\[/keybt\]-Zeichen beginnt, gefolgt
 
 ### Fett und kursiv
 
-Text, der von einem \[keybt\]\*\[/keybt\] oder \[keybt\]\_\[/keybt\] Paar umgeben ist, wird **kursiv** formatiert (was in Markdown eine Betonung bedeutet); Text, der von einem doppelten \[keybt\]\*\*\[/keybt\] oder \[keybt\]\_ \_\[/keybt\] Paar umgeben ist, wird **fett** formatiert (was in Markdown eine starke Betonung bedeutet). Die Formatierungen können auch mit anderen Inline-Formaten kombiniert werden.
+Text, der von einem {{< keyboard "\*" >}} oder {{< keyboard "\_" >}} Paar umgeben ist, wird **kursiv** formatiert (was in Markdown eine Betonung bedeutet); Text, der von einem doppelten {{< keyboard "\*\*" >}} oder {{< keyboard "\_ \_" >}} Paar umgeben ist, wird **fett** formatiert (was in Markdown eine starke Betonung bedeutet). Die Formatierungen können auch mit anderen Inline-Formaten kombiniert werden.
 
 **Markdown-Syntax**
 
@@ -70,19 +70,19 @@ _**Combine them for bold italic**_
 
 ### Unsortierte Liste
 
-Sie können entweder \[keybt\]-\[/keybt\] oder \[keybt\]\*\[/keybt\] als Markierung für eine **unsortierte Liste** verwenden.
+Sie können entweder {{< keyboard "-" >}} oder {{< keyboard "\*" >}} als Markierung für eine **unsortierte Liste** verwenden.
 
 ![Ergebnis der Markdown Syntax Unsortierte Liste](images/result-unordered-list-syntax-1.png)
 
 ### Sortierte Liste
 
-Beginnt eine Zeile mit einer \[keybt\]1.\[/keybt\], wird sie automatisch in eine **sortierte Liste** umgewandelt.
+Beginnt eine Zeile mit einer {{< keyboard "1." >}}, wird sie automatisch in eine **sortierte Liste** umgewandelt.
 
 1\. Item 1 2. Item 2
 
 ### Blockzitate
 
-Ein **Blockzitat** ist eine Zeile, die mit \[keybt\]>\[/keybt\] beginnt und auf die dann der Inhalt des Zitats folgt. Zitate sind durch eine Einrückung und einen Rahmen am linken Rand gekennzeichnet.
+Ein **Blockzitat** ist eine Zeile, die mit {{< keyboard ">" >}} beginnt und auf die dann der Inhalt des Zitats folgt. Zitate sind durch eine Einrückung und einen Rahmen am linken Rand gekennzeichnet.
 
 ![Markdown Zitat](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
 
@@ -100,14 +100,14 @@ Ein **Code-Block** wird durch drei aufeinanderfolgende **Backticks** {{< keyboar
 
 ### Zeilenumbrüche
 
-Jeder Zeilenumbruch \[keybt\]↵\[/keybt\] wird wie ein harter Zeilenumbruch mit Abstand zwischen den beiden Zeilen behandelt. Ein Zeilenumbruch ohne Abstand zwischen den einzelnen Zeilen ist nicht möglich. Auch **mehrere Zeilenumbrüche** hintereinander werden entfernt und auf einen einfachen Zeilenumbruch reduziert.
+Jeder Zeilenumbruch {{< keyboard "↵" >}} wird wie ein harter Zeilenumbruch mit Abstand zwischen den beiden Zeilen behandelt. Ein Zeilenumbruch ohne Abstand zwischen den einzelnen Zeilen ist nicht möglich. Auch **mehrere Zeilenumbrüche** hintereinander werden entfernt und auf einen einfachen Zeilenumbruch reduziert.
 
 ## Formatierungen, die Sie nicht durch Sonderzeichen aktivieren können
 
-**Checkboxen** werden typischerweise in Markdown durch ein \[keybt\]\[ \]\[/keybt\] oder ein \[keybt\]\[x\]\[/keybt\] erfasst. Diese Eingabe wird jedoch nicht automatisch in eine Checkbox umgewandelt. Stattdessen müssen Sie das kleine Checkbox-Icon {{< seatable-icon icon="dtable-icon-check-square" >}} anklicken.
+**Checkboxen** werden typischerweise in Markdown durch ein {{< keyboard "\[ \]" >}} oder ein {{< keyboard "\[x\]" >}} erfasst. Diese Eingabe wird jedoch nicht automatisch in eine Checkbox umgewandelt. Stattdessen müssen Sie das kleine Checkbox-Icon {{< seatable-icon icon="dtable-icon-check-square" >}} anklicken.
 
 Auch **Hyperlinks** werden in SeaTable Markdown unterstützt, können aber nur über das Icon {{< seatable-icon icon="icon-link" >}} eingefügt werden.
 
 ## Nicht unterstützte Formatierungen
 
-\[keybt\]~~strikethrough~~\[/keybt\] wird von SeaTable nicht unterstützt. Auch doppelte Zeilenumbrüche werden entfernt und ein \[keybt\]<br>\[/keybt\] wird nicht als zusätzlicher Zeilenumbruch interpretiert.
+{{< keyboard "~~strikethrough~~" >}} wird von SeaTable nicht unterstützt. Auch doppelte Zeilenumbrüche werden entfernt und ein {{< keyboard "<br>" >}} wird nicht als zusätzlicher Zeilenumbruch interpretiert.

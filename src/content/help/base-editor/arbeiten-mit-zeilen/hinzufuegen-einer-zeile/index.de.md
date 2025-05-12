@@ -1,11 +1,11 @@
 ---
-title: "Hinzufügen einer Zeile"
+title: 'Hinzufügen einer Zeile'
 date: 2022-10-14
-lastmod: "2023-03-01"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/de/hilfe/hinzufuegen-einer-zeile"
+lastmod: '2023-03-01'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/de/hilfe/hinzufuegen-einer-zeile'
 ---
 
 Es gibt in SeaTable mehrere Möglichkeiten, eine **neue Zeile** hinzuzufügen. Die verschiedenen Möglichkeiten werden Sie in diesem Artikel kennenlernen.
@@ -20,7 +20,7 @@ Die zweite Möglichkeit, eine neue Zeile einzufügen, besteht darin, mit der **r
 
 ![Zeilen über das Kontextmenü einfügen](images/Zeilen-ueber-das-Kontextmenue-einfuegen.png)
 
-Um schnell **mehrere neue Zeilen** hinzuzufügen, können Sie auch die Tastenkombination \[keybt\]Shift\[/keybt\] + \[keybt\]Enter\[/keybt\] verwenden. Klicken Sie zunächst auf eine **Zeile**, unter der Sie neue Zeilen einfügen wollen. Halten Sie dann die **Umschalttaste** gedrückt und drücken Sie mehrmals die **Eingabetaste**, um schnell leere Zeilen hinzuzufügen.
+Um schnell **mehrere neue Zeilen** hinzuzufügen, können Sie auch die Tastenkombination {{< keyboard "Shift" >}} + {{< keyboard "Enter" >}} verwenden. Klicken Sie zunächst auf eine **Zeile**, unter der Sie neue Zeilen einfügen wollen. Halten Sie dann die **Umschalttaste** gedrückt und drücken Sie mehrmals die **Eingabetaste**, um schnell leere Zeilen hinzuzufügen.
 
 ![Neue Zeile per Shortcut hinzufügen](images/create-new-row-shortcut.gif)
 

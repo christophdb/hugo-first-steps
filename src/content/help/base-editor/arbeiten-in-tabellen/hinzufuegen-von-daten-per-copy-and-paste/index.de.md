@@ -1,18 +1,18 @@
 ---
-title: "Hinzufügen von Daten per Copy-and-Paste"
+title: 'Hinzufügen von Daten per Copy-and-Paste'
 date: 2022-10-15
-lastmod: "2022-12-30"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "vge"
-url: "/de/hilfe/hinzufuegen-von-daten-per-copy-and-paste"
+lastmod: '2022-12-30'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'vge'
+url: '/de/hilfe/hinzufuegen-von-daten-per-copy-and-paste'
 ---
 
-SeaTable kennt die beliebten Tastenkombinationen \[keybt\]Strg\[/keybt\]+\[keybt\]C\[/keybt\] und \[keybt\]Strg\[/keybt\]+\[keybt\]V\[/keybt\] für das Kopieren und Einfügen von Daten. Dies funktioniert sowohl mit Daten, die Sie innerhalb von SeaTable kopieren wollen, als auch mit Daten, die Sie in SeaTable einfügen wollen.
+SeaTable kennt die beliebten Tastenkombinationen {{< keyboard "Strg" >}}+{{< keyboard "C" >}} und {{< keyboard "Strg" >}}+{{< keyboard "V" >}} für das Kopieren und Einfügen von Daten. Dies funktioniert sowohl mit Daten, die Sie innerhalb von SeaTable kopieren wollen, als auch mit Daten, die Sie in SeaTable einfügen wollen.
 
 ## Daten per Copy-and-Paste kopieren
 
-Markieren Sie in einem Texteditor oder einer Tabellenkalkulation die Werte, die Sie in SeaTable hineinkopieren wollen. Kopieren Sie die Werte mit \[keybt\]Strg\[/keybt\]+\[keybt\]C\[/keybt\] und wechseln Sie in eine SeaTable Tabelle. Markieren Sie dort eine Zelle und fügen Sie die Werte mit \[keybt\]Strg\[/keybt\]+\[keybt\]V\[/keybt\] ein.
+Markieren Sie in einem Texteditor oder einer Tabellenkalkulation die Werte, die Sie in SeaTable hineinkopieren wollen. Kopieren Sie die Werte mit {{< keyboard "Strg" >}}+{{< keyboard "C" >}} und wechseln Sie in eine SeaTable Tabelle. Markieren Sie dort eine Zelle und fügen Sie die Werte mit {{< keyboard "Strg" >}}+{{< keyboard "V" >}} ein.
 
 Hierbei ist zu beachten, dass Copy-and-Paste _nicht_ funktioniert, wenn die **Formate** der kopierten Daten nicht mit denen des Spaltentyps der einzufügenden Zellen übereinstimmen.
 

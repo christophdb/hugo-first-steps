@@ -41,7 +41,7 @@ Um überhaupt Verknüpfungen anlegen zu können, benötigen wir eine zweite Tabe
 
 Um die Datensätze in beiden Tabellen nun miteinander zu verknüpfen, haben Sie zwei Möglichkeiten:
 
-1. Sie können einem Eintrag in der Tabelle `Expenses` manuell eine Zeile aus der Tabelle `Categories` zuweisen, in dem Sie innerhalb der Zelle auf das \[keybt\]+\[/keybt\] klicken und dann die passende Kategorie auswählen. Dies wird bei größeren Datenmengen schnell mühsam und fehleranfällig. ![](images/level1-link-rows.png)
+1. Sie können einem Eintrag in der Tabelle `Expenses` manuell eine Zeile aus der Tabelle `Categories` zuweisen, in dem Sie innerhalb der Zelle auf das {{< keyboard "+" >}} klicken und dann die passende Kategorie auswählen. Dies wird bei größeren Datenmengen schnell mühsam und fehleranfällig. ![](images/level1-link-rows.png)
 2. Alternativ können Sie die [Datenverarbeitungsoptionen](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) von SeaTable verwenden, um das Setzen der Verknüpfungen zu automatisieren. ![](images/level1-data-operation.png)
 
 ### Zellen per Datenverarbeitungsoperation verknüpfen

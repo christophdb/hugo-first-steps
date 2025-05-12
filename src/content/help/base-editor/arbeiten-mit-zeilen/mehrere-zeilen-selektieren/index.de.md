@@ -1,11 +1,11 @@
 ---
-title: "Mehrere Zeilen selektieren"
+title: 'Mehrere Zeilen selektieren'
 date: 2022-10-10
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "cdb"
-url: "/de/hilfe/mehrere-zeilen-selektieren"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'cdb'
+url: '/de/hilfe/mehrere-zeilen-selektieren'
 ---
 
 Es kommt sicher vor, dass Sie **mehrere Zeilen** gleichzeitig [kopieren](https://seatable.io/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/), [löschen](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) oder für die Bearbeitung [sperren](https://seatable.io/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) möchten. Um diese Aktionen durchzuführen, müssen Sie die gewünschten Zeilen vorher **auswählen**.
@@ -18,7 +18,7 @@ Die offensichtlichste Option, um mehrere Zeilen auszuwählen, besteht darin, ein
 
 ## Option 2: Anfang und Ende der Zeilenauswahl definieren
 
-Anstatt Zeile für Zeile zu markieren, können Sie auch einen **zusammenhängenden Abschnitt** zwischen zwei Zeilen auswählen. Dazu setzen Sie erst ein Häkchen bei der einen Zeile und dann mit gedrückter \[keybt\]Shift\[/keybt\]-Taste bei einer anderen Zeile. SeaTable markiert dann alle Zeilen zwischen dem gewählten Anfang und Ende.
+Anstatt Zeile für Zeile zu markieren, können Sie auch einen **zusammenhängenden Abschnitt** zwischen zwei Zeilen auswählen. Dazu setzen Sie erst ein Häkchen bei der einen Zeile und dann mit gedrückter {{< keyboard "Shift" >}}-Taste bei einer anderen Zeile. SeaTable markiert dann alle Zeilen zwischen dem gewählten Anfang und Ende.
 
 ## Option 3: Alle Zeilen auf einmal markieren
 

@@ -5,5 +5,3 @@ weight: 7
 url: '/help/scripts'
 icon: 'code'
 ---
-
-Hier kann content hin... Oder eine Grafik oder was auch immer...

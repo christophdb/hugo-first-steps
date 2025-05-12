@@ -58,7 +58,7 @@ For example: If on an English keyboard the key combination {{< keyboard "Ctrl" >
 | -------------------------- | --------------------------- |
 | {{< keyboard "?" >}}       | {{< keyboard "#" >}}        |
 | {{< keyboard "Ctrl" >}}    | {{< keyboard "Ctrl" >}}     |
-| {{< keyboard "Shift" >}}   |       {{< keyboard "⇑" >}}  |
+| {{< keyboard "Shift" >}}   | {{< keyboard "⇑" >}}        |
 | {{< keyboard ";" >}}       | {{< keyboard "Ö" >}}        |
 | {{< keyboard "'" >}}       | {{< keyboard "Ä" >}}        |
 | {{< keyboard "Space" >}}   | {{< keyboard "Space" >}}    |
