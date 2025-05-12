@@ -40,11 +40,20 @@ Anschließend können Sie bestimmte **Konstanten**, **Operanden** und **Funktion
 
 Um die verschiedenen Elemente Ihrer Formel voneinander unterscheiden zu können, werden diese je nach Typ in einer unterschiedlichen **Farbe** markiert:
 
-\[table id=54 /\]
+| Objekt            | Example                                                                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Funktionen        | ![Functions are always marked blue in a formula](https://seatable.io/wp-content/uploads/2023/01/example-function.png)                       |
+| Text / String     | ![Texts and strings are always marked in red in the formula editor](https://seatable.io/wp-content/uploads/2023/01/example-text.png)        |
+| Zahlen            | ![Numbers are always highlighted in green in the formula editor](https://seatable.io/wp-content/uploads/2023/01/example-number.png)         |
+| Spaltenreferenzen | ![Column references are always marked purple in a formula ](https://seatable.io/wp-content/uploads/2023/01/example-reference-to-column.png) |
 
-{{< warning headline="Zusammengehörende Klammern werden hervorgehoben" text="Wenn Sie im Formeleditor auf eine öffnende oder schließende Klammer klicken, wird die dazugehörige Klammer ebenfalls hervorgehoben. So können Sie einfacher fehlende oder falsche Klammersetzungen erkennen." />}}
+{{< warning headline="Zusammengehörende Klammern werden hervorgehoben" >}}
+
+Wenn Sie im Formeleditor auf eine öffnende oder schließende Klammer klicken, wird die dazugehörige Klammer ebenfalls hervorgehoben. So können Sie einfacher fehlende oder falsche Klammersetzungen erkennen.
 
 ![Öffnende und schließende Klammern werden im Formeleditor immer hervorgehoben](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+
+{{< /warning >}}
 
 ## Formelbeispiele
 
