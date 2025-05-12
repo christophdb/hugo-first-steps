@@ -14,13 +14,13 @@ Wenn Sie einen **Standardwert** für eine Spalte festlegen, wird dieser **automa
 
 ![Standardwert für eine Spalte festlegen](images/Standardwert-festlegen.gif)
 
-1. Klicken Sie auf das dreieckige **Drop-down-Symbol** \[icon c="grey"\]dtable-icon-drop-down\[/icon\] rechts neben dem Namen der Spalte, für die Sie einen Standardwert definieren möchten.
+1. Klicken Sie auf das dreieckige **Drop-down-Symbol** {{< seatable-icon icon="dtable-icon-drop-down"  >}} rechts neben dem Namen der Spalte, für die Sie einen Standardwert definieren möchten.
 2. Wählen Sie die Option **Standardwert festlegen**.
 3. Geben Sie den gewünschten **Standardwert** ein. Je nach Spaltentyp haben Sie verschiedene Möglichkeiten zur Auswahl.
 4. Bestätigen Sie den Vorgang mit der **Enter-Taste** oder einem **Klick** außerhalb des Dialogfensters.
 5. Wenn Sie nun eine **neue Zeile anlegen**, trägt SeaTable automatisch die entsprechenden Werte ein. Anschließend können Sie die Daten wie gewohnt **anpassen**.
 
-{{< warning  type="warning" headline="Achtung"  text="Standardwerte finden **universelle** Anwendung bei der Anlage neuer Zeilen, d.h. auch Zeilen, die über eine automatisierte oder Schaltflächen-Aktion erstellt werden, enthalten die Standardwerte." />}}
+{{< warning type="warning" headline="Achtung" text="Standardwerte finden **universelle** Anwendung bei der Anlage neuer Zeilen, d.h. auch Zeilen, die über eine automatisierte oder Schaltflächen-Aktion erstellt werden, enthalten die Standardwerte." />}}
 
 Zudem können Sie bereits beim [Anlegen einer neuen Spalte](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) direkt einen Standardwert festlegen.
 
@@ -30,7 +30,32 @@ Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in Sea
 
 **Hier eine Übersicht, für welche Spaltentypen Sie Standardwerte festlegen können:**
 
-\[table id=64 /\]
+| Spaltentyp             | unterstützt Standardwerte                                     |
+| ---------------------- | ------------------------------------------------------------- |
+| Automatische Nummer    | {{< icon "circle-xmark" >}}                                   |
+| Bild                   | {{< icon "circle-xmark" >}}                                   |
+| Checkbox               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Datei                  | {{< icon "circle-xmark" >}}                                   |
+| Datum                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Dauer                  | {{< icon "circle-xmark" >}}                                   |
+| Einfachauswahl         | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| E-Mail                 | {{< icon "circle-xmark" >}}                                   |
+| Ersteller              | {{< icon "circle-xmark" >}}                                   |
+| Erstellt               | {{< icon "circle-xmark" >}}                                   |
+| Formatierter Text      | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Formel                 | {{< icon "circle-xmark" >}}                                   |
+| Formel für Verknüpfung | {{< icon "circle-xmark" >}}                                   |
+| Geoposition            | {{< icon "circle-xmark" >}}                                   |
+| Letzter Bearbeiter     | {{< icon "circle-xmark" >}}                                   |
+| Mehrfachauswahl        | {{< icon "circle-xmark" >}}                                   |
+| Mitarbeiter            | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Rating                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Schaltfläche           | {{< icon "circle-xmark" >}}                                   |
+| Signatur               | {{< icon "circle-xmark" >}}                                   |
+| Text                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                    | {{< icon "circle-xmark" >}}                                   |
+| Zahl                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Zuletzt bearbeitet     | {{< icon "circle-xmark" >}}                                   |
 
 ## Referenzierte Standardwerte in Text-Spalten
 

@@ -184,8 +184,10 @@
     @apply whitespace-nowrap text-gray-900;
 }
 
-.post-content code:not([data-lang='js']) {
-    /*@apply bg-gray-200 text-gray-700;*/
+.post-content code:not([data-lang='js']),
+.post-content code:not([data-lang='python']),
+.post-content code:not([data-lang='bash']) {
+    @apply bg-gray-200 text-gray-700;
 }
 .post-content code {
     @apply rounded-md px-2 py-1 font-robotoMono text-sm;

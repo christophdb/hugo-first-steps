@@ -1,1 +1,9 @@
-<span class="dtable-font {{ .Get "icon" }}"></span>
+{{ $icon := "" }}
+{{ if .IsNamedParams }}
+    {{ $icon = .Get "icon" }}
+{{ else }}
+    {{ $icon = .Get 0 }}
+{{ end }}
+
+
+<span class="dtable-font {{ $icon }}"></span>

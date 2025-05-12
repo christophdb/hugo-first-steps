@@ -82,14 +82,14 @@ Mit Markdown können auch Tabellen geschrieben werden.
 | ------------------- | --------------------- | --------------------- | ----------- |
 | **Art des Service** | Infrastruktur         | Entwicklungsplattform | Software    |
 | **Zielgruppe**      | Systemadministratoren | Software-Entwickler   | Nutzer      |
-| **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | CRM-Systeme |
+| **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | {{</* icon "circle-check" */>}} |
 ```
 
-|                     | **IaaS**              | **PaaS**              | **SaaS**    |
-| ------------------- | --------------------- | --------------------- | ----------- |
-| **Art des Service** | Infrastruktur         | Entwicklungsplattform | Software    |
-| **Zielgruppe**      | Systemadministratoren | Software-Entwickler   | Nutzer      |
-| **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | CRM-Systeme |
+|                     | **IaaS**              | **PaaS**              | **SaaS**                    |
+| ------------------- | --------------------- | --------------------- | --------------------------- |
+| **Art des Service** | Infrastruktur         | Entwicklungsplattform | Software                    |
+| **Zielgruppe**      | Systemadministratoren | Software-Entwickler   | Nutzer                      |
+| **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | {{< icon "circle-check" >}} |
 
 ## SeaTable Templates
 
@@ -177,10 +177,12 @@ Warn-Hinweise können auf zwei verschiedene Arten geschreiben werden. Bei einfac
 ### Kurzschreibweise
 
 ```
-{{</* warning headline="Die Headline" text="**Text** mit Markdown Formatierung." *//>}}
+{{</* warning headline="Die Headline" text="**Text** mit Markdown Formatierung." /*/>}}
 ```
 
 {{< warning headline="Die Headline" text="**Text** mit Markdown Formatierung." />}}
+
+Wichtig: Dieser Shortcode verlangt zwingend ein `/` am Ende bei `/>}}`.
 
 ### Langschreibweise
 
@@ -235,6 +237,24 @@ Hier die gesamte Übersicht:
 
 - ...
 - ...
+
+## Icons
+
+In den Blogbeiträgen oder Hilfeseiten können die Icons wie z.B. {{< icon "circle-xmark" >}} mit dem folgenden Shortcode eingebunden werden. Dies funktioniert auch in Tabellen.
+
+```
+{{</* icon "circle-xmark" */>}}
+{{</* icon icon="circle-check" class="text-seatable-orange" */>}}
+```
+
+## SeaTable Icons
+
+Die Icons der SeaTable Benutzeroberfläche wie z.B. {{< seatable-icon "dtable-icon-filter" >}} können im Fließtext eingebunden werden.
+Die Namen des Icon kann man über die Entwicklertools des Browsers herausfinden.
+
+```
+{{</* seatable-icon "dtable-icon-filter" */>}}
+```
 
 ## Verfügbar mit
 

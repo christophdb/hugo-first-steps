@@ -39,7 +39,7 @@ Selbstverständlich zahlen Sie bei jeder Änderung auch nur den jeweiligen **ant
 
 ## Aktuelles Abo anpassen
 
-{{< warning  headline="Wichtiger Hinweis"  text="Das Abo-Paket Ihres Teams kann ausschließlich von den **Team-Administratoren** geändert werden." />}}
+{{< warning headline="Wichtiger Hinweis" text="Das Abo-Paket Ihres Teams kann ausschließlich von den **Team-Administratoren** geändert werden." />}}
 
 1. Öffnen Sie die **Teamverwaltung**.
 2. Wechseln Sie in den Bereich **Abonnement**.
