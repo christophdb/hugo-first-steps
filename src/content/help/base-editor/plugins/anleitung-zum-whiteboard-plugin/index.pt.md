@@ -60,7 +60,7 @@ Pode utilizar a ferramenta de imagem para inserir imagens do seu dispositivo no 
 
 ### Borracha
 
-Pode utilizar esta ferramenta para apagar vários elementos da tela de uma só vez. Mantenha premido o botão esquerdo do rato enquanto move a borracha sobre os elementos a apagar. Se, por outro lado, se deslocar sobre os elementos e simultaneamente {{< keyboard "VELHO" >}} os elementos são poupados à eliminação ou a seleção para eliminação é anulada.
+Pode utilizar esta ferramenta para apagar vários elementos da tela de uma só vez. Mantenha premido o botão esquerdo do rato enquanto move a borracha sobre os elementos a apagar. Se, por outro lado, se deslocar sobre os elementos e simultaneamente {{< key "VELHO" >}} os elementos são poupados à eliminação ou a seleção para eliminação é anulada.
 
 ![Apagador no plugin do quadro branco](images/Eraser-tool.gif)
 
@@ -130,17 +130,17 @@ Utilize a **ferramenta de seleção** para clicar no elemento que pretende perso
 
 ![Mover, rodar, ampliar e reduzir elementos](images/Elemente-verschieben-drehen-vergroessern-und-verkleinern.gif)
 
-Pode utilizar os ícones de seta no canto inferior esquerdo do ecrã para **anular** ou **Restaurar**. Também pode utilizar os atalhos conhecidos {{< keyboard "Ctrl" >}}+{{< keyboard "Z" >}} e {{< keyboard "Ctrl" >}}+{{< keyboard "Shift" >}}+{{< keyboard "Z" >}} utilizar.
+Pode utilizar os ícones de seta no canto inferior esquerdo do ecrã para **anular** ou **Restaurar**. Também pode utilizar os atalhos conhecidos {{< key "Ctrl" >}}+{{< key "Z" >}} e {{< key "Ctrl" >}}+{{< key "Shift" >}}+{{< key "Z" >}} utilizar.
 
 Também pode alterar o **nível de zoom** da tela utilizando os ícones de mais e menos. No entanto, isto apenas altera o tamanho da secção visível e não o tamanho dos elementos.
 
 ### Duplicar, cortar, copiar e colar elementos
 
-Existem três formas de duplicar um elemento: Ou clica no botão **Símbolo duplicado** ou clicar com o botão direito do rato no elemento e selecionar **Duplicado** ou pode utilizar o **Atalho** {{< keyboard "Ctrl" >}}+{{< keyboard "D" >}}.
+Existem três formas de duplicar um elemento: Ou clica no botão **Símbolo duplicado** ou clicar com o botão direito do rato no elemento e selecionar **Duplicado** ou pode utilizar o **Atalho** {{< key "Ctrl" >}}+{{< key "D" >}}.
 
 ![Duplicar, cortar e colar elementos](images/Elemente-duplizieren-ausschneiden-und-einfuegen.gif)
 
-Para cortar, copiar ou colar um elemento, pode clicar com o botão direito do rato sobre o elemento e selecionar o elemento pretendido no menu **Menu de contexto** selecionar a opção adequada ou utilizar o **Atalhos** {{< keyboard "Ctrl" >}}+{{< keyboard "X" >}}, {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} e {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} utilizar.
+Para cortar, copiar ou colar um elemento, pode clicar com o botão direito do rato sobre o elemento e selecionar o elemento pretendido no menu **Menu de contexto** selecionar a opção adequada ou utilizar o **Atalhos** {{< key "Ctrl" >}}+{{< key "X" >}}, {{< key "Ctrl" >}}+{{< key "C" >}} e {{< key "Ctrl" >}}+{{< key "V" >}} utilizar.
 
 ![Opções para copiar elementos](images/Optionen-zum-Kopieren-von-Elementen.png)
 
@@ -164,7 +164,7 @@ Se pretender espelhar elementos, clique com o botão direito do rato no elemento
 
 ### Elementos de ligação
 
-Gostaria de adicionar elementos (por exemplo, botões, imagens ou texto) ao seu desenho que ligam a sítios Web específicos? Então, basta ligar os elementos inserindo um URL. Para o fazer, clique nas definições do elemento no ecrã **Símbolo de corrente** ou clicar com o botão direito do rato no elemento antes de selecionar **Criar ligação** ou utilizar o atalho {{< keyboard "Ctrl" >}}+{{< keyboard "K" >}}.
+Gostaria de adicionar elementos (por exemplo, botões, imagens ou texto) ao seu desenho que ligam a sítios Web específicos? Então, basta ligar os elementos inserindo um URL. Para o fazer, clique nas definições do elemento no ecrã **Símbolo de corrente** ou clicar com o botão direito do rato no elemento antes de selecionar **Criar ligação** ou utilizar o atalho {{< key "Ctrl" >}}+{{< key "K" >}}.
 
 ![Elementos de ligação](images/Elemente-verlinken.gif)
 
@@ -178,7 +178,7 @@ Se quiser trabalhar na tela sem mover ou alterar acidentalmente determinados ele
 
 ### Eliminar elementos
 
-Se pretender eliminar um elemento, existem várias opções: Ou clica no botão **Ícone do lixo** ou clicar com o botão direito do rato no elemento e selecionar **Eliminar** ou utilizar os botões {{< keyboard "Retrocesso" >}} ou {{< keyboard "Del" >}}.
+Se pretender eliminar um elemento, existem várias opções: Ou clica no botão **Ícone do lixo** ou clicar com o botão direito do rato no elemento e selecionar **Eliminar** ou utilizar os botões {{< key "Retrocesso" >}} ou {{< key "Del" >}}.
 
 Para remover vários elementos da tela de forma rápida e precisa, também pode utilizar a **borracha** da barra de ferramentas.
 

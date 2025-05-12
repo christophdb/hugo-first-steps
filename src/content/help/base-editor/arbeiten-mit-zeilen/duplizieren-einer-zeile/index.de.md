@@ -18,8 +18,8 @@ Klicken Sie mit der rechten Maustaste auf eine Zeile und wählen Sie die Option 
 
 ## Mehrfaches Duplizieren einer Zeile
 
-Wenn Sie eine Zeile mehrfach duplizieren möchten, können Sie dies einfach mit dem sogenannten Füllgriff tun. Erstellen Sie zuerst die gewünschte Anzahl an leeren Zeilen, z. B. mit der Tastenkombination {{< keyboard "SHIFT" >}}+{{< keyboard "ENTER" >}}. Anschließend markieren Sie die gewünschte Zeile und ziehen diese an dem **kleinen Quadrat** in der rechten unteren Ecke der letzten markierten Zelle nach unten, um die gewünschten Kopien zu erstellen.
+Wenn Sie eine Zeile mehrfach duplizieren möchten, können Sie dies einfach mit dem sogenannten Füllgriff tun. Erstellen Sie zuerst die gewünschte Anzahl an leeren Zeilen, z. B. mit der Tastenkombination {{< key "SHIFT" >}}+{{< key "ENTER" >}}. Anschließend markieren Sie die gewünschte Zeile und ziehen diese an dem **kleinen Quadrat** in der rechten unteren Ecke der letzten markierten Zelle nach unten, um die gewünschten Kopien zu erstellen.
 
 ![Zeilen mit dem Ziehgriff duplizieren](images/duplicate-row-with-handle.gif)
 
-Anstelle des Füllgriffs können Sie die Daten auch mithilfe des bekannten Tastenkürzels {{< keyboard "STRG" >}}+{{< keyboard "C" >}} und {{< keyboard "STRG" >}}+{{< keyboard "V" >}} kopieren.
+Anstelle des Füllgriffs können Sie die Daten auch mithilfe des bekannten Tastenkürzels {{< key "STRG" >}}+{{< key "C" >}} und {{< key "STRG" >}}+{{< key "V" >}} kopieren.

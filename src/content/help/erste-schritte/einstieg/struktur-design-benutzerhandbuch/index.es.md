@@ -131,7 +131,7 @@ Um auf den Grafiken noch Pfeile, Rahmen oder Texte zu platzieren, empfehle ich d
 Videos kommen dann zum Einsatz, wenn ein einfaches Bild nicht ausreicht, um eine Funktion zu zeigen. Tatsächlich drehen wir keine Videos, sondern verwenden animierte GIFs. Unter Linux verwenden wir hierfür die Software [Peek](https://github.com/phw/peek), unter Windows die Software [Licecap](https://www.cockos.com/licecap/). Ansonsten gelten die gleichen Vorgaben wie bei Grafiken mit folgenden Ergänzungen:
 
 - Der Mauszeiger wird mit aufgenommen.
-- Starte und stoppe die Aufnahme am besten mit einem Shortcut (z. B. {{< keyboard "F3" >}} bei Peek), damit der Mauszeiger nicht aus dem Bild fahren muss.
+- Starte und stoppe die Aufnahme am besten mit einem Shortcut (z. B. {{< key "F3" >}} bei Peek), damit der Mauszeiger nicht aus dem Bild fahren muss.
 - Atme am Anfang und Ende des Videos einmal tief durch. Das ist die Dauer, die das Video stillstehen sollte.
 - Mach langsame und konsequente Mausbewegungen.
 - Überlege genau, was du mit dem Video zeigen willst. Lieber weniger als zu viel.

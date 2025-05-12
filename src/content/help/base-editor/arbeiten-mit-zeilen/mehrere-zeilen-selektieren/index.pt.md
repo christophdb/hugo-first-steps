@@ -18,7 +18,7 @@ A opção mais óbvia para seleccionar várias filas é simplesmente seleccionar
 
 ## Opção 2: Definir selecção de início e fim de linha
 
-Em vez de marcar linha a linha, também pode utilizar um **secção contígua** para seleccionar entre duas linhas. Para o fazer, primeiro colocar um tique ao lado de uma linha e depois, enquanto segura a {{< keyboard "Shift" >}}\-chave noutra linha. A SeaTable marca então todas as linhas entre o início e o fim seleccionados.
+Em vez de marcar linha a linha, também pode utilizar um **secção contígua** para seleccionar entre duas linhas. Para o fazer, primeiro colocar um tique ao lado de uma linha e depois, enquanto segura a {{< key "Shift" >}}\-chave noutra linha. A SeaTable marca então todas as linhas entre o início e o fim seleccionados.
 
 ## Opção 3: Seleccionar todas as filas de uma só vez
 

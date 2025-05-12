@@ -18,7 +18,7 @@ The most obvious option to select multiple rows is to simply check each of the d
 
 ## Option 2: Define start and end of line selection
 
-Instead of marking row for row , you can also use a **contiguous section** to select between two rows . To do this, first place a check mark next to the one row and then press and hold the {{< keyboard "Shift" >}}key at another row. SeaTable then marks all rows between the selected start and end.
+Instead of marking row for row , you can also use a **contiguous section** to select between two rows . To do this, first place a check mark next to the one row and then press and hold the {{< key "Shift" >}}key at another row. SeaTable then marks all rows between the selected start and end.
 
 ## Option 3: Select all rows at once
 

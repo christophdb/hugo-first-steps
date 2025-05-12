@@ -32,7 +32,7 @@ In this article you will learn how to**delete** a **single row**, **multiple row
 
 ## Delete entries from a row
 
-You can delete the entry in any cell of a row by clicking the **Select cell** and the entry with the **Backspace key** or {{< keyboard "Del" >}} Delete
+You can delete the entry in any cell of a row by clicking the **Select cell** and the entry with the **Backspace key** or {{< key "Del" >}} Delete
 
 ## Restore deleted rows
 
@@ -40,4 +40,4 @@ If you want to restore a **deleted row**, you can find it in the **Base recycle 
 
 ![Restore deleted rows](images/restore-rows-from-trash.png)
 
-You can also use the key combination {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}} Undo your last operations and restore deleted rows if you have not left Base since deletion.
+You can also use the key combination {{< key "CTRL" >}} + {{< key "Z" >}} Undo your last operations and restore deleted rows if you have not left Base since deletion.

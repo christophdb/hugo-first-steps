@@ -20,7 +20,7 @@ Die zweite Möglichkeit, eine neue Zeile einzufügen, besteht darin, mit der **r
 
 ![Zeilen über das Kontextmenü einfügen](images/Zeilen-ueber-das-Kontextmenue-einfuegen.png)
 
-Um schnell **mehrere neue Zeilen** hinzuzufügen, können Sie auch die Tastenkombination {{< keyboard "Shift" >}} + {{< keyboard "Enter" >}} verwenden. Klicken Sie zunächst auf eine **Zeile**, unter der Sie neue Zeilen einfügen wollen. Halten Sie dann die **Umschalttaste** gedrückt und drücken Sie mehrmals die **Eingabetaste**, um schnell leere Zeilen hinzuzufügen.
+Um schnell **mehrere neue Zeilen** hinzuzufügen, können Sie auch die Tastenkombination {{< key "Shift" >}} + {{< key "Enter" >}} verwenden. Klicken Sie zunächst auf eine **Zeile**, unter der Sie neue Zeilen einfügen wollen. Halten Sie dann die **Umschalttaste** gedrückt und drücken Sie mehrmals die **Eingabetaste**, um schnell leere Zeilen hinzuzufügen.
 
 ![Neue Zeile per Shortcut hinzufügen](images/create-new-row-shortcut.gif)
 

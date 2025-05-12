@@ -41,7 +41,7 @@ Puede acceder a la Papelera de reciclaje de la base haciendo clic en el icono de
 
 ## 3\. deshacer acciones
 
-Probablemente conozcas la combinación de teclas {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}}para deshacer la última acción. SeaTable también ofrece exactamente esta función. Además, puede ejecutarse con un clic del ratón en el menú desplegable que se muestra arriba.
+Probablemente conozcas la combinación de teclas {{< key "CTRL" >}} + {{< key "Z" >}}para deshacer la última acción. SeaTable también ofrece exactamente esta función. Además, puede ejecutarse con un clic del ratón en el menú desplegable que se muestra arriba.
 
 Encontrará más detalles en el artículo de ayuda correspondiente [Deshacer acciones](https://seatable.io/es/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
 

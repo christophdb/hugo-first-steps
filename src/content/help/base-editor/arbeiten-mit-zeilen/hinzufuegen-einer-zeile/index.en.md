@@ -20,7 +20,7 @@ The second way to insert a new row is to **right-click** on a row and select the
 
 ![rows insert via the context menu](images/Zeilen-ueber-das-Kontextmenue-einfuegen.png)
 
-To quickly **several new rows** you can also use the key combination {{< keyboard "Shift" >}} + {{< keyboard "Enter" >}} use. First click on a **row**, under which you want to insert new rows . Then hold down the **Shift key** button and press the **Enter key**to quickly add blank rows .
+To quickly **several new rows** you can also use the key combination {{< key "Shift" >}} + {{< key "Enter" >}} use. First click on a **row**, under which you want to insert new rows . Then hold down the **Shift key** button and press the **Enter key**to quickly add blank rows .
 
 ![Add new row via shortcut](images/create-new-row-shortcut.gif)
 

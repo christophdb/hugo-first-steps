@@ -25,4 +25,4 @@ As tabelas em SeaTable podem conter milhares de registos de dados. Para lhe perm
 A pesquisa SeaTable oferece mais duas funções de que não queremos privá-lo:
 
 - Se, após clicar na lupa, clicar em **Pesquisar todas as tabelas** abaixo do campo de pesquisa, abre-se uma janela na qual pode pesquisar **todas as** **tabelas** pertencentes à base para o termo ou valor que introduziu.
-- É claro que o SeaTable também suporta a combinação chave {{< keyboard "CTRL" >}} + {{< keyboard "F" >}}para activar o campo de pesquisa.
+- É claro que o SeaTable também suporta a combinação chave {{< key "CTRL" >}} + {{< key "F" >}}para activar o campo de pesquisa.

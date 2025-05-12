@@ -8,11 +8,11 @@ author: 'vge'
 url: '/help/hinzufuegen-von-daten-per-copy-and-paste'
 ---
 
-SeaTable knows the popular keyboard shortcuts {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} and {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} for copying and pasting data. This works both with data you want to copy within SeaTable and with data you want to paste into SeaTable.
+SeaTable knows the popular keyboard shortcuts {{< key "Ctrl" >}}+{{< key "C" >}} and {{< key "Ctrl" >}}+{{< key "V" >}} for copying and pasting data. This works both with data you want to copy within SeaTable and with data you want to paste into SeaTable.
 
 ## Copy and paste data
 
-In a text editor or spreadsheet, select the values that you want to copy into SeaTable. Copy the values with {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} and switch to a SeaTable table. Select a cell there and insert the values with {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} one.
+In a text editor or spreadsheet, select the values that you want to copy into SeaTable. Copy the values with {{< key "Ctrl" >}}+{{< key "C" >}} and switch to a SeaTable table. Select a cell there and insert the values with {{< key "Ctrl" >}}+{{< key "V" >}} one.
 
 It should be noted that copy-and-paste will _not_ work if the **formats of** the copied data do not match those of the column type of the cells to be pasted.
 

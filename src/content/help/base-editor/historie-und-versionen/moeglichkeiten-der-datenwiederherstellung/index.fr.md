@@ -41,7 +41,7 @@ Vous pouvez accéder à la corbeille de Base en cliquant sur l'icône des versio
 
 ## 3\. annuler des actions
 
-Vous connaissez certainement la combinaison de touches {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}}pour annuler la dernière action. C'est exactement la fonction que propose SeaTable. En outre, elle peut être exécutée d'un simple clic de souris dans le menu déroulant ci-dessus.
+Vous connaissez certainement la combinaison de touches {{< key "CTRL" >}} + {{< key "Z" >}}pour annuler la dernière action. C'est exactement la fonction que propose SeaTable. En outre, elle peut être exécutée d'un simple clic de souris dans le menu déroulant ci-dessus.
 
 Vous trouverez des détails dans l'article d'aide correspondant [Annuler des actions](https://seatable.io/fr/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
 

@@ -41,7 +41,7 @@ You can access the Base Recycle Bin by clicking on the versions icon in the uppe
 
 ## 3\. undo actions
 
-Surely you know the key combination {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}}to undo the last action. Exactly this function is also offered by SeaTable. Moreover, it is executable by mouse click in the drop-down menu shown above.
+Surely you know the key combination {{< key "CTRL" >}} + {{< key "Z" >}}to undo the last action. Exactly this function is also offered by SeaTable. Moreover, it is executable by mouse click in the drop-down menu shown above.
 
 For details, see the corresponding help article [Undo Actions](https://seatable.io/en/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
 

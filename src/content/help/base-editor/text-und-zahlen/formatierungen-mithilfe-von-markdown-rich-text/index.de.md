@@ -26,7 +26,7 @@ Sobald Markdown in SeaTable zum Einsatz kommt, wird Ihnen die folgende Eingabema
 
 ![Markdown in SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
 
-Alternativ können Sie aber auch unmittelbar durch die Eingabe von gewissen Sonderzeichen die Markdown-Formatierung auslösen. Tippen Sie doch einfach mal in einem Markdown-Eingabefeld eine {{< keyboard "#" >}} gefolgt von einem Wort ein. Sie werden sehen, dass die Raute in der Markdown-Syntax für eine erste Überschrift steht. Wenn Sie also wissen, welches Sonderzeichen welche Formatierung auslöst, können Sie deutlich schneller Ihre Texte erfassen und formatieren.
+Alternativ können Sie aber auch unmittelbar durch die Eingabe von gewissen Sonderzeichen die Markdown-Formatierung auslösen. Tippen Sie doch einfach mal in einem Markdown-Eingabefeld eine {{< key "#" >}} gefolgt von einem Wort ein. Sie werden sehen, dass die Raute in der Markdown-Syntax für eine erste Überschrift steht. Wenn Sie also wissen, welches Sonderzeichen welche Formatierung auslöst, können Sie deutlich schneller Ihre Texte erfassen und formatieren.
 
 Aktuell können Sie nur einen Teil der Formatierung durch ein Sonderzeichen auslösen. Welche dies sind, erfahren Sie in diesem Artikel.
 
@@ -38,7 +38,7 @@ Derzeit können Sie in SeaTable die folgenden Syntax-Optionen per Sonderzeichen 
 
 ### Überschriften
 
-Eine Zeile, die mit einem bis drei {{< keyboard "#" >}}-Zeichen beginnt, gefolgt von einem Leerzeichen, ergibt eine **Überschrift** der ersten bis dritten Ebene.
+Eine Zeile, die mit einem bis drei {{< key "#" >}}-Zeichen beginnt, gefolgt von einem Leerzeichen, ergibt eine **Überschrift** der ersten bis dritten Ebene.
 
 **Markdown-Syntax**
 
@@ -50,7 +50,7 @@ Eine Zeile, die mit einem bis drei {{< keyboard "#" >}}-Zeichen beginnt, gefolgt
 
 ### Fett und kursiv
 
-Text, der von einem {{< keyboard "\*" >}} oder {{< keyboard "\_" >}} Paar umgeben ist, wird **kursiv** formatiert (was in Markdown eine Betonung bedeutet); Text, der von einem doppelten {{< keyboard "\*\*" >}} oder {{< keyboard "\_ \_" >}} Paar umgeben ist, wird **fett** formatiert (was in Markdown eine starke Betonung bedeutet). Die Formatierungen können auch mit anderen Inline-Formaten kombiniert werden.
+Text, der von einem {{< key "\*" >}} oder {{< key "\_" >}} Paar umgeben ist, wird **kursiv** formatiert (was in Markdown eine Betonung bedeutet); Text, der von einem doppelten {{< key "\*\*" >}} oder {{< key "\_ \_" >}} Paar umgeben ist, wird **fett** formatiert (was in Markdown eine starke Betonung bedeutet). Die Formatierungen können auch mit anderen Inline-Formaten kombiniert werden.
 
 **Markdown-Syntax**
 
@@ -70,44 +70,44 @@ _**Combine them for bold italic**_
 
 ### Unsortierte Liste
 
-Sie können entweder {{< keyboard "-" >}} oder {{< keyboard "\*" >}} als Markierung für eine **unsortierte Liste** verwenden.
+Sie können entweder {{< key "-" >}} oder {{< key "\*" >}} als Markierung für eine **unsortierte Liste** verwenden.
 
 ![Ergebnis der Markdown Syntax Unsortierte Liste](images/result-unordered-list-syntax-1.png)
 
 ### Sortierte Liste
 
-Beginnt eine Zeile mit einer {{< keyboard "1." >}}, wird sie automatisch in eine **sortierte Liste** umgewandelt.
+Beginnt eine Zeile mit einer {{< key "1." >}}, wird sie automatisch in eine **sortierte Liste** umgewandelt.
 
 1\. Item 1 2. Item 2
 
 ### Blockzitate
 
-Ein **Blockzitat** ist eine Zeile, die mit {{< keyboard ">" >}} beginnt und auf die dann der Inhalt des Zitats folgt. Zitate sind durch eine Einrückung und einen Rahmen am linken Rand gekennzeichnet.
+Ein **Blockzitat** ist eine Zeile, die mit {{< key ">" >}} beginnt und auf die dann der Inhalt des Zitats folgt. Zitate sind durch eine Einrückung und einen Rahmen am linken Rand gekennzeichnet.
 
 ![Markdown Zitat](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
 
 ### Inline-Code
 
-Text, der von einem Paar {{< keyboard "FIXME: backtick" >}} umgeben ist, wird als Inline-Code dargestellt. So wird aus **apiKey is your secret API token** die folgende Formatierung:
+Text, der von einem Paar {{< key "FIXME: backtick" >}} umgeben ist, wird als Inline-Code dargestellt. So wird aus **apiKey is your secret API token** die folgende Formatierung:
 
 ![Ergebnis der Markdown Syntax Inline-Code](images/result-inline-code.png)
 
 ### Code-Blöcke
 
-Ein **Code-Block** wird durch drei aufeinanderfolgende **Backticks** {{< keyboard "```" >}} eingeleitet. Das Besondere am Code-Block ist, dass der Inhalt als **Inline-Code** mit Monospace-Schrift dargestellt wird. Auch Einrückungen werden genauso beibehalten, wie Sie eingegeben werden.
+Ein **Code-Block** wird durch drei aufeinanderfolgende **Backticks** {{< key "```" >}} eingeleitet. Das Besondere am Code-Block ist, dass der Inhalt als **Inline-Code** mit Monospace-Schrift dargestellt wird. Auch Einrückungen werden genauso beibehalten, wie Sie eingegeben werden.
 
 ![Markdown-Codeblock](https://seatable.io/wp-content/uploads/2023/05/markdown-codeblock.png)
 
 ### Zeilenumbrüche
 
-Jeder Zeilenumbruch {{< keyboard "↵" >}} wird wie ein harter Zeilenumbruch mit Abstand zwischen den beiden Zeilen behandelt. Ein Zeilenumbruch ohne Abstand zwischen den einzelnen Zeilen ist nicht möglich. Auch **mehrere Zeilenumbrüche** hintereinander werden entfernt und auf einen einfachen Zeilenumbruch reduziert.
+Jeder Zeilenumbruch {{< key "↵" >}} wird wie ein harter Zeilenumbruch mit Abstand zwischen den beiden Zeilen behandelt. Ein Zeilenumbruch ohne Abstand zwischen den einzelnen Zeilen ist nicht möglich. Auch **mehrere Zeilenumbrüche** hintereinander werden entfernt und auf einen einfachen Zeilenumbruch reduziert.
 
 ## Formatierungen, die Sie nicht durch Sonderzeichen aktivieren können
 
-**Checkboxen** werden typischerweise in Markdown durch ein {{< keyboard "\[ \]" >}} oder ein {{< keyboard "\[x\]" >}} erfasst. Diese Eingabe wird jedoch nicht automatisch in eine Checkbox umgewandelt. Stattdessen müssen Sie das kleine Checkbox-Icon {{< seatable-icon icon="dtable-icon-check-square" >}} anklicken.
+**Checkboxen** werden typischerweise in Markdown durch ein {{< key "\[ \]" >}} oder ein {{< key "\[x\]" >}} erfasst. Diese Eingabe wird jedoch nicht automatisch in eine Checkbox umgewandelt. Stattdessen müssen Sie das kleine Checkbox-Icon {{< seatable-icon icon="dtable-icon-check-square" >}} anklicken.
 
 Auch **Hyperlinks** werden in SeaTable Markdown unterstützt, können aber nur über das Icon {{< seatable-icon icon="icon-link" >}} eingefügt werden.
 
 ## Nicht unterstützte Formatierungen
 
-{{< keyboard "~~strikethrough~~" >}} wird von SeaTable nicht unterstützt. Auch doppelte Zeilenumbrüche werden entfernt und ein {{< keyboard "<br>" >}} wird nicht als zusätzlicher Zeilenumbruch interpretiert.
+{{< key "~~strikethrough~~" >}} wird von SeaTable nicht unterstützt. Auch doppelte Zeilenumbrüche werden entfernt und ein {{< key "<br>" >}} wird nicht als zusätzlicher Zeilenumbruch interpretiert.

@@ -8,11 +8,11 @@ author: 'nsc2'
 url: '/fr/aide/aktionen-rueckgaengig-machen'
 ---
 
-Il existe deux façons d'annuler des actions dans SeaTable. SeaTable prend en charge à la fois la combinaison de touches bien connue {{< keyboard "CTRL" >}}+{{< keyboard "Z" >}} ainsi qu'une option correspondante en cliquant sur la souris. Vous apprendrez ici comment annuler vos dernières étapes de travail et vos dernières saisies :
+Il existe deux façons d'annuler des actions dans SeaTable. SeaTable prend en charge à la fois la combinaison de touches bien connue {{< key "CTRL" >}}+{{< key "Z" >}} ainsi qu'une option correspondante en cliquant sur la souris. Vous apprendrez ici comment annuler vos dernières étapes de travail et vos dernières saisies :
 
 ## Annuler des actions par combinaison de touches
 
-Si vous êtes en train de **Traitement** d'une **Base** ou **Tableau** et que vous souhaitez annuler une ou plusieurs saisies, il suffit d'appuyer sur la combinaison de touches {{< keyboard "CTRL" >}}+{{< keyboard "Z" >}} pour appuyer sur la touche . Chaque fois que vous tapez cette combinaison de touches, SeaTable affiche votre dernier **Modification** **annuler** faire.
+Si vous êtes en train de **Traitement** d'une **Base** ou **Tableau** et que vous souhaitez annuler une ou plusieurs saisies, il suffit d'appuyer sur la combinaison de touches {{< key "CTRL" >}}+{{< key "Z" >}} pour appuyer sur la touche . Chaque fois que vous tapez cette combinaison de touches, SeaTable affiche votre dernier **Modification** **annuler** faire.
 
 ## Annuler les actions d'un clic de souris
 

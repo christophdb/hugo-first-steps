@@ -8,11 +8,11 @@ author: 'vge'
 url: '/pt/ajuda/hinzufuegen-von-daten-per-copy-and-paste'
 ---
 
-SeaTable conhece as populares combinações de chaves {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} e {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} para cópia e colagem de dados. Isto funciona tanto com dados que pretende copiar dentro do SeaTable como com dados que pretende colar no SeaTable.
+SeaTable conhece as populares combinações de chaves {{< key "Ctrl" >}}+{{< key "C" >}} e {{< key "Ctrl" >}}+{{< key "V" >}} para cópia e colagem de dados. Isto funciona tanto com dados que pretende copiar dentro do SeaTable como com dados que pretende colar no SeaTable.
 
 ## Copiar e colar dados
 
-Num editor de texto ou folha de cálculo, selecione os valores que pretende copiar para o SeaTable. Copie os valores com {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} e mudar para uma mesa SeaTable. Seleccione aí uma célula e insira os valores com {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} em.
+Num editor de texto ou folha de cálculo, selecione os valores que pretende copiar para o SeaTable. Copie os valores com {{< key "Ctrl" >}}+{{< key "C" >}} e mudar para uma mesa SeaTable. Seleccione aí uma célula e insira os valores com {{< key "Ctrl" >}}+{{< key "V" >}} em.
 
 Note-se que copiar e colar _não_ funcionará se os **formatos dos** dados copiados não corresponderem aos do tipo de coluna das células a serem coladas.
 

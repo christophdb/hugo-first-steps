@@ -60,7 +60,7 @@ Puede utilizar la herramienta de imagen para insertar imágenes de su dispositiv
 
 ### Borrador
 
-Puede utilizar esta herramienta para borrar varios elementos del lienzo de una sola vez. Mantén pulsado el botón izquierdo del ratón mientras mueves el borrador sobre los elementos que deseas borrar. Si, por el contrario, se desplaza sobre los elementos mientras simultáneamente {{< keyboard "VIEJO" >}} los elementos no se borran o se anula la selección para el borrado.
+Puede utilizar esta herramienta para borrar varios elementos del lienzo de una sola vez. Mantén pulsado el botón izquierdo del ratón mientras mueves el borrador sobre los elementos que deseas borrar. Si, por el contrario, se desplaza sobre los elementos mientras simultáneamente {{< key "VIEJO" >}} los elementos no se borran o se anula la selección para el borrado.
 
 ![Borrador en el plugin de la pizarra](images/Eraser-tool.gif)
 
@@ -130,17 +130,17 @@ Utilice la **herramienta de selección** para hacer clic en el elemento que dese
 
 ![Mover, girar, ampliar y reducir elementos](images/Elemente-verschieben-drehen-vergroessern-und-verkleinern.gif)
 
-Puede utilizar los iconos de flecha situados en el borde inferior izquierdo de la pantalla para **deshacer** o **Restaurar**. También puedes utilizar los conocidos atajos {{< keyboard "Ctrl" >}}+{{< keyboard "Z" >}} y {{< keyboard "Ctrl" >}}+{{< keyboard "Turno" >}}+{{< keyboard "Z" >}} utilizar.
+Puede utilizar los iconos de flecha situados en el borde inferior izquierdo de la pantalla para **deshacer** o **Restaurar**. También puedes utilizar los conocidos atajos {{< key "Ctrl" >}}+{{< key "Z" >}} y {{< key "Ctrl" >}}+{{< key "Turno" >}}+{{< key "Z" >}} utilizar.
 
 También puede cambiar el **nivel de zoom** del lienzo utilizando los iconos más y menos. Sin embargo, esto sólo cambia el tamaño de la sección visible y no el de los elementos.
 
 ### Duplicar, cortar, copiar y pegar elementos
 
-Hay tres formas de duplicar un elemento: Haciendo clic en el botón **Símbolo duplicado** o haga clic con el botón derecho en el elemento y seleccione **Duplicar** o puede utilizar la función **Atajo** {{< keyboard "Ctrl" >}}+{{< keyboard "D" >}}.
+Hay tres formas de duplicar un elemento: Haciendo clic en el botón **Símbolo duplicado** o haga clic con el botón derecho en el elemento y seleccione **Duplicar** o puede utilizar la función **Atajo** {{< key "Ctrl" >}}+{{< key "D" >}}.
 
 ![Duplicar, cortar y pegar elementos](images/Elemente-duplizieren-ausschneiden-und-einfuegen.gif)
 
-Para cortar, copiar o pegar un elemento, puede hacer clic con el botón derecho del ratón sobre el elemento y seleccionar el elemento deseado en el menú **Menú contextual** seleccione la opción adecuada o utilice el conocido **Atajos** {{< keyboard "Ctrl" >}}+{{< keyboard "X" >}}, {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} y {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} utilizar.
+Para cortar, copiar o pegar un elemento, puede hacer clic con el botón derecho del ratón sobre el elemento y seleccionar el elemento deseado en el menú **Menú contextual** seleccione la opción adecuada o utilice el conocido **Atajos** {{< key "Ctrl" >}}+{{< key "X" >}}, {{< key "Ctrl" >}}+{{< key "C" >}} y {{< key "Ctrl" >}}+{{< key "V" >}} utilizar.
 
 ![Opciones para copiar elementos](images/Optionen-zum-Kopieren-von-Elementen.png)
 
@@ -164,7 +164,7 @@ Si desea reflejar elementos, haga clic con el botón derecho en el elemento y se
 
 ### Elementos de enlace
 
-¿Quiere añadir a su dibujo elementos (botones, imágenes o texto) que enlacen a sitios web concretos? Entonces sólo tienes que enlazar los elementos insertando una URL. Para ello, haga clic en la configuración del elemento en el botón **Símbolo de cadena** o haga clic con el botón derecho en el elemento antes de seleccionar **Crear enlace** o utilice el atajo de teclado {{< keyboard "Ctrl" >}}+{{< keyboard "K" >}}.
+¿Quiere añadir a su dibujo elementos (botones, imágenes o texto) que enlacen a sitios web concretos? Entonces sólo tienes que enlazar los elementos insertando una URL. Para ello, haga clic en la configuración del elemento en el botón **Símbolo de cadena** o haga clic con el botón derecho en el elemento antes de seleccionar **Crear enlace** o utilice el atajo de teclado {{< key "Ctrl" >}}+{{< key "K" >}}.
 
 ![Elementos de enlace](images/Elemente-verlinken.gif)
 
@@ -178,7 +178,7 @@ Si quieres trabajar en el lienzo sin mover o cambiar accidentalmente determinado
 
 ### Eliminar elementos
 
-Si desea eliminar un elemento, tiene varias opciones: Puede hacer clic en el icono **Icono de la papelera** o haga clic con el botón derecho en el elemento y seleccione **Borrar** o utilice los botones {{< keyboard "Retroceso" >}} o {{< keyboard "Del" >}}.
+Si desea eliminar un elemento, tiene varias opciones: Puede hacer clic en el icono **Icono de la papelera** o haga clic con el botón derecho en el elemento y seleccione **Borrar** o utilice los botones {{< key "Retroceso" >}} o {{< key "Del" >}}.
 
 Para eliminar con rapidez y precisión varios elementos del lienzo, también puedes utilizar la **goma de borrar** de la barra de herramientas.
 

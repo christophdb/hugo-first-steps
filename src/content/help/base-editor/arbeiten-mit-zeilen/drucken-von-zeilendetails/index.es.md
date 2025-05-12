@@ -22,7 +22,7 @@ Tiene la opción de imprimir detalles **de fila** similares a [las](https://seat
 6. Se abre la **ventana de impresión estándar de** su máquina. Aquí puede realizar otros ajustes y ver una vista previa de la impresión.
 7. Complete la acción pulsando **Imprimir**.
 
-También puede imprimir una línea abriendo los detalles de la línea y utilizando el método abreviado {{< keyboard "Ctrl" >}} + {{< keyboard "P" >}} uso.
+También puede imprimir una línea abriendo los detalles de la línea y utilizando el método abreviado {{< key "Ctrl" >}} + {{< key "P" >}} uso.
 
 ## Presión compacta y normal
 

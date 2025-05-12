@@ -18,7 +18,7 @@ L'option la plus évidente pour sélectionner plusieurs lignes consiste simpleme
 
 ## Option 2 : définir le début et la fin de la sélection de lignes
 
-Au lieu de sélectionner ligne par ligne, vous pouvez également utiliser un **section cohérente** entre deux lignes. Pour ce faire, cochez d'abord une ligne, puis appuyez sur la touche {{< keyboard "Shift" >}}\-sur une autre ligne. SeaTable sélectionne alors toutes les lignes entre le début et la fin sélectionnés.
+Au lieu de sélectionner ligne par ligne, vous pouvez également utiliser un **section cohérente** entre deux lignes. Pour ce faire, cochez d'abord une ligne, puis appuyez sur la touche {{< key "Shift" >}}\-sur une autre ligne. SeaTable sélectionne alors toutes les lignes entre le début et la fin sélectionnés.
 
 ## Option 3 : Sélectionner toutes les lignes en une seule fois
 

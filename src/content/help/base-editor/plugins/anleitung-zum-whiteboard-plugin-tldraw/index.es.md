@@ -141,11 +141,11 @@ También puede cambiar el **nivel de zoom** del lienzo en la esquina inferior iz
 
 ### Duplicar, cortar, copiar y pegar elementos
 
-Hay tres formas de duplicar un elemento: Puede hacer clic en el icono **Símbolo duplicado** o haga clic con el botón derecho en el elemento y seleccione **Duplicar** o puede utilizar la función **Atajo** {{< keyboard "Ctrl" >}}+{{< keyboard "D" >}}.
+Hay tres formas de duplicar un elemento: Puede hacer clic en el icono **Símbolo duplicado** o haga clic con el botón derecho en el elemento y seleccione **Duplicar** o puede utilizar la función **Atajo** {{< key "Ctrl" >}}+{{< key "D" >}}.
 
 ![Duplicar, copiar, cortar y pegar elementos](images/Elemente-duplizieren-kopieren-ausschneiden-und-einfuegen.gif)
 
-Para cortar, copiar o pegar un elemento, puede hacer clic con el botón derecho del ratón sobre el elemento y seleccionar el elemento deseado en el menú **Menú contextual** seleccione la opción adecuada o utilice el conocido **Atajos** {{< keyboard "Ctrl" >}}+{{< keyboard "X" >}}, {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} y {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} utilizar. También puede copiar un elemento en el portapapeles como archivo de imagen (PNG o SVG).
+Para cortar, copiar o pegar un elemento, puede hacer clic con el botón derecho del ratón sobre el elemento y seleccionar el elemento deseado en el menú **Menú contextual** seleccione la opción adecuada o utilice el conocido **Atajos** {{< key "Ctrl" >}}+{{< key "X" >}}, {{< key "Ctrl" >}}+{{< key "C" >}} y {{< key "Ctrl" >}}+{{< key "V" >}} utilizar. También puede copiar un elemento en el portapapeles como archivo de imagen (PNG o SVG).
 
 ### Mover elementos al primer o segundo plano
 
@@ -169,13 +169,13 @@ Si quieres trabajar en el lienzo sin mover o cambiar accidentalmente determinado
 
 ### Eliminar elementos
 
-Si desea eliminar un elemento, tiene varias opciones: Puede hacer clic en el icono **Icono de la papelera** o haga clic con el botón derecho en el elemento y seleccione **Borrar** o utilice los botones {{< keyboard "Retroceso" >}} o {{< keyboard "Del" >}}.
+Si desea eliminar un elemento, tiene varias opciones: Puede hacer clic en el icono **Icono de la papelera** o haga clic con el botón derecho en el elemento y seleccione **Borrar** o utilice los botones {{< key "Retroceso" >}} o {{< key "Del" >}}.
 
 Para eliminar con rapidez y precisión varios elementos del lienzo, también puedes utilizar la **goma de borrar** de la barra de herramientas.
 
 {{< warning  headline="Atención"  text="No hay papelera de reciclaje en el plugin de pizarra. Los elementos eliminados se **borran permanentemente**." />}}
 
-Puede utilizar los iconos de flecha del borde superior izquierdo sólo para seleccionar los últimos pasos. **deshacer** o **Restaurar**. También puedes utilizar los conocidos atajos {{< keyboard "Ctrl" >}}+{{< keyboard "Z" >}} y {{< keyboard "Ctrl" >}}+{{< keyboard "Turno" >}}+{{< keyboard "Z" >}} utilizar.
+Puede utilizar los iconos de flecha del borde superior izquierdo sólo para seleccionar los últimos pasos. **deshacer** o **Restaurar**. También puedes utilizar los conocidos atajos {{< key "Ctrl" >}}+{{< key "Z" >}} y {{< key "Ctrl" >}}+{{< key "Turno" >}}+{{< key "Z" >}} utilizar.
 
 ## Ajustes de pantalla
 

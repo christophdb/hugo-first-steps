@@ -18,8 +18,8 @@ Right-click on a row and select the **Duplicaterow** option from the drop-down m
 
 ## Multiple duplication of a row
 
-If you want to duplicate a row multiple times, you can easily do this with the so-called fill handle. First create the desired number of empty rows, e.g. with the key combination {{< keyboard "SHIFT" >}}+{{< keyboard "ENTER" >}}. Then, select the desired row and drag it to the **small square** down in the lower right corner of the last selected cell to create the desired copies.
+If you want to duplicate a row multiple times, you can easily do this with the so-called fill handle. First create the desired number of empty rows, e.g. with the key combination {{< key "SHIFT" >}}+{{< key "ENTER" >}}. Then, select the desired row and drag it to the **small square** down in the lower right corner of the last selected cell to create the desired copies.
 
 ![rows duplicate with the handle](images/duplicate-row-with-handle.gif)
 
-Instead of the fill handle, you can also fill the data using the familiar keyboard shortcut {{< keyboard "CTRL" >}}+{{< keyboard "C" >}} and {{< keyboard "CTRL" >}}+{{< keyboard "V" >}} copy
+Instead of the fill handle, you can also fill the data using the familiar keyboard shortcut {{< key "CTRL" >}}+{{< key "C" >}} and {{< key "CTRL" >}}+{{< key "V" >}} copy

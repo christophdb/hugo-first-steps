@@ -41,7 +41,7 @@ Sie erreichen den Base-Papierkorb per Klick auf das Versionen-Icon in der rechte
 
 ## 3\. Aktionen rückgängig machen
 
-Bestimmt kennen Sie die Tastenkombination {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}}, um die letzte Aktion rückgängig zu machen. Genau diese Funktion bietet auch SeaTable. Außerdem ist sie per Mausklick im oben gezeigten Drop-down-Menü ausführbar.
+Bestimmt kennen Sie die Tastenkombination {{< key "CTRL" >}} + {{< key "Z" >}}, um die letzte Aktion rückgängig zu machen. Genau diese Funktion bietet auch SeaTable. Außerdem ist sie per Mausklick im oben gezeigten Drop-down-Menü ausführbar.
 
 Details finden Sie im entsprechenden Hilfeartikel [Aktionen rückgängig machen](https://seatable.io/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
 

@@ -8,11 +8,11 @@ author: 'nsc2'
 url: '/pt/ajuda/aktionen-rueckgaengig-machen'
 ---
 
-Pode desfazer acções em SeaTable de duas maneiras diferentes. SeaTable suporta tanto a combinação chave familiar {{< keyboard "CTRL" >}}+{{< keyboard "Z" >}} bem como uma opção correspondente por clique do rato. Aqui pode descobrir como desfazer os seus últimos passos e entradas:
+Pode desfazer acções em SeaTable de duas maneiras diferentes. SeaTable suporta tanto a combinação chave familiar {{< key "CTRL" >}}+{{< key "Z" >}} bem como uma opção correspondente por clique do rato. Aqui pode descobrir como desfazer os seus últimos passos e entradas:
 
 ## Acções de desfazer por combinação de chaves
 
-Se está actualmente no **Edição** a **Base** ou **Quadro** e quiser desfazer uma ou mais entradas, basta premir a combinação de teclas {{< keyboard "CTRL" >}}+{{< keyboard "Z" >}} para a imprensa. Cada vez que escrever esta combinação chave, SeaTable mostrará a sua última **Alterar** **desfazer** marca.
+Se está actualmente no **Edição** a **Base** ou **Quadro** e quiser desfazer uma ou mais entradas, basta premir a combinação de teclas {{< key "CTRL" >}}+{{< key "Z" >}} para a imprensa. Cada vez que escrever esta combinação chave, SeaTable mostrará a sua última **Alterar** **desfazer** marca.
 
 ## Desfazer acções com um clique do rato
 

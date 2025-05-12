@@ -60,7 +60,7 @@ You can use the image tool to insert images from your device into the drawing. T
 
 ### Eraser
 
-You can use this tool to erase several elements on the canvas in one go. Hold down the left mouse button while moving the eraser over the elements to be erased. If, on the other hand, you move over elements while simultaneously {{< keyboard "OLD" >}} the elements are spared from deletion or the selection for deletion is removed.
+You can use this tool to erase several elements on the canvas in one go. Hold down the left mouse button while moving the eraser over the elements to be erased. If, on the other hand, you move over elements while simultaneously {{< key "OLD" >}} the elements are spared from deletion or the selection for deletion is removed.
 
 ![Eraser in the whiteboard plugin](images/Eraser-tool.gif)
 
@@ -130,17 +130,17 @@ Use the **selection tool** to click on the element you want to adjust. Move the 
 
 ![Move, rotate, enlarge and reduce elements](images/Elemente-verschieben-drehen-vergroessern-und-verkleinern.gif)
 
-You can use the arrow icons at the bottom left-hand edge of the screen to **undo** or **Restore**. You can also use the familiar shortcuts {{< keyboard "Ctrl" >}}+{{< keyboard "Z" >}} and {{< keyboard "Ctrl" >}}+{{< keyboard "Shift" >}}+{{< keyboard "Z" >}} use.
+You can use the arrow icons at the bottom left-hand edge of the screen to **undo** or **Restore**. You can also use the familiar shortcuts {{< key "Ctrl" >}}+{{< key "Z" >}} and {{< key "Ctrl" >}}+{{< key "Shift" >}}+{{< key "Z" >}} use.
 
 You can also change the **zoom level** of the canvas using the plus and minus icons. However, this only changes the size of the visible section and not the size of the elements.
 
 ### Duplicate, cut, copy and paste elements
 
-There are three ways to duplicate an element: Either you click on the **Duplicate symbol** or right-click on the element and select **Duplicate** or you can use the **Shortcut** {{< keyboard "Ctrl" >}}+{{< keyboard "D" >}}.
+There are three ways to duplicate an element: Either you click on the **Duplicate symbol** or right-click on the element and select **Duplicate** or you can use the **Shortcut** {{< key "Ctrl" >}}+{{< key "D" >}}.
 
 ![Duplicate, cut and paste elements](images/Elemente-duplizieren-ausschneiden-und-einfuegen.gif)
 
-To cut, copy or paste an element, you can right-click on the element and select the desired element in the **Context menu** select the appropriate option or use the familiar **Shortcuts** {{< keyboard "Ctrl" >}}+{{< keyboard "X" >}}, {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} and {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} use.
+To cut, copy or paste an element, you can right-click on the element and select the desired element in the **Context menu** select the appropriate option or use the familiar **Shortcuts** {{< key "Ctrl" >}}+{{< key "X" >}}, {{< key "Ctrl" >}}+{{< key "C" >}} and {{< key "Ctrl" >}}+{{< key "V" >}} use.
 
 ![Options for copying elements](images/Optionen-zum-Kopieren-von-Elementen.png)
 
@@ -164,7 +164,7 @@ If you want to mirror elements, right-click on the element and select either **M
 
 ### Link elements
 
-Would you like to add elements (e.g. buttons, images or text) to your drawing that link to specific websites? Then simply link the elements by inserting a URL. To do this, either click in the element settings on the **Chain symbol** or right-click on the element before selecting **Create link** or use the shortcut {{< keyboard "Ctrl" >}}+{{< keyboard "K" >}}.
+Would you like to add elements (e.g. buttons, images or text) to your drawing that link to specific websites? Then simply link the elements by inserting a URL. To do this, either click in the element settings on the **Chain symbol** or right-click on the element before selecting **Create link** or use the shortcut {{< key "Ctrl" >}}+{{< key "K" >}}.
 
 ![Link elements](images/Elemente-verlinken.gif)
 
@@ -178,7 +178,7 @@ If you want to work on the canvas without accidentally moving or changing certai
 
 ### Delete elements
 
-If you want to delete an element, there are several options: Either you click on the **Trash icon** or right-click on the element and select **Delete** or use the buttons {{< keyboard "Backspace" >}} or {{< keyboard "Del" >}}.
+If you want to delete an element, there are several options: Either you click on the **Trash icon** or right-click on the element and select **Delete** or use the buttons {{< key "Backspace" >}} or {{< key "Del" >}}.
 
 To quickly and accurately remove several elements from the canvas, you can also use the **eraser** from the toolbar.
 

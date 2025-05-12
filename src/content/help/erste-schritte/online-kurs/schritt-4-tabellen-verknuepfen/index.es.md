@@ -42,7 +42,7 @@ Para poder crear enlaces, necesitamos una segunda tabla, que crearemos a continu
 
 Ahora tiene dos opciones para vincular los registros de datos de ambas tablas:
 
-1. Puede asignar una entrada en el `Expenses` Seleccionar manualmente una línea de la tabla `Categories` pulsando dentro de la celda en el {{< keyboard "+" >}} y, a continuación, seleccione la categoría adecuada. Esto se convierte rápidamente en una tarea tediosa y propensa a errores con grandes cantidades de datos.  
+1. Puede asignar una entrada en el `Expenses` Seleccionar manualmente una línea de la tabla `Categories` pulsando dentro de la celda en el {{< key "+" >}} y, a continuación, seleccione la categoría adecuada. Esto se convierte rápidamente en una tarea tediosa y propensa a errores con grandes cantidades de datos.  
    ![](images/level1-link-rows.png)
 2. También puede utilizar la función [Opciones de tratamiento de datos](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) de SeaTable para automatizar la configuración de los enlaces.  
    ![](images/level1-data-operation.png)

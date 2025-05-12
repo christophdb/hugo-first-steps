@@ -25,4 +25,4 @@ Tabellen in SeaTable können Tausende von Datensätzen enthalten. Damit Sie einz
 Die Suche von SeaTable bietet noch zwei Funktionen, die wir Ihnen natürlich nicht vorenthalten wollen:
 
 - Wenn Sie nach einem Klick auf die Lupe auf **Alle Tabellen durchsuchen** unter dem Suchfeld klicken, öffnet sich ein Fenster, in dem Sie **alle** zur Base gehörenden **Tabellen** nach Ihrem eingegebenen Begriff bzw. Wert durchsuchen können.
-- Natürlich unterstützt SeaTable auch die Tastenkombination {{< keyboard "STRG" >}} + {{< keyboard "F" >}}, um das Suchfeld zu aktivieren.
+- Natürlich unterstützt SeaTable auch die Tastenkombination {{< key "STRG" >}} + {{< key "F" >}}, um das Suchfeld zu aktivieren.

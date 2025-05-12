@@ -32,7 +32,7 @@ Dans cet article, vous apprendrez à **supprimer** une **seule ligne**, **plusie
 
 ## Suppression d'entrées d'une ligne
 
-Vous pouvez supprimer l'entrée de n'importe quelle cellule d'une ligne en cliquant sur le bouton **Sélectionner une cellule** et l'entrée avec la **Bouton Backspace** ou {{< keyboard "Supprimer" >}} supprimer.
+Vous pouvez supprimer l'entrée de n'importe quelle cellule d'une ligne en cliquant sur le bouton **Sélectionner une cellule** et l'entrée avec la **Bouton Backspace** ou {{< key "Supprimer" >}} supprimer.
 
 ## Récupérer les lignes supprimées
 
@@ -40,4 +40,4 @@ Si vous souhaitez restaurer une **ligne supprimée**, vous la trouverez dans la 
 
 ![Récupérer les lignes supprimées](images/restore-rows-from-trash.png)
 
-En outre, vous pouvez utiliser la combinaison de touches {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}} annuler vos dernières étapes de travail et restaurer les lignes supprimées, à condition que vous n'ayez pas quitté la base depuis la suppression.
+En outre, vous pouvez utiliser la combinaison de touches {{< key "CTRL" >}} + {{< key "Z" >}} annuler vos dernières étapes de travail et restaurer les lignes supprimées, à condition que vous n'ayez pas quitté la base depuis la suppression.

@@ -29,7 +29,7 @@ In SeaTable you can comment rows , for example to give feedback to each other wi
 
 ## Add team members to the chat
 
-You can draw the attention of team members to your comment by sending it to them via the **Plus symbol** to add to the chat. Alternatively, you can also add a {{< keyboard "@" >}} and the **Member name** to add team members to the chat. The member gets a **Notification in SeaTable** and will be notified about new comments in the chat history, even if no further mention about {{< keyboard "@" >}} takes place.
+You can draw the attention of team members to your comment by sending it to them via the **Plus symbol** to add to the chat. Alternatively, you can also add a {{< key "@" >}} and the **Member name** to add team members to the chat. The member gets a **Notification in SeaTable** and will be notified about new comments in the chat history, even if no further mention about {{< key "@" >}} takes place.
 
 ## Display of the commented rows
 

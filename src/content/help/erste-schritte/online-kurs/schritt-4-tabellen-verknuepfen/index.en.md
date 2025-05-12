@@ -42,7 +42,7 @@ In order to be able to create links at all, we need a second table, which we wil
 
 You now have two options for linking the data records in both tables:
 
-1. You can assign an entry in the `Expenses` Manually a row from the table `Categories` in which you click on the {{< keyboard "+" >}} and then select the appropriate category. This quickly becomes tedious and error-prone with large amounts of data.  
+1. You can assign an entry in the `Expenses` Manually a row from the table `Categories` in which you click on the {{< key "+" >}} and then select the appropriate category. This quickly becomes tedious and error-prone with large amounts of data.  
    ![](images/level1-link-rows.png)
 2. Alternatively, you can use the [Data processing options](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) of SeaTable to automate the setting of the links.  
    ![](images/level1-data-operation.png)

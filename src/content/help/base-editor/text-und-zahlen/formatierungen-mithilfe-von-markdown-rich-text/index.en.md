@@ -26,7 +26,7 @@ As soon as Markdown is used in SeaTable, you will be offered the following input
 
 ![Markdown in SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
 
-Alternatively, you can trigger Markdown formatting directly by typing certain special characters. Just type in a Markdown input field a {{< keyboard "#" >}} followed by a word. You will see that in Markdown syntax the hash stands for a first heading. So if you know which special character triggers which formatting, you can capture and format your texts much faster.
+Alternatively, you can trigger Markdown formatting directly by typing certain special characters. Just type in a Markdown input field a {{< key "#" >}} followed by a word. You will see that in Markdown syntax the hash stands for a first heading. So if you know which special character triggers which formatting, you can capture and format your texts much faster.
 
 Currently, you can only trigger some of the formatting with a special character. You can find out what these are in this article.
 
@@ -38,7 +38,7 @@ Currently you can enable the following syntax options in SeaTable by special cha
 
 ### Headings
 
-A row, which can be used with one to three {{< keyboard "#" >}}\-character, followed by a space, results in a **Headline** the first to the third level.
+A row, which can be used with one to three {{< key "#" >}}\-character, followed by a space, results in a **Headline** the first to the third level.
 
 **Markdown syntax**
 
@@ -52,7 +52,7 @@ A row, which can be used with one to three {{< keyboard "#" >}}\-character, foll
 
 ### Bold and italic
 
-Text created by a {{< keyboard "\*" >}} or {{< keyboard "\_" >}} Couple is surrounded **italic** formatted (which in Markdown means an emphasis); text that is accompanied by a double {{< keyboard "\*\*" >}} or {{< keyboard "\_ \_" >}} Couple is surrounded **bold** formatted (which means heavy emphasis in Markdown). The formatting can also be combined with other inline formats.
+Text created by a {{< key "\*" >}} or {{< key "\_" >}} Couple is surrounded **italic** formatted (which in Markdown means an emphasis); text that is accompanied by a double {{< key "\*\*" >}} or {{< key "\_ \_" >}} Couple is surrounded **bold** formatted (which means heavy emphasis in Markdown). The formatting can also be combined with other inline formats.
 
 **Markdown syntax**
 
@@ -76,45 +76,45 @@ _**Combine them for bold italic**_
 
 ### Unsorted list
 
-You can either {{< keyboard "\-" >}} or {{< keyboard "\*" >}} as a marker for a **unordered list** use
+You can either {{< key "\-" >}} or {{< key "\*" >}} as a marker for a **unordered list** use
 
 ![Result of Markdown Syntax Unsorted List](images/result-unordered-list-syntax-1.png)
 
 ### Sorted list
 
-If a row begins with a {{< keyboard "1." >}}, it is automatically converted into a **sorted list** converted.
+If a row begins with a {{< key "1." >}}, it is automatically converted into a **sorted list** converted.
 
 1\. item 1  
 2\. item 2
 
 ### Block Quotes
 
-A **Blockquote** is a row, which is linked to {{< keyboard "\>" >}} and then followed by the content of the quotation. Quotations are indicated by an indentation and a frame in the left margin.
+A **Blockquote** is a row, which is linked to {{< key "\>" >}} and then followed by the content of the quotation. Quotations are indicated by an indentation and a frame in the left margin.
 
 ![Markdown quote](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
 
 ### Inline code
 
-Text created by a {{< keyboard "FIXME: backtick" >}} pair is surrounded is represented as inline code. Thus from **apiKey is your secret API token** the following formatting:
+Text created by a {{< key "FIXME: backtick" >}} pair is surrounded is represented as inline code. Thus from **apiKey is your secret API token** the following formatting:
 
 ![Result of Markdown syntax inline code](images/result-inline-code.png)
 
 ### Code blocks
 
-A **Code block** is determined by three successive **Backticks** {{< keyboard "```" >}} introduced. The special feature of the code block is that the content is displayed as a **Inline code** is displayed with monospace font. Indentations are also retained exactly as they are entered.
+A **Code block** is determined by three successive **Backticks** {{< key "```" >}} introduced. The special feature of the code block is that the content is displayed as a **Inline code** is displayed with monospace font. Indentations are also retained exactly as they are entered.
 
 ![Markdown code block](https://seatable.io/wp-content/uploads/2023/05/markdown-codeblock.png)
 
 ### Line breaks
 
-Any line break {{< keyboard "↵" >}} is treated like a hard line break with space between the two rows . A line break without spacing between the individual rows is not possible. Also **multiple line breaks** are removed and reduced to a simple line break.
+Any line break {{< key "↵" >}} is treated like a hard line break with space between the two rows . A line break without spacing between the individual rows is not possible. Also **multiple line breaks** are removed and reduced to a simple line break.
 
 ## Formatting that you cannot activate with special characters
 
-**Checkboxes** are typically represented in Markdown by a {{< keyboard "\[ \]" >}} or a {{< keyboard "\[x\]" >}} is entered. However, this input is not automatically converted into a checkbox. Instead, you must click the small checkbox icon {{< seatable-icon icon="dtable-icon-check-square" >}} click.
+**Checkboxes** are typically represented in Markdown by a {{< key "\[ \]" >}} or a {{< key "\[x\]" >}} is entered. However, this input is not automatically converted into a checkbox. Instead, you must click the small checkbox icon {{< seatable-icon icon="dtable-icon-check-square" >}} click.
 
 **Hyperlinks** are also supported in SeaTable Markdown, but can only be inserted via the {{< seatable-icon icon="icon-link" >}} icon.
 
 ## Unsupported formatting
 
-{{< keyboard "~~strikethrough~~" >}} is not supported by SeaTable. Also double line breaks are removed and a {{< keyboard "<br>" >}} is not interpreted as an additional line break.
+{{< key "~~strikethrough~~" >}} is not supported by SeaTable. Also double line breaks are removed and a {{< key "<br>" >}} is not interpreted as an additional line break.

@@ -26,7 +26,7 @@ En cuanto se utilice Markdown en SeaTable, se le ofrecerá la siguiente máscara
 
 ![Markdown en SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
 
-También puede activar directamente el formato Markdown introduciendo determinados caracteres especiales. Simplemente escriba un carácter especial en un campo de entrada de Markdown. {{< keyboard "#" >}} seguido de una palabra. Verás que la almohadilla en la sintaxis Markdown representa un primer título. Así que si sabes qué carácter especial desencadena qué formato, podrás capturar y formatear tus textos mucho más rápido.
+También puede activar directamente el formato Markdown introduciendo determinados caracteres especiales. Simplemente escriba un carácter especial en un campo de entrada de Markdown. {{< key "#" >}} seguido de una palabra. Verás que la almohadilla en la sintaxis Markdown representa un primer título. Así que si sabes qué carácter especial desencadena qué formato, podrás capturar y formatear tus textos mucho más rápido.
 
 Actualmente, sólo puede activar parte del formato con un carácter especial. Puedes averiguar cuáles son en este artículo.
 
@@ -38,7 +38,7 @@ Actualmente, puede activar las siguientes opciones de sintaxis en SeaTable media
 
 ### Titulares
 
-Una línea que comienza con uno a tres {{< keyboard "#" >}}\-seguido de un espacio, da como resultado un carácter **Titular** del primer al tercer nivel.
+Una línea que comienza con uno a tres {{< key "#" >}}\-seguido de un espacio, da como resultado un carácter **Titular** del primer al tercer nivel.
 
 **Sintaxis Markdown**
 
@@ -52,7 +52,7 @@ Una línea que comienza con uno a tres {{< keyboard "#" >}}\-seguido de un espac
 
 ### Negrita y cursiva
 
-Texto escrito por un {{< keyboard "\*" >}} o {{< keyboard "\_" >}} La pareja está rodeada **cursiva** formateado (que en Markdown significa un énfasis); texto que va acompañado de un doble {{< keyboard "\*\*" >}} o {{< keyboard "\_ \_" >}} La pareja está rodeada **negrita** formateado (lo que significa un fuerte énfasis en Markdown). El formato también puede combinarse con otros formatos en línea.
+Texto escrito por un {{< key "\*" >}} o {{< key "\_" >}} La pareja está rodeada **cursiva** formateado (que en Markdown significa un énfasis); texto que va acompañado de un doble {{< key "\*\*" >}} o {{< key "\_ \_" >}} La pareja está rodeada **negrita** formateado (lo que significa un fuerte énfasis en Markdown). El formato también puede combinarse con otros formatos en línea.
 
 **Sintaxis Markdown**
 
@@ -76,45 +76,45 @@ _**Combínelos para negrita cursiva**_
 
 ### Lista sin clasificar
 
-Puede {{< keyboard "\-" >}} o {{< keyboard "\*" >}} como marcador de un **lista desordenada** uso.
+Puede {{< key "\-" >}} o {{< key "\*" >}} como marcador de un **lista desordenada** uso.
 
 ![Resultado de la sintaxis Markdown Lista sin ordenar](images/result-unordered-list-syntax-1.png)
 
 ### Lista ordenada
 
-Si una línea empieza por {{< keyboard "1." >}}se convierte automáticamente en **lista ordenada** convertido.
+Si una línea empieza por {{< key "1." >}}se convierte automáticamente en **lista ordenada** convertido.
 
 1\. punto 1  
 2\. punto 2
 
 ### Citas en bloque
 
-A **Cita en bloque** es una línea que empieza por {{< keyboard "\>" >}} y a continuación el contenido de la cita. Las citas se marcan con una sangría y un marco en el margen izquierdo.
+A **Cita en bloque** es una línea que empieza por {{< key "\>" >}} y a continuación el contenido de la cita. Las citas se marcan con una sangría y un marco en el margen izquierdo.
 
 ![Presupuesto Markdown](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
 
 ### Código en línea
 
-Texto escrito por un {{< keyboard "FIXME: backtick" >}} se rodea se representa como código inline. Así, de **apiKey es tu token secreto de la API** el siguiente formato:
+Texto escrito por un {{< key "FIXME: backtick" >}} se rodea se representa como código inline. Así, de **apiKey es tu token secreto de la API** el siguiente formato:
 
 ![Resultado del código inline de la sintaxis Markdown](images/result-inline-code.png)
 
 ### Bloques de códigos
 
-A **Bloque de códigos** se consigue mediante tres **Contratiempos** {{< keyboard "```" >}} introducido. La particularidad del bloque de código es que el contenido es **Código en línea** se muestra con fuente monoespaciada. Las sangrías también se conservan exactamente como se introducen.
+A **Bloque de códigos** se consigue mediante tres **Contratiempos** {{< key "```" >}} introducido. La particularidad del bloque de código es que el contenido es **Código en línea** se muestra con fuente monoespaciada. Las sangrías también se conservan exactamente como se introducen.
 
 ![Bloque de código Markdown](https://seatable.io/wp-content/uploads/2023/05/markdown-codeblock.png)
 
 ### Saltos de línea
 
-Cada salto de línea {{< keyboard "↵" >}} se trata como un salto de línea duro con espaciado entre las dos líneas. No es posible un salto de línea sin espaciado entre las líneas individuales. También **saltos de línea múltiples** se eliminan y se reducen a un simple salto de línea.
+Cada salto de línea {{< key "↵" >}} se trata como un salto de línea duro con espaciado entre las dos líneas. No es posible un salto de línea sin espaciado entre las líneas individuales. También **saltos de línea múltiples** se eliminan y se reducen a un simple salto de línea.
 
 ## Formateo que no se puede activar con caracteres especiales
 
-**Casillas de verificación** suelen representarse en Markdown mediante un {{< keyboard "\[ \]" >}} o un {{< keyboard "\[x\]" >}} se introduce. Sin embargo, esta entrada no se convierte automáticamente en una casilla de verificación. En su lugar, debe hacer clic en el pequeño icono de casilla de verificación {{< seatable-icon icon="dtable-icon-check-square" >}} clic.
+**Casillas de verificación** suelen representarse en Markdown mediante un {{< key "\[ \]" >}} o un {{< key "\[x\]" >}} se introduce. Sin embargo, esta entrada no se convierte automáticamente en una casilla de verificación. En su lugar, debe hacer clic en el pequeño icono de casilla de verificación {{< seatable-icon icon="dtable-icon-check-square" >}} clic.
 
 **Los hipervínculos** también son compatibles con SeaTable Markdown, pero sólo pueden insertarse a través del icono {{< seatable-icon icon="icon-link" >}}.
 
 ## Formato no admitido
 
-{{< keyboard "~~strikethrough~~" >}} no es compatible con SeaTable. También se eliminan los saltos de línea duplicados y se crea un {{< keyboard "<br>" >}} no se interpreta como un salto de línea adicional.
+{{< key "~~strikethrough~~" >}} no es compatible con SeaTable. También se eliminan los saltos de línea duplicados y se crea un {{< key "<br>" >}} no se interpreta como un salto de línea adicional.

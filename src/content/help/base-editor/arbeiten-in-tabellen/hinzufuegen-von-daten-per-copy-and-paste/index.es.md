@@ -8,11 +8,11 @@ author: 'vge'
 url: '/es/ayuda/hinzufuegen-von-daten-per-copy-and-paste'
 ---
 
-SeaTable conoce las combinaciones de teclas más populares {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} y {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} para copiar y pegar datos. Esto funciona tanto con los datos que desea copiar dentro de SeaTable como con los datos que desea pegar en SeaTable.
+SeaTable conoce las combinaciones de teclas más populares {{< key "Ctrl" >}}+{{< key "C" >}} y {{< key "Ctrl" >}}+{{< key "V" >}} para copiar y pegar datos. Esto funciona tanto con los datos que desea copiar dentro de SeaTable como con los datos que desea pegar en SeaTable.
 
 ## Copiar y pegar datos
 
-En un editor de texto u hoja de cálculo, seleccione los valores que desea copiar en SeaTable. Copie los valores con {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} y cambiar a una tabla SeaTable. Seleccione una celda e inserte los valores con {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} en.
+En un editor de texto u hoja de cálculo, seleccione los valores que desea copiar en SeaTable. Copie los valores con {{< key "Ctrl" >}}+{{< key "C" >}} y cambiar a una tabla SeaTable. Seleccione una celda e inserte los valores con {{< key "Ctrl" >}}+{{< key "V" >}} en.
 
 Tenga en cuenta que copiar y pegar _no_ funcionará si los **formatos de** los datos copiados no coinciden con los del tipo de columna de las celdas que se van a pegar.
 

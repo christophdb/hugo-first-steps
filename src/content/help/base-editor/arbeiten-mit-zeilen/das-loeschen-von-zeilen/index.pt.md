@@ -32,7 +32,7 @@ Neste artigo aprenderá como **eliminar** uma **única linha**, **várias linhas
 
 ## Eliminação de entradas de uma linha
 
-Pode apagar a entrada em qualquer célula de uma linha, clicando no **Seleccionar célula** e a entrada com o **Chave de backspace** ou {{< keyboard "Del" >}} Eliminar
+Pode apagar a entrada em qualquer célula de uma linha, clicando no **Seleccionar célula** e a entrada com o **Chave de backspace** ou {{< key "Del" >}} Eliminar
 
 ## Restaurar linhas apagadas
 
@@ -40,4 +40,4 @@ Se quiser restaurar uma **linha eliminada**, pode encontrá-la no **caixote da r
 
 ![Restaurar linhas apagadas](images/restore-rows-from-trash.png)
 
-Também pode utilizar a combinação de teclas {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}} Desfaça as suas últimas operações e restabeleça as linhas eliminadas, desde que não tenha saído da Base desde a eliminação.
+Também pode utilizar a combinação de teclas {{< key "CTRL" >}} + {{< key "Z" >}} Desfaça as suas últimas operações e restabeleça as linhas eliminadas, desde que não tenha saído da Base desde a eliminação.

@@ -141,11 +141,11 @@ Zudem können Sie die **Zoomstufe** der Leinwand in der unteren linken Ecke änd
 
 ### Elemente duplizieren, ausschneiden, kopieren und einfügen
 
-Um ein Element zu duplizieren, gibt es drei Möglichkeiten: Entweder Sie klicken am oberen linken Rand auf das **Duplikat-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü **Duplizieren** aus oder Sie verwenden den **Shortcut** {{< keyboard "Strg" >}}+{{< keyboard "D" >}}.
+Um ein Element zu duplizieren, gibt es drei Möglichkeiten: Entweder Sie klicken am oberen linken Rand auf das **Duplikat-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü **Duplizieren** aus oder Sie verwenden den **Shortcut** {{< key "Strg" >}}+{{< key "D" >}}.
 
 ![Elemente duplizieren, kopieren, ausschneiden und einfügen](images/Elemente-duplizieren-kopieren-ausschneiden-und-einfuegen.gif)
 
-Um ein Element auszuschneiden, zu kopieren oder einzufügen, können Sie einen Rechtsklick auf das Element machen und im **Kontextmenü** die entsprechende Option wählen oder die bekannten **Shortcuts** {{< keyboard "Strg" >}}+{{< keyboard "X" >}}, {{< keyboard "Strg" >}}+{{< keyboard "C" >}} und {{< keyboard "Strg" >}}+{{< keyboard "V" >}} nutzen. Des Weiteren können Sie ein Element als Bilddatei (PNG oder SVG) in den Zwischenspeicher kopieren.
+Um ein Element auszuschneiden, zu kopieren oder einzufügen, können Sie einen Rechtsklick auf das Element machen und im **Kontextmenü** die entsprechende Option wählen oder die bekannten **Shortcuts** {{< key "Strg" >}}+{{< key "X" >}}, {{< key "Strg" >}}+{{< key "C" >}} und {{< key "Strg" >}}+{{< key "V" >}} nutzen. Des Weiteren können Sie ein Element als Bilddatei (PNG oder SVG) in den Zwischenspeicher kopieren.
 
 ### Elemente in den Vordergrund oder Hintergrund rücken
 
@@ -169,13 +169,13 @@ Wenn Sie auf der Leinwand arbeiten möchten, ohne bestimmte Elemente versehentli
 
 ### Elemente löschen
 
-Wenn Sie ein Element löschen möchten, gibt es mehrere Möglichkeiten: Entweder Sie klicken am oberen linken Rand auf das **Papierkorb-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü **Löschen** aus oder Sie verwenden die Tasten {{< keyboard "Backspace" >}} oder {{< keyboard "Entf" >}}.
+Wenn Sie ein Element löschen möchten, gibt es mehrere Möglichkeiten: Entweder Sie klicken am oberen linken Rand auf das **Papierkorb-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü **Löschen** aus oder Sie verwenden die Tasten {{< key "Backspace" >}} oder {{< key "Entf" >}}.
 
 Um schnell und treffsicher mehrere Elemente von der Leinwand zu entfernen, können Sie auch den **Radierer** aus der Werkzeugleiste nutzen.
 
 {{< warning  headline="Achtung"  text="Im Whiteboard-Plugin gibt es keinen Papierkorb. Die entfernten Elemente sind **endgültig gelöscht**." />}}
 
-Mit den Pfeilsymbolen am oberen linken Rand können Sie nur die letzten Schritte **rückgängig machen** oder **wiederherstellen**. Ebenso können Sie dafür die bekannten Shortcuts {{< keyboard "Strg" >}}+{{< keyboard "Z" >}} und {{< keyboard "Strg" >}}+{{< keyboard "Shift" >}}+{{< keyboard "Z" >}} nutzen.
+Mit den Pfeilsymbolen am oberen linken Rand können Sie nur die letzten Schritte **rückgängig machen** oder **wiederherstellen**. Ebenso können Sie dafür die bekannten Shortcuts {{< key "Strg" >}}+{{< key "Z" >}} und {{< key "Strg" >}}+{{< key "Shift" >}}+{{< key "Z" >}} nutzen.
 
 ## Leinwandeinstellungen
 

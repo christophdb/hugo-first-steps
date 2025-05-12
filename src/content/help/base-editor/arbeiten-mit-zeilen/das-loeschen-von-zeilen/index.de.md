@@ -32,7 +32,7 @@ In diesem Artikel lernen Sie, wie Sie eine **einzelne Zeile**, **mehrere Zeilen*
 
 ## Löschen von Einträgen aus einer Zeile
 
-Sie können den Eintrag in jeder Zelle einer Zeile löschen, indem Sie mit einem Klick die **Zelle auswählen** und den Eintrag mit der **Backspace-Taste** oder {{< keyboard "Entf" >}} löschen.
+Sie können den Eintrag in jeder Zelle einer Zeile löschen, indem Sie mit einem Klick die **Zelle auswählen** und den Eintrag mit der **Backspace-Taste** oder {{< key "Entf" >}} löschen.
 
 ## Wiederherstellen gelöschter Zeilen
 
@@ -40,4 +40,4 @@ Wenn Sie eine **gelöschte Zeile** wiederherstellen möchten, finden Sie diese i
 
 ![Wiederherstellen von gelöschten Zeilen](images/restore-rows-from-trash.png)
 
-Außerdem können Sie mit der Tastenkombination {{< keyboard "STRG" >}} + {{< keyboard "Z" >}} Ihre letzten Arbeitsschritte rückgängig machen und gelöschte Zeilen wiederherstellen, sofern Sie seit der Löschung die Base nicht verlassen haben.
+Außerdem können Sie mit der Tastenkombination {{< key "STRG" >}} + {{< key "Z" >}} Ihre letzten Arbeitsschritte rückgängig machen und gelöschte Zeilen wiederherstellen, sofern Sie seit der Löschung die Base nicht verlassen haben.

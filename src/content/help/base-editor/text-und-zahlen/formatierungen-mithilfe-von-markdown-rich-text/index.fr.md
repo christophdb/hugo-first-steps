@@ -26,7 +26,7 @@ Dès que Markdown est utilisé dans SeaTable, le masque de saisie suivant vous e
 
 ![Markdown dans SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
 
-Vous pouvez également déclencher directement le formatage Markdown en saisissant certains caractères spéciaux. Il suffit de taper dans un champ de saisie Markdown un {{< keyboard "#" >}} suivi d'un mot. Vous verrez que dans la syntaxe Markdown, le dièse correspond à un premier titre. Ainsi, si vous savez quel caractère spécial déclenche quel formatage, vous pouvez saisir et formater vos textes beaucoup plus rapidement.
+Vous pouvez également déclencher directement le formatage Markdown en saisissant certains caractères spéciaux. Il suffit de taper dans un champ de saisie Markdown un {{< key "#" >}} suivi d'un mot. Vous verrez que dans la syntaxe Markdown, le dièse correspond à un premier titre. Ainsi, si vous savez quel caractère spécial déclenche quel formatage, vous pouvez saisir et formater vos textes beaucoup plus rapidement.
 
 Actuellement, vous ne pouvez déclencher qu'une partie du formatage par un caractère spécial. Vous découvrirez dans cet article quels sont ces caractères.
 
@@ -38,7 +38,7 @@ Actuellement, SeaTable permet d'activer les options de syntaxe suivantes par des
 
 ### Titres
 
-Une ligne commençant par un à trois {{< keyboard "#" >}}\-suivi d'un espace, donne un **Titre** du premier au troisième niveau.
+Une ligne commençant par un à trois {{< key "#" >}}\-suivi d'un espace, donne un **Titre** du premier au troisième niveau.
 
 **Syntaxe Markdown**
 
@@ -52,7 +52,7 @@ Une ligne commençant par un à trois {{< keyboard "#" >}}\-suivi d'un espace, d
 
 ### Gras et italique
 
-Texte rédigé par un {{< keyboard "\*" >}} ou {{< keyboard "\_" >}} couple est entouré **en italique** formaté (ce qui, en Markdown, signifie une emphase) ; le texte qui est accompagné d'un double {{< keyboard "\*\*" >}} ou {{< keyboard "\_ \_" >}} couple est entouré **gras** (ce qui signifie une forte accentuation en Markdown). Les mises en forme peuvent également être combinées avec d'autres formats en ligne.
+Texte rédigé par un {{< key "\*" >}} ou {{< key "\_" >}} couple est entouré **en italique** formaté (ce qui, en Markdown, signifie une emphase) ; le texte qui est accompagné d'un double {{< key "\*\*" >}} ou {{< key "\_ \_" >}} couple est entouré **gras** (ce qui signifie une forte accentuation en Markdown). Les mises en forme peuvent également être combinées avec d'autres formats en ligne.
 
 **Syntaxe Markdown**
 
@@ -76,45 +76,45 @@ _**Combinez-les pour obtenir un italique gras**_
 
 ### Liste non triée
 
-Vous pouvez soit {{< keyboard "\-" >}} ou {{< keyboard "\*" >}} comme marqueur d'une **liste non triée** utiliser.
+Vous pouvez soit {{< key "\-" >}} ou {{< key "\*" >}} comme marqueur d'une **liste non triée** utiliser.
 
 ![Résultat de la syntaxe Markdown Liste non triée](images/result-unordered-list-syntax-1.png)
 
 ### Liste triée
 
-Si une ligne commence par un {{< keyboard "1." >}}elle est automatiquement transformée en une **liste triée** transformé.
+Si une ligne commence par un {{< key "1." >}}elle est automatiquement transformée en une **liste triée** transformé.
 
 1\. item 1  
 2ème item 2
 
 ### Citations en bloc
 
-Un **Citation en bloc** est une ligne qui commence par {{< keyboard "\>" >}} suivie du contenu de la citation. Les citations sont signalées par une indentation et un cadre dans la marge de gauche.
+Un **Citation en bloc** est une ligne qui commence par {{< key "\>" >}} suivie du contenu de la citation. Les citations sont signalées par une indentation et un cadre dans la marge de gauche.
 
 ![Citation de Markdown](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
 
 ### Code en ligne
 
-Texte rédigé par un {{< keyboard "FIXME: backtick" >}} couple est représenté sous forme de code en ligne. Ainsi, de **apiKey est votre jeton secret API** le formatage suivant :
+Texte rédigé par un {{< key "FIXME: backtick" >}} couple est représenté sous forme de code en ligne. Ainsi, de **apiKey est votre jeton secret API** le formatage suivant :
 
 ![Résultat de la syntaxe Markdown Code en ligne](images/result-inline-code.png)
 
 ### Blocs de code
 
-Un **Bloc de code** est déterminé par trois successives **Bâtons de cuisson** {{< keyboard "```" >}} a été introduit. La particularité du bloc de code est que son contenu est présenté sous forme de **Code en ligne** est affiché avec une police monospace. Les indentations sont également conservées telles qu'elles sont saisies.
+Un **Bloc de code** est déterminé par trois successives **Bâtons de cuisson** {{< key "```" >}} a été introduit. La particularité du bloc de code est que son contenu est présenté sous forme de **Code en ligne** est affiché avec une police monospace. Les indentations sont également conservées telles qu'elles sont saisies.
 
 ![Bloc de code Markdown](https://seatable.io/wp-content/uploads/2023/05/markdown-codeblock.png)
 
 ### Sauts de ligne
 
-Chaque retour à la ligne {{< keyboard "↵" >}} est traité comme un saut de ligne dur avec un espace entre les deux lignes. Un saut de ligne sans espace entre les différentes lignes n'est pas possible. Aussi **plusieurs retours à la ligne** à la suite sont supprimés et réduits à un simple retour à la ligne.
+Chaque retour à la ligne {{< key "↵" >}} est traité comme un saut de ligne dur avec un espace entre les deux lignes. Un saut de ligne sans espace entre les différentes lignes n'est pas possible. Aussi **plusieurs retours à la ligne** à la suite sont supprimés et réduits à un simple retour à la ligne.
 
 ## Formatages que vous ne pouvez pas activer par des caractères spéciaux
 
-**Cases à cocher** sont typiquement remplacés en Markdown par un {{< keyboard "\[ \]" >}} ou un {{< keyboard "\[x\]" >}} est saisie. Toutefois, cette saisie n'est pas automatiquement convertie en case à cocher. Au lieu de cela, vous devez utiliser la petite icône de case à cocher {{< seatable-icon icon="dtable-icon-check-square" >}} cliquer.
+**Cases à cocher** sont typiquement remplacés en Markdown par un {{< key "\[ \]" >}} ou un {{< key "\[x\]" >}} est saisie. Toutefois, cette saisie n'est pas automatiquement convertie en case à cocher. Au lieu de cela, vous devez utiliser la petite icône de case à cocher {{< seatable-icon icon="dtable-icon-check-square" >}} cliquer.
 
 **Les hyperliens** sont également pris en charge dans SeaTable Markdown, mais ne peuvent être insérés que via l'icône {{< seatable-icon icon="icon-link" >}}.
 
 ## Formats non pris en charge
 
-{{< keyboard "~~strikethrough~~" >}} n'est pas pris en charge par SeaTable. Les doubles retours à la ligne sont également supprimés et un {{< keyboard "<br>" >}} n'est pas interprété comme un saut de ligne supplémentaire.
+{{< key "~~strikethrough~~" >}} n'est pas pris en charge par SeaTable. Les doubles retours à la ligne sont également supprimés et un {{< key "<br>" >}} n'est pas interprété comme un saut de ligne supplémentaire.

@@ -60,7 +60,7 @@ L'outil Image vous permet d'insérer des images de votre appareil dans le dessin
 
 ### Gomme
 
-Cet outil permet d'effacer d'un seul coup plusieurs éléments sur le canevas. Maintenez le bouton gauche de la souris enfoncé pendant que vous passez la gomme sur les éléments à effacer. En revanche, si vous passez sur des éléments tout en appuyant sur la touche {{< keyboard "ALT" >}} maintenue, les éléments restent épargnés par la suppression ou sont désélectionnés pour être supprimés.
+Cet outil permet d'effacer d'un seul coup plusieurs éléments sur le canevas. Maintenez le bouton gauche de la souris enfoncé pendant que vous passez la gomme sur les éléments à effacer. En revanche, si vous passez sur des éléments tout en appuyant sur la touche {{< key "ALT" >}} maintenue, les éléments restent épargnés par la suppression ou sont désélectionnés pour être supprimés.
 
 ![Gomme dans le plugin pour tableau blanc](images/Eraser-tool.gif)
 
@@ -130,17 +130,17 @@ Avec l'**outil de sélection**, cliquez sur l'élément que vous souhaitez adapt
 
 ![Déplacer, faire pivoter, agrandir et réduire les éléments](images/Elemente-verschieben-drehen-vergroessern-und-verkleinern.gif)
 
-Les icônes de flèches en bas à gauche vous permettent d'accéder aux dernières étapes de la procédure. **annuler** ou **restaurer**. Vous pouvez également utiliser les raccourcis bien connus {{< keyboard "Ctrl" >}}+{{< keyboard "Z" >}} et {{< keyboard "Ctrl" >}}+{{< keyboard "Shift" >}}+{{< keyboard "Z" >}} utiliser.
+Les icônes de flèches en bas à gauche vous permettent d'accéder aux dernières étapes de la procédure. **annuler** ou **restaurer**. Vous pouvez également utiliser les raccourcis bien connus {{< key "Ctrl" >}}+{{< key "Z" >}} et {{< key "Ctrl" >}}+{{< key "Shift" >}}+{{< key "Z" >}} utiliser.
 
 En outre, vous pouvez modifier le **niveau de zoom** du canevas à l'aide des symboles plus et moins. Toutefois, cela ne modifie que la taille de la partie visible et non la taille des éléments.
 
 ### Dupliquer, couper, copier et coller des éléments
 
-Pour dupliquer un élément, il existe trois possibilités : Soit vous cliquez dans les paramètres de l'élément sur le **Icône de duplication** ou faites un clic droit sur l'élément et choisissez dans le menu contextuel **Dupliquer** ou vous pouvez utiliser le **Raccourci** {{< keyboard "Ctrl" >}}+{{< keyboard "D" >}}.
+Pour dupliquer un élément, il existe trois possibilités : Soit vous cliquez dans les paramètres de l'élément sur le **Icône de duplication** ou faites un clic droit sur l'élément et choisissez dans le menu contextuel **Dupliquer** ou vous pouvez utiliser le **Raccourci** {{< key "Ctrl" >}}+{{< key "D" >}}.
 
 ![Dupliquer, couper et coller des éléments](images/Elemente-duplizieren-ausschneiden-und-einfuegen.gif)
 
-Pour couper, copier ou coller un élément, vous pouvez faire un clic droit sur l'élément et cliquer sur le bouton "Couper" dans le menu contextuel. **Menu contextuel** sélectionner l'option correspondante ou utiliser les fameux **Raccourcis** {{< keyboard "Ctrl" >}}+{{< keyboard "X" >}}, {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} et {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} utiliser.
+Pour couper, copier ou coller un élément, vous pouvez faire un clic droit sur l'élément et cliquer sur le bouton "Couper" dans le menu contextuel. **Menu contextuel** sélectionner l'option correspondante ou utiliser les fameux **Raccourcis** {{< key "Ctrl" >}}+{{< key "X" >}}, {{< key "Ctrl" >}}+{{< key "C" >}} et {{< key "Ctrl" >}}+{{< key "V" >}} utiliser.
 
 ![Options de copie d'éléments](images/Optionen-zum-Kopieren-von-Elementen.png)
 
@@ -164,7 +164,7 @@ Si vous souhaitez retourner des éléments, faites un clic droit sur l'élément
 
 ### Lier des éléments
 
-Vous souhaitez ajouter à votre dessin des éléments (par exemple des boutons, des images ou du texte) qui renvoient à des pages web spécifiques ? Il vous suffit alors d'insérer un lien URL vers ces éléments. Pour ce faire, cliquez soit sur le bouton **Symbole de la chaîne** ou faites un clic droit sur l'élément avant de choisir dans le menu contextuel **Créer un lien** ou utilisez le raccourci {{< keyboard "Ctrl" >}}+{{< keyboard "K" >}}.
+Vous souhaitez ajouter à votre dessin des éléments (par exemple des boutons, des images ou du texte) qui renvoient à des pages web spécifiques ? Il vous suffit alors d'insérer un lien URL vers ces éléments. Pour ce faire, cliquez soit sur le bouton **Symbole de la chaîne** ou faites un clic droit sur l'élément avant de choisir dans le menu contextuel **Créer un lien** ou utilisez le raccourci {{< key "Ctrl" >}}+{{< key "K" >}}.
 
 ![Lier des éléments](images/Elemente-verlinken.gif)
 
@@ -178,7 +178,7 @@ Si vous souhaitez travailler sur le canevas sans déplacer ou modifier certains 
 
 ### Supprimer des éléments
 
-Si vous souhaitez supprimer un élément, vous avez plusieurs possibilités : Soit vous cliquez sur le bouton "Supprimer" dans les paramètres de l'élément. **Icône de la corbeille** ou faites un clic droit sur l'élément et sélectionnez dans le menu contextuel tout en bas **Supprimer** ou utilisez les boutons {{< keyboard "Retour arrière" >}} ou {{< keyboard "Supprimer" >}}.
+Si vous souhaitez supprimer un élément, vous avez plusieurs possibilités : Soit vous cliquez sur le bouton "Supprimer" dans les paramètres de l'élément. **Icône de la corbeille** ou faites un clic droit sur l'élément et sélectionnez dans le menu contextuel tout en bas **Supprimer** ou utilisez les boutons {{< key "Retour arrière" >}} ou {{< key "Supprimer" >}}.
 
 Pour supprimer rapidement et avec précision plusieurs éléments du canevas, vous pouvez également utiliser la **gomme** de la barre d'outils.
 

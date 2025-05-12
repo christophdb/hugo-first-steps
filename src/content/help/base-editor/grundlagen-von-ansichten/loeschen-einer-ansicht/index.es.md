@@ -25,7 +25,7 @@ Puede eliminar las vistas que se hayan creado incorrectamente o que hayan dejado
 
 ¿Se puede recuperar una vista borrada?|||
 
-**No**. Dado que una vista no contiene datos propios, sino que es simplemente una representación especial de los datos, una vista eliminada no puede borrarse ni a través de la papelera de reciclaje ni a través del acceso directo {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}} Restaurar.
+**No**. Dado que una vista no contiene datos propios, sino que es simplemente una representación especial de los datos, una vista eliminada no puede borrarse ni a través de la papelera de reciclaje ni a través del acceso directo {{< key "CTRL" >}} + {{< key "Z" >}} Restaurar.
 
 ---
 

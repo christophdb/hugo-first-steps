@@ -25,7 +25,7 @@ Falsch erstellte oder irrelevant gewordene Ansichten können Sie jederzeit lösc
 
 |||
 
-**Nein**. Da eine Ansicht keine eigenen Daten enthält, sondern lediglich eine spezielle Darstellung der Daten ist, kann man eine gelöschte Ansicht weder über den Papierkorb noch über den Shortcut {{< keyboard "STRG" >}} + {{< keyboard "Z" >}} wiederherstellen.
+**Nein**. Da eine Ansicht keine eigenen Daten enthält, sondern lediglich eine spezielle Darstellung der Daten ist, kann man eine gelöschte Ansicht weder über den Papierkorb noch über den Shortcut {{< key "STRG" >}} + {{< key "Z" >}} wiederherstellen.
 
 ---
 

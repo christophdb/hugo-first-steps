@@ -42,7 +42,7 @@ Pour pouvoir créer des liens, nous avons besoin d'un deuxième tableau, que nou
 
 Pour relier les enregistrements des deux tables, vous avez deux possibilités :
 
-1. Vous pouvez attribuer à une entrée de la table `Expenses` manuellement une ligne de la table `Categories` en cliquant à l'intérieur de la cellule sur le bouton {{< keyboard "+" >}} puis sélectionner la catégorie appropriée. Cela devient vite fastidieux et source d'erreurs lorsque le volume de données est important.  
+1. Vous pouvez attribuer à une entrée de la table `Expenses` manuellement une ligne de la table `Categories` en cliquant à l'intérieur de la cellule sur le bouton {{< key "+" >}} puis sélectionner la catégorie appropriée. Cela devient vite fastidieux et source d'erreurs lorsque le volume de données est important.  
    ![](images/level1-link-rows.png)
 2. Vous pouvez également utiliser la [Options de traitement des données](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) de SeaTable pour automatiser la mise en place des liens.  
    ![](images/level1-data-operation.png)

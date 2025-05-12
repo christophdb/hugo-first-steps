@@ -29,7 +29,7 @@ In SeaTable können Sie Zeilen kommentieren, um sich beispielsweise innerhalb ei
 
 ## Teammitglieder in den Chat einfügen
 
-Sie können Teammitglieder auf Ihren Kommentar aufmerksam machen, indem Sie sie über das **Plus-Symbol** zum Chat hinzufügen. Alternativ können Sie auch ein {{< keyboard "@" >}} und den **Namen des Mitglieds** verwenden, um Teammitglieder dem Chat hinzuzufügen. Das Mitglied bekommt eine **Benachrichtigung in SeaTable** und wird über neue Kommentare im Chatverlauf benachrichtigt, selbst wenn keine weitere Erwähnung über {{< keyboard "@" >}} stattfindet.
+Sie können Teammitglieder auf Ihren Kommentar aufmerksam machen, indem Sie sie über das **Plus-Symbol** zum Chat hinzufügen. Alternativ können Sie auch ein {{< key "@" >}} und den **Namen des Mitglieds** verwenden, um Teammitglieder dem Chat hinzuzufügen. Das Mitglied bekommt eine **Benachrichtigung in SeaTable** und wird über neue Kommentare im Chatverlauf benachrichtigt, selbst wenn keine weitere Erwähnung über {{< key "@" >}} stattfindet.
 
 ## Anzeige der kommentierten Zeilen
 

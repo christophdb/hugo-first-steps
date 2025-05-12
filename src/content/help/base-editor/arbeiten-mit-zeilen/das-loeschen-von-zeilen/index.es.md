@@ -32,7 +32,7 @@ En este artículo aprenderás a **eliminar** una **fila**, **varias filas** y **
 
 ## Borrar entradas de una línea
 
-Puede eliminar la entrada de cualquier celda de una fila pulsando el botón **Seleccionar celda** y la entrada con el **Tecla de retroceso** o {{< keyboard "Del" >}} Borrar
+Puede eliminar la entrada de cualquier celda de una fila pulsando el botón **Seleccionar celda** y la entrada con el **Tecla de retroceso** o {{< key "Del" >}} Borrar
 
 ## Restaurar las líneas borradas
 
@@ -40,4 +40,4 @@ Si quieres restaurar una línea **borrada**, puedes encontrarla en la **papelera
 
 ![Restaurar las líneas borradas](images/restore-rows-from-trash.png)
 
-También puede utilizar la combinación de teclas {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}} Deshaga sus últimas operaciones y restaure las filas eliminadas, siempre que no haya abandonado Base desde la eliminación.
+También puede utilizar la combinación de teclas {{< key "CTRL" >}} + {{< key "Z" >}} Deshaga sus últimas operaciones y restaure las filas eliminadas, siempre que no haya abandonado Base desde la eliminación.

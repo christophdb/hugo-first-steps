@@ -42,7 +42,7 @@ Para podermos criar ligações, precisamos de uma segunda tabela, que vamos cria
 
 Existem agora duas opções para ligar os registos de dados em ambas as tabelas:
 
-1. É possível atribuir uma entrada na lista `Expenses` Selecionar manualmente uma linha da tabela `Categories` clicando na célula do ficheiro {{< keyboard "+" >}} e, em seguida, selecionar a categoria adequada. Isto torna-se rapidamente aborrecido e propenso a erros com grandes quantidades de dados.  
+1. É possível atribuir uma entrada na lista `Expenses` Selecionar manualmente uma linha da tabela `Categories` clicando na célula do ficheiro {{< key "+" >}} e, em seguida, selecionar a categoria adequada. Isto torna-se rapidamente aborrecido e propenso a erros com grandes quantidades de dados.  
    ![](images/level1-link-rows.png)
 2. Em alternativa, pode utilizar o [Opções de processamento de dados](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) do SeaTable para automatizar a definição das ligações.  
    ![](images/level1-data-operation.png)

@@ -22,7 +22,7 @@ Sie haben die Möglichkeit, **Zeilendetails** ähnlich wie [Tabellenansichten](h
 6. Das **Standard-Druckfenster** Ihres Geräts öffnet sich. Hier können Sie sonstige Einstellungen vornehmen und eine Druckvorschau sehen.
 7. Schließen Sie die Aktion ab, indem Sie auf **Drucken** drücken.
 
-Sie können eine Zeile auch drucken, indem Sie die Zeilendetails öffnen und den Shortcut {{< keyboard "Strg" >}} + {{< keyboard "P" >}} verwenden.
+Sie können eine Zeile auch drucken, indem Sie die Zeilendetails öffnen und den Shortcut {{< key "Strg" >}} + {{< key "P" >}} verwenden.
 
 ## Kompakter und normaler Druck
 

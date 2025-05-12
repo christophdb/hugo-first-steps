@@ -25,4 +25,4 @@ Les tableaux de SeaTable peuvent contenir des milliers d'enregistrements. Pour q
 La recherche de SeaTable offre encore deux fonctions que nous ne voulons évidemment pas vous priver :
 
 - Si, après avoir cliqué sur la loupe, vous cliquez sur **Rechercher dans tous les tableaux** sous le champ de recherche, une fenêtre s'ouvre dans laquelle vous pouvez rechercher le terme ou la valeur que vous avez saisi dans **tous les** **tableaux** appartenant à la base.
-- Bien entendu, SeaTable prend également en charge la combinaison de touches {{< keyboard "CTRL" >}} + {{< keyboard "F" >}}pour activer le champ de recherche.
+- Bien entendu, SeaTable prend également en charge la combinaison de touches {{< key "CTRL" >}} + {{< key "F" >}}pour activer le champ de recherche.

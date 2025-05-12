@@ -25,4 +25,4 @@ Tables in SeaTable can contain thousands of records. So that you can still find 
 SeaTable's search offers two more functions that we don't want to deprive you of, of course:
 
 - If you click on **Search all tables** below the search field after clicking on the magnifying glass, a window opens in which you can search **all** **tables** belonging to the Base for your entered term or value.
-- Of course SeaTable also supports the key combination {{< keyboard "CTRL" >}} + {{< keyboard "F" >}}to activate the search field.
+- Of course SeaTable also supports the key combination {{< key "CTRL" >}} + {{< key "F" >}}to activate the search field.

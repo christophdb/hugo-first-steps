@@ -18,8 +18,8 @@ Cliquez avec le bouton droit de la souris sur une ligne et sélectionnez l'optio
 
 ## Duplication multiple d'une ligne
 
-Si vous souhaitez dupliquer une ligne plusieurs fois, vous pouvez le faire facilement en utilisant ce que l'on appelle la poignée de remplissage. Créez d'abord le nombre de lignes vides souhaitées, par exemple avec la combinaison de touches {{< keyboard "SHIFT" >}}+{{< keyboard "ENTER" >}}. Ensuite, sélectionnez la ligne souhaitée et faites-la glisser le long du **petit carré** dans le coin inférieur droit de la dernière cellule sélectionnée, vers le bas, pour créer les copies souhaitées.
+Si vous souhaitez dupliquer une ligne plusieurs fois, vous pouvez le faire facilement en utilisant ce que l'on appelle la poignée de remplissage. Créez d'abord le nombre de lignes vides souhaitées, par exemple avec la combinaison de touches {{< key "SHIFT" >}}+{{< key "ENTER" >}}. Ensuite, sélectionnez la ligne souhaitée et faites-la glisser le long du **petit carré** dans le coin inférieur droit de la dernière cellule sélectionnée, vers le bas, pour créer les copies souhaitées.
 
 ![Dupliquer des lignes avec la poignée de tirage](images/duplicate-row-with-handle.gif)
 
-Au lieu de la poignée de remplissage, vous pouvez également utiliser le célèbre raccourci clavier {{< keyboard "CTRL" >}}+{{< keyboard "C" >}} et {{< keyboard "CTRL" >}}+{{< keyboard "V" >}} copier.
+Au lieu de la poignée de remplissage, vous pouvez également utiliser le célèbre raccourci clavier {{< key "CTRL" >}}+{{< key "C" >}} et {{< key "CTRL" >}}+{{< key "V" >}} copier.

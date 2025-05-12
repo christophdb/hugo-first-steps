@@ -20,7 +20,7 @@ A segunda maneira de inserir uma nova linha é **clicar com o botão direito do 
 
 ![Inserir linhas através do menu de contexto](images/Zeilen-ueber-das-Kontextmenue-einfuegen.png)
 
-Para rapidamente **várias novas linhas** também pode utilizar a combinação de teclas {{< keyboard "Shift" >}} + {{< keyboard "Entrar" >}} utilização. Primeiro clique sobre um **Linha**sob as quais se pretende inserir novas linhas. Em seguida, segure a **Chave de turnos** pressionado e pressionado o **Introduzir chave**para adicionar rapidamente linhas vazias.
+Para rapidamente **várias novas linhas** também pode utilizar a combinação de teclas {{< key "Shift" >}} + {{< key "Entrar" >}} utilização. Primeiro clique sobre um **Linha**sob as quais se pretende inserir novas linhas. Em seguida, segure a **Chave de turnos** pressionado e pressionado o **Introduzir chave**para adicionar rapidamente linhas vazias.
 
 ![Adicionar nova linha através de atalho](images/create-new-row-shortcut.gif)
 

@@ -20,7 +20,7 @@ La deuxième possibilité d'insérer une nouvelle ligne consiste à cliquer avec
 
 ![Insérer des lignes via le menu contextuel](images/Zeilen-ueber-das-Kontextmenue-einfuegen.png)
 
-Pour être rapide **plusieurs nouvelles lignes** vous pouvez également utiliser la combinaison de touches {{< keyboard "Shift" >}} + {{< keyboard "Entrez" >}} utiliser pour cela. Cliquez d'abord sur une **Ligne**sous laquelle vous souhaitez insérer de nouvelles lignes. Maintenez ensuite la touche **Touche Majuscule** et appuyez plusieurs fois sur la touche **Touche Entrée**pour ajouter rapidement des lignes vides.
+Pour être rapide **plusieurs nouvelles lignes** vous pouvez également utiliser la combinaison de touches {{< key "Shift" >}} + {{< key "Entrez" >}} utiliser pour cela. Cliquez d'abord sur une **Ligne**sous laquelle vous souhaitez insérer de nouvelles lignes. Maintenez ensuite la touche **Touche Majuscule** et appuyez plusieurs fois sur la touche **Touche Entrée**pour ajouter rapidement des lignes vides.
 
 ![Ajouter une nouvelle ligne par un raccourci](images/create-new-row-shortcut.gif)
 

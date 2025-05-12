@@ -141,11 +141,11 @@ You can also change the **zoom level** of the canvas in the bottom left-hand cor
 
 ### Duplicate, cut, copy and paste elements
 
-There are three ways to duplicate an element: You can either click on the **Duplicate symbol** or right-click on the element and select **Duplicate** or you can use the **Shortcut** {{< keyboard "Ctrl" >}}+{{< keyboard "D" >}}.
+There are three ways to duplicate an element: You can either click on the **Duplicate symbol** or right-click on the element and select **Duplicate** or you can use the **Shortcut** {{< key "Ctrl" >}}+{{< key "D" >}}.
 
 ![Duplicate, copy, cut and paste elements](images/Elemente-duplizieren-kopieren-ausschneiden-und-einfuegen.gif)
 
-To cut, copy or paste an element, you can right-click on the element and select the desired element in the **Context menu** select the appropriate option or use the familiar **Shortcuts** {{< keyboard "Ctrl" >}}+{{< keyboard "X" >}}, {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} and {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} use. You can also copy an element to the clipboard as an image file (PNG or SVG).
+To cut, copy or paste an element, you can right-click on the element and select the desired element in the **Context menu** select the appropriate option or use the familiar **Shortcuts** {{< key "Ctrl" >}}+{{< key "X" >}}, {{< key "Ctrl" >}}+{{< key "C" >}} and {{< key "Ctrl" >}}+{{< key "V" >}} use. You can also copy an element to the clipboard as an image file (PNG or SVG).
 
 ### Move elements to the foreground or background
 
@@ -169,13 +169,13 @@ If you want to work on the canvas without accidentally moving or changing certai
 
 ### Delete elements
 
-If you want to delete an element, there are several options: You can either click on the **Trash icon** or right-click on the element and select **Delete** or use the buttons {{< keyboard "Backspace" >}} or {{< keyboard "Del" >}}.
+If you want to delete an element, there are several options: You can either click on the **Trash icon** or right-click on the element and select **Delete** or use the buttons {{< key "Backspace" >}} or {{< key "Del" >}}.
 
 To quickly and accurately remove several elements from the canvas, you can also use the **eraser** from the toolbar.
 
 {{< warning  headline="Attention"  text="There is no recycle bin in the whiteboard plugin. The removed elements are **permanently deleted**." />}}
 
-You can use the arrow icons at the top left-hand edge to select only the last steps. **undo** or **Restore**. You can also use the familiar shortcuts {{< keyboard "Ctrl" >}}+{{< keyboard "Z" >}} and {{< keyboard "Ctrl" >}}+{{< keyboard "Shift" >}}+{{< keyboard "Z" >}} use.
+You can use the arrow icons at the top left-hand edge to select only the last steps. **undo** or **Restore**. You can also use the familiar shortcuts {{< key "Ctrl" >}}+{{< key "Z" >}} and {{< key "Ctrl" >}}+{{< key "Shift" >}}+{{< key "Z" >}} use.
 
 ## Screen settings
 

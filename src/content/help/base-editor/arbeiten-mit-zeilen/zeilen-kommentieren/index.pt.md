@@ -29,7 +29,7 @@ No SeaTable podem comentar as linhas, por exemplo para se darem feedback uns aos
 
 ## Acrescentar membros da equipa ao chat
 
-Pode chamar a atenção dos membros da equipa para o seu comentário, contactando-os através do **Símbolo Plus** para adicionar ao chat. Em alternativa, pode também adicionar um {{< keyboard "@" >}} e a **Nome do membro** para adicionar membros da equipa ao chat. O membro recebe um **Notificação em SeaTable** e será notificado de novos comentários na história do chat, mesmo que não seja feita mais nenhuma menção sobre {{< keyboard "@" >}} tem lugar.
+Pode chamar a atenção dos membros da equipa para o seu comentário, contactando-os através do **Símbolo Plus** para adicionar ao chat. Em alternativa, pode também adicionar um {{< key "@" >}} e a **Nome do membro** para adicionar membros da equipa ao chat. O membro recebe um **Notificação em SeaTable** e será notificado de novos comentários na história do chat, mesmo que não seja feita mais nenhuma menção sobre {{< key "@" >}} tem lugar.
 
 ## Exibição das linhas comentadas
 

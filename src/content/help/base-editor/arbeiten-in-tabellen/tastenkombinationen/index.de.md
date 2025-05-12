@@ -12,66 +12,66 @@ Wiederkehrende Aktionen und Handgriffe lassen sich in SeaTable bequem über Tast
 
 {{< warning  type="warning" headline="⚠️ Tastaturlayout beachten"  text="Die folgende Tabelle zeigt die Kürzel für ein englisches Tastaturlayout. Sollte die gewünschte Tastenkombination nicht funktionieren, liegt das wahrscheinlich daran, dass Sie ein anderes Tastaturlayout verwenden. Am Ende dieser Seite finden Sie Details dazu." />}}
 
-Um schnell eine Übersicht über alle Tastenkombinationen zu erhalten, müssen Sie übrigens nicht immer wieder auf diese Webseite zurückkehren. Sie finden die Übersicht aller Tastenkombinationen auch direkt in SeaTable. Öffnen Sie diese mit {{< keyboard "Ctrl" >}} {{< keyboard "?" >}} oder indem Sie auf das Fragezeichen-Symbol in der rechten oberen Ecke klicken.
+Um schnell eine Übersicht über alle Tastenkombinationen zu erhalten, müssen Sie übrigens nicht immer wieder auf diese Webseite zurückkehren. Sie finden die Übersicht aller Tastenkombinationen auch direkt in SeaTable. Öffnen Sie diese mit {{< key "Ctrl" >}} {{< key "?" >}} oder indem Sie auf das Fragezeichen-Symbol in der rechten oberen Ecke klicken.
 
 ![Keyboard shortcuts in SeaTable](https://seatable.io/wp-content/uploads/2022/08/keyboard-shortcuts.png)
 
 ## Tastenkombinationen in SeaTable
 
-| Allgemein                                                             |                                                                                        |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| {{< keyboard "Ctrl" >}} {{< keyboard "F" >}}                          | Öffnet die Suchfunktion. Mit {{< keyboard "ESC" >}} schließen Sie das Suchfeld wieder. |
-| {{< keyboard "Ctrl" >}} {{< keyboard "G" >}}                          | Nächstes Suchergebnis anzeigen.                                                        |
-| {{< keyboard "Ctrl" >}} {{< keyboard "Shift" >}} {{< keyboard "G" >}} | Vorheriges Suchergebnis anzeigen.                                                      |
+| Allgemein                                              |                                                                                   |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| {{< key "Ctrl" >}} {{< key "F" >}}                     | Öffnet die Suchfunktion. Mit {{< key "ESC" >}} schließen Sie das Suchfeld wieder. |
+| {{< key "Ctrl" >}} {{< key "G" >}}                     | Nächstes Suchergebnis anzeigen.                                                   |
+| {{< key "Ctrl" >}} {{< key "Shift" >}} {{< key "G" >}} | Vorheriges Suchergebnis anzeigen.                                                 |
 
-| Tabellenansicht                                                           |                                                                                                             |
-| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| {{< keyboard "Ctrl" >}} {{< keyboard "?" >}}                              | Öffnen der Übersicht der verfügbaren Tastenkombinationen.                                                   |
-| {{< keyboard "Ctrl" >}} {{< keyboard "Z" >}}                              | Letzte Aktion rückgängig machen.                                                                            |
-| {{< keyboard "Ctrl" >}} {{< keyboard "Shift" >}} {{< keyboard "Z" >}}     | Letzte Aktion erneut ausführen.                                                                             |
-| {{< keyboard "Ctrl" >}} {{< keyboard ";" >}}                              | Ausgewähltes Datums- oder Zeit-/Datumsfeld auf den heutigen Tag setzen.                                     |
-| {{< keyboard "Ctrl" >}} {{< keyboard "P" >}}                              | Drucken der aktuellen Ansicht oder Zeilendetails.                                                           |
-| {{< keyboard "Ctrl" >}} {{< keyboard "C" >}}                              | Kopieren einer Zelle oder Zellenauswahl.                                                                    |
-| {{< keyboard "Ctrl" >}} {{< keyboard "X" >}}                              | Ausschneiden einer Zelle oder Zellenauswahl.                                                                |
-| {{< keyboard "Ctrl" >}} {{< keyboard "L" >}}                              | Zeile sperren/entsperren (erfordert ein Enterprise Abo).                                                    |
-| {{< keyboard "Ctrl" >}} {{< keyboard "V" >}}                              | Einfügen einer Zelle (bei der Auswahl mehrerer Zellen wird der Wert in alle ausgewählten Zellen eingefügt). |
-| {{< keyboard "Space" >}}                                                  | Erweitern der ausgewählten Zeile.                                                                           |
-| {{< keyboard "PgUp" >}}                                                   | Bildschirm nach oben scrollen                                                                               |
-| {{< keyboard "PgDn" >}}                                                   | Bildschirm nach unten scrollen                                                                              |
-| {{< keyboard "Alt" >}} {{< keyboard "PgUp" >}}                            | Bildschirm nach links scrollen                                                                              |
-| {{< keyboard "Old" >}} {{< keyboard "PgDn" >}}                            | Bildschirm nach rechts scrollen                                                                             |
-| {{< keyboard "Ctrl" >}} {{< keyboard "↑" >}}                              | Bis zum oberen Tabellenrand scrollen                                                                        |
-| {{< keyboard "Ctrl" >}} {{< keyboard "↓" >}}                              | Bis zum unteren Tabellenrand scrollen                                                                       |
-| {{< keyboard "Ctrl" >}} {{< keyboard "←" >}}                              | Bis zum linken Tabellenrand scrollen                                                                        |
-| {{< keyboard "Ctrl" >}} {{< keyboard "→" >}}                              | Bis zum rechten Tabellenrand scrollen                                                                       |
-| {{< keyboard "Shift" >}} {{< keyboard "Enter" >}}                         | Einfügen einer neuen Zeile unter der aktuell ausgewählten Zelle.                                            |
-| {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "Enter" >}} | Neue Zeile hinzufügen und die Zeilendetails öffnen.                                                         |
-| {{< keyboard "Ctrl" >}} {{< keyboard "'" >}}                              | Kommentarspalte einblenden.                                                                                 |
+| Tabellenansicht                                            |                                                                                                             |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| {{< key "Ctrl" >}} {{< key "?" >}}                         | Öffnen der Übersicht der verfügbaren Tastenkombinationen.                                                   |
+| {{< key "Ctrl" >}} {{< key "Z" >}}                         | Letzte Aktion rückgängig machen.                                                                            |
+| {{< key "Ctrl" >}} {{< key "Shift" >}} {{< key "Z" >}}     | Letzte Aktion erneut ausführen.                                                                             |
+| {{< key "Ctrl" >}} {{< key ";" >}}                         | Ausgewähltes Datums- oder Zeit-/Datumsfeld auf den heutigen Tag setzen.                                     |
+| {{< key "Ctrl" >}} {{< key "P" >}}                         | Drucken der aktuellen Ansicht oder Zeilendetails.                                                           |
+| {{< key "Ctrl" >}} {{< key "C" >}}                         | Kopieren einer Zelle oder Zellenauswahl.                                                                    |
+| {{< key "Ctrl" >}} {{< key "X" >}}                         | Ausschneiden einer Zelle oder Zellenauswahl.                                                                |
+| {{< key "Ctrl" >}} {{< key "L" >}}                         | Zeile sperren/entsperren (erfordert ein Enterprise Abo).                                                    |
+| {{< key "Ctrl" >}} {{< key "V" >}}                         | Einfügen einer Zelle (bei der Auswahl mehrerer Zellen wird der Wert in alle ausgewählten Zellen eingefügt). |
+| {{< key "Space" >}}                                        | Erweitern der ausgewählten Zeile.                                                                           |
+| {{< key "PgUp" >}}                                         | Bildschirm nach oben scrollen                                                                               |
+| {{< key "PgDn" >}}                                         | Bildschirm nach unten scrollen                                                                              |
+| {{< key "Alt" >}} {{< key "PgUp" >}}                       | Bildschirm nach links scrollen                                                                              |
+| {{< key "Old" >}} {{< key "PgDn" >}}                       | Bildschirm nach rechts scrollen                                                                             |
+| {{< key "Ctrl" >}} {{< key "↑" >}}                         | Bis zum oberen Tabellenrand scrollen                                                                        |
+| {{< key "Ctrl" >}} {{< key "↓" >}}                         | Bis zum unteren Tabellenrand scrollen                                                                       |
+| {{< key "Ctrl" >}} {{< key "←" >}}                         | Bis zum linken Tabellenrand scrollen                                                                        |
+| {{< key "Ctrl" >}} {{< key "→" >}}                         | Bis zum rechten Tabellenrand scrollen                                                                       |
+| {{< key "Shift" >}} {{< key "Enter" >}}                    | Einfügen einer neuen Zeile unter der aktuell ausgewählten Zelle.                                            |
+| {{< key "Shift" >}} {{< key "Ctrl" >}} {{< key "Enter" >}} | Neue Zeile hinzufügen und die Zeilendetails öffnen.                                                         |
+| {{< key "Ctrl" >}} {{< key "'" >}}                         | Kommentarspalte einblenden.                                                                                 |
 
-| Zeichendetails                                                        |                                           |
-| --------------------------------------------------------------------- | ----------------------------------------- |
-| {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "," >}} | Zu den nächsten Zeilendetails wechseln.   |
-| {{< keyboard "Shift" >}} {{< keyboard "Ctrl" >}} {{< keyboard "." >}} | Zu den vorherigen Zeilendetails wechseln. |
-| {{< keyboard "ESC" >}}                                                | Schließen der Zeilendetails.              |
+| Zeichendetails                                         |                                           |
+| ------------------------------------------------------ | ----------------------------------------- |
+| {{< key "Shift" >}} {{< key "Ctrl" >}} {{< key "," >}} | Zu den nächsten Zeilendetails wechseln.   |
+| {{< key "Shift" >}} {{< key "Ctrl" >}} {{< key "." >}} | Zu den vorherigen Zeilendetails wechseln. |
+| {{< key "ESC" >}}                                      | Schließen der Zeilendetails.              |
 
 ## Hinweise
 
-- Bei Tastenkombinationen ist es egal, ob ein Buchstabe wie {{< keyboard "F" >}} groß- oder kleingeschrieben ist. Um eine Tastenkombination zu betätigen, müssen Sie nicht zur Eingabe von Großbuchstaben wechseln.
-- Drücken und halten Sie immer zuerst die Funktionstaste und dann die Buchstabentaste. Zum Beispiel: Um {{< keyboard "Ctrl + F" >}} auszuführen, halten Sie zuerst {{< keyboard "Ctrl" >}} und drücken dann einmal {{< keyboard "F" >}}.
+- Bei Tastenkombinationen ist es egal, ob ein Buchstabe wie {{< key "F" >}} groß- oder kleingeschrieben ist. Um eine Tastenkombination zu betätigen, müssen Sie nicht zur Eingabe von Großbuchstaben wechseln.
+- Drücken und halten Sie immer zuerst die Funktionstaste und dann die Buchstabentaste. Zum Beispiel: Um {{< key "Ctrl + F" >}} auszuführen, halten Sie zuerst {{< key "Ctrl" >}} und drücken dann einmal {{< key "F" >}}.
 
 ## Vergleichstabelle deutsches/englisches Tastaturlayout
 
 Die Beschriftung der Funktionstasten und die Anordnung von manchen in diesem Artikel betroffenen Tasten sind auf einer deutschen und einer englischen Tastatur unterschiedlich. Da die Tabelle oben für englische Tastaturen geeignet ist, finden Sie hier unten eine Tabelle zum Vergleich von betroffenen Tasten.
 
-Zum Beispiel: Wenn auf einer englischen Tastatur die Tastenkombination {{< keyboard "Ctrl" >}} {{< keyboard ";" >}} gedrückt werden soll, können Sie auf einer deutschen Tastatur {{< keyboard "Strg" >}} {{< keyboard "Ö" >}} drücken.
+Zum Beispiel: Wenn auf einer englischen Tastatur die Tastenkombination {{< key "Ctrl" >}} {{< key ";" >}} gedrückt werden soll, können Sie auf einer deutschen Tastatur {{< key "Strg" >}} {{< key "Ö" >}} drücken.
 
 | Taste auf einer englischen Tastatur | Taste auf einer deutschen Tastatur |
 | ----------------------------------- | ---------------------------------- |
-| {{< keyboard "?" >}}                | {{< keyboard "#" >}}               |
-| {{< keyboard "Ctrl" >}}             | {{< keyboard "Strg" >}}            |
-| {{< keyboard "Shift" >}}            | {{< keyboard "   ⇑" >}}            |
-| {{< keyboard ";" >}}                | {{< keyboard "Ö" >}}               |
-| {{< keyboard "'" >}}                | {{< keyboard "Ä" >}}               |
-| {{< keyboard "Space" >}}            | {{< keyboard "Leerzeichen" >}}     |
-| {{< keyboard "PgUp" >}}             | {{< keyboard "Bild↑" >}}           |
-| {{< keyboard "PgDn" >}}             | {{< keyboard "Bild↓" >}}           |
+| {{< key "?" >}}                     | {{< key "#" >}}                    |
+| {{< key "Ctrl" >}}                  | {{< key "Strg" >}}                 |
+| {{< key "Shift" >}}                 | {{< key "   ⇑" >}}                 |
+| {{< key ";" >}}                     | {{< key "Ö" >}}                    |
+| {{< key "'" >}}                     | {{< key "Ä" >}}                    |
+| {{< key "Space" >}}                 | {{< key "Leerzeichen" >}}          |
+| {{< key "PgUp" >}}                  | {{< key "Bild↑" >}}                |
+| {{< key "PgDn" >}}                  | {{< key "Bild↓" >}}                |

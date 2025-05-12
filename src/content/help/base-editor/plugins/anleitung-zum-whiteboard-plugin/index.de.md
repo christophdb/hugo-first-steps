@@ -60,7 +60,7 @@ Mit dem Bild-Werkzeug können Sie Bilder von Ihrem Gerät in die Zeichnung einf�
 
 ### Radierer
 
-Mit diesem Werkzeug können Sie auf einen Streich mehrere Elemente auf der Leinwand löschen. Halten Sie die linke Maustaste gedrückt, während Sie mit dem Radierer über die zu löschenden Elemente fahren. Wenn Sie hingegen über Elemente fahren, während Sie gleichzeitig {{< keyboard "ALT" >}} gedrückt halten, bleiben die Elemente von der Löschung verschont bzw. die Markierung zum Löschen wird aufgehoben.
+Mit diesem Werkzeug können Sie auf einen Streich mehrere Elemente auf der Leinwand löschen. Halten Sie die linke Maustaste gedrückt, während Sie mit dem Radierer über die zu löschenden Elemente fahren. Wenn Sie hingegen über Elemente fahren, während Sie gleichzeitig {{< key "ALT" >}} gedrückt halten, bleiben die Elemente von der Löschung verschont bzw. die Markierung zum Löschen wird aufgehoben.
 
 ![Radierer im Whiteboard-Plugin](images/Eraser-tool.gif)
 
@@ -130,17 +130,17 @@ Klicken Sie mit dem **Auswahl-Werkzeug** das Element an, das Sie anpassen möcht
 
 ![Elemente verschieben, drehen, vergrößern und verkleinern](images/Elemente-verschieben-drehen-vergroessern-und-verkleinern.gif)
 
-Mit den Pfeilsymbolen am unteren linken Rand können Sie die letzten Schritte **rückgängig machen** oder **wiederherstellen**. Ebenso können Sie dafür die bekannten Shortcuts {{< keyboard "Strg" >}}+{{< keyboard "Z" >}} und {{< keyboard "Strg" >}}+{{< keyboard "Shift" >}}+{{< keyboard "Z" >}} nutzen.
+Mit den Pfeilsymbolen am unteren linken Rand können Sie die letzten Schritte **rückgängig machen** oder **wiederherstellen**. Ebenso können Sie dafür die bekannten Shortcuts {{< key "Strg" >}}+{{< key "Z" >}} und {{< key "Strg" >}}+{{< key "Shift" >}}+{{< key "Z" >}} nutzen.
 
 Zudem können Sie die **Zoomstufe** der Leinwand über die Plus- und Minus-Symbole ändern. Dies verändert allerdings nur die Größe des sichtbaren Ausschnitts und nicht die Größe der Elemente.
 
 ### Elemente duplizieren, ausschneiden, kopieren und einfügen
 
-Um ein Element zu duplizieren, gibt es drei Möglichkeiten: Entweder Sie klicken in den Elementeinstellungen auf das **Duplikat-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü **Duplizieren** aus oder Sie verwenden den **Shortcut** {{< keyboard "Strg" >}}+{{< keyboard "D" >}}.
+Um ein Element zu duplizieren, gibt es drei Möglichkeiten: Entweder Sie klicken in den Elementeinstellungen auf das **Duplikat-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü **Duplizieren** aus oder Sie verwenden den **Shortcut** {{< key "Strg" >}}+{{< key "D" >}}.
 
 ![Elemente duplizieren, ausschneiden und einfügen](images/Elemente-duplizieren-ausschneiden-und-einfuegen.gif)
 
-Um ein Element auszuschneiden, zu kopieren oder einzufügen, können Sie einen Rechtsklick auf das Element machen und im **Kontextmenü** die entsprechende Option wählen oder die bekannten **Shortcuts** {{< keyboard "Strg" >}}+{{< keyboard "X" >}}, {{< keyboard "Strg" >}}+{{< keyboard "C" >}} und {{< keyboard "Strg" >}}+{{< keyboard "V" >}} nutzen.
+Um ein Element auszuschneiden, zu kopieren oder einzufügen, können Sie einen Rechtsklick auf das Element machen und im **Kontextmenü** die entsprechende Option wählen oder die bekannten **Shortcuts** {{< key "Strg" >}}+{{< key "X" >}}, {{< key "Strg" >}}+{{< key "C" >}} und {{< key "Strg" >}}+{{< key "V" >}} nutzen.
 
 ![Optionen zum Kopieren von Elementen](images/Optionen-zum-Kopieren-von-Elementen.png)
 
@@ -164,7 +164,7 @@ Falls Sie Elemente spiegeln möchten, machen Sie einen Rechtsklick auf das Eleme
 
 ### Elemente verlinken
 
-Möchten Sie Elemente (z. B. Buttons, Bilder oder Texte) zu Ihrer Zeichnung hinzufügen, die auf bestimmte Webseiten verweisen? Dann verlinken Sie die Elemente einfach, indem Sie eine URL einfügen. Klicken Sie dazu entweder in den Elementeinstellungen auf das **Ketten-Symbol** oder machen Sie einen Rechtsklick auf das Element, bevor Sie im Kontextmenü **Link erstellen** auswählen, oder verwenden Sie den Shortcut {{< keyboard "Strg" >}}+{{< keyboard "K" >}}.
+Möchten Sie Elemente (z. B. Buttons, Bilder oder Texte) zu Ihrer Zeichnung hinzufügen, die auf bestimmte Webseiten verweisen? Dann verlinken Sie die Elemente einfach, indem Sie eine URL einfügen. Klicken Sie dazu entweder in den Elementeinstellungen auf das **Ketten-Symbol** oder machen Sie einen Rechtsklick auf das Element, bevor Sie im Kontextmenü **Link erstellen** auswählen, oder verwenden Sie den Shortcut {{< key "Strg" >}}+{{< key "K" >}}.
 
 ![Elemente verlinken](images/Elemente-verlinken.gif)
 
@@ -178,7 +178,7 @@ Wenn Sie auf der Leinwand arbeiten möchten, ohne bestimmte Elemente versehentli
 
 ### Elemente löschen
 
-Wenn Sie ein Element löschen möchten, gibt es mehrere Möglichkeiten: Entweder Sie klicken in den Elementeinstellungen auf das **Papierkorb-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü ganz unten **Löschen** aus oder Sie verwenden die Tasten {{< keyboard "Backspace" >}} oder {{< keyboard "Entf" >}}.
+Wenn Sie ein Element löschen möchten, gibt es mehrere Möglichkeiten: Entweder Sie klicken in den Elementeinstellungen auf das **Papierkorb-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü ganz unten **Löschen** aus oder Sie verwenden die Tasten {{< key "Backspace" >}} oder {{< key "Entf" >}}.
 
 Um schnell und treffsicher mehrere Elemente von der Leinwand zu entfernen, können Sie auch den **Radierer** aus der Werkzeugleiste nutzen.
 

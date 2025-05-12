@@ -18,8 +18,8 @@ Clique com o botão direito do rato sobre uma linha e seleccione a opção **Dup
 
 ## Duplicação de uma fila várias vezes
 
-Se quiser duplicar uma linha várias vezes, pode fazê-lo facilmente com a chamada pega de preenchimento. Primeiro criar o número desejado de linhas vazias, por exemplo, com a combinação de teclas {{< keyboard "SHIFT" >}}+{{< keyboard "ENTRAR" >}}. Depois seleccione a fila desejada e arraste-a para a **pequeno quadrado** no canto inferior direito da última célula seleccionada para criar as cópias desejadas.
+Se quiser duplicar uma linha várias vezes, pode fazê-lo facilmente com a chamada pega de preenchimento. Primeiro criar o número desejado de linhas vazias, por exemplo, com a combinação de teclas {{< key "SHIFT" >}}+{{< key "ENTRAR" >}}. Depois seleccione a fila desejada e arraste-a para a **pequeno quadrado** no canto inferior direito da última célula seleccionada para criar as cópias desejadas.
 
 ![Linhas duplicadas com o cabo de arrasto](images/duplicate-row-with-handle.gif)
 
-Em vez do cabo de preenchimento, pode também preencher os dados com a ajuda do atalho de teclado familiar {{< keyboard "CTRL" >}}+{{< keyboard "C" >}} e {{< keyboard "CTRL" >}}+{{< keyboard "V" >}} cópia.
+Em vez do cabo de preenchimento, pode também preencher os dados com a ajuda do atalho de teclado familiar {{< key "CTRL" >}}+{{< key "C" >}} e {{< key "CTRL" >}}+{{< key "V" >}} cópia.

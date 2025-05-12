@@ -8,11 +8,11 @@ author: 'nsc2'
 url: '/es/ayuda/aktionen-rueckgaengig-machen'
 ---
 
-Puede deshacer acciones en SeaTable de dos maneras diferentes. SeaTable admite tanto la conocida combinación de teclas {{< keyboard "CTRL" >}}+{{< keyboard "Z" >}} así como la opción correspondiente haciendo clic con el ratón. Aquí puedes averiguar cómo deshacer tus últimos pasos y entradas:
+Puede deshacer acciones en SeaTable de dos maneras diferentes. SeaTable admite tanto la conocida combinación de teclas {{< key "CTRL" >}}+{{< key "Z" >}} así como la opción correspondiente haciendo clic con el ratón. Aquí puedes averiguar cómo deshacer tus últimos pasos y entradas:
 
 ## Deshacer acciones por combinación de teclas
 
-Si actualmente se encuentra en el **Edición de** a **Base** o **Tabla** y desea deshacer una o varias entradas, basta con pulsar la combinación de teclas {{< keyboard "CTRL" >}}+{{< keyboard "Z" >}} para presionar. Cada vez que escriba esta combinación de teclas, SeaTable mostrará su último **Cambiar** **deshacer** hacer.
+Si actualmente se encuentra en el **Edición de** a **Base** o **Tabla** y desea deshacer una o varias entradas, basta con pulsar la combinación de teclas {{< key "CTRL" >}}+{{< key "Z" >}} para presionar. Cada vez que escriba esta combinación de teclas, SeaTable mostrará su último **Cambiar** **deshacer** hacer.
 
 ## Deshacer acciones con un clic del ratón
 

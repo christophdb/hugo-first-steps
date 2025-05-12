@@ -141,11 +141,11 @@ Também pode alterar o **nível de zoom** da tela no canto inferior esquerdo. No
 
 ### Duplicar, cortar, copiar e colar elementos
 
-Existem três formas de duplicar um elemento: Pode clicar no botão **Símbolo duplicado** ou clicar com o botão direito do rato no elemento e selecionar **Duplicado** ou pode utilizar o **Atalho** {{< keyboard "Ctrl" >}}+{{< keyboard "D" >}}.
+Existem três formas de duplicar um elemento: Pode clicar no botão **Símbolo duplicado** ou clicar com o botão direito do rato no elemento e selecionar **Duplicado** ou pode utilizar o **Atalho** {{< key "Ctrl" >}}+{{< key "D" >}}.
 
 ![Duplicar, copiar, cortar e colar elementos](images/Elemente-duplizieren-kopieren-ausschneiden-und-einfuegen.gif)
 
-Para cortar, copiar ou colar um elemento, pode clicar com o botão direito do rato sobre o elemento e selecionar o elemento pretendido no menu **Menu de contexto** selecionar a opção adequada ou utilizar o **Atalhos** {{< keyboard "Ctrl" >}}+{{< keyboard "X" >}}, {{< keyboard "Ctrl" >}}+{{< keyboard "C" >}} e {{< keyboard "Ctrl" >}}+{{< keyboard "V" >}} utilização. Também pode copiar um elemento para a área de transferência como um ficheiro de imagem (PNG ou SVG).
+Para cortar, copiar ou colar um elemento, pode clicar com o botão direito do rato sobre o elemento e selecionar o elemento pretendido no menu **Menu de contexto** selecionar a opção adequada ou utilizar o **Atalhos** {{< key "Ctrl" >}}+{{< key "X" >}}, {{< key "Ctrl" >}}+{{< key "C" >}} e {{< key "Ctrl" >}}+{{< key "V" >}} utilização. Também pode copiar um elemento para a área de transferência como um ficheiro de imagem (PNG ou SVG).
 
 ### Mover elementos para o primeiro plano ou para o fundo
 
@@ -169,13 +169,13 @@ Se quiser trabalhar na tela sem mover ou alterar acidentalmente determinados ele
 
 ### Eliminar elementos
 
-Se pretender eliminar um elemento, existem várias opções: Pode clicar no botão **Ícone do lixo** ou clicar com o botão direito do rato no elemento e selecionar **Eliminar** ou utilizar os botões {{< keyboard "Retrocesso" >}} ou {{< keyboard "Del" >}}.
+Se pretender eliminar um elemento, existem várias opções: Pode clicar no botão **Ícone do lixo** ou clicar com o botão direito do rato no elemento e selecionar **Eliminar** ou utilizar os botões {{< key "Retrocesso" >}} ou {{< key "Del" >}}.
 
 Para remover vários elementos da tela de forma rápida e precisa, também pode utilizar a **borracha** da barra de ferramentas.
 
 {{< warning  headline="Atenção"  text="Não existe um caixote da reciclagem no plug-in do quadro branco. Os elementos removidos são **permanentemente eliminados**." />}}
 
-Pode utilizar os ícones de seta no canto superior esquerdo apenas para selecionar os últimos passos. **anular** ou **Restaurar**. Também pode utilizar os atalhos conhecidos {{< keyboard "Ctrl" >}}+{{< keyboard "Z" >}} e {{< keyboard "Ctrl" >}}+{{< keyboard "Shift" >}}+{{< keyboard "Z" >}} utilizar.
+Pode utilizar os ícones de seta no canto superior esquerdo apenas para selecionar os últimos passos. **anular** ou **Restaurar**. Também pode utilizar os atalhos conhecidos {{< key "Ctrl" >}}+{{< key "Z" >}} e {{< key "Ctrl" >}}+{{< key "Shift" >}}+{{< key "Z" >}} utilizar.
 
 ## Definições do ecrã
 

@@ -20,7 +20,7 @@ La segunda forma de insertar una nueva fila es **hacer clic con el botón derech
 
 ![Insertar líneas mediante el menú contextual](images/Zeilen-ueber-das-Kontextmenue-einfuegen.png)
 
-Rápidamente **varias líneas nuevas** también puede utilizar la combinación de teclas {{< keyboard "Turno" >}} + {{< keyboard "Entre en" >}} utilizar. Primero haga clic en **Línea**debajo de la cual desea insertar nuevas líneas. A continuación, mantenga pulsada la tecla **Tecla Shift** y pulse la tecla **Tecla Intro**para añadir rápidamente líneas vacías.
+Rápidamente **varias líneas nuevas** también puede utilizar la combinación de teclas {{< key "Turno" >}} + {{< key "Entre en" >}} utilizar. Primero haga clic en **Línea**debajo de la cual desea insertar nuevas líneas. A continuación, mantenga pulsada la tecla **Tecla Shift** y pulse la tecla **Tecla Intro**para añadir rápidamente líneas vacías.
 
 ![Añadir una nueva línea mediante un acceso directo](images/create-new-row-shortcut.gif)
 

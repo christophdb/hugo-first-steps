@@ -22,7 +22,7 @@ Tem a opção de imprimir **detalhes de linha** semelhantes a [vistas de tabela]
 6. A **janela de impressão padrão da** sua máquina abre-se. Aqui pode fazer outras configurações e ver uma pré-visualização da impressão.
 7. Completar a acção pressionando **Print**.
 
-Também pode imprimir uma linha abrindo os detalhes da linha e usando o atalho {{< keyboard "Ctrl" >}} + {{< keyboard "P" >}} utilização.
+Também pode imprimir uma linha abrindo os detalhes da linha e usando o atalho {{< key "Ctrl" >}} + {{< key "P" >}} utilização.
 
 ## Pressão compacta e normal
 

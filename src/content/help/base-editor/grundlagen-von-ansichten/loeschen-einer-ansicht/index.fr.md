@@ -25,7 +25,7 @@ Vous pouvez supprimer à tout moment les vues créées de manière incorrecte ou
 
 Est-il possible de restaurer une vue supprimée ?|||
 
-**Non**. Étant donné qu'une vue ne contient pas de données propres, mais qu'il s'agit simplement d'une représentation spéciale des données, il n'est pas possible d'effacer une vue supprimée via la Corbeille ni via le raccourci {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}} restaurer.
+**Non**. Étant donné qu'une vue ne contient pas de données propres, mais qu'il s'agit simplement d'une représentation spéciale des données, il n'est pas possible d'effacer une vue supprimée via la Corbeille ni via le raccourci {{< key "CTRL" >}} + {{< key "Z" >}} restaurer.
 
 ---
 

@@ -14,13 +14,26 @@ In der Teamverwaltung können Sie als **Team-Administrator** jederzeit Änderung
 
 Grundsätzlich ist es so, dass **Upgrades** sofort wirksam werden, wohingegen **Downgrades** immer erst zum Ende der aktuellen Laufzeit vorgenommen werden. Die folgende Tabelle zeigt dies in der Übersicht, wobei Sie die jeweilige **Restlaufzeit** Ihres SeaTable Abonnements jederzeit in der **Teamverwaltung** einsehen können.
 
-\[table id=55 /\]
+| Aktion                            | Wirksamkeit           |
+| --------------------------------- | --------------------- |
+| Free → Plus                       | Sofort                |
+| Free → Enterprise                 | Sofort                |
+| Plus → Free                       | Zum Ende der Laufzeit |
+| Enterprise → Free                 | Zum Ende der Laufzeit |
+| Mehr Teammitglieder               | Sofort                |
+| Weniger Teammitglieder            | Zum Ende der Laufzeit |
+| Monatliche → jährliche Abrechnung | Sofort                |
+| Jährliche → monatliche Abrechnung | Zum Ende der Laufzeit |
 
 ## Laufzeit und die anteilige Bezahlung von Änderungen
 
 Änderungen Ihres Abonnements haben üblicherweise keine Auswirkungen auf die Laufzeit. Einzige Ausnahme ist ein Wechsel von monatlicher zu jährlicher Zahlungsweise. In diesem Fall beginnt die neue Laufzeit mit dem Wechsel.
 
-\[table id=56 /\]
+| Veränderung                                     | Auswirkung auf die Laufzeit |
+| ----------------------------------------------- | --------------------------- |
+| Anzahl der Teammitglieder                       | keine                       |
+| Upgrade des Abonnements                         | keine                       |
+| Wechsel von monatlicher zu jährlicher Zahlweise | neue Laufzeit               |
 
 Selbstverständlich zahlen Sie bei jeder Änderung auch nur den jeweiligen **anteiligen Betrag**. Wenn Sie z. B. ein zusätzliches Teammitglied hinzufügen, zahlen Sie nur den anteiligen Preis bezogen auf die Restlaufzeit. Wenn Sie Ihr Abonnement upgraden, wird der Restwert Ihres aktuellen Abos vom neuen Preis abgezogen.
 

@@ -222,10 +222,10 @@ Fügen dies in dein Markdown ein:
 
 ## Keyboard
 
-Um eine Tastenkombination wie z.B. {{< keyboard "STRG" >}} + {{< keyboard "C" >}} auszugeben, genügt folgender Shortcode:
+Um eine Tastenkombination wie z.B. {{< key "STRG" >}} + {{< key "C" >}} auszugeben, genügt folgender Shortcode:
 
 ```
-{{</* keyboard "STRG" */>}} + {{</* keyboard "C" */>}}
+{{</* key "STRG" */>}} + {{</* key "C" */>}}
 ```
 
 ## Tags

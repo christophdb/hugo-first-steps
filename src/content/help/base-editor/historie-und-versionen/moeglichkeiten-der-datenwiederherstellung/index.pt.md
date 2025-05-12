@@ -41,7 +41,7 @@ Pode aceder à Lixeira Base clicando no ícone das versões no canto superior di
 
 ## 3\. acções de desfazer
 
-Provavelmente conhece a combinação chave {{< keyboard "CTRL" >}} + {{< keyboard "Z" >}}para desfazer a última acção. O SeaTable também oferece exactamente esta função. Além disso, pode ser executado com um clique do rato no menu pendente mostrado acima.
+Provavelmente conhece a combinação chave {{< key "CTRL" >}} + {{< key "Z" >}}para desfazer a última acção. O SeaTable também oferece exactamente esta função. Além disso, pode ser executado com um clique do rato no menu pendente mostrado acima.
 
 Os detalhes podem ser encontrados no artigo de ajuda correspondente [Acções de Desfazer](https://seatable.io/pt/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
 

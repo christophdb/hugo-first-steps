@@ -18,7 +18,7 @@ Die offensichtlichste Option, um mehrere Zeilen auszuwählen, besteht darin, ein
 
 ## Option 2: Anfang und Ende der Zeilenauswahl definieren
 
-Anstatt Zeile für Zeile zu markieren, können Sie auch einen **zusammenhängenden Abschnitt** zwischen zwei Zeilen auswählen. Dazu setzen Sie erst ein Häkchen bei der einen Zeile und dann mit gedrückter {{< keyboard "Shift" >}}-Taste bei einer anderen Zeile. SeaTable markiert dann alle Zeilen zwischen dem gewählten Anfang und Ende.
+Anstatt Zeile für Zeile zu markieren, können Sie auch einen **zusammenhängenden Abschnitt** zwischen zwei Zeilen auswählen. Dazu setzen Sie erst ein Häkchen bei der einen Zeile und dann mit gedrückter {{< key "Shift" >}}-Taste bei einer anderen Zeile. SeaTable markiert dann alle Zeilen zwischen dem gewählten Anfang und Ende.
 
 ## Option 3: Alle Zeilen auf einmal markieren
 

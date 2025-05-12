@@ -22,7 +22,7 @@ Vous avez la possibilité d'imprimer **les détails des lignes** de la même man
 6. La **fenêtre d'impression standard** de votre appareil s'ouvre. Vous pouvez y effectuer d'autres réglages et voir un aperçu de l'impression.
 7. Terminez l'action en appuyant sur **Imprimer**.
 
-Vous pouvez également imprimer une ligne en ouvrant les détails de la ligne et en utilisant le raccourci {{< keyboard "Ctrl" >}} + {{< keyboard "P" >}} utiliser.
+Vous pouvez également imprimer une ligne en ouvrant les détails de la ligne et en utilisant le raccourci {{< key "Ctrl" >}} + {{< key "P" >}} utiliser.
 
 ## Impression compacte et normale
 
