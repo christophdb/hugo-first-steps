@@ -33,6 +33,12 @@ Nach erfolgreicher Validierung werden die **Zellen** mit einem vom Zielformat **
 
 Für die Validierung Ihrer Eingaben in Text-Spalten unterstützt SeaTable **reguläre Ausdrücke (regular expressions)**. In der folgenden Tabelle finden Sie einige Beispiele:
 
-\[table id=58 /\]
+| Regulärer Ausdruck              | Funktion                                                                     |
+| ------------------------------- | ---------------------------------------------------------------------------- |
+| \[123456\]                      | Prüfen, ob eine Eingabe einer Schulnote von 1 bis 6 entspricht.              |
+| \[1-9\]\[0-9\]?\[0-9\]?\[a-z\]? | Format einer deutschen Hausnummer überprüfen (3 Ziffern + 1 Buchstabe)       |
+| \[0-9\]{5}                      | Prüfung des Formats deutscher Postleitzahlen (5x eine Zahl zwischen 0 und 9) |
+| \[0-9/. \\-\]+                  | Prüfung des Formats einer Telefonnummer                                      |
+| Max.\*Mustermann                | Suche nach einem möglichen zweiten Vornamen eines Autors                     |
 
-{{< warning  headline="Tipp"  text="Ein ausführliches **Tutorial** für die Nutzung von regulären Ausdrücken zur Prüfung von Zeichenketten finden Sie [hier (Deutsch)](\"https://danielfett.de/2006/03/20/regulaere-ausdruecke-tutorial/\") und [hier (Englisch)](\"https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285\")." />}}
+{{< warning  headline="Tipp"  text="Ein ausführliches **Tutorial** für die Nutzung von regulären Ausdrücken zur Prüfung von Zeichenketten finden Sie [hier (Deutsch)](https://danielfett.de/2006/03/20/regulaere-ausdruecke-tutorial/) und [hier (Englisch)](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)." />}}

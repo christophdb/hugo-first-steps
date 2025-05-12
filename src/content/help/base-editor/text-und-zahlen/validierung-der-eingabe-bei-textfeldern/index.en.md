@@ -35,12 +35,12 @@ After successful validation, the **cells** with **content different** from the t
 SeaTable supports **regular expressions** for validating your entries in text columns.  
 You can find some examples in the following table:
 
-| Regular expression              | Function                                                                 |     |     |     |     |
-| ------------------------------- | ------------------------------------------------------------------------ | --- | --- | --- | --- |
-| \[123456\]                      | Check whether an input corresponds to a school grade from 1 to 6.        |     |     |     |     |
-| \[1-9\]\[0-9\]?\[0-9\]?\[a-z\]? | Check format of a German house number (3 digits + 1 letter)              |     |     |     |     |
-| \[0-9\]{5}                      | Checking the format of German postal codes (5x a number between 0 and 9) |     |     |     |     |
-| \[0-9/. \\-\]+                  | Checking the format of a phone number                                    |     |     |     |     |
-| Max.\*Mustermann                | Search for a possible middle name of an author                           |     |     |     |     |
+| Regular expression              | Function                                                                 |
+| ------------------------------- | ------------------------------------------------------------------------ |
+| \[123456\]                      | Check whether an input corresponds to a school grade from 1 to 6.        |
+| \[1-9\]\[0-9\]?\[0-9\]?\[a-z\]? | Check format of a German house number (3 digits + 1 letter)              |
+| \[0-9\]{5}                      | Checking the format of German postal codes (5x a number between 0 and 9) |
+| \[0-9/. \\-\]+                  | Checking the format of a phone number                                    |
+| Max.\*Mustermann                | Search for a possible middle name of an author                           |
 
 {{< warning  headline="Tip"  text="A detailed **tutorial** for using regular expressions to check strings can be found [here (German)](https://danielfett.de/2006/03/20/regulaere-ausdruecke-tutorial/) and [here (English](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285))." />}}
