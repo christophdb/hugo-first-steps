@@ -315,14 +315,7 @@
             }
         </script>
 
-        <!-- Styles for toc highlight -->
-        <style>
-            .text-active {
-                font-weight: 700 !important;
-                color: red !important;
-            }
-        </style>
-
+        <!-- toc highlight -->
         {{ $toc := resources.Get "js/toc-highlight.js" | fingerprint }}
         <script src="{{ $toc.RelPermalink }}" integrity="{{ $toc.Data.Integrity }}" defer></script>
     </body>
