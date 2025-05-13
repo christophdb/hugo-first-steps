@@ -9,5 +9,6 @@ sections:
       title: 'Probieren Sie SeaTable'
       subtitle: 'Starten Sie jetzt mit unserem kostenlosen Free-Abo'
       cta: 'Sofort loslegen, es ist keine Kreditkarte erforderlich!'
+      id: 'de-registration'
       submit: 'Jetzt anmelden'
 ---

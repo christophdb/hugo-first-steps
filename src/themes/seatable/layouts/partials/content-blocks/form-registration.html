@@ -30,6 +30,7 @@
 
                 <div class="mt-10">
                     <button
+                        {{ with .id }}id="{{ . }}"{{ end }}
                         type="submit"
                         x-bind:disabled="isSubmitting"
                         x-html="buttonText"

@@ -9,5 +9,6 @@ sections:
   title: 'Essayez SeaTable'
   subtitle: 'Commencez dès maintenant avec notre abonnement gratuit.'
   cta: "Commencer immédiatement, aucune carte de crédit n'est nécessaire!"
+  id: 'fr-registration'
   submit: "S\'inscrire maintenant"
 ---
