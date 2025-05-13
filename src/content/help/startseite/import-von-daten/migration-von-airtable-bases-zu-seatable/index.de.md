@@ -124,7 +124,36 @@ Prüfen Sie nun, ob
 
 Da die Spaltentypen von Airtable und SeaTable nicht vollständig kongruent sind, werden manchen Spaltentypen in der SeaTable Base von denen in der Airtable Base abweichen. Die folgende Tabelle stellt dar, wie die Spaltentypen in Airtable in SeaTable übertragen werden.
 
-\[table id=62 /\]
+| Airtable Spaltentyp    | Import in SeaTable Spaltentyp    |
+| ---------------------- | -------------------------------- |
+| Attachment             | Datei                            |
+| Autonumber             | Text                             |
+| Barcode                | Text                             |
+| Button                 | -                                |
+| Checkbox               | Checkbox                         |
+| Count                  | -                                |
+| Created by             | Text                             |
+| Created time           | Datum                            |
+| Currency               | Zahl                             |
+| Date                   | Datum                            |
+| Duration               | Dauer                            |
+| Email                  | E-Mail                           |
+| Formula                | Formel (mit Platzhalterformel)   |
+| Last modified by       | Text                             |
+| Last modified time     | Datum                            |
+| Link to another record | Verknüpfung zu anderen Einträgen |
+| Long text              | Formatierter Text                |
+| Lookup                 | -                                |
+| Multiple select        | Mehrfachauswahl                  |
+| Number                 | Zahl                             |
+| Percent                | Zahl                             |
+| Phone number           | Text                             |
+| Rating                 | Rating                           |
+| Rollup                 | -                                |
+| Single line text       | Text                             |
+| Single select          | Einfachauswahl                   |
+| User                   | Text                             |
+| URL                    | URL                              |
 
 Eine besondere Rolle spielen Formelspalten sowie die Airtable Spaltentypen Count, Lookup und Rollup. Für erstere wird in der SeaTable Base eine Formelspalte mit dem Ergebnis "Formula to be defined" angelegt. Leider ist es aktuell nicht möglich, eine Airtable Formel automatisch in eine SeaTable Formel zu übersetzen. Ähnlich verhält es sich mit den anderen erwähnten Spaltentypen. Diese werden vom Skript nicht automatisch angelegt. Diejenigen Spalten, die vom Skript nicht angelegt werden, werden in der separaten Tabelle "Columns to be migrated manually" aufgelistet.
 
