@@ -335,5 +335,9 @@
                 };
             }
         </script>
+
+        <!-- toc highlight -->
+        {{ $toc := resources.Get "js/toc-highlight.js" | fingerprint }}
+        <script src="{{ $toc.RelPermalink }}" integrity="{{ $toc.Data.Integrity }}" defer></script>
     </body>
 </html>

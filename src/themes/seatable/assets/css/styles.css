@@ -67,6 +67,11 @@
 }
     */
 
+/* toc hightlight */
+.text-active {
+    @apply !font-bold !text-seatable-orange;
+}
+
 /* legal pages */
 #legal h2 {
     @apply pb-4 pt-10 text-3xl leading-narrow md:text-4xl;
