@@ -1,7 +1,7 @@
 ---
 title: 'Datenschutz'
 description: ''
-date: 2022-05-13
+date: 2022-11-03
 type: 'legal'
 url: '/de/datenschutz'
 ---

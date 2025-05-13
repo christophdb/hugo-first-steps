@@ -1,10 +1,12 @@
 ---
 title: 'защита данных'
 description: ''
-date: 2022-05-13
+date: 2022-11-03
 type: 'legal'
 url: '/ru/zashchita-dannykh'
 ---
+
+Version 1.3.0 from November 3, 2022
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
 
