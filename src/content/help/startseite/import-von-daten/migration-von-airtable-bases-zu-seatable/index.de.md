@@ -28,33 +28,108 @@ Erstellen Sie in SeaTable eine [neue Base](https://seatable.io/docs/arbeiten-mit
 
 Markieren Sie nun den folgenden Codeblock, kopieren ihn in den Zwischenspeicher und fügen Sie ihn dann in das linke Fenster des Skripteditors ein:
 
-\[js\]## Parameterize the script # SeaTable - Destination server_url = 'https://cloud.seatable.io' api_token = '...' # Add an API token of the SeaTable base # See https://seatable.io/docs/en/seatable-api/erzeugen-eines-api-tokens/ # for more information on how to create a SeaTable API token # Airtable - Source airtable_personal_access_token = '...' # Add a Personal Access Token (PAT) # PATs are 82-character strings and begin with "pat" (e.g. 'pat544WlSOq6T4Fvv.5710af6611aedbf28493c38084163494e02b24f078cf2d62f07105982a82a64d') # See https://support.airtable.com/docs/creating-personal-access-tokens/ # for more information on how to create a PAT in Airtable
+```
+## Parameterize the script
 
-airtable_base_id = '...' # Add the Base ID of the Airtable base # Base IDs are alphanumeric strings and begin with "app" (e.g. 'appRfA3qspH3EJUnV') # See https://support.airtable.com/docs/finding-airtable-ids/ # for more information on where to find the id of an Airtable base table_names = \['...', '...'\] # Add the names of all tables of the Airtable base, i.e. \['table 1', 'table 2'\] # The names must be enclosed in '' and comma-separated
+# SeaTable - Destination
+server_url = 'https://cloud.seatable.io'
+api_token = '...'
+# Add an API token of the SeaTable base
+# See https://seatable.io/docs/en/seatable-api/erzeugen-eines-api-tokens/
+# for more information on how to create a SeaTable API token
 
-first_columns = \[ ('...', '...'), ('...', '...'), \] # Specify the names of the first columns in every table of the Airtable base # Use the format ('table_name', 'first_column_name'), i.e. ('table 1', 'ID') # The table and column name must be enclosed in '' and comma-separated
+# Airtable - Source
+airtable_personal_access_token = '...'
+# Add a Personal Access Token (PAT)
+# PATs are 82-character strings and begin with "pat" (e.g. 'pat544WlSOq6T4Fvv.5710af6611aedbf28493c38084163494e02b24f078cf2d62f07105982a82a64d')
+# See https://support.airtable.com/docs/creating-personal-access-tokens/
+# for more information on how to create a PAT in Airtable
 
-links = \[ \] # Specify the links between the tables in the Airtable base # Use the format ('table_name', 'column_name', 'other_table_name'), i.e., ('table 1', 'link to table 2', 'table 2') # The table and column names must be enclosed in '' and comma-separated # If the Airtable base contains no link columns, just leave the brackets empty
+airtable_base_id = '...'
+# Add the Base ID of the Airtable base
+# Base IDs are alphanumeric strings and begin with "app" (e.g. 'appRfA3qspH3EJUnV')
+# See https://support.airtable.com/docs/finding-airtable-ids/
+# for more information on where to find the id of an Airtable base
 
-from seatable_api.constants import ColumnTypes excluded_column_types = \[ ColumnTypes.FILE \] # Specify the column types which are to be excluded from the data import when running the script in import-rows mode (excluded column types are still created in import-header mode) # Use the constants from https://developer.seatable.io/scripts/python/objects/constants/, i.e. ColumnTypes.FILE to exclude file columns # The specified column types must be comma-separated # If no column types are to be excluded, just leave the brackets empty # ColumnTypes.LINK_FORMULA are always excluded
+table_names = ['...', '...']
+# Add the names of all tables of the Airtable base, i.e. ['table 1', 'table 2']
+# The names must be enclosed in '' and comma-separated
 
-excluded_columns = \[\] # Specify the names of the columns which are to be excluded from the data import when running script in import-rows mode (excluded columns are still created in import-header mode) # Use the format ('table_name', 'column_name'), i.e. ('table 1', 'column A') # The table and column names must be enclosed in '' and comma-separated # If no columns are to be excluded, just leave the brackets empty
+first_columns = [
+   ('...', '...'),
+   ('...', '...'),
+]
+# Specify the names of the first columns in every table of the Airtable base
+# Use the format ('table_name', 'first_column_name'), i.e. ('table 1', 'ID')
+# The table and column name must be enclosed in '' and comma-separated
 
-mode = 'import-header' # Specify the run-mode of the script, two options: 'import-header' and 'import-rows' # Run 'import-header' first to create the data structure in the SeaTable base # Run 'import-rows' to import all the rows ## No more edits required beyond this row import sys from seatable_api import Base, AirtableConvertor
+links = [
+]
+# Specify the links between the tables in the Airtable base
+# Use the format ('table_name', 'column_name', 'other_table_name'), i.e., ('table 1', 'link to table 2', 'table 2')
+# The table and column names must be enclosed in '' and comma-separated
+# If the Airtable base contains no link columns, just leave the brackets empty
 
-def get_convertor(): base = Base(api_token, server_url) base.auth() convertor = AirtableConvertor( airtable_api_key=airtable_personal_access_token, airtable_base_id=airtable_base_id, base=base, table_names=table_names, first_columns=first_columns, links=links, ) return convertor
+from seatable_api.constants import ColumnTypes
+excluded_column_types = [
+    ColumnTypes.FILE
+]
+# Specify the column types which are to be excluded from the data import when running the script in import-rows mode (excluded column types are still created in import-header mode)
+# Use the constants from https://developer.seatable.io/scripts/python/objects/constants/, i.e. ColumnTypes.FILE to exclude file columns
+# The specified column types must be comma-separated
+# If no column types are to be excluded, just leave the brackets empty
+# ColumnTypes.LINK_FORMULA are always excluded
 
-def import_header(): convertor = get_convertor() convertor.convert_metadata()
+excluded_columns = []
+# Specify the names of the columns which are to be excluded from the data import when running script in import-rows mode (excluded columns are still created in import-header mode)
+# Use the format ('table_name', 'column_name'), i.e. ('table 1', 'column A')
+# The table and column names must be enclosed in '' and comma-separated
+# If no columns are to be excluded, just leave the brackets empty
 
-def import_rows(): convertor = get_convertor() convertor.convert_data()
+mode = 'import-header'
+# Specify the run-mode of the script, two options: 'import-header' and 'import-rows'
+# Run 'import-header' first to create the data structure in the SeaTable base
+# Run 'import-rows' to import all the rows
 
-if mode == 'import-header': import_header()
 
-elif mode == 'import-rows': import_rows()
+## No more edits required beyond this row
 
-else: print('The mode is not properly specified.')
+import sys
+from seatable_api import Base, AirtableConvertor
 
-\## End script ##\[/js\]
+def get_convertor():
+    base = Base(api_token, server_url)
+    base.auth()
+    convertor = AirtableConvertor(
+        airtable_api_key=airtable_personal_access_token,
+        airtable_base_id=airtable_base_id,
+        base=base,
+        table_names=table_names,
+        first_columns=first_columns,
+        links=links,
+    )
+    return convertor
+
+def import_header():
+    convertor = get_convertor()
+    convertor.convert_metadata()
+
+def import_rows():
+    convertor = get_convertor()
+    convertor.convert_data()
+
+if mode == 'import-header':
+   import_header()
+
+elif mode == 'import-rows':
+   import_rows()
+
+else:
+   print('The mode is not properly specified.')
+
+## End script
+##
+```
 
 Machen Sie sich keine Gedanken, wenn Sie den gerade kopierten Code nicht verstehen. Wir erläutern ihn. Ein wenig bei der Interpretation helfen sollten die Kommentare im Code. Kommentare sind alle Zeilen mit führendem Rautezeichen ('#'). Diese Zeilen werden bei der Skriptausführung nicht beachtet, d.h. Sie können Kommentare verändern, löschen oder auch weitere hinzufügen, ohne die Funktionalität des Skripts zu beeinflussen.
 
