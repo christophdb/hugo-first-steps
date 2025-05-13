@@ -23,11 +23,11 @@ sections:
       weight: 4
       title: SeaTable is the perfect solution for your project management
       subtitle: Advantages of SeaTable
-      text: "As a project manager, you must always maintain an overview to effectively manage complex projects. However, conventional project management software often reaches its limits, especially when it comes to agile project management. SeaTable offers you an excellent experience that scores with the following advantages:"
+      text: "As a project manager, you must always maintain an overview to effectively manage complex projects. However, conventional project management software often reaches its limits, especially when it comes to agile projectmanagement. SeaTable offers you an excellent experience that scores with the following advantages:"
       items:
       - icon: edit
         headline: Flexibility and adaptability to your needs
-        text: "Develop customized solutions with SeaTable that adapt precisely to your needs. Whether you want to get started with agile project management methods or keep track with classic Gantt charts: SeaTable offers you the freedom to realize your individual ideas of efficient project management."
+        text: "Develop customized solutions with SeaTable that adapt precisely to your needs. Whether you want to get started with agile projectmanagement methods or keep track with classic Gantt charts: SeaTable offers you the freedom to realize your individual ideas of efficient project management."
 
       - icon: up-right-and-down-left-from-center
         headline: Intuitive, clear user interface
@@ -111,7 +111,7 @@ sections:
         - bg-white
         - "!pt-40"
       title: 4 tips for successful projects
-      subtitle: Agile project management
+      subtitle: Agile projectmanagement
       description: "SeaTable offers you a completely new way to organize your project management: You use a software toolkit and put together your project plan and your processes according to your own wishes. With these 4 tips, your next project in SeaTable will run smoothly and successfully:"
       items:
       - headline: Set goals
@@ -184,6 +184,6 @@ sections:
             a: "SeaTable offers numerous import options, which make the migration of your data and the switch from your previous project management Tools easy. Upload your existing data and within shortest time your new project management system is ready for use. Thanks to the intuitive, graphical user interface you will quickly find your way around."
           - q: "Is SeaTable an alternative to Monday, Jira or Asana?"
             a: "Asana, Monday and Jira are three well-known project management tools that many teams around the world use. If you're wondering whether these project management tools are free, the answer is no - apart from very limited versions. In contrast to SeaTable, you have to accept high costs, especially for larger teams, as double-digit amounts are incurred per user and month. If you want to run project management with Monday, Jira or Asana, it can get really expensive. SeaTable, on the other hand, is a convincing free project management tool for teams of any size thanks to its extensive free subscription.
-            In addition, the classic project management tools are less intuitive than SeaTable. This is especially true for free project management tools. The wealth of functions can be overwhelming for beginners, especially if you want to map your project management in Monday. Jira is particularly specialised in software projects and agile project management according to Scrum, which already requires a lot of knowledge. The fact that most project participants first have to acquire this knowledge means that familiarisation takes a relatively long time, whereas you can get started straight away with SeaTable. Asana and Jira are also less flexible than SeaTable and are not recommended for data-intensive projects. Read more about this in our [blog]({{< relref \"posts\" >}})."
+            In addition, the classic project management tools are less intuitive than SeaTable. This is especially true for free project management tools. The wealth of functions can be overwhelming for beginners, especially if you want to map your project management in Monday. Jira is particularly specialised in software projects and agile projectmanagement according to Scrum, which already requires a lot of knowledge. The fact that most project participants first have to acquire this knowledge means that familiarisation takes a relatively long time, whereas you can get started straight away with SeaTable. Asana and Jira are also less flexible than SeaTable and are not recommended for data-intensive projects. Read more about this in our [blog]({{< relref \"posts\" >}})."
 
 ---
