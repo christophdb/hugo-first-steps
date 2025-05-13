@@ -14,29 +14,29 @@ Dentro de um grupo SeaTable existem três funções diferentes: **Proprietário*
 
 ## Todas as permissões num relance
 
-|                                                                                 | Proprietário | Admin | Membro |
-| ------------------------------------------------------------------------------- | ------------ | ----- | ------ |
-| Criar novo grupo                                                                |              |       |        |
-| Trabalhar numa base                                                             |              |       |        |
-| Gestão de grupo                                                                 |              |       |        |
-| Renomear grupo                                                                  |              |       |        |
-| Gerir membros                                                                   |              |       |        |
-| Grupo de transferência                                                          |              |       |        |
-| Deixar o grupo                                                                  |              |       |        |
-| Eliminar grupo                                                                  |              |       |        |
-| Gestão de base num grupo                                                        |              |       |        |
-| Adicionar uma base ou pasta                                                     |              |       |        |
-| Editar base                                                                     |              |       |        |
-| Gestão de Bases de um Grupo no Lixo                                             |              |       |        |
-| Bases de lançamento                                                             |              |       |        |
-| Adicionar Bases aos Favoritos                                                   |              |       |        |
-| Eliminar bases                                                                  |              |       |        |
-| Mover bases para uma pasta                                                      |              |       |        |
-| Copiar bases                                                                    |              |       |        |
-| Bases de exportação                                                             |              |       |        |
-| Definir uma palavra-passe para uma base                                         |              |       |        |
-| Acesso e restauro de snapshots de uma base                                      |              |       |        |
-| Funções avançadas (fichas API, ganchos web, gestão de anexos e ligação Seafile) |              |       |        |
+|                                                                                 | Proprietário                                                  | Admin                                                         | Membro                                                        |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| Criar novo grupo                                                                | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Trabalhar numa base                                                             | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Gestão de grupo**                                                             |                                                               |                                                               |                                                               |
+| Renomear grupo                                                                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| Gerir membros                                                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Grupo de transferência                                                          | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| Deixar o grupo                                                                  | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Eliminar grupo                                                                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| **Gestão de base num grupo**                                                    |                                                               |                                                               |                                                               |
+| Adicionar uma base ou pasta                                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Editar base                                                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Gestão de Bases de um Grupo no Lixo                                             | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Bases de lançamento                                                             | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Adicionar Bases aos Favoritos                                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Eliminar bases                                                                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Mover bases para uma pasta                                                      | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Copiar bases                                                                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Bases de exportação                                                             | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Definir uma palavra-passe para uma base                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Acesso e restauro de snapshots de uma base                                      | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Funções avançadas (fichas API, ganchos web, gestão de anexos e ligação Seafile) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
 {{< warning  headline="Atribuir autorizações"  text="Se quiser atribuir uma permissão, as nossas instruções sobre a [atribuição de permissões num grupo](https://seatable.io/pt/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/) ajudá-lo-ão certamente." />}}
 

@@ -14,29 +14,29 @@ url: '/ru/help/gruppenmitglieder-und-ihre-berechtigungen'
 
 ## Все разрешения с первого взгляда
 
-|                                                                                        | Владелец | Администратор | Член |
-| -------------------------------------------------------------------------------------- | -------- | ------------- | ---- |
-| Создать новую группу                                                                   |          |               |      |
-| Работа на базе                                                                         |          |               |      |
-| Управление группой                                                                     |          |               |      |
-| Переименовать группу                                                                   |          |               |      |
-| Управление членами                                                                     |          |               |      |
-| Трансферная группа                                                                     |          |               |      |
-| Оставить группу                                                                        |          |               |      |
-| Удалить группу                                                                         |          |               |      |
-| Управление базой в группе                                                              |          |               |      |
-| Добавить базу или папку                                                                |          |               |      |
-| Редактировать базу                                                                     |          |               |      |
-| Управление базами группы в корзине                                                     |          |               |      |
-| Основания для выпуска                                                                  |          |               |      |
-| Добавить базы в избранное                                                              |          |               |      |
-| Удалить основания                                                                      |          |               |      |
-| Переместить базы в папку                                                               |          |               |      |
-| Копировальные базы                                                                     |          |               |      |
-| Экспортные базы                                                                        |          |               |      |
-| Установка пароля для базы                                                              |          |               |      |
-| Доступ к моментальным снимкам базы и их восстановление                                 |          |               |      |
-| Расширенные функции (API-токены, вебхуки, управление вложениями и подключение Seafile) |          |               |      |
+|                                                                                        | Владелец                                                      | Администратор                                                 | Член                                                          |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| Создать новую группу                                                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Работа на базе                                                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Управление группой**                                                                 |                                                               |                                                               |                                                               |
+| Переименовать группу                                                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| Управление членами                                                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Трансферная группа                                                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| Оставить группу                                                                        | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Удалить группу                                                                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| **Управление базой в группе**                                                          |                                                               |                                                               |                                                               |
+| Добавить базу или папку                                                                | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Редактировать базу                                                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Управление базами группы в корзине                                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Основания для выпуска                                                                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Добавить базы в избранное                                                              | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Удалить основания                                                                      | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Переместить базы в папку                                                               | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Копировальные базы                                                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Экспортные базы                                                                        | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Установка пароля для базы                                                              | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Доступ к моментальным снимкам базы и их восстановление                                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Расширенные функции (API-токены, вебхуки, управление вложениями и подключение Seafile) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
 {{< warning  headline="Назначение полномочий"  text="Если вы хотите назначить разрешение, вам наверняка помогут наши инструкции по [назначению разрешений в группе](https://seatable.io/ru/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/)." />}}
 

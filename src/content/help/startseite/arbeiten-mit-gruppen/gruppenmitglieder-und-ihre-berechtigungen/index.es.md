@@ -14,29 +14,29 @@ Dentro de un grupo SeaTable hay tres roles diferentes: **Propietario**, **Admini
 
 ## Todos los permisos de un vistazo
 
-|                                                                                             | Propietario | Administración | Miembro |
-| ------------------------------------------------------------------------------------------- | ----------- | -------------- | ------- |
-| Crear un nuevo grupo                                                                        |             |                |         |
-| Trabajar en una base                                                                        |             |                |         |
-| Gestión del grupo                                                                           |             |                |         |
-| Cambiar el nombre del grupo                                                                 |             |                |         |
-| Gestionar los miembros                                                                      |             |                |         |
-| Grupo de transferencia                                                                      |             |                |         |
-| Dejar el grupo                                                                              |             |                |         |
-| Borrar el grupo                                                                             |             |                |         |
-| Gestión de la base en un grupo                                                              |             |                |         |
-| Añadir una base o carpeta                                                                   |             |                |         |
-| Editar la base                                                                              |             |                |         |
-| Gestión de las bases de un grupo en la papelera                                             |             |                |         |
-| Bases de la liberación                                                                      |             |                |         |
-| Añadir Bases a Favoritos                                                                    |             |                |         |
-| Borrar bases                                                                                |             |                |         |
-| Mover las bases a una carpeta                                                               |             |                |         |
-| Bases de datos de copias                                                                    |             |                |         |
-| Bases de exportación                                                                        |             |                |         |
-| Establecer una contraseña para una base                                                     |             |                |         |
-| Acceso y restauración de instantáneas de una base                                           |             |                |         |
-| Funciones avanzadas (tokens API, webhooks, gestión de archivos adjuntos y conexión Seafile) |             |                |         |
+|                                                                                             | Propietario                                                   | Administración                                                | Miembro                                                       |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| Crear un nuevo grupo                                                                        | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Trabajar en una base                                                                        | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| **Gestión del grupo**                                                                       |                                                               |                                                               |                                                               |
+| Cambiar el nombre del grupo                                                                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| Gestionar los miembros                                                                      | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Grupo de transferencia                                                                      | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| Dejar el grupo                                                                              | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Borrar el grupo                                                                             | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   |
+| **Gestión de la base en un grupo**                                                          |                                                               |                                                               |                                                               |
+| Añadir una base o carpeta                                                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Editar la base                                                                              | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Gestión de las bases de un grupo en la papelera                                             | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Bases de la liberación                                                                      | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Añadir Bases a Favoritos                                                                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Borrar bases                                                                                | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Mover las bases a una carpeta                                                               | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Bases de datos de copias                                                                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Bases de exportación                                                                        | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Establecer una contraseña para una base                                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
+| Acceso y restauración de instantáneas de una base                                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Funciones avanzadas (tokens API, webhooks, gestión de archivos adjuntos y conexión Seafile) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
 {{< warning  headline="Asignar autorizaciones"  text="Si desea asignar un permiso, nuestras instrucciones sobre la [asignación de permisos en un grupo](https://seatable.io/es/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/) sin duda le ayudarán." />}}
 
