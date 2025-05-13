@@ -50,29 +50,29 @@ Uma vez terminado, pode testar a ligação pressionando a **tecla Enter** e abri
 
 Dependendo do tipo de coluna em que se baseia um campo de formulário, nem sempre é possível o pré-preenchimento. Na síntese seguinte é possível ver quais os tipos de coluna que permitem o pré-preenchimento via URL e quais não permitem.
 
-| Tipo de coluna       | Suporta pré-preenchimento |
-| -------------------- | ------------------------- |
-| Número automático    |                           |
-| Imagem               |                           |
-| Caixa de verificação |                           |
-| Ficheiro             |                           |
-| Data                 |                           |
-| Duração              |                           |
-| Selecção única       |                           |
-| Correio electrónico  |                           |
-| Criador              |                           |
-| Criado em            |                           |
-| Texto formatado      |                           |
-| Fórmula              |                           |
-| Fórmula para links   |                           |
-| Geoposição           |                           |
-| Último editor        |                           |
-| Selecção múltipla    |                           |
-| Empregados           |                           |
-| Classificação        |                           |
-| Botão                |                           |
-| Assinatura           |                           |
-| Texto                |                           |
-| URL                  |                           |
-| Número               |                           |
-| Última edição        |                           |
+| Tipo de coluna       | Suporta pré-preenchimento                                     |
+| -------------------- | ------------------------------------------------------------- |
+| Número automático    | {{< icon "circle-xmark" >}}                                   |
+| Imagem               | {{< icon "circle-xmark" >}}                                   |
+| Caixa de verificação | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Ficheiro             | {{< icon "circle-xmark" >}}                                   |
+| Data                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Duração              | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Selecção única       | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Correio electrónico  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Criador              | {{< icon "circle-xmark" >}}                                   |
+| Criado em            | {{< icon "circle-xmark" >}}                                   |
+| Texto formatado      | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Fórmula              | {{< icon "circle-xmark" >}}                                   |
+| Fórmula para links   | {{< icon "circle-xmark" >}}                                   |
+| Geoposição           | {{< icon "circle-xmark" >}}                                   |
+| Último editor        | {{< icon "circle-xmark" >}}                                   |
+| Selecção múltipla    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Empregados           | {{< icon "circle-xmark" >}}                                   |
+| Classificação        | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Botão                | {{< icon "circle-xmark" >}}                                   |
+| Assinatura           | {{< icon "circle-xmark" >}}                                   |
+| Texto                | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Número               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Última edição        | {{< icon "circle-xmark" >}}                                   |

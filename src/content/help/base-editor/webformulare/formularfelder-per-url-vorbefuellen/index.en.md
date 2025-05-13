@@ -50,29 +50,29 @@ Once you are done, you can test the link by pressing the **Enter key** and openi
 
 Depending on which column type a form field is based on, pre-filling is not always possible. In the following overview you can see which column types allow prefilling via URL and which do not.
 
-| Column type        | Supports prefilling |
-| ------------------ | ------------------- |
-| Automatic number   |                     |
-| Image              |                     |
-| Checkbox           |                     |
-| File               |                     |
-| Date               |                     |
-| Duration           |                     |
-| Single selection   |                     |
-| E-mail             |                     |
-| Creator            |                     |
-| Created            |                     |
-| Formatted text     |                     |
-| Formula            |                     |
-| Formula for links  |                     |
-| Geoposition        |                     |
-| Last editor        |                     |
-| Multiple selection |                     |
-| Employees          |                     |
-| Rating             |                     |
-| Button             |                     |
-| Signature          |                     |
-| Text               |                     |
-| URL                |                     |
-| Number             |                     |
-| Last edited        |                     |
+| Column type        | Supports prefilling                                           |
+| ------------------ | ------------------------------------------------------------- |
+| Automatic number   | {{< icon "circle-xmark" >}}                                   |
+| Image              | {{< icon "circle-xmark" >}}                                   |
+| Checkbox           | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| File               | {{< icon "circle-xmark" >}}                                   |
+| Date               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Duration           | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Single selection   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| E-mail             | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Creator            | {{< icon "circle-xmark" >}}                                   |
+| Created            | {{< icon "circle-xmark" >}}                                   |
+| Formatted text     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Formula            | {{< icon "circle-xmark" >}}                                   |
+| Formula for links  | {{< icon "circle-xmark" >}}                                   |
+| Geoposition        | {{< icon "circle-xmark" >}}                                   |
+| Last editor        | {{< icon "circle-xmark" >}}                                   |
+| Multiple selection | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Employees          | {{< icon "circle-xmark" >}}                                   |
+| Rating             | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Button             | {{< icon "circle-xmark" >}}                                   |
+| Signature          | {{< icon "circle-xmark" >}}                                   |
+| Text               | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Number             | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Last edited        | {{< icon "circle-xmark" >}}                                   |

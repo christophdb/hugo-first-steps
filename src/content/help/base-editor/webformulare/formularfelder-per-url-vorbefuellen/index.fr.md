@@ -50,29 +50,29 @@ Une fois que vous avez terminé, vous pouvez tester le lien en appuyant sur la *
 
 Selon le type de colonne sur lequel repose un champ de formulaire, le pré-remplissage n'est pas toujours possible. Dans l'aperçu suivant, vous pouvez voir quels types de colonnes permettent le pré-remplissage par URL et lesquels ne le permettent pas.
 
-| Type de colonne        | soutient le pré-remplissage |
-| ---------------------- | --------------------------- |
-| Numéro automatique     |                             |
-| Image                  |                             |
-| Case à cocher          |                             |
-| Fichier                |                             |
-| Date                   |                             |
-| Durée                  |                             |
-| Sélection unique       |                             |
-| Courriel :             |                             |
-| Créateur               |                             |
-| Créé                   |                             |
-| Texte formaté          |                             |
-| Formule                |                             |
-| Formule pour les liens |                             |
-| Géoposition            |                             |
-| Dernier responsable    |                             |
-| Sélection multiple     |                             |
-| Employés               |                             |
-| Rating                 |                             |
-| Bouton                 |                             |
-| Signature              |                             |
-| Texte                  |                             |
-| URL                    |                             |
-| Nombre                 |                             |
-| Dernièrement édité     |                             |
+| Type de colonne        | soutient le pré-remplissage                                   |
+| ---------------------- | ------------------------------------------------------------- |
+| Numéro automatique     | {{< icon "circle-xmark" >}}                                   |
+| Image                  | {{< icon "circle-xmark" >}}                                   |
+| Case à cocher          | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Fichier                | {{< icon "circle-xmark" >}}                                   |
+| Date                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Durée                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Sélection unique       | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Courriel :             | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Créateur               | {{< icon "circle-xmark" >}}                                   |
+| Créé                   | {{< icon "circle-xmark" >}}                                   |
+| Texte formaté          | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Formule                | {{< icon "circle-xmark" >}}                                   |
+| Formule pour les liens | {{< icon "circle-xmark" >}}                                   |
+| Géoposition            | {{< icon "circle-xmark" >}}                                   |
+| Dernier responsable    | {{< icon "circle-xmark" >}}                                   |
+| Sélection multiple     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Employés               | {{< icon "circle-xmark" >}}                                   |
+| Rating                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Bouton                 | {{< icon "circle-xmark" >}}                                   |
+| Signature              | {{< icon "circle-xmark" >}}                                   |
+| Texte                  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Nombre                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Dernièrement édité     | {{< icon "circle-xmark" >}}                                   |

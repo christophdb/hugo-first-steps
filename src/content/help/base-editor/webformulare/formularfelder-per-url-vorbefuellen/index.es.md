@@ -50,29 +50,29 @@ Una vez que haya terminado, puede probar el enlace pulsando la **tecla Intro** y
 
 Dependiendo del tipo de columna en el que se base un campo de formulario, no siempre es posible rellenarlo previamente. En el siguiente resumen puede ver qué tipos de columna permiten el rellenado previo mediante URL y cuáles no.
 
-| Tipo de columna          | Admite prellenado |
-| ------------------------ | ----------------- |
-| Número automático        |                   |
-| Imagen                   |                   |
-| Casilla de verificación  |                   |
-| Archivo                  |                   |
-| Fecha                    |                   |
-| Duración                 |                   |
-| Selección individual     |                   |
-| Correo electrónico       |                   |
-| Creador                  |                   |
-| Creado                   |                   |
-| Texto con formato        |                   |
-| Fórmula                  |                   |
-| Fórmula para los enlaces |                   |
-| Geoposición              |                   |
-| Último editor            |                   |
-| Selección múltiple       |                   |
-| Empleados                |                   |
-| Clasificación            |                   |
-| Botón                    |                   |
-| Firma                    |                   |
-| Texto                    |                   |
-| URL                      |                   |
-| Número                   |                   |
-| Última edición           |                   |
+| Tipo de columna          | Admite prellenado                                             |
+| ------------------------ | ------------------------------------------------------------- |
+| Número automático        | {{< icon "circle-xmark" >}}                                   |
+| Imagen                   | {{< icon "circle-xmark" >}}                                   |
+| Casilla de verificación  | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Archivo                  | {{< icon "circle-xmark" >}}                                   |
+| Fecha                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Duración                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Selección individual     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Correo electrónico       | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Creador                  | {{< icon "circle-xmark" >}}                                   |
+| Creado                   | {{< icon "circle-xmark" >}}                                   |
+| Texto con formato        | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Fórmula                  | {{< icon "circle-xmark" >}}                                   |
+| Fórmula para los enlaces | {{< icon "circle-xmark" >}}                                   |
+| Geoposición              | {{< icon "circle-xmark" >}}                                   |
+| Último editor            | {{< icon "circle-xmark" >}}                                   |
+| Selección múltiple       | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Empleados                | {{< icon "circle-xmark" >}}                                   |
+| Clasificación            | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Botón                    | {{< icon "circle-xmark" >}}                                   |
+| Firma                    | {{< icon "circle-xmark" >}}                                   |
+| Texto                    | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| URL                      | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Número                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Última edición           | {{< icon "circle-xmark" >}}                                   |
