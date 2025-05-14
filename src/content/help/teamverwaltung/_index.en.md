@@ -1,6 +1,6 @@
 ---
 title: 'Team Admin'
-description: 'Help articles about managing your account.'
+description: ''
 weight: 5
 url: '/help/team-admin'
 icon: 'user-plus'

@@ -1,6 +1,6 @@
 ---
 title: 'Teamverwaltung'
-description: 'Help articles about managing your account.'
+description: ''
 weight: 5
 url: '/de/hilfe/teamverwaltung'
 icon: 'user-plus'
