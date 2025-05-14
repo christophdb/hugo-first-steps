@@ -1,9 +1,7 @@
 ---
 title: 'App Builder'
-description: '...'
+description: ''
 weight: 4
 url: '/help/app-builder'
 icon: 'layer-group'
 ---
-
-Hier kann content hin... Oder eine Grafik oder was auch immer...
