@@ -6,6 +6,7 @@ categories:
     - 'erste-schritte'
 author: 'cdb'
 url: '/de/hilfe/struktur-design-benutzerhandbuch'
+draft: true
 ---
 
 Dies ist ein Anweisungstext mit Vorgaben sowie Tipps & Tricks zum Schreiben von Hilfeartikeln für das neue [Benutzerhandbuch](https://docs.seatable.io). Die hier festgehaltenen Vorgaben sind, so weit es geht, einzuhalten, damit sich die Hilfeartikel unabhängig vom Autor wie aus einem Guss anfühlen.

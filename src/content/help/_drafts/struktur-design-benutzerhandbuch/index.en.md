@@ -5,7 +5,8 @@ lastmod: '2023-10-20'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/ru/help/struktur-design-benutzerhandbuch'
+url: '/help/struktur-design-benutzerhandbuch'
+draft: true
 ---
 
 Dies ist ein Anweisungstext mit Vorgaben sowie Tipps & Tricks zum Schreiben von Hilfeartikeln für das neue [Benutzerhandbuch](https://docs.seatable.io). Die hier festgehaltenen Vorgaben sind, so weit es geht, einzuhalten, damit sich die Hilfeartikel unabhängig vom Autor wie aus einem Guss anfühlen.
@@ -51,7 +52,7 @@ Werft einen Blick auf den Artikel [Lookup-Funktion](https://seatable.io/docs/ver
 
 Grundsätzlich kann es helfen, einen Blick in das [Handbuch von Airtable](https://support.airtable.com/docs/) zu werfen und dort nach dem Thema zu suchen. Deren Artikel können auch Anregungen geben, welche Aspekte man neben der Klick-Anleitung noch beleuchten sollte.
 
-{{< warning headline="Begriffe heißen bei Airtable anders" text="Die Dinge heißen bei Airtable teilweise anders. Spalten sind bei Airtable _fields_, Gruppen sind _Workspaces_ und Zeilen sind _records_." />}}
+{{< warning  headline="Begriffe heißen bei Airtable anders"  text="Die Dinge heißen bei Airtable teilweise anders. Spalten sind bei Airtable _fields_, Gruppen sind _Workspaces_ und Zeilen sind _records_." />}}
 
 ### 3\. Übersichtsartikel
 
@@ -156,7 +157,7 @@ Wofür ist der FAQ-Bereich gut?
 
 Wenn die Informationen nicht unmittelbar für den Leser wichtig sind, kann man überlegen einen FAQ-Abschnitt zu verwenden.
 
----
+{{</ faq >}}
 
 {{< warning  headline="Hinweise"  text="Hinweise dienen dazu, Einschränkungen und Tipps aufzuzeigen, weiterführende Informationen zu geben oder auf andere Artikel zu verlinken. Alternativ kannst du aber auch einen weiteren Abschnitt schreiben oder einen FAQ-Bereich nutzen. Hinweise eignen sich gut vor einer H2-Überschrift, um den Abschnitt davor abzuschließen." />}}
 
@@ -203,7 +204,7 @@ Erklärungen bereits in der Einleitung
 
 Widersteh der Versuchung, schon im Einleitungstext die Anleitung vorwegzugreifen. Fass sie lieber kurz und bündig zusammen oder gib einen größeren Überblick wie: _Dieser Artikel behandelt das Löschen einer einzelnen Zeile, das Löschen mehrerer Zeilen und das Löschen von Inhalten aus einer Zeile._
 
-{{</ faq >}}
+---
 
 Anleitung zum Verlassen eines Fensters
 

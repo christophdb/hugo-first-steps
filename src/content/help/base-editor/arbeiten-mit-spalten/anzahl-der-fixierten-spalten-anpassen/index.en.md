@@ -1,5 +1,5 @@
 ---
-title: 'Anzahl der fixierten Spalten anpassen'
+title: 'Adjust the number of fixed columns'
 date: 2022-10-26
 lastmod: '2024-03-15'
 categories:
@@ -8,28 +8,29 @@ author: 'nsc2'
 url: '/help/anzahl-der-fixierten-spalten-anpassen'
 ---
 
-Wenn Sie Ihre Tabellen nach und nach mit einer Vielzahl an neuen Spalten gefüllt haben, wird es ab einem gewissen Zeitpunkt nicht mehr möglich sein, alle Tabellenspalten im Blick zu haben, ohne nach rechts scrollen zu müssen. SeaTable erlaubt daher das **Fixieren von einer oder mehreren Spalten**, welche dann unabhängig vom Scrollen an ihrer Position bleiben.
+If you have gradually filled your tables with a large number of new columns, at a certain point it will no longer be possible to have all table columns in view without having to scroll to the right. SeaTable therefore allows you to **fix one or more columns**, which will then remain in their position regardless of scrolling.
 
-Durch das Fixieren der ersten Spalte(n) können Sie deren **Daten** auch noch **nach dem Scrollen lesen**. Diese Funktion ist sehr nützlich, wenn Sie Werte aus einer der vorderen Spalten mit jenen aus den hinteren Spalten zusammen betrachten oder vergleichen möchten.
+By fixing the first column(s) you can **read their data even after scrolling**. This feature is very useful when you want to view or compare values from one of the front columns together with those from the back columns.
 
-Die fixierten Spalten gelten immer für die gesamte Tabelle inklusive aller Ansichten.
+The fixed columns always apply to the entire table including all views.
 
-## Anzahl der fixierten Spalten anpassen
 
-![Anzahl der fixierten Spalten anpassen](https://seatable.io/wp-content/uploads/2022/10/adjust-the-number-of-frozen-columns.gif)
+## Adjust the number of fixed columns
 
-1. Fahren Sie mit der Maus über die **Trennlinie** zwischen den ersten beiden Spalten, bis anstatt des Mauszeigers ein Hand-Symbol mit der Anweisung **Anzahl der fixierten Spalten durch Ziehen anpassen** erscheint.
-2. **Ziehen** Sie den **Cursor** bis zum Ende der letzten **Spalte**, die Sie fixieren möchten.
+![Adjust the number of fixed columns](https://seatable.io/wp-content/uploads/2022/10/adjust-the-number-of-frozen-columns.gif)
 
-{{< warning  headline="Hinweis"  text="Während Sie den **Cursor** bis zur **gewünschten Spalte** bewegen, zeigt Ihnen SeaTable stets an, **wie viele Spalten** derzeit fixiert würden." />}}
+1. Move the mouse over the **separator line** between the first two columns until a hand icon appears instead of the mouse pointer with the instruction **Adjust number of fixed columns by dragging**.
+1. **Drag** the **cursor** to the end of the last **column** you want to fix.
 
-## Fixieren der ersten Spalte
+{{< warning  headline="Note"  text="While you move the cursor to the desired column, SeaTable always shows you how many columns would be currently fixed." />}}
 
-Zusätzlich zum oben beschriebenen Weg gibt es noch eine **andere Möglichkeit**, Spalten zu fixieren. Diese Option steht jedoch ausschließlich für die **erste Spalte** jeder Tabelle zur Verfügung. Wenn Sie diese Option auswählen, wird folglich **nur** die erste Tabellenspalte fixiert.
+## Fix the first column
 
-1. Klicken Sie auf das dreieckige **Drop-down-Symbol** rechts im Tabellenkopf der ersten Spalte.
-2. Klicken Sie auf **Spalte fixieren**.
+In addition to the way described above, there is **another way** to fix columns. However, this option is available only for the **first column** of each table. Consequently, if you select this option, **only** the first table column will be fixed.
 
-![Fixieren der ersten Spalte](https://seatable.io/wp-content/uploads/2022/10/freeze-the-first-column.gif)
+1. Click on the triangular **drop-down symbol** on the right in the table header of the first column.
+1. Click **Lock Column**.
 
-{{< warning  headline="Wichtiger Hinweis"  text="Um die Fixierung der ersten Spalte wieder **aufzuheben**, wiederholen Sie einfach den ersten Schritt dieser Klickfolge, aber wählen Sie nun **Spaltenfixierung aufheben**. Beachten Sie, dass in diesem Fall auch die **Fixierung aller weiteren Spalten** aufgehoben wird." />}}
+![Fix the first column](https://seatable.io/wp-content/uploads/2022/10/freeze-the-first-column.gif)
+
+{{< warning  headline="Important Note"  text="To **unfix** the first column, simply repeat the first step of this click sequence, but now select **Unfix column**. Please note that in this case, all other columns will also be unfixed." />}}
