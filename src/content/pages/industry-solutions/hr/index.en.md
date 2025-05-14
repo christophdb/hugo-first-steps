@@ -52,9 +52,9 @@ sections:
           - text: Time tracking
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
             alt: Time tracking
-          - text: Employee onboarding
+          - text: New Employee onboarding
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt: Employee onboarding
+            alt: New Employee onboarding
           - text: Personnel recruitment
             image: /images/Landing-Page-HR_Template_Recruiting.png
             alt: Personnel recruitment
@@ -158,7 +158,7 @@ sections:
             SeaTable goes further here and offers complete customisability so that you can individually design and optimise HR processes such as onboarding and offboarding processes, operational HR work and travel expense reports. With its flexible API and numerous integration options, SeaTable can be seamlessly integrated into your existing workflows and also offers digital personnel file software that is secure and efficient. Compared to Personio and HeavenHR, SeaTable also offers more options for digitising personnel files to meet the increasing demands on human resources processes"
 
           - q: "How can I integrate and optimise my existing HR processes with SeaTable?"
-            a: "SeaTable is designed to integrate seamlessly with your existing HR processes and systems. Thanks to its flexible API and extensive integration options, you can easily connect SeaTable with other tools and platforms. In addition, SeaTable offers customisable templates and workflows that you can use to optimise your HR processes such as applicant management, working time recording, onboarding and offboarding processes, employee development and much more. SeaTable gives you full control over your HR operations and allows you to design your processes in the way that best suits your organisation"
+            a: "SeaTable is designed to integrate seamlessly with your existing HR processes and systems. Thanks to its flexible API and extensive integration options, you can easily connect SeaTable with other tools and platforms. In addition, SeaTable offers customisable templates and workflows that you can use to optimise your HR processes such as applicant management, working time calculator, onboarding and offboarding processes, employee development and much more. SeaTable gives you full control over your HR operations and allows you to design your processes in the way that best suits your organisation"
 
           - q: "How secure is my data in SeaTable, especially in terms of GDPR?"
             a: "SeaTable attaches great importance to data security and data protection. The platform is fully GDPR compliant and offers flexible hosting and deployment options. You can run SeaTable in the cloud or on your own servers to maintain full control over your data. All data is stored securely and you can set customised retention periods for your digital personnel file. In addition, role-based access controls ensure that your data is always protected"
