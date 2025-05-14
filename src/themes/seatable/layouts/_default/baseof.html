@@ -16,7 +16,7 @@
         {{ if hugo.IsProduction }}
         {{ else }}
             {{ partial "tw-size-indicator.html" . }}
-            <div class="fixed left-10 top-1 z-10 flex gap-3">
+            <div class="fixed left-10 top-1 z-10 flex gap-3 print:hidden">
                 <div><a href="/blocks/">{{ partial "icon.html" "palette" }}</a></div>
                 <div><a href="/de/style-guide/">{{ partial "icon.html" "heart" }}</a></div>
                 <div><a href="/icons/">{{ partial "icon.html" "font-awesome" }}</a></div>
@@ -38,7 +38,7 @@
 
         <!--{{ partial "seocheck.html" . }}-->
 
-        <footer>
+        <footer class="print:hidden">
             {{ partial "footer.html" . }}
         </footer>
 
