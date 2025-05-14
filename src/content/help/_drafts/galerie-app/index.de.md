@@ -5,7 +5,8 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/es/ayuda/galerie-app'
+url: '/de/hilfe/galerie-app'
+draft: true
 ---
 
 Die **Galerie-App** erinnert in Ihrer Funktionsweise stark an das [Galerie-Plugin](https://seatable.io/docs/plugins/anleitung-zum-galerie-plugin/), welches Sie eventuell schon einmal für die Darstellung von bebilderten Datensätzen verwendet haben. Die Galerie-App können Sie dafür nutzen, Ihre [Bilder](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) inklusive Metadaten übersichtlich in einer Galerie zu veröffentlichen.

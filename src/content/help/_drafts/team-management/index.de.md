@@ -3,7 +3,8 @@ title: "Team Management"
 date: 2022-08-25
 lastmod: "2023-01-13"
 author: "cdb"
-url: "/ru/help/team-management"
+url: "/de/hilfe/team-management"
+draft: true
 ---
 
 In SeaTable steht das Team im Mittelpunkt. Gemeinsam arbeiten Sie an Ihren Aufgaben und Projekten. Im Team feiern Sie Erfolge und erleben Sie Misserfolge. Dieses Team inkl. aller Benutzer, Gruppen und Bases verwalten Sie in der Kontoverwaltung von SeaTable. Mit Ihrem Team verknüpft ist auch Ihr Abonnement, egal ob Sie ein kostenfreien Free oder ein kostenpflichtiges Plus bzw. Enterprise Abonnement haben. Das Abonnement verwalten Sie ebenfalls in der Kontoverwaltung.

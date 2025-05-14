@@ -5,7 +5,8 @@ lastmod: "2024-05-15"
 categories: 
   - "apps"
 author: "nsc2"
-url: "/pt/ajuda/datenabfrage-und-galerie-app-teilen"
+url: "/de/hilfe/datenabfrage-und-galerie-app-teilen"
+draft: true
 ---
 
 Sie haben eine Datenabfrage-App oder eine Galerie-App zu einer Ihrer Bases hinzugefügt und möchten diese mit anderen Nutzern teilen? Kein Problem! Für beide Apps gibt es zwei Wege, um dies in nur wenigen Schritten zu erledigen.
