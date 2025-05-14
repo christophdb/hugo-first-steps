@@ -2,17 +2,17 @@
 title: 'O prémio Red Dot Design Award optimiza a gestão de eventos com o SeaTable'
 description: 'A Red Dot GmbH & Co. KG de Essen, conhecida pelo internacionalmente reconhecido Red Dot Design Award, revolucionou e optimizou a sua gestão de eventos e encomendas. Com o SeaTable Server, a equipa beneficia de fluxos de trabalho transparentes, eficientes e colaborativos e de uma gestão de dados em conformidade com o RGPD.'
 seo:
-    title: "História de um cliente Red Dot Design Award optimiert"
-    description: "Com o SeaTable Server, a equipa beneficia de fluxos de trabalho eficientes e colaborativos e de uma gestão de dados em conformidade com o RGPD."
+    title: 'História de um cliente Red Dot Design Award optimiert'
+    description: 'Com o SeaTable Server, a equipa beneficia de fluxos de trabalho eficientes e colaborativos e de uma gestão de dados em conformidade com o RGPD.'
 date: 2025-03-18
-categories: 
-  - "Casos de clientes"
-tags: 
-  - 'Quando o Excel já não é suficiente'
-  - 'Gestão e visualização de dados'
-  - 'Gestão de eventos'
-color: "#dc4d51"
-url: "/pt/customer-story-red-dot"
+categories:
+    - 'Casos de clientes'
+tags:
+    - 'Quando o Excel já não é suficiente'
+    - 'Gestão e visualização de dados'
+    - 'Gestão de eventos'
+color: '#dc4d51'
+url: '/pt/customer-story-red-dot'
 ---
 
 ## Um sistema moderno para um processo eficiente
@@ -23,9 +23,9 @@ A Red Dot GmbH & Co. KG em Essen é parte integrante do mundo internacional do d
 
 Antes da introdução do SeaTable, a ferramenta mais importante era um [programa de folha de cálculo para computador]({{< relref "pages/excel-alternative" >}}). Esta solução estava desactualizada, especialmente no que diz respeito à gestão de dados. A colaboração no seio da equipa era um verdadeiro desafio, uma vez que não era possível trabalhar em conjunto. O processo existente revelou-se particularmente problemático na organização da cerimónia de entrega dos prémios do Red Dot Award: Product Design, um grande evento internacional. A falta de oportunidades de trabalho colaborativo dificultou a organização e as alterações de última hora.
 
-## O SeaTable cumpre na perfeição os requisitos de
+## O SeaTable cumpre na perfeição os requisitos
 
-Para a Red Dot, ficou claro que era necessária uma ferramenta diferente que também oferecesse colaboração em tempo real nos dados. No entanto, uma solução [em nuvem óbvia]({{< relref "pages/product/seatable-cloud" >}}) foi excluída devido aos regulamentos rigorosos de proteção de dados da empresa. Por conseguinte, era necessária uma solução que suportasse o trabalho colaborativo, cumprisse os requisitos rigorosos de proteção de dados e pudesse ser alojada no local. Na altura, a Red Dot já utilizava o SeaFile, um produto irmão do SeaTable, como ferramenta de partilha de ficheiros. Louisa Mücher recebeu assim uma recomendação do seu fornecedor de serviços de TI para dar uma vista de olhos ao SeaTable.
+Para a Red Dot, ficou claro que era necessária uma ferramenta diferente que também oferecesse colaboração em tempo real nos dados. No entanto, uma solução [em nuvem óbvia]({{< relref "pages/product/seatable-cloud" >}}) foi excluída devido aos regulamentos rigorosos de proteção de dados da empresa. Por conseguinte, era necessária uma solução que suportasse o trabalho colaborativo, cumprisse os requisitos rigorosos de proteção de dados e pudesse ser alojada no local. Na altura, a Red Dot já utilizava o Seafile, um produto irmão do SeaTable, como ferramenta de partilha de ficheiros. Louisa Mücher recebeu assim uma recomendação do seu fornecedor de serviços de TI para dar uma vista de olhos ao SeaTable.
 
 A facilidade de utilização, o elevado nível de proteção de dados e a possibilidade não problemática de trabalhar em conjunto num único ficheiro foram imediatamente convincentes. O processo de implementação também decorreu sem problemas. Com o apoio do fornecedor de serviços de TI, o SeaTable foi rapidamente implementado em várias áreas da empresa. Uma vez que os processos iniciais puderam ser mapeados através de modelos padrão e o sistema é muito fácil de utilizar e intuitivo, a aceitação por parte da equipa foi elevada.
 
