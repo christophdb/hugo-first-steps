@@ -18,7 +18,7 @@ Wenn Sie Eigentümer- oder Administrator-Rechte besitzen, können Sie in jeder T
 
 ![Spaltenberechtigungen festlegen](https://seatable.io/wp-content/uploads/2023/02/edit-column-permissions.gif)
 
-1. Klicken Sie auf das **Drop-down-Symbol** \[icon c="grey"\]dtable-icon-drop-down\[/icon\] im Kopf einer beliebigen Spalte.
+1. Klicken Sie auf das **Drop-down-Symbol** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} im Kopf einer beliebigen Spalte.
 2. Klicken Sie auf **Spaltenberechtigungen bearbeiten**.
 3. Legen Sie die gewünschten **Berechtigungen** fest. Für jede Spalte können Sie **zwei** verschiedene Berechtigungen festlegen:
     - Berechtigung zur Bearbeitung der Zellen in dieser Spalte
@@ -35,7 +35,7 @@ Mithilfe dieser Berechtigung können Sie einschränken, wer die **Zellen** der a
 
 Wenn Sie diese Option wählen, ist **kein Benutzer**, unabhängig von seiner Rolle, dazu in der Lage, die Zellen der Spalte zu bearbeiten, bis die entsprechende Berechtigung vom _Gruppeneigentümer_ oder von einem _Gruppenadministrator_ wieder aufgehoben wird.
 
-**Alle Benutzer** bekommen neben dem Spaltennamen ein entsprechendes **Schloss-Symbol** \[icon c="grey"\]dtable-icon-unlock\[/icon\] samt Hinweis angezeigt.
+**Alle Benutzer** bekommen neben dem Spaltennamen ein entsprechendes **Schloss-Symbol** {{< seatable-icon icon="dtable-icon-unlock" color="grey" >}} samt Hinweis angezeigt.
 
 ![Gruppenmitglieder verfügen mit dieser Einstellung nicht über die Berechtigung, die Zellen der Spalte zu bearbeiten](images/group-members-cant-edit-cells-1.png)
 
@@ -43,7 +43,7 @@ Wenn Sie diese Option wählen, ist **kein Benutzer**, unabhängig von seiner Rol
 
 Wenn Sie diese Option wählen, sind ausschließlich **Eigentümer** und **Administratoren** dazu in der Lage, die Zellen der Spalte zu bearbeiten.
 
-**Gruppenmitglieder** können die Zellen hingegen **nicht** bearbeiten und bekommen neben dem Spaltennamen das **Schloss-Symbol** \[icon c="grey"\]dtable-icon-unlock\[/icon\] samt Hinweis angezeigt.
+**Gruppenmitglieder** können die Zellen hingegen **nicht** bearbeiten und bekommen neben dem Spaltennamen das **Schloss-Symbol** {{< seatable-icon icon="dtable-icon-unlock" color="grey" >}} samt Hinweis angezeigt.
 
 - **Option 3**: Bestimmte Nutzer können die Zellen der ausgewählten Spalte bearbeiten.
 
@@ -51,7 +51,7 @@ Bei dieser Option können Sie die **Gruppenmitglieder auswählen**, die über di
 
 ![Auswahl von bestimmten Nutzern, die die Zellen der Spalte bearbeiten können](images/option-3-editing-cells.png)
 
-Gruppenmitglieder, die **nicht** von Ihnen ausgewählt werden, können die Zellen hingegen **nicht** bearbeiten und bekommen neben dem Spaltennamen das **Schloss-Symbol** \[icon c="grey"\]dtable-icon-unlock\[/icon\] samt Hinweis angezeigt.
+Gruppenmitglieder, die **nicht** von Ihnen ausgewählt werden, können die Zellen hingegen **nicht** bearbeiten und bekommen neben dem Spaltennamen das **Schloss-Symbol** {{< seatable-icon icon="dtable-icon-unlock" color="grey" >}} samt Hinweis angezeigt.
 
 ## Berechtigung zur Bearbeitung der Spalteneinstellungen
 

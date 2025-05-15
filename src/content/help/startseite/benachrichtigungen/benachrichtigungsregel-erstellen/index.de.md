@@ -53,7 +53,7 @@ Zu guter Letzt fügen Sie einen **Text** ein, um die Benachrichtigung mit Inhalt
 
 ![Definiton des Inhalts der Benachrichtigung, die nach Auslösung des Triggers versendet wird](images/costum-message-of-the-notification.png)
 
-Nach Auslösung des Triggers wird die definierte Benachrichtigung automatisch an die ausgewählten Benutzer versendet. Die Benutzer erkennen am **Glocken-Symbol** \[icon c="grey"\]dtable-icon-notice\[/icon\], dass eine neue Nachricht in der Benachrichtigungszentrale angekommen ist.
+Nach Auslösung des Triggers wird die definierte Benachrichtigung automatisch an die ausgewählten Benutzer versendet. Die Benutzer erkennen am **Glocken-Symbol** {{< seatable-icon icon="dtable-icon-notice" color="grey" >}}, dass eine neue Nachricht in der Benachrichtigungszentrale angekommen ist.
 
 ![Nach Auslösung einer Benachrichtigungs-Regel an einen Benutzer versendete Benachrichtigung](images/received-notification-rule.jpg)
 

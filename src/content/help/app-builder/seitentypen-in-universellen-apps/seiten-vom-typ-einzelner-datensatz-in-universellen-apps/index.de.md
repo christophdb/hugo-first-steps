@@ -78,7 +78,7 @@ Folgende grafische Einstellungen können Sie für die gesamte Seite des Typs Ein
 
 ## Zwischen den Einträgen wechseln
 
-Wenn Sie die Toolbar eingeblendet haben, können die App-Nutzer mit der entsprechenden Seitenberechtigung zwischen den einzelnen Datensätzen wechseln. Klicken Sie dazu auf \[icon c="grey"\]dtable-icon-left\[/icon\] **Vorheriger Eintrag** oder **Nächster Eintrag** \[icon c="grey"\]dtable-icon-right\[/icon\]. Sie können auch gezielt einen \[icon c="grey"\]dtable-icon-search\[/icon\] **Eintrag suchen**.
+Wenn Sie die Toolbar eingeblendet haben, können die App-Nutzer mit der entsprechenden Seitenberechtigung zwischen den einzelnen Datensätzen wechseln. Klicken Sie dazu auf {{< seatable-icon icon="dtable-icon-left" color="grey" >}} **Vorheriger Eintrag** oder **Nächster Eintrag** {{< seatable-icon icon="dtable-icon-right" color="grey" >}}. Sie können auch gezielt einen {{< seatable-icon icon="dtable-icon-search" color="grey" >}} **Eintrag suchen**.
 
 ![Switch between records on single record pages](images/Switch-between-records-on-single-record-pages.gif)
 

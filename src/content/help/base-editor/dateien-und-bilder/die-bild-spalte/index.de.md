@@ -91,7 +91,7 @@ Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu
 
 Alle Bilder, die in einer Bild-Spalte gespeichert sind, können Sie zudem auch wieder **löschen**. Klicken Sie hierzu zunächst mit einem **Doppelklick** in eine Zelle, die bereits Bilder enthält, _oder_ auf das **blaue Doppelpfeil-Symbol**.
 
-Wählen Sie anschließend das gewünschte **Bild** aus und klicken Sie auf das \[icon c=grey\]dtable-icon-x\[/icon\]**\-Symbol**. Bestätigen Sie den Vorgang im Anschluss mit **Löschen**.
+Wählen Sie anschließend das gewünschte **Bild** aus und klicken Sie auf das {{< seatable-icon icon="dtable-icon-x" color="grey" >}} **-Symbol**. Bestätigen Sie den Vorgang im Anschluss mit **Löschen**.
 
 ![Bestätigung der Löschung](images/confirm-delete.jpg)
 

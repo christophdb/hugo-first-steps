@@ -16,7 +16,7 @@ Es ist möglich, den Spaltentyp im Nachhinein noch zu ändern. Hier erfahren Sie
 
 ![Wie man den Spaltentyp anpasst](images/how-to-costumize-a-coloumn-type.gif)
 
-1. Klicken Sie auf das dreieckige **Drop-down-Symbol** \[icon c="grey"\]dtable-icon-drop-down\[/icon\] rechts neben dem Namen der Spalte, deren Typ Sie anpassen möchten.
+1. Klicken Sie auf das dreieckige **Drop-down-Symbol** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} rechts neben dem Namen der Spalte, deren Typ Sie anpassen möchten.
 2. Wählen Sie die Option **Spaltentyp anpassen**.
 3. Weisen Sie der Spalte einen neuen **Spaltentyp** zu und nehmen Sie ggf. weitere spezifische **Einstellungen** vor.
 4. Bestätigen Sie den Vorgang mit einem Klick auf **Abschicken**.

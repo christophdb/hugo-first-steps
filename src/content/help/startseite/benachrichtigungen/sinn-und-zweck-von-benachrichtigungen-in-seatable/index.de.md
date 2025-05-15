@@ -22,7 +22,7 @@ Bei einer geschickten, vorausschauenden Konfiguration der **Benachrichtigungsreg
 
 {{< warning  type="warning" headline="Zugriff ist nötig"  text="Voraussetzung für die Benachrichtigung eines Nutzers ist, dass er mindestens **Lesezugriff** auf die betroffene Tabelle hat." />}}
 
-Das Vorliegen einer **neuen Benachrichtigung** erkennen Sie am **Glocken-Symbol** \[icon c="grey"\]dtable-icon-notice\[/icon\], über das Sie per Klick auch die Benachrichtigungszentrale öffnen können.
+Das Vorliegen einer **neuen Benachrichtigung** erkennen Sie am **Glocken-Symbol** {{< seatable-icon icon="dtable-icon-notice" color="grey" >}}, über das Sie per Klick auch die Benachrichtigungszentrale öffnen können.
 
 ![Nach Auslösung einer Benachrichtigungs-Regel an einen Benutzer versendete Benachrichtigung](images/received-notification-rule.jpg)
 

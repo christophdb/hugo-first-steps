@@ -1,11 +1,11 @@
 ---
-title: "Die Zahlen-Spalte"
+title: 'Die Zahlen-Spalte'
 date: 2023-01-08
-lastmod: "2023-11-08"
-categories: 
-  - "text-und-zahlen"
-author: "ssc"
-url: "/de/hilfe/die-zahlen-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'text-und-zahlen'
+author: 'ssc'
+url: '/de/hilfe/die-zahlen-spalte'
 ---
 
 In SeaTable können Sie die **Zahlen-Spalte** vielseitig nutzen, um mit Zahlen jeder Art zu arbeiten (z. B. Anzahl von Gegenständen, Entfernung zu Zielen, Preis eines Produktes etc.).
@@ -33,7 +33,7 @@ Darüber hinaus bietet SeaTable andere Spalten an, die manchmal besser zu Ihren 
 
 ## Formateinstellungen
 
-Das **Zahlenformat** können Sie auch im Nachhinein bearbeiten und feinjustieren. Öffnen Sie hierzu zunächst das Drop-down-Menü mit den **Spalten-Optionen** über das Dreieck \[icon c="grey"\]dtable-icon-drop-down\[/icon\] im Spaltenkopf und klicken Sie im Anschluss auf \[icon c="grey"\]dtable-icon-set-up\[/icon\] **Formateinstellungen**.
+Das **Zahlenformat** können Sie auch im Nachhinein bearbeiten und feinjustieren. Öffnen Sie hierzu zunächst das Drop-down-Menü mit den **Spalten-Optionen** über das Dreieck {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} im Spaltenkopf und klicken Sie im Anschluss auf {{< seatable-icon icon="dtable-icon-set-up" color="grey" >}} **Formateinstellungen**.
 
 Sie können nun ein anderes **Format** auswählen, **Dezimal-** und **Tausendertrennzeichen** einstellen sowie die Anzahl der **Nachkommastellen** ändern.
 
@@ -42,10 +42,20 @@ Sie können nun ein anderes **Format** auswählen, **Dezimal-** und **Tausendert
 Folgende Zahlenformate stehen Ihnen zur Verfügung:
 
 - **Zahl**
-Verwendung einer einfachen Zahl, beispielsweise für die Anzahl von Gegenständen.- **Prozent**
-Verwendung von Prozentangaben, beispielsweise für den Fortschritt in der Bearbeitung von Aufgaben.- **Währungen (Yuan, Dollar & Euro)**
-Verwendung von verschiedenen Währungen, beispielsweise für die Preise von Produkten.- **Benutzerdefinierte Währung**
-Verwendung einer benutzerdefinierten Währung, bei der das Währungssymbol individuell eingegeben werden kann.
+
+    Verwendung einer einfachen Zahl, beispielsweise für die Anzahl von Gegenständen.
+
+- **Prozent**
+
+    Verwendung von Prozentangaben, beispielsweise für den Fortschritt in der Bearbeitung von Aufgaben.
+
+- **Währungen (Yuan, Dollar & Euro)**
+
+    Verwendung von verschiedenen Währungen, beispielsweise für die Preise von Produkten.
+
+- **Benutzerdefinierte Währung**
+
+    Verwendung einer benutzerdefinierten Währung, bei der das Währungssymbol individuell eingegeben werden kann.
 
 ## Standardwert festlegen und Eingabe validieren
 
@@ -55,7 +65,7 @@ Um **Fehler** und **Extremwerte** direkt zu identifizieren, können Sie zudem di
 
 Sie können diese Einstellungen beim Anlegen der Zahlen-Spalte oder im Nachhinein vornehmen:
 
-1. Öffnen Sie das Drop-down-Menü mit den **Spalten-Optionen** über das Dreieck \[icon c="grey"\]dtable-icon-drop-down\[/icon\] im Spaltenkopf.
+1. Öffnen Sie das Drop-down-Menü mit den **Spalten-Optionen** über das Dreieck {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} im Spaltenkopf.
 2. Klicken Sie im Anschluss auf **Spaltentyp anpassen**.
 3. Klicken Sie auf **Weitere Einstellungen** und aktivieren Sie ganz unten die entsprechenden **Regler**.
 

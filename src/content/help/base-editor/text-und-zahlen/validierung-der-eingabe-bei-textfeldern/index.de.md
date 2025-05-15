@@ -16,7 +16,7 @@ Bei der Verwendung von Textspalten in Ihren Tabellen haben Sie die Möglichkeit,
 
 ![Aktivierung der Validierung der Eingabe von Text-Spalten](images/activate-validation-1.png)
 
-1. Falls Sie eine Validierung der Eingaben in einer bereits angelegten Text-Spalte durchführen möchten, klicken Sie zunächst auf das **Dreieck-Symbol** \[icon c="grey"\]dtable-icon-drop-down\[/icon\] der entsprechenden Spalte.
+1. Falls Sie eine Validierung der Eingaben in einer bereits angelegten Text-Spalte durchführen möchten, klicken Sie zunächst auf das **Dreieck-Symbol** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} der entsprechenden Spalte.
 2. Wählen Sie im Drop-down-Menü **Spaltentyp anpassen** aus.
 3. Aktivieren Sie den Regler **Eingabe validieren**
 4. Definieren Sie ein **Zielformat**.
