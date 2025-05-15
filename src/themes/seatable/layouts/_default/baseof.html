@@ -291,7 +291,8 @@
             const redirect = (url) => {
                 // Redirect if the user is not already on the correct page
                 if (window.location.href !== url) {
-                    window.location.href = url;
+                    // Keep the URL fragment
+                    window.location.href = url + window.location.hash;
                 }
             };
         </script>
