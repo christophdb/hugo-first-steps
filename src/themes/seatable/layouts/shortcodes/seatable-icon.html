@@ -6,4 +6,4 @@
 {{ end }}
 
 
-<span class="dtable-font {{ $icon }}" {{ if isset .Params "color" }}style="color: {{ .Get `color` }}"{{ end }}></span>
+<span class="dtable-font {{ $icon }}" {{ if .Get "color" }}style="color: {{ .Get `color` }}"{{ end }}></span>
