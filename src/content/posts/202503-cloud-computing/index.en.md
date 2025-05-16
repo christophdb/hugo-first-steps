@@ -61,7 +61,7 @@ In a cloud, all users see the current version of their stored data and documents
 ---
 
 Elasticity and scalability|||
-Flexibly adapt your cloud infrastructure to your needs and data volumes at any time. Cloud computing allows your company to grow without your IT infrastructure becoming a bottleneck.
+Flexibly adapt your cloud computing infrastructure to your needs and data volumes at any time. Cloud computing allows your company to grow without your IT infrastructure becoming a bottleneck.
 
 {{< /faq >}}
 
@@ -138,7 +138,7 @@ If you store your data on premise for compliance reasons, i.e. on servers at the
 
 Before you switch from local servers to the cloud, you should develop a well thought-out strategy. Here are some tips:
 
-- Analyze your current IT resource needs and decide to what extent you want to be responsible for the infrastructure you need yourself.
+- Analyze your current IT resource needs and decide to what extent you want to be responsible for the cloud computing infrastructure you need yourself.
 - Then choose one of the cloud computing models (e.g. public cloud) and a cloud computing provider that suits your requirements (e.g. data storage location within the EU).
 - Think about how you can ensure secure data migration as quickly as possible.
 - Train your employees to use the new cloud technologies in order to minimize the risks associated with local storage on end devices.
