@@ -27,13 +27,13 @@ sections:
       items:
           - icon: signature
             headline: 'Adapting to Changing Business Requirements'
-            text: 'Companies constantly face rapidly changing market conditions and demands. A flexible workflow management system like SeaTable helps meet these challenges by enabling quick integration of new technologies and workflows.'
+            text: 'Companies constantly face rapidly changing market conditions and demands. A flexible workflow management system like SeaTable helps meet these challenges by enabling quick integration of new technologies and automate workflows.'
           - icon: building
             headline: 'Security Requirements and Innovation'
-            text: 'With SeaTable, you can design innovative workflows without compromising data security. This is especially important when integrating new technologies into existing processes, allowing you to test new workflows while ensuring compliance with IT policies.'
+            text: 'With SeaTable, you can design innovative automate workflows without compromising data security. This is especially important when integrating new technologies into existing processes, allowing you to test new workflows while ensuring compliance with IT policies.'
           - icon: substack
             headline: 'Aligning IT and Business Strategies'
-            text: 'Companies often struggle to align their IT strategy with overarching business goals. SeaTable lets you design workflows that support business strategy and drive digital transformation.'
+            text: 'Companies often struggle to align their IT strategy with overarching business goals. SeaTable lets you design automate workflows that support business strategy and drive digital transformation.'
           - icon: ghost
             headline: 'Improve Efficiency and Competitiveness'
             text: 'Automating your workflows with SeaTable boosts efficiency, freeing your team to focus on strategic tasks. A tailored workflow management tool lets you optimize processes, save time, and enhance market competitiveness.'
@@ -49,7 +49,7 @@ sections:
       classes:
           - curved
       title: 'Your Custom Workflow Management System'
-      subtitle: 'For Your Workflow'
+      subtitle: 'For Your automate Workflow'
       description: 'Create and automate custom workflows while monitoring all processes in real time. Thanks to the intuitive interface, you can get started immediately without writing a single line of code.'
       items:
           - text: 'No complex implementation thanks to no-code'
@@ -65,8 +65,8 @@ sections:
       subtitle: 'Flexible and Customizable'
       description: 'Whether simple task lists or complex workflow systems: SeaTable provides **the flexibility needed to design processes your way**.'
       items:
-          - headline: 'Custom Workflows'
-            text: "With SeaTable, you can design workflows tailored to your company's exact requirements."
+          - headline: 'Custom Workflow Automation'
+            text: "With SeaTable, you can design workflow automations tailored to your company's exact requirements."
           - headline: 'Visual Design'
             text: 'The user-friendly no-code platform lets you design processes via drag-and-drop.'
           - headline: 'Tailored Automation'
@@ -79,7 +79,7 @@ sections:
       weight: 5
       title: 'Connect SeaTable with Your Tools'
       subtitle: 'Integration'
-      description: 'Link SeaTable with all the apps you already use and make it the central hub for all your workflows.'
+      description: 'Link SeaTable with all the apps you already use and make it the central hub for all your workflow automations.'
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -100,7 +100,7 @@ sections:
 
     - name: 'content-4'
       weight: 7
-      title: Examples of customized workflows with SeaTable
+      title: Examples of customized automate workflows with SeaTable
       subtitle: Your Swiss army knife
       text: "SeaTable offers countless possibilities for designing individual workflows that are perfectly tailored to your company's needs. Here are some examples:"
       buttons:
@@ -128,9 +128,9 @@ sections:
 
     - name: 'content-3'
       weight: 8
-      title: Your choice for the optimal workflow system
+      title: Your choice for the optimal workflow Software
       subtitle: Cloud or your own server
-      description: 'With SeaTable, you have the choice between two powerful deployment options for your workflow tool:'
+      description: 'With SeaTable, you have the choice between two powerful deployment options for your workflow Software:'
       items:
           - headline: SeaTable Cloud
             text: Perfect for companies that want to start quickly without extensive IT infrastructure. The SeaTable Cloud is ready to use immediately and offers maximum flexibility and scalability.
@@ -144,13 +144,13 @@ sections:
       title: FAQ – Workflow Management with SeaTable
       items:
           - q: 'What is a workflow and why is it crucial for businesses?'
-            a: 'A workflow is the systematic sequence of tasks and processes that need to be completed within a company to achieve specific goals. Through well-structured workflow management, companies can save time, minimize errors, and significantly improve team collaboration. However, in many companies, a large part of workflows are still performed manually, leading to delays, errors, and inefficiencies. This is where an effective workflow management tool like SeaTable comes into play. It allows you to digitize, automate, and seamlessly integrate your workflows, automating repetitive tasks and reducing manual intervention to a minimum. This means not only significant time savings but also a noticeable reduction in sources of error. With a flexible workflow management tool like SeaTable, companies can quickly adapt their processes to meet current market requirements while maintaining control over security, IT compliance, and license management.'
+            a: 'A workflow is the systematic sequence of tasks and processes that need to be completed within a company to achieve specific goals. Through well-structured workflow management, companies can save time, minimize errors, and significantly improve team collaboration. However, in many companies, a large part of workflows are still performed manually, leading to delays, errors, and inefficiencies. This is where an effective workflow management Software like SeaTable comes into play. It allows you to digitize, automate, and seamlessly integrate your workflows, automating repetitive tasks and reducing manual intervention to a minimum. This means not only significant time savings but also a noticeable reduction in sources of error. With a flexible workflow management tool like SeaTable, companies can quickly adapt their processes to meet current market requirements while maintaining control over security, IT compliance, and license management.'
           - q: How can SeaTable help manage rapid changes in business requirements?
-            a: SeaTable is flexible and customizable. As a workflow management tool, it allows you to quickly adapt workflows to new business requirements without complex IT changes. This enables you to respond quickly to market changes and maintain your competitiveness.
+            a: SeaTable is flexible and customizable. As a workflow management Software, it allows you to quickly adapt workflows to new business requirements without complex IT changes. This enables you to respond quickly to market changes and maintain your competitiveness.
           - q: How does SeaTable ensure IT security with innovative solutions?
-            a: With SeaTable, you can create innovative workflows without compromising security. Through the possibility of self-hosting solutions and compliance with strict security standards, SeaTable offers the ideal workflow software with a combination of innovation and data security.
+            a: With SeaTable, you can create innovative automate workflows without compromising security. Through the possibility of self-hosting solutions and compliance with strict security standards, SeaTable offers the ideal workflow software with a combination of innovation and data security.
           - q: How does SeaTable help align IT and business strategies?
-            a: With SeaTable as a workflow management tool, you design workflows that support your business goals. This allows you to directly link your digital strategy with corporate objectives and ensure that IT seamlessly harmonizes with business requirements.
+            a: With SeaTable as a workflow management tool, you design workflow automations that support your business goals. This allows you to directly link your digital strategy with corporate objectives and ensure that IT seamlessly harmonizes with business requirements.
           - q: Can SeaTable help with integrating new technologies?
             a: With SeaTable, you keep track of your software licenses and can ensure that your IT remains fully compliant. Thanks to the automation of your license management and regular compliance checks, you can ensure that all software licenses used always comply with current regulations and that you don't incur unnecessary costs for invalid or expired licenses.
           - q: How does SeaTable improve license management and software compliance?
@@ -167,6 +167,6 @@ sections:
 
     - name: form-contact
       weight: 16
-      title: Would you like to learn more about how you can use SeaTable to manage your workflows efficiently?
+      title: Would you like to learn more about how you can use SeaTable to automate your workflows efficiently?
       description: Send us a message – we'll get back to you promptly
 ---

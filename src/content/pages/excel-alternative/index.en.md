@@ -31,7 +31,7 @@ sections:
 
           - icon: sack-dollar
             headline: Costs
-            text: 'The license costs for Microsoft Office can be a significant burden for small and medium-sized companies. SeaTable already offers a comprehensive Excel alternative for modern, flexible and efficient data management with the free version.'
+            text: 'The license costs for Microsoft Office can be a significant burden for small and medium-sized companies. SeaTable already offers a comprehensive free Excel alternative for modern, flexible and efficient data management with the free version.'
 
           - icon: edit
             headline: Collaboration
@@ -152,7 +152,7 @@ sections:
       weight: 11
       title: Get started with our free templates
       subtitle: What is SeaTable?
-      text: Creating tables in Excel was yesterday - SeaTable combines spreadsheet, database and app builder in one platform and offers you comprehensive options for your data management. Use the numerous templates that SeaTable offers to start your projects quickly and efficiently. Based on these templates, you can easily create individual dashboards to visualize your data for further analyses or reports.
+      text: Creating tables in Excel was yesterday - SeaTable combines free spreadsheet, database and app builder in one platform and offers you comprehensive options for your data management. Use the numerous templates that SeaTable offers to start your projects quickly and efficiently. Based on these templates, you can easily create individual dashboards to visualize your data for further analyses or reports.
       buttons:
           - label: Try it out now
             link: pages/registration
@@ -207,7 +207,7 @@ sections:
           - q: 'Can I migrate my data from Excel or Google Spreadsheet to SeaTable?'
             a: 'Yes, you can migrate your data to SeaTable **without any problems**. SeaTable supports the import of .xlsx and .csv files so that you can seamlessly transfer your existing data and can therefore serve as a complete Excel replacement and free Excel alternative.'
           - q: 'Why do I need an Excel alternative?'
-            a: "Whether in software development, the digitalization of administration, project management, marketing or human resources - the requirements for complex data management **are constantly increasing in** all specialist areas. The data sources are diverse, the data volumes and the collaboration on this data often exceed the possibilities of conventional spreadsheets, as you know them from an Excel program or [Google Spreadsheet]({{< relref \"posts/20250318-google-spreadsheet-alternative\" >}}). Expand your possibilities and **increase your productivity with our intuitive, digital no-code platform**.<br><br>SeaTable offers you more than just a spreadsheet. As a comprehensive no-code solution, it enables you to create complex data models, automate workflows and collaborate with your team in real time. Simplify your workflows and save valuable time with our alternative to Excel. Get started today with our free version as a free Excel alternative and experience the benefits of modern, flexible and efficient data management."
+            a: "Whether in software development, the digitalization of administration, project management, marketing or human resources - the requirements for complex data management **are constantly increasing in** all specialist areas. The data sources are diverse, the data volumes and the collaboration on this data often exceed the possibilities of conventional free spreadsheets, as you know them from an Excel software or [Google Spreadsheet]({{< relref \"posts/20250318-google-spreadsheet-alternative\" >}}). Expand your possibilities and **increase your productivity with our intuitive, digital no-code platform**.<br><br>SeaTable offers you more than just a spreadsheet. As a comprehensive no-code solution, it enables you to create complex data models, automate workflows and collaborate with your team in real time. Simplify your workflows and save valuable time with our alternative to Excel. Get started today with our free version as a free Excel alternative and experience the benefits of modern, flexible and efficient data management."
           - q: Is SeaTable better for project management than Excel?
             a: Yes, definitely. Don't use Excel for your next project plan - use SeaTable instead. This is because Excel project management templates quickly reach their limits with complex projects. With SeaTable, you can create a project plan that goes far beyond the functions of a conventional Excel program. Instead of making do with rigid tables, SeaTable offers you an intuitive user interface to efficiently manage tasks, schedules and resources.
           - q: Can I use SeaTable as an Excel alternative in the HR department?
