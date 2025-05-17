@@ -6,6 +6,7 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/pt/ajuda/level-zwei-einfuehrung'
+weight: 1
 ---
 
 Bem-vindo ao **Curso Online SeaTable Nível 2!**

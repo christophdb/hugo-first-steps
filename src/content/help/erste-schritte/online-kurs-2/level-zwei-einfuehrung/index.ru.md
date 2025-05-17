@@ -6,6 +6,7 @@ categories:
     - 'online-kurs-2'
 author: 'cdb'
 url: '/ru/help/level-zwei-einfuehrung'
+weight: 1
 ---
 
 Добро пожаловать на **2-й уровень онлайн-курса SeaTable!**

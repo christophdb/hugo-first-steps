@@ -1,5 +1,5 @@
 ---
-title: 'Die Startseite von SeaTable'
+title: 'Startseite von SeaTable'
 description: ''
 weight: 2
 url: '/de/hilfe/startseite'
