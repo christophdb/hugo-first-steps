@@ -10,7 +10,7 @@ url: '/ru/help/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 
 Вы не знаете, почему пропали данные из базы, и подозреваете, что они пропали? Не волнуйтесь. В SeaTable существуют различные способы восстановления удаленных данных.
 
-Сначала проверьте, активен ли [фильтр](https://seatable.io/ru/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) в текущем представлении или [скрыты ли столбцы](https://seatable.io/ru/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/). Эти данные **не удаляются**, а **только скрываются**.
+Сначала проверьте, активен ли [фильтр]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}). Эти данные **не удаляются**, а **только скрываются**.
 
 Если это не так, посмотрите [журнал активности](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) на главной странице. Там вы можете увидеть измененные и удаленные данные за последние 7 дней по всем вашим базам.
 

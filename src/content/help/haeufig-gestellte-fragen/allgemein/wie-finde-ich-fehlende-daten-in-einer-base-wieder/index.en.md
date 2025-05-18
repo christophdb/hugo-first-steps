@@ -10,7 +10,7 @@ url: '/help/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 
 You don't know why data is missing from a base and suspect that it has been lost? Don't worry. In SeaTable there are several ways to recover deleted data.
 
-First check if a [filter](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) is active in your current view or if [columns](https://seatable.io/en/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) are [hidden](https://seatable.io/en/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/). These data are **not deleted**, but **only hidden**.
+First check if a [filter]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}). These data are **not deleted**, but **only hidden**.
 
 If this is not the case, next look at the [activity log](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) on your home page. There you can see changed and deleted data of the last 7 days across all your bases.
 

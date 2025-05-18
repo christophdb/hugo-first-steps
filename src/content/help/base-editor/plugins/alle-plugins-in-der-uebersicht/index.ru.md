@@ -14,7 +14,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ## Что такое плагин?
 
-В SeaTable вы можете создавать различные **представления** для своих таблиц, в которых вы можете [фильтровать](https://seatable.io/ru/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [сортировать](https://seatable.io/ru/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [группировать](https://seatable.io/ru/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) и [скрывать](https://seatable.io/ru/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) данные по своему усмотрению.
+В SeaTable вы можете создавать различные **представления** для своих таблиц, в которых вы можете [фильтровать]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) данные по своему усмотрению.
 
 **Плагин** - это дополнительный программный компонент SeaTable, который предлагает вам дополнительные возможности отображения. В каждой базе можно активировать различные плагины, которые отображают данные соответствующих таблиц и представлений, например, в **календарях**, **документах** или **галереях**. Подробнее о том [, как активировать плагин](https://seatable.io/ru/docs/plugins/aktivieren-eines-plugins-in-einer-base/), читайте в статье справки по ссылке.
 

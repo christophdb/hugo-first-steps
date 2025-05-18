@@ -10,7 +10,7 @@ url: '/pt/ajuda/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 
 Não sabe porque é que faltam dados numa base e suspeita de que os mesmos desapareceram? Não se preocupe. No SeaTable há várias formas de recuperar dados apagados.
 
-Primeiro verifique se um [filtro](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) está activo na sua vista actual ou se [as colunas](https://seatable.io/pt/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) estão [ocultas](https://seatable.io/pt/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/). Estes dados **não são apagados**, mas **apenas ocultados**.
+Primeiro verifique se um [filtro]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}). Estes dados **não são apagados**, mas **apenas ocultados**.
 
 Se não for este o caso, veja a seguir o [registo de actividades](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) na sua página inicial. Aí poderá ver os dados alterados e apagados dos últimos 7 dias em todas as suas bases.
 

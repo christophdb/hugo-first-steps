@@ -14,7 +14,7 @@ url: '/es/ayuda/alle-plugins-in-der-uebersicht'
 
 ## ¿Qué es un plugin?
 
-En SeaTable puede crear diferentes **vistas** para sus tablas en las que puede [filtrar](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [ordenar](https://seatable.io/es/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [agrupar](https://seatable.io/es/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) y [ocultar](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) datos como desee.
+En SeaTable puede crear diferentes **vistas** para sus tablas en las que puede [filtrar]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) datos como desee.
 
 Un **plugin** es un componente de software opcional en SeaTable que le ofrece opciones de visualización adicionales. Se pueden activar varios plugins en cada base, que muestran los datos de las respectivas tablas y vistas en **calendarios**, **documentos** o **galerías**, por ejemplo. Lea más sobre [cómo activar un plugin](https://seatable.io/es/docs/plugins/aktivieren-eines-plugins-in-einer-base/) en el artículo de ayuda enlazado.
 

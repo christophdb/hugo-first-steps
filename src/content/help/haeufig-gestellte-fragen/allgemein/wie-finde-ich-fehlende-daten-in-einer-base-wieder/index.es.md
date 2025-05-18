@@ -1,16 +1,16 @@
 ---
-title: "¿Cómo encontrar los datos que faltan en una Base? - TablaMar"
+title: '¿Cómo encontrar los datos que faltan en una Base? - TablaMar'
 date: 2023-03-21
-lastmod: "2023-03-21"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "nsc2"
-url: "/es/ayuda/wie-finde-ich-fehlende-daten-in-einer-base-wieder"
+lastmod: '2023-03-21'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'nsc2'
+url: '/es/ayuda/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 ---
 
 ¿No sabes por qué faltan datos en una base y sospechas que han desaparecido? No se preocupe. En SeaTable hay varias formas de recuperar los datos borrados.
 
-Compruebe primero si hay un [filtro](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) activo en la vista actual o si [las columnas](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) están [ocultas](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/). Estos datos **no** se **borran**, **sólo se ocultan**.
+Compruebe primero si hay un [filtro]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}). Estos datos **no** se **borran**, **sólo se ocultan**.
 
 Si este no es el caso, mira el [registro de actividad](https://seatable.io/es/docs/historie-und-versionen/historie-und-logs/) en tu página de inicio. Allí puedes ver los datos modificados y eliminados de los últimos 7 días en todas tus bases.
 

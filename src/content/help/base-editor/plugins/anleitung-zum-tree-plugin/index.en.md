@@ -36,7 +36,7 @@ To **change** the **order of the diagrams**, hold down the left mouse button on 
 
 You can define the following for the tree diagram via the **settings**, which you can access by clicking on the **cogwheel symbol** {{< seatable-icon icon="dtable-icon-set-up" >}}:
 
-- **Level 1**: Click in the first field to select the **table** from the drop-down list whose entries are to appear on the higher level of the diagram. In the second field, select the desired **view** of this table. If you [hide columns](https://seatable.io/en/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) in the view (independently of the plugin), for example, they will not be visible in the tree diagram.
+- **Level 1**: Click in the first field to select the **table** from the drop-down list whose entries are to appear on the higher level of the diagram. In the second field, select the desired **view** of this table. If you [hide columns]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) in the view (independently of the plugin), for example, they will not be visible in the tree diagram.
 - **Level 2**: Click in the field to select the table in the drop-down list whose linked data records are to appear on the second level of the tree diagram. The data records are then grouped under the parent entries.
 - **Level 3**: Optionally, you can display linked data records on a third level that are subordinate to the data records on the middle level. To do this, click in the field and select the corresponding table from the drop-down list.
 

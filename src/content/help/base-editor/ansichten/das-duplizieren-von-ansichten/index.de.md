@@ -22,7 +22,7 @@ Um eine exakte Kopie von einer Ansicht zu erstellen und sämtliche Einstellungen
 
 ## Eine bestehende normale Ansicht in eine private Ansicht duplizieren
 
-Private Ansichten sind, wie der Name schon sagt, **nicht** für andere Benutzer sichtbar. Daher eignen sie sich besonders gut für Ihre persönliche Datenansicht, wenn Sie mit anderen Nutzern in einer Tabelle zusammenarbeiten, in der sich häufig die Ansichtseinstellungen ([Filter]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}), [ausgeblendete Spalten](https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) ändern.
+Private Ansichten sind, wie der Name schon sagt, **nicht** für andere Benutzer sichtbar. Daher eignen sie sich besonders gut für Ihre persönliche Datenansicht, wenn Sie mit anderen Nutzern in einer Tabelle zusammenarbeiten, in der sich häufig die Ansichtseinstellungen ([Filter]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}), [ausgeblendete Spalten]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})) ändern.
 
 Damit Sie Ihre private Ansicht in diesem Fall **nicht** neu konfigurieren müssen, bietet SeaTable die Option, eine bestehende Ansicht in eine **private Ansicht** zu duplizieren, die **ausschließlich** von Ihnen bearbeitet werden kann.
 

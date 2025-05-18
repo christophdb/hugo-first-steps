@@ -23,7 +23,11 @@ This is particularly useful if the data in your table has a **hierarchy**.
 5. Confirm with **Submit**.
 6. SeaTable automatically adds a **second column for the subordinate entries**.
 
-{{< warning  headline="Attention"  text="The two link columns are **inextricably** linked. If you **delete** one of the two columns, the other also disappears immediately. However, if you only want to see one of the two columns in your table, you can [hide](https://seatable.io/en/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) the other one." />}}
+{{< warning  headline="Attention" >}}
+
+The two link columns are **inextricably** linked. If you **delete** one of the two columns, the other also disappears immediately. However, if you only want to see one of the two columns in your table, you can [hide]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) the other one.
+
+{{< /warning >}}
 
 ## Linking data records in a table
 

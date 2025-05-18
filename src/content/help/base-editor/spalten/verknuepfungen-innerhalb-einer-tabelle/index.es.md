@@ -23,7 +23,11 @@ Esto es especialmente útil si los datos de su tabla tienen una **jerarquía**.
 5. Confirme con **Enviar**.
 6. SeaTable añade automáticamente una **segunda columna para las entradas subordinadas**.
 
-{{< warning  headline="Atención"  text="Las dos columnas de enlace están **inextricablemente** unidas. Si **elimina** una de las dos columnas, la otra también desaparece inmediatamente. Sin embargo, si sólo quieres ver una de las dos columnas en tu tabla, puedes [ocultar](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) la otra." />}}
+{{< warning  headline="Atención" >}}
+
+Las dos columnas de enlace están **inextricablemente** unidas. Si **elimina** una de las dos columnas, la otra también desaparece inmediatamente. Sin embargo, si sólo quieres ver una de las dos columnas en tu tabla, puedes [ocultar]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) la otra.
+
+{{< /warning >}}
 
 ## Vinculación de registros de datos en una tabla
 

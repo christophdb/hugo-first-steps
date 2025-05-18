@@ -36,7 +36,7 @@ Por defeito, já é criado um diagrama de árvore com entradas de tabela quando 
 
 {{< seatable-icon icon="dtable-icon-set-up" >}} Pode definir o seguinte para o diagrama em árvore através das **definições**, às quais pode aceder clicando no **símbolo da roda dentada**:
 
-- **Nível 1**: Clique no primeiro campo para selecionar a **tabela** da lista pendente cujas entradas devem aparecer no nível superior do diagrama. No segundo campo, selecione a **vista** pretendida para esta tabela. Se [ocultar colunas](https://seatable.io/pt/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) na vista (independentemente do plugin), por exemplo, estas não serão visíveis no diagrama de árvore.
+- **Nível 1**: Clique no primeiro campo para selecionar a **tabela** da lista pendente cujas entradas devem aparecer no nível superior do diagrama. No segundo campo, selecione a **vista** pretendida para esta tabela. Se [ocultar colunas]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) na vista (independentemente do plugin), por exemplo, estas não serão visíveis no diagrama de árvore.
 - **Nível 2**: Clique no campo para selecionar a tabela na lista pendente cujos registos de dados ligados devem aparecer no segundo nível do diagrama em árvore. Os registos de dados são então agrupados sob as entradas pai.
 - **Nível 3**: Opcionalmente, pode exibir registos de dados ligados num terceiro nível que estão subordinados aos registos de dados no nível intermédio. Para tal, clique no campo e selecione a tabela correspondente na lista pendente.
 

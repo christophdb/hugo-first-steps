@@ -37,7 +37,7 @@ Um die **Reihenfolge der Diagramme zu ändern**, halten Sie die linke Maustaste 
 
 Über die **Einstellungen**, die Sie per Klick auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} erreichen, können Sie Folgendes für das Baumdiagramm festlegen:
 
-- **Level 1**: Klicken Sie in das erste Feld, um in der Drop-down-Liste die **Tabelle** auszuwählen, deren Einträge auf der übergeordneten Ebene des Diagramms erscheinen sollen. Im zweiten Feld wählen Sie die gewünschte **Ansicht** dieser Tabelle. Wenn Sie in der Ansicht (unabhängig vom Plugin) beispielsweise [Spalten ausblenden](https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/), sind diese auch nicht im Baumdiagramm sichtbar.
+- **Level 1**: Klicken Sie in das erste Feld, um in der Drop-down-Liste die **Tabelle** auszuwählen, deren Einträge auf der übergeordneten Ebene des Diagramms erscheinen sollen. Im zweiten Feld wählen Sie die gewünschte **Ansicht** dieser Tabelle. Wenn Sie in der Ansicht (unabhängig vom Plugin) beispielsweise [Spalten ausblenden]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}), sind diese auch nicht im Baumdiagramm sichtbar.
 - **Level 2**: Klicken Sie in das Feld, um in der Drop-down-Liste die Tabelle auszuwählen, deren verknüpfte Datensätze auf der zweiten Ebene des Baumdiagramms erscheinen sollen. Die Datensätze sind anschließend unter den übergeordneten Einträgen gruppiert.
 - **Level 3**: Optional können Sie auf einer dritten Ebene verknüpfte Datensätze anzeigen, die den Datensätzen auf der mittleren Ebene untergeordnet sind. Klicken Sie dazu in das Feld und wählen Sie die entsprechende Tabelle in der Drop-down-Liste aus.
 

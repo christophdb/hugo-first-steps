@@ -10,7 +10,7 @@ url: '/fr/aide/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 
 Vous ne savez pas pourquoi des données manquent dans une base et vous soupçonnez qu'elles ont été égarées ? Ne vous inquiétez pas. Dans SeaTable, il existe plusieurs façons de récupérer les données supprimées.
 
-Vérifiez d'abord si un [filtre](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) est actif dans votre affichage actuel ou si [des colonnes sont masquées](https://seatable.io/fr/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/). Ces données ne sont **pas supprimées**, mais **simplement cachées**.
+Vérifiez d'abord si un [filtre]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}). Ces données ne sont **pas supprimées**, mais **simplement cachées**.
 
 Si ce n'est pas le cas, consultez ensuite le [journal des activités](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/) sur votre page d'accueil. Vous pouvez y voir les données modifiées et supprimées des 7 derniers jours pour toutes vos bases.
 

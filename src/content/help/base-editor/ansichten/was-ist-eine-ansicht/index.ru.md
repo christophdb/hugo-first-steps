@@ -50,7 +50,7 @@ url: '/ru/help/was-ist-eine-ansicht'
 - [Цветовая маркировка клеток]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Отрегулируйте высоту ряда]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Настройте количество фиксированных столбцов](https://seatable.io/ru/docs/ansichtsoptionen/anzahl-der-fixierten-spalten-anpassen/)
-- [Скрытие и перемещение столбцов](https://seatable.io/ru/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)
+- [Скрытие и перемещение столбцов]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Виды замков](https://seatable.io/ru/docs/ansichtsoptionen/ansicht-sperren/)
 - [Обмен мнениями с членом команды](https://seatable.io/ru/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
 - [Создание внешней ссылки для представления](https://seatable.io/ru/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)

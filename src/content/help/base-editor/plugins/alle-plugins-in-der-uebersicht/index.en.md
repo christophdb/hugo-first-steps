@@ -14,7 +14,7 @@ SeaTable **plugins** give you the opportunity to see your data from a completely
 
 ## What is a plugin?
 
-In SeaTable you can create different **views** for your tables, where you can [filter](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [sort](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [group](https://seatable.io/en/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) and [hide](https://seatable.io/en/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) data as you wish.
+In SeaTable you can create different **views** for your tables, where you can [filter]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) data as you wish.
 
 A **plugin** is an optional software component in SeaTable that offers you additional display options. Various plugins can be activated in each base, which display the data of the respective tables and views in **calendars**, **documents** or **galleries**, for example. Read more about [how to activate a plug](https://seatable.io/en/docs/plugins/aktivieren-eines-plugins-in-einer-base/)in in the linked help article.
 

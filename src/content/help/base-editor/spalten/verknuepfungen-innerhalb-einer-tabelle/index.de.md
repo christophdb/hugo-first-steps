@@ -23,7 +23,11 @@ Dies ergibt vor allem Sinn, wenn die Daten in Ihrer Tabelle eine **Hierarchie** 
 5. Bestätigen Sie mit **Abschicken**.
 6. SeaTable fügt automatisch eine **zweite Spalte für die untergeordneten Einträge** hinzu.
 
-{{< warning  type="warning" headline="Achtung"  text="Die beiden Verknüpfungsspalten sind **untrennbar** miteinander verbunden. Wenn Sie eine der beiden Spalten **löschen**, verschwindet direkt auch die andere. Falls Sie nur eine der beiden Spalten in Ihrer Tabelle sehen möchten, können Sie jedoch die andere [ausblenden](\"https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/\")." />}}
+{{< warning  type="warning" headline="Achtung" >}}
+
+Die beiden Verknüpfungsspalten sind **untrennbar** miteinander verbunden. Wenn Sie eine der beiden Spalten **löschen**, verschwindet direkt auch die andere. Falls Sie nur eine der beiden Spalten in Ihrer Tabelle sehen möchten, können Sie jedoch die andere [ausblenden]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}).
+
+{{< /warning >}}
 
 ## Datensätze in einer Tabelle miteinander verknüpfen
 

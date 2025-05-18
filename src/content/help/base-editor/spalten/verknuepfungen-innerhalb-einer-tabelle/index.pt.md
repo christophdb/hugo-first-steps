@@ -23,7 +23,11 @@ Isto é particularmente útil se os dados na sua tabela tiverem uma **hierarquia
 5. Confirmar com **Submeter**.
 6. O SeaTable adiciona automaticamente uma **segunda coluna para as entradas subordinadas**.
 
-{{< warning  headline="Atenção"  text="As duas colunas de ligação estão **indissociavelmente** ligadas. Se **eliminar** uma das duas colunas, a outra também desaparece imediatamente. No entanto, se apenas pretender ver uma das duas colunas na sua tabela, pode [ocultar](https://seatable.io/pt/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) a outra." />}}
+{{< warning  headline="Atenção" >}}
+
+As duas colunas de ligação estão **indissociavelmente** ligadas. Se **eliminar** uma das duas colunas, a outra também desaparece imediatamente. No entanto, se apenas pretender ver uma das duas colunas na sua tabela, pode [ocultar]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) a outra.
+
+{{< /warning >}}
 
 ## Ligação de registos de dados numa tabela
 

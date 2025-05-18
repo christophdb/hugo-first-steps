@@ -36,7 +36,7 @@ Por defecto, se crea un diagrama de árbol con entradas de tabla cuando se abre 
 
 {{< seatable-icon icon="dtable-icon-set-up" >}} Puede definir lo siguiente para el diagrama de árbol a través de los **ajustes**, a los que puede acceder haciendo clic en el **símbolo de la rueda dentada**:
 
-- **Nivel 1**: Haga clic en el primer campo para seleccionar la **tabla** de la lista desplegable cuyas entradas deben aparecer en el nivel superior del diagrama. En el segundo campo, seleccione la **vista** deseada de esta tabla. Si [oculta columnas](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) en la vista (independientemente del plugin), por ejemplo, no serán visibles en el diagrama de árbol.
+- **Nivel 1**: Haga clic en el primer campo para seleccionar la **tabla** de la lista desplegable cuyas entradas deben aparecer en el nivel superior del diagrama. En el segundo campo, seleccione la **vista** deseada de esta tabla. Si [oculta columnas]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) en la vista (independientemente del plugin), por ejemplo, no serán visibles en el diagrama de árbol.
 - **Nivel 2**: Haga clic en el campo para seleccionar la tabla en la lista desplegable cuyos registros de datos vinculados deben aparecer en el segundo nivel del diagrama de árbol. A continuación, los registros de datos se agrupan bajo las entradas de nivel superior.
 - **Nivel 3**: Opcionalmente, puede mostrar registros de datos vinculados en un tercer nivel que estén subordinados a los registros de datos del nivel intermedio. Para ello, haga clic en el campo y seleccione la tabla correspondiente en la lista desplegable.
 

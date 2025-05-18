@@ -36,7 +36,7 @@ Pour modifier l'**ordre des diagrammes**, maintenez le bouton gauche de la souri
 
 Les **paramètres**, auxquels vous accédez en cliquant sur l'**icône en forme de roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}}, vous permettent de définir les éléments suivants pour l'arborescence :
 
-- **Niveau 1**: Cliquez dans le premier champ pour sélectionner dans la liste déroulante le **tableau** dont les entrées doivent apparaître au niveau supérieur du graphique. Dans le deuxième champ, sélectionnez la **vue** souhaitée de ce tableau. Si vous [masquez des colonnes](https://seatable.io/fr/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) dans la vue (indépendamment du plugin), par exemple, elles ne seront pas non plus visibles dans l'arborescence.
+- **Niveau 1**: Cliquez dans le premier champ pour sélectionner dans la liste déroulante le **tableau** dont les entrées doivent apparaître au niveau supérieur du graphique. Dans le deuxième champ, sélectionnez la **vue** souhaitée de ce tableau. Si vous [masquez des colonnes]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) dans la vue (indépendamment du plugin), par exemple, elles ne seront pas non plus visibles dans l'arborescence.
 - **Niveau 2**: Cliquez dans le champ pour sélectionner dans la liste déroulante la table dont les enregistrements liés doivent apparaître au deuxième niveau de l'arborescence. Les enregistrements sont ensuite regroupés sous les entrées de niveau supérieur.
 - **Niveau 3**: En option, vous pouvez afficher à un troisième niveau des enregistrements liés qui sont subordonnés aux enregistrements du niveau intermédiaire. Pour ce faire, cliquez dans le champ et sélectionnez la table correspondante dans la liste déroulante.
 

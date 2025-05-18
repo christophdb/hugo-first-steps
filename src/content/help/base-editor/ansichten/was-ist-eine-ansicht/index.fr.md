@@ -50,7 +50,7 @@ D'autres représentations comme le calendrier, la galerie ou le Kanban peuvent �
 - [Marquage couleur des cellules]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Ajuster la hauteur des lignes]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Ajuster le nombre de colonnes épinglées](https://seatable.io/fr/docs/ansichtsoptionen/anzahl-der-fixierten-spalten-anpassen/)
-- [Masquer et déplacer des colonnes](https://seatable.io/fr/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)
+- [Masquer et déplacer des colonnes]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Verrouiller les vues](https://seatable.io/fr/docs/ansichtsoptionen/ansicht-sperren/)
 - [Partage d'une vue avec un membre de l'équipe](https://seatable.io/fr/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
 - [Créer un lien externe pour une vue](https://seatable.io/fr/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)

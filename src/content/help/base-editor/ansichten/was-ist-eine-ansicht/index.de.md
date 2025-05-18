@@ -50,7 +50,7 @@ Andere Darstellungen wie Kalender, Galerie oder Kanban können Sie in Form von [
 - [Farbliche Markierung von Zellen]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Zeilenhöhe anpassen]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Anzahl der fixierten Spalten anpassen](https://seatable.io/docs/ansichtsoptionen/anzahl-der-fixierten-spalten-anpassen/)
-- [Ausblenden und Verschieben von Spalten](https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)
+- [Ausblenden und Verschieben von Spalten]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Ansichten sperren](https://seatable.io/docs/ansichtsoptionen/ansicht-sperren/)
 - [Freigabe einer Ansicht an ein Teammitglied](https://seatable.io/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
 - [Externen Link für eine Ansicht erstellen](https://seatable.io/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)

@@ -23,7 +23,11 @@ Cela a surtout du sens si les données de votre tableau présentent une **hiéra
 5. Confirmez en cliquant sur **Envoyer**.
 6. SeaTable ajoute automatiquement une **deuxième colonne pour les entrées subordonnées**.
 
-{{< warning  headline="Attention"  text="Les deux colonnes de liens sont **indissociables**. Si vous **supprimez** l'une des deux colonnes, l'autre disparaît directement. Si vous ne souhaitez voir qu'une seule des deux colonnes dans votre tableau, vous pouvez toutefois [masquer](https://seatable.io/fr/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) l'autre." />}}
+{{< warning  headline="Attention" >}}
+
+Les deux colonnes de liens sont **indissociables**. Si vous **supprimez** l'une des deux colonnes, l'autre disparaît directement. Si vous ne souhaitez voir qu'une seule des deux colonnes dans votre tableau, vous pouvez toutefois [masquer]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) l'autre.
+
+{{< /warning >}}
 
 ## Relier des enregistrements dans une table
 

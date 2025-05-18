@@ -14,7 +14,7 @@ Mit den **Plugins** von SeaTable haben Sie die Möglichkeit, Ihre Daten aus ganz
 
 ## Was ist ein Plugin?
 
-In SeaTable können Sie für Ihre Tabellen verschiedene **Ansichten** anlegen, in denen Sie Daten nach Belieben [filtern](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [sortieren](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [gruppieren](https://seatable.io/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) und [ausblenden](https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) können.
+In SeaTable können Sie für Ihre Tabellen verschiedene **Ansichten** anlegen, in denen Sie Daten nach Belieben [filtern]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) können.
 
 Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zusätzliche Darstellungsmöglichkeiten bietet. In jeder Base lassen sich verschiedene Plugins aktivieren, welche die Daten der jeweiligen Tabellen und Ansichten beispielsweise in **Kalendern**, **Dokumenten** oder **Galerien** darstellen. Lesen Sie im verlinkten Hilfeartikel mehr darüber, [wie Sie ein Plugin aktivieren]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
 ).

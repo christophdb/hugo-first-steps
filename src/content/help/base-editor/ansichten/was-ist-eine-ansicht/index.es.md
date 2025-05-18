@@ -50,7 +50,7 @@ Puede utilizar otras representaciones como calendario, galería o kanban en form
 - [Marcación por colores de las celdas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Ajustar la altura de la fila]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Ajustar el número de columnas fijas](https://seatable.io/es/docs/ansichtsoptionen/anzahl-der-fixierten-spalten-anpassen/)
-- [Ocultar y mover columnas](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)
+- [Ocultar y mover columnas]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
 - [Vistas de la cerradura](https://seatable.io/es/docs/ansichtsoptionen/ansicht-sperren/)
 - [Compartir una vista con un miembro del equipo](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
 - [Crear un enlace externo para una vista](https://seatable.io/es/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)

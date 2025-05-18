@@ -1,16 +1,16 @@
 ---
-title: "Wie finde ich fehlende Daten in einer Base wieder?"
+title: 'Wie finde ich fehlende Daten in einer Base wieder?'
 date: 2023-03-21
-lastmod: "2023-03-21"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "nsc2"
-url: "/de/hilfe/wie-finde-ich-fehlende-daten-in-einer-base-wieder"
+lastmod: '2023-03-21'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'nsc2'
+url: '/de/hilfe/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 ---
 
 Sie wissen nicht, wieso Daten in einer Base fehlen, und vermuten, dass sie abhandengekommen sind? Keine Sorge. In SeaTable gibt es diverse Möglichkeiten, gelöschte Daten wiederherzustellen.
 
-Prüfen Sie zunächst, ob in Ihrer aktuellen Ansicht ein [Filter](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) aktiv ist oder [Spalten ausgeblendet](https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) sind. Diese Daten sind **nicht gelöscht**, sondern **nur versteckt**.
+Prüfen Sie zunächst, ob in Ihrer aktuellen Ansicht ein [Filter]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) sind. Diese Daten sind **nicht gelöscht**, sondern **nur versteckt**.
 
 Sollte dies nicht der Fall sein, schauen Sie als Nächstes in das [Aktivitätenprotokoll](https://seatable.io/docs/historie-und-versionen/historie-und-logs/) auf Ihrer Startseite. Dort können Sie geänderte und gelöschte Daten der letzten 7 Tage über alle Ihre Bases hinweg einsehen.
 
