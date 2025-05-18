@@ -12,7 +12,7 @@ url: '/help/zeilen-ins-big-data-backend-verschieben'
 
 You can only create **new rows** in **normal** SeaTable **views**. You must then manually move the desired rows to the big data storage.
 
-{{< warning  headline="Prerequisite"  text="You can only move rows to the big data storage if you [have already activated](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) the [big data storage](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) within the base." />}}
+{{< warning  headline="Prerequisite"  text="You can only move rows to the big data storage if you [have already activated]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) within the base." />}}
 
 ## rows move to the big data store
 

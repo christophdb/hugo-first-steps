@@ -20,7 +20,7 @@ This article gives you an initial overview of the Big Data function in SeaTable,
 
 By using two storage solutions, you gain additional flexibility as a user. The standard SeaTable solution is ideal for **collaborative work** on projects, while the big data storage is ideal for data-intensive applications with automatic data collection (e.g. log files or static measured values).
 
-Once you [have activated](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) the [big data storage](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/), both solutions are available to you and you can move your data records back and forth between the standard solution and the big data storage. However, the advantage of unlimited storage of rows has the disadvantage [of limited collaborative capabilities](https://seatable.io/en/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
+Once you [have activated]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), both solutions are available to you and you can move your data records back and forth between the standard solution and the big data storage. However, the advantage of unlimited storage of rows has the disadvantage [of limited collaborative capabilities](https://seatable.io/en/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
 
 ## Separate views for the two memories
 

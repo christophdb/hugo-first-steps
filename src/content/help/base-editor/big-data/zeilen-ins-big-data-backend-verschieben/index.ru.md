@@ -12,7 +12,7 @@ url: '/ru/help/zeilen-ins-big-data-backend-verschieben'
 
 Вы можете создавать **новые строки** только в **обычных представлениях** SeaTable. Затем вы должны вручную переместить нужные строки в память больших данных.
 
-{{< warning  headline="Пререквизиты"  text="Вы можете перемещать строки в память больших данных только в том случае, если вы [уже активировали память больших данных](https://seatable.io/ru/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) в базе." />}}
+{{< warning  headline="Пререквизиты"  text="Вы можете перемещать строки в память больших данных только в том случае, если вы [уже активировали память больших данных]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) в базе." />}}
 
 ## Переместите строки в память больших данных
 

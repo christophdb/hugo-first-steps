@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/abfrageseiten-in-universellen-apps'
 ---
 
-Using this page type, which works in a similar way to the [data query app](https://seatable.io/en/docs/apps/datenabfrage-app/), you can search your data records for specific values across certain fields. The page type is particularly useful for **extensive data records** such as product catalogs or libraries. A specific use case could be, for example, querying an employee directory.
+Using this page type, which works in a similar way to the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), you can search your data records for specific values across certain fields. The page type is particularly useful for **extensive data records** such as product catalogs or libraries. A specific use case could be, for example, querying an employee directory.
 
 ![Query pages in universal apps](images/Abfrageseiten-in-Universellen-Apps.png)
 
@@ -79,4 +79,4 @@ One application example is an internal job board: the query page allows you to q
 
 ## Other helpful articles
 
-If you only need the query functionality described above for your application, you can also use the [data query app](https://seatable.io/en/docs/apps/datenabfrage-app/) directly instead of a universal app.
+If you only need the query functionality described above for your application, you can also use the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) directly instead of a universal app.

@@ -40,6 +40,6 @@ Vous disposez de deux méthodes différentes pour restaurer un snapshot :
 
 ## Restauration d'une version précédente de l'espace de stockage de données volumineuses
 
-Si vous avez [activé](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) le [stockage de données volumineuses](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) dans une base, vous pouvez également restaurer une version précédente du stockage de données volumineuses lors de la restauration de snapshots afin d'éviter toute perte de données indésirable. Pour ce faire, cliquez dans le champ correspondant à l'étape 5 et sélectionnez la version de la mémoire big data qui doit être restaurée avec le snapshot.
+Si vous avez [activé]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) dans une base, vous pouvez également restaurer une version précédente du stockage de données volumineuses lors de la restauration de snapshots afin d'éviter toute perte de données indésirable. Pour ce faire, cliquez dans le champ correspondant à l'étape 5 et sélectionnez la version de la mémoire big data qui doit être restaurée avec le snapshot.
 
 ![Restauration d'une version précédente de l'espace de stockage des Big Data lors de la restauration de snapshots](images/Wiederherstellung-einer-vorherigen-Version-des-Big-Data-Speichers-bei-der-Wiederherstellung-von-Snapshots.png)

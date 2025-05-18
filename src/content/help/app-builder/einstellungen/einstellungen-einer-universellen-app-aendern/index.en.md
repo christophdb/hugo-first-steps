@@ -61,7 +61,7 @@ In the fourth section, you can decide whether your **employee list** should be v
 
 ## Big Data Management
 
-This section is only relevant if you have activated the [big data storage](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) in your Base. Apps can then access data in the big data storage and save entries created via the app directly there. However, new entries are saved in the base by default. To set the Big Data storage as the **storage location for new entries**, simply activate the slider. As the screenshot shows, you can specify for each table whether new rows should be written to the base (empty box) or to the big data storage (checked box).
+This section is only relevant if you have activated the [big data storage]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) in your Base. Apps can then access data in the big data storage and save entries created via the app directly there. However, new entries are saved in the base by default. To set the Big Data storage as the **storage location for new entries**, simply activate the slider. As the screenshot shows, you can specify for each table whether new rows should be written to the base (empty box) or to the big data storage (checked box).
 
 ![Big data management in apps](images/Big-data-management-in-apps.png)
 

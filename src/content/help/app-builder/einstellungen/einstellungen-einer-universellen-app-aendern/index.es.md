@@ -61,7 +61,7 @@ En la cuarta sección, puede decidir si su **lista de empleados** debe ser visib
 
 ## Gestión de macrodatos
 
-Esta sección sólo es relevante si ha activado el [almacenamiento](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) de [big data](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) en su Base. Las aplicaciones pueden acceder a los datos en el almacenamiento de big data y guardar las entradas creadas a través de la aplicación directamente allí. Sin embargo, las nuevas entradas se guardan en la base por defecto. Para establecer el almacenamiento de big data como **ubicación de almacenamiento de las nuevas entradas**, basta con activar el control deslizante. Como muestra la captura de pantalla, puede especificar para cada tabla si las nuevas filas deben escribirse en la base (casilla vacía) o en el almacenamiento de big data (casilla marcada).
+Esta sección sólo es relevante si ha activado el [almacenamiento]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) en su Base. Las aplicaciones pueden acceder a los datos en el almacenamiento de big data y guardar las entradas creadas a través de la aplicación directamente allí. Sin embargo, las nuevas entradas se guardan en la base por defecto. Para establecer el almacenamiento de big data como **ubicación de almacenamiento de las nuevas entradas**, basta con activar el control deslizante. Como muestra la captura de pantalla, puede especificar para cada tabla si las nuevas filas deben escribirse en la base (casilla vacía) o en el almacenamiento de big data (casilla marcada).
 
 ![Gestión de macrodatos en aplicaciones](images/Big-data-management-in-apps.png)
 

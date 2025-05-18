@@ -12,7 +12,7 @@ url: '/pt/ajuda/zeilen-ins-big-data-backend-verschieben'
 
 Só é possível criar **novas linhas** em **vistas normais** do SeaTable. Em seguida, é necessário mover manualmente as linhas desejadas para a memória de megadados.
 
-{{< warning  headline="Pré-requisito"  text="Só é possível deslocar linhas para a memória de grandes volumes de dados se a memória de [grandes volumes de dados já tiver sido activada](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) na base." />}}
+{{< warning  headline="Pré-requisito"  text="Só é possível deslocar linhas para a memória de grandes volumes de dados se a memória de [grandes volumes de dados já tiver sido activada]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) na base." />}}
 
 ## Mover linhas para a memória de grandes volumes de dados
 

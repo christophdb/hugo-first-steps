@@ -55,7 +55,7 @@ Der Import erfolgt als [CSV-Datei](https://seatable.io/docs/import-von-daten/dat
 
 Wenn Sie eine Tabelle bereits in **SeaTable** angelegt haben und diese **in einer anderen Base** benötigen, können Sie sie einfach herüberkopieren. Wie Sie Tabellen aus einer anderen Base importieren, erfahren Sie [hier]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}).
 
-{{< warning  type="warning" headline="Speicherlimit für Zeilen"  text="Das normale Backend von SeaTable kann maximal 100.000 Zeilen pro Tabelle aufnehmen. Wenn Sie eine Excel- oder CSV-Datei importieren möchten, die mehr als 100.000 Zeilen enthält, müssen Sie zunächst [das Big Data Backend aktivieren](\"https://seatable.io/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/\"), um sie importieren zu können." />}}
+{{< warning  type="warning" headline="Speicherlimit für Zeilen"  text="Das normale Backend von SeaTable kann maximal 100.000 Zeilen pro Tabelle aufnehmen. Wenn Sie eine Excel- oder CSV-Datei importieren möchten, die mehr als 100.000 Zeilen enthält, müssen Sie zunächst [das Big Data Backend aktivieren](\"{{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}\"), um sie importieren zu können." />}}
 
 ## Weitere hilfreiche Artikel zum Thema Daten-Import
 

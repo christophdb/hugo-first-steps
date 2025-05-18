@@ -30,4 +30,4 @@ Avec l'**application universelle**, vous pouvez laisser libre cours à votre cr�
 
 Une **app de recherche de données** est un **masque de recherche** spécifique à l'utilisateur. Créez une telle application si vous souhaitez que d'autres utilisateurs puissent rechercher des entrées spécifiques dans vos **ensembles de données** en vue Tableau. Sélectionnez les **valeurs des colonnes** à afficher dans les résultats de la requête afin de déterminer individuellement les données auxquelles un groupe d'utilisateurs peut accéder.
 
-[En savoir plus sur l'application de consultation des données](https://seatable.io/fr/docs/apps/datenabfrage-app/).
+[En savoir plus sur l'application de consultation des données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}).

@@ -12,7 +12,7 @@ url: '/fr/aide/zeilen-ins-big-data-backend-verschieben'
 
 Vous ne pouvez créer **de nouvelles lignes** que dans les **vues normales** de SeaTable. Ensuite, vous devez déplacer manuellement les lignes souhaitées vers le stockage de données volumineuses.
 
-{{< warning  headline="Condition préalable"  text="Vous ne pouvez déplacer des lignes vers le stockage de données volumineuses que si vous [avez déjà activé](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) le [stockage de données volumineuses](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) au sein de la base." />}}
+{{< warning  headline="Condition préalable"  text="Vous ne pouvez déplacer des lignes vers le stockage de données volumineuses que si vous [avez déjà activé]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) au sein de la base." />}}
 
 ## Déplacer des lignes vers le stockage de données volumineuses
 

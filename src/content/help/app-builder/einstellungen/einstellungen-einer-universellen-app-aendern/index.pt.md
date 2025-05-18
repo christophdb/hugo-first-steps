@@ -61,7 +61,7 @@ Na quarta secção, pode decidir se a sua **lista de empregados** deve ser visí
 
 ## Gestão de grandes volumes de dados
 
-Esta secção só é relevante se tiver ativado o [armazenamento de grandes volumes de dados](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) na sua Base. As aplicações podem então aceder aos dados no armazenamento de grandes volumes de dados e guardar as entradas criadas através da aplicação diretamente aí. No entanto, por defeito, os novos registos são guardados na Base. Para definir o armazenamento de Big Data como o **local de armazenamento para novas entradas**, basta ativar o seletor. Como mostra a captura de ecrã, pode especificar para cada tabela se as novas linhas devem ser escritas na base (caixa vazia) ou no armazenamento de grandes volumes de dados (caixa assinalada).
+Esta secção só é relevante se tiver ativado o [armazenamento de grandes volumes de dados]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) na sua Base. As aplicações podem então aceder aos dados no armazenamento de grandes volumes de dados e guardar as entradas criadas através da aplicação diretamente aí. No entanto, por defeito, os novos registos são guardados na Base. Para definir o armazenamento de Big Data como o **local de armazenamento para novas entradas**, basta ativar o seletor. Como mostra a captura de ecrã, pode especificar para cada tabela se as novas linhas devem ser escritas na base (caixa vazia) ou no armazenamento de grandes volumes de dados (caixa assinalada).
 
 ![Gestão de grandes volumes de dados em aplicações](images/Big-data-management-in-apps.png)
 

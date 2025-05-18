@@ -20,7 +20,7 @@ Este artículo le ofrece una visión general inicial de la función Big Data en 
 
 Al utilizar dos soluciones de almacenamiento, usted gana flexibilidad adicional como usuario. La solución SeaTable estándar es ideal para el **trabajo colaborativo** en proyectos, mientras que el almacenamiento de big data es idóneo para aplicaciones de datos intensivos con adquisición automática de datos (por ejemplo, archivos de registro o valores medidos estáticos).
 
-Una vez [activado](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) el almacenamiento de big data, ambas soluciones están a su disposición y puede mover sus registros de datos de un lado a otro entre la solución estándar y el almacenamiento de big data. Sin embargo, la ventaja del almacenamiento ilimitado de filas tiene el inconveniente de las [limitadas capacidades de colaboración](https://seatable.io/es/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
+Una vez [activado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) el almacenamiento de big data, ambas soluciones están a su disposición y puede mover sus registros de datos de un lado a otro entre la solución estándar y el almacenamiento de big data. Sin embargo, la ventaja del almacenamiento ilimitado de filas tiene el inconveniente de las [limitadas capacidades de colaboración](https://seatable.io/es/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
 
 ## Vistas separadas para las dos memorias
 

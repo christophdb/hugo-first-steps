@@ -20,7 +20,7 @@ Cet article vous donne un premier aperçu de la fonction Big Data de SeaTable, t
 
 En tant qu'utilisateur, vous gagnez en flexibilité grâce à l'utilisation de deux solutions de stockage. La solution standard de SeaTable est idéale pour le travail **collaboratif** sur des projets, tandis que le stockage de données volumineuses convient parfaitement aux applications à forte intensité de données avec collecte automatique de données (par ex. fichiers journaux ou valeurs de mesure statiques).
 
-Une fois que vous [avez activé](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) le [stockage des données volumineuses](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/), les deux solutions sont disponibles et vous pouvez déplacer vos ensembles de données entre la solution standard et le stockage des données volumineuses. L'avantage d'un stockage illimité de lignes présente toutefois l'inconvénient [de capacités collaboratives limitées](https://seatable.io/fr/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
+Une fois que vous [avez activé]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), les deux solutions sont disponibles et vous pouvez déplacer vos ensembles de données entre la solution standard et le stockage des données volumineuses. L'avantage d'un stockage illimité de lignes présente toutefois l'inconvénient [de capacités collaboratives limitées](https://seatable.io/fr/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
 
 ## Vues séparées pour les deux mémoires
 

@@ -12,7 +12,7 @@ url: '/help/so-erstellen-sie-ein-big-data-ansicht'
 
 rowsthat are **stored** in the big data storage are not immediately visible to every user. A special **view** is required to access the data in the big data storage. But don't worry: creating a big data view is just as easy as creating a normal view.
 
-{{< warning  headline="Prerequisite"  text="You can only create a big data view if you [have already activated](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) the [big data storage](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) within the base." />}}
+{{< warning  headline="Prerequisite"  text="You can only create a big data view if you [have already activated]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) within the base." />}}
 
 ## Add a big data view
 

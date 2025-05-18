@@ -12,7 +12,7 @@ url: '/de/hilfe/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 Standardmäßig erlaubt SeaTable die Speicherung von **bis zu 100.000 Zeilen** in einer Base. Wenn Sie noch größere Datensätze in SeaTable importieren möchten, können Sie den **Big-Data-Speicher** nutzen. Hier erfahren Sie, wie Sie eine **XLSX-Datei** in den Big-Data-Speicher importieren.
 
-{{< warning  headline="Voraussetzung"  text="Es ist eine spezielle **Big-Data-Ansicht** erforderlich, um mehr als 100.000 Zeilen in SeaTable zu importieren. Sie können diese nur erstellen, wenn Sie innerhalb der Base den [Big-Data-Speicher bereits aktiviert haben](https://seatable.io/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/)." />}}
+{{< warning  headline="Voraussetzung"  text="Es ist eine spezielle **Big-Data-Ansicht** erforderlich, um mehr als 100.000 Zeilen in SeaTable zu importieren. Sie können diese nur erstellen, wenn Sie innerhalb der Base den [Big-Data-Speicher bereits aktiviert haben]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}})." />}}
 
 ## Vorbereitungen für den Import
 

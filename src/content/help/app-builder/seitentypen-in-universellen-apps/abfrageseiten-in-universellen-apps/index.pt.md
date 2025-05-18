@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/abfrageseiten-in-universellen-apps'
 ---
 
-Utilizando este tipo de página, que funciona de forma semelhante à [aplicação de consulta de dados](https://seatable.io/pt/docs/apps/datenabfrage-app/), pode procurar nos seus registos de dados valores específicos em determinados campos. O tipo de página é particularmente útil para **registos de dados extensos**, como catálogos de produtos ou bibliotecas. Um caso de utilização específico poderia ser, por exemplo, a consulta de um diretório de empregados.
+Utilizando este tipo de página, que funciona de forma semelhante à [aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), pode procurar nos seus registos de dados valores específicos em determinados campos. O tipo de página é particularmente útil para **registos de dados extensos**, como catálogos de produtos ou bibliotecas. Um caso de utilização específico poderia ser, por exemplo, a consulta de um diretório de empregados.
 
 ![Páginas de consulta em aplicações universais](images/Abfrageseiten-in-Universellen-Apps.png)
 
@@ -79,4 +79,4 @@ Um exemplo de aplicação é um quadro de empregos interno: a página de consult
 
 ## Outros artigos úteis
 
-Se apenas necessitar da funcionalidade de consulta descrita acima para a sua aplicação, também pode utilizar diretamente a [aplicação de consulta de dados](https://seatable.io/pt/docs/apps/datenabfrage-app/) em vez de uma aplicação universal.
+Se apenas necessitar da funcionalidade de consulta descrita acima para a sua aplicação, também pode utilizar diretamente a [aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) em vez de uma aplicação universal.

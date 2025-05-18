@@ -12,7 +12,7 @@ url: '/es/ayuda/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 Por defecto, SeaTable permite almacenar **hasta 100.000 filas** en una base. Si desea importar conjuntos de datos aún mayores en SeaTable, puede utilizar el almacenamiento **de** big data. Aquí puede averiguar cómo importar un **archivo XLSX** al almacenamiento de big data.
 
-{{< warning  headline="Requisito previo"  text="Se necesita una **vista** especial de big data para importar más de 100.000 filas a SeaTable. Solo puede crearla si [ya ha activado](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) el [almacenamiento de](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) big data dentro de la base." />}}
+{{< warning  headline="Requisito previo"  text="Se necesita una **vista** especial de big data para importar más de 100.000 filas a SeaTable. Solo puede crearla si [ya ha activado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) big data dentro de la base." />}}
 
 ## Preparativos para la importación
 

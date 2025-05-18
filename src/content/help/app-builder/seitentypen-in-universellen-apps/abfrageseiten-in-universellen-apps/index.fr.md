@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/abfrageseiten-in-universellen-apps'
 ---
 
-Ce type de page, qui fonctionne de la même manière que l'[application de requête de données](https://seatable.io/fr/docs/apps/datenabfrage-app/), vous permet de rechercher des valeurs spécifiques dans vos ensembles de données à travers certains champs. Ce type de page est particulièrement utile pour les **ensembles de données volumineux** tels que les catalogues de produits ou les bibliothèques. Une application concrète pourrait être par exemple la consultation d'un répertoire d'employés.
+Ce type de page, qui fonctionne de la même manière que l'[application de requête de données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), vous permet de rechercher des valeurs spécifiques dans vos ensembles de données à travers certains champs. Ce type de page est particulièrement utile pour les **ensembles de données volumineux** tels que les catalogues de produits ou les bibliothèques. Une application concrète pourrait être par exemple la consultation d'un répertoire d'employés.
 
 ![Pages de requête dans les applications universelles](images/Abfrageseiten-in-Universellen-Apps.png)
 
@@ -79,4 +79,4 @@ Un exemple d'application est une bourse d'emploi interne : la page de requête p
 
 ## Autres articles utiles
 
-Si vous n'avez besoin pour votre application que de la fonctionnalité de consultation décrite ci-dessus, vous pouvez aussi utiliser directement l'[application de consultation des données](https://seatable.io/fr/docs/apps/datenabfrage-app/) au lieu d'une application universelle.
+Si vous n'avez besoin pour votre application que de la fonctionnalité de consultation décrite ci-dessus, vous pouvez aussi utiliser directement l'[application de consultation des données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) au lieu d'une application universelle.

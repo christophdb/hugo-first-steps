@@ -20,7 +20,7 @@ Dieser Artikel gibt Ihnen einen ersten Überblick über die Big-Data-Funktion in
 
 Durch den Einsatz von zwei Speicherlösungen gewinnen Sie als Benutzer zusätzliche Flexibilität. Für die **kollaborative Arbeit** an Projekten bietet sich die Standardlösung von SeaTable an, während sich der Big-Data-Speicher ideal für datenintensive Anwendungen mit automatischer Datenerfassung (z. B. Log-Dateien oder statische Messwerte) eignet.
 
-Sobald Sie den [Big-Data-Speicher aktiviert haben](https://seatable.io/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/), stehen Ihnen beide Lösungen zur Verfügung und Sie können Ihre Datensätze zwischen der Standardlösung und dem Big-Data-Speicher hin- und herschieben. Der Vorteil der unbegrenzten Speicherung von Zeilen hat jedoch den Nachteil [eingeschränkter kollaborativer Fähigkeiten](https://seatable.io/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
+Sobald Sie den [Big-Data-Speicher aktiviert haben]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), stehen Ihnen beide Lösungen zur Verfügung und Sie können Ihre Datensätze zwischen der Standardlösung und dem Big-Data-Speicher hin- und herschieben. Der Vorteil der unbegrenzten Speicherung von Zeilen hat jedoch den Nachteil [eingeschränkter kollaborativer Fähigkeiten](https://seatable.io/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
 
 ## Separate Ansichten für die beiden Speicher
 

@@ -14,7 +14,7 @@ SeaTable dispone de una potente función de importación para facilitarle al má
 
 Si importa archivos Excel, SeaTable lo soporta para archivos de hasta un tamaño máximo de **100 MB** y hasta **50.000 filas**. Debido a estos generosos límites, nunca debería tener problemas con el tamaño del archivo. Si tiene un archivo más grande o con más filas, deberá dividirlo en dos **archivos Excel** y realizar la importación en dos pasos.
 
-{{< warning  headline="Límite de memoria para líneas"  text="El backend normal de SeaTable puede contener un máximo de 100.000 filas por tabla. Si desea importar un archivo Excel o CSV que contenga más de 100.000 filas, primero debe [activar el](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) backend de big data para poder [importar](https://seatable.io/es/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/) la [tabla Excel en el backend de big data](https://seatable.io/es/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/)." />}}
+{{< warning  headline="Límite de memoria para líneas"  text="El backend normal de SeaTable puede contener un máximo de 100.000 filas por tabla. Si desea importar un archivo Excel o CSV que contenga más de 100.000 filas, primero debe [activar el]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) backend de big data para poder [importar](https://seatable.io/es/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/) la [tabla Excel en el backend de big data](https://seatable.io/es/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/)." />}}
 
 ## Gráficos y archivos incrustados
 

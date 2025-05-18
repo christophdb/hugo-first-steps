@@ -40,6 +40,6 @@ There are two different ways to restore a snapshot:
 
 ## Restoring a previous version of the big data store
 
-If you have [activated](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) the [big data storage](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) in a base, you can also restore a previous version of the big data storage when restoring snapshots in order to prevent unwanted data loss. To do this, click in the corresponding field in step 5 and select the version of the big data storage that is to be restored with the snapshot.
+If you have [activated]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) in a base, you can also restore a previous version of the big data storage when restoring snapshots in order to prevent unwanted data loss. To do this, click in the corresponding field in step 5 and select the version of the big data storage that is to be restored with the snapshot.
 
 ![Restoring a previous version of big data storage when restoring snapshots](images/Wiederherstellung-einer-vorherigen-Version-des-Big-Data-Speichers-bei-der-Wiederherstellung-von-Snapshots.png)

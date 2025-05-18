@@ -12,7 +12,7 @@ url: '/help/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 By default, SeaTable allows the storage of **up to 100,000 rows** in one base. If you want to import even larger data sets into SeaTable, you can use the **big data storage**. Here you can find out how to import an **XLSX file** into the big data storage.
 
-{{< warning  headline="Prerequisite"  text="A special **big data view** is required to import more than 100,000 rows into SeaTable. You can only create this if you [have already activated](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) the [big data storage](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) within the base." />}}
+{{< warning  headline="Prerequisite"  text="A special **big data view** is required to import more than 100,000 rows into SeaTable. You can only create this if you [have already activated]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) within the base." />}}
 
 ## Preparations for the import
 

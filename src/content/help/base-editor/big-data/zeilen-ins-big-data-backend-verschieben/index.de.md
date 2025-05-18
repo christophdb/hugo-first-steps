@@ -12,7 +12,7 @@ url: '/de/hilfe/zeilen-ins-big-data-backend-verschieben'
 
 **Neue Zeilen** können Sie immer nur in **normalen Ansichten** von SeaTable anlegen. Anschließend müssen Sie die gewünschten Zeilen manuell in den Big-Data-Speicher verschieben.
 
-{{< warning  headline="Voraussetzung"  text="Sie können nur dann Zeilen in den Big-Data-Speicher verschieben, wenn Sie innerhalb der Base den [Big-Data-Speicher bereits aktiviert haben](https://seatable.io/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/)." />}}
+{{< warning  headline="Voraussetzung"  text="Sie können nur dann Zeilen in den Big-Data-Speicher verschieben, wenn Sie innerhalb der Base den [Big-Data-Speicher bereits aktiviert haben]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}})." />}}
 
 ## Zeilen in den Big-Data-Speicher verschieben
 

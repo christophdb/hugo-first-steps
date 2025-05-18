@@ -82,7 +82,7 @@ Este tipo de página é muito semelhante ao [plug-in Timeline](https://seatable.
 
 ## Tipo de página: Consulta
 
-Este tipo de página, que funciona de forma semelhante à [aplicação Data Query](https://seatable.io/pt/docs/apps/datenabfrage-app/), permite-lhe pesquisar os seus registos em campos específicos para valores específicos. O tipo de página é particularmente útil para **grandes conjuntos de dados**, como catálogos de produtos ou bibliotecas. Um caso de utilização concreto poderia ser a consulta de números de identificação, por exemplo.
+Este tipo de página, que funciona de forma semelhante à [aplicação Data Query]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), permite-lhe pesquisar os seus registos em campos específicos para valores específicos. O tipo de página é particularmente útil para **grandes conjuntos de dados**, como catálogos de produtos ou bibliotecas. Um caso de utilização concreto poderia ser a consulta de números de identificação, por exemplo.
 
 ![Caso de utilização Tipo de página: Consulta](images/output-query-page-universal-app-2.png)
 

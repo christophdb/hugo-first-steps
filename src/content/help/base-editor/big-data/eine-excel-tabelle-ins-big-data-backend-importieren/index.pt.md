@@ -12,7 +12,7 @@ url: '/pt/ajuda/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 Por predefinição, o SeaTable permite o armazenamento de **até 100 000 linhas** numa base. Se pretender importar conjuntos de dados ainda maiores para o SeaTable, pode utilizar o **armazenamento** de grandes volumes de dados. Aqui pode descobrir como importar um **ficheiro XLSX** para o armazenamento de grandes volumes de dados.
 
-{{< warning  headline="Pré-requisito"  text="É necessária uma **vista** especial de grandes volumes de dados para importar mais de 100 000 linhas para o SeaTable. Só é possível criá-la se [já tiver ativado](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) o [armazenamento](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) de grandes volumes de dados na base." />}}
+{{< warning  headline="Pré-requisito"  text="É necessária uma **vista** especial de grandes volumes de dados para importar mais de 100 000 linhas para o SeaTable. Só é possível criá-la se [já tiver ativado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) de grandes volumes de dados na base." />}}
 
 ## Preparativos para a importação
 

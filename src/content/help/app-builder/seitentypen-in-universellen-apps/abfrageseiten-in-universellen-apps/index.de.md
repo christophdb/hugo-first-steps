@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/abfrageseiten-in-universellen-apps'
 ---
 
-Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) funktioniert, können Sie Ihre Datensätze über bestimmte Felder hinweg nach spezifischen Werten durchsuchen. Der Seitentyp erweist sich besonders bei **umfangreichen Datensätzen** wie Produktkatalogen oder Bibliotheken als hilfreich. Ein konkreter Anwendungsfall könnte beispielsweise die Abfrage eines Mitarbeiterverzeichnisses sein.
+Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) funktioniert, können Sie Ihre Datensätze über bestimmte Felder hinweg nach spezifischen Werten durchsuchen. Der Seitentyp erweist sich besonders bei **umfangreichen Datensätzen** wie Produktkatalogen oder Bibliotheken als hilfreich. Ein konkreter Anwendungsfall könnte beispielsweise die Abfrage eines Mitarbeiterverzeichnisses sein.
 
 ![Abfrageseiten in Universellen Apps](images/Abfrageseiten-in-Universellen-Apps.png)
 
@@ -79,4 +79,4 @@ Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt 
 
 ## Weitere hilfreiche Artikel
 
-Falls Sie für Ihre Anwendung nur die oben beschriebene Abfrage-Funktionalität benötigen, können Sie statt einer Universellen App auch direkt die [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) nutzen.
+Falls Sie für Ihre Anwendung nur die oben beschriebene Abfrage-Funktionalität benötigen, können Sie statt einer Universellen App auch direkt die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) nutzen.

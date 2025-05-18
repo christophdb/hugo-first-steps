@@ -82,7 +82,7 @@ Dieser Seitentyp weist große Ähnlichkeit zum [Timeline-Plugin](https://seatabl
 
 ## Seitentyp: Abfrage
 
-Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) funktioniert, können Sie Ihre Datensätze über bestimmte Felder hinweg nach spezifischen Werten durchsuchen. Der Seitentyp erweist sich besonders bei **umfangreichen Datensätzen** wie Produktkatalogen oder Bibliotheken als hilfreich. Ein konkreter Anwendungsfall könnte beispielsweise die Abfrage von Identifikationsnummern sein.
+Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) funktioniert, können Sie Ihre Datensätze über bestimmte Felder hinweg nach spezifischen Werten durchsuchen. Der Seitentyp erweist sich besonders bei **umfangreichen Datensätzen** wie Produktkatalogen oder Bibliotheken als hilfreich. Ein konkreter Anwendungsfall könnte beispielsweise die Abfrage von Identifikationsnummern sein.
 
 ![Anwendungsfall Seitentyp: Abfrage](images/output-query-page-universal-app-2.png)
 

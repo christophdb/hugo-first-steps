@@ -40,6 +40,6 @@ Hay dos formas diferentes de restaurar una instantánea:
 
 ## Restaurar una versión anterior del almacén de Big Data
 
-Si ha [activado](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) el almacenamiento [de big data](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) en una base, también puede restaurar una versión anterior del almacenamiento de big data al restaurar instantáneas para evitar pérdidas de datos no deseadas. Para ello, haga clic en el campo correspondiente en el paso 5 y seleccione la versión del almacenamiento de big data que se va a restaurar con la instantánea.
+Si ha [activado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) en una base, también puede restaurar una versión anterior del almacenamiento de big data al restaurar instantáneas para evitar pérdidas de datos no deseadas. Para ello, haga clic en el campo correspondiente en el paso 5 y seleccione la versión del almacenamiento de big data que se va a restaurar con la instantánea.
 
 ![Restauración de una versión anterior del almacenamiento de big data al restaurar instantáneas](images/Wiederherstellung-einer-vorherigen-Version-des-Big-Data-Speichers-bei-der-Wiederherstellung-von-Snapshots.png)

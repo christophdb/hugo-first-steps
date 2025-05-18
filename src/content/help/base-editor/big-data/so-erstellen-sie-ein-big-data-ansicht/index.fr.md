@@ -12,7 +12,7 @@ url: '/fr/aide/so-erstellen-sie-ein-big-data-ansicht'
 
 Les lignes qui se trouvent dans l'**espace de stockage des Big Data** ne sont pas directement visibles pour chaque utilisateur. Une **vue** spéciale est nécessaire pour accéder aux données dans l'espace de stockage Big Data. Mais ne vous inquiétez pas : la création d'une vue Big Data est aussi simple que celle d'une vue normale.
 
-{{< warning  headline="Condition préalable"  text="Vous ne pouvez créer une vue Big Data que si vous [avez déjà activé](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) le [stockage de Big Data](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) au sein de la base." />}}
+{{< warning  headline="Condition préalable"  text="Vous ne pouvez créer une vue Big Data que si vous [avez déjà activé]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) au sein de la base." />}}
 
 ## Ajouter une vue Big Data
 

@@ -61,7 +61,7 @@ Dans la quatrième section, vous pouvez décider si votre **liste de collaborate
 
 ## Gestion des données volumineuses
 
-Cette section n'est pertinente que si vous avez activé la [mémoire Big Data](https://seatable.io/fr/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) dans votre base. Les applications peuvent alors accéder aux données dans la mémoire Big Data et y enregistrer directement les entrées créées via l'application. Par défaut, les nouvelles entrées sont toutefois enregistrées dans la base. Pour définir la mémoire Big Data comme **emplacement de stockage des nouvelles entrées**, il suffit d'activer le curseur. Comme le montre la capture d'écran, vous pouvez définir précisément pour chaque tableau si les nouvelles lignes doivent être écrites dans la base (case vide) ou dans la mémoire Big Data (case cochée).
+Cette section n'est pertinente que si vous avez activé la [mémoire Big Data]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) dans votre base. Les applications peuvent alors accéder aux données dans la mémoire Big Data et y enregistrer directement les entrées créées via l'application. Par défaut, les nouvelles entrées sont toutefois enregistrées dans la base. Pour définir la mémoire Big Data comme **emplacement de stockage des nouvelles entrées**, il suffit d'activer le curseur. Comme le montre la capture d'écran, vous pouvez définir précisément pour chaque tableau si les nouvelles lignes doivent être écrites dans la base (case vide) ou dans la mémoire Big Data (case cochée).
 
 ![Gestion des grandes données dans les applications](images/Big-data-management-in-apps.png)
 

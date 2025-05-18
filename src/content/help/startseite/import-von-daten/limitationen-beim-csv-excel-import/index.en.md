@@ -14,7 +14,7 @@ SeaTable has a powerful import function to make it as easy as possible for you t
 
 When importing Excel files, SeaTable supports this for files up to a maximum size of **100 MB** and up to **50,000 rows**. Due to these generous limits, you should never have problems with the file size. If you have a file that is larger or has more rows , you will need to split it into two **Excel files** and perform the import in two steps.
 
-{{< warning  headline="Memory limit for rows"  text="The normal SeaTable backend can hold a maximum of 100,000 rows per table. If you want to import an Excel or CSV file that contains more than 100,000 rows , you must first [activate the big data backend](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) in order to be able to [import](https://seatable.io/en/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/) the [Excel table into the big data backend](https://seatable.io/en/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/)." />}}
+{{< warning  headline="Memory limit for rows"  text="The normal SeaTable backend can hold a maximum of 100,000 rows per table. If you want to import an Excel or CSV file that contains more than 100,000 rows , you must first [activate the big data backend]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) in order to be able to [import](https://seatable.io/en/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/) the [Excel table into the big data backend](https://seatable.io/en/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/)." />}}
 
 ## Embedded graphics and files
 

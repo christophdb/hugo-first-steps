@@ -20,7 +20,7 @@ Este artigo dá-lhe uma visão geral inicial da função Big Data no SeaTable, e
 
 Ao utilizar duas soluções de armazenamento, o utilizador ganha flexibilidade adicional. A solução padrão SeaTable é ideal para o **trabalho colaborativo** em projectos, enquanto o armazenamento de grandes volumes de dados é ideal para aplicações de dados intensivos com aquisição automática de dados (por exemplo, ficheiros de registo ou valores de medição estáticos).
 
-Depois de [ter ativado](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) o [armazenamento de grandes](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) volumes de dados, ambas as soluções estão disponíveis e pode mover os seus registos de dados entre a solução padrão e o armazenamento de grandes volumes de dados. No entanto, a vantagem do armazenamento de linhas ilimitado tem a desvantagem [de capacidades de colaboração limitadas](https://seatable.io/pt/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
+Depois de [ter ativado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) volumes de dados, ambas as soluções estão disponíveis e pode mover os seus registos de dados entre a solução padrão e o armazenamento de grandes volumes de dados. No entanto, a vantagem do armazenamento de linhas ilimitado tem a desvantagem [de capacidades de colaboração limitadas](https://seatable.io/pt/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
 
 ## Vistas separadas para as duas memórias
 

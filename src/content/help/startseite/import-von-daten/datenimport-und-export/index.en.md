@@ -54,7 +54,7 @@ The import is done as a [CSV file](https://seatable.io/en/docs/import-von-daten/
 
 If you have already created a table in **SeaTable** and need it in **another base**, you can simply copy it over. To learn how to import tables from another Base, [click here]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}).
 
-{{< warning  headline="Memory limit for rows"  text="SeaTable's normal backend can hold a maximum of 100,000 rows per table. If you want to import an Excel or CSV file that contains more than 100,000 rows , you must first [enable the Big Data backend to](https://seatable.io/en/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) import it." />}}
+{{< warning  headline="Memory limit for rows"  text="SeaTable's normal backend can hold a maximum of 100,000 rows per table. If you want to import an Excel or CSV file that contains more than 100,000 rows , you must first [enable the Big Data backend to]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) import it." />}}
 
 ## More helpful articles about data import
 

@@ -82,7 +82,7 @@ This page type has great similarity to the [Timeline plugin](https://seatable.io
 
 ## Page type: Query
 
-Using this page type, which works similarly to the [Data Query app](https://seatable.io/en/docs/apps/datenabfrage-app/), you can search your records across specific fields for specific values. The page type proves particularly useful for **large datasets** such as product catalogs or libraries. For example, a specific use case could be querying identification numbers.
+Using this page type, which works similarly to the [Data Query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}), you can search your records across specific fields for specific values. The page type proves particularly useful for **large datasets** such as product catalogs or libraries. For example, a specific use case could be querying identification numbers.
 
 ![Use case Page type: Query](images/output-query-page-universal-app-2.png)
 

@@ -12,7 +12,7 @@ url: '/pt/ajuda/so-erstellen-sie-ein-big-data-ansicht'
 
 As linhas armazenadas na **memória de** grandes volumes de dados não são imediatamente visíveis para todos os utilizadores. É necessária uma **vista** especial para aceder aos dados no armazenamento de grandes volumes de dados. Mas não se preocupe: criar uma vista de grandes volumes de dados é tão fácil como criar uma vista normal.
 
-{{< warning  headline="Pré-requisito"  text="Só é possível criar uma vista de grandes volumes de dados se [já tiver ativado](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) o [armazenamento de grandes volumes de dados](https://seatable.io/pt/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) na base." />}}
+{{< warning  headline="Pré-requisito"  text="Só é possível criar uma vista de grandes volumes de dados se [já tiver ativado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) na base." />}}
 
 ## Adicionar uma vista de grandes volumes de dados
 

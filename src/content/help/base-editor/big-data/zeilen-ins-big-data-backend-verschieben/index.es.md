@@ -12,7 +12,7 @@ url: '/es/ayuda/zeilen-ins-big-data-backend-verschieben'
 
 Sólo se pueden crear **nuevas filas** en **las vistas normales** de SeaTable. A continuación, debe mover manualmente las filas deseadas a la memoria de big data.
 
-{{< warning  headline="Requisito previo"  text="Sólo puede mover filas a la memoria [de big](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) data si [ya ha activado](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) la [memoria de big](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) data dentro de la base." />}}
+{{< warning  headline="Requisito previo"  text="Sólo puede mover filas a la memoria [de big]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) data dentro de la base." />}}
 
 ## Mover filas a la memoria de big data
 

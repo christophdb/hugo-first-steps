@@ -53,7 +53,7 @@ Im vierten Abschnitt können Sie entscheiden, ob Ihre **Mitarbeiter-Liste** in d
 
 ## Big Data Management
 
-Dieser Abschnitt ist nur relevant, wenn Sie den [Big-Data-Speicher](https://seatable.io/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) in Ihrer Base aktiviert haben. Apps können dann auf Daten im Big-Data-Speicher zugreifen und Einträge, die über die App erstellt werden, direkt dort speichern. Standardmäßig werden neue Einträge aber in der Base gespeichert. Um den Big-Data-Speicher als **Speicherort für neue Einträge** festzulegen, aktivieren Sie einfach den Regler. Wie der Screenshot zeigt, können Sie für jede Tabelle genau festlegen, ob neue Zeilen in die Base (leeres Kästchen) oder in den Big-Data-Speicher (abgehaktes Kästchen) geschrieben werden sollen.
+Dieser Abschnitt ist nur relevant, wenn Sie den [Big-Data-Speicher]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) in Ihrer Base aktiviert haben. Apps können dann auf Daten im Big-Data-Speicher zugreifen und Einträge, die über die App erstellt werden, direkt dort speichern. Standardmäßig werden neue Einträge aber in der Base gespeichert. Um den Big-Data-Speicher als **Speicherort für neue Einträge** festzulegen, aktivieren Sie einfach den Regler. Wie der Screenshot zeigt, können Sie für jede Tabelle genau festlegen, ob neue Zeilen in die Base (leeres Kästchen) oder in den Big-Data-Speicher (abgehaktes Kästchen) geschrieben werden sollen.
 
 ![Big data management in apps](images/Big-data-management-in-apps.png)
 

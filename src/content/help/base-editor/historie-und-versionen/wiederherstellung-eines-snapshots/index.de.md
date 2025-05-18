@@ -40,6 +40,6 @@ Ihnen stehen zwei verschiedene Wege zur Wiederherstellung eines Snapshots zur Ve
 
 ## Wiederherstellung einer vorherigen Version des Big-Data-Speichers
 
-Wenn Sie in einer Base den [Big-Data-Speicher aktiviert](https://seatable.io/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) haben, können Sie bei der Wiederherstellung von Snapshots auch eine vorherige Version des Big-Data-Speichers wiederherstellen, um unerwünschtem Datenverlust vorzubeugen. Klicken Sie dazu bei Schritt 5 in das entsprechende Feld und wählen Sie die Version des Big-Data-Speichers aus, die mit dem Snapshot wiederhergestellt werden soll.
+Wenn Sie in einer Base den [Big-Data-Speicher aktiviert]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) haben, können Sie bei der Wiederherstellung von Snapshots auch eine vorherige Version des Big-Data-Speichers wiederherstellen, um unerwünschtem Datenverlust vorzubeugen. Klicken Sie dazu bei Schritt 5 in das entsprechende Feld und wählen Sie die Version des Big-Data-Speichers aus, die mit dem Snapshot wiederhergestellt werden soll.
 
 ![Wiederherstellung einer vorherigen Version des Big-Data-Speichers bei der Wiederherstellung von Snapshots](images/Wiederherstellung-einer-vorherigen-Version-des-Big-Data-Speichers-bei-der-Wiederherstellung-von-Snapshots.png)
