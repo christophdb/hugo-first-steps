@@ -30,13 +30,13 @@ Uma aplicação universal é composta por várias **páginas** que pode agrupar 
 
 [Saiba como adicionar novas páginas e pastas à sua Universal App aqui]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-Para preparar os dados da sua base de uma forma apelativa, a aplicação universal oferece uma variedade de [tipos de páginas](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/) com diferentes elementos de design.
+Para preparar os dados da sua base de uma forma apelativa, a aplicação universal oferece uma variedade de [tipos de páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) com diferentes elementos de design.
 
 ![Tipos de página Aplicação universal](images/Seitentypen-Universal-App.png)
 
 ## Pré-visualização de uma aplicação universal
 
-Ao conceber uma aplicação universal, irá certamente querer testar o aspecto da aplicação para os utilizadores intermédios. Para o fazer, basta [apresentar](https://seatable.io/pt/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) a [pré-visualização da aplicação](https://seatable.io/pt/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) no modo de edição.
+Ao conceber uma aplicação universal, irá certamente querer testar o aspecto da aplicação para os utilizadores intermédios. Para o fazer, basta [apresentar]({{< relref "help/app-builder/app-verwaltung/die-vorschau-einer-app-anzeigen-lassen" >}}) no modo de edição.
 
 ## Alterar as definições de uma aplicação universal
 
@@ -44,7 +44,7 @@ Numa aplicação universal, pode efectuar várias **definições globais**. Por 
 
 ![Abrir as definições da aplicação Universal App](images/global-settings-universal-app.png)
 
-[Saiba mais sobre as definições globais da Aplicação Universal aqui.](https://seatable.io/pt/docs/apps/einstellungen-einer-universellen-app-aendern/)
+[Saiba mais sobre as definições globais da Aplicação Universal aqui.]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}})
 
 ## Guardar versões de uma aplicação universal
 

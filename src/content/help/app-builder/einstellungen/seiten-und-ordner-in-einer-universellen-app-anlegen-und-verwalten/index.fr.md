@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 ---
 
-Dans une application universelle, vous pouvez créer autant de **pages** et **de dossiers** que vous le souhaitez afin de rendre les données d'une base accessibles à un groupe d'utilisateurs spécifique, de les organiser et de les présenter de manière attrayante. Il existe à cet effet un grand nombre de [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) que vous connaissez déjà d'autres endroits dans SeaTable et que vous pouvez créer en quelques clics dans votre application universelle.
+Dans une application universelle, vous pouvez créer autant de **pages** et **de dossiers** que vous le souhaitez afin de rendre les données d'une base accessibles à un groupe d'utilisateurs spécifique, de les organiser et de les présenter de manière attrayante. Il existe à cet effet un grand nombre de [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) que vous connaissez déjà d'autres endroits dans SeaTable et que vous pouvez créer en quelques clics dans votre application universelle.
 
 {{< warning  headline="Autorisation requise dans le groupe"  text="Pour pouvoir modifier une app, vous devez être **propriétaire** ou **administrateur du groupe** dans lequel se trouve la **base** sous-jacente. **Les** simples **membres du groupe** peuvent uniquement consulter et utiliser les apps." />}}
 
@@ -27,7 +27,7 @@ Dans une application universelle, vous pouvez créer autant de **pages** et **de
 
 ![Ajouter une page app](images/Add-app-page.png)
 
-8. Sélectionnez l'un des [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) et cliquez sur **Suivant**.
+8. Sélectionnez l'un des [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) et cliquez sur **Suivant**.
 
 ![Ajouter une page d'application et sélectionner le type de page](images/Add-app-page-and-select-page-type.png)
 

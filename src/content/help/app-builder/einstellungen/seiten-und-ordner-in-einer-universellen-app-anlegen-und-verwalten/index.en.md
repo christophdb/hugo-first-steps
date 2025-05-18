@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 ---
 
-In a Universal App you can create as many **pages** and **folders** as you like to make the data in a Base accessible to a specific user group, to organize it and to present it in an appealing way. There are a variety of [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) that you already know from other places in SeaTable and can create in your Universal App with just a few clicks.
+In a Universal App you can create as many **pages** and **folders** as you like to make the data in a Base accessible to a specific user group, to organize it and to present it in an appealing way. There are a variety of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) that you already know from other places in SeaTable and can create in your Universal App with just a few clicks.
 
 {{< warning  headline="Authorization required in the group"  text="To be able to edit an app, you must be the **owner** or **administrator of the group** in which the underlying **base** is located. Simple **group members** can only view and use the apps." />}}
 
@@ -27,7 +27,7 @@ In a Universal App you can create as many **pages** and **folders** as you like 
 
 ![Add app page](images/Add-app-page.png)
 
-8. Select one of the [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) and click **Next**.
+8. Select one of the [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) and click **Next**.
 
 ![Add app page and select page type](images/Add-app-page-and-select-page-type.png)
 

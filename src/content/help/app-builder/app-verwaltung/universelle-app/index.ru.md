@@ -30,13 +30,13 @@ url: '/ru/help/universelle-app'
 
 О том[, как добавлять новые страницы и папки в универсальное приложение, читайте здесь]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-Для того чтобы оформить данные вашей базы в привлекательном виде, Universal App предлагает множество [типов страниц](https://seatable.io/ru/docs/apps/seitentypen-in-der-universellen-app/) с различными элементами дизайна.
+Для того чтобы оформить данные вашей базы в привлекательном виде, Universal App предлагает множество [типов страниц]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) с различными элементами дизайна.
 
 ![Типы страниц Универсальное приложение](images/Seitentypen-Universal-App.png)
 
 ## Предварительный просмотр универсального приложения
 
-При разработке универсального приложения вы обязательно захотите проверить, как оно выглядит для пользователей между приложениями. Для этого можно просто [отобразить предварительный просмотр приложения](https://seatable.io/ru/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) в режиме редактирования.
+При разработке универсального приложения вы обязательно захотите проверить, как оно выглядит для пользователей между приложениями. Для этого можно просто [отобразить предварительный просмотр приложения]({{< relref "help/app-builder/app-verwaltung/die-vorschau-einer-app-anzeigen-lassen" >}}) в режиме редактирования.
 
 ## Изменение настроек универсального приложения
 
@@ -44,7 +44,7 @@ url: '/ru/help/universelle-app'
 
 ![Откройте настройки универсального приложения](images/global-settings-universal-app.png)
 
-[Подробнее о глобальных настройках универсального приложения можно узнать здесь.](https://seatable.io/ru/docs/apps/einstellungen-einer-universellen-app-aendern/)
+[Подробнее о глобальных настройках универсального приложения можно узнать здесь.]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}})
 
 ## Сохранение версий универсального приложения
 

@@ -30,13 +30,13 @@ Eine Universelle App besteht aus mehreren **Seiten**, die Sie in **Ordnern** zus
 
 [Erfahren Sie hier, wie Sie neue Seiten und Ordner zu Ihrer Universellen App hinzufügen]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-Um die Daten in Ihrer Base ansprechend aufzubereiten, bietet die Universelle App eine Vielzahl an [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) mit unterschiedlichen Gestaltungselementen.
+Um die Daten in Ihrer Base ansprechend aufzubereiten, bietet die Universelle App eine Vielzahl an [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) mit unterschiedlichen Gestaltungselementen.
 
 ![Seitentypen Universal App](images/Seitentypen-Universal-App.png)
 
 ## Vorschau einer Universellen App
 
-Bei der Gestaltung einer Universellen App wollen Sie sicher zwischendurch testen, wie die App für die Nutzer aussieht. Dazu können Sie sich im Bearbeitungsmodus einfach die [App-Vorschau anzeigen lassen](https://seatable.io/docs/apps/die-vorschau-einer-app-anzeigen-lassen/).
+Bei der Gestaltung einer Universellen App wollen Sie sicher zwischendurch testen, wie die App für die Nutzer aussieht. Dazu können Sie sich im Bearbeitungsmodus einfach die [App-Vorschau anzeigen lassen]({{< relref "help/app-builder/app-verwaltung/die-vorschau-einer-app-anzeigen-lassen" >}}).
 
 ## Einstellungen einer Universellen App ändern
 
@@ -44,7 +44,7 @@ Innerhalb einer Universellen App können Sie verschiedene **globale Einstellunge
 
 ![Öffnen der App-Einstellungen der Universellen App](images/global-settings-universal-app.png)
 
-[Erfahren Sie hier mehr zu den globalen Einstellungen der Universellen App.](https://seatable.io/docs/apps/einstellungen-einer-universellen-app-aendern/)
+[Erfahren Sie hier mehr zu den globalen Einstellungen der Universellen App.]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}})
 
 ## Versionen einer Universellen App speichern
 

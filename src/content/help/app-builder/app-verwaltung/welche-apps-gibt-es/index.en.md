@@ -20,7 +20,7 @@ There are currently **two** different types of apps available in SeaTable.
 
 ![The Universal App](images/universal-app-preview.png)
 
-With the **Universal app**, you can let your creativity run wild. The app has a number of [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) that allow you to present your data in the form of **tables**, **web forms**, **calendars** or **kanban boards**, among others. By creating a **custom page**, you can also build dashboards with meaningful **statistics** from your data and share them with other (external) users.
+With the **Universal app**, you can let your creativity run wild. The app has a number of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) that allow you to present your data in the form of **tables**, **web forms**, **calendars** or **kanban boards**, among others. By creating a **custom page**, you can also build dashboards with meaningful **statistics** from your data and share them with other (external) users.
 
 [Learn more about the Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 

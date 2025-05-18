@@ -30,13 +30,13 @@ A Universal App consists of several **pages** that you can group into **folders*
 
 [Learn how to add new pages and folders to your Universal App here]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-To prepare the data in your Base in an appealing way, the Universal App offers a variety of [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) with different design elements.
+To prepare the data in your Base in an appealing way, the Universal App offers a variety of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) with different design elements.
 
 ![Page Types Universal App](images/Seitentypen-Universal-App.png)
 
 ## Preview of a Universal App
 
-When designing a universal app, you'll want to test how the app looks to users in between. To do this, you can simply [preview](https://seatable.io/en/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) the [app](https://seatable.io/en/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) in Edit mode.
+When designing a universal app, you'll want to test how the app looks to users in between. To do this, you can simply [preview]({{< relref "help/app-builder/app-verwaltung/die-vorschau-einer-app-anzeigen-lassen" >}}) in Edit mode.
 
 ## Change settings of a universal app
 
@@ -44,7 +44,7 @@ Within a Universal App, you can make various **global settings**. For example, y
 
 ![Opening the app settings of the Universal App](images/global-settings-universal-app.png)
 
-[Learn more about the global settings of the Universal App here.](https://seatable.io/en/docs/apps/einstellungen-einer-universellen-app-aendern/)
+[Learn more about the global settings of the Universal App here.]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}})
 
 ## Saving versions of a universal app
 

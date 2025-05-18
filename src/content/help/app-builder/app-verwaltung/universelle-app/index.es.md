@@ -30,13 +30,13 @@ Una aplicación universal consta de varias **páginas** que se pueden agrupar en
 
 [Aprenda a añadir nuevas páginas y carpetas a su Universal App aquí]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-Para preparar los datos de su base de forma atractiva, Universal App ofrece una variedad de [tipos de página](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/) con distintos elementos de diseño.
+Para preparar los datos de su base de forma atractiva, Universal App ofrece una variedad de [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) con distintos elementos de diseño.
 
 ![Tipos de página Universal App](images/Seitentypen-Universal-App.png)
 
 ## Vista previa de una aplicación universal
 
-Cuando diseñes una aplicación universal, seguramente querrás probar cómo se ve la aplicación para los usuarios intermedios. Para ello, basta con [mostrar](https://seatable.io/es/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) la [vista previa de](https://seatable.io/es/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) la aplicación en el modo de edición.
+Cuando diseñes una aplicación universal, seguramente querrás probar cómo se ve la aplicación para los usuarios intermedios. Para ello, basta con [mostrar]({{< relref "help/app-builder/app-verwaltung/die-vorschau-einer-app-anzeigen-lassen" >}}) la aplicación en el modo de edición.
 
 ## Cambiar la configuración de una aplicación universal
 
@@ -44,7 +44,7 @@ Dentro de una aplicación universal, puede realizar varios **ajustes globales**.
 
 ![Abra la configuración de la aplicación universal](images/global-settings-universal-app.png)
 
-[Obtenga más información sobre la configuración global de la aplicación universal aquí.](https://seatable.io/es/docs/apps/einstellungen-einer-universellen-app-aendern/)
+[Obtenga más información sobre la configuración global de la aplicación universal aquí.]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}})
 
 ## Guardar versiones de una aplicación universal
 

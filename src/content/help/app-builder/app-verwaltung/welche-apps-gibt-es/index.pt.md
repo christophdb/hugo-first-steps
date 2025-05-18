@@ -20,7 +20,7 @@ Existem atualmente **dois** tipos diferentes de aplicações disponíveis no Sea
 
 ![A aplicação universal](images/universal-app-preview.png)
 
-Com a **aplicação universal**, pode dar asas à sua criatividade. A aplicação tem uma série de [tipos de páginas](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/) com as quais pode apresentar os seus dados sob a forma de **tabelas**, **formulários Web**, **calendários** ou **quadros Kanban**, entre outras coisas. Ao criar uma **página individual**, pode também criar painéis de controlo com **estatísticas** significativas a partir dos seus dados e partilhá-los com outros utilizadores (externos).
+Com a **aplicação universal**, pode dar asas à sua criatividade. A aplicação tem uma série de [tipos de páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) com as quais pode apresentar os seus dados sob a forma de **tabelas**, **formulários Web**, **calendários** ou **quadros Kanban**, entre outras coisas. Ao criar uma **página individual**, pode também criar painéis de controlo com **estatísticas** significativas a partir dos seus dados e partilhá-los com outros utilizadores (externos).
 
 [Saiba mais sobre a aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 

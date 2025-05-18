@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 ---
 
-En una Universal App, puede crear tantas **páginas** y **carpetas** como desee para que los datos de una base sean accesibles a un grupo específico de usuarios, para organizarlos y presentarlos de forma atractiva. Hay una variedad de [tipos de páginas](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/) que ya conoce de otros lugares en SeaTable y que puede crear en su Universal App con sólo unos clics.
+En una Universal App, puede crear tantas **páginas** y **carpetas** como desee para que los datos de una base sean accesibles a un grupo específico de usuarios, para organizarlos y presentarlos de forma atractiva. Hay una variedad de [tipos de páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) que ya conoce de otros lugares en SeaTable y que puede crear en su Universal App con sólo unos clics.
 
 {{< warning  headline="Autorización necesaria en el grupo"  text="Para poder editar una app, debes ser el **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. **Los miembros del** grupo simple sólo pueden ver y utilizar las apps." />}}
 
@@ -27,7 +27,7 @@ En una Universal App, puede crear tantas **páginas** y **carpetas** como desee 
 
 ![Añadir página de aplicación](images/Add-app-page.png)
 
-8. Seleccione uno de los [tipos de página](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/) y haga clic en **Siguiente**.
+8. Seleccione uno de los [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) y haga clic en **Siguiente**.
 
 ![Añadir página de aplicación y seleccionar el tipo de página](images/Add-app-page-and-select-page-type.png)
 

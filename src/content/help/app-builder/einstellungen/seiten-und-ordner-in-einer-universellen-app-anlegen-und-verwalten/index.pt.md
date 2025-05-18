@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 ---
 
-Numa aplicação universal, pode criar tantas **páginas** e **pastas** quantas desejar para tornar os dados de uma base acessíveis a um grupo de utilizadores específico, para os organizar e para os apresentar de forma apelativa. Existe uma variedade de [tipos de páginas](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/) que já conhece de outros locais no SeaTable e que pode criar na sua aplicação universal com apenas alguns cliques.
+Numa aplicação universal, pode criar tantas **páginas** e **pastas** quantas desejar para tornar os dados de uma base acessíveis a um grupo de utilizadores específico, para os organizar e para os apresentar de forma apelativa. Existe uma variedade de [tipos de páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) que já conhece de outros locais no SeaTable e que pode criar na sua aplicação universal com apenas alguns cliques.
 
 {{< warning  headline="Autorização necessária no grupo"  text="Para poder editar uma aplicação, tem de ser o **proprietário** ou **administrador do grupo** em que a **base** subjacente se encontra. **Os membros** simples **do grupo** só podem ver e utilizar as aplicações." />}}
 
@@ -27,7 +27,7 @@ Numa aplicação universal, pode criar tantas **páginas** e **pastas** quantas 
 
 ![Adicionar página de aplicação](images/Add-app-page.png)
 
-8. Selecione um dos [tipos de página](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/) e clique em **Seguinte**.
+8. Selecione um dos [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) e clique em **Seguinte**.
 
 ![Adicionar página de aplicação e selecionar o tipo de página](images/Add-app-page-and-select-page-type.png)
 

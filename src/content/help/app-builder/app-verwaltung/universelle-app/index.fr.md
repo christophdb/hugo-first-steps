@@ -30,13 +30,13 @@ Une application universelle se compose de plusieurs **pages** que vous pouvez re
 
 [Apprenez ici comment ajouter de nouvelles pages et de nouveaux dossiers à votre application universelle]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-Afin de présenter les données de manière attrayante dans votre base, l'application universelle propose un grand nombre de [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) avec différents éléments de présentation.
+Afin de présenter les données de manière attrayante dans votre base, l'application universelle propose un grand nombre de [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) avec différents éléments de présentation.
 
 ![Types de pages Application universelle](images/Seitentypen-Universal-App.png)
 
 ## Aperçu d'une application universelle
 
-Lors de la conception d'une application universelle, vous souhaitez certainement tester de temps en temps l'aspect de l'application pour les utilisateurs. Pour cela, il vous suffit d'[afficher](https://seatable.io/fr/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) l'[aperçu de l'application](https://seatable.io/fr/docs/apps/die-vorschau-einer-app-anzeigen-lassen/) en mode édition.
+Lors de la conception d'une application universelle, vous souhaitez certainement tester de temps en temps l'aspect de l'application pour les utilisateurs. Pour cela, il vous suffit d'[afficher]({{< relref "help/app-builder/app-verwaltung/die-vorschau-einer-app-anzeigen-lassen" >}}) en mode édition.
 
 ## Modifier les paramètres d'une application universelle
 
@@ -44,7 +44,7 @@ Au sein d'une appli universelle, vous pouvez effectuer différents **réglages g
 
 ![Ouvrir les paramètres de l'appli universelle](images/global-settings-universal-app.png)
 
-[En savoir plus sur les paramètres globaux de l'application universelle ici.](https://seatable.io/fr/docs/apps/einstellungen-einer-universellen-app-aendern/)
+[En savoir plus sur les paramètres globaux de l'application universelle ici.]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}})
 
 ## Enregistrer les versions d'une application universelle
 

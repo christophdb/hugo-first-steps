@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 ---
 
-In einer Universellen App können Sie beliebig viele **Seiten** und **Ordner** erstellen, um die Daten in einer Base für eine bestimmte Nutzergruppe zugänglich zu machen, zu ordnen und ansprechend aufzubereiten. Es gibt dazu eine Vielzahl an [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/), die Sie schon von anderen Stellen in SeaTable kennen und mit nur wenigen Klicks in Ihrer Universellen App anlegen können.
+In einer Universellen App können Sie beliebig viele **Seiten** und **Ordner** erstellen, um die Daten in einer Base für eine bestimmte Nutzergruppe zugänglich zu machen, zu ordnen und ansprechend aufzubereiten. Es gibt dazu eine Vielzahl an [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), die Sie schon von anderen Stellen in SeaTable kennen und mit nur wenigen Klicks in Ihrer Universellen App anlegen können.
 
 {{< warning  type="warning" headline="Berechtigung in der Gruppe erforderlich"  text="Um eine App bearbeiten zu können, müssen Sie **Eigentümer** oder **Administrator der Gruppe** sein, in der sich die zugrundeliegende **Base** befindet. Einfache **Gruppenmitglieder** können die Apps lediglich ansehen und nutzen." />}}
 
@@ -19,7 +19,7 @@ In einer Universellen App können Sie beliebig viele **Seiten** und **Ordner** e
    ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
    ![Apps bearbeiten](images/Apps-bearbeiten.png)6. Klicken Sie auf **Seite oder Ordner hinzufügen** und wählen Sie im Anschluss **Seite hinzufügen** aus.
 
-![Add app page](images/Add-app-page.png) 8. Wählen Sie einen der [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) aus und klicken Sie auf **Weiter**.
+![Add app page](images/Add-app-page.png) 8. Wählen Sie einen der [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) aus und klicken Sie auf **Weiter**.
 
 ![Add app page and select page type](images/Add-app-page-and-select-page-type.png) 10. Geben Sie der Seite einen **Namen**, definieren Sie die zugrundeliegende **Tabelle** und legen Sie optional ein **Icon** für die Seite fest.
 
