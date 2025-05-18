@@ -12,7 +12,7 @@ Dans SeaTable, vous pouvez utiliser la **colonne des nombres de** manière polyv
 
 ## Champ d'application de la colonne des nombres
 
-L'utilisation de **colonnes de chiffres** vous permet par exemple de **calculer des valeurs** que vous pouvez visualiser à l'aide de formules et de [statistiques](https://seatable.io/fr/docs/seatable-nutzen/statistiken/). Elle ne convient toutefois pas pour enregistrer des chaînes de caractères aussi longues que vous le souhaitez (par exemple des numéros de compte), car les chiffres supérieurs à 15 sont arrondis. Dans ce cas, vous devriez utiliser la [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+L'utilisation de **colonnes de chiffres** vous permet par exemple de **calculer des valeurs** que vous pouvez visualiser à l'aide de formules et de [statistiques]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 En outre, SeaTable propose d'autres colonnes qui correspondent parfois mieux aux valeurs que vous avez indiquées.
 

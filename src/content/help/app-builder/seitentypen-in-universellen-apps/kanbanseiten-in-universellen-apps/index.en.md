@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/kanbanseiten-in-universellen-apps'
 ---
 
-This page type works in a similar way to the [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/) and offers you the option of displaying entries as index cards on a **Kanban board**. A specific use case could be the **visualization of workflows and project progress**, for example.
+This page type works in a similar way to the [Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) and offers you the option of displaying entries as index cards on a **Kanban board**. A specific use case could be the **visualization of workflows and project progress**, for example.
 
 ![Kanban pages in universal apps](images/Kanbanseiten-in-Universellen-Apps.png)
 

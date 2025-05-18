@@ -27,7 +27,7 @@ Es posible cambiar el tipo de columna posteriormente. Aquí puede averiguar cóm
 
 La **primera columna** de una tabla **sólo** admite **6 de los 25 tipos de columnas**. Éstos son
 
-- [Texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Número](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Selección individual](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
@@ -36,4 +36,4 @@ La **primera columna** de una tabla **sólo** admite **6 de los 25 tipos de colu
 
 ## Aviso de pérdida de datos
 
-La **conversión** de determinados tipos de columnas suele provocar **pérdidas de datos** no deseadas. Este es el caso, por ejemplo, de las columnas de [archivos]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) o cuando convierte [columnas de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) en columnas numéricas. En estos casos, SeaTable muestra un **mensaje de advertencia** preguntando si realmente desea cambiar el tipo de columna.
+La **conversión** de determinados tipos de columnas suele provocar **pérdidas de datos** no deseadas. Este es el caso, por ejemplo, de las columnas de [archivos]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) o cuando convierte [columnas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) en columnas numéricas. En estos casos, SeaTable muestra un **mensaje de advertencia** preguntando si realmente desea cambiar el tipo de columna.

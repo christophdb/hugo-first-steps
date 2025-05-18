@@ -59,4 +59,4 @@ Pour les types de colonnes suivants, la ligne d'état ne donne **pas** de valeur
 - [Colonnes de dates]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Créé]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Numéro automatique](https://seatable.io/fr/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- Chiffres dans [les colonnes de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- Chiffres dans [les colonnes de texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

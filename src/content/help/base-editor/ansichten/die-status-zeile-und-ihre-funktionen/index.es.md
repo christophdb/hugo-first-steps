@@ -59,4 +59,4 @@ Para los siguientes tipos de columnas, la línea de estado **no** refleja un val
 - [Columnas de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Creado]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) vez
 - [Número automático](https://seatable.io/es/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- Números en [columnas de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- Números en [columnas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

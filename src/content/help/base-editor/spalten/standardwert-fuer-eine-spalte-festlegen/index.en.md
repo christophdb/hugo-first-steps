@@ -59,7 +59,7 @@ Default values can be defined for many, but not all, [column types in SeaTable](
 
 ## Referenced default values in text columns
 
-If you specify the reference **{creator.name}** or **{creator.id}** as the default value in a [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), the **name** or **ID of the user** who added the row is automatically entered.
+If you specify the reference **{creator.name}** or **{creator.id}** as the default value in a [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), the **name** or **ID of the user** who added the row is automatically entered.
 
 ![Referencing the user name with a default value](images/Set-creator-name-as-default-value.png)
 
@@ -71,7 +71,7 @@ The default values apply **wherever** you can create new rows :
 - in a [link column]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - via [button](https://seatable.io/en/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (action: "Copyrow to another table")
 - via [automation](https://seatable.io/en/docs/automationen/automations-aktionen/) (actions: "Addrow " and "Add new entry in another table")
-- in the [calendar](https://seatable.io/en/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [gallery](https://seatable.io/en/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) or [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/)
+- in the [calendar]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - via [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - on [table]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [form](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) and [Kanban pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) of apps
 

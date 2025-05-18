@@ -28,7 +28,7 @@ En la [línea de estado]({{< relref "help/base-editor/ansichten/die-status-zeile
 
 Utilice el módulo estadístico de SeaTable para crear diagramas y visualizar cifras. Permite realizar análisis más complejos que en la vista de tabla. También ofrece una amplia gama de opciones de visualización gráfica con diversos tipos de gráficos compatibles.
 
-Encontrará información completa sobre las opciones de análisis estadístico en [las instrucciones del módulo estadístico](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/).
+Encontrará información completa sobre las opciones de análisis estadístico en [las instrucciones del módulo estadístico]({{< relref "help/base-editor/statistiken/statistiken" >}}).
 
 ## Vistas avanzadas
 

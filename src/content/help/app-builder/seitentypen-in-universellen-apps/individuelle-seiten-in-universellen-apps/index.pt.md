@@ -48,7 +48,7 @@ Os elementos de texto são particularmente adequados para **títulos** ou **text
 
 ### Texto formatado
 
-Como o nome sugere, pode utilizar elementos de texto formatado para **formatar textos mais longos**. Isto abre o editor de texto que já conhece do tipo de coluna [Texto formatado](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+Como o nome sugere, pode utilizar elementos de texto formatado para **formatar textos mais longos**. Isto abre o editor de texto que já conhece do tipo de coluna [Texto formatado]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ![Textos formatados em páginas individuais](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 
@@ -104,7 +104,7 @@ Numa página individual da sua aplicação, pode visualizar os dados da base sub
 
 ### Definições de dados
 
-A **configuração das estatísticas** é muito semelhante à do [módulo de estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/) do Base. Em primeiro lugar, seleccione a **tabela** a partir da qual as estatísticas devem apresentar os dados. Pode alterar o **tipo de gráfico** clicando nas **setas opostas**.
+A **configuração das estatísticas** é muito semelhante à do [módulo de estatísticas]({{< relref "help/base-editor/statistiken/statistiken" >}}) do Base. Em primeiro lugar, seleccione a **tabela** a partir da qual as estatísticas devem apresentar os dados. Pode alterar o **tipo de gráfico** clicando nas **setas opostas**.
 
 ![](images/Elementeinstellungen-fuer-Statistiken-auf-individuellen-Seiten.png)
 

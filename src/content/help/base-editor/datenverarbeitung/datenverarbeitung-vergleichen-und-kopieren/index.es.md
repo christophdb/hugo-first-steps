@@ -59,7 +59,7 @@ En el siguiente paso, puede seleccionar cualquier número de columnas de origen 
 
 {{< warning  headline="Cuidado con la pérdida de datos" >}}
 
-Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) en [una columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), pero entonces ya no servirán para [calendarios](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
+Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) en [una columna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), pero entonces ya no servirán para [calendarios](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
 
 {{< /warning >}}
 

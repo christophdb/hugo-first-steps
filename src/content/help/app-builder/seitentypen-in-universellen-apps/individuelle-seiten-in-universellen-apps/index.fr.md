@@ -48,7 +48,7 @@ Vous pouvez définir de nombreux paramètres dans les paramètres des éléments
 
 ### Texte formaté
 
-Les éléments de texte formaté vous permettent, comme leur nom l'indique, de **formater des textes plus longs**. Pour cela, l'éditeur de texte que vous connaissez déjà du type de colonne [Texte formaté](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) s'ouvre.
+Les éléments de texte formaté vous permettent, comme leur nom l'indique, de **formater des textes plus longs**. Pour cela, l'éditeur de texte que vous connaissez déjà du type de colonne [Texte formaté]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) s'ouvre.
 
 ![Textes formatés sur des pages individuelles](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 
@@ -104,7 +104,7 @@ Sur une page individuelle de votre application, vous pouvez illustrer les donné
 
 ### Paramètres de données
 
-La **configuration des statistiques** présente de nombreuses similitudes avec le [module statistique](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/) de la base. Sélectionnez d'abord le **tableau** à partir duquel les statistiques doivent représenter les données. En cliquant sur les **flèches opposées**, vous pouvez modifier le **type de graphique**.
+La **configuration des statistiques** présente de nombreuses similitudes avec le [module statistique]({{< relref "help/base-editor/statistiken/statistiken" >}}) de la base. Sélectionnez d'abord le **tableau** à partir duquel les statistiques doivent représenter les données. En cliquant sur les **flèches opposées**, vous pouvez modifier le **type de graphique**.
 
 ![](images/Elementeinstellungen-fuer-Statistiken-auf-individuellen-Seiten.png)
 

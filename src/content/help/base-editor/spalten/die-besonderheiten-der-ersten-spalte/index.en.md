@@ -32,7 +32,7 @@ The **first column** of a table in SeaTable has several special features and res
 
 There are only **six column types** to choose from for the **first** **column**:
 
-- [Text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Number](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Single selection](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
 ---
 
-Las fórmulas de SeaTable le ofrecen diferentes maneras de trabajar con los datos de sus tablas. Una posibilidad es buscar **palabras en un** texto. Introduciendo la fórmula correspondiente, puede buscar automáticamente cualquier palabra en una [columna de](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) texto y obtener una sugerencia -por ejemplo, "palabra encontrada/no encontrada"- escrita como resultado en una columna de fórmulas de su tabla.
+Las fórmulas de SeaTable le ofrecen diferentes maneras de trabajar con los datos de sus tablas. Una posibilidad es buscar **palabras en un** texto. Introduciendo la fórmula correspondiente, puede buscar automáticamente cualquier palabra en una [columna de]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) texto y obtener una sugerencia -por ejemplo, "palabra encontrada/no encontrada"- escrita como resultado en una columna de fórmulas de su tabla.
 
 ## Buscar una palabra en un texto
 

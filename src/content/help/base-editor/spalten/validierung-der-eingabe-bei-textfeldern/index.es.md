@@ -10,7 +10,11 @@ url: '/es/ayuda/validierung-der-eingabe-bei-textfeldern'
 
 Cuando utilice columnas de texto en sus tablas, tiene la opción de validar las entradas. Mediante la validación, que admite expresiones regulares, puede comprobar los valores de las celdas y resaltar las celdas cuyo contenido se desvíe del formato válido.
 
-{{< warning  headline="Nota"  text="Básicamente, hay dos formas diferentes de validar las entradas en las columnas de texto. La validación puede realizarse tanto al **añadir una nueva** [columna](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_text-spalte) de texto como después para [columnas](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_text-spalte) de texto **ya creadas**." />}}
+{{< warning  headline="Nota" >}}
+
+Básicamente, hay dos formas diferentes de validar las entradas en las columnas de texto. La validación puede realizarse tanto al **añadir una nueva** [columna]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) de texto **ya creadas**.
+
+{{< /warning >}}
 
 ## Validar entradas
 

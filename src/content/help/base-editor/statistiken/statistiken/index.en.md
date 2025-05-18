@@ -26,7 +26,7 @@ You can perform various **operations** using the [data processing function]({{< 
 
 For more extensive data evaluations, SeaTable offers you various statistics. As with the views, you can of course save your statistical evaluations in order to access them at any time in the future.
 
-With the [statistics module](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/), you can visualize data in **diagrams** or evaluate it in detail using **pivot tables**. You can create and save any number of such evaluations in each base.
+With the [statistics module]({{< relref "help/base-editor/statistiken/statistiken" >}}), you can visualize data in **diagrams** or evaluate it in detail using **pivot tables**. You can create and save any number of such evaluations in each base.
 
 Charts and pivot tables are managed on the dashboard of the statistics module. All charts and pivot tables created are saved there and are available for retrieval at any time. All existing statistics are **automatically updated** when you change data in the table. So you never have to think about updating the statistics - SeaTable does it for you!
 
@@ -40,4 +40,4 @@ The statistics module supports a variety of **chart types**, for example:
 - Line charts (for the representation of a value over time)
 - Pie charts (for simple visualisation of proportions)
 
-Use the [instructions for the statistics module](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/) to create **a new diagram** step by step. Due to the simplicity of some chart types, the setting options there are limited compared to the other types.
+Use the [instructions for the statistics module]({{< relref "help/base-editor/statistiken/statistiken" >}}) to create **a new diagram** step by step. Due to the simplicity of some chart types, the setting options there are limited compared to the other types.

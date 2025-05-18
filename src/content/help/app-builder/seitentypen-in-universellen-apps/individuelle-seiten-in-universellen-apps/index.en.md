@@ -48,7 +48,7 @@ You can define numerous parameters in the element settings:
 
 ### Formatted text
 
-As the name suggests, you can use formatted text elements to **format longer texts**. This opens the text editor that you already know from the [formatted text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) column type.
+As the name suggests, you can use formatted text elements to **format longer texts**. This opens the text editor that you already know from the [formatted text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) column type.
 
 ![Formatted texts on individual pages](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 
@@ -104,7 +104,7 @@ On an individual page of your app, you can visualize the data from the underlyin
 
 ### Data settings
 
-The **configuration of statistics** is very similar to the [statistics module](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/) in Base. First select the **table** from which the statistics should display data. You can change the **chart type** by clicking on the **opposite arrows**.
+The **configuration of statistics** is very similar to the [statistics module]({{< relref "help/base-editor/statistiken/statistiken" >}}) in Base. First select the **table** from which the statistics should display data. You can change the **chart type** by clicking on the **opposite arrows**.
 
 ![](images/Elementeinstellungen-fuer-Statistiken-auf-individuellen-Seiten.png)
 

@@ -59,7 +59,7 @@ Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de 
 
 ## Valores por defecto referenciados en columnas de texto
 
-Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto en una [columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), el **nombre** o **ID del usuario** que añadió la línea se introduce automáticamente.
+Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto en una [columna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), el **nombre** o **ID del usuario** que añadió la línea se introduce automáticamente.
 
 ![Referenciar el nombre de usuario con un valor por defecto](images/Set-creator-name-as-default-value.png)
 
@@ -71,7 +71,7 @@ Los valores por defecto se aplican **siempre que** se puedan crear nuevas línea
 - en una [columna de enlaces]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - mediante [un botón](https://seatable.io/es/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (acción: "Copiar fila a otra tabla")
 - mediante [automatización](https://seatable.io/es/docs/automationen/automations-aktionen/) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")
-- en el [calendario](https://seatable.io/es/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), la [galería](https://seatable.io/es/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) o el [plugin Kanban](https://seatable.io/es/docs/plugins/anleitung-zum-kanban-plugin/)
+- en el [calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - mediante [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - en las [páginas de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) y [Kanban](https://seatable.io/es/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) de las aplicaciones
 

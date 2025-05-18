@@ -28,7 +28,7 @@ A visualização da tabela é particularmente adequada para exibir dados baseado
 
 Utilize o módulo estatístico SeaTable para criar diagramas e visualizar números. Permite análises mais complexas do que é possível na vista de tabela. Oferece também uma vasta gama de opções de visualização gráfica com uma variedade de tipos de gráficos suportados.
 
-Para obter informações completas sobre as opções de análise estatística, consulte as [instruções do módulo de estatística](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/).
+Para obter informações completas sobre as opções de análise estatística, consulte as [instruções do módulo de estatística]({{< relref "help/base-editor/statistiken/statistiken" >}}).
 
 ## Vistas avançadas
 

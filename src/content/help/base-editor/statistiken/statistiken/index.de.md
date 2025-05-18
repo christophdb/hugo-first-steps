@@ -27,7 +27,7 @@ Mithilfe der [Datenverarbeitungsfunktion]({{< relref "help/base-editor/datenvera
 
 Für umfangreichere Datenauswertungen bietet SeaTable Ihnen verschiedene Statistiken. Wie bei den Ansichten können Sie Ihre statistischen Auswertungen natürlich festhalten, um in Zukunft jederzeit darauf zurückzugreifen.
 
-Mit dem [Statistik-Modul](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/) können Sie Daten in **Diagrammen** visualisieren oder mittels **Pivot-Tabellen** detailliert auswerten. In jeder Base können Sie eine beliebige Anzahl solcher Auswertungen erstellen und speichern.
+Mit dem [Statistik-Modul]({{< relref "help/base-editor/statistiken/statistiken" >}}) können Sie Daten in **Diagrammen** visualisieren oder mittels **Pivot-Tabellen** detailliert auswerten. In jeder Base können Sie eine beliebige Anzahl solcher Auswertungen erstellen und speichern.
 
 Die Verwaltung von Diagrammen und Pivot-Tabellen erfolgt auf dem Dashboard des Statistik-Moduls. Alle erstellten Diagramme und Pivot-Tabellen werden dort gespeichert und stehen jederzeit für den erneuten Abruf bereit. Alle bestehenden Statistiken werden **automatisch aktualisiert**, wenn Sie Daten in der Tabelle ändern. Sie müssen also nie an die Aktualisierung der Statistiken denken – das macht SeaTable für Sie!
 
@@ -41,4 +41,4 @@ Das Statistik-Modul unterstützt eine Vielzahl an **Diagrammtypen**, zum Beispie
 - Liniendiagramme (für die die Darstellung eines Werts im zeitlichen Verlauf)
 - Kuchendiagramme (für die einfache Visualisierung von Anteilen)
 
-Nehmen Sie die [Anleitung zum Statistik-Modul](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/) zur Hand, um Schritt für Schritt **ein neues Diagramm zu erstellen**. Aufgrund der Einfachheit mancher Diagrammtypen sind dort die Einstellungsmöglichkeiten im Vergleich zu den anderen Typen begrenzt.
+Nehmen Sie die [Anleitung zum Statistik-Modul]({{< relref "help/base-editor/statistiken/statistiken" >}}) zur Hand, um Schritt für Schritt **ein neues Diagramm zu erstellen**. Aufgrund der Einfachheit mancher Diagrammtypen sind dort die Einstellungsmöglichkeiten im Vergleich zu den anderen Typen begrenzt.

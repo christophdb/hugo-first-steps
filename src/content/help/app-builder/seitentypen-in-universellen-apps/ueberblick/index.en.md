@@ -58,7 +58,7 @@ This page type works something like the [calendar plugin]({{< relref "help/base-
 
 ## Page type: Custom page
 
-With this page type, you can let your creativity run wild and build a **custom page** just the way you want it. Add **text** and **images** to your page or use [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/) to create meaningful **dashboards** with the data from your base.
+With this page type, you can let your creativity run wild and build a **custom page** just the way you want it. Add **text** and **images** to your page or use [statistics]({{< relref "help/base-editor/statistiken/statistiken" >}}) to create meaningful **dashboards** with the data from your base.
 
 ![Management dashboard in the working time recording app](images/Dashboard_2.gif)
 
@@ -66,7 +66,7 @@ With this page type, you can let your creativity run wild and build a **custom p
 
 ## Page type: Kanban
 
-This page type works in a similar way to the [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/) and allows you to display entries as index cards on a **Kanban board**. To do this, specify the column by which the entries should be **grouped**. A specific use case could be the **visualization of workflows and project progress**, for example.
+This page type works in a similar way to the [Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) and allows you to display entries as index cards on a **Kanban board**. To do this, specify the column by which the entries should be **grouped**. A specific use case could be the **visualization of workflows and project progress**, for example.
 
 ![Use case of the page type: Kanban](images/example-kanban-page-3.png)
 

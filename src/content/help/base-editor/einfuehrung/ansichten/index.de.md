@@ -29,7 +29,7 @@ In der [Status-Zeile]({{< relref "help/base-editor/ansichten/die-status-zeile-un
 
 Für die Erstellung von Diagrammen und die Visualisierung von Zahlen nutzen Sie das Statistik-Modul von SeaTable. Es erlaubt kompliziertere Auswertungen, als dies in der Tabellen-Ansicht möglich ist. Darüber hinaus bietet es mit einer Vielzahl unterstützter Diagrammtypen vielfältige graphische Darstellungsmöglichkeiten.
 
-Umfangreiche Informationen über die statistischen Auswertungsmöglichkeiten finden Sie in der [Anleitung zum Statistik-Modul](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/).
+Umfangreiche Informationen über die statistischen Auswertungsmöglichkeiten finden Sie in der [Anleitung zum Statistik-Modul]({{< relref "help/base-editor/statistiken/statistiken" >}}).
 
 ## Erweiterte Ansichten
 

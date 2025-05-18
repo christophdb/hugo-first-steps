@@ -28,7 +28,7 @@ In the [Status-row]({{< relref "help/base-editor/ansichten/die-status-zeile-und-
 
 To create diagrams and visualize numbers, use SeaTable's statistics module. It allows for more complicated evaluations than is possible in the table view. In addition, it offers a wide range of graphical display options with a variety of supported chart types.
 
-Extensive information about the statistical evaluation options can be found in the [instructions for the statistics module](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/).
+Extensive information about the statistical evaluation options can be found in the [instructions for the statistics module]({{< relref "help/base-editor/statistiken/statistiken" >}}).
 
 ## Advanced views
 

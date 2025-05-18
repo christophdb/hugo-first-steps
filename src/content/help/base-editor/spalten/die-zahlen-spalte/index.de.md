@@ -12,7 +12,7 @@ In SeaTable können Sie die **Zahlen-Spalte** vielseitig nutzen, um mit Zahlen j
 
 ## Anwendungsgebiet der Zahlen-Spalte
 
-Die Verwendung von **Zahlen-Spalten** ermöglicht Ihnen beispielsweise die **Berechnung von Werten**, die Sie mit Formeln und [Statistiken](https://seatable.io/docs/seatable-nutzen/statistiken/) visualisieren können. Allerdings eignet sie sich nicht zum Speichern beliebig langer Zeichenfolgen (z. B. Kontonummern), da bei über 15 Ziffern gerundet wird. In diesem Fall sollten Sie die [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) verwenden.
+Die Verwendung von **Zahlen-Spalten** ermöglicht Ihnen beispielsweise die **Berechnung von Werten**, die Sie mit Formeln und [Statistiken]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) verwenden.
 
 Darüber hinaus bietet SeaTable andere Spalten an, die manchmal besser zu Ihren angegebenen Werten passen.
 

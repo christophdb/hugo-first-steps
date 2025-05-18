@@ -27,7 +27,7 @@ Dependendo dos **valores** que pretende registar no SeaTable, pode atribuir-lhes
 
 A **primeira coluna** de uma tabela suporta **apenas 6 dos 25 tipos de coluna**. Estes são
 
-- [Texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Número](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Selecção única](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
@@ -36,4 +36,4 @@ A **primeira coluna** de uma tabela suporta **apenas 6 dos 25 tipos de coluna**.
 
 ## Aviso de perda de dados
 
-**A conversão de** certos tipos de colunas conduz normalmente a uma **perda** indesejada de **dados**. É o caso, por exemplo, das colunas [de ficheiros]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) ou quando converte [colunas de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) em colunas numéricas. Nestes casos, o SeaTable apresenta uma **mensagem de aviso** a perguntar se pretende realmente alterar o tipo de coluna.
+**A conversão de** certos tipos de colunas conduz normalmente a uma **perda** indesejada de **dados**. É o caso, por exemplo, das colunas [de ficheiros]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) ou quando converte [colunas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) em colunas numéricas. Nestes casos, o SeaTable apresenta uma **mensagem de aviso** a perguntar se pretende realmente alterar o tipo de coluna.

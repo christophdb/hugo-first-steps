@@ -12,7 +12,7 @@ No SeaTable pode utilizar a **coluna de números** de muitas maneiras para traba
 
 ## Área de aplicação da coluna de números
 
-A utilização de **colunas numéricas** permite, por exemplo, **calcular valores** que podem ser visualizados com fórmulas e [estatísticas](https://seatable.io/pt/docs/seatable-nutzen/statistiken/). No entanto, não é adequada para guardar cadeias de caracteres de qualquer comprimento (por exemplo, números de conta), uma vez que ocorre um arredondamento com mais de 15 dígitos. Neste caso, deve ser utilizada a [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+A utilização de **colunas numéricas** permite, por exemplo, **calcular valores** que podem ser visualizados com fórmulas e [estatísticas]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 Além disso, o SeaTable oferece outras colunas que por vezes se ajustam melhor aos seus valores dados.
 

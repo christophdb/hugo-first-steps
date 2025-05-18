@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 ---
 
-Sie möchten herausfinden, **wer** eine Zeile hinzugefügt hat? Dann legen Sie eine Spalte des Typs [Ersteller]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/) an. Hier steht unveränderlich der **Name des Benutzers**, der die Spalte erstellt hat.
+Sie möchten herausfinden, **wer** eine Zeile hinzugefügt hat? Dann legen Sie eine Spalte des Typs [Ersteller]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) an. Hier steht unveränderlich der **Name des Benutzers**, der die Spalte erstellt hat.
 
 ## Die Ersteller-Spalte anlegen
 

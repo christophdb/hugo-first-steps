@@ -60,7 +60,7 @@ Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in Sea
 
 ## Referenzierte Standardwerte in Text-Spalten
 
-Wenn Sie als Standardwert in einer [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
+Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
 
 ![Mit einem Standardwert auf den Benutzernamen referenzieren](images/Set-creator-name-as-default-value.png)
 
@@ -72,7 +72,7 @@ Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 - in einer [Link-Spalte]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - per [Schaltfläche](https://seatable.io/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (Aktion: „Zeile in andere Tabelle kopieren“)
 - per [Automation](https://seatable.io/docs/automationen/automations-aktionen/) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
-- im [Kalender-](https://seatable.io/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [Galerie-](https://seatable.io/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) oder [Kanban-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kanban-plugin/)
+- im [Kalender-]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - über [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - auf [Tabellen-]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [Formular-](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) und [Kanbanseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) von Apps
 

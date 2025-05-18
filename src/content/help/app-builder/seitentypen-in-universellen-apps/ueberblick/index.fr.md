@@ -58,7 +58,7 @@ Ce type de page fonctionne de manière similaire au [plug-in calendrier]({{< rel
 
 ## Type de page : Page individuelle
 
-Avec ce type de page, vous pouvez laisser libre cours à votre créativité et construire une **page personnalisée** selon vos souhaits. Insérez **des textes** et **des images** dans votre page ou utilisez [des statistiques](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/) pour créer **des tableaux de bord** pertinents à partir des données de votre base.
+Avec ce type de page, vous pouvez laisser libre cours à votre créativité et construire une **page personnalisée** selon vos souhaits. Insérez **des textes** et **des images** dans votre page ou utilisez [des statistiques]({{< relref "help/base-editor/statistiken/statistiken" >}}) pour créer **des tableaux de bord** pertinents à partir des données de votre base.
 
 ![Tableau de bord de gestion dans l'application de saisie du temps de travail](images/Dashboard_2.gif)
 
@@ -66,7 +66,7 @@ Avec ce type de page, vous pouvez laisser libre cours à votre créativité et c
 
 ## Type de page : Kanban
 
-Ce type de page fonctionne de manière similaire au [plug-in Kanban](https://seatable.io/fr/docs/plugins/anleitung-zum-kanban-plugin/) et vous offre la possibilité d'afficher les entrées sous forme de fiches sur un **tableau Kanban**. Pour ce faire, définissez selon quelle colonne les entrées doivent être **regroupées**. Une application concrète pourrait être par exemple la **visualisation des workflows et de l'avancement du projet**.
+Ce type de page fonctionne de manière similaire au [plug-in Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) et vous offre la possibilité d'afficher les entrées sous forme de fiches sur un **tableau Kanban**. Pour ce faire, définissez selon quelle colonne les entrées doivent être **regroupées**. Une application concrète pourrait être par exemple la **visualisation des workflows et de l'avancement du projet**.
 
 ![Cas d'utilisation du type de page : Kanban](images/example-kanban-page-3.png)
 

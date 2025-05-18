@@ -27,7 +27,7 @@ It is possible to change the column type at a later date. Here you can find out 
 
 The **first column** in a table **only** supports **6 of the 25 column types**. These are
 
-- [Text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Number](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Single selection](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
@@ -36,4 +36,4 @@ The **first column** in a table **only** supports **6 of the 25 column types**. 
 
 ## Data loss warning
 
-**Converting** certain types of columns usually results in unwanted **data loss**. This is the case, for example, with [file]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) columns or when you convert [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) to numeric columns. In these cases SeaTable will show you the **warning message** if you really want to change the column type.
+**Converting** certain types of columns usually results in unwanted **data loss**. This is the case, for example, with [file]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) columns or when you convert [text columns]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) to numeric columns. In these cases SeaTable will show you the **warning message** if you really want to change the column type.

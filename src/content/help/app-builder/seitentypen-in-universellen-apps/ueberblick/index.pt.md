@@ -58,7 +58,7 @@ Este tipo de página funciona de forma semelhante ao [plugin de calendário]({{<
 
 ## Tipo de página: Página individual
 
-Com este tipo de página, pode dar asas à sua criatividade e construir uma **página individual** de acordo com os seus desejos. Adicione **texto** e **imagens** à sua página ou utilize [estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/) para criar **painéis de controlo** significativos com os dados da sua base.
+Com este tipo de página, pode dar asas à sua criatividade e construir uma **página individual** de acordo com os seus desejos. Adicione **texto** e **imagens** à sua página ou utilize [estatísticas]({{< relref "help/base-editor/statistiken/statistiken" >}}) para criar **painéis de controlo** significativos com os dados da sua base.
 
 ![Painel de gestão na aplicação de registo do tempo de trabalho](images/Dashboard_2.gif)
 
@@ -66,7 +66,7 @@ Com este tipo de página, pode dar asas à sua criatividade e construir uma **p�
 
 ## Tipo de página: Kanban
 
-Este tipo de página funciona de forma semelhante ao [plugin Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/) e permite-lhe apresentar entradas como cartões de índice num **quadro Kanban**. Para o efeito, especifique a coluna pela qual as entradas devem ser **agrupadas**. Um caso de utilização específico pode ser a **visualização de fluxos de trabalho e do progresso do projeto**, por exemplo.
+Este tipo de página funciona de forma semelhante ao [plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) e permite-lhe apresentar entradas como cartões de índice num **quadro Kanban**. Para o efeito, especifique a coluna pela qual as entradas devem ser **agrupadas**. Um caso de utilização específico pode ser a **visualização de fluxos de trabalho e do progresso do projeto**, por exemplo.
 
 ![Caso de utilização do tipo de página: Kanban](images/example-kanban-page-3.png)
 

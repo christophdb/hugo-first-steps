@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/kanbanseiten-in-universellen-apps'
 ---
 
-Dieser Seitentyp funktioniert so ähnlich wie das [Kanban-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kanban-plugin/) und bietet Ihnen die Möglichkeit, Einträge als Karteikarten auf einem **Kanban-Board** darzustellen. Ein konkreter Anwendungsfall könnte beispielsweise die **Visualisierung von Workflows und Projektfortschritten** sein.
+Dieser Seitentyp funktioniert so ähnlich wie das [Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) und bietet Ihnen die Möglichkeit, Einträge als Karteikarten auf einem **Kanban-Board** darzustellen. Ein konkreter Anwendungsfall könnte beispielsweise die **Visualisierung von Workflows und Projektfortschritten** sein.
 
 ![Kanbanseiten in Universellen Apps](images/Kanbanseiten-in-Universellen-Apps.png)
 

@@ -59,4 +59,4 @@ For the following column types, the status-row **does not** reflect a calculated
 - [Date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Created]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- Numbers in [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- Numbers in [text columns]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

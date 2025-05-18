@@ -26,7 +26,7 @@ La [fonction de traitement des données]({{< relref "help/base-editor/datenverar
 
 Pour des analyses de données plus complètes, SeaTable vous propose différentes statistiques. Comme pour les vues, vous pouvez bien sûr enregistrer vos analyses statistiques afin de pouvoir y accéder à tout moment à l'avenir.
 
-Le [module Statistiques](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/) vous permet de visualiser des données dans des **diagrammes** ou de les évaluer en détail au moyen de **tableaux croisés dynamiques**. Dans chaque base, vous pouvez créer et enregistrer autant d'évaluations de ce type que vous le souhaitez.
+Le [module Statistiques]({{< relref "help/base-editor/statistiken/statistiken" >}}) vous permet de visualiser des données dans des **diagrammes** ou de les évaluer en détail au moyen de **tableaux croisés dynamiques**. Dans chaque base, vous pouvez créer et enregistrer autant d'évaluations de ce type que vous le souhaitez.
 
 La gestion des diagrammes et des tableaux croisés dynamiques se fait sur le tableau de bord du module Statistiques. Tous les diagrammes et tableaux croisés dynamiques créés y sont enregistrés et sont disponibles à tout moment pour une nouvelle consultation. Toutes les statistiques existantes sont **automatiquement mises à jour** lorsque vous modifiez des données dans le tableau. Vous ne devez donc jamais penser à mettre à jour vos statistiques - SeaTable le fait pour vous !
 
@@ -40,4 +40,4 @@ Le module Statistiques prend en charge un grand nombre de **types de graphiques*
 - Diagrammes linéaires (pour la représentation d'une valeur dans le temps)
 - Diagrammes en camembert (pour une visualisation simple des proportions)
 
-Consultez les [instructions du module Statistiques](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/) pour **créer un nouveau graphique** étape par étape. En raison de la simplicité de certains types de diagrammes, les possibilités de réglage y sont limitées par rapport aux autres types.
+Consultez les [instructions du module Statistiques]({{< relref "help/base-editor/statistiken/statistiken" >}}) pour **créer un nouveau graphique** étape par étape. En raison de la simplicité de certains types de diagrammes, les possibilités de réglage y sont limitées par rapport aux autres types.

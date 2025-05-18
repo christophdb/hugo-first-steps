@@ -27,7 +27,7 @@ Selon le **type de colonne** que vous souhaitez filtrer, les conditions que vous
 
 ### Voici quelques exemples
 
-Voici les options de conditions dont vous disposez en cas de [Colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/):  
+Voici les options de conditions dont vous disposez en cas de [Colonne de texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}):  
 ![Filtrer la colonne de texte](images/filtern-von-eintraegen-5.png)
 
 Voici les options de conditions dont vous disposez en cas de [Colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  

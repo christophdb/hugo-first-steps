@@ -59,7 +59,7 @@ Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tip
 
 ## Valores por defeito referenciados em colunas de texto
 
-Se especificar a referência **{creator.name}** ou **{creator.id}** como valor predefinido numa [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), o **nome** ou **ID do utilizador** que adicionou a linha é automaticamente introduzido.
+Se especificar a referência **{creator.name}** ou **{creator.id}** como valor predefinido numa [coluna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), o **nome** ou **ID do utilizador** que adicionou a linha é automaticamente introduzido.
 
 ![Referência ao nome do utilizador com um valor predefinido](images/Set-creator-name-as-default-value.png)
 
@@ -71,7 +71,7 @@ Os valores predefinidos aplicam-se **sempre que** é possível criar novas linha
 - numa [coluna de ligação]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - via [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (ação: "Copiar linha para outra tabela")
 - através da [automatização](https://seatable.io/pt/docs/automationen/automations-aktionen/) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
-- no [calendário](https://seatable.io/pt/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), na [galeria](https://seatable.io/pt/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) ou no [plugin Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/)
+- no [calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - através de [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - nas [páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [formulário](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) e [Kanban](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) das aplicações
 

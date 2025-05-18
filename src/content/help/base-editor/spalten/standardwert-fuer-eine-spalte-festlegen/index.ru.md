@@ -59,7 +59,7 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 
 ## Ссылающиеся значения по умолчанию в текстовых колонках
 
-Если в качестве значения по умолчанию в [текстовом столбце](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) указать ссылку **{creator.name}** или **{creator.id}**, то автоматически вводится **имя** или **идентификатор пользователя**, добавившего строку.
+Если в качестве значения по умолчанию в [текстовом столбце]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) указать ссылку **{creator.name}** или **{creator.id}**, то автоматически вводится **имя** или **идентификатор пользователя**, добавившего строку.
 
 ![Ссылка на имя пользователя со значением по умолчанию](images/Set-creator-name-as-default-value.png)
 
@@ -71,7 +71,7 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 - в [колонке ссылок]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - через [кнопку](https://seatable.io/ru/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (действие: "Скопировать строку в другую таблицу")
 - с помощью [автоматизации](https://seatable.io/ru/docs/automationen/automations-aktionen/) (действия: "Добавить строку" и "Добавить новую запись в другую таблицу")
-- в [календаре](https://seatable.io/ru/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [галерее](https://seatable.io/ru/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) или [плагине Kanban](https://seatable.io/ru/docs/plugins/anleitung-zum-kanban-plugin/)
+- в [календаре]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - через [веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - на [страницах]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) и [Kanban](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) в приложениях
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. A **transferência de nomes de utilizador** é uma operação que pode copiar dados de colunas do tipo [Empregado]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Criador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) para uma [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. A **transferência de nomes de utilizador** é uma operação que pode copiar dados de colunas do tipo [Empregado]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Criador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) para uma [coluna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ## Pôr em prática a operação
 
@@ -31,7 +31,7 @@ A primeira vez que é executado com sucesso, um pequeno **carrapato verde**.
 
 ## Execução da operação
 
-Se, por exemplo, mantiver uma tabela com tarefas a realizar na qual **os membros da** sua **equipa** são registados como pessoas de contacto responsáveis numa [coluna de pessoal]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), pode simplesmente copiar os nomes de utilizador para uma [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), por exemplo para os utilizar para uma lista de pessoal.
+Se, por exemplo, mantiver uma tabela com tarefas a realizar na qual **os membros da** sua **equipa** são registados como pessoas de contacto responsáveis numa [coluna de pessoal]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), pode simplesmente copiar os nomes de utilizador para uma [coluna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), por exemplo para os utilizar para uma lista de pessoal.
 
 Para tal, seguir os passos descritos acima e seleccionar a coluna do pessoal como coluna de **origem** e a coluna de texto como coluna de **resultado**.
 

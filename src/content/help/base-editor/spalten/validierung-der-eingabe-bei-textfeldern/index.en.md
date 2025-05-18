@@ -10,7 +10,11 @@ url: '/help/validierung-der-eingabe-bei-textfeldern'
 
 When using text columns in your tables, you have the option to validate inputs. Using validation that supports regular expressions, you can validate cell values and highlight cells with content that deviates from the valid format.
 
-{{< warning  headline="Note"  text="Basically, there are two different ways to validate entries in text columns. Validation can be performed both when **adding a new** [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_text-spalte) and afterwards for [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_text-spalte) that have **already been created**." />}}
+{{< warning  headline="Note" >}}
+
+Basically, there are two different ways to validate entries in text columns. Validation can be performed both when **adding a new** [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) that have **already been created**.
+
+{{< /warning >}}
 
 ## Validate inputs
 

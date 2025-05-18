@@ -39,7 +39,7 @@ Folgende **Beziehungs-Operationen** können derzeit mithilfe der Datenverarbeitu
 Für beide Arten von Datenverarbeitungsoperationen gelten jeweils unterschiedliche **Voraussetzungen**, die erfüllt werden müssen, um eine entsprechende Operation anzulegen.
 
 - **Mathematische Operationen** setzen das Vorhandensein von **zwei Zahlen-Spalten** in Ihrer Tabelle voraus.
-- Für die **Beziehungs-Operationen** benötigen Sie je nach Anwendungsfall ganz bestimmte Spaltentypen, z. B. eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) und eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) beim Übertragen von Benutzernamen.
+- Für die **Beziehungs-Operationen** benötigen Sie je nach Anwendungsfall ganz bestimmte Spaltentypen, z. B. eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) und eine [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) beim Übertragen von Benutzernamen.
 
 ## Hinweise zur Ausführung
 

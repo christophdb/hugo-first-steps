@@ -58,7 +58,7 @@ Dieser Seitentyp funktioniert so ähnlich wie das [Kalender-Plugin]({{< relref "
 
 ## Seitentyp: Individuelle Seite
 
-Mit diesem Seitentyp können Sie Ihrer Kreativität freien Lauf lassen und eine **individuelle Seite** ganz nach Ihren Wünschen bauen. Fügen Sie **Texte** und **Bilder** in Ihre Seite ein oder nutzen Sie [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/), um mit den Daten aus Ihrer Base aussagekräftige **Dashboards** zu erstellen.
+Mit diesem Seitentyp können Sie Ihrer Kreativität freien Lauf lassen und eine **individuelle Seite** ganz nach Ihren Wünschen bauen. Fügen Sie **Texte** und **Bilder** in Ihre Seite ein oder nutzen Sie [Statistiken]({{< relref "help/base-editor/statistiken/statistiken" >}}), um mit den Daten aus Ihrer Base aussagekräftige **Dashboards** zu erstellen.
 
 ![Management Dashboard in der App zur Arbeitszeiterfassung](images/Dashboard_2.gif)
 
@@ -66,7 +66,7 @@ Mit diesem Seitentyp können Sie Ihrer Kreativität freien Lauf lassen und eine 
 
 ## Seitentyp: Kanban
 
-Dieser Seitentyp funktioniert ähnlich wie das [Kanban-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kanban-plugin/) und bietet Ihnen die Möglichkeit, Einträge als Karteikarten auf einem **Kanban-Board** darzustellen. Legen Sie dazu fest, nach welcher Spalte die Einträge **gruppiert** werden sollen. Ein konkreter Anwendungsfall könnte beispielsweise die **Visualisierung von Workflows und Projektfortschritten** sein.
+Dieser Seitentyp funktioniert ähnlich wie das [Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) und bietet Ihnen die Möglichkeit, Einträge als Karteikarten auf einem **Kanban-Board** darzustellen. Legen Sie dazu fest, nach welcher Spalte die Einträge **gruppiert** werden sollen. Ein konkreter Anwendungsfall könnte beispielsweise die **Visualisierung von Workflows und Projektfortschritten** sein.
 
 ![Anwendungsfall des Seitentyps: Kanban](images/example-kanban-page-3.png)
 

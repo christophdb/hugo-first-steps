@@ -27,7 +27,7 @@ url: '/ru/help/wie-man-den-spaltentyp-anpasst'
 
 **Первый столбец** таблицы поддерживает **только 6 из 25 типов столбцов**. К ним относятся
 
-- [Текст](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Текст]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Номер](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Дата]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Одиночный выбор](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
@@ -36,4 +36,4 @@ url: '/ru/help/wie-man-den-spaltentyp-anpasst'
 
 ## Предупреждение о потере данных
 
-**Преобразование** определенных типов столбцов обычно приводит к нежелательной **потере данных**. Это происходит, например, с колонками [файлов]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) или при преобразовании [текстовых колонок](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) в числовые. В этих случаях SeaTable выводит **предупреждающее сообщение** с вопросом, действительно ли вы хотите изменить тип столбца.
+**Преобразование** определенных типов столбцов обычно приводит к нежелательной **потере данных**. Это происходит, например, с колонками [файлов]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) или при преобразовании [текстовых колонок]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) в числовые. В этих случаях SeaTable выводит **предупреждающее сообщение** с вопросом, действительно ли вы хотите изменить тип столбца.

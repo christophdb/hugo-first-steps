@@ -28,7 +28,7 @@ Dans la [ligne d'état]({{< relref "help/base-editor/ansichten/die-status-zeile-
 
 Pour créer des graphiques et visualiser des chiffres, utilisez le module Statistiques de SeaTable. Il permet de réaliser des analyses plus complexes que dans les tableaux. De plus, il offre de nombreuses possibilités de représentation graphique grâce aux nombreux types de graphiques pris en charge.
 
-Vous trouverez des informations complètes sur les possibilités d'évaluation statistique dans le [guide du module statistique](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/).
+Vous trouverez des informations complètes sur les possibilités d'évaluation statistique dans le [guide du module statistique]({{< relref "help/base-editor/statistiken/statistiken" >}}).
 
 ## Vues avancées
 

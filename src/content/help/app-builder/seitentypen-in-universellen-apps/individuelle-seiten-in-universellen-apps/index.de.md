@@ -48,7 +48,7 @@ In den Elementeinstellungen können Sie zahlreiche Parameter festlegen:
 
 ### Formatierter Text
 
-Mit formatierten Text-Elementen können Sie, wie der Name schon sagt, **längere Texte formatieren**. Dabei öffnet sich der Texteditor, den Sie bereits vom Spaltentyp [Formatierter Text](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kennen.
+Mit formatierten Text-Elementen können Sie, wie der Name schon sagt, **längere Texte formatieren**. Dabei öffnet sich der Texteditor, den Sie bereits vom Spaltentyp [Formatierter Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) kennen.
 
 ![Formatierte Texte auf individuellen Seiten](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 
@@ -104,7 +104,7 @@ Auf einer individuellen Seite Ihrer App können Sie die Daten aus der zugrundeli
 
 ### Dateneinstellungen
 
-Die **Konfiguration von Statistiken** weist dabei viele Ähnlichkeiten zum [Statistik-Modul](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/) in der Base auf. Wählen Sie zunächst die **Tabelle**, aus der die Statistik Daten darstellen soll. Mit einem Klick auf die **entgegengesetzten Pfeile** können Sie den **Diagrammtyp** ändern.
+Die **Konfiguration von Statistiken** weist dabei viele Ähnlichkeiten zum [Statistik-Modul]({{< relref "help/base-editor/statistiken/statistiken" >}}) in der Base auf. Wählen Sie zunächst die **Tabelle**, aus der die Statistik Daten darstellen soll. Mit einem Klick auf die **entgegengesetzten Pfeile** können Sie den **Diagrammtyp** ändern.
 
 ![](images/Elementeinstellungen-fuer-Statistiken-auf-individuellen-Seiten.png)
 

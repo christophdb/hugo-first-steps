@@ -18,7 +18,7 @@ url: '/ru/help/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 ## Фильтр с идентификатором пользователя
 
-В SeaTable вы можете использовать фильтр **"is current user's ID"** для каждого текстового столбца. Это создает **динамический фильтр**, который отображает только те записи, где **собственный ID пользователя** хранится в соответствующем [текстовом столбце](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+В SeaTable вы можете использовать фильтр **"is current user's ID"** для каждого текстового столбца. Это создает **динамический фильтр**, который отображает только те записи, где **собственный ID пользователя** хранится в соответствующем [текстовом столбце]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ![Пример фильтра по идентификатору пользователя](images/filter-user-ID-example-1.png)
 

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/kanbanseiten-in-universellen-apps'
 ---
 
-Este tipo de página funciona de forma semelhante ao [plugin Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/) e oferece-lhe a opção de apresentar entradas como cartões de índice num **quadro Kanban**. Um caso de utilização específico poderia ser a **visualização de fluxos de trabalho e do progresso de um projeto**, por exemplo.
+Este tipo de página funciona de forma semelhante ao [plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) e oferece-lhe a opção de apresentar entradas como cartões de índice num **quadro Kanban**. Um caso de utilização específico poderia ser a **visualização de fluxos de trabalho e do progresso de um projeto**, por exemplo.
 
 ![Páginas Kanban em aplicações universais](images/Kanbanseiten-in-Universellen-Apps.png)
 

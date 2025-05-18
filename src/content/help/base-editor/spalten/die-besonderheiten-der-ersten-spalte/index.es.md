@@ -32,7 +32,7 @@ La **primera** columna de una tabla en SeaTable tiene varias características es
 
 Para la **primera** columna, sólo hay **seis tipos de columna** entre los que elegir:
 
-- [Texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Número](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Selección individual](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)

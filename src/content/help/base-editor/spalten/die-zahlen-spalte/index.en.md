@@ -12,7 +12,7 @@ In SeaTable you can use the **Numbers column** in many ways to work with numbers
 
 ## Application area of the number column
 
-The use of **number columns** allows you, for example, to **calculate values** that you can visualize with formulas and [statistics](https://seatable.io/en/docs/seatable-nutzen/statistiken/). However, it is not suitable for saving strings of any length (e.g. account numbers), as rounding occurs with more than 15 digits. In this case, you should use the [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+The use of **number columns** allows you, for example, to **calculate values** that you can visualize with formulas and [statistics]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 In addition, SeaTable offers other columns that sometimes better match your specified values.
 

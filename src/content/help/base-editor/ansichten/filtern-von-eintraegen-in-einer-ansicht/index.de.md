@@ -27,7 +27,7 @@ Je nachdem, nach welchem **Spaltentyp** Sie filtern möchten, passen sich auch d
 
 ### Hier einige Beispiele
 
-Diese Bedingungsoptionen haben Sie bei einer [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/): ![Filtern Textspalte](images/filtern-von-eintraegen-5.png)
+Diese Bedingungsoptionen haben Sie bei einer [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}): ![Filtern Textspalte](images/filtern-von-eintraegen-5.png)
 
 Diese Bedingungsoptionen haben Sie bei einer [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/): ![Filter einzelauswahl-Spalte](images/filtern-von-eintraegen-6.png)
 

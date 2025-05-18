@@ -32,7 +32,7 @@ url: '/ru/help/die-besonderheiten-der-ersten-spalte'
 
 Для **первой колонки** можно выбрать только **шесть типов колонок**:
 
-- [Текст](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Текст]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Номер](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Дата]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Одиночный выбор](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)

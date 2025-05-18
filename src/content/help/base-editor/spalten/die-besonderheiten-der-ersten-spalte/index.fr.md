@@ -32,7 +32,7 @@ Dans SeaTable, la **première colonne** d'un tableau présente plusieurs particu
 
 Pour la **première colonne**, il n'y a que **six types de colonnes** au choix :
 
-- [Texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Nombre](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Sélection unique](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)

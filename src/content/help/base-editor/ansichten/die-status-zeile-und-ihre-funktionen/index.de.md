@@ -59,4 +59,4 @@ Bei den folgenden Spaltentypen gibt die Status-Zeile **keinen** berechneten Wert
 - [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Erstellt]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- Zahlen in [Text-Spalten](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- Zahlen in [Text-Spalten]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

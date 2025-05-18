@@ -48,7 +48,7 @@ Puede definir numerosos parámetros en la configuración del elemento:
 
 ### Texto con formato
 
-Como su nombre indica, puede utilizar elementos de texto con formato para **dar formato a textos más largos**. Esto abre el editor de texto que ya conoce del tipo de columna Texto con [formato](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+Como su nombre indica, puede utilizar elementos de texto con formato para **dar formato a textos más largos**. Esto abre el editor de texto que ya conoce del tipo de columna Texto con [formato]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ![Textos con formato en páginas individuales](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 
@@ -104,7 +104,7 @@ En una página individual de su aplicación, puede visualizar los datos de la ba
 
 ### Configuración de datos
 
-La **configuración de** las estadísticas es muy similar a la del [módulo de estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/) de Base. Primero seleccione la **tabla** de la que las estadísticas deben mostrar datos. Puede cambiar el **tipo de gráfico** haciendo clic en las **flechas opuestas**.
+La **configuración de** las estadísticas es muy similar a la del [módulo de estadísticas]({{< relref "help/base-editor/statistiken/statistiken" >}}) de Base. Primero seleccione la **tabla** de la que las estadísticas deben mostrar datos. Puede cambiar el **tipo de gráfico** haciendo clic en las **flechas opuestas**.
 
 ![](images/Elementeinstellungen-fuer-Statistiken-auf-individuellen-Seiten.png)
 

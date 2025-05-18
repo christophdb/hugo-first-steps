@@ -26,7 +26,7 @@ Con la ayuda de la [función de tratamiento de datos]({{< relref "help/base-edit
 
 Para un análisis más exhaustivo de los datos, SeaTable le ofrece diversas estadísticas. Al igual que con las vistas, por supuesto puede guardar sus evaluaciones estadísticas para poder acceder a ellas en cualquier momento en el futuro.
 
-Con el [módulo de estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/), puedes visualizar los datos en **diagramas** o evaluarlos en detalle mediante **tablas dinámicas**. Puedes crear y guardar cualquier número de análisis de este tipo en cada base.
+Con el [módulo de estadísticas]({{< relref "help/base-editor/statistiken/statistiken" >}}), puedes visualizar los datos en **diagramas** o evaluarlos en detalle mediante **tablas dinámicas**. Puedes crear y guardar cualquier número de análisis de este tipo en cada base.
 
 Los gráficos y las tablas dinámicas se gestionan en el panel de control del módulo de estadísticas. Todos los gráficos y tablas dinámicas creados se guardan allí y están disponibles para su recuperación en cualquier momento. Todas las estadísticas existentes se **actualizan automáticamente** cuando se modifican los datos de la tabla. Así que nunca tendrá que pensar en actualizar las estadísticas - ¡SeaTable lo hace por usted!
 
@@ -40,4 +40,4 @@ El módulo de estadísticas admite diversos **tipos de gráficos**, por ejemplo:
 - Gráficos de líneas (para la representación de un valor a lo largo del tiempo)
 - Gráficos circulares (para la visualización sencilla de proporciones)
 
-Utilice las [instrucciones del módulo de estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/) para crear **un nuevo diagrama** paso a paso. Debido a la simplicidad de algunos tipos de gráficos, las opciones de configuración en ellos son limitadas en comparación con los otros tipos.
+Utilice las [instrucciones del módulo de estadísticas]({{< relref "help/base-editor/statistiken/statistiken" >}}) para crear **un nuevo diagrama** paso a paso. Debido a la simplicidad de algunos tipos de gráficos, las opciones de configuración en ellos son limitadas en comparación con los otros tipos.

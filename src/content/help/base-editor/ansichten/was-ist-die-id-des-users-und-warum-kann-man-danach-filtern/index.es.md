@@ -18,7 +18,7 @@ Si quieres saber cómo cambiar el ID de usuario de un miembro del equipo, [encon
 
 ## Filtro con el ID de usuario
 
-En SeaTable puede utilizar el filtro **"es el ID del usuario actual"** para cada columna de texto. Esto crea un **filtro dinámico** que sólo muestra las entradas en las que el **propio ID** del usuario está almacenado en la [columna](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) de texto correspondiente.
+En SeaTable puede utilizar el filtro **"es el ID del usuario actual"** para cada columna de texto. Esto crea un **filtro dinámico** que sólo muestra las entradas en las que el **propio ID** del usuario está almacenado en la [columna]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) de texto correspondiente.
 
 ![Ejemplo de filtro por ID de usuario](images/filter-user-ID-example-1.png)
 

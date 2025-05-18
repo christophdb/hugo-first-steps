@@ -59,4 +59,4 @@ url: '/ru/help/die-status-zeile-und-ihre-funktionen'
 - [Колонки дат]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Создано]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Автоматический номер](https://seatable.io/ru/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- Числа в [текстовых колонках](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- Числа в [текстовых колонках]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

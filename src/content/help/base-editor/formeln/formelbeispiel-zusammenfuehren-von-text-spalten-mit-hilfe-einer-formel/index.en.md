@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
 ---
 
-SeaTable formulas offer you several ways to work with the data in your tables. One of them is merging content from different [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/). Using an appropriate formula, you can merge any number of contents from different columns into one formula column.
+SeaTable formulas offer you several ways to work with the data in your tables. One of them is merging content from different [text columns]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}). Using an appropriate formula, you can merge any number of contents from different columns into one formula column.
 
 ## Merging text columns
 

@@ -16,7 +16,7 @@ No es necesario que esté familiarizado con la sintaxis de Markdown. Pero tanto 
 
 Actualmente hay cinco áreas en las que puede utilizar la sintaxis Markdown en SeaTable. Éstas son:
 
-- Columnas del tipo de [texto formateado](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- Columnas del tipo de [texto formateado]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Descripciones básicas](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
 - Textos de correo electrónico al enviar mediante [automatizaciones]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})

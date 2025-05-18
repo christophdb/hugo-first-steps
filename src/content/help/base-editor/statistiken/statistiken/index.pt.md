@@ -26,7 +26,7 @@ Com a ajuda da [função de processamento de dados]({{< relref "help/base-editor
 
 Para análises de dados mais abrangentes, a SeaTable oferece-lhe várias estatísticas. Tal como os pontos de vista, pode naturalmente guardar as suas avaliações estatísticas para que possa aceder a elas em qualquer altura no futuro.
 
-Com o [módulo de estatística](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/), pode visualizar os dados em **diagramas** ou avaliá-los em pormenor através de **tabelas dinâmicas**. Pode criar e guardar qualquer número de análises deste tipo em cada base.
+Com o [módulo de estatística]({{< relref "help/base-editor/statistiken/statistiken" >}}), pode visualizar os dados em **diagramas** ou avaliá-los em pormenor através de **tabelas dinâmicas**. Pode criar e guardar qualquer número de análises deste tipo em cada base.
 
 Os gráficos e as tabelas dinâmicas são geridos no painel de controlo do módulo de estatísticas. Todos os gráficos e tabelas dinâmicas criados são aí guardados e estão disponíveis para recuperação em qualquer altura. Todas as estatísticas existentes são **automaticamente actualizadas** quando se alteram os dados na tabela. Assim, nunca tem de pensar em atualizar as estatísticas - o SeaTable fá-lo por si!
 
@@ -40,4 +40,4 @@ O módulo de estatísticas suporta uma variedade de **tipos de gráficos**, por 
 - Gráficos de linhas (para a representação de um valor ao longo do tempo)
 - Gráficos de tartes (para uma visualização simples das proporções)
 
-Utilize as [instruções do módulo de estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/) para criar **um novo diagrama**, passo a passo. Devido à simplicidade de alguns tipos de gráficos, as opções de configuração são limitadas em comparação com os outros tipos.
+Utilize as [instruções do módulo de estatísticas]({{< relref "help/base-editor/statistiken/statistiken" >}}) para criar **um novo diagrama**, passo a passo. Devido à simplicidade de alguns tipos de gráficos, as opções de configuração são limitadas em comparação com os outros tipos.

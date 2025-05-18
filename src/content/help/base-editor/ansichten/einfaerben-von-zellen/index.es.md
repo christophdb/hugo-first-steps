@@ -46,7 +46,7 @@ Puede crear **varias reglas con diferentes colores** por columna.
 
 ![Colorear celdas con varias reglas](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
-También puede definir **varias condiciones** por regla, que pueden referirse a todas las columnas de la tabla. Por ejemplo, colorear la [columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) con el titular de un artículo si el **estado** no es "terminado", la **fecha de publicación** es futura y ya hay una **imagen** disponible.
+También puede definir **varias condiciones** por regla, que pueden referirse a todas las columnas de la tabla. Por ejemplo, colorear la [columna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) con el titular de un artículo si el **estado** no es "terminado", la **fecha de publicación** es futura y ya hay una **imagen** disponible.
 
 ![Regla con varias condiciones para colorear las celdas](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 

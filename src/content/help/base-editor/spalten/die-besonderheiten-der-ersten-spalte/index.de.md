@@ -32,7 +32,7 @@ Die **erste Spalte** einer Tabelle weist in SeaTable im Vergleich zu den anderen
 
 Für die **erste Spalte** stehen lediglich **sechs Spaltentypen** zur Auswahl:
 
-- [Text](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+- [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Zahl](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Einfachauswahl](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)

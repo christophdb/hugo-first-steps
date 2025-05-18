@@ -27,7 +27,7 @@ url: '/ru/help/filtern-von-eintraegen-in-einer-ansicht'
 
 ### Вот несколько примеров
 
-У вас есть эти варианты условий с [Текстовая колонка](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/):  
+У вас есть эти варианты условий с [Текстовая колонка]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}):  
 ![Фильтр текстового столбца](images/filtern-von-eintraegen-5.png)
 
 У вас есть эти варианты условий с [Одиночная колонка выбора](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Using the data processing function, you can perform various operations across a column. The **transfer of user names** is an operation that copies data from columns of the type [Employee]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Creator]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) into a [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+Using the data processing function, you can perform various operations across a column. The **transfer of user names** is an operation that copies data from columns of the type [Employee]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Creator]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) into a [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ## Putting on the operation
 
@@ -31,7 +31,7 @@ On the first successful execution, a small **Green hook**.
 
 ## Execution of the operation
 
-For example, if you maintain a table with tasks to be done, in which your **team members** are recorded as responsible contact persons in a [staff column]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), you can simply copy the user names into a [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), e.g. to use them for a staff list.
+For example, if you maintain a table with tasks to be done, in which your **team members** are recorded as responsible contact persons in a [staff column]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), you can simply copy the user names into a [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), e.g. to use them for a staff list.
 
 To do this, follow the steps described above and select the Employee column as the **source** column and the Text column as the **result** column.
 

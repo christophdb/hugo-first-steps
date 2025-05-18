@@ -10,7 +10,11 @@ url: '/de/hilfe/validierung-der-eingabe-bei-textfeldern'
 
 Bei der Verwendung von Textspalten in Ihren Tabellen haben Sie die Möglichkeit, Eingaben zu validieren. Mithilfe einer Validierung, bei der reguläre Ausdrücke (Regular Expressions) unterstützt werden, können Sie Zellwerte überprüfen und Zellen mit einem vom gültigen Format abweichenden Inhalt hervorheben.
 
-{{< warning  headline="Hinweis"  text="Grundsätzlich stehen Ihnen zwei verschiedene Wege für die Validierung von Eingaben in Text-Spalten zur Verfügung. Eine Validierung kann sowohl im Zuge des **Hinzufügens einer neuen** [Text-Spalte](\"https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_text-spalte\") als auch im Nachhinein für **bereits angelegte** [Text-Spalten](\"https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_text-spalte\") erfolgen." />}}
+{{< warning  headline="Hinweis" >}}
+
+Grundsätzlich stehen Ihnen zwei verschiedene Wege für die Validierung von Eingaben in Text-Spalten zur Verfügung. Eine Validierung kann sowohl im Zuge des **Hinzufügens einer neuen** [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) erfolgen.
+
+{{< /warning >}}
 
 ## Eingaben validieren
 
