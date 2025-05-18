@@ -45,7 +45,7 @@ Por exemplo, se se actualizar uma tabela na qual se entram as tarefas em aberto 
 
 ## Quando é que um filtro deste tipo faz sentido?
 
-A alternativa seria filtrar pela coluna [Creator](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) ou [Staff](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), que também oferecem opções de filtragem dinâmica. No entanto, estas duas colunas têm as seguintes desvantagens:
+A alternativa seria filtrar pela coluna [Creator]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), que também oferecem opções de filtragem dinâmica. No entanto, estas duas colunas têm as seguintes desvantagens:
 
 - O **valor na coluna do criador** _não pode_ ser **alterado** posteriormente. Uma vez definido, o valor permanece sempre o mesmo. Isto seria problemático no exemplo acima porque o criador das tarefas _não_ é o empregado.
 - A **coluna do pessoal** só pode ser preenchida se um membro da equipa tiver, pelo menos, **acesso de leitura** à base. Isto pode _não_ ser desejável, especialmente quando se utiliza a [aplicação universal](https://seatable.io/pt/docs/apps/universelle-app/).

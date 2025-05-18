@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-La fonction de traitement des données permet d'effectuer diverses opérations sur une colonne. Le **transfert de noms d'utilisateurs** est une opération qui permet de copier des données de colonnes de type [employé](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), [créateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) ou [dernier utilisateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) dans une [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+La fonction de traitement des données permet d'effectuer diverses opérations sur une colonne. Le **transfert de noms d'utilisateurs** est une opération qui permet de copier des données de colonnes de type [employé]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [créateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) ou [dernier utilisateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) dans une [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
 
 ## Mise en place de l'opération
 
@@ -31,7 +31,7 @@ Lors de la première exécution réussie, une petite icône apparaît dans la ma
 
 ## Exécution de l'opération
 
-Par exemple, si vous gérez un tableau de tâches à effectuer dans lequel les **membres de votre équipe** sont saisis en tant que personnes de contact responsables dans une [colonne de collaborateurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), vous pouvez simplement copier les noms d'utilisateur dans une [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), par exemple pour les utiliser dans une liste de collaborateurs.
+Par exemple, si vous gérez un tableau de tâches à effectuer dans lequel les **membres de votre équipe** sont saisis en tant que personnes de contact responsables dans une [colonne de collaborateurs]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), vous pouvez simplement copier les noms d'utilisateur dans une [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), par exemple pour les utiliser dans une liste de collaborateurs.
 
 Pour ce faire, suivez les étapes décrites ci-dessus et sélectionnez la colonne des collaborateurs comme **colonne source** et la colonne de texte comme **colonne de résultats**.
 

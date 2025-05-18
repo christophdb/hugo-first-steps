@@ -10,7 +10,7 @@ url: '/fr/aide/die-erste-base'
 
 Dans SeaTable, vous organisez vos données dans des [bases](https://seatable.io/fr/docs/arbeiten-mit-bases/bases/). Une base est un conteneur pour une ou plusieurs tables. Les tables d'une base peuvent être juxtaposées indépendamment les unes des autres ou, comme dans une base de données, reliées entre elles par des relations.
 
-Vous pouvez également [partager](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) vos [bases](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) avec d'autres membres de l'équipe ou [inviter](https://seatable.io/fr/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) des tiers externes à y travailler ensemble.
+Vous pouvez également [partager]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) avec d'autres membres de l'équipe ou [inviter](https://seatable.io/fr/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) des tiers externes à y travailler ensemble.
 
 SeaTable gère un [historique](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/) en arrière-plan pour chaque base, ce qui vous permet d'annuler les modifications et de rétablir les états précédents si nécessaire.
 
@@ -22,7 +22,7 @@ En cliquant sur l'**image de l'avatar** dans le coin supérieur droit, vous pouv
 
 En cliquant sur **Ajouter une** base, vous créez votre première base personnelle. Donnez-lui un **nom**, appuyez sur **Entrée** et la base sera placée sur la page d'accueil. Si vous déplacez le curseur de la souris sur le nom de la base, un **symbole de crayon** {{< seatable-icon icon="dtable-icon-rename" >}} et le symbole à trois points {{< seatable-icon icon="dtable-icon-more-vertical" >}} apparaissent à droite pour les fonctions avancées.
 
-L'icône en forme de crayon permet de renommer la base et de lui attribuer une autre icône et une autre couleur. Les fonctions avancées comprennent par exemple le [partage](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) d'une base ou son [exportation](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/). Vous ouvrez la base en cliquant sur son nom.
+L'icône en forme de crayon permet de renommer la base et de lui attribuer une autre icône et une autre couleur. Les fonctions avancées comprennent par exemple le [partage]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) d'une base ou son [exportation](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/). Vous ouvrez la base en cliquant sur son nom.
 
 ## Vue du tableau
 

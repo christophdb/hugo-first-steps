@@ -14,7 +14,7 @@ A primera vista, una base no es más que un **contenedor** para una o varias **t
 
 - Funciones de bases de datos relacionales y [vinculación de tablas](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - [Más de 20 tipos de columnas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) que cubren todos los formatos de datos habituales
-- Varias [opciones para compartir](https://seatable.io/es/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) datos fácilmente
+- Varias [opciones para compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) datos fácilmente
 - [Colaboración](https://seatable.io/es/docs/seatable-nutzen/zusammenarbeit/) en tiempo real con otros usuarios y transmisión en tiempo real de todos los cambios
 - Una [función de comentario para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registro de una fila
 - [Versionado](https://seatable.io/es/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) completo e [historial](https://seatable.io/es/docs/historie-und-versionen/historie-und-logs/) de todos los cambios
@@ -65,7 +65,7 @@ Puedes añadir una descripción a tus bases para dar a otros usuarios "instrucci
 
 Puedes **compartir** las bases que posees o administras con otros **usuarios y grupos**, dándoles acceso a los datos. El uso compartido se realiza con diferentes permisos para que siempre tengas el control sobre los cambios en tus bases.
 
-Encontrará más información sobre esta función tan importante y útil en el artículo [Base y ver comunicados de](https://seatable.io/es/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) un vistazo.
+Encontrará más información sobre esta función tan importante y útil en el artículo [Base y ver comunicados de]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) un vistazo.
 
 ## Base de copias
 

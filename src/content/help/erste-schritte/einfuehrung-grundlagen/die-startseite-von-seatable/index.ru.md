@@ -29,7 +29,7 @@ url: '/ru/help/die-startseite-von-seatable'
 
 Рабочая область содержит все базы, к которым у вас есть доступ. Рабочее пространство разделено на следующие разделы:
 
-- **Мои базы** - базы, которые вы создали и к которым имеете доступ только вы (при условии, что вы не даете никаких [акций](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) ).
+- **Мои базы** - базы, которые вы создали и к которым имеете доступ только вы (при условии, что вы не даете никаких [акций]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) ).
 - **Избранное** - Базы, которые вы отметили как [избранные](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/).
 - **Освободил для меня** - все базы, которыми поделились с вами другие.
 - **Группы** - все [группы](https://seatable.io/ru/docs/arbeiten-mit-gruppen/gruppen/), в которых вы состоите.

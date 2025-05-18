@@ -39,4 +39,4 @@ Si vous ne souhaitez partager qu'une seule vue, le partage peut être effectué 
 - [Partage avec un groupe](https://seatable.io/fr/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
 - [Partage via un lien externe](https://seatable.io/fr/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
 
-Vous trouverez également de plus amples informations dans l'article [Aperçu des autorisations de base et de vue](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/).
+Vous trouverez également de plus amples informations dans l'article [Aperçu des autorisations de base et de vue]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).

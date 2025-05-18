@@ -10,7 +10,7 @@ url: '/ru/help/die-erste-base'
 
 В SeaTable вы организуете свои данные в [базах](https://seatable.io/ru/docs/arbeiten-mit-bases/bases/). База - это контейнер для одной или нескольких таблиц. Таблицы базы могут стоять независимо друг от друга или, как в базе данных, быть связаны друг с другом отношениями.
 
-Вы также можете [поделиться](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) своими [базами](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) с другими членами команды или [пригласить](https://seatable.io/ru/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) внешних третьих лиц для совместной работы над ними.
+Вы также можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) с другими членами команды или [пригласить](https://seatable.io/ru/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) внешних третьих лиц для совместной работы над ними.
 
 SeaTable ведет [историю](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) для каждой базы в фоновом режиме, позволяя вам отменить изменения и восстановить предыдущие состояния, если это необходимо.
 
@@ -22,7 +22,7 @@ SeaTable ведет [историю](https://seatable.io/ru/docs/historie-und-ve
 
 Нажмите кнопку **Добавить базу**, чтобы создать свою первую базу. Дайте ей **имя**, нажмите **Enter**, и база будет помещена на стартовую страницу. Если вы наведете указатель мыши на название базы, справа появится **символ карандаша** {{< seatable-icon icon="dtable-icon-rename" >}} и символ с тремя точками {{< seatable-icon icon="dtable-icon-more-vertical" >}} для расширенных функций.
 
-С помощью значка карандаша можно переименовать базу и присвоить ей другой значок и цвет. Дополнительные функции включают, например, [совместное использование](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) базы или ее [экспорт](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/). Вы открываете базу, щелкнув по ее названию.
+С помощью значка карандаша можно переименовать базу и присвоить ей другой значок и цвет. Дополнительные функции включают, например, [совместное использование]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) базы или ее [экспорт](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/). Вы открываете базу, щелкнув по ее названию.
 
 ## Вид таблицы
 

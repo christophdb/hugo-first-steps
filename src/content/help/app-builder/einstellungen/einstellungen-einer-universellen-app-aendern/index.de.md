@@ -47,7 +47,7 @@ Es handelt sich dabei nur um eine Voreinstellung beim erstmaligen Öffnen der Ap
 
 ## Mitarbeiter-Liste laden
 
-Im vierten Abschnitt können Sie entscheiden, ob Ihre **Mitarbeiter-Liste** in der App für alle Nutzer sichtbar sein soll. Sie können dann Personen in [Mitarbeiter-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) eintragen oder zu [Kommentaren](https://seatable.io/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) hinzufügen.
+Im vierten Abschnitt können Sie entscheiden, ob Ihre **Mitarbeiter-Liste** in der App für alle Nutzer sichtbar sein soll. Sie können dann Personen in [Mitarbeiter-Spalten]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) eintragen oder zu [Kommentaren](https://seatable.io/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) hinzufügen.
 
 ![Load collaborator list in apps](https://seatable.io/wp-content/uploads/2023/05/Load-collaborator-list-in-apps.png)
 

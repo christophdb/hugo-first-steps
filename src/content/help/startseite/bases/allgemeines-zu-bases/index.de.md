@@ -15,7 +15,7 @@ Auf den ersten Blick ist eine Base nur ein **Container** für eine oder mehrere 
 - Relationale Datenbankfunktionen und die [Verknüpfung von Tabellen](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - [Über 20 Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
   ), die alle gängigen Datenformate abdecken
-- Diverse [Freigabemöglichkeiten](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) zum einfachen Teilen von Daten
+- Diverse [Freigabemöglichkeiten]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) zum einfachen Teilen von Daten
 - Echtzeit-[Zusammenarbeit](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/) mit anderen Nutzern und Echtzeit-Übertragung aller Änderungen
 - Eine [Kommentarfunktion]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) zu jedem Datensatz in einer Zeile
 - Vollständige [Versionierung](https://seatable.io/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) und [Historie](https://seatable.io/docs/historie-und-versionen/historie-und-logs/) aller Änderungen
@@ -66,7 +66,7 @@ Sie können Ihren Bases eine Beschreibung hinzufügen, um anderen Benutzern eine
 
 Sie können Bases, deren Eigentümer oder Administrator Sie sind, anderen **Benutzern und Gruppen freigeben** und diesen damit Zugriff auf die Daten gewähren. Freigaben erfolgen mit unterschiedlichen Berechtigungen, sodass Sie jederzeit die Kontrolle über Änderungen in Ihren Bases haben.
 
-Mehr Informationen zu dieser wichtigen und äußerst hilfreichen Funktion finden Sie im Artikel [Base- und Ansichtsfreigaben im Überblick](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/).
+Mehr Informationen zu dieser wichtigen und äußerst hilfreichen Funktion finden Sie im Artikel [Base- und Ansichtsfreigaben im Überblick]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).
 
 ## Base kopieren
 

@@ -22,7 +22,11 @@ Dans le cas de partages individuels, tous les utilisateurs avec lesquels la base
 
 C'est pourquoi les possibilités de partage individuel s'avèrent particulièrement avantageuses lorsque vous travaillez en équipe sur les mêmes données et que vous souhaitez apporter des modifications à l'ensemble des données partagées.
 
-{{< warning headline="Informations complémentaires" text="Si vous avez besoin de plus amples informations sur les possibilités de partage individuel, cliquez [ici](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/)." />}}
+{{< warning headline="Informations complémentaires" >}}
+
+Si vous avez besoin de plus amples informations sur les possibilités de partage individuel, cliquez [ici]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).
+
+{{< /warning >}}
 
 ## Ensembles de données communs
 

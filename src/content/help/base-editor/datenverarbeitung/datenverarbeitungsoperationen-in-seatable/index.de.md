@@ -1,11 +1,11 @@
 ---
-title: "Datenverarbeitungsoperationen in SeaTable"
+title: 'Datenverarbeitungsoperationen in SeaTable'
 date: 2023-03-20
-lastmod: "2023-04-28"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/de/hilfe/datenverarbeitungsoperationen-in-seatable"
+lastmod: '2023-04-28'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/de/hilfe/datenverarbeitungsoperationen-in-seatable'
 ---
 
 Die Datenverarbeitungsfunktion ist ein nützliches Feature von SeaTable, mit dem Sie **Operationen** in einer Spalte über mehrere Zeilen hinweg durchführen können. Durch die Definition einer Operation können Sie entweder diverse **mathematische Berechnungen** durchführen oder **Beziehungen zwischen Werten** in verschiedenen Tabellen herstellen. Datenverarbeitungsoperationen entfalten eine besonders große Wirkung in umfangreichen Datensätzen, in denen Sie eine hohe Anzahl an Rechenprozessen abwickeln können.
@@ -39,7 +39,7 @@ Folgende **Beziehungs-Operationen** können derzeit mithilfe der Datenverarbeitu
 Für beide Arten von Datenverarbeitungsoperationen gelten jeweils unterschiedliche **Voraussetzungen**, die erfüllt werden müssen, um eine entsprechende Operation anzulegen.
 
 - **Mathematische Operationen** setzen das Vorhandensein von **zwei Zahlen-Spalten** in Ihrer Tabelle voraus.
-- Für die **Beziehungs-Operationen** benötigen Sie je nach Anwendungsfall ganz bestimmte Spaltentypen, z. B. eine [Mitarbeiter-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) und eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) beim Übertragen von Benutzernamen.
+- Für die **Beziehungs-Operationen** benötigen Sie je nach Anwendungsfall ganz bestimmte Spaltentypen, z. B. eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) und eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) beim Übertragen von Benutzernamen.
 
 ## Hinweise zur Ausführung
 

@@ -39,11 +39,11 @@ Registos que diferentes grupos e utilizadores da sua equipa necessitam podem ser
 
 ## Lançamentos internos
 
-Quer trabalhar temporariamente com um ou mais utilizadores SeaTable numa única base? Com [partilhas internas](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) pode fazer exactamente isso! Determina se uma acção deve ser apenas de leitura ou de leitura e escrita. Desta forma, mantém sempre o controlo total sobre os dados da sua base.
+Quer trabalhar temporariamente com um ou mais utilizadores SeaTable numa única base? Com [partilhas internas]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) pode fazer exactamente isso! Determina se uma acção deve ser apenas de leitura ou de leitura e escrita. Desta forma, mantém sempre o controlo total sobre os dados da sua base.
 
 ## Lançamentos externos
 
-As bases não podem ser partilhadas apenas com outros utilizadores de SeaTable. Pode também disponibilizar bases a terceiros através de uma partilha externa. Uma [ligação externa](https://seatable.io/pt/docs/freigaben/externer-link-erklaert/), que pode fornecer com uma palavra-chave e/ou uma data de validade, dá a todas as pessoas com conhecimento da ligação acesso lido à base partilhada. Cria-se uma ligação externa - como uma partilha interna - através do **ícone de partilha** {{< seatable-icon icon="dtable-icon-share" >}} no cabeçalho da base.
+As bases não podem ser partilhadas apenas com outros utilizadores de SeaTable. Pode também disponibilizar bases a terceiros através de uma partilha externa. Uma [ligação externa]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}), que pode fornecer com uma palavra-chave e/ou uma data de validade, dá a todas as pessoas com conhecimento da ligação acesso lido à base partilhada. Cria-se uma ligação externa - como uma partilha interna - através do **ícone de partilha** {{< seatable-icon icon="dtable-icon-share" >}} no cabeçalho da base.
 
 ## Comentários
 

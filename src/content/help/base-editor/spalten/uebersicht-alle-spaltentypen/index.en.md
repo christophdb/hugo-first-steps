@@ -154,7 +154,7 @@ Icon: {{< seatable-icon icon="dtable-icon-collaborator" >}} **Employee**
 
 In an employee column you can record any number of **users** who have at least read access to the Base. SeaTable users without access cannot be entered in the column as employees. Other entries are also not allowed. The employee column is especially useful for project management. For example, if you enter tasks to be completed in a table, you can record the persons performing the tasks and the person responsible in columns of the Employee type.
 
-[More about the employee column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/)
+[More about the employee column]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}})
 
 ### Button
 

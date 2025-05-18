@@ -22,7 +22,11 @@ Com partilhas individuais, todos os utilizadores com quem a base, tabela ou vis�
 
 Por esta razão, as opções de lançamento individuais revelam-se particularmente vantajosas quando se trabalha com os mesmos dados em equipa e são desejadas alterações ao conjunto de dados partilhados.
 
-{{< warning headline="Mais informações" text="Se precisar de mais informações sobre as opções de lançamento individuais, clique [aqui](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/)." />}}
+{{< warning headline="Mais informações" >}}
+
+Se precisar de mais informações sobre as opções de lançamento individuais, clique [aqui]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).
+
+{{< /warning >}}
 
 ## Conjuntos de dados comuns
 

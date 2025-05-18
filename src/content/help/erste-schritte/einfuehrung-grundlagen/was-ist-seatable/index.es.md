@@ -41,9 +41,9 @@ Trabaje **conjuntamente y en tiempo real en** todo lo que organice en SeaTable. 
 
 ¿Quieres hacer un comentario sobre una línea? Pues deje un [comentario]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) allí. Así siempre queda claro de qué estás hablando, e incluso meses después no tienes que pensar cuándo, dónde y a través de qué canal intercambiaste ideas con tus colegas.
 
-Puedes [compartir bases, tablas y vistas](https://seatable.io/es/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) con otros usuarios o grupos enteros en un abrir y cerrar de ojos. Al asignar permisos individuales a los usuarios, conservas el control sobre quién puede hacer qué y quién no.
+Puedes [compartir bases, tablas y vistas]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) con otros usuarios o grupos enteros en un abrir y cerrar de ojos. Al asignar permisos individuales a los usuarios, conservas el control sobre quién puede hacer qué y quién no.
 
-Compartir no se limita a otros usuarios de SeaTable: También puede compartir datos con [enlaces externos](https://seatable.io/es/docs/freigaben/externer-link-erklaert/) o [invitar](https://seatable.io/es/docs/freigaben/einladungs-link-erklaert/) a personas sin cuenta en SeaTable a colaborar directamente en SeaTable.
+Compartir no se limita a otros usuarios de SeaTable: También puede compartir datos con [enlaces externos]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) o [invitar](https://seatable.io/es/docs/freigaben/einladungs-link-erklaert/) a personas sin cuenta en SeaTable a colaborar directamente en SeaTable.
 
 ### ... es una herramienta de análisis y encuesta en uno
 

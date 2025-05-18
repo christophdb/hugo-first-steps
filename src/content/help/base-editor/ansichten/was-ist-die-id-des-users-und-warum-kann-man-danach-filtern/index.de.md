@@ -42,7 +42,7 @@ Wenn Sie nun beispielsweise eine Tabelle pflegen, in die Sie die offenen Aufgabe
 
 ## Wann ist ein solcher Filter sinnvoll?
 
-Die Alternative wäre das Filtern nach der Spalte [Ersteller](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) oder [Mitarbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), die ebenfalls dynamische Filtermöglichkeiten anbieten. Diese beiden Spalten haben jedoch die folgenden Nachteile:
+Die Alternative wäre das Filtern nach der Spalte [Ersteller]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), die ebenfalls dynamische Filtermöglichkeiten anbieten. Diese beiden Spalten haben jedoch die folgenden Nachteile:
 
 - Der **Wert in der Ersteller-Spalte** lässt sich nachträglich _nicht_ mehr **ändern**. Einmal gesetzt, bleibt der Wert immer gleich. Dies wäre im oben genannten Beispiel problematisch, da der Ersteller der Aufgaben _nicht_ der Mitarbeiter ist.
 - Die **Mitarbeiter-Spalte** lässt sich nur füllen, wenn ein Teammitglied mindestens **Lesezugriff** auf die Base hat. Insbesondere beim Einsatz der [Universellen App](https://seatable.io/docs/apps/universelle-app/) ist dies vielleicht _nicht_ gewünscht.

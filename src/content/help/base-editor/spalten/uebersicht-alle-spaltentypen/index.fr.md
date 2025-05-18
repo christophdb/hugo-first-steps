@@ -154,7 +154,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-collaborator" >}} **Employés**
 
 Dans une colonne Employés, vous pouvez saisir un nombre quelconque d'**utilisateurs** qui ont au moins un accès en lecture à la base. Les utilisateurs de SeaTable sans accès ne peuvent pas être saisis dans la colonne comme collaborateurs. D'autres saisies ne sont pas non plus autorisées. La colonne des collaborateurs est particulièrement utile pour la gestion de projet. Si vous saisissez par exemple des tâches à effectuer dans un tableau, vous pouvez enregistrer les personnes qui les exécutent et le responsable dans des colonnes de type collaborateur.
 
-[En savoir plus sur la colonne des collaborateurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/)
+[En savoir plus sur la colonne des collaborateurs]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}})
 
 ### Bouton
 

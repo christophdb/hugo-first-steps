@@ -39,4 +39,4 @@ Se quiser partilhar apenas uma visão única, a partilha pode ser feita a três 
 - [Libertação para um grupo](https://seatable.io/pt/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
 - [Lançamento através de ligação externa](https://seatable.io/pt/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
 
-Para mais informações, ver também o artigo [Base e ver os comunicados](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) num relance.
+Para mais informações, ver também o artigo [Base e ver os comunicados]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) num relance.

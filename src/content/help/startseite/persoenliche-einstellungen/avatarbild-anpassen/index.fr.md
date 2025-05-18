@@ -10,7 +10,7 @@ url: '/fr/aide/avatarbild-anpassen'
 
 Vous pouvez personnaliser votre propre **image d'avatar** en quelques étapes seulement dans les **paramètres personnels** de votre compte.
 
-Une image d'avatar est utile pour que les autres membres de l'équipe puissent vous identifier rapidement dans SeaTable, car l'image s'affiche aussi, par exemple, en miniature devant votre nom dans les [colonnes](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) [Employés](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), [Créateurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) et [Derniers éditeurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/), ainsi que dans les partages.
+Une image d'avatar est utile pour que les autres membres de l'équipe puissent vous identifier rapidement dans SeaTable, car l'image s'affiche aussi, par exemple, en miniature devant votre nom dans les [colonnes]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Créateurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) et [Derniers éditeurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/), ainsi que dans les partages.
 
 ## Pour personnaliser l'image de votre avatar
 

@@ -14,7 +14,7 @@ As bases são de importância central no SeaTable. Sempre que entra, analisa, ed
 
 - Funções relacionais da base de dados e a [ligação de tabelas](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - [Mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) cobrindo todos os formatos de dados comuns
-- Várias [opções de partilha para](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) facilitar a [partilha de](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) dados
+- Várias [opções de partilha para]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) dados
 - [Colaboração](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/) em tempo real com outros utilizadores e transmissão em tempo real de todas as alterações
 - Uma [função de comentário para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registo numa linha
 - [Versões](https://seatable.io/pt/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) completas e [história de](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) todas as mudanças
@@ -65,7 +65,7 @@ Pode adicionar uma descrição às suas bases para dar a outros utilizadores "in
 
 Pode **partilhar** bases que possui ou administrar com outros **utilizadores e grupos**, dando-lhes acesso aos dados. A partilha é feita com diferentes permissões, para que tenha sempre controlo sobre as alterações nas suas bases.
 
-Mais informações sobre esta importante e extremamente útil função podem ser encontradas no artigo [Base e ver os comunicados](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) num relance.
+Mais informações sobre esta importante e extremamente útil função podem ser encontradas no artigo [Base e ver os comunicados]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) num relance.
 
 ## Base de cópia
 

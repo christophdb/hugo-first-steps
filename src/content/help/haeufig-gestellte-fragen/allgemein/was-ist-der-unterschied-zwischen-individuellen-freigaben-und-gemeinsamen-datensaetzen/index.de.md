@@ -22,7 +22,11 @@ Bei individuellen Freigaben arbeiten alle Nutzer, mit denen die Base, Tabelle od
 
 Aus diesem Grund erweisen sich die individuellen Freigabemöglichkeiten besonders dann als vorteilhaft, wenn Sie in einem Team an den gleichen Daten arbeiten und Änderungen am geteilten Datensatz erwünscht sind.
 
-{{< warning headline="Weiterführende Informationen" text="Wenn Sie nähere Informationen zu den individuellen Freigabemöglichkeiten benötigen, klicken Sie [hier](\"https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/\")." />}}
+{{< warning headline="Weiterführende Informationen" >}}
+
+Wenn Sie nähere Informationen zu den individuellen Freigabemöglichkeiten benötigen, klicken Sie [hier]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).
+
+{{< /warning >}}
 
 ## Gemeinsame Datensätze
 

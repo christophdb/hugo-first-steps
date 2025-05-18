@@ -29,7 +29,7 @@ A navegação do lado esquerdo da página inicial contém hiperligações para v
 
 O espaço de trabalho contém todas as bases a que tem acesso. O espaço de trabalho está dividido nas seguintes secções:
 
-- As **minhas bases** - Bases que criou e às quais só você tem acesso (desde que não dê quaisquer [partilhas](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) ).
+- As **minhas bases** - Bases que criou e às quais só você tem acesso (desde que não dê quaisquer [partilhas]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) ).
 - **Favoritos** - Bases que marcou como [favoritas](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/).
 - **Libertado para mim** - todas as bases que outros partilharam consigo.
 - **Grupos** - todos os [grupos](https://seatable.io/pt/docs/arbeiten-mit-gruppen/gruppen/) de que é membro.

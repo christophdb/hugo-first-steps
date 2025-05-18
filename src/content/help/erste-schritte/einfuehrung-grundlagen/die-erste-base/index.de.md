@@ -10,7 +10,7 @@ url: '/de/hilfe/die-erste-base'
 
 In SeaTable organisieren Sie Ihre Daten in [Bases](https://seatable.io/docs/arbeiten-mit-bases/bases/). Eine Base ist ein Container für eine oder mehrere Tabellen. Die Tabellen einer Base können unabhängig nebeneinander stehen oder - wie in einer Datenbank - über Relationen miteinander verknüpft werden.
 
-Sie können anderen Teammitgliedern auch Ihre [Bases freigeben](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) oder externe Dritte [einladen](https://seatable.io/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/), um gemeinsam daran zu arbeiten.
+Sie können anderen Teammitgliedern auch Ihre [Bases freigeben]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) oder externe Dritte [einladen](https://seatable.io/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/), um gemeinsam daran zu arbeiten.
 
 SeaTable verwaltet im Hintergrund für jede Base eine [Historie](https://seatable.io/docs/historie-und-versionen/historie-und-logs/), über die Sie Änderungen rückgängig machen und frühere Zustände wiederherstellen können, sofern Sie dies benötigen.
 
@@ -22,7 +22,7 @@ Mit einem Klick auf das **Avatar-Bild** in der oberen rechten Ecke können Sie i
 
 Mit einem Klick auf **Base hinzufügen** legen Sie Ihre erste eigene Base an. Geben Sie ihr einen **Namen**, drücken Sie **Enter** und die Base wird auf der Startseite abgelegt. Wenn Sie den Mauszeiger auf den Namen der Base bewegen, erscheinen rechts ein **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}} und das Drei-Punkte-Symbol {{< seatable-icon icon="dtable-icon-more-vertical" >}} für die erweiterten Funktionen.
 
-Über das Stift-Symbol können Sie die Base umbenennen und ihr ein anderes Icon sowie eine andere Farbe zuweisen. Zu den erweiterten Funktionen gehören z. B. die [Freigabe](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) einer Base oder deren [Export](https://seatable.io/docs/import-von-daten/datenimport-und-export/). Sie öffnen die Base mit einem Klick auf ihren Namen.
+Über das Stift-Symbol können Sie die Base umbenennen und ihr ein anderes Icon sowie eine andere Farbe zuweisen. Zu den erweiterten Funktionen gehören z. B. die [Freigabe]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) einer Base oder deren [Export](https://seatable.io/docs/import-von-daten/datenimport-und-export/). Sie öffnen die Base mit einem Klick auf ihren Namen.
 
 ## Tabellenansicht
 

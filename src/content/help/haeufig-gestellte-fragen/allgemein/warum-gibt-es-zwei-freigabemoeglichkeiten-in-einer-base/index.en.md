@@ -39,4 +39,4 @@ If you only want to share a single view, sharing can be done to three groups of 
 - [Release to a group](https://seatable.io/en/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
 - [Share via external link](https://seatable.io/en/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
 
-For more information, see also the article [Base and view shares](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) at a glance.
+For more information, see also the article [Base and view shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) at a glance.

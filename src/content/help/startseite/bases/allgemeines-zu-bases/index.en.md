@@ -14,7 +14,7 @@ At first glance, a Base is just a **container** for one or more **tables**. From
 
 - Relational database functions and the [linking of tables](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - [Over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) covering all common data formats
-- Various [sharing options for](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) easy data [sharing](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/)
+- Various [sharing options for]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}})
 - Real-time [collaboration](https://seatable.io/en/docs/seatable-nutzen/zusammenarbeit/) with other users and real-time transmission of all changes
 - A [comment function for]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) each record in a row
 - Complete [versioning](https://seatable.io/en/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) and [history of](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) all changes
@@ -65,7 +65,7 @@ You can add a description to your bases to give other users an "instruction manu
 
 You can **share** bases that you own or administer with other **users and groups**, giving them access to the data. Sharing is done with different permissions, so you always have control over changes in your bases.
 
-For more information on this important and extremely helpful feature, see the article [Base and view shares](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) at a glance.
+For more information on this important and extremely helpful feature, see the article [Base and view shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) at a glance.
 
 ## Copy a base
 

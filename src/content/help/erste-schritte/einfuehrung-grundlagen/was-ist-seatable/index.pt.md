@@ -41,9 +41,9 @@ Trabalham em **conjunto e em tempo real em** todas as coisas que organizam no Se
 
 Quer fazer um comentário sobre uma linha? Então simplesmente deixe lá um [comentário]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})! Desta forma é sempre claro do que está a falar, e mesmo meses mais tarde não tem de pensar em quando, onde e através de que canal trocou ideias com os seus colegas.
 
-Pode [partilhar bases, tabelas e pontos de vista](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) com outros utilizadores ou grupos inteiros em qualquer altura. Ao atribuir permissões de utilizador individuais, mantém o controlo sobre quem está autorizado a fazer o quê e quem não está autorizado a fazer o quê.
+Pode [partilhar bases, tabelas e pontos de vista]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) com outros utilizadores ou grupos inteiros em qualquer altura. Ao atribuir permissões de utilizador individuais, mantém o controlo sobre quem está autorizado a fazer o quê e quem não está autorizado a fazer o quê.
 
-A partilha não está limitada a outros utilizadores de SeaTable: Também pode partilhar dados com [ligações externas](https://seatable.io/pt/docs/freigaben/externer-link-erklaert/) ou [convidar](https://seatable.io/pt/docs/freigaben/einladungs-link-erklaert/) pessoas sem conta SeaTable a colaborar directamente no SeaTable.
+A partilha não está limitada a outros utilizadores de SeaTable: Também pode partilhar dados com [ligações externas]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) ou [convidar](https://seatable.io/pt/docs/freigaben/einladungs-link-erklaert/) pessoas sem conta SeaTable a colaborar directamente no SeaTable.
 
 ### ... é uma ferramenta de análise e de inquérito num só
 

@@ -41,9 +41,9 @@ Vous travaillez **ensemble et en temps réel** sur tout ce que vous organisez da
 
 Vous voulez faire une remarque sur une ligne ? Il vous suffit de laisser un [commentaire]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})! Ainsi, vous saurez toujours de quoi vous parlez, et même des mois plus tard, vous n'aurez pas à vous demander quand, où et par quel canal vous avez échangé avec vos collègues à ce sujet.
 
-Le [partage de bases, de tableaux et de vues](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) avec d'autres utilisateurs ou des groupes entiers se fait en un clin d'œil. En attribuant des autorisations individuelles aux utilisateurs, vous gardez le contrôle sur qui a le droit de faire quoi et qui n'a pas le droit de faire quoi.
+Le [partage de bases, de tableaux et de vues]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) avec d'autres utilisateurs ou des groupes entiers se fait en un clin d'œil. En attribuant des autorisations individuelles aux utilisateurs, vous gardez le contrôle sur qui a le droit de faire quoi et qui n'a pas le droit de faire quoi.
 
-Le partage n'est pas limité aux autres utilisateurs de SeaTable : Vous pouvez également partager des données avec [des liens externes](https://seatable.io/fr/docs/freigaben/externer-link-erklaert/) ou [inviter](https://seatable.io/fr/docs/freigaben/einladungs-link-erklaert/) des personnes qui n'ont pas de compte SeaTable à collaborer directement dans SeaTable.
+Le partage n'est pas limité aux autres utilisateurs de SeaTable : Vous pouvez également partager des données avec [des liens externes]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) ou [inviter](https://seatable.io/fr/docs/freigaben/einladungs-link-erklaert/) des personnes qui n'ont pas de compte SeaTable à collaborer directement dans SeaTable.
 
 ### ... est à la fois un outil d'analyse et d'enquête
 

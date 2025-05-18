@@ -41,7 +41,7 @@ url: '/ru/help/anleitung-zum-kanban-plugin'
 
 ### Группировка
 
-**Группировка** определяет, какой столбец определяет **столбцы**. [Колонки](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) [отбора](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) и [персонала](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) особенно подходят для этого.
+**Группировка** определяет, какой столбец определяет **столбцы**. [Колонки]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) особенно подходят для этого.
 
 ![Колонки Kanban Plugin](images/Saeulen.png)  
 В данном примере столбец **Статус** выбранный. Таким образом, столбы стали **Опции** Определены понятия "идея", "в процессе", "сделано" и "планируется".

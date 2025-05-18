@@ -55,7 +55,7 @@ url: '/ru/help/einstellungen-einer-universellen-app-aendern'
 
 ## Загрузить список сотрудников
 
-В четвертом разделе вы можете решить, должен ли **список сотрудников** быть виден всем пользователям приложения. Затем вы можете ввести людей в [колонки сотрудников](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) или добавить их в [комментарии](https://seatable.io/ru/docs/arbeiten-mit-zeilen/zeilen-kommentieren/).
+В четвертом разделе вы можете решить, должен ли **список сотрудников** быть виден всем пользователям приложения. Затем вы можете ввести людей в [колонки сотрудников]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) или добавить их в [комментарии](https://seatable.io/ru/docs/arbeiten-mit-zeilen/zeilen-kommentieren/).
 
 ![Загрузка списка коллабораторов в приложениях](https://seatable.io/wp-content/uploads/2023/05/Load-collaborator-list-in-apps.png)
 

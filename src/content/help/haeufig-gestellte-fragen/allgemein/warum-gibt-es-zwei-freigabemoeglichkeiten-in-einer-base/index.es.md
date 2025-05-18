@@ -1,11 +1,11 @@
 ---
-title: "¿Por qué hay dos opciones para compartir en una Base? - Mesa de mar"
+title: '¿Por qué hay dos opciones para compartir en una Base? - Mesa de mar'
 date: 2023-03-14
-lastmod: "2023-03-14"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "nsc2"
-url: "/es/ayuda/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base"
+lastmod: '2023-03-14'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'nsc2'
+url: '/es/ayuda/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 ---
 
 Hay dos opciones diferentes para compartir tus bases, que te permiten compartir **vistas individuales** o **toda** tu **base**.
@@ -39,4 +39,4 @@ Si sólo quieres compartir una vista, puedes hacerlo con tres grupos de personas
 - [Liberar a un grupo](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
 - [Comunicado a través de un enlace externo](https://seatable.io/es/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
 
-Para más información, consulte también el artículo [Base y ver las versiones](https://seatable.io/es/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) de un vistazo.
+Para más información, consulte también el artículo [Base y ver las versiones]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) de un vistazo.

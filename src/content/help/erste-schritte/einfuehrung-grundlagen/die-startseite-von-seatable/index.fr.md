@@ -29,7 +29,7 @@ La navigation latérale gauche de la page d'accueil contient des liens vers diff
 
 L'espace de travail contient toutes les bases auxquelles vous avez accès. L'espace de travail se divise en plusieurs sections :
 
-- **Mes bases** - Bases que vous avez créées et auxquelles vous êtes le seul à avoir accès (tant que vous ne donnez pas de [permissions](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) ).
+- **Mes bases** - Bases que vous avez créées et auxquelles vous êtes le seul à avoir accès (tant que vous ne donnez pas de [permissions]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) ).
 - **Favoris** - Bases que vous avez marquées comme [favorites](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/).
 - **Libéré pour moi** - toutes les bases que d'autres ont partagées avec vous.
 - **Groupes** - tous les [groupes](https://seatable.io/fr/docs/arbeiten-mit-gruppen/gruppen/) dont vous êtes membre.

@@ -1,11 +1,11 @@
 ---
-title: "Zusammenarbeit"
+title: 'Zusammenarbeit'
 date: 2022-08-25
-lastmod: "2023-03-15"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/de/hilfe/zusammenarbeit"
+lastmod: '2023-03-15'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/de/hilfe/zusammenarbeit'
 ---
 
 SeaTable ist ein mächtiges Tool, mit dem Sie für sich ganz alleine Ihre Daten organisieren können. Zur Höchstform läuft es aber bei der **Zusammenarbeit im Team** auf. Sie haben bereits ein starkes Team? Mit SeaTable machen Sie es stärker!
@@ -39,11 +39,11 @@ Datensätze, die verschiedene Gruppen und Benutzer in Ihrem Team benötigen, kö
 
 ## Interne Freigaben
 
-Sie wollen temporär mit einem oder mehreren SeaTable Benutzern an einer Base arbeiten? Mit [internen Freigaben](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) können Sie genau dies! Sie bestimmen, ob eine Freigabe nur mit Lesezugriff oder mit Lese- und Schreibzugriff erfolgen soll. So behalten Sie immer die volle Kontrolle über die Daten in Ihrer Base.
+Sie wollen temporär mit einem oder mehreren SeaTable Benutzern an einer Base arbeiten? Mit [internen Freigaben]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) können Sie genau dies! Sie bestimmen, ob eine Freigabe nur mit Lesezugriff oder mit Lese- und Schreibzugriff erfolgen soll. So behalten Sie immer die volle Kontrolle über die Daten in Ihrer Base.
 
 ## Externe Freigaben
 
-Bases lassen sich nicht nur mit anderen SeaTable Benutzern teilen. Über eine externe Freigabe können Sie Bases auch Dritten zur Verfügung stellen. Ein [externer Link](https://seatable.io/docs/freigaben/externer-link-erklaert/), den Sie mit einem Passwort und/oder einem Ablaufdatum versehen können, gibt allen Personen mit Kenntnis des Links Lesezugriff auf die freigegebene Base. Einen externen Link erzeugen Sie - wie eine interne Freigabe - über das **Teilen-Icon** {{< seatable-icon icon="dtable-icon-share" >}} im Base-Header.
+Bases lassen sich nicht nur mit anderen SeaTable Benutzern teilen. Über eine externe Freigabe können Sie Bases auch Dritten zur Verfügung stellen. Ein [externer Link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}), den Sie mit einem Passwort und/oder einem Ablaufdatum versehen können, gibt allen Personen mit Kenntnis des Links Lesezugriff auf die freigegebene Base. Einen externen Link erzeugen Sie - wie eine interne Freigabe - über das **Teilen-Icon** {{< seatable-icon icon="dtable-icon-share" >}} im Base-Header.
 
 ## Kommentare
 

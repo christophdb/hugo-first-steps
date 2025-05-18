@@ -39,11 +39,11 @@ Vous pouvez mettre à disposition des différents groupes et utilisateurs de vot
 
 ## Partages internes
 
-Vous souhaitez travailler temporairement sur une base avec un ou plusieurs utilisateurs de SeaTable ? Les [partages internes](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) vous permettent de le faire ! Vous déterminez si un partage doit être en lecture seule ou en lecture et écriture. Vous gardez ainsi toujours un contrôle total sur les données de votre base.
+Vous souhaitez travailler temporairement sur une base avec un ou plusieurs utilisateurs de SeaTable ? Les [partages internes]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) vous permettent de le faire ! Vous déterminez si un partage doit être en lecture seule ou en lecture et écriture. Vous gardez ainsi toujours un contrôle total sur les données de votre base.
 
 ## Partages externes
 
-Les bases ne peuvent pas seulement être partagées avec d'autres utilisateurs de SeaTable. Vous pouvez également mettre des bases à disposition de tiers via un partage externe. Un [lien externe](https://seatable.io/fr/docs/freigaben/externer-link-erklaert/), auquel vous pouvez attribuer un mot de passe et/ou une date d'expiration, donne à toute personne connaissant le lien un accès en lecture à la base partagée. Vous créez un lien externe - comme un partage interne - via l'**icône de partage** {{< seatable-icon icon="dtable-icon-share" >}} dans l'en-tête de la base.
+Les bases ne peuvent pas seulement être partagées avec d'autres utilisateurs de SeaTable. Vous pouvez également mettre des bases à disposition de tiers via un partage externe. Un [lien externe]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}), auquel vous pouvez attribuer un mot de passe et/ou une date d'expiration, donne à toute personne connaissant le lien un accès en lecture à la base partagée. Vous créez un lien externe - comme un partage interne - via l'**icône de partage** {{< seatable-icon icon="dtable-icon-share" >}} dans l'en-tête de la base.
 
 ## Commentaires
 

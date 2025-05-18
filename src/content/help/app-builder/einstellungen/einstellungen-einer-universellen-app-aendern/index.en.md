@@ -55,7 +55,7 @@ This is only a default setting when the app is opened for the first time. Every 
 
 ## Load employee list
 
-In the fourth section, you can decide whether your **employee list** should be visible to all users in the app. You can then enter people in [employee columns](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) or add them to [comments](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/).
+In the fourth section, you can decide whether your **employee list** should be visible to all users in the app. You can then enter people in [employee columns]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) or add them to [comments](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/).
 
 ![Load collaborator list in apps](https://seatable.io/wp-content/uploads/2023/05/Load-collaborator-list-in-apps.png)
 

@@ -22,7 +22,11 @@ url: '/ru/help/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-geme
 
 По этой причине опции индивидуального выпуска оказываются особенно выгодными, когда вы работаете над одними и теми же данными в команде и хотите внести изменения в общий набор данных.
 
-{{< warning headline="Дополнительная информация" text="Если вам нужна дополнительная информация об отдельных вариантах выпуска, нажмите [здесь](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/)." />}}
+{{< warning headline="Дополнительная информация" >}}
+
+Если вам нужна дополнительная информация об отдельных вариантах выпуска, нажмите [здесь]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).
+
+{{< /warning >}}
 
 ## Общие наборы данных
 

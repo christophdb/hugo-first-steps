@@ -1,11 +1,11 @@
 ---
-title: "Warum gibt es zwei Freigabemöglichkeiten in einer Base?"
+title: 'Warum gibt es zwei Freigabemöglichkeiten in einer Base?'
 date: 2023-03-14
-lastmod: "2023-03-14"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "nsc2"
-url: "/de/hilfe/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base"
+lastmod: '2023-03-14'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'nsc2'
+url: '/de/hilfe/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 ---
 
 In Ihren Bases stehen Ihnen zwei verschiedene Freigabemöglichkeiten zur Verfügung, mit denen Sie entweder **einzelne Ansichten** oder Ihre **ganze Base** freigeben können.
@@ -39,4 +39,4 @@ Wenn Sie nur eine einzelne Ansicht teilen möchten, kann die Freigabe an drei Pe
 - [Freigabe an eine Gruppe](https://seatable.io/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
 - [Freigabe via externem Link](https://seatable.io/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
 
-Weitere Informationen erhalten Sie auch im Artikel [Base- und Ansichtsfreigaben im Überblick](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/).
+Weitere Informationen erhalten Sie auch im Artikel [Base- und Ansichtsfreigaben im Überblick]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).

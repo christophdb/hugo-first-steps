@@ -39,11 +39,11 @@ Los registros que necesitan los distintos grupos y usuarios de tu equipo pueden 
 
 ## Comunicados internos
 
-¿Quiere trabajar temporalmente con uno o más usuarios de SeaTable en una base? Con [los recursos compartidos internos](https://seatable.io/es/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) puede hacerlo. Usted determina si un recurso compartido debe ser de sólo lectura o de lectura y escritura. De esta forma siempre mantendrá el control total sobre los datos de su base.
+¿Quiere trabajar temporalmente con uno o más usuarios de SeaTable en una base? Con [los recursos compartidos internos]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) puede hacerlo. Usted determina si un recurso compartido debe ser de sólo lectura o de lectura y escritura. De esta forma siempre mantendrá el control total sobre los datos de su base.
 
 ## Comunicados de prensa externos
 
-Las bases no sólo se pueden compartir con otros usuarios de SeaTable. También puede poner las bases a disposición de terceros a través de un enlace externo. Un enlace [externo](https://seatable.io/es/docs/freigaben/externer-link-erklaert/), que puede proporcionar con una contraseña y/o una fecha de caducidad, da a todas las personas con conocimiento del enlace acceso de lectura a la base compartida. Puede crear un enlace externo, al igual que un recurso compartido interno, a través del **icono de recurso compartido** {{< seatable-icon icon="dtable-icon-share" >}} en la cabecera de la base.
+Las bases no sólo se pueden compartir con otros usuarios de SeaTable. También puede poner las bases a disposición de terceros a través de un enlace externo. Un enlace [externo]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}), que puede proporcionar con una contraseña y/o una fecha de caducidad, da a todas las personas con conocimiento del enlace acceso de lectura a la base compartida. Puede crear un enlace externo, al igual que un recurso compartido interno, a través del **icono de recurso compartido** {{< seatable-icon icon="dtable-icon-share" >}} en la cabecera de la base.
 
 ## Comentarios
 

@@ -10,7 +10,7 @@ url: '/help/die-erste-base'
 
 In SeaTable you organize your data in [bases](https://seatable.io/en/docs/arbeiten-mit-bases/bases/). A base is a container for one or more tables. The tables of a base can stand independently next to each other or - as in a database - be linked to each other via relations.
 
-You can also [share](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) your [bases](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) with other team members or [invite](https://seatable.io/en/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) external third parties to work on them together.
+You can also [share]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) with other team members or [invite](https://seatable.io/en/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) external third parties to work on them together.
 
 SeaTable maintains a [history](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) for each base in the background, allowing you to undo changes and restore previous states if you need to.
 
@@ -22,7 +22,7 @@ By clicking on the **avatar image** in the upper right corner, you can switch to
 
 Click on **Add Base** to create your first base. Give it a **name**, press **Enter** and the base will be placed on the start page. When you move the mouse pointer over the base name, a **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}} and the three-dot icon {{< seatable-icon icon="dtable-icon-more-vertical" >}} for the advanced functions appear on the right.
 
-Using the pencil icon, you can rename the base and assign a different icon and color to it. The advanced functions include, for example, [sharing](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) a base or [exporting](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/) it. You open the base by clicking on its name.
+Using the pencil icon, you can rename the base and assign a different icon and color to it. The advanced functions include, for example, [sharing]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) a base or [exporting](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/) it. You open the base by clicking on its name.
 
 ## Table view
 

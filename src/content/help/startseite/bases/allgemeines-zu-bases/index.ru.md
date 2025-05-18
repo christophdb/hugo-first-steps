@@ -14,7 +14,7 @@ url: '/ru/help/bases'
 
 - Функции реляционных баз данных и [связывание таблиц](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - [Более 20 типов столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), охватывающих все распространенные форматы данных
-- Различные [варианты совместного использования для](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) легкого обмена данными
+- Различные [варианты совместного использования для]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) легкого обмена данными
 - [Совместная работа](https://seatable.io/ru/docs/seatable-nutzen/zusammenarbeit/) с другими пользователями и передача всех изменений в режиме реального времени
 - [Функция комментария для]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) каждой записи в ряду
 - Полная [версионность](https://seatable.io/ru/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) и [история](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) всех изменений
@@ -65,7 +65,7 @@ url: '/ru/help/bases'
 
 Вы можете **совместно использовать** базы, которыми владеете или управляете, с другими **пользователями и группами**, предоставляя им доступ к данным. Совместное использование осуществляется с различными разрешениями, чтобы вы всегда контролировали изменения в своих базах.
 
-Более подробную информацию об этой важной и чрезвычайно полезной функции можно найти в статье [База и просмотр релизов](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) с первого взгляда.
+Более подробную информацию об этой важной и чрезвычайно полезной функции можно найти в статье [База и просмотр релизов]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) с первого взгляда.
 
 ## Копировальная база
 

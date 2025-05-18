@@ -154,7 +154,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-collaborator" >}} **Mitarbeiter**
 
 In einer Mitarbeiter-Spalte können Sie eine beliebige Anzahl an **Benutzern**, die mindestens Lesezugriff auf die Base haben, erfassen. SeaTable Benutzer ohne Zugriff können nicht in der Spalte als Mitarbeiter erfasst werden. Andere Eingaben sind ebenfalls nicht erlaubt. Die Mitarbeiter-Spalte ist insbesondere für das Projektmanagement sinnvoll. Wenn Sie in einer Tabelle beispielsweise zu erledigende Aufgaben erfassen, dann können Sie in Spalten des Typs Mitarbeiter die ausführenden Personen und den Verantwortlichen festhalten.
 
-[Mehr zur Mitarbeiter-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/)
+[Mehr zur Mitarbeiter-Spalte]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}})
 
 ### Schaltfläche
 

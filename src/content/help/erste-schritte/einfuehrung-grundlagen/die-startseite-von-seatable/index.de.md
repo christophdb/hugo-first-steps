@@ -1,11 +1,11 @@
 ---
-title: "Die Startseite von SeaTable"
+title: 'Die Startseite von SeaTable'
 date: 2023-02-16
-lastmod: "2023-07-19"
-categories: 
-  - "kurzanleitungen"
-author: "cdb"
-url: "/de/hilfe/die-startseite-von-seatable"
+lastmod: '2023-07-19'
+categories:
+    - 'kurzanleitungen'
+author: 'cdb'
+url: '/de/hilfe/die-startseite-von-seatable'
 ---
 
 Nachdem Sie sich angemeldet und eingeloggt haben, gelangen Sie auf die Startseite von SeaTable. In diesem Artikel werden wir die verschiedenen Abschnitte aufschlüsseln, um Ihnen die Navigation zu den verschiedenen Bereichen des Produkts zu erleichtern.
@@ -29,7 +29,7 @@ Die linke Seitennavigation der Startseite enthält Links zu verschiedenen Abschn
 
 Der Arbeitsbereich enthält alle Bases, auf die Sie Zugriff haben. Der Arbeitsbereich unterteilt sich in die folgenden Abschnitte:
 
-- **Meine Bases** - Bases, die Sie erstellt haben und auf die nur Sie Zugriff haben (solange Sie keine [Freigaben](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) erteilen).
+- **Meine Bases** - Bases, die Sie erstellt haben und auf die nur Sie Zugriff haben (solange Sie keine [Freigaben]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) erteilen).
 - **Favoriten** - Bases, die Sie als [Favoriten](https://seatable.io/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/) markiert haben.
 - **Für mich freigegeben** - alle Bases, die Andere mit Ihnen geteilt haben.
 - **Gruppen** - alle [Gruppen](https://seatable.io/docs/arbeiten-mit-gruppen/gruppen/), in denen Sie Mitglied sind.

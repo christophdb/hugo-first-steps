@@ -45,7 +45,7 @@ Si vous gérez par exemple un tableau dans lequel vous saisissez les tâches ouv
 
 ## Quand un tel filtre est-il utile ?
 
-L'alternative serait de filtrer selon la colonne [Créateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) ou [Collaborateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), qui offrent également des possibilités de filtrage dynamique. Ces deux colonnes présentent toutefois les inconvénients suivants :
+L'alternative serait de filtrer selon la colonne [Créateur]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), qui offrent également des possibilités de filtrage dynamique. Ces deux colonnes présentent toutefois les inconvénients suivants :
 
 - La **valeur dans la colonne "Créateur** " ne peut _plus_ être **modifiée** ultérieurement. Une fois définie, la valeur reste toujours la même. Cela poserait problème dans l'exemple ci-dessus, car le créateur des tâches n'est _pas_ le collaborateur.
 - La **colonne des collaborateurs** ne peut être remplie que si un membre de l'équipe a au moins **un accès en lecture** à la base. Cela n'est peut-être _pas_ souhaitable, en particulier lors de l'utilisation de l'[application universelle](https://seatable.io/fr/docs/apps/universelle-app/).

@@ -10,7 +10,7 @@ url: '/ru/help/avatarbild-anpassen'
 
 Вы можете настроить **изображение** своего **аватара** всего за несколько шагов в **личных настройках** своей учетной записи.
 
-Изображение аватара полезно для того, чтобы другие члены команды могли быстро идентифицировать вас в SeaTable, поскольку изображение также отображается в виде эскиза, например, в [колонках](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)" [Сотрудники](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/)", " [Создатель"](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) и " [Последний редактор"](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/), а также перед вашим именем в акциях.
+Изображение аватара полезно для того, чтобы другие члены команды могли быстро идентифицировать вас в SeaTable, поскольку изображение также отображается в виде эскиза, например, в [колонках]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}})", " [Создатель"](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) и " [Последний редактор"](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/), а также перед вашим именем в акциях.
 
 ## Чтобы настроить изображение своего аватара
 

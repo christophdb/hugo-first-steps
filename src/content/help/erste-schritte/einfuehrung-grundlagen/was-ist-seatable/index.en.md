@@ -41,9 +41,9 @@ You work **together and in real time on** all the things you organize in SeaTabl
 
 You want to make a comment on a row ? Then simply leave a [comment]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) there! That way, it's always clear what you're talking about, and even months later you don't have to think about when, where and via which channel you exchanged ideas with your colleagues.
 
-[Sharing bases, tables and views](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) with other users or entire groups is a snap. By assigning individual user permissions, you retain control over who can do what and who cannot.
+[Sharing bases, tables and views]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) with other users or entire groups is a snap. By assigning individual user permissions, you retain control over who can do what and who cannot.
 
-Sharing is not limited to other SeaTable users: You can also share data with [external links](https://seatable.io/en/docs/freigaben/externer-link-erklaert/) or [invite](https://seatable.io/en/docs/freigaben/einladungs-link-erklaert/) people without SeaTable account to collaborate directly in SeaTable.
+Sharing is not limited to other SeaTable users: You can also share data with [external links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) or [invite](https://seatable.io/en/docs/freigaben/einladungs-link-erklaert/) people without SeaTable account to collaborate directly in SeaTable.
 
 ### ... is analysis and survey tool in one
 

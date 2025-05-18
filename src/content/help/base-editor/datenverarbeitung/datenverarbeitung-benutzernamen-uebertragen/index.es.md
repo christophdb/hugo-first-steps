@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Mediante la función de tratamiento de datos, puede realizar diversas operaciones en una columna. La **transferencia de nombres de usuario** es una operación que permite copiar datos de columnas del tipo [Empleado](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), [Creador](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) o [Último editor](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) en una [columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+Mediante la función de tratamiento de datos, puede realizar diversas operaciones en una columna. La **transferencia de nombres de usuario** es una operación que permite copiar datos de columnas del tipo [Empleado]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Creador](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) o [Último editor](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) en una [columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
 
 ## Puesta en marcha de la operación
 
@@ -31,7 +31,7 @@ La primera vez que se ejecuta con éxito, un pequeño **garrapata verde**.
 
 ## Ejecución de la operación
 
-Si, por ejemplo, mantiene una tabla con tareas pendientes en la que **los miembros de** su equipo están registrados como personas de contacto responsables en una [columna de personal](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), puede simplemente copiar los nombres de usuario en una [columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), por ejemplo, para utilizarlos en una lista de personal.
+Si, por ejemplo, mantiene una tabla con tareas pendientes en la que **los miembros de** su equipo están registrados como personas de contacto responsables en una [columna de personal]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), puede simplemente copiar los nombres de usuario en una [columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), por ejemplo, para utilizarlos en una lista de personal.
 
 Para ello, siga los pasos descritos anteriormente y seleccione la columna de personal como columna de **origen** y la columna de texto como columna de **resultado**.
 

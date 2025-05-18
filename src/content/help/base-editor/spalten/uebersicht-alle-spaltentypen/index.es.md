@@ -154,7 +154,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-collaborator" >}} **Empleado**
 
 En una columna de empleados, puede introducir cualquier número de **usuarios** que tengan al menos acceso de lectura a la base. Los usuarios de SeaTable sin acceso no pueden introducirse en la columna como empleados. Tampoco se permiten otras entradas. La columna de personal es especialmente útil para la gestión de proyectos. Por ejemplo, si introduce tareas que deben completarse en una tabla, puede registrar las personas que realizan las tareas y la persona responsable en columnas del tipo Empleado.
 
-[Más información sobre la columna del personal](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/)
+[Más información sobre la columna del personal]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}})
 
 ### Botón
 

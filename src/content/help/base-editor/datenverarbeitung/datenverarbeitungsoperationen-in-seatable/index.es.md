@@ -39,7 +39,7 @@ Actualmente pueden realizarse las siguientes **operaciones de relación** median
 Cada uno de los dos tipos de operaciones de tratamiento de datos tiene **requisitos** diferentes que deben cumplirse para crear la operación correspondiente.
 
 - Las **operaciones matemáticas** requieren la presencia de **dos columnas de números** en su tabla.
-- Para las **operaciones de relación**, se necesitan tipos de columna muy específicos en función de la aplicación, por ejemplo, una [columna de personal](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) y una columna de [texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) cuando se transfieren nombres de usuario.
+- Para las **operaciones de relación**, se necesitan tipos de columna muy específicos en función de la aplicación, por ejemplo, una [columna de personal]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) y una columna de [texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) cuando se transfieren nombres de usuario.
 
 ## Notas sobre la ejecución
 

@@ -14,7 +14,7 @@ Les bases sont essentielles dans SeaTable. Chaque fois que vous saisissez, analy
 
 - Fonctions de base de données relationnelles et [liens entre les tables](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - [Plus de 20 types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) couvrant tous les formats de données courants
-- Diverses [possibilités de partage](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) pour faciliter le partage des données
+- Diverses [possibilités de partage]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) pour faciliter le partage des données
 - [Collaboration](https://seatable.io/fr/docs/seatable-nutzen/zusammenarbeit/) en temps réel avec d'autres utilisateurs et transmission en temps réel de toutes les modifications
 - Une [fonction de commentaire]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) pour chaque enregistrement sur une ligne
 - [Versionnage](https://seatable.io/fr/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) complet et [historique](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/) de toutes les modifications
@@ -65,7 +65,7 @@ Vous pouvez ajouter une description à vos bases afin de donner un "mode d'emplo
 
 Vous pouvez **partager** des bases dont vous êtes le propriétaire ou l'administrateur avec d'autres **utilisateurs et groupes** et leur donner ainsi accès aux données. Les partages s'effectuent avec différentes autorisations, ce qui vous permet de contrôler à tout moment les modifications apportées à vos bases.
 
-Vous trouverez plus d'informations sur cette fonction importante et extrêmement utile dans l'article Vue d ['ensemble des partages de base et de vue](https://seatable.io/fr/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/).
+Vous trouverez plus d'informations sur cette fonction importante et extrêmement utile dans l'article Vue d ['ensemble des partages de base et de vue]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).
 
 ## Copier la base
 

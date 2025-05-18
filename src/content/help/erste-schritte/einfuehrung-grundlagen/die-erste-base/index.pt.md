@@ -10,7 +10,7 @@ url: '/pt/ajuda/die-erste-base'
 
 No SeaTable, organiza os seus dados em [bases](https://seatable.io/pt/docs/arbeiten-mit-bases/bases/). Uma base é um contentor para uma ou mais tabelas. As tabelas de uma base podem estar independentes umas das outras ou - como numa base de dados - estar ligadas entre si através de relações.
 
-Também pode [partilhar](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) as suas [bases](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) com outros membros da equipa ou [convidar](https://seatable.io/pt/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) terceiros externos para trabalharem nelas em conjunto.
+Também pode [partilhar]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) com outros membros da equipa ou [convidar](https://seatable.io/pt/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) terceiros externos para trabalharem nelas em conjunto.
 
 O SeaTable mantém um [histórico](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) para cada base em segundo plano, permitindo-lhe anular alterações e restaurar estados anteriores, se necessário.
 
@@ -22,7 +22,7 @@ Ao clicar na **imagem do avatar** no canto superior direito, pode aceder às [de
 
 Clique em **Adicionar base** para criar a sua primeira base. Dê-lhe um **nome**, prima **Enter** e a base é colocada na página inicial. Se passar o ponteiro do rato sobre o nome da base, aparece um **símbolo de lápis** {{< seatable-icon icon="dtable-icon-rename" >}} e o símbolo de três pontos {{< seatable-icon icon="dtable-icon-more-vertical" >}} à direita para as funções alargadas.
 
-Utilizando o ícone do lápis, pode mudar o nome da base e atribuir-lhe um ícone e uma cor diferentes. As funções avançadas incluem, por exemplo, a [partilha de](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) uma base ou a sua [exportação](https://seatable.io/pt/docs/import-von-daten/datenimport-und-export/). Para abrir a base, clique no seu nome.
+Utilizando o ícone do lápis, pode mudar o nome da base e atribuir-lhe um ícone e uma cor diferentes. As funções avançadas incluem, por exemplo, a [partilha de]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) uma base ou a sua [exportação](https://seatable.io/pt/docs/import-von-daten/datenimport-und-export/). Para abrir a base, clique no seu nome.
 
 ## Vista de tabela
 

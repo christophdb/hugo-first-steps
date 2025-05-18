@@ -45,9 +45,9 @@ Sie arbeiten **gemeinsam und in Echtzeit** an all den Dingen, die Sie in SeaTabl
 
 Sie wollen eine Anmerkung zu einer Zeile machen? Dann hinterlassen Sie dort einfach einen [Kommentar]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})! So ist immer klar, worüber Sie reden, und auch Monate später müssen Sie nicht überlegen, wann, wo und über welchen Kanal Sie sich mit Ihren Kollegen dazu ausgetauscht haben.
 
-Das [Teilen von Bases, Tabellen und Ansichten](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) mit anderen Benutzern oder ganzen Gruppen erledigen Sie im Handumdrehen. Durch die Vergabe individueller Benutzerberechtigungen behalten Sie die Kontrolle darüber, wer was darf und wer was nicht darf.
+Das [Teilen von Bases, Tabellen und Ansichten]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) mit anderen Benutzern oder ganzen Gruppen erledigen Sie im Handumdrehen. Durch die Vergabe individueller Benutzerberechtigungen behalten Sie die Kontrolle darüber, wer was darf und wer was nicht darf.
 
-Das Teilen ist nicht auf andere SeaTable Benutzer begrenzt: Sie können Daten auch mit [externen Links](https://seatable.io/docs/freigaben/externer-link-erklaert/) teilen oder Personen ohne SeaTable Account [einladen](https://seatable.io/docs/freigaben/einladungs-link-erklaert/) und so direkt in SeaTable zusammenarbeiten.
+Das Teilen ist nicht auf andere SeaTable Benutzer begrenzt: Sie können Daten auch mit [externen Links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) teilen oder Personen ohne SeaTable Account [einladen](https://seatable.io/docs/freigaben/einladungs-link-erklaert/) und so direkt in SeaTable zusammenarbeiten.
 
 ### ... ist Analyse- und Umfragetool in einem
 

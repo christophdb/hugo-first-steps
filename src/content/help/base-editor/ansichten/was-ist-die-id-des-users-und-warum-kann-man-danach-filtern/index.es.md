@@ -45,7 +45,7 @@ Por ejemplo, si ahora mantiene una tabla en la que introduce las tareas pendient
 
 ## ¿Cuándo tiene sentido un filtro de este tipo?
 
-La alternativa sería filtrar por la columna [Creador](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) o [Personal](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), que también ofrecen opciones de filtrado dinámico. Sin embargo, estas dos columnas presentan las siguientes desventajas:
+La alternativa sería filtrar por la columna [Creador]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), que también ofrecen opciones de filtrado dinámico. Sin embargo, estas dos columnas presentan las siguientes desventajas:
 
 - El valor de **la columna del creador** _no puede_ **modificarse** posteriormente. Una vez establecido, el valor siempre es el mismo. Esto sería problemático en el ejemplo anterior porque el creador de las tareas _no_ es el empleado.
 - La **columna de personal** sólo puede rellenarse si un miembro del equipo tiene al menos **acceso de lectura** a la base. Esto puede _no_ ser deseable, especialmente cuando se utiliza la [aplicación universal](https://seatable.io/es/docs/apps/universelle-app/).

@@ -22,7 +22,11 @@ Con las comparticiones individuales, todos los usuarios con los que se ha compar
 
 Por este motivo, las opciones de publicación individual resultan especialmente ventajosas cuando se trabaja en equipo con los mismos datos y se desean realizar cambios en el conjunto de datos compartidos.
 
-{{< warning headline="Para más información" text="Si necesita más información sobre las opciones individuales de liberación, haga clic [aquí](https://seatable.io/es/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/)." />}}
+{{< warning headline="Para más información" >}}
+
+Si necesita más información sobre las opciones individuales de liberación, haga clic [aquí]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).
+
+{{< /warning >}}
 
 ## Conjuntos de datos comunes
 

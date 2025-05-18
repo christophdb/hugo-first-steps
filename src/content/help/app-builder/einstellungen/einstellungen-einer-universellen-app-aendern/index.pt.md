@@ -55,7 +55,7 @@ Esta é apenas uma definição predefinida quando a aplicação é aberta pela p
 
 ## Carregar lista de empregados
 
-Na quarta secção, pode decidir se a sua **lista de empregados** deve ser visível para todos os utilizadores da aplicação. Pode então introduzir pessoas nas [colunas de empregados](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) ou adicioná-las aos [comentários](https://seatable.io/pt/docs/arbeiten-mit-zeilen/zeilen-kommentieren/).
+Na quarta secção, pode decidir se a sua **lista de empregados** deve ser visível para todos os utilizadores da aplicação. Pode então introduzir pessoas nas [colunas de empregados]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) ou adicioná-las aos [comentários](https://seatable.io/pt/docs/arbeiten-mit-zeilen/zeilen-kommentieren/).
 
 ![Carregar lista de colaboradores em aplicações](https://seatable.io/wp-content/uploads/2023/05/Load-collaborator-list-in-apps.png)
 

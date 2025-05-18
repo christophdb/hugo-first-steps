@@ -41,7 +41,7 @@ Se tiver vários **Tabelas** e **Vistas** que criou na sua base, pode selecciona
 
 ### Agrupamento
 
-O **agrupamento** determina qual a coluna que define as **colunas**. A [selecção](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) e as [colunas de pessoal](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) são particularmente adequadas para tal.
+O **agrupamento** determina qual a coluna que define as **colunas**. A [selecção]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) são particularmente adequadas para tal.
 
 ![Colunas de Plugin Kanban](images/Saeulen.png)  
 Neste exemplo, a coluna **Estado** escolhido. Como resultado, os pilares foram **Opções** "ideia", "em curso", "concluído" e "planeado" definidos.

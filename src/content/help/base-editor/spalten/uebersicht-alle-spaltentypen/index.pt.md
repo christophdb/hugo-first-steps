@@ -154,7 +154,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-collaborator" >}} **Empregado**
 
 Numa coluna de pessoal, é possível introduzir qualquer número de **utilizadores** que tenham, pelo menos, acesso de leitura à base. Os utilizadores do SeaTable sem acesso não podem ser introduzidos na coluna como funcionários. Também não são permitidas outras entradas. A coluna de pessoal é particularmente útil para a gestão de projectos. Por exemplo, se introduzir tarefas a serem concluídas numa tabela, pode registar as pessoas que executam as tarefas e a pessoa responsável em colunas do tipo Funcionário.
 
-[Mais informações sobre a coluna do pessoal](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/)
+[Mais informações sobre a coluna do pessoal]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}})
 
 ### Botão
 

@@ -45,7 +45,7 @@ Now, for example, if you maintain a table in which you enter the open tasks of y
 
 ## When is such a filter useful?
 
-The alternative would be to filter by the [Creator](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) or [Employee](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) column, which also offer dynamic filtering options. However, these two columns have the following disadvantages:
+The alternative would be to filter by the [Creator]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) column, which also offer dynamic filtering options. However, these two columns have the following disadvantages:
 
 - The **value in the creator column** _cannot_ be **changed** later. Once set, the value always remains the same. This would be problematic in the above example because the creator of the tasks is _not_ the employee.
 - The **Staff column** can only be filled if a team member has at least **read access** to Base. Especially when using the [Universal App](https://seatable.io/en/docs/apps/universelle-app/), this may _not_ be desired.

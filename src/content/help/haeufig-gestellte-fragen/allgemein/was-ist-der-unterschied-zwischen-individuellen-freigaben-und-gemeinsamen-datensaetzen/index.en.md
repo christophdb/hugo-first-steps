@@ -22,7 +22,11 @@ With individual shares, all users with whom the base, table or view has been sha
 
 For this reason, the individual release options prove to be particularly advantageous if you are working on the same data in a team and changes to the shared data set are desired.
 
-{{< warning headline="Further information" text="If you need more information on the individual release options, click [here](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/)." />}}
+{{< warning headline="Further information" >}}
+
+If you need more information on the individual release options, click [here]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}})
+
+{{< /warning >}}
 
 ## Common data sets
 

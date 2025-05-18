@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), [Ersteller](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) oder [Letzter Bearbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopiert werden können.
+Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Ersteller](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) oder [Letzter Bearbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopiert werden können.
 
 ## Anlegen der Operation
 
@@ -23,7 +23,7 @@ Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über ei
 
 ## Ausführung der Operation
 
-Wenn Sie beispielsweise eine Tabelle mit zu erledigenden Aufgaben pflegen, in der Ihre **Teammitglieder** als zuständige Ansprechpersonen in einer [Mitarbeiter-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) erfasst sind, können Sie die Benutzernamen einfach in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopieren, z. B. um diese für eine Mitarbeiterliste zu verwenden.
+Wenn Sie beispielsweise eine Tabelle mit zu erledigenden Aufgaben pflegen, in der Ihre **Teammitglieder** als zuständige Ansprechpersonen in einer [Mitarbeiter-Spalte]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) erfasst sind, können Sie die Benutzernamen einfach in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopieren, z. B. um diese für eine Mitarbeiterliste zu verwenden.
 
 Befolgen Sie dazu die oben beschriebenen Schritte und wählen Sie die Mitarbeiter-Spalte als **Quellspalte** sowie die Text-Spalte als **Ergebnisspalte** aus.
 
