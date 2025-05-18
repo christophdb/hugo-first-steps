@@ -37,6 +37,6 @@ Für jede Berechtigung stehen Ihnen folgende Optionen zur Auswahl, mit denen Sie
 
 ![Verfügbare Optionen der Seitenberechtigung Wer kann die Seite sehen?](images/page-permission-who-can-add-records.png)
 
-Wählen Sie die Option **Bestimmte Rollen** aus, um selbst definierte Rollen festzulegen. Dazu erstellen Sie zuvor in der [Benutzer- und Rollenverwaltung](https://seatable.io/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/) neue **Rollen** für einzelne Nutzergruppen, denen Sie auf jeder Seite der Universellen App individuell Berechtigungen zuweisen können.
+Wählen Sie die Option **Bestimmte Rollen** aus, um selbst definierte Rollen festzulegen. Dazu erstellen Sie zuvor in der [Benutzer- und Rollenverwaltung]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) neue **Rollen** für einzelne Nutzergruppen, denen Sie auf jeder Seite der Universellen App individuell Berechtigungen zuweisen können.
 
 ![Definition von bestimmten Rollen, die über eine entsprechende Berechtigung verfügen](images/define-roles.png)

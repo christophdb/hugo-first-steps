@@ -56,7 +56,7 @@ You can also display other **data** from the underlying table on the index cards
 
 ## Page authorizations
 
-You can define the following [page authorizations](https://seatable.io/en/docs/apps/seitenberechtigungen-in-einer-universellen-app/) for Kanban pages:
+You can define the following [page authorizations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) for Kanban pages:
 
 ![Page authorizations of gallery pages](images/Seitenberechtigungen-von-Galerieseiten.png)
 

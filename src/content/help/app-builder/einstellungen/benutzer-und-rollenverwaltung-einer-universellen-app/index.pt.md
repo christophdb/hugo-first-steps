@@ -90,7 +90,7 @@ Nesta secção, pode definir qualquer número de **funções**, que pode atribui
 
 Aqui, inicialmente, apenas define os **nomes das** funções. Pode definir quais as **permissões** que os utilizadores com as diferentes funções têm individualmente para cada página da aplicação.
 
-[Saiba mais sobre as permissões de página aqui.](https://seatable.io/pt/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
+[Saiba mais sobre as permissões de página aqui.]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})
 
 ### Ligação do convite
 

@@ -104,7 +104,7 @@ Comme pour les pages de tableaux et de requêtes, vous pouvez utiliser des colon
 
 ## Autorisations des pages
 
-Pour les pages de type enregistrement unique, vous pouvez définir les [autorisations de page](https://seatable.io/fr/docs/apps/seitenberechtigungen-in-einer-universellen-app/) suivantes :
+Pour les pages de type enregistrement unique, vous pouvez définir les [autorisations de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) suivantes :
 
 ![Autorisations des pages du calendrier](images/Seitenberechtigungen-von-Kalenderseiten.png)
 

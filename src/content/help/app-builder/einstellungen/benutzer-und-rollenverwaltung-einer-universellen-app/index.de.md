@@ -81,7 +81,7 @@ In diesem Abschnitt können Sie eine beliebige Anzahl an **Rollen** definieren, 
 
 Hier legen Sie zunächst nur die **Namen** der Rollen fest. Welche **Berechtigungen** Nutzer mit den verschiedenen Rollen haben, können Sie individuell für jede Seite der App definieren.
 
-[Erfahren Sie hier mehr über die Seitenberechtigungen.](https://seatable.io/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
+[Erfahren Sie hier mehr über die Seitenberechtigungen.]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})
 
 ### Einladungslink
 

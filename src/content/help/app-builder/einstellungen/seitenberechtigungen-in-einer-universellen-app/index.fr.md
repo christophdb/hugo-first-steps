@@ -48,6 +48,6 @@ Pour chaque autorisation, vous avez le choix entre les options suivantes, qui vo
 
 ![Options disponibles pour l'autorisation des pages Qui peut voir la page ?](images/page-permission-who-can-add-records.png)
 
-Sélectionnez l'option **Rôles spécifiques** pour définir des rôles que vous avez vous-même définis. Pour ce faire, créez au préalable dans la [gestion des utilisateurs et des rôles](https://seatable.io/fr/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/) de nouveaux **rôles** pour des groupes d'utilisateurs individuels, auxquels vous pourrez attribuer individuellement des autorisations sur chaque page de l'application universelle.
+Sélectionnez l'option **Rôles spécifiques** pour définir des rôles que vous avez vous-même définis. Pour ce faire, créez au préalable dans la [gestion des utilisateurs et des rôles]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) de nouveaux **rôles** pour des groupes d'utilisateurs individuels, auxquels vous pourrez attribuer individuellement des autorisations sur chaque page de l'application universelle.
 
 ![Définition de rôles spécifiques disposant d'une autorisation correspondante](images/define-roles.png)

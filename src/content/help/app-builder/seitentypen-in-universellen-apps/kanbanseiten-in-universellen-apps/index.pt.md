@@ -56,7 +56,7 @@ Também é possível apresentar outros **dados** da tabela subjacente nos cartõ
 
 ## Autorizações de páginas
 
-É possível definir as seguintes [autorizações de página](https://seatable.io/pt/docs/apps/seitenberechtigungen-in-einer-universellen-app/) para páginas Kanban:
+É possível definir as seguintes [autorizações de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para páginas Kanban:
 
 ![Autorizações de páginas para páginas de galerias](images/Seitenberechtigungen-von-Galerieseiten.png)
 

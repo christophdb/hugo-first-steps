@@ -104,7 +104,7 @@ Just like on table and query pages, you can also use columns of the [button](htt
 
 ## Page authorizations
 
-You can define the following [page authorizations](https://seatable.io/en/docs/apps/seitenberechtigungen-in-einer-universellen-app/) for pages of the Single data record type:
+You can define the following [page authorizations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) for pages of the Single data record type:
 
 ![Page authorizations for calendar pages](images/Seitenberechtigungen-von-Kalenderseiten.png)
 

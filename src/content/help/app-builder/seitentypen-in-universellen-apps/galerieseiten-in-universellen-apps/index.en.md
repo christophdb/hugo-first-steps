@@ -52,7 +52,7 @@ In the **settings for the link column**, you can define which data is visible an
 
 ## Page authorizations
 
-You can define the following [page authorizations](https://seatable.io/en/docs/apps/seitenberechtigungen-in-einer-universellen-app/) for gallery pages:
+You can define the following [page authorizations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) for gallery pages:
 
 ![Page authorizations of gallery pages](images/Seitenberechtigungen-von-Galerieseiten.png)
 

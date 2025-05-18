@@ -48,6 +48,6 @@ For each permission, you can choose from the following options to narrow down th
 
 ![Available page permission options Who can see the page?](images/page-permission-who-can-add-records.png)
 
-Select the **Specific roles** option to define your own roles. To do this, create new **roles** for individual user groups in the [User and Role Management](https://seatable.io/en/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/) beforehand, to which you can assign permissions individually on each page of the Universal App.
+Select the **Specific roles** option to define your own roles. To do this, create new **roles** for individual user groups in the [User and Role Management]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) beforehand, to which you can assign permissions individually on each page of the Universal App.
 
 ![Definition of specific roles that have the appropriate authorization](images/define-roles.png)

@@ -104,7 +104,7 @@ url: '/ru/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 
 ## Разрешения на страницы
 
-Вы можете определить следующие [полномочия страниц](https://seatable.io/ru/docs/apps/seitenberechtigungen-in-einer-universellen-app/) для страниц типа Одиночная запись данных:
+Вы можете определить следующие [полномочия страниц]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) для страниц типа Одиночная запись данных:
 
 ![Разрешения для страниц календаря](images/Seitenberechtigungen-von-Kalenderseiten.png)
 

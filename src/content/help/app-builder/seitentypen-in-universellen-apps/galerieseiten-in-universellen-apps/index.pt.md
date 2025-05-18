@@ -52,7 +52,7 @@ Nas **opções da coluna de ligação**, é possível especificar quais os dados
 
 ## Autorizações de páginas
 
-Pode definir as seguintes [autorizações de página](https://seatable.io/pt/docs/apps/seitenberechtigungen-in-einer-universellen-app/) para as páginas da galeria:
+Pode definir as seguintes [autorizações de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para as páginas da galeria:
 
 ![Autorizações de páginas para páginas de galerias](images/Seitenberechtigungen-von-Galerieseiten.png)
 

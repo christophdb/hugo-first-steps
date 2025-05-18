@@ -52,7 +52,7 @@ In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpf
 
 ## Seitenberechtigungen
 
-Für Galerieseiten können Sie folgende [Seitenberechtigungen](https://seatable.io/docs/apps/seitenberechtigungen-in-einer-universellen-app/) festlegen:
+Für Galerieseiten können Sie folgende [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) festlegen:
 
 ![Seitenberechtigungen von Galerieseiten](images/Seitenberechtigungen-von-Galerieseiten.png)
 

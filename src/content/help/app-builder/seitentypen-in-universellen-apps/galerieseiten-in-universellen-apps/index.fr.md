@@ -52,7 +52,7 @@ Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaq
 
 ## Autorisations des pages
 
-Vous pouvez définir les [autorisations de page](https://seatable.io/fr/docs/apps/seitenberechtigungen-in-einer-universellen-app/) suivantes pour les pages de la galerie :
+Vous pouvez définir les [autorisations de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) suivantes pour les pages de la galerie :
 
 ![Autorisations des pages de la galerie](images/Seitenberechtigungen-von-Galerieseiten.png)
 

@@ -56,7 +56,7 @@ También puede mostrar otros **datos** de la tabla subyacente en las fichas: Act
 
 ## Autorizaciones de páginas
 
-Puede definir las siguientes [autorizaciones de página](https://seatable.io/es/docs/apps/seitenberechtigungen-in-einer-universellen-app/) para las páginas Kanban:
+Puede definir las siguientes [autorizaciones de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para las páginas Kanban:
 
 ![Autorizaciones para las páginas de la galería](images/Seitenberechtigungen-von-Galerieseiten.png)
 

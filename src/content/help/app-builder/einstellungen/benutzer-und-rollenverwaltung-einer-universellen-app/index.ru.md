@@ -90,7 +90,7 @@ url: '/ru/help/benutzer-und-rollenverwaltung-einer-universellen-app'
 
 Здесь вы изначально определяете только **имена** ролей. Вы можете определить, какие **разрешения** имеют пользователи с различными ролями для каждой страницы приложения.
 
-[Подробнее о разрешениях страниц можно узнать здесь.](https://seatable.io/ru/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
+[Подробнее о разрешениях страниц можно узнать здесь.]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})
 
 ### Ссылка на приглашение
 

@@ -48,6 +48,6 @@ Para cada permissão, pode escolher entre as seguintes opções para limitar o g
 
 ![Opções de permissão de página disponíveis Quem pode ver a página?](images/page-permission-who-can-add-records.png)
 
-Seleccione a opção **Funções específicas** para definir as suas próprias funções. Para tal, crie previamente novas **funções** para grupos de utilizadores individuais na [administração de utilizadores e funções](https://seatable.io/pt/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/), às quais pode atribuir permissões individualmente em cada página da aplicação universal.
+Seleccione a opção **Funções específicas** para definir as suas próprias funções. Para tal, crie previamente novas **funções** para grupos de utilizadores individuais na [administração de utilizadores e funções]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}), às quais pode atribuir permissões individualmente em cada página da aplicação universal.
 
 ![Definição de funções específicas que têm uma autorização correspondente](images/define-roles.png)

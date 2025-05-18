@@ -104,7 +104,7 @@ Tal como nas páginas de tabelas e consultas, também aqui pode utilizar colunas
 
 ## Autorizações de páginas
 
-É possível definir as seguintes [autorizações de página](https://seatable.io/pt/docs/apps/seitenberechtigungen-in-einer-universellen-app/) para páginas do tipo Registo de dados único:
+É possível definir as seguintes [autorizações de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para páginas do tipo Registo de dados único:
 
 ![Autorizações de páginas para páginas de calendário](images/Seitenberechtigungen-von-Kalenderseiten.png)
 

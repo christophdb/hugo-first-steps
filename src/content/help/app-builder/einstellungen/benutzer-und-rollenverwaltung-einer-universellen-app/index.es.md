@@ -90,7 +90,7 @@ En esta sección puede definir cualquier número de **roles**, que puede asignar
 
 Aquí inicialmente sólo se definen los **nombres de** los roles. Puedes definir qué **permisos** tienen los usuarios con los diferentes roles individualmente para cada página de la app.
 
-[Obtenga más información sobre los permisos de página aquí.](https://seatable.io/es/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
+[Obtenga más información sobre los permisos de página aquí.]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})
 
 ### Enlace de invitación
 

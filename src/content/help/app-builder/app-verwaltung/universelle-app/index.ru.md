@@ -48,7 +48,7 @@ url: '/ru/help/universelle-app'
 
 ## Сохранение версий универсального приложения
 
-В **управлении версиями** каждого приложения есть возможность сохранять снимки структуры приложения. О том, как создать **снимок** приложения, вы можете узнать [здесь](https://seatable.io/ru/docs/universelle-apps/versionsverwaltung-und-snapshots-einer-universellen-app/). Обратите внимание на то, что сохраняет и чего не сохраняет снимок приложения.
+В **управлении версиями** каждого приложения есть возможность сохранять снимки структуры приложения. О том, как создать **снимок** приложения, вы можете узнать [здесь]({{< relref "help/app-builder/einstellungen/versionsverwaltung-und-snapshots-einer-universellen-app" >}}). Обратите внимание на то, что сохраняет и чего не сохраняет снимок приложения.
 
 ## Авторизация страниц в универсальном приложении
 
@@ -56,7 +56,7 @@ url: '/ru/help/universelle-app'
 
 ![Открытие настроек страницы](images/page-permissions-universal-app.png)
 
-[Подробнее о различных разрешениях страниц в Универсальном приложении можно узнать здесь.](https://seatable.io/ru/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
+[Подробнее о различных разрешениях страниц в Универсальном приложении можно узнать здесь.]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})
 
 ## Управление пользователями и ролями в универсальном приложении
 
@@ -64,11 +64,11 @@ url: '/ru/help/universelle-app'
 
 ![Управление пользователями и ролями в универсальном приложении](images/open-user-and-role-management-1.png)
 
-[Подробнее об администрировании пользователей и ролей в Universal App можно узнать здесь.](https://seatable.io/ru/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/)
+[Подробнее об администрировании пользователей и ролей в Universal App можно узнать здесь.]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}})
 
 ## Совместное использование универсального приложения
 
-Вы также можете поделиться универсальным приложением с другими пользователями через [администрирование пользователей и ролей](https://seatable.io/ru/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/). Для этого просто сгенерируйте индивидуальную **пригласительную ссылку** или используйте **QR-код**.
+Вы также можете поделиться универсальным приложением с другими пользователями через [администрирование пользователей и ролей]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}). Для этого просто сгенерируйте индивидуальную **пригласительную ссылку** или используйте **QR-код**.
 
 ## Копирование универсального приложения
 

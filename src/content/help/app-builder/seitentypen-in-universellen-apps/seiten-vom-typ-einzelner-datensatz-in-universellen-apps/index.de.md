@@ -104,7 +104,7 @@ Genau wie auf Tabellen- und Abfrageseiten können Sie auch hier Spalten vom Typ 
 
 ## Seitenberechtigungen
 
-Für Seiten vom Typ Einzelner Datensatz können Sie folgende [Seitenberechtigungen](https://seatable.io/docs/apps/seitenberechtigungen-in-einer-universellen-app/) festlegen:
+Für Seiten vom Typ Einzelner Datensatz können Sie folgende [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) festlegen:
 
 ![Seitenberechtigungen von Kalenderseiten](images/Seitenberechtigungen-von-Kalenderseiten.png)
 

@@ -56,7 +56,7 @@ Vous pouvez également afficher sur les fiches d'autres **données** du tableau 
 
 ## Autorisations des pages
 
-Pour les pages Kanban, vous pouvez définir les [autorisations de page](https://seatable.io/fr/docs/apps/seitenberechtigungen-in-einer-universellen-app/) suivantes :
+Pour les pages Kanban, vous pouvez définir les [autorisations de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) suivantes :
 
 ![Autorisations des pages de la galerie](images/Seitenberechtigungen-von-Galerieseiten.png)
 

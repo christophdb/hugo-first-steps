@@ -48,7 +48,7 @@ Innerhalb einer Universellen App können Sie verschiedene **globale Einstellunge
 
 ## Versionen einer Universellen App speichern
 
-Die **Versionsverwaltung** jeder App bietet Ihnen die Möglichkeit, Momentaufnahmen von der Struktur einer App zu speichern. Wie Sie einen **App Snapshot** anlegen können, erfahren Sie [hier](https://seatable.io/docs/universelle-apps/versionsverwaltung-und-snapshots-einer-universellen-app/). Beachten Sie dabei, was ein App Snapshot speichert – und was nicht.
+Die **Versionsverwaltung** jeder App bietet Ihnen die Möglichkeit, Momentaufnahmen von der Struktur einer App zu speichern. Wie Sie einen **App Snapshot** anlegen können, erfahren Sie [hier]({{< relref "help/app-builder/einstellungen/versionsverwaltung-und-snapshots-einer-universellen-app" >}}). Beachten Sie dabei, was ein App Snapshot speichert – und was nicht.
 
 ## Seitenberechtigungen in einer Universellen App
 
@@ -56,7 +56,7 @@ Um den Zugriff auf Ihre Daten genau zu steuern, können Sie für **jede Seite**,
 
 ![Öffnen der Seiteneinstellungen](images/page-permissions-universal-app.png)
 
-[Erfahren Sie hier mehr zu den verschiedenen Seitenberechtigungen in der Universellen App.](https://seatable.io/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
+[Erfahren Sie hier mehr zu den verschiedenen Seitenberechtigungen in der Universellen App.]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})
 
 ## Benutzer- und Rollenverwaltung einer Universellen App
 
@@ -64,11 +64,11 @@ Neue Benutzer hinzufügen, Rollen anlegen und zuweisen – in der **Benutzer- un
 
 ![Benutzer- und Rollenverwaltung einer Universellen App](images/open-user-and-role-management-1.png)
 
-[Erfahren Sie hier mehr zur Benutzer- und Rollenverwaltung der Universellen App.](https://seatable.io/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/)
+[Erfahren Sie hier mehr zur Benutzer- und Rollenverwaltung der Universellen App.]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}})
 
 ## Eine Universelle App teilen
 
-Eine Universelle App können Sie ebenfalls über die [Benutzer- und Rollenverwaltung](https://seatable.io/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/) mit anderen Nutzern teilen. Generieren Sie hierzu einfach einen individuellen **Einladungslink** oder nutzen Sie einen **QR-Code**.
+Eine Universelle App können Sie ebenfalls über die [Benutzer- und Rollenverwaltung]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) mit anderen Nutzern teilen. Generieren Sie hierzu einfach einen individuellen **Einladungslink** oder nutzen Sie einen **QR-Code**.
 
 ## Eine Universelle App kopieren
 

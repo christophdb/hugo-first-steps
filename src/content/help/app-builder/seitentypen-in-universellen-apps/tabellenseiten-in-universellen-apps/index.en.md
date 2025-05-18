@@ -94,7 +94,7 @@ The data exported from the table page is independent of the current **view**. Ev
 
 ## Page authorizations
 
-In the [page authorizations](https://seatable.io/en/docs/apps/seitenberechtigungen-in-einer-universellen-app/), you can set exactly who is allowed to view and edit the table.
+In the [page authorizations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), you can set exactly who is allowed to view and edit the table.
 
 {{< warning  headline="Attention with buttons"  text="[Buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) can **always** be activated regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the page." />}}
 

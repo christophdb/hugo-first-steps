@@ -48,6 +48,6 @@ Para cada permiso, puede elegir entre las siguientes opciones para limitar el gr
 
 ![Opciones de permisos de página disponibles ¿Quién puede ver la página?](images/page-permission-who-can-add-records.png)
 
-Seleccione la opción **Roles específicos** para definir sus propios roles. Para ello, cree previamente nuevos **roles** para grupos de usuarios individuales en la [administración de usuarios y roles](https://seatable.io/es/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/), a los que podrá asignar permisos individualmente en cada página de la Universal App.
+Seleccione la opción **Roles específicos** para definir sus propios roles. Para ello, cree previamente nuevos **roles** para grupos de usuarios individuales en la [administración de usuarios y roles]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}), a los que podrá asignar permisos individualmente en cada página de la Universal App.
 
 ![Definición de funciones específicas que tienen una autorización correspondiente](images/define-roles.png)

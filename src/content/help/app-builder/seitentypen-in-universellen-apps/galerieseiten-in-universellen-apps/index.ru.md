@@ -52,7 +52,7 @@ url: '/ru/help/galerieseiten-in-universellen-apps'
 
 ## Разрешения на страницы
 
-Вы можете определить следующие [полномочия для страниц](https://seatable.io/ru/docs/apps/seitenberechtigungen-in-einer-universellen-app/) галереи:
+Вы можете определить следующие [полномочия для страниц]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) галереи:
 
 ![Полномочия для страниц галереи](images/Seitenberechtigungen-von-Galerieseiten.png)
 

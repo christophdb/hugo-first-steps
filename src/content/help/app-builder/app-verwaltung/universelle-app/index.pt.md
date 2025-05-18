@@ -48,7 +48,7 @@ Numa aplicação universal, pode efectuar várias **definições globais**. Por 
 
 ## Guardar versões de uma aplicação universal
 
-A **gestão de versões** de cada aplicação oferece-lhe a opção de guardar instantâneos da estrutura de uma aplicação. Pode descobrir como criar um **instantâneo** da aplicação [aqui](https://seatable.io/pt/docs/universelle-apps/versionsverwaltung-und-snapshots-einer-universellen-app/). Tenha em atenção o que é que um instantâneo de aplicação guarda - e o que não guarda.
+A **gestão de versões** de cada aplicação oferece-lhe a opção de guardar instantâneos da estrutura de uma aplicação. Pode descobrir como criar um **instantâneo** da aplicação [aqui]({{< relref "help/app-builder/einstellungen/versionsverwaltung-und-snapshots-einer-universellen-app" >}}). Tenha em atenção o que é que um instantâneo de aplicação guarda - e o que não guarda.
 
 ## Permissões de página numa aplicação universal
 
@@ -56,7 +56,7 @@ Para controlar com precisão o acesso aos seus dados, pode definir **permissões
 
 ![Abrir as definições da página](images/page-permissions-universal-app.png)
 
-[Saiba mais sobre as diferentes permissões de página na Universal App aqui.](https://seatable.io/pt/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
+[Saiba mais sobre as diferentes permissões de página na Universal App aqui.]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})
 
 ## Administração de utilizadores e funções de uma aplicação universal
 
@@ -64,11 +64,11 @@ Adicionar novos utilizadores, criar e atribuir funções - na **administração 
 
 ![Administração de utilizadores e funções de uma aplicação universal](images/open-user-and-role-management-1.png)
 
-[Saiba mais sobre a administração de utilizadores e funções da Aplicação Universal aqui.](https://seatable.io/pt/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/)
+[Saiba mais sobre a administração de utilizadores e funções da Aplicação Universal aqui.]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}})
 
 ## Partilhar uma aplicação universal
 
-Também é possível partilhar uma aplicação universal com outros utilizadores através da [administração de utilizadores e funções](https://seatable.io/pt/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/). Para o fazer, basta gerar uma **ligação de convite** individual ou utilizar um **código QR**.
+Também é possível partilhar uma aplicação universal com outros utilizadores através da [administração de utilizadores e funções]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}). Para o fazer, basta gerar uma **ligação de convite** individual ou utilizar um **código QR**.
 
 ## Copiar uma aplicação universal
 
