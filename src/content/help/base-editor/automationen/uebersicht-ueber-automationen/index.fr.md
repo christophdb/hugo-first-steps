@@ -44,7 +44,7 @@ Apprenez [ici](https://seatable.io/fr/docs/arbeiten-mit-automationen/automatione
 
 Vous pouvez également supprimer complètement les automatisations qui ne sont plus nécessaires de manière durable. Notez que vous ne pouvez pas restaurer les automatismes supprimés.
 
-Apprenez [ici](https://seatable.io/fr/docs/arbeiten-mit-automationen/automationen-loeschen/) comment supprimer des automatisations.
+Apprenez [ici]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}) comment supprimer des automatisations.
 
 ## Afficher le journal d'exécution d'une automatisation
 
@@ -62,7 +62,7 @@ Découvrez [ici](https://seatable.io/fr/docs/arbeiten-mit-automationen/warum-fin
 
 Les déclencheurs d'automatisation représentent le premier des deux composants essentiels des automatisations. Les déclencheurs, que vous pouvez définir individuellement pour chaque automation, déclenchent différents types d'actions automatisées.
 
-Apprenez-en plus sur les déclencheurs d'automatisation [ici](https://seatable.io/fr/docs/arbeiten-mit-automationen/automations-trigger/).
+Apprenez-en plus sur les déclencheurs d'automatisation [ici]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Actions d'automatisation
 
@@ -80,13 +80,13 @@ Apprenez [ici](https://seatable.io/fr/docs/beispiele-fuer-automationen/zeilen-pe
 
 Grâce à l'automatisation, vous ne devez plus ajouter manuellement des lignes avec certaines entrées dans vos tableaux, mais vous pouvez faire en sorte que ces étapes soient effectuées automatiquement. Cela est particulièrement avantageux si vous souhaitez automatiser diverses étapes de processus dans vos tableaux.
 
-Apprenez [ici](https://seatable.io/fr/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/) comment ajouter des lignes par automatisation.
+Apprenez [ici]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) comment ajouter des lignes par automatisation.
 
 ## Ajouter des entrées dans d'autres tableaux par automatisation
 
 Grâce à l'automatisation, vous ne devez plus effectuer manuellement des entrées dans d'autres tables, mais vous pouvez faire en sorte que ces étapes soient exécutées automatiquement. Le grand avantage est que le déclencheur ne doit pas se trouver dans la même table que l'action déclenchée. Cette automatisation est particulièrement avantageuse si vous utilisez différentes tables dont les contenus sont en relation les uns avec les autres.
 
-Apprenez [ici](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) comment ajouter des entrées dans d'autres tableaux par automatisation.
+Apprenez [ici]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) comment ajouter des entrées dans d'autres tableaux par automatisation.
 
 ## Envoi d'e-mails par automatisation
 

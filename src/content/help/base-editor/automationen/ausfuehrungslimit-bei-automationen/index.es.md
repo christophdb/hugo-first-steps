@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/ausfuehrungslimit-bei-automationen'
 ---
 
-¿Trabaja con [automatizaciones](https://seatable.io/es/docs/automationen/funktionsweise-von-automationen/) en su base que se activan por entradas nuevas o modificadas? Entonces tenga en cuenta lo siguiente: Si añade o modifica más de 50 entradas por minuto, puede ocurrir que no se inicien las [acciones](https://seatable.io/es/docs/automationen/automations-aktionen/) de automatización deseadas. El motivo es el límite de ejecución de las automatizaciones.
+¿Trabaja con [automatizaciones]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) en su base que se activan por entradas nuevas o modificadas? Entonces tenga en cuenta lo siguiente: Si añade o modifica más de 50 entradas por minuto, puede ocurrir que no se inicien las [acciones]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) de automatización deseadas. El motivo es el límite de ejecución de las automatizaciones.
 
 ## El límite de ejecución de las automatizaciones
 
@@ -22,4 +22,8 @@ En el futuro, habrá un mensaje de error si las automatizaciones no pueden ejecu
 
 Cada automatización consume recursos del sistema, es decir, demasiadas automatizaciones al mismo tiempo podrían sobrecargar el servidor de SeaTable Cloud. Esto debe evitarse mediante el límite.
 
-{{< warning  headline="Bucles de automatización"  text="SeaTable detecta y detiene **los bucles de automatización** - automatizaciones que se reinician a sí mismas porque la acción disparada coincide con su [disparador](https://seatable.io/es/docs/automationen/automations-trigger/). Por ejemplo, la automatización 'Añadir una nueva fila (acción) cuando se añada una nueva fila (desencadenante)' se detendrá tras ejecutarse una vez." />}}
+{{< warning  headline="Bucles de automatización" >}}
+
+SeaTable detecta y detiene **los bucles de automatización** - automatizaciones que se reinician a sí mismas porque la acción disparada coincide con su [disparador]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Por ejemplo, la automatización 'Añadir una nueva fila (acción) cuando se añada una nueva fila (desencadenante)' se detendrá tras ejecutarse una vez.
+
+{{< /warning >}}

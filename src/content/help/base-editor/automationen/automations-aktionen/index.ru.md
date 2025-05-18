@@ -10,7 +10,7 @@ url: '/ru/help/automations-aktionen'
 
 {{< required-version "Предприятие" >}}
 
-**Автоматизированные действия** представляют собой один из двух основных компонентов автоматики. Действия запускаются определенными **триггерными событиями**. В зависимости от [триггера](https://seatable.io/ru/docs/arbeiten-mit-automationen/automations-trigger/) SeaTable может выполнять различные действия по автоматизации. В этой статье представлен **обзор** различных типов автоматизированных действий.
+**Автоматизированные действия** представляют собой один из двух основных компонентов автоматики. Действия запускаются определенными **триггерными событиями**. В зависимости от [триггера]({{< relref "help/base-editor/automationen/automations-trigger" >}}) SeaTable может выполнять различные действия по автоматизации. В этой статье представлен **обзор** различных типов автоматизированных действий.
 
 ## Доступные действия автоматизации
 
@@ -51,7 +51,7 @@ url: '/ru/help/automations-aktionen'
 - Периодическое срабатывание
 - Периодическое срабатывание для записей, выполняющих определенное условие
 
-В статье [Отправка уведомлений с помощью автоматизации](https://seatable.io/ru/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/) рассматривается эта автоматизация на конкретном примере.
+В статье [Отправка уведомлений с помощью автоматизации]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}}) рассматривается эта автоматизация на конкретном примере.
 
 ## Действие автоматизации: отправка уведомления о приложении
 
@@ -99,7 +99,7 @@ url: '/ru/help/automations-aktionen'
 - Записи соответствуют определенным условиям после редактирования
 - Периодическое срабатывание
 
-В статье [Добавление строк с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/) рассматривается эта автоматизация на конкретном примере.
+В статье [Добавление строк с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) рассматривается эта автоматизация на конкретном примере.
 
 ## Автоматическое действие: Ввод замка
 
@@ -114,7 +114,7 @@ url: '/ru/help/automations-aktionen'
 - Записи соответствуют определенным условиям после редактирования
 - Периодическое срабатывание для записей, выполняющих определенное условие
 
-В статье [Locking Lines by Automation](https://seatable.io/ru/docs/beispiel-automationen/zeilen-per-automation-sperren/) эта автоматизация рассматривается на конкретном примере.
+В статье [Locking Lines by Automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) эта автоматизация рассматривается на конкретном примере.
 
 ## Автоматическое действие: Редактирование записи
 
@@ -140,7 +140,7 @@ url: '/ru/help/automations-aktionen'
 - Записи соответствуют определенным условиям после редактирования
 - Периодическое срабатывание
 
-В статье [Связывание записей с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/verlinken-von-eintraegen-per-automation/) рассматривается эта автоматизация на конкретном примере.
+В статье [Связывание записей с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) рассматривается эта автоматизация на конкретном примере.
 
 ## Действие автоматизации: Добавить новую запись в другую таблицу
 
@@ -153,7 +153,7 @@ url: '/ru/help/automations-aktionen'
 - Когда добавляется новая запись
 - Записи соответствуют определенным условиям после редактирования
 
-В статье [Добавление записей в другие таблицы с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) рассматривается эта автоматизация на конкретном примере.
+В статье [Добавление записей в другие таблицы с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) рассматривается эта автоматизация на конкретном примере.
 
 ## Действие автоматизации: Преобразование страницы в PDF
 

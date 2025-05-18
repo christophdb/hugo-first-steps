@@ -70,7 +70,7 @@ Los valores por defecto se aplican **siempre que** se puedan crear nuevas línea
 - en una [tabla]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - en una [columna de enlaces]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - mediante [un botón](https://seatable.io/es/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (acción: "Copiar fila a otra tabla")
-- mediante [automatización](https://seatable.io/es/docs/automationen/automations-aktionen/) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")
+- mediante [automatización]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")
 - en el [calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - mediante [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - en las [páginas de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [formularios]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) y [Kanban]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) de las aplicaciones

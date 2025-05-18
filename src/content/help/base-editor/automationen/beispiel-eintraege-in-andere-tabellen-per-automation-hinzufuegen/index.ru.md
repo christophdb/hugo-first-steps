@@ -32,7 +32,7 @@ url: '/ru/help/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
 
 Вам доступно автоматическое действие "Добавить новую запись в другую таблицу". **исключительно** доступна для следующих триггерных событий:
 
-- ["Записи удовлетворяют определенным условиям после обработки](https://seatable.io/ru/docs/automationen/automations-trigger/#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)"
-- ["Добавлена новая запись](https://seatable.io/ru/docs/automationen/automations-trigger/#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)"
+- ["Записи удовлетворяют определенным условиям после обработки]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)"
+- ["Добавлена новая запись]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)"
 
 {{< /warning >}}

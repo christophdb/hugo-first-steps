@@ -21,8 +21,3 @@ Si vous souhaitez utiliser cette puissante fonctionnalité de SeaTable à l'aven
 L'automatisation est actuellement réservée aux équipes ayant un **[Abonnement SeaTable Enterprise](https://seatable.io/fr/docs/abo-abrechnung/abo-pakete/)** sont disponibles. Si vous ne trouvez pas cette fonctionnalité dans vos bases, votre équipe ne dispose probablement **pas** d'un tel abonnement. Pour pouvoir utiliser les automatismes, vous devez [mettre à jour](https://seatable.io/fr/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen) l'**abonnement de votre équipe** vers un abonnement Enterprise.
 
 {{< warning  headline="Remarque importante"  text="Un abonnement n'est toujours valable que pour l'**ensemble de l'équipe**. Il n'est **pas** possible de surclasser des bases individuelles ou des membres de l'équipe." />}}
-
-### D'autres articles utiles dans la rubrique Automations :
-
-- [Travailler avec des automatisations](https://seatable.io/fr/docs-category/arbeiten-mit-automationen/)
-- [Exemples d'automatisation](https://seatable.io/fr/docs-category/beispiele-fuer-automationen/)

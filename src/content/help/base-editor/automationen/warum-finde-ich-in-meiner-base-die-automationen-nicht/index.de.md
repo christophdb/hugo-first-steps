@@ -21,8 +21,3 @@ Wenn Sie dieses mächtige Feature von SeaTable künftig nutzen möchten, können
 Automationen sind derzeit ausschließlich für Teams mit einem **[SeaTable Enterprise Abo](https://seatable.io/docs/abo-abrechnung/abo-pakete/)** verfügbar. Falls Sie dieses Feature in Ihren Bases nicht finden können, verfügt Ihr Team vermutlich **nicht** über ein derartiges Abonnement. Um Automationen nutzen zu können, müssen Sie das **Abonnement Ihres Teams** auf ein Enterprise Abo [aktualisieren](https://seatable.io/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen).
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Ein Abonnement gilt immer nur für das **gesamte Team**. Es können **keine** einzelnen Bases oder Teammitglieder hochgestuft werden." />}}
-
-### Weitere hilfreiche Artikel in der Rubrik Automationen:
-
-- [Arbeiten mit Automationen](https://seatable.io/docs-category/arbeiten-mit-automationen/)
-- [Beispiele für Automationen](https://seatable.io/docs-category/beispiele-fuer-automationen/)

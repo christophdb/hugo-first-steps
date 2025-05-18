@@ -32,7 +32,7 @@ Defina un **evento desencadenante** para la automatización tras determinar prim
 
 La acción automatizada **Añadir nueva entrada en otra tabla** está a su disposición. **exclusivamente** está disponible para los siguientes eventos de activación:
 
-- [Las entradas cumplen determinadas condiciones tras el tratamiento](https://seatable.io/es/docs/automationen/automations-trigger/#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)
-- [Se añade una nueva entrada](https://seatable.io/es/docs/automationen/automations-trigger/#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)
+- [Las entradas cumplen determinadas condiciones tras el tratamiento]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)
+- [Se añade una nueva entrada]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)
 
 {{< /warning >}}

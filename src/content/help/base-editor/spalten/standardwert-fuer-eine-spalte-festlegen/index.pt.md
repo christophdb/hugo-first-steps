@@ -70,7 +70,7 @@ Os valores predefinidos aplicam-se **sempre que** é possível criar novas linha
 - num [quadro]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - numa [coluna de ligação]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - via [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (ação: "Copiar linha para outra tabela")
-- através da [automatização](https://seatable.io/pt/docs/automationen/automations-aktionen/) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
+- através da [automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
 - no [calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - através de [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - nas [páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [formulário]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) e [Kanban]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) das aplicações

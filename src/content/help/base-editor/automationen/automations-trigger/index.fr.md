@@ -93,8 +93,3 @@ Si vous sélectionnez le "Déclencheur périodique pour les entrées qui remplis
 - Entrée de la serrure
 - Modifier l'entrée
 - Convertir une page en PDF
-
-### D'autres articles utiles dans la rubrique Automations :
-
-- [Travailler avec des automatisations](https://seatable.io/fr/docs-category/arbeiten-mit-automationen/)
-- [Exemples d'automatisation](https://seatable.io/fr/docs-category/beispiele-fuer-automationen/)

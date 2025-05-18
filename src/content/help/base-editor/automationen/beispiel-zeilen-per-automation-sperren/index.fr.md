@@ -69,17 +69,17 @@ Vous trouverez plus d'informations sur le verrouillage des lignes dans l'article
 - [Créer une automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
 - [Gérer et éditer des automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
 - [Arrêter les automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/automationen-stoppen/)
-- [Supprimer des automatismes](https://seatable.io/fr/docs/arbeiten-mit-automationen/automationen-loeschen/)
+- [Supprimer des automatismes]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Afficher le journal d'exécution d'une automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
 - [Pourquoi ne puis-je pas trouver d'automatisations dans ma base ?](https://seatable.io/fr/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
-- [Déclencheur d'automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/automations-trigger/)
+- [Déclencheur d'automatisation]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Actions d'automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/automations-aktionen/)
 - [Liens vers des entrées par automatisation](https://seatable.io/fr/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
 
 ### Autres exemples intéressants d'automatisation :
 
 - [Liens vers des entrées par automatisation](https://seatable.io/fr/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
-- [Ajouter des lignes par automatisation](https://seatable.io/fr/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Ajouter des entrées dans d'autres tableaux par automatisation](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
-- [Envoyer des notifications par automatisation](https://seatable.io/fr/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
+- [Ajouter des lignes par automatisation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Ajouter des entrées dans d'autres tableaux par automatisation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
+- [Envoyer des notifications par automatisation]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
 - [Envoi d'e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

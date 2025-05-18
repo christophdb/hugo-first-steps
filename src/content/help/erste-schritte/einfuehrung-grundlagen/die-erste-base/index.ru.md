@@ -30,7 +30,7 @@ SeaTable ведет [историю]({{< relref "help/base-editor/historie-und-v
 
 Перед [вводом данных]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
-SeaTable предлагает в общей сложности [более 20 типов колонок]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Вы, вероятно, уже знакомы с текстовыми столбцами, столбцами чисел и дат из обычных электронных таблиц. Конечно, SeaTable также знает их. Кроме того, SeaTable предлагает колонки для [изображений и файлов]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) и [флажков]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) и [множественного выбора](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
+SeaTable предлагает в общей сложности [более 20 типов колонок]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Вы, вероятно, уже знакомы с текстовыми столбцами, столбцами чисел и дат из обычных электронных таблиц. Конечно, SeaTable также знает их. Кроме того, SeaTable предлагает колонки для [изображений и файлов]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) и [флажков]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) и [множественного выбора]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}}).
 
 Вы хотите добавить фотографии к записи? Просто перетащите картинку в колонку с картинками, и SeaTable сохранит ее прямо в таблице. В SeaTable все ваши данные находятся в одном месте!
 

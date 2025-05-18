@@ -10,7 +10,7 @@ url: '/help/automations-aktionen'
 
 {{< required-version "Enterprise" >}}
 
-**Automated actions** represent one of the two essential components of automations. The actions are triggered by defined **trigger events**. Depending on the [trigger](https://seatable.io/en/docs/arbeiten-mit-automationen/automations-trigger/), SeaTable can perform different automation actions. This article provides you with an **overview of** the different types of automated actions.
+**Automated actions** represent one of the two essential components of automations. The actions are triggered by defined **trigger events**. Depending on the [trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}), SeaTable can perform different automation actions. This article provides you with an **overview of** the different types of automated actions.
 
 ## Available automation actions
 
@@ -51,7 +51,7 @@ The automation action "Send notification" is currently available for the followi
 - Periodic trigger
 - Periodic trigger for entries that meet a certain condition
 
-The article [Sending notifications via automation](https://seatable.io/en/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/) plays through this automation using a concrete use case.
+The article [Sending notifications via automation]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}}) plays through this automation using a concrete use case.
 
 ## Automation action: Send app notification
 
@@ -99,7 +99,7 @@ The automation action "row add" is currently available for the following **autom
 - Entries meet certain conditions after editing
 - Periodic trigger
 
-The article [rows add by automation](https://seatable.io/en/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/) plays through this automation using a concrete use case.
+The article [rows add by automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) plays through this automation using a concrete use case.
 
 ## Automation action: Lock entry
 
@@ -114,7 +114,7 @@ The automation action "Lock entry" is currently available for the following **au
 - Entries meet certain conditions after editing
 - Periodic trigger for entries that meet a certain condition
 
-The article [rows Locking via Automation](https://seatable.io/en/docs/beispiel-automationen/zeilen-per-automation-sperren/) runs through this automation using a concrete use case.
+The article [rows Locking via Automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) runs through this automation using a concrete use case.
 
 ## Automation action: Edit entry
 
@@ -140,7 +140,7 @@ The Add Links automation action is currently available for the following **autom
 - Entries meet certain conditions after editing
 - Periodic trigger
 
-The article [Linking entries via automation](https://seatable.io/en/docs/beispiel-automationen/verlinken-von-eintraegen-per-automation/) plays through this automation using a concrete use case.
+The article [Linking entries via automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) plays through this automation using a concrete use case.
 
 ## Automation action: Add new entry in other table
 
@@ -153,7 +153,7 @@ The automation action "Add new entry in other table" is currently available for 
 - When a new entry is added
 - Entries meet certain conditions after editing
 
-The article [Adding Entries to Other Tables via Automation](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) runs through this automation using a concrete use case.
+The article [Adding Entries to Other Tables via Automation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) runs through this automation using a concrete use case.
 
 ## Automation action: Convert page to PDF
 

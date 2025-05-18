@@ -21,8 +21,3 @@ If you want to use this powerful feature of SeaTable in the future, you can upgr
 Automations are currently only available for teams with a **[SeaTable Enterprise subscription](https://seatable.io/en/docs/abo-abrechnung/abo-pakete/)** are currently only available to teams with a SeaTable Enterprise subscription. If you cannot find this feature in your bases, your team probably does **not** have such a subscription. To use automations, you need to [upgrade](https://seatable.io/en/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen) **your team's subscription to** an Enterprise subscription.
 
 {{< warning  headline="Important note"  text="A subscription is always valid for the **entire team**. **No** individual bases or team members can be upgraded." />}}
-
-### More helpful articles in the Automations section:
-
-- [Working with automations](https://seatable.io/en/docs-category/arbeiten-mit-automationen/)
-- [Automation examples](https://seatable.io/en/docs-category/beispiele-fuer-automationen/)

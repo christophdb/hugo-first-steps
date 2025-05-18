@@ -31,8 +31,3 @@ Vous pouvez adapter les paramètres suivants lors d'une automatisation :
 - Les **colonnes** que SeaTable surveille en vue de l'occurrence de l'événement déclencheur
 - Les **conditions de filtrage** de l'événement déclencheur
 - Ajouter, adapter ou supprimer **des actions automatisées**
-
-### D'autres articles utiles dans la rubrique Automations :
-
-- [Travailler avec des automatisations](https://seatable.io/fr/docs-category/arbeiten-mit-automationen/)
-- [Exemples d'automatisation](https://seatable.io/fr/docs-category/beispiele-fuer-automationen/)

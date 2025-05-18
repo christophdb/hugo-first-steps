@@ -25,7 +25,7 @@ Para certos eventos, tais como a adição de entradas, também é possível faze
 
 Além disso, é possível limitar as **condições do** evento de disparo para que a automatização só seja disparada se **determinados dados** forem encontrados em determinadas colunas. Por exemplo, é possível definir valores exactos que devem estar presentes numa coluna seleccionada após adicionar ou alterar uma entrada para que a automatização seja accionada.
 
-Pode descobrir tudo o resto no artigo [Automation Trigger](https://seatable.io/pt/docs/arbeiten-mit-automationen/automations-trigger/).
+Pode descobrir tudo o resto no artigo [Automation Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Acções automatizadas
 
@@ -62,8 +62,3 @@ Como **ação automática**, selecionar a opção **Processar entrada**. Especif
 ![Execução do exemplo de automatização](images/example-automation-new.gif)
 
 Depois de ter criado a automatização, a alteração efectuada manualmente na coluna "Situação profissional" conduz **automaticamente** ao **ajustamento** desejado **da entrada** na coluna "Pagamento do salário".
-
-### Artigos mais úteis na secção de automatização:
-
-- [Trabalhar com automatismos](https://seatable.io/pt/docs-category/arbeiten-mit-automationen/)
-- [Exemplos de automatizações](https://seatable.io/pt/docs-category/beispiele-fuer-automationen/)

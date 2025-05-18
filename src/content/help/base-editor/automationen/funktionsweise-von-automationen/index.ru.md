@@ -25,7 +25,7 @@ url: '/ru/help/funktionsweise-von-automationen'
 
 Кроме того, вы можете ограничить **условия** события запуска, чтобы автоматизация срабатывала только при обнаружении **определенных данных** в определенных столбцах. Например, вы можете определить точные значения, которые должны присутствовать в выбранном столбце после добавления или изменения записи, чтобы сработала автоматизация.
 
-Обо всем остальном вы можете узнать в статье [Automation Trigger](https://seatable.io/ru/docs/arbeiten-mit-automationen/automations-trigger/).
+Обо всем остальном вы можете узнать в статье [Automation Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Автоматизированные действия
 
@@ -62,8 +62,3 @@ url: '/ru/help/funktionsweise-von-automationen'
 ![Выполнение примера автоматизации](images/example-automation-new.gif)
 
 После создания автоматизации внесенное вручную изменение в колонку "Статус занятости" **автоматически** приводит к нужной **корректировке записи** в колонке "Выплата зарплаты".
-
-### Больше полезных статей в разделе "Автоматизация":
-
-- [Работа с автоматизацией](https://seatable.io/ru/docs-category/arbeiten-mit-automationen/)
-- [Примеры для автоматизации](https://seatable.io/ru/docs-category/beispiele-fuer-automationen/)

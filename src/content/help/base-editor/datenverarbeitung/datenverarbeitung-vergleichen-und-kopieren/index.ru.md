@@ -73,7 +73,7 @@ url: '/ru/help/datenverarbeitung-vergleichen-und-kopieren'
 
 Следующие типы столбцов **не могут** быть скопированы с помощью операции _сравнения и копирования_ и поэтому **недоступны** при определении столбцов источника и результата.
 
-- [Колонка множественного выбора](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
+- [Колонка множественного выбора]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 - [Колонка "Создатель]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [Колонка "Создано]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [Колонка "Последний редактор]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)

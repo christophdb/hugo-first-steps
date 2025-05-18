@@ -39,8 +39,3 @@ Welche Auswirkungen die Löschung von Automationen auf die verschiedenen Aktione
 | Links hinzufügen                            | Bei Eintritt des Trigger-Ereignisses werden keine Links mehr hinzugefügt.                                                                                   |
 | Neuen Eintrag in anderer Tabelle hinzufügen | Bei Eintritt des Trigger-Ereignisses werden keine Einträge mehr in eine andere Tabelle hinzugefügt.                                                         |
 | Python-Skript ausführen                     | Bei Eintritt des Trigger-Ereignisses werden keine Python-Skripte mehr ausgeführt.                                                                           |
-
-### Weitere hilfreiche Artikel in der Rubrik Automationen:
-
-- [Arbeiten mit Automationen](https://seatable.io/docs-category/arbeiten-mit-automationen/)
-- [Beispiele für Automationen](https://seatable.io/docs-category/beispiele-fuer-automationen/)

@@ -93,8 +93,3 @@ url: '/ru/help/automations-trigger'
 - Ввод замка
 - Редактировать запись
 - Преобразование страницы в PDF
-
-### Больше полезных статей в разделе "Автоматизация":
-
-- [Работа с автоматизацией](https://seatable.io/ru/docs-category/arbeiten-mit-automationen/)
-- [Примеры для автоматизации](https://seatable.io/ru/docs-category/beispiele-fuer-automationen/)

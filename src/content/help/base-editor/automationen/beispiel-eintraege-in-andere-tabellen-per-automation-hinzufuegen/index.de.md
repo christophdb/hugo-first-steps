@@ -32,8 +32,8 @@ Definieren Sie für die Automation ein **Trigger-Ereignis**, nachdem Sie zunäch
 
 Die automatisierte Aktion **Neuen Eintrag in anderer Tabelle hinzufügen** steht Ihnen **ausschließlich** bei folgenden Trigger-Ereignissen zur Verfügung:
 
-- [Einträge erfüllen nach Bearbeitung bestimmte Bedingungen](https://seatable.io/docs/automationen/automations-trigger/#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)
-- [Ein neuer Eintrag wird hinzugefügt](https://seatable.io/docs/automationen/automations-trigger/#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)
+- [Einträge erfüllen nach Bearbeitung bestimmte Bedingungen]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)
+- [Ein neuer Eintrag wird hinzugefügt]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)
 
 {{< /warning >}}
 
@@ -110,6 +110,6 @@ Wenn Sie nach der Bestätigung der Automation den Namen eines neuen Mitarbeiters
 
 - [Zeilen per Automation sperren](https://seatable.io/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/)
 - [Verlinken von Einträgen per Automation](https://seatable.io/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
-- [Zeilen per Automation hinzufügen](https://seatable.io/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Benachrichtigungen per Automation versenden](https://seatable.io/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
+- [Zeilen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Benachrichtigungen per Automation versenden]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
 - [E-Mail-Versand per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

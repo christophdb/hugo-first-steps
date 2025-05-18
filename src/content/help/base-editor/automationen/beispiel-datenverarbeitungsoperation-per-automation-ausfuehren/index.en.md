@@ -25,10 +25,10 @@ With the help of automations, you no longer have to perform a data processing op
 
 ## Creating the automation
 
-After you have defined in which **table** and **view the** automation should be triggered, you define the [trigger event](https://seatable.io/en/docs/automationen/automations-trigger/). Currently, only a **periodic trigger** can result in a data processing operation. Therefore, you need to define a **time when** the automation should be triggered daily, weekly or monthly.
+After you have defined in which **table** and **view the** automation should be triggered, you define the [trigger event]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Currently, only a **periodic trigger** can result in a data processing operation. Therefore, you need to define a **time when** the automation should be triggered daily, weekly or monthly.
 
 ![Selection of the automation trigger for the action: Execute data processing operation.](images/select-trigger-for-data-operation-per-automation.png)
 
 {{< warning  headline="Important note"  text="The automated action **Execute data processing operation** is at your disposal **exclusively** available at the following trigger event:" />}}
 
-![Periodic trigger](https://seatable.io/en/docs/automationen/automations-trigger/#automations-trigger_periodischer_trigger)
+![Periodic trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_periodischer_trigger)

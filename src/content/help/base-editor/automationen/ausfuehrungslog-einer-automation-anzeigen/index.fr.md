@@ -39,8 +39,3 @@ Le statut indique si l'automatisation a été exécutée avec succès. Si c'est 
 
 **Avertissements**  
 S'il y a eu des problèmes lors de l'exécution d'une automatisation, un message d'avertissement correspondant apparaît ici.
-
-### D'autres articles utiles dans la rubrique Automations :
-
-- [Travailler avec des automatisations](https://seatable.io/fr/docs-category/arbeiten-mit-automationen/)
-- [Exemples d'automatisation](https://seatable.io/fr/docs-category/beispiele-fuer-automationen/)

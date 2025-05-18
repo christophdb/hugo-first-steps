@@ -61,4 +61,4 @@ Cette action de bouton n'est pas supportée sur les [pages de tableau dans les a
 
 ## L'automatisation comme option supplémentaire
 
-Si vous disposez d'un abonnement à SeaTable Enterprise, vous pouvez également automatiser entièrement cette étape du processus. Pour ce faire, configurez une [automatisation](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) appropriée [qui vous permettra d'ajouter des entrées dans d'autres tableaux](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/).
+Si vous disposez d'un abonnement à SeaTable Enterprise, vous pouvez également automatiser entièrement cette étape du processus. Pour ce faire, configurez une [automatisation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}).

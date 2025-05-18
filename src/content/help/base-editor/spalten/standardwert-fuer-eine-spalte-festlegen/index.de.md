@@ -71,7 +71,7 @@ Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 - in einer [Tabelle]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - in einer [Link-Spalte]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - per [Schaltfläche](https://seatable.io/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (Aktion: „Zeile in andere Tabelle kopieren“)
-- per [Automation](https://seatable.io/docs/automationen/automations-aktionen/) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
+- per [Automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
 - im [Kalender-]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - über [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - auf [Tabellen-]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [Formular-]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) und [Kanbanseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) von Apps

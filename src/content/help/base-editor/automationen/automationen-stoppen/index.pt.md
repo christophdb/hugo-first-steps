@@ -10,7 +10,7 @@ url: '/pt/ajuda/automationen-stoppen'
 
 {{< required-version "Empresa" >}}
 
-Se já não quiser executar as automatizações durante um determinado período de tempo, pode **fazer uma pausa** em vez de as [apagar](https://seatable.io/pt/docs/arbeiten-mit-automationen/automationen-loeschen/). Isto tem a vantagem de poder simplesmente **reactivar** as automatizações pausadas, enquanto que tem de criar automatizações apagadas do zero.
+Se já não quiser executar as automatizações durante um determinado período de tempo, pode **fazer uma pausa** em vez de as [apagar]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}). Isto tem a vantagem de poder simplesmente **reactivar** as automatizações pausadas, enquanto que tem de criar automatizações apagadas do zero.
 
 ## Parar temporariamente as automatizações
 
@@ -35,8 +35,3 @@ Para **reactivar** as automatizações pausadas, basta seguir os passos já desc
 A nota **(pausada)** à direita do nome de automatização desaparece então novamente e o **símbolo de pausa** regressa.
 
 ![Pausas automáticas](images/pause-an-automation-1.png)
-
-### Artigos mais úteis na secção de automatização:
-
-- [Trabalhar com automatismos](https://seatable.io/pt/docs-category/arbeiten-mit-automationen/)
-- [Exemplos de automatizações](https://seatable.io/pt/docs-category/beispiele-fuer-automationen/)

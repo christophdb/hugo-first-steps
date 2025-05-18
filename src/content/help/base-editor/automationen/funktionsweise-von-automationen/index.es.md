@@ -25,7 +25,7 @@ Para determinados eventos, como la adición de entradas, también puede realizar
 
 Además, puede limitar las **condiciones** del evento desencadenante para que la automatización sólo se active si se encuentran **determinados datos** en determinadas columnas. Por ejemplo, puede definir los valores exactos que deben estar presentes en una columna seleccionada después de añadir o modificar una entrada para que se active la automatización.
 
-Puede consultar todo lo demás en el artículo [Desencadenante de automatización](https://seatable.io/es/docs/arbeiten-mit-automationen/automations-trigger/).
+Puede consultar todo lo demás en el artículo [Desencadenante de automatización]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Acciones automatizadas
 
@@ -62,8 +62,3 @@ Como **acción automatizada**, seleccione la opción **Editar entrada**. En conc
 ![Ejecución del ejemplo de automatización](images/example-automation-new.gif)
 
 Una vez creada la automatización, el cambio realizado manualmente en la columna "Situación laboral" conlleva **automáticamente** el **ajuste deseado de la entrada** en la columna "Pago de salario".
-
-### Más artículos útiles en la sección de automatización:
-
-- [Trabajar con automatizaciones](https://seatable.io/es/docs-category/arbeiten-mit-automationen/)
-- [Ejemplos de automatizaciones](https://seatable.io/es/docs-category/beispiele-fuer-automationen/)

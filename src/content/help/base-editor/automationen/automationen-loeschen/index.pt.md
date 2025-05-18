@@ -39,8 +39,3 @@ Pode ver os efeitos que a eliminação das automatizações tem sobre as várias
 | Acrescentar ligações                   | Quando o evento de disparo ocorre, não são acrescentadas mais ligações.                                                                                  |
 | Adicionar nova entrada em outra tabela | Quando o evento de disparo ocorre, não são acrescentadas mais entradas a outra tabela.                                                                   |
 | Executar guião Python                  | Quando o evento de disparo ocorre, não são executados mais scripts Python.                                                                               |
-
-### Artigos mais úteis na secção de automatização:
-
-- [Trabalhar com automatismos](https://seatable.io/pt/docs-category/arbeiten-mit-automationen/)
-- [Exemplos de automatizações](https://seatable.io/pt/docs-category/beispiele-fuer-automationen/)

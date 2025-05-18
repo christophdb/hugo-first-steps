@@ -30,5 +30,5 @@ Os [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}
 
 Com as [automatizações]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), já não tem de adicionar entradas às suas tabelas manualmente, mas pode criá-las automaticamente quando ocorre um evento de disparo previamente definido. Pode saber mais sobre isto nestes artigos:
 
-- [Acrescentar linhas via automatização](https://seatable.io/pt/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Adicionar entradas a outras tabelas através de automatização](https://seatable.io/pt/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
+- [Acrescentar linhas via automatização]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Adicionar entradas a outras tabelas através de automatização]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})

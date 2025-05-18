@@ -39,8 +39,3 @@ The status indicates whether the automation was executed successfully. If this i
 
 **Warnings**  
 If there were problems during the execution of an automation, a corresponding warning message appears here.
-
-### More helpful articles in the Automations section:
-
-- [Working with automations](https://seatable.io/en/docs-category/arbeiten-mit-automationen/)
-- [Automation examples](https://seatable.io/en/docs-category/beispiele-fuer-automationen/)

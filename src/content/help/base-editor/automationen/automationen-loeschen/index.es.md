@@ -39,8 +39,3 @@ Puede ver qué efectos tiene la eliminación de automatizaciones en las distinta
 | Añadir enlaces                         | Cuando se produce el evento desencadenante, no se añaden más enlaces.                                                                                                      |
 | Añadir una nueva entrada en otra tabla | Cuando se produce el evento desencadenante, no se añaden más entradas a otra tabla.                                                                                        |
 | Ejecutar script Python                 | Cuando se produce el evento desencadenante, no se ejecutan más scripts Python.                                                                                             |
-
-### Más artículos útiles en la sección de automatización:
-
-- [Trabajar con automatizaciones](https://seatable.io/es/docs-category/arbeiten-mit-automationen/)
-- [Ejemplos de automatizaciones](https://seatable.io/es/docs-category/beispiele-fuer-automationen/)

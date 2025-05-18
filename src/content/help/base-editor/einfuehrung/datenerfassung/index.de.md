@@ -30,5 +30,5 @@ SeaTable besitzt einen leistungsfähigen [Daten-Import](https://seatable.io/docs
 
 Über [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) müssen Sie Einträge in Ihren Tabellen nicht mehr manuell hinzufügen, sondern können diese automatisch erstellen, wenn ein zuvor definiertes Trigger-Ereignis eintritt. Mehr dazu erfahren Sie in diesen Artikeln:
 
-- [Zeilen per Automation hinzufügen](https://seatable.io/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Einträge in andere Tabellen per Automation hinzufügen](https://seatable.io/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
+- [Zeilen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Einträge in andere Tabellen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})

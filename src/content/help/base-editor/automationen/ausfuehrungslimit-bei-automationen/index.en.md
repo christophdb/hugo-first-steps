@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/ausfuehrungslimit-bei-automationen'
 ---
 
-Do you work with [automations](https://seatable.io/en/docs/automationen/funktionsweise-von-automationen/) in your Base that are triggered by new or changed entries? Then please note the following: If you add or modify more than 50 entries per minute, it may happen that the desired [automation actions](https://seatable.io/en/docs/automationen/automations-aktionen/) are not started. The reason for this is the execution limit for automations.
+Do you work with [automations]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) in your Base that are triggered by new or changed entries? Then please note the following: If you add or modify more than 50 entries per minute, it may happen that the desired [automation actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) are not started. The reason for this is the execution limit for automations.
 
 ## The execution limit for automations
 
@@ -22,4 +22,8 @@ In the future, there will be an error message if automations cannot be executed 
 
 Each automation consumes system resources, i.e. too many automations at the same time could overload the SeaTable Cloud server. This is to be prevented by the limit.
 
-{{< warning  headline="Automation loops"  text="SeaTable detects and stops **automation loops** - automations that restart themselves because the triggered action matches their [trigger](https://seatable.io/en/docs/automationen/automations-trigger/). For example, the automation 'Add a new row (action) when a new row is added (trigger)' will stop after running once." />}}
+{{< warning  headline="Automation loops" >}}
+
+SeaTable detects and stops **automation loops** - automations that restart themselves because the triggered action matches their [trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}). For example, the automation 'Add a new row (action) when a new row is added (trigger)' will stop after running once.
+
+{{< /warning >}}

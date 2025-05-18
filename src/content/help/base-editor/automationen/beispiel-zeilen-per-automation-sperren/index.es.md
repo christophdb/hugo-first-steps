@@ -69,17 +69,17 @@ Para obtener más información sobre el bloqueo de filas, consulte el artículo 
 - [Crear una automatización](https://seatable.io/es/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
 - [Gestionar y editar automatizaciones](https://seatable.io/es/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
 - [Detener automatizaciones](https://seatable.io/es/docs/arbeiten-mit-automationen/automationen-stoppen/)
-- [Borrar automatizaciones](https://seatable.io/es/docs/arbeiten-mit-automationen/automationen-loeschen/)
+- [Borrar automatizaciones]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Visualizar el registro de ejecución de una automatización](https://seatable.io/es/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
 - [¿Por qué no encuentro automatizaciones en mi base?](https://seatable.io/es/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
-- [Activador de automatización](https://seatable.io/es/docs/arbeiten-mit-automationen/automations-trigger/)
+- [Activador de automatización]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Acciones de automatización](https://seatable.io/es/docs/arbeiten-mit-automationen/automations-aktionen/)
 - [Vinculación de entradas mediante automatización](https://seatable.io/es/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
 
 ### Otros ejemplos interesantes de automatización:
 
 - [Vinculación de entradas mediante automatización](https://seatable.io/es/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
-- [Añadir líneas mediante automatización](https://seatable.io/es/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Añadir entradas a otras tablas mediante automatización](https://seatable.io/es/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
-- [Enviar notificaciones mediante automatización](https://seatable.io/es/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
+- [Añadir líneas mediante automatización]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Añadir entradas a otras tablas mediante automatización]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
+- [Enviar notificaciones mediante automatización]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
 - [Envío automatizado de correos electrónicos]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

@@ -21,8 +21,3 @@ Si desea utilizar esta potente función de SeaTable en el futuro, puede actualiz
 Actualmente, las automatizaciones sólo están disponibles para los equipos con un **[Suscripción a SeaTable Enterprise](https://seatable.io/es/docs/abo-abrechnung/abo-pakete/)** suscripción. Si no encuentra esta función en sus bases, es probable que su equipo **no** disponga de dicha suscripción. Para utilizar las automatizaciones, debe [actualizar](https://seatable.io/es/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen) **la suscripción de su equipo** a una suscripción Enterprise.
 
 {{< warning  headline="Nota importante"  text="Una suscripción sólo es válida para **todo el equipo**. **No** se pueden mejorar bases individuales ni miembros del equipo." />}}
-
-### Más artículos útiles en la sección de automatización:
-
-- [Trabajar con automatizaciones](https://seatable.io/es/docs-category/arbeiten-mit-automationen/)
-- [Ejemplos de automatizaciones](https://seatable.io/es/docs-category/beispiele-fuer-automationen/)

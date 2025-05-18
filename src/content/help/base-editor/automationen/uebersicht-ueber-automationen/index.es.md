@@ -44,7 +44,7 @@ Aprenda a detener las automatizaciones [aquí](https://seatable.io/es/docs/arbei
 
 También puede eliminar las automatizaciones que ya no necesite. Tenga en cuenta que no puede restaurar las automatizaciones eliminadas.
 
-Aprenda a eliminar automatizaciones [aquí](https://seatable.io/es/docs/arbeiten-mit-automationen/automationen-loeschen/).
+Aprenda a eliminar automatizaciones [aquí]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}).
 
 ## Visualizar el registro de ejecución de una automatización
 
@@ -62,7 +62,7 @@ Descubra [aquí](https://seatable.io/es/docs/arbeiten-mit-automationen/warum-fin
 
 Los activadores de automatización son el primero de los dos componentes esenciales de las automatizaciones. Los disparadores, que puedes configurar individualmente para cada automatización, activan distintos tipos de acciones automatizadas.
 
-Obtenga más información sobre los activadores de automatización [aquí](https://seatable.io/es/docs/arbeiten-mit-automationen/automations-trigger/).
+Obtenga más información sobre los activadores de automatización [aquí]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Acciones de automatización
 
@@ -80,13 +80,13 @@ Aprenda [aquí](https://seatable.io/es/docs/beispiele-fuer-automationen/zeilen-p
 
 Con la ayuda de las automatizaciones, ya no tendrá que añadir manualmente filas con determinadas entradas a sus tablas, sino que podrá hacer que estos pasos se lleven a cabo automáticamente. Esto es especialmente ventajoso si desea automatizar varios pasos del proceso en sus tablas.
 
-Aprenda a añadir líneas mediante automatización [aquí](https://seatable.io/es/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/).
+Aprenda a añadir líneas mediante automatización [aquí]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}).
 
 ## Añadir entradas a otras tablas mediante automatización
 
 Con la ayuda de las automatizaciones, ya no tendrá que realizar entradas en otras tablas manualmente, sino que podrá hacer que estos pasos se lleven a cabo automáticamente. La gran ventaja de esto es que el desencadenante no tiene que estar en la misma tabla que la acción desencadenada. Esta automatización es especialmente ventajosa si utiliza tablas diferentes cuyo contenido está relacionado entre sí.
 
-Aprenda [aquí](https://seatable.io/es/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) cómo añadir entradas a otras tablas mediante la automatización.
+Aprenda [aquí]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) cómo añadir entradas a otras tablas mediante la automatización.
 
 ## Envío automatizado de correos electrónicos
 

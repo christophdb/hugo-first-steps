@@ -61,4 +61,4 @@ This button action is not supported on [table pages in universal apps]({{< relre
 
 ## Automation as a further option
 
-If you have a SeaTable Enterprise subscription, you can also fully automate this process step. To do this, configure a corresponding [automation with which you can add entries in other tables](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/).
+If you have a SeaTable Enterprise subscription, you can also fully automate this process step. To do this, configure a corresponding [automation with which you can add entries in other tables]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}).

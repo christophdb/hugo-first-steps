@@ -65,7 +65,7 @@ Um eine leichte Verständlichkeit zu ermöglichen, haben wir uns im Anwendungsfa
 
 Folgende Spaltentypen können Sie mithilfe der Operation _Vergleichen und kopieren_ **nicht** kopieren und stehen Ihnen dementsprechend bei der Definition der Quell- und Ergebnisspalten **nicht** zur Verfügung.
 
-- [Mehrfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
+- [Mehrfachauswahl-Spalte]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 - [Die Spalte Ersteller]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [Die Spalte Erstellt]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [Die Spalte Letzter Bearbeiter]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)

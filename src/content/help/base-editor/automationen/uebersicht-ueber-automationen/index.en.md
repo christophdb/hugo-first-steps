@@ -44,7 +44,7 @@ Learn how to stop automations [here](https://seatable.io/en/docs/arbeiten-mit-au
 
 You can also delete automations that are no longer needed. Please note that you cannot restore deleted automations.
 
-Learn how to delete automations [here](https://seatable.io/en/docs/arbeiten-mit-automationen/automationen-loeschen/).
+Learn how to delete automations [here]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}).
 
 ## Show execution log of an automation
 
@@ -62,7 +62,7 @@ Find out [here](https://seatable.io/en/docs/arbeiten-mit-automationen/warum-find
 
 Automation triggers represent the first of the two essential components of automations. The triggers, which you can set individually for each automation, trigger different types of automated actions.
 
-Learn more about automation triggers [here](https://seatable.io/en/docs/arbeiten-mit-automationen/automations-trigger/).
+Learn more about automation triggers [here]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Automation actions
 
@@ -80,13 +80,13 @@ Learn how to lock rows with automation [here](https://seatable.io/en/docs/beispi
 
 With the help of automations, you no longer have to manually add rows with certain entries to your tables, but can have these steps performed automatically. This is especially advantageous if you want to automate various process steps in your tables.
 
-Learn how to add rows via automation [here](https://seatable.io/en/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/).
+Learn how to add rows via automation [here]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}).
 
 ## Add entries to other tables via automation
 
 With the help of automations, you no longer have to make entries in other tables manually, but can have these steps performed automatically. The great advantage of this is that the trigger does not have to be in the same table as the action that is triggered. This automation is especially beneficial when you use different tables whose contents are related to each other.
 
-Learn how to add entries to other tables via automation [here](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/).
+Learn how to add entries to other tables via automation [here]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}).
 
 ## E-mail dispatch via automation
 

@@ -39,8 +39,3 @@ O estado indica se a automatização foi executada com sucesso. Se for este o ca
 
 **Avisos**  
 Se houve problemas durante a execução de uma automatização, uma mensagem de aviso correspondente aparece aqui.
-
-### Artigos mais úteis na secção de automatização:
-
-- [Trabalhar com automatismos](https://seatable.io/pt/docs-category/arbeiten-mit-automationen/)
-- [Exemplos de automatizações](https://seatable.io/pt/docs-category/beispiele-fuer-automationen/)

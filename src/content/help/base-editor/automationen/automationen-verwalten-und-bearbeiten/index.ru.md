@@ -31,8 +31,3 @@ url: '/ru/help/automationen-verwalten-und-bearbeiten'
 - **Колонки**, которые SeaTable отслеживает на предмет наступления триггерного события
 - **Условия фильтрации** события срабатывания
 - Добавляйте, корректируйте или удаляйте **автоматизированные действия**
-
-### Больше полезных статей в разделе "Автоматизация":
-
-- [Работа с автоматизацией](https://seatable.io/ru/docs-category/arbeiten-mit-automationen/)
-- [Примеры для автоматизации](https://seatable.io/ru/docs-category/beispiele-fuer-automationen/)

@@ -44,7 +44,7 @@ Aprenda [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/automatione
 
 Também pode apagar as automatizações que já não são necessárias. É favor notar que não é possível restaurar as automatizações apagadas.
 
-Saiba [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/automationen-loeschen/) como apagar as automatizações.
+Saiba [aqui]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}) como apagar as automatizações.
 
 ## Mostrar o registo de execução de uma automatização
 
@@ -62,7 +62,7 @@ Descubra [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/warum-find
 
 Os desencadeadores de automatização são a primeira das duas componentes essenciais das automatizações. Os gatilhos, que pode definir individualmente para cada automatização, desencadeiam diferentes tipos de acções automatizadas.
 
-Saiba mais sobre os activadores de automação [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/automations-trigger/).
+Saiba mais sobre os activadores de automação [aqui]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Acções de automatização
 
@@ -80,13 +80,13 @@ Aprenda [aqui](https://seatable.io/pt/docs/beispiele-fuer-automationen/zeilen-pe
 
 Com a ajuda de automatizações, já não tem de adicionar manualmente linhas com determinadas entradas às suas tabelas, mas pode ter estas etapas executadas automaticamente. Isto é particularmente vantajoso se quiser automatizar vários passos do processo nas suas tabelas.
 
-Aprenda [aqui](https://seatable.io/pt/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/) como adicionar linhas através da automatização.
+Aprenda [aqui]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) como adicionar linhas através da automatização.
 
 ## Adicionar entradas a outras tabelas através de automatização
 
 Com a ajuda de automatizações, já não tem de fazer entradas noutras tabelas manualmente, mas pode ter estas etapas executadas automaticamente. A grande vantagem disto é que o gatilho não tem de estar na mesma tabela que a acção que é desencadeada. Esta automatização é particularmente vantajosa se utilizar tabelas diferentes, cujo conteúdo esteja relacionado entre si.
 
-Aprenda [aqui](https://seatable.io/pt/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) como adicionar entradas a outras tabelas através da automatização.
+Aprenda [aqui]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) como adicionar entradas a outras tabelas através da automatização.
 
 ## Envio de e-mails por automatização
 

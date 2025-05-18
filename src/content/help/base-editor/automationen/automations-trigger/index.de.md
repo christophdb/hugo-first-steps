@@ -93,8 +93,3 @@ Wenn Sie den "Periodischen Trigger für Einträge, die bestimmte Bedingungen erf
 - Eintrag sperren
 - Eintrag bearbeiten
 - Seite in PDF umwandeln
-
-### Weitere hilfreiche Artikel in der Rubrik Automationen:
-
-- [Arbeiten mit Automationen](https://seatable.io/docs-category/arbeiten-mit-automationen/)
-- [Beispiele für Automationen](https://seatable.io/docs-category/beispiele-fuer-automationen/)

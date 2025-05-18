@@ -44,7 +44,7 @@ Erfahren Sie [hier](https://seatable.io/docs/arbeiten-mit-automationen/automatio
 
 Dauerhaft nicht mehr benötigte Automationen können Sie auch ganz löschen. Beachten Sie dabei, dass Sie gelöschte Automationen nicht wiederherstellen können.
 
-Erfahren Sie [hier](https://seatable.io/docs/arbeiten-mit-automationen/automationen-loeschen/), wie Sie Automationen löschen.
+Erfahren Sie [hier]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}), wie Sie Automationen löschen.
 
 ## Ausführungslog einer Automation anzeigen
 
@@ -62,7 +62,7 @@ Erfahren Sie [hier](https://seatable.io/docs/arbeiten-mit-automationen/warum-fin
 
 Automations-Trigger stellen die erste der beiden wesentlichen Komponenten von Automationen dar. Die Trigger, die Sie für jede Automation individuell festlegen können, lösen verschiedene Arten von automatisierten Aktionen aus.
 
-Erfahren Sie [hier](https://seatable.io/docs/arbeiten-mit-automationen/automations-trigger/) mehr über Automations-Trigger.
+Erfahren Sie [hier]({{< relref "help/base-editor/automationen/automations-trigger" >}}) mehr über Automations-Trigger.
 
 ## Automations-Aktionen
 
@@ -80,13 +80,13 @@ Erfahren Sie [hier](https://seatable.io/docs/beispiele-fuer-automationen/zeilen-
 
 Mithilfe von Automationen müssen Sie Zeilen mit bestimmten Einträgen nicht mehr manuell in Ihren Tabellen hinzufügen, sondern können diese Schritte automatisch ausführen lassen. Das ist vor allem von Vorteil, wenn Sie diverse Prozessschritte in Ihren Tabellen automatisieren möchten.
 
-Erfahren Sie [hier](https://seatable.io/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/), wie Sie Zeilen per Automation hinzufügen.
+Erfahren Sie [hier]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}), wie Sie Zeilen per Automation hinzufügen.
 
 ## Einträge in andere Tabellen per Automation hinzufügen
 
 Mithilfe von Automationen müssen Sie Einträge in andere Tabellen nicht mehr manuell durchführen, sondern können diese Schritte automatisch ausführen lassen. Der große Vorteil daran ist, dass sich der Trigger nicht in derselben Tabelle befinden muss wie die ausgelöste Aktion. Diese Automation ist besonders vorteilhaft, wenn Sie verschiedene Tabellen nutzen, deren Inhalte miteinander in Beziehung stehen.
 
-Erfahren Sie [hier](https://seatable.io/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/), wie Sie Einträge in andere Tabellen per Automation hinzufügen.
+Erfahren Sie [hier]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}), wie Sie Einträge in andere Tabellen per Automation hinzufügen.
 
 ## E-Mail-Versand per Automation
 

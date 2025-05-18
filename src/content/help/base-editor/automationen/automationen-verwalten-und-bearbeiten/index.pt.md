@@ -31,8 +31,3 @@ Para poder fazer ajustes às automatizações já criadas em qualquer altura, te
 - As **colunas** que o SeaTable monitoriza com vista à ocorrência do evento de disparo
 - As **condições de filtragem do** evento de disparo
 - Adicionar, ajustar ou apagar **acções automatizadas**
-
-### Artigos mais úteis na secção de automatização:
-
-- [Trabalhar com automatismos](https://seatable.io/pt/docs-category/arbeiten-mit-automationen/)
-- [Exemplos de automatizações](https://seatable.io/pt/docs-category/beispiele-fuer-automationen/)

@@ -61,4 +61,4 @@ url: '/ru/help/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
 
 ## Автоматизация как дополнительная возможность
 
-Если у вас есть подписка SeaTable Enterprise, вы также можете полностью автоматизировать этот этап процесса. Для этого настройте соответствующую [автоматизацию, с помощью которой вы сможете добавлять записи в другие таблицы](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/).
+Если у вас есть подписка SeaTable Enterprise, вы также можете полностью автоматизировать этот этап процесса. Для этого настройте соответствующую [автоматизацию, с помощью которой вы сможете добавлять записи в другие таблицы]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}).

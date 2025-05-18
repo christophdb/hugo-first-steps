@@ -101,6 +101,6 @@ Les employés du service des ressources humaines reçoivent l'information qu'une
 
 - [Verrouiller des lignes par automatisation](https://seatable.io/fr/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/)
 - [Liens vers des entrées par automatisation](https://seatable.io/fr/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
-- [Ajouter des lignes par automatisation](https://seatable.io/fr/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Ajouter des entrées dans d'autres tableaux par automatisation](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
+- [Ajouter des lignes par automatisation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Ajouter des entrées dans d'autres tableaux par automatisation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
 - [Envoi d'e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

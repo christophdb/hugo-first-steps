@@ -31,8 +31,3 @@ You can adjust the following settings for an automation:
 - The **columns** that SeaTable monitors with a view to the occurrence of the trigger event
 - The **filter conditions of** the trigger event
 - Add, customize or delete **automated actions**
-
-### More helpful articles in the Automations section:
-
-- [Working with automations](https://seatable.io/en/docs-category/arbeiten-mit-automationen/)
-- [Automation examples](https://seatable.io/en/docs-category/beispiele-fuer-automationen/)

@@ -10,7 +10,7 @@ url: '/de/hilfe/automations-aktionen'
 
 {{< required-version "Enterprise" >}}
 
-**Automatisierte Aktionen** stellen eine der beiden wesentlichen Komponenten von Automationen dar. Die Aktionen werden dabei von definierten **Trigger-Ereignissen** ausgelöst. Je nach [Trigger](https://seatable.io/docs/arbeiten-mit-automationen/automations-trigger/) kann SeaTable unterschiedliche Automations-Aktionen ausführen. Dieser Artikel bietet Ihnen einen **Überblick** über die verschiedenen Arten von automatisierten Aktionen.
+**Automatisierte Aktionen** stellen eine der beiden wesentlichen Komponenten von Automationen dar. Die Aktionen werden dabei von definierten **Trigger-Ereignissen** ausgelöst. Je nach [Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}) kann SeaTable unterschiedliche Automations-Aktionen ausführen. Dieser Artikel bietet Ihnen einen **Überblick** über die verschiedenen Arten von automatisierten Aktionen.
 
 ## Verfügbare Automations-Aktionen
 
@@ -51,7 +51,7 @@ Die Automations-Aktion "Benachrichtigung versenden" steht Ihnen derzeit bei folg
 - Periodischer Trigger
 - Periodischer Trigger für Einträge, die eine bestimmte Bedingung erfüllen
 
-Der Artikel [Benachrichtigungen per Automation versenden](https://seatable.io/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
+Der Artikel [Benachrichtigungen per Automation versenden]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
 
 ## Automations-Aktion: App-Benachrichtigung versenden
 
@@ -99,7 +99,7 @@ Die Automations-Aktion "Zeile hinzufügen" steht Ihnen derzeit bei folgenden **A
 - Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
 - Periodischer Trigger
 
-Der Artikel [Zeilen per Automation hinzufügen](https://seatable.io/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
+Der Artikel [Zeilen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
 
 ## Automations-Aktion: Eintrag sperren
 
@@ -113,7 +113,7 @@ Die Automations-Aktion "Eintrag sperren" steht Ihnen derzeit bei folgenden **Aut
 - Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
 - Periodischer Trigger für Einträge, die eine bestimmte Bedingung erfüllen
 
-Der Artikel [Zeilen per Automation sperren](https://seatable.io/docs/beispiel-automationen/zeilen-per-automation-sperren/) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
+Der Artikel [Zeilen per Automation sperren]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
 
 ## Automations-Aktion: Eintrag bearbeiten
 
@@ -139,7 +139,7 @@ Die Automations-Aktion "Links hinzufügen" steht Ihnen derzeit bei folgenden **A
 - Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
 - Periodischer Trigger
 
-Der Artikel [Verlinken von Einträgen per Automation](https://seatable.io/docs/beispiel-automationen/verlinken-von-eintraegen-per-automation/) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
+Der Artikel [Verlinken von Einträgen per Automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
 
 ## Automations-Aktion: Neuen Eintrag in anderer Tabelle hinzufügen
 
@@ -152,7 +152,7 @@ Die Automations-Aktion "Neuen Eintrag in anderer Tabelle hinzufügen" steht Ihne
 - Wenn ein neuer Eintrag hinzufügt wird
 - Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
 
-Der Artikel [Einträge in andere Tabellen per Automation hinzufügen](https://seatable.io/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
+Der Artikel [Einträge in andere Tabellen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
 
 ## Automations-Aktion: Seite in PDF umwandeln
 

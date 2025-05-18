@@ -93,8 +93,3 @@ If you select the "Periodic trigger for entries that meet certain conditions" fo
 - Lock entry
 - Edit entry
 - Convert page to PDF
-
-### More helpful articles in the Automations section:
-
-- [Working with automations](https://seatable.io/en/docs-category/arbeiten-mit-automationen/)
-- [Automation examples](https://seatable.io/en/docs-category/beispiele-fuer-automationen/)

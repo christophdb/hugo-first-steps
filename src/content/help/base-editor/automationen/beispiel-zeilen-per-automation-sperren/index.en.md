@@ -69,17 +69,17 @@ For more information on blocking rows , see the article [Blocking a row.]({{< re
 - [Create an automation](https://seatable.io/en/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
 - [Manage and edit automations](https://seatable.io/en/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
 - [Stop automations](https://seatable.io/en/docs/arbeiten-mit-automationen/automationen-stoppen/)
-- [Delete automations](https://seatable.io/en/docs/arbeiten-mit-automationen/automationen-loeschen/)
+- [Delete automations]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Show execution log of an automation](https://seatable.io/en/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
 - [Why can't I find automations in my base?](https://seatable.io/en/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
-- [Automation trigger](https://seatable.io/en/docs/arbeiten-mit-automationen/automations-trigger/)
+- [Automation trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Automation actions](https://seatable.io/en/docs/arbeiten-mit-automationen/automations-aktionen/)
 - [Linking entries via automation](https://seatable.io/en/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
 
 ### Other interesting examples of automations:
 
 - [Linking entries via automation](https://seatable.io/en/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
-- [rows Add via automation](https://seatable.io/en/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Add entries to other tables via automation](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
-- [Send notifications via automation](https://seatable.io/en/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
+- [rows Add via automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Add entries to other tables via automation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
+- [Send notifications via automation]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
 - [E-mail dispatch via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

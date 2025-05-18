@@ -10,7 +10,7 @@ url: '/pt/ajuda/automations-aktionen'
 
 {{< required-version "Empresa" >}}
 
-As **acções automatizadas** representam uma das duas componentes essenciais das automatizações. As acções são desencadeadas por **eventos de desencadeamento** definidos. Dependendo do [gatilho](https://seatable.io/pt/docs/arbeiten-mit-automationen/automations-trigger/), a SeaTable pode realizar diferentes acções de automatização. Este artigo fornece uma **visão geral** dos diferentes tipos de acções automatizadas.
+As **acções automatizadas** representam uma das duas componentes essenciais das automatizações. As acções são desencadeadas por **eventos de desencadeamento** definidos. Dependendo do [gatilho]({{< relref "help/base-editor/automationen/automations-trigger" >}}), a SeaTable pode realizar diferentes acções de automatização. Este artigo fornece uma **visão geral** dos diferentes tipos de acções automatizadas.
 
 ## Acções de automatização disponíveis
 
@@ -51,7 +51,7 @@ A ação de automatização "Enviar notificação" está atualmente disponível 
 - Desencadeamento periódico
 - Acionador periódico para entradas que preenchem uma determinada condição
 
-O artigo O [envio de notificações via automatização](https://seatable.io/pt/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/) percorre esta automatização utilizando um caso de uso concreto.
+O artigo O [envio de notificações via automatização]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}}) percorre esta automatização utilizando um caso de uso concreto.
 
 ## Ação de automatização: Enviar notificação de aplicação
 
@@ -99,7 +99,7 @@ A ação de automatização "Adicionar linha" está atualmente disponível para 
 - As inscrições preenchem certas condições após a edição
 - Desencadeamento periódico
 
-O artigo [Adding Rows via Automation](https://seatable.io/pt/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/) percorre esta automatização utilizando um caso de utilização concreta.
+O artigo [Adding Rows via Automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}}) percorre esta automatização utilizando um caso de utilização concreta.
 
 ## Acção de automatização: Lock entry
 
@@ -114,7 +114,7 @@ A ação de automatização "Bloquear entrada" está atualmente disponível para
 - As inscrições preenchem certas condições após a edição
 - Acionador periódico para entradas que preenchem uma determinada condição
 
-O artigo [Locking Lines by Automation](https://seatable.io/pt/docs/beispiel-automationen/zeilen-per-automation-sperren/) percorre esta automatização utilizando um caso de uso concreto.
+O artigo [Locking Lines by Automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) percorre esta automatização utilizando um caso de uso concreto.
 
 ## Acção de automatização: editar entrada
 
@@ -140,7 +140,7 @@ A ação de automatização "Adicionar ligações" está atualmente disponível 
 - As inscrições preenchem certas condições após a edição
 - Desencadeamento periódico
 
-O artigo [A ligação de entradas por automatização](https://seatable.io/pt/docs/beispiel-automationen/verlinken-von-eintraegen-per-automation/) passa por esta automatização utilizando um caso de uso concreto.
+O artigo [A ligação de entradas por automatização]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) passa por esta automatização utilizando um caso de uso concreto.
 
 ## Acção de automatização: adicionar nova entrada em outra tabela
 
@@ -153,7 +153,7 @@ A ação de automatização "Adicionar nova entrada noutra tabela" está atualme
 - Quando uma nova entrada é adicionada
 - As inscrições preenchem certas condições após a edição
 
-O artigo [Adicionando Entradas a Outras Tabelas via Automação](https://seatable.io/pt/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) passa por esta automatização utilizando um caso de uso concreto.
+O artigo [Adicionando Entradas a Outras Tabelas via Automação]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) passa por esta automatização utilizando um caso de uso concreto.
 
 ## Ação de automatização: Converter a página em PDF
 

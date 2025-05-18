@@ -58,4 +58,4 @@ Auf [Tabellenseiten in Universellen Apps]({{< relref "help/app-builder/seitentyp
 
 ## Automation als weitere Option
 
-Wenn Sie über ein SeaTable Enterprise Abo verfügen, können Sie diesen Prozessschritt auch vollständig automatisieren. Dazu konfigurieren Sie eine entsprechende [Automation, mit der Sie Einträge in anderen Tabellen hinzufügen können](https://seatable.io/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/).
+Wenn Sie über ein SeaTable Enterprise Abo verfügen, können Sie diesen Prozessschritt auch vollständig automatisieren. Dazu konfigurieren Sie eine entsprechende [Automation, mit der Sie Einträge in anderen Tabellen hinzufügen können]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}).

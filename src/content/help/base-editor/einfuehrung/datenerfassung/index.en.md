@@ -30,5 +30,5 @@ SeaTable has a powerful [data import](https://seatable.io/en/docs-category/impor
 
 Using [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), you no longer have to add entries to your tables manually, but can create them automatically when a previously defined trigger event occurs. You can learn more about this in these articles:
 
-- [rows Add via automation](https://seatable.io/en/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Add entries to other tables via automation](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
+- [rows Add via automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Add entries to other tables via automation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})

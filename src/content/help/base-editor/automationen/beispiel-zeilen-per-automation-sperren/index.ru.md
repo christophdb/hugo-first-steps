@@ -69,17 +69,17 @@ url: '/ru/help/zeilen-per-automation-sperren'
 - [Создайте автоматизацию](https://seatable.io/ru/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
 - [Управление и редактирование автоматизаций](https://seatable.io/ru/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
 - [Остановить автоматизацию](https://seatable.io/ru/docs/arbeiten-mit-automationen/automationen-stoppen/)
-- [Удалить автоматизацию](https://seatable.io/ru/docs/arbeiten-mit-automationen/automationen-loeschen/)
+- [Удалить автоматизацию]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Отображение журнала выполнения автоматизации](https://seatable.io/ru/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
 - [Почему я не могу найти автоматизацию в своей базе?](https://seatable.io/ru/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
-- [Триггер автоматизации](https://seatable.io/ru/docs/arbeiten-mit-automationen/automations-trigger/)
+- [Триггер автоматизации]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Действия по автоматизации](https://seatable.io/ru/docs/arbeiten-mit-automationen/automations-aktionen/)
 - [Связывание записей с помощью автоматизации](https://seatable.io/ru/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
 
 ### Другие интересные примеры автоматизации:
 
 - [Связывание записей с помощью автоматизации](https://seatable.io/ru/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
-- [Добавление линий с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Добавление записей в другие таблицы с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
-- [Отправка уведомлений с помощью автоматизации](https://seatable.io/ru/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
+- [Добавление линий с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Добавление записей в другие таблицы с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
+- [Отправка уведомлений с помощью автоматизации]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
 - [Отправка по электронной почте с помощью автоматики]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

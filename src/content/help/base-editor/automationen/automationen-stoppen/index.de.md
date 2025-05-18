@@ -10,7 +10,7 @@ url: '/de/hilfe/automationen-stoppen'
 
 {{< required-version "Enterprise" >}}
 
-Wenn Sie Automationen für einen bestimmten Zeitraum nicht mehr ausführen wollen, können Sie sie **pausieren**, anstatt sie zu [löschen](https://seatable.io/docs/arbeiten-mit-automationen/automationen-loeschen/). Dies bringt den Vorteil mit sich, dass Sie pausierte Automationen einfach wieder **aktivieren** können, während Sie gelöschte Automationen nochmals gänzlich neu anlegen müssen.
+Wenn Sie Automationen für einen bestimmten Zeitraum nicht mehr ausführen wollen, können Sie sie **pausieren**, anstatt sie zu [löschen]({{< relref "help/base-editor/automationen/automationen-loeschen" >}}). Dies bringt den Vorteil mit sich, dass Sie pausierte Automationen einfach wieder **aktivieren** können, während Sie gelöschte Automationen nochmals gänzlich neu anlegen müssen.
 
 ## Automationen vorübergehend anhalten
 
@@ -33,8 +33,3 @@ Um pausierte Automationen wieder zu **aktivieren**, folgen Sie einfach den oben 
 Der Hinweis **(pausiert)** rechts neben dem Namen der Automation verschwindet anschließend wieder und das **Pause-Symbol** kehrt zurück.
 
 ![Automationen pausieren](images/pause-an-automation-1.png)
-
-### Weitere hilfreiche Artikel in der Rubrik Automationen:
-
-- [Arbeiten mit Automationen](https://seatable.io/docs-category/arbeiten-mit-automationen/)
-- [Beispiele für Automationen](https://seatable.io/docs-category/beispiele-fuer-automationen/)

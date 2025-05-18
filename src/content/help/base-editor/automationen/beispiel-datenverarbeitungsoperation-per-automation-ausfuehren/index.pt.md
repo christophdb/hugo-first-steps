@@ -25,10 +25,10 @@ Com a ajuda da automatização, já não é necessário executar uma operação 
 
 ## Criar a automatização
 
-Depois de determinar em que **tabela** e **visão a** automatização deve ser accionada, definir o [evento de accionamento](https://seatable.io/pt/docs/automationen/automations-trigger/). Atualmente, apenas um **acionador periódico** pode resultar em uma operação de processamento de dados. Portanto, é necessário definir um **momento** em que a automação deve ser acionada diariamente, semanalmente ou mensalmente.
+Depois de determinar em que **tabela** e **visão a** automatização deve ser accionada, definir o [evento de accionamento]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Atualmente, apenas um **acionador periódico** pode resultar em uma operação de processamento de dados. Portanto, é necessário definir um **momento** em que a automação deve ser acionada diariamente, semanalmente ou mensalmente.
 
 ![Selecção do accionador de automatização para a acção: Executar operação de processamento de dados](images/select-trigger-for-data-operation-per-automation.png)
 
 {{< warning  headline="Nota importante"  text="A ação automatizada **Executar operação de tratamento de dados** está disponível para si **exclusivamente** disponível no seguinte acto gerador:" />}}
 
-!["Acionador periódico](https://seatable.io/pt/docs/automationen/automations-trigger/#automations-trigger_periodischer_trigger)
+!["Acionador periódico]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_periodischer_trigger)

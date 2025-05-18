@@ -73,7 +73,7 @@ Si la operación se ejecuta correctamente, se comprueba si las tablas **empleado
 
 Los siguientes tipos de columnas **no pueden** copiarse mediante la operación _Comparar y copiar_ y, por lo tanto, **no** están disponibles al definir las columnas de origen y de resultado.
 
-- [Columna de selección múltiple](https://seatable.io/es/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
+- [Columna de selección múltiple]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 - [La columna del Creador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [La columna Creado]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [La columna del Último Editor]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)

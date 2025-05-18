@@ -35,8 +35,3 @@ Folgende Informationen können Sie im Ausführungslog einer Automation einsehen:
 **Status** Der Status gibt an, ob die Automation erfolgreich ausgeführt wurde. Ist dies der Fall, erscheint hier die Meldung **Erfolg**.
 
 **Warnungen** Gab es Probleme bei der Ausführung einer Automation, erscheint hier eine entsprechende Warnmeldung.
-
-### Weitere hilfreiche Artikel in der Rubrik Automationen:
-
-- [Arbeiten mit Automationen](https://seatable.io/docs-category/arbeiten-mit-automationen/)
-- [Beispiele für Automationen](https://seatable.io/docs-category/beispiele-fuer-automationen/)

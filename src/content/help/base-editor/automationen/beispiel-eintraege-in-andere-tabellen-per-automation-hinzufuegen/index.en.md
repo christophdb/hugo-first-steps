@@ -32,7 +32,7 @@ Define a **trigger event** for automation after first defining in which **table*
 
 The automated action **Add new entry in other table** is available to you **exclusively** available for the following trigger events:
 
-- [Entries meet certain conditions after editing](https://seatable.io/en/docs/automationen/automations-trigger/#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)
-- [A new entry is added](https://seatable.io/en/docs/automationen/automations-trigger/#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)
+- [Entries meet certain conditions after editing]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)
+- [A new entry is added]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)
 
 {{< /warning >}}

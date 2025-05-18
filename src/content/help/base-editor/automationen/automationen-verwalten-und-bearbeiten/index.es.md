@@ -31,8 +31,3 @@ Puede ajustar las siguientes opciones para una automatización:
 - Las **columnas** que SeaTable supervisa con vistas a la ocurrencia del evento desencadenante
 - Las **condiciones de filtrado** del evento desencadenante
 - Añadir, ajustar o eliminar **acciones automatizadas**
-
-### Más artículos útiles en la sección de automatización:
-
-- [Trabajar con automatizaciones](https://seatable.io/es/docs-category/arbeiten-mit-automationen/)
-- [Ejemplos de automatizaciones](https://seatable.io/es/docs-category/beispiele-fuer-automationen/)

@@ -39,8 +39,3 @@ What effects the deletion of automations has on the various actions can be seen 
 | Add links                    | No more links are added when the trigger event occurs.                                                                               |
 | Add new entry in other table | When the trigger event occurs, no more entries are added to another table.                                                           |
 | Run Python script            | When the trigger event occurs, Python scripts are no longer executed.                                                                |
-
-### More helpful articles in the Automations section:
-
-- [Working with automations](https://seatable.io/en/docs-category/arbeiten-mit-automationen/)
-- [Automation examples](https://seatable.io/en/docs-category/beispiele-fuer-automationen/)

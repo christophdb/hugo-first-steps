@@ -30,7 +30,7 @@ La nouvelle base contient dès le départ un [tableau](https://seatable.io/fr/do
 
 Avant de [saisir des données]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
-SeaTable propose [plus de 20 types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) au total. Vous connaissez certainement déjà les colonnes de texte, de chiffres et de dates des tableurs traditionnels. Bien sûr, SeaTable les connaît aussi. En outre, SeaTable propose des colonnes pour les [images et les fichiers]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) et [les cases à cocher]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) et [multiples](https://seatable.io/fr/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
+SeaTable propose [plus de 20 types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) au total. Vous connaissez certainement déjà les colonnes de texte, de chiffres et de dates des tableurs traditionnels. Bien sûr, SeaTable les connaît aussi. En outre, SeaTable propose des colonnes pour les [images et les fichiers]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) et [les cases à cocher]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) et [multiples]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}}).
 
 Vous voulez ajouter des images à une entrée ? Faites simplement glisser l'image dans une colonne d'images et SeaTable l'enregistrera directement dans le tableau. Dans SeaTable, vous avez toutes vos données au même endroit !
 

@@ -32,7 +32,7 @@ Définissez un **événement déclencheur** pour l'automatisation, après avoir 
 
 L'action automatisée **Ajouter une nouvelle entrée dans une autre table** est à votre disposition. **exclusivement** est disponible pour les événements déclencheurs suivants :
 
-- [Les entrées remplissent certaines conditions après traitement](https://seatable.io/fr/docs/automationen/automations-trigger/#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)
-- [Une nouvelle entrée est ajoutée](https://seatable.io/fr/docs/automationen/automations-trigger/#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)
+- [Les entrées remplissent certaines conditions après traitement]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)
+- [Une nouvelle entrée est ajoutée]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)
 
 {{< /warning >}}

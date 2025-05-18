@@ -39,8 +39,3 @@ url: '/ru/help/ausfuehrungslog-einer-automation-anzeigen'
 
 **Предупреждения**  
 Если во время выполнения автоматизации возникли проблемы, здесь появляется соответствующее предупреждающее сообщение.
-
-### Больше полезных статей в разделе "Автоматизация":
-
-- [Работа с автоматизацией](https://seatable.io/ru/docs-category/arbeiten-mit-automationen/)
-- [Примеры для автоматизации](https://seatable.io/ru/docs-category/beispiele-fuer-automationen/)

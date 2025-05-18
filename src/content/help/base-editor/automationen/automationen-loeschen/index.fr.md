@@ -39,8 +39,3 @@ Les effets de la suppression des automatismes sur les différentes actions peuve
 | Ajouter des liens                                 | Lorsque l'événement déclencheur se produit, plus aucun lien n'est ajouté.                                                                             |
 | Ajouter une nouvelle entrée dans un autre tableau | Lorsque l'événement déclencheur se produit, plus aucune entrée n'est ajoutée dans une autre table.                                                    |
 | Exécuter un script Python                         | Lorsque l'événement déclencheur se produit, les scripts Python ne sont plus exécutés.                                                                 |
-
-### D'autres articles utiles dans la rubrique Automations :
-
-- [Travailler avec des automatisations](https://seatable.io/fr/docs-category/arbeiten-mit-automationen/)
-- [Exemples d'automatisation](https://seatable.io/fr/docs-category/beispiele-fuer-automationen/)

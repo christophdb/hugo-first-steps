@@ -93,8 +93,3 @@ Se selecionar a opção "Acionamento periódico para entradas que satisfazem det
 - Entrada de bloqueio
 - Editar entrada
 - Converter página em PDF
-
-### Artigos mais úteis na secção de automatização:
-
-- [Trabalhar com automatismos](https://seatable.io/pt/docs-category/arbeiten-mit-automationen/)
-- [Exemplos de automatizações](https://seatable.io/pt/docs-category/beispiele-fuer-automationen/)

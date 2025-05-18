@@ -1,11 +1,11 @@
 ---
-title: "Automationen verwalten und bearbeiten"
+title: 'Automationen verwalten und bearbeiten'
 date: 2023-01-27
-lastmod: "2023-02-01"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/de/hilfe/automationen-verwalten-und-bearbeiten"
+lastmod: '2023-02-01'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/de/hilfe/automationen-verwalten-und-bearbeiten'
 ---
 
 {{< required-version "Enterprise" >}}
@@ -31,8 +31,3 @@ Folgende Einstellungen können Sie bei einer Automation anpassen:
 - Die **Spalten**, die SeaTable mit Blick auf das Eintreten des Trigger-Ereignisses überwacht
 - Die **Filter-Bedingungen** des Trigger-Ereignisses
 - **Automatisierte Aktionen** hinzufügen, anpassen oder löschen
-
-### Weitere hilfreiche Artikel in der Rubrik Automationen:
-
-- [Arbeiten mit Automationen](https://seatable.io/docs-category/arbeiten-mit-automationen/)
-- [Beispiele für Automationen](https://seatable.io/docs-category/beispiele-fuer-automationen/)

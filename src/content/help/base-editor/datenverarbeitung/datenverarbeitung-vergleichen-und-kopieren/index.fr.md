@@ -73,7 +73,7 @@ Si l'opération est exécutée avec succès, les tables **employees** et **open 
 
 Les types de colonnes suivants ne peuvent **pas** être copiés à l'aide de l'opération _Comparer et copier_ et ne sont donc **pas** disponibles lors de la définition des colonnes source et résultat.
 
-- [Colonne à choix multiples](https://seatable.io/fr/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
+- [Colonne à choix multiples]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 - [La colonne Créateur]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [La colonne Créé]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [La colonne Dernier intervenant]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)

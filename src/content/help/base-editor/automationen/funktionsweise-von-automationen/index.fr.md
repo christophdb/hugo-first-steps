@@ -25,7 +25,7 @@ Pour certains événements, comme par exemple l'ajout d'entrées, vous pouvez é
 
 En outre, vous pouvez limiter les **conditions** de l'événement déclencheur de telle sorte que l'automatisation ne soit déclenchée que si **certaines données** se trouvent dans certaines colonnes. Par exemple, vous pouvez définir les valeurs exactes qui doivent être présentes dans une colonne sélectionnée après l'ajout ou la modification d'une entrée pour que l'automatisation soit déclenchée.
 
-Pour en savoir plus, consultez l'article [Déclencheurs d'automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/automations-trigger/).
+Pour en savoir plus, consultez l'article [Déclencheurs d'automatisation]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Actions automatisées
 
@@ -62,8 +62,3 @@ Comme **action automatisée**, sélectionnez ensuite l'option **Modifier l'entr�
 ![Exécution de l'exemple d'automatisation](images/example-automation-new.gif)
 
 Après avoir créé l'automation, la modification apportée manuellement dans la colonne "Statut d'emploi" entraîne **automatiquement** l'**adaptation** souhaitée **de l'entrée** dans la colonne "Paiement du salaire".
-
-### D'autres articles utiles dans la rubrique Automations :
-
-- [Travailler avec des automatisations](https://seatable.io/fr/docs-category/arbeiten-mit-automationen/)
-- [Exemples d'automatisation](https://seatable.io/fr/docs-category/beispiele-fuer-automationen/)

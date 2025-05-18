@@ -25,10 +25,10 @@ Grâce à l'automatisation, vous ne devez plus effectuer une opération de trait
 
 ## Création de l'automation
 
-Après avoir déterminé dans quelle **table** et quelle **vue** l'automatisation doit être déclenchée, vous définissez l'[événement déclencheur](https://seatable.io/fr/docs/automationen/automations-trigger/). Actuellement, seul un **déclencheur périodique** peut entraîner une opération de traitement des données. C'est pourquoi vous devez définir un **moment** où l'automation doit être déclenchée quotidiennement, hebdomadairement ou mensuellement.
+Après avoir déterminé dans quelle **table** et quelle **vue** l'automatisation doit être déclenchée, vous définissez l'[événement déclencheur]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Actuellement, seul un **déclencheur périodique** peut entraîner une opération de traitement des données. C'est pourquoi vous devez définir un **moment** où l'automation doit être déclenchée quotidiennement, hebdomadairement ou mensuellement.
 
 ![Sélection du déclencheur d'automatisation pour l'action : Exécuter une opération de traitement des données](images/select-trigger-for-data-operation-per-automation.png)
 
 {{< warning  headline="Remarque importante"  text="L'action automatisée **Exécuter une opération de traitement de données** est à votre disposition **exclusivement** est disponible lors de l'événement déclencheur suivant :" />}}
 
-![Déclencheur périodique](https://seatable.io/fr/docs/automationen/automations-trigger/#automations-trigger_periodischer_trigger)
+![Déclencheur périodique]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_periodischer_trigger)

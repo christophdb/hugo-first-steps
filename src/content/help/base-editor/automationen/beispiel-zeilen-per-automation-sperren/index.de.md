@@ -67,17 +67,17 @@ Mehr Informationen zur Sperrung von Zeilen erhalten Sie im Artikel [Sperren eine
 - [Anlegen einer Automation](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
 - [Automationen verwalten und bearbeiten](https://seatable.io/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
 - [Automationen stoppen](https://seatable.io/docs/arbeiten-mit-automationen/automationen-stoppen/)
-- [Automationen löschen](https://seatable.io/docs/arbeiten-mit-automationen/automationen-loeschen/)
+- [Automationen löschen]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
 - [Ausführungslog einer Automation anzeigen](https://seatable.io/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
 - [Warum finde ich Automationen in meiner Base nicht?](https://seatable.io/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
-- [Automations-Trigger](https://seatable.io/docs/arbeiten-mit-automationen/automations-trigger/)
+- [Automations-Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Automations-Aktionen](https://seatable.io/docs/arbeiten-mit-automationen/automations-aktionen/)
 - [Verlinken von Einträgen per Automation](https://seatable.io/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
 
 ### Weitere interessante Beispiele von Automationen:
 
 - [Verlinken von Einträgen per Automation](https://seatable.io/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
-- [Zeilen per Automation hinzufügen](https://seatable.io/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Einträge in andere Tabellen per Automation hinzufügen](https://seatable.io/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
-- [Benachrichtigungen per Automation versenden](https://seatable.io/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
+- [Zeilen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Einträge in andere Tabellen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
+- [Benachrichtigungen per Automation versenden]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
 - [E-Mail-Versand per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

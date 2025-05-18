@@ -25,10 +25,10 @@ Con la ayuda de las automatizaciones, ya no tiene que realizar una operación de
 
 ## Creación de la automatización
 
-Una vez determinado en qué **tabla** y **vista** debe desencadenarse **la** automatización, defina el [evento desencadenante](https://seatable.io/es/docs/automationen/automations-trigger/). Actualmente, sólo un desencadenante **periódico** puede dar lugar a una operación de tratamiento de datos. Por lo tanto, debe definir un **momento** en el que la automatización deba activarse diaria, semanal o mensualmente.
+Una vez determinado en qué **tabla** y **vista** debe desencadenarse **la** automatización, defina el [evento desencadenante]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Actualmente, sólo un desencadenante **periódico** puede dar lugar a una operación de tratamiento de datos. Por lo tanto, debe definir un **momento** en el que la automatización deba activarse diaria, semanal o mensualmente.
 
 ![Selección del desencadenante de automatización de la acción: Ejecutar operación de tratamiento de datos](images/select-trigger-for-data-operation-per-automation.png)
 
 {{< warning  headline="Nota importante"  text="La acción automatizada **Ejecutar la operación de tratamiento de datos** está a su disposición **exclusivamente** disponible en el siguiente evento desencadenante:" />}}
 
-!["Activador periódico](https://seatable.io/es/docs/automationen/automations-trigger/#automations-trigger_periodischer_trigger)
+!["Activador periódico]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_periodischer_trigger)

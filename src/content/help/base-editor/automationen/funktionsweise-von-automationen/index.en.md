@@ -25,7 +25,7 @@ For certain events, such as adding entries, you can also make additional **setti
 
 In addition, you can narrow down the **conditions of** the trigger event so that the automation is triggered exclusively when certain **data** is found in certain columns. For example, you can define exact values that must be present in a selected column after an entry is added or changed for the automation to fire.
 
-You can learn everything else in the article [Automation Triggers](https://seatable.io/en/docs/arbeiten-mit-automationen/automations-trigger/).
+You can learn everything else in the article [Automation Triggers]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Automated actions
 
@@ -62,8 +62,3 @@ As an **automated action**, you then select the **Edit entry** option. Specifica
 ![Execution of the example automation](images/example-automation-new.gif)
 
 After you have created the automation, the manually made change in the "Employment status" column will **automatically** result in the desired **adjustment of the entry** in the "Salary payment" column.
-
-### More helpful articles in the Automations section:
-
-- [Working with automations](https://seatable.io/en/docs-category/arbeiten-mit-automationen/)
-- [Automation examples](https://seatable.io/en/docs-category/beispiele-fuer-automationen/)

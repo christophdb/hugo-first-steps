@@ -25,11 +25,11 @@ Mithilfe von Automationen müssen Sie eine Datenverarbeitungsoperation nicht meh
 
 ## Anlegen der Automation
 
-Nachdem Sie festgelegt haben, in welcher **Tabelle** und **Ansicht** die Automation ausgelöst werden soll, definieren Sie das [Trigger-Ereignis](https://seatable.io/docs/automationen/automations-trigger/). Aktuell kann nur ein **Periodischer Trigger** eine Datenverarbeitungsoperation nach sich ziehen. Deshalb müssen Sie einen **Zeitpunkt** festlegen, zu welchem die Automation täglich, wöchentlich oder monatlich ausgelöst werden soll.
+Nachdem Sie festgelegt haben, in welcher **Tabelle** und **Ansicht** die Automation ausgelöst werden soll, definieren Sie das [Trigger-Ereignis]({{< relref "help/base-editor/automationen/automations-trigger" >}}). Aktuell kann nur ein **Periodischer Trigger** eine Datenverarbeitungsoperation nach sich ziehen. Deshalb müssen Sie einen **Zeitpunkt** festlegen, zu welchem die Automation täglich, wöchentlich oder monatlich ausgelöst werden soll.
 
 ![Auswahl des Automations-Triggers für die Aktion: Datenverarbeitungsoperation ausführen](images/select-trigger-for-data-operation-per-automation.png) {{< warning type="warning" headline="Wichtiger Hinweis" text="Die automatisierte Aktion **Datenverarbeitungsoperation ausführen** steht Ihnen **ausschließlich** bei folgendem Trigger-Ereignis zur Verfügung: " />}}
 
-![Periodischer Trigger](https://seatable.io/docs/automationen/automations-trigger/#automations-trigger_periodischer_trigger)
+![Periodischer Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_periodischer_trigger)
 
 Wählen Sie anschließend als automatisierte Aktion **Datenverarbeitungsoperation ausführen** aus und entscheiden Sie sich für die gewünschte [Datenverarbeitungsoperation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 

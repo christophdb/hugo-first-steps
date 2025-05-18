@@ -30,5 +30,5 @@ SeaTable имеет мощную функцию [импорта данных](ht
 
 С помощью [автоматизаций]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) вам больше не нужно добавлять записи в таблицы вручную, а можно создавать их автоматически при наступлении заранее определенного триггерного события. Подробнее об этом вы можете узнать в этих статьях:
 
-- [Добавление линий с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
-- [Добавление записей в другие таблицы с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
+- [Добавление линий с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
+- [Добавление записей в другие таблицы с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})

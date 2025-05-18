@@ -21,8 +21,3 @@ url: '/ru/help/warum-finde-ich-in-meiner-base-die-automationen-nicht'
 В настоящее время автоматизация доступна только для команд с **[Подписка SeaTable Enterprise](https://seatable.io/ru/docs/abo-abrechnung/abo-pakete/)** подписка. Если вы не можете найти эту функцию в своих базах, вероятно, у вашей команды **нет** такой подписки. Чтобы использовать автоматизацию, вам необходимо [обновить](https://seatable.io/ru/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen) **подписку вашей команды** до подписки Enterprise.
 
 {{< warning  headline="Важное замечание"  text="Подписка действительна только для **всей команды**. Отдельные базы или члены команды **не** могут быть улучшены." />}}
-
-### Больше полезных статей в разделе "Автоматизация":
-
-- [Работа с автоматизацией](https://seatable.io/ru/docs-category/arbeiten-mit-automationen/)
-- [Примеры для автоматизации](https://seatable.io/ru/docs-category/beispiele-fuer-automationen/)

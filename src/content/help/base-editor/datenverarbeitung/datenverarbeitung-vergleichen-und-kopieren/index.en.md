@@ -73,7 +73,7 @@ When the operation is successfully executed, the **employees** and **open tasks*
 
 The following column types **cannot** be copied using the _Compare and copy_ operation and are therefore **not** available when defining the source and result columns.
 
-- [Multiple selection column](https://seatable.io/en/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
+- [Multiple selection column]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 - [The Creator column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [The Created column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
 - [The Last editor column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)

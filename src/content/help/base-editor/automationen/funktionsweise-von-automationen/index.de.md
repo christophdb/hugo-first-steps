@@ -25,7 +25,7 @@ Für bestimmte Ereignisse, wie zum Beispiel das Hinzufügen von Einträgen, kön
 
 Zusätzlich können Sie die **Bedingungen** des Trigger-Ereignisses so weit eingrenzen, dass die Automation ausschließlich ausgelöst wird, wenn in bestimmten Spalten **bestimmte Daten** zu finden sind. Zum Beispiel können Sie exakte Werte definieren, die in einer ausgewählten Spalte nach dem Hinzufügen oder der Änderung eines Eintrags vorliegen müssen, damit die Automation ausgelöst wird.
 
-Alles Weitere erfahren Sie im Artikel [Automations-Trigger](https://seatable.io/docs/arbeiten-mit-automationen/automations-trigger/).
+Alles Weitere erfahren Sie im Artikel [Automations-Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ## Automatisierte Aktionen
 
@@ -58,8 +58,3 @@ Als **automatisierte Aktion** wählen Sie im Anschluss die Option **Eintrag bear
 ![Ausführung der Beispiel-Automation](images/example-automation-new.gif)
 
 Nachdem Sie die Automation angelegt haben, führt die manuell vorgenommene Änderung in der Spalte "Beschäftigungsstatus" **automatisch** zur gewünschten **Anpassung des Eintrags** in der Spalte "Gehaltszahlung".
-
-### Weitere hilfreiche Artikel in der Rubrik Automationen:
-
-- [Arbeiten mit Automationen](https://seatable.io/docs-category/arbeiten-mit-automationen/)
-- [Beispiele für Automationen](https://seatable.io/docs-category/beispiele-fuer-automationen/)

@@ -32,7 +32,7 @@ Definir um **evento de disparo** para a automatização depois de primeiro deter
 
 A ação automática "Adicionar nova entrada noutra tabela" está disponível. **exclusivamente** está disponível para os seguintes eventos de desencadeamento:
 
-- ["As entradas satisfazem determinadas condições após o processamento](https://seatable.io/pt/docs/automationen/automations-trigger/#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)"
-- ["Foi adicionada uma nova entrada](https://seatable.io/pt/docs/automationen/automations-trigger/#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)"
+- ["As entradas satisfazem determinadas condições após o processamento]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_eintraege_erfuellen_nach_bearbeitung_bestimmte_bedingungen)"
+- ["Foi adicionada uma nova entrada]({{< relref "help/base-editor/automationen/automations-trigger" >}}#automations-trigger_ein_neuer_eintrag_wird_hinzugefuegt)"
 
 {{< /warning >}}

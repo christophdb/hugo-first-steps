@@ -93,8 +93,3 @@ Si selecciona la opción "Activación periódica para entradas que cumplan deter
 - Entrada de la cerradura
 - Editar entrada
 - Convertir página a PDF
-
-### Más artículos útiles en la sección de automatización:
-
-- [Trabajar con automatizaciones](https://seatable.io/es/docs-category/arbeiten-mit-automationen/)
-- [Ejemplos de automatizaciones](https://seatable.io/es/docs-category/beispiele-fuer-automationen/)

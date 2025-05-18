@@ -61,4 +61,4 @@ Esta acción de botón no es compatible con las [páginas de tabla de las aplica
 
 ## La automatización como opción adicional
 
-Si tiene una suscripción a SeaTable Enterprise, también puede automatizar completamente este paso del proceso. Para ello, configure una [automatización correspondiente con la que podrá añadir entradas en otras tablas](https://seatable.io/es/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/).
+Si tiene una suscripción a SeaTable Enterprise, también puede automatizar completamente este paso del proceso. Para ello, configure una [automatización correspondiente con la que podrá añadir entradas en otras tablas]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}).
