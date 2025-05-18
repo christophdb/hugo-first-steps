@@ -23,7 +23,7 @@ A criação de uma coluna de escolha múltipla é uma brincadeira de criança e 
 
 ## Adicionar opções
 
-Adicionar opções a uma coluna de multi-selecção funciona da **mesma forma que para uma coluna de selecção única**. É possível adicionar novas opções de várias maneiras. Saiba tudo sobre isto no artigo separado [Acrescentar opções a uma coluna de selecção única](https://seatable.io/pt/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/).
+Adicionar opções a uma coluna de multi-selecção funciona da **mesma forma que para uma coluna de selecção única**. É possível adicionar novas opções de várias maneiras. Saiba tudo sobre isto no artigo separado [Acrescentar opções a uma coluna de selecção única]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
 
 Actualmente, estão disponíveis 24 cores para destacar visualmente as respectivas opções.
 

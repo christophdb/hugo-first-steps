@@ -55,7 +55,7 @@ You can **rename** Bases of which you are the owner or administrator afterwards.
 
 ## Change icon and color of a base
 
-You can give a new look to the bases you are the owner or administrator of. You can learn how to do it [here](https://seatable.io/en/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/). To bring a breath of fresh air to your bases, you have **more than 10 colors** and **more than 25 icons** at your disposal.
+You can give a new look to the bases you are the owner or administrator of. You can learn how to do it [here]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}}). To bring a breath of fresh air to your bases, you have **more than 10 colors** and **more than 25 icons** at your disposal.
 
 ## Add Base Description
 

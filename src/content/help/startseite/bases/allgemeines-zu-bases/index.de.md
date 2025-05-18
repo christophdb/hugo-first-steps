@@ -56,7 +56,7 @@ Sie können Bases, deren Eigentümer oder Administrator Sie sind, nachträglich 
 
 ## Icon und Farbe einer Base ändern
 
-Sie können den Bases, deren Eigentümer oder Administrator Sie sind, einen neuen Look verpassen. Wie das geht, erfahren Sie [hier](https://seatable.io/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/). Um frischen Wind in Ihre Bases zu bringen, stehen Ihnen **mehr als 10 Farben** und **mehr als 25 Icons** zur Verfügung.
+Sie können den Bases, deren Eigentümer oder Administrator Sie sind, einen neuen Look verpassen. Wie das geht, erfahren Sie [hier]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}}). Um frischen Wind in Ihre Bases zu bringen, stehen Ihnen **mehr als 10 Farben** und **mehr als 25 Icons** zur Verfügung.
 
 ## Base-Beschreibung hinzufügen
 

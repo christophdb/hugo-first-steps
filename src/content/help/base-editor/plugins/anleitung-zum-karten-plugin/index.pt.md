@@ -74,7 +74,7 @@ Defina aqui uma coluna de texto na qual tenha introduzido endereços ou nomes de
 
 ### Cor do marcador
 
-Se tiver [linhas com marcas de cor na](https://seatable.io/pt/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) tabela ou criar [colunas de selecção](https://seatable.io/pt/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/) com opções de cor, pode seleccionar neste momento qual destas deve determinar a **cor das marcações do mapa**.
+Se tiver [linhas com marcas de cor na]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) com opções de cor, pode seleccionar neste momento qual destas deve determinar a **cor das marcações do mapa**.
 
 ### Campo de visualização
 

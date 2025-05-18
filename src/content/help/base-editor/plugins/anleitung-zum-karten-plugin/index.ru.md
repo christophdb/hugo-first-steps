@@ -74,7 +74,7 @@ url: '/ru/help/anleitung-zum-karten-plugin'
 
 ### Цвет маркера
 
-Если вы [выделили цветом строки в](https://seatable.io/ru/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) таблице или создали [столбцы выбора](https://seatable.io/ru/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/) с цветными опциями, вы можете выбрать на этом этапе, какой из них должен определять **цвет маркировки карты**.
+Если вы [выделили цветом строки в]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) с цветными опциями, вы можете выбрать на этом этапе, какой из них должен определять **цвет маркировки карты**.
 
 ### Поле отображения
 

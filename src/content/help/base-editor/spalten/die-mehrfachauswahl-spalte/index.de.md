@@ -23,7 +23,7 @@ Das Anlegen einer Mehrfachauswahl-Spalte ist kinderleicht und mit wenigen Klicks
 
 ## Optionen hinzufügen
 
-Das Hinzufügen von Optionen zu einer Mehrfachauswahl-Spalte funktioniert **genauso wie bei einer Einfachauswahl-Spalte**. Neue Optionen können Sie dabei auf mehreren Wegen hinzufügen. Erfahren Sie alles darüber im separaten Artikel [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/).
+Das Hinzufügen von Optionen zu einer Mehrfachauswahl-Spalte funktioniert **genauso wie bei einer Einfachauswahl-Spalte**. Neue Optionen können Sie dabei auf mehreren Wegen hinzufügen. Erfahren Sie alles darüber im separaten Artikel [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
 
 Aktuell stehen Ihnen 24 Farben zur Verfügung, um die jeweiligen Optionen visuell hervorzuheben.
 

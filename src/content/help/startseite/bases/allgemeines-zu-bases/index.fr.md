@@ -55,7 +55,7 @@ Vous pouvez **renommer** ultérieurement les bases dont vous êtes le propriéta
 
 ## Changer l'icône et la couleur d'une base
 
-Vous pouvez donner un nouveau look aux bases dont vous êtes le propriétaire ou l'administrateur. Pour savoir comment faire, [cliquez ici](https://seatable.io/fr/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/). Pour apporter un vent de fraîcheur à vos bases, vous disposez de plus de **10 couleurs** et de plus de **25 icônes**.
+Vous pouvez donner un nouveau look aux bases dont vous êtes le propriétaire ou l'administrateur. Pour savoir comment faire, [cliquez ici]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}}). Pour apporter un vent de fraîcheur à vos bases, vous disposez de plus de **10 couleurs** et de plus de **25 icônes**.
 
 ## Ajouter une description de base
 

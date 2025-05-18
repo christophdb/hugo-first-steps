@@ -74,7 +74,7 @@ Specify here a text column where you have entered addresses or place names, or a
 
 ### Marker color
 
-If you have [color-marked](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) or created [selection columns](https://seatable.io/en/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/) with colored options in the table [rows , you can select at this point which of these should determine the](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) **color of the map markers**.
+If you have [color-marked]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) with colored options in the table [rows , you can select at this point which of these should determine the](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) **color of the map markers**.
 
 ### Display field
 

@@ -1,11 +1,11 @@
 ---
-title: "Optionen in Einfach- oder Mehrfach-Auswahlspalten exportieren und importieren"
+title: 'Optionen in Einfach- oder Mehrfach-Auswahlspalten exportieren und importieren'
 date: 2023-01-07
-lastmod: "2023-01-24"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/de/hilfe/einfachauswahl-optionen-exportieren-und-importieren"
+lastmod: '2023-01-24'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/de/hilfe/einfachauswahl-optionen-exportieren-und-importieren'
 ---
 
 Die Optionen, die Sie in Einfach- oder Mehrfach-Auswahlspalten zur Verfügung haben, können Sie nicht nur **manuell eingeben**, sondern auch bequem aus einer bestehenden Spalte **exportieren** und in eine andere Spalte **importieren**. Dies erspart Ihnen viel Arbeit, wenn Sie immer wieder die gleichen Optionen – auch über verschiedene Bases hinweg – für Ihre **Einfach-** und **Mehrfach-Auswahlspalten** verwenden möchten.
@@ -29,4 +29,4 @@ Die Optionen werden nun als JSON-Datei **exportiert**. Je nach Browser-Einstellu
 3. Klicken Sie auf **Optionen importieren**.
 4. Wählen Sie die **JSON-Datei** mit den gewünschten Optionen aus und bestätigen Sie den Upload.
 
-Die Optionen werden anschließend in die ausgewählte Spalte **importiert** und stehen zum Befüllen der entsprechenden Zellen zur Auswahl. Mithilfe dieses Features müssen Sie folglich **keine** Optionen mehr [manuell hinzufügen](https://seatable.io/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/), aber Sie können natürlich weiterhin Optionen ergänzen, löschen und nach Belieben bearbeiten.
+Die Optionen werden anschließend in die ausgewählte Spalte **importiert** und stehen zum Befüllen der entsprechenden Zellen zur Auswahl. Mithilfe dieses Features müssen Sie folglich **keine** Optionen mehr [manuell hinzufügen]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}), aber Sie können natürlich weiterhin Optionen ergänzen, löschen und nach Belieben bearbeiten.

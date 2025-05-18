@@ -25,7 +25,7 @@ A criação de uma coluna de selecção única é uma brincadeira de criança e 
 
 ## Adicionar opções
 
-Pode adicionar novas opções a uma coluna de selecção única de várias maneiras. Saiba tudo sobre isso no artigo [Adicionando opções a uma coluna de selecção única](https://seatable.io/pt/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/).
+Pode adicionar novas opções a uma coluna de selecção única de várias maneiras. Saiba tudo sobre isso no artigo [Adicionando opções a uma coluna de selecção única]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
 
 Actualmente, estão disponíveis 24 cores para destacar visualmente as respectivas opções.
 
@@ -51,7 +51,7 @@ Se desejar poder armazenar **informação adicional** para cada opção de selec
 
 ## Artigos mais úteis sobre o tema das colunas de selecção única
 
-- [Acrescentar opções a uma coluna de selecção única](https://seatable.io/pt/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
+- [Acrescentar opções a uma coluna de selecção única]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
 - [Alterar a ordem das opções de seleção individuais](https://seatable.io/pt/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Definir um cascata para uma coluna de selecção única](https://seatable.io/pt/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Opções de selecção única de exportação e importação](https://seatable.io/pt/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

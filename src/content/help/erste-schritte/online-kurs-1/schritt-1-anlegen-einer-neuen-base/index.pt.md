@@ -91,6 +91,6 @@ Este foi o passo 1 deste curso online. Desloque-se até ao fim deste artigo e sa
 - [Como ajustar o tipo de coluna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
 - [Apagar uma linha]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Adicionar uma coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Acrescentar opções a uma coluna de selecção única](https://seatable.io/pt/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
+- [Acrescentar opções a uma coluna de selecção única]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
 - [Caraterísticas especiais da primeira coluna]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
-- [Personalizar a aparência de uma base (ícone e cor)](https://seatable.io/pt/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/)
+- [Personalizar a aparência de uma base (ícone e cor)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

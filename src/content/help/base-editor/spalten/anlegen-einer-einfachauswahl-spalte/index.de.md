@@ -25,7 +25,7 @@ Das Anlegen einer Einfachauswahl-Spalte ist kinderleicht und mit wenigen Klicks 
 
 ## Optionen hinzufügen
 
-Neue Optionen können Sie einer Einfachauswahl-Spalte auf mehreren Wegen hinzufügen. Erfahren Sie alles darüber im Artikel [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/).
+Neue Optionen können Sie einer Einfachauswahl-Spalte auf mehreren Wegen hinzufügen. Erfahren Sie alles darüber im Artikel [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
 
 Aktuell stehen Ihnen 24 Farben zur Verfügung, um die jeweiligen Optionen visuell hervorzuheben.
 
@@ -51,7 +51,7 @@ Wenn Sie sich wünschen, **zusätzliche Informationen** zu jeder Auswahloption s
 
 ## Weitere hilfreiche Artikel zum Thema Einfachauswahl-Spalten
 
-- [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
+- [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
 - [Ändern der Reihenfolge von Einfachauswahl-Optionen](https://seatable.io/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Eine Kaskadierung für eine Einfachauswahl-Spalte definieren](https://seatable.io/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Einfachauswahl-Optionen exportieren und importieren](https://seatable.io/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

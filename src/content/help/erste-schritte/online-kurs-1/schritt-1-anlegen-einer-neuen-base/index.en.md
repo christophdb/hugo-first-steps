@@ -91,6 +91,6 @@ That was step 1 of this online course. Scroll to the end of this article and jum
 - [How to customize the column type]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
 - [Delete a row]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Adding a column]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Adding options to a single-selection column](https://seatable.io/en/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
+- [Adding options to a single-selection column]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
 - [Special features of the first column]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
-- [Customize the appearance of a base (icon and color)](https://seatable.io/en/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/)
+- [Customize the appearance of a base (icon and color)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

@@ -23,7 +23,7 @@ Creating a multi-selection column is easy as pie and done with just a few clicks
 
 ## Add options
 
-Adding options to a multi-selection column works in the **same way as for a single-selection column**. You can add new options in several ways. Learn all about it in the separate article [Adding options](https://seatable.io/en/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/) to a single-selection column.
+Adding options to a multi-selection column works in the **same way as for a single-selection column**. You can add new options in several ways. Learn all about it in the separate article [Adding options]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) to a single-selection column.
 
 Currently, 24 colors are available to visually highlight the respective options.
 

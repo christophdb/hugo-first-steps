@@ -25,7 +25,7 @@ Creating a single-selection column is child's play and done with just a few clic
 
 ## Add options
 
-You can add new options to a single-selection column in several ways. Learn all about it in the article [Adding options to a single-selection column](https://seatable.io/en/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/).
+You can add new options to a single-selection column in several ways. Learn all about it in the article [Adding options to a single-selection column]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
 
 Currently, 24 colors are available to visually highlight the respective options.
 
@@ -51,7 +51,7 @@ If you wish to be able to store **additional information** for each selection op
 
 ## More helpful articles on the topic of single-selection columns
 
-- [Adding options to a single-selection column](https://seatable.io/en/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
+- [Adding options to a single-selection column]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
 - [Changing the order of single-selection options](https://seatable.io/en/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Define a cascading for a single-selection column](https://seatable.io/en/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Export and import single selection options](https://seatable.io/en/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

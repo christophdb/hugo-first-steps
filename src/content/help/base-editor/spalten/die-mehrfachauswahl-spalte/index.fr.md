@@ -23,7 +23,7 @@ La création d'une colonne de sélection multiple est un jeu d'enfant et se fait
 
 ## Ajouter des options
 
-L'ajout d'options à une colonne à choix multiples fonctionne **de la même manière que pour une colonne à choix unique**. Vous pouvez ajouter de nouvelles options de plusieurs manières. Pour en savoir plus, consultez l'article [Ajouter des options à une colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/).
+L'ajout d'options à une colonne à choix multiples fonctionne **de la même manière que pour une colonne à choix unique**. Vous pouvez ajouter de nouvelles options de plusieurs manières. Pour en savoir plus, consultez l'article [Ajouter des options à une colonne de sélection simple]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
 
 Actuellement, 24 couleurs sont disponibles pour mettre en évidence visuellement les options respectives.
 

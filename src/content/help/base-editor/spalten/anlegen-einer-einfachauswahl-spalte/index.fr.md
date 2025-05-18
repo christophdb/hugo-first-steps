@@ -25,7 +25,7 @@ La création d'une colonne de sélection simple est un jeu d'enfant et se fait e
 
 ## Ajouter des options
 
-Vous pouvez ajouter de nouvelles options à une colonne de sélection simple de plusieurs manières. Pour en savoir plus, consultez l'article [Ajouter des options à une colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/).
+Vous pouvez ajouter de nouvelles options à une colonne de sélection simple de plusieurs manières. Pour en savoir plus, consultez l'article [Ajouter des options à une colonne de sélection simple]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
 
 Actuellement, 24 couleurs sont disponibles pour mettre en évidence visuellement les options respectives.
 
@@ -51,7 +51,7 @@ Si vous souhaitez pouvoir enregistrer **des informations supplémentaires** pour
 
 ## Autres articles utiles sur le thème des colonnes à sélection simple
 
-- [Ajouter des options à une colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
+- [Ajouter des options à une colonne de sélection simple]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
 - [Modifier l'ordre des options de sélection simple](https://seatable.io/fr/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Définir un cascadage pour une colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Exporter et importer des options de sélection simple](https://seatable.io/fr/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

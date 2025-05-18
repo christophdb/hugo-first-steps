@@ -25,7 +25,7 @@ url: '/ru/help/anlegen-einer-einfachauswahl-spalte'
 
 ## Добавить опции
 
-Вы можете добавить новые параметры в колонку с одним выбором несколькими способами. Узнайте об этом в статье [Добавление опций в колонку с одним выбором](https://seatable.io/ru/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/).
+Вы можете добавить новые параметры в колонку с одним выбором несколькими способами. Узнайте об этом в статье [Добавление опций в колонку с одним выбором]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
 
 В настоящее время доступны 24 цвета для визуального выделения соответствующих опций.
 
@@ -51,7 +51,7 @@ url: '/ru/help/anlegen-einer-einfachauswahl-spalte'
 
 ## Другие полезные статьи по теме колонок с одинарным отбором
 
-- [Добавление опций в колонку с одним выбором](https://seatable.io/ru/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
+- [Добавление опций в колонку с одним выбором]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
 - [Изменение порядка опций одиночного выбора](https://seatable.io/ru/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Определение каскадирования для колонки с одним выбором](https://seatable.io/ru/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Экспорт и импорт отдельных вариантов выбора](https://seatable.io/ru/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

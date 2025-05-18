@@ -23,7 +23,7 @@ Crear una columna de selección múltiple es un juego de niños y se hace con un
 
 ## Añadir opciones
 
-La adición de opciones a una columna de selección múltiple funciona del mismo modo que **para una columna de selección única**. Puede añadir nuevas opciones de varias maneras. Para más información, consulta el artículo Añadir opciones [a](https://seatable.io/es/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/) una columna de selección simple.
+La adición de opciones a una columna de selección múltiple funciona del mismo modo que **para una columna de selección única**. Puede añadir nuevas opciones de varias maneras. Para más información, consulta el artículo Añadir opciones [a]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) una columna de selección simple.
 
 Actualmente hay 24 colores disponibles para resaltar visualmente las respectivas opciones.
 
