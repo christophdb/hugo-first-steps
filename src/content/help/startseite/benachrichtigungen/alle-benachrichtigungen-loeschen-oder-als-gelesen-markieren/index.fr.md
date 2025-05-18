@@ -50,4 +50,8 @@ Vous pouvez accéder aux notifications depuis la **page d'accueil** de SeaTable 
 
 ![Accès au centre de notification au sein d'une base](images/notifications-in-base-1.jpg)
 
-{{< warning  headline="Remarque importante"  text="Veuillez noter que l'endroit exact où une notification est affichée dépend de son **contenu**. Par exemple, les notifications concernant les partages sont toujours affichées sur la **page d'accueil**, alors que les notifications concernant les [automatisations](https://seatable.io/fr/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/), les [commentaires](https://seatable.io/fr/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) ou les [entrées dans les colonnes des collaborateurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) sont affichées dans la **base** correspondante." />}}
+{{< warning  headline="Remarque importante" >}}
+
+Veuillez noter que l'endroit exact où une notification est affichée dépend de son **contenu**. Par exemple, les notifications concernant les partages sont toujours affichées sur la **page d'accueil**, alors que les notifications concernant les [automatisations]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) ou les [entrées dans les colonnes des collaborateurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) sont affichées dans la **base** correspondante.
+
+{{< /warning >}}

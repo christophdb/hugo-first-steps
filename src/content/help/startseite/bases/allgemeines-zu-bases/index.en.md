@@ -16,7 +16,7 @@ At first glance, a Base is just a **container** for one or more **tables**. From
 - [Over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) covering all common data formats
 - Various [sharing options for](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) easy data [sharing](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/)
 - Real-time [collaboration](https://seatable.io/en/docs/seatable-nutzen/zusammenarbeit/) with other users and real-time transmission of all changes
-- A [comment function for](https://seatable.io/en/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) each record in a row
+- A [comment function for]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) each record in a row
 - Complete [versioning](https://seatable.io/en/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) and [history of](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) all changes
 - An integrated [web form editor](https://seatable.io/en/docs/webformulare/webformulare/) and graphical [plugins](https://seatable.io/en/docs/seatable-nutzen/ansichten/)
 - Simple integration options thanks to REST API

@@ -48,4 +48,8 @@ Sie können sowohl über die **Startseite** von SeaTable als auch innerhalb von 
 
 ![Zugriff auf die Benachrichtigungs-Zentrale innerhalb einer Base](images/notifications-in-base-1.jpg)
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bitte beachten Sie, dass es vom **Inhalt** einer Benachrichtigung abhängig ist, wo genau diese angezeigt wird. Benachrichtigungen zu Freigaben werden Ihnen beispielsweise stets auf der **Startseite** angezeigt, Benachrichtigungen infolge von [Automationen](\"https://seatable.io/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/\"), [Kommentaren](\"https://seatable.io/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/\") oder [Mitarbeiter-Spalten](\"https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/\")\-Einträgen hingegen in der jeweiligen **Base**." />}}
+{{< warning  type="warning" headline="Wichtiger Hinweis" >}}
+
+Bitte beachten Sie, dass es vom **Inhalt** einer Benachrichtigung abhängig ist, wo genau diese angezeigt wird. Benachrichtigungen zu Freigaben werden Ihnen beispielsweise stets auf der **Startseite** angezeigt, Benachrichtigungen infolge von [Automationen]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) oder [Mitarbeiter-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/)\-Einträgen hingegen in der jeweiligen **Base**.
+
+{{< /warning >}}

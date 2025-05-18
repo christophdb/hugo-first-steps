@@ -14,7 +14,7 @@ Como exportar bases e tabelas do SeaTable e importá-las para o SeaTable é o te
 
 ## Base de exportação
 
-Pode exportar o estado atual das suas bases, incluindo todas as tabelas, [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/), [estatísticas](https://seatable.io/pt/docs/seatable-nutzen/statistiken/), [scripts](https://seatable.io/pt/docs/javascript-python/import-und-export-eines-skriptes/) e até [plugins](https://seatable.io/pt/docs/plugins/was-ist-ein-plugin/) através da **página inicial**. A exportação contém todos os valores da tabela, bem como os anexos nas [colunas de imagens e ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/unterschiede-zwischen-bild-und-datei-spalte/). No entanto, como um instantâneo de uma base, uma exportação **não** contém o [histórico](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) da base. [Os comentários](https://seatable.io/pt/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) e as [automatizações](https://seatable.io/pt/docs/automationen/uebersicht-ueber-automationen/), bem como [os dados no backend de big data](https://seatable.io/pt/docs/big-data/potenzial-big-data/), também **não** são **exportados**.
+Pode exportar o estado atual das suas bases, incluindo todas as tabelas, [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [formulários Web]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) e as [automatizações](https://seatable.io/pt/docs/automationen/uebersicht-ueber-automationen/), bem como [os dados no backend de big data](https://seatable.io/pt/docs/big-data/potenzial-big-data/), também **não** são **exportados**.
 
 ![Bases de exportação](images/export-bases.png)
 
@@ -22,7 +22,7 @@ SeaTable utiliza o [formato de ficheiro DTABLE](https://seatable.io/pt/docs/impo
 
 ## Tabela de exportação
 
-Pode **exportar tabelas** individuais a partir de cada base a que tem acesso **para ficheiros Excel**. O conteúdo das colunas baseadas em texto e números são copiadas como valores para o ficheiro de destino. Os conteúdos do tipo de [texto formatado](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) são escritos no ficheiro XLSX em [formato Markdown](https://en.wikipedia.org/wiki/Markdown). Imagens e ficheiros são também exportados, mas não no seu formato binário, mas como uma ligação que inclui metadados de ficheiros. [Comentários](https://seatable.io/pt/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/), [automatizações](https://seatable.io/pt/docs/automationen/uebersicht-ueber-automationen/) e o [histórico de alterações](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) **não** são **exportados**.
+Pode **exportar tabelas** individuais a partir de cada base a que tem acesso **para ficheiros Excel**. O conteúdo das colunas baseadas em texto e números são copiadas como valores para o ficheiro de destino. Os conteúdos do tipo de [texto formatado]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [automatizações](https://seatable.io/pt/docs/automationen/uebersicht-ueber-automationen/) e o [histórico de alterações](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) **não** são **exportados**.
 
 ![Exportação de mesa](images/export-tables.jpg)
 

@@ -16,7 +16,7 @@ url: '/ru/help/bases'
 - [Более 20 типов столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), охватывающих все распространенные форматы данных
 - Различные [варианты совместного использования для](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) легкого обмена данными
 - [Совместная работа](https://seatable.io/ru/docs/seatable-nutzen/zusammenarbeit/) с другими пользователями и передача всех изменений в режиме реального времени
-- [Функция комментария для](https://seatable.io/ru/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) каждой записи в ряду
+- [Функция комментария для]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) каждой записи в ряду
 - Полная [версионность](https://seatable.io/ru/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) и [история](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) всех изменений
 - Встроенный [редактор веб-форм](https://seatable.io/ru/docs/webformulare/webformulare/) и графические [плагины](https://seatable.io/ru/docs/seatable-nutzen/ansichten/)
 - Простые возможности интеграции благодаря REST API

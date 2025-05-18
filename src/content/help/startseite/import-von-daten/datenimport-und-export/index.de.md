@@ -15,7 +15,7 @@ Wie Sie Bases und Tabellen aus SeaTable exportieren und in SeaTable importieren 
 ## Base exportieren
 
 Über die **Startseite** können Sie den aktuellen Stand Ihrer Bases inklusive aller Tabellen, [Ansichten]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
-), [Webformulare](https://seatable.io/docs/webformulare/webformulare/), [Statistiken](https://seatable.io/docs/seatable-nutzen/statistiken/), [Skripte](https://seatable.io/docs/javascript-python/import-und-export-eines-skriptes/) und sogar [Plugins](https://seatable.io/docs/plugins/was-ist-ein-plugin/) exportieren. Der Export enthält alle Tabellenwerte sowie Anhänge in [Bild- und Datei-Spalten](https://seatable.io/docs/dateien-und-bilder/unterschiede-zwischen-bild-und-datei-spalte/). Als Momentaufnahme einer Base enthält ein Export jedoch **nicht** die [Historie](https://seatable.io/docs/historie-und-versionen/historie-und-logs/) der Base. [Kommentare](https://seatable.io/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) und [Automationen](https://seatable.io/docs/automationen/uebersicht-ueber-automationen/) sowie [Daten im Big Data Backend](https://seatable.io/docs/big-data/potenzial-big-data/) werden ebenfalls **nicht exportiert**.
+), [Webformulare]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) und [Automationen](https://seatable.io/docs/automationen/uebersicht-ueber-automationen/) sowie [Daten im Big Data Backend](https://seatable.io/docs/big-data/potenzial-big-data/) werden ebenfalls **nicht exportiert**.
 
 ![Export von Bases](images/export-bases.png)
 
@@ -23,7 +23,7 @@ Für den Export von Bases verwendet SeaTable das [DTABLE-Dateiformat](https://se
 
 ## Tabelle exportieren
 
-Sie können aus jeder Base, auf die Sie Zugriff haben, einzelne **Tabellen in Excel-Dateien exportieren**. Die Inhalte von text- und zahlenbasierten Spalten werden dabei als Werte in die Zieldatei kopiert. Inhalte vom Typ [Formatierter Text](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) werden im [Markdown-Format](https://en.wikipedia.org/wiki/Markdown) in die XLSX-Datei geschrieben. Auch Bilder und Dateien werden exportiert, jedoch nicht in ihrem Binärformat, sondern als Link inkl. Datei-Metadaten. [Kommentare](https://seatable.io/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/), [Automationen](https://seatable.io/docs/automationen/uebersicht-ueber-automationen/) und die [Veränderungshistorie](https://seatable.io/docs/historie-und-versionen/historie-und-logs/) werden **nicht exportiert**.
+Sie können aus jeder Base, auf die Sie Zugriff haben, einzelne **Tabellen in Excel-Dateien exportieren**. Die Inhalte von text- und zahlenbasierten Spalten werden dabei als Werte in die Zieldatei kopiert. Inhalte vom Typ [Formatierter Text]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [Automationen](https://seatable.io/docs/automationen/uebersicht-ueber-automationen/) und die [Veränderungshistorie](https://seatable.io/docs/historie-und-versionen/historie-und-logs/) werden **nicht exportiert**.
 
 ![Export von Tabellen](images/export-tables.jpg)
 

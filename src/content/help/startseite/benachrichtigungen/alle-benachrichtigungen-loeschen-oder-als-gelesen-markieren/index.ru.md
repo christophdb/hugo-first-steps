@@ -50,4 +50,8 @@ url: '/ru/help/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
 
 ![Доступ к центру уведомлений в базе](images/notifications-in-base-1.jpg)
 
-{{< warning  headline="Важное замечание"  text="Обратите внимание, что от **содержания** уведомления зависит, где именно оно будет отображаться. Например, уведомления, касающиеся релизов, всегда отображаются на **стартовой** странице, в то время как уведомления, возникающие в результате [автоматизаций](https://seatable.io/ru/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/), [комментариев](https://seatable.io/ru/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) или [записей в колонке персонала](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), отображаются в соответствующей **базе**." />}}
+{{< warning  headline="Важное замечание" >}}
+
+Обратите внимание, что от **содержания** уведомления зависит, где именно оно будет отображаться. Например, уведомления, касающиеся релизов, всегда отображаются на **стартовой** странице, в то время как уведомления, возникающие в результате [автоматизаций]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) или [записей в колонке персонала](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), отображаются в соответствующей **базе**.
+
+{{< /warning >}}

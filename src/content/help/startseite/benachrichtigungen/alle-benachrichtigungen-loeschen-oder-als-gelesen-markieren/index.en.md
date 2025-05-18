@@ -50,4 +50,8 @@ You can access notifications both from the SeaTable **home** page and from withi
 
 ![Access to the notification center within a Base](images/notifications-in-base-1.jpg)
 
-{{< warning  headline="Important note"  text="Please note that it depends on the **content of** a notification where exactly it is displayed. For example, notifications about approvals are always displayed on the **home** page, while notifications resulting from [automations](https://seatable.io/en/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/), [comments](https://seatable.io/en/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) or [employee column entries](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) are displayed in the respective **Base**." />}}
+{{< warning  headline="Important note" >}}
+
+Please note that it depends on the **content of** a notification where exactly it is displayed. For example, notifications about approvals are always displayed on the **home** page, while notifications resulting from [automations]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) or [employee column entries](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) are displayed in the respective **Base**.
+
+{{< /warning >}}

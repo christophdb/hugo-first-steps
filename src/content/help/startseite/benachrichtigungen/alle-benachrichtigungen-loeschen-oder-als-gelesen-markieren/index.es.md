@@ -50,4 +50,8 @@ Puede acceder a las notificaciones tanto desde la página **de inicio** de SeaTa
 
 ![Acceso al Centro de Notificaciones dentro de una Base](images/notifications-in-base-1.jpg)
 
-{{< warning  headline="Nota importante"  text="Tenga en cuenta que depende del **contenido de** una notificación dónde se muestra exactamente. Por ejemplo, las notificaciones relativas a lanzamientos siempre se muestran en la página de **inicio**, mientras que las notificaciones resultantes de [automatizaciones](https://seatable.io/es/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/), [comentarios](https://seatable.io/es/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) o [entradas de columnas de personal](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) se muestran en la **base** respectiva." />}}
+{{< warning  headline="Nota importante" >}}
+
+Tenga en cuenta que depende del **contenido de** una notificación dónde se muestra exactamente. Por ejemplo, las notificaciones relativas a lanzamientos siempre se muestran en la página de **inicio**, mientras que las notificaciones resultantes de [automatizaciones]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) o [entradas de columnas de personal](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) se muestran en la **base** respectiva.
+
+{{< /warning >}}

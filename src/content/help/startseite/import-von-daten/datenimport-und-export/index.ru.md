@@ -14,7 +14,7 @@ url: '/ru/help/datenimport-und-export'
 
 ## Экспортная база
 
-Вы можете экспортировать текущее состояние базы, включая все таблицы, [представления]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [веб-формы](https://seatable.io/ru/docs/webformulare/webformulare/), [статистику](https://seatable.io/ru/docs/seatable-nutzen/statistiken/), [скрипты](https://seatable.io/ru/docs/javascript-python/import-und-export-eines-skriptes/) и даже [плагины](https://seatable.io/ru/docs/plugins/was-ist-ein-plugin/), через **стартовую страницу**. Экспорт содержит все значения таблиц, а также вложения в [колонках изображений и файлов](https://seatable.io/ru/docs/dateien-und-bilder/unterschiede-zwischen-bild-und-datei-spalte/). Однако, будучи моментальным снимком базы, экспорт **не** содержит [истории](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) базы. [Комментарии](https://seatable.io/ru/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) и [автоматизация](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/), а также [данные в бэкенде больших данных](https://seatable.io/ru/docs/big-data/potenzial-big-data/) также **не экспортируются**.
+Вы можете экспортировать текущее состояние базы, включая все таблицы, [представления]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [веб-формы]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) и [автоматизация](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/), а также [данные в бэкенде больших данных](https://seatable.io/ru/docs/big-data/potenzial-big-data/) также **не экспортируются**.
 
 ![Экспортные базы](images/export-bases.png)
 
@@ -22,7 +22,7 @@ SeaTable использует [формат файла DTABLE](https://seatable.
 
 ## Таблица экспорта
 
-Вы можете **экспортировать** отдельные **таблицы** из каждой базы, к которой у вас есть доступ, **в файлы Excel**. Содержимое текстовых и числовых столбцов копируется в целевой файл в виде значений. Содержимое типа [Форматированный текст](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) записывается в файл XLSX в [формате Markdown](https://en.wikipedia.org/wiki/Markdown). Изображения и файлы также экспортируются, но не в двоичном формате, а в виде ссылки, включающей метаданные файла. [Комментарии](https://seatable.io/ru/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/), [автоматизация](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/) и [история изменений](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) **не экспортируются**.
+Вы можете **экспортировать** отдельные **таблицы** из каждой базы, к которой у вас есть доступ, **в файлы Excel**. Содержимое текстовых и числовых столбцов копируется в целевой файл в виде значений. Содержимое типа [Форматированный текст]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [автоматизация](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/) и [история изменений](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) **не экспортируются**.
 
 ![Экспорт таблицы](images/export-tables.jpg)
 
