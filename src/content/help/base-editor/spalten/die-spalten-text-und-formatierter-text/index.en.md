@@ -20,7 +20,7 @@ In addition, SeaTable automatically adds a **text column** as the first column t
 
 ![The "regular" text column ](images/text-column-new.png)
 
-The **first column of** a table has several [peculiarities](https://seatable.io/en/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/), as you can read in the linked article.
+The **first column of** a table has several [peculiarities]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}), as you can read in the linked article.
 
 ### Using the text column
 
@@ -38,7 +38,7 @@ There are two other text-based column types in SeaTable for special use cases: t
 
 ### Set default value
 
-You can define a preset [default value](https://seatable.io/en/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) for each text column. This is automatically entered in every new row of the table.
+You can define a preset [default value]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) for each text column. This is automatically entered in every new row of the table.
 
 If you set the **{creator.name}** or **{creator.id}** reference as the default value, the **name** or **ID of the user** who added the row is automatically entered.
 

@@ -10,7 +10,7 @@ url: '/de/hilfe/der-spaltentyp-automatische-nummer'
 
 Der Spaltentyp **Automatische Nummer** erzeugt eine automatisch ansteigende Nummer für jede neue Zeile. Dieser Spaltentyp kommt immer dann zum Einsatz, wenn Sie für jeden Datensatz eine eindeutige Kennung benötigen.
 
-Beachten Sie, dass diese Spalte _nicht_ dazu gedacht ist, die Anzahl der Datensätze in einer Tabelle zu zählen. Wenn Sie [eine Zeile löschen](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/), werden die verbleibenden Datensätze _nicht_ neu nummeriert. Dies kann zu **Lücken** in der Nummerierung führen.
+Beachten Sie, dass diese Spalte _nicht_ dazu gedacht ist, die Anzahl der Datensätze in einer Tabelle zu zählen. Wenn Sie [eine Zeile löschen]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}), werden die verbleibenden Datensätze _nicht_ neu nummeriert. Dies kann zu **Lücken** in der Nummerierung führen.
 
 Um Ihre Datensätze **neu** zu nummerieren (z. B. um Lücken zu beseitigen), können Sie entweder die Spalte _Automatische Nummer_ löschen und neu erstellen oder den Spaltentyp ändern und dann erneut in eine _Automatische Nummer_ umwandeln.
 

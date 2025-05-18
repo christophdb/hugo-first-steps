@@ -45,13 +45,13 @@ Les deux types d'opérations de traitement des données sont soumis à des **con
 
 Les opérations de traitement des données peuvent actuellement être exécutées [manuellement](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) ou [par automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). L'équipe de développement travaille à ce que les opérations de traitement des données puissent également être exécutées à l'aide de [boutons à](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) l'avenir.
 
-Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) à l'avance une [nouvelle colonne vide](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) pour les résultats.
+Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) pour les résultats.
 
 Contrairement aux **colonnes de formules** qui surveillent en permanence les colonnes impliquées, les **colonnes de résultats** ne s'actualisent _pas_ d'elles-mêmes. Les modifications des valeurs dans la colonne source n'ont _pas_ d'effet sur les valeurs dans la colonne des résultats sans [automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ou nouvelle exécution. C'est pourquoi vous pouvez également écraser manuellement les valeurs calculées ou mises en relation.
 
 ## Protection contre les modifications
 
-Afin d'éviter tout malentendu, nous recommandons de ne **pas apporter de modifications manuelles** aux colonnes concernées et de les [verrouiller](https://seatable.io/fr/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) pour plus de sécurité après l'exécution (nécessite un abonnement Plus ou Enterprise).
+Afin d'éviter tout malentendu, nous recommandons de ne **pas apporter de modifications manuelles** aux colonnes concernées et de les [verrouiller]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) pour plus de sécurité après l'exécution (nécessite un abonnement Plus ou Enterprise).
 
 ![Colonnes de résultats d'actions de traitement de données bloquées pour le traitement ](images/locked-score-columns.jpg)
 

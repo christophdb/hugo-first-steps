@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/standardwert-fuer-eine-spalte-festlegen'
 ---
 
-Lorsque vous définissez une **valeur par défaut** pour une colonne, celle-ci est **automatiquement** insérée **dans chaque nouvelle ligne** du tableau. Les valeurs par défaut prédéfinies vous permettent donc d'économiser quelques clics lors de l'[ajout de nouvelles lignes](https://seatable.io/fr/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/). Vous pouvez bien sûr ensuite adapter manuellement les valeurs saisies automatiquement.
+Lorsque vous définissez une **valeur par défaut** pour une colonne, celle-ci est **automatiquement** insérée **dans chaque nouvelle ligne** du tableau. Les valeurs par défaut prédéfinies vous permettent donc d'économiser quelques clics lors de l'[ajout de nouvelles lignes]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Vous pouvez bien sûr ensuite adapter manuellement les valeurs saisies automatiquement.
 
 ## Comment définir des valeurs par défaut
 
@@ -22,7 +22,7 @@ Lorsque vous définissez une **valeur par défaut** pour une colonne, celle-ci e
 
 {{< warning  headline="Attention"  text="Les valeurs par défaut sont utilisées de **manière universelle** lors de la création de nouvelles lignes, c'est-à-dire que les lignes créées par une action automatisée ou par un bouton contiennent également les valeurs par défaut." />}}
 
-En outre, vous pouvez déjà définir directement une valeur par défaut lors de la [création d'une nouvelle colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+En outre, vous pouvez déjà définir directement une valeur par défaut lors de la [création d'une nouvelle colonne]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ## les types de colonnes pour lesquels vous pouvez définir des valeurs par défaut
 
@@ -67,7 +67,7 @@ Si vous définissez comme valeur par défaut dans une [colonne de texte](https:/
 
 Les valeurs par défaut s'appliquent **partout** où vous pouvez créer de nouvelles lignes :
 
-- dans un [tableau](https://seatable.io/fr/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+- dans un [tableau]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - dans une [colonne de liens](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - par [bouton](https://seatable.io/fr/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (action : "Copier une ligne dans un autre tableau")
 - par [automatisation](https://seatable.io/fr/docs/automationen/automations-aktionen/) (actions : "Ajouter une ligne" et "Ajouter une nouvelle entrée dans un autre tableau")

@@ -22,7 +22,7 @@ SeaTable даже поддерживает вас до такой степени
 
 Иногда быстрее продублировать целую строку или столбец. Здесь вы можете узнать, как это сделать:
 
-- [Дублирование строки](https://seatable.io/ru/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/)
+- [Дублирование строки]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}})
 - [Дублирование колонки](https://seatable.io/ru/docs/spalten/duplizieren-einer-spalte/)
 
 ## Профессиональный совет

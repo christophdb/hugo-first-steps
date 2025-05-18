@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/help/zeilen-aus-dem-big-data-backend-zurueckholen'
 ---
 
-Для извлечения строк из памяти больших данных необходимо [представление больших данных](https://seatable.io/ru/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). В этом представлении можно [выбрать](https://seatable.io/ru/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) нужные строки и переместить их обратно в **обычное представление**.
+Для извлечения строк из памяти больших данных необходимо [представление больших данных]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) нужные строки и переместить их обратно в **обычное представление**.
 
 1. Откройте **представление больших данных**.
 2. **Щелкните правой кнопкой мыши на архивированной строке**.

@@ -32,11 +32,11 @@ Las operaciones de tratamiento de datos se realizan de **forma manual** o **auto
 
 ## Consecuencias de la ejecución
 
-Cada vez que se ejecuta la operación de tratamiento de datos, los **resultados** se escriben en la **columna de resultados** independientemente. Si no desea sobrescribir ningún dato, deberá [crear](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) previamente una [nueva columna vacía](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) para los resultados.
+Cada vez que se ejecuta la operación de tratamiento de datos, los **resultados** se escriben en la **columna de resultados** independientemente. Si no desea sobrescribir ningún dato, deberá [crear]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para los resultados.
 
 A diferencia de las columnas de **fórmulas**, que controlan permanentemente las columnas implicadas, **las** columnas de resultados no se actualizan. Los cambios en los valores de la columna de origen no afectan a los valores de la columna de resultado sin [automatización](https://seatable.io/es/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) o reejecución.
 
-Por tanto, para evitar malentendidos, recomendamos **no** realizar ningún cambio manual en las columnas implicadas y [bloquearlas](https://seatable.io/es/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) para su [edición](https://seatable.io/es/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) tras la ejecución por motivos de seguridad (requiere una suscripción Plus o Enterprise).
+Por tanto, para evitar malentendidos, recomendamos **no** realizar ningún cambio manual en las columnas implicadas y [bloquearlas]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) tras la ejecución por motivos de seguridad (requiere una suscripción Plus o Enterprise).
 
 ![Columnas de resultados de acciones de tratamiento de datos bloqueadas para tratamiento ](images/locked-score-columns.jpg)
 

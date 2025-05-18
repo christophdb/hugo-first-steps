@@ -45,13 +45,13 @@ Cada uno de los dos tipos de operaciones de tratamiento de datos tiene **requisi
 
 Actualmente, las operaciones de tratamiento de datos pueden realizarse [manualmente](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) o [mediante automatización](https://seatable.io/es/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). El equipo de desarrollo está trabajando para que en el futuro las operaciones de tratamiento de datos también puedan realizarse mediante [botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/).
 
-Cada vez que se ejecuta la operación de tratamiento de datos, los **resultados** se escriben en la **columna de resultados** independientemente. Si no desea sobrescribir ningún dato, deberá [crear](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) previamente una [nueva columna vacía](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) para los resultados.
+Cada vez que se ejecuta la operación de tratamiento de datos, los **resultados** se escriben en la **columna de resultados** independientemente. Si no desea sobrescribir ningún dato, deberá [crear]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para los resultados.
 
 A diferencia de las columnas de **fórmulas**, que controlan permanentemente las columnas implicadas, **las** columnas de resultados _no_ se actualizan. Los cambios en los valores de la columna de origen _no_ afectan a los valores de la columna de resultado sin [automatización](https://seatable.io/es/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) o reejecución. Por lo tanto, también puede sobrescribir manualmente los valores calculados o relacionados.
 
 ## Protección contra cambios
 
-Para evitar malentendidos, recomendamos **no** realizar **ningún cambio manual en** las columnas implicadas y [bloquearlas para su edición](https://seatable.io/es/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) tras la ejecución por seguridad (requiere una suscripción Plus o Enterprise).
+Para evitar malentendidos, recomendamos **no** realizar **ningún cambio manual en** las columnas implicadas y [bloquearlas para su edición]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) tras la ejecución por seguridad (requiere una suscripción Plus o Enterprise).
 
 ![Columnas de resultados de acciones de tratamiento de datos bloqueadas para tratamiento ](images/locked-score-columns.jpg)
 

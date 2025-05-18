@@ -12,7 +12,11 @@ If you have the necessary permission, you can **lock** the **table header in** e
 
 This can be useful, for example, if you work together with other users in a table and do not want changes to the **column structure to** be allowed.
 
-{{< warning  headline="Tip"  text="If you only want to lock **individual columns of** your table for editing, you can do this using the [column permissions](https://seatable.io/en/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) button." />}}
+{{< warning  headline="Tip" >}}
+
+If you only want to lock **individual columns of** your table for editing, you can do this using the [column permissions]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) button.
+
+{{< /warning >}}
 
 ## Lock table header
 

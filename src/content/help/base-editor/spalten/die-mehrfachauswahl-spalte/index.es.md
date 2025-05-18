@@ -14,7 +14,7 @@ Una columna de selección múltiple es ideal si desea asignar a las filas de una
 
 ## Crear una columna de selección múltiple
 
-Crear una columna de selección múltiple es un juego de niños y se hace con unos pocos clics. Para obtener información detallada, consulte [Añadir una columna](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Crear una columna de selección múltiple es un juego de niños y se hace con unos pocos clics. Para obtener información detallada, consulte [Añadir una columna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 1. Haga clic en el **símbolo \[+\] situado** a la derecha de la última columna de cualquier tabla.
 2. Dale un **nombre** a la nueva columna.

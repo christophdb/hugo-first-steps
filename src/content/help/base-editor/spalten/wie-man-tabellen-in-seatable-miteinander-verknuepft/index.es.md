@@ -153,6 +153,6 @@ Haga clic en los **símbolos de flecha para** **ordenar** las entradas enlazadas
 
 No encuentro este tipo de columna. ¿No puedo crear un enlace?|||
 
-La columna Enlace está disponible en todas las suscripciones de SeaTable. Sin embargo, probablemente esté intentando cambiar el tipo de columna de una columna existente. Cuando [cambie](https://seatable.io/es/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/) el tipo de columna, el tipo de columna Enlace a **otras entradas** _no_ estará disponible. En su lugar, cree una **nueva columna** y se le ofrecerá el tipo de columna deseado.
+La columna Enlace está disponible en todas las suscripciones de SeaTable. Sin embargo, probablemente esté intentando cambiar el tipo de columna de una columna existente. Cuando [cambie]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) el tipo de columna, el tipo de columna Enlace a **otras entradas** _no_ estará disponible. En su lugar, cree una **nueva columna** y se le ofrecerá el tipo de columna deseado.
 
 {{< /faq >}}

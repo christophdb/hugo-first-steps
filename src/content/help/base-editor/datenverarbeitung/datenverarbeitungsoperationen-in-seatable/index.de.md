@@ -45,13 +45,13 @@ Für beide Arten von Datenverarbeitungsoperationen gelten jeweils unterschiedlic
 
 Datenverarbeitungsoperationen können derzeit [manuell](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) oder [per Automation](https://seatable.io/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ausgeführt werden. Das Entwickler-Team arbeitet daran, dass Datenverarbeitungsoperationen zukünftig auch mithilfe von [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) ausgeführt werden können.
 
-Bei jeder Ausführung der Datenverarbeitungsoperation werden die **Ergebnisse** ohne Rücksicht auf Verluste in die **Ergebnisspalte** geschrieben. Wenn Sie keine Daten überschreiben wollen, sollten Sie für die Ergebnisse im Voraus eine [neue leere Spalte anlegen](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Bei jeder Ausführung der Datenverarbeitungsoperation werden die **Ergebnisse** ohne Rücksicht auf Verluste in die **Ergebnisspalte** geschrieben. Wenn Sie keine Daten überschreiben wollen, sollten Sie für die Ergebnisse im Voraus eine [neue leere Spalte anlegen]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 Im Gegensatz zu **Formel-Spalten**, die permanent die beteiligten Spalten überwachen, aktualisieren sich die **Ergebnisspalten** _nicht_ von selbst. Änderungen der Werte in der Quellspalte wirken sich ohne [Automation](https://seatable.io/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) oder erneute Ausführung _nicht_ auf die Werte in der Ergebnisspalte aus. Deshalb können Sie die errechneten bzw. in Beziehung gesetzten Werte auch manuell überschreiben.
 
 ## Schutz vor Änderungen
 
-Um Missverständnissen vorzubeugen, empfehlen wir, **keine manuellen Änderungen** an den beteiligten Spalten vorzunehmen und diese nach der Ausführung zur Sicherheit [für die Bearbeitung zu sperren](https://seatable.io/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) (erfordert ein Plus- oder Enterprise-Abo).
+Um Missverständnissen vorzubeugen, empfehlen wir, **keine manuellen Änderungen** an den beteiligten Spalten vorzunehmen und diese nach der Ausführung zur Sicherheit [für die Bearbeitung zu sperren]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) (erfordert ein Plus- oder Enterprise-Abo).
 
 ![Für die Bearbeitung gesperrte Ergebnis-Spalten von Datenverarbeitungsaktionen ](images/locked-score-columns.jpg)
 

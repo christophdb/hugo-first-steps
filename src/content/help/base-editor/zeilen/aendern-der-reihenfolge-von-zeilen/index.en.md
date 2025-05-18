@@ -20,7 +20,7 @@ You can change the order of rows **by dragging and dropping**. If you reorder ro
 
 ## Move multiple rows at the same time
 
-You can also move **several rows** at the same time. To do this, first select the rows . The article [Selecting multiple rows](https://seatable.io/en/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) explains how to do this. You can then move the rows in the same way as a single row.
+You can also move **several rows** at the same time. To do this, first select the rows . The article [Selecting multiple rows]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) explains how to do this. You can then move the rows in the same way as a single row.
 
 ![rows Move simultaneously](https://seatable.io/wp-content/uploads/2022/10/Zeilen-gleichzeitig-verschieben-1.gif)
 

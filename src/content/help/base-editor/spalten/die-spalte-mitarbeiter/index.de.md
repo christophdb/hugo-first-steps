@@ -40,7 +40,7 @@ Die Mitarbeiter erhalten in der Base anschließend eine entsprechende Benachrich
 
 ## Standardwert festlegen
 
-Sie können einen oder mehrere Mitarbeiter als [Standardwert](https://seatable.io/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) in einer Mitarbeiter-Spalte festlegen. Zur Auswahl stehen die Optionen **Aktueller Benutzer** oder **Bestimmte Benutzer**. Immer wenn jemand eine neue Zeile in der Tabelle hinzufügt, werden dann entweder der Ersteller der Zeile oder die ausgewählten Personen automatisch in die Mitarbeiter-Spalte eingetragen.
+Sie können einen oder mehrere Mitarbeiter als [Standardwert]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) in einer Mitarbeiter-Spalte festlegen. Zur Auswahl stehen die Optionen **Aktueller Benutzer** oder **Bestimmte Benutzer**. Immer wenn jemand eine neue Zeile in der Tabelle hinzufügt, werden dann entweder der Ersteller der Zeile oder die ausgewählten Personen automatisch in die Mitarbeiter-Spalte eingetragen.
 
 ![Set default values in collaborator columns](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
 

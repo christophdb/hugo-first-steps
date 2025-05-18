@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/help/mehrere-zeilen-selektieren'
 ---
 
-It surely happens that you want to [copy](https://seatable.io/en/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/), [delete](https://seatable.io/en/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) or [lock for](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) editing **several rows** at the same time. To perform these actions, you must **select** the desired rows beforehand.
+It surely happens that you want to [copy]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) editing **several rows** at the same time. To perform these actions, you must **select** the desired rows beforehand.
 
 SeaTable offers **three** different ways to select multiple rows and then perform the desired action. This article is only about **selecting** the desired rows. You can learn more about the **actions** in the articles linked above.
 

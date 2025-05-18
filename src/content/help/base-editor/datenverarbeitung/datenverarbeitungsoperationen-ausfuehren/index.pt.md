@@ -32,11 +32,11 @@ As operações de processamento de dados são executadas **manualmente** ou **po
 
 ## Consequências da execução
 
-Cada vez que a operação de processamento de dados é executada, os **resultados** são escritos na **coluna de resultados** independentemente. Se não quiser sobregravar quaisquer dados, deve [criar](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) antecipadamente uma [nova coluna vazia](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) para os resultados.
+Cada vez que a operação de processamento de dados é executada, os **resultados** são escritos na **coluna de resultados** independentemente. Se não quiser sobregravar quaisquer dados, deve [criar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para os resultados.
 
 Ao contrário das colunas **de fórmulas**, que monitorizam permanentemente as colunas envolvidas, **as colunas de resultados** não se actualizam. As alterações nos valores da coluna de origem não afectam os valores da coluna de resultados sem [automatização](https://seatable.io/pt/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ou reexecução.
 
-Para evitar mal-entendidos, recomendamos portanto que **não** se façam quaisquer alterações manuais às colunas envolvidas e que se as [tranquem](https://seatable.io/pt/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) para [edição](https://seatable.io/pt/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) após a execução por motivos de segurança (requer uma assinatura Plus ou Enterprise).
+Para evitar mal-entendidos, recomendamos portanto que **não** se façam quaisquer alterações manuais às colunas envolvidas e que se as [tranquem]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) após a execução por motivos de segurança (requer uma assinatura Plus ou Enterprise).
 
 ![Colunas de resultados de acções de processamento de dados bloqueadas para processamento ](images/locked-score-columns.jpg)
 

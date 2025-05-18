@@ -12,7 +12,7 @@ This article highlights some of the ways you can capture data in SeaTable.
 
 ## Manual input
 
-If you have just opened a table, you can simply click with the mouse in a cell and enter data using your keyboard. If necessary, add a [new row](https://seatable.io/en/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) or a [new column](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) to the table for this purpose.
+If you have just opened a table, you can simply click with the mouse in a cell and enter data using your keyboard. If necessary, add a [new row]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) to the table for this purpose.
 
 ## Copy-and-Paste
 

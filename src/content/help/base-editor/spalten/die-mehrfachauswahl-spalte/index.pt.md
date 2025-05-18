@@ -14,7 +14,7 @@ Uma coluna multi-selecção é ideal se quiser atribuir as suas linhas numa colu
 
 ## Criar uma coluna de selecção múltipla
 
-A criação de uma coluna de escolha múltipla é uma brincadeira de criança e feita com apenas alguns cliques. Para informações detalhadas, ver [Adicionar uma coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+A criação de uma coluna de escolha múltipla é uma brincadeira de criança e feita com apenas alguns cliques. Para informações detalhadas, ver [Adicionar uma coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 1. Clique no **símbolo \[+\]** à direita da última coluna de qualquer tabela.
 2. Dê um **nome** à nova coluna.

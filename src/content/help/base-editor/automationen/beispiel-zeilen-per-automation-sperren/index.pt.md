@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/zeilen-per-automation-sperren'
 ---
 
-Com a ajuda de automatizações, já não tem de bloquear manualmente as linhas nas suas mesas, mas pode ter [as linhas](https://seatable.io/pt/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) bloqueadas automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada após um determinado momento (por exemplo, quando uma operação é concluída).
+Com a ajuda de automatizações, já não tem de bloquear manualmente as linhas nas suas mesas, mas pode ter [as linhas]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) bloqueadas automaticamente. Isto é muito útil se quiser evitar sempre que uma fila seja editada após um determinado momento (por exemplo, quando uma operação é concluída).
 
 ![Bloquear uma linha com uma automatização](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
 
@@ -60,7 +60,7 @@ A partir deste momento, a automatização criada bloqueará **todas as linhas** 
 
 As automatizações são extremamente úteis se quiser bloquear várias filas ao mesmo tempo. Para o fazer, seleccionar o gatilho **Executar periodicamente para entradas que satisfaçam as condições** e definir as condições correspondentes. Em vez de definir a frequência e tempo de execução, clique em Execute **Now** no fundo para bloquear imediatamente todas as filas desejadas.
 
-Para mais informações sobre o bloqueio de filas, ver o artigo [Bloquear uma fila](https://seatable.io/pt/docs/arbeiten-mit-zeilen/sperren-einer-zeile/).
+Para mais informações sobre o bloqueio de filas, ver o artigo [Bloquear uma fila]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}).
 
 ### Artigos mais úteis na secção de automatização:
 

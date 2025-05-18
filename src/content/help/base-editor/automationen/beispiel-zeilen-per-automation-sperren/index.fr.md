@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/zeilen-per-automation-sperren'
 ---
 
-Avec l'aide des automatisations, vous ne devez plus bloquer manuellement les lignes dans vos tableaux, mais vous pouvez faire en sorte que le [blocage des lignes](https://seatable.io/fr/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) s'effectue automatiquement. C'est très utile si vous voulez toujours empêcher qu'une ligne puisse être traitée à partir d'un certain moment (par exemple lorsqu'une opération est terminée).
+Avec l'aide des automatisations, vous ne devez plus bloquer manuellement les lignes dans vos tableaux, mais vous pouvez faire en sorte que le [blocage des lignes]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) s'effectue automatiquement. C'est très utile si vous voulez toujours empêcher qu'une ligne puisse être traitée à partir d'un certain moment (par exemple lorsqu'une opération est terminée).
 
 ![Bloquer une ligne avec une automation](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
 
@@ -60,7 +60,7 @@ A partir de ce moment, l'automatisation créée bloquera **toutes les lignes** d
 
 Les automatisations sont extrêmement utiles si vous souhaitez bloquer plusieurs lignes en même temps. Pour ce faire, sélectionnez le déclencheur **Exécuter périodiquement les entrées qui remplissent les conditions** et définissez les conditions correspondantes. Au lieu de définir la fréquence et l'heure d'exécution, cliquez sur **Exécuter maintenant** ci-dessous pour verrouiller immédiatement toutes les lignes souhaitées.
 
-Vous trouverez plus d'informations sur le verrouillage des lignes dans l'article [Verrouiller une ligne](https://seatable.io/fr/docs/arbeiten-mit-zeilen/sperren-einer-zeile/).
+Vous trouverez plus d'informations sur le verrouillage des lignes dans l'article [Verrouiller une ligne]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}).
 
 ### D'autres articles utiles dans la rubrique Automations :
 

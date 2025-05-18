@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/zeilen-aus-dem-big-data-backend-zurueckholen'
 ---
 
-Para recuperar linhas da memória de grandes volumes de dados, é necessária uma [vista de grandes volumes de dados](https://seatable.io/pt/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). Nesta vista, pode [selecionar](https://seatable.io/pt/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) as linhas desejadas e movê-las de volta para uma **vista normal**.
+Para recuperar linhas da memória de grandes volumes de dados, é necessária uma [vista de grandes volumes de dados]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) as linhas desejadas e movê-las de volta para uma **vista normal**.
 
 1. Abrir uma **vista de grandes volumes de dados**.
 2. **Clique com o botão direito do rato numa linha arquivada**.

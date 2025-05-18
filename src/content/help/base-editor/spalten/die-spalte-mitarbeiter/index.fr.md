@@ -40,7 +40,7 @@ Les collaborateurs reçoivent ensuite une notification correspondante dans la ba
 
 ## Définir la valeur par défaut
 
-Vous pouvez définir un ou plusieurs employés comme [valeur par défaut](https://seatable.io/fr/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) dans une colonne d'employés. Vous avez le choix entre l'**utilisateur actuel** et **certains utilisateurs**. Chaque fois que quelqu'un ajoute une nouvelle ligne dans le tableau, soit le créateur de la ligne, soit les personnes sélectionnées sont alors automatiquement inscrites dans la colonne des collaborateurs.
+Vous pouvez définir un ou plusieurs employés comme [valeur par défaut]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) dans une colonne d'employés. Vous avez le choix entre l'**utilisateur actuel** et **certains utilisateurs**. Chaque fois que quelqu'un ajoute une nouvelle ligne dans le tableau, soit le créateur de la ligne, soit les personnes sélectionnées sont alors automatiquement inscrites dans la colonne des collaborateurs.
 
 ![Définir les valeurs par défaut dans les colonnes du collaborateur](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
 

@@ -14,8 +14,8 @@ You want to **delete** the first column of your table and wonder why you don **'
 
 The fact that you cannot **delete** the first column of a table is due to the important function of this column. It is based on the **primary key** in relational databases and is also used in SeaTable to **designate a record**. For this reason, the first column of a table has several **special features** compared to the other columns, one of which is the property of not being able to be deleted.
 
-You will learn all other peculiarities of the first column in the article [The peculiarities of the first column](https://seatable.io/en/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/).
+You will learn all other peculiarities of the first column in the article [The peculiarities of the first column]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}).
 
 ## What if I want to use a different first column?
 
-If you want to use another column as the first column, you can [adjust](https://seatable.io/en/docs/arbeiten-mit-spalten/anpassen-der-ersten-spalte/) the first column. Before that, you can [create](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) a [new column](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) and simply [copy-and-paste](https://seatable.io/en/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) the data from the previous first column into the new column.
+If you want to use another column as the first column, you can [adjust]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) and simply [copy-and-paste](https://seatable.io/en/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste") the data from the previous first column into the new column.

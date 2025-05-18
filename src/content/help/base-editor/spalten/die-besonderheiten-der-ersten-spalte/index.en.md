@@ -57,7 +57,7 @@ The first column cannot be **hidden**, **moved** or **deleted**.
 
 Is it possible to change the type of the first column afterwards?|||
 
-Yes, this is possible. However, in some cases information may be **lost** when [changing the column type](https://seatable.io/en/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/), for example from text to number. Therefore, after a conversion, check whether all information has been transferred correctly and completely.
+Yes, this is possible. However, in some cases information may be **lost** when [changing the column type]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), for example from text to number. Therefore, after a conversion, check whether all information has been transferred correctly and completely.
 
 ---
 

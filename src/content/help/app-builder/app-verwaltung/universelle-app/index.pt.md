@@ -90,7 +90,7 @@ Embora a aplicação universal tenha muitas vantagens em relação ao [trabalho 
 
 ## Comentários em aplicações universais
 
-No entanto, também tem a opção de comunicar com outros membros da equipa numa aplicação. Para o fazer, utilize a [função de comentário](https://seatable.io/pt/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) que já conhece da mesma forma do Base. Registe os seus comentários ou informações adicionais nos registos de dados para os outros utilizadores da aplicação e realize discussões no local.
+No entanto, também tem a opção de comunicar com outros membros da equipa numa aplicação. Para o fazer, utilize a [função de comentário]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) que já conhece da mesma forma do Base. Registe os seus comentários ou informações adicionais nos registos de dados para os outros utilizadores da aplicação e realize discussões no local.
 
 ![Função de comentário em aplicações universais](images/Kommentarfunktion-in-Universellen-Apps.png)
 

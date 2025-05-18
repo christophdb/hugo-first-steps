@@ -45,13 +45,13 @@ The two types of data processing operations each have different **requirements**
 
 Data processing operations can currently be performed [manually](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) or [via automation](https://seatable.io/en/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). The development team is working to ensure that data processing operations can also be executed using [buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) in the future.
 
-Each time the data processing operation is executed, the **results** are written to the **results column** regardless. If you do not want to overwrite any data, you should [create](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) a [new empty column](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) for the results in advance.
+Each time the data processing operation is executed, the **results** are written to the **results column** regardless. If you do not want to overwrite any data, you should [create]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) for the results in advance.
 
 Unlike **formula** columns that permanently monitor the columns involved, **result columns** do _not_ update themselves. Changes to the values in the source column do _not_ affect the values in the result column without [automation](https://seatable.io/en/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) or re-execution. Therefore, you can also manually overwrite the calculated or related values.
 
 ## Protection against changes
 
-To prevent misunderstandings, we recommend **not to** make **manual changes to** the columns involved and to [lock](https://seatable.io/en/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) them [for editing](https://seatable.io/en/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) after execution for safety (requires Plus or Enterprise subscription).
+To prevent misunderstandings, we recommend **not to** make **manual changes to** the columns involved and to [lock]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) after execution for safety (requires Plus or Enterprise subscription).
 
 ![Result columns of data processing actions locked for processing ](images/locked-score-columns.jpg)
 

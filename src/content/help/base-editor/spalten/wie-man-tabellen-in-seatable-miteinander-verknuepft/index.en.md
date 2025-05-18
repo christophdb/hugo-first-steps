@@ -153,6 +153,6 @@ You can **sort** the linked entries in the link dialog by clicking on the **arro
 
 I can't find this column type. Can't I create a link?|||
 
-The Link column is available in every SeaTable subscription. However, you are probably trying to change the column type of an existing column. When [changing the](https://seatable.io/en/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/) column type, the **Link to other entries** column type is actually _not_ available to you. Instead, create a **new column** and you will be offered the column type you want.
+The Link column is available in every SeaTable subscription. However, you are probably trying to change the column type of an existing column. When [changing the]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) column type, the **Link to other entries** column type is actually _not_ available to you. Instead, create a **new column** and you will be offered the column type you want.
 
 {{< /faq >}}

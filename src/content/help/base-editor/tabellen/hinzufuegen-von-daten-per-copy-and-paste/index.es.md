@@ -22,7 +22,7 @@ SeaTable le ayuda incluso hasta el punto de añadir columnas adicionales cuando 
 
 A veces es más rápido duplicar una fila o columna entera. Aquí puede averiguar cómo hacerlo:
 
-- [Duplicar una fila](https://seatable.io/es/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/)
+- [Duplicar una fila]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}})
 - [Duplicar una columna](https://seatable.io/es/docs/spalten/duplizieren-einer-spalte/)
 
 ## Consejo profesional

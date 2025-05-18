@@ -40,7 +40,7 @@ Los empleados reciben entonces la notificación correspondiente en Base, a la qu
 
 ## Establecer el valor por defecto
 
-Puede establecer uno o varios empleados como [valor por defecto](https://seatable.io/es/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) en una columna de empleados. Las opciones **Usuario actual** o **Usuarios** específicos están disponibles para la selección. Cada vez que alguien añade una nueva fila a la tabla, el creador de la fila o las personas seleccionadas se introducen automáticamente en la columna de empleados.
+Puede establecer uno o varios empleados como [valor por defecto]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) en una columna de empleados. Las opciones **Usuario actual** o **Usuarios** específicos están disponibles para la selección. Cada vez que alguien añade una nueva fila a la tabla, el creador de la fila o las personas seleccionadas se introducen automáticamente en la columna de empleados.
 
 ![Establecer valores por defecto en las columnas de los colaboradores](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
 

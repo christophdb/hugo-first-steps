@@ -61,7 +61,7 @@ Kann man den Typ der ersten Spalte nachträglich ändern?
 
 |||
 
-Ja, dies ist möglich. In manchen Fällen kann es jedoch vorkommen, dass bei der [Änderung des Spaltentyps](https://seatable.io/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/), beispielsweise von Text zu Zahl, Informationen **verloren gehen**. Prüfen Sie daher nach einer Konvertierung, ob alle Informationen korrekt und vollständig übernommen wurden.
+Ja, dies ist möglich. In manchen Fällen kann es jedoch vorkommen, dass bei der [Änderung des Spaltentyps]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), beispielsweise von Text zu Zahl, Informationen **verloren gehen**. Prüfen Sie daher nach einer Konvertierung, ob alle Informationen korrekt und vollständig übernommen wurden.
 
 ---
 

@@ -47,7 +47,7 @@ Les bases ne peuvent pas seulement être partagées avec d'autres utilisateurs d
 
 ## Commentaires
 
-Pour que les discussions se déroulent là où elles doivent se dérouler, vous pouvez [commenter](https://seatable.io/fr/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) chaque entrée de la base. Les membres du groupe et les autres personnes ayant accès à la base sont informés des commentaires et peuvent y répondre. Ainsi, l'ensemble de la discussion sur un sujet donné reste directement dans la base. La recherche d'une discussion dans d'anciens e-mails, dans un chat ou dans un journal est une chose du passé.
+Pour que les discussions se déroulent là où elles doivent se dérouler, vous pouvez [commenter]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) chaque entrée de la base. Les membres du groupe et les autres personnes ayant accès à la base sont informés des commentaires et peuvent y répondre. Ainsi, l'ensemble de la discussion sur un sujet donné reste directement dans la base. La recherche d'une discussion dans d'anciens e-mails, dans un chat ou dans un journal est une chose du passé.
 
 ## Notifications
 

@@ -57,7 +57,7 @@ La primera columna no puede **ocultarse**, **moverse** ni **borrarse**.
 
 ¿Es posible cambiar después el tipo de la primera columna?|||
 
-Sí, es posible. En algunos casos, sin embargo, puede ocurrir que se **pierda** información al [cambiar el tipo de columna](https://seatable.io/es/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/), por ejemplo de texto a número. Por lo tanto, después de una conversión, compruebe si toda la información se ha transferido correcta y completamente.
+Sí, es posible. En algunos casos, sin embargo, puede ocurrir que se **pierda** información al [cambiar el tipo de columna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), por ejemplo de texto a número. Por lo tanto, después de una conversión, compruebe si toda la información se ha transferido correcta y completamente.
 
 ---
 

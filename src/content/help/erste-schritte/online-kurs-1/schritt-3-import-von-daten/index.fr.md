@@ -32,6 +32,6 @@ C'est tout pour cette partie. Passons à l'étape suivante.
 
 ## Article d'aide avec plus d'informations
 
-- [Suppression de lignes](https://seatable.io/fr/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
+- [Suppression de lignes]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Importation et exportation de données dans SeaTable](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/)
 - [Quels sont les formats d'importation pris en charge par SeaTable ?](https://seatable.io/fr/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)

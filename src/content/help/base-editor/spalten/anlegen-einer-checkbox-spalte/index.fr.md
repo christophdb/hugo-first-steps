@@ -17,7 +17,7 @@ Dans SeaTable, vous avez la possibilité d'ajouter **des colonnes de cases à co
 1. Cliquez sur le **symbole \[+\]** à droite de la dernière colonne de n'importe quel tableau.
 2. Donnez un **nom** à la colonne.
 3. Sélectionnez **Checkbox** comme type de colonne.
-4. Décidez si la [valeur par défaut](https://seatable.io/fr/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) de la colonne doit être **vide** ou **cochée**.
+4. Décidez si la [valeur par défaut]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) de la colonne doit être **vide** ou **cochée**.
 5. Confirmez en cliquant sur **Envoyer**.
 
 ## Options de style d'une colonne de cases à cocher

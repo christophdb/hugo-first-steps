@@ -34,7 +34,7 @@ Cada base é constituída por um ou mais quadros. As tabelas ajudam-no a estrutu
 
 Cada linha representa um registo de dados relacionado na sua tabela. Por exemplo, se estiver a compilar uma lista de pessoas, cada pessoa terá uma linha com todos os seus dados.
 
-[Saber mais sobre as linhas →](https://seatable.io/pt/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+[Saber mais sobre as linhas →]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 
 ### Colunas
 

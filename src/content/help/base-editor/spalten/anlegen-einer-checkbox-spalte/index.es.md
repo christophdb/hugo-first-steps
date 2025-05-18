@@ -17,7 +17,7 @@ En SeaTable, tiene la opción de añadir **columnas de casillas de** verificaci�
 1. Haga clic en el **símbolo \[+\] situado** a la derecha de la última columna de cualquier tabla.
 2. Dale un **nombre** a la columna.
 3. Seleccione **Checkbox** como tipo de columna.
-4. Decida si el [valor por defecto](https://seatable.io/es/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) de la columna debe estar **vacío** o **marcado**.
+4. Decida si el [valor por defecto]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) de la columna debe estar **vacío** o **marcado**.
 5. Confirme con **Enviar**.
 
 ## Opciones de estilo de una columna de casillas de verificación

@@ -40,7 +40,7 @@ Employees then receive a corresponding notification in Base, which they can acce
 
 ## Set default value
 
-You can set one or more employees as the [default value](https://seatable.io/en/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) in an employee column. You can choose between the options **Current user** or **Specific users**. Whenever someone adds a new row to the table, either the creator of the row or the selected persons are automatically entered in the employee column.
+You can set one or more employees as the [default value]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) in an employee column. You can choose between the options **Current user** or **Specific users**. Whenever someone adds a new row to the table, either the creator of the row or the selected persons are automatically entered in the employee column.
 
 ![Set default values in collaborator columns](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
 

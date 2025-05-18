@@ -12,7 +12,7 @@ url: '/ru/help/datenerfassung'
 
 ## Ручной ввод
 
-Если вы только что открыли таблицу, вы можете просто щелкнуть мышью в ячейке и ввести данные с помощью клавиатуры. При необходимости для этого добавьте в таблицу [новую строку](https://seatable.io/ru/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) или [новый столбец](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Если вы только что открыли таблицу, вы можете просто щелкнуть мышью в ячейке и ввести данные с помощью клавиатуры. При необходимости для этого добавьте в таблицу [новую строку]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ## Копировать и вставить
 

@@ -192,7 +192,7 @@ Hier eine Liste von Dingen, die wir im Handbuch vermeiden wollen:
 
 > _Zeilen können dupliziert werden. Dies erleichtert die Arbeit mit den Tabellen und hilft, effektiver zu arbeiten._
 
-Das ist keine gute Einleitung. Man muss nicht erklären, dass es sinnvoll sein kann, Zeilen zu kopieren. Eine Begründung wie _effektiver arbeiten_ kann man auch weglassen. Stattdessen startet man lieber direkt, wie man eine [Zeile dupliziert](https://seatable.io/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/).
+Das ist keine gute Einleitung. Man muss nicht erklären, dass es sinnvoll sein kann, Zeilen zu kopieren. Eine Begründung wie _effektiver arbeiten_ kann man auch weglassen. Stattdessen startet man lieber direkt, wie man eine [Zeile dupliziert]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}).
 
 ---
 

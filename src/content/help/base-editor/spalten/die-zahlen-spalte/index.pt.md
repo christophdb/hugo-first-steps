@@ -59,7 +59,7 @@ Utilização de uma moeda personalizada onde o símbolo da moeda pode ser introd
 
 ## Definir o valor predefinido e validar a entrada
 
-Pode [definir](https://seatable.io/pt/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) um [valor predefinido](https://seatable.io/pt/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) para cada coluna de números, que é automaticamente introduzido em cada linha que adicionar à sua tabela.
+Pode [definir]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) para cada coluna de números, que é automaticamente introduzido em cada linha que adicionar à sua tabela.
 
 Para identificar diretamente **erros** e **valores extremos**, pode também **validar** a **entrada**. Para o efeito, defina um **intervalo numérico** no qual os valores da coluna se devem situar; as células com um valor superior ou inferior são então destacadas a cores.
 

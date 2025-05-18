@@ -57,7 +57,7 @@ La première colonne ne peut être ni **masquée**, ni **déplacée**, ni **supp
 
 Est-il possible de modifier ultérieurement le type de la première colonne ?|||
 
-Oui, c'est possible. Dans certains cas, il peut toutefois arriver que des informations soient **perdues** lors de la [modification du type de colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/), par exemple du texte au nombre. Après une conversion, vérifiez donc que toutes les informations ont été reprises correctement et intégralement.
+Oui, c'est possible. Dans certains cas, il peut toutefois arriver que des informations soient **perdues** lors de la [modification du type de colonne]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), par exemple du texte au nombre. Après une conversion, vérifiez donc que toutes les informations ont été reprises correctement et intégralement.
 
 ---
 

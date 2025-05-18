@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/zeilen-aus-dem-big-data-backend-zurueckholen'
 ---
 
-To retrieve rows from the big data storage, you need a [big data view](https://seatable.io/en/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). In this view, you can [select](https://seatable.io/en/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) the desired [rows and move it back to a](https://seatable.io/en/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) **normal view**.
+To retrieve rows from the big data storage, you need a [big data view]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) **normal view**.
 
 1. Open a **big data view**.
 2. Make a **right click on an archived row**.

@@ -20,7 +20,7 @@ Vous pouvez modifier l'ordre des lignes **par glisser-déposer**. Si vous réorg
 
 ## Déplacer plusieurs lignes en même temps
 
-Vous pouvez également déplacer **plusieurs lignes** en même temps. Pour ce faire, sélectionnez d'abord les lignes. L'article [Sélectionner plusieurs lignes](https://seatable.io/fr/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) explique comment procéder. Vous déplacez ensuite les lignes de la même manière qu'une seule ligne.
+Vous pouvez également déplacer **plusieurs lignes** en même temps. Pour ce faire, sélectionnez d'abord les lignes. L'article [Sélectionner plusieurs lignes]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) explique comment procéder. Vous déplacez ensuite les lignes de la même manière qu'une seule ligne.
 
 ![Déplacer des lignes en même temps](https://seatable.io/wp-content/uploads/2022/10/Zeilen-gleichzeitig-verschieben-1.gif)
 

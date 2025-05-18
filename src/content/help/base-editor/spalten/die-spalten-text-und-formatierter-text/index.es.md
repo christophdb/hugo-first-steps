@@ -20,7 +20,7 @@ Además, SeaTable añade automáticamente una **columna de texto** como primera 
 
 ![La columna de texto "normal ](images/text-column-new.png)
 
-La **primera columna de** una tabla tiene varias [características](https://seatable.io/es/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) especiales, como puedes leer en el artículo enlazado.
+La **primera columna de** una tabla tiene varias [características]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) especiales, como puedes leer en el artículo enlazado.
 
 ### Uso de la columna de texto
 
@@ -38,7 +38,7 @@ Existen otros dos tipos de columnas basadas en texto en SeaTable para casos de u
 
 ### Establecer el valor por defecto
 
-Puede definir un [valor predeterminado](https://seatable.io/es/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) para cada columna de texto. Este valor se introduce automáticamente en cada nueva fila de la tabla.
+Puede definir un [valor predeterminado]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) para cada columna de texto. Este valor se introduce automáticamente en cada nueva fila de la tabla.
 
 Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto, se introduce automáticamente el **nombre** o el **ID del usuario** que ha añadido la fila.
 

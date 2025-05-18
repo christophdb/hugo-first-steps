@@ -34,7 +34,7 @@ Jede Base besteht aus einer oder mehreren Tabellen. Tabellen helfen Ihnen dabei,
 
 Jede Zeile steht für einen zusammenhängenden Datensatz in Ihrer Tabelle. Wenn Sie z. B. ein Personenverzeichnis zusammenstellen, bekommt jede Person eine Zeile mit all ihren Daten.
 
-[Erfahren Sie mehr über Zeilen →](https://seatable.io/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+[Erfahren Sie mehr über Zeilen →]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 
 ### Spalten
 

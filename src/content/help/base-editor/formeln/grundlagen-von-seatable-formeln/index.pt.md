@@ -15,7 +15,7 @@ Entre outras coisas, pode calcular com valores numa linha, fundi-los ou relacion
 
 ## Criar uma coluna de fórmulas
 
-Para aplicar uma fórmula, deve primeiro adicionar uma nova coluna de fórmula à sua tabela. Pode saber como o fazer [aqui](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Para aplicar uma fórmula, deve primeiro adicionar uma nova coluna de fórmula à sua tabela. Pode saber como o fazer [aqui]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Selecção de uma coluna de fórmula](https://seatable.io/wp-content/uploads/2023/01/select-formula-column.png)
 

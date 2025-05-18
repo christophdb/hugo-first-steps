@@ -48,6 +48,6 @@ url: '/ru/help/die-schaltflaeche'
 
 ### Дополнительная возможность
 
-Для расширения автоматизации этапов процесса можно также использовать кнопки в сочетании с [автоматизацией](https://seatable.io/ru/docs/arbeiten-mit-automationen/anlegen-einer-automation/). В примере приложения у вас будет возможность, помимо прочего, [блокировать](https://seatable.io/ru/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) **строки** с соответствующими счетами, которые были установлены как оплаченные для обработки.
+Для расширения автоматизации этапов процесса можно также использовать кнопки в сочетании с [автоматизацией]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) **строки** с соответствующими счетами, которые были установлены как оплаченные для обработки.
 
 ![Пример использования кнопки в сочетании с автоматикой](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)

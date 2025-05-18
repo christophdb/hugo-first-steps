@@ -14,7 +14,7 @@ This function makes it possible, for example, for shared data sets to be used by
 
 ## Add columns to a table created with a common data set
 
-Adding columns works the **same way as with usual tables**. You can find detailed click instructions [here](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Adding columns works the **same way as with usual tables**. You can find detailed click instructions [here]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Add columns to a table created with a common data set](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
 

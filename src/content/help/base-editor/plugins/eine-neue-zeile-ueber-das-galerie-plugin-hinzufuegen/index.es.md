@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 ---
 
-Normalmente se [crearían](https://seatable.io/es/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) nuevas filas en la **vista de tabla**. Sin embargo, en el **plug-in de la galería** también tienes esta opción. La fila recién creada se muestra en la galería como un **álbum** y se inserta en la tabla debajo de todas las demás filas.
+Normalmente se [crearían]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) nuevas filas en la **vista de tabla**. Sin embargo, en el **plug-in de la galería** también tienes esta opción. La fila recién creada se muestra en la galería como un **álbum** y se inserta en la tabla debajo de todas las demás filas.
 
 ## Añadir una fila en la galería
 

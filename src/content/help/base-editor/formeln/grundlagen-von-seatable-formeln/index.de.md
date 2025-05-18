@@ -14,7 +14,7 @@ SeaTable bietet Ihnen viele verschiedene Funktionen, die Sie zu Ihrer Tabelle hi
 
 ## Anlegen einer Formel-Spalte
 
-Um eine Formel anzuwenden, müssen Sie zunächst eine neue Formel-Spalte zu Ihrer Tabelle hinzufügen. Wie das geht, erfahren Sie [hier](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Um eine Formel anzuwenden, müssen Sie zunächst eine neue Formel-Spalte zu Ihrer Tabelle hinzufügen. Wie das geht, erfahren Sie [hier]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Auswahl einer Formelspalte](https://seatable.io/wp-content/uploads/2023/01/select-formula-column.png)
 

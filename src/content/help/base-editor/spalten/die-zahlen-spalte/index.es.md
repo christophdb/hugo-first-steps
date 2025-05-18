@@ -59,7 +59,7 @@ Utilización de una divisa personalizada en la que el símbolo de la divisa pued
 
 ## Establecer el valor por defecto y validar la entrada
 
-Puede [definir](https://seatable.io/es/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) un [valor por defecto](https://seatable.io/es/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) para cada columna numérica, que se introducirá automáticamente en cada fila que añada a su tabla.
+Puede [definir]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) para cada columna numérica, que se introducirá automáticamente en cada fila que añada a su tabla.
 
 Para identificar directamente los **errores** y los **valores extremos**, también puede **validar** la **entrada**. Para ello, defina un **intervalo numérico** en el que deben situarse los valores de la columna; las celdas con un valor superior o inferior se resaltan entonces en color.
 

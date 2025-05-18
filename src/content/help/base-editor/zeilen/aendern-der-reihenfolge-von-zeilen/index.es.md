@@ -20,7 +20,7 @@ Puede cambiar el orden de las filas **arrastrando y soltando**. Si reordena las 
 
 ## Mover varias líneas al mismo tiempo
 
-También puede mover **varias filas** al mismo tiempo. Para ello, primero seleccione las filas. En el artículo [Seleccionar varias filas](https://seatable.io/es/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) se explica cómo hacerlo. A continuación, desplace las filas del mismo modo que si se tratara de una sola fila.
+También puede mover **varias filas** al mismo tiempo. Para ello, primero seleccione las filas. En el artículo [Seleccionar varias filas]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) se explica cómo hacerlo. A continuación, desplace las filas del mismo modo que si se tratara de una sola fila.
 
 ![Mover filas simultáneamente](https://seatable.io/wp-content/uploads/2022/10/Zeilen-gleichzeitig-verschieben-1.gif)
 

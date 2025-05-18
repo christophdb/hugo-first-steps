@@ -14,7 +14,7 @@ url: '/ru/help/anlegen-einer-einfachauswahl-spalte'
 
 ## Создайте колонку с одним выбором
 
-Создание колонки с одним выбором - это детская забава, которая выполняется всего несколькими щелчками мыши. Подробную информацию см. в разделе [Добавление колонки](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Создание колонки с одним выбором - это детская забава, которая выполняется всего несколькими щелчками мыши. Подробную информацию см. в разделе [Добавление колонки]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Создайте колонку с одним выбором](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
 

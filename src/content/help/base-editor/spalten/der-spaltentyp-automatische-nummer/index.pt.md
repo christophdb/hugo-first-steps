@@ -10,7 +10,7 @@ url: '/pt/ajuda/der-spaltentyp-automatische-nummer'
 
 O tipo de coluna **Número Automático** gera um número automaticamente crescente para cada nova linha. Este tipo de coluna é utilizado sempre que se necessita de um identificador único para cada registo.
 
-Note-se que esta coluna _não_ se destina a contar o número de registos de uma tabela. Se [eliminar uma fila](https://seatable.io/pt/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/), os registos restantes _não_ são renumerados. Isto pode levar a **lacunas** na numeração.
+Note-se que esta coluna _não_ se destina a contar o número de registos de uma tabela. Se [eliminar uma fila]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}), os registos restantes _não_ são renumerados. Isto pode levar a **lacunas** na numeração.
 
 Para **renumerar** os seus registos (por exemplo, para eliminar lacunas), pode apagar a coluna _Número Automático_ e recriá-la, ou alterar o tipo de coluna e depois convertê-la novamente para _Número Automático_.
 

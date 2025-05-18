@@ -14,7 +14,7 @@ url: '/ru/help/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten
 
 ## Добавление столбцов в таблицу, созданную с помощью общей записи
 
-Добавление столбцов происходит так же, как и в **обычных таблицах**. Подробные инструкции по клику вы найдете [здесь](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Добавление столбцов происходит так же, как и в **обычных таблицах**. Подробные инструкции по клику вы найдете [здесь]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Добавление столбцов в таблицу, созданную с помощью общей записи](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
 

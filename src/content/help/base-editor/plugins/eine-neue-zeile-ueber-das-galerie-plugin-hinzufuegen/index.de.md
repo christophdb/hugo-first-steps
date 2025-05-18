@@ -1,14 +1,14 @@
 ---
-title: "Eine neue Zeile über das Galerie-Plugin hinzufügen"
+title: 'Eine neue Zeile über das Galerie-Plugin hinzufügen'
 date: 2023-01-08
-lastmod: "2023-02-03"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/de/hilfe/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen"
+lastmod: '2023-02-03'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/de/hilfe/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 ---
 
-Neue Zeilen würden Sie normalerweise in der **Tabellen-Ansicht** [anlegen](https://seatable.io/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/). Im **Galerie-Plugin** haben Sie diese Möglichkeit jedoch auch. Die neu angelegte Zeile wird in der Galerie als **Album** angezeigt und unter allen anderen Zeilen in die Tabelle eingefügt.
+Neue Zeilen würden Sie normalerweise in der **Tabellen-Ansicht** [anlegen]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Im **Galerie-Plugin** haben Sie diese Möglichkeit jedoch auch. Die neu angelegte Zeile wird in der Galerie als **Album** angezeigt und unter allen anderen Zeilen in die Tabelle eingefügt.
 
 ## Hinzufügen einer Zeile in der Galerie
 

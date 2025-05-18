@@ -70,7 +70,7 @@ O **registo de linha** permite ver quando é que o utilizador fez que alteraçã
 
 ![Exibição das alterações numa linha por registos.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
 
-Se precisar de mais informações sobre o registo de linha, por favor consulte o [artigo de ajuda](https://seatable.io/pt/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) correspondente.
+Se precisar de mais informações sobre o registo de linha, por favor consulte o [artigo de ajuda]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) correspondente.
 
 ## Diário de execução das automatizações
 

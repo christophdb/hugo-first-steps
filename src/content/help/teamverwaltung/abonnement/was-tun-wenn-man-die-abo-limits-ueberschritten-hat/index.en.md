@@ -26,5 +26,5 @@ If you don't want to switch to a more extensive subscription package, your only 
 - [Delete a Base](https://seatable.io/docs/arbeiten-mit-bases/loeschen-einer-base/)
 - [Empty the recycle bin in the team administration](https://seatable.io/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
 - [Delete a table from a base](https://seatable.io/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
-- [Delete a row](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
+- [Delete a row]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Data import and export](https://seatable.io/docs/import-von-daten/datenimport-und-export/)

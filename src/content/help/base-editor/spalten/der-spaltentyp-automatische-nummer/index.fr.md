@@ -10,7 +10,7 @@ url: '/fr/aide/der-spaltentyp-automatische-nummer'
 
 Le type de colonne **Numéro automatique** génère automatiquement un numéro croissant pour chaque nouvelle ligne. Ce type de colonne est toujours utilisé lorsque vous avez besoin d'un identifiant unique pour chaque enregistrement.
 
-Notez que cette colonne n'est _pas_ destinée à compter le nombre d'enregistrements dans un tableau. Si vous [supprimez une ligne](https://seatable.io/fr/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/), les enregistrements restants ne sont _pas_ renumérotés. Cela peut entraîner **des lacunes** dans la numérotation.
+Notez que cette colonne n'est _pas_ destinée à compter le nombre d'enregistrements dans un tableau. Si vous [supprimez une ligne]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}), les enregistrements restants ne sont _pas_ renumérotés. Cela peut entraîner **des lacunes** dans la numérotation.
 
 Pour **renuméroter** vos enregistrements (par exemple pour éliminer des lacunes), vous pouvez soit supprimer la colonne _Numéro automatique_ et la recréer, soit modifier le type de colonne, puis la transformer à nouveau en _Numéro automatique_.
 

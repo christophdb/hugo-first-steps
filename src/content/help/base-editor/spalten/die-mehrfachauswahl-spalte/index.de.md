@@ -1,11 +1,11 @@
 ---
-title: "Die Mehrfachauswahl-Spalte"
+title: 'Die Mehrfachauswahl-Spalte'
 date: 2023-03-28
-lastmod: "2023-04-27"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/de/hilfe/die-mehrfachauswahl-spalte"
+lastmod: '2023-04-27'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/de/hilfe/die-mehrfachauswahl-spalte'
 ---
 
 Eine Mehrfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen in einer Spalte **mehrere Optionen** aus einer zu definierenden Liste von Optionen zuweisen möchten. Die Optionen erhalten bunte Labels, mit denen Sie Ihre Datensätze versehen und Tabellen übersichtlich gestalten können, z. B. indem Sie nach bestimmten Optionen [filtern](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/).
@@ -14,7 +14,7 @@ Eine Mehrfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen in einer Spalte **m
 
 ## Anlegen einer Mehrfachauswahl-Spalte
 
-Das Anlegen einer Mehrfachauswahl-Spalte ist kinderleicht und mit wenigen Klicks erledigt. Ausführliche Informationen finden Sie unter [Hinzufügen einer Spalte](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Das Anlegen einer Mehrfachauswahl-Spalte ist kinderleicht und mit wenigen Klicks erledigt. Ausführliche Informationen finden Sie unter [Hinzufügen einer Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 1. Klicken Sie auf das **\[+\]-Symbol** rechts neben der letzten Spalte einer beliebigen Tabelle.
 2. Geben Sie der neuen Spalte einen **Namen**.

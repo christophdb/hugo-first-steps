@@ -88,9 +88,9 @@ url: '/ru/help/schritt-1-anlegen-einer-neuen-base'
 ## Справочная статья с дополнительной информацией
 
 - [Создайте новую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Как настроить тип колонки](https://seatable.io/ru/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/)
-- [Удалить строку](https://seatable.io/ru/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
-- [Добавить колонку](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/)
+- [Как настроить тип колонки]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
+- [Удалить строку]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
+- [Добавить колонку]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
 - [Добавление опций в колонку с одним выбором](https://seatable.io/ru/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
-- [Особенности первой колонны](https://seatable.io/ru/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/)
+- [Особенности первой колонны]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Настройка внешнего вида базы (значок и цвет)](https://seatable.io/ru/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/)

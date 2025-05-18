@@ -48,6 +48,6 @@ After clicking the button, the **status of** the selected invoice changes to **p
 
 ### Additional option
 
-To extend the automation of process steps, you can also use buttons in combination with [automations](https://seatable.io/en/docs/arbeiten-mit-automationen/anlegen-einer-automation/). In the application example, you would have, among other things, the possibility to **rows** with the respective invoices that have been set to paid to [block](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) them for processing.
+To extend the automation of process steps, you can also use buttons in combination with [automations]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) them for processing.
 
 ![Application example for the use of the button in combination with automations](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)

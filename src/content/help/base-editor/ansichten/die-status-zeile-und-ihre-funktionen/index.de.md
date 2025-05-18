@@ -1,11 +1,11 @@
 ---
-title: "Die Status-Zeile und ihre Funktionen"
+title: 'Die Status-Zeile und ihre Funktionen'
 date: 2023-02-21
-lastmod: "2023-02-21"
-categories: 
-  - "ansichtsoptionen"
-author: "nsc2"
-url: "/de/hilfe/die-status-zeile-und-ihre-funktionen"
+lastmod: '2023-02-21'
+categories:
+    - 'ansichtsoptionen'
+author: 'nsc2'
+url: '/de/hilfe/die-status-zeile-und-ihre-funktionen'
 ---
 
 Die **Status-Zeile** befindet sich am unteren Rand Ihrer Tabellen und erfüllt grundsätzlich zwei verschiedene Funktionen, die in diesem Artikel näher erläutert werden:
@@ -21,7 +21,7 @@ Die Status-Zeile gibt am unteren linken Rand die Anzahl aller **Zeilen** an, die
 
 ![Die Status-Zeile gibt stets die Anzahl der Zeilen in der aktuell geöffneten Tabellenansicht an](images/status-cell-function-1.jpg)
 
-Zudem können Sie einzelne [Zeilen selektieren](https://seatable.io/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) – dann bezieht sich die Status-Zeile nur auf die ausgewählten Einträge.
+Zudem können Sie einzelne [Zeilen selektieren]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) – dann bezieht sich die Status-Zeile nur auf die ausgewählten Einträge.
 
 ## Angabe eines aus allen Einträgen berechneten Werts
 

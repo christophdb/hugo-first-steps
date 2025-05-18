@@ -88,9 +88,9 @@ Ese fue el paso 1 de este curso en línea. Desplázate hasta el final de este ar
 ## Artículo de ayuda con más información
 
 - [Crear una nueva base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Cómo personalizar el tipo de columna](https://seatable.io/es/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/)
-- [Borrar una línea](https://seatable.io/es/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
-- [Añadir una columna](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/)
+- [Cómo personalizar el tipo de columna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
+- [Borrar una línea]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
+- [Añadir una columna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
 - [Añadir opciones a una columna de selección única](https://seatable.io/es/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
-- [Particularidades de la primera columna](https://seatable.io/es/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/)
+- [Particularidades de la primera columna]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Personalizar el aspecto de una base (icono y color)](https://seatable.io/es/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/)

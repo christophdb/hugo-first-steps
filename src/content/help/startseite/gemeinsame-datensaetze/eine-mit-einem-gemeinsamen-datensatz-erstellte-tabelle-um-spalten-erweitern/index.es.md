@@ -14,7 +14,7 @@ Esta función hace posible que los conjuntos de datos comunes sean utilizados, p
 
 ## Añadir columnas a una tabla creada con un conjunto de datos común
 
-La adición de columnas funciona del **mismo modo que con las tablas habituales**. Encontrará instrucciones detalladas para hacer clic [aquí](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+La adición de columnas funciona del **mismo modo que con las tablas habituales**. Encontrará instrucciones detalladas para hacer clic [aquí]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Añadir columnas a una tabla creada con un conjunto de datos común](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
 

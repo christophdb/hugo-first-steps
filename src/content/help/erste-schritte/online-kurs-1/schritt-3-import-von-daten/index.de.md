@@ -1,11 +1,11 @@
 ---
-title: "Schritt 3: Import von Daten"
+title: 'Schritt 3: Import von Daten'
 date: 2024-08-30
-lastmod: "2024-09-01"
-categories: 
-  - "online-kurs"
-author: "cdb"
-url: "/de/hilfe/schritt-3-import-von-daten"
+lastmod: '2024-09-01'
+categories:
+    - 'online-kurs'
+author: 'cdb'
+url: '/de/hilfe/schritt-3-import-von-daten'
 ---
 
 Wahrscheinlich haben Sie jetzt bereits ein paar Ausgaben in Ihrer neuen Ausgabenverwaltung erfasst. Für die folgenden Schritte benötigen wir jedoch ein paar mehr Daten. Deshalb werden wir ihre bisherigen Einträge entfernen und neue Datensätze in die Tabelle importieren.
@@ -32,6 +32,6 @@ Das war es auch schon für diesen Teil. Auf geht es zum nächsten Schritt.
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Löschen von Zeilen](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
+- [Löschen von Zeilen]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Datenimport und Export in SeaTable](https://seatable.io/docs/import-von-daten/datenimport-und-export/)
 - [Welche Importformate unterstützt SeaTable?](https://seatable.io/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)

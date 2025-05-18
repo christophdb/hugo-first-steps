@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/zeilen-aus-dem-big-data-backend-zurueckholen'
 ---
 
-Pour récupérer des lignes de la mémoire Big Data, vous avez besoin d'une [vue Big Data](https://seatable.io/fr/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). Dans cette vue, vous pouvez [sélectionner](https://seatable.io/fr/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) les [lignes](https://seatable.io/fr/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) souhaitées et les déplacer à nouveau vers une **vue normale**.
+Pour récupérer des lignes de la mémoire Big Data, vous avez besoin d'une [vue Big Data]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) souhaitées et les déplacer à nouveau vers une **vue normale**.
 
 1. Ouvrez une **vue Big Data**.
 2. Faites un **clic droit sur une ligne archivée**.

@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/es/ayuda/mehrere-zeilen-selektieren'
 ---
 
-Seguramente ocurre que desea [copiar](https://seatable.io/es/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/), [borrar](https://seatable.io/es/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) o [bloquear](https://seatable.io/es/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) **varias filas** para editarlas al mismo tiempo. Para realizar estas acciones, debe **seleccionar** previamente las filas deseadas.
+Seguramente ocurre que desea [copiar]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) **varias filas** para editarlas al mismo tiempo. Para realizar estas acciones, debe **seleccionar** previamente las filas deseadas.
 
 SeaTable ofrece **tres** formas diferentes de seleccionar múltiples filas y luego realizar la acción deseada. Este artículo sólo trata de la **selección** de las filas deseadas. Puede leer más sobre las **acciones** en los artículos enlazados arriba.
 

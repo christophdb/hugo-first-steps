@@ -21,7 +21,7 @@ La ligne d'état indique en bas à gauche le nombre de toutes les **lignes** qui
 
 ![La ligne d'état indique toujours le nombre de lignes dans la vue de tableau actuellement ouverte](images/status-cell-function-1.jpg)
 
-En outre, vous pouvez [sélectionner](https://seatable.io/fr/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) des [lignes](https://seatable.io/fr/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) individuelles - la ligne d'état ne se réfère alors qu'aux entrées sélectionnées.
+En outre, vous pouvez [sélectionner]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) individuelles - la ligne d'état ne se réfère alors qu'aux entrées sélectionnées.
 
 ## Indication d'une valeur calculée à partir de toutes les entrées
 

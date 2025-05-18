@@ -90,7 +90,7 @@ While the universal app has many advantages over [working in the](https://seatab
 
 ## Comments in universal apps
 
-Nevertheless, you also have the option of communicating with other team members in an app. To do this, use the [comment function](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) that you already know in the same form from Base. Record your feedback or additional information on the data records for the other app users and hold discussions on the spot.
+Nevertheless, you also have the option of communicating with other team members in an app. To do this, use the [comment function]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) that you already know in the same form from Base. Record your feedback or additional information on the data records for the other app users and hold discussions on the spot.
 
 ![Comment function in universal apps](images/Kommentarfunktion-in-Universellen-Apps.png)
 

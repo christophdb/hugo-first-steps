@@ -1,11 +1,11 @@
 ---
-title: "Eine mit einem gemeinsamen Datensatz erstellte Tabelle um Spalten erweitern"
+title: 'Eine mit einem gemeinsamen Datensatz erstellte Tabelle um Spalten erweitern'
 date: 2022-12-15
-lastmod: "2024-06-12"
-categories: 
-  - "gemeinsame-datensaetze"
-author: "nsc2"
-url: "/de/hilfe/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern"
+lastmod: '2024-06-12'
+categories:
+    - 'gemeinsame-datensaetze'
+author: 'nsc2'
+url: '/de/hilfe/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
 ---
 
 Tabellen, die Sie mit einem gemeinsamen Datensatz angelegt haben, enthalten zu Beginn alle Spalten und Zeilen, die auch in der Tabellenansicht des gemeinsamen Datensatzes zu finden sind. Darüber hinaus haben Sie selbstverständlich die Möglichkeit, diese Tabellen um **neue Spalten** zu erweitern und zusätzlich mit eigenen Daten zu befüllen. Der Vorteil: Daten in Spalten, die nicht mit dem gemeinsamen Datensatz verknüpft sind, werden bei der [Synchronisation](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) **nicht überschrieben**.
@@ -14,7 +14,7 @@ Diese Funktion macht es möglich, dass gemeinsame Datensätze beispielsweise von
 
 ## Eine mit einem gemeinsamen Datensatz erstellte Tabelle um Spalten erweitern
 
-Das Hinzufügen von Spalten funktioniert **genauso wie bei üblichen Tabellen**. Eine detaillierte Klickanleitung finden Sie [hier](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Das Hinzufügen von Spalten funktioniert **genauso wie bei üblichen Tabellen**. Eine detaillierte Klickanleitung finden Sie [hier]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Eine mit einem gemeinsamen Datensatz erstellte Tabelle um Spalten erweitern](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
 

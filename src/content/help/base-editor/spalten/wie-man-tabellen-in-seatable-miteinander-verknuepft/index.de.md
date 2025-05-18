@@ -138,6 +138,6 @@ Mit einem Klick auf die **Pfeil-Symbole** können Sie die verlinkten Einträge i
 
 |||
 
-Die Link-Spalte steht Ihnen in jedem SeaTable Abonnement zur Verfügung. Wahrscheinlich versuchen Sie jedoch den Spaltentyp einer existierenden Spalte zu ändern. Beim [Ändern des Spaltentyps](https://seatable.io/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/) steht Ihnen der Spaltentyp **Verknüpfung zu anderen Einträgen** tatsächlich _nicht_ zur Verfügung. Legen Sie stattdessen eine **neue Spalte** an und schon wird Ihnen der gewünschte Spaltentyp angeboten.
+Die Link-Spalte steht Ihnen in jedem SeaTable Abonnement zur Verfügung. Wahrscheinlich versuchen Sie jedoch den Spaltentyp einer existierenden Spalte zu ändern. Beim [Ändern des Spaltentyps]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) steht Ihnen der Spaltentyp **Verknüpfung zu anderen Einträgen** tatsächlich _nicht_ zur Verfügung. Legen Sie stattdessen eine **neue Spalte** an und schon wird Ihnen der gewünschte Spaltentyp angeboten.
 
 {{< /faq >}}

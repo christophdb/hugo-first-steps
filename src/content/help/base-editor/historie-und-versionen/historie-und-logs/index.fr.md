@@ -70,7 +70,7 @@ Le **journal des lignes** vous permet de savoir quand quel utilisateur a effectu
 
 ![Affichage des changements sur une ligne par des logs.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
 
-Si vous avez besoin de plus d'informations sur le log de ligne, n'hésitez pas à consulter l'[article d'aide](https://seatable.io/fr/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) correspondant.
+Si vous avez besoin de plus d'informations sur le log de ligne, n'hésitez pas à consulter l'[article d'aide]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) correspondant.
 
 ## Log d'exécution des automatisations
 

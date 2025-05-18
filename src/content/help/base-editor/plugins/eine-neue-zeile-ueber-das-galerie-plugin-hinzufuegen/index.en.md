@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 ---
 
-You would normally [create](https://seatable.io/en/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) new rows in the **table view**. However, in the **Gallery plugin**, you also have this option. The newly created row will be displayed in the gallery as an **album** and will be added to the table below all other rows .
+You would normally [create]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) new rows in the **table view**. However, in the **Gallery plugin**, you also have this option. The newly created row will be displayed in the gallery as an **album** and will be added to the table below all other rows .
 
 ## Adding a row in the gallery
 

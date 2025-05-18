@@ -34,7 +34,7 @@ Chaque base se compose d'un ou de plusieurs tableaux. Les tableaux vous aident �
 
 Chaque ligne représente un ensemble de données cohérent dans votre tableau. Par exemple, si vous compilez un répertoire de personnes, chaque personne aura une ligne avec toutes ses données.
 
-[En savoir plus sur les lignes →](https://seatable.io/fr/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+[En savoir plus sur les lignes →]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 
 ### Colonnes
 

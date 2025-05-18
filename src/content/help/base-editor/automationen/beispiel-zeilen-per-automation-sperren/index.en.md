@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/zeilen-per-automation-sperren'
 ---
 
-With the help of automations, you no longer have to manually lock rows in your tables, but can have [rows perform the](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) [locking](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) automatically. This is very useful if you always want to prevent a row from being processed further from a certain point in time (e.g. when a process has been completed).
+With the help of automations, you no longer have to manually lock rows in your tables, but can have [rows perform the]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) automatically. This is very useful if you always want to prevent a row from being processed further from a certain point in time (e.g. when a process has been completed).
 
 ![Lock a row with an automation](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
 
@@ -60,7 +60,7 @@ From this moment on, the created automation will lock **all rows** where **entri
 
 Automations are extremely useful if you want to lock several rows at the same time. To do this, select the **Execute Periodically** trigger for **entries that meet the conditions** and set the appropriate conditions. Instead of setting the execution frequency and time, click **Execute Now** below to immediately lock all the desired rows .
 
-For more information on blocking rows , see the article [Blocking a row.](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/)
+For more information on blocking rows , see the article [Blocking a row.]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}})
 
 ### More helpful articles in the Automations section:
 

@@ -32,6 +32,6 @@ That's all for this part. Let's move on to the next step.
 
 ## Help article with further information
 
-- [Delete from rows](https://seatable.io/en/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
+- [Delete from rows]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Data import and export in SeaTable](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/)
 - [Which import formats does SeaTable support?](https://seatable.io/en/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)

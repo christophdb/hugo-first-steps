@@ -14,7 +14,7 @@ Une colonne de sélection simple est idéale si vous souhaitez attribuer à vos 
 
 ## Création d'une colonne de sélection simple
 
-La création d'une colonne de sélection simple est un jeu d'enfant et se fait en quelques clics. Vous trouverez des informations détaillées sous [Ajouter une colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+La création d'une colonne de sélection simple est un jeu d'enfant et se fait en quelques clics. Vous trouverez des informations détaillées sous [Ajouter une colonne]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Création d'une colonne de sélection simple](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
 

@@ -88,9 +88,9 @@ C'est déjà l'étape 1 de ce cours en ligne. Faites défiler jusqu'à la fin de
 ## Article d'aide avec plus d'informations
 
 - [Créer une nouvelle base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Comment personnaliser le type de colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/)
-- [Suppression d'une ligne](https://seatable.io/fr/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
-- [Ajout d’une colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/)
+- [Comment personnaliser le type de colonne]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
+- [Suppression d'une ligne]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
+- [Ajout d’une colonne]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
 - [Ajouter des options à une colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
-- [Particularités de la première colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/)
+- [Particularités de la première colonne]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Personnaliser l'apparence d'une base (icône et couleur)](https://seatable.io/fr/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/)

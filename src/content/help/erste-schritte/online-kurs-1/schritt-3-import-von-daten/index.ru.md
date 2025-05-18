@@ -32,6 +32,6 @@ SeaTable предлагает широкий спектр возможносте
 
 ## Справочная статья с дополнительной информацией
 
-- [Удалить строки](https://seatable.io/ru/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
+- [Удалить строки]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Импорт и экспорт данных в SeaTable](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/)
 - [Какие форматы импорта поддерживает SeaTable?](https://seatable.io/ru/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)

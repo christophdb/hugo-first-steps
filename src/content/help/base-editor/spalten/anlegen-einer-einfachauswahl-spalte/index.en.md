@@ -14,7 +14,7 @@ A single-selection column is ideal if you want to assign**exactly one option** t
 
 ## Create a single selection column
 
-Creating a single-selection column is child's play and done with just a few clicks. For detailed information, see [Add a column](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Creating a single-selection column is child's play and done with just a few clicks. For detailed information, see [Add a column]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Create a single selection column](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
 

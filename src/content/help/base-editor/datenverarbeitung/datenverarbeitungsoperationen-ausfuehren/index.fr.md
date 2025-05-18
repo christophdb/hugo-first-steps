@@ -32,11 +32,11 @@ Les opérations de traitement des données s'effectuent soit **manuellement**, s
 
 ## Conséquences de l'exécution
 
-Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) à l'avance une [nouvelle colonne vide](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) pour les résultats.
+Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) pour les résultats.
 
 Contrairement aux **colonnes de formules** qui surveillent en permanence les colonnes impliquées, les **colonnes de résultats** ne s'actualisent pas d'elles-mêmes. Les modifications des valeurs dans la colonne source n'ont pas d'effet sur les valeurs dans la colonne de résultats sans [automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ou nouvelle exécution.
 
-Pour éviter tout malentendu, nous recommandons donc de ne **pas** apporter de modifications manuelles aux colonnes impliquées et de les [bloquer](https://seatable.io/fr/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) pour [traitement](https://seatable.io/fr/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) après l'exécution, par mesure de sécurité (nécessite un abonnement Plus ou Enterprise).
+Pour éviter tout malentendu, nous recommandons donc de ne **pas** apporter de modifications manuelles aux colonnes impliquées et de les [bloquer]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) après l'exécution, par mesure de sécurité (nécessite un abonnement Plus ou Enterprise).
 
 ![Colonnes de résultats d'actions de traitement de données bloquées pour le traitement ](images/locked-score-columns.jpg)
 

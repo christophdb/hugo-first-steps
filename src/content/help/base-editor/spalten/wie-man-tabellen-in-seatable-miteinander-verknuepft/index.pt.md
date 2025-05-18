@@ -153,6 +153,6 @@ Clicar nos **símbolos de seta para** **ordenar** as entradas ligadas na caixa d
 
 Não consigo encontrar este tipo de coluna. Não posso criar uma ligação?|||
 
-A coluna Ligação está disponível em todas as subscrições do SeaTable. No entanto, é provável que esteja a tentar alterar o tipo de coluna de uma coluna existente. Quando [altera](https://seatable.io/pt/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/) o tipo de coluna, o tipo de coluna Ligação a **outras entradas** _não_ está disponível. Em vez disso, crie uma **nova coluna** e ser-lhe-á oferecido o tipo de coluna pretendido.
+A coluna Ligação está disponível em todas as subscrições do SeaTable. No entanto, é provável que esteja a tentar alterar o tipo de coluna de uma coluna existente. Quando [altera]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) o tipo de coluna, o tipo de coluna Ligação a **outras entradas** _não_ está disponível. Em vez disso, crie uma **nova coluna** e ser-lhe-á oferecido o tipo de coluna pretendido.
 
 {{< /faq >}}

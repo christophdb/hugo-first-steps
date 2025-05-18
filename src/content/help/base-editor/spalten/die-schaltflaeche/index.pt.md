@@ -48,6 +48,6 @@ Depois de clicar no botão, o **estado da** factura seleccionada muda para **pag
 
 ### Possibilidade adicional
 
-Para estender a automatização das etapas do processo, também se pode utilizar botões em combinação com [automatizações](https://seatable.io/pt/docs/arbeiten-mit-automationen/anlegen-einer-automation/). No exemplo da aplicação, teria a opção, entre outras coisas, de [bloquear](https://seatable.io/pt/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) as **linhas** com as respectivas facturas que foram definidas para serem pagas para processamento.
+Para estender a automatização das etapas do processo, também se pode utilizar botões em combinação com [automatizações]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) as **linhas** com as respectivas facturas que foram definidas para serem pagas para processamento.
 
 ![Exemplo de aplicação para utilizar o botão em combinação com as automatizações](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)

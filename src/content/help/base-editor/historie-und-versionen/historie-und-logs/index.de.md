@@ -70,7 +70,7 @@ Das **Zeilen-Log** bietet Ihnen die Möglichkeit nachzuvollziehen, wann welcher 
 
 ![Anzeige der Veränderungen in einer Zeile durch Logs.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
 
-Wenn Sie nähere Informationen über das Zeilen-Log benötigen, werfen Sie gerne einen Blick in den entsprechenden [Hilfe-Artikel](https://seatable.io/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/).
+Wenn Sie nähere Informationen über das Zeilen-Log benötigen, werfen Sie gerne einen Blick in den entsprechenden [Hilfe-Artikel]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}).
 
 ## Ausführungslog von Automationen
 

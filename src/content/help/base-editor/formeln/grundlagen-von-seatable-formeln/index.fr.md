@@ -15,7 +15,7 @@ Vous pouvez, entre autres, calculer, fusionner ou mettre en relation les valeurs
 
 ## Création d'une colonne de formules
 
-Pour appliquer une formule, vous devez d'abord ajouter une nouvelle colonne de formule à votre tableau. Pour savoir comment faire, [cliquez ici](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Pour appliquer une formule, vous devez d'abord ajouter une nouvelle colonne de formule à votre tableau. Pour savoir comment faire, [cliquez ici]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Sélection d'une colonne de formules](https://seatable.io/wp-content/uploads/2023/01/select-formula-column.png)
 

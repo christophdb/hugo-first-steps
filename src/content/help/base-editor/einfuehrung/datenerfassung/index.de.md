@@ -12,7 +12,7 @@ Dieser Artikel beleuchtet schlaglichtartig einige Möglichkeiten, wie Sie Daten 
 
 ## Manuelle Eingabe
 
-Wenn Sie gerade eine Tabelle geöffnet haben, können Sie einfach mit der Maus in eine Zelle klicken und Daten über Ihre Tastatur eingeben. Fügen Sie der Tabelle dafür gegebenenfalls eine [neue Zeile](https://seatable.io/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) oder eine [neue Spalte](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) hinzu.
+Wenn Sie gerade eine Tabelle geöffnet haben, können Sie einfach mit der Maus in eine Zelle klicken und Daten über Ihre Tastatur eingeben. Fügen Sie der Tabelle dafür gegebenenfalls eine [neue Zeile]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) hinzu.
 
 ## Copy-and-Paste
 

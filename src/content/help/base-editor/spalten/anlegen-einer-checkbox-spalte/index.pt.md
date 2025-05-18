@@ -17,7 +17,7 @@ No SeaTable, tem a opção de adicionar **colunas de caixas de verificação** �
 1. Clique no **símbolo \[+\]** à direita da última coluna de qualquer tabela.
 2. Dê um **nome** à coluna.
 3. Seleccione a **caixa de verificação** como o tipo de coluna.
-4. Decidir se o [valor por defeito](https://seatable.io/pt/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) da coluna deve estar **vazio** ou **assinalado**.
+4. Decidir se o [valor por defeito]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) da coluna deve estar **vazio** ou **assinalado**.
 5. Confirmar com **Submeter**.
 
 ## Opções de estilo de uma coluna de caixa de verificação

@@ -21,7 +21,7 @@ url: '/ru/help/die-status-zeile-und-ihre-funktionen'
 
 ![В строке состояния всегда указывается количество строк в текущем открытом представлении таблицы](images/status-cell-function-1.jpg)
 
-Кроме того, можно [выбрать](https://seatable.io/ru/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) отдельные [строки](https://seatable.io/ru/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) - тогда строка состояния относится только к выбранным записям.
+Кроме того, можно [выбрать]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) - тогда строка состояния относится только к выбранным записям.
 
 ## Указание значения, рассчитанного по всем записям
 

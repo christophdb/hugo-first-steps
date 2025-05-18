@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/mehrere-zeilen-selektieren'
 ---
 
-Es kommt sicher vor, dass Sie **mehrere Zeilen** gleichzeitig [kopieren](https://seatable.io/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/), [löschen](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) oder für die Bearbeitung [sperren](https://seatable.io/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) möchten. Um diese Aktionen durchzuführen, müssen Sie die gewünschten Zeilen vorher **auswählen**.
+Es kommt sicher vor, dass Sie **mehrere Zeilen** gleichzeitig [kopieren]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) möchten. Um diese Aktionen durchzuführen, müssen Sie die gewünschten Zeilen vorher **auswählen**.
 
 SeaTable bietet **drei** verschiedene Arten an, um mehrere Zeilen zu selektieren und dann die gewünschte Aktion durchzuführen. In diesem Artikel geht es nur um die **Selektion** der gewünschten Zeilen. Mehr zu den **Aktionen** erfahren Sie in den oben verlinkten Artikeln.
 

@@ -20,7 +20,7 @@ Zudem fügt SeaTable jeder neu erstellten Tabelle automatisch eine **Text-Spalte
 
 ![Die "reguläre" Textspalte ](images/text-column-new.png)
 
-Die **erste Spalte** einer Tabelle weist mehrere [Besonderheiten](https://seatable.io/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) auf, wie Sie im verlinkten Artikel nachlesen können.
+Die **erste Spalte** einer Tabelle weist mehrere [Besonderheiten]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) auf, wie Sie im verlinkten Artikel nachlesen können.
 
 ### Verwendung der Text-Spalte
 
@@ -38,7 +38,7 @@ Es gibt in SeaTable zwei weitere textbasierte Spaltentypen für spezielle Anwend
 
 ### Standardwert festlegen
 
-Sie können für jede Text-Spalte einen voreingestellten [Standardwert](https://seatable.io/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) festlegen. Dieser wird automatisch in jede neue Zeile der Tabelle eingetragen.
+Sie können für jede Text-Spalte einen voreingestellten [Standardwert]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) festlegen. Dieser wird automatisch in jede neue Zeile der Tabelle eingetragen.
 
 Wenn Sie als Standardwert die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
 

@@ -14,7 +14,7 @@ Une colonne de choix multiples est idéale si vous souhaitez attribuer à vos li
 
 ## Création d'une colonne de sélection multiple
 
-La création d'une colonne de sélection multiple est un jeu d'enfant et se fait en quelques clics. Vous trouverez des informations détaillées sous [Ajouter une colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+La création d'une colonne de sélection multiple est un jeu d'enfant et se fait en quelques clics. Vous trouverez des informations détaillées sous [Ajouter une colonne]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 1. Cliquez sur le **symbole \[+\]** à droite de la dernière colonne de n'importe quel tableau.
 2. Donnez un **nom** à la nouvelle colonne.

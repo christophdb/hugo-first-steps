@@ -82,9 +82,9 @@ Das war auch schon Schritt 1 dieses Online Kurses. Scrollen Sie bis ans Ende die
 ## Hilfeartikel mit weiteren Informationen
 
 - [Eine neue Base erstellen]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Wie man den Spaltentyp anpasst](https://seatable.io/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/)
-- [Löschen einer Zeile](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
-- [Hinzufügen einer Spalte](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/)
+- [Wie man den Spaltentyp anpasst]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
+- [Löschen einer Zeile]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
+- [Hinzufügen einer Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
 - [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte/)
-- [Besonderheiten der ersten Spalte](https://seatable.io/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/)
+- [Besonderheiten der ersten Spalte]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Aussehen einer Base anpassen (Icon und Farbe)](https://seatable.io/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/)

@@ -15,7 +15,7 @@ SeaTable предлагает множество различных функци
 
 ## Создание столбца формул
 
-Чтобы применить формулу, необходимо сначала добавить в таблицу новый столбец формул. Как это сделать, можно узнать [здесь](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Чтобы применить формулу, необходимо сначала добавить в таблицу новый столбец формул. Как это сделать, можно узнать [здесь]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Выбор столбца формулы](https://seatable.io/wp-content/uploads/2023/01/select-formula-column.png)
 

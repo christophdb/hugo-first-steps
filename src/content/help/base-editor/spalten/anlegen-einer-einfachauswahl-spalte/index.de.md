@@ -1,11 +1,11 @@
 ---
-title: "Anlegen einer Einfachauswahl-Spalte"
+title: 'Anlegen einer Einfachauswahl-Spalte'
 date: 2022-10-10
-lastmod: "2024-04-15"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/de/hilfe/anlegen-einer-einfachauswahl-spalte"
+lastmod: '2024-04-15'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/de/hilfe/anlegen-einer-einfachauswahl-spalte'
 ---
 
 Eine Einfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen **genau eine Option** aus einer zu definierenden Liste von Optionen zuweisen möchten. Die Optionen erhalten bunte **Labels**, mit denen Sie Ihre Datensätze in **Kategorien** einordnen und Tabellen übersichtlich gestalten können.
@@ -14,7 +14,7 @@ Eine Einfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen **genau eine Option*
 
 ## Anlegen einer Einfachauswahl-Spalte
 
-Das Anlegen einer Einfachauswahl-Spalte ist kinderleicht und mit wenigen Klicks erledigt. Ausführliche Informationen finden Sie unter [Hinzufügen einer Spalte](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Das Anlegen einer Einfachauswahl-Spalte ist kinderleicht und mit wenigen Klicks erledigt. Ausführliche Informationen finden Sie unter [Hinzufügen einer Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Anlegen einer Einfachauswahl-Spalte](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
 

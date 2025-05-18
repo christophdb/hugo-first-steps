@@ -10,7 +10,7 @@ url: '/help/der-spaltentyp-automatische-nummer'
 
 The **Automatic number** column type generates an automatically increasing number for each new row. This column type is used whenever you need a unique identifier for each record.
 
-Note that this column is _not_ intended to count the number of records in a table. If you [delete a row](https://seatable.io/en/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) , the remaining records will _not_ be renumbered. This can lead to **gaps** in the numbering.
+Note that this column is _not_ intended to count the number of records in a table. If you [delete a row]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) , the remaining records will _not_ be renumbered. This can lead to **gaps** in the numbering.
 
 To **renumber** your records (for example, to eliminate gaps), you can either delete the _Automatic Number_ column and recreate it, or change the column type and then convert it to _Automatic Number_ again.
 

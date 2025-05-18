@@ -14,7 +14,7 @@ Esta função permite que conjuntos de dados comuns sejam utilizados, por exempl
 
 ## Adicionar colunas a uma tabela criada com um registo comum
 
-A adição de colunas funciona da **mesma forma que com as tabelas habituais**. Pode encontrar instruções detalhadas clicando [aqui](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+A adição de colunas funciona da **mesma forma que com as tabelas habituais**. Pode encontrar instruções detalhadas clicando [aqui]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Adicionar colunas a uma tabela criada com um registo comum](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
 

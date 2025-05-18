@@ -70,7 +70,7 @@ url: '/ru/help/historie-und-logs'
 
 ![Отображение изменений в строке по журналам.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
 
-Если вам нужна дополнительная информация о журнале строк, пожалуйста, посмотрите соответствующую [статью справки](https://seatable.io/ru/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/).
+Если вам нужна дополнительная информация о журнале строк, пожалуйста, посмотрите соответствующую [статью справки]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}).
 
 ## Журнал выполнения автоматизаций
 

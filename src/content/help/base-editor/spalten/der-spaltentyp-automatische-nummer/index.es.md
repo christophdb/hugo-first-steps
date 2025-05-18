@@ -10,7 +10,7 @@ url: '/es/ayuda/der-spaltentyp-automatische-nummer'
 
 El tipo de columna **Número automático** genera un número creciente automáticamente para cada nueva fila. Este tipo de columna se utiliza cuando se necesita un identificador único para cada registro.
 
-Tenga en cuenta que esta columna _no_ sirve para contar el número de registros de una tabla. Si [elimina una fila](https://seatable.io/es/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/), los registros restantes _no_ se vuelven a numerar. Esto puede dar lugar a **lagunas** en la numeración.
+Tenga en cuenta que esta columna _no_ sirve para contar el número de registros de una tabla. Si [elimina una fila]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}), los registros restantes _no_ se vuelven a numerar. Esto puede dar lugar a **lagunas** en la numeración.
 
 Para **volver a numerar** los registros (por ejemplo, para eliminar huecos), puede eliminar la columna Número _automático_ y volver a crearla, o cambiar el tipo de columna y convertirla de nuevo en _Número automático_.
 

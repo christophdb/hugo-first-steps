@@ -17,7 +17,7 @@ In SeaTable, you have the option of adding **checkbox columns** to your tables. 
 1. Click the **\[+\] icon** to the right of the last column of any table.
 2. Give the column a **name**.
 3. Select **Checkbox** as the column type.
-4. Decide whether the [default value](https://seatable.io/en/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) of the column should be **empty** or **checked**.
+4. Decide whether the [default value]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) of the column should be **empty** or **checked**.
 5. Confirm with **Submit**.
 
 ## Style options of a checkbox column

@@ -26,5 +26,5 @@ url: '/ru/help/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
 - [Удаление базы](https://seatable.io/ru/docs/arbeiten-mit-bases/loeschen-einer-base/)
 - [Очистка корзины в командной администрации](https://seatable.io/ru/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
 - [Удаление таблицы из базы](https://seatable.io/ru/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
-- [Удалить строку](https://seatable.io/ru/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
+- [Удалить строку]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Импорт и экспорт данных](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/)

@@ -32,11 +32,11 @@ You perform data processing operations either **manually** or **by automation**.
 
 ## Consequences of execution
 
-Each time the data processing operation is executed, the **results** are written to the **results column** regardless. If you do not want to overwrite any data, you should [create](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) a [new empty column](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) for the results in advance.
+Each time the data processing operation is executed, the **results** are written to the **results column** regardless. If you do not want to overwrite any data, you should [create]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) for the results in advance.
 
 Unlike **formula** columns that permanently monitor the columns involved, **result columns** do not update themselves. Changes to the values in the source column do not affect the values in the result column without [automation](https://seatable.io/en/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) or re-execution.
 
-Therefore, to prevent misunderstandings, we recommend that you do **not** make **any** manual changes to the columns involved and [lock](https://seatable.io/en/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) them [for editing](https://seatable.io/en/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) after execution for security (requires a Plus or Enterprise subscription).
+Therefore, to prevent misunderstandings, we recommend that you do **not** make **any** manual changes to the columns involved and [lock]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) after execution for security (requires a Plus or Enterprise subscription).
 
 ![Result columns of data processing actions locked for processing ](images/locked-score-columns.jpg)
 

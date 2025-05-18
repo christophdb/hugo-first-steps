@@ -15,7 +15,7 @@ Among other things, you can calculate with values in a row , merge them or relat
 
 ## Create a formula column
 
-To apply a formula, you must first add a new formula column to your table. You can learn how to do that [here](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+To apply a formula, you must first add a new formula column to your table. You can learn how to do that [here]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Selection of a formula column](https://seatable.io/wp-content/uploads/2023/01/select-formula-column.png)
 

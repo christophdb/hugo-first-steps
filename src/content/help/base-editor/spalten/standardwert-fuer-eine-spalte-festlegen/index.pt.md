@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/standardwert-fuer-eine-spalte-festlegen'
 ---
 
-Se definir um **valor prede** finido para uma coluna, este é **automaticamente introduzido em cada nova linha** da tabela. Com valores predefinidos, pode poupar alguns cliques ao [adicionar novas linhas](https://seatable.io/pt/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/). É claro que pode ajustar manualmente os valores introduzidos automaticamente mais tarde.
+Se definir um **valor prede** finido para uma coluna, este é **automaticamente introduzido em cada nova linha** da tabela. Com valores predefinidos, pode poupar alguns cliques ao [adicionar novas linhas]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). É claro que pode ajustar manualmente os valores introduzidos automaticamente mais tarde.
 
 ## Como definir valores por defeito
 
@@ -22,7 +22,7 @@ Se definir um **valor prede** finido para uma coluna, este é **automaticamente 
 
 {{< warning  headline="Atenção"  text="Os valores por defeito são utilizados **universalmente** na criação de novas linhas, ou seja, as linhas criadas através de uma ação automática ou de um botão também contêm os valores por defeito." />}}
 
-Também é possível definir um valor por defeito diretamente ao [criar uma nova coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Também é possível definir um valor por defeito diretamente ao [criar uma nova coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ## Para que tipos de colunas é possível definir valores por defeito
 
@@ -67,7 +67,7 @@ Se especificar a referência **{creator.name}** ou **{creator.id}** como valor p
 
 Os valores predefinidos aplicam-se **sempre que** é possível criar novas linhas:
 
-- num [quadro](https://seatable.io/pt/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+- num [quadro]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - numa [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - via [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (ação: "Copiar linha para outra tabela")
 - através da [automatização](https://seatable.io/pt/docs/automationen/automations-aktionen/) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")

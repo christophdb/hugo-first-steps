@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 ---
 
-Если вы зададите **значение по умолчанию** для столбца, оно будет **автоматически вводиться в каждую новую строку** таблицы. Благодаря предопределенным значениям по умолчанию вы можете сэкономить несколько кликов при [добавлении новых строк](https://seatable.io/ru/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/). Разумеется, впоследствии вы можете вручную скорректировать автоматически введенные значения.
+Если вы зададите **значение по умолчанию** для столбца, оно будет **автоматически вводиться в каждую новую строку** таблицы. Благодаря предопределенным значениям по умолчанию вы можете сэкономить несколько кликов при [добавлении новых строк]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Разумеется, впоследствии вы можете вручную скорректировать автоматически введенные значения.
 
 ## Как установить значения по умолчанию
 
@@ -22,7 +22,7 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 
 {{< warning  headline="Внимание"  text="Значения по умолчанию используются **повсеместно** при создании новых строк, т. е. строки, созданные с помощью автоматического или кнопочного действия, также содержат значения по умолчанию." />}}
 
-Вы также можете задать значение по умолчанию непосредственно при [создании нового столбца](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Вы также можете задать значение по умолчанию непосредственно при [создании нового столбца]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ## Для каких типов столбцов можно задать значения по умолчанию
 
@@ -67,7 +67,7 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 
 Значения по умолчанию применяются **везде, где** можно создавать новые строки:
 
-- в [таблице](https://seatable.io/ru/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+- в [таблице]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - в [колонке ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - через [кнопку](https://seatable.io/ru/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (действие: "Скопировать строку в другую таблицу")
 - с помощью [автоматизации](https://seatable.io/ru/docs/automationen/automations-aktionen/) (действия: "Добавить строку" и "Добавить новую запись в другую таблицу")

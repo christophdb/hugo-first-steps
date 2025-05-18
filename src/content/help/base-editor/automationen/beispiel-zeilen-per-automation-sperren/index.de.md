@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/zeilen-per-automation-sperren'
 ---
 
-Mithilfe von Automationen müssen Sie Zeilen in Ihren Tabellen nicht mehr manuell sperren, sondern können die [Sperrung von Zeilen](https://seatable.io/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) automatisch ausführen lassen. Das ist sehr nützlich, wenn Sie immer ab einem bestimmten Zeitpunkt (z. B. wenn ein Vorgang abgeschlossen ist) verhindern wollen, dass eine Zeile weiter bearbeitet werden kann.
+Mithilfe von Automationen müssen Sie Zeilen in Ihren Tabellen nicht mehr manuell sperren, sondern können die [Sperrung von Zeilen]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) automatisch ausführen lassen. Das ist sehr nützlich, wenn Sie immer ab einem bestimmten Zeitpunkt (z. B. wenn ein Vorgang abgeschlossen ist) verhindern wollen, dass eine Zeile weiter bearbeitet werden kann.
 
 ![Mit einer Automation eine Zeile sperren](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
 
@@ -58,7 +58,7 @@ Ab diesem Moment wird die angelegte Automation **alle Zeilen** sperren, in denen
 
 Automationen sind äußerst hilfreich, wenn Sie mehrere Zeilen gleichzeitig sperren wollen. Wählen Sie dazu den Trigger **Periodisch für Einträge ausführen, die die Bedingungen erfüllen** und legen Sie die entsprechenden Bedingungen fest. Anstatt die Ausführungshäufigkeit und -zeit einzustellen, klicken Sie unten auf **Jetzt ausführen**, um alle gewünschten Zeilen sofort zu sperren.
 
-Mehr Informationen zur Sperrung von Zeilen erhalten Sie im Artikel [Sperren einer Zeile](https://seatable.io/docs/arbeiten-mit-zeilen/sperren-einer-zeile/).
+Mehr Informationen zur Sperrung von Zeilen erhalten Sie im Artikel [Sperren einer Zeile]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}).
 
 ### Weitere hilfreiche Artikel in der Rubrik Automationen:
 

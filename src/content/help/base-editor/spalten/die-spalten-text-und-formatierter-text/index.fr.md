@@ -20,7 +20,7 @@ De plus, SeaTable ajoute automatiquement une **colonne de texte** comme premièr
 
 ![La colonne de texte "régulière ](images/text-column-new.png)
 
-La **première colonne** d'un tableau présente plusieurs [particularités](https://seatable.io/fr/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/), comme vous pouvez le lire dans l'article en lien.
+La **première colonne** d'un tableau présente plusieurs [particularités]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}), comme vous pouvez le lire dans l'article en lien.
 
 ### Utilisation de la colonne de texte
 
@@ -38,7 +38,7 @@ Il existe dans SeaTable deux autres types de colonnes basées sur le texte pour 
 
 ### Définir la valeur par défaut
 
-Vous pouvez définir une [valeur par défaut](https://seatable.io/fr/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) prédéfinie pour chaque colonne de texte. Celle-ci sera automatiquement insérée dans chaque nouvelle ligne du tableau.
+Vous pouvez définir une [valeur par défaut]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) prédéfinie pour chaque colonne de texte. Celle-ci sera automatiquement insérée dans chaque nouvelle ligne du tableau.
 
 Si vous définissez la référence **{creator.name}** ou **{creator.id}** comme valeur par défaut, le **nom** ou l'**ID de l'utilisateur** qui a ajouté la ligne sera automatiquement saisi.
 

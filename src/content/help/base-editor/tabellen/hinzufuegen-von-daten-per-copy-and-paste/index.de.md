@@ -22,7 +22,7 @@ SeaTable unterstützt Sie sogar so weit, dass es bei Bedarf zusätzliche Spalten
 
 Manchmal ist es schneller, eine ganze Zeile oder Spalte zu duplizieren. Hier erfahren Sie, wie das geht:
 
-- [Duplizieren einer Zeile](https://seatable.io/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/)
+- [Duplizieren einer Zeile]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}})
 - [Duplizieren einer Spalte](https://seatable.io/docs/spalten/duplizieren-einer-spalte/)
 
 ## Profi-Tipp

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/standardwert-fuer-eine-spalte-festlegen'
 ---
 
-If you define a **default value** for a column, this is **automatically entered in every new row** in the table. With predefined default values, you can save yourself a few clicks when [adding new rows](https://seatable.io/en/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/). Of course, you can still adjust the automatically entered values manually afterwards.
+If you define a **default value** for a column, this is **automatically entered in every new row** in the table. With predefined default values, you can save yourself a few clicks when [adding new rows]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Of course, you can still adjust the automatically entered values manually afterwards.
 
 ## How to set default values
 
@@ -22,7 +22,7 @@ If you define a **default value** for a column, this is **automatically entered 
 
 {{< warning  headline="Attention"  text="Default values are used **universally** when creating new rows, i.e. rows, which are created via an automated or button action, also contain the default values." />}}
 
-You can also define a default value directly when [creating a new column](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+You can also define a default value directly when [creating a new column]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ## For which column types you can define default values
 
@@ -67,7 +67,7 @@ If you specify the reference **{creator.name}** or **{creator.id}** as the defau
 
 The default values apply **wherever** you can create new rows :
 
-- in a [table](https://seatable.io/en/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+- in a [table]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - in a [link column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - via [button](https://seatable.io/en/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (action: "Copyrow to another table")
 - via [automation](https://seatable.io/en/docs/automationen/automations-aktionen/) (actions: "Addrow " and "Add new entry in another table")

@@ -1,11 +1,11 @@
 ---
-title: "Die Schaltfläche"
+title: 'Die Schaltfläche'
 date: 2023-01-07
-lastmod: "2023-08-23"
-categories: 
-  - "andere-spalten"
-author: "nsc2"
-url: "/de/hilfe/die-schaltflaeche"
+lastmod: '2023-08-23'
+categories:
+    - 'andere-spalten'
+author: 'nsc2'
+url: '/de/hilfe/die-schaltflaeche'
 ---
 
 Die Schaltflächen-Spalte besitzt eine ähnliche Funktion wie [Automationen](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/), wobei Sie Schaltflächen immer **manuell** bedienen müssen. Mithilfe des **Buttons**, den Sie in dieser Spalte Ihren **Zeilen** hinzufügen können, lösen Sie im Vorhinein definierte **Aktionen** aus. Aus diesem Grund eignet sich dieser Spaltentyp besonders gut für die Automatisierung von Prozessschritten.
@@ -48,6 +48,6 @@ Nach einem Klick auf die Schaltfläche ändert sich der **Status** der ausgewäh
 
 ### Zusätzliche Möglichkeit
 
-Um die Automatisierung von Prozessschritten zu erweitern, können Sie Schaltflächen auch in Kombination mit [Automationen](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/) nutzen. Im Anwendungsbeispiel hätten Sie dabei unter anderem die Möglichkeit, die **Zeilen** mit den jeweiligen Rechnungen, die auf bezahlt gesetzt wurden, für die Bearbeitung zu [sperren](https://seatable.io/docs/arbeiten-mit-zeilen/sperren-einer-zeile/).
+Um die Automatisierung von Prozessschritten zu erweitern, können Sie Schaltflächen auch in Kombination mit [Automationen]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}).
 
 ![Anwendungs-Beispiel für die Nutzung der Schaltfläche in Kombination mit Automationen](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)

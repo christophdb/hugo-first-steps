@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/standardwert-fuer-eine-spalte-festlegen'
 ---
 
-Wenn Sie einen **Standardwert** für eine Spalte festlegen, wird dieser **automatisch in jede neue Zeile** der Tabelle eingetragen. Mit vordefinierten Standardwerten können Sie sich also einige Klicks beim [Hinzufügen neuer Zeilen](https://seatable.io/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) ersparen. Die automatisch eingetragenen Werte können Sie anschließend natürlich noch manuell anpassen.
+Wenn Sie einen **Standardwert** für eine Spalte festlegen, wird dieser **automatisch in jede neue Zeile** der Tabelle eingetragen. Mit vordefinierten Standardwerten können Sie sich also einige Klicks beim [Hinzufügen neuer Zeilen]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) ersparen. Die automatisch eingetragenen Werte können Sie anschließend natürlich noch manuell anpassen.
 
 ## Wie Sie Standardwerte festlegen
 
@@ -22,7 +22,7 @@ Wenn Sie einen **Standardwert** für eine Spalte festlegen, wird dieser **automa
 
 {{< warning type="warning" headline="Achtung" text="Standardwerte finden **universelle** Anwendung bei der Anlage neuer Zeilen, d.h. auch Zeilen, die über eine automatisierte oder Schaltflächen-Aktion erstellt werden, enthalten die Standardwerte." />}}
 
-Zudem können Sie bereits beim [Anlegen einer neuen Spalte](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) direkt einen Standardwert festlegen.
+Zudem können Sie bereits beim [Anlegen einer neuen Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) direkt einen Standardwert festlegen.
 
 ## Für welche Spaltentypen Sie Standardwerte festlegen können
 
@@ -68,7 +68,7 @@ Wenn Sie als Standardwert in einer [Text-Spalte](https://seatable.io/docs/text-u
 
 Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 
-- in einer [Tabelle](https://seatable.io/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+- in einer [Tabelle]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - in einer [Link-Spalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - per [Schaltfläche](https://seatable.io/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (Aktion: „Zeile in andere Tabelle kopieren“)
 - per [Automation](https://seatable.io/docs/automationen/automations-aktionen/) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)

@@ -14,8 +14,8 @@ Quer **apagar** a primeira coluna da sua tabela e fica surpreendido por a opçã
 
 O facto de **não** se **poder apagar** a primeira coluna de uma tabela deve-se à importante função desta coluna. Baseia-se na **chave primária** das bases de dados relacionais e é também utilizada no SeaTable para **designar um registo de dados**. Por esta razão, a primeira coluna de uma tabela tem várias **características especiais** em comparação com as outras colunas, incluindo a propriedade de que não pode ser apagada.
 
-Pode conhecer todas as outras características especiais da primeira coluna no artigo [As características especiais da primeira coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/).
+Pode conhecer todas as outras características especiais da primeira coluna no artigo [As características especiais da primeira coluna]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}).
 
 ## E se eu quiser usar uma primeira coluna diferente?
 
-Se quiser utilizar outra coluna como primeira coluna, pode [ajustar](https://seatable.io/pt/docs/arbeiten-mit-spalten/anpassen-der-ersten-spalte/) a primeira coluna. Antes de o fazer, pode [criar](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) uma [nova](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) coluna e simplesmente [copiar e colar](https://seatable.io/pt/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) os dados da primeira coluna anterior para a nova coluna.
+Se quiser utilizar outra coluna como primeira coluna, pode [ajustar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) coluna e simplesmente [copiar e colar](https://seatable.io/pt/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste") os dados da primeira coluna anterior para a nova coluna.

@@ -47,7 +47,7 @@ Bases lassen sich nicht nur mit anderen SeaTable Benutzern teilen. Über eine ex
 
 ## Kommentare
 
-Um Diskussionen dort zu führen, wo sie hingehören, können Sie jeden Tabelleneintrag [kommentieren](https://seatable.io/docs/arbeiten-mit-zeilen/zeilen-kommentieren/). Gruppenmitglieder und andere Personen mit Zugriff auf die Base werden über die Kommentare informiert und können antworten. So bleibt die gesamte Diskussion zu einem Thema direkt in der Base. Die Suche nach einer Diskussion in alten E-Mails, in einem Chat oder Protokoll ist ein Ding der Vergangenheit.
+Um Diskussionen dort zu führen, wo sie hingehören, können Sie jeden Tabelleneintrag [kommentieren]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Gruppenmitglieder und andere Personen mit Zugriff auf die Base werden über die Kommentare informiert und können antworten. So bleibt die gesamte Diskussion zu einem Thema direkt in der Base. Die Suche nach einer Diskussion in alten E-Mails, in einem Chat oder Protokoll ist ein Ding der Vergangenheit.
 
 ## Benachrichtigungen
 

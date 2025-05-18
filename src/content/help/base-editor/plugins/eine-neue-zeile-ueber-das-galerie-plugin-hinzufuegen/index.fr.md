@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 ---
 
-Normalement, vous [créez](https://seatable.io/fr/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) de nouvelles lignes dans l **'affichage du tableau**. Dans le **plug-in Galerie**, vous avez toutefois aussi cette possibilité. La nouvelle ligne créée est affichée dans la galerie en tant qu'**album** et insérée dans le tableau sous toutes les autres lignes.
+Normalement, vous [créez]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) de nouvelles lignes dans l **'affichage du tableau**. Dans le **plug-in Galerie**, vous avez toutefois aussi cette possibilité. La nouvelle ligne créée est affichée dans la galerie en tant qu'**album** et insérée dans le tableau sous toutes les autres lignes.
 
 ## Ajouter une ligne dans la galerie
 

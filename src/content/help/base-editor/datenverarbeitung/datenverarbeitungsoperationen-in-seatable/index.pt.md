@@ -45,13 +45,13 @@ Os dois tipos de operações de tratamento de dados têm **requisitos** diferent
 
 Actualmente, as operações de processamento de dados podem ser executadas [manualmente](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) ou [por automatização](https://seatable.io/pt/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). A equipa de desenvolvimento está a trabalhar para garantir que, no futuro, as operações de processamento de dados também possam ser executadas através de [botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/).
 
-Cada vez que a operação de processamento de dados é executada, os **resultados** são escritos na **coluna de resultados** independentemente. Se não quiser sobregravar quaisquer dados, deve [criar](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) antecipadamente uma [nova coluna vazia](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) para os resultados.
+Cada vez que a operação de processamento de dados é executada, os **resultados** são escritos na **coluna de resultados** independentemente. Se não quiser sobregravar quaisquer dados, deve [criar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para os resultados.
 
 Ao contrário das colunas **de fórmulas**, que monitorizam permanentemente as colunas envolvidas, **as colunas de resultados** _não_ se actualizam. As modificações nos valores da coluna de origem _não_ afetam os valores da coluna de resultado sem [automação](https://seatable.io/pt/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ou reexecução. Portanto, também é possível sobregravar manualmente os valores calculados ou relacionados.
 
 ## Protecção contra alterações
 
-Para evitar mal-entendidos, recomendamos **não** fazer **quaisquer alterações manuais** às colunas envolvidas e [bloqueá-las](https://seatable.io/pt/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) para [edição](https://seatable.io/pt/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) após execução por motivos de segurança (requer uma assinatura Plus ou Enterprise).
+Para evitar mal-entendidos, recomendamos **não** fazer **quaisquer alterações manuais** às colunas envolvidas e [bloqueá-las]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) após execução por motivos de segurança (requer uma assinatura Plus ou Enterprise).
 
 ![Colunas de resultados de acções de processamento de dados bloqueadas para processamento ](images/locked-score-columns.jpg)
 

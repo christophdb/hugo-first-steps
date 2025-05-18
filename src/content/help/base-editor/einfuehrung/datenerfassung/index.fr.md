@@ -12,7 +12,7 @@ Cet article met en lumière quelques-unes des manières dont vous pouvez saisir 
 
 ## Saisie manuelle
 
-Si vous venez d'ouvrir un tableau, vous pouvez simplement cliquer avec la souris dans une cellule et saisir des données au clavier. Pour ce faire, ajoutez éventuellement une [nouvelle ligne](https://seatable.io/fr/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) ou une [nouvelle colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) au tableau.
+Si vous venez d'ouvrir un tableau, vous pouvez simplement cliquer avec la souris dans une cellule et saisir des données au clavier. Pour ce faire, ajoutez éventuellement une [nouvelle ligne]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) au tableau.
 
 ## Copier-coller
 

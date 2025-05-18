@@ -14,7 +14,7 @@ Cette fonction permet d'utiliser des ensembles de données communs, par exemple,
 
 ## Ajouter des colonnes à une table créée avec un enregistrement commun
 
-L'ajout de colonnes fonctionne **de la même manière que pour les tableaux habituels**. Vous trouverez [ici](https://seatable.io/fr/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) des instructions détaillées pour cliquer.
+L'ajout de colonnes fonctionne **de la même manière que pour les tableaux habituels**. Vous trouverez [ici]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) des instructions détaillées pour cliquer.
 
 ![Ajouter des colonnes à une table créée avec un enregistrement commun](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
 

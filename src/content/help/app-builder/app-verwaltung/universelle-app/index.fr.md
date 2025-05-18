@@ -90,7 +90,7 @@ Alors que l'application universelle présente de nombreux avantages par rapport 
 
 ## Commentaires dans les apps universelles
 
-Vous avez néanmoins la possibilité de communiquer avec d'autres membres de l'équipe, même dans une application. Utilisez pour cela la [fonction de commentaire](https://seatable.io/fr/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) que vous connaissez déjà sous la même forme dans la base. Consignez vos commentaires ou des informations supplémentaires sur les jeux de données pour les autres utilisateurs de l'app et menez des discussions sur place.
+Vous avez néanmoins la possibilité de communiquer avec d'autres membres de l'équipe, même dans une application. Utilisez pour cela la [fonction de commentaire]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) que vous connaissez déjà sous la même forme dans la base. Consignez vos commentaires ou des informations supplémentaires sur les jeux de données pour les autres utilisateurs de l'app et menez des discussions sur place.
 
 ![Fonction de commentaire dans les applications universelles](images/Kommentarfunktion-in-Universellen-Apps.png)
 

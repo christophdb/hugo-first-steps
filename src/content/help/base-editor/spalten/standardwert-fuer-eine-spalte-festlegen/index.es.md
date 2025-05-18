@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/standardwert-fuer-eine-spalte-festlegen'
 ---
 
-Si define un **valor** por defecto para una columna, éste se **introduce automáticamente en cada nueva** fila de la tabla. Con los valores por defecto predefinidos, puede ahorrarse unos cuantos clics al [añadir nuevas filas](https://seatable.io/es/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/). Por supuesto, después puede ajustar manualmente los valores introducidos automáticamente.
+Si define un **valor** por defecto para una columna, éste se **introduce automáticamente en cada nueva** fila de la tabla. Con los valores por defecto predefinidos, puede ahorrarse unos cuantos clics al [añadir nuevas filas]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}). Por supuesto, después puede ajustar manualmente los valores introducidos automáticamente.
 
 ## Cómo establecer valores por defecto
 
@@ -22,7 +22,7 @@ Si define un **valor** por defecto para una columna, éste se **introduce autom�
 
 {{< warning  headline="Atención"  text="Los valores por defecto se utilizan **universalmente** al crear nuevas filas, es decir, las filas que se crean mediante una acción automatizada o de botón también contienen los valores por defecto." />}}
 
-También puede definir un valor por defecto directamente al [crear una nueva columna](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+También puede definir un valor por defecto directamente al [crear una nueva columna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ## Para qué tipos de columnas puede definir valores por defecto
 
@@ -67,7 +67,7 @@ Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por
 
 Los valores por defecto se aplican **siempre que** se puedan crear nuevas líneas:
 
-- en una [tabla](https://seatable.io/es/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+- en una [tabla]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - en una [columna de enlaces](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
 - mediante [un botón](https://seatable.io/es/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (acción: "Copiar fila a otra tabla")
 - mediante [automatización](https://seatable.io/es/docs/automationen/automations-aktionen/) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")

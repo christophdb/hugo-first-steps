@@ -59,7 +59,7 @@ Folgende Zahlenformate stehen Ihnen zur Verfügung:
 
 ## Standardwert festlegen und Eingabe validieren
 
-Sie können für jede Zahlen-Spalte einen [Standardwert festlegen](https://seatable.io/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/), der automatisch in jede Zeile eingetragen wird, die Sie Ihrer Tabelle neu hinzufügen.
+Sie können für jede Zahlen-Spalte einen [Standardwert festlegen]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}), der automatisch in jede Zeile eingetragen wird, die Sie Ihrer Tabelle neu hinzufügen.
 
 Um **Fehler** und **Extremwerte** direkt zu identifizieren, können Sie zudem die **Eingabe validieren**. Dazu definieren Sie einen **Zahlenbereich**, in dem die Werte der Spalte liegen sollten; Zellen mit einem höheren oder niedrigeren Wert werden dann farblich hervorgehoben.
 

@@ -17,7 +17,7 @@ url: '/ru/help/anlegen-einer-checkbox-spalte'
 1. Нажмите на **символ \[+\]** справа от последнего столбца любой таблицы.
 2. Дайте колонке **имя**.
 3. Выберите **Checkbox** в качестве типа столбца.
-4. Решите, должно ли [значение](https://seatable.io/ru/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) столбца [по умолчанию](https://seatable.io/ru/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) быть **пустым** или **отмеченным галочкой**.
+4. Решите, должно ли [значение]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) быть **пустым** или **отмеченным галочкой**.
 5. Подтвердите с помощью кнопки **Отправить**.
 
 ## Параметры стиля колонки с флажком

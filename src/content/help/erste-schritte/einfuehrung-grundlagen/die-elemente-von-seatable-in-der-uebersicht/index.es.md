@@ -34,7 +34,7 @@ Cada base consta de una o varias tablas. Las tablas te ayudan a estructurar y re
 
 Cada fila representa un registro relacionado en su tabla. Por ejemplo, si compilas una lista de personas, cada persona recibe una fila con todos sus datos.
 
-[Más información sobre las líneas →](https://seatable.io/es/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+[Más información sobre las líneas →]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 
 ### Columnas
 

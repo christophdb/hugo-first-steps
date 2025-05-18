@@ -40,7 +40,7 @@ Os colaboradores recebem então uma notificação correspondente no Base, à qua
 
 ## Definir valor por defeito
 
-É possível definir um ou mais empregados como o [valor padrão](https://seatable.io/pt/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) numa coluna de empregados. As opções **Usuário atual** ou **Usuários específicos** estão disponíveis para seleção. Sempre que alguém adiciona uma nova linha à tabela, o criador da linha ou as pessoas seleccionadas são automaticamente introduzidas na coluna de empregados.
+É possível definir um ou mais empregados como o [valor padrão]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) numa coluna de empregados. As opções **Usuário atual** ou **Usuários específicos** estão disponíveis para seleção. Sempre que alguém adiciona uma nova linha à tabela, o criador da linha ou as pessoas seleccionadas são automaticamente introduzidas na coluna de empregados.
 
 ![Definir valores predefinidos em colunas de colaboradores](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
 

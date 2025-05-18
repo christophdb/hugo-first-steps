@@ -59,7 +59,7 @@ Utilisation d'une devise personnalisée, pour laquelle le symbole de la devise p
 
 ## Définir la valeur par défaut et valider la saisie
 
-Vous pouvez [définir](https://seatable.io/fr/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) une [valeur par défaut](https://seatable.io/fr/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) pour chaque colonne de chiffres, qui sera automatiquement inscrite sur chaque nouvelle ligne que vous ajoutez à votre tableau.
+Vous pouvez [définir]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) pour chaque colonne de chiffres, qui sera automatiquement inscrite sur chaque nouvelle ligne que vous ajoutez à votre tableau.
 
 Pour identifier directement les **erreurs** et **les valeurs extrêmes**, vous pouvez en outre **valider** la **saisie**. Pour ce faire, vous définissez une **plage de chiffres** dans laquelle les valeurs de la colonne doivent se situer ; les cellules avec une valeur plus élevée ou plus basse sont alors mises en évidence par une couleur.
 

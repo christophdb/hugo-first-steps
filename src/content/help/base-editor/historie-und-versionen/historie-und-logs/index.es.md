@@ -70,7 +70,7 @@ El registro de **línea** le permite ver cuándo qué usuario realizó qué camb
 
 ![Visualización de los cambios en una línea por registros.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
 
-Si necesita más información sobre el registro de líneas, consulte el [artículo de ayuda](https://seatable.io/es/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) correspondiente.
+Si necesita más información sobre el registro de líneas, consulte el [artículo de ayuda]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) correspondiente.
 
 ## Registro de ejecución de automatizaciones
 

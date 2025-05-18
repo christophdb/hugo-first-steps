@@ -12,7 +12,11 @@ Si vous disposez de l'autorisation nécessaire, vous pouvez **verrouiller** l'**
 
 Cela peut être utile, par exemple, si vous travaillez dans un tableau avec d'autres utilisateurs et que vous ne souhaitez pas que des modifications soient apportées à la **structure des colonnes**.
 
-{{< warning  headline="Conseil"  text="Si vous souhaitez uniquement bloquer l'édition de **certaines colonnes** de votre tableau, vous pouvez le faire via les [autorisations de colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/)." />}}
+{{< warning  headline="Conseil" >}}
+
+Si vous souhaitez uniquement bloquer l'édition de **certaines colonnes** de votre tableau, vous pouvez le faire via les [autorisations de colonne]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}).
+
+{{< /warning >}}
 
 ## Verrouiller l'en-tête du tableau
 

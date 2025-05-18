@@ -12,7 +12,7 @@ Este artículo destaca algunas de las formas en que puede capturar datos en SeaT
 
 ## Entrada manual
 
-Si acaba de abrir una tabla, puede simplemente hacer clic con el ratón en una celda e introducir los datos mediante el teclado. Si es necesario, añada una nueva [fila](https://seatable.io/es/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/) o una [nueva columna](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) a la tabla para este fin.
+Si acaba de abrir una tabla, puede simplemente hacer clic con el ratón en una celda e introducir los datos mediante el teclado. Si es necesario, añada una nueva [fila]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) a la tabla para este fin.
 
 ## Copiar y pegar
 

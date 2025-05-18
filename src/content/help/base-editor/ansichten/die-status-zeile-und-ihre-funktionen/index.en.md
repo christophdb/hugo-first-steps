@@ -21,7 +21,7 @@ The status-row indicates at the lower left margin the number of all **rows** tha
 
 ![The statusrow always indicates the number of rows in the currently opened table view.](images/status-cell-function-1.jpg)
 
-In addition, you can [select](https://seatable.io/en/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) individual [rows - then the status](https://seatable.io/en/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/)row refers only to the selected entries.
+In addition, you can [select]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}})row refers only to the selected entries.
 
 ## Specification of a value calculated from all entries
 

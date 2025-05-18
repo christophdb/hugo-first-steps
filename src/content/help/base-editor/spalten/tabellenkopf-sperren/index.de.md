@@ -12,7 +12,11 @@ Wenn Sie über die notwendige Berechtigung verfügen, können Sie in jeder Tabel
 
 Sinnvoll kann dies beispielsweise sein, wenn Sie mit anderen Benutzern gemeinsam in einer Tabelle arbeiten und nicht möchten, dass Änderungen an der **Spaltenstruktur** vorgenommen werden dürfen.
 
-{{< warning  type="warning" headline="Tipp"  text="Wenn Sie lediglich **einzelne Spalten** Ihrer Tabelle für die Bearbeitung sperren möchten, können Sie dies über die [Spaltenberechtigungen](\"https://seatable.io/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/\") erledigen." />}}
+{{< warning  type="warning" headline="Tipp" >}}
+
+Wenn Sie lediglich **einzelne Spalten** Ihrer Tabelle für die Bearbeitung sperren möchten, können Sie dies über die [Spaltenberechtigungen]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen/" >}}) erledigen.
+
+{{< /warning >}}
 
 ## Tabellenkopf sperren
 
@@ -31,7 +35,7 @@ Bitte beachten Sie, dass der Kopf von Tabellen, die zu einer Gruppe gehören, au
 
 ## Auswirkungen der Sperrung
 
-Nach der Sperrung des Tabellenkopfes können Sie der entsprechenden Tabelle **keine Spalten mehr hinzufügen**, bis die Sperrung wieder aufgehoben wird. Das **\[+\]-Symbol** zum [Hinzufügen einer Spalte](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) wird Ihnen folglich in Tabellen mit gesperrtem Tabellenkopf **nicht** angezeigt.
+Nach der Sperrung des Tabellenkopfes können Sie der entsprechenden Tabelle **keine Spalten mehr hinzufügen**, bis die Sperrung wieder aufgehoben wird. Das **\[+\]-Symbol** zum [Hinzufügen einer Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) wird Ihnen folglich in Tabellen mit gesperrtem Tabellenkopf **nicht** angezeigt.
 
 ![Fehlendes Symbol zum Hinzufügen von Spalten in Tabellen mit gesperrtem Tabellenkopf](images/tables-with-locked-table-head.png)
 

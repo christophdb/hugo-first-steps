@@ -21,7 +21,7 @@ A linha de estado indica na margem inferior esquerda o número de todas as **fil
 
 ![A linha de estado indica sempre o número de filas na vista da tabela actualmente aberta](images/status-cell-function-1.jpg)
 
-Além disso, pode [seleccionar linhas](https://seatable.io/pt/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/) individuais - depois a linha de estado refere-se apenas às entradas seleccionadas.
+Além disso, pode [seleccionar linhas]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) individuais - depois a linha de estado refere-se apenas às entradas seleccionadas.
 
 ## Indicação de um valor calculado a partir de todas as entradas
 

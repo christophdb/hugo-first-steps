@@ -12,7 +12,11 @@ Se tiver a autorização necessária, pode **bloquear** o **cabeçalho da tabela
 
 Isto pode ser útil, por exemplo, se trabalhar em conjunto com outros utilizadores numa tabela e não quiser que sejam feitas alterações à **estrutura da coluna**.
 
-{{< warning  headline="Dica"  text="Se quiser apenas bloquear **colunas individuais da** sua tabela para edição, pode fazê-lo através das [permissões das colunas](https://seatable.io/pt/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/)." />}}
+{{< warning  headline="Dica" >}}
+
+Se quiser apenas bloquear **colunas individuais da** sua tabela para edição, pode fazê-lo através das [permissões das colunas]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}).
+
+{{< /warning >}}
 
 ## Cabeçalho de mesa de bloqueio
 

@@ -14,7 +14,7 @@ Uma coluna de selecção única é ideal se quiser atribuir **exactamente uma op
 
 ## Criar uma coluna de selecção única
 
-A criação de uma coluna de selecção única é uma brincadeira de criança e feita com apenas alguns cliques. Para informações detalhadas, ver [Acrescentar uma coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+A criação de uma coluna de selecção única é uma brincadeira de criança e feita com apenas alguns cliques. Para informações detalhadas, ver [Acrescentar uma coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Criar uma coluna de selecção única](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
 

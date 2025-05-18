@@ -12,7 +12,11 @@ Si dispone de la autorización necesaria, puede bloquear la **cabecera de** cada
 
 Esto puede ser útil, por ejemplo, si trabajas con otros usuarios en una tabla y no quieres que se realicen cambios en la **estructura de columnas**.
 
-{{< warning  headline="Consejo"  text="Si sólo desea bloquear **columnas individuales de** su tabla para su edición, puede hacerlo a través de los [permisos de columna](https://seatable.io/es/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/)." />}}
+{{< warning  headline="Consejo" >}}
+
+Si sólo desea bloquear **columnas individuales de** su tabla para su edición, puede hacerlo a través de los [permisos de columna]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}).
+
+{{< /warning >}}
 
 ## Bloquear cabecera de tabla
 

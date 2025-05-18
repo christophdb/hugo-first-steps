@@ -14,7 +14,7 @@ A multi-select column is ideal if you want to assign your rows in a column **sev
 
 ## Create a multiple selection column
 
-Creating a multi-selection column is easy as pie and done with just a few clicks. For detailed information, see [Add a column](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Creating a multi-selection column is easy as pie and done with just a few clicks. For detailed information, see [Add a column]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 1. Click the **\[+\] icon** to the right of the last column of any table.
 2. Give the new column a **name**.

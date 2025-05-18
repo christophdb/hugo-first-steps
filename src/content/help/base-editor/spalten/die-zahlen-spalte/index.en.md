@@ -59,7 +59,7 @@ Use of a custom currency where the currency symbol can be entered individually.
 
 ## Set default value and validate input
 
-You can [define](https://seatable.io/en/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) a [default value](https://seatable.io/en/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) for each number column, which is automatically entered in every row that you add to your table.
+You can [define]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) for each number column, which is automatically entered in every row that you add to your table.
 
 To identify **errors** and **extreme values** directly, you can also **validate** the **input**. To do this, define a **numerical range** in which the values of the column should lie; cells with a higher or lower value are then highlighted in color.
 

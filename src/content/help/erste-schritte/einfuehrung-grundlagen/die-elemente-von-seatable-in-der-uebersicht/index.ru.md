@@ -34,7 +34,7 @@ url: '/ru/help/die-elemente-von-seatable-in-der-uebersicht'
 
 Каждая строка представляет собой связанную запись в вашей таблице. Например, если вы составляете список лиц, каждое лицо получает строку со всеми своими данными.
 
-[Подробнее о линиях →](https://seatable.io/ru/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+[Подробнее о линиях →]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 
 ### Колонки
 

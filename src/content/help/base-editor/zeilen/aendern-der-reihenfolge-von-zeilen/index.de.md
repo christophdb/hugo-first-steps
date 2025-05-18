@@ -20,7 +20,7 @@ Die Reihenfolge der Zeilen können Sie **per Drag-and-Drop** verändern. Wenn Si
 
 ## Mehrere Zeilen gleichzeitig verschieben
 
-Sie können auch **mehrere Zeilen** gleichzeitig verschieben. Wählen Sie hierfür zunächst die Zeilen aus. Wie das geht, erklärt der Artikel [Mehrere Zeilen selektieren](https://seatable.io/docs/arbeiten-mit-zeilen/mehrere-zeilen-selektieren/). Die Zeilen verschieben Sie dann genauso wie eine einzelne Zeile.
+Sie können auch **mehrere Zeilen** gleichzeitig verschieben. Wählen Sie hierfür zunächst die Zeilen aus. Wie das geht, erklärt der Artikel [Mehrere Zeilen selektieren]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}). Die Zeilen verschieben Sie dann genauso wie eine einzelne Zeile.
 
 ![Zeilen gleichzeitig verschieben](https://seatable.io/wp-content/uploads/2022/10/Zeilen-gleichzeitig-verschieben-1.gif)
 

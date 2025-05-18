@@ -14,7 +14,7 @@ Una columna de selección única es ideal si desea asignar **exactamente una opc
 
 ## Crear una columna de selección única
 
-Crear una columna de selección única es un juego de niños y se hace con unos pocos clics. Para más información, consulte [Añadir una columna](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/).
+Crear una columna de selección única es un juego de niños y se hace con unos pocos clics. Para más información, consulte [Añadir una columna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 ![Crear una columna de selección única](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
 

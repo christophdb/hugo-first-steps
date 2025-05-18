@@ -57,7 +57,7 @@ A primeira coluna não pode ser **escondida**, nem **deslocada** ou **apagada**.
 
 É possível mudar depois o tipo da primeira coluna?|||
 
-Sim, isto é possível. Em alguns casos, contudo, pode acontecer que a informação **se perca** quando se [muda o tipo de coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/), por exemplo, de texto para número. Por conseguinte, após uma conversão, verificar se toda a informação foi transferida correcta e completamente.
+Sim, isto é possível. Em alguns casos, contudo, pode acontecer que a informação **se perca** quando se [muda o tipo de coluna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), por exemplo, de texto para número. Por conseguinte, após uma conversão, verificar se toda a informação foi transferida correcta e completamente.
 
 ---
 

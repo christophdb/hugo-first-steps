@@ -20,7 +20,7 @@ Além disso, SeaTable adiciona automaticamente uma **coluna de texto** como a pr
 
 ![A coluna de texto "regular ](images/text-column-new.png)
 
-A **primeira coluna de** uma tabela tem várias [características especiais](https://seatable.io/pt/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/), como se pode ler no artigo ligado.
+A **primeira coluna de** uma tabela tem várias [características especiais]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}), como se pode ler no artigo ligado.
 
 ### Usando a Coluna de Texto
 
@@ -38,7 +38,7 @@ Existem dois outros tipos de colunas baseadas em texto no SeaTable para casos de
 
 ### Definir valor por defeito
 
-É possível definir um [valor](https://seatable.io/pt/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/) predefinido para cada coluna de texto. Este valor é automaticamente introduzido em cada nova linha da tabela.
+É possível definir um [valor]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) predefinido para cada coluna de texto. Este valor é automaticamente introduzido em cada nova linha da tabela.
 
 Se especificar a referência **{creator.name}** ou **{creator.id}** como valor predefinido, o **nome** ou **ID do utilizador** que adicionou a linha é automaticamente introduzido.
 

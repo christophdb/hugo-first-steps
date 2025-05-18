@@ -153,6 +153,6 @@ En cliquant sur les **symboles fléchés**, vous pouvez **trier** les entrées l
 
 Je ne trouve pas ce type de colonne. Ne puis-je pas créer de lien ?|||
 
-La colonne de liens est disponible dans chaque abonnement SeaTable. Cependant, vous essayez probablement de modifier le type de colonne d'une colonne existante. Lorsque vous [modifiez le](https://seatable.io/fr/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/) type de colonne, le type de colonne **Lien vers d'autres entrées** n'est en effet _pas_ disponible. Créez plutôt une **nouvelle colonne** et le type de colonne souhaité vous sera proposé.
+La colonne de liens est disponible dans chaque abonnement SeaTable. Cependant, vous essayez probablement de modifier le type de colonne d'une colonne existante. Lorsque vous [modifiez le]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}) type de colonne, le type de colonne **Lien vers d'autres entrées** n'est en effet _pas_ disponible. Créez plutôt une **nouvelle colonne** et le type de colonne souhaité vous sera proposé.
 
 {{< /faq >}}

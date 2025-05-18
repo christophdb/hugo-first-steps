@@ -70,7 +70,7 @@ The **rows-Log offers you the possibility to track when which user made which ch
 
 ![Display of changes in a row through logs.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
 
-If you need more information about the rows log, please have a look at the corresponding [help article](https://seatable.io/en/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/).
+If you need more information about the rows log, please have a look at the corresponding [help article]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}).
 
 ## Automation execution log
 

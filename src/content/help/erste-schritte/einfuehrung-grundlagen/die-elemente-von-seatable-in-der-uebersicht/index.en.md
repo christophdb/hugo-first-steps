@@ -34,7 +34,7 @@ Each Base consists of one or more tables. Tables help you to structure and relat
 
 Each row represents a related record in your table. For example, if you are compiling a directory of people, each person gets a row with all their data.
 
-[Learn more about rows →](https://seatable.io/en/docs/arbeiten-mit-zeilen/hinzufuegen-einer-zeile/)
+[Learn more about rows →]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 
 ### Columns
 

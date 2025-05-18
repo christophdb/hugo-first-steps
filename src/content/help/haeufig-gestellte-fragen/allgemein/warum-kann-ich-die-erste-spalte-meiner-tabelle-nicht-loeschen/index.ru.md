@@ -14,8 +14,8 @@ url: '/ru/help/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen'
 
 Тот факт, что вы **не можете удалить** первый столбец таблицы, объясняется важной функцией этого столбца. Он основан на **первичном ключе** в реляционных базах данных и также используется в SeaTable для обозначения **записи данных**. По этой причине первый столбец таблицы имеет несколько **особенностей** по сравнению с другими столбцами, включая свойство невозможности его удаления.
 
-Обо всех других особенностях первой колонки вы можете узнать в статье [Особенности первой колонки](https://seatable.io/ru/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/).
+Обо всех других особенностях первой колонки вы можете узнать в статье [Особенности первой колонки]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}).
 
 ## Что если я хочу использовать другую первую колонку?
 
-Если вы хотите использовать другой столбец в качестве первого столбца, вы можете [настроить](https://seatable.io/ru/docs/arbeiten-mit-spalten/anpassen-der-ersten-spalte/) первый столбец. Перед этим можно [создать новый](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/) столбец и просто [скопировать и вставить](https://seatable.io/ru/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) данные из предыдущего первого столбца в новый столбец.
+Если вы хотите использовать другой столбец в качестве первого столбца, вы можете [настроить]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) столбец и просто [скопировать и вставить](https://seatable.io/ru/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste") данные из предыдущего первого столбца в новый столбец.
