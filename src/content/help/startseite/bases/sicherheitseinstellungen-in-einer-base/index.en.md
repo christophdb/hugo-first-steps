@@ -10,7 +10,11 @@ url: '/help/sicherheitseinstellungen-in-einer-base'
 
 In the security settings of your Base, you can make settings at any time that affect the security of your Base and the protection of the data contained therein. The security settings apply specifically to a complete Base and can differ from Base to Base depending on the settings made.
 
-{{< warning  headline="Important note"  text="**Only** **owners** and **administrators** can edit the security settings of a base that belongs to a group. Simple group members do **not** see the security settings." />}}
+{{< warning  headline="Important note" >}}
+
+**Only** **owners** and **administrators** can edit the security settings of a base that belongs to a group. Simple group members do **not** see the security settings.
+
+{{< /warning >}}
 
 ## Edit security settings of a Base
 

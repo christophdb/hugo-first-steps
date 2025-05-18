@@ -10,7 +10,11 @@ url: '/de/hilfe/sicherheitseinstellungen-in-einer-base'
 
 In den Sicherheitseinstellungen Ihrer Base können Sie jederzeit Einstellungen vornehmen, welche die Sicherheit Ihrer Base und den Schutz der darin befindlichen Daten betreffen. Die Sicherheitseinstellungen gelten dabei spezifisch für eine komplette Base und können sich je nach vorgenommenen Einstellungen von Base zu Base unterscheiden.
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Die Sicherheitseinstellungen einer Base, die zu einer Gruppe gehört, können **ausschließlich** **Eigentümer** und **Administratoren** bearbeiten. Einfachen Gruppenmitgliedern werden die Sicherheitseinstellungen **nicht** angezeigt." />}}
+{{< warning type="warning" headline="Wichtiger Hinweis" >}}
+
+Die Sicherheitseinstellungen einer Base, die zu einer Gruppe gehört, können **ausschließlich** **Eigentümer** und **Administratoren** bearbeiten. Einfachen Gruppenmitgliedern werden die Sicherheitseinstellungen **nicht** angezeigt.
+
+{{< /warning >}}
 
 ## Sicherheitseinstellungen einer Base bearbeiten
 
