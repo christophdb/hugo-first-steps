@@ -52,7 +52,7 @@ When sending notifications via [automations](https://seatable.io/en/docs/arbeite
 
 ## The employee column in universal apps
 
-The employee column is also an advantage in the [Universal app](https://seatable.io/en/docs/apps/universelle-app/). You can activate the option for team members to be visible to all users in the drop-down list in the app [settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+The employee column is also an advantage in the [Universal app]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). You can activate the option for team members to be visible to all users in the drop-down list in the app [settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
 If you do not want the app users to be able to see the data records of other users, define **preset filters**: If a page is filtered by employee column with the condition "includes current user", each user of the universal app only sees the entries that are assigned to them in the table.
 

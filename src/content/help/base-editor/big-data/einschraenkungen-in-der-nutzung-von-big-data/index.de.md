@@ -21,6 +21,10 @@ Der Big-Data-Speicher bietet Ihnen die weitestgehend **unlimitierte Speicherung 
 - [Verknüpfte Einträge]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) können Sie bei Big-Data-Einträgen **nicht verändern**. Verlinkungen mit Zeilen im Big-Data-Speicher werden in normalen Ansichten **nicht angezeigt** – in einer Big-Data-Ansicht hingegen schon.
 - Bedingte Formatierungen ([Zeilen farblich hervorheben]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 - [Datenverarbeitungsoperationen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) stehen bei Big Data **nicht** zur Verfügung. Einzige Ausnahme ist [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). Diese Operation kann Einträge im Big-Data-Speicher mit Zeilen in jeder anderen Tabelle verknüpfen, egal ob die Zeilen in der Base oder im Big-Data-Speicher gespeichert sind.
-- Die Funktion [Suchen und Ersetzen](https://seatable.io/docs/arbeiten-in-tabellen/suchen-und-ersetzen-von-werten-in-seatable/) steht **nicht** zur Verfügung.
+- Die Funktion [Suchen und Ersetzen]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) steht **nicht** zur Verfügung.
 
-{{< warning  headline="Viele dieser Einschränkungen von Big Data gelten nicht für die Universal App"  text="Die meisten Nutzer des Big-Data-Speichers fühlen sich durch diese Einschränkungen nicht in ihrer Arbeit beeinträchtigt. Sollten Sie jedoch davon betroffen sein, können Sie einen Blick auf die [Universal App](\"https://seatable.io/docs/apps/universelle-app/\") werfen. Dort gelten einige der genannten Einschränkungen nicht." />}}
+{{< warning  headline="Viele dieser Einschränkungen von Big Data gelten nicht für die Universal App" >}}
+
+Die meisten Nutzer des Big-Data-Speichers fühlen sich durch diese Einschränkungen nicht in ihrer Arbeit beeinträchtigt. Sollten Sie jedoch davon betroffen sein, können Sie einen Blick auf die [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) werfen. Dort gelten einige der genannten Einschränkungen nicht.
+
+{{< /warning >}}

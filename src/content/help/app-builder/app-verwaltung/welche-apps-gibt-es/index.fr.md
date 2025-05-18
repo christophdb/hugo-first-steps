@@ -22,7 +22,7 @@ Actuellement, **deux** types d'applications sont disponibles dans SeaTable.
 
 Avec l'**application universelle**, vous pouvez laisser libre cours à votre créativité. L'appli dispose d'une série de [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) qui vous permettent de présenter vos données sous forme de **tableaux**, de **formulaires web**, de **calendriers** ou de **tableaux Kanban**, entre autres. En créant une **page individuelle**, vous pouvez en outre construire des tableaux de bord avec des **statistiques** pertinentes à partir de vos données et les partager avec d'autres utilisateurs (externes).
 
-[En savoir plus sur l'application universelle](https://seatable.io/fr/docs/apps/universelle-app/).
+[En savoir plus sur l'application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
 ### L'application de recherche de données (Data Query App)
 

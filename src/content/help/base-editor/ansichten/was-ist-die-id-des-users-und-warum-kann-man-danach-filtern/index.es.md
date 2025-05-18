@@ -48,7 +48,7 @@ Por ejemplo, si ahora mantiene una tabla en la que introduce las tareas pendient
 La alternativa sería filtrar por la columna [Creador]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), que también ofrecen opciones de filtrado dinámico. Sin embargo, estas dos columnas presentan las siguientes desventajas:
 
 - El valor de **la columna del creador** _no puede_ **modificarse** posteriormente. Una vez establecido, el valor siempre es el mismo. Esto sería problemático en el ejemplo anterior porque el creador de las tareas _no_ es el empleado.
-- La **columna de personal** sólo puede rellenarse si un miembro del equipo tiene al menos **acceso de lectura** a la base. Esto puede _no_ ser deseable, especialmente cuando se utiliza la [aplicación universal](https://seatable.io/es/docs/apps/universelle-app/).
+- La **columna de personal** sólo puede rellenarse si un miembro del equipo tiene al menos **acceso de lectura** a la base. Esto puede _no_ ser deseable, especialmente cuando se utiliza la [aplicación universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 - La columna de personal _no_ se puede **rellenar automáticamente a través del formulario web**. El ID del usuario, sin embargo, puede establecerse como valor por defecto asignando _{creator.id}_.
 
 Puede ajustar el ID de **usuario** introducido en la columna de texto en cualquier momento. Por lo tanto, si **posteriormente** desea cambiar la asignación de una fila, filtrar por el ID de usuario resulta muy útil.

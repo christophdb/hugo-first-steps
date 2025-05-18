@@ -21,6 +21,10 @@ Le stockage de données volumineuses vous permet de **stocker des lignes de mani
 - Vous ne pouvez **pas modifier**[les entrées liées]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) dans les entrées Big Data. Les liens vers des lignes dans le stockage Big Data ne sont **pas affichés** dans les vues normales - mais le sont dans une vue Big Data.
 - La mise en forme conditionnelle[(mise en couleur des lignes]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 - [Les opérations de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) ne sont **pas** disponibles dans le cadre des Big Data. La seule exception est la [comparaison et la liaison]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). Cette opération peut relier des entrées dans la mémoire Big Data à des lignes dans n'importe quelle autre table, que les lignes soient stockées dans la base ou dans la mémoire Big Data.
-- La fonction [Rechercher et remplacer](https://seatable.io/fr/docs/arbeiten-in-tabellen/suchen-und-ersetzen-von-werten-in-seatable/) n'est **pas** disponible.
+- La fonction [Rechercher et remplacer]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) n'est **pas** disponible.
 
-{{< warning  headline="Nombre de ces limitations du Big Data ne s'appliquent pas à l'application universelle"  text="La plupart des utilisateurs de l'espace de stockage de données volumineuses ne se sentent pas gênés dans leur travail par ces restrictions. Si toutefois vous êtes concernés, vous pouvez jeter un coup d'œil à l'[application universelle](https://seatable.io/fr/docs/apps/universelle-app/). Certaines des restrictions mentionnées ne s'y appliquent pas." />}}
+{{< warning  headline="Nombre de ces limitations du Big Data ne s'appliquent pas à l'application universelle" >}}
+
+La plupart des utilisateurs de l'espace de stockage de données volumineuses ne se sentent pas gênés dans leur travail par ces restrictions. Si toutefois vous êtes concernés, vous pouvez jeter un coup d'œil à l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Certaines des restrictions mentionnées ne s'y appliquent pas.
+
+{{< /warning >}}

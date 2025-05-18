@@ -52,7 +52,7 @@ Al enviar notificaciones mediante [automatizaciones](https://seatable.io/es/docs
 
 ## La columna de empleados en las aplicaciones universales
 
-La columna de empleados también es una ventaja en la [app Universal](https://seatable.io/es/docs/apps/universelle-app/). Puedes activar la opción de que los miembros del equipo sean visibles para todos los usuarios en la lista desplegable de los [ajustes de](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) la app.
+La columna de empleados también es una ventaja en la [app Universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Puedes activar la opción de que los miembros del equipo sean visibles para todos los usuarios en la lista desplegable de los [ajustes de](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) la app.
 
 Si no desea que los usuarios de la app puedan ver los registros de datos de otros usuarios, defina **filtros preestablecidos**: si una página se filtra por la columna de empleados con la condición "incluye al usuario actual", cada usuario de la app universal sólo verá las entradas que se le asignen en la tabla.
 

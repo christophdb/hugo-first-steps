@@ -1,11 +1,11 @@
 ---
-title: "Welche Apps gibt es?"
+title: 'Welche Apps gibt es?'
 date: 2023-05-02
-lastmod: "2024-05-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/de/hilfe/welche-apps-gibt-es"
+lastmod: '2024-05-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/de/hilfe/welche-apps-gibt-es'
 ---
 
 **Apps** in SeaTable sind individuelle **Frontends** für spezifische Benutzergruppen, die unterschiedliche Informationsbedürfnisse haben (z. B. Mitarbeiter, Abteilungsleiter, Geschäftsführer). Durch den offenen Zugang zu Apps können Sie Ihre Daten auch für **externe Dritte** (z. B. Kunden, Geschäftspartner) **ohne SeaTable Konto** nutzbar machen.
@@ -22,7 +22,7 @@ Aktuell stehen Ihnen in SeaTable **zwei** verschiedene Arten von Apps zur Verfü
 
 Mit der **Universellen App** können Sie Ihrer Kreativität freien Lauf lassen. Die App verfügt über eine Reihe von [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/), mit denen Sie Ihre Daten unter anderem in Form von **Tabellen**, **Webformularen**, **Kalendern** oder **Kanban-Boards** darstellen können. Indem Sie eine **individuelle Seite** anlegen, können Sie darüber hinaus Dashboards mit aussagekräftigen **Statistiken** aus Ihren Daten bauen und sie mit anderen (externen) Nutzern teilen.
 
-[Erfahren Sie mehr über die Universelle App](https://seatable.io/docs/apps/universelle-app/).
+[Erfahren Sie mehr über die Universelle App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
 ### Die Datenabfrage-App (Data Query App)
 

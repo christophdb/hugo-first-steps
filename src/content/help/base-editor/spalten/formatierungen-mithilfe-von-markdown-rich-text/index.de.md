@@ -20,7 +20,7 @@ Derzeit gibt es fünf Bereiche, in denen Sie die Markdown-Syntax in SeaTable ein
 - [Base-Beschreibungen](https://seatable.io/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
 - E-Mail-Texte beim Versand über [Automationen]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Universelle Apps](https://seatable.io/docs/apps/universelle-app/)
+- [Universelle Apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
 
 Sobald Markdown in SeaTable zum Einsatz kommt, wird Ihnen die folgende Eingabemaske angeboten. Selbstverständlich können Sie wie gewohnt Wörter oder Textblöcke markieren und dann die gewünschte Formatierung auswählen.
 

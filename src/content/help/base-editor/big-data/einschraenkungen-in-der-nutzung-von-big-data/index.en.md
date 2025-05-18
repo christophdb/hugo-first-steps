@@ -21,6 +21,10 @@ Big data storage offers you largely **unlimited storage of rows**, but also come
 - You **cannot change**[linked entries]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in big data entries. Links to rows in the big data storage are **not displayed** in normal views - but are displayed in a big data view.
 - Conditional formatting ([highlightrows in color]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 - [Data processing operations]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) are **not** available for big data. The only exception is [compare and join]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). This operation can link entries in the big data store with rows in any other table, regardless of whether the rows are stored in the base or in the big data store.
-- The [Find and Replace](https://seatable.io/en/docs/arbeiten-in-tabellen/suchen-und-ersetzen-von-werten-in-seatable/) function is **not** available.
+- The [Find and Replace]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) function is **not** available.
 
-{{< warning  headline="Many of these limitations of big data do not apply to the Universal App"  text="Most users of big data storage do not feel that their work is affected by these restrictions. However, if you are affected, you can take a look at the [Universal App](https://seatable.io/en/docs/apps/universelle-app/). Some of the restrictions mentioned do not apply there." />}}
+{{< warning  headline="Many of these limitations of big data do not apply to the Universal App" >}}
+
+Most users of big data storage do not feel that their work is affected by these restrictions. However, if you are affected, you can take a look at the [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Some of the restrictions mentioned do not apply there.
+
+{{< /warning >}}

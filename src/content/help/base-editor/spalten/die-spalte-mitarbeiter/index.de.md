@@ -52,7 +52,7 @@ Beim Senden von Benachrichtigungen über [Automationen](https://seatable.io/docs
 
 ## Die Mitarbeiter-Spalte in Universellen Apps
 
-Die Mitarbeiter-Spalte ist auch in der [Universellen App](https://seatable.io/docs/apps/universelle-app/) von Vorteil. Sie können die Option, dass die Teammitglieder in der Drop-down-Liste für alle Nutzer zu sehen sind, in den [Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) der App aktivieren.
+Die Mitarbeiter-Spalte ist auch in der [Universellen App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) von Vorteil. Sie können die Option, dass die Teammitglieder in der Drop-down-Liste für alle Nutzer zu sehen sind, in den [Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) der App aktivieren.
 
 Wenn Sie nicht möchten, dass die App-Nutzer die Datensätze von anderen Nutzern sehen können, legen Sie **voreingestellte Filter** fest: Wird eine Seite per Mitarbeiter-Spalte mit der Bedingung „inkludiert aktuellen Benutzer“ gefiltert, sieht jeder Nutzer der Universellen App nur die Einträge, die ihm in der Tabelle zugeordnet sind.
 

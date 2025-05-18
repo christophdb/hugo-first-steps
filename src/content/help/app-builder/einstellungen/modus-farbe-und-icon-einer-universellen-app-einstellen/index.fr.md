@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/modus-farbe-und-icon-einer-universellen-app-einstellen'
 ---
 
-Pour chaque [application universelle](https://seatable.io/fr/docs/apps/universelle-app/), vous pouvez **définir des paramètres visuels** afin d'adapter l'application à vos souhaits personnels ou à l'identité visuelle de votre entreprise. Les options de branding comprennent le **mode**, la **couleur** et l'**icône** d'une appli universelle.
+Pour chaque [application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), vous pouvez **définir des paramètres visuels** afin d'adapter l'application à vos souhaits personnels ou à l'identité visuelle de votre entreprise. Les options de branding comprennent le **mode**, la **couleur** et l'**icône** d'une appli universelle.
 
 ## Modifier les paramètres de conception d'une application universelle
 

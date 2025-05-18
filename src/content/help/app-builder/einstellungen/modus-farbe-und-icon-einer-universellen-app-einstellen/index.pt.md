@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/modus-farbe-und-icon-einer-universellen-app-einstellen'
 ---
 
-Pode efetuar **definições visuais** para cada [aplicação universal](https://seatable.io/pt/docs/apps/universelle-app/) para personalizar a aplicação de acordo com os seus desejos pessoais ou com o design corporativo da sua empresa. As opções de marca incluem o **modo**, a **cor** e o **ícone** de uma aplicação universal.
+Pode efetuar **definições visuais** para cada [aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) para personalizar a aplicação de acordo com os seus desejos pessoais ou com o design corporativo da sua empresa. As opções de marca incluem o **modo**, a **cor** e o **ícone** de uma aplicação universal.
 
 ## Alterar as definições de design de uma aplicação universal
 

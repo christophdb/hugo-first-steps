@@ -20,7 +20,7 @@ Actualmente hay cinco áreas en las que puede utilizar la sintaxis Markdown en S
 - [Descripciones básicas](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
 - Textos de correo electrónico al enviar mediante [automatizaciones]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Aplicaciones universales](https://seatable.io/es/docs/apps/universelle-app/)
+- [Aplicaciones universales]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
 
 En cuanto se utilice Markdown en SeaTable, se le ofrecerá la siguiente máscara de entrada. Por supuesto, puede marcar palabras o bloques de texto como de costumbre y luego seleccionar el formato deseado.
 

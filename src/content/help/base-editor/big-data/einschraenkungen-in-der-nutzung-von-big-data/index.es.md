@@ -21,6 +21,10 @@ El almacenamiento de big data le ofrece **un almacenamiento de filas** en gran m
 - **No se pueden modificar** las entradas [enlazadas]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en las entradas de big data. Los enlaces a filas de la memoria de big data **no se muestran** en las vistas normales, pero sí en una vista de big data.
 - El formato condicional[(resaltar filas en color]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 - Las [operaciones de procesamiento de datos]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) **no** están disponibles para big data. La única excepción es [comparar y unir]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). Esta operación puede unir entradas de la memoria de big data con filas de cualquier otra tabla, independientemente de si las filas están almacenadas en la base o en la memoria de big data.
-- La función [de buscar y reemplazar](https://seatable.io/es/docs/arbeiten-in-tabellen/suchen-und-ersetzen-von-werten-in-seatable/) **no** está disponible.
+- La función [de buscar y reemplazar]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) **no** está disponible.
 
-{{< warning  headline="Muchas de estas limitaciones de Big Data no se aplican a la Universal App"  text="La mayoría de los usuarios de almacenamiento de big data no sienten que su trabajo se vea afectado por estas restricciones. Sin embargo, si le afectan, puede echar un vistazo a la [aplicación universal](https://seatable.io/es/docs/apps/universelle-app/). Algunas de las restricciones mencionadas no se aplican allí." />}}
+{{< warning  headline="Muchas de estas limitaciones de Big Data no se aplican a la Universal App" >}}
+
+La mayoría de los usuarios de almacenamiento de big data no sienten que su trabajo se vea afectado por estas restricciones. Sin embargo, si le afectan, puede echar un vistazo a la [aplicación universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Algunas de las restricciones mencionadas no se aplican allí.
+
+{{< /warning >}}

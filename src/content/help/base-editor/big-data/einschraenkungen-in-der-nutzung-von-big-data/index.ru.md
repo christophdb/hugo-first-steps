@@ -21,6 +21,10 @@ url: '/ru/help/einschraenkungen-in-der-nutzung-von-big-data'
 - Вы **не можете изменять**[связанные записи]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) в записях больших данных. Ссылки на строки в памяти больших данных **не отображаются** в обычных представлениях - но отображаются в представлении больших данных.
 - Условное форматирование[(выделение строк цветом]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 - [Операции обработки данных]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) **недоступны** для больших данных. Единственным исключением является [сравнение и объединение]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). Эта операция может связать записи в памяти больших данных со строками в любой другой таблице, независимо от того, хранятся ли эти строки в базе или в памяти больших данных.
-- Функция [поиска и замены](https://seatable.io/ru/docs/arbeiten-in-tabellen/suchen-und-ersetzen-von-werten-in-seatable/) **недоступна**.
+- Функция [поиска и замены]({{< relref "help/base-editor/tabellen/suchen-und-ersetzen-von-werten-in-seatable" >}}) **недоступна**.
 
-{{< warning  headline="Многие из этих ограничений Больших Данных не относятся к универсальным приложениям."  text="Большинство пользователей хранилищ больших данных не чувствуют, что эти ограничения влияют на их работу. Однако если вас это затронуло, вы можете взглянуть на [универсальное приложение](https://seatable.io/ru/docs/apps/universelle-app/). Некоторые из упомянутых ограничений там не действуют." />}}
+{{< warning  headline="Многие из этих ограничений Больших Данных не относятся к универсальным приложениям." >}}
+
+Большинство пользователей хранилищ больших данных не чувствуют, что эти ограничения влияют на их работу. Однако если вас это затронуло, вы можете взглянуть на [универсальное приложение]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Некоторые из упомянутых ограничений там не действуют.
+
+{{< /warning >}}

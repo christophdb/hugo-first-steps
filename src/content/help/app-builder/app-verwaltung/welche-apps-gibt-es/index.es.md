@@ -1,11 +1,11 @@
 ---
-title: "¿Qué aplicaciones hay disponibles? - Mesa del mar"
+title: '¿Qué aplicaciones hay disponibles? - Mesa del mar'
 date: 2023-05-02
-lastmod: "2024-05-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/es/ayuda/welche-apps-gibt-es"
+lastmod: '2024-05-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/es/ayuda/welche-apps-gibt-es'
 ---
 
 **Las aplicaciones** en SeaTable son **interfaces** individuales para grupos de usuarios específicos que tienen diferentes necesidades de información (por ejemplo, empleados, jefes de departamento, directores). El acceso abierto a las apps le permite poner sus datos a disposición de terceros **externos** (por ejemplo, clientes, socios comerciales) **sin necesidad de una cuenta SeaTable**.
@@ -22,7 +22,7 @@ Actualmente hay **dos** tipos diferentes de aplicaciones disponibles en SeaTable
 
 Con la **aplicación universal**, puedes dar rienda suelta a tu creatividad. La app dispone de varios [tipos de página](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/) con los que puedes presentar tus datos en forma de **tablas**, **formularios web**, **calendarios** o **tableros Kanban**, entre otras cosas. Al crear una página **individual**, también puedes construir cuadros de mando con **estadísticas significa** tivas a partir de tus datos y compartirlas con otros usuarios (externos).
 
-[Más información sobre la aplicación universal](https://seatable.io/es/docs/apps/universelle-app/).
+[Más información sobre la aplicación universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
 ### La aplicación de consulta de datos
 

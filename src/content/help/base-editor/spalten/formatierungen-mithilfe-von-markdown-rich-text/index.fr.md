@@ -20,7 +20,7 @@ Actuellement, il existe cinq domaines dans lesquels vous pouvez utiliser la synt
 - [Descriptions de la base](https://seatable.io/fr/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
 - Textes d'e-mails lors de l'envoi via [des automatisations]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Apps universelles](https://seatable.io/fr/docs/apps/universelle-app/)
+- [Apps universelles]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})
 
 Dès que Markdown est utilisé dans SeaTable, le masque de saisie suivant vous est proposé. Vous pouvez bien sûr sélectionner des mots ou des blocs de texte comme d'habitude, puis choisir la mise en forme souhaitée.
 

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/modus-farbe-und-icon-einer-universellen-app-einstellen'
 ---
 
-You can make **visual settings** for each [universal app](https://seatable.io/en/docs/apps/universelle-app/) to adapt the app to your personal wishes or the corporate design of your company. The branding options include the **mode**, **color** and **icon** of a universal app.
+You can make **visual settings** for each [universal app]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) to adapt the app to your personal wishes or the corporate design of your company. The branding options include the **mode**, **color** and **icon** of a universal app.
 
 ## Change the design settings of a universal app
 
