@@ -10,7 +10,7 @@ url: '/pt/ajuda/passwort-fuer-eine-base-festlegen'
 
 Para proteger as suas bases contra acessos externos indesejados, pode definir qualquer **palavra-passe** para cada base, que deve ser introduzida correctamente por cada utilizador, incluindo o utilizador, a fim de abrir e subsequentemente editar a base correspondente.
 
-Isto faz sentido especialmente para **bases de grupo** que não devem ser acessíveis a todos os membros do grupo. Só tem acesso a bases na área **Minhas Bases** de qualquer forma. Uma palavra-passe pode ser útil lá se [partilhar uma base com um grupo](https://seatable.io/pt/docs/freigaben/eine-base-an-eine-gruppe-freigeben/).
+Isto faz sentido especialmente para **bases de grupo** que não devem ser acessíveis a todos os membros do grupo. Só tem acesso a bases na área **Minhas Bases** de qualquer forma. Uma palavra-passe pode ser útil lá se [partilhar uma base com um grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).
 
 ## Definir uma palavra-passe para uma base
 

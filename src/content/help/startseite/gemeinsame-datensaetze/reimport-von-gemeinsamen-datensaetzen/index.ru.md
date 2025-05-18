@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/ru/help/reimport-von-gemeinsamen-datensaetzen'
 ---
 
-Если вы [копируете](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) **базы**, в которые интегрированы записи общих данных, или [восстанавливаете их](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) из [моментальных снимков](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), **связь с записями общих данных** теряется. Хотя данные затем доступны в обычной таблице, они больше не могут быть синхронизированы. Поэтому можно **повторно импортировать** записи общих данных в существующие таблицы, чтобы обеспечить **синхронизацию** с данными в них.
+Если вы [копируете]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) **базы**, в которые интегрированы записи общих данных, или [восстанавливаете их](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) из [моментальных снимков](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), **связь с записями общих данных** теряется. Хотя данные затем доступны в обычной таблице, они больше не могут быть синхронизированы. Поэтому можно **повторно импортировать** записи общих данных в существующие таблицы, чтобы обеспечить **синхронизацию** с данными в них.
 
 ## Как снова связать таблицу с общей записью данных
 

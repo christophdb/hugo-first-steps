@@ -67,7 +67,7 @@ Are the e-mail access data (especially the password) visible to others, e.g. whe
 
 Are e-mail accounts copied when a base is copied?|||
 
-**No**, the email accounts set up for a base are **not copied**. If you copy a base to the _My Bases_ area or [to a group](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/), you must **set up** the email accounts **again** in the new base.
+**No**, the email accounts set up for a base are **not copied**. If you copy a base to the _My Bases_ area or [to a group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), you must **set up** the email accounts **again** in the new base.
 
 ---
 

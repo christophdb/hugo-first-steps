@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/help/einzelne-tabellenblaetter-einer-base-freigeben'
 ---
 
-Вы хотите **поделиться** не всей базой, а **отдельными таблицами**? Вы можете сделать это с помощью **пользовательского выпуска** для определенных [пользователей](https://seatable.io/ru/docs/freigaben/anlegen-einer-benutzerfreigabe/) или целых [групп](https://seatable.io/ru/docs/freigaben/eine-base-an-eine-gruppe-freigeben/).
+Вы хотите **поделиться** не всей базой, а **отдельными таблицами**? Вы можете сделать это с помощью **пользовательского выпуска** для определенных [пользователей]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).
 
 ## Обмен отдельными таблицами через стартовую страницу
 

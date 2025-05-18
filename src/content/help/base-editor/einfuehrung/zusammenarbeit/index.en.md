@@ -35,7 +35,7 @@ To help you keep track of who made what changes to the data in your Bases and wh
 
 ## Common data sets
 
-Records that different groups and users in your team need can be made available to them as templates for new tables using [shared records](https://seatable.io/en/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/). Any table that your team members create with a shared record, they can [synchronize](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). When they do, SeaTable overwrites the data in the table with that of the current shared record, so everyone is at the same level.
+Records that different groups and users in your team need can be made available to them as templates for new tables using [shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}). Any table that your team members create with a shared record, they can [synchronize](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). When they do, SeaTable overwrites the data in the table with that of the current shared record, so everyone is at the same level.
 
 ## Internal releases
 

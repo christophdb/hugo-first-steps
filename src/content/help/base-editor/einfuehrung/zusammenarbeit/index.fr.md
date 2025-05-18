@@ -35,7 +35,7 @@ Pour que vous puissiez à tout moment savoir qui a apporté quelles modification
 
 ## Ensembles de données communs
 
-Vous pouvez mettre à disposition des différents groupes et utilisateurs de votre équipe les enregistrements dont ils ont besoin en utilisant les [enregistrements partagés](https://seatable.io/fr/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) comme modèle pour les nouvelles tables. Chaque table que les membres de votre équipe créent avec un enregistrement commun peut être [synchronisée](https://seatable.io/fr/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable remplace alors les données de la table par celles de l'enregistrement partagé actuel, de sorte que tout le monde soit au même niveau.
+Vous pouvez mettre à disposition des différents groupes et utilisateurs de votre équipe les enregistrements dont ils ont besoin en utilisant les [enregistrements partagés]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) comme modèle pour les nouvelles tables. Chaque table que les membres de votre équipe créent avec un enregistrement commun peut être [synchronisée](https://seatable.io/fr/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable remplace alors les données de la table par celles de l'enregistrement partagé actuel, de sorte que tout le monde soit au même niveau.
 
 ## Partages internes
 

@@ -10,7 +10,7 @@ url: '/fr/aide/passwort-fuer-eine-base-festlegen'
 
 Pour protéger vos bases d'un accès étranger indésirable, vous pouvez définir pour chaque base un **mot de passe** de votre choix, qui doit être saisi correctement par chaque utilisateur, y compris vous-même, pour pouvoir ouvrir la base correspondante et la modifier ensuite.
 
-Cela est particulièrement utile pour les **bases de groupe** auxquelles tous les membres du groupe ne doivent pas avoir accès. Vous êtes de toute façon le seul à avoir accès aux bases de la section **Mes bases**. Là, un mot de passe peut être utile si vous [partagez une base avec un groupe](https://seatable.io/fr/docs/freigaben/eine-base-an-eine-gruppe-freigeben/).
+Cela est particulièrement utile pour les **bases de groupe** auxquelles tous les membres du groupe ne doivent pas avoir accès. Vous êtes de toute façon le seul à avoir accès aux bases de la section **Mes bases**. Là, un mot de passe peut être utile si vous [partagez une base avec un groupe]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).
 
 ## Définir un mot de passe pour une base
 

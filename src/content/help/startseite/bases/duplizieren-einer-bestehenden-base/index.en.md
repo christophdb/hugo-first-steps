@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/duplizieren-einer-bestehenden-base'
 ---
 
-In SeaTable you have the possibility to duplicate your existing Bases. You can have the copy of your Base created either in one of your [groups](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) or in the **My Bases** section. The latter works as follows:
+In SeaTable you have the possibility to duplicate your existing Bases. You can have the copy of your Base created either in one of your [groups]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) or in the **My Bases** section. The latter works as follows:
 
 ![copy a base](images/duplicate-a-base.png)
 

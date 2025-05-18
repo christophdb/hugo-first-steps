@@ -70,7 +70,7 @@ Mehr Informationen zu dieser wichtigen und äußerst hilfreichen Funktion finden
 
 ## Base kopieren
 
-Sie können alle Bases, auf die Sie Zugriff haben, **kopieren**. Je nachdem, woher die Base stammt und wohin Sie die Base kopieren wollen, hilft Ihnen entweder der Artikel [Duplizieren einer Base](https://seatable.io/docs/arbeiten-mit-bases/duplizieren-einer-bestehenden-base/) (in "Meine Base" kopieren) oder der Artikel [Eine Base in eine Gruppe kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) weiter.
+Sie können alle Bases, auf die Sie Zugriff haben, **kopieren**. Je nachdem, woher die Base stammt und wohin Sie die Base kopieren wollen, hilft Ihnen entweder der Artikel [Duplizieren einer Base]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) weiter.
 
 ## Bases in Ordner verschieben oder zu Favoriten hinzufügen
 
@@ -84,7 +84,7 @@ Mehr Informationen zum Export von Bases finden Sie im Beitrag [Speichern einer B
 
 ## Bases löschen und wiederherstellen
 
-Sie können Bases, deren Eigentümer oder Administrator Sie sind, bei Bedarf [löschen](https://seatable.io/docs/arbeiten-mit-bases/loeschen-einer-base/) und bis zu 30 Tage lang [wiederherstellen](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/). Befolgen Sie dazu die Anleitungen in den verlinkten Artikeln.
+Sie können Bases, deren Eigentümer oder Administrator Sie sind, bei Bedarf [löschen]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) und bis zu 30 Tage lang [wiederherstellen](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/). Befolgen Sie dazu die Anleitungen in den verlinkten Artikeln.
 
 ### Base aus Snapshot wiederherstellen
 

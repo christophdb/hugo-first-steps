@@ -40,7 +40,7 @@ Geben Sie den neuen Namen ein und bestätigen Sie mit **Abschicken**.
 
 ## Zugriffsberechtigungen verwalten
 
-Über die Option **Zugriff verwalten** können Sie Ihren gemeinsamen Datensatz an eine andere Gruppe freigeben oder ihr den Zugriff wieder entziehen. Wie dies genau funktioniert, erfahren Sie [hier](https://seatable.io/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/).
+Über die Option **Zugriff verwalten** können Sie Ihren gemeinsamen Datensatz an eine andere Gruppe freigeben oder ihr den Zugriff wieder entziehen. Wie dies genau funktioniert, erfahren Sie [hier]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ## Synchronisation mit dem gemeinsamen Datensatz erzwingen
 

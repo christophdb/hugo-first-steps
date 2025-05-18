@@ -35,7 +35,7 @@ Damit Sie jederzeit nachvollziehen können, wer wann welche Änderungen an den D
 
 ## Gemeinsame Datensätze
 
-Datensätze, die verschiedene Gruppen und Benutzer in Ihrem Team benötigen, können Sie ihnen über [gemeinsame Datensätze](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) als Vorlage für neue Tabellen zur Verfügung stellen. Jede Tabelle, die Ihre Teammitglieder mit einem gemeinsamen Datensatz anlegen, können sie [synchronisieren](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). Dabei überschreibt SeaTable die Daten in der Tabelle mit denen des aktuellen gemeinsamen Datensatzes, sodass alle auf dem gleichen Stand sind.
+Datensätze, die verschiedene Gruppen und Benutzer in Ihrem Team benötigen, können Sie ihnen über [gemeinsame Datensätze]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) als Vorlage für neue Tabellen zur Verfügung stellen. Jede Tabelle, die Ihre Teammitglieder mit einem gemeinsamen Datensatz anlegen, können sie [synchronisieren](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). Dabei überschreibt SeaTable die Daten in der Tabelle mit denen des aktuellen gemeinsamen Datensatzes, sodass alle auf dem gleichen Stand sind.
 
 ## Interne Freigaben
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
-Bases bestehen aus einer oder mehreren Tabellen, die wiederum ganz unterschiedliche Daten aufnehmen und untereinander verlinken können. Eine Base kann **bis zu 200 Tabellen** enthalten. Der Übersichtlichkeit zuliebe sollten Sie aber ab 20 Tabellen darüber nachdenken, die Tabellen auf mehrere Bases aufzuteilen und die Daten mit der Funktion [Gemeinsame Datensätze](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) zu synchronisieren.
+Bases bestehen aus einer oder mehreren Tabellen, die wiederum ganz unterschiedliche Daten aufnehmen und untereinander verlinken können. Eine Base kann **bis zu 200 Tabellen** enthalten. Der Übersichtlichkeit zuliebe sollten Sie aber ab 20 Tabellen darüber nachdenken, die Tabellen auf mehrere Bases aufzuteilen und die Daten mit der Funktion [Gemeinsame Datensätze]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) zu synchronisieren.
 
 ## Eine Tabelle in einer Base hinzufügen
 
@@ -32,7 +32,7 @@ In SeaTable sind [Bases](https://seatable.io/docs/arbeiten-mit-bases/bases/) gru
 
 ![Import einer Tabelle aus einer anderen Base](images/import-table-from-other-base.gif)
 
-Mit [gemeinsamen Datensätzen](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) können Sie zudem eine Mastertabelle in einer Gruppe teilen und die Tabellen-Ableger in verschiedenen Bases nutzen und synchronisieren. Mehr dazu erfahren Sie [hier](https://seatable.io/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+Mit [gemeinsamen Datensätzen]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) können Sie zudem eine Mastertabelle in einer Gruppe teilen und die Tabellen-Ableger in verschiedenen Bases nutzen und synchronisieren. Mehr dazu erfahren Sie [hier](https://seatable.io/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
 
 ## Behalten Sie den Überblick
 

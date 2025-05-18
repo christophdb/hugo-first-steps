@@ -43,4 +43,8 @@ This is illustrated by the following example:
 - The tables accessing a common data record can be **synchronized** at any time, i.e. compared with the latest version of the data record (e.g. when new employees join or leave).
 - There is a top-down relationship here: changes to the common data set are transferred to the dependent tables during synchronization. However, changes in these tables have **no** effect on the underlying data set.
 
-{{< warning headline="Further information" text="You can find more detailed information and specific instructions for using shared data sets [here](https://seatable.io/en/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/)." />}}
+{{< warning headline="Further information" >}}
+
+You can find more detailed information and specific instructions for using shared data sets [here]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}).
+
+{{< /warning >}}

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/einzelne-tabellenblaetter-einer-base-freigeben'
 ---
 
-¿No quiere **compartir** una base entera, sino **tablas individuales**? Puede hacerlo mediante una **liberación definida por el** usuario para [usuarios](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/) específicos o [grupos enteros](https://seatable.io/es/docs/freigaben/eine-base-an-eine-gruppe-freigeben/).
+¿No quiere **compartir** una base entera, sino **tablas individuales**? Puede hacerlo mediante una **liberación definida por el** usuario para [usuarios]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).
 
 ## Compartir mesas individuales a través de la página de inicio
 

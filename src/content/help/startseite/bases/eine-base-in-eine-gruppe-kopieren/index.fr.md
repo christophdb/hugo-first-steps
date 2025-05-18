@@ -19,11 +19,16 @@ Vous pouvez facilement **copier** des bases dans SeaTable. De cette manière, vo
 3. Cliquez sur les **trois points** et ensuite sur **Copier.**
 4. Sélectionnez le **groupe** souhaité dans lequel la base doit être copiée.
 5. Confirmez en cliquant sur **Envoyer**.
-   {{< warning  headline="Remarque"  text="Après la copie, la base correspondante se trouve à la fois à l'**endroit d'origine** et à l'**endroit de destination**. Si nécessaire, vous pouvez ensuite [supprimer](https://seatable.io/fr/docs/arbeiten-mit-bases/loeschen-einer-base/) la base à un endroit." />}}
+
+{{< warning  headline="Remarque" >}}
+
+Après la copie, la base correspondante se trouve à la fois à l'**endroit d'origine** et à l'**endroit de destination**. Si nécessaire, vous pouvez ensuite [supprimer]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) la base à un endroit.
+
+{{< /warning >}}
 
 ## Copier une base liée à des enregistrements communs
 
-Si vous copiez une base dans laquelle [des enregistrements communs](https://seatable.io/fr/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) sont intégrés, vous pouvez décider de **conserver** le **lien avec ces enregistrements**. Le groupe dans lequel vous copiez la base doit bien sûr avoir [accès aux enregistrements partagés](https://seatable.io/fr/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/).
+Si vous copiez une base dans laquelle [des enregistrements communs]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) sont intégrés, vous pouvez décider de **conserver** le **lien avec ces enregistrements**. Le groupe dans lequel vous copiez la base doit bien sûr avoir [accès aux enregistrements partagés]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ![Retenir le lien vers le dataset commun lors de la copie d'une base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
 

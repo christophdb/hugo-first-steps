@@ -69,7 +69,7 @@ For more information on this important and extremely helpful feature, see the ar
 
 ## Copy a base
 
-You can **copy** all the Bases you have access to. Depending on where the base came from and where you want to copy the base to, either the [Duplicating a](https://seatable.io/en/docs/arbeiten-mit-bases/duplizieren-einer-bestehenden-base/) Base (in Copy My Base) article or the Copying a Base to [a Group](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) article will help you.
+You can **copy** all the Bases you have access to. Depending on where the base came from and where you want to copy the base to, either the [Duplicating a]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) article will help you.
 
 ## Move bases to folder or add to favorites
 
@@ -83,7 +83,7 @@ For more information on exporting bases, see the article [Saving a Base as a DTA
 
 ## Delete and restore bases
 
-You can [delete](https://seatable.io/en/docs/arbeiten-mit-bases/loeschen-einer-base/) and [restore](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) bases that you own or administer as needed for up to 30 days. To do this, follow the instructions in the linked articles.
+You can [delete]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) and [restore](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) bases that you own or administer as needed for up to 30 days. To do this, follow the instructions in the linked articles.
 
 ### Restore Base from Snapshot
 

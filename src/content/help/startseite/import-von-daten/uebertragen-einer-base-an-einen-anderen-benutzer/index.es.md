@@ -17,7 +17,7 @@ Este reto puede superarse muy fácilmente. Crea un **nuevo grupo** y añade al o
 Estos pasos pueden ser realizados por **cualquier miembro del** equipo - independientemente de si tiene derechos de administrador dentro de su equipo o no. Los siguientes artículos de ayuda le ayudarán con esto:
 
 - [Crear un nuevo grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}})
-- [Copiar una base en un grupo](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
+- [Copiar una base en un grupo]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 
 ## Transferir una base a otro equipo
 

@@ -44,7 +44,7 @@ Enter the new name and confirm with **Send**.
 
 ## Manage access authorizations
 
-You can use the **Manage access** option to share your shared data set with another group or withdraw access again. You can find out exactly how this works [here](https://seatable.io/en/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/).
+You can use the **Manage access** option to share your shared data set with another group or withdraw access again. You can find out exactly how this works [here]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ## Force synchronization with the shared data set
 

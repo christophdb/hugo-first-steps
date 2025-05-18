@@ -50,7 +50,7 @@ Ist diese Einstellung **aktiviert**, können die verschiedenen Tabellenansichten
 
 ### Kopieren einer Base in eine andere Gruppe verhindern
 
-Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass andere Nutzer die [Base in eine andere Gruppe kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) können.
+Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass andere Nutzer die [Base in eine andere Gruppe kopieren]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) können.
 
 Ist diese Einstellung **aktiviert**, kann die betroffene Base von **niemandem** mehr in eine andere Gruppe oder in den Bereich _Meine Bases_ kopiert werden, bis die Einstellung von einem Eigentümer oder einem Administrator wieder deaktiviert wird. Versucht ein Nutzer dennoch, die entsprechende Base über die Startseite zu kopieren, wird der Kopiervorgang **unterbunden** und folgende **Fehlermeldung** erscheint:
 
@@ -80,7 +80,7 @@ Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Nutzer, an 
 
 ### Kopieren einer Base in eine andere Gruppe verhindern
 
-Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Benutzer, an welche die entsprechende [Base freigegeben](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/) ist, diese in eine andere Gruppe oder in den Bereich _Meine Bases_ [kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) können.
+Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Benutzer, an welche die entsprechende [Base freigegeben]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) können.
 
 ### Anlegen und Ändern von Datenverarbeitungsoperationen verhindern
 

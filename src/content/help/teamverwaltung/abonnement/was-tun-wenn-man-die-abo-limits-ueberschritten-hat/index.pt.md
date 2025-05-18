@@ -27,7 +27,7 @@ Para poder voltar a trabalhar plenamente com os seus dados, é necessário [actu
 
 Se não quiser mudar para um pacote de subscrição mais extenso, só tem a opção de **eliminar** partes dos seus dados até deixar **de** atingir os limites da sua subscrição actual. Os seguintes artigos de ajuda podem ajudá-lo nesta tarefa:
 
-- [Eliminação de uma base](https://seatable.io/pt/docs/arbeiten-mit-bases/loeschen-einer-base/)
+- [Eliminação de uma base]({{< relref "help/startseite/bases/loeschen-einer-base" >}})
 - [Esvaziar o caixote do lixo da reciclagem na administração da equipa](https://seatable.io/pt/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
 - [Eliminar uma tabela de uma base](https://seatable.io/pt/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
 - [Apagar uma linha]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})

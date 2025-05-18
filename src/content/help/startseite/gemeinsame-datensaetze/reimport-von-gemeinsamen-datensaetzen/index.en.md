@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/reimport-von-gemeinsamen-datensaetzen'
 ---
 
-If you [copy](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) **bases** into which shared data records are integrated or [restore them](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) from [snapshots](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), the **connection to the shared data records** is lost. Although the data is then available in a normal table, it can no longer be synchronized. You can therefore **reimport** shared data records back into existing tables and thus enable **synchronization** with the data there.
+If you [copy]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) **bases** into which shared data records are integrated or [restore them](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) from [snapshots](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), the **connection to the shared data records** is lost. Although the data is then available in a normal table, it can no longer be synchronized. You can therefore **reimport** shared data records back into existing tables and thus enable **synchronization** with the data there.
 
 ## How to link a table to a common data record again
 

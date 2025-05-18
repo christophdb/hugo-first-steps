@@ -19,11 +19,16 @@ Puede **copiar** bases fácilmente en SeaTable. De este modo, puede mover una de
 3. Haga clic en los **tres puntos** y luego en **Copiar**.
 4. Seleccione el **grupo** deseado en el que se va a copiar la base.
 5. Confirme con **Enviar**.
-   {{< warning  headline="Nota"  text="Tras la copia, la base correspondiente se encuentra tanto en la ubicación **original** como en la de **destino**. Si es necesario, puede [eliminar](https://seatable.io/es/docs/arbeiten-mit-bases/loeschen-einer-base/) la base en una ubicación." />}}
+
+{{< warning  headline="Nota" >}}
+
+Tras la copia, la base correspondiente se encuentra tanto en la ubicación **original** como en la de **destino**. Si es necesario, puede [eliminar]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) la base en una ubicación.
+
+{{< /warning >}}
 
 ## Copiar una base vinculada a registros de datos compartidos
 
-Si copia una base que contiene [registros](https://seatable.io/es/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) de datos compartidos, puede decidir si desea **conservar** la **conexión con estos registros de datos**. Por supuesto, el grupo al que se copia la base debe tener [acceso a](https://seatable.io/es/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/) los registros de datos compartidos.
+Si copia una base que contiene [registros]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) de datos compartidos, puede decidir si desea **conservar** la **conexión con estos registros de datos**. Por supuesto, el grupo al que se copia la base debe tener [acceso a]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}) los registros de datos compartidos.
 
 ![Conservar el enlace al conjunto de datos común al copiar una base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
 

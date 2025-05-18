@@ -43,4 +43,8 @@ Isto será ilustrado pelo seguinte exemplo:
 - As tabelas de acesso a um conjunto de dados comum podem ser **sincronizadas** em qualquer altura, ou seja, comparadas com a última versão do conjunto de dados (por exemplo, quando novos empregados entram ou saem).
 - Existe uma relação de cima para baixo: as alterações ao conjunto de dados comuns são transferidas para as tabelas dependentes durante a sincronização. No entanto, as alterações nestas tabelas **não** têm **qualquer** efeito sobre o conjunto de dados subjacentes.
 
-{{< warning headline="Mais informações" text="Informações mais detalhadas e orientações concretas sobre a utilização de conjuntos de dados partilhados podem ser encontradas [aqui](https://seatable.io/pt/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/)." />}}
+{{< warning headline="Mais informações" >}}
+
+Informações mais detalhadas e orientações concretas sobre a utilização de conjuntos de dados partilhados podem ser encontradas [aqui]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}).
+
+{{< /warning >}}

@@ -23,7 +23,7 @@ L'en-tête de la page d'accueil contient quatre éléments. Il s'agit des élém
 
 ## Navigation sur les pages
 
-La navigation latérale gauche de la page d'accueil contient des liens vers différentes sections et ressources : [Bases](https://seatable.io/fr/docs/arbeiten-mit-bases/bases/), [Apps](https://seatable.io/fr/docs/apps/welche-apps-gibt-es/), le [journal des activités](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/), les [enregistrements partagés](https://seatable.io/fr/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) et la [corbeille de la page d'accueil](https://seatable.io/fr/docs/arbeiten-mit-bases/loeschen-einer-base/). Vous y trouverez également des liens vers ce guide de l'utilisateur et les [modèles](https://seatable.io/fr/modeles/) disponibles au sein de SeaTable.
+La navigation latérale gauche de la page d'accueil contient des liens vers différentes sections et ressources : [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}). Vous y trouverez également des liens vers ce guide de l'utilisateur et les [modèles](https://seatable.io/fr/modeles/) disponibles au sein de SeaTable.
 
 ## Espace de travail
 

@@ -69,7 +69,7 @@ Mais informações sobre esta importante e extremamente útil função podem ser
 
 ## Base de cópia
 
-É possível **copiar** todas as bases às quais tem acesso. Dependendo da origem da base e do local para onde pretende copiar a base, o artigo Duplicar [uma](https://seatable.io/pt/docs/arbeiten-mit-bases/duplizieren-einer-bestehenden-base/) base (em Copiar a minha base) ou o artigo Copiar uma [base para um grupo](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) ajudá-lo-ão.
+É possível **copiar** todas as bases às quais tem acesso. Dependendo da origem da base e do local para onde pretende copiar a base, o artigo Duplicar [uma]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) ajudá-lo-ão.
 
 ## Mover bases para pastas ou adicionar aos favoritos
 
@@ -83,7 +83,7 @@ Para mais informações sobre bases de exportação, ver o artigo [Salvando uma 
 
 ## Eliminar e restaurar bases
 
-Pode [apagar as](https://seatable.io/pt/docs/arbeiten-mit-bases/loeschen-einer-base/) bases que possui ou administrar, se necessário, e [restaurá-las](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por até 30 dias. Siga as instruções contidas nos artigos ligados.
+Pode [apagar as]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) bases que possui ou administrar, se necessário, e [restaurá-las](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por até 30 dias. Siga as instruções contidas nos artigos ligados.
 
 ### Restaurar Base a partir de Snapshot
 

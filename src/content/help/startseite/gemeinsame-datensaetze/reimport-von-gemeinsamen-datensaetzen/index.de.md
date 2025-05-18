@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/reimport-von-gemeinsamen-datensaetzen'
 ---
 
-Wenn Sie **Bases**, in die gemeinsame Datensätze eingebunden sind, [kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) oder aus [Snapshots wiederherstellen](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), geht die **Verbindung zu den gemeinsamen Datensätzen** verloren. Die Daten liegen dann zwar in einer normalen Tabelle vor, lassen sich aber nicht mehr synchronisieren. Daher können Sie gemeinsame Datensätze wieder in bestehende Tabellen **reimportieren** und dadurch die **Synchronisation** mit den dortigen Daten ermöglichen.
+Wenn Sie **Bases**, in die gemeinsame Datensätze eingebunden sind, [kopieren]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) oder aus [Snapshots wiederherstellen](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), geht die **Verbindung zu den gemeinsamen Datensätzen** verloren. Die Daten liegen dann zwar in einer normalen Tabelle vor, lassen sich aber nicht mehr synchronisieren. Daher können Sie gemeinsame Datensätze wieder in bestehende Tabellen **reimportieren** und dadurch die **Synchronisation** mit den dortigen Daten ermöglichen.
 
 ## Wie Sie eine Tabelle wieder mit einem gemeinsamen Datensatz verknüpfen
 

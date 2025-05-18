@@ -10,7 +10,7 @@ url: '/ru/help/passwort-fuer-eine-base-festlegen'
 
 Um Ihre Bases vor unerwünschten Fremdzugriffen zu schützen, können Sie für jede Base ein beliebiges **Passwort** festlegen, das von jedem Benutzer, einschließlich Ihnen, korrekt eingegeben werden muss, um die entsprechende Base zu öffnen und anschließend bearbeiten zu können.
 
-Dies ergibt vor allem bei **Gruppenbases** Sinn, auf die nicht alle Gruppenmitglieder zugreifen sollen. Auf Bases im Bereich **Meine Bases** haben sowieso nur Sie selbst Zugriff. Dort kann ein Passwort sinnvoll sein, wenn Sie [eine Base an eine Gruppe freigeben](https://seatable.io/docs/freigaben/eine-base-an-eine-gruppe-freigeben/).
+Dies ergibt vor allem bei **Gruppenbases** Sinn, auf die nicht alle Gruppenmitglieder zugreifen sollen. Auf Bases im Bereich **Meine Bases** haben sowieso nur Sie selbst Zugriff. Dort kann ein Passwort sinnvoll sein, wenn Sie [eine Base an eine Gruppe freigeben]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).
 
 ## Passwort für eine Base festlegen
 

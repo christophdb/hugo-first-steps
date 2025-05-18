@@ -1,11 +1,11 @@
 ---
-title: "Funktionsweise von gemeinsamen Datensätzen"
+title: 'Funktionsweise von gemeinsamen Datensätzen'
 date: 2022-12-15
-lastmod: "2024-06-12"
-categories: 
-  - "gemeinsame-datensaetze"
-author: "nsc2"
-url: "/de/hilfe/funktionsweise-von-gemeinsamen-datensaetzen"
+lastmod: '2024-06-12'
+categories:
+    - 'gemeinsame-datensaetze'
+author: 'nsc2'
+url: '/de/hilfe/funktionsweise-von-gemeinsamen-datensaetzen'
 ---
 
 Mithilfe von gemeinsamen Datensätzen ist es möglich, eine im Voraus definierte Tabellenansicht anderen Gruppen und Nutzern zur Verfügung zu stellen, sodass diese in verschiedensten Kontexten und Abteilungen auf bestimmte Daten zugreifen können. Gemeinsame Datensätze sind ein mächtiges und extrem nützliches Feature in SeaTable, da sie den Workflow in Ihrem Team erleichtern können.
@@ -37,7 +37,7 @@ Sie möchten den Namen eines gemeinsamen Datensatzes ändern oder wissen, welche
 
 Um einen gemeinsamen Datensatz auch in anderen Gruppen nutzen zu können, können Sie diesen an eine beliebige Gruppe freigeben.
 
-[Erfahren Sie mehr über die Freigabe eines gemeinsamen Datensatzes.](https://seatable.io/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/)
+[Erfahren Sie mehr über die Freigabe eines gemeinsamen Datensatzes.]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}})
 
 ## Synchronisation eines gemeinsamen Datensatzes
 

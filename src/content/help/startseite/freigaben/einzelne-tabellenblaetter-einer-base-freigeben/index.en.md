@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/einzelne-tabellenblaetter-einer-base-freigeben'
 ---
 
-You do not want to **share** a whole base, but **individual tables**? You can do this via a **custom share** to specific [users](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) or entire [groups](https://seatable.io/en/docs/freigaben/eine-base-an-eine-gruppe-freigeben/).
+You do not want to **share** a whole base, but **individual tables**? You can do this via a **custom share** to specific [users]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).
 
 ## Share individual tables via the start page
 

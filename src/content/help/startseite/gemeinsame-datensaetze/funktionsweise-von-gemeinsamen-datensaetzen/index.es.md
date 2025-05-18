@@ -37,7 +37,7 @@ En primer lugar, publique cualquier vista de tabla junto con sus condiciones esp
 
 Para poder utilizar un registro compartido en otros grupos, puedes compartirlo con cualquier grupo.
 
-[Más información sobre cómo compartir un registro común.](https://seatable.io/es/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/)
+[Más información sobre cómo compartir un registro común.]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}})
 
 ## Sincronización de un conjunto de datos común
 

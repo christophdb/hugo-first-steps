@@ -46,7 +46,7 @@ Si se **activa** este ajuste, las distintas vistas de tabla de la base afectada 
 
 ### Impedir la copia de una base a otro grupo
 
-Activando esta opción, puedes **impedir** que otros usuarios [copien](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) la [base a otro grupo](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/).
+Activando esta opción, puedes **impedir** que otros usuarios [copien]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).
 
 Si este ajuste está **activado**, la base en cuestión no podrá ser copiada por **nadie** en otro grupo o en el área _Mis bases_ hasta que el ajuste sea desactivado de nuevo por un propietario o un administrador. Si a pesar de ello un usuario intenta copiar la base correspondiente a través de la página de inicio, se **impide** el proceso de copia y aparece el siguiente **mensaje de error**:
 
@@ -76,7 +76,7 @@ Activando esta opción, puede **evitar** que los usuarios a los que se [libere](
 
 ### Impedir la copia de una base a otro grupo
 
-Al activar esta opción, puede **impedir** que los usuarios a los que se ha [liberado](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/) la [base](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondiente la [copien](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) en otro grupo o en el área _Mis bases_.
+Al activar esta opción, puede **impedir** que los usuarios a los que se ha [liberado]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) en otro grupo o en el área _Mis bases_.
 
 ### Impedir la creación y modificación de operaciones de tratamiento de datos
 

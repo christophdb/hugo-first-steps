@@ -37,7 +37,7 @@ Vous souhaitez modifier le nom d'un enregistrement commun ou savoir quelles base
 
 Pour pouvoir utiliser un ensemble de données commun dans d'autres groupes, vous pouvez le partager avec n'importe quel groupe.
 
-[En savoir plus sur le partage d'un ensemble de données communes.](https://seatable.io/fr/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/)
+[En savoir plus sur le partage d'un ensemble de données communes.]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}})
 
 ## Synchronisation d'un ensemble de données commun
 

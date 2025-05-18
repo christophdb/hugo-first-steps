@@ -67,7 +67,7 @@ De ambas formas, se define un correo electrónico estandarizado cuyo **texto** s
 
 ¿Se copian las cuentas de correo electrónico cuando se copia una base?|||
 
-**No**, las cuentas de correo electrónico configuradas para una base **no se copian**. Si copias una base al área _Mis bases_ o [a un grupo](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/), deberás **volver a configurar** las cuentas de correo electrónico en la nueva base.
+**No**, las cuentas de correo electrónico configuradas para una base **no se copian**. Si copias una base al área _Mis bases_ o [a un grupo]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), deberás **volver a configurar** las cuentas de correo electrónico en la nueva base.
 
 ---
 

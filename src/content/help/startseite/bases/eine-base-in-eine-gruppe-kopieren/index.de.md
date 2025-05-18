@@ -20,11 +20,15 @@ Bases können Sie in SeaTable einfach **kopieren**. Auf diesem Weg können Sie e
 4. Wählen Sie die gewünschte **Gruppe** aus, in welche die Base kopiert werden soll.
 5. Bestätigen Sie mit **Absenden**.
 
-{{< warning  headline="Hinweis"  text="Nach dem Kopieren befindet sich die entsprechende Base sowohl am **ursprünglichen Ort** als auch am **Zielort**. Bei Bedarf können Sie die Base anschließend an einem Ort [löschen](https://seatable.io/docs/arbeiten-mit-bases/loeschen-einer-base/)." />}}
+{{< warning  headline="Hinweis" >}}
+
+Nach dem Kopieren befindet sich die entsprechende Base sowohl am **ursprünglichen Ort** als auch am **Zielort**. Bei Bedarf können Sie die Base anschließend an einem Ort [löschen]({{< relref "help/startseite/bases/loeschen-einer-base" >}}).
+
+{{< /warning >}}
 
 ## Eine mit gemeinsamen Datensätzen verknüpfte Base kopieren
 
-Wenn Sie eine Base kopieren, in die [gemeinsame Datensätze](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) eingebunden sind, können Sie entscheiden, ob Sie die **Verbindung zu diesen Datensätzen beibehalten** wollen. Die Gruppe, in die Sie die Base kopieren, muss dafür natürlich [Zugriff auf die gemeinsamen Datensätze](https://seatable.io/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/) haben.
+Wenn Sie eine Base kopieren, in die [gemeinsame Datensätze]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) eingebunden sind, können Sie entscheiden, ob Sie die **Verbindung zu diesen Datensätzen beibehalten** wollen. Die Gruppe, in die Sie die Base kopieren, muss dafür natürlich [Zugriff auf die gemeinsamen Datensätze]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}) haben.
 
 ![Retain link to common dataset when copying a base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
 

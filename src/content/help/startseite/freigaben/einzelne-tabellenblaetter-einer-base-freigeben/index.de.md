@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/einzelne-tabellenblaetter-einer-base-freigeben'
 ---
 
-Sie möchten keine ganze Base, sondern **einzelne Tabellen freigeben**? Dies können Sie über eine **benutzerdefinierte Freigabe** an bestimmte [Benutzer](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/) oder ganze [Gruppen](https://seatable.io/docs/freigaben/eine-base-an-eine-gruppe-freigeben/) bewerkstelligen.
+Sie möchten keine ganze Base, sondern **einzelne Tabellen freigeben**? Dies können Sie über eine **benutzerdefinierte Freigabe** an bestimmte [Benutzer]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}) bewerkstelligen.
 
 ## Einzelne Tabellen über die Startseite freigeben
 

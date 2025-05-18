@@ -44,7 +44,7 @@ Saisissez le nouveau nom et confirmez en cliquant sur **Envoyer**.
 
 ## Gérer les droits d'accès
 
-L'option **Gérer l'accès** vous permet de partager votre ensemble de données commun avec un autre groupe ou de lui retirer l'accès. Pour savoir comment cela fonctionne exactement, [cliquez ici](https://seatable.io/fr/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/).
+L'option **Gérer l'accès** vous permet de partager votre ensemble de données commun avec un autre groupe ou de lui retirer l'accès. Pour savoir comment cela fonctionne exactement, [cliquez ici]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ## Forcer la synchronisation avec l'ensemble de données commun
 

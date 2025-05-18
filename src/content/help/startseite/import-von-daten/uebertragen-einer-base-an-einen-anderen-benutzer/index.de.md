@@ -17,7 +17,7 @@ Diese Herausforderung lässt sich denkbar leicht meistern. Legen Sie eine **neue
 Diese Schritte kann **jedes Teammitglied** durchführen – unabhängig davon, ob Sie Administratorrechte innerhalb Ihres Teams haben oder nicht. Die folgenden Hilfeartikel werden Ihnen dabei helfen:
 
 - [Eine neue Gruppe anlegen]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}})
-- [Eine Base in eine Gruppe kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
+- [Eine Base in eine Gruppe kopieren]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 
 ## Übertragen einer Base an ein anderes Team
 

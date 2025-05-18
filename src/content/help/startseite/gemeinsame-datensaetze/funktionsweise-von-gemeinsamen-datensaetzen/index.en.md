@@ -37,7 +37,7 @@ Would you like to change the name of a shared data set or know which bases are l
 
 To be able to use a shared record in other groups, you can share it with any group.
 
-[Learn more about sharing a common data set.](https://seatable.io/en/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/)
+[Learn more about sharing a common data set.]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}})
 
 ## Synchronization of a shared data set
 

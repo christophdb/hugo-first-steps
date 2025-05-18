@@ -37,7 +37,7 @@ url: '/ru/help/funktionsweise-von-gemeinsamen-datensaetzen'
 
 Чтобы иметь возможность использовать общую запись в других группах, вы можете поделиться ею с любой группой.
 
-[Узнайте больше о совместном использовании общей записи.](https://seatable.io/ru/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/)
+[Узнайте больше о совместном использовании общей записи.]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}})
 
 ## Синхронизация общего набора данных
 

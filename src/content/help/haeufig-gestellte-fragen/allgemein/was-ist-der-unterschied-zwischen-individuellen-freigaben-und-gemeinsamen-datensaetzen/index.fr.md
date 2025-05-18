@@ -43,4 +43,8 @@ L'exemple suivant permet d'illustrer ce point :
 - Les tables qui accèdent à un ensemble de données commun peuvent être **synchronisées** à tout moment, c'est-à-dire comparées à la version la plus récente de l'ensemble de données (par exemple lorsque des collaborateurs viennent d'être ajoutés ou quittent l'entreprise).
 - Il existe une relation descendante : les modifications apportées à l'ensemble de données commun sont reprises dans les tables dépendantes lors de la synchronisation. Les modifications apportées à ces tables n'ont toutefois **aucun** effet sur l'ensemble de données sous-jacent.
 
-{{< warning headline="Informations complémentaires" text="Vous trouverez [ici](https://seatable.io/fr/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) des informations plus détaillées et des instructions concrètes sur l'utilisation des jeux de données partagés." />}}
+{{< warning headline="Informations complémentaires" >}}
+
+Vous trouverez [ici]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) des informations plus détaillées et des instructions concrètes sur l'utilisation des jeux de données partagés.
+
+{{< /warning >}}

@@ -19,11 +19,16 @@ url: '/ru/help/eine-base-in-eine-gruppe-kopieren'
 3. Нажмите на **три точки**, а затем на **Копировать**.
 4. Выберите нужную **группу**, в которую будет скопирована база.
 5. Подтвердите нажатием кнопки **Отправить**.
-   {{< warning  headline="Примечание"  text="После копирования соответствующая база находится как в **исходном местоположении**, так и в **местоположении назначения**. При необходимости базу можно [удалить](https://seatable.io/ru/docs/arbeiten-mit-bases/loeschen-einer-base/) в том или ином месте." />}}
+
+{{< warning  headline="Примечание" >}}
+
+После копирования соответствующая база находится как в **исходном местоположении**, так и в **местоположении назначения**. При необходимости базу можно [удалить]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) в том или ином месте.
+
+{{< /warning >}}
 
 ## Копирование базы, связанной с общими записями данных
 
-Если вы копируете базу, содержащую общие [записи](https://seatable.io/ru/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) данных, вы можете решить, **сохранять** ли **связь с этими записями данных**. Группа, в которую вы копируете базу, конечно же, должна иметь [доступ к](https://seatable.io/ru/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/) общим записям данных.
+Если вы копируете базу, содержащую общие [записи]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) данных, вы можете решить, **сохранять** ли **связь с этими записями данных**. Группа, в которую вы копируете базу, конечно же, должна иметь [доступ к]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}) общим записям данных.
 
 ![Сохранение ссылки на общий набор данных при копировании базы](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
 

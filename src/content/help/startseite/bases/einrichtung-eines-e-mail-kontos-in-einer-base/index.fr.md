@@ -67,7 +67,7 @@ Les données d'accès à la messagerie (en particulier le mot de passe) sont-ell
 
 Les comptes de messagerie sont-ils copiés lors de la copie d'une base ?|||
 
-**Non**, les comptes de messagerie configurés dans une base ne sont **pas copiés**. Si vous copiez une base dans le domaine _Mes bases_ ou [dans un groupe](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/), vous devez **reconfigurer** les comptes de messagerie dans la nouvelle base.
+**Non**, les comptes de messagerie configurés dans une base ne sont **pas copiés**. Si vous copiez une base dans le domaine _Mes bases_ ou [dans un groupe]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), vous devez **reconfigurer** les comptes de messagerie dans la nouvelle base.
 
 ---
 

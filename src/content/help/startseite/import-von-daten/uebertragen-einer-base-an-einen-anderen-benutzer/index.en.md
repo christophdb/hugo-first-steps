@@ -17,7 +17,7 @@ This challenge is very easy to overcome. Create a **new group** and add the othe
 These steps can be performed by **any team member** - regardless of whether you have administrator rights within your team or not. The following help articles will help you with this:
 
 - [Create a new group]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}})
-- [Copying a Base to a Group](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
+- [Copying a Base to a Group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 
 ## Transferring a Base to another team
 

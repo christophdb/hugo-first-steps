@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/help/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
-Базы состоят из одной или нескольких таблиц, которые, в свою очередь, могут содержать совершенно разные данные и связываться друг с другом. База может содержать до **200 столов**. Однако для большей ясности следует рассмотреть возможность разделения таблиц на несколько баз и синхронизации данных с помощью функции [Shared Data Sets](https://seatable.io/ru/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/), если у вас более 20 таблиц.
+Базы состоят из одной или нескольких таблиц, которые, в свою очередь, могут содержать совершенно разные данные и связываться друг с другом. База может содержать до **200 столов**. Однако для большей ясности следует рассмотреть возможность разделения таблиц на несколько баз и синхронизации данных с помощью функции [Shared Data Sets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), если у вас более 20 таблиц.
 
 ## Добавить таблицу в базу
 
@@ -32,7 +32,7 @@ url: '/ru/help/eine-tabelle-in-einer-base-hinzufuegen'
 
 ![Импорт таблицы из другой базы](images/import-table-from-other-base.gif)
 
-С помощью [общих записей](https://seatable.io/ru/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) вы также можете совместно использовать главную таблицу в группе и использовать и синхронизировать ответвления таблицы в разных базах. Подробнее об этом можно узнать [здесь](https://seatable.io/ru/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+С помощью [общих записей]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) вы также можете совместно использовать главную таблицу в группе и использовать и синхронизировать ответвления таблицы в разных базах. Подробнее об этом можно узнать [здесь](https://seatable.io/ru/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
 
 ## Сохраняйте обзор
 

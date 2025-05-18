@@ -26,7 +26,7 @@ This process is also very simple. First, create **another team member with the n
 - [Add a new team member](https://seatable.io/en/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
 - [Make a team member an administrator](https://seatable.io/en/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Create a new group]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
-- [Copying a Base to a Group](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
+- [Copying a Base to a Group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 - [Assign permissions in a group](https://seatable.io/en/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
 - [Lock or delete a team member](https://seatable.io/en/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
 

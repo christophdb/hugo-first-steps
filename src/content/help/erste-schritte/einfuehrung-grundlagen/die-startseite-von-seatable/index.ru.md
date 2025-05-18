@@ -23,7 +23,7 @@ url: '/ru/help/die-startseite-von-seatable'
 
 ## Навигация по страницам
 
-В левой части навигации главной страницы содержатся ссылки на различные разделы и ресурсы: [Базы](https://seatable.io/ru/docs/arbeiten-mit-bases/bases/), [Приложения](https://seatable.io/ru/docs/apps/welche-apps-gibt-es/), [Журнал активности](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/), [Общие записи](https://seatable.io/ru/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) и [Корзина](https://seatable.io/ru/docs/arbeiten-mit-bases/loeschen-einer-base/) главной [страницы](https://seatable.io/ru/docs/arbeiten-mit-bases/loeschen-einer-base/). Вы также найдете ссылки на данное руководство пользователя и [шаблоны](https://seatable.io/ru/vorlagen/), доступные вам в SeaTable.
+В левой части навигации главной страницы содержатся ссылки на различные разделы и ресурсы: [Базы]({{< relref "help/startseite/bases/loeschen-einer-base" >}}). Вы также найдете ссылки на данное руководство пользователя и [шаблоны](https://seatable.io/ru/vorlagen/), доступные вам в SeaTable.
 
 ## Рабочее пространство
 

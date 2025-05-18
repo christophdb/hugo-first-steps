@@ -35,7 +35,7 @@ Para que pueda controlar quién ha realizado qué cambios en los datos de sus ba
 
 ## Conjuntos de datos comunes
 
-Los registros que necesitan los distintos grupos y usuarios de tu equipo pueden ponerse a su disposición mediante registros [compartidos](https://seatable.io/es/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) como plantillas para nuevas tablas. Cualquier tabla que los miembros de su equipo creen con un registro compartido, pueden [sincronizarla](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable sobrescribe los datos de la tabla con los del registro compartido actual para que todos estén al mismo nivel.
+Los registros que necesitan los distintos grupos y usuarios de tu equipo pueden ponerse a su disposición mediante registros [compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) como plantillas para nuevas tablas. Cualquier tabla que los miembros de su equipo creen con un registro compartido, pueden [sincronizarla](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable sobrescribe los datos de la tabla con los del registro compartido actual para que todos estén al mismo nivel.
 
 ## Comunicados internos
 

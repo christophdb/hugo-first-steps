@@ -69,7 +69,7 @@ url: '/ru/help/bases'
 
 ## Копировальная база
 
-Вы можете **копировать** все базы, к которым у вас есть доступ. В зависимости от того, откуда взята база и куда ее нужно скопировать, вам поможет статья [Дублирование](https://seatable.io/ru/docs/arbeiten-mit-bases/duplizieren-einer-bestehenden-base/) базы (в разделе Copy My Base) или статья Копирование [базы в группу](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/).
+Вы можете **копировать** все базы, к которым у вас есть доступ. В зависимости от того, откуда взята база и куда ее нужно скопировать, вам поможет статья [Дублирование]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).
 
 ## Переместить базы в папки или добавить в избранное
 
@@ -83,7 +83,7 @@ url: '/ru/help/bases'
 
 ## Удаление и восстановление баз
 
-При необходимости можно [удалить](https://seatable.io/ru/docs/arbeiten-mit-bases/loeschen-einer-base/) базы, которыми вы владеете или администрируете, и [восстановить](https://seatable.io/ru/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) их на срок до 30 дней. Следуйте инструкциям в статьях, на которые даны ссылки.
+При необходимости можно [удалить]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) базы, которыми вы владеете или администрируете, и [восстановить](https://seatable.io/ru/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) их на срок до 30 дней. Следуйте инструкциям в статьях, на которые даны ссылки.
 
 ### Восстановление базы из моментального снимка
 

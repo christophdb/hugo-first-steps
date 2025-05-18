@@ -71,7 +71,7 @@ Werden E-Mail-Konten beim Kopieren einer Base kopiert?
 
 |||
 
-**Nein**, die einer Base eingerichteten E-Mail-Konten werden **nicht kopiert**. Wenn Sie eine Base in den Bereich _Meine Bases_ oder [in eine Gruppe](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) kopieren, müssen Sie in der neuen Base die E-Mail-Konten **neu einrichten**.
+**Nein**, die einer Base eingerichteten E-Mail-Konten werden **nicht kopiert**. Wenn Sie eine Base in den Bereich _Meine Bases_ oder [in eine Gruppe]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) kopieren, müssen Sie in der neuen Base die E-Mail-Konten **neu einrichten**.
 
 ---
 

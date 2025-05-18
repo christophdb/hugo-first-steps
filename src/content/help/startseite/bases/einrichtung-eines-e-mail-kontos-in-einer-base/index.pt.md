@@ -67,7 +67,7 @@ Os dados de acesso ao correio eletrónico (especialmente a palavra-passe) são v
 
 As contas de correio eletrónico são copiadas quando uma base é copiada?|||
 
-**Não**, as contas de e-mail configuradas para uma base **não** são **copiadas**. Se copiar uma base para a área _As minhas bases_ ou [para um grupo](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/), tem de **configurar novamente** as contas de correio eletrónico na nova base.
+**Não**, as contas de e-mail configuradas para uma base **não** são **copiadas**. Se copiar uma base para a área _As minhas bases_ ou [para um grupo]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), tem de **configurar novamente** as contas de correio eletrónico na nova base.
 
 ---
 

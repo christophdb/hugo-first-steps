@@ -43,4 +43,8 @@ Dies soll anhand des folgenden Beispiels verdeutlicht werden:
 - Die auf einen gemeinsamen Datensatz zugreifenden Tabellen können jederzeit **synchronisiert**, also mit der aktuellsten Version des Datensatzes abgeglichen werden (z. B. wenn Mitarbeiter neu hinzukommen oder ausscheiden).
 - Dabei besteht eine Top-down-Beziehung: Änderungen am gemeinsamen Datensatz werden bei Synchronisation in die abhängigen Tabellen übernommen. Änderungen in diesen Tabellen haben aber **keine** Auswirkungen auf den zugrundeliegenden Datensatz.
 
-{{< warning headline="Weiterführende Informationen" text="Ausführlichere Informationen und eine konkrete Anleitung für die Nutzung von gemeinsamen Datensätzen finden Sie [hier](\"https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/\")." />}}
+{{< warning headline="Weiterführende Informationen" >}}
+
+Ausführlichere Informationen und eine konkrete Anleitung für die Nutzung von gemeinsamen Datensätzen finden Sie [hier]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}).
+
+{{< /warning >}}

@@ -22,13 +22,13 @@ You can easily **copy** bases in SeaTable. In this way, you can move one of your
 
 {{< warning  headline="Note" >}}
 
-After copying, the corresponding base is located both at the **original location** and at the **destination location**. If necessary, you can [delete](https://seatable.io/docs/arbeiten-mit-bases/loeschen-einer-base/) the base at a location afterwards.
+After copying, the corresponding base is located both at the **original location** and at the **destination location**. If necessary, you can [delete]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) the base at a location afterwards.
 
 {{< /warning >}}
 
 ## Copy a base linked to shared data records
 
-If you copy a base that contains [shared data records](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/), you can decide whether you want to **retain** the **connection to these data records**. The group to which you copy the base must of course have [access to the shared data records](https://seatable.io/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/).
+If you copy a base that contains [shared data records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), you can decide whether you want to **retain** the **connection to these data records**. The group to which you copy the base must of course have [access to the shared data records]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ![Retain link to common dataset when copying a base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
 

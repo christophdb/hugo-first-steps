@@ -23,7 +23,7 @@ Die Kopfzeile der Startseite enthält vier Elemente. Diese sind:
 
 ## Seitennavigation
 
-Die linke Seitennavigation der Startseite enthält Links zu verschiedenen Abschnitten und Ressourcen: [Bases](https://seatable.io/docs/arbeiten-mit-bases/bases/), [Apps](https://seatable.io/docs/apps/welche-apps-gibt-es/), das [Aktivitätenprotokoll](https://seatable.io/docs/historie-und-versionen/historie-und-logs/), [gemeinsame Datensätze](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) und den [Startseiten-Papierkorb](https://seatable.io/docs/arbeiten-mit-bases/loeschen-einer-base/). Außerdem finden Sie hier Links zu diesem Benutzerhandbuch und den [Vorlagen](https://seatable.io/vorlagen/), die Ihnen innerhalb von SeaTable zur Verfügung stehen.
+Die linke Seitennavigation der Startseite enthält Links zu verschiedenen Abschnitten und Ressourcen: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}). Außerdem finden Sie hier Links zu diesem Benutzerhandbuch und den [Vorlagen](https://seatable.io/vorlagen/), die Ihnen innerhalb von SeaTable zur Verfügung stehen.
 
 ## Arbeitsbereich
 

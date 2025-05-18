@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
-Las bases constan de una o varias tablas, que a su vez pueden contener datos muy diferentes y enlazarse entre sí. Una base puede contener **hasta 200 mesas**. Sin embargo, en aras de la claridad, debería considerar dividir las tablas en varias bases y sincronizar los datos con la función [Conjuntos de datos compartidos](https://seatable.io/es/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) si tiene más de 20 tablas.
+Las bases constan de una o varias tablas, que a su vez pueden contener datos muy diferentes y enlazarse entre sí. Una base puede contener **hasta 200 mesas**. Sin embargo, en aras de la claridad, debería considerar dividir las tablas en varias bases y sincronizar los datos con la función [Conjuntos de datos compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) si tiene más de 20 tablas.
 
 ## Añadir una tabla en una base
 
@@ -32,7 +32,7 @@ En SeaTable, [las bases](https://seatable.io/es/docs/arbeiten-mit-bases/bases/) 
 
 ![Importar una tabla de otra base](images/import-table-from-other-base.gif)
 
-Con los [registros compartidos](https://seatable.io/es/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/), también puede compartir una tabla maestra en un grupo y utilizar y sincronizar los vástagos de la tabla en diferentes bases. Para más información [, haz clic aquí](https://seatable.io/es/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+Con los [registros compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), también puede compartir una tabla maestra en un grupo y utilizar y sincronizar los vástagos de la tabla en diferentes bases. Para más información [, haz clic aquí](https://seatable.io/es/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
 
 ## Mantener la visión de conjunto
 

@@ -26,7 +26,7 @@ Auch dieser Vorgang ist denkbar einfach. Als Erstes legen Sie ein **weiteres Tea
 - [Ein neues Teammitglied hinzufügen](https://seatable.io/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
 - [Ein Teammitglied zum Administrator machen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Eine neue Gruppe anlegen]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
-- [Eine Base in eine Gruppe kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
+- [Eine Base in eine Gruppe kopieren]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 - [Berechtigungen in einer Gruppe vergeben](https://seatable.io/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
 - [Ein Teammitglied sperren oder löschen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
 

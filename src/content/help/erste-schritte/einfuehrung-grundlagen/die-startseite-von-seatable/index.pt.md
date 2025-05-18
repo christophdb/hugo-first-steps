@@ -23,7 +23,7 @@ O cabeçalho da página inicial contém quatro elementos. Estes são:
 
 ## Navegação da página
 
-A navegação do lado esquerdo da página inicial contém hiperligações para várias secções e recursos: [Bases](https://seatable.io/pt/docs/arbeiten-mit-bases/bases/), [Aplicações](https://seatable.io/pt/docs/apps/welche-apps-gibt-es/), [Registo de Actividades](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/), [Registos Partilhados](https://seatable.io/pt/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) e a [Caixa da Página](https://seatable.io/pt/docs/arbeiten-mit-bases/loeschen-einer-base/) Inicial. Encontrará também ligações para este manual do utilizador e para os [modelos](https://seatable.io/pt/vorlagen/) disponíveis no SeaTable.
+A navegação do lado esquerdo da página inicial contém hiperligações para várias secções e recursos: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) Inicial. Encontrará também ligações para este manual do utilizador e para os [modelos](https://seatable.io/pt/vorlagen/) disponíveis no SeaTable.
 
 ## Espaço de trabalho
 

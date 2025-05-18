@@ -46,7 +46,7 @@ Si ce paramètre **est activé**, les différentes vues de tableau de la base co
 
 ### Empêcher la copie d'une base dans un autre groupe
 
-En activant ce paramètre, vous pouvez **empêcher** d'autres utilisateurs de [copier](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) la [base dans un autre groupe](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/).
+En activant ce paramètre, vous pouvez **empêcher** d'autres utilisateurs de [copier]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).
 
 Si ce paramètre **est activé**, la base concernée ne peut plus être copiée par **quiconque** dans un autre groupe ou dans la section _Mes bases_, jusqu'à ce que le paramètre soit désactivé par un propriétaire ou un administrateur. Si un utilisateur tente malgré tout de copier la base concernée via la page d'accueil, le processus de copie est **interrompu** et le **message d'erreur** suivant apparaît :
 
@@ -76,7 +76,7 @@ En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesqu
 
 ### Empêcher la copie d'une base dans un autre groupe
 
-En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesquels la [base](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondante est [partagée](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) de la [copier](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) dans un autre groupe ou dans la zone _Mes bases_.
+En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesquels la [base]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) dans un autre groupe ou dans la zone _Mes bases_.
 
 ### Empêcher la création et la modification d'opérations de traitement des données
 

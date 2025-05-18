@@ -17,7 +17,7 @@ Il est très facile de relever ce défi. Créez un **nouveau groupe** et ajoutez
 **Chaque membre de l'équipe** peut effectuer ces étapes, que vous ayez ou non des droits d'administrateur au sein de votre équipe. Les articles d'aide suivants vous aideront à le faire :
 
 - [Créer un nouveau groupe]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}})
-- [Copier une base dans un groupe](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
+- [Copier une base dans un groupe]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 
 ## Transférer une base à une autre équipe
 

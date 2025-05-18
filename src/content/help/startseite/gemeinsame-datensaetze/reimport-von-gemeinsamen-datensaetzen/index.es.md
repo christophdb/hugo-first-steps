@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/reimport-von-gemeinsamen-datensaetzen'
 ---
 
-Si se [copian](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) **bases** en las que están integrados registros de **datos compartidos** o se [restauran](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) a partir de [instantáneas](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), se pierde la **conexión con los registros de datos compartidos**. Aunque los datos están disponibles en una tabla normal, ya no se pueden sincronizar. Por lo tanto, puede **volver a importar** registros de datos compartidos en tablas existentes para permitir la **sincronización** con los datos que allí se encuentran.
+Si se [copian]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) **bases** en las que están integrados registros de **datos compartidos** o se [restauran](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) a partir de [instantáneas](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), se pierde la **conexión con los registros de datos compartidos**. Aunque los datos están disponibles en una tabla normal, ya no se pueden sincronizar. Por lo tanto, puede **volver a importar** registros de datos compartidos en tablas existentes para permitir la **sincronización** con los datos que allí se encuentran.
 
 ## Cómo volver a vincular una tabla a un registro de datos común
 

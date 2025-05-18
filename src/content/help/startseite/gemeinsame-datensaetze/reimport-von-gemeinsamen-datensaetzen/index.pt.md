@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/reimport-von-gemeinsamen-datensaetzen'
 ---
 
-Se [copiar](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) **bases** nas quais estão integrados registos de dados partilhados ou se [as restaurar](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) a partir de [instantâneos](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), a **ligação aos registos de dados partilhados** perde-se. Embora os dados estejam então disponíveis numa tabela normal, já não podem ser sincronizados. Por conseguinte, é possível **reimportar** os registos de dados partilhados para as tabelas existentes para permitir **a sincronização** com os dados aí existentes.
+Se [copiar]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) **bases** nas quais estão integrados registos de dados partilhados ou se [as restaurar](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) a partir de [instantâneos](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), a **ligação aos registos de dados partilhados** perde-se. Embora os dados estejam então disponíveis numa tabela normal, já não podem ser sincronizados. Por conseguinte, é possível **reimportar** os registos de dados partilhados para as tabelas existentes para permitir **a sincronização** com os dados aí existentes.
 
 ## Como ligar novamente uma tabela a um registo de dados comum
 

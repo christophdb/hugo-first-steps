@@ -10,7 +10,7 @@ url: '/es/ayuda/passwort-fuer-eine-base-festlegen'
 
 Para proteger tus bases de accesos externos no deseados, puedes establecer una **contraseña** cualquiera para cada base, que deberá ser introducida correctamente por todos los usuarios, incluido tú, para poder abrir y posteriormente editar la base correspondiente.
 
-Esto tiene sentido especialmente para las bases de **grupo** que no deben ser accesibles a todos los miembros del grupo. De todos modos, sólo tú tienes acceso a las bases del área **Mis bases**. Una contraseña puede ser útil si [compartes una base con un grupo](https://seatable.io/es/docs/freigaben/eine-base-an-eine-gruppe-freigeben/).
+Esto tiene sentido especialmente para las bases de **grupo** que no deben ser accesibles a todos los miembros del grupo. De todos modos, sólo tú tienes acceso a las bases del área **Mis bases**. Una contraseña puede ser útil si [compartes una base con un grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).
 
 ## Establecer una contraseña para una base
 

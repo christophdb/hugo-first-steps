@@ -35,7 +35,7 @@ Para lhe permitir seguir quem fez as alterações aos dados nas suas bases e qua
 
 ## Conjuntos de dados comuns
 
-Registos que diferentes grupos e utilizadores da sua equipa necessitam podem ser-lhes disponibilizados através de [registos partilhados](https://seatable.io/pt/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) como modelos para novas tabelas. Qualquer tabela que os membros da sua equipa criem com um registo partilhado, eles podem [sincronizar-se](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable sobrepõe os dados da tabela com os do actual registo partilhado, para que todos estejam ao mesmo nível.
+Registos que diferentes grupos e utilizadores da sua equipa necessitam podem ser-lhes disponibilizados através de [registos partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) como modelos para novas tabelas. Qualquer tabela que os membros da sua equipa criem com um registo partilhado, eles podem [sincronizar-se](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable sobrepõe os dados da tabela com os do actual registo partilhado, para que todos estejam ao mesmo nível.
 
 ## Lançamentos internos
 

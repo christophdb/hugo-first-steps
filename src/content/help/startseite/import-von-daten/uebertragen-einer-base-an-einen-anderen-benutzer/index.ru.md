@@ -17,7 +17,7 @@ url: '/ru/help/uebertragen-einer-base-an-einen-anderen-benutzer'
 Эти шаги может выполнить **любой член команды** - независимо от того, обладаете ли вы правами администратора в своей команде или нет. В этом вам помогут следующие справочные статьи:
 
 - [Создайте новую группу]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}})
-- [Копирование базы в группу](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
+- [Копирование базы в группу]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 
 ## Передача базы в другую команду
 

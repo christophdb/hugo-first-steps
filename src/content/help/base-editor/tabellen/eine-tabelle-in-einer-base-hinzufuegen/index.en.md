@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
-Bases consist of one or more tables, which in turn can hold very different data and link to each other. A base can contain **up to 200 tables**. For the sake of clarity, however, you should consider splitting the tables into several bases and synchronizing the data with the [Shared Data Sets](https://seatable.io/en/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) function if you have more than 20 tables.
+Bases consist of one or more tables, which in turn can hold very different data and link to each other. A base can contain **up to 200 tables**. For the sake of clarity, however, you should consider splitting the tables into several bases and synchronizing the data with the [Shared Data Sets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) function if you have more than 20 tables.
 
 ## Add a table in a base
 
@@ -32,7 +32,7 @@ In SeaTable, [Bases](https://seatable.io/en/docs/arbeiten-mit-bases/bases/) are 
 
 ![Importing a table from another base](images/import-table-from-other-base.gif)
 
-[Shared records](https://seatable.io/en/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) also allow you to share a master table in a group and use and synchronize the table offshoots in different bases. You can learn more about this [here](https://seatable.io/en/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+[Shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) also allow you to share a master table in a group and use and synchronize the table offshoots in different bases. You can learn more about this [here](https://seatable.io/en/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
 
 ## Keep the overview
 

@@ -44,7 +44,7 @@ url: '/ru/help/verwaltung-eines-gemeinsamen-datensatzes'
 
 ## Управление полномочиями доступа
 
-Вы можете воспользоваться опцией " **Управление доступом** ", чтобы передать запись общих данных другой группе или снова отозвать доступ. Как именно это работает, вы можете узнать [здесь](https://seatable.io/ru/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/).
+Вы можете воспользоваться опцией " **Управление доступом** ", чтобы передать запись общих данных другой группе или снова отозвать доступ. Как именно это работает, вы можете узнать [здесь]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ## Принудительная синхронизация с общим набором данных
 

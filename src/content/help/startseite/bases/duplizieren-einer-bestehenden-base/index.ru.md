@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/help/duplizieren-einer-bestehenden-base'
 ---
 
-В SeaTable у вас есть возможность дублировать существующие базы. Вы можете создать копию своей базы в одной из [групп](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) или в области " **Мои базы** ". Последний вариант работает следующим образом:
+В SeaTable у вас есть возможность дублировать существующие базы. Вы можете создать копию своей базы в одной из [групп]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) или в области " **Мои базы** ". Последний вариант работает следующим образом:
 
 ![Копирование базы](images/duplicate-a-base.png)
 

@@ -44,7 +44,7 @@ Introduzir o novo nome e confirmar com **Enviar**.
 
 ## Gerir as autorizações de acesso
 
-Pode utilizar a opção **Gerir acesso** para partilhar o seu conjunto de dados partilhados com outro grupo ou retirar novamente o acesso. Pode saber exatamente como isto funciona [aqui](https://seatable.io/pt/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/).
+Pode utilizar a opção **Gerir acesso** para partilhar o seu conjunto de dados partilhados com outro grupo ou retirar novamente o acesso. Pode saber exatamente como isto funciona [aqui]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ## Forçar a sincronização com o conjunto de dados partilhados
 

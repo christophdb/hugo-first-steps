@@ -46,7 +46,7 @@ Se esta definição estiver **activada**, as várias vistas de tabela da base af
 
 ### Impedir a cópia de uma base para outro grupo
 
-Ao activar esta definição, pode **impedir que** outros utilizadores [copiem](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) a [base para outro grupo](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/).
+Ao activar esta definição, pode **impedir que** outros utilizadores [copiem]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).
 
 Se esta definição estiver **activada**, a base em questão não pode ser copiada por **ninguém** para outro grupo ou para a área _As minhas bases_ até que a definição seja novamente desactivada por um proprietário ou administrador. Se, mesmo assim, um utilizador tentar copiar a base correspondente através da página inicial, o processo de cópia é **impedido** e aparece a seguinte **mensagem de erro**:
 
@@ -76,7 +76,7 @@ Ao activar esta definição, pode **impedir que** os utilizadores a quem a [base
 
 ### Impedir a cópia de uma base para outro grupo
 
-Ao activar esta definição, pode **impedir que** os utilizadores a quem a [base](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondente foi [libertada](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) a [copiem](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) para outro grupo ou para a área _As minhas bases_.
+Ao activar esta definição, pode **impedir que** os utilizadores a quem a [base]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) para outro grupo ou para a área _As minhas bases_.
 
 ### Impedir a criação e alteração de operações de tratamento de dados
 

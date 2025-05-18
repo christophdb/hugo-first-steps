@@ -37,7 +37,7 @@ Deseja alterar o nome de um registo de dados partilhado ou saber que bases estã
 
 Para poder utilizar um registo partilhado em outros grupos, pode partilhá-lo com qualquer grupo.
 
-[Saiba mais sobre a partilha de um registo comum.](https://seatable.io/pt/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/)
+[Saiba mais sobre a partilha de um registo comum.]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}})
 
 ## Sincronização de um conjunto de dados comum
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/einzelne-tabellenblaetter-einer-base-freigeben'
 ---
 
-Vous ne souhaitez pas **partager** une base entière, mais **des tables individuelles**? Vous pouvez le faire en **définissant un partage personnalisé** avec certains [utilisateurs](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) ou [des groupes](https://seatable.io/fr/docs/freigaben/eine-base-an-eine-gruppe-freigeben/) entiers.
+Vous ne souhaitez pas **partager** une base entière, mais **des tables individuelles**? Vous pouvez le faire en **définissant un partage personnalisé** avec certains [utilisateurs]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}) entiers.
 
 ## Partager des tableaux individuels via la page d'accueil
 

@@ -50,7 +50,7 @@ If this setting is **activated**, the various table views of the affected Base c
 
 ### Prevent copying a base to another group
 
-By enabling this setting you can **prevent** other users from [copying Base to another group](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/).
+By enabling this setting you can **prevent** other users from [copying Base to another group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).
 
 If this setting is **activated**, the base in question can no longer be copied by **anyone** to another group or to the _My Bases_ area until the setting is deactivated again by an owner or an administrator. If a user nevertheless tries to copy the corresponding base via the start page, the copying process is **prevented** and the following **error message** appears:
 
@@ -80,7 +80,7 @@ By activating this setting you can **prevent** users to whom the corresponding [
 
 ### Prevent copying a base to another group
 
-By enabling this setting you can **prevent** users to whom the corresponding [base](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) is [shared](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) from [copying](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) it to another group or to the _My Bases_ section.
+By enabling this setting you can **prevent** users to whom the corresponding [base]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) it to another group or to the _My Bases_ section.
 
 ### Prevent creation and modification of data processing operations
 

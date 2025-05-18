@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
-As bases consistem em uma ou mais tabelas, que por sua vez podem conter dados muito diferentes e ligar-se umas às outras. Uma base pode conter **até 200 mesas**. No entanto, por uma questão de clareza, deve considerar dividir as tabelas em várias bases e sincronizar os dados com a função de [Conjuntos de Dados Partilhados](https://seatable.io/pt/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/), se tiver mais de 20 tabelas.
+As bases consistem em uma ou mais tabelas, que por sua vez podem conter dados muito diferentes e ligar-se umas às outras. Uma base pode conter **até 200 mesas**. No entanto, por uma questão de clareza, deve considerar dividir as tabelas em várias bases e sincronizar os dados com a função de [Conjuntos de Dados Partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), se tiver mais de 20 tabelas.
 
 ## Acrescentar uma tabela numa base
 
@@ -32,7 +32,7 @@ No SeaTable, [as bases](https://seatable.io/pt/docs/arbeiten-mit-bases/bases/) s
 
 ![Importar uma tabela de outra base](images/import-table-from-other-base.gif)
 
-Com [conjuntos de dados partilhados](https://seatable.io/pt/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/), pode também partilhar uma tabela principal num grupo e utilizar e sincronizar as ramificações da tabela em bases diferentes. Pode obter mais informações sobre este assunto [aqui](https://seatable.io/pt/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+Com [conjuntos de dados partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), pode também partilhar uma tabela principal num grupo e utilizar e sincronizar as ramificações da tabela em bases diferentes. Pode obter mais informações sobre este assunto [aqui](https://seatable.io/pt/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
 
 ## Manter a visão geral
 

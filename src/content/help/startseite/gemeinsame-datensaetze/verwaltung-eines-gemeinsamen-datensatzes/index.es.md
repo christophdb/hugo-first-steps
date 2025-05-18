@@ -44,7 +44,7 @@ Introduzca el nuevo nombre y confirme con **Enviar**.
 
 ## Gestionar las autorizaciones de acceso
 
-Puede utilizar la opción **Gestionar acceso** para compartir su registro de datos compartidos con otro grupo o retirar el acceso de nuevo. [Aquí](https://seatable.io/es/docs/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe/) puedes ver cómo funciona exactamente.
+Puede utilizar la opción **Gestionar acceso** para compartir su registro de datos compartidos con otro grupo o retirar el acceso de nuevo. [Aquí]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}) puedes ver cómo funciona exactamente.
 
 ## Forzar la sincronización con el conjunto de datos compartidos
 

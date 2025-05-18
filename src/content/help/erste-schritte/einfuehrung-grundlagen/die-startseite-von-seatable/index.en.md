@@ -23,7 +23,7 @@ The header of the home page contains four elements. These are:
 
 ## Page navigation
 
-The left side navigation of the Home page contains links to various sections and resources: [Bases](https://seatable.io/en/docs/arbeiten-mit-bases/bases/), [Apps](https://seatable.io/en/docs/apps/welche-apps-gibt-es/), the [Activity Log](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/), [Shared Records](https://seatable.io/en/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/), and the [Home Page Trash](https://seatable.io/en/docs/arbeiten-mit-bases/loeschen-einer-base/). You will also find links to this User Guide and the [templates](https://seatable.io/en/vorlagen/) available to you within SeaTable.
+The left side navigation of the Home page contains links to various sections and resources: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}). You will also find links to this User Guide and the [templates](https://seatable.io/en/vorlagen/) available to you within SeaTable.
 
 ## Workspace
 

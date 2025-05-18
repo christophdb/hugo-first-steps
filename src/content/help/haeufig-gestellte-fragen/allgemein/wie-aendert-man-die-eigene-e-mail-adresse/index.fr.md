@@ -26,7 +26,7 @@ Cette procédure est également très simple. Tout d'abord, créez un **autre me
 - [Ajouter un nouveau membre de l'équipe](https://seatable.io/fr/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
 - [Faire d'un membre de l'équipe un administrateur](https://seatable.io/fr/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Créer un nouveau groupe]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
-- [Copier une base dans un groupe](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
+- [Copier une base dans un groupe]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 - [Attribuer des autorisations dans un groupe](https://seatable.io/fr/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
 - [Bloquer ou supprimer un membre de l'équipe](https://seatable.io/fr/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
 
