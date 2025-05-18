@@ -187,12 +187,12 @@ url: '/ru/help/automations-aktionen'
 
 ![Операции по обработке данных, которые могут быть выполнены с помощью автоматизации](images/runable-data-operations-with-automation.png)
 
-- [Рассчитать суммарные значения](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Рассчитать рейтинг](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Рассчитать изменения](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Рассчитать процент](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
-- [Сравнение и копирование](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Передача имен пользователей](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Рассчитать суммарные значения]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Рассчитать рейтинг]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Рассчитать изменения]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Рассчитать процент]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
+- [Сравнение и копирование]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Передача имен пользователей]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 Действие автоматизации "Выполнить операцию обработки данных" в настоящее время доступно для следующих **триггеров автоматизации**:
 

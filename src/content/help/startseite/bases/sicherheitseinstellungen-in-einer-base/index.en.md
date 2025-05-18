@@ -56,7 +56,7 @@ If this setting is **activated**, the base in question can no longer be copied b
 
 By activating this setting, you can **prevent** other users from creating, editing or deleting [data processing operations]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
-If this setting is **activated**, the corresponding icons for adding, editing or deleting data processing operations are **hidden** until the setting is deactivated again by an owner or administrator. However, all users can still perform the existing data [processing operations](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/).
+If this setting is **activated**, the corresponding icons for adding, editing or deleting data processing operations are **hidden** until the setting is deactivated again by an owner or administrator. However, all users can still perform the existing data [processing operations]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}).
 
 ![Execute data processing operation](https://seatable.io/wp-content/uploads/2023/04/Datenverarbeitungsoperation-ausfuehren.png)
 
@@ -80,4 +80,4 @@ By enabling this setting you can **prevent** users to whom the corresponding [ba
 
 ### Prevent creation and modification of data processing operations
 
-By activating this setting, you can **prevent** users to whom the corresponding [base]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}). However, they can still [execute](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) the existing data processing [operations](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/).
+By activating this setting, you can **prevent** users to whom the corresponding [base]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}). However, they can still [execute]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) the existing data processing [operations]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}).

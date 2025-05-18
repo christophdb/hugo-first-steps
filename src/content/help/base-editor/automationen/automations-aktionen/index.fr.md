@@ -187,12 +187,12 @@ Vous pouvez faire exécuter les **opérations de traitement de données** suivan
 
 ![Opérations de traitement de données exécutables à l'aide d'une automatisation](images/runable-data-operations-with-automation.png)
 
-- [Calculer les valeurs cumulées](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Calculer le classement](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Calculer les changements](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Calculer le pourcentage](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
-- [Comparer et copier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Transférer le nom d'utilisateur](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Calculer les valeurs cumulées]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Calculer le classement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Calculer les changements]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Calculer le pourcentage]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
+- [Comparer et copier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Transférer le nom d'utilisateur]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 L'action d'automatisation "Exécuter une opération de traitement des données" est actuellement disponible pour le **déclencheur d'automatisation** suivant :
 

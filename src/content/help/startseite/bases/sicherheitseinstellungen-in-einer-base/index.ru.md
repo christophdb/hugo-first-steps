@@ -56,7 +56,7 @@ url: '/ru/help/sicherheitseinstellungen-in-einer-base'
 
 Активизировав эту настройку, можно **запретить** другим пользователям создавать, редактировать или удалять [операции по обработке данных]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
-Если эта настройка **активирована**, то соответствующие пиктограммы для добавления, редактирования или удаления операций обработки данных будут **скрыты** до тех пор, пока настройка не будет снова деактивирована владельцем или администратором. Однако все пользователи по-прежнему могут выполнять существующие [операции обработки](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) данных.
+Если эта настройка **активирована**, то соответствующие пиктограммы для добавления, редактирования или удаления операций обработки данных будут **скрыты** до тех пор, пока настройка не будет снова деактивирована владельцем или администратором. Однако все пользователи по-прежнему могут выполнять существующие [операции обработки]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) данных.
 
 ![Выполнение операции обработки данных](https://seatable.io/wp-content/uploads/2023/04/Datenverarbeitungsoperation-ausfuehren.png)
 
@@ -80,4 +80,4 @@ url: '/ru/help/sicherheitseinstellungen-in-einer-base'
 
 ### Предотвращение создания и модификации операций по обработке данных
 
-Активизировав эту настройку, можно **запретить** пользователям, для которых [освобождена]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) данных. Однако при этом они могут [выполнять](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) существующие [операции](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) обработки данных.
+Активизировав эту настройку, можно **запретить** пользователям, для которых [освобождена]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) данных. Однако при этом они могут [выполнять]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) существующие [операции]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) обработки данных.

@@ -23,16 +23,16 @@ Data processing, in contrast, is a function to perform operations in a column ac
 
 The following **mathematical operations** can currently be performed using the data processing function:
 
-- [Calculate cumulative values](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Calculate ranking](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Calculate changes](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Calculate percentage](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
+- [Calculate cumulative values]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Calculate ranking]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Calculate changes]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Calculate percentage]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
 
 The following **relationship operations** can currently be performed using the data processing function:
 
 - [Compare and link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
-- [Compare and copy](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Transfer user name](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Compare and copy]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Transfer user name]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 ## Requirements for the definition of operations
 
@@ -43,7 +43,7 @@ The two types of data processing operations each have different **requirements**
 
 ## Execution notes
 
-Data processing operations can currently be performed [manually](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) or [via automation](https://seatable.io/en/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). The development team is working to ensure that data processing operations can also be executed using [buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) in the future.
+Data processing operations can currently be performed [manually]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) or [via automation](https://seatable.io/en/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). The development team is working to ensure that data processing operations can also be executed using [buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) in the future.
 
 Each time the data processing operation is executed, the **results** are written to the **results column** regardless. If you do not want to overwrite any data, you should [create]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) for the results in advance.
 

@@ -186,12 +186,12 @@ Folgende **Datenverarbeitungsoperationen** können Sie mit einer Automation ausf
 
 ![Mithilfe einer Automation ausführbare Datenverarbeitungsoperationen](images/runable-data-operations-with-automation.png)
 
-- [Kumulierte Werte berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Rangliste berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Veränderungen berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Prozentualen Anteil berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
-- [Vergleichen und kopieren](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Benutzernamen übertragen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Kumulierte Werte berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Rangliste berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Veränderungen berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Prozentualen Anteil berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
+- [Vergleichen und kopieren]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Benutzernamen übertragen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 Die Automations-Aktion "Datenverarbeitungsoperation ausführen" steht Ihnen derzeit bei folgendem **Automations-Trigger** zur Verfügung:
 

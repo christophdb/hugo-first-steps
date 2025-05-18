@@ -23,16 +23,16 @@ Die Datenverarbeitung ist im Gegensatz dazu eine Funktion, um Operationen in ein
 
 Folgende **mathematische Operationen** können derzeit mithilfe der Datenverarbeitungsfunktion durchgeführt werden:
 
-- [Kumulierte Werte berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Rangliste berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Veränderungen berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Prozentualen Anteil berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
+- [Kumulierte Werte berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Rangliste berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Veränderungen berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Prozentualen Anteil berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
 
 Folgende **Beziehungs-Operationen** können derzeit mithilfe der Datenverarbeitungsfunktion durchgeführt werden:
 
 - [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
-- [Vergleichen und kopieren](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Benutzernamen übertragen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Vergleichen und kopieren]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Benutzernamen übertragen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 ## Voraussetzungen für die Definition der Operationen
 
@@ -43,7 +43,7 @@ Für beide Arten von Datenverarbeitungsoperationen gelten jeweils unterschiedlic
 
 ## Hinweise zur Ausführung
 
-Datenverarbeitungsoperationen können derzeit [manuell](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) oder [per Automation](https://seatable.io/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ausgeführt werden. Das Entwickler-Team arbeitet daran, dass Datenverarbeitungsoperationen zukünftig auch mithilfe von [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) ausgeführt werden können.
+Datenverarbeitungsoperationen können derzeit [manuell]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) oder [per Automation](https://seatable.io/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ausgeführt werden. Das Entwickler-Team arbeitet daran, dass Datenverarbeitungsoperationen zukünftig auch mithilfe von [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) ausgeführt werden können.
 
 Bei jeder Ausführung der Datenverarbeitungsoperation werden die **Ergebnisse** ohne Rücksicht auf Verluste in die **Ergebnisspalte** geschrieben. Wenn Sie keine Daten überschreiben wollen, sollten Sie für die Ergebnisse im Voraus eine [neue leere Spalte anlegen]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 

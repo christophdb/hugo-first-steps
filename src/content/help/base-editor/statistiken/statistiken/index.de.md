@@ -21,7 +21,7 @@ An der [Status-Zeile](https://seatable.io/docs/ansichtsoptionen/die-status-zeile
 
 ## Operationen zur Datenverarbeitung
 
-Mithilfe der [Datenverarbeitungsfunktion](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-anlegen/) können Sie diverse **Operationen** durchführen. Dabei können Sie sowohl **mathematische Berechnungen** über alle Werte einer Spalte hinweg vornehmen als auch Werte miteinander in Beziehung setzen, wenn Einträge in zwei verschiedenen Tabellen identisch sind. Nützliche statistische Auswertungen sind zum Beispiel **kumulierte Werte**, **prozentuale Anteile** oder **Ranglisten**.
+Mithilfe der [Datenverarbeitungsfunktion]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-anlegen" >}}) können Sie diverse **Operationen** durchführen. Dabei können Sie sowohl **mathematische Berechnungen** über alle Werte einer Spalte hinweg vornehmen als auch Werte miteinander in Beziehung setzen, wenn Einträge in zwei verschiedenen Tabellen identisch sind. Nützliche statistische Auswertungen sind zum Beispiel **kumulierte Werte**, **prozentuale Anteile** oder **Ranglisten**.
 
 ## Statistiken
 

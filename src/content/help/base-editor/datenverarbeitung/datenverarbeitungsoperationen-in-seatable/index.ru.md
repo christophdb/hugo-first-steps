@@ -23,16 +23,16 @@ SeaTable часто мыслит рядами. Например, [формула
 
 В настоящее время с помощью функции обработки данных можно выполнять следующие **математические операции**:
 
-- [Рассчитать суммарные значения](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Рассчитать рейтинг](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Рассчитать изменения](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Рассчитать процент](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
+- [Рассчитать суммарные значения]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Рассчитать рейтинг]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Рассчитать изменения]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Рассчитать процент]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
 
 В настоящее время с помощью функции обработки данных можно выполнить следующие **операции с отношениями**:
 
 - [Сравнить и связать]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
-- [Сравнение и копирование](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Передача имен пользователей](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Сравнение и копирование]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Передача имен пользователей]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 ## Предпосылки для определения операций
 
@@ -43,7 +43,7 @@ SeaTable часто мыслит рядами. Например, [формула
 
 ## Примечания по выполнению
 
-В настоящее время операции по обработке данных могут выполняться [вручную](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) или с [помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). Команда разработчиков работает над тем, чтобы в будущем операции по обработке данных можно было выполнять и с помощью [кнопок](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/).
+В настоящее время операции по обработке данных могут выполняться [вручную]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) или с [помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). Команда разработчиков работает над тем, чтобы в будущем операции по обработке данных можно было выполнять и с помощью [кнопок](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/).
 
 Каждый раз, когда выполняется операция обработки данных, **результаты** записываются в **столбец результатов** независимо от этого. Если вы не хотите перезаписывать данные, следует заранее [создать новый пустой столбец]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) для результатов.
 

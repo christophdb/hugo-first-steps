@@ -56,7 +56,7 @@ Si ce paramètre **est activé**, la base concernée ne peut plus être copiée 
 
 En activant ce paramètre, vous pouvez **empêcher** les autres utilisateurs de créer, de modifier ou de supprimer [des opérations de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
-Lorsque ce paramètre **est activé**, les icônes correspondantes permettant d'ajouter, de modifier ou de supprimer des opérations de traitement des données **sont masquées** jusqu'à ce qu'un propriétaire ou un administrateur désactive ce paramètre. Toutefois, tous les utilisateurs peuvent toujours effectuer les [opérations de traitement des données](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) existantes.
+Lorsque ce paramètre **est activé**, les icônes correspondantes permettant d'ajouter, de modifier ou de supprimer des opérations de traitement des données **sont masquées** jusqu'à ce qu'un propriétaire ou un administrateur désactive ce paramètre. Toutefois, tous les utilisateurs peuvent toujours effectuer les [opérations de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) existantes.
 
 ![Exécuter une opération de traitement de données](https://seatable.io/wp-content/uploads/2023/04/Datenverarbeitungsoperation-ausfuehren.png)
 
@@ -80,4 +80,4 @@ En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesqu
 
 ### Empêcher la création et la modification d'opérations de traitement des données
 
-En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesquels la [base]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}). Cependant, ils peuvent toujours [exécuter les opérations de traitement de données](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) existantes.
+En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesquels la [base]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}). Cependant, ils peuvent toujours [exécuter les opérations de traitement de données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) existantes.

@@ -23,16 +23,16 @@ Par opposition, le traitement des données est une fonction permettant d'effectu
 
 Les **opérations mathématiques** suivantes peuvent actuellement être effectuées à l'aide de la fonction de traitement des données :
 
-- [Calculer les valeurs cumulées](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Calculer le classement](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Calculer les changements](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Calculer le pourcentage](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
+- [Calculer les valeurs cumulées]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Calculer le classement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Calculer les changements]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Calculer le pourcentage]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
 
 Les **opérations** suivantes **sur les relations** peuvent actuellement être effectuées à l'aide de la fonction de traitement des données :
 
 - [Comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
-- [Comparer et copier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Transférer le nom d'utilisateur](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Comparer et copier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Transférer le nom d'utilisateur]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 ## Conditions préalables à la définition des opérations
 
@@ -43,7 +43,7 @@ Les deux types d'opérations de traitement des données sont soumis à des **con
 
 ## Remarques sur l'exécution
 
-Les opérations de traitement des données peuvent actuellement être exécutées [manuellement](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) ou [par automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). L'équipe de développement travaille à ce que les opérations de traitement des données puissent également être exécutées à l'aide de [boutons à](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) l'avenir.
+Les opérations de traitement des données peuvent actuellement être exécutées [manuellement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [par automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). L'équipe de développement travaille à ce que les opérations de traitement des données puissent également être exécutées à l'aide de [boutons à](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) l'avenir.
 
 Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) pour les résultats.
 

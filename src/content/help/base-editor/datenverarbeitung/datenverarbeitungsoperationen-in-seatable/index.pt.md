@@ -23,16 +23,16 @@ O processamento de dados, em contraste, é uma função para realizar operaçõe
 
 As seguintes **operações matemáticas** podem actualmente ser realizadas utilizando a função de processamento de dados:
 
-- [Calcular valores acumulados](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Calcular a classificação](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Calcular alterações](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Calcular a percentagem](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
+- [Calcular valores acumulados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Calcular a classificação]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Calcular alterações]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Calcular a percentagem]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
 
 As seguintes **operações de relacionamento** podem actualmente ser realizadas utilizando a função de processamento de dados:
 
 - [Comparar e ligar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
-- [Comparar e copiar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Transferir nomes de utilizadores](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Comparar e copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Transferir nomes de utilizadores]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 ## Pré-requisitos para a definição de operações
 
@@ -43,7 +43,7 @@ Os dois tipos de operações de tratamento de dados têm **requisitos** diferent
 
 ## Notas sobre a execução
 
-Actualmente, as operações de processamento de dados podem ser executadas [manualmente](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) ou [por automatização](https://seatable.io/pt/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). A equipa de desenvolvimento está a trabalhar para garantir que, no futuro, as operações de processamento de dados também possam ser executadas através de [botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/).
+Actualmente, as operações de processamento de dados podem ser executadas [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [por automatização](https://seatable.io/pt/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). A equipa de desenvolvimento está a trabalhar para garantir que, no futuro, as operações de processamento de dados também possam ser executadas através de [botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/).
 
 Cada vez que a operação de processamento de dados é executada, os **resultados** são escritos na **coluna de resultados** independentemente. Se não quiser sobregravar quaisquer dados, deve [criar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para os resultados.
 

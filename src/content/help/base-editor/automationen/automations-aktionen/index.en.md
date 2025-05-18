@@ -187,12 +187,12 @@ You can have the following **data processing operations** performed with automat
 
 ![Data processing operations executable with the aid of automation](images/runable-data-operations-with-automation.png)
 
-- [Calculate cumulative values](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Calculate ranking](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Calculate changes](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Calculate percentage](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
-- [Compare and copy](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Transfer user name](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Calculate cumulative values]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Calculate ranking]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Calculate changes]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Calculate percentage]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
+- [Compare and copy]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Transfer user name]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 The "Execute data processing operation" automation action is currently available for the following **automation trigger**:
 

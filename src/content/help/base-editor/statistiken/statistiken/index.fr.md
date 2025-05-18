@@ -20,7 +20,7 @@ La [ligne d'état](https://seatable.io/fr/docs/ansichtsoptionen/die-status-zeile
 
 ## Opérations de traitement des données
 
-La [fonction de traitement des données](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-anlegen/) vous permet d'**effectuer** diverses **opérations**. Vous pouvez effectuer des **calculs mathématiques** sur toutes les valeurs d'une colonne ou établir une relation entre les valeurs lorsque les entrées sont identiques dans deux tableaux différents. Les analyses statistiques utiles sont par exemple **les valeurs cumulées**, les **pourcentages** ou **les classements**.
+La [fonction de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-anlegen" >}}) vous permet d'**effectuer** diverses **opérations**. Vous pouvez effectuer des **calculs mathématiques** sur toutes les valeurs d'une colonne ou établir une relation entre les valeurs lorsque les entrées sont identiques dans deux tableaux différents. Les analyses statistiques utiles sont par exemple **les valeurs cumulées**, les **pourcentages** ou **les classements**.
 
 ## Statistiques
 

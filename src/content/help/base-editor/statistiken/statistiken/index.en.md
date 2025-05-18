@@ -20,7 +20,7 @@ At the [statusrow](https://seatable.io/en/docs/ansichtsoptionen/die-status-zeile
 
 ## Data processing operations
 
-You can perform various **operations** using the [data processing function](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-anlegen/). You can perform **mathematical calculations** across all values in a column as well as correlate values when entries in two different tables are identical. Useful statistical evaluations are, for example, **cumulative values**, **percentages** or **ranked lists**.
+You can perform various **operations** using the [data processing function]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-anlegen" >}}). You can perform **mathematical calculations** across all values in a column as well as correlate values when entries in two different tables are identical. Useful statistical evaluations are, for example, **cumulative values**, **percentages** or **ranked lists**.
 
 ## Statistics
 

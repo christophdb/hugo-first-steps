@@ -187,12 +187,12 @@ Pode mandar realizar as seguintes **operações de processamento de dados** com 
 
 ![Operações de tratamento de dados que podem ser executadas com a ajuda da automatização](images/runable-data-operations-with-automation.png)
 
-- [Calcular valores acumulados](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Calcular a classificação](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Calcular alterações](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Calcular a percentagem](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
-- [Comparar e copiar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
-- [Transferir nomes de utilizadores](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
+- [Calcular valores acumulados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Calcular a classificação]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Calcular alterações]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Calcular a percentagem]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
+- [Comparar e copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
+- [Transferir nomes de utilizadores]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
 
 A ação de automatização "Executar operação de processamento de dados" está atualmente disponível para o seguinte **acionador de automatização**:
 

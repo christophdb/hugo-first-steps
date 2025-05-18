@@ -39,12 +39,12 @@ Wählen Sie anschließend als automatisierte Aktion **Datenverarbeitungsoperatio
 
 Folgende **Datenverarbeitungsoperationen** stehen Ihnen dabei zur Auswahl:
 
-- [Kumulierte Werte berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/)
-- [Veränderungen berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen/)
-- [Prozentualen Anteil berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen/)
-- [Rangliste berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/)
-- [Benutzernamen übertragen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
-- [Vergleichen und kopieren](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
+- [Kumulierte Werte berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}})
+- [Veränderungen berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-veraenderungen-berechnen" >}})
+- [Prozentualen Anteil berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-prozentualen-anteil-berechnen" >}})
+- [Rangliste berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}})
+- [Benutzernamen übertragen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen" >}})
+- [Vergleichen und kopieren]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}})
 
 Im nächsten Schritt nehmen Sie spezifische **Einstellungen** an der **Datenverarbeitungsoperation** vor, die mithilfe der Automation ausgelöst werden soll. Je nach ausgewählter Operation werden Sie um die Definition von **Tabellen** und/oder **Spalten** (z. B. Quell- und Ergebnis-Spalte) gebeten, die Sie für die mathematischen Berechnungen oder die Herstellung von Beziehungen zwischen Werten in verschiedenen Tabellen nutzen wollen.
 
@@ -58,7 +58,7 @@ Bestätigen Sie abschließend die Automation mit **Abschicken**, um diese zu spe
 
 Ein konkreter Anwendungsfall für diese Art von Automation könnte beispielsweise auftreten, wenn Sie die Anzahl der täglichen Zugriffe auf eine Website in Ihrer Tabelle erheben möchten. Hierfür möchten Sie die **Zugriffszahlen** jedes einzelnen Tages, die in einer bestehenden [Zahlen-Spalte](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/) erfasst sind, von Zeile zu Zeile in einer neuen Spalte **aufaddieren**.
 
-Bisher war die [Berechnung der kumulierten Zugriffszahlen mithilfe einer Datenverarbeitungsoperation](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen/) nur **manuell** möglich. Mithilfe einer entsprechenden Automation ist es von nun an möglich, die kumulierten Zugriffszahlen **jeden Tag** zu einem festen Zeitpunkt **automatisch** berechnen zu lassen.
+Bisher war die [Berechnung der kumulierten Zugriffszahlen mithilfe einer Datenverarbeitungsoperation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}}) nur **manuell** möglich. Mithilfe einer entsprechenden Automation ist es von nun an möglich, die kumulierten Zugriffszahlen **jeden Tag** zu einem festen Zeitpunkt **automatisch** berechnen zu lassen.
 
 Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/) erhoben werden.
 
