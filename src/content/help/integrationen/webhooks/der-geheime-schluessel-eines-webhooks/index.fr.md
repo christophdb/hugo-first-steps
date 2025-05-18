@@ -1,11 +1,11 @@
 ---
-title: 'La clé secrète d'un webhook'
+title: "La clé secrète d'un webhook"
 date: 2023-02-28
-lastmod: "2023-02-28"
-categories: 
-  - "webhooks"
-author: "cdb"
-url: "/fr/aide/der-geheime-schluessel-eines-webhooks"
+lastmod: '2023-02-28'
+categories:
+    - 'webhooks'
+author: 'cdb'
+url: '/fr/aide/der-geheime-schluessel-eines-webhooks'
 ---
 
 Si la cible d'un webhook est accessible au public, il faut s'assurer, pour les requêtes entrantes, qu'elles proviennent du système d'origine souhaité. L'origine d'un webhook peut être garantie à l'aide d'une clé secrète.

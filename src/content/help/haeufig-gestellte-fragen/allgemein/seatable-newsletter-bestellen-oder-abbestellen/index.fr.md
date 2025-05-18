@@ -1,11 +1,11 @@
 ---
-title: 'Comment s'inscrire ou se désinscrire de la newsletter de SeaTable ?'
+title: "Comment s'inscrire ou se désinscrire de la newsletter de SeaTable ?"
 date: 2023-03-02
-lastmod: "2023-03-13"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "cdb"
-url: "/fr/aide/seatable-newsletter-bestellen-oder-abbestellen"
+lastmod: '2023-03-13'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'cdb'
+url: '/fr/aide/seatable-newsletter-bestellen-oder-abbestellen'
 ---
 
 Veillez à ne recevoir que les e-mails contenant des informations importantes pour vous en modifiant vos paramètres d'abonnement à la messagerie.

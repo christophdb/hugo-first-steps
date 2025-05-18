@@ -1,11 +1,11 @@
 ---
-title: 'Traitement d'un webhook à l'aide de PHP'
+title: "Traitement d'un webhook à l'aide de PHP"
 date: 2023-02-28
-lastmod: "2023-02-28"
-categories: 
-  - "webhooks"
-author: "cdb"
-url: "/fr/aide/verarbeitung-eines-webhooks-mit-hilfe-von-php"
+lastmod: '2023-02-28'
+categories:
+    - 'webhooks'
+author: 'cdb'
+url: '/fr/aide/verarbeitung-eines-webhooks-mit-hilfe-von-php'
 ---
 
 Le traitement d'un événement Webhooks peut être effectué avec n'importe quel langage de programmation et varie selon le langage de programmation. L'exemple suivant montre un traitement simple par PHP, qui peut servir de base à tous les développements ultérieurs.

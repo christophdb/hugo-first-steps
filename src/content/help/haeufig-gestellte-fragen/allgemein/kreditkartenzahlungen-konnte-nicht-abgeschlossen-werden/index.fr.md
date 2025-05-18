@@ -1,11 +1,11 @@
 ---
-title: 'Les paiements par carte de crédit n'ont pas pu être finalisés'
+title: "Les paiements par carte de crédit n'ont pas pu être finalisés"
 date: 2023-05-04
-lastmod: "2023-05-04"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "cdb"
-url: "/fr/aide/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden"
+lastmod: '2023-05-04'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'cdb'
+url: '/fr/aide/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
 ---
 
 Lorsque vous souscrivez un abonnement payant à SeaTable, vous devez généralement fournir les informations de votre carte de crédit et une authentification supplémentaire sous la forme d'une authentification 3D Secure. 3D Secure est une couche d'authentification supplémentaire pour les transactions par carte de crédit, qui vise à sécuriser les paiements sur Internet. Ce mécanisme de sécurité pose régulièrement des problèmes, raison pour laquelle le paiement souhaité ne peut pas être effectué avec succès et vous ne pouvez pas passer à SeaTable Plus ou Enterprise.

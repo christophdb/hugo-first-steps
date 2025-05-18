@@ -1,11 +1,11 @@
 ---
-title: 'Utilisation de Zapier pour intégrer SeaTable à d'autres services'
+title: "Utilisation de Zapier pour intégrer SeaTable à d'autres services"
 date: 2022-08-25
-lastmod: "2023-09-22"
-categories: 
-  - "zapier-integration"
-author: "cdb"
-url: "/fr/aide/verwendung-zapier-zur-integration-seatable-andere-dienste"
+lastmod: '2023-09-22'
+categories:
+    - 'zapier-integration'
+author: 'cdb'
+url: '/fr/aide/verwendung-zapier-zur-integration-seatable-andere-dienste'
 ---
 
 Zapier est une plateforme d'automatisation qui vous permet de connecter SeaTable à de nombreuses autres applications et services. En quelques minutes seulement et sans connaissances en programmation, Zapier vous permet de créer des interfaces avec des services tels que Dropbox, Shopify, MailChimp, Calendly, Jotform, Hubspot et bien d'autres. Ces interfaces créées par Zapier sont appelées **Zap**, chaque Zap ayant une application comme _déclencheur_ et une application comme _action_. Le _déclencheur_ fournit les informations qui sont ensuite traitées dans une ou plusieurs _actions_.

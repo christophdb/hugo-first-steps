@@ -1,11 +1,11 @@
 ---
-title: 'Qu'est-ce que l'identifiant de ligne ?'
+title: "Qu'est-ce que l'identifiant de ligne ?"
 date: 2022-09-30
-lastmod: "2023-02-16"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "vge"
-url: "/fr/aide/was-ist-die-zeilen-id"
+lastmod: '2023-02-16'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'vge'
+url: '/fr/aide/was-ist-die-zeilen-id'
 ---
 
 L'**ID de ligne** est la **désignation unique d'une ligne** qui, contrairement à la numérotation par les vues, ne peut pas être modifiée. Vous avez typiquement besoin de l'ID de ligne lorsque vous écrivez **des scripts** en JavaScript ou Python.
