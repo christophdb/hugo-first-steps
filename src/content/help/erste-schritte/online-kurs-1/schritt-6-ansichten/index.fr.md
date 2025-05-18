@@ -49,7 +49,7 @@ Lorsque vous aurez fait suffisamment d'expériences, essayez de terminer le quiz
 ## Article d'aide avec plus d'informations
 
 - [Qu'est-ce qu'une vue ?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Regroupement, tri et filtre](https://seatable.io/fr/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
-- [Créer une nouvelle vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
-- [Épingler les vues](https://seatable.io/fr/docs/grundlagen-von-ansichten/ansichten-pinnen/)
-- [La barre d'état et ses fonctions](https://seatable.io/fr/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/)
+- [Regroupement, tri et filtre]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
+- [Créer une nouvelle vue]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
+- [Épingler les vues]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [La barre d'état et ses fonctions]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})

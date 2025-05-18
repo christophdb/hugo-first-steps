@@ -14,7 +14,7 @@ Com a função de agrupamento, é possível combinar as entradas da tabela em **
 
 ![Agrupar entradas numa vista](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
-1. Crie uma [nova vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) ou seleccione a vista em que pretende agrupar.
+1. Crie uma [nova vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou seleccione a vista em que pretende agrupar.
 2. Clique na opção **Grupo** nas opções de visualização acima da tabela.
 3. Ir para **Adicionar Agrupamento**.
 4. No campo vazio, seleccione a **coluna** pela qual pretende agrupar.

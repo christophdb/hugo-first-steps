@@ -14,7 +14,7 @@ La fonction de regroupement permet de **regrouper** les entrées du tableau et d
 
 ![Regrouper des entrées dans une vue](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
-1. Créez une [nouvelle vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) ou sélectionnez la vue dans laquelle vous souhaitez effectuer le regroupement.
+1. Créez une [nouvelle vue]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou sélectionnez la vue dans laquelle vous souhaitez effectuer le regroupement.
 2. Dans les options d'affichage, cliquez sur l'option **Grouper** au-dessus du tableau.
 3. Allez sur **Ajouter un regroupement**.
 4. Dans le champ vide, sélectionnez la **colonne** selon laquelle vous souhaitez regrouper.

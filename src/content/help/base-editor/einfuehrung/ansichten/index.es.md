@@ -20,9 +20,9 @@ SeaTable tiene una **vista de tabla** para los casos de uso más comunes. Aquí 
 
 La vista de tabla es esencial para introducir, editar y gestionar manualmente los datos de una base: En ella se crean las tablas y se define la estructura de columnas. A cada columna se le asigna un [tipo]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) que registra determinados datos.
 
-La vista de tabla es especialmente adecuada para visualizar datos basados en texto y números. Con los ajustes de vista disponibles, como [agrupación, ordenación y filtros](https://seatable.io/es/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), también puede realizar evaluaciones sencillas con gran rapidez.
+La vista de tabla es especialmente adecuada para visualizar datos basados en texto y números. Con los ajustes de vista disponibles, como [agrupación, ordenación y filtros]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}), también puede realizar evaluaciones sencillas con gran rapidez.
 
-En la [línea de estado](https://seatable.io/es/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) puede ver en todo momento el número de filas y los valores de las columnas.
+En la [línea de estado]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}}) puede ver en todo momento el número de filas y los valores de las columnas.
 
 ### Estadísticas
 

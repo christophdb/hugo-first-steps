@@ -26,7 +26,7 @@ Agora existe uma caraterística especial: em vez de apresentar o valor pretendid
 
 ![acionador baseado na vista no zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger.png)
 
-Crie uma [nova vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) e defina um filtro para uma coluna de data que apenas exiba entradas em que o valor da coluna de data corresponda, por exemplo, à data de hoje ou a uma data muito especial. Se o filtro for definido em conformidade, é possível determinar exatamente quando uma entrada aparece nesta vista e, assim, acionar a torneira, seleccionando a data na coluna correspondente.
+Crie uma [nova vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) e defina um filtro para uma coluna de data que apenas exiba entradas em que o valor da coluna de data corresponda, por exemplo, à data de hoje ou a uma data muito especial. Se o filtro for definido em conformidade, é possível determinar exatamente quando uma entrada aparece nesta vista e, assim, acionar a torneira, seleccionando a data na coluna correspondente.
 
 ![Execução de um zap com controlo de tempo](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger2.png)
 

@@ -16,7 +16,7 @@ In this article you will learn how to create statistical analyses and appealing 
 
 With [filters, groupings and sortings]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) to access them later.
 
-At the [statusrow](https://seatable.io/en/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) you can read the **number of rows** in a view and certain **column values**. You can choose between the sum, the average, the median, the maximum or the minimum of all values in a column. You can also determine these column values for individual groupings.
+At the [statusrow]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}}) you can read the **number of rows** in a view and certain **column values**. You can choose between the sum, the average, the median, the maximum or the minimum of all values in a column. You can also determine these column values for individual groupings.
 
 ## Data processing operations
 

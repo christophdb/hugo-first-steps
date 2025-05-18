@@ -26,7 +26,7 @@ Implementing this requirement is very simple if you know how. At this point, you
 
 ![view based trigger in zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger.png)
 
-Create a [new view](https://seatable.io/en/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) and define a filter for a date column that only displays entries where the value of the date column corresponds to, for example, today's date or a very specific date. If you define the filter accordingly, you can specify exactly when an entry appears in this view and thus triggers the Zap by selecting the date in the corresponding column.
+Create a [new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) and define a filter for a date column that only displays entries where the value of the date column corresponds to, for example, today's date or a very specific date. If you define the filter accordingly, you can specify exactly when an entry appears in this view and thus triggers the Zap by selecting the date in the corresponding column.
 
 ![Timed execution of a zap](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger2.png)
 

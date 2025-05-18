@@ -32,7 +32,7 @@ Las filas almacenadas en la memoria de big data tienen un pequeño **triángulo 
 
 **Es bueno saberlo:**
 
-- En una [vista normal](https://seatable.io/es/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/), **no** se muestra ninguna **fila de la memoria de big data**.
+- En una [vista normal]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}), **no** se muestra ninguna **fila de la memoria de big data**.
 - En una [vista de big](https://seatable.io/es/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) data, se pueden mostrar **todas las filas**, independientemente de dónde estén guardadas en ese momento.
 
 ## Recuperar entradas de la memoria de big data

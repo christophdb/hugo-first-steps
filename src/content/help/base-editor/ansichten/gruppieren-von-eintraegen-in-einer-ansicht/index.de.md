@@ -14,7 +14,7 @@ Mit der Gruppierungsfunktion können Sie die Tabelleneinträge in **Gruppierunge
 
 ![Gruppieren von Einträgen in einer Ansicht](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
-1. Erstellen Sie eine [neue Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) oder wählen Sie die Ansicht aus, in der Sie die Gruppierung vornehmen wollen.
+1. Erstellen Sie eine [neue Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) oder wählen Sie die Ansicht aus, in der Sie die Gruppierung vornehmen wollen.
 2. Klicken Sie in den Ansichtsoptionen über der Tabelle die Option **Gruppieren** an.
 3. Gehen Sie auf **Gruppierung hinzufügen**.
 4. Wählen Sie im leeren Feld die **Spalte** aus, nach der Sie gruppieren wollen.

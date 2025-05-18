@@ -32,7 +32,7 @@ rowsstored in the Big Data store have a small **gray triangle in the numbering c
 
 **Good to know:**
 
-- In a [normal view](https://seatable.io/en/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/), you will **not see rows from the big data storage**.
+- In a [normal view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}), you will **not see rows from the big data storage**.
 - **All rows** can be displayed in a [big data view](https://seatable.io/en/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/), regardless of where they are currently stored.
 
 ## Retrieve entries from the big data memory

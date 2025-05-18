@@ -32,7 +32,7 @@ url: '/ru/help/zeilen-ins-big-data-backend-verschieben'
 
 **Полезно знать:**
 
-- При [обычном просмотре](https://seatable.io/ru/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) **ни одна строка из памяти больших данных не** отображается.
+- При [обычном просмотре]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) **ни одна строка из памяти больших данных не** отображается.
 - В [представлении больших данных](https://seatable.io/ru/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) можно отобразить **все строки**, независимо от того, где они сохранены в данный момент.
 
 ## Извлечение записей из памяти больших данных

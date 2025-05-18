@@ -49,7 +49,7 @@ url: '/ru/help/schritt-6-ansichten'
 ## Справочная статья с дополнительной информацией
 
 - [Что такое вид?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Группировка, сортировка и фильтрация](https://seatable.io/ru/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
-- [Создайте новое представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
-- [Виды булавок](https://seatable.io/ru/docs/grundlagen-von-ansichten/ansichten-pinnen/)
-- [Строка состояния и ее функции](https://seatable.io/ru/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/)
+- [Группировка, сортировка и фильтрация]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
+- [Создайте новое представление]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
+- [Виды булавок]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [Строка состояния и ее функции]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})

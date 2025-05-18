@@ -49,7 +49,7 @@ Cuando hayas experimentado lo suficiente, intenta completar el cuestionario y ga
 ## Artículo de ayuda con más información
 
 - [¿Qué es una vista?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Agrupar, clasificar y filtrar](https://seatable.io/es/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
-- [Crear una nueva vista](https://seatable.io/es/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
-- [Puntos de vista](https://seatable.io/es/docs/grundlagen-von-ansichten/ansichten-pinnen/)
-- [La barra de estado y sus funciones](https://seatable.io/es/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/)
+- [Agrupar, clasificar y filtrar]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
+- [Crear una nueva vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
+- [Puntos de vista]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [La barra de estado y sus funciones]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})

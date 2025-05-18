@@ -21,9 +21,9 @@ SeaTable verfügt über eine **Tabellen-Ansicht** für die häufigsten Anwendung
 Die Tabellen-Ansicht ist essentiell für die manuelle Erfassung, Bearbeitung und Verwaltung von Daten in einer Base: In ihr erstellen Sie die Tabellen und definieren die Spaltenstruktur. Jeder Spalte wird dazu ein [Typ]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
 ) zugeordnet, der bestimmte Daten erfasst.
 
-Die Tabellen-Ansicht eignet sich insbesondere für die Darstellung von text- und zahlenbasierten Daten. Über die verfügbaren Ansichtseinstellungen wie [Gruppierung, Sortierung und Filter](https://seatable.io/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/) können Sie auch einfache Auswertungen sehr schnell durchführen.
+Die Tabellen-Ansicht eignet sich insbesondere für die Darstellung von text- und zahlenbasierten Daten. Über die verfügbaren Ansichtseinstellungen wie [Gruppierung, Sortierung und Filter]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) können Sie auch einfache Auswertungen sehr schnell durchführen.
 
-In der [Status-Zeile](https://seatable.io/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) haben Sie jederzeit die Zeilenanzahl und die Spaltenwerte im Blick.
+In der [Status-Zeile]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}}) haben Sie jederzeit die Zeilenanzahl und die Spaltenwerte im Blick.
 
 ### Statistiken
 

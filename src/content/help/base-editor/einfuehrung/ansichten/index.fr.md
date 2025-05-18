@@ -20,9 +20,9 @@ SeaTable dispose d'un **affichage sous forme de tableau** pour les cas d'utilisa
 
 La vue Tableaux est essentielle pour la saisie, l'édition et la gestion manuelles des données dans une base : C'est dans cette vue que vous créez les tableaux et définissez la structure des colonnes. Pour ce faire, chaque colonne se voit attribuer un [type]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) qui permet de saisir certaines données.
 
-L'affichage sous forme de tableau est particulièrement adapté à la présentation de données textuelles et chiffrées. Les paramètres d'affichage disponibles, tels que [le regroupement, le tri et les filtres](https://seatable.io/fr/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), vous permettent également d'effectuer très rapidement des évaluations simples.
+L'affichage sous forme de tableau est particulièrement adapté à la présentation de données textuelles et chiffrées. Les paramètres d'affichage disponibles, tels que [le regroupement, le tri et les filtres]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}), vous permettent également d'effectuer très rapidement des évaluations simples.
 
-Dans la [ligne d'état](https://seatable.io/fr/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/), vous avez à tout moment un aperçu du nombre de lignes et des valeurs des colonnes.
+Dans la [ligne d'état]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}}), vous avez à tout moment un aperçu du nombre de lignes et des valeurs des colonnes.
 
 ### Statistiques
 

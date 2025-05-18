@@ -34,7 +34,7 @@ Andere Darstellungen wie Kalender, Galerie oder Kanban können Sie in Form von [
 
 ## Weitere Artikel zum Thema Ansichten
 
-- [Anlegen einer neuen Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
+- [Anlegen einer neuen Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
 - [Umbenennen einer Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
 - [Löschen einer Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Das Duplizieren von Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)

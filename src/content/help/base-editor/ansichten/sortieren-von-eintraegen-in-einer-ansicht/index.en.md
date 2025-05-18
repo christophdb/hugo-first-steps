@@ -14,7 +14,7 @@ The sort function allows you to display the unordered entries in a table in an *
 
 ![Entry sorting](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
 
-1. Create a [new view](https://seatable.io/en/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) or select the view you want to sort.
+1. Create a [new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) or select the view you want to sort.
 2. Click the **Sort** option in the view options above the table.
 3. Go to **Add sorting**.
 4. In the empty field, select the **column** you want to sort by.

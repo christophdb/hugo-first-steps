@@ -34,7 +34,7 @@ url: '/ru/help/was-ist-eine-ansicht'
 
 ## Другие статьи на тему взглядов
 
-- [Создайте новое представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
+- [Создайте новое представление]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
 - [Переименовать представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
 - [Удалить представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Дублирование представлений](https://seatable.io/ru/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)

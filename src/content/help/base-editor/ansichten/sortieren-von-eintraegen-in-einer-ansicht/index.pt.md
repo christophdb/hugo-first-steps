@@ -14,7 +14,7 @@ A função de ordenação permite exibir as entradas não ordenadas numa tabela,
 
 ![Classificação de entradas](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
 
-1. Crie uma [nova vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) ou seleccione a vista que pretende ordenar.
+1. Crie uma [nova vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou seleccione a vista que pretende ordenar.
 2. Clique na opção **Classificar** nas opções de visualização acima da tabela.
 3. Ir para **Adicionar Ordem de Ordenação**.
 4. No campo vazio, seleccione a **coluna** pela qual pretende ordenar.

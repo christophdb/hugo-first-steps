@@ -16,7 +16,7 @@ En este artículo aprenderá a crear evaluaciones estadísticas y gráficos atra
 
 Con [filtros, agrupaciones y clasificaciones]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) para acceder a ellas más tarde.
 
-La [línea de estado](https://seatable.io/es/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) muestra el **número de filas** de una vista y determinados valores de **columna**. Puede elegir entre la suma, la media, la mediana, el máximo o el mínimo de todos los valores de una columna. También puede determinar estos valores de columna para agrupaciones individuales.
+La [línea de estado]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}}) muestra el **número de filas** de una vista y determinados valores de **columna**. Puede elegir entre la suma, la media, la mediana, el máximo o el mínimo de todos los valores de una columna. También puede determinar estos valores de columna para agrupaciones individuales.
 
 ## Operaciones de tratamiento de datos
 

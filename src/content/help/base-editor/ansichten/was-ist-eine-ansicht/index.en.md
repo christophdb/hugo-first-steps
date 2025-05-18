@@ -34,7 +34,7 @@ You can use other representations like calendar, gallery or kanban in the form o
 
 ## More articles on the subject of views
 
-- [Create a new view](https://seatable.io/en/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
+- [Create a new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
 - [Rename a view](https://seatable.io/en/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
 - [Delete a view](https://seatable.io/en/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Duplicating views](https://seatable.io/en/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)

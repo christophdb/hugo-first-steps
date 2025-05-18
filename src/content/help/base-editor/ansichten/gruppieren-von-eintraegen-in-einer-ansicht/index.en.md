@@ -14,7 +14,7 @@ The grouping function allows you to combine table entries into **groupings** and
 
 ![Grouping entries in a view](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
-1. Create a [new view](https://seatable.io/en/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) or select the view in which you want to group.
+1. Create a [new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) or select the view in which you want to group.
 2. Click the **Group** option in the view options above the table.
 3. Go to **Add Grouping**.
 4. In the empty field, select the **column** by which you want to group.

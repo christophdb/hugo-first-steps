@@ -32,7 +32,7 @@ As linhas que estão armazenadas na memória de megadados têm um pequeno **tri�
 
 **É bom saber:**
 
-- Numa [vista normal](https://seatable.io/pt/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/), **não** são apresentadas **quaisquer linhas da memória de megadados**.
+- Numa [vista normal]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}), **não** são apresentadas **quaisquer linhas da memória de megadados**.
 - Numa [visualização de grandes volumes de dados](https://seatable.io/pt/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/), **todas as linhas** podem ser apresentadas, independentemente do local onde estão atualmente armazenadas.
 
 ## Recuperar registos da memória de grandes volumes de dados

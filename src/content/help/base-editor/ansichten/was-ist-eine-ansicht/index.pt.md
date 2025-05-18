@@ -34,7 +34,7 @@ Pode utilizar outras representações tais como calendário, galeria ou kanban s
 
 ## Mais artigos sobre o tema dos pontos de vista
 
-- [Criar uma nova visão](https://seatable.io/pt/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
+- [Criar uma nova visão]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
 - [Renomear uma vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
 - [Apagar uma vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Duplicação de pontos de vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)

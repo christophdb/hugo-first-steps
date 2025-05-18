@@ -26,7 +26,7 @@ Diese Anforderung umzusetzen ist denkbar einfach, wenn man weiß, wie es geht. S
 
 ![view based trigger in zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger.png)
 
-Legen Sie eine [neue Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) an und definieren Sie einen Filter für eine Datumsspalte, der nur Einträge anzeigt, bei dem der Wert der Datumsspalte z.B. dem heutigen Datum oder einem ganz speziellen Datum entspricht. Wenn Sie den Filter entsprechend definieren, können Sie durch die Wahl des Datums in der entsprechenden Spalte genau festlegen, wann ein Eintrag in dieser Ansicht erscheint und somit den Zap auslöst.
+Legen Sie eine [neue Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) an und definieren Sie einen Filter für eine Datumsspalte, der nur Einträge anzeigt, bei dem der Wert der Datumsspalte z.B. dem heutigen Datum oder einem ganz speziellen Datum entspricht. Wenn Sie den Filter entsprechend definieren, können Sie durch die Wahl des Datums in der entsprechenden Spalte genau festlegen, wann ein Eintrag in dieser Ansicht erscheint und somit den Zap auslöst.
 
 ![Zeitgesteuerte Ausführung eines Zaps](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger2.png)
 

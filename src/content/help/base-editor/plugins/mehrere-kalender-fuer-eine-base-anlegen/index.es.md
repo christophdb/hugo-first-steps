@@ -10,7 +10,7 @@ url: '/es/ayuda/mehrere-kalender-fuer-eine-base-anlegen'
 
 Al crear **varios cal** endarios en una base, puede almacenar citas específicas en diferentes calendarios. Por ejemplo, puede crear calendarios individuales para diferentes proyectos. Si trabajas con varias personas en una base, cada miembro del equipo puede crear calendarios individuales.
 
-Para crear varios calendarios, necesita **varias tablas** o una tabla con diferentes [vistas](https://seatable.io/es/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) o una tabla con diferentes [columnas de fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/).
+Para crear varios calendarios, necesita **varias tablas** o una tabla con diferentes [vistas]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) o una tabla con diferentes [columnas de fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/).
 
 ## Cómo crear calendarios adicionales en el complemento de calendario
 

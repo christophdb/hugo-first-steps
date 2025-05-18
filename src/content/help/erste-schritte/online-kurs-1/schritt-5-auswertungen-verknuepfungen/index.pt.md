@@ -46,4 +46,4 @@ Chegamos assim ao fim desta secção. Desloque-se até ao fim e passe para o sex
 ## Artigo de ajuda com mais informações
 
 - [Ajustar a altura da fila]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
-- [A fórmula de enrolar](https://seatable.io/pt/docs/verknuepfungen/die-rollup-formel/)
+- [A fórmula de enrolar]({{< relref "help/base-editor/spalten/die-rollup-formel" >}})

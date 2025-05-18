@@ -14,7 +14,7 @@ url: '/ru/help/gruppieren-von-eintraegen-in-einer-ansicht'
 
 ![Группировка записей в представлении](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
-1. Создайте [новое представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) или выберите представление, в котором вы хотите сгруппироваться.
+1. Создайте [новое представление]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) или выберите представление, в котором вы хотите сгруппироваться.
 2. Нажмите на опцию **Группа** в опциях просмотра над таблицей.
 3. Перейдите в раздел **Добавить группировку**.
 4. В пустом поле выберите **столбец**, по которому вы хотите сгруппировать.

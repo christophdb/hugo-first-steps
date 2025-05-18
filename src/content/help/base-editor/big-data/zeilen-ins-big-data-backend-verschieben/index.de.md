@@ -32,7 +32,7 @@ Zeilen, die im Big-Data-Speicher gespeichert sind, haben ein kleines **graues Dr
 
 **Gut zu wissen:**
 
-- In einer [normalen Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) werden Ihnen **keine Zeilen aus dem Big-Data-Speicher** angezeigt.
+- In einer [normalen Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) werden Ihnen **keine Zeilen aus dem Big-Data-Speicher** angezeigt.
 - In einer [Big-Data-Ansicht](https://seatable.io/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) können Ihnen **alle Zeilen** angezeigt werden, unabhängig davon, wo diese aktuell gespeichert sind.
 
 ## Einträge aus dem Big-Data-Speicher zurückholen

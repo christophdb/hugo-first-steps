@@ -14,7 +14,7 @@ url: '/ru/help/sortieren-von-eintraegen-in-einer-ansicht'
 
 ![Сортировка при входе](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
 
-1. Создайте [новое представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) или выберите представление, которое нужно отсортировать.
+1. Создайте [новое представление]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) или выберите представление, которое нужно отсортировать.
 2. Щелкните опцию **Сортировка** в опциях просмотра над таблицей.
 3. Перейдите в раздел **Добавить порядок сортировки**.
 4. В пустом поле выберите **столбец**, по которому вы хотите отсортировать.

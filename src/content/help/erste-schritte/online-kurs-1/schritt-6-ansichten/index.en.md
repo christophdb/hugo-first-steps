@@ -49,7 +49,7 @@ When you've experimented enough, try to complete the quiz and earn your award in
 ## Help article with further information
 
 - [What is a view?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Grouping, sorting and filters](https://seatable.io/en/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
-- [Create a new view](https://seatable.io/en/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
-- [Pin views](https://seatable.io/en/docs/grundlagen-von-ansichten/ansichten-pinnen/)
-- [The status bar and its functions](https://seatable.io/en/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/)
+- [Grouping, sorting and filters]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
+- [Create a new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
+- [Pin views]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [The status bar and its functions]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})

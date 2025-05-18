@@ -41,4 +41,4 @@ Damit sind wir auch schon am Ende dieses Abschnitts. Scrollen Sie bis zum Ende u
 ## Hilfeartikel mit weiteren Informationen
 
 - [Zeilenhöhe anpassen]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
-- [Die Rollup-Formel](https://seatable.io/docs/verknuepfungen/die-rollup-formel/)
+- [Die Rollup-Formel]({{< relref "help/base-editor/spalten/die-rollup-formel" >}})

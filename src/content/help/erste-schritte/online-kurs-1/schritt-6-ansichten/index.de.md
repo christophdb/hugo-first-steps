@@ -50,7 +50,7 @@ Wenn Sie genug experimentiert haben, versuchen Sie das Quiz zu absolvieren und v
 
 - [Was ist eine Ansicht?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
   )
-- [Gruppierung, Sortierung und Filter](https://seatable.io/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
-- [Anlegen einer neuen Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
-- [Ansichten anpinnen](https://seatable.io/docs/grundlagen-von-ansichten/ansichten-pinnen/)
-- [Die Statuszeile und Ihre Funktionen](https://seatable.io/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/)
+- [Gruppierung, Sortierung und Filter]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}})
+- [Anlegen einer neuen Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
+- [Ansichten anpinnen]({{< relref "help/base-editor/ansichten/ansichten-pinnen" >}})
+- [Die Statuszeile und Ihre Funktionen]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}})

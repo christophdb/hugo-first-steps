@@ -26,7 +26,7 @@ Es muy fácil implementar este requisito si sabes cómo. En este punto, aprovech
 
 ![view based trigger en zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger.png)
 
-Cree una [nueva](https://seatable.io/es/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) vista y defina un filtro para una columna de fecha que sólo muestre las entradas en las que el valor de la columna de fecha corresponda, por ejemplo, a la fecha de hoy o a una fecha muy especial. Si define el filtro en consecuencia, podrá determinar exactamente cuándo aparece una entrada en esta vista y, por tanto, activa el toque seleccionando la fecha en la columna correspondiente.
+Cree una [nueva]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) vista y defina un filtro para una columna de fecha que sólo muestre las entradas en las que el valor de la columna de fecha corresponda, por ejemplo, a la fecha de hoy o a una fecha muy especial. Si define el filtro en consecuencia, podrá determinar exactamente cuándo aparece una entrada en esta vista y, por tanto, activa el toque seleccionando la fecha en la columna correspondiente.
 
 ![Ejecución temporizada de un zap](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger2.png)
 

@@ -34,7 +34,7 @@ D'autres représentations comme le calendrier, la galerie ou le Kanban peuvent �
 
 ## Autres articles sur le thème des vues
 
-- [Créer une nouvelle vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
+- [Créer une nouvelle vue]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
 - [Renommer une vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
 - [Supprimer une vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [La duplication de vues](https://seatable.io/fr/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)

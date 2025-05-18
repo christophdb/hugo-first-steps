@@ -14,7 +14,7 @@ Mit der Sortierungsfunktion können Sie die ungeordneten Einträge in einer Tabe
 
 ![Sortierung von Einträgen](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
 
-1. Erstellen Sie eine [neue Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) oder wählen Sie die Ansicht aus, die Sie sortieren wollen.
+1. Erstellen Sie eine [neue Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) oder wählen Sie die Ansicht aus, die Sie sortieren wollen.
 2. Klicken Sie in den Ansichtsoptionen über der Tabelle die Option **Sortieren** an.
 3. Gehen Sie auf **Sortierung hinzufügen**.
 4. Wählen Sie im leeren Feld die **Spalte** aus, nach der Sie sortieren möchten.

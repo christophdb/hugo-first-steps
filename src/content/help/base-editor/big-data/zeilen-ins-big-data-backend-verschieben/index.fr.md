@@ -32,7 +32,7 @@ Les lignes stockées dans la mémoire Big Data ont un petit **triangle gris dans
 
 **Bon à savoir**
 
-- Dans un [affichage normal](https://seatable.io/fr/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/), vous ne verrez **pas de lignes provenant de la mémoire Big Data**.
+- Dans un [affichage normal]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}), vous ne verrez **pas de lignes provenant de la mémoire Big Data**.
 - Dans un [affichage Big Data](https://seatable.io/fr/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/), vous pouvez voir **toutes les lignes**, quel que soit l'endroit où elles sont actuellement stockées.
 
 ## Récupérer des entrées dans le stockage de données volumineuses

@@ -20,9 +20,9 @@ SeaTable has a **table view** for the most common use cases. Here your data is r
 
 The Table View is essential for manually entering, editing and managing data in a Base: In it, you create the tables and define the column structure. Each column is assigned a [type]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) that captures specific data.
 
-The table view is particularly suitable for displaying text- and number-based data. Using the available view settings such as [grouping, sorting and filters](https://seatable.io/en/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), you can also perform simple evaluations very quickly.
+The table view is particularly suitable for displaying text- and number-based data. Using the available view settings such as [grouping, sorting and filters]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}), you can also perform simple evaluations very quickly.
 
-In the [Status-row](https://seatable.io/en/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) you can keep an eye on the number of rows and the column values at all times.
+In the [Status-row]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}}) you can keep an eye on the number of rows and the column values at all times.
 
 ### Statistics
 

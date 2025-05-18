@@ -20,9 +20,9 @@ SeaTable tem uma **vista de tabela** para os casos de uso mais comum. Aqui os se
 
 A visualização da tabela é essencial para a introdução, edição e gestão manual de dados numa base: Nela, cria-se as tabelas e define-se a estrutura das colunas. A cada coluna é atribuído um [tipo]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) que regista determinados dados.
 
-A visualização da tabela é particularmente adequada para exibir dados baseados em texto e números. Utilizando as configurações de visualização disponíveis, tais como [agrupamento, classificação e filtragem](https://seatable.io/pt/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), também é possível efectuar avaliações simples muito rapidamente.
+A visualização da tabela é particularmente adequada para exibir dados baseados em texto e números. Utilizando as configurações de visualização disponíveis, tais como [agrupamento, classificação e filtragem]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}), também é possível efectuar avaliações simples muito rapidamente.
 
-É possível ver o número de linhas e os valores das colunas na [linha de estado](https://seatable.io/pt/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) em qualquer altura.
+É possível ver o número de linhas e os valores das colunas na [linha de estado]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}}) em qualquer altura.
 
 ### Estatísticas
 

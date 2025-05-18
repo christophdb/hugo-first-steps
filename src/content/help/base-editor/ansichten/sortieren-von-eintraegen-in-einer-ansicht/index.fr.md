@@ -14,7 +14,7 @@ La fonction de tri vous permet d'afficher les entrées non classées d'un tablea
 
 ![Tri des entrées](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
 
-1. Créez une [nouvelle vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/) ou sélectionnez la vue que vous souhaitez trier.
+1. Créez une [nouvelle vue]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou sélectionnez la vue que vous souhaitez trier.
 2. Dans les options d'affichage, cliquez sur l'option **Trier** au-dessus du tableau.
 3. Allez sur **Ajouter un tri**.
 4. Dans le champ vide, sélectionnez la **colonne** selon laquelle vous souhaitez trier.
