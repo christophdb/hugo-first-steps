@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/benachrichtigungsregel-erstellen'
 ---
 
-Com a ajuda das **regras de notificação**, pode enviar automaticamente notificações a utilizadores seleccionados logo que ocorra um **evento de disparo** predefinido numa das suas tabelas. As regras de notificação são assim basicamente comparáveis às [automatizações](https://seatable.io/pt/docs/arbeiten-mit-automationen/uebersicht-ueber-automationen/), mas em contraste com estas, já estão disponíveis com uma subscrição gratuita.
+Com a ajuda das **regras de notificação**, pode enviar automaticamente notificações a utilizadores seleccionados logo que ocorra um **evento de disparo** predefinido numa das suas tabelas. As regras de notificação são assim basicamente comparáveis às [automatizações]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), mas em contraste com estas, já estão disponíveis com uma subscrição gratuita.
 
 ## Criar uma regra de notificação
 

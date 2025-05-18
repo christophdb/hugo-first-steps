@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/benachrichtigungsregel-erstellen'
 ---
 
-Con la ayuda de las reglas de **notificación**, puede enviar automáticamente notificaciones a los usuarios seleccionados en cuanto se produzca un **evento desencadenante** predefinido en una de sus tablas. Así pues, las reglas de notificación son básicamente comparables a [las automatizaciones](https://seatable.io/es/docs/arbeiten-mit-automationen/uebersicht-ueber-automationen/), pero a diferencia de éstas ya están disponibles con una suscripción gratuita.
+Con la ayuda de las reglas de **notificación**, puede enviar automáticamente notificaciones a los usuarios seleccionados en cuanto se produzca un **evento desencadenante** predefinido en una de sus tablas. Así pues, las reglas de notificación son básicamente comparables a [las automatizaciones]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), pero a diferencia de éstas ya están disponibles con una suscripción gratuita.
 
 ## Crear una regla de notificación
 

@@ -37,11 +37,11 @@ Para determinadas acciones, también puede añadir más **Ajustes** para hacer c
 
 {{< warning  headline="Nota"  text="Por supuesto, tiene la opción de asignar **varias acciones** a un único evento desencadenante." />}}
 
-Si desea obtener más información sobre las acciones [automatizadas](https://seatable.io/es/docs/arbeiten-mit-automationen/automations-aktionen/), lea el artículo [Acciones de automatización](https://seatable.io/es/docs/arbeiten-mit-automationen/automations-aktionen/).
+Si desea obtener más información sobre las acciones [automatizadas]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## Cómo funcionan las automatizaciones
 
-En [Cómo funcionan las automatizaciones](https://seatable.io/es/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/) se explica con más detalle a continuación con la ayuda de un ejemplo.
+En [Cómo funcionan las automatizaciones]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) se explica con más detalle a continuación con la ayuda de un ejemplo.
 
 {{< warning  headline="Nota importante"  text="El ejemplo ficticio pretende ilustrar el **funcionamiento básico de los** automatismos de complejidad reducida y, por tanto, sólo contiene una cantidad relativamente pequeña de datos. Por regla general, las automatizaciones tienen un efecto mucho mayor en los **conjuntos de datos más extensos**." />}}
 

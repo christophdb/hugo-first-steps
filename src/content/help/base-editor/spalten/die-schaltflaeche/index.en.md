@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/die-schaltflaeche'
 ---
 
-The Button column has a similar function to [automations](https://seatable.io/en/docs/arbeiten-mit-automationen/anlegen-einer-automation/), where you always have to operate buttons **manually**. Using the **button** you can add in this column to your **rows** you trigger **actions** defined in advance. For this reason, this type of column is particularly suitable for automating process steps.
+The Button column has a similar function to [automations]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}), where you always have to operate buttons **manually**. Using the **button** you can add in this column to your **rows** you trigger **actions** defined in advance. For this reason, this type of column is particularly suitable for automating process steps.
 
 ## Creating the button
 

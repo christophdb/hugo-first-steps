@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/benachrichtigungsregel-erstellen'
 ---
 
-Mithilfe von **Benachrichtigungsregeln** können Sie automatisch Benachrichtigungen an ausgewählte Benutzer versenden, sobald ein im Vorhinein definiertes **Trigger-Ereignis** in einer Ihrer Tabellen eintritt. Benachrichtigungsregeln sind somit grundsätzlich vergleichbar mit [Automationen](https://seatable.io/docs/arbeiten-mit-automationen/uebersicht-ueber-automationen/), stehen jedoch im Gegensatz zu diesen bereits bei einem Free-Abo zur Verfügung.
+Mithilfe von **Benachrichtigungsregeln** können Sie automatisch Benachrichtigungen an ausgewählte Benutzer versenden, sobald ein im Vorhinein definiertes **Trigger-Ereignis** in einer Ihrer Tabellen eintritt. Benachrichtigungsregeln sind somit grundsätzlich vergleichbar mit [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), stehen jedoch im Gegensatz zu diesen bereits bei einem Free-Abo zur Verfügung.
 
 ## Eine Benachrichtigungsregel erstellen
 

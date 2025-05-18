@@ -37,11 +37,11 @@ url: '/ru/help/funktionsweise-von-automationen'
 
 {{< warning  headline="Примечание"  text="Конечно, у вас есть возможность назначить **несколько действий** на одно триггерное событие." />}}
 
-Если вы хотите узнать больше об автоматизированных действиях, прочитайте статью [Automation Actions](https://seatable.io/ru/docs/arbeiten-mit-automationen/automations-aktionen/).
+Если вы хотите узнать больше об автоматизированных действиях, прочитайте статью [Automation Actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## Функциональные возможности автоматики
 
-Сайт [Функциональные возможности автоматики](https://seatable.io/ru/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/) более подробно объясняется ниже с помощью примера.
+Сайт [Функциональные возможности автоматики]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) более подробно объясняется ниже с помощью примера.
 
 {{< warning  headline="Важное замечание"  text="Вымышленный пример предназначен для иллюстрации **базового функционирования** автоматов с пониженной сложностью и поэтому содержит лишь относительно небольшой объем данных. Как правило, автоматизация дает гораздо больший эффект при работе с **более обширными наборами данных**." />}}
 

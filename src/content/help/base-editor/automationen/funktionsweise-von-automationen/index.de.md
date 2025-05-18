@@ -35,11 +35,11 @@ Je nach ausgewähltem Ereignis stehen Ihnen dabei unterschiedliche Aktionen zur 
 
 Für bestimmte Aktionen können Sie darüber hinaus weitere **Einstellungen** vornehmen. So können Sie etwa für das Hinzufügen und die Änderung eines Eintrags festlegen, welcher Wert in welcher Spalte der Tabelle neu hinzugefügt wird bzw. zu welchem Wert Sie einen bereits bestehenden Wert ändern möchten, sobald ein bestimmter Fall eintritt. {{< warning  type="warning" headline="Hinweis"  text="Selbstverständlich haben Sie die Möglichkeit, einem einzelnen Trigger-Ereignis **mehrere Aktionen** zuzuweisen." />}}
 
-Wenn Sie mehr über automatisierte Aktionen lernen möchten, lesen Sie den Artikel [Automations-Aktionen](https://seatable.io/docs/arbeiten-mit-automationen/automations-aktionen/).
+Wenn Sie mehr über automatisierte Aktionen lernen möchten, lesen Sie den Artikel [Automations-Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## Funktionsweise von Automationen
 
-Die [Funktionsweise von Automationen](https://seatable.io/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/) wird im Folgenden anhand eines Beispiels ausführlicher erläutert. {{< warning  headline="Wichtiger Hinweis"  text="Das fiktive Beispiel soll mit reduzierter Komplexität die **grundlegende Funktionsweise** von Automationen beleuchten und enthält daher nur eine relativ geringe Datenmenge. Grundsätzlich gilt, dass Automationen in **umfangreicheren Datensätzen** eine noch viel größere Wirkung entfalten." />}}
+Die [Funktionsweise von Automationen]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) wird im Folgenden anhand eines Beispiels ausführlicher erläutert. {{< warning  headline="Wichtiger Hinweis"  text="Das fiktive Beispiel soll mit reduzierter Komplexität die **grundlegende Funktionsweise** von Automationen beleuchten und enthält daher nur eine relativ geringe Datenmenge. Grundsätzlich gilt, dass Automationen in **umfangreicheren Datensätzen** eine noch viel größere Wirkung entfalten." />}}
 
 ![Beispiel-Tabelle](images/example-table-final-version.png)
 

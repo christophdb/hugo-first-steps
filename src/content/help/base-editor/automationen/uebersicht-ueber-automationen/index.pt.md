@@ -20,25 +20,25 @@ O artigo seguinte destina-se a dar-lhe uma visão geral do tema das automatizaç
 
 Este artigo explica as bases de como funcionam as automatizações no SeaTable e é por isso adequado como uma **introdução ao tema das automatizações**.
 
-Saiba mais sobre como as automatizações funcionam [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/).
+Saiba mais sobre como as automatizações funcionam [aqui]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}).
 
 ## Criar uma automatização
 
 O primeiro passo para processos de trabalho automatizados é a criação de uma automatização. Para garantir que tudo corre de acordo com o planeado e que as regras de automatização criadas têm o efeito desejado, resumimos neste artigo as informações mais importantes para si.
 
-Aprenda [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/anlegen-einer-automation/) como criar uma automatização.
+Aprenda [aqui]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}) como criar uma automatização.
 
 ## Gerir e editar automatismos
 
 Pode, evidentemente, editar automatizações activas que já foram criadas. Neste artigo mostrar-lhe-emos quais as configurações que pode fazer ao automatizar os seus processos de trabalho.
 
-Saiba mais sobre a gestão das automatizações [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/).
+Saiba mais sobre a gestão das automatizações [aqui]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}}).
 
 ## Parar as automatizações
 
 As automatizações activas de que já não necessita durante um determinado período de tempo podem simplesmente ser pausadas e reactivadas conforme necessário.
 
-Aprenda [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/automationen-stoppen/) como parar as automatizações.
+Aprenda [aqui]({{< relref "help/base-editor/automationen/automationen-stoppen" >}}) como parar as automatizações.
 
 ## Eliminar automatizações
 
@@ -50,13 +50,13 @@ Saiba [aqui]({{< relref "help/base-editor/automationen/automationen-loeschen" >}
 
 Para verificar a execução das automatizações, tem a opção de exibir o registo de execução para cada regra de automatização. Neste registo, pode visualizar informações sobre cada execução de automatização.
 
-Saiba mais sobre o registo de execução de uma automatização [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/).
+Saiba mais sobre o registo de execução de uma automatização [aqui]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}).
 
 ## Porque não consigo encontrar as automatizações na minha base?
 
 Não consegue encontrar a função de automatização nas suas bases? Pode ter algo a ver com a sua assinatura SeaTable.
 
-Descubra [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/) porque pode ser este o caso.
+Descubra [aqui]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}}) porque pode ser este o caso.
 
 ## Disparo de automatização
 
@@ -68,7 +68,7 @@ Saiba mais sobre os activadores de automação [aqui]({{< relref "help/base-edit
 
 As acções automatizadas representam a segunda das duas componentes essenciais das automatizações. As acções são desencadeadas pelos eventos de desencadeamento definidos. Dependendo do gatilho, a SeaTable pode realizar diferentes acções de automatização.
 
-Saiba mais sobre acções de automatização [aqui](https://seatable.io/pt/docs/arbeiten-mit-automationen/automations-aktionen/).
+Saiba mais sobre acções de automatização [aqui]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## Linhas de bloqueio por automatização
 

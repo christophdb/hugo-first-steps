@@ -64,16 +64,16 @@ For more information on blocking rows , see the article [Blocking a row.]({{< re
 
 ### More helpful articles in the Automations section:
 
-- [Overview of automations](https://seatable.io/en/docs/arbeiten-mit-automationen/uebersicht-ueber-automationen/)
-- [How automation works](https://seatable.io/en/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/)
-- [Create an automation](https://seatable.io/en/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
-- [Manage and edit automations](https://seatable.io/en/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
-- [Stop automations](https://seatable.io/en/docs/arbeiten-mit-automationen/automationen-stoppen/)
+- [Overview of automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
+- [How automation works]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
+- [Create an automation]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
+- [Manage and edit automations]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Stop automations]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Delete automations]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
-- [Show execution log of an automation](https://seatable.io/en/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
-- [Why can't I find automations in my base?](https://seatable.io/en/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
+- [Show execution log of an automation]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
+- [Why can't I find automations in my base?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Automation trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}})
-- [Automation actions](https://seatable.io/en/docs/arbeiten-mit-automationen/automations-aktionen/)
+- [Automation actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Linking entries via automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 
 ### Other interesting examples of automations:

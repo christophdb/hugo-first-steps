@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/benachrichtigungsregel-erstellen'
 ---
 
-Les **règles de notification** vous permettent d'envoyer automatiquement des notifications à des utilisateurs sélectionnés dès qu'un **événement déclencheur** défini au préalable se produit dans l'une de vos tables. Les règles de notification sont donc fondamentalement comparables aux [automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/uebersicht-ueber-automationen/), mais contrairement à ces dernières, elles sont déjà disponibles avec un abonnement gratuit.
+Les **règles de notification** vous permettent d'envoyer automatiquement des notifications à des utilisateurs sélectionnés dès qu'un **événement déclencheur** défini au préalable se produit dans l'une de vos tables. Les règles de notification sont donc fondamentalement comparables aux [automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), mais contrairement à ces dernières, elles sont déjà disponibles avec un abonnement gratuit.
 
 ## Créer une règle de notification
 

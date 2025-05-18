@@ -37,11 +37,11 @@ Para certas acções, pode também acrescentar mais **Definições** para fazer 
 
 {{< warning  headline="Nota"  text="É claro que tem a opção de atribuir **várias acções** a um único evento de disparo." />}}
 
-Se quiser saber mais sobre acções automatizadas, leia o artigo [Acções de Automatização](https://seatable.io/pt/docs/arbeiten-mit-automationen/automations-aktionen/).
+Se quiser saber mais sobre acções automatizadas, leia o artigo [Acções de Automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## Funcionalidade das automatizações
 
-O [Funcionalidade das automatizações](https://seatable.io/pt/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/) é explicado em mais detalhe abaixo, com a ajuda de um exemplo.
+O [Funcionalidade das automatizações]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) é explicado em mais detalhe abaixo, com a ajuda de um exemplo.
 
 {{< warning  headline="Nota importante"  text="O exemplo fictício destina-se a ilustrar o **funcionamento básico das** automatizações com complexidade reduzida e, portanto, contém apenas uma quantidade relativamente pequena de dados. Como regra geral, as automatizações têm um efeito muito maior em **conjuntos de dados mais extensos**." />}}
 

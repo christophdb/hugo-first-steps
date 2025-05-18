@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/die-schaltflaeche'
 ---
 
-Die Schaltflächen-Spalte besitzt eine ähnliche Funktion wie [Automationen](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/), wobei Sie Schaltflächen immer **manuell** bedienen müssen. Mithilfe des **Buttons**, den Sie in dieser Spalte Ihren **Zeilen** hinzufügen können, lösen Sie im Vorhinein definierte **Aktionen** aus. Aus diesem Grund eignet sich dieser Spaltentyp besonders gut für die Automatisierung von Prozessschritten.
+Die Schaltflächen-Spalte besitzt eine ähnliche Funktion wie [Automationen]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}), wobei Sie Schaltflächen immer **manuell** bedienen müssen. Mithilfe des **Buttons**, den Sie in dieser Spalte Ihren **Zeilen** hinzufügen können, lösen Sie im Vorhinein definierte **Aktionen** aus. Aus diesem Grund eignet sich dieser Spaltentyp besonders gut für die Automatisierung von Prozessschritten.
 
 ## Anlegen der Schaltfläche
 

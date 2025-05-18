@@ -37,11 +37,11 @@ Pour certaines actions, vous pouvez en outre utiliser d'autres **Réglages** de 
 
 {{< warning  headline="Remarque"  text="Vous avez bien entendu la possibilité d'attribuer **plusieurs actions** à un seul événement déclencheur." />}}
 
-Si vous souhaitez en savoir plus sur les actions automatisées, lisez l'article [Actions automatisées](https://seatable.io/fr/docs/arbeiten-mit-automationen/automations-aktionen/).
+Si vous souhaitez en savoir plus sur les actions automatisées, lisez l'article [Actions automatisées]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## Fonctionnement des automatisations
 
-Le site [Fonctionnement des automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/) est expliquée plus en détail ci-dessous à l'aide d'un exemple.
+Le site [Fonctionnement des automatisations]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) est expliquée plus en détail ci-dessous à l'aide d'un exemple.
 
 {{< warning  headline="Remarque importante"  text="L'exemple fictif a pour but d'illustrer le **fonctionnement de base** des automatisations avec une complexité réduite et ne contient donc qu'une quantité de données relativement faible. En principe, les automatisations ont un impact encore plus important dans **des ensembles de données plus volumineux**." />}}
 

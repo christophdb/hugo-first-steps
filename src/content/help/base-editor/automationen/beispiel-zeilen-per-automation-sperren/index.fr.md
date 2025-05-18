@@ -64,16 +64,16 @@ Vous trouverez plus d'informations sur le verrouillage des lignes dans l'article
 
 ### D'autres articles utiles dans la rubrique Automations :
 
-- [Aperçu des automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/uebersicht-ueber-automationen/)
-- [Fonctionnement des automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/)
-- [Créer une automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
-- [Gérer et éditer des automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
-- [Arrêter les automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/automationen-stoppen/)
+- [Aperçu des automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
+- [Fonctionnement des automatisations]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
+- [Créer une automatisation]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
+- [Gérer et éditer des automatisations]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Arrêter les automatisations]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Supprimer des automatismes]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
-- [Afficher le journal d'exécution d'une automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
-- [Pourquoi ne puis-je pas trouver d'automatisations dans ma base ?](https://seatable.io/fr/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
+- [Afficher le journal d'exécution d'une automatisation]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
+- [Pourquoi ne puis-je pas trouver d'automatisations dans ma base ?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Déclencheur d'automatisation]({{< relref "help/base-editor/automationen/automations-trigger" >}})
-- [Actions d'automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/automations-aktionen/)
+- [Actions d'automatisation]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Liens vers des entrées par automatisation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 
 ### Autres exemples intéressants d'automatisation :

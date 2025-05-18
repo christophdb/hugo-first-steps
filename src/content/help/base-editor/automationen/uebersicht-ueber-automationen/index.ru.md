@@ -20,25 +20,25 @@ url: '/ru/help/uebersicht-ueber-automationen'
 
 Эта статья объясняет основы работы автоматизаций в SeaTable и поэтому подходит в качестве **введения в тему автоматизаций**.
 
-Подробнее о том, как работают автоматизированные системы, можно узнать [здесь](https://seatable.io/ru/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/).
+Подробнее о том, как работают автоматизированные системы, можно узнать [здесь]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}).
 
 ## Создайте автоматизацию
 
 Первый шаг к автоматизации рабочих процессов - это создание автоматизации. Чтобы убедиться, что все идет по плану и что созданные правила автоматизации дают желаемый эффект, мы обобщили самую важную информацию для вас в этой статье.
 
-Узнайте, как создать автоматизацию, [здесь](https://seatable.io/ru/docs/arbeiten-mit-automationen/anlegen-einer-automation/).
+Узнайте, как создать автоматизацию, [здесь]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}).
 
 ## Управление и редактирование автоматизаций
 
 Вы, конечно, можете редактировать уже созданные, активные автоматизации впоследствии. В этой статье мы покажем вам, какие настройки вы можете сделать при автоматизации рабочих процессов.
 
-Узнайте больше об управлении автоматизациями [здесь](https://seatable.io/ru/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/).
+Узнайте больше об управлении автоматизациями [здесь]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}}).
 
 ## Остановить автоматизацию
 
 Активные автоматизации, которые больше не нужны в течение определенного периода времени, можно просто приостановить и снова активировать по мере необходимости.
 
-Узнать, как остановить автоматизацию, можно [здесь](https://seatable.io/ru/docs/arbeiten-mit-automationen/automationen-stoppen/).
+Узнать, как остановить автоматизацию, можно [здесь]({{< relref "help/base-editor/automationen/automationen-stoppen" >}}).
 
 ## Удалить автоматизацию
 
@@ -50,13 +50,13 @@ url: '/ru/help/uebersicht-ueber-automationen'
 
 Чтобы проверить выполнение автоматизаций, у вас есть возможность отобразить журнал выполнения для каждого правила автоматизации. Здесь вы можете просмотреть информацию о каждом запуске автоматизации.
 
-Подробнее о журнале выполнения автоматизации можно узнать [здесь](https://seatable.io/ru/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/).
+Подробнее о журнале выполнения автоматизации можно узнать [здесь]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}).
 
 ## Почему я не могу найти автоматизацию в своей базе?
 
 Не можете найти функцию автоматизации в своих базах? Возможно, это как-то связано с вашей подпиской на SeaTable.
 
-Узнайте [здесь](https://seatable.io/ru/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/), почему это может быть так.
+Узнайте [здесь]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}}), почему это может быть так.
 
 ## Триггер автоматизации
 
@@ -68,7 +68,7 @@ url: '/ru/help/uebersicht-ueber-automationen'
 
 Автоматизированные действия представляют собой второй из двух основных компонентов автоматизаций. Действия запускаются определенными триггерными событиями. В зависимости от триггера SeaTable может выполнять различные действия по автоматизации.
 
-Узнать больше о действиях по автоматизации можно [здесь](https://seatable.io/ru/docs/arbeiten-mit-automationen/automations-aktionen/).
+Узнать больше о действиях по автоматизации можно [здесь]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## Блокировка линий с помощью автоматики
 

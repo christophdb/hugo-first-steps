@@ -37,11 +37,11 @@ For certain actions, you can also add further **Settings** to make changes to th
 
 {{< warning  headline="Note"  text="Of course, you have the option to assign **multiple actions** to a single trigger event." />}}
 
-If you want to learn more about automated actions, read the article [Automation Actions](https://seatable.io/en/docs/arbeiten-mit-automationen/automations-aktionen/).
+If you want to learn more about automated actions, read the article [Automation Actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}).
 
 ## How automation works
 
-The [How automation works](https://seatable.io/en/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/) is explained in more detail below using an example.
+The [How automation works]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) is explained in more detail below using an example.
 
 {{< warning  headline="Important note"  text="The fictitious example is intended to illustrate the **basic operation of** automations with reduced complexity and therefore contains only a relatively small amount of data. In principle, automations have a much greater effect in **more extensive data sets**." />}}
 

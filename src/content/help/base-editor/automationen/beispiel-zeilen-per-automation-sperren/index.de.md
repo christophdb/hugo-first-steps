@@ -62,16 +62,16 @@ Mehr Informationen zur Sperrung von Zeilen erhalten Sie im Artikel [Sperren eine
 
 ### Weitere hilfreiche Artikel in der Rubrik Automationen:
 
-- [Übersicht über Automationen](https://seatable.io/docs/arbeiten-mit-automationen/uebersicht-ueber-automationen/)
-- [Funktionsweise von Automationen](https://seatable.io/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/)
-- [Anlegen einer Automation](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
-- [Automationen verwalten und bearbeiten](https://seatable.io/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
-- [Automationen stoppen](https://seatable.io/docs/arbeiten-mit-automationen/automationen-stoppen/)
+- [Übersicht über Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
+- [Funktionsweise von Automationen]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
+- [Anlegen einer Automation]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
+- [Automationen verwalten und bearbeiten]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Automationen stoppen]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Automationen löschen]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
-- [Ausführungslog einer Automation anzeigen](https://seatable.io/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
-- [Warum finde ich Automationen in meiner Base nicht?](https://seatable.io/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
+- [Ausführungslog einer Automation anzeigen]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
+- [Warum finde ich Automationen in meiner Base nicht?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Automations-Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}})
-- [Automations-Aktionen](https://seatable.io/docs/arbeiten-mit-automationen/automations-aktionen/)
+- [Automations-Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Verlinken von Einträgen per Automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 
 ### Weitere interessante Beispiele von Automationen:

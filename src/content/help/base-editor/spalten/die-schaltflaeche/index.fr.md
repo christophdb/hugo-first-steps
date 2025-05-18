@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/die-schaltflaeche'
 ---
 
-La colonne des boutons a une fonction similaire à celle [des automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/anlegen-einer-automation/), mais vous devez toujours utiliser les boutons **manuellement**. Le **bouton** que vous pouvez ajouter à vos **lignes** dans cette colonne vous permet de déclencher **des actions** définies à l'avance. C'est pourquoi ce type de colonne convient particulièrement bien à l'automatisation d'étapes de processus.
+La colonne des boutons a une fonction similaire à celle [des automatisations]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}), mais vous devez toujours utiliser les boutons **manuellement**. Le **bouton** que vous pouvez ajouter à vos **lignes** dans cette colonne vous permet de déclencher **des actions** définies à l'avance. C'est pourquoi ce type de colonne convient particulièrement bien à l'automatisation d'étapes de processus.
 
 ## Création du bouton
 

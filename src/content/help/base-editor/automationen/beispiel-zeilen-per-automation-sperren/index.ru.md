@@ -64,16 +64,16 @@ url: '/ru/help/zeilen-per-automation-sperren'
 
 ### Больше полезных статей в разделе "Автоматизация":
 
-- [Обзор автоматики](https://seatable.io/ru/docs/arbeiten-mit-automationen/uebersicht-ueber-automationen/)
-- [Функциональные возможности автоматики](https://seatable.io/ru/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/)
-- [Создайте автоматизацию](https://seatable.io/ru/docs/arbeiten-mit-automationen/anlegen-einer-automation/)
-- [Управление и редактирование автоматизаций](https://seatable.io/ru/docs/arbeiten-mit-automationen/automationen-verwalten-und-bearbeiten/)
-- [Остановить автоматизацию](https://seatable.io/ru/docs/arbeiten-mit-automationen/automationen-stoppen/)
+- [Обзор автоматики]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}})
+- [Функциональные возможности автоматики]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}})
+- [Создайте автоматизацию]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}})
+- [Управление и редактирование автоматизаций]({{< relref "help/base-editor/automationen/automationen-verwalten-und-bearbeiten" >}})
+- [Остановить автоматизацию]({{< relref "help/base-editor/automationen/automationen-stoppen" >}})
 - [Удалить автоматизацию]({{< relref "help/base-editor/automationen/automationen-loeschen" >}})
-- [Отображение журнала выполнения автоматизации](https://seatable.io/ru/docs/arbeiten-mit-automationen/ausfuehrungslog-einer-automation-anzeigen/)
-- [Почему я не могу найти автоматизацию в своей базе?](https://seatable.io/ru/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
+- [Отображение журнала выполнения автоматизации]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}})
+- [Почему я не могу найти автоматизацию в своей базе?]({{< relref "help/base-editor/automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht" >}})
 - [Триггер автоматизации]({{< relref "help/base-editor/automationen/automations-trigger" >}})
-- [Действия по автоматизации](https://seatable.io/ru/docs/arbeiten-mit-automationen/automations-aktionen/)
+- [Действия по автоматизации]({{< relref "help/base-editor/automationen/automations-aktionen" >}})
 - [Связывание записей с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 
 ### Другие интересные примеры автоматизации:

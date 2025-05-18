@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/die-schaltflaeche'
 ---
 
-La columna de botones tiene una función similar a [las automatizaciones](https://seatable.io/es/docs/arbeiten-mit-automationen/anlegen-einer-automation/), en las que siempre hay que accionar los botones **manualmente**. Con la ayuda del **botón** que puede añadir a sus **filas en** esta columna, desencadena **acciones** definidas de antemano. Por esta razón, este tipo de columna es especialmente adecuado para automatizar los pasos del proceso.
+La columna de botones tiene una función similar a [las automatizaciones]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}), en las que siempre hay que accionar los botones **manualmente**. Con la ayuda del **botón** que puede añadir a sus **filas en** esta columna, desencadena **acciones** definidas de antemano. Por esta razón, este tipo de columna es especialmente adecuado para automatizar los pasos del proceso.
 
 ## Crear el botón
 
