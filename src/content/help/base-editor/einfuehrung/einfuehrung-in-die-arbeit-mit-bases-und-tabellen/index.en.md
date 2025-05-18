@@ -22,10 +22,10 @@ SeaTable offers several ways to create a new Base. If you are new to SeaTable, w
 
 If you are familiar with creating your own tables, columns and views, you can start with an empty base.
 
-- [Creating a Base Using a Template](https://seatable.io/en/docs/bases-verwalten/anlegen-einer-base-mithilfe-einer-vorlage/)
-- [Create a new base](https://seatable.io/en/docs/bases-verwalten/eine-neue-base-erstellen/)
+- [Creating a Base Using a Template]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
+- [Create a new base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Import Excel files into SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
-- [Duplicate an existing base](https://seatable.io/en/docs/bases-verwalten/duplizieren-einer-bestehenden-base/)
+- [Duplicate an existing base]({{< relref "help/startseite/bases/duplizieren-einer-bestehenden-base" >}})
 
 ## Manage bases
 

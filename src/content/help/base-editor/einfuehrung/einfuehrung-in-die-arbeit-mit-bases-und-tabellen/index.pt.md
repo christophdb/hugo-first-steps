@@ -22,10 +22,10 @@ A SeaTable oferece várias formas de criar uma nova base. Se é novo no SeaTable
 
 Se estiver familiarizado com a criação das suas próprias tabelas, colunas e vistas, pode começar com uma base vazia.
 
-- [Criação de uma base utilizando um modelo](https://seatable.io/pt/docs/bases-verwalten/anlegen-einer-base-mithilfe-einer-vorlage/)
-- [Criar uma nova base](https://seatable.io/pt/docs/bases-verwalten/eine-neue-base-erstellen/)
+- [Criação de uma base utilizando um modelo]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
+- [Criar uma nova base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Importar ficheiros Excel para o SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
-- [Duplicar uma base existente](https://seatable.io/pt/docs/bases-verwalten/duplizieren-einer-bestehenden-base/)
+- [Duplicar uma base existente]({{< relref "help/startseite/bases/duplizieren-einer-bestehenden-base" >}})
 
 ## Gerir bases
 
