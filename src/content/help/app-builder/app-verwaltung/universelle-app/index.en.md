@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/universelle-app'
 ---
 
-When building a **Universal app**, you can let your creativity run wild. The app has a number of [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) that allow you to present your data in the form of **tables**, **web forms**, **galleries** or **kanban boards**, among others. By [creating](https://seatable.io/en/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) a **custom page**, you can create dashboards with meaningful **statistics** from your data that you can share with other (external) users.
+When building a **Universal app**, you can let your creativity run wild. The app has a number of [page types]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) a **custom page**, you can create dashboards with meaningful **statistics** from your data that you can share with other (external) users.
 
 {{< warning  headline="Authorization required in the group"  text="To be able to create, edit, copy or delete an app, you must be the **owner** or **administrator of the group** in which the underlying **base** is located. Simple **group members** can only view and use existing apps." />}}
 
@@ -28,7 +28,7 @@ After you have successfully created your universal app, you can start designing 
 
 A Universal App consists of several **pages** that you can group into **folders**.
 
-[Learn how to add new pages and folders to your Universal App here](https://seatable.io/en/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/).
+[Learn how to add new pages and folders to your Universal App here]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
 To prepare the data in your Base in an appealing way, the Universal App offers a variety of [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) with different design elements.
 
@@ -72,11 +72,11 @@ You can also share a universal app with other users via the [user and role manag
 
 ## Copy a Universal App
 
-Have you built a universal app that you would like to use in a similar form for another user group? Then just copy the existing app and customize the copy as you like. You can learn how to copy a Universal App [here](https://seatable.io/en/docs/apps/apps-kopieren/).
+Have you built a universal app that you would like to use in a similar form for another user group? Then just copy the existing app and customize the copy as you like. You can learn how to copy a Universal App [here]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}).
 
 ## Disable a Universal App
 
-If you've created a Universal App that you want to temporarily disable, you can disable it with just a few clicks to revoke access to all user groups. You can find out how to do this [here](https://seatable.io/en/docs/apps/apps-zeitweise-deaktivieren/).
+If you've created a Universal App that you want to temporarily disable, you can disable it with just a few clicks to revoke access to all user groups. You can find out how to do this [here]({{< relref "help/app-builder/app-verwaltung/apps-zeitweise-deaktivieren" >}}).
 
 ## Delete a Universal App
 

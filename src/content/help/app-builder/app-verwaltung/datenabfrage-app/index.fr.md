@@ -64,11 +64,11 @@ Toutefois, les utilisateurs peuvent **trier** eux-mêmes la liste de résultats 
 
 ## Copier une application de récupération de données
 
-Vous avez créé une application de consultation de données que vous souhaitez utiliser sous une forme similaire pour un autre groupe d'utilisateurs ? Il vous suffit alors de copier l'appli existante et d'adapter la copie à votre guise. Pour savoir comment copier une app, [cliquez ici](https://seatable.io/fr/docs/apps/apps-kopieren/).
+Vous avez créé une application de consultation de données que vous souhaitez utiliser sous une forme similaire pour un autre groupe d'utilisateurs ? Il vous suffit alors de copier l'appli existante et d'adapter la copie à votre guise. Pour savoir comment copier une app, [cliquez ici]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}).
 
 ## Désactiver une application de requête de données
 
-Si vous avez créé une application de récupération de données que vous souhaitez désactiver temporairement, vous pouvez la désactiver en quelques clics pour révoquer l’accès à tous les groupes d’utilisateurs. Pour savoir comment procéder, [cliquez ici](https://seatable.io/fr/docs/apps/apps-zeitweise-deaktivieren/).
+Si vous avez créé une application de récupération de données que vous souhaitez désactiver temporairement, vous pouvez la désactiver en quelques clics pour révoquer l’accès à tous les groupes d’utilisateurs. Pour savoir comment procéder, [cliquez ici]({{< relref "help/app-builder/app-verwaltung/apps-zeitweise-deaktivieren" >}}).
 
 ## Supprimer une application de consultation de données
 

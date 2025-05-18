@@ -19,7 +19,7 @@ Im Bearbeitungsmodus der Universellen App stehen Ihnen derzeit insgesamt **neun 
 
 ![Seitentypen Universal App](images/Seitentypen-Universal-App.png)
 
-[Erfahren Sie hier, wie Sie neue Seiten in der Universellen App anlegen.](https://seatable.io/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
+[Erfahren Sie hier, wie Sie neue Seiten in der Universellen App anlegen.]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}})
 
 Um bestehende Seiten zu bearbeiten, klicken Sie in der Navigation auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} der entsprechenden Seite.
 

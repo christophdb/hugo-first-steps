@@ -19,7 +19,7 @@ Atualmente, é possível escolher entre um total de **nove tipos de páginas** n
 
 ![Tipos de página Aplicação universal](images/Seitentypen-Universal-App.png)
 
-[Saiba como criar novas páginas na Aplicação Universal aqui.](https://seatable.io/pt/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
+[Saiba como criar novas páginas na Aplicação Universal aqui.]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}})
 
 Para editar páginas existentes, clique no **símbolo de roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
 

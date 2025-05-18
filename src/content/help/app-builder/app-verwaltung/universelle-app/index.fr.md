@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/universelle-app'
 ---
 
-Lorsque vous construisez une **application universelle**, vous pouvez laisser libre cours à votre créativité. L'appli dispose de plusieurs [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) qui vous permettent de présenter vos données sous forme de **tableaux**, de **formulaires web**, de **galeries** ou de **tableaux Kanban**, entre autres. En [créant](https://seatable.io/fr/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) une **page individuelle**, vous pouvez créer des tableaux de bord avec des **statistiques** pertinentes à partir de vos données, que vous pouvez partager avec d'autres utilisateurs (externes).
+Lorsque vous construisez une **application universelle**, vous pouvez laisser libre cours à votre créativité. L'appli dispose de plusieurs [types de pages]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) une **page individuelle**, vous pouvez créer des tableaux de bord avec des **statistiques** pertinentes à partir de vos données, que vous pouvez partager avec d'autres utilisateurs (externes).
 
 {{< warning  headline="Autorisation requise dans le groupe"  text="Pour pouvoir créer, modifier, copier ou supprimer une app, vous devez être **le propriétaire** ou **l'administrateur du groupe** dans lequel se trouve la **base** sous-jacente. **Les** simples **membres d'un groupe** peuvent uniquement consulter et utiliser des apps existantes." />}}
 
@@ -28,7 +28,7 @@ Après avoir créé votre application universelle avec succès, vous pouvez comm
 
 Une application universelle se compose de plusieurs **pages** que vous pouvez regrouper dans des **dossiers**.
 
-[Apprenez ici comment ajouter de nouvelles pages et de nouveaux dossiers à votre application universelle](https://seatable.io/fr/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/).
+[Apprenez ici comment ajouter de nouvelles pages et de nouveaux dossiers à votre application universelle]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
 Afin de présenter les données de manière attrayante dans votre base, l'application universelle propose un grand nombre de [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) avec différents éléments de présentation.
 
@@ -72,11 +72,11 @@ Vous pouvez également partager une application universelle avec d'autres utilis
 
 ## Copier une application universelle
 
-Avez-vous créé une application universelle que vous aimeriez utiliser sous une forme similaire pour un autre groupe d’utilisateurs ? Ensuite, copiez simplement l’application existante et personnalisez la copie comme vous le souhaitez. Pour savoir comment copier une application universelle, [cliquez ici](https://seatable.io/fr/docs/apps/apps-kopieren/).
+Avez-vous créé une application universelle que vous aimeriez utiliser sous une forme similaire pour un autre groupe d’utilisateurs ? Ensuite, copiez simplement l’application existante et personnalisez la copie comme vous le souhaitez. Pour savoir comment copier une application universelle, [cliquez ici]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}).
 
 ## Désactiver une application universelle
 
-Si vous avez créé une application universelle que vous souhaitez désactiver temporairement, vous pouvez la désactiver en quelques clics pour révoquer l’accès à tous les groupes d’utilisateurs. Pour savoir comment procéder, [cliquez ici](https://seatable.io/fr/docs/apps/apps-zeitweise-deaktivieren/).
+Si vous avez créé une application universelle que vous souhaitez désactiver temporairement, vous pouvez la désactiver en quelques clics pour révoquer l’accès à tous les groupes d’utilisateurs. Pour savoir comment procéder, [cliquez ici]({{< relref "help/app-builder/app-verwaltung/apps-zeitweise-deaktivieren" >}}).
 
 ## Supprimer une application universelle
 

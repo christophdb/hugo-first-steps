@@ -25,13 +25,17 @@ Gostaria de excluir um aplicativo que não precisa mais da sua base? Sem problem
 
 ![Excluir um aplicativo](images/Delete-an-app.gif)
 
-{{< warning  headline="A exclusão é definitiva"  text="Você **não pode restaurar** um aplicativo excluído. Se você não tiver certeza se ainda poderá usar um aplicativo posteriormente, é melhor [desativá-lo temporariamente](https://seatable.io/pt/docs/apps/apps-zeitweise-deaktivieren/) ." />}}
+{{< warning  headline="A exclusão é definitiva" >}}
+
+Você **não pode restaurar** um aplicativo excluído. Se você não tiver certeza se ainda poderá usar um aplicativo posteriormente, é melhor [desativá-lo temporariamente]({{< relref "help/app-builder/app-verwaltung/apps-zeitweise-deaktivieren" >}}).
+
+{{< /warning >}}
 
 ## Consequências da eliminação
 
 Em primeiro lugar: **a eliminação de uma aplicação nunca perde dados na base subjacente**. Por isso, tecnicamente, só está a apagar uma interface de utilizador e _não_ a base de dados em segundo plano.
 
-Observe, entretanto, que quando você exclui um **aplicativo universal,** todas as [páginas e pastas](https://seatable.io/pt/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) que estão no aplicativo também serão **excluídas irrevogavelmente** e _não poderão_ ser restauradas.
+Observe, entretanto, que quando você exclui um **aplicativo universal,** todas as [páginas e pastas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) que estão no aplicativo também serão **excluídas irrevogavelmente** e _não poderão_ ser restauradas.
 
 Quando elimina uma **aplicação de galeria**, _apenas_ as **galerias** apresentadas na aplicação são eliminadas, mas as **imagens** permanecem nas [colunas de imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) das suas tabelas.
 

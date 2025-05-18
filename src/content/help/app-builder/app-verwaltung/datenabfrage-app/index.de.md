@@ -60,11 +60,11 @@ Allerdings können die Nutzer die abgefragte Ergebnisliste selbst **sortieren** 
 
 ## Eine Datenabfrage-App kopieren
 
-Sie haben eine Datenabfrage-App erstellt, die Sie in ähnlicher Form für eine weitere Nutzergruppe verwenden möchten? Dann kopieren Sie einfach die bestehende App und passen Sie die Kopie nach Belieben an. Wie Sie eine App kopieren, erfahren Sie [hier](https://seatable.io/docs/apps/apps-kopieren/).
+Sie haben eine Datenabfrage-App erstellt, die Sie in ähnlicher Form für eine weitere Nutzergruppe verwenden möchten? Dann kopieren Sie einfach die bestehende App und passen Sie die Kopie nach Belieben an. Wie Sie eine App kopieren, erfahren Sie [hier]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}).
 
 ## Eine Datenabfrage-App deaktivieren
 
-Wenn Sie eine Datenabfrage-App erstellt haben, deren Nutzung Sie zeitweise unterbinden möchten, können Sie diese mit nur wenigen Klicks deaktivieren, um allen Nutzergruppen den Zugriff zu entziehen. Wie das geht, erfahren Sie [hier](https://seatable.io/docs/apps/apps-zeitweise-deaktivieren/).
+Wenn Sie eine Datenabfrage-App erstellt haben, deren Nutzung Sie zeitweise unterbinden möchten, können Sie diese mit nur wenigen Klicks deaktivieren, um allen Nutzergruppen den Zugriff zu entziehen. Wie das geht, erfahren Sie [hier]({{< relref "help/app-builder/app-verwaltung/apps-zeitweise-deaktivieren" >}}).
 
 ## Eine Datenabfrage-App löschen
 

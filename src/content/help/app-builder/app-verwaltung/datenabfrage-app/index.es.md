@@ -64,11 +64,11 @@ Sin embargo, los usuarios pueden **ordenar** ellos mismos la lista de resultados
 
 ## Copiar una aplicación de recuperación de datos
 
-¿Ha creado una aplicación de consulta de datos que desea utilizar de forma similar para otro grupo de usuarios? Entonces sólo tiene que copiar la aplicación existente y adaptar la copia como desee. [Aquí](https://seatable.io/es/docs/apps/apps-kopieren/) encontrará información sobre cómo copiar una aplicación.
+¿Ha creado una aplicación de consulta de datos que desea utilizar de forma similar para otro grupo de usuarios? Entonces sólo tiene que copiar la aplicación existente y adaptar la copia como desee. [Aquí]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}) encontrará información sobre cómo copiar una aplicación.
 
 ## Deshabilitar una aplicación de consulta de datos
 
-Si ha creado una aplicación de recuperación de datos que desea deshabilitar temporalmente, puede deshabilitarla con solo unos pocos clics para revocar el acceso a todos los grupos de usuarios. Puedes averiguar cómo hacerlo [aquí](https://seatable.io/es/docs/apps/apps-zeitweise-deaktivieren/).
+Si ha creado una aplicación de recuperación de datos que desea deshabilitar temporalmente, puede deshabilitarla con solo unos pocos clics para revocar el acceso a todos los grupos de usuarios. Puedes averiguar cómo hacerlo [aquí]({{< relref "help/app-builder/app-verwaltung/apps-zeitweise-deaktivieren" >}}).
 
 ## Eliminar una app de recuperación de datos
 

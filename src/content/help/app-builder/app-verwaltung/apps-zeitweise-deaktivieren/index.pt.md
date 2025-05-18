@@ -30,4 +30,4 @@ Você pode reconhecer um aplicativo desativado pela nota **(inativo)** após o n
 
 ## Consequências da desativação
 
-Ao desativar um aplicativo, **você revoga o acesso a todos os usuários anteriores**. Eles não poderão mais ver o aplicativo e não poderão mais usá-lo até que você reative o aplicativo. Observe que você não pode [editar]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) ou [copiar](https://seatable.io/pt/docs/apps/apps-kopieren/) um aplicativo inativo.
+Ao desativar um aplicativo, **você revoga o acesso a todos os usuários anteriores**. Eles não poderão mais ver o aplicativo e não poderão mais usá-lo até que você reative o aplicativo. Observe que você não pode [editar]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) ou [copiar]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}) um aplicativo inativo.

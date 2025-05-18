@@ -30,4 +30,4 @@ Vous pouvez reconnaître une application désactivée par la note **(inactive)**
 
 ## Conséquences de la désactivation
 
-En désactivant une application, **vous révoquez l’accès à tous les utilisateurs précédents**. Ils ne pourront plus voir l’application et ne pourront plus l’utiliser tant que vous n’aurez pas réactivé l’application. Veuillez noter que vous ne pouvez pas [modifier]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) ou [copier](https://seatable.io/fr/docs/apps/apps-kopieren/) une application inactive.
+En désactivant une application, **vous révoquez l’accès à tous les utilisateurs précédents**. Ils ne pourront plus voir l’application et ne pourront plus l’utiliser tant que vous n’aurez pas réactivé l’application. Veuillez noter que vous ne pouvez pas [modifier]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) ou [copier]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}) une application inactive.

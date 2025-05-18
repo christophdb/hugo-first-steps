@@ -19,7 +19,7 @@ Dans le mode d'édition de l'application universelle, vous avez actuellement le 
 
 ![Types de pages Application universelle](images/Seitentypen-Universal-App.png)
 
-[Découvrez ici comment créer de nouvelles pages dans l'application universelle.](https://seatable.io/fr/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
+[Découvrez ici comment créer de nouvelles pages dans l'application universelle.]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}})
 
 Pour modifier des pages existantes, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} de la page correspondante.
 

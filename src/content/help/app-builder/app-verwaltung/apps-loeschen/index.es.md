@@ -25,13 +25,17 @@ url: '/es/ayuda/apps-loeschen'
 
 ![Eliminar una aplicación](images/Delete-an-app.gif)
 
-{{< warning  headline="La eliminación es definitiva"  text="No **se puede recuperar** una aplicación eliminada. Si no está seguro de si podrá usar una aplicación en una fecha posterior, es mejor [deshabilitarla temporalmente](https://seatable.io/es/docs/apps/apps-zeitweise-deaktivieren/)." />}}
+{{< warning  headline="La eliminación es definitiva" >}}
+
+No **se puede recuperar** una aplicación eliminada. Si no está seguro de si podrá usar una aplicación en una fecha posterior, es mejor [deshabilitarla temporalmente]({{< relref "help/app-builder/app-verwaltung/apps-zeitweise-deaktivieren" >}}).
+
+{{< /warning >}}
 
 ## Consecuencias de la supresión
 
 Lo primero es lo primero: al borrar una **aplicación nunca se pierden los datos de la base subyacente**. Así que técnicamente solo estás borrando una interfaz de usuario y _no_ la base de datos en segundo plano.
 
-Sin embargo, tenga en cuenta que cuando elimina una aplicación universal, todas las [páginas y carpetas](https://seatable.io/es/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) que se encuentran en la **aplicación** también **se eliminan de forma permanente** y _no se pueden restaurar_.
+Sin embargo, tenga en cuenta que cuando elimina una aplicación universal, todas las [páginas y carpetas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) que se encuentran en la **aplicación** también **se eliminan de forma permanente** y _no se pueden restaurar_.
 
 Cuando eliminas una **aplicación de galería**, _sólo_ se eliminan las **galerías** mostradas en la aplicación, pero las **imágenes** permanecen en las [columnas de imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) de tus tablas.
 

@@ -30,4 +30,4 @@ You can recognize a deactivated app by the note **(inactive)** after the name of
 
 ## Consequences of deactivation
 
-By deactivating an app, **you revoke access to all previous users**. They will no longer be able to see the app and will no longer be able to use it until you reactivate the app. Please note that you cannot [edit]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) or [copy](https://seatable.io/en/docs/apps/apps-kopieren/) an inactive app.
+By deactivating an app, **you revoke access to all previous users**. They will no longer be able to see the app and will no longer be able to use it until you reactivate the app. Please note that you cannot [edit]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) or [copy]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}) an inactive app.

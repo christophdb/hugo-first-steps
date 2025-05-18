@@ -19,7 +19,7 @@ weight: 1
 
 ![Типы страниц Универсальное приложение](images/Seitentypen-Universal-App.png)
 
-[Узнать, как создавать новые страницы в универсальном приложении, можно здесь.](https://seatable.io/ru/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
+[Узнать, как создавать новые страницы в универсальном приложении, можно здесь.]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}})
 
 Чтобы отредактировать существующие страницы, нажмите на **символ шестеренки** {{< seatable-icon icon="dtable-icon-set-up" >}} соответствующей страницы в навигации.
 

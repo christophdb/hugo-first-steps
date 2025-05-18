@@ -64,11 +64,11 @@ However, users can **sort** the queried results list themselves and **adjust** t
 
 ## Copy a data query app
 
-You have created a data query app that you want to use in a similar form for another user group? Then simply copy the existing app and customize the copy as you see fit. You can learn how to copy an app [here](https://seatable.io/en/docs/apps/apps-kopieren/).
+You have created a data query app that you want to use in a similar form for another user group? Then simply copy the existing app and customize the copy as you see fit. You can learn how to copy an app [here]({{< relref "help/app-builder/app-verwaltung/apps-kopieren" >}}).
 
 ## Disable a data query app
 
-If you've created a data retrieval app that you want to temporarily disable, you can disable it with just a few clicks to revoke access to all groups of users. You can find out how to do this [here](https://seatable.io/en/docs/apps/apps-zeitweise-deaktivieren/).
+If you've created a data retrieval app that you want to temporarily disable, you can disable it with just a few clicks to revoke access to all groups of users. You can find out how to do this [here]({{< relref "help/app-builder/app-verwaltung/apps-zeitweise-deaktivieren" >}}).
 
 ## Delete a data query app
 
