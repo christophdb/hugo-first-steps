@@ -43,7 +43,7 @@ Puedes utilizar este tipo de página para crear diferentes **formularios** que l
 
 ## Tipo de página: Galería
 
-Con la ayuda de este tipo de página, puede mostrar **imágenes** que haya guardado en una [columna de imágenes de](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) su tabla en forma de **galería**. También puede mostrar otros **datos** de su tabla en la galería. Por ejemplo, puede utilizar una página de galería para los **perfiles** claros **de sus empleados**.
+Con la ayuda de este tipo de página, puede mostrar **imágenes** que haya guardado en una [columna de imágenes de]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) su tabla en forma de **galería**. También puede mostrar otros **datos** de su tabla en la galería. Por ejemplo, puede utilizar una página de galería para los **perfiles** claros **de sus empleados**.
 
 ![Representación de sus empleados en una página de galería](images/page-type-gallery-example.png)  
 [Más información sobre las páginas de la galería en las aplicaciones universales.](https://seatable.io/es/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
@@ -86,7 +86,7 @@ Este tipo de página, que funciona de forma similar a la [aplicación Consulta d
 
 ![Caso de uso Tipo de página: Consulta](images/output-query-page-universal-app-2.png)
 
-[Más información sobre páginas de consulta en aplicaciones universales.](https://seatable.io/es/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Más información sobre páginas de consulta en aplicaciones universales.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Ficha individual
 

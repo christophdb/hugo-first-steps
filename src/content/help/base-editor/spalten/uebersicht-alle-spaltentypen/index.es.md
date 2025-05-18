@@ -82,7 +82,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-picture" >}} **Imagen**
 
 El tipo de columna Imagen almacena cualquier número de **archivos de** imagen en los formatos de archivo **BMP**, **GIF**, **ICO**, **JPG**, **PNG**, **SVG** y **TIF**. La columna de imagen es, por tanto, una columna de archivo restringida a formatos de archivo de imagen.
 
-[Más información sobre la columna de imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/)
+[Más información sobre la columna de imágenes]({{< relref "help/base-editor/spalten/die-bild-spalte" >}})
 
 ### Archivo
 

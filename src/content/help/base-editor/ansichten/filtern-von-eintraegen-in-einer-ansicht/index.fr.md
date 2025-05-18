@@ -33,7 +33,7 @@ Voici les options de conditions dont vous disposez en cas de [Colonne de texte](
 Voici les options de conditions dont vous disposez en cas de [Colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
 ![Filtre colonne de sélection unique](images/filtern-von-eintraegen-6.png)
 
-Voici les options de conditions dont vous disposez en cas de [Colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/):  
+Voici les options de conditions dont vous disposez en cas de [Colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}):  
 ![Filtrer la colonne d'images](images/filtern-von-eintraegen-7.png)
 
 ## Supprimer un filtre

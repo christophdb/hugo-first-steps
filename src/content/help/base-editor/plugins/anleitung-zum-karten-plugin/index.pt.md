@@ -58,7 +58,7 @@ Decidir entre a exibição padrão com **pinos de localização** ou usar **imag
 
 ![Plug-in do mapa por defeito](images/default-map.png)
 
-Se decidir apresentar imagens, deve especificar a [coluna de](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) imagens a partir da qual as imagens devem ser apresentadas.
+Se decidir apresentar imagens, deve especificar a [coluna de]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) imagens a partir da qual as imagens devem ser apresentadas.
 
 ![A visualização da imagem no plug-in do mapa](images/bildanzeige.png)
 

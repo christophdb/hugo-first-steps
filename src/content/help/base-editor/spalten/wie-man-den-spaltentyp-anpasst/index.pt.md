@@ -36,4 +36,4 @@ A **primeira coluna** de uma tabela suporta **apenas 6 dos 25 tipos de coluna**.
 
 ## Aviso de perda de dados
 
-**A conversão de** certos tipos de colunas conduz normalmente a uma **perda** indesejada de **dados**. É o caso, por exemplo, das colunas [de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/) e [imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) ou quando converte [colunas de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) em colunas numéricas. Nestes casos, o SeaTable apresenta uma **mensagem de aviso** a perguntar se pretende realmente alterar o tipo de coluna.
+**A conversão de** certos tipos de colunas conduz normalmente a uma **perda** indesejada de **dados**. É o caso, por exemplo, das colunas [de ficheiros]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) ou quando converte [colunas de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) em colunas numéricas. Nestes casos, o SeaTable apresenta uma **mensagem de aviso** a perguntar se pretende realmente alterar o tipo de coluna.

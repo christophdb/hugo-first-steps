@@ -36,4 +36,4 @@ La **primera columna** de una tabla **sólo** admite **6 de los 25 tipos de colu
 
 ## Aviso de pérdida de datos
 
-La **conversión** de determinados tipos de columnas suele provocar **pérdidas de datos** no deseadas. Este es el caso, por ejemplo, de las columnas de [archivos](https://seatable.io/es/docs/dateien-und-bilder/die-datei-spalte/) e [imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) o cuando convierte [columnas de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) en columnas numéricas. En estos casos, SeaTable muestra un **mensaje de advertencia** preguntando si realmente desea cambiar el tipo de columna.
+La **conversión** de determinados tipos de columnas suele provocar **pérdidas de datos** no deseadas. Este es el caso, por ejemplo, de las columnas de [archivos]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) o cuando convierte [columnas de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) en columnas numéricas. En estos casos, SeaTable muestra un **mensaje de advertencia** preguntando si realmente desea cambiar el tipo de columna.

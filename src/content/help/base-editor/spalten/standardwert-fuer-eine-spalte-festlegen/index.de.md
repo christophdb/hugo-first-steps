@@ -27,7 +27,7 @@ Zudem können Sie bereits beim [Anlegen einer neuen Spalte]({{< relref "help/bas
 ## Für welche Spaltentypen Sie Standardwerte festlegen können
 
 Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
-) definiert werden. Spalten, deren Inhalt automatisch von SeaTable generiert wird ([Formeln](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/), [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/), [Ersteller und Erstelldatum](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/), [Letzter Bearbeiter und Bearbeitungsdatum](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)), bieten diese Option genauso wenig wie bei [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/), [Bild-](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/), [Datei-](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/) und [Signatur-](https://seatable.io/docs/dateien-und-bilder/die-signatur-spalte/)Spalten.
+) definiert werden. Spalten, deren Inhalt automatisch von SeaTable generiert wird ([Formeln]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [Datei-](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/) und [Signatur-](https://seatable.io/docs/dateien-und-bilder/die-signatur-spalte/)Spalten.
 
 **Hier eine Übersicht, für welche Spaltentypen Sie Standardwerte festlegen können:**
 

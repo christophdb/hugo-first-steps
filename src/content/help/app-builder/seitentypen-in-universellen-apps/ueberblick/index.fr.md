@@ -43,7 +43,7 @@ Ce type de page permet de construire différents **formulaires** que les utilisa
 
 ## Type de page : Galerie
 
-Ce type de page vous permet d'afficher sous forme de **galerie** **les images** que vous avez enregistrées dans une [colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/) de votre tableau. Vous pouvez également afficher d'autres **données** de votre tableau dans la galerie. Vous pouvez par exemple utiliser une page de galerie pour **créer des fiches d'information** claires sur **vos collaborateurs**.
+Ce type de page vous permet d'afficher sous forme de **galerie** **les images** que vous avez enregistrées dans une [colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) de votre tableau. Vous pouvez également afficher d'autres **données** de votre tableau dans la galerie. Vous pouvez par exemple utiliser une page de galerie pour **créer des fiches d'information** claires sur **vos collaborateurs**.
 
 ![Représentation de vos collaborateurs dans une page de galerie](images/page-type-gallery-example.png)  
 [En savoir plus sur les pages de galeries dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
@@ -86,7 +86,7 @@ Ce type de page, qui fonctionne de la même manière que l'[application de requ�
 
 ![Cas d'utilisation Type de page : Requête](images/output-query-page-universal-app-2.png)
 
-[En savoir plus sur les pages de requête dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[En savoir plus sur les pages de requête dans les apps universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Type de page : Enregistrement unique
 

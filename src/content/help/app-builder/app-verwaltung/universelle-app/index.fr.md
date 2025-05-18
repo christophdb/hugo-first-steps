@@ -18,7 +18,7 @@ Pour pouvoir utiliser une application universelle dans votre base, vous devez d'
 
 ![Créer l'application universelle](images/universal-app-preview.png)
 
-[Apprenez ici comment ajouter une application universelle à votre base.](https://seatable.io/fr/docs/apps/apps-zu-einer-base-hinzufuegen/)
+[Apprenez ici comment ajouter une application universelle à votre base.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Conception de l'application universelle
 

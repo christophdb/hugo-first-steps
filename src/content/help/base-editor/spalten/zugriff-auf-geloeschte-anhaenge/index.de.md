@@ -1,14 +1,14 @@
 ---
-title: "Zugriff auf gelöschte Dateien und Bilder"
+title: 'Zugriff auf gelöschte Dateien und Bilder'
 date: 2023-01-07
-lastmod: "2024-03-18"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/de/hilfe/zugriff-auf-geloeschte-anhaenge"
+lastmod: '2024-03-18'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/de/hilfe/zugriff-auf-geloeschte-anhaenge'
 ---
 
-**Dateien** und **Bilder**, die Sie aus einer [Bild-](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) oder [Datei-Spalte](https://seatable.io/docs/datei-und-bildanhaenge/die-datei-spalte/) entfernt haben, sind **nicht endgültig gelöscht**. Diese gelöschten Dateien verbleiben in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) der Base und können auf zwei verschiedene Arten **wiederhergestellt** werden.
+**Dateien** und **Bilder**, die Sie aus einer [Bild-]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) oder [Datei-Spalte](https://seatable.io/docs/datei-und-bildanhaenge/die-datei-spalte/) entfernt haben, sind **nicht endgültig gelöscht**. Diese gelöschten Dateien verbleiben in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) der Base und können auf zwei verschiedene Arten **wiederhergestellt** werden.
 
 ## Zuletzt hochgeladen
 

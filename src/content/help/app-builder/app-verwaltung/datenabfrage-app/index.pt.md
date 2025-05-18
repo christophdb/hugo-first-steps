@@ -16,7 +16,7 @@ Para utilizar uma aplicação de recuperação de dados na sua base, deve primei
 
 ![A aplicação Data Query](images/data-query-app-preview.png)
 
-[Saiba como adicionar uma aplicação à sua base aqui.](https://seatable.io/pt/docs/apps/apps-zu-einer-base-hinzufuegen/)
+[Saiba como adicionar uma aplicação à sua base aqui.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Editar definições de uma aplicação de recuperação de dados
 
@@ -26,7 +26,7 @@ Como a aplicação de consulta de dados se baseia no Universal App Builder, as s
 
 ![Definições de página da aplicação de consulta de dados](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
-[Saiba mais sobre as opções de definição das páginas de consulta.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Saiba mais sobre as opções de definição das páginas de consulta.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Editar o nome, a cor e o ícone de uma aplicação de consulta de dados
 
@@ -72,4 +72,4 @@ Se você criou um aplicativo de consulta de dados que gostaria de impedir tempor
 
 ## Eliminar uma aplicação de recuperação de dados
 
-Você pode **excluir** um aplicativo de consulta de dados desnecessário a qualquer momento. Não se preocupe: excluir um aplicativo de consulta de dados **não excluirá nenhum dado da base** . [Saiba mais sobre como excluir aplicativos aqui.](https://seatable.io/pt/docs/apps/apps-loeschen/)
+Você pode **excluir** um aplicativo de consulta de dados desnecessário a qualquer momento. Não se preocupe: excluir um aplicativo de consulta de dados **não excluirá nenhum dado da base** . [Saiba mais sobre como excluir aplicativos aqui.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})

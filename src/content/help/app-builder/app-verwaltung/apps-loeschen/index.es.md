@@ -37,6 +37,6 @@ Lo primero es lo primero: al borrar una **aplicación nunca se pierden los datos
 
 Sin embargo, tenga en cuenta que cuando elimina una aplicación universal, todas las [páginas y carpetas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) que se encuentran en la **aplicación** también **se eliminan de forma permanente** y _no se pueden restaurar_.
 
-Cuando eliminas una **aplicación de galería**, _sólo_ se eliminan las **galerías** mostradas en la aplicación, pero las **imágenes** permanecen en las [columnas de imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) de tus tablas.
+Cuando eliminas una **aplicación de galería**, _sólo_ se eliminan las **galerías** mostradas en la aplicación, pero las **imágenes** permanecen en las [columnas de imágenes]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) de tus tablas.
 
 Incluso cuando se elimina una **aplicación de consulta de datos**, **no** se elimina ningún **dato**, sólo la **máscara de búsqueda**.

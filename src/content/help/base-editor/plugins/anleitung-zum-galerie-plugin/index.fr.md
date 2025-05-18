@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/anleitung-zum-galerie-plugin'
 ---
 
-Le **plug-in Galerie** est particulièrement adapté à la présentation de jeux de données illustrés, car il se réfère principalement au contenu d'une [colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/).
+Le **plug-in Galerie** est particulièrement adapté à la présentation de jeux de données illustrés, car il se réfère principalement au contenu d'une [colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}).
 
 Alors que dans l'**affichage du tableau**, les images sont représentées sous forme de miniatures et ne peuvent être agrandies qu'une à une en cliquant dessus, le plug-in de galerie vous permet d'obtenir une vue d'ensemble vivante de tous les enregistrements grâce aux **miniatures** plus grandes. Le plug-in Galerie regroupe toutes les images d'une ligne dans un **album**.
 
@@ -18,7 +18,7 @@ Alors que dans l'**affichage du tableau**, les images sont représentées sous f
 
 Pour pouvoir utiliser le **plugin de la galerie**, vous devez d'abord l'[activer](https://seatable.io/fr/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) dans votre base.
 
-Définissez ensuite dans les paramètres pour quelle **vue du tableau** vous souhaitez créer une galerie et de quelle [colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/) les images doivent provenir. Pour le **titre**, indiquez la colonne dont vous souhaitez utiliser les entrées comme titre d'album.
+Définissez ensuite dans les paramètres pour quelle **vue du tableau** vous souhaitez créer une galerie et de quelle [colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) les images doivent provenir. Pour le **titre**, indiquez la colonne dont vous souhaitez utiliser les entrées comme titre d'album.
 
 ## Afficher et masquer les informations
 

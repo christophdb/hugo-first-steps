@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/bilder-und-dateien-aus-einer-zeile-loeschen'
 ---
 
-SeaTable permet de **supprimer** des **fichiers** et **des images** de différentes manières. Les instructions suivantes s'appliquent aussi bien aux [colonnes](https://seatable.io/fr/docs/dateien-und-bilder/die-datei-spalte/) [d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/) qu'aux [colonnes de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/die-datei-spalte/).
+SeaTable permet de **supprimer** des **fichiers** et **des images** de différentes manières. Les instructions suivantes s'appliquent aussi bien aux [colonnes]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) qu'aux [colonnes de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/die-datei-spalte/).
 
 ## Supprimer des fichiers et des images via les détails de la ligne
 

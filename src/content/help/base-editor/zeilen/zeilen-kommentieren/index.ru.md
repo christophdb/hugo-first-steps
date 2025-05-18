@@ -47,4 +47,4 @@ url: '/ru/help/zeilen-kommentieren'
 
 ## Добавить изображения к комментарию
 
-Вы также можете добавлять **картинки** к своим комментариям с помощью **значка картинки** под полем ввода. Они видны только в окне комментариев и сохраняются не в [колонке картинок](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/) таблицы, а в [файле управления базой](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
+Вы также можете добавлять **картинки** к своим комментариям с помощью **значка картинки** под полем ввода. Они видны только в окне комментариев и сохраняются не в [колонке картинок]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) таблицы, а в [файле управления базой](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/).

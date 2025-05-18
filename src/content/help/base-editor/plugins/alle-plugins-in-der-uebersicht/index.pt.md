@@ -41,7 +41,7 @@ O plug-in de cronologia representa diferentes períodos de tempo sob a forma de 
 
 ## Galeria plugin
 
-O plug-in da galeria é particularmente adequado para a apresentação de registos com **imagens**, uma vez que se refere principalmente ao conteúdo de uma [coluna de imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/). Por baixo das imagens, as entradas de uma coluna são apresentadas como **títulos**. Além disso, é possível mostrar outras colunas da tabela neste plug-in e, assim, complementar as imagens com mais informações dos conjuntos de dados. Especialmente para projectos criativos e artísticos, isto é muito útil para resumir toda a informação num relance.
+O plug-in da galeria é particularmente adequado para a apresentação de registos com **imagens**, uma vez que se refere principalmente ao conteúdo de uma [coluna de imagens]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}). Por baixo das imagens, as entradas de uma coluna são apresentadas como **títulos**. Além disso, é possível mostrar outras colunas da tabela neste plug-in e, assim, complementar as imagens com mais informações dos conjuntos de dados. Especialmente para projectos criativos e artísticos, isto é muito útil para resumir toda a informação num relance.
 
 ![Galeria plugin](images/Galerie.png)
 

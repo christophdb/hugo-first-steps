@@ -58,7 +58,7 @@ Choisissez entre l'affichage standard avec **des pins de localisation** ou utili
 
 ![Plugin de carte la carte par défaut](images/default-map.png)
 
-Si vous optez pour l'affichage des images, vous devez définir la [colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/) à partir de laquelle les images doivent être affichées.
+Si vous optez pour l'affichage des images, vous devez définir la [colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) à partir de laquelle les images doivent être affichées.
 
 ![L'affichage des images dans le plug-in de carte](images/bildanzeige.png)
 

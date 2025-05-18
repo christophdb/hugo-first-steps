@@ -34,6 +34,6 @@ Das Wichtigste zuerst: **Durch das Löschen einer App gehen niemals Daten in der
 
 Bitte beachten Sie aber, dass bei der Löschung einer **Universellen App** auch alle [Seiten und Ordner]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}), die sich in der App befinden, **unwiderruflich gelöscht** werden und _nicht_ wiederhergestellt werden können.
 
-Bei der Löschung einer **Galerie-App** werden _ausschließlich_ die in der App dargestellten **Galerien** gelöscht, die **Bilder** hingegen bleiben weiterhin in den [Bild-Spalten](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) Ihrer Tabellen erhalten.
+Bei der Löschung einer **Galerie-App** werden _ausschließlich_ die in der App dargestellten **Galerien** gelöscht, die **Bilder** hingegen bleiben weiterhin in den [Bild-Spalten]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) Ihrer Tabellen erhalten.
 
 Auch bei der Löschung einer **Datenabfrage-App** werden **keinerlei Daten** gelöscht, sondern nur die **Suchmaske**.

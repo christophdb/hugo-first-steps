@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/zugriff-auf-geloeschte-anhaenge'
 ---
 
-**Files** and **images** that you have removed from an [image](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) or [file column](https://seatable.io/en/docs/datei-und-bildanhaenge/die-datei-spalte/) are **not permanently deleted**. These deleted files remain in the Base [file manager](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) and can be **restored** in two different ways.
+**Files** and **images** that you have removed from an [image]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) or [file column](https://seatable.io/en/docs/datei-und-bildanhaenge/die-datei-spalte/) are **not permanently deleted**. These deleted files remain in the Base [file manager](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) and can be **restored** in two different ways.
 
 ## Last uploaded
 

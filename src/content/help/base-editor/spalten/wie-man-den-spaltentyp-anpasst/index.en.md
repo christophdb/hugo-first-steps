@@ -36,4 +36,4 @@ The **first column** in a table **only** supports **6 of the 25 column types**. 
 
 ## Data loss warning
 
-**Converting** certain types of columns usually results in unwanted **data loss**. This is the case, for example, with [file](https://seatable.io/en/docs/dateien-und-bilder/die-datei-spalte/) and [image](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) columns or when you convert [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) to numeric columns. In these cases SeaTable will show you the **warning message** if you really want to change the column type.
+**Converting** certain types of columns usually results in unwanted **data loss**. This is the case, for example, with [file]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) columns or when you convert [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) to numeric columns. In these cases SeaTable will show you the **warning message** if you really want to change the column type.

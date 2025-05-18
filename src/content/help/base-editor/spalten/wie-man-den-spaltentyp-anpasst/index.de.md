@@ -37,4 +37,4 @@ Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 25 Spaltentypen**
 
 ## Warnung vor Datenverlust
 
-Die **Konvertierung** von bestimmten Spaltentypen führt in der Regel zu unerwünschtem **Datenverlust**. Dies ist beispielsweise bei [Datei-](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/) und [Bild-Spalten](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) der Fall oder wenn Sie [Textspalten](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) in numerische Spalten umwandeln. SeaTable blendet Ihnen in diesen Fällen die **Warnmeldung** ein, ob Sie den Spaltentyp wirklich ändern möchten.
+Die **Konvertierung** von bestimmten Spaltentypen führt in der Regel zu unerwünschtem **Datenverlust**. Dies ist beispielsweise bei [Datei-]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) der Fall oder wenn Sie [Textspalten](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) in numerische Spalten umwandeln. SeaTable blendet Ihnen in diesen Fällen die **Warnmeldung** ein, ob Sie den Spaltentyp wirklich ändern möchten.

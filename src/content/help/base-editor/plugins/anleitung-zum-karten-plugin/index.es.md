@@ -58,7 +58,7 @@ Decida entre la visualización estándar con **chinchetas de ubicación** o util
 
 ![Mapa plugin el mapa por defecto](images/default-map.png)
 
-Si decide mostrar imágenes, debe especificar la [columna de](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) imágenes desde la que se mostrarán las imágenes.
+Si decide mostrar imágenes, debe especificar la [columna de]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) imágenes desde la que se mostrarán las imágenes.
 
 ![La visualización de imágenes en el complemento de mapas](images/bildanzeige.png)
 

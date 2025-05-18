@@ -16,7 +16,7 @@ Para utilizar una aplicación de recuperación de datos en tu base, primero debe
 
 ![La aplicación de consulta de datos](images/data-query-app-preview.png)
 
-[Aprende a añadir una aplicación a tu base aquí.](https://seatable.io/es/docs/apps/apps-zu-einer-base-hinzufuegen/)
+[Aprende a añadir una aplicación a tu base aquí.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Editar la configuración de una app de recuperación de datos
 
@@ -26,7 +26,7 @@ Como la aplicación de consulta de datos se basa en Universal App Builder, las s
 
 ![Configuración de la página de la aplicación de consulta de datos](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
-[Más información sobre las opciones de configuración de las páginas de consulta.](https://seatable.io/es/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Más información sobre las opciones de configuración de las páginas de consulta.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Editar el nombre, el color y el icono de una app de consulta de datos
 
@@ -72,4 +72,4 @@ Si ha creado una aplicación de recuperación de datos que desea deshabilitar te
 
 ## Eliminar una app de recuperación de datos
 
-Puede **eliminar** una aplicación de consulta de datos que ya no necesite. No te preocupes: al eliminar una aplicación de consulta de datos **, no se elimina ningún dato de la base**. [Obtén más información sobre la eliminación de aplicaciones aquí.](https://seatable.io/es/docs/apps/apps-loeschen/)
+Puede **eliminar** una aplicación de consulta de datos que ya no necesite. No te preocupes: al eliminar una aplicación de consulta de datos **, no se elimina ningún dato de la base**. [Obtén más información sobre la eliminación de aplicaciones aquí.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})

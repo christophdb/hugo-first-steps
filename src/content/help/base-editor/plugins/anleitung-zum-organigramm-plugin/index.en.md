@@ -22,7 +22,7 @@ To define which data records are dependent on each other, you need a [link that 
 
 > In the application example with the positions in a company, you would therefore link the employee's respective manager in the link column. This results in the levels of the organizational chart: The department heads would be in the second level and the managing director at the top.
 
-If you want to illustrate the data records in the organization chart with images, you also need an [image column](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) in the table where you can upload photos and graphics.
+If you want to illustrate the data records in the organization chart with images, you also need an [image column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) in the table where you can upload photos and graphics.
 
 ## Setting options for an organizational chart
 

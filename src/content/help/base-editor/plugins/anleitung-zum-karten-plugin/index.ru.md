@@ -58,7 +58,7 @@ url: '/ru/help/anleitung-zum-karten-plugin'
 
 ![Карта плагина карта по умолчанию](images/default-map.png)
 
-Если вы решили отобразить изображения, необходимо указать [колонку](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/) изображений, из которой они будут отображаться.
+Если вы решили отобразить изображения, необходимо указать [колонку]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) изображений, из которой они будут отображаться.
 
 ![Отображение изображения в плагине карты](images/bildanzeige.png)
 

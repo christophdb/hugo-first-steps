@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/bilder-und-dateien-aus-einer-zeile-loeschen'
 ---
 
-O SeaTable permite-lhe **eliminar** **ficheiros** e **imagens de** diferentes formas. As instruções seguintes aplicam-se às [colunas de](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/) [imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) e [ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/).
+O SeaTable permite-lhe **eliminar** **ficheiros** e **imagens de** diferentes formas. As instruções seguintes aplicam-se às [colunas de]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) e [ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/).
 
 ## Remover ficheiros e imagens através dos detalhes da linha
 

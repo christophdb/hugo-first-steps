@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/unterschiede-zwischen-bild-und-datei-spalte'
 ---
 
-Estão disponíveis dois tipos de colunas com o mesmo nome no SeaTable para registar **ficheiros** e **imagens**. A [coluna de imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) é uma [coluna de ficheiros](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) restrita, uma vez que apenas aceita formatos especiais de ficheiros de imagens. Esta restrição pode ser muito prática em determinadas aplicações.
+Estão disponíveis dois tipos de colunas com o mesmo nome no SeaTable para registar **ficheiros** e **imagens**. A [coluna de imagens]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) é uma [coluna de ficheiros](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) restrita, uma vez que apenas aceita formatos especiais de ficheiros de imagens. Esta restrição pode ser muito prática em determinadas aplicações.
 
 ## Coluna de imagem
 

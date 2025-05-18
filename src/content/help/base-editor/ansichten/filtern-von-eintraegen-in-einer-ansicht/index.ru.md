@@ -33,7 +33,7 @@ url: '/ru/help/filtern-von-eintraegen-in-einer-ansicht'
 У вас есть эти варианты условий с [Одиночная колонка выбора](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
 ![Фильтр колонки с одним отбором](images/filtern-von-eintraegen-6.png)
 
-У вас есть эти варианты условий с [Колонка изображений](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/):  
+У вас есть эти варианты условий с [Колонка изображений]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}):  
 ![Колонка изображений фильтра](images/filtern-von-eintraegen-7.png)
 
 ## Удалить фильтр

@@ -82,7 +82,7 @@ url: '/ru/help/uebersicht-alle-spaltentypen'
 
 Тип колонки Image хранит любое количество **файлов** изображений в форматах **BMP**, **GIF**, **ICO**, **JPG**, **PNG**, **SVG** и **TIF**. Таким образом, колонка изображения является колонкой файлов, ограниченной форматами файлов изображений.
 
-[Подробнее о колонке изображений](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/)
+[Подробнее о колонке изображений]({{< relref "help/base-editor/spalten/die-bild-spalte" >}})
 
 ### Файл
 

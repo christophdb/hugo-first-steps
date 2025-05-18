@@ -82,7 +82,7 @@ Icon: {{< seatable-icon icon="dtable-icon-picture" >}} **Image**
 
 The Image column type stores any number of **image files** in **BMP**, **GIF**, **ICO**, **JPG**, **PNG**, **SVG** and **TIF** file formats. The Image column is thus a file column restricted to image file formats.
 
-[More about the image column](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/)
+[More about the image column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}})
 
 ### File
 

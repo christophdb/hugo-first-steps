@@ -16,7 +16,7 @@ Pour pouvoir utiliser une application de consultation de données dans votre bas
 
 ![L'application de consultation des données](images/data-query-app-preview.png)
 
-[Découvrez ici comment ajouter une application à votre base.](https://seatable.io/fr/docs/apps/apps-zu-einer-base-hinzufuegen/)
+[Découvrez ici comment ajouter une application à votre base.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Modifier les paramètres d'une application de récupération de données
 
@@ -26,7 +26,7 @@ Comme l'application de consultation des données est basée sur l'Universal App 
 
 ![Paramètres de page de l'application de consultation des données](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
-[En savoir plus sur les possibilités de paramétrage des pages de requête.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[En savoir plus sur les possibilités de paramétrage des pages de requête.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Modifier le nom, la couleur et l'icône d'une application de récupération de données
 
@@ -72,4 +72,4 @@ Si vous avez créé une application de récupération de données que vous souha
 
 ## Supprimer une application de consultation de données
 
-Vous pouvez **supprimer** une application de requête de données dont vous n’avez plus besoin. Ne vous inquiétez pas : la suppression **d’une application de requête de données ne supprime aucune donnée dans la base**. [Pour en savoir plus sur la suppression d’applications, cliquez ici.](https://seatable.io/fr/docs/apps/apps-loeschen/)
+Vous pouvez **supprimer** une application de requête de données dont vous n’avez plus besoin. Ne vous inquiétez pas : la suppression **d’une application de requête de données ne supprime aucune donnée dans la base**. [Pour en savoir plus sur la suppression d’applications, cliquez ici.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})

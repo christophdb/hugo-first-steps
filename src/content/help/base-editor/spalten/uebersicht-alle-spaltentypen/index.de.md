@@ -82,7 +82,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-picture" >}} **Bild**
 
 Der Spaltentyp Bild speichert eine beliebige Anzahl an **Bilddateien** in den Dateiformaten **BMP**, **GIF**, **ICO**, **JPG**, **PNG**, **SVG** und **TIF**. Die Bild-Spalte ist damit eine auf Bilddateiformate eingeschränkte Datei-Spalte.
 
-[Mehr zur Bild-Spalte](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/)
+[Mehr zur Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}})
 
 ### Datei
 

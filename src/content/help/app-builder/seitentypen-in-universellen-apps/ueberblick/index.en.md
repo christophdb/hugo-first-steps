@@ -43,7 +43,7 @@ You can use this page type to build different **forms** that users can then subm
 
 ## Page type: Gallery
 
-Using this page type you can display **images** that you have saved in an [image column](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) of your table in the form of a **gallery**. Other **data** from your table can also be displayed in the gallery. For example, you could use a gallery page for clear **profiles of your employees**.
+Using this page type you can display **images** that you have saved in an [image column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) of your table in the form of a **gallery**. Other **data** from your table can also be displayed in the gallery. For example, you could use a gallery page for clear **profiles of your employees**.
 
 ![Representation of your employees in a gallery page](images/page-type-gallery-example.png)  
 [Learn more about gallery pages in universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
@@ -86,7 +86,7 @@ Using this page type, which works similarly to the [Data Query app](https://seat
 
 ![Use case Page type: Query](images/output-query-page-universal-app-2.png)
 
-[Learn more about query pages in universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Learn more about query pages in universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Page type: Single data record
 

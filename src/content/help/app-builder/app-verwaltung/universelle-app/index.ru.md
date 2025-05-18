@@ -18,7 +18,7 @@ url: '/ru/help/universelle-app'
 
 ![Создание универсального приложения](images/universal-app-preview.png)
 
-[Узнайте, как добавить универсальное приложение в базу здесь.](https://seatable.io/ru/docs/apps/apps-zu-einer-base-hinzufuegen/)
+[Узнайте, как добавить универсальное приложение в базу здесь.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Дизайн универсального приложения
 

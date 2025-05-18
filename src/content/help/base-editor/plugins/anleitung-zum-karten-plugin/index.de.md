@@ -58,7 +58,7 @@ Entscheiden Sie sich zwischen der standardmäßigen Anzeige mit **Standort-Pins*
 
 ![Karten-Plugin die Default-Map](images/default-map.png)
 
-Wenn Sie sich für die Bildanzeige entscheiden, müssen Sie die [Bild-Spalte](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) festlegen, aus der die Bilder angezeigt werden sollen.
+Wenn Sie sich für die Bildanzeige entscheiden, müssen Sie die [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) festlegen, aus der die Bilder angezeigt werden sollen.
 
 ![Die Bildanzeige im Karten-Plugin](images/bildanzeige.png)
 

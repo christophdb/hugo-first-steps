@@ -43,7 +43,7 @@ Pode utilizar este tipo de página para criar diferentes **formulários** que os
 
 ## Tipo de página: Galeria
 
-Com a ajuda deste tipo de página, pode apresentar **as imagens** que guardou numa [coluna de imagens da](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) sua tabela sob a forma de uma **galeria**. Também pode apresentar outros **dados** da sua tabela na galeria. Pode, por exemplo, utilizar uma página de galeria para apresentar **perfis** claros **dos seus empregados**.
+Com a ajuda deste tipo de página, pode apresentar **as imagens** que guardou numa [coluna de imagens da]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) sua tabela sob a forma de uma **galeria**. Também pode apresentar outros **dados** da sua tabela na galeria. Pode, por exemplo, utilizar uma página de galeria para apresentar **perfis** claros **dos seus empregados**.
 
 ![Representação dos seus empregados numa página de galeria](images/page-type-gallery-example.png)  
 [Saiba mais sobre as páginas da galeria em aplicações universais.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
@@ -86,7 +86,7 @@ Este tipo de página, que funciona de forma semelhante à [aplicação Data Quer
 
 ![Caso de utilização Tipo de página: Consulta](images/output-query-page-universal-app-2.png)
 
-[Saiba mais sobre páginas de consulta em aplicações universais.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Saiba mais sobre páginas de consulta em aplicações universais.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Registo de dados único
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/statisches-bild'
 ---
 
-Una imagen **estática** le ofrece la posibilidad de incluir **archivos de imagen** como logotipos, gráficos o imágenes de fondo en una página para crear un diseño de página básico. A diferencia de las imágenes que proceden de las [columnas de imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) de su tabla, una imagen estática no cambia y se mantiene igual independientemente de las entradas de la tabla. Sin embargo, debe **cargar manualmente** el archivo de imagen correspondiente.
+Una imagen **estática** le ofrece la posibilidad de incluir **archivos de imagen** como logotipos, gráficos o imágenes de fondo en una página para crear un diseño de página básico. A diferencia de las imágenes que proceden de las [columnas de imágenes]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) de su tabla, una imagen estática no cambia y se mantiene igual independientemente de las entradas de la tabla. Sin embargo, debe **cargar manualmente** el archivo de imagen correspondiente.
 
 Lea el artículo [Guía](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) del **plugin de diseño de** páginas [para](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) descubrir qué otros elementos y funciones le reserva el **plugin de diseño de páginas**.
 

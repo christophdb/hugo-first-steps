@@ -16,7 +16,7 @@ To use a data query app in your Base, you must first **add** it to your Base.
 
 ![The data query app](images/data-query-app-preview.png)
 
-[Learn how to add an app to your Base here.](https://seatable.io/en/docs/apps/apps-zu-einer-base-hinzufuegen/)
+[Learn how to add an app to your Base here.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Edit settings of a data query app
 
@@ -26,7 +26,7 @@ As the data query app is based on the Universal App Builder, the following setti
 
 ![Page settings of the data query app](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
-[Find out more about the setting options for query pages.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Find out more about the setting options for query pages.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Edit the name, color and icon of a data query app
 
@@ -72,4 +72,4 @@ If you've created a data retrieval app that you want to temporarily disable, you
 
 ## Delete a data query app
 
-You can **delete** a data query app that you no longer need. Don't worry: Deleting a data query app **doesn't delete any data in the base**. [Learn more about app deletion here.](https://seatable.io/en/docs/apps/apps-loeschen/)
+You can **delete** a data query app that you no longer need. Don't worry: Deleting a data query app **doesn't delete any data in the base**. [Learn more about app deletion here.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})

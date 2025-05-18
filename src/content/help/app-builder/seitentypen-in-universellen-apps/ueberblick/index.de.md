@@ -43,7 +43,7 @@ Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, wel
 
 ## Seitentyp: Galerie
 
-Mithilfe dieses Seitentyps können Sie **Bilder**, die Sie in einer [Bild-Spalte](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) Ihrer Tabelle gespeichert haben, in Form einer **Galerie** anzeigen lassen. Andere **Daten** aus Ihrer Tabelle können Sie in der Galerie ebenfalls anzeigen lassen. Eine Galerieseite könnten Sie zum Beispiel für übersichtliche **Steckbriefe Ihrer Mitarbeiter** verwenden.
+Mithilfe dieses Seitentyps können Sie **Bilder**, die Sie in einer [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) Ihrer Tabelle gespeichert haben, in Form einer **Galerie** anzeigen lassen. Andere **Daten** aus Ihrer Tabelle können Sie in der Galerie ebenfalls anzeigen lassen. Eine Galerieseite könnten Sie zum Beispiel für übersichtliche **Steckbriefe Ihrer Mitarbeiter** verwenden.
 
 ![Darstellung Ihrer Mitarbeiter in einer Galerie-Seite](images/page-type-gallery-example.png) [Erfahren Sie mehr über Galerieseiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
 
@@ -86,7 +86,7 @@ Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App](https://seat
 
 ![Anwendungsfall Seitentyp: Abfrage](images/output-query-page-universal-app-2.png)
 
-[Erfahren Sie mehr über Abfrageseiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Erfahren Sie mehr über Abfrageseiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Seitentyp: Einzelner Datensatz
 

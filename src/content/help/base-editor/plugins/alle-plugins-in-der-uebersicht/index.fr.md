@@ -41,7 +41,7 @@ Le plugin Timeline représente différentes périodes sous la forme d'une **lign
 
 ## Plugin de la galerie
 
-Le plug-in Galerie est particulièrement adapté à la présentation de jeux de données avec **des images**, car il se réfère en premier lieu au contenu d'une [colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/). Les entrées d'une colonne sont affichées sous forme de **titre** sous les images. En outre, ce plugin offre la possibilité d'afficher d'autres colonnes du tableau et de compléter ainsi les images par davantage d'informations provenant des enregistrements. Cela est particulièrement utile pour les projets créatifs et artistiques, afin de regrouper toutes les informations en un seul coup d'œil.
+Le plug-in Galerie est particulièrement adapté à la présentation de jeux de données avec **des images**, car il se réfère en premier lieu au contenu d'une [colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}). Les entrées d'une colonne sont affichées sous forme de **titre** sous les images. En outre, ce plugin offre la possibilité d'afficher d'autres colonnes du tableau et de compléter ainsi les images par davantage d'informations provenant des enregistrements. Cela est particulièrement utile pour les projets créatifs et artistiques, afin de regrouper toutes les informations en un seul coup d'œil.
 
 ![Plugin de la galerie](images/Galerie.png)
 

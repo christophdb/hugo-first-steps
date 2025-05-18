@@ -22,7 +22,7 @@ Para definir quais os registos de dados que são dependentes uns dos outros, é 
 
 > No exemplo de aplicação com as posições numa empresa, o utilizador ligaria o respetivo gerente do empregado na coluna de ligação. Isto resulta nos níveis do organigrama: Os chefes de departamento estariam no segundo nível e o diretor-geral no topo.
 
-Se quiser ilustrar os registos de dados no organigrama com imagens, também precisa de uma [coluna de imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) na tabela onde possa carregar fotografias e gráficos.
+Se quiser ilustrar os registos de dados no organigrama com imagens, também precisa de uma [coluna de imagens]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) na tabela onde possa carregar fotografias e gráficos.
 
 ## Definir opções para um organigrama
 

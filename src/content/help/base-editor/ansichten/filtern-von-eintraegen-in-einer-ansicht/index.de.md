@@ -31,7 +31,7 @@ Diese Bedingungsoptionen haben Sie bei einer [Text-Spalte](https://seatable.io/d
 
 Diese Bedingungsoptionen haben Sie bei einer [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/): ![Filter einzelauswahl-Spalte](images/filtern-von-eintraegen-6.png)
 
-Diese Bedingungsoptionen haben Sie bei einer [Bild-Spalte](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/): ![Filtern Bildspalte](images/filtern-von-eintraegen-7.png)
+Diese Bedingungsoptionen haben Sie bei einer [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}): ![Filtern Bildspalte](images/filtern-von-eintraegen-7.png)
 
 ## Einen Filter entfernen
 

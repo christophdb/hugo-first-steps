@@ -58,7 +58,7 @@ Decide between the default display with **location pins** or use **images** to m
 
 ![Map plugin the default map](images/default-map.png)
 
-If you choose to display images, you must specify the image [column](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) from which to display the images.
+If you choose to display images, you must specify the image [column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) from which to display the images.
 
 ![The image display in the map plugin](images/bildanzeige.png)
 

@@ -36,4 +36,4 @@ url: '/ru/help/wie-man-den-spaltentyp-anpasst'
 
 ## Предупреждение о потере данных
 
-**Преобразование** определенных типов столбцов обычно приводит к нежелательной **потере данных**. Это происходит, например, с колонками [файлов](https://seatable.io/ru/docs/dateien-und-bilder/die-datei-spalte/) и [изображений](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/) или при преобразовании [текстовых колонок](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) в числовые. В этих случаях SeaTable выводит **предупреждающее сообщение** с вопросом, действительно ли вы хотите изменить тип столбца.
+**Преобразование** определенных типов столбцов обычно приводит к нежелательной **потере данных**. Это происходит, например, с колонками [файлов]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) или при преобразовании [текстовых колонок](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) в числовые. В этих случаях SeaTable выводит **предупреждающее сообщение** с вопросом, действительно ли вы хотите изменить тип столбца.

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/zugriff-auf-geloeschte-anhaenge'
 ---
 
-**Os ficheiros** e **imagens** removidos de uma [coluna de](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) [imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) ou [de ficheiros](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) **não** são **permanentemente eliminados**. Estes ficheiros eliminados permanecem no [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base e podem ser **restaurados** de duas formas diferentes.
+**Os ficheiros** e **imagens** removidos de uma [coluna de]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) ou [de ficheiros](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) **não** são **permanentemente eliminados**. Estes ficheiros eliminados permanecem no [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base e podem ser **restaurados** de duas formas diferentes.
 
 ## Último carregamento
 

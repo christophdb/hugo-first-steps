@@ -82,7 +82,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-picture" >}} **Image**
 
 Le type de colonne Image enregistre un nombre quelconque de **fichiers image** dans les formats de fichier **BMP**, **GIF**, **ICO**, **JPG**, **PNG**, **SVG** et **TIF**. La colonne Image est donc une colonne de fichiers limitée aux formats de fichiers image.
 
-[En savoir plus sur la colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/)
+[En savoir plus sur la colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}})
 
 ### Fichier
 

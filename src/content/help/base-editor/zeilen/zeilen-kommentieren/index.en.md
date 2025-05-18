@@ -47,4 +47,4 @@ Only the **creator** himself can **delete** his comments or **mark them as done.
 
 ## Add images to a comment
 
-You can also add **images** to your comments via the **image icon** below the input field. These are only visible in the comment window and are not stored in an [image column of](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) the table, but in the [file management of Base](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
+You can also add **images** to your comments via the **image icon** below the input field. These are only visible in the comment window and are not stored in an [image column of]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) the table, but in the [file management of Base](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/).

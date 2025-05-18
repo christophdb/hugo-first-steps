@@ -16,7 +16,7 @@ Um eine Datenabfrage-App in Ihrer Base nutzen zu können, müssen Sie diese zun�
 
 ![Die Datenabfrage-App](images/data-query-app-preview.png)
 
-[Erfahren Sie hier, wie Sie eine App zu Ihrer Base hinzufügen.](https://seatable.io/docs/apps/apps-zu-einer-base-hinzufuegen/)
+[Erfahren Sie hier, wie Sie eine App zu Ihrer Base hinzufügen.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Einstellungen einer Datenabfrage-App bearbeiten
 
@@ -26,7 +26,7 @@ Da die Datenabfrage-App auf dem Universal App Builder basiert, sind die folgende
 
 ![Seiteneinstellungen der Datenabfrage-App](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
-[Erfahren Sie mehr zu den Einstellungsmöglichkeiten von Abfrageseiten.](https://seatable.io/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Erfahren Sie mehr zu den Einstellungsmöglichkeiten von Abfrageseiten.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Namen, Farbe und Icon einer Datenabfrage-App bearbeiten
 
@@ -68,4 +68,4 @@ Wenn Sie eine Datenabfrage-App erstellt haben, deren Nutzung Sie zeitweise unter
 
 ## Eine Datenabfrage-App löschen
 
-Eine Datenabfrage-App, die Sie nicht mehr benötigen, können Sie jederzeit **löschen**. Keine Sorge: Beim Löschen einer Datenabfrage-App werden **keinerlei Daten in der Base gelöscht**. [Erfahren Sie hier mehr zur Löschung von Apps.](https://seatable.io/docs/apps/apps-loeschen/)
+Eine Datenabfrage-App, die Sie nicht mehr benötigen, können Sie jederzeit **löschen**. Keine Sorge: Beim Löschen einer Datenabfrage-App werden **keinerlei Daten in der Base gelöscht**. [Erfahren Sie hier mehr zur Löschung von Apps.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})

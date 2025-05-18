@@ -41,7 +41,7 @@ The timeline plugin represents different periods of time in the form of a **time
 
 ## Gallery plugin
 
-The gallery plugin is particularly suitable for displaying records with **images**, as it primarily refers to the contents of an [image column](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/). Below the images, the entries of a column are displayed as **titles**. In addition, it is possible to show more columns of the table in this plugin and thus supplement the images with more information from the data sets. Especially for creative and artistic projects this is very helpful to summarize all information at a glance.
+The gallery plugin is particularly suitable for displaying records with **images**, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}). Below the images, the entries of a column are displayed as **titles**. In addition, it is possible to show more columns of the table in this plugin and thus supplement the images with more information from the data sets. Especially for creative and artistic projects this is very helpful to summarize all information at a glance.
 
 ![Gallery plugin](images/Galerie.png)
 

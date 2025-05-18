@@ -16,7 +16,7 @@ url: '/ru/help/datenabfrage-app'
 
 ![Приложение для запросов данных](images/data-query-app-preview.png)
 
-[Узнайте, как добавить приложение в свою базу, здесь.](https://seatable.io/ru/docs/apps/apps-zu-einer-base-hinzufuegen/)
+[Узнайте, как добавить приложение в свою базу, здесь.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Изменение настроек приложения для извлечения данных
 
@@ -26,7 +26,7 @@ url: '/ru/help/datenabfrage-app'
 
 ![Настройки страницы приложения для запроса данных](images/Seiteneinstellungen-der-Datenabfrage-App.png)
 
-[Узнайте больше о параметрах настройки страниц запросов.](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/)
+[Узнайте больше о параметрах настройки страниц запросов.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}})
 
 ## Редактирование названия, цвета и значка приложения для запроса данных
 
@@ -72,4 +72,4 @@ url: '/ru/help/datenabfrage-app'
 
 ## Удалите приложение для извлечения данных
 
-Вы можете **удалить** приложение для запроса данных, которое вам больше не нужно. Не волнуйтесь: при удалении приложения для запроса данных **данные в базе не удаляются**. [Подробнее об удалении приложений можно узнать здесь.](https://seatable.io/ru/docs/apps/apps-loeschen/)
+Вы можете **удалить** приложение для запроса данных, которое вам больше не нужно. Не волнуйтесь: при удалении приложения для запроса данных **данные в базе не удаляются**. [Подробнее об удалении приложений можно узнать здесь.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})
