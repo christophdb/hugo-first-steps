@@ -10,7 +10,7 @@ url: '/de/hilfe/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 
 Mit einem Skript können Sie in SeaTable großartige Dinge vollbringen. Durch das Speichern allein geschieht aber nichts: Die Ausführung des Skripts muss nämlich entweder **manuell**, **per Schaltfläche** oder **per Automation** gestartet werden.
 
-In diesem Artikel stellen wir Ihnen diese drei unterschiedlichen Möglichkeiten vor. Der Artikel geht davon aus, dass Sie in Ihrer Base bereits ein erstes [Skript angelegt](https://seatable.io/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) haben, das in unserem Beispiel nichts anderes macht, als _Hallo Welt_ auszugeben.
+In diesem Artikel stellen wir Ihnen diese drei unterschiedlichen Möglichkeiten vor. Der Artikel geht davon aus, dass Sie in Ihrer Base bereits ein erstes [Skript angelegt]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) haben, das in unserem Beispiel nichts anderes macht, als _Hallo Welt_ auszugeben.
 
 ## Skript manuell ausführen
 
@@ -31,7 +31,7 @@ In diesem Artikel stellen wir Ihnen diese drei unterschiedlichen Möglichkeiten 
 
 ![Skript per Schaltfläche ausführen](images/run-script-via-button.png)
 
-Ab sofort wird bei jedem Klick auf die Schaltfläche Ihr Skript ausgeführt. Innerhalb des Skripts können Sie über den Aufruf von _context.current_row_ auf die Werte der Zeile zugreifen. Selbstverständlich können Sie aber auch auf alle anderen Zeilen über die [Zeilen-ID](https://seatable.io/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) oder mithilfe einer Schleife zugreifen.
+Ab sofort wird bei jedem Klick auf die Schaltfläche Ihr Skript ausgeführt. Innerhalb des Skripts können Sie über den Aufruf von _context.current_row_ auf die Werte der Zeile zugreifen. Selbstverständlich können Sie aber auch auf alle anderen Zeilen über die [Zeilen-ID]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}}) oder mithilfe einer Schleife zugreifen.
 
 ## Skript per Automation ausführen
 
@@ -40,7 +40,7 @@ Ab sofort wird bei jedem Klick auf die Schaltfläche Ihr Skript ausgeführt. Inn
 Mithilfe einer Automation können Sie ein Python-Skript ausführen. JavaScript steht Ihnen an dieser Stelle nicht zur Verfügung, da JavaScript im Browser des Anwenders ausgeführt wird, welcher aber bei einer Automation nicht zur Verfügung steht.
 
 1. Klicken Sie im Base-Header auf {{< seatable-icon icon="dtable-icon-rule" >}} und anschließend auf **Automatisierungsregeln**.
-2. Klicken Sie auf **Regel hinzufügen** und legen Sie eine neue **Automation** an. Genauere Informationen, wie das geht, erhalten Sie [hier](https://seatable.io/docs/automationen/anlegen-einer-automation/).
+2. Klicken Sie auf **Regel hinzufügen** und legen Sie eine neue **Automation** an. Genauere Informationen, wie das geht, erhalten Sie [hier]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}).
 3. Nutzen Sie die Automations-Aktion **Python Skript ausführen**.
 4. Wählen Sie Ihr **Skript** aus und speichern Sie die Automation mit **Abschicken**.
 

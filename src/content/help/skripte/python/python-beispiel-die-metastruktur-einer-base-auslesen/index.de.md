@@ -93,7 +93,7 @@ Table: Table1 (ID: 0000)
 
 Wie das genau funktioniert, erfahren Sie in diesem Artikel.
 
-{{< warning  type="warning" headline="Wenn Sie mehr über Python erfahren wollen"  text="Im Internet gibt es unzählige Anleitungen, Tutorials und Hilfestellungen rund um Python. Ein guter erster Anlaufpunkt ist jedoch mit Sicherheit die offizielle [Python-Webseite](\"https://www.python.org/about/gettingstarted/\"), die auch eine Sammlung von [Einsteiger-Tutorials](\"https://wiki.python.org/moin/BeginnersGuide/Programmers\") bietet." />}}
+{{< warning  type="warning" headline="Wenn Sie mehr über Python erfahren wollen"  text="Im Internet gibt es unzählige Anleitungen, Tutorials und Hilfestellungen rund um Python. Ein guter erster Anlaufpunkt ist jedoch mit Sicherheit die offizielle [Python-Webseite](https://www.python.org/about/gettingstarted/), die auch eine Sammlung von [Einsteiger-Tutorials](https://wiki.python.org/moin/BeginnersGuide/Programmers) bietet." />}}
 
 ## Der Python-Code zum Auslesen der Metastruktur
 

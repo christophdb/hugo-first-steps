@@ -166,7 +166,7 @@ Die Automations-Aktion "Seite in PDF umwandeln" steht Ihnen derzeit bei folgende
 
 ## Automations-Aktion: Python-Skript ausführen
 
-Wenn Sie die Ausführung eines Python-Skripts als automatisierte Aktion auswählen, kann SeaTable ein im Vorhinein definiertes **Python-Skript** in der ausgewählten Tabelle ausführen. Das Skript können Sie jederzeit im [Skript-Editor](https://seatable.io/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) anlegen oder bearbeiten und dann in den **Einstellungen** der Automatisierungsregel auswählen.
+Wenn Sie die Ausführung eines Python-Skripts als automatisierte Aktion auswählen, kann SeaTable ein im Vorhinein definiertes **Python-Skript** in der ausgewählten Tabelle ausführen. Das Skript können Sie jederzeit im [Skript-Editor]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) anlegen oder bearbeiten und dann in den **Einstellungen** der Automatisierungsregel auswählen.
 
 ![Automations-Aktion: "Ausführung eines Python Skripts"](images/action-run-python-script.png)
 

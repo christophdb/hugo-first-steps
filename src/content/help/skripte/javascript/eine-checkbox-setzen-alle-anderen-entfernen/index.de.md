@@ -10,7 +10,7 @@ url: '/de/hilfe/eine-checkbox-setzen-alle-anderen-entfernen'
 
 Stellen Sie sich vor, Sie möchten in einer Base immer genau in einer Zeile eine Checkbox aktivieren. Wenn diese Checkbox aktiviert wird, sollen alle anderen eventuell gefüllten Checkboxen deaktiviert werden. Diesen Vorgang können Sie z. B. über eine Schaltfläche ganz einfach mit einem Skript erledigen.
 
-{{< warning  headline="Vielen Dank für diesen Input aus der Community"  text="Vielen Dank an Jörg, der dieses Skript im [SeaTable Community-Forum](\"https://forum.seatable.io/t/tutorial-default-column-with-simple-js-script/2266\") gepostet hat." />}}
+{{< warning  headline="Vielen Dank für diesen Input aus der Community"  text="Vielen Dank an Jörg, der dieses Skript im [SeaTable Community-Forum](https://forum.seatable.io/t/tutorial-default-column-with-simple-js-script/2266) gepostet hat." />}}
 
 ## Das Ergebnis
 

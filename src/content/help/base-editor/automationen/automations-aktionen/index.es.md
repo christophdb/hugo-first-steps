@@ -167,7 +167,7 @@ La acción de automatización "Convertir página a PDF" está disponible actualm
 
 ## Acción de automatización: Ejecutar script Python
 
-Si selecciona la ejecución de un script de Python como acción automatizada, SeaTable puede ejecutar un **script de Python** predefinido en la tabla seleccionada. Puede crear o editar el script en cualquier momento en el [editor de scripts](https://seatable.io/es/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) y luego seleccionarlo en la **configuración** de la regla de automatización.
+Si selecciona la ejecución de un script de Python como acción automatizada, SeaTable puede ejecutar un **script de Python** predefinido en la tabla seleccionada. Puede crear o editar el script en cualquier momento en el [editor de scripts]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) y luego seleccionarlo en la **configuración** de la regla de automatización.
 
 ![Acción de automatización: "Ejecución de un script Python](images/action-run-python-script.png)
 

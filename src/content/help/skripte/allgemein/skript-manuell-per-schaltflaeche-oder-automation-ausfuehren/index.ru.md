@@ -10,7 +10,7 @@ url: '/ru/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 
 С помощью скрипта в SeaTable можно делать большие вещи. Однако само по себе сохранение ничего не дает: выполнение сценария должно быть запущено либо **вручную**, либо **кнопкой**, либо **с помощью автоматизации**.
 
-В этой статье мы познакомим вас с этими тремя различными возможностями. В статье предполагается, что вы уже [создали](https://seatable.io/ru/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) в своей базе первый [скрипт](https://seatable.io/ru/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/), который в нашем примере не делает ничего, кроме вывода _hello world_.
+В этой статье мы познакомим вас с этими тремя различными возможностями. В статье предполагается, что вы уже [создали]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}), который в нашем примере не делает ничего, кроме вывода _hello world_.
 
 ## Запуск сценария вручную
 
@@ -31,7 +31,7 @@ url: '/ru/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 
 ![Выполнение сценария с помощью кнопки](images/run-script-via-button.png)
 
-С этого момента каждый раз, когда вы нажимаете на кнопку, будет выполняться ваш сценарий. Внутри сценария вы можете получить доступ к значениям ряда, вызвав _context.current_row_. Конечно, вы также можете получить доступ ко всем другим строкам через [идентификатор](https://seatable.io/ru/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) строки или с помощью цикла.
+С этого момента каждый раз, когда вы нажимаете на кнопку, будет выполняться ваш сценарий. Внутри сценария вы можете получить доступ к значениям ряда, вызвав _context.current_row_. Конечно, вы также можете получить доступ ко всем другим строкам через [идентификатор]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}}) строки или с помощью цикла.
 
 ## Выполнение сценария с помощью автоматизации
 
@@ -40,7 +40,7 @@ url: '/ru/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 С помощью автоматизации можно выполнить сценарий Python. JavaScript на данном этапе недоступен, поскольку JavaScript выполняется в браузере пользователя, что недоступно в автоматизации.
 
 1. В заголовке Base нажмите на {{< seatable-icon icon="dtable-icon-rule" >}}, а затем на **Automation Rules**.
-2. Нажмите на **Add Rule (Добавить правило** ) и создайте новую **автоматизацию**. Более подробную информацию о том, как это сделать, вы можете найти [здесь](https://seatable.io/ru/docs/automationen/anlegen-einer-automation/).
+2. Нажмите на **Add Rule (Добавить правило** ) и создайте новую **автоматизацию**. Более подробную информацию о том, как это сделать, вы можете найти [здесь]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}).
 3. Используйте действие автоматизации **Run Python Script**.
 4. Выберите свой **сценарий** и сохраните автоматизацию с помощью кнопки **Submit**.
 

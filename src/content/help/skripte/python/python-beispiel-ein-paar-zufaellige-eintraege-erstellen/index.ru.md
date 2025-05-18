@@ -114,4 +114,4 @@ for i in range(10):
   base.batch_append_rows(context.current_table, rows_data)
 ```
 
-Сценарий может быть запущен вручную или с помощью кнопки или автоматизации. Подробнее об этом можно узнать [здесь](https://seatable.io/ru/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/).
+Сценарий может быть запущен вручную или с помощью кнопки или автоматизации. Подробнее об этом можно узнать [здесь]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).

@@ -167,7 +167,7 @@ The "Convert page to PDF" automation action is currently available with the foll
 
 ## Automation action: Run Python script
 
-If you select the execution of a Python script as an automated action, SeaTable can execute a pre-defined **Python script** in the selected table. You can create or edit the script at any time in the [script editor](https://seatable.io/en/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) and then select it in the automation rule **settings**.
+If you select the execution of a Python script as an automated action, SeaTable can execute a pre-defined **Python script** in the selected table. You can create or edit the script at any time in the [script editor]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) and then select it in the automation rule **settings**.
 
 ![Automation action: "Execute a Python script".](images/action-run-python-script.png)
 

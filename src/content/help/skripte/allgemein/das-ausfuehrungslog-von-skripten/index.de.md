@@ -32,7 +32,7 @@ Mit einem Skript können Sie in SeaTable großartige Dinge vollbringen. In Ihren
 - **Endzeit** (der genaue Zeitpunkt, an dem die Ausführung des Skriptes beendet wurde)
 - **Gesamtdauer** (Zeit, die für die Ausführung des Skriptes benötigt wurde)
 - **Status** (gibt an, ob das Skript erfolgreich ausgeführt wurde)
-- **Aufgerufen von** (gibt an, wie das Skript zur Ausführung gebracht wurde – [manuell, per Automation oder per Schaltfläche](https://seatable.io/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/))
+- **Aufgerufen von** (gibt an, wie das Skript zur Ausführung gebracht wurde – [manuell, per Automation oder per Schaltfläche]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}))
 
 Fahren Sie mit der Maus über einen Lauf Ihres Skriptes und klicken Sie auf **Details**, um weitere Informationen über die Ausführung Ihres Skripts zu erhalten.
 

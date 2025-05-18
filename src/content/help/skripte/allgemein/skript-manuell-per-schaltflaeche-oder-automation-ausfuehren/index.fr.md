@@ -10,7 +10,7 @@ url: '/fr/aide/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 
 Avec un script, vous pouvez faire de grandes choses dans SeaTable. En effet, l'exécution du script doit être lancée soit **manuellement**, soit **par un bouton**, soit **par automation**.
 
-Dans cet article, nous vous présentons ces trois possibilités différentes. L'article part du principe que vous avez déjà [créé](https://seatable.io/fr/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) dans votre base un premier [script](https://seatable.io/fr/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) qui, dans notre exemple, ne fait rien d'autre que d'afficher _Bonjour le monde_.
+Dans cet article, nous vous présentons ces trois possibilités différentes. L'article part du principe que vous avez déjà [créé]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) qui, dans notre exemple, ne fait rien d'autre que d'afficher _Bonjour le monde_.
 
 ## Exécuter le script manuellement
 
@@ -31,7 +31,7 @@ Dans cet article, nous vous présentons ces trois possibilités différentes. L'
 
 ![Exécuter le script via un bouton](images/run-script-via-button.png)
 
-Désormais, chaque fois que vous cliquez sur le bouton, votre script est exécuté. Au sein du script, vous pouvez accéder aux valeurs de la ligne en appelant _context.current_row._ Mais vous pouvez bien entendu aussi accéder à toutes les autres lignes via l'[ID de ligne](https://seatable.io/fr/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) ou à l'aide d'une boucle.
+Désormais, chaque fois que vous cliquez sur le bouton, votre script est exécuté. Au sein du script, vous pouvez accéder aux valeurs de la ligne en appelant _context.current_row._ Mais vous pouvez bien entendu aussi accéder à toutes les autres lignes via l'[ID de ligne]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}}) ou à l'aide d'une boucle.
 
 ## Exécuter un script par automatisation
 
@@ -40,7 +40,7 @@ Désormais, chaque fois que vous cliquez sur le bouton, votre script est exécut
 Avec une automatisation, vous pouvez exécuter un script Python. JavaScript n'est pas disponible à ce stade, car JavaScript est exécuté dans le navigateur de l'utilisateur, qui n'est pas disponible dans le cas d'une automatisation.
 
 1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
-2. Cliquez sur **Ajouter une règle** et créez une nouvelle **automatisation**. Vous trouverez [ici](https://seatable.io/fr/docs/automationen/anlegen-einer-automation/) des informations détaillées sur la manière de procéder.
+2. Cliquez sur **Ajouter une règle** et créez une nouvelle **automatisation**. Vous trouverez [ici]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}) des informations détaillées sur la manière de procéder.
 3. Utilisez l'action d'automatisation **Exécuter un script Python**.
 4. Sélectionnez votre **script** et enregistrez l'automatisation en cliquant sur **Envoyer**.
 

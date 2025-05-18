@@ -10,7 +10,7 @@ url: '/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 
 You can do great things in SeaTable with a script. However, nothing happens by saving alone: in fact, the execution of the script must be started either **manually**, **by button** or **by automation**.
 
-In this article, we will introduce you to these three different possibilities. The article assumes that you have already [created](https://seatable.io/en/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) a first [script](https://seatable.io/en/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) in your Base, which in our example does nothing but output _Hello World_.
+In this article, we will introduce you to these three different possibilities. The article assumes that you have already [created]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) in your Base, which in our example does nothing but output _Hello World_.
 
 ## Run script manually
 
@@ -31,7 +31,7 @@ In this article, we will introduce you to these three different possibilities. T
 
 ![Execute script via button](images/run-script-via-button.png)
 
-From now on, every time you click the button, your script will be executed. Within the script, you can access the values of row by calling _context.current_row_. Of course, you can also access all other rows via the [rows-ID or by using a loop.](https://seatable.io/en/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/)
+From now on, every time you click the button, your script will be executed. Within the script, you can access the values of row by calling _context.current_row_. Of course, you can also access all other rows via the [rows-ID or by using a loop.]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}})
 
 ## Run script via automation
 
@@ -40,7 +40,7 @@ From now on, every time you click the button, your script will be executed. With
 You can use an automation to run a Python script. JavaScript is not available to you at this point because JavaScript is executed in the user's browser, which is not available in an automation.
 
 1. In the Base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
-2. Click **Add rule** and create a new **automation**. You can get more detailed information on how to do this [here](https://seatable.io/en/docs/automationen/anlegen-einer-automation/).
+2. Click **Add rule** and create a new **automation**. You can get more detailed information on how to do this [here]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}).
 3. Use the **Run Python Script** automation action.
 4. Select your **script** and save the automation with **Submit**.
 

@@ -33,7 +33,7 @@ Pode fazer grandes coisas em SeaTable com um guião. Os guiões criados nas suas
 - **Hora de fim** (a hora exacta em que a execução do guião foi concluída)
 - **Duração total** (tempo necessário para executar o guião)
 - **Estado** (indica se o guião foi executado com sucesso)
-- **Invocado por** (indica como o guião foi levado à execução - [manualmente, por automatização ou por botão](https://seatable.io/pt/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/)).
+- **Invocado por** (indica como o guião foi levado à execução - [manualmente, por automatização ou por botão]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}})).
 
 Passe o cursor sobre uma execução do seu guião e clique em **Detalhes** para obter mais informações sobre a execução do seu guião.
 

@@ -114,4 +114,4 @@ for i in range(10):
   base.batch_append_rows(context.current_table, rows_data)
 ```
 
-O guião pode ser iniciado manualmente ou através de um botão ou automatização. Pode saber mais sobre isto [aqui](https://seatable.io/pt/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/).
+O guião pode ser iniciado manualmente ou através de um botão ou automatização. Pode saber mais sobre isto [aqui]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}).

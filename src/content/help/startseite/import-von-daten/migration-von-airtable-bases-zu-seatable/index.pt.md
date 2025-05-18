@@ -24,7 +24,7 @@ Criar uma [nova base]({{< relref "help/startseite/bases/eine-neue-base-erstellen
 
 ### 2\. inserir guião
 
-{{< seatable-icon icon="dtable-icon-script" >}} Na nova Base, abra a [barra lateral de scripts](https://seatable.io/pt/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) clicando no ícone de script no cabeçalho da Base, no canto superior direito. Em seguida, selecione **Adicionar script**. O script de migração é escrito na linguagem de programação Python. Portanto, selecione **Python**.
+{{< seatable-icon icon="dtable-icon-script" >}} Na nova Base, abra a [barra lateral de scripts]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) clicando no ícone de script no cabeçalho da Base, no canto superior direito. Em seguida, selecione **Adicionar script**. O script de migração é escrito na linguagem de programação Python. Portanto, selecione **Python**.
 
 Agora, realce o seguinte bloco de código, copie-o para a área de transferência e cole-o na janela do lado esquerdo do editor de scripts:
 

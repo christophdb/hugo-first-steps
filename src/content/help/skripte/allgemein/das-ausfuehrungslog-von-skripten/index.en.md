@@ -33,7 +33,7 @@ With a script you can do great things in SeaTable. Scripts created in your bases
 - **End time** (the exact time when the execution of the script was finished).
 - **Total duration** (time needed to execute the script)
 - **Status** (indicates whether the script was executed successfully).
-- **Invoked by** (indicates how the script was brought to execution - [manually, by automation or by button](https://seatable.io/en/docs/javascript-python/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren/)).
+- **Invoked by** (indicates how the script was brought to execution - [manually, by automation or by button]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}})).
 
 Hover over a run of your script and click **Details** to get more information about the execution of your script.
 

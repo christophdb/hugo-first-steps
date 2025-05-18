@@ -10,7 +10,7 @@ url: '/pt/ajuda/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 
 Pode fazer grandes coisas em SeaTable com um guião. No entanto, nada acontece ao salvar sozinho: a execução do guião deve ser iniciada **manualmente**, **por botão** ou **por automatização**.
 
-Neste artigo vamos apresentar-lhe estas três possibilidades diferentes. O artigo assume que já [criou](https://seatable.io/pt/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) um primeiro [guião](https://seatable.io/pt/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) na sua base, que no nosso exemplo nada mais faz do que dar _um olá ao mundo_.
+Neste artigo vamos apresentar-lhe estas três possibilidades diferentes. O artigo assume que já [criou]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) na sua base, que no nosso exemplo nada mais faz do que dar _um olá ao mundo_.
 
 ## Executar script manualmente
 
@@ -31,7 +31,7 @@ Neste artigo vamos apresentar-lhe estas três possibilidades diferentes. O artig
 
 ![Executar script via botão](images/run-script-via-button.png)
 
-De agora em diante, cada vez que clicar no botão, o seu guião será executado. Dentro do script, pode aceder aos valores da linha chamando _context.current_row._ Claro, também pode aceder a todas as outras linhas através do [ID da](https://seatable.io/pt/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) linha ou com a ajuda de um laço.
+De agora em diante, cada vez que clicar no botão, o seu guião será executado. Dentro do script, pode aceder aos valores da linha chamando _context.current_row._ Claro, também pode aceder a todas as outras linhas através do [ID da]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}}) linha ou com a ajuda de um laço.
 
 ## Executar script via automatização
 
@@ -40,7 +40,7 @@ De agora em diante, cada vez que clicar no botão, o seu guião será executado.
 Com a ajuda de uma automatização, é possível executar um guião Python. O JavaScript não está disponível neste momento porque o JavaScript é executado no browser do utilizador, que não está disponível numa automatização.
 
 1. No cabeçalho da Base, clicar em {{< seatable-icon icon="dtable-icon-rule" >}} e depois em **Regras de Automatização**.
-2. Clique em **Add Rule** e crie uma nova **automatização**. Pode encontrar informações mais detalhadas sobre como fazer isto [aqui](https://seatable.io/pt/docs/automationen/anlegen-einer-automation/).
+2. Clique em **Add Rule** e crie uma nova **automatização**. Pode encontrar informações mais detalhadas sobre como fazer isto [aqui]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}).
 3. Utilizar a acção de automatização **Executar o Python Script**.
 4. Seleccione o seu **guião** e guarde a automatização com **Submit**.
 

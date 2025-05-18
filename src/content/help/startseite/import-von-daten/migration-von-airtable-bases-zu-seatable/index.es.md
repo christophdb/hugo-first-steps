@@ -24,7 +24,7 @@ Erstellen Sie in SeaTable eine [neue Base]({{< relref "help/startseite/bases/ein
 
 ### 2\. Skript einfügen
 
-Öffnen Sie in der neuen Base die [Skript-Seitenleiste](https://seatable.io/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) durch einen Klick auf das Skript-Icon {{< seatable-icon icon="dtable-icon-script" >}} im Base-Header oben rechts. Wählen Sie dann **Skript hinzufügen**. Das Migrationsskript ist in der Programmiersprache Python geschrieben. Wählen Sie daher **Python** aus.
+Öffnen Sie in der neuen Base die [Skript-Seitenleiste]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) durch einen Klick auf das Skript-Icon {{< seatable-icon icon="dtable-icon-script" >}} im Base-Header oben rechts. Wählen Sie dann **Skript hinzufügen**. Das Migrationsskript ist in der Programmiersprache Python geschrieben. Wählen Sie daher **Python** aus.
 
 Markieren Sie nun den folgenden Codeblock, kopieren ihn in den Zwischenspeicher und fügen Sie ihn dann in das linke Fenster des Skripteditors ein:
 
