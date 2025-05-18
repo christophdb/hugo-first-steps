@@ -35,10 +35,10 @@ Puede utilizar otras representaciones como calendario, galería o kanban en form
 ## Más artículos sobre el tema de las vistas
 
 - [Crear una nueva vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Cambiar el nombre de una vista](https://seatable.io/es/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
+- [Cambiar el nombre de una vista]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}})
 - [Borrar una vista](https://seatable.io/es/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Duplicación de vistas](https://seatable.io/es/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)
-- [Diferencias entre las vistas privadas y las normales](https://seatable.io/es/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)
+- [Diferencias entre las vistas privadas y las normales]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}})
 - [Imprimir una vista](https://seatable.io/es/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/)
 - [Cambiar el orden de las vistas](https://seatable.io/es/docs/grundlagen-von-ansichten/die-reihenfolge-von-ansichten-aendern/)
 - [Agrupar las vistas en carpetas](https://seatable.io/es/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/)

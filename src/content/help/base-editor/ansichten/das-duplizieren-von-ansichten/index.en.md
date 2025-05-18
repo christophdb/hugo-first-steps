@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/das-duplizieren-von-ansichten'
 ---
 
-To create an exact copy of a view and apply all its settings, you can **duplicate** the view. You can then adjust the settings of the duplicated view as needed and [rename](https://seatable.io/en/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/) the view.
+To create an exact copy of a view and apply all its settings, you can **duplicate** the view. You can then adjust the settings of the duplicated view as needed and [rename]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}) the view.
 
 ## Duplicate views
 
@@ -28,4 +28,8 @@ To **avoid having** to reconfigure your private view in this case, SeaTable offe
 
 ![Duplicate an existing view into a private view](images/duplicate-view-into-private-view.jpg)
 
-{{< warning  headline="Tip"  text="The exact differences between **normal** and **private** views, you can read [here](https://seatable.io/en/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)." />}}
+{{< warning  headline="Tip" >}}
+
+The exact differences between **normal** and **private** views, you can read [here]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}).
+
+{{< /warning >}}

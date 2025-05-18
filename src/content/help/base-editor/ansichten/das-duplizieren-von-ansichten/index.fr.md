@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/das-duplizieren-von-ansichten'
 ---
 
-Pour créer une copie exacte d'une vue et reprendre tous les paramètres, vous pouvez **dupliquer** la vue. Vous pouvez ensuite adapter les paramètres de la vue dupliquée selon vos besoins et [renommer](https://seatable.io/fr/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/) la vue.
+Pour créer une copie exacte d'une vue et reprendre tous les paramètres, vous pouvez **dupliquer** la vue. Vous pouvez ensuite adapter les paramètres de la vue dupliquée selon vos besoins et [renommer]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}) la vue.
 
 ## Dupliquer des vues
 
@@ -28,4 +28,8 @@ Pour **éviter d'** avoir à reconfigurer votre vue privée dans ce cas, SeaTabl
 
 ![Dupliquer une vue existante dans une vue privée](images/duplicate-view-into-private-view.jpg)
 
-{{< warning  headline="Conseil"  text="Les différences exactes entre les vues **normales** et les vues **privées**, vous pouvez les lire [ici](https://seatable.io/fr/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)." />}}
+{{< warning  headline="Conseil" >}}
+
+Les différences exactes entre les vues **normales** et les vues **privées**, vous pouvez les lire [ici]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}).
+
+{{< /warning >}}

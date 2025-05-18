@@ -29,4 +29,4 @@ Sie können eine Big-Data-Ansicht nur dann erstellen, wenn Sie innerhalb der Bas
 
 ## Unterschiede zwischen einer normalen und einer privaten Ansicht
 
-Bei der Anlage neuer Ansichten können Sie diese **als privat definieren**. [Private Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) sind nur für Sie sichtbar und werden keinem anderen Benutzer angezeigt. Da Sie die Filter, Sortierungen und Gruppierungen in einer privaten Ansicht individuell festlegen können, dient eine private Ansicht vornehmlich der eigenen Datenanalyse.
+Bei der Anlage neuer Ansichten können Sie diese **als privat definieren**. [Private Ansichten]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) sind nur für Sie sichtbar und werden keinem anderen Benutzer angezeigt. Da Sie die Filter, Sortierungen und Gruppierungen in einer privaten Ansicht individuell festlegen können, dient eine private Ansicht vornehmlich der eigenen Datenanalyse.

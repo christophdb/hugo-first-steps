@@ -29,4 +29,4 @@ Só é possível criar uma vista de grandes volumes de dados se [já tiver ativa
 
 ## Diferenças entre uma visão normal e uma visão privada
 
-Ao criar novas vistas, pode defini-las **como privadas**. [As vistas privadas](https://seatable.io/pt/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) só são visíveis para o utilizador e não são apresentadas a nenhum outro utilizador. Uma vez que pode definir individualmente os filtros, a ordenação e o agrupamento numa vista privada, esta é utilizada principalmente para a sua própria análise de dados.
+Ao criar novas vistas, pode defini-las **como privadas**. [As vistas privadas]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) só são visíveis para o utilizador e não são apresentadas a nenhum outro utilizador. Uma vez que pode definir individualmente os filtros, a ordenação e o agrupamento numa vista privada, esta é utilizada principalmente para a sua própria análise de dados.

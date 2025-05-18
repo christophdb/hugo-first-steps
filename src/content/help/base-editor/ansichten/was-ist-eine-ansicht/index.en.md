@@ -35,10 +35,10 @@ You can use other representations like calendar, gallery or kanban in the form o
 ## More articles on the subject of views
 
 - [Create a new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Rename a view](https://seatable.io/en/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
+- [Rename a view]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}})
 - [Delete a view](https://seatable.io/en/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Duplicating views](https://seatable.io/en/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)
-- [Differences between private and normal views](https://seatable.io/en/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)
+- [Differences between private and normal views]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}})
 - [Printing a view](https://seatable.io/en/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/)
 - [Change the order of views](https://seatable.io/en/docs/grundlagen-von-ansichten/die-reihenfolge-von-ansichten-aendern/)
 - [Group views in folders](https://seatable.io/en/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/)

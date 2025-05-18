@@ -29,4 +29,4 @@ Sólo puede crear una vista de big data si [ya ha activado]({{< relref "help/bas
 
 ## Diferencias entre una vista normal y una privada
 
-Al crear nuevas vistas, puede **definirlas como privadas**. Las vistas [privadas](https://seatable.io/es/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) sólo son visibles para usted y no se muestran a ningún otro usuario. Dado que puede definir individualmente los filtros, la clasificación y la agrupación en una vista privada, una vista privada se utiliza principalmente para su propio análisis de datos.
+Al crear nuevas vistas, puede **definirlas como privadas**. Las vistas [privadas]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) sólo son visibles para usted y no se muestran a ningún otro usuario. Dado que puede definir individualmente los filtros, la clasificación y la agrupación en una vista privada, una vista privada se utiliza principalmente para su propio análisis de datos.

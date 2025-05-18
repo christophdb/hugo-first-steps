@@ -29,4 +29,4 @@ You can only create a big data view if you [have already activated]({{< relref "
 
 ## Differences between a normal and a private view
 
-When creating new views, you can **define** them **as private**. [Private views](https://seatable.io/en/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) are only visible to you and are not displayed to any other user. Since you can define the filters, sorting and grouping in a private view individually, a private view is primarily used for your own data analysis.
+When creating new views, you can **define** them **as private**. [Private views]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) are only visible to you and are not displayed to any other user. Since you can define the filters, sorting and grouping in a private view individually, a private view is primarily used for your own data analysis.

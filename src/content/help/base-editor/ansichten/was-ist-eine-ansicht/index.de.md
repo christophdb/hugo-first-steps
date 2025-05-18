@@ -35,10 +35,10 @@ Andere Darstellungen wie Kalender, Galerie oder Kanban können Sie in Form von [
 ## Weitere Artikel zum Thema Ansichten
 
 - [Anlegen einer neuen Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Umbenennen einer Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
+- [Umbenennen einer Ansicht]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}})
 - [Löschen einer Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Das Duplizieren von Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)
-- [Unterschiede zwischen privaten und normalen Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)
+- [Unterschiede zwischen privaten und normalen Ansichten]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}})
 - [Das Drucken einer Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/)
 - [Die Reihenfolge von Ansichten ändern](https://seatable.io/docs/grundlagen-von-ansichten/die-reihenfolge-von-ansichten-aendern/)
 - [Ansichten in Ordnern gruppieren](https://seatable.io/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/)

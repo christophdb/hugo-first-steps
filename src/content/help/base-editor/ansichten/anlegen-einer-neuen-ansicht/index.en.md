@@ -9,7 +9,7 @@ url: '/help/anlegen-einer-neuen-ansicht'
 ---
 
 In SeaTable you can create and save different views for your tables. For example, if you want to filter a table by a certain value, you can save the filtered view of the table and thus access it faster in the future without having to filter again.  
-Additionally, you have the option to create private views. In which points private views differ from normal views, you will learn **[In this article](https://seatable.io/en/?post_type=docs&p=17424)**.
+Additionally, you have the option to create private views. In which points private views differ from normal views, you will learn [in this article]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}).
 
 ## Creating a new view in SeaTable
 
@@ -22,4 +22,9 @@ Additionally, you have the option to create private views. In which points priva
 5. Select whether the newly created view should be created **normally** or as a **private view**.
 6. Confirm with **Submit**.
 7. The newly created **view** opens automatically and you can, for example, **filter**, **sort** or **group** values.
-   {{< warning  headline="Tip"  text="Detailed information about the three evaluation tools **grouping**, **sorting** and **filtering** can be found [here](https://seatable.io/en/docs/seatable-nutzen/gruppierung-sortierung-und-filter/)." />}}
+
+{{< warning  headline="Tip" >}}
+
+Detailed information about the three evaluation tools **grouping**, **sorting** and **filtering** can be found [here]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
+
+{{< /warning >}}

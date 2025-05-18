@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/das-duplizieren-von-ansichten'
 ---
 
-Um eine exakte Kopie von einer Ansicht zu erstellen und sämtliche Einstellungen zu übernehmen, können Sie die Ansicht **duplizieren**. Anschließend können Sie die Einstellungen der duplizierten Ansicht nach Bedarf anpassen und die Ansicht [umbenennen](https://seatable.io/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/).
+Um eine exakte Kopie von einer Ansicht zu erstellen und sämtliche Einstellungen zu übernehmen, können Sie die Ansicht **duplizieren**. Anschließend können Sie die Einstellungen der duplizierten Ansicht nach Bedarf anpassen und die Ansicht [umbenennen]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}).
 
 ## Ansichten duplizieren
 
@@ -28,4 +28,8 @@ Damit Sie Ihre private Ansicht in diesem Fall **nicht** neu konfigurieren müsse
 
 ![Duplizieren einer bestehenden Ansicht in eine private Ansicht](images/duplicate-view-into-private-view.jpg)
 
-{{< warning  type="warning" headline="Tipp"  text="Die genauen Unterschiede zwischen **normalen** und **privaten** Ansichten, können Sie [hier](\"https://seatable.io/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/\") nachlesen." />}}
+{{< warning  type="warning" headline="Tipp" >}}
+
+Die genauen Unterschiede zwischen **normalen** und **privaten** Ansichten, können Sie [hier]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) nachlesen.
+
+{{< /warning >}}

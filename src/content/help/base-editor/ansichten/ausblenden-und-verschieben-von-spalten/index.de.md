@@ -29,4 +29,8 @@ Darüber hinaus können Sie die Spalten auch direkt in der **Tabellenansicht** p
 
 ![Spalten von der Tabellenansicht aus verschieben.](images/moving-columns-from-the-table-view.gif)
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bitte beachten Sie, dass die **erste Spalte** einer Tabelle **nicht** verschoben werden kann. Über weitere Besonderheiten der ersten Spalte können Sie sich im entsprechenden [Übersichtsartikel](\"https://seatable.io/docs/spalten/die-besonderheiten-der-ersten-spalte/\") informieren." />}}
+{{< warning  type="warning" headline="Wichtiger Hinweis" >}}
+
+Bitte beachten Sie, dass die **erste Spalte** einer Tabelle **nicht** verschoben werden kann. Über weitere Besonderheiten der ersten Spalte können Sie sich im entsprechenden [Übersichtsartikel]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) informieren.
+
+{{< /warning >}}

@@ -29,4 +29,8 @@ Además, también puede mover las columnas directamente en la **vista de tabla**
 
 ![Mover las columnas de la vista de la tabla.](images/moving-columns-from-the-table-view.gif)
 
-{{< warning  headline="Nota importante"  text="Tenga en cuenta que la **primera columna de** una tabla **no** se puede mover. Puede conocer otras características especiales de la primera columna en el [artículo de resumen](https://seatable.io/es/docs/spalten/die-besonderheiten-der-ersten-spalte/) correspondiente." />}}
+{{< warning  headline="Nota importante" >}}
+
+Tenga en cuenta que la **primera columna de** una tabla **no** se puede mover. Puede conocer otras características especiales de la primera columna en el [artículo de resumen]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) correspondiente.
+
+{{< /warning >}}

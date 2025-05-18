@@ -35,10 +35,10 @@ D'autres représentations comme le calendrier, la galerie ou le Kanban peuvent �
 ## Autres articles sur le thème des vues
 
 - [Créer une nouvelle vue]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Renommer une vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
+- [Renommer une vue]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}})
 - [Supprimer une vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [La duplication de vues](https://seatable.io/fr/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)
-- [Différences entre les vues privées et les vues normales](https://seatable.io/fr/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)
+- [Différences entre les vues privées et les vues normales]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}})
 - [L'impression d'une vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/)
 - [Modifier l'ordre des vues](https://seatable.io/fr/docs/grundlagen-von-ansichten/die-reihenfolge-von-ansichten-aendern/)
 - [Regrouper les vues dans des dossiers](https://seatable.io/fr/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/)

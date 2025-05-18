@@ -29,4 +29,4 @@ Vous ne pouvez créer une vue Big Data que si vous [avez déjà activé]({{< rel
 
 ## Différences entre une vue normale et une vue privée
 
-Lorsque vous créez de nouvelles vues, vous pouvez les **définir comme privées**. [Les vues privées](https://seatable.io/fr/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) ne sont visibles que pour vous et ne sont pas affichées pour les autres utilisateurs. Comme vous pouvez définir individuellement les filtres, les tris et les regroupements dans une vue privée, une vue privée sert principalement à votre propre analyse des données.
+Lorsque vous créez de nouvelles vues, vous pouvez les **définir comme privées**. [Les vues privées]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) ne sont visibles que pour vous et ne sont pas affichées pour les autres utilisateurs. Comme vous pouvez définir individuellement les filtres, les tris et les regroupements dans une vue privée, une vue privée sert principalement à votre propre analyse des données.

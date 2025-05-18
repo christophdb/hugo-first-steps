@@ -29,4 +29,8 @@ In addition, you can also move the columns directly in the **table view** using 
 
 ![Move columns from the table view.](images/moving-columns-from-the-table-view.gif)
 
-{{< warning  headline="Important note"  text="Please note that the **first column of** a table **cannot** be moved. You can read about other special features of the first column in the corresponding [overview article](https://seatable.io/en/docs/spalten/die-besonderheiten-der-ersten-spalte/)." />}}
+{{< warning  headline="Important note" >}}
+
+Please note that the **first column of** a table **cannot** be moved. You can read about other special features of the first column in the corresponding [overview article]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}).
+
+{{< /warning >}}

@@ -29,4 +29,8 @@ url: '/ru/help/ausblenden-und-verschieben-von-spalten'
 
 ![Перемещение столбцов из представления таблицы.](images/moving-columns-from-the-table-view.gif)
 
-{{< warning  headline="Важное замечание"  text="Обратите внимание, что **первый столбец** таблицы **не может** быть перемещен. О других особенностях первой колонки вы можете узнать в соответствующей [обзорной статье](https://seatable.io/ru/docs/spalten/die-besonderheiten-der-ersten-spalte/)." />}}
+{{< warning  headline="Важное замечание" >}}
+
+Обратите внимание, что **первый столбец** таблицы **не может** быть перемещен. О других особенностях первой колонки вы можете узнать в соответствующей [обзорной статье]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}).
+
+{{< /warning >}}

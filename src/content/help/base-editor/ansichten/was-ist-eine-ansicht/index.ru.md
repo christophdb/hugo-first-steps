@@ -35,10 +35,10 @@ url: '/ru/help/was-ist-eine-ansicht'
 ## Другие статьи на тему взглядов
 
 - [Создайте новое представление]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Переименовать представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
+- [Переименовать представление]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}})
 - [Удалить представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Дублирование представлений](https://seatable.io/ru/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)
-- [Различия между частными и обычными видами](https://seatable.io/ru/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)
+- [Различия между частными и обычными видами]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}})
 - [Печать представления](https://seatable.io/ru/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/)
 - [Изменение порядка просмотра](https://seatable.io/ru/docs/grundlagen-von-ansichten/die-reihenfolge-von-ansichten-aendern/)
 - [Группировка представлений в папках](https://seatable.io/ru/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/)

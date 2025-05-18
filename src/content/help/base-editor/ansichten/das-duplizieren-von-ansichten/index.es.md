@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/das-duplizieren-von-ansichten'
 ---
 
-Para crear una copia exacta de una vista y aplicar todos los ajustes, puede **duplicar** la vista. A continuación, puede ajustar la configuración de la vista duplicada según sea necesario y [cambiar el nombre de](https://seatable.io/es/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/) la vista.
+Para crear una copia exacta de una vista y aplicar todos los ajustes, puede **duplicar** la vista. A continuación, puede ajustar la configuración de la vista duplicada según sea necesario y [cambiar el nombre de]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}) la vista.
 
 ## Duplicar vistas
 
@@ -28,4 +28,8 @@ Para que **no** tenga que volver a configurar su vista privada en este caso, Sea
 
 ![Duplicar una vista existente en una vista privada](images/duplicate-view-into-private-view.jpg)
 
-{{< warning  headline="Consejo"  text="Puede consultar [aquí](https://seatable.io/es/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) las diferencias exactas entre las vistas **normales** y las **privadas**." />}}
+{{< warning  headline="Consejo" >}}
+
+Puede consultar [aquí]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) las diferencias exactas entre las vistas **normales** y las **privadas**.
+
+{{< /warning >}}

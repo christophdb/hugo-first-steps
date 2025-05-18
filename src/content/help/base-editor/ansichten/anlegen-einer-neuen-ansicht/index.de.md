@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/anlegen-einer-neuen-ansicht'
 ---
 
-In SeaTable können Sie für Ihre Tabellen verschiedene Ansichten erstellen und abspeichern. Möchten Sie beispielsweise in einer Tabelle nach einem bestimmten Wert filtern, können Sie die gefilterte Ansicht der Tabelle abspeichern und somit in Zukunft schneller auf diese zugreifen, ohne erneut filtern zu müssen. Zusätzlich haben Sie die Option, private Ansichten zu erstellen. In welchen Punkten sich private Ansichten von normalen Ansichten unterscheiden, erfahren Sie **[in diesem Artikel](https://seatable.io/?post_type=docs&p=17424)**.
+In SeaTable können Sie für Ihre Tabellen verschiedene Ansichten erstellen und abspeichern. Möchten Sie beispielsweise in einer Tabelle nach einem bestimmten Wert filtern, können Sie die gefilterte Ansicht der Tabelle abspeichern und somit in Zukunft schneller auf diese zugreifen, ohne erneut filtern zu müssen. Zusätzlich haben Sie die Option, private Ansichten zu erstellen. In welchen Punkten sich private Ansichten von normalen Ansichten unterscheiden, erfahren Sie [in diesem Artikel]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}).
 
 ## Anlegen einer neuen Ansicht in SeaTable
 
@@ -22,4 +22,8 @@ In SeaTable können Sie für Ihre Tabellen verschiedene Ansichten erstellen und 
 6. Bestätigen Sie mit **Abschicken**.
 7. Die neu erstellte **Ansicht** öffnet sich im Anschluss automatisch und Sie können in dieser beispielsweise nach beliebigen Werten **filtern**, Werte **sortieren** oder **gruppieren**.
 
-{{< warning  headline="Tipp"  text="Ausführliche Informationen zu den drei Auswertungswerkzeugen **Gruppierung**, **Sortierung** und **Filter** finden Sie [hier](https://seatable.io/docs/seatable-nutzen/gruppierung-sortierung-und-filter/)." />}}
+{{< warning  headline="Tipp" >}}
+
+Ausführliche Informationen zu den drei Auswertungswerkzeugen **Gruppierung**, **Sortierung** und **Filter** finden Sie [hier]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
+
+{{< /warning >}}

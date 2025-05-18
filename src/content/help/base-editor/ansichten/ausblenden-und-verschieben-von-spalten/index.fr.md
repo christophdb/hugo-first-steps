@@ -29,4 +29,8 @@ En outre, vous pouvez également déplacer les colonnes directement dans la **vu
 
 ![Déplacer des colonnes à partir de la vue tableau.](images/moving-columns-from-the-table-view.gif)
 
-{{< warning  headline="Remarque importante"  text="Veuillez noter que la **première colonne** d'un tableau ne peut **pas** être déplacée. Vous pouvez vous informer sur d'autres particularités de la première colonne dans l'[article de synthèse](https://seatable.io/fr/docs/spalten/die-besonderheiten-der-ersten-spalte/) correspondant." />}}
+{{< warning  headline="Remarque importante" >}}
+
+Veuillez noter que la **première colonne** d'un tableau ne peut **pas** être déplacée. Vous pouvez vous informer sur d'autres particularités de la première colonne dans l'[article de synthèse]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) correspondant.
+
+{{< /warning >}}

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/ru/help/das-duplizieren-von-ansichten'
 ---
 
-Чтобы создать точную копию вида и применить все настройки, можно **дублировать** вид. Затем можно настроить параметры дублированного представления по мере необходимости и [переименовать](https://seatable.io/ru/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/) представление.
+Чтобы создать точную копию вида и применить все настройки, можно **дублировать** вид. Затем можно настроить параметры дублированного представления по мере необходимости и [переименовать]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}) представление.
 
 ## Дублирование представлений
 
@@ -28,4 +28,8 @@ url: '/ru/help/das-duplizieren-von-ansichten'
 
 ![Дублирование существующего представления в частное представление](images/duplicate-view-into-private-view.jpg)
 
-{{< warning  headline="Совет"  text="О точных различиях между **обычными** и **частными** видами вы можете прочитать [здесь](https://seatable.io/ru/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)." />}}
+{{< warning  headline="Совет" >}}
+
+О точных различиях между **обычными** и **частными** видами вы можете прочитать [здесь]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}).
+
+{{< /warning >}}

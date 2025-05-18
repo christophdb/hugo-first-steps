@@ -35,10 +35,10 @@ Pode utilizar outras representações tais como calendário, galeria ou kanban s
 ## Mais artigos sobre o tema dos pontos de vista
 
 - [Criar uma nova visão]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}})
-- [Renomear uma vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/umbenennen-einer-ansicht/)
+- [Renomear uma vista]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}})
 - [Apagar uma vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/loeschen-einer-ansicht/)
 - [Duplicação de pontos de vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/das-duplizieren-von-ansichten/)
-- [Diferenças entre vistas privadas e normais](https://seatable.io/pt/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/)
+- [Diferenças entre vistas privadas e normais]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}})
 - [Imprimir uma vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/)
 - [Alterar a ordem de pontos de vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/die-reihenfolge-von-ansichten-aendern/)
 - [Opiniões de grupo em pastas](https://seatable.io/pt/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/)

@@ -9,7 +9,7 @@ url: '/pt/ajuda/anlegen-einer-neuen-ansicht'
 ---
 
 Em SeaTable pode criar e guardar diferentes vistas para as suas mesas. Por exemplo, se quiser filtrar uma tabela por um determinado valor, pode guardar a vista filtrada da tabela e assim aceder a ela mais rapidamente no futuro sem ter de filtrar novamente.  
-Além disso, tem a opção de criar pontos de vista privados. Pode descobrir como os pontos de vista privados diferem dos pontos de vista normais nos seguintes pontos **[Neste artigo](https://seatable.io/pt/?post_type=docs&p=17424)**.
+Além disso, tem a opção de criar pontos de vista privados. Pode descobrir como os pontos de vista privados diferem dos pontos de vista normais nos seguintes pontos [Neste artigo]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}).
 
 ## Criar uma nova visão em SeaTable
 
@@ -22,4 +22,9 @@ Além disso, tem a opção de criar pontos de vista privados. Pode descobrir com
 5. Seleccionar se a vista recentemente criada deve ser criada **normalmente** ou como uma **vista privada**.
 6. Confirmar com **Submeter**.
 7. A **vista** recentemente criada abre-se automaticamente e é possível, por exemplo, **filtrar**, **ordenar** ou **agrupar** valores.
-   {{< warning  headline="Dica"  text="Informações detalhadas sobre as três ferramentas de avaliação, **agrupamento**, **classificação** e **filtragem**, podem ser encontradas [aqui](https://seatable.io/pt/docs/seatable-nutzen/gruppierung-sortierung-und-filter/)." />}}
+
+{{< warning  headline="Dica" >}}
+
+Informações detalhadas sobre as três ferramentas de avaliação, **agrupamento**, **classificação** e **filtragem**, podem ser encontradas [aqui]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
+
+{{< /warning >}}
