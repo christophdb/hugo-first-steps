@@ -1,11 +1,11 @@
 ---
-title: "Einführung in die Arbeit mit Bases und Tabellen"
+title: 'Einführung in die Arbeit mit Bases und Tabellen'
 date: 2023-01-07
-lastmod: "2023-03-24"
-categories: 
-  - "seatable-nutzen"
-author: "cdb"
-url: "/de/hilfe/einfuehrung-in-die-arbeit-mit-bases-und-tabellen"
+lastmod: '2023-03-24'
+categories:
+    - 'seatable-nutzen'
+author: 'cdb'
+url: '/de/hilfe/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 ---
 
 Jedes der quadratischen Symbole auf Ihrer Startseite steht für eine **Base**. Sie ist eine Datenbank, vergleichbar mit einer Arbeitsmappe in einer herkömmlichen Tabellenkalkulation und kann mehrere **Tabellen** zu verschiedenen Themen enthalten.
@@ -37,6 +37,8 @@ Die Tabelle ist die wichtigste Ebene, auf der Sie Ihre Daten in SeaTable organis
 
 Da es sich bei SeaTable um eine **relationale Datenbank**\-Software handelt, können Sie Informationen in verschiedenen Tabellen einer Base über [Verknüpfungen](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [Automationen](https://seatable.io/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) und andere Funktionen miteinander verbinden.
 
-Eine Tabelle besteht aus [Zeilen](https://seatable.io/docs-category/seatable-nutzen/arbeiten-mit-zeilen) und [Spalten](https://seatable.io/docs-category/seatable-nutzen/arbeiten-mit-spalten). Alle Einträge in einer **Zeile** bilden dabei einen zusammenhängenden **Datensatz**. Die [Spaltentypen](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) in SeaTable definieren, welche **Datentypen** Sie in einer **Spalte** erfassen können.
+Eine Tabelle besteht aus [Zeilen](https://seatable.io/docs-category/seatable-nutzen/arbeiten-mit-zeilen) und [Spalten](https://seatable.io/docs-category/seatable-nutzen/arbeiten-mit-spalten). Alle Einträge in einer **Zeile** bilden dabei einen zusammenhängenden **Datensatz**. Die [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+) in SeaTable definieren, welche **Datentypen** Sie in einer **Spalte** erfassen können.
 
-Immer wenn Sie Ihre Daten in einer Tabelle betrachten, betrachten Sie diese über eine [Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/). Ansichten bieten Ihnen unzählige Optionen, die Daten in Ihren Tabellen anders darzustellen – zu filtern, sortieren, gruppieren, auszublenden usw.
+Immer wenn Sie Ihre Daten in einer Tabelle betrachten, betrachten Sie diese über eine [Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+). Ansichten bieten Ihnen unzählige Optionen, die Daten in Ihren Tabellen anders darzustellen – zu filtern, sortieren, gruppieren, auszublenden usw.

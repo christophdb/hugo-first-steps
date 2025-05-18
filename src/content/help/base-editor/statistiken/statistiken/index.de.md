@@ -1,11 +1,11 @@
 ---
-title: "Statistiken und Datenanalyse"
+title: 'Statistiken und Datenanalyse'
 date: 2022-08-25
-lastmod: "2024-03-18"
-categories: 
-  - "statistiken-und-datenanalyse"
-author: "cdb"
-url: "/de/hilfe/statistiken"
+lastmod: '2024-03-18'
+categories:
+    - 'statistiken-und-datenanalyse'
+author: 'cdb'
+url: '/de/hilfe/statistiken'
 ---
 
 Dank der Auswertungswerkzeuge **Filter, Sortierung und Gruppierung** lassen sich einfache Analysen mit wenigen Klicks ausführen. SeaTable kennt zudem verschiedene **Operationen zur Datenverarbeitung**, mit denen Sie beispielsweise kumulierte Werte errechnen oder Ranglisten erstellen können. Für detaillierte Auswertungen mit Pivot-Tabellen, Diagrammen und grafischen Darstellungen bietet SeaTable das **Statistik-Modul**.
@@ -14,7 +14,8 @@ Wie Sie mit SeaTable statistische Auswertungen und ansprechende Grafiken erstell
 
 ## Filter, Sortierung und Gruppierung
 
-Mit [Filtern, Gruppierungen und Sortierungen](https://seatable.io/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/) bringen Sie in Windeseile Ordnung Ihre Daten und bereiten sie für Ihre verschiedenen Anwendungsfälle auf. Durch die Kombination dieser einfachen Analysewerkzeuge, die Sie zentral in jeder Tabellenansicht finden, werden auch große Datenmengen strukturiert und überschaubar. Sie können unterschiedliche [Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) speichern, um später auf diese zurückzugreifen.
+Mit [Filtern, Gruppierungen und Sortierungen](https://seatable.io/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/) bringen Sie in Windeseile Ordnung Ihre Daten und bereiten sie für Ihre verschiedenen Anwendungsfälle auf. Durch die Kombination dieser einfachen Analysewerkzeuge, die Sie zentral in jeder Tabellenansicht finden, werden auch große Datenmengen strukturiert und überschaubar. Sie können unterschiedliche [Ansichten]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+) speichern, um später auf diese zurückzugreifen.
 
 An der [Status-Zeile](https://seatable.io/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) können Sie dabei die **Zeilenanzahl** in einer Ansicht und bestimmte **Spaltenwerte** ablesen. Zur Auswahl stehen die Summe, der Durchschnitt, der Median, das Maximum oder das Minimum aus allen Werten in einer Spalte. Diese Spaltenwerte können Sie ebenso für einzelne Gruppierungen ermitteln.
 

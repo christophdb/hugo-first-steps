@@ -8,7 +8,8 @@ author: 'nsc2'
 url: '/de/hilfe/wie-man-den-spaltentyp-anpasst'
 ---
 
-Je nachdem, welche **Werte** Sie in SeaTable erfassen möchten, können Sie diesen verschiedene **Spaltentypen** zuordnen. Eine Übersicht über alle 25 Spaltentypen in SeaTable finden Sie [hier](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/).
+Je nachdem, welche **Werte** Sie in SeaTable erfassen möchten, können Sie diesen verschiedene **Spaltentypen** zuordnen. Eine Übersicht über alle 25 Spaltentypen in SeaTable finden Sie [hier]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+).
 
 Es ist möglich, den Spaltentyp im Nachhinein noch zu ändern. Hier erfahren Sie, wie Sie den Spaltentyp **nachträglich anpassen** können.
 

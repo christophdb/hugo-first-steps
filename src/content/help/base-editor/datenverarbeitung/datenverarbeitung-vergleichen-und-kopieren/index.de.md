@@ -45,7 +45,12 @@ Im nächsten Schritt können Sie eine beliebige Anzahl an Quellspalten aus der T
 
 ![Auswahl der Spalten aus der Quell-Tabelle, deren Inhalte bei Zutreffen der Übereinstimmungs-Bedingung in die Ziel-Tabelle kopiert werden](images/select-columns-to-copy.png)
 
-{{< warning  type="warning" headline="Achtung vor Datenverlust"  text="Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte](\"https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/\") in eine [Text-Spalte](\"https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/\") kopieren, diese eignen sich dann aber nicht mehr für [Kalender](\"https://seatable.io/docs/plugins/anleitung-zum-kalender-plugin/\"). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an." />}}
+{{< warning  type="warning" headline="Achtung vor Datenverlust" >}}
+
+Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
+). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
+
+{{< /warning >}}
 
 Bei erfolgreicher Ausführung der Operation werden die Tabellen **employees** und **open tasks** auf Übereinstimmungen in den definierten Spalten **name** und **responsible** untersucht. Stimmen dabei die **Namen** in den Spalten beider Tabellen überein, wird die **E-Mail-Adresse** des entsprechenden Mitarbeiters aus der definierten Spalte **E-Mail** automatisch in die Ergebnisspalte **contact** kopiert.
 

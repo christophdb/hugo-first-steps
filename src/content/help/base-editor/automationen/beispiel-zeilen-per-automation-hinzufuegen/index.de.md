@@ -49,7 +49,8 @@ Wählen Sie zunächst die **Spalte**, in welche der Eintrag eingefügt werden so
 
 ![Auswahl der Spalte, in welche der Eintrag hinzugefügt wird](images/select-column-to-add-record.jpg)
 
-Anschließend können Sie den **Eintrag** definieren. Je nach ausgewähltem [Spaltentyp](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) stehen Ihnen dabei unterschiedliche **Optionen** zur Verfügung.
+Anschließend können Sie den **Eintrag** definieren. Je nach ausgewähltem [Spaltentyp]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+) stehen Ihnen dabei unterschiedliche **Optionen** zur Verfügung.
 
 ![Definieren Sie den Eintrag, den Sie zur Tabelle hinzufügen möchten](images/define-record-to-add.png)
 

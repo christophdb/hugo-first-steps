@@ -49,7 +49,8 @@ Mithilfe dieses Seitentyps können Sie **Bilder**, die Sie in einer [Bild-Spalte
 
 ## Seitentyp: Kalender
 
-Dieser Seitentyp funktioniert so ähnlich wie das [Kalender-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kalender-plugin/) und ermöglicht es Ihnen, die Einträge aus einer oder zwei [Datum-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) Ihrer Tabelle in einem **Kalender** anzeigen zu lassen. Ein konkreter Anwendungsfall könnte beispielsweise die kalendarische Darstellung von bevorstehenden **Meetings** sein.
+Dieser Seitentyp funktioniert so ähnlich wie das [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
+) und ermöglicht es Ihnen, die Einträge aus einer oder zwei [Datum-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) Ihrer Tabelle in einem **Kalender** anzeigen zu lassen. Ein konkreter Anwendungsfall könnte beispielsweise die kalendarische Darstellung von bevorstehenden **Meetings** sein.
 
 ![Bevorstehende Meetings in einer Kalenderansicht der Kalenderseite](images/calendar-page-example.png)
 

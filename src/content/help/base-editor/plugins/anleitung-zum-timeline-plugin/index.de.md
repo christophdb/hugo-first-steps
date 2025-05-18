@@ -1,11 +1,11 @@
 ---
-title: "Anleitung zum Timeline-Plugin"
+title: 'Anleitung zum Timeline-Plugin'
 date: 2023-02-06
-lastmod: "2023-08-14"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/de/hilfe/anleitung-zum-timeline-plugin"
+lastmod: '2023-08-14'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/de/hilfe/anleitung-zum-timeline-plugin'
 ---
 
 Das **Timeline-Plugin** ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Dies ist beispielsweise sehr nützlich, wenn Sie sehen möchten, ob sich Termine **überschneiden**. Dementsprechend können Sie das Timeline-Plugin unter anderem für die Urlaubs- und Projektplanung oder die Buchung von (Meeting-)Räumen einsetzen.
@@ -40,4 +40,5 @@ Wie im Video oben zu sehen ist, können Sie auch **mehrere Timelines** in einer 
 
 1. Klicken Sie auf das **Plus-Symbol** rechts neben dem Titel Ihrer ersten Timeline.
 2. Geben Sie der Timeline einen **Namen** und bestätigen Sie mit **Abschicken**.
-3. Legen Sie in den **Einstellungen** {{< seatable-icon icon="dtable-icon-set-up" >}} fest, auf welche [Tabellenansicht](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) und welche [Datum-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) sich die neue Timeline beziehen soll.
+3. Legen Sie in den **Einstellungen** {{< seatable-icon icon="dtable-icon-set-up" >}} fest, auf welche [Tabellenansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+   ) und welche [Datum-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) sich die neue Timeline beziehen soll.

@@ -49,7 +49,8 @@ Klicken Sie im Anschluss auf **Feld hinzufügen**, um die Spalten auszuwählen, 
 
 ![Klicken Sie auf Feld hinzufügen](images/add-field.png)
 
-Wählen Sie nun im Drop-down-Menü eine entsprechende **Spalte** aus und definieren Sie den vorausgefüllten **Wert** im Eingabefeld. Je nach ausgewähltem [Spaltentyp](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) haben Sie unterschiedliche **Optionen** zur Auswahl.
+Wählen Sie nun im Drop-down-Menü eine entsprechende **Spalte** aus und definieren Sie den vorausgefüllten **Wert** im Eingabefeld. Je nach ausgewähltem [Spaltentyp]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+) haben Sie unterschiedliche **Optionen** zur Auswahl.
 
 ![Definition des Eintrags und der Spalte, welche dieser hinzugefügt werden soll](images/set-table-and-entry.png)
 

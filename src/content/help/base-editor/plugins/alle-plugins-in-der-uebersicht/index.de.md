@@ -1,11 +1,11 @@
 ---
-title: "Alle Plugins in der Übersicht"
+title: 'Alle Plugins in der Übersicht'
 date: 2023-05-03
-lastmod: "2024-08-01"
-categories: 
-  - "plugins"
-author: "vge"
-url: "/de/hilfe/alle-plugins-in-der-uebersicht"
+lastmod: '2024-08-01'
+categories:
+    - 'plugins'
+author: 'vge'
+url: '/de/hilfe/alle-plugins-in-der-uebersicht'
 ---
 
 Mit den **Plugins** von SeaTable haben Sie die Möglichkeit, Ihre Daten aus ganz anderen Blickwinkeln zu sehen. Visualisieren Sie Termine, Aufgaben und Orte und erstellen Sie aus Ihren Daten gelayoutete Dokumente und Steckbriefe. Im folgenden Artikel erklären wir, welche Plugins in SeaTable zur Verfügung stehen und wie Sie mit ihnen umgehen können.
@@ -16,7 +16,8 @@ Mit den **Plugins** von SeaTable haben Sie die Möglichkeit, Ihre Daten aus ganz
 
 In SeaTable können Sie für Ihre Tabellen verschiedene **Ansichten** anlegen, in denen Sie Daten nach Belieben [filtern](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [sortieren](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [gruppieren](https://seatable.io/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) und [ausblenden](https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/) können.
 
-Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zusätzliche Darstellungsmöglichkeiten bietet. In jeder Base lassen sich verschiedene Plugins aktivieren, welche die Daten der jeweiligen Tabellen und Ansichten beispielsweise in **Kalendern**, **Dokumenten** oder **Galerien** darstellen. Lesen Sie im verlinkten Hilfeartikel mehr darüber, [wie Sie ein Plugin aktivieren](https://seatable.io/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zusätzliche Darstellungsmöglichkeiten bietet. In jeder Base lassen sich verschiedene Plugins aktivieren, welche die Daten der jeweiligen Tabellen und Ansichten beispielsweise in **Kalendern**, **Dokumenten** oder **Galerien** darstellen. Lesen Sie im verlinkten Hilfeartikel mehr darüber, [wie Sie ein Plugin aktivieren]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
+).
 
 ## Kalender-Plugin
 
@@ -24,7 +25,8 @@ Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte](https://seatable.i
 
 ![](https://seatable.io/wp-content/uploads/2022/08/Calendar.png)
 
-[Mehr zum Kalender-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kalender-plugin/)
+[Mehr zum Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
+)
 
 Diese Artikel könnten für Sie auch interessant sein:
 

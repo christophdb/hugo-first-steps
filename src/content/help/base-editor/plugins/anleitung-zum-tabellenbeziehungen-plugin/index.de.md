@@ -10,7 +10,8 @@ url: '/de/hilfe/anleitung-zum-tabellenbeziehungen-plugin'
 
 Besonders wenn sich viele Tabellen mit Dutzenden Spalten in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind.
 
-Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier](https://seatable.io/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
+).
 
 ![Tabellenbeziehungen-Plugin](images/Table-Relationships-Plugin.png)
 

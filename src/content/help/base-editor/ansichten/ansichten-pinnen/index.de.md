@@ -8,7 +8,8 @@ author: 'nsc2'
 url: '/de/hilfe/ansichten-pinnen'
 ---
 
-In jeder Tabelle haben Sie die Möglichkeit, alle verfügbaren [Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) dauerhaft in einer Navigationsleiste am linken Rand einzublenden. Das ergibt vor allem Sinn, wenn Sie oft zwischen Ansichten wechseln und ein **Schnellzugriff** dies effizienter macht.
+In jeder Tabelle haben Sie die Möglichkeit, alle verfügbaren [Ansichten]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+) dauerhaft in einer Navigationsleiste am linken Rand einzublenden. Das ergibt vor allem Sinn, wenn Sie oft zwischen Ansichten wechseln und ein **Schnellzugriff** dies effizienter macht.
 
 Eine angepinnte **Ansichtsnavigation** bleibt auch sichtbar, wenn Sie innerhalb einer Tabelle nach rechts scrollen. So können Sie problemlos Einträge in verschiedenen Ansichten miteinander vergleichen.
 

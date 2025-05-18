@@ -10,7 +10,8 @@ url: '/de/hilfe/anleitung-zum-tree-plugin'
 
 Das **Tree-Plugin** ermöglicht die kompakte **hierarchische Darstellung** verknüpfter Datensätze. Das heißt, Sie können Daten, die in verschiedenen, [miteinander verknüpften Tabellen](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) liegen, auf unterschiedlichen Ebenen in einem Baumdiagramm visualisieren. Gerade bei großen Datenmengen wie Finanzdaten oder Projektdaten, schafft das Plugin daher einen strukturierten Überblick.
 
-Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier](https://seatable.io/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
+).
 
 ![Tree structure example](images/Tree-plugin-for-software-testing.png)
 

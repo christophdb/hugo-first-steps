@@ -1,11 +1,11 @@
 ---
-title: "Die erste Base"
+title: 'Die erste Base'
 date: 2022-08-25
-lastmod: "2023-05-15"
-categories: 
-  - "kurzanleitungen"
-author: "cdb"
-url: "/de/hilfe/die-erste-base"
+lastmod: '2023-05-15'
+categories:
+    - 'kurzanleitungen'
+author: 'cdb'
+url: '/de/hilfe/die-erste-base'
 ---
 
 In SeaTable organisieren Sie Ihre Daten in [Bases](https://seatable.io/docs/arbeiten-mit-bases/bases/). Eine Base ist ein Container für eine oder mehrere Tabellen. Die Tabellen einer Base können unabhängig nebeneinander stehen oder - wie in einer Datenbank - über Relationen miteinander verknüpft werden.
@@ -30,7 +30,8 @@ Die neue Base enthält von Beginn an eine [Tabelle](https://seatable.io/docs/sea
 
 Vor der [Datenerfassung](https://seatable.io/docs/seatable-nutzen/datenerfassung/) steht die Definition des Tabellenlayouts. Die Spaltenstruktur bestimmt, welche Datentypen Sie in der Tabelle erfassen können, welche Ansichtsoptionen Sie haben und wie sich die Felder in [Webformularen](https://seatable.io/docs/webformulare/webformulare/) verhalten.
 
-SeaTable bietet insgesamt [über 20 Spaltentypen](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). Aus herkömmlichen Tabellenkalkulationen kennen Sie bestimmt schon Text-, Zahl- und Datum-Spalten. Diese kennt natürlich auch SeaTable. Darüber hinaus bietet SeaTable Spalten für [Bilder und Dateien](https://seatable.io/docs/dateien-und-bilder/unterschiede-zwischen-bild-und-datei-spalte/), für [formatierten Text](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), für [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) und [Checkboxen](https://seatable.io/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) sowie [Einfach-](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) und [Mehrfachauswahlfelder](https://seatable.io/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
+SeaTable bietet insgesamt [über 20 Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+). Aus herkömmlichen Tabellenkalkulationen kennen Sie bestimmt schon Text-, Zahl- und Datum-Spalten. Diese kennt natürlich auch SeaTable. Darüber hinaus bietet SeaTable Spalten für [Bilder und Dateien](https://seatable.io/docs/dateien-und-bilder/unterschiede-zwischen-bild-und-datei-spalte/), für [formatierten Text](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), für [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) und [Checkboxen](https://seatable.io/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) sowie [Einfach-](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) und [Mehrfachauswahlfelder](https://seatable.io/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
 
 Sie wollen Bilder zu einem Eintrag hinzufügen? Ziehen Sie einfach das Bild in eine Bild-Spalte und SeaTable speichert es direkt in der Tabelle. In SeaTable haben Sie alle Ihre Daten an einem Ort!
 

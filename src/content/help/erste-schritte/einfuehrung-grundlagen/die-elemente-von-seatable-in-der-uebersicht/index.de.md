@@ -1,11 +1,11 @@
 ---
-title: "Die Elemente von SeaTable in der Übersicht"
+title: 'Die Elemente von SeaTable in der Übersicht'
 date: 2023-03-06
-lastmod: "2023-07-19"
-categories: 
-  - "kurzanleitungen"
-author: "cdb"
-url: "/de/hilfe/die-elemente-von-seatable-in-der-uebersicht"
+lastmod: '2023-07-19'
+categories:
+    - 'kurzanleitungen'
+author: 'cdb'
+url: '/de/hilfe/die-elemente-von-seatable-in-der-uebersicht'
 ---
 
 Die intuitive und dennoch leistungsstarke Low-Code-Plattform SeaTable gibt jedem die Flexibilität, seine eigene Lösung zu erstellen und seine Arbeitsabläufe zu beschleunigen. In diesem Artikel finden Sie eine Übersicht über die wichtigsten Elemente und Funktionen in SeaTable sowie Links zu weiteren Dokumentationen für jeden Bereich.
@@ -20,7 +20,7 @@ Nach dem Login starten Sie auf der Startseite von SeaTable. Jede quadratische Ka
 
 [Erfahren Sie mehr über Bases →](https://seatable.io/docs/arbeiten-mit-bases/bases/)
 
-* * *
+---
 
 ![Elemente der SeaTable Base](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_base.png)
 
@@ -42,13 +42,15 @@ Mit den Spalten Ihrer Tabelle legen Sie fest, welche Informationen dort jeweils 
 
 Wenn eine Spalte eine [Zahlenspalte](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/) ist, können Sie auch nur Zahlen in dieser Spalte speichern. SeaTable kennt eine Vielzahl verschiedener Spaltentypen, sodass Sie alle gewünschten Daten erfassen können.
 
-[Erfahren Sie mehr über die Spalten in SeaTable →](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/)
+[Erfahren Sie mehr über die Spalten in SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+)
 
 ### Ansichten
 
 Ansichten ermöglichen es Ihnen, dieselben Informationen aus verschiedenen Blickwinkeln zu betrachten. Die zugrundeliegenden Zeilen sind immer die gleichen, aber mithilfe von Filtern, Sortierungen, Gruppierungen, Ausblendungen und bedingten Formatierungen können Sie sich Ihre individuellen Ansichten der für Sie relevanten Daten erstellen. Normalerweise teilen sich alle Teammitglieder die gleichen Ansichten innerhalb einer Base. Sie können aber auch private Ansichten anlegen, die nur für Sie sichtbar sind.
 
-[Erfahren Sie mehr über Ansichten →](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+[Erfahren Sie mehr über Ansichten →]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+)
 
 ### Plugins
 

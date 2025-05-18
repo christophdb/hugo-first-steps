@@ -48,7 +48,8 @@ Wenn Sie genug experimentiert haben, versuchen Sie das Quiz zu absolvieren und v
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Was ist eine Ansicht?](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+- [Was ist eine Ansicht?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+  )
 - [Gruppierung, Sortierung und Filter](https://seatable.io/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
 - [Anlegen einer neuen Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
 - [Ansichten anpinnen](https://seatable.io/docs/grundlagen-von-ansichten/ansichten-pinnen/)

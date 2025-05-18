@@ -23,15 +23,19 @@ SeaTable lässt Ihnen alle Freiheiten zur Organisation Ihrer Daten. Excel beispi
 
 Sie können in SeaTable textbasierte Informationen genauso abspeichern wie Bilder und Dateien. Einfachauswahlfelder erlauben eine eindeutige Kategorisierung, Mehrfachauswahlfelder die schnelle Verschlagwortung. Barcodes, Geopositionsdaten, Verweise auf Personen und weitere Feldtypen machen es möglich, dass Sie alle Daten an einem Ort vereinen können.
 
-Und SeaTable bietet nicht nur eine reichere Formatunterstützung durch [über 20 Spaltentypen](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). Als Datenbankanwendung unterstützt SeaTable Relationen zwischen Datensätzen unterschiedlicher Tabellen, wodurch sich eine breite Palette an Anwendungsmöglichkeiten ergibt, die in Excel nicht vorstellbar ist.
+Und SeaTable bietet nicht nur eine reichere Formatunterstützung durch [über 20 Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+). Als Datenbankanwendung unterstützt SeaTable Relationen zwischen Datensätzen unterschiedlicher Tabellen, wodurch sich eine breite Palette an Anwendungsmöglichkeiten ergibt, die in Excel nicht vorstellbar ist.
 
 ### ... stellt Ihre Daten dar, wie Sie es brauchen
 
 Wenn Sie sich einmal an die vielfältigen Analysefunktionen von SeaTable gewöhnt haben, werden Sie sie nie mehr missen wollen:
 
-Kinderleicht zu bedienende [Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) sorgen dafür, dass Sie immer genau die Daten im Blick haben, die Sie benötigen – und mit verschiedenen Statistiken können Sie Ihre Auswertungen schnell und einfach visualisieren.
+Kinderleicht zu bedienende [Ansichten]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+) sorgen dafür, dass Sie immer genau die Daten im Blick haben, die Sie benötigen – und mit verschiedenen Statistiken können Sie Ihre Auswertungen schnell und einfach visualisieren.
 
-Darüber hinaus erhalten Sie mit SeaTables unterschiedlichen [Plugins](https://seatable.io/docs/plugins/aktivieren-eines-plugins-in-einer-base/) (wie z. B. [Kalender-](https://seatable.io/docs/plugins/anleitung-zum-kalender-plugin/), [Galerie-](https://seatable.io/docs/plugins/anleitung-zum-galerie-plugin/) oder [Karten-Plugin](https://seatable.io/docs/plugins/anleitung-zum-karten-plugin/)) ganz neue Darstellungsoptionen, um Ihre Arbeit optimal zu unterstützen.
+Darüber hinaus erhalten Sie mit SeaTables unterschiedlichen [Plugins]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
+) (wie z. B. [Kalender-]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
+), [Galerie-](https://seatable.io/docs/plugins/anleitung-zum-galerie-plugin/) oder [Karten-Plugin](https://seatable.io/docs/plugins/anleitung-zum-karten-plugin/)) ganz neue Darstellungsoptionen, um Ihre Arbeit optimal zu unterstützen.
 
 Ein erster Klick legt beispielsweise die Termine eines Events auf einen Kalender, ein zweiter Klick zeigt die begleitenden Bilder in einer Galerie und ein dritter die Veranstaltungsorte auf einer Karte. Darauf wollen Sie nie wieder verzichten.
 

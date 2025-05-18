@@ -23,7 +23,8 @@ Wenn Sie lieber Videos schauen wollen, helfen Ihnen bestimmt die Anleitungen auf
 
 Welche Daten wollen Sie erfassen? Welcher Prozess in Ihrem Alltag läuft vielleicht nicht so gut?
 
-[Erstellen Sie eine erste Base](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) und beginnen Sie einfach damit, für alle Informationen, die Sie haben, die passenden [Spaltentypen](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) in einer Tabelle anzulegen. Optimierungen können Sie später vornehmen.
+[Erstellen Sie eine erste Base](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) und beginnen Sie einfach damit, für alle Informationen, die Sie haben, die passenden [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+) in einer Tabelle anzulegen. Optimierungen können Sie später vornehmen.
 
 ## Schritt 3: Lassen Sie sich inspirieren
 

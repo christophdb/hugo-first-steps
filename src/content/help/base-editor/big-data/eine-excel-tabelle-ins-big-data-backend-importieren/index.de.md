@@ -16,8 +16,10 @@ Standardmäßig erlaubt SeaTable die Speicherung von **bis zu 100.000 Zeilen** i
 
 ## Vorbereitungen für den Import
 
-- In [Big-Data-Ansichten](https://seatable.io/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) lassen sich **keine neuen Spalten** anlegen. Bauen Sie daher vorab in einer [normalen Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) die gewünschte **Tabellenstruktur**.
-- Legen Sie dabei [Spaltentypen](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) fest, die mit den Daten in der Excel-Tabelle **kompatibel** sind.
+- In [Big-Data-Ansichten](https://seatable.io/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) lassen sich **keine neuen Spalten** anlegen. Bauen Sie daher vorab in einer [normalen Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+  ) die gewünschte **Tabellenstruktur**.
+- Legen Sie dabei [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+  ) fest, die mit den Daten in der Excel-Tabelle **kompatibel** sind.
 - Um einen reibungslosen Import zu gewährleisten, müssen die Spaltennamen in SeaTable mit den **Spaltennamen in der Excel-Tabelle identisch** sein.
 
 ## Eine XLSX-Datei in eine Big-Data-Ansicht importieren

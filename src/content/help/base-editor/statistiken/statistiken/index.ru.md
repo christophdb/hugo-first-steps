@@ -14,7 +14,8 @@ Wie Sie mit SeaTable statistische Auswertungen und ansprechende Grafiken erstell
 
 ## Filter, Sortierung und Gruppierung
 
-Mit [Filtern, Gruppierungen und Sortierungen](https://seatable.io/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/) bringen Sie in Windeseile Ordnung Ihre Daten und bereiten sie für Ihre verschiedenen Anwendungsfälle auf. Durch die Kombination dieser einfachen Analysewerkzeuge, die Sie zentral in jeder Tabellenansicht finden, werden auch große Datenmengen strukturiert und überschaubar. Sie können unterschiedliche [Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) speichern, um später auf diese zurückzugreifen.
+Mit [Filtern, Gruppierungen und Sortierungen](https://seatable.io/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/) bringen Sie in Windeseile Ordnung Ihre Daten und bereiten sie für Ihre verschiedenen Anwendungsfälle auf. Durch die Kombination dieser einfachen Analysewerkzeuge, die Sie zentral in jeder Tabellenansicht finden, werden auch große Datenmengen strukturiert und überschaubar. Sie können unterschiedliche [Ansichten]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+) speichern, um später auf diese zurückzugreifen.
 
 An der [Status-Zeile](https://seatable.io/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) können Sie dabei die **Zeilenanzahl** in einer Ansicht und bestimmte **Spaltenwerte** ablesen. Zur Auswahl stehen die Summe, der Durchschnitt, der Median, das Maximum oder das Minimum aus allen Werten in einer Spalte. Diese Spaltenwerte können Sie ebenso für einzelne Gruppierungen ermitteln.
 

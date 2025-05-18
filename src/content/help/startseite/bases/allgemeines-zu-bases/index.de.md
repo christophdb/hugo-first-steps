@@ -1,11 +1,11 @@
 ---
-title: "Allgemeines zu Bases in SeaTable"
+title: 'Allgemeines zu Bases in SeaTable'
 date: 2022-08-25
-lastmod: "2023-05-03"
-categories: 
-  - "arbeiten-mit-bases"
-author: "cdb"
-url: "/de/hilfe/bases"
+lastmod: '2023-05-03'
+categories:
+    - 'arbeiten-mit-bases'
+author: 'cdb'
+url: '/de/hilfe/bases'
 ---
 
 Bases sind in SeaTable von zentraler Bedeutung. Wann auch immer Sie Daten in SeaTable erfassen, auswerten, bearbeiten oder teilen, befinden Sie sich in einer Base.
@@ -13,7 +13,8 @@ Bases sind in SeaTable von zentraler Bedeutung. Wann auch immer Sie Daten in Sea
 Auf den ersten Blick ist eine Base nur ein **Container** für eine oder mehrere **Tabellen**. Aus dieser Perspektive liegt es nahe, eine Base mit einer Arbeitsmappe in Excel zu vergleichen. Dieser Vergleich wird einer Base aber nicht gerecht. Den Arbeitsmappen, wie man sie aus herkömmlichen Tabellenkalkulationen kennt, sind Bases in SeaTable weit überlegen, denn sie bieten:
 
 - Relationale Datenbankfunktionen und die [Verknüpfung von Tabellen](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Über 20 Spaltentypen](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/), die alle gängigen Datenformate abdecken
+- [Über 20 Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+  ), die alle gängigen Datenformate abdecken
 - Diverse [Freigabemöglichkeiten](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) zum einfachen Teilen von Daten
 - Echtzeit-[Zusammenarbeit](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/) mit anderen Nutzern und Echtzeit-Übertragung aller Änderungen
 - Eine [Kommentarfunktion](https://seatable.io/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) zu jedem Datensatz in einer Zeile

@@ -68,6 +68,7 @@ Wenn Sie sich intensiver mit der Benutzeroberfläche und den Begriffen von SeaTa
 In den folgenden Artikeln werden wir immer am Ende der Seite einen Abschnitt mit Verweisen auf unseren Hilfebereich einfügen. So werden wir Sie zwar im Rahmen dieses Online Kurses an die Hand nehmen, aber nicht jeden Mausklick per Screenshot visualisieren. Wenn Sie mal nicht weiter wissen, sollten Ihnen die Hilfeartikel weiterhelfen.
 
 - [Eine neue Base erstellen](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
-- [Was ist eine Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+- [Was ist eine Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+  )
 - [SeaTable Glossar](https://seatable.io/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/)
 - [Eine Base zu den Favoriten hinzufügen](https://seatable.io/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/)
