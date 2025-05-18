@@ -43,11 +43,11 @@ You want to make a comment on a row ? Then simply leave a [comment]({{< relref "
 
 [Sharing bases, tables and views]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) with other users or entire groups is a snap. By assigning individual user permissions, you retain control over who can do what and who cannot.
 
-Sharing is not limited to other SeaTable users: You can also share data with [external links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) or [invite](https://seatable.io/en/docs/freigaben/einladungs-link-erklaert/) people without SeaTable account to collaborate directly in SeaTable.
+Sharing is not limited to other SeaTable users: You can also share data with [external links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) or [invite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) people without SeaTable account to collaborate directly in SeaTable.
 
 ### ... is analysis and survey tool in one
 
-You don't always have to enter data yourself. SeaTable's [web form editor](https://seatable.io/en/docs/webformulare/webformulare/) will create you an online survey or an advanced contact form based on a table in no time.
+You don't always have to enter data yourself. SeaTable's [web form editor]({{< relref "help/base-editor/webformulare/webformulare" >}}) will create you an online survey or an advanced contact form based on a table in no time.
 
 You define relevant fields, dependencies, notifications, etc. in the graphical design mode of the web form. Once the data collection is complete, the evaluation of the data takes place directly where it was saved: in SeaTable.
 
@@ -55,6 +55,6 @@ You define relevant fields, dependencies, notifications, etc. in the graphical d
 
 Turn 1 + 1 = 3 by linking SeaTable to other applications and integrating it into other solutions. Thanks to the [REST API](https://docs.seatable.io/published/seatable-api/home.md), this is no challenge.
 
-Processes can be automated and standardized with [scripts](https://seatable.io/en/docs/javascript-python/unterschied-zwischen-javascript-und-python-scripten-in-seatable/).
+Processes can be automated and standardized with [scripts]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}).
 
 If you want to develop your own scripts and plugins without restrictions, SeaTable's Realtime SDK provides you with everything you need. We are excited to see what you build for SeaTable!

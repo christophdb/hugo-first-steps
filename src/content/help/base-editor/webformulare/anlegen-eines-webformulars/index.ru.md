@@ -14,7 +14,7 @@ url: '/ru/help/anlegen-eines-webformulars'
 
 Для доступа создайте **ссылку**, которая позволит пользователям, **не имеющим учетной записи SeaTable**, вводить данные в веб-форму.
 
-Подробнее о [веб-формах](https://seatable.io/ru/docs/webformulare/webformulare/) вы можете прочитать в статье по ссылке.
+Подробнее о [веб-формах]({{< relref "help/base-editor/webformulare/webformulare" >}}) вы можете прочитать в статье по ссылке.
 
 ## Чтобы создать веб-форму
 

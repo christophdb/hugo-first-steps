@@ -14,7 +14,7 @@ To **prefill web forms**, you have the option of defining default values in the 
 
 SeaTable offers a function with which you can easily generate **form links** in which default values are already defined in advance.
 
-1. Create a [web form](https://seatable.io/en/docs/webformulare/webformulare/).
+1. Create a [web form]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. In the web form editor, click on the {{< seatable-icon icon="dtable-icon-share" >}} **Share** button in the top right-hand corner.
 3. Now click on the **Add form link** button and the following input mask will appear:
 
@@ -33,7 +33,7 @@ The result, i.e. the extended URL, is the same as with the manual procedure desc
 
 ![Prefill web form](images/prefill.png)
 
-1. Create a [web form](https://seatable.io/en/docs/webformulare/webformulare/).
+1. Create a [web form]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Click on the {{< seatable-icon icon="dtable-icon-share" >}} **Share** button in the web form editor to receive the link to the web form.
 3. **Copy** the link and paste it in a new tab in the **browser search bar**, where you can edit and test it.
 4. To **prefill** a form field with a default value, append the string **/?prefill_COLUMNAME=PREFILLVALUE'** to the form link.

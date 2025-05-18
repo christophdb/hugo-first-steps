@@ -35,7 +35,7 @@ Mithilfe dieses Seitentyps können Sie eine beliebige **Tabelle** Ihrer Base als
 
 ## Seitentyp: Formular
 
-Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. [Webformulare](https://seatable.io/docs/webformulare/webformulare/) gibt es nicht nur in der Universellen App, sondern auch als separates Feature. Formularseiten in der Universellen App eignen sich hervorragend, um **Daten von vielen verschiedenen Nutzern** erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter](https://seatable.io/arbeitszeiterfassung/).
+Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) gibt es nicht nur in der Universellen App, sondern auch als separates Feature. Formularseiten in der Universellen App eignen sich hervorragend, um **Daten von vielen verschiedenen Nutzern** erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter](https://seatable.io/arbeitszeiterfassung/).
 
 ![Webformular zur Erfassung der Arbeitszeit Ihrer Mitarbeiter](images/webformular-working-time.png)
 

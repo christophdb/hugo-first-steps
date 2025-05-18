@@ -22,7 +22,11 @@ You can store a digital signature in a **signature column**, which is saved as a
 
 Clicking in any cell of the **signature column** automatically opens a window with a **panel** where you can sign with your mouse and - on devices with a touchscreen - with a pen or finger.
 
-{{< warning  headline="Tip"  text="Digital signatures are very well suited for data capture using [web forms](https://seatable.io/en/docs/webformulare/webformulare/), for example, to have applications conveniently signed online." />}}
+{{< warning  headline="Tip" >}}
+
+Digital signatures are very well suited for data capture using [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}), for example, to have applications conveniently signed online.
+
+{{< /warning >}}
 
 ![" Deposit a signature in a signature column](images/add-a-signature-into-a-signature-column-1.gif)
 

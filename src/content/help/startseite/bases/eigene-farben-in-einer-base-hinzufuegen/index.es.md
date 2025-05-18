@@ -55,4 +55,8 @@ Puede **eliminar** los colores añadidos a una base en cualquier momento utiliza
 5. Haga clic en el **símbolo x** en el color que desea eliminar.
 6. Confirme la eliminación con **Enviar**.
 
-{{< warning  headline="Nota"  text="Actualmente, **no** es posible en SeaTable Cloud definir su propio color para una base (encabezado de la base, [icono de la base en la](https://seatable.io/es/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/) página de [inicio](https://seatable.io/es/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/)) o para un [formulario web](https://seatable.io/es/docs/webformulare/webformulare/). Aquí solo puede elegir entre los **12 colores** predefinidos." />}}
+{{< warning  headline="Nota" >}}
+
+Actualmente, **no** es posible en SeaTable Cloud definir su propio color para una base (encabezado de la base, [icono de la base en la]({{< relref "help/base-editor/webformulare/webformulare" >}}). Aquí solo puede elegir entre los **12 colores** predefinidos.
+
+{{< /warning >}}

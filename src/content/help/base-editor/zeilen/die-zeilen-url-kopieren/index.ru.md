@@ -10,7 +10,7 @@ url: '/ru/help/die-zeilen-url-kopieren'
 
 Каждая строка в базе имеет уникальный **URL-адрес**. Вы можете скопировать его, если хотите сослаться на конкретную запись в определенном ряду, например, чтобы переслать данные члену команды. Однако URL может быть открыт только теми людьми, которые вошли в SeaTable и имеют доступ к строке.
 
-Кроме того, вы можете считать [идентификатор строки](https://seatable.io/ru/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) из URL, что необходимо, например, для [скриптов](https://seatable.io/ru/docs/javascript-python/unterschied-zwischen-javascript-und-python-scripten-in-seatable/).
+Кроме того, вы можете считать [идентификатор строки]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}).
 
 ### Существует два различных способа копирования URL-адреса строки:
 

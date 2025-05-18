@@ -138,4 +138,4 @@ Das **Statistik-Modul** ermöglicht Ihnen die vielseitige Darstellung von Daten 
 
 Mit dem **Formular-Editor** können Sie aus den Spalten einer Tabelle ein Webformular erzeugen, mit dem Sie bestimmte Daten von Nutzern in die Felder einer **Online-Umfrage** eingeben lassen können.
 
-[Mehr zu den Webformularen](https://seatable.io/docs/webformulare/webformulare/)
+[Mehr zu den Webformularen]({{< relref "help/base-editor/webformulare/webformulare" >}})

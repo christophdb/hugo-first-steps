@@ -136,4 +136,4 @@ Le **module Statistiques** vous permet une représentation polyvalente des donn�
 
 L'**éditeur de formulaires** vous permet de créer un formulaire web à partir des colonnes d'un tableau. Vous pouvez ainsi demander aux utilisateurs de saisir certaines données dans les champs d'une **enquête en ligne**.
 
-[En savoir plus sur les formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/)
+[En savoir plus sur les formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}})

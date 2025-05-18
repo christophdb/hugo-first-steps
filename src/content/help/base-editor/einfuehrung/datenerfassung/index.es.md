@@ -24,7 +24,7 @@ SeaTable tiene una potente función de [importación de](https://seatable.io/es/
 
 ## Formularios web
 
-Los [formularios web](https://seatable.io/es/docs/webformulare/webformulare/) son la herramienta elegida cuando desea que los nuevos registros se introduzcan en una hoja de cálculo **no por usted mismo**, sino por **personas de dentro y fuera de su equipo**. ¿Te parece demasiado bueno para ser verdad? Pues pruébelo ahora mismo.
+Los [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}) son la herramienta elegida cuando desea que los nuevos registros se introduzcan en una hoja de cálculo **no por usted mismo**, sino por **personas de dentro y fuera de su equipo**. ¿Te parece demasiado bueno para ser verdad? Pues pruébelo ahora mismo.
 
 ## Entradas automatizadas
 

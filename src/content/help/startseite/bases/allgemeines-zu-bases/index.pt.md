@@ -18,7 +18,7 @@ As bases são de importância central no SeaTable. Sempre que entra, analisa, ed
 - [Colaboração](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/) em tempo real com outros utilizadores e transmissão em tempo real de todas as alterações
 - Uma [função de comentário para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registo numa linha
 - [Versões](https://seatable.io/pt/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) completas e [história de](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) todas as mudanças
-- Um [editor de formulários web](https://seatable.io/pt/docs/webformulare/webformulare/) integrado e [plugins](https://seatable.io/pt/docs/seatable-nutzen/ansichten/) gráficos
+- Um [editor de formulários web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado e [plugins](https://seatable.io/pt/docs/seatable-nutzen/ansichten/) gráficos
 - Opções de integração simples graças ao REST API
 
 As bases são, portanto, muito mais do que "contentores de mesa" na Web. Estas vantagens são-lhe rapidamente reconhecidas e nunca mais vai querer passar sem elas!

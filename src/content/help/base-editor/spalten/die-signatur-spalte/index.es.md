@@ -22,7 +22,11 @@ Puede almacenar una firma digital en una **columna de firma**, que se guarda com
 
 Si haces clic en cualquier celda de la **columna de firma**, se abre automáticamente una ventana con un **panel** en el que puedes firmar con el ratón y -en dispositivos con pantalla táctil- con un bolígrafo o el dedo.
 
-{{< warning  headline="Consejo"  text="Las firmas digitales son muy adecuadas para la recogida de datos mediante [formularios web](https://seatable.io/es/docs/webformulare/webformulare/), por ejemplo para que las solicitudes se firmen cómodamente en línea." />}}
+{{< warning  headline="Consejo" >}}
+
+Las firmas digitales son muy adecuadas para la recogida de datos mediante [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}), por ejemplo para que las solicitudes se firmen cómodamente en línea.
+
+{{< /warning >}}
 
 !["Depositar una firma en una columna de firmas](images/add-a-signature-into-a-signature-column-1.gif)
 

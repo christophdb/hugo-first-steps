@@ -24,7 +24,7 @@ SeaTable dispose d'un puissant [système d'importation de données](https://seat
 
 ## Formulaires web
 
-[Les formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/) sont le moyen par excellence de faire saisir de nouveaux enregistrements dans une table non pas **par vous-même**, mais par des **personnes au sein ou en dehors de votre équipe**. Cela semble trop beau pour être vrai ? Alors essayez-le tout de suite !
+[Les formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) sont le moyen par excellence de faire saisir de nouveaux enregistrements dans une table non pas **par vous-même**, mais par des **personnes au sein ou en dehors de votre équipe**. Cela semble trop beau pour être vrai ? Alors essayez-le tout de suite !
 
 ## Inscriptions par automation
 

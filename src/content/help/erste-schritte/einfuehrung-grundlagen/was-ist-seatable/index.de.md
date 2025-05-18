@@ -47,11 +47,11 @@ Sie wollen eine Anmerkung zu einer Zeile machen? Dann hinterlassen Sie dort einf
 
 Das [Teilen von Bases, Tabellen und Ansichten]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) mit anderen Benutzern oder ganzen Gruppen erledigen Sie im Handumdrehen. Durch die Vergabe individueller Benutzerberechtigungen behalten Sie die Kontrolle darüber, wer was darf und wer was nicht darf.
 
-Das Teilen ist nicht auf andere SeaTable Benutzer begrenzt: Sie können Daten auch mit [externen Links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) teilen oder Personen ohne SeaTable Account [einladen](https://seatable.io/docs/freigaben/einladungs-link-erklaert/) und so direkt in SeaTable zusammenarbeiten.
+Das Teilen ist nicht auf andere SeaTable Benutzer begrenzt: Sie können Daten auch mit [externen Links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) teilen oder Personen ohne SeaTable Account [einladen]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) und so direkt in SeaTable zusammenarbeiten.
 
 ### ... ist Analyse- und Umfragetool in einem
 
-Nicht immer müssen Sie Daten selbst erfassen. SeaTables [Webformular-Editor](https://seatable.io/docs/webformulare/webformulare/) erstellt Ihnen im Handumdrehen eine Online-Umfrage oder ein erweitertes Kontaktformular auf Basis einer Tabelle.
+Nicht immer müssen Sie Daten selbst erfassen. SeaTables [Webformular-Editor]({{< relref "help/base-editor/webformulare/webformulare" >}}) erstellt Ihnen im Handumdrehen eine Online-Umfrage oder ein erweitertes Kontaktformular auf Basis einer Tabelle.
 
 Relevante Felder, Abhängigkeiten, Benachrichtigungen etc. definieren Sie im grafischen Entwurfsmodus des Webformulars. Ist die Datenerhebung abgeschlossen, erfolgt die Auswertung der Daten direkt da, wo sie abgespeichert wurden: in SeaTable.
 
@@ -59,6 +59,6 @@ Relevante Felder, Abhängigkeiten, Benachrichtigungen etc. definieren Sie im gra
 
 Machen Sie aus 1 + 1 = 3, indem Sie SeaTable mit anderen Anwendungen verknüpfen und in andere Lösungen integrieren. Dank [REST-API](https://docs.seatable.io/published/seatable-api/home.md) stellt dies keine Herausforderung dar.
 
-Prozesse lassen sich mit [Skripten](https://seatable.io/docs/javascript-python/unterschied-zwischen-javascript-und-python-scripten-in-seatable/) automatisieren und standardisieren.
+Prozesse lassen sich mit [Skripten]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}) automatisieren und standardisieren.
 
 Wenn Sie uneingeschränkt eigene Skripte und Plugins entwickeln möchten, stellt Ihnen das Realtime SDK von SeaTable alles zur Verfügung, was Sie brauchen. Wir sind gespannt, was Sie für SeaTable bauen!

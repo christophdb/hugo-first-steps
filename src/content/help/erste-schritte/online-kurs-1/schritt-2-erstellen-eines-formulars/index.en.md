@@ -48,6 +48,6 @@ Take a few minutes to explore the additional possibilities of the web form.
 
 ## Help article with further information
 
-- [Web forms in general](https://seatable.io/en/docs/webformulare/webformulare/)
+- [Web forms in general]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Creating a web form](https://seatable.io/en/docs/webformulare/anlegen-eines-webformulars/)
 - [Configuration options for a web form](https://seatable.io/en/docs/webformulare/konfigurationsmoeglichkeiten-eines-webformulars/)

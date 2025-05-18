@@ -14,7 +14,7 @@ Um **Webformulare vorzubefüllen**, haben Sie die Möglichkeit, Standardwerte in
 
 SeaTable bietet eine Funktion, mit der Sie bequem **Formularlinks** generieren können, in denen Standardwerte bereits vorab definiert sind.
 
-1. Erstellen Sie ein [Webformular](https://seatable.io/docs/webformulare/webformulare/).
+1. Erstellen Sie ein [Webformular]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Klicken Sie im Webformular-Editor auf die Schaltfläche {{< seatable-icon icon="dtable-icon-share" >}} **Freigeben** in der rechten oberen Ecke.
 3. Klicken Sie nun auf die Schaltfläche **Formular-Link hinzufügen** und folgende Eingabemaske erscheint:
    ![Vorbefüllte Werte in benutzerdefinierten Formularlinks](images/Vorbefuellte-Werte-in-benutzerdefinierten-Formularlinks.png)5. Geben Sie dem neuen Link einen **Namen**. Unter **Eigene URL** können Sie einen Teil der URL selbst definieren.
@@ -30,7 +30,7 @@ Das Ergebnis, also die erweiterte URL, ist das gleiche wie bei der unten beschri
 
 ![Webformular vorausfüllen](images/prefill.png)
 
-1. Erstellen Sie ein [Webformular](https://seatable.io/docs/webformulare/webformulare/).
+1. Erstellen Sie ein [Webformular]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Klicken Sie im Webformular-Editor auf die Schaltfläche {{< seatable-icon icon="dtable-icon-share" >}} **Freigeben**, um den Link zu dem Webformular zu erhalten.
 3. **Kopieren** Sie den Link und fügen Sie ihn in einem neuen Tab **in die Suchzeile des Browsers** ein, wo Sie ihn bearbeiten und testen können.
 4. Um ein Formularfeld mit einem Standardwert vorzubefüllen, hängen Sie die Zeichenfolge **/?prefill_COLUMNNAME=PREFILLVALUE‘** an den Formularlink an.

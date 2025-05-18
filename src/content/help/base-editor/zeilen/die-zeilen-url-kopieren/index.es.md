@@ -10,7 +10,7 @@ url: '/es/ayuda/die-zeilen-url-kopieren'
 
 Cada fila de una Base tiene una **URL** única. Puede copiarla si desea hacer referencia al registro exacto de una fila en particular, por ejemplo para reenviar los datos a un miembro del equipo. Sin embargo, la URL sólo puede ser abierta por personas que hayan iniciado sesión en SeaTable y tengan acceso a la fila.
 
-Además, puede leer el [ID de línea](https://seatable.io/es/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) de la URL, que necesita para los [scripts](https://seatable.io/es/docs/javascript-python/unterschied-zwischen-javascript-und-python-scripten-in-seatable/), por ejemplo.
+Además, puede leer el [ID de línea]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}), por ejemplo.
 
 ### Hay dos formas diferentes de copiar una URL de línea:
 

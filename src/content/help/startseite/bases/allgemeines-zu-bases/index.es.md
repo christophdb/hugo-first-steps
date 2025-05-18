@@ -18,7 +18,7 @@ A primera vista, una base no es más que un **contenedor** para una o varias **t
 - [Colaboración](https://seatable.io/es/docs/seatable-nutzen/zusammenarbeit/) en tiempo real con otros usuarios y transmisión en tiempo real de todos los cambios
 - Una [función de comentario para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registro de una fila
 - [Versionado](https://seatable.io/es/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) completo e [historial](https://seatable.io/es/docs/historie-und-versionen/historie-und-logs/) de todos los cambios
-- Un [editor de formularios web](https://seatable.io/es/docs/webformulare/webformulare/) y [plugins](https://seatable.io/es/docs/seatable-nutzen/ansichten/) gráficos integrados
+- Un [editor de formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}) y [plugins](https://seatable.io/es/docs/seatable-nutzen/ansichten/) gráficos integrados
 - Opciones de integración sencillas gracias a la API REST
 
 Las bases son, por tanto, mucho más que "contenedores de mesa" en la web. Apreciará rápidamente estas ventajas y no querrá volver a prescindir de ellas.

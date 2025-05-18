@@ -18,7 +18,7 @@ url: '/ru/help/bases'
 - [Совместная работа](https://seatable.io/ru/docs/seatable-nutzen/zusammenarbeit/) с другими пользователями и передача всех изменений в режиме реального времени
 - [Функция комментария для]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) каждой записи в ряду
 - Полная [версионность](https://seatable.io/ru/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) и [история](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) всех изменений
-- Встроенный [редактор веб-форм](https://seatable.io/ru/docs/webformulare/webformulare/) и графические [плагины](https://seatable.io/ru/docs/seatable-nutzen/ansichten/)
+- Встроенный [редактор веб-форм]({{< relref "help/base-editor/webformulare/webformulare" >}}) и графические [плагины](https://seatable.io/ru/docs/seatable-nutzen/ansichten/)
 - Простые возможности интеграции благодаря REST API
 
 Таким образом, базы - это гораздо больше, чем "контейнеры для столов" в Интернете. Вы очень быстро оцените эти преимущества и больше никогда не захотите обходиться без них!

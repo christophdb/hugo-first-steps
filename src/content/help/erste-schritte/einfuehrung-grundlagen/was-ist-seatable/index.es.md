@@ -43,11 +43,11 @@ Trabaje **conjuntamente y en tiempo real en** todo lo que organice en SeaTable. 
 
 Puedes [compartir bases, tablas y vistas]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) con otros usuarios o grupos enteros en un abrir y cerrar de ojos. Al asignar permisos individuales a los usuarios, conservas el control sobre quién puede hacer qué y quién no.
 
-Compartir no se limita a otros usuarios de SeaTable: También puede compartir datos con [enlaces externos]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) o [invitar](https://seatable.io/es/docs/freigaben/einladungs-link-erklaert/) a personas sin cuenta en SeaTable a colaborar directamente en SeaTable.
+Compartir no se limita a otros usuarios de SeaTable: También puede compartir datos con [enlaces externos]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) o [invitar]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) a personas sin cuenta en SeaTable a colaborar directamente en SeaTable.
 
 ### ... es una herramienta de análisis y encuesta en uno
 
-No siempre tiene que introducir los datos usted mismo. El [editor de formularios web](https://seatable.io/es/docs/webformulare/webformulare/) de SeaTable crea una encuesta en línea o un formulario de contacto avanzado basado en una tabla en un abrir y cerrar de ojos.
+No siempre tiene que introducir los datos usted mismo. El [editor de formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}) de SeaTable crea una encuesta en línea o un formulario de contacto avanzado basado en una tabla en un abrir y cerrar de ojos.
 
 Usted define los campos relevantes, las dependencias, las notificaciones, etc. en el modo de diseño gráfico del formulario web. Una vez finalizada la recogida de datos, la evaluación de los mismos tiene lugar directamente donde se guardaron: en SeaTable.
 
@@ -55,6 +55,6 @@ Usted define los campos relevantes, las dependencias, las notificaciones, etc. e
 
 Convierta 1 + 1 = 3 vinculando SeaTable a otras aplicaciones e integrándolo en otras soluciones. Gracias a la [API REST](https://docs.seatable.io/published/seatable-api/home.md), esto no es un reto.
 
-Los procesos pueden automatizarse y normalizarse con [guiones](https://seatable.io/es/docs/javascript-python/unterschied-zwischen-javascript-und-python-scripten-in-seatable/).
+Los procesos pueden automatizarse y normalizarse con [guiones]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}).
 
 Si desea desarrollar sus propios scripts y plugins sin restricciones, el SDK en tiempo real de SeaTable le proporciona todo lo que necesita. Estamos impacientes por ver lo que construyes para SeaTable.

@@ -12,7 +12,11 @@ Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, wel
 
 ![Webformular zur Erfassung der Arbeitszeit Ihrer Mitarbeiter](images/webformular-working-time.png)
 
-{{< warning  type="warning" headline="Tipp"  text="[Webformulare](\"https://seatable.io/docs/webformulare/webformulare/\") gibt es nicht nur in der Universellen App, sondern auch direkt in der Base." />}}
+{{< warning  type="warning" headline="Tipp" >}}
+
+[Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) gibt es nicht nur in der Universellen App, sondern auch direkt in der Base.
+
+{{< /warning >}}
 
 ## Seiteneinstellungen ändern
 

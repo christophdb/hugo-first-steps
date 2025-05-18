@@ -22,7 +22,11 @@ Pode armazenar uma assinatura digital numa **coluna de assinatura**, que é guar
 
 Se clicar em qualquer célula da **coluna de assinatura**, abre-se automaticamente uma janela com um **painel** no qual pode assinar com o rato e - em dispositivos com ecrã tátil - com uma caneta ou o dedo.
 
-{{< warning  headline="Dica"  text="As assinaturas digitais são muito adequadas para a recolha de dados através de [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/), por exemplo, para que as aplicações sejam convenientemente assinadas em linha." />}}
+{{< warning  headline="Dica" >}}
+
+As assinaturas digitais são muito adequadas para a recolha de dados através de [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}}), por exemplo, para que as aplicações sejam convenientemente assinadas em linha.
+
+{{< /warning >}}
 
 !["Depositar uma assinatura numa coluna de assinaturas](images/add-a-signature-into-a-signature-column-1.gif)
 

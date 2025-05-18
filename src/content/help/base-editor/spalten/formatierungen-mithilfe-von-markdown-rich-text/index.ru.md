@@ -19,7 +19,7 @@ url: '/ru/help/formatierungen-mithilfe-von-markdown-rich-text'
 - Колонки типа [форматированного текста](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Базовые описания](https://seatable.io/ru/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
 - Тексты электронной почты при отправке через [автоматизацию](https://seatable.io/ru/docs/beispiel-automationen/e-mail-versand-per-automation/) и [кнопки](https://seatable.io/ru/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
-- [Веб-формы](https://seatable.io/ru/docs/webformulare/webformulare/)
+- [Веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Универсальные приложения](https://seatable.io/ru/docs/apps/universelle-app/)
 
 Как только Markdown будет использован в SeaTable, вам будет предложена следующая маска ввода. Конечно, вы можете пометить слова или текстовые блоки как обычно, а затем выбрать нужное форматирование.

@@ -20,7 +20,7 @@ Dans le gestionnaire de fichiers se trouvent différents dossiers qui contiennen
 
 ![Propres dossiers créés et organisés librement par l'utilisateur dans la gestion des fichiers ](images/costum-folders.png)
 
-- **Les dossiers système** sont créés automatiquement par SeaTable lorsque vous créez des colonnes, des Apps ou des formulaires web spécifiques. Ils contiennent [les fichiers](https://seatable.io/fr/docs/dateien-und-bilder/die-datei-spalte/), les [images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/) et les [signatures](https://seatable.io/fr/docs/dateien-und-bilder/die-signatur-spalte/) des colonnes respectives de la base, ainsi que les fichiers de configuration des [applications universelles](https://seatable.io/fr/docs/apps/universelle-app/) et [des formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/).
+- **Les dossiers système** sont créés automatiquement par SeaTable lorsque vous créez des colonnes, des Apps ou des formulaires web spécifiques. Ils contiennent [les fichiers]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
 ![Dossiers système créés et organisés par le système SeaTable dans la gestion de fichiers](images/system-folders.png)
 

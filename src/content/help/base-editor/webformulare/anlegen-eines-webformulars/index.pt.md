@@ -14,7 +14,7 @@ O **clássico formulário web** é ideal para inquéritos online e recolha estru
 
 Para acesso, crie uma **ligação** que permita aos utilizadores **sem uma conta de utilizador SeaTable** introduzir dados no formulário Web.
 
-Pode ler mais sobre [formulários web](https://seatable.io/pt/docs/webformulare/webformulare/) no artigo ligado.
+Pode ler mais sobre [formulários web]({{< relref "help/base-editor/webformulare/webformulare" >}}) no artigo ligado.
 
 ## Para criar um formulário web
 

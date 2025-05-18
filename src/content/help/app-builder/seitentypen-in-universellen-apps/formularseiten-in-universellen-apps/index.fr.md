@@ -12,7 +12,11 @@ Ce type de page permet de construire différents **formulaires** que les utilisa
 
 ![Formulaire web pour enregistrer le temps de travail de vos employés](images/webformular-working-time.png)
 
-{{< warning  headline="Conseil"  text="[Les formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/) ne sont pas seulement disponibles dans l'application universelle, mais aussi directement dans la base." />}}
+{{< warning  headline="Conseil" >}}
+
+[Les formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) ne sont pas seulement disponibles dans l'application universelle, mais aussi directement dans la base.
+
+{{< /warning >}}
 
 ## Modifier les paramètres de la page
 

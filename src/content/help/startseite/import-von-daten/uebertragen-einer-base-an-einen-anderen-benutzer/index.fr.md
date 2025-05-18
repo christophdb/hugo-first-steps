@@ -23,7 +23,7 @@ Il est très facile de relever ce défi. Créez un **nouveau groupe** et ajoutez
 
 Si vous souhaitez transférer l'une de vos bases à un **utilisateur d'une autre équipe**, vous n'arriverez à _rien_ avec un groupe, car vous ne pourrez pas inviter l'autre utilisateur. Au lieu de cela, vous pouvez choisir la procédure suivante :
 
-[Créez un lien d'invitation](https://seatable.io/fr/docs/freigaben/einladungs-link-erklaert/) vers votre base et envoyez ce lien à l'autre utilisateur. Une fois que l'autre utilisateur a accepté le **partage**, il peut **copier** la **base** et l'intégrer à sa propre équipe.
+[Créez un lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) vers votre base et envoyez ce lien à l'autre utilisateur. Une fois que l'autre utilisateur a accepté le **partage**, il peut **copier** la **base** et l'intégrer à sa propre équipe.
 
 ![Transférer la base par lien d'invitation](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
 

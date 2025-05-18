@@ -55,4 +55,8 @@ You can **delete** colors added to a base at any time using the same method.
 5. Click the **x icon** on the color you want to delete.
 6. Confirm the deletion with **Submit**.
 
-{{< warning  headline="Note"  text="Currently in SeaTable Cloud it is **not** possible to define your own color for a base (base header, [base icon on the home](https://seatable.io/en/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/) page) or for a [web form](https://seatable.io/en/docs/webformulare/webformulare/). Here you can only choose from the default **12 colors**." />}}
+{{< warning  headline="Note" >}}
+
+Currently in SeaTable Cloud it is **not** possible to define your own color for a base (base header, [base icon on the home]({{< relref "help/base-editor/webformulare/webformulare" >}}). Here you can only choose from the default **12 colors**.
+
+{{< /warning >}}

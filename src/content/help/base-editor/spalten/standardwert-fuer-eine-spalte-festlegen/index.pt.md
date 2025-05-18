@@ -72,14 +72,14 @@ Os valores predefinidos aplicam-se **sempre que** é possível criar novas linha
 - via [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (ação: "Copiar linha para outra tabela")
 - através da [automatização](https://seatable.io/pt/docs/automationen/automations-aktionen/) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
 - no [calendário](https://seatable.io/pt/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), na [galeria](https://seatable.io/pt/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) ou no [plugin Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/)
-- através de [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/)
+- através de [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - nas [páginas](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) de [tabela](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [formulário](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) e [Kanban](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) das aplicações
 
 ![O valor por defeito aplica-se a todas as novas linhas](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
 ## Valores por defeito em formulários Web
 
-Para além dos valores por defeito definidos na tabela, [os formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/) também permitem definir valores por defeito para os campos de formulário ligados às colunas. Também é possível definir se os utilizadores podem **alterar** estes valores por defeito ao preencherem o formulário.
+Para além dos valores por defeito definidos na tabela, [os formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) também permitem definir valores por defeito para os campos de formulário ligados às colunas. Também é possível definir se os utilizadores podem **alterar** estes valores por defeito ao preencherem o formulário.
 
 ![Definir valores predefinidos em formulários Web](images/Set-default-values-in-web-forms.png)
 

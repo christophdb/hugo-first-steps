@@ -67,6 +67,6 @@ Se a tarefa tiver de ser apresentada não só ao utilizador com o ID corresponde
 
 ## ID do utilizador em formulários Web
 
-Nos [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/), pode registar automaticamente a **identidade dos utilizadores com sessão iniciada**. Para tal, defina **{creator.id}** ou **{creator.name}** nas definições de página do seu formulário Web como o **valor predefinido** e active a opção de que este _não pode_ ser alterado. Uma vez efectuadas estas definições, o **ID do** utilizador **com sessão iniciada** é **automaticamente** utilizado no formulário Web e deixa de poder ser introduzido ou alterado manualmente.
+Nos [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}}), pode registar automaticamente a **identidade dos utilizadores com sessão iniciada**. Para tal, defina **{creator.id}** ou **{creator.name}** nas definições de página do seu formulário Web como o **valor predefinido** e active a opção de que este _não pode_ ser alterado. Uma vez efectuadas estas definições, o **ID do** utilizador **com sessão iniciada** é **automaticamente** utilizado no formulário Web e deixa de poder ser introduzido ou alterado manualmente.
 
 ![Definição do ID do utilizador como valor por defeito nos formulários Web](images/set-default-value-user-ID-in-webformulars.png)

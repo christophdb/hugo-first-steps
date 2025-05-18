@@ -14,7 +14,7 @@ Das **klassische Webformular** ist ideal für Online-Umfragen und die strukturie
 
 Für den Zugriff erstellen Sie einen **Link**, über den auch Nutzer **ohne SeaTable-Benutzerkonto** Daten in das Webformular eingeben können.
 
-Mehr über [Webformulare](https://seatable.io/docs/webformulare/webformulare/) erfahren Sie im verlinkten Artikel.
+Mehr über [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) erfahren Sie im verlinkten Artikel.
 
 ## So legen Sie ein Webformular an
 

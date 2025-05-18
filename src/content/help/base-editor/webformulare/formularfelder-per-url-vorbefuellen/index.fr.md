@@ -14,7 +14,7 @@ Pour **pré-remplir les formulaires web**, vous avez la possibilité de définir
 
 SeaTable propose une fonction qui permet de générer facilement **des liens de formulaire** dans lesquels les valeurs par défaut sont prédéfinies.
 
-1. Créez un [formulaire web](https://seatable.io/fr/docs/webformulare/webformulare/).
+1. Créez un [formulaire web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Dans l'éditeur de formulaire web, cliquez sur le bouton {{< seatable-icon icon="dtable-icon-share" >}} **Partager** dans le coin supérieur droit.
 3. Cliquez maintenant sur le bouton **Ajouter un lien de formulaire** et le masque de saisie suivant apparaît :
 
@@ -33,7 +33,7 @@ Le résultat, c'est-à-dire l'URL étendue, est le même que celui de la procéd
 
 ![Pré-remplir le formulaire web](images/prefill.png)
 
-1. Créez un [formulaire web](https://seatable.io/fr/docs/webformulare/webformulare/).
+1. Créez un [formulaire web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Dans l'éditeur de formulaire web, cliquez sur le bouton {{< seatable-icon icon="dtable-icon-share" >}} **Partager** pour obtenir le lien vers le formulaire web.
 3. **Copiez** le lien et collez-le dans un nouvel onglet dans **la ligne de recherche du navigateur**, où vous pourrez le modifier et le tester.
 4. Pour pré-remplir un champ de formulaire avec une valeur standard, ajoutez la chaîne de caractères **/?prefill_COLUMNNAME=PREFILLVALUE'** au lien du formulaire.

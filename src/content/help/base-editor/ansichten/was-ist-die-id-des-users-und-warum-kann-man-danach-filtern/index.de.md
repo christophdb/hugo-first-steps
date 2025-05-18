@@ -64,6 +64,6 @@ Falls die Aufgabe nicht nur dem User mit der entsprechenden ID, sondern auch dem
 
 ## ID des Users in Webformularen
 
-In [Webformularen](https://seatable.io/docs/webformulare/webformulare/) können Sie die **Identität der eingeloggten User** automatisch erfassen. Legen Sie dazu **{creator.id}** bzw. **{creator.name}** in den Seiteneinstellungen Ihres Webformulars als **Standardwert** fest und aktivieren Sie die Option, dass dieser _nicht_ geändert werden kann. Haben Sie diese Einstellungen getätigt, wird die **ID des eingeloggten Users** im Webformular **automatisch** eingesetzt und kann nicht mehr manuell eingetragen oder geändert werden.
+In [Webformularen]({{< relref "help/base-editor/webformulare/webformulare" >}}) können Sie die **Identität der eingeloggten User** automatisch erfassen. Legen Sie dazu **{creator.id}** bzw. **{creator.name}** in den Seiteneinstellungen Ihres Webformulars als **Standardwert** fest und aktivieren Sie die Option, dass dieser _nicht_ geändert werden kann. Haben Sie diese Einstellungen getätigt, wird die **ID des eingeloggten Users** im Webformular **automatisch** eingesetzt und kann nicht mehr manuell eingetragen oder geändert werden.
 
 ![Definition der User-ID als Standardwert in Webformularen](images/set-default-value-user-ID-in-webformulars.png)

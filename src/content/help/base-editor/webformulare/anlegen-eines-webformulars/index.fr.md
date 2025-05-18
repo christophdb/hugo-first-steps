@@ -14,7 +14,7 @@ Le **formulaire web classique** est idéal pour les enquêtes en ligne et la col
 
 Pour y accéder, vous créez un **lien** qui permet aux utilisateurs **qui n'ont pas de compte utilisateur SeaTable de** saisir des données dans le formulaire web.
 
-Pour en savoir plus sur les [formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/), consultez l'article lié.
+Pour en savoir plus sur les [formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}), consultez l'article lié.
 
 ## Comment créer un formulaire web
 

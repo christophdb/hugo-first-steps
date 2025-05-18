@@ -28,7 +28,7 @@ Using the pencil icon, you can rename the base and assign a different icon and c
 
 The new Base contains a [table](https://seatable.io/en/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) from the beginning. The Table view is the central, but not the only [view of](/en/docs/handbuch/datenmanagement/ansichten/) SeaTable. In the Table view you manage the tables of the Base, define their column structure and enter or analyze your data.
 
-Before you [enter data](https://seatable.io/en/docs/seatable-nutzen/datenerfassung/), you define the table layout. The column structure determines what types of data you can capture in the table, what view options you have, and how the fields behave in [web forms](https://seatable.io/en/docs/webformulare/webformulare/).
+Before you [enter data]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
 SeaTable offers a total of [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). From conventional spreadsheets you probably already know text, number and date columns. Of course, SeaTable knows these as well. In addition, SeaTable offers columns for [images and files](https://seatable.io/en/docs/dateien-und-bilder/unterschiede-zwischen-bild-und-datei-spalte/), for [formatted text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), for [buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) and [checkboxes](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) as well as [single](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) and [multiple selection fields](https://seatable.io/en/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
 

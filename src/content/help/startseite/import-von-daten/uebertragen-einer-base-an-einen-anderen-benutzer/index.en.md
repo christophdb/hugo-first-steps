@@ -23,7 +23,7 @@ These steps can be performed by **any team member** - regardless of whether you 
 
 If you want to transfer one of your bases to a **user on another team**, you won _'t_ get anywhere with a group because you can't invite the other user. Instead, you can choose the following procedure:
 
-[Create an invitation link](https://seatable.io/en/docs/freigaben/einladungs-link-erklaert/) to your Base and send this link to the other user. Once the other user accepts the **share**, they can **copy the base** and add it to their own team.
+[Create an invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) to your Base and send this link to the other user. Once the other user accepts the **share**, they can **copy the base** and add it to their own team.
 
 ![Transfer base via invitation link](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
 

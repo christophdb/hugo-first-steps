@@ -14,7 +14,7 @@ Para **pré-preencher formulários Web**, tem a opção de definir valores prede
 
 O SeaTable oferece uma função com a qual pode facilmente gerar **ligações de formulários** em que os valores por defeito já estão previamente definidos.
 
-1. Criar um [formulário web](https://seatable.io/pt/docs/webformulare/webformulare/).
+1. Criar um [formulário web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. No editor de formulários Web, clique no botão {{< seatable-icon icon="dtable-icon-share" >}} **Share** no canto superior direito.
 3. Agora clique no botão **de ligação Adicionar formulário** e aparecerá a seguinte máscara de entrada:
 
@@ -33,7 +33,7 @@ O resultado, ou seja, o URL alargado, é o mesmo que o do procedimento manual de
 
 ![Formulário web de pré-preenchimento](images/prefill.png)
 
-1. Criar um [formulário web](https://seatable.io/pt/docs/webformulare/webformulare/).
+1. Criar um [formulário web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Clique no botão {{< seatable-icon icon="dtable-icon-share" >}} **Share** no editor de formulários Web para receber a hiperligação para o formulário Web.
 3. **Copie** o link e cole-o num novo separador na **linha de pesquisa do navegador,** onde pode editá-lo e testá-lo.
 4. Para **preencher previamente** um campo do formulário com um valor por defeito, anexar a string **/?prefill_COLUMNAME=PREFILLVALUE'** ao link do formulário.

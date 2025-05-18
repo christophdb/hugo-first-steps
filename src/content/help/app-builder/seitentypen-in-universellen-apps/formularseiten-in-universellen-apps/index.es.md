@@ -12,7 +12,11 @@ Puedes utilizar este tipo de página para crear diferentes **formularios** que l
 
 ![Formulario web para registrar el tiempo de trabajo de sus empleados](images/webformular-working-time.png)
 
-{{< warning  headline="Consejo"  text="[Los formularios web](https://seatable.io/es/docs/webformulare/webformulare/) no sólo están disponibles en la Universal App, sino también directamente en la Base." />}}
+{{< warning  headline="Consejo" >}}
+
+[Los formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}) no sólo están disponibles en la Universal App, sino también directamente en la Base.
+
+{{< /warning >}}
 
 ## Cambiar la configuración de la página
 

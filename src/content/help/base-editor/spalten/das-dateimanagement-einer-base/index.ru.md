@@ -20,7 +20,7 @@ url: '/ru/help/das-dateimanagement-einer-base'
 
 ![Собственные папки, свободно создаваемые и организуемые пользователем в управлении файлами ](images/costum-folders.png)
 
-- **Системные папки** автоматически создаются SeaTable при создании определенных колонок, приложений или веб-форм. Они содержат [файлы](https://seatable.io/ru/docs/dateien-und-bilder/die-datei-spalte/), [изображения](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/) и [подписи](https://seatable.io/ru/docs/dateien-und-bilder/die-signatur-spalte/) из соответствующих колонок Base и файлы конфигурации [универсальных приложений](https://seatable.io/ru/docs/apps/universelle-app/) и [веб-форм](https://seatable.io/ru/docs/webformulare/webformulare/).
+- **Системные папки** автоматически создаются SeaTable при создании определенных колонок, приложений или веб-форм. Они содержат [файлы]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
 ![Системные папки, созданные и организованные системой SeaTable в управлении файлами](images/system-folders.png)
 

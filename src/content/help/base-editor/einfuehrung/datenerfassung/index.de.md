@@ -1,11 +1,11 @@
 ---
-title: "Datenerfassung"
+title: 'Datenerfassung'
 date: 2023-03-15
-lastmod: "2023-03-15"
-categories: 
-  - "seatable-nutzen"
-author: "kgr"
-url: "/de/hilfe/datenerfassung"
+lastmod: '2023-03-15'
+categories:
+    - 'seatable-nutzen'
+author: 'kgr'
+url: '/de/hilfe/datenerfassung'
 ---
 
 Dieser Artikel beleuchtet schlaglichtartig einige Möglichkeiten, wie Sie Daten in SeaTable erfassen können.
@@ -24,7 +24,7 @@ SeaTable besitzt einen leistungsfähigen [Daten-Import](https://seatable.io/docs
 
 ## Webformulare
 
-[Webformulare](https://seatable.io/docs/webformulare/webformulare/) sind das Mittel der Wahl, wenn Sie in einer Tabelle **nicht selbst**, sondern von **Personen innerhalb und außerhalb Ihres Teams** neue Datensätze erfassen lassen wollen. Klingt zu schön, um wahr zu sein? Dann probieren Sie es gleich aus!
+[Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) sind das Mittel der Wahl, wenn Sie in einer Tabelle **nicht selbst**, sondern von **Personen innerhalb und außerhalb Ihres Teams** neue Datensätze erfassen lassen wollen. Klingt zu schön, um wahr zu sein? Dann probieren Sie es gleich aus!
 
 ## Einträge per Automation
 

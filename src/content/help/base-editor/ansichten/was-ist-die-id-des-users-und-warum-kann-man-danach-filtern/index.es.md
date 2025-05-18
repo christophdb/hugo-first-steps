@@ -67,6 +67,6 @@ Si la tarea debe mostrarse no sólo al usuario con el ID correspondiente, sino t
 
 ## ID del usuario en formularios web
 
-En los [formularios web](https://seatable.io/es/docs/webformulare/webformulare/), puede registrar automáticamente la **identidad de los usuarios registrados**. Para ello, establezca **{creator.id}** o **{creator.name}** en la configuración de página de su formulario web como **valor predeterminado** y active la opción de que _no se pueda_ modificar. Una vez realizada esta configuración, el **ID del usuario conectado** se utilizará **automáticamente** en el formulario web y ya no podrá introducirse ni modificarse manualmente.
+En los [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}), puede registrar automáticamente la **identidad de los usuarios registrados**. Para ello, establezca **{creator.id}** o **{creator.name}** en la configuración de página de su formulario web como **valor predeterminado** y active la opción de que _no se pueda_ modificar. Una vez realizada esta configuración, el **ID del usuario conectado** se utilizará **automáticamente** en el formulario web y ya no podrá introducirse ni modificarse manualmente.
 
 ![Definición del ID de usuario como valor por defecto en formularios web](images/set-default-value-user-ID-in-webformulars.png)

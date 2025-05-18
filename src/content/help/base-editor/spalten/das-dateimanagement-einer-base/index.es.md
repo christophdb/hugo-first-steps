@@ -20,7 +20,7 @@ El gestor de archivos contiene varias carpetas, que a su vez contienen varios ar
 
 ![Carpetas propias creadas y organizadas libremente por el usuario en la gestión de archivos ](images/costum-folders.png)
 
-- Las **carpetas de sistema** son creadas automáticamente por SeaTable cuando se crean determinadas columnas, apps o formularios web. Contienen [archivos](https://seatable.io/es/docs/dateien-und-bilder/die-datei-spalte/), [imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) y [firmas](https://seatable.io/es/docs/dateien-und-bilder/die-signatur-spalte/) de las respectivas columnas de Base y los archivos de configuración de [Universal Apps](https://seatable.io/es/docs/apps/universelle-app/) y [formularios](https://seatable.io/es/docs/webformulare/webformulare/) web.
+- Las **carpetas de sistema** son creadas automáticamente por SeaTable cuando se crean determinadas columnas, apps o formularios web. Contienen [archivos]({{< relref "help/base-editor/webformulare/webformulare" >}}) web.
 
 ![Carpetas del sistema creadas y organizadas por el sistema SeaTable en la gestión de archivos](images/system-folders.png)
 

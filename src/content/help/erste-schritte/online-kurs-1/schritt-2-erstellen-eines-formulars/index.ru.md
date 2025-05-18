@@ -48,6 +48,6 @@ url: '/ru/help/schritt-2-erstellen-eines-formulars'
 
 ## Справочная статья с дополнительной информацией
 
-- [Веб-формы в целом](https://seatable.io/ru/docs/webformulare/webformulare/)
+- [Веб-формы в целом]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Создайте веб-форму](https://seatable.io/ru/docs/webformulare/anlegen-eines-webformulars/)
 - [Параметры конфигурации веб-формы](https://seatable.io/ru/docs/webformulare/konfigurationsmoeglichkeiten-eines-webformulars/)

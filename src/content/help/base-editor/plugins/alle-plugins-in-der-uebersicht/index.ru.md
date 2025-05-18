@@ -136,4 +136,4 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 С помощью **редактора форм** можно создать веб-форму из столбцов таблицы, с помощью которой пользователи смогут вводить определенные данные в поля **онлайн-опроса**.
 
-[Подробнее о веб-формах](https://seatable.io/ru/docs/webformulare/webformulare/)
+[Подробнее о веб-формах]({{< relref "help/base-editor/webformulare/webformulare" >}})

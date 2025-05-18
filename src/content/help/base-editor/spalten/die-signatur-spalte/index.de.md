@@ -22,7 +22,11 @@ In einer **Signatur-Spalte** können Sie eine digitale Unterschrift hinterlegen,
 
 Wenn Sie in eine beliebige Zelle der **Signatur-Spalte** klicken, öffnet sich automatisch ein Fenster mit einem **Panel**, in dem Sie mit Ihrer Maus und – auf Geräten mit Touchscreen – mit einem Stift oder Finger unterschreiben können.
 
-{{< warning  type="warning" headline="Tipp"  text="Digitale Unterschriften eignen sich sehr gut für die Datenerfassung mithilfe von [Webformularen](\"https://seatable.io/docs/webformulare/webformulare/\"), um beispielsweise Anträge bequem online unterschreiben zu lassen." />}}
+{{< warning  type="warning" headline="Tipp" >}}
+
+Digitale Unterschriften eignen sich sehr gut für die Datenerfassung mithilfe von [Webformularen]({{< relref "help/base-editor/webformulare/webformulare" >}}), um beispielsweise Anträge bequem online unterschreiben zu lassen.
+
+{{< /warning >}}
 
 !["Eine Unterschrift in einer Signatur-Spalte hinterlegen](images/add-a-signature-into-a-signature-column-1.gif)
 

@@ -136,4 +136,4 @@ O **módulo de estatísticas** permite-lhe visualizar os dados em todos os tipos
 
 Pode utilizar o **editor de formulários** para criar um formulário Web a partir das colunas de uma tabela, com o qual pode fazer com que os utilizadores introduzam determinados dados nos campos de um **inquérito online**.
 
-[Mais informações sobre os formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/)
+[Mais informações sobre os formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}})

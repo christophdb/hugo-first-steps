@@ -22,7 +22,11 @@ Dans une **colonne de signature**, vous pouvez déposer une signature numérique
 
 Si vous cliquez dans n'importe quelle cellule de la **colonne Signature**, une fenêtre s'ouvre automatiquement avec un **panneau** dans lequel vous pouvez signer avec votre souris et - sur les appareils à écran tactile - avec un stylo ou un doigt.
 
-{{< warning  headline="Conseil"  text="Les signatures numériques conviennent très bien à la saisie de données à l'aide de [formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/), par exemple pour faire signer facilement des demandes en ligne." />}}
+{{< warning  headline="Conseil" >}}
+
+Les signatures numériques conviennent très bien à la saisie de données à l'aide de [formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}), par exemple pour faire signer facilement des demandes en ligne.
+
+{{< /warning >}}
 
 !["Déposer une signature dans une colonne de signature](images/add-a-signature-into-a-signature-column-1.gif)
 

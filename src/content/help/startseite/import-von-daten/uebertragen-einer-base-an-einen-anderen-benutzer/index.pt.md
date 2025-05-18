@@ -23,7 +23,7 @@ Estes passos podem ser executados por **qualquer membro da equipa** - independen
 
 Se pretender transferir uma das suas bases para um **utilizador de outra equipa**, _não_ conseguirá nada com um grupo porque não pode convidar o outro utilizador. Em vez disso, pode optar pelo seguinte procedimento:
 
-[Crie uma ligação de convite](https://seatable.io/pt/docs/freigaben/einladungs-link-erklaert/) para a sua base e envie essa ligação ao outro utilizador. Assim que o outro utilizador aceitar o **convite**, pode **copiar a base** e transferi-la para a sua própria equipa.
+[Crie uma ligação de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) para a sua base e envie essa ligação ao outro utilizador. Assim que o outro utilizador aceitar o **convite**, pode **copiar a base** e transferi-la para a sua própria equipa.
 
 ![Transferir a base através da ligação de convite](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
 

@@ -10,7 +10,7 @@ url: '/de/hilfe/die-zeilen-url-kopieren'
 
 Jede Zeile einer Base hat eine eindeutige **URL**. Diese können Sie kopieren, wenn Sie exakt auf den Datensatz in einer bestimmten Zeile referenzieren möchten, beispielsweise um die Daten einem Teammitglied weiterzuleiten. Die URL kann allerdings nur von Personen geöffnet werden, die in SeaTable eingeloggt sind und Zugriff auf die Zeile haben.
 
-Darüber hinaus können Sie aus der URL die [Zeilen-ID](https://seatable.io/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) auslesen, die Sie zum Beispiel für [Skripte](https://seatable.io/docs/javascript-python/unterschied-zwischen-javascript-und-python-scripten-in-seatable/) benötigen.
+Darüber hinaus können Sie aus der URL die [Zeilen-ID]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}) benötigen.
 
 ### Zum Kopieren einer Zeilen-URL stehen Ihnen zwei verschiedene Wege zur Verfügung:
 

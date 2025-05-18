@@ -14,7 +14,7 @@ The **classic web form** is ideal for online surveys and structured collection o
 
 For access, create a **link** that allows users **without a SeaTable user account** to enter data in the web form.
 
-You can learn more about [web forms](https://seatable.io/en/docs/webformulare/webformulare/) in the linked article.
+You can learn more about [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) in the linked article.
 
 ## To create a web form
 

@@ -20,7 +20,7 @@ The file manager contains various folders, which in turn contain various files. 
 
 ![Own folders freely created and organized by the user in the file management system ](images/costum-folders.png)
 
-- **System folders** are automatically created by SeaTable when you create specific columns, apps or web forms. They contain [files](https://seatable.io/en/docs/dateien-und-bilder/die-datei-spalte/), [images](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) and [signatures](https://seatable.io/en/docs/dateien-und-bilder/die-signatur-spalte/) from the respective columns of Base and the configuration files of [Universal Apps](https://seatable.io/en/docs/apps/universelle-app/) and [web forms](https://seatable.io/en/docs/webformulare/webformulare/).
+- **System folders** are automatically created by SeaTable when you create specific columns, apps or web forms. They contain [files]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
 ![System folders created and organized by the SeaTable system in the file management system.](images/system-folders.png)
 

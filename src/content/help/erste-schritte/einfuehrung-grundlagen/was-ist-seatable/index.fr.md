@@ -43,11 +43,11 @@ Vous voulez faire une remarque sur une ligne ? Il vous suffit de laisser un [com
 
 Le [partage de bases, de tableaux et de vues]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) avec d'autres utilisateurs ou des groupes entiers se fait en un clin d'œil. En attribuant des autorisations individuelles aux utilisateurs, vous gardez le contrôle sur qui a le droit de faire quoi et qui n'a pas le droit de faire quoi.
 
-Le partage n'est pas limité aux autres utilisateurs de SeaTable : Vous pouvez également partager des données avec [des liens externes]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) ou [inviter](https://seatable.io/fr/docs/freigaben/einladungs-link-erklaert/) des personnes qui n'ont pas de compte SeaTable à collaborer directement dans SeaTable.
+Le partage n'est pas limité aux autres utilisateurs de SeaTable : Vous pouvez également partager des données avec [des liens externes]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) ou [inviter]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) des personnes qui n'ont pas de compte SeaTable à collaborer directement dans SeaTable.
 
 ### ... est à la fois un outil d'analyse et d'enquête
 
-Vous n'avez pas toujours besoin de saisir vous-même les données. L ['éditeur de formulaires Web](https://seatable.io/fr/docs/webformulare/webformulare/) de SeaTables vous permet de créer en un clin d'œil un sondage en ligne ou un formulaire de contact avancé à partir d'un tableau.
+Vous n'avez pas toujours besoin de saisir vous-même les données. L ['éditeur de formulaires Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) de SeaTables vous permet de créer en un clin d'œil un sondage en ligne ou un formulaire de contact avancé à partir d'un tableau.
 
 Les champs pertinents, les dépendances, les notifications, etc. sont définis dans le mode de conception graphique du formulaire web. Une fois la collecte de données terminée, l'analyse des données se fait directement là où elles ont été enregistrées : dans SeaTable.
 
@@ -55,6 +55,6 @@ Les champs pertinents, les dépendances, les notifications, etc. sont définis d
 
 Transformez 1 + 1 = 3 en reliant SeaTable à d'autres applications et en l'intégrant à d'autres solutions. Grâce à [l'API REST](https://docs.seatable.io/published/seatable-api/home.md), cela ne pose aucun problème.
 
-Les processus peuvent être automatisés et standardisés à l'aide de [scripts](https://seatable.io/fr/docs/javascript-python/unterschied-zwischen-javascript-und-python-scripten-in-seatable/).
+Les processus peuvent être automatisés et standardisés à l'aide de [scripts]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}).
 
 Si vous souhaitez développer vos propres scripts et plug-ins sans restriction, le Realtime SDK de SeaTable met à votre disposition tout ce dont vous avez besoin. Nous sommes impatients de voir ce que vous construisez pour SeaTable !

@@ -136,4 +136,4 @@ The **statistics module** allows you to display data in all kinds of graphics an
 
 With the **form editor**, you can create a web form from the columns of a table with which you can have users enter certain data in the fields of an **online survey**.
 
-[More about the web forms](https://seatable.io/en/docs/webformulare/webformulare/)
+[More about the web forms]({{< relref "help/base-editor/webformulare/webformulare" >}})

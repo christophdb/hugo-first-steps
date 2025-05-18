@@ -48,6 +48,6 @@ Nehmen Sie sich auch ein paar Minuten Zeit und erkunden Sie die zusätzlichen M�
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Webformulare im Allgemeinen](https://seatable.io/docs/webformulare/webformulare/)
+- [Webformulare im Allgemeinen]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Anlegen eines Webformulars](https://seatable.io/docs/webformulare/anlegen-eines-webformulars/)
 - [Konfigurationsmöglichkeiten eines Webformulars](https://seatable.io/docs/webformulare/konfigurationsmoeglichkeiten-eines-webformulars/)

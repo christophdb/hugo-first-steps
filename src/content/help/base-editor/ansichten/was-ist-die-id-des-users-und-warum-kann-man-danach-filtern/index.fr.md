@@ -67,6 +67,6 @@ Si la tâche doit être affichée non seulement à l'utilisateur avec l'ID corre
 
 ## ID de l'utilisateur dans les formulaires web
 
-Dans les [formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/), vous pouvez saisir automatiquement l'**identité des utilisateurs connectés**. Pour ce faire, définissez **{creator.id}** ou **{creator.name}** comme **valeur par défaut** dans les paramètres de page de votre formulaire web et activez l'option pour qu'elle ne puisse _pas_ être modifiée. Une fois que vous avez effectué ces réglages, l'**ID de l'utilisateur connecté** est **automatiquement** inséré dans le formulaire web et ne peut plus être saisi ou modifié manuellement.
+Dans les [formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}), vous pouvez saisir automatiquement l'**identité des utilisateurs connectés**. Pour ce faire, définissez **{creator.id}** ou **{creator.name}** comme **valeur par défaut** dans les paramètres de page de votre formulaire web et activez l'option pour qu'elle ne puisse _pas_ être modifiée. Une fois que vous avez effectué ces réglages, l'**ID de l'utilisateur connecté** est **automatiquement** inséré dans le formulaire web et ne peut plus être saisi ou modifié manuellement.
 
 ![Définition de l'ID utilisateur comme valeur par défaut dans les formulaires web](images/set-default-value-user-ID-in-webformulars.png)

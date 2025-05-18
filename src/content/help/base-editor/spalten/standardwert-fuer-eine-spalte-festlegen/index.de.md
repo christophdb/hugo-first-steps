@@ -73,14 +73,14 @@ Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 - per [Schaltfläche](https://seatable.io/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (Aktion: „Zeile in andere Tabelle kopieren“)
 - per [Automation](https://seatable.io/docs/automationen/automations-aktionen/) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
 - im [Kalender-](https://seatable.io/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [Galerie-](https://seatable.io/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) oder [Kanban-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kanban-plugin/)
-- über [Webformulare](https://seatable.io/docs/webformulare/webformulare/)
+- über [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - auf [Tabellen-](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [Formular-](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) und [Kanbanseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) von Apps
 
 ![Standardwert greift überall bei neuen Zeilen](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
 ## Standardwerte in Webformularen
 
-Zusätzlich zu den in der Tabelle definierten Standardwerten haben Sie bei [Webformularen](https://seatable.io/docs/webformulare/webformulare/) die Möglichkeit, Standardwerte für die mit den Spalten verknüpften Formularfelder zu setzen. Dabei können Sie auch einstellen, ob die Benutzer beim Ausfüllen des Formulars diese **Standardwerte ändern** dürfen.
+Zusätzlich zu den in der Tabelle definierten Standardwerten haben Sie bei [Webformularen]({{< relref "help/base-editor/webformulare/webformulare" >}}) die Möglichkeit, Standardwerte für die mit den Spalten verknüpften Formularfelder zu setzen. Dabei können Sie auch einstellen, ob die Benutzer beim Ausfüllen des Formulars diese **Standardwerte ändern** dürfen.
 
 ![Set default values in web forms](images/Set-default-values-in-web-forms.png)
 

@@ -23,7 +23,7 @@ Estos pasos pueden ser realizados por **cualquier miembro del** equipo - indepen
 
 Si quieres transferir una de tus bases a un **usuario de otro equipo**, _no_ conseguirás nada con un grupo porque no puedes invitar al otro usuario. En su lugar, puedes optar por el siguiente procedimiento:
 
-[Crea un enlace de invitación](https://seatable.io/es/docs/freigaben/einladungs-link-erklaert/) a tu base y envía este enlace al otro usuario. En cuanto el otro usuario haya aceptado la **liberación**, podrá **copiar la** base y transferirla a su propio equipo.
+[Crea un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) a tu base y envía este enlace al otro usuario. En cuanto el otro usuario haya aceptado la **liberación**, podrá **copiar la** base y transferirla a su propio equipo.
 
 ![Transferir base mediante enlace de invitación](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
 

@@ -14,7 +14,7 @@ Para **rellenar formularios web**, tiene la opción de definir valores por defec
 
 SeaTable ofrece una función con la que puede generar fácilmente **enlaces de formularios** en los que los valores por defecto ya están definidos de antemano.
 
-1. Crear un [formulario web](https://seatable.io/es/docs/webformulare/webformulare/).
+1. Crear un [formulario web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. En el editor de formularios web, haga clic en el botón {{< seatable-icon icon="dtable-icon-share" >}} **Share** de la esquina superior derecha.
 3. Ahora haga clic en el botón **de enlace Añadir formulario** y aparecerá la siguiente máscara de entrada:
 
@@ -33,7 +33,7 @@ El resultado, es decir, la URL ampliada, es el mismo que con el procedimiento ma
 
 ![Rellenar formulario web](images/prefill.png)
 
-1. Crear un [formulario web](https://seatable.io/es/docs/webformulare/webformulare/).
+1. Crear un [formulario web]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 2. Haga clic en el botón {{< seatable-icon icon="dtable-icon-share" >}} **Share** del editor de formularios web para recibir el enlace al formulario web.
 3. **Copia** el enlace y pégalo en una nueva pestaña en la **línea de búsqueda del navegador,** donde podrás editarlo y probarlo.
 4. Para **rellenar previamente** un campo de formulario con un valor predeterminado, añada la cadena **/?prefill_COLUMNAME=PREFILLVALUE'** al enlace del formulario.

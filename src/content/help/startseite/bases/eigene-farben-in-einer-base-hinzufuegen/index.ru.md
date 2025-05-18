@@ -55,4 +55,8 @@ url: '/ru/help/eigene-farben-in-einer-base-hinzufuegen'
 5. Нажмите на **символ x** у цвета, который вы хотите удалить.
 6. Подтвердите удаление с помощью кнопки **Submit (Отправить**).
 
-{{< warning  headline="Примечание"  text="В настоящее время в SeaTable Cloud **нет** возможности задать свой собственный цвет для базы (заголовок базы, [значок базы на стартовой](https://seatable.io/ru/docs/arbeiten-mit-bases/aussehen-einer-base-anpassen-icon-und-farbe/) странице) или для [веб-формы](https://seatable.io/ru/docs/webformulare/webformulare/). Здесь вы можете выбрать только один из **12** предопределенных **цветов**." />}}
+{{< warning  headline="Примечание" >}}
+
+В настоящее время в SeaTable Cloud **нет** возможности задать свой собственный цвет для базы (заголовок базы, [значок базы на стартовой]({{< relref "help/base-editor/webformulare/webformulare" >}}). Здесь вы можете выбрать только один из **12** предопределенных **цветов**.
+
+{{< /warning >}}

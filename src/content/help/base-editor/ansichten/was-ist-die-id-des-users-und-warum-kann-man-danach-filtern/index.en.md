@@ -67,6 +67,6 @@ If you want the task to be displayed not only to the user with the corresponding
 
 ## ID of the user in web forms
 
-In [web forms](https://seatable.io/en/docs/webformulare/webformulare/), you can automatically capture the **identity of logged in users**. To do this, set **{creator.id}** or **{creator.name}** as the **default value** in the page settings of your web form and activate the option that this _cannot_ be changed. Once you have made these settings, the **ID of the logged-in** user is **automatically** inserted in the web form and can no longer be entered or changed manually.
+In [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}), you can automatically capture the **identity of logged in users**. To do this, set **{creator.id}** or **{creator.name}** as the **default value** in the page settings of your web form and activate the option that this _cannot_ be changed. Once you have made these settings, the **ID of the logged-in** user is **automatically** inserted in the web form and can no longer be entered or changed manually.
 
 ![Definition of user ID as default value in web forms](images/set-default-value-user-ID-in-webformulars.png)

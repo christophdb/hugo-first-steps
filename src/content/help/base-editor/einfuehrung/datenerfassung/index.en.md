@@ -24,7 +24,7 @@ SeaTable has a powerful [data import](https://seatable.io/en/docs-category/impor
 
 ## Forms
 
-[Web forms](https://seatable.io/en/docs/webformulare/webformulare/) are the tool of choice when you want to have new records entered into a spreadsheet **not by yourself**, but by **people inside and outside your team**. Sounds too good to be true? Then try it out right away!
+[Web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) are the tool of choice when you want to have new records entered into a spreadsheet **not by yourself**, but by **people inside and outside your team**. Sounds too good to be true? Then try it out right away!
 
 ## Entries via automation
 

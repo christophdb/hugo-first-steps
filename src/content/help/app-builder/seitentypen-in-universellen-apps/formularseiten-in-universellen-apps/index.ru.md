@@ -12,7 +12,11 @@ url: '/ru/help/formularseiten-in-universellen-apps'
 
 ![Веб-форма для учета рабочего времени ваших сотрудников](images/webformular-working-time.png)
 
-{{< warning  headline="Совет"  text="[Веб-формы](https://seatable.io/ru/docs/webformulare/webformulare/) доступны не только в универсальном приложении, но и непосредственно в Базе." />}}
+{{< warning  headline="Совет" >}}
+
+[Веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}}) доступны не только в универсальном приложении, но и непосредственно в Базе.
+
+{{< /warning >}}
 
 ## Изменение настроек страницы
 

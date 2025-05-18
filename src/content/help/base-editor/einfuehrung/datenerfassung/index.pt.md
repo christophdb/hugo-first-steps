@@ -24,7 +24,7 @@ SeaTable tem um poderoso recurso de [importação de dados](https://seatable.io/
 
 ## Formulários Web
 
-Os [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/) são a ferramenta de eleição quando se pretende ter novos registos introduzidos numa folha de cálculo **não por si próprio**, mas por **pessoas dentro e fora da sua equipa**. Soa demasiado bom para ser verdade? Então experimente-o imediatamente!
+Os [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) são a ferramenta de eleição quando se pretende ter novos registos introduzidos numa folha de cálculo **não por si próprio**, mas por **pessoas dentro e fora da sua equipa**. Soa demasiado bom para ser verdade? Então experimente-o imediatamente!
 
 ## Entradas via automatização
 

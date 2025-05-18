@@ -72,14 +72,14 @@ The default values apply **wherever** you can create new rows :
 - via [button](https://seatable.io/en/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (action: "Copyrow to another table")
 - via [automation](https://seatable.io/en/docs/automationen/automations-aktionen/) (actions: "Addrow " and "Add new entry in another table")
 - in the [calendar](https://seatable.io/en/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [gallery](https://seatable.io/en/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) or [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/)
-- via [web forms](https://seatable.io/en/docs/webformulare/webformulare/)
+- via [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - on [table](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [form](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) and [Kanban pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) of apps
 
 ![Default value applies everywhere for new rows](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
 ## Default values in web forms
 
-In addition to the default values defined in the table, you have the option of setting default values for the form fields linked to the columns in [web forms](https://seatable.io/en/docs/webformulare/webformulare/). You can also set whether users are allowed to **change** these default values when filling out the form.
+In addition to the default values defined in the table, you have the option of setting default values for the form fields linked to the columns in [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}). You can also set whether users are allowed to **change** these default values when filling out the form.
 
 ![Set default values in web forms](images/Set-default-values-in-web-forms.png)
 

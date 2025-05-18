@@ -20,7 +20,7 @@ O gestor de ficheiros contém várias pastas, que por sua vez contêm vários fi
 
 ![Pastas próprias criadas e organizadas livremente pelo utilizador na gestão de ficheiros ](images/costum-folders.png)
 
-- **As pastas do sistema** são criadas automaticamente pelo SeaTable quando cria determinadas colunas, aplicações ou formulários Web. Estas pastas contêm [ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/), [imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) e [assinaturas](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/) das respectivas colunas da Base e os ficheiros de configuração das [Aplicações Universais](https://seatable.io/pt/docs/apps/universelle-app/) e dos [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/).
+- **As pastas do sistema** são criadas automaticamente pelo SeaTable quando cria determinadas colunas, aplicações ou formulários Web. Estas pastas contêm [ficheiros]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
 ![Pastas do sistema criadas e organizadas pelo sistema SeaTable na gestão de ficheiros](images/system-folders.png)
 

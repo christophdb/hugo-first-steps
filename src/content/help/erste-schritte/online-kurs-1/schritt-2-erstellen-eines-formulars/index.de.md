@@ -1,11 +1,11 @@
 ---
-title: "Schritt 2: Erstellen eines Formulars"
+title: 'Schritt 2: Erstellen eines Formulars'
 date: 2024-08-30
-lastmod: "2024-09-05"
-categories: 
-  - "online-kurs"
-author: "cdb"
-url: "/de/hilfe/schritt-2-erstellen-eines-formulars"
+lastmod: '2024-09-05'
+categories:
+    - 'online-kurs'
+author: 'cdb'
+url: '/de/hilfe/schritt-2-erstellen-eines-formulars'
 ---
 
 Nachdem wir in Schritt 1 die notwendige Struktur Ihrer Ausgabenverwaltung angelegt haben, können Sie nun mithilfe Ihres Browsers jederzeit neue Ausgaben erfassen. Sie erinnern sich bestimmt: Jede Zeile steht für einen neuen Datensatz und in Ihrem Fall einen Bezahlvorgang.
@@ -48,6 +48,6 @@ Nehmen Sie sich auch ein paar Minuten Zeit und erkunden Sie die zusätzlichen M�
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Webformulare im Allgemeinen](https://seatable.io/docs/webformulare/webformulare/)
+- [Webformulare im Allgemeinen]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Anlegen eines Webformulars](https://seatable.io/docs/webformulare/anlegen-eines-webformulars/)
 - [Konfigurationsmöglichkeiten eines Webformulars](https://seatable.io/docs/webformulare/konfigurationsmoeglichkeiten-eines-webformulars/)

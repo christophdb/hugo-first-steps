@@ -19,7 +19,7 @@ Currently, there are five areas where you can use Markdown syntax in SeaTable. T
 - Columns of the [Formatted Text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) type
 - [Base descriptions](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
 - Email texts when sending via [automations](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/) and [buttons](https://seatable.io/en/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
-- [Forms](https://seatable.io/en/docs/webformulare/webformulare/)
+- [Forms]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Universal apps](https://seatable.io/en/docs/apps/universelle-app/)
 
 As soon as Markdown is used in SeaTable, you will be offered the following input mask. Of course, you can select words or text blocks as usual and then choose the desired formatting.
