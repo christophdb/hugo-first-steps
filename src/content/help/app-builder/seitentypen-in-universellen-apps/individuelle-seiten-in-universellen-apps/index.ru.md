@@ -176,4 +176,4 @@ url: '/ru/help/individuelle-seiten-in-universellen-apps'
 
 ![Авторизация для отдельных страниц универсального приложения](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Это единственная [авторизация](https://seatable.io/ru/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/), которую можно выбрать для отдельных [страниц](https://seatable.io/ru/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/)\- потому что через отдельные страницы нельзя добавлять, изменять или удалять строки в таблице.
+Это единственная [авторизация]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}})\- потому что через отдельные страницы нельзя добавлять, изменять или удалять строки в таблице.

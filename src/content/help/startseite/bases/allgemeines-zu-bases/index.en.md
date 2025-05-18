@@ -89,7 +89,7 @@ You can [delete]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) and
 
 You can view and restore snapshots of the bases you own or administer. You can learn everything you need to know about snapshots in SeaTable in the articles
 
-- [Saving the current base as a snapshot](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/)
+- [Saving the current base as a snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}})
 - [Restoring a snapshot](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
 
 ## Set up email account in a Base

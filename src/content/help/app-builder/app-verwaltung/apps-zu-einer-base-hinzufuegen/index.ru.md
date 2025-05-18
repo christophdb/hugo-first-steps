@@ -29,4 +29,4 @@ url: '/ru/help/apps-zu-einer-base-hinzufuegen'
 
 ![Назовите приложение и подтвердите его с помощью кнопки Submit](images/confirm-to-add-app-to-base.jpg)
 
-После добавления приложения вы можете [отредактировать его](https://seatable.io/ru/docs/apps/apps-bearbeiten/) и оформить по своему вкусу.
+После добавления приложения вы можете [отредактировать его]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) и оформить по своему вкусу.

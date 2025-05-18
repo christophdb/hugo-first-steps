@@ -27,7 +27,7 @@ Para editar las páginas existentes, haga clic en el **símbolo de la rueda dent
 
 ## Tipo de página: Tabla
 
-Puedes utilizar este tipo de página para añadir cualquier **tabla** de tu base como página a tu aplicación universal. Puedes utilizar las [autorizaciones de página](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) para controlar exactamente quién puede ver y editar los datos de esta página. También puedes definir **filtros preestablecidos**, **clasificaciones**, **agrupaciones** y **columnas ocultas y de sólo** lectura para adaptar, limitar y organizar los datos mostrados con precisión a un grupo de usuarios.
+Puedes utilizar este tipo de página para añadir cualquier **tabla** de tu base como página a tu aplicación universal. Puedes utilizar las [autorizaciones de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para controlar exactamente quién puede ver y editar los datos de esta página. También puedes definir **filtros preestablecidos**, **clasificaciones**, **agrupaciones** y **columnas ocultas y de sólo** lectura para adaptar, limitar y organizar los datos mostrados con precisión a un grupo de usuarios.
 
 ![Uso del tipo de página: Tabla añadida a su página](images/page-type-table-example-1.png)
 
@@ -62,7 +62,7 @@ Con este tipo de página, puede dar rienda suelta a su creatividad y construir u
 
 ![Panel de gestión de la aplicación de registro del tiempo de trabajo](images/Dashboard_2.gif)
 
-[Más información sobre páginas individuales en aplicaciones universales.](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/)
+[Más información sobre páginas individuales en aplicaciones universales.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}})
 
 ## Tipo de página: Kanban
 

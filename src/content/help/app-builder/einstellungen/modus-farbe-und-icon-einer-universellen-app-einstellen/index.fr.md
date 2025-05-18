@@ -45,6 +45,6 @@ Les paramètres mentionnés jusqu'ici concernent l'**ensemble** d'une **applicat
 
 ![Ouvrir les paramètres de la page](images/page-permissions-universal-app.png)
 
-Actuellement, c'est surtout la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) qui offre de nombreux autres paramètres de design. Par exemple, vous pouvez définir différentes couleurs pour les arrière-plans, les polices, les lignes et les cadres des éléments. Utilisez pour cela le **Color Picker** pratique.
+Actuellement, c'est surtout la [page individuelle]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) qui offre de nombreux autres paramètres de design. Par exemple, vous pouvez définir différentes couleurs pour les arrière-plans, les polices, les lignes et les cadres des éléments. Utilisez pour cela le **Color Picker** pratique.
 
 ![Color Picker dans l'application universelle](images/Color-Picker-in-der-Universellen-App.png)

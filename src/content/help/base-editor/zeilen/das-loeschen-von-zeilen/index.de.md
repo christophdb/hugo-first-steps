@@ -17,7 +17,11 @@ In diesem Artikel lernen Sie, wie Sie eine **einzelne Zeile**, **mehrere Zeilen*
 1. Klicken Sie mit der **rechten Maustaste** auf eine Zeile, um das **Drop-down-Menü** aufzurufen.
 2. Wählen Sie die Option **Zeile löschen** aus.
 
-{{< warning  type="warning" headline="Warnung"  text="Bevor Sie eine große Datenmenge löschen, empfiehlt es sich, einen [Snapshot](\"https://seatable.io/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/\") von Ihrer Base anzulegen." />}}
+{{< warning  type="warning" headline="Warnung" >}}
+
+Bevor Sie eine große Datenmenge löschen, empfiehlt es sich, einen [Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) von Ihrer Base anzulegen.
+
+{{< /warning >}}
 
 ## Löschen mehrerer Zeilen
 

@@ -26,4 +26,4 @@ Eine deaktivierte App erkennen Sie am Hinweis **(inaktiv)** hinter dem Namen der
 
 ## Folgen der Deaktivierung
 
-Indem Sie eine App deaktivieren, **entziehen Sie allen bisherigen Nutzern den Zugriff**. Diese bekommen die App nicht mehr angezeigt und können sie nicht mehr nutzen, bis Sie die App wieder aktivieren. Beachten Sie bitte, dass Sie eine inaktive App weder [bearbeiten](https://seatable.io/docs/apps/apps-bearbeiten/) noch [kopieren](https://seatable.io/docs/apps/apps-kopieren/) können.
+Indem Sie eine App deaktivieren, **entziehen Sie allen bisherigen Nutzern den Zugriff**. Diese bekommen die App nicht mehr angezeigt und können sie nicht mehr nutzen, bis Sie die App wieder aktivieren. Beachten Sie bitte, dass Sie eine inaktive App weder [bearbeiten]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) noch [kopieren](https://seatable.io/docs/apps/apps-kopieren/) können.

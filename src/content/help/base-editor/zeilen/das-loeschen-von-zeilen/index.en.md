@@ -17,7 +17,11 @@ In this article you will learn how to**delete** a **single row**, **multiple row
 1. **Right-click** on a row to access the **drop-down menu**.
 2. Select the **Deleterow** option.
 
-{{< warning  headline="Warning"  text="Before deleting a large amount of data, it is recommended to take a [snapshot of](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) your Base." />}}
+{{< warning  headline="Warning" >}}
+
+Before deleting a large amount of data, it is recommended to take a [snapshot of]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) your Base.
+
+{{< /warning >}}
 
 ## Delete multiple rows
 

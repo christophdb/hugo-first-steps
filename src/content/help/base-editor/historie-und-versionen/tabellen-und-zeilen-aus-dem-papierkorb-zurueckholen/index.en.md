@@ -32,7 +32,7 @@ Of course, you have the possibility to undo your last changes. Read more under [
 
 Are automatic backups of my base made?|||
 
-Yes, when changes are made to a base, a so-called **snapshot of** the base is created daily, which you can then restore. For more detailed information, see [Saving the current base as a snapshot](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) and [Restoring a snapshot](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Yes, when changes are made to a base, a so-called **snapshot of** the base is created daily, which you can then restore. For more detailed information, see [Saving the current base as a snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) and [Restoring a snapshot](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
 
 ---
 

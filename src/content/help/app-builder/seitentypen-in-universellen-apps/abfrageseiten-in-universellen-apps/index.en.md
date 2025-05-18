@@ -67,7 +67,7 @@ At the bottom of the page settings, you can restrict who can see the query page.
 
 ![Authorization for individual pages of the Universal App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-This is the only [page authorization](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) you can select here. You cannot add or delete rows in the table via query pages.
+This is the only [page authorization]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) you can select here. You cannot add or delete rows in the table via query pages.
 
 However, after a successful data query, app users can click on [buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) in the displayed hit list to **perform** certain **actions**.
 

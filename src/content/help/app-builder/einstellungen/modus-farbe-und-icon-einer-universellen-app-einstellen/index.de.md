@@ -37,6 +37,6 @@ Die bisher genannten Einstellungen betreffen eine **gesamte Universelle App**. W
 
 ![Öffnen der Seiteneinstellungen](images/page-permissions-universal-app.png)
 
-Aktuell bietet vor allem die [individuelle Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) zahlreiche weitere Design-Einstellungen. Beispielsweise können Sie bei den Elementen verschiedene Farben für Hintergründe, Schriften, Linien und Rahmen festlegen. Nutzen Sie dafür den praktischen **Color Picker**.
+Aktuell bietet vor allem die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) zahlreiche weitere Design-Einstellungen. Beispielsweise können Sie bei den Elementen verschiedene Farben für Hintergründe, Schriften, Linien und Rahmen festlegen. Nutzen Sie dafür den praktischen **Color Picker**.
 
 ![Color Picker in der Universellen App](images/Color-Picker-in-der-Universellen-App.png)

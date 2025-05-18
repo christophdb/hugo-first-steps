@@ -45,7 +45,7 @@ Dans la deuxième section, vous pouvez personnaliser une partie de l'**URL** qui
 
 ## Afficher ou masquer la navigation
 
-Dans la troisième section, vous pouvez décider si la **barre de navigation** doit être affichée ou masquée par défaut à l'ouverture de l'application. La barre de navigation est la zone située sur le bord gauche par laquelle tous les utilisateurs accèdent aux [pages et aux dossiers](https://seatable.io/fr/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) de l'application.
+Dans la troisième section, vous pouvez décider si la **barre de navigation** doit être affichée ou masquée par défaut à l'ouverture de l'application. La barre de navigation est la zone située sur le bord gauche par laquelle tous les utilisateurs accèdent aux [pages et aux dossiers]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) de l'application.
 
 ![Hide app navigation by default](images/Hide-app-navigation-by-default.png)
 
@@ -71,7 +71,7 @@ Dans la dernière section, vous pouvez définir un **accès ouvert** pour votre 
 
 ![Accès ouvert à une application](images/Open-access-to-an-app.png)
 
-Vous pouvez également activer l'**enregistrement automatique** de **chaque utilisateur connecté** qui utilise votre application en **tant qu'utilisateur d'application**. Pour ce faire, vous définissez le **rôle** qui est attribué aux utilisateurs lors de l'enregistrement. En fonction des [autorisations](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) sur les différentes pages, les utilisateurs ayant ce rôle peuvent également ajouter, modifier ou supprimer des lignes.
+Vous pouvez également activer l'**enregistrement automatique** de **chaque utilisateur connecté** qui utilise votre application en **tant qu'utilisateur d'application**. Pour ce faire, vous définissez le **rôle** qui est attribué aux utilisateurs lors de l'enregistrement. En fonction des [autorisations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) sur les différentes pages, les utilisateurs ayant ce rôle peuvent également ajouter, modifier ou supprimer des lignes.
 
 ## Modifier les paramètres des pages individuelles
 

@@ -56,4 +56,4 @@ url: '/ru/help/formularseiten-in-universellen-apps'
 
 ![Авторизация для отдельных страниц универсального приложения](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Это единственная [авторизация страницы](https://seatable.io/ru/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/), которую вы можете выбрать для страниц форм - потому что ни одна строка в таблице не может быть изменена или удалена через страницы форм, и каждый, кто видит страницу, может также отправлять формы, то есть добавлять строки.
+Это единственная [авторизация страницы]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), которую вы можете выбрать для страниц форм - потому что ни одна строка в таблице не может быть изменена или удалена через страницы форм, и каждый, кто видит страницу, может также отправлять формы, то есть добавлять строки.

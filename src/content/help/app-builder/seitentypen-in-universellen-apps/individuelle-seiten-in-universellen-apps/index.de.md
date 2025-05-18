@@ -176,4 +176,4 @@ Zu guter Letzt können Sie in den Seiteneinstellungen eingrenzen, wer die Seite 
 
 ![Berechtigung für individuelle Seiten der Universellen App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Das ist die einzige [Seitenberechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/), die Sie bei individuellen Seiten zur Auswahl haben – denn über individuelle Seiten können keine Zeilen in der Tabelle hinzugefügt, verändert oder gelöscht werden.
+Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie bei individuellen Seiten zur Auswahl haben – denn über individuelle Seiten können keine Zeilen in der Tabelle hinzugefügt, verändert oder gelöscht werden.

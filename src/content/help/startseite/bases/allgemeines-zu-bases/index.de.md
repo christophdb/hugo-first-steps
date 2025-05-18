@@ -90,7 +90,7 @@ Sie können Bases, deren Eigentümer oder Administrator Sie sind, bei Bedarf [l�
 
 Sie können die Snapshots der Bases, deren Eigentümer oder Administrator Sie sind, anzeigen und wiederherstellen. Alles Wissenswerte zu Snapshots in SeaTable erfahren Sie in den Artikeln
 
-- [Speichern der aktuellen Base als Snapshot](https://seatable.io/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/)
+- [Speichern der aktuellen Base als Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}})
 - [Wiederherstellung eines Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
 
 ## E-Mail-Konto in einer Base einrichten

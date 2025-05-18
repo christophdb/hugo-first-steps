@@ -56,4 +56,4 @@ Ganz unten können Sie eingrenzen, wer die Formularseite sehen darf.
 
 ![Berechtigung für individuelle Seiten der Universellen App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Das ist die einzige [Seitenberechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/), die Sie bei Formularseiten zur Auswahl haben – denn über Formularseiten können keine Zeilen in der Tabelle verändert oder gelöscht werden und jeder, der die Seite sehen kann, darf auch Formulare einreichen, also Zeilen hinzufügen.
+Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie bei Formularseiten zur Auswahl haben – denn über Formularseiten können keine Zeilen in der Tabelle verändert oder gelöscht werden und jeder, der die Seite sehen kann, darf auch Formulare einreichen, also Zeilen hinzufügen.

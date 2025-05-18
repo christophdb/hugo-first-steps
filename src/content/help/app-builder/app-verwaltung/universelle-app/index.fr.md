@@ -22,7 +22,7 @@ Pour pouvoir utiliser une application universelle dans votre base, vous devez d'
 
 ## Conception de l'application universelle
 
-Après avoir créé votre application universelle avec succès, vous pouvez commencer à la concevoir. Veillez à toujours utiliser l'**icône du crayon** {{< seatable-icon icon="dtable-icon-rename" >}} pour accéder au [mode d'édition](https://seatable.io/fr/docs/apps/apps-bearbeiten/) de l'application.
+Après avoir créé votre application universelle avec succès, vous pouvez commencer à la concevoir. Veillez à toujours utiliser l'**icône du crayon** {{< seatable-icon icon="dtable-icon-rename" >}} pour accéder au [mode d'édition]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) de l'application.
 
 ![Modifier les apps](images/Apps-bearbeiten.png)
 

@@ -17,7 +17,11 @@ url: '/ru/help/das-loeschen-von-zeilen'
 1. **Щелкните правой кнопкой мыши** на строке, чтобы вызвать **выпадающее меню**.
 2. Выберите опцию **Удалить строку**.
 
-{{< warning  headline="Предупреждение"  text="Перед удалением большого количества данных рекомендуется сделать [моментальный снимок](https://seatable.io/ru/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) базы." />}}
+{{< warning  headline="Предупреждение" >}}
+
+Перед удалением большого количества данных рекомендуется сделать [моментальный снимок]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) базы.
+
+{{< /warning >}}
 
 ## Удаление нескольких строк
 

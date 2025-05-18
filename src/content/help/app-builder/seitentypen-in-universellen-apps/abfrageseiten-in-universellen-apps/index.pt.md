@@ -67,7 +67,7 @@ Na parte inferior das definições da página, pode restringir quem pode ver a p
 
 ![Autorização para páginas individuais da aplicação universal](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Esta é a única [autorização de página](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) que pode selecionar aqui. Não é possível adicionar ou eliminar linhas na tabela através de páginas de consulta.
+Esta é a única [autorização de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que pode selecionar aqui. Não é possível adicionar ou eliminar linhas na tabela através de páginas de consulta.
 
 No entanto, após uma consulta de dados bem sucedida, os utilizadores da aplicação podem clicar nos [botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) da lista de ocorrências apresentada para **executar** determinadas **acções**.
 

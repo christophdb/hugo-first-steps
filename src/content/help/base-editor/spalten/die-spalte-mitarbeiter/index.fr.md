@@ -52,7 +52,7 @@ Lorsque vous envoyez des notifications via [des automatismes](https://seatable.i
 
 ## La colonne des employés dans les applications universelles
 
-La colonne des collaborateurs est également avantageuse dans l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Vous pouvez activer l'option permettant de voir les membres de l'équipe dans la liste déroulante pour tous les utilisateurs dans les [paramètres](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) de l'application.
+La colonne des collaborateurs est également avantageuse dans l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Vous pouvez activer l'option permettant de voir les membres de l'équipe dans la liste déroulante pour tous les utilisateurs dans les [paramètres]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) de l'application.
 
 Si vous ne souhaitez pas que les utilisateurs de l'application puissent voir les enregistrements d'autres utilisateurs, définissez **des filtres prédéfinis**: si une page est filtrée par la colonne des collaborateurs avec la condition "inclut l'utilisateur actuel", chaque utilisateur de l'application universelle ne verra que les enregistrements qui lui sont attribués dans le tableau.
 

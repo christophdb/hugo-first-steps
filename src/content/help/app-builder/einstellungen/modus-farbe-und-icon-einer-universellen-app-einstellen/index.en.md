@@ -45,6 +45,6 @@ The settings mentioned so far affect an **entire Universal App**. If you want to
 
 ![Open the page settings](images/page-permissions-universal-app.png)
 
-Currently, the [individual page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) in particular offers numerous additional design settings. For example, you can define different colors for backgrounds, fonts, lines and frames for the elements. Use the practical **color picker** for this.
+Currently, the [individual page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) in particular offers numerous additional design settings. For example, you can define different colors for backgrounds, fonts, lines and frames for the elements. Use the practical **color picker** for this.
 
 ![Color Picker in the Universal App](images/Color-Picker-in-der-Universellen-App.png)

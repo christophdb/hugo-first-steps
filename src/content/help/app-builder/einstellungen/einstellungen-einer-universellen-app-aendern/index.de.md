@@ -37,7 +37,7 @@ Im zweiten Abschnitt können Sie einen Teil der **URL** anpassen, mit der Sie Ih
 
 ## Navigation ein- und ausblenden
 
-Im dritten Abschnitt können Sie entscheiden, ob die **Navigationsleiste** beim Öffnen der App standardmäßig ein- oder ausgeblendet sein soll. Die Navigationsleiste ist der Bereich am linken Rand, über den alle Nutzer die [Seiten und Ordner](https://seatable.io/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) der App ansteuern.
+Im dritten Abschnitt können Sie entscheiden, ob die **Navigationsleiste** beim Öffnen der App standardmäßig ein- oder ausgeblendet sein soll. Die Navigationsleiste ist der Bereich am linken Rand, über den alle Nutzer die [Seiten und Ordner]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) der App ansteuern.
 
 ![Hide app navigation by default](images/Hide-app-navigation-by-default.png)
 
@@ -63,7 +63,7 @@ Im letzten Abschnitt können Sie einen **offenen Zugang** für Ihre Universelle 
 
 ![Open access to an app](images/Open-access-to-an-app.png)
 
-Sie können aber auch aktivieren, dass **jeder eingeloggte Benutzer**, der Ihre App verwendet, **automatisch als App-Benutzer registriert** wird. Dabei legen Sie fest, welche **Rolle** den Benutzern bei der Registrierung zugewiesen wird. Je nach [Berechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) auf den einzelnen Seiten können Benutzer mit dieser Rolle auch Zeilen hinzufügen, bearbeiten oder löschen.
+Sie können aber auch aktivieren, dass **jeder eingeloggte Benutzer**, der Ihre App verwendet, **automatisch als App-Benutzer registriert** wird. Dabei legen Sie fest, welche **Rolle** den Benutzern bei der Registrierung zugewiesen wird. Je nach [Berechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) auf den einzelnen Seiten können Benutzer mit dieser Rolle auch Zeilen hinzufügen, bearbeiten oder löschen.
 
 ## Einstellungen einzelner Seiten bearbeiten
 

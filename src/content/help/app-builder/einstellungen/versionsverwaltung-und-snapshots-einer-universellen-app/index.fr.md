@@ -14,7 +14,7 @@ Les **snapshots** permettent de sauvegarder la version actuelle d'une applicatio
 
 ## Quand les apps snapshots sont utiles
 
-Les App Snapshots sont des **instantanés** de l'état d'une application universelle et fonctionnent de manière similaire aux [Base Snapshots](https://seatable.io/fr/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/). Les apps snapshots vous permettent de sauvegarder la version actuelle d'une application universelle, ce qui peut être utile si vous effectuez des modifications importantes et souhaitez éventuellement restaurer un état antérieur.
+Les App Snapshots sont des **instantanés** de l'état d'une application universelle et fonctionnent de manière similaire aux [Base Snapshots]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}). Les apps snapshots vous permettent de sauvegarder la version actuelle d'une application universelle, ce qui peut être utile si vous effectuez des modifications importantes et souhaitez éventuellement restaurer un état antérieur.
 
 {{< warning  headline="Attention à la perte de données"  text="Contrairement aux Base Snapshots, les App Snapshots ne sauvegardent **pas les enregistrements**, mais uniquement la **structure** et **les paramètres** de l'app. Cela signifie que si vous modifiez ou supprimez certaines entrées de la base sous-jacente via l'app universelle, vous ne pourrez pas les restaurer via les apps snapshots." />}}
 
@@ -22,9 +22,9 @@ Les App Snapshots sont des **instantanés** de l'état d'une application univers
 
 Un snapshot d'application enregistre les éléments et paramètres suivants :
 
-- [Paramètres](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) tels que **le nom**, **l'icône** et **le schéma de couleurs** de l'application
-- [Pages et dossiers](https://seatable.io/fr/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) de l'application
-- Paramètres et [autorisations](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) pour les différentes pages
+- [Paramètres]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) tels que **le nom**, **l'icône** et **le schéma de couleurs** de l'application
+- [Pages et dossiers]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) de l'application
+- Paramètres et [autorisations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) pour les différentes pages
 
 ### Ce qu'un snapshot d'application ne sauvegarde pas
 
@@ -33,11 +33,11 @@ Un snapshot d'application n'enregistre pas :
 - l'**URL personnalisée** d'une application
 - les **données** de la base sous-jacente
 - les **commentaires** sur les différents enregistrements
-- les [rôles des utilisateurs et les liens d'invitation](https://seatable.io/fr/docs/universelle-apps/benutzer-und-rollenverwaltung-einer-universellen-app/) de l'application
+- les [rôles des utilisateurs et les liens d'invitation]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) de l'application
 
 ## Créer un snapshot de l'application
 
-1. Ouvrez une **application universelle** en [mode édition](https://seatable.io/fr/docs/apps/apps-bearbeiten/).
+1. Ouvrez une **application universelle** en [mode édition]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
 ![Modifier les apps](images/Apps-bearbeiten.png)
 

@@ -14,7 +14,7 @@ url: '/ru/help/versionsverwaltung-und-snapshots-einer-universellen-app'
 
 ## Когда полезны снимки приложений
 
-Снимки приложений - это **снимки** состояния универсального приложения, которые работают так же, как и [снимки базы](https://seatable.io/ru/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/). Вы можете использовать снимки приложений для сохранения текущей версии универсального приложения в качестве резервной копии, что может быть полезно, например, если вы хотите внести значительные изменения и, возможно, восстановить предыдущее состояние.
+Снимки приложений - это **снимки** состояния универсального приложения, которые работают так же, как и [снимки базы]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}). Вы можете использовать снимки приложений для сохранения текущей версии универсального приложения в качестве резервной копии, что может быть полезно, например, если вы хотите внести значительные изменения и, возможно, восстановить предыдущее состояние.
 
 {{< warning  headline="Остерегайтесь потери данных"  text="В отличие от снимков базы, снимки приложений сохраняют **не записи данных**, а только **структуру** и **настройки** приложения. Это означает, что если вы измените или удалите определенные записи в базовой базе через универсальное приложение, вы не сможете восстановить их через снимки приложения." />}}
 
@@ -22,9 +22,9 @@ url: '/ru/help/versionsverwaltung-und-snapshots-einer-universellen-app'
 
 Снимок приложения сохраняет следующие элементы и настройки:
 
-- [Настройки](https://seatable.io/ru/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/), такие как **название**, **иконка** и **цветовая схема** приложения
-- [Страницы и папки](https://seatable.io/ru/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) приложения
-- Настройки и [полномочия](https://seatable.io/ru/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) для отдельных страниц
+- [Настройки]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}), такие как **название**, **иконка** и **цветовая схема** приложения
+- [Страницы и папки]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) приложения
+- Настройки и [полномочия]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) для отдельных страниц
 
 ### Что не сохраняет снимок приложения
 
@@ -33,11 +33,11 @@ url: '/ru/help/versionsverwaltung-und-snapshots-einer-universellen-app'
 - **пользовательский URL-адрес** приложения
 - **данные** базовой основы
 - **комментарии** к отдельным записям данных
-- [роли пользователей и пригласительные ссылки](https://seatable.io/ru/docs/universelle-apps/benutzer-und-rollenverwaltung-einer-universellen-app/) приложения
+- [роли пользователей и пригласительные ссылки]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) приложения
 
 ## Создание моментального снимка приложения
 
-1. Откройте **универсальное приложение** в [режиме редактирования](https://seatable.io/ru/docs/apps/apps-bearbeiten/).
+1. Откройте **универсальное приложение** в [режиме редактирования]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
 ![Редактирование приложений](images/Apps-bearbeiten.png)
 

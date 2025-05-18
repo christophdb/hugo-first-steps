@@ -20,7 +20,7 @@ Para utilizar uma aplicação de recuperação de dados na sua base, deve primei
 
 ## Editar definições de uma aplicação de recuperação de dados
 
-Depois de ter criado com êxito a sua aplicação de consulta de dados, pode selecionar a **tabela** e as **colunas** que podem ser pesquisadas para determinados **valores** nas definições da aplicação. {{< seatable-icon icon="dtable-icon-rename" >}} Para o fazer, basta abrir a aplicação no [modo de edição](https://seatable.io/pt/docs/apps/apps-bearbeiten/) utilizando o **ícone de lápis**.
+Depois de ter criado com êxito a sua aplicação de consulta de dados, pode selecionar a **tabela** e as **colunas** que podem ser pesquisadas para determinados **valores** nas definições da aplicação. {{< seatable-icon icon="dtable-icon-rename" >}} Para o fazer, basta abrir a aplicação no [modo de edição]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) utilizando o **ícone de lápis**.
 
 Como a aplicação de consulta de dados se baseia no Universal App Builder, as seguintes opções de definição são idênticas às **páginas de consulta na Universal App**:
 
@@ -32,11 +32,11 @@ Como a aplicação de consulta de dados se baseia no Universal App Builder, as s
 
 Pode **mudar o nome de** uma aplicação de recuperação de dados em qualquer altura. {{< seatable-icon icon="dtable-icon-rename" >}} Basta abrir a aplicação através do ícone do lápis no **modo de edição**. Se clicar no **ícone da roda dentada** no canto superior esquerdo, pode alterar o nome, a cor e o ícone da aplicação.
 
-[Saiba mais sobre as definições globais da aplicação aqui.](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/)
+[Saiba mais sobre as definições globais da aplicação aqui.]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}})
 
 ## Partilhar uma aplicação de consulta de dados
 
-Pode **partilhar** as suas aplicações de consulta de dados com outros utilizadores com apenas alguns cliques. Para tal, aceda à [administração de utilizadores e funções](https://seatable.io/pt/docs/universelle-apps/benutzer-und-rollenverwaltung-einer-universellen-app/) e copie a **ligação da aplicação gerada pelo SeaTable** ou defina uma **ligação personalizada** nas [definições globais](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) da aplicação.
+Pode **partilhar** as suas aplicações de consulta de dados com outros utilizadores com apenas alguns cliques. Para tal, aceda à [administração de utilizadores e funções]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) da aplicação.
 
 ![Partilhar a aplicação de consulta de dados](images/Datenabfrage-App-teilen.png)
 

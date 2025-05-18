@@ -45,6 +45,6 @@ As definições mencionadas até agora afectam **toda** uma **aplicação univer
 
 ![Abrir as definições da página](images/page-permissions-universal-app.png)
 
-Atualmente, a [página individual](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), em particular, oferece inúmeras definições de design adicionais. Por exemplo, pode definir cores diferentes para fundos, tipos de letra, linhas e molduras para os elementos. Para tal, utilize o prático **seletor de cores**.
+Atualmente, a [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), em particular, oferece inúmeras definições de design adicionais. Por exemplo, pode definir cores diferentes para fundos, tipos de letra, linhas e molduras para os elementos. Para tal, utilize o prático **seletor de cores**.
 
 ![Selecionador de cores na aplicação universal](images/Color-Picker-in-der-Universellen-App.png)

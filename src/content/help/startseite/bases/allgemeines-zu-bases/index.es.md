@@ -89,7 +89,7 @@ Puedes [borrar]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) las 
 
 Puede ver y restaurar instantáneas de las bases que posee o administra. Todo lo que necesita saber sobre las instantáneas en SeaTable se puede encontrar en los siguientes artículos
 
-- [Guardar la base actual como una instantánea](https://seatable.io/es/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/)
+- [Guardar la base actual como una instantánea]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}})
 - [Restaurar una instantánea](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
 
 ## Crear una cuenta de correo electrónico en una base

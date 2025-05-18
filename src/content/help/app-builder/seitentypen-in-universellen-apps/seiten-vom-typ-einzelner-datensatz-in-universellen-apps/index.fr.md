@@ -24,7 +24,7 @@ Dans les **paramètres de la page**, vous pouvez sélectionner la **table** dans
 
 ### Éléments statiques
 
-Comme pour les [pages individuelles](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), vous pouvez ajouter aux pages de type enregistrement unique des **éléments statiques** qui servent à l'organisation de la page et qui restent identiques pour tous les enregistrements. Ces éléments sont
+Comme pour les [pages individuelles]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), vous pouvez ajouter aux pages de type enregistrement unique des **éléments statiques** qui servent à l'organisation de la page et qui restent identiques pour tous les enregistrements. Ces éléments sont
 
 - Texte
 - Texte formaté
@@ -35,7 +35,7 @@ Comme pour les [pages individuelles](https://seatable.io/fr/docs/seitentypen-in-
 
 ![Éléments statiques du type de page Enregistrement unique](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
-Pour des informations plus précises sur les **possibilités de réglage** de ces éléments, veuillez consulter [cet article d'aide](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/).
+Pour des informations plus précises sur les **possibilités de réglage** de ces éléments, veuillez consulter [cet article d'aide]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}).
 
 ### Champs du tableau
 

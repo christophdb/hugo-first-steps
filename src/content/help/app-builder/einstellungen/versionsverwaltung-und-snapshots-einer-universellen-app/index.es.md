@@ -14,7 +14,7 @@ Puede utilizar **instantáneas** para guardar la versión actual de una aplicaci
 
 ## Cuándo son útiles las instantáneas de aplicaciones
 
-Las instantáneas de aplicación son **instantáneas** del estado de una aplicación universal y funcionan de forma similar a [las instantáneas de base](https://seatable.io/es/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/). Puedes utilizar las instantáneas de app para guardar la versión actual de una app universal como copia de seguridad, lo que puede resultar útil, por ejemplo, si quieres realizar cambios exhaustivos y, posiblemente, restaurar un estado anterior.
+Las instantáneas de aplicación son **instantáneas** del estado de una aplicación universal y funcionan de forma similar a [las instantáneas de base]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}). Puedes utilizar las instantáneas de app para guardar la versión actual de una app universal como copia de seguridad, lo que puede resultar útil, por ejemplo, si quieres realizar cambios exhaustivos y, posiblemente, restaurar un estado anterior.
 
 {{< warning  headline="Cuidado con la pérdida de datos"  text="A diferencia de las instantáneas de base, las instantáneas de app **no** guardan **registros de datos**, sino sólo la **estructura** y la **configuración** de la app. Esto significa que si cambias o eliminas determinadas entradas de la base subyacente a través de la app universal, no podrás restaurarlas a través de las instantáneas de app." />}}
 
@@ -22,9 +22,9 @@ Las instantáneas de aplicación son **instantáneas** del estado de una aplicac
 
 Una instantánea de aplicación guarda los siguientes elementos y configuraciones:
 
-- [Ajustes](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) como el **nombre**, el **icono** y la **combinación de colores** de la aplicación.
-- [Páginas y carpetas](https://seatable.io/es/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) de la aplicación
-- Ajustes y [autorizaciones](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) para las páginas individuales
+- [Ajustes]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) como el **nombre**, el **icono** y la **combinación de colores** de la aplicación.
+- [Páginas y carpetas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) de la aplicación
+- Ajustes y [autorizaciones]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) para las páginas individuales
 
 ### Lo que no guarda una instantánea de aplicación
 
@@ -33,11 +33,11 @@ Una instantánea de la aplicación no se guarda:
 - la **URL definida por el usuario** de una aplicación
 - los **datos** de la base subyacente
 - los **comentarios** sobre registros de datos individuales
-- las [funciones de los usuarios y los enlaces de invitación](https://seatable.io/es/docs/universelle-apps/benutzer-und-rollenverwaltung-einer-universellen-app/) de la aplicación
+- las [funciones de los usuarios y los enlaces de invitación]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}}) de la aplicación
 
 ## Crear una instantánea de la aplicación
 
-1. Abra una **aplicación universal** en [modo de edición](https://seatable.io/es/docs/apps/apps-bearbeiten/).
+1. Abra una **aplicación universal** en [modo de edición]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
 ![Editar aplicaciones](images/Apps-bearbeiten.png)
 

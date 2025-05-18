@@ -32,7 +32,7 @@ Por supuesto, tienes la opción de deshacer los últimos cambios. Más informaci
 
 ¿Se hacen copias de seguridad automáticas de mi base?|||
 
-Sí, cuando se realizan cambios en una base, se crea diariamente una llamada **instantánea de** la base, que luego puedes restaurar. Para obtener información más detallada, consulte [Guardar la base actual como instantánea](https://seatable.io/es/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) y [Restaurar una instantánea](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Sí, cuando se realizan cambios en una base, se crea diariamente una llamada **instantánea de** la base, que luego puedes restaurar. Para obtener información más detallada, consulte [Guardar la base actual como instantánea]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) y [Restaurar una instantánea](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
 
 ---
 

@@ -29,4 +29,4 @@ Gostaria de adicionar uma aplicação à sua base para poder adaptar o trabalho 
 
 ![Dê um nome à aplicação e confirme com Enviar](images/confirm-to-add-app-to-base.jpg)
 
-Depois de adicionar a aplicação, pode [editá-la](https://seatable.io/pt/docs/apps/apps-bearbeiten/) e concebê-la a seu gosto.
+Depois de adicionar a aplicação, pode [editá-la]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) e concebê-la a seu gosto.

@@ -89,7 +89,7 @@ Vous pouvez [supprimer]({{< relref "help/startseite/bases/loeschen-einer-base" >
 
 Vous pouvez afficher et restaurer les snapshots des bases dont vous êtes le propriétaire ou l'administrateur. Pour tout savoir sur les snapshots dans SeaTable, consultez les articles suivants
 
-- [Enregistrer la base actuelle en tant que snapshot](https://seatable.io/fr/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/)
+- [Enregistrer la base actuelle en tant que snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}})
 - [Restauration d'un snapshot](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
 
 ## Configurer un compte de messagerie dans une base

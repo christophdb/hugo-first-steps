@@ -29,4 +29,4 @@ url: '/es/ayuda/apps-zu-einer-base-hinzufuegen'
 
 ![Asigne un nombre a la aplicación y confirme con Enviar](images/confirm-to-add-app-to-base.jpg)
 
-Una vez añadida la [aplicación](https://seatable.io/es/docs/apps/apps-bearbeiten/), puedes [editarla](https://seatable.io/es/docs/apps/apps-bearbeiten/) y diseñarla a tu gusto.
+Una vez añadida la [aplicación]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) y diseñarla a tu gusto.

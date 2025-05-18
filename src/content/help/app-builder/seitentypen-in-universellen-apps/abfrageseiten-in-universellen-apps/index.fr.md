@@ -67,7 +67,7 @@ Tout en bas, dans les paramètres de la page, vous pouvez limiter les personnes 
 
 ![Autorisation pour les pages individuelles de l'application universelle](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-C'est la seule [autorisation de page](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) que vous pouvez choisir ici. Les pages de requête ne permettent pas d'ajouter ou de supprimer des lignes dans le tableau.
+C'est la seule [autorisation de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que vous pouvez choisir ici. Les pages de requête ne permettent pas d'ajouter ou de supprimer des lignes dans le tableau.
 
 Toutefois, après une recherche de données réussie, les utilisateurs de l'application peuvent actionner [des boutons](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) dans la liste de résultats affichée afin d'**effectuer** certaines **actions**.
 

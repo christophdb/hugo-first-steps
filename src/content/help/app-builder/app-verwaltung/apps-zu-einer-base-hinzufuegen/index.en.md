@@ -29,4 +29,4 @@ You want to add an app to your Base to tailor the work in SeaTable even more ind
 
 ![Name the app and confirm with Submit](images/confirm-to-add-app-to-base.jpg)
 
-Once you have added the app, you can [edit](https://seatable.io/en/docs/apps/apps-bearbeiten/) the [app](https://seatable.io/en/docs/apps/apps-bearbeiten/) and customize it to your liking.
+Once you have added the app, you can [edit]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) and customize it to your liking.

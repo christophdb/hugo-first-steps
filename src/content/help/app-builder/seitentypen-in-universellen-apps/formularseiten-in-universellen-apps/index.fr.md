@@ -56,4 +56,4 @@ Tout en bas, vous pouvez limiter les personnes autorisées à voir la page du fo
 
 ![Autorisation pour les pages individuelles de l'application universelle](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-C'est la seule [autorisation de page](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) que vous pouvez choisir pour les pages de formulaire - car les pages de formulaire ne permettent pas de modifier ou de supprimer des lignes dans le tableau et toute personne qui peut voir la page peut également soumettre des formulaires, c'est-à-dire ajouter des lignes.
+C'est la seule [autorisation de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que vous pouvez choisir pour les pages de formulaire - car les pages de formulaire ne permettent pas de modifier ou de supprimer des lignes dans le tableau et toute personne qui peut voir la page peut également soumettre des formulaires, c'est-à-dire ajouter des lignes.

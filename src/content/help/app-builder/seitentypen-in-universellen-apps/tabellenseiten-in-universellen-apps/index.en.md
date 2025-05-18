@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/tabellenseiten-in-universellen-apps'
 ---
 
-You can use this page type to [add](https://seatable.io/en/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) any **table** from your base as a [page to your universal app](https://seatable.io/en/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/).
+You can use this page type to [add]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
 ![Table page in Universal App](images/Table-page-in-Universal-App.png)
 

@@ -176,4 +176,4 @@ Por último, mas não menos importante, pode restringir quem pode ver a página 
 
 ![Autorização para páginas individuais da aplicação universal](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Esta é a única [autorização de página](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) que pode selecionar para páginas individuais - porque nenhuma linha pode ser adicionada, alterada ou eliminada na tabela através de páginas individuais.
+Esta é a única [autorização de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que pode selecionar para páginas individuais - porque nenhuma linha pode ser adicionada, alterada ou eliminada na tabela através de páginas individuais.

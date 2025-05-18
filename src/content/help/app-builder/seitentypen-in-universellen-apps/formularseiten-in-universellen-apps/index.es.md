@@ -56,4 +56,4 @@ En la parte inferior puede restringir quién puede ver la página del formulario
 
 ![Autorización para páginas individuales de la aplicación universal](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Esta es la única [autorización de página](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) que puede elegir para las páginas de formularios, ya que a través de las páginas de formularios no se puede modificar ni eliminar ninguna fila de la tabla y cualquiera que pueda ver la página también puede enviar formularios, es decir, añadir filas.
+Esta es la única [autorización de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que puede elegir para las páginas de formularios, ya que a través de las páginas de formularios no se puede modificar ni eliminar ninguna fila de la tabla y cualquiera que pueda ver la página también puede enviar formularios, es decir, añadir filas.

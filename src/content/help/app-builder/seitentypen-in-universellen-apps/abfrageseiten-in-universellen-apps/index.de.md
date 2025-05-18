@@ -67,7 +67,7 @@ Ganz unten in den Seiteneinstellungen können Sie eingrenzen, wer die Abfragesei
 
 ![Berechtigung für individuelle Seiten der Universellen App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Das ist die einzige [Seitenberechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/), die Sie hier zur Auswahl haben. Über Abfrageseiten kann man keine Zeilen in der Tabelle hinzufügen oder löschen.
+Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie hier zur Auswahl haben. Über Abfrageseiten kann man keine Zeilen in der Tabelle hinzufügen oder löschen.
 
 Allerdings können die Nutzer der App nach einer erfolgreichen Datenabfrage [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) in der angezeigten Trefferliste betätigen, um bestimmte **Aktionen auszuführen**.
 

@@ -176,4 +176,4 @@ Enfin, vous pouvez limiter les personnes autorisées à voir la page dans les pa
 
 ![Autorisation pour les pages individuelles de l'application universelle](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-C'est la seule [autorisation de page](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) que vous pouvez choisir pour les pages individuelles - car aucune ligne ne peut être ajoutée, modifiée ou supprimée dans le tableau via les pages individuelles.
+C'est la seule [autorisation de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que vous pouvez choisir pour les pages individuelles - car aucune ligne ne peut être ajoutée, modifiée ou supprimée dans le tableau via les pages individuelles.

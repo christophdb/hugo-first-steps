@@ -17,7 +17,11 @@ Dans cet article, vous apprendrez à **supprimer** une **seule ligne**, **plusie
 1. Cliquez avec **le bouton droit de la souris** sur une ligne pour faire apparaître le **menu déroulant**.
 2. Sélectionnez l'option **Supprimer la ligne**.
 
-{{< warning  headline="Avertissement"  text="Avant de supprimer une grande quantité de données, il est recommandé de faire un [snapshot](https://seatable.io/fr/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) de votre base." />}}
+{{< warning  headline="Avertissement" >}}
+
+Avant de supprimer une grande quantité de données, il est recommandé de faire un [snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) de votre base.
+
+{{< /warning >}}
 
 ## Suppression de plusieurs lignes
 

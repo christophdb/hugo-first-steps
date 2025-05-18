@@ -22,7 +22,7 @@ Um eine Universelle App in Ihrer Base nutzen zu können, müssen Sie diese zunä
 
 ## Gestaltung der Universellen App
 
-Nachdem Sie Ihre Universelle App erfolgreich angelegt haben, können Sie mit der Gestaltung beginnen. Achten Sie dabei darauf, stets das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}} zu nutzen, um in den [Bearbeitungsmodus](https://seatable.io/docs/apps/apps-bearbeiten/) der App zu gelangen.
+Nachdem Sie Ihre Universelle App erfolgreich angelegt haben, können Sie mit der Gestaltung beginnen. Achten Sie dabei darauf, stets das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}} zu nutzen, um in den [Bearbeitungsmodus]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) der App zu gelangen.
 
 ![Apps bearbeiten](images/Apps-bearbeiten.png)
 

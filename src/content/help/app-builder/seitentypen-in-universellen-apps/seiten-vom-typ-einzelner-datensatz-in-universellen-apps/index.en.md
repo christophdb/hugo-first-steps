@@ -24,7 +24,7 @@ In the **page settings**, you can select the **table** in which the individual d
 
 ### Static elements
 
-Similar to [individual pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), you can also add **static elements** to pages of the Single data record type, which are used to design the page and remain the same across all data records. These elements are
+Similar to [individual pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), you can also add **static elements** to pages of the Single data record type, which are used to design the page and remain the same across all data records. These elements are
 
 - Text
 - Formatted text
@@ -35,7 +35,7 @@ Similar to [individual pages](https://seatable.io/en/docs/seitentypen-in-univers
 
 ![Static elements of the page type Single data record](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
-For more detailed information on the **setting options** for these elements, please consult [this help article](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/).
+For more detailed information on the **setting options** for these elements, please consult [this help article]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}).
 
 ### Table fields
 

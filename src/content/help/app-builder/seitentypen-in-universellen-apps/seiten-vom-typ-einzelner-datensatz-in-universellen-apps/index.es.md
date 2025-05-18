@@ -24,7 +24,7 @@ En la **configuración de la página**, puede seleccionar la **tabla** en la que
 
 ### Elementos estáticos
 
-De forma similar a las [páginas individuales](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), también puede añadir **elementos estáticos** a las páginas del tipo de registro de datos Único que se utilizan para diseñar la página y permanecen iguales en todos los registros de datos. Estos elementos son
+De forma similar a las [páginas individuales]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), también puede añadir **elementos estáticos** a las páginas del tipo de registro de datos Único que se utilizan para diseñar la página y permanecen iguales en todos los registros de datos. Estos elementos son
 
 - Texto
 - Texto con formato
@@ -35,7 +35,7 @@ De forma similar a las [páginas individuales](https://seatable.io/es/docs/seite
 
 ![Elementos estáticos del tipo de página Registro de datos único](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
-Para obtener información más detallada sobre las **opciones de configuración** de estos elementos, consulte [este artículo de ayuda](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/).
+Para obtener información más detallada sobre las **opciones de configuración** de estos elementos, consulte [este artículo de ayuda]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}).
 
 ### Campos de la tabla
 

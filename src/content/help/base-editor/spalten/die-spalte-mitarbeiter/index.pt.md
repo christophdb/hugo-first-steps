@@ -52,7 +52,7 @@ Ao enviar notificações através de [automatismos](https://seatable.io/pt/docs/
 
 ## A coluna do colaborador em aplicações universais
 
-A coluna do colaborador é também uma vantagem na [aplicação Universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) da aplicação.
+A coluna do colaborador é também uma vantagem na [aplicação Universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) da aplicação.
 
 Se não quiser que os utilizadores da aplicação possam ver os registos de dados de outros utilizadores, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do empregado com a condição "inclui o utilizador atual", cada utilizador da aplicação universal só vê as entradas que lhe estão atribuídas na tabela.
 

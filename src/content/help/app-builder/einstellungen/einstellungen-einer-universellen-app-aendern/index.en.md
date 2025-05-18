@@ -45,7 +45,7 @@ In the second section, you can customize part of the **URL** that you can use to
 
 ## Show and hide navigation
 
-In the third section, you can decide whether the **navigation bar** should be shown or hidden by default when the app is opened. The navigation bar is the area on the left-hand side that all users use to navigate to the app's [pages and folders](https://seatable.io/en/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/).
+In the third section, you can decide whether the **navigation bar** should be shown or hidden by default when the app is opened. The navigation bar is the area on the left-hand side that all users use to navigate to the app's [pages and folders]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
 ![Hide app navigation by default](images/Hide-app-navigation-by-default.png)
 
@@ -71,7 +71,7 @@ In the last section, you can set **open access** for your universal app. On the 
 
 ![Open access to an app](images/Open-access-to-an-app.png)
 
-However, you can also activate that **every logged-in user** who uses your app is **automatically registered as an app user**. In doing so, you determine which **role** is assigned to the users during registration. Depending on their [authorization](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) on the individual pages, users with this role can also add, edit or delete rows .
+However, you can also activate that **every logged-in user** who uses your app is **automatically registered as an app user**. In doing so, you determine which **role** is assigned to the users during registration. Depending on their [authorization]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) on the individual pages, users with this role can also add, edit or delete rows .
 
 ## Edit settings of individual pages
 

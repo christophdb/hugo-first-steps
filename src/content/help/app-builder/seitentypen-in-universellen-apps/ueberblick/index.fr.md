@@ -27,7 +27,7 @@ Pour modifier des pages existantes, cliquez dans la navigation sur le **symbole 
 
 ## Type de page : Tableau
 
-Ce type de page vous permet d'ajouter n'importe quel **tableau** de votre base comme page de votre application universelle. Les [autorisations de page](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) vous permettent de contrôler précisément qui peut voir et modifier les données de cette page. Vous pouvez également définir **des filtres prédéfinis**, des **tris**, des **regroupements** ainsi que **des colonnes masquées et en lecture seule** afin d'adapter, de limiter et d'ordonner les données affichées exactement à un groupe d'utilisateurs.
+Ce type de page vous permet d'ajouter n'importe quel **tableau** de votre base comme page de votre application universelle. Les [autorisations de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) vous permettent de contrôler précisément qui peut voir et modifier les données de cette page. Vous pouvez également définir **des filtres prédéfinis**, des **tris**, des **regroupements** ainsi que **des colonnes masquées et en lecture seule** afin d'adapter, de limiter et d'ordonner les données affichées exactement à un groupe d'utilisateurs.
 
 ![En utilisant le type de page : Tableau Tableau ajouté à votre page](images/page-type-table-example-1.png)
 
@@ -62,7 +62,7 @@ Avec ce type de page, vous pouvez laisser libre cours à votre créativité et c
 
 ![Tableau de bord de gestion dans l'application de saisie du temps de travail](images/Dashboard_2.gif)
 
-[En savoir plus sur les pages individuelles dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/)
+[En savoir plus sur les pages individuelles dans les apps universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}})
 
 ## Type de page : Kanban
 

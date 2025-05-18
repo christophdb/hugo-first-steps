@@ -55,7 +55,7 @@ Para mais informações, ver o artigo [Desfazer Alterações através dos Regist
 
 Um instantâneo guarda um instantâneo de uma base, ou seja, todas as tabelas, vistas, estatísticas e formulários que estão presentes numa base num determinado momento. SeaTable cria um instantâneo a cada 24 horas para Bases que tenham sido trabalhadas activamente - mas também se pode criar instantâneos manualmente. Pode ver os instantâneos e restaurar as versões anteriores.
 
-Para mais informações, ver os artigos [Salvar a base actual como um instantâneo](https://seatable.io/pt/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) e [Restaurar um instantâneo](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Para mais informações, ver os artigos [Salvar a base actual como um instantâneo]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) e [Restaurar um instantâneo](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
 
 {{< warning  headline="Cuidado com a perda de dados"  text="SeaTable **não** armazena o conteúdo da Lixeira, dados de registo e instantâneos indefinidamente. O período de tempo em que a SeaTable mantém esta informação eliminada **depende da sua subscrição**. As alterações feitas no passado, mais do que o período de versões da sua subscrição, **não podem** ser desfeitas. Os instantâneos mais antigos serão eliminados." />}}
 

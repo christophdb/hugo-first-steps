@@ -67,7 +67,7 @@ url: '/ru/help/abfrageseiten-in-universellen-apps'
 
 ![Авторизация для отдельных страниц универсального приложения](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Это единственная [страница](https://seatable.io/ru/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/), которую можно выбрать. Вы не можете добавлять или удалять строки в таблице через страницы запросов.
+Это единственная [страница]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), которую можно выбрать. Вы не можете добавлять или удалять строки в таблице через страницы запросов.
 
 Однако после успешного запроса данных пользователи приложения могут нажимать на [кнопки](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) в отображаемом списке, чтобы **выполнить** определенные **действия**.
 

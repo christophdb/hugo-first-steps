@@ -22,4 +22,4 @@ Sie möchten eine App zu Ihrer Base hinzufügen, um die Arbeit in SeaTable noch 
 4. Bestätigen Sie mit **Abschicken**.
    ![Benennen Sie die App und bestätigen Sie mit Abschicken](images/confirm-to-add-app-to-base.jpg)
 
-Sobald Sie die App hinzugefügt haben, können Sie die [App bearbeiten](https://seatable.io/docs/apps/apps-bearbeiten/) und nach Ihren Vorstellungen gestalten.
+Sobald Sie die App hinzugefügt haben, können Sie die [App bearbeiten]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) und nach Ihren Vorstellungen gestalten.

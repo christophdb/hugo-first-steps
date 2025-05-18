@@ -55,7 +55,7 @@ For more information, see the article [Undoing changes via the logs](https://sea
 
 A snapshot stores a snapshot of a Base, i.e. all tables, views, statistics and forms that exist in a Base at a given time. SeaTable creates a snapshot every 24 hours for Bases that have been actively worked on - but you can also create snapshots manually. You can view the snapshots and restore the previous versions.
 
-For more information, see the articles [Saving the Current Base as a Snapshot](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) and [Restoring a Snapshot](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+For more information, see the articles [Saving the Current Base as a Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) and [Restoring a Snapshot](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
 
 {{< warning  headline="Beware of data loss"  text="SeaTable does **not** store the contents of the Recycle Bin, log data, and snapshots indefinitely. The duration for which SeaTable keeps this deleted information depends **on your subscription**. Changes made further in the past than the versioning duration of your subscription **cannot** be undone. Older snapshots will be deleted." />}}
 

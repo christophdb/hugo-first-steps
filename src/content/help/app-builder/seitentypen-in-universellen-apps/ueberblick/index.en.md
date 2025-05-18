@@ -27,7 +27,7 @@ To edit existing pages, click on the **gear icon** {{< seatable-icon icon="dtabl
 
 ## Page type: Table
 
-You can use this page type to add any **table** from your base as a page to your universal app. You can use the [page permissions](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) to control exactly who can see and edit the data on this page. You can also define **preset filters**, **sorting**, **grouping** and **hidden and read-only columns** to tailor, limit and organize the displayed data precisely to a user group.
+You can use this page type to add any **table** from your base as a page to your universal app. You can use the [page permissions]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) to control exactly who can see and edit the data on this page. You can also define **preset filters**, **sorting**, **grouping** and **hidden and read-only columns** to tailor, limit and organize the displayed data precisely to a user group.
 
 ![Using the page type: Table added to your page](images/page-type-table-example-1.png)
 
@@ -62,7 +62,7 @@ With this page type, you can let your creativity run wild and build a **custom p
 
 ![Management dashboard in the working time recording app](images/Dashboard_2.gif)
 
-[Find out more about individual pages in universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/)
+[Find out more about individual pages in universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}})
 
 ## Page type: Kanban
 

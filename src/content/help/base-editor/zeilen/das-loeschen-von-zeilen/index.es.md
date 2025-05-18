@@ -17,7 +17,11 @@ En este artículo aprenderás a **eliminar** una **fila**, **varias filas** y **
 1. **Haga clic con el botón derecho del ratón** en una línea para abrir el **menú desplegable**.
 2. Seleccione la opción **Borrar Fila**.
 
-{{< warning  headline="Advertencia"  text="Antes de borrar una gran cantidad de datos, es aconsejable hacer una [instantánea de](https://seatable.io/es/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) tu base." />}}
+{{< warning  headline="Advertencia" >}}
+
+Antes de borrar una gran cantidad de datos, es aconsejable hacer una [instantánea de]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) tu base.
+
+{{< /warning >}}
 
 ## Borrar varias líneas
 

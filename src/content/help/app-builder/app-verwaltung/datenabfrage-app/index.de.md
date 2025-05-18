@@ -20,7 +20,7 @@ Um eine Datenabfrage-App in Ihrer Base nutzen zu können, müssen Sie diese zun�
 
 ## Einstellungen einer Datenabfrage-App bearbeiten
 
-Nachdem Sie Ihre Datenabfrage-App erfolgreich angelegt haben, können Sie in den Einstellungen der App die **Tabelle** und die **Spalten** auswählen, die nach gewissen **Werten** durchsucht werden können. Öffnen Sie die App dazu einfach über das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}} im [Bearbeitungsmodus](https://seatable.io/docs/apps/apps-bearbeiten/).
+Nachdem Sie Ihre Datenabfrage-App erfolgreich angelegt haben, können Sie in den Einstellungen der App die **Tabelle** und die **Spalten** auswählen, die nach gewissen **Werten** durchsucht werden können. Öffnen Sie die App dazu einfach über das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}} im [Bearbeitungsmodus]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
 Da die Datenabfrage-App auf dem Universal App Builder basiert, sind die folgenden Einstellungsmöglichkeiten identisch mit den **Abfrageseiten in der Universellen App**:
 
@@ -32,11 +32,11 @@ Da die Datenabfrage-App auf dem Universal App Builder basiert, sind die folgende
 
 Eine Datenabfrage-App können Sie jederzeit **umbenennen**. Öffnen Sie die App dazu einfach über das Stift-Symbol {{< seatable-icon icon="dtable-icon-rename" >}} im **Bearbeitungsmodus**. Wenn Sie dort in der oberen linken Ecke auf das **Zahnrad-Symbol** klicken, können Sie den Namen, die Farbe und das Icon der App ändern.
 
-[Erfahren Sie hier mehr zu den globalen App-Einstellungen.](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/)
+[Erfahren Sie hier mehr zu den globalen App-Einstellungen.]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}})
 
 ## Eine Datenabfrage-App teilen
 
-Ihre Datenabfrage-Apps können Sie mit nur wenigen Klicks mit anderen Nutzern **teilen**. Gehen Sie dafür in die [Benutzer- und Rollenverwaltung](https://seatable.io/docs/universelle-apps/benutzer-und-rollenverwaltung-einer-universellen-app/) und kopieren Sie den **von SeaTable generierten App-Link** oder legen Sie einen **benutzerdefinierten Link** in den [globalen Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) der App fest.
+Ihre Datenabfrage-Apps können Sie mit nur wenigen Klicks mit anderen Nutzern **teilen**. Gehen Sie dafür in die [Benutzer- und Rollenverwaltung]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) der App fest.
 
 \[caption id="attachment_31027" align="alignnone" width="1152"\]![Datenabfrage-App teilen](images/Datenabfrage-App-teilen.png) Von SeaTable generierter App-Link\[/caption\]
 

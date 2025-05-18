@@ -45,7 +45,7 @@ En la segunda sección, puede personalizar parte de la **URL** con la que puede 
 
 ## Mostrar y ocultar la navegación
 
-En la tercera sección, puedes decidir si la **barra de navegación** debe mostrarse u ocultarse por defecto al abrir la aplicación. La barra de navegación es el área de la izquierda que todos los usuarios utilizan para navegar a las [páginas y carpetas](https://seatable.io/es/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) de la app.
+En la tercera sección, puedes decidir si la **barra de navegación** debe mostrarse u ocultarse por defecto al abrir la aplicación. La barra de navegación es el área de la izquierda que todos los usuarios utilizan para navegar a las [páginas y carpetas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) de la app.
 
 ![Ocultar la navegación de la aplicación por defecto](images/Hide-app-navigation-by-default.png)
 
@@ -71,7 +71,7 @@ En la última sección, puedes configurar **el acceso abierto** para tu app univ
 
 ![Acceso abierto a una aplicación](images/Open-access-to-an-app.png)
 
-Sin embargo, también puede activar que **cada usuario conectado** que utilice su aplicación se **registre automáticamente como usuario de la aplicación**. Al hacerlo, usted determina qué **rol** se asigna a los usuarios durante el registro. Dependiendo de su [autorización](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) en las páginas individuales, los usuarios con este rol también pueden añadir, editar o eliminar filas.
+Sin embargo, también puede activar que **cada usuario conectado** que utilice su aplicación se **registre automáticamente como usuario de la aplicación**. Al hacerlo, usted determina qué **rol** se asigna a los usuarios durante el registro. Dependiendo de su [autorización]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) en las páginas individuales, los usuarios con este rol también pueden añadir, editar o eliminar filas.
 
 ## Editar la configuración de páginas individuales
 

@@ -27,7 +27,7 @@ Um bestehende Seiten zu bearbeiten, klicken Sie in der Navigation auf das **Zahn
 
 ## Seitentyp: Tabelle
 
-Mithilfe dieses Seitentyps können Sie eine beliebige **Tabelle** Ihrer Base als Seite zu Ihrer Universellen App hinzufügen. Über die [Seitenberechtigungen](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) können Sie genau steuern, wer die Daten auf dieser Seite sehen und bearbeiten darf. Außerdem können Sie **voreingestellte Filter**, **Sortierungen**, **Gruppierungen** sowie **ausgeblendete und schreibgeschützte Spalten** definieren, um die angezeigten Daten exakt auf eine Nutzergruppe zuzuschneiden, einzugrenzen und zu ordnen.
+Mithilfe dieses Seitentyps können Sie eine beliebige **Tabelle** Ihrer Base als Seite zu Ihrer Universellen App hinzufügen. Über die [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) können Sie genau steuern, wer die Daten auf dieser Seite sehen und bearbeiten darf. Außerdem können Sie **voreingestellte Filter**, **Sortierungen**, **Gruppierungen** sowie **ausgeblendete und schreibgeschützte Spalten** definieren, um die angezeigten Daten exakt auf eine Nutzergruppe zuzuschneiden, einzugrenzen und zu ordnen.
 
 ![Mithilfe des Seitentyps: Tabelle hinzugefügte Tabelle zu Ihrer Seite](images/page-type-table-example-1.png)
 
@@ -62,7 +62,7 @@ Mit diesem Seitentyp können Sie Ihrer Kreativität freien Lauf lassen und eine 
 
 ![Management Dashboard in der App zur Arbeitszeiterfassung](images/Dashboard_2.gif)
 
-[Erfahren Sie mehr über individuelle Seiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/)
+[Erfahren Sie mehr über individuelle Seiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}})
 
 ## Seitentyp: Kanban
 

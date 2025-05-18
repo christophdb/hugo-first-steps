@@ -32,7 +32,7 @@ Também é possível desfazer as últimas entradas?|||
 
 São feitos os backups automáticos da minha base?|||
 
-Sim, quando são feitas alterações a uma base, é criada diariamente uma chamada **fotografia** da base, que pode depois ser restaurada. Para informações mais detalhadas, ver [Salvar a Base Actual como um Instantâneo](https://seatable.io/pt/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) e [Restaurar um Instantâneo](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Sim, quando são feitas alterações a uma base, é criada diariamente uma chamada **fotografia** da base, que pode depois ser restaurada. Para informações mais detalhadas, ver [Salvar a Base Actual como um Instantâneo]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) e [Restaurar um Instantâneo](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
 
 ---
 

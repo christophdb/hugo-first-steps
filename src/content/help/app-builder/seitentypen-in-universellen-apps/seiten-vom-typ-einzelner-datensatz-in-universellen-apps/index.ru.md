@@ -24,7 +24,7 @@ url: '/ru/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 
 ### Статические элементы
 
-Как и на [отдельные страницы](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), на страницы типа "Одна запись данных" можно добавлять **статические элементы**, которые используются для оформления страницы и остаются неизменными для всех записей данных. К таким элементам относятся
+Как и на [отдельные страницы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), на страницы типа "Одна запись данных" можно добавлять **статические элементы**, которые используются для оформления страницы и остаются неизменными для всех записей данных. К таким элементам относятся
 
 - Текст
 - Форматированный текст
@@ -35,7 +35,7 @@ url: '/ru/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 
 ![Статические элементы типа страницы Одиночная запись данных](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
-Для получения более подробной информации о **настройках** этих элементов обратитесь к [этой статье справки](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/).
+Для получения более подробной информации о **настройках** этих элементов обратитесь к [этой статье справки]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}).
 
 ### Поля таблицы
 

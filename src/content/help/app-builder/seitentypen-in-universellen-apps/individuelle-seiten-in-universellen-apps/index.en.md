@@ -176,4 +176,4 @@ Last but not least, you can limit who can see the page in the page settings.
 
 ![Authorization for individual pages of the Universal App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-This is the only [page authorization](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) you have to choose from for individual pages - because individual pages cannot be used to add, change or delete rows in the table.
+This is the only [page authorization]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) you have to choose from for individual pages - because individual pages cannot be used to add, change or delete rows in the table.

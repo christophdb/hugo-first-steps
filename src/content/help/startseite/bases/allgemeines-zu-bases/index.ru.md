@@ -89,7 +89,7 @@ url: '/ru/help/bases'
 
 Вы можете просматривать и восстанавливать моментальные снимки баз, которыми вы владеете или управляете. Все, что вам нужно знать о моментальных снимках в SeaTable, можно найти в следующих статьях
 
-- [Сохранение текущей базы в виде моментального снимка](https://seatable.io/ru/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/)
+- [Сохранение текущей базы в виде моментального снимка]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}})
 - [Восстановление моментального снимка](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
 
 ## Настройка учетной записи электронной почты в базе

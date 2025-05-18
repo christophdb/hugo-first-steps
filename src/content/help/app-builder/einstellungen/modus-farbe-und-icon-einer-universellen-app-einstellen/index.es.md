@@ -45,6 +45,6 @@ Los ajustes mencionados hasta ahora afectan a **toda** una **aplicación univers
 
 ![Abrir la configuración de la página](images/page-permissions-universal-app.png)
 
-Actualmente, la [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) en particular ofrece numerosos ajustes de diseño adicionales. Por ejemplo, puede definir distintos colores para los fondos, las fuentes, las líneas y los marcos de los elementos. Utilice para ello el práctico **selector de colores**.
+Actualmente, la [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) en particular ofrece numerosos ajustes de diseño adicionales. Por ejemplo, puede definir distintos colores para los fondos, las fuentes, las líneas y los marcos de los elementos. Utilice para ello el práctico **selector de colores**.
 
 ![Selector de color en la aplicación universal](images/Color-Picker-in-der-Universellen-App.png)

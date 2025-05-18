@@ -45,7 +45,7 @@ Na segunda secção, pode personalizar parte do **URL** com o qual pode chamar e
 
 ## Mostrar e ocultar a navegação
 
-Na terceira secção, pode decidir se a **barra de navegação** deve ser mostrada ou ocultada por predefinição quando a aplicação é aberta. A barra de navegação é a área do lado esquerdo que todos os utilizadores utilizam para navegar para as [páginas e pastas](https://seatable.io/pt/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) da aplicação.
+Na terceira secção, pode decidir se a **barra de navegação** deve ser mostrada ou ocultada por predefinição quando a aplicação é aberta. A barra de navegação é a área do lado esquerdo que todos os utilizadores utilizam para navegar para as [páginas e pastas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) da aplicação.
 
 ![Ocultar a navegação da aplicação por predefinição](images/Hide-app-navigation-by-default.png)
 
@@ -71,7 +71,7 @@ Na última secção, pode definir **o acesso aberto** para a sua aplicação uni
 
 ![Acesso aberto a uma aplicação](images/Open-access-to-an-app.png)
 
-No entanto, também pode ativar que **cada utilizador com sessão iniciada** que utilize a sua aplicação seja **automaticamente registado como um utilizador da aplicação**. Ao fazê-lo, determina que **função** é atribuída aos utilizadores durante o registo. Dependendo da sua [autorização](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) nas páginas individuais, os utilizadores com esta função também podem adicionar, editar ou eliminar linhas.
+No entanto, também pode ativar que **cada utilizador com sessão iniciada** que utilize a sua aplicação seja **automaticamente registado como um utilizador da aplicação**. Ao fazê-lo, determina que **função** é atribuída aos utilizadores durante o registo. Dependendo da sua [autorização]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) nas páginas individuais, os utilizadores com esta função também podem adicionar, editar ou eliminar linhas.
 
 ## Editar definições de páginas individuais
 

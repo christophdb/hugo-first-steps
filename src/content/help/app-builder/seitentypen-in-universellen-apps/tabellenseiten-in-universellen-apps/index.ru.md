@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/ru/help/tabellenseiten-in-universellen-apps'
 ---
 
-Вы можете использовать этот тип страницы, чтобы [добавить](https://seatable.io/ru/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) любую **таблицу** из вашей базы в качестве [страницы в универсальное приложение](https://seatable.io/ru/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/).
+Вы можете использовать этот тип страницы, чтобы [добавить]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
 ![Страница таблицы в универсальном приложении](images/Table-page-in-Universal-App.png)
 

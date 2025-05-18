@@ -67,7 +67,7 @@ En la parte inferior de la configuración de la página, puede restringir quién
 
 ![Autorización para páginas individuales de la aplicación universal](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Esta es la única [autorización de página](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) que puede seleccionar aquí. No puede añadir o eliminar filas en la tabla a través de páginas de consulta.
+Esta es la única [autorización de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que puede seleccionar aquí. No puede añadir o eliminar filas en la tabla a través de páginas de consulta.
 
 Sin embargo, tras una consulta de datos satisfactoria, los usuarios de la aplicación pueden hacer clic en [los botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/) de la lista de aciertos mostrada para realizar determinadas **acciones**.
 

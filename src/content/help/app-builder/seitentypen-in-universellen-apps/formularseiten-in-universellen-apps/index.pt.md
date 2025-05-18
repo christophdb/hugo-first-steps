@@ -56,4 +56,4 @@ Na parte inferior, pode restringir quem pode ver a página do formulário.
 
 ![Autorização para páginas individuais da aplicação universal](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Esta é a única [autorização de página](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) que tem de escolher para as páginas de formulário - porque nenhuma linha na tabela pode ser alterada ou eliminada através de páginas de formulário e qualquer pessoa que possa ver a página também pode submeter formulários, ou seja, adicionar linhas.
+Esta é a única [autorização de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que tem de escolher para as páginas de formulário - porque nenhuma linha na tabela pode ser alterada ou eliminada através de páginas de formulário e qualquer pessoa que possa ver a página também pode submeter formulários, ou seja, adicionar linhas.

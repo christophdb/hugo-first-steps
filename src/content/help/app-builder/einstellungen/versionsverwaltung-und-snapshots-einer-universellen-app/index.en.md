@@ -14,7 +14,7 @@ You can use **snapshots** to save the current version of a universal app. You ca
 
 ## When app snapshots are useful
 
-App snapshots are **snapshots** of the state of a universal app and work in a similar way to [base snapshots](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/). You can use app snapshots to save the current version of a universal app as a backup copy, which can be useful, for example, if you want to make extensive changes and possibly restore a previous state.
+App snapshots are **snapshots** of the state of a universal app and work in a similar way to [base snapshots]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}). You can use app snapshots to save the current version of a universal app as a backup copy, which can be useful, for example, if you want to make extensive changes and possibly restore a previous state.
 
 {{< warning  headline="Beware of data loss"  text="Unlike base snapshots, app snapshots **do not** save **data records**, but only the **structure** and **settings** of the app. This means that if you change or delete certain entries in the underlying base via the universal app, you cannot restore them via the app snapshots." />}}
 
@@ -22,9 +22,9 @@ App snapshots are **snapshots** of the state of a universal app and work in a si
 
 An app snapshot saves the following elements and settings:
 
-- [Settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) such as **name**, **icon** and **color scheme** of the app
-- [Pages and folders](https://seatable.io/en/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) of the app
-- Settings and [authorizations](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) for the individual pages
+- [Settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern" >}}) such as **name**, **icon** and **color scheme** of the app
+- [Pages and folders]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) of the app
+- Settings and [authorizations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) for the individual pages
 
 ### What an app snapshot does not save
 
@@ -33,11 +33,11 @@ An app snapshot does not save:
 - the **user-defined URL** of an app
 - the **data** of the underlying base
 - the **comments** on individual data records
-- the app's [user roles and invitation links](https://seatable.io/en/docs/universelle-apps/benutzer-und-rollenverwaltung-einer-universellen-app/)
+- the app's [user roles and invitation links]({{< relref "help/app-builder/einstellungen/benutzer-und-rollenverwaltung-einer-universellen-app" >}})
 
 ## Create app snapshot
 
-1. Open a **universal app** in [edit mode](https://seatable.io/en/docs/apps/apps-bearbeiten/).
+1. Open a **universal app** in [edit mode]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}).
 
 ![Edit apps](images/Apps-bearbeiten.png)
 

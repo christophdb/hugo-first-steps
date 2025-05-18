@@ -24,7 +24,7 @@ In den **Seiteneinstellungen** können Sie die **Tabelle** auswählen, in der di
 
 ### Statische Elemente
 
-Ähnlich wie auf [individuellen Seiten](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) können Sie auch auf Seiten des Typs Einzelner Datensatz **statische Elemente** hinzufügen, die zur Gestaltung der Seite dienen und über alle Datensätze hinweg gleich bleiben. Diese Elemente sind:
+Ähnlich wie auf [individuellen Seiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) können Sie auch auf Seiten des Typs Einzelner Datensatz **statische Elemente** hinzufügen, die zur Gestaltung der Seite dienen und über alle Datensätze hinweg gleich bleiben. Diese Elemente sind:
 
 - Text
 - Formatierter Text
@@ -35,7 +35,7 @@ In den **Seiteneinstellungen** können Sie die **Tabelle** auswählen, in der di
 
 ![Statische Elemente des Seitentyps Einzelner Datensatz](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
-Für genauere Informationen zu den **Einstellungsmöglichkeiten** dieser Elemente konsultieren Sie bitte [diesen Hilfeartikel](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/).
+Für genauere Informationen zu den **Einstellungsmöglichkeiten** dieser Elemente konsultieren Sie bitte [diesen Hilfeartikel]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}).
 
 ### Tabellenfelder
 

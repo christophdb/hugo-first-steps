@@ -29,4 +29,4 @@ Vous souhaitez ajouter une application à votre base afin de personnaliser davan
 
 ![Nommez l'application et confirmez en cliquant sur Envoyer](images/confirm-to-add-app-to-base.jpg)
 
-Une fois que vous avez ajouté l'application, vous pouvez la [modifier](https://seatable.io/fr/docs/apps/apps-bearbeiten/) et la personnaliser à votre guise.
+Une fois que vous avez ajouté l'application, vous pouvez la [modifier]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) et la personnaliser à votre guise.

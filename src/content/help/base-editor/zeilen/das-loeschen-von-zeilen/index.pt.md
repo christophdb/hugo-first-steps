@@ -17,7 +17,11 @@ Neste artigo aprenderá como **eliminar** uma **única linha**, **várias linhas
 1. **Clique com o botão direito do rato** sobre uma linha para abrir o **menu pendente**.
 2. Seleccionar a opção **Eliminar Fila**.
 
-{{< warning  headline="Advertência"  text="Antes de apagar uma grande quantidade de dados, é aconselhável tirar um [instantâneo da](https://seatable.io/pt/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) sua base." />}}
+{{< warning  headline="Advertência" >}}
+
+Antes de apagar uma grande quantidade de dados, é aconselhável tirar um [instantâneo da]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) sua base.
+
+{{< /warning >}}
 
 ## Apagar várias linhas
 

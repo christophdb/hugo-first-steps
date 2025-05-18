@@ -22,7 +22,7 @@ Para utilizar uma aplicação universal na sua base, deve primeiro **adicioná-l
 
 ## Concepção da aplicação universal
 
-Depois de ter criado com êxito a sua aplicação universal, pode começar a desenhá-la. Certifique-se de que utiliza sempre o **ícone de lápis** {{< seatable-icon icon="dtable-icon-rename" >}} para entrar no [modo de edição da](https://seatable.io/pt/docs/apps/apps-bearbeiten/) aplicação.
+Depois de ter criado com êxito a sua aplicação universal, pode começar a desenhá-la. Certifique-se de que utiliza sempre o **ícone de lápis** {{< seatable-icon icon="dtable-icon-rename" >}} para entrar no [modo de edição da]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) aplicação.
 
 ![Editar aplicações](images/Apps-bearbeiten.png)
 
