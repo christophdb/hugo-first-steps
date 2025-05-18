@@ -96,7 +96,7 @@ The File column type stores any number of files of **any file type**. For numero
 
 Icon: {{< seatable-icon icon="dtable-icon-email" >}} **E-mail**
 
-Email columns are specialized text columns for capturing and storing **email addresses** and allow direct use with a mouse click. The email column is especially handy for web forms. Using an email field in place of a text column ensures that the input has the syntax of a valid email address. In addition, email columns can be used to send emails via [buttons](https://seatable.io/en/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) and [automations](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/).
+Email columns are specialized text columns for capturing and storing **email addresses** and allow direct use with a mouse click. The email column is especially handy for web forms. Using an email field in place of a text column ensures that the input has the syntax of a valid email address. In addition, email columns can be used to send emails via [buttons]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) and [automations]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
 If you need more detailed information about the email column, take a look at this [article](https://seatable.io/en/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
 

@@ -57,6 +57,6 @@ url: '/ru/help/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 
 ## Отправляйте электронные письма с помощью автоматизации или кнопки
 
-Затем вы можете использовать учетную запись электронной почты, созданную в вашей базе SeaTable, для [автоматической](https://seatable.io/ru/docs/beispiel-automationen/e-mail-versand-per-automation/) или [кнопочной](https://seatable.io/ru/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) отправки писем.
+Затем вы можете использовать учетную запись электронной почты, созданную в вашей базе SeaTable, для [автоматической]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) отправки писем.
 
 Если вы хотите узнать больше об этой полезной функции, прочитайте статью [Настройка учетной записи электронной почты в Base](https://seatable.io/ru/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).

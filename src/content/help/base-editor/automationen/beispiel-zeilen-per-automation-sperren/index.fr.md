@@ -82,4 +82,4 @@ Vous trouverez plus d'informations sur le verrouillage des lignes dans l'article
 - [Ajouter des lignes par automatisation](https://seatable.io/fr/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
 - [Ajouter des entrées dans d'autres tableaux par automatisation](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
 - [Envoyer des notifications par automatisation](https://seatable.io/fr/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
-- [Envoi d'e-mails par automatisation](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [Envoi d'e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

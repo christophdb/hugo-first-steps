@@ -85,7 +85,7 @@ Die Automations-Aktion "E-Mail versenden" steht Ihnen derzeit bei folgenden **Au
 - Periodischer Trigger
 - Periodischer Trigger für Einträge, die eine bestimmte Bedingung erfüllen
 
-Der Artikel [E-Mail-Versand per Automation](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
+Der Artikel [E-Mail-Versand per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
 
 ## Automations-Aktion: Zeile hinzufügen
 

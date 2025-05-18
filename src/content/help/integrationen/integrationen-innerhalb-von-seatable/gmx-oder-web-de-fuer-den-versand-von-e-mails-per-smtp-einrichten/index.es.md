@@ -57,6 +57,6 @@ Un ejemplo de configuración para una cuenta GMX es el siguiente:
 
 ## Envío automatizado de correos electrónicos
 
-A continuación, puede utilizar la cuenta de correo electrónico creada en su Base SeaTable para enviar correos electrónicos mediante automatización o [botón](https://seatable.io/es/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/).
+A continuación, puede utilizar la cuenta de correo electrónico creada en su Base SeaTable para enviar correos electrónicos mediante automatización o [botón]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
-Si desea obtener más información sobre esta útil automatización, lea el artículo [Envío de correo electrónico mediante automatización](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/).
+Si desea obtener más información sobre esta útil automatización, lea el artículo [Envío de correo electrónico mediante automatización]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

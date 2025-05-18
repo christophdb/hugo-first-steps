@@ -18,7 +18,7 @@ Puedes exportar el estado actual de tus bases incluyendo todas las tablas, [vist
 
 ![Bases de exportación](images/export-bases.png)
 
-SeaTable utiliza el [formato de archivo DTABLE](https://seatable.io/es/docs/import-von-daten/dtable-dateiformat/) para exportar bases. Para más información, consulte el artículo [Guardar una base como archivo](https://seatable.io/es/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) DTABLE.
+SeaTable utiliza el [formato de archivo DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) para exportar bases. Para más información, consulte el artículo [Guardar una base como archivo](https://seatable.io/es/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) DTABLE.
 
 ## Tabla de exportación
 
@@ -30,7 +30,7 @@ Inicie la exportación de una tabla desde Base. Haga clic en la flecha desplegab
 
 ## Base de importación
 
-SeaTable admite la importación de bases desde su propio [formato DTABLE](https://seatable.io/es/docs/import-von-daten/dtable-dateiformat/), desde **archivos Excel** y desde el **formato** genérico **CSV**. Al importar un archivo **DTABLE**, la base se restablece exactamente con el mismo aspecto que tenía en el momento de la exportación. Al importar un archivo CSV o Excel, los valores del archivo CSV/XLSX se copian en columnas de tabla de una nueva base, y SeaTable intenta interpretar los tipos de columna basándose en los datos.
+SeaTable admite la importación de bases desde su propio [formato DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), desde **archivos Excel** y desde el **formato** genérico **CSV**. Al importar un archivo **DTABLE**, la base se restablece exactamente con el mismo aspecto que tenía en el momento de la exportación. Al importar un archivo CSV o Excel, los valores del archivo CSV/XLSX se copian en columnas de tabla de una nueva base, y SeaTable intenta interpretar los tipos de columna basándose en los datos.
 
 ![Importar datos a una base](images/import-data-into-your-base.png)
 

@@ -18,7 +18,7 @@ Actualmente hay cinco áreas en las que puede utilizar la sintaxis Markdown en S
 
 - Columnas del tipo de [texto formateado](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Descripciones básicas](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
-- Textos de correo electrónico al enviar mediante [automatizaciones](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/) y [botones](https://seatable.io/es/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+- Textos de correo electrónico al enviar mediante [automatizaciones]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Aplicaciones universales](https://seatable.io/es/docs/apps/universelle-app/)
 

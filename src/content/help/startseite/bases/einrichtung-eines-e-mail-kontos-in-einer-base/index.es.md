@@ -44,14 +44,14 @@ A continuación, defina el **asunto**, el **destinatario** y el **contenido** de
 
 Si se ha establecido correctamente una conexión con el servidor de correo electrónico, aparecerá un breve mensaje de éxito y debería llegar un mensaje de correo electrónico de la cuenta de correo electrónico configurada al buzón del destinatario especificado.
 
-Si todo ha funcionado según lo descrito, ha configurado correctamente su cuenta de correo electrónico en SeaTable y puede empezar a enviar correos electrónicos mediante [automatización](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/) o [botón](https://seatable.io/es/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/).
+Si todo ha funcionado según lo descrito, ha configurado correctamente su cuenta de correo electrónico en SeaTable y puede empezar a enviar correos electrónicos mediante [automatización]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
 ## Enviar correo electrónico desde una base
 
 Después de haber añadido su cuenta de correo electrónico en una Base, tiene **dos** opciones diferentes para enviar correos electrónicos:
 
-- [Envío automatizado de correos electrónicos](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/)
-- [Envío por correo electrónico mediante un botón](https://seatable.io/es/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+- [Envío automatizado de correos electrónicos]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Envío por correo electrónico mediante un botón]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
 De ambas formas, se define un correo electrónico estandarizado cuyo **texto** sigue siendo el **mismo para todos los destinatarios y registros**. Por lo tanto, esta función no es adecuada para los e-mails cuyo contenido varía mucho de un caso a otro. Sin embargo, puede **citar** **entradas** de diferentes columnas, por ejemplo insertar el nombre respectivo en el saludo o el número de pedido en el asunto, para **personalizar** en cierta medida el **correo** electrónico respectivo y enriquecerlo con los datos de la línea en cuestión.
 
@@ -73,6 +73,6 @@ De ambas formas, se define un correo electrónico estandarizado cuyo **texto** s
 
 ¿Se exportan también las cuentas de correo electrónico al exportar una base?|||
 
-**No**, las cuentas de correo electrónico configuradas en una base **no se exportan al [archivo DTABLE](https://seatable.io/es/docs/import-von-daten/dtable-dateiformat/)**.
+**No**, las cuentas de correo electrónico configuradas en una base **no se exportan al [archivo DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 
 {{< /faq >}}

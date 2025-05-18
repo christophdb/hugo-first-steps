@@ -101,6 +101,6 @@ Now you need to add your Gmail account as a third party in your SeaTable Base. T
 
 ## Send emails via automation
 
-After that, you can use the email account created in your SeaTable Base to send emails via automation or [button.](https://seatable.io/en/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+After that, you can use the email account created in your SeaTable Base to send emails via automation or [button.]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
-If you want to learn more about this useful automation, read the article [Email Sending by Automation](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/).
+If you want to learn more about this useful automation, read the article [Email Sending by Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

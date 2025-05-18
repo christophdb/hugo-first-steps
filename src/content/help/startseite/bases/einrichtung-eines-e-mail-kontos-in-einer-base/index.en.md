@@ -44,14 +44,14 @@ Then define the **subject**, **recipient**, and **content of** the test email. F
 
 If a connection to the e-mail server has been successfully established, a brief success message appears and an e-mail from the configured e-mail account should arrive in the specified recipient mailbox.
 
-If everything worked as described, you have successfully set up your email account in SeaTable and can start sending emails via [automation](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/) or [button](https://seatable.io/en/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/).
+If everything worked as described, you have successfully set up your email account in SeaTable and can start sending emails via [automation]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
 ## Sending e-mail from a base
 
 After adding your email account in a Base, you will have **two** different options for sending emails:
 
-- [E-mail dispatch via automation](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/)
-- [E-mail dispatch by button](https://seatable.io/en/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+- [E-mail dispatch via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [E-mail dispatch by button]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
 In both ways, you define a standardized e-mail whose **text** remains the **same for all recipients and records**. Therefore, this function is not suitable for e-mails whose content varies greatly from case to case. However, you can **quote** **entries** from different columns, for example insert the respective name in the salutation or the order number in the subject, in order to **personalize** the respective **e-mail to** some extent and enrich it with the data from the row concerned.
 
@@ -73,6 +73,6 @@ Are e-mail accounts copied when a base is copied?|||
 
 Are e-mail accounts exported when exporting a base?|||
 
-**No**, the e-mail accounts set up in a base are **not exported to the [DTABLE file](https://seatable.io/en/docs/import-von-daten/dtable-dateiformat/)**.
+**No**, the e-mail accounts set up in a base are **not exported to the [DTABLE file]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 
 {{< /faq >}}

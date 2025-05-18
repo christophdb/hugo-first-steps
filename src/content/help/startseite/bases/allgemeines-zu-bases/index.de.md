@@ -78,7 +78,7 @@ Wenn sich eine Vielzahl an Bases auf Ihrer Startseite angesammelt hat, kann es f
 
 ## Base exportieren
 
-Zur Datensicherung, für die Übertragung an einen anderen Benutzer oder den Transfer auf einen anderen SeaTable Server können Sie Bases exportieren. Grundsätzlich erfolgt der Export in eine [DTABLE-Datei](https://seatable.io/docs/import-von-daten/dtable-dateiformat/).
+Zur Datensicherung, für die Übertragung an einen anderen Benutzer oder den Transfer auf einen anderen SeaTable Server können Sie Bases exportieren. Grundsätzlich erfolgt der Export in eine [DTABLE-Datei]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}).
 
 Mehr Informationen zum Export von Bases finden Sie im Beitrag [Speichern einer Base als DTABLE-Datei]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
 

@@ -18,7 +18,7 @@ La **page d'accueil** vous permet d'exporter l'état actuel de vos bases, y comp
 
 ![Exportation de bases](images/export-bases.png)
 
-Pour exporter des bases, SeaTable utilise le [format de fichier DTABLE](https://seatable.io/fr/docs/import-von-daten/dtable-dateiformat/). Pour plus d'informations, consultez l'article [Enregistrer une base en tant que fichier DTABLE](https://seatable.io/fr/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
+Pour exporter des bases, SeaTable utilise le [format de fichier DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). Pour plus d'informations, consultez l'article [Enregistrer une base en tant que fichier DTABLE](https://seatable.io/fr/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
 
 ## Exporter le tableau
 
@@ -30,7 +30,7 @@ Vous lancez l'exportation d'un tableau à partir de la base. Cliquez sur la flè
 
 ## Importer la base
 
-SeaTable prend en charge l'importation de bases depuis son propre [format DTABLE](https://seatable.io/fr/docs/import-von-daten/dtable-dateiformat/), depuis **des fichiers Excel** ainsi que depuis le **format** générique **CSV**. Lors de l'importation d'un **fichier DTABLE**, la base est restaurée exactement telle qu'elle était au moment de l'exportation. Lors de l'importation de fichiers CSV ou Excel, les valeurs du fichier CSV/XLSX sont copiées dans les colonnes du tableau d'une nouvelle base, SeaTable essayant d'interpréter les types de colonnes en fonction des données.
+SeaTable prend en charge l'importation de bases depuis son propre [format DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), depuis **des fichiers Excel** ainsi que depuis le **format** générique **CSV**. Lors de l'importation d'un **fichier DTABLE**, la base est restaurée exactement telle qu'elle était au moment de l'exportation. Lors de l'importation de fichiers CSV ou Excel, les valeurs du fichier CSV/XLSX sont copiées dans les colonnes du tableau d'une nouvelle base, SeaTable essayant d'interpréter les types de colonnes en fonction des données.
 
 ![Importation de données dans une base](images/import-data-into-your-base.png)
 

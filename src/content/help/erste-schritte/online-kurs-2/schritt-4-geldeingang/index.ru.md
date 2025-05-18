@@ -39,5 +39,5 @@ url: '/ru/help/schritt-4-geldeingang'
 - [Настройка учетной записи электронной почты в базе](https://seatable.io/ru/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/)
 - [Настройте Gmail для отправки писем через SMTP](https://seatable.io/ru/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
 - [Кнопка](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/)
-- [Отправка сообщения электронной почты с помощью кнопки](https://seatable.io/ru/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
-- [Электронная почта с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [Отправка сообщения электронной почты с помощью кнопки]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
+- [Электронная почта с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

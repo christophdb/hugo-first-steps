@@ -19,7 +19,7 @@ Wie Sie Bases und Tabellen aus SeaTable exportieren und in SeaTable importieren 
 
 ![Export von Bases](images/export-bases.png)
 
-Für den Export von Bases verwendet SeaTable das [DTABLE-Dateiformat](https://seatable.io/docs/import-von-daten/dtable-dateiformat/). Weitere Informationen erhalten Sie im Artikel [Speichern einer Base als DTABLE-Datei](https://seatable.io/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
+Für den Export von Bases verwendet SeaTable das [DTABLE-Dateiformat]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). Weitere Informationen erhalten Sie im Artikel [Speichern einer Base als DTABLE-Datei](https://seatable.io/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
 
 ## Tabelle exportieren
 
@@ -31,7 +31,7 @@ Sie starten den Export einer Tabelle aus der Base heraus. Klicken Sie auf den Dr
 
 ## Base importieren
 
-SeaTable unterstützt den Import von Bases aus dem eigenen [DTABLE-Format](https://seatable.io/docs/import-von-daten/dtable-dateiformat/), aus **Excel-Dateien** sowie aus dem generischen **CSV-Format**. Beim Import einer **DTABLE-Datei** wird die Base genauso wiederhergestellt, wie sie zum Zeitpunkt des Exports aussah. Beim CSV- oder Excel-Import werden die Werte der CSV/XLSX-Datei in Tabellenspalten einer neuen Base kopiert, wobei SeaTable versucht die Spaltentypen anhand der Daten zu deuten.
+SeaTable unterstützt den Import von Bases aus dem eigenen [DTABLE-Format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), aus **Excel-Dateien** sowie aus dem generischen **CSV-Format**. Beim Import einer **DTABLE-Datei** wird die Base genauso wiederhergestellt, wie sie zum Zeitpunkt des Exports aussah. Beim CSV- oder Excel-Import werden die Werte der CSV/XLSX-Datei in Tabellenspalten einer neuen Base kopiert, wobei SeaTable versucht die Spaltentypen anhand der Daten zu deuten.
 
 ![Import von Daten in eine Base](images/import-data-into-your-base.png)
 

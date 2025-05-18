@@ -75,5 +75,5 @@ Glückwunsch! Sie haben soeben Ihre erste E-Mail über SeaTable verschickt – a
 - [Einrichten eines E-Mail-Kontos in einer Base](https://seatable.io/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/)
 - [Gmail für den Versand von e-Mails per SMTP einrichten](https://seatable.io/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
 - [Die Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/)
-- [Eine E-Mail per Schaltfläche verschicken](https://seatable.io/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
-- [E-Mail per Automation](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [Eine E-Mail per Schaltfläche verschicken]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
+- [E-Mail per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

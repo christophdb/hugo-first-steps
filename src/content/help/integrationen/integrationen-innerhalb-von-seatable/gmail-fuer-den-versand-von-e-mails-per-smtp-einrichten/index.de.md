@@ -92,6 +92,6 @@ Nun müssen Sie Ihr Google Mail-Konto als Drittanbieter in Ihrer SeaTable Base h
 
 ## E-Mails per Automation versenden
 
-Danach können Sie das in Ihrer SeaTable Base angelegte E-Mail-Konto verwenden, um E-Mails per Automation oder [Schaltfläche](https://seatable.io/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) zu verschicken.
+Danach können Sie das in Ihrer SeaTable Base angelegte E-Mail-Konto verwenden, um E-Mails per Automation oder [Schaltfläche]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) zu verschicken.
 
-Wenn Sie mehr über diese nützliche Automation erfahren wollen, lesen Sie den Artikel [E-Mail-Versand per Automation](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/).
+Wenn Sie mehr über diese nützliche Automation erfahren wollen, lesen Sie den Artikel [E-Mail-Versand per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

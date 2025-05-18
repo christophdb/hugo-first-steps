@@ -44,14 +44,14 @@ Définissez ensuite l **'objet**, le **destinataire** et **le contenu** de l'e-m
 
 Si la connexion au serveur de messagerie a été établie avec succès, un bref message de succès s'affiche et un e-mail devrait arriver dans la boîte aux lettres du destinataire indiqué depuis le compte de messagerie configuré.
 
-Si tout s'est déroulé comme décrit, vous avez configuré avec succès votre compte e-mail dans SeaTable et vous pouvez commencer à envoyer des e-mails par [automatisation](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/) ou [par bouton](https://seatable.io/fr/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/).
+Si tout s'est déroulé comme décrit, vous avez configuré avec succès votre compte e-mail dans SeaTable et vous pouvez commencer à envoyer des e-mails par [automatisation]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
 ## Envoi d'e-mails à partir d'une base
 
 Après avoir ajouté votre compte e-mail dans une base, vous disposez de **deux** possibilités différentes pour l'envoi d'e-mails :
 
-- [Envoi d'e-mails par automatisation](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/)
-- [Envoi d'e-mails par bouton](https://seatable.io/fr/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+- [Envoi d'e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Envoi d'e-mails par bouton]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
 Les deux méthodes permettent de définir un e-mail standardisé dont le **texte** reste **identique pour tous les destinataires et tous les enregistrements**. Cette fonction n'est donc pas adaptée aux e-mails dont le contenu varie fortement d'un cas à l'autre. Vous pouvez toutefois **citer** **des entrées** de différentes colonnes, par exemple en insérant le nom correspondant dans la formule de politesse ou le numéro de commande dans l'objet, afin de **personnaliser** un peu plus l'**e-mail** en question et de l'enrichir avec les données de la ligne concernée.
 
@@ -73,6 +73,6 @@ Les comptes de messagerie sont-ils copiés lors de la copie d'une base ?|||
 
 Les comptes de messagerie sont-ils également exportés lors de l'exportation d'une base ?|||
 
-**Non**, les comptes de messagerie configurés dans une base ne sont **pas exportés dans le [fichier DTABLE](https://seatable.io/fr/docs/import-von-daten/dtable-dateiformat/)**.
+**Non**, les comptes de messagerie configurés dans une base ne sont **pas exportés dans le [fichier DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 
 {{< /faq >}}

@@ -82,4 +82,4 @@ Para mais informações sobre o bloqueio de filas, ver o artigo [Bloquear uma fi
 - [Acrescentar linhas via automatização](https://seatable.io/pt/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
 - [Adicionar entradas a outras tabelas através de automatização](https://seatable.io/pt/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
 - [Enviar notificações via automatização](https://seatable.io/pt/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
-- [Envio de e-mails por automatização](https://seatable.io/pt/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [Envio de e-mails por automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

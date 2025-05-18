@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/help/eine-seafile-bibliothek-an-seatable-anbinden'
 ---
 
-Если вы храните в базе много больших файлов (например, изображений и видео), то со временем вы можете достичь [лимита хранения вашей подписки]({{< relref "pages/prices" >}}), и [экспортировать](https://seatable.io/ru/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) базу в виде [файла DTABLE](https://seatable.io/ru/docs/import-von-daten/dtable-dateiformat/) размером более 100 МБ будет невозможно.
+Если вы храните в базе много больших файлов (например, изображений и видео), то со временем вы можете достичь [лимита хранения вашей подписки]({{< relref "pages/prices" >}}), и [экспортировать]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) размером более 100 МБ будет невозможно.
 
 Одним из решений для соблюдения ограничений в этом случае является передача файлов в облачное хранилище, например, **Seafile**, которое затем можно подключить к SeaTable. В следующей статье вы узнаете, как интегрировать библиотеку Seafile в Base.
 

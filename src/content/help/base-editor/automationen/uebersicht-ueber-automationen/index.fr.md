@@ -92,7 +92,7 @@ Apprenez [ici](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-an
 
 Grâce à l'automatisation, vous ne devez plus envoyer manuellement des e-mails à des utilisateurs sélectionnés, mais vous pouvez les envoyer automatiquement. Cela s'avère particulièrement utile si vous souhaitez par exemple informer immédiatement les utilisateurs des modifications apportées aux données de certains tableaux.
 
-Découvrez [ici](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/) comment envoyer des e-mails par automatisation.
+Découvrez [ici]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) comment envoyer des e-mails par automatisation.
 
 ## Liens vers des entrées par automatisation
 

@@ -44,14 +44,14 @@ Definieren Sie anschließend **Betreff**, **Empfänger** und **Inhalt** der Test
 
 Wurde erfolgreich eine Verbindung zum E-Mail-Server aufgebaut, dann erscheint eine knappe Erfolgsmeldung und in dem angegebenen Empfängerpostfach sollte eine E-Mail vom konfigurierten E-Mail-Konto eingehen.
 
-Wenn alles wie beschrieben geklappt hat, haben Sie Ihr E-Mail-Konto erfolgreich in SeaTable eingerichtet und können mit dem E-Mail-Versand per [Automation](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/) oder [Schaltfläche](https://seatable.io/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) beginnen.
+Wenn alles wie beschrieben geklappt hat, haben Sie Ihr E-Mail-Konto erfolgreich in SeaTable eingerichtet und können mit dem E-Mail-Versand per [Automation]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) beginnen.
 
 ## E-Mail-Versand aus einer Base
 
 Nachdem Sie Ihr E-Mail-Konto in einer Base hinzugefügt haben, stehen Ihnen **zwei** verschiedene Möglichkeiten für den Versand von E-Mails zur Verfügung:
 
-- [E-Mail-Versand per Automation](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/)
-- [E-Mail-Versand per Schaltfläche](https://seatable.io/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+- [E-Mail-Versand per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [E-Mail-Versand per Schaltfläche]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
 Auf beiden Wegen definieren Sie eine standardisierte E-Mail, deren **Text für alle Empfänger und Datensätze gleich** bleibt. Daher eignet sich diese Funktion nicht für E-Mails, deren Inhalt von Fall zu Fall stark variiert. Sie können aber **Einträge** aus verschiedenen Spalten **zitieren**, beispielsweise den jeweiligen Namen in die Anrede oder die Auftragsnummer in den Betreff einfügen, um die jeweilige **E-Mail** ein Stück weit zu **personalisieren** und mit den Daten aus der betroffenen Zeile anzureichern.
 
@@ -79,6 +79,6 @@ Werden E-Mail-Konten beim Export einer Base mit exportiert?
 
 |||
 
-**Nein**, die in einer Base eingerichteten E-Mail-Konten werden **nicht in die [DTABLE-Datei](https://seatable.io/docs/import-von-daten/dtable-dateiformat/) exportiert**.
+**Nein**, die in einer Base eingerichteten E-Mail-Konten werden **nicht in die [DTABLE-Datei]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) exportiert**.
 
 {{< /faq >}}

@@ -92,7 +92,7 @@ Learn how to add entries to other tables via automation [here](https://seatable.
 
 With the help of automations, you no longer have to send e-mails manually to selected users, but can have them sent automatically. This is especially helpful if, for example, you want to inform users immediately about changes to the data in certain tables.
 
-Learn how to send emails via automation [here](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/).
+Learn how to send emails via automation [here]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
 ## Linking entries via automation
 

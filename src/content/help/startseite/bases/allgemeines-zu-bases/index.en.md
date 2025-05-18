@@ -77,7 +77,7 @@ If a large number of Bases have accumulated on your Home page, it may be useful 
 
 ## Export base
 
-For backup, transfer to another user or transfer to another SeaTable server you can export bases. Basically, the export is done to a [DTABLE file](https://seatable.io/en/docs/import-von-daten/dtable-dateiformat/).
+For backup, transfer to another user or transfer to another SeaTable server you can export bases. Basically, the export is done to a [DTABLE file]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}).
 
 For more information on exporting bases, see the article [Saving a Base as a DTABLE File]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
 

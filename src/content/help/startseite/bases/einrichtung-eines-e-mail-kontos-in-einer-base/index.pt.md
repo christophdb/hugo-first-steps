@@ -44,14 +44,14 @@ Em seguida, definir o **assunto**, o **destinatário** e o **conteúdo** do e-ma
 
 Se a ligação ao servidor de correio eletrónico tiver sido estabelecida com êxito, aparece uma breve mensagem de sucesso e uma mensagem de correio eletrónico da conta de correio eletrónico configurada deve chegar à caixa de correio do destinatário especificado.
 
-Se tudo funcionou como descrito, criou com sucesso a sua conta de e-mail no SeaTable e pode começar a enviar e-mails através de [automatização](https://seatable.io/pt/docs/beispiel-automationen/e-mail-versand-per-automation/) ou [botão](https://seatable.io/pt/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/).
+Se tudo funcionou como descrito, criou com sucesso a sua conta de e-mail no SeaTable e pode começar a enviar e-mails através de [automatização]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
 ## Envio de correio electrónico a partir de uma base
 
 Depois de ter adicionado a sua conta de e-mail numa Base, tem **duas** opções diferentes para o envio de e-mails:
 
-- [Envio de e-mails por automatização](https://seatable.io/pt/docs/beispiel-automationen/e-mail-versand-per-automation/)
-- [Envio de e-mail via botão](https://seatable.io/pt/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+- [Envio de e-mails por automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
+- [Envio de e-mail via botão]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
 Em ambos os sentidos, define-se um e-mail normalizado cujo **texto** permanece o **mesmo para todos os destinatários e registos**. Por conseguinte, esta função não é adequada para e-mails cujo conteúdo varia muito de caso para caso. No entanto, pode **citar** **entradas** de diferentes colunas, por exemplo, inserir o respectivo nome na saudação ou o número de ordem no assunto, a fim de **personalizar** o respectivo **e-mail** em certa medida e enriquecê-lo com os dados da linha em questão.
 
@@ -73,6 +73,6 @@ As contas de correio eletrónico são copiadas quando uma base é copiada?|||
 
 As contas de correio eletrónico também são exportadas quando se exporta uma base?|||
 
-**Não**, as contas de correio eletrónico configuradas numa base **não** são **exportadas para o [ficheiro DTABLE](https://seatable.io/pt/docs/import-von-daten/dtable-dateiformat/)**.
+**Não**, as contas de correio eletrónico configuradas numa base **não** são **exportadas para o [ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 
 {{< /faq >}}

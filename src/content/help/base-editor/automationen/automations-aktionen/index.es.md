@@ -85,7 +85,7 @@ La acción de automatización "Enviar correo electrónico" está disponible actu
 - Activador periódico
 - Activación periódica de entradas que cumplen una determinada condición
 
-El artículo [Email Dispatch by](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/) Automation analiza esta automatización mediante un caso de uso concreto.
+El artículo [Email Dispatch by]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) Automation analiza esta automatización mediante un caso de uso concreto.
 
 ## Acción de automatización: Añadir fila
 

@@ -85,7 +85,7 @@ L'action d'automatisation "Envoyer un e-mail" est actuellement disponible pour l
 - Déclencheur périodique
 - Déclenchement périodique pour les entrées qui remplissent une certaine condition
 
-L'article [Envoi d'e-mails par automatisation](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/) met en scène cette automatisation à l'aide d'un cas d'application concret.
+L'article [Envoi d'e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) met en scène cette automatisation à l'aide d'un cas d'application concret.
 
 ## Action d'automatisation : ajouter une ligne
 

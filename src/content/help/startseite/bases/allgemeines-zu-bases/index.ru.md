@@ -77,7 +77,7 @@ url: '/ru/help/bases'
 
 ## Экспортная база
 
-Вы можете экспортировать базы для резервного копирования данных, для передачи другому пользователю или для передачи на другой сервер SeaTable. В основном, экспорт происходит в [файл DTABLE](https://seatable.io/ru/docs/import-von-daten/dtable-dateiformat/).
+Вы можете экспортировать базы для резервного копирования данных, для передачи другому пользователю или для передачи на другой сервер SeaTable. В основном, экспорт происходит в [файл DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}).
 
 Для получения дополнительной информации об экспорте баз см. статью [Сохранение базы как файла DTABLE]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 

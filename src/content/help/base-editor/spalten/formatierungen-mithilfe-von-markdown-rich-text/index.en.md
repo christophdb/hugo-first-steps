@@ -18,7 +18,7 @@ Currently, there are five areas where you can use Markdown syntax in SeaTable. T
 
 - Columns of the [Formatted Text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) type
 - [Base descriptions](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
-- Email texts when sending via [automations](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/) and [buttons](https://seatable.io/en/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+- Email texts when sending via [automations]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Forms]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Universal apps](https://seatable.io/en/docs/apps/universelle-app/)
 

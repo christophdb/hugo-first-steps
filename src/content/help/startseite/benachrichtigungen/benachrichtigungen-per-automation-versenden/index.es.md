@@ -103,4 +103,4 @@ Los empleados del departamento de RRHH reciben la información de que se ha soli
 - [Vinculación de entradas mediante automatización](https://seatable.io/es/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
 - [Añadir líneas mediante automatización](https://seatable.io/es/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
 - [Añadir entradas a otras tablas mediante automatización](https://seatable.io/es/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
-- [Envío automatizado de correos electrónicos](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [Envío automatizado de correos electrónicos]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

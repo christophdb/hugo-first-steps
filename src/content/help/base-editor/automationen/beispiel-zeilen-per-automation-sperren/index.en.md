@@ -82,4 +82,4 @@ For more information on blocking rows , see the article [Blocking a row.]({{< re
 - [rows Add via automation](https://seatable.io/en/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
 - [Add entries to other tables via automation](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
 - [Send notifications via automation](https://seatable.io/en/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
-- [E-mail dispatch via automation](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [E-mail dispatch via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

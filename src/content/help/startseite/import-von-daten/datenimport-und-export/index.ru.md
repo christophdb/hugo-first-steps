@@ -18,7 +18,7 @@ url: '/ru/help/datenimport-und-export'
 
 ![Экспортные базы](images/export-bases.png)
 
-SeaTable использует [формат файла DTABLE](https://seatable.io/ru/docs/import-von-daten/dtable-dateiformat/) для экспорта баз. Для получения дополнительной информации см. статью [Сохранение базы в виде файла DTABLE](https://seatable.io/ru/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
+SeaTable использует [формат файла DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) для экспорта баз. Для получения дополнительной информации см. статью [Сохранение базы в виде файла DTABLE](https://seatable.io/ru/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
 
 ## Таблица экспорта
 
@@ -30,7 +30,7 @@ SeaTable использует [формат файла DTABLE](https://seatable.
 
 ## Импортная база
 
-SeaTable поддерживает импорт баз из собственного [формата DTABLE](https://seatable.io/ru/docs/import-von-daten/dtable-dateiformat/), из **файлов Excel** и из общего **формата CSV**. При импорте **файла DTABLE** база восстанавливается в том виде, в котором она выглядела на момент экспорта. При импорте файла CSV или Excel значения из файла CSV/XLSX копируются в колонки таблицы новой базы, и SeaTable пытается интерпретировать типы колонок на основе данных.
+SeaTable поддерживает импорт баз из собственного [формата DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), из **файлов Excel** и из общего **формата CSV**. При импорте **файла DTABLE** база восстанавливается в том виде, в котором она выглядела на момент экспорта. При импорте файла CSV или Excel значения из файла CSV/XLSX копируются в колонки таблицы новой базы, и SeaTable пытается интерпретировать типы колонок на основе данных.
 
 ![Импорт данных в базу](images/import-data-into-your-base.png)
 

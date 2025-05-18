@@ -103,4 +103,4 @@ The employees in the HR department receive the information that a training has b
 - [Linking entries via automation](https://seatable.io/en/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
 - [rows Add via automation](https://seatable.io/en/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
 - [Add entries to other tables via automation](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
-- [E-mail dispatch via automation](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [E-mail dispatch via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

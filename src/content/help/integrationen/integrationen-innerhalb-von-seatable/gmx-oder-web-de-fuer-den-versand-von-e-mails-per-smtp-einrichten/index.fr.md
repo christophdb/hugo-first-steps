@@ -57,6 +57,6 @@ Voici un exemple de configuration pour un compte GMX :
 
 ## Envoyer des e-mails par automatisation
 
-Ensuite, vous pouvez utiliser le compte e-mail créé dans votre SeaTable Base pour envoyer des e-mails par automatisation ou [par bouton](https://seatable.io/fr/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/).
+Ensuite, vous pouvez utiliser le compte e-mail créé dans votre SeaTable Base pour envoyer des e-mails par automatisation ou [par bouton]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
-Si vous souhaitez en savoir plus sur cette automatisation utile, lisez l'article [Envoi d'e-mails par automatisation](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/).
+Si vous souhaitez en savoir plus sur cette automatisation utile, lisez l'article [Envoi d'e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

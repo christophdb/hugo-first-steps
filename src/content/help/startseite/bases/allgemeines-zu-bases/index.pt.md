@@ -77,7 +77,7 @@ Se um grande número de bases tiver acumulado na sua página inicial, pode ser �
 
 ## Base de exportação
 
-É possível exportar bases para backup de dados, para transferência para outro utilizador ou para transferência para outro servidor SeaTable. Basicamente, a exportação tem lugar num [ficheiro DTABLE](https://seatable.io/pt/docs/import-von-daten/dtable-dateiformat/).
+É possível exportar bases para backup de dados, para transferência para outro utilizador ou para transferência para outro servidor SeaTable. Basicamente, a exportação tem lugar num [ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}).
 
 Para mais informações sobre bases de exportação, ver o artigo [Salvando uma Base como Ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 

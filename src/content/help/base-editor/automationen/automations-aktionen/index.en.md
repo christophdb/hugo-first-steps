@@ -85,7 +85,7 @@ The automation action "Send e-mail" is currently available for the following **a
 - Periodic trigger
 - Periodic trigger for entries that meet a certain condition
 
-The article [Email Sending by Automation](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/) plays through this automation using a concrete use case.
+The article [Email Sending by Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) plays through this automation using a concrete use case.
 
 ## Automation Action: Add row
 

@@ -101,6 +101,6 @@ OAuth 2.0, сокращение от Open Authorisation 2.0, - это откры
 
 ## Отправка электронных писем с помощью автоматизации
 
-Затем вы можете использовать учетную запись электронной почты, созданную в вашей базе SeaTable, для автоматической или [кнопочной](https://seatable.io/ru/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) отправки писем.
+Затем вы можете использовать учетную запись электронной почты, созданную в вашей базе SeaTable, для автоматической или [кнопочной]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) отправки писем.
 
-Если вы хотите узнать больше об этой полезной автоматизации, прочитайте статью [Рассылка электронной почты с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/e-mail-versand-per-automation/).
+Если вы хотите узнать больше об этой полезной автоматизации, прочитайте статью [Рассылка электронной почты с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

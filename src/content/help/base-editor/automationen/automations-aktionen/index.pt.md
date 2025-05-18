@@ -85,7 +85,7 @@ A ação de automatização "Enviar e-mail" está atualmente disponível para os
 - Desencadeamento periódico
 - Acionador periódico para entradas que preenchem uma determinada condição
 
-O artigo [Despacho de Correio Electrónico por Automatização](https://seatable.io/pt/docs/beispiel-automationen/e-mail-versand-per-automation/) passa por esta automatização utilizando um caso de uso concreto.
+O artigo [Despacho de Correio Electrónico por Automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) passa por esta automatização utilizando um caso de uso concreto.
 
 ## Acção de automatização: adicionar linha
 

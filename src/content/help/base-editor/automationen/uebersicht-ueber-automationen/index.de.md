@@ -1,11 +1,11 @@
 ---
-title: "Übersicht über Automationen"
+title: 'Übersicht über Automationen'
 date: 2023-01-31
-lastmod: "2023-03-21"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/de/hilfe/uebersicht-ueber-automationen"
+lastmod: '2023-03-21'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/de/hilfe/uebersicht-ueber-automationen'
 ---
 
 {{< required-version "Enterprise" >}}
@@ -92,7 +92,7 @@ Erfahren Sie [hier](https://seatable.io/docs/beispiel-automationen/eintraege-in-
 
 Mithilfe von Automationen müssen Sie E-Mails nicht mehr manuell an ausgewählte Benutzer versenden, sondern können diese automatisch verschicken lassen. Das ist besonders hilfreich, wenn Sie beispielsweise Nutzer umgehend über Veränderungen an den Daten bestimmter Tabellen informieren möchten.
 
-Erfahren Sie [hier](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/), wie Sie E-Mails per Automation versenden können.
+Erfahren Sie [hier]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}), wie Sie E-Mails per Automation versenden können.
 
 ## Verlinken von Einträgen per Automation
 

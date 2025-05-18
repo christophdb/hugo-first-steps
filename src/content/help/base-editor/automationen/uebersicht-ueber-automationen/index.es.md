@@ -92,7 +92,7 @@ Aprenda [aquí](https://seatable.io/es/docs/beispiel-automationen/eintraege-in-a
 
 Con la ayuda de las automatizaciones, ya no tiene que enviar correos electrónicos manualmente a los usuarios seleccionados, sino que puede hacer que se envíen automáticamente. Esto resulta especialmente útil si, por ejemplo, desea informar inmediatamente a los usuarios sobre cambios en los datos de determinadas tablas.
 
-Descubra [aquí](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/) cómo puede enviar correos electrónicos de forma automatizada.
+Descubra [aquí]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) cómo puede enviar correos electrónicos de forma automatizada.
 
 ## Vinculación de entradas mediante automatización
 

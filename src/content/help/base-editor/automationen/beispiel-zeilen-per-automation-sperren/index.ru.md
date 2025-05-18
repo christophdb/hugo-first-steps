@@ -82,4 +82,4 @@ url: '/ru/help/zeilen-per-automation-sperren'
 - [Добавление линий с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
 - [Добавление записей в другие таблицы с помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)
 - [Отправка уведомлений с помощью автоматизации](https://seatable.io/ru/docs/benachrichtigungen/benachrichtigungen-per-automation-versenden/)
-- [Отправка по электронной почте с помощью автоматики](https://seatable.io/ru/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [Отправка по электронной почте с помощью автоматики]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

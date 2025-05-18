@@ -18,7 +18,7 @@ Pode exportar o estado atual das suas bases, incluindo todas as tabelas, [vistas
 
 ![Bases de exportação](images/export-bases.png)
 
-SeaTable utiliza o [formato de ficheiro DTABLE](https://seatable.io/pt/docs/import-von-daten/dtable-dateiformat/) para exportar bases. Para mais informações, ver o artigo [Salvando uma Base como um ficheiro DTABLE](https://seatable.io/pt/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
+SeaTable utiliza o [formato de ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) para exportar bases. Para mais informações, ver o artigo [Salvando uma Base como um ficheiro DTABLE](https://seatable.io/pt/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
 
 ## Tabela de exportação
 
@@ -30,7 +30,7 @@ Inicia-se a exportação de uma mesa a partir da Base. Clique na seta para a dir
 
 ## Base de importação
 
-SeaTable suporta a importação de bases a partir do seu próprio [formato DTABLE](https://seatable.io/pt/docs/import-von-daten/dtable-dateiformat/), de **ficheiros Excel** e do **formato** genérico **CSV**. Quando se importa um **ficheiro DTABLE**, a base é restaurada exactamente como se apresentava no momento da exportação. Ao importar um ficheiro CSV ou Excel, os valores do ficheiro CSV/XLSX são copiados para colunas de tabela de uma nova base, e o SeaTable tenta interpretar os tipos de colunas com base nos dados.
+SeaTable suporta a importação de bases a partir do seu próprio [formato DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), de **ficheiros Excel** e do **formato** genérico **CSV**. Quando se importa um **ficheiro DTABLE**, a base é restaurada exactamente como se apresentava no momento da exportação. Ao importar um ficheiro CSV ou Excel, os valores do ficheiro CSV/XLSX são copiados para colunas de tabela de uma nova base, e o SeaTable tenta interpretar os tipos de colunas com base nos dados.
 
 ![Importação de dados para uma base](images/import-data-into-your-base.png)
 

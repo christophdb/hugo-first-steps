@@ -96,7 +96,7 @@ Le type de colonne Fichier stocke un nombre quelconque de fichiers **de tout typ
 
 le symbole : {{< seatable-icon icon="dtable-icon-email" >}} **E-mail**
 
-Les colonnes d'e-mails sont des colonnes de texte spécialisées pour la saisie et l'enregistrement d'**adresses e-mail** et permettent une utilisation directe par un simple clic de souris. La colonne e-mail est particulièrement pratique pour les formulaires web. L'utilisation d'un champ e-mail à la place d'une colonne de texte garantit que la saisie a la syntaxe d'une adresse e-mail valide. En outre, les colonnes d'e-mails peuvent être utilisées pour envoyer des e-mails via des [boutons](https://seatable.io/fr/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) et [des automatisations](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/).
+Les colonnes d'e-mails sont des colonnes de texte spécialisées pour la saisie et l'enregistrement d'**adresses e-mail** et permettent une utilisation directe par un simple clic de souris. La colonne e-mail est particulièrement pratique pour les formulaires web. L'utilisation d'un champ e-mail à la place d'une colonne de texte garantit que la saisie a la syntaxe d'une adresse e-mail valide. En outre, les colonnes d'e-mails peuvent être utilisées pour envoyer des e-mails via des [boutons]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) et [des automatisations]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
 Si vous avez besoin d'informations plus détaillées sur la colonne des e-mails, jetez un coup d'œil à cet [article](https://seatable.io/fr/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
 

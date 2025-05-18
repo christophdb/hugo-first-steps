@@ -1,11 +1,11 @@
 ---
-title: "Schritt 4: Geldeingang"
+title: 'Schritt 4: Geldeingang'
 date: 2024-09-19
-lastmod: "2024-09-24"
-categories: 
-  - "online-kurs-2"
-author: "cdb"
-url: "/de/hilfe/schritt-4-geldeingang"
+lastmod: '2024-09-24'
+categories:
+    - 'online-kurs-2'
+author: 'cdb'
+url: '/de/hilfe/schritt-4-geldeingang'
 ---
 
 Nachdem Ihre Kursteilnehmer die Zahlungsaufforderung per E-Mail erhalten haben, überweisen diese die Kursgebühr auf Ihr Bankkonto. Die Überprüfung des Geldeingangs werden wir an dieser Stelle nicht weiter automatisieren. Dennoch wäre es sinnvoll, eine zusätzliche Schaltfläche in Ihrer Base zu integrieren, die zwei Aufgaben übernimmt:
@@ -23,13 +23,13 @@ Das ist in SeaTable einfach umsetzbar. Fügen Sie in der Tabelle `Registrations`
 Mit Ihrem neu erworbenen Wissen sollte dies kein Problem darstellen. Den folgenden Text können Sie für Ihre E-Mail verwenden:
 
 > Subject: Payment Confirmation and Online Meeting Details
-> 
+>
 > Hey,
-> 
+>
 > Thank you for your payment! We're excited to confirm that we've successfully received it.
-> 
+>
 > You can join the online meeting using the link below: - https://meet.jit.si/{Course-ID}
-> 
+>
 > We look forward to seeing you there! Best regards
 
 ## Hilfeartikel mit weiteren Informationen
@@ -37,5 +37,5 @@ Mit Ihrem neu erworbenen Wissen sollte dies kein Problem darstellen. Den folgend
 - [Einrichten eines E-Mail-Kontos in einer Base](https://seatable.io/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/)
 - [Gmail für den Versand von e-Mails per SMTP einrichten](https://seatable.io/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
 - [Die Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/)
-- [Eine E-Mail per Schaltfläche verschicken](https://seatable.io/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
-- [E-Mail per Automation](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [Eine E-Mail per Schaltfläche verschicken]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
+- [E-Mail per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

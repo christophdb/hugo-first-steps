@@ -18,7 +18,7 @@ url: '/ru/help/formatierungen-mithilfe-von-markdown-rich-text'
 
 - Колонки типа [форматированного текста](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Базовые описания](https://seatable.io/ru/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
-- Тексты электронной почты при отправке через [автоматизацию](https://seatable.io/ru/docs/beispiel-automationen/e-mail-versand-per-automation/) и [кнопки](https://seatable.io/ru/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
+- Тексты электронной почты при отправке через [автоматизацию]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Универсальные приложения](https://seatable.io/ru/docs/apps/universelle-app/)
 

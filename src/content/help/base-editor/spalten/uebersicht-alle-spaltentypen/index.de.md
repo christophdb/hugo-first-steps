@@ -96,7 +96,7 @@ Der Spaltentyp Datei speichert eine beliebige Anzahl an Dateien **jedes Dateityp
 
 Symbol: {{< seatable-icon icon="dtable-icon-email" >}} **E-Mail**
 
-E-Mail-Spalten sind spezialisierte Text-Spalten für die Erfassung und Speicherung von **E-Mail-Adressen** und erlauben die direkte Verwendung per Mausklick. Die E-Mail-Spalte ist insbesondere für Webformulare praktisch. Die Verwendung eines E-Mail-Feldes an Stelle einer Text-Spalte stellt sicher, dass die Eingabe die Syntax einer gültigen E-Mail-Adresse hat. Zudem können E-Mail-Spalten über [Schaltflächen](https://seatable.io/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) und [Automationen](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/) zum Versand von E-Mails genutzt werden.
+E-Mail-Spalten sind spezialisierte Text-Spalten für die Erfassung und Speicherung von **E-Mail-Adressen** und erlauben die direkte Verwendung per Mausklick. Die E-Mail-Spalte ist insbesondere für Webformulare praktisch. Die Verwendung eines E-Mail-Feldes an Stelle einer Text-Spalte stellt sicher, dass die Eingabe die Syntax einer gültigen E-Mail-Adresse hat. Zudem können E-Mail-Spalten über [Schaltflächen]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) und [Automationen]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) zum Versand von E-Mails genutzt werden.
 
 Falls Sie detailliertere Informationen zur E-Mail-Spalte benötigen, werfen Sie einen Blick in diesen [Artikel](https://seatable.io/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
 

@@ -18,7 +18,7 @@ You can export the current status of your bases including all tables, [views]({{
 
 ![Bases export](images/export-bases.png)
 
-For exporting bases, SeaTable uses the [DTABLE file format](https://seatable.io/en/docs/import-von-daten/dtable-dateiformat/). For more information, see the article [Saving a Base as a DTABLE File](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
+For exporting bases, SeaTable uses the [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). For more information, see the article [Saving a Base as a DTABLE File](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
 
 ## Export table
 
@@ -30,7 +30,7 @@ You start the export of a table from Base. Click on the drop-down arrow to the r
 
 ## Import base
 
-SeaTable supports importing bases from its own [DTABLE format](https://seatable.io/en/docs/import-von-daten/dtable-dateiformat/), from **Excel files**, and from the generic **CSV format**. When importing a **DTABLE file**, the base is restored exactly as it looked at the time of export. When importing CSV or Excel, the values from the CSV/XLSX file are copied into table columns of a new base, and SeaTable tries to interpret the column types based on the data.
+SeaTable supports importing bases from its own [DTABLE format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), from **Excel files**, and from the generic **CSV format**. When importing a **DTABLE file**, the base is restored exactly as it looked at the time of export. When importing CSV or Excel, the values from the CSV/XLSX file are copied into table columns of a new base, and SeaTable tries to interpret the column types based on the data.
 
 ![Importing data into a base](images/import-data-into-your-base.png)
 

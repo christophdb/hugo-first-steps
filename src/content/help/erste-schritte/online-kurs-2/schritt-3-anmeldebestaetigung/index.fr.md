@@ -83,5 +83,5 @@ Félicitations ! Vous venez d'envoyer votre premier e-mail via SeaTable - même 
 - [Configurer un compte de messagerie dans une base](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/)
 - [Configurer Gmail pour l'envoi d'e-mails via SMTP](https://seatable.io/fr/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
 - [Le bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/)
-- [Envoyer un e-mail via un bouton](https://seatable.io/fr/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/)
-- [E-mail par automatisation](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/)
+- [Envoyer un e-mail via un bouton]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
+- [E-mail par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

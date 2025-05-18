@@ -85,7 +85,7 @@ url: '/ru/help/automations-aktionen'
 - Периодическое срабатывание
 - Периодическое срабатывание для записей, выполняющих определенное условие
 
-В статье [Email Dispatch by Automation](https://seatable.io/ru/docs/beispiel-automationen/e-mail-versand-per-automation/) эта автоматизация рассматривается на конкретном примере.
+В статье [Email Dispatch by Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) эта автоматизация рассматривается на конкретном примере.
 
 ## Действие автоматизации: Добавить строку
 
