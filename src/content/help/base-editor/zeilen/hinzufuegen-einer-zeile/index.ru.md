@@ -24,7 +24,7 @@ url: '/ru/help/hinzufuegen-einer-zeile'
 
 ![Добавление новой строки с помощью ярлыка](images/create-new-row-shortcut.gif)
 
-Кроме того, некоторые **плагины** SeaTable предлагают возможность добавления новых записей. К ним относятся [галерея](https://seatable.io/ru/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/), [календарь](https://seatable.io/ru/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/) и [плагин Kanban](https://seatable.io/ru/docs/kanban-plugin/anleitung-zum-kanban-plugin/).
+Кроме того, некоторые **плагины** SeaTable предлагают возможность добавления новых записей. К ним относятся [галерея]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}}) и [плагин Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}).
 
 ## Почему вы не можете создавать новые линии
 

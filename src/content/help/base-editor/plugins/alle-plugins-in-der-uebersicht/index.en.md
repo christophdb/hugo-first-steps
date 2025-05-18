@@ -28,8 +28,8 @@ In the calendar plugin you can display dates from a [date column]({{< relref "he
 
 These articles may also be of interest to you:
 
-- [Create multiple calendars for one Base](https://seatable.io/en/docs/kalender-plugin/mehrere-kalender-fuer-eine-base-anlegen/)
-- [Create new calendar entries in the calendar plugin](https://seatable.io/en/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/)
+- [Create multiple calendars for one Base]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
+- [Create new calendar entries in the calendar plugin]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
 
 ## Timeline plugin
 
@@ -45,11 +45,11 @@ The gallery plugin is particularly suitable for displaying records with **images
 
 ![Gallery plugin](images/Galerie.png)
 
-[More about the gallery plugin](https://seatable.io/en/docs/galerie-plugin/anleitung-zum-galerie-plugin/)
+[More about the gallery plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
 
 This article might also be interesting for you:
 
-- [A new row via the gallery plugin](https://seatable.io/en/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/)
+- [A new row via the gallery plugin]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
 
 ## Map plugin
 
@@ -65,7 +65,7 @@ The data deduplication plugin uncovers **duplicate entries** in a table. This is
 
 ![](images/Deduplication.png)
 
-[More about the data duplication plugin](https://seatable.io/en/docs/plugins/anleitung-zum-datendeduplizierungs-plugin/)
+[More about the data duplication plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
 ## Page design plugin
 
@@ -90,7 +90,7 @@ With the Kanban plugin you can display table entries on a **Kanban board**. Each
 
 ![Kanban plugin](images/Kanban-Plugin.png)
 
-[More about the Kanban plugin](https://seatable.io/en/docs/kanban-plugin/anleitung-zum-kanban-plugin/)
+[More about the Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
 ## SQL query plugin
 
@@ -98,7 +98,7 @@ The SQL query plugin is perfect for direct **execution of SQL commands** and is 
 
 ![Results of a data query using the SQL command SELECT](images/results-data-sql-query.png)
 
-[More about SQL query plugin](https://seatable.io/en/docs/plugins/anleitung-zum-sql-abfrage-plugin/)
+[More about SQL query plugin]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
 ## Whiteboard plugin
 
@@ -106,7 +106,7 @@ The whiteboard plugin gives you the freedom to graphically visualize processes a
 
 ![Whiteboard plugin](images/Whiteboard-Plugin.png)
 
-[More about the whiteboard plugin](https://seatable.io/en/docs/plugins/anleitung-zum-whiteboard-plugin/)
+[More about the whiteboard plugin]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
 ## Organizational chart plugin
 
@@ -122,7 +122,7 @@ Especially when there are many tables with dozens of columns in a base, it is ea
 
 ![Table relations plugin](images/Table-Relationships-Plugin.png)
 
-[More about the table relationships plugin](https://seatable.io/en/docs/plugins/anleitung-zum-tabellenbeziehungen-plugin/)
+[More about the table relationships plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 
 ## Other helpful articles
 
@@ -130,7 +130,7 @@ Especially when there are many tables with dozens of columns in a base, it is ea
 
 The **statistics module** allows you to display data in all kinds of graphics and statistics. The following **chart types** are available to you: column, bar, line and pie charts, as well as maps, thermal images, speedometers and pivot tables. You can configure the right visualization for you in the various **graphics** and build a **dashboard with the most important statistics**.
 
-[More about the statistics module](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin)
+[More about the statistics module]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
 
 ### Forms
 

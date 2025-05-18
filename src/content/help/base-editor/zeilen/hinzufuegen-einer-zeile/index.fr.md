@@ -24,7 +24,7 @@ Pour être rapide **plusieurs nouvelles lignes** vous pouvez également utiliser
 
 ![Ajouter une nouvelle ligne par un raccourci](images/create-new-row-shortcut.gif)
 
-En outre, certains **plugins** de SeaTable offrent l'option d'ajouter de nouvelles entrées. Il s'agit notamment de la [galerie](https://seatable.io/fr/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/), du [calendrier](https://seatable.io/fr/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/) et du [plug-in Kanban](https://seatable.io/fr/docs/kanban-plugin/anleitung-zum-kanban-plugin/).
+En outre, certains **plugins** de SeaTable offrent l'option d'ajouter de nouvelles entrées. Il s'agit notamment de la [galerie]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}}) et du [plug-in Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}).
 
 ## Pourquoi vous ne pouvez pas créer de nouvelles lignes
 

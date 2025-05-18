@@ -30,8 +30,8 @@ Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte]({{< relref "help/b
 
 Diese Artikel könnten für Sie auch interessant sein:
 
-- [Mehrere Kalender für eine Base anlegen](https://seatable.io/docs/kalender-plugin/mehrere-kalender-fuer-eine-base-anlegen/)
-- [Neue Kalendereinträge im Kalender-Plugin anlegen](https://seatable.io/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/)
+- [Mehrere Kalender für eine Base anlegen]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
+- [Neue Kalendereinträge im Kalender-Plugin anlegen]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
 
 ## Timeline-Plugin
 
@@ -47,11 +47,11 @@ Das Galerie-Plugin eignet sich besonders gut, um Datensätze mit **Bildern** dar
 
 ![Galerie-Plugin](images/Galerie.png)
 
-[Mehr zum Galerie-Plugin](https://seatable.io/docs/galerie-plugin/anleitung-zum-galerie-plugin/)
+[Mehr zum Galerie-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
 
 Dieser Artikel könnte für Sie auch interessant sein:
 
-- [Eine neue Zeile über das Galerie-Plugin hinzufügen](https://seatable.io/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/)
+- [Eine neue Zeile über das Galerie-Plugin hinzufügen]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
 
 ## Karten-Plugin
 
@@ -67,7 +67,7 @@ Das Datendeduplizierungs-Plugin deckt **doppelte Einträge** in einer Tabelle au
 
 ![](images/Deduplication.png)
 
-[Mehr zum Datenduplizierungs-Plugin](https://seatable.io/docs/plugins/anleitung-zum-datendeduplizierungs-plugin/)
+[Mehr zum Datenduplizierungs-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
 ## Seitendesign-Plugin
 
@@ -92,7 +92,7 @@ Mit dem Kanban-Plugin können Sie Tabelleneinträge auf einem **Kanban-Board** d
 
 ![Kanban-Plugin](images/Kanban-Plugin.png)
 
-[Mehr zum Kanban-Plugin](https://seatable.io/docs/kanban-plugin/anleitung-zum-kanban-plugin/)
+[Mehr zum Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
 ## SQL-Abfrage-Plugin
 
@@ -100,7 +100,7 @@ Das SQL-Abfrage-Plugin eignet sich perfekt für die direkte **Ausführung von SQ
 
 ![Ergebnisse einer Datenabfrage anhand des SQL-Befehls SELECT](images/results-data-sql-query.png)
 
-[Mehr zum SQL-Abfrage-Plugin](https://seatable.io/docs/plugins/anleitung-zum-sql-abfrage-plugin/)
+[Mehr zum SQL-Abfrage-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
 ## Whiteboard-Plugin
 
@@ -108,7 +108,7 @@ Das Whiteboard-Plugin gibt Ihnen die Freiheit, Prozesse und Strukturen grafisch 
 
 ![Whiteboard Plugin](images/Whiteboard-Plugin.png)
 
-[Mehr zum Whiteboard-Plugin](https://seatable.io/docs/plugins/anleitung-zum-whiteboard-plugin/)
+[Mehr zum Whiteboard-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
 ## Organigramm-Plugin
 
@@ -124,7 +124,7 @@ Besonders wenn sich viele Tabellen mit Dutzenden Spalten in einer Base befinden,
 
 ![Tabellenbeziehungen-Plugin](images/Table-Relationships-Plugin.png)
 
-[Mehr zum Tabellenbeziehungen-Plugin](https://seatable.io/docs/plugins/anleitung-zum-tabellenbeziehungen-plugin/)
+[Mehr zum Tabellenbeziehungen-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 
 ## Weitere hilfreiche Artikel
 
@@ -132,7 +132,7 @@ Besonders wenn sich viele Tabellen mit Dutzenden Spalten in einer Base befinden,
 
 Das **Statistik-Modul** ermöglicht Ihnen die vielseitige Darstellung von Daten in Grafiken und Statistiken aller Art. Dabei stehen Ihnen unter anderem die folgenden **Diagrammtypen** zur Verfügung: Säulen-, Balken-, Linien- und Kuchendiagramme, aber auch Karten, Wärmebilder, Tacho oder Pivot-Tabellen. Sie können in den unterschiedlichen **Grafiken** die für Sie passende Visualisierung konfigurieren und sich ein **Dashboard mit den wichtigsten Statistiken** bauen.
 
-[Mehr zum Statistik-Modul](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin)
+[Mehr zum Statistik-Modul]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
 
 ### Webformulare
 

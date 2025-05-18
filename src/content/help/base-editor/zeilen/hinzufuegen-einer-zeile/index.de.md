@@ -24,7 +24,7 @@ Um schnell **mehrere neue Zeilen** hinzuzufügen, können Sie auch die Tastenkom
 
 ![Neue Zeile per Shortcut hinzufügen](images/create-new-row-shortcut.gif)
 
-Des Weiteren bieten einige **Plugins** von SeaTable die Option, neue Einträge hinzuzufügen. Dazu gehören die [Galerie](https://seatable.io/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/), der [Kalender](https://seatable.io/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/) und das [Kanban-Plugin](https://seatable.io/docs/kanban-plugin/anleitung-zum-kanban-plugin/).
+Des Weiteren bieten einige **Plugins** von SeaTable die Option, neue Einträge hinzuzufügen. Dazu gehören die [Galerie]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}}) und das [Kanban-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}).
 
 ## Warum Sie keine neuen Zeilen anlegen können
 

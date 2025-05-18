@@ -28,8 +28,8 @@ No plug-in de calendário, é possível apresentar dados de uma [coluna de data]
 
 Estes artigos também podem ser interessantes para si:
 
-- [Criar vários calendários para uma base](https://seatable.io/pt/docs/kalender-plugin/mehrere-kalender-fuer-eine-base-anlegen/)
-- [Criar novas entradas de calendário no plug-in do calendário](https://seatable.io/pt/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/)
+- [Criar vários calendários para uma base]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
+- [Criar novas entradas de calendário no plug-in do calendário]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
 
 ## Plug-in na linha do tempo
 
@@ -45,11 +45,11 @@ O plug-in da galeria é particularmente adequado para a apresentação de regist
 
 ![Galeria plugin](images/Galerie.png)
 
-[Mais informações sobre o plug-in da galeria](https://seatable.io/pt/docs/galerie-plugin/anleitung-zum-galerie-plugin/)
+[Mais informações sobre o plug-in da galeria]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
 
 Este artigo também pode ser interessante para si:
 
-- [Adicionar uma nova linha através do plugin da galeria](https://seatable.io/pt/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/)
+- [Adicionar uma nova linha através do plugin da galeria]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
 
 ## Plug-in do mapa
 
@@ -65,7 +65,7 @@ O plugin de desduplicação de dados descobre **entradas duplicadas** numa tabel
 
 ![](images/Deduplication.png)
 
-[Mais informações sobre o plugin de duplicação de dados](https://seatable.io/pt/docs/plugins/anleitung-zum-datendeduplizierungs-plugin/)
+[Mais informações sobre o plugin de duplicação de dados]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
 ## Plugin de desenho de página
 
@@ -90,7 +90,7 @@ Com o plugin Kanban, pode visualizar entradas de tabela num **quadro Kanban**. C
 
 ![Plug-in Kanban](images/Kanban-Plugin.png)
 
-[Mais informações sobre o plugin Kanban](https://seatable.io/pt/docs/kanban-plugin/anleitung-zum-kanban-plugin/)
+[Mais informações sobre o plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
 ## Plug-in de consulta SQL
 
@@ -98,7 +98,7 @@ O plug-in de consulta SQL é perfeitamente adequado para a **execução** direct
 
 ![Resultados de uma consulta de dados utilizando o comando SQL SELECT](images/results-data-sql-query.png)
 
-[Mais informações sobre o plug-in de consulta SQL](https://seatable.io/pt/docs/plugins/anleitung-zum-sql-abfrage-plugin/)
+[Mais informações sobre o plug-in de consulta SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
 ## Plugin de quadro branco
 
@@ -106,7 +106,7 @@ O plugin de quadro branco dá-lhe a liberdade de visualizar graficamente process
 
 ![Plugin de quadro branco](images/Whiteboard-Plugin.png)
 
-[Mais informações sobre o plug-in do quadro branco](https://seatable.io/pt/docs/plugins/anleitung-zum-whiteboard-plugin/)
+[Mais informações sobre o plug-in do quadro branco]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
 ## Plugin de organograma
 
@@ -122,7 +122,7 @@ Especialmente quando existem muitas tabelas com dezenas de colunas numa base, é
 
 ![Plugin de relações de tabela](images/Table-Relationships-Plugin.png)
 
-[Mais informações sobre o plugin de relações de tabela](https://seatable.io/pt/docs/plugins/anleitung-zum-tabellenbeziehungen-plugin/)
+[Mais informações sobre o plugin de relações de tabela]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 
 ## Outros artigos úteis
 
@@ -130,7 +130,7 @@ Especialmente quando existem muitas tabelas com dezenas de colunas numa base, é
 
 O **módulo de estatísticas** permite-lhe visualizar os dados em todos os tipos de gráficos e estatísticas. Tem à sua disposição os seguintes **tipos de gráficos**: coluna, barra, linha e pizza, bem como mapas, imagens térmicas, velocímetros e tabelas dinâmicas. Pode configurar a visualização que mais lhe convém nos vários **gráficos** e construir um **painel de controlo com as estatísticas mais importantes**.
 
-[Mais informações sobre o módulo de estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin)
+[Mais informações sobre o módulo de estatísticas]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
 
 ### Formulários Web
 

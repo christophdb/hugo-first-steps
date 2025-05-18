@@ -28,8 +28,8 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 Эти статьи также могут быть вам интересны:
 
-- [Создайте несколько календарей для одной базы](https://seatable.io/ru/docs/kalender-plugin/mehrere-kalender-fuer-eine-base-anlegen/)
-- [Создание новых записей календаря в плагине календаря](https://seatable.io/ru/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/)
+- [Создайте несколько календарей для одной базы]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
+- [Создание новых записей календаря в плагине календаря]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
 
 ## Подключаемый модуль Timeline
 
@@ -45,11 +45,11 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![Плагин галереи](images/Galerie.png)
 
-[Подробнее о плагине для галереи](https://seatable.io/ru/docs/galerie-plugin/anleitung-zum-galerie-plugin/)
+[Подробнее о плагине для галереи]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
 
 Эта статья также может быть вам интересна:
 
-- [Добавьте новый ряд с помощью плагина галереи](https://seatable.io/ru/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/)
+- [Добавьте новый ряд с помощью плагина галереи]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
 
 ## Картографический плагин
 
@@ -65,7 +65,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![](images/Deduplication.png)
 
-[Подробнее о плагине для дублирования данных](https://seatable.io/ru/docs/plugins/anleitung-zum-datendeduplizierungs-plugin/)
+[Подробнее о плагине для дублирования данных]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
 ## Плагин для дизайна страниц
 
@@ -90,7 +90,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![Подключаемый модуль Kanban](images/Kanban-Plugin.png)
 
-[Подробнее о плагине Kanban](https://seatable.io/ru/docs/kanban-plugin/anleitung-zum-kanban-plugin/)
+[Подробнее о плагине Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
 ## Подключаемый модуль SQL-запросов
 
@@ -98,7 +98,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![Результаты запроса данных с помощью команды SQL SELECT](images/results-data-sql-query.png)
 
-[Подробнее о подключаемом модуле SQL-запросов](https://seatable.io/ru/docs/plugins/anleitung-zum-sql-abfrage-plugin/)
+[Подробнее о подключаемом модуле SQL-запросов]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
 ## Плагин для белой доски
 
@@ -106,7 +106,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![Плагин для белой доски](images/Whiteboard-Plugin.png)
 
-[Подробнее о плагине для белой доски](https://seatable.io/ru/docs/plugins/anleitung-zum-whiteboard-plugin/)
+[Подробнее о плагине для белой доски]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
 ## Плагин организационной диаграммы
 
@@ -122,7 +122,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![Плагин для работы с таблицами](images/Table-Relationships-Plugin.png)
 
-[Подробнее о плагине для работы с таблицами](https://seatable.io/ru/docs/plugins/anleitung-zum-tabellenbeziehungen-plugin/)
+[Подробнее о плагине для работы с таблицами]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 
 ## Другие полезные статьи
 
@@ -130,7 +130,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 **Модуль статистики** позволяет визуализировать данные в виде всевозможных графиков и статистических данных. Вам доступны следующие **типы графиков**: столбчатые, столбиковые, линейные и круговые диаграммы, а также карты, тепловые изображения, спидометры и поворотные таблицы. Вы можете настроить подходящую для вас визуализацию в различных **графиках** и создать **приборную панель с наиболее важными статистическими данными**.
 
-[Подробнее о модуле статистики](https://seatable.io/ru/docs/plugins/anleitung-zum-statistik-plugin)
+[Подробнее о модуле статистики]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
 
 ### Веб-формы
 

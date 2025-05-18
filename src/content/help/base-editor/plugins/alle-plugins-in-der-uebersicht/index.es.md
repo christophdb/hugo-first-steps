@@ -28,8 +28,8 @@ En el complemento de calendario, puede mostrar los datos de una [columna]({{< re
 
 Estos artículos también pueden interesarle:
 
-- [Crear varios calendarios para una base](https://seatable.io/es/docs/kalender-plugin/mehrere-kalender-fuer-eine-base-anlegen/)
-- [Crear nuevas entradas de calendario en el complemento de calendario](https://seatable.io/es/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/)
+- [Crear varios calendarios para una base]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
+- [Crear nuevas entradas de calendario en el complemento de calendario]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
 
 ## Complemento de línea de tiempo
 
@@ -45,11 +45,11 @@ El complemento de galería es especialmente adecuado para mostrar registros con 
 
 ![Plugin de galería](images/Galerie.png)
 
-[Más información sobre el plugin de galerías](https://seatable.io/es/docs/galerie-plugin/anleitung-zum-galerie-plugin/)
+[Más información sobre el plugin de galerías]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}})
 
 Este artículo también puede interesarle:
 
-- [Añadir una nueva fila a través del plugin de galería](https://seatable.io/es/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/)
+- [Añadir una nueva fila a través del plugin de galería]({{< relref "help/base-editor/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen" >}})
 
 ## Complemento de mapas
 
@@ -65,7 +65,7 @@ El complemento de deduplicación de datos descubre **entradas duplicadas** en un
 
 ![](images/Deduplication.png)
 
-[Más información sobre el plugin de duplicación de datos](https://seatable.io/es/docs/plugins/anleitung-zum-datendeduplizierungs-plugin/)
+[Más información sobre el plugin de duplicación de datos]({{< relref "help/base-editor/plugins/anleitung-zum-datendeduplizierungs-plugin" >}})
 
 ## Plugin de diseño de páginas
 
@@ -90,7 +90,7 @@ Con el plugin Kanban puede visualizar las entradas de la tabla en **un tablero K
 
 ![Complemento Kanban](images/Kanban-Plugin.png)
 
-[Más información sobre el plugin Kanban](https://seatable.io/es/docs/kanban-plugin/anleitung-zum-kanban-plugin/)
+[Más información sobre el plugin Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 
 ## Complemento de consulta SQL
 
@@ -98,7 +98,7 @@ El complemento de consulta SQL está perfectamente adaptado para la **ejecución
 
 ![Resultados de una consulta de datos mediante el comando SQL SELECT](images/results-data-sql-query.png)
 
-[Más información sobre el complemento de consulta SQL](https://seatable.io/es/docs/plugins/anleitung-zum-sql-abfrage-plugin/)
+[Más información sobre el complemento de consulta SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}})
 
 ## Plugin de pizarra blanca
 
@@ -106,7 +106,7 @@ El plugin de pizarra blanca te da la libertad de visualizar gráficamente proces
 
 ![Plugin de pizarra blanca](images/Whiteboard-Plugin.png)
 
-[Más información sobre el plugin de la pizarra](https://seatable.io/es/docs/plugins/anleitung-zum-whiteboard-plugin/)
+[Más información sobre el plugin de la pizarra]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin" >}})
 
 ## Plugin de organigrama
 
@@ -122,7 +122,7 @@ Especialmente cuando hay muchas tablas con docenas de columnas en una base, es f
 
 ![Plugin de relaciones entre tablas](images/Table-Relationships-Plugin.png)
 
-[Más información sobre el plugin de relaciones entre tablas](https://seatable.io/es/docs/plugins/anleitung-zum-tabellenbeziehungen-plugin/)
+[Más información sobre el plugin de relaciones entre tablas]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 
 ## Otros artículos útiles
 
@@ -130,7 +130,7 @@ Especialmente cuando hay muchas tablas con docenas de columnas en una base, es f
 
 El **módulo de estadísticas** le permite visualizar datos en todo tipo de gráficos y estadísticas. Tienes a tu disposición los siguientes **tipos de** gráficos: de columnas, de barras, de líneas y circulares, así como mapas, imágenes térmicas, velocímetros y tablas dinámicas. Puedes configurar la visualización que más te convenga en los distintos **gráficos** y construir un **cuadro de mandos con las estadísticas más importantes**.
 
-[Más información sobre el módulo estadístico](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin)
+[Más información sobre el módulo estadístico]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
 
 ### Formularios web
 

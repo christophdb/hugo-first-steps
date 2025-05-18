@@ -24,7 +24,7 @@ To quickly **several new rows** you can also use the key combination {{< key "Sh
 
 ![Add new row via shortcut](images/create-new-row-shortcut.gif)
 
-Furthermore, some **plugins** of SeaTable offer the option to add new entries. These include the [gallery](https://seatable.io/en/docs/galerie-plugin/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/), the [calendar](https://seatable.io/en/docs/kalender-plugin/neue-kalendereintraege-im-kalender-plugin-anlegen/) and the [Kanban plugin](https://seatable.io/en/docs/kanban-plugin/anleitung-zum-kanban-plugin/).
+Furthermore, some **plugins** of SeaTable offer the option to add new entries. These include the [gallery]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}}) and the [Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}).
 
 ## Why you cannot create new rows
 
