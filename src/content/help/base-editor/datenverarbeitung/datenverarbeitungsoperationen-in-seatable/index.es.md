@@ -30,7 +30,7 @@ Actualmente pueden realizarse las siguientes **operaciones matemáticas** median
 
 Actualmente pueden realizarse las siguientes **operaciones de relación** mediante la función de tratamiento de datos:
 
-- [Comparar y enlazar](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Comparar y enlazar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
 - [Comparar y copiar](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
 - [Transferir nombres de usuario](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
 

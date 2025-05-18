@@ -38,4 +38,4 @@ Another column type that you are not familiar with from a spreadsheet is the [li
 
 Here is an application example: A property management company records the managed objects in a table and links them to tenants who are managed in another table. If something changes in the object properties, the manager only has to change the adjustment in the object table. By linking, the changed information is automatically updated for all assigned tenants.
 
-[You create additional tables via the table tabs](https://seatable.io/en/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/). Each table has an individual layout: design the columns according to your own wishes and needs.
+[You create additional tables via the table tabs]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}). Each table has an individual layout: design the columns according to your own wishes and needs.

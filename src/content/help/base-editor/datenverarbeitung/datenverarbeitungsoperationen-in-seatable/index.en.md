@@ -30,7 +30,7 @@ The following **mathematical operations** can currently be performed using the d
 
 The following **relationship operations** can currently be performed using the data processing function:
 
-- [Compare and link](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Compare and link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
 - [Compare and copy](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
 - [Transfer user name](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
 

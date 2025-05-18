@@ -179,7 +179,7 @@ L'action d'automatisation "Exécuter un script Python" est actuellement disponib
 
 ## Action d'automatisation : exécuter une opération de traitement des données
 
-Si vous sélectionnez l'exécution d'une opération de traitement des données en tant qu'action automatisée, une [opération de traitement des données](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) définie au préalable dans la table est exécutée lorsque le **déclencheur est déclenché**. Vous pouvez définir l'opération de traitement des données à exécuter dans les **paramètres** de la règle d'automatisation.
+Si vous sélectionnez l'exécution d'une opération de traitement des données en tant qu'action automatisée, une [opération de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) définie au préalable dans la table est exécutée lorsque le **déclencheur est déclenché**. Vous pouvez définir l'opération de traitement des données à exécuter dans les **paramètres** de la règle d'automatisation.
 
 ![Définition d'une action d'automatisation : exécuter une opération de traitement des données](images/define-data-operation-to-run-with-automation.png)
 

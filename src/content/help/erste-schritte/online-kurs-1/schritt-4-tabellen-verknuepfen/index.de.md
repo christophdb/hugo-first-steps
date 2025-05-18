@@ -42,7 +42,7 @@ Um überhaupt Verknüpfungen anlegen zu können, benötigen wir eine zweite Tabe
 Um die Datensätze in beiden Tabellen nun miteinander zu verknüpfen, haben Sie zwei Möglichkeiten:
 
 1. Sie können einem Eintrag in der Tabelle `Expenses` manuell eine Zeile aus der Tabelle `Categories` zuweisen, in dem Sie innerhalb der Zelle auf das {{< key "+" >}} klicken und dann die passende Kategorie auswählen. Dies wird bei größeren Datenmengen schnell mühsam und fehleranfällig. ![](images/level1-link-rows.png)
-2. Alternativ können Sie die [Datenverarbeitungsoptionen](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) von SeaTable verwenden, um das Setzen der Verknüpfungen zu automatisieren. ![](images/level1-data-operation.png)
+2. Alternativ können Sie die [Datenverarbeitungsoptionen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) von SeaTable verwenden, um das Setzen der Verknüpfungen zu automatisieren. ![](images/level1-data-operation.png)
 
 ### Zellen per Datenverarbeitungsoperation verknüpfen
 
@@ -75,6 +75,6 @@ Probieren Sie doch die neu hinzufügte Spalte `Category-Link` dem Webformular hi
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Eine Tabelle einer Base hinzufügen](https://seatable.io/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/)
+- [Eine Tabelle einer Base hinzufügen]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
 - [Wie man Tabellen in SeaTable miteinander verknüpft](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Datenverarbeitung Vergleichen und Verknüpfen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Datenverarbeitung Vergleichen und Verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

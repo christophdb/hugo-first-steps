@@ -44,7 +44,7 @@ Ahora tiene dos opciones para vincular los registros de datos de ambas tablas:
 
 1. Puede asignar una entrada en el `Expenses` Seleccionar manualmente una línea de la tabla `Categories` pulsando dentro de la celda en el {{< key "+" >}} y, a continuación, seleccione la categoría adecuada. Esto se convierte rápidamente en una tarea tediosa y propensa a errores con grandes cantidades de datos.  
    ![](images/level1-link-rows.png)
-2. También puede utilizar la función [Opciones de tratamiento de datos](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) de SeaTable para automatizar la configuración de los enlaces.  
+2. También puede utilizar la función [Opciones de tratamiento de datos]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de SeaTable para automatizar la configuración de los enlaces.  
    ![](images/level1-data-operation.png)
 
 ### Enlazar células por operación de tratamiento de datos
@@ -79,6 +79,6 @@ Al suprimir la columna `Category` la opción de entrada en el formulario web se 
 
 ## Artículo de ayuda con más información
 
-- [Añadir una tabla a una base](https://seatable.io/es/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/)
+- [Añadir una tabla a una base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
 - [Cómo enlazar tablas en SeaTable](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Tratamiento de datos Comparación y enlace](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Tratamiento de datos Comparación y enlace]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

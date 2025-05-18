@@ -54,7 +54,7 @@ Ist diese Einstellung **aktiviert**, kann die betroffene Base von **niemandem** 
 
 ### Anlegen und Ändern von Datenverarbeitungsoperationen verhindern
 
-Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass andere Benutzer [Datenverarbeitungsoperationen](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) anlegen, bearbeiten oder löschen können.
+Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass andere Benutzer [Datenverarbeitungsoperationen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) anlegen, bearbeiten oder löschen können.
 
 Ist diese Einstellung **aktiviert**, werden die entsprechenden Symbole zum Hinzufügen, Bearbeiten oder Löschen von Datenverarbeitungsoperationen **ausgeblendet**, bis die Einstellung von einem Eigentümer oder einem Administrator wieder deaktiviert wird. Allerdings können alle Nutzer immer noch die bestehenden [Datenverarbeitungsoperationen ausführen](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/).
 
@@ -80,4 +80,4 @@ Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Benutzer, a
 
 ### Anlegen und Ändern von Datenverarbeitungsoperationen verhindern
 
-Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Benutzer, an welche die entsprechende [Base freigegeben](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/) ist, [Datenverarbeitungsoperationen](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) anlegen, bearbeiten oder löschen können. Allerdings können sie immer noch die bestehenden [Datenverarbeitungsoperationen ausführen](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/).
+Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Benutzer, an welche die entsprechende [Base freigegeben]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) anlegen, bearbeiten oder löschen können. Allerdings können sie immer noch die bestehenden [Datenverarbeitungsoperationen ausführen](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/).

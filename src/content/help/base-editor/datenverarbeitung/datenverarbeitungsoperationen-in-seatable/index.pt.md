@@ -30,7 +30,7 @@ As seguintes **operações matemáticas** podem actualmente ser realizadas utili
 
 As seguintes **operações de relacionamento** podem actualmente ser realizadas utilizando a função de processamento de dados:
 
-- [Comparar e ligar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Comparar e ligar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
 - [Comparar e copiar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
 - [Transferir nomes de utilizadores](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
 

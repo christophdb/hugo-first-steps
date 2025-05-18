@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/datenverarbeitungsoperation-per-automation-ausfuehren'
 ---
 
-Grâce à l'automatisation, vous ne devez plus effectuer une opération de traitement des données manuellement, mais vous pouvez la faire exécuter automatiquement. La diversité des [opérations de traitement des données](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) disponibles - des calculs mathématiques à l'établissement de liens entre les valeurs de différents tableaux - vous ouvre de nouvelles possibilités d'automatisation de vos processus de travail.
+Grâce à l'automatisation, vous ne devez plus effectuer une opération de traitement des données manuellement, mais vous pouvez la faire exécuter automatiquement. La diversité des [opérations de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) disponibles - des calculs mathématiques à l'établissement de liens entre les valeurs de différents tableaux - vous ouvre de nouvelles possibilités d'automatisation de vos processus de travail.
 
 ## Exécuter une opération de traitement de données par automatisation
 

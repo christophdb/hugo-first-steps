@@ -44,7 +44,7 @@ You now have two options for linking the data records in both tables:
 
 1. You can assign an entry in the `Expenses` Manually a row from the table `Categories` in which you click on the {{< key "+" >}} and then select the appropriate category. This quickly becomes tedious and error-prone with large amounts of data.  
    ![](images/level1-link-rows.png)
-2. Alternatively, you can use the [Data processing options](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) of SeaTable to automate the setting of the links.  
+2. Alternatively, you can use the [Data processing options]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) of SeaTable to automate the setting of the links.  
    ![](images/level1-data-operation.png)
 
 ### Link cells by data processing operation
@@ -79,6 +79,6 @@ Try the newly added column `Category-Link` to the web form so that you can enter
 
 ## Help article with further information
 
-- [Add a table to a base](https://seatable.io/en/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/)
+- [Add a table to a base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
 - [How to link tables in SeaTable](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Data processing Compare and link](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Data processing Compare and link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

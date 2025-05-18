@@ -54,7 +54,7 @@ Se esta definição estiver **activada**, a base em questão não pode ser copia
 
 ### Impedir a criação e alteração de operações de tratamento de dados
 
-Ao ativar esta definição, é possível **impedir que** outros utilizadores criem, editem ou eliminem [operações de processamento de dados](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/).
+Ao ativar esta definição, é possível **impedir que** outros utilizadores criem, editem ou eliminem [operações de processamento de dados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
 Se esta definição estiver **activada**, os ícones correspondentes para adicionar, editar ou eliminar operações de processamento de dados ficam **ocultos** até que a definição seja novamente desactivada por um proprietário ou administrador. No entanto, todos os utilizadores podem continuar a executar as [operações de processamento](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) de dados existentes.
 
@@ -80,4 +80,4 @@ Ao activar esta definição, pode **impedir que** os utilizadores a quem a [base
 
 ### Impedir a criação e alteração de operações de tratamento de dados
 
-Ao ativar esta opção, é possível **impedir que** os utilizadores a quem a [base](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondente é [libertada](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) possam criar, editar ou eliminar [operações de processamento de](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) dados. No entanto, eles ainda podem [executar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) as [operações](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) de processamento de dados existentes.
+Ao ativar esta opção, é possível **impedir que** os utilizadores a quem a [base]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) dados. No entanto, eles ainda podem [executar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) as [operações](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) de processamento de dados existentes.

@@ -52,7 +52,7 @@ o importar los datos a una **nueva tabla**.
 
 La importación se realiza como [archivo CSV](https://seatable.io/es/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) o [archivo Excel](https://seatable.io/es/docs/import-von-daten/import-von-excel-dateien-in-seatable/) en la tabla. Para más información, consulte los artículos enlazados.
 
-Si ya ha creado una tabla en **SeaTable** y la necesita en **otra** base, puede simplemente copiarla. Puede averiguar cómo importar tablas de otra base [aquí](https://seatable.io/es/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/).
+Si ya ha creado una tabla en **SeaTable** y la necesita en **otra** base, puede simplemente copiarla. Puede averiguar cómo importar tablas de otra base [aquí]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}).
 
 {{< warning  headline="Límite de memoria para líneas"  text="El backend normal de SeaTable puede contener un máximo de 100.000 filas por tabla. Si desea importar un archivo Excel o CSV que contenga más de 100.000 filas, primero debe [activar el backend de Big](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) Data para poder importarlo." />}}
 

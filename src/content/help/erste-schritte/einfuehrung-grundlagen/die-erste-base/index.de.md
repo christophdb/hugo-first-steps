@@ -39,4 +39,4 @@ Ein weiterer Spaltentyp, den Sie aus einer Tabellenkalkulation nicht kennen, ist
 
 Hier ein Anwendungsbeispiel: Eine Hausverwaltung erfasst in einer Tabelle die verwalteten Objekte und verknüpft diese mit Mietern, die in einer anderen Tabelle geführt werden. Ändert sich an den Objekteigenschaften etwas, so muss der Verwalter die Anpassung nur in der Objekt-Tabelle ändern. Per Verknüpfung wird die geänderte Information bei allen zugeordneten Mietern automatisch aktualisiert.
 
-[Weitere Tabellen legen Sie über die Tabellentabs an](https://seatable.io/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/). Jede Tabelle hat ein individuelles Layout: Gestalten Sie die Spalten nach Ihren eigenen Wünschen und Bedürfnissen.
+[Weitere Tabellen legen Sie über die Tabellentabs an]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}). Jede Tabelle hat ein individuelles Layout: Gestalten Sie die Spalten nach Ihren eigenen Wünschen und Bedürfnissen.

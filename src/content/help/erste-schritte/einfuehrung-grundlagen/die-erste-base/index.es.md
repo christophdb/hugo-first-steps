@@ -38,4 +38,4 @@ Otro tipo de columna que no le resultará familiar de una hoja de cálculo es el
 
 He aquí un ejemplo de aplicación: Una empresa de gestión inmobiliaria registra los objetos gestionados en una tabla y los vincula a los inquilinos gestionados en otra tabla. Si algo cambia en las propiedades del objeto, el gestor sólo tiene que modificar el ajuste en la tabla de objetos. Mediante la vinculación, la información modificada se actualiza automáticamente para todos los inquilinos asignados.
 
-[Puede crear tablas adicionales utilizando las pestañas de tabla](https://seatable.io/es/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/). Cada tabla tiene un diseño individual: diseñe las columnas según sus propios deseos y necesidades.
+[Puede crear tablas adicionales utilizando las pestañas de tabla]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}). Cada tabla tiene un diseño individual: diseñe las columnas según sus propios deseos y necesidades.

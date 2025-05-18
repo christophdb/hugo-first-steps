@@ -179,7 +179,7 @@ The Run Python Script automation action is currently available with the followin
 
 ## Automation action: perform data processing operation
 
-If you select the execution of a data processing operation as an automated action, a [data processing operation](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) defined in advance in the table is executed when the **trigger is triggered**. You can define the data processing operation to be executed in the automation rule **settings**.
+If you select the execution of a data processing operation as an automated action, a [data processing operation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) defined in advance in the table is executed when the **trigger is triggered**. You can define the data processing operation to be executed in the automation rule **settings**.
 
 ![Definition of an automation action: Execute data processing operation](images/define-data-operation-to-run-with-automation.png)
 

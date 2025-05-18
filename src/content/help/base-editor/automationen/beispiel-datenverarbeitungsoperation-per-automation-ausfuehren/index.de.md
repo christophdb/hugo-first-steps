@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/datenverarbeitungsoperation-per-automation-ausfuehren'
 ---
 
-Mithilfe von Automationen müssen Sie eine Datenverarbeitungsoperation nicht mehr manuell ausführen, sondern können diese automatisch ausführen lassen. Die Vielfalt der verfügbaren [Datenverarbeitungsoperationen](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) – von mathematischen Berechnungen bis hin zur Herstellung von Verknüpfungen zwischen Werten in verschiedenen Tabellen – eröffnet Ihnen dabei neue Möglichkeiten in der Automatisierung Ihrer Arbeitsprozesse.
+Mithilfe von Automationen müssen Sie eine Datenverarbeitungsoperation nicht mehr manuell ausführen, sondern können diese automatisch ausführen lassen. Die Vielfalt der verfügbaren [Datenverarbeitungsoperationen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) – von mathematischen Berechnungen bis hin zur Herstellung von Verknüpfungen zwischen Werten in verschiedenen Tabellen – eröffnet Ihnen dabei neue Möglichkeiten in der Automatisierung Ihrer Arbeitsprozesse.
 
 ## Eine Datenverarbeitungsoperation per Automation ausführen
 
@@ -31,7 +31,7 @@ Nachdem Sie festgelegt haben, in welcher **Tabelle** und **Ansicht** die Automat
 
 ![Periodischer Trigger](https://seatable.io/docs/automationen/automations-trigger/#automations-trigger_periodischer_trigger)
 
-Wählen Sie anschließend als automatisierte Aktion **Datenverarbeitungsoperation ausführen** aus und entscheiden Sie sich für die gewünschte [Datenverarbeitungsoperation](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/).
+Wählen Sie anschließend als automatisierte Aktion **Datenverarbeitungsoperation ausführen** aus und entscheiden Sie sich für die gewünschte [Datenverarbeitungsoperation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
 ![Hinzufügen der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png)
 

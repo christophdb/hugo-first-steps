@@ -30,7 +30,7 @@ SeaTable часто мыслит рядами. Например, [формула
 
 В настоящее время с помощью функции обработки данных можно выполнить следующие **операции с отношениями**:
 
-- [Сравнить и связать](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Сравнить и связать]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
 - [Сравнение и копирование](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
 - [Передача имен пользователей](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
 

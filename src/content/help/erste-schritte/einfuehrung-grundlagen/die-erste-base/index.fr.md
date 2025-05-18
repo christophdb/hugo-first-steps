@@ -38,4 +38,4 @@ Un autre type de colonne que vous ne connaissez pas dans un tableur est la [liai
 
 Voici un exemple d'application : une gérance immobilière saisit dans une table les objets gérés et les relie aux locataires qui sont gérés dans une autre table. Si les propriétés de l'objet changent, le gestionnaire doit uniquement modifier l'adaptation dans le tableau des objets. Grâce à la liaison, les informations modifiées sont automatiquement mises à jour pour tous les locataires affectés.
 
-[Vous créez d'autres tableaux à l'aide des onglets](https://seatable.io/fr/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/). Chaque tableau a une mise en page individuelle : aménagez les colonnes selon vos propres souhaits et besoins.
+[Vous créez d'autres tableaux à l'aide des onglets]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}). Chaque tableau a une mise en page individuelle : aménagez les colonnes selon vos propres souhaits et besoins.

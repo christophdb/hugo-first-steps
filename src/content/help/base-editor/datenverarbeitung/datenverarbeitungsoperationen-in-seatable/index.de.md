@@ -30,7 +30,7 @@ Folgende **mathematische Operationen** können derzeit mithilfe der Datenverarbe
 
 Folgende **Beziehungs-Operationen** können derzeit mithilfe der Datenverarbeitungsfunktion durchgeführt werden:
 
-- [Vergleichen und verknüpfen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})
 - [Vergleichen und kopieren](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/)
 - [Benutzernamen übertragen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-benutzernamen-uebertragen/)
 

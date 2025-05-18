@@ -44,7 +44,7 @@ Existem agora duas opções para ligar os registos de dados em ambas as tabelas:
 
 1. É possível atribuir uma entrada na lista `Expenses` Selecionar manualmente uma linha da tabela `Categories` clicando na célula do ficheiro {{< key "+" >}} e, em seguida, selecionar a categoria adequada. Isto torna-se rapidamente aborrecido e propenso a erros com grandes quantidades de dados.  
    ![](images/level1-link-rows.png)
-2. Em alternativa, pode utilizar o [Opções de processamento de dados](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) do SeaTable para automatizar a definição das ligações.  
+2. Em alternativa, pode utilizar o [Opções de processamento de dados]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) do SeaTable para automatizar a definição das ligações.  
    ![](images/level1-data-operation.png)
 
 ### Ligar células por operação de processamento de dados
@@ -79,6 +79,6 @@ Porque não experimenta a coluna recentemente adicionada `Category-Link` para o 
 
 ## Artigo de ajuda com mais informações
 
-- [Adicionar uma tabela a uma base](https://seatable.io/pt/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/)
+- [Adicionar uma tabela a uma base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
 - [Como ligar as tabelas em SeaTable](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Processamento de dados Comparar e ligar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Processamento de dados Comparar e ligar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

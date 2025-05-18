@@ -44,7 +44,7 @@ url: '/ru/help/schritt-4-tabellen-verknuepfen'
 
 1. Вы можете назначить запись в `Expenses` Выберите строку из таблицы вручную `Categories` щелкнув в ячейке на {{< key "+" >}} а затем выберите соответствующую категорию. Это быстро становится утомительным и приводит к ошибкам при работе с большими объемами данных.  
    ![](images/level1-link-rows.png)
-2. В качестве альтернативы вы можете использовать [Варианты обработки данных](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) SeaTable для автоматизации установки связей.  
+2. В качестве альтернативы вы можете использовать [Варианты обработки данных]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) SeaTable для автоматизации установки связей.  
    ![](images/level1-data-operation.png)
 
 ### Связывание ячеек с помощью операции обработки данных
@@ -79,6 +79,6 @@ url: '/ru/help/schritt-4-tabellen-verknuepfen'
 
 ## Справочная статья с дополнительной информацией
 
-- [Добавить таблицу в базу](https://seatable.io/ru/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/)
+- [Добавить таблицу в базу]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
 - [Как связать таблицы вместе в SeaTable](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Обработка данных Сравнение и связь](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/)
+- [Обработка данных Сравнение и связь]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

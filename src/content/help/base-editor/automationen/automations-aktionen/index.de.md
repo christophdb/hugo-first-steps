@@ -1,11 +1,11 @@
 ---
-title: "Automations-Aktionen"
+title: 'Automations-Aktionen'
 date: 2023-01-27
-lastmod: "2024-02-12"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/de/hilfe/automations-aktionen"
+lastmod: '2024-02-12'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/de/hilfe/automations-aktionen'
 ---
 
 {{< required-version "Enterprise" >}}
@@ -178,7 +178,7 @@ Die Automations-Aktion "Python-Skript ausführen" steht Ihnen derzeit bei folgen
 
 ## Automations-Aktion: Datenverarbeitungsoperation ausführen
 
-Wenn Sie die Ausführung einer Datenverarbeitungsoperation als automatisierte Aktion auswählen, wird bei Auslösung des **Triggers** eine im Vorhinein definierte [Datenverarbeitungsoperation](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) in der Tabelle ausgeführt. Die auszuführende Datenverarbeitungsoperation können Sie in den **Einstellungen** der Automatisierungsregel festlegen.
+Wenn Sie die Ausführung einer Datenverarbeitungsoperation als automatisierte Aktion auswählen, wird bei Auslösung des **Triggers** eine im Vorhinein definierte [Datenverarbeitungsoperation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) in der Tabelle ausgeführt. Die auszuführende Datenverarbeitungsoperation können Sie in den **Einstellungen** der Automatisierungsregel festlegen.
 
 ![Definition einer Automations-Aktion: Datenverarbeitungsoperation ausführen](images/define-data-operation-to-run-with-automation.png)
 

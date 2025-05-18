@@ -38,4 +38,4 @@ Outro tipo de coluna com que não está familiarizado numa folha de cálculo é 
 
 Aqui está um exemplo de aplicação: Uma empresa de gestão de propriedade regista os objectos geridos numa tabela e liga-os a inquilinos que são geridos noutra tabela. Se algo mudar nas propriedades do objecto, o gestor só tem de alterar o ajustamento na tabela de objectos. Através da ligação, a informação alterada é automaticamente actualizada para todos os inquilinos atribuídos.
 
-[Pode criar tabelas adicionais utilizando os separadores de tabelas](https://seatable.io/pt/docs/arbeiten-in-tabellen/eine-tabelle-in-einer-base-hinzufuegen/). Cada tabela tem uma disposição individual: desenhe as colunas de acordo com os seus próprios desejos e necessidades.
+[Pode criar tabelas adicionais utilizando os separadores de tabelas]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}). Cada tabela tem uma disposição individual: desenhe as colunas de acordo com os seus próprios desejos e necessidades.

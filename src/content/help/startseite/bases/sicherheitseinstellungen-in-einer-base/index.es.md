@@ -54,7 +54,7 @@ Si este ajuste está **activado**, la base en cuestión no podrá ser copiada po
 
 ### Impedir la creación y modificación de operaciones de tratamiento de datos
 
-Activando esta opción, puede **impedir** que otros usuarios creen, editen o borren [operaciones de tratamiento de datos](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/).
+Activando esta opción, puede **impedir** que otros usuarios creen, editen o borren [operaciones de tratamiento de datos]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
 Si este ajuste está **activado**, los iconos correspondientes para añadir, editar o eliminar operaciones de tratamiento de datos se **ocultan** hasta que el ajuste sea desactivado de nuevo por un propietario o administrador. Sin embargo, todos los usuarios pueden seguir realizando las [operaciones](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) de tratamiento de datos existentes.
 
@@ -80,4 +80,4 @@ Al activar esta opción, puede **impedir** que los usuarios a los que se ha [lib
 
 ### Impedir la creación y modificación de operaciones de tratamiento de datos
 
-Activando esta opción **se impide que** los usuarios a los que se [libera](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/) la [base](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondiente puedan crear, editar o borrar operaciones de [tratamiento](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) de datos. Sin embargo, podrán seguir [ejecutando](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) las operaciones de tratamiento de datos existentes.
+Activando esta opción **se impide que** los usuarios a los que se [libera]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de datos. Sin embargo, podrán seguir [ejecutando](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren/) las operaciones de tratamiento de datos existentes.
