@@ -12,12 +12,12 @@ Ambos tipos de uso compartido te permiten colaborar con **personas externas** **
 
 ## Enlaces externos
 
-Puede enviar un [enlace externo a](https://seatable.io/es/docs/freigabelinks/einladungs-link-erklaert/) otras personas **sin** que necesiten una **cuenta de SeaTable**. Un enlace externo para una base es, por tanto, un **enlace público** que concede **acceso de lectura a** una base. También puede utilizar un enlace externo para incrustar una Base en una página web.
+Puede enviar un [enlace externo a]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) otras personas **sin** que necesiten una **cuenta de SeaTable**. Un enlace externo para una base es, por tanto, un **enlace público** que concede **acceso de lectura a** una base. También puede utilizar un enlace externo para incrustar una Base en una página web.
 
 ![Diferencia entre Enlace Externo y Enlace por Invitación_aquí el Enlace Externo](images/unterschied-zwischen-einladungs-link-und-externem-link.png)
 
 ## Enlaces de invitación
 
-El [enlace de invitación](https://seatable.io/es/docs/freigabelinks/einladungs-link-erklaert/) le permite compartir bases con usuarios **existentes** de SeaTable, así como con personas externas que **aún no** tienen **una cuenta**. Sin embargo, para abrir el enlace y la base asociada, el destinatario debe **iniciar** sesión en SeaTable o **registrarse**. El enlace puede conceder permisos de **lectura y escritura**.
+El [enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) le permite compartir bases con usuarios **existentes** de SeaTable, así como con personas externas que **aún no** tienen **una cuenta**. Sin embargo, para abrir el enlace y la base asociada, el destinatario debe **iniciar** sesión en SeaTable o **registrarse**. El enlace puede conceder permisos de **lectura y escritura**.
 
 ![Diferencia entre enlace de invitación y enlace externo_aquí el enlace de invitación](images/unterschied-zwischen-einladungs-link-und-externem-link-2.png)

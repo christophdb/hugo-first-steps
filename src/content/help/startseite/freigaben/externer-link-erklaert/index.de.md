@@ -1,11 +1,11 @@
 ---
-title: "Externen Link für eine Base erstellen"
+title: 'Externen Link für eine Base erstellen'
 date: 2022-11-07
-lastmod: "2023-01-17"
-categories: 
-  - "freigaben"
-author: "vge"
-url: "/de/hilfe/externer-link-erklaert"
+lastmod: '2023-01-17'
+categories:
+    - 'freigaben'
+author: 'vge'
+url: '/de/hilfe/externer-link-erklaert'
 ---
 
 Sie haben Daten, die Sie mit einer größeren Anzahl an Personen teilen oder sogar öffentlich zugänglich machen wollen? Für diese Anwendungsfälle sind **externe Links** genau das Richtige!
@@ -21,7 +21,7 @@ Ein externer Link ist eine **URL**, über die Sie mit **Lesezugriff** auf eine D
 - **Externer Link für eine Base**: Durch den Aufruf dieses externen Links kann der Besucher alle in einer Base gespeicherten Daten inklusive aller Tabellen **sehen**. Der Besucher kann darüber hinaus auf **alle bestehenden Ansichten** und [Statistiken](/docs/handbuch/datenmanagement/statistiken/) zugreifen. Zudem kann er die **Auswertungswerkzeuge** [Gruppierung, Sortierung und Filter](/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/) verwenden.
 - **Externer Link für eine Ansicht**: Ein solcher externer Link gewährt **Lesezugriff auf _eine_ bestimmte Ansicht einer Tabelle**. Andere Ansichten und Tabellen in der Base sowie **ausgeblendete Zeilen und Spalten** bleiben vor den Nutzern des externen Links **verborgen**. Lesen Sie mehr darüber im Artikel [Externen Link für eine Ansicht erstellen](https://seatable.io/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/).
 
-Externe Links sind grundsätzlich **öffentliche Links**, d.h. der Link kann von jeder Person aufgerufen werden, egal ob sie in SeaTable angemeldet ist oder nicht. Dies ist auch einer der wesentlichen [Unterschiede zum Einladungs-Link](https://seatable.io/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/). Ein **Einladungs-Link** erfordert eine Anmeldung in SeaTable und damit ein Benutzerkonto. Lesen Sie mehr dazu im Artikel [Einladungs-Link erstellen](https://seatable.io/docs/freigabelinks/einladungs-link-erklaert/).
+Externe Links sind grundsätzlich **öffentliche Links**, d.h. der Link kann von jeder Person aufgerufen werden, egal ob sie in SeaTable angemeldet ist oder nicht. Dies ist auch einer der wesentlichen [Unterschiede zum Einladungs-Link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}).
 
 Externe Links eignen sich immer dann, wenn Sie **externen Personen** Daten in Bases zugänglich machen wollen. Dies können Ergebnisse einer Umfrage sein, eine Preisliste genauso wie die Zeitplanung eines Events oder eines Produktreleases. Ein besonderer Einsatzzweck von externen Links ist deren **Einbettung in Webseiten**, zu der Sie unten mehr erfahren.
 

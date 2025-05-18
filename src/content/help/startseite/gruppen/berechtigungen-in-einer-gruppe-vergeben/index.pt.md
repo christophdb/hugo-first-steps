@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/berechtigungen-in-einer-gruppe-vergeben'
 ---
 
-Dentro de um grupo SeaTable, pode atribuir permissões, atribuindo um papel específico aos membros do grupo. Deve ser feita uma distinção entre os papéis de **proprietário**, **administrador** e **membro**, que têm todos [permissões](https://seatable.io/pt/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) diferentes.
+Dentro de um grupo SeaTable, pode atribuir permissões, atribuindo um papel específico aos membros do grupo. Deve ser feita uma distinção entre os papéis de **proprietário**, **administrador** e **membro**, que têm todos [permissões]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) diferentes.
 
 É importante notar que apenas como **proprietário** ou **administrador de** um grupo pode alterar as permissões dos outros membros. Aqui pode descobrir como atribuir permissões num grupo:
 

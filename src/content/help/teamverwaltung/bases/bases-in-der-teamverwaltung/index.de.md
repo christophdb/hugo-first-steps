@@ -75,6 +75,6 @@ In diesen beiden Übersichten können Sie nicht nur alle externen und Einladungs
 
 Mehr Informationen zu den Freigabelinks finden Sie in den folgenden Artikeln:
 
-- [Einladungs-Link erstellen](https://seatable.io/docs/freigabelinks/einladungs-link-erklaert/)
+- [Einladungs-Link erstellen]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Externen Link für eine Base erstellen](https://seatable.io/docs/freigabelinks/externer-link-erklaert/)
 - [Unterschiede zwischen Einladungs-Links und externen Links](https://seatable.io/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)

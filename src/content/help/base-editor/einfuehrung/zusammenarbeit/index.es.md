@@ -27,7 +27,7 @@ A continuación, conocerá las funciones de colaboración de SeaTable. Aprender�
 
 ## Bases del grupo
 
-Todos los miembros de un grupo tienen acceso a una base de [grupo](https://seatable.io/es/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/). Como propietario del grupo, usted gestiona el grupo y sus miembros. Puedes asignar derechos de acceso a los [miembros](https://seatable.io/es/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) a través de diferentes roles - y revocarlos con la misma rapidez. Puedes [crear un nuevo grupo](https://seatable.io/es/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/) a través del botón " **Nuevo grupo** " situado bajo tus bases en la página de inicio.
+Todos los miembros de un grupo tienen acceso a una base de [grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) a través del botón " **Nuevo grupo** " situado bajo tus bases en la página de inicio.
 
 ## Historia
 

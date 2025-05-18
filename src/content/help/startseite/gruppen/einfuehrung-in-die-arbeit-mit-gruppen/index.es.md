@@ -19,16 +19,16 @@ Cada miembro del equipo puede crear sus propios grupos e invitar a otros miembro
 
 ![Trabajar con grupos en SeaTable](images/arbeiten-mit-gruppen.png)
 
-Más información sobre cómo [crear un grupo](https://seatable.io/es/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
+Más información sobre cómo [crear un grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}).
 
 ## Invitar a otros miembros del equipo a un grupo
 
-Un grupo sólo tiene sentido si tiene más de un miembro en el equipo. Por lo tanto, lea aquí cómo [añadir nuevos miembros del equipo a un grupo](https://seatable.io/es/docs/gruppenmitglieder-und-berechtigungen/ein-teammitglied-einer-gruppe-hinzufuegen/).
+Un grupo sólo tiene sentido si tiene más de un miembro en el equipo. Por lo tanto, lea aquí cómo [añadir nuevos miembros del equipo a un grupo]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen" >}}).
 
 ## Permisos dentro de un grupo
 
-En principio, todos los miembros del grupo pueden ver los contenidos del mismo. Sin embargo, para poder crear nuevas bases en un grupo, debes ser el propietario o el administrador del grupo. Lea más sobre los diferentes [permisos dentro de un grupo](https://seatable.io/es/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) aquí.
+En principio, todos los miembros del grupo pueden ver los contenidos del mismo. Sin embargo, para poder crear nuevas bases en un grupo, debes ser el propietario o el administrador del grupo. Lea más sobre los diferentes [permisos dentro de un grupo]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) aquí.
 
 ## Grupos interdisciplinarios
 
-Actualmente no es posible crear grupos entre equipos. Si quieres colaborar con alguien ajeno a tu equipo, tienes que crear un [enlace de invitación](https://seatable.io/es/docs/freigabelinks/einladungs-link-erklaert/) para la base correspondiente y enviárselo a esa persona.
+Actualmente no es posible crear grupos entre equipos. Si quieres colaborar con alguien ajeno a tu equipo, tienes que crear un [enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) para la base correspondiente y enviárselo a esa persona.

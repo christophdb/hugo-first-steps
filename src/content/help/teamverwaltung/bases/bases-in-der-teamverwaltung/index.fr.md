@@ -77,6 +77,6 @@ Dans ces deux aperçus, vous pouvez voir non seulement tous les liens externes e
 
 Vous trouverez plus d'informations sur les liens de partage dans les articles suivants :
 
-- [Créer un lien d'invitation](https://seatable.io/fr/docs/freigabelinks/einladungs-link-erklaert/)
+- [Créer un lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Création d’un lien externe pour une base](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/)
 - [Différences entre les liens d’invitation et les liens externes](https://seatable.io/fr/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)

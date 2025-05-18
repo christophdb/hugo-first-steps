@@ -19,16 +19,16 @@ Each team member can create their own groups and invite other team members to jo
 
 ![Working with groups in SeaTable](images/arbeiten-mit-gruppen.png)
 
-Read more about how to [create a group](https://seatable.io/en/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
+Read more about how to [create a group]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}).
 
 ## Invite other team members to a group
 
-A group only makes sense if it has more than one team member. Therefore, read here how to [add new team members to a group](https://seatable.io/en/docs/gruppenmitglieder-und-berechtigungen/ein-teammitglied-einer-gruppe-hinzufuegen/).
+A group only makes sense if it has more than one team member. Therefore, read here how to [add new team members to a group]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen" >}}).
 
 ## Permissions within a group
 
-Basically, every group member can view the contents of the group. However, to be allowed to create new bases in a group, you have to be either the owner or the administrator of the group. Read more about the different [permissions within a group](https://seatable.io/en/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) here.
+Basically, every group member can view the contents of the group. However, to be allowed to create new bases in a group, you have to be either the owner or the administrator of the group. Read more about the different [permissions within a group]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) here.
 
 ## Cross team groups
 
-Cross-team groups are not currently possible. If you want to collaborate with someone outside your team, you need to create an [invitation link](https://seatable.io/en/docs/freigabelinks/einladungs-link-erklaert/) for the corresponding Base and send it to that person.
+Cross-team groups are not currently possible. If you want to collaborate with someone outside your team, you need to create an [invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) for the corresponding Base and send it to that person.

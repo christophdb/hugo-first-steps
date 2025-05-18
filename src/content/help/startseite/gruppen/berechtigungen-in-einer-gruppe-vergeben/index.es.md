@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/berechtigungen-in-einer-gruppe-vergeben'
 ---
 
-Dentro de un grupo SeaTable, puede asignar permisos asignando un rol específico a los miembros del grupo. Hay que distinguir entre los roles de **propietario**, **administrador** y **miembro**, que tienen [permisos](https://seatable.io/es/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) diferentes.
+Dentro de un grupo SeaTable, puede asignar permisos asignando un rol específico a los miembros del grupo. Hay que distinguir entre los roles de **propietario**, **administrador** y **miembro**, que tienen [permisos]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) diferentes.
 
 Es importante tener en cuenta que sólo como **propietario** o **administrador de** un grupo puedes cambiar los permisos de los demás miembros. Aquí puedes ver cómo asignar permisos en un grupo:
 

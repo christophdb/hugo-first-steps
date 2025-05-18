@@ -19,16 +19,16 @@ Cada membro da equipa pode criar os seus próprios grupos e convidar outros memb
 
 ![Trabalhar com grupos em SeaTable](images/arbeiten-mit-gruppen.png)
 
-Leia mais sobre como [criar um grupo](https://seatable.io/pt/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
+Leia mais sobre como [criar um grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}).
 
 ## Convidar outros membros da equipa para um grupo
 
-Um grupo só faz sentido se tiver mais do que um membro da equipa. Por conseguinte, leia aqui como [adicionar novos membros de equipa a um grupo](https://seatable.io/pt/docs/gruppenmitglieder-und-berechtigungen/ein-teammitglied-einer-gruppe-hinzufuegen/).
+Um grupo só faz sentido se tiver mais do que um membro da equipa. Por conseguinte, leia aqui como [adicionar novos membros de equipa a um grupo]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen" >}}).
 
 ## Permissões dentro de um grupo
 
-Em princípio, cada membro do grupo pode ver o conteúdo do grupo. No entanto, para poder criar novas bases num grupo, deve ser o proprietário ou o administrador do grupo. Leia mais sobre as diferentes [permissões dentro de um grupo](https://seatable.io/pt/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) aqui.
+Em princípio, cada membro do grupo pode ver o conteúdo do grupo. No entanto, para poder criar novas bases num grupo, deve ser o proprietário ou o administrador do grupo. Leia mais sobre as diferentes [permissões dentro de um grupo]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) aqui.
 
 ## Grupos de equipas cruzadas
 
-Os grupos de equipas cruzadas não são actualmente possíveis. Se quiser colaborar com alguém fora da sua equipa, tem de criar um [link de convite](https://seatable.io/pt/docs/freigabelinks/einladungs-link-erklaert/) para a base correspondente e enviá-lo a essa pessoa.
+Os grupos de equipas cruzadas não são actualmente possíveis. Se quiser colaborar com alguém fora da sua equipa, tem de criar um [link de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) para a base correspondente e enviá-lo a essa pessoa.

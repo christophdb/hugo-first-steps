@@ -38,7 +38,11 @@ Il existe trois rôles différents au sein d'un groupe SeaTable : **Propriétair
 | Accéder aux snapshots d'une base et les restaurer                                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Fonctions avancées (jeton API, webhooks, gestion des pièces jointes et connexion à Seafile) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
-{{< warning  headline="Attribuer des autorisations"  text="Si vous souhaitez attribuer une autorisation, notre guide [Attribuer des autorisations dans un groupe](https://seatable.io/fr/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/) vous sera certainement utile." />}}
+{{< warning  headline="Attribuer des autorisations" >}}
+
+Si vous souhaitez attribuer une autorisation, notre guide [Attribuer des autorisations dans un groupe]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}}) vous sera certainement utile.
+
+{{< /warning >}}
 
 ## Quels groupes et quelles bases voit-on ?
 

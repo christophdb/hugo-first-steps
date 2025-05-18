@@ -10,7 +10,7 @@ url: '/de/hilfe/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
 
 Der **Team-Administrator** hat die Kontrolle darüber, welches Teammitglied Teil welcher Gruppe ist. Sobald jemand **Mitglied** einer Gruppe ist, hat er normalerweise **Lese- und Schreibrechte** für alle Bases in dieser Gruppe.
 
-Erfahren Sie im Artikel [Gruppenmitglieder und ihre Berechtigungen](https://seatable.io/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) alles über die möglichen Rollen in einer Gruppe.
+Erfahren Sie im Artikel [Gruppenmitglieder und ihre Berechtigungen]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) alles über die möglichen Rollen in einer Gruppe.
 
 ## Die Mitgliedschaft und Rollen in einer Gruppe ändern
 

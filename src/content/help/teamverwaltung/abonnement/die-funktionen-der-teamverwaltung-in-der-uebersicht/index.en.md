@@ -33,7 +33,7 @@ The following articles may be of interest to you:
 
 ## Bases and releases
 
-Within the team management, you can see all **bases of** your team members and track who has an **access permission to** which bases. In addition, you can monitor and restrict sent [invitation](https://seatable.io/en/docs/freigabelinks/einladungs-link-erklaert/) links and [external links](https://seatable.io/en/docs/freigabelinks/externer-link-erklaert/) and see whether the links grant read or write permissions and how often they have been accessed.
+Within the team management, you can see all **bases of** your team members and track who has an **access permission to** which bases. In addition, you can monitor and restrict sent [invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) links and [external links](https://seatable.io/en/docs/freigabelinks/externer-link-erklaert/) and see whether the links grant read or write permissions and how often they have been accessed.
 
 The following articles may be of interest to you:
 

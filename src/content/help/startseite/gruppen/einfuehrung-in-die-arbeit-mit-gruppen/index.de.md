@@ -19,16 +19,16 @@ Jedes Teammitglied kann seine eigenen Gruppen anlegen und andere Teammitglieder 
 
 ![Arbeiten mit Gruppen in SeaTable](images/arbeiten-mit-gruppen.png)
 
-Lesen Sie mehr darüber, wie man [eine Gruppe anlegt](https://seatable.io/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
+Lesen Sie mehr darüber, wie man [eine Gruppe anlegt]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}).
 
 ## Andere Teammitglieder zu einer Gruppe einladen
 
-Eine Gruppe hat nur dann einen Sinn, wenn diese mehr als ein Teammitglied hat. Lesen Sie deshalb hier, wie Sie [einer Gruppe neue Teammitglieder hinzufügen](https://seatable.io/docs/gruppenmitglieder-und-berechtigungen/ein-teammitglied-einer-gruppe-hinzufuegen/).
+Eine Gruppe hat nur dann einen Sinn, wenn diese mehr als ein Teammitglied hat. Lesen Sie deshalb hier, wie Sie [einer Gruppe neue Teammitglieder hinzufügen]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen" >}}).
 
 ## Berechtigungen innerhalb einer Gruppe
 
-Grundsätzlich kann jedes Gruppenmitglied die Inhalte der Gruppe einsehen. Um in einer Gruppe neue Bases anlegen zu dürfen, muss man jedoch entweder Eigentümer oder Administrator der Gruppe sein. Lesen Sie hier mehr über die verschiedenen [Berechtigungen innerhalb einer Gruppe](https://seatable.io/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/).
+Grundsätzlich kann jedes Gruppenmitglied die Inhalte der Gruppe einsehen. Um in einer Gruppe neue Bases anlegen zu dürfen, muss man jedoch entweder Eigentümer oder Administrator der Gruppe sein. Lesen Sie hier mehr über die verschiedenen [Berechtigungen innerhalb einer Gruppe]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 ## Teamübergreifende Gruppen
 
-Teamübergreifende Gruppen sind aktuell nicht möglich. Wenn Sie mit jemandem außerhalb Ihres Teams zusammenarbeiten wollen, müssen Sie einen [Einladungslink](https://seatable.io/docs/freigabelinks/einladungs-link-erklaert/) für die entsprechende Base erstellen und dieser Person zuschicken.
+Teamübergreifende Gruppen sind aktuell nicht möglich. Wenn Sie mit jemandem außerhalb Ihres Teams zusammenarbeiten wollen, müssen Sie einen [Einladungslink]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) für die entsprechende Base erstellen und dieser Person zuschicken.

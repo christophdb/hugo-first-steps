@@ -8,9 +8,9 @@ author: 'vge'
 url: '/fr/aide/freigabe-von-bases-per-einladungslink-erlauben'
 ---
 
-Un [lien d'invitation](https://seatable.io/fr/docs/freigabelinks/einladungs-link-erklaert/) vous permet d'accorder des **droits de lecture et d'écriture** sur une **base** à des personnes extérieures à votre équipe, mais qui doivent se connecter à SeaTable.
+Un [lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) vous permet d'accorder des **droits de lecture et d'écriture** sur une **base** à des personnes extérieures à votre équipe, mais qui doivent se connecter à SeaTable.
 
-Pour savoir comment créer un lien d'invitation, [cliquez ici](https://seatable.io/fr/docs/freigabelinks/einladungs-link-erklaert/). Comme le lien peut être copié et retransmis à volonté, il est judicieux de définir un mot de passe et une date d'expiration comme **mesures de protection**.
+Pour savoir comment créer un lien d'invitation, [cliquez ici]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}). Comme le lien peut être copié et retransmis à volonté, il est judicieux de définir un mot de passe et une date d'expiration comme **mesures de protection**.
 
 Dans la **gestion d'équipe**, vous pouvez [voir](https://seatable.io/fr/docs/teamverwaltung/bases-in-der-teamverwaltung/) une [liste de tous les liens d'invitation pour une base](https://seatable.io/fr/docs/teamverwaltung/bases-in-der-teamverwaltung/). De plus, en tant qu'**administrateur d'équipe**, vous pouvez (dé)activer la fonction du lien d'invitation pour les autres membres de l'équipe. Ainsi, vous empêchez ou permettez que les membres de l'équipe puissent eux-mêmes partager des bases avec des tiers externes.
 

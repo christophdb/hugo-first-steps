@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/berechtigungen-in-einer-gruppe-vergeben'
 ---
 
-Innerhalb einer SeaTable Gruppe können Sie Berechtigungen vergeben, indem Sie Gruppenmitgliedern eine bestimmte Rolle zuweisen. Zu unterscheiden gilt es dabei zwischen den Rollen **Eigentümer**, **Administrator** und **Mitglied**, welche allesamt über unterschiedliche [Berechtigungen](https://seatable.io/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) verfügen.
+Innerhalb einer SeaTable Gruppe können Sie Berechtigungen vergeben, indem Sie Gruppenmitgliedern eine bestimmte Rolle zuweisen. Zu unterscheiden gilt es dabei zwischen den Rollen **Eigentümer**, **Administrator** und **Mitglied**, welche allesamt über unterschiedliche [Berechtigungen]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) verfügen.
 
 Wichtig ist, dass Sie lediglich als **Eigentümer** oder **Administrator** einer Gruppe die Berechtigungen der anderen Mitglieder ändern können. Hier erfahren Sie, wie Sie Berechtigungen in einer Gruppe vergeben können:
 

@@ -38,7 +38,11 @@ Innerhalb einer SeaTable Gruppe gibt es drei verschiedene Rollen: **Eigentümer*
 | Auf Snapshots einer Base zugreifen und sie wiederherstellen                               | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Erweiterte Funktionen (API-Token, Webhooks, Verwaltung der Anhänge und Seafile verbinden) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
-{{< warning  headline="Berechtigungen vergeben"  text="Wenn Sie eine Berechtigung vergeben wollen, hilft Ihnen bestimmt unsere Anleitung [Berechtigungen in einer Gruppe vergeben](https://seatable.io/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/) weiter." />}}
+{{< warning  headline="Berechtigungen vergeben" >}}
+
+Wenn Sie eine Berechtigung vergeben wollen, hilft Ihnen bestimmt unsere Anleitung [Berechtigungen in einer Gruppe vergeben]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}}).
+
+{{< /warning >}}
 
 ## Welche Gruppen und Bases sieht man?
 

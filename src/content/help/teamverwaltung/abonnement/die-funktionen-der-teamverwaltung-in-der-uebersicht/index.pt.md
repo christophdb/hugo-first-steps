@@ -33,7 +33,7 @@ Os artigos seguintes podem ser do seu interesse:
 
 ## Bases e lançamentos
 
-Dentro da administração da equipa, pode ver todas as **bases dos** membros da sua equipa e localizar quem tem **autorização de acesso a** que bases. Além disso, pode controlar e restringir as ligações de [convites](https://seatable.io/pt/docs/freigabelinks/einladungs-link-erklaert/) enviados e [ligações externas](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/) e ver se as ligações concedem permissões de leitura ou de escrita e com que frequência foram acedidas.
+Dentro da administração da equipa, pode ver todas as **bases dos** membros da sua equipa e localizar quem tem **autorização de acesso a** que bases. Além disso, pode controlar e restringir as ligações de [convites]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) enviados e [ligações externas](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/) e ver se as ligações concedem permissões de leitura ou de escrita e com que frequência foram acedidas.
 
 Os artigos seguintes podem ser do seu interesse:
 

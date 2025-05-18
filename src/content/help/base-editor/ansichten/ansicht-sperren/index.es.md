@@ -39,7 +39,7 @@ En la vista bloqueada, ya **no** se pueden modificar los siguientes ajustes:
 
 {{< warning  headline="Nota importante"  text="Tenga en cuenta que el bloqueo de una vista sólo se aplica a la configuración de la vista - las vistas bloqueadas **no** impiden que otros miembros del grupo vean y editen el contenido de la vista. El que otros miembros del grupo puedan o no editar una vista depende de su estado de autorización dentro del grupo. Para obtener más información, consulte el artículo de resumen." />}}
 
-[Los miembros del grupo y sus permisos](https://seatable.io/es/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/)
+[Los miembros del grupo y sus permisos]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}})
 
 ## Ejemplos de aplicación
 

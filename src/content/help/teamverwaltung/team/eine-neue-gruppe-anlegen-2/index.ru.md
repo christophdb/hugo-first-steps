@@ -20,4 +20,4 @@ url: '/ru/help/eine-neue-gruppe-anlegen-2'
 
 {{< warning  headline="Примечание"  text="**Для** создания новой группы необходимо выбрать **хотя бы одного члена группы**." />}}
 
-Прочитайте статью [Члены группы и их разрешения](https://seatable.io/ru/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/), чтобы узнать больше о ролях членов группы.
+Прочитайте статью [Члены группы и их разрешения]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}), чтобы узнать больше о ролях членов группы.

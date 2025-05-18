@@ -19,16 +19,16 @@ Chaque membre de l'équipe peut créer ses propres groupes et y inviter d'autres
 
 ![Travailler avec des groupes dans SeaTable](images/arbeiten-mit-gruppen.png)
 
-En savoir plus sur la [création d'un groupe](https://seatable.io/fr/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
+En savoir plus sur la [création d'un groupe]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}).
 
 ## Inviter d'autres membres de l'équipe à rejoindre un groupe
 
-Un groupe n'a de sens que s'il compte plus d'un membre. Lisez donc ici comment [ajouter de nouveaux membres d'équipe à un groupe](https://seatable.io/fr/docs/gruppenmitglieder-und-berechtigungen/ein-teammitglied-einer-gruppe-hinzufuegen/).
+Un groupe n'a de sens que s'il compte plus d'un membre. Lisez donc ici comment [ajouter de nouveaux membres d'équipe à un groupe]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen" >}}).
 
 ## Autorisations au sein d'un groupe
 
-En principe, chaque membre du groupe peut consulter le contenu du groupe. Pour pouvoir créer de nouvelles bases dans un groupe, il faut toutefois être soit propriétaire, soit administrateur du groupe. Lisez ici plus d'informations sur les différentes [autorisations au sein d'un groupe](https://seatable.io/fr/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/).
+En principe, chaque membre du groupe peut consulter le contenu du groupe. Pour pouvoir créer de nouvelles bases dans un groupe, il faut toutefois être soit propriétaire, soit administrateur du groupe. Lisez ici plus d'informations sur les différentes [autorisations au sein d'un groupe]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 ## Groupes inter-équipes
 
-Les groupes inter-équipes ne sont actuellement pas possibles. Si vous souhaitez collaborer avec quelqu'un en dehors de votre équipe, vous devez créer un [lien d'invitation](https://seatable.io/fr/docs/freigabelinks/einladungs-link-erklaert/) pour la base correspondante et l'envoyer à cette personne.
+Les groupes inter-équipes ne sont actuellement pas possibles. Si vous souhaitez collaborer avec quelqu'un en dehors de votre équipe, vous devez créer un [lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) pour la base correspondante et l'envoyer à cette personne.

@@ -20,4 +20,4 @@ Como administrador da equipa, pode criar novos grupos na administração da equi
 
 {{< warning  headline="Nota"  text="Deve seleccionar **pelo menos um membro do grupo para** que um novo grupo seja criado." />}}
 
-Leia o artigo [Membros do grupo e as suas permissões](https://seatable.io/pt/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) para saber mais sobre os papéis de um membro do grupo.
+Leia o artigo [Membros do grupo e as suas permissões]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) para saber mais sobre os papéis de um membro do grupo.

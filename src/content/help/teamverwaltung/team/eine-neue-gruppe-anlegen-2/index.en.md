@@ -20,4 +20,4 @@ As a team administrator, you can create new groups in the team administration. T
 
 {{< warning  headline="Note"  text="You must select **at least one group member for** a new group to be created." />}}
 
-Read the article [Group members and their permissions](https://seatable.io/en/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) to find out more about the roles of a group member.
+Read the article [Group members and their permissions]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) to find out more about the roles of a group member.

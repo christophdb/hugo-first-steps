@@ -24,7 +24,7 @@ Se quiser partilhar uma das suas bases, tem uma escolha de opções, dependendo 
 
 - [Lançamento para utilizadores](https://seatable.io/pt/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Lançamento para grupo](https://seatable.io/pt/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Lançamento através de link de convite](https://seatable.io/pt/docs/freigabelinks/einladungs-link-erklaert/)
+- [Lançamento através de link de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Lançamento através de ligação externa](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/)
 
 ### Partilha personalizada

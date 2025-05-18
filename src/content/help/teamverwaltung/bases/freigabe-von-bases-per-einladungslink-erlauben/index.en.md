@@ -8,9 +8,9 @@ author: 'vge'
 url: '/help/freigabe-von-bases-per-einladungslink-erlauben'
 ---
 
-With an [invitation link](https://seatable.io/en/docs/freigabelinks/einladungs-link-erklaert/), you can give **read and write perm** issions for a **Base** to people outside your team, but they must log in to SeaTable.
+With an [invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}), you can give **read and write perm** issions for a **Base** to people outside your team, but they must log in to SeaTable.
 
-You can learn how to create an invitation link [here.](https://seatable.io/en/docs/freigabelinks/einladungs-link-erklaert/) Since the link can be copied and forwarded as often as you like, it makes sense to set a password and an expiration date as **protective measures**.
+You can learn how to create an invitation link [here.]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) Since the link can be copied and forwarded as often as you like, it makes sense to set a password and an expiration date as **protective measures**.
 
 In the **team administration**, you can [view](https://seatable.io/en/docs/teamverwaltung/bases-in-der-teamverwaltung/) a [list of all invitation links for a base](https://seatable.io/en/docs/teamverwaltung/bases-in-der-teamverwaltung/). In addition, as a **team administrator**, you can (de)activate the invitation link feature for other team members. In this way, you prevent or enable team members themselves from sharing bases with external third parties.
 

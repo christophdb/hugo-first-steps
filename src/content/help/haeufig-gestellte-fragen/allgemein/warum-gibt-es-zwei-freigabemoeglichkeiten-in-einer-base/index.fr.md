@@ -24,7 +24,7 @@ Si vous souhaitez partager l'une de vos bases, vous avez le choix entre différe
 
 - [Partage avec les utilisateurs](https://seatable.io/fr/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Validation pour le groupe](https://seatable.io/fr/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Partage via le lien d'invitation](https://seatable.io/fr/docs/freigabelinks/einladungs-link-erklaert/)
+- [Partage via le lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Partage via un lien externe](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/)
 
 ### Partage personnalisé

@@ -20,4 +20,4 @@ En tant qu'administrateur d'équipe, vous pouvez créer de nouveaux groupes dans
 
 {{< warning  headline="Remarque"  text="Vous devez sélectionner **au moins un membre du groupe** pour qu'un nouveau groupe puisse être créé." />}}
 
-Lisez l'article [Les membres du groupe et leurs autorisations](https://seatable.io/fr/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) pour en savoir plus sur les rôles d'un membre du groupe.
+Lisez l'article [Les membres du groupe et leurs autorisations]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) pour en savoir plus sur les rôles d'un membre du groupe.

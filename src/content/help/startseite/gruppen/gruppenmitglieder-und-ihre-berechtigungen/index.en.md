@@ -38,7 +38,11 @@ Within a SeaTable group there are three different roles: **Owner**, **Administra
 | Access and restore snapshots of a base                                              | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Advanced features (API tokens, webhooks, attachment management and Seafile connect) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
-{{< warning  headline="Assign authorizations"  text="If you want to assign a permission, our tutorial [Assigning Permissions in a Group](https://seatable.io/en/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/) will certainly help you." />}}
+{{< warning  headline="Assign authorizations" >}}
+
+If you want to assign a permission, our tutorial [Assigning Permissions in a Group]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}}) will certainly help you.
+
+{{< /warning >}}
 
 ## Which groups and bases do you see?
 

@@ -20,4 +20,4 @@ Als Team-Administrator können Sie in der Teamverwaltung neue Gruppen anlegen. F
 
 {{< warning  headline="Hinweis"  text="Sie müssen **mindestens ein Gruppenmitglied** auswählen, damit eine neue Gruppe angelegt werden kann." />}}
 
-Lesen Sie den Artikel [Gruppenmitglieder und ihre Berechtigungen](https://seatable.io/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/), um mehr über die Rollen eines Gruppenmitglieds herauszufinden.
+Lesen Sie den Artikel [Gruppenmitglieder und ihre Berechtigungen]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}), um mehr über die Rollen eines Gruppenmitglieds herauszufinden.

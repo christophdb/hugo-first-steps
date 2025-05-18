@@ -19,16 +19,16 @@ url: '/ru/help/einfuehrung-in-die-arbeit-mit-gruppen'
 
 ![Работа с группами в SeaTable](images/arbeiten-mit-gruppen.png)
 
-Подробнее о том, как [создать группу](https://seatable.io/ru/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
+Подробнее о том, как [создать группу]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}).
 
 ## Пригласить других членов команды в группу
 
-Группа имеет смысл, только если в ней более одного члена команды. Поэтому читайте здесь, как [добавить новых членов команды в группу](https://seatable.io/ru/docs/gruppenmitglieder-und-berechtigungen/ein-teammitglied-einer-gruppe-hinzufuegen/).
+Группа имеет смысл, только если в ней более одного члена команды. Поэтому читайте здесь, как [добавить новых членов команды в группу]({{< relref "help/startseite/gruppen/ein-teammitglied-einer-gruppe-hinzufuegen" >}}).
 
 ## Разрешения внутри группы
 
-В принципе, каждый член группы может просматривать ее содержимое. Однако для того, чтобы иметь возможность создавать новые базы в группе, вы должны быть либо владельцем, либо администратором группы. Подробнее о различных [разрешениях в группе](https://seatable.io/ru/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/) читайте здесь.
+В принципе, каждый член группы может просматривать ее содержимое. Однако для того, чтобы иметь возможность создавать новые базы в группе, вы должны быть либо владельцем, либо администратором группы. Подробнее о различных [разрешениях в группе]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) читайте здесь.
 
 ## Межкомандные группы
 
-Межкомандные группы в настоящее время невозможны. Если вы хотите сотрудничать с кем-то вне вашей команды, вы должны создать [пригласительную ссылку](https://seatable.io/ru/docs/freigabelinks/einladungs-link-erklaert/) для соответствующей базы и отправить ее этому человеку.
+Межкомандные группы в настоящее время невозможны. Если вы хотите сотрудничать с кем-то вне вашей команды, вы должны создать [пригласительную ссылку]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) для соответствующей базы и отправить ее этому человеку.

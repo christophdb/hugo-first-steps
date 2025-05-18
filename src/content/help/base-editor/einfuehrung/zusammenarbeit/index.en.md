@@ -27,7 +27,7 @@ In the following, you will learn about the collaboration features of SeaTable. Y
 
 ## Group bases
 
-All members of a group have access to a [group](https://seatable.io/en/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) base. As the group owner, you manage the group and its members. You assign access rights to the [members](https://seatable.io/en/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) via different roles - and revoke them just as quickly. You [create](https://seatable.io/en/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/) a [new group](https://seatable.io/en/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/) by clicking the **New Group** button under your bases on the start page.
+All members of a group have access to a [group]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) by clicking the **New Group** button under your bases on the start page.
 
 ## History
 

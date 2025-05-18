@@ -39,7 +39,7 @@ La liberación de una base puede hacerse a distintos grupos de personas:
 
 - [Liberación para los usuarios](https://seatable.io/es/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Liberación para el grupo](https://seatable.io/es/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Liberación a través de un enlace de invitación](https://seatable.io/es/docs/freigabelinks/einladungs-link-erklaert/)
+- [Liberación a través de un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Comunicado a través de un enlace externo](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/)
 
 Al compartir con un usuario o grupo, compartes la base **dentro de tu equipo**. El enlace Compartir por invitación le permite dar acceso a una base a personas **ajenas a su equipo** (pero dentro de SeaTable). Con el enlace externo, usted comparte bases o vistas externamente, independientemente de si alguien tiene una cuenta SeaTable o no.

@@ -8,9 +8,9 @@ author: 'vge'
 url: '/pt/ajuda/freigabe-von-bases-per-einladungslink-erlauben'
 ---
 
-Com um [link de convite](https://seatable.io/pt/docs/freigabelinks/einladungs-link-erklaert/) pode dar **permissões de leitura e escrita** para uma **Base** a pessoas fora da sua equipa, mas elas têm de entrar no SeaTable.
+Com um [link de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) pode dar **permissões de leitura e escrita** para uma **Base** a pessoas fora da sua equipa, mas elas têm de entrar no SeaTable.
 
-Pode descobrir [aqui](https://seatable.io/pt/docs/freigabelinks/einladungs-link-erklaert/) como criar um link de convite. Uma vez que a ligação pode ser copiada e reencaminhada com a frequência que desejar, faz sentido definir uma palavra-passe e uma data de expiração como **medidas de protecção**.
+Pode descobrir [aqui]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) como criar um link de convite. Uma vez que a ligação pode ser copiada e reencaminhada com a frequência que desejar, faz sentido definir uma palavra-passe e uma data de expiração como **medidas de protecção**.
 
 Na **administração da equipa**, pode [ver](https://seatable.io/pt/docs/teamverwaltung/bases-in-der-teamverwaltung/) uma [lista de todos os links de convite para uma base](https://seatable.io/pt/docs/teamverwaltung/bases-in-der-teamverwaltung/). Além disso, como **administrador da equipa** pode (des)activar a função do link de convite para outros membros da equipa. Desta forma, evita ou permite que os próprios membros da equipa libertem bases a terceiros externos.
 

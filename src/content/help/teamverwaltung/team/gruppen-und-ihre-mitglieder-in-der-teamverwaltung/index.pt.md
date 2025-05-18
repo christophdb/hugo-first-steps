@@ -10,7 +10,7 @@ url: '/pt/ajuda/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
 
 O **administrador da equipa** tem o controlo sobre qual dos membros da equipa faz parte de qual grupo. Uma vez que alguém é **membro de** um grupo, normalmente tem **acesso de leitura e escrita** a todas as bases desse grupo.
 
-Saiba tudo sobre os possíveis papéis num grupo no artigo [Membros do grupo e as suas permissões](https://seatable.io/pt/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/).
+Saiba tudo sobre os possíveis papéis num grupo no artigo [Membros do grupo e as suas permissões]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 ## Mudar a composição e os papéis num grupo
 

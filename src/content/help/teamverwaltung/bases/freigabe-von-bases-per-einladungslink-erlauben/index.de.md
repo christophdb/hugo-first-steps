@@ -8,9 +8,9 @@ author: 'vge'
 url: '/de/hilfe/freigabe-von-bases-per-einladungslink-erlauben'
 ---
 
-Mit einem [Einladungslink](https://seatable.io/docs/freigabelinks/einladungs-link-erklaert/) können Sie **Lese- und Schreibrechte** für eine **Base** an Personen außerhalb Ihres Teams vergeben, die sich allerdings in SeaTable einloggen müssen.
+Mit einem [Einladungslink]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) können Sie **Lese- und Schreibrechte** für eine **Base** an Personen außerhalb Ihres Teams vergeben, die sich allerdings in SeaTable einloggen müssen.
 
-Wie Sie einen Einladungs-Link erstellen, erfahren Sie [hier](https://seatable.io/docs/freigabelinks/einladungs-link-erklaert/). Da der Link beliebig oft kopiert und weitergeschickt werden kann, ist es sinnvoll, als **Schutzmaßnahmen** ein Passwort und ein Ablaufdatum zu setzen.
+Wie Sie einen Einladungs-Link erstellen, erfahren Sie [hier]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}). Da der Link beliebig oft kopiert und weitergeschickt werden kann, ist es sinnvoll, als **Schutzmaßnahmen** ein Passwort und ein Ablaufdatum zu setzen.
 
 In der **Teamverwaltung** können Sie eine [Liste sämtlicher Einladungslinks für eine Base einsehen](https://seatable.io/docs/teamverwaltung/bases-in-der-teamverwaltung/). Zudem können Sie als **Team-Administrator** die Funktion des Einladungslinks für andere Teammitglieder (de-)aktivieren. So verhindern oder ermöglichen Sie, dass Teammitglieder selbst Bases an externe Dritte freigeben können.
 

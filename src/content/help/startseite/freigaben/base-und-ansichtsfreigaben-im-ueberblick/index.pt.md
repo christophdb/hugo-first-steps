@@ -39,7 +39,7 @@ A libertação de uma base pode ser feita a diferentes grupos de pessoas:
 
 - [Lançamento para utilizadores](https://seatable.io/pt/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Lançamento para grupo](https://seatable.io/pt/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Lançamento através de link de convite](https://seatable.io/pt/docs/freigabelinks/einladungs-link-erklaert/)
+- [Lançamento através de link de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Lançamento através de ligação externa](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/)
 
 Ao partilhar com um utilizador ou grupo, partilha a base **dentro da sua equipa**. O link de partilha por convite permite-lhe dar acesso a uma base a pessoas **fora da sua equipa** (mas dentro da SeaTable). Com a ligação externa, partilha bases ou opiniões externamente, independentemente de alguém ter ou não uma conta SeaTable.

@@ -39,7 +39,7 @@ url: '/ru/help/base-und-ansichtsfreigaben-im-ueberblick'
 
 - [Выпуск для пользователей](https://seatable.io/ru/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Освобождение для группы](https://seatable.io/ru/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Выпуск по пригласительной ссылке](https://seatable.io/ru/docs/freigabelinks/einladungs-link-erklaert/)
+- [Выпуск по пригласительной ссылке]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Релиз по внешней ссылке](https://seatable.io/ru/docs/freigabelinks/externer-link-erklaert/)
 
 Предоставляя общий доступ пользователю или группе, вы делитесь базой **внутри своей команды**. Совместное использование по приглашениям позволяет вам предоставлять доступ к базе людям **вне вашей команды** (но в пределах SeaTable). С помощью внешней ссылки вы делитесь базами или видами извне, независимо от того, есть ли у кого-то аккаунт в SeaTable или нет.

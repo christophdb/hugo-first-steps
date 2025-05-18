@@ -1,11 +1,11 @@
 ---
-title: "Base- und Ansichtsfreigaben im Überblick"
+title: 'Base- und Ansichtsfreigaben im Überblick'
 date: 2023-01-13
-lastmod: "2023-02-22"
-categories: 
-  - "freigaben"
-author: "cdb"
-url: "/de/hilfe/base-und-ansichtsfreigaben-im-ueberblick"
+lastmod: '2023-02-22'
+categories:
+    - 'freigaben'
+author: 'cdb'
+url: '/de/hilfe/base-und-ansichtsfreigaben-im-ueberblick'
 ---
 
 Sie haben in einer **Base**, **Tabelle** oder **Ansicht** Ihre Informationen organisiert und möchten diese mit anderen **teilen** oder gemeinsam daran arbeiten? In SeaTable ist das mit einer **Freigabe** einfach und schnell erledigt. Auf diese Weise können Sie einem einzelnen **Benutzer**, einer **Gruppe** oder **externen Personen** Zugriff auf Ihre Daten gewähren.
@@ -39,7 +39,7 @@ Die Freigabe einer Base kann an verschiedene Personenkreise erfolgen:
 
 - [Freigabe für Benutzer](https://seatable.io/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Freigabe für Gruppe](https://seatable.io/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Freigabe via Einladungs-Link](https://seatable.io/docs/freigabelinks/einladungs-link-erklaert/)
+- [Freigabe via Einladungs-Link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Freigabe via externem Link](https://seatable.io/docs/freigabelinks/externer-link-erklaert/)
 
 Mit einer Freigabe an einen Benutzer bzw. an eine Gruppe geben Sie die Base **innerhalb Ihres Teams** frei. Bei der Freigabe per Einladungs-Link können Sie Personen **außerhalb Ihres Teams** (aber innerhalb von SeaTable) Zugriff auf eine Base gewähren. Über den externen Link geben Sie Bases oder Ansichten extern frei, egal ob jemand ein SeaTable Konto besitzt oder nicht.

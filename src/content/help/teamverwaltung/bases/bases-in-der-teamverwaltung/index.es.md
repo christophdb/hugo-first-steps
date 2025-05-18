@@ -77,6 +77,6 @@ En estas dos vistas generales no sólo puede ver todos los enlaces externos y de
 
 Encontrará más información sobre los enlaces de liberación en los siguientes artículos:
 
-- [Crear enlace de invitación](https://seatable.io/es/docs/freigabelinks/einladungs-link-erklaert/)
+- [Crear enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Crear un enlace externo para una base](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/)
 - [Diferencias entre enlaces de invitación y enlaces externos](https://seatable.io/es/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)

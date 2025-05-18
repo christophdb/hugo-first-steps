@@ -77,6 +77,6 @@ Nestas duas visões gerais, pode ver não só todas as ligações externas e de 
 
 Mais informações sobre as ligações de lançamento podem ser encontradas nos artigos seguintes:
 
-- [Criar link de convite](https://seatable.io/pt/docs/freigabelinks/einladungs-link-erklaert/)
+- [Criar link de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Criar uma ligação externa para uma base](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/)
 - [Diferenças entre links de convite e links externos](https://seatable.io/pt/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)

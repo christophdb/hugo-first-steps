@@ -39,7 +39,7 @@ Na vista bloqueada, as seguintes configurações já **não** podem ser alterada
 
 {{< warning  headline="Nota importante"  text="Note que o bloqueio de uma vista só se aplica à configuração da vista - vistas bloqueadas **não** impedem outros membros do grupo de ver e editar o conteúdo da vista. Se outros membros do grupo podem ou não editar uma opinião depende do seu estatuto de autorização dentro do grupo. Para mais informações, ver o artigo de síntese." />}}
 
-[Membros do Grupo e respectivas permissões](https://seatable.io/pt/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/)
+[Membros do Grupo e respectivas permissões]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}})
 
 ## Exemplos de aplicação
 

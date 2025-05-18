@@ -38,7 +38,11 @@ url: '/ru/help/gruppenmitglieder-und-ihre-berechtigungen'
 | Доступ к моментальным снимкам базы и их восстановление                                 | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Расширенные функции (API-токены, вебхуки, управление вложениями и подключение Seafile) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
-{{< warning  headline="Назначение полномочий"  text="Если вы хотите назначить разрешение, вам наверняка помогут наши инструкции по [назначению разрешений в группе](https://seatable.io/ru/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/)." />}}
+{{< warning  headline="Назначение полномочий" >}}
+
+Если вы хотите назначить разрешение, вам наверняка помогут наши инструкции по [назначению разрешений в группе]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}}).
+
+{{< /warning >}}
 
 ## Какие группы и основания вы видите?
 

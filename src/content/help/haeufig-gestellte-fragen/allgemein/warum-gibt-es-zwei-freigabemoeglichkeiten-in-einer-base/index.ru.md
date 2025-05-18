@@ -24,7 +24,7 @@ url: '/ru/help/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 
 - [Выпуск для пользователей](https://seatable.io/ru/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Освобождение для группы](https://seatable.io/ru/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Выпуск по пригласительной ссылке](https://seatable.io/ru/docs/freigabelinks/einladungs-link-erklaert/)
+- [Выпуск по пригласительной ссылке]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Релиз по внешней ссылке](https://seatable.io/ru/docs/freigabelinks/externer-link-erklaert/)
 
 ### Пользовательская доля

@@ -8,9 +8,9 @@ author: 'vge'
 url: '/es/ayuda/freigabe-von-bases-per-einladungslink-erlauben'
 ---
 
-Con un [enlace de invitación](https://seatable.io/es/docs/freigabelinks/einladungs-link-erklaert/) puede dar **permisos de lectura y escritura** para una **Base** a personas fuera de su equipo, pero tienen que iniciar sesión en SeaTable.
+Con un [enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) puede dar **permisos de lectura y escritura** para una **Base** a personas fuera de su equipo, pero tienen que iniciar sesión en SeaTable.
 
-[Aquí](https://seatable.io/es/docs/freigabelinks/einladungs-link-erklaert/) encontrará información sobre cómo crear un enlace de invitación [.](https://seatable.io/es/docs/freigabelinks/einladungs-link-erklaert/) Dado que el enlace puede copiarse y reenviarse tantas veces como quieras, tiene sentido establecer una contraseña y una fecha de caducidad como **medidas de protección**.
+[Aquí]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) Dado que el enlace puede copiarse y reenviarse tantas veces como quieras, tiene sentido establecer una contraseña y una fecha de caducidad como **medidas de protección**.
 
 En la **administración del equipo**, puede [ver](https://seatable.io/es/docs/teamverwaltung/bases-in-der-teamverwaltung/) una [lista de todos los enlaces de invitación de una base](https://seatable.io/es/docs/teamverwaltung/bases-in-der-teamverwaltung/). Además, como **administrador del equipo** puedes (des)activar la función del enlace de invitación para otros miembros del equipo. De este modo, evita o permite que los propios miembros del equipo divulguen bases a terceros externos.
 

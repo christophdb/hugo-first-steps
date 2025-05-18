@@ -39,7 +39,7 @@ The release of a Base can be made to different groups of persons:
 
 - [Release for user](https://seatable.io/en/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Release for group](https://seatable.io/en/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Release via invitation link](https://seatable.io/en/docs/freigabelinks/einladungs-link-erklaert/)
+- [Release via invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Share via external link](https://seatable.io/en/docs/freigabelinks/externer-link-erklaert/)
 
 Sharing to a user or group lets you share the base **within your team**. Sharing by invitation link allows you to give access to a Base to people **outside your team** (but inside SeaTable). External link lets you share bases or views externally, whether someone has a SeaTable account or not.

@@ -27,7 +27,7 @@ Im Folgenden lernen Sie die Kollaborationsfunktionen von SeaTable kennen. Sie we
 
 ## Gruppenbases
 
-Auf eine Gruppenbase haben alle Mitglieder einer [Gruppe](https://seatable.io/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) Zugriff. Als Gruppeneigentümer verwalten Sie die Gruppe und deren Mitglieder. Über unterschiedliche Rollen weisen Sie den [Mitgliedern](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) ihre Zugriffsrechte zu – und entziehen sie ihnen auch genauso schnell wieder. Eine [neue Gruppe erstellen](https://seatable.io/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/) Sie über die Schaltfläche **Neue Gruppe** unter Ihren Bases auf der Startseite.
+Auf eine Gruppenbase haben alle Mitglieder einer [Gruppe]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) Sie über die Schaltfläche **Neue Gruppe** unter Ihren Bases auf der Startseite.
 
 ## Historie
 

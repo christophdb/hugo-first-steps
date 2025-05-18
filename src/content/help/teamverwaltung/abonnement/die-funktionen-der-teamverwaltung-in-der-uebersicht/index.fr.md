@@ -33,7 +33,7 @@ Les articles suivants pourraient vous intéresser :
 
 ## Bases et partages
 
-Dans la gestion d'équipe, vous pouvez voir toutes les **bases** des membres de votre équipe et savoir qui a **le droit d'accès** à quelles bases. En outre, vous pouvez surveiller et limiter les [liens d'invitation](https://seatable.io/fr/docs/freigabelinks/einladungs-link-erklaert/) et les [liens externes](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/) envoyés et voir si les liens accordent des droits de lecture ou d'écriture et combien de fois ils ont été consultés.
+Dans la gestion d'équipe, vous pouvez voir toutes les **bases** des membres de votre équipe et savoir qui a **le droit d'accès** à quelles bases. En outre, vous pouvez surveiller et limiter les [liens d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) et les [liens externes](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/) envoyés et voir si les liens accordent des droits de lecture ou d'écriture et combien de fois ils ont été consultés.
 
 Les articles suivants pourraient vous intéresser :
 

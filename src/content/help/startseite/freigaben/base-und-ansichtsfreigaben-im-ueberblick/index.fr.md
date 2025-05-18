@@ -39,7 +39,7 @@ Le partage d'une base peut se faire avec différents groupes de personnes :
 
 - [Partage avec les utilisateurs](https://seatable.io/fr/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Validation pour le groupe](https://seatable.io/fr/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Partage via le lien d'invitation](https://seatable.io/fr/docs/freigabelinks/einladungs-link-erklaert/)
+- [Partage via le lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Partage via un lien externe](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/)
 
 En partageant avec un utilisateur ou un groupe, vous partagez la base **au sein de votre équipe**. Le partage par lien d'invitation vous permet de donner accès à une base à des personnes **extérieures à votre équipe** (mais à l'intérieur de SeaTable). Avec le lien externe, vous partagez des bases ou des vues à l'extérieur, que quelqu'un possède un compte SeaTable ou non.

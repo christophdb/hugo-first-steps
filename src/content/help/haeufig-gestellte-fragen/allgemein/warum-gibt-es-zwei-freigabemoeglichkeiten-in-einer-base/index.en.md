@@ -24,7 +24,7 @@ If you want to share one of your bases, you have a choice of options depending o
 
 - [Release for user](https://seatable.io/en/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Release for group](https://seatable.io/en/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Release via invitation link](https://seatable.io/en/docs/freigabelinks/einladungs-link-erklaert/)
+- [Release via invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Share via external link](https://seatable.io/en/docs/freigabelinks/externer-link-erklaert/)
 
 ### Custom share

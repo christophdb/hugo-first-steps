@@ -77,6 +77,6 @@ url: '/ru/help/bases-in-der-teamverwaltung'
 
 Более подробную информацию о ссылках на релиз можно найти в следующих статьях:
 
-- [Создать пригласительную ссылку](https://seatable.io/ru/docs/freigabelinks/einladungs-link-erklaert/)
+- [Создать пригласительную ссылку]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Создание внешней ссылки для базы](https://seatable.io/ru/docs/freigabelinks/externer-link-erklaert/)
 - [Различия между пригласительными и внешними ссылками](https://seatable.io/ru/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)

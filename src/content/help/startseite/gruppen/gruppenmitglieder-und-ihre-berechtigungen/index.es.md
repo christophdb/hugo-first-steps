@@ -38,7 +38,11 @@ Dentro de un grupo SeaTable hay tres roles diferentes: **Propietario**, **Admini
 | Acceso y restauración de instantáneas de una base                                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Funciones avanzadas (tokens API, webhooks, gestión de archivos adjuntos y conexión Seafile) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
-{{< warning  headline="Asignar autorizaciones"  text="Si desea asignar un permiso, nuestras instrucciones sobre la [asignación de permisos en un grupo](https://seatable.io/es/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/) sin duda le ayudarán." />}}
+{{< warning  headline="Asignar autorizaciones" >}}
+
+Si desea asignar un permiso, nuestras instrucciones sobre la [asignación de permisos en un grupo]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}}) sin duda le ayudarán.
+
+{{< /warning >}}
 
 ## ¿Qué grupos y bases ve?
 

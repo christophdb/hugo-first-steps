@@ -39,7 +39,7 @@ Dans la vue verrouillée, les paramètres suivants ne peuvent **plus** être mod
 
 {{< warning  headline="Remarque importante"  text="Veuillez noter que le verrouillage d'une vue ne concerne que la configuration de la vue - les vues verrouillées n'empêchent donc **pas** les autres membres du groupe de voir et de modifier le contenu de la vue. Le fait que d'autres membres du groupe puissent ou non modifier une vue dépend de leur statut d'autorisation au sein du groupe. Vous trouverez de plus amples informations à ce sujet dans l'article." />}}
 
-[Les membres du groupe et leurs autorisations](https://seatable.io/fr/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/)
+[Les membres du groupe et leurs autorisations]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}})
 
 ## Exemples d'application
 

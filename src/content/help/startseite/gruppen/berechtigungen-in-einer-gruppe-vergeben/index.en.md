@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/berechtigungen-in-einer-gruppe-vergeben'
 ---
 
-Within a SeaTable group, you can assign permissions by assigning a specific role to group members. You have to distinguish between the roles **owner**, **administrator** and **member**, which all have different [permissions](https://seatable.io/en/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/).
+Within a SeaTable group, you can assign permissions by assigning a specific role to group members. You have to distinguish between the roles **owner**, **administrator** and **member**, which all have different [permissions]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 It is important to note that only as the **owner** or **administrator of** a group, you can change the permissions of the other members. Here you will learn how to assign permissions in a group:
 

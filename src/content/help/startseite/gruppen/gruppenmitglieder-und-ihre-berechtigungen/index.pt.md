@@ -38,7 +38,11 @@ Dentro de um grupo SeaTable existem três funções diferentes: **Proprietário*
 | Acesso e restauro de snapshots de uma base                                      | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Funções avançadas (fichas API, ganchos web, gestão de anexos e ligação Seafile) | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   |
 
-{{< warning  headline="Atribuir autorizações"  text="Se quiser atribuir uma permissão, as nossas instruções sobre a [atribuição de permissões num grupo](https://seatable.io/pt/docs/gruppenmitglieder-und-berechtigungen/berechtigungen-in-einer-gruppe-vergeben/) ajudá-lo-ão certamente." />}}
+{{< warning  headline="Atribuir autorizações" >}}
+
+Se quiser atribuir uma permissão, as nossas instruções sobre a [atribuição de permissões num grupo]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}}) ajudá-lo-ão certamente.
+
+{{< /warning >}}
 
 ## Que grupos e bases vê?
 

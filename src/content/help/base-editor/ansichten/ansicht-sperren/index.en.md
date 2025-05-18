@@ -39,7 +39,7 @@ In the locked view, the following settings can **no** longer be changed:
 
 {{< warning  headline="Important note"  text="Please note that locking a view only affects the configuration of the view - locked views do **not** prevent other group members from viewing and editing the contents of the view. Whether other group members can edit a view or not depends on their permission status within the group. For more information, see the overview article." />}}
 
-[Group members and their permissions](https://seatable.io/en/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/)
+[Group members and their permissions]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}})
 
 ## Application examples
 

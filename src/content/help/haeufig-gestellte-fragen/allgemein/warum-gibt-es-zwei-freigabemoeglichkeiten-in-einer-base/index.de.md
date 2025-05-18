@@ -24,7 +24,7 @@ Wenn Sie eine Ihrer Bases freigeben wollen, haben Sie die Wahl zwischen verschie
 
 - [Freigabe für Benutzer](https://seatable.io/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
 - [Freigabe für Gruppe](https://seatable.io/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Freigabe via Einladungs-Link](https://seatable.io/docs/freigabelinks/einladungs-link-erklaert/)
+- [Freigabe via Einladungs-Link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Freigabe via externem Link](https://seatable.io/docs/freigabelinks/externer-link-erklaert/)
 
 ### Benutzerdefinierte Freigabe

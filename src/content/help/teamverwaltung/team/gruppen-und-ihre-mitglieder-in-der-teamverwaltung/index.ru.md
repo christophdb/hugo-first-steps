@@ -10,7 +10,7 @@ url: '/ru/help/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
 
 **Администратор команды** имеет возможность контролировать, кто из членов команды входит в какую группу. Как только кто-то становится **членом** группы, он обычно имеет **доступ на чтение и запись** ко всем базам в этой группе.
 
-Узнайте все о возможных ролях в группе в статье [Члены группы и их разрешения](https://seatable.io/ru/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/).
+Узнайте все о возможных ролях в группе в статье [Члены группы и их разрешения]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 ## Изменение членства и ролей в группе
 

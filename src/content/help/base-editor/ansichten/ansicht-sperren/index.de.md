@@ -39,7 +39,7 @@ In der gesperrten Ansicht können folgende Einstellungen **nicht** mehr geänder
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bitte beachten Sie, dass sich das Sperren einer Ansicht ausschließlich auf die Konfiguration der Ansicht bezieht - gesperrte Ansichten verhindern folglich **nicht**, dass andere Gruppenmitglieder die Inhalte der Ansicht weiterhin sehen und bearbeiten können. Ob andere Gruppenmitglieder eine Ansicht bearbeiten können oder nicht, hängt dabei von ihrem Berechtigungs-Status innerhalb der Gruppe ab. Nähere Informationen hierzu finden Sie im Übersichtsartikel." />}}
 
-[Gruppenmitglieder und ihre Berechtigungen](https://seatable.io/docs/gruppenmitglieder-und-berechtigungen/gruppenmitglieder-und-ihre-berechtigungen/)
+[Gruppenmitglieder und ihre Berechtigungen]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}})
 
 ## Anwendungsbeispiele
 

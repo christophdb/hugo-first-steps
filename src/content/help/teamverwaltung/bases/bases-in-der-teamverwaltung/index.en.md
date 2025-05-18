@@ -77,6 +77,6 @@ In these two overviews you can see not only all external and invitation links, b
 
 You can find more information about the share links in the following articles:
 
-- [Create invitation link](https://seatable.io/en/docs/freigabelinks/einladungs-link-erklaert/)
+- [Create invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Create an external link for a base](https://seatable.io/en/docs/freigabelinks/externer-link-erklaert/)
 - [Differences between invitation links and external links](https://seatable.io/en/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)
