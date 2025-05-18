@@ -30,7 +30,7 @@ The new Base contains a [table](https://seatable.io/en/docs/seatable-nutzen/einf
 
 Before you [enter data]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
-SeaTable offers a total of [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). From conventional spreadsheets you probably already know text, number and date columns. Of course, SeaTable knows these as well. In addition, SeaTable offers columns for [images and files]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) and [checkboxes](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) as well as [single](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) and [multiple selection fields](https://seatable.io/en/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
+SeaTable offers a total of [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). From conventional spreadsheets you probably already know text, number and date columns. Of course, SeaTable knows these as well. In addition, SeaTable offers columns for [images and files]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) and [checkboxes]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) and [multiple selection fields](https://seatable.io/en/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
 
 You want to add images to an entry? Just drag the image into an image column and SeaTable saves it directly into the table. In SeaTable you have all your data in one place!
 

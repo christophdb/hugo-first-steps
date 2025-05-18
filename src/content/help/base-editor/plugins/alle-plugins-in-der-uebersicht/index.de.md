@@ -39,7 +39,7 @@ Das Timeline-Plugin stellt durch ein Start- und Enddatum bzw. durch ein Startdat
 
 ![Projektmanagement Timeline](images/projektmanagement-timeline.png)
 
-[Mehr zum Timeline-Plugin](https://seatable.io/docs/plugins/anleitung-zum-timeline-plugin/)
+[Mehr zum Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
 
 ## Galerie-Plugin
 

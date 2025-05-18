@@ -51,7 +51,7 @@ Com uma [subscrição Enterprise](https://seatable.io/pt/docs/teamverwaltung-abo
 
 ## Artigos mais úteis sobre o tema das colunas de selecção única
 
-- [Criar uma coluna de selecção única](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Criar uma coluna de selecção única]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Alterar a ordem das opções de seleção individuais](https://seatable.io/pt/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Definir um cascata para uma coluna de selecção única](https://seatable.io/pt/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Opções de selecção única de exportação e importação](https://seatable.io/pt/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

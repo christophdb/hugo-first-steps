@@ -130,7 +130,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-formula" >}} **Fórmula**
 
 Com a ajuda de fórmulas, é possível **ligar** diferentes valores de colunas de uma linha e criar diferentes **funções** com base no conteúdo dessas colunas. Entre outras coisas, pode calcular com valores nas suas tabelas, alterar valores ou relacionar valores da mesma linha.
 
-Precisa de mais informações sobre a coluna de fórmulas? Então, consulte este [artigo](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/). Como as fórmulas são uma característica muito complexa, encontrará muitos outros artigos de ajuda no nosso manual. Clique [aqui](https://seatable.io/pt/docs-category/formeln/) e será redireccionado para a página de resumo.
+Precisa de mais informações sobre a coluna de fórmulas? Então, consulte este [artigo]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Como as fórmulas são uma característica muito complexa, encontrará muitos outros artigos de ajuda no nosso manual. Clique [aqui](https://seatable.io/pt/docs-category/formeln/) e será redireccionado para a página de resumo.
 
 ### Ligação a outras entradas
 

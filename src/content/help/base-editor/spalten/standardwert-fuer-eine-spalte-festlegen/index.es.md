@@ -73,7 +73,7 @@ Los valores por defecto se aplican **siempre que** se puedan crear nuevas línea
 - mediante [automatización](https://seatable.io/es/docs/automationen/automations-aktionen/) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")
 - en el [calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - mediante [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- en las [páginas de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) y [Kanban](https://seatable.io/es/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) de las aplicaciones
+- en las [páginas de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [formularios]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) y [Kanban]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) de las aplicaciones
 
 ![El valor por defecto se aplica en todas las líneas nuevas](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
@@ -87,4 +87,4 @@ Además de los valores por defecto definidos en la tabla, [los formularios web](
 
 ## Valores por defecto en las aplicaciones
 
-Los valores por defecto definidos en la base también afectan a las filas que se introducen en las páginas de **tabla, formulario y Kanban** de las [apps universales]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). El único [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) para el que todavía se pueden establecer valores por defecto en la app es [la página de](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) formulario. Los ajustes funcionan exactamente igual que para los formularios web: Para ello, active los controles deslizantes como se muestra en la captura de pantalla anterior.
+Los valores por defecto definidos en la base también afectan a las filas que se introducen en las páginas de **tabla, formulario y Kanban** de las [apps universales]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). El único [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) para el que todavía se pueden establecer valores por defecto en la app es [la página de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) formulario. Los ajustes funcionan exactamente igual que para los formularios web: Para ello, active los controles deslizantes como se muestra en la captura de pantalla anterior.

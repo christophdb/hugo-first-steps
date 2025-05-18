@@ -37,7 +37,7 @@ The timeline plugin represents different periods of time in the form of a **time
 
 ![Project Management Timeline](images/projektmanagement-timeline.png)
 
-[More about the timeline plugin](https://seatable.io/en/docs/plugins/anleitung-zum-timeline-plugin/)
+[More about the timeline plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
 
 ## Gallery plugin
 

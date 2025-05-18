@@ -130,7 +130,7 @@ symbole : {{< seatable-icon icon="dtable-icon-formula" >}} **Formule**
 
 Les formules vous permettent de **relier** différentes valeurs de colonnes d'une ligne et de créer différentes **fonctions** basées sur le contenu de ces colonnes. Vous pouvez entre autres calculer des valeurs dans vos tableaux, modifier des valeurs ou mettre en relation des valeurs de la même ligne.
 
-Vous avez besoin de plus d'informations sur la colonne des formules ? Jetez un coup d'œil à cet [article](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/). Les formules étant une fonctionnalité très complexe, vous trouverez de nombreux autres articles d'aide dans notre manuel. Cliquez [ici](https://seatable.io/fr/docs-category/formeln/) et vous serez redirigé vers la page d'aperçu.
+Vous avez besoin de plus d'informations sur la colonne des formules ? Jetez un coup d'œil à cet [article]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Les formules étant une fonctionnalité très complexe, vous trouverez de nombreux autres articles d'aide dans notre manuel. Cliquez [ici](https://seatable.io/fr/docs-category/formeln/) et vous serez redirigé vers la page d'aperçu.
 
 ### Lien vers d'autres entrées
 

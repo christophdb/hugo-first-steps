@@ -130,7 +130,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-formula" >}} **Formula**
 
 Using formulas you can**link** different column values of a row and create different **functions** based on the content of these columns. Among other things, you can calculate with values in your tables, change values or relate values from the same row .
 
-You need more info about the formula column? Then take a look at this [article](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/). Since formulas are a very complex feature, you can find numerous other help articles in our manual. Click [here](https://seatable.io/en/docs-category/formeln/) and you will be redirected to the overview page.
+You need more info about the formula column? Then take a look at this [article]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Since formulas are a very complex feature, you can find numerous other help articles in our manual. Click [here](https://seatable.io/en/docs-category/formeln/) and you will be redirected to the overview page.
 
 ### Link to other entries
 

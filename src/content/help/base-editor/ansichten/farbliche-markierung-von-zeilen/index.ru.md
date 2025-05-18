@@ -30,7 +30,11 @@ url: '/ru/help/farbliche-markierung-von-zeilen'
 
 ![Цветовая маркировка клеток](images/Farbliche-Markierung-von-Zellen-3.png)
 
-{{< warning  headline="Создание одного столбца выбора"  text="[Здесь](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) вы узнаете, как создать новые колонки с одиночным выбором." />}}
+{{< warning  headline="Создание одного столбца выбора" >}}
+
+[Здесь]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) вы узнаете, как создать новые колонки с одиночным выбором.
+
+{{< /warning >}}
 
 ## Правила использования
 

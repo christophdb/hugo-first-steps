@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/zeitstrahlseiten-in-universellen-apps'
 ---
 
-Este tipo de página é muito semelhante ao [plug-in](https://seatable.io/pt/docs/plugins/anleitung-zum-timeline-plugin/) de linha cronológica e permite-lhe apresentar diferentes períodos de tempo sob a forma de uma **linha cronológica**. Como esta visualização de dados revela datas sobrepostas, **o planeamento de férias numa empresa**, por exemplo, pode ser um caso de utilização específico.
+Este tipo de página é muito semelhante ao [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) de linha cronológica e permite-lhe apresentar diferentes períodos de tempo sob a forma de uma **linha cronológica**. Como esta visualização de dados revela datas sobrepostas, **o planeamento de férias numa empresa**, por exemplo, pode ser um caso de utilização específico.
 
 ![Página da linha de tempo nas aplicações universais](images/Timeline-page-in-Universal-Apps.png)
 
@@ -18,11 +18,11 @@ Se pretender alterar as definições de uma página, clique no **símbolo da rod
 
 ![Alterar as definições da página da linha de tempo](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-Nas **definições da página**, pode começar por definir a representação gráfica das linhas cronológicas. Para tal, selecionar a [cor da linha]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou uma [coluna de seleção individual](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), que determina a **cor dos blocos**. Também é possível definir uma coluna para a **etiquetagem dos blocos**.
+Nas **definições da página**, pode começar por definir a representação gráfica das linhas cronológicas. Para tal, selecionar a [cor da linha]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou uma [coluna de seleção individual]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), que determina a **cor dos blocos**. Também é possível definir uma coluna para a **etiquetagem dos blocos**.
 
 ![Definição gráfica das linhas de tempo em aplicações universais](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Para definir o período das entradas, é necessária uma [coluna de data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) ou [fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/)) que especifique o número de dias. Também é possível selecionar o **período de tempo**, ou seja, quantos anos a cronologia deve abranger.
+Para definir o período das entradas, é necessária uma [coluna de data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) ou [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})) que especifique o número de dias. Também é possível selecionar o **período de tempo**, ou seja, quantos anos a cronologia deve abranger.
 
 ![Definições de página da página da linha de tempo em aplicações universais](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

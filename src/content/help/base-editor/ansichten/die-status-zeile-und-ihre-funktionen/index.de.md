@@ -52,7 +52,7 @@ Bei den folgenden Spaltentypen gibt die Status-Zeile einen berechneten Wert wied
     - Währung
 - [Dauer-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Rating-Spalten](https://seatable.io/docs/auswahlspalten/die-rating-spalte/)
-- Zahlenwerte in [Formel-Spalten](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)
+- Zahlenwerte in [Formel-Spalten]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Bei den folgenden Spaltentypen gibt die Status-Zeile **keinen** berechneten Wert wieder, obwohl sie Zahlen enthalten (können):
 

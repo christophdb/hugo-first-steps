@@ -37,7 +37,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![Временная шкала управления проектом](images/projektmanagement-timeline.png)
 
-[Подробнее о плагине временной шкалы](https://seatable.io/ru/docs/plugins/anleitung-zum-timeline-plugin/)
+[Подробнее о плагине временной шкалы]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
 
 ## Плагин галереи
 

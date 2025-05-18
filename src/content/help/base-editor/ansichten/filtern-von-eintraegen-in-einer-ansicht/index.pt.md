@@ -30,7 +30,7 @@ Dependendo do **tipo de coluna** que se pretende filtrar, as condições que se 
 Tem estas opções de condição com um [Coluna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}):  
 ![Filtrar coluna de texto](images/filtern-von-eintraegen-5.png)
 
-Tem estas opções de condição com um [Coluna de seleção única](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
+Tem estas opções de condição com um [Coluna de seleção única]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}):  
 ![Coluna de selecção única com filtro](images/filtern-von-eintraegen-6.png)
 
 Tem estas opções de condição com um [Coluna de imagem]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}):  

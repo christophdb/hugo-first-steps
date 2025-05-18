@@ -39,14 +39,14 @@ Ce type de page permet de construire différents **formulaires** que les utilisa
 
 ![Formulaire web pour enregistrer le temps de travail de vos employés](images/webformular-working-time.png)
 
-[En savoir plus sur les pages de formulaires dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/)
+[En savoir plus sur les pages de formulaires dans les apps universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}})
 
 ## Type de page : Galerie
 
 Ce type de page vous permet d'afficher sous forme de **galerie** **les images** que vous avez enregistrées dans une [colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) de votre tableau. Vous pouvez également afficher d'autres **données** de votre tableau dans la galerie. Vous pouvez par exemple utiliser une page de galerie pour **créer des fiches d'information** claires sur **vos collaborateurs**.
 
 ![Représentation de vos collaborateurs dans une page de galerie](images/page-type-gallery-example.png)  
-[En savoir plus sur les pages de galeries dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
+[En savoir plus sur les pages de galeries dans les apps universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}})
 
 ## Type de page : Calendrier
 
@@ -54,7 +54,7 @@ Ce type de page fonctionne de manière similaire au [plug-in calendrier]({{< rel
 
 ![Réunions à venir dans une vue de calendrier de la page de calendrier](images/calendar-page-example.png)
 
-[En savoir plus sur les pages de calendrier dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/)
+[En savoir plus sur les pages de calendrier dans les apps universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}})
 
 ## Type de page : Page individuelle
 
@@ -70,15 +70,15 @@ Ce type de page fonctionne de manière similaire au [plug-in Kanban]({{< relref 
 
 ![Cas d'utilisation du type de page : Kanban](images/example-kanban-page-3.png)
 
-[En savoir plus sur les pages Kanban dans les applications universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/)
+[En savoir plus sur les pages Kanban dans les applications universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}})
 
 ## Type de page : Ligne du temps
 
-Ce type de page présente une grande similitude avec le [plug-in Timeline](https://seatable.io/fr/docs/plugins/anleitung-zum-timeline-plugin/) et vous permet de représenter différentes périodes de temps sous la forme d'une **ligne de temps**. Une application concrète pourrait être par exemple la **planification des congés dans une entreprise**.
+Ce type de page présente une grande similitude avec le [plug-in Timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) et vous permet de représenter différentes périodes de temps sous la forme d'une **ligne de temps**. Une application concrète pourrait être par exemple la **planification des congés dans une entreprise**.
 
 ![Cas d'utilisation Type de page : Ligne du temps](images/example-timeline-page.png)
 
-[En savoir plus sur les pages de la ligne du temps dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/)
+[En savoir plus sur les pages de la ligne du temps dans les apps universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}})
 
 ## Type de page : Requête
 
@@ -96,4 +96,4 @@ Les utilisateurs de l'application peuvent parcourir, rechercher ou modifier les 
 
 ![Commutation entre les enregistrements sur les pages d'un seul enregistrement](images/Switch-between-records-on-single-record-pages.gif)
 
-[En savoir plus sur les pages de type enregistrement unique dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/)
+[En savoir plus sur les pages de type enregistrement unique dans les apps universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})

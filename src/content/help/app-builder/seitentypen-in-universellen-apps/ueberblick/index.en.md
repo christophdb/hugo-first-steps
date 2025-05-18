@@ -39,14 +39,14 @@ You can use this page type to build different **forms** that users can then subm
 
 ![Web form for recording the working time of your employees](images/webformular-working-time.png)
 
-[Learn more about form pages in universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/)
+[Learn more about form pages in universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}})
 
 ## Page type: Gallery
 
 Using this page type you can display **images** that you have saved in an [image column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) of your table in the form of a **gallery**. Other **data** from your table can also be displayed in the gallery. For example, you could use a gallery page for clear **profiles of your employees**.
 
 ![Representation of your employees in a gallery page](images/page-type-gallery-example.png)  
-[Learn more about gallery pages in universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
+[Learn more about gallery pages in universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}})
 
 ## Page type: Calendar
 
@@ -54,7 +54,7 @@ This page type works something like the [calendar plugin]({{< relref "help/base-
 
 ![Upcoming meetings in a calendar view of the calendar page](images/calendar-page-example.png)
 
-[Find out more about calendar pages in universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/)
+[Find out more about calendar pages in universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}})
 
 ## Page type: Custom page
 
@@ -70,15 +70,15 @@ This page type works in a similar way to the [Kanban plugin]({{< relref "help/ba
 
 ![Use case of the page type: Kanban](images/example-kanban-page-3.png)
 
-[Learn more about Kanban pages in Universal Apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/)
+[Learn more about Kanban pages in Universal Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}})
 
 ## Page type: Timeline
 
-This page type has great similarity to the [Timeline plugin](https://seatable.io/en/docs/plugins/anleitung-zum-timeline-plugin/) and allows you to display different time spans in the form of a **timeline**. For example, a concrete use case could be **vacation planning in a company**.
+This page type has great similarity to the [Timeline plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) and allows you to display different time spans in the form of a **timeline**. For example, a concrete use case could be **vacation planning in a company**.
 
 ![Use case Page type: Timeline](images/example-timeline-page.png)
 
-[Learn more about timeline pages in universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/)
+[Learn more about timeline pages in universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}})
 
 ## Page type: Query
 
@@ -96,4 +96,4 @@ Users of the app can browse, search or edit the individual data records on this 
 
 ![Switch between records on single record pages](images/Switch-between-records-on-single-record-pages.gif)
 
-[Learn more about pages of the Single data set type in Universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/)
+[Learn more about pages of the Single data set type in Universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})

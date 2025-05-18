@@ -30,7 +30,7 @@ A nova Base contém uma [tabela](https://seatable.io/pt/docs/seatable-nutzen/ein
 
 Antes da [entrada de dados]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
-O SeaTable oferece um total de [mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Provavelmente já está familiarizado com as colunas de texto, número e data das folhas de cálculo convencionais. Naturalmente, o SeaTable também as conhece. Além disso, o SeaTable oferece colunas para [imagens e ficheiros]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) e [caixas de verificação](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-checkbox-spalte/), bem como [campos de selecção](https://seatable.io/pt/docs/auswahlspalten/die-mehrfachauswahl-spalte/) [simples](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) e [múltipla](https://seatable.io/pt/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
+O SeaTable oferece um total de [mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Provavelmente já está familiarizado com as colunas de texto, número e data das folhas de cálculo convencionais. Naturalmente, o SeaTable também as conhece. Além disso, o SeaTable oferece colunas para [imagens e ficheiros]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) e [caixas de verificação]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) e [múltipla](https://seatable.io/pt/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
 
 Quer adicionar fotografias a uma entrada? Basta arrastar a imagem para uma coluna de imagens e o SeaTable guarda-a directamente na mesa. Em SeaTable tem todos os seus dados no mesmo lugar!
 

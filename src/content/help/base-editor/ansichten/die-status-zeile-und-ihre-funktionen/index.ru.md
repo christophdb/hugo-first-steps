@@ -52,7 +52,7 @@ url: '/ru/help/die-status-zeile-und-ihre-funktionen'
     - Валюта
 - [Постоянные колонки]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Рейтинговые колонки](https://seatable.io/ru/docs/auswahlspalten/die-rating-spalte/)
-- Числовые значения в [столбцах формул](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/)
+- Числовые значения в [столбцах формул]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Для следующих типов столбцов строка состояния **не** отражает вычисляемое значение, хотя они (могут) содержать числа:
 

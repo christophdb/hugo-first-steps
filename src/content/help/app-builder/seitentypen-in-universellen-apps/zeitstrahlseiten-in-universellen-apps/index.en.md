@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/zeitstrahlseiten-in-universellen-apps'
 ---
 
-This page type is very similar to the [timeline plugin](https://seatable.io/en/docs/plugins/anleitung-zum-timeline-plugin/) and allows you to display different time spans in the form of a **timeline**. As this data view reveals overlapping dates, **vacation planning in a company**, for example, could be a specific use case.
+This page type is very similar to the [timeline plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) and allows you to display different time spans in the form of a **timeline**. As this data view reveals overlapping dates, **vacation planning in a company**, for example, could be a specific use case.
 
 ![Timeline page in Universal Apps](images/Timeline-page-in-Universal-Apps.png)
 
@@ -18,11 +18,11 @@ If you want to change the settings of a page, click on the corresponding {{< sea
 
 ![Changing the settings of the timeline page](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-In the **page settings**, you can first set the graphic display of the timelines. To do this, select the [row color]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) or a [single selection column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), which determines the **color of the blocks**. You can also define a column for the **labeling of the blocks**.
+In the **page settings**, you can first set the graphic display of the timelines. To do this, select the [row color]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) or a [single selection column]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), which determines the **color of the blocks**. You can also define a column for the **labeling of the blocks**.
 
 ![Graphical setting of the timelines in universal apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-To define the period of the entries, you need a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) or [formula](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/)) that specifies the number of days. You can also select the **time span**, i.e. how many years the timeline should cover.
+To define the period of the entries, you need a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) or [formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})) that specifies the number of days. You can also select the **time span**, i.e. how many years the timeline should cover.
 
 ![Page settings of the timeline page in universal apps](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

@@ -12,7 +12,7 @@ url: '/ru/help/datenverarbeitungsoperationen-in-seatable'
 
 ## Смысл операций по обработке данных
 
-SeaTable часто мыслит рядами. Например, [формула](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/) может связывать между собой только значения в строке, а [связи между таблицами](https://seatable.io/ru/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) осуществляются только из строки в строку.
+SeaTable часто мыслит рядами. Например, [формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) может связывать между собой только значения в строке, а [связи между таблицами](https://seatable.io/ru/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) осуществляются только из строки в строку.
 
 Обработка данных, напротив, представляет собой функцию для выполнения операций в столбце по нескольким строкам. В принципе, различают два разных типа операций обработки данных:
 

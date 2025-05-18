@@ -12,7 +12,7 @@ A função de processamento de dados é uma característica útil do SeaTable qu
 
 ## Sentido por detrás das operações de processamento de dados
 
-O SeaTable pensa frequentemente em filas. Por exemplo, uma [fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/) só pode relacionar os valores numa fila entre si e as [ligações entre tabelas](https://seatable.io/pt/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) só são feitas de fila em fila.
+O SeaTable pensa frequentemente em filas. Por exemplo, uma [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) só pode relacionar os valores numa fila entre si e as [ligações entre tabelas](https://seatable.io/pt/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) só são feitas de fila em fila.
 
 O processamento de dados, em contraste, é uma função para realizar operações numa coluna através de várias filas. Basicamente, é feita uma distinção entre dois tipos diferentes de operações de processamento de dados:
 

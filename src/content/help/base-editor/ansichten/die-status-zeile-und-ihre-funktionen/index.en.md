@@ -52,7 +52,7 @@ For the following column types, the statusrow reflects a calculated value:
     - Currency
 - [Permanent columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Rating columns](https://seatable.io/en/docs/auswahlspalten/die-rating-spalte/)
-- Numerical values in [formula columns](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/)
+- Numerical values in [formula columns]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 For the following column types, the status-row **does not** reflect a calculated value, although they (may) contain numbers:
 

@@ -130,7 +130,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-formula" >}} **Formel**
 
 Mithilfe von Formeln können Sie unterschiedliche Spaltenwerte einer Zeile **verknüpfen** und basierend auf dem Inhalt dieser Spalten verschiedene **Funktionen** erstellen. Sie können unter anderem mit Werten in Ihren Tabellen rechnen, Werte verändern oder Werte aus der gleichen Zeile miteinander in Beziehung setzen.
 
-Sie benötigen weitere Infos zur Formel-Spalte? Dann werfen Sie einen Blick in diesen [Artikel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/). Da es sich bei Formeln um ein sehr komplexes Feature handelt, finden Sie zahlreiche weitere Hilfeartikel in unserem Handbuch. Klicken Sie [hier](https://seatable.io/docs-category/formeln/) und Sie werden zur Übersichtsseite weitergeleitet.
+Sie benötigen weitere Infos zur Formel-Spalte? Dann werfen Sie einen Blick in diesen [Artikel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Da es sich bei Formeln um ein sehr komplexes Feature handelt, finden Sie zahlreiche weitere Hilfeartikel in unserem Handbuch. Klicken Sie [hier](https://seatable.io/docs-category/formeln/) und Sie werden zur Übersichtsseite weitergeleitet.
 
 ### Verknüpfung zu anderen Einträgen
 

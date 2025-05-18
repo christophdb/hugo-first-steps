@@ -28,7 +28,7 @@ When you click on an **element** in the formula editor that you want to add to y
 
 ## Note the color scheme of the various form elements
 
-To be able to distinguish the different elements of your formula from each other, they are marked in a different **color** depending on their type. You can find out which elements are displayed in which color [here](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/#klare-farbsprache-zur-orientierung).
+To be able to distinguish the different elements of your formula from each other, they are marked in a different **color** depending on their type. You can find out which elements are displayed in which color [here]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}#klare-farbsprache-zur-orientierung).
 
 Use the different **colors** as a guide to get a better overview of your formula. In addition, the color highlighting of the formula elements can also act as a kind of **self-control** in two cases:
 

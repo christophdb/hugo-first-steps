@@ -39,14 +39,14 @@ Pode utilizar este tipo de página para criar diferentes **formulários** que os
 
 ![Formulário Web para registar o tempo de trabalho dos seus empregados](images/webformular-working-time.png)
 
-[Saiba mais sobre páginas de formulário em aplicações universais.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/)
+[Saiba mais sobre páginas de formulário em aplicações universais.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Galeria
 
 Com a ajuda deste tipo de página, pode apresentar **as imagens** que guardou numa [coluna de imagens da]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) sua tabela sob a forma de uma **galeria**. Também pode apresentar outros **dados** da sua tabela na galeria. Pode, por exemplo, utilizar uma página de galeria para apresentar **perfis** claros **dos seus empregados**.
 
 ![Representação dos seus empregados numa página de galeria](images/page-type-gallery-example.png)  
-[Saiba mais sobre as páginas da galeria em aplicações universais.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
+[Saiba mais sobre as páginas da galeria em aplicações universais.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Calendário
 
@@ -54,7 +54,7 @@ Este tipo de página funciona de forma semelhante ao [plugin de calendário]({{<
 
 ![Próximas reuniões numa vista de calendário da página de calendário](images/calendar-page-example.png)
 
-[Saiba mais sobre páginas de calendário em aplicações universais.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/)
+[Saiba mais sobre páginas de calendário em aplicações universais.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Página individual
 
@@ -70,15 +70,15 @@ Este tipo de página funciona de forma semelhante ao [plugin Kanban]({{< relref 
 
 ![Caso de utilização do tipo de página: Kanban](images/example-kanban-page-3.png)
 
-[Saiba mais sobre as páginas Kanban nas Aplicações Universais.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/)
+[Saiba mais sobre as páginas Kanban nas Aplicações Universais.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Linha de tempo
 
-Este tipo de página é muito semelhante ao [plug-in Timeline](https://seatable.io/pt/docs/plugins/anleitung-zum-timeline-plugin/) e permite-lhe apresentar diferentes períodos de tempo sob a forma de uma **linha de tempo**. Um caso de utilização concreto poderia ser o **planeamento de férias numa empresa**, por exemplo.
+Este tipo de página é muito semelhante ao [plug-in Timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) e permite-lhe apresentar diferentes períodos de tempo sob a forma de uma **linha de tempo**. Um caso de utilização concreto poderia ser o **planeamento de férias numa empresa**, por exemplo.
 
 ![Caso de utilização Tipo de página: Linha de tempo](images/example-timeline-page.png)
 
-[Saiba mais sobre as páginas da linha do tempo em aplicações universais.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/)
+[Saiba mais sobre as páginas da linha do tempo em aplicações universais.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Consulta
 
@@ -96,4 +96,4 @@ Os utilizadores da aplicação podem navegar, pesquisar ou editar os registos de
 
 ![Alternar entre registos em páginas de registo único](images/Switch-between-records-on-single-record-pages.gif)
 
-[Saiba mais sobre as páginas do tipo Conjunto de dados único em aplicações universais.](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/)
+[Saiba mais sobre as páginas do tipo Conjunto de dados único em aplicações universais.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})

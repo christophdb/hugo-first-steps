@@ -30,9 +30,9 @@ La **première colonne** d'un tableau ne prend en charge **que 6 des 25 types de
 - [Texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Nombre](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
-- [Sélection unique](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Sélection unique]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Numéro automatique](https://seatable.io/fr/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- [Formule](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/)
+- [Formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Avertissement de perte de données
 

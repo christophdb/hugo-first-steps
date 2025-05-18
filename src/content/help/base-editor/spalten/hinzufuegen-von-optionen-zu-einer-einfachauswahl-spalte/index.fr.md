@@ -51,7 +51,7 @@ Avec un [abonnement Enterprise](https://seatable.io/fr/docs/teamverwaltung-abonn
 
 ## Autres articles utiles sur le thème des colonnes à sélection simple
 
-- [Création d'une colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Création d'une colonne de sélection simple]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Modifier l'ordre des options de sélection simple](https://seatable.io/fr/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Définir un cascadage pour une colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Exporter et importer des options de sélection simple](https://seatable.io/fr/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

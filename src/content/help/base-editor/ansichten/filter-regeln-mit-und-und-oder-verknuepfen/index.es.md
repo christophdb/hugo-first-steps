@@ -20,7 +20,7 @@ Para poder trabajar con eficacia y concentrarse en lo esencial, necesita poder f
 
 Con el **enlace Y**, todas las condiciones especificadas deben aplicarse a un registro para que se muestre.
 
-Este ejemplo se muestra en el siguiente vídeo: Estamos en la vista de un plan editorial con numerosos posts. En primer lugar, filtramos la [columna de selección única](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) **"Estado"** para todos los posts que **no** están **finalizados**. Hemos reducido aún más este conjunto de datos utilizando el segundo filtro para mostrar sólo las entradas del **tipo "Entrada de blog"**. Ahora podemos ver qué entradas de blog aún no han finalizado.
+Este ejemplo se muestra en el siguiente vídeo: Estamos en la vista de un plan editorial con numerosos posts. En primer lugar, filtramos la [columna de selección única]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) **"Estado"** para todos los posts que **no** están **finalizados**. Hemos reducido aún más este conjunto de datos utilizando el segundo filtro para mostrar sólo las entradas del **tipo "Entrada de blog"**. Ahora podemos ver qué entradas de blog aún no han finalizado.
 
 ![Añadir regla de filtro con enlace AND](images/Filterregel-mit-Und-Verknuepfung-hinzufuegen.gif)
 

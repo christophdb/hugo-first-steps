@@ -30,9 +30,9 @@ url: '/ru/help/wie-man-den-spaltentyp-anpasst'
 - [Текст]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Номер](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Дата]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
-- [Одиночный выбор](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Одиночный выбор]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Автоматический номер](https://seatable.io/ru/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- [Формула](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/)
+- [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Предупреждение о потере данных
 

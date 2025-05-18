@@ -30,9 +30,9 @@ The **first column** in a table **only** supports **6 of the 25 column types**. 
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Number](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
-- [Single selection](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Single selection]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- [Formula](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/)
+- [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Data loss warning
 

@@ -34,7 +34,7 @@ Legen Sie eine [neue Ansicht]({{< relref "help/base-editor/ansichten/anlegen-ein
 
 Zapier bietet diverse Möglichkeiten, um Daten vor dem nächsten Verarbeitungsschritt zu bearbeiten. So können Sie z.B. Zahlen in Währungen umrechnen oder Werte zusammenführen etc. Einen kurzen Überblick erhalten Sie in diesem [Artikel](https://zapier.com/blog/updates/593/introducing-formatter-by-zapier).
 
-Wenn in Ihrem Zap die Daten aus SeaTable gelesen werden, sollten Sie auf solche Umwandlungen in Zapier verzichten. Nutzen Sie stattdessen die Möglichkeiten, die Ihnen die [Formelspalte](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/) in SeaTable zur Verfügung stellt. In SeaTable können Sie ohne Schwierigkeiten komplexe Manipulationen Ihrer Daten vornehmen und dann über die Formel-Spalte in Ihren Zap verwenden.
+Wenn in Ihrem Zap die Daten aus SeaTable gelesen werden, sollten Sie auf solche Umwandlungen in Zapier verzichten. Nutzen Sie stattdessen die Möglichkeiten, die Ihnen die [Formelspalte]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) in SeaTable zur Verfügung stellt. In SeaTable können Sie ohne Schwierigkeiten komplexe Manipulationen Ihrer Daten vornehmen und dann über die Formel-Spalte in Ihren Zap verwenden.
 
 ## 4\. So überschreiten Sie nicht das API-Limit
 

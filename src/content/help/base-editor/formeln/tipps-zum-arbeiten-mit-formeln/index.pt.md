@@ -28,7 +28,7 @@ Quando clica num **elemento** no editor de fórmulas que pretende adicionar à s
 
 ## Repare na coloração dos vários elementos do formulário
 
-Para poder distinguir os diferentes elementos da sua fórmula, estes são marcados com uma **cor** diferente consoante o seu tipo. Pode ler [aqui](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/#klare-farbsprache-zur-orientierung) quais os elementos que são apresentados em que cor.
+Para poder distinguir os diferentes elementos da sua fórmula, estes são marcados com uma **cor** diferente consoante o seu tipo. Pode ler [aqui]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}#klare-farbsprache-zur-orientierung) quais os elementos que são apresentados em que cor.
 
 Utilize as diferentes **cores** como guia para obter uma melhor visão geral da sua fórmula. Além disso, o realce de cores dos elementos da fórmula pode também funcionar como uma espécie de **autocontrolo** em dois casos:
 

@@ -37,7 +37,7 @@ El plug-in de línea de tiempo representa distintos periodos de tiempo en forma 
 
 ![Cronología de la gestión del proyecto](images/projektmanagement-timeline.png)
 
-[Más información sobre el plugin de cronología](https://seatable.io/es/docs/plugins/anleitung-zum-timeline-plugin/)
+[Más información sobre el plugin de cronología]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
 
 ## Plugin de galería
 

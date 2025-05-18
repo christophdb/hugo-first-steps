@@ -39,14 +39,14 @@ weight: 1
 
 ![Веб-форма для учета рабочего времени ваших сотрудников](images/webformular-working-time.png)
 
-[Узнайте больше о страницах форм в универсальных приложениях.](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/)
+[Узнайте больше о страницах форм в универсальных приложениях.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}})
 
 ## Тип страницы: Галерея
 
 С помощью этого типа страницы вы можете отображать **изображения**, которые вы сохранили в [колонке изображений]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) вашей таблицы, в виде **галереи**. В галерее можно также отображать другие **данные** из вашей таблицы. Например, вы можете использовать страницу галереи для наглядных **профилей ваших сотрудников**.
 
 ![Представление ваших сотрудников на странице галереи](images/page-type-gallery-example.png)  
-[Узнайте больше о страницах галереи в универсальных приложениях.](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
+[Узнайте больше о страницах галереи в универсальных приложениях.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}})
 
 ## Тип страницы: Календарь
 
@@ -54,7 +54,7 @@ weight: 1
 
 ![Предстоящие встречи в представлении календаря на странице календаря](images/calendar-page-example.png)
 
-[Узнайте больше о страницах календаря в универсальных приложениях.](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/)
+[Узнайте больше о страницах календаря в универсальных приложениях.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}})
 
 ## Тип страницы: Отдельная страница
 
@@ -70,15 +70,15 @@ weight: 1
 
 ![Вариант использования типа страницы: Kanban](images/example-kanban-page-3.png)
 
-[Узнайте больше о страницах Kanban в Universal Apps.](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/)
+[Узнайте больше о страницах Kanban в Universal Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}})
 
 ## Тип страницы: Временная шкала
 
-Этот тип страницы очень похож на [плагин Timeline](https://seatable.io/ru/docs/plugins/anleitung-zum-timeline-plugin/) и позволяет отображать различные временные промежутки в виде **временной шкалы**. Конкретным примером может быть, например, **планирование праздников в компании**.
+Этот тип страницы очень похож на [плагин Timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) и позволяет отображать различные временные промежутки в виде **временной шкалы**. Конкретным примером может быть, например, **планирование праздников в компании**.
 
 ![Вариант использования Тип страницы: Временная шкала](images/example-timeline-page.png)
 
-[Узнайте больше о страницах временной шкалы в универсальных приложениях.](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/)
+[Узнайте больше о страницах временной шкалы в универсальных приложениях.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}})
 
 ## Тип страницы: Запрос
 
@@ -96,4 +96,4 @@ weight: 1
 
 ![Переключение между записями на страницах с одной записью](images/Switch-between-records-on-single-record-pages.gif)
 
-[Подробнее о страницах с типом набора данных Single в универсальных приложениях.](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/)
+[Подробнее о страницах с типом набора данных Single в универсальных приложениях.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})

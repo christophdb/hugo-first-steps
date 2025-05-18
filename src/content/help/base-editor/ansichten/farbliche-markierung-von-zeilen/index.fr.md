@@ -30,7 +30,11 @@ Pour l'option **Utiliser une colonne de sélection simple**, vous avez besoin d'
 
 ![Marquage couleur des cellules](images/Farbliche-Markierung-von-Zellen-3.png)
 
-{{< warning  headline="Création d'une colonne de sélection simple"  text="Apprenez [ici](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) comment créer de nouvelles colonnes de sélection simple." />}}
+{{< warning  headline="Création d'une colonne de sélection simple" >}}
+
+Apprenez [ici]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) comment créer de nouvelles colonnes de sélection simple.
+
+{{< /warning >}}
 
 ## Utiliser des règles
 

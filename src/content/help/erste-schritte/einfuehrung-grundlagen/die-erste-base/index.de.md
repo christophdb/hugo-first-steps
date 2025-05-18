@@ -31,7 +31,7 @@ Die neue Base enthält von Beginn an eine [Tabelle](https://seatable.io/docs/sea
 Vor der [Datenerfassung]({{< relref "help/base-editor/webformulare/webformulare" >}}) verhalten.
 
 SeaTable bietet insgesamt [über 20 Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
-). Aus herkömmlichen Tabellenkalkulationen kennen Sie bestimmt schon Text-, Zahl- und Datum-Spalten. Diese kennt natürlich auch SeaTable. Darüber hinaus bietet SeaTable Spalten für [Bilder und Dateien]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) und [Checkboxen](https://seatable.io/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) sowie [Einfach-](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) und [Mehrfachauswahlfelder](https://seatable.io/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
+). Aus herkömmlichen Tabellenkalkulationen kennen Sie bestimmt schon Text-, Zahl- und Datum-Spalten. Diese kennt natürlich auch SeaTable. Darüber hinaus bietet SeaTable Spalten für [Bilder und Dateien]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) und [Checkboxen]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) und [Mehrfachauswahlfelder](https://seatable.io/docs/auswahlspalten/die-mehrfachauswahl-spalte/).
 
 Sie wollen Bilder zu einem Eintrag hinzufügen? Ziehen Sie einfach das Bild in eine Bild-Spalte und SeaTable speichert es direkt in der Tabelle. In SeaTable haben Sie alle Ihre Daten an einem Ort!
 

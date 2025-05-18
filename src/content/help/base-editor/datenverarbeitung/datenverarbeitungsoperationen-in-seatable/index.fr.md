@@ -12,7 +12,7 @@ La fonction de traitement des données est une fonctionnalité utile de SeaTable
 
 ## Le sens derrière les opérations de traitement des données
 
-SeaTable pense souvent en termes de lignes. Par exemple, une [formule](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/) ne peut mettre en relation que les valeurs d'une ligne et [les liens entre les tableaux](https://seatable.io/fr/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) se font toujours de ligne à ligne.
+SeaTable pense souvent en termes de lignes. Par exemple, une [formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) ne peut mettre en relation que les valeurs d'une ligne et [les liens entre les tableaux](https://seatable.io/fr/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) se font toujours de ligne à ligne.
 
 Par opposition, le traitement des données est une fonction permettant d'effectuer des opérations dans une colonne sur plusieurs lignes. En principe, on distingue deux types d'opérations de traitement des données :
 

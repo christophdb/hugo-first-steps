@@ -31,9 +31,9 @@ Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 25 Spaltentypen**
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Zahl](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
-- [Einfachauswahl](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Einfachauswahl]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)
+- [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Warnung vor Datenverlust
 

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/zeitstrahlseiten-in-universellen-apps'
 ---
 
-Dieser Seitentyp weist große Ähnlichkeit zum [Timeline-Plugin](https://seatable.io/docs/plugins/anleitung-zum-timeline-plugin/) auf und ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Da diese Datenansicht Überschneidungen von Terminen aufdeckt, könnte beispielsweise die **Urlaubsplanung in einem Unternehmen** ein konkreter Anwendungsfall sein.
+Dieser Seitentyp weist große Ähnlichkeit zum [Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) auf und ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Da diese Datenansicht Überschneidungen von Terminen aufdeckt, könnte beispielsweise die **Urlaubsplanung in einem Unternehmen** ein konkreter Anwendungsfall sein.
 
 ![Timeline page in Universal Apps](images/Timeline-page-in-Universal-Apps.png)
 
@@ -18,11 +18,11 @@ Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navi
 
 ![Einstellungen der Zeitstrahlseite ändern](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
+In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
 
 ![Grafische Einstellung der Zeitleisten in Universellen Apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) oder [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)) verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
+Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) oder [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
 
 ![Seiteneinstellungen der Zeitstrahlseite in Universellen Apps](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

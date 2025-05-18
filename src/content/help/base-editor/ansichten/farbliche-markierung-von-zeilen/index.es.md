@@ -30,7 +30,11 @@ Para la opción **Utilizar columna de selección única**, necesita una columna 
 
 ![Marcación por colores de las celdas](images/Farbliche-Markierung-von-Zellen-3.png)
 
-{{< warning  headline="Creación de una columna de selección única"  text="Descubra [aquí](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) cómo crear nuevas columnas de selección única." />}}
+{{< warning  headline="Creación de una columna de selección única" >}}
+
+Descubra [aquí]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) cómo crear nuevas columnas de selección única.
+
+{{< /warning >}}
 
 ## Normas de uso
 

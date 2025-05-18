@@ -12,7 +12,7 @@ La función de tratamiento de datos es una característica útil de SeaTable que
 
 ## El sentido de las operaciones de tratamiento de datos
 
-SeaTable suele pensar en filas. Por ejemplo, una [fórmula](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/) sólo puede relacionar los valores de una fila entre sí y [los enlaces entre tablas](https://seatable.io/es/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) sólo se hacen de fila a fila.
+SeaTable suele pensar en filas. Por ejemplo, una [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) sólo puede relacionar los valores de una fila entre sí y [los enlaces entre tablas](https://seatable.io/es/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) sólo se hacen de fila a fila.
 
 El tratamiento de datos, por el contrario, es una función para realizar operaciones en una columna a través de varias filas. Básicamente, se distingue entre dos tipos diferentes de operaciones de tratamiento de datos:
 

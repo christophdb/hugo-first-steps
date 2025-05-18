@@ -51,7 +51,7 @@ Mit einem [Enterprise-Abo](https://seatable.io/docs/teamverwaltung-abonnement/ab
 
 ## Weitere hilfreiche Artikel zum Thema Einfachauswahl-Spalten
 
-- [Anlegen einer Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Anlegen einer Einfachauswahl-Spalte]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Ändern der Reihenfolge von Einfachauswahl-Optionen](https://seatable.io/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Eine Kaskadierung für eine Einfachauswahl-Spalte definieren](https://seatable.io/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Einfachauswahl-Optionen exportieren und importieren](https://seatable.io/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

@@ -52,7 +52,7 @@ Para os seguintes tipos de colunas, a linha de estado reflecte um valor calculad
     - Moeda
 - [Colunas permanentes]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Colunas de classificação](https://seatable.io/pt/docs/auswahlspalten/die-rating-spalte/)
-- Valores numéricos em [colunas de fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/)
+- Valores numéricos em [colunas de fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Para os seguintes tipos de colunas, a linha de estado **não** reflecte um valor calculado, embora (possam) conter números:
 

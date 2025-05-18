@@ -30,7 +30,11 @@ Für die Option **Einfachauswahl-Spalte verwenden** benötigen Sie in Ihrer Tabe
 
 ![Farbliche Markierung von Zellen](images/Farbliche-Markierung-von-Zellen-3.png)
 
-{{< warning  headline="Anlegen einer Einfachauswahlspalte"  text="Erfahren Sie [hier](\"https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/\"), wie Sie neue Einfachauswahlspalten anlegen." />}}
+{{< warning  headline="Anlegen einer Einfachauswahlspalte" >}}
+
+Erfahren Sie [hier]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), wie Sie neue Einfachauswahlspalten anlegen.
+
+{{< /warning >}}
 
 ## Regeln verwenden
 

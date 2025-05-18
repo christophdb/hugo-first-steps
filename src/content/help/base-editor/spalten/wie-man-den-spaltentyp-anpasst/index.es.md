@@ -30,9 +30,9 @@ La **primera columna** de una tabla **sólo** admite **6 de los 25 tipos de colu
 - [Texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Número](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/)
 - [Fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
-- [Selección individual](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Selección individual]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Número automático](https://seatable.io/es/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
-- [Fórmula](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/)
+- [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Aviso de pérdida de datos
 

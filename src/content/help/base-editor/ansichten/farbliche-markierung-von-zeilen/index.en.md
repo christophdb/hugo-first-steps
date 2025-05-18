@@ -30,7 +30,11 @@ For the **Use single selection column** option, you need a column of this type i
 
 ![Color marking of cells](images/Farbliche-Markierung-von-Zellen-3.png)
 
-{{< warning  headline="Creating a single selection column"  text="Find out [here](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) how to create new single selection columns." />}}
+{{< warning  headline="Creating a single selection column" >}}
+
+Find out [here]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) how to create new single selection columns.
+
+{{< /warning >}}
 
 ## Use rules
 

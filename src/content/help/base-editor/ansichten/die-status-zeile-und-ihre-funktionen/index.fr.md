@@ -52,7 +52,7 @@ Pour les types de colonnes suivants, la ligne d'état indique une valeur calcul�
     - Monnaie
 - [Colonnes permanentes]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Colonnes de notation](https://seatable.io/fr/docs/auswahlspalten/die-rating-spalte/)
-- Valeurs numériques dans [les colonnes de formules](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/)
+- Valeurs numériques dans [les colonnes de formules]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Pour les types de colonnes suivants, la ligne d'état ne donne **pas** de valeur calculée, bien qu'ils contiennent (ou puissent contenir) des chiffres :
 

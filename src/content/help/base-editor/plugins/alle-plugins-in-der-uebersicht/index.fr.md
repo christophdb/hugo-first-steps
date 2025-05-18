@@ -37,7 +37,7 @@ Le plugin Timeline représente différentes périodes sous la forme d'une **lign
 
 ![Chronologie de la gestion de projet](images/projektmanagement-timeline.png)
 
-[En savoir plus sur le plugin Timeline](https://seatable.io/fr/docs/plugins/anleitung-zum-timeline-plugin/)
+[En savoir plus sur le plugin Timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}})
 
 ## Plugin de la galerie
 

@@ -12,7 +12,7 @@ Die Datenverarbeitungsfunktion ist ein nützliches Feature von SeaTable, mit dem
 
 ## Sinn hinter Datenverarbeitungsoperationen
 
-SeaTable denkt oft in Zeilen. Zum Beispiel kann eine [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/) ausschließlich die Werte in einer Zeile miteinander in Beziehung setzen und auch [Verlinkungen zwischen Tabellen](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) erfolgen immer nur von Zeilen zu Zeilen.
+SeaTable denkt oft in Zeilen. Zum Beispiel kann eine [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) ausschließlich die Werte in einer Zeile miteinander in Beziehung setzen und auch [Verlinkungen zwischen Tabellen](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) erfolgen immer nur von Zeilen zu Zeilen.
 
 Die Datenverarbeitung ist im Gegensatz dazu eine Funktion, um Operationen in einer Spalte über mehrere Zeilen hinweg durchzuführen. Grundsätzlich wird dabei zwischen zwei verschiedenen Arten von Datenverarbeitungsoperationen unterschieden:
 

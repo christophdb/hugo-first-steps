@@ -73,7 +73,7 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 - с помощью [автоматизации](https://seatable.io/ru/docs/automationen/automations-aktionen/) (действия: "Добавить строку" и "Добавить новую запись в другую таблицу")
 - в [календаре]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - через [веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- на [страницах]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) и [Kanban](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) в приложениях
+- на [страницах]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [форм]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) и [Kanban]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}}) в приложениях
 
 ![Значение по умолчанию применяется везде для новых строк](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
@@ -87,4 +87,4 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 
 ## Значения по умолчанию в приложениях
 
-Значения по умолчанию, заданные в базе, также влияют на строки, которые вводятся на **страницах таблиц, форм и Kanban** в [универсальных приложениях]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Единственный [тип страницы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), для которого вы все еще можете задать значения по умолчанию в приложении, - это [страница формы](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/). Настройки работают точно так же, как и для веб-форм: Для этого активируйте ползунки, как показано на скриншоте выше.
+Значения по умолчанию, заданные в базе, также влияют на строки, которые вводятся на **страницах таблиц, форм и Kanban** в [универсальных приложениях]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). Единственный [тип страницы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), для которого вы все еще можете задать значения по умолчанию в приложении, - это [страница формы]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}). Настройки работают точно так же, как и для веб-форм: Для этого активируйте ползунки, как показано на скриншоте выше.

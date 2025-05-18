@@ -39,13 +39,13 @@ Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, wel
 
 ![Webformular zur Erfassung der Arbeitszeit Ihrer Mitarbeiter](images/webformular-working-time.png)
 
-[Erfahren Sie mehr über Formularseiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/)
+[Erfahren Sie mehr über Formularseiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}})
 
 ## Seitentyp: Galerie
 
 Mithilfe dieses Seitentyps können Sie **Bilder**, die Sie in einer [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) Ihrer Tabelle gespeichert haben, in Form einer **Galerie** anzeigen lassen. Andere **Daten** aus Ihrer Tabelle können Sie in der Galerie ebenfalls anzeigen lassen. Eine Galerieseite könnten Sie zum Beispiel für übersichtliche **Steckbriefe Ihrer Mitarbeiter** verwenden.
 
-![Darstellung Ihrer Mitarbeiter in einer Galerie-Seite](images/page-type-gallery-example.png) [Erfahren Sie mehr über Galerieseiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/)
+![Darstellung Ihrer Mitarbeiter in einer Galerie-Seite](images/page-type-gallery-example.png) [Erfahren Sie mehr über Galerieseiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}})
 
 ## Seitentyp: Kalender
 
@@ -54,7 +54,7 @@ Dieser Seitentyp funktioniert so ähnlich wie das [Kalender-Plugin]({{< relref "
 
 ![Bevorstehende Meetings in einer Kalenderansicht der Kalenderseite](images/calendar-page-example.png)
 
-[Erfahren Sie mehr über Kalenderseiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/)
+[Erfahren Sie mehr über Kalenderseiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}})
 
 ## Seitentyp: Individuelle Seite
 
@@ -70,15 +70,15 @@ Dieser Seitentyp funktioniert ähnlich wie das [Kanban-Plugin]({{< relref "help/
 
 ![Anwendungsfall des Seitentyps: Kanban](images/example-kanban-page-3.png)
 
-[Erfahren Sie mehr über Kanbanseiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/)
+[Erfahren Sie mehr über Kanbanseiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps" >}})
 
 ## Seitentyp: Zeitstrahl
 
-Dieser Seitentyp weist große Ähnlichkeit zum [Timeline-Plugin](https://seatable.io/docs/plugins/anleitung-zum-timeline-plugin/) auf und ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Ein konkreter Anwendungsfall könnte beispielsweise die **Urlaubsplanung in einem Unternehmen** sein.
+Dieser Seitentyp weist große Ähnlichkeit zum [Timeline-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) auf und ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Ein konkreter Anwendungsfall könnte beispielsweise die **Urlaubsplanung in einem Unternehmen** sein.
 
 ![Anwendungsfall Seitentyp: Zeitstrahl](images/example-timeline-page.png)
 
-[Erfahren Sie mehr über Zeitstrahlseiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/)
+[Erfahren Sie mehr über Zeitstrahlseiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}})
 
 ## Seitentyp: Abfrage
 
@@ -96,4 +96,4 @@ Die Nutzer der App können auf dieser Seite die einzelnen Datensätze durchblät
 
 ![Switch between records on single record pages](images/Switch-between-records-on-single-record-pages.gif)
 
-[Erfahren Sie mehr über Seiten des Typs Einzelner Datensatz in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/)
+[Erfahren Sie mehr über Seiten des Typs Einzelner Datensatz in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}})

@@ -51,7 +51,7 @@ With an [Enterprise subscription](https://seatable.io/en/docs/teamverwaltung-abo
 
 ## More helpful articles on the topic of single-selection columns
 
-- [Create a single selection column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Create a single selection column]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Changing the order of single-selection options](https://seatable.io/en/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Define a cascading for a single-selection column](https://seatable.io/en/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Export and import single selection options](https://seatable.io/en/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)

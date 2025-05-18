@@ -29,7 +29,7 @@ Je nachdem, nach welchem **Spaltentyp** Sie filtern möchten, passen sich auch d
 
 Diese Bedingungsoptionen haben Sie bei einer [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}): ![Filtern Textspalte](images/filtern-von-eintraegen-5.png)
 
-Diese Bedingungsoptionen haben Sie bei einer [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/): ![Filter einzelauswahl-Spalte](images/filtern-von-eintraegen-6.png)
+Diese Bedingungsoptionen haben Sie bei einer [Einfachauswahl-Spalte]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}): ![Filter einzelauswahl-Spalte](images/filtern-von-eintraegen-6.png)
 
 Diese Bedingungsoptionen haben Sie bei einer [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}): ![Filtern Bildspalte](images/filtern-von-eintraegen-7.png)
 

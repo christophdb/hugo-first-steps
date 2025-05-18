@@ -30,7 +30,7 @@ Depending on the **column type** you want to filter by, the conditions you can s
 You have these condition options with a [Text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}):  
 ![Filter text column](images/filtern-von-eintraegen-5.png)
 
-You have these condition options with a [Single selection column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
+You have these condition options with a [Single selection column]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}):  
 ![Filter single selection column](images/filtern-von-eintraegen-6.png)
 
 You have these condition options with a [Image column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}):  

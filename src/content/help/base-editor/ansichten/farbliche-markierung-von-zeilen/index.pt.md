@@ -30,7 +30,11 @@ Para a opção **Utilizar coluna de seleção única**, é necessária uma colun
 
 ![Marcação a cores das células](images/Farbliche-Markierung-von-Zellen-3.png)
 
-{{< warning  headline="Criar uma coluna de seleção única"  text="Descubra [aqui](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) como criar novas colunas de seleção simples." />}}
+{{< warning  headline="Criar uma coluna de seleção única" >}}
+
+Descubra [aqui]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) como criar novas colunas de seleção simples.
+
+{{< /warning >}}
 
 ## Regras de utilização
 

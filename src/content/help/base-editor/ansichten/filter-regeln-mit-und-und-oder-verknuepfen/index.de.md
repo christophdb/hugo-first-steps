@@ -20,7 +20,7 @@ Um effizient arbeiten und sich auf das Wesentliche konzentrieren zu können, mü
 
 Bei der **Und-Verknüpfung** müssen alle festgelegten Bedingungen auf einen Datensatz zutreffen, damit er angezeigt wird.
 
-Dieses Beispiel demonstriert das folgende Video: Wir befinden uns in der Ansicht eines Redaktionsplans mit zahlreichen Posts. Zuerst haben wir in der [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) **"Status"** nach allen Posts gefiltert, die **nicht fertig** sind. Diese Datenmenge haben wir durch den zweiten Filter weiter eingegrenzt, um nur Posts vom **Typ "Blogpost"** angezeigt zu bekommen. Nun sehen wir, welche Blogposts noch nicht fertig sind.
+Dieses Beispiel demonstriert das folgende Video: Wir befinden uns in der Ansicht eines Redaktionsplans mit zahlreichen Posts. Zuerst haben wir in der [Einfachauswahl-Spalte]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) **"Status"** nach allen Posts gefiltert, die **nicht fertig** sind. Diese Datenmenge haben wir durch den zweiten Filter weiter eingegrenzt, um nur Posts vom **Typ "Blogpost"** angezeigt zu bekommen. Nun sehen wir, welche Blogposts noch nicht fertig sind.
 
 ![Filterregel mit Und-Verknüpfung hinzufügen](images/Filterregel-mit-Und-Verknuepfung-hinzufuegen.gif)
 

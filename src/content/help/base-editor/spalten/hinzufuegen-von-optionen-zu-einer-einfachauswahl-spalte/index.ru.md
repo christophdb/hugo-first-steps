@@ -51,7 +51,7 @@ url: '/ru/help/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte'
 
 ## Другие полезные статьи по теме колонок с одинарным отбором
 
-- [Создайте колонку с одним выбором](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+- [Создайте колонку с одним выбором]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Изменение порядка опций одиночного выбора](https://seatable.io/ru/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
 - [Определение каскадирования для колонки с одним выбором](https://seatable.io/ru/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
 - [Экспорт и импорт отдельных вариантов выбора](https://seatable.io/ru/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)
