@@ -28,7 +28,7 @@ You can use the Findmax formula with all numeric values to represent the **maxim
 
 ### Add a table link
 
-See the article [How to link tables in SeaTable](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) for information on how to create a column of the type **Link to other entries**. This is a basic requirement to be able to use the Findmax formula.
+See the article [How to link tables in SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) for information on how to create a column of the type **Link to other entries**. This is a basic requirement to be able to use the Findmax formula.
 
 ### Add a column with Findmax formula
 

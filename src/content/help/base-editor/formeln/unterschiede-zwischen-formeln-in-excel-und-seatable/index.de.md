@@ -1,11 +1,11 @@
 ---
-title: "Unterschiede zwischen Formeln in Excel und SeaTable"
+title: 'Unterschiede zwischen Formeln in Excel und SeaTable'
 date: 2023-02-03
-lastmod: "2023-02-03"
-categories: 
-  - "formeln"
-author: "ssc"
-url: "/de/hilfe/unterschiede-zwischen-formeln-in-excel-und-seatable"
+lastmod: '2023-02-03'
+categories:
+    - 'formeln'
+author: 'ssc'
+url: '/de/hilfe/unterschiede-zwischen-formeln-in-excel-und-seatable'
 ---
 
 Sind Sie ein Excel-Benutzer, der mit dem Schreiben von Formeln vertraut ist und gerade erst mit SeaTable loslegt? Dann ist dieser Artikel genau das Richtige für Sie! Obwohl die Prinzipien der Formelfunktionen in SeaTable ähnlich sind, gibt es einige wichtige Unterschiede, die Sie zu Beginn lernen müssen und die sich auszahlen werden, wenn Sie ein Experte für SeaTable-Formeln werden möchten.
@@ -44,7 +44,7 @@ Die Formel verweist auf ganze _Spalten_, wie z.B. {Purchase Type}.
 
 ## Werte aus anderen Tabellen
 
-SeaTable-Formeln funktionieren innerhalb von _Tabellen_, nicht über _Bases_ hinaus. Ähnlich wie oben beziehen sich SeaTable-Formeln standardmäßig nur auf _Spalten_ innerhalb derselben _Tabelle_. Es gibt jedoch auch Möglichkeiten, einen Wert aus einer anderen Tabelle zu übernehmen, um ihn in einem Formelfeld zu referenzieren (Dieser Ansatz verwendet verknüpfte Datensätze, die [hier](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) ausführlicher behandelt werden).
+SeaTable-Formeln funktionieren innerhalb von _Tabellen_, nicht über _Bases_ hinaus. Ähnlich wie oben beziehen sich SeaTable-Formeln standardmäßig nur auf _Spalten_ innerhalb derselben _Tabelle_. Es gibt jedoch auch Möglichkeiten, einen Wert aus einer anderen Tabelle zu übernehmen, um ihn in einem Formelfeld zu referenzieren (Dieser Ansatz verwendet verknüpfte Datensätze, die [hier]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ausführlicher behandelt werden).
 
 ### Excel
 

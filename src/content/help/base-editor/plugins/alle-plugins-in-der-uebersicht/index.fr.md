@@ -114,7 +114,7 @@ Le plug-in Organigramme permet de représenter **les hiérarchies** entre les en
 
 ![Plugin d'organigramme](images/Organigramm-Plugin.png)
 
-[En savoir plus sur le plugin d'organigramme](https://seatable.io/fr/docs/plugins/anleitung-zum-organigramm-plugin/)
+[En savoir plus sur le plugin d'organigramme]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
 ## Plugin de relations entre les tables
 

@@ -33,7 +33,11 @@ Für die Umsetzung benötigen Sie zunächst zwei Tabellen: eine Tabelle, in der 
 
 ![Beispieltabelle Transaktionen](images/table-transactions.png)
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bei dieser Datenverarbeitungsoperation müssen Sie Ihren Tabellen **keine Spalten** manuell hinzufügen, da bei der ersten Ausführung automatisch eine [Verknüpfungsspalte](\"https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/\") in beiden Tabellen angelegt wird." />}}
+{{< warning  type="warning" headline="Wichtiger Hinweis" >}}
+
+Bei dieser Datenverarbeitungsoperation müssen Sie Ihren Tabellen **keine Spalten** manuell hinzufügen, da bei der ersten Ausführung automatisch eine [Verknüpfungsspalte]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in beiden Tabellen angelegt wird.
+
+{{< /warning >}}
 
 Um die Datenverarbeitungsoperation anzulegen, befolgen Sie die oben beschriebenen Schritte. Für den konkreten Anwendungsfall wählen Sie dabei die **Tabellen** _Transactions_ und _Invoices_ sowie die _Amount_\-**Spalten** mit den jeweiligen Beträgen, die übereinstimmen müssen, damit die Datensätze miteinander verknüpft werden.
 

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
 ---
 
-You can use a **button** to **copyrows to other tables**. This is helpful if you need certain data records in different tables but do not want to use [a link](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). The following instructions illustrate the use case using an example.
+You can use a **button** to **copyrows to other tables**. This is helpful if you need certain data records in different tables but do not want to use [a link]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). The following instructions illustrate the use case using an example.
 
 ## Application example
 

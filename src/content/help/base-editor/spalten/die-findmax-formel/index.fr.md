@@ -28,7 +28,7 @@ Vous pouvez utiliser la formule Findmax pour toutes les valeurs numériques afin
 
 ### Ajouter un lien de tableau
 
-Consultez l'article [Comment lier des tableaux dans SeaTable](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) pour savoir comment créer une colonne de type **lien vers d'autres entrées**. C'est une condition préalable à l'utilisation de la formule Findmax.
+Consultez l'article [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) pour savoir comment créer une colonne de type **lien vers d'autres entrées**. C'est une condition préalable à l'utilisation de la formule Findmax.
 
 ### Ajouter une colonne avec la formule Findmax
 

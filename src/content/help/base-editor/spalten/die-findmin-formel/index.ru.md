@@ -28,7 +28,7 @@ url: '/ru/help/die-findmin-formel'
 
 ### Добавить ссылку на таблицу
 
-Узнайте, как создать колонку типа **Ссылка на другие записи** [в](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) статье [Как](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) **связать** [таблицы в SeaTable](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Это основное требование для того, чтобы иметь возможность использовать формулу Findmin.
+Узнайте, как создать колонку типа **Ссылка на другие записи** [в]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Это основное требование для того, чтобы иметь возможность использовать формулу Findmin.
 
 ### Добавить столбец с формулой Findmin
 

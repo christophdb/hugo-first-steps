@@ -68,7 +68,7 @@ If you specify the reference **{creator.name}** or **{creator.id}** as the defau
 The default values apply **wherever** you can create new rows :
 
 - in a [table]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- in a [link column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- in a [link column]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - via [button](https://seatable.io/en/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (action: "Copyrow to another table")
 - via [automation](https://seatable.io/en/docs/automationen/automations-aktionen/) (actions: "Addrow " and "Add new entry in another table")
 - in the [calendar](https://seatable.io/en/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [gallery](https://seatable.io/en/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) or [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/)

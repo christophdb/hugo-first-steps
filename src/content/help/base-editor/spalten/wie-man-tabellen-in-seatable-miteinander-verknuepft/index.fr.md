@@ -107,7 +107,7 @@ En activant ce paramètre, vous pouvez limiter les liens à **une vue** du table
 
 ![Limiter les raccourcis à une seule vue](images/Verknuepfungen-auf-eine-Ansicht-einschraenken.png)
 
-Ce paramètre est particulièrement utile pour les [vues filtrées](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) afin de limiter le choix des enregistrements pouvant être liés. En combinaison avec la [limitation de la liaison à une ligne](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/#7-toc-title), ce paramètre peut vous être utile si vous souhaitez lier de manière ciblée **des entrées individuelles** dans vos tableaux.
+Ce paramètre est particulièrement utile pour les [vues filtrées]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}#7-toc-title), ce paramètre peut vous être utile si vous souhaitez lier de manière ciblée **des entrées individuelles** dans vos tableaux.
 
 ### Empêcher la création de liens vers des entrées existantes
 

@@ -43,7 +43,11 @@ Pour la mise en œuvre, vous avez tout d'abord besoin de deux tableaux : un tabl
 
 ![Exemple de tableau de transactions](images/table-transactions.png)
 
-{{< warning  headline="Remarque importante"  text="Avec cette opération de traitement des données, vous n'avez **pas** besoin d'ajouter manuellement **des colonnes** à vos tables, car une [colonne de liaison](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) est automatiquement créée dans les deux tables lors de la première exécution." />}}
+{{< warning  headline="Remarque importante" >}}
+
+Avec cette opération de traitement des données, vous n'avez **pas** besoin d'ajouter manuellement **des colonnes** à vos tables, car une [colonne de liaison]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) est automatiquement créée dans les deux tables lors de la première exécution.
+
+{{< /warning >}}
 
 Pour créer l'opération de traitement des données, suivez les étapes décrites ci-dessus. Pour le cas d'application concret, sélectionnez les **tables** _Transactions_ et _Invoices_ ainsi que les _colonnes_**Amount** avec les montants respectifs qui doivent correspondre pour que les enregistrements soient reliés entre eux.
 

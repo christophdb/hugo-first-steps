@@ -43,7 +43,11 @@ For the implementation, you first need two tables: a table in which the invoice 
 
 ![Example table transactions](images/table-transactions.png)
 
-{{< warning  headline="Important note"  text="This data processing operation does **not** require you to add **columns** to your tables manually, as a [join column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) is automatically created in both tables when it is first executed." />}}
+{{< warning  headline="Important note" >}}
+
+This data processing operation does **not** require you to add **columns** to your tables manually, as a [join column]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is automatically created in both tables when it is first executed.
+
+{{< /warning >}}
 
 To create the data processing operation, follow the steps described above. For the specific use case, select the _Transactions_ and _Invoices_ **tables** and the **Amount** \_columns_with the respective amounts that must match in order to link the records.
 

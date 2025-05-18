@@ -47,7 +47,7 @@ When creating a single selection column, you have the option to set a preset **d
 
 ## Single selection or link column?
 
-If you wish to be able to store **additional information** for each selection option, you should consider converting the single selection column into a [link column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Then you can create a complete record for each option in a separate table.
+If you wish to be able to store **additional information** for each selection option, you should consider converting the single selection column into a [link column]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Then you can create a complete record for each option in a separate table.
 
 ## More helpful articles on the topic of single-selection columns
 

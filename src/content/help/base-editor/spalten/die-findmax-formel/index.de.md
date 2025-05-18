@@ -28,7 +28,7 @@ Die Findmax-Formel können Sie bei allen numerischen Werten zur Darstellung des 
 
 ### Eine Tabellenverknüpfung hinzufügen
 
-Informieren Sie sich im Artikel [Wie man Tabellen in SeaTable miteinander verknüpft](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) nach, wie Sie eine Spalte des Typs **Verknüpfung zu anderen Einträgen** erstellen. Dies ist eine Grundvoraussetzung, um die Findmax-Formel verwenden zu können.
+Informieren Sie sich im Artikel [Wie man Tabellen in SeaTable miteinander verknüpft]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) nach, wie Sie eine Spalte des Typs **Verknüpfung zu anderen Einträgen** erstellen. Dies ist eine Grundvoraussetzung, um die Findmax-Formel verwenden zu können.
 
 ### Eine Spalte mit Findmax-Formel hinzufügen
 

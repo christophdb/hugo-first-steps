@@ -1,11 +1,11 @@
 ---
-title: "Die Rollup-Formel"
+title: 'Die Rollup-Formel'
 date: 2023-01-24
-lastmod: "2023-01-24"
-categories: 
-  - "verknuepfungen"
-author: "vge"
-url: "/de/hilfe/die-rollup-formel"
+lastmod: '2023-01-24'
+categories:
+    - 'verknuepfungen'
+author: 'vge'
+url: '/de/hilfe/die-rollup-formel'
 ---
 
 Mithilfe der Rollup-Formel des Spaltentyps **Formel für Verknüpfungen** können Sie mehrere Zahlenwerte einer verknüpften Spalte zueinander ins Verhältnis setzen und einfache statistische Berechnungen durchführen.
@@ -14,7 +14,7 @@ Mithilfe der Rollup-Formel des Spaltentyps **Formel für Verknüpfungen** könne
 
 Mit der **Rollup-Formel** ist es möglich, Relationen zwischen Zahlenwerten zu ermitteln. Beispielsweise können Sie bei der Haushaltsplanung die Ausgaben einer Kategorie **summieren**, den ausgegebenen **Maximal-** oder **Minimal-Wert** oder auch den **Durchschnitt** berechnen.
 
-Zunächst brauchen Sie eine Spalte des Typs [Verknüpfung zu anderen Einträgen](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Stellen Sie dabei sicher, dass die Option **Verknüpfungen zu mehreren Zeilen erlauben** aktiviert ist, denn nur so können Sie Relationen zwischen Zahlen bestimmen.
+Zunächst brauchen Sie eine Spalte des Typs [Verknüpfung zu anderen Einträgen]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Stellen Sie dabei sicher, dass die Option **Verknüpfungen zu mehreren Zeilen erlauben** aktiviert ist, denn nur so können Sie Relationen zwischen Zahlen bestimmen.
 
 ![Die Rollup-Formel](https://seatable.io/wp-content/uploads/2022/11/rollup-1.png)
 
@@ -24,7 +24,7 @@ Die Spalte **Formel für Verlinkung** zeigt Ihnen dann mithilfe der Rollup-Forme
 
 ## Eine Tabellenverknüpfung hinzufügen
 
-Lesen Sie im Artikel [Wie man Tabellen in SeaTable miteinander verknüpft](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), wie Sie eine Spalte des Typs **Verknüpfung zu anderen Einträgen** erstellen. Dies ist Grundvoraussetzung, um die Rollup-Formel verwenden zu können.
+Lesen Sie im Artikel [Wie man Tabellen in SeaTable miteinander verknüpft]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), wie Sie eine Spalte des Typs **Verknüpfung zu anderen Einträgen** erstellen. Dies ist Grundvoraussetzung, um die Rollup-Formel verwenden zu können.
 
 Die Verwendung der Rollup-Formel ergibt nur Sinn, wenn Sie die Option **Verknüpfung zu mehreren Zeilen erlauben** bei der Erstellung einer Verknüpfungsspalte aktivieren. Wäre die Option ausgeschaltet, würde in dem Feld der Rollup-Formel immer der gleiche Wert der Verknüpfungsspalte stehen.
 

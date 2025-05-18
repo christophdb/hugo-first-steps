@@ -43,7 +43,11 @@ Para la implementación, primero necesita dos tablas: una tabla en la que se reg
 
 ![Ejemplo de transacciones de tablas](images/table-transactions.png)
 
-{{< warning  headline="Nota importante"  text="Con esta operación de tratamiento de datos, **no** es necesario añadir **columnas** a las tablas manualmente, ya que se crea automáticamente una [columna de enlace](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) en ambas tablas la primera vez que se ejecuta." />}}
+{{< warning  headline="Nota importante" >}}
+
+Con esta operación de tratamiento de datos, **no** es necesario añadir **columnas** a las tablas manualmente, ya que se crea automáticamente una [columna de enlace]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en ambas tablas la primera vez que se ejecuta.
+
+{{< /warning >}}
 
 Para crear la operación de tratamiento de datos, siga los pasos descritos anteriormente. Para el caso de uso específico, seleccione las **tablas** _Transacciones_ y _Facturas_ y las _columnas_**Importe** con los importes respectivos que deben coincidir para que los registros se vinculen.
 

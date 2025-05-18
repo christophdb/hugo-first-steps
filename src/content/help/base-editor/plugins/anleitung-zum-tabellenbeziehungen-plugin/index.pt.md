@@ -18,7 +18,7 @@ Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs
 
 Depois de ter configurado e aberto o plugin de relações de tabela, começa por ver **todas as tabelas** da base. **Todas as colunas** que são criadas nas respectivas tabelas são listadas sob os nomes de tabela coloridos.
 
-Para visualizar as relações de tabela, verá não só **linhas sólidas** para ligações _directas_ através de [colunas de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), mas também **linhas tracejadas** para ligações _indirectas_ através de colunas de fórmula de ligação (por exemplo, [pesquisas](https://seatable.io/pt/docs/verknuepfungen/die-lookup-funktion/)).
+Para visualizar as relações de tabela, verá não só **linhas sólidas** para ligações _directas_ através de [colunas de ligação]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mas também **linhas tracejadas** para ligações _indirectas_ através de colunas de fórmula de ligação (por exemplo, [pesquisas](https://seatable.io/pt/docs/verknuepfungen/die-lookup-funktion/)).
 
 ## Definir opções para um gráfico de relações de tabela
 

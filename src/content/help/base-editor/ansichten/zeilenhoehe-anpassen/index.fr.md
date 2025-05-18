@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/zeilenhoehe-anpassen'
 ---
 
-Par défaut, SeaTable affiche toutes les lignes avec une hauteur de ligne compacte afin d'afficher le plus grand nombre possible d'enregistrements. Or, cette **hauteur de ligne simple** a pour effet, entre autres, de tronquer les [colonnes](https://seatable.io/fr/docs/auswahlspalten/die-mehrfachauswahl-spalte/) [de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), de [liens](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) et [de sélections multiples](https://seatable.io/fr/docs/auswahlspalten/die-mehrfachauswahl-spalte/), et de n'afficher que de petites **miniatures** des images.
+Par défaut, SeaTable affiche toutes les lignes avec une hauteur de ligne compacte afin d'afficher le plus grand nombre possible d'enregistrements. Or, cette **hauteur de ligne simple** a pour effet, entre autres, de tronquer les [colonnes]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) et [de sélections multiples](https://seatable.io/fr/docs/auswahlspalten/die-mehrfachauswahl-spalte/), et de n'afficher que de petites **miniatures** des images.
 
 ![Contenu de cellule tronqué](https://seatable.io/wp-content/uploads/2022/10/small-row-height-cut-cells.png)
 

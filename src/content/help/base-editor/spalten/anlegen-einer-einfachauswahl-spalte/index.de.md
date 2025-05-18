@@ -47,7 +47,7 @@ Beim Anlegen einer Einfachauswahl-Spalte haben Sie die Möglichkeit, einen vorei
 
 ## Einfachauswahl- oder Verknüpfungs-Spalte?
 
-Wenn Sie sich wünschen, **zusätzliche Informationen** zu jeder Auswahloption speichern zu können, sollten Sie in Erwägung ziehen, die Einfachauswahl-Spalte in eine [Verknüpfungsspalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) umzuwandeln. Dann können Sie für jede Option einen vollständigen Datensatz in einer separaten Tabelle anlegen.
+Wenn Sie sich wünschen, **zusätzliche Informationen** zu jeder Auswahloption speichern zu können, sollten Sie in Erwägung ziehen, die Einfachauswahl-Spalte in eine [Verknüpfungsspalte]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) umzuwandeln. Dann können Sie für jede Option einen vollständigen Datensatz in einer separaten Tabelle anlegen.
 
 ## Weitere hilfreiche Artikel zum Thema Einfachauswahl-Spalten
 

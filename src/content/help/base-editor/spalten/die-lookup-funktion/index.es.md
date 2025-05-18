@@ -26,7 +26,7 @@ Esto puede ser útil para acceder fácilmente a la información de tablas cruzad
 
 ### Añadir un enlace a la tabla
 
-La función de búsqueda sólo puede utilizarse si ya existe una columna del tipo _Enlace a otras entradas_. Si aún no dispone de una columna de este tipo, créela primero. [Aquí](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) puede ver cómo funciona.
+La función de búsqueda sólo puede utilizarse si ya existe una columna del tipo _Enlace a otras entradas_. Si aún no dispone de una columna de este tipo, créela primero. [Aquí]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) puede ver cómo funciona.
 
 ### Añadir una fórmula de búsqueda
 

@@ -92,7 +92,7 @@ Durch die Aktivierung dieser Einstellung können Sie Verknüpfungen auf **eine A
 
 ![Verknüpfungen auf eine Ansicht einschränken](images/Verknuepfungen-auf-eine-Ansicht-einschraenken.png)
 
-Diese Einstellung ergibt vor allem bei [gefilterten Ansichten](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) Sinn, um die Auswahl an verknüpfbaren Datensätzen einzugrenzen. In Kombination mit der [Beschränkung der Verknüpfung auf eine Zeile](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/#7-toc-title) kann Ihnen diese Einstellung behilflich sein, wenn Sie gezielt **einzelne Einträge** in Ihren Tabellen verknüpfen möchten.
+Diese Einstellung ergibt vor allem bei [gefilterten Ansichten]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}#7-toc-title) kann Ihnen diese Einstellung behilflich sein, wenn Sie gezielt **einzelne Einträge** in Ihren Tabellen verknüpfen möchten.
 
 ### Verlinkung von bestehenden Einträgen verhindern
 

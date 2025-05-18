@@ -167,7 +167,7 @@ For the Airtable Base with the two tables "table1" and "table2" it could look li
 
 ### 6\. define link columns
 
-In order for SeaTable to import the data properly, one more step is required: specifying the [link columns](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) in Airtable Base.
+In order for SeaTable to import the data properly, one more step is required: specifying the [link columns]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in Airtable Base.
 
 The variable "links" is intended for this purpose. For example, if the "link to table2" column in the "table1" table represents a link to the "table 2" table, then the script should be parameterized as follows:
 

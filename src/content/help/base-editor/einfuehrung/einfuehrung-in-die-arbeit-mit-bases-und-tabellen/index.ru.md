@@ -35,7 +35,7 @@ SeaTable предлагает несколько способов создани
 
 Таблица - это самый важный уровень, на котором вы можете организовать свои данные в SeaTable, сравнимый с рабочим листом в электронной таблице. По сути, **таблицы** - это следующий уровень ниже [баз](https://seatable.io/ru/docs/arbeiten-mit-bases/bases/) в организационной структуре SeaTable.
 
-Поскольку SeaTable является **программой реляционной базы данных**, вы можете связывать информацию в разных таблицах базы с помощью [ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [автоматизации](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) и других функций.
+Поскольку SeaTable является **программой реляционной базы данных**, вы можете связывать информацию в разных таблицах базы с помощью [ссылок]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [автоматизации](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) и других функций.
 
 Таблица состоит из [строк]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) в SeaTable определяют, какие **типы данных** можно вводить в **столбец**.
 

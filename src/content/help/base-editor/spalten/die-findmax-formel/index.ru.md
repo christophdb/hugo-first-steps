@@ -28,7 +28,7 @@ url: '/ru/help/die-findmax-formel'
 
 ### Добавить ссылку на таблицу
 
-Информацию о том, как создать колонку типа **Link to Other Entries**, см. в статье [Как связать таблицы в SeaTable](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Это основное требование для того, чтобы иметь возможность использовать формулу Findmax.
+Информацию о том, как создать колонку типа **Link to Other Entries**, см. в статье [Как связать таблицы в SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Это основное требование для того, чтобы иметь возможность использовать формулу Findmax.
 
 ### Добавить столбец с формулой Findmax
 

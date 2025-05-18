@@ -69,7 +69,7 @@ Wenn Sie als Standardwert in einer [Text-Spalte](https://seatable.io/docs/text-u
 Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 
 - in einer [Tabelle]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- in einer [Link-Spalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- in einer [Link-Spalte]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - per [Schaltfläche](https://seatable.io/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (Aktion: „Zeile in andere Tabelle kopieren“)
 - per [Automation](https://seatable.io/docs/automationen/automations-aktionen/) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
 - im [Kalender-](https://seatable.io/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [Galerie-](https://seatable.io/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) oder [Kanban-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kanban-plugin/)

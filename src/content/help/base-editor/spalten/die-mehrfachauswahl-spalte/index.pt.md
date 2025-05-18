@@ -37,7 +37,7 @@ Ao criar uma coluna de selecção múltipla, em contraste com a coluna de selec�
 
 ## Selecção múltipla ou coluna de ligação?
 
-Se desejar poder armazenar **informação adicional** para cada opção de selecção, deve considerar a conversão da coluna de selecção múltipla numa [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Depois poderá criar um registo completo para cada opção numa tabela separada.
+Se desejar poder armazenar **informação adicional** para cada opção de selecção, deve considerar a conversão da coluna de selecção múltipla numa [coluna de ligação]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Depois poderá criar um registo completo para cada opção numa tabela separada.
 
 ## Alterar a ordem das múltiplas opções de selecção
 

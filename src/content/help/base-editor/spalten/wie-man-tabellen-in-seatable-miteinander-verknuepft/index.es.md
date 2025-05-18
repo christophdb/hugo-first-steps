@@ -107,7 +107,7 @@ Activando esta opción, puede restringir los enlaces a **una** vista de la tabla
 
 ![Restringir los enlaces a una vista](images/Verknuepfungen-auf-eine-Ansicht-einschraenken.png)
 
-Este ajuste es especialmente útil en [vistas filtradas](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) para limitar la selección de registros que se pueden vincular. En combinación con la [restricción del enlace a una fila](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/#7-toc-title), este ajuste puede ser útil si desea enlazar **entradas individuales** en sus tablas.
+Este ajuste es especialmente útil en [vistas filtradas]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}#7-toc-title), este ajuste puede ser útil si desea enlazar **entradas individuales** en sus tablas.
 
 ### Impedir la vinculación de entradas existentes
 

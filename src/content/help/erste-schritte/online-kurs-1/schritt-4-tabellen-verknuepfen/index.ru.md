@@ -80,5 +80,5 @@ url: '/ru/help/schritt-4-tabellen-verknuepfen'
 ## Справочная статья с дополнительной информацией
 
 - [Добавить таблицу в базу]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Как связать таблицы вместе в SeaTable](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- [Как связать таблицы вместе в SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Обработка данных Сравнение и связь]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

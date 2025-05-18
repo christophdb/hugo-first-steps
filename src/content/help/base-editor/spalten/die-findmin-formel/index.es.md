@@ -28,7 +28,7 @@ Puede utilizar la fórmula Findmin para todos los valores numéricos para repres
 
 ### Añadir un enlace a la tabla
 
-Descubra cómo crear una columna del tipo **Vincular a otras entradas** [en](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) el artículo Cómo **vincular** [tablas en SeaTable](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Este es un requisito básico para poder utilizar la fórmula Findmin.
+Descubra cómo crear una columna del tipo **Vincular a otras entradas** [en]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Este es un requisito básico para poder utilizar la fórmula Findmin.
 
 ### Añadir una columna con la fórmula Findmin
 

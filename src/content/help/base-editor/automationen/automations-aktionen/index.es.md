@@ -130,7 +130,7 @@ La acción de automatización "Editar entrada" está disponible actualmente para
 
 ## Acción de automatización: Añadir enlaces
 
-Si selecciona "Añadir enlaces" como acción automatizada, se creará un enlace [a las entradas de otra tabla](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) en la columna correspondiente cuando se **active el activador**. En la **configuración** de la regla de automatización, puede especificar exactamente en qué condiciones se añade el enlace a la tabla.
+Si selecciona "Añadir enlaces" como acción automatizada, se creará un enlace [a las entradas de otra tabla]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en la columna correspondiente cuando se **active el activador**. En la **configuración** de la regla de automatización, puede especificar exactamente en qué condiciones se añade el enlace a la tabla.
 
 ![Acción de automatización: "Añadir una columna vinculada a la tabla".](https://seatable.io/wp-content/uploads/2022/12/action-add-links.png)
 

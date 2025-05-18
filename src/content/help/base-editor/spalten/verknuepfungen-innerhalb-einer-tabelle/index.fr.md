@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/verknuepfungen-innerhalb-einer-tabelle'
 ---
 
-Une **colonne de liaison** dans SeaTable permet non seulement de [lier plusieurs tables entre elles](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), mais aussi **de mettre en relation les enregistrements d'une même table**.
+Une **colonne de liaison** dans SeaTable permet non seulement de [lier plusieurs tables entre elles]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi **de mettre en relation les enregistrements d'une même table**.
 
 Cela a surtout du sens si les données de votre tableau présentent une **hiérarchie**.
 
@@ -52,5 +52,5 @@ Les **parents et les enfants** d'une relation parent-enfant sont donc saisis et 
 
 ## Articles connexes
 
-- Si vous souhaitez **visualiser** clairement les liens hiérarchiques, nous vous recommandons vivement le [plug-in Organigramme](https://seatable.io/fr/docs/plugins/anleitung-zum-organigramm-plugin/).
-- Pour toute autre question concernant l'utilisation des colonnes de jointure, veuillez consulter l'article [Comment lier des tableaux dans SeaTable](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/).
+- Si vous souhaitez **visualiser** clairement les liens hiérarchiques, nous vous recommandons vivement le [plug-in Organigramme]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}).
+- Pour toute autre question concernant l'utilisation des colonnes de jointure, veuillez consulter l'article [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

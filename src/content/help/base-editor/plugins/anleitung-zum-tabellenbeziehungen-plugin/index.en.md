@@ -18,7 +18,7 @@ You can find out how to activate the plugin in a base [here](https://seatable.io
 
 Once you have set up and opened the table relationships plugin, you will first see **all the tables** in the base. **All columns** that are created in the respective tables are listed under the colored table names.
 
-To visualize the table relationships, you will not only see **solid lines** for _direct_ links via [link columns](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), but also **dashed lines** for _indirect_ links via link formula columns (e.g. [lookups](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/)).
+To visualize the table relationships, you will not only see **solid lines** for _direct_ links via [link columns]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), but also **dashed lines** for _indirect_ links via link formula columns (e.g. [lookups](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/)).
 
 ## Setting options for a table relationships graphic
 

@@ -76,5 +76,5 @@ Probieren Sie doch die neu hinzufügte Spalte `Category-Link` dem Webformular hi
 ## Hilfeartikel mit weiteren Informationen
 
 - [Eine Tabelle einer Base hinzufügen]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Wie man Tabellen in SeaTable miteinander verknüpft](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- [Wie man Tabellen in SeaTable miteinander verknüpft]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Datenverarbeitung Vergleichen und Verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

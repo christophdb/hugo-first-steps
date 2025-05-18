@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/verknuepfungen-innerhalb-einer-tabelle'
 ---
 
-É possível utilizar uma **coluna de ligação** no SeaTable não só para [ligar várias tabelas](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), mas também para **relacionar registos de dados numa única tabela**.
+É possível utilizar uma **coluna de ligação** no SeaTable não só para [ligar várias tabelas]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mas também para **relacionar registos de dados numa única tabela**.
 
 Isto é particularmente útil se os dados na sua tabela tiverem uma **hierarquia**.
 
@@ -52,5 +52,5 @@ Os **pais e os filhos** de uma relação pai-filho são, portanto, registados e 
 
 ## Artigos relacionados
 
-- Se pretender **visualizar** claramente as ligações hierárquicas, recomendamos vivamente o [plugin do organigrama](https://seatable.io/pt/docs/plugins/anleitung-zum-organigramm-plugin/).
-- Para todas as outras questões sobre o tratamento de colunas de ligação, consulte o artigo [Como ligar tabelas no SeaTable](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/).
+- Se pretender **visualizar** claramente as ligações hierárquicas, recomendamos vivamente o [plugin do organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}).
+- Para todas as outras questões sobre o tratamento de colunas de ligação, consulte o artigo [Como ligar tabelas no SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

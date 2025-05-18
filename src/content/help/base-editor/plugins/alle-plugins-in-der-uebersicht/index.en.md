@@ -114,7 +114,7 @@ You can use the organization chart plugin to display **hierarchies** between the
 
 ![Organizational chart plugin](images/Organigramm-Plugin.png)
 
-[More about the organization chart plugin](https://seatable.io/en/docs/plugins/anleitung-zum-organigramm-plugin/)
+[More about the organization chart plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
 ## Table relations plugin
 

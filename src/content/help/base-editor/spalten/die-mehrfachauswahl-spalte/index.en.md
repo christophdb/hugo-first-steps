@@ -37,7 +37,7 @@ When creating a multiple selection column, unlike the single selection column, y
 
 ## Multiple selection or link column?
 
-If you wish to be able to store **additional information** for each selection option, you should consider converting the multiple selection column into a [link column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Then you can create a complete record for each option in a separate table.
+If you wish to be able to store **additional information** for each selection option, you should consider converting the multiple selection column into a [link column]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Then you can create a complete record for each option in a separate table.
 
 ## Changing the order of multiple selection options
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/help/zeilenhoehe-anpassen'
 ---
 
-По умолчанию SeaTable отображает все строки с компактной высотой строки, чтобы показать как можно больше записей. Однако при такой **простой высоте строки**, помимо прочего, обрезаются [колонки](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/) с [текстом](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), [ссылками](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) и [множественным выбором](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/), а также отображаются только маленькие **эскизы** изображений.
+По умолчанию SeaTable отображает все строки с компактной высотой строки, чтобы показать как можно больше записей. Однако при такой **простой высоте строки**, помимо прочего, обрезаются [колонки]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) и [множественным выбором](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/), а также отображаются только маленькие **эскизы** изображений.
 
 ![Усеченное содержимое ячеек](https://seatable.io/wp-content/uploads/2022/10/small-row-height-cut-cells.png)
 

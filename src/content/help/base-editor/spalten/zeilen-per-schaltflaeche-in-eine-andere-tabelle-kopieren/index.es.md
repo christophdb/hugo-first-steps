@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
 ---
 
-Puede utilizar un **botón** para **copiar filas a otras tablas**. Esto resulta útil si necesita determinados registros de datos en diferentes tablas pero no desea utilizar [un enlace](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Las siguientes instrucciones ilustran el caso de uso utilizando un ejemplo.
+Puede utilizar un **botón** para **copiar filas a otras tablas**. Esto resulta útil si necesita determinados registros de datos en diferentes tablas pero no desea utilizar [un enlace]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Las siguientes instrucciones ilustran el caso de uso utilizando un ejemplo.
 
 ## Ejemplo de aplicación
 

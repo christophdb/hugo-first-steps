@@ -130,7 +130,7 @@ A ação de automatização "Editar entrada" está atualmente disponível para o
 
 ## Acção de automatização: Adicionar ligações
 
-Se selecionar "Adicionar ligações" como uma ação automatizada, é criada uma ligação [a entradas noutra tabela](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) na coluna correspondente quando o **acionador é acionado**. Nas **definições** da regra de automatização, pode especificar exatamente em que condições a ligação é adicionada à tabela.
+Se selecionar "Adicionar ligações" como uma ação automatizada, é criada uma ligação [a entradas noutra tabela]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) na coluna correspondente quando o **acionador é acionado**. Nas **definições** da regra de automatização, pode especificar exatamente em que condições a ligação é adicionada à tabela.
 
 ![Acção de automatização: "Acrescentar uma coluna ligada à tabela".](https://seatable.io/wp-content/uploads/2022/12/action-add-links.png)
 

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
 ---
 
-Vous pouvez utiliser un **bouton** pour **copier des lignes dans d'autres tableaux**. C'est utile si vous avez besoin de certains enregistrements dans différents tableaux, mais que vous ne souhaitez pas utiliser de [lien](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Les instructions suivantes illustrent le cas d'utilisation à l'aide d'un exemple.
+Vous pouvez utiliser un **bouton** pour **copier des lignes dans d'autres tableaux**. C'est utile si vous avez besoin de certains enregistrements dans différents tableaux, mais que vous ne souhaitez pas utiliser de [lien]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Les instructions suivantes illustrent le cas d'utilisation à l'aide d'un exemple.
 
 ## Exemple d'application
 

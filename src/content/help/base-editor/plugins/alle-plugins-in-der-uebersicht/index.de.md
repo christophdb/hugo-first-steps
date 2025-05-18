@@ -116,7 +116,7 @@ Mithilfe des Organigramm-Plugins können Sie **Hierarchien** zwischen den Datens
 
 ![Organigramm-Plugin](images/Organigramm-Plugin.png)
 
-[Mehr zum Organigramm-Plugin](https://seatable.io/docs/plugins/anleitung-zum-organigramm-plugin/)
+[Mehr zum Organigramm-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
 ## Tabellenbeziehungen-Plugin
 

@@ -138,7 +138,7 @@ Icon: {{< seatable-icon icon="dtable-icon-link-other-record" >}} **Link to other
 
 In cells of this column type you can enter any number of **references to entries in other tables** of the Base. The link column is intended for mapping relations between entries of different tables. The link column can be used to map 1:n and n:1 relations as well as n:m relations.
 
-More information about the column type Link to other entries can be found [here.](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+More information about the column type Link to other entries can be found [here.]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 
 ### Formula for links
 

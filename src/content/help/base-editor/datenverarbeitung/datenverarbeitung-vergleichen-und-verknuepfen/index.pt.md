@@ -43,7 +43,11 @@ Para a implementação, são necessárias duas tabelas: uma tabela na qual são 
 
 ![Exemplo de transacções em tabelas](images/table-transactions.png)
 
-{{< warning  headline="Nota importante"  text="Com esta operação de processamento de dados, **não** precisa de adicionar **colunas** às suas tabelas manualmente, uma vez que uma [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) é criada automaticamente em ambas as tabelas na primeira vez que é executada." />}}
+{{< warning  headline="Nota importante" >}}
+
+Com esta operação de processamento de dados, **não** precisa de adicionar **colunas** às suas tabelas manualmente, uma vez que uma [coluna de ligação]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) é criada automaticamente em ambas as tabelas na primeira vez que é executada.
+
+{{< /warning >}}
 
 Para criar a operação de processamento de dados, seguir os passos descritos acima. Para o caso de utilização específica, seleccionar as **tabelas de** _Transacções_ e _Facturas_ e as _colunas_**Montante** com os respectivos montantes que devem corresponder para que os registos possam ser ligados.
 

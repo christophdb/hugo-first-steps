@@ -37,7 +37,7 @@ Al crear una columna de selección múltiple, a diferencia de la columna de sele
 
 ## ¿Selección múltiple o columna de enlace?
 
-Si desea poder almacenar **información adicional** para cada opción de selección, debería considerar convertir la columna de selección múltiple en una [columna de enlace](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Entonces podrá crear un registro completo para cada opción en una tabla independiente.
+Si desea poder almacenar **información adicional** para cada opción de selección, debería considerar convertir la columna de selección múltiple en una [columna de enlace]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Entonces podrá crear un registro completo para cada opción en una tabla independiente.
 
 ## Cambiar el orden de las opciones de selección múltiple
 

@@ -107,7 +107,7 @@ By activating this setting you can restrict links to **one view of** the linked 
 
 ![Restrict links to one view](images/Verknuepfungen-auf-eine-Ansicht-einschraenken.png)
 
-This setting is especially useful for [filtered views](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) to limit the selection of records that can be linked. In combination with the [restriction of the link to a row](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/#7-toc-title) this setting can be helpful if you want to specifically link **individual entries** in your tables.
+This setting is especially useful for [filtered views]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}#7-toc-title) this setting can be helpful if you want to specifically link **individual entries** in your tables.
 
 ### Prevent linking of existing entries
 

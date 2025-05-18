@@ -68,7 +68,7 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 Значения по умолчанию применяются **везде, где** можно создавать новые строки:
 
 - в [таблице]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- в [колонке ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- в [колонке ссылок]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - через [кнопку](https://seatable.io/ru/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (действие: "Скопировать строку в другую таблицу")
 - с помощью [автоматизации](https://seatable.io/ru/docs/automationen/automations-aktionen/) (действия: "Добавить строку" и "Добавить новую запись в другую таблицу")
 - в [календаре](https://seatable.io/ru/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [галерее](https://seatable.io/ru/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) или [плагине Kanban](https://seatable.io/ru/docs/plugins/anleitung-zum-kanban-plugin/)

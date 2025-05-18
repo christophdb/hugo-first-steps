@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/anleitung-zum-tree-plugin'
 ---
 
-O **plugin Tree** permite a **visualização hierárquica** compacta de registos de dados ligados. Isto significa que é possível visualizar dados que estão localizados em várias [tabelas ligadas](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) em diferentes níveis num diagrama de árvore. O plugin fornece, portanto, uma visão geral estruturada, especialmente para grandes quantidades de dados, como dados financeiros ou dados de projectos.
+O **plugin Tree** permite a **visualização hierárquica** compacta de registos de dados ligados. Isto significa que é possível visualizar dados que estão localizados em várias [tabelas ligadas]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em diferentes níveis num diagrama de árvore. O plugin fornece, portanto, uma visão geral estruturada, especialmente para grandes quantidades de dados, como dados financeiros ou dados de projectos.
 
 Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
 

@@ -28,7 +28,7 @@ Puede utilizar la fórmula Findmax con todos los valores numéricos para represe
 
 ### Añadir un enlace a la tabla
 
-Consulte el artículo [Cómo vincular tablas en SeaTable](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) para obtener información sobre cómo crear una columna del tipo **Vincular a otras entradas**. Este es un requisito básico para poder utilizar la fórmula Findmax.
+Consulte el artículo [Cómo vincular tablas en SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) para obtener información sobre cómo crear una columna del tipo **Vincular a otras entradas**. Este es un requisito básico para poder utilizar la fórmula Findmax.
 
 ### Añadir una columna con la fórmula Findmax
 

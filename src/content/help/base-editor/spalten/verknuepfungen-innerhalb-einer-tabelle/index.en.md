@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/verknuepfungen-innerhalb-einer-tabelle'
 ---
 
-With the help of a **link column**, you can not only [link several tables with each other](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) in SeaTable, but also **relate data records in one and the same table to each other**.
+With the help of a **link column**, you can not only [link several tables with each other]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in SeaTable, but also **relate data records in one and the same table to each other**.
 
 This is particularly useful if the data in your table has a **hierarchy**.
 
@@ -52,5 +52,5 @@ The **parents and children** of a parent-child relationship are therefore record
 
 ## Related articles
 
-- If you want to **visualize** hierarchical links clearly, we can warmly recommend the [organization chart plugin](https://seatable.io/en/docs/plugins/anleitung-zum-organigramm-plugin/).
-- For all other questions about handling link columns, please consult the article [How to link tables in SeaTable](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/).
+- If you want to **visualize** hierarchical links clearly, we can warmly recommend the [organization chart plugin]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}).
+- For all other questions about handling link columns, please consult the article [How to link tables in SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

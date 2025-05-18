@@ -32,5 +32,5 @@ SeaTable учитывает это ограничение и гарантиру�
 
 ## Справочная статья с дополнительной информацией
 
-- [Как связать таблицы вместе в SeaTable](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- [Как связать таблицы вместе в SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Параметры конфигурации веб-формы]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

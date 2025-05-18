@@ -37,7 +37,7 @@ Lorsque vous créez une colonne de sélection multiple, vous n'avez **pas** la p
 
 ## Colonne à choix multiples ou colonne de liens ?
 
-Si vous souhaitez pouvoir enregistrer **des informations supplémentaires** pour chaque option de sélection, vous devriez envisager de transformer la colonne de sélection multiple en une [colonne de liaison](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Vous pouvez alors créer un enregistrement complet pour chaque option dans une table séparée.
+Si vous souhaitez pouvoir enregistrer **des informations supplémentaires** pour chaque option de sélection, vous devriez envisager de transformer la colonne de sélection multiple en une [colonne de liaison]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Vous pouvez alors créer un enregistrement complet pour chaque option dans une table séparée.
 
 ## Modifier l'ordre des options à choix multiples
 

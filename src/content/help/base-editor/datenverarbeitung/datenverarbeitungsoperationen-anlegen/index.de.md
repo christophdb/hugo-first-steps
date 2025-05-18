@@ -1,11 +1,11 @@
 ---
-title: "Datenverarbeitungsoperationen anlegen"
+title: 'Datenverarbeitungsoperationen anlegen'
 date: 2023-03-03
-lastmod: "2023-03-13"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/de/hilfe/datenverarbeitungsoperationen-anlegen"
+lastmod: '2023-03-13'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/de/hilfe/datenverarbeitungsoperationen-anlegen'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse **Operationen** durchführen. Dabei können Sie sowohl mathematische Berechnungen über alle Werte einer Spalte hinweg vornehmen als auch Werte miteinander in Beziehung setzen, wenn Einträge in zwei verschiedenen Tabellen identisch sind.
@@ -23,7 +23,7 @@ Datenverarbeitungsoperationen können Sie jederzeit über die Ansichtsoptionen i
 5. Wählen Sie eine **Operation** aus.
 6. Definieren Sie je nach Operation **Tabelle**, **Ansicht**, **Quellspalte** und **Ergebnisspalte** bzw. die zu vergleichenden Tabellen und Spalten.
 7. Klicken Sie auf **Speichern**, um die Operation zu speichern und später auszuführen, oder auf **Ausführen**, um die Operation direkt zu starten.
-![Definition der Datenverarbeitungsaktion](images/define-data-processing-action.jpg)
+   ![Definition der Datenverarbeitungsaktion](images/define-data-processing-action.jpg)
 
 ## Datenverarbeitungsoperationen
 
@@ -43,4 +43,4 @@ Für das Anlegen einer Datenverarbeitungsoperation gibt es je nach Operation **u
 
 Für mathematische Berechnungen, d.h. für die Operationen **Kumulierte Werte berechnen**, **Rangliste berechnen**, **Veränderungen berechnen** und **Prozentualen Anteil berechnen**, benötigen Sie mindestens **zwei** [Zahlen-Spalten](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/) in der ausgewählten Tabellenansicht. In der Regel ist die **Quellspalte** bereits vorhanden und mit Daten gefüllt, wohingegen Sie die **Ergebnisspalte** neu anlegen und durch die Operation mit Werten füllen.
 
-Für die übrigen Operationen brauchen Sie zum Teil [Verknüpfungsspalten](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) (**Vergleichen und verknüpfen** & **Vergleichen und kopieren**) oder [Text-Spalten](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) (**Benutzername übertragen**).
+Für die übrigen Operationen brauchen Sie zum Teil [Verknüpfungsspalten]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) (**Vergleichen und verknüpfen** & **Vergleichen und kopieren**) oder [Text-Spalten](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) (**Benutzername übertragen**).

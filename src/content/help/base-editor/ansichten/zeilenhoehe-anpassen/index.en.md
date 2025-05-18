@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/zeilenhoehe-anpassen'
 ---
 
-By default, SeaTable displays all rows with a compact row height to show as many records as possible. However, with this **simple row height**, among other things, [text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), [link](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) and [multiple selection columns](https://seatable.io/en/docs/auswahlspalten/die-mehrfachauswahl-spalte/) are truncated and only small **thumbnails** of images are displayed.
+By default, SeaTable displays all rows with a compact row height to show as many records as possible. However, with this **simple row height**, among other things, [text]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) and [multiple selection columns](https://seatable.io/en/docs/auswahlspalten/die-mehrfachauswahl-spalte/) are truncated and only small **thumbnails** of images are displayed.
 
 ![Truncated cell contents](https://seatable.io/wp-content/uploads/2022/10/small-row-height-cut-cells.png)
 

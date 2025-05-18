@@ -28,7 +28,7 @@ You can use the Findmin formula with all numeric values to represent the **minim
 
 ### Add a table link
 
-Find out how to create a column of the type **Link to other entries** [in](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) the article [How to](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) **link** [tables in SeaTable](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). This is a basic requirement to be able to use the Findmin formula.
+Find out how to create a column of the type **Link to other entries** [in]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). This is a basic requirement to be able to use the Findmin formula.
 
 ### Add a column with Findmin formula
 

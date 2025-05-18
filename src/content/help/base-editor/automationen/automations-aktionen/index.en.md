@@ -130,7 +130,7 @@ The "Edit entry" automation action is currently available for the following **au
 
 ## Automation action: Add links
 
-If you select "Add links" as an automated action, a link [to entries in another table](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) is created in the corresponding column when the **trigger is triggered**. In the automation rule **settings**, you can specify exactly under which conditions which link is added to the table.
+If you select "Add links" as an automated action, a link [to entries in another table]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is created in the corresponding column when the **trigger is triggered**. In the automation rule **settings**, you can specify exactly under which conditions which link is added to the table.
 
 ![Automation action: "Add a linked column to the table".](https://seatable.io/wp-content/uploads/2022/12/action-add-links.png)
 

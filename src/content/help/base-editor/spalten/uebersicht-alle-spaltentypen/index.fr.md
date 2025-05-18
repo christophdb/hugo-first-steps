@@ -138,7 +138,7 @@ symbole : {{< seatable-icon icon="dtable-icon-link-other-record" >}} **Lien vers
 
 Dans les cellules de ce type de colonne, vous pouvez saisir un nombre quelconque de **références à des entrées dans d'autres tables** de la base. La colonne des liens est conçue pour représenter des relations entre des entrées de différents tableaux. Les relations 1:n et n:1 peuvent être représentées avec la colonne de liaison, tout comme les relations n:m. La colonne de liaison peut également être utilisée pour représenter les relations entre les tables.
 
-Vous trouverez plus d'informations sur le type de colonne Lien vers d'autres entrées [ici](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/).
+Vous trouverez plus d'informations sur le type de colonne Lien vers d'autres entrées [ici]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
 
 ### Formule pour les liens
 

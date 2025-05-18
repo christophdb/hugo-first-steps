@@ -68,7 +68,7 @@ Se especificar a referência **{creator.name}** ou **{creator.id}** como valor p
 Os valores predefinidos aplicam-se **sempre que** é possível criar novas linhas:
 
 - num [quadro]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- numa [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- numa [coluna de ligação]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - via [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (ação: "Copiar linha para outra tabela")
 - através da [automatização](https://seatable.io/pt/docs/automationen/automations-aktionen/) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
 - no [calendário](https://seatable.io/pt/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), na [galeria](https://seatable.io/pt/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) ou no [plugin Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/)

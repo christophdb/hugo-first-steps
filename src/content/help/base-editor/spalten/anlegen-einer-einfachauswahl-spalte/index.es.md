@@ -47,7 +47,7 @@ Al crear una columna de selección única, tiene la opción de establecer un **v
 
 ## ¿Selección única o columna de enlaces?
 
-Si desea poder almacenar **información adicional** para cada opción de selección, debería considerar convertir la columna de selección única en una [columna de enlace](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). A continuación, puede crear un registro completo para cada opción en una tabla independiente.
+Si desea poder almacenar **información adicional** para cada opción de selección, debería considerar convertir la columna de selección única en una [columna de enlace]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). A continuación, puede crear un registro completo para cada opción en una tabla independiente.
 
 ## Más artículos útiles sobre el tema de las columnas de selección única
 

@@ -114,7 +114,7 @@ Pode utilizar o plugin do organigrama para apresentar **hierarquias** entre os r
 
 ![Plugin de organograma](images/Organigramm-Plugin.png)
 
-[Mais informações sobre a ficha do organigrama](https://seatable.io/pt/docs/plugins/anleitung-zum-organigramm-plugin/)
+[Mais informações sobre a ficha do organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
 ## Plugin de relações de tabela
 

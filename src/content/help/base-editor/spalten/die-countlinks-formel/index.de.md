@@ -10,13 +10,17 @@ url: '/de/hilfe/die-countlinks-formel'
 
 Die Countlinks-Formel zählt die Anzahl der verknüpften Einträge des Spaltentyps **Verknüpfung zu anderen Einträgen** in der jeweiligen Zeile.
 
-{{< warning  type="warning" headline="Tabellenverknüpfung ist Grundvoraussetzung"  text="Sie können nur dann eine Spalte mit der Countlinks-Formel anlegen, wenn Sie zwei Tabellen miteinander verknüpft haben. Lesen Sie [hier, wie Sie eine solche Verknüpfung anlegen](\"https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/\")." />}}
+{{< warning  type="warning" headline="Tabellenverknüpfung ist Grundvoraussetzung" >}}
+
+Sie können nur dann eine Spalte mit der Countlinks-Formel anlegen, wenn Sie zwei Tabellen miteinander verknüpft haben. Lesen Sie [hier, wie Sie eine solche Verknüpfung anlegen]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+
+{{< /warning >}}
 
 ## Anwendungsbereich der Countlinks-Formel
 
 Die **Countlinks-Formel** sollte immer dann zur Anwendung kommen, wenn Sie als Querverweis die **Anzahl von Einträgen** einer anderen Tabelle anzeigen möchten.
 
-Beispielsweise können Sie so bei einer Workshop-Planung die Anzahl angemeldeter Teilnehmer aus einer separaten Tabelle abbilden. Die [Verknüpfungsspalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) würde somit die Namen aller Teilnehmer festhalten.
+Beispielsweise können Sie so bei einer Workshop-Planung die Anzahl angemeldeter Teilnehmer aus einer separaten Tabelle abbilden. Die [Verknüpfungsspalte]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) würde somit die Namen aller Teilnehmer festhalten.
 
 ![Die Countlinks-Formel.](https://seatable.io/wp-content/uploads/2022/11/countlinks-2.png)
 

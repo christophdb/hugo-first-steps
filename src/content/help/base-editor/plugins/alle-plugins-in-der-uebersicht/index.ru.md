@@ -114,7 +114,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![Плагин организационной диаграммы](images/Organigramm-Plugin.png)
 
-[Подробнее о плагине организационной диаграммы](https://seatable.io/ru/docs/plugins/anleitung-zum-organigramm-plugin/)
+[Подробнее о плагине организационной диаграммы]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
 ## Плагин для работы с таблицами
 

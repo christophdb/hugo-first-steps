@@ -107,7 +107,7 @@ Ao ativar esta definição, é possível restringir as ligações a **uma vista 
 
 ![Restringir as ligações a uma vista](images/Verknuepfungen-auf-eine-Ansicht-einschraenken.png)
 
-Esta definição é particularmente útil em [vistas filtradas](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) para limitar a seleção de registos que podem ser ligados. Em combinação com a [restrição da ligação a uma linha](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/#7-toc-title), esta definição pode ser útil se pretender ligar **entradas individuais** nas suas tabelas.
+Esta definição é particularmente útil em [vistas filtradas]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}#7-toc-title), esta definição pode ser útil se pretender ligar **entradas individuais** nas suas tabelas.
 
 ### Impedir a ligação de entradas existentes
 

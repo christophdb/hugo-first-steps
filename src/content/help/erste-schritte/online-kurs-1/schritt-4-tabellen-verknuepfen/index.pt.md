@@ -80,5 +80,5 @@ Porque não experimenta a coluna recentemente adicionada `Category-Link` para o 
 ## Artigo de ajuda com mais informações
 
 - [Adicionar uma tabela a uma base]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}})
-- [Como ligar as tabelas em SeaTable](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
+- [Como ligar as tabelas em SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Processamento de dados Comparar e ligar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}})

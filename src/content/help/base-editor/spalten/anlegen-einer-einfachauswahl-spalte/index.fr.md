@@ -47,7 +47,7 @@ Lorsque vous créez une colonne de sélection simple, vous avez la possibilité 
 
 ## Colonne de sélection simple ou colonne de liaison ?
 
-Si vous souhaitez pouvoir enregistrer **des informations supplémentaires** pour chaque option de sélection, vous devriez envisager de transformer la colonne de sélection simple en une [colonne de lien](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Vous pouvez alors créer un enregistrement complet pour chaque option dans une table séparée.
+Si vous souhaitez pouvoir enregistrer **des informations supplémentaires** pour chaque option de sélection, vous devriez envisager de transformer la colonne de sélection simple en une [colonne de lien]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Vous pouvez alors créer un enregistrement complet pour chaque option dans une table séparée.
 
 ## Autres articles utiles sur le thème des colonnes à sélection simple
 
