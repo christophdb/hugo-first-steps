@@ -12,7 +12,7 @@ Using shared datasets, it is possible to make a pre-defined table view available
 
 ## Advantages of a common data set
 
-Compared to a [view](https://seatable.io/en/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/) share, a shared data set offers further possibilities, which are illustrated by the following example:
+Compared to a [view]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}) share, a shared data set offers further possibilities, which are illustrated by the following example:
 
 - An employee list that is relevant to multiple user groups (e.g., HR, Accounting, and Internal Communications) can be made available to your team members via shared records as a **template for new tables**.
 - After your team members import the shared record into a base, they can add columns to the table as they wish and customize it to their specific use cases (e.g., vacation scheduling, payroll, distribution list for internal newsletters).

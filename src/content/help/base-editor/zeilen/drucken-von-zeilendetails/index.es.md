@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/drucken-von-zeilendetails'
 ---
 
-Tiene la opción de imprimir detalles **de fila** similares a [las](https://seatable.io/es/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) vistas de tabla. A diferencia de la vista de tabla, los detalles de fila enumeran las columnas una debajo de otra (en lugar de una al lado de la otra) y proporcionan así un desglose más claro de los datos introducidos para una fila.
+Tiene la opción de imprimir detalles **de fila** similares a [las]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) vistas de tabla. A diferencia de la vista de tabla, los detalles de fila enumeran las columnas una debajo de otra (en lugar de una al lado de la otra) y proporcionan así un desglose más claro de los datos introducidos para una fila.
 
 ## Para imprimir líneas
 

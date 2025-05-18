@@ -12,7 +12,7 @@ Mithilfe von gemeinsamen Datensätzen ist es möglich, eine im Voraus definierte
 
 ## Vorteile eines gemeinsamen Datensatzes
 
-Im Vergleich zu einer [Ansichtsfreigabe](https://seatable.io/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/) bietet ein gemeinsamer Datensatz weitere Möglichkeiten, die anhand des folgenden Beispiels verdeutlicht werden:
+Im Vergleich zu einer [Ansichtsfreigabe]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}) bietet ein gemeinsamer Datensatz weitere Möglichkeiten, die anhand des folgenden Beispiels verdeutlicht werden:
 
 - Eine Mitarbeiterliste, die für mehrere Nutzergruppen (z. B. Personalabteilung, Buchhaltung und interne Kommunikation) relevant ist, können Sie Ihren Teammitgliedern über gemeinsame Datensätze als **Vorlage für neue Tabellen** zur Verfügung stellen.
 - Nachdem Ihre Teammitglieder den gemeinsamen Datensatz in eine Base importiert haben, können sie die Tabelle nach ihren Wünschen um Spalten erweitern und an ihre konkreten Anwendungsfälle anpassen (z. B. Urlaubsplanung, Gehaltsabrechnung, Verteiler für interne Newsletter).

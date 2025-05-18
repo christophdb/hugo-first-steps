@@ -40,7 +40,7 @@ Each row represents a related record in your table. For example, if you are comp
 
 With the columns of your spreadsheet you define which information is stored there in each case. Unlike a classic spreadsheet like Excel, you can't override the column type and simply store any information at any location.
 
-If a column is a [number column](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/), you can also store only numbers in that column. SeaTable knows a lot of different column types, so you can capture all the data you want.
+If a column is a [number column]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), you can also store only numbers in that column. SeaTable knows a lot of different column types, so you can capture all the data you want.
 
 [Learn more about the columns in SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 

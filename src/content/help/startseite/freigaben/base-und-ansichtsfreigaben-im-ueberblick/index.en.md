@@ -66,9 +66,9 @@ You create the share of a view in the opened table. When you are in the view you
 
 You will then be taken to the familiar **Share dialog**, where you can create your view shares in the same way as for the bases. A view can be shared with three groups of people:
 
-- [Release to a team member](https://seatable.io/en/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Release to a team member]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Release to a group](https://seatable.io/en/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Share via external link](https://seatable.io/en/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Share via external link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 As soon as you click the **Submit** button for a share option, the selected person or group can access the view with the granted permission. To share a view with multiple users or groups, repeat this process.
 

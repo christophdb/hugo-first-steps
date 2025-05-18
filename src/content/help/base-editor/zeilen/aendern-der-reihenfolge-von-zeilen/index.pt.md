@@ -24,4 +24,8 @@ Também se pode mover **várias filas** ao mesmo tempo. Para o fazer, seleccione
 
 ![Mover filas simultaneamente](images/Zeilen-gleichzeitig-verschieben-1.gif)
 
-{{< warning  headline="Atenção"  text="Se uma coluna for [ordenada](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) (ascendente/descendente), pode mover as entradas, mas a ordem é imediatamente corrigida." />}}
+{{< warning  headline="Atenção" >}}
+
+Se uma coluna for [ordenada]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) (ascendente/descendente), pode mover as entradas, mas a ordem é imediatamente corrigida.
+
+{{< /warning >}}

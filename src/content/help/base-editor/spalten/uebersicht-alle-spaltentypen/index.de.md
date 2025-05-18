@@ -112,9 +112,9 @@ URL-Spalten interpretieren die eingegebene Information als eine **Ressource** im
 
 Symbol: {{< seatable-icon icon="dtable-icon-check-square-solid" >}} **Checkbox**
 
-Checkboxen erlauben die Erfassung **binärer Informationen**: Ja oder Nein bzw. _Haken gesetzt_ vs. _Haken nicht gesetzt_. Weitere Eingaben sind nicht möglich. Daher eignen sie sich gut, um beispielsweise Aufgaben als erledigt zu markieren – also für den Überblick, ob Zeilen eine bestimmte Ja/Nein-Bedingung erfüllen. Aus diesem Grund können Sie Checkbox-Spalten auch hervorragend zum [Filtern](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [Sortieren](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) oder [Gruppieren](https://seatable.io/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) nutzen.
+Checkboxen erlauben die Erfassung **binärer Informationen**: Ja oder Nein bzw. _Haken gesetzt_ vs. _Haken nicht gesetzt_. Weitere Eingaben sind nicht möglich. Daher eignen sie sich gut, um beispielsweise Aufgaben als erledigt zu markieren – also für den Überblick, ob Zeilen eine bestimmte Ja/Nein-Bedingung erfüllen. Aus diesem Grund können Sie Checkbox-Spalten auch hervorragend zum [Filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [Sortieren]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) oder [Gruppieren]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) nutzen.
 
-[Mehr zur Checkbox--Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-checkbox-spalte/)
+[Mehr zur Checkbox--Spalte]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}})
 
 ### Rating
 
@@ -122,7 +122,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-rate" >}} **Rating**
 
 Eine Rating-Spalte ermöglicht die **Einstufung** Ihrer Datensätze, um ein **Ranking** oder eine **Qualitätsbewertung** vorzunehmen. Sie können eine Bewertungsskala von 1 bis 10 auswählen sowie zwischen verschiedenen Farben und Formen wählen. Damit können Daten schnell und unkompliziert für jeden verständlich eingeschätzt und bewertet werden.
 
-[Mehr zur Rating-Spalte](https://seatable.io/docs/auswahlspalten/die-rating-spalte/)
+[Mehr zur Rating-Spalte]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 
 ### Formel
 
@@ -222,4 +222,4 @@ Symbol: {{< seatable-icon icon="dtable-icon-autonumber" >}} **Automatische Numme
 
 Der Spaltentyp Automatische Nummer erzeugt eine **automatisch ansteigende Nummer** für jede neue Zeile. Dieser Spaltentyp kommt immer dann zum Einsatz, wenn Sie für jeden Datensatz eine eindeutige Kennung benötigen.
 
-[Mehr zur Spalte Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/).
+[Mehr zur Spalte Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}).

@@ -35,7 +35,7 @@ url: '/ru/help/die-reihenfolge-von-ansichten-aendern'
 
 Можно ли также группировать представления?|||
 
-Конечно. Представления можно легко организовать в [папки](https://seatable.io/ru/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren).
+Конечно. Представления можно легко организовать в [папки]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
 
 ---
 

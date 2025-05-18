@@ -10,7 +10,7 @@ url: '/fr/aide/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 
 Les colonnes **Dernier utilisateur** et **Date d'édition** sont exclusivement remplies **automatiquement** par SeaTable et constituent donc des types de colonnes particuliers. Elles sont très utiles si vous souhaitez savoir **quand** et **par qui** une entrée a été **modifiée pour la dernière fois**.
 
-Comme les deux colonnes enregistrent automatiquement les modifications apportées aux entrées, elles conviennent bien, par exemple, comme déclencheurs pour [les automatisations](https://seatable.io/fr/docs/arbeiten-mit-automationen/anlegen-einer-automation/) ainsi que pour les [filtres](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) et [les tris](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/).
+Comme les deux colonnes enregistrent automatiquement les modifications apportées aux entrées, elles conviennent bien, par exemple, comme déclencheurs pour [les automatisations]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) et [les tris]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}).
 
 ## Les colonnes Dernier intervenant et Date d'intervention
 

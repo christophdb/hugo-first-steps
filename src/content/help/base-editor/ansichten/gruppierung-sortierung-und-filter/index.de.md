@@ -1,11 +1,11 @@
 ---
-title: "Gruppierung, Sortierung und Filter"
+title: 'Gruppierung, Sortierung und Filter'
 date: 2022-08-25
-lastmod: "2022-08-29"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "cdb"
-url: "/de/hilfe/gruppierung-sortierung-und-filter"
+lastmod: '2022-08-29'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'cdb'
+url: '/de/hilfe/gruppierung-sortierung-und-filter'
 ---
 
 SeaTable bietet diverse Methoden, um Daten auszuwerten. Filter, Sortierung und Gruppierung sind SeaTables einfache Auswertungswerkzeuge. Mit wenigen Klicks organisieren Sie mit ihnen Ihre Daten um und erhalten einfacher die gewünschten Informationen. Einfach heißt aber nicht simpel. Richtig angewendet, gerade in Kombination, bieten Filter, Sortierungen und Gruppierungen vielfältige Auswertungsmöglichkeiten.
@@ -34,7 +34,7 @@ Sie löschen die Gruppierungsregel, indem Sie auf das Kreuz-Symbol links neben d
 
 ### Gruppierungsverhalten nach Spaltentyp
 
-SeaTable unterstützt Gruppierungen über alle [Spaltentypen](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/) mit Ausnahme von Spalten des Typs formatierter Text, Datei und Bild sowie URL, letzter Bearbeiter und automatische Nummer.
+SeaTable unterstützt Gruppierungen über alle [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) mit Ausnahme von Spalten des Typs formatierter Text, Datei und Bild sowie URL, letzter Bearbeiter und automatische Nummer.
 
 Alle Zeilen mit leeren Zellen in der Gruppierungsspalte werden - unabhängig von der Sortierungsrichtung - am Ende in eine separate Gruppierung (Empty) zusammengefasst.
 
@@ -60,7 +60,7 @@ Sie löschen eine Regel, indem sie auf das Kreuz-Symbol links der Sortierungsreg
 
 ### Sortierungsverhalten nach Spaltentyp
 
-SeaTable unterstützt Sortierungen über alle [Spaltentypen](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/) mit Ausnahme von Spalten des Typs formatierter Text, Datei und Bild, URL sowie Link, Ersteller und letzter Bearbeiter.
+SeaTable unterstützt Sortierungen über alle [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) mit Ausnahme von Spalten des Typs formatierter Text, Datei und Bild, URL sowie Link, Ersteller und letzter Bearbeiter.
 
 Die Sortierung erfolgt in den sortierbaren Spalten nach den folgenden Kriterien:
 
@@ -98,7 +98,7 @@ Um die definierten Filterregeln anzupassen, klicken Sie erneut auf _Filtern_. In
 
 ### Filterverhalten nach Spaltentyp
 
-SeaTable unterstützt Filterungen über alle [Spaltentypen](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/) mit Ausnahme von Spalten des Typs formatierter Text, Datei und Bild und URL.
+SeaTable unterstützt Filterungen über alle [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) mit Ausnahme von Spalten des Typs formatierter Text, Datei und Bild und URL.
 
 Je nach Spaltentyp zeigt der Filterassistent unterschiedliche Filterkriterien. Für die unterschiedlichen Spaltentypen sind dies:
 

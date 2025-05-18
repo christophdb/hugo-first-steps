@@ -35,7 +35,7 @@ No. El orden de las vistas es el mismo para todos los usuarios de una base.
 
 ¿Se pueden agrupar también las vistas?|||
 
-Por supuesto. Las vistas pueden organizarse fácilmente en [carpetas](https://seatable.io/es/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren).
+Por supuesto. Las vistas pueden organizarse fácilmente en [carpetas]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
 
 ---
 

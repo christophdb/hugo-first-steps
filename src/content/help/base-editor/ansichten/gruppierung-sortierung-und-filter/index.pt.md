@@ -36,7 +36,7 @@ Elimina-se a regra de agrupamento clicando no símbolo da cruz à esquerda do no
 
 ### Comportamento de agrupamento de acordo com o tipo de coluna
 
-SeaTable suporta agrupamentos em todos os [tipos de colunas](https://seatable.io/pt/docs/handbuch/datenmanagement/feld-typen/) excepto colunas de texto formatado, arquivo e tipo de imagem, bem como URL, último editor e número automático.
+SeaTable suporta agrupamentos em todos os [tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) excepto colunas de texto formatado, arquivo e tipo de imagem, bem como URL, último editor e número automático.
 
 Todas as linhas com células vazias na coluna de agrupamento são - independentemente da direcção de ordenação - combinadas num agrupamento separado (Vazio) no final.
 
@@ -62,7 +62,7 @@ Apaga uma regra clicando no símbolo da cruz à esquerda da regra de ordenação
 
 ### Comportamento de ordenação de acordo com o tipo de coluna
 
-SeaTable suporta a classificação em todos os [tipos de colunas](https://seatable.io/pt/docs/handbuch/datenmanagement/feld-typen/) excepto texto formatado, ficheiro e imagem, URL e link, criador e últimas colunas do tipo editor.
+SeaTable suporta a classificação em todos os [tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) excepto texto formatado, ficheiro e imagem, URL e link, criador e últimas colunas do tipo editor.
 
 A ordenação é feita nas colunas classificáveis de acordo com os seguintes critérios:
 
@@ -100,7 +100,7 @@ Para ajustar as regras de filtragem definidas, clicar novamente em _Filtrar_. No
 
 ### Comportamento do filtro de acordo com o tipo de coluna
 
-SeaTable suporta filtragem em todos os [tipos de colunas](https://seatable.io/pt/docs/handbuch/datenmanagement/feld-typen/) excepto nas colunas de texto formatado, ficheiro e imagem e tipo de URL.
+SeaTable suporta filtragem em todos os [tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) excepto nas colunas de texto formatado, ficheiro e imagem e tipo de URL.
 
 Dependendo do tipo de coluna, o assistente de filtro mostra diferentes critérios de filtragem. Para os diferentes tipos de colunas, estes são:
 

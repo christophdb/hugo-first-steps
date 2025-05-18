@@ -31,9 +31,9 @@ La primera vez que se ejecuta con éxito, un pequeño **garrapata verde**.
 
 ## Caso práctico
 
-Un caso de uso concreto de esta operación de tratamiento de datos podría darse, por ejemplo, si desea recoger en su tabla el número de accesos diarios a una página web. Para ello, desea **sumar** las **cifras de acceso de** cada día individual, que se registran en una [columna numérica](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/) existente, de fila en fila en una nueva columna.
+Un caso de uso concreto de esta operación de tratamiento de datos podría darse, por ejemplo, si desea recoger en su tabla el número de accesos diarios a una página web. Para ello, desea **sumar** las **cifras de acceso de** cada día individual, que se registran en una [columna numérica]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) existente, de fila en fila en una nueva columna.
 
-Para la aplicación, primero se necesita una tabla en la que se recojan los distintos **días** en una columna de [fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) y los **números de acceso** al sitio web en una [columna de número](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/).
+Para la aplicación, primero se necesita una tabla en la que se recojan los distintos **días** en una columna de [fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) y los **números de acceso** al sitio web en una [columna de número]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
 
 ![Tabla de ejemplo para el caso de uso Calcular valores acumulados](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

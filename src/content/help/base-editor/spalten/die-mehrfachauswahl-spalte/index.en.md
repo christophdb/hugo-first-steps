@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/die-mehrfachauswahl-spalte'
 ---
 
-A multi-select column is ideal if you want to assign your rows in a column **several options** from a list of options to be defined. The options are given colorful labels that you can use to label your records and make tables clear, for example, by [filtering](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) for specific options.
+A multi-select column is ideal if you want to assign your rows in a column **several options** from a list of options to be defined. The options are given colorful labels that you can use to label your records and make tables clear, for example, by [filtering]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) for specific options.
 
 ![Example table with one multiple selection column](images/example-table-multiple-select.png)
 

@@ -35,8 +35,8 @@ Se não quiser partilhar uma base inteira, mas apenas partes dela, isso também 
 
 Se quiser partilhar apenas uma visão única, a partilha pode ser feita a três grupos de pessoas:
 
-- [Lançamento a um membro da equipa](https://seatable.io/pt/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Lançamento a um membro da equipa]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Libertação para um grupo](https://seatable.io/pt/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Lançamento através de ligação externa](https://seatable.io/pt/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Lançamento através de ligação externa]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Para mais informações, ver também o artigo [Base e ver os comunicados]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) num relance.

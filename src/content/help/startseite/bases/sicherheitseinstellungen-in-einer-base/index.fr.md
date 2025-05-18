@@ -38,7 +38,7 @@ Si ce paramètre **est activé**, la base concernée ne peut plus être exporté
 
 ### Empêcher l'impression d'une base
 
-En activant ce paramètre, vous pouvez **empêcher** les autres utilisateurs d'[imprimer](https://seatable.io/fr/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) les différentes vues de tableau de votre base.
+En activant ce paramètre, vous pouvez **empêcher** les autres utilisateurs d'[imprimer]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) les différentes vues de tableau de votre base.
 
 Si ce paramètre **est activé**, les différentes vues de tableau de la base concernée ne peuvent plus être imprimées par **personne** jusqu'à ce que le paramètre soit à nouveau désactivé par un propriétaire ou un administrateur. L'option d'impression correspondante dans les options d'affichage est affichée **en grisé** pour tous les utilisateurs et ne peut **plus** être cliquée. De plus, une **remarque** indique que les utilisateurs **n'** ont **pas** l'autorisation d'imprimer les vues de la table.
 
@@ -72,7 +72,7 @@ En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesqu
 
 ### Empêcher l'impression d'une base
 
-En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesquels la [base](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondante est [partagée](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) d'[imprimer](https://seatable.io/fr/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) les différentes vues de tableau de la base.
+En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesquels la [base]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) les différentes vues de tableau de la base.
 
 ### Empêcher la copie d'une base dans un autre groupe
 

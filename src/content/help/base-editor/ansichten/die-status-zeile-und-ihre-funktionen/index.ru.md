@@ -17,7 +17,7 @@ url: '/ru/help/die-status-zeile-und-ihre-funktionen'
 
 ## Подсчет строк в представлении
 
-Строка состояния показывает в левом нижнем углу количество всех **строк**, которые находятся в текущем открытом **представлении таблицы**. Если [в представлении выполняется фильтрация](https://seatable.io/ru/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), в строке состояния подсчитываются только оставшиеся записи таблицы.
+Строка состояния показывает в левом нижнем углу количество всех **строк**, которые находятся в текущем открытом **представлении таблицы**. Если [в представлении выполняется фильтрация]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), в строке состояния подсчитываются только оставшиеся записи таблицы.
 
 ![В строке состояния всегда указывается количество строк в текущем открытом представлении таблицы](images/status-cell-function-1.jpg)
 
@@ -46,17 +46,17 @@ url: '/ru/help/die-status-zeile-und-ihre-funktionen'
 
 Для следующих типов столбцов строка состояния отражает вычисленное значение:
 
-- [Номерные столбцы](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Номерные столбцы]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
     - Номер
     - Процент
     - Валюта
-- [Постоянные колонки]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
-- [Рейтинговые колонки](https://seatable.io/ru/docs/auswahlspalten/die-rating-spalte/)
+- [Постоянные колонки]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}})
+- [Рейтинговые колонки]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 - Числовые значения в [столбцах формул]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Для следующих типов столбцов строка состояния **не** отражает вычисляемое значение, хотя они (могут) содержать числа:
 
-- [Колонки дат]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Колонки дат]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Создано]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Автоматический номер](https://seatable.io/ru/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Автоматический номер]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Числа в [текстовых колонках]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

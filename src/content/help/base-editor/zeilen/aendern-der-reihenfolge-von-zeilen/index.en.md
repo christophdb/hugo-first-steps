@@ -24,4 +24,8 @@ You can also move **several rows** at the same time. To do this, first select th
 
 ![rows Move simultaneously](images/Zeilen-gleichzeitig-verschieben-1.gif)
 
-{{< warning  headline="Attention"  text="If a [sorting](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) (ascending/descending) acts in a column, then you can move the entries, but the order will be corrected again immediately." />}}
+{{< warning  headline="Attention" >}}
+
+If a [sorting]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) (ascending/descending) acts in a column, then you can move the entries, but the order will be corrected again immediately.
+
+{{< /warning >}}

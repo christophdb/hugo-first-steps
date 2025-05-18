@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/anlegen-einer-checkbox-spalte'
 ---
 
-Dans SeaTable, vous avez la possibilité d'ajouter **des colonnes de cases à cocher à** vos tableaux. Celles-ci conviennent bien, par exemple, pour marquer les tâches comme étant terminées - c'est-à-dire pour avoir un aperçu des lignes qui remplissent une certaine **condition oui/non**. Les colonnes de cases à cocher sont donc idéales pour [filtrer](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [trier](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) ou [regrouper](https://seatable.io/fr/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/).
+Dans SeaTable, vous avez la possibilité d'ajouter **des colonnes de cases à cocher à** vos tableaux. Celles-ci conviennent bien, par exemple, pour marquer les tâches comme étant terminées - c'est-à-dire pour avoir un aperçu des lignes qui remplissent une certaine **condition oui/non**. Les colonnes de cases à cocher sont donc idéales pour [filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [regrouper]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).
 
 ## Création d'une colonne de cases à cocher
 

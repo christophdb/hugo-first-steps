@@ -51,7 +51,7 @@ The **Use rules** option allows you to set conditions for color highlighting.
 
 ### Use rule example
 
-In this example, all rows in an editorial plan that are marked as completed in the [checkbox column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) are to be marked. To do this, the **"Published" column** was selected, the condition **"is"** was used and it was specified that the rows **with a checkmark** should be marked.
+In this example, all rows in an editorial plan that are marked as completed in the [checkbox column]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}}) are to be marked. To do this, the **"Published" column** was selected, the condition **"is"** was used and it was specified that the rows **with a checkmark** should be marked.
 
 ![Color marking of rows](images/Farbliche-Markierung-von-Zellen-9.png)
 

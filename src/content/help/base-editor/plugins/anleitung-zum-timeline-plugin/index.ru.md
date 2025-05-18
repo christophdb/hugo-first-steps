@@ -30,7 +30,7 @@ url: '/ru/help/anleitung-zum-timeline-plugin'
 
 ## Эффект группировки и сортировки
 
-Поскольку плагин временной шкалы основан на представлениях таблицы, [сортировка](https://seatable.io/ru/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) и [группировка](https://seatable.io/ru/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/) записей также влияет на отображение в временной шкале. Для сгруппированных представлений у вас есть возможность отобразить данные в виде **плавающей** диаграммы, активировав ползунок **Display as swimlane mode**.
+Поскольку плагин временной шкалы основан на представлениях таблицы, [сортировка]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) записей также влияет на отображение в временной шкале. Для сгруппированных представлений у вас есть возможность отобразить данные в виде **плавающей** диаграммы, активировав ползунок **Display as swimlane mode**.
 
 ![Группировка плагинов временной шкалы](images/timeline-plugingroup-3.gif)
 

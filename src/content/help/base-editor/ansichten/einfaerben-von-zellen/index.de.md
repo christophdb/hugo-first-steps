@@ -20,7 +20,7 @@ Neben der Option **Zellen einfärben** gibt es auch die Möglichkeit, [Zeilen fa
 
 Jede Spalte bietet die Option **Zellen der Spalte formatieren** an: ![Einfärben von Zellen in SeaTable](images/color-cells.png)
 
-Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaTable anders verhalten. Bei [Zahlen-Spalten](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/) können Sie sowohl Regeln als auch Werte zum Einfärben verwenden. Bei allen anderen Spaltentypen stehen Ihnen nur die Regeln zum Einfärben zur Verfügung.
+Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaTable anders verhalten. Bei [Zahlen-Spalten]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) können Sie sowohl Regeln als auch Werte zum Einfärben verwenden. Bei allen anderen Spaltentypen stehen Ihnen nur die Regeln zum Einfärben zur Verfügung.
 
 ![Einfärben mit Regeln oder nach Werten](images/color-cells-rules-values.png)
 

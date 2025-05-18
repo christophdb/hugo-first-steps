@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/anlegen-einer-checkbox-spalte'
 ---
 
-No SeaTable, tem a opção de adicionar **colunas de caixas de verificação** às suas tabelas. Estas são ideais para marcar tarefas como concluídas, por exemplo - ou seja, para obter uma visão geral sobre se as linhas cumprem uma determinada **condição de sim/não**. Pode, portanto, fazer uma excelente utilização das colunas de caixas de verificação para [filtragem](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [ordenação](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) ou [agrupamento](https://seatable.io/pt/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/).
+No SeaTable, tem a opção de adicionar **colunas de caixas de verificação** às suas tabelas. Estas são ideais para marcar tarefas como concluídas, por exemplo - ou seja, para obter uma visão geral sobre se as linhas cumprem uma determinada **condição de sim/não**. Pode, portanto, fazer uma excelente utilização das colunas de caixas de verificação para [filtragem]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenação]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [agrupamento]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).
 
 ## Criar uma coluna de caixa de verificação
 

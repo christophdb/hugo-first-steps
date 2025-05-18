@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/die-mehrfachauswahl-spalte'
 ---
 
-Una columna de selección múltiple es ideal si desea asignar a las filas de una columna **varias opciones** de una lista de opciones por definir. Las opciones reciben etiquetas de colores que puede utilizar para etiquetar sus registros y hacer tablas claras, por ejemplo, [filtrando](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) por opciones específicas.
+Una columna de selección múltiple es ideal si desea asignar a las filas de una columna **varias opciones** de una lista de opciones por definir. Las opciones reciben etiquetas de colores que puede utilizar para etiquetar sus registros y hacer tablas claras, por ejemplo, [filtrando]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) por opciones específicas.
 
 ![Ejemplo de tabla con una columna de selección múltiple](images/example-table-multiple-select.png)
 

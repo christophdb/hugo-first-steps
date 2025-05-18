@@ -10,7 +10,7 @@ url: '/help/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 
 The columns **Last editor** and **Edited date** are exclusively filled **automatically** by SeaTable and therefore represent special column types. They prove to be extremely useful if you want to track **when** and **by whom** an entry was **last edited**.
 
-Since the two columns automatically capture changes to entries, they are well suited, for example, as triggers for [automations](https://seatable.io/en/docs/arbeiten-mit-automationen/anlegen-einer-automation/) as well as for [filters](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) and [sorting](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/).
+Since the two columns automatically capture changes to entries, they are well suited, for example, as triggers for [automations]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) and [sorting]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}).
 
 ## The columns Last editor and Editing date
 

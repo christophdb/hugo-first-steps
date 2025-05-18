@@ -22,6 +22,6 @@ You can still adjust the order in which the options of a single-selection column
 
 ## Sorting and grouping
 
-The order of the options is crucial when [sorting](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) or [grouping](https://seatable.io/en/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) by a single selection column. By arranging the options as you wish, you can design your views flexibly.
+The order of the options is crucial when [sorting]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) or [grouping]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) by a single selection column. By arranging the options as you wish, you can design your views flexibly.
 
 ![Change sorting of a single selection column](images/Sortierung-einer-Einfachauswahl-Spalte-aendern.gif)

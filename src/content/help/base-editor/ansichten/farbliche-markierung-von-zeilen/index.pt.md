@@ -51,7 +51,7 @@ A opção **Regras de Utilização** permite-lhe definir condições para a marc
 
 ### Usar exemplo de regra
 
-Neste exemplo, todas as linhas de um plano editorial que estão marcadas como concluídas na [coluna da caixa de verificação](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) devem ser destacadas. Para tal, foi selecionada a **coluna "Publicado"**, foi utilizada a condição **"é"** e foi especificado que as linhas **com um visto** devem ser marcadas.
+Neste exemplo, todas as linhas de um plano editorial que estão marcadas como concluídas na [coluna da caixa de verificação]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}}) devem ser destacadas. Para tal, foi selecionada a **coluna "Publicado"**, foi utilizada a condição **"é"** e foi especificado que as linhas **com um visto** devem ser marcadas.
 
 ![Marcação a cores das linhas](images/Farbliche-Markierung-von-Zellen-9.png)
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/drucken-von-zeilendetails'
 ---
 
-You have the option to print **row details** similar to [table views](https://seatable.io/en/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/). Unlike the table view, the row details list the columns below each other (instead of next to each other) and thus provide a clearer breakdown of the entered data for a row.
+You have the option to print **row details** similar to [table views]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}). Unlike the table view, the row details list the columns below each other (instead of next to each other) and thus provide a clearer breakdown of the entered data for a row.
 
 ## How to print rows
 

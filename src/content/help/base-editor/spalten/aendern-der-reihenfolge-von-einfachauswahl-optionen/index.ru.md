@@ -22,6 +22,6 @@ url: '/ru/help/aendern-der-reihenfolge-von-einfachauswahl-optionen'
 
 ## Сортировка и группировка
 
-Порядок опций имеет решающее значение при [сортировке](https://seatable.io/ru/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) или [группировке](https://seatable.io/ru/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) по одному столбцу выбора. Вы можете гибко организовать свои представления, расположив опции по своему усмотрению.
+Порядок опций имеет решающее значение при [сортировке]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) или [группировке]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) по одному столбцу выбора. Вы можете гибко организовать свои представления, расположив опции по своему усмотрению.
 
 ![Изменение сортировки одного столбца выбора](images/Sortierung-einer-Einfachauswahl-Spalte-aendern.gif)

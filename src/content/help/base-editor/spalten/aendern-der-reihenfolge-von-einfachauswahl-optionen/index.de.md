@@ -22,6 +22,6 @@ Die Reihenfolge, in der die Optionen einer Einfachauswahl-Spalte erscheinen, kö
 
 ## Sortierung und Gruppierung
 
-Die Reihenfolge der Optionen ist von entscheidender Bedeutung, wenn Sie nach einer Einfachauswahl-Spalte [sortieren](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) oder [gruppieren](https://seatable.io/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/). Indem Sie die Optionen nach Ihren Wünschen anordnen, können Sie Ihre Ansichten flexibel gestalten.
+Die Reihenfolge der Optionen ist von entscheidender Bedeutung, wenn Sie nach einer Einfachauswahl-Spalte [sortieren]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) oder [gruppieren]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}). Indem Sie die Optionen nach Ihren Wünschen anordnen, können Sie Ihre Ansichten flexibel gestalten.
 
 ![Sortierung einer Einfachauswahl-Spalte ändern](images/Sortierung-einer-Einfachauswahl-Spalte-aendern.gif)

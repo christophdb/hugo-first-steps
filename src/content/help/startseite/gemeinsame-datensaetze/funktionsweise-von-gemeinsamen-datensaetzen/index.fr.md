@@ -12,7 +12,7 @@ Les ensembles de données partagés permettent de partager une vue de tableau pr
 
 ## Avantages d'un ensemble de données commun
 
-Par rapport au [partage d'une vue](https://seatable.io/fr/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/), un ensemble de données partagées offre d'autres possibilités, illustrées par l'exemple suivant :
+Par rapport au [partage d'une vue]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}), un ensemble de données partagées offre d'autres possibilités, illustrées par l'exemple suivant :
 
 - Vous pouvez mettre à la disposition des membres de votre équipe une liste de collaborateurs pertinente pour plusieurs groupes d'utilisateurs (par exemple le service du personnel, la comptabilité et la communication interne) en utilisant des enregistrements communs comme **modèle pour de nouvelles tables**.
 - Une fois que les membres de votre équipe ont importé l'ensemble de données commun dans une base, ils peuvent ajouter des colonnes à la table selon leurs besoins et l'adapter à leurs cas d'utilisation concrets (par exemple, planification des congés, gestion des salaires, liste de distribution pour les newsletters internes).

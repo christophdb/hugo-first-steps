@@ -17,7 +17,7 @@ Thanks to the status-row you always have these **statistical basic values** in v
 
 ## Counting the rows in a view
 
-The status-row indicates at the lower left margin the number of all **rows** that are in the currently opened **table view**. If you [filter in a view](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), the status-row counts only the remaining table entries.
+The status-row indicates at the lower left margin the number of all **rows** that are in the currently opened **table view**. If you [filter in a view]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), the status-row counts only the remaining table entries.
 
 ![The statusrow always indicates the number of rows in the currently opened table view.](images/status-cell-function-1.jpg)
 
@@ -46,17 +46,17 @@ For number-based columns, the following **calculation options** are available in
 
 For the following column types, the statusrow reflects a calculated value:
 
-- [Number columns](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Number columns]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
     - Number
     - Percent
     - Currency
-- [Permanent columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
-- [Rating columns](https://seatable.io/en/docs/auswahlspalten/die-rating-spalte/)
+- [Duration columns]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}})
+- [Rating columns]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 - Numerical values in [formula columns]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 For the following column types, the status-row **does not** reflect a calculated value, although they (may) contain numbers:
 
-- [Date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Created]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Numbers in [text columns]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

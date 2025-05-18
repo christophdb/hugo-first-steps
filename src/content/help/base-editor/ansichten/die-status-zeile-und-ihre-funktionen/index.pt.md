@@ -17,7 +17,7 @@ Graças à linha de estado, tem sempre em vista estes **valores estatísticos b�
 
 ## Contando as filas numa vista
 
-A linha de estado indica na margem inferior esquerda o número de todas as **filas** que estão na **vista da tabela** actualmente aberta. Se [filtrar numa vista](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), a linha de estado conta apenas as restantes entradas da tabela.
+A linha de estado indica na margem inferior esquerda o número de todas as **filas** que estão na **vista da tabela** actualmente aberta. Se [filtrar numa vista]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), a linha de estado conta apenas as restantes entradas da tabela.
 
 ![A linha de estado indica sempre o número de filas na vista da tabela actualmente aberta](images/status-cell-function-1.jpg)
 
@@ -46,17 +46,17 @@ Para colunas baseadas em números, estão disponíveis as seguintes **opções d
 
 Para os seguintes tipos de colunas, a linha de estado reflecte um valor calculado:
 
-- [Colunas numéricas](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Colunas numéricas]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
     - Número
     - Porcentagem
     - Moeda
-- [Colunas permanentes]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
-- [Colunas de classificação](https://seatable.io/pt/docs/auswahlspalten/die-rating-spalte/)
+- [Colunas permanentes]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}})
+- [Colunas de classificação]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 - Valores numéricos em [colunas de fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Para os seguintes tipos de colunas, a linha de estado **não** reflecte um valor calculado, embora (possam) conter números:
 
-- [Colunas de datas]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Colunas de datas]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Criado]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Número automático](https://seatable.io/pt/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Números em [colunas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

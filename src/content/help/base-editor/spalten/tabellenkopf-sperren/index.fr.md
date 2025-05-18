@@ -29,6 +29,10 @@ Si vous souhaitez uniquement bloquer l'édition de **certaines colonnes** de vot
 
 ![Symbole de cadenas lorsque l'en-tête du tableau a été verrouillé avec succès](images/locked-table-head.jpg)
 
-{{< warning  headline="Remarque importante"  text="Ne confondez pas cette fonction avec le **Icône du cadenas dans les options d'affichage**qui vous permet de modifier les paramètres d'une [Verrouiller l'affichage des tableaux](https://seatable.io/fr/docs/ansichtsoptionen/ansicht-sperren/) peuvent." />}}
+{{< warning  headline="Remarque importante" >}}
+
+Ne confondez pas cette fonction avec le **Icône du cadenas dans les options d'affichage**qui vous permet de modifier les paramètres d'une [Verrouiller l'affichage des tableaux]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}) peuvent.
+
+{{< /warning >}}
 
 ![Icône de cadenas pour verrouiller les vues dans les options d'affichage](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)

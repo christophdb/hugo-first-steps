@@ -112,9 +112,9 @@ URL columns interpret the entered information as a **resource** in the local net
 
 Icon: {{< seatable-icon icon="dtable-icon-check-square-solid" >}} **Checkbox**
 
-Checkboxes allow the collection of **binary information**: Yes or No or _Checked_ vs. _Unchecked_. Further entries are not possible. Therefore, they are good for marking tasks as done, for example - that is, for keeping track of whether rows meets a certain yes/no condition. For this reason, you can also make excellent use of checkbox columns for [filtering](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [sorting](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) or [grouping](https://seatable.io/en/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/).
+Checkboxes allow the collection of **binary information**: Yes or No or _Checked_ vs. _Unchecked_. Further entries are not possible. Therefore, they are good for marking tasks as done, for example - that is, for keeping track of whether rows meets a certain yes/no condition. For this reason, you can also make excellent use of checkbox columns for [filtering]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [sorting]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) or [grouping]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).
 
-[More about the checkbox column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-checkbox-spalte/)
+[More about the checkbox column]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}})
 
 ### Rating
 
@@ -122,7 +122,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-rate" >}} **Rating**
 
 A rating column allows you to **classify** your records in order to **rank** them or give them a **quality score**. You can select a rating scale from 1 to 10 and choose between different colors and shapes. This allows data to be assessed and rated quickly and easily for everyone to understand.
 
-[More about the rating column](https://seatable.io/en/docs/auswahlspalten/die-rating-spalte/)
+[More about the rating column]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 
 ### Formula
 
@@ -222,4 +222,4 @@ Icon: {{< seatable-icon icon="dtable-icon-autonumber" >}} **Automatic number**
 
 The Automatic number column type generates an **automatically increasing number** for each new row. This column type is used whenever you need a unique identifier for each record.
 
-[More about the Automatic number column](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/).
+[More about the Automatic number column]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}).

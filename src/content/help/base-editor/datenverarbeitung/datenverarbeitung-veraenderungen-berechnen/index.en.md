@@ -33,7 +33,7 @@ On the first successful execution, a small **Green hook**.
 
 A concrete use case for this data processing operation could occur, for example, if you collect the number of daily accesses to a website and want to find out how the **access numbers** have changed in the period between two measurements. For this purpose, you want to calculate the **difference** between the access numbers in another column.
 
-For the implementation you first need a table in which the different **days** are collected in a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) and the **access numbers to** the website in a [number column](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/).
+For the implementation you first need a table in which the different **days** are collected in a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) and the **access numbers to** the website in a [number column]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
 
 ![Example table for the use case Calculate changes](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

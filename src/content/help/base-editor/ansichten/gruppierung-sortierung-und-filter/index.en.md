@@ -36,7 +36,7 @@ You delete the grouping rule by clicking the cross icon to the left of the colum
 
 ### Grouping behaviour according to column type
 
-SeaTable supports groupings across all [column types](https://seatable.io/en/docs/handbuch/datenmanagement/feld-typen/) except formatted text, file and image type columns as well as URL, last editor and auto number.
+SeaTable supports groupings across all [column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) except formatted text, file and image type columns as well as URL, last editor and auto number.
 
 All rows with empty cells in the grouping column are - regardless of the sorting direction - combined into a separate grouping (Empty) at the end.
 
@@ -62,7 +62,7 @@ You delete a rule by clicking on the cross symbol to the left of the sorting rul
 
 ### Sorting behaviour according to column type
 
-SeaTable supports sorting across all [column types](https://seatable.io/en/docs/handbuch/datenmanagement/feld-typen/) except formatted text, file and image, URL and link, creator and last editor type columns.
+SeaTable supports sorting across all [column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) except formatted text, file and image, URL and link, creator and last editor type columns.
 
 Sorting takes place in the sortable columns according to the following criteria:
 
@@ -100,7 +100,7 @@ To adjust the defined filter rules, click on _Filter_ again. In the wizard that 
 
 ### Filter behaviour according to column type
 
-SeaTable supports filtering across all [column types](https://seatable.io/en/docs/handbuch/datenmanagement/feld-typen/) except formatted text, file and image and URL type columns.
+SeaTable supports filtering across all [column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) except formatted text, file and image and URL type columns.
 
 Depending on the column type, the filter wizard shows different filter criteria. For the different column types these are:
 

@@ -12,7 +12,7 @@ url: '/fr/aide/freigabe-einer-ansicht-an-eine-gruppe'
 
 Pour permettre une collaboration optimale, vous pouvez **partager** **des vues** de tableaux non seulement avec des utilisateurs individuels, mais aussi **avec des groupes entiers**. Lors du partage, vous pouvez décider si les membres du groupe peuvent uniquement **lire la** vue partagée ou s'ils peuvent également la **modifier**.
 
-Vous trouverez des explications détaillées sur le partage de vues dans l'article [Partager une vue avec un membre de l'équipe](https://seatable.io/fr/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/).
+Vous trouverez des explications détaillées sur le partage de vues dans l'article [Partager une vue avec un membre de l'équipe]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}).
 
 ## Pour partager une vue avec un groupe
 

@@ -38,7 +38,7 @@ Si este ajuste está **activado**, la base en cuestión ya no podrá ser exporta
 
 ### Impedir la impresión de una base
 
-Activando esta opción, puede **impedir** que otros usuarios [impriman](https://seatable.io/es/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) las diferentes vistas de tabla de su Base.
+Activando esta opción, puede **impedir** que otros usuarios [impriman]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) las diferentes vistas de tabla de su Base.
 
 Si se **activa** este ajuste, las distintas vistas de tabla de la base afectada ya no podrán ser impresas por **nadie** hasta que el ajuste sea desactivado de nuevo por un propietario o administrador. La opción correspondiente para imprimir en las opciones de vista se muestra **en gris para** todos los usuarios y ya **no** se puede hacer clic en ella. Además, una **nota** indica que los usuarios **no** tienen permiso para imprimir las vistas de la tabla.
 
@@ -72,7 +72,7 @@ Al activar esta opción, puede **impedir** que los usuarios con los que se [comp
 
 ### Impedir la impresión de una base
 
-Activando esta opción, puede **evitar** que los usuarios a los que se [libere](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/) la base correspondiente puedan [imprimir](https://seatable.io/es/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) las distintas vistas de tabla de la base.
+Activando esta opción, puede **evitar** que los usuarios a los que se [libere]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) las distintas vistas de tabla de la base.
 
 ### Impedir la copia de una base a otro grupo
 

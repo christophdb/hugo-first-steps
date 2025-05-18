@@ -12,7 +12,7 @@ Los conjuntos de datos compartidos permiten compartir una vista de tabla predefi
 
 ## Ventajas de un conjunto de datos común
 
-En comparación con una [vista](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/) compartida, un conjunto de datos compartido ofrece más posibilidades, que se ilustran con el siguiente ejemplo:
+En comparación con una [vista]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}) compartida, un conjunto de datos compartido ofrece más posibilidades, que se ilustran con el siguiente ejemplo:
 
 - Una lista de personal relevante para varios grupos de usuarios (por ejemplo, RRHH, contabilidad y comunicación interna) puede ponerse a disposición de los miembros de su equipo a través de conjuntos de datos compartidos como **plantilla para nuevas tablas**.
 - Después de que los miembros de su equipo hayan importado el conjunto de datos comunes a una base, pueden añadir columnas a la tabla como deseen y adaptarla a sus casos de uso específicos (por ejemplo, planificación de vacaciones, nóminas, lista de distribución para boletines internos).

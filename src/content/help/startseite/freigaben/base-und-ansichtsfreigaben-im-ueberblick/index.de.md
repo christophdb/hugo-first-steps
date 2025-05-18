@@ -66,9 +66,9 @@ Die Freigabe einer Ansicht erstellen Sie in der geöffneten Tabelle. Wenn Sie si
 
 Anschließend landen Sie im bekannten **Freigeben-Dialog**, indem Sie genauso wie bei den Bases auch Ihre Ansichtsfreigaben anlegen können. Die Freigabe einer Ansicht kann an drei Personenkreise erfolgen:
 
-- [Freigabe an ein Teammitglied](https://seatable.io/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Freigabe an ein Teammitglied]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Freigabe an eine Gruppe](https://seatable.io/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Freigabe via externem Link](https://seatable.io/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Freigabe via externem Link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Sobald Sie bei einer Freigabe-Option auf die Schaltfläche **Abschicken** klicken, kann die ausgewählte Person oder Gruppe mit der erteilten Berechtigung auf die Ansicht zugreifen. Um eine Ansicht an mehrere Benutzer oder Gruppen freizugeben, wiederholen Sie diesen Vorgang.
 

@@ -21,7 +21,7 @@ In addition to the **Color cells** option, there is also the possibility to [mar
 Each column offers the option **Format cells of the column** an:  
 ![Coloring cells in SeaTable](images/color-cells.png)
 
-SeaTable will behave differently depending on the **column type** for which you call this option. For [number columns](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/), you can use both rules and values for coloring. For all other column types, only the rules for coloring are available.
+SeaTable will behave differently depending on the **column type** for which you call this option. For [number columns]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), you can use both rules and values for coloring. For all other column types, only the rules for coloring are available.
 
 ![Coloring with rules or according to values](images/color-cells-rules-values.png)
 

@@ -12,7 +12,7 @@ El ID de usuario se describe mejor como un **número de identificación personal
 
 Con la ayuda del ID de usuario, puede establecer **filtros dinámicos** en SeaTable, que en determinadas situaciones son más adecuados que un filtro según la [columna del creador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). En este artículo presentamos las ventajas y desventajas de los filtros con el ID de usuario.
 
-Si quieres saber cómo cambiar el ID de usuario de un miembro del equipo, [encontrarás la respuesta en este artículo de ayuda](https://seatable.io/es/docs/teamverwaltung-abonnement/aenderung-der-id-des-users-in-der-teamverwaltung/).
+Si quieres saber cómo cambiar el ID de usuario de un miembro del equipo, [encontrarás la respuesta en este artículo de ayuda]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
 {{< warning  headline="Uso típico de la identificación de usuario"  text="El ID de usuario lo establece el **administrador del equipo** para los miembros y suele seguir una lógica determinada. En las empresas, a menudo se utiliza como ID de usuario el **número** individual **del empleado o del personal**." />}}
 
@@ -61,7 +61,7 @@ Si asigna la tarea abierta _"planificar la próxima reunión"_ de _Markus_ a otr
 
 ![Cambio posterior del identificador de usuario y consiguiente eliminación de la entrada de la tabla del empleado.](images/record-gets-deleted-after-user-ID-was-changed.gif)
 
-Si la tarea debe mostrarse no sólo al usuario con el ID correspondiente, sino también al creador de la fila, puede establecer **dos reglas de filtrado** con un [enlace "o" o "o"](https://seatable.io/es/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/).
+Si la tarea debe mostrarse no sólo al usuario con el ID correspondiente, sino también al creador de la fila, puede establecer **dos reglas de filtrado** con un [enlace "o" o "o"]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}).
 
 ![La alternativa: El filtro según la columna Creador](images/filter-creator.png)
 

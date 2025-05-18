@@ -12,7 +12,7 @@ L'ID de l'utilisateur se décrit le mieux par un **numéro d'identification pers
 
 L'ID d'utilisateur permet de définir **des filtres dynamiques** dans SeaTable, ce qui, dans certaines situations, est plus approprié qu'un filtre basé sur la [colonne du créateur]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). Dans cet article, nous vous présentons les avantages et les inconvénients des filtres avec l'ID utilisateur.
 
-Si vous voulez savoir comment modifier l'ID utilisateur d'un membre de l'équipe, [vous trouverez la réponse dans cet article d'aide](https://seatable.io/fr/docs/teamverwaltung-abonnement/aenderung-der-id-des-users-in-der-teamverwaltung/).
+Si vous voulez savoir comment modifier l'ID utilisateur d'un membre de l'équipe, [vous trouverez la réponse dans cet article d'aide]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
 {{< warning  headline="Utilisation typique de l'ID utilisateur"  text="L'ID de l'utilisateur est défini par l'**administrateur de l'équipe** pour les membres et suit typiquement une certaine logique. Dans les entreprises, le **numéro** individuel de l'**employé ou du personnel** est souvent utilisé comme ID de l'utilisateur." />}}
 
@@ -61,7 +61,7 @@ Si vous attribuez la tâche ouverte _"plan next meeting"_ de _Markus_ à un autr
 
 ![Modification ultérieure de l'ID utilisateur et suppression consécutive de l'entrée dans le tableau de l'employé](images/record-gets-deleted-after-user-ID-was-changed.gif)
 
-Si la tâche doit être affichée non seulement à l'utilisateur avec l'ID correspondant, mais aussi au créateur de la ligne, vous pouvez définir **deux règles de filtrage** avec un [lien "ou bien"](https://seatable.io/fr/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/).
+Si la tâche doit être affichée non seulement à l'utilisateur avec l'ID correspondant, mais aussi au créateur de la ligne, vous pouvez définir **deux règles de filtrage** avec un [lien "ou bien"]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}).
 
 ![L'alternative : le filtre sur la colonne Créateur](images/filter-creator.png)
 

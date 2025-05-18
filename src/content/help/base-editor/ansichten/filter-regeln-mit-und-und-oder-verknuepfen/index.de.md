@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/filter-regeln-mit-und-und-oder-verknuepfen'
 ---
 
-Sie können beim [Filtern von Einträgen in einer Ansicht](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) auch **mehrere Filter-Regeln** erstellen, um die Bedingungen zu verfeinern und die zutreffenden Einträge weiter einzugrenzen. Hierbei wird zwischen der **Und-Verknüpfung** und der **Oder-Verknüpfung** unterschieden. Mithilfe von **Filtergruppen** können Sie die logischen Und-/Oder-Verknüpfungen auch kombinieren.
+Sie können beim [Filtern von Einträgen in einer Ansicht]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) auch **mehrere Filter-Regeln** erstellen, um die Bedingungen zu verfeinern und die zutreffenden Einträge weiter einzugrenzen. Hierbei wird zwischen der **Und-Verknüpfung** und der **Oder-Verknüpfung** unterschieden. Mithilfe von **Filtergruppen** können Sie die logischen Und-/Oder-Verknüpfungen auch kombinieren.
 
 ## Warum Filter-Regeln Ihnen die Arbeit erleichtern
 

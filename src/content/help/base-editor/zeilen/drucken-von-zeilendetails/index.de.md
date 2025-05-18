@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/drucken-von-zeilendetails'
 ---
 
-Sie haben die Möglichkeit, **Zeilendetails** ähnlich wie [Tabellenansichten](https://seatable.io/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) auszudrucken. Im Gegensatz zur Tabellenansicht listen die Zeilendetails die Spalten untereinander (statt nebeneinander) auf und bieten so eine übersichtlichere Aufschlüsselung der eingetragenen Daten für eine Zeile.
+Sie haben die Möglichkeit, **Zeilendetails** ähnlich wie [Tabellenansichten]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) auszudrucken. Im Gegensatz zur Tabellenansicht listen die Zeilendetails die Spalten untereinander (statt nebeneinander) auf und bieten so eine übersichtlichere Aufschlüsselung der eingetragenen Daten für eine Zeile.
 
 ## So können Sie Zeilen drucken
 

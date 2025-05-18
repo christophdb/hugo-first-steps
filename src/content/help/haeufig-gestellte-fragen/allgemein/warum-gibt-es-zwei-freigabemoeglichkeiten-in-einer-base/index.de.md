@@ -35,8 +35,8 @@ Wenn Sie keine ganze Base, sondern nur Teile davon freigeben möchten, geht das 
 
 Wenn Sie nur eine einzelne Ansicht teilen möchten, kann die Freigabe an drei Personenkreise erfolgen:
 
-- [Freigabe an ein Teammitglied](https://seatable.io/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Freigabe an ein Teammitglied]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Freigabe an eine Gruppe](https://seatable.io/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Freigabe via externem Link](https://seatable.io/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Freigabe via externem Link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Weitere Informationen erhalten Sie auch im Artikel [Base- und Ansichtsfreigaben im Überblick]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}).

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/filter-regeln-mit-und-und-oder-verknuepfen'
 ---
 
-When [filtering entries in a view](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), you can also create **multiple filter rules** to refine the conditions and further narrow down the applicable entries. A distinction is made here between the **AND link** and the **OR link**. You can also use **filter groups** to combine the logical AND/Or links.
+When [filtering entries in a view]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), you can also create **multiple filter rules** to refine the conditions and further narrow down the applicable entries. A distinction is made here between the **AND link** and the **OR link**. You can also use **filter groups** to combine the logical AND/Or links.
 
 ## Why filter rules make your work easier
 

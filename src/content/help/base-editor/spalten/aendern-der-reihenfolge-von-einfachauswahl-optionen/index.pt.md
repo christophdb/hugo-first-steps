@@ -22,6 +22,6 @@ A ordem em que as opções de uma coluna de selecção única aparecem pode ser 
 
 ## Ordenação e agrupamento
 
-A ordem das opções é crucial para [ordenar](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) ou [agrupar](https://seatable.io/pt/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) por uma única coluna de seleção. Pode organizar as suas visualizações de forma flexível, organizando as opções como desejar.
+A ordem das opções é crucial para [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) por uma única coluna de seleção. Pode organizar as suas visualizações de forma flexível, organizando as opções como desejar.
 
 ![Alterar a ordenação de uma coluna de seleção única](images/Sortierung-einer-Einfachauswahl-Spalte-aendern.gif)

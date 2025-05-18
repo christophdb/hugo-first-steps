@@ -33,10 +33,10 @@ The **first column** of a table in SeaTable has several special features and res
 There are only **six column types** to choose from for the **first** **column**:
 
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Number](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Number]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
 - [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Single selection]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Formulas in the first column
@@ -63,6 +63,6 @@ Yes, this is possible. However, in some cases information may be **lost** when [
 
 What is an automatic number?|||
 
-If you want your rows to have a **unique identification number**, the [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) column type could serve you well. Examples include invoice numbers, test cases or employee IDs. The number can also be supplemented with any prefix.
+If you want your rows to have a **unique identification number**, the [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) column type could serve you well. Examples include invoice numbers, test cases or employee IDs. The number can also be supplemented with any prefix.
 
 {{< /faq >}}

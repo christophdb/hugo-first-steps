@@ -33,10 +33,10 @@ A **primeira coluna** de uma tabela no SeaTable tem várias características e r
 Para a **primeira coluna**, existem apenas **seis tipos de colunas** à escolha:
 
 - [Texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Número](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Número]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
 - [Data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Selecção única]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Número automático](https://seatable.io/pt/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Fórmulas na primeira coluna
@@ -63,6 +63,6 @@ Sim, isto é possível. Em alguns casos, contudo, pode acontecer que a informaç
 
 O que é um número automático?|||
 
-Se pretender que as suas linhas tenham um **número de identificação único**, o tipo de coluna [Número automático](https://seatable.io/pt/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) pode ser-lhe útil. Os exemplos incluem números de facturas, casos de teste ou IDs de empregados. O número também pode ser complementado com qualquer prefixo.
+Se pretender que as suas linhas tenham um **número de identificação único**, o tipo de coluna [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) pode ser-lhe útil. Os exemplos incluem números de facturas, casos de teste ou IDs de empregados. O número também pode ser complementado com qualquer prefixo.
 
 {{< /faq >}}

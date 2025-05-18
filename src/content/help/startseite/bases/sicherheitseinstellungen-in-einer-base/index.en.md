@@ -42,7 +42,7 @@ If this setting is **activated**, the base in question can no longer be exported
 
 ### Prevent printing of a base
 
-By enabling this setting, you can **prevent** other users from [printing](https://seatable.io/en/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) the different table views of your Base.
+By enabling this setting, you can **prevent** other users from [printing]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) the different table views of your Base.
 
 If this setting is **activated**, the various table views of the affected Base can no longer be printed by **anyone** until the setting is deactivated again by an owner or administrator. The corresponding option for printing in the view options is displayed **grayed out to** all users and can **no** longer be clicked. In addition, a **note** indicates that the users do **not have** permission to print the table views.
 
@@ -76,7 +76,7 @@ By activating this setting, you can **prevent** users to whom the corresponding 
 
 ### Prevent printing of a base
 
-By activating this setting you can **prevent** users to whom the corresponding [base](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) is [released](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) from [printing](https://seatable.io/en/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) the different table views of the base.
+By activating this setting you can **prevent** users to whom the corresponding [base]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) the different table views of the base.
 
 ### Prevent copying a base to another group
 

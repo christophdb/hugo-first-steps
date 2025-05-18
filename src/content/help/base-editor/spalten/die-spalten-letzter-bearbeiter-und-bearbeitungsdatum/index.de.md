@@ -10,7 +10,7 @@ url: '/de/hilfe/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 
 Die Spalten **Letzter Bearbeiter** und **Bearbeitungsdatum** werden von SeaTable ausschließlich **automatisch** gefüllt und stellen daher besondere Spaltentypen dar. Sie erweisen sich als äußerst sinnvoll, wenn Sie nachvollziehen möchten, **wann** und **von wem** ein Eintrag **zuletzt bearbeitet** wurde.
 
-Da die beiden Spalten automatisch Änderungen an Einträgen erfassen, eignen sie sich zum Beispiel gut als Trigger für [Automationen](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/) sowie für [Filter](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) und [Sortierungen](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/).
+Da die beiden Spalten automatisch Änderungen an Einträgen erfassen, eignen sie sich zum Beispiel gut als Trigger für [Automationen]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) und [Sortierungen]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}).
 
 ## Die Spalten Letzter Bearbeiter und Bearbeitungsdatum
 

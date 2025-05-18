@@ -30,7 +30,7 @@ The timeline plugin maps **time spans**. Therefore, for this representation you 
 
 ## Effect of grouping and sorting
 
-Since the timeline plugin is based on the views of the table, [sorting](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) and [grouping of](https://seatable.io/en/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/) entries also affect the display in the timeline. For grouped views, you have the option of displaying the data in a **swimlane** diagram by activating the **Display as swimlane mode** slider.
+Since the timeline plugin is based on the views of the table, [sorting]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) entries also affect the display in the timeline. For grouped views, you have the option of displaying the data in a **swimlane** diagram by activating the **Display as swimlane mode** slider.
 
 ![Timeline plugin grouping](images/timeline-plugingroup-3.gif)
 

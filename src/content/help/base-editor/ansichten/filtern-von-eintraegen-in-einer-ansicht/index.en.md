@@ -43,7 +43,7 @@ You can restore created filters **delete**by clicking on the **x symbol** click.
 
 ## Apply multiple filters
 
-You can create one or more filters that further restrict the first condition. Read more about this in the article [Linking filter rules with AND and OR.](https://seatable.io/en/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/)
+You can create one or more filters that further restrict the first condition. Read more about this in the article [Linking filter rules with AND and OR.]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}})
 
 ## Rearrange filters
 

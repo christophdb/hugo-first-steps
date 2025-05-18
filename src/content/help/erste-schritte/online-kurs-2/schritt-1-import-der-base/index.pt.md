@@ -115,4 +115,4 @@ Reserve tempo suficiente para explorar a base em pormenor. Se ainda não estiver
 - [Criação de uma Base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Noções básicas das fórmulas SeaTable]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 - [Marcação a cores das linhas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
-- [Vistas de bloqueio](https://seatable.io/pt/docs/ansichtsoptionen/ansicht-sperren/)
+- [Vistas de bloqueio]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

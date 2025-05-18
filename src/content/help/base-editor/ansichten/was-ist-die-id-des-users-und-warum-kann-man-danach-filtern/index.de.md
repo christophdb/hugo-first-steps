@@ -12,7 +12,7 @@ Die ID des Users lässt sich am besten mit einer **persönlichen Identifikations
 
 Mithilfe der User-ID kann man in SeaTable **dynamische Filter** setzen, welche in gewissen Situationen besser geeignet ist als ein Filter nach der [Ersteller-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). In diesem Artikel stellen wir Ihnen die Vor- und Nachteile von Filtern mit der User-ID vor.
 
-Wenn Sie wissen wollen, wie Sie die User-ID eines Teammitglieds ändern, [finden Sie in diesem Hilfeartikel die Antwort](https://seatable.io/docs/teamverwaltung-abonnement/aenderung-der-id-des-users-in-der-teamverwaltung/).
+Wenn Sie wissen wollen, wie Sie die User-ID eines Teammitglieds ändern, [finden Sie in diesem Hilfeartikel die Antwort]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
 {{< warning  headline="Typische Verwendung der User-ID"  text="Die ID des Users wird vom **Team-Administrator** für die Mitglieder gesetzt und folgt typischerweise einer gewissen Logik. In Unternehmen wird häufig die individuelle **Mitarbeiter- oder Personalnummer** als ID des Users verwendet." />}}
 
@@ -58,7 +58,7 @@ Wenn Sie die offene Aufgabe _"plan next meeting"_ von _Markus_ einem anderen Mit
 
 ![Nachträgliche Änderung der Benutzer-ID und daraus folgende Entfernung des Eintrags aus der Tabelle des Mitarbeiters](images/record-gets-deleted-after-user-ID-was-changed.gif)
 
-Falls die Aufgabe nicht nur dem User mit der entsprechenden ID, sondern auch dem Ersteller der Zeile angezeigt werden soll, können Sie **zwei Filterregeln** mit einer [Entweder-Oder-Verknüpfung](https://seatable.io/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/) setzen.
+Falls die Aufgabe nicht nur dem User mit der entsprechenden ID, sondern auch dem Ersteller der Zeile angezeigt werden soll, können Sie **zwei Filterregeln** mit einer [Entweder-Oder-Verknüpfung]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}) setzen.
 
 ![Die Alternative: Der Filter nach der Spalte Ersteller](images/filter-creator.png)
 

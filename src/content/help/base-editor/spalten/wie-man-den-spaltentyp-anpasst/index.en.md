@@ -28,10 +28,10 @@ It is possible to change the column type at a later date. Here you can find out 
 The **first column** in a table **only** supports **6 of the 25 column types**. These are
 
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Number](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Number]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
 - [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Single selection]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Data loss warning

@@ -112,9 +112,9 @@ Les colonnes URL interprètent les informations saisies comme une **ressource** 
 
 Symbole : {{< seatable-icon icon="dtable-icon-check-square-solid" >}} **case à cocher**
 
-Les cases à cocher permettent de saisir **des informations binaires**: Oui ou Non ou _coché_ vs _non coché_. Il n'est pas possible de saisir d'autres données. C'est pourquoi elles conviennent bien, par exemple, pour marquer des tâches comme étant terminées - c'est-à-dire pour avoir un aperçu des lignes qui remplissent une certaine condition oui/non. Pour cette raison, les colonnes de cases à cocher peuvent également être utilisées de manière optimale pour [filtrer](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [trier](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) ou [regrouper](https://seatable.io/fr/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/).
+Les cases à cocher permettent de saisir **des informations binaires**: Oui ou Non ou _coché_ vs _non coché_. Il n'est pas possible de saisir d'autres données. C'est pourquoi elles conviennent bien, par exemple, pour marquer des tâches comme étant terminées - c'est-à-dire pour avoir un aperçu des lignes qui remplissent une certaine condition oui/non. Pour cette raison, les colonnes de cases à cocher peuvent également être utilisées de manière optimale pour [filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [regrouper]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).
 
-[En savoir plus sur la colonne des cases à cocher](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-checkbox-spalte/)
+[En savoir plus sur la colonne des cases à cocher]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}})
 
 ### Rating
 
@@ -122,7 +122,7 @@ Symbole : {{< seatable-icon icon="dtable-icon-rate" >}} **Rating**
 
 Une colonne de notation permet de **classer** vos enregistrements afin d'établir un **classement** ou une **évaluation de la qualité**. Vous pouvez choisir une échelle de notation de 1 à 10 et choisir entre différentes couleurs et formes. Les données peuvent ainsi être évaluées et notées rapidement et facilement, de manière compréhensible pour tous.
 
-[En savoir plus sur la colonne "Rating](https://seatable.io/fr/docs/auswahlspalten/die-rating-spalte/)
+[En savoir plus sur la colonne "Rating]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 
 ### Formule
 
@@ -222,4 +222,4 @@ le symbole : {{< seatable-icon icon="dtable-icon-autonumber" >}} **Numéro autom
 
 Le type de colonne Numéro automatique génère **automatiquement** un **numéro croissant** pour chaque nouvelle ligne. Ce type de colonne est toujours utilisé lorsque vous avez besoin d'un identifiant unique pour chaque enregistrement.
 
-[En savoir plus sur la colonne Numéro automatique](https://seatable.io/fr/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/).
+[En savoir plus sur la colonne Numéro automatique]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}).

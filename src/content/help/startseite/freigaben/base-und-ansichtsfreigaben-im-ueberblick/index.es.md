@@ -66,9 +66,9 @@ La compartición de una vista se crea en la tabla abierta. Cuando esté en la vi
 
 A continuación, aparecerá el conocido **cuadro de diálogo** para compartir, en el que también podrá crear vistas compartidas del mismo modo que para las bases. Una vista puede compartirse con tres grupos de personas:
 
-- [Liberar a un miembro del equipo](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Liberar a un miembro del equipo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Liberar a un grupo](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Comunicado a través de un enlace externo](https://seatable.io/es/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Comunicado a través de un enlace externo]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 En cuanto haga clic en el botón **Enviar** de una opción de uso compartido, la persona o el grupo seleccionados podrán acceder a la vista con el permiso concedido. Para compartir una vista con varios usuarios o grupos, repita este proceso.
 

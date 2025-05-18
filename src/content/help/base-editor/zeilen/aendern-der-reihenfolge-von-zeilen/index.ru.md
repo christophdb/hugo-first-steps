@@ -24,4 +24,8 @@ url: '/ru/help/aendern-der-reihenfolge-von-zeilen'
 
 ![Перемещение рядов одновременно](images/Zeilen-gleichzeitig-verschieben-1.gif)
 
-{{< warning  headline="Внимание"  text="Если столбец [отсортирован](https://seatable.io/ru/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) (по возрастанию/по убыванию), вы можете перемещать записи, но порядок будет немедленно скорректирован." />}}
+{{< warning  headline="Внимание" >}}
+
+Если столбец [отсортирован]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) (по возрастанию/по убыванию), вы можете перемещать записи, но порядок будет немедленно скорректирован.
+
+{{< /warning >}}

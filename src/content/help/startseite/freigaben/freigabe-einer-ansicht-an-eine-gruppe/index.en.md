@@ -12,7 +12,7 @@ url: '/help/freigabe-einer-ansicht-an-eine-gruppe'
 
 To enable optimal collaboration, you can **share** **views of** tables not only with individual users, but also **with entire groups**. When sharing, you can decide whether the group members can only **read** the shared view or also **edit** it.
 
-For detailed explanations about view sharing, see the article [Sharing a view with a team member](https://seatable.io/en/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/).
+For detailed explanations about view sharing, see the article [Sharing a view with a team member]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}).
 
 ## To share a view with a group
 

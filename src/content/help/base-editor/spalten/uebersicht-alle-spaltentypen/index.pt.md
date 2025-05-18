@@ -112,9 +112,9 @@ As colunas URL interpretam as informações introduzidas como um **recurso** na 
 
 Símbolo: {{< seatable-icon icon="dtable-icon-check-square-solid" >}} **Caixa de verificação**
 
-As caixas de verificação permitem a recolha de **informações binárias**: Sim ou Não ou marca de verificação _definida_ vs. _marca de verificação não definida_. Não são possíveis outras entradas. Por conseguinte, são adequadas para marcar tarefas como concluídas, por exemplo, ou seja, para registar se as linhas cumprem uma determinada condição de sim/não. Por este motivo, as colunas de caixas de verificação também podem ser utilizadas de forma excelente para [filtrar](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [ordenar](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) ou [agrupar](https://seatable.io/pt/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/).
+As caixas de verificação permitem a recolha de **informações binárias**: Sim ou Não ou marca de verificação _definida_ vs. _marca de verificação não definida_. Não são possíveis outras entradas. Por conseguinte, são adequadas para marcar tarefas como concluídas, por exemplo, ou seja, para registar se as linhas cumprem uma determinada condição de sim/não. Por este motivo, as colunas de caixas de verificação também podem ser utilizadas de forma excelente para [filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).
 
-[Mais informações sobre a coluna da caixa de verificação](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-checkbox-spalte/)
+[Mais informações sobre a coluna da caixa de verificação]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}})
 
 ### Classificação
 
@@ -122,7 +122,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-rate" >}} **Classificação**
 
 Uma coluna de classificação permite-lhe **classificar** os seus registos para lhes atribuir uma **classificação** ou **pontuação de qualidade**. Pode seleccionar uma escala de classificação de 1 a 10 e escolher entre diferentes cores e formas. Isto permite que os dados sejam avaliados e classificados de forma rápida e fácil para que todos compreendam.
 
-[Mais informações sobre a coluna de classificação](https://seatable.io/pt/docs/auswahlspalten/die-rating-spalte/)
+[Mais informações sobre a coluna de classificação]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 
 ### Fórmula
 
@@ -222,4 +222,4 @@ Símbolo: {{< seatable-icon icon="dtable-icon-autonumber" >}} **Número automát
 
 O tipo de coluna Número automático cria um **número automaticamente crescente** para cada nova linha. Este tipo de coluna é utilizado sempre que é necessário um identificador único para cada registo.
 
-[Mais informações sobre a coluna Número automático](https://seatable.io/pt/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/).
+[Mais informações sobre a coluna Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}).

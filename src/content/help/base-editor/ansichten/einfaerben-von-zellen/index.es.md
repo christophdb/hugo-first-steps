@@ -21,7 +21,7 @@ Además de la opción de **colorear las celdas**, también existe la posibilidad
 Cada columna ofrece la posibilidad de **Formatear las celdas de la columna** an:  
 ![Colorear celdas en SeaTable](images/color-cells.png)
 
-SeaTable se comportará de forma diferente dependiendo del **tipo de columna** para la que llame a esta opción. Para [columnas numéricas](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/), puede utilizar tanto reglas como valores para colorear. Para todos los demás tipos de columnas, sólo están disponibles las reglas para colorear.
+SeaTable se comportará de forma diferente dependiendo del **tipo de columna** para la que llame a esta opción. Para [columnas numéricas]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), puede utilizar tanto reglas como valores para colorear. Para todos los demás tipos de columnas, sólo están disponibles las reglas para colorear.
 
 ![Colorear con reglas o según valores](images/color-cells-rules-values.png)
 

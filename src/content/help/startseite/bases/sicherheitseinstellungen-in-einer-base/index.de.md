@@ -42,7 +42,7 @@ Ist diese Einstellung **aktiviert**, kann die betroffene Base von **niemandem** 
 
 ### Drucken einer Base verhindern
 
-Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass andere Nutzer die verschiedenen Tabellenansichten Ihrer Base [drucken](https://seatable.io/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) können.
+Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass andere Nutzer die verschiedenen Tabellenansichten Ihrer Base [drucken]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) können.
 
 Ist diese Einstellung **aktiviert**, können die verschiedenen Tabellenansichten der betroffenen Base von **niemandem** mehr gedruckt werden, bis die Einstellung von einem Eigentümer oder Administrator wieder deaktiviert wird. Die entsprechende Option zum Drucken in den Ansichtsoptionen wird allen Benutzern **ausgegraut** angezeigt und kann **nicht** mehr angeklickt werden. Zusätzlich verweist ein **Hinweis** darauf, dass die Nutzer **keine** Berechtigung für den Ausdruck der Tabellenansichten besitzen.
 
@@ -76,7 +76,7 @@ Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Nutzer, an 
 
 ### Drucken einer Base verhindern
 
-Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Nutzer, an welche die entsprechende [Base freigegeben](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/) ist, die verschiedenen Tabellenansichten der Base [drucken](https://seatable.io/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) können.
+Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass Nutzer, an welche die entsprechende [Base freigegeben]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) können.
 
 ### Kopieren einer Base in eine andere Gruppe verhindern
 

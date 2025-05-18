@@ -66,9 +66,9 @@ url: '/ru/help/base-und-ansichtsfreigaben-im-ueberblick'
 
 Затем вы попадаете в знакомый **диалог** общего доступа, где вы также можете создавать общие доступы к своим представлениям так же, как и для баз. Представлением можно поделиться с тремя группами людей:
 
-- [Освобождение члена команды](https://seatable.io/ru/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Освобождение члена команды]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Освобождение для группы](https://seatable.io/ru/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Релиз по внешней ссылке](https://seatable.io/ru/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Релиз по внешней ссылке]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Как только вы нажмете на кнопку **Отправить** для варианта совместного доступа, выбранное лицо или группа смогут получить доступ к представлению с предоставленным разрешением. Чтобы предоставить общий доступ к представлению нескольким пользователям или группам, повторите этот процесс.
 

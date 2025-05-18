@@ -29,10 +29,10 @@ Es ist möglich, den Spaltentyp im Nachhinein noch zu ändern. Hier erfahren Sie
 Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 25 Spaltentypen**. Diese sind:
 
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Zahl](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Zahl]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
 - [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Einfachauswahl]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Warnung vor Datenverlust

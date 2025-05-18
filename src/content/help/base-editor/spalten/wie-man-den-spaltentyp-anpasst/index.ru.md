@@ -28,10 +28,10 @@ url: '/ru/help/wie-man-den-spaltentyp-anpasst'
 **Первый столбец** таблицы поддерживает **только 6 из 25 типов столбцов**. К ним относятся
 
 - [Текст]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Номер](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Номер]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
 - [Дата]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Одиночный выбор]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Автоматический номер](https://seatable.io/ru/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Автоматический номер]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Предупреждение о потере данных

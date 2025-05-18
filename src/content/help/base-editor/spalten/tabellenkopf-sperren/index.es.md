@@ -29,6 +29,10 @@ Si sólo desea bloquear **columnas individuales de** su tabla para su edición, 
 
 ![Símbolo de bloqueo para una cabecera de tabla bloqueada correctamente](images/locked-table-head.jpg)
 
-{{< warning  headline="Nota importante"  text="No confunda esta función con la función **Icono de bloqueo en las opciones de vista**Puede utilizarlo para cambiar la configuración de un [Vista de la tabla de bloqueo](https://seatable.io/es/docs/ansichtsoptionen/ansicht-sperren/) puede." />}}
+{{< warning  headline="Nota importante" >}}
+
+No confunda esta función con la función **Icono de bloqueo en las opciones de vista**Puede utilizarlo para cambiar la configuración de un [Vista de la tabla de bloqueo]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}) puede.
+
+{{< /warning >}}
 
 ![Icono de bloqueo para bloquear las vistas en las opciones de vista](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)

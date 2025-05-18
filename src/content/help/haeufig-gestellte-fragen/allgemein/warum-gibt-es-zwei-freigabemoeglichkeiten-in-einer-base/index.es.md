@@ -35,8 +35,8 @@ Si no quieres compartir una base entera, sino sólo partes de ella, por supuesto
 
 Si sólo quieres compartir una vista, puedes hacerlo con tres grupos de personas:
 
-- [Liberar a un miembro del equipo](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Liberar a un miembro del equipo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Liberar a un grupo](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Comunicado a través de un enlace externo](https://seatable.io/es/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Comunicado a través de un enlace externo]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Para más información, consulte también el artículo [Base y ver las versiones]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) de un vistazo.

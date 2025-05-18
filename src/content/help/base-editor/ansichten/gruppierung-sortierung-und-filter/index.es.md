@@ -36,7 +36,7 @@ La regla de agrupación se elimina haciendo clic en el símbolo de la cruz a la 
 
 ### Comportamiento de la agrupación según el tipo de columna
 
-SeaTable admite agrupaciones en todos los [tipos de columnas](https://seatable.io/es/docs/handbuch/datenmanagement/feld-typen/), excepto en las de texto formateado, archivo e imagen, así como en las de URL, último editor y número automático.
+SeaTable admite agrupaciones en todos los [tipos de columnas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), excepto en las de texto formateado, archivo e imagen, así como en las de URL, último editor y número automático.
 
 Todas las filas con celdas vacías en la columna de agrupación se combinan -independientemente de la dirección de ordenación- en una agrupación separada (Vacío) al final.
 
@@ -62,7 +62,7 @@ Para eliminar una regla, haga clic en el símbolo de la cruz a la izquierda de l
 
 ### Comportamiento de la ordenación según el tipo de columna
 
-SeaTable admite la ordenación de todos los [tipos de columnas](https://seatable.io/es/docs/handbuch/datenmanagement/feld-typen/), excepto las de texto formateado, archivo e imagen, URL y enlace, creador y último tipo de editor.
+SeaTable admite la ordenación de todos los [tipos de columnas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), excepto las de texto formateado, archivo e imagen, URL y enlace, creador y último tipo de editor.
 
 La ordenación se realiza en las columnas ordenables según los siguientes criterios:
 
@@ -100,7 +100,7 @@ Para ajustar las reglas de filtrado definidas, haga clic de nuevo en _Filtro_. E
 
 ### Comportamiento del filtro según el tipo de columna
 
-SeaTable admite el filtrado de todos los [tipos de columnas](https://seatable.io/es/docs/handbuch/datenmanagement/feld-typen/), excepto las de texto formateado, archivo e imagen y las de tipo URL.
+SeaTable admite el filtrado de todos los [tipos de columnas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), excepto las de texto formateado, archivo e imagen y las de tipo URL.
 
 Dependiendo del tipo de columna, el asistente de filtrado muestra diferentes criterios de filtrado. Para los diferentes tipos de columnas son:
 

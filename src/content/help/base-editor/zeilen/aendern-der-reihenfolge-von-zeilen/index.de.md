@@ -24,4 +24,8 @@ Sie können auch **mehrere Zeilen** gleichzeitig verschieben. Wählen Sie hierf�
 
 ![Zeilen gleichzeitig verschieben](images/Zeilen-gleichzeitig-verschieben-1.gif)
 
-{{< warning  type="warning" headline="Achtung"  text="Wenn in einer Spalte eine [Sortierung](\"https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/\") (aufsteigend/absteigend) wirkt, dann können Sie die Einträge zwar verschieben, aber die Reihenfolge wird sofort wieder korrigiert." />}}
+{{< warning  type="warning" headline="Achtung" >}}
+
+Wenn in einer Spalte eine [Sortierung]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) (aufsteigend/absteigend) wirkt, dann können Sie die Einträge zwar verschieben, aber die Reihenfolge wird sofort wieder korrigiert.
+
+{{< /warning >}}

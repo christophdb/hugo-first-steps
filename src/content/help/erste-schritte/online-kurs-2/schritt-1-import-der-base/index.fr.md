@@ -115,4 +115,4 @@ Prenez suffisamment de temps pour explorer la base en détail. Si certaines fonc
 - [Création d'une base à partir d'un fichier DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Principes de base des formules SeaTable]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 - [Marquage des lignes en couleur]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
-- [Verrouiller les vues](https://seatable.io/fr/docs/ansichtsoptionen/ansicht-sperren/)
+- [Verrouiller les vues]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

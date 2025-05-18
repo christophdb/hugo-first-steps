@@ -51,7 +51,7 @@ La opción **Utilizar reglas** permite establecer las condiciones para el marcad
 
 ### Ejemplo de regla de uso
 
-En este ejemplo, se desea resaltar todas las filas de un plan editorial que estén marcadas como completadas en la [columna de casillas de verificación](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) . Para ello, se ha seleccionado la columna **"Publicado"**, se ha utilizado la condición **"es"** y se ha especificado que se marquen las filas **con una marca de verificación**.
+En este ejemplo, se desea resaltar todas las filas de un plan editorial que estén marcadas como completadas en la [columna de casillas de verificación]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}}) . Para ello, se ha seleccionado la columna **"Publicado"**, se ha utilizado la condición **"es"** y se ha especificado que se marquen las filas **con una marca de verificación**.
 
 ![Codificación por colores de las líneas](images/Farbliche-Markierung-von-Zellen-9.png)
 

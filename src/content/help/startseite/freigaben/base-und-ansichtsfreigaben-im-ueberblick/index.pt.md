@@ -66,9 +66,9 @@ Cria-se a partilha de um ponto de vista na mesa aberta. Quando estiver na vista 
 
 Aterra então no **diálogo** familiar de partilha, onde também pode criar as suas partilhas de pontos de vista da mesma forma que para as bases. Um ponto de vista pode ser partilhado com três grupos de pessoas:
 
-- [Lançamento a um membro da equipa](https://seatable.io/pt/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Lançamento a um membro da equipa]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Libertação para um grupo](https://seatable.io/pt/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Lançamento através de ligação externa](https://seatable.io/pt/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Lançamento através de ligação externa]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Assim que clicar no botão **Submeter** para uma opção de partilha, a pessoa ou grupo seleccionado pode aceder à vista com a permissão concedida. Para partilhar uma vista com vários utilizadores ou grupos, repita este processo.
 

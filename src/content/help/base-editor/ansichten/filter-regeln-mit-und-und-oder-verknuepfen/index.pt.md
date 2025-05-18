@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/filter-regeln-mit-und-und-oder-verknuepfen'
 ---
 
-Ao [filtrar entradas numa vista](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), também é possível criar **várias regras de filtragem** para refinar as condições e restringir ainda mais as entradas aplicáveis. É feita aqui uma distinção entre a **ligação E** e a **ligação OU**. Também é possível utilizar **grupos de filtros** para combinar as ligações lógicas E/Or.
+Ao [filtrar entradas numa vista]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), também é possível criar **várias regras de filtragem** para refinar as condições e restringir ainda mais as entradas aplicáveis. É feita aqui uma distinção entre a **ligação E** e a **ligação OU**. Também é possível utilizar **grupos de filtros** para combinar as ligações lógicas E/Or.
 
 ## Porquê regras de filtragem que facilitam o seu trabalho
 

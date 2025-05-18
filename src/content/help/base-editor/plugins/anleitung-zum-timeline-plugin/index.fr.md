@@ -30,7 +30,7 @@ Le plugin Timeline représente **des périodes de temps**. C'est pourquoi vous a
 
 ## Effet du regroupement et du tri
 
-Comme le plugin ligne de temps est basé sur les vues du tableau, le [tri](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) et le [regroupement](https://seatable.io/fr/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/) des entrées ont également un effet sur l'affichage dans la ligne de temps. Dans le cas de vues groupées, vous avez la possibilité d'afficher les données dans un diagramme en ligne flottante en activant le curseur **Display as swimlane mode**.
+Comme le plugin ligne de temps est basé sur les vues du tableau, le [tri]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) des entrées ont également un effet sur l'affichage dans la ligne de temps. Dans le cas de vues groupées, vous avez la possibilité d'afficher les données dans un diagramme en ligne flottante en activant le curseur **Display as swimlane mode**.
 
 ![Plugin de ligne de temps Regroupement](images/timeline-plugingroup-3.gif)
 

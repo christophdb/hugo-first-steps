@@ -22,6 +22,6 @@ L'ordre dans lequel les options d'une colonne de sélection simple apparaissent 
 
 ## Tri et regroupement
 
-L'ordre des options est d'une importance capitale lorsque vous [triez](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) ou [regroupez](https://seatable.io/fr/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) selon une colonne de sélection simple. En organisant les options comme vous le souhaitez, vous pouvez organiser vos vues de manière flexible.
+L'ordre des options est d'une importance capitale lorsque vous [triez]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [regroupez]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) selon une colonne de sélection simple. En organisant les options comme vous le souhaitez, vous pouvez organiser vos vues de manière flexible.
 
 ![Modifier l'ordre de tri d'une colonne de sélection simple](images/Sortierung-einer-Einfachauswahl-Spalte-aendern.gif)

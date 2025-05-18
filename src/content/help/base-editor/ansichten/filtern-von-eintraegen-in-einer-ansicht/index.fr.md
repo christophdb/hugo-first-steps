@@ -43,7 +43,7 @@ Vous pouvez rétablir les filtres créés **supprimer**en cliquant sur le bouton
 
 ## Appliquer plusieurs filtres
 
-Vous pouvez créer un ou plusieurs filtres qui restreignent davantage la première condition. Pour en savoir plus, consultez l'article [Lier les règles de filtrage avec ET et OU](https://seatable.io/fr/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/).
+Vous pouvez créer un ou plusieurs filtres qui restreignent davantage la première condition. Pour en savoir plus, consultez l'article [Lier les règles de filtrage avec ET et OU]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}).
 
 ## Réorganiser les filtres
 

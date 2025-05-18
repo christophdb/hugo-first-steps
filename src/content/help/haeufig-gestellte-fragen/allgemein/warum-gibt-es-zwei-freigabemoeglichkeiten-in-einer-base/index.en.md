@@ -35,8 +35,8 @@ If you don't want to share a whole base, but only parts of it, that is of course
 
 If you only want to share a single view, sharing can be done to three groups of people:
 
-- [Release to a team member](https://seatable.io/en/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Release to a team member]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Release to a group](https://seatable.io/en/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Share via external link](https://seatable.io/en/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Share via external link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 For more information, see also the article [Base and view shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) at a glance.

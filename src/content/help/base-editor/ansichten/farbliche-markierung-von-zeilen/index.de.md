@@ -51,7 +51,7 @@ Die Option **Regeln verwenden** erlaubt es Ihnen, Bedingungen für die farbliche
 
 ### Beispiel für Regel verwenden
 
-In diesem Beispiel sollen alle Zeilen in einem Redaktionsplan markiert werden, die in der [Checkbox-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) als erledigt markiert sind. Hierfür wurde die **Spalte "Published"** ausgewählt, die Bedingung **"ist"** verwendet und festgelegt, dass die **mit einem Haken versehenen** Zeilen markiert werden sollen.
+In diesem Beispiel sollen alle Zeilen in einem Redaktionsplan markiert werden, die in der [Checkbox-Spalte]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}}) als erledigt markiert sind. Hierfür wurde die **Spalte "Published"** ausgewählt, die Bedingung **"ist"** verwendet und festgelegt, dass die **mit einem Haken versehenen** Zeilen markiert werden sollen.
 
 ![Farbliche Markierung von Zeilen](images/Farbliche-Markierung-von-Zellen-9.png)
 

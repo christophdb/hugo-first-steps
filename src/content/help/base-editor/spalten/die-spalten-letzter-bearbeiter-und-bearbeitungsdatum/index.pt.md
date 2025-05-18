@@ -10,7 +10,7 @@ url: '/pt/ajuda/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 
 As colunas Last Edited ( **Última** edição) e **Edited Date (Data de edição** ) são exclusivamente preenchidas **automaticamente** pelo SeaTable e são, portanto, tipos de colunas especiais. Revelam-se extremamente úteis se pretender registar **quando** e **por quem** uma entrada foi **editada pela última vez**.
 
-Uma vez que as duas colunas registam automaticamente as alterações às entradas, elas são bem adequadas, por exemplo, como gatilhos para [automatismos](https://seatable.io/pt/docs/arbeiten-mit-automationen/anlegen-einer-automation/), bem como para [filtros](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) e [triagem](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/).
+Uma vez que as duas colunas registam automaticamente as alterações às entradas, elas são bem adequadas, por exemplo, como gatilhos para [automatismos]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) e [triagem]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}).
 
 ## As colunas Último editor e Data de edição
 

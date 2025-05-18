@@ -30,7 +30,7 @@ Das Timeline-Plugin bildet **Zeitspannen** ab. Deshalb benötigen Sie für diese
 
 ## Auswirkung von Gruppierung und Sortierung
 
-Da das Timeline-Plugin auf den Ansichten der Tabelle basiert, wirken sich [Sortierung](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) und [Gruppierung](https://seatable.io/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/) von Einträgen auch auf die Darstellung in der Timeline aus. Bei gruppierten Ansichten haben Sie die Möglichkeit, die Daten in einem Schwimmbahn-Diagramm anzeigen zu lassen, indem Sie den Regler **Display as swimlane mode** aktivieren.
+Da das Timeline-Plugin auf den Ansichten der Tabelle basiert, wirken sich [Sortierung]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) von Einträgen auch auf die Darstellung in der Timeline aus. Bei gruppierten Ansichten haben Sie die Möglichkeit, die Daten in einem Schwimmbahn-Diagramm anzeigen zu lassen, indem Sie den Regler **Display as swimlane mode** aktivieren.
 
 ![Timeline-Plugin Gruppierung](images/timeline-plugingroup-3.gif)
 

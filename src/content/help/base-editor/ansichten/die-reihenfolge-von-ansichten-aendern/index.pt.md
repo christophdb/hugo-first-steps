@@ -35,7 +35,7 @@ Não. A ordem das opiniões é a mesma para todos os utilizadores de uma base.
 
 As opiniões também podem ser agrupadas?|||
 
-Claro que sim. As vistas podem ser facilmente organizadas em [pastas](https://seatable.io/pt/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren).
+Claro que sim. As vistas podem ser facilmente organizadas em [pastas]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
 
 ---
 

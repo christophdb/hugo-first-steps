@@ -43,7 +43,7 @@ Pode restaurar filtros que tenha criado. **eliminar**clicando no **símbolo x** 
 
 ## Aplicar vários filtros
 
-Pode criar um ou mais filtros que restringem ainda mais a primeira condição. Leia mais sobre isto no artigo [Ligar as regras de filtragem com AND e OR](https://seatable.io/pt/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/).
+Pode criar um ou mais filtros que restringem ainda mais a primeira condição. Leia mais sobre isto no artigo [Ligar as regras de filtragem com AND e OR]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}).
 
 ## Filtros de rearranjo
 

@@ -36,7 +36,7 @@ Vous pouvez supprimer la règle de regroupement en cliquant sur l'icône en form
 
 ### Comportement de regroupement par type de colonne
 
-SeaTable prend en charge les regroupements sur tous les [types de colonnes](https://seatable.io/fr/docs/handbuch/datenmanagement/feld-typen/), à l'exception des colonnes de type texte formaté, fichier et image, ainsi que de l'URL, du dernier modificateur et du numéro automatique.
+SeaTable prend en charge les regroupements sur tous les [types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), à l'exception des colonnes de type texte formaté, fichier et image, ainsi que de l'URL, du dernier modificateur et du numéro automatique.
 
 Toutes les lignes avec des cellules vides dans la colonne de regroupement - indépendamment du sens de tri - sont regroupées à la fin dans un regroupement séparé (Empty).
 
@@ -62,7 +62,7 @@ Vous supprimez une règle en cliquant sur l'icône en forme de croix à gauche d
 
 ### Comportement de tri par type de colonne
 
-SeaTable prend en charge les tris sur tous les [types de colonnes](https://seatable.io/fr/docs/handbuch/datenmanagement/feld-typen/), à l'exception des colonnes de type texte formaté, fichier et image, URL ainsi que lien, créateur et dernier modificateur.
+SeaTable prend en charge les tris sur tous les [types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), à l'exception des colonnes de type texte formaté, fichier et image, URL ainsi que lien, créateur et dernier modificateur.
 
 Le tri s'effectue dans les colonnes pouvant être triées selon les critères suivants :
 
@@ -100,7 +100,7 @@ Pour adapter les règles de filtrage définies, cliquez à nouveau sur _Filtrer_
 
 ### Comportement du filtre selon le type de colonne
 
-SeaTable prend en charge les filtrages sur tous les [types de colonnes](https://seatable.io/fr/docs/handbuch/datenmanagement/feld-typen/), à l'exception des colonnes de type texte formaté, fichier et image et URL.
+SeaTable prend en charge les filtrages sur tous les [types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), à l'exception des colonnes de type texte formaté, fichier et image et URL.
 
 Selon le type de colonne, l'assistant de filtrage affiche différents critères de filtrage. Pour les différents types de colonnes, il s'agit de
 

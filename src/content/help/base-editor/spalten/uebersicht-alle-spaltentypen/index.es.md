@@ -112,9 +112,9 @@ Las columnas URL interpretan la información introducida como un **recurso** en 
 
 Símbolo: {{< seatable-icon icon="dtable-icon-check-square-solid" >}} **Casilla de verificación**
 
-Las casillas de verificación permiten recoger **información binaria**: Sí o No o marca _activada_ frente a _marca no activada_. No es posible introducir más datos. Por lo tanto, son muy adecuadas para marcar tareas como completadas, por ejemplo, es decir, para llevar un registro de si las filas cumplen una determinada condición de sí/no. Por esta razón, también puede hacer un uso excelente de las columnas de casillas de verificación para [filtrar](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [ordenar](https://seatable.io/es/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) o [agrupar](https://seatable.io/es/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/).
+Las casillas de verificación permiten recoger **información binaria**: Sí o No o marca _activada_ frente a _marca no activada_. No es posible introducir más datos. Por lo tanto, son muy adecuadas para marcar tareas como completadas, por ejemplo, es decir, para llevar un registro de si las filas cumplen una determinada condición de sí/no. Por esta razón, también puede hacer un uso excelente de las columnas de casillas de verificación para [filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) o [agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).
 
-[Más información sobre la columna de casillas de verificación](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-checkbox-spalte/)
+[Más información sobre la columna de casillas de verificación]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}})
 
 ### Clasificación
 
@@ -122,7 +122,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-rate" >}} **Clasificación**
 
 Una columna de valoración le permite **clasificar** sus registros para darles un **rango** o **puntuación de calidad**. Puede seleccionar una escala de valoración del 1 al 10 y elegir entre diferentes colores y formas. Esto permite evaluar y puntuar los datos de forma rápida y sencilla para que todo el mundo lo entienda.
 
-[Más información sobre la columna de calificación](https://seatable.io/es/docs/auswahlspalten/die-rating-spalte/)
+[Más información sobre la columna de calificación]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 
 ### Fórmula
 
@@ -222,4 +222,4 @@ Símbolo: {{< seatable-icon icon="dtable-icon-autonumber" >}} **Número automát
 
 El tipo de columna Número automático crea un **número que aumenta automáticamente** para cada nueva fila. Este tipo de columna se utiliza siempre que se necesite un identificador único para cada registro.
 
-[Más información sobre la columna Número automático](https://seatable.io/es/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/).
+[Más información sobre la columna Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}).

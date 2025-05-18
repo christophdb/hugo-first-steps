@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/anlegen-einer-checkbox-spalte'
 ---
 
-En SeaTable, tiene la opción de añadir **columnas de casillas de** verificación a sus tablas. Son ideales para marcar tareas como completadas, por ejemplo, es decir, para tener una visión general de si las filas cumplen una determinada **condición de sí/no**. Por lo tanto, puede hacer un uso excelente de las columnas de casillas de verificación para [filtrar](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [ordenar](https://seatable.io/es/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) o [agrupar](https://seatable.io/es/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/).
+En SeaTable, tiene la opción de añadir **columnas de casillas de** verificación a sus tablas. Son ideales para marcar tareas como completadas, por ejemplo, es decir, para tener una visión general de si las filas cumplen una determinada **condición de sí/no**. Por lo tanto, puede hacer un uso excelente de las columnas de casillas de verificación para [filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) o [agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).
 
 ## Crear una columna de casillas de verificación
 

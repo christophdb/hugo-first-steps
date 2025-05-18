@@ -12,7 +12,7 @@ url: '/ru/help/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 С помощью идентификатора пользователя можно устанавливать **динамические фильтры** в SeaTable, которые в определенных ситуациях подходят лучше, чем фильтр по [колонке создателя]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). В этой статье мы представляем преимущества и недостатки фильтров с идентификатором пользователя.
 
-Если вы хотите узнать, как изменить идентификатор пользователя члена команды, [вы найдете ответ в этой справочной статье](https://seatable.io/ru/docs/teamverwaltung-abonnement/aenderung-der-id-des-users-in-der-teamverwaltung/).
+Если вы хотите узнать, как изменить идентификатор пользователя члена команды, [вы найдете ответ в этой справочной статье]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
 {{< warning  headline="Типичное использование идентификатора пользователя"  text="Идентификатор пользователя устанавливается **администратором команды** для **ее** членов и обычно подчиняется определенной логике. В компаниях в качестве идентификатора пользователя часто используется индивидуальный **номер сотрудника или персонала**." />}}
 
@@ -61,7 +61,7 @@ url: '/ru/help/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 ![Последующее изменение идентификатора пользователя и последующее удаление записи из таблицы сотрудника](images/record-gets-deleted-after-user-ID-was-changed.gif)
 
-Если задача должна отображаться не только пользователю с соответствующим ID, но и создателю строки, можно установить **два правила фильтрации** со [ссылкой "или-или"](https://seatable.io/ru/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/).
+Если задача должна отображаться не только пользователю с соответствующим ID, но и создателю строки, можно установить **два правила фильтрации** со [ссылкой "или-или"]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}).
 
 ![Альтернатива: Фильтр по колонке "Создатель](images/filter-creator.png)
 

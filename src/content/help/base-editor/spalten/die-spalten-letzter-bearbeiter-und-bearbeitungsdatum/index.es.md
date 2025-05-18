@@ -10,7 +10,7 @@ url: '/es/ayuda/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 
 Las columnas **Último editor** y **Fecha de** edición sólo son rellenadas **automáticamente** por SeaTable y por lo tanto son tipos de columnas especiales. Son muy útiles si desea saber **cuándo** y **quién** **editó por última vez** una entrada.
 
-Como las dos columnas registran automáticamente los cambios en las entradas, son muy adecuadas como desencadenantes de [automatizaciones](https://seatable.io/es/docs/arbeiten-mit-automationen/anlegen-einer-automation/), [filtros](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) y [ordenaciones](https://seatable.io/es/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), por ejemplo.
+Como las dos columnas registran automáticamente los cambios en las entradas, son muy adecuadas como desencadenantes de [automatizaciones]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) y [ordenaciones]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}), por ejemplo.
 
 ## Las columnas Último editor y Fecha de edición
 

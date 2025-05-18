@@ -51,7 +51,7 @@ L'option **Utiliser des règles** vous permet de définir des conditions pour le
 
 ### Utiliser un exemple de règle
 
-Dans cet exemple, toutes les lignes d'un plan de rédaction qui sont cochées comme étant terminées dans la [colonne des cases à cocher](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) doivent être marquées. Pour cela, la **colonne "Published"** a été sélectionnée, la condition **"est"** a été utilisée et il a été défini que les lignes marquées **d'une coche** doivent être sélectionnées.
+Dans cet exemple, toutes les lignes d'un plan de rédaction qui sont cochées comme étant terminées dans la [colonne des cases à cocher]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}}) doivent être marquées. Pour cela, la **colonne "Published"** a été sélectionnée, la condition **"est"** a été utilisée et il a été défini que les lignes marquées **d'une coche** doivent être sélectionnées.
 
 ![Marquage des lignes en couleur](images/Farbliche-Markierung-von-Zellen-9.png)
 

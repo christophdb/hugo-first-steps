@@ -21,7 +21,7 @@ En plus de l'option **Colorer les cellules**, il est également possible de [mar
 Chaque colonne offre l'option **Formater les cellules de la colonne** à :  
 ![Coloration de cellules dans SeaTable](images/color-cells.png)
 
-SeaTable se comportera différemment selon le **type de colonne** pour lequel vous appelez cette option. Pour les [colonnes de chiffres](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/), vous pouvez utiliser à la fois les règles et les valeurs de coloration. Pour tous les autres types de colonnes, vous ne pouvez utiliser que les règles de coloration.
+SeaTable se comportera différemment selon le **type de colonne** pour lequel vous appelez cette option. Pour les [colonnes de chiffres]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), vous pouvez utiliser à la fois les règles et les valeurs de coloration. Pour tous les autres types de colonnes, vous ne pouvez utiliser que les règles de coloration.
 
 ![Coloration avec des règles ou selon des valeurs](images/color-cells-rules-values.png)
 

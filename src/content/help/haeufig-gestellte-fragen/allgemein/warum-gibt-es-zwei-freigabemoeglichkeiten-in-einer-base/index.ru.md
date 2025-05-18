@@ -35,8 +35,8 @@ url: '/ru/help/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 
 Если вы хотите поделиться только одним видом, обмен может быть осуществлен с тремя группами людей:
 
-- [Освобождение члена команды](https://seatable.io/ru/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Освобождение члена команды]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Освобождение для группы](https://seatable.io/ru/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Релиз по внешней ссылке](https://seatable.io/ru/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Релиз по внешней ссылке]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Для получения дополнительной информации см. также статью [Base and view releases]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) at a glance.

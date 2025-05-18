@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/drucken-von-zeilendetails'
 ---
 
-Vous avez la possibilité d'imprimer **les détails des lignes** de la même manière que [les vues de tableau](https://seatable.io/fr/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/). Contrairement à l'affichage sous forme de tableau, les détails de ligne listent les colonnes les unes sous les autres (au lieu de les juxtaposer) et offrent ainsi une ventilation plus claire des données saisies pour une ligne.
+Vous avez la possibilité d'imprimer **les détails des lignes** de la même manière que [les vues de tableau]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}). Contrairement à l'affichage sous forme de tableau, les détails de ligne listent les colonnes les unes sous les autres (au lieu de les juxtaposer) et offrent ainsi une ventilation plus claire des données saisies pour une ligne.
 
 ## Comment imprimer des lignes
 

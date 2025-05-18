@@ -30,7 +30,7 @@ O plug-in da linha do tempo mostra **os períodos de tempo**. Por conseguinte, p
 
 ## Efeito de agrupamento e classificação
 
-Uma vez que o plug-in da linha temporal se baseia nas vistas da tabela, a [ordenação](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) e [agrupamento das](https://seatable.io/pt/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/) entradas também afectam a visualização na linha temporal. Para vistas agrupadas, tem a opção de exibir os dados num diagrama de **faixa de rodagem** activando o **Mostrador como** selector de **modo de faixa de rodagem**.
+Uma vez que o plug-in da linha temporal se baseia nas vistas da tabela, a [ordenação]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) entradas também afectam a visualização na linha temporal. Para vistas agrupadas, tem a opção de exibir os dados num diagrama de **faixa de rodagem** activando o **Mostrador como** selector de **modo de faixa de rodagem**.
 
 ![Agrupamento de Plugin da Linha do Tempo](images/timeline-plugingroup-3.gif)
 

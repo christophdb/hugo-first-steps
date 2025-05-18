@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/die-mehrfachauswahl-spalte'
 ---
 
-Eine Mehrfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen in einer Spalte **mehrere Optionen** aus einer zu definierenden Liste von Optionen zuweisen möchten. Die Optionen erhalten bunte Labels, mit denen Sie Ihre Datensätze versehen und Tabellen übersichtlich gestalten können, z. B. indem Sie nach bestimmten Optionen [filtern](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/).
+Eine Mehrfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen in einer Spalte **mehrere Optionen** aus einer zu definierenden Liste von Optionen zuweisen möchten. Die Optionen erhalten bunte Labels, mit denen Sie Ihre Datensätze versehen und Tabellen übersichtlich gestalten können, z. B. indem Sie nach bestimmten Optionen [filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}).
 
 ![Beispiel-Tabelle mit einer Mehrfachauswahl-Spalte](images/example-table-multiple-select.png)
 

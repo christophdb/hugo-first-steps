@@ -30,7 +30,7 @@ El complemento de la línea de tiempo muestra **intervalos de tiempo**. Por lo t
 
 ## Efecto de la agrupación y la clasificación
 
-Dado que el complemento de la línea de tiempo se basa en las vistas de la tabla, la [ordenación](https://seatable.io/es/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) y [agrupación de](https://seatable.io/es/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren/) las entradas también afectan a la visualización en la línea de tiempo. Para las vistas agrupadas, tiene la opción de mostrar los datos en un diagrama de **línea de n** ado activando el control deslizante **Mostrar como modo de línea de nado**.
+Dado que el complemento de la línea de tiempo se basa en las vistas de la tabla, la [ordenación]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) las entradas también afectan a la visualización en la línea de tiempo. Para las vistas agrupadas, tiene la opción de mostrar los datos en un diagrama de **línea de n** ado activando el control deslizante **Mostrar como modo de línea de nado**.
 
 ![Agrupación de plugins de línea de tiempo](images/timeline-plugingroup-3.gif)
 

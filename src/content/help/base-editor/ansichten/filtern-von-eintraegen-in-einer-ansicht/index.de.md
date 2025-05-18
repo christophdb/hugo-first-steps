@@ -39,7 +39,7 @@ Sie können erstellte Filter wieder **löschen**, indem Sie auf das **x-Symbol**
 
 ## Mehrere Filter anwenden
 
-Sie können einen oder mehrere Filter erstellen, welche die erste Bedingung weiter einschränken. Lesen Sie im Artikel [Filter-Regeln mit UND und ODER verknüpfen](https://seatable.io/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/) mehr darüber.
+Sie können einen oder mehrere Filter erstellen, welche die erste Bedingung weiter einschränken. Lesen Sie im Artikel [Filter-Regeln mit UND und ODER verknüpfen]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}) mehr darüber.
 
 ## Filter neu anordnen
 

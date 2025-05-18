@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/filter-regeln-mit-und-und-oder-verknuepfen'
 ---
 
-Lorsque vous [filtrez des entrées dans une vue](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), vous pouvez également créer **plusieurs règles de filtrage** afin d'affiner les conditions et de limiter davantage les entrées qui s'appliquent. On fait ici la distinction entre la **combinaison "Et"** et la **combinaison "Ou"**. Les **groupes de filtres** permettent également de combiner les combinaisons logiques "Et" et "Ou".
+Lorsque vous [filtrez des entrées dans une vue]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), vous pouvez également créer **plusieurs règles de filtrage** afin d'affiner les conditions et de limiter davantage les entrées qui s'appliquent. On fait ici la distinction entre la **combinaison "Et"** et la **combinaison "Ou"**. Les **groupes de filtres** permettent également de combiner les combinaisons logiques "Et" et "Ou".
 
 ## Pourquoi les règles de filtrage vous facilitent la tâche
 

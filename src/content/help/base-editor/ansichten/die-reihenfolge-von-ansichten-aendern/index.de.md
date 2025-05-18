@@ -37,7 +37,7 @@ Können Ansichten auch gruppiert werden?
 
 |||
 
-Natürlich. Ansichten lassen sich ganz einfach in [Ordnern](https://seatable.io/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren) organisieren.
+Natürlich. Ansichten lassen sich ganz einfach in [Ordnern]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) organisieren.
 
 ---
 

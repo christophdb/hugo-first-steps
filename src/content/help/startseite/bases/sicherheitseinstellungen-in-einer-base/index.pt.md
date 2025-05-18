@@ -38,7 +38,7 @@ Se esta definição estiver **activada**, a base em questão deixa de poder ser 
 
 ### Impedir a impressão de uma base
 
-Ao activar esta definição, pode **impedir que** outros utilizadores possam [imprimir](https://seatable.io/pt/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) as várias visualizações de tabela da sua Base.
+Ao activar esta definição, pode **impedir que** outros utilizadores possam [imprimir]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) as várias visualizações de tabela da sua Base.
 
 Se esta definição estiver **activada**, as várias vistas de tabela da base afectada deixam de poder ser impressas por **qualquer pessoa** até que a definição seja novamente desactivada por um proprietário ou administrador. A opção correspondente para impressão nas opções de visualização é apresentada a **cinzento para** todos os utilizadores e já **não** pode ser clicada. Além disso, uma **nota** indica que os utilizadores **não** têm permissão para imprimir as vistas de tabela.
 
@@ -72,7 +72,7 @@ Ao ativar esta definição, pode **impedir que** os utilizadores a quem a [base]
 
 ### Impedir a impressão de uma base
 
-Ao activar esta definição, pode **impedir que** os utilizadores a quem a [base](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondente [é libertada](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) possam [imprimir](https://seatable.io/pt/docs/grundlagen-von-ansichten/das-drucken-einer-ansicht/) as várias vistas de tabela da base.
+Ao activar esta definição, pode **impedir que** os utilizadores a quem a [base]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) as várias vistas de tabela da base.
 
 ### Impedir a cópia de uma base para outro grupo
 

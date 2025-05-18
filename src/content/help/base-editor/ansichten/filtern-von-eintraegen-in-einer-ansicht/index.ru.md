@@ -43,7 +43,7 @@ url: '/ru/help/filtern-von-eintraegen-in-einer-ansicht'
 
 ## Применение нескольких фильтров
 
-Вы можете создать один или несколько фильтров, которые дополнительно ограничивают первое условие. Подробнее об этом читайте в статье [Связывание правил фильтрации с помощью AND и OR](https://seatable.io/ru/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/).
+Вы можете создать один или несколько фильтров, которые дополнительно ограничивают первое условие. Подробнее об этом читайте в статье [Связывание правил фильтрации с помощью AND и OR]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}).
 
 ## Перестановка фильтров
 

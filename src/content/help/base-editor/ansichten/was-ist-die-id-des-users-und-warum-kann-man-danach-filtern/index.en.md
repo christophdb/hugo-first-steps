@@ -12,7 +12,7 @@ The ID of the user is best described as a **personal identification number**. Th
 
 With the help of User ID you can set **dynamic filters** in SeaTable, which in certain situations is more suitable than filtering by the [creator column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). In this article we will present you the advantages and disadvantages of filters with User ID.
 
-If you want to know how to change the user ID of a team member, [you can find the answer in this help article](https://seatable.io/en/docs/teamverwaltung-abonnement/aenderung-der-id-des-users-in-der-teamverwaltung/).
+If you want to know how to change the user ID of a team member, [you can find the answer in this help article]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
 {{< warning  headline="Typical use of the User ID"  text="The ID of the user is set by the **team administrator** for the members and typically follows a certain logic. In companies, the individual **employee or personnel number** is often used as the ID of the user." />}}
 
@@ -61,7 +61,7 @@ If you assign the open task _"plan next meeting"_ of _Markus_ to another employe
 
 ![Subsequent change of the user ID and consequent removal of the entry from the employee's table.](images/record-gets-deleted-after-user-ID-was-changed.gif)
 
-If you want the task to be displayed not only to the user with the corresponding ID, but also to the creator of row , you can set **two filter rules** with an [either-or link](https://seatable.io/en/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/).
+If you want the task to be displayed not only to the user with the corresponding ID, but also to the creator of row , you can set **two filter rules** with an [either-or link]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}).
 
 ![The alternative: the filter by the Creator column](images/filter-creator.png)
 

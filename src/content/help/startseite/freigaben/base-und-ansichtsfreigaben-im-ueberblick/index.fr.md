@@ -66,9 +66,9 @@ Vous créez le partage d'une vue dans le tableau ouvert. Lorsque vous vous trouv
 
 Vous arrivez ensuite dans la **boîte de dialogue de partage** bien connue, dans laquelle vous pouvez également créer vos partages de vues, comme pour les bases. Le partage d'une vue peut être effectué avec trois cercles de personnes :
 
-- [Partage avec un membre de l'équipe](https://seatable.io/fr/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/)
+- [Partage avec un membre de l'équipe]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
 - [Partage avec un groupe](https://seatable.io/fr/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
-- [Partage via un lien externe](https://seatable.io/fr/docs/ansichtsfreigaben/externen-link-fuer-eine-ansicht-erstellen/)
+- [Partage via un lien externe]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Dès que vous cliquez sur le bouton **Envoyer** pour une option de partage, la personne ou le groupe sélectionné peut accéder à la vue avec l'autorisation accordée. Pour partager une vue avec plusieurs utilisateurs ou groupes, répétez cette procédure.
 

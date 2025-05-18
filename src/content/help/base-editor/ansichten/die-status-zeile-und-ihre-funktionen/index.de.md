@@ -17,7 +17,7 @@ Dank der Status-Zeile haben Sie diese **statistischen Basiswerte** immer im Blic
 
 ## Zählen der Zeilen in einer Ansicht
 
-Die Status-Zeile gibt am unteren linken Rand die Anzahl aller **Zeilen** an, die sich in der aktuell geöffneten **Tabellenansicht** befinden. Wenn Sie [in einer Ansicht filtern](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), zählt die Status-Zeile nur die verbliebenen Tabelleneinträge.
+Die Status-Zeile gibt am unteren linken Rand die Anzahl aller **Zeilen** an, die sich in der aktuell geöffneten **Tabellenansicht** befinden. Wenn Sie [in einer Ansicht filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), zählt die Status-Zeile nur die verbliebenen Tabelleneinträge.
 
 ![Die Status-Zeile gibt stets die Anzahl der Zeilen in der aktuell geöffneten Tabellenansicht an](images/status-cell-function-1.jpg)
 
@@ -46,17 +46,17 @@ Für zahlenbasierte Spalten stehen in der Status-Zeile folgende **Berechnungsopt
 
 Bei den folgenden Spaltentypen gibt die Status-Zeile einen berechneten Wert wieder:
 
-- [Zahlen-Spalten](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Zahlen-Spalten]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
     - Zahl
     - Prozent
     - Währung
-- [Dauer-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
-- [Rating-Spalten](https://seatable.io/docs/auswahlspalten/die-rating-spalte/)
+- [Dauer-Spalten]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}})
+- [Rating-Spalten]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
 - Zahlenwerte in [Formel-Spalten]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Bei den folgenden Spaltentypen gibt die Status-Zeile **keinen** berechneten Wert wieder, obwohl sie Zahlen enthalten (können):
 
-- [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Erstellt]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Zahlen in [Text-Spalten]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

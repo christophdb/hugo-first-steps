@@ -115,4 +115,4 @@ Take enough time to explore the base in detail. If you are still unfamiliar with
 - [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Basics of SeaTable formulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 - [Color marking of rows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
-- [Lock Views](https://seatable.io/en/docs/ansichtsoptionen/ansicht-sperren/)
+- [Lock Views]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

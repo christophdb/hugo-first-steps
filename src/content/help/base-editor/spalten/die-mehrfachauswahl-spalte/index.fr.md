@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/die-mehrfachauswahl-spalte'
 ---
 
-Une colonne de choix multiples est idéale si vous souhaitez attribuer à vos lignes d'une colonne **plusieurs options** parmi une liste d'options à définir. Les options reçoivent des étiquettes colorées qui vous permettent d'étiqueter vos enregistrements et de rendre vos tableaux plus clairs, par exemple en [filtrant](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) sur des options spécifiques.
+Une colonne de choix multiples est idéale si vous souhaitez attribuer à vos lignes d'une colonne **plusieurs options** parmi une liste d'options à définir. Les options reçoivent des étiquettes colorées qui vous permettent d'étiqueter vos enregistrements et de rendre vos tableaux plus clairs, par exemple en [filtrant]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) sur des options spécifiques.
 
 ![Exemple de tableau avec une colonne à choix multiples](images/example-table-multiple-select.png)
 

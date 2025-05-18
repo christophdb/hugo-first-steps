@@ -12,7 +12,7 @@ url: '/pt/ajuda/freigabe-einer-ansicht-an-eine-gruppe'
 
 Para permitir uma colaboração óptima, pode **partilhar** **opiniões de** tabelas não só com utilizadores individuais mas também **com grupos inteiros**. Ao partilhar, pode decidir se os membros do grupo só podem **ler** a visão partilhada ou também **editá-la**.
 
-Para explicações detalhadas sobre a partilha de opiniões, ver o artigo [Partilhando uma Opinião com um Membro da Equipa](https://seatable.io/pt/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-ein-teammitglied/).
+Para explicações detalhadas sobre a partilha de opiniões, ver o artigo [Partilhando uma Opinião com um Membro da Equipa]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}).
 
 ## Partilhar um ponto de vista com um grupo
 

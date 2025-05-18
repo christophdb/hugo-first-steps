@@ -35,7 +35,7 @@ Non. L'ordre des vues est le même pour tous les utilisateurs d'une base.
 
 Les vues peuvent-elles aussi être regroupées ?|||
 
-Bien sûr que oui. Les vues peuvent être facilement organisées en [dossiers](https://seatable.io/fr/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren).
+Bien sûr que oui. Les vues peuvent être facilement organisées en [dossiers]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
 
 ---
 

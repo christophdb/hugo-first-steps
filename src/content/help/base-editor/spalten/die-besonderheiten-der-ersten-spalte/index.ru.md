@@ -33,10 +33,10 @@ url: '/ru/help/die-besonderheiten-der-ersten-spalte'
 Для **первой колонки** можно выбрать только **шесть типов колонок**:
 
 - [Текст]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Номер](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/)
+- [Номер]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
 - [Дата]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Одиночный выбор]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Автоматический номер](https://seatable.io/ru/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
+- [Автоматический номер]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Формулы в первом столбце
@@ -63,6 +63,6 @@ url: '/ru/help/die-besonderheiten-der-ersten-spalte'
 
 Что такое автоматический номер?|||
 
-Если вы хотите, чтобы ваши строки имели **уникальный идентификационный номер**, вам подойдет тип столбца " [Автоматический номер](https://seatable.io/ru/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) ". В качестве примера можно привести номера счетов, тестовых случаев или идентификаторы сотрудников. Номер также может быть дополнен любым префиксом.
+Если вы хотите, чтобы ваши строки имели **уникальный идентификационный номер**, вам подойдет тип столбца " [Автоматический номер]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) ". В качестве примера можно привести номера счетов, тестовых случаев или идентификаторы сотрудников. Номер также может быть дополнен любым префиксом.
 
 {{< /faq >}}

@@ -42,6 +42,6 @@ Estão actualmente disponíveis as seguintes operações:
 
 Existem **diferentes requisitos para a** criação de uma operação de processamento de dados, dependendo da operação.
 
-Para cálculos matemáticos, ou seja, para as operações **Calcular Valores Cumulados**, Calcular **Classificação**, Calcular **Alterações** e Calcular **Percentagem**, são necessárias pelo menos **duas** [colunas de números](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/) na vista da tabela seleccionada. Normalmente, a **coluna de origem** já existe e é preenchida com dados, enquanto que a **coluna de resultados** é criada e preenchida com valores através da operação.
+Para cálculos matemáticos, ou seja, para as operações **Calcular Valores Cumulados**, Calcular **Classificação**, Calcular **Alterações** e Calcular **Percentagem**, são necessárias pelo menos **duas** [colunas de números]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) na vista da tabela seleccionada. Normalmente, a **coluna de origem** já existe e é preenchida com dados, enquanto que a **coluna de resultados** é criada e preenchida com valores através da operação.
 
 Para as outras operações, é necessário em parte [ligar colunas]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})**(comparar e ligar** & **comparar e copiar**) ou [colunas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})**(transferir nome de utilizador**).

@@ -12,7 +12,7 @@ O ID de utilizador é melhor descrito como um **número de identificação pesso
 
 Com a ajuda do ID do utilizador, é possível definir **filtros dinâmicos** no SeaTable, que em determinadas situações são mais adequados do que um filtro de acordo com a [coluna do criador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). Neste artigo, apresentamos as vantagens e desvantagens dos filtros com o ID do utilizador.
 
-Se quiser saber como alterar o ID de utilizador de um membro da equipa, [encontrará a resposta neste artigo de ajuda](https://seatable.io/pt/docs/teamverwaltung-abonnement/aenderung-der-id-des-users-in-der-teamverwaltung/).
+Se quiser saber como alterar o ID de utilizador de um membro da equipa, [encontrará a resposta neste artigo de ajuda]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
 {{< warning  headline="Utilização típica do ID de utilizador"  text="O ID de utilizador é definido pelo **administrador da equipa** para os membros e, normalmente, segue uma determinada lógica. Nas empresas, o **número** individual do **empregado ou do pessoal** é frequentemente utilizado como ID de utilizador." />}}
 
@@ -61,7 +61,7 @@ Se atribuir a tarefa aberta _"planear a próxima reunião"_ de _Markus_ a outro 
 
 ![Alteração subsequente do ID do utilizador e consequente remoção da entrada da tabela do empregado](images/record-gets-deleted-after-user-ID-was-changed.gif)
 
-Se a tarefa tiver de ser apresentada não só ao utilizador com o ID correspondente, mas também ao criador da linha, é possível definir **duas regras de** filtragem com uma [ligação ou-ou](https://seatable.io/pt/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/).
+Se a tarefa tiver de ser apresentada não só ao utilizador com o ID correspondente, mas também ao criador da linha, é possível definir **duas regras de** filtragem com uma [ligação ou-ou]({{< relref "help/base-editor/ansichten/filter-regeln-mit-und-und-oder-verknuepfen" >}}).
 
 ![A alternativa: O filtro de acordo com a coluna Criador](images/filter-creator.png)
 

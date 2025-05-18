@@ -25,7 +25,11 @@ Wenn Sie lediglich **einzelne Spalten** Ihrer Tabelle für die Bearbeitung sperr
    ![Sperren des Tabellenkopfes](images/lock-the-table-head.jpg)4. Wird das Schloss anschließend **rot** angezeigt, haben Sie den Tabellenkopf erfolgreich gesperrt.
    ![Schloss-Symbol bei erfolgreich gesperrtem Tabellenkopf](images/locked-table-head.jpg)
 
-{{< warning headline="Wichtiger Hinweis" text="Verwechseln Sie diese Funktion nicht mit dem **Schloss-Symbol in den Ansichts-Optionen**, mit dem Sie die Einstellungen einer [Tabellenansicht sperren](https://seatable.io/docs/ansichtsoptionen/ansicht-sperren/) können." />}}
+{{< warning headline="Wichtiger Hinweis" >}}
+
+Verwechseln Sie diese Funktion nicht mit dem **Schloss-Symbol in den Ansichts-Optionen**, mit dem Sie die Einstellungen einer [Tabellenansicht sperren]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}}) können.
+
+{{< /warning >}}
 
 ![Schloss-Symbol](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)
 

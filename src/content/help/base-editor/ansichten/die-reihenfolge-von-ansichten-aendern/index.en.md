@@ -35,7 +35,7 @@ No. The order of views is the same for all users of a base.
 
 Can views also be grouped?|||
 
-Of course. Views can be easily organized into [folders](https://seatable.io/en/docs/grundlagen-von-ansichten/ansichten-in-ordnern-gruppieren).
+Of course. Views can be easily organized into [folders]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
 
 ---
 

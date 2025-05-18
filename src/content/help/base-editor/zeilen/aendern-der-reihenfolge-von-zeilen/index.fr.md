@@ -24,4 +24,8 @@ Vous pouvez également déplacer **plusieurs lignes** en même temps. Pour ce fa
 
 ![Déplacer des lignes en même temps](images/Zeilen-gleichzeitig-verschieben-1.gif)
 
-{{< warning  headline="Attention"  text="Si un [tri](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) (croissant/décroissant) agit dans une colonne, vous pouvez certes déplacer les entrées, mais l'ordre sera immédiatement corrigé." />}}
+{{< warning  headline="Attention" >}}
+
+Si un [tri]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) (croissant/décroissant) agit dans une colonne, vous pouvez certes déplacer les entrées, mais l'ordre sera immédiatement corrigé.
+
+{{< /warning >}}
