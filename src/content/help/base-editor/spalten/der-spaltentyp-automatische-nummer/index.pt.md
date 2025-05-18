@@ -14,7 +14,7 @@ Note-se que esta coluna _não_ se destina a contar o número de registos de uma 
 
 Para **renumerar** os seus registos (por exemplo, para eliminar lacunas), pode apagar a coluna _Número Automático_ e recriá-la, ou alterar o tipo de coluna e depois convertê-la novamente para _Número Automático_.
 
-![Linhas com um número automático](https://seatable.io/wp-content/uploads/2023/01/auto-number.gif)
+![Linhas com um número automático](images/auto-number.gif)
 
 ## Estão disponíveis três formatos
 

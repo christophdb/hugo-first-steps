@@ -14,7 +14,7 @@ For the acquisition of **files** and **images**, SeaTable provides you with the 
 
 The **Image** column type stores any number of **image files** in **BMP, GIF, ICO, JPG, PNG, SVG and TIF** file formats. The Image column is thus a file column restricted to image file formats and offers a **preview** in the form of a thumbnail image.
 
-![Image preview in the image column of SeaTable](https://seatable.io/wp-content/uploads/2022/10/picture-preview-seatable.png)
+![Image preview in the image column of SeaTable](images/picture-preview-seatable.png)
 
 ## File column
 

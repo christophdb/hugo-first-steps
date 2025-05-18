@@ -31,4 +31,4 @@ Si vous souhaitez uniquement bloquer l'édition de **certaines colonnes** de vot
 
 {{< warning  headline="Remarque importante"  text="Ne confondez pas cette fonction avec le **Icône du cadenas dans les options d'affichage**qui vous permet de modifier les paramètres d'une [Verrouiller l'affichage des tableaux](https://seatable.io/fr/docs/ansichtsoptionen/ansicht-sperren/) peuvent." />}}
 
-![Icône de cadenas pour verrouiller les vues dans les options d'affichage](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Icône de cadenas pour verrouiller les vues dans les options d'affichage](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)

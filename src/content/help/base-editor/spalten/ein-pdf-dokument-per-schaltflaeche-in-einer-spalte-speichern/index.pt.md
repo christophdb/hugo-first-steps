@@ -34,11 +34,11 @@ Agora seleccione a **coluna de ficheiro** em que a página deve ser guardada com
 
 Finalmente, **nomeie** os ficheiros PDF que serão adicionados à sua mesa. Utilizar **{nome da coluna}**, ou seja, o nome de uma coluna entre parênteses rectos, para dar ao ficheiro o nome do valor dessa coluna.
 
-![Nomear os ficheiros](https://seatable.io/wp-content/uploads/2023/01/PDF-file-name.png)
+![Nomear os ficheiros](images/PDF-file-name.png)
 
 Depois de clicar no botão, o **ficheiro PDF** seleccionado é adicionado à linha correspondente.
 
-![Desencadear a acção activando o botão](https://seatable.io/wp-content/uploads/2023/01/pdf-example.gif)
+![Desencadear a acção activando o botão](images/pdf-example.gif)
 
 ## Execução condicional de acções de botão
 

@@ -14,11 +14,11 @@ SeaTable können Sie selbstverständlich auch auf **mobilen Geräten** wie Smart
 
 Wenn Sie mit einem mobilen Gerät per Browser auf SeaTable zugreifen, ändert sich die Benutzeroberfläche von SeaTable, um die Bedienung für kleine Bildschirmauflösungen zu optimieren. Die zwei offensichtlichsten Änderungen sind die zwei großen runden Knöpfe am rechten unteren Bildschirmrand.
 
-![Mobile Ansicht in SeaTable](https://seatable.io/wp-content/uploads/2023/05/mobile-view-seatable.png)
+![Mobile Ansicht in SeaTable](images/mobile-view-seatable.png)
 
 Über das {{< key "+" >}} können neue Einträge erzeugt werden und über die {{< key "…" >}} kann man vom bekannten Listenmodus in den Gittermodus wechseln. Bei dieser Darstellung wird jede Zeile als eine eigene Box dargestellt, wodurch sich diese leichter auswählen lässt.
 
-![SeaTable Grid Modus für kleine Auflösungen](https://seatable.io/wp-content/uploads/2023/05/seatable-grid-modus.png)
+![SeaTable Grid Modus für kleine Auflösungen](images/seatable-grid-modus.png)
 
 ## Auswahllisten anstatt kleiner Icons
 

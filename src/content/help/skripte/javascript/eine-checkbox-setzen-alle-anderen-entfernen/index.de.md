@@ -16,7 +16,7 @@ Stellen Sie sich vor, Sie möchten in einer Base immer genau in einer Zeile eine
 
 Mit jedem Klick auf die Schaltfläche wird in dieser Zeile die Checkbox aktiviert und alle anderen werden deaktiviert.
 
-![Set checkbox with JavaScript](https://seatable.io/wp-content/uploads/2023/05/seatable-javascript-set-checkbox.gif)
+![Set checkbox with JavaScript](images/seatable-javascript-set-checkbox.gif)
 
 ## Das komplette Skript
 

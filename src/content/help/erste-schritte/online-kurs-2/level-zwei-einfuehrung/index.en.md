@@ -16,7 +16,7 @@ Welcome to the **SeaTable Online Course Level 2!**
 This course is ideal for you if you:
 
 - want to develop a business process with SeaTable.
-- you would like to delve deeper into the functions of SeaTable after completing the [Level 1 online course](https://seatable.io/en/docs/online-kurs/level-eins-einfuehrung/).
+- you would like to delve deeper into the functions of SeaTable after completing the [Level 1 online course]({{< relref "help/erste-schritte/online-kurs-1/level-eins-einfuehrung" >}}).
 
 ## What will I learn in this online course?
 

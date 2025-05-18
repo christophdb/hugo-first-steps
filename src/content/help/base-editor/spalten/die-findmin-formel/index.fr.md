@@ -16,11 +16,11 @@ La formule Findmin fonctionne uniquement avec **des valeurs numériques**, c'est
 
 La **fonction Findmin** doit être utilisée lorsque vous souhaitez **faire des références croisées** à des valeurs numériques stockées dans différentes tables. Supposons que vous utilisiez SeaTable pour collecter les **heures de travail** de vos employés, une table contenant les employés et une autre l'activité quotidienne. Vous pouvez alors lier chaque enregistrement d'employé aux heures de travail enregistrées.
 
-![Formule findmin](https://seatable.io/wp-content/uploads/2023/02/findmax-1.png)
+![Formule findmin](images/findmax-1.png)
 
 Pour savoir quand un employé s'est connecté pour la première fois, vous pouvez utiliser la **formule Findmin** pour afficher dans une colonne la **plus petite valeur** - dans ce cas, la première connexion - parmi toutes les heures de connexion.
 
-![Formule findmin](https://seatable.io/wp-content/uploads/2023/02/findmin.png)
+![Formule findmin](images/findmin.png)
 
 Vous pouvez utiliser la formule Findmin pour toutes les valeurs numériques afin de représenter la **valeur minimale**.
 
@@ -32,7 +32,7 @@ Consultez l'article [Comment lier des tableaux dans SeaTable]({{< relref "help/b
 
 ### Ajouter une colonne avec la formule Findmin
 
-![Formule findmin](https://seatable.io/wp-content/uploads/2023/02/findmin.gif)
+![Formule findmin](images/findmin.gif)
 
 1. Créez une nouvelle colonne de type **Formule pour les liens**.
 2. Définissez l'option **Findmin** comme formule.

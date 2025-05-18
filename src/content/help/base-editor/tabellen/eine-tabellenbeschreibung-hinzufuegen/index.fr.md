@@ -17,23 +17,23 @@ Vous pouvez ajouter une description à chaque tableau de votre base. Ce texte co
 1. Cliquez sur l'**icône triangulaire déroulante** à côté du nom de n'importe quel tableau.
 2. Sélectionnez l'option **Modifier la description du tableau**.
 
-![Ajouter une description de tableau](https://seatable.io/wp-content/uploads/2023/07/edit-table-description.jpg)
+![Ajouter une description de tableau](images/edit-table-description.jpg)
 
 4. Ajoutez une **description** au tableau.
 5. Confirmez en cliquant sur **Envoyer**.
 
-![Ajouter une description de tableau](https://seatable.io/wp-content/uploads/2023/07/insert-table-description.jpg)
+![Ajouter une description de tableau](images/insert-table-description.jpg)
 
 ## Où trouver la description du tableau
 
 Vous pouvez toujours reconnaître les tableaux avec une **description de tableau** ajoutée grâce à une **icône i** à droite du nom du tableau.
 
-![Tableau avec description du tableau](https://seatable.io/wp-content/uploads/2023/07/table-with-description.png)
+![Tableau avec description du tableau](images/table-with-description.png)
 
 Vous pouvez toujours afficher les descriptions des tableaux en passant la souris sur l'**icône i**. Vous pouvez également cliquer sur l'**icône de** votre choix.
 
-![La description du tableau](https://seatable.io/wp-content/uploads/2023/07/table-description.jpg)
+![La description du tableau](images/table-description.jpg)
 
 En cliquant sur l'**icône i**, vous pouvez également **modifier** la description actuelle du tableau.
 
-![Modification d'une description de tableau actuelle via l'icône i](https://seatable.io/wp-content/uploads/2023/07/edit-table-description-i-icon.png)
+![Modification d'une description de tableau actuelle via l'icône i](images/edit-table-description-i-icon.png)

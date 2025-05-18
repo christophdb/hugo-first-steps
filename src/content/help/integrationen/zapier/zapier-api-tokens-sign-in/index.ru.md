@@ -14,13 +14,13 @@ url: '/ru/help/zapier-api-tokens-sign-in'
 
 Когда вы используете SeaTable в качестве триггера или действия в одном из ваших zap, вам нужно указать Zapier, какую систему и базу SeaTable использовать. После выбора SeaTable в качестве части вашего Zap вам будет предложено подключиться к SeaTable.
 
-![Zapier требует API-токен одной из ваших баз.](https://seatable.io/wp-content/uploads/2023/06/zapier-sign-in.png)
+![Zapier требует API-токен одной из ваших баз.](images/zapier-sign-in.png)
 
 Как только вы нажмете на кнопку **Sign in**, откроется новое окно, в котором вам нужно будет ввести URL системы SeaTable и API-токен для одной из ваших баз.
 
 Создайте API-токен для одной из ваших баз и введите его в эту форму. [Вы можете узнать](https://seatable.io/ru/docs/seatable-api/erzeugen-eines-api-tokens/), как это работает, в [этой справочной статье](https://seatable.io/ru/docs/seatable-api/erzeugen-eines-api-tokens/).
 
-![Введите свой токен API и подтвердите.](https://seatable.io/wp-content/uploads/2023/06/zapier-authenticate-app.png)
+![Введите свой токен API и подтвердите.](images/zapier-authenticate-app.png)
 
 {{< warning headline="Обратите внимание на авторизацию" text="Для **триггера** достаточно API-токена с доступом на чтение. Для **действия** токен API должен также иметь разрешение на запись." />}}
 
@@ -28,4 +28,4 @@ url: '/ru/help/zapier-api-tokens-sign-in'
 
 После ввода действительного API-токена вы можете приступить к созданию своего zap. Для будущих zap-систем это соединение теперь всегда доступно без необходимости повторного ввода API-токена.
 
-![После аутентификации вы можете приступить к созданию своего zap.](https://seatable.io/wp-content/uploads/2023/06/zapier-start-build-your-zap.png)
+![После аутентификации вы можете приступить к созданию своего zap.](images/zapier-start-build-your-zap.png)

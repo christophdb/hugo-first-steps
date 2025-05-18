@@ -18,11 +18,11 @@ Im konkreten Beispiel ist das Ziel, mithilfe einer Formel die **Anrede** verschi
 
 Hierfür fügen Sie der Tabelle zunächst eine **Formel-Spalte** hinzu, in deren Editor Sie anschließend die **Formel** einfügen können.
 
-![Hinzufügen der Formel-Spalte und Eingabe der Formel im Editor](https://seatable.io/wp-content/uploads/2023/01/Hinzufuegen-der-Formel-Spalte-und-Eingabe-der-Formel-im-Editor.png)
+![Hinzufügen der Formel-Spalte und Eingabe der Formel im Editor](images/Hinzufuegen-der-Formel-Spalte-und-Eingabe-der-Formel-im-Editor.png)
 
 Um die geschlechtsspezifische Anrede der Kunden automatisch in der Formel-Spalte zu erheben, fügen Sie der Formel zunächst einen **If-Operator** hinzu. Sie finden diesen im Formeleditor unter dem Reiter **Logische Funktionen**. If-Operatoren **prüfen**, ob der Eintrag in einer ausgewählten Spalte den im Vorhinein definierten Bedingungen entspricht und geben je nach positivem oder negativen Ergebnis einen entsprechenden **Wert** zurück.
 
-![Hinzufügen eines If-Operators zur Formel](https://seatable.io/wp-content/uploads/2023/01/add-if-operator.jpg)
+![Hinzufügen eines If-Operators zur Formel](images/add-if-operator.jpg)
 
 Im nächsten Schritt definieren Sie die **Bedingungen**, die in der gewünschten Spalte zutreffen müssen, damit die Formel-Spalte automatisch mit den entsprechenden Werten befüllt wird.
 
@@ -30,7 +30,7 @@ Hierzu müssen Sie zunächst auf die konkrete **Spalte** verweisen, in welcher d
 
 {{< warning  type="warning" headline="Tipp"  text="Die **Spaltennamen** in der geöffneten Tabelle werden Ihnen links im **Formeleditor** angezeigt und können mit einem **Doppelklick** in die Formel eingefügt werden." />}}
 
-![Verweis auf die Spalte, in der die definierten Bedingungen eintreten müssen](https://seatable.io/wp-content/uploads/2023/01/Verweis-auf-die-Spalte-in-der-die-definierten-Bedingungen-eintreten-muessen.png)
+![Verweis auf die Spalte, in der die definierten Bedingungen eintreten müssen](images/Verweis-auf-die-Spalte-in-der-die-definierten-Bedingungen-eintreten-muessen.png)
 
 Direkt hinter der Spalte "Geschlecht" setzen Sie zunächst einen gewünschten **Operator**. Muss in der Spalte ein exakter Wert vorliegen, nutzen Sie zum Beispiel den Operator **\=** (ist gleich). Sie finden die Operatoren auch links im Formeleditor.
 

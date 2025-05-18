@@ -16,7 +16,7 @@ url: '/ru/help/individuelle-seiten-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Изменение настроек отдельной страницы](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-individuellen-Seite-aendern.png)
+![Изменение настроек отдельной страницы](images/Einstellungen-der-individuellen-Seite-aendern.png)
 
 Вы можете добавлять различные **элементы** на свою страницу с помощью перетаскивания через **настройки страницы**.
 

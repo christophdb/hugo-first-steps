@@ -14,7 +14,7 @@ You want to change the credit card you used to pay your SeaTable subscription? N
 
 ## Change credit card
 
-![Change your credit card easily via the team management](https://seatable.io/wp-content/uploads/2023/01/Aendern-der-Kreditkarte-1-1.png)
+![Change your credit card easily via the team management](images/Aendern-der-Kreditkarte-1-1.png)
 
 1. Open the **team management**.
 2. Click on **Subscription**.
@@ -23,7 +23,7 @@ You want to change the credit card you used to pay your SeaTable subscription? N
 5. Confirm with **"Deposit new credit card"**.
 6. The newly deposited credit card is valid **immediately** and replaces the old card.
 
-![Deposit a new credit card ](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+![Deposit a new credit card ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
 
 ## Frequently asked questions about payment by credit card
 

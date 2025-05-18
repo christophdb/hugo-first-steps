@@ -14,11 +14,11 @@ Bien entendu, SeaTable peut également être utilisé sur **des appareils mobile
 
 Lorsque vous accédez à SeaTable via un navigateur sur un appareil mobile, l'interface utilisateur de SeaTable change afin d'optimiser son utilisation pour les petites résolutions d'écran. Les deux changements les plus évidents sont les deux gros boutons ronds en bas à droite de l'écran.
 
-![Vue mobile dans SeaTable](https://seatable.io/wp-content/uploads/2023/05/mobile-view-seatable.png)
+![Vue mobile dans SeaTable](images/mobile-view-seatable.png)
 
 À propos du {{< key "+" >}} de nouvelles entrées peuvent être créées et, grâce à la {{< key "…" >}} permet de passer du mode liste bien connu au mode grille. Dans ce mode, chaque ligne est représentée comme une boîte séparée, ce qui facilite sa sélection.
 
-![Mode grille de SeaTable pour les petites résolutions](https://seatable.io/wp-content/uploads/2023/05/seatable-grid-modus.png)
+![Mode grille de SeaTable pour les petites résolutions](images/seatable-grid-modus.png)
 
 ## Listes de sélection au lieu de petites icônes
 

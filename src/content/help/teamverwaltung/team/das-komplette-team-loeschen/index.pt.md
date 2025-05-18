@@ -17,7 +17,7 @@ Como **administrador da equipa**, pode **apagar completamente** a sua equipa com
 3. Desça e clique em **Conta de equipa e apague completamente todos os dados**.
 4. Confirmar a eliminação.
 
-![Eliminação de toda a equipa](https://seatable.io/wp-content/uploads/2022/10/delete-complete-team.png)
+![Eliminação de toda a equipa](images/delete-complete-team.png)
 
 ## O que acontece quando elimina a sua equipa?
 

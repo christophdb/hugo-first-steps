@@ -34,13 +34,13 @@ Las firmas digitales son muy adecuadas para la recogida de datos mediante [formu
 
 Para guardar una firma introducida en el panel, basta con hacer clic en **Guardar**. La firma introducida en el panel se guardará en la celda y podrá recuperarse en cualquier momento haciendo doble clic.
 
-![Firma almacenada en una columna de firma ](https://seatable.io/wp-content/uploads/2023/06/stored-signatur-in-cell-1.png)
+![Firma almacenada en una columna de firma ](images/stored-signatur-in-cell-1.png)
 
 ## Modificar una firma digital
 
 Si no está satisfecho con su firma y desea firmar de nuevo, simplemente haga clic en **Firmar de nuevo**. Tenga en cuenta que se sobrescribirá toda la firma que haya introducido. **No** es posible modificar partes individuales de su firma.
 
-![Firmar de nuevo en el panel de firma](https://seatable.io/wp-content/uploads/2023/06/resign.jpg)
+![Firmar de nuevo en el panel de firma](images/resign.jpg)
 
 {{< warning  headline="Fichero no eliminado"  text="Sin embargo, la firma original sigue estando disponible como archivo PNG en el [gestor de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base si ya la ha guardado." />}}
 
@@ -48,8 +48,8 @@ Si no está satisfecho con su firma y desea firmar de nuevo, simplemente haga cl
 
 Cada firma almacenada también se guarda en la [gestión de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de su Base como un archivo PNG en una **carpeta del sistema**.
 
-![Carpeta en la gestión de archivos de su Base donde se almacenan sus firmas ](https://seatable.io/wp-content/uploads/2023/06/stored-signatures-in-filemanagement.jpg)
+![Carpeta en la gestión de archivos de su Base donde se almacenan sus firmas ](images/stored-signatures-in-filemanagement.jpg)
 
 Desde ahí puedes **descargar** y **eliminar** tus firmas.
 
-![](https://seatable.io/wp-content/uploads/2023/06/Bild-06.06.23-um-19.18-511x87.jpg)
+![](images/Bild-06.06.23-um-19.18-511x87.jpg)

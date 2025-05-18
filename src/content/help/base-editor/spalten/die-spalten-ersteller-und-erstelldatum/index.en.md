@@ -10,7 +10,7 @@ url: '/help/die-spalten-ersteller-und-erstelldatum'
 
 The columns **Creator** and **Creation date** are exclusively filled **automatically** by SeaTable and therefore represent special column types. While SeaTable fills the creator column with the **name of the user** who created row , the creation date column records the **time** (date and time) when the user created row .
 
-![The columns "Creator and Created" after creating a user](https://seatable.io/wp-content/uploads/2023/01/column-creator-and-created-time.png)
+![The columns "Creator and Created" after creating a user](images/column-creator-and-created-time.png)
 
 ## Special features of the two column types
 

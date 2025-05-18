@@ -28,7 +28,7 @@ Es importante entender que una vista no es más que otra forma de ver los **mism
 
 La **vista de tabla** es el formato de visualización por defecto en una Base SeaTable. Es muy similar a una hoja de cálculo porque los registros se organizan en filas y columnas.
 
-![Vista de la tabla](https://seatable.io/wp-content/uploads/2023/01/Tabelle.png)
+![Vista de la tabla](images/Tabelle.png)
 
 Puede utilizar otras representaciones como calendario, galería o kanban en forma de [plug-ins](https://seatable.io/es/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
 

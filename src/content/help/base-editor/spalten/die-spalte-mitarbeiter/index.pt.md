@@ -10,13 +10,13 @@ url: '/pt/ajuda/die-spalte-mitarbeiter'
 
 Na **coluna do empregado**, pode atribuir uma ou mais **pessoas** a uma linha. O SeaTable permite-lhe selecionar as pessoas que têm atualmente **acesso** à **base**, bem como todos os outros membros da equipa sem acesso.
 
-![A coluna de pessoal em SeaTable](https://seatable.io/wp-content/uploads/2023/01/employee-column.png)
+![A coluna de pessoal em SeaTable](images/employee-column.png)
 
 ## Selecionar as pessoas com acesso à base
 
 Se fizer **duplo clique** numa célula de uma coluna de empregados, aparece uma lista com todos os utilizadores que têm atualmente acesso à base. Seleccione uma ou mais destas **pessoas**. Também é possível utilizar o **campo de pesquisa** para encontrar um utilizador específico.
 
-![Selecionar pessoas com acesso a uma base na coluna do empregado](https://seatable.io/wp-content/uploads/2023/01/Personen-mit-Zugriff-auf-eine-Base-in-der-Mitarbeiter-Spalte-auswaehlen.png)
+![Selecionar pessoas com acesso a uma base na coluna do empregado](images/Personen-mit-Zugriff-auf-eine-Base-in-der-Mitarbeiter-Spalte-auswaehlen.png)
 
 {{< warning  headline="Nota"  text="Se o acesso de um empregado a uma base for **retirado**, mas ele for introduzido numa coluna de empregados, o valor permanece na coluna até ser eliminado manualmente. Após a eliminação, o empregado deixa de estar disponível para seleção na lista." />}}
 
@@ -32,17 +32,17 @@ Clique no ícone {{< seatable-icon icon="dtable-icon-add\_members" >}} para adic
 
 Ao criar uma coluna de empregados, é possível **ativar** a **barra deslizante** para que os empregados recebam uma [notificação](https://seatable.io/pt/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) quando outros os introduzem na coluna e, assim, os atribuem a uma linha.
 
-![Habilitar notificações aos membros do pessoal acrescentadas a uma coluna de pessoal.](https://seatable.io/wp-content/uploads/2023/01/turn-on-notification-for-collaborateur-1.png)
+![Habilitar notificações aos membros do pessoal acrescentadas a uma coluna de pessoal.](images/turn-on-notification-for-collaborateur-1.png)
 
 Os colaboradores recebem então uma notificação correspondente no Base, à qual podem aceder através do **símbolo de sino** {{< seatable-icon icon="dtable-icon-notice" >}} no canto superior direito.
 
-![Notificação quando um empregado é adicionado](https://seatable.io/wp-content/uploads/2023/01/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
+![Notificação quando um empregado é adicionado](images/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
 
 ## Definir valor por defeito
 
 É possível definir um ou mais empregados como o [valor padrão]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) numa coluna de empregados. As opções **Usuário atual** ou **Usuários específicos** estão disponíveis para seleção. Sempre que alguém adiciona uma nova linha à tabela, o criador da linha ou as pessoas seleccionadas são automaticamente introduzidas na coluna de empregados.
 
-![Definir valores predefinidos em colunas de colaboradores](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
+![Definir valores predefinidos em colunas de colaboradores](images/Set-default-values-in-collaborator-columns.png)
 
 ## Selecionar empregados como destinatários de notificações automáticas
 

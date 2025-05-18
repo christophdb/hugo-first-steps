@@ -23,7 +23,7 @@ url: '/ru/help/seitenberechtigungen-in-einer-universellen-app'
 
 6. Выберите нужную **страницу** из навигации в левой части страницы и нажмите на **символ шестеренки** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 
-![Нажмите на значок редактирования](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Нажмите на значок редактирования](images/page-permissions-universal-app.png)
 
 8. Установите необходимые **разрешения** в **настройках страницы**, которые отображаются в правой части **страницы**.
 

@@ -12,7 +12,7 @@ In SeaTable you have the possibility to create a new empty base in the **My Base
 
 ## Create a new empty base from the home page
 
-![Create a new empty base from the home page](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-starting-page.gif)
+![Create a new empty base from the home page](images/create-new-base-via-starting-page.gif)
 
 1. Start from the **home** page of SeaTable.
 2. In the appropriate workspace (My Bases or one of your groups), click **Add a Base or Folder**.
@@ -26,7 +26,7 @@ You can now fill your new Base with **content** and build processes in it as you
 
 Additionally, there is the possibility to create a new Base via a folder.
 
-![Create base via folder](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-folder-overview.gif)
+![Create base via folder](images/create-new-base-via-folder-overview.gif)
 
 1. Start from the **home** page of SeaTable.
 2. Click a **folder** in the appropriate workspace (My Bases or one of your groups).

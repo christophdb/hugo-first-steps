@@ -14,11 +14,11 @@ Die Lookup-Funktion ermöglicht es Ihnen, zusätzliche Werte aus einer bereits v
 
 Die Lookup-Funktion sollte immer dann zum Einsatz kommen, wenn Sie Querverweise zu Informationen herstellen möchten, die in verschiedenen Tabellen gespeichert sind. Nehmen wir an, Sie verwenden SeaTable für das Projektmanagement, wobei die Projekte in einer Tabelle und die mit dem Projekt verbundenen Aufgaben in einer anderen Tabelle gespeichert sind. Jedes Projekt ist dann mit einer Reihe von Aufgaben verknüpft.
 
-![Verknüpfung von Projektaufgaben mit einem Projekt](https://seatable.io/wp-content/uploads/2022/10/linked-tables-seatable.png)
+![Verknüpfung von Projektaufgaben mit einem Projekt](images/linked-tables-seatable.png)
 
 Als Projektmanager möchten Sie vielleicht Informationen über die mit jedem Projekt verbundenen Aufgaben anzeigen. Die Lookup-Formel kann verwendet werden, um eine Spalte in der verknüpften Tabelle auszuwählen und deren Werte anzuzeigen. So können Sie z. B. automatisch die Projektmitarbeiter anzeigen lassen, die für die jeweiligen Aufgaben verantwortlich sind.
 
-![Lookup-Column](https://seatable.io/wp-content/uploads/2022/10/lookup-columns.png)
+![Lookup-Column](images/lookup-columns.png)
 
 Dies kann für den einfachen Zugriff auf tabellenübergreifende Informationen, die Einrichtung von Automatisierungen, Formeln etc. hilfreich sein. Im Folgenden erfahren Sie mehr über die Verwendung der Lookup-Funktion.
 

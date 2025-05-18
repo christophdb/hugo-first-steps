@@ -16,11 +16,11 @@ The Findmax formula only works with **numerical values**, which is why the conte
 
 The **Findmax function** should be used when you want to **cross-reference** numeric values stored in different tables. Let's say you use SeaTable to collect the **working hours of** your employees, where one table stores the employees and another table stores the daily activity. You can then link each employee record to the working hours entered.
 
-![findmax formula](https://seatable.io/wp-content/uploads/2023/02/findmax-1.png)
+![findmax formula](images/findmax-1.png)
 
 To determine when an employee last logged in, you can use the **Findmax formula** to display the **largest value** - in this case, the last time - from the total login times in a column.
 
-![The findmax formula](https://seatable.io/wp-content/uploads/2023/02/findmax2-1.png)
+![The findmax formula](images/findmax2-1.png)
 
 You can use the Findmax formula with all numeric values to represent the **maximum value**.
 
@@ -32,7 +32,7 @@ See the article [How to link tables in SeaTable]({{< relref "help/base-editor/sp
 
 ### Add a column with Findmax formula
 
-![findmax formula](https://seatable.io/wp-content/uploads/2023/02/findmax.gif)
+![findmax formula](images/findmax.gif)
 
 1. Create a new column of the type **Formula for links**.
 2. Set the **Findmax** option as the formula.

@@ -12,7 +12,7 @@ Je mehr Spalten Sie anlegen, um Daten zu erfassen, desto unübersichtlicher wird
 
 ## Ausblenden von Spalten
 
-![Ausblenden von Spalten](https://seatable.io/wp-content/uploads/2022/10/hide-coloumns-2.gif)
+![Ausblenden von Spalten](images/hide-coloumns-2.gif)
 
 1. Klicken Sie in den Ansichtsoptionen einer beliebigen Tabelle auf **Ausblenden**.
 2. Blenden Sie eine beliebige Anzahl an Spalten **durch Anklicken** aus. Mithilfe des **Suchfeldes** können Sie die Auswahl an Spalten eingrenzen oder nach einer speziellen Spalte suchen, die Sie ausblenden möchten.
@@ -21,12 +21,12 @@ Je mehr Spalten Sie anlegen, um Daten zu erfassen, desto unübersichtlicher wird
 
 ## Verschieben von Spalten
 
-Halten Sie die Maustaste auf den **Sechs-Punkte-Symbolen** ![Icon zum Verschieben von Elementen](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) vor den Spaltennamen gedrückt und ziehen Sie diese in der Liste nach oben oder unten, um die Anordnung der Spalten in der Tabelle beliebig zu verändern.
+Halten Sie die Maustaste auf den **Sechs-Punkte-Symbolen** ![Icon zum Verschieben von Elementen](images/move-icon.png) vor den Spaltennamen gedrückt und ziehen Sie diese in der Liste nach oben oder unten, um die Anordnung der Spalten in der Tabelle beliebig zu verändern.
 
-![Verschieben von Spalten](https://seatable.io/wp-content/uploads/2022/10/moving-columns.gif)
+![Verschieben von Spalten](images/moving-columns.gif)
 
 Darüber hinaus können Sie die Spalten auch direkt in der **Tabellenansicht** per Drag-and-Drop verschieben. Halten Sie dazu die Maustaste auf dem **Namen einer Spalte** gedrückt und bewegen Sie die Spalte nach rechts oder links.
 
-![Spalten von der Tabellenansicht aus verschieben.](https://seatable.io/wp-content/uploads/2022/10/moving-columns-from-the-table-view.gif)
+![Spalten von der Tabellenansicht aus verschieben.](images/moving-columns-from-the-table-view.gif)
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Bitte beachten Sie, dass die **erste Spalte** einer Tabelle **nicht** verschoben werden kann. Über weitere Besonderheiten der ersten Spalte können Sie sich im entsprechenden [Übersichtsartikel](\"https://seatable.io/docs/spalten/die-besonderheiten-der-ersten-spalte/\") informieren." />}}

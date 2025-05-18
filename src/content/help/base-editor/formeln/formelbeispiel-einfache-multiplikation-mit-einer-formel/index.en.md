@@ -18,17 +18,17 @@ In the concrete example, the goal is to use a formula to calculate the **total p
 
 To do this, you first add a **formula column** to the table, in whose editor you can then define a formula.
 
-![Text field to add any formula](https://seatable.io/wp-content/uploads/2023/01/start-to-insert-formular.png)
+![Text field to add any formula](images/start-to-insert-formular.png)
 
 In order to multiply two values of a row with each other, you have to refer to the **names of the columns** in which the corresponding **values** can be found in the formula. It is especially important that the column names are framed with **curly brackets**, otherwise SeaTable cannot recognize which values are to be multiplied together.
 
 {{< warning  headline="Tip"  text="The **column names of** the table you selected are displayed on the left side of the **formula editor** and can be inserted into the formula with a **double-click**." />}}
 
-![When you refer to column names in your tables, always surround them with curly braces](https://seatable.io/wp-content/uploads/2023/01/formula-example-1.png)
+![When you refer to column names in your tables, always surround them with curly braces](images/formula-example-1.png)
 
 To complete the formula, add a **multiplication sign** between the two column names, which you can find in the formula editor at the **operands**.
 
-![Adding the multiplication sign between the two column names](https://seatable.io/wp-content/uploads/2023/01/finish-formular-multiplication.png)
+![Adding the multiplication sign between the two column names](images/finish-formular-multiplication.png)
 
 Alternatively, you can write the multiplication as a formula according to the scheme **multiply({column1}, {column2})** in the formula editor.
 

@@ -12,7 +12,7 @@ Tables in SeaTable can contain thousands of records. So that you can still find 
 
 ## How to find what you are looking for in a table
 
-![Find a cell or value in a table](https://seatable.io/wp-content/uploads/2022/10/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
+![Find a cell or value in a table](images/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
 
 1. In a Base, open any **table** where you are looking for a specific value or cell.
 2. Click on the **magnifying glass** at the top right under the Base options.

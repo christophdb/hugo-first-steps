@@ -29,7 +29,7 @@ Si selecciona este evento como desencadenante, la automatización correspondient
 
 Con las condiciones, puede definir individualmente para cada **columna** **cómo debe** ser el **valor** correspondiente después de la edición para activar la automatización. En el transcurso de este proceso, puede decidir si **todas las** columnas de la vista de tabla o sólo las **seleccionadas** deben supervisarse para detectar la aparición del evento desencadenante.
 
-![Las entradas cumplen determinadas condiciones tras el cambio](https://seatable.io/wp-content/uploads/2023/01/Automation-trigger-records-meet-specific-conditions-after-modification.png)
+![Las entradas cumplen determinadas condiciones tras el cambio](images/Automation-trigger-records-meet-specific-conditions-after-modification.png)
 
 Si selecciona el evento "Las entradas cumplen determinadas condiciones tras la edición" como desencadenante de una automatización, las siguientes **acciones automáticas** estarán disponibles para su selección:
 

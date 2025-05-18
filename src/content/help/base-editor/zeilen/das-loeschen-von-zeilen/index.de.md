@@ -12,7 +12,7 @@ In diesem Artikel lernen Sie, wie Sie eine **einzelne Zeile**, **mehrere Zeilen*
 
 ## Löschen einer Zeile
 
-![Löschen einer Zeile in SeaTable](https://seatable.io/wp-content/uploads/2022/10/delete-a-row.gif)
+![Löschen einer Zeile in SeaTable](images/delete-a-row.gif)
 
 1. Klicken Sie mit der **rechten Maustaste** auf eine Zeile, um das **Drop-down-Menü** aufzurufen.
 2. Wählen Sie die Option **Zeile löschen** aus.
@@ -21,7 +21,7 @@ In diesem Artikel lernen Sie, wie Sie eine **einzelne Zeile**, **mehrere Zeilen*
 
 ## Löschen mehrerer Zeilen
 
-![Löschen mehrerer Zeilen in einer Base](https://seatable.io/wp-content/uploads/2022/10/delete-multiple-rows.gif)
+![Löschen mehrerer Zeilen in einer Base](images/delete-multiple-rows.gif)
 
 1. Bewegen Sie die Maus auf die **Nummerierungsspalte**.
 2. Wählen Sie die **Zeilen** aus, die Sie löschen wollen, indem Sie die **Kästchen** der jeweiligen Zeilen anklicken.

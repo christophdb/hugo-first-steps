@@ -19,7 +19,7 @@ Para além de alterar a encomenda, pode também organizar as suas opiniões de f
 5. Mova o rato para a vista que pretende mover para a pasta criada.
 6. Segure o **Símbolo de seis pontos**
 
-    ![Ícone para elementos em movimento](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Ícone para elementos em movimento](images/move-icon.png)
     para mover e arrastar a vista para a pasta desejada.
 
 ![Opiniões de grupo em pastas](images/Ansichten-in-Ordnern-gruppieren.gif)

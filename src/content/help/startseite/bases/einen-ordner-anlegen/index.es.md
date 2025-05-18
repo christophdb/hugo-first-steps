@@ -12,7 +12,7 @@ Para tener una mejor visión de conjunto de tus bases, tienes la opción de crea
 
 ## Crear una carpeta a través de la página de inicio
 
-![Crear una carpeta a través de la página de inicio](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-starting-page.gif)
+![Crear una carpeta a través de la página de inicio](images/create-new-folder-via-starting-page.gif)
 
 1. Cambie a la página de **inicio** de SeaTable.
 2. Dependiendo de si desea crear una carpeta en **Mis bases**, **Compartidas conmigo** o en un **grupo** específico, haga clic en **Añadir una base o carpeta** en el área correspondiente.
@@ -25,7 +25,7 @@ Para tener una mejor visión de conjunto de tus bases, tienes la opción de crea
 
 Además del método descrito en la primera sección, también puede crear una carpeta a través de la **vista general de carpetas**. Ésta se abre automáticamente en una nueva ventana al hacer clic en una carpeta existente en la página de **inicio**.
 
-![Crear una carpeta en la vista general de carpetas](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-folder-overview.gif)
+![Crear una carpeta en la vista general de carpetas](images/create-new-folder-via-folder-overview.gif)
 
 1. Cambie a la página de **inicio** de SeaTable.
 2. Haga clic en una **carpeta** ya existente.

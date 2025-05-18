@@ -15,9 +15,9 @@ What consequences the deletion of a team has for the associated data, you will l
 
 {{< warning  headline="Important note"  text="Teams can **only** be deleted by team admins." />}}
 
-![At the very bottom of the page, click "Delete team account and all data completely."](https://seatable.io/wp-content/uploads/2023/01/delete-team.png) 4. Open the **team management**. 5. Click on **Subscription**. 6. Click **"Delete team account and all data completely"** at the very bottom of the page. 7. Activate the **slider** and confirm the deletion with **"Delete this team and all data"**. 8. You will automatically receive a **message** confirming the deletion of your team account.
+![At the very bottom of the page, click "Delete team account and all data completely."](images/delete-team.png) 4. Open the **team management**. 5. Click on **Subscription**. 6. Click **"Delete team account and all data completely"** at the very bottom of the page. 7. Activate the **slider** and confirm the deletion with **"Delete this team and all data"**. 8. You will automatically receive a **message** confirming the deletion of your team account.
 
-![Confirm the deletion of your team.](https://seatable.io/wp-content/uploads/2023/01/delete-team-confirmation-1.png)
+![Confirm the deletion of your team.](images/delete-team-confirmation-1.png)
 
 ## Consequences for your data
 

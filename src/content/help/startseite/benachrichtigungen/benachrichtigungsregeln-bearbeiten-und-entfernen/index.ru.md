@@ -12,7 +12,7 @@ url: '/ru/help/benachrichtigungsregeln-bearbeiten-und-entfernen'
 
 ## Чтобы отредактировать правило уведомления
 
-![Редактирование правила уведомления](https://seatable.io/wp-content/uploads/2023/02/edit-notification-rules.jpg)
+![Редактирование правила уведомления](images/edit-notification-rules.jpg)
 
 1. Откройте **базу**, в которой вы хотите отредактировать уже созданное правило уведомления.
 2. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}}, а затем на **Правила уведомлений**.
@@ -39,7 +39,7 @@ url: '/ru/help/benachrichtigungsregeln-bearbeiten-und-entfernen'
 
 ## Чтобы удалить правило уведомления
 
-![Удаление правила уведомления](https://seatable.io/wp-content/uploads/2023/02/delete-notification.jpg)
+![Удаление правила уведомления](images/delete-notification.jpg)
 
 1. Откройте **базу**, в которой вы хотите удалить уже созданное правило уведомления.
 2. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}}, а затем на **Правила уведомлений**.

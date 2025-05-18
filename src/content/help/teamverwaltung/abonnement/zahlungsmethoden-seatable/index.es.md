@@ -20,7 +20,7 @@ El segundo método de pago posible es **el** pago a cuenta, que sólo es posible
 2. Haga clic en **Suscripción**.
 3. Puede consultar su forma de pago actual en la opción**"** Forma de**pago"**.
 
-![Puede consultar su método de pago en cualquier momento a través de la pestaña Suscripción en la administración del equipo](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-einsehen.jpg)
+![Puede consultar su método de pago en cualquier momento a través de la pestaña Suscripción en la administración del equipo](images/Zahlungsmethode-einsehen.jpg)
 
 ## ¿Cómo puedo cambiar mi forma de pago?
 
@@ -29,4 +29,4 @@ El segundo método de pago posible es **el** pago a cuenta, que sólo es posible
 3. Haga clic en **"Personalizar la forma de pago"**.
 4. Ahora puede añadir una **nueva tarjeta de crédito** como forma de pago. En este [artículo](https://seatable.io/es/docs/abo-abrechnung/bezahlung-per-rechnung/) se explica cómo y en qué condiciones puede activar el **pago mediante factura**.
 
-![Puede cambiar su método de pago en cualquier momento en la pestaña Suscripción de la administración del equipo](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-aendern.jpg)
+![Puede cambiar su método de pago en cualquier momento en la pestaña Suscripción de la administración del equipo](images/Zahlungsmethode-aendern.jpg)

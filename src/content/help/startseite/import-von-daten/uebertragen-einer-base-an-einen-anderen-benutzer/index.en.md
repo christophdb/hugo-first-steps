@@ -25,7 +25,7 @@ If you want to transfer one of your bases to a **user on another team**, you won
 
 [Create an invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) to your Base and send this link to the other user. Once the other user accepts the **share**, they can **copy the base** and add it to their own team.
 
-![Transfer base via invitation link](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
+![Transfer base via invitation link](images/copy-shared-base.png)
 
 {{< warning  headline="Common or separate base"  text="As long as the receiver is still working in the **shared base**, the two users share **the same base**. As soon as the recipient **copies the base**, they are **two separate bases**. The original owner will **not** have **access to** the new Base." />}}
 

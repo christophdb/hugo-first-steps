@@ -140,14 +140,14 @@ Contrairement aux commentaires, les indentations dans le code sont très importa
 Sous le commentaire **SeaTable – Destination** , collez l’URL du serveur SeaTable et fournissez le [jeton API](https://seatable.io/fr/docs/seatable-api/erzeugen-eines-api-tokens/) . Le jeton API doit accorder des autorisations de lecture et d'écriture. Si vous utilisez SeaTable Cloud, alors l'URL pré-remplie « https://cloud.seatable.io » est correcte. Si vous utilisez un autre serveur SeaTable, saisissez son URL. (L'URL doit toujours être saisie avec https:// ou http://.) L'URL et le jeton doivent être placés entre guillemets simples.
 
 Ceci est un exemple de configuration pour importer les données dans une base dans SeaTable Cloud :  
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable_Server_URL_and_API_Token.png)
+![](images/SeaTable_Server_URL_and_API_Token.png)
 
 ### 4\. entrer le jeton d'accès personnel Airtable et l'ID de base
 
 Complétez sous le commentaire **Airtable - Source** le site [Jeton d'accès personnel Airtable (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) ainsi que les [ID de la base aérienne](https://support.airtable.com/docs/finding-airtable-ids)Les deux valeurs sont à nouveau entre guillemets simples. Le PAT doit disposer de l'autorisation `data.records:read` et `schema.bases:read` décret.
 
 Voilà à quoi cela devrait ressembler, vos valeurs étant bien sûr différentes :  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable_Base_ID_and_PAT.png)
+![](images/Airtable_Base_ID_and_PAT.png)
 
 Utilisez les liens de documentation Airtable dans le script pour savoir où obtenir le PAT et l'ID de base.
 
@@ -156,14 +156,14 @@ Utilisez les liens de documentation Airtable dans le script pour savoir où obte
 Indiquez maintenant au script quelles tables vous souhaitez importer depuis Airtable Base. Faites-le dans la ligne "table_names". Ajoutez les noms des tables entre crochets, entre guillemets simples et séparés par une virgule.
 
 Pour une base avec deux tableaux "table1" et "table2", la ligne doit alors ressembler par exemple à ceci :  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-tables_names_500.png)
+![](images/Airtable-tables_names_500.png)
 
 Si votre Airtable Base a plus de deux tableaux, prolongez simplement l'énumération entre parenthèses. Si vous ne souhaitez pas transférer tous les tableaux d'une base, il suffit d'omettre les noms des tableaux qui ne doivent pas être copiés.
 
 En raison d'une restriction de l'API Airtable, vous devez également indiquer les noms des premières colonnes dans les tableaux. Cela se fait dans la ligne "first_columns" ou dans les lignes suivantes.
 
 Pour l'Airtable Base avec les deux tables "table1" et "table2", cela pourrait alors ressembler à ceci :  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-first_columns_500.png)
+![](images/Airtable-first_columns_500.png)
 
 ### 6\. définir des colonnes de liens
 
@@ -171,12 +171,12 @@ Pour que SeaTable puisse importer correctement les données, une étape supplém
 
 La variable "links" est prévue à cet effet. Par exemple, si la colonne "link to table2" dans la table "table1" représente un lien avec la table "table 2", le script doit être paramétré comme suit :
 
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-links_500.png)
+![](images/Airtable-links_500.png)
 
 Vous ne devez spécifier chaque paire de colonnes de liens qu'une seule fois. Vous ne devez pas spécifier le lien dans les deux sens.
 
 Si la Airtable Base ne reçoit pas de colonnes de liens, vous pouvez alors laisser les crochets vides :  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-linksEmpty_500.png)
+![](images/Airtable-linksEmpty_500.png)
 
 ### 7\. exclure des colonnes ou des types de colonnes (facultatif)
 
@@ -189,7 +189,7 @@ Les types de colonnes peuvent être exclus à l'aide de la variable « exclusiv
 Le script peut être exécuté en deux modes : "import-header" et "import-rows". Tout d'abord, le script doit toujours être exécuté en mode "import-header". Dans ce mode, les tables et les colonnes sont créées dans la base SeaTable et 10 lignes de test sont importées.
 
 Le mode d'exécution est défini dans la variable du même nom :  
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable-modeImportHeader_500.png)
+![](images/SeaTable-modeImportHeader_500.png)
 
 Exécutez maintenant le script en cliquant sur **Exécuter le script**. Pendant l'exécution, vous voyez sur le côté droit dans l'éditeur les étapes effectuées. En arrière-plan, vous pouvez également voir comment les tableaux et les colonnes sont créés.
 
@@ -248,7 +248,7 @@ Si vous êtes satisfait du contrôle effectué à l'étape 9, tous les enregistr
 
 Dans le script, changez le mode de "import-header" en "import-rows" :
 
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable-modeImportRows_500.png)
+![](images/SeaTable-modeImportRows_500.png)
 
 Exécutez à nouveau le script en cliquant sur **Exécuter le script**. Vous pouvez à nouveau observer l'exécution du script sur le côté droit et voir l'activité en arrière-plan.
 

@@ -14,24 +14,24 @@ url: '/ru/help/die-datum-spalte'
 
 При создании столбца даты можно сначала выбрать подходящий **формат** в зависимости от региона и стандарта.
 
-![Выбор формата даты ](https://seatable.io/wp-content/uploads/2023/01/Auswahl-des-Datumsformats.png)
+![Выбор формата даты ](images/Auswahl-des-Datumsformats.png)
 
 Кроме того, вы можете решить, хотите ли вы увеличить дату с точностью до **минуты** или только до **дня**. Для этого активируйте ползунок:
 
-![Параметры при создании столбца даты](https://seatable.io/wp-content/uploads/2023/01/Optionen-beim-Anlegen-der-Datums-Spalte.png)
+![Параметры при создании столбца даты](images/Optionen-beim-Anlegen-der-Datums-Spalte.png)
 
 С помощью второго ползунка можно установить, следует ли вводить **значение по умолчанию** (например, конкретную дату или текущую дату) при создании новой строки.
 
-![Установка значения по умолчанию в столбце даты](https://seatable.io/wp-content/uploads/2023/01/Set-a-default-value-in-a-date-column.png)
+![Установка значения по умолчанию в столбце даты](images/Set-a-default-value-in-a-date-column.png)
 
 Подтвердите диалог для создания столбца даты. Затем можно выбрать любую дату в каждой строке из появившегося **календаря** или ввести ее с **клавиатуры**.
 
-![Ввод любой даты возможен как с помощью появляющегося календаря, так и с клавиатуры.](https://seatable.io/wp-content/uploads/2023/01/date-column.png)
+![Ввод любой даты возможен как с помощью появляющегося календаря, так и с клавиатуры.](images/date-column.png)
 
 **Собранные данные: с точностью до минуты**
 
-![Данные собраны с точностью до минуты](https://seatable.io/wp-content/uploads/2023/01/Erhobene-Daten-auf-die-Minute-genau.png)
+![Данные собраны с точностью до минуты](images/Erhobene-Daten-auf-die-Minute-genau.png)
 
 **Сбор данных: только день**
 
-![Собранные данные, исключительно по дням](https://seatable.io/wp-content/uploads/2023/01/Erhobene-Daten-Tag.png)
+![Собранные данные, исключительно по дням](images/Erhobene-Daten-Tag.png)

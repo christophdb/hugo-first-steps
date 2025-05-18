@@ -14,7 +14,7 @@ url: '/ru/help/der-spaltentyp-automatische-nummer'
 
 Чтобы **изменить нумерацию** записей (например, устранить пробелы), вы можете либо удалить столбец _Automatic Number_ и создать его заново, либо изменить тип столбца, а затем снова преобразовать его в _Automatic Number_.
 
-![Линии с автоматическим номером](https://seatable.io/wp-content/uploads/2023/01/auto-number.gif)
+![Линии с автоматическим номером](images/auto-number.gif)
 
 ## Доступны три формата
 

@@ -19,7 +19,7 @@ Im ersten Kurs haben Sie bereits gelernt, wie Sie eine Base mit verschiedenen Sp
 
 Laden Sie die folgende Datei auf Ihren PC herunter und importieren Sie diese auf der Startseite von SeaTable als neue Base:
 
-[SeaTable Course Level 2.dtable](https://seatable.io/wp-content/uploads/2024/09/SeaTable-Course-Level-2.dtable)
+[SeaTable Course Level 2.dtable](/SeaTable-Course-Level-2.dtable)
 
 Auch wenn Sie die Base nicht selbst erstellen müssen, ist es wichtig, dass Sie sich intensiv mit der Struktur vertraut machen. Es wurden neue Spaltentypen verwendet, die Sie eventuell aus dem vorherigen Kurs noch nicht kennen.
 

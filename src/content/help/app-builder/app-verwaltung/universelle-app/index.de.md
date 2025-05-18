@@ -32,7 +32,7 @@ Eine Universelle App besteht aus mehreren **Seiten**, die Sie in **Ordnern** zus
 
 Um die Daten in Ihrer Base ansprechend aufzubereiten, bietet die Universelle App eine Vielzahl an [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) mit unterschiedlichen Gestaltungselementen.
 
-![Seitentypen Universal App](https://seatable.io/wp-content/uploads/2023/05/Seitentypen-Universal-App.png)
+![Seitentypen Universal App](images/Seitentypen-Universal-App.png)
 
 ## Vorschau einer Universellen App
 
@@ -42,7 +42,7 @@ Bei der Gestaltung einer Universellen App wollen Sie sicher zwischendurch testen
 
 Innerhalb einer Universellen App können Sie verschiedene **globale Einstellungen** vornehmen. Sie können beispielsweise den **Namen**, die **Farbe** und die **URL** Ihrer App ändern. Die gewünschten Anpassungen können Sie mit nur wenigen Klicks über die **App-Einstellungen** vornehmen.
 
-![Öffnen der App-Einstellungen der Universellen App](https://seatable.io/wp-content/uploads/2023/05/global-settings-universal-app.png)
+![Öffnen der App-Einstellungen der Universellen App](images/global-settings-universal-app.png)
 
 [Erfahren Sie hier mehr zu den globalen Einstellungen der Universellen App.](https://seatable.io/docs/apps/einstellungen-einer-universellen-app-aendern/)
 
@@ -54,7 +54,7 @@ Die **Versionsverwaltung** jeder App bietet Ihnen die Möglichkeit, Momentaufnah
 
 Um den Zugriff auf Ihre Daten genau zu steuern, können Sie für **jede Seite**, die Sie zu einer Universellen App hinzugefügt haben, **individuelle Seitenberechtigungen** festlegen. Die Bearbeitung der Seitenberechtigungen erfolgt stets über die **Seiteneinstellungen**, die Sie über das Zahnrad-Symbol {{< seatable-icon icon="dtable-icon-set-up" >}} erreichen.
 
-![Öffnen der Seiteneinstellungen](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Öffnen der Seiteneinstellungen](images/page-permissions-universal-app.png)
 
 [Erfahren Sie hier mehr zu den verschiedenen Seitenberechtigungen in der Universellen App.](https://seatable.io/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
 
@@ -62,7 +62,7 @@ Um den Zugriff auf Ihre Daten genau zu steuern, können Sie für **jede Seite**,
 
 Neue Benutzer hinzufügen, Rollen anlegen und zuweisen – in der **Benutzer- und Rollenverwaltung** einer Universellen App können Sie diverse administrative Tätigkeiten durchführen.
 
-![Benutzer- und Rollenverwaltung einer Universellen App](https://seatable.io/wp-content/uploads/2023/05/open-user-and-role-management-1.png)
+![Benutzer- und Rollenverwaltung einer Universellen App](images/open-user-and-role-management-1.png)
 
 [Erfahren Sie hier mehr zur Benutzer- und Rollenverwaltung der Universellen App.](https://seatable.io/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/)
 

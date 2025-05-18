@@ -16,7 +16,7 @@ Este tipo de página é muito semelhante ao [plug-in](https://seatable.io/pt/doc
 
 Se pretender alterar as definições de uma página, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondente na barra de navegação.
 
-![Alterar as definições da página da linha de tempo](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
+![Alterar as definições da página da linha de tempo](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
 Nas **definições da página**, pode começar por definir a representação gráfica das linhas cronológicas. Para tal, selecionar a [cor da linha]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou uma [coluna de seleção individual](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), que determina a **cor dos blocos**. Também é possível definir uma coluna para a **etiquetagem dos blocos**.
 
@@ -40,7 +40,7 @@ Os utilizadores podem ver mais informações sobre uma entrada clicando num bloc
 
 Se for adicionado um **agrupamento**, as barras também podem ser exibidas em **raias**. Para actividades que não se sobrepõem, esta opção de visualização resulta numa exibição compacta e clara.
 
-![Agrupamento em páginas da cronologia](https://seatable.io/wp-content/uploads/2023/12/Grouping-on-timeline-pages.png)
+![Agrupamento em páginas da cronologia](images/Grouping-on-timeline-pages.png)
 
 ## Editar ou mover uma entrada na linha de tempo
 
@@ -58,4 +58,4 @@ Também pode **mover** convenientemente entradas na linha de tempo **utilizando 
 
 Na parte inferior das definições da página, pode restringir quem pode **ver** a página da cronologia e **editar** entradas. Não é possível adicionar ou eliminar linhas através das páginas da cronologia.
 
-![Autorizações de páginas para páginas de cronologia](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Autorizações de páginas para páginas de cronologia](images/Seitenberechtigungen-von-Kalenderseiten.png)

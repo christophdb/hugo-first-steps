@@ -12,7 +12,7 @@ Para uma melhor visão geral das suas bases, tem a opção de criar novas **past
 
 ## Criar uma pasta através da página inicial
 
-![Criar uma pasta através da página inicial](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-starting-page.gif)
+![Criar uma pasta através da página inicial](images/create-new-folder-via-starting-page.gif)
 
 1. Mudar para a página **inicial** da SeaTable.
 2. Dependendo se pretende criar uma pasta em **As minhas bases**, **Partilhada comigo** ou num **grupo** específico, clique em **Adicionar uma base ou pasta** na área correspondente.
@@ -25,7 +25,7 @@ Para uma melhor visão geral das suas bases, tem a opção de criar novas **past
 
 Para além do método descrito na primeira secção, também pode criar uma pasta através da **vista geral das pastas**. Esta abre-se automaticamente numa nova janela quando se clica numa pasta existente na página **inicial**.
 
-![Criar uma pasta na síntese de pastas](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-folder-overview.gif)
+![Criar uma pasta na síntese de pastas](images/create-new-folder-via-folder-overview.gif)
 
 1. Mudar para a página **inicial** da SeaTable.
 2. Clique numa **pasta** já existente.

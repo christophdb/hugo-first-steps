@@ -22,7 +22,7 @@ In SeaTable, you can create your API tokens either from the home page or as a te
 
 API tokens can be conveniently created on the SeaTable home page.
 
-![Create new Base Token](https://seatable.io/wp-content/uploads/2023/02/generate-api-token.gif)
+![Create new Base Token](images/generate-api-token.gif)
 
 1. Move the mouse over the Base for which you want to create a token.
 2. Click {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}
@@ -36,7 +36,7 @@ API tokens can be conveniently created on the SeaTable home page.
 
 As a team administrator, you can create and edit API tokens centrally in Team Administration for all bases to which you have access.
 
-![Generate API tokens via team management](https://seatable.io/wp-content/uploads/2023/02/generate-api-token-team-administrator.png)
+![Generate API tokens via team management](images/generate-api-token-team-administrator.png)
 
 1. Open in the team management
 2. Switch to the [API & Integrations](https://account.seatable.io/api) section.

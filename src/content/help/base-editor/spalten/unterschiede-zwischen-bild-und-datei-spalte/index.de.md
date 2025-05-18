@@ -1,11 +1,11 @@
 ---
-title: "Unterschiede zwischen Bild- und Datei-Spalte"
+title: 'Unterschiede zwischen Bild- und Datei-Spalte'
 date: 2022-10-16
-lastmod: "2023-06-29"
-categories: 
-  - "dateien-und-bilder"
-author: "vge"
-url: "/de/hilfe/unterschiede-zwischen-bild-und-datei-spalte"
+lastmod: '2023-06-29'
+categories:
+    - 'dateien-und-bilder'
+author: 'vge'
+url: '/de/hilfe/unterschiede-zwischen-bild-und-datei-spalte'
 ---
 
 Für die Erfassung von **Dateien** und **Bildern** stehen Ihnen in SeaTable die zwei gleichnamigen Spaltentypen zur Verfügung. Die [Bild-Spalte](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) ist dabei eine eingeschränkte [Datei-Spalte](https://seatable.io/docs/datei-und-bildanhaenge/die-datei-spalte/), da sie nur spezielle Bild-Dateiformate akzeptiert. Diese Einschränkung kann in gewissen Anwendungsfällen sehr praktisch sein.
@@ -14,7 +14,7 @@ Für die Erfassung von **Dateien** und **Bildern** stehen Ihnen in SeaTable die 
 
 Der Spaltentyp **Bild** speichert eine beliebige Anzahl an **Bilddateien** in den Dateiformaten **BMP, GIF, ICO, JPG, PNG, SVG und TIF**. Die Bild-Spalte ist damit eine auf Bild-Dateiformate eingeschränkte Datei-Spalte und bietet eine **Vorschau** in Form eines Miniaturbildes an.
 
-![Bildervorschau in der Bild-Spalte von SeaTable](https://seatable.io/wp-content/uploads/2022/10/picture-preview-seatable.png)
+![Bildervorschau in der Bild-Spalte von SeaTable](images/picture-preview-seatable.png)
 
 ## Datei-Spalte
 

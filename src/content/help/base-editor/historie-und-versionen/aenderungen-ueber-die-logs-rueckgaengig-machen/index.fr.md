@@ -14,7 +14,7 @@ SeaTable consigne toutes les activités au sein d'une base dans un journal. Celu
 
 Vous ouvrez les logs comme la corbeille en cliquant sur l'icône des versions dans le coin supérieur droit.
 
-![Ouvrir les logs dans la base](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Ouvrir les logs dans la base](images/Logs-in-der-Base-oeffnen.png)
 
 Dans le tableau de bord qui s'ouvre, vous trouverez, dans l'ordre antichronologique, les modifications les plus récentes qui ont été apportées à la base. Chaque entrée de journal contient les informations suivantes :
 
@@ -24,7 +24,7 @@ Dans le tableau de bord qui s'ouvre, vous trouverez, dans l'ordre antichronologi
 - Date de la modification
 - Description de la modification
 
-![Changements dans les logs](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Changements dans les logs](images/Aenderungen-in-den-Logs.png)
 
 ## Charger des entrées de journal plus anciennes
 

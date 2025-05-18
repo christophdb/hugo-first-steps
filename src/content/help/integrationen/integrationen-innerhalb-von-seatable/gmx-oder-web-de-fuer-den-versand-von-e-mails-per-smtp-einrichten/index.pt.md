@@ -21,12 +21,12 @@ Por defeito, as contas GMX e WEB.DE só podem ser utilizadas através dos webmai
 1. Inicie sessão na sua **conta de correio eletrónico GMX**.
 2. Chame as **definições** da sua conta.
 
-![Definições dentro do GMX](https://seatable.io/wp-content/uploads/2023/03/gmx-free-email-smtp-versand-mit-seatable.jpg)
+![Definições dentro do GMX](images/gmx-free-email-smtp-versand-mit-seatable.jpg)
 
 4. Clique em **Recuperação POP3/IMAP** nas definições de correio eletrónico.
 5. Ativar **Permitir acesso POP3 e IMAP**.
 
-![Permitir SMTP para GMX e WEB.De.](https://seatable.io/wp-content/uploads/2023/03/activate_smtp_for_gmx.png)
+![Permitir SMTP para GMX e WEB.De.](images/activate_smtp_for_gmx.png)
 
 7. **Guarde** o seu troco.
 
@@ -36,7 +36,7 @@ Já fez todos os preparativos para poder utilizar esta conta de correio eletrón
 
 Agora, adicione a sua conta de correio eletrónico como **fornecedor de terceiros** no seu SeaTable Base. Para tal, são necessários os seguintes passos:
 
-![Integração de terceiros através das opções de base avançadas](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Integração de terceiros através das opções de base avançadas](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. {{< seatable-icon icon="dtable-icon-more-level" >}}Abra as opções da base alargada clicando no **ícone de três pontos**.
 2. Selecione a opção **Integração de fornecedores terceiros**.
@@ -53,7 +53,7 @@ Agora, adicione a sua conta de correio eletrónico como **fornecedor de terceiro
 Os campos anfitrião IMAP e porta IMAP podem permanecer vazios. Os dados do servidor SMTP para o WEB.DE podem ser encontrados na [secção de ajuda do WEB.DE.](https://hilfe.web.de/pop-imap/imap/imap-serverdaten.html)
 
 Um exemplo de configuração para uma conta GMX é o seguinte:  
-![Definições SMTP do GMX](https://seatable.io/wp-content/uploads/2023/03/smtp-settings-gmx.jpg)
+![Definições SMTP do GMX](images/smtp-settings-gmx.jpg)
 
 ## Envio de e-mails por automatização
 

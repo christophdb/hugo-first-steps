@@ -20,12 +20,12 @@ Vous pouvez aussi simplement utiliser ce lien :
 
 {{< warning  headline="Remarque importante"  text="Les utilisateurs peuvent être rendus inactifs **uniquement** par les admins d'équipe." />}}2. Ouvrez la **gestion d'équipe**. 3. Cliquez sur **Équipe**. 4. Cliquez sur n'importe quel **utilisateur**. 5. **Activez** le **curseur** à côté de l'option **"Désactiver l'utilisateur".** 6. Cliquez sur **Enregistrer les modifications**.
 
-![Désactiver les utilisateurs inactifs via l'onglet "Équipe" dans la gestion des équipes](https://seatable.io/wp-content/uploads/2023/01/deactivate-user.png)
+![Désactiver les utilisateurs inactifs via l'onglet "Équipe" dans la gestion des équipes](images/deactivate-user.png)
 
 Les utilisateurs désactivés apparaissent toujours dans l'aperçu de l'équipe sous l'onglet **Équipe** avec une indication rouge **Inactif**.
 
-![Les utilisateurs désactivés peuvent toujours être reconnus dans l'aperçu de l'équipe par la mention rouge "inactif".](https://seatable.io/wp-content/uploads/2023/01/inactive-user.png)
+![Les utilisateurs désactivés peuvent toujours être reconnus dans l'aperçu de l'équipe par la mention rouge "inactif".](images/inactive-user.png)
 
 Les utilisateurs inactifs n'ont **pas** besoin de **licence** et n'augmentent pas le nombre total d'utilisateurs réservés.
 
-![Les utilisateurs inactifs n'ont pas d'influence sur le nombre total d'utilisateurs inscrits.](https://seatable.io/wp-content/uploads/2023/01/inactive-users-dont-count.png)
+![Les utilisateurs inactifs n'ont pas d'influence sur le nombre total d'utilisateurs inscrits.](images/inactive-users-dont-count.png)

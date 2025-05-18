@@ -16,7 +16,7 @@ url: '/ru/help/kanbanseiten-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Изменение настроек страницы Канбан](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Kanbanseite-aendern.png)
+![Изменение настроек страницы Канбан](images/Einstellungen-der-Kanbanseite-aendern.png)
 
 В **настройках страницы** укажите, на какой **таблице** основана доска Kanban, по какому столбцу **группируются** записи и из какого столбца **берутся заголовки**.
 

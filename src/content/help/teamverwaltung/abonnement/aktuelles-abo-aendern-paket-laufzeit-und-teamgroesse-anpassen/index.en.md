@@ -47,7 +47,7 @@ Of course, you also only pay the respective **pro-rata amount** for each change.
 4. Make the desired changes to the **subscription**, **number of users**, and **billing period**.
 5. Confirm the change of your subscription with **Adjust subscription with costs**.
 
-![Confirm the change of your subscription](https://seatable.io/wp-content/uploads/2023/01/switch-from-plus-to-enterprise.png)
+![Confirm the change of your subscription](images/switch-from-plus-to-enterprise.png)
 
 ## Cancellation of your paid subscription
 
@@ -59,9 +59,9 @@ You can return to the free subscription at the end of the already paid term. For
 2. Click on **Subscription**.
 3. Click **Cancel Subscription and switch to SeaTable Free**.
 
-![Change your subscription from Plus/Enterprise to Free](https://seatable.io/wp-content/uploads/2023/01/switch-to-seatable-free.png)
+![Change your subscription from Plus/Enterprise to Free](images/switch-to-seatable-free.png)
 
 5. Carefully read the **instructions on** how to switch to SeaTable Free.
 6. Activate the **slider** and confirm the change of your subscription with **Cancel subscription and switch to SeaTable Free**.
 
-![Confirm the change of your subscription to SeaTable Free](https://seatable.io/wp-content/uploads/2023/01/confirm-switch-to-seatable-free.png)
+![Confirm the change of your subscription to SeaTable Free](images/confirm-switch-to-seatable-free.png)

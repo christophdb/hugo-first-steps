@@ -16,7 +16,7 @@ Mithilfe dieses Seitentyps können Sie eine beliebige **Tabelle** Ihrer Base als
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Öffnen der Seiteneinstellungen](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Öffnen der Seiteneinstellungen](images/page-permissions-universal-app.png)
 
 Beim Bearbeiten von Tabellenseiten können Sie zahlreiche **Seiteneinstellungen** vornehmen, um die angezeigten Daten aus der zugrundeliegenden Tabelle exakt auf eine Nutzergruppe zuzuschneiden.
 

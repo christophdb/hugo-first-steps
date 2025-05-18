@@ -22,11 +22,11 @@ SeaTable allows you to link information from different tables. To do this, use t
 
 As soon as tables are linked, you can call up the information of the linked entries via the **link dialog**. To do this, click on the **double arrow symbol** in a **cell of** the link column or **double-click**. The **linked entries** are listed in the link dialog that opens. Click on an entry to view the **row details** in an additional window.
 
-![Row detail view for linked entries](https://seatable.io/wp-content/uploads/2022/10/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
+![Row detail view for linked entries](images/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
 
 ## Link existing entries
 
-![Link existing entries](https://seatable.io/wp-content/uploads/2022/10/link-existing-entries.gif)
+![Link existing entries](images/link-existing-entries.gif)
 
 1. Click in a **cell of** the **shortcut column** and then on the **plus icon** that appeared.
 2. Now the available **rows of the linked table** are listed. Select the row(n) you want to link to the row of your current table.

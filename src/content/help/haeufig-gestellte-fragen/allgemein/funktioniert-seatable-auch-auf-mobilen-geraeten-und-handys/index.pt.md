@@ -14,11 +14,11 @@ Naturalmente, também pode utilizar o SeaTable em **dispositivos móveis**, como
 
 Quando acede ao SeaTable através de um browser num dispositivo móvel, a interface do utilizador do SeaTable muda para optimizar o funcionamento para resoluções de ecrã pequenas. As duas alterações mais óbvias são os dois grandes botões redondos no canto inferior direito do ecrã.
 
-![Vista móvel no SeaTable](https://seatable.io/wp-content/uploads/2023/05/mobile-view-seatable.png)
+![Vista móvel no SeaTable](images/mobile-view-seatable.png)
 
 Sobre o {{< key "+" >}} podem ser criadas novas entradas e o {{< key "..." >}} pode mudar do modo de lista familiar para o modo de grelha. Neste modo, cada linha é apresentada como uma caixa separada, o que facilita a sua selecção.
 
-![Modo de grelha SeaTable para pequenas resoluções](https://seatable.io/wp-content/uploads/2023/05/seatable-grid-modus.png)
+![Modo de grelha SeaTable para pequenas resoluções](images/seatable-grid-modus.png)
 
 ## Listas de selecção em vez de ícones pequenos
 

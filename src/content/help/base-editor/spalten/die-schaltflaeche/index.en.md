@@ -14,7 +14,7 @@ The Button column has a similar function to [automations](https://seatable.io/en
 
 First, name the **column** and set the **label** and **color of the button** you want to add to your rows .
 
-![Create a button](https://seatable.io/wp-content/uploads/2023/01/create-button-column.png)
+![Create a button](images/create-button-column.png)
 
 In the next step, you define any number of **actions** that are to be triggered by activating the button. Thereby you have the possibility to switch **several** actions one after the other.
 
@@ -36,18 +36,18 @@ You can choose between **nine** different actions in total:
 
 In this application example we use the button to assign the status "paid" to paid invoices by mouse click. For this purpose we take the action **row edit**.
 
-![Selection of the action that is triggered by activating the button](https://seatable.io/wp-content/uploads/2023/01/modify-row.png)
+![Selection of the action that is triggered by activating the button](images/modify-row.png)
 
 In the **column settings** we specify that the entries in the single-selection column **"status"** are set from **"pending"** to **"paid** **"** by activating the button.
 
-![Definition of the button in the application example](https://seatable.io/wp-content/uploads/2023/01/settings-of-the-button-column-in-the-example.png)
+![Definition of the button in the application example](images/settings-of-the-button-column-in-the-example.png)
 
 After clicking the button, the **status of** the selected invoice changes to **paid.**
 
-![Triggered action in the button application example](https://seatable.io/wp-content/uploads/2023/01/example-button-column.gif)
+![Triggered action in the button application example](images/example-button-column.gif)
 
 ### Additional option
 
 To extend the automation of process steps, you can also use buttons in combination with [automations]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) them for processing.
 
-![Application example for the use of the button in combination with automations](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)
+![Application example for the use of the button in combination with automations](images/use-the-button-cplumn-with-automations.gif)

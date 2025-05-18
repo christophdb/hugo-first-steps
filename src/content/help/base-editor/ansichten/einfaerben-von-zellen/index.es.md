@@ -19,11 +19,11 @@ Además de la opción de **colorear las celdas**, también existe la posibilidad
 ## Colorear por reglas o por valores
 
 Cada columna ofrece la posibilidad de **Formatear las celdas de la columna** an:  
-![Colorear celdas en SeaTable](https://seatable.io/wp-content/uploads/2022/10/color-cells.png)
+![Colorear celdas en SeaTable](images/color-cells.png)
 
 SeaTable se comportará de forma diferente dependiendo del **tipo de columna** para la que llame a esta opción. Para [columnas numéricas](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/), puede utilizar tanto reglas como valores para colorear. Para todos los demás tipos de columnas, sólo están disponibles las reglas para colorear.
 
-![Colorear con reglas o según valores](https://seatable.io/wp-content/uploads/2022/10/color-cells-rules-values.png)
+![Colorear con reglas o según valores](images/color-cells-rules-values.png)
 
 ## Para colorear las celdas según una regla
 
@@ -40,11 +40,11 @@ SeaTable se comportará de forma diferente dependiendo del **tipo de columna** p
 
 Al utilizar una regla, se colorean **todas las celdas** de una columna a las que **se aplica** una regla. Por ejemplo, una regla de este tipo podría ser: "Colorear de amarillo todas las celdas con una valoración de tres o más estrellas".
 
-![Colorear celdas con una regla](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-einer-Regel.png)
+![Colorear celdas con una regla](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
 
 Puede crear **varias reglas con diferentes colores** por columna.
 
-![Colorear celdas con varias reglas](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
+![Colorear celdas con varias reglas](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
 También puede definir **varias condiciones** por regla, que pueden referirse a todas las columnas de la tabla. Por ejemplo, colorear la [columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) con el titular de un artículo si el **estado** no es "terminado", la **fecha de publicación** es futura y ya hay una **imagen** disponible.
 

@@ -47,5 +47,5 @@ Puede crear uno o más filtros que restrinjan aún más la primera condición. M
 
 ## Reorganizar filtros
 
-Puede mover y reordenar los filtros moviendo el ratón sobre el icono **Superficie de agarre** ![Icono de elementos móviles](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) Presiona y mantén, tira y suelta.  
+Puede mover y reordenar los filtros moviendo el ratón sobre el icono **Superficie de agarre** ![Icono de elementos móviles](images/move-icon.png) Presiona y mantén, tira y suelta.  
 ![Filtrar las entradas clasificadas](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)

@@ -43,7 +43,7 @@ When selecting a suitable **app icon**, you can upload and use your own **user-d
 
 The settings mentioned so far affect an **entire Universal App**. If you want to change the settings of a **single page**, click the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}} of the corresponding page in the navigation.
 
-![Open the page settings](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Open the page settings](images/page-permissions-universal-app.png)
 
 Currently, the [individual page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) in particular offers numerous additional design settings. For example, you can define different colors for backgrounds, fonts, lines and frames for the elements. Use the practical **color picker** for this.
 

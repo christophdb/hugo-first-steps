@@ -24,7 +24,7 @@ Actuellement, il existe cinq domaines dans lesquels vous pouvez utiliser la synt
 
 Dès que Markdown est utilisé dans SeaTable, le masque de saisie suivant vous est proposé. Vous pouvez bien sûr sélectionner des mots ou des blocs de texte comme d'habitude, puis choisir la mise en forme souhaitée.
 
-![Markdown dans SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
+![Markdown dans SeaTable](images/markdown-seatable.png)
 
 Vous pouvez également déclencher directement le formatage Markdown en saisissant certains caractères spéciaux. Il suffit de taper dans un champ de saisie Markdown un {{< key "#" >}} suivi d'un mot. Vous verrez que dans la syntaxe Markdown, le dièse correspond à un premier titre. Ainsi, si vous savez quel caractère spécial déclenche quel formatage, vous pouvez saisir et formater vos textes beaucoup plus rapidement.
 
@@ -91,7 +91,7 @@ Si une ligne commence par un {{< key "1." >}}elle est automatiquement transform�
 
 Un **Citation en bloc** est une ligne qui commence par {{< key "\>" >}} suivie du contenu de la citation. Les citations sont signalées par une indentation et un cadre dans la marge de gauche.
 
-![Citation de Markdown](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
+![Citation de Markdown](images/markdown-cite.png)
 
 ### Code en ligne
 
@@ -103,7 +103,7 @@ Texte rédigé par un {{< key "FIXME: backtick" >}} couple est représenté sous
 
 Un **Bloc de code** est déterminé par trois successives **Bâtons de cuisson** {{< key "```" >}} a été introduit. La particularité du bloc de code est que son contenu est présenté sous forme de **Code en ligne** est affiché avec une police monospace. Les indentations sont également conservées telles qu'elles sont saisies.
 
-![Bloc de code Markdown](https://seatable.io/wp-content/uploads/2023/05/markdown-codeblock.png)
+![Bloc de code Markdown](images/markdown-codeblock.png)
 
 ### Sauts de ligne
 

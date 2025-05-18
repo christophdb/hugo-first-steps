@@ -23,7 +23,7 @@ Para controlar com precisão **o acesso aos seus dados**, pode definir **permiss
 
 6. Seleccione a **página** pretendida na navegação do lado esquerdo da página e clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 
-![Clique no ícone de edição](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Clique no ícone de edição](images/page-permissions-universal-app.png)
 
 8. Defina as **permissões** pretendidas nas **definições da página** que aparecem no lado direito da **página**.
 

@@ -17,7 +17,7 @@ Normalement, quelques secondes plus tard, un nouveau formulaire apparaît pour c
 
 Des problèmes surviennent régulièrement lors de ce rechargement du contrôle 3D Secure. Parfois, ce nouveau formulaire n'apparaît pas, parfois l'écran devient blanc et parfois il est cliqué par erreur.
 
-![Paiement avec 3D Secure](https://seatable.io/wp-content/uploads/2023/05/3d_secure_payment.gif)
+![Paiement avec 3D Secure](images/3d_secure_payment.gif)
 
 ## Que pouvez-vous faire ?
 

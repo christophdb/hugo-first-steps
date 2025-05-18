@@ -21,12 +21,12 @@ url: '/ru/help/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 1. Войдите в свою **учетную запись электронной почты GMX**.
 2. Вызовите **настройки** вашей учетной записи.
 
-![Настройки внутри GMX](https://seatable.io/wp-content/uploads/2023/03/gmx-free-email-smtp-versand-mit-seatable.jpg)
+![Настройки внутри GMX](images/gmx-free-email-smtp-versand-mit-seatable.jpg)
 
 4. В настройках электронной почты выберите пункт **Получение по POP3/IMAP**.
 5. Активируйте **Разрешить доступ по протоколам POP3 и IMAP**.
 
-![Разрешите SMTP для GMX и WEB.De.](https://seatable.io/wp-content/uploads/2023/03/activate_smtp_for_gmx.png)
+![Разрешите SMTP для GMX и WEB.De.](images/activate_smtp_for_gmx.png)
 
 7. **Сохраните** изменения.
 
@@ -36,7 +36,7 @@ url: '/ru/help/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 
 Теперь добавьте свою учетную запись электронной почты в качестве **стороннего провайдера** в базу SeaTable. Для этого необходимо выполнить следующие действия:
 
-![Интеграция сторонних производителей через расширенные опции базы](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Интеграция сторонних производителей через расширенные опции базы](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. {{< seatable-icon icon="dtable-icon-more-level" >}}Откройте опции расширенной базы, нажав на **значок с тремя точками**.
 2. Выберите опцию **Интеграция сторонних провайдеров.**
@@ -53,7 +53,7 @@ url: '/ru/help/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 Поля IMAP host и IMAP port могут оставаться пустыми. Данные SMTP-сервера для WEB.DE можно найти в [разделе справки по WEB.DE.](https://hilfe.web.de/pop-imap/imap/imap-serverdaten.html)
 
 Пример конфигурации для учетной записи GMX выглядит следующим образом:  
-![Настройки SMTP из GMX](https://seatable.io/wp-content/uploads/2023/03/smtp-settings-gmx.jpg)
+![Настройки SMTP из GMX](images/smtp-settings-gmx.jpg)
 
 ## Отправка электронных писем с помощью автоматизации
 

@@ -12,7 +12,7 @@ In the following article you will find a Python script that allows you to output
 
 ## Entering and executing the script
 
-![Exporting a Base Structure](https://seatable.io/wp-content/uploads/2023/03/export_base_structure.gif)
+![Exporting a Base Structure](images/export_base_structure.gif)
 
 1. Open the **Base** in which you have a problem.
 2. Click {{< seatable-icon icon="dtable-icon-script" >}} in the Base header.
@@ -69,4 +69,4 @@ Table: price range (ID: 5H74)
 
 If you open a new topic in the [SeaTable forum](https://forum.seatable.io) using the **\+ New Topic** button, you can insert your base structure as **preformatted text** to illustrate the problem.
 
-![Post of the result in the forum](https://seatable.io/wp-content/uploads/2023/03/new-topic-with-preformatted-text.png)
+![Post of the result in the forum](images/new-topic-with-preformatted-text.png)

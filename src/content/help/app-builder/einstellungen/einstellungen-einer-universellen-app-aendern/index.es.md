@@ -23,7 +23,7 @@ Dentro de una **aplicación universal**, puede realizar varios **ajustes globale
 
 6. Haga clic en el **símbolo de la rueda dentada** situado en la parte superior izquierda de la página.
 
-![Icono de rueda dentada para los ajustes de la aplicación](https://seatable.io/wp-content/uploads/2023/05/Zahnrad-Symbol-fuer-App-Einstellungen.png)
+![Icono de rueda dentada para los ajustes de la aplicación](images/Zahnrad-Symbol-fuer-App-Einstellungen.png)
 
 8. Realice los ajustes deseados en **la configuración de** la aplicación universal.
 
@@ -33,13 +33,13 @@ Dentro de una **aplicación universal**, puede realizar varios **ajustes globale
 
 En la primera sección de la configuración de la aplicación, puede personalizar el **nombre de** la aplicación universal y guardarlo haciendo clic en **Enviar**.
 
-![Cambiar el nombre de la aplicación](https://seatable.io/wp-content/uploads/2023/05/Change-app-name.png)
+![Cambiar el nombre de la aplicación](images/Change-app-name.png)
 
 ## URL definida por el usuario
 
 En la segunda sección, puede personalizar parte de la **URL** con la que puede llamar y enlazar a su aplicación universal. Solo tienes que introducir la URL que desees en el **campo de texto** y tener en cuenta los **requisitos** que se indican a continuación al introducirla. A continuación, puede **guardar** y **copiar** la URL introducida.
 
-![Editar URL personalizada](https://seatable.io/wp-content/uploads/2023/05/Edit-custom-URL.png)
+![Editar URL personalizada](images/Edit-custom-URL.png)
 
 **Requisitos:** La parte de la URL definida por el usuario debe tener entre 5 y 30 caracteres y sólo puede contener **letras (a-z), números (0-9) y guiones**.
 
@@ -47,7 +47,7 @@ En la segunda sección, puede personalizar parte de la **URL** con la que puede 
 
 En la tercera sección, puedes decidir si la **barra de navegación** debe mostrarse u ocultarse por defecto al abrir la aplicación. La barra de navegación es el área de la izquierda que todos los usuarios utilizan para navegar a las [páginas y carpetas](https://seatable.io/es/docs/universelle-apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/) de la app.
 
-![Ocultar la navegación de la aplicación por defecto](https://seatable.io/wp-content/uploads/2023/05/Hide-app-navigation-by-default.png)
+![Ocultar la navegación de la aplicación por defecto](images/Hide-app-navigation-by-default.png)
 
 Esta es la configuración por defecto cuando se abre la aplicación por primera vez. Cada usuario de la aplicación puede mostrar y ocultar la barra de navegación según sus necesidades mediante los **iconos** o **combinaciones de teclas** correspondientes.
 
@@ -57,19 +57,19 @@ Esta es la configuración por defecto cuando se abre la aplicación por primera 
 
 En la cuarta sección, puede decidir si su **lista de empleados** debe ser visible para todos los usuarios de la aplicación. A continuación, puedes introducir personas en [columnas de empleados]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) o añadirlas a [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
 
-![Cargar la lista de colaboradores en las aplicaciones](https://seatable.io/wp-content/uploads/2023/05/Load-collaborator-list-in-apps.png)
+![Cargar la lista de colaboradores en las aplicaciones](images/Load-collaborator-list-in-apps.png)
 
 ## Gestión de macrodatos
 
 Esta sección sólo es relevante si ha activado el [almacenamiento](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) de [big data](https://seatable.io/es/docs/big-data/aktivieren-des-big-data-backends-in-einer-base/) en su Base. Las aplicaciones pueden acceder a los datos en el almacenamiento de big data y guardar las entradas creadas a través de la aplicación directamente allí. Sin embargo, las nuevas entradas se guardan en la base por defecto. Para establecer el almacenamiento de big data como **ubicación de almacenamiento de las nuevas entradas**, basta con activar el control deslizante. Como muestra la captura de pantalla, puede especificar para cada tabla si las nuevas filas deben escribirse en la base (casilla vacía) o en el almacenamiento de big data (casilla marcada).
 
-![Gestión de macrodatos en aplicaciones](https://seatable.io/wp-content/uploads/2023/05/Big-data-management-in-apps.png)
+![Gestión de macrodatos en aplicaciones](images/Big-data-management-in-apps.png)
 
 ## Acceso ilimitado
 
 En la última sección, puedes configurar **el acceso abierto** para tu app universal. Por un lado, puedes permitir **que usuarios no registrados accedan a** tu app, de modo que cualquiera que llame al enlace pueda ver (pero no modificar) los datos.
 
-![Acceso abierto a una aplicación](https://seatable.io/wp-content/uploads/2023/05/Open-access-to-an-app.png)
+![Acceso abierto a una aplicación](images/Open-access-to-an-app.png)
 
 Sin embargo, también puede activar que **cada usuario conectado** que utilice su aplicación se **registre automáticamente como usuario de la aplicación**. Al hacerlo, usted determina qué **rol** se asigna a los usuarios durante el registro. Dependiendo de su [autorización](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) en las páginas individuales, los usuarios con este rol también pueden añadir, editar o eliminar filas.
 
@@ -77,4 +77,4 @@ Sin embargo, también puede activar que **cada usuario conectado** que utilice s
 
 Los ajustes mencionados hasta ahora afectan a **toda** una **aplicación universal**. Si desea cambiar la configuración de una **página individual**, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} de la página correspondiente en la navegación.
 
-![Abrir la configuración de la página](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Abrir la configuración de la página](images/page-permissions-universal-app.png)

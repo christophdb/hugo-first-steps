@@ -14,20 +14,20 @@ La colonne de géoposition vous permet de collecter la latitude et la longitude 
 
 Lorsque vous créez une colonne de géoposition, vous pouvez décider d'ajouter à votre tableau **la latitude et la long** itude d'un lieu ou un **pays** ou une **région** à l'aide de la fonction de recherche.
 
-![Options de sélection lors de la création d'une colonne de géopositions](https://seatable.io/wp-content/uploads/2023/01/Optionen-beim-Erstellen-einer-Geopositionsspalte.png)
+![Options de sélection lors de la création d'une colonne de géopositions](images/Optionen-beim-Erstellen-einer-Geopositionsspalte.png)
 
 ## Enquête sur les pays et les régions
 
 Cette option vous permet de sélectionner un **pays** dans une liste prédéfinie dans chaque cellule de la colonne. Un **champ de saisie** avec autocomplétion vous aide à trouver le pays souhaité. Les autres valeurs ne sont **pas** acceptées par la colonne.
 
-![Ajouter des pays ou des régions à l'aide de la fonction de recherche de la colonne "Géoposition".](https://seatable.io/wp-content/uploads/2023/01/Erhebung-von-Laendern.png)
+![Ajouter des pays ou des régions à l'aide de la fonction de recherche de la colonne "Géoposition".](images/Erhebung-von-Laendern.png)
 
-![Exemple d'utilisation d'une colonne de géopositions](https://seatable.io/wp-content/uploads/2023/01/Beispiel-Geopositions-Spalte-1.png)
+![Exemple d'utilisation d'une colonne de géopositions](images/Beispiel-Geopositions-Spalte-1.png)
 
 ## Relevé de la latitude et de la longitude de n'importe quel lieu
 
 Si vous choisissez l'option de latitude et de longitude, SeaTable présente une **section de la carte** et un **champ de saisie**. Vous pouvez soit sélectionner le **lieu** souhaité sur la carte, soit saisir la latitude **et la long** itude dans le champ de saisie.
 
-![Ajouter un lieu en fonction de sa latitude et de sa longitude ](https://seatable.io/wp-content/uploads/2023/01/Erhebung-von-Laengen-und-Breitengraden.png)
+![Ajouter un lieu en fonction de sa latitude et de sa longitude ](images/Erhebung-von-Laengen-und-Breitengraden.png)
 
-![Exemple d'utilisation d'une colonne de géopositions](https://seatable.io/wp-content/uploads/2023/01/Beispiel-2-Geopositionsspalte.png)
+![Exemple d'utilisation d'une colonne de géopositions](images/Beispiel-2-Geopositionsspalte.png)

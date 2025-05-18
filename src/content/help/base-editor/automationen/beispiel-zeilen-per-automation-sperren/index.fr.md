@@ -10,7 +10,7 @@ url: '/fr/aide/zeilen-per-automation-sperren'
 
 Avec l'aide des automatisations, vous ne devez plus bloquer manuellement les lignes dans vos tableaux, mais vous pouvez faire en sorte que le [blocage des lignes]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) s'effectue automatiquement. C'est très utile si vous voulez toujours empêcher qu'une ligne puisse être traitée à partir d'un certain moment (par exemple lorsqu'une opération est terminée).
 
-![Bloquer une ligne avec une automation](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Bloquer une ligne avec une automation](images/lock-row-with-an-automation.png)
 
 {{< warning  headline="Déverrouillage uniquement possible manuellement"  text="Les lignes bloquées par une automatisation ne peuvent **pas** être **débloquées** de la même manière. Cela n'est possible que manuellement et avec les **droits d'administrateur** nécessaires." />}}
 

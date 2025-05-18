@@ -22,11 +22,11 @@ SeaTable vous permet de relier entre elles des informations provenant de différ
 
 Dès que les tableaux sont liés entre eux, vous pouvez utiliser la **boîte de dialogue des liens** pour accéder aux informations des entrées liées. Pour ce faire, cliquez sur le **symbole de la double flèche** dans une **cellule** de la colonne de liaison ou faites un **double clic**. Les **entrées liées** sont listées dans la boîte de dialogue de lien qui s'ouvre. Cliquez sur une entrée pour voir les **détails de la ligne** dans une fenêtre supplémentaire.
 
-![Vue détaillée des lignes pour les entrées liées](https://seatable.io/wp-content/uploads/2022/10/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
+![Vue détaillée des lignes pour les entrées liées](images/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
 
 ## Lier des entrées existantes
 
-![Lier des entrées existantes](https://seatable.io/wp-content/uploads/2022/10/link-existing-entries.gif)
+![Lier des entrées existantes](images/link-existing-entries.gif)
 
 1. Cliquez dans une **cellule** de la **colonne des liens**, puis sur le **symbole plus** qui apparaît.
 2. Une liste des **lignes** disponibles **du tableau lié** s'affiche alors. Sélectionnez la ou les lignes que vous souhaitez lier à la ligne de votre tableau actuel.

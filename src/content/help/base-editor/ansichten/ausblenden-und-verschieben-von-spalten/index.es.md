@@ -12,7 +12,7 @@ Cuantas más columnas cree para introducir datos, más confusa será su tabla. P
 
 ## Ocultar columnas
 
-![Ocultar columnas](https://seatable.io/wp-content/uploads/2022/10/hide-coloumns-2.gif)
+![Ocultar columnas](images/hide-coloumns-2.gif)
 
 1. Haga clic en **Ocultar** en las opciones de vista de cualquier tabla.
 2. Oculte cualquier número de columnas **haciendo clic sobre** ellas. Utilice el **campo de búsqueda** para limitar la selección de columnas o para buscar una columna específica que desee ocultar.
@@ -21,12 +21,12 @@ Cuantas más columnas cree para introducir datos, más confusa será su tabla. P
 
 ## Mover columnas
 
-Mantenga pulsado el botón del ratón sobre el **Símbolos de seis puntos** ![Icono de elementos móviles](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) delante de los nombres de las columnas y arrástrelas hacia arriba o hacia abajo en la lista para cambiar el orden de las columnas de la tabla como desee.
+Mantenga pulsado el botón del ratón sobre el **Símbolos de seis puntos** ![Icono de elementos móviles](images/move-icon.png) delante de los nombres de las columnas y arrástrelas hacia arriba o hacia abajo en la lista para cambiar el orden de las columnas de la tabla como desee.
 
-![Mover columnas](https://seatable.io/wp-content/uploads/2022/10/moving-columns.gif)
+![Mover columnas](images/moving-columns.gif)
 
 Además, también puede mover las columnas directamente en la **vista de tabla** mediante arrastrar y soltar. Para ello, mantenga pulsado el botón del ratón sobre el **nombre de una columna** y desplácela hacia la derecha o hacia la izquierda.
 
-![Mover las columnas de la vista de la tabla.](https://seatable.io/wp-content/uploads/2022/10/moving-columns-from-the-table-view.gif)
+![Mover las columnas de la vista de la tabla.](images/moving-columns-from-the-table-view.gif)
 
 {{< warning  headline="Nota importante"  text="Tenga en cuenta que la **primera columna de** una tabla **no** se puede mover. Puede conocer otras características especiales de la primera columna en el [artículo de resumen](https://seatable.io/es/docs/spalten/die-besonderheiten-der-ersten-spalte/) correspondiente." />}}

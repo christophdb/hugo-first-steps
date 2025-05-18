@@ -16,11 +16,11 @@ Mithilfe dieses Seitentyps können Sie **Bilder** und andere Daten, die Sie in I
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der Galerieseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Einstellungen der Galerieseite ändern](images/Einstellungen-der-Galerieseite-aendern.png)
 
 In den **Seiteneinstellungen** können Sie die **Tabelle**, die **Bild-Spalte** und die **Titel-Spalte** auswählen, aus denen die Galerie gespeist wird.
 
-![Seiteneinstellungen der Galerieseite in Universellen Apps](https://seatable.io/wp-content/uploads/2023/12/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
+![Seiteneinstellungen der Galerieseite in Universellen Apps](images/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
 
 ## Voreingestellte Filter, Sortierungen und ausgeblendete Spalten
 

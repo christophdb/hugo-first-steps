@@ -30,7 +30,7 @@ url: '/ru/help/neue-kalendereintraege-im-kalender-plugin-anlegen'
 
 {{< warning  headline="Примечание"  text="Двойное нажатие работает только для вариантов отображения **месяца**, **недели** и **дня**." />}}
 
-![Создайте запись в календаре двойным щелчком или с помощью символа плюса](https://seatable.io/wp-content/uploads/2023/01/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
+![Создайте запись в календаре двойным щелчком или с помощью символа плюса](images/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
 
 ### Создавайте новые записи с помощью большого символа плюса
 

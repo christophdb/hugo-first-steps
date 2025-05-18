@@ -14,7 +14,7 @@ SeaTable logs all activities within a base in a log. This log can be used to res
 
 You open the logs like the recycle bin via the versions icon in the upper right corner.
 
-![Open logs in Base](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Open logs in Base](images/Logs-in-der-Base-oeffnen.png)
 
 In the panel that opens you will find, in antichronological order, the most recent changes made in Base. Each log entry contains the following information:
 
@@ -24,7 +24,7 @@ In the panel that opens you will find, in antichronological order, the most rece
 - Date of the change
 - Description of the change
 
-![Changes in the logs](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Changes in the logs](images/Aenderungen-in-den-Logs.png)
 
 ## Load older log entries
 

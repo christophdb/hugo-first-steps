@@ -23,7 +23,7 @@ Everything else you should know about external links can be found in the article
 
 ## Create external link for a view
 
-![Create external link for a view in SeaTable](https://seatable.io/wp-content/uploads/2022/10/create-an-external-link-for-a-view-2.gif)
+![Create external link for a view in SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
 1. Open the **view of** a table you want to share.
 2. Click **Share View**, and then click **External Link**.

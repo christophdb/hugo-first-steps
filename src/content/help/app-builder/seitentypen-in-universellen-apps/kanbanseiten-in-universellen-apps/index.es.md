@@ -16,7 +16,7 @@ Este tipo de página funciona de forma similar al [plugin Kanban](https://seatab
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Cambiar la configuración de la página Kanban](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Kanbanseite-aendern.png)
+![Cambiar la configuración de la página Kanban](images/Einstellungen-der-Kanbanseite-aendern.png)
 
 En la **configuración de la página**, especifique en qué **tabla** se basa la tabla Kanban, por qué columna se **agrupan** las entradas y de qué columna proceden los **títulos**.
 

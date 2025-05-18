@@ -28,6 +28,6 @@ Vous souhaitez modifier votre propre **mot de passe**? Pas de problème ! Vous p
 
 Pour afficher un mot de passe **en clair**, cliquez sur l'**icône** en **forme d'œil** à droite. De plus, la **force de** votre nouveau mot de passe s'affiche automatiquement.
 
-![Évaluer la force du mot de passe](https://seatable.io/wp-content/uploads/2023/02/Staerke-des-Passworts-beurteilen.png)
+![Évaluer la force du mot de passe](images/Staerke-des-Passworts-beurteilen.png)
 
 10. Confirmez la modification de votre mot de passe en cliquant sur **Actualiser**.

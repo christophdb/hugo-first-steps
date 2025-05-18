@@ -14,7 +14,7 @@ url: '/ru/help/unterschiede-zwischen-bild-und-datei-spalte'
 
 Тип колонки **Image** хранит любое количество **файлов** изображений в форматах **BMP, GIF, ICO, JPG, PNG, SVG и TIF**. Таким образом, колонка Image - это колонка файлов, ограниченная форматами файлов изображений и предлагающая **предварительный просмотр** в виде уменьшенного изображения.
 
-![Предварительный просмотр изображений в колонке изображений SeaTable](https://seatable.io/wp-content/uploads/2022/10/picture-preview-seatable.png)
+![Предварительный просмотр изображений в колонке изображений SeaTable](images/picture-preview-seatable.png)
 
 ## Колонка файлов
 

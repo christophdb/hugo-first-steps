@@ -35,7 +35,7 @@ Bei der Auswahl eines passenden **App-Icons** können Sie neben den bereits in v
 
 Die bisher genannten Einstellungen betreffen eine **gesamte Universelle App**. Wenn Sie die Einstellungen einer **einzelnen Seite** ändern möchten, klicken Sie in der Navigation auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} der entsprechenden Seite.
 
-![Öffnen der Seiteneinstellungen](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Öffnen der Seiteneinstellungen](images/page-permissions-universal-app.png)
 
 Aktuell bietet vor allem die [individuelle Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) zahlreiche weitere Design-Einstellungen. Beispielsweise können Sie bei den Elementen verschiedene Farben für Hintergründe, Schriften, Linien und Rahmen festlegen. Nutzen Sie dafür den praktischen **Color Picker**.
 

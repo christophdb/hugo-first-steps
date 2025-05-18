@@ -14,7 +14,7 @@ Pour la saisie de **fichiers** et **d'images**, SeaTable propose deux types de c
 
 Le type de colonne **Image** enregistre un nombre quelconque de **fichiers image** dans les formats de fichier **BMP, GIF, ICO, JPG, PNG, SVG et TIF**. La colonne Image est donc une colonne de fichiers limitée aux formats de fichiers image et offre un **aperçu** sous la forme d'une image miniature.
 
-![Aperçu des images dans la colonne d'images de SeaTable](https://seatable.io/wp-content/uploads/2022/10/picture-preview-seatable.png)
+![Aperçu des images dans la colonne d'images de SeaTable](images/picture-preview-seatable.png)
 
 ## Colonne des fichiers
 

@@ -17,13 +17,13 @@ weight: 1
 
 В настоящее время в режиме редактирования универсального приложения можно выбрать один из **девяти типов страниц**.
 
-![Типы страниц Универсальное приложение](https://seatable.io/wp-content/uploads/2023/05/Seitentypen-Universal-App.png)
+![Типы страниц Универсальное приложение](images/Seitentypen-Universal-App.png)
 
 [Узнать, как создавать новые страницы в универсальном приложении, можно здесь.](https://seatable.io/ru/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
 
 Чтобы отредактировать существующие страницы, нажмите на **символ шестеренки** {{< seatable-icon icon="dtable-icon-set-up" >}} соответствующей страницы в навигации.
 
-![Нажмите на значок редактирования](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Нажмите на значок редактирования](images/page-permissions-universal-app.png)
 
 ## Тип страницы: Таблица
 

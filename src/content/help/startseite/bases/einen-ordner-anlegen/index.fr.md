@@ -12,7 +12,7 @@ Pour une meilleure vue d'ensemble de vos bases, vous avez la possibilité de cr�
 
 ## Créer un dossier à partir de la page d'accueil
 
-![Créer un dossier à partir de la page d'accueil](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-starting-page.gif)
+![Créer un dossier à partir de la page d'accueil](images/create-new-folder-via-starting-page.gif)
 
 1. Passez à la **page d'accueil** de SeaTable.
 2. Selon que vous souhaitez créer un dossier sous **Mes bases**, **Partagé avec moi** ou dans un **groupe** spécifique, cliquez sur **Ajouter une base ou un dossier** dans la zone correspondante **.**
@@ -25,7 +25,7 @@ Pour une meilleure vue d'ensemble de vos bases, vous avez la possibilité de cr�
 
 Outre la méthode décrite dans le premier paragraphe, vous pouvez également créer un dossier via l'**aperçu des dossiers**. Celui-ci s'ouvre automatiquement dans une nouvelle fenêtre lorsque vous cliquez sur un dossier existant sur la **page d'accueil**.
 
-![Créer un dossier dans l'aperçu des dossiers](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-folder-overview.gif)
+![Créer un dossier dans l'aperçu des dossiers](images/create-new-folder-via-folder-overview.gif)
 
 1. Passez à la **page d'accueil** de SeaTable.
 2. Cliquez sur un **dossier** déjà existant.

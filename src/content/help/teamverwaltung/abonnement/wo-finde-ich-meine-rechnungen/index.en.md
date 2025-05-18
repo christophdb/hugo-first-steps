@@ -22,7 +22,7 @@ Alternatively, you can simply use this link:
 3. Click on **Invoices**.
 4. You can now view all available invoices and also sort them by **payment status**, **amount** or **invoice number**.
 
-![Your invoices in SeaTable team management.](https://seatable.io/wp-content/uploads/2023/01/seatable-rechnungen-teamverwaltung.png)
+![Your invoices in SeaTable team management.](images/seatable-rechnungen-teamverwaltung.png)
 
 ## Download the invoice as PDF
 

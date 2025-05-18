@@ -20,7 +20,7 @@ url: '/ru/help/sperren-einer-zeile'
 
 Как только строка блокируется, в **колонке нумерации** появляется маленький **красный треугольник**.
 
-![Блокировка линии](https://seatable.io/wp-content/uploads/2022/10/sperren-einer-zeile-1.png)
+![Блокировка линии](images/sperren-einer-zeile-1.png)
 
 ## Разблокировать ряды
 
@@ -38,6 +38,6 @@ url: '/ru/help/sperren-einer-zeile'
 
 **Подробнее об этом вы можете узнать в статье** [Блокировка строк с помощью автоматизации](https://seatable.io/ru/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
 
-![Блокировка линии с помощью автоматики](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Блокировка линии с помощью автоматики](images/lock-row-with-an-automation.png)
 
 {{< warning  headline="Разблокировка возможна только вручную"  text="Вы **не можете** разблокировать строки, заблокированные с помощью автоматизации, таким же образом. Это возможно только вручную и с необходимыми **правами администратора**." />}}

@@ -16,7 +16,7 @@ Si tiene derechos de propietario o administrador, puede definir en cada columna 
 
 ## Establecer permisos de columna
 
-![Establecer permisos de columna](https://seatable.io/wp-content/uploads/2023/02/edit-column-permissions.gif)
+![Establecer permisos de columna](images/edit-column-permissions.gif)
 
 1. Haga clic en el **icono desplegable** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} de la cabecera de cualquier columna.
 2. Haga clic en **Editar permisos de columna**.

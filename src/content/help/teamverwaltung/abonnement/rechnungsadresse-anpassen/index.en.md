@@ -16,7 +16,7 @@ You want to change your billing address? No problem, via the team management thi
 
 {{< warning  headline="Important note"  text="Your team's billing address can only be changed by the **team admins**." />}}2. Open the **team management**. 3. Click on **Subscription**. 4. Click on **"Customize billing information"**. 5. Store a **new** billing address. 6. Save the change with **Change invoice recipient**.
 
-![Change of billing address](https://seatable.io/wp-content/uploads/2023/01/Rechnungsadresse-aendern.png)
+![Change of billing address](images/Rechnungsadresse-aendern.png)
 
 ## Frequently asked questions about the billing address
 

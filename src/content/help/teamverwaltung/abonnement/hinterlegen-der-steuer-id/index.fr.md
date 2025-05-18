@@ -16,7 +16,7 @@ Vous souhaitez enregistrer un identifiant fiscal dans SeaTable ? Pas de problèm
 
 Le dépôt du numéro d'identification fiscale est possible aussi bien lors de la **réservation** d'un abonnement qu'**ultérieurement**.
 
-![Le numéro d'identification fiscale peut être enregistré via l'onglet Abonnement dans la gestion d'équipe.](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-Steuer-ID.png)
+![Le numéro d'identification fiscale peut être enregistré via l'onglet Abonnement dans la gestion d'équipe.](images/Hinterlegen-einer-Steuer-ID.png)
 
 1. Ouvrez la **gestion d'équipe**.
 2. Passez à la section **Abonnement**.
@@ -30,7 +30,7 @@ Après l'envoi du formulaire, votre numéro d'identification fiscale est automat
 
 Ce n'est qu'une fois la vérification effectuée avec succès que le numéro d'identification fiscale sera effectif et utilisé sur les futures factures. De même, l'aperçu du montant de la future facture ne sera adapté que lorsque l'ID fiscal aura été vérifié comme étant valable.
 
-![Traitement fiscal dans la gestion d'équipe de SeaTable.](https://seatable.io/wp-content/uploads/2023/01/steuerliche-Behandlung.png)
+![Traitement fiscal dans la gestion d'équipe de SeaTable.](images/steuerliche-Behandlung.png)
 
 ## Questions fréquentes sur le numéro d'identification fiscale
 

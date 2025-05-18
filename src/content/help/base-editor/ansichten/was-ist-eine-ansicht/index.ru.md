@@ -28,7 +28,7 @@ url: '/ru/help/was-ist-eine-ansicht'
 
 **Табличный вид** является форматом отображения по умолчанию в SeaTable Base. Он очень похож на электронную таблицу, поскольку записи организованы в виде строк и столбцов.
 
-![Вид таблицы](https://seatable.io/wp-content/uploads/2023/01/Tabelle.png)
+![Вид таблицы](images/Tabelle.png)
 
 Вы можете использовать другие представления, такие как календарь, галерея или канбан, в виде [плагинов](https://seatable.io/ru/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
 

@@ -16,7 +16,7 @@ Com este tipo de página, pode dar asas à sua criatividade e construir uma **p�
 
 Se pretender alterar as definições de uma página, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondente na barra de navegação.
 
-![Alterar as definições da página individual](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-individuellen-Seite-aendern.png)
+![Alterar as definições da página individual](images/Einstellungen-der-individuellen-Seite-aendern.png)
 
 Pode adicionar vários **elementos** à sua página utilizando a função arrastar e largar através das **definições da página**.
 

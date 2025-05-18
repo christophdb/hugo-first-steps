@@ -16,7 +16,7 @@ Les colonnes fixes s'appliquent toujours à l'ensemble du tableau, y compris à 
 
 ## Ajuster le nombre de colonnes épinglées
 
-![Ajuster le nombre de colonnes épinglées](https://seatable.io/wp-content/uploads/2022/10/adjust-the-number-of-frozen-columns.gif)
+![Ajuster le nombre de colonnes épinglées](images/adjust-the-number-of-frozen-columns.gif)
 
 1. Déplacez la souris sur la **ligne de séparation** entre les deux premières colonnes jusqu'à ce qu'un symbole de main apparaisse à la place du pointeur de souris avec l'instruction **Adapter le nombre de colonnes fixées en les faisant glisser**.
 2. **Faites glisser** le **curseur** jusqu'à la fin de la dernière **colonne** que vous souhaitez figer.
@@ -30,6 +30,6 @@ En plus de la méthode décrite ci-dessus, il existe une **autre possibilité** 
 1. Cliquez sur l'**icône** triangulaire **déroulante** à droite de l'en-tête du tableau de la première colonne.
 2. Cliquez sur **Fixer la colonne**.
 
-![Fixer la première colonne](https://seatable.io/wp-content/uploads/2022/10/freeze-the-first-column.gif)
+![Fixer la première colonne](images/freeze-the-first-column.gif)
 
 {{< warning  headline="Remarque importante"  text="Pour **débloquer** la première colonne, il suffit de répéter la première étape de cette séquence de clics, mais en sélectionnant maintenant **Débloquer les colonnes**. Notez que dans ce cas, **toutes les autres colonnes** seront également supprimées." />}}

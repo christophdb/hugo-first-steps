@@ -14,6 +14,6 @@ Para recuperar filas de la memoria de big data, se necesita una vista de [big da
 2. **Haga clic con el botón derecho del ratón en una línea archivada**.
 3. Seleccione la opción **Recuperar línea del archivo**.
 
-![Recuperar entradas del backend de Big Data](https://seatable.io/wp-content/uploads/2023/05/unarchive-rows-out-of-the-big-data-backend.png)
+![Recuperar entradas del backend de Big Data](images/unarchive-rows-out-of-the-big-data-backend.png)
 
 En unos segundos, las filas seleccionadas se vuelven a escribir desde la memoria de big data a la vista normal y pierden así su **triángulo gris** , que identifica las filas como entradas de big data.

@@ -23,8 +23,8 @@ Here is a listing of the different types of emails you may receive from us:
 2. Scroll to the bottom of this email.
 3. Click the **unsubscribe from newsletter** link.
 
-![Manage settings for receiving newsletters.](https://seatable.io/wp-content/uploads/2023/03/abbestellen-des-newsletters.png)
+![Manage settings for receiving newsletters.](images/abbestellen-des-newsletters.png)
 
 5. Make the desired changes on the page that opens and save your changes.
 
-![Manage email notifications](https://seatable.io/wp-content/uploads/2023/03/newsletter-management.png)
+![Manage email notifications](images/newsletter-management.png)

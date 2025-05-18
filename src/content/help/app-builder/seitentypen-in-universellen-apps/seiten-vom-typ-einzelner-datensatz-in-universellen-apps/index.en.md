@@ -18,7 +18,7 @@ Users of the app can view, search, browse or even edit the individual data recor
 
 If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **cogwheel symbol** in the navigation bar.
 
-![Change gallery page settings](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Change gallery page settings](images/Einstellungen-der-Galerieseite-aendern.png)
 
 In the **page settings**, you can select the **table** in which the individual data records are saved.
 
@@ -106,7 +106,7 @@ Just like on table and query pages, you can also use columns of the [button](htt
 
 You can define the following [page authorizations](https://seatable.io/en/docs/apps/seitenberechtigungen-in-einer-universellen-app/) for pages of the Single data record type:
 
-![Page authorizations for calendar pages](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Page authorizations for calendar pages](images/Seitenberechtigungen-von-Kalenderseiten.png)
 
 Decide who can **view** and **edit** the individual data records. You cannot add or delete rows in the table via this page.
 

@@ -14,7 +14,7 @@ Sie möchten Ihre Kreditkarte ändern, die Sie zur Bezahlung Ihres SeaTable-Abos
 
 ## Ändern der Kreditkarte
 
-![Ändern Sie Ihre Kreditkarte einfach über die Teamverwaltung](https://seatable.io/wp-content/uploads/2023/01/Aendern-der-Kreditkarte-1-1.png)
+![Ändern Sie Ihre Kreditkarte einfach über die Teamverwaltung](images/Aendern-der-Kreditkarte-1-1.png)
 
 1. Öffnen Sie die **Teamverwaltung**.
 2. Klicken Sie auf **Abonnement**.
@@ -23,7 +23,7 @@ Sie möchten Ihre Kreditkarte ändern, die Sie zur Bezahlung Ihres SeaTable-Abos
 5. Bestätigen Sie mit **"Neue Kreditkarte hinterlegen"**.
 6. Die neu hinterlegte Kreditkarte ist **sofort** gültig und ersetzt die alte Karte.
 
-![Hinterlegen einer neuen Kreditkarte ](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+![Hinterlegen einer neuen Kreditkarte ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
 
 ## Häufige Fragen rund um die Bezahlung per Kreditkarte
 

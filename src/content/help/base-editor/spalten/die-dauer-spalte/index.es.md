@@ -10,18 +10,18 @@ url: '/es/ayuda/die-dauer-spalte'
 
 La **columna de duración** es especialmente adecuada para registrar la duración de diversos eventos. Puede grabar un **periodo** de tiempo al minuto o incluso al segundo. Por ejemplo, la columna de duración puede utilizarse junto con una columna de [fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) para registrar las horas de trabajo.
 
-![Ejemplo de aplicación para una columna permanente](https://seatable.io/wp-content/uploads/2023/01/Die-Dauer-Spalte-1.png)
+![Ejemplo de aplicación para una columna permanente](images/Die-Dauer-Spalte-1.png)
 
 ## Creación de la columna permanente
 
 Al crear la columna de duración, puede decidir si desea elevar la duración al **minuto** o incluso al **segundo**.
 
-![Creación de la columna permanente](https://seatable.io/wp-content/uploads/2023/01/Bildschirmfoto-2023-01-05-um-17.45.27.png)
+![Creación de la columna permanente](images/Bildschirmfoto-2023-01-05-um-17.45.27.png)
 
 ### Columna permanente al minuto
 
-![Columna permanente al minuto](https://seatable.io/wp-content/uploads/2023/01/Dauer-auf-die-Minute-genau.png)
+![Columna permanente al minuto](images/Dauer-auf-die-Minute-genau.png)
 
 ### Columna continua hasta la segunda
 
-![Columna continua con precisión de segundos](https://seatable.io/wp-content/uploads/2023/01/Dauerspalte-auf-die-Sekunde-genau.png)
+![Columna continua con precisión de segundos](images/Dauerspalte-auf-die-Sekunde-genau.png)

@@ -22,11 +22,11 @@ SeaTable permite enlazar información de diferentes tablas. Para ello, utilice e
 
 En cuanto las tablas estén enlazadas, podrá consultar la información de las entradas enlazadas a través del **cuadro de diálogo de enlace**. Para ello, haga clic en el **símbolo de flecha doble** en una **celda de** la columna de enlace o **haga doble clic**. Las entradas **enlazadas** se enumeran en el diálogo de enlace que se abre. Haga clic en una entrada para ver **los detalles de la fila** en una ventana adicional.
 
-![Vista detallada de las entradas enlazadas](https://seatable.io/wp-content/uploads/2022/10/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
+![Vista detallada de las entradas enlazadas](images/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
 
 ## Vincular entradas existentes
 
-![Vincular entradas existentes](https://seatable.io/wp-content/uploads/2022/10/link-existing-entries.gif)
+![Vincular entradas existentes](images/link-existing-entries.gif)
 
 1. Haga clic en una **celda** de la **columna de enlaces** y, a continuación, en el **símbolo más** que aparece.
 2. Ahora aparecen las **filas** disponibles **de la** tabla vinculada. Seleccione la(s) fila(s) que desea vincular a la fila de su tabla actual.

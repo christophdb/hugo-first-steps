@@ -17,23 +17,23 @@ Among other things, you can calculate with values in a row , merge them or relat
 
 To apply a formula, you must first add a new formula column to your table. You can learn how to do that [here]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
-![Selection of a formula column](https://seatable.io/wp-content/uploads/2023/01/select-formula-column.png)
+![Selection of a formula column](images/select-formula-column.png)
 
 SeaTable provides you with a **formula editor** to help you enter formulas.
 
-![Formula wizard to simplify the input of especially complex formulas](https://seatable.io/wp-content/uploads/2023/01/Formula.wizard.png)
+![Formula wizard to simplify the input of especially complex formulas](images/Formula.wizard.png)
 
 ## Write a first formula
 
 Once your formula column is created, you can start writing the formula. The following figure shows a simple formula to calculate the average of five numbers.
 
-![Entering any formula in the text field](https://seatable.io/wp-content/uploads/2023/01/input-formular.jpg)
+![Entering any formula in the text field](images/input-formular.jpg)
 
 This formula always writes the static value _13.2_ into the formula column as the result. However, the true power of the formula column only comes into its own when you use the values of other columns for your formula. With the **{column name}** in curly brackets you can reference existing columns in your table.
 
 {{< warning headline="Add columns to the formula" text="The column names in the opened table are displayed on the left side of the formula editor and can be edited with a **Double click** must be inserted into the formula." />}}
 
-![Columns available for selection in the formula editor](https://seatable.io/wp-content/uploads/2023/01/columns-in-the-formula-editor.jpg)
+![Columns available for selection in the formula editor](images/columns-in-the-formula-editor.jpg)
 
 Then you can insert certain **constants**, **operands** and **functions** into your formula to calculate with, merge or relate the values of the different columns.
 
@@ -41,16 +41,16 @@ Then you can insert certain **constants**, **operands** and **functions** into y
 
 To be able to distinguish the different elements of your formula from each other, they are marked in a different **color** depending on their type:
 
-| Object            | Example                                                                                                                                     |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Functions         | ![Functions are always marked blue in a formula](https://seatable.io/wp-content/uploads/2023/01/example-function.png)                       |
-| Text / String     | ![Texts and strings are always marked in red in the formula editor](https://seatable.io/wp-content/uploads/2023/01/example-text.png)        |
-| Numbers           | ![Numbers are always highlighted in green in the formula editor](https://seatable.io/wp-content/uploads/2023/01/example-number.png)         |
-| Column references | ![Column references are always marked purple in a formula ](https://seatable.io/wp-content/uploads/2023/01/example-reference-to-column.png) |
+| Object            | Example                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------- |
+| Functions         | ![Functions are always marked blue in a formula](images/example-function.png)                       |
+| Text / String     | ![Texts and strings are always marked in red in the formula editor](images/example-text.png)        |
+| Numbers           | ![Numbers are always highlighted in green in the formula editor](images/example-number.png)         |
+| Column references | ![Column references are always marked purple in a formula ](images/example-reference-to-column.png) |
 
 {{< warning headline="Brackets that belong together are highlighted" text="When you click an opening or closing parenthesis in the formula editor, the associated parenthesis is also highlighted. This makes it easier to spot missing or incorrect bracket replacements." />}}
 
-![Opening and closing parentheses are always highlighted in the formula editor](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+![Opening and closing parentheses are always highlighted in the formula editor](images/example-brackets.png)
 
 ## Formula examples
 
@@ -74,4 +74,4 @@ Of course you can rely on the fact that mathematical conventions also find their
 
 You can format the results in the formula column. Each formula in SeaTable has a **number**, a **date** or a **text/string** as result. Therefore, depending on this, you have different **format settings** available.
 
-![Formatting formula results](https://seatable.io/wp-content/uploads/2023/01/Formatierung-von-Formelergebnissen.jpg)
+![Formatting formula results](images/Formatierung-von-Formelergebnissen.jpg)

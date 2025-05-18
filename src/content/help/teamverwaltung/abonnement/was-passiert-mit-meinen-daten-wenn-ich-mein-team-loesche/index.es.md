@@ -15,9 +15,9 @@ Este artículo explica las consecuencias de eliminar un equipo para los datos as
 
 {{< warning  headline="Nota importante"  text="Los equipos **sólo** pueden ser eliminados por sus administradores." />}}
 
-![Haz clic en "Eliminar completamente la cuenta del equipo y todos los datos" en la parte inferior de la página.](https://seatable.io/wp-content/uploads/2023/01/delete-team.png) 4. Abre la **administración del equipo**. 5. Haga clic en **Suscripción**. 6. Haz clic en **"Eliminar completamente la cuenta del equipo y todos los datos"** en la parte inferior de la página. 7. Activa el **control deslizante** y confirma la eliminación con **"Eliminar este equipo y todos los datos"**. 8. A continuación, recibirá automáticamente un **mensaje** confirmando la eliminación de su cuenta de equipo.
+![Haz clic en "Eliminar completamente la cuenta del equipo y todos los datos" en la parte inferior de la página.](images/delete-team.png) 4. Abre la **administración del equipo**. 5. Haga clic en **Suscripción**. 6. Haz clic en **"Eliminar completamente la cuenta del equipo y todos los datos"** en la parte inferior de la página. 7. Activa el **control deslizante** y confirma la eliminación con **"Eliminar este equipo y todos los datos"**. 8. A continuación, recibirá automáticamente un **mensaje** confirmando la eliminación de su cuenta de equipo.
 
-![Confirme la eliminación de su equipo.](https://seatable.io/wp-content/uploads/2023/01/delete-team-confirmation-1.png)
+![Confirme la eliminación de su equipo.](images/delete-team-confirmation-1.png)
 
 ## Consecuencias para sus datos
 

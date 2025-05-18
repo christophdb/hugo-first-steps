@@ -20,7 +20,7 @@ To prevent unwanted changes to rows , you can **lockrows** . This can be useful,
 
 As soon as a row is locked, a small **red triangle** appears in **the numbering column**.
 
-![Locking a row](https://seatable.io/wp-content/uploads/2022/10/sperren-einer-zeile-1.png)
+![Locking a row](images/sperren-einer-zeile-1.png)
 
 ## rows Unlock
 
@@ -38,6 +38,6 @@ This is very useful if you want to lock many rows at once or always want to prev
 
 **You can find out more about this in the article** [rows Locking via automation](https://seatable.io/en/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
 
-![Lock a row with an automation](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Lock a row with an automation](images/lock-row-with-an-automation.png)
 
 {{< warning headline="Unlocking only possible manually" text="You **cannot** unlock rows locked with an automation in the same way. This is only possible manually and with the necessary **administrator rights**." />}}

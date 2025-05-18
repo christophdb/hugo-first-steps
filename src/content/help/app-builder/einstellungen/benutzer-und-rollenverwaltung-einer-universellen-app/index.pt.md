@@ -25,7 +25,7 @@ Quer seja para adicionar **novos utilizadores**, atribuir **funções** ou criar
 
 6. Abra a **administração de utilizadores e funções** no canto superior esquerdo da página.
 
-![Ícone para gestão de utilizadores e funções](https://seatable.io/wp-content/uploads/2023/05/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
+![Ícone para gestão de utilizadores e funções](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
 
 8. Efectuar as **definições** pretendidas.
 

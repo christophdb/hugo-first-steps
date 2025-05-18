@@ -30,7 +30,7 @@ Faites une recherche dans l'aperçu quotidien, hebdomadaire ou mensuel. **Double
 
 {{< warning  headline="Remarque"  text="Le double-clic ne fonctionne que pour les options d'affichage **mois**, **semaine** et **jour**." />}}
 
-![Créer une entrée de calendrier en double-cliquant dessus ou en utilisant le symbole plus](https://seatable.io/wp-content/uploads/2023/01/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
+![Créer une entrée de calendrier en double-cliquant dessus ou en utilisant le symbole plus](images/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
 
 ### Créer de nouvelles entrées via le grand symbole plus
 

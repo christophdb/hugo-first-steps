@@ -12,7 +12,7 @@ You can **edit** and **delete** notification rules that have already been create
 
 ## To edit a notification rule
 
-![Edit a notification rule](https://seatable.io/wp-content/uploads/2023/02/edit-notification-rules.jpg)
+![Edit a notification rule](images/edit-notification-rules.jpg)
 
 1. Open the **Base** in which you want to edit an already created notification rule.
 2. Click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Notification Rules**.
@@ -39,7 +39,7 @@ After confirming the changes made, they are automatically **saved in** the notif
 
 ## To delete a notification rule
 
-![Deletion of a notification rule](https://seatable.io/wp-content/uploads/2023/02/delete-notification.jpg)
+![Deletion of a notification rule](images/delete-notification.jpg)
 
 1. Open the **Base** in which you want to delete an already created notification rule.
 2. Click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Notification Rules**.

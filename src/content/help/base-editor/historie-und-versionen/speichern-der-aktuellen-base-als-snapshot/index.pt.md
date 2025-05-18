@@ -16,7 +16,7 @@ Pode guardar uma base no SeaTable como um **instantâneo** a qualquer momento. O
 
 ## Criação manual de um instantâneo
 
-![Criação manual de um instantâneo](https://seatable.io/wp-content/uploads/2022/10/manual-creation-of-a-snapshot.gif)
+![Criação manual de um instantâneo](images/manual-creation-of-a-snapshot.gif)
 
 1. Clique em {{< seatable-icon icon="dtable-icon-history" >}} **versions** no canto superior direito das opções de base.
 2. Seleccione a opção **Instantâneos** no menu pendente que se abre.

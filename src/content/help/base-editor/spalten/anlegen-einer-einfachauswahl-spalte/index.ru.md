@@ -10,13 +10,13 @@ url: '/ru/help/anlegen-einer-einfachauswahl-spalte'
 
 Колонка с одним выбором идеально подходит, если вы хотите назначить строкам **ровно один вариант** из списка определяемых вариантов. Варианты снабжены красочными **ярлыками**, которые можно использовать для **категоризации** записей и наглядности таблиц.
 
-![Одно поле выбора в SeaTable.](https://seatable.io/wp-content/uploads/2022/10/single-select-column.png)
+![Одно поле выбора в SeaTable.](images/single-select-column.png)
 
 ## Создайте колонку с одним выбором
 
 Создание колонки с одним выбором - это детская забава, которая выполняется всего несколькими щелчками мыши. Подробную информацию см. в разделе [Добавление колонки]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
-![Создайте колонку с одним выбором](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
+![Создайте колонку с одним выбором](images/define-single-select-column.png)
 
 1. Нажмите на **символ \[+\]** справа от последнего столбца любой таблицы.
 2. Дайте новой колонке **имя**.
@@ -29,7 +29,7 @@ url: '/ru/help/anlegen-einer-einfachauswahl-spalte'
 
 В настоящее время доступны 24 цвета для визуального выделения соответствующих опций.
 
-![Цвета колонки одиночного выбора](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Цвета колонки одиночного выбора](images/farben-einfachauswahl.png)
 
 При [подписке Enterprise](https://seatable.io/ru/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title) у вас также есть возможность создавать свои [собственные цвета](https://seatable.io/ru/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) для опций одиночного выбора.
 
@@ -43,7 +43,7 @@ url: '/ru/help/anlegen-einer-einfachauswahl-spalte'
 
 При создании столбца с одним выбором у вас есть возможность установить предустановленное **значение по умолчанию**. Значение по умолчанию **автоматически** присваивается в качестве опции каждой новой строке.
 
-![Значение по умолчанию для одного столбца выбора](https://seatable.io/wp-content/uploads/2022/10/default-value-single-select.png)
+![Значение по умолчанию для одного столбца выбора](images/default-value-single-select.png)
 
 ## Одиночный выбор или колонка ссылок?
 

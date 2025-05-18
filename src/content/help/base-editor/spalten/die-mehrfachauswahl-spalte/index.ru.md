@@ -27,7 +27,7 @@ url: '/ru/help/die-mehrfachauswahl-spalte'
 
 В настоящее время доступны 24 цвета для визуального выделения соответствующих опций.
 
-![Цвета колонки одиночного выбора](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Цвета колонки одиночного выбора](images/farben-einfachauswahl.png)
 
 При [подписке Enterprise](https://seatable.io/ru/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title) у вас также есть возможность создавать [собственные цвета](https://seatable.io/ru/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) для нескольких вариантов выбора.
 

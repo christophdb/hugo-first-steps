@@ -22,7 +22,7 @@ La fonction de traitement des données vous permet d'effectuer diverses opérati
 
 5. Définissez le **tableau**, la **vue**, la **colonne source** et **la colonne des résultats**. Vous pouvez également choisir l'**ordre** dans lequel les valeurs doivent être listées. Indiquez si la plus grande ou la plus petite valeur doit être placée en premier.
 
-![Définition de l'action de traitement des données Calculer le classement](https://seatable.io/wp-content/uploads/2023/03/Definition-der-Datenverarbeitungsaktion-Rangliste-berechnen.png)
+![Définition de l'action de traitement des données Calculer le classement](images/Definition-der-Datenverarbeitungsaktion-Rangliste-berechnen.png)
 
 7. Cliquez sur **Enregistrer** pour sauvegarder l'action et l'exécuter plus tard, ou sur **Exécuter** pour l'exécuter directement.
 
@@ -43,7 +43,7 @@ Ensuite, vous ajoutez une **deuxième colonne de chiffres** au tableau, dans laq
 
 Pour créer l'opération de traitement des données, suivez les étapes décrites ci-dessus. Définissez ensuite le **tableau** et la **vue** actuellement ouverts. Sélectionnez également la colonne _Unique Visitors_ comme **colonne source** et la colonne _ranked visitors_ nouvellement ajoutée comme **colonne de résultats**.
 
-![Traitement des données Exemple Calculer le classement](https://seatable.io/wp-content/uploads/2023/03/Datenverarbeitung-Rangliste-berechnen.png)
+![Traitement des données Exemple Calculer le classement](images/Datenverarbeitung-Rangliste-berechnen.png)
 
 Chaque fois que l'opération de traitement des données est exécutée, les **rangs calculés** sont inscrits dans la colonne des résultats. Vous pouvez à tout moment exécuter à nouveau une opération enregistrée via la fenêtre de traitement des données. Les valeurs déjà présentes dans la colonne des résultats sont éventuellement écrasées.
 

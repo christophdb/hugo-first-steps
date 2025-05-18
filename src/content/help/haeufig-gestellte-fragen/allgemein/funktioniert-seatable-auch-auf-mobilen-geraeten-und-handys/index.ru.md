@@ -14,11 +14,11 @@ url: '/ru/help/funktioniert-seatable-auch-auf-mobilen-geraeten-und-handys'
 
 Когда вы заходите в SeaTable через браузер на мобильном устройстве, пользовательский интерфейс SeaTable изменяется, чтобы оптимизировать работу с небольшими разрешениями экрана. Два наиболее очевидных изменения - это две большие круглые кнопки в правом нижнем углу экрана.
 
-![Мобильный вид в SeaTable](https://seatable.io/wp-content/uploads/2023/05/mobile-view-seatable.png)
+![Мобильный вид в SeaTable](images/mobile-view-seatable.png)
 
 О {{< key "+" >}} можно создавать новые записи и {{< key "…" >}} можно переключиться из привычного режима списка в режим сетки. В этом режиме каждая строка отображается в виде отдельного поля, что облегчает ее выделение.
 
-![Режим сетки SeaTable Grid для малых разрешений](https://seatable.io/wp-content/uploads/2023/05/seatable-grid-modus.png)
+![Режим сетки SeaTable Grid для малых разрешений](images/seatable-grid-modus.png)
 
 ## Списки выбора вместо маленьких иконок
 

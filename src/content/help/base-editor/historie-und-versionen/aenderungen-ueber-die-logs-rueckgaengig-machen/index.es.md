@@ -14,7 +14,7 @@ SeaTable registra todas las actividades dentro de una base en un registro. Este 
 
 Puedes abrir los registros del mismo modo que la papelera de reciclaje, haciendo clic en el icono de versiones de la esquina superior derecha.
 
-![Abrir registros en Base](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Abrir registros en Base](images/Logs-in-der-Base-oeffnen.png)
 
 En el panel que se abre, encontrará los cambios más recientes que se han realizado en la base por orden anticronológico. Cada entrada del registro contiene la siguiente información:
 
@@ -24,7 +24,7 @@ En el panel que se abre, encontrará los cambios más recientes que se han reali
 - Fecha del cambio
 - Descripción del cambio
 
-![Cambios en los registros](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Cambios en los registros](images/Aenderungen-in-den-Logs.png)
 
 ## Cargar entradas de registro antiguas
 

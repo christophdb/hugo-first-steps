@@ -14,21 +14,21 @@ O Zapier permite-lhe criar uma interface entre o SeaTable e uma das milhares de 
 
 O SeaTable permite-lhe ligar registos entre duas tabelas. Para mais pormenores, consulte [este artigo de ajuda](https://seatable.io/pt/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
 
-![Ligações no SeaTable](https://seatable.io/wp-content/uploads/2023/06/zapier-linked-columns.png)
+![Ligações no SeaTable](images/zapier-linked-columns.png)
 
 Agora existe uma caraterística especial: em vez de apresentar o valor pretendido (neste caso Marion) como no SeaTable, o Zapier fornece sempre o ID da linha da entrada associada para uma coluna de ligação. Se pretender aceder ao valor _Marion_ ou a outras colunas da entrada associada, como se mostra aqui, tem de criar [colunas de pesquisa](https://seatable.io/pt/docs/verknuepfungen/die-lookup-funktion/) através das quais pode aceder aos valores pretendidos. Neste exemplo, seria necessário criar outra coluna de pesquisa com o nome.
 
-![colunas ligadas no zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-linked-columns2.png)
+![colunas ligadas no zapier](images/zapier-linked-columns2.png)
 
 ## 2\. executar o Zap quando for atingida uma data ou hora.
 
 É muito fácil implementar este requisito se souber como. Neste ponto, tira partido do facto de a aplicação SeaTable no Zapier poder ser limitada a uma vista.
 
-![acionador baseado na vista no zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger.png)
+![acionador baseado na vista no zapier](images/zapier-view-based-trigger.png)
 
 Crie uma [nova vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) e defina um filtro para uma coluna de data que apenas exiba entradas em que o valor da coluna de data corresponda, por exemplo, à data de hoje ou a uma data muito especial. Se o filtro for definido em conformidade, é possível determinar exatamente quando uma entrada aparece nesta vista e, assim, acionar a torneira, seleccionando a data na coluna correspondente.
 
-![Execução de um zap com controlo de tempo](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger2.png)
+![Execução de um zap com controlo de tempo](images/zapier-view-based-trigger2.png)
 
 ## 3\. utilizar fórmulas para evitar a formatação no Zapier
 

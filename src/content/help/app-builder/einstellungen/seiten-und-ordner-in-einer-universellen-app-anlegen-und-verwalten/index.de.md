@@ -19,11 +19,11 @@ In einer Universellen App können Sie beliebig viele **Seiten** und **Ordner** e
    ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
    ![Apps bearbeiten](images/Apps-bearbeiten.png)6. Klicken Sie auf **Seite oder Ordner hinzufügen** und wählen Sie im Anschluss **Seite hinzufügen** aus.
 
-![Add app page](https://seatable.io/wp-content/uploads/2023/05/Add-app-page.png) 8. Wählen Sie einen der [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) aus und klicken Sie auf **Weiter**.
+![Add app page](images/Add-app-page.png) 8. Wählen Sie einen der [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) aus und klicken Sie auf **Weiter**.
 
-![Add app page and select page type](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-select-page-type.png) 10. Geben Sie der Seite einen **Namen**, definieren Sie die zugrundeliegende **Tabelle** und legen Sie optional ein **Icon** für die Seite fest.
+![Add app page and select page type](images/Add-app-page-and-select-page-type.png) 10. Geben Sie der Seite einen **Namen**, definieren Sie die zugrundeliegende **Tabelle** und legen Sie optional ein **Icon** für die Seite fest.
 
-![Add app page and fill in details](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-fill-in-details.png) 12. Bestätigen Sie mit **Abschicken**.
+![Add app page and fill in details](images/Add-app-page-and-fill-in-details.png) 12. Bestätigen Sie mit **Abschicken**.
 
 ## Namen und Icon einer Seite bearbeiten
 
@@ -51,7 +51,7 @@ Wenn Sie bereits einen **Ordner** in Ihrer Universellen App angelegt haben, kön
 
 Alternativ können Sie Seiten auch **per Drag-and-Drop** verschieben. Halten Sie dazu die Maustaste auf den **sechs Punkten** vor dem Seiten-Icon gedrückt, ziehen Sie die Seite in der Navigation an die gewünschte Stelle und lassen Sie los.
 
-![Seiten einer Universellen App per Drag-and-drop verschieben](https://seatable.io/wp-content/uploads/2023/05/move-pages-via-drag-and-drop.gif)
+![Seiten einer Universellen App per Drag-and-drop verschieben](images/move-pages-via-drag-and-drop.gif)
 
 ## Einen neuen Ordner in einer Universellen App anlegen
 
@@ -62,30 +62,30 @@ Bei einer großen Anzahl an Seiten sind **Ordner** hilfreich, um die Seiten them
    ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
    ![Apps bearbeiten](images/Apps-bearbeiten.png)6. Klicken Sie auf **Seite oder Ordner hinzufügen** und wählen Sie im Anschluss **Ordner hinzufügen** aus.
 
-![Add folder to universal app](https://seatable.io/wp-content/uploads/2023/05/Add-folder-in-Universal-Apps.png) 8. **Benennen** Sie den Ordner und wählen Sie optional ein passendes **Icon** für diesen aus.
+![Add folder to universal app](images/Add-folder-in-Universal-Apps.png) 8. **Benennen** Sie den Ordner und wählen Sie optional ein passendes **Icon** für diesen aus.
 
-![Add new folder to app](https://seatable.io/wp-content/uploads/2023/05/Add-new-folder-to-app.png) 10. Bestätigen Sie mit **Abschicken**.
+![Add new folder to app](images/Add-new-folder-to-app.png) 10. Bestätigen Sie mit **Abschicken**.
 
 ## Seite zum Ordner hinzufügen
 
 Wenn Sie bereits einen Ordner in Ihrer Universellen App angelegt haben, können Sie in diesem auf die **drei Punkte** klicken und direkt eine **Seite hinzufügen**.
 
-![Hinzufügen von Seiten zu einem Ordner in der Universellen App](https://seatable.io/wp-content/uploads/2023/05/add-page-via-folder-to-universal-app.png)
+![Hinzufügen von Seiten zu einem Ordner in der Universellen App](images/add-page-via-folder-to-universal-app.png)
 
 ## Namen und Icon eines Ordners bearbeiten
 
 Über die **drei Punkte** können Sie Ordner in Ihrer Universellen App jederzeit **umbenennen**. Zudem können Sie auf diesem Weg auch das **Icon** Ihres Ordners anpassen.
 
-![Anpassung von Name und Icon eines Ordners in Ihrer Universellen App](https://seatable.io/wp-content/uploads/2023/05/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
+![Anpassung von Name und Icon eines Ordners in Ihrer Universellen App](images/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
 
 ## Ordner löschen
 
 Nicht mehr benötigte Ordner können Sie jederzeit aus Ihrer Universellen App **löschen**. Beachten Sie dabei, dass **alle Seiten**, die sich im Ordner befinden, ebenfalls **gelöscht** werden. Die Löschung ist endgültig. Das heißt: Sowohl der Ordner als auch die einzelnen Seiten können im Anschluss **nicht** wiederhergestellt werden.
 
-![Löschen eines Ordners in Ihrer Universellen App](https://seatable.io/wp-content/uploads/2023/05/delete-folder-in-your-universal-app-new.png)
+![Löschen eines Ordners in Ihrer Universellen App](images/delete-folder-in-your-universal-app-new.png)
 
 ## Ordner verschieben
 
 Ordner können Sie nur **per Drag-and-Drop** verschieben. Halten Sie dazu die Maustaste auf den **sechs Punkten** vor dem Ordner-Icon gedrückt, ziehen Sie den Ordner in der Navigation an die gewünschte Stelle und lassen Sie los.
 
-![Ordner in der Universellen App per Drag-and-Drop verschieben](https://seatable.io/wp-content/uploads/2023/05/move-folders-in-the-universal-app-via-drag-and-drop.gif)
+![Ordner in der Universellen App per Drag-and-Drop verschieben](images/move-folders-in-the-universal-app-via-drag-and-drop.gif)

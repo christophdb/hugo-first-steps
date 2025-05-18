@@ -28,6 +28,6 @@ Quer alterar a sua própria **palavra-passe**? Não há problema! Pode fazer ist
 
 Para visualizar uma palavra-passe em **texto simples**, clique no **símbolo do olho** à direita da mesma. Também verá automaticamente a **força** da sua nova palavra-passe.
 
-![Avaliar a força da palavra-passe](https://seatable.io/wp-content/uploads/2023/02/Staerke-des-Passworts-beurteilen.png)
+![Avaliar a força da palavra-passe](images/Staerke-des-Passworts-beurteilen.png)
 
 10. Confirme a alteração da sua palavra-passe com **Atualizar**.

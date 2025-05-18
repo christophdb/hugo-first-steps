@@ -16,11 +16,11 @@ You can use this page type to display **images** and other data that you have sa
 
 If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **cogwheel symbol** in the navigation bar.
 
-![Change gallery page settings](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Change gallery page settings](images/Einstellungen-der-Galerieseite-aendern.png)
 
 In the **page settings**, you can select the **table**, the **image column** and the **title column** from which the gallery is fed.
 
-![Page settings of the gallery page in universal apps](https://seatable.io/wp-content/uploads/2023/12/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
+![Page settings of the gallery page in universal apps](images/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
 
 ## Preset filters, sorting and hidden columns
 

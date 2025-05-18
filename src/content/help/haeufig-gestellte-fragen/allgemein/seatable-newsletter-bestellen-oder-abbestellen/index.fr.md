@@ -23,8 +23,8 @@ Vous trouverez ici une liste des différents types d'e-mails que vous pouvez rec
 2. Faites défiler jusqu'à la fin de cet e-mail.
 3. Cliquez sur le lien **Se désabonner de la newsletter**.
 
-![Gérer les paramètres de réception de la newsletter.](https://seatable.io/wp-content/uploads/2023/03/abbestellen-des-newsletters.png)
+![Gérer les paramètres de réception de la newsletter.](images/abbestellen-des-newsletters.png)
 
 5. Effectuez les modifications souhaitées sur la page qui s'ouvre et enregistrez vos modifications.
 
-![Gérer les notifications par e-mail](https://seatable.io/wp-content/uploads/2023/03/newsletter-management.png)
+![Gérer les notifications par e-mail](images/newsletter-management.png)

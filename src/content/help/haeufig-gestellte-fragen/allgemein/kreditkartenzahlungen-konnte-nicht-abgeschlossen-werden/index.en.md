@@ -17,7 +17,7 @@ Usually, a few seconds later, a new form appears to confirm 3D Secure authentica
 
 There are always problems with this reloading of the 3D Secure check. Sometimes this new form does not appear, sometimes the screen goes white and sometimes it is accidentally clicked away.
 
-![Payment with 3D Secure](https://seatable.io/wp-content/uploads/2023/05/3d_secure_payment.gif)
+![Payment with 3D Secure](images/3d_secure_payment.gif)
 
 ## What can you do?
 

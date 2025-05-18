@@ -22,7 +22,7 @@ Ce type de page permet de construire différents **formulaires** que les utilisa
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Modifier les paramètres de la page de formulaire](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Formularseite-aendern.png)
+![Modifier les paramètres de la page de formulaire](images/Einstellungen-der-Formularseite-aendern.png)
 
 ## Créer des formulaires
 
@@ -44,7 +44,7 @@ Si vous souhaitez modifier l'**ordre** des champs dans le formulaire, vous pouve
 
 Plus bas, vous pouvez définir une **couleur pour les textes d'aide** ainsi qu'un **message** qui sera affiché aux utilisateurs après la soumission du formulaire.
 
-![Autres paramètres sur les pages de formulaires](https://seatable.io/wp-content/uploads/2023/12/Weitere-Einstellungen-auf-Formularseiten.png)
+![Autres paramètres sur les pages de formulaires](images/Weitere-Einstellungen-auf-Formularseiten.png)
 
 De plus, vous pouvez empêcher que des formulaires soient soumis avec des enregistrements déjà existants en **empêchant** l'**ajout de doublons**. Pour ce faire, activez le curseur correspondant et sélectionnez les colonnes dans lesquelles les valeurs doivent correspondre pour qu'un formulaire soit considéré comme un doublon. Si un utilisateur saisit ensuite des données identiques, la soumission du formulaire sera bloquée.
 

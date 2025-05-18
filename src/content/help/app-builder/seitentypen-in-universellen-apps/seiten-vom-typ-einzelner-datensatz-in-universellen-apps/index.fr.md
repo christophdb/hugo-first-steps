@@ -18,7 +18,7 @@ Sur cette page, les utilisateurs de l'application peuvent - avec l'autorisation 
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Modifier les paramètres du site de la galerie](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Modifier les paramètres du site de la galerie](images/Einstellungen-der-Galerieseite-aendern.png)
 
 Dans les **paramètres de la page**, vous pouvez sélectionner la **table** dans laquelle les différents enregistrements sont stockés.
 
@@ -106,7 +106,7 @@ Comme pour les pages de tableaux et de requêtes, vous pouvez utiliser des colon
 
 Pour les pages de type enregistrement unique, vous pouvez définir les [autorisations de page](https://seatable.io/fr/docs/apps/seitenberechtigungen-in-einer-universellen-app/) suivantes :
 
-![Autorisations des pages du calendrier](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Autorisations des pages du calendrier](images/Seitenberechtigungen-von-Kalenderseiten.png)
 
 Décidez qui peut **voir** et **modifier** les différents enregistrements. Vous ne pouvez pas ajouter ou supprimer des lignes dans le tableau via cette page.
 

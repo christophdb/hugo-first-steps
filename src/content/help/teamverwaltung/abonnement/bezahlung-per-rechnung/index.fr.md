@@ -22,4 +22,4 @@ Si ces conditions sont remplies, vous pouvez activer à tout moment le paiement 
 
 Vous recevrez ensuite une facture vous invitant à virer le montant de la facture sur notre compte bancaire allemand.
 
-![Activer le paiement sur facture](https://seatable.io/wp-content/uploads/2023/01/Zahlung-per-Rechnung.png)
+![Activer le paiement sur facture](images/Zahlung-per-Rechnung.png)

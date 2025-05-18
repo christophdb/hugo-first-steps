@@ -19,7 +19,7 @@ Sei es das Hinzufügen von **neuen Benutzern**, die Vergabe von **Rollen** oder 
    ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
    ![Klicken Sie auf das Bearbeitung-Symbol](images/add-page-to-universal-app-1.png)6. Öffnen Sie die **Benutzer- und Rollenverwaltung** am oberen linken Seitenrand.
 
-![Symbol für Benutzer- und Rollenverwaltung](https://seatable.io/wp-content/uploads/2023/05/Symbol-fuer-Benutzer-und-Rollenverwaltung.png) 8. Nehmen Sie die gewünschten **Einstellungen** vor.
+![Symbol für Benutzer- und Rollenverwaltung](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png) 8. Nehmen Sie die gewünschten **Einstellungen** vor.
 
 ## Die Einstellungen im Detail
 

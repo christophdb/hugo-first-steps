@@ -26,7 +26,7 @@ Nas definições de segurança da sua base, pode efectuar, em qualquer altura, d
 
 A primeira parte das definições de segurança diz respeito às autorizações de **todos os utilizadores** que têm acesso à base correspondente. Nesta secção, pode efetuar as seguintes configurações:
 
-![Definições de segurança para todos os utilizadores](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-all-users.png)
+![Definições de segurança para todos os utilizadores](images/Security-settings-for-all-users.png)
 
 ### Impedir a exportação de uma base
 
@@ -58,13 +58,13 @@ Ao ativar esta definição, é possível **impedir que** outros utilizadores cri
 
 Se esta definição estiver **activada**, os ícones correspondentes para adicionar, editar ou eliminar operações de processamento de dados ficam **ocultos** até que a definição seja novamente desactivada por um proprietário ou administrador. No entanto, todos os utilizadores podem continuar a executar as [operações de processamento]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) de dados existentes.
 
-![Executar operação de tratamento de dados](https://seatable.io/wp-content/uploads/2023/04/Datenverarbeitungsoperation-ausfuehren.png)
+![Executar operação de tratamento de dados](images/Datenverarbeitungsoperation-ausfuehren.png)
 
 ## Definições de segurança: Utilizadores partilhados
 
 A segunda parte das definições de segurança refere-se às permissões dos **utilizadores** a quem a [base](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondente é [libertada](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/). Nesta parte, pode fazer as **mesmas** definições que já estão disponíveis na primeira parte para todos os utilizadores:
 
-![Definições de segurança para utilizadores autorizados](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-shared-users.png)
+![Definições de segurança para utilizadores autorizados](images/Security-settings-for-shared-users.png)
 
 ### Impedir a exportação de uma base
 

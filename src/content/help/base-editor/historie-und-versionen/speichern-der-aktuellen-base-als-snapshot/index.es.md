@@ -16,7 +16,7 @@ Conviene saber: SeaTable crea automáticamente una instantánea al día de cada 
 
 ## Creación manual de una instantánea
 
-![Creación manual de una instantánea](https://seatable.io/wp-content/uploads/2022/10/manual-creation-of-a-snapshot.gif)
+![Creación manual de una instantánea](images/manual-creation-of-a-snapshot.gif)
 
 1. Haga clic en {{< seatable-icon icon="dtable-icon-history" >}} **versions** en la esquina superior derecha de las opciones de base.
 2. Seleccione la opción **Instantáneas** en el menú desplegable que se abre.

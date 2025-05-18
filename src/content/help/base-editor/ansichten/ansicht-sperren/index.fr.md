@@ -20,13 +20,13 @@ Notez toutefois que le blocage d'une vue n'a en principe **aucune** influence su
 2. Cliquez sur le **cadenas** dans les options d'affichage au-dessus du tableau.
 3. Le **blocage** de la vue correspondante est maintenant **actif** et peut être annulé en cliquant à nouveau sur le **cadenas**.
 
-![Verrouiller la vue](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Verrouiller la vue](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)
 
 ## Conséquences
 
 Lorsqu'un utilisateur disposant de droits de propriétaire ou d'administrateur verrouille une vue, il gèle la configuration actuelle de la vue et empêche les membres du groupe ne disposant pas de ces droits de **modifier les paramètres**.
 
-![options d'affichage verrouillées](https://seatable.io/wp-content/uploads/2022/10/locked-view.png)
+![options d'affichage verrouillées](images/locked-view.png)
 
 Dans la vue verrouillée, les paramètres suivants ne peuvent **plus** être modifiés :
 

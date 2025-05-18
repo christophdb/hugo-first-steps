@@ -16,7 +16,7 @@ Este tipo de página de la aplicación universal funciona de forma similar al [c
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Cambiar la configuración de la página de calendario](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-auf-der-Kalenderseite-aendern.png)
+![Cambiar la configuración de la página de calendario](images/Einstellungen-auf-der-Kalenderseite-aendern.png)
 
 En la **configuración de la página**, puede seleccionar el **título**, la **fecha de inicio** y el **color** de las **entradas** que aparecen en el calendario, así como el **día en que comienza** la semana, entre otras cosas.
 
@@ -26,7 +26,7 @@ En la **configuración de la página**, puede seleccionar el **título**, la **f
 
 Puede definir **filtros preestablecidos** y **columnas ocultas** para limitar los datos que se muestran a los usuarios.
 
-![Añadir filtro en las páginas de calendario en Universal Apps](https://seatable.io/wp-content/uploads/2023/12/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Añadir filtro en las páginas de calendario en Universal Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 Para ello, haga clic en **Añadir filtro**, seleccione la **columna** y la **condición** deseadas y confirme con **Enviar**.
 
@@ -58,4 +58,4 @@ Puedes editar fácilmente las entradas de la agenda **haciendo clic en una entra
 
 En la parte inferior de la configuración de la página, puede restringir exactamente qué usuarios están autorizados a interactuar con la página. Especifica quién está autorizado a ver la página, añadir líneas o modificar entradas.
 
-![Autorizaciones de página en páginas de calendario](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-auf-Kalenderseiten.png)
+![Autorizaciones de página en páginas de calendario](images/Seitenberechtigungen-auf-Kalenderseiten.png)

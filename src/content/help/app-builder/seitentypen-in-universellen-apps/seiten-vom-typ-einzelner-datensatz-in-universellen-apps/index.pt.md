@@ -18,7 +18,7 @@ Os utilizadores da aplicação podem ver, pesquisar, navegar ou mesmo editar os 
 
 Se pretender alterar as definições de uma página, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondente na barra de navegação.
 
-![Alterar as definições da página da galeria](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Alterar as definições da página da galeria](images/Einstellungen-der-Galerieseite-aendern.png)
 
 Nas **definições da página**, é possível selecionar a **tabela** em que os registos de dados individuais são guardados.
 
@@ -106,7 +106,7 @@ Tal como nas páginas de tabelas e consultas, também aqui pode utilizar colunas
 
 É possível definir as seguintes [autorizações de página](https://seatable.io/pt/docs/apps/seitenberechtigungen-in-einer-universellen-app/) para páginas do tipo Registo de dados único:
 
-![Autorizações de páginas para páginas de calendário](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Autorizações de páginas para páginas de calendário](images/Seitenberechtigungen-von-Kalenderseiten.png)
 
 Decida quem está autorizado a **ver** e **editar** os registos de dados individuais. Não é possível adicionar ou eliminar linhas na tabela através desta página.
 

@@ -47,7 +47,7 @@ Por supuesto, sólo pagará el **importe pr**orrateado correspondiente a cada ca
 4. Realice los cambios deseados en la **suscripción**, el **número de usuarios** y el **periodo de facturación**.
 5. Confirme el cambio de su abono con **Ajustar abono de pago**.
 
-![Confirme el cambio en su suscripción](https://seatable.io/wp-content/uploads/2023/01/switch-from-plus-to-enterprise.png)
+![Confirme el cambio en su suscripción](images/switch-from-plus-to-enterprise.png)
 
 ## Cancelación de la suscripción de pago
 
@@ -59,9 +59,9 @@ Puede volver a la suscripción gratuita al final del periodo que ya ha pagado. P
 2. Haga clic en **Suscripción**.
 3. Haga clic en **Cancelar suscripción y cambie a SeaTable Free**.
 
-![Cambia tu suscripción de Plus/Enterprise a Gratuita](https://seatable.io/wp-content/uploads/2023/01/switch-to-seatable-free.png)
+![Cambia tu suscripción de Plus/Enterprise a Gratuita](images/switch-to-seatable-free.png)
 
 5. Lea atentamente las **instrucciones para** cambiar a SeaTable Free.
 6. Active el **control deslizante** y confirme el cambio de su suscripción con **Cancelar suscripción y cambiar a SeaTable Free**.
 
-![Confirme el cambio de su suscripción a SeaTable Free](https://seatable.io/wp-content/uploads/2023/01/confirm-switch-to-seatable-free.png)
+![Confirme el cambio de su suscripción a SeaTable Free](images/confirm-switch-to-seatable-free.png)

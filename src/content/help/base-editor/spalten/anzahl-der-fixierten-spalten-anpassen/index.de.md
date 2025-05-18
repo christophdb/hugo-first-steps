@@ -16,7 +16,7 @@ Die fixierten Spalten gelten immer für die gesamte Tabelle inklusive aller Ansi
 
 ## Anzahl der fixierten Spalten anpassen
 
-![Anzahl der fixierten Spalten anpassen](https://seatable.io/wp-content/uploads/2022/10/adjust-the-number-of-frozen-columns.gif)
+![Anzahl der fixierten Spalten anpassen](images/adjust-the-number-of-frozen-columns.gif)
 
 1. Fahren Sie mit der Maus über die **Trennlinie** zwischen den ersten beiden Spalten, bis anstatt des Mauszeigers ein Hand-Symbol mit der Anweisung **Anzahl der fixierten Spalten durch Ziehen anpassen** erscheint.
 2. **Ziehen** Sie den **Cursor** bis zum Ende der letzten **Spalte**, die Sie fixieren möchten.
@@ -30,6 +30,6 @@ Zusätzlich zum oben beschriebenen Weg gibt es noch eine **andere Möglichkeit**
 1. Klicken Sie auf das dreieckige **Drop-down-Symbol** rechts im Tabellenkopf der ersten Spalte.
 2. Klicken Sie auf **Spalte fixieren**.
 
-![Fixieren der ersten Spalte](https://seatable.io/wp-content/uploads/2022/10/freeze-the-first-column.gif)
+![Fixieren der ersten Spalte](images/freeze-the-first-column.gif)
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Um die Fixierung der ersten Spalte wieder **aufzuheben**, wiederholen Sie einfach den ersten Schritt dieser Klickfolge, aber wählen Sie nun **Spaltenfixierung aufheben**. Beachten Sie, dass in diesem Fall auch die **Fixierung aller weiteren Spalten** aufgehoben wird." />}}

@@ -1,11 +1,11 @@
 ---
-title: "Individuelle Seiten in Universellen Apps"
+title: 'Individuelle Seiten in Universellen Apps'
 date: 2023-12-08
-lastmod: "2025-02-26"
-categories: 
-  - "seitentypen-in-universellen-apps"
-author: "kgr"
-url: "/de/hilfe/individuelle-seiten-in-universellen-apps"
+lastmod: '2025-02-26'
+categories:
+    - 'seitentypen-in-universellen-apps'
+author: 'kgr'
+url: '/de/hilfe/individuelle-seiten-in-universellen-apps'
 ---
 
 Mit diesem Seitentyp können Sie Ihrer Kreativität freien Lauf lassen und eine **individuelle Seite** ganz nach Ihren Wünschen bauen. Fügen Sie **Texte** und **Bilder** in Ihre Seite ein oder nutzen Sie **Statistiken**, um mit den Daten aus Ihrer Base aussagekräftige **Dashboards** zu erstellen.
@@ -16,7 +16,7 @@ Mit diesem Seitentyp können Sie Ihrer Kreativität freien Lauf lassen und eine 
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der individuellen Seite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-individuellen-Seite-aendern.png)
+![Einstellungen der individuellen Seite ändern](images/Einstellungen-der-individuellen-Seite-aendern.png)
 
 Über die **Seiteneinstellungen** können Sie verschiedene **Elemente** per Drag-and-Drop zu Ihrer Seite hinzufügen.
 

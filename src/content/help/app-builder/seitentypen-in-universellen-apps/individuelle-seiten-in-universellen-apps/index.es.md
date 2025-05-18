@@ -16,7 +16,7 @@ Con este tipo de página, puede dar rienda suelta a su creatividad y construir u
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Cambiar la configuración de cada página](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-individuellen-Seite-aendern.png)
+![Cambiar la configuración de cada página](images/Einstellungen-der-individuellen-Seite-aendern.png)
 
 Puede añadir varios **elementos** a su página mediante arrastrar y soltar a través de la **configuración de la página**.
 

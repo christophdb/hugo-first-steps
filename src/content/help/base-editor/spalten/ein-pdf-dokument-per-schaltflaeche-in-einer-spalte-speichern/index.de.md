@@ -34,11 +34,11 @@ Wählen Sie nun die **Datei-Spalte** aus, in welcher die Seite als PDF gespeiche
 
 **Benennen** Sie abschließend die PDF-Dateien, die Ihrer Tabelle hinzugefügt werden. Verwenden Sie **{column name}**, also den Namen einer Spalte in geschwungenen Klammern, um die Datei nach dem Wert in jener Spalte zu benennen.
 
-![Benennen Sie die Dateien](https://seatable.io/wp-content/uploads/2023/01/PDF-file-name.png)
+![Benennen Sie die Dateien](images/PDF-file-name.png)
 
 Nach einem Klick auf die Schaltfläche wird der entsprechenden Zeile die ausgewählte **PDF-Datei** hinzugefügt.
 
-![Auslösung der Aktion durch Aktivierung der Schaltfläche](https://seatable.io/wp-content/uploads/2023/01/pdf-example.gif)
+![Auslösung der Aktion durch Aktivierung der Schaltfläche](images/pdf-example.gif)
 
 ## Bedingte Ausführung von Schaltflächen-Aktionen
 

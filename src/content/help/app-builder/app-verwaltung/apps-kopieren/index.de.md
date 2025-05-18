@@ -17,6 +17,6 @@ Sie haben eine ausgefeilte **App** gebaut, die Sie in ähnlicher Form für eine 
 1. Öffnen Sie die **Base**, in der Sie eine bestehende App kopieren möchten.
 2. Klicken Sie im Base-Header auf **Apps**.
 
-![Klicken Sie im Base-Header auf Apps](https://seatable.io/wp-content/uploads/2023/04/click-apps-in-the-base-header.jpg) 4. Fahren Sie mit der Maus über die App und klicken Sie auf das erscheinende **Kopie-Symbol** {{< seatable-icon icon="dtable-icon-copy" >}}.
+![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg) 4. Fahren Sie mit der Maus über die App und klicken Sie auf das erscheinende **Kopie-Symbol** {{< seatable-icon icon="dtable-icon-copy" >}}.
 
-![Apps kopieren](https://seatable.io/wp-content/uploads/2023/05/Apps-kopieren.png) 6. Die Kopie der App öffnet sich im Bearbeitungsmodus, in dem Sie die **Einstellungen** direkt anpassen können.
+![Apps kopieren](images/Apps-kopieren.png) 6. Die Kopie der App öffnet sich im Bearbeitungsmodus, in dem Sie die **Einstellungen** direkt anpassen können.

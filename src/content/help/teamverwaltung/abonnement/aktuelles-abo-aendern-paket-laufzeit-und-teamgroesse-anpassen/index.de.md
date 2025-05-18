@@ -47,7 +47,7 @@ Selbstverständlich zahlen Sie bei jeder Änderung auch nur den jeweiligen **ant
 4. Nehmen Sie die gewünschten Änderungen am **Abonnement**, der **Anzahl der Benutzer** und am **Abrechnungszeitraum** vor.
 5. Bestätigen Sie die Änderung Ihres Abos mit **Abonnement kostenpflichtig anpassen**.
 
-![Bestätigen Sie die Änderung Ihres Abos](https://seatable.io/wp-content/uploads/2023/01/switch-from-plus-to-enterprise.png)
+![Bestätigen Sie die Änderung Ihres Abos](images/switch-from-plus-to-enterprise.png)
 
 ## Kündigung Ihres kostenpflichtigen Abonnements
 
@@ -59,6 +59,6 @@ Sie können zum Ende der bereits bezahlten Laufzeit zum kostenlosen Free-Abonnem
 2. Klicken Sie auf **Abonnement**.
 3. Klicken Sie auf **Abonnement kündigen und zu SeaTable Free wechseln**.
 
-![Änderung Ihres Abos von Plus/Enterprise zu Free](https://seatable.io/wp-content/uploads/2023/01/switch-to-seatable-free.png) 5. Lesen Sie sich sorgfältig die **Hinweise** zum Wechsel auf SeaTable Free durch. 6. Aktivieren Sie den **Regler** und bestätigen Sie die Änderung Ihres Abos mit **Abonnement kündigen und zu SeaTable Free wechseln**.
+![Änderung Ihres Abos von Plus/Enterprise zu Free](images/switch-to-seatable-free.png) 5. Lesen Sie sich sorgfältig die **Hinweise** zum Wechsel auf SeaTable Free durch. 6. Aktivieren Sie den **Regler** und bestätigen Sie die Änderung Ihres Abos mit **Abonnement kündigen und zu SeaTable Free wechseln**.
 
-![Bestätigen Sie die Änderung Ihres Abonnements zu SeaTable Free](https://seatable.io/wp-content/uploads/2023/01/confirm-switch-to-seatable-free.png)
+![Bestätigen Sie die Änderung Ihres Abonnements zu SeaTable Free](images/confirm-switch-to-seatable-free.png)

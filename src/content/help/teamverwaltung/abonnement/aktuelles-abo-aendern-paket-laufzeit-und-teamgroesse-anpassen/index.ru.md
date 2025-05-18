@@ -47,7 +47,7 @@ url: '/ru/help/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
 4. Внесите необходимые изменения в **подписку**, **количество пользователей** и **расчетный период**.
 5. Подтвердите изменение подписки с помощью платной **подписки Adjust**.
 
-![Подтвердите изменение вашей подписки](https://seatable.io/wp-content/uploads/2023/01/switch-from-plus-to-enterprise.png)
+![Подтвердите изменение вашей подписки](images/switch-from-plus-to-enterprise.png)
 
 ## Отмена платной подписки
 
@@ -59,9 +59,9 @@ url: '/ru/help/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
 2. Нажмите на **Подписку**.
 3. Нажмите кнопку **Отменить подписку и перейдите на SeaTable Free**.
 
-![Изменить подписку с Plus/Enterprise на Free](https://seatable.io/wp-content/uploads/2023/01/switch-to-seatable-free.png)
+![Изменить подписку с Plus/Enterprise на Free](images/switch-to-seatable-free.png)
 
 5. Внимательно прочитайте **инструкции по** переходу на SeaTable Free.
 6. Активируйте **слайдер** и подтвердите изменение подписки командой **Отменить подписку и перейти на SeaTable Free**.
 
-![Подтвердите изменение вашей подписки на SeaTable Free](https://seatable.io/wp-content/uploads/2023/01/confirm-switch-to-seatable-free.png)
+![Подтвердите изменение вашей подписки на SeaTable Free](images/confirm-switch-to-seatable-free.png)

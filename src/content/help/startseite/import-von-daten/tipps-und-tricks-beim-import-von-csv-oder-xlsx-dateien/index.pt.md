@@ -20,7 +20,7 @@ No SeaTable tem a opção de **importar** tanto **ficheiros** **CSV** como **Exc
 
 Os problemas ocorrem frequentemente ao importar ficheiros Excel se estes contiverem **estruturas** e conteúdos que **não pertencem à tabela**. O gráfico seguinte mostra um caso desses. O cabeçalho, a data e as colunas A e D não pertencem à tabela e devem ser removidas antes da importação.
 
-![Lista Excel com maus elementos](https://seatable.io/wp-content/uploads/2022/10/tipps-import.png)
+![Lista Excel com maus elementos](images/tipps-import.png)
 
 Os **gráficos** também não são tidos em conta durante uma importação, pelo que devem ser eliminados antes da tentativa de importação.
 

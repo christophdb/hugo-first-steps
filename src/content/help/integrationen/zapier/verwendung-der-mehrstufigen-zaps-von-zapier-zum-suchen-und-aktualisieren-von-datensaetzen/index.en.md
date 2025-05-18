@@ -28,13 +28,13 @@ In order to send the contacts from Brevo to Seatable, we need a suitable base. T
 
 The names of the columns basically don't matter, but it is important that we have a column in which a value is stored that uniquely identifies the user. In Brevo, this is the original ID, which does not change. We use this value in the Zap during the search to uniquely identify a contact.
 
-![Capturing contacts in SeaTable](https://seatable.io/wp-content/uploads/2023/06/sendinblue-5.png)
+![Capturing contacts in SeaTable](images/sendinblue-5.png)
 
 ### Each contact installation or contact adjustment triggers the Zap
 
 Brevo offers a Zapier app with the _New or Updated Contact_ event _in Brevo_. This trigger is ideal because it responds to both new contacts and changes. The following graphic shows the return values of a customer created on a test basis.
 
-![Brevo is always the trigger](https://seatable.io/wp-content/uploads/2023/06/sendinblue-1.png)
+![Brevo is always the trigger](images/sendinblue-1.png)
 
 ### The search for the contact with the help of the OriginalID
 
@@ -42,12 +42,12 @@ The second action of the Zap is now the _Find Row_. With this event you can sear
 
 The second possibility is that an entry is found, which means that no new entry needs to be created and instead we get the _ID of_ the _row of the contact in SeaTable. With this unique ID we can then update the existing contact in the third step._
 
-![The search for the contact in SeaTable](https://seatable.io/wp-content/uploads/2023/06/sendinblue-2.png)
+![The search for the contact in SeaTable](images/sendinblue-2.png)
 
 ### Contact update
 
 If the Zap finds an entry in the second step, the existing contact is updated in the third step. An action with the event _Update Row_ is used for this. The unique rows ID from step 2 determines which entry is to be updated. In this example, only the name and the e-mail address are updated.
 
-![Account update](https://seatable.io/wp-content/uploads/2023/06/sendinblue-3.png)
+![Account update](images/sendinblue-3.png)
 
 Of course, much more information can be copied from Brevo to SeaTable. This example only served to illustrate how one can reach the update of existing entries through a search step.

@@ -16,11 +16,11 @@ Ce type de page vous permet d'afficher **des images** et d'autres données que v
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Modifier les paramètres du site de la galerie](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Modifier les paramètres du site de la galerie](images/Einstellungen-der-Galerieseite-aendern.png)
 
 Dans les **paramètres de la page**, vous pouvez sélectionner le **tableau**, la **colonne d'images** et la **colonne de titres** à partir desquels la galerie est alimentée.
 
-![Paramètres de la page de la galerie dans les applications universelles](https://seatable.io/wp-content/uploads/2023/12/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
+![Paramètres de la page de la galerie dans les applications universelles](images/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
 
 ## Filtres prédéfinis, tris et colonnes masquées
 

@@ -34,11 +34,11 @@ Sélectionnez maintenant la **colonne de fichiers** dans laquelle la page doit �
 
 Enfin, **donnez un nom** aux fichiers PDF qui seront ajoutés à votre tableau. Utilisez **{column name}**, c'est-à-dire le nom d'une colonne entre parenthèses, pour nommer le fichier d'après la valeur de cette colonne.
 
-![Nommez les fichiers](https://seatable.io/wp-content/uploads/2023/01/PDF-file-name.png)
+![Nommez les fichiers](images/PDF-file-name.png)
 
 Après avoir cliqué sur le bouton, le **fichier PDF** sélectionné est ajouté à la ligne correspondante.
 
-![Déclenchement de l'action en activant le bouton](https://seatable.io/wp-content/uploads/2023/01/pdf-example.gif)
+![Déclenchement de l'action en activant le bouton](images/pdf-example.gif)
 
 ## Exécution conditionnelle des actions des boutons
 

@@ -16,7 +16,7 @@ Ce type de page vous permet d'[ajouter](https://seatable.io/fr/docs/universelle-
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Ouvrir les paramètres de la page](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Ouvrir les paramètres de la page](images/page-permissions-universal-app.png)
 
 Lorsque vous modifiez des pages de tableau, vous pouvez définir de nombreux **paramètres de page** afin d'adapter exactement les données affichées du tableau sous-jacent à un groupe d'utilisateurs.
 

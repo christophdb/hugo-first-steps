@@ -14,11 +14,11 @@ Por supuesto, también puede utilizar SeaTable en **dispositivos móviles** como
 
 Cuando accede a SeaTable a través de un navegador en un dispositivo móvil, la interfaz de usuario de SeaTable cambia para optimizar el funcionamiento para resoluciones de pantalla pequeñas. Los dos cambios más evidentes son los dos grandes botones redondos en la parte inferior derecha de la pantalla.
 
-![Vista móvil en SeaTable](https://seatable.io/wp-content/uploads/2023/05/mobile-view-seatable.png)
+![Vista móvil en SeaTable](images/mobile-view-seatable.png)
 
 Sobre la {{< key "+" >}} se pueden crear nuevas entradas y el {{< key "…" >}} puede pasar del conocido modo de lista al modo de cuadrícula. En este modo, cada línea se muestra como un cuadro independiente, lo que facilita su selección.
 
-![Modo cuadrícula de SeaTable para resoluciones pequeñas](https://seatable.io/wp-content/uploads/2023/05/seatable-grid-modus.png)
+![Modo cuadrícula de SeaTable para resoluciones pequeñas](images/seatable-grid-modus.png)
 
 ## Listas de selección en lugar de iconos pequeños
 

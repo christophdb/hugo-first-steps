@@ -16,7 +16,7 @@ Gut zu wissen: SeaTable legt automatisch einen Snapshot pro Tag von jeder Base a
 
 ## Manuelle Erstellung eines Snapshots
 
-![Manuelle Erstellung eines Snapshots](https://seatable.io/wp-content/uploads/2022/10/manual-creation-of-a-snapshot.gif)
+![Manuelle Erstellung eines Snapshots](images/manual-creation-of-a-snapshot.gif)
 
 1. Klicken Sie rechts oben in den Base-Optionen auf {{< seatable-icon icon="dtable-icon-history" >}} **Versionen**.
 2. Wählen Sie im sich öffnenden Drop-down-Menü die Option **Snapshots**.

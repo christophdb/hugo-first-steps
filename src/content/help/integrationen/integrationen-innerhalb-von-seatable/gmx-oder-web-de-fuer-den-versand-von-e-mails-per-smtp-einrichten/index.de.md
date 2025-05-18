@@ -21,9 +21,9 @@ GMX und WEB.DE Konten können standardmäßig nur über die Webmailer oder die A
 1. Loggen Sie sich in Ihr **GMX E-Mail-Konto** ein.
 2. Rufen Sie die **Einstellungen** Ihres Kontos auf.
 
-![Einstellungen innerhalb von GMX](https://seatable.io/wp-content/uploads/2023/03/gmx-free-email-smtp-versand-mit-seatable.jpg) 4. Klicken Sie in den E-Mail-Einstellungen auf **POP3/IMAP Abruf**. 5. Aktivieren Sie **POP3 und IMAP Zugriff erlauben**.
+![Einstellungen innerhalb von GMX](images/gmx-free-email-smtp-versand-mit-seatable.jpg) 4. Klicken Sie in den E-Mail-Einstellungen auf **POP3/IMAP Abruf**. 5. Aktivieren Sie **POP3 und IMAP Zugriff erlauben**.
 
-![SMTP für GMX und WEB.De erlauben.](https://seatable.io/wp-content/uploads/2023/03/activate_smtp_for_gmx.png) 7. **Speichern** Sie Ihre Änderung.
+![SMTP für GMX und WEB.De erlauben.](images/activate_smtp_for_gmx.png) 7. **Speichern** Sie Ihre Änderung.
 
 Damit haben Sie alle Vorbereitungen getroffen, um dieses E-Mail-Konto in SeaTable für den Versand von E-Mails nutzen zu können.
 
@@ -31,7 +31,7 @@ Damit haben Sie alle Vorbereitungen getroffen, um dieses E-Mail-Konto in SeaTabl
 
 Nun fügen Sie Ihr E-Mail-Konto als **Drittanbieter** in Ihrer SeaTable Base hinzu. Dazu sind die folgenden Schritte notwendig:
 
-![Integration von Drittanbietern über die erweiterten Base-Optionen](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Integration von Drittanbietern über die erweiterten Base-Optionen](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Öffnen Sie die erweiterten Base-Optionen mit einem Klick auf das **drei Punkte-Icon** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Wählen Sie die Option **Integration von Drittanbietern** aus.
@@ -48,7 +48,7 @@ Die Felder IMAP-Host und IMAP-Port können leer bleiben. Die SMTP-Serverdaten f�
 
 Eine Beispielkonfiguration für ein GMX Konto sieht so aus:
 
-![SMTP-Einstellungen von GMX](https://seatable.io/wp-content/uploads/2023/03/smtp-settings-gmx.jpg)
+![SMTP-Einstellungen von GMX](images/smtp-settings-gmx.jpg)
 
 ## E-Mails per Automation versenden
 

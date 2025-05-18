@@ -1,11 +1,11 @@
 ---
-title: "Welche Zahlungsmethoden bietet SeaTable?"
+title: 'Welche Zahlungsmethoden bietet SeaTable?'
 date: 2023-05-03
-lastmod: "2023-05-03"
-categories: 
-  - "abo-abrechnung"
-author: "nsc2"
-url: "/de/hilfe/zahlungsmethoden-seatable"
+lastmod: '2023-05-03'
+categories:
+    - 'abo-abrechnung'
+author: 'nsc2'
+url: '/de/hilfe/zahlungsmethoden-seatable'
 ---
 
 {{< required-version "Team-Administratoren" >}}
@@ -20,7 +20,7 @@ Die zweite mögliche Zahlungsmethode stellt die **Bezahlung auf Rechnung** dar, 
 2. Klicken Sie auf **Abonnement**.
 3. Unter dem Punkt "**Bezahlmethode"** können Sie Ihre aktuelle Zahlungsmethode einsehen.
 
-![Über den Reiter Abonnement in der Teamverwaltung können Sie jederzeit Ihre Zahlungsmethode einsehen](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-einsehen.jpg)
+![Über den Reiter Abonnement in der Teamverwaltung können Sie jederzeit Ihre Zahlungsmethode einsehen](images/Zahlungsmethode-einsehen.jpg)
 
 ## Wie kann ich meine Zahlungsmethode ändern?
 
@@ -29,4 +29,4 @@ Die zweite mögliche Zahlungsmethode stellt die **Bezahlung auf Rechnung** dar, 
 3. Klicken Sie auf **"Bezahlmethode anpassen"**.
 4. Sie können nun eine **neue Kreditkarte** als Zahlungsmethode hinterlegen. Wie und unter welchen Vorraussetzungen Sie die **Bezahlung auf Rechnung** aktivieren können, erfahren Sie in diesem [Artikel](https://seatable.io/docs/abo-abrechnung/bezahlung-per-rechnung/).
 
-![Im Reiter Abonnement in der Teamverwaltung können Sie Ihre Zahlungsmethode jederzeit ändern](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-aendern.jpg)
+![Im Reiter Abonnement in der Teamverwaltung können Sie Ihre Zahlungsmethode jederzeit ändern](images/Zahlungsmethode-aendern.jpg)

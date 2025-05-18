@@ -18,7 +18,7 @@ You can set spaces and line breaks almost arbitrarily in the **formula editor**.
 
 ### Application example
 
-![Spaces and line breaks can be set almost arbitrarily in the formula wizard. The only exception are functions.](https://seatable.io/wp-content/uploads/2023/01/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
+![Spaces and line breaks can be set almost arbitrarily in the formula wizard. The only exception are functions.](images/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
 
 ## Using syntax in the formula editor
 
@@ -41,7 +41,7 @@ If the mentioned formula elements are **not** marked in the corresponding **colo
 
 **Matching parentheses** are **highlighted in** the formula editor as soon as you click an opening or closing parenthesis. This makes it easier to spot **missing** or **incorrect** bracket replacements.
 
-![Opening and closing parentheses are always highlighted in the formula editor](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+![Opening and closing parentheses are always highlighted in the formula editor](images/example-brackets.png)
 
 ## Plan formulas
 

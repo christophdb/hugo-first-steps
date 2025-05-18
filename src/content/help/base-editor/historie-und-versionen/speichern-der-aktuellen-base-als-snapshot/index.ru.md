@@ -16,7 +16,7 @@ url: '/ru/help/speichern-der-aktuellen-base-als-snapshot'
 
 ## Создание моментального снимка вручную
 
-![Создание моментального снимка вручную](https://seatable.io/wp-content/uploads/2022/10/manual-creation-of-a-snapshot.gif)
+![Создание моментального снимка вручную](images/manual-creation-of-a-snapshot.gif)
 
 1. Щелкните на {{< seatable-icon icon="dtable-icon-history" >}} **versions** в правом верхнем углу опций базы.
 2. В открывшемся выпадающем меню выберите опцию **Snapshots (Снимки**).

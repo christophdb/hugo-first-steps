@@ -12,7 +12,7 @@ For a better overview of your bases, you have the option to create new **folders
 
 ## Create a folder from the home page
 
-![Create a folder from the home page](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-starting-page.gif)
+![Create a folder from the home page](images/create-new-folder-via-starting-page.gif)
 
 1. Switch to the SeaTable **home** page.
 2. Depending on whether you want to create a folder under **My Bases**, **Shared with Me** or in a specific **group**, click **Add a Base or Folder** in the corresponding area.
@@ -25,7 +25,7 @@ For a better overview of your bases, you have the option to create new **folders
 
 Besides the way described in the first section, you can also create a folder via the **folder overview**. This opens automatically in a new window when you click on an existing folder on the **start** page.
 
-![Create a folder in the folder overview](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-folder-overview.gif)
+![Create a folder in the folder overview](images/create-new-folder-via-folder-overview.gif)
 
 1. Switch to the SeaTable **home** page.
 2. Click on an already existing **folder**.

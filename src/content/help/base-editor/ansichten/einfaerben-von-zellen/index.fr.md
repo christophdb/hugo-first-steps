@@ -19,11 +19,11 @@ En plus de l'option **Colorer les cellules**, il est également possible de [mar
 ## Coloration par des règles ou selon des valeurs
 
 Chaque colonne offre l'option **Formater les cellules de la colonne** à :  
-![Coloration de cellules dans SeaTable](https://seatable.io/wp-content/uploads/2022/10/color-cells.png)
+![Coloration de cellules dans SeaTable](images/color-cells.png)
 
 SeaTable se comportera différemment selon le **type de colonne** pour lequel vous appelez cette option. Pour les [colonnes de chiffres](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/), vous pouvez utiliser à la fois les règles et les valeurs de coloration. Pour tous les autres types de colonnes, vous ne pouvez utiliser que les règles de coloration.
 
-![Coloration avec des règles ou selon des valeurs](https://seatable.io/wp-content/uploads/2022/10/color-cells-rules-values.png)
+![Coloration avec des règles ou selon des valeurs](images/color-cells-rules-values.png)
 
 ## Pour colorer des cellules à l'aide d'une règle, procédez comme suit
 
@@ -40,11 +40,11 @@ SeaTable se comportera différemment selon le **type de colonne** pour lequel vo
 
 En appliquant une règle, vous colorez **toutes les cellules** d'une colonne auxquelles une règle **s'applique**. Une telle règle pourrait par exemple être la suivante : "Colorie en jaune toutes les cellules dont la note est égale ou supérieure à trois étoiles".
 
-![Coloration de cellules à l'aide d'une règle](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-einer-Regel.png)
+![Coloration de cellules à l'aide d'une règle](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
 
 Vous pouvez créer **plusieurs règles** par colonne **avec des couleurs différentes**.
 
-![Coloration de cellules avec plusieurs règles](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
+![Coloration de cellules avec plusieurs règles](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
 En outre, vous pouvez définir **plusieurs conditions** par règle, qui peuvent s'appliquer à toutes les colonnes du tableau. Par exemple, colorez la [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) avec le titre d'un article si le **statut** n'est pas "terminé", si la **date de publication** est dans le futur et s'il y a déjà une **image**.
 

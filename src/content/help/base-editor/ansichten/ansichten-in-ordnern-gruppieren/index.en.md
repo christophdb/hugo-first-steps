@@ -19,7 +19,7 @@ In addition to changing the order, you can also arrange your views more clearly 
 5. Move the mouse to the view you want to move to the created folder.
 6. Hold the **Six dots icon**
 
-    ![Icon for moving elements](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Icon for moving elements](images/move-icon.png)
     to move and drag the view to the desired folder.
 
 ![Group views in folders](images/Ansichten-in-Ordnern-gruppieren.gif)

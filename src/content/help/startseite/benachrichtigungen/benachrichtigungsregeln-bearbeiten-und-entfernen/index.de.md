@@ -12,7 +12,7 @@ Bereits angelegte Benachrichtigungsregeln können Sie jederzeit **bearbeiten** u
 
 ## So bearbeiten Sie eine Benachrichtigungsregel
 
-![Eine Benachrichtigungs-Regel bearbeiten](https://seatable.io/wp-content/uploads/2023/02/edit-notification-rules.jpg)
+![Eine Benachrichtigungs-Regel bearbeiten](images/edit-notification-rules.jpg)
 
 1. Öffnen Sie die **Base**, in der Sie eine bereits angelegte Benachrichtigungsregel bearbeiten möchten.
 2. Klicken Sie auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Benachrichtigungsregeln**.
@@ -39,7 +39,7 @@ Nach Bestätigung der vorgenommenen Änderungen werden diese automatisch in der 
 
 ## So löschen Sie eine Benachrichtigungsregel
 
-![Löschung einer Benachrichtigungs-Regel](https://seatable.io/wp-content/uploads/2023/02/delete-notification.jpg)
+![Löschung einer Benachrichtigungs-Regel](images/delete-notification.jpg)
 
 1. Öffnen Sie die **Base**, in der Sie eine bereits angelegte Benachrichtigungsregel löschen möchten.
 2. Klicken Sie auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Benachrichtigungsregeln**.

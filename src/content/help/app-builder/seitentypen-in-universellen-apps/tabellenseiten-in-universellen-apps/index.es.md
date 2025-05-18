@@ -16,7 +16,7 @@ Puede utilizar este tipo de página para [añadir](https://seatable.io/es/docs/u
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Abrir la configuración de la página](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Abrir la configuración de la página](images/page-permissions-universal-app.png)
 
 Al editar páginas de tablas, puede realizar numerosos **ajustes de página** para personalizar los datos mostrados de la tabla subyacente precisamente a un grupo de usuarios.
 

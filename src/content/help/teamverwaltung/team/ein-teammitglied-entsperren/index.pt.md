@@ -25,5 +25,5 @@ Neste momento, o membro da equipa já não pode fazer nada por si próprio.
 3. Seleccionar o **membro da equipa** bloqueado.
 4. Desligar o Controlo de **Utilizador Desactivar**.
 
-![Reativar o utilizador desactivado.](https://seatable.io/wp-content/uploads/2023/02/enable-disabled-user.png)  
+![Reativar o utilizador desactivado.](images/enable-disabled-user.png)  
 Uma vez feita a mudança **guardado** o membro da equipa pode voltar a entrar no SeaTable Cloud ou solicitar uma nova palavra-passe.

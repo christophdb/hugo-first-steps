@@ -16,7 +16,7 @@ Si concede a otro usuario derechos de edición sobre una vista compartida, éste
 
 ## Compartir una vista con un miembro del equipo
 
-![Compartir una vista con un miembro del equipo](https://seatable.io/wp-content/uploads/2022/10/sharing-a-view-with-a-team-member-1.gif)
+![Compartir una vista con un miembro del equipo](images/sharing-a-view-with-a-team-member-1.gif)
 
 1. Abra la **vista de** una tabla que desee compartir.
 2. Haga clic en **Compartir vista** y luego seleccione Compartir con el **usuario**.
@@ -26,7 +26,7 @@ Si concede a otro usuario derechos de edición sobre una vista compartida, éste
 
 Si has compartido con éxito la vista con otro usuario, aparecerá en su página de inicio en la pestaña **Compartido conmigo**:
 
-![Vistas divididas en la página de inicio](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-11-10-17-01-26.png)
+![Vistas divididas en la página de inicio](images/Screenshot-from-2022-11-10-17-01-26.png)
 
 Si un usuario abre una vista que ha sido compartida con él, puede tener este aspecto, por ejemplo:
 
@@ -36,7 +36,7 @@ Si un usuario abre una vista que ha sido compartida con él, puede tener este as
 
 Si ya no desea compartir una vista de tabla con otro usuario, puede volver a eliminarla fácilmente:
 
-![Resolver una vista dividida.](https://seatable.io/wp-content/uploads/2022/10/resolve-a-split-view.gif)
+![Resolver una vista dividida.](images/resolve-a-split-view.gif)
 
 1. Abra la **vista de** una tabla que haya compartido con otro usuario.
 2. Haga clic en **Compartir vista**.
@@ -46,7 +46,7 @@ Si ya no desea compartir una vista de tabla con otro usuario, puede volver a eli
 
 En una base hay un total de dos **iconos de compartición** con los que puede compartir una base entera o una vista de tabla individual. Dependiendo de su función, encontrará estos iconos en el área de **Opciones de base** (aquí con fondo de color) o en el área de **Opciones de vista** (aquí en blanco):
 
-![Compartir iconos en una base](https://seatable.io/wp-content/uploads/2022/10/share-icons-new-1.png)
+![Compartir iconos en una base](images/share-icons-new-1.png)
 
 ### Liberación de una base
 

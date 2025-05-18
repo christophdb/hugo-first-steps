@@ -15,9 +15,9 @@ Este artigo explica as consequências da eliminação de uma equipa para os dado
 
 {{< warning  headline="Nota importante"  text="As equipas **só** podem ser eliminadas pelos administradores das equipas." />}}
 
-![Clique em "Eliminar completamente a conta da equipa e todos os dados" na parte inferior da página.](https://seatable.io/wp-content/uploads/2023/01/delete-team.png) 4. Abrir a **administração da equipa**. 5. Clique em **Subscrição**. 6. Clique em **"Eliminar completamente a conta da equipa e todos os dados"** na parte inferior da página. 7. Ativar o **cursor** e confirmar a eliminação com **"Eliminar esta equipa e todos os dados"**. 8. Receberá então automaticamente uma **mensagem** a confirmar a eliminação da sua conta de equipa.
+![Clique em "Eliminar completamente a conta da equipa e todos os dados" na parte inferior da página.](images/delete-team.png) 4. Abrir a **administração da equipa**. 5. Clique em **Subscrição**. 6. Clique em **"Eliminar completamente a conta da equipa e todos os dados"** na parte inferior da página. 7. Ativar o **cursor** e confirmar a eliminação com **"Eliminar esta equipa e todos os dados"**. 8. Receberá então automaticamente uma **mensagem** a confirmar a eliminação da sua conta de equipa.
 
-![Confirmar a eliminação da sua equipa.](https://seatable.io/wp-content/uploads/2023/01/delete-team-confirmation-1.png)
+![Confirmar a eliminação da sua equipa.](images/delete-team-confirmation-1.png)
 
 ## Consequências para os seus dados
 

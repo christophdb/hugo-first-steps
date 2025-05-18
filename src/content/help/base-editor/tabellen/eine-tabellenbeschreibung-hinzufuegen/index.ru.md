@@ -17,23 +17,23 @@ url: '/ru/help/eine-tabellenbeschreibung-hinzufuegen'
 1. Щелкните на **треугольном раскрывающемся значке** рядом с названием любой таблицы.
 2. Выберите опцию **Edit Table Description (Редактировать описание таблицы**).
 
-![Добавьте описание таблицы](https://seatable.io/wp-content/uploads/2023/07/edit-table-description.jpg)
+![Добавьте описание таблицы](images/edit-table-description.jpg)
 
 4. Добавьте **описание** к таблице.
 5. Подтвердите с помощью кнопки **Отправить**.
 
-![Добавить описание таблицы](https://seatable.io/wp-content/uploads/2023/07/insert-table-description.jpg)
+![Добавить описание таблицы](images/insert-table-description.jpg)
 
 ## Где найти описание таблицы
 
 Таблицы с добавленным **описанием таблицы** всегда можно распознать по **символу i** справа от названия таблицы.
 
-![Таблица с описанием таблицы](https://seatable.io/wp-content/uploads/2023/07/table-with-description.png)
+![Таблица с описанием таблицы](images/table-with-description.png)
 
 Вы всегда можете вывести на экран описание таблицы, наведя курсор мыши на **символ i**.
 
-![Описание таблицы](https://seatable.io/wp-content/uploads/2023/07/table-description.jpg)
+![Описание таблицы](images/table-description.jpg)
 
 Вы также можете **отредактировать** текущее описание таблицы, нажав на **символ i**.
 
-![Редактирование текущего описания таблицы с помощью символа i](https://seatable.io/wp-content/uploads/2023/07/edit-table-description-i-icon.png)
+![Редактирование текущего описания таблицы с помощью символа i](images/edit-table-description-i-icon.png)

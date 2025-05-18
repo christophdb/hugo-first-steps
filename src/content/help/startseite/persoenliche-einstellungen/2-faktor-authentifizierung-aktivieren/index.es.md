@@ -32,7 +32,7 @@ Para todos los inicios de sesión futuros, deberá introducir el código actual 
 
 ## ¿Qué aplicación 2FA recomendamos?
 
-![La autenticación de 2 factores a través de la aplicación protege de forma fiable tu inicio de sesión.](https://seatable.io/wp-content/uploads/2023/03/2fa-app.png)
+![La autenticación de 2 factores a través de la aplicación protege de forma fiable tu inicio de sesión.](images/2fa-app.png)
 
 En principio, puede utilizar cualquier aplicación 2FA, aunque nos gustaría recomendarle la aplicación **2FA Authenticator (2FAS)**. Es útil, delgada y reconoce SeaTable.
 

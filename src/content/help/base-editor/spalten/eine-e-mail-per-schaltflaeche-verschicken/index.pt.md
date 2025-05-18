@@ -14,29 +14,29 @@ Com a ajuda de um **botão** nas suas filas, pode enviar e-mails a um ou mais de
 
 Primeiro, seleccionar a acção **Enviar e-mail** ao criar o [botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/).
 
-![Selecção da acção "Enviar e-mail](https://seatable.io/wp-content/uploads/2023/01/send-email-action.png)
+![Selecção da acção "Enviar e-mail](images/send-email-action.png)
 
 Em **Nome da conta**, seleccione uma conta a partir da qual pretende enviar a mensagem de correio electrónico. Se **não vir uma conta** neste campo, tem de [adicionar](https://seatable.io/pt/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) primeiro uma [conta de correio electrónico ao SeaTable](https://seatable.io/pt/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
 
-![Se não vir uma conta de e-mail, deve primeiro adicionar uma conta de e-mail ao SeaTable](https://seatable.io/wp-content/uploads/2023/01/add-email-account.png)
+![Se não vir uma conta de e-mail, deve primeiro adicionar uma conta de e-mail ao SeaTable](images/add-email-account.png)
 
 {{< warning  headline="Nota"  text="Pode encontrar instruções pormenorizadas sobre como configurar a sua **conta de correio electrónico para** enviar mensagens de correio electrónico [aqui](https://seatable.io/pt/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/). A **conta** que adicionou estará então disponível para selecção quando criar o botão." />}}
 
 Defina agora o **assunto** e o **conteúdo da** mensagem de correio eletrónico.
 
-![Definir o assunto e o conteúdo do e-mail](https://seatable.io/wp-content/uploads/2023/01/subject-and-message.png)
+![Definir o assunto e o conteúdo do e-mail](images/subject-and-message.png)
 
 Se tiver ativado a barra de texto **formatado**, um duplo clique no campo de texto abre o **editor** familiar no qual pode criar textos mais longos com formatação, listas e imagens. Uma caraterística especial aqui é que também pode **inserir colunas**.
 
-![Inserir colunas em textos de correio eletrónico](https://seatable.io/wp-content/uploads/2023/01/Spalten-in-E-Mail-Texte-einfuegen.png)
+![Inserir colunas em textos de correio eletrónico](images/Spalten-in-E-Mail-Texte-einfuegen.png)
 
 Seleccione o(s) **destinatário** (s) do e-mail. Opcionalmente, pode também seleccionar destinatários que devem receber uma **cópia** do e-mail ou a quem gostaria de **responder** com o e-mail. É possível introduzir múltiplos destinatários separados por vírgulas. Use o nome de uma coluna entre parênteses rectos para citar o conteúdo da coluna.
 
-![Especificar o(s) destinatário(s) do e-mail. Opcionalmente, pode também seleccionar destinatários que devem receber uma cópia do e-mail ou a quem gostaria de responder com o e-mail.](https://seatable.io/wp-content/uploads/2023/01/send-to-copy-to-reply-to.png)
+![Especificar o(s) destinatário(s) do e-mail. Opcionalmente, pode também seleccionar destinatários que devem receber uma cópia do e-mail ou a quem gostaria de responder com o e-mail.](images/send-to-copy-to-reply-to.png)
 
 Opcionalmente, pode acrescentar um **anexo à** mensagem de correio electrónico. Note-se, no entanto, que _não pode_ simplesmente carregar ficheiros, mas deve primeiro guardá-los numa [coluna de ficheiros da](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) tabela. No campo **Anexos**, pode então seleccionar uma ou mais **colunas de ficheiros** a partir das quais pretende anexar os ficheiros à mensagem de correio electrónico.
 
-![Os ficheiros que adicionou a uma coluna de ficheiro da sua tabela podem ser utilizados como anexos ao e-mail](https://seatable.io/wp-content/uploads/2023/01/file-001.png)
+![Os ficheiros que adicionou a uma coluna de ficheiro da sua tabela podem ser utilizados como anexos ao e-mail](images/file-001.png)
 
 ## Execução condicional de acções de múltiplos botões
 

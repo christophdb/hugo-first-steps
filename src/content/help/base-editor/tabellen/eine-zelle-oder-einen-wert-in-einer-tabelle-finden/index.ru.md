@@ -12,7 +12,7 @@ url: '/ru/help/eine-zelle-oder-einen-wert-in-einer-tabelle-finden'
 
 ## Чтобы найти в таблице то, что вы ищете
 
-![Найти ячейку или значение в таблице](https://seatable.io/wp-content/uploads/2022/10/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
+![Найти ячейку или значение в таблице](images/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
 
 1. Откройте любую **таблицу** в базе, где вы ищете конкретное значение или ячейку.
 2. Нажмите на **лупу** в правом верхнем углу под опциями базы.

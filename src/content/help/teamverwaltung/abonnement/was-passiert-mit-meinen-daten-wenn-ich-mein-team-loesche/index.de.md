@@ -14,9 +14,9 @@ Team-Administratoren haben in SeaTable über die Teamverwaltung die Möglichkeit
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Teams können **ausschließlich** von den Teamadmins gelöscht werden." />}}
 
-![Klicken Sie ganz unten auf der Seite auf "Team-Account und alle Daten vollständig löschen."](https://seatable.io/wp-content/uploads/2023/01/delete-team.png) 3. Öffnen Sie die **Teamverwaltung**. 4. Klicken Sie auf **Abonnement**. 5. Klicken Sie ganz unten auf der Seite auf **"Team-Account und alle Daten vollständig löschen"**. 6. Aktivieren Sie den **Regler** und bestätigen Sie die Löschung mit **"Dieses Team und alle Daten löschen"**. 7. Sie erhalten im Anschluss automatisch eine **Meldung**, in der Ihnen die Löschung Ihres Team-Accounts nochmals bestätigt wird.
+![Klicken Sie ganz unten auf der Seite auf "Team-Account und alle Daten vollständig löschen."](images/delete-team.png) 3. Öffnen Sie die **Teamverwaltung**. 4. Klicken Sie auf **Abonnement**. 5. Klicken Sie ganz unten auf der Seite auf **"Team-Account und alle Daten vollständig löschen"**. 6. Aktivieren Sie den **Regler** und bestätigen Sie die Löschung mit **"Dieses Team und alle Daten löschen"**. 7. Sie erhalten im Anschluss automatisch eine **Meldung**, in der Ihnen die Löschung Ihres Team-Accounts nochmals bestätigt wird.
 
-![Bestätigen Sie die Löschung Ihres Teams.](https://seatable.io/wp-content/uploads/2023/01/delete-team-confirmation-1.png)
+![Bestätigen Sie die Löschung Ihres Teams.](images/delete-team-confirmation-1.png)
 
 ## Folgen für Ihre Daten
 

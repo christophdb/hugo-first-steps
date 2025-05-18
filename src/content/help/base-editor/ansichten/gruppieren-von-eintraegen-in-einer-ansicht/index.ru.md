@@ -12,7 +12,7 @@ url: '/ru/help/gruppieren-von-eintraegen-in-einer-ansicht'
 
 ## Группировка записей в представлении
 
-![Группировка записей в представлении](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
+![Группировка записей в представлении](images/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
 1. Создайте [новое представление]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) или выберите представление, в котором вы хотите сгруппироваться.
 2. Нажмите на опцию **Группа** в опциях просмотра над таблицей.
@@ -32,7 +32,7 @@ url: '/ru/help/gruppieren-von-eintraegen-in-einer-ansicht'
 
 Каждая группа имеет заголовок, в котором указан критерий группы и количество записей в группе.
 
-![Заголовок группы](https://seatable.io/wp-content/uploads/2022/10/gruppierung.png)
+![Заголовок группы](images/gruppierung.png)
 
 В случае с **колонками платежей** у вас также есть возможность отображать различные взаимосвязи между записями:
 
@@ -59,21 +59,21 @@ url: '/ru/help/gruppieren-von-eintraegen-in-einer-ansicht'
 
 Здесь вы найдете опцию **Уменьшить все**:
 
-![Сократить все](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_6.png)
+![Сократить все](images/gruppieren-von-eintraegrn_6.png)
 
 **Уменьшите** дисплей при активированной опции " **Все**":
 
-![Пример для всех сокращений для группировок](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_1-1.png)
+![Пример для всех сокращений для группировок](images/gruppieren-von-eintraegrn_1-1.png)
 
 ### Развернуть все
 
 Здесь вы найдете опцию **Развернуть все**:
 
-![Расширить опцию группировки для всех](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_7-1.png)
+![Расширить опцию группировки для всех](images/gruppieren-von-eintraegrn_7-1.png)
 
 **Разверните** дисплей с активированной опцией " **Все**":
 
-![Пример всех расширений для группировок](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_3-1.png)
+![Пример всех расширений для группировок](images/gruppieren-von-eintraegrn_3-1.png)
 
 ## Переместить записи в другую группу
 
@@ -85,4 +85,4 @@ url: '/ru/help/gruppieren-von-eintraegen-in-einer-ansicht'
 
 Конечно, вы можете удалить группировки в любое время, нажав на **символ x** перед соответствующей группировкой.
 
-![Удалить группировку](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-loeschen.png)
+![Удалить группировку](images/Gruppierung-loeschen.png)

@@ -24,7 +24,7 @@ Existem actualmente cinco áreas onde pode utilizar a sintaxe Markdown no SeaTab
 
 Assim que o Markdown for utilizado no SeaTable, ser-lhe-á apresentada a seguinte máscara de entrada. Naturalmente, pode marcar palavras ou blocos de texto como habitualmente e, em seguida, seleccionar a formatação pretendida.
 
-![Markdown no SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
+![Markdown no SeaTable](images/markdown-seatable.png)
 
 Em alternativa, também pode activar a formatação Markdown directamente, introduzindo determinados caracteres especiais. Basta digitar um caractere especial num campo de entrada do Markdown. {{< key "#" >}} seguido de uma palavra. Verá que o hash na sintaxe Markdown representa um primeiro título. Assim, se souber que carácter especial desencadeia que formatação, pode capturar e formatar os seus textos muito mais rapidamente.
 
@@ -91,7 +91,7 @@ Número 1
 
 A **Citação de bloco** é uma linha que começa com {{< key "\>" >}} e, em seguida, o conteúdo da citação. As citações são assinaladas por um travessão e uma moldura na margem esquerda.
 
-![Citação Markdown](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
+![Citação Markdown](images/markdown-cite.png)
 
 ### Código em linha
 
@@ -103,7 +103,7 @@ Texto escrito por um {{< key "FIXME:backtick" >}} é rodeado é representado com
 
 A **Bloco de códigos** é obtida através de três **Retrocessos** {{< key "```" >}} introduzido. A característica especial do bloco de código é o facto de o conteúdo ser **Código em linha** é apresentado com tipo de letra monospace. Os recuos também são mantidos exactamente como foram introduzidos.
 
-![Bloco de código Markdown](https://seatable.io/wp-content/uploads/2023/05/markdown-codeblock.png)
+![Bloco de código Markdown](images/markdown-codeblock.png)
 
 ### Quebras de linha
 

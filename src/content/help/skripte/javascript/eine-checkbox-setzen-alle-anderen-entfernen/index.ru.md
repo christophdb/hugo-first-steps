@@ -16,7 +16,7 @@ url: '/ru/help/eine-checkbox-setzen-alle-anderen-entfernen'
 
 При каждом нажатии на кнопку активируется флажок в этой строке, а все остальные деактивируются.
 
-![Установка флажка с помощью JavaScript](https://seatable.io/wp-content/uploads/2023/05/seatable-javascript-set-checkbox.gif)
+![Установка флажка с помощью JavaScript](images/seatable-javascript-set-checkbox.gif)
 
 ## Полный сценарий
 

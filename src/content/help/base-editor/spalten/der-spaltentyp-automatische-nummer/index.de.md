@@ -14,7 +14,7 @@ Beachten Sie, dass diese Spalte _nicht_ dazu gedacht ist, die Anzahl der Datens�
 
 Um Ihre Datensätze **neu** zu nummerieren (z. B. um Lücken zu beseitigen), können Sie entweder die Spalte _Automatische Nummer_ löschen und neu erstellen oder den Spaltentyp ändern und dann erneut in eine _Automatische Nummer_ umwandeln.
 
-![Zeilen mit einer automatischen Nummer](https://seatable.io/wp-content/uploads/2023/01/auto-number.gif)
+![Zeilen mit einer automatischen Nummer](images/auto-number.gif)
 
 ## Drei Formate stehen zur Verfügung
 

@@ -47,7 +47,7 @@ Il peut être particulièrement intéressant pour les entreprises et les organis
 
 Pour cela, vous pouvez marquer votre formulaire avec votre **logo**.
 
-![Modifier le logo dans le formulaire web](https://seatable.io/wp-content/uploads/2023/01/webformular.png)
+![Modifier le logo dans le formulaire web](images/webformular.png)
 
 Vous avez également la possibilité d'adapter la **barre de couleur** supérieure. Pour ce faire, cliquez sur le **schéma de couleurs** en haut à droite à côté des paramètres.
 

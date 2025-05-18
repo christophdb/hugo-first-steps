@@ -16,11 +16,11 @@ Die Findmax-Formel funktioniert nur mit **Zahlenwerten**, weshalb der Inhalt der
 
 Die **Findmax-Funktion** sollte zum Einsatz kommen, wenn Sie **Querverweise** zu numerischen Werten herstellen möchten, die in verschiedenen Tabellen gespeichert sind. Nehmen wir an, Sie verwenden SeaTable zur Sammlung der **Arbeitszeiten** Ihrer Mitarbeiter, wobei in einer Tabelle die Mitarbeiter und in einer anderen Tabelle die tägliche Aktivität gespeichert sind. Jeden Mitarbeiter-Datensatz können Sie dann mit den eingetragenen Arbeitszeiten verknüpfen.
 
-![findmax-Formel](https://seatable.io/wp-content/uploads/2023/02/findmax-1.png)
+![findmax-Formel](images/findmax-1.png)
 
 Um festzustellen, wann sich ein Mitarbeiter zuletzt eingeloggt hat, können Sie mithilfe der **Findmax-Formel** den **größten Wert** – in diesem Fall den letzten Zeitpunkt – aus den gesamten Login-Zeiten in einer Spalte darstellen.
 
-![Die findmax-Formel](https://seatable.io/wp-content/uploads/2023/02/findmax2-1.png)
+![Die findmax-Formel](images/findmax2-1.png)
 
 Die Findmax-Formel können Sie bei allen numerischen Werten zur Darstellung des **Maximalwerts** verwenden.
 
@@ -32,7 +32,7 @@ Informieren Sie sich im Artikel [Wie man Tabellen in SeaTable miteinander verkn�
 
 ### Eine Spalte mit Findmax-Formel hinzufügen
 
-![findmax-Formel](https://seatable.io/wp-content/uploads/2023/02/findmax.gif)
+![findmax-Formel](images/findmax.gif)
 
 1. Erstellen Sie eine neue Spalte des Typs **Formel für Verknüpfungen**.
 2. Legen Sie als Formel die Option **Findmax** fest.

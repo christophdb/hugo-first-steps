@@ -12,7 +12,7 @@ The more columns you create to enter data, the more confusing your table becomes
 
 ## Hide columns
 
-![Hide columns](https://seatable.io/wp-content/uploads/2022/10/hide-coloumns-2.gif)
+![Hide columns](images/hide-coloumns-2.gif)
 
 1. Click **Hide** in the view options of any table.
 2. Hide any number of columns **by clicking on** them. Using the **search field**, you can narrow the selection of columns or search for a specific column you want to hide.
@@ -21,12 +21,12 @@ The more columns you create to enter data, the more confusing your table becomes
 
 ## Move columns
 
-Hold the mouse button on the **Six dots symbols** ![Icon for moving elements](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) in front of the column names and drag them up or down in the list to change the order of the columns in the table as you wish.
+Hold the mouse button on the **Six dots symbols** ![Icon for moving elements](images/move-icon.png) in front of the column names and drag them up or down in the list to change the order of the columns in the table as you wish.
 
-![Move columns](https://seatable.io/wp-content/uploads/2022/10/moving-columns.gif)
+![Move columns](images/moving-columns.gif)
 
 In addition, you can also move the columns directly in the **table view** using drag-and-drop. To do this, hold down the mouse button on the **name of a column** and move the column to the right or left.
 
-![Move columns from the table view.](https://seatable.io/wp-content/uploads/2022/10/moving-columns-from-the-table-view.gif)
+![Move columns from the table view.](images/moving-columns-from-the-table-view.gif)
 
 {{< warning  headline="Important note"  text="Please note that the **first column of** a table **cannot** be moved. You can read about other special features of the first column in the corresponding [overview article](https://seatable.io/en/docs/spalten/die-besonderheiten-der-ersten-spalte/)." />}}

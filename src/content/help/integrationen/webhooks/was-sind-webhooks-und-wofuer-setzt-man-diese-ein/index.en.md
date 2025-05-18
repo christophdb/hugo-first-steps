@@ -45,6 +45,6 @@ There are two ways in which different systems can communicate with each other to
 
 Polling requests information, resulting in a constant exchange even when no events occur at all.
 
-![Webhooks vs Polling](https://seatable.io/wp-content/uploads/2023/02/webhooks-vs-polling.png)
+![Webhooks vs Polling](images/webhooks-vs-polling.png)
 
 Webhooks, on the other hand, only need to communicate when an event has occurred.

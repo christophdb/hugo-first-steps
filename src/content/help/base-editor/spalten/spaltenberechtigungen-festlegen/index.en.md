@@ -16,7 +16,7 @@ If you have owner or administrator rights, you can define in each table column *
 
 ## column permissions determine
 
-![column permissions determine](https://seatable.io/wp-content/uploads/2023/02/edit-column-permissions.gif)
+![column permissions determine](images/edit-column-permissions.gif)
 
 1. Click the {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} **drop-down icon** in the header of any column.
 2. Click **column permissions edit**.

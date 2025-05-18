@@ -12,7 +12,7 @@ Les tableaux, lignes et colonnes supprimés peuvent être trouvés et restaurés
 
 ## Récupérer les tableaux, lignes et colonnes de la corbeille
 
-![](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-10-27-12-04-15.png)
+![](images/Screenshot-from-2022-10-27-12-04-15.png)
 
 1. Cliquez sur **Versions** en haut à droite dans les options de la base.
 2. Ouvrez la **corbeille**.

@@ -10,13 +10,13 @@ url: '/help/die-spalte-mitarbeiter'
 
 In the **employee column**, you can assign one or more **people** to row . SeaTable allows you to select people who currently have **access** to the **base** as well as all other team members without access.
 
-![The employee column in SeaTable](https://seatable.io/wp-content/uploads/2023/01/employee-column.png)
+![The employee column in SeaTable](images/employee-column.png)
 
 ## Select persons with access to the base
 
 If you **double-click** in a cell of an employee column, a list appears with all users who currently have access to the base. Select one or more of these **people**. You can also use the **search field** to find a specific user.
 
-![Select persons with access to a base in the employee column](https://seatable.io/wp-content/uploads/2023/01/Personen-mit-Zugriff-auf-eine-Base-in-der-Mitarbeiter-Spalte-auswaehlen.png)
+![Select persons with access to a base in the employee column](images/Personen-mit-Zugriff-auf-eine-Base-in-der-Mitarbeiter-Spalte-auswaehlen.png)
 
 {{< warning  headline="Note"  text="If an employee's access to a base is **withdrawn** but they are entered in an employee column, the value remains in the column until you delete it manually. After removal, the employee is no longer available for selection in the list." />}}
 
@@ -32,17 +32,17 @@ Click on the {{< seatable-icon icon="dtable-icon-add\_members" >}} icon to add t
 
 When creating an employee column, you can **activate** the **slider** so that employees receive a [notification](https://seatable.io/en/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) when others enter them in the column and thus assign them to row .
 
-![Enable notifications to employees added to an employee column.](https://seatable.io/wp-content/uploads/2023/01/turn-on-notification-for-collaborateur-1.png)
+![Enable notifications to employees added to an employee column.](images/turn-on-notification-for-collaborateur-1.png)
 
 Employees then receive a corresponding notification in Base, which they can access via the {{< seatable-icon icon="dtable-icon-notice" >}} **bell symbol** in the top right-hand corner.
 
-![Notification when an employee is added](https://seatable.io/wp-content/uploads/2023/01/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
+![Notification when an employee is added](images/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
 
 ## Set default value
 
 You can set one or more employees as the [default value]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) in an employee column. You can choose between the options **Current user** or **Specific users**. Whenever someone adds a new row to the table, either the creator of the row or the selected persons are automatically entered in the employee column.
 
-![Set default values in collaborator columns](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
+![Set default values in collaborator columns](images/Set-default-values-in-collaborator-columns.png)
 
 ## Select employees as recipients of automated notifications
 

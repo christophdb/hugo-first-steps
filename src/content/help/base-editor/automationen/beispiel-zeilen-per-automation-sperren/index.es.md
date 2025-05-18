@@ -10,7 +10,7 @@ url: '/es/ayuda/zeilen-per-automation-sperren'
 
 Con la ayuda de las automatizaciones, ya no tendrá que bloquear manualmente las [filas]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) de sus tablas, sino que podrá hacerlo automáticamente. Esto es muy útil si siempre quiere evitar que una fila se siga editando después de un determinado momento (por ejemplo, cuando finaliza una operación).
 
-![Bloquear una línea con un automatismo](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Bloquear una línea con un automatismo](images/lock-row-with-an-automation.png)
 
 {{< warning  headline="Desbloqueo sólo posible manualmente"  text="**No se pueden** **desbloquear** filas bloqueadas con un automatismo del mismo modo. Esto sólo es posible manualmente y con los **derechos de administrador** necesarios." />}}
 

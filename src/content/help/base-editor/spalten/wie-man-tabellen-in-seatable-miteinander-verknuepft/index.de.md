@@ -22,11 +22,11 @@ SeaTable ermöglicht es Ihnen, Informationen aus unterschiedlichen Tabellen mite
 
 Sobald Tabellen miteinander verknüpft sind, können Sie über den **Link-Dialog** die Informationen der verknüpften Einträge aufrufen. Dazu klicken Sie in einer **Zelle** der Verknüpfungsspalte auf das **Doppelpfeil-Symbol** oder machen einen **Doppelklick**. In dem sich öffnenden Link-Dialog werden die **verknüpften Einträge** aufgelistet. Klicken Sie auf einen Eintrag, um sich in einem zusätzlichen Fenster die **Zeilendetails** anzusehen.
 
-![Zeilendetailansicht bei verknüpften Einträgen](https://seatable.io/wp-content/uploads/2022/10/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
+![Zeilendetailansicht bei verknüpften Einträgen](images/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
 
 ## Bestehende Einträge verlinken
 
-![Bestehende Einträge verlinken](https://seatable.io/wp-content/uploads/2022/10/link-existing-entries.gif)
+![Bestehende Einträge verlinken](images/link-existing-entries.gif)
 
 1. Klicken Sie in eine **Zelle** der **Verknüpfungsspalte** und dann auf das erschienene **Plus-Symbol**.
 2. Nun werden Ihnen die verfügbaren **Zeilen der verknüpften Tabelle** aufgelistet. Wählen Sie die Zeile(n) aus, die Sie mit der Zeile Ihrer aktuellen Tabelle verlinken möchten.

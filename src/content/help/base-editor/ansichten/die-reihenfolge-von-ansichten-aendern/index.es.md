@@ -16,7 +16,7 @@ Puede cambiar a su gusto el **orden** en que se enumeran las vistas de una tabla
 2. Mueve el ratón a la vista que quieras mover.
 3. Mantener la aparición **Símbolo de seis puntos**
 
-    ![Icono de elementos móviles](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Icono de elementos móviles](images/move-icon.png)
     para mover y arrastrar la vista a la posición deseada. A **línea negra** muestra la posición a la que saltará la línea.
 
 4. Suelte el botón del ratón en cuanto la vista esté en la posición deseada.

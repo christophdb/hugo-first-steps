@@ -21,12 +21,12 @@ By default, GMX and WEB.DE accounts can only be used via the webmailers or apps 
 1. Log in to your **GMX e-mail account**.
 2. Call up the **settings** for your account.
 
-![Settings within GMX](https://seatable.io/wp-content/uploads/2023/03/gmx-free-email-smtp-versand-mit-seatable.jpg)
+![Settings within GMX](images/gmx-free-email-smtp-versand-mit-seatable.jpg)
 
 4. Click on **POP3/IMAP retrieval** in the e-mail settings.
 5. Activate **Allow POP3 and IMAP access**.
 
-![Allow SMTP for GMX and WEB.De.](https://seatable.io/wp-content/uploads/2023/03/activate_smtp_for_gmx.png)
+![Allow SMTP for GMX and WEB.De.](images/activate_smtp_for_gmx.png)
 
 7. **Save** your change.
 
@@ -36,7 +36,7 @@ You have now made all the preparations to be able to use this email account in S
 
 Now add your e-mail account as a **third-party provider** in your SeaTable Base. The following steps are necessary for this:
 
-![Third-party integration via the advanced base options](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Third-party integration via the advanced base options](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Open the extended base options by clicking on the **three-dot icon** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Select the option **Integration of third-party providers**.
@@ -53,7 +53,7 @@ Now add your e-mail account as a **third-party provider** in your SeaTable Base.
 The IMAP host and IMAP port fields can remain empty. The SMTP server data for WEB.DE can be found in [the WEB.DE help section.](https://hilfe.web.de/pop-imap/imap/imap-serverdaten.html)
 
 An example configuration for a GMX account looks like this:  
-![SMTP settings from GMX](https://seatable.io/wp-content/uploads/2023/03/smtp-settings-gmx.jpg)
+![SMTP settings from GMX](images/smtp-settings-gmx.jpg)
 
 ## Send emails via automation
 

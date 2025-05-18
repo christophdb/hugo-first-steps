@@ -16,7 +16,7 @@ As colunas fixas aplicam-se sempre a toda a tabela incluindo todas as vistas.
 
 ## Ajustar o número de colunas fixas
 
-![Ajustar o número de colunas fixas](https://seatable.io/wp-content/uploads/2022/10/adjust-the-number-of-frozen-columns.gif)
+![Ajustar o número de colunas fixas](images/adjust-the-number-of-frozen-columns.gif)
 
 1. Mova o rato sobre a **linha divisória** entre as duas primeiras colunas até aparecer um símbolo de mão em vez do ponteiro do rato com a instrução **Ajustar o número de colunas fixas arrastando**.
 2. **Arraste** o **cursor** para o fim da última **coluna** que pretende corrigir.
@@ -30,6 +30,6 @@ Para além da forma acima descrita, existe **outra forma** de fixar colunas. No 
 1. Clique no **símbolo** triangular **suspenso** à direita no cabeçalho da tabela da primeira coluna.
 2. Clique em **Fix Column**.
 
-![Fixação da primeira coluna](https://seatable.io/wp-content/uploads/2022/10/freeze-the-first-column.gif)
+![Fixação da primeira coluna](images/freeze-the-first-column.gif)
 
 {{< warning  headline="Nota importante"  text="Para **desfazer** a fixação da primeira coluna, basta repetir o primeiro passo desta sequência de cliques, mas agora seleccione **Desfixar coluna**. Tenha em atenção que, neste caso, **todas as outras colunas** também não serão **corrigidas**." />}}

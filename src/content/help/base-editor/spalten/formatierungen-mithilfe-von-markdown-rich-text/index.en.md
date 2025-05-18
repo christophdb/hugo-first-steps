@@ -24,7 +24,7 @@ Currently, there are five areas where you can use Markdown syntax in SeaTable. T
 
 As soon as Markdown is used in SeaTable, you will be offered the following input mask. Of course, you can select words or text blocks as usual and then choose the desired formatting.
 
-![Markdown in SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
+![Markdown in SeaTable](images/markdown-seatable.png)
 
 Alternatively, you can trigger Markdown formatting directly by typing certain special characters. Just type in a Markdown input field a {{< key "#" >}} followed by a word. You will see that in Markdown syntax the hash stands for a first heading. So if you know which special character triggers which formatting, you can capture and format your texts much faster.
 
@@ -91,7 +91,7 @@ If a row begins with a {{< key "1." >}}, it is automatically converted into a **
 
 A **Blockquote** is a row, which is linked to {{< key "\>" >}} and then followed by the content of the quotation. Quotations are indicated by an indentation and a frame in the left margin.
 
-![Markdown quote](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
+![Markdown quote](images/markdown-cite.png)
 
 ### Inline code
 
@@ -103,7 +103,7 @@ Text created by a {{< key "FIXME: backtick" >}} pair is surrounded is represente
 
 A **Code block** is determined by three successive **Backticks** {{< key "```" >}} introduced. The special feature of the code block is that the content is displayed as a **Inline code** is displayed with monospace font. Indentations are also retained exactly as they are entered.
 
-![Markdown code block](https://seatable.io/wp-content/uploads/2023/05/markdown-codeblock.png)
+![Markdown code block](images/markdown-codeblock.png)
 
 ### Line breaks
 

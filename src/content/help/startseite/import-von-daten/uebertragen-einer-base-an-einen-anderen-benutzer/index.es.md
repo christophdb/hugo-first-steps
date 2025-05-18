@@ -25,7 +25,7 @@ Si quieres transferir una de tus bases a un **usuario de otro equipo**, _no_ con
 
 [Crea un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) a tu base y envía este enlace al otro usuario. En cuanto el otro usuario haya aceptado la **liberación**, podrá **copiar la** base y transferirla a su propio equipo.
 
-![Transferir base mediante enlace de invitación](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
+![Transferir base mediante enlace de invitación](images/copy-shared-base.png)
 
 {{< warning  headline="Base común o separada"  text="Mientras el receptor siga trabajando en la **base compartida**, los dos usuarios comparten **la misma base**. En cuanto el destinatario **copia la** base, se trata de **dos bases separadas**. El propietario original **no tiene acceso a** la nueva base." />}}
 

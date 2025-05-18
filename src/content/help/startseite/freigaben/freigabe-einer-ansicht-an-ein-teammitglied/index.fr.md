@@ -16,7 +16,7 @@ Si vous accordez à un autre utilisateur des droits de modification sur une vue 
 
 ## Partage d'une vue avec un membre de l'équipe
 
-![Partage d'une vue avec un membre de l'équipe](https://seatable.io/wp-content/uploads/2022/10/sharing-a-view-with-a-team-member-1.gif)
+![Partage d'une vue avec un membre de l'équipe](images/sharing-a-view-with-a-team-member-1.gif)
 
 1. Ouvrez la **vue** d'un tableau que vous souhaitez partager.
 2. Cliquez sur **Partager la vue**, puis sélectionnez **Partager avec les utilisateurs**.
@@ -26,7 +26,7 @@ Si vous accordez à un autre utilisateur des droits de modification sur une vue 
 
 Si vous avez réussi à partager la vue avec un autre utilisateur, elle apparaît sur sa page d'accueil sous l'onglet **Partagé avec moi**:
 
-![Vues partagées sur la page d'accueil](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-11-10-17-01-26.png)
+![Vues partagées sur la page d'accueil](images/Screenshot-from-2022-11-10-17-01-26.png)
 
 Lorsqu'un utilisateur ouvre une vue partagée avec lui, celle-ci peut par exemple se présenter comme suit :
 
@@ -36,7 +36,7 @@ Lorsqu'un utilisateur ouvre une vue partagée avec lui, celle-ci peut par exempl
 
 Si vous ne souhaitez plus partager une vue de tableau avec un autre utilisateur, vous pouvez facilement supprimer le partage :
 
-![Résoudre une vue partagée.](https://seatable.io/wp-content/uploads/2022/10/resolve-a-split-view.gif)
+![Résoudre une vue partagée.](images/resolve-a-split-view.gif)
 
 1. Ouvrir la **vue** d'un tableau que vous avez partagé avec un autre utilisateur.
 2. Cliquez sur **Partager la vue**.
@@ -46,7 +46,7 @@ Si vous ne souhaitez plus partager une vue de tableau avec un autre utilisateur,
 
 Dans une base, il y a en tout deux **icônes de partage** avec lesquelles vous pouvez partager soit une base entière, soit une vue de tableau individuelle. En fonction de leur fonction, ces icônes se trouvent soit dans la zone **Options de la base** (ici en couleur), soit dans la zone **Options de la vue** (ici en blanc) :
 
-![Icônes de partage dans une base](https://seatable.io/wp-content/uploads/2022/10/share-icons-new-1.png)
+![Icônes de partage dans une base](images/share-icons-new-1.png)
 
 ### Partage d'une base
 

@@ -47,5 +47,5 @@ Pode criar um ou mais filtros que restringem ainda mais a primeira condição. L
 
 ## Filtros de rearranjo
 
-É possível mover e reorganizar os filtros movendo o rato sobre o **Superfície de agarrar** ![Ícone para elementos em movimento](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) Premir e manter, puxar e soltar.  
+É possível mover e reorganizar os filtros movendo o rato sobre o **Superfície de agarrar** ![Ícone para elementos em movimento](images/move-icon.png) Premir e manter, puxar e soltar.  
 ![Filtrar Entradas de Ordenação](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)

@@ -34,13 +34,13 @@ As assinaturas digitais são muito adequadas para a recolha de dados através de
 
 Para guardar uma assinatura introduzida no painel, basta clicar em **Guardar**. A assinatura introduzida no painel é então guardada na célula e pode ser chamada em qualquer altura, fazendo duplo clique.
 
-![Assinatura armazenada numa coluna de assinatura ](https://seatable.io/wp-content/uploads/2023/06/stored-signatur-in-cell-1.png)
+![Assinatura armazenada numa coluna de assinatura ](images/stored-signatur-in-cell-1.png)
 
 ## Alterar uma assinatura digital
 
 Se não estiver satisfeito com a sua assinatura e pretender assinar novamente, basta clicar em **Assinar novamente**. Tenha em atenção que toda a assinatura que introduziu será substituída. **Não** é possível alterar partes individuais da sua assinatura.
 
-![Assinar novamente no painel de assinaturas](https://seatable.io/wp-content/uploads/2023/06/resign.jpg)
+![Assinar novamente no painel de assinaturas](images/resign.jpg)
 
 {{< warning  headline="Ficheiro não eliminado"  text="No entanto, a assinatura original permanece disponível como um ficheiro PNG no [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base, caso já a tenha guardado." />}}
 
@@ -48,8 +48,8 @@ Se não estiver satisfeito com a sua assinatura e pretender assinar novamente, b
 
 Cada assinatura armazenada é também guardada na [gestão de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) da sua Base como um ficheiro PNG numa **pasta do sistema**.
 
-![Pasta na gestão de ficheiros da sua Base onde são guardadas as suas assinaturas ](https://seatable.io/wp-content/uploads/2023/06/stored-signatures-in-filemanagement.jpg)
+![Pasta na gestão de ficheiros da sua Base onde são guardadas as suas assinaturas ](images/stored-signatures-in-filemanagement.jpg)
 
 A partir daí, pode **descarregar** e **apagar** as suas assinaturas.
 
-![](https://seatable.io/wp-content/uploads/2023/06/Bild-06.06.23-um-19.18-511x87.jpg)
+![](images/Bild-06.06.23-um-19.18-511x87.jpg)

@@ -12,7 +12,7 @@ Puede encontrar y restaurar tablas, filas y columnas eliminadas en cualquier mom
 
 ## Recuperar Tablas, Filas y Columnas de la Papelera de Reciclaje
 
-![](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-10-27-12-04-15.png)
+![](images/Screenshot-from-2022-10-27-12-04-15.png)
 
 1. Haga clic en **Versiones** en la esquina superior derecha de las opciones de la Base.
 2. Abre la **papelera de reciclaje**.

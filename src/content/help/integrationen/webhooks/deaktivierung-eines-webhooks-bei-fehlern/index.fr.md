@@ -25,7 +25,7 @@ Le code d'état de loin le plus important est 200. Il indique que la demande a �
 
 Lorsque SeaTable envoie un webhook, il attend un retour sous la forme d'un code d'état HTTP. Si SeaTable ne reçoit pas de code d'état ou reçoit un code d'état autre que 200 cinq fois de suite, le webhook passe à l'état _invalide_ et son exécution est interrompue.
 
-![Hoc Web non valide](https://seatable.io/wp-content/uploads/2023/02/invalid-webhook.png)
+![Hoc Web non valide](images/invalid-webhook.png)
 
 {{< warning headline="Davantage d'erreurs autorisées depuis la version 3.5" text="Jusqu'à la version 3.4 de SeaTable incluse, un webhook était désactivé dès le premier code d'erreur HTTP erroné. Avec la version 3.5, SeaTable pardonne quelques erreurs et désactive le webhook au plus tôt après cinq erreurs." />}}
 

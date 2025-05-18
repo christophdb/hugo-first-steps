@@ -18,7 +18,7 @@ Los usuarios de la aplicación pueden ver, buscar, explorar o incluso editar los
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Cambiar la configuración de la página de la galería](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Cambiar la configuración de la página de la galería](images/Einstellungen-der-Galerieseite-aendern.png)
 
 En la **configuración de la página**, puede seleccionar la **tabla** en la que se guardan los registros de datos individuales.
 
@@ -106,7 +106,7 @@ Al igual que en las páginas de tablas y consultas, aquí también puede utiliza
 
 Puede definir las siguientes [autorizaciones de página](https://seatable.io/es/docs/apps/seitenberechtigungen-in-einer-universellen-app/) para las páginas del tipo de registro de datos Único:
 
-![Autorizaciones de páginas de calendario](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Autorizaciones de páginas de calendario](images/Seitenberechtigungen-von-Kalenderseiten.png)
 
 Decida quién está autorizado a **ver** y **editar** los registros de datos individuales. En esta página no se pueden añadir ni eliminar filas de la tabla.
 

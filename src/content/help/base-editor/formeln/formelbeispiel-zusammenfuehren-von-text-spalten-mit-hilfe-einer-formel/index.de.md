@@ -14,29 +14,29 @@ SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihre
 
 Im konkreten Beispiel ist das Ziel, mithilfe einer Formel die Inhalte (Name, Vorname und Titel) der ersten drei Spalten zu einem **vollständigen Namen** zusammenzuführen.
 
-![Beispiel-Tabelle für das Zusammenführen von verschiedenen Inhalten in eine Formel-Spalte](https://seatable.io/wp-content/uploads/2023/01/example-table-zusammenfuehren-von-inhalten-mit-Formel.png)
+![Beispiel-Tabelle für das Zusammenführen von verschiedenen Inhalten in eine Formel-Spalte](images/example-table-zusammenfuehren-von-inhalten-mit-Formel.png)
 
 Hierfür fügen Sie der Tabelle zunächst eine **Formel-Spalte** hinzu, in deren Editor Sie anschließend die Formel einfügen können.
 
-![Hinzufügen einer Formel in das hierfür vorgesehene Textfeld](https://seatable.io/wp-content/uploads/2023/01/insert-formular-example-1.png)
+![Hinzufügen einer Formel in das hierfür vorgesehene Textfeld](images/insert-formular-example-1.png)
 
 Um Inhalte aus verschiedenen Text-Spalten in einer Spalte zusammenzuführen, müssen Sie stets auf die **Namen der Spalten** verweisen, in denen die entsprechenden Inhalte in Ihrer Tabelle zu finden sind. Besonders wichtig ist dabei, dass die Spaltennamen mit **geschweiften Klammern** umrahmt sind, da SeaTable ansonsten **nicht** erkennen kann, welche Inhalte zusammengeführt werden sollen.
 
 {{< warning  type="warning" headline="Tipp"  text="Die **Spaltennamen** in der geöffneten Tabelle werden Ihnen links im **Formeleditor** angezeigt und können mit einem **Doppelklick** in die Formel eingefügt werden." />}}
 
-![Wenn Sie auf Spalten-Namen in Ihren Tabellen verweisen, umrahmen Sie diese stets mit geschweiften Klammern](https://seatable.io/wp-content/uploads/2023/01/verweis-auf-spaltennamen-in-formel-beispiel-2.png)
+![Wenn Sie auf Spalten-Namen in Ihren Tabellen verweisen, umrahmen Sie diese stets mit geschweiften Klammern](images/verweis-auf-spaltennamen-in-formel-beispiel-2.png)
 
 Um die Inhalte der Text-Spalten in einer Formel-Spalte zusammenzuführen, ordnen Sie die Spaltennamen zunächst in der gewünschten **Reihenfolge** in der Formel an und trennen diese jeweils mit einem **&-Symbol**, das Sie im Formeleditor bei den **Operanden** finden.
 
-![Ordnen Sie die verschiedenen Spalten-Namen in gewünschter Reihenfolge in der Formel an und trennen Sie diese mit einem &-Symbol](https://seatable.io/wp-content/uploads/2023/01/insert-symbols.png)
+![Ordnen Sie die verschiedenen Spalten-Namen in gewünschter Reihenfolge in der Formel an und trennen Sie diese mit einem &-Symbol](images/insert-symbols.png)
 
 Damit die verschiedenen Inhalte jeweils durch ein **Leerzeichen** getrennt werden, fügen Sie jeweils **hinter** den ersten beiden Spaltennamen zusätzlich noch ein **&-Symbol** und zwei **Anführungszeichen (oben)** hinzu.
 
-![Hinzufügen eines zusätzlichen &-Symbols und zwei Anführungszeichen hinter die ersten beiden Spalten-Namen](https://seatable.io/wp-content/uploads/2023/01/insert-and-22-22-to-the-formular.png)
+![Hinzufügen eines zusätzlichen &-Symbols und zwei Anführungszeichen hinter die ersten beiden Spalten-Namen](images/insert-and-22-22-to-the-formular.png)
 
 Nach Bestätigung der eingegebenen Formel werden die Inhalte der Text-Spalten automatisch zusammengeführt und das **Ergebnis** erscheint automatisch in der Formel-Spalte.
 
-![Formel-Spalte nach der Bestätigung der eingegebenen Formel.](https://seatable.io/wp-content/uploads/2023/01/table-example-2-after-formular.png)
+![Formel-Spalte nach der Bestätigung der eingegebenen Formel.](images/table-example-2-after-formular.png)
 
 {{< warning  headline="Profi-Tipp" >}}
 

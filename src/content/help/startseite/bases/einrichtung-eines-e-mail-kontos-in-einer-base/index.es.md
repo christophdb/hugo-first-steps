@@ -14,7 +14,7 @@ Este artículo explica los pasos necesarios para añadir una cuenta de correo el
 
 ## Crea una cuenta de correo electrónico en tu Base
 
-![Integración de terceros mediante las opciones avanzadas de la base](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Integración de terceros mediante las opciones avanzadas de la base](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Abra las opciones de la base ampliada haciendo clic en el **icono de tres puntos** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Seleccione la opción **Integración de proveedores externos**.
@@ -36,11 +36,11 @@ Una vez que haya añadido correctamente una cuenta de correo electrónico a su B
 
 Para ello, haga clic en el **símbolo del sobre** situado a la derecha de su cuenta de correo electrónico configurada.
 
-![Una cuenta de correo electrónico configurada en una base SeaTable](https://seatable.io/wp-content/uploads/2023/03/Configured_email_account.png)
+![Una cuenta de correo electrónico configurada en una base SeaTable](images/Configured_email_account.png)
 
 A continuación, defina el **asunto**, el **destinatario** y el **contenido** del correo electrónico de prueba. Por ejemplo, puedes enviarte a ti mismo un correo electrónico a tu propia dirección de correo electrónico.
 
-![Probar la configuración de la cuenta de correo electrónico](https://seatable.io/wp-content/uploads/2023/03/Testing_email_account_configuration.png)
+![Probar la configuración de la cuenta de correo electrónico](images/Testing_email_account_configuration.png)
 
 Si se ha establecido correctamente una conexión con el servidor de correo electrónico, aparecerá un breve mensaje de éxito y debería llegar un mensaje de correo electrónico de la cuenta de correo electrónico configurada al buzón del destinatario especificado.
 

@@ -33,6 +33,6 @@ You can also view the current status of your app at any time in the **editing mo
 
 3. Click the **eye icon** at the top left of the page.
 
-![Opening the app preview of a universal app](https://seatable.io/wp-content/uploads/2023/05/open-app-preview-of-the-universal-app.png)
+![Opening the app preview of a universal app](images/open-app-preview-of-the-universal-app.png)
 
 5. The **app preview** will then open in a new window.

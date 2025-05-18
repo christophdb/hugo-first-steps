@@ -12,7 +12,7 @@ url: '/ru/help/das-loeschen-von-zeilen'
 
 ## Удалить строку
 
-![Удалить строку в SeaTable](https://seatable.io/wp-content/uploads/2022/10/delete-a-row.gif)
+![Удалить строку в SeaTable](images/delete-a-row.gif)
 
 1. **Щелкните правой кнопкой мыши** на строке, чтобы вызвать **выпадающее меню**.
 2. Выберите опцию **Удалить строку**.
@@ -21,7 +21,7 @@ url: '/ru/help/das-loeschen-von-zeilen'
 
 ## Удаление нескольких строк
 
-![Удаление нескольких строк в базе](https://seatable.io/wp-content/uploads/2022/10/delete-multiple-rows.gif)
+![Удаление нескольких строк в базе](images/delete-multiple-rows.gif)
 
 1. Переместите мышь на **колонку нумерации**.
 2. Выберите **строки**, которые вы хотите удалить, отметив **галочками** соответствующие строки.

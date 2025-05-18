@@ -1,11 +1,11 @@
 ---
-title: "Tipps zum Arbeiten mit Formeln"
+title: 'Tipps zum Arbeiten mit Formeln'
 date: 2023-05-03
-lastmod: "2023-09-21"
-categories: 
-  - "formeln"
-author: "nsc2"
-url: "/de/hilfe/tipps-zum-arbeiten-mit-formeln"
+lastmod: '2023-09-21'
+categories:
+    - 'formeln'
+author: 'nsc2'
+url: '/de/hilfe/tipps-zum-arbeiten-mit-formeln'
 ---
 
 Hier finden Sie Hilfestellungen und Tipps, die Ihnen die Arbeit mit Seatable Formeln erleichtern. Eine Liste aller verfügbaren Formeln finden Sie [hier](https://seatable.io/docs/formeln/formelreferenz/).
@@ -18,7 +18,7 @@ Leerzeichen und Zeilenumbrüche können Sie im **Formeleditor** fast beliebig se
 
 ### Anwendungsbeispiel
 
-![Leerzeichen und Zeilenumbrüche können im Formelwizard fast beliebig gesetzt werden. Die einzige Ausnahme stellen lediglich Funktionen dar.](https://seatable.io/wp-content/uploads/2023/01/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
+![Leerzeichen und Zeilenumbrüche können im Formelwizard fast beliebig gesetzt werden. Die einzige Ausnahme stellen lediglich Funktionen dar.](images/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
 
 ## Syntax im Formeleditor nutzen
 
@@ -41,7 +41,7 @@ Werden die genannten Formelelemente in Ihrer Formel **nicht** in der entsprechen
 
 **Zusammengehörige Klammern** werden im Formeleditor **hervorgehoben**, sobald Sie auf eine öffnende oder schließende Klammer klicken. So können Sie einfacher **fehlende** oder **falsche** Klammersetzungen erkennen.
 
-![Auf- und zugehende Klammern werden im Formeleditor stets hervorgehoben](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+![Auf- und zugehende Klammern werden im Formeleditor stets hervorgehoben](images/example-brackets.png)
 
 ## Formeln planen
 
@@ -53,4 +53,4 @@ Ein optimaler Weg eine Formel zu planen könnte beispielsweise so aussehen:
 2. Suchen Sie im Formeleditor nach einer passenden **Funktion** (z. B. dateDif).
 3. Nutzen Sie die **Syntax** der Funktion zur Überprüfung der korrekten Schreibweise, z. B. dateDif(Startdatum, Enddatum, Einheit).
 4. Schreiben Sie die **Formel** in das vorgesehene Textfeld im Formeleditor. Nutzen Sie **Zeilenumbrüche** und **Leerzeichen**, um die Logik Ihrer Formel besser sichtbar zu machen. Treten Unklarheiten auf, kontrollieren Sie die Formel anhand der Syntax.
-**Tipp**: Vor allem zu Beginn kann es hilfreich sein, zunächst lediglich Teile einer Formel zu schreiben und diese dann nach und nach mit weiteren Elementen zu ergänzen.6. Kontrollieren Sie Ihre Formel auf mögliche **Fehlermeldungen**. Falls Ihnen etwaige angezeigt werden, versuchen Sie zunächst diese selbstständig zu beheben. Falls Sie weitere Hilfe benötigen, nutzen Sie gerne unseren Hilfeartikel [Typische Fehler beim Arbeiten mit Formeln](https://seatable.io/docs/formeln/typische-fehler-beim-arbeiten-mit-formeln/).
+   **Tipp**: Vor allem zu Beginn kann es hilfreich sein, zunächst lediglich Teile einer Formel zu schreiben und diese dann nach und nach mit weiteren Elementen zu ergänzen.6. Kontrollieren Sie Ihre Formel auf mögliche **Fehlermeldungen**. Falls Ihnen etwaige angezeigt werden, versuchen Sie zunächst diese selbstständig zu beheben. Falls Sie weitere Hilfe benötigen, nutzen Sie gerne unseren Hilfeartikel [Typische Fehler beim Arbeiten mit Formeln](https://seatable.io/docs/formeln/typische-fehler-beim-arbeiten-mit-formeln/).

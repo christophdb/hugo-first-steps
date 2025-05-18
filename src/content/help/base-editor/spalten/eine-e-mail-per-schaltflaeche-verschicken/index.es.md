@@ -14,29 +14,29 @@ Con la ayuda de un **botón** en sus filas, puede enviar correos electrónicos a
 
 En primer lugar, seleccione la acción **Enviar correo electrónico** al crear el [botón](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/).
 
-![Seleccionar la acción "Enviar correo electrónico](https://seatable.io/wp-content/uploads/2023/01/send-email-action.png)
+![Seleccionar la acción "Enviar correo electrónico](images/send-email-action.png)
 
 En **Nombre de cuenta**, seleccione la cuenta desde la que desea enviar el correo electrónico. Si **no ve una cuenta** en este campo, primero debe [añadir](https://seatable.io/es/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) una [cuenta de correo electrónico a SeaTable](https://seatable.io/es/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
 
-![Si no ve una cuenta de correo electrónico, primero debe añadir una cuenta de correo electrónico a SeaTable](https://seatable.io/wp-content/uploads/2023/01/add-email-account.png)
+![Si no ve una cuenta de correo electrónico, primero debe añadir una cuenta de correo electrónico a SeaTable](images/add-email-account.png)
 
 {{< warning  headline="Nota"  text="Encontrará instrucciones detalladas sobre cómo configurar su **cuenta de correo electrónico para** el envío de mensajes [aquí](https://seatable.io/es/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/). La **cuenta** que haya añadido estará disponible para su selección cuando cree el botón." />}}
 
 Defina ahora el **asunto** y el **contenido** del correo electrónico.
 
-![Establecer el asunto y el contenido del correo electrónico](https://seatable.io/wp-content/uploads/2023/01/subject-and-message.png)
+![Establecer el asunto y el contenido del correo electrónico](images/subject-and-message.png)
 
 Si ha activado el control deslizante **Texto con formato**, al hacer doble clic en el campo de texto se abre el conocido **editor** en el que puede crear textos más largos con formato, listas e imágenes. Una característica especial es que también puede **insertar columnas**.
 
-![Insertar columnas en textos de correo electrónico](https://seatable.io/wp-content/uploads/2023/01/Spalten-in-E-Mail-Texte-einfuegen.png)
+![Insertar columnas en textos de correo electrónico](images/Spalten-in-E-Mail-Texte-einfuegen.png)
 
 Seleccione el **destinatario** o **destinatarios** del correo electrónico. Opcionalmente, también puede seleccionar destinatarios que deban recibir una **copia** del correo electrónico o a los que desee **responder** con el mismo. Puede introducir varios destinatarios separados por comas. Utilice el nombre de una columna entre llaves para citar el contenido de la columna.
 
-![Especifique el destinatario o destinatarios del correo electrónico. Opcionalmente, también puede seleccionar destinatarios que deban recibir una copia del correo electrónico o a los que desee responder con el mismo.](https://seatable.io/wp-content/uploads/2023/01/send-to-copy-to-reply-to.png)
+![Especifique el destinatario o destinatarios del correo electrónico. Opcionalmente, también puede seleccionar destinatarios que deban recibir una copia del correo electrónico o a los que desee responder con el mismo.](images/send-to-copy-to-reply-to.png)
 
 Opcionalmente, puede añadir un **archivo adjunto** al correo electrónico. Tenga en cuenta, sin embargo, que _no puede_ simplemente cargar archivos, sino que primero debe guardarlos en una columna de archivos [de](https://seatable.io/es/docs/datei-und-bildanhaenge/die-datei-spalte/) la tabla. A continuación, en el campo **Archivos adjuntos**, puede seleccionar una o varias **columnas** de archivos desde las que desee adjuntar los archivos al correo electrónico.
 
-![Los archivos que haya añadido a una columna de archivos de su tabla pueden utilizarse como archivos adjuntos en el correo electrónico](https://seatable.io/wp-content/uploads/2023/01/file-001.png)
+![Los archivos que haya añadido a una columna de archivos de su tabla pueden utilizarse como archivos adjuntos en el correo electrónico](images/file-001.png)
 
 ## Ejecución condicional de acciones de varios botones
 

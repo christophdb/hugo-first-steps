@@ -23,8 +23,8 @@ Aquí tiene una lista de los diferentes tipos de correos electrónicos que puede
 2. Desplácese hasta el final de este correo electrónico.
 3. Haga clic en el enlace **para darse de baja**.
 
-![Gestionar la configuración para recibir boletines.](https://seatable.io/wp-content/uploads/2023/03/abbestellen-des-newsletters.png)
+![Gestionar la configuración para recibir boletines.](images/abbestellen-des-newsletters.png)
 
 5. Realice los cambios deseados en la página que se abre y guárdelos.
 
-![Gestionar las notificaciones por correo electrónico](https://seatable.io/wp-content/uploads/2023/03/newsletter-management.png)
+![Gestionar las notificaciones por correo electrónico](images/newsletter-management.png)

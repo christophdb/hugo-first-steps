@@ -20,7 +20,7 @@ The second possible payment method is **payment** by invoice, which is only poss
 2. Click on **Subscription**.
 3. You can view your current payment method under "**Payment method"**.
 
-![You can view your payment method at any time via the Subscription tab in the team administration](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-einsehen.jpg)
+![You can view your payment method at any time via the Subscription tab in the team administration](images/Zahlungsmethode-einsehen.jpg)
 
 ## How can I change my payment method?
 
@@ -29,4 +29,4 @@ The second possible payment method is **payment** by invoice, which is only poss
 3. Click on **"Customize payment method"**.
 4. You can now add a **new credit card** as a payment method. You can find out how and under what conditions you can activate **payment by invoice** in this [article](https://seatable.io/en/docs/abo-abrechnung/bezahlung-per-rechnung/).
 
-![You can change your payment method at any time in the Subscription tab in the team administration](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-aendern.jpg)
+![You can change your payment method at any time in the Subscription tab in the team administration](images/Zahlungsmethode-aendern.jpg)

@@ -18,7 +18,7 @@ En el **editor de fórmulas** puede establecer espacios y saltos de línea casi 
 
 ### Ejemplo de aplicación
 
-![Los espacios y saltos de línea pueden establecerse casi arbitrariamente en el asistente de fórmulas. Las únicas excepciones son las funciones.](https://seatable.io/wp-content/uploads/2023/01/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
+![Los espacios y saltos de línea pueden establecerse casi arbitrariamente en el asistente de fórmulas. Las únicas excepciones son las funciones.](images/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
 
 ## Utilizar la sintaxis en el editor de fórmulas
 
@@ -41,7 +41,7 @@ Si los elementos de fórmula mencionados **no** están marcados en el **color** 
 
 Los **paréntesis que van juntos** se **resaltan en** el editor de fórmulas en cuanto se hace clic en un paréntesis de apertura o de cierre. Esto facilita la detección de sustituciones de paréntesis que **faltan** o **son incorrectas**.
 
-![Los corchetes de apertura y cierre siempre aparecen resaltados en el editor de fórmulas](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+![Los corchetes de apertura y cierre siempre aparecen resaltados en el editor de fórmulas](images/example-brackets.png)
 
 ## Fórmulas del plan
 

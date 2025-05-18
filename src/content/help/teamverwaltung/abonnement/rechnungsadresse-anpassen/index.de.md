@@ -16,7 +16,7 @@ Sie möchten Ihre Rechnungsadresse ändern? Kein Problem, über die Teamverwaltu
 
 {{< warning  headline="Wichtiger Hinweis"  text="Die Rechnungsadresse Ihres Teams kann ausschließlich von den **Team-Admins** geändert werden." />}}2. Öffnen Sie die **Teamverwaltung**. 3. Klicken Sie auf **Abonnement**. 4. Klicken Sie auf **"Rechnungsinformationen anpassen"**. 5. Hinterlegen Sie eine **neue** Rechnungsadresse. 6. Speichern Sie die Änderung mit **Rechnungsempfänger ändern**.
 
-![Änderung der Rechnungsadresse](https://seatable.io/wp-content/uploads/2023/01/Rechnungsadresse-aendern.png)
+![Änderung der Rechnungsadresse](images/Rechnungsadresse-aendern.png)
 
 ## Häufige Fragen zur Rechnungsadresse
 

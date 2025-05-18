@@ -16,7 +16,7 @@ url: '/ru/help/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 
 В то время как SeaTable заполняет колонку **Last Edited** именем пользователя, который последний раз редактировал строку, в колонке **Edited Date** записывается точное время (дата и время), когда произошло последнее редактирование.
 
-![Столбцы "Последний редактор" и "Последний отредактированный" после создания пользователем](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![Столбцы "Последний редактор" и "Последний отредактированный" после создания пользователем](images/last-modifiere-and-last-modified-time.png)
 
 ## Особенности двух типов колонн
 

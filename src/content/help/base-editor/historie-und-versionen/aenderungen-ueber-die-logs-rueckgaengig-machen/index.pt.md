@@ -14,7 +14,7 @@ SeaTable regista todas as actividades dentro de uma base num tronco. Este regist
 
 Abre-se os registos como o caixote do lixo da reciclagem através do ícone das versões no canto superior direito.
 
-![Registos abertos na Base](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Registos abertos na Base](images/Logs-in-der-Base-oeffnen.png)
 
 No painel que abre, encontrará as mais recentes alterações feitas na Base por ordem anticronológica. Cada entrada de registo contém a seguinte informação:
 
@@ -24,7 +24,7 @@ No painel que abre, encontrará as mais recentes alterações feitas na Base por
 - Data da alteração
 - Descrição da alteração
 
-![Alterações nos registos](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Alterações nos registos](images/Aenderungen-in-den-Logs.png)
 
 ## Carregar entradas de registo mais antigas
 

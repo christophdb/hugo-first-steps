@@ -12,7 +12,7 @@ Les tableaux de SeaTable peuvent contenir des milliers d'enregistrements. Pour q
 
 ## Pour trouver ce que vous cherchez dans un tableau
 
-![Trouver une cellule ou une valeur dans un tableau](https://seatable.io/wp-content/uploads/2022/10/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
+![Trouver une cellule ou une valeur dans un tableau](images/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
 
 1. Dans une base, ouvrez n'importe quel **tableau** dans lequel vous recherchez une valeur ou une cellule spécifique.
 2. Cliquez sur la **loupe** en haut à droite sous les options de base.

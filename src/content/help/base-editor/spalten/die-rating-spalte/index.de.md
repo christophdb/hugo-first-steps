@@ -1,36 +1,32 @@
 ---
-title: "Die Rating-Spalte"
+title: 'Die Rating-Spalte'
 date: 2023-01-07
-lastmod: "2023-11-08"
-categories: 
-  - "auswahlspalten"
-author: "nsc2"
-url: "/de/hilfe/die-rating-spalte"
+lastmod: '2023-11-08'
+categories:
+    - 'auswahlspalten'
+author: 'nsc2'
+url: '/de/hilfe/die-rating-spalte'
 ---
 
 Die Rating-Spalte ermöglicht die **Einstufung** Ihrer Datensätze, um ein **Ranking** oder eine **Qualitätsbewertung** vorzunehmen. Beim Erstellen der Spalte können Sie spezifische Einstellungen vornehmen, die das Aussehen und die maximal zulässige Anzahl der **Rating-Symbole** betreffen.
 
-![Beispiel-Tabelle mit einer Rating-Skala](https://seatable.io/wp-content/uploads/2023/01/example-table-rating-skala-1.png)
+![Beispiel-Tabelle mit einer Rating-Skala](images/example-table-rating-skala-1.png)
 
 ## Anlegen der Rating-Spalte
 
 1. Wählen Sie als Spaltentyp **Rating** aus und geben Sie der neuen Spalte einen **Namen**.
 
-![Geben Sie der Rating-Spalte einen Namen.](https://seatable.io/wp-content/uploads/2023/01/benennen.png)
-3. Legen Sie ein **Rating-Symbol** fest.
+![Geben Sie der Rating-Spalte einen Namen.](images/benennen.png) 3. Legen Sie ein **Rating-Symbol** fest.
 
-![Festlegung eines Rating-Symbols](https://seatable.io/wp-content/uploads/2023/01/style.png)
-5. Bestimmen Sie die maximal zulässige **Punktzahl von 1 bis 10**.
+![Festlegung eines Rating-Symbols](images/style.png) 5. Bestimmen Sie die maximal zulässige **Punktzahl von 1 bis 10**.
 
-![Bestimmen Sie die maximal zulässige Bewertung](https://seatable.io/wp-content/uploads/2023/01/maximale-bewertung.png)
-7. Sie können einen **Standardwert** festlegen, der automatisch in jeder neuen Zeile erscheint. Wenn Sie den Regler nicht aktivieren, ist die voreingestellte Punktzahl 0.
+![Bestimmen Sie die maximal zulässige Bewertung](images/maximale-bewertung.png) 7. Sie können einen **Standardwert** festlegen, der automatisch in jeder neuen Zeile erscheint. Wenn Sie den Regler nicht aktivieren, ist die voreingestellte Punktzahl 0.
 
-![Set default value in a rating column](https://seatable.io/wp-content/uploads/2023/01/Set-default-value-in-a-rating-column.png)
-9. Bestätigen Sie mit **Abschicken**.
+![Set default value in a rating column](images/Set-default-value-in-a-rating-column.png) 9. Bestätigen Sie mit **Abschicken**.
 
 ## Bewertung vornehmen und verändern
 
-Wenn Sie auf eine **Zelle** in einer Rating-Spalte **klicken**, wird Ihnen die maximal mögliche Anzahl von Symbolen in blassem Grau angezeigt. Um eine Bewertung auf der Rating-Skala vorzunehmen, klicken Sie einfach auf das Rating-Symbol, das die gewünschte Punktzahl markiert. Um eine bestehende Bewertung anzupassen, gehen Sie identisch vor. ![Eine Bewertung anlegen und verändern](https://seatable.io/wp-content/uploads/2023/01/set-and-change-a-rating.png)
+Wenn Sie auf eine **Zelle** in einer Rating-Spalte **klicken**, wird Ihnen die maximal mögliche Anzahl von Symbolen in blassem Grau angezeigt. Um eine Bewertung auf der Rating-Skala vorzunehmen, klicken Sie einfach auf das Rating-Symbol, das die gewünschte Punktzahl markiert. Um eine bestehende Bewertung anzupassen, gehen Sie identisch vor. ![Eine Bewertung anlegen und verändern](images/set-and-change-a-rating.png)
 
 ## Bewertung löschen
 

@@ -16,7 +16,7 @@ url: '/ru/help/abfrageseiten-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Изменение настроек страницы запроса](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Abfrageseite-aendern.png)
+![Изменение настроек страницы запроса](images/Einstellungen-der-Abfrageseite-aendern.png)
 
 ## Предустановленные фильтры, сортировка и скрытые колонки
 
@@ -50,7 +50,7 @@ url: '/ru/help/abfrageseiten-in-universellen-apps'
 
 Чтобы воспользоваться этой функцией, необходимо **активировать** слайдер в настройках страницы в разделе **Редактируемый результат запроса**.
 
-![Сделайте результат запроса редактируемым](https://seatable.io/wp-content/uploads/2023/12/Abfrageergebnis-bearbeitbar-machen.png)
+![Сделайте результат запроса редактируемым](images/Abfrageergebnis-bearbeitbar-machen.png)
 
 После этого все пользователи, имеющие доступ к странице запроса, могут **редактировать** искомые **записи данных**.
 

@@ -16,7 +16,7 @@ With this page type, you can give free rein to your creativity and build a **cus
 
 If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **cogwheel symbol** in the navigation bar.
 
-![Change the settings of the individual page](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-individuellen-Seite-aendern.png)
+![Change the settings of the individual page](images/Einstellungen-der-individuellen-Seite-aendern.png)
 
 You can use the **page settings** to add various **elements** to your page using drag-and-drop.
 

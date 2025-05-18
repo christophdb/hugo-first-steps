@@ -22,7 +22,7 @@ url: '/ru/help/erzeugen-eines-api-tokens'
 
 API-токены можно удобно создать на главной странице SeaTable.
 
-![Создайте новый базовый токен](https://seatable.io/wp-content/uploads/2023/02/generate-api-token.gif)
+![Создайте новый базовый токен](images/generate-api-token.gif)
 
 1. Наведите курсор мыши на базу, для которой вы хотите создать маркер.
 2. Нажмите на {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}
@@ -36,7 +36,7 @@ API-токены можно удобно создать на главной ст
 
 Как администратор команды, вы можете создавать и редактировать API-токены централизованно в администрации команды для всех баз, к которым у вас есть доступ.
 
-![Генерируйте API-токены через управление командой](https://seatable.io/wp-content/uploads/2023/02/generate-api-token-team-administrator.png)
+![Генерируйте API-токены через управление командой](images/generate-api-token-team-administrator.png)
 
 1. Откройте администрацию команды
 2. Перейдите в раздел [API и интеграции](https://account.seatable.io/api).

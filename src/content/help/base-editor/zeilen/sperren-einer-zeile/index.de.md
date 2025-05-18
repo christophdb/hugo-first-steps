@@ -20,7 +20,7 @@ Um unerwünschte Änderungen an Zeilen zu verhindern, können Sie **Zeilen sperr
 
 Sobald eine Zeile gesperrt ist, erscheint ein kleines **rotes Dreieck in der Nummerierungsspalte**.
 
-![Sperren einer Zeile](https://seatable.io/wp-content/uploads/2022/10/sperren-einer-zeile-1.png)
+![Sperren einer Zeile](images/sperren-einer-zeile-1.png)
 
 ## Zeilen entsperren
 
@@ -36,6 +36,6 @@ Das ist sehr nützlich, wenn Sie viele Zeilen auf einmal sperren möchten oder i
 
 **Alles Weitere dazu erfahren Sie im Artikel** [Zeilen per Automation sperren](https://seatable.io/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
 
-![Mit einer Automation eine Zeile sperren](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Mit einer Automation eine Zeile sperren](images/lock-row-with-an-automation.png)
 
 {{< warning  type="warning" headline="Entsperren nur manuell möglich"  text="Mit einer Automation gesperrte Zeilen können Sie **nicht** auf die gleiche Weise wieder entsperren. Dies ist nur manuell und mit den notwendigen **Administratorrechten** möglich." />}}

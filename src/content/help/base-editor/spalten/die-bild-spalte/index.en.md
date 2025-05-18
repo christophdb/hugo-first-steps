@@ -79,7 +79,7 @@ Then select the desired **image** and click on the **download icon** {{< seatabl
 
 If you want to download **all images in a column**, open the drop-down menu above the column header and select **Download all**.
 
-![Download all images in one column](https://seatable.io/wp-content/uploads/2023/07/Download-all-images.png)
+![Download all images in one column](images/Download-all-images.png)
 
 You can then specify **your own file name** and the **number of files** contained in the export will be displayed.
 

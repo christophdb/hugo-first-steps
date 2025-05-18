@@ -10,13 +10,13 @@ url: '/de/hilfe/anlegen-einer-einfachauswahl-spalte'
 
 Eine Einfachauswahl-Spalte ist ideal, wenn Sie Ihren Zeilen **genau eine Option** aus einer zu definierenden Liste von Optionen zuweisen möchten. Die Optionen erhalten bunte **Labels**, mit denen Sie Ihre Datensätze in **Kategorien** einordnen und Tabellen übersichtlich gestalten können.
 
-![Einfachauswahl-Feld in SeaTable.](https://seatable.io/wp-content/uploads/2022/10/single-select-column.png)
+![Einfachauswahl-Feld in SeaTable.](images/single-select-column.png)
 
 ## Anlegen einer Einfachauswahl-Spalte
 
 Das Anlegen einer Einfachauswahl-Spalte ist kinderleicht und mit wenigen Klicks erledigt. Ausführliche Informationen finden Sie unter [Hinzufügen einer Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
-![Anlegen einer Einfachauswahl-Spalte](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
+![Anlegen einer Einfachauswahl-Spalte](images/define-single-select-column.png)
 
 1. Klicken Sie auf das **\[+\]-Symbol** rechts neben der letzten Spalte einer beliebigen Tabelle.
 2. Geben Sie der neuen Spalte einen **Namen**.
@@ -29,7 +29,7 @@ Neue Optionen können Sie einer Einfachauswahl-Spalte auf mehreren Wegen hinzuf�
 
 Aktuell stehen Ihnen 24 Farben zur Verfügung, um die jeweiligen Optionen visuell hervorzuheben.
 
-![Farben der Einfachauswahl-Spalte](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Farben der Einfachauswahl-Spalte](images/farben-einfachauswahl.png)
 
 Mit einem [Enterprise-Abo](https://seatable.io/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title) haben Sie zudem die Möglichkeit, [eigene Farben](https://seatable.io/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) für Ihre Einfachauswahl-Optionen anzulegen.
 
@@ -43,7 +43,7 @@ Die Sortierung der Optionen funktioniert **nicht alphabetisch**, sondern richtet
 
 Beim Anlegen einer Einfachauswahl-Spalte haben Sie die Möglichkeit, einen voreingestellten **Standardwert** festzulegen. Der Standardwert wird jeder neuen Zeile **automatisch** als Option zugewiesen.
 
-![Standard-Wert bei einer Einfachauswahlspalte](https://seatable.io/wp-content/uploads/2022/10/default-value-single-select.png)
+![Standard-Wert bei einer Einfachauswahlspalte](images/default-value-single-select.png)
 
 ## Einfachauswahl- oder Verknüpfungs-Spalte?
 

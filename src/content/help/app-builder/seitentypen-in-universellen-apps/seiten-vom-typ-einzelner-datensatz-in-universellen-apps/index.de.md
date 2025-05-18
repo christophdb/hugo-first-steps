@@ -18,7 +18,7 @@ Die Nutzer der App können auf dieser Seite – mit der jeweiligen Berechtigung 
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der Galerieseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Einstellungen der Galerieseite ändern](images/Einstellungen-der-Galerieseite-aendern.png)
 
 In den **Seiteneinstellungen** können Sie die **Tabelle** auswählen, in der die einzelnen Datensätze gespeichert sind.
 
@@ -106,7 +106,7 @@ Genau wie auf Tabellen- und Abfrageseiten können Sie auch hier Spalten vom Typ 
 
 Für Seiten vom Typ Einzelner Datensatz können Sie folgende [Seitenberechtigungen](https://seatable.io/docs/apps/seitenberechtigungen-in-einer-universellen-app/) festlegen:
 
-![Seitenberechtigungen von Kalenderseiten](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Seitenberechtigungen von Kalenderseiten](images/Seitenberechtigungen-von-Kalenderseiten.png)
 
 Entscheiden Sie, wer die einzelnen Datensätze **sehen** und **bearbeiten** darf. Über diese Seite können Sie keine Zeilen in der Tabelle hinzufügen oder löschen.
 

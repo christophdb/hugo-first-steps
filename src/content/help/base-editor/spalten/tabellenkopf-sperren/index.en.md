@@ -31,4 +31,4 @@ If you only want to lock **individual columns of** your table for editing, you c
 
 {{< warning  headline="Important note"  text="Do not confuse this function with the **Lock icon in the view options**which you can use to change the settings of a [Lock table view](https://seatable.io/en/docs/ansichtsoptionen/ansicht-sperren/) can." />}}
 
-![Lock icon for locking views in the view options](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Lock icon for locking views in the view options](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)

@@ -1,11 +1,11 @@
 ---
-title: "Filtern von Einträgen in einer Ansicht"
+title: 'Filtern von Einträgen in einer Ansicht'
 date: 2022-11-16
-lastmod: "2025-02-25"
-categories: 
-  - "ansichtsoptionen"
-author: "vge"
-url: "/de/hilfe/filtern-von-eintraegen-in-einer-ansicht"
+lastmod: '2025-02-25'
+categories:
+    - 'ansichtsoptionen'
+author: 'vge'
+url: '/de/hilfe/filtern-von-eintraegen-in-einer-ansicht'
 ---
 
 Mit der Filterfunktion von SeaTable können Sie über **Filterregeln** die gewünschten Einträge aus einer Tabelle herausfiltern und nur die Einträge anzeigen lassen, die bestimmte Kriterien erfüllen. Der eingestellte Filter bezieht sich lediglich auf **die aktive Ansicht**.
@@ -43,4 +43,4 @@ Sie können einen oder mehrere Filter erstellen, welche die erste Bedingung weit
 
 ## Filter neu anordnen
 
-Sie können Filter verschieben und neu anordnen, indem Sie die Maus auf der **Grifffläche** ![Icon zum Verschieben von Elementen](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) gedrückt halten, ziehen und loslassen. ![Filtern von Einträgen sortieren](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)
+Sie können Filter verschieben und neu anordnen, indem Sie die Maus auf der **Grifffläche** ![Icon zum Verschieben von Elementen](images/move-icon.png) gedrückt halten, ziehen und loslassen. ![Filtern von Einträgen sortieren](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)

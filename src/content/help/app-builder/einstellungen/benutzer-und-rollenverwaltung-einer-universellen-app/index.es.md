@@ -25,7 +25,7 @@ Ya sea añadiendo **nuevos usuarios**, asignando **roles** o creando **enlaces d
 
 6. Abra la **administración de usuarios y funciones** en la parte superior izquierda de la página.
 
-![Icono de gestión de usuarios y funciones](https://seatable.io/wp-content/uploads/2023/05/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
+![Icono de gestión de usuarios y funciones](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
 
 8. Realice los **ajustes** deseados.
 

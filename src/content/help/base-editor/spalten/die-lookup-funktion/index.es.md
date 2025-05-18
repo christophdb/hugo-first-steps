@@ -14,11 +14,11 @@ La función de búsqueda permite mostrar valores adicionales de una tabla ya vin
 
 La función de búsqueda debe utilizarse siempre que se quiera cruzar información almacenada en diferentes tablas. Digamos que está utilizando SeaTable para la [gestión de proyectos](https://seatable.io/es/projektmanagement/), donde los proyectos se almacenan en una tabla y las tareas asociadas al proyecto se almacenan en otra tabla. Cada proyecto está vinculado a un conjunto de tareas.
 
-![Vincular las tareas de un proyecto a un proyecto](https://seatable.io/wp-content/uploads/2022/10/linked-tables-seatable.png)
+![Vincular las tareas de un proyecto a un proyecto](images/linked-tables-seatable.png)
 
 Como gestor de proyectos, es posible que desee mostrar información sobre las tareas asociadas a cada proyecto. La fórmula Lookup puede utilizarse para seleccionar una columna de la tabla vinculada y mostrar sus valores. Por ejemplo, puede mostrar automáticamente los miembros del proyecto responsables de cada tarea.
 
-![Columna de búsqueda](https://seatable.io/wp-content/uploads/2022/10/lookup-columns.png)
+![Columna de búsqueda](images/lookup-columns.png)
 
 Esto puede ser útil para acceder fácilmente a la información de tablas cruzadas, establecer automatizaciones, fórmulas, etc. A continuación aprenderás más sobre el uso de la función de búsqueda.
 

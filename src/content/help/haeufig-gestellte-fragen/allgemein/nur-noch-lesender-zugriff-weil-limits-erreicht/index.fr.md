@@ -24,4 +24,4 @@ Veuillez noter que vos **limites** peuvent également être atteintes si vous pa
 
 Par conséquent, **avant** de passer à un forfait inférieur, assurez-vous que vos données **ne** dépassent pas les limites du nouveau forfait. Vous recevrez également un **message** de SeaTable avant de confirmer le changement d'abonnement dans la gestion d'équipe.
 
-![Remarque affichée avant la confirmation du passage à une formule d'abonnement inférieure](https://seatable.io/wp-content/uploads/2023/01/Hinweis-Wechsel-Abo-Paket.png)
+![Remarque affichée avant la confirmation du passage à une formule d'abonnement inférieure](images/Hinweis-Wechsel-Abo-Paket.png)

@@ -1,11 +1,11 @@
 ---
-title: "Einführung in die Arbeit mit Gruppen"
+title: 'Einführung in die Arbeit mit Gruppen'
 date: 2022-10-15
-lastmod: "2023-01-07"
-categories: 
-  - "arbeiten-mit-gruppen"
-author: "cdb"
-url: "/de/hilfe/einfuehrung-in-die-arbeit-mit-gruppen"
+lastmod: '2023-01-07'
+categories:
+    - 'arbeiten-mit-gruppen'
+author: 'cdb'
+url: '/de/hilfe/einfuehrung-in-die-arbeit-mit-gruppen'
 ---
 
 Innerhalb eines Teams hat nicht jedes Teammitglied automatisch Zugriff auf jede Base. Im Gegenteil: Wenn Sie eine neue Base anlegen, haben zunächst nur Sie als Ersteller Zugriff auf diese Base – und es liegt in Ihren Händen, wer gemeinsam an dieser neuen Base arbeiten darf. Für jedes Teammitglied, welches Zugriff auf die Base erhalten soll, muss eine entsprechende Base-Freigabe erstellt werden.
@@ -17,7 +17,7 @@ Jedes Teammitglied kann seine eigenen Gruppen anlegen und andere Teammitglieder 
 - Sie wissen, dass Sie mit mehreren Personen zusammen an vielen verschiedenen Projekten arbeiten werden.
 - Sie möchten, dass mehrere Personen alle Informationen und Bases in Ihrer Gruppe sehen können.
 
-![Arbeiten mit Gruppen in SeaTable](https://seatable.io/wp-content/uploads/2022/10/arbeiten-mit-gruppen.png)
+![Arbeiten mit Gruppen in SeaTable](images/arbeiten-mit-gruppen.png)
 
 Lesen Sie mehr darüber, wie man [eine Gruppe anlegt](https://seatable.io/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
 

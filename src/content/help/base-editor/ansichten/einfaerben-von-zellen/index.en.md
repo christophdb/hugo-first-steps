@@ -19,11 +19,11 @@ In addition to the **Color cells** option, there is also the possibility to [mar
 ## Coloring by rules or by values
 
 Each column offers the option **Format cells of the column** an:  
-![Coloring cells in SeaTable](https://seatable.io/wp-content/uploads/2022/10/color-cells.png)
+![Coloring cells in SeaTable](images/color-cells.png)
 
 SeaTable will behave differently depending on the **column type** for which you call this option. For [number columns](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/), you can use both rules and values for coloring. For all other column types, only the rules for coloring are available.
 
-![Coloring with rules or according to values](https://seatable.io/wp-content/uploads/2022/10/color-cells-rules-values.png)
+![Coloring with rules or according to values](images/color-cells-rules-values.png)
 
 ## To color cells by a rule
 
@@ -40,11 +40,11 @@ SeaTable will behave differently depending on the **column type** for which you 
 
 By a rule you color **all cells** in a column to which a rule **applies**. For example, such a rule could be: "Color all cells with a rating of three or more stars yellow."
 
-![Coloring cells with a rule](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-einer-Regel.png)
+![Coloring cells with a rule](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
 
 You can create **several rules with different colors** per column.
 
-![Coloring cells with multiple rules](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
+![Coloring cells with multiple rules](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
 You can also define **several conditions** per rule, which can apply to all columns in the table. For example, color the [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) with the headline of an article if the **status** is not "finished", the **publication date** is in the future and an **image** is already available.
 

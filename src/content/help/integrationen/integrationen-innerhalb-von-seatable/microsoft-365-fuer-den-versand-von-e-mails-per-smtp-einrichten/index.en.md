@@ -29,7 +29,7 @@ To be able to use your Microsoft 365 account in SeaTable for sending emails, you
 4. Note the **application ID (client)** on the overview page of the currently registered app. This is required to set up the email account in SeaTable.
 5. In the side navigation of the app, click on **Certificates and secrets**to generate the client key. You do this in the **Secret client keys**. Assign a description and a "Valid until" for the key.
 
-    ![Creating a client secret for a registered app in Microsoft Entra](https://seatable.io/wp-content/uploads/2023/04/Creating_Client_Secret_Microsoft_Entra.gif)
+    ![Creating a client secret for a registered app in Microsoft Entra](images/Creating_Client_Secret_Microsoft_Entra.gif)
 
 6. Copy the value of the created key to the clipboard.
 
@@ -39,7 +39,7 @@ With this, you have made all the preparations to be able to use your Microsoft 3
 
 Now you need to add your Microsoft 365 account in your SeaTable Base. To do this, the following steps are necessary:
 
-![Third-party integration via the advanced base options](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Third-party integration via the advanced base options](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Open the extended base options by clicking on the **three-dot icon** {{< seatable-icon icon="dtable-icon-more-level" >}} in the top right-hand corner.
 2. Select the **Third Party Integration** option.
@@ -53,7 +53,7 @@ Now you need to add your Microsoft 365 account in your SeaTable Base. To do this
 6. Confirm the creation of the email account with OAuth2 authentication.
 7. Click "Next" when you are notified that this app has not been verified and allow access to the Microsoft account.
 
-![Screencast accept permissions requested](https://seatable.io/wp-content/uploads/2023/04/Accept-Permissions-Requested-Microsoft.gif)
+![Screencast accept permissions requested](images/Accept-Permissions-Requested-Microsoft.gif)
 
 ## Send emails via automation or button
 

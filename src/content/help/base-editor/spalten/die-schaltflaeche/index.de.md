@@ -14,7 +14,7 @@ Die Schaltflächen-Spalte besitzt eine ähnliche Funktion wie [Automationen](htt
 
 Als Erstes benennen Sie die **Spalte** und legen die **Beschriftung** und **Farbe des Buttons** fest, den Sie Ihren Zeilen hinzufügen möchten.
 
-![Anlegen einer Schaltfläche](https://seatable.io/wp-content/uploads/2023/01/create-button-column.png)
+![Anlegen einer Schaltfläche](images/create-button-column.png)
 
 Im nächsten Schritt legen Sie eine beliebige Anzahl an **Aktionen** fest, die durch Aktivierung der Schaltfläche ausgelöst werden sollen. Dabei haben Sie die Möglichkeit, **mehrere** Aktionen hintereinanderzuschalten.
 
@@ -36,18 +36,18 @@ Sie können insgesamt zwischen **neun** verschiedenen Aktionen wählen:
 
 In diesem Anwendungsbeispiel nutzen wir die Schaltfläche, um bezahlten Rechnungen per Mausklick den Status "paid" zuzuweisen. Hierfür nehmen wir die Aktion **Zeile bearbeiten**.
 
-![Auswahl der Aktion, die durch Aktivierung der Schaltfläche ausgelöst wird](https://seatable.io/wp-content/uploads/2023/01/modify-row.png)
+![Auswahl der Aktion, die durch Aktivierung der Schaltfläche ausgelöst wird](images/modify-row.png)
 
 In den **Spalten-Einstellungen** legen wir fest, dass die Einträge in der Einfachauswahl-Spalte **"status"** durch Aktivierung der Schaltfläche von **"pending"** auf **"paid"** gesetzt werden.
 
-![Definition der Schaltfläche im Anwendungs-Beispiel](https://seatable.io/wp-content/uploads/2023/01/settings-of-the-button-column-in-the-example.png)
+![Definition der Schaltfläche im Anwendungs-Beispiel](images/settings-of-the-button-column-in-the-example.png)
 
 Nach einem Klick auf die Schaltfläche ändert sich der **Status** der ausgewählten Rechnung auf **paid**.
 
-![Ausgelöste Aktion im Anwendungsbeispiel der Schaltfläche](https://seatable.io/wp-content/uploads/2023/01/example-button-column.gif)
+![Ausgelöste Aktion im Anwendungsbeispiel der Schaltfläche](images/example-button-column.gif)
 
 ### Zusätzliche Möglichkeit
 
 Um die Automatisierung von Prozessschritten zu erweitern, können Sie Schaltflächen auch in Kombination mit [Automationen]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}).
 
-![Anwendungs-Beispiel für die Nutzung der Schaltfläche in Kombination mit Automationen](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)
+![Anwendungs-Beispiel für die Nutzung der Schaltfläche in Kombination mit Automationen](images/use-the-button-cplumn-with-automations.gif)

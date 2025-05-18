@@ -32,7 +32,7 @@ Pour toutes les connexions futures, vous devrez saisir le code à six chiffres a
 
 ## Quelle application 2FA recommandons-nous ?
 
-![L'authentification à deux facteurs par app protège votre login de manière fiable.](https://seatable.io/wp-content/uploads/2023/03/2fa-app.png)
+![L'authentification à deux facteurs par app protège votre login de manière fiable.](images/2fa-app.png)
 
 En principe, vous pouvez utiliser n'importe quelle application 2FA, mais nous recommandons volontiers l'application **2FA Authenticator (2FAS)**. Elle est pratique, légère et reconnaît SeaTable.
 

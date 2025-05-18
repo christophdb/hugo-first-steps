@@ -16,7 +16,7 @@ Imaginez que vous souhaitiez activer une case à cocher dans une base sur une se
 
 Chaque fois que tu cliques sur le bouton, la case à cocher de cette ligne est activée et toutes les autres sont désactivées.
 
-![Définir une case à cocher avec JavaScript](https://seatable.io/wp-content/uploads/2023/05/seatable-javascript-set-checkbox.gif)
+![Définir une case à cocher avec JavaScript](images/seatable-javascript-set-checkbox.gif)
 
 ## Le script complet
 

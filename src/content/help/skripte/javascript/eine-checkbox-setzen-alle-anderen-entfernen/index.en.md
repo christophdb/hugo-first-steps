@@ -16,7 +16,7 @@ Imagine that you always want to activate a checkbox in exactly one row in a Base
 
 Each time you click on the button, the checkbox in this row will be activated and all others will be deactivated.
 
-![Set checkbox with JavaScript](https://seatable.io/wp-content/uploads/2023/05/seatable-javascript-set-checkbox.gif)
+![Set checkbox with JavaScript](images/seatable-javascript-set-checkbox.gif)
 
 ## The complete script
 

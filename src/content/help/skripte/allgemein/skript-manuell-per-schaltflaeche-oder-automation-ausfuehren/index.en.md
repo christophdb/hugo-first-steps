@@ -18,7 +18,7 @@ In this article, we will introduce you to these three different possibilities. T
 2. Hover the mouse over the **name of** your script.
 3. Start the script with the **play icon** {{< seatable-icon icon="dtable-icon-implement" >}}.
 
-![To start a script manually](https://seatable.io/wp-content/uploads/2023/03/skript-manuell-starten.png)
+![To start a script manually](images/skript-manuell-starten.png)
 
 {{< warning  headline="No line reference"  text="If you run your script manually, there is **no active row**, so calling _context.current\_row_ will return an empty result." />}}
 
@@ -29,7 +29,7 @@ In this article, we will introduce you to these three different possibilities. T
 3. Use the **Run Script** action.
 4. Select your **script** and save.
 
-![Execute script via button](https://seatable.io/wp-content/uploads/2023/03/run-script-via-button.png)
+![Execute script via button](images/run-script-via-button.png)
 
 From now on, every time you click the button, your script will be executed. Within the script, you can access the values of row by calling _context.current_row_. Of course, you can also access all other rows via the [rows-ID or by using a loop.](https://seatable.io/en/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/)
 
@@ -44,4 +44,4 @@ You can use an automation to run a Python script. JavaScript is not available to
 3. Use the **Run Python Script** automation action.
 4. Select your **script** and save the automation with **Submit**.
 
-![Start script via automation](https://seatable.io/wp-content/uploads/2023/03/skript-per-automation.png)
+![Start script via automation](images/skript-per-automation.png)

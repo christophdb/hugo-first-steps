@@ -14,11 +14,11 @@ La fonction Lookup vous permet d'afficher des valeurs supplémentaires d'une tab
 
 La fonction de recherche devrait être utilisée chaque fois que vous souhaitez faire des références croisées à des informations stockées dans différentes tables. Supposons que vous utilisiez SeaTable pour la [gestion de projets](https://seatable.io/fr/gestion-de-projet/), les projets étant stockés dans une table et les tâches associées au projet dans une autre table. Chaque projet est alors lié à une série de tâches.
 
-![Lien entre les tâches d'un projet](https://seatable.io/wp-content/uploads/2022/10/linked-tables-seatable.png)
+![Lien entre les tâches d'un projet](images/linked-tables-seatable.png)
 
 En tant que chef de projet, vous souhaitez peut-être afficher des informations sur les tâches associées à chaque projet. La formule de recherche peut être utilisée pour sélectionner une colonne dans la table liée et afficher ses valeurs. Vous pouvez par exemple afficher automatiquement les collaborateurs du projet qui sont responsables de chaque tâche.
 
-![Colonne de recherche](https://seatable.io/wp-content/uploads/2022/10/lookup-columns.png)
+![Colonne de recherche](images/lookup-columns.png)
 
 Cela peut être utile pour accéder facilement à des informations inter-tables, pour mettre en place des automatisations, des formules, etc. Vous trouverez ci-dessous plus d'informations sur l'utilisation de la fonction Lookup.
 

@@ -18,7 +18,7 @@ url: '/ru/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Изменение настроек страницы галереи](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Изменение настроек страницы галереи](images/Einstellungen-der-Galerieseite-aendern.png)
 
 В **настройках страницы** можно выбрать **таблицу**, в которой будут сохраняться отдельные записи данных.
 
@@ -106,7 +106,7 @@ url: '/ru/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 
 Вы можете определить следующие [полномочия страниц](https://seatable.io/ru/docs/apps/seitenberechtigungen-in-einer-universellen-app/) для страниц типа Одиночная запись данных:
 
-![Разрешения для страниц календаря](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Разрешения для страниц календаря](images/Seitenberechtigungen-von-Kalenderseiten.png)
 
 Определите, кто имеет право **просматривать** и **редактировать** отдельные записи данных. На этой странице нельзя добавлять или удалять строки в таблице.
 

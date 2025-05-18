@@ -18,11 +18,11 @@ Neben der Option **Zellen einfärben** gibt es auch die Möglichkeit, [Zeilen fa
 
 ## Einfärben durch Regeln oder nach Werten
 
-Jede Spalte bietet die Option **Zellen der Spalte formatieren** an: ![Einfärben von Zellen in SeaTable](https://seatable.io/wp-content/uploads/2022/10/color-cells.png)
+Jede Spalte bietet die Option **Zellen der Spalte formatieren** an: ![Einfärben von Zellen in SeaTable](images/color-cells.png)
 
 Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaTable anders verhalten. Bei [Zahlen-Spalten](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/) können Sie sowohl Regeln als auch Werte zum Einfärben verwenden. Bei allen anderen Spaltentypen stehen Ihnen nur die Regeln zum Einfärben zur Verfügung.
 
-![Einfärben mit Regeln oder nach Werten](https://seatable.io/wp-content/uploads/2022/10/color-cells-rules-values.png)
+![Einfärben mit Regeln oder nach Werten](images/color-cells-rules-values.png)
 
 ## So färben Sie Zellen durch eine Regel ein
 
@@ -39,11 +39,11 @@ Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaT
 
 Durch eine Regel färben Sie **alle Zellen** in einer Spalte ein, auf die eine Regel **zutrifft**. Eine solche Regel könnte z. B. lauten: „Färbe alle Zellen mit einem Rating von drei oder mehr Sternen gelb ein.“
 
-![Einfärben von Zellen mit einer Regel](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-einer-Regel.png)
+![Einfärben von Zellen mit einer Regel](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
 
 Sie können pro Spalte **mehrere Regeln mit unterschiedlichen Farben** anlegen.
 
-![Einfärben von Zellen mit mehreren Regeln](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
+![Einfärben von Zellen mit mehreren Regeln](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
 Darüber hinaus können Sie pro Regel **mehrere Bedingungen** definieren, die sich auf alle Spalten der Tabelle beziehen können. Färben Sie beispielsweise die [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) mit der Headline eines Artikels ein, wenn der **Status** nicht “fertig” ist, das **Veröffentlichungsdatum** in der Zukunft liegt und bereits ein **Bild** vorhanden ist.
 

@@ -43,7 +43,7 @@ Al seleccionar un **icono de aplicación** adecuado, puedes cargar y utilizar tu
 
 Los ajustes mencionados hasta ahora afectan a **toda** una **aplicación universal**. Si desea cambiar la configuración de una **página individual**, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} de la página correspondiente en la navegación.
 
-![Abrir la configuración de la página](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Abrir la configuración de la página](images/page-permissions-universal-app.png)
 
 Actualmente, la [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) en particular ofrece numerosos ajustes de diseño adicionales. Por ejemplo, puede definir distintos colores para los fondos, las fuentes, las líneas y los marcos de los elementos. Utilice para ello el práctico **selector de colores**.
 

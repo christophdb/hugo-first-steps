@@ -14,7 +14,7 @@ La columna de botones tiene una función similar a [las automatizaciones](https:
 
 En primer lugar, asigne un nombre a la **columna** y defina la **etiqueta** y el **color del botón** que desea añadir a las filas.
 
-![Crear un botón](https://seatable.io/wp-content/uploads/2023/01/create-button-column.png)
+![Crear un botón](images/create-button-column.png)
 
 En el paso siguiente, defina el número de **acciones** que se desencadenarán al activar el botón. Tiene la posibilidad de cambiar **varias** acciones sucesivamente.
 
@@ -36,18 +36,18 @@ Puedes elegir entre un total de **nueve** acciones diferentes:
 
 En este ejemplo de aplicación, utilizamos el botón para asignar el estado "pagado" a las facturas pagadas con un clic del ratón. Para ello utilizamos la acción **Editar fila**.
 
-![Selección de la acción que se desencadena al activar el botón](https://seatable.io/wp-content/uploads/2023/01/modify-row.png)
+![Selección de la acción que se desencadena al activar el botón](images/modify-row.png)
 
 En la **configuración de la columna**, especificamos que las entradas de la columna de selección única **"estado** " pasen de **"pendiente"** a **"pagado** " al activar el botón.
 
-![Definición del botón en el ejemplo de aplicación](https://seatable.io/wp-content/uploads/2023/01/settings-of-the-button-column-in-the-example.png)
+![Definición del botón en el ejemplo de aplicación](images/settings-of-the-button-column-in-the-example.png)
 
 Tras hacer clic en el botón, el **estado de** la factura seleccionada cambia a **pagada.**
 
-![Acción desencadenada en el ejemplo de aplicación de botón](https://seatable.io/wp-content/uploads/2023/01/example-button-column.gif)
+![Acción desencadenada en el ejemplo de aplicación de botón](images/example-button-column.gif)
 
 ### Posibilidad adicional
 
 Para ampliar la automatización de los pasos del proceso, también puede utilizar botones en combinación con [automatizaciones]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) las **líneas** con las facturas respectivas que se hayan configurado como pagadas para su procesamiento.
 
-![Ejemplo de aplicación del botón en combinación con automatismos](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)
+![Ejemplo de aplicación del botón en combinación con automatismos](images/use-the-button-cplumn-with-automations.gif)

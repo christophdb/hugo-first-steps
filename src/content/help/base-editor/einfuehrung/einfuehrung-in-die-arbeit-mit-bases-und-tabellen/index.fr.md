@@ -10,7 +10,7 @@ url: '/fr/aide/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 
 Chacune des icônes carrées sur votre page d'accueil représente une **base**. Il s'agit d'une base de données, comparable à un classeur dans un tableur traditionnel, qui peut contenir plusieurs **tableaux** sur différents thèmes.
 
-![Aperçu de la base dans SeaTable](https://seatable.io/wp-content/uploads/2023/01/base-overview.png)
+![Aperçu de la base dans SeaTable](images/base-overview.png)
 
 Une base représente une **unité** fermée dans SeaTable. Elle doit donc contenir toutes les informations dont vous avez besoin pour un projet ou un processus spécifique.
 

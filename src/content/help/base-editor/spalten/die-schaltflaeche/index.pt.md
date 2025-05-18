@@ -14,7 +14,7 @@ A coluna de botões tem uma função semelhante às [automatizações](https://s
 
 Primeiro, nomeie a **coluna** e defina o **rótulo** e a **cor do botão** que pretende adicionar às suas linhas.
 
-![Criar um botão](https://seatable.io/wp-content/uploads/2023/01/create-button-column.png)
+![Criar um botão](images/create-button-column.png)
 
 No passo seguinte, define-se qualquer número de **acções** que devem ser desencadeadas através da activação do botão. Tem a opção de mudar **várias** acções em sucessão.
 
@@ -36,18 +36,18 @@ Pode escolher entre um total de **nove** acções diferentes:
 
 Neste exemplo de aplicação, utilizamos o botão para atribuir o estado "pago" a facturas pagas com um clique do rato. Para isso, utilizamos a ação **Editar linha**.
 
-![Selecção da acção que é desencadeada através da activação do botão](https://seatable.io/wp-content/uploads/2023/01/modify-row.png)
+![Selecção da acção que é desencadeada através da activação do botão](images/modify-row.png)
 
 Nas **definições da coluna**, especificamos que as entradas na coluna de seleção única **"estado** " são definidas de **"pendente"** para **"pago** **"** ao ativar o botão.
 
-![Definição do botão no exemplo de aplicação](https://seatable.io/wp-content/uploads/2023/01/settings-of-the-button-column-in-the-example.png)
+![Definição do botão no exemplo de aplicação](images/settings-of-the-button-column-in-the-example.png)
 
 Depois de clicar no botão, o **estado da** factura seleccionada muda para **paga**.
 
-![Acção desencadeada no exemplo de aplicação de botões](https://seatable.io/wp-content/uploads/2023/01/example-button-column.gif)
+![Acção desencadeada no exemplo de aplicação de botões](images/example-button-column.gif)
 
 ### Possibilidade adicional
 
 Para estender a automatização das etapas do processo, também se pode utilizar botões em combinação com [automatizações]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) as **linhas** com as respectivas facturas que foram definidas para serem pagas para processamento.
 
-![Exemplo de aplicação para utilizar o botão em combinação com as automatizações](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)
+![Exemplo de aplicação para utilizar o botão em combinação com as automatizações](images/use-the-button-cplumn-with-automations.gif)

@@ -16,7 +16,7 @@ url: '/ru/help/kalenderseiten-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Изменение настроек страницы календаря](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-auf-der-Kalenderseite-aendern.png)
+![Изменение настроек страницы календаря](images/Einstellungen-auf-der-Kalenderseite-aendern.png)
 
 В **настройках страницы** можно выбрать **заголовок**, **дату начала** и **цвет** **записей**, отображаемых в календаре, а также **день начала недели** и другие параметры.
 
@@ -26,7 +26,7 @@ url: '/ru/help/kalenderseiten-in-universellen-apps'
 
 Вы можете определить **предустановленные фильтры** и **скрытые столбцы**, чтобы ограничить данные, отображаемые пользователям.
 
-![Добавление фильтра на страницы календаря в универсальных приложениях](https://seatable.io/wp-content/uploads/2023/12/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Добавление фильтра на страницы календаря в универсальных приложениях](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 Для этого нажмите кнопку **Добавить фильтр**, выберите нужный **столбец** и **условие** и подтвердите выбор кнопкой **Отправить**.
 
@@ -58,4 +58,4 @@ url: '/ru/help/kalenderseiten-in-universellen-apps'
 
 В нижней части настроек страницы вы можете ограничить, каким именно пользователям разрешено взаимодействовать со страницей. Укажите, кто имеет право просматривать страницу, добавлять строки или изменять записи.
 
-![Разрешения на страницы календаря](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-auf-Kalenderseiten.png)
+![Разрешения на страницы календаря](images/Seitenberechtigungen-auf-Kalenderseiten.png)

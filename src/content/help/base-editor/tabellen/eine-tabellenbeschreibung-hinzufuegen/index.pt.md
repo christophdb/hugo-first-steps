@@ -17,23 +17,23 @@ Pode fornecer uma descrição a cada tabela da sua base. Pode utilizar este text
 1. Clique no **ícone triangular de lista pendente** junto ao nome de qualquer tabela.
 2. Seleccione a opção **Editar descrição da tabela**.
 
-![Adicionar uma descrição da tabela](https://seatable.io/wp-content/uploads/2023/07/edit-table-description.jpg)
+![Adicionar uma descrição da tabela](images/edit-table-description.jpg)
 
 4. Adicionar uma **descrição** à tabela.
 5. Confirmar com **Submeter**.
 
-![Adicionar descrição da tabela](https://seatable.io/wp-content/uploads/2023/07/insert-table-description.jpg)
+![Adicionar descrição da tabela](images/insert-table-description.jpg)
 
 ## Onde encontrar a descrição do quadro
 
 Pode sempre reconhecer tabelas com uma **descrição de tabela** adicionada através de um **símbolo i** à direita do nome da tabela.
 
-![Tabela com descrição da tabela](https://seatable.io/wp-content/uploads/2023/07/table-with-description.png)
+![Tabela com descrição da tabela](images/table-with-description.png)
 
 É sempre possível visualizar as descrições das tabelas passando o rato sobre o **símbolo i**.
 
-![Descrição do quadro](https://seatable.io/wp-content/uploads/2023/07/table-description.jpg)
+![Descrição do quadro](images/table-description.jpg)
 
 Também pode **editar** a descrição da tabela atual clicando no **símbolo i**.
 
-![Editar uma descrição de tabela atual através do símbolo i](https://seatable.io/wp-content/uploads/2023/07/edit-table-description-i-icon.png)
+![Editar uma descrição de tabela atual através do símbolo i](images/edit-table-description-i-icon.png)

@@ -16,11 +16,11 @@ A fórmula Findmax só funciona com **valores numéricos**, razão pela qual o c
 
 A **função Findmax** deve ser utilizada quando se pretende **cruzar** valores numéricos armazenados em diferentes tabelas. Digamos que utiliza o SeaTable para recolher as **horas de trabalho dos** seus empregados, onde uma mesa armazena os empregados e outra mesa armazena a actividade diária. Pode então ligar cada registo de empregado às horas de trabalho introduzidas.
 
-![fórmula findmax](https://seatable.io/wp-content/uploads/2023/02/findmax-1.png)
+![fórmula findmax](images/findmax-1.png)
 
 Para saber quando um empregado fez o último login, pode usar a **fórmula Findmax** para mostrar o **maior valor** - neste caso a última vez - a partir do total de tempos de login numa coluna.
 
-![A fórmula findmax](https://seatable.io/wp-content/uploads/2023/02/findmax2-1.png)
+![A fórmula findmax](images/findmax2-1.png)
 
 Pode usar a fórmula Findmax com todos os valores numéricos para representar o **valor máximo**.
 
@@ -32,7 +32,7 @@ Ver o artigo [How to Link Tables in SeaTable]({{< relref "help/base-editor/spalt
 
 ### Adicionar uma coluna com fórmula Findmax
 
-![fórmula findmax](https://seatable.io/wp-content/uploads/2023/02/findmax.gif)
+![fórmula findmax](images/findmax.gif)
 
 1. Criar uma nova coluna do tipo **Fórmula para links**.
 2. Defina a opção **Findmax** como a fórmula.

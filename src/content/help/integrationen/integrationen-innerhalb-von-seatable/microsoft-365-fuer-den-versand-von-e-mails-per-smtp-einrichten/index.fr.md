@@ -29,7 +29,7 @@ Pour pouvoir utiliser votre compte Microsoft 365 dans SeaTable pour l'envoi d'e-
 4. Notez l'**ID de l'application (client)** sur la page d'aperçu de l'application que vous venez d'enregistrer. Celui-ci est nécessaire pour la configuration du compte de messagerie dans SeaTable.
 5. Dans la navigation latérale de l'application, cliquez sur **Certificats et secrets**pour générer la clé client. Vous le faites dans l'onglet **Clés client secrètes**. Attribuez à la clé une description et un "Valable jusqu'au".
 
-    ![Création d'un secret client pour une application enregistrée dans Microsoft Entra](https://seatable.io/wp-content/uploads/2023/04/Creating_Client_Secret_Microsoft_Entra.gif)
+    ![Création d'un secret client pour une application enregistrée dans Microsoft Entra](images/Creating_Client_Secret_Microsoft_Entra.gif)
 
 6. Copiez la valeur de la clé créée dans le presse-papiers.
 
@@ -39,7 +39,7 @@ Vous avez ainsi effectué tous les préparatifs nécessaires pour pouvoir utilis
 
 Vous devez maintenant ajouter votre compte Microsoft 365 dans votre base SeaTable. Pour cela, il faut suivre les étapes suivantes :
 
-![Intégration de fournisseurs tiers via les options de base étendues](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Intégration de fournisseurs tiers via les options de base étendues](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Ouvrez les options avancées de la base en cliquant sur l'**icône à trois points** {{< seatable-icon icon="dtable-icon-more-level" >}} dans le coin supérieur droit.
 2. Sélectionnez l'option **Intégration de tiers**.
@@ -53,7 +53,7 @@ Vous devez maintenant ajouter votre compte Microsoft 365 dans votre base SeaTabl
 6. Confirmez la création du compte e-mail avec l'authentification OAuth2.
 7. Cliquez sur "Continuer" lorsqu'il vous est indiqué que cette application n'a pas été vérifiée et autorisez l'accès au compte Microsoft.
 
-![Screencast accept permissions requested](https://seatable.io/wp-content/uploads/2023/04/Accept-Permissions-Requested-Microsoft.gif)
+![Screencast accept permissions requested](images/Accept-Permissions-Requested-Microsoft.gif)
 
 ## Envoyer des e-mails par automatisation ou par bouton
 

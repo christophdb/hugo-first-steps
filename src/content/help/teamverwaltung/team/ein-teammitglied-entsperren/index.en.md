@@ -25,5 +25,5 @@ At this point, the team member can no longer do anything on his own.
 3. Select the blocked **team member**.
 4. Turn off the **Disable user** slider.
 
-![Reactivate deactivated user.](https://seatable.io/wp-content/uploads/2023/02/enable-disabled-user.png)  
+![Reactivate deactivated user.](images/enable-disabled-user.png)  
 As soon as you make the change **Saved at** the team member can log back into the SeaTable Cloud or request a new password.

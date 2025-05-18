@@ -40,7 +40,7 @@ Clicar em **Detalhes** para exibir as alterações correspondentes numa janela s
 
 Pode ver todas as actividades realizadas numa base no chamado **registo de** base, ao qual pode aceder através do cabeçalho da base.
 
-![Registos abertos na Base](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Registos abertos na Base](images/Logs-in-der-Base-oeffnen.png)
 
 Num registo de base, encontrará as alterações mais recentes que foram feitas à base correspondente. Cada entrada de registo contém as seguintes informações:
 
@@ -50,13 +50,13 @@ Num registo de base, encontrará as alterações mais recentes que foram feitas 
 - Data da alteração
 - Descrição da alteração
 
-![Alterações nos registos](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Alterações nos registos](images/Aenderungen-in-den-Logs.png)
 
 Para mais informações sobre o registo de base e **instruções** detalhadas **sobre** como desfazer as alterações acima dele, ver este [artigo de ajuda](https://seatable.io/pt/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
 
 Para aumentar a rastreabilidade das alterações nas linhas da [memória de grandes volumes de dados](https://seatable.io/pt/docs/big-data/potenzial-big-data/), o SeaTable oferece um **registo de grandes volumes de dados** separado. No entanto, este registo só aparece assim que a memória de grandes volumes de dados é activada na base.
 
-![Registo de grandes volumes de dados](https://seatable.io/wp-content/uploads/2023/03/Big-Data-Log.png)
+![Registo de grandes volumes de dados](images/Big-Data-Log.png)
 
 {{< warning  headline="Explicação simples"  text="Se quiser ver não só as mudanças **numa** base, mas também uma visão geral do que está a acontecer em **todas as suas bases**, então veja o registo de **actividades** na página inicial. Se estiver interessado nas alterações a exactamente **um registo**, olhe para o **registo de linha**." />}}
 

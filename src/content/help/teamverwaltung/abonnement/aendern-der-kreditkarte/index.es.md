@@ -14,7 +14,7 @@ url: '/es/ayuda/aendern-der-kreditkarte'
 
 ## Cambiar tarjeta de crédito
 
-![Cambie su tarjeta de crédito fácilmente a través de la gestión del equipo](https://seatable.io/wp-content/uploads/2023/01/Aendern-der-Kreditkarte-1-1.png)
+![Cambie su tarjeta de crédito fácilmente a través de la gestión del equipo](images/Aendern-der-Kreditkarte-1-1.png)
 
 1. Abre la **administración del equipo**.
 2. Haga clic en **Suscripción**.
@@ -23,7 +23,7 @@ url: '/es/ayuda/aendern-der-kreditkarte'
 5. Confirme con **"Depositar nueva tarjeta de crédito"**.
 6. La tarjeta de crédito recién depositada es válida **inmediatamente** y sustituye a la antigua.
 
-![Depositar una nueva tarjeta de crédito ](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+![Depositar una nueva tarjeta de crédito ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
 
 ## Preguntas frecuentes sobre el pago con tarjeta de crédito
 

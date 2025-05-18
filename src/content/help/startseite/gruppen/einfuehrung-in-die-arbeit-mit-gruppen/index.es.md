@@ -17,7 +17,7 @@ Cada miembro del equipo puede crear sus propios grupos e invitar a otros miembro
 - Sabe que va a trabajar con varias personas en muchos proyectos diferentes.
 - Quieres que varias personas puedan ver toda la información y las bases de tu grupo.
 
-![Trabajar con grupos en SeaTable](https://seatable.io/wp-content/uploads/2022/10/arbeiten-mit-gruppen.png)
+![Trabajar con grupos en SeaTable](images/arbeiten-mit-gruppen.png)
 
 Más información sobre cómo [crear un grupo](https://seatable.io/es/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
 

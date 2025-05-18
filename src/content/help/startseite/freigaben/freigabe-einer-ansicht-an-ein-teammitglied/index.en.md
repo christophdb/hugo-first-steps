@@ -16,7 +16,7 @@ If you grant editing rights to a shared view to another user, he is authorized t
 
 ## Sharing a view with a team member
 
-![Sharing a view with a team member](https://seatable.io/wp-content/uploads/2022/10/sharing-a-view-with-a-team-member-1.gif)
+![Sharing a view with a team member](images/sharing-a-view-with-a-team-member-1.gif)
 
 1. Open the **view of** a table you want to share.
 2. Click **Share View**, and then select **Share with User**.
@@ -26,7 +26,7 @@ If you grant editing rights to a shared view to another user, he is authorized t
 
 If you have successfully shared the view with another user, it will appear on their home page under the **Shared with me** tab:
 
-![Split views on the home page](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-11-10-17-01-26.png)
+![Split views on the home page](images/Screenshot-from-2022-11-10-17-01-26.png)
 
 For example, if a user opens a view shared with them, it may look like this:
 
@@ -36,7 +36,7 @@ For example, if a user opens a view shared with them, it may look like this:
 
 If you no longer want to share a table view with another user, you can easily delete the share:
 
-![Resolve a split view.](https://seatable.io/wp-content/uploads/2022/10/resolve-a-split-view.gif)
+![Resolve a split view.](images/resolve-a-split-view.gif)
 
 1. Open the **view of** a table that you have shared with another user.
 2. Click **Share View**.
@@ -46,7 +46,7 @@ If you no longer want to share a table view with another user, you can easily de
 
 In a Base, there are a total of two **sharing icons** that you can use to share either an entire Base or a single table view. According to their function, you will find these icons either in the **Base Options** area (highlighted here) or in the **View Options** area (white here):
 
-![Sharing icons in a base](https://seatable.io/wp-content/uploads/2022/10/share-icons-new-1.png)
+![Sharing icons in a base](images/share-icons-new-1.png)
 
 ### Release of a base
 

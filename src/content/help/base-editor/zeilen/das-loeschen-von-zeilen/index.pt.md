@@ -12,7 +12,7 @@ Neste artigo aprenderá como **eliminar** uma **única linha**, **várias linhas
 
 ## Apagar uma linha
 
-![Eliminar uma fila no SeaTable](https://seatable.io/wp-content/uploads/2022/10/delete-a-row.gif)
+![Eliminar uma fila no SeaTable](images/delete-a-row.gif)
 
 1. **Clique com o botão direito do rato** sobre uma linha para abrir o **menu pendente**.
 2. Seleccionar a opção **Eliminar Fila**.
@@ -21,7 +21,7 @@ Neste artigo aprenderá como **eliminar** uma **única linha**, **várias linhas
 
 ## Apagar várias linhas
 
-![Eliminação de várias linhas numa base](https://seatable.io/wp-content/uploads/2022/10/delete-multiple-rows.gif)
+![Eliminação de várias linhas numa base](images/delete-multiple-rows.gif)
 
 1. Mova o rato para a **coluna de numeração**.
 2. Seleccione as **linhas** que pretende apagar assinalando as **caixas das** respectivas linhas.

@@ -12,7 +12,7 @@ Dans SeaTable, vous n'avez pas à craindre de perdre vos données. Même les tab
 
 ## Récupérer un tableau supprimé
 
-![Restauration de tableaux](https://seatable.io/wp-content/uploads/2022/10/Wiederherstellung-von-Tabellen.png)
+![Restauration de tableaux](images/Wiederherstellung-von-Tabellen.png)
 
 2. Cliquez sur **Versions** en haut à droite dans les options de base.
 3. Ouvrez la **corbeille**.
@@ -33,7 +33,7 @@ Lorsque vous récupérez un tableau dans la corbeille, il est restauré exacteme
 
 {{< warning headline="Les liens vers le tableau supprimé doivent être rétablis séparément" text="L'un des points forts de SeaTable est sa capacité à lier des tableaux entre eux. Si vous supprimez un tableau, toutes les colonnes de liens qui avaient pour cible le tableau supprimé disparaissent. Si vous restaurez le tableau d'origine, les colonnes de liens ne sont pas automatiquement recréées, mais elles peuvent également être restaurées à partir de la corbeille. Aucune information n'est donc perdue." />}}
 
-![Restauration d'une colonne de liens supprimée](https://seatable.io/wp-content/uploads/2022/10/restore-deleted-link-column.png)
+![Restauration d'une colonne de liens supprimée](images/restore-deleted-link-column.png)
 
 ## Autres articles utiles sur la récupération de données
 

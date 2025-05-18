@@ -16,11 +16,11 @@ Die Findmin-Formel funktioniert ausschließlich mit **Zahlenwerten**, weshalb de
 
 Die **Findmin-Funktion** sollte zum Einsatz kommen, wenn Sie **Querverweise** zu numerischen Werten herstellen möchten, die in verschiedenen Tabellen gespeichert sind. Nehmen wir an, Sie verwenden SeaTable zur Sammlung der **Arbeitszeiten** Ihrer Mitarbeiter, wobei in einer Tabelle die Mitarbeiter und in einer anderen Tabelle die tägliche Aktivität gespeichert sind. Jeden Mitarbeiter-Datensatz können Sie dann mit den eingetragenen Arbeitszeiten verknüpfen.
 
-![findmin-Formel](https://seatable.io/wp-content/uploads/2023/02/findmax-1.png)
+![findmin-Formel](images/findmax-1.png)
 
 Um festzustellen, wann sich ein Mitarbeiter das erste Mal eingeloggt hat, können Sie mithilfe der **Findmin-Formel** den **kleinsten Wert** – in diesem Fall den ersten Login – aus den gesamten Login-Zeiten in einer Spalte darstellen.
 
-![findmin-Formel](https://seatable.io/wp-content/uploads/2023/02/findmin.png)
+![findmin-Formel](images/findmin.png)
 
 Die Findmin-Formel können Sie bei allen numerischen Werten zur Darstellung des **Minimalwerts** verwenden.
 
@@ -32,7 +32,7 @@ Informieren Sie sich im Artikel [Wie man Tabellen in SeaTable miteinander verkn�
 
 ### Eine Spalte mit Findmin-Formel hinzufügen
 
-![findmin-Formel](https://seatable.io/wp-content/uploads/2023/02/findmin.gif)
+![findmin-Formel](images/findmin.gif)
 
 1. Erstellen Sie eine neue Spalte des Typs **Formel für Verknüpfungen**.
 2. Legen Sie als Formel die Option **Findmin** fest.

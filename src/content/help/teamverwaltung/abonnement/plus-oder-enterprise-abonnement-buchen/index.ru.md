@@ -21,11 +21,11 @@ url: '/ru/help/plus-oder-enterprise-abonnement-buchen'
 3. Нажмите кнопку **Upgrade now** под нужной подпиской.
 4. Заполните **форму бронирования**.
 
-![Заполните форму бронирования](https://seatable.io/wp-content/uploads/2023/01/book-a-new-subscription.png)
+![Заполните форму бронирования](images/book-a-new-subscription.png)
 
 6. Подтвердите бронирование с помощью программы **Subscribe to SeaTable Plus/Enterprise**.
 
-![Подтвердить бронирование](https://seatable.io/wp-content/uploads/2023/01/subscribe-to-seatable-plus-enterprise.png)
+![Подтвердить бронирование](images/subscribe-to-seatable-plus-enterprise.png)
 
 Бронирование осуществляется напрямую, и новые функции и лимиты сразу же становятся доступны вашей команде.
 

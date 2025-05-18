@@ -43,7 +43,7 @@ Lors de la sélection d'une **icône d'application** appropriée, vous pouvez t�
 
 Les paramètres mentionnés jusqu'ici concernent l'**ensemble** d'une **application universelle**. Si vous souhaitez modifier les paramètres d'une **seule page**, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} de la page correspondante.
 
-![Ouvrir les paramètres de la page](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Ouvrir les paramètres de la page](images/page-permissions-universal-app.png)
 
 Actuellement, c'est surtout la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) qui offre de nombreux autres paramètres de design. Par exemple, vous pouvez définir différentes couleurs pour les arrière-plans, les polices, les lignes et les cadres des éléments. Utilisez pour cela le **Color Picker** pratique.
 

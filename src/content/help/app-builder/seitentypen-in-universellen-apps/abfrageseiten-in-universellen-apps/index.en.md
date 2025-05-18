@@ -16,7 +16,7 @@ Using this page type, which works in a similar way to the [data query app](https
 
 If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **cogwheel symbol** in the navigation bar.
 
-![Change query page settings](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Abfrageseite-aendern.png)
+![Change query page settings](images/Einstellungen-der-Abfrageseite-aendern.png)
 
 ## Preset filters, sorting and hidden columns
 
@@ -50,7 +50,7 @@ You can add an introductory **note** to your query page, which can contain expla
 
 To be able to use this function, you must **activate** the slider in the page settings under **Is the query result editable**.
 
-![Make query result editable](https://seatable.io/wp-content/uploads/2023/12/Abfrageergebnis-bearbeitbar-machen.png)
+![Make query result editable](images/Abfrageergebnis-bearbeitbar-machen.png)
 
 All users with access to the query page can then **edit** the **data records** they are looking for.
 

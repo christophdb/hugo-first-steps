@@ -25,7 +25,7 @@ Whether it is adding **new users**, assigning **roles** or creating **invitation
 
 6. Open the **user and role administration** at the top left of the page.
 
-![Icon for user and role administration](https://seatable.io/wp-content/uploads/2023/05/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
+![Icon for user and role administration](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
 
 8. Make the desired **settings**.
 

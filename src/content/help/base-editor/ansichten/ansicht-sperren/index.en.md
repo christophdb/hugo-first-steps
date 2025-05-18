@@ -20,13 +20,13 @@ Note, however, that locking a view generally has **no** effect on **data editing
 2. Click the **lock in** the view options above the table.
 3. The **lock of** the corresponding view is now **active** and can be unlocked by clicking the **lock** again.
 
-![Lock view](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Lock view](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)
 
 ## Impact
 
 When a user with owner or admin rights locks a view, it freezes the current configuration of the view and prevents **setting changes** by group members without these rights.
 
-![locked view options](https://seatable.io/wp-content/uploads/2022/10/locked-view.png)
+![locked view options](images/locked-view.png)
 
 In the locked view, the following settings can **no** longer be changed:
 

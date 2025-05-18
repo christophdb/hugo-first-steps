@@ -30,7 +30,7 @@ url: '/ru/help/automations-aktionen'
 - Запуск сценария Python
 - Выполнение операции обработки данных
 
-![Выполнить действие автоматизации Операция обработки данных](https://seatable.io/wp-content/uploads/2023/01/updated-automated-actions-e1707744604838.png)
+![Выполнить действие автоматизации Операция обработки данных](images/updated-automated-actions-e1707744604838.png)
 
 ## Действие автоматизации: Отправить уведомление
 

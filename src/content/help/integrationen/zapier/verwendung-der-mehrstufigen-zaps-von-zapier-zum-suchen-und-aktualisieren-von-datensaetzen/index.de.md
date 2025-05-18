@@ -28,13 +28,13 @@ Damit wir die Kontakte von Brevo zu Seatable schicken können, benötigen wir ei
 
 Die Namen der Spalten sind grundsätzlich egal, wichtig ist jedoch, dass wir eine Spalte haben, in der ein Wert gespeichert wird, die den Benutzer eindeutig identifiziert. Bei Brevo ist das die OriginalID, welche sich nicht verändert. Diesen Wert nutzen wir im Zap bei der Suche, um einen Kontakt eindeutig zu identifizieren.
 
-![Erfassung der Kontakte in SeaTable](https://seatable.io/wp-content/uploads/2023/06/sendinblue-5.png)
+![Erfassung der Kontakte in SeaTable](images/sendinblue-5.png)
 
 ### Jede Kontaktanlage oder Kontaktanpassung triggert den Zap
 
 Brevo bietet eine Zapier App mit dem Event _New or Updated Contact in Brevo_. Dieser Trigger ist ideal, weil er sowohl bei neuen Kontakten als auch Änderungen reagiert. Die folgende Grafik zeigt die Rückgabewerte eines testweise angelegten Kunden.
 
-![Brevo ist immer der Trigger](https://seatable.io/wp-content/uploads/2023/06/sendinblue-1.png)
+![Brevo ist immer der Trigger](images/sendinblue-1.png)
 
 ### Die Suche nach dem Kontakt mit Hilfe der OriginalID
 
@@ -42,12 +42,12 @@ Die zweite Aktion des Zaps ist nun das _Find Row_. Mit diesem Event kann man gez
 
 Die zweite Möglichkeit ist, dass ein Eintrag gefunden wird, was bedeutet, dass kein neuer Eintrag angelegt werden muss und wir stattdessen die _ID der Zeile_ des Kontakts in SeaTable erhalten. Mit dieser eindeutigen ID können wir dann im dritten Schritt den existierenden Kontakt aktualisieren.
 
-![Die Suche nach dem Kontakt in SeaTable](https://seatable.io/wp-content/uploads/2023/06/sendinblue-2.png)
+![Die Suche nach dem Kontakt in SeaTable](images/sendinblue-2.png)
 
 ### Aktualisierung des Kontakts
 
 Sollte der Zap im zweiten Schritt einen Eintrag finden, wird im dritten Schritt der bereits existierende Kontakt aktualisiert. Hierzu wird eine Action mit dem Event _Update Row_ verwendet. Durch die eindeutige Zeilen-ID aus Schritt 2 wird festgelegt, welcher Eintrag aktualisiert werden soll, wobei in diesem Beispiel nur der Name und die E-Mailadresse aktualisiert wird.
 
-![Aktualisierung des Kontats](https://seatable.io/wp-content/uploads/2023/06/sendinblue-3.png)
+![Aktualisierung des Kontats](images/sendinblue-3.png)
 
 Selbstverständlich können noch viel mehr Informationen aus Brevo nach SeaTable kopiert werden. Dieses Beispiel diente nur der Verdeutlichung, wie man durch einen Suchschritt die Aktualisierung existierenden Einträge erreichen kann.

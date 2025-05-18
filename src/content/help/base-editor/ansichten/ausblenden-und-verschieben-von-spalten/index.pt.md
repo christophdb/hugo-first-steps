@@ -12,7 +12,7 @@ Quanto mais colunas criar para introduzir dados, mais confusa se torna a sua tab
 
 ## Ocultar colunas
 
-![Ocultar colunas](https://seatable.io/wp-content/uploads/2022/10/hide-coloumns-2.gif)
+![Ocultar colunas](images/hide-coloumns-2.gif)
 
 1. Clique em **Ocultar** nas opções de visualização de qualquer tabela.
 2. Esconder qualquer número de colunas **, clicando nelas**. Utilize o **campo de pesquisa** para restringir a selecção de colunas ou para procurar uma coluna específica que deseja ocultar.
@@ -21,12 +21,12 @@ Quanto mais colunas criar para introduzir dados, mais confusa se torna a sua tab
 
 ## Mover colunas
 
-Mantenha o botão do rato pressionado sobre o **Símbolos de seis pontos** ![Ícone para elementos em movimento](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) em frente dos nomes das colunas e arrastá-las para cima ou para baixo na lista para alterar a ordem das colunas na tabela, conforme desejado.
+Mantenha o botão do rato pressionado sobre o **Símbolos de seis pontos** ![Ícone para elementos em movimento](images/move-icon.png) em frente dos nomes das colunas e arrastá-las para cima ou para baixo na lista para alterar a ordem das colunas na tabela, conforme desejado.
 
-![Mover colunas](https://seatable.io/wp-content/uploads/2022/10/moving-columns.gif)
+![Mover colunas](images/moving-columns.gif)
 
 Além disso, também se pode mover as colunas directamente na **vista de tabela** usando o arrastar e largar. Para o fazer, manter premido o botão do rato sobre o **nome de uma coluna** e mover a coluna para a direita ou esquerda.
 
-![Deslocar colunas da vista da tabela.](https://seatable.io/wp-content/uploads/2022/10/moving-columns-from-the-table-view.gif)
+![Deslocar colunas da vista da tabela.](images/moving-columns-from-the-table-view.gif)
 
 {{< warning  headline="Nota importante"  text="É favor notar que a **primeira coluna de** uma tabela **não pode** ser deslocada. Pode informar-se sobre outras características especiais da primeira coluna no [artigo de síntese](https://seatable.io/pt/docs/spalten/die-besonderheiten-der-ersten-spalte/) correspondente." />}}

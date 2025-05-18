@@ -14,7 +14,7 @@ Notez que cette colonne n'est _pas_ destinée à compter le nombre d'enregistrem
 
 Pour **renuméroter** vos enregistrements (par exemple pour éliminer des lacunes), vous pouvez soit supprimer la colonne _Numéro automatique_ et la recréer, soit modifier le type de colonne, puis la transformer à nouveau en _Numéro automatique_.
 
-![Lignes avec un numéro automatique](https://seatable.io/wp-content/uploads/2023/01/auto-number.gif)
+![Lignes avec un numéro automatique](images/auto-number.gif)
 
 ## Trois formats sont disponibles
 

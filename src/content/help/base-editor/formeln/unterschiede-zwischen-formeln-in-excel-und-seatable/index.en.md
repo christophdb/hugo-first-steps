@@ -29,7 +29,7 @@ cell - like A3 - to check the type of source.
 The formula used below is:  
 **\= IF(A3 = "Online", "Web", "Store")**
 
-![Cell referencing in Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs.-seatable-1.png)
+![Cell referencing in Excel](images/table-excel-vs.-seatable-1.png)
 
 The formula refers to specific _cells_, such as A3.
 
@@ -41,7 +41,7 @@ The formula used for this below is:
 
 **IF({Purchase Type}= "Online", "Web", "Store")**
 
-![Column referencing in SeaTable](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-2.png)
+![Column referencing in SeaTable](images/table-excel-vs-seatable-2.png)
 
 The formula refers to whole _columns_, such as {Purchase Type}.
 
@@ -58,7 +58,7 @@ To refer to a record in another table, you must write specific references to the
 
 Then you need to apply this formula to each cell where you want to run the formula (changing the cell references for each cell where you want to run the formula).
 
-![Reference to other data set in Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-3.png)
+![Reference to other data set in Excel](images/table-excel-vs-seatable-3.png)
 
 ### SeaTable
 

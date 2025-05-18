@@ -17,7 +17,7 @@ Normalmente, unos segundos después aparece un nuevo formulario para confirmar l
 
 Siempre hay problemas con esta recarga de la comprobación 3D Secure. A veces este nuevo formulario no aparece, a veces la pantalla se queda en blanco y a veces se hace clic accidentalmente.
 
-![Pago con 3D Secure](https://seatable.io/wp-content/uploads/2023/05/3d_secure_payment.gif)
+![Pago con 3D Secure](images/3d_secure_payment.gif)
 
 ## ¿Qué se puede hacer?
 

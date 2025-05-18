@@ -14,29 +14,29 @@ Les formules de SeaTable vous offrent différentes possibilités de travailler a
 
 Dans l'exemple concret, l'objectif est de combiner, à l'aide d'une formule, les contenus (nom, prénom et titre) des trois premières colonnes en un **nom complet**.
 
-![Exemple de tableau pour la fusion de différents contenus dans une colonne de formules](https://seatable.io/wp-content/uploads/2023/01/example-table-zusammenfuehren-von-inhalten-mit-Formel.png)
+![Exemple de tableau pour la fusion de différents contenus dans une colonne de formules](images/example-table-zusammenfuehren-von-inhalten-mit-Formel.png)
 
 Pour cela, vous ajoutez d'abord une **colonne de formule** au tableau, dans l'éditeur de laquelle vous pouvez ensuite insérer la formule.
 
-![Ajouter une formule dans la zone de texte prévue à cet effet](https://seatable.io/wp-content/uploads/2023/01/insert-formular-example-1.png)
+![Ajouter une formule dans la zone de texte prévue à cet effet](images/insert-formular-example-1.png)
 
 Pour fusionner des contenus de différentes colonnes de texte dans une seule colonne, vous devez toujours faire référence aux **noms des colonnes** dans lesquelles se trouvent les contenus correspondants dans votre tableau. Il est particulièrement important que les noms des colonnes soient encadrés par des **accolades**, sinon SeaTable ne pourra **pas** identifier les contenus à fusionner.
 
 {{< warning  headline="Conseil"  text="Les **noms de colonne** dans le tableau ouvert sont affichés à gauche dans l'**éditeur de formule** et peuvent être insérés dans la formule par un **double-clic**." />}}
 
-![Lorsque vous faites référence à des noms de colonnes dans vos tableaux, entourez-les toujours d'accolades.](https://seatable.io/wp-content/uploads/2023/01/verweis-auf-spaltennamen-in-formel-beispiel-2.png)
+![Lorsque vous faites référence à des noms de colonnes dans vos tableaux, entourez-les toujours d'accolades.](images/verweis-auf-spaltennamen-in-formel-beispiel-2.png)
 
 Pour réunir les contenus des colonnes de texte dans une colonne de formule, organisez d'abord les noms des colonnes dans l'**ordre** souhaité dans la formule et séparez-les à chaque fois par un **symbole &** que vous trouverez dans l'éditeur de formule près des **opérandes**.
 
-![Organisez les différents noms de colonnes dans l'ordre souhaité dans la formule et séparez-les par le symbole &.](https://seatable.io/wp-content/uploads/2023/01/insert-symbols.png)
+![Organisez les différents noms de colonnes dans l'ordre souhaité dans la formule et séparez-les par le symbole &.](images/insert-symbols.png)
 
 Pour que les différents contenus soient séparés par un **espace**, ajoutez un **symbole &** et deux **guillemets (en haut)** **après** les deux premiers noms de colonne.
 
-![Ajout d'un symbole & supplémentaire et de deux guillemets après les deux premiers noms de colonne](https://seatable.io/wp-content/uploads/2023/01/insert-and-22-22-to-the-formular.png)
+![Ajout d'un symbole & supplémentaire et de deux guillemets après les deux premiers noms de colonne](images/insert-and-22-22-to-the-formular.png)
 
 Après confirmation de la formule saisie, les contenus des colonnes de texte sont automatiquement fusionnés et le **résultat** apparaît automatiquement dans la colonne de formule.
 
-![Colonne de formules après la confirmation de la formule saisie.](https://seatable.io/wp-content/uploads/2023/01/table-example-2-after-formular.png)
+![Colonne de formules après la confirmation de la formule saisie.](images/table-example-2-after-formular.png)
 
 {{< warning  headline="Conseil de pro" >}}
 

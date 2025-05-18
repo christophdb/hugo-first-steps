@@ -18,7 +18,7 @@ url: '/ru/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 2. Наведите курсор мыши на **название** вашего сценария.
 3. Запустите сценарий с помощью **значка воспроизведения** {{< seatable-icon icon="dtable-icon-implement" >}}.
 
-![Чтобы запустить сценарий вручную](https://seatable.io/wp-content/uploads/2023/03/skript-manuell-starten.png)
+![Чтобы запустить сценарий вручную](images/skript-manuell-starten.png)
 
 {{< warning  headline="Нет ссылки на линию"  text="Если вы запустите свой скрипт вручную, **активного ряда не** будет, поэтому вызов _context.current\_row_ вернет пустой результат." />}}
 
@@ -29,7 +29,7 @@ url: '/ru/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 3. Используйте действие **Выполнить сценарий**.
 4. Выберите свой **сценарий** и сохраните.
 
-![Выполнение сценария с помощью кнопки](https://seatable.io/wp-content/uploads/2023/03/run-script-via-button.png)
+![Выполнение сценария с помощью кнопки](images/run-script-via-button.png)
 
 С этого момента каждый раз, когда вы нажимаете на кнопку, будет выполняться ваш сценарий. Внутри сценария вы можете получить доступ к значениям ряда, вызвав _context.current_row_. Конечно, вы также можете получить доступ ко всем другим строкам через [идентификатор](https://seatable.io/ru/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) строки или с помощью цикла.
 
@@ -44,4 +44,4 @@ url: '/ru/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 3. Используйте действие автоматизации **Run Python Script**.
 4. Выберите свой **сценарий** и сохраните автоматизацию с помощью кнопки **Submit**.
 
-![Запуск сценария с помощью автоматизации](https://seatable.io/wp-content/uploads/2023/03/skript-per-automation.png)
+![Запуск сценария с помощью автоматизации](images/skript-per-automation.png)

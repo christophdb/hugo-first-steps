@@ -22,7 +22,7 @@ Pode utilizar este tipo de página para criar diferentes **formulários** que os
 
 Se pretender alterar as definições de uma página, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondente na barra de navegação.
 
-![Alterar as definições da página do formulário](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Formularseite-aendern.png)
+![Alterar as definições da página do formulário](images/Einstellungen-der-Formularseite-aendern.png)
 
 ## Criar formulários
 
@@ -44,7 +44,7 @@ Se pretender alterar a **ordem** dos campos no formulário, pode agarrar e mover
 
 Mais abaixo, pode definir uma **cor para os textos de ajuda** e uma **mensagem** que é apresentada aos utilizadores depois de submeterem o formulário.
 
-![Outras definições nas páginas de formulários](https://seatable.io/wp-content/uploads/2023/12/Weitere-Einstellungen-auf-Formularseiten.png)
+![Outras definições nas páginas de formulários](images/Weitere-Einstellungen-auf-Formularseiten.png)
 
 Também é possível impedir que formulários com registos de dados existentes sejam submetidos, **impedindo a adição de duplicados**. Para tal, active o cursor correspondente e seleccione as colunas cujos valores devem coincidir para que um formulário seja considerado duplicado. Se um utilizador introduzir dados idênticos, a submissão do formulário é bloqueada.
 

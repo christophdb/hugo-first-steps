@@ -28,13 +28,13 @@ Pour pouvoir envoyer les contacts de Brevo à Seatable, nous avons besoin d'une 
 
 Les noms des colonnes n'ont en principe pas d'importance, mais ce qui est important, c'est que nous ayons une colonne dans laquelle est enregistrée une valeur qui identifie clairement l'utilisateur. Chez Brevo, il s'agit de l'ID originale, qui ne change pas. Nous utilisons cette valeur dans le Zap lors de la recherche pour identifier clairement un contact.
 
-![Saisie des contacts dans SeaTable](https://seatable.io/wp-content/uploads/2023/06/sendinblue-5.png)
+![Saisie des contacts dans SeaTable](images/sendinblue-5.png)
 
 ### Chaque création ou adaptation de contact déclenche le zap
 
 Brevo propose une application Zapier avec l'événement _New or Updated Contact dans Brevo_. Ce déclencheur est idéal, car il réagit aussi bien aux nouveaux contacts qu'aux modifications. Le graphique suivant montre les valeurs de retour d'un client créé à titre de test.
 
-![Brevo est toujours le déclencheur](https://seatable.io/wp-content/uploads/2023/06/sendinblue-1.png)
+![Brevo est toujours le déclencheur](images/sendinblue-1.png)
 
 ### La recherche du contact à l'aide de l'ID originale
 
@@ -42,12 +42,12 @@ La deuxième action du zap est maintenant le _Find Row_. Cet événement permet 
 
 La deuxième possibilité est qu'une entrée soit trouvée, ce qui signifie qu'il n'est pas nécessaire de créer une nouvelle entrée et que nous obtenons à la place l'_ID de la ligne_ du contact dans SeaTable. Nous pouvons alors utiliser cet ID unique pour mettre à jour le contact existant dans la troisième étape.
 
-![La recherche d'un contact dans SeaTable](https://seatable.io/wp-content/uploads/2023/06/sendinblue-2.png)
+![La recherche d'un contact dans SeaTable](images/sendinblue-2.png)
 
 ### Mise à jour du contact
 
 Si le Zap trouve une entrée à la deuxième étape, le contact déjà existant sera mis à jour à la troisième étape. Une action avec l'événement _Update Row_ est utilisée à cet effet. L'ID de ligne unique de l'étape 2 permet de déterminer quelle entrée doit être mise à jour, sachant que dans cet exemple, seuls le nom et l'adresse e-mail sont mis à jour.
 
-![Mise à jour du compte](https://seatable.io/wp-content/uploads/2023/06/sendinblue-3.png)
+![Mise à jour du compte](images/sendinblue-3.png)
 
 Il est bien sûr possible de copier beaucoup plus d'informations de Brevo vers SeaTable. Cet exemple n'avait pour but que d'illustrer la manière dont on peut atteindre les entrées existantes mises à jour par une étape de recherche.

@@ -79,7 +79,7 @@ Em seguida, seleccione a **imagem** pretendida e clique no **ícone de transfer�
 
 Se pretender transferir **todas as imagens de uma coluna**, abra o menu pendente acima do cabeçalho da coluna e seleccione **Transferir tudo**.
 
-![Descarregar todas as imagens numa coluna](https://seatable.io/wp-content/uploads/2023/07/Download-all-images.png)
+![Descarregar todas as imagens numa coluna](images/Download-all-images.png)
 
 Pode então especificar **o seu próprio nome de ficheiro** e será apresentado o **número de ficheiros** contidos na exportação.
 

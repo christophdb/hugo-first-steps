@@ -1,11 +1,11 @@
 ---
-title: "Wo finde ich meine Rechnungen?"
+title: 'Wo finde ich meine Rechnungen?'
 date: 2023-01-13
-lastmod: "2023-01-28"
-categories: 
-  - "abo-abrechnung"
-author: "nsc2"
-url: "/de/hilfe/wo-finde-ich-meine-rechnungen"
+lastmod: '2023-01-28'
+categories:
+    - 'abo-abrechnung'
+author: 'nsc2'
+url: '/de/hilfe/wo-finde-ich-meine-rechnungen'
 ---
 
 Ihre Rechnungen können Sie mit nur wenigen Klicks über die Teamverwaltung einsehen und herunterladen. Sie finden diese im Reiter Abonnement.
@@ -22,7 +22,7 @@ Alternativ können Sie auch einfach diesen Link benutzen:
 3. Klicken Sie auf **Rechnungen**.
 4. Sie können sich nun alle verfügbaren Rechnungen anzeigen lassen und diese auch nach **Bezahlstatus**, **Betrag** oder **Rechnungs-Nr.** sortieren.
 
-![Ihre Rechnungen in der SeaTable Teamverwaltung.](https://seatable.io/wp-content/uploads/2023/01/seatable-rechnungen-teamverwaltung.png)
+![Ihre Rechnungen in der SeaTable Teamverwaltung.](images/seatable-rechnungen-teamverwaltung.png)
 
 ## Download der Rechnung als PDF
 

@@ -14,11 +14,11 @@ The Lookup function allows you to display additional values from an already link
 
 The Lookup function should be used whenever you want to cross-reference information stored in different tables. Let's say you are using SeaTable for [project management](https://seatable.io/en/projektmanagement/), where the projects are stored in one table and the tasks associated with the project are stored in another table. Each project is then linked to a set of tasks.
 
-![Linking project tasks to a project](https://seatable.io/wp-content/uploads/2022/10/linked-tables-seatable.png)
+![Linking project tasks to a project](images/linked-tables-seatable.png)
 
 As a project manager, you may want to view information about the tasks associated with each project. The Lookup formula can be used to select a column in the linked table and display its values. For example, you can automatically display the project team members who are responsible for each task.
 
-![Lookup Column](https://seatable.io/wp-content/uploads/2022/10/lookup-columns.png)
+![Lookup Column](images/lookup-columns.png)
 
 This can be useful for easy access to cross-table information, setting up automations, formulas, etc. Below you will learn more about using the Lookup function.
 

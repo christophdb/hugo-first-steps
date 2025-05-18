@@ -10,7 +10,7 @@ url: '/help/zeilen-per-automation-sperren'
 
 With the help of automations, you no longer have to manually lock rows in your tables, but can have [rows perform the]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) automatically. This is very useful if you always want to prevent a row from being processed further from a certain point in time (e.g. when a process has been completed).
 
-![Lock a row with an automation](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Lock a row with an automation](images/lock-row-with-an-automation.png)
 
 {{< warning  headline="Unlocking only possible manually"  text="You **cannot** **unlock** rows locked with an automation in the same way. This is only possible manually and with the necessary **administrator rights**." />}}
 

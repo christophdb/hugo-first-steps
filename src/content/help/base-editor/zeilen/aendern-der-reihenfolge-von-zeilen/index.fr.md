@@ -12,7 +12,7 @@ Vous pouvez modifier l'ordre des lignes **par glisser-déposer**. Si vous réorg
 
 ## Pour modifier l'ordre des lignes
 
-![Modifier l'ordre des lignes](https://seatable.io/wp-content/uploads/2022/10/Aendern-der-Reihenfolge-von-Zeilen-3.gif)
+![Modifier l'ordre des lignes](images/Aendern-der-Reihenfolge-von-Zeilen-3.gif)
 
 1. Cliquez dans le **champ de numérotation** de la ligne que vous souhaitez déplacer et maintenez le bouton de la souris **enfoncé**.
 2. Faites glisser la ligne jusqu'à la position souhaitée. Un **trait noir** vous indique où la ligne va sauter.
@@ -22,6 +22,6 @@ Vous pouvez modifier l'ordre des lignes **par glisser-déposer**. Si vous réorg
 
 Vous pouvez également déplacer **plusieurs lignes** en même temps. Pour ce faire, sélectionnez d'abord les lignes. L'article [Sélectionner plusieurs lignes]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) explique comment procéder. Vous déplacez ensuite les lignes de la même manière qu'une seule ligne.
 
-![Déplacer des lignes en même temps](https://seatable.io/wp-content/uploads/2022/10/Zeilen-gleichzeitig-verschieben-1.gif)
+![Déplacer des lignes en même temps](images/Zeilen-gleichzeitig-verschieben-1.gif)
 
 {{< warning  headline="Attention"  text="Si un [tri](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) (croissant/décroissant) agit dans une colonne, vous pouvez certes déplacer les entrées, mais l'ordre sera immédiatement corrigé." />}}

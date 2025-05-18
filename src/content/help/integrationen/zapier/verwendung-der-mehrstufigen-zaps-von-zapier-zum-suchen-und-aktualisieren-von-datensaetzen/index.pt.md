@@ -28,13 +28,13 @@ Para enviar os contactos de Brevo para Seatable, precisamos de uma base adequada
 
 Os nomes das colunas são basicamente irrelevantes, mas é importante que tenhamos uma coluna na qual seja armazenado um valor que identifique exclusivamente o utilizador. No Brevo, este é o ID original, que não é alterado. Utilizamos este valor no Zap durante a pesquisa para identificar um contacto de forma única.
 
-![Registo de contactos no SeaTable](https://seatable.io/wp-content/uploads/2023/06/sendinblue-5.png)
+![Registo de contactos no SeaTable](images/sendinblue-5.png)
 
 ### Cada instalação de contacto ou ajuste de contacto acciona o Zap
 
 O Brevo oferece uma aplicação Zapier com o evento _Contacto novo ou atualizado no Brevo_. Este gatilho é ideal porque reage tanto a novos contactos como a alterações. O gráfico seguinte mostra os valores de retorno de um cliente criado numa base de teste.
 
-![O Brevo é sempre o gatilho](https://seatable.io/wp-content/uploads/2023/06/sendinblue-1.png)
+![O Brevo é sempre o gatilho](images/sendinblue-1.png)
 
 ### Procurar o contacto utilizando o OriginalID
 
@@ -42,12 +42,12 @@ A segunda ação do Zap é o _Find Row_. Com este evento, pode procurar especifi
 
 A segunda possibilidade é que seja encontrada uma entrada, o que significa que não é necessário criar uma nova entrada e, em vez disso, obtemos o _ID da linha do_ contacto no SeaTable. Com este ID único, podemos então atualizar o contacto existente no terceiro passo.
 
-![A procura do contacto no SeaTable](https://seatable.io/wp-content/uploads/2023/06/sendinblue-2.png)
+![A procura do contacto no SeaTable](images/sendinblue-2.png)
 
 ### Atualização dos contactos
 
 Se o Zap encontrar uma entrada no segundo passo, o contacto existente é atualizado no terceiro passo. Para tal, é utilizada uma ação com o evento _Update Row (Atualizar linha_ ). O ID de linha único do passo 2 determina que entrada deve ser actualizada, pelo que, neste exemplo, apenas o nome e o endereço de correio eletrónico são actualizados.
 
-![Atualizar a conta](https://seatable.io/wp-content/uploads/2023/06/sendinblue-3.png)
+![Atualizar a conta](images/sendinblue-3.png)
 
 É claro que muito mais informações podem ser copiadas do Brevo para o SeaTable. Este exemplo serviu apenas para ilustrar como se pode chegar à atualização de entradas existentes através de um passo de pesquisa.

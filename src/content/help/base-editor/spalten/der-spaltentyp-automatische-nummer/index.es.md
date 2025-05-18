@@ -14,7 +14,7 @@ Tenga en cuenta que esta columna _no_ sirve para contar el número de registros 
 
 Para **volver a numerar** los registros (por ejemplo, para eliminar huecos), puede eliminar la columna Número _automático_ y volver a crearla, o cambiar el tipo de columna y convertirla de nuevo en _Número automático_.
 
-![Líneas con número automático](https://seatable.io/wp-content/uploads/2023/01/auto-number.gif)
+![Líneas con número automático](images/auto-number.gif)
 
 ## Hay tres formatos disponibles
 

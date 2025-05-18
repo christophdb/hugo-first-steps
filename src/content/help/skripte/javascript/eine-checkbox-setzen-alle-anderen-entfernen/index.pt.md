@@ -16,7 +16,7 @@ Imagine que pretende ativar sempre uma caixa de verificação em exatamente uma 
 
 Com cada clique no botão, a caixa de verificação nesta linha é activada e todas as outras são desactivadas.
 
-![Definir caixa de verificação com JavaScript](https://seatable.io/wp-content/uploads/2023/05/seatable-javascript-set-checkbox.gif)
+![Definir caixa de verificação com JavaScript](images/seatable-javascript-set-checkbox.gif)
 
 ## O guião completo
 

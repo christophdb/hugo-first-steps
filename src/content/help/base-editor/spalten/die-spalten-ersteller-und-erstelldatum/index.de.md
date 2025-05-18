@@ -1,16 +1,16 @@
 ---
-title: "Die Spalten Ersteller und Erstelldatum"
+title: 'Die Spalten Ersteller und Erstelldatum'
 date: 2023-01-20
-lastmod: "2023-08-04"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/de/hilfe/die-spalten-ersteller-und-erstelldatum"
+lastmod: '2023-08-04'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/de/hilfe/die-spalten-ersteller-und-erstelldatum'
 ---
 
 Die Spalten **Ersteller** und **Erstelldatum** werden von SeaTable ausschließlich **automatisch** gefüllt und stellen daher besondere Spaltentypen dar. Während SeaTable die Ersteller-Spalte mit dem **Namen des Benutzers** füllt, der eine Zeile angelegt hat, wird in der Erstelldatum-Spalte der **Zeitpunkt** (Datum und Uhrzeit) festgehalten, wann der Benutzer die Zeile angelegt hat.
 
-![DIe Spalten "Ersteller und Erstellt" nach dem Anlegen eines Benutzers](https://seatable.io/wp-content/uploads/2023/01/column-creator-and-created-time.png)
+![DIe Spalten "Ersteller und Erstellt" nach dem Anlegen eines Benutzers](images/column-creator-and-created-time.png)
 
 ## Besonderheiten der beiden Spaltentypen
 

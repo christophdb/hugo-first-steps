@@ -12,7 +12,7 @@ In this article you will learn how to**delete** a **single row**, **multiple row
 
 ## Delete a row
 
-![Delete a row in SeaTable](https://seatable.io/wp-content/uploads/2022/10/delete-a-row.gif)
+![Delete a row in SeaTable](images/delete-a-row.gif)
 
 1. **Right-click** on a row to access the **drop-down menu**.
 2. Select the **Deleterow** option.
@@ -21,7 +21,7 @@ In this article you will learn how to**delete** a **single row**, **multiple row
 
 ## Delete multiple rows
 
-![Delete multiple rows in one base](https://seatable.io/wp-content/uploads/2022/10/delete-multiple-rows.gif)
+![Delete multiple rows in one base](images/delete-multiple-rows.gif)
 
 1. Move the mouse to the **numbering column**.
 2. Select the **rows** you want to delete by clicking the **boxes of** the respective rows .

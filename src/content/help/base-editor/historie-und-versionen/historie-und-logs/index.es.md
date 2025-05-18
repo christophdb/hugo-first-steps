@@ -40,7 +40,7 @@ Haga clic en **Detalles** para visualizar los cambios correspondientes en una ve
 
 Puede consultar todas las actividades realizadas en una base en el denominado **registro de** la base, al que puede acceder a través de la cabecera de la base.
 
-![Abrir registros en Base](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Abrir registros en Base](images/Logs-in-der-Base-oeffnen.png)
 
 En el registro de una base, encontrará los cambios más recientes que se han realizado en la base correspondiente. Cada entrada de registro contiene la siguiente información:
 
@@ -50,13 +50,13 @@ En el registro de una base, encontrará los cambios más recientes que se han re
 - Fecha del cambio
 - Descripción del cambio
 
-![Cambios en los registros](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Cambios en los registros](images/Aenderungen-in-den-Logs.png)
 
 Para más información sobre el registro base e **instrucciones** detalladas sobre cómo deshacer cambios sobre él, consulte este [artículo de ayuda](https://seatable.io/es/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
 
 Para aumentar la trazabilidad de los cambios en las filas de la [memoria de big data](https://seatable.io/es/docs/big-data/potenzial-big-data/), SeaTable ofrece un **registro de big data** independiente. Sin embargo, este registro solo aparece en cuanto se activa la memoria de big data en la base.
 
-![Registro de Big Data](https://seatable.io/wp-content/uploads/2023/03/Big-Data-Log.png)
+![Registro de Big Data](images/Big-Data-Log.png)
 
 {{< warning  headline="Explicado de forma sencilla"  text="Si quieres ver no sólo los cambios en **una** base, sino también una visión general de lo que está pasando en **todas tus bases**, entonces mira el registro de **actividad** en la página de inicio. Si te interesan los cambios en un **registro** exactamente, mira el registro **de filas**." />}}
 

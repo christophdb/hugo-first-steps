@@ -22,7 +22,7 @@ Com a ajuda da função de processamento de dados, pode realizar várias operaç
 
 5. Definir a **tabela**, a **vista**, a **coluna de origem** e **a coluna de resultados**. Também é possível selecionar a **ordem** em que os valores devem ser listados. Especifique se o maior ou o menor valor deve ser listado primeiro.
 
-![Definição da ação de processamento de dados Calcular a lista de classificação](https://seatable.io/wp-content/uploads/2023/03/Definition-der-Datenverarbeitungsaktion-Rangliste-berechnen.png)
+![Definição da ação de processamento de dados Calcular a lista de classificação](images/Definition-der-Datenverarbeitungsaktion-Rangliste-berechnen.png)
 
 7. Clique em **Guardar para** guardar a acção e executá-la mais tarde, ou em **Executar** para executar a acção directamente.
 
@@ -43,7 +43,7 @@ Em seguida, adicionar uma **segunda coluna de números** à tabela, na qual as c
 
 Para criar a operação de processamento de dados, seguir os passos descritos acima. Em seguida, defina a **tabela** e a **vista** actualmente abertas. Seleccionar também a coluna _Visitantes Únicos_ como coluna de **origem** e a coluna de _visitantes_ recém-adicionada como coluna de **resultados**.
 
-![Exemplo de processamento de dados Calcular a lista de classificação](https://seatable.io/wp-content/uploads/2023/03/Datenverarbeitung-Rangliste-berechnen.png)
+![Exemplo de processamento de dados Calcular a lista de classificação](images/Datenverarbeitung-Rangliste-berechnen.png)
 
 Cada vez que a operação de processamento de dados é executada, as **classificações calculadas** são escritas na coluna de resultados. Pode-se executar novamente uma operação gravada em qualquer altura através da janela de processamento de dados. Os valores existentes na coluna de resultados são escritos por cima, se necessário.
 

@@ -34,11 +34,11 @@ Now select the **file column** where you want to save the page as PDF.
 
 Finally, **name** the PDF files that will be added to your table. Use **{column name}**, which is the name of a column in curly brackets, to name the file after the value in that column.
 
-![Name the files](https://seatable.io/wp-content/uploads/2023/01/PDF-file-name.png)
+![Name the files](images/PDF-file-name.png)
 
 After clicking the button, the selected **PDF file** will be added to the corresponding row .
 
-![Triggering the action by activating the button](https://seatable.io/wp-content/uploads/2023/01/pdf-example.gif)
+![Triggering the action by activating the button](images/pdf-example.gif)
 
 ## Conditional execution of button actions
 

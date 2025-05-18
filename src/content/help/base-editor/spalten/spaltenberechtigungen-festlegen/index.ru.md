@@ -16,7 +16,7 @@ url: '/ru/help/spaltenberechtigungen-festlegen'
 
 ## Установите разрешения для столбцов
 
-![Установите разрешения для столбцов](https://seatable.io/wp-content/uploads/2023/02/edit-column-permissions.gif)
+![Установите разрешения для столбцов](images/edit-column-permissions.gif)
 
 1. Нажмите на **значок выпадающего** списка {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} в заголовке любого столбца.
 2. Нажмите кнопку **Редактировать разрешения столбцов**.

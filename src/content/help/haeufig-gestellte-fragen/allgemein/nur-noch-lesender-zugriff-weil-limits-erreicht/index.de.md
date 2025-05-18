@@ -24,4 +24,4 @@ Bitte beachten Sie auch, dass Ihre **Limits** ebenfalls bei einem Wechsel Ihres 
 
 Stellen Sie daher bitte unbedingt **vor** einem Wechsel zu einem niedrigeren Abo-Paket sicher, dass Ihre Daten die Limits des neu gebuchten Pakets **nicht** überschreiten. Sie erhalten zudem von SeaTable vor der Bestätigung eines Abo-Wechsels in der Teamverwaltung einen entsprechenden **Hinweis**.
 
-![Hinweis, der Ihnen vor der Bestätigung eines Wechsels zu einem niedrigeren Abo-Paket angezeigt wird](https://seatable.io/wp-content/uploads/2023/01/Hinweis-Wechsel-Abo-Paket.png)
+![Hinweis, der Ihnen vor der Bestätigung eines Wechsels zu einem niedrigeren Abo-Paket angezeigt wird](images/Hinweis-Wechsel-Abo-Paket.png)

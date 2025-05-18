@@ -19,7 +19,7 @@ Además de cambiar el orden, también puedes organizar tus vistas de forma más 
 5. Mueva el ratón a la vista que desea mover a la carpeta creada.
 6. Sujete el **Símbolo de seis puntos**
 
-    ![Icono de elementos móviles](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Icono de elementos móviles](images/move-icon.png)
     para mover y arrastrar la vista a la carpeta deseada.
 
 ![Agrupar las vistas en carpetas](images/Ansichten-in-Ordnern-gruppieren.gif)

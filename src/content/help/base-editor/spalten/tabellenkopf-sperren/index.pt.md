@@ -31,4 +31,4 @@ Se quiser apenas bloquear **colunas individuais da** sua tabela para edição, p
 
 {{< warning  headline="Nota importante"  text="Não confundir esta função com a função **Ícone de bloqueio nas opções de visualização**Pode utilizá-lo para alterar as definições de um [Vista da mesa de bloqueio](https://seatable.io/pt/docs/ansichtsoptionen/ansicht-sperren/) pode." />}}
 
-![Ícone de bloqueio para bloquear as vistas nas opções de vista](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Ícone de bloqueio para bloquear as vistas nas opções de vista](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)

@@ -16,7 +16,7 @@ Bienvenue dans le **cours en ligne SeaTable niveau 2 !**
 Ce cours est idéal pour vous si vous :
 
 - souhaitent développer un processus commercial avec SeaTable
-- vous souhaitez vous plonger encore plus profondément dans les fonctions de SeaTable après avoir suivi le [cours en ligne de niveau 1](https://seatable.io/fr/docs/online-kurs/level-eins-einfuehrung/).
+- vous souhaitez vous plonger encore plus profondément dans les fonctions de SeaTable après avoir suivi le [cours en ligne de niveau 1]({{< relref "help/erste-schritte/online-kurs-1/level-eins-einfuehrung" >}}).
 
 ## Qu'est-ce que je vais apprendre dans ce cours en ligne ?
 

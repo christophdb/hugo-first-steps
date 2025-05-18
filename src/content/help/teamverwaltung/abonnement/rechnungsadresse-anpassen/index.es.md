@@ -16,7 +16,7 @@ url: '/es/ayuda/rechnungsadresse-anpassen'
 
 {{< warning  headline="Nota importante"  text="La dirección de facturación de su equipo sólo puede ser modificada por los **administradores del equipo**." />}}2. Abre la **administración del equipo**. 3. Haga clic en **Suscripción**. 4. Haga clic en **"Ajustar la información de la factura"**. 5. Introduzca una **nueva** dirección de facturación. 6. Guarde el cambio con **Modificar destinatario de** factura.
 
-![Cambio de dirección de facturación](https://seatable.io/wp-content/uploads/2023/01/Rechnungsadresse-aendern.png)
+![Cambio de dirección de facturación](images/Rechnungsadresse-aendern.png)
 
 ## Preguntas frecuentes sobre la dirección de facturación
 

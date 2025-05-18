@@ -1,11 +1,11 @@
 ---
-title: "Automations-Trigger"
+title: 'Automations-Trigger'
 date: 2023-01-27
-lastmod: "2024-02-12"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/de/hilfe/automations-trigger"
+lastmod: '2024-02-12'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/de/hilfe/automations-trigger'
 ---
 
 {{< required-version "Enterprise" >}}
@@ -29,7 +29,7 @@ Wenn Sie dieses Ereignis als Trigger auswählen, wird die entsprechende Automati
 
 Bei den Bedingungen können Sie individuell für jede **Spalte** festlegen, wie der entsprechende **Wert** nach der Bearbeitung **aussehen muss**, um die Automation auszulösen. Im Zuge dessen können Sie entscheiden, ob **alle** oder lediglich **ausgewählte** Spalten der Tabellenansicht auf das Eintreten des Trigger-Ereignisses hin überwacht werden sollen.
 
-![Einträge erfüllen nach der Änderung bestimmte Bedingungen](https://seatable.io/wp-content/uploads/2023/01/Automation-trigger-records-meet-specific-conditions-after-modification.png)
+![Einträge erfüllen nach der Änderung bestimmte Bedingungen](images/Automation-trigger-records-meet-specific-conditions-after-modification.png)
 
 Wenn Sie das Ereignis "Einträge erfüllen nach Bearbeitung bestimmte Bedingungen" als Trigger einer Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
 

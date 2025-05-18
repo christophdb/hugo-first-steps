@@ -16,11 +16,11 @@ The Findmin formula works exclusively with **numerical values**, which is why th
 
 The **Findmin function** should be used when you want to **cross-reference** numerical values stored in different tables. Let's say you use SeaTable to collect the **working hours of** your employees, where one table stores the employees and another table stores the daily activity. You can then link each employee record to the working hours entered.
 
-![findmin formula](https://seatable.io/wp-content/uploads/2023/02/findmax-1.png)
+![findmin formula](images/findmax-1.png)
 
 To determine when an employee logged in for the first time, you can use the **Findmin formula** to display the **smallest value** - in this case the first login - from the total login times in a column.
 
-![findmin formula](https://seatable.io/wp-content/uploads/2023/02/findmin.png)
+![findmin formula](images/findmin.png)
 
 You can use the Findmin formula with all numeric values to represent the **minimum value**.
 
@@ -32,7 +32,7 @@ Find out how to create a column of the type **Link to other entries** [in]({{< r
 
 ### Add a column with Findmin formula
 
-![findmin formula](https://seatable.io/wp-content/uploads/2023/02/findmin.gif)
+![findmin formula](images/findmin.gif)
 
 1. Create a new column of the type **Formula for links**.
 2. Set the **Findmin** option as the formula.

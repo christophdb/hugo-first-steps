@@ -33,6 +33,6 @@ Também pode ver o estado atual da sua aplicação em qualquer altura no **modo 
 
 3. Clique no **símbolo do olho** no canto superior esquerdo da página.
 
-![Abrir a pré-visualização da aplicação de uma aplicação universal](https://seatable.io/wp-content/uploads/2023/05/open-app-preview-of-the-universal-app.png)
+![Abrir a pré-visualização da aplicação de uma aplicação universal](images/open-app-preview-of-the-universal-app.png)
 
 5. A **pré-visualização da aplicação** abre-se numa nova janela.

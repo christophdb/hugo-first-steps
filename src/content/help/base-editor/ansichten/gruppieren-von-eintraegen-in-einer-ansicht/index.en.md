@@ -12,7 +12,7 @@ The grouping function allows you to combine table entries into **groupings** and
 
 ## Group entries in a view
 
-![Grouping entries in a view](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
+![Grouping entries in a view](images/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
 1. Create a [new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) or select the view in which you want to group.
 2. Click the **Group** option in the view options above the table.
@@ -32,7 +32,7 @@ You can **group** by adding further groupings **according to up to three criteri
 
 Each group has a header in which both the criterion of the group and the number of entries within the group are listed.
 
-![The group header](https://seatable.io/wp-content/uploads/2022/10/gruppierung.png)
+![The group header](images/gruppierung.png)
 
 In the case of **number columns**, you also have the option of displaying various relationships between the entries:
 
@@ -59,21 +59,21 @@ The **Reduce All** or **Expand All** options allow you to collapse and expand th
 
 Here you will find the **Reduce All** option:
 
-![Reduce all](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_6.png)
+![Reduce all](images/gruppieren-von-eintraegrn_6.png)
 
 **Reduce** the display with the **All** option enabled:
 
-![Example for all reduce for groupings](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_1-1.png)
+![Example for all reduce for groupings](images/gruppieren-von-eintraegrn_1-1.png)
 
 ### Expand all
 
 Here you will find the **Expand All** option:
 
-![Extend grouping option all](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_7-1.png)
+![Extend grouping option all](images/gruppieren-von-eintraegrn_7-1.png)
 
 **Expand** the display with the **All** option enabled:
 
-![Example for all expand at groupings](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_3-1.png)
+![Example for all expand at groupings](images/gruppieren-von-eintraegrn_3-1.png)
 
 ## Move entries to another group
 
@@ -85,4 +85,4 @@ You can assign individual entries to new groups by dragging and dropping them. T
 
 Of course, you can delete groupings at any time by clicking on the **x symbol** in front of the respective grouping.
 
-![Delete grouping](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-loeschen.png)
+![Delete grouping](images/Gruppierung-loeschen.png)

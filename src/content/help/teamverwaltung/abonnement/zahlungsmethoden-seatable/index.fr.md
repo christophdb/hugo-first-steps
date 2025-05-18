@@ -20,7 +20,7 @@ Le deuxième mode de paiement possible est le **paiement sur facture**, qui n'es
 2. Cliquez sur **Abonnement**.
 3. Sous le point "**Mode de paiement"**, vous pouvez consulter votre mode de paiement actuel.
 
-![Vous pouvez à tout moment consulter votre méthode de paiement via l'onglet Abonnement dans la gestion d'équipe.](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-einsehen.jpg)
+![Vous pouvez à tout moment consulter votre méthode de paiement via l'onglet Abonnement dans la gestion d'équipe.](images/Zahlungsmethode-einsehen.jpg)
 
 ## Comment puis-je modifier mon mode de paiement ?
 
@@ -29,4 +29,4 @@ Le deuxième mode de paiement possible est le **paiement sur facture**, qui n'es
 3. Cliquez sur **"Personnaliser le mode de paiement".**
 4. Vous pouvez maintenant enregistrer une **nouvelle carte de crédit** comme mode de paiement. Cet [article](https://seatable.io/fr/docs/abo-abrechnung/bezahlung-per-rechnung/) vous explique comment et sous quelles conditions vous pouvez activer le **paiement sur facture**.
 
-![Vous pouvez modifier votre mode de paiement à tout moment dans l'onglet Abonnement de la gestion d'équipe.](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-aendern.jpg)
+![Vous pouvez modifier votre mode de paiement à tout moment dans l'onglet Abonnement de la gestion d'équipe.](images/Zahlungsmethode-aendern.jpg)

@@ -18,7 +18,7 @@ In diesem Artikel stellen wir Ihnen diese drei unterschiedlichen Möglichkeiten 
 2. Fahren Sie mit der Maus über den **Namen** Ihres Skriptes.
 3. Starten Sie das Skript mit dem **Play-Symbol** {{< seatable-icon icon="dtable-icon-implement" >}}.
 
-![So starten Sie ein Skript manuell](https://seatable.io/wp-content/uploads/2023/03/skript-manuell-starten.png)
+![So starten Sie ein Skript manuell](images/skript-manuell-starten.png)
 
 {{< warning  type="warning" headline="Kein Zeilenbezug"  text="Bei einer manuellen Ausführung Ihres Skriptes gibt es **keine aktive Zeile**, weshalb der Aufruf von _context.current\_row_ ein leeres Ergebnis zurückliefern wird." />}}
 
@@ -29,7 +29,7 @@ In diesem Artikel stellen wir Ihnen diese drei unterschiedlichen Möglichkeiten 
 3. Nutzen Sie die Aktion **Skript ausführen**.
 4. Wählen Sie Ihr **Skript** aus und speichern Sie.
 
-![Skript per Schaltfläche ausführen](https://seatable.io/wp-content/uploads/2023/03/run-script-via-button.png)
+![Skript per Schaltfläche ausführen](images/run-script-via-button.png)
 
 Ab sofort wird bei jedem Klick auf die Schaltfläche Ihr Skript ausgeführt. Innerhalb des Skripts können Sie über den Aufruf von _context.current_row_ auf die Werte der Zeile zugreifen. Selbstverständlich können Sie aber auch auf alle anderen Zeilen über die [Zeilen-ID](https://seatable.io/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) oder mithilfe einer Schleife zugreifen.
 
@@ -44,4 +44,4 @@ Mithilfe einer Automation können Sie ein Python-Skript ausführen. JavaScript s
 3. Nutzen Sie die Automations-Aktion **Python Skript ausführen**.
 4. Wählen Sie Ihr **Skript** aus und speichern Sie die Automation mit **Abschicken**.
 
-![Skript per Automation starten](https://seatable.io/wp-content/uploads/2023/03/skript-per-automation.png)
+![Skript per Automation starten](images/skript-per-automation.png)

@@ -25,7 +25,7 @@ url: '/ru/help/benutzer-und-rollenverwaltung-einer-universellen-app'
 
 6. Откройте **администрирование пользователей и ролей** в верхней левой части страницы.
 
-![Значок для управления пользователями и ролями](https://seatable.io/wp-content/uploads/2023/05/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
+![Значок для управления пользователями и ролями](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
 
 8. Выполните необходимые **настройки**.
 

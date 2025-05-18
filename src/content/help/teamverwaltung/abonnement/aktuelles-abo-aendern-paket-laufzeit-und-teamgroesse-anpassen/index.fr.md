@@ -47,7 +47,7 @@ Bien entendu, vous ne payez que le **montant proportionnel** à chaque modificat
 4. Apportez les modifications souhaitées à l'**abonnement**, au **nombre d'utilisateurs** et à la **période de facturation**.
 5. Confirmez la modification de votre abonnement en cliquant sur **Modifier l'abonnement payant**.
 
-![Confirmez la modification de votre abonnement](https://seatable.io/wp-content/uploads/2023/01/switch-from-plus-to-enterprise.png)
+![Confirmez la modification de votre abonnement](images/switch-from-plus-to-enterprise.png)
 
 ## Résiliation de votre abonnement payant
 
@@ -59,9 +59,9 @@ Vous pouvez revenir à l'abonnement gratuit à la fin de la période déjà pay�
 2. Cliquez sur **Abonnement**.
 3. Cliquez sur **Annuler l'abonnement et passer à SeaTable Free**.
 
-![Modification de votre abonnement de Plus/Enterprise à Free](https://seatable.io/wp-content/uploads/2023/01/switch-to-seatable-free.png)
+![Modification de votre abonnement de Plus/Enterprise à Free](images/switch-to-seatable-free.png)
 
 5. Lisez attentivement les **instructions** pour passer à SeaTable Free.
 6. Activez le **curseur** et confirmez la modification de votre abonnement en cliquant sur **Annuler l'abonnement et passer à SeaTable Free**.
 
-![Confirmez la modification de votre abonnement à SeaTable Free](https://seatable.io/wp-content/uploads/2023/01/confirm-switch-to-seatable-free.png)
+![Confirmez la modification de votre abonnement à SeaTable Free](images/confirm-switch-to-seatable-free.png)

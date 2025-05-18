@@ -17,7 +17,7 @@ Dieser Seitentyp der Universellen App funktioniert so ähnlich wie das [Kalender
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der Kalenderseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-auf-der-Kalenderseite-aendern.png)
+![Einstellungen der Kalenderseite ändern](images/Einstellungen-auf-der-Kalenderseite-aendern.png)
 
 In den **Seiteneinstellungen** können Sie unter anderem den **Titel**, das **Startdatum** und die **Farbe** der im Kalender angezeigten **Einträge** auswählen sowie den **Tag des Wochenstarts** festlegen.
 
@@ -27,7 +27,7 @@ In den **Seiteneinstellungen** können Sie unter anderem den **Titel**, das **St
 
 Sie können **voreingestellte Filter** und **ausgeblendete Spalten** definieren, um die angezeigten Daten für die Nutzer einzugrenzen.
 
-![Add filter on calendar pages in Universal Apps](https://seatable.io/wp-content/uploads/2023/12/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Add filter on calendar pages in Universal Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 Klicken Sie dazu auf **Filter hinzufügen**, wählen Sie die gewünschte **Spalte** und **Bedingung** aus und bestätigen Sie mit **Abschicken**.
 
@@ -59,4 +59,4 @@ Sie können Kalendereinträge kinderleicht bearbeiten, indem Sie **auf einen Ein
 
 Ganz unten in den Seiteneinstellungen können Sie genau eingrenzen, welche Nutzer mit der Seite interagieren dürfen. Legen Sie fest, wer die Seite sehen, Zeilen hinzufügen oder Einträge ändern darf.
 
-![Seitenberechtigungen auf Kalenderseiten](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-auf-Kalenderseiten.png)
+![Seitenberechtigungen auf Kalenderseiten](images/Seitenberechtigungen-auf-Kalenderseiten.png)

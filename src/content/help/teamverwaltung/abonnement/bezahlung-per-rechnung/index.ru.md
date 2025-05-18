@@ -22,4 +22,4 @@ url: '/ru/help/bezahlung-per-rechnung'
 
 Затем вы получите от нас счет-фактуру с просьбой перевести сумму счета на наш счет в немецком банке.
 
-![Активировать оплату по счету](https://seatable.io/wp-content/uploads/2023/01/Zahlung-per-Rechnung.png)
+![Активировать оплату по счету](images/Zahlung-per-Rechnung.png)

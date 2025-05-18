@@ -20,7 +20,7 @@ Pour éviter les modifications indésirables des lignes, vous pouvez les **verro
 
 Dès qu'une ligne est bloquée, un petit **triangle rouge** apparaît **dans la colonne de numérotation**.
 
-![Verrouiller une ligne](https://seatable.io/wp-content/uploads/2022/10/sperren-einer-zeile-1.png)
+![Verrouiller une ligne](images/sperren-einer-zeile-1.png)
 
 ## Déverrouiller les lignes
 
@@ -38,6 +38,6 @@ C'est très utile si vous voulez bloquer beaucoup de lignes à la fois ou si vou
 
 **Pour en savoir plus, consultez l'article** [Verrouiller des lignes avec l'automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
 
-![Bloquer une ligne avec une automation](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Bloquer une ligne avec une automation](images/lock-row-with-an-automation.png)
 
 {{< warning  headline="Déverrouillage uniquement possible manuellement"  text="Les lignes bloquées par une automatisation ne peuvent **pas** être débloquées de la même manière. Cela n'est possible que manuellement et avec les **droits d'administrateur** nécessaires." />}}

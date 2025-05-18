@@ -17,7 +17,7 @@ As a **team administrator**, you can **completely delete** your team with all it
 3. Scroll down and click **Team account and delete all data completely**.
 4. Confirm the deletion.
 
-![Delete the entire team](https://seatable.io/wp-content/uploads/2022/10/delete-complete-team.png)
+![Delete the entire team](images/delete-complete-team.png)
 
 ## What happens when you delete your team?
 

@@ -12,7 +12,7 @@ url: '/ru/help/aendern-der-reihenfolge-von-zeilen'
 
 ## Чтобы изменить порядок следования строк
 
-![Изменение порядка следования строк](https://seatable.io/wp-content/uploads/2022/10/Aendern-der-Reihenfolge-von-Zeilen-3.gif)
+![Изменение порядка следования строк](images/Aendern-der-Reihenfolge-von-Zeilen-3.gif)
 
 1. Щелкните в **поле нумерации** строки, которую нужно переместить, и удерживайте кнопку мыши **нажатой**.
 2. Перетащите линию в нужное положение. **Черная линия** показывает, куда перейдет линия.
@@ -22,6 +22,6 @@ url: '/ru/help/aendern-der-reihenfolge-von-zeilen'
 
 Вы также можете перемещать **несколько рядов** одновременно. Для этого сначала выделите строки. Как это сделать, описано в статье [Выбор нескольких рядов]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}). Затем вы перемещаете строки так же, как и одну строку.
 
-![Перемещение рядов одновременно](https://seatable.io/wp-content/uploads/2022/10/Zeilen-gleichzeitig-verschieben-1.gif)
+![Перемещение рядов одновременно](images/Zeilen-gleichzeitig-verschieben-1.gif)
 
 {{< warning  headline="Внимание"  text="Если столбец [отсортирован](https://seatable.io/ru/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) (по возрастанию/по убыванию), вы можете перемещать записи, но порядок будет немедленно скорректирован." />}}

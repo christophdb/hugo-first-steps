@@ -29,7 +29,7 @@ Para poder utilizar a sua conta Microsoft 365 no SeaTable para enviar e-mails, d
 4. Tome nota do **ID da aplicação (cliente)** na página de resumo da aplicação atualmente registada. Isto é necessário para configurar a conta de correio eletrónico no SeaTable.
 5. Na navegação lateral da aplicação, clique em **Certificados e segredos**para gerar a chave do cliente. Isto é feito no separador **Chaves secretas de cliente**. Atribuir uma descrição e um "Válido até" à chave.
 
-    ![Criar um segredo de cliente para uma aplicação registada no Microsoft Entra](https://seatable.io/wp-content/uploads/2023/04/Creating_Client_Secret_Microsoft_Entra.gif)
+    ![Criar um segredo de cliente para uma aplicação registada no Microsoft Entra](images/Creating_Client_Secret_Microsoft_Entra.gif)
 
 6. Copia o valor da chave criada para a área de transferência.
 
@@ -39,7 +39,7 @@ Já fez todos os preparativos para poder utilizar a sua conta Microsoft 365 como
 
 Agora é necessário adicionar a sua conta Microsoft 365 ao SeaTable Base. Para o fazer, são necessários os seguintes passos:
 
-![Integração de terceiros através das opções de base avançadas](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Integração de terceiros através das opções de base avançadas](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Abra as opções da base alargada clicando no **ícone de três pontos** {{< seatable-icon icon="dtable-icon-more-level" >}} no canto superior direito.
 2. Seleccionar a opção **Integração de Terceiros**.
@@ -53,7 +53,7 @@ Agora é necessário adicionar a sua conta Microsoft 365 ao SeaTable Base. Para 
 6. Confirmar a criação da conta de correio eletrónico com autenticação OAuth2.
 7. Clique em "Seguinte" quando for notificado de que esta aplicação não foi verificada e permita o acesso à conta Microsoft.
 
-![O screencast aceita as permissões solicitadas](https://seatable.io/wp-content/uploads/2023/04/Accept-Permissions-Requested-Microsoft.gif)
+![O screencast aceita as permissões solicitadas](images/Accept-Permissions-Requested-Microsoft.gif)
 
 ## Enviar e-mails através de automação ou botão
 

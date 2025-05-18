@@ -12,7 +12,7 @@ Tabellen in SeaTable können Tausende von Datensätzen enthalten. Damit Sie einz
 
 ## So finden Sie in einer Tabelle, was Sie suchen
 
-![Eine Zelle oder einen Wert in einer Tabelle finden](https://seatable.io/wp-content/uploads/2022/10/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
+![Eine Zelle oder einen Wert in einer Tabelle finden](images/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
 
 1. Öffnen Sie in einer Base eine beliebige **Tabelle**, in der Sie einen bestimmten Wert oder eine bestimmte Zelle suchen.
 2. Klicken Sie auf die **Lupe** oben rechts unter den Base-Optionen.

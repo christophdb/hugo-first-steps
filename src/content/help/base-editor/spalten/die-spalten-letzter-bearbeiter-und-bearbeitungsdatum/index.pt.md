@@ -16,7 +16,7 @@ Uma vez que as duas colunas registam automaticamente as alterações às entrada
 
 Enquanto o SeaTable preenche a coluna **Última Edição** com o nome do utilizador que editou uma linha pela última vez, a coluna **Data de Edição** regista a hora exacta (data e hora) em que ocorreu a última edição.
 
-![As colunas "Último editor" e "Último editado" após criação por um utilizador](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![As colunas "Último editor" e "Último editado" após criação por um utilizador](images/last-modifiere-and-last-modified-time.png)
 
 ## Características especiais dos dois tipos de colunas
 

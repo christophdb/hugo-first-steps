@@ -12,7 +12,7 @@ url: '/ru/help/die-basestruktur-exportieren'
 
 ## Ввод и выполнение сценария
 
-![Экспорт базовой структуры](https://seatable.io/wp-content/uploads/2023/03/export_base_structure.gif)
+![Экспорт базовой структуры](images/export_base_structure.gif)
 
 1. Откройте **базу**, где у вас возникла проблема.
 2. Щелкните {{< seatable-icon icon="dtable-icon-script" >}} в заголовке базы.
@@ -69,4 +69,4 @@ Table: price range (ID: 5H74)
 
 Если вы откроете новую тему на [форуме SeaTable](https://forum.seatable.io) с помощью кнопки **\+ Новая тема**, вы можете вставить свою базовую структуру в виде **предварительно отформатированного текста**, чтобы проиллюстрировать проблему.
 
-![Опубликуйте результат на форуме](https://seatable.io/wp-content/uploads/2023/03/new-topic-with-preformatted-text.png)
+![Опубликуйте результат на форуме](images/new-topic-with-preformatted-text.png)

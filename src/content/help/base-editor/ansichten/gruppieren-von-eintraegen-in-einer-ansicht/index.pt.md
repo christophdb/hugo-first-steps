@@ -12,7 +12,7 @@ Com a função de agrupamento, é possível combinar as entradas da tabela em **
 
 ## Entradas em grupo numa vista
 
-![Agrupar entradas numa vista](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
+![Agrupar entradas numa vista](images/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
 1. Crie uma [nova vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou seleccione a vista em que pretende agrupar.
 2. Clique na opção **Grupo** nas opções de visualização acima da tabela.
@@ -32,7 +32,7 @@ Pode **agrupar de acordo com até três critérios ao mesmo tempo**, acrescentan
 
 Cada grupo tem um cabeçalho no qual tanto o critério do grupo como o número de entradas dentro do grupo são listados.
 
-![O cabeçalho do grupo](https://seatable.io/wp-content/uploads/2022/10/gruppierung.png)
+![O cabeçalho do grupo](images/gruppierung.png)
 
 No caso de **colunas de pagamento**, também tem a opção de exibir várias relações entre as entradas:
 
@@ -59,21 +59,21 @@ Ao utilizar as opções **Reduzir Tudo** ou **Expandir Tudo**, pode colapsar e e
 
 Aqui encontrará a opção **Reduzir Tudo**:
 
-![Reduzir tudo](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_6.png)
+![Reduzir tudo](images/gruppieren-von-eintraegrn_6.png)
 
 **Reduzir** a visualização com a opção **Todos** activada:
 
-![Exemplo para todas as reduções para agrupamentos](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_1-1.png)
+![Exemplo para todas as reduções para agrupamentos](images/gruppieren-von-eintraegrn_1-1.png)
 
 ### Expandir tudo
 
 Aqui encontrará a opção **Expandir tudo**:
 
-![Alargar a opção de agrupamento todos](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_7-1.png)
+![Alargar a opção de agrupamento todos](images/gruppieren-von-eintraegrn_7-1.png)
 
 **Expandir o** visor com a opção **Todos** activada:
 
-![Exemplo de todas as expansões para agrupamentos](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_3-1.png)
+![Exemplo de todas as expansões para agrupamentos](images/gruppieren-von-eintraegrn_3-1.png)
 
 ## Mover as entradas para outro grupo
 
@@ -85,4 +85,4 @@ Pode atribuir entradas individuais a novos grupos, arrastando e largando. O crit
 
 É claro que pode eliminar grupos em qualquer altura, clicando no **símbolo x** em frente do respectivo grupo.
 
-![Eliminar agrupamento](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-loeschen.png)
+![Eliminar agrupamento](images/Gruppierung-loeschen.png)

@@ -21,11 +21,11 @@ Na página de [Preços](https://seatable.io/pt/preise/) encontrará uma visão g
 3. Clique em **Atualizar agora** na subscrição pretendida.
 4. Preencher o **formulário de reserva**.
 
-![Preencher o formulário de reserva](https://seatable.io/wp-content/uploads/2023/01/book-a-new-subscription.png)
+![Preencher o formulário de reserva](images/book-a-new-subscription.png)
 
 6. Confirmar a reserva com **Subscrição do SeaTable Plus/Enterprise**.
 
-![Confirmar a reserva](https://seatable.io/wp-content/uploads/2023/01/subscribe-to-seatable-plus-enterprise.png)
+![Confirmar a reserva](images/subscribe-to-seatable-plus-enterprise.png)
 
 A reserva é feita diretamente e as novas funções e limites estão imediatamente disponíveis para a sua equipa.
 

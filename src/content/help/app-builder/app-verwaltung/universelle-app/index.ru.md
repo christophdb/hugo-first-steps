@@ -32,7 +32,7 @@ url: '/ru/help/universelle-app'
 
 Для того чтобы оформить данные вашей базы в привлекательном виде, Universal App предлагает множество [типов страниц](https://seatable.io/ru/docs/apps/seitentypen-in-der-universellen-app/) с различными элементами дизайна.
 
-![Типы страниц Универсальное приложение](https://seatable.io/wp-content/uploads/2023/05/Seitentypen-Universal-App.png)
+![Типы страниц Универсальное приложение](images/Seitentypen-Universal-App.png)
 
 ## Предварительный просмотр универсального приложения
 
@@ -42,7 +42,7 @@ url: '/ru/help/universelle-app'
 
 В универсальном приложении можно выполнять различные **глобальные настройки**. Например, вы можете изменить **название**, **цвет** и **URL** вашего приложения. Вы можете внести необходимые изменения всего несколькими щелчками мыши через **настройки приложения**.
 
-![Откройте настройки универсального приложения](https://seatable.io/wp-content/uploads/2023/05/global-settings-universal-app.png)
+![Откройте настройки универсального приложения](images/global-settings-universal-app.png)
 
 [Подробнее о глобальных настройках универсального приложения можно узнать здесь.](https://seatable.io/ru/docs/apps/einstellungen-einer-universellen-app-aendern/)
 
@@ -54,7 +54,7 @@ url: '/ru/help/universelle-app'
 
 Чтобы точно контролировать доступ к вашим данным, вы можете установить **индивидуальные разрешения страниц для** **каждой страницы**, которую вы добавили в универсальное приложение. Разрешения страницы всегда редактируются через **настройки страницы**, которые можно открыть с помощью значка шестеренки {{< seatable-icon icon="dtable-icon-set-up" >}}.
 
-![Открытие настроек страницы](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Открытие настроек страницы](images/page-permissions-universal-app.png)
 
 [Подробнее о различных разрешениях страниц в Универсальном приложении можно узнать здесь.](https://seatable.io/ru/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
 
@@ -62,7 +62,7 @@ url: '/ru/help/universelle-app'
 
 Добавление новых пользователей, создание и назначение ролей - в **администрировании пользователей и ролей** универсального приложения вы можете выполнять различные административные действия.
 
-![Управление пользователями и ролями в универсальном приложении](https://seatable.io/wp-content/uploads/2023/05/open-user-and-role-management-1.png)
+![Управление пользователями и ролями в универсальном приложении](images/open-user-and-role-management-1.png)
 
 [Подробнее об администрировании пользователей и ролей в Universal App можно узнать здесь.](https://seatable.io/ru/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/)
 

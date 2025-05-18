@@ -23,8 +23,8 @@ url: '/ru/help/seatable-newsletter-bestellen-oder-abbestellen'
 2. Прокрутите до самого низа этого письма.
 3. Нажмите на ссылку " **Отказаться от подписки**".
 
-![Управление настройками для получения информационных бюллетеней.](https://seatable.io/wp-content/uploads/2023/03/abbestellen-des-newsletters.png)
+![Управление настройками для получения информационных бюллетеней.](images/abbestellen-des-newsletters.png)
 
 5. Внесите необходимые изменения на открывшейся странице и сохраните изменения.
 
-![Управление уведомлениями по электронной почте](https://seatable.io/wp-content/uploads/2023/03/newsletter-management.png)
+![Управление уведомлениями по электронной почте](images/newsletter-management.png)

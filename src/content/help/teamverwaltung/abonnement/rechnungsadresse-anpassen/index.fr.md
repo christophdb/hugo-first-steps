@@ -16,7 +16,7 @@ Vous souhaitez modifier votre adresse de facturation ? Pas de problème, grâce 
 
 {{< warning  headline="Remarque importante"  text="L'adresse de facturation de votre équipe ne peut être modifiée que par les **administrateurs de l'équipe**." />}}2. Ouvrez la **gestion d'équipe**. 3. Cliquez sur **Abonnement**. 4. Cliquez sur **"Personnaliser les informations de facturation".** 5. Enregistrez une **nouvelle** adresse de facturation. 6. Enregistrez la modification en cliquant sur **Modifier le destinataire de la facture**.
 
-![Changement d'adresse de facturation](https://seatable.io/wp-content/uploads/2023/01/Rechnungsadresse-aendern.png)
+![Changement d'adresse de facturation](images/Rechnungsadresse-aendern.png)
 
 ## Questions fréquentes sur l'adresse de facturation
 

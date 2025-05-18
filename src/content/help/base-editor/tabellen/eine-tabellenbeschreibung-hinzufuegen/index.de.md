@@ -17,20 +17,20 @@ Jede Tabelle in Ihrer Base können Sie mit einer Beschreibung versehen. Mit dies
 1. Klicken Sie auf das **dreieckige Drop-down-Symbol** neben dem Namen einer beliebigen Tabelle.
 2. Wählen Sie die Option **Tabellenbeschreibung bearbeiten**.
 
-![Eine Tabellenbeschreibung hinzufügen](https://seatable.io/wp-content/uploads/2023/07/edit-table-description.jpg) 4. Fügen Sie der Tabelle eine **Beschreibung** hinzu. 5. Bestätigen Sie mit **Abschicken**.
+![Eine Tabellenbeschreibung hinzufügen](images/edit-table-description.jpg) 4. Fügen Sie der Tabelle eine **Beschreibung** hinzu. 5. Bestätigen Sie mit **Abschicken**.
 
-![Tabellenbeschreibung hinzufügen](https://seatable.io/wp-content/uploads/2023/07/insert-table-description.jpg)
+![Tabellenbeschreibung hinzufügen](images/insert-table-description.jpg)
 
 ## Wo Sie die Tabellenbeschreibung finden
 
 Tabellen mit einer hinzugefügten **Tabellenbeschreibung** können Sie stets an einem **i-Symbol** rechts neben dem Tabellennamen erkennen.
 
-![Tabelle mit Tabellenbeschreibung](https://seatable.io/wp-content/uploads/2023/07/table-with-description.png)
+![Tabelle mit Tabellenbeschreibung](images/table-with-description.png)
 
 Sie können sich Tabellenbeschreibungen stets anzeigen lassen, indem Sie mit der Maus über das **i-Symbol** fahren.
 
-![Die Tabellenbeschreibung](https://seatable.io/wp-content/uploads/2023/07/table-description.jpg)
+![Die Tabellenbeschreibung](images/table-description.jpg)
 
 Mit einem Klick auf das **i-Symbol** können Sie die aktuelle Tabellenbeschreibung ebenfalls **bearbeiten**.
 
-![Bearbeitung einer aktuellen Tabellenbeschreibung über das i-Symbol](https://seatable.io/wp-content/uploads/2023/07/edit-table-description-i-icon.png)
+![Bearbeitung einer aktuellen Tabellenbeschreibung über das i-Symbol](images/edit-table-description-i-icon.png)

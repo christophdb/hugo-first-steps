@@ -14,7 +14,7 @@ Estão disponíveis dois tipos de colunas com o mesmo nome no SeaTable para regi
 
 O tipo de coluna **Imagem** armazena qualquer número de **ficheiros** de imagem nos formatos de ficheiro **BMP, GIF, ICO, JPG, PNG, SVG e TIF**. A coluna Imagem é, portanto, uma coluna de ficheiros limitada a formatos de ficheiros de imagem e oferece uma **pré-visualização** sob a forma de uma imagem em miniatura.
 
-![Pré-visualização de imagem na coluna de imagens SeaTable](https://seatable.io/wp-content/uploads/2022/10/picture-preview-seatable.png)
+![Pré-visualização de imagem na coluna de imagens SeaTable](images/picture-preview-seatable.png)
 
 ## Coluna de arquivo
 

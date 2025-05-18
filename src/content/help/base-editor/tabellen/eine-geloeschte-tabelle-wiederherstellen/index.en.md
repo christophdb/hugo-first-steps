@@ -12,7 +12,7 @@ In SeaTable you don't need to be afraid of losing your data. Even accidentally d
 
 ## Restore a deleted table
 
-![Table recovery](https://seatable.io/wp-content/uploads/2022/10/Wiederherstellung-von-Tabellen.png)
+![Table recovery](images/Wiederherstellung-von-Tabellen.png)
 
 2. Click **Versions** in the top right corner of the Base options.
 3. Open the **recycle bin**.
@@ -33,7 +33,7 @@ When you retrieve a table from the Trash, it is restored exactly as it looked wh
 
 {{< warning headline="Links to the deleted table must be restored separately" text="One of the strengths of SeaTable is its ability to link tables together. If you delete a table, then all linking columns that had this deleted table as a target disappear. If you now restore the original table, the linking columns are not automatically recreated, but they too can be restored from the trash. Thus, no information will be lost." />}}
 
-![Restoring a deleted link column](https://seatable.io/wp-content/uploads/2022/10/restore-deleted-link-column.png)
+![Restoring a deleted link column](images/restore-deleted-link-column.png)
 
 ## More helpful articles around data recovery
 

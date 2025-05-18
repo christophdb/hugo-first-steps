@@ -12,7 +12,7 @@ The sort function allows you to display the unordered entries in a table in an *
 
 ## Sort entries in a view
 
-![Entry sorting](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
+![Entry sorting](images/Sortierung-von-Eintraegen-2.gif)
 
 1. Create a [new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) or select the view you want to sort.
 2. Click the **Sort** option in the view options above the table.
@@ -28,18 +28,18 @@ Columns containing letter sequences, such as **text** or **email**, are sorted a
 
 You can delete a created sort by clicking the **x icon**.
 
-![Delete sorting of entries of a view](https://seatable.io/wp-content/uploads/2022/10/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
+![Delete sorting of entries of a view](images/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
 
 ## Subsequent addition of rows
 
 An activated sorting is automatically applied to newly added rows .
 
-![Entry sorting](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-1-1.gif)
+![Entry sorting](images/Sortierung-von-Eintraegen-1-1.gif)
 
 ## Apply multiple sorts
 
 By applying multiple sorts, you can order records that have the **same entry** in a previous sort. For example, you can first sort a list of employees by the options "female", "male", "miscellaneous" via a single selection column and then sort the names of the females, males and miscellaneous each alphabetically via a text column.
 
-![Multiple grades](https://seatable.io/wp-content/uploads/2022/10/Mehrere-Sortierungen.png)
+![Multiple grades](images/Mehrere-Sortierungen.png)
 
 {{< warning  headline="Note"  text="If you use **plugins** like the Gallery or the Kanban Board, the sorts will affect the order of the entries there as well." />}}

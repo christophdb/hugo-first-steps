@@ -16,7 +16,7 @@ Este tipo de página es muy similar al [plugin de línea de tiempo](https://seat
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Cambiar la configuración de la página de la línea de tiempo](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
+![Cambiar la configuración de la página de la línea de tiempo](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
 En la **configuración de la página**, puede establecer en primer lugar la representación gráfica de las líneas de tiempo. Para ello, seleccione el [color de la fila]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) o de una columna [de selección](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), que determina el **color de los** bloques. También puede definir una columna para el **etiquetado de los** bloques.
 
@@ -40,7 +40,7 @@ Los usuarios pueden ver más información sobre una entrada haciendo clic en un 
 
 Si añade una **agrupación**, las barras también pueden visualizarse en **swimlanes**. En el caso de las actividades que no se solapan, esta opción de visualización da como resultado una visualización compacta y clara.
 
-![Agrupación en páginas de cronología](https://seatable.io/wp-content/uploads/2023/12/Grouping-on-timeline-pages.png)
+![Agrupación en páginas de cronología](images/Grouping-on-timeline-pages.png)
 
 ## Editar o mover una entrada en la línea de tiempo
 
@@ -58,4 +58,4 @@ También puede **mover** cómodamente las entradas en la línea de tiempo **medi
 
 En la parte inferior de la configuración de la página, puede restringir quién puede **ver** la página de la línea de tiempo y **editar** las entradas. No se pueden añadir ni eliminar líneas a través de las páginas de cronología.
 
-![Autorizaciones de página para las páginas de la línea de tiempo](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Autorizaciones de página para las páginas de la línea de tiempo](images/Seitenberechtigungen-von-Kalenderseiten.png)

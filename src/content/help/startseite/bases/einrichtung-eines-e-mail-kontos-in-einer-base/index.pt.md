@@ -14,7 +14,7 @@ Este artigo explica os passos necessários para adicionar uma conta de correio e
 
 ## Configure uma conta de e-mail na sua Base
 
-![Integração de terceiros através das opções de base avançadas](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Integração de terceiros através das opções de base avançadas](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Abra as opções da base alargada clicando no **ícone de três pontos** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Selecione a opção **Integração de fornecedores terceiros**.
@@ -36,11 +36,11 @@ Após ter adicionado com sucesso uma conta de correio electrónico à sua Base, 
 
 Para o fazer, clique no **símbolo do envelope** à direita da sua conta de e-mail configurada.
 
-![Uma conta de correio eletrónico configurada numa base SeaTable](https://seatable.io/wp-content/uploads/2023/03/Configured_email_account.png)
+![Uma conta de correio eletrónico configurada numa base SeaTable](images/Configured_email_account.png)
 
 Em seguida, definir o **assunto**, o **destinatário** e o **conteúdo** do e-mail de teste. Por exemplo, pode enviar a si próprio um e-mail para o seu próprio endereço electrónico.
 
-![Testar a configuração da conta de correio eletrónico](https://seatable.io/wp-content/uploads/2023/03/Testing_email_account_configuration.png)
+![Testar a configuração da conta de correio eletrónico](images/Testing_email_account_configuration.png)
 
 Se a ligação ao servidor de correio eletrónico tiver sido estabelecida com êxito, aparece uma breve mensagem de sucesso e uma mensagem de correio eletrónico da conta de correio eletrónico configurada deve chegar à caixa de correio do destinatário especificado.
 

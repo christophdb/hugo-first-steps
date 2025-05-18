@@ -16,7 +16,7 @@ Dieser Seitentyp funktioniert so ähnlich wie das [Kanban-Plugin](https://seatab
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der Kanbanseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Kanbanseite-aendern.png)
+![Einstellungen der Kanbanseite ändern](images/Einstellungen-der-Kanbanseite-aendern.png)
 
 Legen Sie in den **Seiteneinstellungen** fest, auf welcher **Tabelle** das Kanban-Board basiert, nach welcher Spalte die Einträge **gruppiert** werden und aus welcher Spalte die **Titel** stammen.
 

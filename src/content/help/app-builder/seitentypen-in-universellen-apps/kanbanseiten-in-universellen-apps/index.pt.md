@@ -16,7 +16,7 @@ Este tipo de página funciona de forma semelhante ao [plugin Kanban](https://sea
 
 Se pretender alterar as definições de uma página, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondente na barra de navegação.
 
-![Alterar as definições da página Kanban](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Kanbanseite-aendern.png)
+![Alterar as definições da página Kanban](images/Einstellungen-der-Kanbanseite-aendern.png)
 
 Nas **definições da página**, especificar o **quadro** em que se baseia o quadro Kanban, a coluna em que as entradas são **agrupadas** e a coluna de onde provêm os **títulos**.
 

@@ -26,7 +26,7 @@ In the security settings of your Base, you can make settings at any time that af
 
 The first part of the security settings relates to the authorizations of **all users** who have access to the corresponding base. You can make the following settings in this part:
 
-![Security settings for all users](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-all-users.png)
+![Security settings for all users](images/Security-settings-for-all-users.png)
 
 ### Prevent export of a base
 
@@ -58,13 +58,13 @@ By activating this setting, you can **prevent** other users from creating, editi
 
 If this setting is **activated**, the corresponding icons for adding, editing or deleting data processing operations are **hidden** until the setting is deactivated again by an owner or administrator. However, all users can still perform the existing data [processing operations]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}).
 
-![Execute data processing operation](https://seatable.io/wp-content/uploads/2023/04/Datenverarbeitungsoperation-ausfuehren.png)
+![Execute data processing operation](images/Datenverarbeitungsoperation-ausfuehren.png)
 
 ## Security settings: Shared users
 
 The second part of the security settings refers to the permissions of the **users** to whom the corresponding [base](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) is [shared](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/). In this part you can make the **same** settings that are already available in the first part for all users:
 
-![Security settings for shared users](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-shared-users.png)
+![Security settings for shared users](images/Security-settings-for-shared-users.png)
 
 ### Prevent export of a base
 

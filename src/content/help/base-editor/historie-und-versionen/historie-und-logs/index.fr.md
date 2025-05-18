@@ -40,7 +40,7 @@ En cliquant sur **Détails**, vous pouvez afficher les modifications corresponda
 
 Toutes les activités effectuées dans une base peuvent être consultées dans ce que l'on appelle le **journal de base**, auquel on accède via l'en-tête de la base.
 
-![Ouvrir les logs dans la base](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Ouvrir les logs dans la base](images/Logs-in-der-Base-oeffnen.png)
 
 Dans un journal de base, vous trouverez les dernières modifications apportées à la base correspondante. Chaque entrée du journal contient les informations suivantes :
 
@@ -50,13 +50,13 @@ Dans un journal de base, vous trouverez les dernières modifications apportées 
 - Date de la modification
 - Description de la modification
 
-![Changements dans les logs](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Changements dans les logs](images/Aenderungen-in-den-Logs.png)
 
 Vous trouverez plus d'informations sur le journal de base et **des instructions** détaillées sur la manière d'annuler les modifications à ce sujet dans cet [article d'aide](https://seatable.io/fr/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
 
 Afin d'améliorer la traçabilité des modifications apportées aux lignes dans la [mémoire Big Data](https://seatable.io/fr/docs/big-data/potenzial-big-data/), SeaTable propose un **journal Big Data** séparé. Ce journal n'apparaît toutefois que lorsque la mémoire Big Data est activée dans la base.
 
-![Big Data Log](https://seatable.io/wp-content/uploads/2023/03/Big-Data-Log.png)
+![Big Data Log](images/Big-Data-Log.png)
 
 {{< warning  headline="Explication simple"  text="Si vous ne voulez pas seulement voir les modifications dans **une** base, mais aussi avoir une vue d'ensemble de ce qui se passe dans **toutes vos bases**, consultez le **journal des activités** sur la page d'accueil. Si vous êtes intéressé par les modifications apportées à **une seule base de données**, consultez le **journal des lignes**." />}}
 

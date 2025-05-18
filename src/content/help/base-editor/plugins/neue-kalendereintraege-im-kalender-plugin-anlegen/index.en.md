@@ -30,7 +30,7 @@ Make a selection in the daily, weekly or monthly overview. **Double click** to a
 
 {{< warning  headline="Note"  text="The double-click only works for the **month**, **week** and **day** display options." />}}
 
-![Create calendar entry by double-clicking or using the plus symbol](https://seatable.io/wp-content/uploads/2023/01/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
+![Create calendar entry by double-clicking or using the plus symbol](images/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
 
 ### Create new entries using the large plus symbol
 

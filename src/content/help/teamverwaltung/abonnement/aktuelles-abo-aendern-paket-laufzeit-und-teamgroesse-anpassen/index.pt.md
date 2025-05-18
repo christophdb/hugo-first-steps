@@ -47,7 +47,7 @@ Naturalmente, só paga o respetivo **montante proporcional** por cada alteraçã
 4. Efectue as alterações pretendidas à **assinatura**, ao **número de utilizadores** e ao **período de faturação**.
 5. Confirmar a alteração da sua subscrição com **Ajustar a subscrição mediante o pagamento de uma taxa**.
 
-![Confirme a alteração à sua subscrição](https://seatable.io/wp-content/uploads/2023/01/switch-from-plus-to-enterprise.png)
+![Confirme a alteração à sua subscrição](images/switch-from-plus-to-enterprise.png)
 
 ## Cancelamento da sua subscrição paga
 
@@ -59,9 +59,9 @@ Pode voltar à subscrição gratuita no final do período que já pagou. Para ta
 2. Clique em **Subscrição**.
 3. Clique em **Cancelar subscrição e mude para o SeaTable Free**.
 
-![Altere a sua assinatura de Plus/Enterprise para Free](https://seatable.io/wp-content/uploads/2023/01/switch-to-seatable-free.png)
+![Altere a sua assinatura de Plus/Enterprise para Free](images/switch-to-seatable-free.png)
 
 5. Ler cuidadosamente as **instruções para** mudar para o SeaTable Free.
 6. Active a **barra deslizante** e confirme a alteração da sua subscrição com **Cancelar subscrição e mudar para o SeaTable Free**.
 
-![Confirme a alteração da sua subscrição ao SeaTable Free](https://seatable.io/wp-content/uploads/2023/01/confirm-switch-to-seatable-free.png)
+![Confirme a alteração da sua subscrição ao SeaTable Free](images/confirm-switch-to-seatable-free.png)

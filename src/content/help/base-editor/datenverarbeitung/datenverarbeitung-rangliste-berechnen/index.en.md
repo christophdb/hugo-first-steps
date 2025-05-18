@@ -22,7 +22,7 @@ Using the data processing function, you can perform various operations over a co
 
 5. Define the **table**, **view**, **source column** and **result column**. You can also select the **order** in which the values are to be listed. Specify whether the largest or the smallest value should be listed first.
 
-![Definition of the data processing action Calculate ranking list](https://seatable.io/wp-content/uploads/2023/03/Definition-der-Datenverarbeitungsaktion-Rangliste-berechnen.png)
+![Definition of the data processing action Calculate ranking list](images/Definition-der-Datenverarbeitungsaktion-Rangliste-berechnen.png)
 
 7. Click **Save to** save the action and execute it later, or **Execute** to execute the action directly.
 
@@ -43,7 +43,7 @@ Then add a **second column of numbers** to the table, in which the ranks of the 
 
 To create the data processing operation, follow the steps described above. Next, define the currently opened **table** and **view.** Also, select the _Unique Visitors_ column as the **source** column and the newly added _ranked visitors_ column as the **result** column.
 
-![Data processing example Calculate ranking list](https://seatable.io/wp-content/uploads/2023/03/Datenverarbeitung-Rangliste-berechnen.png)
+![Data processing example Calculate ranking list](images/Datenverarbeitung-Rangliste-berechnen.png)
 
 Each time the data processing operation is executed, the **calculated ranks** are written to the results column. You can execute a saved operation again at any time via the data processing window. Existing values in the result column will be overwritten if necessary.
 

@@ -1,11 +1,11 @@
 ---
-title: "Konfigurationsmöglichkeiten eines Webformulars"
+title: 'Konfigurationsmöglichkeiten eines Webformulars'
 date: 2023-01-08
-lastmod: "2024-02-14"
-categories: 
-  - "webformulare"
-author: "vge"
-url: "/de/hilfe/konfigurationsmoeglichkeiten-eines-webformulars"
+lastmod: '2024-02-14'
+categories:
+    - 'webformulare'
+author: 'vge'
+url: '/de/hilfe/konfigurationsmoeglichkeiten-eines-webformulars'
 ---
 
 Sie können Ihr Webformular optisch, inhaltlich und funktional konfigurieren, indem Sie die **Formulareinstellungen**, die **Einstellungen der Felder** und das **Farbschema** anpassen. Letzteres erfordert ein Enterprise-Abonnement.
@@ -47,7 +47,7 @@ Besonders für Unternehmen und Organisationen kann es interessant sein, ein Webf
 
 Dazu können Sie Ihr Formular mit Ihrem **Logo** branden.
 
-![Logo verändern im Webformular](https://seatable.io/wp-content/uploads/2023/01/webformular.png)
+![Logo verändern im Webformular](images/webformular.png)
 
 Zudem haben Sie die Möglichkeit, den oberen **Farbbalken** anzupassen. Klicken Sie dafür oben rechts neben den Einstellungen auf **Farbschema**.
 

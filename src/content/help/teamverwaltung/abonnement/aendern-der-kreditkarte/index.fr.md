@@ -14,7 +14,7 @@ Vous souhaitez modifier la carte de crédit que vous avez utilisée pour payer v
 
 ## Changer de carte de crédit
 
-![Modifiez facilement votre carte de crédit via la gestion d'équipe](https://seatable.io/wp-content/uploads/2023/01/Aendern-der-Kreditkarte-1-1.png)
+![Modifiez facilement votre carte de crédit via la gestion d'équipe](images/Aendern-der-Kreditkarte-1-1.png)
 
 1. Ouvrez la **gestion d'équipe**.
 2. Cliquez sur **Abonnement**.
@@ -23,7 +23,7 @@ Vous souhaitez modifier la carte de crédit que vous avez utilisée pour payer v
 5. Confirmez en cliquant **sur "Déposer une nouvelle carte de crédit".**
 6. La nouvelle carte de crédit déposée est **immédiatement** valable et remplace l'ancienne carte.
 
-![Déposer une nouvelle carte de crédit ](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+![Déposer une nouvelle carte de crédit ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
 
 ## Questions fréquentes sur le paiement par carte de crédit
 

@@ -34,13 +34,13 @@ url: '/ru/help/die-signatur-spalte'
 
 Чтобы сохранить подпись, введенную на панели, просто нажмите кнопку **Сохранить**. Подпись, введенная на панели, сохраняется в ячейке и может быть вызвана в любое время двойным щелчком мыши.
 
-![Подпись, хранящаяся в колонке подписей ](https://seatable.io/wp-content/uploads/2023/06/stored-signatur-in-cell-1.png)
+![Подпись, хранящаяся в колонке подписей ](images/stored-signatur-in-cell-1.png)
 
 ## Изменение цифровой подписи
 
 Если вы не удовлетворены своей подписью и хотите подписаться еще раз, просто нажмите на кнопку **Подписать еще раз**. Обратите внимание, что вся подпись, которую вы ввели, будет перезаписана. **Невозможно** изменить отдельные части подписи.
 
-![Повторите подпись в панели подписи](https://seatable.io/wp-content/uploads/2023/06/resign.jpg)
+![Повторите подпись в панели подписи](images/resign.jpg)
 
 {{< warning  headline="Файл не удален"  text="Однако оригинальная подпись остается доступной в виде PNG-файла в [файловом менеджере](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base, если вы уже сохранили ее." />}}
 
@@ -48,8 +48,8 @@ url: '/ru/help/die-signatur-spalte'
 
 Каждая сохраненная подпись также сохраняется в [файловом управлении](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) вашей базы в виде PNG-файла в **системной папке**.
 
-![Папка в файловом управлении вашей Базы, где хранятся ваши подписи ](https://seatable.io/wp-content/uploads/2023/06/stored-signatures-in-filemanagement.jpg)
+![Папка в файловом управлении вашей Базы, где хранятся ваши подписи ](images/stored-signatures-in-filemanagement.jpg)
 
 Отсюда вы можете как **загрузить**, так и **удалить** свои подписи.
 
-![](https://seatable.io/wp-content/uploads/2023/06/Bild-06.06.23-um-19.18-511x87.jpg)
+![](images/Bild-06.06.23-um-19.18-511x87.jpg)

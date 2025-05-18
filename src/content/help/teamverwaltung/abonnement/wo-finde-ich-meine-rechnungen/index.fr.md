@@ -22,7 +22,7 @@ Vous pouvez aussi simplement utiliser ce lien :
 3. Cliquez sur **Factures**.
 4. Vous pouvez maintenant afficher toutes les factures disponibles et les trier également par **statut de paiement**, **montant** ou **numéro de facture**.
 
-![vos factures dans la gestion d'équipe SeaTable.](https://seatable.io/wp-content/uploads/2023/01/seatable-rechnungen-teamverwaltung.png)
+![vos factures dans la gestion d'équipe SeaTable.](images/seatable-rechnungen-teamverwaltung.png)
 
 ## Télécharger la facture au format PDF
 

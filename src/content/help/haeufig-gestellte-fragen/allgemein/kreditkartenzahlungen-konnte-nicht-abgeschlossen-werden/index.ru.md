@@ -17,7 +17,7 @@ url: '/ru/help/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
 
 При перезагрузке чека 3D Secure всегда возникают проблемы. Иногда новая форма не появляется, иногда экран становится белым, а иногда ее случайно отщелкивают.
 
-![Оплата с помощью 3D Secure](https://seatable.io/wp-content/uploads/2023/05/3d_secure_payment.gif)
+![Оплата с помощью 3D Secure](images/3d_secure_payment.gif)
 
 ## Что вы можете сделать?
 

@@ -14,7 +14,7 @@ Gostaria de alterar o cartão de crédito que utilizou para pagar a sua subscri�
 
 ## Mudança de cartão de crédito
 
-![Mude facilmente o seu cartão de crédito através da gestão da equipa](https://seatable.io/wp-content/uploads/2023/01/Aendern-der-Kreditkarte-1-1.png)
+![Mude facilmente o seu cartão de crédito através da gestão da equipa](images/Aendern-der-Kreditkarte-1-1.png)
 
 1. Abrir a **administração da equipa**.
 2. Clique em **Subscrição**.
@@ -23,7 +23,7 @@ Gostaria de alterar o cartão de crédito que utilizou para pagar a sua subscri�
 5. Confirmar com **"Depositar novo cartão de crédito"**.
 6. O cartão de crédito recentemente depositado é válido **imediatamente** e substitui o cartão antigo.
 
-![Depositar um novo cartão de crédito ](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+![Depositar um novo cartão de crédito ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
 
 ## Perguntas mais frequentes sobre pagamento por cartão de crédito
 

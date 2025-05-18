@@ -23,7 +23,7 @@ url: '/ru/help/externen-link-fuer-eine-ansicht-erstellen'
 
 ## Создание внешней ссылки для представления
 
-![Создание внешней ссылки для представления в SeaTable](https://seatable.io/wp-content/uploads/2022/10/create-an-external-link-for-a-view-2.gif)
+![Создание внешней ссылки для представления в SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
 1. Откройте **представление** таблицы, к которой вы хотите предоставить общий доступ.
 2. Нажмите на **Share View**, а затем на **External Link**.

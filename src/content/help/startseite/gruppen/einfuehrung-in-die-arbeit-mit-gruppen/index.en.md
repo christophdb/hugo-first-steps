@@ -17,7 +17,7 @@ Each team member can create their own groups and invite other team members to jo
 - You know that you will be working with several people on many different projects.
 - You want multiple people to be able to see all the information and bases in your group.
 
-![Working with groups in SeaTable](https://seatable.io/wp-content/uploads/2022/10/arbeiten-mit-gruppen.png)
+![Working with groups in SeaTable](images/arbeiten-mit-gruppen.png)
 
 Read more about how to [create a group](https://seatable.io/en/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
 

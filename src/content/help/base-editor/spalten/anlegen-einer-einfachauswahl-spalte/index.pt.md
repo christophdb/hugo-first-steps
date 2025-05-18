@@ -10,13 +10,13 @@ url: '/pt/ajuda/anlegen-einer-einfachauswahl-spalte'
 
 Uma coluna de selecção única é ideal se quiser atribuir **exactamente uma opção** de uma lista de opções a ser definida para as suas linhas. As opções são dadas **etiquetas** coloridas, que pode utilizar para **categorizar** os seus registos e tornar as tabelas claras.
 
-![Campo de selecção único em SeaTable.](https://seatable.io/wp-content/uploads/2022/10/single-select-column.png)
+![Campo de selecção único em SeaTable.](images/single-select-column.png)
 
 ## Criar uma coluna de selecção única
 
 A criação de uma coluna de selecção única é uma brincadeira de criança e feita com apenas alguns cliques. Para informações detalhadas, ver [Acrescentar uma coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
-![Criar uma coluna de selecção única](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
+![Criar uma coluna de selecção única](images/define-single-select-column.png)
 
 1. Clique no **símbolo \[+\]** à direita da última coluna de qualquer tabela.
 2. Dê um **nome** à nova coluna.
@@ -29,7 +29,7 @@ Pode adicionar novas opções a uma coluna de selecção única de várias manei
 
 Actualmente, estão disponíveis 24 cores para destacar visualmente as respectivas opções.
 
-![Cores da coluna de selecção única](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Cores da coluna de selecção única](images/farben-einfachauswahl.png)
 
 Com uma [subscrição Enterprise](https://seatable.io/pt/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), tem também a possibilidade de criar as suas [próprias cores](https://seatable.io/pt/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) para as opções de selecção única.
 
@@ -43,7 +43,7 @@ As opções **não** estão ordenadas **alfabeticamente**, mas sim de acordo com
 
 Ao criar uma coluna de selecção única, tem a opção de definir um **valor pré** -definido **por defeito**. O valor por defeito é **automaticamente** atribuído como opção a cada nova linha.
 
-![Valor por defeito para uma única coluna de selecção](https://seatable.io/wp-content/uploads/2022/10/default-value-single-select.png)
+![Valor por defeito para uma única coluna de selecção](images/default-value-single-select.png)
 
 ## Selecção única ou coluna de ligação?
 

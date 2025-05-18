@@ -14,7 +14,7 @@ You want to cancel your SeaTable subscription? To do so, use the Subscription ta
 
 {{< warning  headline="Important note"  text="Your team's subscription package can only be cancelled by the **team admins**." />}}2. Open the **team management**. 3. Click on **Subscription**. 4. Click **"Cancel subscription and switch to SeaTable Free"**. 5. Your subscription is now canceled at the **end of** the **term** you selected. You can still make full use of SeaTable until that time.
 
-![Existing subscriptions can be cancelled via the team administration](https://seatable.io/wp-content/uploads/2023/01/Abonnement-loeschen.jpg)
+![Existing subscriptions can be cancelled via the team administration](images/Abonnement-loeschen.jpg)
 
 ## Delete team completely
 

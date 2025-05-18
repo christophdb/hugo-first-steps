@@ -21,11 +21,11 @@ On the [Pricing](https://seatable.io/en/preise/) page you can find an overview w
 3. Click **Upgrade Now** under the subscription you want.
 4. Fill out the **booking form.**
 
-![Fill out the booking form](https://seatable.io/wp-content/uploads/2023/01/book-a-new-subscription.png)
+![Fill out the booking form](images/book-a-new-subscription.png)
 
 6. Confirm the booking with **Subscribe to SeaTable Plus/Enterprise**.
 
-![Confirm the booking](https://seatable.io/wp-content/uploads/2023/01/subscribe-to-seatable-plus-enterprise.png)
+![Confirm the booking](images/subscribe-to-seatable-plus-enterprise.png)
 
 The booking takes place directly and your team has immediate access to the new functions and limits.
 

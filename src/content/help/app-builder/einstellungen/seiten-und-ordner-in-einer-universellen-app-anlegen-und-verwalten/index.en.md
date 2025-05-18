@@ -25,15 +25,15 @@ In a Universal App you can create as many **pages** and **folders** as you like 
 
 6. Click **Add Page or Add Folder**, and then select **Add Page**.
 
-![Add app page](https://seatable.io/wp-content/uploads/2023/05/Add-app-page.png)
+![Add app page](images/Add-app-page.png)
 
 8. Select one of the [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) and click **Next**.
 
-![Add app page and select page type](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-select-page-type.png)
+![Add app page and select page type](images/Add-app-page-and-select-page-type.png)
 
 10. Give the page a **name**, define the underlying **table** and optionally specify an **icon** for the page.
 
-![Add app page and fill in details](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-fill-in-details.png)
+![Add app page and fill in details](images/Add-app-page-and-fill-in-details.png)
 
 12. Confirm with **Submit**.
 
@@ -63,7 +63,7 @@ If you have already created a **folder** in your universal app, you can move you
 
 Alternatively, you can also move pages **using drag-and-drop**. To do this, hold down the mouse button on the **six dots** in front of the page icon, drag the page to the desired position in the navigation and release.
 
-![Move pages of a universal app via drag and drop](https://seatable.io/wp-content/uploads/2023/05/move-pages-via-drag-and-drop.gif)
+![Move pages of a universal app via drag and drop](images/move-pages-via-drag-and-drop.gif)
 
 ## Create a new folder in a universal app
 
@@ -80,11 +80,11 @@ If there are a large number of pages, **folders** are helpful to group the pages
 
 6. Click **Add Page or Add Folder**, and then select **Add Folder**.
 
-![Add folder to universal app](https://seatable.io/wp-content/uploads/2023/05/Add-folder-in-Universal-Apps.png)
+![Add folder to universal app](images/Add-folder-in-Universal-Apps.png)
 
 8. **Name the** folder and optionally choose a suitable **icon** for it.
 
-![Add new folder to app](https://seatable.io/wp-content/uploads/2023/05/Add-new-folder-to-app.png)
+![Add new folder to app](images/Add-new-folder-to-app.png)
 
 10. Confirm with **Submit**.
 
@@ -92,22 +92,22 @@ If there are a large number of pages, **folders** are helpful to group the pages
 
 If you have already created a folder in your universal app, you can click on the **three dots** in this folder and **add** a **page** directly.
 
-![Adding pages to a folder in the Universal App](https://seatable.io/wp-content/uploads/2023/05/add-page-via-folder-to-universal-app.png)
+![Adding pages to a folder in the Universal App](images/add-page-via-folder-to-universal-app.png)
 
 ## Edit the name and icon of a folder
 
 You can **rename** folders in your Universal App at any time using the **three dots**. In addition, you can also customize the **icon of** your folder this way.
 
-![Customizing the name and icon of a folder in your Universal App](https://seatable.io/wp-content/uploads/2023/05/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
+![Customizing the name and icon of a folder in your Universal App](images/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
 
 ## Delete folder
 
 You can **delete** folders that are no longer required from your universal app at any time. Please note that **all pages** in the folder will also be **deleted**. The deletion is final. This means that neither the folder nor the individual pages can **be** restored afterwards.
 
-![Deleting a folder in your Universal App](https://seatable.io/wp-content/uploads/2023/05/delete-folder-in-your-universal-app-new.png)
+![Deleting a folder in your Universal App](images/delete-folder-in-your-universal-app-new.png)
 
 ## Move folder
 
 You can only move folders **using drag-and-drop**. To do this, hold down the mouse button on the **six dots** in front of the folder icon, drag the folder to the desired location in the navigation and release.
 
-![Drag and drop folders in the Universal App](https://seatable.io/wp-content/uploads/2023/05/move-folders-in-the-universal-app-via-drag-and-drop.gif)
+![Drag and drop folders in the Universal App](images/move-folders-in-the-universal-app-via-drag-and-drop.gif)

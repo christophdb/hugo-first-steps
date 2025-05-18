@@ -23,7 +23,7 @@ Pour contrôler précisément l'**accès à vos données**, vous pouvez définir
 
 6. Sélectionnez la **page** souhaitée dans la navigation sur le bord gauche de la page et cliquez sur l'**icône en forme de roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 
-![Clique sur l'icône d'édition](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Clique sur l'icône d'édition](images/page-permissions-universal-app.png)
 
 8. Définissez les **autorisations** souhaitées dans les **paramètres de page** apparaissant sur le bord droit de la page.
 

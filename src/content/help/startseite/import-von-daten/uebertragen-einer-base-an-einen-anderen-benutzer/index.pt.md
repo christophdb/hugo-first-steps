@@ -25,7 +25,7 @@ Se pretender transferir uma das suas bases para um **utilizador de outra equipa*
 
 [Crie uma ligação de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) para a sua base e envie essa ligação ao outro utilizador. Assim que o outro utilizador aceitar o **convite**, pode **copiar a base** e transferi-la para a sua própria equipa.
 
-![Transferir a base através da ligação de convite](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
+![Transferir a base através da ligação de convite](images/copy-shared-base.png)
 
 {{< warning  headline="Base comum ou separada"  text="Enquanto o destinatário ainda estiver a trabalhar na **base partilhada**, os dois utilizadores partilham **a mesma base**. Assim que o destinatário **copia a base**, são **duas bases separadas**. O proprietário original não tem **acesso à** nova base." />}}
 

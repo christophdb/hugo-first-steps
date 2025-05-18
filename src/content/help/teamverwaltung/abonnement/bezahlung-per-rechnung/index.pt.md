@@ -22,4 +22,4 @@ Se estes requisitos forem cumpridos, pode activar o pagamento por factura em qua
 
 Receberá então de nós uma factura com o pedido de transferência do montante da factura para a nossa conta bancária alemã.
 
-![Activar o pagamento por conta](https://seatable.io/wp-content/uploads/2023/01/Zahlung-per-Rechnung.png)
+![Activar o pagamento por conta](images/Zahlung-per-Rechnung.png)

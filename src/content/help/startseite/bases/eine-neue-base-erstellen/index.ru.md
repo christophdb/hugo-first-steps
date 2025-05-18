@@ -12,7 +12,7 @@ url: '/ru/help/eine-neue-base-erstellen'
 
 ## Создайте новую пустую базу через начальную страницу
 
-![Создайте новую пустую базу через начальную страницу](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-starting-page.gif)
+![Создайте новую пустую базу через начальную страницу](images/create-new-base-via-starting-page.gif)
 
 1. Начните с **домашней страницы** SeaTable.
 2. В соответствующей рабочей области (Мои базы или одна из ваших групп) нажмите **Добавить базу или папку**.
@@ -26,7 +26,7 @@ url: '/ru/help/eine-neue-base-erstellen'
 
 Кроме того, можно создать новую базу через папку.
 
-![Создание базы через папку](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-folder-overview.gif)
+![Создание базы через папку](images/create-new-base-via-folder-overview.gif)
 
 1. Начните с **домашней страницы** SeaTable.
 2. Щелкните **папку** в соответствующей рабочей области (My Bases или одна из ваших групп).

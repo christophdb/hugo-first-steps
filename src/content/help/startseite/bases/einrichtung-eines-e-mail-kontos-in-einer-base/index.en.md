@@ -14,7 +14,7 @@ This article explains the steps required to add an email account to a base and h
 
 ## Set up an email account in your Base
 
-![Third-party integration via the advanced base options](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Third-party integration via the advanced base options](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Open the advanced base options by clicking on the **three-dot icon** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Select the option **Integration of third-party providers**.
@@ -36,11 +36,11 @@ After you have successfully added an email account to your Base, the created acc
 
 To do this, click the **envelope icon** to the right of your set up email account.
 
-![An email account configured in a SeaTable base](https://seatable.io/wp-content/uploads/2023/03/Configured_email_account.png)
+![An email account configured in a SeaTable base](images/Configured_email_account.png)
 
 Then define the **subject**, **recipient**, and **content of** the test email. For example, you can send yourself an email to your own email address.
 
-![Test email account configuration](https://seatable.io/wp-content/uploads/2023/03/Testing_email_account_configuration.png)
+![Test email account configuration](images/Testing_email_account_configuration.png)
 
 If a connection to the e-mail server has been successfully established, a brief success message appears and an e-mail from the configured e-mail account should arrive in the specified recipient mailbox.
 

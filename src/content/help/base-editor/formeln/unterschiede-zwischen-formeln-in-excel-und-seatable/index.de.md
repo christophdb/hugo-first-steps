@@ -26,7 +26,7 @@ Jede bestimmte Zelle kann in einer anderen Zelle referenziert werden. Um zum Bei
 
 Die dabei unten verwendete Formel lautet: **\= IF(A3 = "Online","Web","Store")**
 
-![Zellenreferenzierung in Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs.-seatable-1.png)
+![Zellenreferenzierung in Excel](images/table-excel-vs.-seatable-1.png)
 
 Die Formel verweist auf bestimmte _Zellen_, wie z.B. A3.
 
@@ -38,7 +38,7 @@ Die dabei unten verwendete Formel lautet:
 
 **IF({Purchase Type}= "Online","Web","Store")**
 
-![Spaltenreferenzierung in SeaTable](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-2.png)
+![Spaltenreferenzierung in SeaTable](images/table-excel-vs-seatable-2.png)
 
 Die Formel verweist auf ganze _Spalten_, wie z.B. {Purchase Type}.
 
@@ -54,7 +54,7 @@ Um auf einen Datensatz in einer anderen Tabelle zu verweisen, müssen Sie spezif
 
 Anschließend müssen Sie diese Formel auf jede Zelle anwenden, in der Sie die Formel ausführen möchten (wobei Sie die Zellverweise für jede Zelle ändern müssen, in der Sie die Formel ausführen möchten).
 
-![Verweis auf anderen Datensatz in Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-3.png)
+![Verweis auf anderen Datensatz in Excel](images/table-excel-vs-seatable-3.png)
 
 ### SeaTable
 

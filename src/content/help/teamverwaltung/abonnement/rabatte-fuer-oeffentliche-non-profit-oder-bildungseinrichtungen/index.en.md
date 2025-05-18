@@ -20,7 +20,7 @@ If you have not yet registered a team on cloud.seatable.io, start by [registerin
 2. Switch to the **Subscription** section.
 3. Click on **Are you a non-profit organization?**
 
-![Submit request for discount via team management](https://seatable.io/wp-content/uploads/2023/01/Antrag-auf-Rabatt-in-SeaTable.png)
+![Submit request for discount via team management](images/Antrag-auf-Rabatt-in-SeaTable.png)
 
 5. Fill out the **form** and click on **Send application**.
 

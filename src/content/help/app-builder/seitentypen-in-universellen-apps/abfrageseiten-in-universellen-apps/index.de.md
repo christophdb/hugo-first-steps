@@ -16,7 +16,7 @@ Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App](https://seat
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der Abfrageseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Abfrageseite-aendern.png)
+![Einstellungen der Abfrageseite ändern](images/Einstellungen-der-Abfrageseite-aendern.png)
 
 ## Voreingestellte Filter, Sortierungen und ausgeblendete Spalten
 
@@ -50,7 +50,7 @@ Sie können Ihrer Abfrageseite einen einleitenden **Hinweis** hinzufügen, der z
 
 Um diese Funktion nutzen zu können, müssen Sie in den Seiteneinstellungen bei **Ist das Abfrageergebnis bearbeitbar** den Regler **aktivieren**.
 
-![Abfrageergebnis bearbeitbar machen](https://seatable.io/wp-content/uploads/2023/12/Abfrageergebnis-bearbeitbar-machen.png)
+![Abfrageergebnis bearbeitbar machen](images/Abfrageergebnis-bearbeitbar-machen.png)
 
 Anschließend können alle Nutzer mit Zugriff auf die Abfrageseite die gesuchten **Datensätze bearbeiten**.
 

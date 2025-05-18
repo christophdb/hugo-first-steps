@@ -24,4 +24,4 @@ Tenha também em atenção que **os** seus **limites** também podem ser atingid
 
 Por conseguinte, **antes de** mudar para um pacote de subscrição inferior, certifique-se de que os seus dados **não** excedem os limites do novo pacote reservado. Receberá também um **aviso** correspondente da SeaTable antes de confirmar uma alteração de subscrição na administração da equipa.
 
-![Aviso apresentado ao utilizador antes de confirmar uma alteração para um pacote de subscrição inferior](https://seatable.io/wp-content/uploads/2023/01/Hinweis-Wechsel-Abo-Paket.png)
+![Aviso apresentado ao utilizador antes de confirmar uma alteração para um pacote de subscrição inferior](images/Hinweis-Wechsel-Abo-Paket.png)

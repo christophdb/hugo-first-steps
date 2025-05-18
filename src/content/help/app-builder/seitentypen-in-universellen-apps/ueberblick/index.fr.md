@@ -17,13 +17,13 @@ Dans cet article de présentation, vous apprendrez à connaître les types de pa
 
 Dans le mode d'édition de l'application universelle, vous avez actuellement le choix entre **neuf types de pages** au total.
 
-![Types de pages Application universelle](https://seatable.io/wp-content/uploads/2023/05/Seitentypen-Universal-App.png)
+![Types de pages Application universelle](images/Seitentypen-Universal-App.png)
 
 [Découvrez ici comment créer de nouvelles pages dans l'application universelle.](https://seatable.io/fr/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
 
 Pour modifier des pages existantes, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} de la page correspondante.
 
-![Clique sur l'icône d'édition](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Clique sur l'icône d'édition](images/page-permissions-universal-app.png)
 
 ## Type de page : Tableau
 

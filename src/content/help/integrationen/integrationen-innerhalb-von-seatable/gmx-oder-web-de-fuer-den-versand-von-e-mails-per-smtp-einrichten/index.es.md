@@ -21,12 +21,12 @@ Por defecto, las cuentas GMX y WEB.DE sólo pueden utilizarse a través de los w
 1. Conéctese a su **cuenta de correo electrónico GMX**.
 2. Acceda a la **configuración** de su cuenta.
 
-![Ajustes en GMX](https://seatable.io/wp-content/uploads/2023/03/gmx-free-email-smtp-versand-mit-seatable.jpg)
+![Ajustes en GMX](images/gmx-free-email-smtp-versand-mit-seatable.jpg)
 
 4. Haga clic en **Recuperación POP3/IMAP** en la configuración de correo electrónico.
 5. Active **Permitir acceso POP3 e IMAP**.
 
-![Permitir SMTP para GMX y WEB.De.](https://seatable.io/wp-content/uploads/2023/03/activate_smtp_for_gmx.png)
+![Permitir SMTP para GMX y WEB.De.](images/activate_smtp_for_gmx.png)
 
 7. **Guarda** el cambio.
 
@@ -36,7 +36,7 @@ Ya ha realizado todos los preparativos para poder utilizar esta cuenta de correo
 
 Ahora añada su cuenta de correo electrónico como **proveedor externo** en su Base SeaTable. Los siguientes pasos son necesarios para esto:
 
-![Integración de terceros mediante las opciones avanzadas de la base](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Integración de terceros mediante las opciones avanzadas de la base](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. {{< seatable-icon icon="dtable-icon-more-level" >}}Abra las opciones de la base ampliada haciendo clic en el **icono de tres puntos**.
 2. Seleccione la opción **Integración de proveedores externos**.
@@ -53,7 +53,7 @@ Ahora añada su cuenta de correo electrónico como **proveedor externo** en su B
 Los campos host IMAP y puerto IMAP pueden permanecer vacíos. Los datos del servidor SMTP para WEB.DE se encuentran en [la sección de ayuda de WEB.DE.](https://hilfe.web.de/pop-imap/imap/imap-serverdaten.html)
 
 Un ejemplo de configuración para una cuenta GMX es el siguiente:  
-![Configuración SMTP de GMX](https://seatable.io/wp-content/uploads/2023/03/smtp-settings-gmx.jpg)
+![Configuración SMTP de GMX](images/smtp-settings-gmx.jpg)
 
 ## Envío automatizado de correos electrónicos
 

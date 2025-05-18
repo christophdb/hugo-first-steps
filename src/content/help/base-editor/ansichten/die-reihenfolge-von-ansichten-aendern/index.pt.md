@@ -16,7 +16,7 @@ Pode alterar a **ordem** em que as suas opiniões sobre uma tabela são listadas
 2. Mova o rato para a vista que pretende mover.
 3. Segure o aparecimento **Símbolo de seis pontos**
 
-    ![Ícone para elementos em movimento](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Ícone para elementos em movimento](images/move-icon.png)
     para mover e arrastar a vista para a posição desejada. A **linha preta** mostra-lhe a posição para a qual a linha irá saltar.
 
 4. Solte o botão do rato assim que a vista estiver na posição desejada.

@@ -14,6 +14,6 @@ Para recuperar linhas da memória de grandes volumes de dados, é necessária um
 2. **Clique com o botão direito do rato numa linha arquivada**.
 3. Seleccione a opção **Recuperar linha do arquivo**.
 
-![Recuperar entradas do backend de Big Data](https://seatable.io/wp-content/uploads/2023/05/unarchive-rows-out-of-the-big-data-backend.png)
+![Recuperar entradas do backend de Big Data](images/unarchive-rows-out-of-the-big-data-backend.png)
 
 Em poucos segundos, as linhas seleccionadas são reescritas da memória de grandes volumes de dados para a visualização normal, perdendo assim o seu **triângulo cinzento** , que identifica as linhas como entradas de grandes volumes de dados.

@@ -14,20 +14,20 @@ url: '/ru/help/die-geopositions-spalte'
 
 При создании колонки геолокации вы можете решить, хотите ли вы добавить в таблицу **долготу и широту** местоположения или **страну** или **регион**, используя функцию поиска.
 
-![Параметры выбора при создании колонки геопозиции](https://seatable.io/wp-content/uploads/2023/01/Optionen-beim-Erstellen-einer-Geopositionsspalte.png)
+![Параметры выбора при создании колонки геопозиции](images/Optionen-beim-Erstellen-einer-Geopositionsspalte.png)
 
 ## Обзор стран и регионов
 
 С помощью этой опции можно выбрать **страну** из указанного списка в каждой ячейке столбца. **Поле ввода** с автозаполнением поможет вам найти нужную страну. Другие значения **не** принимаются колонкой.
 
-![Добавление стран или регионов с помощью функции поиска в колонке Геопозиции](https://seatable.io/wp-content/uploads/2023/01/Erhebung-von-Laendern.png)
+![Добавление стран или регионов с помощью функции поиска в колонке Геопозиции](images/Erhebung-von-Laendern.png)
 
-![Пример применения геопозиционной колонки](https://seatable.io/wp-content/uploads/2023/01/Beispiel-Geopositions-Spalte-1.png)
+![Пример применения геопозиционной колонки](images/Beispiel-Geopositions-Spalte-1.png)
 
 ## Исследование долготы и широты любого местоположения
 
 Если вы выбираете опцию долготы и широты, SeaTable представляет **раздел карты** и **поле ввода**. Вы можете либо отметить нужное **место** на карте, либо ввести **долготу и широту** в поле ввода.
 
-![Добавление местоположения на основе его долготы и широты ](https://seatable.io/wp-content/uploads/2023/01/Erhebung-von-Laengen-und-Breitengraden.png)
+![Добавление местоположения на основе его долготы и широты ](images/Erhebung-von-Laengen-und-Breitengraden.png)
 
-![Пример применения геопозиционной колонки](https://seatable.io/wp-content/uploads/2023/01/Beispiel-2-Geopositionsspalte.png)
+![Пример применения геопозиционной колонки](images/Beispiel-2-Geopositionsspalte.png)

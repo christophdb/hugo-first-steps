@@ -29,7 +29,7 @@ Si vous sélectionnez cet événement comme déclencheur, l'automatisation corre
 
 Pour les conditions, vous pouvez définir individuellement pour chaque **colonne** comment la **valeur** correspondante **doit se présenter** après le traitement pour déclencher l'automatisation. Dans le même temps, vous pouvez décider si **toutes les** colonnes de la vue de tableau ou seulement les colonnes **sélectionnées** doivent être surveillées quant à l'occurrence de l'événement déclencheur.
 
-![Les entrées remplissent certaines conditions après la modification](https://seatable.io/wp-content/uploads/2023/01/Automation-trigger-records-meet-specific-conditions-after-modification.png)
+![Les entrées remplissent certaines conditions après la modification](images/Automation-trigger-records-meet-specific-conditions-after-modification.png)
 
 Si vous sélectionnez l'événement "Les entrées remplissent certaines conditions après traitement" comme déclencheur d'une automatisation, vous avez le choix entre les **actions automatiques** suivantes :
 

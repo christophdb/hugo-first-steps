@@ -23,8 +23,8 @@ Aqui está uma lista dos diferentes tipos de e-mails que pode receber de nós:
 2. Vá até ao fundo deste e-mail.
 3. Clique no link para **cancelar a subscrição**.
 
-![Gerir configurações para a recepção de boletins informativos.](https://seatable.io/wp-content/uploads/2023/03/abbestellen-des-newsletters.png)
+![Gerir configurações para a recepção de boletins informativos.](images/abbestellen-des-newsletters.png)
 
 5. Faça as alterações desejadas na página que abre e guarde as suas alterações.
 
-![Gerir as notificações por e-mail](https://seatable.io/wp-content/uploads/2023/03/newsletter-management.png)
+![Gerir as notificações por e-mail](images/newsletter-management.png)

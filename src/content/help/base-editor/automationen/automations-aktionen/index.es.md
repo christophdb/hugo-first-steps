@@ -30,7 +30,7 @@ La última versión de SeaTable ofrece un total de **once** acciones de automati
 - Ejecutar script Python
 - Ejecutar la operación de tratamiento de datos
 
-![Ejecutar acción de automatización Operación de tratamiento de datos](https://seatable.io/wp-content/uploads/2023/01/updated-automated-actions-e1707744604838.png)
+![Ejecutar acción de automatización Operación de tratamiento de datos](images/updated-automated-actions-e1707744604838.png)
 
 ## Acción de automatización: Enviar notificación
 

@@ -79,7 +79,7 @@ Sélectionnez ensuite l'**image** souhaitée et cliquez sur l'**icône de télé
 
 Si vous souhaitez télécharger **toutes les images d'une colonne**, ouvrez le menu déroulant au-dessus de l'en-tête de la colonne et sélectionnez **Tout télécharger**.
 
-![Télécharger toutes les images dans une colonne](https://seatable.io/wp-content/uploads/2023/07/Download-all-images.png)
+![Télécharger toutes les images dans une colonne](images/Download-all-images.png)
 
 Ensuite, vous pouvez encore définir **votre propre nom de fichier** et le système vous indique **combien de fichiers** seront inclus dans l'exportation.
 

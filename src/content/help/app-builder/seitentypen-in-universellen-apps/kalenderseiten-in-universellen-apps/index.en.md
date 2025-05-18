@@ -16,7 +16,7 @@ This page type of the Universal App works in a similar way to the [calendar plug
 
 If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **cogwheel symbol** in the navigation bar.
 
-![Change calendar page settings](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-auf-der-Kalenderseite-aendern.png)
+![Change calendar page settings](images/Einstellungen-auf-der-Kalenderseite-aendern.png)
 
 In the **page settings**, you can select the **title**, the **start date** and the **color** of the **entries** displayed in the calendar as well as the **day on which the week starts**, among other things.
 
@@ -26,7 +26,7 @@ In the **page settings**, you can select the **title**, the **start date** and t
 
 You can define **preset filters** and **hidden columns** to limit the data displayed to users.
 
-![Add filter on calendar pages in Universal Apps](https://seatable.io/wp-content/uploads/2023/12/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Add filter on calendar pages in Universal Apps](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 To do this, click on **Add filter**, select the desired **column** and **condition** and confirm with **Submit**.
 
@@ -58,4 +58,4 @@ You can easily edit calendar entries by **clicking on an entry** and making the 
 
 At the very bottom of the page settings, you can restrict exactly which users are allowed to interact with the page. Specify who can see the page, add rows or change entries.
 
-![Page authorizations on calendar pages](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-auf-Kalenderseiten.png)
+![Page authorizations on calendar pages](images/Seitenberechtigungen-auf-Kalenderseiten.png)

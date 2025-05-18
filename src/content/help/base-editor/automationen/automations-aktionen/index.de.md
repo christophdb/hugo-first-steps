@@ -30,7 +30,7 @@ In der aktuellsten Version von SeaTable stehen ingesamt **elf** verschiedene Aut
 - Python-Skript ausführen
 - Datenverarbeitungsoperation ausführen
 
-![Automations-Aktion Datenverarbeitungsoperation ausführen](https://seatable.io/wp-content/uploads/2023/01/updated-automated-actions-e1707744604838.png)
+![Automations-Aktion Datenverarbeitungsoperation ausführen](images/updated-automated-actions-e1707744604838.png)
 
 ## Automations-Aktion: Benachrichtigung versenden
 

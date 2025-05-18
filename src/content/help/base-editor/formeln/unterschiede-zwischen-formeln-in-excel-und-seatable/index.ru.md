@@ -29,7 +29,7 @@ url: '/ru/help/unterschiede-zwischen-formeln-in-excel-und-seatable'
 Ниже используется формула:  
 **\= ЕСЛИ(A3 = "Online", "Web", "Store")**
 
-![Ссылки на ячейки в Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs.-seatable-1.png)
+![Ссылки на ячейки в Excel](images/table-excel-vs.-seatable-1.png)
 
 Формула ссылается на конкретные _ячейки_, например, A3.
 
@@ -41,7 +41,7 @@ url: '/ru/help/unterschiede-zwischen-formeln-in-excel-und-seatable'
 
 **IF({Тип покупки}= "Онлайн", "Веб", "Магазин")**
 
-![Ссылки на столбцы в SeaTable](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-2.png)
+![Ссылки на столбцы в SeaTable](images/table-excel-vs-seatable-2.png)
 
 Формула относится к целым _столбцам_, например {Тип покупки}.
 
@@ -58,7 +58,7 @@ url: '/ru/help/unterschiede-zwischen-formeln-in-excel-und-seatable'
 
 Затем вам нужно применить эту формулу к каждой ячейке, в которой вы хотите запустить формулу (изменив ссылки на ячейки для каждой ячейки, в которой вы хотите запустить формулу).
 
-![Ссылка на другой набор данных в Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-3.png)
+![Ссылка на другой набор данных в Excel](images/table-excel-vs-seatable-3.png)
 
 ### SeaTable
 

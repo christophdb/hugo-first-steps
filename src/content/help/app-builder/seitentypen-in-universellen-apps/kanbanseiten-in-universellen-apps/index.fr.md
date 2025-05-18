@@ -16,7 +16,7 @@ Ce type de page fonctionne de la même manière que le [plug-in Kanban](https://
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Modifier les paramètres de la page Kanban](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Kanbanseite-aendern.png)
+![Modifier les paramètres de la page Kanban](images/Einstellungen-der-Kanbanseite-aendern.png)
 
 Dans les **paramètres de la page**, déterminez le **tableau** sur lequel le tableau Kanban est basé, la colonne selon laquelle les entrées sont **regroupées** et la colonne d'où proviennent les **titres**.
 

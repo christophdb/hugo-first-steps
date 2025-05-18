@@ -12,7 +12,7 @@ Dans SeaTable, vous avez la possibilité de créer une nouvelle base vide dans l
 
 ## Créer une nouvelle base vide via la page d'accueil
 
-![Créer une nouvelle base vide via la page d'accueil](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-starting-page.gif)
+![Créer une nouvelle base vide via la page d'accueil](images/create-new-base-via-starting-page.gif)
 
 1. Commencez par la **page d'accueil** de SeaTable.
 2. Cliquez sur **Ajouter une base ou un dossier** dans l'espace de travail correspondant (Mes bases ou l'un de vos groupes).
@@ -26,7 +26,7 @@ Vous pouvez maintenant remplir votre nouvelle base à votre guise avec des **con
 
 Il est en outre possible de créer une nouvelle base via un dossier.
 
-![Créer une base via un dossier](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-folder-overview.gif)
+![Créer une base via un dossier](images/create-new-base-via-folder-overview.gif)
 
 1. Commencez par la **page d'accueil** de SeaTable.
 2. Cliquez sur un **dossier** dans l'espace de travail correspondant (Mes bases ou l'un de vos groupes).

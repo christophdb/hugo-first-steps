@@ -10,13 +10,13 @@ url: '/fr/aide/die-spalte-mitarbeiter'
 
 Dans la **colonne des collaborateurs**, vous pouvez attribuer une ou plusieurs **personnes** à une ligne. SeaTable vous permet de sélectionner aussi bien les personnes qui ont actuellement **accès** à la **base** que tous les autres membres de l'équipe qui n'y ont pas accès.
 
-![La colonne des employés dans SeaTable](https://seatable.io/wp-content/uploads/2023/01/employee-column.png)
+![La colonne des employés dans SeaTable](images/employee-column.png)
 
 ## Sélectionner les personnes ayant accès à la base
 
 Si vous **double-cliquez** dans une cellule d'une colonne de collaborateurs, une liste de tous les utilisateurs qui ont actuellement accès à la base apparaît. Sélectionnez une ou plusieurs de ces **personnes**. Vous pouvez également utiliser le **champ de recherche** pour trouver un utilisateur spécifique.
 
-![Sélectionner les personnes ayant accès à une base dans la colonne des collaborateurs](https://seatable.io/wp-content/uploads/2023/01/Personen-mit-Zugriff-auf-eine-Base-in-der-Mitarbeiter-Spalte-auswaehlen.png)
+![Sélectionner les personnes ayant accès à une base dans la colonne des collaborateurs](images/Personen-mit-Zugriff-auf-eine-Base-in-der-Mitarbeiter-Spalte-auswaehlen.png)
 
 {{< warning  headline="Remarque"  text="Si l'accès à une base est **retiré** à un collaborateur, mais qu'il est inscrit dans une colonne de collaborateurs, la valeur reste inscrite dans la colonne jusqu'à ce que vous la supprimiez manuellement. Une fois supprimé, le collaborateur n'est plus disponible pour la sélection dans la liste." />}}
 
@@ -32,17 +32,17 @@ Cliquez sur l'icône {{< seatable-icon icon="dtable-icon-add\_members" >}} pour 
 
 Lors de la création d'une colonne d'employés, vous pouvez **activer** le **curseur** pour que les employés reçoivent une [notification](https://seatable.io/fr/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) lorsque d'autres les inscrivent dans la colonne et les affectent ainsi à une ligne.
 
-![Activation des notifications aux employés ajoutés à une colonne d'employés.](https://seatable.io/wp-content/uploads/2023/01/turn-on-notification-for-collaborateur-1.png)
+![Activation des notifications aux employés ajoutés à une colonne d'employés.](images/turn-on-notification-for-collaborateur-1.png)
 
 Les collaborateurs reçoivent ensuite une notification correspondante dans la base, qu'ils peuvent consulter via l'**icône de la cloche** {{< seatable-icon icon="dtable-icon-notice" >}} en haut à droite.
 
-![Notification de l'ajout d'un collaborateur](https://seatable.io/wp-content/uploads/2023/01/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
+![Notification de l'ajout d'un collaborateur](images/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
 
 ## Définir la valeur par défaut
 
 Vous pouvez définir un ou plusieurs employés comme [valeur par défaut]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) dans une colonne d'employés. Vous avez le choix entre l'**utilisateur actuel** et **certains utilisateurs**. Chaque fois que quelqu'un ajoute une nouvelle ligne dans le tableau, soit le créateur de la ligne, soit les personnes sélectionnées sont alors automatiquement inscrites dans la colonne des collaborateurs.
 
-![Définir les valeurs par défaut dans les colonnes du collaborateur](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
+![Définir les valeurs par défaut dans les colonnes du collaborateur](images/Set-default-values-in-collaborator-columns.png)
 
 ## Choisir les collaborateurs comme destinataires de notifications automatisées
 

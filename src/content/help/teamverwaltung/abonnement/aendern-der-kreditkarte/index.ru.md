@@ -14,7 +14,7 @@ url: '/ru/help/aendern-der-kreditkarte'
 
 ## Изменить кредитную карту
 
-![Легко изменить кредитную карту через управление командой](https://seatable.io/wp-content/uploads/2023/01/Aendern-der-Kreditkarte-1-1.png)
+![Легко изменить кредитную карту через управление командой](images/Aendern-der-Kreditkarte-1-1.png)
 
 1. Откройте **администрацию команды**.
 2. Нажмите на **Подписку**.
@@ -23,7 +23,7 @@ url: '/ru/help/aendern-der-kreditkarte'
 5. Подтвердите команду **"Пополнить счет новой кредитной карты"**.
 6. Вновь внесенная кредитная карта действует **немедленно** и заменяет старую карту.
 
-![Оформите новую кредитную карту ](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-neuen-Kreditkarte-1.png)
+![Оформите новую кредитную карту ](images/Hinterlegen-einer-neuen-Kreditkarte-1.png)
 
 ## Часто задаваемые вопросы об оплате кредитной картой
 

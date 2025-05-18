@@ -18,7 +18,7 @@ Vous pouvez placer des espaces et des sauts de ligne presque comme vous le souha
 
 ### Exemple d'application
 
-![Les espaces et les retours à la ligne peuvent être placés presque n'importe où dans l'assistant de formules. La seule exception concerne les fonctions.](https://seatable.io/wp-content/uploads/2023/01/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
+![Les espaces et les retours à la ligne peuvent être placés presque n'importe où dans l'assistant de formules. La seule exception concerne les fonctions.](images/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
 
 ## Utiliser la syntaxe dans l'éditeur de formules
 
@@ -41,7 +41,7 @@ Si les éléments de formule mentionnés **ne sont pas** marqués dans la **coul
 
 **Les parenthèses associées** sont **mises en évidence** dans l'éditeur de formules dès que vous cliquez sur une parenthèse ouvrante ou fermante. Cela vous permet de repérer plus facilement les remplacements de parenthèses **manquants** ou **incorrects**.
 
-![Les parenthèses ouvrantes et fermantes sont toujours mises en évidence dans l'éditeur de formules.](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+![Les parenthèses ouvrantes et fermantes sont toujours mises en évidence dans l'éditeur de formules.](images/example-brackets.png)
 
 ## Planifier des formules
 

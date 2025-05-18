@@ -10,7 +10,7 @@ url: '/help/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 
 Each of the square icons on your Home page represents a **Base**. It is a database, comparable to a workbook in a conventional spreadsheet and can contain several **tables** on different topics.
 
-![Base overview in SeaTable](https://seatable.io/wp-content/uploads/2023/01/base-overview.png)
+![Base overview in SeaTable](images/base-overview.png)
 
 A Base represents a self-contained **unit** in SeaTable. Therefore, it should contain all the information you need for a specific project or process.
 

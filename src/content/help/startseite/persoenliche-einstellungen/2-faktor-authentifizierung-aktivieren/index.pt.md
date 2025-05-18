@@ -32,7 +32,7 @@ Para todos os logins futuros, terá de introduzir o código actual de seis dígi
 
 ## Qual é a aplicação 2FA que recomendamos?
 
-![A autenticação de 2 factores através da aplicação protege de forma fiável o seu login.](https://seatable.io/wp-content/uploads/2023/03/2fa-app.png)
+![A autenticação de 2 factores através da aplicação protege de forma fiável o seu login.](images/2fa-app.png)
 
 Em princípio, pode utilizar qualquer aplicação 2FA, embora gostássemos de recomendar a aplicação **2FA Authenticator (2FAS)**. É útil, fino e reconhece o SeaTable.
 

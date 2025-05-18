@@ -12,7 +12,7 @@ Las tablas de SeaTable pueden contener miles de registros de datos. Para que pue
 
 ## Para encontrar lo que busca en una tabla
 
-![Buscar una celda o un valor en una tabla](https://seatable.io/wp-content/uploads/2022/10/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
+![Buscar una celda o un valor en una tabla](images/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
 
 1. Abrir cualquier **tabla** en una Base en la que se busque un valor o celda específica.
 2. Haga clic en la **lupa** situada arriba a la derecha, debajo de las opciones de la base.

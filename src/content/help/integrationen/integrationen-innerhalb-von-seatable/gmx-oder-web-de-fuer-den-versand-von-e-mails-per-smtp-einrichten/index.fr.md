@@ -21,12 +21,12 @@ Par défaut, les comptes GMX et WEB.DE ne peuvent être utilisés que via les we
 1. Connectez-vous à votre **compte de messagerie GMX**.
 2. Accédez aux **paramètres** de votre compte.
 
-![Paramètres au sein de GMX](https://seatable.io/wp-content/uploads/2023/03/gmx-free-email-smtp-versand-mit-seatable.jpg)
+![Paramètres au sein de GMX](images/gmx-free-email-smtp-versand-mit-seatable.jpg)
 
 4. Cliquez sur **Récupération POP3/IMAP** dans les paramètres de messagerie.
 5. Activez **Autoriser l'accès POP3 et IMAP**.
 
-![Autoriser SMTP pour GMX et WEB.De.](https://seatable.io/wp-content/uploads/2023/03/activate_smtp_for_gmx.png)
+![Autoriser SMTP pour GMX et WEB.De.](images/activate_smtp_for_gmx.png)
 
 7. **Enregistrez** votre modification.
 
@@ -36,7 +36,7 @@ Vous avez ainsi fait tous les préparatifs nécessaires pour pouvoir utiliser ce
 
 Ajoutez maintenant votre compte e-mail en tant que **tiers** dans votre base SeaTable. Pour cela, il faut suivre les étapes suivantes :
 
-![Intégration de fournisseurs tiers via les options de base étendues](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Intégration de fournisseurs tiers via les options de base étendues](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Ouvrez les options avancées de la base en cliquant sur l'**icône à trois points** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Sélectionnez l'option **Intégration de tiers**.
@@ -53,7 +53,7 @@ Ajoutez maintenant votre compte e-mail en tant que **tiers** dans votre base Sea
 Les champs Hôte IMAP et Port IMAP peuvent rester vides. Vous trouverez les données du serveur SMTP pour WEB.DE dans [la zone d'aide de WEB.DE](https://hilfe.web.de/pop-imap/imap/imap-serverdaten.html).
 
 Voici un exemple de configuration pour un compte GMX :  
-![Paramètres SMTP de GMX](https://seatable.io/wp-content/uploads/2023/03/smtp-settings-gmx.jpg)
+![Paramètres SMTP de GMX](images/smtp-settings-gmx.jpg)
 
 ## Envoyer des e-mails par automatisation
 

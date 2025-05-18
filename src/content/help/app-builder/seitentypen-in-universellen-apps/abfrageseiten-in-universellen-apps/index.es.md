@@ -16,7 +16,7 @@ Con este tipo de página, que funciona de forma similar a la [aplicación de con
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Cambiar la configuración de la página de consulta](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Abfrageseite-aendern.png)
+![Cambiar la configuración de la página de consulta](images/Einstellungen-der-Abfrageseite-aendern.png)
 
 ## Filtros preestablecidos, clasificación y columnas ocultas
 
@@ -50,7 +50,7 @@ Puede añadir una **nota** introductoria a su página de consulta, que puede con
 
 Para poder utilizar esta función, debe **activar** el control deslizante en la configuración de la página en **¿Es editable el resultado de la consulta**?
 
-![Hacer editable el resultado de la consulta](https://seatable.io/wp-content/uploads/2023/12/Abfrageergebnis-bearbeitbar-machen.png)
+![Hacer editable el resultado de la consulta](images/Abfrageergebnis-bearbeitbar-machen.png)
 
 A continuación, todos los usuarios con acceso a la página de consulta pueden **editar los registros de datos** buscados.
 

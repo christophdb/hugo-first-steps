@@ -19,7 +19,7 @@ Outre la modification de l'ordre, vous pouvez également organiser vos vues de m
 5. Déplacez la souris sur la vue que vous souhaitez déplacer vers le dossier créé.
 6. Tenez le **Symbole à six points**
 
-    ![Icône pour déplacer des éléments](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Icône pour déplacer des éléments](images/move-icon.png)
     enfoncé pour déplacer et faites glisser la vue vers le dossier souhaité.
 
 ![Regrouper les vues dans des dossiers](images/Ansichten-in-Ordnern-gruppieren.gif)

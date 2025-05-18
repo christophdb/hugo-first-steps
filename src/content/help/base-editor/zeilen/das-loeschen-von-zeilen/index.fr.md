@@ -12,7 +12,7 @@ Dans cet article, vous apprendrez à **supprimer** une **seule ligne**, **plusie
 
 ## Suppression d'une ligne
 
-![Supprimer une ligne dans SeaTable](https://seatable.io/wp-content/uploads/2022/10/delete-a-row.gif)
+![Supprimer une ligne dans SeaTable](images/delete-a-row.gif)
 
 1. Cliquez avec **le bouton droit de la souris** sur une ligne pour faire apparaître le **menu déroulant**.
 2. Sélectionnez l'option **Supprimer la ligne**.
@@ -21,7 +21,7 @@ Dans cet article, vous apprendrez à **supprimer** une **seule ligne**, **plusie
 
 ## Suppression de plusieurs lignes
 
-![Suppression de plusieurs lignes dans une base](https://seatable.io/wp-content/uploads/2022/10/delete-multiple-rows.gif)
+![Suppression de plusieurs lignes dans une base](images/delete-multiple-rows.gif)
 
 1. Déplacez la souris sur la **colonne de numérotation**.
 2. Sélectionnez les **lignes** que vous souhaitez supprimer en cliquant sur les **cases** de chaque ligne.

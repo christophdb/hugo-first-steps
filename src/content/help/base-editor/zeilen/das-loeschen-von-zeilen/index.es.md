@@ -12,7 +12,7 @@ En este artículo aprenderás a **eliminar** una **fila**, **varias filas** y **
 
 ## Borrar una línea
 
-![Eliminar una fila en SeaTable](https://seatable.io/wp-content/uploads/2022/10/delete-a-row.gif)
+![Eliminar una fila en SeaTable](images/delete-a-row.gif)
 
 1. **Haga clic con el botón derecho del ratón** en una línea para abrir el **menú desplegable**.
 2. Seleccione la opción **Borrar Fila**.
@@ -21,7 +21,7 @@ En este artículo aprenderás a **eliminar** una **fila**, **varias filas** y **
 
 ## Borrar varias líneas
 
-![Borrar varias líneas en una base](https://seatable.io/wp-content/uploads/2022/10/delete-multiple-rows.gif)
+![Borrar varias líneas en una base](images/delete-multiple-rows.gif)
 
 1. Mueva el ratón a la **columna de numeración**.
 2. Seleccione las **filas** que desea eliminar marcando las **casillas de** las filas respectivas.

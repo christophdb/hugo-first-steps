@@ -22,7 +22,7 @@ Con la ayuda de la función de tratamiento de datos, puede realizar varias opera
 
 5. Defina la **tabla**, la **vista**, la **columna de origen** y la **columna de resultado**. También puede seleccionar el **orden** en que deben listarse los valores. Especifique si debe listarse primero el valor más grande o el más pequeño.
 
-![Definición de la acción de tratamiento de datos Calcular la lista de clasificación](https://seatable.io/wp-content/uploads/2023/03/Definition-der-Datenverarbeitungsaktion-Rangliste-berechnen.png)
+![Definición de la acción de tratamiento de datos Calcular la lista de clasificación](images/Definition-der-Datenverarbeitungsaktion-Rangliste-berechnen.png)
 
 7. Haga clic en **Guardar para** guardar la acción y ejecutarla más tarde, o en **Ejecutar** para ejecutar la acción directamente.
 
@@ -43,7 +43,7 @@ A continuación, añada una **segunda columna de números** a la tabla, en la qu
 
 Para crear la operación de tratamiento de datos, siga los pasos descritos anteriormente. A continuación, defina la **tabla** y la **vista** actualmente abiertas. Seleccione también la columna de visitantes _únicos_ como columna de **origen** y la columna de _visitantes clasificados_ recién añadida como columna de **resultado**.
 
-![Ejemplo de tratamiento de datos Calcular la lista de clasificación](https://seatable.io/wp-content/uploads/2023/03/Datenverarbeitung-Rangliste-berechnen.png)
+![Ejemplo de tratamiento de datos Calcular la lista de clasificación](images/Datenverarbeitung-Rangliste-berechnen.png)
 
 Cada vez que se ejecuta la operación de tratamiento de datos, los **rangos calculados** se escriben en la columna de resultados. Puede volver a ejecutar una operación guardada en cualquier momento a través de la ventana de tratamiento de datos. Los valores existentes en la columna de resultados se sobrescriben si es necesario.
 

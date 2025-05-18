@@ -27,7 +27,7 @@ Das Hinzufügen von Optionen zu einer Mehrfachauswahl-Spalte funktioniert **gena
 
 Aktuell stehen Ihnen 24 Farben zur Verfügung, um die jeweiligen Optionen visuell hervorzuheben.
 
-![Farben der Einfachauswahl-Spalte](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Farben der Einfachauswahl-Spalte](images/farben-einfachauswahl.png)
 
 Mit einem [Enterprise-Abo](https://seatable.io/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title) haben Sie zudem die Möglichkeit, [eigene Farben](https://seatable.io/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) für Ihre Mehrfachauswahl-Optionen anzulegen.
 

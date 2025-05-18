@@ -17,23 +17,23 @@ Vous pouvez, entre autres, calculer, fusionner ou mettre en relation les valeurs
 
 Pour appliquer une formule, vous devez d'abord ajouter une nouvelle colonne de formule à votre tableau. Pour savoir comment faire, [cliquez ici]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
-![Sélection d'une colonne de formules](https://seatable.io/wp-content/uploads/2023/01/select-formula-column.png)
+![Sélection d'une colonne de formules](images/select-formula-column.png)
 
 SeaTable propose un **éditeur de formules** pour faciliter la saisie des formules.
 
-![Assistant de formule pour simplifier la saisie de formules, surtout complexes](https://seatable.io/wp-content/uploads/2023/01/Formula.wizard.png)
+![Assistant de formule pour simplifier la saisie de formules, surtout complexes](images/Formula.wizard.png)
 
 ## Écrire une première formule
 
 Dès que votre colonne de formules est créée, vous pouvez commencer à écrire la formule. L'illustration suivante montre une formule simple pour calculer la moyenne de cinq nombres.
 
-![Saisie de n'importe quelle formule dans le champ de texte](https://seatable.io/wp-content/uploads/2023/01/input-formular.jpg)
+![Saisie de n'importe quelle formule dans le champ de texte](images/input-formular.jpg)
 
 Cette formule écrit toujours comme résultat la valeur statique _13.2_ dans la colonne de formule. La véritable force de la colonne de formules n'est toutefois mise en valeur que si vous utilisez les valeurs d'autres colonnes pour votre formule. Avec le **{nom de la colonne}** entre accolades, vous pouvez faire référence à des colonnes existantes dans votre tableau.
 
 {{< warning headline="Ajouter des colonnes à la formule" text="Les noms de colonnes dans le tableau ouvert sont affichés à gauche dans l'éditeur de formules et peuvent être modifiés à l'aide d'un **Double clic** peut être inséré dans la formule." />}}
 
-![Colonnes disponibles dans l'éditeur de formules](https://seatable.io/wp-content/uploads/2023/01/columns-in-the-formula-editor.jpg)
+![Colonnes disponibles dans l'éditeur de formules](images/columns-in-the-formula-editor.jpg)
 
 Vous pouvez ensuite insérer certaines **constantes**, **opérandes** et **fonctions** dans votre formule pour calculer, fusionner ou mettre en relation les valeurs des différentes colonnes.
 
@@ -41,16 +41,16 @@ Vous pouvez ensuite insérer certaines **constantes**, **opérandes** et **fonct
 
 Pour pouvoir distinguer les différents éléments de votre formule, ceux-ci sont marqués d'une **couleur** différente selon leur type :
 
-| Objet                   | Exemple                                                                                                                                                                |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fonctions               | ![Les fonctions sont toujours marquées en bleu dans une formule](https://seatable.io/wp-content/uploads/2023/01/example-function.png)                                  |
-| Texte / Chaîne          | ![Les textes et les chaînes de caractères sont toujours marqués en rouge dans l'éditeur de formules.](https://seatable.io/wp-content/uploads/2023/01/example-text.png) |
-| Chiffres                | ![Les nombres sont toujours marqués en vert dans l'éditeur de formules](https://seatable.io/wp-content/uploads/2023/01/example-number.png)                             |
-| Références des colonnes | ![Les références de colonne sont toujours marquées en violet dans une formule ](https://seatable.io/wp-content/uploads/2023/01/example-reference-to-column.png)        |
+| Objet                   | Exemple                                                                                                                        |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Fonctions               | ![Les fonctions sont toujours marquées en bleu dans une formule](images/example-function.png)                                  |
+| Texte / Chaîne          | ![Les textes et les chaînes de caractères sont toujours marqués en rouge dans l'éditeur de formules.](images/example-text.png) |
+| Chiffres                | ![Les nombres sont toujours marqués en vert dans l'éditeur de formules](images/example-number.png)                             |
+| Références des colonnes | ![Les références de colonne sont toujours marquées en violet dans une formule ](images/example-reference-to-column.png)        |
 
 {{< warning headline="Les parenthèses associées sont mises en évidence" text="Lorsque vous cliquez sur une parenthèse ouvrante ou fermante dans l'éditeur de formules, la parenthèse correspondante est également mise en évidence. Cela vous permet de repérer plus facilement les remplacements de parenthèses manquants ou incorrects." />}}
 
-![Les parenthèses ouvrantes et fermantes sont toujours mises en évidence dans l'éditeur de formules.](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+![Les parenthèses ouvrantes et fermantes sont toujours mises en évidence dans l'éditeur de formules.](images/example-brackets.png)
 
 ## Exemples de formules
 
@@ -74,4 +74,4 @@ Vous pouvez bien sûr compter sur le fait que les conventions mathématiques son
 
 Vous pouvez formater les résultats dans la colonne des formules. Chaque formule de SeaTable a pour résultat un **nombre**, une **date** ou un **texte/une chaîne de caractères**. Vous disposez donc de différents **paramètres de formatage** selon le cas.
 
-![Mise en forme des résultats de formules](https://seatable.io/wp-content/uploads/2023/01/Formatierung-von-Formelergebnissen.jpg)
+![Mise en forme des résultats de formules](images/Formatierung-von-Formelergebnissen.jpg)

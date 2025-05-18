@@ -16,7 +16,7 @@ url: '/ru/help/zeitstrahlseiten-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Изменение настроек страницы временной шкалы](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
+![Изменение настроек страницы временной шкалы](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
 В **настройках страницы** вы можете задать графическое представление временных линий. Для этого выберите [цвет строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одного столбца выделения](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), который определяет **цвет блоков**. Вы также можете задать столбец для **маркировки блоков**.
 
@@ -40,7 +40,7 @@ url: '/ru/help/zeitstrahlseiten-in-universellen-apps'
 
 Если вы добавите **группировку**, столбики также можно отобразить в виде **"плавающих линий"**. Для непересекающихся видов деятельности этот вариант просмотра обеспечивает компактное и четкое отображение.
 
-![Группировка на страницах временной шкалы](https://seatable.io/wp-content/uploads/2023/12/Grouping-on-timeline-pages.png)
+![Группировка на страницах временной шкалы](images/Grouping-on-timeline-pages.png)
 
 ## Редактирование или перемещение записи на шкале времени
 
@@ -58,4 +58,4 @@ url: '/ru/help/zeitstrahlseiten-in-universellen-apps'
 
 В нижней части настроек страницы можно ограничить круг лиц, которые могут **просматривать** страницу временной шкалы и **редактировать** записи. Добавлять и удалять строки на страницах временной шкалы нельзя.
 
-![Разрешения для страниц временной шкалы](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Разрешения для страниц временной шкалы](images/Seitenberechtigungen-von-Kalenderseiten.png)

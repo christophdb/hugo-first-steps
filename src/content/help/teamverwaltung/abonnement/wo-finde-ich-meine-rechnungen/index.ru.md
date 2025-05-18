@@ -22,7 +22,7 @@ url: '/ru/help/wo-finde-ich-meine-rechnungen'
 3. Нажмите на **Счета-фактуры**.
 4. Теперь вы можете просматривать все имеющиеся счета-фактуры, а также сортировать их по **статусу оплаты**, **сумме** или **номеру счета-фактуры**.
 
-![Ваши счета в управлении командой SeaTable.](https://seatable.io/wp-content/uploads/2023/01/seatable-rechnungen-teamverwaltung.png)
+![Ваши счета в управлении командой SeaTable.](images/seatable-rechnungen-teamverwaltung.png)
 
 ## Скачать счет-фактуру в формате PDF
 

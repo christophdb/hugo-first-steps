@@ -16,7 +16,7 @@ Gostaria de guardar uma identificação fiscal no SeaTable? Não há problema, i
 
 É possível um depósito da identificação fiscal tanto na **reserva de** uma assinatura como **posteriormente**.
 
-![O ID fiscal pode ser armazenado através do separador Subscrição na administração da equipa](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-Steuer-ID.png)
+![O ID fiscal pode ser armazenado através do separador Subscrição na administração da equipa](images/Hinterlegen-einer-Steuer-ID.png)
 
 1. Abrir a **administração da equipa**.
 2. Mudar para a secção **Assinatura**.
@@ -30,7 +30,7 @@ Depois de submeter o formulário, o seu ID fiscal é automaticamente verificado 
 
 Só quando a verificação tiver sido bem sucedida é que a identificação fiscal se tornará efectiva e será utilizada em futuras facturas. A pré-visualização do montante da factura futura também só é ajustada quando o ID fiscal tiver sido verificado como válido.
 
-![Tratamento fiscal na gestão da equipa do SeaTable.](https://seatable.io/wp-content/uploads/2023/01/steuerliche-Behandlung.png)
+![Tratamento fiscal na gestão da equipa do SeaTable.](images/steuerliche-Behandlung.png)
 
 ## Perguntas mais frequentes sobre a identificação fiscal
 

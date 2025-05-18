@@ -1,11 +1,11 @@
 ---
-title: "Freigabe einer Ansicht an ein Teammitglied"
+title: 'Freigabe einer Ansicht an ein Teammitglied'
 date: 2022-10-26
-lastmod: "2022-12-19"
-categories: 
-  - "freigaben"
-author: "nsc2"
-url: "/de/hilfe/freigabe-einer-ansicht-an-ein-teammitglied"
+lastmod: '2022-12-19'
+categories:
+    - 'freigaben'
+author: 'nsc2'
+url: '/de/hilfe/freigabe-einer-ansicht-an-ein-teammitglied'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}
@@ -16,7 +16,7 @@ Wenn Sie einem anderen Benutzer Bearbeitungsrechte an einer geteilten Ansicht ge
 
 ## Freigabe einer Ansicht an ein Teammitglied
 
-![Freigabe einer Ansicht an ein Teammitglied](https://seatable.io/wp-content/uploads/2022/10/sharing-a-view-with-a-team-member-1.gif)
+![Freigabe einer Ansicht an ein Teammitglied](images/sharing-a-view-with-a-team-member-1.gif)
 
 1. Öffnen Sie die **Ansicht** einer Tabelle, die Sie freigeben möchten.
 2. Klicken Sie auf **Ansicht teilen** und wählen Sie anschließend **Freigabe für Benutzer**.
@@ -26,7 +26,7 @@ Wenn Sie einem anderen Benutzer Bearbeitungsrechte an einer geteilten Ansicht ge
 
 Haben Sie die Ansicht erfolgreich an einen anderen Benutzer freigegeben, erscheint diese auf dessen Startseite unter dem Reiter **Für mich freigegeben**:
 
-![Geteilte Ansichten auf der Startseite](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-11-10-17-01-26.png)
+![Geteilte Ansichten auf der Startseite](images/Screenshot-from-2022-11-10-17-01-26.png)
 
 Öffnet ein Benutzer eine mit ihm geteilte Ansicht, kann diese beispielsweise folgendermaßen aussehen:
 
@@ -36,7 +36,7 @@ Haben Sie die Ansicht erfolgreich an einen anderen Benutzer freigegeben, erschei
 
 Wenn Sie eine Tabellenansicht nicht mehr mit einem anderen Benutzer teilen wollen, können Sie die Freigabe problemlos wieder löschen:
 
-![Auflösen einer geteilten Ansicht.](https://seatable.io/wp-content/uploads/2022/10/resolve-a-split-view.gif)
+![Auflösen einer geteilten Ansicht.](images/resolve-a-split-view.gif)
 
 1. Öffnen Sie die **Ansicht** einer Tabelle, die Sie an einen anderen Benutzer freigegeben haben.
 2. Klicken Sie auf **Ansicht teilen**.
@@ -46,7 +46,7 @@ Wenn Sie eine Tabellenansicht nicht mehr mit einem anderen Benutzer teilen wolle
 
 In einer Base gibt es insgesamt zwei **Sharing-Icons**, mit denen Sie entweder eine gesamte Base oder eine einzelne Tabellenansicht freigeben können. Entsprechend ihrer Funktion finden Sie diese Icons entweder im Bereich **Base-Optionen** (hier farbig hinterlegt) oder im Bereich **Ansichts-Optionen** (hier weiß):
 
-![Sharing-Icons in einer Base](https://seatable.io/wp-content/uploads/2022/10/share-icons-new-1.png)
+![Sharing-Icons in einer Base](images/share-icons-new-1.png)
 
 ### Freigabe einer Base
 

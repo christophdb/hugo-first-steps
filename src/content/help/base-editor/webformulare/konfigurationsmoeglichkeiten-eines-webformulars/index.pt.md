@@ -47,7 +47,7 @@ Especialmente para empresas e organizações, pode ser interessante individualiz
 
 Pode marcar o seu formulário com o seu **logótipo**.
 
-![Alterar o logótipo no formulário web](https://seatable.io/wp-content/uploads/2023/01/webformular.png)
+![Alterar o logótipo no formulário web](images/webformular.png)
 
 Também tem a opção de ajustar a **barra de cor** superior. Para o fazer, clicar no **esquema de cores** no canto superior direito ao lado de Settings.
 

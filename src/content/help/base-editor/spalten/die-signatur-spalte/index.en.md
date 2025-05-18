@@ -34,13 +34,13 @@ Digital signatures are very well suited for data capture using [web forms]({{< r
 
 To save a signature entered in the panel, simply click **Save**. The signature entered in the panel is then saved in the cell and can be called up at any time by double-clicking.
 
-![Signature stored in a signature column ](https://seatable.io/wp-content/uploads/2023/06/stored-signatur-in-cell-1.png)
+![Signature stored in a signature column ](images/stored-signatur-in-cell-1.png)
 
 ## Change a digital signature
 
 If you are not satisfied with your deposited signature and want to sign again, simply click on **Sign again**. Note that this will overwrite the entire signature you entered. It is **not** possible to change individual parts of your signature.
 
-![Sign again in the signature panel](https://seatable.io/wp-content/uploads/2023/06/resign.jpg)
+![Sign again in the signature panel](images/resign.jpg)
 
 {{< warning  headline="File not deleted"  text="However, the original signature remains available in the Base [file manager](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) as a PNG file if you have already saved it." />}}
 
@@ -48,8 +48,8 @@ If you are not satisfied with your deposited signature and want to sign again, s
 
 Each stored signature is also saved in the [file management](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) of your Base as a PNG file in a **system folder**.
 
-![Folder in the file management of your Base where your signatures are stored ](https://seatable.io/wp-content/uploads/2023/06/stored-signatures-in-filemanagement.jpg)
+![Folder in the file management of your Base where your signatures are stored ](images/stored-signatures-in-filemanagement.jpg)
 
 From there you can both **download** and **delete** your signatures.
 
-![](https://seatable.io/wp-content/uploads/2023/06/Bild-06.06.23-um-19.18-511x87.jpg)
+![](images/Bild-06.06.23-um-19.18-511x87.jpg)

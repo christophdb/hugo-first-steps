@@ -47,7 +47,7 @@ Especialmente para empresas y organizaciones puede ser interesante individualiza
 
 Puede marcar su formulario con su **logotipo**.
 
-![Cambiar logotipo en el formulario web](https://seatable.io/wp-content/uploads/2023/01/webformular.png)
+![Cambiar logotipo en el formulario web](images/webformular.png)
 
 También tiene la posibilidad de ajustar la **barra de colores** superior. Para ello, haz clic en **Combinación de colores** en la esquina superior derecha, junto a Configuración.
 

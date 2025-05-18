@@ -29,7 +29,7 @@ If you select this event as a trigger, the corresponding automation will be fire
 
 In the conditions, you can specify individually for each **column** what the corresponding **value** **must look like** after editing in order to trigger the automation. In the course of this, you can decide whether **all** or only **selected** columns of the table view are to be monitored for the occurrence of the trigger event.
 
-![Entries meet certain conditions after the change](https://seatable.io/wp-content/uploads/2023/01/Automation-trigger-records-meet-specific-conditions-after-modification.png)
+![Entries meet certain conditions after the change](images/Automation-trigger-records-meet-specific-conditions-after-modification.png)
 
 If you select the event "Entries meet certain conditions after editing" as a trigger of an automation, the following **automatic actions** are available for selection:
 

@@ -32,7 +32,7 @@ A Universal App consists of several **pages** that you can group into **folders*
 
 To prepare the data in your Base in an appealing way, the Universal App offers a variety of [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) with different design elements.
 
-![Page Types Universal App](https://seatable.io/wp-content/uploads/2023/05/Seitentypen-Universal-App.png)
+![Page Types Universal App](images/Seitentypen-Universal-App.png)
 
 ## Preview of a Universal App
 
@@ -42,7 +42,7 @@ When designing a universal app, you'll want to test how the app looks to users i
 
 Within a Universal App, you can make various **global settings**. For example, you can change the **name**, **color**, and **URL of** your app. You can make the desired adjustments with just a few clicks via the **app settings**.
 
-![Opening the app settings of the Universal App](https://seatable.io/wp-content/uploads/2023/05/global-settings-universal-app.png)
+![Opening the app settings of the Universal App](images/global-settings-universal-app.png)
 
 [Learn more about the global settings of the Universal App here.](https://seatable.io/en/docs/apps/einstellungen-einer-universellen-app-aendern/)
 
@@ -54,7 +54,7 @@ The **version management** of each app offers you the option of saving snapshots
 
 To precisely control access to your data, you can set **individual page permissions for** **each page** you have added to a Universal App. Editing page permissions is always done through the **page settings**, which you can access via the gear icon {{< seatable-icon icon="dtable-icon-set-up" >}}.
 
-![Open the page settings](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Open the page settings](images/page-permissions-universal-app.png)
 
 [Learn more about the different page permissions in the Universal App here.](https://seatable.io/en/docs/apps/seitenberechtigungen-in-einer-universellen-app/)
 
@@ -62,7 +62,7 @@ To precisely control access to your data, you can set **individual page permissi
 
 Add new users, create and assign roles - in the **user and role management of** a Universal App you can perform various administrative activities.
 
-![User and role management of a universal app](https://seatable.io/wp-content/uploads/2023/05/open-user-and-role-management-1.png)
+![User and role management of a universal app](images/open-user-and-role-management-1.png)
 
 [Learn more about the user and role management of the Universal App here.](https://seatable.io/en/docs/apps/benutzer-und-rollenverwaltung-einer-universellen-app/)
 

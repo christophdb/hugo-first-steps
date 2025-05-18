@@ -12,7 +12,7 @@ En SeaTable, no tienes que preocuparte por perder tus datos. Incluso las tablas 
 
 ## Restaurar una tabla eliminada
 
-![Restaurar tablas](https://seatable.io/wp-content/uploads/2022/10/Wiederherstellung-von-Tabellen.png)
+![Restaurar tablas](images/Wiederherstellung-von-Tabellen.png)
 
 2. Haga clic en **Versiones** en la esquina superior derecha de las opciones de la Base.
 3. Abre la **papelera de reciclaje**.
@@ -33,7 +33,7 @@ Cuando recuperas una tabla de la papelera de reciclaje, se restaura exactamente 
 
 {{< warning headline="Los enlaces a la tabla eliminada deben restaurarse por separado" text="Uno de los puntos fuertes de SeaTable es su capacidad para enlazar tablas. Si elimina una tabla, desaparecen todas las columnas de enlace que tenían como destino esta tabla eliminada. Si ahora restaura la tabla original, las columnas de enlace no se recrean automáticamente, pero éstas también pueden restaurarse desde la papelera. Así no se pierde información." />}}
 
-![Restauración de una columna de enlaces eliminada](https://seatable.io/wp-content/uploads/2022/10/restore-deleted-link-column.png)
+![Restauración de una columna de enlaces eliminada](images/restore-deleted-link-column.png)
 
 ## Más artículos útiles sobre la recuperación de datos
 

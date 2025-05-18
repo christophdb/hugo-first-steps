@@ -27,7 +27,7 @@ Wenn Sie lediglich **einzelne Spalten** Ihrer Tabelle für die Bearbeitung sperr
 
 {{< warning headline="Wichtiger Hinweis" text="Verwechseln Sie diese Funktion nicht mit dem **Schloss-Symbol in den Ansichts-Optionen**, mit dem Sie die Einstellungen einer [Tabellenansicht sperren](https://seatable.io/docs/ansichtsoptionen/ansicht-sperren/) können." />}}
 
-![Schloss-Symbol](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Schloss-Symbol](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)
 
 Bitte beachten Sie, dass der Kopf von Tabellen, die zu einer Gruppe gehören, ausschließlich von **Eigentümern** und **Administratoren** gesperrt werden kann. Einfache Gruppenmitglieder sind zur Sperrung **nicht** berechtigt und bekommen bei einem Klick auf das Schloss-Symbol folgenden Hinweis angezeigt:
 

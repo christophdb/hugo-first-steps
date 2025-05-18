@@ -30,7 +30,7 @@ The latest version of SeaTable offers a total of **eleven** different automation
 - Run Python script
 - Execute data processing operation
 
-![Execute automation action data processing operation](https://seatable.io/wp-content/uploads/2023/01/updated-automated-actions-e1707744604838.png)
+![Execute automation action data processing operation](images/updated-automated-actions-e1707744604838.png)
 
 ## Automation action: Send notification
 

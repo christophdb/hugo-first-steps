@@ -12,7 +12,7 @@ La fonction de regroupement permet de **regrouper** les entrées du tableau et d
 
 ## Regrouper des entrées dans une vue
 
-![Regrouper des entrées dans une vue](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
+![Regrouper des entrées dans une vue](images/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
 1. Créez une [nouvelle vue]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou sélectionnez la vue dans laquelle vous souhaitez effectuer le regroupement.
 2. Dans les options d'affichage, cliquez sur l'option **Grouper** au-dessus du tableau.
@@ -32,7 +32,7 @@ En ajoutant d'autres regroupements, vous pouvez **regrouper selon jusqu'à trois
 
 Chaque groupe a un en-tête dans lequel sont mentionnés le critère du groupe ainsi que le nombre d'entrées au sein du groupe.
 
-![L'en-tête du groupe](https://seatable.io/wp-content/uploads/2022/10/gruppierung.png)
+![L'en-tête du groupe](images/gruppierung.png)
 
 Pour les **colonnes de chiffres**, vous avez en outre la possibilité de représenter différentes relations entre les entrées :
 
@@ -59,21 +59,21 @@ Les options **Réduire tout** ou **Développer** tout permettent de réduire et 
 
 Vous trouverez ici l'option **Réduire tout**:
 
-![Réduire tout](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_6.png)
+![Réduire tout](images/gruppieren-von-eintraegrn_6.png)
 
 **Réduire** l'affichage avec l'option **Tous** activée :
 
-![Exemple pour toutes les réductions pour les groupements](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_1-1.png)
+![Exemple pour toutes les réductions pour les groupements](images/gruppieren-von-eintraegrn_1-1.png)
 
 ### Élargir tout
 
 Vous trouverez ici l'option **Étendre tout**:
 
-![Regroupement Étendre l'option à tous](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_7-1.png)
+![Regroupement Étendre l'option à tous](images/gruppieren-von-eintraegrn_7-1.png)
 
 **Développer** l'affichage avec l'option **Tout** activée :
 
-![Exemple de toutes les extensions pour les groupements](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_3-1.png)
+![Exemple de toutes les extensions pour les groupements](images/gruppieren-von-eintraegrn_3-1.png)
 
 ## Déplacer des entrées vers un autre groupe
 
@@ -85,4 +85,4 @@ Vous pouvez affecter des entrées individuelles à de nouveaux groupes en les fa
 
 Vous pouvez bien sûr supprimer des regroupements à tout moment en cliquant sur le **symbole x** devant le regroupement concerné.
 
-![Supprimer un regroupement](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-loeschen.png)
+![Supprimer un regroupement](images/Gruppierung-loeschen.png)

@@ -19,11 +19,11 @@ No exemplo concreto, o objetivo é utilizar uma fórmula para registar automatic
 
 Para o fazer, comece por adicionar uma **coluna de fórmula** à tabela, em cujo editor pode então inserir a **fórmula**.
 
-![Adicionar a coluna da fórmula e introduzir a fórmula no editor](https://seatable.io/wp-content/uploads/2023/01/Hinzufuegen-der-Formel-Spalte-und-Eingabe-der-Formel-im-Editor.png)
+![Adicionar a coluna da fórmula e introduzir a fórmula no editor](images/Hinzufuegen-der-Formel-Spalte-und-Eingabe-der-Formel-im-Editor.png)
 
 Para recolher automaticamente a saudação específica do género dos clientes na coluna da fórmula, comece por adicionar um operador **if** à fórmula. Este operador encontra-se no editor de fórmulas, no separador **Funções lógicas**. Os operadores se **verificam** se a entrada numa coluna selecionada corresponde às condições definidas antecipadamente e devolvem um **valor** correspondente, dependendo do resultado positivo ou negativo.
 
-![Adicionando um Se operador à fórmula](https://seatable.io/wp-content/uploads/2023/01/add-if-operator.jpg)
+![Adicionando um Se operador à fórmula](images/add-if-operator.jpg)
 
 Na etapa seguinte, define-se as **condições** que devem ser aplicadas na coluna desejada para que a coluna de fórmula seja automaticamente preenchida com os valores correspondentes.
 
@@ -31,7 +31,7 @@ Para tal, é necessário referir primeiro a **coluna** de betão na qual a condi
 
 {{< warning  headline="Dica"  text="Os **nomes das colunas** na tabela aberta são apresentados à esquerda no **editor de fórmulas** e podem ser inseridos na fórmula com um **duplo clique**." />}}
 
-![Referência à coluna em que as condições definidas devem ocorrer](https://seatable.io/wp-content/uploads/2023/01/Verweis-auf-die-Spalte-in-der-die-definierten-Bedingungen-eintreten-muessen.png)
+![Referência à coluna em que as condições definidas devem ocorrer](images/Verweis-auf-die-Spalte-in-der-die-definierten-Bedingungen-eintreten-muessen.png)
 
 Primeiro, defina um **operador** desejado diretamente atrás da coluna "Género". Se a coluna tiver de conter um valor exato, utilize o operador **\=** (é igual a), por exemplo. Também pode encontrar os operadores à esquerda no editor de fórmulas.
 

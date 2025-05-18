@@ -20,7 +20,7 @@ In SeaTable you have the possibility to **import** **CSV** as well as **Excel fi
 
 Problems often occur when importing Excel files if they contain **structures** and contents that do **not belong to the table**. The following graphic shows such a case. The heading, the date and the columns A and D do not belong to the table and must be removed before the import.
 
-![Excel list with bad elements](https://seatable.io/wp-content/uploads/2022/10/tipps-import.png)
+![Excel list with bad elements](images/tipps-import.png)
 
 **Graphics** are also not taken into account during an import and should therefore be deleted before the import attempt.
 

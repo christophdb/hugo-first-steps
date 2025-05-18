@@ -12,7 +12,7 @@ A função de ordenação permite exibir as entradas não ordenadas numa tabela,
 
 ## Ordenar as entradas numa vista
 
-![Classificação de entradas](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
+![Classificação de entradas](images/Sortierung-von-Eintraegen-2.gif)
 
 1. Crie uma [nova vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou seleccione a vista que pretende ordenar.
 2. Clique na opção **Classificar** nas opções de visualização acima da tabela.
@@ -28,18 +28,18 @@ As colunas contendo sequências de letras, tais como **texto** ou **e-mail**, s�
 
 Pode apagar um tipo criado clicando no **símbolo x**.
 
-![Eliminar a ordenação das entradas numa vista](https://seatable.io/wp-content/uploads/2022/10/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
+![Eliminar a ordenação das entradas numa vista](images/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
 
 ## Acrescentar linhas depois
 
 Um tipo activado é automaticamente aplicado às linhas recém-adicionadas.
 
-![Classificação de entradas](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-1-1.gif)
+![Classificação de entradas](images/Sortierung-von-Eintraegen-1-1.gif)
 
 ## Aplicar vários tipos
 
 Ao aplicar ordenações múltiplas, é possível ordenar registos que tenham a **mesma entrada** numa ordenação anterior. Por exemplo, pode começar por ordenar uma lista de empregados pelas opções "mulheres", "homens", "diversos" utilizando uma única coluna de seleção e, em seguida, ordenar os nomes das mulheres, dos homens e dos diversos por ordem alfabética utilizando uma coluna de texto.
 
-![Vários sortimentos](https://seatable.io/wp-content/uploads/2022/10/Mehrere-Sortierungen.png)
+![Vários sortimentos](images/Mehrere-Sortierungen.png)
 
 {{< warning  headline="Nota"  text="Se utilizar **plug-ins** tais como a galeria ou o quadro Kanban, as ordenações também afectam a ordem das entradas." />}}

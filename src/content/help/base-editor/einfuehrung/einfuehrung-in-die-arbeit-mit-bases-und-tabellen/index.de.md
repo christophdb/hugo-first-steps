@@ -10,7 +10,7 @@ url: '/de/hilfe/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 
 Jedes der quadratischen Symbole auf Ihrer Startseite steht für eine **Base**. Sie ist eine Datenbank, vergleichbar mit einer Arbeitsmappe in einer herkömmlichen Tabellenkalkulation und kann mehrere **Tabellen** zu verschiedenen Themen enthalten.
 
-![Base Übersicht in SeaTable](https://seatable.io/wp-content/uploads/2023/01/base-overview.png)
+![Base Übersicht in SeaTable](images/base-overview.png)
 
 Eine Base stellt eine abgeschlossene **Einheit** in SeaTable dar. Deshalb sollte sie alle Informationen enthalten, die Sie für ein bestimmtes Projekt oder einen bestimmten Prozess benötigen.
 

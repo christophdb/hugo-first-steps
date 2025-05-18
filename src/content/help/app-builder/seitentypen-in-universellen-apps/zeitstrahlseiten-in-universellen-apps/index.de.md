@@ -16,7 +16,7 @@ Dieser Seitentyp weist große Ähnlichkeit zum [Timeline-Plugin](https://seatabl
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der Zeitstrahlseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
+![Einstellungen der Zeitstrahlseite ändern](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
 In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
 
@@ -40,7 +40,7 @@ Die Nutzer können sich mehr Informationen zu einem Eintrag anzeigen lassen, ind
 
 Wenn Sie eine **Gruppierung** hinzufügen, dann kann die Anzeige der Balken auch in **Swimlanes** erfolgen. Bei nicht überlappenden Aktivitäten führt diese Ansichtsoption zu einer kompakten, übersichtlichen Darstellung.
 
-![Grouping on timeline pages](https://seatable.io/wp-content/uploads/2023/12/Grouping-on-timeline-pages.png)
+![Grouping on timeline pages](images/Grouping-on-timeline-pages.png)
 
 ## Eintrag auf dem Zeitstrahl bearbeiten oder verschieben
 
@@ -58,4 +58,4 @@ Zudem können Sie Einträge auf dem Zeitstrahl komfortabel **per Drag-and-Drop v
 
 Ganz unten in den Seiteneinstellungen können Sie eingrenzen, wer die Zeitstrahlseite **sehen** und Einträge **bearbeiten** darf. Über Zeitstrahlseiten können Sie keine Zeilen hinzufügen oder löschen.
 
-![Seitenberechtigungen von Zeitstrahlseiten](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Seitenberechtigungen von Zeitstrahlseiten](images/Seitenberechtigungen-von-Kalenderseiten.png)

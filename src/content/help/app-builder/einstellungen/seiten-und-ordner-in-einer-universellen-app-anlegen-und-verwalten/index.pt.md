@@ -25,15 +25,15 @@ Numa aplicação universal, pode criar tantas **páginas** e **pastas** quantas 
 
 6. Clique em **Adicionar página ou Adicionar pasta** e seleccione **Adicionar página**.
 
-![Adicionar página de aplicação](https://seatable.io/wp-content/uploads/2023/05/Add-app-page.png)
+![Adicionar página de aplicação](images/Add-app-page.png)
 
 8. Selecione um dos [tipos de página](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/) e clique em **Seguinte**.
 
-![Adicionar página de aplicação e selecionar o tipo de página](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-select-page-type.png)
+![Adicionar página de aplicação e selecionar o tipo de página](images/Add-app-page-and-select-page-type.png)
 
 10. Dê um **nome** à página, defina a **tabela** subjacente e, opcionalmente, especifique um **ícone** para a página.
 
-![Adicionar página de aplicação e preencher os dados](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-fill-in-details.png)
+![Adicionar página de aplicação e preencher os dados](images/Add-app-page-and-fill-in-details.png)
 
 12. Confirmar com **Submeter**.
 
@@ -63,7 +63,7 @@ Se já tiver criado uma **pasta** na sua aplicação universal, pode mover as su
 
 Em alternativa, também pode mover páginas **utilizando a função arrastar e largar**. Para tal, mantenha premido o botão do rato sobre os **seis pontos** em frente ao ícone da página, arraste a página na navegação para a posição pretendida e solte-a.
 
-![Mover páginas de uma Aplicação Universal através de arrastar e largar](https://seatable.io/wp-content/uploads/2023/05/move-pages-via-drag-and-drop.gif)
+![Mover páginas de uma Aplicação Universal através de arrastar e largar](images/move-pages-via-drag-and-drop.gif)
 
 ## Criar uma nova pasta numa aplicação universal
 
@@ -80,11 +80,11 @@ Se houver um grande número de páginas, **as pastas** são úteis para agrupar 
 
 6. Clique em **Adicionar página ou Adicionar pasta** e, em seguida, seleccione **Adicionar pasta**.
 
-![Adicionar pasta à aplicação universal](https://seatable.io/wp-content/uploads/2023/05/Add-folder-in-Universal-Apps.png)
+![Adicionar pasta à aplicação universal](images/Add-folder-in-Universal-Apps.png)
 
 8. **Dê um nome à** pasta e, opcionalmente, seleccione um **ícone** adequado para a mesma.
 
-![Adicionar nova pasta à aplicação](https://seatable.io/wp-content/uploads/2023/05/Add-new-folder-to-app.png)
+![Adicionar nova pasta à aplicação](images/Add-new-folder-to-app.png)
 
 10. Confirmar com **Submeter**.
 
@@ -92,22 +92,22 @@ Se houver um grande número de páginas, **as pastas** são úteis para agrupar 
 
 Se já tiver criado uma pasta na sua aplicação universal, pode clicar nos **três pontos** desta pasta e **adicionar** uma **página** diretamente.
 
-![Adicionar páginas a uma pasta na Aplicação Universal](https://seatable.io/wp-content/uploads/2023/05/add-page-via-folder-to-universal-app.png)
+![Adicionar páginas a uma pasta na Aplicação Universal](images/add-page-via-folder-to-universal-app.png)
 
 ## Editar o nome e o ícone de uma pasta
 
 Pode **mudar o nome** das pastas na sua Universal App em qualquer altura utilizando os **três pontos**. Também pode personalizar o **ícone da** sua pasta desta forma.
 
-![Personalizar o nome e o ícone de uma pasta na sua aplicação universal](https://seatable.io/wp-content/uploads/2023/05/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
+![Personalizar o nome e o ícone de uma pasta na sua aplicação universal](images/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
 
 ## Eliminar a pasta
 
 Pode **eliminar** as pastas que já não são necessárias na sua aplicação universal em qualquer altura. Tenha em atenção que **todas as páginas** da pasta também serão **eliminadas**. A eliminação é definitiva. Isto significa que nem a pasta nem as páginas individuais podem **ser** restauradas posteriormente.
 
-![Eliminar uma pasta na sua Universal App](https://seatable.io/wp-content/uploads/2023/05/delete-folder-in-your-universal-app-new.png)
+![Eliminar uma pasta na sua Universal App](images/delete-folder-in-your-universal-app-new.png)
 
 ## Mover pasta
 
 Só é possível mover pastas **por arrastar e largar**. Para tal, mantenha premido o botão do rato sobre os **seis pontos** em frente ao ícone da pasta, arraste a pasta na navegação para a localização pretendida e solte-a.
 
-![Mover pastas na Universal App arrastando e largando](https://seatable.io/wp-content/uploads/2023/05/move-folders-in-the-universal-app-via-drag-and-drop.gif)
+![Mover pastas na Universal App arrastando e largando](images/move-folders-in-the-universal-app-via-drag-and-drop.gif)

@@ -16,7 +16,7 @@ Se conceder a outro utilizador direitos de edição a uma visão partilhada, ele
 
 ## Partilhar uma visão com um membro da equipa
 
-![Partilhar uma visão com um membro da equipa](https://seatable.io/wp-content/uploads/2022/10/sharing-a-view-with-a-team-member-1.gif)
+![Partilhar uma visão com um membro da equipa](images/sharing-a-view-with-a-team-member-1.gif)
 
 1. Abra a **vista de** uma mesa que deseja partilhar.
 2. Clique em **Share View** e depois seleccione Share with **User**.
@@ -26,7 +26,7 @@ Se conceder a outro utilizador direitos de edição a uma visão partilhada, ele
 
 Se partilhou com sucesso a visão com outro utilizador, esta aparece na sua página inicial sob o separador **Partilhado comigo**:
 
-![Vistas divididas na página inicial](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-11-10-17-01-26.png)
+![Vistas divididas na página inicial](images/Screenshot-from-2022-11-10-17-01-26.png)
 
 Se um utilizador abre uma visão que foi partilhada com ele, pode ser assim, por exemplo:
 
@@ -36,7 +36,7 @@ Se um utilizador abre uma visão que foi partilhada com ele, pode ser assim, por
 
 Se já não quiser partilhar uma vista de tabela com outro utilizador, pode apagar facilmente a partilha novamente:
 
-![Resolver uma visão dividida.](https://seatable.io/wp-content/uploads/2022/10/resolve-a-split-view.gif)
+![Resolver uma visão dividida.](images/resolve-a-split-view.gif)
 
 1. Abra a **vista de** uma tabela que tenha partilhado com outro utilizador.
 2. Clique em **Share View**.
@@ -46,7 +46,7 @@ Se já não quiser partilhar uma vista de tabela com outro utilizador, pode apag
 
 Numa base há um total de dois **ícones de partilha** com os quais se pode partilhar tanto uma vista de base inteira como uma vista de mesa individual. Dependendo da sua função, encontrará estes ícones ou na área das **Opções Base** (aqui com fundo colorido) ou na área das **Opções de Visualização** (aqui branco):
 
-![Partilha de ícones numa base](https://seatable.io/wp-content/uploads/2022/10/share-icons-new-1.png)
+![Partilha de ícones numa base](images/share-icons-new-1.png)
 
 ### Lançamento de uma base
 

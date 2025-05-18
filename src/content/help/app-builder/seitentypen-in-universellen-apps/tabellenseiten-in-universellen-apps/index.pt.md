@@ -16,7 +16,7 @@ Pode utilizar este tipo de página para [adicionar](https://seatable.io/pt/docs/
 
 Se pretender alterar as definições de uma página, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondente na barra de navegação.
 
-![Abrir as definições da página](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Abrir as definições da página](images/page-permissions-universal-app.png)
 
 Ao editar páginas de tabela, é possível definir várias **configurações de página** para personalizar os dados apresentados da tabela subjacente precisamente para um grupo de utilizadores.
 

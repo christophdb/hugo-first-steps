@@ -16,7 +16,7 @@ Avec ce type de page, vous pouvez laisser libre cours à votre créativité et c
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Modifier les paramètres de la page individuelle](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-individuellen-Seite-aendern.png)
+![Modifier les paramètres de la page individuelle](images/Einstellungen-der-individuellen-Seite-aendern.png)
 
 Les **paramètres de page** vous permettent d'ajouter différents **éléments** à votre page par glisser-déposer.
 

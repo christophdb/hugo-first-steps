@@ -14,7 +14,7 @@ Welche Schritte nötig sind, um ein E-Mail-Konto einer Base hinzuzufügen, und w
 
 ## Ein E-Mail-Konto in Ihrer Base einrichten
 
-![Integration von Drittanbietern über die erweiterten Base-Optionen](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Integration von Drittanbietern über die erweiterten Base-Optionen](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Öffnen Sie die erweiterten Base-Optionen mit einem Klick auf das **Drei-Punkte-Icon** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Wählen Sie die Option **Integration von Drittanbietern**.
@@ -36,11 +36,11 @@ Nachdem Sie Ihrer Base erfolgreich ein E-Mail-Konto hinzugefügt haben, wird Ihn
 
 Klicken Sie dafür rechts neben Ihrem eingerichteten E-Mail-Konto auf das **Briefumschlag-Symbol**.
 
-![An email account configured in a SeaTable base](https://seatable.io/wp-content/uploads/2023/03/Configured_email_account.png)
+![An email account configured in a SeaTable base](images/Configured_email_account.png)
 
 Definieren Sie anschließend **Betreff**, **Empfänger** und **Inhalt** der Test-E-Mail. Sie können sich beispielsweise selbst eine E-Mail an Ihre eigene E-Mail-Adresse schicken.
 
-![Test email account configuration](https://seatable.io/wp-content/uploads/2023/03/Testing_email_account_configuration.png)
+![Test email account configuration](images/Testing_email_account_configuration.png)
 
 Wurde erfolgreich eine Verbindung zum E-Mail-Server aufgebaut, dann erscheint eine knappe Erfolgsmeldung und in dem angegebenen Empfängerpostfach sollte eine E-Mail vom konfigurierten E-Mail-Konto eingehen.
 

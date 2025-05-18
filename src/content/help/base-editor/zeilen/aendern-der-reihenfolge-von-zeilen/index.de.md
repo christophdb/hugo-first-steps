@@ -12,7 +12,7 @@ Die Reihenfolge der Zeilen können Sie **per Drag-and-Drop** verändern. Wenn Si
 
 ## So ändern Sie die Reihenfolge von Zeilen
 
-![Ändern der Reihenfolge von Zeilen](https://seatable.io/wp-content/uploads/2022/10/Aendern-der-Reihenfolge-von-Zeilen-3.gif)
+![Ändern der Reihenfolge von Zeilen](images/Aendern-der-Reihenfolge-von-Zeilen-3.gif)
 
 1. Klicken Sie in das **Nummerierungsfeld** der Zeile, die Sie verschieben wollen, und halten Sie die Maustaste **gedrückt**.
 2. Ziehen Sie die Zeile an die gewünschte Position. Ein **schwarzer Strich** zeigt Ihnen an, wohin die Zeile springen wird.
@@ -22,6 +22,6 @@ Die Reihenfolge der Zeilen können Sie **per Drag-and-Drop** verändern. Wenn Si
 
 Sie können auch **mehrere Zeilen** gleichzeitig verschieben. Wählen Sie hierfür zunächst die Zeilen aus. Wie das geht, erklärt der Artikel [Mehrere Zeilen selektieren]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}). Die Zeilen verschieben Sie dann genauso wie eine einzelne Zeile.
 
-![Zeilen gleichzeitig verschieben](https://seatable.io/wp-content/uploads/2022/10/Zeilen-gleichzeitig-verschieben-1.gif)
+![Zeilen gleichzeitig verschieben](images/Zeilen-gleichzeitig-verschieben-1.gif)
 
 {{< warning  type="warning" headline="Achtung"  text="Wenn in einer Spalte eine [Sortierung](\"https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/\") (aufsteigend/absteigend) wirkt, dann können Sie die Einträge zwar verschieben, aber die Reihenfolge wird sofort wieder korrigiert." />}}

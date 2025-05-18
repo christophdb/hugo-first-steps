@@ -16,7 +16,7 @@ Ce type de page, qui fonctionne de la même manière que l'[application de requ�
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Modifier les paramètres de la page d'interrogation](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Abfrageseite-aendern.png)
+![Modifier les paramètres de la page d'interrogation](images/Einstellungen-der-Abfrageseite-aendern.png)
 
 ## Filtres prédéfinis, tris et colonnes masquées
 
@@ -50,7 +50,7 @@ Vous pouvez ajouter une **note** d'introduction à votre page d'interrogation, q
 
 Pour pouvoir utiliser cette fonction, vous devez **activer** le curseur dans les paramètres de la page sous **Si le résultat de la requête est modifiable**.
 
-![Rendre le résultat de la requête modifiable](https://seatable.io/wp-content/uploads/2023/12/Abfrageergebnis-bearbeitbar-machen.png)
+![Rendre le résultat de la requête modifiable](images/Abfrageergebnis-bearbeitbar-machen.png)
 
 Ensuite, tous les utilisateurs ayant accès à la page de requête peuvent **traiter** les **enregistrements** recherchés.
 

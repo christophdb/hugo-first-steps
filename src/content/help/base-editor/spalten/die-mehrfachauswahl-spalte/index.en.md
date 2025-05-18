@@ -27,7 +27,7 @@ Adding options to a multi-selection column works in the **same way as for a sing
 
 Currently, 24 colors are available to visually highlight the respective options.
 
-![Colors of the single selection column](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Colors of the single selection column](images/farben-einfachauswahl.png)
 
 With an [Enterprise subscription](https://seatable.io/en/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), you also have the ability to create [custom colors](https://seatable.io/en/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) for your multiple selection options.
 

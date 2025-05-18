@@ -16,11 +16,11 @@ Pode utilizar este tipo de página para apresentar **imagens** e outros dados qu
 
 Se pretender alterar as definições de uma página, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondente na barra de navegação.
 
-![Alterar as definições da página da galeria](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Alterar as definições da página da galeria](images/Einstellungen-der-Galerieseite-aendern.png)
 
 Nas **definições da página**, pode selecionar a **tabela**, a **coluna da imagem** e a **coluna do título** a partir das quais a galeria é alimentada.
 
-![Definições de página da página da galeria em aplicações universais](https://seatable.io/wp-content/uploads/2023/12/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
+![Definições de página da página da galeria em aplicações universais](images/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
 
 ## Filtros predefinidos, ordenação e colunas ocultas
 

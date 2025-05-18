@@ -33,6 +33,6 @@ Vous pouvez également consulter à tout moment l'état actuel de votre applicat
 
 3. Cliquez sur l'**icône** en **forme d'œil** en haut à gauche de la page.
 
-![Ouvrir l'aperçu d'une application universelle](https://seatable.io/wp-content/uploads/2023/05/open-app-preview-of-the-universal-app.png)
+![Ouvrir l'aperçu d'une application universelle](images/open-app-preview-of-the-universal-app.png)
 
 5. L'**aperçu de l'application** s'ouvre alors dans une nouvelle fenêtre.

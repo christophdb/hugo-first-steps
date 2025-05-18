@@ -33,6 +33,6 @@ url: '/ru/help/die-vorschau-einer-app-anzeigen-lassen'
 
 3. Нажмите на **символ глаза** в левом верхнем углу страницы.
 
-![Открытие предварительного просмотра универсального приложения](https://seatable.io/wp-content/uploads/2023/05/open-app-preview-of-the-universal-app.png)
+![Открытие предварительного просмотра универсального приложения](images/open-app-preview-of-the-universal-app.png)
 
 5. После этого **предварительный просмотр приложения** откроется в новом окне.

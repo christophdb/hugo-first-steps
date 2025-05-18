@@ -45,6 +45,6 @@ Há duas formas de sistemas diferentes poderem comunicar entre si para trocar in
 
 Com as sondagens, são solicitadas informações, o que leva a uma troca constante, mesmo que não ocorram quaisquer eventos.
 
-![Gancho da Web vs Sondagem](https://seatable.io/wp-content/uploads/2023/02/webhooks-vs-polling.png)
+![Gancho da Web vs Sondagem](images/webhooks-vs-polling.png)
 
 Por outro lado, os ganchos da Web só precisam de comunicar quando um evento tiver ocorrido.

@@ -28,6 +28,6 @@ You want to change your own **password**? No problem! In the **personal settings
 
 To display a password in **plain text**, click on the **eye symbol** to the right of it. You will also automatically see the **strength** of your new password.
 
-![Assess the strength of the password](https://seatable.io/wp-content/uploads/2023/02/Staerke-des-Passworts-beurteilen.png)
+![Assess the strength of the password](images/Staerke-des-Passworts-beurteilen.png)
 
 10. Confirm the change to your password with **Update**.

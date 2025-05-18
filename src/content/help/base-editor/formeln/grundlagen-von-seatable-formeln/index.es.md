@@ -17,23 +17,23 @@ Entre otras cosas, puedes calcular con valores de una fila, fusionarlos o relaci
 
 Para aplicar una fórmula, primero debe añadir una nueva columna de fórmulas a su tabla. [Aquí]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) puedes ver cómo hacerlo.
 
-![Selección de una columna de fórmulas](https://seatable.io/wp-content/uploads/2023/01/select-formula-column.png)
+![Selección de una columna de fórmulas](images/select-formula-column.png)
 
 SeaTable le proporciona un **editor de fórmulas** para ayudarle a introducir fórmulas.
 
-![Asistente de fórmulas para simplificar la introducción de fórmulas especialmente complejas.](https://seatable.io/wp-content/uploads/2023/01/Formula.wizard.png)
+![Asistente de fórmulas para simplificar la introducción de fórmulas especialmente complejas.](images/Formula.wizard.png)
 
 ## Escribe una primera fórmula
 
 Una vez creada la columna de fórmulas, puede empezar a escribir la fórmula. La siguiente ilustración muestra una fórmula sencilla para calcular la media de cinco números.
 
-![Introducir cualquier fórmula en el campo de texto](https://seatable.io/wp-content/uploads/2023/01/input-formular.jpg)
+![Introducir cualquier fórmula en el campo de texto](images/input-formular.jpg)
 
 Esta fórmula siempre escribe el valor estático _13,2_ en la columna de fórmulas como resultado. Sin embargo, la verdadera fuerza de la columna de fórmulas sólo se pone de manifiesto cuando se utilizan los valores de otras columnas para la fórmula. Con **{nombre de columna}** entre llaves puede hacer referencia a columnas existentes en su tabla.
 
 {{< warning headline="Añadir columnas a la fórmula" text="Los nombres de las columnas de la tabla abierta se muestran a la izquierda en el editor de fórmulas y pueden editarse con una tecla **Haga doble clic en** debe insertarse en la fórmula." />}}
 
-![Columnas disponibles para la selección en el editor de fórmulas](https://seatable.io/wp-content/uploads/2023/01/columns-in-the-formula-editor.jpg)
+![Columnas disponibles para la selección en el editor de fórmulas](images/columns-in-the-formula-editor.jpg)
 
 A continuación, puede insertar determinadas **constantes**, **operandos** y **funciones** en su fórmula para calcular con, combinar o relacionar los valores de las distintas columnas.
 
@@ -41,16 +41,16 @@ A continuación, puede insertar determinadas **constantes**, **operandos** y **f
 
 Para poder distinguir entre sí los distintos elementos de su fórmula, están marcados con un **color** diferente en función de su tipo:
 
-| Objeto                 | Ejemplo                                                                                                                                                   |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Funciones              | ![Las funciones se marcan siempre en azul en una fórmula](https://seatable.io/wp-content/uploads/2023/01/example-function.png)                            |
-| Texto / Cadena         | ![Los textos y las cadenas se marcan siempre en rojo en el editor de fórmulas](https://seatable.io/wp-content/uploads/2023/01/example-text.png)           |
-| Números                | ![Los números se marcan siempre en verde en el editor de fórmulas](https://seatable.io/wp-content/uploads/2023/01/example-number.png)                     |
-| Referencias de columna | ![Las referencias a columnas se marcan siempre en morado en una fórmula ](https://seatable.io/wp-content/uploads/2023/01/example-reference-to-column.png) |
+| Objeto                 | Ejemplo                                                                                                           |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Funciones              | ![Las funciones se marcan siempre en azul en una fórmula](images/example-function.png)                            |
+| Texto / Cadena         | ![Los textos y las cadenas se marcan siempre en rojo en el editor de fórmulas](images/example-text.png)           |
+| Números                | ![Los números se marcan siempre en verde en el editor de fórmulas](images/example-number.png)                     |
+| Referencias de columna | ![Las referencias a columnas se marcan siempre en morado en una fórmula ](images/example-reference-to-column.png) |
 
 {{< warning headline="Se resaltan los corchetes que van juntos" text="Al hacer clic en un corchete de apertura o cierre en el editor de fórmulas, también se resalta el corchete correspondiente. Esto facilita la detección de corchetes omitidos o incorrectos." />}}
 
-![Los corchetes de apertura y cierre siempre aparecen resaltados en el editor de fórmulas](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+![Los corchetes de apertura y cierre siempre aparecen resaltados en el editor de fórmulas](images/example-brackets.png)
 
 ## Ejemplos de fórmulas
 
@@ -74,4 +74,4 @@ Por supuesto, puede confiar en que las convenciones matemáticas también se apl
 
 Puede dar formato a los resultados en la columna de fórmulas. Cada fórmula en SeaTable tiene como resultado un **número**, una **fecha** o un **texto/cadena**. En función de ello, dispondrá de diferentes **opciones de formato**.
 
-![Formato de los resultados de las fórmulas](https://seatable.io/wp-content/uploads/2023/01/Formatierung-von-Formelergebnissen.jpg)
+![Formato de los resultados de las fórmulas](images/Formatierung-von-Formelergebnissen.jpg)

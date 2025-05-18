@@ -16,7 +16,7 @@ Las columnas fijas se aplican siempre a toda la tabla, incluidas todas las vista
 
 ## Ajustar el número de columnas fijas
 
-![Ajustar el número de columnas fijas](https://seatable.io/wp-content/uploads/2022/10/adjust-the-number-of-frozen-columns.gif)
+![Ajustar el número de columnas fijas](images/adjust-the-number-of-frozen-columns.gif)
 
 1. Mueva el ratón sobre la **línea divisoria** entre las dos primeras columnas hasta que aparezca el símbolo de una mano en lugar del puntero del ratón con la instrucción **Ajuste el número de columnas fijas arrastrando**.
 2. **Arrastre** el **cursor** hasta el final de la última **columna** que desea fijar.
@@ -30,6 +30,6 @@ Además de la forma descrita anteriormente, hay **otra manera** de fijar columna
 1. Haga clic en el **símbolo** triangular **desplegable** de la derecha en la cabecera de la tabla de la primera columna.
 2. Haga clic en **Fijar Columna**.
 
-![Fijación de la primera columna](https://seatable.io/wp-content/uploads/2022/10/freeze-the-first-column.gif)
+![Fijación de la primera columna](images/freeze-the-first-column.gif)
 
 {{< warning  headline="Nota importante"  text="Para **desfijar** la primera columna, simplemente repita el primer paso de esta secuencia de clics, pero ahora seleccione **Desfijar columna**. Tenga en cuenta que, en este caso, **todas las demás columnas** también quedarán **sin** fijar." />}}

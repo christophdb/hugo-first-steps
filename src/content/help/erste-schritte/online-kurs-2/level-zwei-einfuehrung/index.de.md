@@ -16,7 +16,7 @@ Willkommen zum **SeaTable Online Kurs Level 2!**
 Dieser Kurs ist ideal für Sie, wenn Sie:
 
 - Einen Geschäftsprozess mit SeaTable entwickeln möchten.
-- Sie nach dem Absolvieren des [Online-Kurses Level 1](https://seatable.io/docs/online-kurs/level-eins-einfuehrung/) noch tiefer in die Funktionen von SeaTable eintauchen möchten.
+- Sie nach dem Absolvieren des [Online-Kurses Level 1]({{< relref "help/erste-schritte/online-kurs-1/level-eins-einfuehrung" >}}) noch tiefer in die Funktionen von SeaTable eintauchen möchten.
 
 ## Was werde ich in diesem Online Kurs lernen?
 

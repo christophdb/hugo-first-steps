@@ -22,7 +22,7 @@ Puedes utilizar este tipo de página para crear diferentes **formularios** que l
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Cambiar la configuración de la página del formulario](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Formularseite-aendern.png)
+![Cambiar la configuración de la página del formulario](images/Einstellungen-der-Formularseite-aendern.png)
 
 ## Crear formularios
 
@@ -44,7 +44,7 @@ Si desea cambiar el **orden** de los campos en el formulario, puede agarrar y mo
 
 Más abajo, puede definir un **color para los textos de ayuda** y un **mensaje** que se muestra a los usuarios después de enviar el formulario.
 
-![Más ajustes en las páginas de formularios](https://seatable.io/wp-content/uploads/2023/12/Weitere-Einstellungen-auf-Formularseiten.png)
+![Más ajustes en las páginas de formularios](images/Weitere-Einstellungen-auf-Formularseiten.png)
 
 También puede evitar que se envíen formularios con registros de datos existentes **impidiendo que se añadan duplic**ados. Para ello, active el control deslizante correspondiente y seleccione las columnas en las que deben coincidir los valores para que un formulario se considere duplicado. Si un usuario introduce entonces datos idénticos, se bloquea el envío del formulario.
 

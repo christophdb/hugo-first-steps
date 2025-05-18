@@ -18,7 +18,7 @@ Dans cet article, nous vous présentons ces trois possibilités différentes. L'
 2. Passez la souris sur le **nom** de votre script.
 3. Démarrez le script en cliquant sur l'**icône de lecture** {{< seatable-icon icon="dtable-icon-implement" >}}.
 
-![Pour lancer un script manuellement](https://seatable.io/wp-content/uploads/2023/03/skript-manuell-starten.png)
+![Pour lancer un script manuellement](images/skript-manuell-starten.png)
 
 {{< warning  headline="Pas de référence à une ligne"  text="Si vous exécutez votre script manuellement, il n'y a **pas de ligne active**, c'est pourquoi l'appel à _context.current\_row_ renverra un résultat vide." />}}
 
@@ -29,7 +29,7 @@ Dans cet article, nous vous présentons ces trois possibilités différentes. L'
 3. Utilisez l'action **Exécuter le script**.
 4. Sélectionnez votre **script** et enregistrez.
 
-![Exécuter le script via un bouton](https://seatable.io/wp-content/uploads/2023/03/run-script-via-button.png)
+![Exécuter le script via un bouton](images/run-script-via-button.png)
 
 Désormais, chaque fois que vous cliquez sur le bouton, votre script est exécuté. Au sein du script, vous pouvez accéder aux valeurs de la ligne en appelant _context.current_row._ Mais vous pouvez bien entendu aussi accéder à toutes les autres lignes via l'[ID de ligne](https://seatable.io/fr/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) ou à l'aide d'une boucle.
 
@@ -44,4 +44,4 @@ Avec une automatisation, vous pouvez exécuter un script Python. JavaScript n'es
 3. Utilisez l'action d'automatisation **Exécuter un script Python**.
 4. Sélectionnez votre **script** et enregistrez l'automatisation en cliquant sur **Envoyer**.
 
-![Lancer le script par automatisation](https://seatable.io/wp-content/uploads/2023/03/skript-per-automation.png)
+![Lancer le script par automatisation](images/skript-per-automation.png)

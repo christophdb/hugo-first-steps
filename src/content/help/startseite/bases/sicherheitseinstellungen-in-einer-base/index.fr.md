@@ -26,7 +26,7 @@ Dans les paramètres de sécurité de votre base, vous pouvez à tout moment pro
 
 La première partie des paramètres de sécurité concerne les autorisations **de tous les utilisateurs** qui ont accès à la base correspondante. Dans cette partie, vous pouvez effectuer les réglages suivants :
 
-![Paramètres de sécurité pour tous les utilisateurs](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-all-users.png)
+![Paramètres de sécurité pour tous les utilisateurs](images/Security-settings-for-all-users.png)
 
 ### Empêcher l'exportation d'une base
 
@@ -58,13 +58,13 @@ En activant ce paramètre, vous pouvez **empêcher** les autres utilisateurs de 
 
 Lorsque ce paramètre **est activé**, les icônes correspondantes permettant d'ajouter, de modifier ou de supprimer des opérations de traitement des données **sont masquées** jusqu'à ce qu'un propriétaire ou un administrateur désactive ce paramètre. Toutefois, tous les utilisateurs peuvent toujours effectuer les [opérations de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) existantes.
 
-![Exécuter une opération de traitement de données](https://seatable.io/wp-content/uploads/2023/04/Datenverarbeitungsoperation-ausfuehren.png)
+![Exécuter une opération de traitement de données](images/Datenverarbeitungsoperation-ausfuehren.png)
 
 ## Paramètres de sécurité : Utilisateurs autorisés
 
 La deuxième partie des paramètres de sécurité concerne les autorisations des **utilisateurs** avec lesquels la [base](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondante est [partagée](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/). Dans cette partie, vous pouvez effectuer **les mêmes** réglages que ceux qui sont déjà disponibles pour tous les utilisateurs dans la première partie :
 
-![Paramètres de sécurité pour les utilisateurs partagés](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-shared-users.png)
+![Paramètres de sécurité pour les utilisateurs partagés](images/Security-settings-for-shared-users.png)
 
 ### Empêcher l'exportation d'une base
 

@@ -16,7 +16,7 @@ Comme les deux colonnes enregistrent automatiquement les modifications apportée
 
 Alors que SeaTable remplit la colonne **Dernier utilisateur** avec le nom de l'utilisateur qui a modifié une ligne pour la dernière fois, la colonne **Date de modification** enregistre l'heure exacte (date et heure) à laquelle la dernière modification a été effectuée.
 
-![Les colonnes "Dernier utilisateur" et "Dernièrement modifié" après la création par un utilisateur](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![Les colonnes "Dernier utilisateur" et "Dernièrement modifié" après la création par un utilisateur](images/last-modifiere-and-last-modified-time.png)
 
 ## Particularités des deux types de colonnes
 

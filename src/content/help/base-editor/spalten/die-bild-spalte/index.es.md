@@ -79,7 +79,7 @@ A continuación, seleccione la **imagen** deseada y haga clic en el **icono de d
 
 Si desea descargar **todas las imágenes de una columna**, abra el menú desplegable situado encima de la cabecera de la columna y seleccione **Descargar todo**.
 
-![Descargar todas las imágenes en una columna](https://seatable.io/wp-content/uploads/2023/07/Download-all-images.png)
+![Descargar todas las imágenes en una columna](images/Download-all-images.png)
 
 A continuación, puede especificar **su propio nombre de archivo** y se mostrará el **número de archivos** que contiene la exportación.
 

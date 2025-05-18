@@ -1,11 +1,11 @@
 ---
-title: "Die Spalten Letzter Bearbeiter und Bearbeitungsdatum"
+title: 'Die Spalten Letzter Bearbeiter und Bearbeitungsdatum'
 date: 2023-01-20
-lastmod: "2023-08-04"
-categories: 
-  - "datum-dauer-und-personen"
-author: "nsc2"
-url: "/de/hilfe/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum"
+lastmod: '2023-08-04'
+categories:
+    - 'datum-dauer-und-personen'
+author: 'nsc2'
+url: '/de/hilfe/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 ---
 
 Die Spalten **Letzter Bearbeiter** und **Bearbeitungsdatum** werden von SeaTable ausschließlich **automatisch** gefüllt und stellen daher besondere Spaltentypen dar. Sie erweisen sich als äußerst sinnvoll, wenn Sie nachvollziehen möchten, **wann** und **von wem** ein Eintrag **zuletzt bearbeitet** wurde.
@@ -16,7 +16,7 @@ Da die beiden Spalten automatisch Änderungen an Einträgen erfassen, eignen sie
 
 Während SeaTable die Spalte **Letzter Bearbeiter** mit dem Namen des Benutzers füllt, der eine Zeile zuletzt bearbeitet hat, wird in der Spalte **Bearbeitungsdatum** der exakte Zeitpunkt (Datum und Uhrzeit) festgehalten, zu dem die letzte Bearbeitung erfolgte.
 
-![Die Spalten "Letzter Bearbeiter" und "Zuletzt bearbeitet" nach dem Angelegen durch einen Benutzer](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![Die Spalten "Letzter Bearbeiter" und "Zuletzt bearbeitet" nach dem Angelegen durch einen Benutzer](images/last-modifiere-and-last-modified-time.png)
 
 ## Besonderheiten der beiden Spaltentypen
 

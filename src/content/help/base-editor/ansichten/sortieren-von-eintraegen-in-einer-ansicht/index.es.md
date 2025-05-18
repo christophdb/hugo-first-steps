@@ -12,7 +12,7 @@ La función de ordenación permite mostrar las entradas no ordenadas de una tabl
 
 ## Ordenar las entradas de una vista
 
-![Clasificación de entradas](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
+![Clasificación de entradas](images/Sortierung-von-Eintraegen-2.gif)
 
 1. Cree una [nueva vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) o seleccione la vista que desea ordenar.
 2. Haga clic en la opción **Ordenar** de las opciones de visualización situadas encima de la tabla.
@@ -28,18 +28,18 @@ Las columnas que contienen secuencias de letras, como **texto** o **correo elect
 
 Puede eliminar una clasificación creada haciendo clic en el **símbolo x**.
 
-![Borrar la ordenación de las entradas en una vista](https://seatable.io/wp-content/uploads/2022/10/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
+![Borrar la ordenación de las entradas en una vista](images/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
 
 ## Añadir líneas a posteriori
 
 La ordenación activada se aplica automáticamente a las filas recién añadidas.
 
-![Clasificación de entradas](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-1-1.gif)
+![Clasificación de entradas](images/Sortierung-von-Eintraegen-1-1.gif)
 
 ## Aplicar varias clasificaciones
 
 Al aplicar ordenaciones múltiples, puede ordenar registros que tengan la **misma entrada** en una ordenación anterior. Por ejemplo, puede ordenar primero una lista de empleados por las opciones "mujer", "hombre", "varios" utilizando una única columna de selección y, a continuación, ordenar alfabéticamente los nombres de las mujeres, los hombres y los varios utilizando una columna de texto.
 
-![Varios surtidos](https://seatable.io/wp-content/uploads/2022/10/Mehrere-Sortierungen.png)
+![Varios surtidos](images/Mehrere-Sortierungen.png)
 
 {{< warning  headline="Nota"  text="Si utilizas **plug-ins** como la galería o el tablero Kanban, las clasificaciones también afectan al orden de las entradas en ellos." />}}

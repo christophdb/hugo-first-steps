@@ -79,7 +79,7 @@ Wählen Sie anschließend das gewünschte **Bild** aus und klicken Sie auf das *
 
 Wenn Sie **alle Bilder in einer Spalte** herunterladen möchten, öffnen Sie das Drop-down-Menü über den Spaltenkopf und wählen **Alle herunterladen** aus.
 
-![Alle Bilder in einer Spalte herunterladen](https://seatable.io/wp-content/uploads/2023/07/Download-all-images.png)
+![Alle Bilder in einer Spalte herunterladen](images/Download-all-images.png)
 
 Anschließend können Sie noch einen **eigenen Dateinamen** festlegen und bekommen angezeigt, **wie viele Dateien** im Export enthalten sein werden.
 

@@ -14,6 +14,6 @@ Um Zeilen aus dem Big-Data-Speicher zurückzuholen, benötigen Sie eine [Big-Dat
 2. Machen Sie einen **Rechtsklick auf eine archivierte Zeile**.
 3. Wählen Sie die Option **Zeile aus Archiv zurückholen**.
 
-![Einträge aus dem Big Data Backend zurückholen](https://seatable.io/wp-content/uploads/2023/05/unarchive-rows-out-of-the-big-data-backend.png)
+![Einträge aus dem Big Data Backend zurückholen](images/unarchive-rows-out-of-the-big-data-backend.png)
 
 Innerhalb von wenigen Sekunden werden die selektierten Zeilen aus dem Big-Data-Speicher in die normale Ansicht zurückgeschrieben und verlieren somit ihr **graues Dreieck** , welches die Zeilen als Big-Data-Einträge kennzeichnet.

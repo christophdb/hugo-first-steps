@@ -25,7 +25,7 @@ El código de estado más importante con diferencia es el 200, que indica que la
 
 Cuando SeaTable envía un webhook, SeaTable espera una respuesta en forma de dicho código de estado HTTP. Si SeaTable no recibe un código de estado o un código de estado distinto de 200 cinco veces seguidas, el webhook se establece en estado _no válido_ y se interrumpe la ejecución.
 
-![Webhook no válido](https://seatable.io/wp-content/uploads/2023/02/invalid-webhook.png)
+![Webhook no válido](images/invalid-webhook.png)
 
 {{< warning headline="Más errores permitidos desde la versión 3.5" text="Hasta la versión 3.4 de SeaTable, inclusive, un webhook se desactivaba inmediatamente al primer código de error HTTP erróneo. Con la versión 3.5. SeaTable perdona algunos errores y desactiva el webhook después de cinco errores como mínimo." />}}
 

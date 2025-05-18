@@ -16,7 +16,7 @@ Utilizando este tipo de página, que funciona de forma semelhante à [aplicaçã
 
 Se pretender alterar as definições de uma página, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondente na barra de navegação.
 
-![Alterar as definições da página de consulta](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Abfrageseite-aendern.png)
+![Alterar as definições da página de consulta](images/Einstellungen-der-Abfrageseite-aendern.png)
 
 ## Filtros predefinidos, ordenação e colunas ocultas
 
@@ -50,7 +50,7 @@ Pode adicionar uma **nota** introdutória à sua página de consulta, que pode c
 
 Para poder utilizar esta função, deve **ativar** a barra deslizante nas definições da página em **É o resultado da consulta editável**.
 
-![Tornar o resultado da consulta editável](https://seatable.io/wp-content/uploads/2023/12/Abfrageergebnis-bearbeitbar-machen.png)
+![Tornar o resultado da consulta editável](images/Abfrageergebnis-bearbeitbar-machen.png)
 
 Todos os utilizadores com acesso à página de consulta podem então **editar** os **registos de dados** pesquisados.
 

@@ -140,14 +140,14 @@ Unlike the comments, the indentations in the code are very important when runnin
 Add the SeaTable server URL under the **SeaTable - Destination** comment and enter the [API token](https://seatable.io/en/docs/seatable-api/erzeugen-eines-api-tokens/). The API token must grant read and write permissions. If you are using SeaTable Cloud, then the prefilled URL "https://cloud.seatable.io" is correct. If you are using a different SeaTable server, enter its URL. (The URL must always be entered with https:// or http://.) The URL and token must be enclosed in single quotation marks.
 
 This is an example configuration for importing data into a base in SeaTable Cloud:  
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable_Server_URL_and_API_Token.png)
+![](images/SeaTable_Server_URL_and_API_Token.png)
 
 ### 4\. enter Airtable Personal Access Token and Base ID
 
 Add below the comment **Airtable - Source** the [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) and the [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids)both values again in single quotation marks. The PAT must have the authorization `data.records:read` and `schema.bases:read` have.
 
 This is what it should look like, although your values will of course be different:  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable_Base_ID_and_PAT.png)
+![](images/Airtable_Base_ID_and_PAT.png)
 
 Use the links in the script to the Airtable documentation to find out where you can obtain PAT and Base ID.
 
@@ -156,14 +156,14 @@ Use the links in the script to the Airtable documentation to find out where you 
 Now tell the script which tables you want to import from the Airtable Base. Do this in the row "table_names". Add the names of the tables in the square brackets - each enclosed by a single quotation mark and separated by a comma.
 
 For a base with the two tables "table1" and "table2", the row must then look like this, for example:  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-tables_names_500.png)
+![](images/Airtable-tables_names_500.png)
 
 If your Airtable Base has more than two tables, simply extend the list in brackets. If you do not want to transfer all tables of a base, simply omit the names of the tables that are not to be copied.
 
 Due to a limitation of the Airtable API, you must also specify the names of the first columns in the tables. This is done in the row "first_columns" or the following rows.
 
 For the Airtable Base with the two tables "table1" and "table2" it could look like this:  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-first_columns_500.png)
+![](images/Airtable-first_columns_500.png)
 
 ### 6\. define link columns
 
@@ -171,12 +171,12 @@ In order for SeaTable to import the data properly, one more step is required: sp
 
 The variable "links" is intended for this purpose. For example, if the "link to table2" column in the "table1" table represents a link to the "table 2" table, then the script should be parameterized as follows:
 
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-links_500.png)
+![](images/Airtable-links_500.png)
 
 You need to specify each link column pair only once. You do not need to specify the link in both directions.
 
 If the airtable base does not receive any link columns, then you can leave the square bracket empty:  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-linksEmpty_500.png)
+![](images/Airtable-linksEmpty_500.png)
 
 ### 7\. exclude columns or column types (optional)
 
@@ -189,7 +189,7 @@ Column types can be excluded via the variable "excluded_column_types". To specif
 The script can be executed in two modes: "import-header" and "import-rows". First, the script must always be executed in "import-header" mode. In this mode, the tables and columns are created in the SeaTable Base and 10 test rows are imported.
 
 The execution mode is defined via the variable of the same name:  
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable-modeImportHeader_500.png)
+![](images/SeaTable-modeImportHeader_500.png)
 
 Now run the script by clicking **Run Script**. During the execution you can see the executed steps on the right side in the editor. In the background you can also see how the tables and columns are created.
 
@@ -248,7 +248,7 @@ If you are satisfied with the check in step 9, all data records can be transferr
 
 In the script, change the mode from "import-header" to "import-rows":
 
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable-modeImportRows_500.png)
+![](images/SeaTable-modeImportRows_500.png)
 
 Run the script again by clicking **Run Script**. Again you can watch the execution of the script on the right side and see the activities in the background.
 

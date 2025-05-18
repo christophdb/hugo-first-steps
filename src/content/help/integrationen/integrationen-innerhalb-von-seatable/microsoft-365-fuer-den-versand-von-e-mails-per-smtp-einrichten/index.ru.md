@@ -29,7 +29,7 @@ url: '/ru/help/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 4. Запишите **идентификатор приложения (клиента)** на странице обзора приложения, которое вы только что зарегистрировали. Это необходимо для настройки учетной записи электронной почты в SeaTable.
 5. В боковой навигации приложения нажмите на **Сертификаты и секреты**чтобы сгенерировать клиентский ключ. Это можно сделать на вкладке **Секретные ключи клиента**. Назначьте описание и "Срок действия" для ключа.
 
-    ![Создание клиентского секрета для зарегистрированного приложения в Microsoft Entra](https://seatable.io/wp-content/uploads/2023/04/Creating_Client_Secret_Microsoft_Entra.gif)
+    ![Создание клиентского секрета для зарегистрированного приложения в Microsoft Entra](images/Creating_Client_Secret_Microsoft_Entra.gif)
 
 6. Скопируйте значение созданного ключа в буфер обмена.
 
@@ -39,7 +39,7 @@ url: '/ru/help/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 
 Теперь вам необходимо добавить учетную запись Microsoft 365 в базу SeaTable. Для этого необходимо выполнить следующие действия:
 
-![Интеграция сторонних производителей через расширенные опции базы](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Интеграция сторонних производителей через расширенные опции базы](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Откройте опции расширенной базы, нажав на **значок с тремя точками** {{< seatable-icon icon="dtable-icon-more-level" >}} в правом верхнем углу.
 2. Выберите опцию **Интеграция с третьей стороной**.
@@ -53,7 +53,7 @@ url: '/ru/help/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 6. Подтвердите создание учетной записи электронной почты с помощью аутентификации OAuth2.
 7. Нажмите "Далее", когда появится сообщение о том, что это приложение не было проверено, и разрешите доступ к учетной записи Microsoft.
 
-![Скринкаст принимает запрашиваемые разрешения](https://seatable.io/wp-content/uploads/2023/04/Accept-Permissions-Requested-Microsoft.gif)
+![Скринкаст принимает запрашиваемые разрешения](images/Accept-Permissions-Requested-Microsoft.gif)
 
 ## Отправляйте электронные письма с помощью автоматизации или кнопки
 

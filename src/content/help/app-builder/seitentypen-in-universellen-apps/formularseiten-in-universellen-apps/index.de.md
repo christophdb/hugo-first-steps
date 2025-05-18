@@ -22,7 +22,7 @@ Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, wel
 
 Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
 
-![Einstellungen der Formularseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Formularseite-aendern.png)
+![Einstellungen der Formularseite ändern](images/Einstellungen-der-Formularseite-aendern.png)
 
 ## Formulare erstellen
 
@@ -44,7 +44,7 @@ Wenn Sie die **Reihenfolge** der Felder im Formular verändern möchten, können
 
 Weiter unten können Sie eine **Farbe für die Hilfetexte** festlegen sowie eine **Nachricht**, die den Nutzern nach Einreichung des Formulars angezeigt wird.
 
-![Weitere Einstellungen auf Formularseiten](https://seatable.io/wp-content/uploads/2023/12/Weitere-Einstellungen-auf-Formularseiten.png)
+![Weitere Einstellungen auf Formularseiten](images/Weitere-Einstellungen-auf-Formularseiten.png)
 
 Des Weiteren können Sie unterbinden, dass Formulare mit bereits existierenden Datensätzen eingereicht werden, indem Sie das **Hinzufügen von Duplikaten verhindern**. Aktivieren Sie dazu den entsprechenden Regler und wählen Sie die Spalten aus, in denen die Werte übereinstimmen müssen, damit ein Formular als Duplikat gilt. Wenn ein Nutzer daraufhin identische Daten eingibt, wird das Einreichen des Formulars blockiert.
 

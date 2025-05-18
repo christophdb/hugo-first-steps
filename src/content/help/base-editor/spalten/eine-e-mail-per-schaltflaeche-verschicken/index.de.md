@@ -14,29 +14,29 @@ Mithilfe einer **Schaltfläche** in Ihren Zeilen können Sie E-Mails an einen od
 
 Als Erstes wählen Sie beim Erstellen der [Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) die Aktion **E-Mail versenden** aus.
 
-![Auswahl der Aktion "E-Mail versenden"](https://seatable.io/wp-content/uploads/2023/01/send-email-action.png)
+![Auswahl der Aktion "E-Mail versenden"](images/send-email-action.png)
 
 Wählen Sie unter **Kontoname** einen Account aus, von dem aus Sie die E-Mail versenden wollen. Falls Ihnen in diesem Feld **kein Account** angezeigt wird, müssen Sie zunächst ein [E-Mail-Konto zu SeaTable hinzufügen](https://seatable.io/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
 
-![Falls Ihnen kein E-Mail-Account angezeigt wird, müssen Sie zunächst ein Email-Konto zu SeaTable hinzufügen](https://seatable.io/wp-content/uploads/2023/01/add-email-account.png)
+![Falls Ihnen kein E-Mail-Account angezeigt wird, müssen Sie zunächst ein Email-Konto zu SeaTable hinzufügen](images/add-email-account.png)
 
 {{< warning  type="warning" headline="Hinweis"  text="Eine detaillierte Anleitung, wie Sie Ihren **E-Mail-Account** für den Versand von E-Mails einrichten, finden Sie [hier](\"https://seatable.io/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/\"). Der von Ihnen hinzugefügte **Account** steht Ihnen im Anschluss bei der Erstellung der Schaltfläche zur Auswahl." />}}
 
 Legen Sie nun den **Betreff** und **Inhalt** der E-Mail fest.
 
-![Legen Sie Betreff und Inhalt der E-Mail fest](https://seatable.io/wp-content/uploads/2023/01/subject-and-message.png)
+![Legen Sie Betreff und Inhalt der E-Mail fest](images/subject-and-message.png)
 
 Wenn Sie den Regler **Formatierter Text** aktiviert haben, öffnet sich bei Doppelklick aufs Textfeld der bekannte **Editor**, in dem Sie längere Texte mit Formatierungen, Listen und Bildern verfassen können. Eine Besonderheit ist hier die Funktion, dass Sie auch **Spalten einfügen** können.
 
-![Spalten in E-Mail-Texte einfügen](https://seatable.io/wp-content/uploads/2023/01/Spalten-in-E-Mail-Texte-einfuegen.png)
+![Spalten in E-Mail-Texte einfügen](images/Spalten-in-E-Mail-Texte-einfuegen.png)
 
 Wählen Sie den/die **Empfänger** der E-Mail aus. Sie können optional auch Empfänger auswählen, die eine **Kopie** der E-Mail erhalten sollen oder denen Sie mit der E-Mail **antworten** möchten. Mehrere Empfänger können Sie per Komma getrennt eingeben. Verwenden Sie den Namen einer Spalte in geschwungenen Klammern, um den Inhalt der Spalte zu zitieren.
 
-![Legen Sie den/die Empfänger der E-Mail fest. Sie können optional auch noch Empfänger auswählen, die eine Kopie der E-Mail erhalten sollen oder denen Sie mit der E-Mail antworten möchten.](https://seatable.io/wp-content/uploads/2023/01/send-to-copy-to-reply-to.png)
+![Legen Sie den/die Empfänger der E-Mail fest. Sie können optional auch noch Empfänger auswählen, die eine Kopie der E-Mail erhalten sollen oder denen Sie mit der E-Mail antworten möchten.](images/send-to-copy-to-reply-to.png)
 
 Optional können Sie der E-Mail noch einen **Anhang** hinzufügen. Beachten Sie jedoch, dass Sie Dateien _nicht_ einfach hochladen können, sondern diese zunächst in einer [Datei-Spalte](https://seatable.io/docs/datei-und-bildanhaenge/die-datei-spalte/) der Tabelle speichern müssen. Im Feld **Anhänge** können Sie im Anschluss eine oder mehrere **Datei-Spalten** auswählen, aus der Sie die Dateien an die E-Mail anhängen möchten.
 
-![Dateien, die Sie in einer Dateispalte Ihrer Tabelle hinzugefügt haben, können Sie als Anhang der E-Mail nutzen](https://seatable.io/wp-content/uploads/2023/01/file-001.png)
+![Dateien, die Sie in einer Dateispalte Ihrer Tabelle hinzugefügt haben, können Sie als Anhang der E-Mail nutzen](images/file-001.png)
 
 ## Bedingte Ausführung mehrerer Schaltflächen-Aktionen
 

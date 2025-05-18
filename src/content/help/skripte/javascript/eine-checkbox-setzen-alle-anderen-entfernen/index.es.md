@@ -16,7 +16,7 @@ Imagine que desea activar siempre una casilla de verificación exactamente en un
 
 Con cada clic en el botón, se activa la casilla de esta fila y se desactivan todas las demás.
 
-![Establecer casilla de verificación con JavaScript](https://seatable.io/wp-content/uploads/2023/05/seatable-javascript-set-checkbox.gif)
+![Establecer casilla de verificación con JavaScript](images/seatable-javascript-set-checkbox.gif)
 
 ## El guión completo
 

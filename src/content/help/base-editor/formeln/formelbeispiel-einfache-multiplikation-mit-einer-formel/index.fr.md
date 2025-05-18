@@ -18,17 +18,17 @@ Dans l'exemple concret, l'objectif est de calculer le **prix total** des article
 
 Pour cela, vous ajoutez d'abord une **colonne de formule** au tableau, dans l'éditeur de laquelle vous pouvez ensuite définir une formule.
 
-![Zone de texte pour ajouter une formule quelconque](https://seatable.io/wp-content/uploads/2023/01/start-to-insert-formular.png)
+![Zone de texte pour ajouter une formule quelconque](images/start-to-insert-formular.png)
 
 Pour multiplier deux valeurs d'une ligne, vous devez faire référence dans la formule aux **noms des colonnes** dans lesquelles se trouvent les **valeurs** correspondantes. Il est particulièrement important que les noms des colonnes soient encadrés par des **accolades**, sinon SeaTable ne pourra pas identifier les valeurs à multiplier entre elles.
 
 {{< warning  headline="Conseil"  text="Les **noms de colonne** du tableau que vous avez sélectionné sont affichés à gauche dans l'**éditeur de formule** et peuvent être insérés dans la formule par un **double-clic**." />}}
 
-![Lorsque vous faites référence à des noms de colonnes dans vos tableaux, entourez-les toujours d'accolades](https://seatable.io/wp-content/uploads/2023/01/formula-example-1.png)
+![Lorsque vous faites référence à des noms de colonnes dans vos tableaux, entourez-les toujours d'accolades](images/formula-example-1.png)
 
 Pour terminer la formule, ajoutez encore un **signe de multiplication** entre les deux noms de colonne, que vous trouverez dans l'éditeur de formules sous les **opérandes**.
 
-![Ajouter le signe de multiplication entre les deux noms de colonne](https://seatable.io/wp-content/uploads/2023/01/finish-formular-multiplication.png)
+![Ajouter le signe de multiplication entre les deux noms de colonne](images/finish-formular-multiplication.png)
 
 Vous pouvez également écrire la multiplication dans l'éditeur de formules sous forme de formule selon le schéma **multiply({column1}, {column2})**.
 

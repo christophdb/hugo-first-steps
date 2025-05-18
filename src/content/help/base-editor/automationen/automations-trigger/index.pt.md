@@ -29,7 +29,7 @@ Se seleccionar este evento como gatilho, a automatização correspondente é acc
 
 Com as condições, é possível definir individualmente para cada **coluna** como **deve ser** o **valor** correspondente após a edição, a fim de desencadear a automatização. No decurso disto, pode decidir se **todas** ou apenas as colunas **seleccionadas** da vista de tabela devem ser monitorizadas para a ocorrência do evento de disparo.
 
-![As entradas preenchem determinadas condições após a alteração](https://seatable.io/wp-content/uploads/2023/01/Automation-trigger-records-meet-specific-conditions-after-modification.png)
+![As entradas preenchem determinadas condições após a alteração](images/Automation-trigger-records-meet-specific-conditions-after-modification.png)
 
 Se selecionar o evento "As entradas cumprem determinadas condições após a edição" como acionador de uma automatização, as seguintes **acções automáticas** estão disponíveis para seleção:
 

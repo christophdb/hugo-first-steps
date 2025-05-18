@@ -34,11 +34,11 @@ Seleccione ahora la **columna de archivos** en la que desea guardar la página c
 
 Por último, **asigne un nombre a** los archivos PDF que se añadirán a la tabla. Utilice **{nombre de columna}**, es decir, el nombre de una columna entre llaves, para dar al fichero el nombre del valor de esa columna.
 
-![Nombre de los archivos](https://seatable.io/wp-content/uploads/2023/01/PDF-file-name.png)
+![Nombre de los archivos](images/PDF-file-name.png)
 
 Tras pulsar el botón, el **archivo PDF** seleccionado se añade a la línea correspondiente.
 
-![Desencadenar la acción activando el botón](https://seatable.io/wp-content/uploads/2023/01/pdf-example.gif)
+![Desencadenar la acción activando el botón](images/pdf-example.gif)
 
 ## Ejecución condicional de las acciones de los botones
 

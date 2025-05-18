@@ -24,7 +24,7 @@ Derzeit gibt es fünf Bereiche, in denen Sie die Markdown-Syntax in SeaTable ein
 
 Sobald Markdown in SeaTable zum Einsatz kommt, wird Ihnen die folgende Eingabemaske angeboten. Selbstverständlich können Sie wie gewohnt Wörter oder Textblöcke markieren und dann die gewünschte Formatierung auswählen.
 
-![Markdown in SeaTable](https://seatable.io/wp-content/uploads/2023/05/markdown-seatable.png)
+![Markdown in SeaTable](images/markdown-seatable.png)
 
 Alternativ können Sie aber auch unmittelbar durch die Eingabe von gewissen Sonderzeichen die Markdown-Formatierung auslösen. Tippen Sie doch einfach mal in einem Markdown-Eingabefeld eine {{< key "#" >}} gefolgt von einem Wort ein. Sie werden sehen, dass die Raute in der Markdown-Syntax für eine erste Überschrift steht. Wenn Sie also wissen, welches Sonderzeichen welche Formatierung auslöst, können Sie deutlich schneller Ihre Texte erfassen und formatieren.
 
@@ -84,7 +84,7 @@ Beginnt eine Zeile mit einer {{< key "1." >}}, wird sie automatisch in eine **so
 
 Ein **Blockzitat** ist eine Zeile, die mit {{< key ">" >}} beginnt und auf die dann der Inhalt des Zitats folgt. Zitate sind durch eine Einrückung und einen Rahmen am linken Rand gekennzeichnet.
 
-![Markdown Zitat](https://seatable.io/wp-content/uploads/2023/05/markdown-cite.png)
+![Markdown Zitat](images/markdown-cite.png)
 
 ### Inline-Code
 
@@ -96,7 +96,7 @@ Text, der von einem Paar {{< key "FIXME: backtick" >}} umgeben ist, wird als Inl
 
 Ein **Code-Block** wird durch drei aufeinanderfolgende **Backticks** {{< key "```" >}} eingeleitet. Das Besondere am Code-Block ist, dass der Inhalt als **Inline-Code** mit Monospace-Schrift dargestellt wird. Auch Einrückungen werden genauso beibehalten, wie Sie eingegeben werden.
 
-![Markdown-Codeblock](https://seatable.io/wp-content/uploads/2023/05/markdown-codeblock.png)
+![Markdown-Codeblock](images/markdown-codeblock.png)
 
 ### Zeilenumbrüche
 

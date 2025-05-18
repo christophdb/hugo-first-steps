@@ -12,7 +12,7 @@ Puede **editar** y **eliminar** las reglas de notificación ya creadas en cualqu
 
 ## Para editar una regla de notificación
 
-![Editar una regla de notificación](https://seatable.io/wp-content/uploads/2023/02/edit-notification-rules.jpg)
+![Editar una regla de notificación](images/edit-notification-rules.jpg)
 
 1. Abra la **base** en la que desea editar una regla de notificación ya creada.
 2. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} y luego en **Reglas de notificación**.
@@ -39,7 +39,7 @@ Tras confirmar los cambios realizados, éstos se **guardan** automáticamente **
 
 ## Para eliminar una regla de notificación
 
-![Supresión de una norma de notificación](https://seatable.io/wp-content/uploads/2023/02/delete-notification.jpg)
+![Supresión de una norma de notificación](images/delete-notification.jpg)
 
 1. Abra la **base** en la que desea eliminar una regla de notificación ya creada.
 2. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} y luego en **Reglas de notificación**.

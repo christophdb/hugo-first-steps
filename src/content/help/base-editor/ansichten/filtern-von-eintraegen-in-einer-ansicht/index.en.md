@@ -47,5 +47,5 @@ You can create one or more filters that further restrict the first condition. Re
 
 ## Rearrange filters
 
-You can move and rearrange filters by moving the mouse on the **Gripping surface** ![Icon for moving elements](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) Press and hold, pull and release.  
+You can move and rearrange filters by moving the mouse on the **Gripping surface** ![Icon for moving elements](images/move-icon.png) Press and hold, pull and release.  
 ![Filter entries sort](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)

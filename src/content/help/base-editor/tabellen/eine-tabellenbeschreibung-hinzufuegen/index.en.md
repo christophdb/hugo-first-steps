@@ -17,23 +17,23 @@ You can add a description to each table in your Base. With this concise text you
 1. Click the **triangular drop-down icon** next to the name of any table.
 2. Select the **Edit table description** option.
 
-![Add a table description](https://seatable.io/wp-content/uploads/2023/07/edit-table-description.jpg)
+![Add a table description](images/edit-table-description.jpg)
 
 4. Add a **description** to the table.
 5. Confirm with **Submit**.
 
-![Add table description](https://seatable.io/wp-content/uploads/2023/07/insert-table-description.jpg)
+![Add table description](images/insert-table-description.jpg)
 
 ## Where to find the table description
 
 Tables with an added **table description** can always be recognized by an **i-symbol to** the right of the table name.
 
-![Table with table description](https://seatable.io/wp-content/uploads/2023/07/table-with-description.png)
+![Table with table description](images/table-with-description.png)
 
 You can always display table descriptions by hovering the mouse over the **i icon**.
 
-![The table description](https://seatable.io/wp-content/uploads/2023/07/table-description.jpg)
+![The table description](images/table-description.jpg)
 
 By clicking on the **i icon** you can also **edit** the current table description.
 
-![Editing a current table description via the i icon](https://seatable.io/wp-content/uploads/2023/07/edit-table-description-i-icon.png)
+![Editing a current table description via the i icon](images/edit-table-description-i-icon.png)

@@ -14,29 +14,29 @@ Un **bouton** dans vos lignes vous permet d'envoyer un e-mail à un ou plusieurs
 
 Tout d'abord, lorsque vous créez le [bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/), sélectionnez l'action **Envoyer un e-mail**.
 
-![Sélection de l'action "Envoyer un e-mail](https://seatable.io/wp-content/uploads/2023/01/send-email-action.png)
+![Sélection de l'action "Envoyer un e-mail](images/send-email-action.png)
 
 Sous **Nom du compte**, sélectionnez un compte à partir duquel vous souhaitez envoyer l'e-mail. Si **aucun compte** ne s'affiche dans ce champ, vous devez d'abord [ajouter](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) un [compte de messagerie à SeaTable](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
 
-![Si vous ne voyez pas de compte de messagerie, vous devez d'abord en ajouter un à SeaTable.](https://seatable.io/wp-content/uploads/2023/01/add-email-account.png)
+![Si vous ne voyez pas de compte de messagerie, vous devez d'abord en ajouter un à SeaTable.](images/add-email-account.png)
 
 {{< warning  headline="Remarque"  text="Vous trouverez [ici](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) des instructions détaillées sur la manière de configurer votre **compte de messagerie** pour l'envoi d'e-mails. Le **compte** que vous avez ajouté est ensuite disponible lors de la création du bouton." />}}
 
 Définissez maintenant l'**objet** et **le contenu** de l'e-mail.
 
-![Définissez l'objet et le contenu de l'e-mail](https://seatable.io/wp-content/uploads/2023/01/subject-and-message.png)
+![Définissez l'objet et le contenu de l'e-mail](images/subject-and-message.png)
 
 Si vous avez activé le curseur **Texte formaté**, un double-clic sur le champ de texte ouvre l'**éditeur** bien connu dans lequel vous pouvez rédiger des textes plus longs avec des mises en forme, des listes et des images. Une particularité est ici la fonction qui vous permet d'**insérer** également **des colonnes**.
 
-![Insérer des colonnes dans le texte d'un e-mail](https://seatable.io/wp-content/uploads/2023/01/Spalten-in-E-Mail-Texte-einfuegen.png)
+![Insérer des colonnes dans le texte d'un e-mail](images/Spalten-in-E-Mail-Texte-einfuegen.png)
 
 Sélectionnez le(s) **destinataire** (s) de l'e-mail. Vous pouvez également sélectionner les destinataires qui recevront une **copie** de l'e-mail ou auxquels vous souhaitez **répondre** par e-mail. Vous pouvez saisir plusieurs destinataires en les séparant par une virgule. Utilisez le nom d'une colonne entre parenthèses pour citer le contenu de la colonne.
 
-![Définissez le(s) destinataire(s) de l'e-mail. Vous pouvez également choisir les destinataires qui recevront une copie de l'e-mail ou à qui vous souhaitez répondre par e-mail.](https://seatable.io/wp-content/uploads/2023/01/send-to-copy-to-reply-to.png)
+![Définissez le(s) destinataire(s) de l'e-mail. Vous pouvez également choisir les destinataires qui recevront une copie de l'e-mail ou à qui vous souhaitez répondre par e-mail.](images/send-to-copy-to-reply-to.png)
 
 En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez toutefois que vous ne pouvez _pas_ simplement télécharger des fichiers, mais que vous devez d'abord les enregistrer dans une [colonne de fichiers](https://seatable.io/fr/docs/datei-und-bildanhaenge/die-datei-spalte/) du tableau. Dans le champ **Pièces jointes**, vous pouvez ensuite sélectionner une ou plusieurs **colonnes de fichiers** à partir desquelles vous souhaitez joindre les fichiers au courriel.
 
-![Les fichiers que vous avez ajoutés dans une colonne de fichier de votre tableau peuvent être utilisés comme pièces jointes du courriel.](https://seatable.io/wp-content/uploads/2023/01/file-001.png)
+![Les fichiers que vous avez ajoutés dans une colonne de fichier de votre tableau peuvent être utilisés comme pièces jointes du courriel.](images/file-001.png)
 
 ## Exécution conditionnelle de plusieurs actions de bouton
 

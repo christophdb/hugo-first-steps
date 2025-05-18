@@ -16,7 +16,7 @@ weight: 1
 Este curso es ideal para usted si
 
 - desea desarrollar un proceso de negocio con SeaTable.
-- desea profundizar en las funciones de SeaTable tras completar el [curso en línea de Nivel 1](https://seatable.io/es/docs/online-kurs/level-eins-einfuehrung/).
+- desea profundizar en las funciones de SeaTable tras completar el [curso en línea de Nivel 1]({{< relref "help/erste-schritte/online-kurs-1/level-eins-einfuehrung" >}}).
 
 ## ¿Qué aprenderé en este curso en línea?
 

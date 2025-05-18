@@ -22,7 +22,7 @@ No SeaTable, pode criar os seus tokens API através da página inicial ou como a
 
 Os tokens API podem ser convenientemente criados na página inicial do SeaTable.
 
-![Criar nova Ficha Base](https://seatable.io/wp-content/uploads/2023/02/generate-api-token.gif)
+![Criar nova Ficha Base](images/generate-api-token.gif)
 
 1. Mova o rato sobre a base para a qual pretende criar uma ficha.
 2. Clique em {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}
@@ -36,7 +36,7 @@ Os tokens API podem ser convenientemente criados na página inicial do SeaTable.
 
 Como administrador de equipa, pode criar e editar os tokens API centralmente na administração da equipa para todas as bases a que tem acesso.
 
-![Gerar fichas API através da gestão da equipa](https://seatable.io/wp-content/uploads/2023/02/generate-api-token-team-administrator.png)
+![Gerar fichas API através da gestão da equipa](images/generate-api-token-team-administrator.png)
 
 1. Abrir a administração da equipa
 2. Mudar para a secção [API & Integrações](https://account.seatable.io/api).

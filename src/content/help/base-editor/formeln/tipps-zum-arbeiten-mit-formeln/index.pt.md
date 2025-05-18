@@ -18,7 +18,7 @@ Os espaços e as quebras de linha podem ser definidos de forma quase arbitrária
 
 ### Exemplo de aplicação
 
-![Os espaços e as quebras de linha podem ser definidos de forma quase arbitrária no assistente de fórmulas. As únicas excepções são as funções.](https://seatable.io/wp-content/uploads/2023/01/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
+![Os espaços e as quebras de linha podem ser definidos de forma quase arbitrária no assistente de fórmulas. As únicas excepções são as funções.](images/benutzen-Sie-leerzeichen-und-spaltenumbrueche.png)
 
 ## Utilizar a sintaxe no editor de fórmulas
 
@@ -41,7 +41,7 @@ Se os elementos da fórmula mencionados **não** estiverem marcados com a **cor*
 
 **Os parênteses que pertencem uns aos outros** são **realçados no** editor de fórmulas assim que clicar num parêntese de abertura ou de fecho. Isto facilita a deteção de substituições de parênteses **em falta** ou **incorrectas**.
 
-![Abertura e fecho de parênteses são sempre realçados no editor de fórmulas](https://seatable.io/wp-content/uploads/2023/01/example-brackets.png)
+![Abertura e fecho de parênteses são sempre realçados no editor de fórmulas](images/example-brackets.png)
 
 ## Fórmulas de planeamento
 

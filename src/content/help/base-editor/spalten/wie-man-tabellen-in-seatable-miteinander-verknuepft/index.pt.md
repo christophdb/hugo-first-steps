@@ -22,11 +22,11 @@ SeaTable permite-lhe ligar informações de diferentes tabelas. Para tal, utiliz
 
 Assim que as tabelas são ligadas, é possível chamar as informações das entradas ligadas através do **diálogo de ligação**. Para isso, clique no **símbolo de seta dupla** numa **célula da** coluna de ligação ou **faça duplo clique**. As **entradas ligadas** são listadas na caixa de diálogo de ligação que se abre. Clique numa entrada para ver **os detalhes da linha** numa janela adicional.
 
-![Vista detalhada de linhas para entradas ligadas](https://seatable.io/wp-content/uploads/2022/10/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
+![Vista detalhada de linhas para entradas ligadas](images/Zeilendetailansicht-bei-verknuepften-Eintraegen-711x225.png)
 
 ## Ligar entradas existentes
 
-![Ligar entradas existentes](https://seatable.io/wp-content/uploads/2022/10/link-existing-entries.gif)
+![Ligar entradas existentes](images/link-existing-entries.gif)
 
 1. Clique numa **célula da** **coluna de ligação** e, em seguida, clique no **símbolo de mais** que aparece.
 2. Agora, as **linhas** disponíveis **da tabela ligada** são listadas. Seleccione a(s) linha(s) que pretende ligar à linha da sua tabela atual.

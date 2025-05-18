@@ -19,11 +19,11 @@ Para além da opção de **células de cor**, existe também a possibilidade de 
 ## Coloração por regras ou por valores
 
 Cada coluna oferece a opção **Formatar células da coluna** an:  
-![Células de coloração em SeaTable](https://seatable.io/wp-content/uploads/2022/10/color-cells.png)
+![Células de coloração em SeaTable](images/color-cells.png)
 
 O SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** para o qual chamar esta opção. Para [colunas numéricas](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/), pode utilizar tanto regras como valores para colorir. Para todos os outros tipos de colunas, apenas as regras de coloração estão disponíveis.
 
-![Coloração com regras ou de acordo com valores](https://seatable.io/wp-content/uploads/2022/10/color-cells-rules-values.png)
+![Coloração com regras ou de acordo com valores](images/color-cells-rules-values.png)
 
 ## Para colorir células por uma regra
 
@@ -40,11 +40,11 @@ O SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** par
 
 Ao utilizar uma regra, colore **todas as células** de uma coluna à qual **se aplica** uma regra. Por exemplo, tal regra poderia ser: "Colorir todas as células com uma classificação de três ou mais estrelas amarelas".
 
-![Coloração de células com uma regra](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-einer-Regel.png)
+![Coloração de células com uma regra](images/Einfaerben-von-Zellen-mit-einer-Regel.png)
 
 É possível criar **várias regras com cores diferentes** por coluna.
 
-![Células de coloração com múltiplas regras](https://seatable.io/wp-content/uploads/2022/10/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
+![Células de coloração com múltiplas regras](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
 Também pode definir **várias condições** por regra, que podem estar relacionadas com todas as colunas da tabela. Por exemplo, colorir a [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) com o título de um artigo se o **estado** não for "terminado", a **data de publicação** estiver no futuro e já existir uma **imagem** disponível.
 

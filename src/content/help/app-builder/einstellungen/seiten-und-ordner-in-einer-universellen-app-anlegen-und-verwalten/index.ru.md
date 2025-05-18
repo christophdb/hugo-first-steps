@@ -25,15 +25,15 @@ url: '/ru/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten
 
 6. Нажмите **Добавить страницу или Добавить папку**, а затем выберите **Добавить страницу**.
 
-![Добавить страницу приложения](https://seatable.io/wp-content/uploads/2023/05/Add-app-page.png)
+![Добавить страницу приложения](images/Add-app-page.png)
 
 8. Выберите один из [типов страниц](https://seatable.io/ru/docs/apps/seitentypen-in-der-universellen-app/) и нажмите кнопку **Далее**.
 
-![Добавьте страницу приложения и выберите тип страницы](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-select-page-type.png)
+![Добавьте страницу приложения и выберите тип страницы](images/Add-app-page-and-select-page-type.png)
 
 10. Дайте странице **имя**, определите **таблицу**, лежащую в ее основе, и, по желанию, укажите **значок** для страницы.
 
-![Добавьте страницу приложения и заполните данные](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-fill-in-details.png)
+![Добавьте страницу приложения и заполните данные](images/Add-app-page-and-fill-in-details.png)
 
 12. Подтвердите с помощью кнопки **Отправить**.
 
@@ -63,7 +63,7 @@ url: '/ru/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten
 
 Кроме того, можно перемещать страницы с помощью **перетаскивания**. Для этого, удерживая кнопку мыши на **шести точках** перед значком страницы, перетащите страницу в навигации в нужное место и отпустите.
 
-![Перемещение страниц универсального приложения с помощью drag-and-drop](https://seatable.io/wp-content/uploads/2023/05/move-pages-via-drag-and-drop.gif)
+![Перемещение страниц универсального приложения с помощью drag-and-drop](images/move-pages-via-drag-and-drop.gif)
 
 ## Создание новой папки в универсальном приложении
 
@@ -80,11 +80,11 @@ url: '/ru/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten
 
 6. Нажмите **Добавить страницу или Добавить папку**, а затем выберите **Добавить папку**.
 
-![Добавьте папку в универсальное приложение](https://seatable.io/wp-content/uploads/2023/05/Add-folder-in-Universal-Apps.png)
+![Добавьте папку в универсальное приложение](images/Add-folder-in-Universal-Apps.png)
 
 8. **Назовите** папку и по желанию выберите для нее подходящий **значок**.
 
-![Добавьте новую папку в приложение](https://seatable.io/wp-content/uploads/2023/05/Add-new-folder-to-app.png)
+![Добавьте новую папку в приложение](images/Add-new-folder-to-app.png)
 
 10. Подтвердите с помощью кнопки **Отправить**.
 
@@ -92,22 +92,22 @@ url: '/ru/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten
 
 Если вы уже создали папку в своем универсальном приложении, вы можете нажать на **три точки** в этой папке и **добавить страницу** напрямую.
 
-![Добавление страниц в папку в универсальном приложении](https://seatable.io/wp-content/uploads/2023/05/add-page-via-folder-to-universal-app.png)
+![Добавление страниц в папку в универсальном приложении](images/add-page-via-folder-to-universal-app.png)
 
 ## Изменение имени и значка папки
 
 Вы можете в любое время **переименовать** папки в универсальном приложении с помощью **трех точек**. Таким же образом можно настроить **значок** папки.
 
-![Настройка имени и значка папки в универсальном приложении](https://seatable.io/wp-content/uploads/2023/05/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
+![Настройка имени и значка папки в универсальном приложении](images/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
 
 ## Удалить папку
 
 Вы можете в любой момент **удалить** из своего универсального приложения папки, которые больше не нужны. Обратите внимание, что **все страницы** в папке также будут **удалены**. Удаление является окончательным. Это означает, что ни папка, ни отдельные страницы впоследствии не могут **быть** восстановлены.
 
-![Удаление папки в универсальном приложении](https://seatable.io/wp-content/uploads/2023/05/delete-folder-in-your-universal-app-new.png)
+![Удаление папки в универсальном приложении](images/delete-folder-in-your-universal-app-new.png)
 
 ## Переместить папку
 
 Папки можно перемещать только **методом перетаскивания**. Для этого, удерживая кнопку мыши на **шести точках** перед значком папки, перетащите папку в навигации в нужное место и отпустите.
 
-![Перемещение папок в универсальном приложении с помощью перетаскивания](https://seatable.io/wp-content/uploads/2023/05/move-folders-in-the-universal-app-via-drag-and-drop.gif)
+![Перемещение папок в универсальном приложении с помощью перетаскивания](images/move-folders-in-the-universal-app-via-drag-and-drop.gif)

@@ -14,11 +14,11 @@ Of course, you can also use SeaTable on **mobile devices** like smartphones and 
 
 When you access SeaTable from a mobile device via a browser, SeaTable's user interface changes to optimize operation for small screen resolutions. The two most obvious changes are the two large round buttons at the bottom right of the screen.
 
-![Mobile view in SeaTable](https://seatable.io/wp-content/uploads/2023/05/mobile-view-seatable.png)
+![Mobile view in SeaTable](images/mobile-view-seatable.png)
 
 About the {{< key "+" >}} new entries can be created and via the {{< key "…" >}} you can switch from the familiar list mode to the grid mode. In this representation, each row is displayed as a separate box, which makes it easier to select.
 
-![SeaTable Grid mode for small resolutions](https://seatable.io/wp-content/uploads/2023/05/seatable-grid-modus.png)
+![SeaTable Grid mode for small resolutions](images/seatable-grid-modus.png)
 
 ## Selection lists instead of small icons
 

@@ -47,7 +47,7 @@ Especially for companies and organizations it can be interesting to individualiz
 
 For this purpose, you can brand your form with your **logo**.
 
-![Change logo in web form](https://seatable.io/wp-content/uploads/2023/01/webformular.png)
+![Change logo in web form](images/webformular.png)
 
 You also have the option to customize the top **color bar**. To do so, click **Color Scheme** in the upper right corner next to Settings.
 

@@ -1,11 +1,11 @@
 ---
-title: "Tipps und Tricks beim Import von CSV- oder XLSX-Dateien"
+title: 'Tipps und Tricks beim Import von CSV- oder XLSX-Dateien'
 date: 2022-10-15
-lastmod: "2023-01-19"
-categories: 
-  - "import-von-daten"
-author: "nsc2"
-url: "/de/hilfe/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien"
+lastmod: '2023-01-19'
+categories:
+    - 'import-von-daten'
+author: 'nsc2'
+url: '/de/hilfe/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien'
 ---
 
 In SeaTable haben Sie die Möglichkeit, sowohl **CSV-** als auch **Excel-Dateien (.xlsx)** in Ihre Bases zu **importieren**. Damit beim Daten-Import auch alles nach Plan läuft und keine Daten verloren gehen, haben wir die wichtigsten **Tipps und Tricks** beim Import von CSV- oder XLSX-Dateien für Sie zusammengefasst. Wenn Sie diese Tipps und Tricks befolgen, werden Sie erfolgreich Ihre Daten in SeaTable importieren:
@@ -20,7 +20,7 @@ In SeaTable haben Sie die Möglichkeit, sowohl **CSV-** als auch **Excel-Dateien
 
 Häufig treten Probleme beim Import von Excel-Dateien auf, wenn diese **Strukturen** und Inhalte enthalten, **die nicht zur Tabelle gehören**. Die folgende Grafik zeigt einen solchen Fall. Die Überschrift, das Datum und die Spalten A und D gehören nicht zur Tabelle und müssen vor dem Import entfernt werden.
 
-![Excel list with bad elements](https://seatable.io/wp-content/uploads/2022/10/tipps-import.png)
+![Excel list with bad elements](images/tipps-import.png)
 
 Auch **Grafiken** werden bei einem Import nicht berücksichtigt und sollten somit vor dem Importversuch gelöscht werden.
 

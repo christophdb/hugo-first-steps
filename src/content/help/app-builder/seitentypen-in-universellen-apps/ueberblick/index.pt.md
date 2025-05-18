@@ -17,13 +17,13 @@ Neste artigo de síntese, ficará a conhecer os tipos de página disponíveis e 
 
 Atualmente, é possível escolher entre um total de **nove tipos de páginas** no modo de edição da aplicação universal.
 
-![Tipos de página Aplicação universal](https://seatable.io/wp-content/uploads/2023/05/Seitentypen-Universal-App.png)
+![Tipos de página Aplicação universal](images/Seitentypen-Universal-App.png)
 
 [Saiba como criar novas páginas na Aplicação Universal aqui.](https://seatable.io/pt/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
 
 Para editar páginas existentes, clique no **símbolo de roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
 
-![Clique no ícone de edição](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Clique no ícone de edição](images/page-permissions-universal-app.png)
 
 ## Tipo de página: Tabela
 

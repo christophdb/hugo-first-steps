@@ -23,7 +23,7 @@ To precisely control **access to your data**, you can set **individual page perm
 
 6. Select the desired **page** from the navigation on the left side of the page and click on the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 
-![Click on the edit icon](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Click on the edit icon](images/page-permissions-universal-app.png)
 
 8. Set the desired **permissions** in the **page settings** that appeared on the right side of the **page**.
 

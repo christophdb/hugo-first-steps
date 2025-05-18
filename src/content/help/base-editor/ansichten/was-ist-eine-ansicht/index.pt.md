@@ -28,7 +28,7 @@ O que significa isto? Aqui estão alguns **exemplos de pontos de vista** que pod
 
 A **vista de tabela** é o formato de exibição padrão numa base SeaTable. É muito semelhante a uma folha de cálculo porque os registos estão organizados em filas e colunas.
 
-![Vista de tabela](https://seatable.io/wp-content/uploads/2023/01/Tabelle.png)
+![Vista de tabela](images/Tabelle.png)
 
 Pode utilizar outras representações tais como calendário, galeria ou kanban sob a forma de [plug-ins](https://seatable.io/pt/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
 

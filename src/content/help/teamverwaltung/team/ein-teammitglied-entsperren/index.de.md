@@ -1,11 +1,11 @@
 ---
-title: "Ein Teammitglied entsperren"
+title: 'Ein Teammitglied entsperren'
 date: 2023-02-03
-lastmod: "2023-02-14"
-categories: 
-  - "teamverwaltung"
-author: "cdb"
-url: "/de/hilfe/ein-teammitglied-entsperren"
+lastmod: '2023-02-14'
+categories:
+    - 'teamverwaltung'
+author: 'cdb'
+url: '/de/hilfe/ein-teammitglied-entsperren'
 ---
 
 [Gesperrte Teammitglieder](https://seatable.io/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) können sich nicht mehr einloggen und nicht mehr mit Ihnen arbeiten. Als **Team-Administrator** können Sie diese Sperre aber wieder aufheben.
@@ -25,4 +25,4 @@ Aus eigenen Kräften kann das Teammitglied an dieser Stelle nichts mehr tun.
 3. Wählen Sie das gesperrte **Teammitglied** aus.
 4. Schalten Sie den Regler **Benutzer deaktivieren** aus.
 
-![Deaktivierten User wieder aktivieren.](https://seatable.io/wp-content/uploads/2023/02/enable-disabled-user.png) Sobald Sie die Änderung **gespeichert** haben, kann sich das Teammitglied wieder in der SeaTable Cloud einloggen oder ein neues Passwort anfordern.
+![Deaktivierten User wieder aktivieren.](images/enable-disabled-user.png) Sobald Sie die Änderung **gespeichert** haben, kann sich das Teammitglied wieder in der SeaTable Cloud einloggen oder ein neues Passwort anfordern.

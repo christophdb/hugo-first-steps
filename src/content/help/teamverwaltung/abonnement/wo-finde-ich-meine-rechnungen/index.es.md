@@ -1,11 +1,11 @@
 ---
-title: "¿Dónde puedo encontrar mis facturas? - Mesa de mar"
+title: '¿Dónde puedo encontrar mis facturas? - Mesa de mar'
 date: 2023-01-13
-lastmod: "2023-01-28"
-categories: 
-  - "abo-abrechnung"
-author: "nsc2"
-url: "/es/ayuda/wo-finde-ich-meine-rechnungen"
+lastmod: '2023-01-28'
+categories:
+    - 'abo-abrechnung'
+author: 'nsc2'
+url: '/es/ayuda/wo-finde-ich-meine-rechnungen'
 ---
 
 Puede ver y descargar sus facturas con sólo unos clics a través de la administración del equipo. Puede encontrarlos en la pestaña Suscripción.
@@ -22,7 +22,7 @@ También puedes utilizar este enlace:
 3. Haga clic en **Facturas**.
 4. Ahora puede ver todas las facturas disponibles y también ordenarlas por **estado de pago**, **importe** o **número de factura**.
 
-![Sus facturas en la gestión del equipo SeaTable.](https://seatable.io/wp-content/uploads/2023/01/seatable-rechnungen-teamverwaltung.png)
+![Sus facturas en la gestión del equipo SeaTable.](images/seatable-rechnungen-teamverwaltung.png)
 
 ## Descargar la factura en PDF
 

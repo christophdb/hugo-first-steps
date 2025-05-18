@@ -12,7 +12,7 @@ Vous pouvez **modifier** et **supprimer** à tout moment les règles de notifica
 
 ## Pour modifier une règle de notification
 
-![Modifier une règle de notification](https://seatable.io/wp-content/uploads/2023/02/edit-notification-rules.jpg)
+![Modifier une règle de notification](images/edit-notification-rules.jpg)
 
 1. Ouvrez la **base** dans laquelle vous souhaitez modifier une règle de notification déjà créée.
 2. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}}, puis sur **Règles de notification**.
@@ -39,7 +39,7 @@ Après confirmation des modifications effectuées, celles-ci sont automatiquemen
 
 ## Pour supprimer une règle de notification
 
-![Suppression d'une règle de notification](https://seatable.io/wp-content/uploads/2023/02/delete-notification.jpg)
+![Suppression d'une règle de notification](images/delete-notification.jpg)
 
 1. Ouvrez la **base** dans laquelle vous souhaitez supprimer une règle de notification déjà créée.
 2. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}}, puis sur **Règles de notification**.

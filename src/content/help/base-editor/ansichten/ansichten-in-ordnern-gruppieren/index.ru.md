@@ -19,7 +19,7 @@ url: '/ru/help/ansichten-in-ordnern-gruppieren'
 5. Подведите мышь к виду, который нужно переместить в созданную папку.
 6. Держать **Символ с шестью точками**
 
-    ![Иконка для перемещения элементов](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Иконка для перемещения элементов](images/move-icon.png)
     для перемещения и перетаскивания вида в нужную папку.
 
 ![Группировка представлений в папках](images/Ansichten-in-Ordnern-gruppieren.gif)

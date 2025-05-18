@@ -20,13 +20,13 @@ Beachten Sie jedoch, dass die Sperrung einer Ansicht grundsätzlich **keinen** E
 2. Klicken Sie auf das **Schloss** in den Ansichtsoptionen über der Tabelle.
 3. Die **Sperrung** der entsprechenden Ansicht ist nun **aktiv** und kann durch einen weiteren Klick auf das **Schloss** wieder aufgehoben werden.
 
-![Ansicht sperren](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Ansicht sperren](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)
 
 ## Auswirkungen
 
 Wenn ein Nutzer mit Eigentümer- oder Admin-Rechten eine Ansicht sperrt, friert er die aktuelle Konfiguration der Ansicht ein und unterbindet **Einstellungsänderungen** von Gruppenmitgliedern ohne diese Rechte.
 
-![gesperrte Ansichtsoptionen](https://seatable.io/wp-content/uploads/2022/10/locked-view.png)
+![gesperrte Ansichtsoptionen](images/locked-view.png)
 
 In der gesperrten Ansicht können folgende Einstellungen **nicht** mehr geändert werden:
 

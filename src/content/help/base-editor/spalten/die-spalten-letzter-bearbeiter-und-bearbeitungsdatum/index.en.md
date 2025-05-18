@@ -16,7 +16,7 @@ Since the two columns automatically capture changes to entries, they are well su
 
 While SeaTable fills the **Last Ed** ited column with the name of the user who last edited a row , the **Edited Date** column records the exact time (date and time) when the last edit occurred.
 
-![The columns "Last editor" and "Last edited" after being created by a user](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![The columns "Last editor" and "Last edited" after being created by a user](images/last-modifiere-and-last-modified-time.png)
 
 ## Special features of the two column types
 

@@ -12,7 +12,7 @@ As tabelas em SeaTable podem conter milhares de registos de dados. Para lhe perm
 
 ## Para encontrar o que procura numa mesa
 
-![Encontrar uma célula ou valor numa tabela](https://seatable.io/wp-content/uploads/2022/10/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
+![Encontrar uma célula ou valor numa tabela](images/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
 
 1. Abra qualquer **tabela** numa Base onde esteja à procura de um valor ou célula específica.
 2. Clique na **lupa** na parte superior direita sob as opções da base.

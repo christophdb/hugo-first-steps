@@ -12,7 +12,7 @@ Gelöschte Tabellen, Zeilen und Spalten können Sie jederzeit im Papierkorb der 
 
 ## Tabellen, Zeilen und Spalten aus dem Papierkorb zurückholen
 
-![](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-10-27-12-04-15.png)
+![](images/Screenshot-from-2022-10-27-12-04-15.png)
 
 1. Klicken Sie rechts oben in den Base-Optionen auf **Versionen**.
 2. Öffnen Sie den **Papierkorb**.

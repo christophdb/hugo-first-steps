@@ -34,13 +34,13 @@ Digitale Unterschriften eignen sich sehr gut für die Datenerfassung mithilfe vo
 
 Um eine im Panel eingetragene Unterschrift zu sichern, klicken Sie einfach auf **Speichern**. Die im Panel hinterlegte Unterschrift wird im Anschluss in der Zelle gespeichert und kann per Doppelklick jederzeit aufgerufen werden.
 
-![In einer Signatur-Spalte gespeicherte Unterschrift ](https://seatable.io/wp-content/uploads/2023/06/stored-signatur-in-cell-1.png)
+![In einer Signatur-Spalte gespeicherte Unterschrift ](images/stored-signatur-in-cell-1.png)
 
 ## Eine digitale Unterschrift ändern
 
 Wenn Sie mit Ihrer hinterlegten Signatur nicht zufrieden sind und nochmals unterschreiben möchten, klicken Sie einfach auf **Erneut unterschreiben**. Beachten Sie, dass die gesamte eingegebene Unterschrift dabei überschrieben wird. Die Änderung von einzelnen Teilen Ihrer Unterschrift ist **nicht** möglich.
 
-![Erneut im Signatur-Panel unterschreiben](https://seatable.io/wp-content/uploads/2023/06/resign.jpg)
+![Erneut im Signatur-Panel unterschreiben](images/resign.jpg)
 
 {{< warning  headline="Datei nicht gelöscht"  text="Die ursprüngliche Unterschrift bleibt allerdings in der [Dateiverwaltung](\"https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/\") der Base als PNG-Datei abrufbar, wenn Sie sie bereits gespeichert hatten." />}}
 
@@ -48,8 +48,8 @@ Wenn Sie mit Ihrer hinterlegten Signatur nicht zufrieden sind und nochmals unter
 
 Jede hinterlegte Unterschrift ist auch in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base als PNG-Datei in einem **Systemordner** gespeichert.
 
-![Ordner im Dateimanagement Ihrer Base, in dem Ihre Signaturen gespeichert werden ](https://seatable.io/wp-content/uploads/2023/06/stored-signatures-in-filemanagement.jpg)
+![Ordner im Dateimanagement Ihrer Base, in dem Ihre Signaturen gespeichert werden ](images/stored-signatures-in-filemanagement.jpg)
 
 Von dort aus können Sie Ihre Unterschriften sowohl **herunterladen** als auch **löschen**.
 
-![](https://seatable.io/wp-content/uploads/2023/06/Bild-06.06.23-um-19.18-511x87.jpg)
+![](images/Bild-06.06.23-um-19.18-511x87.jpg)

@@ -25,5 +25,5 @@ Le membre de l'équipe ne peut plus rien faire par ses propres moyens à ce stad
 3. Sélectionnez le **membre de l'équipe** bloqué.
 4. Désactivez le curseur **Désactiver l'utilisateur**.
 
-![Réactiver l'utilisateur désactivé.](https://seatable.io/wp-content/uploads/2023/02/enable-disabled-user.png)  
+![Réactiver l'utilisateur désactivé.](images/enable-disabled-user.png)  
 Une fois que vous avez effectué le changement **enregistré** le membre de l'équipe peut se reconnecter au SeaTable Cloud ou demander un nouveau mot de passe.

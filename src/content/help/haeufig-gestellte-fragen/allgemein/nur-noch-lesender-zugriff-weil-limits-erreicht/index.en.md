@@ -24,4 +24,4 @@ Please also note that your **limits** may also be reached if you switch your sub
 
 Therefore, **before** switching to a lower subscription package, please make sure that your data does **not** exceed the limits of the newly booked package. You will also receive a **notice** from SeaTable before confirming a subscription change in the team administration.
 
-![Note displayed to you before confirming a change to a lower subscription package](https://seatable.io/wp-content/uploads/2023/01/Hinweis-Wechsel-Abo-Paket.png)
+![Note displayed to you before confirming a change to a lower subscription package](images/Hinweis-Wechsel-Abo-Paket.png)

@@ -22,4 +22,4 @@ If these requirements are met, you can activate payment by invoice at any time i
 
 Afterwards you will receive an invoice from us with the request to transfer the invoice amount to our German bank account.
 
-![Activate payment on invoice](https://seatable.io/wp-content/uploads/2023/01/Zahlung-per-Rechnung.png)
+![Activate payment on invoice](images/Zahlung-per-Rechnung.png)

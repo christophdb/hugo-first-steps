@@ -16,7 +16,7 @@ Wenn Sie Eigentümer- oder Administrator-Rechte besitzen, können Sie in jeder T
 
 ## Spaltenberechtigungen festlegen
 
-![Spaltenberechtigungen festlegen](https://seatable.io/wp-content/uploads/2023/02/edit-column-permissions.gif)
+![Spaltenberechtigungen festlegen](images/edit-column-permissions.gif)
 
 1. Klicken Sie auf das **Drop-down-Symbol** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} im Kopf einer beliebigen Spalte.
 2. Klicken Sie auf **Spaltenberechtigungen bearbeiten**.

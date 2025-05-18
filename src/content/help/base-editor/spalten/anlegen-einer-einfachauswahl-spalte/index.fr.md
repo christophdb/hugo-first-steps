@@ -10,13 +10,13 @@ url: '/fr/aide/anlegen-einer-einfachauswahl-spalte'
 
 Une colonne de sélection simple est idéale si vous souhaitez attribuer à vos lignes **exactement une option** parmi une liste d'options à définir. Les options reçoivent des **étiquettes** colorées qui vous permettent de classer vos enregistrements dans des **catégories** et d'organiser vos tableaux de manière claire.
 
-![Champ de sélection simple dans SeaTable.](https://seatable.io/wp-content/uploads/2022/10/single-select-column.png)
+![Champ de sélection simple dans SeaTable.](images/single-select-column.png)
 
 ## Création d'une colonne de sélection simple
 
 La création d'une colonne de sélection simple est un jeu d'enfant et se fait en quelques clics. Vous trouverez des informations détaillées sous [Ajouter une colonne]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
-![Création d'une colonne de sélection simple](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
+![Création d'une colonne de sélection simple](images/define-single-select-column.png)
 
 1. Cliquez sur le **symbole \[+\]** à droite de la dernière colonne de n'importe quel tableau.
 2. Donnez un **nom** à la nouvelle colonne.
@@ -29,7 +29,7 @@ Vous pouvez ajouter de nouvelles options à une colonne de sélection simple de 
 
 Actuellement, 24 couleurs sont disponibles pour mettre en évidence visuellement les options respectives.
 
-![Couleurs de la colonne de sélection simple](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Couleurs de la colonne de sélection simple](images/farben-einfachauswahl.png)
 
 Avec un [abonnement Enterprise](https://seatable.io/fr/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), vous avez en outre la possibilité de créer [vos propres couleurs](https://seatable.io/fr/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) pour vos options de sélection simple.
 
@@ -43,7 +43,7 @@ Le tri des options ne fonctionne **pas par ordre alphabétique**, mais en foncti
 
 Lorsque vous créez une colonne de sélection simple, vous avez la possibilité de définir une **valeur par défaut** prédéfinie. La valeur par défaut est **automatiquement** attribuée à chaque nouvelle ligne en tant qu'option.
 
-![Valeur par défaut pour une colonne de sélection simple](https://seatable.io/wp-content/uploads/2022/10/default-value-single-select.png)
+![Valeur par défaut pour une colonne de sélection simple](images/default-value-single-select.png)
 
 ## Colonne de sélection simple ou colonne de liaison ?
 

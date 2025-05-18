@@ -45,6 +45,6 @@ Hay dos formas de que distintos sistemas se comuniquen entre sí para intercambi
 
 Con el sondeo, se solicita información, lo que da lugar a un intercambio constante, aunque no se produzca ningún suceso.
 
-![Webhooks vs Sondeo](https://seatable.io/wp-content/uploads/2023/02/webhooks-vs-polling.png)
+![Webhooks vs Sondeo](images/webhooks-vs-polling.png)
 
 En cambio, los webhooks sólo necesitan comunicarse cuando se produce un evento.

@@ -1,11 +1,11 @@
 ---
-title: "Wie kann man den SeaTable Newsletter bestellen oder abbestellen?"
+title: 'Wie kann man den SeaTable Newsletter bestellen oder abbestellen?'
 date: 2023-03-02
-lastmod: "2023-03-13"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "cdb"
-url: "/de/hilfe/seatable-newsletter-bestellen-oder-abbestellen"
+lastmod: '2023-03-13'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'cdb'
+url: '/de/hilfe/seatable-newsletter-bestellen-oder-abbestellen'
 ---
 
 Sorgen Sie dafür, dass Sie nur E-Mails erhalten, die für Sie wichtige Informationen erhalten, indem Sie Ihre E-Mail-Abonnement-Einstellungen ändern.
@@ -23,7 +23,6 @@ Hier finden Sie eine Auflistung der verschiedenen Arten von E-Mails, die Sie von
 2. Scrollen Sie bis zum Ende dieser E-Mail.
 3. Klicken Sie auf den Link **Newsletter abbestellen**.
 
-![Einstellungen zum Newsletterempfang verwalten.](https://seatable.io/wp-content/uploads/2023/03/abbestellen-des-newsletters.png)
-5. Nehmen Sie die gewünschten Änderungen auf der sich öffnenden Seite vor und speichern Sie Ihre Änderungen.
+![Einstellungen zum Newsletterempfang verwalten.](images/abbestellen-des-newsletters.png) 5. Nehmen Sie die gewünschten Änderungen auf der sich öffnenden Seite vor und speichern Sie Ihre Änderungen.
 
-![Verwalten der E-Mail Benachrichtigungen](https://seatable.io/wp-content/uploads/2023/03/newsletter-management.png)
+![Verwalten der E-Mail Benachrichtigungen](images/newsletter-management.png)

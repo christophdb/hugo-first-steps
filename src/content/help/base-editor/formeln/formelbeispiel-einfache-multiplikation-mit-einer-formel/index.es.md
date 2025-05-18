@@ -18,17 +18,17 @@ En el ejemplo concreto, el objetivo es utilizar una fórmula para calcular el **
 
 Para ello, añada primero una **columna de fórmulas** a la tabla, en cuyo editor podrá definir una fórmula.
 
-![Campo de texto para añadir cualquier fórmula](https://seatable.io/wp-content/uploads/2023/01/start-to-insert-formular.png)
+![Campo de texto para añadir cualquier fórmula](images/start-to-insert-formular.png)
 
 Para multiplicar dos valores de una fila entre sí, debe hacer referencia a los **nombres de las columnas** en las que se encuentran los **valores** correspondientes en la fórmula. Es especialmente importante que los nombres de las columnas estén entre **paréntesis**, ya que de lo contrario SeaTable no podrá reconocer qué valores deben multiplicarse entre sí.
 
 {{< warning  headline="Consejo"  text="Los **nombres de las columnas de** la tabla seleccionada aparecen a la izquierda en el **editor de fórmulas** y pueden insertarse en la fórmula con un **doble clic**." />}}
 
-![Cuando haga referencia a nombres de columnas en sus tablas, enciérrelos siempre entre llaves](https://seatable.io/wp-content/uploads/2023/01/formula-example-1.png)
+![Cuando haga referencia a nombres de columnas en sus tablas, enciérrelos siempre entre llaves](images/formula-example-1.png)
 
 Para completar la fórmula, añada un **signo de multiplicación** entre los dos nombres de columna, que encontrará en el editor de fórmulas bajo los **operandos**.
 
-![Añadir el signo de multiplicación entre los dos nombres de columna](https://seatable.io/wp-content/uploads/2023/01/finish-formular-multiplication.png)
+![Añadir el signo de multiplicación entre los dos nombres de columna](images/finish-formular-multiplication.png)
 
 Alternativamente, puede escribir la multiplicación como una fórmula según el esquema **multiplicar({columna1}, {columna2})** en el editor de fórmulas.
 

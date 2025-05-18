@@ -16,7 +16,7 @@ weight: 1
 Этот курс идеально подходит для вас, если вы:
 
 - хотите разработать бизнес-процесс с помощью SeaTable.
-- вы хотите глубже изучить функции SeaTable после прохождения [онлайн-курса Level 1](https://seatable.io/ru/docs/online-kurs/level-eins-einfuehrung/).
+- вы хотите глубже изучить функции SeaTable после прохождения [онлайн-курса Level 1]({{< relref "help/erste-schritte/online-kurs-1/level-eins-einfuehrung" >}}).
 
 ## Чему я научусь на этом онлайн-курсе?
 

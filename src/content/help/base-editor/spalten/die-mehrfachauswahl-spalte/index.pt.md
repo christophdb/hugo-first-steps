@@ -27,7 +27,7 @@ Adicionar opções a uma coluna de multi-selecção funciona da **mesma forma qu
 
 Actualmente, estão disponíveis 24 cores para destacar visualmente as respectivas opções.
 
-![Cores da coluna de selecção única](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Cores da coluna de selecção única](images/farben-einfachauswahl.png)
 
 Com uma [subscrição Enterprise](https://seatable.io/pt/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), também tem a opção de criar as suas [próprias cores](https://seatable.io/pt/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) para as suas múltiplas opções de selecção.
 

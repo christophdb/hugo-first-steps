@@ -12,7 +12,7 @@ In SeaTable haben Sie die Möglichkeit, im Arbeitsbereich **Meine Bases** eine n
 
 ## Eine neue leere Base über die Startseite erstellen
 
-![Eine neue leere Base über die Startseite erstellen](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-starting-page.gif)
+![Eine neue leere Base über die Startseite erstellen](images/create-new-base-via-starting-page.gif)
 
 1. Beginnen Sie auf der **Startseite** von SeaTable.
 2. Klicken Sie im entsprechenden Arbeitsbereich (Meine Bases oder eine Ihrer Gruppen) auf **Eine Base oder Ordner hinzufügen**.
@@ -26,7 +26,7 @@ Sie können Ihre neue Base nun nach Belieben mit **Inhalten** füllen und Prozes
 
 Zusätzlich besteht die Möglichkeit, eine neue Base über einen Ordner zu erstellen.
 
-![Base über einen Ordner erstellen](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-folder-overview.gif)
+![Base über einen Ordner erstellen](images/create-new-base-via-folder-overview.gif)
 
 1. Beginnen Sie auf der **Startseite** von SeaTable.
 2. Klicken Sie im entsprechenden Arbeitsbereich (Meine Bases oder eine Ihrer Gruppen) auf einen **Ordner**.

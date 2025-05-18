@@ -20,13 +20,13 @@ Tenga en cuenta, no obstante, que el bloqueo de una vista **no** suele influir e
 2. Haga clic en el **candado de** las opciones de visualización situadas encima de la tabla.
 3. El **bloqueo de** la vista correspondiente está ahora **activo** y puede eliminarse haciendo clic de nuevo en el **bloqueo**.
 
-![Vista de la cerradura](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Vista de la cerradura](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)
 
 ## Impacto
 
 Cuando un usuario con derechos de propietario o administrador bloquea una vista, congela la configuración actual de la vista e impide que los miembros del grupo sin estos derechos **realicen cambios en la configuración**.
 
-![opciones de vista bloqueada](https://seatable.io/wp-content/uploads/2022/10/locked-view.png)
+![opciones de vista bloqueada](images/locked-view.png)
 
 En la vista bloqueada, ya **no** se pueden modificar los siguientes ajustes:
 

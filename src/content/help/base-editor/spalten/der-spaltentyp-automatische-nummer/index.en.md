@@ -14,7 +14,7 @@ Note that this column is _not_ intended to count the number of records in a tabl
 
 To **renumber** your records (for example, to eliminate gaps), you can either delete the _Automatic Number_ column and recreate it, or change the column type and then convert it to _Automatic Number_ again.
 
-![rows with an automatic number](https://seatable.io/wp-content/uploads/2023/01/auto-number.gif)
+![rows with an automatic number](images/auto-number.gif)
 
 ## Three formats are available
 

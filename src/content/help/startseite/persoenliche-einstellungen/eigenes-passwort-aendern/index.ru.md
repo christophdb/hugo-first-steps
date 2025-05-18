@@ -28,6 +28,6 @@ url: '/ru/help/eigenes-passwort-aendern'
 
 Чтобы отобразить пароль в виде **обычного текста**, нажмите на **символ глаза** справа от него. Вы также автоматически увидите **силу** вашего нового пароля.
 
-![Оцените надежность пароля](https://seatable.io/wp-content/uploads/2023/02/Staerke-des-Passworts-beurteilen.png)
+![Оцените надежность пароля](images/Staerke-des-Passworts-beurteilen.png)
 
 10. Подтвердите изменение пароля командой **Update**.

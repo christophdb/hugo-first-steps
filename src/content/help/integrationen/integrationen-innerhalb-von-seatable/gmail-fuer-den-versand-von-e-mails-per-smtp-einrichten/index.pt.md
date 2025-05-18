@@ -21,7 +21,7 @@ Uma [palavra-passe de aplicação](https://support.google.com/accounts/answer/18
 1. Abra a [gestão de palavras-passe da aplicação](https://myaccount.google.com/apppasswords) do Google - inicie sessão na sua **conta Google** quando lhe for pedido.
 2. Introduza um **nome**, por exemplo, "SeaTable", e clique em "Criar".
 
-![Gerar uma palavra-passe da aplicação Google](https://seatable.io/wp-content/uploads/2023/01/Google_App_Password.gif)
+![Gerar uma palavra-passe da aplicação Google](images/Google_App_Password.gif)
 
 4. Copie a palavra-passe da aplicação gerada para a área de transferência.
 
@@ -45,7 +45,7 @@ Agora precisa de adicionar a sua conta Gmail como terceiro na sua base SeaTable.
     - **Nome de utilizador**: O seu endereço Gmail, por exemplo, "seatable@gmail.com
     - **Palavra-passe**: a palavra-passe da aplicação gerada a partir da cache
 
-![Configurar o Gmail com a palavra-passe da aplicação para enviar mensagens de correio eletrónico a partir de uma base SeaTable](https://seatable.io/wp-content/uploads/2023/01/ThirdPartyIntegration_Gmail.png)
+![Configurar o Gmail com a palavra-passe da aplicação para enviar mensagens de correio eletrónico a partir de uma base SeaTable](images/ThirdPartyIntegration_Gmail.png)
 
 ## Autenticação via OAuth 2.0
 
@@ -62,7 +62,7 @@ Sendo uma plataforma para programadores, a Consola Cloud parece confusa para os 
 3. Permitir que o projeto criado utilize a API do Gmail. Para tal, clique com o rato no campo de pesquisa na parte superior do ecrã, introduza "Gmail API" e clique no resultado de pesquisa correspondente. Ativar a API do Google.
 4. Todos os passos seguintes são efectuados na **plataforma Google Auth**. Clique no ícone de sanduíche no canto superior esquerdo e, em seguida, selecione "Todos os produtos" na secção "Soluções". Na página do produto, clique em "Google Auth Platform".
 
-![Navegando para a Plataforma de autenticação do Google no Console do Google Cloud](https://seatable.io/wp-content/uploads/2023/01/GoogleAuthPlatform.png)
+![Navegando para a Plataforma de autenticação do Google no Console do Google Cloud](images/GoogleAuthPlatform.png)
 
 6. Efectue as **configurações necessárias** na plataforma Google Auth: Introduza um nome de aplicação, um endereço de correio eletrónico de apoio e um endereço de correio eletrónico de contacto (por exemplo, o seu endereço Gmail). Selecione "Externo" como grupo-alvo. Aceite os termos de utilização e finalize a configuração.
 7. Clique em **"Grupo-alvo"** na página de navegação da Google Auth Platform. Adicione o seu endereço de e-mail do Google como um utilizador de teste.
@@ -74,7 +74,7 @@ Sendo uma plataforma para programadores, a Consola Cloud parece confusa para os 
 
     Se não estiver a utilizar o SeaTable Cloud, substitua cloud.seatable.io pelo nome de anfitrião da sua instância do SeaTable. Role até a parte inferior da página e confirme a criação do cliente OAuth.
 
-![Um cliente OAuth 2.0 configurado no Google Cloud Console](https://seatable.io/wp-content/uploads/2023/01/Configured_OAuth_Client_GoogleCloudConsole.png)
+![Um cliente OAuth 2.0 configurado no Google Cloud Console](images/Configured_OAuth_Client_GoogleCloudConsole.png)
 
 10. O cliente recém-criado é agora apresentado na lista de clientes OAuth 2.0. As definições do cliente podem ser apresentadas clicando no seu nome. O ID do cliente apresentado e a chave do cliente são essenciais para a configuração subsequente no SeaTable.
 

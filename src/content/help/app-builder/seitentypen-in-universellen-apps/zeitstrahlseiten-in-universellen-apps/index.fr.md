@@ -16,7 +16,7 @@ Ce type de page présente une grande similitude avec le [plug-in Timeline](https
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Modifier les paramètres de la page de la ligne du temps](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
+![Modifier les paramètres de la page de la ligne du temps](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
 Dans les **paramètres de la page**, vous pouvez tout d'abord régler la représentation graphique des lignes de temps. Pour cela, choisissez la [couleur des lignes]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou une [colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) qui détermine la **couleur des blocs**. Vous pouvez également définir une colonne pour le **libellé des blocs**.
 
@@ -40,7 +40,7 @@ Les utilisateurs peuvent afficher plus d'informations sur une entrée en cliquan
 
 Si vous ajoutez un **regroupement**, l'affichage des barres peut également se faire en **swimlanes**. Pour les activités qui ne se chevauchent pas, cette option d'affichage permet d'obtenir une représentation compacte et claire.
 
-![Regroupement sur les pages de la timeline](https://seatable.io/wp-content/uploads/2023/12/Grouping-on-timeline-pages.png)
+![Regroupement sur les pages de la timeline](images/Grouping-on-timeline-pages.png)
 
 ## Modifier ou déplacer une entrée sur la ligne du temps
 
@@ -58,4 +58,4 @@ De plus, vous pouvez facilement **déplacer** les entrées sur la ligne du temps
 
 Tout en bas, dans les paramètres de la page, vous pouvez limiter les personnes autorisées à **voir** la page de la ligne du temps et **à modifier les** entrées. Vous ne pouvez pas ajouter ou supprimer de lignes via les pages de la ligne du temps.
 
-![Autorisations des pages de la ligne du temps](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Autorisations des pages de la ligne du temps](images/Seitenberechtigungen-von-Kalenderseiten.png)

@@ -14,24 +14,24 @@ You can use the date column to enter **times** and **dates** in your tables down
 
 When creating a date column, you can first select a suitable **format** depending on the region and standard.
 
-![Date format selection ](https://seatable.io/wp-content/uploads/2023/01/Auswahl-des-Datumsformats.png)
+![Date format selection ](images/Auswahl-des-Datumsformats.png)
 
 In addition, you can decide whether you want to raise the date to the **minute** or just the **day**. To do this, activate the slider:
 
-![Options when creating a date column](https://seatable.io/wp-content/uploads/2023/01/Optionen-beim-Anlegen-der-Datums-Spalte.png)
+![Options when creating a date column](images/Optionen-beim-Anlegen-der-Datums-Spalte.png)
 
 The second slider allows you to set whether a **default value** (for example, a specific date or the current date) should already be entered whenever you create a new row .
 
-![Set a default value in a date column](https://seatable.io/wp-content/uploads/2023/01/Set-a-default-value-in-a-date-column.png)
+![Set a default value in a date column](images/Set-a-default-value-in-a-date-column.png)
 
 Confirm the dialog to create the date column. Afterwards you can select any date from the displayed **calendar** in each row or enter it via your **keyboard**.
 
-![The input of any date is possible via the displayed calendar as well as via the keyboard.](https://seatable.io/wp-content/uploads/2023/01/date-column.png)
+![The input of any date is possible via the displayed calendar as well as via the keyboard.](images/date-column.png)
 
 **Data collected: accurate to the minute**
 
-![Collected data to the minute](https://seatable.io/wp-content/uploads/2023/01/Erhobene-Daten-auf-die-Minute-genau.png)
+![Collected data to the minute](images/Erhobene-Daten-auf-die-Minute-genau.png)
 
 **Data collected: day only**
 
-![Collected data, exclusively to the day](https://seatable.io/wp-content/uploads/2023/01/Erhobene-Daten-Tag.png)
+![Collected data, exclusively to the day](images/Erhobene-Daten-Tag.png)

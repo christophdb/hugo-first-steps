@@ -14,21 +14,21 @@ Zapier le permite crear una interfaz entre SeaTable y una de las miles de otras 
 
 SeaTable le permite enlazar registros entre dos tablas. Para más detalles, consulte [este artículo de ayuda](https://seatable.io/es/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
 
-![Enlaces en SeaTable](https://seatable.io/wp-content/uploads/2023/06/zapier-linked-columns.png)
+![Enlaces en SeaTable](images/zapier-linked-columns.png)
 
 Ahora hay una característica especial: en lugar de mostrar el valor deseado (en este caso Marion) como en SeaTable, Zapier siempre proporciona el ID de fila de la entrada vinculada para una columna de enlace. Si desea acceder al valor _Marion_ u otras columnas de la entrada vinculada como se muestra aquí, tiene que crear [columnas de búsqueda](https://seatable.io/es/docs/verknuepfungen/die-lookup-funktion/) a través de las cuales puede acceder a los valores deseados. En este ejemplo, tendría que crear otra columna de consulta con el nombre.
 
-![columnas enlazadas en zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-linked-columns2.png)
+![columnas enlazadas en zapier](images/zapier-linked-columns2.png)
 
 ## 2\. ejecutar el Zap cuando se alcance una fecha u hora.
 
 Es muy fácil implementar este requisito si sabes cómo. En este punto, aprovecha que la app SeaTable en Zapier puede limitarse a una vista.
 
-![view based trigger en zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger.png)
+![view based trigger en zapier](images/zapier-view-based-trigger.png)
 
 Cree una [nueva]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) vista y defina un filtro para una columna de fecha que sólo muestre las entradas en las que el valor de la columna de fecha corresponda, por ejemplo, a la fecha de hoy o a una fecha muy especial. Si define el filtro en consecuencia, podrá determinar exactamente cuándo aparece una entrada en esta vista y, por tanto, activa el toque seleccionando la fecha en la columna correspondiente.
 
-![Ejecución temporizada de un zap](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger2.png)
+![Ejecución temporizada de un zap](images/zapier-view-based-trigger2.png)
 
 ## 3\. utilizar fórmulas para evitar el formato en Zapier
 

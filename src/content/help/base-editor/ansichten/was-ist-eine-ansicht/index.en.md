@@ -28,7 +28,7 @@ It is important to understand that a view is just another way of looking at the 
 
 The **table view** is the default display format in a SeaTable Base. It is very similar to a spreadsheet, as the records are organized in rows and columns.
 
-![Table view](https://seatable.io/wp-content/uploads/2023/01/Tabelle.png)
+![Table view](images/Tabelle.png)
 
 You can use other representations like calendar, gallery or kanban in the form of [plugins](https://seatable.io/en/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
 

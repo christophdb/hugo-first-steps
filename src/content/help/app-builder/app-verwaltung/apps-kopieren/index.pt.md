@@ -17,10 +17,10 @@ Criou uma **aplicação** sofisticada que gostaria de utilizar de forma semelhan
 1. Abra a **base** na qual pretende copiar uma aplicação existente.
 2. Clique em **Apps** no cabeçalho Base.
 
-![Clique em Apps no cabeçalho Base](https://seatable.io/wp-content/uploads/2023/04/click-apps-in-the-base-header.jpg)
+![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
 
 4. Passe o rato sobre a aplicação e clique no **ícone de cópia que** aparece {{< seatable-icon icon="dtable-icon-copy" >}}.
 
-![Copiar aplicações](https://seatable.io/wp-content/uploads/2023/05/Apps-kopieren.png)
+![Copiar aplicações](images/Apps-kopieren.png)
 
 6. A cópia da aplicação abre-se no modo de edição, onde pode ajustar as **definições** diretamente.

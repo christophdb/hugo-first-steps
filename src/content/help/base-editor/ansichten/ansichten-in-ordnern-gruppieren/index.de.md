@@ -1,11 +1,11 @@
 ---
-title: "Ansichten in Ordnern gruppieren"
+title: 'Ansichten in Ordnern gruppieren'
 date: 2022-10-26
-lastmod: "2023-01-02"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/de/hilfe/ansichten-in-ordnern-gruppieren"
+lastmod: '2023-01-02'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/de/hilfe/ansichten-in-ordnern-gruppieren'
 ---
 
 Neben der Veränderung der Reihenfolge können Sie Ihre Ansichten auch durch **Ordner** übersichtlicher anordnen. Erstellen Sie hierzu beliebig viele Ansichts-Ordner und sortieren Sie Ihre Ansichten.
@@ -17,10 +17,10 @@ Neben der Veränderung der Reihenfolge können Sie Ihre Ansichten auch durch **O
 3. Wählen Sie die Option **Ordner hinzufügen** aus.
 4. Benennen Sie den Ordner und bestätigen Sie mit **Abschicken**.
 5. Bewegen Sie die Maus auf die Ansicht, die Sie in den erstellten Ordner verschieben wollen.
-6. Halten Sie das **Sechs-Punkte-Symbol** 
-    
-    ![Icon zum Verschieben von Elementen](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
-     zum Verschieben gedrückt und ziehen Sie die Ansicht in den gewünschten Ordner.
+6. Halten Sie das **Sechs-Punkte-Symbol**
+
+    ![Icon zum Verschieben von Elementen](images/move-icon.png)
+    zum Verschieben gedrückt und ziehen Sie die Ansicht in den gewünschten Ordner.
 
 ![Ansichten in Ordnern gruppieren](images/Ansichten-in-Ordnern-gruppieren.gif)
 

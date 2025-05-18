@@ -139,13 +139,13 @@ Anders als die Kommentare sind die Einrückungen im Code bei der Ausführung des
 
 Fügen Sie unter dem Kommentar **SeaTable – Destination** die SeaTable Server URL ein und geben Sie den [API-Token](https://seatable.io/docs/seatable-api/erzeugen-eines-api-tokens/) an. Der API-Token muss Lese- und Schreibrechte gewähren. Wenn Sie SeaTable Cloud verwenden, dann ist die vorausgefüllte URL "https://cloud.seatable.io" richtig. Wenn Sie einen anderen SeaTable Server verwenden, dann tragen Sie dessen URL ein. (Die URL muss immer mit https:// bzw. http:// eingegeben werden.) URL und Token müssen von einfachen Anführungszeichen umschlossen sein.
 
-Dies ist eine Beispielkonfiguration für den Import der Daten in eine Base in SeaTable Cloud: ![](https://seatable.io/wp-content/uploads/2023/07/SeaTable_Server_URL_and_API_Token.png)
+Dies ist eine Beispielkonfiguration für den Import der Daten in eine Base in SeaTable Cloud: ![](images/SeaTable_Server_URL_and_API_Token.png)
 
 ### 4\. Airtable Personal Access Token und Base ID eintragen
 
 Ergänzen Sie unter dem Kommentar **Airtable – Source** den [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) sowie die [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids), beide Werte wieder jeweils in einfachen Anführungszeichen. Der PAT muss über die Berechtigung `data.records:read` und `schema.bases:read` verfügen.
 
-So sollte es dann aussehen, wobei Ihre Werte natürlich anders sind: ![](https://seatable.io/wp-content/uploads/2023/07/Airtable_Base_ID_and_PAT.png)
+So sollte es dann aussehen, wobei Ihre Werte natürlich anders sind: ![](images/Airtable_Base_ID_and_PAT.png)
 
 Nutzen Sie die im Skript hinterlegten Links zur Airtable Dokumentation, um zu erfahren, wo Sie PAT und Base ID erhalten.
 
@@ -153,13 +153,13 @@ Nutzen Sie die im Skript hinterlegten Links zur Airtable Dokumentation, um zu er
 
 Teilen Sie dem Skript nun mit, welche Tabellen Sie aus der Airtable Base importieren möchten. Tun Sie dies in der Zeile "table_names". Ergänzen Sie in der eckigen Klammer die Namen der Tabellen - jeweils umschlossen von einem einfachen Anführungszeichen und getrennt durch Komma.
 
-Für eine Base mit den zwei Tabellen "table1" und "table2" muss die Zeile dann beispielsweise so aussehen: ![](https://seatable.io/wp-content/uploads/2023/07/Airtable-tables_names_500.png)
+Für eine Base mit den zwei Tabellen "table1" und "table2" muss die Zeile dann beispielsweise so aussehen: ![](images/Airtable-tables_names_500.png)
 
 Wenn Ihre Airtable Base mehr als zwei Tabellen hat, verlängern Sie die Aufzählung in der Klammer einfach. Wenn Sie nicht alle Tabellen einer Base übertragen wollen, dann lassen Sie einfach die Namen derjenigen Tabellen weg, die nicht kopiert werden sollen.
 
 Aufgrund einer Einschränkung der Airtable API müssen Sie auch die Namen der ersten Spalten in den Tabellen angeben. Dies erfolgt in der Zeile "first_columns" bzw. den Folgezeilen.
 
-Für die Airtable Base mit den zwei Tabellen "table1" und "table2" könnte es dann so aussehen: ![](https://seatable.io/wp-content/uploads/2023/07/Airtable-first_columns_500.png)
+Für die Airtable Base mit den zwei Tabellen "table1" und "table2" könnte es dann so aussehen: ![](images/Airtable-first_columns_500.png)
 
 ### 6\. Verknüpfungsspalten festlegen
 
@@ -167,11 +167,11 @@ Damit SeaTable die Daten richtig importieren kann, ist noch ein weiterer Schritt
 
 Dafür ist die Variable "links" vorgesehen. Wenn beispielsweise die Spalte "link to table2" in der Tabelle "table1" eine Verknüpfung mit der Tabelle "table 2" abbildet, dann sollte das Skript wie folgt parametrisiert werden:
 
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-links_500.png)
+![](images/Airtable-links_500.png)
 
 Jedes Linkspaltenpaar müssen Sie nur einmal angeben. Sie müssen die Verknüpfung nicht in beiden Richtungen spezifizieren.
 
-Erhält die Airtable Base keine Verknüpfungsspalten, dann können Sie die eckige Klammer leer lassen: ![](https://seatable.io/wp-content/uploads/2023/07/Airtable-linksEmpty_500.png)
+Erhält die Airtable Base keine Verknüpfungsspalten, dann können Sie die eckige Klammer leer lassen: ![](images/Airtable-linksEmpty_500.png)
 
 ### 7\. Spalten bzw. Spaltentypen auschließen (optional)
 
@@ -183,7 +183,7 @@ Spaltentypen lassen sich über die Variable "excluded_column_types" ausschließe
 
 Das Skript kann in zwei Modi ausgeführt werden: "import-header" und "import-rows". Zunächst muss das Skript immer im Modus "import-header" ausgeführt werden. In diesem Modus werden die Tabellen und Spalten in der SeaTable Base angelegt und 10 Testzeilen importiert.
 
-Der Ausführungsmodus wird in über die gleichnamigen Variable festgelegt: ![](https://seatable.io/wp-content/uploads/2023/07/SeaTable-modeImportHeader_500.png)
+Der Ausführungsmodus wird in über die gleichnamigen Variable festgelegt: ![](images/SeaTable-modeImportHeader_500.png)
 
 Führen Sie das Skript jetzt mit einem Klick auf **Skript ausführen** aus. Während der Ausführung sehen Sie auf der rechten Seite im Editor die ausgeführten Schritte. Im Hintergrund sehen Sie auch, wie die Tabellen und Spalten angelegt werden.
 
@@ -242,7 +242,7 @@ Wenn die Überprüfung in Schritt 9. zu Ihrer Zufriedenheit ist, dann können al
 
 Ändern Sie im Skript den Modus von "import-header" zu "import-rows":
 
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable-modeImportRows_500.png)
+![](images/SeaTable-modeImportRows_500.png)
 
 Führen Sie das Skript mit einem Klick auf **Skript ausführen** erneut aus. Wieder können Sie auf der rechten Seite die Ausführung des Skripts beobachten und im Hintergrund die Aktivitäten sehen.
 

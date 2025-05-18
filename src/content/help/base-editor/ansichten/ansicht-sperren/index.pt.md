@@ -20,13 +20,13 @@ Note-se, no entanto, que o bloqueio de uma vista **não** tem geralmente **qualq
 2. Clique no **cadeado nas** opções de visualização acima da tabela.
 3. A **fechadura da** vista correspondente está agora **activa** e pode ser removida clicando novamente sobre a **fechadura**.
 
-![Vista de bloqueio](https://seatable.io/wp-content/uploads/2022/10/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+![Vista de bloqueio](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)
 
 ## Impacto
 
 Quando um utilizador com direitos de proprietário ou administrador bloqueia uma vista, congela a configuração actual da vista e impede a **definição de alterações** pelos membros do grupo sem esses direitos.
 
-![opções de visualização bloqueadas](https://seatable.io/wp-content/uploads/2022/10/locked-view.png)
+![opções de visualização bloqueadas](images/locked-view.png)
 
 Na vista bloqueada, as seguintes configurações já **não** podem ser alteradas:
 

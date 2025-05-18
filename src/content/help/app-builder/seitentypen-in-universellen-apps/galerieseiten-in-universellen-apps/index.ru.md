@@ -16,11 +16,11 @@ url: '/ru/help/galerieseiten-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Изменение настроек страницы галереи](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Изменение настроек страницы галереи](images/Einstellungen-der-Galerieseite-aendern.png)
 
 В **настройках страницы** можно выбрать **таблицу**, **столбец изображений** и **столбец заголовков**, из которых будет подаваться галерея.
 
-![Настройки страницы галереи в универсальных приложениях](https://seatable.io/wp-content/uploads/2023/12/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
+![Настройки страницы галереи в универсальных приложениях](images/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
 
 ## Предустановленные фильтры, сортировка и скрытые колонки
 

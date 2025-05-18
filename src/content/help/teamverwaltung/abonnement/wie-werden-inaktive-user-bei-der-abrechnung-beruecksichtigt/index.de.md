@@ -19,12 +19,12 @@ Alternativ können Sie auch einfach diesen Link benutzen:
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Benutzer können **ausschließlich** von den Teamadmins auf inaktiv gesetzt werden." />}}2. Öffnen Sie die **Teamverwaltung**. 3. Klicken Sie auf **Team**. 4. Klicken Sie auf einen beliebigen **Benutzer**. 5. **Aktivieren** Sie den **Regler** neben dem Punkt **"Benutzer deaktivieren"**. 6. Klicken Sie auf **Änderungen speichern**.
 
-![Deaktivieren Sie inaktive Benutzer über den Reiter "Team" in der Teamverwaltung](https://seatable.io/wp-content/uploads/2023/01/deactivate-user.png)
+![Deaktivieren Sie inaktive Benutzer über den Reiter "Team" in der Teamverwaltung](images/deactivate-user.png)
 
 Deaktivierte Benutzer erscheinen in der Team-Übersicht im Reiter **Team** stets mit einem roten Hinweis **Inaktiv**.
 
-![Deaktivierte Benutzer können in der Teamübersicht stets am roten Hinweis "inaktiv" erkannt werden](https://seatable.io/wp-content/uploads/2023/01/inactive-user.png)
+![Deaktivierte Benutzer können in der Teamübersicht stets am roten Hinweis "inaktiv" erkannt werden](images/inactive-user.png)
 
 Inaktive Benutzer benötigen **keine Lizenz** und erhöhen nicht die Gesamtanzahl der gebuchten Nutzer.
 
-![Inaktive Benutzer haben keinen Einfluss auf die Gesamtanzahl an gebuchten Benutzern](https://seatable.io/wp-content/uploads/2023/01/inactive-users-dont-count.png)
+![Inaktive Benutzer haben keinen Einfluss auf die Gesamtanzahl an gebuchten Benutzern](images/inactive-users-dont-count.png)

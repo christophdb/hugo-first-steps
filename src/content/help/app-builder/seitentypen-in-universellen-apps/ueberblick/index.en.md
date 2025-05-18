@@ -17,13 +17,13 @@ In this overview article, you will learn about the available page types and thei
 
 You can currently choose from a total of **nine page types** in the editing mode of the universal app.
 
-![Page Types Universal App](https://seatable.io/wp-content/uploads/2023/05/Seitentypen-Universal-App.png)
+![Page Types Universal App](images/Seitentypen-Universal-App.png)
 
 [Learn how to create new pages in the Universal App here.](https://seatable.io/en/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
 
 To edit existing pages, click on the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}} of the corresponding page in the navigation.
 
-![Click on the edit icon](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Click on the edit icon](images/page-permissions-universal-app.png)
 
 ## Page type: Table
 

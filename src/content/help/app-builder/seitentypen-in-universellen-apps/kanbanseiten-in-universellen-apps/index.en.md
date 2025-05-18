@@ -16,7 +16,7 @@ This page type works in a similar way to the [Kanban plugin](https://seatable.io
 
 If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **cogwheel symbol** in the navigation bar.
 
-![Change Kanban page settings](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Kanbanseite-aendern.png)
+![Change Kanban page settings](images/Einstellungen-der-Kanbanseite-aendern.png)
 
 In the **page settings**, specify which **table** the Kanban board is based on, which column the entries are **grouped** by and which column the **titles** come from.
 

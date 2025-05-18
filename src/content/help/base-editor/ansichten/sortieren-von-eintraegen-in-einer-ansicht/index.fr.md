@@ -12,7 +12,7 @@ La fonction de tri vous permet d'afficher les entrées non classées d'un tablea
 
 ## Trier les entrées d'une vue
 
-![Tri des entrées](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
+![Tri des entrées](images/Sortierung-von-Eintraegen-2.gif)
 
 1. Créez une [nouvelle vue]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou sélectionnez la vue que vous souhaitez trier.
 2. Dans les options d'affichage, cliquez sur l'option **Trier** au-dessus du tableau.
@@ -28,18 +28,18 @@ Les colonnes contenant des suites de lettres, telles que **texte** ou **e-mail**
 
 Vous pouvez supprimer un tri créé en cliquant sur l'**icône x**.
 
-![Supprimer le tri des entrées d'une vue](https://seatable.io/wp-content/uploads/2022/10/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
+![Supprimer le tri des entrées d'une vue](images/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
 
 ## Ajouter des lignes ultérieurement
 
 Un tri activé est automatiquement appliqué aux nouvelles lignes ajoutées.
 
-![Tri des entrées](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-1-1.gif)
+![Tri des entrées](images/Sortierung-von-Eintraegen-1-1.gif)
 
 ## Appliquer plusieurs tris
 
 En appliquant plusieurs tris, vous pouvez classer des enregistrements qui présentent **la même entrée** lors d'un tri précédent. Par exemple, vous pouvez utiliser une colonne de sélection simple pour classer une liste d'employés selon les options "femmes", "hommes", "divers", puis utiliser une colonne de texte pour trier les noms des femmes, des hommes et des autres par ordre alphabétique.
 
-![Classement multiple](https://seatable.io/wp-content/uploads/2022/10/Mehrere-Sortierungen.png)
+![Classement multiple](images/Mehrere-Sortierungen.png)
 
 {{< warning  headline="Remarque"  text="Si vous utilisez **des plugins** comme la galerie ou le tableau Kanban, les tris y ont également un effet sur l'ordre des entrées." />}}

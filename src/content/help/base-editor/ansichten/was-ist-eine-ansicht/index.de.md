@@ -28,7 +28,7 @@ Es ist wichtig zu verstehen, dass eine Ansicht nur eine andere Art ist, **diesel
 
 Die **Tabellenansicht** ist die Standard-Darstellungsform in einer SeaTable Base. Sie ist einer Tabellenkalkulation sehr ähnlich, da die Datensätze in Zeilen und Spalten organisiert sind.
 
-![Tabellenansicht](https://seatable.io/wp-content/uploads/2023/01/Tabelle.png)
+![Tabellenansicht](images/Tabelle.png)
 
 Andere Darstellungen wie Kalender, Galerie oder Kanban können Sie in Form von [Plugins](https://seatable.io/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) verwenden.
 

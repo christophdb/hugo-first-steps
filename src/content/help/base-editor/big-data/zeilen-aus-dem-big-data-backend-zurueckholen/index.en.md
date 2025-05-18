@@ -14,6 +14,6 @@ To retrieve rows from the big data storage, you need a [big data view]({{< relre
 2. Make a **right click on an archived row**.
 3. Select the option **row Retrieve from archive**.
 
-![Retrieve entries from the Big Data backend](https://seatable.io/wp-content/uploads/2023/05/unarchive-rows-out-of-the-big-data-backend.png)
+![Retrieve entries from the Big Data backend](images/unarchive-rows-out-of-the-big-data-backend.png)
 
 Within a few seconds, the selected rows are written back from the big data memory to the normal view and thus lose their **gray triangle** , which identifies the rows as big data entries.

@@ -17,13 +17,13 @@ In diesem Übersichtsartikel lernen Sie die verfügbaren Seitentypen und ihre un
 
 Im Bearbeitungsmodus der Universellen App stehen Ihnen derzeit insgesamt **neun Seitentypen** zur Auswahl.
 
-![Seitentypen Universal App](https://seatable.io/wp-content/uploads/2023/05/Seitentypen-Universal-App.png)
+![Seitentypen Universal App](images/Seitentypen-Universal-App.png)
 
 [Erfahren Sie hier, wie Sie neue Seiten in der Universellen App anlegen.](https://seatable.io/docs/apps/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten/)
 
 Um bestehende Seiten zu bearbeiten, klicken Sie in der Navigation auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} der entsprechenden Seite.
 
-![Klick auf das Bearbeitungs-Symbol](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Klick auf das Bearbeitungs-Symbol](images/page-permissions-universal-app.png)
 
 ## Seitentyp: Tabelle
 

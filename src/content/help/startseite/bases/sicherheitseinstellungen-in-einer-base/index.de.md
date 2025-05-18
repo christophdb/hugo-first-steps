@@ -26,7 +26,7 @@ In den Sicherheitseinstellungen Ihrer Base können Sie jederzeit Einstellungen v
 
 Der erste Teil der Sicherheitseinstellungen bezieht sich auf die Berechtigungen **aller Nutzer**, die Zugriff auf die entsprechende Base haben. In diesem Teil können Sie folgende Einstellungen vornehmen:
 
-![Sicherheitseinstellungen für alle Nutzer](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-all-users.png)
+![Sicherheitseinstellungen für alle Nutzer](images/Security-settings-for-all-users.png)
 
 ### Export einer Base verhindern
 
@@ -58,13 +58,13 @@ Durch Aktivieren dieser Einstellung können Sie **verhindern**, dass andere Benu
 
 Ist diese Einstellung **aktiviert**, werden die entsprechenden Symbole zum Hinzufügen, Bearbeiten oder Löschen von Datenverarbeitungsoperationen **ausgeblendet**, bis die Einstellung von einem Eigentümer oder einem Administrator wieder deaktiviert wird. Allerdings können alle Nutzer immer noch die bestehenden [Datenverarbeitungsoperationen ausführen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}).
 
-![Datenverarbeitungsoperation ausführen](https://seatable.io/wp-content/uploads/2023/04/Datenverarbeitungsoperation-ausfuehren.png)
+![Datenverarbeitungsoperation ausführen](images/Datenverarbeitungsoperation-ausfuehren.png)
 
 ## Sicherheitseinstellungen: Freigegebene Benutzer
 
 Der zweite Teil der Sicherheitseinstellungen bezieht sich auf die Berechtigungen der **Nutzer**, an welche die entsprechende [Base freigegeben](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/) ist. In diesem Teil können Sie **dieselben** Einstellungen vornehmen, die bereits im ersten Teil für alle Benutzer verfügbar sind:
 
-![Sicherheitseinstellungen für freigegebene Benutzer](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-shared-users.png)
+![Sicherheitseinstellungen für freigegebene Benutzer](images/Security-settings-for-shared-users.png)
 
 ### Export einer Base verhindern
 

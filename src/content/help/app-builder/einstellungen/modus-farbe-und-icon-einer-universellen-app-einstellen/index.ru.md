@@ -43,7 +43,7 @@ url: '/ru/help/modus-farbe-und-icon-einer-universellen-app-einstellen'
 
 Упомянутые до сих пор настройки влияют на **все универсальное приложение**. Если вы хотите изменить настройки **отдельной страницы**, нажмите на **символ шестеренки** {{< seatable-icon icon="dtable-icon-set-up" >}} соответствующей страницы в навигации.
 
-![Открытие настроек страницы](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Открытие настроек страницы](images/page-permissions-universal-app.png)
 
 В настоящее время [отдельная страница](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) предлагает множество дополнительных настроек дизайна. Например, вы можете задать разные цвета для фона, шрифтов, линий и рамок для элементов. Для этого воспользуйтесь практичным **выбором цвета**.
 

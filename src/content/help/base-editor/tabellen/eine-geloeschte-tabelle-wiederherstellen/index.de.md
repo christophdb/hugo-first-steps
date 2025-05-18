@@ -12,7 +12,7 @@ In SeaTable brauchen Sie keine Angst vor dem Verlust Ihrer Daten zu haben. Selbs
 
 ## Eine gelöschte Tabelle wiederherstellen
 
-![Wiederherstellung von Tabellen](https://seatable.io/wp-content/uploads/2022/10/Wiederherstellung-von-Tabellen.png)
+![Wiederherstellung von Tabellen](images/Wiederherstellung-von-Tabellen.png)
 
 4. Klicken Sie oben rechts in den Base-Optionen auf **Versionen**.
 5. Öffnen Sie den **Papierkorb**.
@@ -33,7 +33,7 @@ Wenn Sie eine Tabelle aus dem Papierkorb holen, wird diese genauso wiederhergest
 
 {{< warning type="warning" headline="Verlinkungen auf die gelöschte Tabelle müssen separat wiederhergestellt werden" text="Eine der Stärken von SeaTable ist die Fähigkeit, Tabellen miteinander zu verknüpfen. Wenn Sie eine Tabelle löschen, dann verschwinden alle Verlinkungsspalten, die diese gelöschte Tabelle als Ziel hatten. Wenn Sie nun die ursprüngliche Tabelle wiederherstellen, werden die Verlinkungsspalten zwar nicht automatisch wieder angelegt, aber auch diese können aus dem Papierkorb wiederhergestellt werden. Es gehen somit keine Informationen verloren." />}}
 
-![Wiederherstellung](https://seatable.io/wp-content/uploads/2022/10/restore-deleted-link-column.png)
+![Wiederherstellung](images/restore-deleted-link-column.png)
 
 ## Weitere hilfreiche Artikel rund um die Wiederherstellung von Daten
 

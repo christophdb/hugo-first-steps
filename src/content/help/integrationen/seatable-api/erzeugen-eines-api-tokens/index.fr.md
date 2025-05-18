@@ -22,7 +22,7 @@ Dans SeaTable, vous pouvez créer vos jetons d'API soit à partir de la page d'a
 
 Les jetons API peuvent être facilement créés sur la page d'accueil de SeaTable.
 
-![Créer un nouveau jeton de base](https://seatable.io/wp-content/uploads/2023/02/generate-api-token.gif)
+![Créer un nouveau jeton de base](images/generate-api-token.gif)
 
 1. Passez avec la souris sur la base pour laquelle vous souhaitez créer un token.
 2. Cliquez sur {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}
@@ -36,7 +36,7 @@ Les jetons API peuvent être facilement créés sur la page d'accueil de SeaTabl
 
 En tant qu'administrateur d'équipe, vous pouvez créer et modifier les jetons API de manière centralisée dans l'administration de l'équipe pour toutes les bases auxquelles vous avez accès.
 
-![Créer un jeton API via la gestion d'équipe](https://seatable.io/wp-content/uploads/2023/02/generate-api-token-team-administrator.png)
+![Créer un jeton API via la gestion d'équipe](images/generate-api-token-team-administrator.png)
 
 1. Ouvrez dans la gestion d'équipe
 2. Passez à la section [API & intégrations](https://account.seatable.io/api).

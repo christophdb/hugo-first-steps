@@ -25,7 +25,7 @@ Wenn Sie eine Ihrer Bases an einen **Benutzer in einem anderen Team** übertrage
 
 [Erstellen Sie einen Einladungs-Link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) zu Ihrer Base und schicken Sie diesen Link an den anderen Benutzer. Sobald der andere Benutzer die **Freigabe** akzeptiert hat, kann er die **Base kopieren** und in sein eigenes Team übernehmen.
 
-![Base per Einladungs-Link übertragen](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
+![Base per Einladungs-Link übertragen](images/copy-shared-base.png)
 
 {{< warning  type="warning" headline="Gemeinsame oder getrennte Base?"  text="Solange der Empfänger noch in der **freigegebenen Base** arbeitet, teilen sich die beiden Benutzer **die gleiche Base**. Sobald der Empfänger die **Base kopiert**, handelt es sich um **zwei getrennte Bases**. Der ursprüngliche Eigentümer hat dann **keinen Zugriff** auf die neue Base." />}}
 

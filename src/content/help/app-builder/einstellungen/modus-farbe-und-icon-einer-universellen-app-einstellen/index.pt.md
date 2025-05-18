@@ -43,7 +43,7 @@ Ao selecionar um **ícone de aplicação** adequado, pode carregar e utilizar o 
 
 As definições mencionadas até agora afectam **toda** uma **aplicação universal**. Se pretender alterar as definições de uma **página individual**, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
 
-![Abrir as definições da página](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Abrir as definições da página](images/page-permissions-universal-app.png)
 
 Atualmente, a [página individual](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), em particular, oferece inúmeras definições de design adicionais. Por exemplo, pode definir cores diferentes para fundos, tipos de letra, linhas e molduras para os elementos. Para tal, utilize o prático **seletor de cores**.
 

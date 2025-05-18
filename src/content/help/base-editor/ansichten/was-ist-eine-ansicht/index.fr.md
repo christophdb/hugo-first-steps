@@ -28,7 +28,7 @@ Il est important de comprendre qu'une vue n'est qu'une autre façon de voir **le
 
 L'**affichage sous forme de tableau** est le mode d'affichage standard dans une base SeaTable. Elle ressemble beaucoup à une feuille de calcul, car les enregistrements sont organisés en lignes et en colonnes.
 
-![Vue du tableau](https://seatable.io/wp-content/uploads/2023/01/Tabelle.png)
+![Vue du tableau](images/Tabelle.png)
 
 D'autres représentations comme le calendrier, la galerie ou le Kanban peuvent être utilisées sous forme de [plugins](https://seatable.io/fr/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
 

@@ -16,7 +16,7 @@ url: '/es/ayuda/hinterlegen-der-steuer-id'
 
 El depósito del NIF es posible tanto al **reservar** un abono como **posteriormente.**
 
-![La identificación fiscal puede almacenarse a través de la pestaña Suscripción en la administración del equipo](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-Steuer-ID.png)
+![La identificación fiscal puede almacenarse a través de la pestaña Suscripción en la administración del equipo](images/Hinterlegen-einer-Steuer-ID.png)
 
 1. Abre la **administración del equipo**.
 2. Pase a la sección **Suscripción**.
@@ -30,7 +30,7 @@ Tras enviar el formulario, su NIF se comprueba automáticamente y se compara con
 
 Sólo cuando la verificación se haya realizado con éxito, el número de identificación fiscal será efectivo y podrá utilizarse en futuras facturas. Además, la previsión del importe de la factura futura sólo se ajusta cuando se ha comprobado que el NIF es válido.
 
-![Tratamiento fiscal en la gestión de equipos de SeaTable.](https://seatable.io/wp-content/uploads/2023/01/steuerliche-Behandlung.png)
+![Tratamiento fiscal en la gestión de equipos de SeaTable.](images/steuerliche-Behandlung.png)
 
 ## Preguntas frecuentes sobre el NIF
 

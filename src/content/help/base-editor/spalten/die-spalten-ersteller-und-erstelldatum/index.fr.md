@@ -10,7 +10,7 @@ url: '/fr/aide/die-spalten-ersteller-und-erstelldatum'
 
 Les colonnes **Créateur** et **Date de création** sont exclusivement remplies **automatiquement** par SeaTable et constituent donc des types de colonnes particuliers. Alors que SeaTable remplit la colonne Créateur avec le **nom de l'utilisateur** qui a créé une ligne, il enregistre dans la colonne Date de création le **moment** (date et heure) où l'utilisateur a créé la ligne.
 
-![Les colonnes "Créateur" et "Créé" après la création d'un utilisateur](https://seatable.io/wp-content/uploads/2023/01/column-creator-and-created-time.png)
+![Les colonnes "Créateur" et "Créé" après la création d'un utilisateur](images/column-creator-and-created-time.png)
 
 ## Particularités des deux types de colonnes
 

@@ -12,7 +12,7 @@ No artigo seguinte encontrará um guião Python que lhe permite produzir toda a 
 
 ## Introduzir e executar o guião
 
-![Exportação de uma estrutura de base](https://seatable.io/wp-content/uploads/2023/03/export_base_structure.gif)
+![Exportação de uma estrutura de base](images/export_base_structure.gif)
 
 1. Abra a **base** onde tem um problema.
 2. Clique {{< seatable-icon icon="dtable-icon-script" >}} no cabeçalho da base.
@@ -69,4 +69,4 @@ Table: price range (ID: 5H74)
 
 Se abrir um novo tópico no [fórum SeaTable](https://forum.seatable.io) usando o botão **\+ New Topic**, pode inserir a sua estrutura base como **texto pré-formatado** para ilustrar o problema.
 
-![Afixar o resultado no fórum](https://seatable.io/wp-content/uploads/2023/03/new-topic-with-preformatted-text.png)
+![Afixar o resultado no fórum](images/new-topic-with-preformatted-text.png)

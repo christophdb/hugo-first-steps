@@ -16,7 +16,7 @@ Vous pouvez modifier à volonté l'**ordre** dans lequel vos vues d'un tableau s
 2. Déplacez la souris sur la vue que vous souhaitez déplacer.
 3. Maintenez le bouton qui apparaît **Symbole à six points**
 
-    ![Icône pour déplacer des éléments](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Icône pour déplacer des éléments](images/move-icon.png)
     pour le déplacer, puis faites glisser la vue jusqu'à la position souhaitée. Une **ligne noire** vous indique la position à laquelle la ligne va sauter.
 
 4. Relâchez le bouton de la souris dès que la vue est à la position souhaitée.

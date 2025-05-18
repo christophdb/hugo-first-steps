@@ -12,7 +12,7 @@ Plus vous créez de colonnes pour saisir des données, plus votre tableau devien
 
 ## Masquer des colonnes
 
-![Masquer des colonnes](https://seatable.io/wp-content/uploads/2022/10/hide-coloumns-2.gif)
+![Masquer des colonnes](images/hide-coloumns-2.gif)
 
 1. Dans les options d'affichage de n'importe quel tableau, cliquez sur **Masquer**.
 2. Cachez un nombre quelconque de colonnes **en cliquant dessus**. À l'aide du **champ de recherche**, vous pouvez limiter la sélection de colonnes ou rechercher une colonne spécifique que vous souhaitez masquer.
@@ -21,12 +21,12 @@ Plus vous créez de colonnes pour saisir des données, plus votre tableau devien
 
 ## Déplacer des colonnes
 
-Maintenez le bouton de la souris sur le **Symboles à six points** ![Icône pour déplacer des éléments](https://seatable.io/wp-content/uploads/2022/10/move-icon.png) devant les noms de colonnes et faites-les glisser vers le haut ou vers le bas de la liste pour modifier à volonté l'ordre des colonnes dans le tableau.
+Maintenez le bouton de la souris sur le **Symboles à six points** ![Icône pour déplacer des éléments](images/move-icon.png) devant les noms de colonnes et faites-les glisser vers le haut ou vers le bas de la liste pour modifier à volonté l'ordre des colonnes dans le tableau.
 
-![Déplacer des colonnes](https://seatable.io/wp-content/uploads/2022/10/moving-columns.gif)
+![Déplacer des colonnes](images/moving-columns.gif)
 
 En outre, vous pouvez également déplacer les colonnes directement dans la **vue du tableau** par glisser-déposer. Pour ce faire, maintenez le bouton de la souris enfoncé sur le **nom d'une colonne** et déplacez la colonne vers la droite ou vers la gauche.
 
-![Déplacer des colonnes à partir de la vue tableau.](https://seatable.io/wp-content/uploads/2022/10/moving-columns-from-the-table-view.gif)
+![Déplacer des colonnes à partir de la vue tableau.](images/moving-columns-from-the-table-view.gif)
 
 {{< warning  headline="Remarque importante"  text="Veuillez noter que la **première colonne** d'un tableau ne peut **pas** être déplacée. Vous pouvez vous informer sur d'autres particularités de la première colonne dans l'[article de synthèse](https://seatable.io/fr/docs/spalten/die-besonderheiten-der-ersten-spalte/) correspondant." />}}

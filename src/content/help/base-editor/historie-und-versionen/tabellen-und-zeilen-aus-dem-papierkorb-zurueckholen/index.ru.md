@@ -12,7 +12,7 @@ url: '/ru/help/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
 
 ## Извлечение таблиц, строк и столбцов из корзины
 
-![](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-10-27-12-04-15.png)
+![](images/Screenshot-from-2022-10-27-12-04-15.png)
 
 1. Нажмите на **Версии** в правом верхнем углу опций базы.
 2. Откройте **корзину**.

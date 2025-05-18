@@ -14,7 +14,7 @@ Cet article explique les étapes nécessaires pour ajouter un compte e-mail à u
 
 ## Configurer un compte de messagerie dans votre base
 
-![Intégration de fournisseurs tiers via les options de base étendues](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Intégration de fournisseurs tiers via les options de base étendues](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Ouvrez les options avancées de la base en cliquant sur l'**icône à trois points** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Sélectionnez l'option **Intégration de tiers**.
@@ -36,11 +36,11 @@ Après avoir ajouté avec succès un compte e-mail à votre base, le compte cré
 
 Pour ce faire, cliquez sur l'**icône en forme d'enveloppe** à droite de votre compte de messagerie configuré.
 
-![Un compte e-mail configuré dans une base SeaTable](https://seatable.io/wp-content/uploads/2023/03/Configured_email_account.png)
+![Un compte e-mail configuré dans une base SeaTable](images/Configured_email_account.png)
 
 Définissez ensuite l **'objet**, le **destinataire** et **le contenu** de l'e-mail test. Vous pouvez par exemple vous envoyer un e-mail à votre propre adresse e-mail.
 
-![Tester la configuration du compte email](https://seatable.io/wp-content/uploads/2023/03/Testing_email_account_configuration.png)
+![Tester la configuration du compte email](images/Testing_email_account_configuration.png)
 
 Si la connexion au serveur de messagerie a été établie avec succès, un bref message de succès s'affiche et un e-mail devrait arriver dans la boîte aux lettres du destinataire indiqué depuis le compte de messagerie configuré.
 

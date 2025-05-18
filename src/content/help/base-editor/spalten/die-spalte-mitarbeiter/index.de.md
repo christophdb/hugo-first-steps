@@ -10,13 +10,13 @@ url: '/de/hilfe/die-spalte-mitarbeiter'
 
 In der **Mitarbeiter-Spalte** können Sie einer Zeile eine oder mehrere **Personen** zuordnen. SeaTable erlaubt Ihnen dabei sowohl Personen auszuwählen, die aktuell **Zugriff** auf die **Base** haben, als auch alle anderen Teammitglieder ohne Zugriff.
 
-![Die Mitarbeiter-Spalte in SeaTable](https://seatable.io/wp-content/uploads/2023/01/employee-column.png)
+![Die Mitarbeiter-Spalte in SeaTable](images/employee-column.png)
 
 ## Personen mit Zugriff auf die Base auswählen
 
 Wenn Sie in eine Zelle einer Mitarbeiter-Spalte **doppelklicken**, erscheint eine Liste mit allen Nutzern, die derzeit Zugriff auf die Base haben. Wählen Sie eine oder mehrere dieser **Personen** aus. Sie können auch das **Suchfeld** nutzen, um einen bestimmten Nutzer zu finden.
 
-![Personen mit Zugriff auf eine Base in der Mitarbeiter-Spalte auswählen](https://seatable.io/wp-content/uploads/2023/01/Personen-mit-Zugriff-auf-eine-Base-in-der-Mitarbeiter-Spalte-auswaehlen.png)
+![Personen mit Zugriff auf eine Base in der Mitarbeiter-Spalte auswählen](images/Personen-mit-Zugriff-auf-eine-Base-in-der-Mitarbeiter-Spalte-auswaehlen.png)
 
 {{< warning  headline="Hinweis"  text="Wenn einem Mitarbeiter der Zugriff auf eine Base **entzogen** wird, er aber in einer Mitarbeiter-Spalte eingetragen ist, so bleibt der Wert in der Spalte eingetragen, bis Sie diesen manuell löschen. Der Mitarbeiter steht nach dem Entfernen nicht mehr in der Liste zur Auswahl." />}}
 
@@ -32,17 +32,17 @@ Klicken Sie auf das Symbol {{< seatable-icon icon="dtable-icon-add\_members" >}}
 
 Beim Anlegen einer Mitarbeiter-Spalte können Sie den **Regler aktivieren**, dass Mitarbeiter eine [Benachrichtigung](https://seatable.io/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) erhalten, wenn andere sie in die Spalte eintragen und damit einer Zeile zuordnen.
 
-![Aktivierung von Benachrichtigungen an Mitarbeiter, die zu einer Mitarbeiter-Spalte hinzugefügt werden.](https://seatable.io/wp-content/uploads/2023/01/turn-on-notification-for-collaborateur-1.png)
+![Aktivierung von Benachrichtigungen an Mitarbeiter, die zu einer Mitarbeiter-Spalte hinzugefügt werden.](images/turn-on-notification-for-collaborateur-1.png)
 
 Die Mitarbeiter erhalten in der Base anschließend eine entsprechende Benachrichtigung, die sie über das {{< seatable-icon icon="dtable-icon-notice" >}} **Glocken-Symbol** oben rechts abrufen können.
 
-![Benachrichtigung, wenn Mitarbeiter hinzugefügt wird](https://seatable.io/wp-content/uploads/2023/01/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
+![Benachrichtigung, wenn Mitarbeiter hinzugefügt wird](images/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
 
 ## Standardwert festlegen
 
 Sie können einen oder mehrere Mitarbeiter als [Standardwert]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}) in einer Mitarbeiter-Spalte festlegen. Zur Auswahl stehen die Optionen **Aktueller Benutzer** oder **Bestimmte Benutzer**. Immer wenn jemand eine neue Zeile in der Tabelle hinzufügt, werden dann entweder der Ersteller der Zeile oder die ausgewählten Personen automatisch in die Mitarbeiter-Spalte eingetragen.
 
-![Set default values in collaborator columns](https://seatable.io/wp-content/uploads/2023/01/Set-default-values-in-collaborator-columns.png)
+![Set default values in collaborator columns](images/Set-default-values-in-collaborator-columns.png)
 
 ## Die Mitarbeiter als Empfänger von automatisierten Benachrichtigungen auswählen
 

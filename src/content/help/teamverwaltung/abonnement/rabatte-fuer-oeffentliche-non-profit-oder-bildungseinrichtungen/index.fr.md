@@ -20,7 +20,7 @@ Si vous n'avez pas encore enregistré d'équipe sur cloud.seatable.io, commencez
 2. Passez à la section **Abonnement**.
 3. Cliquez sur **Êtes-vous une organisation à but non lucratif ?**
 
-![Faire une demande de réduction via l'administration de l'équipe](https://seatable.io/wp-content/uploads/2023/01/Antrag-auf-Rabatt-in-SeaTable.png)
+![Faire une demande de réduction via l'administration de l'équipe](images/Antrag-auf-Rabatt-in-SeaTable.png)
 
 5. Remplissez le **formulaire** et cliquez sur **Envoyer la demande**.
 

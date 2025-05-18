@@ -1,11 +1,11 @@
 ---
-title: "Seitenberechtigungen in einer Universellen App"
+title: 'Seitenberechtigungen in einer Universellen App'
 date: 2023-05-03
-lastmod: "2023-11-30"
-categories: 
-  - "universelle-apps"
-author: "nsc2"
-url: "/de/hilfe/seitenberechtigungen-in-einer-universellen-app"
+lastmod: '2023-11-30'
+categories:
+    - 'universelle-apps'
+author: 'nsc2'
+url: '/de/hilfe/seitenberechtigungen-in-einer-universellen-app'
 ---
 
 Um den **Zugriff auf Ihre Daten** genau zu steuern, können Sie für jede Seite, die Sie in einer Universellen App angelegt haben, **individuelle Seitenberechtigungen** festlegen. Die Bearbeitung der Berechtigungen erfolgt über die Seiteneinstellungen.
@@ -14,11 +14,10 @@ Um den **Zugriff auf Ihre Daten** genau zu steuern, können Sie für jede Seite,
 
 1. Öffnen Sie eine **Base**, der Sie bereits eine Universelle App hinzugefügt haben.
 2. Klicken Sie im Base-Header auf **Apps**.
-![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
-![Klicken Sie auf das Bearbeitungs-Symbol](images/add-page-to-universal-app-1.png)6. Wählen Sie aus der Navigation am linken Seitenrand die gewünschte **Seite** aus und klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}}.
+   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Klicken Sie auf das Bearbeitungs-Symbol](images/add-page-to-universal-app-1.png)6. Wählen Sie aus der Navigation am linken Seitenrand die gewünschte **Seite** aus und klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 
-![Klick auf das Bearbeitungs-Symbol](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
-8. Legen Sie in den am rechten Seitenrand erschienenen **Seiteneinstellungen** die gewünschten **Berechtigungen** fest.
+![Klick auf das Bearbeitungs-Symbol](images/page-permissions-universal-app.png) 8. Legen Sie in den am rechten Seitenrand erschienenen **Seiteneinstellungen** die gewünschten **Berechtigungen** fest.
 ![Festlegung der Seitenberechtigungen](images/page-permissions.png)10. Die definierten Seitenberechtigungen werden **automatisch** gespeichert und **unmittelbar** übernommen.
 
 ## Welche Seitenberechtigungen es gibt

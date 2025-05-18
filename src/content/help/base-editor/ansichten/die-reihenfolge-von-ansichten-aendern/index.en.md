@@ -16,7 +16,7 @@ You can change the **order** in which your views of a table are listed as you wi
 2. Move the mouse to the view you want to move.
 3. Hold the appearing **Six dots icon**
 
-    ![Icon for moving elements](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Icon for moving elements](images/move-icon.png)
     to move and drag the view to the desired position. A **black line** shows you the position to which the row will jump.
 
 4. Release the mouse button as soon as the view is at the desired position.

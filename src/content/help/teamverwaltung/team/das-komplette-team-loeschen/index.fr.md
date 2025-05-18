@@ -17,7 +17,7 @@ En tant qu'**administrateur d'équipe**, vous pouvez **supprimer complètement**
 3. Faites défiler vers le bas et cliquez sur **Compte d'équipe et supprimer complètement toutes les données**.
 4. Confirmez la suppression.
 
-![Suppression de toute l'équipe](https://seatable.io/wp-content/uploads/2022/10/delete-complete-team.png)
+![Suppression de toute l'équipe](images/delete-complete-team.png)
 
 ## Que se passe-t-il si vous supprimez votre équipe ?
 

@@ -20,7 +20,7 @@ O segundo método de pagamento possível é o **pagamento por conta**, que só �
 2. Clique em **Subscrição**.
 3. Pode ver o seu método de pagamento atual na rubrica**"** Método**de pagamento"**.
 
-![Pode consultar o seu método de pagamento em qualquer altura através do separador Assinatura na administração da equipa](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-einsehen.jpg)
+![Pode consultar o seu método de pagamento em qualquer altura através do separador Assinatura na administração da equipa](images/Zahlungsmethode-einsehen.jpg)
 
 ## Como posso alterar o meu método de pagamento?
 
@@ -29,4 +29,4 @@ O segundo método de pagamento possível é o **pagamento por conta**, que só �
 3. Clique em **"Personalizar o método de pagamento"**.
 4. Agora é possível adicionar um **novo cartão de crédito** como método de pagamento. Este [artigo](https://seatable.io/pt/docs/abo-abrechnung/bezahlung-per-rechnung/) explica como e em que condições pode activar **o pagamento por factura**.
 
-![Pode alterar o seu método de pagamento a qualquer momento no separador Assinatura na administração da equipa](https://seatable.io/wp-content/uploads/2023/01/Zahlungsmethode-aendern.jpg)
+![Pode alterar o seu método de pagamento a qualquer momento no separador Assinatura na administração da equipa](images/Zahlungsmethode-aendern.jpg)

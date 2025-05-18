@@ -16,7 +16,7 @@ Die **Reihenfolge**, in der Ihre Ansichten einer Tabelle aufgelistet sind, könn
 2. Bewegen Sie die Maus auf die Ansicht, die Sie verschieben wollen.
 3. Halten Sie das erscheinende **Sechs-Punkte-Symbol**
 
-    ![Icon zum Verschieben von Elementen](https://seatable.io/wp-content/uploads/2022/10/move-icon.png)
+    ![Icon zum Verschieben von Elementen](images/move-icon.png)
     zum Verschieben gedrückt und ziehen Sie die Ansicht an die gewünschte Position. Eine **schwarze Linie** zeigt Ihnen die Position, an die die Zeile springen wird.
 
 4. Lassen Sie die Maustaste los, sobald die Ansicht an der gewünschten Position ist.

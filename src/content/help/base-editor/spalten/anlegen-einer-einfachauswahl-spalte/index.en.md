@@ -10,13 +10,13 @@ url: '/help/anlegen-einer-einfachauswahl-spalte'
 
 A single-selection column is ideal if you want to assign**exactly one option** to your rows from a list of options to be defined. The options are given colorful **labels** that you can use to **categorize** your records and organize tables clearly.
 
-![Single selection field in SeaTable.](https://seatable.io/wp-content/uploads/2022/10/single-select-column.png)
+![Single selection field in SeaTable.](images/single-select-column.png)
 
 ## Create a single selection column
 
 Creating a single-selection column is child's play and done with just a few clicks. For detailed information, see [Add a column]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
-![Create a single selection column](https://seatable.io/wp-content/uploads/2022/10/define-single-select-column.png)
+![Create a single selection column](images/define-single-select-column.png)
 
 1. Click the **\[+\] icon** to the right of the last column of any table.
 2. Give the new column a **name**.
@@ -29,7 +29,7 @@ You can add new options to a single-selection column in several ways. Learn all 
 
 Currently, 24 colors are available to visually highlight the respective options.
 
-![Colors of the single selection column](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Colors of the single selection column](images/farben-einfachauswahl.png)
 
 With an [Enterprise subscription](https://seatable.io/en/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), you also have the option to create your [own colors](https://seatable.io/en/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) for your single-selection options.
 
@@ -43,7 +43,7 @@ The options are **not** sorted **alphabetically**, but according to the [order o
 
 When creating a single selection column, you have the option to set a preset **default value**. The default value is**automatically** assigned as an option to each new row .
 
-![Default value for a single selection column](https://seatable.io/wp-content/uploads/2022/10/default-value-single-select.png)
+![Default value for a single selection column](images/default-value-single-select.png)
 
 ## Single selection or link column?
 

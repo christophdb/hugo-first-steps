@@ -28,6 +28,6 @@ url: '/es/ayuda/eigenes-passwort-aendern'
 
 Para visualizar una contraseña en **texto plano**, haga clic en el **símbolo del ojo** situado a su derecha. También verás automáticamente la **fortaleza** de tu nueva contraseña.
 
-![Evaluar la solidez de la contraseña](https://seatable.io/wp-content/uploads/2023/02/Staerke-des-Passworts-beurteilen.png)
+![Evaluar la solidez de la contraseña](images/Staerke-des-Passworts-beurteilen.png)
 
 10. Confirme el cambio de contraseña con **Actualizar**.

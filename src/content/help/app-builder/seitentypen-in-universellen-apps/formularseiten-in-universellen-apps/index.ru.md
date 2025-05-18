@@ -22,7 +22,7 @@ url: '/ru/help/formularseiten-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Изменение настроек страницы формы](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Formularseite-aendern.png)
+![Изменение настроек страницы формы](images/Einstellungen-der-Formularseite-aendern.png)
 
 ## Создание форм
 
@@ -44,7 +44,7 @@ url: '/ru/help/formularseiten-in-universellen-apps'
 
 Далее вы можете задать **цвет для текстов подсказок** и **сообщение**, которое будет отображаться у пользователей после отправки формы.
 
-![Дополнительные настройки на страницах форм](https://seatable.io/wp-content/uploads/2023/12/Weitere-Einstellungen-auf-Formularseiten.png)
+![Дополнительные настройки на страницах форм](images/Weitere-Einstellungen-auf-Formularseiten.png)
 
 Вы также можете запретить отправку форм с существующими записями данных, **предотвратив добавление дубликатов**. Для этого активируйте соответствующий ползунок и выберите столбцы, значения в которых должны совпадать, чтобы форма считалась дубликатом. Если пользователь введет идентичные данные, отправка формы будет заблокирована.
 

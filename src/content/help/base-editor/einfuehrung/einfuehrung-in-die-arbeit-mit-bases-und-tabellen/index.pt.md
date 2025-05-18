@@ -10,7 +10,7 @@ url: '/pt/ajuda/einfuehrung-in-die-arbeit-mit-bases-und-tabellen'
 
 Cada um dos ícones quadrados na sua página inicial representa uma **Base**. É uma base de dados, comparável a uma pasta de trabalho numa folha de cálculo convencional e pode conter várias **tabelas** sobre diferentes tópicos.
 
-![Vista geral da base em SeaTable](https://seatable.io/wp-content/uploads/2023/01/base-overview.png)
+![Vista geral da base em SeaTable](images/base-overview.png)
 
 Uma Base representa uma **unidade** autónoma em SeaTable. Por conseguinte, deve conter toda a informação necessária para um projecto ou processo específico.
 

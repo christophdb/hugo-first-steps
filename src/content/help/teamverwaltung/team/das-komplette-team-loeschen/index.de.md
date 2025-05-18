@@ -17,7 +17,7 @@ Als **Team-Administrator** können Sie Ihr Team mit all seinen Mitgliedern, Base
 3. Scrollen Sie nach unten und klicken Sie auf **Team-Account und alle Daten vollständig löschen**.
 4. Bestätigen Sie die Löschung.
 
-![Löschen des gesamten Teams](https://seatable.io/wp-content/uploads/2022/10/delete-complete-team.png)
+![Löschen des gesamten Teams](images/delete-complete-team.png)
 
 ## Was passiert, wenn Sie Ihr Team löschen?
 

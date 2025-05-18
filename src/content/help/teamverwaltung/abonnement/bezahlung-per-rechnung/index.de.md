@@ -1,11 +1,11 @@
 ---
-title: "Bezahlung per Rechnung"
+title: 'Bezahlung per Rechnung'
 date: 2023-01-13
-lastmod: "2023-01-13"
-categories: 
-  - "abo-abrechnung"
-author: "nsc2"
-url: "/de/hilfe/bezahlung-per-rechnung"
+lastmod: '2023-01-13'
+categories:
+    - 'abo-abrechnung'
+author: 'nsc2'
+url: '/de/hilfe/bezahlung-per-rechnung'
 ---
 
 SeaTable bietet für die Buchung eines Plus- oder Enterprise Abonnements aktuell zwei Zahlungsmethoden an. Die **Kreditkarte** ist dabei die Bezahlmethode, die in den allermeisten Fällen zum Einsatz kommt. Dank unseres Zahlungsdienstleisters Stripe akzeptieren wir Zahlungen per Visa, Mastercard, American Express, China UnionPay und Cartes Bancaires.
@@ -22,4 +22,4 @@ Wenn diese Voraussetzungen gegeben sind, können Sie jederzeit in der Teamverwal
 
 Anschließend erhalten Sie von uns eine Rechnung mit der Aufforderung den Rechnungsbetrag auf unser deutsches Bankkonto zu überweisen.
 
-![Zahlung auf Rechnung aktivieren](https://seatable.io/wp-content/uploads/2023/01/Zahlung-per-Rechnung.png)
+![Zahlung auf Rechnung aktivieren](images/Zahlung-per-Rechnung.png)

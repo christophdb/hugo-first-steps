@@ -10,7 +10,7 @@ url: '/fr/aide/zeilenhoehe-anpassen'
 
 Par défaut, SeaTable affiche toutes les lignes avec une hauteur de ligne compacte afin d'afficher le plus grand nombre possible d'enregistrements. Or, cette **hauteur de ligne simple** a pour effet, entre autres, de tronquer les [colonnes]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) et [de sélections multiples](https://seatable.io/fr/docs/auswahlspalten/die-mehrfachauswahl-spalte/), et de n'afficher que de petites **miniatures** des images.
 
-![Contenu de cellule tronqué](https://seatable.io/wp-content/uploads/2022/10/small-row-height-cut-cells.png)
+![Contenu de cellule tronqué](images/small-row-height-cut-cells.png)
 
 Cette hauteur de ligne peut convenir à la plupart de vos applications, mais il peut aussi y avoir des situations où vous souhaitez voir plus de contenu dans chaque ligne. C'est pourquoi SeaTable vous permet d'ajuster la hauteur des lignes dans chacune de vos vues.
 
@@ -23,7 +23,7 @@ Concrètement, vous disposez pour cela de quatre hauteurs de ligne différentes 
 
 ## Ajuster la hauteur des lignes
 
-![Ajuster la hauteur des lignes](https://seatable.io/wp-content/uploads/2022/10/set-row-height-new.gif)
+![Ajuster la hauteur des lignes](images/set-row-height-new.gif)
 
 1. Dans les options d'affichage, cliquez sur l'icône de la **hauteur de ligne**.
 2. **Sélectionnez** la hauteur de ligne souhaitée.

@@ -34,13 +34,13 @@ Les signatures numériques conviennent très bien à la saisie de données à l'
 
 Pour sauvegarder une signature saisie dans le tableau de bord, il suffit de cliquer sur **Enregistrer**. La signature enregistrée dans le tableau de bord est ensuite sauvegardée dans la cellule et peut être rappelée à tout moment par un double-clic.
 
-![Signature enregistrée dans une colonne de signature ](https://seatable.io/wp-content/uploads/2023/06/stored-signatur-in-cell-1.png)
+![Signature enregistrée dans une colonne de signature ](images/stored-signatur-in-cell-1.png)
 
 ## Modifier une signature numérique
 
 Si vous n'êtes pas satisfait de la signature que vous avez enregistrée et que vous souhaitez signer à nouveau, il vous suffit de cliquer sur **Signer à nouveau**. Notez que l'ensemble de la signature saisie sera alors écrasée. Il n'est **pas** possible de modifier des parties individuelles de votre signature.
 
-![Signer à nouveau dans le panneau de signature](https://seatable.io/wp-content/uploads/2023/06/resign.jpg)
+![Signer à nouveau dans le panneau de signature](images/resign.jpg)
 
 {{< warning  headline="Fichier non supprimé"  text="La signature d'origine reste toutefois accessible dans le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la base en tant que fichier PNG, si vous l'aviez déjà enregistrée." />}}
 
@@ -48,8 +48,8 @@ Si vous n'êtes pas satisfait de la signature que vous avez enregistrée et que 
 
 Chaque signature déposée est également enregistrée dans le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de votre base sous forme de fichier PNG dans un **dossier système**.
 
-![Dossier dans la gestion de fichiers de votre base, dans lequel vos signatures sont enregistrées ](https://seatable.io/wp-content/uploads/2023/06/stored-signatures-in-filemanagement.jpg)
+![Dossier dans la gestion de fichiers de votre base, dans lequel vos signatures sont enregistrées ](images/stored-signatures-in-filemanagement.jpg)
 
 De là, vous pouvez à la fois **télécharger** et **supprimer** vos signatures.
 
-![](https://seatable.io/wp-content/uploads/2023/06/Bild-06.06.23-um-19.18-511x87.jpg)
+![](images/Bild-06.06.23-um-19.18-511x87.jpg)

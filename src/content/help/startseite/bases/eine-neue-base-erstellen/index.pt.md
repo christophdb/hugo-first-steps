@@ -12,7 +12,7 @@ No SeaTable, tem a opção de criar uma nova base vazia no espaço de trabalho *
 
 ## Criar uma nova base vazia através da página inicial
 
-![Criar uma nova base vazia através da página inicial](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-starting-page.gif)
+![Criar uma nova base vazia através da página inicial](images/create-new-base-via-starting-page.gif)
 
 1. Comece na **página inicial do** SeaTable.
 2. No espaço de trabalho correspondente (As Minhas Bases ou um dos seus grupos), clique em **Adicionar uma Base ou Pasta**.
@@ -26,7 +26,7 @@ Pode agora preencher a sua nova base com **conteúdo** e construir processos nel
 
 Além disso, é possível criar uma nova base através de uma pasta.
 
-![Criar base através de uma pasta](https://seatable.io/wp-content/uploads/2023/06/create-new-base-via-folder-overview.gif)
+![Criar base através de uma pasta](images/create-new-base-via-folder-overview.gif)
 
 1. Comece na **página inicial do** SeaTable.
 2. Clique numa **pasta** no espaço de trabalho correspondente (As minhas bases ou um dos seus grupos).

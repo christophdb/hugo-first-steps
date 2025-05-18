@@ -14,7 +14,7 @@ No artigo seguinte encontrará instruções sobre como importar dados do Google 
 
 1. Para poder importar ficheiros do Google Sheets para o SeaTable, primeiro guarde-os como um **CSV-** ou **ficheiro Excel**.
 
-    ![Guardar Google Sheet como CSV ou Excel](https://seatable.io/wp-content/uploads/2022/10/google-sheets-export-as-xls-csv.png)
+    ![Guardar Google Sheet como CSV ou Excel](images/google-sheets-export-as-xls-csv.png)
 
 2. Pode então **importar** os ficheiros para o SeaTable como de costume.
 3. Eine detaillierte **Anleitung** zum Importieren der Dateien finden Sie im jeweiligen Übersichtsartikel zum [Excel-](https://seatable.io/pt/docs/import-von-daten/import-von-excel-dateien-in-seatable/) bzw. [CSV-Import](https://seatable.io/pt/?post_type=docs&p=16604).

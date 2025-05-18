@@ -25,7 +25,7 @@ O código de estatuto mais importante é de longe 200, o que indica que o pedido
 
 Quando SeaTable envia um gancho, SeaTable espera uma resposta sob a forma de um tal código de estado HTTP. Se o SeaTable não receber um código de estado ou um código de estado que não seja 200 cinco vezes seguidas, o gancho da web é definido como _inválido_ e a execução é interrompida.
 
-![Gancho da rede inválido](https://seatable.io/wp-content/uploads/2023/02/invalid-webhook.png)
+![Gancho da rede inválido](images/invalid-webhook.png)
 
 {{< warning headline="Mais erros permitidos desde a versão 3.5" text="Até à versão 3.4 do SeaTable, inclusive, um gancho da Web foi desactivado imediatamente no primeiro código de erro HTTP erróneo. Com a versão 3.5 do SeaTable perdoa alguns erros e desactiva o gancho da web após cinco erros, no mínimo." />}}
 

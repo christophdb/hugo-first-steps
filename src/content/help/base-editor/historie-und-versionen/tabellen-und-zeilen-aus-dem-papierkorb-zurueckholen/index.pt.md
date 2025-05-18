@@ -12,7 +12,7 @@ Pode encontrar e restaurar tabelas, filas e colunas eliminadas em qualquer altur
 
 ## Recuperar mesas, linhas e colunas da lixeira de reciclagem
 
-![](https://seatable.io/wp-content/uploads/2022/10/Screenshot-from-2022-10-27-12-04-15.png)
+![](images/Screenshot-from-2022-10-27-12-04-15.png)
 
 1. Clique em **Versões** no canto superior direito das opções da Base.
 2. Abrir o **caixote do lixo da reciclagem**.

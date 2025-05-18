@@ -26,7 +26,7 @@ url: '/ru/help/sicherheitseinstellungen-in-einer-base'
 
 Первая часть настроек безопасности относится к полномочиям **всех пользователей**, имеющих доступ к соответствующей базе. В этом разделе можно выполнить следующие настройки:
 
-![Настройки безопасности для всех пользователей](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-all-users.png)
+![Настройки безопасности для всех пользователей](images/Security-settings-for-all-users.png)
 
 ### Предотвращение экспорта базы
 
@@ -58,13 +58,13 @@ url: '/ru/help/sicherheitseinstellungen-in-einer-base'
 
 Если эта настройка **активирована**, то соответствующие пиктограммы для добавления, редактирования или удаления операций обработки данных будут **скрыты** до тех пор, пока настройка не будет снова деактивирована владельцем или администратором. Однако все пользователи по-прежнему могут выполнять существующие [операции обработки]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) данных.
 
-![Выполнение операции обработки данных](https://seatable.io/wp-content/uploads/2023/04/Datenverarbeitungsoperation-ausfuehren.png)
+![Выполнение операции обработки данных](images/Datenverarbeitungsoperation-ausfuehren.png)
 
 ## Настройки безопасности: Общие пользователи
 
 Вторая часть настроек безопасности относится к полномочиям **пользователей**, которым доступна соответствующая [база](https://seatable.io/ru/docs/freigaben/anlegen-einer-benutzerfreigabe/). В этой части вы можете сделать те **же** настройки, которые уже доступны всем пользователям в первой части:
 
-![Настройки безопасности для авторизованных пользователей](https://seatable.io/wp-content/uploads/2023/04/Security-settings-for-shared-users.png)
+![Настройки безопасности для авторизованных пользователей](images/Security-settings-for-shared-users.png)
 
 ### Предотвращение экспорта базы
 

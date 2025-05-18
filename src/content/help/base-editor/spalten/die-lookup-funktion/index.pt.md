@@ -14,11 +14,11 @@ A função de pesquisa permite-lhe exibir valores adicionais de uma tabela já l
 
 A função de pesquisa deve ser utilizada sempre que se pretenda cruzar informações armazenadas em diferentes tabelas. Digamos que está a utilizar o SeaTable para a [gestão de projectos](https://seatable.io/pt/projektmanagement/), onde os projectos são armazenados numa tabela e as tarefas associadas ao projecto são armazenadas noutra tabela. Cada projecto é então ligado a um conjunto de tarefas.
 
-![Ligação de tarefas de projecto a um projecto](https://seatable.io/wp-content/uploads/2022/10/linked-tables-seatable.png)
+![Ligação de tarefas de projecto a um projecto](images/linked-tables-seatable.png)
 
 Como gestor de projecto, poderá querer exibir informação sobre as tarefas associadas a cada projecto. A fórmula Lookup pode ser utilizada para seleccionar uma coluna na tabela ligada e exibir os seus valores. Por exemplo, pode exibir automaticamente os membros do projecto que são responsáveis por cada tarefa.
 
-![Coluna de pesquisa](https://seatable.io/wp-content/uploads/2022/10/lookup-columns.png)
+![Coluna de pesquisa](images/lookup-columns.png)
 
 Isto pode ser útil para um fácil acesso à informação de tabelas cruzadas, criação de automatismos, fórmulas, etc. A seguir, aprenderá mais sobre a utilização da função de pesquisa.
 

@@ -21,11 +21,11 @@ La page [Tarifs](https://seatable.io/fr/prix/) donne un aperçu de toutes les fo
 3. Cliquez sur **Mettre à niveau maintenant** sous l'abonnement souhaité.
 4. Remplissez le **formulaire de réservation**.
 
-![Remplissez le formulaire de réservation](https://seatable.io/wp-content/uploads/2023/01/book-a-new-subscription.png)
+![Remplissez le formulaire de réservation](images/book-a-new-subscription.png)
 
 6. Confirmez la réservation en cliquant sur **S'abonner à SeaTable Plus/Enterprise**.
 
-![Confirmer la réservation](https://seatable.io/wp-content/uploads/2023/01/subscribe-to-seatable-plus-enterprise.png)
+![Confirmer la réservation](images/subscribe-to-seatable-plus-enterprise.png)
 
 La réservation se fait directement et votre équipe dispose immédiatement des nouvelles fonctions et limites.
 

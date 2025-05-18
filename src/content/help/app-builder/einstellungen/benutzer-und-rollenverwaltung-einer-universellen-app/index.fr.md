@@ -25,7 +25,7 @@ Qu'il s'agisse d'ajouter **de nouveaux utilisateurs**, d'attribuer **des rôles*
 
 6. Ouvrez la **gestion des utilisateurs et des rôles** en haut à gauche de la page.
 
-![Icône de gestion des utilisateurs et des rôles](https://seatable.io/wp-content/uploads/2023/05/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
+![Icône de gestion des utilisateurs et des rôles](images/Symbol-fuer-Benutzer-und-Rollenverwaltung.png)
 
 8. Effectuez les **réglages** souhaités.
 

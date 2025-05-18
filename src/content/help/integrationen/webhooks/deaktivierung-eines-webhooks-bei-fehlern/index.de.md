@@ -25,7 +25,7 @@ Der mit Abstand wichtigste Status Code ist 200. Dieser besagt, dass die Anfrage 
 
 Wenn SeaTable einen Webhook verschickt, erwartet SeaTable eine Rückmeldung in Form eine solchen HTTP-Statuscodes. Wenn SeaTable fünf mal hintereinander keinen Status-Code oder einen anderen Status-Code als 200 zurückerhält, wird der Webhook auf den Status _invalid_ gesetzt und die Ausführung unterbrochen.
 
-![Ungültiger Webhook](https://seatable.io/wp-content/uploads/2023/02/invalid-webhook.png)
+![Ungültiger Webhook](images/invalid-webhook.png)
 
 {{< warning headline="Mehr erlaubte Fehler seit Version 3.5" text="Bis einschließlich Version 3.4 von SeaTable wurde ein Webhook unmittelbar beim ersten fehlerhaften HTTP-Fehlercode deaktiviert. Mit Version 3.5. verzeiht SeaTable ein paar Fehler und deaktiviert den Webhook frühstens nach fünf Fehlern." />}}
 

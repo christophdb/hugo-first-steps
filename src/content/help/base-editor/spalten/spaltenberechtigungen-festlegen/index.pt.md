@@ -16,7 +16,7 @@ Se tiver direitos de proprietário ou administrador, pode definir em cada coluna
 
 ## Definir permissões de coluna
 
-![Definir permissões de coluna](https://seatable.io/wp-content/uploads/2023/02/edit-column-permissions.gif)
+![Definir permissões de coluna](images/edit-column-permissions.gif)
 
 1. Clique no **ícone drop-down** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} no cabeçalho de qualquer coluna.
 2. Clique em **Edit Column Permissions (Editar permissões de coluna**).

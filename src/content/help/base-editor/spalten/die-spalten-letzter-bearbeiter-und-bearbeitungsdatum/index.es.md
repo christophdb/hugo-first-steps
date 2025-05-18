@@ -16,7 +16,7 @@ Como las dos columnas registran automáticamente los cambios en las entradas, so
 
 Mientras SeaTable rellena la columna **Último editor** con el nombre del usuario que editó por última vez una fila, la hora exacta (fecha y hora) en la que tuvo lugar la última edición se registra en la columna **Fecha de edición**.
 
-![Las columnas "Último editor" y "Último editado" después de la creación por un usuario](https://seatable.io/wp-content/uploads/2023/01/last-modifiere-and-last-modified-time.png)
+![Las columnas "Último editor" y "Último editado" después de la creación por un usuario](images/last-modifiere-and-last-modified-time.png)
 
 ## Características especiales de los dos tipos de columnas
 

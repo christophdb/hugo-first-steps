@@ -140,14 +140,14 @@ else:
 Добавьте URL-адрес сервера SeaTable в комментарий **SeaTable - Destination** и введите [API-токен](https://seatable.io/ru/docs/seatable-api/erzeugen-eines-api-tokens/). API-токен должен предоставлять права на чтение и запись. Если вы используете SeaTable Cloud, то правильным будет предварительно заполненный URL "https://cloud.seatable.io". Если вы используете другой сервер SeaTable, введите его URL. (URL всегда должен вводиться с https:// или http://.) URL и маркер должны быть заключены в одинарные инвертированные запятые.
 
 Это пример конфигурации для импорта данных в базу в SeaTable Cloud:  
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable_Server_URL_and_API_Token.png)
+![](images/SeaTable_Server_URL_and_API_Token.png)
 
 ### 4\. введите токен персонального доступа Airtable и идентификатор базы
 
 Добавить комментарий ниже **Airtable - Источник** сайт [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) и [Идентификатор базы Airtable](https://support.airtable.com/docs/finding-airtable-ids)оба значения снова в одинарных инвертированных запятых. PAT должен обладать полномочиями `data.records:read` и `schema.bases:read` в наличии.
 
 Вот как это должно выглядеть, хотя ваши значения, конечно, будут отличаться:  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable_Base_ID_and_PAT.png)
+![](images/Airtable_Base_ID_and_PAT.png)
 
 Используйте ссылки в скрипте на документацию Airtable, чтобы узнать, где можно получить PAT и Base ID.
 
@@ -156,14 +156,14 @@ else:
 Теперь укажите скрипту, какие таблицы вы хотите импортировать из базы Airtable. Сделайте это в строке "table_names". Добавьте имена таблиц в квадратных скобках - каждое из них заключено в одну перевернутую запятую и разделено запятой.
 
 Для базы с двумя таблицами "table1" и "table2" строка должна выглядеть, например, так:  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-tables_names_500.png)
+![](images/Airtable-tables_names_500.png)
 
 Если ваша база airtable состоит более чем из двух таблиц, просто расширьте список в скобках. Если вы не хотите переносить все таблицы базы, просто опустите названия таблиц, которые не будут скопированы.
 
 В связи с ограничением API Airtable необходимо также указывать имена первых столбцов таблиц. Это делается в строке "first_columns" или в следующих строках.
 
 Для базы Airtable с двумя таблицами "table1" и "table2" это может выглядеть следующим образом:  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-first_columns_500.png)
+![](images/Airtable-first_columns_500.png)
 
 ### 6\. определить колонки ссылок
 
@@ -171,12 +171,12 @@ else:
 
 Для этого предназначена переменная "links". Например, если столбец "link to table2" в таблице "table1" представляет собой ссылку на таблицу "table 2", то сценарий должен быть параметризован следующим образом:
 
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-links_500.png)
+![](images/Airtable-links_500.png)
 
 Каждую пару столбцов ссылок необходимо указывать только один раз. Не обязательно указывать связь в обоих направлениях.
 
 Если в базу Airtable Base не поступают колонки ссылок, то квадратную скобку можно оставить пустой:  
-![](https://seatable.io/wp-content/uploads/2023/07/Airtable-linksEmpty_500.png)
+![](images/Airtable-linksEmpty_500.png)
 
 ### 7\. исключить столбцы или типы столбцов (необязательно)
 
@@ -189,7 +189,7 @@ else:
 Скрипт может быть выполнен в двух режимах: "import-header" и "import-rows". Во-первых, скрипт всегда должен выполняться в режиме "import-header". В этом режиме в SeaTable Base создаются таблицы и колонки и импортируются 10 тестовых строк.
 
 Режим выполнения задается через одноименную переменную:  
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable-modeImportHeader_500.png)
+![](images/SeaTable-modeImportHeader_500.png)
 
 Теперь выполните сценарий, нажав на кнопку **Execute script**. Во время выполнения сценария в редакторе справа видны шаги, которые были выполнены. В фоновом режиме также видно, как создаются таблицы и столбцы.
 
@@ -248,7 +248,7 @@ else:
 
 В скрипте измените режим с "import-header" на "import-rows":
 
-![](https://seatable.io/wp-content/uploads/2023/07/SeaTable-modeImportRows_500.png)
+![](images/SeaTable-modeImportRows_500.png)
 
 Снова выполните сценарий, нажав на кнопку **Run Script**. Вновь можно наблюдать выполнение сценария в правой части и видеть действия в фоновом режиме.
 

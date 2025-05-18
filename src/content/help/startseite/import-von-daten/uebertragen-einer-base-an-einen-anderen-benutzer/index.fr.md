@@ -25,7 +25,7 @@ Si vous souhaitez transférer l'une de vos bases à un **utilisateur d'une autre
 
 [Créez un lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) vers votre base et envoyez ce lien à l'autre utilisateur. Une fois que l'autre utilisateur a accepté le **partage**, il peut **copier** la **base** et l'intégrer à sa propre équipe.
 
-![Transférer la base par lien d'invitation](https://seatable.io/wp-content/uploads/2023/05/copy-shared-base.png)
+![Transférer la base par lien d'invitation](images/copy-shared-base.png)
 
 {{< warning  headline="Base commune ou séparée"  text="Tant que le destinataire travaille encore dans la **base partagée**, les deux utilisateurs partagent **la même base**. Dès que le destinataire **copie** la **base**, il s'agit de **deux bases séparées**. Le propriétaire initial n'a alors **plus accès** à la nouvelle base." />}}
 

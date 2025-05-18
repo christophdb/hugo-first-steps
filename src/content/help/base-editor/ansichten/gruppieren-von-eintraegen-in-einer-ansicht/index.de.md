@@ -12,7 +12,7 @@ Mit der Gruppierungsfunktion können Sie die Tabelleneinträge in **Gruppierunge
 
 ## Einträge in einer Ansicht gruppieren
 
-![Gruppieren von Einträgen in einer Ansicht](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
+![Gruppieren von Einträgen in einer Ansicht](images/Gruppierung-von-Eintraegen-in-einer-Ansicht-1.gif)
 
 1. Erstellen Sie eine [neue Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) oder wählen Sie die Ansicht aus, in der Sie die Gruppierung vornehmen wollen.
 2. Klicken Sie in den Ansichtsoptionen über der Tabelle die Option **Gruppieren** an.
@@ -32,7 +32,7 @@ Sie können durch das Hinzufügen weiterer Gruppierungen **nach bis zu drei Krit
 
 Jede Gruppe hat einen Header, in welchem sowohl das Kriterium der Gruppe als auch die Anzahl der Einträge innerhalb der Gruppe aufgeführt sind.
 
-![Der Gruppenheader](https://seatable.io/wp-content/uploads/2022/10/gruppierung.png)
+![Der Gruppenheader](images/gruppierung.png)
 
 Bei **Zahlspalten** haben Sie zudem die Möglichkeit, verschiedene Zusammenhänge der Einträge darzustellen:
 
@@ -59,21 +59,21 @@ Durch die Optionen **Alle reduzieren** oder **Alle erweitern** können Sie die A
 
 Hier finden Sie die Option **Alle reduzieren**:
 
-![Alle reduzieren](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_6.png)
+![Alle reduzieren](images/gruppieren-von-eintraegrn_6.png)
 
 Die Anzeige mit aktivierter Option **Alle reduzieren**:
 
-![Beispiel für alle reduzieren bei Gruppierungen](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_1-1.png)
+![Beispiel für alle reduzieren bei Gruppierungen](images/gruppieren-von-eintraegrn_1-1.png)
 
 ### Alle erweitern
 
 Hier finden Sie die Option **Alle erweitern**:
 
-![Gruppierung Option alle erweitern](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_7-1.png)
+![Gruppierung Option alle erweitern](images/gruppieren-von-eintraegrn_7-1.png)
 
 Die Anzeige mit aktivierter Option **Alle erweitern**:
 
-![Beispiel für alle erweitern bei Gruppierungen](https://seatable.io/wp-content/uploads/2022/10/gruppieren-von-eintraegrn_3-1.png)
+![Beispiel für alle erweitern bei Gruppierungen](images/gruppieren-von-eintraegrn_3-1.png)
 
 ## Einträge in eine andere Gruppe verschieben
 
@@ -85,4 +85,4 @@ Sie können durch Ziehen und Ablegen einzelne Einträge neuen Gruppen zuordnen. 
 
 Natürlich können Sie Gruppierungen jederzeit wieder löschen, indem Sie auf das **x-Symbol** vor der jeweiligen Gruppierung klicken.
 
-![Gruppierung löschen](https://seatable.io/wp-content/uploads/2022/10/Gruppierung-loeschen.png)
+![Gruppierung löschen](images/Gruppierung-loeschen.png)

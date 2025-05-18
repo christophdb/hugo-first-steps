@@ -45,6 +45,6 @@ Il existe deux façons pour différents systèmes de communiquer entre eux afin 
 
 Le polling consiste à demander des informations, ce qui entraîne un échange constant, même si aucun événement ne se produit.
 
-![Webhooks contre polling](https://seatable.io/wp-content/uploads/2023/02/webhooks-vs-polling.png)
+![Webhooks contre polling](images/webhooks-vs-polling.png)
 
 En revanche, les webhooks ne doivent communiquer que lorsqu'un événement s'est produit.

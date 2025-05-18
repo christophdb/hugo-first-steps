@@ -14,10 +14,9 @@ By fixing the first column(s) you can **read their data even after scrolling**. 
 
 The fixed columns always apply to the entire table including all views.
 
-
 ## Adjust the number of fixed columns
 
-![Adjust the number of fixed columns](https://seatable.io/wp-content/uploads/2022/10/adjust-the-number-of-frozen-columns.gif)
+![Adjust the number of fixed columns](images/adjust-the-number-of-frozen-columns.gif)
 
 1. Move the mouse over the **separator line** between the first two columns until a hand icon appears instead of the mouse pointer with the instruction **Adjust number of fixed columns by dragging**.
 1. **Drag** the **cursor** to the end of the last **column** you want to fix.
@@ -31,6 +30,6 @@ In addition to the way described above, there is **another way** to fix columns.
 1. Click on the triangular **drop-down symbol** on the right in the table header of the first column.
 1. Click **Lock Column**.
 
-![Fix the first column](https://seatable.io/wp-content/uploads/2022/10/freeze-the-first-column.gif)
+![Fix the first column](images/freeze-the-first-column.gif)
 
 {{< warning  headline="Important Note"  text="To **unfix** the first column, simply repeat the first step of this click sequence, but now select **Unfix column**. Please note that in this case, all other columns will also be unfixed." />}}

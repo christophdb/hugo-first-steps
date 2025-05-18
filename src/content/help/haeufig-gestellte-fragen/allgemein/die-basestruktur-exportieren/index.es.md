@@ -12,7 +12,7 @@ En el siguiente artículo encontrarás un script en Python que te permite mostra
 
 ## Introducción y ejecución del script
 
-![Exportar una estructura base](https://seatable.io/wp-content/uploads/2023/03/export_base_structure.gif)
+![Exportar una estructura base](images/export_base_structure.gif)
 
 1. Abra la **base** donde tiene el problema.
 2. Haga clic en {{< seatable-icon icon="dtable-icon-script" >}} en la cabecera de la base.
@@ -69,4 +69,4 @@ Table: price range (ID: 5H74)
 
 Si abre un nuevo tema en el [foro SeaTable](https://forum.seatable.io) utilizando el botón **\+ Nuevo tema**, puede insertar su estructura base como **texto preformateado** para ilustrar el problema.
 
-![Publicar el resultado en el foro](https://seatable.io/wp-content/uploads/2023/03/new-topic-with-preformatted-text.png)
+![Publicar el resultado en el foro](images/new-topic-with-preformatted-text.png)

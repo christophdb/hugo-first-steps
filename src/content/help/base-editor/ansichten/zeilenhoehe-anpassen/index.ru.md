@@ -10,7 +10,7 @@ url: '/ru/help/zeilenhoehe-anpassen'
 
 По умолчанию SeaTable отображает все строки с компактной высотой строки, чтобы показать как можно больше записей. Однако при такой **простой высоте строки**, помимо прочего, обрезаются [колонки]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) и [множественным выбором](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/), а также отображаются только маленькие **эскизы** изображений.
 
-![Усеченное содержимое ячеек](https://seatable.io/wp-content/uploads/2022/10/small-row-height-cut-cells.png)
+![Усеченное содержимое ячеек](images/small-row-height-cut-cells.png)
 
 Такая высота строки может подойти для большинства случаев использования, но могут быть ситуации, когда вы хотите видеть больше содержимого соответствующих строк. Именно поэтому SeaTable позволяет настраивать высоту строк в каждом из представлений.
 
@@ -23,7 +23,7 @@ url: '/ru/help/zeilenhoehe-anpassen'
 
 ## Отрегулируйте высоту ряда
 
-![Отрегулируйте высоту ряда](https://seatable.io/wp-content/uploads/2022/10/set-row-height-new.gif)
+![Отрегулируйте высоту ряда](images/set-row-height-new.gif)
 
 1. Нажмите на значок **высоты строки** в опциях просмотра.
 2. **Выберите** нужную высоту ряда.

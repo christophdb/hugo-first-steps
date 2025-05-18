@@ -16,7 +16,7 @@ Si vous avez des droits de propriétaire ou d'administrateur, vous pouvez défin
 
 ## Définir les autorisations de colonne
 
-![Définir les autorisations de colonne](https://seatable.io/wp-content/uploads/2023/02/edit-column-permissions.gif)
+![Définir les autorisations de colonne](images/edit-column-permissions.gif)
 
 1. Cliquez sur l'**icône déroulante** {{< seatable-icon icon="dtable-icon-drop-down" color="grey" >}} dans l'en-tête de n'importe quelle colonne.
 2. Cliquez sur **Modifier les autorisations de colonne**.

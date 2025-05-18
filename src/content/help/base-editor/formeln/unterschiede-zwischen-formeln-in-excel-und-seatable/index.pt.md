@@ -29,7 +29,7 @@ célula - como A3 - para verificar o tipo de fonte.
 A fórmula utilizada é a seguinte  
 **\= IF(A3 = "Online", "Web", "Loja")**
 
-![Referenciação de células em Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs.-seatable-1.png)
+![Referenciação de células em Excel](images/table-excel-vs.-seatable-1.png)
 
 A fórmula refere-se a _células_ específicas, tais como A3.
 
@@ -41,7 +41,7 @@ A fórmula utilizada abaixo é a seguinte:
 
 **IF({Tipo de compra}= "Online", "Web", "Loja")**
 
-![Referenciamento de colunas em SeaTable](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-2.png)
+![Referenciamento de colunas em SeaTable](images/table-excel-vs-seatable-2.png)
 
 A fórmula refere-se a _colunas_ inteiras, tais como {Tipo de Compra}.
 
@@ -58,7 +58,7 @@ Para se referir a um registo noutra tabela, deve escrever referências específi
 
 Depois é necessário aplicar esta fórmula a cada célula onde se pretende executar a fórmula (mudando as referências das células para cada célula onde se pretende executar a fórmula).
 
-![Referência a outro conjunto de dados em Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-3.png)
+![Referência a outro conjunto de dados em Excel](images/table-excel-vs-seatable-3.png)
 
 ### SeaTable
 

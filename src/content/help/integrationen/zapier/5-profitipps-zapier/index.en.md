@@ -14,21 +14,21 @@ Zapier lets you create an interface between SeaTable and any of thousands of oth
 
 SeaTable allows you to link records across two tables. For more details, see [this help article](https://seatable.io/en/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
 
-![Linking in SeaTable](https://seatable.io/wp-content/uploads/2023/06/zapier-linked-columns.png)
+![Linking in SeaTable](images/zapier-linked-columns.png)
 
 Now there is a peculiarity: instead of displaying the desired value (in this case Marion) as in SeaTable, Zapier always returns the rows-ID of the linked entry for a link column. If you want to access the _Marion_ value or other columns of the linked entry, as shown here, you need to create [lookup columns](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/) that you can then use to access the desired values. Thus, in this example, you would need to create another lookup column with the name.
 
-![linked columns in zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-linked-columns2.png)
+![linked columns in zapier](images/zapier-linked-columns2.png)
 
 ## 2\. execute the Zap when a date or time is reached.
 
 Implementing this requirement is very simple if you know how. At this point, you take advantage of the fact that the SeaTable app in Zapier can be restricted to one view.
 
-![view based trigger in zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger.png)
+![view based trigger in zapier](images/zapier-view-based-trigger.png)
 
 Create a [new view]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) and define a filter for a date column that only displays entries where the value of the date column corresponds to, for example, today's date or a very specific date. If you define the filter accordingly, you can specify exactly when an entry appears in this view and thus triggers the Zap by selecting the date in the corresponding column.
 
-![Timed execution of a zap](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger2.png)
+![Timed execution of a zap](images/zapier-view-based-trigger2.png)
 
 ## 3\. use formulas to avoid formatting in Zapier
 

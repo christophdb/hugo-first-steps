@@ -27,7 +27,7 @@ L'ajout d'options à une colonne à choix multiples fonctionne **de la même man
 
 Actuellement, 24 couleurs sont disponibles pour mettre en évidence visuellement les options respectives.
 
-![Couleurs de la colonne de sélection simple](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Couleurs de la colonne de sélection simple](images/farben-einfachauswahl.png)
 
 Avec un [abonnement Enterprise](https://seatable.io/fr/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), vous avez également la possibilité de créer [vos propres couleurs](https://seatable.io/fr/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) pour vos options à choix multiples.
 

@@ -23,7 +23,7 @@ Pour tout ce que vous devez savoir sur les liens externes, consultez l'article [
 
 ## Créer un lien externe pour une vue
 
-![Créer un lien externe pour une vue dans SeaTable](https://seatable.io/wp-content/uploads/2022/10/create-an-external-link-for-a-view-2.gif)
+![Créer un lien externe pour une vue dans SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
 1. Ouvrez la **vue** d'un tableau que vous souhaitez partager.
 2. Cliquez sur **Partager la vue**, puis sur **Lien externe**.

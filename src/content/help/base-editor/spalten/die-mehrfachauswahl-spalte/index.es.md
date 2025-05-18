@@ -27,7 +27,7 @@ La adición de opciones a una columna de selección múltiple funciona del mismo
 
 Actualmente hay 24 colores disponibles para resaltar visualmente las respectivas opciones.
 
-![Colores de la columna de selección única](https://seatable.io/wp-content/uploads/2022/10/farben-einfachauswahl.png)
+![Colores de la columna de selección única](images/farben-einfachauswahl.png)
 
 Con una [suscripción Enterprise](https://seatable.io/es/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), también tiene la opción de crear [sus propios colores](https://seatable.io/es/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) para sus múltiples opciones de selección.
 

@@ -18,7 +18,7 @@ En este artículo te presentaremos estas tres posibilidades diferentes. El artí
 2. Mueva el ratón sobre el **nombre de** su script.
 3. Inicie el guión con el **icono de reproducción** {{< seatable-icon icon="dtable-icon-implement" >}}.
 
-![Para iniciar un script manualmente](https://seatable.io/wp-content/uploads/2023/03/skript-manuell-starten.png)
+![Para iniciar un script manualmente](images/skript-manuell-starten.png)
 
 {{< warning  headline="Sin referencia de línea"  text="Si ejecuta su script manualmente, **no** habrá ninguna **fila activa**, por lo que llamar a _context.current\_row_ devolverá un resultado vacío." />}}
 
@@ -29,7 +29,7 @@ En este artículo te presentaremos estas tres posibilidades diferentes. El artí
 3. Utilice la acción **Ejecutar script**.
 4. Seleccione su **guión** y guárdelo.
 
-![Ejecutar script mediante botón](https://seatable.io/wp-content/uploads/2023/03/run-script-via-button.png)
+![Ejecutar script mediante botón](images/run-script-via-button.png)
 
 A partir de ahora, cada vez que pulse el botón, se ejecutará su script. Dentro del script, puede acceder a los valores de la fila llamando a _context.current_row_. Por supuesto, también puede acceder a todas las demás filas a través del [ID de](https://seatable.io/es/docs/haeufig-gestellte-fragen/was-ist-die-zeilen-id/) fila o con la ayuda de un bucle.
 
@@ -44,4 +44,4 @@ Con la ayuda de una automatización, puede ejecutar un script de Python. JavaScr
 3. Utilice la acción de automatización **Ejecutar script Python**.
 4. Seleccione su **script** y guarde la automatización con **Enviar**.
 
-![Iniciar script mediante automatización](https://seatable.io/wp-content/uploads/2023/03/skript-per-automation.png)
+![Iniciar script mediante automatización](images/skript-per-automation.png)

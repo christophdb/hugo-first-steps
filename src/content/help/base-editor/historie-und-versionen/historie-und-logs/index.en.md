@@ -40,7 +40,7 @@ By clicking **Details** you can view the corresponding changes in a separate win
 
 All activities performed in a base can be viewed in the so-called base **log**, which you can access via the base header.
 
-![Open logs in Base](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Open logs in Base](images/Logs-in-der-Base-oeffnen.png)
 
 In a base log you will find the latest changes that have been made to the corresponding base. Each log entry contains the following information:
 
@@ -50,13 +50,13 @@ In a base log you will find the latest changes that have been made to the corres
 - Date of the change
 - Description of the change
 
-![Changes in the logs](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Changes in the logs](images/Aenderungen-in-den-Logs.png)
 
 For more information about the base log and detailed **instructions on** how to undo changes above it, see this [help article](https://seatable.io/en/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
 
 To increase the traceability of changes to rows in the [big data storage](https://seatable.io/en/docs/big-data/potenzial-big-data/), SeaTable offers a separate **big data log**. However, this log only appears as soon as the big data storage is activated in the base.
 
-![Big Data Log](https://seatable.io/wp-content/uploads/2023/03/Big-Data-Log.png)
+![Big Data Log](images/Big-Data-Log.png)
 
 {{< warning  headline="Simply explained"  text="If you want to see not only the changes in **one** base, but also an overview of what is happening in **all your bases**, look at the **activity log** on the home page. If you are interested in the changes to exactly **one record**, look at the **rows log.**" />}}
 

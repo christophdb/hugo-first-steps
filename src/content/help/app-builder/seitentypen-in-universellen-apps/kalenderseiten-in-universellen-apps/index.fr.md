@@ -16,7 +16,7 @@ Ce type de page de l'application universelle fonctionne de la même manière que
 
 Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigation sur le **symbole de la roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondant.
 
-![Modifier les paramètres de la page de calendrier](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-auf-der-Kalenderseite-aendern.png)
+![Modifier les paramètres de la page de calendrier](images/Einstellungen-auf-der-Kalenderseite-aendern.png)
 
 Dans les **paramètres de la page**, vous pouvez notamment choisir le **titre**, la **date de début** et la **couleur** des **entrées** affichées dans le calendrier et définir le **jour de début de la semaine**.
 
@@ -26,7 +26,7 @@ Dans les **paramètres de la page**, vous pouvez notamment choisir le **titre**,
 
 Vous pouvez définir **des filtres prédéfinis** et **des colonnes masquées** afin de limiter les données affichées pour les utilisateurs.
 
-![Ajouter un filtre sur les pages de calendrier dans les applications universelles](https://seatable.io/wp-content/uploads/2023/12/Add-filter-on-calendar-pages-in-Universal-Apps.png)
+![Ajouter un filtre sur les pages de calendrier dans les applications universelles](images/Add-filter-on-calendar-pages-in-Universal-Apps.png)
 
 Pour ce faire, cliquez sur **Ajouter un filtre**, sélectionnez la **colonne** et la **condition** souhaitées et confirmez en cliquant sur **Envoyer**.
 
@@ -58,4 +58,4 @@ Vous pouvez modifier les entrées du calendrier très facilement en **cliquant s
 
 Tout en bas, dans les paramètres de la page, vous pouvez limiter précisément les utilisateurs autorisés à interagir avec la page. Déterminez qui peut voir la page, ajouter des lignes ou modifier des entrées.
 
-![Autorisations de pages sur les pages du calendrier](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-auf-Kalenderseiten.png)
+![Autorisations de pages sur les pages du calendrier](images/Seitenberechtigungen-auf-Kalenderseiten.png)

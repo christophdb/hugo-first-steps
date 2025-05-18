@@ -25,15 +25,15 @@ En una Universal App, puede crear tantas **páginas** y **carpetas** como desee 
 
 6. Haga clic en **Añadir página o Añadir carpeta** y, a continuación, seleccione **Añadir página**.
 
-![Añadir página de aplicación](https://seatable.io/wp-content/uploads/2023/05/Add-app-page.png)
+![Añadir página de aplicación](images/Add-app-page.png)
 
 8. Seleccione uno de los [tipos de página](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/) y haga clic en **Siguiente**.
 
-![Añadir página de aplicación y seleccionar el tipo de página](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-select-page-type.png)
+![Añadir página de aplicación y seleccionar el tipo de página](images/Add-app-page-and-select-page-type.png)
 
 10. Dé un **nombre** a la página, defina la **tabla** subyacente y, opcionalmente, especifique un **icono** para la página.
 
-![Añadir página de aplicación y rellenar los datos](https://seatable.io/wp-content/uploads/2023/05/Add-app-page-and-fill-in-details.png)
+![Añadir página de aplicación y rellenar los datos](images/Add-app-page-and-fill-in-details.png)
 
 12. Confirme con **Enviar**.
 
@@ -63,7 +63,7 @@ Si ya ha creado una **carpeta** en su aplicación universal, puede mover sus pá
 
 También puede mover las páginas **arrastrándolas y soltándolas**. Para ello, mantenga pulsado el botón del ratón sobre los **seis puntos** situados delante del icono de la página, arrastre la página en la navegación hasta la posición deseada y suéltelo.
 
-![Mover páginas de una aplicación universal mediante arrastrar y soltar](https://seatable.io/wp-content/uploads/2023/05/move-pages-via-drag-and-drop.gif)
+![Mover páginas de una aplicación universal mediante arrastrar y soltar](images/move-pages-via-drag-and-drop.gif)
 
 ## Crear una nueva carpeta en una aplicación universal
 
@@ -80,11 +80,11 @@ Si hay un gran número de páginas, **las carpetas** son útiles para agruparlas
 
 6. Haga clic en **Añadir página o Añadir carpeta** y, a continuación, seleccione **Añadir carpeta**.
 
-![Añadir carpeta a la aplicación universal](https://seatable.io/wp-content/uploads/2023/05/Add-folder-in-Universal-Apps.png)
+![Añadir carpeta a la aplicación universal](images/Add-folder-in-Universal-Apps.png)
 
 8. **Asigne un nombre a la** carpeta y, opcionalmente, seleccione un **icono** adecuado para ella.
 
-![Añadir una nueva carpeta a la aplicación](https://seatable.io/wp-content/uploads/2023/05/Add-new-folder-to-app.png)
+![Añadir una nueva carpeta a la aplicación](images/Add-new-folder-to-app.png)
 
 10. Confirme con **Enviar**.
 
@@ -92,22 +92,22 @@ Si hay un gran número de páginas, **las carpetas** son útiles para agruparlas
 
 Si ya ha creado una carpeta en su aplicación universal, puede hacer clic en los **tres puntos** de esta carpeta y **añadir** una página directamente.
 
-![Añadir páginas a una carpeta en Universal App](https://seatable.io/wp-content/uploads/2023/05/add-page-via-folder-to-universal-app.png)
+![Añadir páginas a una carpeta en Universal App](images/add-page-via-folder-to-universal-app.png)
 
 ## Editar el nombre y el icono de una carpeta
 
 Puede **cambiar el nombre de** las carpetas de su Universal App en cualquier momento utilizando los **tres puntos**. También puede personalizar así el **icono de** su carpeta.
 
-![Personalizar el nombre y el icono de una carpeta en su aplicación universal](https://seatable.io/wp-content/uploads/2023/05/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
+![Personalizar el nombre y el icono de una carpeta en su aplicación universal](images/modify-name-and-icon-of-a-folder-in-the-universal-app-new.png)
 
 ## Eliminar carpeta
 
 Puede **eliminar** las carpetas que ya no necesite de su aplicación universal en cualquier momento. Tenga en cuenta que también se **eliminarán** **todas las páginas** de la carpeta. La eliminación es definitiva. Esto significa que ni la carpeta ni las páginas individuales podrán **restaurarse** posteriormente.
 
-![Eliminar una carpeta en su Universal App](https://seatable.io/wp-content/uploads/2023/05/delete-folder-in-your-universal-app-new.png)
+![Eliminar una carpeta en su Universal App](images/delete-folder-in-your-universal-app-new.png)
 
 ## Mover carpeta
 
 Sólo puede mover carpetas **arrastrándolas y soltándolas**. Para ello, mantenga pulsado el botón del ratón sobre los **seis puntos** situados delante del icono de la carpeta, arrastre la carpeta en la navegación hasta el lugar deseado y suéltelo.
 
-![Mover carpetas en la Universal App mediante arrastrar y soltar](https://seatable.io/wp-content/uploads/2023/05/move-folders-in-the-universal-app-via-drag-and-drop.gif)
+![Mover carpetas en la Universal App mediante arrastrar y soltar](images/move-folders-in-the-universal-app-via-drag-and-drop.gif)

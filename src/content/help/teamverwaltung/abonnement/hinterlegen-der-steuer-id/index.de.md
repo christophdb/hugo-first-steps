@@ -16,7 +16,7 @@ Sie möchten eine Steuer-ID in SeaTable hinterlegen? Kein Problem, über die Tea
 
 Eine Hinterlegung der Steuer-ID ist sowohl bei der **Buchung** eines Abonnements als auch **nachträglich** möglich.
 
-![Die Steuer-ID kann über den Reiter Abonnement in der Teamverwaltung hinterlegt werden](https://seatable.io/wp-content/uploads/2023/01/Hinterlegen-einer-Steuer-ID.png)
+![Die Steuer-ID kann über den Reiter Abonnement in der Teamverwaltung hinterlegt werden](images/Hinterlegen-einer-Steuer-ID.png)
 
 1. Öffnen Sie die **Teamverwaltung**.
 2. Wechseln Sie in den Bereich **Abonnement**.
@@ -30,7 +30,7 @@ Nach dem Abschicken des Formulars wird Ihre Steuer-ID automatisch überprüft un
 
 Erst wenn die Überpüfung erfolgreich war, wird die Steuer-ID wirksam und auf zukünftigen Rechnungen verwendet. Auch die Vorschau des zukünftigen Rechnungsbetrages wird erst dann angepasst, wenn die Steuer-ID als gültig verifiziert wurde.
 
-![Steuerliche Behandlung in der Teamverwaltung von SeaTable.](https://seatable.io/wp-content/uploads/2023/01/steuerliche-Behandlung.png)
+![Steuerliche Behandlung in der Teamverwaltung von SeaTable.](images/steuerliche-Behandlung.png)
 
 ## Häufige Fragen zur Steuer-ID
 

@@ -17,7 +17,7 @@ Como **administrador de equipo**, puedes **eliminar completamente** tu equipo co
 3. Desplácese hacia abajo y haga clic en **Cuenta de equipo y elimine todos los datos por completo**.
 4. Confirme la eliminación.
 
-![Supresión de todo el equipo](https://seatable.io/wp-content/uploads/2022/10/delete-complete-team.png)
+![Supresión de todo el equipo](images/delete-complete-team.png)
 
 ## ¿Qué pasa cuando eliminas tu equipo?
 

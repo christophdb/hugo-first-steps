@@ -20,7 +20,7 @@ Para evitar alterações indesejadas nas filas, pode **bloquear as filas**. Isto
 
 Assim que uma fila é bloqueada, aparece um pequeno **triângulo vermelho na coluna de numeração**.
 
-![Bloqueio de uma linha](https://seatable.io/wp-content/uploads/2022/10/sperren-einer-zeile-1.png)
+![Bloqueio de uma linha](images/sperren-einer-zeile-1.png)
 
 ## Desbloquear filas
 
@@ -38,6 +38,6 @@ Isto é muito útil se quiser bloquear muitas filas ao mesmo tempo ou se quiser 
 
 **Pode saber mais sobre isto no artigo** [Bloqueio de filas através de automatização](https://seatable.io/pt/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
 
-![Bloquear uma linha com uma automatização](https://seatable.io/wp-content/uploads/2022/10/lock-row-with-an-automation.png)
+![Bloquear uma linha com uma automatização](images/lock-row-with-an-automation.png)
 
 {{< warning  headline="Desbloqueio apenas possível manualmente"  text="**Não é possível** desbloquear filas bloqueadas com uma automatização da mesma forma. Isto só é possível manualmente e com os necessários **direitos de administrador**." />}}

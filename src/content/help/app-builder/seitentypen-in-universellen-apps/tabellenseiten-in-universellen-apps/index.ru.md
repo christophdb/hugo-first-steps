@@ -16,7 +16,7 @@ url: '/ru/help/tabellenseiten-in-universellen-apps'
 
 Если вы хотите изменить настройки какой-либо страницы, нажмите на соответствующий **символ** {{< seatable-icon icon="dtable-icon-set-up" >}} на панели навигации.
 
-![Открытие настроек страницы](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Открытие настроек страницы](images/page-permissions-universal-app.png)
 
 При редактировании страниц таблиц можно выполнить множество **настроек страницы**, чтобы настроить отображение данных из основной таблицы именно для той или иной группы пользователей.
 

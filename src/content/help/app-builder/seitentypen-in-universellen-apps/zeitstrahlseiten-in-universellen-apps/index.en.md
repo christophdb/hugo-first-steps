@@ -16,7 +16,7 @@ This page type is very similar to the [timeline plugin](https://seatable.io/en/d
 
 If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **cogwheel symbol** in the navigation bar.
 
-![Changing the settings of the timeline page](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
+![Changing the settings of the timeline page](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
 In the **page settings**, you can first set the graphic display of the timelines. To do this, select the [row color]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) or a [single selection column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), which determines the **color of the blocks**. You can also define a column for the **labeling of the blocks**.
 
@@ -40,7 +40,7 @@ Users can view more information about an entry by clicking on a block on the tim
 
 If you add a **grouping**, the bars can also be displayed in **swimlanes**. For non-overlapping activities, this view option results in a compact, clear display.
 
-![Grouping on timeline pages](https://seatable.io/wp-content/uploads/2023/12/Grouping-on-timeline-pages.png)
+![Grouping on timeline pages](images/Grouping-on-timeline-pages.png)
 
 ## Edit or move an entry on the timeline
 
@@ -58,4 +58,4 @@ You can also conveniently **move** entries on the timeline **using drag-and-drop
 
 At the bottom of the page settings, you can restrict who can **see** the timeline page and **edit** entries. You cannot add or delete rows via timeline pages.
 
-![Page authorizations of timeline pages](https://seatable.io/wp-content/uploads/2023/12/Seitenberechtigungen-von-Kalenderseiten.png)
+![Page authorizations of timeline pages](images/Seitenberechtigungen-von-Kalenderseiten.png)

@@ -12,7 +12,7 @@ url: '/ru/help/sortieren-von-eintraegen-in-einer-ansicht'
 
 ## Сортировка записей в представлении
 
-![Сортировка при входе](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-2.gif)
+![Сортировка при входе](images/Sortierung-von-Eintraegen-2.gif)
 
 1. Создайте [новое представление]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) или выберите представление, которое нужно отсортировать.
 2. Щелкните опцию **Сортировка** в опциях просмотра над таблицей.
@@ -28,18 +28,18 @@ url: '/ru/help/sortieren-von-eintraegen-in-einer-ansicht'
 
 Вы можете удалить созданную сортировку, нажав на **символ x**.
 
-![Удаление сортировки записей в представлении](https://seatable.io/wp-content/uploads/2022/10/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
+![Удаление сортировки записей в представлении](images/Sortieren-von-Eintraegen-in-einer-Ansicht.png)
 
 ## Добавление строк после
 
 Активированная сортировка автоматически применяется к вновь добавленным строкам.
 
-![Сортировка при входе](https://seatable.io/wp-content/uploads/2022/10/Sortierung-von-Eintraegen-1-1.gif)
+![Сортировка при входе](images/Sortierung-von-Eintraegen-1-1.gif)
 
 ## Применяйте несколько сортов
 
 Применяя несколько сортировок, можно упорядочить записи, которые имеют **одинаковые записи** в предыдущей сортировке. Например, можно сначала отсортировать список сотрудников по параметрам "женщины", "мужчины", "разное" с помощью одного столбца выбора, а затем отсортировать имена женщин, мужчин и разное в алфавитном порядке с помощью текстового столбца.
 
-![Несколько ассортиментов](https://seatable.io/wp-content/uploads/2022/10/Mehrere-Sortierungen.png)
+![Несколько ассортиментов](images/Mehrere-Sortierungen.png)
 
 {{< warning  headline="Примечание"  text="Если вы используете **плагины**, такие как галерея или доска Kanban, сортировка также влияет на порядок записей в них." />}}

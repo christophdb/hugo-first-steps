@@ -14,7 +14,7 @@ url: '/ru/help/einrichtung-eines-e-mail-kontos-in-einer-base'
 
 ## Настройте учетную запись электронной почты в вашей Базе
 
-![Интеграция сторонних производителей через расширенные опции базы](https://seatable.io/wp-content/uploads/2023/01/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
+![Интеграция сторонних производителей через расширенные опции базы](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
 1. Откройте опции расширенной базы, нажав на **значок с тремя точками** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 2. Выберите опцию **Интеграция сторонних провайдеров.**
@@ -36,11 +36,11 @@ url: '/ru/help/einrichtung-eines-e-mail-kontos-in-einer-base'
 
 Для этого нажмите на **символ конверта** справа от настроенной учетной записи электронной почты.
 
-![Учетная запись электронной почты, настроенная в базе SeaTable](https://seatable.io/wp-content/uploads/2023/03/Configured_email_account.png)
+![Учетная запись электронной почты, настроенная в базе SeaTable](images/Configured_email_account.png)
 
 Затем определите **тему**, **получателя** и **содержание** тестового электронного письма. Например, вы можете отправить себе письмо на свой собственный адрес электронной почты.
 
-![Тестовая конфигурация учетной записи электронной почты](https://seatable.io/wp-content/uploads/2023/03/Testing_email_account_configuration.png)
+![Тестовая конфигурация учетной записи электронной почты](images/Testing_email_account_configuration.png)
 
 Если соединение с сервером электронной почты успешно установлено, появится краткое сообщение об успехе, и письмо с настроенной учетной записи электронной почты должно поступить в указанный почтовый ящик получателя.
 

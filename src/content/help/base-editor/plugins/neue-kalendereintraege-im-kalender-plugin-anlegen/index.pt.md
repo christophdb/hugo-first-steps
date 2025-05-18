@@ -30,7 +30,7 @@ Fazer uma seleção na síntese diária, semanal ou mensal. **Fazer duplo clique
 
 {{< warning  headline="Nota"  text="O duplo clique só funciona para as opções de visualização **do mês**, **da semana** e **do dia**." />}}
 
-![Criar uma entrada de calendário fazendo duplo clique ou utilizando o símbolo de mais](https://seatable.io/wp-content/uploads/2023/01/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
+![Criar uma entrada de calendário fazendo duplo clique ou utilizando o símbolo de mais](images/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
 
 ### Criar novas entradas utilizando o símbolo de mais grande
 

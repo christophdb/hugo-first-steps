@@ -14,7 +14,7 @@ La colonne des boutons a une fonction similaire à celle [des automatisations](h
 
 Tout d'abord, nommez la **colonne** et définissez le **libellé** et **la couleur du bouton** que vous souhaitez ajouter à vos lignes.
 
-![Créer un bouton](https://seatable.io/wp-content/uploads/2023/01/create-button-column.png)
+![Créer un bouton](images/create-button-column.png)
 
 Dans l'étape suivante, vous définissez un nombre quelconque d'**actions** qui doivent être déclenchées par l'activation du bouton. Vous avez la possibilité d'enchaîner **plusieurs** actions.
 
@@ -36,18 +36,18 @@ Vous pouvez choisir au total entre **neuf** actions différentes :
 
 Dans cet exemple d'application, nous utilisons le bouton pour attribuer le statut "payé" aux factures payées par un simple clic de souris. Pour cela, nous utilisons l'action **Modifier la ligne**.
 
-![Sélection de l'action déclenchée par l'activation du bouton](https://seatable.io/wp-content/uploads/2023/01/modify-row.png)
+![Sélection de l'action déclenchée par l'activation du bouton](images/modify-row.png)
 
 Dans les **paramètres de la colonne**, nous indiquons que les entrées de la colonne de sélection simple **"status"** doivent passer de **"pending"** à **"paid"** en activant le bouton.
 
-![Définition du bouton dans l'exemple d'application](https://seatable.io/wp-content/uploads/2023/01/settings-of-the-button-column-in-the-example.png)
+![Définition du bouton dans l'exemple d'application](images/settings-of-the-button-column-in-the-example.png)
 
 Après avoir cliqué sur le bouton, le **statut** de la facture sélectionnée passe à **paid**.
 
-![Action déclenchée dans l'exemple d'application du bouton](https://seatable.io/wp-content/uploads/2023/01/example-button-column.gif)
+![Action déclenchée dans l'exemple d'application du bouton](images/example-button-column.gif)
 
 ### Possibilité supplémentaire
 
 Pour étendre l'automatisation des étapes de processus, vous pouvez également utiliser des boutons en combinaison avec [des automatisations]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) le traitement des **lignes** contenant les factures respectives qui ont été définies comme payées.
 
-![Exemple d'application pour l'utilisation du bouton en combinaison avec des automatisations](https://seatable.io/wp-content/uploads/2023/01/use-the-button-cplumn-with-automations.gif)
+![Exemple d'application pour l'utilisation du bouton en combinaison avec des automatisations](images/use-the-button-cplumn-with-automations.gif)

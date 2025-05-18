@@ -14,7 +14,7 @@ En SeaTable existen dos tipos de columnas con el mismo nombre para registrar **a
 
 El tipo de columna **Imagen** almacena cualquier número de **archivos de** imagen en los formatos de archivo **BMP, GIF, ICO, JPG, PNG, SVG y TIF**. La columna Imagen es, por tanto, una columna de archivos restringida a formatos de archivo de imagen y ofrece una **vista previa** en forma de imagen en miniatura.
 
-![Vista previa de la imagen en la columna de imágenes de SeaTable](https://seatable.io/wp-content/uploads/2022/10/picture-preview-seatable.png)
+![Vista previa de la imagen en la columna de imágenes de SeaTable](images/picture-preview-seatable.png)
 
 ## Columna de archivos
 

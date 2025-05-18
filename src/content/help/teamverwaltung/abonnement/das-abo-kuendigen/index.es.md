@@ -14,7 +14,7 @@ url: '/es/ayuda/das-abo-kuendigen'
 
 {{< warning  headline="Nota importante"  text="El paquete de suscripción de tu equipo sólo puede ser cancelado por los **administradores del equipo**." />}}2. Abre la **administración del equipo**. 3. Haga clic en **Suscripción**. 4. Haga clic en **"Cancelar suscripción y cambiar a SeaTable Free"**. 5. Su suscripción ha sido cancelada al **final** del **plazo** que seleccionó. Hasta esa fecha podrá seguir utilizando plenamente SeaTable.
 
-![Las suscripciones existentes pueden cancelarse a través de la administración del equipo](https://seatable.io/wp-content/uploads/2023/01/Abonnement-loeschen.jpg)
+![Las suscripciones existentes pueden cancelarse a través de la administración del equipo](images/Abonnement-loeschen.jpg)
 
 ## Eliminar el equipo por completo
 

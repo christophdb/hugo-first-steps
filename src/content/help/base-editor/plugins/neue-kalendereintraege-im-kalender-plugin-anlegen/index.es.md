@@ -30,7 +30,7 @@ Haga una selección en el resumen diario, semanal o mensual. **Haga doble clic e
 
 {{< warning  headline="Nota"  text="El doble clic sólo funciona para las opciones de visualización del **mes**, la **semana** y el **día**." />}}
 
-![Cree una entrada en la agenda haciendo doble clic o utilizando el símbolo más](https://seatable.io/wp-content/uploads/2023/01/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
+![Cree una entrada en la agenda haciendo doble clic o utilizando el símbolo más](images/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
 
 ### Crear nuevas entradas con el signo más grande
 

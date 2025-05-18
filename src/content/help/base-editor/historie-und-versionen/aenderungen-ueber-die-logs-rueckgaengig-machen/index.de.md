@@ -14,7 +14,7 @@ SeaTable protokolliert alle Aktivitäten innerhalb einer Base in einem Log. Übe
 
 Sie öffnen die Logs wie den Papierkorb über das Versionen-Icon in der rechten oberen Ecke.
 
-![Logs in der Base öffnen](https://seatable.io/wp-content/uploads/2023/01/Logs-in-der-Base-oeffnen.png)
+![Logs in der Base öffnen](images/Logs-in-der-Base-oeffnen.png)
 
 In dem sich öffnenden Panel finden Sie in antichronologischer Reihenfolge die jüngsten Änderungen, die in der Base vorgenommen wurden. Jeder Log-Eintrag enthält folgende Informationen:
 
@@ -24,7 +24,7 @@ In dem sich öffnenden Panel finden Sie in antichronologischer Reihenfolge die j
 - Zeitpunkt der Änderung
 - Beschreibung der Änderung
 
-![Änderungen in den Logs](https://seatable.io/wp-content/uploads/2023/01/Aenderungen-in-den-Logs.png)
+![Änderungen in den Logs](images/Aenderungen-in-den-Logs.png)
 
 ## Ältere Log-Einträge laden
 

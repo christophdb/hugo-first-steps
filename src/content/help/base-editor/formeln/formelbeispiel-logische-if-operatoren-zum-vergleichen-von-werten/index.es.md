@@ -19,11 +19,11 @@ En el ejemplo concreto, se trata de utilizar una fórmula para introducir autom�
 
 Para ello, añada primero una **columna de fórmulas** a la tabla, en cuyo editor podrá insertar después la **fórmula**.
 
-![Añadir la columna de fórmulas e introducir la fórmula en el editor](https://seatable.io/wp-content/uploads/2023/01/Hinzufuegen-der-Formel-Spalte-und-Eingabe-der-Formel-im-Editor.png)
+![Añadir la columna de fórmulas e introducir la fórmula en el editor](images/Hinzufuegen-der-Formel-Spalte-und-Eingabe-der-Formel-im-Editor.png)
 
 Para recoger automáticamente el saludo de los clientes según su sexo en la columna de la fórmula, añada primero un operador **if** a la fórmula. Lo encontrará en el editor de fórmulas, en la pestaña **Funciones lógicas**. Los operadores if **comprueban** si la entrada de una columna seleccionada corresponde a las condiciones definidas de antemano y devuelven un **valor** correspondiente en función del resultado positivo o negativo.
 
-![Añadir un operador If a la fórmula](https://seatable.io/wp-content/uploads/2023/01/add-if-operator.jpg)
+![Añadir un operador If a la fórmula](images/add-if-operator.jpg)
 
 En el siguiente paso, se definen las **condiciones** que deben aplicarse en la columna deseada para que la columna de fórmulas se rellene automáticamente con los valores correspondientes.
 
@@ -31,7 +31,7 @@ Para ello, primero debe hacer referencia a la **columna** concreta en la que deb
 
 {{< warning  headline="Consejo"  text="Los **nombres de las columnas** de la tabla abierta aparecen a la izquierda en el **editor de fórmulas** y pueden insertarse en la fórmula con un **doble clic**." />}}
 
-![Referencia a la columna en la que deben darse las condiciones definidas](https://seatable.io/wp-content/uploads/2023/01/Verweis-auf-die-Spalte-in-der-die-definierten-Bedingungen-eintreten-muessen.png)
+![Referencia a la columna en la que deben darse las condiciones definidas](images/Verweis-auf-die-Spalte-in-der-die-definierten-Bedingungen-eintreten-muessen.png)
 
 En primer lugar, establezca un **operador** deseado directamente detrás de la columna "Sexo". Si la columna debe contener un valor exacto, utilice el operador **\=** (es igual a), por ejemplo. También puede encontrar los operadores a la izquierda en el editor de fórmulas.
 

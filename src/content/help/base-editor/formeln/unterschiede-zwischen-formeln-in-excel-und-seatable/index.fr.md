@@ -29,7 +29,7 @@ cellule - comme A3 - pour vérifier la nature de la source.
 La formule utilisée ci-dessous est la suivante :  
 **\= IF(A3 = "Online", "Web", "Store")**
 
-![Référencement des cellules dans Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs.-seatable-1.png)
+![Référencement des cellules dans Excel](images/table-excel-vs.-seatable-1.png)
 
 La formule fait référence à des _cellules_ spécifiques, par exemple A3.
 
@@ -41,7 +41,7 @@ La formule utilisée ci-dessous est la suivante :
 
 **IF({Type d'achat}= "En ligne", "Web", "Boutique")**
 
-![Référencement des colonnes dans SeaTable](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-2.png)
+![Référencement des colonnes dans SeaTable](images/table-excel-vs-seatable-2.png)
 
 La formule fait référence à des _colonnes_ entières, comme par exemple {Purchase Type}.
 
@@ -58,7 +58,7 @@ Pour faire référence à un enregistrement dans une autre table, vous devez éc
 
 Ensuite, vous devez appliquer cette formule à chaque cellule dans laquelle vous souhaitez exécuter la formule (en modifiant les références de cellule pour chaque cellule dans laquelle vous souhaitez exécuter la formule).
 
-![Référence à un autre ensemble de données dans Excel](https://seatable.io/wp-content/uploads/2023/01/table-excel-vs-seatable-3.png)
+![Référence à un autre ensemble de données dans Excel](images/table-excel-vs-seatable-3.png)
 
 ### SeaTable
 

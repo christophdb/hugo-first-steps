@@ -20,12 +20,12 @@ Alternativamente, pode simplesmente utilizar este link:
 
 {{< warning  headline="Nota importante"  text="Os utilizadores **só** podem ser definidos como inactivos pelos administradores da equipa." />}}2. Abrir a **administração da equipa**. 3. Clique em **Equipa**. 4. Clique em qualquer **utilizador**. 5. **Ativar** o **cursor** ao lado do item **"Desativar utilizador"**. 6. Clique em **Guardar Alterações**.
 
-![Desactivar utilizadores inactivos através do separador "Equipa" na administração da equipa](https://seatable.io/wp-content/uploads/2023/01/deactivate-user.png)
+![Desactivar utilizadores inactivos através do separador "Equipa" na administração da equipa](images/deactivate-user.png)
 
 Os utilizadores desactivados aparecem sempre na vista geral da equipa, no separador **Equipa**, com uma nota vermelha **Inactivo**.
 
-![Os utilizadores desactivados podem sempre ser reconhecidos na visão geral da equipa pelo aviso vermelho "inactivo".](https://seatable.io/wp-content/uploads/2023/01/inactive-user.png)
+![Os utilizadores desactivados podem sempre ser reconhecidos na visão geral da equipa pelo aviso vermelho "inactivo".](images/inactive-user.png)
 
 Os utilizadores inactivos não necessitam de **uma licença** e não aumentam o número total de utilizadores reservados.
 
-![Os utilizadores inactivos não têm influência no número total de utilizadores reservados](https://seatable.io/wp-content/uploads/2023/01/inactive-users-dont-count.png)
+![Os utilizadores inactivos não têm influência no número total de utilizadores reservados](images/inactive-users-dont-count.png)

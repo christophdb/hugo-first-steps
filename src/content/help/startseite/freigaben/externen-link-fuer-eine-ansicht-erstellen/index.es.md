@@ -23,7 +23,7 @@ Todo lo dem√°s que debe saber sobre los enlaces externos se encuentra en el art√
 
 ## Crear un enlace externo para una vista
 
-![Crear un enlace externo para una vista en SeaTable](https://seatable.io/wp-content/uploads/2022/10/create-an-external-link-for-a-view-2.gif)
+![Crear un enlace externo para una vista en SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
 1. Abra la **vista de** una tabla que desee compartir.
 2. Haga clic en **Compartir vista** y luego en **Enlace externo**.

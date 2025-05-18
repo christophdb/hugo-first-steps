@@ -16,11 +16,11 @@ Puede utilizar este tipo de página para mostrar **imágenes** y otros datos que
 
 Si desea cambiar la configuración de una página, haga clic en el **símbolo de rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} correspondiente en la barra de navegación.
 
-![Cambiar la configuración de la página de la galería](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Galerieseite-aendern.png)
+![Cambiar la configuración de la página de la galería](images/Einstellungen-der-Galerieseite-aendern.png)
 
 En la **configuración de la página**, puede seleccionar la **tabla**, la **columna de imágenes** y la **columna de título** desde las que se alimenta la galería.
 
-![Configuración de la página de la galería en las aplicaciones universales](https://seatable.io/wp-content/uploads/2023/12/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
+![Configuración de la página de la galería en las aplicaciones universales](images/Seiteneinstellungen-der-Galerieseite-in-Universellen-Apps.png)
 
 ## Filtros preestablecidos, clasificación y columnas ocultas
 

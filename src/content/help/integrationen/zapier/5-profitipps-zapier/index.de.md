@@ -14,21 +14,21 @@ Mithilfe von Zapier erstellen Sie in wenigen Minuten eine Schnittstelle zwischen
 
 SeaTable erlaubt es, Datensätze über zwei Tabellen hinweg miteinander zu verknüpfen. Weitere Details finden Sie in [diesem Hilfeartikel](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
 
-![Verlinkung in SeaTable](https://seatable.io/wp-content/uploads/2023/06/zapier-linked-columns.png)
+![Verlinkung in SeaTable](images/zapier-linked-columns.png)
 
 Nun gibt es eine Besonderheit: anstatt wie in SeaTable den gewünschten Wert (in diesem Fall Marion) anzuzeigen, liefert Zapier bei einer Link-Spalte immer die Zeilen-ID des verlinkten Eintrags. Wenn Sie wie hier dargestellt auf den Wert _Marion_ oder andere Spalten des verlinkten Eintrags zugreifen wollen, müssen Sie [Lookup-Spalten](https://seatable.io/docs/verknuepfungen/die-lookup-funktion/) anlegen, über die Sie dann auf die gewünschten Werte zugreifen können. In diesem Beispiel müsste man somit eine weitere Lookup-Spalte mit dem Namen anlegen.
 
-![linked columns in zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-linked-columns2.png)
+![linked columns in zapier](images/zapier-linked-columns2.png)
 
 ## 2\. Ausführen des Zaps, wenn ein Datum oder ein Zeitpunkt erreicht ist
 
 Diese Anforderung umzusetzen ist denkbar einfach, wenn man weiß, wie es geht. Sie machen sich an dieser Stelle zu Nutze, dass die SeaTable App in Zapier auf eine Ansicht eingeschränkt werden kann.
 
-![view based trigger in zapier](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger.png)
+![view based trigger in zapier](images/zapier-view-based-trigger.png)
 
 Legen Sie eine [neue Ansicht]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) an und definieren Sie einen Filter für eine Datumsspalte, der nur Einträge anzeigt, bei dem der Wert der Datumsspalte z.B. dem heutigen Datum oder einem ganz speziellen Datum entspricht. Wenn Sie den Filter entsprechend definieren, können Sie durch die Wahl des Datums in der entsprechenden Spalte genau festlegen, wann ein Eintrag in dieser Ansicht erscheint und somit den Zap auslöst.
 
-![Zeitgesteuerte Ausführung eines Zaps](https://seatable.io/wp-content/uploads/2023/06/zapier-view-based-trigger2.png)
+![Zeitgesteuerte Ausführung eines Zaps](images/zapier-view-based-trigger2.png)
 
 ## 3\. Nutzen Sie Formeln, um sich Formatierungen in Zapier zu vermeiden
 

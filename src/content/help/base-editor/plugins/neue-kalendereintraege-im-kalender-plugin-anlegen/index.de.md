@@ -28,7 +28,7 @@ Aber auch direkt **im Kalender-Plugin** ist es kinderleicht, neue Einträge vorz
 
 Machen Sie in der Tages-, Wochen- oder Monatsübersicht einen **Doppelklick** auf eine Stelle im Kalender und die **Zeilendetails** öffnen sich ebenfalls. Ansonsten legen Sie den Eintrag genauso an, wie in der obigen Anleitung beschrieben. {{< warning  type="warning" headline="Hinweis"  text="Der Doppelklick funktioniert nur bei den Darstellungsoptionen **Monat**, **Woche** und **Tag**." />}}
 
-![Kalendereintrag per Doppelklick oder Plus-Symbol anlegen](https://seatable.io/wp-content/uploads/2023/01/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
+![Kalendereintrag per Doppelklick oder Plus-Symbol anlegen](images/Kalendereintrag-per-Doppelklick-oder-Plus-Symbol-anlegen.png)
 
 ### Neue Einträge über das große Plus-Symbol anlegen
 

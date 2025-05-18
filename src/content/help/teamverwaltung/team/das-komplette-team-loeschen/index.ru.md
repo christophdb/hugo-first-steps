@@ -17,7 +17,7 @@ url: '/ru/help/das-komplette-team-loeschen'
 3. Прокрутите вниз и нажмите на пункт **Учетная запись команды и полностью удалите все данные**.
 4. Подтвердите удаление.
 
-![Удаление всей команды](https://seatable.io/wp-content/uploads/2022/10/delete-complete-team.png)
+![Удаление всей команды](images/delete-complete-team.png)
 
 ## Что происходит, когда вы удаляете свою команду?
 

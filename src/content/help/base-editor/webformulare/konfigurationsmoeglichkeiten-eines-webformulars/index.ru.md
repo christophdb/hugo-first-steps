@@ -47,7 +47,7 @@ url: '/ru/help/konfigurationsmoeglichkeiten-eines-webformulars'
 
 Вы можете украсить форму своим **логотипом**.
 
-![Изменение логотипа в веб-форме](https://seatable.io/wp-content/uploads/2023/01/webformular.png)
+![Изменение логотипа в веб-форме](images/webformular.png)
 
 У вас также есть возможность настроить верхнюю **цветовую полосу**. Для этого нажмите на **Цветовую схему** в правом верхнем углу рядом с Настройками.
 

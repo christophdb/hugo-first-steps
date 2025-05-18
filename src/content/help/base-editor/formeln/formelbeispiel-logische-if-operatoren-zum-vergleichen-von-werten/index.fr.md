@@ -19,11 +19,11 @@ Dans l'exemple concret, l'objectif est de saisir automatiquement, à l'aide d'un
 
 Pour cela, vous ajoutez d'abord une **colonne de formule** au tableau, dans l'éditeur de laquelle vous pouvez ensuite insérer la **formule**.
 
-![Ajout de la colonne de formules et saisie de la formule dans l'éditeur](https://seatable.io/wp-content/uploads/2023/01/Hinzufuegen-der-Formel-Spalte-und-Eingabe-der-Formel-im-Editor.png)
+![Ajout de la colonne de formules et saisie de la formule dans l'éditeur](images/Hinzufuegen-der-Formel-Spalte-und-Eingabe-der-Formel-im-Editor.png)
 
 Pour relever automatiquement la formule de politesse spécifique au sexe des clients dans la colonne de formule, ajoutez d'abord un **opérateur If** à la formule. Vous le trouverez dans l'éditeur de formules sous l'onglet **Fonctions logiques**. Les opérateurs If **vérifient** si l'entrée dans une colonne sélectionnée correspond aux conditions définies au préalable et renvoient une **valeur** correspondante en fonction du résultat positif ou négatif.
 
-![Ajout d'un opérateur If à la formule](https://seatable.io/wp-content/uploads/2023/01/add-if-operator.jpg)
+![Ajout d'un opérateur If à la formule](images/add-if-operator.jpg)
 
 Dans l'étape suivante, vous définissez les **conditions** qui doivent s'appliquer dans la colonne souhaitée pour que la colonne de formule soit automatiquement remplie avec les valeurs correspondantes.
 
@@ -31,7 +31,7 @@ Pour ce faire, vous devez d'abord vous référer à la **colonne** concrète dan
 
 {{< warning  headline="Conseil"  text="Les **noms de colonne** dans le tableau ouvert sont affichés à gauche dans l'**éditeur de formule** et peuvent être insérés dans la formule par un **double-clic**." />}}
 
-![Référence à la colonne dans laquelle les conditions définies doivent se produire](https://seatable.io/wp-content/uploads/2023/01/Verweis-auf-die-Spalte-in-der-die-definierten-Bedingungen-eintreten-muessen.png)
+![Référence à la colonne dans laquelle les conditions définies doivent se produire](images/Verweis-auf-die-Spalte-in-der-die-definierten-Bedingungen-eintreten-muessen.png)
 
 Juste après la colonne "sexe", placez d'abord l'**opérateur** souhaité. Si la colonne doit contenir une valeur exacte, utilisez par exemple l'opérateur **\=** (est égal à). Vous trouverez également les opérateurs à gauche dans l'éditeur de formules.
 

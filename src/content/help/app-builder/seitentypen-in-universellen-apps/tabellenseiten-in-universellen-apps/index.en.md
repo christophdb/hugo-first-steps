@@ -16,7 +16,7 @@ You can use this page type to [add](https://seatable.io/en/docs/universelle-apps
 
 If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **cogwheel symbol** in the navigation bar.
 
-![Open the page settings](https://seatable.io/wp-content/uploads/2023/05/page-permissions-universal-app.png)
+![Open the page settings](images/page-permissions-universal-app.png)
 
 When editing table pages, you can make numerous **page settings** to tailor the displayed data from the underlying table precisely to a user group.
 

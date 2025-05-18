@@ -17,7 +17,7 @@ url: '/ru/help/einfuehrung-in-die-arbeit-mit-gruppen'
 - Вы знаете, что будете работать с несколькими людьми над разными проектами.
 - Вы хотите, чтобы несколько человек могли видеть всю информацию и базы в вашей группе.
 
-![Работа с группами в SeaTable](https://seatable.io/wp-content/uploads/2022/10/arbeiten-mit-gruppen.png)
+![Работа с группами в SeaTable](images/arbeiten-mit-gruppen.png)
 
 Подробнее о том, как [создать группу](https://seatable.io/ru/docs/arbeiten-mit-gruppen/eine-neue-gruppe-anlegen/).
 

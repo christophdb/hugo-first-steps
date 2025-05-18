@@ -1,11 +1,11 @@
 ---
-title: "Externen Link für eine Ansicht erstellen"
+title: 'Externen Link für eine Ansicht erstellen'
 date: 2022-10-26
-lastmod: "2023-01-17"
-categories: 
-  - "freigaben"
-author: "nsc2"
-url: "/de/hilfe/externen-link-fuer-eine-ansicht-erstellen"
+lastmod: '2023-01-17'
+categories:
+    - 'freigaben'
+author: 'nsc2'
+url: '/de/hilfe/externen-link-fuer-eine-ansicht-erstellen'
 ---
 
 {{< required-version "Plus" "Enterprise" >}}
@@ -23,7 +23,7 @@ Alles, was Sie sonst noch über externe Links wissen sollten, erfahren Sie im Ar
 
 ## Externen Link für eine Ansicht erstellen
 
-![Externen Link für eine Ansicht erstellen in SeaTable](https://seatable.io/wp-content/uploads/2022/10/create-an-external-link-for-a-view-2.gif)
+![Externen Link für eine Ansicht erstellen in SeaTable](images/create-an-external-link-for-a-view-2.gif)
 
 1. Öffnen Sie die **Ansicht** einer Tabelle, die Sie freigeben möchten.
 2. Klicken Sie auf **Ansicht teilen** und anschließend auf **Externer Link**.

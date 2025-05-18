@@ -22,7 +22,7 @@ Alternativamente, pode simplesmente utilizar este link:
 3. Clique em **Facturas**.
 4. Pode agora visualizar todas as facturas disponíveis e também ordená-las por **estado de pagamento**, **montante** ou **número de factura**.
 
-![As suas facturas na gestão da equipa SeaTable.](https://seatable.io/wp-content/uploads/2023/01/seatable-rechnungen-teamverwaltung.png)
+![As suas facturas na gestão da equipa SeaTable.](images/seatable-rechnungen-teamverwaltung.png)
 
 ## Descarregar a factura como PDF
 

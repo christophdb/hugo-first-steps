@@ -12,7 +12,7 @@ Für eine bessere Übersicht über Ihre Bases haben Sie die Möglichkeit, sowohl
 
 ## Einen Ordner über die Startseite anlegen
 
-![Einen Ordner über die Startseite anlegen](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-starting-page.gif)
+![Einen Ordner über die Startseite anlegen](images/create-new-folder-via-starting-page.gif)
 
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Je nachdem, ob Sie unter **Meine Bases**, **Für mich freigegeben** oder in einer bestimmten **Gruppe** einen Ordner anlegen möchten, klicken Sie im entsprechenden Bereich auf **Eine Base oder Ordner hinzufügen.**
@@ -25,7 +25,7 @@ Für eine bessere Übersicht über Ihre Bases haben Sie die Möglichkeit, sowohl
 
 Neben dem im ersten Abschnitt beschriebenen Weg können Sie ebenso einen Ordner über die **Ordner-Übersicht** anlegen. Diese wird in einem neuen Fenster automatisch geöffnet, wenn Sie einen bestehenden Ordner auf der **Startseite** anklicken.
 
-![Einen Ordner in der Ordner-Übersicht anlegen](https://seatable.io/wp-content/uploads/2023/06/create-new-folder-via-folder-overview.gif)
+![Einen Ordner in der Ordner-Übersicht anlegen](images/create-new-folder-via-folder-overview.gif)
 
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Klicken Sie auf einen bereits bestehenden **Ordner**.
