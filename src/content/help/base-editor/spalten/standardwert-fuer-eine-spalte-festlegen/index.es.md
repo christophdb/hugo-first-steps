@@ -26,7 +26,7 @@ También puede definir un valor por defecto directamente al [crear una nueva col
 
 ## Para qué tipos de columnas puede definir valores por defecto
 
-Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de columnas en]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) SeaTable. Las columnas cuyo contenido es generado automáticamente por SeaTable[(fórmulas]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [archivo](https://seatable.io/es/docs/dateien-und-bilder/die-datei-spalte/) y [firma](https://seatable.io/es/docs/dateien-und-bilder/die-signatur-spalte/).
+Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de columnas en]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) SeaTable. Las columnas cuyo contenido es generado automáticamente por SeaTable[(fórmulas]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [archivo]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) y [firma](https://seatable.io/es/docs/dateien-und-bilder/die-signatur-spalte/).
 
 **A continuación encontrará un resumen de los tipos de columna para los que puede definir valores por defecto:**
 

@@ -90,7 +90,7 @@ Icône de la page : {{< seatable-icon icon="dtable-icon-file" >}} **Fichier**
 
 Le type de colonne Fichier stocke un nombre quelconque de fichiers **de tout type**. SeaTable propose une fonction d'aperçu pour de nombreux formats de fichiers image.
 
-[En savoir plus sur la colonne des fichiers](https://seatable.io/fr/docs/dateien-und-bilder/die-datei-spalte/)
+[En savoir plus sur la colonne des fichiers]({{< relref "help/base-editor/spalten/die-datei-spalte" >}})
 
 ### Courriel :
 

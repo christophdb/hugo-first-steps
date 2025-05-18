@@ -90,7 +90,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-file" >}} **Ficheiro**
 
 O tipo de coluna Arquivo armazena qualquer número de arquivos de **qualquer tipo de arquivo**. O SeaTable oferece uma função de pré-visualização para numerosos formatos de ficheiros de imagem.
 
-[Mais informações sobre a coluna do ficheiro](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/)
+[Mais informações sobre a coluna do ficheiro]({{< relref "help/base-editor/spalten/die-datei-spalte" >}})
 
 ### Correio electrónico
 

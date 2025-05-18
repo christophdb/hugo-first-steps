@@ -90,7 +90,7 @@ url: '/ru/help/uebersicht-alle-spaltentypen'
 
 В столбце типа "Файл" хранится любое количество файлов **любого типа**. SeaTable предлагает функцию предварительного просмотра для многочисленных форматов файлов изображений.
 
-[Подробнее о колонке файлов](https://seatable.io/ru/docs/dateien-und-bilder/die-datei-spalte/)
+[Подробнее о колонке файлов]({{< relref "help/base-editor/spalten/die-datei-spalte" >}})
 
 ### Электронная почта
 

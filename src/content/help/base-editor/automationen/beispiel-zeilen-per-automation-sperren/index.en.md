@@ -74,11 +74,11 @@ For more information on blocking rows , see the article [Blocking a row.]({{< re
 - [Why can't I find automations in my base?](https://seatable.io/en/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
 - [Automation trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Automation actions](https://seatable.io/en/docs/arbeiten-mit-automationen/automations-aktionen/)
-- [Linking entries via automation](https://seatable.io/en/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Linking entries via automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 
 ### Other interesting examples of automations:
 
-- [Linking entries via automation](https://seatable.io/en/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Linking entries via automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [rows Add via automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Add entries to other tables via automation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
 - [Send notifications via automation]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})

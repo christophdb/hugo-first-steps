@@ -26,7 +26,7 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 
 ## Для каких типов столбцов можно задать значения по умолчанию
 
-Значения по умолчанию могут быть определены для многих, но не для всех [типов столбцов SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Колонки, содержимое которых автоматически генерируется SeaTable[(формулы]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [файлами](https://seatable.io/ru/docs/dateien-und-bilder/die-datei-spalte/) и [подписями](https://seatable.io/ru/docs/dateien-und-bilder/die-signatur-spalte/).
+Значения по умолчанию могут быть определены для многих, но не для всех [типов столбцов SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Колонки, содержимое которых автоматически генерируется SeaTable[(формулы]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [файлами]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) и [подписями](https://seatable.io/ru/docs/dateien-und-bilder/die-signatur-spalte/).
 
 **Ниже приведен обзор типов столбцов, для которых можно задать значения по умолчанию:**
 

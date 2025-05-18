@@ -37,3 +37,5 @@ The automated action **Send email** is available after all trigger events:"
 - Periodic trigger for entries that meet certain conditions
 
 {{< /warning >}}
+
+TODO: hier fehlt content!

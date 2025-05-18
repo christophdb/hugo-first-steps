@@ -26,7 +26,7 @@ Também é possível definir um valor por defeito diretamente ao [criar uma nova
 
 ## Para que tipos de colunas é possível definir valores por defeito
 
-Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tipos de colunas no SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). As colunas cujo conteúdo é gerado automaticamente pelo SeaTable[(fórmulas]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/) e [assinaturas](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/).
+Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tipos de colunas no SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). As colunas cujo conteúdo é gerado automaticamente pelo SeaTable[(fórmulas]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [ficheiros]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) e [assinaturas](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/).
 
 **Segue-se uma síntese dos tipos de colunas para os quais é possível definir valores propostos:**
 

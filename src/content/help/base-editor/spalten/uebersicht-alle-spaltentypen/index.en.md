@@ -90,7 +90,7 @@ Icon: {{< seatable-icon icon="dtable-icon-file" >}} **File**
 
 The File column type stores any number of files of **any file type**. For numerous image file formats SeaTable offers a preview function.
 
-[More about the file column](https://seatable.io/en/docs/dateien-und-bilder/die-datei-spalte/)
+[More about the file column]({{< relref "help/base-editor/spalten/die-datei-spalte" >}})
 
 ### E-mail
 

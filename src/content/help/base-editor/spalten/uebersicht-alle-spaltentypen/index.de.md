@@ -90,7 +90,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-file" >}} **Datei**
 
 Der Spaltentyp Datei speichert eine beliebige Anzahl an Dateien **jedes Dateityps**. Für zahlreiche Bilddateiformate bietet SeaTable eine Vorschaufunktion.
 
-[Mehr zur Datei-Spalte](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/)
+[Mehr zur Datei-Spalte]({{< relref "help/base-editor/spalten/die-datei-spalte" >}})
 
 ### E-Mail
 

@@ -74,7 +74,7 @@ url: '/ru/help/uebersicht-ueber-automationen'
 
 С помощью автоматизаций вам больше не придется блокировать строки в таблицах вручную, а можно сделать так, чтобы блокировка выполнялась автоматически. Это очень полезно, если вы всегда хотите предотвратить дальнейшее редактирование строки после определенного момента времени (например, когда процесс завершен).
 
-Узнайте [здесь](https://seatable.io/ru/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/), как блокировать ряды с помощью автоматизации.
+Узнайте [здесь]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}), как блокировать ряды с помощью автоматизации.
 
 ## Добавление линий с помощью автоматизации
 
@@ -98,4 +98,4 @@ url: '/ru/help/uebersicht-ueber-automationen'
 
 С помощью автоматизаций вам больше не придется связывать записи в таблицах вручную, эти действия могут выполняться автоматически. Это полезно, если вам нужны определенные данные в нескольких таблицах.
 
-Узнайте [здесь](https://seatable.io/ru/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/), как связать записи с помощью автоматизации.
+Узнайте [здесь]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}), как связать записи с помощью автоматизации.

@@ -42,13 +42,13 @@ Wählen Sie anschließend als automatisierte Aktion **E-Mail versenden** aus.
 
 ![Hinzufügen der automatisierten Aktion](images/add-an-action.png) ![Hinzufügen der automatisierten Aktion](images/example-send-email-action.png)
 
-Im nächsten Schritt wählen Sie zunächst ein **E-Mail-Konto** aus, von welchem Sie die E-Mails versenden möchten. Um Ihr E-Mail-Konto für den Versand nutzen zu können, **müssen** Sie dieses zunächst als Drittanbieter in Ihrer SeaTable Base **hinzufügen**. Eine detaillierte Anleitung zu diesem Schritt finden Sie [hier](https://seatable.io/docs/drittanbieter-e-mail/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/).
+Im nächsten Schritt wählen Sie zunächst ein **E-Mail-Konto** aus, von welchem Sie die E-Mails versenden möchten. Um Ihr E-Mail-Konto für den Versand nutzen zu können, **müssen** Sie dieses zunächst als Drittanbieter in Ihrer SeaTable Base **hinzufügen**. Eine detaillierte Anleitung zu diesem Schritt finden Sie [hier]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}}).
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Falls Sie **kein** E-Mail-Konto als Drittanbieter in Ihrer SeaTable Base hinzugefügt haben, werden Ihnen auch **keine** Konten angezeigt. Das Hinzufügen eines E-Mail-Kontos stellt somit eine wichtige **Voraussetzung** für die Automation dar." />}}
 
 ![Auswahl eines E-Mail-Kontos für den Versand](images/select-email-account.png)
 
-Nach der Auswahl des E-Mail-Kontos legen Sie den **Betreff**, **Empfänger** und **Inhalt** der E-Mail fest. Sie können **mehrere E-Mail-Adressen** per Komma getrennt und in CC eintragen. Anschließend haben Sie zudem die Möglichkeit, **Anhänge** aus einer [Dateispalte](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/) einzufügen.
+Nach der Auswahl des E-Mail-Kontos legen Sie den **Betreff**, **Empfänger** und **Inhalt** der E-Mail fest. Sie können **mehrere E-Mail-Adressen** per Komma getrennt und in CC eintragen. Anschließend haben Sie zudem die Möglichkeit, **Anhänge** aus einer [Dateispalte]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) einzufügen.
 
 ![Definition der per Automation zu versendenen E-Mail](images/define-email.png)
 
@@ -80,13 +80,13 @@ Als **automatisierte Aktion** definieren Sie die Aktion **E-Mail versenden**.
 
 ![Hinzufügen der automatisierten Aktion](images/example-send-email-action.png)
 
-Im nächsten Schritt wählen Sie ein **E-Mail-Konto** aus, von welchem Sie die E-Mails an die Personalabteilung senden wollen. Um Ihr E-Mail-Konto für den Versand nutzen zu können, **müssen** Sie dieses zunächst als Drittanbieter in Ihrer SeaTable Base **hinzufügen**. Eine detaillierte Anleitung zu diesem Schritt finden Sie [hier](https://seatable.io/docs/drittanbieter-e-mail/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/).
+Im nächsten Schritt wählen Sie ein **E-Mail-Konto** aus, von welchem Sie die E-Mails an die Personalabteilung senden wollen. Um Ihr E-Mail-Konto für den Versand nutzen zu können, **müssen** Sie dieses zunächst als Drittanbieter in Ihrer SeaTable Base **hinzufügen**. Eine detaillierte Anleitung zu diesem Schritt finden Sie [hier]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}}).
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Falls Sie **kein** E-Mail-Konto als Drittanbieter in Ihrer SeaTable Base hinzugefügt haben, werden Ihnen in diesem Schritt auch **keine** Konten angezeigt. Das Hinzufügen eines E-Mail-Kontos stellt somit eine wichtige **Voraussetzung** für die Automation dar." />}}
 
 ![Auswahl eines E-Mail-Kontos für den Versand](images/select-email-account-1.png)
 
-Nach der Auswahl Ihres E-Mail-Kontos legen Sie den **Betreff**, **Empfänger** und **Inhalt** der E-Mails fest. Sie können **mehrere E-Mail-Adressen** per Komma getrennt und in CC eintragen. Abschließend haben Sie zudem die Möglichkeit, **Anhänge** aus einer [Dateispalte](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/) einzufügen.
+Nach der Auswahl Ihres E-Mail-Kontos legen Sie den **Betreff**, **Empfänger** und **Inhalt** der E-Mails fest. Sie können **mehrere E-Mail-Adressen** per Komma getrennt und in CC eintragen. Abschließend haben Sie zudem die Möglichkeit, **Anhänge** aus einer [Dateispalte]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) einzufügen.
 
 {{< warning  headline="Tipp"  text="Mithilfe von geschweiften Klammern können Sie **Inhalte aus Tabellenspalten** im Text der E-Mail zitieren. Nutzen Sie diese Funktion, um automatisch die **Namen** der gekündigten Mitarbeiter in den Text einzusetzen." />}}
 
@@ -102,8 +102,8 @@ Wenn Sie im Anschluss in der ausgewählten Tabelle den Beschäftigungsstatus ein
 
 ### Weitere interessante Beispiele für Automationen:
 
-- [Zeilen per Automation sperren](https://seatable.io/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/)
-- [Verlinken von Einträgen per Automation](https://seatable.io/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Zeilen per Automation sperren]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}})
+- [Verlinken von Einträgen per Automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [Zeilen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Einträge in andere Tabellen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
 - [Benachrichtigungen per Automation versenden]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})

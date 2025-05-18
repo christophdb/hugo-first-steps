@@ -74,7 +74,7 @@ Learn more about automation actions [here](https://seatable.io/en/docs/arbeiten-
 
 With the help of automations, you no longer have to manually lock rows in your tables, but can have this lock executed automatically. This is very useful if you always want to prevent a row from being edited further after a certain point in time (e.g. when a process has been completed).
 
-Learn how to lock rows with automation [here](https://seatable.io/en/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/).
+Learn how to lock rows with automation [here]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ## rows Add via automation
 
@@ -98,4 +98,4 @@ Learn how to send emails via automation [here]({{< relref "help/base-editor/auto
 
 With the help of automations, you no longer have to link entries in your tables manually, but can have these steps performed automatically. This is useful when you need certain data across multiple tables.
 
-Learn how to link entries via automation [here](https://seatable.io/en/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/).
+Learn how to link entries via automation [here]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}).

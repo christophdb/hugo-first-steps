@@ -74,7 +74,7 @@ Erfahren Sie [hier](https://seatable.io/docs/arbeiten-mit-automationen/automatio
 
 Mithilfe von Automationen müssen Sie Zeilen in Ihren Tabellen nicht mehr manuell sperren, sondern können diese Sperrung automatisch ausführen lassen. Das ist sehr nützlich, wenn Sie immer ab einem bestimmten Zeitpunkt (z. B. wenn ein Vorgang abgeschlossen ist) verhindern wollen, dass eine Zeile weiter bearbeitet werden kann.
 
-Erfahren Sie [hier](https://seatable.io/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/), wie Sie Zeilen mit einer Automation sperren.
+Erfahren Sie [hier]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}), wie Sie Zeilen mit einer Automation sperren.
 
 ## Zeilen per Automation hinzufügen
 
@@ -98,4 +98,4 @@ Erfahren Sie [hier]({{< relref "help/base-editor/automationen/beispiel-e-mail-ve
 
 Mithilfe von Automationen müssen Sie Einträge in Ihren Tabellen nicht mehr manuell miteinander verknüpfen, sondern können diese Schritte automatisch ausführen lassen. Dies ist sinnvoll, wenn Sie bestimmte Daten über mehrere Tabellen hinweg benötigen.
 
-Erfahren Sie [hier](https://seatable.io/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/), wie Sie Einträge per Automation verlinken.
+Erfahren Sie [hier]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}), wie Sie Einträge per Automation verlinken.

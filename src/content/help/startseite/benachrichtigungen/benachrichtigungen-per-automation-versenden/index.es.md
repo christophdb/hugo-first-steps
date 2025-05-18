@@ -99,8 +99,8 @@ Los empleados del departamento de RRHH reciben la información de que se ha soli
 
 ### Otros ejemplos interesantes de automatización:
 
-- [Bloquear líneas mediante automatización](https://seatable.io/es/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/)
-- [Vinculación de entradas mediante automatización](https://seatable.io/es/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Bloquear líneas mediante automatización]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}})
+- [Vinculación de entradas mediante automatización]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [Añadir líneas mediante automatización]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Añadir entradas a otras tablas mediante automatización]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
 - [Envío automatizado de correos electrónicos]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

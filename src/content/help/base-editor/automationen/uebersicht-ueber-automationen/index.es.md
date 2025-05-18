@@ -74,7 +74,7 @@ Obtenga más información sobre las acciones de automatización [aquí](https://
 
 Con la ayuda de las automatizaciones, ya no tendrá que bloquear manualmente las filas de sus tablas, sino que podrá hacer que este bloqueo se realice automáticamente. Esto es muy útil si siempre quiere evitar que una fila se siga editando después de un determinado momento (por ejemplo, cuando se ha completado un proceso).
 
-Aprenda [aquí](https://seatable.io/es/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/) cómo bloquear filas con una automatización.
+Aprenda [aquí]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) cómo bloquear filas con una automatización.
 
 ## Añadir líneas mediante automatización
 
@@ -98,4 +98,4 @@ Descubra [aquí]({{< relref "help/base-editor/automationen/beispiel-e-mail-versa
 
 Con la ayuda de las automatizaciones, ya no tendrá que vincular manualmente las entradas de sus tablas, sino que podrá hacer que estos pasos se realicen automáticamente. Esto es útil si necesita determinados datos en varias tablas.
 
-Aprenda [aquí](https://seatable.io/es/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/) cómo vincular entradas mediante automatización.
+Aprenda [aquí]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) cómo vincular entradas mediante automatización.

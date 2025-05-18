@@ -62,5 +62,5 @@ Tómese unos minutos para familiarizarse con la gestión de archivos de SeaTable
 
 - [Instrucciones para el plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 - [Guardar un documento PDF por botón en una columna](https://seatable.io/es/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/)
-- [La columna de archivos](https://seatable.io/es/docs/dateien-und-bilder/die-datei-spalte/)
+- [La columna de archivos]({{< relref "help/base-editor/spalten/die-datei-spalte" >}})
 - [La gestión de archivos de una base](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/)

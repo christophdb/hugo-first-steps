@@ -74,7 +74,7 @@ Apprenez-en plus sur les actions d'automatisation [ici](https://seatable.io/fr/d
 
 Grâce aux automatisations, vous ne devez plus bloquer manuellement des lignes dans vos tableaux, mais vous pouvez faire en sorte que ce blocage s'effectue automatiquement. C'est très utile si vous voulez toujours empêcher qu'une ligne puisse être traitée à partir d'un certain moment (par exemple lorsqu'une opération est terminée).
 
-Apprenez [ici](https://seatable.io/fr/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/) comment bloquer des lignes avec une automatisation.
+Apprenez [ici]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}) comment bloquer des lignes avec une automatisation.
 
 ## Ajouter des lignes par automatisation
 
@@ -98,4 +98,4 @@ Découvrez [ici]({{< relref "help/base-editor/automationen/beispiel-e-mail-versa
 
 Grâce à l'automatisation, vous ne devez plus relier manuellement les entrées de vos tableaux entre elles, mais vous pouvez faire en sorte que ces étapes soient effectuées automatiquement. Cela s'avère utile lorsque vous avez besoin de certaines données dans plusieurs tableaux.
 
-Apprenez [ici](https://seatable.io/fr/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/) comment lier des entrées par automatisation.
+Apprenez [ici]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}}) comment lier des entrées par automatisation.

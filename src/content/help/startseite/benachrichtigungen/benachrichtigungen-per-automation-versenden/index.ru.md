@@ -99,8 +99,8 @@ url: '/ru/help/benachrichtigungen-per-automation-versenden'
 
 ### Другие интересные примеры автоматизации:
 
-- [Блокировка линий с помощью автоматики](https://seatable.io/ru/docs/beispiele-fuer-automationen/zeilen-per-automation-sperren/)
-- [Связывание записей с помощью автоматизации](https://seatable.io/ru/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Блокировка линий с помощью автоматики]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}})
+- [Связывание записей с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [Добавление линий с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Добавление записей в другие таблицы с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
 - [Отправка по электронной почте с помощью автоматики]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

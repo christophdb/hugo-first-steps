@@ -74,11 +74,11 @@ url: '/ru/help/zeilen-per-automation-sperren'
 - [Почему я не могу найти автоматизацию в своей базе?](https://seatable.io/ru/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
 - [Триггер автоматизации]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Действия по автоматизации](https://seatable.io/ru/docs/arbeiten-mit-automationen/automations-aktionen/)
-- [Связывание записей с помощью автоматизации](https://seatable.io/ru/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Связывание записей с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 
 ### Другие интересные примеры автоматизации:
 
-- [Связывание записей с помощью автоматизации](https://seatable.io/ru/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Связывание записей с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [Добавление линий с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Добавление записей в другие таблицы с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
 - [Отправка уведомлений с помощью автоматизации]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})

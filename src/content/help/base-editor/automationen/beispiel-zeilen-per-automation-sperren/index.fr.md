@@ -74,11 +74,11 @@ Vous trouverez plus d'informations sur le verrouillage des lignes dans l'article
 - [Pourquoi ne puis-je pas trouver d'automatisations dans ma base ?](https://seatable.io/fr/docs/arbeiten-mit-automationen/warum-finde-ich-in-meiner-base-die-automationen-nicht/)
 - [Déclencheur d'automatisation]({{< relref "help/base-editor/automationen/automations-trigger" >}})
 - [Actions d'automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/automations-aktionen/)
-- [Liens vers des entrées par automatisation](https://seatable.io/fr/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Liens vers des entrées par automatisation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 
 ### Autres exemples intéressants d'automatisation :
 
-- [Liens vers des entrées par automatisation](https://seatable.io/fr/docs/beispiele-fuer-automationen/verlinken-von-eintraegen-per-automation/)
+- [Liens vers des entrées par automatisation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [Ajouter des lignes par automatisation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Ajouter des entrées dans d'autres tableaux par automatisation]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
 - [Envoyer des notifications par automatisation]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
