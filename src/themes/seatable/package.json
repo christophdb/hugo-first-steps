@@ -8,7 +8,7 @@
         "watch": "tailwindcss build -i assets/css/styles.css -o assets/css/styles.output.css --watch",
         "docker:hugo": "hugo server --source /hugo/src -D -E --bind=0.0.0.0",
         "pagefind:watch": "npx -y pagefind --site /hugo/src/public",
-        "docker:watch": "concurrently \"npm run watch\" \"npm run docker:hugo\" \"npm run pagefind:watch\" "
+        "docker:watch": "./docker-watch.sh"
     },
     "keywords": [],
     "author": "Christoph Dyllick-Brenzinger",

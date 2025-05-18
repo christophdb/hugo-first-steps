@@ -67,4 +67,5 @@ COPY entrypoint.sh /usr/local/bin/entrypoint.sh
 ENTRYPOINT ["entrypoint.sh"]
 
 # This starts hugo and tailwind in watch mode
-CMD ["npm", "--prefix", "/hugo/src/themes/seatable", "run", "docker:watch"]
+#CMD ["npm", "--prefix", "/hugo/src/themes/seatable", "run", "docker:watch"]
+CMD ["sh", "-c", "ENABLE_PAGEFIND=${ENABLE_PAGEFIND:-0} npm --prefix /hugo/src/themes/seatable run docker:watch"]
