@@ -24,7 +24,7 @@ SeaTable предлагает несколько способов создани
 
 - [Создание базы с помощью шаблона](https://seatable.io/ru/docs/bases-verwalten/anlegen-einer-base-mithilfe-einer-vorlage/)
 - [Создайте новую базу](https://seatable.io/ru/docs/bases-verwalten/eine-neue-base-erstellen/)
-- [Импорт файлов Excel в SeaTable](https://seatable.io/ru/docs/import-von-daten/import-von-excel-dateien-in-seatable/)
+- [Импорт файлов Excel в SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 - [Дублирование существующей базы](https://seatable.io/ru/docs/bases-verwalten/duplizieren-einer-bestehenden-base/)
 
 ## Управление базами

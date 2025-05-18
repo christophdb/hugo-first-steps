@@ -12,7 +12,7 @@ Dans SeaTable, vous organisez vos données dans des [bases]({{< relref "help/sta
 
 Vous pouvez également [partager]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) avec d'autres membres de l'équipe ou [inviter](https://seatable.io/fr/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) des tiers externes à y travailler ensemble.
 
-SeaTable gère un [historique](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/) en arrière-plan pour chaque base, ce qui vous permet d'annuler les modifications et de rétablir les états précédents si nécessaire.
+SeaTable gère un [historique]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) en arrière-plan pour chaque base, ce qui vous permet d'annuler les modifications et de rétablir les états précédents si nécessaire.
 
 ## La page d'accueil
 

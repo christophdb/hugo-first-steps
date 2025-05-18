@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 ---
 
-С помощью [автоматизации](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/) вам больше не придется записывать время изменения статуса **вручную**, а можно поручить SeaTable делать это **автоматически**.
+С помощью [автоматизации]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) вам больше не придется записывать время изменения статуса **вручную**, а можно поручить SeaTable делать это **автоматически**.
 
 ## Запись времени изменения состояния с помощью автоматизации
 

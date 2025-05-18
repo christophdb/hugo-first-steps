@@ -12,7 +12,11 @@ url: '/es/ayuda/so-erstellen-sie-ein-big-data-ansicht'
 
 Las líneas que se almacenan en la memoria de big **data** no son inmediatamente visibles para todos los usuarios. Se necesita una **vista** especial para acceder a los datos de la memoria de big data. Pero no te preocupes: crear una vista de big data es tan fácil como crear una vista normal.
 
-{{< warning  headline="Requisito previo"  text="Sólo puede crear una vista de big data si [ya ha activado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) en la base." />}}
+{{< warning  headline="Requisito previo" >}}
+
+Sólo puede crear una vista de big data si [ya ha activado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) en la base.
+
+{{< /warning >}}
 
 ## Añadir una vista de big data
 

@@ -12,7 +12,7 @@ You don't know why data is missing from a base and suspect that it has been lost
 
 First check if a [filter]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}). These data are **not deleted**, but **only hidden**.
 
-If this is not the case, next look at the [activity log](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) on your home page. There you can see changed and deleted data of the last 7 days across all your bases.
+If this is not the case, next look at the [activity log]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) on your home page. There you can see changed and deleted data of the last 7 days across all your bases.
 
 If you or your team members have accidentally deleted certain items in SeaTable, you can restore them in several ways.
 

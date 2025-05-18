@@ -17,7 +17,7 @@ Of course, you can delete an account (team or team member) at any time and then 
 1. [Export all bases](https://seatable.io/en/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) that you want to transfer to the new team.
 2. [Delete the team member](https://seatable.io/en/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) or [the entire team](https://seatable.io/en/docs/teamverwaltung/das-komplette-team-loeschen/) via the team administration.
 3. Create a [new team member](https://seatable.io/en/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/) in the other team.
-4. [Import](https://seatable.io/en/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/) your previously exported bases.
+4. [Import]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) your previously exported bases.
 
 ## Deactivate is not enough
 

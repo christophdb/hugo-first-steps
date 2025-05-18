@@ -17,7 +17,7 @@ Por supuesto, puede eliminar una cuenta (equipo o miembro del equipo) en cualqui
 1. [Exporta todas las bases](https://seatable.io/es/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) que quieras transferir al nuevo equipo.
 2. [Elimina al miembro del equipo](https://seatable.io/es/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) o a [todo el equipo](https://seatable.io/es/docs/teamverwaltung/das-komplette-team-loeschen/) a través de la administración del equipo.
 3. Crea un [nuevo miembro](https://seatable.io/es/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/) en el otro equipo.
-4. [Importe](https://seatable.io/es/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/) sus bases previamente exportadas.
+4. [Importe]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) sus bases previamente exportadas.
 
 ## Desactivar no es suficiente
 

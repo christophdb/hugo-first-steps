@@ -12,11 +12,15 @@ url: '/de/hilfe/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 Standardmäßig erlaubt SeaTable die Speicherung von **bis zu 100.000 Zeilen** in einer Base. Wenn Sie noch größere Datensätze in SeaTable importieren möchten, können Sie den **Big-Data-Speicher** nutzen. Hier erfahren Sie, wie Sie eine **XLSX-Datei** in den Big-Data-Speicher importieren.
 
-{{< warning  headline="Voraussetzung"  text="Es ist eine spezielle **Big-Data-Ansicht** erforderlich, um mehr als 100.000 Zeilen in SeaTable zu importieren. Sie können diese nur erstellen, wenn Sie innerhalb der Base den [Big-Data-Speicher bereits aktiviert haben]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}})." />}}
+{{< warning  headline="Voraussetzung" >}}
+
+Es ist eine spezielle **Big-Data-Ansicht** erforderlich, um mehr als 100.000 Zeilen in SeaTable zu importieren. Sie können diese nur erstellen, wenn Sie innerhalb der Base den [Big-Data-Speicher bereits aktiviert haben]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}).
+
+{{< /warning >}}
 
 ## Vorbereitungen für den Import
 
-- In [Big-Data-Ansichten](https://seatable.io/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) lassen sich **keine neuen Spalten** anlegen. Bauen Sie daher vorab in einer [normalen Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
+- In [Big-Data-Ansichten]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) lassen sich **keine neuen Spalten** anlegen. Bauen Sie daher vorab in einer [normalen Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
   ) die gewünschte **Tabellenstruktur**.
 - Legen Sie dabei [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
   ) fest, die mit den Daten in der Excel-Tabelle **kompatibel** sind.
@@ -26,7 +30,7 @@ Standardmäßig erlaubt SeaTable die Speicherung von **bis zu 100.000 Zeilen** i
 
 ![Excel Tabelle in Big Data Ansicht importieren](images/Excel-Tabelle-in-Big-Data-Ansicht-importieren.gif)
 
-1. [Erstellen Sie eine Big-Data-Ansicht](https://seatable.io/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) oder wechseln Sie in eine bestehende Big-Data-Ansicht.
+1. [Erstellen Sie eine Big-Data-Ansicht]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) oder wechseln Sie in eine bestehende Big-Data-Ansicht.
 2. Klicken Sie auf die **drei Punkte** in den Ansichtsoptionen.
 3. Wählen Sie die Option **Von XLSX-Datei in Big-Data-Speicher importieren**.
 4. Suchen Sie in der sich öffnenden Datei-Übersicht die gewünschte **XLSX-Datei auf Ihrem Gerät**.

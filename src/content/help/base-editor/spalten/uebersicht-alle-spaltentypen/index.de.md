@@ -190,7 +190,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-creator" >}} **Ersteller**
 
 SeaTable dokumentiert in der Ersteller-Spalte automatisch den **Namen des Benutzers**, der die Zeile erstellt hat.
 
-[Mehr zur Ersteller-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[Mehr zur Ersteller-Spalte]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Erstelldatum
 
@@ -198,7 +198,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Erstelldatum**
 
 SeaTable dokumentiert in der Erstelldatum-Spalte automatisch das **Datum und die Uhrzeit der Erstellung der Zeile**. Datum und Uhrzeit werden im Format JJJJ-MM-TT HH:MM angezeigt.
 
-[Mehr zur Spalte Erstelldatum](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[Mehr zur Spalte Erstelldatum]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Letzter Bearbeiter
 
@@ -214,7 +214,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Bearbeitungsdat
 
 SeaTable dokumentiert in der Spalte Bearbeitungsdatum das **Datum und die Uhrzeit der letzten Änderung eines Eintrags**. Datum und Uhrzeit werden im Format JJJJ-MM-TT HH:MM angezeigt. Da die Spalte automatisch Änderungen an Einträgen erfasst, eignet sie sich gut als Trigger für Automationen sowie für Filter und Sortierungen.
 
-[Mehr zur Spalte Bearbeitungsdatum](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)
+[Mehr zur Spalte Bearbeitungsdatum]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Automatische Nummer
 

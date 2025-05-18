@@ -10,7 +10,7 @@ url: '/de/hilfe/anleitung-zum-sql-abfrage-plugin'
 
 Das SQL-Abfrage-Plugin eignet sich perfekt für die direkte **Ausführung von SQL-Befehlen** und ist daher primär für Nutzer interessant, die bereits Erfahrung mit Datenbanken besitzen.
 
-Ein großer Vorteil des Plugins besteht darin, dass es im Zuge der Datenbankabfrage sowohl auf das normale Backend als auch auf das [Big Data Backend](https://seatable.io/docs/big-data/potenzial-big-data/) zugreift.
+Ein großer Vorteil des Plugins besteht darin, dass es im Zuge der Datenbankabfrage sowohl auf das normale Backend als auch auf das [Big Data Backend]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) zugreift.
 
 {{< warning  headline="Besonders hilfreich bei großen Datenmengen"  text="Der direkte Zugriff auf die SeaTable Daten per SQL-Befehl macht bei kleinen Datenmengen wenig Sinn. Die Möglichkeiten, eine Ansicht anzulegen und entsprechende Filter, Sortierungen und Gruppierungen zu setzen, wird die meisten Anwender schneller ans Ziel bringen. Die SQL-Abfrage ist besonders für große Datenmengen relevant und Sie sollten sich bereits mit der SQL-Syntax auskennen." />}}
 
@@ -40,7 +40,7 @@ Mithilfe der Funktion **Exportieren in eine neue Tabelle** können Sie die gefun
 
 \[code\]DELETE FROM Time\[/code\]
 
-Nach der Eingabe des Befehls werden **alle** Einträge aus der Tabelle **Time** gelöscht. Über das [Base-Log](https://seatable.io/docs/historie-und-versionen/historie-und-logs/#base-log) können Sie die Zeilen aber wiederherstellen.
+Nach der Eingabe des Befehls werden **alle** Einträge aus der Tabelle **Time** gelöscht. Über das [Base-Log]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}#base-log) können Sie die Zeilen aber wiederherstellen.
 
 ![Eingabe des SQL-Befehls DELETE zum Löschen von Tabellendaten](images/query-delete-from-table.png)
 

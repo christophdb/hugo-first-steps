@@ -92,11 +92,11 @@ SeaTable versucht anhand der Werte in den ersten Zeilen den Spaltentyp automatis
 
 ## Eine XLSX-Datei in den Big-Data-Speicher importieren
 
-Standardmäßig erlaubt SeaTable die Speicherung von **bis zu 100.000 Zeilen**, wobei die Importfunktion maximal 50.000 Zeilen in einer Excel-Tabelle unterstützt. Wenn Sie noch größere Datensätze in SeaTable importieren möchten, können Sie den **Big-Data-Speicher** nutzen. [Hier](https://seatable.io/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/) erfahren Sie, wie Sie eine **XLSX-Datei in den Big-Data-Speicher importieren**.
+Standardmäßig erlaubt SeaTable die Speicherung von **bis zu 100.000 Zeilen**, wobei die Importfunktion maximal 50.000 Zeilen in einer Excel-Tabelle unterstützt. Wenn Sie noch größere Datensätze in SeaTable importieren möchten, können Sie den **Big-Data-Speicher** nutzen. [Hier]({{< relref "help/base-editor/big-data/eine-excel-tabelle-ins-big-data-backend-importieren" >}}) erfahren Sie, wie Sie eine **XLSX-Datei in den Big-Data-Speicher importieren**.
 
 ## Weitere hilfreiche Artikel zum Import von Daten
 
 Beim Import von Daten können Sie – je nachdem, in welcher Form die Ausgangsdatei vorliegt – auf Schwierigkeiten stoßen. Sollte etwas nicht funktionieren, helfen Ihnen vielleicht die folgenden Artikel weiter:
 
-- [Tipps und Tricks beim Excel-Import](https://seatable.io/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limitationen beim Excel-Import](https://seatable.io/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Tipps und Tricks beim Excel-Import]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limitationen beim Excel-Import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

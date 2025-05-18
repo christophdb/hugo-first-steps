@@ -110,5 +110,5 @@ Esta mensagem de erro aparece quando a importação do ficheiro falha devido a p
 
 ## Outros artigos úteis sobre a importação de ficheiros CSV para o SeaTable
 
-- [Dicas e truques para a importação de ficheiros CSV](https://seatable.io/pt/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limitações da importação do CSV](https://seatable.io/pt/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Dicas e truques para a importação de ficheiros CSV]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limitações da importação do CSV]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

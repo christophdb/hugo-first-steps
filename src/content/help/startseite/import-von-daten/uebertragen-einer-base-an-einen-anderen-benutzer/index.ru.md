@@ -33,5 +33,5 @@ url: '/ru/help/uebertragen-einer-base-an-einen-anderen-benutzer'
 
 Существует только один способ передачи базы на другой сервер SeaTable. **Экспортируйте** базу в **файл DTABLE** и отправьте его получателю. Получатель может затем импортировать файл в свою систему SeaTable и продолжить работу с вашей базой.
 
-- [Экспорт базы в файл DTABLE](https://seatable.io/ru/docs/import-von-daten/speichern-einer-base-als-dtable-datei/)
-- [Создание базы из файла DTABLE](https://seatable.io/ru/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Экспорт базы в файл DTABLE]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
+- [Создание базы из файла DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

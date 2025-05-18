@@ -1,11 +1,11 @@
 ---
-title: "¿Qué formatos de importación admite SeaTable? - Mesa de mar"
+title: '¿Qué formatos de importación admite SeaTable? - Mesa de mar'
 date: 2022-10-15
-lastmod: "2022-12-29"
-categories: 
-  - "import-von-daten"
-author: "nsc2"
-url: "/es/ayuda/welche-import-formate-unterstuetzt-seatable"
+lastmod: '2022-12-29'
+categories:
+    - 'import-von-daten'
+author: 'nsc2'
+url: '/es/ayuda/welche-import-formate-unterstuetzt-seatable'
 ---
 
 SeaTable le ofrece una amplia gama de opciones para la recogida de datos: puede introducir los datos manualmente en las tablas y hacer que los datos se recojan a través de [un formulario web](https://seatable.io/es/docs/seatable-nutzen/webformulare/) o utilizando automatizaciones.
@@ -16,13 +16,13 @@ SeaTable también dispone de una potente función de importación de datos. Pued
 
 CSV es un formato de intercambio de datos muy utilizado que suele ser el mínimo común denominador entre dos productos de software. Gracias a su sencilla estructura, usted conserva el control total de sus datos, pero puede importar un **máximo de una tabla** o base a la vez.
 
-[Obtenga más información sobre la importación de datos con CSV aquí.](https://seatable.io/es/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/)
+[Obtenga más información sobre la importación de datos con CSV aquí.]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
 
 ## Importación de datos desde Excel
 
 Cuando se trata de trabajar con datos, Excel no puede faltar, por supuesto. SeaTable admite la importación tanto del nuevo _formato de archivo_ _XLSX_ como del antiguo _XLS_. Utilizando archivos Excel, también puede importar **varias tablas** u hojas de trabajo simultáneamente a una Base SeaTable. SeaTable convierte cada hoja de cálculo de Excel en una tabla.
 
-[Aprenda todo sobre la importación de archivos Excel.](https://seatable.io/es/docs/import-von-daten/import-von-excel-dateien-in-seatable/)
+[Aprenda todo sobre la importación de archivos Excel.]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 
 ## Importación de datos desde Microsoft Access
 
@@ -40,4 +40,4 @@ También puedes importar datos de Google Sheets a SeaTable.
 
 Las Bases de SeaTable se pueden exportar en [formato de archivo DTABLE](https://seatable.io/es/docs/expertenwissen/dtable-dateiformat/) - y con tal archivo DTABLE usted puede por supuesto crear una Base en SeaTable otra vez.
 
-[Más información sobre la importación de datos con DTABLE.](https://seatable.io/es/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+[Más información sobre la importación de datos con DTABLE.]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

@@ -10,7 +10,7 @@ url: '/fr/aide/anleitung-zum-sql-abfrage-plugin'
 
 Le plug-in de requête SQL est parfaitement adapté à l'**exécution** directe **de commandes SQL** et est donc intéressant en premier lieu pour les utilisateurs qui ont déjà de l'expérience avec les bases de données.
 
-L'un des grands avantages du plugin réside dans le fait qu'il accède aussi bien au backend normal qu'au [backend Big Data](https://seatable.io/fr/docs/big-data/potenzial-big-data/) au cours de l'interrogation de la base de données.
+L'un des grands avantages du plugin réside dans le fait qu'il accède aussi bien au backend normal qu'au [backend Big Data]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) au cours de l'interrogation de la base de données.
 
 {{< warning  headline="Particulièrement utile pour les grandes quantités de données"  text="L'accès direct aux données SeaTable par commande SQL n'a pas beaucoup de sens pour les petites quantités de données. Les possibilités de créer une vue et de définir les filtres, tris et regroupements correspondants permettront à la plupart des utilisateurs d'atteindre plus rapidement leur objectif. La requête SQL est particulièrement pertinente pour les grandes quantités de données et vous devriez déjà connaître la syntaxe SQL." />}}
 
@@ -44,7 +44,7 @@ La fonction **Exporter vers une nouvelle table** permet d'exporter les données 
 DELETE FROM Time
 ```
 
-Après l'entrée de la commande, **toutes les** entrées de la table **Time** sont supprimées. Vous pouvez toutefois restaurer les lignes via le [journal de base](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/#base-log).
+Après l'entrée de la commande, **toutes les** entrées de la table **Time** sont supprimées. Vous pouvez toutefois restaurer les lignes via le [journal de base]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}#base-log).
 
 ![Saisie de la commande SQL DELETE pour supprimer les données de la table](images/query-delete-from-table.png)
 

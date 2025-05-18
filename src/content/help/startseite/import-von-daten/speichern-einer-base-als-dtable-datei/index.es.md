@@ -41,4 +41,4 @@ El archivo DTABLE exportado contiene el estado actual de su base incluyendo todo
 
 ## Restaurar una base a partir de un archivo DTABLE
 
-Puede **importar** un archivo DTABLE a SeaTable como nueva base en cualquier momento. Puede obtener más información sobre este tema en el artículo [Creación de una base a partir de un archivo DTABLE](https://seatable.io/es/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/).
+Puede **importar** un archivo DTABLE a SeaTable como nueva base en cualquier momento. Puede obtener más información sobre este tema en el artículo [Creación de una base a partir de un archivo DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

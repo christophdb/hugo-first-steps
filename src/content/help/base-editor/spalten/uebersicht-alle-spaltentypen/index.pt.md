@@ -190,7 +190,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-creator" >}} **Criador**
 
 O SeaTable documenta automaticamente o **nome do utilizador** que criou a linha na coluna do criador.
 
-[Mais informações sobre a coluna do criador](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[Mais informações sobre a coluna do criador]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Data de criação
 
@@ -198,7 +198,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Data de cria�
 
 O SeaTable documenta automaticamente a **data e a hora em que a linha foi criada** na coluna data de criação. A data e a hora são exibidas no formato AAAA-MM-DD HH:MM.
 
-[Mais informações sobre a coluna Data de criação](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[Mais informações sobre a coluna Data de criação]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Último editor
 
@@ -214,7 +214,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Data de ediç
 
 O SeaTable documenta a **data e a hora da última alteração de uma entrada na** coluna Editar data. A data e a hora são apresentadas no formato AAAA-MM-DD HH:MM. Uma vez que a coluna regista automaticamente as alterações às entradas, é adequada como acionador de automatismos, bem como para filtros e ordenação.
 
-[Mais informações sobre a coluna da data de processamento](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)
+[Mais informações sobre a coluna da data de processamento]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Número automático
 

@@ -14,15 +14,15 @@ url: '/ru/help/datenimport-und-export'
 
 ## Экспортная база
 
-Вы можете экспортировать текущее состояние базы, включая все таблицы, [представления]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [веб-формы]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) и [автоматизация](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/), а также [данные в бэкенде больших данных](https://seatable.io/ru/docs/big-data/potenzial-big-data/) также **не экспортируются**.
+Вы можете экспортировать текущее состояние базы, включая все таблицы, [представления]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [веб-формы]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) и [автоматизация]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), а также [данные в бэкенде больших данных]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) также **не экспортируются**.
 
 ![Экспортные базы](images/export-bases.png)
 
-SeaTable использует [формат файла DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) для экспорта баз. Для получения дополнительной информации см. статью [Сохранение базы в виде файла DTABLE](https://seatable.io/ru/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
+SeaTable использует [формат файла DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) для экспорта баз. Для получения дополнительной информации см. статью [Сохранение базы в виде файла DTABLE]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}}).
 
 ## Таблица экспорта
 
-Вы можете **экспортировать** отдельные **таблицы** из каждой базы, к которой у вас есть доступ, **в файлы Excel**. Содержимое текстовых и числовых столбцов копируется в целевой файл в виде значений. Содержимое типа [Форматированный текст]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [автоматизация](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/) и [история изменений](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) **не экспортируются**.
+Вы можете **экспортировать** отдельные **таблицы** из каждой базы, к которой у вас есть доступ, **в файлы Excel**. Содержимое текстовых и числовых столбцов копируется в целевой файл в виде значений. Содержимое типа [Форматированный текст]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [автоматизация]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) и [история изменений]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) **не экспортируются**.
 
 ![Экспорт таблицы](images/export-tables.jpg)
 
@@ -36,9 +36,9 @@ SeaTable поддерживает импорт баз из собственно�
 
 То, что вы должны учитывать при импорте базы, зависит от типа файла импорта. Однако процедура одинакова для всех типов файлов: перейдите на **стартовую** страницу и нажмите на **Добавить базу или папку** в области или группе, где вы хотите иметь новую базу. Более подробную информацию вы можете найти в следующих статьях:
 
-- [Создание базы из файла DTABLE](https://seatable.io/ru/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
-- [Импорт файлов Excel в SeaTable](https://seatable.io/ru/docs/import-von-daten/import-von-excel-dateien-in-seatable/)
-- [Импорт данных с помощью CSV в SeaTable](https://seatable.io/ru/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/)
+- [Создание базы из файла DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
+- [Импорт файлов Excel в SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
+- [Импорт данных с помощью CSV в SeaTable]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
 
 ## Таблица импорта
 
@@ -50,14 +50,18 @@ SeaTable поддерживает импорт баз из собственно�
 
 ![Заполнение существующих таблиц с помощью импорта данных](images/import-data-in-table.jpg)
 
-Импорт происходит в виде [файла CSV](https://seatable.io/ru/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) или [файла Excel](https://seatable.io/ru/docs/import-von-daten/import-von-excel-dateien-in-seatable/) в таблицу. Для получения дополнительной информации см. статьи по ссылке.
+Импорт происходит в виде [файла CSV]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}) или [файла Excel]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) в таблицу. Для получения дополнительной информации см. статьи по ссылке.
 
 Если вы уже создали таблицу в **SeaTable** и она нужна вам в **другой базе**, вы можете просто скопировать ее. О том, как импортировать таблицы из другой базы, вы можете узнать [здесь]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}).
 
-{{< warning  headline="Ограничение памяти для строк"  text="Обычный бэкэнд SeaTable может содержать не более 100 000 строк в одной таблице. Если вы хотите импортировать файл Excel или CSV, содержащий более 100 000 строк, необходимо сначала [активировать бэкэнд Big Data]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), чтобы иметь возможность импортировать его." />}}
+{{< warning  headline="Ограничение памяти для строк" >}}
+
+Обычный бэкэнд SeaTable может содержать не более 100 000 строк в одной таблице. Если вы хотите импортировать файл Excel или CSV, содержащий более 100 000 строк, необходимо сначала [активировать бэкэнд Big Data]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), чтобы иметь возможность импортировать его.
+
+{{< /warning >}}
 
 ## Другие полезные статьи по теме импорта данных
 
-- [Советы и рекомендации по импорту файлов CSV или XLSX](https://seatable.io/ru/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Ограничения импорта CSV/Excel](https://seatable.io/ru/docs/import-von-daten/limitationen-beim-csv-excel-import/)
-- [Импорт наборов данных CSV в существующую базу](https://seatable.io/ru/docs/import-von-daten/import-von-csv-datensaetzen-in-eine-existierende-base/)
+- [Советы и рекомендации по импорту файлов CSV или XLSX]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Ограничения импорта CSV/Excel]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})
+- [Импорт наборов данных CSV в существующую базу]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})

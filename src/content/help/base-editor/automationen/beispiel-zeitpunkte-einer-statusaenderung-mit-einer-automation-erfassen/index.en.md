@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 ---
 
-With the help of [automations](https://seatable.io/en/docs/automationen/uebersicht-ueber-automationen/), you no longer have to **manually** record the times of a status change, but can have SeaTable do this **automatically**.
+With the help of [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), you no longer have to **manually** record the times of a status change, but can have SeaTable do this **automatically**.
 
 ## Record times of status changes via automation
 

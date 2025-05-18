@@ -63,4 +63,4 @@ Pour en savoir plus, consultez les articles [Enregistrer la base actuelle en tan
 
 Vous pouvez à tout moment exporter une base en tant que fichier DTABLE et enregistrer ainsi une sauvegarde complète sur votre appareil. Lisez l'article [Sauvegarder une base en tant que fichier DTABLE](https://seatable.io/fr/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) pour savoir comment procéder et ce à quoi vous devez faire attention.
 
-Pour savoir comment réimporter un tel fichier dans SeaTable, consultez l'article [Créer une base à partir d'un fichier DTABLE](https://seatable.io/fr/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/).
+Pour savoir comment réimporter un tel fichier dans SeaTable, consultez l'article [Créer une base à partir d'un fichier DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

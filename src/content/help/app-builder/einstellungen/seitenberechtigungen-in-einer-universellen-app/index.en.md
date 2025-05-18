@@ -40,7 +40,7 @@ You can set the following page permissions:
 - Who may delete rows ?
 - Who can see the page?
 
-Not all page permissions are available for all [page types](https://seatable.io/en/docs/universelle-apps/seitentypen-in-der-universellen-app/). For example, on individual pages there is only the permission _"Who can see the page?"_ because users generally cannot add, edit or delete entries there.
+Not all page permissions are available for all [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). For example, on individual pages there is only the permission _"Who can see the page?"_ because users generally cannot add, edit or delete entries there.
 
 ## Which user groups you can authorize
 

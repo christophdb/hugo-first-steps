@@ -14,9 +14,9 @@ The SeaTable Cloud does **not currently allow users to change their email addres
 
 If you are the **administrator** or the only person in your team, changing your email address is very easy. **Export** all your existing bases as **DTABLE files**, create the **new account with a new email address**, import all bases into the new account and delete your **old** account. Here you can find the appropriate help articles:
 
-- [Exporting a Base as a DTABLE File](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/)
+- [Exporting a Base as a DTABLE File]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
 - [Registration](https://seatable.io/en/docs/erste-schritte/seatable-konto-erstellen/)
-- [Creating a Base from a DTABLE File](https://seatable.io/en/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Delete the complete team](https://seatable.io/en/docs/teamverwaltung/das-komplette-team-loeschen/)
 
 ## Migration within a team to a new e-mail address

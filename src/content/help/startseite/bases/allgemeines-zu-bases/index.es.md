@@ -17,7 +17,7 @@ A primera vista, una base no es más que un **contenedor** para una o varias **t
 - Varias [opciones para compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) datos fácilmente
 - [Colaboración](https://seatable.io/es/docs/seatable-nutzen/zusammenarbeit/) en tiempo real con otros usuarios y transmisión en tiempo real de todos los cambios
 - Una [función de comentario para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registro de una fila
-- [Versionado](https://seatable.io/es/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) completo e [historial](https://seatable.io/es/docs/historie-und-versionen/historie-und-logs/) de todos los cambios
+- [Versionado]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) de todos los cambios
 - Un [editor de formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}) y [plugins](https://seatable.io/es/docs/seatable-nutzen/ansichten/) gráficos integrados
 - Opciones de integración sencillas gracias a la API REST
 

@@ -190,7 +190,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-creator" >}} **Créateur**
 
 SeaTable documente automatiquement le **nom de l'utilisateur** qui a créé la ligne dans la colonne du créateur.
 
-[En savoir plus sur la colonne des créateurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[En savoir plus sur la colonne des créateurs]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Date de création
 
@@ -198,7 +198,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-creation-time" >}} **Date de cr
 
 SeaTable documente automatiquement la **date et l'heure de création de la ligne** dans la colonne de la date de création. La date et l'heure sont affichées au format AAAA-MM-JJ HH:MM.
 
-[En savoir plus sur la colonne date de création](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[En savoir plus sur la colonne date de création]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Dernier responsable
 
@@ -214,7 +214,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-creation-time" >}} **Date de tr
 
 SeaTable documente la **date et l'heure de la dernière modification d'une entrée** dans la colonne Date de modification. La date et l'heure sont affichées au format AAAA-MM-JJ HH:MM. Comme la colonne enregistre automatiquement les modifications apportées aux entrées, elle convient bien comme déclencheur pour les automatisations ainsi que pour les filtres et les tris.
 
-[En savoir plus sur la colonne date de traitement](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)
+[En savoir plus sur la colonne date de traitement]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Numéro automatique
 

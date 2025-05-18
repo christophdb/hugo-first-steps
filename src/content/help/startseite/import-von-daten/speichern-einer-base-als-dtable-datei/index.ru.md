@@ -41,4 +41,4 @@ url: '/ru/help/speichern-einer-base-als-dtable-datei'
 
 ## Восстановление базы из файла DTABLE
 
-Вы можете в любое время **импортировать** файл DTABLE обратно в SeaTable в качестве новой базы. Подробнее об этом вы можете прочитать в статье [Создание базы из файла DTABLE](https://seatable.io/ru/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/).
+Вы можете в любое время **импортировать** файл DTABLE обратно в SeaTable в качестве новой базы. Подробнее об этом вы можете прочитать в статье [Создание базы из файла DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

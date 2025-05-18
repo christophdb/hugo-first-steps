@@ -24,7 +24,7 @@ Une fois que vous [avez activé]({{< relref "help/base-editor/big-data/aktiviere
 
 ## Vues séparées pour les deux mémoires
 
-Comme nous l'avons déjà mentionné, la mémoire Big Data doit être activée dans une base. Ensuite, vous pouvez créer une nouvelle vue qui vous permettra d'accéder aux entrées de la mémoire Big Data. Vous trouverez plus de détails sur cette **vue Big Data** dans [cet article d'aide](https://seatable.io/fr/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/).
+Comme nous l'avons déjà mentionné, la mémoire Big Data doit être activée dans une base. Ensuite, vous pouvez créer une nouvelle vue qui vous permettra d'accéder aux entrées de la mémoire Big Data. Vous trouverez plus de détails sur cette **vue Big Data** dans [cet article d'aide]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}).
 
 ## Des possibilités infinies
 

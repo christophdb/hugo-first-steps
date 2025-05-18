@@ -16,13 +16,13 @@ O SeaTable tem também uma poderosa função de importação de dados. Pode manu
 
 O CSV é um formato de intercâmbio de dados amplamente utilizado que é frequentemente o menor denominador comum entre dois produtos de software. Devido à sua estrutura simples, mantém o controlo total sobre os seus dados, mas pode importar um **máximo de uma tabela** ou base de cada vez.
 
-[Saiba mais sobre a importação de dados com CSV aqui.](https://seatable.io/pt/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/)
+[Saiba mais sobre a importação de dados com CSV aqui.]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
 
 ## Importação de dados de Excel
 
 Quando se trata de trabalhar com dados, o Excel não pode estar ausente, claro. SeaTable suporta a importação tanto do novo _formato de ficheiro_ _XLSX_ como do antigo _formato de ficheiro XLS_. Usando ficheiros Excel, pode também importar **várias tabelas** ou folhas de trabalho em simultâneo para uma base SeaTable. SeaTable converte cada folha de trabalho do Excel numa tabela.
 
-[Saiba tudo sobre a importação de ficheiros Excel.](https://seatable.io/pt/docs/import-von-daten/import-von-excel-dateien-in-seatable/)
+[Saiba tudo sobre a importação de ficheiros Excel.]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 
 ## Importação de dados do Microsoft Access
 
@@ -40,4 +40,4 @@ Também pode importar dados do Google Sheets para o SeaTable.
 
 As bases SeaTable podem ser exportadas em [formato de ficheiro DTABLE](https://seatable.io/pt/docs/expertenwissen/dtable-dateiformat/) - e com tal ficheiro DTABLE pode, naturalmente, criar novamente uma base em SeaTable.
 
-[Saiba mais sobre a importação de dados com DTABLE.](https://seatable.io/pt/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+[Saiba mais sobre a importação de dados com DTABLE.]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

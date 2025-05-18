@@ -120,5 +120,5 @@ Diese Fehlermeldung erscheint, wenn der Datei-Import aufgrund von Problemen mit 
 
 ## Weitere hilfreiche Artikel rund um den Import von CSV-Dateien in SeaTable
 
-- [Tipps und Tricks beim Import von CSV-Dateien](https://seatable.io/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limitationen beim CSV-Import](https://seatable.io/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Tipps und Tricks beim Import von CSV-Dateien]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limitationen beim CSV-Import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

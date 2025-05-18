@@ -33,5 +33,5 @@ Wenn Sie eine Ihrer Bases an einen **Benutzer in einem anderen Team** übertrage
 
 Für die Übertragung einer Base an einen anderen SeaTable Server gibt es nur eine Möglichkeit. **Exportieren** Sie die Base als **DTABLE-Datei** und schicken Sie diese an den Empfänger. Dieser kann die Datei wiederum in sein SeaTable System importieren und mit Ihrer Base weiterarbeiten.
 
-- [Exportieren einer Base als DTABLE-Datei](https://seatable.io/docs/import-von-daten/speichern-einer-base-als-dtable-datei/)
-- [Erstellen einer Base aus einer DTABLE-Datei](https://seatable.io/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Exportieren einer Base als DTABLE-Datei]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
+- [Erstellen einer Base aus einer DTABLE-Datei]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

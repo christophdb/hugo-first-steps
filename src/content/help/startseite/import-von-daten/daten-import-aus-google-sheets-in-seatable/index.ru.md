@@ -17,4 +17,4 @@ url: '/ru/help/daten-import-aus-google-sheets-in-seatable'
     ![Сохранить лист Google в формате CSV или Excel](images/google-sheets-export-as-xls-csv.png)
 
 2. Затем вы можете **импортировать** файлы в SeaTable как обычно.
-3. Eine detaillierte **Anleitung** zum Importieren der Dateien finden Sie im jeweiligen Übersichtsartikel zum [Excel-](https://seatable.io/ru/docs/import-von-daten/import-von-excel-dateien-in-seatable/) bzw. [CSV-Import](https://seatable.io/ru/?post_type=docs&p=16604).
+3. Eine detaillierte **Anleitung** zum Importieren der Dateien finden Sie im jeweiligen Übersichtsartikel zum [Excel-]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) bzw. [CSV-Import](https://seatable.io/ru/?post_type=docs&p=16604).

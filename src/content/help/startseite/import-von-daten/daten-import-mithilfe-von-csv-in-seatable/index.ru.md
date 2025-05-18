@@ -110,5 +110,5 @@ CSV-файл должен быть отформатирован в соотве�
 
 ## Другие полезные статьи об импорте CSV-файлов в SeaTable
 
-- [Советы и рекомендации по импорту файлов CSV](https://seatable.io/ru/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Ограничения импорта CSV](https://seatable.io/ru/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Советы и рекомендации по импорту файлов CSV]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Ограничения импорта CSV]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

@@ -63,4 +63,4 @@ For more information, see the articles [Saving the Current Base as a Snapshot]({
 
 You can export a Base as a DTABLE file at any time and thus save a comprehensive backup on your device. Read the article [Saving a Base as a DTABLE File](https://seatable.io/en/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) to learn how to do this and what you should keep in mind.
 
-To learn how to import such a file back into SeaTable, see the article [Creating a Base from a DTABLE File](https://seatable.io/en/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/).
+To learn how to import such a file back into SeaTable, see the article [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

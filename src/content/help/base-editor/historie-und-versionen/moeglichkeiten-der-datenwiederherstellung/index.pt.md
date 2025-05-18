@@ -63,4 +63,4 @@ Para mais informações, ver os artigos [Salvar a base actual como um instantân
 
 Pode exportar uma base como um ficheiro DTABLE em qualquer altura e assim guardar uma cópia de segurança abrangente no seu dispositivo. Leia o artigo [Salvando uma Base como um Arquivo DTABLE](https://seatable.io/pt/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) para saber como fazer isto e o que deve ter em mente.
 
-Como importar tal ficheiro de volta para o SeaTable é explicado no artigo [Criar uma Base a partir de um ficheiro DTABLE](https://seatable.io/pt/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/).
+Como importar tal ficheiro de volta para o SeaTable é explicado no artigo [Criar uma Base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

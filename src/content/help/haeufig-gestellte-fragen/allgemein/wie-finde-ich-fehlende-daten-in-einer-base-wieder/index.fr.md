@@ -12,7 +12,7 @@ Vous ne savez pas pourquoi des données manquent dans une base et vous soupçonn
 
 Vérifiez d'abord si un [filtre]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}). Ces données ne sont **pas supprimées**, mais **simplement cachées**.
 
-Si ce n'est pas le cas, consultez ensuite le [journal des activités](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/) sur votre page d'accueil. Vous pouvez y voir les données modifiées et supprimées des 7 derniers jours pour toutes vos bases.
+Si ce n'est pas le cas, consultez ensuite le [journal des activités]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) sur votre page d'accueil. Vous pouvez y voir les données modifiées et supprimées des 7 derniers jours pour toutes vos bases.
 
 Si vous ou les membres de votre équipe avez supprimé certains éléments de SeaTable par erreur, vous pouvez les restaurer de différentes manières.
 

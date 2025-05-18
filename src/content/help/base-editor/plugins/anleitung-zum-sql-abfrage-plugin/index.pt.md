@@ -10,7 +10,7 @@ url: '/pt/ajuda/anleitung-zum-sql-abfrage-plugin'
 
 O plug-in de consulta SQL é perfeitamente adequado para a **execução** directa **de comandos SQL** e, por isso, interessa sobretudo aos utilizadores que já têm experiência com bases de dados.
 
-Uma grande vantagem do plugin é que acede tanto ao backend normal como ao [backend de Grandes Dados](https://seatable.io/pt/docs/big-data/potenzial-big-data/) no decurso da consulta da base de dados.
+Uma grande vantagem do plugin é que acede tanto ao backend normal como ao [backend de Grandes Dados]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) no decurso da consulta da base de dados.
 
 {{< warning  headline="Particularmente útil com grandes quantidades de dados"  text="O acesso directo aos dados do SeaTable através de comandos SQL faz pouco sentido para pequenas quantidades de dados. As possibilidades de criar uma vista e definir filtros, ordenação e agrupamento adequados conduzirão a maioria dos utilizadores ao seu objectivo mais rapidamente. A consulta SQL é particularmente relevante para grandes quantidades de dados e o utilizador já deve estar familiarizado com a sintaxe SQL." />}}
 
@@ -44,7 +44,7 @@ Utilizando a função **Exportar para nova tabela**, é possível exportar os da
 DELETE FROM Tempo
 ```
 
-Depois de introduzir o comando, **todas as** entradas são eliminadas da tabela de **tempos**. No entanto, é possível restaurar as linhas através do [log de base](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/#base-log).
+Depois de introduzir o comando, **todas as** entradas são eliminadas da tabela de **tempos**. No entanto, é possível restaurar as linhas através do [log de base]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}#base-log).
 
 ![Introduzir o comando SQL DELETE para eliminar dados da tabela](images/query-delete-from-table.png)
 

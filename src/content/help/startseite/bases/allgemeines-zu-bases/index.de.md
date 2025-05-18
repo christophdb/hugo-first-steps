@@ -18,7 +18,7 @@ Auf den ersten Blick ist eine Base nur ein **Container** für eine oder mehrere 
 - Diverse [Freigabemöglichkeiten]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) zum einfachen Teilen von Daten
 - Echtzeit-[Zusammenarbeit](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/) mit anderen Nutzern und Echtzeit-Übertragung aller Änderungen
 - Eine [Kommentarfunktion]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) zu jedem Datensatz in einer Zeile
-- Vollständige [Versionierung](https://seatable.io/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) und [Historie](https://seatable.io/docs/historie-und-versionen/historie-und-logs/) aller Änderungen
+- Vollständige [Versionierung]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) aller Änderungen
 - Einen integrierten [Webformular-Editor]({{< relref "help/base-editor/webformulare/webformulare" >}}) und grafische [Plugins](https://seatable.io/docs/seatable-nutzen/ansichten/)
 - Einfache Integrationsmöglichkeiten dank REST-API
 

@@ -24,7 +24,7 @@ Si estás familiarizado con la creación de tus propias tablas, columnas y vista
 
 - [Creación de una base mediante una plantilla](https://seatable.io/es/docs/bases-verwalten/anlegen-einer-base-mithilfe-einer-vorlage/)
 - [Crear una nueva base](https://seatable.io/es/docs/bases-verwalten/eine-neue-base-erstellen/)
-- [Importar archivos de Excel a SeaTable](https://seatable.io/es/docs/import-von-daten/import-von-excel-dateien-in-seatable/)
+- [Importar archivos de Excel a SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 - [Duplicar una base existente](https://seatable.io/es/docs/bases-verwalten/duplizieren-einer-bestehenden-base/)
 
 ## Gestionar las bases

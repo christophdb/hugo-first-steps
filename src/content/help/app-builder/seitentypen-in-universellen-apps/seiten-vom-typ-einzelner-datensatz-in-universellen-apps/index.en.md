@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-With the **single data record** [page type](https://seatable.io/en/docs/universelle-apps/seitentypen-in-der-universellen-app/), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) that you already know from Base.
+With the **single data record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) that you already know from Base.
 
 Users of the app can view, search, browse or even edit the individual data records on this page - with the relevant authorization. This type of page is suitable, for example, for displaying the data in an employee database as personal profiles.
 

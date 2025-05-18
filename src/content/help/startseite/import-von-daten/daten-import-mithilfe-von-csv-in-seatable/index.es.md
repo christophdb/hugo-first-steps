@@ -110,5 +110,5 @@ Este mensaje de error aparece cuando la importación de archivos falla debido a 
 
 ## Otros artículos útiles sobre la importación de archivos CSV en SeaTable
 
-- [Consejos y trucos para importar archivos CSV](https://seatable.io/es/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limitaciones de la importación de CSV](https://seatable.io/es/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Consejos y trucos para importar archivos CSV]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limitaciones de la importación de CSV]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

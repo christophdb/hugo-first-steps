@@ -12,7 +12,11 @@ url: '/ru/help/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 По умолчанию SeaTable позволяет хранить **до 100 000 строк** в базе. Если вы хотите импортировать в SeaTable еще большие наборы данных, вы можете воспользоваться **хранилищем** больших **данных**. Здесь вы можете узнать, как импортировать **файл XLSX** в хранилище больших данных.
 
-{{< warning  headline="Пререквизиты"  text="Для импорта в SeaTable более 100 000 строк требуется специальное **представление больших данных**. Его можно создать, только если вы [уже активировали хранилище больших данных]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) в базе." />}}
+{{< warning  headline="Пререквизиты" >}}
+
+Для импорта в SeaTable более 100 000 строк требуется специальное **представление больших данных**. Его можно создать, только если вы [уже активировали хранилище больших данных]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) в базе.
+
+{{< /warning >}}
 
 ## Подготовка к импорту
 
@@ -24,7 +28,7 @@ url: '/ru/help/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 ![Импорт таблицы Excel в представление Big Data](images/Excel-Tabelle-in-Big-Data-Ansicht-importieren.gif)
 
-1. [Создайте представление больших данных](https://seatable.io/ru/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) или переключитесь на существующее представление больших данных.
+1. [Создайте представление больших данных]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) или переключитесь на существующее представление больших данных.
 2. Нажмите на **три точки** в опциях просмотра.
 3. Выберите опцию **Импорт из файла XLSX в хранилище Big Data**.
 4. В открывшемся обзоре файлов найдите нужный **файл XLSX на вашем устройстве**.

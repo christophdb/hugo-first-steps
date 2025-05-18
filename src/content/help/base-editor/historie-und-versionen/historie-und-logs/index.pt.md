@@ -54,7 +54,7 @@ Num registo de base, encontrará as alterações mais recentes que foram feitas 
 
 Para mais informações sobre o registo de base e **instruções** detalhadas **sobre** como desfazer as alterações acima dele, ver este [artigo de ajuda](https://seatable.io/pt/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
 
-Para aumentar a rastreabilidade das alterações nas linhas da [memória de grandes volumes de dados](https://seatable.io/pt/docs/big-data/potenzial-big-data/), o SeaTable oferece um **registo de grandes volumes de dados** separado. No entanto, este registo só aparece assim que a memória de grandes volumes de dados é activada na base.
+Para aumentar a rastreabilidade das alterações nas linhas da [memória de grandes volumes de dados]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}), o SeaTable oferece um **registo de grandes volumes de dados** separado. No entanto, este registo só aparece assim que a memória de grandes volumes de dados é activada na base.
 
 ![Registo de grandes volumes de dados](images/Big-Data-Log.png)
 

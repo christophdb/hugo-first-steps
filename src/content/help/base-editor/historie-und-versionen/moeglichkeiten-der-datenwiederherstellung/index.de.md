@@ -63,4 +63,4 @@ Alles Weitere erfahren Sie in den Artikeln [Speichern der aktuellen Base als Sna
 
 Sie können eine Base jederzeit als DTABLE-Datei exportieren und so ein umfangreiches Backup auf Ihrem Gerät speichern. Lesen Sie im Artikel [Speichern einer Base als DTABLE-Datei](https://seatable.io/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/), wie das geht und was Sie dabei beachten sollten.
 
-Wie Sie eine solche Datei wieder in SeaTable importieren, erfahren Sie im Artikel [Erstellen einer Base aus einer DTABLE-Datei](https://seatable.io/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/).
+Wie Sie eine solche Datei wieder in SeaTable importieren, erfahren Sie im Artikel [Erstellen einer Base aus einer DTABLE-Datei]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

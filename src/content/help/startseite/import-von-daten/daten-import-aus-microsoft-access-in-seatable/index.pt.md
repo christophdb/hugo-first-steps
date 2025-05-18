@@ -18,4 +18,4 @@ Contudo, existe um pequeno desvio que pode utilizar para importar bases de dados
 
 1. Primeiro **exportar** as tabelas necessárias do Microsoft Access como **ficheiros CSV**.
 2. Pode então **importar** os ficheiros CSV exportados do Microsoft Access **para o SeaTable** como habitualmente.
-3. Os passos necessários para importar um ficheiro CSV do Microsoft Access são **idênticos aos** da [importação de qualquer ficheiro CSV](https://seatable.io/pt/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/).
+3. Os passos necessários para importar um ficheiro CSV do Microsoft Access são **idênticos aos** da [importação de qualquer ficheiro CSV]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}).

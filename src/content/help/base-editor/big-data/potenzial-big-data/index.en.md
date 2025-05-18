@@ -24,7 +24,7 @@ Once you [have activated]({{< relref "help/base-editor/big-data/aktivieren-des-b
 
 ## Separate views for the two memories
 
-As already mentioned, the big data storage must be activated in a base. You can then create a new view with which you can access the entries in the big data storage. Further details on this big **data view** can be found [in this help article](https://seatable.io/en/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/).
+As already mentioned, the big data storage must be activated in a base. You can then create a new view with which you can access the entries in the big data storage. Further details on this big **data view** can be found [in this help article]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}).
 
 ## Infinite possibilities
 

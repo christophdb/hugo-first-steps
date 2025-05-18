@@ -190,7 +190,7 @@ Icon: {{< seatable-icon icon="dtable-icon-creator" >}} **Creator**
 
 SeaTable automatically documents the **name of the user** who created the row in the creator column.
 
-[More about the creator column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[More about the creator column]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Creation date
 
@@ -198,7 +198,7 @@ Icon: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Creation date**
 
 SeaTable automatically documents the **date and time of creation of the row** in the **creation date** column. The date and time are displayed in the format YYYY-MM-DD HH:MM.
 
-[More about the Creation Date column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[More about the Creation Date column]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Last editor
 
@@ -214,7 +214,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Editing date**
 
 SeaTable documents the **date and time of the last modification of an entry in** the Edit Date column. Date and time are displayed in the format YYYY-MM-DD HH:MM. Since the column automatically records changes to entries, it is well suited as a trigger for automations as well as for filters and sorts.
 
-[More about the Processing Date column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)
+[More about the Processing Date column]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Automatic number
 

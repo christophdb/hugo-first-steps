@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-Con el [tipo de](https://seatable.io/es/docs/universelle-apps/seitentypen-in-der-universellen-app/) página de **registro de datos único**, tiene la opción de diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) que ya conoce de Base.
+Con el [tipo de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) página de **registro de datos único**, tiene la opción de diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) que ya conoce de Base.
 
 Los usuarios de la aplicación pueden ver, buscar, explorar o incluso editar los registros de datos individuales en esta página, con la autorización pertinente. Este tipo de página es adecuada, por ejemplo, para mostrar los datos de una base de datos de empleados como perfiles personalizados.
 

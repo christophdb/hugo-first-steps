@@ -17,7 +17,7 @@ As bases são de importância central no SeaTable. Sempre que entra, analisa, ed
 - Várias [opções de partilha para]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) dados
 - [Colaboração](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/) em tempo real com outros utilizadores e transmissão em tempo real de todas as alterações
 - Uma [função de comentário para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registo numa linha
-- [Versões](https://seatable.io/pt/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) completas e [história de](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) todas as mudanças
+- [Versões]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) todas as mudanças
 - Um [editor de formulários web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado e [plugins](https://seatable.io/pt/docs/seatable-nutzen/ansichten/) gráficos
 - Opções de integração simples graças ao REST API
 

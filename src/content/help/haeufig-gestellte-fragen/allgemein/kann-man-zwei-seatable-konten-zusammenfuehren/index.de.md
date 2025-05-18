@@ -17,7 +17,7 @@ Selbstverständlich steht Ihnen jederzeit die Möglichkeit offen, dass Sie ein K
 1. [Exportieren Sie alle Bases](https://seatable.io/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/), die Sie ins neue Team überführen wollen.
 2. [Löschen Sie das Teammitglied](https://seatable.io/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) oder [das gesamte Team](https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/) über die Teamverwaltung.
 3. Legen Sie ein [neues Teammitglied](https://seatable.io/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/) in dem anderen Team an.
-4. [Importieren](https://seatable.io/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/) Sie Ihre zuvor exportierten Bases.
+4. [Importieren]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) Sie Ihre zuvor exportierten Bases.
 
 ## Deaktivieren reicht nicht
 

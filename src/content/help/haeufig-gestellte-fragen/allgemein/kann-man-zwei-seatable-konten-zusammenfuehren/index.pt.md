@@ -17,7 +17,7 @@ Infelizmente, **não** é possível no sistema fundir contas individuais SeaTabl
 1. [Exportar todas as bases](https://seatable.io/pt/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) que deseja transferir para a nova equipa.
 2. [Eliminar o membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) ou [toda a equipa](https://seatable.io/pt/docs/teamverwaltung/das-komplette-team-loeschen/) através da administração da equipa.
 3. Criar um [novo membro de equipa](https://seatable.io/pt/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/) na outra equipa.
-4. [Importe](https://seatable.io/pt/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/) as suas bases anteriormente exportadas.
+4. [Importe]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) as suas bases anteriormente exportadas.
 
 ## Desactivar não é suficiente
 

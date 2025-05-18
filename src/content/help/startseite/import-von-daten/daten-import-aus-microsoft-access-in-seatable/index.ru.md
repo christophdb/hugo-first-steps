@@ -18,4 +18,4 @@ url: '/ru/help/daten-import-aus-microsoft-access-in-seatable'
 
 1. Сначала **экспортируйте** необходимые таблицы из Microsoft Access в **файлы CSV**.
 2. Затем вы можете **импортировать** CSV-файлы, экспортированные из Microsoft Access, **в SeaTable** как обычно.
-3. Шаги, необходимые для импорта CSV-файла из Microsoft Access, **идентичны** [импорту любого CSV-файла](https://seatable.io/ru/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/).
+3. Шаги, необходимые для импорта CSV-файла из Microsoft Access, **идентичны** [импорту любого CSV-файла]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}).

@@ -38,7 +38,7 @@ Therefore, whenever possible, try to split the import into **smaller data packag
 
 ## Ensure data quality
 
-**Data preparation** is essential for a smooth import. Before importing CSV or XLSX files into a base, you should always make sure that the data is cleaned and meets the requirements for import. You can read about the **limitations of** CSV and Excel data import in the corresponding help article [Limitations of CSV/Excel import](https://seatable.io/en/docs/import-von-daten/limitationen-beim-csv-excel-import/).
+**Data preparation** is essential for a smooth import. Before importing CSV or XLSX files into a base, you should always make sure that the data is cleaned and meets the requirements for import. You can read about the **limitations of** CSV and Excel data import in the corresponding help article [Limitations of CSV/Excel import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}}).
 
 ## Control the import
 

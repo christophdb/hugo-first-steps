@@ -40,7 +40,7 @@ Puede establecer los siguientes permisos de página:
 - ¿Quién puede suprimir líneas?
 - ¿Quién puede ver la página?
 
-No todas las autorizaciones de página están disponibles para todos los [tipos de página](https://seatable.io/es/docs/universelle-apps/seitentypen-in-der-universellen-app/). Por ejemplo, en las páginas individuales sólo existe la autorización _"¿Quién puede ver la página?"_ porque, por lo general, los usuarios no pueden añadir, editar o eliminar entradas en ellas.
+No todas las autorizaciones de página están disponibles para todos los [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Por ejemplo, en las páginas individuales sólo existe la autorización _"¿Quién puede ver la página?"_ porque, por lo general, los usuarios no pueden añadir, editar o eliminar entradas en ellas.
 
 ## A qué grupos de usuarios puede autorizar
 

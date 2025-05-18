@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 ---
 
-Com a ajuda das [automatizações](https://seatable.io/pt/docs/automationen/uebersicht-ueber-automationen/), já não é necessário registar **manualmente** as horas de uma alteração de estado, mas o SeaTable pode fazê-lo **automaticamente**.
+Com a ajuda das [automatizações]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), já não é necessário registar **manualmente** as horas de uma alteração de estado, mas o SeaTable pode fazê-lo **automaticamente**.
 
 ## Registar as horas das alterações de estado através da automatização
 

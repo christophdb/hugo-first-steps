@@ -63,4 +63,4 @@ Para más información, consulta los artículos [Guardar la base actual como ins
 
 Puedes exportar una base como archivo DTABLE en cualquier momento y guardar así una copia de seguridad completa en tu dispositivo. Lea el artículo [Guardar una base como archivo DTABLE](https://seatable.io/es/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) para saber cómo hacerlo y qué debe tener en cuenta.
 
-En el artículo [Creación de una base a partir de un archivo DTABLE](https://seatable.io/es/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/) se explica cómo volver a importar un archivo de este tipo a SeaTable.
+En el artículo [Creación de una base a partir de un archivo DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) se explica cómo volver a importar un archivo de este tipo a SeaTable.

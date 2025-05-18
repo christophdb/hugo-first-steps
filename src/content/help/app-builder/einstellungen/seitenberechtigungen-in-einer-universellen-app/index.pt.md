@@ -40,7 +40,7 @@ Pode definir as seguintes permissões de página:
 - Quem está autorizado a apagar linhas?
 - Quem pode ver a página?
 
-Nem todas as autorizações de página estão disponíveis para todos os [tipos de página](https://seatable.io/pt/docs/universelle-apps/seitentypen-in-der-universellen-app/). Por exemplo, nas páginas individuais só existe a autorização _"Quem pode ver a página?"_, porque os utilizadores não podem, em geral, acrescentar, editar ou apagar entradas nessa página.
+Nem todas as autorizações de página estão disponíveis para todos os [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Por exemplo, nas páginas individuais só existe a autorização _"Quem pode ver a página?"_, porque os utilizadores não podem, em geral, acrescentar, editar ou apagar entradas nessa página.
 
 ## Que grupos de utilizadores pode autorizar
 

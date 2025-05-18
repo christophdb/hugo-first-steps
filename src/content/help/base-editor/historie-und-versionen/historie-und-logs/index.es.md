@@ -54,7 +54,7 @@ En el registro de una base, encontrará los cambios más recientes que se han re
 
 Para más información sobre el registro base e **instrucciones** detalladas sobre cómo deshacer cambios sobre él, consulte este [artículo de ayuda](https://seatable.io/es/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
 
-Para aumentar la trazabilidad de los cambios en las filas de la [memoria de big data](https://seatable.io/es/docs/big-data/potenzial-big-data/), SeaTable ofrece un **registro de big data** independiente. Sin embargo, este registro solo aparece en cuanto se activa la memoria de big data en la base.
+Para aumentar la trazabilidad de los cambios en las filas de la [memoria de big data]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}), SeaTable ofrece un **registro de big data** independiente. Sin embargo, este registro solo aparece en cuanto se activa la memoria de big data en la base.
 
 ![Registro de Big Data](images/Big-Data-Log.png)
 

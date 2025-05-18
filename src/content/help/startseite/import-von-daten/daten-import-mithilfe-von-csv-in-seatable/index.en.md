@@ -110,5 +110,5 @@ This error message appears when the file import fails due to **internet connecti
 
 ## More helpful articles around importing CSV files into SeaTable
 
-- [Tips and tricks when importing CSV files](https://seatable.io/en/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limitations of CSV import](https://seatable.io/en/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Tips and tricks when importing CSV files]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limitations of CSV import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

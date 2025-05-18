@@ -14,15 +14,15 @@ How to export bases and tables from SeaTable and import them into SeaTable is th
 
 ## Export base
 
-You can export the current status of your bases including all tables, [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [web forms]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) and [automations](https://seatable.io/en/docs/automationen/uebersicht-ueber-automationen/) as well as [data in the big data backend](https://seatable.io/en/docs/big-data/potenzial-big-data/) are also **not exported**.
+You can export the current status of your bases including all tables, [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [web forms]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) and [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) as well as [data in the big data backend]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) are also **not exported**.
 
 ![Bases export](images/export-bases.png)
 
-For exporting bases, SeaTable uses the [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). For more information, see the article [Saving a Base as a DTABLE File](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/).
+For exporting bases, SeaTable uses the [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). For more information, see the article [Saving a Base as a DTABLE File]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}}).
 
 ## Export table
 
-You can **export** individual **tables to Excel files** from any base to which you have access. The contents of text and number-based columns are copied as values to the destination file. Contents of the [Formatted Text]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [automations](https://seatable.io/en/docs/automationen/uebersicht-ueber-automationen/) and the [change history](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) are **not exported**.
+You can **export** individual **tables to Excel files** from any base to which you have access. The contents of text and number-based columns are copied as values to the destination file. Contents of the [Formatted Text]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) and the [change history]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) are **not exported**.
 
 ![Export tables](images/export-tables.jpg)
 
@@ -36,9 +36,9 @@ SeaTable supports importing bases from its own [DTABLE format]({{< relref "help/
 
 What you need to do when importing a base depends on the type of import file. However, the procedure is the same for all file types: go to the **Home** page and click **Add a Base or Folder** in the area or group where you want the new Base. You can get more detailed information in the following articles:
 
-- [Creating a Base from a DTABLE File](https://seatable.io/en/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
-- [Import Excel files into SeaTable](https://seatable.io/en/docs/import-von-daten/import-von-excel-dateien-in-seatable/)
-- [Data import using CSV in SeaTable](https://seatable.io/en/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/)
+- [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
+- [Import Excel files into SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
+- [Data import using CSV in SeaTable]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
 
 ## Import table
 
@@ -50,14 +50,18 @@ or import the data into a **new table**.
 
 ![Filling of existing tables via data import](images/import-data-in-table.jpg)
 
-The import is done as a [CSV file](https://seatable.io/en/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) or [Excel file](https://seatable.io/en/docs/import-von-daten/import-von-excel-dateien-in-seatable/) into the table. For more information, see the linked articles.
+The import is done as a [CSV file]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}) or [Excel file]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) into the table. For more information, see the linked articles.
 
 If you have already created a table in **SeaTable** and need it in **another base**, you can simply copy it over. To learn how to import tables from another Base, [click here]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}).
 
-{{< warning  headline="Memory limit for rows"  text="SeaTable's normal backend can hold a maximum of 100,000 rows per table. If you want to import an Excel or CSV file that contains more than 100,000 rows , you must first [enable the Big Data backend to]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) import it." />}}
+{{< warning  headline="Memory limit for rows" >}}
+
+SeaTable's normal backend can hold a maximum of 100,000 rows per table. If you want to import an Excel or CSV file that contains more than 100,000 rows , you must first [enable the Big Data backend to]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) import it.
+
+{{< /warning >}}
 
 ## More helpful articles about data import
 
-- [Tips and tricks when importing CSV or XLSX files](https://seatable.io/en/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limitations with CSV/Excel import](https://seatable.io/en/docs/import-von-daten/limitationen-beim-csv-excel-import/)
-- [Import of CSV data records into an existing base](https://seatable.io/en/docs/import-von-daten/import-von-csv-datensaetzen-in-eine-existierende-base/)
+- [Tips and tricks when importing CSV or XLSX files]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limitations with CSV/Excel import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})
+- [Import of CSV data records into an existing base]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})

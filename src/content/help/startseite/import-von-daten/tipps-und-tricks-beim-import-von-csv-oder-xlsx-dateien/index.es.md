@@ -38,7 +38,7 @@ Por lo tanto, siempre que sea posible, intente dividir la importación en **paqu
 
 ## Garantizar la calidad de los datos
 
-La **preparación de los datos** es esencial para una importación sin problemas. Antes de importar archivos CSV o XLSX en una base, debe asegurarse siempre de que los datos se han limpiado y cumplen los requisitos de importación. Puede consultar las **limitaciones de las** [importaciones CS](https://seatable.io/es/docs/import-von-daten/limitationen-beim-csv-excel-import/) V o Excel en el artículo de ayuda correspondiente [Limitaciones de las importaciones CSV/Excel](https://seatable.io/es/docs/import-von-daten/limitationen-beim-csv-excel-import/).
+La **preparación de los datos** es esencial para una importación sin problemas. Antes de importar archivos CSV o XLSX en una base, debe asegurarse siempre de que los datos se han limpiado y cumplen los requisitos de importación. Puede consultar las **limitaciones de las** [importaciones CS]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}}).
 
 ## Comprobar la importación
 

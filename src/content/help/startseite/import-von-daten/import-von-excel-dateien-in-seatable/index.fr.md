@@ -86,11 +86,11 @@ SeaTable essaie de déterminer automatiquement le type de colonne en fonction de
 
 ## Importer un fichier XLSX dans le référentiel Big Data
 
-Par défaut, SeaTable permet de stocker **jusqu'à 100 000 lignes**, la fonction d'importation prenant en charge un maximum de 50 000 lignes dans une feuille de calcul Excel. Si vous souhaitez importer des ensembles de données encore plus importants dans SeaTable, vous pouvez utiliser le **stockage Big Data**. [Cliquez ici](https://seatable.io/fr/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/) pour savoir comment **importer** un **fichier XLSX dans la mémoire Big Data**.
+Par défaut, SeaTable permet de stocker **jusqu'à 100 000 lignes**, la fonction d'importation prenant en charge un maximum de 50 000 lignes dans une feuille de calcul Excel. Si vous souhaitez importer des ensembles de données encore plus importants dans SeaTable, vous pouvez utiliser le **stockage Big Data**. [Cliquez ici]({{< relref "help/base-editor/big-data/eine-excel-tabelle-ins-big-data-backend-importieren" >}}) pour savoir comment **importer** un **fichier XLSX dans la mémoire Big Data**.
 
 ## Autres articles utiles sur l'importation de données
 
 Lors de l'importation de données, vous pouvez rencontrer des difficultés en fonction de la forme du fichier source. Si quelque chose ne fonctionne pas, les articles suivants vous aideront peut-être :
 
-- [Trucs et astuces pour l'importation Excel](https://seatable.io/fr/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limites de l'importation Excel](https://seatable.io/fr/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Trucs et astuces pour l'importation Excel]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limites de l'importation Excel]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

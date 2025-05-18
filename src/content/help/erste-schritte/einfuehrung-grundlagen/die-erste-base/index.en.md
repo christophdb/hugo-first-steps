@@ -12,7 +12,7 @@ In SeaTable you organize your data in [bases]({{< relref "help/startseite/bases/
 
 You can also [share]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) with other team members or [invite](https://seatable.io/en/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) external third parties to work on them together.
 
-SeaTable maintains a [history](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) for each base in the background, allowing you to undo changes and restore previous states if you need to.
+SeaTable maintains a [history]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) for each base in the background, allowing you to undo changes and restore previous states if you need to.
 
 ## The home page
 

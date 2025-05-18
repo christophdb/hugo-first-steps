@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-sql-abfrage-plugin'
 
 The SQL query plugin is perfectly suited for the direct **execution of SQL commands** and is therefore primarily interesting for users who already have experience with databases.
 
-A big advantage of the plugin is that it accesses both the normal backend and the [Big Data backend](https://seatable.io/en/docs/big-data/potenzial-big-data/) in the course of the database query.
+A big advantage of the plugin is that it accesses both the normal backend and the [Big Data backend]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) in the course of the database query.
 
 {{< warning  headline="Especially helpful with large amounts of data"  text="Direct access to the SeaTable data via SQL command makes little sense for small amounts of data. The possibilities to create a view and set appropriate filters, sorts and groupings will get most users to their goal faster. The SQL query is especially relevant for large data sets and you should already be familiar with SQL syntax." />}}
 
@@ -44,7 +44,7 @@ Using the **Export to new table** function you can export the found data to a ne
 DELETE FROM Time
 ```
 
-After entering the command, **all** entries are deleted from the **Time** table. However, you can restore the rows via the [base log](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/#base-log).
+After entering the command, **all** entries are deleted from the **Time** table. However, you can restore the rows via the [base log]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}#base-log).
 
 ![Entering the DELETE SQL command to delete table data.](images/query-delete-from-table.png)
 

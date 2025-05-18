@@ -28,7 +28,7 @@ SeaTable dispose d'un puissant [système d'importation de données](https://seat
 
 ## Inscriptions par automation
 
-Grâce aux [automatisations](https://seatable.io/fr/docs/automationen/uebersicht-ueber-automationen/), vous ne devez plus ajouter manuellement des entrées dans vos tableaux, mais vous pouvez les créer automatiquement lorsqu'un événement déclencheur défini au préalable se produit. Vous trouverez plus d'informations à ce sujet dans ces articles :
+Grâce aux [automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), vous ne devez plus ajouter manuellement des entrées dans vos tableaux, mais vous pouvez les créer automatiquement lorsqu'un événement déclencheur défini au préalable se produit. Vous trouverez plus d'informations à ce sujet dans ces articles :
 
 - [Ajouter des lignes par automatisation](https://seatable.io/fr/docs/beispiel-automationen/zeilen-per-automation-hinzufuegen/)
 - [Ajouter des entrées dans d'autres tableaux par automatisation](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/)

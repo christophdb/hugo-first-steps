@@ -12,7 +12,11 @@ url: '/pt/ajuda/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 Por predefinição, o SeaTable permite o armazenamento de **até 100 000 linhas** numa base. Se pretender importar conjuntos de dados ainda maiores para o SeaTable, pode utilizar o **armazenamento** de grandes volumes de dados. Aqui pode descobrir como importar um **ficheiro XLSX** para o armazenamento de grandes volumes de dados.
 
-{{< warning  headline="Pré-requisito"  text="É necessária uma **vista** especial de grandes volumes de dados para importar mais de 100 000 linhas para o SeaTable. Só é possível criá-la se [já tiver ativado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) de grandes volumes de dados na base." />}}
+{{< warning  headline="Pré-requisito" >}}
+
+É necessária uma **vista** especial de grandes volumes de dados para importar mais de 100 000 linhas para o SeaTable. Só é possível criá-la se [já tiver ativado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) de grandes volumes de dados na base.
+
+{{< /warning >}}
 
 ## Preparativos para a importação
 
@@ -24,7 +28,7 @@ Por predefinição, o SeaTable permite o armazenamento de **até 100 000 linhas*
 
 ![Importar tabela do Excel para a visualização de Big Data](images/Excel-Tabelle-in-Big-Data-Ansicht-importieren.gif)
 
-1. [Criar uma vista de grandes](https://seatable.io/pt/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) volumes de dados ou mudar para uma vista de grandes volumes de dados existente.
+1. [Criar uma vista de grandes]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) volumes de dados ou mudar para uma vista de grandes volumes de dados existente.
 2. Clique nos **três pontos** nas opções de visualização.
 3. Seleccione a opção **Importar do ficheiro XLSX para o armazenamento de Grandes Dados**.
 4. Na vista geral dos ficheiros que se abre, procure o **ficheiro XLSX** pretendido **no seu dispositivo**.

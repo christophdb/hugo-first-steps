@@ -190,7 +190,7 @@ url: '/ru/help/uebersicht-alle-spaltentypen'
 
 SeaTable автоматически документирует **имя пользователя**, создавшего строку, в колонке "Создатель".
 
-[Подробнее о колонке создателя](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[Подробнее о колонке создателя]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Дата создания
 
@@ -198,7 +198,7 @@ SeaTable автоматически документирует **имя поль
 
 SeaTable автоматически документирует **дату и время создания строки** в колонке "Дата создания". Дата и время отображаются в формате ГГГГ-ММ-ДД ЧЧ:ММ.
 
-[Подробнее о колонке Дата создания](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/)
+[Подробнее о колонке Дата создания]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Последний редактор
 
@@ -214,7 +214,7 @@ SeaTable автоматически документирует **имя поль
 
 SeaTable документирует **дату и время последнего изменения записи в** колонке Edit Date. Дата и время отображаются в формате ГГГГ-ММ-ДД ЧЧ:ММ. Поскольку колонка автоматически фиксирует изменения записей, она хорошо подходит в качестве триггера для автоматических операций, а также для фильтров и сортировок.
 
-[Подробнее о колонке "Дата обработки](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)
+[Подробнее о колонке "Дата обработки]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Автоматический номер
 

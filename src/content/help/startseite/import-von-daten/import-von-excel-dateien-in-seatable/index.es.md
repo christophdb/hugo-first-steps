@@ -86,11 +86,11 @@ SeaTable intenta determinar el tipo de columna automáticamente en base a los va
 
 ## Importar un archivo XLSX al almacén de Big Data
 
-Por defecto, SeaTable permite almacenar **hasta 100.000 filas**, mientras que la función de importación admite un máximo de 50.000 filas en una hoja de cálculo Excel. Si desea importar conjuntos de datos aún mayores en SeaTable, puede utilizar el almacenamiento **de** big data. [Aquí](https://seatable.io/es/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/) puede averiguar cómo importar un **archivo XLSX al** almacenamiento de big data.
+Por defecto, SeaTable permite almacenar **hasta 100.000 filas**, mientras que la función de importación admite un máximo de 50.000 filas en una hoja de cálculo Excel. Si desea importar conjuntos de datos aún mayores en SeaTable, puede utilizar el almacenamiento **de** big data. [Aquí]({{< relref "help/base-editor/big-data/eine-excel-tabelle-ins-big-data-backend-importieren" >}}) puede averiguar cómo importar un **archivo XLSX al** almacenamiento de big data.
 
 ## Más artículos útiles sobre la importación de datos
 
 Al importar datos, puede encontrar dificultades en función de la forma del fichero de origen. Si algo no funciona, los siguientes artículos pueden ayudarle:
 
-- [Consejos y trucos para la importación en Excel](https://seatable.io/es/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limitaciones de la importación de Excel](https://seatable.io/es/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Consejos y trucos para la importación en Excel]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limitaciones de la importación de Excel]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

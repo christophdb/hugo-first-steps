@@ -14,9 +14,9 @@ Dans le nuage SeaTable, il n'est **actuellement pas prévu de changer d'adresse 
 
 Si vous êtes l'**administrateur** ou la seule personne de votre équipe, le changement d'adresse e-mail est très simple. **Exportez** toutes vos bases déjà existantes sous forme de **fichiers DTABLE**, créez le **nouveau compte avec une nouvelle adresse e-mail**, importez toutes les bases dans le nouveau compte et supprimez votre **ancien compte**. Vous trouverez ici les articles d'aide correspondants :
 
-- [Exporter une base en tant que fichier DTABLE](https://seatable.io/fr/docs/import-von-daten/speichern-einer-base-als-dtable-datei/)
+- [Exporter une base en tant que fichier DTABLE]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
 - [Inscription](https://seatable.io/fr/docs/erste-schritte/seatable-konto-erstellen/)
-- [Création d'une base à partir d'un fichier DTABLE](https://seatable.io/fr/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Création d'une base à partir d'un fichier DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Supprimer l'équipe complète](https://seatable.io/fr/docs/teamverwaltung/das-komplette-team-loeschen/)
 
 ## Migration au sein d'une équipe vers une nouvelle adresse e-mail

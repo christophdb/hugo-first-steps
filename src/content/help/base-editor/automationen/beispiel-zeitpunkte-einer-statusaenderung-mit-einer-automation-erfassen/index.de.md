@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 ---
 
-Mithilfe von [Automationen](https://seatable.io/docs/automationen/uebersicht-ueber-automationen/) müssen Sie die Zeitpunkte einer Statusänderung nicht mehr **manuell** erfassen, sondern können dies **automatisch** von SeaTable übernehmen lassen.
+Mithilfe von [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) müssen Sie die Zeitpunkte einer Statusänderung nicht mehr **manuell** erfassen, sondern können dies **automatisch** von SeaTable übernehmen lassen.
 
 ## Zeitpunkte von Statusänderungen per Automation erfassen
 

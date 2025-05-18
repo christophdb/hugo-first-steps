@@ -12,7 +12,11 @@ url: '/ru/help/zeilen-ins-big-data-backend-verschieben'
 
 Вы можете создавать **новые строки** только в **обычных представлениях** SeaTable. Затем вы должны вручную переместить нужные строки в память больших данных.
 
-{{< warning  headline="Пререквизиты"  text="Вы можете перемещать строки в память больших данных только в том случае, если вы [уже активировали память больших данных]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) в базе." />}}
+{{< warning  headline="Пререквизиты" >}}
+
+Вы можете перемещать строки в память больших данных только в том случае, если вы [уже активировали память больших данных]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) в базе.
+
+{{< /warning >}}
 
 ## Переместите строки в память больших данных
 
@@ -22,9 +26,13 @@ url: '/ru/help/zeilen-ins-big-data-backend-verschieben'
 2. Выберите опцию **Просмотр архива**.
 3. **Подтвердите** перемещение всех видимых строк в хранилище больших данных.
 
-{{< warning  headline="Совет"  text="Например, если необходимо **архивировать старые записи**, можно предварительно отфильтровать представление с помощью типов колонок [Создано](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/) или [Последнее редактирование](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)." />}}
+{{< warning  headline="Совет" >}}
 
-Затем строки переносятся в память больших данных. В результате они больше не видны в обычном представлении. [Создайте представление больших данных](https://seatable.io/ru/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) для отображения данных в хранилище больших данных.
+Например, если необходимо **архивировать старые записи**, можно предварительно отфильтровать представление с помощью типов колонок [Создано]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) или [Последнее редактирование]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
+
+{{< /warning >}}
+
+Затем строки переносятся в память больших данных. В результате они больше не видны в обычном представлении. [Создайте представление больших данных]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) для отображения данных в хранилище больших данных.
 
 ## Как распознать, находятся ли данные в хранилище больших данных или нет?
 
@@ -33,8 +41,8 @@ url: '/ru/help/zeilen-ins-big-data-backend-verschieben'
 **Полезно знать:**
 
 - При [обычном просмотре]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) **ни одна строка из памяти больших данных не** отображается.
-- В [представлении больших данных](https://seatable.io/ru/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) можно отобразить **все строки**, независимо от того, где они сохранены в данный момент.
+- В [представлении больших данных]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) можно отобразить **все строки**, независимо от того, где они сохранены в данный момент.
 
 ## Извлечение записей из памяти больших данных
 
-О том, как извлекать записи из памяти больших данных, вы узнаете из [этой статьи](https://seatable.io/ru/docs/big-data/zeilen-aus-dem-big-data-backend-zurueckholen/).
+О том, как извлекать записи из памяти больших данных, вы узнаете из [этой статьи]({{< relref "help/base-editor/big-data/zeilen-aus-dem-big-data-backend-zurueckholen" >}}).

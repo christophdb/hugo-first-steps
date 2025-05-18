@@ -24,7 +24,7 @@ Depois de [ter ativado]({{< relref "help/base-editor/big-data/aktivieren-des-big
 
 ## Vistas separadas para as duas memórias
 
-Como já foi referido, o armazenamento de grandes volumes de dados deve ser ativado numa base. Em seguida, é possível criar uma nova visão com a qual é possível acessar as entradas no big data storage. Mais detalhes sobre esta **visão** de big **data** podem ser encontrados [neste artigo de ajuda](https://seatable.io/pt/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/).
+Como já foi referido, o armazenamento de grandes volumes de dados deve ser ativado numa base. Em seguida, é possível criar uma nova visão com a qual é possível acessar as entradas no big data storage. Mais detalhes sobre esta **visão** de big **data** podem ser encontrados [neste artigo de ajuda]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}).
 
 ## Possibilidades infinitas
 

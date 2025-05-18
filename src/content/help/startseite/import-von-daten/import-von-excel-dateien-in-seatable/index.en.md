@@ -86,11 +86,11 @@ SeaTable tries to determine the column type automatically based on the values in
 
 ## Importing an XLSX file into the Big Data store
 
-By default, SeaTable allows the storage of up to **100,000 rows**, whereby the import function supports a maximum of 50,000 rows in an Excel spreadsheet. If you want to import even larger data sets into SeaTable, you can use the **big data storage**. [Here](https://seatable.io/en/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/) you can find out how to import an **XLSX file into the** Big Data store.
+By default, SeaTable allows the storage of up to **100,000 rows**, whereby the import function supports a maximum of 50,000 rows in an Excel spreadsheet. If you want to import even larger data sets into SeaTable, you can use the **big data storage**. [Here]({{< relref "help/base-editor/big-data/eine-excel-tabelle-ins-big-data-backend-importieren" >}}) you can find out how to import an **XLSX file into the** Big Data store.
 
 ## More helpful articles about importing data
 
 Depending on the form of the source file, you may encounter difficulties when importing data. If something does not work, the following articles may help you:
 
-- [Excel import tips and tricks](https://seatable.io/en/docs/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien/)
-- [Limitations of Excel import](https://seatable.io/en/docs/import-von-daten/limitationen-beim-csv-excel-import/)
+- [Excel import tips and tricks]({{< relref "help/startseite/import-von-daten/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien" >}})
+- [Limitations of Excel import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}})

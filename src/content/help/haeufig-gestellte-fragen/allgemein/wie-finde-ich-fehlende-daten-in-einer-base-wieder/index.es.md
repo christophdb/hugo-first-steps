@@ -12,7 +12,7 @@ url: '/es/ayuda/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 
 Compruebe primero si hay un [filtro]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}). Estos datos **no** se **borran**, **sólo se ocultan**.
 
-Si este no es el caso, mira el [registro de actividad](https://seatable.io/es/docs/historie-und-versionen/historie-und-logs/) en tu página de inicio. Allí puedes ver los datos modificados y eliminados de los últimos 7 días en todas tus bases.
+Si este no es el caso, mira el [registro de actividad]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) en tu página de inicio. Allí puedes ver los datos modificados y eliminados de los últimos 7 días en todas tus bases.
 
 Si usted o los miembros de su equipo han borrado accidentalmente ciertos elementos en SeaTable, puede restaurarlos de varias maneras.
 

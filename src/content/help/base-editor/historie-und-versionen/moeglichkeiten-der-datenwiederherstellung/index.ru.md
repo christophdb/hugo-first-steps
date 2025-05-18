@@ -63,4 +63,4 @@ SeaTable регистрирует все действия в пределах б
 
 Вы можете в любой момент экспортировать базу в файл DTABLE и таким образом сохранить на своем устройстве полную резервную копию. Прочитайте статью [Сохранение базы в виде файла DTABLE](https://seatable.io/ru/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/), чтобы узнать, как это сделать и что следует иметь в виду.
 
-Как импортировать такой файл обратно в SeaTable, объясняется в статье [Создание базы из файла DTABLE](https://seatable.io/ru/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/).
+Как импортировать такой файл обратно в SeaTable, объясняется в статье [Создание базы из файла DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

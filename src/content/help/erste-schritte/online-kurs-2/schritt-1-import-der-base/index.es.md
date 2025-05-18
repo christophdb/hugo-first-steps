@@ -112,7 +112,7 @@ Tómese el tiempo suficiente para explorar la base en detalle. Si aún no está 
 
 ## Artículo de ayuda con más información
 
-- [Creación de una base a partir de un archivo DTABLE](https://seatable.io/es/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Creación de una base a partir de un archivo DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Fórmulas básicas de SeaTable](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/)
 - [Codificación por colores de las líneas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Vistas de la cerradura](https://seatable.io/es/docs/ansichtsoptionen/ansicht-sperren/)

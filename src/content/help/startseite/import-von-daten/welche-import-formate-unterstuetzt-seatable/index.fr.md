@@ -16,13 +16,13 @@ En outre, SeaTable dispose d'un puissant système d'importation de données. Cel
 
 CSV est un format d'échange de données très répandu, qui représente souvent le plus petit dénominateur commun entre deux produits logiciels. En raison de sa structure simple, vous gardez le contrôle total de vos données, mais vous pouvez importer **au maximum une table** ou une base à la fois.
 
-[Apprenez-en plus sur l'importation de données avec CSV ici.](https://seatable.io/fr/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/)
+[Apprenez-en plus sur l'importation de données avec CSV ici.]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
 
 ## Importation de données depuis Excel
 
 Lorsqu'il s'agit de travailler avec des données, Excel est bien sûr incontournable. SeaTable prend en charge l'importation du nouveau _format de fichier_ _XLSX_ ainsi que de l'ancien _format XLS_. Les fichiers Excel permettent également d'importer simultanément **plusieurs tableaux** ou feuilles de calcul dans une base SeaTable. SeaTable convertit chaque feuille de calcul d'Excel en un tableau.
 
-[Apprenez tout sur l'importation de fichiers Excel.](https://seatable.io/fr/docs/import-von-daten/import-von-excel-dateien-in-seatable/)
+[Apprenez tout sur l'importation de fichiers Excel.]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 
 ## Importation de données à partir de Microsoft Access
 
@@ -40,4 +40,4 @@ Vous pouvez également importer des données de Google Sheets dans SeaTable.
 
 Vous pouvez exporter les bases SeaTable au [format de fichier DTABLE](https://seatable.io/fr/docs/expertenwissen/dtable-dateiformat/) - et avec un tel fichier DTABLE, vous pouvez bien sûr recréer une base dans SeaTable.
 
-[En savoir plus sur l'importation de données avec DTABLE.](https://seatable.io/fr/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+[En savoir plus sur l'importation de données avec DTABLE.]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

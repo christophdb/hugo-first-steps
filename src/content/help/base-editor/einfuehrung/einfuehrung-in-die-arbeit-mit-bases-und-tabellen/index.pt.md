@@ -24,7 +24,7 @@ Se estiver familiarizado com a criação das suas próprias tabelas, colunas e v
 
 - [Criação de uma base utilizando um modelo](https://seatable.io/pt/docs/bases-verwalten/anlegen-einer-base-mithilfe-einer-vorlage/)
 - [Criar uma nova base](https://seatable.io/pt/docs/bases-verwalten/eine-neue-base-erstellen/)
-- [Importar ficheiros Excel para o SeaTable](https://seatable.io/pt/docs/import-von-daten/import-von-excel-dateien-in-seatable/)
+- [Importar ficheiros Excel para o SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 - [Duplicar uma base existente](https://seatable.io/pt/docs/bases-verwalten/duplizieren-einer-bestehenden-base/)
 
 ## Gerir bases

@@ -29,7 +29,7 @@ Folgende Seitenberechtigungen können Sie einstellen:
 - Wer darf Zeilen löschen?
 - Wer kann die Seite sehen?
 
-Nicht alle Seitenberechtigungen sind für alle [Seitentypen](https://seatable.io/docs/universelle-apps/seitentypen-in-der-universellen-app/) verfügbar. Zum Beispiel gibt es auf individuellen Seiten nur die Berechtigung _Wer kann die Seite sehen?_, weil Nutzer dort generell keine Einträge hinzufügen, bearbeiten oder löschen können.
+Nicht alle Seitenberechtigungen sind für alle [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) verfügbar. Zum Beispiel gibt es auf individuellen Seiten nur die Berechtigung _Wer kann die Seite sehen?_, weil Nutzer dort generell keine Einträge hinzufügen, bearbeiten oder löschen können.
 
 ## Welche Nutzergruppen Sie berechtigen können
 

@@ -24,7 +24,7 @@ Sobald Sie den [Big-Data-Speicher aktiviert haben]({{< relref "help/base-editor/
 
 ## Separate Ansichten für die beiden Speicher
 
-Wie bereits erwähnt, muss der Big-Data-Speicher in einer Base aktiviert werden. Anschließend können Sie eine neue Ansicht anlegen, mit der Sie auf die Einträge im Big-Data-Speicher zugreifen können. Weitere Details zu dieser **Big-Data-Ansicht** finden Sie [in diesem Hilfeartikel](https://seatable.io/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/).
+Wie bereits erwähnt, muss der Big-Data-Speicher in einer Base aktiviert werden. Anschließend können Sie eine neue Ansicht anlegen, mit der Sie auf die Einträge im Big-Data-Speicher zugreifen können. Weitere Details zu dieser **Big-Data-Ansicht** finden Sie [in diesem Hilfeartikel]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}).
 
 ## Unendliche Möglichkeiten
 

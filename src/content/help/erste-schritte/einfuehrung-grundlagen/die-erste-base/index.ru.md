@@ -12,7 +12,7 @@ url: '/ru/help/die-erste-base'
 
 Вы также можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) с другими членами команды или [пригласить](https://seatable.io/ru/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) внешних третьих лиц для совместной работы над ними.
 
-SeaTable ведет [историю](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/) для каждой базы в фоновом режиме, позволяя вам отменить изменения и восстановить предыдущие состояния, если это необходимо.
+SeaTable ведет [историю]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) для каждой базы в фоновом режиме, позволяя вам отменить изменения и восстановить предыдущие состояния, если это необходимо.
 
 ## Главная страница
 

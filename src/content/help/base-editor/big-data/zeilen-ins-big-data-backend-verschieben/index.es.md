@@ -12,7 +12,11 @@ url: '/es/ayuda/zeilen-ins-big-data-backend-verschieben'
 
 Sólo se pueden crear **nuevas filas** en **las vistas normales** de SeaTable. A continuación, debe mover manualmente las filas deseadas a la memoria de big data.
 
-{{< warning  headline="Requisito previo"  text="Sólo puede mover filas a la memoria [de big]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) data dentro de la base." />}}
+{{< warning  headline="Requisito previo" >}}
+
+Sólo puede mover filas a la memoria [de big]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) data dentro de la base.
+
+{{< /warning >}}
 
 ## Mover filas a la memoria de big data
 
@@ -22,9 +26,13 @@ Sólo se pueden crear **nuevas filas** en **las vistas normales** de SeaTable. A
 2. Seleccione la opción **Vista de archivo**.
 3. **Confirme** el traslado de todas las filas visibles al almacenamiento de big data.
 
-{{< warning  headline="Consejo"  text="Por ejemplo, si desea **archivar entradas antiguas**, puede filtrar previamente la vista con los tipos de columna [Creado](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstelldatum/) o [Último editado](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum/)." />}}
+{{< warning  headline="Consejo" >}}
 
-A continuación, las filas se transfieren a la memoria de big data. Como resultado, ya no son visibles en la vista normal. [Cree una](https://seatable.io/es/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) vista de big data para mostrar los datos en la memoria de big data.
+Por ejemplo, si desea **archivar entradas antiguas**, puede filtrar previamente la vista con los tipos de columna [Creado]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) o [Último editado]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
+
+{{< /warning >}}
+
+A continuación, las filas se transfieren a la memoria de big data. Como resultado, ya no son visibles en la vista normal. [Cree una]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) vista de big data para mostrar los datos en la memoria de big data.
 
 ## ¿Cómo reconocer si los datos están almacenados en big data o no?
 
@@ -33,8 +41,8 @@ Las filas almacenadas en la memoria de big data tienen un pequeño **triángulo 
 **Es bueno saberlo:**
 
 - En una [vista normal]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}), **no** se muestra ninguna **fila de la memoria de big data**.
-- En una [vista de big](https://seatable.io/es/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) data, se pueden mostrar **todas las filas**, independientemente de dónde estén guardadas en ese momento.
+- En una [vista de big]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) data, se pueden mostrar **todas las filas**, independientemente de dónde estén guardadas en ese momento.
 
 ## Recuperar entradas de la memoria de big data
 
-[En este](https://seatable.io/es/docs/big-data/zeilen-aus-dem-big-data-backend-zurueckholen/) artículo se explica cómo recuperar entradas de la memoria de big data.
+[En este]({{< relref "help/base-editor/big-data/zeilen-aus-dem-big-data-backend-zurueckholen" >}}) artículo se explica cómo recuperar entradas de la memoria de big data.

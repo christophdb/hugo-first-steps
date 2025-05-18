@@ -12,7 +12,11 @@ url: '/fr/aide/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 Par défaut, SeaTable permet de stocker **jusqu'à 100 000 lignes** dans une base. Si vous souhaitez importer des ensembles de données encore plus importants dans SeaTable, vous pouvez utiliser le **stockage de données volumineuses**. Cliquez ici pour savoir comment importer un **fichier XLSX** dans la mémoire Big Data.
 
-{{< warning  headline="Condition préalable"  text="Une **vue** spéciale **Big Data** est nécessaire pour importer plus de 100.000 lignes dans SeaTable. Vous ne pouvez la créer que si vous [avez déjà activé]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) au sein de la base." />}}
+{{< warning  headline="Condition préalable" >}}
+
+Une **vue** spéciale **Big Data** est nécessaire pour importer plus de 100.000 lignes dans SeaTable. Vous ne pouvez la créer que si vous [avez déjà activé]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) au sein de la base.
+
+{{< /warning >}}
 
 ## Préparatifs pour l'importation
 
@@ -24,7 +28,7 @@ Par défaut, SeaTable permet de stocker **jusqu'à 100 000 lignes** dans une bas
 
 ![Importer une feuille de calcul Excel dans une vue Big Data](images/Excel-Tabelle-in-Big-Data-Ansicht-importieren.gif)
 
-1. [Créez une vue Big Data](https://seatable.io/fr/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) ou passez à une vue Big Data existante.
+1. [Créez une vue Big Data]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) ou passez à une vue Big Data existante.
 2. Cliquez sur les **trois points** dans les options d'affichage.
 3. Sélectionnez l'option **Importer du fichier XLSX dans le stockage Big Data**.
 4. Dans l'aperçu des fichiers qui s'ouvre, recherchez le **fichier XLSX** souhaité **sur votre appareil**.

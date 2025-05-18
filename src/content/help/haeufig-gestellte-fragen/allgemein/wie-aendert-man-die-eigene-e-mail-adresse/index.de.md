@@ -14,9 +14,9 @@ In der SeaTable Cloud ist ein **Wechsel der eigenen E-Mail-Adresse aktuell nicht
 
 Wenn Sie der **Administrator** oder die einzige Person in Ihrem Team sind, ist der Wechsel Ihrer E-Mail-Adresse denkbar einfach. **Exportieren** Sie alle Ihre bereits existierenden Bases als **DTABLE-Dateien**, legen Sie den **neuen Account mit einer neuen E-Mail-Adresse** an, importieren Sie alle Bases in den neuen Account und löschen Sie Ihren **alten Account**. Hier finden Sie die passenden Hilfeartikel dazu:
 
-- [Exportieren einer Base als DTABLE-Datei](https://seatable.io/docs/import-von-daten/speichern-einer-base-als-dtable-datei/)
+- [Exportieren einer Base als DTABLE-Datei]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
 - [Registrierung](https://seatable.io/docs/erste-schritte/seatable-konto-erstellen/)
-- [Erstellen einer Base aus einer DTABLE-Datei](https://seatable.io/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Erstellen einer Base aus einer DTABLE-Datei]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Das komplette Team löschen](https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/)
 
 ## Migration innerhalb eines Teams auf eine neue E-Mail-Adresse

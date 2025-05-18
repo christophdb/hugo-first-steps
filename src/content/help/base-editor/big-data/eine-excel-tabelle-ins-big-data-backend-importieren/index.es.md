@@ -12,7 +12,11 @@ url: '/es/ayuda/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 Por defecto, SeaTable permite almacenar **hasta 100.000 filas** en una base. Si desea importar conjuntos de datos aún mayores en SeaTable, puede utilizar el almacenamiento **de** big data. Aquí puede averiguar cómo importar un **archivo XLSX** al almacenamiento de big data.
 
-{{< warning  headline="Requisito previo"  text="Se necesita una **vista** especial de big data para importar más de 100.000 filas a SeaTable. Solo puede crearla si [ya ha activado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) big data dentro de la base." />}}
+{{< warning  headline="Requisito previo" >}}
+
+Se necesita una **vista** especial de big data para importar más de 100.000 filas a SeaTable. Solo puede crearla si [ya ha activado]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) big data dentro de la base.
+
+{{< /warning >}}
 
 ## Preparativos para la importación
 
@@ -24,7 +28,7 @@ Por defecto, SeaTable permite almacenar **hasta 100.000 filas** en una base. Si 
 
 ![Importar tabla de Excel a la vista de Big Data](images/Excel-Tabelle-in-Big-Data-Ansicht-importieren.gif)
 
-1. [Cree una vista de big data](https://seatable.io/es/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) o cambie a una vista de big data existente.
+1. [Cree una vista de big data]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}) o cambie a una vista de big data existente.
 2. Haga clic en los **tres puntos** de las opciones de visualización.
 3. Seleccione la opción **Importar desde archivo XLSX a almacenamiento Big Data**.
 4. En la vista general de archivos que se abre, busca el **archivo XLSX deseado en tu dispositivo**.

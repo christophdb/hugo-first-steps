@@ -33,5 +33,5 @@ Si quieres transferir una de tus bases a un **usuario de otro equipo**, _no_ con
 
 Sólo hay una manera de transferir una base a otro servidor SeaTable. **Exporte** la base como un **archivo DTABLE** y envíelo al destinatario. El destinatario puede entonces importar el archivo a su sistema SeaTable y continuar trabajando con su base.
 
-- [Exportación de una base como archivo DTABLE](https://seatable.io/es/docs/import-von-daten/speichern-einer-base-als-dtable-datei/)
-- [Creación de una base a partir de un archivo DTABLE](https://seatable.io/es/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Exportación de una base como archivo DTABLE]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
+- [Creación de una base a partir de un archivo DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

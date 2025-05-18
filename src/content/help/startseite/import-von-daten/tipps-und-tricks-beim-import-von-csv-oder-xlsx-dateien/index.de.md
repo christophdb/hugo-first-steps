@@ -38,7 +38,7 @@ Versuchen Sie deshalb, wann immer es möglich ist, den Import in **kleinere Date
 
 ## Stellen Sie die Datenqualität sicher
 
-Die **Aufbereitung der Daten** ist für einen reibungslosen Import essenziell. Bevor Sie CSV- oder XLSX-Dateien in eine Base importieren, sollten Sie stets sicherstellen, dass die Daten bereinigt sind und die Anforderungen zum Import erfüllen. Welche **Limitationen** es bezüglich der Daten beim CSV- bzw. Excel-Import gibt, können Sie im entsprechenden Hilfe-Artikel [Limitationen beim CSV/Excel-Import](https://seatable.io/docs/import-von-daten/limitationen-beim-csv-excel-import/) nachlesen.
+Die **Aufbereitung der Daten** ist für einen reibungslosen Import essenziell. Bevor Sie CSV- oder XLSX-Dateien in eine Base importieren, sollten Sie stets sicherstellen, dass die Daten bereinigt sind und die Anforderungen zum Import erfüllen. Welche **Limitationen** es bezüglich der Daten beim CSV- bzw. Excel-Import gibt, können Sie im entsprechenden Hilfe-Artikel [Limitationen beim CSV/Excel-Import]({{< relref "help/startseite/import-von-daten/limitationen-beim-csv-excel-import" >}}) nachlesen.
 
 ## Kontrollieren Sie den Import
 

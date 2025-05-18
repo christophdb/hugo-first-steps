@@ -14,9 +14,9 @@ url: '/es/ayuda/wie-aendert-man-die-eigene-e-mail-adresse'
 
 Si eres el **administrador** o la única persona de tu equipo, cambiar tu dirección de correo electrónico es muy fácil. **Exporte** todas sus bases existentes como **archivos DTABLE**, cree la **nueva cuenta con una nueva dirección de correo electrónico**, importe todas las bases a la nueva cuenta y elimine su **antigua cuenta**. Aquí encontrarás los artículos de ayuda correspondientes:
 
-- [Exportación de una base como archivo DTABLE](https://seatable.io/es/docs/import-von-daten/speichern-einer-base-als-dtable-datei/)
+- [Exportación de una base como archivo DTABLE]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
 - [Registro](https://seatable.io/es/docs/erste-schritte/seatable-konto-erstellen/)
-- [Creación de una base a partir de un archivo DTABLE](https://seatable.io/es/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Creación de una base a partir de un archivo DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Eliminar el equipo completo](https://seatable.io/es/docs/teamverwaltung/das-komplette-team-loeschen/)
 
 ## Migración dentro de un equipo a una nueva dirección de correo electrónico

@@ -14,9 +14,9 @@ url: '/ru/help/wie-aendert-man-die-eigene-e-mail-adresse'
 
 Если вы являетесь **администратором** или единственным человеком в вашей команде, изменить адрес электронной почты очень просто. **Экспортируйте** все существующие базы в виде **файлов DTABLE**, создайте **новый аккаунт с новым адресом электронной почты**, импортируйте все базы в новый аккаунт и удалите **старый аккаунт**. Здесь вы найдете соответствующие справочные статьи:
 
-- [Экспорт базы в файл DTABLE](https://seatable.io/ru/docs/import-von-daten/speichern-einer-base-als-dtable-datei/)
+- [Экспорт базы в файл DTABLE]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
 - [Регистрация](https://seatable.io/ru/docs/erste-schritte/seatable-konto-erstellen/)
-- [Создание базы из файла DTABLE](https://seatable.io/ru/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
+- [Создание базы из файла DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Удалить всю команду](https://seatable.io/ru/docs/teamverwaltung/das-komplette-team-loeschen/)
 
 ## Миграция внутри команды на новый адрес электронной почты

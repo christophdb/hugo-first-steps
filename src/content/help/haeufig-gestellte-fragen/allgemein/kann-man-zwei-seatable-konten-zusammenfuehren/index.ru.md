@@ -17,7 +17,7 @@ url: '/ru/help/kann-man-zwei-seatable-konten-zusammenfuehren'
 1. [Экспортируйте все базы](https://seatable.io/ru/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/), которые вы хотите перенести в новую команду.
 2. [Удаление члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) или [всей команды](https://seatable.io/ru/docs/teamverwaltung/das-komplette-team-loeschen/) через администрацию команды.
 3. Создайте [нового члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/) в другой команде.
-4. [Импортируйте](https://seatable.io/ru/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/) ранее экспортированные базы.
+4. [Импортируйте]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) ранее экспортированные базы.
 
 ## Деактивировать недостаточно
 

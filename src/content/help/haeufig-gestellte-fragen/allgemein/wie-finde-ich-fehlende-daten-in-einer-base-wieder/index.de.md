@@ -12,7 +12,7 @@ Sie wissen nicht, wieso Daten in einer Base fehlen, und vermuten, dass sie abhan
 
 Prüfen Sie zunächst, ob in Ihrer aktuellen Ansicht ein [Filter]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) sind. Diese Daten sind **nicht gelöscht**, sondern **nur versteckt**.
 
-Sollte dies nicht der Fall sein, schauen Sie als Nächstes in das [Aktivitätenprotokoll](https://seatable.io/docs/historie-und-versionen/historie-und-logs/) auf Ihrer Startseite. Dort können Sie geänderte und gelöschte Daten der letzten 7 Tage über alle Ihre Bases hinweg einsehen.
+Sollte dies nicht der Fall sein, schauen Sie als Nächstes in das [Aktivitätenprotokoll]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) auf Ihrer Startseite. Dort können Sie geänderte und gelöschte Daten der letzten 7 Tage über alle Ihre Bases hinweg einsehen.
 
 Falls Sie oder Ihre Teammitglieder bestimmte Elemente in SeaTable aus Versehen gelöscht haben, können Sie diese auf verschiedenen Wegen wiederherstellen.
 
