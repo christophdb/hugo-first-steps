@@ -12,7 +12,7 @@ url: '/ru/help/datenverarbeitungsoperation-per-automation-ausfuehren'
 
 ## Выполнить операцию обработки данных с помощью автоматизации
 
-![Выполнять операции по обработке данных с помощью автоматизации](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Выполнять операции по обработке данных с помощью автоматизации](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}} в заголовке Base, а затем на **Automation Rules**.
 2. Нажмите кнопку **Добавить правило**.

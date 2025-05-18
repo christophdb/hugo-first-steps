@@ -12,7 +12,7 @@ Tiene la opción de imprimir detalles **de fila** similares a [las](https://seat
 
 ## Para imprimir líneas
 
-![Imprime los detalles de la fila.](https://seatable.io/wp-content/uploads/2022/11/Drucken-von-Zeilendetails.gif)
+![Imprime los detalles de la fila.](images/Drucken-von-Zeilendetails.gif)
 
 1. Mueva el ratón hasta la numeración del **principio de la línea** que desea imprimir.
 2. Haga clic en el **icono de doble flecha** para abrir **los detalles de la fila**.
@@ -29,8 +29,8 @@ También puede imprimir una línea abriendo los detalles de la línea y utilizan
 Los tipos de impresión **Normal** y **Compacto** difieren tanto en el tamaño del archivo como en la **presentación**.
 
 - El **Presión normal** tiene un aspecto muy similar a la visualización habitual de los detalles de las filas: se ven las entradas como cabría esperar.  
-   ![Presión normal.](https://seatable.io/wp-content/uploads/2022/11/Normaler-Druck-1.png)
+   ![Presión normal.](images/Normaler-Druck-1.png)
 - El **Presión compacta** reduce el espacio en blanco y empaqueta toda la información en una estructura de tablas.  
-   ![Impresión compacta.](https://seatable.io/wp-content/uploads/2022/11/Kompakter-Druck-1.png)
+   ![Impresión compacta.](images/Kompakter-Druck-1.png)
 
 {{< warning  headline="Nota"  text="Normalmente hay una opción de _Imprimir como PDF_ en los PC. SeaTable en sí **no ofrece una descarga** como PDF." />}}

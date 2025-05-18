@@ -10,7 +10,7 @@ url: '/ru/help/spaltenhoehe-verdoppeln'
 
 Удвойте **высоту заголовка таблицы**, чтобы иметь возможность полностью прочитать длинные имена столбцов.
 
-![Двойная высота колонны](https://seatable.io/wp-content/uploads/2022/11/Spaltenhoehe-verdoppeln.gif)
+![Двойная высота колонны](images/Spaltenhoehe-verdoppeln.gif)
 
 1. Нажмите на **символ шестеренки** {{< seatable-icon icon="dtable-icon-set-up" >}} в крайнем правом углу заголовка таблицы.
 2. Выберите опцию **Установить высоту заголовка таблицы**.

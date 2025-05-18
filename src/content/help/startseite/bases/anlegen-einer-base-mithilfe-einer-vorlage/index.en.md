@@ -12,7 +12,7 @@ If you are still undecided about the design of your base or just looking for new
 
 ## Creating a Base Using a Template
 
-![Create a Base from a Template](https://seatable.io/wp-content/uploads/2022/12/Eine-Base-aus-einer-Vorlage-erstellen.png)
+![Create a Base from a Template](images/Eine-Base-aus-einer-Vorlage-erstellen.png)
 
 1. Switch to the SeaTable **home** page.
 2. Depending on whether you want to create a base under _My Bases_ or in one of your groups, click **Add a base or folder** in the corresponding area.

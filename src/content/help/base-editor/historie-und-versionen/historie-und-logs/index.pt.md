@@ -68,7 +68,7 @@ Pode ver todas as alterações feitas numa linha no chamado **registo de linha**
 
 O **registo de linha** permite ver quando é que o utilizador fez que alteração ao registo numa **linha**. Se quiser ver todas as alterações numa base, deve utilizar o **registo de base**.
 
-![Exibição das alterações numa linha por registos.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
+![Exibição das alterações numa linha por registos.](images/Logs.png)
 
 Se precisar de mais informações sobre o registo de linha, por favor consulte o [artigo de ajuda]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) correspondente.
 
@@ -76,11 +76,11 @@ Se precisar de mais informações sobre o registo de linha, por favor consulte o
 
 Para verificar a correcta execução de uma **automatização**, tem a possibilidade de visualizar o **registo de execução**, ao qual pode aceder através das opções da Base.
 
-![Mostrar registo de execução](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Mostrar registo de execução](images/open-an-automation-log.png)
 
 SeaTable regista as seguintes informações para cada execução de automatização: tempo de execução, condição de execução, estado e quaisquer avisos.
 
-![Estrutura de um Auführungslog](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Estrutura de um Auführungslog](images/structure-of-an-automation-log-newest.png)
 
 Mais informações sobre o registo de execução de uma automatização podem ser encontradas [aqui](https://seatable.io/pt/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
 

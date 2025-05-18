@@ -12,7 +12,7 @@ Con la función de filtrado de SeaTable, puede utilizar **reglas de** filtrado p
 
 ## Filtrar entradas en una vista
 
-![Filtrar entradas](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-1.gif)
+![Filtrar entradas](images/Filtern-von-Eintraegen-1.gif)
 
 1. Seleccione la **vista en la** que desea establecer un filtro.
 2. Haga clic en **Filtro** en las opciones de visualización situadas encima de la tabla.
@@ -28,18 +28,18 @@ Dependiendo del **tipo de columna** por el que quieras filtrar, las condiciones 
 ### He aquí algunos ejemplos
 
 Tiene estas opciones de condición con un [Columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/):  
-![Columna de texto filtrado](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-5.png)
+![Columna de texto filtrado](images/filtern-von-eintraegen-5.png)
 
 Tiene estas opciones de condición con un [Columna de selección única](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
-![Filtrar una sola columna de selección](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-6.png)
+![Filtrar una sola columna de selección](images/filtern-von-eintraegen-6.png)
 
 Tiene estas opciones de condición con un [Columna de imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/):  
-![Columna de imágenes filtradas](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-7.png)
+![Columna de imágenes filtradas](images/filtern-von-eintraegen-7.png)
 
 ## Eliminar un filtro
 
 Puede restaurar los filtros que haya creado. **borrar**haciendo clic en el botón **x símbolo** clic.  
-![Eliminar un filtro de una vista](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen.png)
+![Eliminar un filtro de una vista](images/filtern-von-eintraegen.png)
 
 ## Aplicar varios filtros
 
@@ -48,4 +48,4 @@ Puede crear uno o más filtros que restrinjan aún más la primera condición. M
 ## Reorganizar filtros
 
 Puede mover y reordenar los filtros moviendo el ratón sobre el icono **Superficie de agarre** ![Icono de elementos móviles](images/move-icon.png) Presiona y mantén, tira y suelta.  
-![Filtrar las entradas clasificadas](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)
+![Filtrar las entradas clasificadas](images/Filtern-von-Eintraegen-2.gif)

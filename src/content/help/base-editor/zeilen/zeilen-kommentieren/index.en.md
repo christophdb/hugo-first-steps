@@ -35,7 +35,7 @@ You can draw the attention of team members to your comment by sending it to them
 
 In the first column of the table, a **speech bubble icon** appears for commented rows with a number indicating the **number of comments** in the last 180 days. Click on the icon to open the comment window with the chat history.
 
-![Display comments within a row.](https://seatable.io/wp-content/uploads/2022/11/kommentar-blase.png)
+![Display comments within a row.](images/kommentar-blase.png)
 
 {{< warning  headline="Note"  text="If no one writes a new comment on a row for **180 days**, the **speech bubble icon** **disappears** again. The comments are retained and can still be accessed via the **row details**, but it is no longer visible in the table that this row was previously commented on." />}}
 
@@ -43,7 +43,7 @@ In the first column of the table, a **speech bubble icon** appears for commented
 
 Only the **creator** himself can **delete** his comments or **mark them as done.** To do this, he clicks on the **three dots** to the right of his comment and selects the desired option. Comments marked as done are indicated by a green color.
 
-![](https://seatable.io/wp-content/uploads/2022/11/Kommentare-als-erledigt-markieren-1.png)
+![](images/Kommentare-als-erledigt-markieren-1.png)
 
 ## Add images to a comment
 

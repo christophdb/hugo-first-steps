@@ -16,7 +16,7 @@ url: '/ru/help/verwendung-von-emojis-im-tabellennamen'
 
 Как насчет, например, символов для собеседований (например, речевой пузырь), заявлений на отпуск (например, смайлик в солнечных очках) и платежных ведомостей (например, денежный мешок) для базы отдела кадров?
 
-![Названия столов с эмодзи](https://seatable.io/wp-content/uploads/2022/12/Tabellennamen-mit-Emojis.png)
+![Названия столов с эмодзи](images/Tabellennamen-mit-Emojis.png)
 
 Просто попробуйте! Скопируйте **эмодзи**, соответствующий вашей таблице, и вставьте его в **название таблицы**.
 
@@ -24,7 +24,7 @@ url: '/ru/help/verwendung-von-emojis-im-tabellennamen'
 
 ## Переименовать таблицу и вставить эмодзи
 
-![Переименовать таблицу и вставить эмодзи](https://seatable.io/wp-content/uploads/2022/12/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
+![Переименовать таблицу и вставить эмодзи](images/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
 
 - Щелкните по **раскрывающейся стрелке** справа от названия таблицы, которое нужно изменить.
 - В открывшемся выпадающем меню выберите пункт **Переименовать таблицу**.
@@ -36,7 +36,7 @@ url: '/ru/help/verwendung-von-emojis-im-tabellennamen'
 
 ## Добавьте новую таблицу с эмодзи
 
-![Добавьте новую таблицу с эмодзи](https://seatable.io/wp-content/uploads/2022/12/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
+![Добавьте новую таблицу с эмодзи](images/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
 
 - Нажмите на **символ плюса** справа от последней вкладки таблицы.
 - В открывшемся выпадающем меню выберите **Добавить таблицу**.

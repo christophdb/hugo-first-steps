@@ -12,7 +12,7 @@ If at some point you no longer need the **shared records** you have created, you
 
 ## Deleting a shared data record
 
-![Deleting a shared data record](https://seatable.io/wp-content/uploads/2022/11/screnshot-common-datasets-3.png)
+![Deleting a shared data record](images/screnshot-common-datasets-3.png)
 
 1. Open the **home** page of SeaTable.
 2. Click on the **Shared record** tab.
@@ -20,7 +20,7 @@ If at some point you no longer need the **shared records** you have created, you
 4. Click the **three dots** and then click **Delete**.
 5. Confirm the process once again with **Delete.**
 
-![Delete a common record.](https://seatable.io/wp-content/uploads/2022/11/delete-a-common-dataset-1.png)
+![Delete a common record.](images/delete-a-common-dataset-1.png)
 
 ## Effects of deletion
 

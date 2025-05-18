@@ -37,7 +37,7 @@ Encontrará más información al respecto en el artículo [Recuperar tablas, fil
 
 Puede acceder a la Papelera de reciclaje de la base haciendo clic en el icono de versiones de la esquina superior derecha. En este menú desplegable también encontrará otras opciones de restauración, que se explican a continuación.
 
-![Restauración de líneas individuales](https://seatable.io/wp-content/uploads/2021/10/Trash-Versionierung.png)
+![Restauración de líneas individuales](images/Trash-Versionierung.png)
 
 ## 3\. deshacer acciones
 

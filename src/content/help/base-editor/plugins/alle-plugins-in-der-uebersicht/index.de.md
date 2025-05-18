@@ -23,7 +23,7 @@ Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zus�
 
 Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) in einer **Jahres-**, **Monats-**, **Wochen-**, **Tages-** oder **Agenda-Ansicht** anzeigen. Sie können mithilfe von zwei Datum-Spalten auch **Zeitspannen** darstellen und so einen Überblick über alle wichtigen Termine etc. behalten.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Calendar.png)
+![](images/Calendar.png)
 
 [Mehr zum Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
 )
@@ -37,7 +37,7 @@ Diese Artikel könnten für Sie auch interessant sein:
 
 Das Timeline-Plugin stellt durch ein Start- und Enddatum bzw. durch ein Startdatum und eine Dauer verschiedene Zeiträume in Form eines **Zeitstrahls** dar. So können Sie einen guten Überblick über parallel laufende Projekte oder Überschneidungen von Terminen behalten. Auch zur Urlaubsplanung im Team und zur Belegungsplanung von Räumen ist dieses Plugin hervorragend geeignet.
 
-![Projektmanagement Timeline](https://seatable.io/wp-content/uploads/2022/01/projektmanagement-timeline.png)
+![Projektmanagement Timeline](images/projektmanagement-timeline.png)
 
 [Mehr zum Timeline-Plugin](https://seatable.io/docs/plugins/anleitung-zum-timeline-plugin/)
 
@@ -57,7 +57,7 @@ Dieser Artikel könnte für Sie auch interessant sein:
 
 **Standorte** lassen sich mit dem Karten-Plugin auf einer Karte darstellen. Die eingepflegten geographischen Informationen können Sie durch Positionsmarker oder Bilder visualisieren. Das Karten-Plugin kommt dabei mit **GPS-Koordinaten** genauso wie mit **Adressen** zurecht. Adressen müssen jedoch eindeutig sein, um angezeigt werden zu können.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Map.png)
+![](images/Map.png)
 
 [Mehr zum Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
@@ -65,7 +65,7 @@ Dieser Artikel könnte für Sie auch interessant sein:
 
 Das Datendeduplizierungs-Plugin deckt **doppelte Einträge** in einer Tabelle auf. Dies ist besonders bei großen Datenmengen sehr hilfreich, um Dopplungen zu entdecken und diese zu entfernen. Dabei können Sie alle doppelten Einträge mit nur einem Klick löschen.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Deduplication.png)
+![](images/Deduplication.png)
 
 [Mehr zum Datenduplizierungs-Plugin](https://seatable.io/docs/plugins/anleitung-zum-datendeduplizierungs-plugin/)
 
@@ -73,7 +73,7 @@ Das Datendeduplizierungs-Plugin deckt **doppelte Einträge** in einer Tabelle au
 
 Mithilfe des Seitendesign-Plugins können Sie **Dokumente** wie Serienbriefe, Visitenkarten und Urkunden layouten und mit den Daten in Ihrer Tabelle füllen. Genauer gesagt können Sie mit **statischen Elementen** Layouts bauen, die durch **dynamische Elemente** und **Tabellenfelder** ergänzt und individualisiert werden. Diese bieten Ihnen den großen Vorteil, dass sie je nach Datensatz alle zugehörigen Informationen (beispielsweise Name, Adresse und Jobtitel einer Person) in standardisierte Vorlagen einfügen, ohne dass Sie manuell Daten in die Dokumente kopieren müssen. So erstellen Sie mit wenigen Klicks druckfertige Rechnungen, Zeugnisse oder andere wichtige Dokumente aus den gespeicherten Daten.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Pagedesign.png)
+![](images/Pagedesign.png)
 
 [Mehr zum Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
 

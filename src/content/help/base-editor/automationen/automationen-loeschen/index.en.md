@@ -14,7 +14,7 @@ You can **delete** **automation rules** that have already been created at any ti
 
 ## To delete an automation
 
-![Delete an automation](https://seatable.io/wp-content/uploads/2022/12/delete-an-automation-rule.png)
+![Delete an automation](images/delete-an-automation-rule.png)
 
 1. Open a **table** where you want to delete an automation that has already been created.
 2. Click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.

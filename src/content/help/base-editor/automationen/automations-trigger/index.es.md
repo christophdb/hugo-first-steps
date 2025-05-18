@@ -16,7 +16,7 @@ url: '/es/ayuda/automations-trigger'
 
 En la última versión de SeaTable, hay un total de **cuatro** eventos desencadenantes diferentes entre los que elegir:
 
-![Eventos de activación disponibles actualmente](https://seatable.io/wp-content/uploads/2022/12/types-of-trigger-events.png)
+![Eventos de activación disponibles actualmente](images/types-of-trigger-events.png)
 
 - Las entradas cumplen determinadas condiciones tras la edición
 - Se añade una nueva entrada
@@ -47,7 +47,7 @@ Si selecciona el evento "Las entradas cumplen determinadas condiciones tras la e
 
 Si selecciona este evento como desencadenante, la automatización correspondiente se desencadenará cada vez que se añada una nueva **entrada** en la vista de tabla seleccionada. Además, puede restringir aún más la aparición del evento estableciendo individualmente un **valor** para cada columna que **debe contener** la nueva entrada para activar la automatización.
 
-![Posibles restricciones del evento desencadenante: Cuando se añade una nueva entrada](https://seatable.io/wp-content/uploads/2022/12/specialization-of-trigger-records-added.png)
+![Posibles restricciones del evento desencadenante: Cuando se añade una nueva entrada](images/specialization-of-trigger-records-added.png)
 
 Si selecciona el evento "Se añade una nueva entrada" como desencadenante de una automatización, las siguientes **acciones automáticas** estarán disponibles para su selección:
 
@@ -65,7 +65,7 @@ Si selecciona el evento "Se añade una nueva entrada" como desencadenante de una
 
 Si asigna una activación periódica a una automatización, puede definir una **hora a la** que la automatización se active **diaria**, **semanal** o **mensualmente**. Aunque sólo puede especificar la **hora** para una automatización diaria, también puede especificar un **día de la** semana para una automatización semanal o una **fecha exacta para** una automatización mensual.
 
-![Opciones de configuración de un disparador periódico](https://seatable.io/wp-content/uploads/2022/12/specification-periodic-trigger.png)
+![Opciones de configuración de un disparador periódico](images/specification-periodic-trigger.png)
 
 Si establece un disparador periódico para una automatización, las siguientes **acciones automáticas** están disponibles para su selección:
 
@@ -83,7 +83,7 @@ Este desencadenante es una mezcla del desencadenante periódico y del desencaden
 
 Además, con este evento desencadenante puede definir individualmente determinadas **condiciones para** cada columna de la tabla, que las **entradas** de la columna respectiva deben cumplir para que la automatización se complete en el momento especificado.
 
-![Activación automática: "Activación periódica cuando las entradas cumplen determinadas condiciones".](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
+![Activación automática: "Activación periódica cuando las entradas cumplen determinadas condiciones".](images/trigger-event-periodic-match-conditions.png)
 
 Si selecciona la opción "Activación periódica para entradas que cumplan determinadas condiciones" para una automatización, las siguientes **acciones automáticas** estarán disponibles para su selección:
 

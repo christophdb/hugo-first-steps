@@ -10,7 +10,7 @@ url: '/help/loeschen-einer-tabelle-aus-einer-base'
 
 You no longer need individual tables from your bases? Then you can delete them with just a few mouse clicks. It's that simple:
 
-![Delete a table from a base](https://seatable.io/wp-content/uploads/2022/09/delete-a-table.png)
+![Delete a table from a base](images/delete-a-table.png)
 
 1. In your Base you will find all **tables** of **the Base** displayed as **tabs** in the upper left corner.
 2. Click the **triangle icon** at the end of **the name of the table** you want to delete.

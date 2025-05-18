@@ -48,7 +48,7 @@ Vous pouvez créer **plusieurs règles** par colonne **avec des couleurs différ
 
 En outre, vous pouvez définir **plusieurs conditions** par règle, qui peuvent s'appliquer à toutes les colonnes du tableau. Par exemple, colorez la [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) avec le titre d'un article si le **statut** n'est pas "terminé", si la **date de publication** est dans le futur et s'il y a déjà une **image**.
 
-![Règle avec plusieurs conditions pour la coloration des cellules](https://seatable.io/wp-content/uploads/2022/11/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Règle avec plusieurs conditions pour la coloration des cellules](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 {{< warning  headline="Différentes options selon le type de colonne"  text="Le **choix** des conditions possibles s'adapte dynamiquement au type de colonne." />}}
 

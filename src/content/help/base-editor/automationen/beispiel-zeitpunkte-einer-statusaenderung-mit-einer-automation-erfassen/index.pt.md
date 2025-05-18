@@ -12,7 +12,7 @@ Com a ajuda das [automatizações](https://seatable.io/pt/docs/automationen/uebe
 
 ## Registar as horas das alterações de estado através da automatização
 
-![Envio de e-mails por automatização](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Envio de e-mails por automatização](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
 2. Clique em **Add Rule (Adicionar regra)**.
@@ -28,11 +28,11 @@ Primeiro, defina o **evento de accionamento** adequado para a automatização.
 
 {{< warning  headline="Nota importante"  text="Para poder registar as horas das alterações de estado com um automatismo, é necessário **obrigatório** o facto gerador **As entradas preenchem determinadas condições após a alteração** seleccionar. Com a ajuda de outros eventos de accionamento, é possível seleccionar alterações de estado **não** captura." />}}
 
-![Eventos de activação basicamente disponíveis para selecção](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Eventos de activação basicamente disponíveis para selecção](images/trigger-options-for-archivating-rows.png)
 
 Depois seleccionar **Adicionar nova entrada noutra tabela** como a acção automatizada.
 
-![Acrescentar a acção automatizada](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Selecção da acção automatizada](images/add-action-example2.png)
+![Acrescentar a acção automatizada](images/add-an-action.png) ![Selecção da acção automatizada](images/add-action-example2.png)
 
 No passo seguinte, seleccionar a **tabela** na qual a entrada deve ser acrescentada após o gatilho ter sido accionado.
 

@@ -22,13 +22,13 @@ url: '/ru/help/die-countlinks-formel'
 
 Например, при планировании семинара можно вывести количество зарегистрированных участников из отдельной таблицы. Таким образом, в [колонке ссылок]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) будут записаны имена всех участников.
 
-![Формула Countlinks.](https://seatable.io/wp-content/uploads/2022/11/countlinks-2.png)
+![Формула Countlinks.](images/countlinks-2.png)
 
 Использование формулы Countlinks имеет смысл только в том случае, если при создании столбца типа Link **to other entries** вы активируете опцию **Allow link to multiple rows**. Если бы опция была выключена, в поле формулы Countlinks всегда была бы единица.
 
 ## Создание формулы подсчета ссылок
 
-![Формула Countlinks.](https://seatable.io/wp-content/uploads/2022/11/countlink.gif)
+![Формула Countlinks.](images/countlink.gif)
 
 1. Создайте новый столбец типа **Формула для ссылок**.
 2. Дайте колонне подходящее **название**.

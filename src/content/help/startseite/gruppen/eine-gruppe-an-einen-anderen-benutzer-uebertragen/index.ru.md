@@ -16,12 +16,12 @@ url: '/ru/help/eine-gruppe-an-einen-anderen-benutzer-uebertragen'
 2. Нажмите на **значок треугольника** справа от названия группы, которую вы хотите передать другому пользователю.
 3. Нажмите на кнопку **Передача**.
 
-![Передача группы](https://seatable.io/wp-content/uploads/2022/09/transfer-group.jpg)
+![Передача группы](images/transfer-group.jpg)
 
 5. Введите **имя** нужного **пользователя** и выберите его.
 
-![Ввод пользователя, которому должна быть передана группа](https://seatable.io/wp-content/uploads/2022/09/type-name-to-transfer-group-to.png)
+![Ввод пользователя, которому должна быть передана группа](images/type-name-to-transfer-group-to.png)
 
 7. Подтвердите нажатием кнопки **Отправить**.
 
-![Подтверждение передачи группы](https://seatable.io/wp-content/uploads/2022/09/confirm-transfer-to-group.jpg)
+![Подтверждение передачи группы](images/confirm-transfer-to-group.jpg)

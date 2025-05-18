@@ -24,7 +24,7 @@ A adição de colunas funciona da **mesma forma que com as tabelas habituais**. 
 
 Para assegurar um fluxo de trabalho óptimo e para evitar tanto a perda de dados como mal-entendidos durante a colaboração, é aconselhável **bloquear** todas as **colunas** que contenham dados de um **conjunto de dados comum para** edição. Pode, no entanto, editar as colunas adicionais adicionadas **individualmente**, como desejar.
 
-![Bloqueio de colunas do registo comum](https://seatable.io/wp-content/uploads/2022/11/how-to-lock-columns-of-a-common-dataset.gif)
+![Bloqueio de colunas do registo comum](images/how-to-lock-columns-of-a-common-dataset.gif)
 
 1. Clique no **símbolo do triângulo de** uma coluna que deseja bloquear para edição.
 2. Clique em **Edit Column Permissions (Editar permissões de coluna**).
@@ -35,4 +35,4 @@ Pode restringir a edição de cada coluna individualmente, para que possa sempre
 
 O bloqueio da coluna impede basicamente a **edição das células**. Com certos tipos de colunas, como a **selecção** **simples** ou **múltipla**, é também possível restringir a **criação de opções**.
 
-![Coluna de um registo comum bloqueada para edição (esquerda) e coluna editável recentemente adicionada a um registo comum (direita)](https://seatable.io/wp-content/uploads/2022/11/locked-column-and-regular-column-2.png)
+![Coluna de um registo comum bloqueada para edição (esquerda) e coluna editável recentemente adicionada a um registo comum (direita)](images/locked-column-and-regular-column-2.png)

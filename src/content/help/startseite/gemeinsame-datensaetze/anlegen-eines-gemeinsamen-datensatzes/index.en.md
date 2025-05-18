@@ -16,8 +16,8 @@ In each base belonging to a group, you can create a table view as a **common rec
 
 ## Creating a shared data record
 
-![Creating a shared data record](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-5.png)  
-![Creating a shared data record](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-2-1.png)
+![Creating a shared data record](images/create-a-common-dataset-5.png)  
+![Creating a shared data record](images/create-a-common-dataset-2-1.png)
 
 1. Open any **table view** in a Base that belongs to one of your groups.
 2. Click on the **three dots**.

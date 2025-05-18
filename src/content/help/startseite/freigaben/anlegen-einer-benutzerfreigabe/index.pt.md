@@ -24,7 +24,7 @@ Pode **partilhar bases com outros utilizadores** dentro da sua equipa. Pode esco
 
 ### Lançamento dentro da base
 
-![Lançamento dentro da base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Lançamento dentro da base](images/share-a-base.png)
 
 Se estiver actualmente **numa base**, também pode criar uma acção sem ter de mudar para a página inicial. Para o fazer, clique no **ícone de partilha** {{< seatable-icon icon="dtable-icon-share" >}} no canto superior direito das **opções da base**. A janela que se abre para criar uma acção parece-se exactamente com a da página inicial. Basta seguir as instruções de clique acima, a partir do passo 4.
 

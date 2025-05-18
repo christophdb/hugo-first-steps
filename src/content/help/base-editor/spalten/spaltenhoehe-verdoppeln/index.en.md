@@ -10,7 +10,7 @@ url: '/help/spaltenhoehe-verdoppeln'
 
 Double the **height of the table header** to be able to read long column names completely.
 
-![Double column height](https://seatable.io/wp-content/uploads/2022/11/Spaltenhoehe-verdoppeln.gif)
+![Double column height](images/Spaltenhoehe-verdoppeln.gif)
 
 1. Click the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}} on the far right of the table header.
 2. Select the **Set table header height** option.

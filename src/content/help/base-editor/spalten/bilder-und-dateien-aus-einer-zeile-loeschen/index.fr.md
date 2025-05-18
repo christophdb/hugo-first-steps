@@ -12,7 +12,7 @@ SeaTable permet de **supprimer** des **fichiers** et **des images** de différen
 
 ## Supprimer des fichiers et des images via les détails de la ligne
 
-![Comment supprimer les pièces jointes via les détails de la ligne.](https://seatable.io/wp-content/uploads/2022/11/Wie-man-Anhaenge-dauerhaft-entfernt_Bild-Spalte.gif)
+![Comment supprimer les pièces jointes via les détails de la ligne.](images/Wie-man-Anhaenge-dauerhaft-entfernt_Bild-Spalte.gif)
 
 1. Ouvrez la vue détaillée d'une ligne en cliquant sur le **symbole de la double flèche** qui apparaît dès que vous déplacez la souris sur la numérotation de la ligne.
 2. Dans la fenêtre **Détails de la ligne**, passez la souris sur l'**image** ou le **fichier** que vous souhaitez supprimer.
@@ -21,13 +21,13 @@ SeaTable permet de **supprimer** des **fichiers** et **des images** de différen
 
 ## Suppression via la cellule
 
-![Supprimer des fichiers via la cellule.](https://seatable.io/wp-content/uploads/2022/11/loeschen-ueber-die-zelle-2.gif)
+![Supprimer des fichiers via la cellule.](images/loeschen-ueber-die-zelle-2.gif)
 
 1. Ouvrez la fenêtre **Toutes les images** ou **Tous les fichiers** en **double-cliquant** sur la **cellule** d'une colonne d'images ou de fichiers.
 2. Pour les images, la suppression fonctionne de la même manière qu'avec les détails des lignes. Pour les fichiers, vous disposez des options suivantes :
     - Cliquez sur **Sélectionner** et choisissez tous les fichiers que vous souhaitez supprimer. Confirmez en cliquant sur **Supprimer**.
     - Placez le curseur de la souris sur un fichier et cliquez sur l'**icône à trois points** pour sélectionner l'option **Supprimer**.
 
-![Suppression de pièces jointes.](https://seatable.io/wp-content/uploads/2022/11/Loeschen-von-Anhaengen.gif)
+![Suppression de pièces jointes.](images/Loeschen-von-Anhaengen.gif)
 
 {{< warning  headline="Attention"  text="Les images et les fichiers supprimés font toujours partie de la base et ne sont donc **pas** définitivement supprimés. Lisez à ce sujet les articles [Accès aux fichiers et images supprimés](https://seatable.io/fr/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) et [Comment supprimer définitivement des fichiers](https://seatable.io/fr/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}

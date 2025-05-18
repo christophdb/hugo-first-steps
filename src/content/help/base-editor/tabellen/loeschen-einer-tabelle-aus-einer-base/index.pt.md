@@ -10,7 +10,7 @@ url: '/pt/ajuda/loeschen-einer-tabelle-aus-einer-base'
 
 Já não precisa de tabelas individuais a partir das suas bases? Depois pode apagá-los com apenas alguns cliques do rato. É assim tão simples:
 
-![Eliminar uma tabela de uma base](https://seatable.io/wp-content/uploads/2022/09/delete-a-table.png)
+![Eliminar uma tabela de uma base](images/delete-a-table.png)
 
 1. Na sua base, encontrará todas as **tabelas da base** apresentadas como separadores no canto superior esquerdo.
 2. Clique no **símbolo do triângulo** no fim do **nome da tabela** que pretende eliminar.

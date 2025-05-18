@@ -24,7 +24,7 @@ Adding columns works the **same way as with usual tables**. You can find detaile
 
 To ensure an optimal workflow and to avoid both data loss and misunderstandings during collaboration, it is recommended to **lock** all **columns** containing data of a **common data set for** editing. On the other hand, you can edit the **individually** added additional columns as you wish.
 
-![Locking columns of the common record](https://seatable.io/wp-content/uploads/2022/11/how-to-lock-columns-of-a-common-dataset.gif)
+![Locking columns of the common record](images/how-to-lock-columns-of-a-common-dataset.gif)
 
 1. Click the **triangle icon of** a column you want to lock for editing.
 2. Click **column permissions edit**.
@@ -35,4 +35,4 @@ You can restrict editing for each column individually, so you can always decide 
 
 Locking the column basically prevents the **cells from being edited**. For certain column types, such as **single** or **multiple selection**, it is also possible to restrict the **creation of options**.
 
-![Column of a common record locked for editing (left) and editable column newly added to a common record (right).](https://seatable.io/wp-content/uploads/2022/11/locked-column-and-regular-column-2.png)
+![Column of a common record locked for editing (left) and editable column newly added to a common record (right).](images/locked-column-and-regular-column-2.png)

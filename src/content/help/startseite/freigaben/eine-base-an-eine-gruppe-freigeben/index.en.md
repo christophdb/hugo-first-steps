@@ -28,7 +28,7 @@ Here you can decide individually for each base whether it is a sharing with **re
 
 ## Release within Base
 
-![Release within Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Release within Base](images/share-a-base.png)
 
 If you are currently **in a Base**, you can also create a share without having to switch to the Home screen. To do this, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} at the top right of the **Base options**. The window that opens to create a share looks just like the one on the Home page. Just follow the above clicking instructions starting from step 4.
 

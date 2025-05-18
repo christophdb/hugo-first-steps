@@ -12,7 +12,7 @@ Con la ayuda de [las automatizaciones](https://seatable.io/es/docs/automationen/
 
 ## Registre las horas de los cambios de estado mediante automatización
 
-![Envío automatizado de correos electrónicos](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Envío automatizado de correos electrónicos](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatización**.
 2. Haga clic en **Añadir Regla**.
@@ -28,11 +28,11 @@ En primer lugar, defina el **evento desencadenante** adecuado para la automatiza
 
 {{< warning  headline="Nota importante"  text="Para poder registrar las horas de los cambios de estado con una automatización, tiene que **obligatorio** el evento desencadenante **Las entradas cumplen determinadas condiciones tras el cambio** seleccionar. Con la ayuda de los otros eventos desencadenantes, puede seleccionar los cambios de estado **no** capturar." />}}
 
-![Eventos desencadenantes básicamente disponibles para su selección](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Eventos desencadenantes básicamente disponibles para su selección](images/trigger-options-for-archivating-rows.png)
 
 A continuación, seleccione **Añadir nueva entrada en otra** tabla como acción automatizada.
 
-![Añadir la acción automatizada](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Selección de la acción automatizada](images/add-action-example2.png)
+![Añadir la acción automatizada](images/add-an-action.png) ![Selección de la acción automatizada](images/add-action-example2.png)
 
 En el siguiente paso, seleccione la **tabla** en la que se añadirá la entrada tras activarse el disparador.
 

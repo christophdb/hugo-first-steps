@@ -16,7 +16,7 @@ Si vous ne nommez plus les tableaux avec des termes, mais avec **des emojis** ap
 
 Que diriez-vous, par exemple, de symboles pour les entretiens d'embauche (par exemple, une bulle), les demandes de congé (par exemple, un smiley avec des lunettes de soleil) et les fiches de paie (par exemple, un sac d'argent) pour la base d'un service du personnel ?
 
-![Noms de tableaux avec emojis](https://seatable.io/wp-content/uploads/2022/12/Tabellennamen-mit-Emojis.png)
+![Noms de tableaux avec emojis](images/Tabellennamen-mit-Emojis.png)
 
 Essayez-le tout simplement ! Copiez un **emoji** correspondant à votre tableau et collez-le dans le **nom du tableau**.
 
@@ -24,7 +24,7 @@ Essayez-le tout simplement ! Copiez un **emoji** correspondant à votre tableau 
 
 ## Renommer le tableau et insérer un emoji
 
-![Renommer le tableau et insérer un emoji](https://seatable.io/wp-content/uploads/2022/12/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
+![Renommer le tableau et insérer un emoji](images/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
 
 - Cliquez sur la **flèche déroulante** à droite du nom de la table que vous souhaitez modifier.
 - Allez sur **Renommer le tableau** dans le menu déroulant ouvert.
@@ -36,7 +36,7 @@ Essayez-le tout simplement ! Copiez un **emoji** correspondant à votre tableau 
 
 ## Ajouter un nouveau tableau avec un emoji
 
-![Ajouter un nouveau tableau avec un emoji](https://seatable.io/wp-content/uploads/2022/12/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
+![Ajouter un nouveau tableau avec un emoji](images/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
 
 - Cliquez sur le **symbole plus** à droite du dernier onglet du tableau.
 - Allez sur **Ajouter un tableau** dans le menu déroulant qui s'est ouvert.

@@ -12,7 +12,7 @@ SeaTable's filter function allows you to use **filter rules** to filter out the 
 
 ## Filter entries in a view
 
-![Filter entries](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-1.gif)
+![Filter entries](images/Filtern-von-Eintraegen-1.gif)
 
 1. Select the **view in** which you want to set a filter.
 2. Click **Filter** in the view options above the table.
@@ -28,18 +28,18 @@ Depending on the **column type** you want to filter by, the conditions you can s
 ### Here are some examples
 
 You have these condition options with a [Text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/):  
-![Filter text column](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-5.png)
+![Filter text column](images/filtern-von-eintraegen-5.png)
 
 You have these condition options with a [Single selection column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
-![Filter single selection column](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-6.png)
+![Filter single selection column](images/filtern-von-eintraegen-6.png)
 
 You have these condition options with a [Image column](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/):  
-![Filter image column](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-7.png)
+![Filter image column](images/filtern-von-eintraegen-7.png)
 
 ## Remove a filter
 
 You can restore created filters **delete**by clicking on the **x symbol** click.  
-![Removing a filter of a view](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen.png)
+![Removing a filter of a view](images/filtern-von-eintraegen.png)
 
 ## Apply multiple filters
 
@@ -48,4 +48,4 @@ You can create one or more filters that further restrict the first condition. Re
 ## Rearrange filters
 
 You can move and rearrange filters by moving the mouse on the **Gripping surface** ![Icon for moving elements](images/move-icon.png) Press and hold, pull and release.  
-![Filter entries sort](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)
+![Filter entries sort](images/Filtern-von-Eintraegen-2.gif)

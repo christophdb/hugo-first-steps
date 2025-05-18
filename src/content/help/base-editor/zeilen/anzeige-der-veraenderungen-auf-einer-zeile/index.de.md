@@ -1,11 +1,11 @@
 ---
-title: "Anzeige der Veränderungen auf einer Zeile"
+title: 'Anzeige der Veränderungen auf einer Zeile'
 date: 2022-11-16
-lastmod: "2023-02-16"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "vge"
-url: "/de/hilfe/anzeige-der-veraenderungen-auf-einer-zeile"
+lastmod: '2023-02-16'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'vge'
+url: '/de/hilfe/anzeige-der-veraenderungen-auf-einer-zeile'
 ---
 
 SeaTable speichert sämtliche Veränderungen, die in einer Base vorgenommen werden. Innerhalb einer Zeile bietet das **Zeilen-Log** die Möglichkeit, genau nachzuvollziehen, wann welcher Benutzer welche Änderung vorgenommen hat.
@@ -16,7 +16,7 @@ SeaTable speichert sämtliche Veränderungen, die in einer Base vorgenommen werd
 2. Klicken Sie im geöffneten Fenster **Zeilendetails** auf das viereckige **Tür-Symbol** in der rechten oberen Ecke.
 3. Das Fenster erweitert sich. Klicken Sie rechts neben den Kommentaren auf **Logs**.
 
-![Anzeige der Veränderungen in einer Zeile durch Logs.](https://seatable.io/wp-content/uploads/2022/11/Logs.png) Im Zeilen-Log finden Sie in antichronologischer Reihenfolge die jüngsten Änderungen, die in der Zeile vorgenommen wurden. Jeder Log-Eintrag enthält folgende Informationen:
+![Anzeige der Veränderungen in einer Zeile durch Logs.](images/Logs.png) Im Zeilen-Log finden Sie in antichronologischer Reihenfolge die jüngsten Änderungen, die in der Zeile vorgenommen wurden. Jeder Log-Eintrag enthält folgende Informationen:
 
 - Name des Bearbeiters
 - Zeitpunkt der Änderung

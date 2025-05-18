@@ -18,7 +18,7 @@ Puede encontrar información sobre cómo activar el plugin en una base [aquí](h
 
 Por defecto, se crea un dibujo con un lienzo en blanco cuando abre el complemento de pizarra por primera vez. {{< seatable-icon icon="dtable-icon-add-table" >}} Si desea crear otro dibujo, haga clic en **Añadir dibujo**. Se abrirá un campo de entrada en el que podrá introducir el **nombre** que desee.
 
-![Opciones de dibujo en la pizarra](https://seatable.io/wp-content/uploads/2025/03/Optionen-einer-Whiteboard-Zeichnung-1.png)
+![Opciones de dibujo en la pizarra](images/Optionen-einer-Whiteboard-Zeichnung-1.png)
 
 Para **cambiar el orden de los dibujos**, mantenga pulsado el botón izquierdo del ratón en la **superficie de agarre** {{< seatable-icon icon="dtable-icon-drag" >}} y **arrastre y suelte** el dibujo en la posición deseada. También puede **renombrar** y **borrar** los dibujos.
 

@@ -12,7 +12,7 @@ url: '/de/hilfe/unterschiede-zwischen-privaten-und-normalen-ansichten'
 
 In SeaTable gibt es die Möglichkeit, sowohl normale als auch private Ansichten von Tabellen zu erstellen. Private Ansichten sind, wie der Name schon vermuten lässt, nur für den jeweiligen Ersteller sichtbar und lassen sich auch nicht mit anderen Personen teilen. Ansonsten unterscheiden sich private Ansichten nicht von normalen Ansichten.
 
-![öffentliche und private Ansicht](https://seatable.io/wp-content/uploads/2022/11/public-and-private-view.png)
+![öffentliche und private Ansicht](images/public-and-private-view.png)
 
 ## Persönliche Datenanalyse mit privaten Ansichten
 
@@ -30,10 +30,10 @@ Ein weiterer Unterschied zwischen normalen und privaten Ansichten besteht darin,
 
 Wenn Sie eine normale, für andere sichtbare Ansicht individuell für sich selbst gestalten wollen, können Sie diese einfach als private Ansicht duplizieren. Die ursprüngliche Ansicht bleibt dabei unverändert.
 
-![Eine normale Ansicht als private Ansicht duplizieren](https://seatable.io/wp-content/uploads/2022/11/Duplicate-as-private-view.png)
+![Eine normale Ansicht als private Ansicht duplizieren](images/Duplicate-as-private-view.png)
 
 ## Private Ansichten in normale Ansichten umwandeln
 
 Andererseits können Sie Ihre privaten Ansichten auch in nicht-private, normale Ansichten umwandeln, die für andere sichtbar sind. Dabei wird die Ansicht allerdings nicht dupliziert, sodass sie danach nicht mehr als private, sondern nur noch als normale Ansicht vorliegt.
 
-![Eine private Ansicht in eine normale Ansicht umwandeln](https://seatable.io/wp-content/uploads/2022/11/Change-to-non-private-view.png)
+![Eine private Ansicht in eine normale Ansicht umwandeln](images/Change-to-non-private-view.png)

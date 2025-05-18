@@ -16,8 +16,8 @@ Em cada base pertencente a um grupo, pode-se criar uma vista de tabela como um *
 
 ## Criação de um conjunto de dados comum
 
-![Criação de um conjunto de dados comum](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-5.png)  
-![Criação de um conjunto de dados comum](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-2-1.png)
+![Criação de um conjunto de dados comum](images/create-a-common-dataset-5.png)  
+![Criação de um conjunto de dados comum](images/create-a-common-dataset-2-1.png)
 
 1. Abra qualquer **vista de mesa** numa Base que pertença a um dos seus grupos.
 2. Clique sobre os **três pontos**.

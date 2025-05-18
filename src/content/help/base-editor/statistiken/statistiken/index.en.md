@@ -30,7 +30,7 @@ With the [statistics module](https://seatable.io/en/docs/plugins/anleitung-zum-s
 
 Charts and pivot tables are managed on the dashboard of the statistics module. All charts and pivot tables created are saved there and are available for retrieval at any time. All existing statistics are **automatically updated** when you change data in the table. So you never have to think about updating the statistics - SeaTable does it for you!
 
-![Various statistics in the module](https://seatable.io/wp-content/uploads/2021/10/Statistiken.png)
+![Various statistics in the module](images/Statistiken.png)
 
 The evaluations displayed in the statistics module always refer to **a table** in the open base. You define the data basis for the visualization and evaluation by selecting the **view** to be used. If you only want to create a chart or a pivot table for **part of the data** in a table, create a suitable view. You will not find any **filter functions** in the statistics module itself. For this reason, you must always define the relevant data in a view before creating a statistic.
 

@@ -21,7 +21,7 @@ Damit Sie in einer Base mit einem gemeinsamen Datensatz eine neue Tabelle anlege
 
 ## Mit einem gemeinsamen Datensatz eine neue Tabelle anlegen
 
-![Mit einem gemeinsamen Datensatz eine neue Tabelle anlegen](https://seatable.io/wp-content/uploads/2022/11/image-how-to-create-a-new-table-with-a-common-dataset.png)
+![Mit einem gemeinsamen Datensatz eine neue Tabelle anlegen](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
 
 1. Öffnen Sie eine **Tabelle**, die sich in einer Base befindet, welche eine der oben beschriebenen **Voraussetzungen** erfüllt.
 2. Klicken Sie auf das **\[+\]-Symbol**, um eine neue Tabelle anzulegen.
@@ -37,11 +37,11 @@ Bei einem **erfolgreichen Import** des gemeinsamen Datensatzes erscheint folgend
 
 Mit einem gemeinsamen Datensatz angelegte Tabellen können Sie anhand des **Stapel-Symbols**, welches sich vor dem Tabellennamen befindet, von anderen Tabellen unterscheiden. Wenn Sie den Mauszeiger über das Symbol bewegen, verweist zudem ein kurzer **Info-Text** darauf, dass die Tabelle mit einem gemeinsamen Datensatz angelegt wurde.
 
-![Icon vor dem Namen von Tabellen eines gemeinsamen Datensatzes.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset-1.png)
+![Icon vor dem Namen von Tabellen eines gemeinsamen Datensatzes.](images/icon-table-common-dataset-1.png)
 
 Ein weiteres Merkmal stellt zudem das **Zeichen** dar, welches sich am Icon der Spalten befindet, die Daten eines **gemeinsamen Datensatzes** enthalten. Tabellenspalten, die **keine** Daten eines gemeinsamen Datensatzes enthalten, weisen diese Kennzeichnung am Spalten-Icon folglich **nicht** auf.
 
-![Spalte eines gemeinsamen Datensatzes (links) und reguläre Spalte (rechts)](https://seatable.io/wp-content/uploads/2022/11/icons-of-the-column-of-a-common-dataset-2.png)
+![Spalte eines gemeinsamen Datensatzes (links) und reguläre Spalte (rechts)](images/icons-of-the-column-of-a-common-dataset-2.png)
 
 ## Folgen für die Datenbearbeitung
 

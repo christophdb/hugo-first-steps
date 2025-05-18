@@ -12,7 +12,7 @@ Dans une **colonne de fichiers**, vous pouvez enregistrer un ou plusieurs fichie
 
 ## Comment créer une colonne de fichiers
 
-![Créer une colonne.](https://seatable.io/wp-content/uploads/2022/11/Wie-man-eine-Spalte-anlegt.gif)
+![Créer une colonne.](images/Wie-man-eine-Spalte-anlegt.gif)
 
 1. Cliquez sur le **symbole \[+\]** à droite de la dernière colonne de votre tableau.
 2. Donnez un **nom** à la colonne dans le champ supérieur.
@@ -54,7 +54,7 @@ Outre les nouveaux fichiers que vous téléchargez localement dans la cellule d'
 
 ## Téléchargement de fichiers
 
-![Téléchargement de fichiers.](https://seatable.io/wp-content/uploads/2022/11/Herunterladen-von-Dateien.gif)
+![Téléchargement de fichiers.](images/Herunterladen-von-Dateien.gif)
 
 1. Dans la colonne Fichier, **double-cliquez** sur la cellule qui contient les documents que vous souhaitez télécharger.
 2. Une nouvelle fenêtre s'ouvre. **Tous les fichiers** enregistrés dans la cellule y sont listés.
@@ -77,7 +77,7 @@ En cliquant sur les **trois points**, vous avez deux options pour enregistrer le
 
 ## Renommer des fichiers
 
-![Renommer les pièces jointes d'une colonne de fichiers.](https://seatable.io/wp-content/uploads/2022/11/Datei-Spalte-Anhaenge-umbenennen.gif)
+![Renommer les pièces jointes d'une colonne de fichiers.](images/Datei-Spalte-Anhaenge-umbenennen.gif)
 
 1. Ouvrez la fenêtre **Tous les fichiers** en **double-cliquant** sur une cellule de la colonne Fichiers.
 2. Placez le curseur de la souris sur le fichier que vous souhaitez renommer et cliquez sur les **trois points**.
@@ -85,7 +85,7 @@ En cliquant sur les **trois points**, vous avez deux options pour enregistrer le
 
 ## Suppression de fichiers
 
-![Suppression de pièces jointes.](https://seatable.io/wp-content/uploads/2022/11/Loeschen-von-Anhaengen.gif)
+![Suppression de pièces jointes.](images/Loeschen-von-Anhaengen.gif)
 
 1. Ouvrez la fenêtre **Tous les fichiers** en **double-cliquant** sur une cellule de la colonne Fichiers.
 2. Ainsi, vous pouvez créer une **fichier unique** supprimer :

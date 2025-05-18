@@ -21,7 +21,7 @@ Para poder crear una nueva tabla en una base con un registro de datos compartido
 
 ## Crear una nueva tabla con un registro común
 
-![Crear una nueva tabla con un registro común](https://seatable.io/wp-content/uploads/2022/11/image-how-to-create-a-new-table-with-a-common-dataset.png)
+![Crear una nueva tabla con un registro común](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
 
 1. Abra una **mesa** que esté en una base que cumpla uno de los **requisitos** descritos anteriormente.
 2. Haga clic en el **símbolo \[+**\] para crear una nueva tabla.
@@ -37,11 +37,11 @@ Si la **importación** del conjunto de datos comunes se realiza correctamente, a
 
 Las tablas creadas con un registro de datos compartido pueden distinguirse de otras tablas por el símbolo de **pila** delante del nombre de la tabla. Si mueve el puntero del ratón sobre el icono, un breve **texto** informativo indica también que la tabla se ha creado con un registro de datos compartido.
 
-![Icono delante del nombre de las tablas de un conjunto de datos común.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset-1.png)
+![Icono delante del nombre de las tablas de un conjunto de datos común.](images/icon-table-common-dataset-1.png)
 
 Otra característica es el **carácter** en el icono de las columnas que contienen datos de un conjunto de datos **compartidos**. Las columnas de la tabla que **no** contienen datos de un registro de datos compartidos **no** tienen, por tanto, este etiquetado en el icono de la columna.
 
-![Columna de un conjunto de datos común (izquierda) y columna normal (derecha)](https://seatable.io/wp-content/uploads/2022/11/icons-of-the-column-of-a-common-dataset-2.png)
+![Columna de un conjunto de datos común (izquierda) y columna normal (derecha)](images/icons-of-the-column-of-a-common-dataset-2.png)
 
 ## Consecuencias para el tratamiento de datos
 

@@ -16,7 +16,7 @@ Bestehende Gruppen in SeaTable können von ihrem Eigentümer jederzeit umbenannt
 2. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Gruppen-Namen, den Sie ändern wollen.
 3. Klicken Sie auf **Umbenennen**.
 
-![Eine Gruppe umbenennen](https://seatable.io/wp-content/uploads/2022/09/rename-group.jpg) 5. Geben Sie einen beliebigen Namen ein. 6. Bestätigen Sie mit **Absenden**.
+![Eine Gruppe umbenennen](images/rename-group.jpg) 5. Geben Sie einen beliebigen Namen ein. 6. Bestätigen Sie mit **Absenden**.
 
-![Eine Gruppe umbenennen](https://seatable.io/wp-content/uploads/2022/09/rename-group-2.png)
+![Eine Gruppe umbenennen](images/rename-group-2.png)
 {{< warning  headline="Kleiner Tipp"  text="Der Name einer Gruppe darf nur aus _Buchstaben_, _Zahlen_, _Leerzeichen_, _Punkten_, _Bindestrichen_, _Unterstrichen_ und dem _#-Zeichen_ bestehen. Andere Zeichen sind aktuell nicht erlaubt." />}}

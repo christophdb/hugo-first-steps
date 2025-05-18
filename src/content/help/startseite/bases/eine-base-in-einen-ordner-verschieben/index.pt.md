@@ -15,14 +15,14 @@ Para obter uma melhor visão geral das suas bases, tem a opção de mover as bas
 
 ## Arrastar e largar uma base para uma pasta
 
-![Mover uma Base para uma Pasta](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-2.gif)
+![Mover uma Base para uma Pasta](images/move-a-base-to-a-folder-2.gif)
 
 1. Mudar para a página **inicial** da SeaTable.
 2. Seleccione a **base** desejada e arraste-a e **largue-a** em qualquer **pasta**.
 
 ## Mover uma Base para uma Pasta via Menu de Contexto
 
-![Mover uma Base para uma Pasta via Menu de Contexto](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-from-the-context-menu-1.gif)
+![Mover uma Base para uma Pasta via Menu de Contexto](images/move-a-base-to-a-folder-from-the-context-menu-1.gif)
 
 1. Mudar para a página **inicial** da SeaTable.
 2. Clique sobre os **três pontos** à direita de qualquer **base**.

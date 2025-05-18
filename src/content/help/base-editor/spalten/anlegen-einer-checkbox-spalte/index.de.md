@@ -24,4 +24,4 @@ In SeaTable haben Sie die Möglichkeit, Ihren Tabellen **Checkbox-Spalten** hinz
 
 Ihnen gefällt der standardmäßig gesetzte **grüne Haken** nicht? Kein Problem! Sie haben 70 verschiedene Stiloptionen, um Ihre Checkboxen so auszufüllen, wie Sie möchten.
 
-![Stiloptionen bei Checkboxen](https://seatable.io/wp-content/uploads/2022/11/Stiloptionen-bei-Checkboxen.png)
+![Stiloptionen bei Checkboxen](images/Stiloptionen-bei-Checkboxen.png)

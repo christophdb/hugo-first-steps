@@ -12,7 +12,7 @@ Mithilfe von Automationen müssen Sie E-Mails nicht mehr manuell an ausgewählte
 
 ## E-Mails per Automation versenden
 
-![E-Mails versenden per Automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![E-Mails versenden per Automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Klicken Sie im Base-Header auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Automatisierungsregeln**.
 2. Klicken Sie auf **Regel hinzufügen**.
@@ -25,7 +25,7 @@ Mithilfe von Automationen müssen Sie E-Mails nicht mehr manuell an ausgewählte
 
 Definieren Sie für die Automation zunächst ein **Trigger-Ereignis**.
 
-![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](images/trigger-options-for-archivating-rows.png)
 
 {{< warning headline="Hinweis" >}}
 
@@ -40,7 +40,7 @@ Die automatisierte Aktion **E-Mail versenden** steht Ihnen nach allen Trigger-Er
 
 Wählen Sie anschließend als automatisierte Aktion **E-Mail versenden** aus.
 
-![Hinzufügen der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Hinzufügen der automatisierten Aktion](images/example-send-email-action.png)
+![Hinzufügen der automatisierten Aktion](images/add-an-action.png) ![Hinzufügen der automatisierten Aktion](images/example-send-email-action.png)
 
 Im nächsten Schritt wählen Sie zunächst ein **E-Mail-Konto** aus, von welchem Sie die E-Mails versenden möchten. Um Ihr E-Mail-Konto für den Versand nutzen zu können, **müssen** Sie dieses zunächst als Drittanbieter in Ihrer SeaTable Base **hinzufügen**. Eine detaillierte Anleitung zu diesem Schritt finden Sie [hier](https://seatable.io/docs/drittanbieter-e-mail/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/).
 

@@ -19,7 +19,7 @@ Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "hel
 
 Standardmäßig ist beim ersten Öffnen des Whiteboard-Plugins bereits eine Zeichnung mit leerer Leinwand angelegt. Wenn Sie eine weitere Zeichnung erstellen möchten, klicken Sie auf {{< seatable-icon icon="dtable-icon-add-table" >}} **Zeichnung hinzufügen**. Daraufhin öffnet sich ein Eingabefeld, in das Sie den gewünschten **Namen** tippen.
 
-![Optionen einer Whiteboard-Zeichnung](https://seatable.io/wp-content/uploads/2025/03/Optionen-einer-Whiteboard-Zeichnung-1.png)
+![Optionen einer Whiteboard-Zeichnung](images/Optionen-einer-Whiteboard-Zeichnung-1.png)
 
 Um die **Reihenfolge der Zeichnungen zu ändern**, halten Sie die linke Maustaste an der **Greiffläche** {{< seatable-icon icon="dtable-icon-drag" >}} gedrückt und ziehen die Zeichnung **per Drag-and-Drop** an die gewünschte Stelle. Darüber hinaus können Sie die Zeichnungen **umbenennen** und **löschen**.
 

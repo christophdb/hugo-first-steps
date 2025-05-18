@@ -12,7 +12,7 @@ Si todavía está indeciso sobre el diseño de su base o simplemente busca nueva
 
 ## Creación de una base mediante una plantilla
 
-![Crear una base a partir de una plantilla](https://seatable.io/wp-content/uploads/2022/12/Eine-Base-aus-einer-Vorlage-erstellen.png)
+![Crear una base a partir de una plantilla](images/Eine-Base-aus-einer-Vorlage-erstellen.png)
 
 1. Cambie a la página de **inicio** de SeaTable.
 2. Dependiendo de si desea crear una base en _Mis bases_ o en uno de sus grupos, haga clic en **Añadir una base o carpeta** en el área correspondiente.

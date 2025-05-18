@@ -26,16 +26,16 @@ The **current date** automatically adjusts to today without you having to set it
 
 The only additional setting compared to static text elements is the **format setting**. Here you can choose from the regionally different notations for dates.
 
-![dynamic element date format](https://seatable.io/wp-content/uploads/2022/11/Dynamisches-Element-Datum-Format.png)
+![dynamic element date format](images/Dynamisches-Element-Datum-Format.png)
 
 ## Template name
 
 The **name of the template**, i.e. the page design you are currently editing, adjusts automatically. If you have changed the name of the template, the change in this field will be applied automatically.
 
-![Dynamic element template name](https://seatable.io/wp-content/uploads/2022/11/dynamisches-Element-Vorlagenname.gif)
+![Dynamic element template name](images/dynamisches-Element-Vorlagenname.gif)
 
 ## Current user
 
 In the **Current User** field, your own name appears if you are currently making changes to the template through your account. As soon as another **team member** accesses the template in the Page Design plug-in, their name is displayed.
 
-![Dynamic element current user](https://seatable.io/wp-content/uploads/2022/11/dynamisches-Element-Aktueller-nutzer.gif)
+![Dynamic element current user](images/dynamisches-Element-Aktueller-nutzer.gif)

@@ -17,7 +17,7 @@ Sie möchten herausfinden, **wer** eine Zeile hinzugefügt hat? Dann legen Sie e
 3. Wählen Sie den Spaltentyp **Ersteller** aus.
 4. Klicken Sie auf **Abschicken**.
 
-![Wie man herausfindet wer eine Zeile hinzugefügt hat.](https://seatable.io/wp-content/uploads/2022/11/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
+![Wie man herausfindet wer eine Zeile hinzugefügt hat.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
 
 ## Weitere Zeilendetails über Spalten anzeigen
 

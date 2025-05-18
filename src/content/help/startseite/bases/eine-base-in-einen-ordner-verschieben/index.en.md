@@ -15,14 +15,14 @@ To get a better overview of your Bases, you have the possibility to move individ
 
 ## Drag and drop a base into a folder
 
-![Move a Base to a Folder](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-2.gif)
+![Move a Base to a Folder](images/move-a-base-to-a-folder-2.gif)
 
 1. Switch to the SeaTable **home** page.
 2. Select the **base** you want and **drag and drop** it into any **folder**.
 
 ## Move a base to a folder via context menu
 
-![Move a base to a folder via context menu](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-from-the-context-menu-1.gif)
+![Move a base to a folder via context menu](images/move-a-base-to-a-folder-from-the-context-menu-1.gif)
 
 1. Switch to the SeaTable **home** page.
 2. Click the **three dots** to the right of any **Base**.

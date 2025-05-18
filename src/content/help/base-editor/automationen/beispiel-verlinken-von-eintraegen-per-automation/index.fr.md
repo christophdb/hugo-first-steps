@@ -12,7 +12,7 @@ Grâce aux automatisations, vous ne devez plus relier manuellement les entrées 
 
 ## Liens vers des entrées par automatisation
 
-![Bloquer et archiver des lignes avec une automatisation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Bloquer et archiver des lignes avec une automatisation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
 2. Cliquez sur **Ajouter une règle**.
@@ -25,7 +25,7 @@ Grâce aux automatisations, vous ne devez plus relier manuellement les entrées 
 
 Définissez d'abord un **événement déclencheur** pour l'automatisation.
 
-![Événements déclencheurs pour le blocage et l'archivage des lignes](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Événements déclencheurs pour le blocage et l'archivage des lignes](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Remarque importante" >}}
 

@@ -1,11 +1,11 @@
 ---
-title: "Einführung in die Möglichkeiten von Big Data"
+title: 'Einführung in die Möglichkeiten von Big Data'
 date: 2023-05-12
-lastmod: "2024-05-13"
-categories: 
-  - "big-data"
-author: "cdb"
-url: "/de/hilfe/potenzial-big-data"
+lastmod: '2024-05-13'
+categories:
+    - 'big-data'
+author: 'cdb'
+url: '/de/hilfe/potenzial-big-data'
 ---
 
 {{< required-version "Enterprise" >}}
@@ -14,7 +14,7 @@ SeaTable bietet Ihnen zwei verschiedene Speichermöglichkeiten für die Datensä
 
 Dieser Artikel gibt Ihnen einen ersten Überblick über die Big-Data-Funktion in SeaTable, während Sie für die verschiedenen Details separate Hilfeartikel finden.
 
-![Big data backend in action](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Base-Stats-with-Big-Data.png)
+![Big data backend in action](images/SeaTable-3.1-Base-Stats-with-Big-Data.png)
 
 ## Für jeden Bedarf eine Lösung
 

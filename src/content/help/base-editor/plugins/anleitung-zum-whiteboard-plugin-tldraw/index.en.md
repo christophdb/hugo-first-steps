@@ -18,7 +18,7 @@ You can find out how to activate the plugin in a base [here](https://seatable.io
 
 By default, a drawing with a blank canvas is already created when you open the whiteboard plugin for the first time. If you would like to create another drawing, click on {{< seatable-icon icon="dtable-icon-add-table" >}} **Add drawing**. This opens an input field in which you can enter the desired **name**.
 
-![Whiteboard drawing options](https://seatable.io/wp-content/uploads/2025/03/Optionen-einer-Whiteboard-Zeichnung-1.png)
+![Whiteboard drawing options](images/Optionen-einer-Whiteboard-Zeichnung-1.png)
 
 To **change** the **order of the drawings**, hold down the left mouse button on the **gripping surface** {{< seatable-icon icon="dtable-icon-drag" >}} and **drag and drop** the drawing to the desired position. You can also **rename** and **delete** the drawings.
 

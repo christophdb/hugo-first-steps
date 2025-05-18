@@ -68,7 +68,7 @@ Toutes les modifications effectuées dans une ligne peuvent être consultées da
 
 Le **journal des lignes** vous permet de savoir quand quel utilisateur a effectué quelle modification sur l'enregistrement d'une **ligne**. Si vous souhaitez au contraire voir toutes les modifications dans une base, vous devez recourir au **journal de base**.
 
-![Affichage des changements sur une ligne par des logs.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
+![Affichage des changements sur une ligne par des logs.](images/Logs.png)
 
 Si vous avez besoin de plus d'informations sur le log de ligne, n'hésitez pas à consulter l'[article d'aide]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) correspondant.
 
@@ -76,11 +76,11 @@ Si vous avez besoin de plus d'informations sur le log de ligne, n'hésitez pas �
 
 Pour vérifier la bonne exécution d'une **automatisation**, vous avez la possibilité de consulter le **journal d'exécution**, auquel vous pouvez accéder via les options de base.
 
-![Afficher le journal d'exécution](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Afficher le journal d'exécution](images/open-an-automation-log.png)
 
 SeaTable y consigne les informations suivantes pour chaque cycle d'automatisation : heure d'exécution, condition d'exécution, état et avertissements éventuels.
 
-![Structure d'un journal de bord](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Structure d'un journal de bord](images/structure-of-an-automation-log-newest.png)
 
 Vous trouverez [ici](https://seatable.io/fr/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/) de plus amples informations sur le protocole d'exécution d'une automatisation.
 

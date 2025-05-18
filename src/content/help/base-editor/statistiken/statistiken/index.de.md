@@ -31,7 +31,7 @@ Mit dem [Statistik-Modul](https://seatable.io/docs/plugins/anleitung-zum-statist
 
 Die Verwaltung von Diagrammen und Pivot-Tabellen erfolgt auf dem Dashboard des Statistik-Moduls. Alle erstellten Diagramme und Pivot-Tabellen werden dort gespeichert und stehen jederzeit für den erneuten Abruf bereit. Alle bestehenden Statistiken werden **automatisch aktualisiert**, wenn Sie Daten in der Tabelle ändern. Sie müssen also nie an die Aktualisierung der Statistiken denken – das macht SeaTable für Sie!
 
-![Verschiedene Statistiken im Modul](https://seatable.io/wp-content/uploads/2021/10/Statistiken.png)
+![Verschiedene Statistiken im Modul](images/Statistiken.png)
 
 Die im Statistik-Modul angezeigten Auswertungen beziehen sich immer auf **eine Tabelle** in der geöffneten Base. Die Datengrundlage für die Visualisierung und Auswertung legen Sie durch die Wahl der anzuwendenden **Ansicht** fest. Wenn Sie ein Diagramm oder eine Pivot-Tabelle nur für einen **Teil der Daten** in einer Tabelle erstellen wollen, dann legen Sie eine geeignete Ansicht an. Im Statistik-Modul selbst werden Sie keine **Filterfunktionen** finden. Aus diesem Grund müssen Sie vor der Erstellung einer Statistik immer die relevanten Daten in einer Ansicht definieren.
 

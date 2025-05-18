@@ -14,7 +14,7 @@ Si vous disposez d'un abonnement Enterprise, vous pouvez également envoyer des 
 
 ## Envoyer des notifications par automatisation
 
-![Envoyer des e-mails par automatisation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Envoyer des e-mails par automatisation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
 2. Cliquez sur **Ajouter une règle**.
@@ -27,7 +27,7 @@ Si vous disposez d'un abonnement Enterprise, vous pouvez également envoyer des 
 
 Définissez d'abord un **événement déclencheur** pour l'automatisation.
 
-![Événements déclencheurs à choisir en principe](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Événements déclencheurs à choisir en principe](images/trigger-options-for-archivating-rows.png)
 
 Les **quatre options** sont
 
@@ -38,7 +38,7 @@ Les **quatre options** sont
 
 Sélectionnez ensuite **Envoyer une notification** comme action automatisée. Celle-ci est disponible comme action pour les quatre options de déclenchement.
 
-![Ajouter l'action automatisée](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png)  
+![Ajouter l'action automatisée](images/add-an-action.png)  
 ![Ajouter l'action automatisée](images/send-notification.png)
 
 L'étape suivante consiste à sélectionner les **utilisateurs** qui doivent être informés lorsque l'événement déclencheur se produit. Notez que vous ne pouvez sélectionner ici que les utilisateurs qui ont au moins **un accès en lecture** à la table ou à la vue.

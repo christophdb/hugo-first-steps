@@ -14,7 +14,7 @@ Pode utilizar a **ferramenta de formatação de linhas para** definir marcas col
 
 Nas opções de visualização acima de uma tabela encontrará o seguinte símbolo:
 
-![Ferramenta de marcação a cores](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-1.png)
+![Ferramenta de marcação a cores](images/Farbliche-Markierung-von-Zellen-1.png)
 
 Depois de clicar na ferramenta line-format, pode escolher entre **três opções** para a marcação a cores:
 
@@ -22,13 +22,13 @@ Depois de clicar na ferramenta line-format, pode escolher entre **três opções
 - Regras de utilização
 - Destacar duplicados
 
-![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-2.png)
+![Marcação a cores das células](images/Farbliche-Markierung-von-Zellen-2.png)
 
 ## Utilizar uma única coluna de selecção
 
 Para a opção **Utilizar coluna de seleção única**, é necessária uma coluna deste tipo na tabela. Isto permite-lhe marcar cada linha no **início da linha** com a cor da respectiva opção que é introduzida nesta coluna.
 
-![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-3.png)
+![Marcação a cores das células](images/Farbliche-Markierung-von-Zellen-3.png)
 
 {{< warning  headline="Criar uma coluna de seleção única"  text="Descubra [aqui](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) como criar novas colunas de seleção simples." />}}
 
@@ -37,11 +37,11 @@ Para a opção **Utilizar coluna de seleção única**, é necessária uma colun
 A opção **Regras de Utilização** permite-lhe definir condições para a marcação por cor.
 
 - Clique no botão **símbolo de triângulo colorido**para mudar a cor do marcador.
-  ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
+  ![Marcação a cores das células](images/Farbliche-Markierung-von-Zellen-5.png)
 - Determine qual dos seus **Colunas** a condição deve referir-se a.
-  ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
+  ![Marcação a cores das células](images/Farbliche-Markierung-von-Zellen-6.png)
 - Decidir a favor do **Tipo de condição**.
-  ![Marcação a cores das células](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
+  ![Marcação a cores das células](images/Farbliche-Markierung-von-Zellen-7.png)
 
 {{< warning  headline="Selecção dos tipos de condições dependendo do tipo de coluna"  text="Note que o tipo de coluna seleccionada determina que opções tem para selecção nas condições." />}}
 
@@ -49,16 +49,16 @@ A opção **Regras de Utilização** permite-lhe definir condições para a marc
 
 Neste exemplo, todas as linhas de um plano editorial que estão marcadas como concluídas na [coluna da caixa de verificação](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) devem ser destacadas. Para tal, foi selecionada a **coluna "Publicado"**, foi utilizada a condição **"é"** e foi especificado que as linhas **com um visto** devem ser marcadas.
 
-![Marcação a cores das linhas](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-9.png)
+![Marcação a cores das linhas](images/Farbliche-Markierung-von-Zellen-9.png)
 
 ### Exemplo de uma regra com várias condições
 
 Neste exemplo, só queremos destacar as linhas do plano editorial a cores se o **estado** da publicação não estiver "terminado", se a **data de publicação** estiver no futuro e se já existir uma **imagem** disponível.
 
-![Regra com várias condições para a marcação de linhas coloridas](https://seatable.io/wp-content/uploads/2022/11/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Regra com várias condições para a marcação de linhas coloridas](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 ## Destacar duplicados
 
 Pode destacar linhas com um ou mais valores de coluna idênticos utilizando a opção **Destacar Duplicações**. Para o fazer, seleccione a coluna que pretende verificar se existem duplicados. Desta forma pode facilmente identificar duplicados na sua mesa e corrigi-los ou eliminá-los, se necessário.
 
-![Destacar as células duplicadas a cores](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-9-1.png)
+![Destacar as células duplicadas a cores](images/Farbliche-Markierung-von-Zellen-9-1.png)

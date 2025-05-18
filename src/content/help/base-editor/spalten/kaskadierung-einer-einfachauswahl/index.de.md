@@ -14,14 +14,14 @@ Mithilfe der Kaskadierungsfunktion können Sie für jede Einfachauswahl-Spalte e
 
 ## Kaskadierung einer Einfachauswahl
 
-![Definierung einer Kaskadierung](https://seatable.io/wp-content/uploads/2022/11/Definierung-einer-Kaskadierung-1.png)
+![Definierung einer Kaskadierung](images/Definierung-einer-Kaskadierung-1.png)
 
 1. Klicken Sie auf das **Dreieck-Symbol** einer beliebigen Einfachauswahl-Spalte.
 2. Klicken Sie auf **Kaskadierung definieren**.
 3. Wählen Sie eine beliebige **Einfachauswahl-Spalte** aus, die als übergeordnete Spalte fungieren soll.
 4. Weisen Sie den **übergeordneten Optionen** dieser Spalte beliebige Optionen aus der **aktuellen, zu Beginn ausgewählten Spalte** zu.
 
-![Zuweisung der Optionen der übergeordneten Einfachauswahl-Spalte.](https://seatable.io/wp-content/uploads/2022/11/Zuweisung-der-Optionen-bei-einer-Kaskadierung-1.png)
+![Zuweisung der Optionen der übergeordneten Einfachauswahl-Spalte.](images/Zuweisung-der-Optionen-bei-einer-Kaskadierung-1.png)
 
 ## Funktionsweise einer Kaskadierung
 
@@ -29,17 +29,17 @@ Mithilfe der Kaskadierungsfunktion können Sie für jede Einfachauswahl-Spalte e
 
 Wenn Sie eine Kaskadierung für eine Einfachauswahl-Spalte definieren, **schränken Sie die Optionen ein**, welche den Zellen in dieser Spalte zugewiesen werden können. Als entscheidender Faktor fungieren dabei die Optionen der Einfachauswahl-Spalte, die Sie als **übergeordnete Spalte** definieren. Für ein besseres Verständnis wird die Funktionsweise einer Kaskadierung anhand eines **Beispiels** ausführlich erläutert:
 
-![Definition einer Kaskadierung anhand eines Beispiels.](https://seatable.io/wp-content/uploads/2022/11/Beispiel-fuer-eine-Kaskadierung-Bild-1.png)
+![Definition einer Kaskadierung anhand eines Beispiels.](images/Beispiel-fuer-eine-Kaskadierung-Bild-1.png)
 
 In diesem Beispiel enthält die Tabelle Daten über verschiedene Fortbildungs-/Trainingseinheiten von Mitarbeitern. Neben der ersten Spalte, die verschiedene Trainings erfasst, existiert bereits eine **Einfachauswahl-Spalte**, die den jeweiligen Standort des Trainings angibt. Für eine **neu hinzugefügte Einfachauswahl-Spalte**, welche das genaue Gebäude erfasst, wird in diesem Beispiel eine **Kaskadierung** definiert.
 
-![Zuordnung von Optionen der ausgewählten Spalte zu den Optionen der übergeordneten Einfachauswahl-Spalte.](https://seatable.io/wp-content/uploads/2022/11/Beispiel-fuer-eine-Kaskadierung-Bild-2.png)
+![Zuordnung von Optionen der ausgewählten Spalte zu den Optionen der übergeordneten Einfachauswahl-Spalte.](images/Beispiel-fuer-eine-Kaskadierung-Bild-2.png)
 
 Als **übergeordnete** Einfachauswahl-Spalte dient in diesem Beispiel die Spalte **"Location"**, welche die Stadt angibt, in der das jeweilige Training stattfindet. Im nächsten Schritt weist man nun den drei Städten in dieser Spalte **untergeordnete Optionen** aus der neu angelegten Einfachauswahl-Spalte **"Building"** zu.
 
 Konkret werden den drei Orten **London**, **Paris** und **Berlin** die Gebäude zugewiesen, die sich in der jeweiligen Stadt befinden.
 
-![In der Einfachauswahl-Spalte zur Verfügung stehende Optionen, nach der Definition einer Kaskadierung.](https://seatable.io/wp-content/uploads/2022/11/Beispiel-fuer-eine-Kaskadierung-Bild-3.png)
+![In der Einfachauswahl-Spalte zur Verfügung stehende Optionen, nach der Definition einer Kaskadierung.](images/Beispiel-fuer-eine-Kaskadierung-Bild-3.png)
 
 Indem man eine solche Kaskadierung definiert, **begrenzt** man letztlich **die Optionen in der untergeordneten Spalte**. Welche Optionen bzw. Gebäude in einer Zelle der untergeordneten Spalte "Building" verfügbar sind, hängt dabei von der Stadt ab, welche in derselben Zeile bei der Einfachauswahl-Spalte "Location" ausgewählt ist. Dadurch stehen in jeder Zelle der Spalte "Building" **ausschließlich** die Gebäude zur Auswahl, die sich auch in der entsprechenden Stadt befinden.
 

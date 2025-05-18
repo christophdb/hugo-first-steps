@@ -42,7 +42,7 @@ Vous pouvez à tout moment modifier les **destinataires** et **le contenu** des 
 
 Les utilisateurs peuvent consulter leurs notifications en cliquant sur l'**icône de la cloche** {{< seatable-icon icon="dtable-icon-notice" >}} à côté de leur avatar dans le coin supérieur droit.
 
-![Notification lors de l'action : "Envoi de notifications à un ou plusieurs utilisateurs". ](https://seatable.io/wp-content/uploads/2022/12/example-action-notification.png)
+![Notification lors de l'action : "Envoi de notifications à un ou plusieurs utilisateurs". ](images/example-action-notification.png)
 
 L'action d'automatisation "Envoyer une notification" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
@@ -76,7 +76,7 @@ L'action d'automatisation "Envoyer une notification d'application" est actuellem
 
 En définissant "Envoyer un e-mail" comme action automatisée, vous pouvez envoyer des e-mails prédéfinis à un ou plusieurs utilisateurs. SeaTable envoie alors un **e-mail** à chaque utilisateur sélectionné dès que le **déclencheur** correspondant est déclenché. Vous pouvez modifier à tout moment le destinataire, l'objet, le contenu et les pièces jointes de l'e-mail dans les **paramètres** d'automatisation.
 
-![Définition de l'action d'automatisation : "Envoi d'e-mails à un ou plusieurs utilisateurs".](https://seatable.io/wp-content/uploads/2022/12/example-action-email.png)
+![Définition de l'action d'automatisation : "Envoi d'e-mails à un ou plusieurs utilisateurs".](images/example-action-email.png)
 
 L'action d'automatisation "Envoyer un e-mail" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
@@ -91,7 +91,7 @@ L'article [Envoi d'e-mails par automatisation](https://seatable.io/fr/docs/beisp
 
 Si vous définissez "Ajouter une ligne" comme action automatisée, une **nouvelle entrée** est ajoutée au tableau dès que le **déclencheur** correspondant est **déclenché**. Vous pouvez définir à l'avance le **contenu** exact de l'entrée individuellement pour chaque colonne.
 
-![Action d'automatisation : "Ajouter une entrée dans le tableau".](https://seatable.io/wp-content/uploads/2022/12/action-add-records.png)
+![Action d'automatisation : "Ajouter une entrée dans le tableau".](images/action-add-records.png)
 
 L'action d'automatisation "Ajouter une ligne" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
@@ -105,8 +105,8 @@ L'article [Ajouter des lignes par automation](https://seatable.io/fr/docs/beispi
 
 Si vous définissez "Verrouiller l'entrée" comme action automatisée, la **ligne** contenant l'entrée qui a déclenché l'automatisation sera **bloquée** pour l'édition. Notez que vous ne pouvez **pas** **débloquer** les lignes bloquées sans droits d'administrateur.
 
-![Définition de l'action d'automatisation : "Verrouiller une entrée dans la table".](https://seatable.io/wp-content/uploads/2022/12/action-lock-records.png)  
-![Blocage d'une entrée dans une table déclenché par une automatisation ](https://seatable.io/wp-content/uploads/2022/12/example-locked-records.png)
+![Définition de l'action d'automatisation : "Verrouiller une entrée dans la table".](images/action-lock-records.png)  
+![Blocage d'une entrée dans une table déclenché par une automatisation ](images/example-locked-records.png)
 
 L'action d'automatisation "Bloquer l'entrée" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
@@ -120,7 +120,7 @@ L'article [Verrouiller des lignes par automation](https://seatable.io/fr/docs/be
 
 Si vous sélectionnez "Modifier l'entrée" comme action automatisée, **les entrées** du tableau seront adaptées après le **déclenchement** du **trigger** selon les **paramètres** définis au préalable. Comme on peut le voir dans la capture d'écran, la date d'entrée d'un nouvel employé qui vient d'être saisi dans le tableau peut par exemple être automatiquement définie à la date du jour.
 
-![Action d'automatisation : "Adapter une entrée dans le tableau".](https://seatable.io/wp-content/uploads/2022/12/action-modify-a-record.png)
+![Action d'automatisation : "Adapter une entrée dans le tableau".](images/action-modify-a-record.png)
 
 L'action d'automatisation "Modifier l'entrée" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
@@ -132,7 +132,7 @@ L'action d'automatisation "Modifier l'entrée" est actuellement disponible pour 
 
 Si vous sélectionnez "Ajouter des liens" comme action automatisée, un [lien vers les entrées d'un autre tableau]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) est créé dans la colonne correspondante lorsque le **déclencheur** est **déclenché**. Dans les **paramètres** de la règle d'automatisation, vous pouvez alors définir très précisément dans quelles conditions tel ou tel lien sera ajouté dans le tableau.
 
-![Action d'automatisation : "Ajouter une colonne liée dans le tableau".](https://seatable.io/wp-content/uploads/2022/12/action-add-links.png)
+![Action d'automatisation : "Ajouter une colonne liée dans le tableau".](images/action-add-links.png)
 
 L'action d'automatisation "Ajouter des liens" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
@@ -146,7 +146,7 @@ L'article [Lier des entrées par automatisation](https://seatable.io/fr/docs/bei
 
 Si vous sélectionnez "Ajouter une nouvelle entrée dans une autre table" comme action automatisée, une **entrée** est créée dans une **autre** table lorsque le **déclencheur** est **déclenché**. Dans les **paramètres** de la règle d'automatisation, vous pouvez alors définir des entrées individuelles qui seront ajoutées aux tables sélectionnées au cours de l'automatisation.
 
-![Action d'automatisation : "Ajouter une entrée dans une autre table".](https://seatable.io/wp-content/uploads/2022/12/action-add-records-to-another-table-new.png)
+![Action d'automatisation : "Ajouter une entrée dans une autre table".](images/action-add-records-to-another-table-new.png)
 
 L'action d'automatisation "Ajouter une nouvelle entrée dans une autre table" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
@@ -169,7 +169,7 @@ L'action d'automatisation "Convertir la page en PDF" est actuellement disponible
 
 Si vous sélectionnez l'exécution d'un script Python comme action automatisée, SeaTable peut exécuter un **script Python** défini à l'avance dans la table sélectionnée. Vous pouvez créer ou modifier le script à tout moment dans l'[éditeur de script](https://seatable.io/fr/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/), puis le sélectionner dans les **paramètres** de la règle d'automatisation.
 
-![Action d'automatisation : "Exécution d'un script Python".](https://seatable.io/wp-content/uploads/2022/12/action-run-python-script.png)
+![Action d'automatisation : "Exécution d'un script Python".](images/action-run-python-script.png)
 
 L'action d'automatisation "Exécuter un script Python" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 

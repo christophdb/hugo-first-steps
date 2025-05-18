@@ -21,7 +21,7 @@ To be able to create a new table in a base with a shared data record, the base m
 
 ## Create a new table with a shared data record
 
-![Create a new table with a shared data record](https://seatable.io/wp-content/uploads/2022/11/image-how-to-create-a-new-table-with-a-common-dataset.png)
+![Create a new table with a shared data record](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
 
 1. Open a **table** that is in a Base that meets one of the **requirements** described above.
 2. Click the **\[+\] symbol** to create a new table.
@@ -37,11 +37,11 @@ If the **import of** the common data set is **successful**, the following messag
 
 Tables created with a shared data record can be distinguished from other tables by the **stack symbol** in front of the table name. If you move the mouse pointer over the symbol, a short **info text** also indicates that the table was created with a shared data record.
 
-![Icon in front of the name of tables of a common data set.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset-1.png)
+![Icon in front of the name of tables of a common data set.](images/icon-table-common-dataset-1.png)
 
 Another feature is the **character** on the icon of the columns that contain data from a **shared** data set. Table columns that **do not** contain data from a shared data record therefore **do not** have this label on the column icon.
 
-![Column of a common data set (left) and regular column (right)](https://seatable.io/wp-content/uploads/2022/11/icons-of-the-column-of-a-common-dataset-2.png)
+![Column of a common data set (left) and regular column (right)](images/icons-of-the-column-of-a-common-dataset-2.png)
 
 ## Consequences for data processing
 

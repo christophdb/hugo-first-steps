@@ -16,6 +16,6 @@ Chaque groupe dans SeaTable possède un **identifiant** appelé **Workspace ID**
 2. Cliquez sur **n'importe quelle base du groupe** dont vous souhaitez déterminer l'**ID d'espace de travail**.
 3. Lorsque la base sélectionnée s'est ouverte, vous pouvez lire l'**ID de l'espace de travail** en haut de l'**URL** de la page.
 
-![Déterminer l'ID de l'espace de travail d'un groupe](https://seatable.io/wp-content/uploads/2022/09/workspace-id-png.jpg)
+![Déterminer l'ID de l'espace de travail d'un groupe](images/workspace-id-png.jpg)
 
 ## Exemple d'illustration

@@ -17,7 +17,7 @@ Quer descobrir **quem** acrescentou uma fila? Então crie uma coluna do tipo [Cr
 3. Seleccionar o tipo de coluna **Creator**.
 4. Clique em **Submeter**.
 
-![Como descobrir quem acrescentou uma linha.](https://seatable.io/wp-content/uploads/2022/11/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
+![Como descobrir quem acrescentou uma linha.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
 
 ## Mostrar mais detalhes da linha através de colunas
 

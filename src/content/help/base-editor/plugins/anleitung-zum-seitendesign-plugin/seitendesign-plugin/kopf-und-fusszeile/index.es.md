@@ -16,7 +16,7 @@ Puede insertar **encabezados y pies de página** como áreas especiales en una p
 
 Sólo puede variar la **altura de** los encabezados y pies de página, ya que éstos siempre se extienden por **todo el ancho de la página**. En el campo **Altura**, introduzca el valor numérico deseado o modifíquelo utilizando las **teclas de flecha** o desplazándose con la **rueda del ratón**.
 
-![Ajuste de la altura de la cabecera y el pie de página.](https://seatable.io/wp-content/uploads/2022/11/Einstellungen-Kopfzeile-3.gif)
+![Ajuste de la altura de la cabecera y el pie de página.](images/Einstellungen-Kopfzeile-3.gif)
 
 También puede cambiar la altura directamente en la página **haciendo clic con el botón derecho del ratón** en la cabecera o el pie de página y **arrastrando** el pequeño **cuadrado** situado en la esquina inferior derecha del marco.
 
@@ -42,4 +42,4 @@ Puede insertar los siguientes elementos en los encabezados y pies de página:
 
 Puede **bloquear** o **eliminar** encabezados y pies de página seleccionando la opción correspondiente. Si bloquea un encabezado o un pie de página, también se bloquearán **todos los elementos** que haya insertado previamente en esta zona. Lo mismo ocurre con el borrado, por el que también se borran todos los elementos de una cabecera o pie de página.
 
-![Bloquear y borrar con el complemento de página](https://seatable.io/wp-content/uploads/2022/11/sperren-und-loeschen-1.png)
+![Bloquear y borrar con el complemento de página](images/sperren-und-loeschen-1.png)

@@ -12,15 +12,15 @@ url: '/pt/ajuda/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
 
 ## Partilhar um registo comum com outro grupo
 
-![Partilhar um registo comum com outro grupo](https://seatable.io/wp-content/uploads/2022/11/overview-common-datasets.png)
+![Partilhar um registo comum com outro grupo](images/overview-common-datasets.png)
 
-![Partilhar um registo comum com outro grupo](https://seatable.io/wp-content/uploads/2022/11/release-a-common-dataset-to-a-external-group-2.gif) 3. Abrir a página **inicial** da SeaTable. 4. Clique no separador **Registo Partilhado**. 5. Seleccione o registo de dados partilhados que pretende **partilhar** com outro grupo. 6. Clique nos **três pontos** à direita do registo de dados correspondente e depois em **Gerir acesso**. 7. Seleccionar um **grupo** para o qual o registo deve ser divulgado. 8. Confirme a libertação clicando em **Adicionar**.
+![Partilhar um registo comum com outro grupo](images/release-a-common-dataset-to-a-external-group-2.gif) 3. Abrir a página **inicial** da SeaTable. 4. Clique no separador **Registo Partilhado**. 5. Seleccione o registo de dados partilhados que pretende **partilhar** com outro grupo. 6. Clique nos **três pontos** à direita do registo de dados correspondente e depois em **Gerir acesso**. 7. Seleccionar um **grupo** para o qual o registo deve ser divulgado. 8. Confirme a libertação clicando em **Adicionar**.
 
 ## Libertação de dissolução
 
 Para **cancelar** a libertação de um registo de dados partilhados para outro grupo, basta seguir novamente os passos acima e clicar em **Eliminar** junto ao grupo correspondente nas autorizações de acesso.
 
-![Resolver o lançamento de um registo partilhado para outro grupo.](https://seatable.io/wp-content/uploads/2022/11/cancel-the-release-of-a-common-dataset-to-an-external-group.png)
+![Resolver o lançamento de um registo partilhado para outro grupo.](images/cancel-the-release-of-a-common-dataset-to-an-external-group.png)
 
 ### Consequências da dissolução
 

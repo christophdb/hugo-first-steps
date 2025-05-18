@@ -35,7 +35,7 @@ Vous pouvez attirer l'attention des membres de l'équipe sur votre commentaire e
 
 Dans la première colonne du tableau, pour les lignes commentées, une **icône en forme de bulle** apparaît avec un chiffre qui indique le **nombre de commentaires** au cours des 180 derniers jours. En cliquant sur l'icône, vous ouvrez la fenêtre des commentaires avec l'historique du chat.
 
-![Affichage des commentaires sur une même ligne.](https://seatable.io/wp-content/uploads/2022/11/kommentar-blase.png)
+![Affichage des commentaires sur une même ligne.](images/kommentar-blase.png)
 
 {{< warning  headline="Remarque"  text="Si personne ne rédige de nouveau commentaire sur une ligne **pendant 180 jours**, l'**icône en forme de bulle** **disparaît** à nouveau. Les commentaires sont conservés et peuvent toujours être consultés via les **détails de la ligne**, mais il n'est plus visible dans le tableau que cette ligne a été commentée auparavant." />}}
 
@@ -43,7 +43,7 @@ Dans la première colonne du tableau, pour les lignes commentées, une **icône 
 
 Seul le **créateur** lui-même peut **supprimer** ses commentaires ou les **marquer comme étant terminés**. Pour ce faire, il clique sur les **trois points** à droite de son commentaire et choisit l'option souhaitée. Les commentaires marqués comme terminés sont signalés par une couleur verte.
 
-![](https://seatable.io/wp-content/uploads/2022/11/Kommentare-als-erledigt-markieren-1.png)
+![](images/Kommentare-als-erledigt-markieren-1.png)
 
 ## Ajouter des images à un commentaire
 

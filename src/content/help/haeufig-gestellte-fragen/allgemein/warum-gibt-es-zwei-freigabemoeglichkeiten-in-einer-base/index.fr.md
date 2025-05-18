@@ -18,7 +18,7 @@ Les deux partages se font via la boîte de dialogue Partager - une fenêtre à l
 
 ## Partage d'une base
 
-![Ouvrir le dialogue de partage au sein de la base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Ouvrir le dialogue de partage au sein de la base](images/share-a-base.png)
 
 Si vous souhaitez partager l'une de vos bases, vous avez le choix entre différentes options, en fonction du cercle de personnes avec lequel vous souhaitez partager les données :
 

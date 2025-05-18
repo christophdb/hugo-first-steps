@@ -42,7 +42,7 @@ You can edit the **recipients** and **content** of the notifications at any time
 
 Users can access their notifications via the {{< seatable-icon icon="dtable-icon-notice" >}} **bell icon** next to their avatar in the top right-hand corner.
 
-![Notification on action: "Send notifications to one or more users". ](https://seatable.io/wp-content/uploads/2022/12/example-action-notification.png)
+![Notification on action: "Send notifications to one or more users". ](images/example-action-notification.png)
 
 The automation action "Send notification" is currently available for the following **automation triggers**:
 
@@ -76,7 +76,7 @@ The "Send app notification" automation action is currently available for the fol
 
 By defining "Send email" as an automated action, you can send predefined emails to one or more users. SeaTable sends an **email** to each selected user as soon as the corresponding **trigger** is **triggered**. You can edit the recipient, subject, content and attachments of the email at any time in the automation **settings**.
 
-![Definition of the automation action: "Sending e-mails to one or more users".](https://seatable.io/wp-content/uploads/2022/12/example-action-email.png)
+![Definition of the automation action: "Sending e-mails to one or more users".](images/example-action-email.png)
 
 The automation action "Send e-mail" is currently available for the following **automation triggers**:
 
@@ -91,7 +91,7 @@ The article [Email Sending by Automation](https://seatable.io/en/docs/beispiel-a
 
 If you define "Addrow " as an automated action, a **new entry** is added to the table as soon as the corresponding **trigger** is activated. You can define the exact **content** of the entry individually for each column in advance.
 
-![Automation action: "Add an entry to the table".](https://seatable.io/wp-content/uploads/2022/12/action-add-records.png)
+![Automation action: "Add an entry to the table".](images/action-add-records.png)
 
 The automation action "row add" is currently available for the following **automation triggers**:
 
@@ -105,8 +105,8 @@ The article [rows add by automation](https://seatable.io/en/docs/beispiel-automa
 
 If you define "Lock entry" as an automated action, the **row** with the entry that triggered the automation is **locked** for editing. Please note that you can **no** longer **unlock** locked rows without administrator rights.
 
-![Definition of the automation action: "Lock an entry in the table".](https://seatable.io/wp-content/uploads/2022/12/action-lock-records.png)  
-![Locking an entry in a table triggered by automation ](https://seatable.io/wp-content/uploads/2022/12/example-locked-records.png)
+![Definition of the automation action: "Lock an entry in the table".](images/action-lock-records.png)  
+![Locking an entry in a table triggered by automation ](images/example-locked-records.png)
 
 The automation action "Lock entry" is currently available for the following **automation triggers**:
 
@@ -120,7 +120,7 @@ The article [rows Locking via Automation](https://seatable.io/en/docs/beispiel-a
 
 If you select "Edit entry" as an automated action, **entries** in the table are adjusted according to the **settings** defined in advance after the **trigger is triggered**. As can be seen in the screenshot, for example, the start date of a new employee who is entered in the table can be automatically set to today's date.
 
-![Automation action: "Adjust an entry in the table".](https://seatable.io/wp-content/uploads/2022/12/action-modify-a-record.png)
+![Automation action: "Adjust an entry in the table".](images/action-modify-a-record.png)
 
 The "Edit entry" automation action is currently available for the following **automation triggers**:
 
@@ -132,7 +132,7 @@ The "Edit entry" automation action is currently available for the following **au
 
 If you select "Add links" as an automated action, a link [to entries in another table]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is created in the corresponding column when the **trigger is triggered**. In the automation rule **settings**, you can specify exactly under which conditions which link is added to the table.
 
-![Automation action: "Add a linked column to the table".](https://seatable.io/wp-content/uploads/2022/12/action-add-links.png)
+![Automation action: "Add a linked column to the table".](images/action-add-links.png)
 
 The Add Links automation action is currently available for the following **automation triggers**:
 
@@ -146,7 +146,7 @@ The article [Linking entries via automation](https://seatable.io/en/docs/beispie
 
 If you select "Add new entry in another table" as an automated action, an **entry** is created in **another** table when the **trigger is triggered**. In the automation rule **settings**, you can define individual entries that are added to the selected tables as part of the automation.
 
-![Automation action: "Add an entry to another table".](https://seatable.io/wp-content/uploads/2022/12/action-add-records-to-another-table-new.png)
+![Automation action: "Add an entry to another table".](images/action-add-records-to-another-table-new.png)
 
 The automation action "Add new entry in other table" is currently available for the following **automation triggers**:
 
@@ -169,7 +169,7 @@ The "Convert page to PDF" automation action is currently available with the foll
 
 If you select the execution of a Python script as an automated action, SeaTable can execute a pre-defined **Python script** in the selected table. You can create or edit the script at any time in the [script editor](https://seatable.io/en/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) and then select it in the automation rule **settings**.
 
-![Automation action: "Execute a Python script".](https://seatable.io/wp-content/uploads/2022/12/action-run-python-script.png)
+![Automation action: "Execute a Python script".](images/action-run-python-script.png)
 
 The Run Python Script automation action is currently available with the following **automation triggers**:
 

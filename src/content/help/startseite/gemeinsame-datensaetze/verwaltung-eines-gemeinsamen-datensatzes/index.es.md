@@ -14,13 +14,13 @@ Una vez que haya creado un registro de datos compartidos, podrá realizar divers
 
 1. Abra la página de **inicio** de SeaTable.
 
-![Gestión de un conjunto de datos compartidos](https://seatable.io/wp-content/uploads/2022/11/overview-common-datasets.png)
+![Gestión de un conjunto de datos compartidos](images/overview-common-datasets.png)
 
 3. Haga clic en **Registro** de datos compartidos. Ahora se encuentra en la **vista general** de todos los registros de datos compartidos.
 4. Sitúe el ratón sobre un registro de datos compartidos y haga clic en los **tres puntos** del extremo derecho.
 5. Seleccione la opción deseada en el siguiente menú.
 
-![Más operaciones para conjuntos de datos comunes](https://seatable.io/wp-content/uploads/2024/06/More-operations-for-common-datasets.png)
+![Más operaciones para conjuntos de datos comunes](images/More-operations-for-common-datasets.png)
 
 {{< warning  headline="Autorización necesaria"  text="Sólo puede realizar estas operaciones de gestión si es el **creador** del registro de datos compartido. Los **tres puntos están ocultos** para los registros de datos que sólo se liberan a uno de sus grupos." />}}
 
@@ -28,17 +28,17 @@ Una vez que haya creado un registro de datos compartidos, podrá realizar divers
 
 Si en su equipo se utilizan mucho los conjuntos de datos compartidos, puede ser fácil perder la cuenta. ¿A qué **grupos** se destina un registro de datos compartidos y en qué **bases** está integrado? Puede consultar esta información en **Detalles**.
 
-![Detalles de un conjunto de datos común](https://seatable.io/wp-content/uploads/2024/06/Details-of-a-common-dataset.png)
+![Detalles de un conjunto de datos común](images/Details-of-a-common-dataset.png)
 
-![Detalles de los conjuntos de datos comunes](https://seatable.io/wp-content/uploads/2024/06/Common-dataset-details.png)
+![Detalles de los conjuntos de datos comunes](images/Common-dataset-details.png)
 
 ## Renombrar un conjunto de datos compartido
 
 Si desea cambiar el **nombre** de su registro de datos compartidos, sólo tiene que hacer clic en **Cambiar nombre**.
 
-![Opción de cambio de nombre del conjunto de datos común](https://seatable.io/wp-content/uploads/2024/06/Rename-common-dataset-option.png)
+![Opción de cambio de nombre del conjunto de datos común](images/Rename-common-dataset-option.png)
 
-![Cambiar el nombre del conjunto de datos común](https://seatable.io/wp-content/uploads/2024/06/Rename-common-dataset.png)
+![Cambiar el nombre del conjunto de datos común](images/Rename-common-dataset.png)
 
 Introduzca el nuevo nombre y confirme con **Enviar**.
 

@@ -15,14 +15,14 @@ url: '/ru/help/eine-base-in-einen-ordner-verschieben'
 
 ## Перетаскивание базы в папку
 
-![Переместить базу в папку](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-2.gif)
+![Переместить базу в папку](images/move-a-base-to-a-folder-2.gif)
 
 1. Переключитесь на **начальную** страницу SeaTable.
 2. Выберите нужную **базу** и **перетащите** ее в любую **папку**.
 
 ## Перемещение базы в папку через контекстное меню
 
-![Перемещение базы в папку через контекстное меню](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-from-the-context-menu-1.gif)
+![Перемещение базы в папку через контекстное меню](images/move-a-base-to-a-folder-from-the-context-menu-1.gif)
 
 1. Переключитесь на **начальную** страницу SeaTable.
 2. Нажмите на **три точки** справа от любой **базы**.

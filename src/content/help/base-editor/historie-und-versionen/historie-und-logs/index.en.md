@@ -68,7 +68,7 @@ All changes made in a row can be viewed in the so-called **rows-log, which you c
 
 The **rows-Log offers you the possibility to track when which user made which change to the record in a** **row** file. If you want to view all changes in a Base instead, you have to resort to the **Base log**.
 
-![Display of changes in a row through logs.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
+![Display of changes in a row through logs.](images/Logs.png)
 
 If you need more information about the rows log, please have a look at the corresponding [help article]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}).
 
@@ -76,11 +76,11 @@ If you need more information about the rows log, please have a look at the corre
 
 To check the correct execution of an **automation**, you have the possibility to view the **execution log**, which you can reach via the Base options.
 
-![Show execution log](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Show execution log](images/open-an-automation-log.png)
 
 In this, SeaTable records the following information for each automation run: execution time, execution condition, status and warnings, if any.
 
-![Structure of a stirring log](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Structure of a stirring log](images/structure-of-an-automation-log-newest.png)
 
 More information about the execution log of an automation can be found [here](https://seatable.io/en/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
 

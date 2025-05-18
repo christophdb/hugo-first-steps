@@ -24,4 +24,4 @@ Dans SeaTable, vous avez la possibilité d'ajouter **des colonnes de cases à co
 
 Vous n'aimez pas la **coche verte** par défaut ? Pas de problème ! Vous disposez de 70 options de style différentes pour remplir vos cases à cocher comme vous le souhaitez.
 
-![Options de style pour les cases à cocher](https://seatable.io/wp-content/uploads/2022/11/Stiloptionen-bei-Checkboxen.png)
+![Options de style pour les cases à cocher](images/Stiloptionen-bei-Checkboxen.png)

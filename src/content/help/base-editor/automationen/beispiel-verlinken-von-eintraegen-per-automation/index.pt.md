@@ -12,7 +12,7 @@ Com a ajuda de automatizações, já não tem de ligar manualmente as entradas n
 
 ## Ligação de entradas via automatização
 
-![Linhas de bloqueio e de arquivo com automatização](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Linhas de bloqueio e de arquivo com automatização](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
 2. Clique em **Add Rule (Adicionar regra)**.
@@ -25,7 +25,7 @@ Com a ajuda de automatizações, já não tem de ligar manualmente as entradas n
 
 Definir primeiro um **evento de disparo** para a automatização.
 
-![Eventos de activação para o bloqueio e arquivamento de linhas](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Eventos de activação para o bloqueio e arquivamento de linhas](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Nota importante" >}}
 

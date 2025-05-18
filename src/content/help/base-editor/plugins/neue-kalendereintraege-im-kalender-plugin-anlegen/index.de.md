@@ -44,10 +44,10 @@ Für diese Funktion benötigen Sie **zwei Datum-Spalten**, die **Uhrzeiten** erf
 4. Legen Sie in den **Einstellungen** (erreichbar über das Zahnrad-Symbol {{< seatable-icon icon="dtable-icon-set-up" >}}) die beiden Datum-Spalten für den Kalender fest.
 5. Klicken Sie im Kalender auf den Zeitpunkt, an dem der Termin starten soll, halten Sie die **Maustaste** gedrückt und ziehen Sie den Kasten bis zur Uhrzeit auf, zu der der Termin enden soll.
 
-![Neue Kalendereinträge im Kalender-Plugin anlegen](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif) {{< warning  type="warning" headline="Hinweis"  text="Sie können Termine nur in der **Wochen- und Tagesübersicht** aufziehen." />}}
+![Neue Kalendereinträge im Kalender-Plugin anlegen](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif) {{< warning  type="warning" headline="Hinweis"  text="Sie können Termine nur in der **Wochen- und Tagesübersicht** aufziehen." />}}
 
 ## Termine per Drag-and-Drop verschieben
 
 Sie können die erstellten Termine im Kalender-Plugin bequem **per Drag-and-Drop verschieben**. Dadurch ändern sich automatisch die entsprechenden Einträge in den Datum-Spalten Ihrer Tabelle. Diese Funktion ist für die **Monats-**, **Wochen-** und **Tagesübersicht** verfügbar.
 
-![Neue Kalendereinträge im Kalender-Plugin anlegen](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)
+![Neue Kalendereinträge im Kalender-Plugin anlegen](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)

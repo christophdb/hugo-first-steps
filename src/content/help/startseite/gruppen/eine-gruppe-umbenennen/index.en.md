@@ -17,11 +17,11 @@ Here you will learn how you as the owner can edit the name of a group.
 2. Click the **triangle icon to** the right of the group name you want to change.
 3. Click **Rename**.
 
-![Rename a group](https://seatable.io/wp-content/uploads/2022/09/rename-group.jpg)
+![Rename a group](images/rename-group.jpg)
 
 5. Enter any name you like.
 6. Confirm with **Submit**.
 
-![Rename a group](https://seatable.io/wp-content/uploads/2022/09/rename-group-2.png)
+![Rename a group](images/rename-group-2.png)
 
 {{< warning  headline="Small tip"  text="The name of a group may only consist of _letters_, _numbers_, _spaces_, _periods_, _hyphens_, _underscores_ and the _\# sign_. Other characters are currently not allowed." />}}

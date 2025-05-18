@@ -23,7 +23,7 @@ url: '/ru/help/modus-farbe-und-icon-einer-universellen-app-einstellen'
 
 6. Нажмите на **значок палитры** в левом верхнем углу страницы.
 
-![Иконка палитры для настройки дизайна приложения](https://seatable.io/wp-content/uploads/2024/12/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
+![Иконка палитры для настройки дизайна приложения](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
 
 8. Внесите необходимые изменения в **визуальные настройки (режим, цвет и значок)** универсального приложения.
 
@@ -47,4 +47,4 @@ url: '/ru/help/modus-farbe-und-icon-einer-universellen-app-einstellen'
 
 В настоящее время [отдельная страница](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) предлагает множество дополнительных настроек дизайна. Например, вы можете задать разные цвета для фона, шрифтов, линий и рамок для элементов. Для этого воспользуйтесь практичным **выбором цвета**.
 
-![Выбор цвета в универсальном приложении](https://seatable.io/wp-content/uploads/2024/12/Color-Picker-in-der-Universellen-App.png)
+![Выбор цвета в универсальном приложении](images/Color-Picker-in-der-Universellen-App.png)

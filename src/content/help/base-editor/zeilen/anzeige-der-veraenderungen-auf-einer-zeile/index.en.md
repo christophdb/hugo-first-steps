@@ -16,7 +16,7 @@ SeaTable stores all changes that are made in a Base. Within a row the **rows-Log
 2. In the opened **Line Details** window, click the square **door icon** in the upper right corner.
 3. The window expands. Click **Logs** to the right of the comments.
 
-![Display of changes in a row through logs.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)  
+![Display of changes in a row through logs.](images/Logs.png)  
 In the rows-Log you will find in antichronological order the most recent changes made in the row . Each log entry contains the following information:
 
 - Name of the processor

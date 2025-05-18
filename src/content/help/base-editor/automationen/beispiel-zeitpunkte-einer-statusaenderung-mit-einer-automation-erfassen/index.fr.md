@@ -12,7 +12,7 @@ Grâce à l'[automatisation](https://seatable.io/fr/docs/automationen/uebersicht
 
 ## Saisir les moments des changements de statut par automatisation
 
-![Envoyer des e-mails par automatisation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Envoyer des e-mails par automatisation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
 2. Cliquez sur **Ajouter une règle**.
@@ -28,11 +28,11 @@ Définissez d'abord l'**événement déclencheur** approprié pour l'automatisat
 
 {{< warning  headline="Remarque importante"  text="Pour pouvoir saisir les moments des changements de statut avec une automatisation, vous devez **obligatoire** l'événement déclencheur **Les entrées remplissent certaines conditions après la modification** pour sélectionner un événement. Les autres événements déclencheurs vous permettent de modifier l'état **pas** saisir." />}}
 
-![Événements déclencheurs à choisir en principe](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Événements déclencheurs à choisir en principe](images/trigger-options-for-archivating-rows.png)
 
 Sélectionnez ensuite **Ajouter une nouvelle entrée dans un autre tableau** comme action automatisée.
 
-![Ajouter l'action automatisée](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Sélection de l'action automatisée](images/add-action-example2.png)
+![Ajouter l'action automatisée](images/add-an-action.png) ![Sélection de l'action automatisée](images/add-action-example2.png)
 
 L'étape suivante consiste à sélectionner le **tableau** dans lequel l'entrée doit être ajoutée après le déclenchement du trigger.
 

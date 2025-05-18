@@ -12,7 +12,7 @@ Mithilfe von Automationen müssen Sie Zeilen mit bestimmten Einträgen nicht meh
 
 ## Wie Sie Zeilen mit einer Automation hinzufügen
 
-![Einträge hinzufügen per Automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Einträge hinzufügen per Automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Klicken Sie im Base-Header auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Automatisierungsregeln**.
 2. Klicken Sie auf **Regel hinzufügen**.
@@ -25,7 +25,7 @@ Mithilfe von Automationen müssen Sie Zeilen mit bestimmten Einträgen nicht meh
 
 Definieren Sie für die Automation zunächst ein **Trigger-Ereignis**.
 
-![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](images/trigger-options-for-archivating-rows.png)
 
 {{< warning type="warning" headline="Wichtiger Hinweis" >}}
 
@@ -39,7 +39,7 @@ Die automatisierte Aktion **Zeile hinzufügen** steht Ihnen **ausschließlich** 
 
 Wählen Sie anschließend als automatisierte Aktion **Zeile hinzufügen** aus.
 
-![Hinzufügen der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Auswahl der automatisierten Aktion](images/action-add-records.png)
+![Hinzufügen der automatisierten Aktion](images/add-an-action.png) ![Auswahl der automatisierten Aktion](images/action-add-records.png)
 
 Im nächsten Schritt definieren Sie die **Einträge**, die nach dem Auslösen der Automation in einer Zeile erscheinen sollen. Mit einem Klick auf **Feld hinzufügen** können Sie jeweils einen beliebigen Eintrag definieren.
 

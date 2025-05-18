@@ -32,27 +32,27 @@ Dans cet exemple, nous utilisons le modèle [CRM & Ventes](https://seatable.io/f
 
 Connectez-vous à votre [compte Zapier](https://zapier.com/app/login) et créez un nouveau Zap. Sélectionnez SeaTable comme application et choisissez le type d'événement **New or Updated Row**.
 
-![Choisissez l'événement Zapier qui vous convient](https://seatable.io/wp-content/uploads/2022/08/zapier-example-1.png)
+![Choisissez l'événement Zapier qui vous convient](images/zapier-example-1.png)
 
 L'étape suivante consiste à connecter votre compte SeaTable à Zapier (ou à sélectionner un compte SeaTable déjà connecté). Si vous n'avez pas encore de jeton API, vous devez [générer](https://seatable.io/fr/docs/integrations/zapier-api-tokens-sign-in/) une [clé API](https://seatable.io/fr/docs/integrations/zapier-api-tokens-sign-in/) que vous saisissez dans Zapier.
 
 Après avoir sélectionné le compte approprié, il vous sera demandé de configurer les options de configuration spécifiques au déclencheur. Avec SeaTable comme déclencheur, nous devons spécifier le tableau et la vue en cliquant sur le menu déroulant et en sélectionnant les options correspondantes (dans ce cas, nous voulons le tableau "Opportunities" et la vue "All opportunities").
 
-![Dans Zapier, sélectionner Table et View.](https://seatable.io/wp-content/uploads/2022/08/zapier-example-2.png)
+![Dans Zapier, sélectionner Table et View.](images/zapier-example-2.png)
 
 Dans l'étape suivante, Zapier vous demandera de tester votre déclencheur. Si tout fonctionne, certaines de vos lignes de SeaTable s'affichent et vous pouvez continuer à configurer votre Zap.
 
-![Tester le déclencheur dans Zapier](https://seatable.io/wp-content/uploads/2022/08/zapier-example-3.png)
+![Tester le déclencheur dans Zapier](images/zapier-example-3.png)
 
 Dans le graphique suivant, vous voyez l'aperçu de trois lignes de votre tableau. Ne vous laissez pas troubler par l'affichage des résultats. Au lieu des noms réels des colonnes, ce sont les identificateurs techniques des colonnes qui apparaissent, comme par exemple **column:589r**. C'est tout à fait normal et lors de la configuration de l'action suivante, les noms corrects des colonnes vous seront à nouveau présentés.
 
-![Affichage du test du déclencheur dans Zapier](https://seatable.io/wp-content/uploads/2022/08/zapier-example-4.png)
+![Affichage du test du déclencheur dans Zapier](images/zapier-example-4.png)
 
 ### Étape 2 : Création de l'action (Slack)
 
 Dans la deuxième étape, vous êtes invité à choisir une application d'action. Recherchez _Slack_ et sélectionnez l'application Slack. Comme événement, choisissez _Send Channel Message_ pour que tout le monde soit informé de la nouvelle entrée dans SeaTable.
 
-![Choix de l'action en Zapier](https://seatable.io/wp-content/uploads/2022/08/zapier-example-5.png)
+![Choix de l'action en Zapier](images/zapier-example-5.png)
 
 L'étape suivante consiste à connecter votre compte Slack à Zapier (ou à sélectionner un compte Slack déjà connecté).
 
@@ -60,39 +60,39 @@ Ensuite, vous devez configurer le modèle de message. Il existe ici plusieurs op
 
 Lors de la création du message Slack, vous pouvez inclure du texte simple ainsi que des données dynamiques provenant de l'ensemble des données entrantes de SeaTable. Pour cela, les données générées par votre déclencheur sont affichées à titre d'exemple. Un menu déroulant vous aide à saisir les valeurs appropriées de votre déclencheur. Bien entendu, ces valeurs dynamiques seront remplacées par de nouvelles valeurs lors de la prochaine exécution.
 
-![Configuration de l'action avec les valeurs du déclencheur](https://seatable.io/wp-content/uploads/2022/08/zapier-example-6.png)
+![Configuration de l'action avec les valeurs du déclencheur](images/zapier-example-6.png)
 
 Lorsque vous avez terminé de créer le message Slack, passez à l'étape suivante. Zapier crée un récapitulatif pour vous, afin que vous puissiez vérifier que tout semble bien fonctionner. Assurez-vous de tester l'action avant de continuer.
 
-![Aperçu de l'action](https://seatable.io/wp-content/uploads/2022/08/zapier-example-7.png)
+![Aperçu de l'action](images/zapier-example-7.png)
 
 ### Étape 3 : Publier le zap
 
 Si Zapier a réussi à délivrer le message Slack, il ne vous reste plus qu'à activer votre Zap pour être informé dans Slack de toutes les futures entrées de SeaTable.
 
-![Le Zapier Zap a été exécuté avec succès](https://seatable.io/wp-content/uploads/2022/08/zapier-example-8.png)
+![Le Zapier Zap a été exécuté avec succès](images/zapier-example-8.png)
 
 Toutes nos félicitations ! Vous venez de créer votre premier zap personnel.
 
-![Le message créé par Zapier sur le canal Slack](https://seatable.io/wp-content/uploads/2022/08/zapier-example-9.png)
+![Le message créé par Zapier sur le canal Slack](images/zapier-example-9.png)
 
 ## Exemple 2 : Créer une zap avec SeaTable comme action pour enregistrer des signets
 
 L'exemple suivant montre comment l'[extension Zapier Chrome](https://zapier.com/apps/zapier-chrome-extension/integrations) permet d'enregistrer facilement la page web actuellement ouverte comme signet dans SeaTable. Pour pouvoir enregistrer les entrées par Zap, il faut d'abord créer une base. Pour que l'exemple reste simple, cette base ne comporte que deux colonnes de texte.
 
-![Structure de base SeaTable pour ce Zap](https://seatable.io/wp-content/uploads/2022/08/zapier-example-14.png)
+![Structure de base SeaTable pour ce Zap](images/zapier-example-14.png)
 
 Ensuite, nous créons un nouveau zap et choisissons _Zapier Chrome Extension_ comme déclencheur et l'événement _New Push_.
 
-![Déclencheur : nouveau push dans l'extension zapier chrome](https://seatable.io/wp-content/uploads/2022/08/zapier-example-10.png)
+![Déclencheur : nouveau push dans l'extension zapier chrome](images/zapier-example-10.png)
 
 La configuration de l'_action_ n'est pas non plus difficile. Créez un [jeton API](https://seatable.io/fr/docs/zapier-integration/zapier-api-tokens-sign-in/) pour la base que vous venez de créer et configurez le titre et l'URL pour qu'ils soient enregistrés dans les colonnes appropriées de SeaTable. Pour finir, testez le zap et publiez-le.
 
-![Déclencheur : Créer une rangée dans SeaTable](https://seatable.io/wp-content/uploads/2022/08/zapier-example-12.png)
+![Déclencheur : Créer une rangée dans SeaTable](images/zapier-example-12.png)
 
 Installez maintenant l'extension Zapier Chrome et enregistrez dès maintenant en deux clics la page web actuelle dans votre liste de favoris personnelle.
 
-![Connect Browser Extension avec Zap](https://seatable.io/wp-content/uploads/2022/08/zapier-example-13.png)
+![Connect Browser Extension avec Zap](images/zapier-example-13.png)
 
 Nous vous félicitons. Vous avez créé une Zap avec SeaTable comme _action_.
 

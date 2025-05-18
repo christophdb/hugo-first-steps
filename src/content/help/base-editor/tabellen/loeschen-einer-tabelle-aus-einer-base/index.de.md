@@ -10,7 +10,7 @@ url: '/de/hilfe/loeschen-einer-tabelle-aus-einer-base'
 
 Sie benötigen einzelne Tabellen aus Ihren Bases nicht mehr? Dann können Sie diese mit wenigen Mausklicks löschen. So einfach geht es:
 
-![Löschen einer Tabelle aus einer Base](https://seatable.io/wp-content/uploads/2022/09/delete-a-table.png)
+![Löschen einer Tabelle aus einer Base](images/delete-a-table.png)
 
 1. In Ihrer Base finden Sie oben links alle **Tabellen der Base** als Reiter dargestellt.
 2. Klicken Sie auf das **Dreieck-Symbol** am Ende des **Namens der Tabelle**, die Sie löschen möchten.

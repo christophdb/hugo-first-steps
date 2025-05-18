@@ -68,7 +68,7 @@ Alle in einer Zeile durchgeführten Änderungen können Sie im sogenannten **Zei
 
 Das **Zeilen-Log** bietet Ihnen die Möglichkeit nachzuvollziehen, wann welcher Benutzer welche Änderung an dem Datensatz in einer **Zeile** vorgenommen hat. Wenn Sie sich stattdessen sämtliche Änderungen in einer Base ansehen wollen, müssen Sie auf das **Base-Log** zurückgreifen.
 
-![Anzeige der Veränderungen in einer Zeile durch Logs.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
+![Anzeige der Veränderungen in einer Zeile durch Logs.](images/Logs.png)
 
 Wenn Sie nähere Informationen über das Zeilen-Log benötigen, werfen Sie gerne einen Blick in den entsprechenden [Hilfe-Artikel]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}).
 
@@ -76,11 +76,11 @@ Wenn Sie nähere Informationen über das Zeilen-Log benötigen, werfen Sie gerne
 
 Um die korrekte Ausführung einer **Automation** zu überprüfen, haben Sie die Möglichkeit, das **Ausführungslog** einzusehen, welches Sie über die Base-Optionen erreichen können.
 
-![Ausführungslog anzeigen](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Ausführungslog anzeigen](images/open-an-automation-log.png)
 
 In diesem hält SeaTable für jeden Automationslauf folgende Informationen fest: Ausführungszeit, Ausführungsbedingung, Status und ggf. Warnungen.
 
-![Struktur eines Auführungslogs](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Struktur eines Auführungslogs](images/structure-of-an-automation-log-newest.png)
 
 Nähere Informationen zum Ausführungslog einer Automation finden Sie [hier](https://seatable.io/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
 

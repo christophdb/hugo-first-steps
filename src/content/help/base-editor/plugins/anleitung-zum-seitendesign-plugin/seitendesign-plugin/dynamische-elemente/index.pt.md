@@ -26,16 +26,16 @@ A **data actual** ajusta-se automaticamente ao dia de hoje sem que tenha de a de
 
 A única configuração adicional em comparação com elementos de texto estático é a **configuração do formato**. Aqui pode escolher entre as notações regionalmente diferentes para as datas.
 
-![formato de data do elemento dinâmico](https://seatable.io/wp-content/uploads/2022/11/Dynamisches-Element-Datum-Format.png)
+![formato de data do elemento dinâmico](images/Dynamisches-Element-Datum-Format.png)
 
 ## Nome do modelo
 
 O **nome do modelo**, ou seja, o desenho da página que está actualmente a editar, ajusta-se automaticamente. Se tiver alterado o nome do modelo, a alteração neste campo é automaticamente adoptada.
 
-![Elemento dinâmico Nome do modelo](https://seatable.io/wp-content/uploads/2022/11/dynamisches-Element-Vorlagenname.gif)
+![Elemento dinâmico Nome do modelo](images/dynamisches-Element-Vorlagenname.gif)
 
 ## Utilizador actual
 
 O seu próprio nome aparece no campo **Utilizador actual** se estiver actualmente a fazer alterações ao modelo através da sua conta. Assim que outro **membro da equipa** chama o modelo no plug-in de design da página, o seu nome é exibido.
 
-![Elemento dinâmico do utilizador actual](https://seatable.io/wp-content/uploads/2022/11/dynamisches-Element-Aktueller-nutzer.gif)
+![Elemento dinâmico do utilizador actual](images/dynamisches-Element-Aktueller-nutzer.gif)

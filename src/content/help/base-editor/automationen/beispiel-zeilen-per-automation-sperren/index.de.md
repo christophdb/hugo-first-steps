@@ -22,7 +22,7 @@ Mithilfe von Automationen müssen Sie Zeilen in Ihren Tabellen nicht mehr manuel
 4. Definieren Sie ein **Trigger-Ereignis**, welches die Automation auslöst.
 5. Klicken Sie auf **Aktion hinzufügen** und wählen Sie als automatisierte Aktion **Eintrag sperren** aus.
 
-![Auswahl der automatisierten Aktion: "Eintrag sperren"](https://seatable.io/wp-content/uploads/2022/12/lock-record.png) 7. Bestätigen Sie mit **Abschicken**.
+![Auswahl der automatisierten Aktion: "Eintrag sperren"](images/lock-record.png) 7. Bestätigen Sie mit **Abschicken**.
 
 {{< warning type="warning" headline="Wichtiger Hinweis" >}}
 
@@ -38,19 +38,19 @@ Die automatisierte Aktion **Eintrag sperren** steht Ihnen ausschließlich bei fo
 
 Möchten Sie beispielsweise in einer Ihrer Tabellen jede Zeile **sperren**, in der ein bestimmter Eintrag einen spezifischen **Wert** erreicht, definieren Sie als Trigger der Automation das Ereignis: **Einträge erfüllen nach Bearbeitung bestimmte Bedingungen**.
 
-![Definition des Trigger-Ereignisses der Automation](https://seatable.io/wp-content/uploads/2022/12/trigger-example-1.png)
+![Definition des Trigger-Ereignisses der Automation](images/trigger-example-1.png)
 
 Legen Sie anschließend den **Wert** fest sowie die **Spalte**, in der dieser erreicht werden muss.
 
-![Definition des Trigger-Ereignisses der Automation](https://seatable.io/wp-content/uploads/2022/12/trigger-example-2.png)
+![Definition des Trigger-Ereignisses der Automation](images/trigger-example-2.png)
 
 Legen Sie zum Schluss als automatisierte Aktion **Eintrag sperren** fest.
 
-![Definition der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/automated-action-example.png)
+![Definition der automatisierten Aktion](images/automated-action-example.png)
 
 Ab diesem Moment wird die angelegte Automation **alle Zeilen** sperren, in denen sich **Einträge** so verändern, dass sie die Automatisierungsregel erfüllen.
 
-![Definierte automatisierte Aktion: "Eintrag sperren"](https://seatable.io/wp-content/uploads/2022/12/automated-action-example-2.png)
+![Definierte automatisierte Aktion: "Eintrag sperren"](images/automated-action-example-2.png)
 
 {{< warning  headline="Bitte beachten"  text="Mit einer Automation können Sie immer nur die Zeilen sperren, in denen sich der Trigger der Automation ereignet hat. Eine Automatisierungsregel nach dem Schema **Ereignis in Zeile X löst Sperrung von Zeile Y aus** ist nicht möglich." />}}
 

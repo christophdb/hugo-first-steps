@@ -14,7 +14,7 @@ Se quiser atualizar as tabelas ligadas ao registo de dados partilhados, pode **i
 
 ## Sincronização manual com um conjunto de dados partilhados
 
-![Sincronização de um conjunto de dados comum](https://seatable.io/wp-content/uploads/2022/11/Synchronisation-eines-gemeinsamen-Datensatez.png)
+![Sincronização de um conjunto de dados comum](images/Synchronisation-eines-gemeinsamen-Datensatez.png)
 
 1. Clique no **ícone do triângulo** à direita do nome de uma tabela criada com um registo comum.
 2. Clique em **Sincronizar com registo**.
@@ -24,18 +24,18 @@ Se quiser atualizar as tabelas ligadas ao registo de dados partilhados, pode **i
 
 Se a sincronização for bem sucedida, aparece a seguinte mensagem:
 
-![Mensagem no caso de uma sincronização bem sucedida de um conjunto de dados comum](https://seatable.io/wp-content/uploads/2022/11/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+![Mensagem no caso de uma sincronização bem sucedida de um conjunto de dados comum](images/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
 ## Sincronização periódica com um conjunto de dados comum
 
-![Sincronização de um conjunto de dados comum](https://seatable.io/wp-content/uploads/2022/11/Synchronisation-2.0.png)
+![Sincronização de um conjunto de dados comum](images/Synchronisation-2.0.png)
 
 1. Clique no **ícone do triângulo** à direita do nome de uma tabela criada com um registo comum.
 2. Clique em **Sincronizar com registo**.
 3. Clique no botão **Activate automatic synchronisation (Activar sincronização automática**).
 4. Seleccionar se a sincronização automática deve ser realizada **diariamente** ou **de hora a hora**.
 
-![Sincronização periódica de um conjunto de dados comum](https://seatable.io/wp-content/uploads/2022/11/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+![Sincronização periódica de um conjunto de dados comum](images/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
 ### Restrições à sincronização periódica
 

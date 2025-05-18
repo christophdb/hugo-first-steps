@@ -48,7 +48,7 @@ Ao utilizar uma regra, colore **todas as células** de uma coluna à qual **se a
 
 Também pode definir **várias condições** por regra, que podem estar relacionadas com todas as colunas da tabela. Por exemplo, colorir a [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) com o título de um artigo se o **estado** não for "terminado", a **data de publicação** estiver no futuro e já existir uma **imagem** disponível.
 
-![Regra com várias condições para colorir células](https://seatable.io/wp-content/uploads/2022/11/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Regra com várias condições para colorir células](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 {{< warning  headline="Diferentes opções dependendo do tipo de coluna"  text="A **seleção** das condições possíveis adapta-se dinamicamente ao tipo de coluna." />}}
 

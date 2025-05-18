@@ -24,7 +24,7 @@ If you [copy](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-g
 
 You can tell that the table is linked to the shared data record again by the **stack symbol** in the table tab.
 
-![Icon in front of the name of tables of a common data set.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset.png)
+![Icon in front of the name of tables of a common data set.](images/icon-table-common-dataset.png)
 
 ## Consequences of reimportation
 

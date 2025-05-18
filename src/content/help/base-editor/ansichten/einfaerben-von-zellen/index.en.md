@@ -48,7 +48,7 @@ You can create **several rules with different colors** per column.
 
 You can also define **several conditions** per rule, which can apply to all columns in the table. For example, color the [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) with the headline of an article if the **status** is not "finished", the **publication date** is in the future and an **image** is already available.
 
-![Rule with several conditions for coloring cells](https://seatable.io/wp-content/uploads/2022/11/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Rule with several conditions for coloring cells](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 {{< warning  headline="Different options depending on the column type"  text="The **selection** of possible conditions adapts dynamically to the column type." />}}
 

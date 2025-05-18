@@ -12,7 +12,7 @@ In a **file column** you can save one or more files and thus add documents to th
 
 ## How to create a file column
 
-![Create a column.](https://seatable.io/wp-content/uploads/2022/11/Wie-man-eine-Spalte-anlegt.gif)
+![Create a column.](images/Wie-man-eine-Spalte-anlegt.gif)
 
 1. Click the **\[+\] symbol** to the right of the last column in your table.
 2. Give the column a **name** in the upper field.
@@ -54,7 +54,7 @@ Besides new files that you upload locally to the cell of a file column, you can 
 
 ## Download files
 
-![Download files.](https://seatable.io/wp-content/uploads/2022/11/Herunterladen-von-Dateien.gif)
+![Download files.](images/Herunterladen-von-Dateien.gif)
 
 1. In the File column, **double-click** the cell that contains the documents you want to download.
 2. A new window opens. Here are listed **all the files** that are stored in the cell.
@@ -77,7 +77,7 @@ If you click on the **three dots**, you have two options for saving the file: Wh
 
 ## Rename files
 
-![Rename attachments of a file column.](https://seatable.io/wp-content/uploads/2022/11/Datei-Spalte-Anhaenge-umbenennen.gif)
+![Rename attachments of a file column.](images/Datei-Spalte-Anhaenge-umbenennen.gif)
 
 1. Open the **All Files** window by **double-clicking** on a cell in the Files column.
 2. Hover the mouse cursor over the file you want to rename and click the **three dots**.
@@ -85,7 +85,7 @@ If you click on the **three dots**, you have two options for saving the file: Wh
 
 ## Delete files
 
-![Delete attachments.](https://seatable.io/wp-content/uploads/2022/11/Loeschen-von-Anhaengen.gif)
+![Delete attachments.](images/Loeschen-von-Anhaengen.gif)
 
 1. Open the **All Files** window by **double-clicking** on a cell in the Files column.
 2. So you can create a **single file** Delete

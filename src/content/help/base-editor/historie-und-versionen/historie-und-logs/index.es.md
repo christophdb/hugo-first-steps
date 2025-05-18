@@ -68,7 +68,7 @@ Puede ver todos los cambios realizados en una fila en el denominado **registro d
 
 El registro de **línea** le permite ver cuándo qué usuario realizó qué cambio en el registro de una **línea**. Si en cambio desea ver todos los cambios en una base, debe utilizar el registro de **base**.
 
-![Visualización de los cambios en una línea por registros.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
+![Visualización de los cambios en una línea por registros.](images/Logs.png)
 
 Si necesita más información sobre el registro de líneas, consulte el [artículo de ayuda]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) correspondiente.
 
@@ -76,11 +76,11 @@ Si necesita más información sobre el registro de líneas, consulte el [artícu
 
 Para comprobar la correcta ejecución de una **automatización**, tienes la posibilidad de ver el **registro de ejecución**, al que puedes acceder a través de las opciones de la Base.
 
-![Mostrar registro de ejecución](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Mostrar registro de ejecución](images/open-an-automation-log.png)
 
 SeaTable registra la siguiente información para cada ejecución de automatización: tiempo de ejecución, condición de ejecución, estado y cualquier advertencia.
 
-![Estructura de un Auführungslog](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Estructura de un Auführungslog](images/structure-of-an-automation-log-newest.png)
 
 Puede encontrar más información sobre el registro de ejecución de una automatización [aquí](https://seatable.io/es/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
 

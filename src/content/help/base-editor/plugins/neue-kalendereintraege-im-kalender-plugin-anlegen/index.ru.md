@@ -48,7 +48,7 @@ url: '/ru/help/neue-kalendereintraege-im-kalender-plugin-anlegen'
 4. Установите две колонки даты для календаря в **настройках** (доступны через символ шестеренки {{< seatable-icon icon="dtable-icon-set-up" >}}).
 5. В календаре нажмите на время начала встречи, удерживая **кнопку мыши**, перетащите открытое поле на время окончания встречи.
 
-![Создание новых записей календаря в плагине календаря](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
+![Создание новых записей календаря в плагине календаря](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
 
 {{< warning  headline="Примечание"  text="Вы можете назначать встречи только в **еженедельном и ежедневном обзоре**." />}}
 
@@ -56,4 +56,4 @@ url: '/ru/help/neue-kalendereintraege-im-kalender-plugin-anlegen'
 
 Вы можете удобно **перемещать** созданные встречи в плагине календаря **путем перетаскивания**. Это автоматически изменяет соответствующие записи в столбцах даты вашей таблицы. Эта функция доступна для **ежемесячных**, **еженедельных** и **ежедневных обзоров**.
 
-![Создание новых записей календаря в плагине календаря](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)
+![Создание новых записей календаря в плагине календаря](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)

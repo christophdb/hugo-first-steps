@@ -45,21 +45,21 @@ O [Funcionalidade das automatizações](https://seatable.io/pt/docs/arbeiten-mit
 
 {{< warning  headline="Nota importante"  text="O exemplo fictício destina-se a ilustrar o **funcionamento básico das** automatizações com complexidade reduzida e, portanto, contém apenas uma quantidade relativamente pequena de dados. Como regra geral, as automatizações têm um efeito muito maior em **conjuntos de dados mais extensos**." />}}
 
-![Tabela de exemplo](https://seatable.io/wp-content/uploads/2022/12/example-table-final-version.png)
+![Tabela de exemplo](images/example-table-final-version.png)
 
 Poderá utilizar o quadro de exemplo apresentado na figura no departamento de recursos humanos de uma empresa para registar, para além dos **nomes dos** empregados, o seu **estatuto profissional**, bem como o estatuto dos seus **pagamentos salariais**.
 
 Para a vista de tabela, cria-se uma **automatização** que deve automatizar uma etapa de trabalho. Especificamente, pretende automatizar que, no caso da rescisão de um empregado (e a alteração associada da entrada na coluna **do estado de emprego** de "empregado" para "rescindido"), a entrada na coluna do **pagamento do salário** seja ajustada de "ativo" para "descontinuado".
 
-![Definição do evento de disparo](https://seatable.io/wp-content/uploads/2022/12/create-an-automation-1-1.png)
+![Definição do evento de disparo](images/create-an-automation-1-1.png)
 
 Para automatizar esta etapa do processo, definir primeiro o evento "A entrada satisfaz determinadas condições após a modificação" como um **acionador**. Especificar a coluna "status de emprego" como a coluna a ser **verificada**. Como **condição** concreta **para** acionar a automatização, definir que a entrada na coluna correspondente deve ser alterada para "rescindido".
 
-![Definição da acção automática da automatização do exemplo](https://seatable.io/wp-content/uploads/2022/12/automated-action-of-the-example-automation-2.png)
+![Definição da acção automática da automatização do exemplo](images/automated-action-of-the-example-automation-2.png)
 
 Como **ação automática**, selecionar a opção **Processar entrada**. Especificamente, depois de o evento de acionamento ter sido acionado, a entrada na coluna "Pagamento do salário" deve ser alterada de "ativo" para "definido".
 
-![Execução do exemplo de automatização](https://seatable.io/wp-content/uploads/2022/12/example-automation-new.gif)
+![Execução do exemplo de automatização](images/example-automation-new.gif)
 
 Depois de ter criado a automatização, a alteração efectuada manualmente na coluna "Situação profissional" conduz **automaticamente** ao **ajustamento** desejado **da entrada** na coluna "Pagamento do salário".
 

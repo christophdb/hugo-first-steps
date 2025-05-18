@@ -48,7 +48,7 @@ Pour cette fonction, vous avez besoin de **deux colonnes de dates** qui peuvent 
 4. Définissez dans les **paramètres** (accessibles via l'icône en forme de roue dentée {{< seatable-icon icon="dtable-icon-set-up" >}}) les deux colonnes de date pour le calendrier.
 5. Dans le calendrier, cliquez sur l'heure à laquelle le rendez-vous doit commencer, maintenez le **bouton de la souris** enfoncé et faites glisser la boîte jusqu'à l'heure à laquelle le rendez-vous doit se terminer.
 
-![Création de nouvelles entrées de calendrier dans le plug-in de calendrier](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
+![Création de nouvelles entrées de calendrier dans le plug-in de calendrier](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
 
 {{< warning  headline="Remarque"  text="Vous ne pouvez remonter les rendez-vous que dans l'**aperçu hebdomadaire et journalier**." />}}
 
@@ -56,4 +56,4 @@ Pour cette fonction, vous avez besoin de **deux colonnes de dates** qui peuvent 
 
 Vous pouvez facilement **déplacer** les dates créées dans le plug-in de calendrier **par glisser-déposer**. Cela modifie automatiquement les entrées correspondantes dans les colonnes de dates de votre tableau. Cette fonction est disponible pour l'**aperçu** **mensuel**, **hebdomadaire** et **journalier**.
 
-![Création de nouvelles entrées de calendrier dans le plug-in de calendrier](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)
+![Création de nouvelles entrées de calendrier dans le plug-in de calendrier](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)

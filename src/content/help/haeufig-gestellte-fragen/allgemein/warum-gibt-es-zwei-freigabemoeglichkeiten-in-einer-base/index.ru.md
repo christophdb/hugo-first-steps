@@ -18,7 +18,7 @@ url: '/ru/help/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 
 ## Освобождение базы
 
-![Откройте диалог общего доступа в Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Откройте диалог общего доступа в Base](images/share-a-base.png)
 
 Если вы хотите поделиться одной из своих баз, у вас есть выбор вариантов в зависимости от того, с кем вы хотите поделиться ею:
 

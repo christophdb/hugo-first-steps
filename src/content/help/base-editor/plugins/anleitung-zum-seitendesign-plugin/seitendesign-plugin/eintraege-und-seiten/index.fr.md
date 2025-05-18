@@ -16,25 +16,25 @@ Dans le plug-in de conception de page, une **entrée** se réfère à une **lign
 
 Par exemple, vous souhaitez insérer les entrées de la colonne de texte "Nom" d'un tableau dans une page afin de pouvoir personnaliser une lettre d'information.
 
-![Première entrée du tableau utilisé pour le plugin de page.](https://seatable.io/wp-content/uploads/2022/11/Tabelle-1-eintraege.png)
+![Première entrée du tableau utilisé pour le plugin de page.](images/Tabelle-1-eintraege.png)
 
 Pour ce faire, faites glisser le champ de tableau "Nom" sur la page, de sorte que les informations de la colonne Nom soient automatiquement reproduites sur la page.
 
-![Entrée 1 du tableau chez Setienplugin.](https://seatable.io/wp-content/uploads/2022/11/Eintraege-1.gif)
+![Entrée 1 du tableau chez Setienplugin.](images/Eintraege-1.gif)
 
 En utilisant les navigateurs **Entrée précédente/suivante**, vous pouvez désormais passer d'une ligne à l'autre afin d'afficher alternativement les informations de toutes les lignes du tableau dans la mise en page de la page.
 
-![Deuxième entrée du tableau utilisé pour le plugin de page.](https://seatable.io/wp-content/uploads/2022/11/Tabelle-2-eintraege.png)  
-![Entrée deux lors de l'utilisation du plugin de page.](https://seatable.io/wp-content/uploads/2022/11/Eintraege-2.gif)
+![Deuxième entrée du tableau utilisé pour le plugin de page.](images/Tabelle-2-eintraege.png)  
+![Entrée deux lors de l'utilisation du plugin de page.](images/Eintraege-2.gif)
 
 ## Pages
 
 Vous pouvez ajouter **des pages** pour développer le document et créer un **modèle de plusieurs pages**. Pour ce faire, cliquez sur le bouton **Ajouter une page**.
 
-![Insertion d'une page dans le plugin de page.](https://seatable.io/wp-content/uploads/2022/11/Einfuegen-einer-Seite-in-dem-Seitenplugin.png)
+![Insertion d'une page dans le plugin de page.](images/Einfuegen-einer-Seite-in-dem-Seitenplugin.png)
 
 Un **clic droit** permet d'accéder à un menu déroulant qui propose des options supplémentaires.
 
-![Le menu déroulant des pages dans le plugin de page.](https://seatable.io/wp-content/uploads/2022/11/Seitenplugin-Seiten-dropdown-menue.png)
+![Le menu déroulant des pages dans le plugin de page.](images/Seitenplugin-Seiten-dropdown-menue.png)
 
 Pour **passer** d'une page à l'autre, il suffit de cliquer sur la **miniature de la page** correspondante dans la barre des pages. Vous pouvez modifier l'**ordre des pages** en maintenant le bouton de la souris enfoncé sur les **six points** {{< seatable-icon icon="dtable-icon-drag" >}} et en **déplaçant** la miniature de la page.

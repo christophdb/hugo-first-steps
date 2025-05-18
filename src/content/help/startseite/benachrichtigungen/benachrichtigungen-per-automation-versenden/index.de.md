@@ -14,7 +14,7 @@ Wenn Sie über ein Enterprise-Abo verfügen, können Sie Benachrichtigungen auch
 
 ## Benachrichtigungen per Automation versenden
 
-![E-Mails versenden per Automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![E-Mails versenden per Automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Klicken Sie im Base-Header auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Automatisierungsregeln**.
 2. Klicken Sie auf **Regel hinzufügen**.
@@ -27,7 +27,7 @@ Wenn Sie über ein Enterprise-Abo verfügen, können Sie Benachrichtigungen auch
 
 Definieren Sie für die Automation zunächst ein **Trigger-Ereignis**.
 
-![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](images/trigger-options-for-archivating-rows.png)
 
 Die **vier Optionen** sind:
 
@@ -38,7 +38,7 @@ Die **vier Optionen** sind:
 
 Wählen Sie anschließend als automatisierte Aktion **Benachrichtigung versenden** aus. Diese steht Ihnen bei allen vier Trigger-Optionen als Aktion zur Verfügung.
 
-![Hinzufügen der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Hinzufügen der automatisierten Aktion](images/send-notification.png)
+![Hinzufügen der automatisierten Aktion](images/add-an-action.png) ![Hinzufügen der automatisierten Aktion](images/send-notification.png)
 
 Im nächsten Schritt wählen Sie die **Benutzer** aus, die benachrichtigt werden sollen, wenn das Trigger-Ereignis eintritt. Beachten Sie dabei, dass Sie hier ausschließlich Benutzer auswählen können, die mindestens **Lesezugriff** auf die Tabelle oder Ansicht haben.
 

@@ -12,7 +12,7 @@ url: '/ru/help/anlegen-einer-base-mithilfe-einer-vorlage'
 
 ## Создание базы с помощью шаблона
 
-![Создание базы из шаблона](https://seatable.io/wp-content/uploads/2022/12/Eine-Base-aus-einer-Vorlage-erstellen.png)
+![Создание базы из шаблона](images/Eine-Base-aus-einer-Vorlage-erstellen.png)
 
 1. Переключитесь на **начальную** страницу SeaTable.
 2. В зависимости от того, хотите ли вы создать базу в разделе _Мои базы_ или в одной из ваших групп, нажмите **Добавить базу или папку** в соответствующей области.

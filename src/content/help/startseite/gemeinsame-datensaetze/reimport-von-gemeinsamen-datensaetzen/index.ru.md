@@ -24,7 +24,7 @@ url: '/ru/help/reimport-von-gemeinsamen-datensaetzen'
 
 Вы можете узнать, что таблица снова связана с общей записью данных, по **символу стека** на вкладке таблицы.
 
-![Значок перед названием таблиц общего набора данных.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset.png)
+![Значок перед названием таблиц общего набора данных.](images/icon-table-common-dataset.png)
 
 ## Последствия реимпорта
 

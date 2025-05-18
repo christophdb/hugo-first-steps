@@ -17,7 +17,7 @@ You want to find out **who** added a row ? Then create a column of the type [cre
 3. Select the **Creator** column type.
 4. Click **Submit**.
 
-![How to find out who added a row .](https://seatable.io/wp-content/uploads/2022/11/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
+![How to find out who added a row .](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
 
 ## Show more row details via columns
 

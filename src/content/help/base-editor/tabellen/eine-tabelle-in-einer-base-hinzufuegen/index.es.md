@@ -14,7 +14,7 @@ Las bases constan de una o varias tablas, que a su vez pueden contener datos muy
 
 1. En el **Base abierta** En la esquina superior izquierda verás las pestañas con todos los **Tablas** de la base.
 
-    ![Mesas en una base de SeaTable](https://seatable.io/wp-content/uploads/2022/09/Tabellen-in-seatable.png)
+    ![Mesas en una base de SeaTable](images/Tabellen-in-seatable.png)
 
 2. Haga clic en el **símbolo \[+** \] situado a la derecha de la última pestaña de la tabla.
 3. Ahora seleccione **Añadir tabla**.
@@ -30,7 +30,7 @@ También puede importar tablas de **archivos** a su Base. La importación se rea
 
 En SeaTable, [las bases](https://seatable.io/es/docs/arbeiten-mit-bases/bases/) son básicamente unidades separadas, pero no es raro necesitar datos en otra base. En lugar de tener que exportar una tabla de una base e importarla a la base deseada, SeaTable ofrece la cómoda opción de **importar** tablas **directamente** desde otras bases y transferir así datos a través de los límites de las bases.
 
-![Importar una tabla de otra base](https://seatable.io/wp-content/uploads/2022/09/import-table-from-other-base.gif)
+![Importar una tabla de otra base](images/import-table-from-other-base.gif)
 
 Con los [registros compartidos](https://seatable.io/es/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/), también puede compartir una tabla maestra en un grupo y utilizar y sincronizar los vástagos de la tabla en diferentes bases. Para más información [, haz clic aquí](https://seatable.io/es/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
 
@@ -38,6 +38,6 @@ Con los [registros compartidos](https://seatable.io/es/docs/gemeinsame-datensaet
 
 A veces una imagen vale más que mil palabras. SeaTable también permite utilizar emojis en el nombre de la tabla, lo que acorta las pestañas de la tabla.
 
-![Emojis en el nombre de la tabla](https://seatable.io/wp-content/uploads/2022/09/emojis-seatable-table-name.png)
+![Emojis en el nombre de la tabla](images/emojis-seatable-table-name.png)
 
 Encontrará instrucciones detalladas en el artículo [Utilizar emojis en los nombres de tabla](https://seatable.io/es/docs/arbeiten-in-tabellen/verwendung-von-emojis-im-tabellennamen/).

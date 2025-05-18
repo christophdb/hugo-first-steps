@@ -16,12 +16,12 @@ url: '/ru/help/ein-teammitglied-einer-gruppe-hinzufuegen'
 2. Нажмите на **символ треугольника** справа от названия группы.
 3. Выберите опцию **Manage Members (Управление членами** ).
 
-![Управление членами](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg)
+![Управление членами](images/manage-members.jpg)
 
 5. Введите имя в **поле поиска**.
 6. Подтвердите нажатием кнопки **Отправить**.
 
-![Поиск пользователя для добавления и подтверждения](https://seatable.io/wp-content/uploads/2022/09/search-member-to-add-and-save.jpg)
+![Поиск пользователя для добавления и подтверждения](images/search-member-to-add-and-save.jpg)
 
 {{< warning  headline=""  text="В поле поиска достаточно ввести только первые буквы адреса электронной почты или имени другого члена команды. SeaTable автоматически предлагает подходящих членов команды." />}}
 
@@ -36,18 +36,18 @@ url: '/ru/help/ein-teammitglied-einer-gruppe-hinzufuegen'
 1. Переключитесь на **начальную** страницу SeaTable.
 2. Нажмите на **изображение** своего **аватара** в правом верхнем углу, а затем на **Управление командой**.
 
-![Откройте управление командой](https://seatable.io/wp-content/uploads/2022/09/open-team-admin.jpg)
+![Откройте управление командой](images/open-team-admin.jpg)
 
 4. Переключитесь в область **Команда** и перейдите на вкладку **Группы**.
 
-![Открытие вкладки "Команда](https://seatable.io/wp-content/uploads/2022/09/open-reiter-team-1.png)
+![Открытие вкладки "Команда](images/open-reiter-team-1.png)
 
 6. Найдите группу, членов которой вы хотите отредактировать, и нажмите на эту строку.
 
-![Поиск и выбор группы](https://seatable.io/wp-content/uploads/2022/09/select-group-1-711x40.png)
+![Поиск и выбор группы](images/select-group-1-711x40.png)
 
 8. В открывшемся боковом меню переключитесь на вкладку **Участники**.
 9. Найдите членов команды, которых вы хотите добавить в группу.
 10. Измените роль с **None** на **Member** или **Admin** и **сохраните** изменения.
 
-![Выбор членов команды и добавление их в группу](https://seatable.io/wp-content/uploads/2022/09/select-member-and-change-role.png)
+![Выбор членов команды и добавление их в группу](images/select-member-and-change-role.png)

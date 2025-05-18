@@ -17,7 +17,7 @@ Für jede [Universelle App](https://seatable.io/docs/apps/universelle-app/) kön
    ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
    ![Apps bearbeiten](images/Apps-bearbeiten.png)6. Klicken Sie auf das **Palette-Symbol** am oberen linken Seitenrand.
 
-![Palette-Symbol für Design-Einstellungen einer App](https://seatable.io/wp-content/uploads/2024/12/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png) 8. Nehmen Sie die gewünschten Anpassungen an den **visuellen Einstellungen (Modus, Farbe und Icon)** der Universellen App vor.
+![Palette-Symbol für Design-Einstellungen einer App](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png) 8. Nehmen Sie die gewünschten Anpassungen an den **visuellen Einstellungen (Modus, Farbe und Icon)** der Universellen App vor.
 
 {{< warning  type="warning" headline="Berechtigung in der Gruppe erforderlich"  text="Um eine App bearbeiten zu können, müssen Sie **Eigentümer** oder **Administrator der Gruppe** sein, in der sich die zugrundeliegende **Base** befindet. Einfache **Gruppenmitglieder** können die Apps lediglich ansehen und nutzen." />}}
 
@@ -39,4 +39,4 @@ Die bisher genannten Einstellungen betreffen eine **gesamte Universelle App**. W
 
 Aktuell bietet vor allem die [individuelle Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) zahlreiche weitere Design-Einstellungen. Beispielsweise können Sie bei den Elementen verschiedene Farben für Hintergründe, Schriften, Linien und Rahmen festlegen. Nutzen Sie dafür den praktischen **Color Picker**.
 
-![Color Picker in der Universellen App](https://seatable.io/wp-content/uploads/2024/12/Color-Picker-in-der-Universellen-App.png)
+![Color Picker in der Universellen App](images/Color-Picker-in-der-Universellen-App.png)

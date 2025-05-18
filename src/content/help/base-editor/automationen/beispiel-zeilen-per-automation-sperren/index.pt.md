@@ -22,7 +22,7 @@ Com a ajuda de automatizações, já não tem de bloquear manualmente as linhas 
 4. Definir um **evento de disparo que desencadeia** a automatização.
 5. Clique em **Add Action** e seleccione **Lock Entry** como a acção automatizada.
 
-![Selecção da acção automatizada: "Lock entry](https://seatable.io/wp-content/uploads/2022/12/lock-record.png)
+![Selecção da acção automatizada: "Lock entry](images/lock-record.png)
 
 7. Confirmar com **Submeter**.
 
@@ -40,19 +40,19 @@ A acção automatizada **Entrada de bloqueio** só está disponível para os seg
 
 Se, por exemplo, quiser **bloquear** cada linha de uma das suas tabelas em que uma determinada entrada atinge um **valor** específico, defina o evento: **as entradas satisfazem determinadas condições após o processamento** como um gatilho da automatização.
 
-![Definição do evento de disparo de automatização](https://seatable.io/wp-content/uploads/2022/12/trigger-example-1.png)
+![Definição do evento de disparo de automatização](images/trigger-example-1.png)
 
 Em seguida, definir o **valor** e a **coluna** em que deve ser alcançado.
 
-![Definição do evento de disparo de automatização](https://seatable.io/wp-content/uploads/2022/12/trigger-example-2.png)
+![Definição do evento de disparo de automatização](images/trigger-example-2.png)
 
 Finalmente, definir **Lock Entry** como a acção automatizada.
 
-![Definição da acção automatizada](https://seatable.io/wp-content/uploads/2022/12/automated-action-example.png)
+![Definição da acção automatizada](images/automated-action-example.png)
 
 A partir deste momento, a automatização criada bloqueará **todas as linhas** em que as **entradas** mudem de tal forma que cumpram a regra da automatização.
 
-![Acção automatizada definida: "Lock entry](https://seatable.io/wp-content/uploads/2022/12/automated-action-example-2.png)
+![Acção automatizada definida: "Lock entry](images/automated-action-example-2.png)
 
 {{< warning  headline="Por favor, note que"  text="Com uma automatização, só se pode bloquear as linhas em que o gatilho da automatização ocorreu. Uma regra de automatização de acordo com o padrão **Evento na linha X desencadeia o bloqueio da linha Y** não é possível." />}}
 

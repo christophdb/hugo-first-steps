@@ -12,7 +12,7 @@ url: '/ru/help/verlinken-von-eintraegen-per-automation'
 
 ## Связывание записей с помощью автоматизации
 
-![Блокировка и архивирование линий с помощью автоматизации](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Блокировка и архивирование линий с помощью автоматизации](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}} в заголовке Base, а затем на **Automation Rules**.
 2. Нажмите кнопку **Добавить правило**.
@@ -25,7 +25,7 @@ url: '/ru/help/verlinken-von-eintraegen-per-automation'
 
 Сначала определите **триггерное событие** для автоматизации.
 
-![Триггерные события для блокировки и архивирования линий](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Триггерные события для блокировки и архивирования линий](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Важное замечание" >}}
 

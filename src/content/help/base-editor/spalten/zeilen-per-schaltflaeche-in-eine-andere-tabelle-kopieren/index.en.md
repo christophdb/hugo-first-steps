@@ -26,7 +26,7 @@ Create two new tables for the respective party guest lists.
 
 **Tip:** A simple method to adopt the table structure of the original table is to **duplicate the table without the existing entries**.
 
-![Duplicate table structure](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Duplicate table structure](images/Tabellenstruktur-duplizieren.png)
 
 In the empty tables, you can of course delete the columns you do not need or add new columns later.
 

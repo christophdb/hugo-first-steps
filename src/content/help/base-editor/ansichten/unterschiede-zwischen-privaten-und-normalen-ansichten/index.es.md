@@ -12,7 +12,7 @@ url: '/es/ayuda/unterschiede-zwischen-privaten-und-normalen-ansichten'
 
 En SeaTable es posible crear vistas normales y privadas de las tablas. Las vistas privadas, como su nombre indica, sólo son visibles para su creador y no pueden compartirse con otras personas. Por lo demás, las vistas privadas no difieren de las vistas normales.
 
-![Vista pública y privada](https://seatable.io/wp-content/uploads/2022/11/public-and-private-view.png)
+![Vista pública y privada](images/public-and-private-view.png)
 
 ## Análisis de datos personales con vistas privadas
 
@@ -30,10 +30,10 @@ Otra diferencia entre las vistas normales y las privadas es que éstas últimas 
 
 Si quieres personalizar una vista normal que sea visible para los demás, sólo tienes que duplicarla como vista privada. La vista original permanece inalterada.
 
-![Duplicar una vista normal como vista privada](https://seatable.io/wp-content/uploads/2022/11/Duplicate-as-private-view.png)
+![Duplicar una vista normal como vista privada](images/Duplicate-as-private-view.png)
 
 ## Convertir vistas privadas en vistas normales
 
 Por otra parte, también puede convertir sus vistas privadas en vistas normales no privadas que sean visibles para los demás. Sin embargo, esto no duplica la vista, de modo que ya no está disponible como vista privada, sino sólo como vista normal.
 
-![Convertir una vista privada en una vista normal](https://seatable.io/wp-content/uploads/2022/11/Change-to-non-private-view.png)
+![Convertir una vista privada en una vista normal](images/Change-to-non-private-view.png)

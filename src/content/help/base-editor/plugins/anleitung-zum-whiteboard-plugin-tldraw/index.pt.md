@@ -18,7 +18,7 @@ Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs
 
 Por predefinição, já é criado um desenho com uma tela em branco quando abre o plug-in do quadro branco pela primeira vez. {{< seatable-icon icon="dtable-icon-add-table" >}} Se pretender criar outro desenho, clique em **Adicionar desenho**. Isto abre um campo de entrada no qual pode introduzir o **nome** pretendido.
 
-![Opções de desenho no quadro branco](https://seatable.io/wp-content/uploads/2025/03/Optionen-einer-Whiteboard-Zeichnung-1.png)
+![Opções de desenho no quadro branco](images/Optionen-einer-Whiteboard-Zeichnung-1.png)
 
 Para **alterar a ordem dos desenhos**, mantenha premido o botão esquerdo do rato sobre a **superfície de aperto** {{< seatable-icon icon="dtable-icon-drag" >}} e arraste **e largue** o desenho para a posição pretendida. Também é possível mudar o **nome** e **apagar** os desenhos.
 

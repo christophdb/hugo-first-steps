@@ -14,7 +14,7 @@ In SeaTable, recurring actions and actions can be conveniently performed using k
 
 By the way, to quickly get an overview of all keyboard shortcuts, you don't have to keep returning to this web page. You can also find the overview of all keyboard shortcuts directly in SeaTable. Open it with {{< key "Ctrl" >}} {{< key "?" >}} or by clicking on the question mark icon in the upper right corner.
 
-![Keyboard shortcuts in SeaTable](https://seatable.io/wp-content/uploads/2022/08/keyboard-shortcuts.png)
+![Keyboard shortcuts in SeaTable](images/keyboard-shortcuts.png)
 
 ## Shortcuts in SeaTable
 

@@ -47,7 +47,7 @@ Sie können pro Spalte **mehrere Regeln mit unterschiedlichen Farben** anlegen.
 
 Darüber hinaus können Sie pro Regel **mehrere Bedingungen** definieren, die sich auf alle Spalten der Tabelle beziehen können. Färben Sie beispielsweise die [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) mit der Headline eines Artikels ein, wenn der **Status** nicht “fertig” ist, das **Veröffentlichungsdatum** in der Zukunft liegt und bereits ein **Bild** vorhanden ist.
 
-![Regel mit mehreren Bedingungen für das Einfärben von Zellen](https://seatable.io/wp-content/uploads/2022/11/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Regel mit mehreren Bedingungen für das Einfärben von Zellen](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 {{< warning  headline="Unterschiedliche Optionen je nach Spaltentyp"  text="Die **Auswahl** an möglichen Bedingungen passt sich dynamisch an den Spaltentyp an." />}}
 

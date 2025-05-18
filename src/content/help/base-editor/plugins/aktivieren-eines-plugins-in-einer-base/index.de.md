@@ -16,7 +16,7 @@ Für einen schnellen Zugriff auf Ihre Plugins können Sie diese der **Toolbar** 
 
 ## Ein Plugin aktivieren
 
-![Ein Plugin in einer Base akivieren](https://seatable.io/wp-content/uploads/2022/11/activate-a-plugin.gif)
+![Ein Plugin in einer Base akivieren](images/activate-a-plugin.gif)
 
 1. Klicken Sie auf **Plugins** im Base-Header.
 2. Gehen Sie im erschienenen Panel auf **Plugins einrichten**.

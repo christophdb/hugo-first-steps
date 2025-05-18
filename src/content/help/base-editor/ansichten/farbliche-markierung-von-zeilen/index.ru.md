@@ -14,7 +14,7 @@ url: '/ru/help/farbliche-markierung-von-zeilen'
 
 В опциях просмотра над таблицей вы найдете следующий символ:
 
-![Инструмент для цветовой маркировки](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-1.png)
+![Инструмент для цветовой маркировки](images/Farbliche-Markierung-von-Zellen-1.png)
 
 После нажатия на инструмент "Формат линии" можно выбрать один из **трех вариантов** цветовой маркировки:
 
@@ -22,13 +22,13 @@ url: '/ru/help/farbliche-markierung-von-zeilen'
 - Правила использования
 - Выделите дубликаты
 
-![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-2.png)
+![Цветовая маркировка клеток](images/Farbliche-Markierung-von-Zellen-2.png)
 
 ## Используйте один столбец выбора
 
 Для опции **Использовать один столбец выбора** в таблице необходим столбец такого типа. Это позволит вам отмечать каждую строку в **начале строки** цветом соответствующего параметра, который введен в этот столбец.
 
-![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-3.png)
+![Цветовая маркировка клеток](images/Farbliche-Markierung-von-Zellen-3.png)
 
 {{< warning  headline="Создание одного столбца выбора"  text="[Здесь](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) вы узнаете, как создать новые колонки с одиночным выбором." />}}
 
@@ -37,11 +37,11 @@ url: '/ru/help/farbliche-markierung-von-zeilen'
 Опция **Использовать правила** позволяет задать условия для цветовой маркировки.
 
 - Нажмите на **символ цветного треугольника**для изменения цвета маркера.
-  ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
+  ![Цветовая маркировка клеток](images/Farbliche-Markierung-von-Zellen-5.png)
 - Определите, какие из ваших **Колонки** на что должно ссылаться условие.
-  ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
+  ![Цветовая маркировка клеток](images/Farbliche-Markierung-von-Zellen-6.png)
 - Принять решение в пользу **Тип состояния**.
-  ![Цветовая маркировка клеток](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
+  ![Цветовая маркировка клеток](images/Farbliche-Markierung-von-Zellen-7.png)
 
 {{< warning  headline="Выбор типов условий в зависимости от типа колонки"  text="Обратите внимание, что от типа выбранного столбца зависит, какие опции будут доступны для выбора в условиях." />}}
 
@@ -49,16 +49,16 @@ url: '/ru/help/farbliche-markierung-von-zeilen'
 
 В этом примере необходимо выделить все строки редакционного плана, которые отмечены как завершенные в [столбце с галочкой](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) . Для этого был выбран **столбец "Опубликовано"**, использовано условие **"является"** и указано, что должны быть отмечены строки **с галочкой**.
 
-![Цветовая маркировка линий](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-9.png)
+![Цветовая маркировка линий](images/Farbliche-Markierung-von-Zellen-9.png)
 
 ### Пример правила с несколькими условиями
 
 В этом примере мы хотим выделить цветом строки редакционного плана только в том случае, если **статус** поста не "закончен", **дата публикации** в будущем и **изображение** уже доступно.
 
-![Правило с несколькими условиями для разметки цветных линий](https://seatable.io/wp-content/uploads/2022/11/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Правило с несколькими условиями для разметки цветных линий](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 ## Выделите дубликаты
 
 Вы можете выделить строки с одним или несколькими одинаковыми значениями столбцов с помощью опции **Выделить дубликаты**. Для этого выберите столбец, который вы хотите проверить на наличие дубликатов. Таким образом, вы сможете легко выявить дубликаты в таблице и при необходимости исправить или удалить их.
 
-![Выделение цветом дублирующихся ячеек](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-9-1.png)
+![Выделение цветом дублирующихся ячеек](images/Farbliche-Markierung-von-Zellen-9-1.png)

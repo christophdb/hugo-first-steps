@@ -10,7 +10,7 @@ url: '/de/hilfe/spaltenhoehe-verdoppeln'
 
 Verdoppeln Sie die **Höhe des Tabellenkopfes**, um lange Spaltennamen komplett lesen zu können.
 
-![Spaltenhöhe verdoppeln](https://seatable.io/wp-content/uploads/2022/11/Spaltenhoehe-verdoppeln.gif)
+![Spaltenhöhe verdoppeln](images/Spaltenhoehe-verdoppeln.gif)
 
 1. Klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}} ganz rechts im Tabellenkopf.
 2. Wählen Sie die Option **Tabellenkopfhöhe festlegen**.

@@ -12,7 +12,7 @@ url: '/ru/help/die-elemente-von-seatable-in-der-uebersicht'
 
 ## Начните прямо сейчас с SeaTable
 
-![Элементы домашней страницы SeaTable](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_homepage.png)
+![Элементы домашней страницы SeaTable](images/elements_seatable_homepage.png)
 
 ### Стартовая страница с вашими базами
 
@@ -22,7 +22,7 @@ url: '/ru/help/die-elemente-von-seatable-in-der-uebersicht'
 
 ---
 
-![Элементы базы SeaTable](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_base.png)
+![Элементы базы SeaTable](images/elements_seatable_base.png)
 
 ### Таблицы
 

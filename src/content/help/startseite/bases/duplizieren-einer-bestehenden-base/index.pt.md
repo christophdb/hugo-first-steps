@@ -10,7 +10,7 @@ url: '/pt/ajuda/duplizieren-einer-bestehenden-base'
 
 Em SeaTable tem a possibilidade de duplicar as suas bases existentes. Pode criar uma cópia da sua base num dos seus [grupos](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/) ou na área **As Minhas Bases**. Esta última funciona da seguinte forma:
 
-![Cópia de uma base](https://seatable.io/wp-content/uploads/2022/09/duplicate-a-base.png)
+![Cópia de uma base](images/duplicate-a-base.png)
 
 1. Mudar para a página **inicial** da SeaTable.
 2. Mova o rato sobre uma das **suas bases** e clique nos **três pontos**

@@ -14,7 +14,7 @@ Wiederkehrende Aktionen und Handgriffe lassen sich in SeaTable bequem über Tast
 
 Um schnell eine Übersicht über alle Tastenkombinationen zu erhalten, müssen Sie übrigens nicht immer wieder auf diese Webseite zurückkehren. Sie finden die Übersicht aller Tastenkombinationen auch direkt in SeaTable. Öffnen Sie diese mit {{< key "Ctrl" >}} {{< key "?" >}} oder indem Sie auf das Fragezeichen-Symbol in der rechten oberen Ecke klicken.
 
-![Keyboard shortcuts in SeaTable](https://seatable.io/wp-content/uploads/2022/08/keyboard-shortcuts.png)
+![Keyboard shortcuts in SeaTable](images/keyboard-shortcuts.png)
 
 ## Tastenkombinationen in SeaTable
 

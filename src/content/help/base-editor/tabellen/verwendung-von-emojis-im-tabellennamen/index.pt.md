@@ -16,7 +16,7 @@ Se nomear tabelas com **emojis** correspondentes em vez de termos, a **largura d
 
 Que tal, por exemplo, símbolos para entrevistas de emprego (por exemplo, balão de diálogo), pedidos de férias (por exemplo, cara sorridente com óculos de sol) e folhas de vencimento (por exemplo, saco de dinheiro) para a base de um departamento de RH?
 
-![Nomes de mesas com emojis](https://seatable.io/wp-content/uploads/2022/12/Tabellennamen-mit-Emojis.png)
+![Nomes de mesas com emojis](images/Tabellennamen-mit-Emojis.png)
 
 Experimente! Copie um **emoji** que corresponda à sua mesa e insira-o no **nome da mesa**.
 
@@ -24,7 +24,7 @@ Experimente! Copie um **emoji** que corresponda à sua mesa e insira-o no **nome
 
 ## Mudar o nome da tabela e inserir emoji
 
-![Mudar o nome da tabela e inserir emoji](https://seatable.io/wp-content/uploads/2022/12/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
+![Mudar o nome da tabela e inserir emoji](images/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
 
 - Clique na **seta pendente** à direita do nome da tabela que pretende alterar.
 - No menu pendente que se abre, clique em **Mudar o nome da tabela**.
@@ -36,7 +36,7 @@ Experimente! Copie um **emoji** que corresponda à sua mesa e insira-o no **nome
 
 ## Adicionar nova tabela com emoji
 
-![Adicionar nova tabela com emoji](https://seatable.io/wp-content/uploads/2022/12/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
+![Adicionar nova tabela com emoji](images/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
 
 - Clique no **símbolo de mais** à direita do último separador da tabela.
 - No menu pendente que se abre, clique em **Adicionar tabela**.

@@ -10,7 +10,7 @@ url: '/ru/help/die-startseite-von-seatable'
 
 После регистрации и входа в систему вы попадете на главную страницу SeaTable. В этой статье мы разделим различные разделы, чтобы помочь вам ориентироваться в различных областях продукта.
 
-![Элементы домашней страницы SeaTable](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_homepage.png)
+![Элементы домашней страницы SeaTable](images/elements_seatable_homepage.png)
 
 ## Заголовок
 

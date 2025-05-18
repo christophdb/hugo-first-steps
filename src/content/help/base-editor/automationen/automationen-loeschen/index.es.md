@@ -14,7 +14,7 @@ Puede **eliminar** **reglas de automatización** ya creadas en cualquier momento
 
 ## Para eliminar una automatización
 
-![Eliminar una automatización](https://seatable.io/wp-content/uploads/2022/12/delete-an-automation-rule.png)
+![Eliminar una automatización](images/delete-an-automation-rule.png)
 
 1. Abra una **tabla** en la que desee eliminar una automatización ya creada.
 2. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} y, a continuación, en **Reglas de automatización**.

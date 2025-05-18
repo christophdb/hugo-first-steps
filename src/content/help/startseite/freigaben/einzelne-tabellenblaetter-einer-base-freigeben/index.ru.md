@@ -12,7 +12,7 @@ url: '/ru/help/einzelne-tabellenblaetter-einer-base-freigeben'
 
 ## Обмен отдельными таблицами через стартовую страницу
 
-![Выпуск отдельных электронных таблиц со стартовой страницы](https://seatable.io/wp-content/uploads/2022/11/share-single-tablesheets-from-the-start-page.png)
+![Выпуск отдельных электронных таблиц со стартовой страницы](images/share-single-tablesheets-from-the-start-page.png)
 
 1. Переключитесь на **начальную** страницу SeaTable.
 2. Наведите курсор мыши на **базу**, из которой вы хотите освободить отдельные таблицы.
@@ -22,7 +22,7 @@ url: '/ru/help/einzelne-tabellenblaetter-einer-base-freigeben'
 
 ## Освобождение в пределах базы
 
-![Освобождение в пределах базы](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Освобождение в пределах базы](images/share-a-base.png)
 
 Если вы находитесь **в базе**, вы также можете создать общий ресурс, не переходя на стартовую страницу. Для этого щелкните по **значку акции** {{< seatable-icon icon="dtable-icon-share" >}} в правом верхнем углу **опций базы**. Откроется такое же окно для создания ресурса, как и на стартовой странице.
 

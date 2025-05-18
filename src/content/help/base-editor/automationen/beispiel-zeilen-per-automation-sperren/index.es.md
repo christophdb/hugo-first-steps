@@ -22,7 +22,7 @@ Con la ayuda de las automatizaciones, ya no tendrá que bloquear manualmente las
 4. Defina un **evento desencadenante que active** la automatización.
 5. Haga clic en **Añadir Acción** y seleccione **Bloquear Entrada** como acción automatizada.
 
-![Selección de la acción automatizada: "Bloquear entrada](https://seatable.io/wp-content/uploads/2022/12/lock-record.png)
+![Selección de la acción automatizada: "Bloquear entrada](images/lock-record.png)
 
 7. Confirme con **Enviar**.
 
@@ -40,19 +40,19 @@ La acción automatizada **Entrada de la cerradura** sólo está disponible para 
 
 Si, por ejemplo, desea **bloquear** todas las filas de una de sus tablas en las que una determinada entrada alcance un **valor** específico, defina el evento: **Las entradas cumplen determinadas condiciones tras el procesamiento** como desencadenante de la automatización.
 
-![Definición del evento desencadenante de la automatización](https://seatable.io/wp-content/uploads/2022/12/trigger-example-1.png)
+![Definición del evento desencadenante de la automatización](images/trigger-example-1.png)
 
 A continuación, establezca el **valor** y la **columna** en la que debe alcanzarse.
 
-![Definición del evento desencadenante de la automatización](https://seatable.io/wp-content/uploads/2022/12/trigger-example-2.png)
+![Definición del evento desencadenante de la automatización](images/trigger-example-2.png)
 
 Por último, establezca **Bloquear entrada** como acción automatizada.
 
-![Definición de la acción automatizada](https://seatable.io/wp-content/uploads/2022/12/automated-action-example.png)
+![Definición de la acción automatizada](images/automated-action-example.png)
 
 A partir de este momento, la automatización creada bloqueará **todas las líneas** en las que **las entradas** cambien de forma que cumplan la regla de automatización.
 
-![Acción automática definida: "Bloquear entrada](https://seatable.io/wp-content/uploads/2022/12/automated-action-example-2.png)
+![Acción automática definida: "Bloquear entrada](images/automated-action-example-2.png)
 
 {{< warning  headline="Atención"  text="Con una automatización, sólo se pueden bloquear las líneas en las que se ha producido el disparo de la automatización. Una regla de automatización según el patrón **Suceso en la línea X desencadena el bloqueo de la línea Y** no es posible." />}}
 

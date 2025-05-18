@@ -1,11 +1,11 @@
 ---
-title: "Workspace-ID einer Gruppe ermitteln"
+title: 'Workspace-ID einer Gruppe ermitteln'
 date: 2022-09-26
-lastmod: "2023-07-19"
-categories: 
-  - "arbeiten-mit-gruppen"
-author: "nsc2"
-url: "/de/hilfe/workspace-id-einer-gruppe-ermitteln"
+lastmod: '2023-07-19'
+categories:
+    - 'arbeiten-mit-gruppen'
+author: 'nsc2'
+url: '/de/hilfe/workspace-id-einer-gruppe-ermitteln'
 ---
 
 Jede Gruppe in SeaTable verfügt über eine sogenannte **Workspace-ID**. Diese ID benötigen Sie, um manche [API-Calls](https://api.seatable.io) ausführen zu können. Hier erfahren Sie, wie Sie die Workspace-ID einer Gruppe über den Browser ermitteln können.
@@ -16,7 +16,7 @@ Jede Gruppe in SeaTable verfügt über eine sogenannte **Workspace-ID**. Diese I
 2. Klicken Sie auf eine **beliebige Base der Gruppe**, deren **Workspace-ID** Sie ermitteln möchten.
 3. Wenn die ausgewählte Base sich geöffnet hat, können Sie oben in der **URL** der Seite die **Workspace-ID** ablesen.
 
-![Workspace-ID einer Gruppe ermitteln](https://seatable.io/wp-content/uploads/2022/09/workspace-id-png.jpg)
+![Workspace-ID einer Gruppe ermitteln](images/workspace-id-png.jpg)
 
 ## Beispiel zur Veranschaulichung
 

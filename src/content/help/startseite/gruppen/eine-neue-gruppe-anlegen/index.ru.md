@@ -16,11 +16,11 @@ url: '/ru/help/eine-neue-gruppe-anlegen'
 2. Прокрутите страницу до самого низа.
 3. Нажмите кнопку **Новая группа**.
 
-![Нажмите кнопку Новая группа](https://seatable.io/wp-content/uploads/2022/09/create-new-group.jpg)
+![Нажмите кнопку Новая группа](images/create-new-group.jpg)
 
 5. Введите любое имя.
 
-![Именование вновь созданной группы](https://seatable.io/wp-content/uploads/2022/09/name-new-group.png)
+![Именование вновь созданной группы](images/name-new-group.png)
 
 {{< warning  headline="Маленький совет"  text="Имя группы может состоять только из _букв_, _цифр_, _пробелов_, _точек_, _дефисов_, _знаков подчеркивания_ и _знака #_. Другие символы в настоящее время не разрешены." />}}
 
@@ -31,18 +31,18 @@ url: '/ru/help/eine-neue-gruppe-anlegen'
 1. Переключитесь на **начальную** страницу SeaTable.
 2. Нажмите на **изображение** своего **аватара** в правом верхнем углу, а затем на **Управление командой**.
 
-![Откройте управление командой](https://seatable.io/wp-content/uploads/2022/09/open-team-admin.jpg)
+![Откройте управление командой](images/open-team-admin.jpg)
 
 4. Перейдите в раздел " **Команда**".
 
-![Открытие вкладки "Команда](https://seatable.io/wp-content/uploads/2022/09/open-reiter-team-1.png)
+![Открытие вкладки "Команда](images/open-reiter-team-1.png)
 
 6. Прокрутите до конца вкладку **Группы**.
 7. Нажмите на оранжевую кнопку **Создать группу**.
 
-![Нажмите кнопку Создать группу](https://seatable.io/wp-content/uploads/2022/09/Bildschirmfoto-2023-07-20-um-13.08.54.png)
+![Нажмите кнопку Создать группу](images/Bildschirmfoto-2023-07-20-um-13.08.54.png)
 
 9. Введите **название** группы, добавьте **членов команды** и сохраните, нажав на кнопку **Добавить группу**.
 
-![Назовите вновь созданную группу](https://seatable.io/wp-content/uploads/2022/09/name-new-group-team-admin.png)  
-![Добавьте участников в группу и сохраните изменения](https://seatable.io/wp-content/uploads/2022/09/add-members-and-save-team-admin.jpg)
+![Назовите вновь созданную группу](images/name-new-group-team-admin.png)  
+![Добавьте участников в группу и сохраните изменения](images/add-members-and-save-team-admin.jpg)

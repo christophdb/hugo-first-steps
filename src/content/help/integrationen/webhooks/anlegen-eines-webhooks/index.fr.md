@@ -17,4 +17,4 @@ Un webhook est toujours créé pour une base. Dès que le webhook est créé, to
 3. Saisissez une URL de destination et confirmez.
 4. Le webhook s'active immédiatement.
 
-![Formulaire de création d'un webhook dans SeaTable](https://seatable.io/wp-content/uploads/2022/04/seatable-webhook.png)
+![Formulaire de création d'un webhook dans SeaTable](images/seatable-webhook.png)

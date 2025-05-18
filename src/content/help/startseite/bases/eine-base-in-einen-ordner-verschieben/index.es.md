@@ -15,14 +15,14 @@ Para tener una mejor visión general de tus bases, tienes la opción de mover la
 
 ## Arrastrar y soltar una base en una carpeta
 
-![Mover una base a una carpeta](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-2.gif)
+![Mover una base a una carpeta](images/move-a-base-to-a-folder-2.gif)
 
 1. Cambie a la página de **inicio** de SeaTable.
 2. Seleccione la **base** deseada y arrástrela y **suéltela** en cualquier **carpeta**.
 
 ## Mover una base a una carpeta mediante el menú contextual
 
-![Mover una base a una carpeta mediante el menú contextual](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-from-the-context-menu-1.gif)
+![Mover una base a una carpeta mediante el menú contextual](images/move-a-base-to-a-folder-from-the-context-menu-1.gif)
 
 1. Cambie a la página de **inicio** de SeaTable.
 2. Haz clic en los **tres puntos** a la derecha de cualquier **base**.

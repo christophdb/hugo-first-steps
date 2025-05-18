@@ -1,20 +1,20 @@
 ---
-title: "Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe"
+title: 'Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe'
 date: 2022-11-21
-lastmod: "2024-06-12"
-categories: 
-  - "gemeinsame-datensaetze"
-author: "nsc2"
-url: "/de/hilfe/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe"
+lastmod: '2024-06-12'
+categories:
+    - 'gemeinsame-datensaetze'
+author: 'nsc2'
+url: '/de/hilfe/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
 ---
 
 Sie können gemeinsame Datensätze nicht nur in der jeweiligen Gruppe nutzen, in der Sie sie erstellt haben, sondern auch an andere Gruppen freigeben. Auf diesem Weg haben weitere Nutzer die Möglichkeit, auf die Daten des gemeinsamen Datensatzes zuzugreifen. Diese sind folglich dazu in der Lage, mit dem gemeinsamen Datensatz zu arbeiten und eine neue Tabelle anzulegen. Die Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe erfolgt über die Startseite.
 
 ## Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe
 
-![Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe](https://seatable.io/wp-content/uploads/2022/11/overview-common-datasets.png)
+![Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe](images/overview-common-datasets.png)
 
-![Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe](https://seatable.io/wp-content/uploads/2022/11/release-a-common-dataset-to-a-external-group-2.gif)
+![Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe](images/release-a-common-dataset-to-a-external-group-2.gif)
 
 1. Öffnen Sie die **Startseite** von SeaTable.
 2. Klicken Sie auf den Reiter **Gemeinsamer Datensatz**.
@@ -27,7 +27,7 @@ Sie können gemeinsame Datensätze nicht nur in der jeweiligen Gruppe nutzen, in
 
 Um die Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe wieder **aufzulösen**, folgen Sie einfach erneut den oben genannten Schritten und klicken bei den Zugriffsberechtigungen neben der entsprechenden Gruppe auf **Löschen**.
 
-![Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe auflösen.](https://seatable.io/wp-content/uploads/2022/11/cancel-the-release-of-a-common-dataset-to-an-external-group.png)
+![Freigabe eines gemeinsamen Datensatzes an eine andere Gruppe auflösen.](images/cancel-the-release-of-a-common-dataset-to-an-external-group.png)
 
 ### Folgen der Auflösung
 

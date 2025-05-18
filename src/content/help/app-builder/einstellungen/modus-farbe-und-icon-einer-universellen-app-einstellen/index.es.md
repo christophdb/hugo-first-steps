@@ -23,7 +23,7 @@ Puedes realizar **ajustes visuales** para cada [aplicación](https://seatable.io
 
 6. Haga clic en el **icono de la paleta** situado en la parte superior izquierda de la página.
 
-![Icono de paleta para los ajustes de diseño de una aplicación](https://seatable.io/wp-content/uploads/2024/12/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
+![Icono de paleta para los ajustes de diseño de una aplicación](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
 
 8. Realice los ajustes deseados en la **configuración visual (modo, color e icono)** de la aplicación universal.
 
@@ -47,4 +47,4 @@ Los ajustes mencionados hasta ahora afectan a **toda** una **aplicación univers
 
 Actualmente, la [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) en particular ofrece numerosos ajustes de diseño adicionales. Por ejemplo, puede definir distintos colores para los fondos, las fuentes, las líneas y los marcos de los elementos. Utilice para ello el práctico **selector de colores**.
 
-![Selector de color en la aplicación universal](https://seatable.io/wp-content/uploads/2024/12/Color-Picker-in-der-Universellen-App.png)
+![Selector de color en la aplicación universal](images/Color-Picker-in-der-Universellen-App.png)

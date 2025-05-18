@@ -12,7 +12,7 @@ SeaTable allows you to **delete** **files** and **images** in several ways. The 
 
 ## Remove files and images via the row details
 
-![How to remove attachments via the line details.](https://seatable.io/wp-content/uploads/2022/11/Wie-man-Anhaenge-dauerhaft-entfernt_Bild-Spalte.gif)
+![How to remove attachments via the line details.](images/Wie-man-Anhaenge-dauerhaft-entfernt_Bild-Spalte.gif)
 
 1. Open the detailed view of a row, by clicking on the **double arrow icon**, which appears as soon as you move the mouse over the numbering of the row .
 2. In the **Line Details** window, hover over the **image** or **file** you want to delete.
@@ -21,13 +21,13 @@ SeaTable allows you to **delete** **files** and **images** in several ways. The 
 
 ## Delete via the cell
 
-![Delete files via the cell.](https://seatable.io/wp-content/uploads/2022/11/loeschen-ueber-die-zelle-2.gif)
+![Delete files via the cell.](images/loeschen-ueber-die-zelle-2.gif)
 
 1. Open the **All Images** or **All Files** window by **double-clicking** the **cell** in an image or file column.
 2. For images, deleting works the same as using the line details. For files you have the following options:
     - Click **Select** and select all the files you want to delete. Confirm with **Delete**.
     - Hover the mouse cursor over a file and click the **three-dot icon** to select the **Delete** option.
 
-![Delete attachments.](https://seatable.io/wp-content/uploads/2022/11/Loeschen-von-Anhaengen.gif)
+![Delete attachments.](images/Loeschen-von-Anhaengen.gif)
 
 {{< warning  headline="Attention"  text="Deleted images and files are still part of Base and therefore **not** permanently deleted. For more information, read the articles [Accessing deleted files and images](https://seatable.io/en/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) and [How to permanently remove files](https://seatable.io/en/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}

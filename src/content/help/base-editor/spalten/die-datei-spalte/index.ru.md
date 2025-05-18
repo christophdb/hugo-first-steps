@@ -12,7 +12,7 @@ url: '/ru/help/die-datei-spalte'
 
 ## Как создать колонку файлов
 
-![Создайте колонку.](https://seatable.io/wp-content/uploads/2022/11/Wie-man-eine-Spalte-anlegt.gif)
+![Создайте колонку.](images/Wie-man-eine-Spalte-anlegt.gif)
 
 1. Нажмите на **символ \[+\]** справа от последнего столбца вашей таблицы.
 2. Дайте столбцу **имя** в верхнем поле.
@@ -54,7 +54,7 @@ url: '/ru/help/die-datei-spalte'
 
 ## Загрузка файла
 
-![Скачать файлы.](https://seatable.io/wp-content/uploads/2022/11/Herunterladen-von-Dateien.gif)
+![Скачать файлы.](images/Herunterladen-von-Dateien.gif)
 
 1. В столбце "Файл" **дважды щелкните** по ячейке, содержащей документы, которые вы хотите загрузить.
 2. Откроется новое окно. Здесь перечислены **все файлы**, хранящиеся в ячейке.
@@ -77,7 +77,7 @@ url: '/ru/help/die-datei-spalte'
 
 ## Переименовать файлы
 
-![Переименование вложений колонки файлов.](https://seatable.io/wp-content/uploads/2022/11/Datei-Spalte-Anhaenge-umbenennen.gif)
+![Переименование вложений колонки файлов.](images/Datei-Spalte-Anhaenge-umbenennen.gif)
 
 1. Откройте окно **Все файлы**, **дважды щелкнув** по ячейке в столбце Файл.
 2. Наведите указатель мыши на файл, который вы хотите переименовать, и нажмите на **три точки**.
@@ -85,7 +85,7 @@ url: '/ru/help/die-datei-spalte'
 
 ## Удаление файлов
 
-![Удалить вложения.](https://seatable.io/wp-content/uploads/2022/11/Loeschen-von-Anhaengen.gif)
+![Удалить вложения.](images/Loeschen-von-Anhaengen.gif)
 
 1. Откройте окно **Все файлы**, **дважды щелкнув** по ячейке в столбце Файл.
 2. Таким образом, вы можете создать **один файл** Удалить

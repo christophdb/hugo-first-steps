@@ -16,11 +16,11 @@ With the **rollup formula** it is possible to determine relations between numeri
 
 First of all, you need a column of the type [Link to other entries]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Make sure that the option **Allow links to several rows** is activated, because only then you can determine relations between numbers.
 
-![The roll-up formula](https://seatable.io/wp-content/uploads/2022/11/rollup-1.png)
+![The roll-up formula](images/rollup-1.png)
 
 The **Formula for Link** column then uses the rollup formula to show you the selected relation of the numerical values within the link column. In this example, we have chosen the **Sum** evaluation method:
 
-![The roll-up formula](https://seatable.io/wp-content/uploads/2022/11/rollup-2-1.png)
+![The roll-up formula](images/rollup-2-1.png)
 
 ## Add a table link
 
@@ -30,7 +30,7 @@ Using the rollup formula only makes sense if you enable the **Allow link to mult
 
 ## Create a column with the rollup formula
 
-![The Rollup Formula.](https://seatable.io/wp-content/uploads/2022/11/rollup-Formel.gif)
+![The Rollup Formula.](images/rollup-Formel.gif)
 
 1. Create a new column of the type **Formula for links**.
 2. Set the **Rollup** option as the formula.

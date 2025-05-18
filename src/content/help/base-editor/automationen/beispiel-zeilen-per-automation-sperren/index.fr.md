@@ -22,7 +22,7 @@ Avec l'aide des automatisations, vous ne devez plus bloquer manuellement les lig
 4. Définir un **événement déclencheur** qui déclenchera l'automatisation.
 5. Cliquez sur **Ajouter une action** et sélectionnez **Bloquer l'entrée** comme action automatisée.
 
-![Sélection de l'action automatisée : "Bloquer l'entrée".](https://seatable.io/wp-content/uploads/2022/12/lock-record.png)
+![Sélection de l'action automatisée : "Bloquer l'entrée".](images/lock-record.png)
 
 7. Confirmez en cliquant sur **Envoyer**.
 
@@ -40,19 +40,19 @@ L'action automatisée **Entrée de la serrure** est disponible uniquement pour l
 
 Si vous souhaitez par exemple **bloquer** dans l'un de vos tableaux chaque ligne dans laquelle une certaine entrée atteint une **valeur** spécifique, vous définissez comme déclencheur de l'automatisation l'événement : **Les entrées remplissent certaines conditions après traitement**.
 
-![Définition de l'événement déclencheur de l'automatisation](https://seatable.io/wp-content/uploads/2022/12/trigger-example-1.png)
+![Définition de l'événement déclencheur de l'automatisation](images/trigger-example-1.png)
 
 Définissez ensuite la **valeur** ainsi que la **colonne** dans laquelle elle doit être atteinte.
 
-![Définition de l'événement déclencheur de l'automatisation](https://seatable.io/wp-content/uploads/2022/12/trigger-example-2.png)
+![Définition de l'événement déclencheur de l'automatisation](images/trigger-example-2.png)
 
 Enfin, définissez **Bloquer l'entrée** comme action automatisée.
 
-![Définition de l'action automatisée](https://seatable.io/wp-content/uploads/2022/12/automated-action-example.png)
+![Définition de l'action automatisée](images/automated-action-example.png)
 
 A partir de ce moment, l'automatisation créée bloquera **toutes les lignes** dans lesquelles **des entrées** sont modifiées de manière à satisfaire à la règle d'automatisation.
 
-![Action automatisée définie : "Bloquer l'entrée".](https://seatable.io/wp-content/uploads/2022/12/automated-action-example-2.png)
+![Action automatisée définie : "Bloquer l'entrée".](images/automated-action-example-2.png)
 
 {{< warning  headline="A noter" text="Avec une automatisation, vous pouvez toujours bloquer uniquement les lignes dans lesquelles le déclencheur de l'automatisation s'est produit. Il n'est pas possible d'appliquer une règle d'automatisation selon le schéma **l'événement sur la ligne X déclenche le blocage de la ligne Y**." />}}
 

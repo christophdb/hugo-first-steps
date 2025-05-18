@@ -12,7 +12,7 @@ url: '/ru/help/filtern-von-eintraegen-in-einer-ansicht'
 
 ## Фильтр записей в представлении
 
-![Фильтр записей](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-1.gif)
+![Фильтр записей](images/Filtern-von-Eintraegen-1.gif)
 
 1. Выберите **вид, в** котором вы хотите установить фильтр.
 2. Нажмите на **Фильтр** в опциях просмотра над таблицей.
@@ -28,18 +28,18 @@ url: '/ru/help/filtern-von-eintraegen-in-einer-ansicht'
 ### Вот несколько примеров
 
 У вас есть эти варианты условий с [Текстовая колонка](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/):  
-![Фильтр текстового столбца](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-5.png)
+![Фильтр текстового столбца](images/filtern-von-eintraegen-5.png)
 
 У вас есть эти варианты условий с [Одиночная колонка выбора](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
-![Фильтр колонки с одним отбором](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-6.png)
+![Фильтр колонки с одним отбором](images/filtern-von-eintraegen-6.png)
 
 У вас есть эти варианты условий с [Колонка изображений](https://seatable.io/ru/docs/dateien-und-bilder/die-bild-spalte/):  
-![Колонка изображений фильтра](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-7.png)
+![Колонка изображений фильтра](images/filtern-von-eintraegen-7.png)
 
 ## Удалить фильтр
 
 Вы можете восстановить созданные фильтры. **удалить**нажав на **символ х** нажать.  
-![Удаление фильтра из представления](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen.png)
+![Удаление фильтра из представления](images/filtern-von-eintraegen.png)
 
 ## Применение нескольких фильтров
 
@@ -48,4 +48,4 @@ url: '/ru/help/filtern-von-eintraegen-in-einer-ansicht'
 ## Перестановка фильтров
 
 Вы можете перемещать и переставлять фильтры, перемещая мышь по **Захватная поверхность** ![Иконка для перемещения элементов](images/move-icon.png) Нажмите и удерживайте, потяните и отпустите.  
-![Фильтр Сортировка записей](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)
+![Фильтр Сортировка записей](images/Filtern-von-Eintraegen-2.gif)

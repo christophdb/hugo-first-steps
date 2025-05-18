@@ -14,14 +14,14 @@ Using the cascading feature, you can specify a parent column of the same type fo
 
 ## Cascading a single selection
 
-![Defining a cascading](https://seatable.io/wp-content/uploads/2022/11/Definierung-einer-Kaskadierung-1.png)
+![Defining a cascading](images/Definierung-einer-Kaskadierung-1.png)
 
 1. Click the **triangle icon of** any single-selection column.
 2. Click **Define cascading**.
 3. Select any **single-selection column** to act as the parent column.
 4. Assign any options from the **current** column **selected at the beginning to** the **parent** options of this **column**.
 
-![Assignment of the options of the parent single selection column.](https://seatable.io/wp-content/uploads/2022/11/Zuweisung-der-Optionen-bei-einer-Kaskadierung-1.png)
+![Assignment of the options of the parent single selection column.](images/Zuweisung-der-Optionen-bei-einer-Kaskadierung-1.png)
 
 ## Functionality of a cascading
 
@@ -29,17 +29,17 @@ Using the cascading feature, you can specify a parent column of the same type fo
 
 When you define cascading for a single-selection column, **you restrict the options** that can be assigned to the cells in that column. The decisive factor here is the options of the single-selection column that you define as the **parent column**. For a better understanding, the functionality of a cascading is explained in detail by means of an **example:**
 
-![Definition of cascading by means of an example.](https://seatable.io/wp-content/uploads/2022/11/Beispiel-fuer-eine-Kaskadierung-Bild-1.png)
+![Definition of cascading by means of an example.](images/Beispiel-fuer-eine-Kaskadierung-Bild-1.png)
 
 In this example, the table contains data about various employee education/training sessions. In addition to the first column that captures different trainings, a **single-selection column** already exists that specifies the particular location of the training. For a **newly added single selection column** that captures the exact building, **cascading** is defined in this example.
 
-![Assignment of options of the selected column to the options of the parent single-selection column.](https://seatable.io/wp-content/uploads/2022/11/Beispiel-fuer-eine-Kaskadierung-Bild-2.png)
+![Assignment of options of the selected column to the options of the parent single-selection column.](images/Beispiel-fuer-eine-Kaskadierung-Bild-2.png)
 
 In this example, the **"Location"** column, which indicates the city in which the respective training takes place, serves as the **superordinate** single-selection column. In the next step, the three cities in this column are assigned **subordinate options** from the newly created single-selection column **"Building"**.
 
 Specifically, the three locations of **London**, **Paris**, and **Berlin** are assigned the buildings that are located in each city.
 
-![Options available in the single selection column, after defining a cascade.](https://seatable.io/wp-content/uploads/2022/11/Beispiel-fuer-eine-Kaskadierung-Bild-3.png)
+![Options available in the single selection column, after defining a cascade.](images/Beispiel-fuer-eine-Kaskadierung-Bild-3.png)
 
 By defining such a cascade, you ultimately **limit** **the options in the child column**. Which options or buildings are available in a cell of the subordinate column "Building" depends on the city, which is selected in the same row for the single selection column "Location". This means that in each cell of the "Building" column, **only** those buildings are available for selection that are also located in the corresponding city.
 

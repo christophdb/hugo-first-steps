@@ -16,7 +16,7 @@ For quick access to your plugins, you can add them to the **toolbar** next to th
 
 ## Activate a plugin
 
-![Activate a plugin in a base](https://seatable.io/wp-content/uploads/2022/11/activate-a-plugin.gif)
+![Activate a plugin in a base](images/activate-a-plugin.gif)
 
 1. Click **Plugins** in the Base header.
 2. In the appeared panel go to **Set up plugins**.

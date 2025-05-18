@@ -156,7 +156,7 @@ Todas as alterações de configuração são efectuadas **em tempo real**, ou se
 
 Existe um tipo especial de estatísticas em páginas individuais: a **tabela simples** permite - à semelhança das [páginas de tabela](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - a apresentação tabular de um conjunto de dados que foi pré-filtrado e pré-classificado pelo administrador da aplicação. Ao contrário da página de tabela, é possível combinar **várias tabelas** num único painel.
 
-![Novo tipo de gráfico "Tabela básica"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Novo tipo de gráfico "Tabela básica"](images/BasicTable.png)
 
 ## Definir a cor de fundo da página
 

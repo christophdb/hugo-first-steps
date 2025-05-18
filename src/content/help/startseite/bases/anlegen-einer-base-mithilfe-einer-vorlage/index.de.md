@@ -1,18 +1,18 @@
 ---
-title: "Anlegen einer Base mithilfe einer Vorlage"
+title: 'Anlegen einer Base mithilfe einer Vorlage'
 date: 2022-09-19
-lastmod: "2022-12-28"
-categories: 
-  - "arbeiten-mit-bases"
-author: "nsc2"
-url: "/de/hilfe/anlegen-einer-base-mithilfe-einer-vorlage"
+lastmod: '2022-12-28'
+categories:
+    - 'arbeiten-mit-bases'
+author: 'nsc2'
+url: '/de/hilfe/anlegen-einer-base-mithilfe-einer-vorlage'
 ---
 
 Falls Sie mit der Gestaltung Ihrer Base noch unschlüssig sind oder einfach nur nach neuen Inspirationen suchen, haben Sie in SeaTable die Möglichkeit, schnell und einfach eine Base aus einer Vorlage zu erstellen.
 
 ## Anlegen einer Base mithilfe einer Vorlage
 
-![Eine Base aus einer Vorlage erstellen](https://seatable.io/wp-content/uploads/2022/12/Eine-Base-aus-einer-Vorlage-erstellen.png)
+![Eine Base aus einer Vorlage erstellen](images/Eine-Base-aus-einer-Vorlage-erstellen.png)
 
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Je nachdem, ob Sie unter _Meine Bases_ oder in einer Ihrer Gruppen eine Base anlegen möchten, klicken Sie im entsprechenden Bereich auf **Eine Base oder Ordner hinzufügen**.

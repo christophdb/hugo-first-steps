@@ -24,7 +24,7 @@ Il **convient d'être prudent** lors de la modification des colonnes d'un ensemb
 
 Afin de garantir un flux de travail optimal et d'éviter aussi bien une perte de données que des malentendus lors de la collaboration, il est recommandé de **bloquer** pour l'édition toutes les **colonnes** qui contiennent des données d'un **enregistrement commun**. En revanche, les colonnes supplémentaires ajoutées **individuellement** peuvent être modifiées à volonté.
 
-![Verrouillage des colonnes de l'ensemble de données commun](https://seatable.io/wp-content/uploads/2022/11/how-to-lock-columns-of-a-common-dataset.gif)
+![Verrouillage des colonnes de l'ensemble de données commun](images/how-to-lock-columns-of-a-common-dataset.gif)
 
 1. Cliquez sur l'**icône triangulaire** d'une colonne dont vous souhaitez bloquer l'édition.
 2. Cliquez sur **Modifier les autorisations de colonne**.
@@ -35,4 +35,4 @@ Vous pouvez limiter individuellement l'édition de chaque colonne, de sorte que 
 
 Un blocage de la colonne empêche en principe l'**édition des cellules**. Pour certains types de colonnes, comme par exemple la sélection **simple** ou **multiple**, il est en outre possible de restreindre la **création d'options**.
 
-![Colonne d'un ensemble de données commun bloquée pour modification (à gauche) et colonne modifiable nouvellement ajoutée à un ensemble de données commun (à droite)](https://seatable.io/wp-content/uploads/2022/11/locked-column-and-regular-column-2.png)
+![Colonne d'un ensemble de données commun bloquée pour modification (à gauche) et colonne modifiable nouvellement ajoutée à un ensemble de données commun (à droite)](images/locked-column-and-regular-column-2.png)

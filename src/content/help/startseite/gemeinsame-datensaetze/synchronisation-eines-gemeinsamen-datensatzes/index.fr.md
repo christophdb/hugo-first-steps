@@ -14,7 +14,7 @@ Si vous souhaitez mettre à jour les tables liées à l'ensemble de données com
 
 ## Synchronisation manuelle avec un ensemble de données commun
 
-![Synchronisation d'un ensemble de données commun](https://seatable.io/wp-content/uploads/2022/11/Synchronisation-eines-gemeinsamen-Datensatez.png)
+![Synchronisation d'un ensemble de données commun](images/Synchronisation-eines-gemeinsamen-Datensatez.png)
 
 1. Cliquez sur l'**icône en forme de triangle** à droite du nom d'une table créée avec un enregistrement partagé.
 2. Cliquez sur **Synchroniser avec l'ensemble de données**.
@@ -24,18 +24,18 @@ Si vous souhaitez mettre à jour les tables liées à l'ensemble de données com
 
 Si la synchronisation est réussie, le message suivant s'affiche :
 
-![Message en cas de synchronisation réussie d'un ensemble de données commun](https://seatable.io/wp-content/uploads/2022/11/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+![Message en cas de synchronisation réussie d'un ensemble de données commun](images/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
 ## Synchronisation périodique avec un ensemble de données commun
 
-![Synchronisation d'un ensemble de données commun](https://seatable.io/wp-content/uploads/2022/11/Synchronisation-2.0.png)
+![Synchronisation d'un ensemble de données commun](images/Synchronisation-2.0.png)
 
 1. Cliquez sur l'**icône en forme de triangle** à droite du nom d'une table créée avec un enregistrement partagé.
 2. Cliquez sur **Synchroniser avec l'ensemble de données**.
 3. Cliquez sur le bouton **Activer la synchronisation automatique**.
 4. Choisissez si la synchronisation automatique doit être effectuée **quotidiennement** ou **toutes les heures**.
 
-![Synchronisation périodique d'un ensemble de données commun](https://seatable.io/wp-content/uploads/2022/11/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+![Synchronisation périodique d'un ensemble de données commun](images/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
 ### Limitations de la synchronisation périodique
 

@@ -14,7 +14,7 @@ Si dispone de una suscripción Enterprise, también puede enviar notificaciones 
 
 ## Enviar notificaciones mediante automatización
 
-![Envío automatizado de correos electrónicos](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Envío automatizado de correos electrónicos](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatización**.
 2. Haga clic en **Añadir Regla**.
@@ -27,7 +27,7 @@ Si dispone de una suscripción Enterprise, también puede enviar notificaciones 
 
 En primer lugar, defina un **evento desencadenante** para la automatización.
 
-![Eventos desencadenantes básicamente disponibles para su selección](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Eventos desencadenantes básicamente disponibles para su selección](images/trigger-options-for-archivating-rows.png)
 
 Las **cuatro opciones** son:
 
@@ -38,7 +38,7 @@ Las **cuatro opciones** son:
 
 A continuación, seleccione **Enviar notificación** como acción automatizada. Esto está disponible como acción para las cuatro opciones de activación.
 
-![Añadir la acción automatizada](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png)  
+![Añadir la acción automatizada](images/add-an-action.png)  
 ![Añadir la acción automatizada](images/send-notification.png)
 
 En el siguiente paso, seleccione los **usuarios** a los que se notificará cuando se produzca el evento desencadenante. Tenga en cuenta que sólo puede seleccionar usuarios que tengan al menos **acceso de lectura a** la tabla o vista.

@@ -10,7 +10,7 @@ url: '/pt/ajuda/die-startseite-von-seatable'
 
 Depois de se ter registado e iniciado a sessão, será levado para a página inicial do SeaTable. Neste artigo iremos dividir as diferentes secções para o ajudar a navegar para as diferentes áreas do produto.
 
-![Elementos da página inicial do SeaTable](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_homepage.png)
+![Elementos da página inicial do SeaTable](images/elements_seatable_homepage.png)
 
 ## Cabeçalho
 

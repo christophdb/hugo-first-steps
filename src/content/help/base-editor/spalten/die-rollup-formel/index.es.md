@@ -16,11 +16,11 @@ Con la **fórmula rollup** es posible determinar relaciones entre valores numér
 
 Primero necesita una columna del tipo [Enlace a otras entradas]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Asegúrese de que la opción **Permitir enlaces a varias filas** está activada, porque es la única forma de determinar relaciones entre números.
 
-![La fórmula del roll-up](https://seatable.io/wp-content/uploads/2022/11/rollup-1.png)
+![La fórmula del roll-up](images/rollup-1.png)
 
 A continuación, la columna **Fórmula para** enlace muestra la relación seleccionada de los valores numéricos dentro de la columna de enlace utilizando la fórmula de rollup. En este ejemplo hemos elegido el método de evaluación **Suma:**
 
-![La fórmula del roll-up](https://seatable.io/wp-content/uploads/2022/11/rollup-2-1.png)
+![La fórmula del roll-up](images/rollup-2-1.png)
 
 ## Añadir un enlace a la tabla
 
@@ -30,7 +30,7 @@ El uso de la fórmula desplegable sólo tiene sentido si activa la opción **Per
 
 ## Crear una columna con la fórmula de rollup
 
-![La fórmula del roll-up.](https://seatable.io/wp-content/uploads/2022/11/rollup-Formel.gif)
+![La fórmula del roll-up.](images/rollup-Formel.gif)
 
 1. Cree una nueva columna del tipo **Fórmula para los enlaces**.
 2. Establezca la opción **Rollup** como fórmula.

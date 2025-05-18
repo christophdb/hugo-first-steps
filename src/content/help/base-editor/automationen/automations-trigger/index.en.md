@@ -16,7 +16,7 @@ url: '/help/automations-trigger'
 
 In the latest version of SeaTable there are a total of **four** different trigger events to choose from:
 
-![Trigger events currently available](https://seatable.io/wp-content/uploads/2022/12/types-of-trigger-events.png)
+![Trigger events currently available](images/types-of-trigger-events.png)
 
 - Entries meet certain conditions after editing
 - A new entry is added
@@ -47,7 +47,7 @@ If you select the event "Entries meet certain conditions after editing" as a tri
 
 If you select this event as a trigger, the corresponding automation will be fired every time a new **entry** is added in the selected table view. In addition, you can further restrict the occurrence of the event by individually setting a **value** for each column that the new entry **must contain** to trigger the automation.
 
-![Possible restrictions of the trigger event: When a new entry is added](https://seatable.io/wp-content/uploads/2022/12/specialization-of-trigger-records-added.png)
+![Possible restrictions of the trigger event: When a new entry is added](images/specialization-of-trigger-records-added.png)
 
 If you select the "A new entry is added" event as a trigger of an automation, the following **automatic actions** are available for selection:
 
@@ -65,7 +65,7 @@ If you select the "A new entry is added" event as a trigger of an automation, th
 
 If you assign a periodic trigger to an automation, you can then define a **time at** which the automation is triggered **daily**, **weekly** or **monthly**. While you can only specify the **time** for a daily automation, you can also specify a **day of the week** for a weekly automation or an exact **date for** a monthly automation.
 
-![Setting options for a periodic trigger](https://seatable.io/wp-content/uploads/2022/12/specification-periodic-trigger.png)
+![Setting options for a periodic trigger](images/specification-periodic-trigger.png)
 
 When you set a periodic trigger for an automation, the following **automatic actions** are available for selection:
 
@@ -83,7 +83,7 @@ This trigger is a mixture of the periodic trigger and the "Entries fulfill certa
 
 In addition, this trigger event allows you to individually specify for each column of the table certain **conditions** that the **entries** in the respective column must meet in order for the automation to be completed at the specified time.
 
-![Automation trigger: "Periodic trigger when entries meet certain conditions".](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
+![Automation trigger: "Periodic trigger when entries meet certain conditions".](images/trigger-event-periodic-match-conditions.png)
 
 If you select the "Periodic trigger for entries that meet certain conditions" for an automation, the following **automatic actions** are available for selection:
 

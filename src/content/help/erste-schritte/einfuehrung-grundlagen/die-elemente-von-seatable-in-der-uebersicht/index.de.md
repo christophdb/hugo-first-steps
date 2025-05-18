@@ -12,7 +12,7 @@ Die intuitive und dennoch leistungsstarke Low-Code-Plattform SeaTable gibt jedem
 
 ## Starten Sie jetzt mit SeaTable
 
-![Elemente der SeaTable Startseite](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_homepage.png)
+![Elemente der SeaTable Startseite](images/elements_seatable_homepage.png)
 
 ### Die Startseite mit Ihren Bases
 
@@ -22,7 +22,7 @@ Nach dem Login starten Sie auf der Startseite von SeaTable. Jede quadratische Ka
 
 ---
 
-![Elemente der SeaTable Base](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_base.png)
+![Elemente der SeaTable Base](images/elements_seatable_base.png)
 
 ### Tabellen
 

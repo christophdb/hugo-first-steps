@@ -14,7 +14,7 @@ Bases bestehen aus einer oder mehreren Tabellen, die wiederum ganz unterschiedli
 
 1. In der **geöffneten Base** sehen Sie oben links die Reiter mit sämtlichen **Tabellen** der Base.
 
-    ![Tabellen in einer Base von SeaTable](https://seatable.io/wp-content/uploads/2022/09/Tabellen-in-seatable.png)
+    ![Tabellen in einer Base von SeaTable](images/Tabellen-in-seatable.png)
 
 2. Klicken Sie auf das **\[+\]-Symbol** rechts neben dem letzten Tabellenreiter.
 3. Wählen Sie nun **Tabelle hinzufügen**.
@@ -30,7 +30,7 @@ Alternativ können Sie Tabellen auch aus **Dateien** in Ihre Base importieren. D
 
 In SeaTable sind [Bases](https://seatable.io/docs/arbeiten-mit-bases/bases/) grundsätzlich getrennte Einheiten, doch nicht selten kommt es vor, dass man Daten auch in einer anderen Base benötigt. Anstatt eine Tabelle umständlich aus der einen Base exportieren und in die gewünschte Base importieren zu müssen, bietet SeaTable die bequeme Möglichkeit, Tabellen **direkt** aus anderen Bases zu **importieren** und damit Daten über Base-Grenzen hinweg zu übertragen.
 
-![Import einer Tabelle aus einer anderen Base](https://seatable.io/wp-content/uploads/2022/09/import-table-from-other-base.gif)
+![Import einer Tabelle aus einer anderen Base](images/import-table-from-other-base.gif)
 
 Mit [gemeinsamen Datensätzen](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) können Sie zudem eine Mastertabelle in einer Gruppe teilen und die Tabellen-Ableger in verschiedenen Bases nutzen und synchronisieren. Mehr dazu erfahren Sie [hier](https://seatable.io/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
 
@@ -38,6 +38,6 @@ Mit [gemeinsamen Datensätzen](https://seatable.io/docs/gemeinsame-datensaetze/f
 
 Manchmal sagt ein Bild mehr als tausend Worte. SeaTable erlaubt auch die Verwendung von Emojis im Tabellennamen, wodurch Sie die Tabellenreiter kürzer machen können.
 
-![Emojis im Tabellennamen](https://seatable.io/wp-content/uploads/2022/09/emojis-seatable-table-name.png)
+![Emojis im Tabellennamen](images/emojis-seatable-table-name.png)
 
 Eine genaue Anleitung finden Sie im Artikel [Verwendung von Emojis in Tabellennamen](https://seatable.io/docs/arbeiten-in-tabellen/verwendung-von-emojis-im-tabellennamen/).

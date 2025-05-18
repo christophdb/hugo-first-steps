@@ -16,8 +16,8 @@ Dans chaque base appartenant à un groupe, vous pouvez créer une vue de table c
 
 ## Création d'un ensemble de données communes
 
-![Création d'un ensemble de données communes](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-5.png)  
-![Création d'un ensemble de données communes](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-2-1.png)
+![Création d'un ensemble de données communes](images/create-a-common-dataset-5.png)  
+![Création d'un ensemble de données communes](images/create-a-common-dataset-2-1.png)
 
 1. Ouvrez n'importe quelle **vue de tableau** dans une base appartenant à l'un de vos groupes.
 2. Cliquez sur les **trois points**.

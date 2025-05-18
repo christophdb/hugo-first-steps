@@ -39,7 +39,7 @@ Ihnen stehen **zwei** Wege zur Verfügung, um einzelne Tabellen und Ansichten ei
 
 ### Über das Teilen-Icon in der Base
 
-![Freigabe einzelner Tabellenblätter von der Startseite aus](https://seatable.io/wp-content/uploads/2022/11/share-single-tablesheets-from-the-base-options.png)
+![Freigabe einzelner Tabellenblätter von der Startseite aus](images/share-single-tablesheets-from-the-base-options.png)
 
 1. Öffnen Sie die **Base**, von der Sie einzelne Tabellen oder Ansichten freigeben möchten.
 2. Klicken Sie oben rechts in den **Base-Optionen** auf **Teilen** {{< seatable-icon icon="dtable-icon-share" >}}.
@@ -54,7 +54,7 @@ Die erstellte Freigabeberechtigung steht Ihnen nun unter **Freigabe für Benutze
 3. Im Feld **Rechte** können Sie nun die zuvor erstellte **Freigabeberechtigung** unter dem jeweiligen Namen auswählen.
 4. Bestätigen Sie die Freigabe mit **Absenden**.
 
-![Einzelne Tabellenblätter einer Base freigeben](https://seatable.io/wp-content/uploads/2022/11/share-sinlge-table-sheets-to-a-group-1.gif)
+![Einzelne Tabellenblätter einer Base freigeben](images/share-sinlge-table-sheets-to-a-group-1.gif)
 
 Ausführliche Erläuterungen, was Sie bei Freigaben an Benutzer oder Gruppen beachten sollten, erhalten Sie in den folgenden Artikeln:
 
@@ -65,15 +65,15 @@ Ausführliche Erläuterungen, was Sie bei Freigaben an Benutzer oder Gruppen bea
 
 Geteilte Tabellen und Ansichten findet man im **Arbeitsbereich** der Gruppe oder des Benutzers auf der **Startseite**. Diese werden immer mit dem Hinweis **Freigegeben** angezeigt.
 
-![Mit einer Gruppe geteilte einzelne Tabellenblätter einer Base](https://seatable.io/wp-content/uploads/2022/11/how-shared-single-table-sheets-are-marked.png)
+![Mit einer Gruppe geteilte einzelne Tabellenblätter einer Base](images/how-shared-single-table-sheets-are-marked.png)
 
 Tabellen und Ansichten, die ausschließlich zum **Lesen** freigegeben sind, können Sie folglich **nur** sehen und **nicht** bearbeiten. Wenn Sie in der Tabelle herumklicken, passiert nichts:
 
-![Einzelnes Tabellenblatt, welches ausschließlich lesend an eine Gruppe freigegeben wurde](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-only-read.gif)
+![Einzelnes Tabellenblatt, welches ausschließlich lesend an eine Gruppe freigegeben wurde](images/shared-table-pages-only-read.gif)
 
 Tabellen und Ansichten, die zum **Lesen und Schreiben** freigegeben sind, können Sie hingegen sowohl ansehen als auch **bearbeiten**. Ihre Änderungen sind für alle Benutzer mit Zugriff auf die Tabelle sichtbar:
 
-![Einzelnes Tabellenblatt, welches lesend und schreibend an eine Gruppe freigegeben wurde](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-read-and-write.gif)
+![Einzelnes Tabellenblatt, welches lesend und schreibend an eine Gruppe freigegeben wurde](images/shared-table-pages-read-and-write.gif)
 
 {{< warning  type="warning" headline="Achtung"  text="Bitte beachten Sie, dass **Änderungen**, die andere Nutzer (mit Schreibberechtigung) in den von Ihnen geteilten Tabellen oder Ansichten vornehmen, auch bei Ihnen **übernommen** werden." />}}
 

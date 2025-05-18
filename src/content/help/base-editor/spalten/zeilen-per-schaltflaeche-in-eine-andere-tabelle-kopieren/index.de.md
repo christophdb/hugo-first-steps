@@ -26,7 +26,7 @@ Legen Sie zwei neue Tabellen für die jeweiligen Party-Gästelisten an.
 
 **Tipp:** Eine einfache Methode, um die Tabellenstruktur der Ursprungstabelle zu übernehmen, ist **die Tabelle ohne die bestehenden Einträge zu duplizieren**.
 
-![Tabellenstruktur duplizieren](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Tabellenstruktur duplizieren](images/Tabellenstruktur-duplizieren.png)
 
 In den leeren Tabellen können Sie die nicht benötigten Spalten selbstverständlich löschen oder nachträglich neue Spalten hinzufügen.
 

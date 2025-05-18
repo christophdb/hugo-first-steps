@@ -30,7 +30,7 @@ Le [module Statistiques](https://seatable.io/fr/docs/plugins/anleitung-zum-stati
 
 La gestion des diagrammes et des tableaux croisés dynamiques se fait sur le tableau de bord du module Statistiques. Tous les diagrammes et tableaux croisés dynamiques créés y sont enregistrés et sont disponibles à tout moment pour une nouvelle consultation. Toutes les statistiques existantes sont **automatiquement mises à jour** lorsque vous modifiez des données dans le tableau. Vous ne devez donc jamais penser à mettre à jour vos statistiques - SeaTable le fait pour vous !
 
-![Différentes statistiques dans le module](https://seatable.io/wp-content/uploads/2021/10/Statistiken.png)
+![Différentes statistiques dans le module](images/Statistiken.png)
 
 Les évaluations affichées dans le module Statistiques se réfèrent toujours à **un tableau** dans la base ouverte. Vous déterminez la base de données pour la visualisation et l'évaluation en choisissant la **vue** à appliquer. Si vous souhaitez créer un graphique ou un tableau croisé dynamique uniquement pour une **partie des données** d'un tableau, créez une vue appropriée. Vous ne trouverez pas **de fonctions de filtrage** dans le module Statistiques lui-même. C'est pourquoi vous devez toujours définir les données pertinentes dans une vue avant de créer une statistique.
 

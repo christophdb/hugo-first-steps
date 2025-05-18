@@ -12,7 +12,7 @@ Mithilfe von [Automationen](https://seatable.io/docs/automationen/uebersicht-ueb
 
 ## Zeitpunkte von Statusänderungen per Automation erfassen
 
-![E-Mails versenden per Automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![E-Mails versenden per Automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Klicken Sie im Base-Header auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Automatisierungsregeln**.
 2. Klicken Sie auf **Regel hinzufügen**.
@@ -28,11 +28,11 @@ Definieren Sie für die Automation zunächst das passende **Trigger-Ereignis**.
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Um die Zeitpunkte von Statusänderungen mit einer Automation erfassen zu können, müssen Sie **zwingend** das Trigger-Ereignis **Einträge erfüllen nach der Änderung bestimmte Bedingungen** auswählen. Mithilfe der anderen Trigger-Ereignisse können Sie Statusänderungen **nicht** erfassen. " />}}
 
-![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](images/trigger-options-for-archivating-rows.png)
 
 Wählen Sie anschließend als automatisierte Aktion **Neuen Eintrag in anderer Tabelle hinzufügen** aus.
 
-![Hinzufügen der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Auswahl der automatisierten Aktion](images/add-action-example2.png)
+![Hinzufügen der automatisierten Aktion](images/add-an-action.png) ![Auswahl der automatisierten Aktion](images/add-action-example2.png)
 
 Im nächsten Schritt wählen Sie die **Tabelle** aus, in welche der Eintrag nach Auslösung des Triggers hinzugefügt werden soll.
 

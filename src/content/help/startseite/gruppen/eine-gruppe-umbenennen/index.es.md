@@ -17,11 +17,11 @@ Aquí puede averiguar cómo usted, como propietario, puede editar el nombre de u
 2. Haga clic en el **símbolo del triángulo** situado a la derecha del nombre del grupo que desea modificar.
 3. Haga clic en **Cambiar el nombre**.
 
-![Cambiar el nombre de un grupo](https://seatable.io/wp-content/uploads/2022/09/rename-group.jpg)
+![Cambiar el nombre de un grupo](images/rename-group.jpg)
 
 5. Introduzca cualquier nombre.
 6. Confirme con **Enviar**.
 
-![Cambiar el nombre de un grupo](https://seatable.io/wp-content/uploads/2022/09/rename-group-2.png)
+![Cambiar el nombre de un grupo](images/rename-group-2.png)
 
 {{< warning  headline="Pequeño consejo"  text="El nombre de un grupo sólo puede estar compuesto por _letras_, _números_, _espacios_, _puntos_, _guiones_, _guiones bajos_ y el _signo #_. Actualmente, no se permiten otros caracteres." />}}

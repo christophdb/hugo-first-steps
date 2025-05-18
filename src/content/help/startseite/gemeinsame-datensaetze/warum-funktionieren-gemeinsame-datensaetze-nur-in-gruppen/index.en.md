@@ -14,7 +14,7 @@ Shared datasets can so far **only** be created from views of group bases. This i
 
 This circumstance is also referred to by a short **info text** that appears as soon as you want to publish a common record from a table view of a base that does **not** belong to a group.
 
-![Note if you want to publish a shared record from a view from a base from the "My Bases" area.](https://seatable.io/wp-content/uploads/2022/12/common-dataset-hinweis.png)
+![Note if you want to publish a shared record from a view from a base from the "My Bases" area.](images/common-dataset-hinweis.png)
 
 ## Bypass limitation
 

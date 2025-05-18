@@ -22,7 +22,7 @@ A **plugin** is an optional software component in SeaTable that offers you addit
 
 In the calendar plugin you can display dates from a [date column](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) in a **year**, **month**, **week**, **day** or **agenda view**. You can also use two date columns to display **time spans** and keep track of all important dates, etc.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Calendar.png)
+![](images/Calendar.png)
 
 [More about the calendar plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kalender-plugin/)
 
@@ -35,7 +35,7 @@ These articles may also be of interest to you:
 
 The timeline plugin represents different periods of time in the form of a **timeline** by a start and end date or by a start date and duration. This way you can keep a good overview of parallel running projects or overlapping appointments. Also for vacation planning in the team and for the occupancy planning of rooms this plugin is excellent.
 
-![Project Management Timeline](https://seatable.io/wp-content/uploads/2022/01/projektmanagement-timeline.png)
+![Project Management Timeline](images/projektmanagement-timeline.png)
 
 [More about the timeline plugin](https://seatable.io/en/docs/plugins/anleitung-zum-timeline-plugin/)
 
@@ -55,7 +55,7 @@ This article might also be interesting for you:
 
 **Locations** can be displayed on a map with the map plugin. You can visualize the entered geographic information with position markers or images. The map plugin can handle **GPS coordinates** as well as **addresses**. However, addresses must be unique in order to be displayed.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Map.png)
+![](images/Map.png)
 
 [More about the map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
@@ -63,7 +63,7 @@ This article might also be interesting for you:
 
 The data deduplication plugin uncovers **duplicate entries** in a table. This is especially helpful with large amounts of data to detect duplicates and remove them. You can delete all duplicate entries with just one click.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Deduplication.png)
+![](images/Deduplication.png)
 
 [More about the data duplication plugin](https://seatable.io/en/docs/plugins/anleitung-zum-datendeduplizierungs-plugin/)
 
@@ -71,7 +71,7 @@ The data deduplication plugin uncovers **duplicate entries** in a table. This is
 
 Using the Page Design plugin, you can layout **documents** such as form letters, business cards, and certificates and populate them with the data in your table. More precisely, you can build layouts with **static elements** that are completed and customized with **dynamic elements** and **table fields**. These offer you the great advantage of inserting all related information (for example, a person's name, address, and job title) into standardized templates, depending on the record, without the need to manually copy data into the documents. In this way, you can create print-ready invoices, certificates or other important documents from the stored data with just a few clicks.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Pagedesign.png)
+![](images/Pagedesign.png)
 
 [More about the page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
 

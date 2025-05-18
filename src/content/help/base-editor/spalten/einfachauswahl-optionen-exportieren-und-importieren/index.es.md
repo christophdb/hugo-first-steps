@@ -12,7 +12,7 @@ Las opciones disponibles en columnas de selección única o múltiple no sólo p
 
 ## Opciones de exportación de una columna de selección
 
-![Exportar opciones de selección única](https://seatable.io/wp-content/uploads/2022/11/export-options-of-a-single-select-column-new-1.png)
+![Exportar opciones de selección única](images/export-options-of-a-single-select-column-new-1.png)
 
 1. Haga clic en el **símbolo del triángulo** situado a la derecha del nombre de cualquier columna de selección simple o múltiple.
 2. Seleccione **Editar selección única** o **Editar selección múltiple**.
@@ -22,7 +22,7 @@ Las opciones se guardan ahora como un archivo JSON **exportaciones**. Dependiend
 
 ## Importar opciones exportadas a una columna de selección
 
-![Importar opciones exportadas a una nueva columna de selección única](https://seatable.io/wp-content/uploads/2022/11/import-options-of-a-single-select-column-new-3.png)
+![Importar opciones exportadas a una nueva columna de selección única](images/import-options-of-a-single-select-column-new-3.png)
 
 - Haga clic en el **icono del triángulo** situado a la derecha del nombre de cualquier columna de selección única o múltiple en la que desee importar opciones.
 - Seleccione **Editar selección única** o **Editar selección múltiple**.

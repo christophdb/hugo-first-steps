@@ -24,7 +24,7 @@ Bei der Bearbeitung von Spalten eines gemeinsamen Datensatzes ist **Vorsicht geb
 
 Um einen optimalen Workflow zu gewährleisten und sowohl einen Datenverlust als auch Missverständnisse bei der Zusammenarbeit zu vermeiden, empfiehlt es sich, alle **Spalten**, die Daten eines **gemeinsamen Datensatzes** enthalten, für die Bearbeitung zu **sperren**. Die **individuell** hinzugefügten zusätzlichen Spalten können Sie hingegen beliebig bearbeiten.
 
-![Sperren von Spalten des gemeinsamen Datensatzes](https://seatable.io/wp-content/uploads/2022/11/how-to-lock-columns-of-a-common-dataset.gif)
+![Sperren von Spalten des gemeinsamen Datensatzes](images/how-to-lock-columns-of-a-common-dataset.gif)
 
 1. Klicken Sie auf das **Dreieck-Symbol** einer Spalte, die Sie für die Bearbeitung sperren möchten.
 2. Klicken Sie auf **Spaltenberechtigungen bearbeiten**.
@@ -35,4 +35,4 @@ Die Bearbeitung können Sie bei jeder Spalte individuell einschränken, sodass S
 
 Eine Sperrung der Spalte verhindert dabei grundsätzlich die **Bearbeitung der Zellen**. Bei bestimmten Spaltentypen wie zum Beispiel der **Einfach-** oder **Mehrfachauswahl** ist es darüber hinaus möglich, auch das **Anlegen von Optionen** einzuschränken.
 
-![Zur Bearbeitung gesperrte Spalte eines gemeinsamen Datensatzes (links) und zu einem gemeinsamen Datensatz neu hinzugefügte, bearbeitbare Spalte (rechts)](https://seatable.io/wp-content/uploads/2022/11/locked-column-and-regular-column-2.png)
+![Zur Bearbeitung gesperrte Spalte eines gemeinsamen Datensatzes (links) und zu einem gemeinsamen Datensatz neu hinzugefügte, bearbeitbare Spalte (rechts)](images/locked-column-and-regular-column-2.png)

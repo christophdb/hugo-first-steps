@@ -156,7 +156,7 @@ Toutes les modifications de réglage sont effectuées **en temps réel**, ce qui
 
 Sur les pages individuelles, il existe un type de statistiques particulier : le **tableau simple** permet - comme les [pages de tableaux](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - de présenter sous forme de tableau un ensemble de données préfiltrées et prétriées par l'administrateur de l'application. Contrairement à la page de tableau, il est donc possible de réunir **plusieurs tableaux** sur un même tableau de bord.
 
-![Nouveau type de tableau "Tableau de base](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Nouveau type de tableau "Tableau de base](images/BasicTable.png)
 
 ## Régler la couleur de fond de la page
 

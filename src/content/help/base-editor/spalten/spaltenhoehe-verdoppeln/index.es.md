@@ -10,7 +10,7 @@ url: '/es/ayuda/spaltenhoehe-verdoppeln'
 
 Duplique la **altura de la cabecera de la tabla para** poder leer completamente los nombres largos de las columnas.
 
-![Doble altura de columna](https://seatable.io/wp-content/uploads/2022/11/Spaltenhoehe-verdoppeln.gif)
+![Doble altura de columna](images/Spaltenhoehe-verdoppeln.gif)
 
 1. Haga clic en el **símbolo de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} situado en el extremo derecho de la cabecera de la tabla.
 2. Seleccione la opción **Establecer la altura del encabezado de la tabla**.

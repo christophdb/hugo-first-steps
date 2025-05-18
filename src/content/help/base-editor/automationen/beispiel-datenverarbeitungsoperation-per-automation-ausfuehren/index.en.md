@@ -12,7 +12,7 @@ With the help of automations, you no longer have to perform a data processing op
 
 ## Perform a data processing operation by automation
 
-![Execute data processing operation via automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Execute data processing operation via automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. In the Base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
 2. Click **Add Rule**.

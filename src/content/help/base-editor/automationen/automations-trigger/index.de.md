@@ -16,7 +16,7 @@ url: '/de/hilfe/automations-trigger'
 
 In der aktuellsten Version von SeaTable stehen ingesamt **vier** verschiedene Trigger-Ereignisse zur Auswahl:
 
-![Momentan zur Verfügung stehende Trigger-Ereignisse](https://seatable.io/wp-content/uploads/2022/12/types-of-trigger-events.png)
+![Momentan zur Verfügung stehende Trigger-Ereignisse](images/types-of-trigger-events.png)
 
 - Einträge erfüllen nach Bearbeitung bestimmte Bedingungen
 - Ein neuer Eintrag wird hinzugefügt
@@ -47,7 +47,7 @@ Wenn Sie das Ereignis "Einträge erfüllen nach Bearbeitung bestimmte Bedingunge
 
 Wenn Sie dieses Ereignis als Trigger auswählen, wird die entsprechende Automation jedes Mal ausgelöst, wenn in der ausgewählten Tabellenansicht ein neuer **Eintrag** hinzugefügt wird. Darüber hinaus können Sie das Eintreten des Ereignisses weiter einschränken, indem Sie individuell für jede Spalte einen **Wert** festlegen, den der neue Eintrag **enthalten muss**, um die Automation auszulösen.
 
-![Mögliche Einschränkungen des Trigger-Ereignisses: Wenn ein neuer Eintrag hinzugefügt wird](https://seatable.io/wp-content/uploads/2022/12/specialization-of-trigger-records-added.png)
+![Mögliche Einschränkungen des Trigger-Ereignisses: Wenn ein neuer Eintrag hinzugefügt wird](images/specialization-of-trigger-records-added.png)
 
 Wenn Sie das Ereignis "Ein neuer Eintrag wird hinzugefügt" als Trigger einer Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
 
@@ -65,7 +65,7 @@ Wenn Sie das Ereignis "Ein neuer Eintrag wird hinzugefügt" als Trigger einer Au
 
 Wenn Sie einer Automation einen periodischen Trigger zuweisen, können Sie anschließend einen **Zeitpunkt** definieren, zu dem die Automation **täglich**, **wöchentlich** oder **monatlich** ausgelöst wird. Während Sie für eine tägliche Automation nur die **Uhrzeit** festlegen können, können Sie für eine wöchentliche Automation auch einen **Wochentag** bzw. für eine monatliche Automation ein genaues **Datum** angeben.
 
-![Einstellung-Optionen für einen periodischen Trigger](https://seatable.io/wp-content/uploads/2022/12/specification-periodic-trigger.png)
+![Einstellung-Optionen für einen periodischen Trigger](images/specification-periodic-trigger.png)
 
 Wenn Sie einen periodischen Trigger für eine Automation festlegen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
 
@@ -83,7 +83,7 @@ Dieser Trigger stellt eine Mischung aus dem periodischen Trigger und dem Trigger
 
 Darüber hinaus können Sie bei diesem Trigger-Ereignis individuell für jede Spalte der Tabelle bestimmte **Bedingungen** festlegen, denen die **Einträge** in der jeweiligen Spalte entsprechen müssen, damit die Automation zum festgelegten Zeitpunkt vollzogen wird.
 
-![Automations-Trigger: "Periodischer Trigger, wenn Einträge bestimmte Bedingungen erfüllen"](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
+![Automations-Trigger: "Periodischer Trigger, wenn Einträge bestimmte Bedingungen erfüllen"](images/trigger-event-periodic-match-conditions.png)
 
 Wenn Sie den "Periodischen Trigger für Einträge, die bestimmte Bedingungen erfüllen" für eine Automation auswählen, stehen Ihnen folgende **automatische Aktionen** zur Auswahl:
 

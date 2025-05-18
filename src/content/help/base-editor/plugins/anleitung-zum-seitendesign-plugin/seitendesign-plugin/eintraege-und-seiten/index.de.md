@@ -1,11 +1,11 @@
 ---
-title: "Einträge und Seiten"
+title: 'Einträge und Seiten'
 date: 2023-02-08
-lastmod: "2023-02-09"
-categories: 
-  - "seitendesign-plugin"
-author: "vge"
-url: "/de/hilfe/eintraege-und-seiten"
+lastmod: '2023-02-09'
+categories:
+    - 'seitendesign-plugin'
+author: 'vge'
+url: '/de/hilfe/eintraege-und-seiten'
 ---
 
 Beim [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) ist es wichtig, den Unterschied zwischen Einträgen und Seiten zu verstehen. Während zusätzliche **Seiten** ein Dokument unabhängig von den Inhalten der Tabelle erweitern, bilden die **Einträge** unterschiedliche Datensätze aus den Zeilen der Tabelle ab.
@@ -16,24 +16,24 @@ Ein **Eintrag** bezieht sich im Seitendesign-Plugin auf eine **Zeile** der ausge
 
 Beispielsweise möchten Sie die Einträge aus der Textspalte "Name" von einer Tabelle in eine Seite einfügen, um einen Rundbrief personalisieren zu können.
 
-![Erster Eintrag der verwendeten Tabelle für das Seitenplugin.](https://seatable.io/wp-content/uploads/2022/11/Tabelle-1-eintraege.png)
+![Erster Eintrag der verwendeten Tabelle für das Seitenplugin.](images/Tabelle-1-eintraege.png)
 
 Dazu ziehen Sie das Tabellenfeld "Name" auf die Seite, sodass die Informationen aus der Namensspalte automatisch auf der Seite abgebildet werden.
 
-![Eintrag Eins der Tabelle bei Setienplugin.](https://seatable.io/wp-content/uploads/2022/11/Eintraege-1.gif)
+![Eintrag Eins der Tabelle bei Setienplugin.](images/Eintraege-1.gif)
 
 Durch die Verwendung der Navigatoren **Vorheriger/Nächster Eintrag** können Sie nun zwischen den Zeilen springen, um die Informationen abwechselnd aus allen Zeilen der Tabelle im Layout der Seite angezeigt zu bekommen.
 
-![Zweiter Eintrag der verwendeten Tabelle für das Seitenplugin.](https://seatable.io/wp-content/uploads/2022/11/Tabelle-2-eintraege.png) ![Eintrag zwei bei der Verwendung vom Seitenplugin.](https://seatable.io/wp-content/uploads/2022/11/Eintraege-2.gif)
+![Zweiter Eintrag der verwendeten Tabelle für das Seitenplugin.](images/Tabelle-2-eintraege.png) ![Eintrag zwei bei der Verwendung vom Seitenplugin.](images/Eintraege-2.gif)
 
 ## Seiten
 
 **Seiten** können Sie hinzufügen, um das Dokument zu erweitern und eine **mehrseitige Vorlage** zu erstellen. Klicken Sie dazu auf den Button **Seite hinzufügen**.
 
-![Einfügen einer Seite in dem Seitenplugin.](https://seatable.io/wp-content/uploads/2022/11/Einfuegen-einer-Seite-in-dem-Seitenplugin.png)
+![Einfügen einer Seite in dem Seitenplugin.](images/Einfuegen-einer-Seite-in-dem-Seitenplugin.png)
 
 Über einen **Rechtsklick** können Sie ein Drop-down-Menü aufrufen, welches Ihnen zusätzliche Optionen bietet.
 
-![Das Dropdownmenü der Seiten im Seitenplugin.](https://seatable.io/wp-content/uploads/2022/11/Seitenplugin-Seiten-dropdown-menue.png)
+![Das Dropdownmenü der Seiten im Seitenplugin.](images/Seitenplugin-Seiten-dropdown-menue.png)
 
 Um zwischen den Seiten zu **wechseln**, klicken Sie in der Seiten-Leiste einfach die entsprechende **Seiten-Miniatur** an. Sie können die **Reihenfolge der Seiten** ändern, indem Sie die Maustaste auf den **sechs Punkten** {{< seatable-icon icon="dtable-icon-drag" >}} gedrückt halten und die Seiten-Miniatur **verschieben**.

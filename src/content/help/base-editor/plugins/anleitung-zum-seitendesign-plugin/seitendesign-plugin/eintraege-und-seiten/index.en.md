@@ -16,25 +16,25 @@ An **entry** in the page design plugin refers to one of the **row** of the selec
 
 For example, you want to insert the entries from the "Name" text column from a table into a page to personalize a newsletter.
 
-![First entry of the used table for the page plugin.](https://seatable.io/wp-content/uploads/2022/11/Tabelle-1-eintraege.png)
+![First entry of the used table for the page plugin.](images/Tabelle-1-eintraege.png)
 
 To do this, drag the Name table field onto the page so that the information from the Name column is automatically mapped onto the page.
 
-![Entry one of the table at Setienplugin.](https://seatable.io/wp-content/uploads/2022/11/Eintraege-1.gif)
+![Entry one of the table at Setienplugin.](images/Eintraege-1.gif)
 
 By using the **Previous/Next Entry** navigators, you can now jump between the rows to get the information displayed alternately from all rows of the table in the layout of the page.
 
-![Second entry of the used table for the page plugin.](https://seatable.io/wp-content/uploads/2022/11/Tabelle-2-eintraege.png)  
-![Entry two when using the page plugin.](https://seatable.io/wp-content/uploads/2022/11/Eintraege-2.gif)
+![Second entry of the used table for the page plugin.](images/Tabelle-2-eintraege.png)  
+![Entry two when using the page plugin.](images/Eintraege-2.gif)
 
 ## Pages
 
 You can add **pages** to expand the document and create a **multi-page template**. To do that click the **Add Page** button.
 
-![Inserting a page in the page plugin.](https://seatable.io/wp-content/uploads/2022/11/Einfuegen-einer-Seite-in-dem-Seitenplugin.png)
+![Inserting a page in the page plugin.](images/Einfuegen-einer-Seite-in-dem-Seitenplugin.png)
 
 **Right-click to** bring up a drop-down menu that gives you additional options.
 
-![The dropdown menu of the pages in the page plugin.](https://seatable.io/wp-content/uploads/2022/11/Seitenplugin-Seiten-dropdown-menue.png)
+![The dropdown menu of the pages in the page plugin.](images/Seitenplugin-Seiten-dropdown-menue.png)
 
 To **switch** between pages, simply click the corresponding page **thumbnail** in the page bar. You can change the **order of the pages** by holding down the mouse button on the **six dots** {{< seatable-icon icon="dtable-icon-drag" >}} and **moving the** page thumbnail.

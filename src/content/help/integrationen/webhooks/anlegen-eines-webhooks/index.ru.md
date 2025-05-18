@@ -17,4 +17,4 @@ url: '/ru/help/anlegen-eines-webhooks'
 3. Введите URL-адрес назначения и подтвердите.
 4. Веб-крючок становится активным немедленно.
 
-![Форма для создания веб-крючка в SeaTable](https://seatable.io/wp-content/uploads/2022/04/seatable-webhook.png)
+![Форма для создания веб-крючка в SeaTable](images/seatable-webhook.png)

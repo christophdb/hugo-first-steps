@@ -16,7 +16,7 @@ url: '/ru/help/aktivieren-eines-plugins-in-einer-base'
 
 ## Активировать плагин
 
-![Активировать плагин в базе](https://seatable.io/wp-content/uploads/2022/11/activate-a-plugin.gif)
+![Активировать плагин в базе](images/activate-a-plugin.gif)
 
 1. Нажмите на **Плагины** в заголовке База.
 2. В появившейся панели перейдите в раздел **Настройка плагинов**.

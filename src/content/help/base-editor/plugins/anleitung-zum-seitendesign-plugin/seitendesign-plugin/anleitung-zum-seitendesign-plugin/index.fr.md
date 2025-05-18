@@ -82,7 +82,7 @@ Les **éléments de page** vous offrent la possibilité de concevoir **des mises
 
 Vous activez un élément en intégrant le champ correspondant dans la page **par glisser-déposer**. Ensuite, vous pouvez également déplacer l'élément sur la page en cliquant dessus avec la souris et en le faisant glisser.
 
-![Activer l'image statique](https://seatable.io/wp-content/uploads/2022/11/Statisches-Bild-aktivieren-1.gif)
+![Activer l'image statique](images/Statisches-Bild-aktivieren-1.gif)
 
 ## Sélectionner et régler les éléments
 
@@ -104,7 +104,7 @@ En tant que [champs de tableau](https://seatable.io/fr/docs/seitendesign-plugin/
 
 Vous avez également le choix entre deux **éléments d'affichage**. L'élément **Toutes les entrées de la vue** vous permet d'intégrer dans la page toute la section de tableau définie sous la vue. Le **nom de la vue** contient uniquement le nom de la vue sélectionnée.
 
-![Eléments de vue](https://seatable.io/wp-content/uploads/2022/11/Ansichtselemente.png)
+![Eléments de vue](images/Ansichtselemente.png)
 
 ## En-tête et pied de page
 

@@ -12,7 +12,7 @@ Se já não precisar dos **registos partilhados** que criou num determinado mome
 
 ## Eliminação de um registo comum
 
-![Eliminação de um registo comum](https://seatable.io/wp-content/uploads/2022/11/screnshot-common-datasets-3.png)
+![Eliminação de um registo comum](images/screnshot-common-datasets-3.png)
 
 1. Abrir a página **inicial** da SeaTable.
 2. Clique no separador **Registo Partilhado**.
@@ -20,7 +20,7 @@ Se já não precisar dos **registos partilhados** que criou num determinado mome
 4. Clique nos **três pontos** e depois em **Eliminar**.
 5. Confirmar o processo de novo com **Delete**.
 
-![Apagar um registo comum.](https://seatable.io/wp-content/uploads/2022/11/delete-a-common-dataset-1.png)
+![Apagar um registo comum.](images/delete-a-common-dataset-1.png)
 
 ## Efeitos da eliminação
 

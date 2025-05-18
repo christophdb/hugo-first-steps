@@ -16,12 +16,12 @@ Los grupos existentes pueden transferirse del propietario a otro usuario en SeaT
 2. Haga clic en el **icono del triángulo** situado a la derecha del nombre del grupo que desea transferir a otro usuario.
 3. Haga clic en **Transferir**.
 
-![Transferir un grupo](https://seatable.io/wp-content/uploads/2022/09/transfer-group.jpg)
+![Transferir un grupo](images/transfer-group.jpg)
 
 5. Introduzca el **nombre** del **usuario** deseado y selecciónelo.
 
-![Introducir el usuario al que se va a transferir el grupo](https://seatable.io/wp-content/uploads/2022/09/type-name-to-transfer-group-to.png)
+![Introducir el usuario al que se va a transferir el grupo](images/type-name-to-transfer-group-to.png)
 
 7. Confirme con **Enviar**.
 
-![Confirmar la transferencia de un grupo](https://seatable.io/wp-content/uploads/2022/09/confirm-transfer-to-group.jpg)
+![Confirmar la transferencia de un grupo](images/confirm-transfer-to-group.jpg)

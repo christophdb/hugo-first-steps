@@ -22,13 +22,13 @@ The **Countlinks formula** should be used whenever you want to display the **num
 
 For example, you can use this to map the number of registered participants from a separate table when planning a workshop. The [link column]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) would thus hold the names of all participants.
 
-![The Countlinks Formula.](https://seatable.io/wp-content/uploads/2022/11/countlinks-2.png)
+![The Countlinks Formula.](images/countlinks-2.png)
 
 Using the Countlinks formula makes sense only if you enable the **Allow link to multiple rows** option when creating a column of the **Link to other entries** type. If the option were turned off, there would always be a one in the Countlinks formula field.
 
 ## Create a Countlinks formula
 
-![The Countlinks Formula.](https://seatable.io/wp-content/uploads/2022/11/countlink.gif)
+![The Countlinks Formula.](images/countlink.gif)
 
 1. Create a new column of the type **Formula for links**.
 2. Give the column an appropriate **name**.

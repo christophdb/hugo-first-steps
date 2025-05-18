@@ -39,7 +39,7 @@ You have **two** ways to share individual tables and views of a Base:
 
 ### Via the Share icon in Base
 
-![Sharing individual spreadsheets from the home page](https://seatable.io/wp-content/uploads/2022/11/share-single-tablesheets-from-the-base-options.png)
+![Sharing individual spreadsheets from the home page](images/share-single-tablesheets-from-the-base-options.png)
 
 1. Open the **base** from which you want to share individual tables or views.
 2. In the top right corner of the **Base options**, click **Share** {{< seatable-icon icon="dtable-icon-share" >}}.
@@ -54,7 +54,7 @@ The created share permission is now available as an option under **Share for Use
 3. In the **Permissions** field, you can now select the previously created **share permission** under the respective name.
 4. Confirm the release with **Submit**.
 
-![Share individual spreadsheets of a base](https://seatable.io/wp-content/uploads/2022/11/share-sinlge-table-sheets-to-a-group-1.gif)
+![Share individual spreadsheets of a base](images/share-sinlge-table-sheets-to-a-group-1.gif)
 
 For detailed explanations of what you should consider when sharing with users or groups, see the following articles:
 
@@ -65,15 +65,15 @@ For detailed explanations of what you should consider when sharing with users or
 
 Shared tables and views can be found in the group's or user's **workspace** on the **home** **page**. They are always displayed with the note **Shared**.
 
-![Individual spreadsheets of a base shared with a group](https://seatable.io/wp-content/uploads/2022/11/how-shared-single-table-sheets-are-marked.png)
+![Individual spreadsheets of a base shared with a group](images/how-shared-single-table-sheets-are-marked.png)
 
 Tables and views that are shared for **reading** only can consequently **only** be seen and **not** edited. If you click around in the table, nothing happens:
 
-![Single spreadsheet that has been shared read-only to a group](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-only-read.gif)
+![Single spreadsheet that has been shared read-only to a group](images/shared-table-pages-only-read.gif)
 
 Tables and views that are shared for **reading and writing**, on the other hand, you can both view and **edit**. Your changes are visible to all users with access to the table:
 
-![Single spreadsheet shared read and write to a group](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-read-and-write.gif)
+![Single spreadsheet shared read and write to a group](images/shared-table-pages-read-and-write.gif)
 
 {{< warning  headline="Attention"  text="Please note that **changes** made by other users (with write permission) in the tables or views you share will also be **applied** to you." />}}
 

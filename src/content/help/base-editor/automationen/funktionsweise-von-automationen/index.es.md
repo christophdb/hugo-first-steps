@@ -45,21 +45,21 @@ En [Cómo funcionan las automatizaciones](https://seatable.io/es/docs/arbeiten-m
 
 {{< warning  headline="Nota importante"  text="El ejemplo ficticio pretende ilustrar el **funcionamiento básico de los** automatismos de complejidad reducida y, por tanto, sólo contiene una cantidad relativamente pequeña de datos. Por regla general, las automatizaciones tienen un efecto mucho mayor en los **conjuntos de datos más extensos**." />}}
 
-![Ejemplo de tabla](https://seatable.io/wp-content/uploads/2022/12/example-table-final-version.png)
+![Ejemplo de tabla](images/example-table-final-version.png)
 
 Podría utilizar la tabla de ejemplo que se muestra en la imagen en el departamento de recursos humanos de una empresa para registrar no sólo los **nombres de los** empleados, sino también su **situación laboral** y el estado de sus **pagos salariales**.
 
 Para la vista de tabla, cree una **automatización** que automatice un paso de trabajo. En concreto, desea automatizar que, en caso de baja de un empleado (y el cambio asociado de la entrada en la columna de **estado laboral** de "empleado" a "dado de baja"), la entrada en la columna de **pago de salario** se ajuste de "activo" a "discontinuado".
 
-![Definición del evento desencadenante](https://seatable.io/wp-content/uploads/2022/12/create-an-automation-1-1.png)
+![Definición del evento desencadenante](images/create-an-automation-1-1.png)
 
 Para automatizar este paso del proceso, defina primero el evento "La entrada cumple determinadas condiciones tras la modificación" como **desencadenante**. Especifique la columna "situación laboral" como columna a **comprobar**. Como **condición concreta para** activar la automatización, defina que la entrada en la columna correspondiente debe cambiarse a "finalizado".
 
-![Definición de la acción automática de la automatización de ejemplo](https://seatable.io/wp-content/uploads/2022/12/automated-action-of-the-example-automation-2.png)
+![Definición de la acción automática de la automatización de ejemplo](images/automated-action-of-the-example-automation-2.png)
 
 Como **acción automatizada**, seleccione la opción **Editar entrada**. En concreto, tras activarse el evento desencadenante, la entrada de la columna "Pago de salario" debe cambiarse de "activa" a "fijada".
 
-![Ejecución del ejemplo de automatización](https://seatable.io/wp-content/uploads/2022/12/example-automation-new.gif)
+![Ejecución del ejemplo de automatización](images/example-automation-new.gif)
 
 Una vez creada la automatización, el cambio realizado manualmente en la columna "Situación laboral" conlleva **automáticamente** el **ajuste deseado de la entrada** en la columna "Pago de salario".
 

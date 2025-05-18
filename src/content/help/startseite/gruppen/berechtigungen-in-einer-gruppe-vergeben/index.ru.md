@@ -18,15 +18,15 @@ url: '/ru/help/berechtigungen-in-einer-gruppe-vergeben'
 2. Нажмите на **символ треугольника** справа от названия группы, для которой вы хотите назначить разрешения.
 3. Перейдите в раздел " **Управление членами**".
 
-![Управление членами](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg)
+![Управление членами](images/manage-members.jpg)
 
 5. Для редактирования нажмите на **значок карандаша** справа от текущей роли соответствующего члена группы.
 
-![Щелкните на значке карандаша рядом с любым членом группы.](https://seatable.io/wp-content/uploads/2022/09/click-edit-symbol.jpg)
+![Щелкните на значке карандаша рядом с любым членом группы.](images/click-edit-symbol.jpg)
 
 7. Выберите **роль**, которую вы хотите предоставить соответствующему пользователю, нажав на поле выбора.
 8. Подтвердите свой выбор, нажав на поле **Закрыть**.
 
-![Выбор и подтверждение роли](https://seatable.io/wp-content/uploads/2022/09/change-authorization-and-close.jpg)
+![Выбор и подтверждение роли](images/change-authorization-and-close.jpg)
 
 {{< warning  headline="Важное замечание"  text="Если вы не совсем уверены в том, какая из трех ролей имеет те или иные разрешения, вам поможет эта [таблица по разрешениям ролей](https://seatable.io/ru/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/)." />}}

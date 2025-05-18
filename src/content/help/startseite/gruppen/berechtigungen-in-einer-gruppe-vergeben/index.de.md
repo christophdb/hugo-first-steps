@@ -18,9 +18,9 @@ Wichtig ist, dass Sie lediglich als **Eigentümer** oder **Administrator** einer
 2. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Namen der Gruppe, für die Sie Berechtigungen vergeben möchten.
 3. Gehen Sie auf **Mitglieder verwalten**.
 
-![Mitglieder verwalten](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg) 5. Klicken Sie zum Bearbeiten auf das **Stift-Symbol** rechts neben der aktuellen Rolle des jeweiligen Gruppenmitglieds.
+![Mitglieder verwalten](images/manage-members.jpg) 5. Klicken Sie zum Bearbeiten auf das **Stift-Symbol** rechts neben der aktuellen Rolle des jeweiligen Gruppenmitglieds.
 
-![Klick auf das Stift-Symbol neben einem beliebigen Gruppenmitglied](https://seatable.io/wp-content/uploads/2022/09/click-edit-symbol.jpg) 7. Wählen Sie mit einem Klick auf das Auswahlfeld die **Rolle** aus, die Sie dem jeweiligen Nutzer geben möchten. 8. Bestätigen Sie Ihre Auswahl mit einem Klick auf das Feld **Schließen**.
+![Klick auf das Stift-Symbol neben einem beliebigen Gruppenmitglied](images/click-edit-symbol.jpg) 7. Wählen Sie mit einem Klick auf das Auswahlfeld die **Rolle** aus, die Sie dem jeweiligen Nutzer geben möchten. 8. Bestätigen Sie Ihre Auswahl mit einem Klick auf das Feld **Schließen**.
 
-![Auswahl der Rolle und Bestätigung](https://seatable.io/wp-content/uploads/2022/09/change-authorization-and-close.jpg)
+![Auswahl der Rolle und Bestätigung](images/change-authorization-and-close.jpg)
 {{< warning  headline="Wichtiger Hinweis"  text="Wenn Sie sich nicht mehr ganz sicher sind, welche der drei Rollen über welche Berechtigungen verfügt, hilft Ihnen diese [Tabelle zu den Rollenberechtigungen](https://seatable.io/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/) weiter." />}}

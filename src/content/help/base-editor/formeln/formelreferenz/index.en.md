@@ -26,7 +26,7 @@ And a collection of link functions in the "Link Formula" column:
 
 - Linking functions
 
-![](https://seatable.io/wp-content/uploads/2021/10/formula.jpg)
+![](images/formula.jpg)
 
 Apart from the above functions, there are one or more column lists in the formula editor. These are those columns in the current table and the linked columns of the other table in Base. If you click on the "+" symbol next to it, the column name will be added as an element to the input field, in the format {ColumnName} or {LinkedTable.ColumnName}. You can use this element directly in your formula. Alternatively, you can of course enter a column name in the form of {ColumnName} by hand.
 

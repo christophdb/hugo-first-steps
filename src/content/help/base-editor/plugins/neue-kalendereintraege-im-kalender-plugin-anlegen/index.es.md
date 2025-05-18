@@ -48,7 +48,7 @@ Para esta función necesita **dos columnas de fecha** que puedan registrar **hor
 4. Configure las dos columnas de fecha para el calendario en los **ajustes** (accesibles a través del símbolo de la rueda dentada {{< seatable-icon icon="dtable-icon-set-up" >}}).
 5. En el calendario, haga clic en la hora de inicio de la cita, mantenga pulsado el **botón del ratón** y arrastre el cuadro abierto hasta la hora de finalización de la cita.
 
-![Crear nuevas entradas de calendario en el complemento de calendario](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
+![Crear nuevas entradas de calendario en el complemento de calendario](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
 
 {{< warning  headline="Nota"  text="Sólo puede establecer citas en el **resumen semanal y diario**." />}}
 
@@ -56,4 +56,4 @@ Para esta función necesita **dos columnas de fecha** que puedan registrar **hor
 
 Puede **mover** cómodamente las citas creadas en el complemento de calendario **arrastrando y soltando**. Esto modifica automáticamente las entradas correspondientes en las columnas de fecha de su tabla. Esta función está disponible para los **resúmenes** **mensual**, **semanal** y **diario**.
 
-![Crear nuevas entradas de calendario en el complemento de calendario](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)
+![Crear nuevas entradas de calendario en el complemento de calendario](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)

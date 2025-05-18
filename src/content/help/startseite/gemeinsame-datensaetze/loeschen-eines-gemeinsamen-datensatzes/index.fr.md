@@ -12,7 +12,7 @@ Si, à un moment donné, vous n'avez plus besoin des **enregistrements communs**
 
 ## Suppression d'un enregistrement commun
 
-![Suppression d'un enregistrement commun](https://seatable.io/wp-content/uploads/2022/11/screnshot-common-datasets-3.png)
+![Suppression d'un enregistrement commun](images/screnshot-common-datasets-3.png)
 
 1. Ouvrez la **page d'accueil** de SeaTable.
 2. Cliquez sur l'onglet **Enregistrement partagé**.
@@ -20,7 +20,7 @@ Si, à un moment donné, vous n'avez plus besoin des **enregistrements communs**
 4. Cliquez sur les **trois points**, puis sur **Supprimer**.
 5. Confirmez à nouveau en cliquant sur **Supprimer**.
 
-![Suppression d'un enregistrement commun.](https://seatable.io/wp-content/uploads/2022/11/delete-a-common-dataset-1.png)
+![Suppression d'un enregistrement commun.](images/delete-a-common-dataset-1.png)
 
 ## Effets de la suppression
 

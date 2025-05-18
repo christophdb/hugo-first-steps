@@ -12,7 +12,7 @@ url: '/pt/ajuda/unterschiede-zwischen-privaten-und-normalen-ansichten'
 
 No SeaTable é possível criar tanto vistas normais como privadas das mesas. As opiniões privadas são, como o nome sugere, apenas visíveis para o respectivo criador e não podem ser partilhadas com outras pessoas. Caso contrário, as opiniões privadas não diferem das opiniões normais.
 
-![Vista pública e privada](https://seatable.io/wp-content/uploads/2022/11/public-and-private-view.png)
+![Vista pública e privada](images/public-and-private-view.png)
 
 ## Análise de dados pessoais com visualizações privadas
 
@@ -30,10 +30,10 @@ Outra diferença entre as opiniões normais e privadas é que as opiniões priva
 
 Se quiser personalizar uma vista normal que é visível para os outros, pode simplesmente duplicá-la como uma vista privada. A vista original mantém-se inalterada.
 
-![Duplicar uma vista normal como uma vista privada](https://seatable.io/wp-content/uploads/2022/11/Duplicate-as-private-view.png)
+![Duplicar uma vista normal como uma vista privada](images/Duplicate-as-private-view.png)
 
 ## Converter vistas privadas em vistas normais
 
 Por outro lado, também pode converter as suas vistas privadas em vistas normais não privadas, que são visíveis para os outros. No entanto, isto não duplica a vista de modo a que esta deixe de estar disponível como vista privada, mas apenas como vista normal.
 
-![Converter uma vista privada numa vista normal](https://seatable.io/wp-content/uploads/2022/11/Change-to-non-private-view.png)
+![Converter uma vista privada numa vista normal](images/Change-to-non-private-view.png)

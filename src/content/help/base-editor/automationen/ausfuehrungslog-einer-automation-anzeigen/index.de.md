@@ -16,7 +16,7 @@ Um die **korrekte Ausführung einer Automation** zu überprüfen, haben Sie die 
 
 ## So werfen Sie einen Blick ins Ausführungslog
 
-![Ausführungslog anzeigen](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Ausführungslog anzeigen](images/open-an-automation-log.png)
 
 1. Klicken Sie auf {{< seatable-icon icon="dtable-icon-rule" >}} im Base-Header und anschließend auf **Automatisierungsregeln**.
 2. Fahren Sie mit dem Mauszeiger über die **Automatisierungsregel**, deren Log Sie einsehen wollen.
@@ -24,7 +24,7 @@ Um die **korrekte Ausführung einer Automation** zu überprüfen, haben Sie die 
 
 ## Struktur des Ausführungslogs
 
-![Struktur eines Auführungslogs](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Struktur eines Auführungslogs](images/structure-of-an-automation-log-newest.png)
 
 Folgende Informationen können Sie im Ausführungslog einer Automation einsehen:
 

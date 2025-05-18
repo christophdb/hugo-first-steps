@@ -24,4 +24,4 @@ No SeaTable, tem a opção de adicionar **colunas de caixas de verificação** �
 
 Não gosta da **marca verde** predefinida? Não há problema! Tem 70 opções de estilo diferentes para preencher as suas caixas de verificação da forma que desejar.
 
-![Opções de estilo para caixas de verificação](https://seatable.io/wp-content/uploads/2022/11/Stiloptionen-bei-Checkboxen.png)
+![Opções de estilo para caixas de verificação](images/Stiloptionen-bei-Checkboxen.png)

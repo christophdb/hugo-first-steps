@@ -14,7 +14,7 @@ Se tiver uma assinatura Enterprise, também pode enviar notificações a utiliza
 
 ## Enviar notificações via automatização
 
-![Envio de e-mails por automatização](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Envio de e-mails por automatização](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
 2. Clique em **Add Rule (Adicionar regra)**.
@@ -27,7 +27,7 @@ Se tiver uma assinatura Enterprise, também pode enviar notificações a utiliza
 
 Definir primeiro um **evento de disparo** para a automatização.
 
-![Eventos de activação basicamente disponíveis para selecção](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Eventos de activação basicamente disponíveis para selecção](images/trigger-options-for-archivating-rows.png)
 
 As **quatro opções** são:
 
@@ -38,7 +38,7 @@ As **quatro opções** são:
 
 Depois seleccionar **Enviar notificação** como a acção automatizada. Isto está disponível como uma acção para as quatro opções de disparo.
 
-![Acrescentar a acção automatizada](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png)  
+![Acrescentar a acção automatizada](images/add-an-action.png)  
 ![Acrescentar a acção automatizada](images/send-notification.png)
 
 No passo seguinte, seleccionar os **utilizadores** que devem ser notificados quando o evento de disparo ocorrer. Note que só pode seleccionar utilizadores que tenham pelo menos **acesso lido à** tabela ou à vista.

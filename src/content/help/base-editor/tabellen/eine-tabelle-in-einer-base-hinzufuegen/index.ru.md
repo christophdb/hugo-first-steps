@@ -14,7 +14,7 @@ url: '/ru/help/eine-tabelle-in-einer-base-hinzufuegen'
 
 1. В **Открытая база** В верхнем левом углу вы увидите вкладки со всеми **Таблицы** основания.
 
-    ![Столы на базе SeaTable](https://seatable.io/wp-content/uploads/2022/09/Tabellen-in-seatable.png)
+    ![Столы на базе SeaTable](images/Tabellen-in-seatable.png)
 
 2. Нажмите на **символ \[+\]** справа от последней вкладки таблицы.
 3. Теперь выберите **Добавить таблицу**.
@@ -30,7 +30,7 @@ url: '/ru/help/eine-tabelle-in-einer-base-hinzufuegen'
 
 В SeaTable [базы](https://seatable.io/ru/docs/arbeiten-mit-bases/bases/), по сути, являются отдельными единицами, но нередко возникает необходимость в данных в другой базе. Вместо того чтобы экспортировать таблицу из одной базы и импортировать ее в нужную базу, SeaTable предлагает удобную возможность **импортировать** таблицы **непосредственно** из других баз и таким образом переносить данные через границы баз.
 
-![Импорт таблицы из другой базы](https://seatable.io/wp-content/uploads/2022/09/import-table-from-other-base.gif)
+![Импорт таблицы из другой базы](images/import-table-from-other-base.gif)
 
 С помощью [общих записей](https://seatable.io/ru/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) вы также можете совместно использовать главную таблицу в группе и использовать и синхронизировать ответвления таблицы в разных базах. Подробнее об этом можно узнать [здесь](https://seatable.io/ru/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
 
@@ -38,6 +38,6 @@ url: '/ru/help/eine-tabelle-in-einer-base-hinzufuegen'
 
 Иногда фотография стоит тысячи слов. SeaTable также позволяет использовать эмодзи в названии таблицы, делая вкладки таблиц короче.
 
-![Эмодзи в названии таблицы](https://seatable.io/wp-content/uploads/2022/09/emojis-seatable-table-name.png)
+![Эмодзи в названии таблицы](images/emojis-seatable-table-name.png)
 
 Подробные инструкции вы найдете в статье [Использование emojis в названиях таблиц](https://seatable.io/ru/docs/arbeiten-in-tabellen/verwendung-von-emojis-im-tabellennamen/).

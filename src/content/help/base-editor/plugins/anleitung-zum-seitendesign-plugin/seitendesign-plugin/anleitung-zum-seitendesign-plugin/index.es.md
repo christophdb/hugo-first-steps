@@ -82,7 +82,7 @@ Los **elementos de página** le ofrecen la posibilidad de diseñar **diseños es
 
 Se activa un elemento incrustando el campo correspondiente en la página **mediante arrastrar y soltar**. Después, también puede mover el elemento en la página haciendo clic en él y arrastrándolo con el ratón.
 
-![Activar imagen estática](https://seatable.io/wp-content/uploads/2022/11/Statisches-Bild-aktivieren-1.gif)
+![Activar imagen estática](images/Statisches-Bild-aktivieren-1.gif)
 
 ## Seleccionar y fijar los elementos
 
@@ -104,7 +104,7 @@ Como [campos de tabla](https://seatable.io/es/docs/seitendesign-plugin/tabellenf
 
 También puede elegir entre dos **elementos de vista**. El elemento **Todas las entradas de la** vista permite incrustar en la página toda la sección de la tabla definida en la vista. El **nombre de la** vista sólo contiene el nombre de la vista seleccionada.
 
-![Ver elementos](https://seatable.io/wp-content/uploads/2022/11/Ansichtselemente.png)
+![Ver elementos](images/Ansichtselemente.png)
 
 ## Encabezado y pie de página
 

@@ -12,7 +12,7 @@ url: '/ru/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 
 ## Запись времени изменения состояния с помощью автоматизации
 
-![Отправка электронных писем с помощью автоматизации](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Отправка электронных писем с помощью автоматизации](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}} в заголовке Base, а затем на **Automation Rules**.
 2. Нажмите кнопку **Добавить правило**.
@@ -28,11 +28,11 @@ url: '/ru/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 
 {{< warning  headline="Важное замечание"  text="Чтобы иметь возможность регистрировать время изменения состояния с помощью автоматизации, вам необходимо **обязательный** пусковое событие **Записи выполняют определенные условия после изменения** выбрать. С помощью других триггерных событий можно выбрать изменения состояния **не** захват." />}}
 
-![Триггерные события в основном доступны для выбора](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Триггерные события в основном доступны для выбора](images/trigger-options-for-archivating-rows.png)
 
 Затем в качестве автоматического действия выберите **Добавить новую запись в другую таблицу**.
 
-![Добавление автоматического действия](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Выбор автоматического действия](images/add-action-example2.png)
+![Добавление автоматического действия](images/add-an-action.png) ![Выбор автоматического действия](images/add-action-example2.png)
 
 На следующем шаге выберите **таблицу**, в которую будет добавлена запись после срабатывания триггера.
 

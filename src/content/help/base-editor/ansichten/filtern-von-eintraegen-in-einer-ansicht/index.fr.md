@@ -12,7 +12,7 @@ La fonction de filtre de SeaTable permet de filtrer les entrées souhaitées d'u
 
 ## Filtrer les entrées d'une vue
 
-![Filtrer les entrées](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-1.gif)
+![Filtrer les entrées](images/Filtern-von-Eintraegen-1.gif)
 
 1. Sélectionnez la **vue** dans laquelle vous souhaitez définir un filtre.
 2. Cliquez sur **Filtrer** dans les options d'affichage au-dessus du tableau.
@@ -28,18 +28,18 @@ Selon le **type de colonne** que vous souhaitez filtrer, les conditions que vous
 ### Voici quelques exemples
 
 Voici les options de conditions dont vous disposez en cas de [Colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/):  
-![Filtrer la colonne de texte](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-5.png)
+![Filtrer la colonne de texte](images/filtern-von-eintraegen-5.png)
 
 Voici les options de conditions dont vous disposez en cas de [Colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
-![Filtre colonne de sélection unique](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-6.png)
+![Filtre colonne de sélection unique](images/filtern-von-eintraegen-6.png)
 
 Voici les options de conditions dont vous disposez en cas de [Colonne d'images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/):  
-![Filtrer la colonne d'images](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-7.png)
+![Filtrer la colonne d'images](images/filtern-von-eintraegen-7.png)
 
 ## Supprimer un filtre
 
 Vous pouvez rétablir les filtres créés **supprimer**en cliquant sur le bouton **Symbole x** cliquer.  
-![Suppression d'un filtre d'une vue](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen.png)
+![Suppression d'un filtre d'une vue](images/filtern-von-eintraegen.png)
 
 ## Appliquer plusieurs filtres
 
@@ -48,4 +48,4 @@ Vous pouvez créer un ou plusieurs filtres qui restreignent davantage la premiè
 ## Réorganiser les filtres
 
 Vous pouvez déplacer et réorganiser les filtres en déplaçant la souris sur le **Surface de préhension** ![Icône pour déplacer des éléments](images/move-icon.png) maintenir enfoncé, tirer et relâcher.  
-![Filtrer les entrées Trier](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)
+![Filtrer les entrées Trier](images/Filtern-von-Eintraegen-2.gif)

@@ -24,7 +24,7 @@ Hay **que tener cuidado** al editar columnas de un conjunto de datos común. Si 
 
 Para garantizar un flujo de trabajo óptimo y evitar tanto la pérdida de datos como los malentendidos durante la colaboración, es aconsejable **bloquear** todas las **columnas** que contengan datos de un **conjunto de datos común para su** edición. No obstante, puede editar como desee las columnas adicionales añadidas **individualmente**.
 
-![Bloqueo de columnas del registro común](https://seatable.io/wp-content/uploads/2022/11/how-to-lock-columns-of-a-common-dataset.gif)
+![Bloqueo de columnas del registro común](images/how-to-lock-columns-of-a-common-dataset.gif)
 
 1. Haga clic en el **símbolo del triángulo de** una columna que desee bloquear para su edición.
 2. Haga clic en **Editar permisos de columna**.
@@ -35,4 +35,4 @@ Puede restringir la edición de cada columna individualmente, de modo que siempr
 
 El bloqueo de la columna impide básicamente la **edición de las celdas**. Con determinados tipos de columna, como la **selección** **única** o **múltiple**, también es posible restringir la **creación de opciones**.
 
-![Columna de un registro común bloqueada para edición (izquierda) y columna editable recién añadida a un registro común (derecha)](https://seatable.io/wp-content/uploads/2022/11/locked-column-and-regular-column-2.png)
+![Columna de un registro común bloqueada para edición (izquierda) y columna editable recién añadida a un registro común (derecha)](images/locked-column-and-regular-column-2.png)

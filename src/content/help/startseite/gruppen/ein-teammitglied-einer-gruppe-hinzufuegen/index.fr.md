@@ -16,12 +16,12 @@ Les propriétaires et les administrateurs d'un groupe peuvent ajouter ou supprim
 2. Cliquez sur l'**icône en forme de triangle** à droite du nom du groupe.
 3. Sélectionnez l'option **Gérer les membres**.
 
-![Gérer les membres](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg)
+![Gérer les membres](images/manage-members.jpg)
 
 5. Saisissez le nom dans le **champ de recherche**.
 6. Confirmez en cliquant sur **Envoyer**.
 
-![Recherche d'utilisateurs à ajouter et à confirmer](https://seatable.io/wp-content/uploads/2022/09/search-member-to-add-and-save.jpg)
+![Recherche d'utilisateurs à ajouter et à confirmer](images/search-member-to-add-and-save.jpg)
 
 {{< warning  headline=""  text="Dans le champ de recherche, il suffit de saisir les premières lettres de l'adresse e-mail ou du nom d'un autre membre de l'équipe. SeaTable vous propose automatiquement les membres de l'équipe qui correspondent." />}}
 
@@ -36,18 +36,18 @@ Les membres de l'équipe disposant d'un droit d'administrateur ont en outre la p
 1. Passez à la **page d'accueil** de SeaTable.
 2. Cliquez en haut à droite sur **l'image de** votre **avatar**, puis sur **Gestion d'équipe**.
 
-![Ouvrir la gestion d'équipe](https://seatable.io/wp-content/uploads/2022/09/open-team-admin.jpg)
+![Ouvrir la gestion d'équipe](images/open-team-admin.jpg)
 
 4. Passez à la section **Équipe**, puis à l'onglet **Groupes**.
 
-![Ouvrir l'onglet de l'équipe](https://seatable.io/wp-content/uploads/2022/09/open-reiter-team-1.png)
+![Ouvrir l'onglet de l'équipe](images/open-reiter-team-1.png)
 
 6. Cherchez le groupe dont vous souhaitez modifier les membres et cliquez sur cette ligne.
 
-![Rechercher et sélectionner un groupe](https://seatable.io/wp-content/uploads/2022/09/select-group-1-711x40.png)
+![Rechercher et sélectionner un groupe](images/select-group-1-711x40.png)
 
 8. Dans le menu latéral qui s'ouvre, passez à l'onglet **Membres**.
 9. Recherchez les membres de l'équipe que vous souhaitez ajouter au groupe.
 10. Changez le rôle de **Aucun** à **Membre** ou **Admin** et **enregistrez** vos modifications.
 
-![Sélectionner les membres de l'équipe et les ajouter au groupe](https://seatable.io/wp-content/uploads/2022/09/select-member-and-change-role.png)
+![Sélectionner les membres de l'équipe et les ajouter au groupe](images/select-member-and-change-role.png)

@@ -16,12 +16,12 @@ Os proprietários e administradores de um grupo podem adicionar e remover membro
 2. Clique no **símbolo do triângulo** à direita do nome do grupo.
 3. Seleccionar a opção **Gerir Membros**.
 
-![Gerir membros](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg)
+![Gerir membros](images/manage-members.jpg)
 
 5. Introduzir o nome no **campo de pesquisa**.
 6. Confirmar com **Submeter**.
 
-![Procurar um utilizador para adicionar e confirmar](https://seatable.io/wp-content/uploads/2022/09/search-member-to-add-and-save.jpg)
+![Procurar um utilizador para adicionar e confirmar](images/search-member-to-add-and-save.jpg)
 
 {{< warning  headline=""  text="No campo de pesquisa, é suficiente introduzir apenas as primeiras letras do endereço electrónico ou nome de outro membro da equipa. O SeaTable sugere automaticamente os membros da equipa correspondente." />}}
 
@@ -36,18 +36,18 @@ Os membros da equipa com autorização do administrador também têm a opção d
 1. Mudar para a página **inicial** da SeaTable.
 2. Clique na **imagem do** seu **avatar** no canto superior direito e depois em **Gestão de Equipas**.
 
-![Abrir a gestão da equipa](https://seatable.io/wp-content/uploads/2022/09/open-team-admin.jpg)
+![Abrir a gestão da equipa](images/open-team-admin.jpg)
 
 4. Mudar para a área de **Equipa** e lá para a tabulação **Grupos**.
 
-![Abrir o separador Equipa](https://seatable.io/wp-content/uploads/2022/09/open-reiter-team-1.png)
+![Abrir o separador Equipa](images/open-reiter-team-1.png)
 
 6. Encontre o grupo cujos membros deseja editar e clique nesta linha.
 
-![Procurar e selecionar grupo](https://seatable.io/wp-content/uploads/2022/09/select-group-1-711x40.png)
+![Procurar e selecionar grupo](images/select-group-1-711x40.png)
 
 8. No menu lateral que se abre, mudar para a tabulação **Membros**.
 9. Encontre os membros da equipa que deseja acrescentar ao grupo.
 10. Altere a função de **Nenhum** para **Membro** ou **Administrador** e **guarde** as suas alterações.
 
-![Selecionar membros da equipa e adicioná-los ao grupo](https://seatable.io/wp-content/uploads/2022/09/select-member-and-change-role.png)
+![Selecionar membros da equipa e adicioná-los ao grupo](images/select-member-and-change-role.png)

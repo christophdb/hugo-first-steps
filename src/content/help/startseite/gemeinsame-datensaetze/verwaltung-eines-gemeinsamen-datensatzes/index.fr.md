@@ -14,13 +14,13 @@ Une fois que vous avez créé un ensemble de données partagées, vous pouvez ef
 
 1. Ouvrez la **page d'accueil** de SeaTable.
 
-![Gestion d'un ensemble de données communes](https://seatable.io/wp-content/uploads/2022/11/overview-common-datasets.png)
+![Gestion d'un ensemble de données communes](images/overview-common-datasets.png)
 
 3. Cliquez sur **Enregistrement commun**. Vous vous trouvez maintenant dans l'**aperçu** de tous les enregistrements communs.
 4. Passez la souris sur un ensemble de données commun et cliquez à l'extrême droite sur les **trois points**.
 5. Sélectionnez l'option souhaitée dans le menu suivant.
 
-![Plus d'opérations pour les jeux de données communs](https://seatable.io/wp-content/uploads/2024/06/More-operations-for-common-datasets.png)
+![Plus d'opérations pour les jeux de données communs](images/More-operations-for-common-datasets.png)
 
 {{< warning  headline="Autorisation requise"  text="Vous ne pouvez effectuer ces opérations administratives que si vous êtes le **créateur de** l'enregistrement partagé. Pour les enregistrements qui ne sont partagés qu'avec l'un de vos groupes, les **trois points** sont **masqués**." />}}
 
@@ -28,17 +28,17 @@ Une fois que vous avez créé un ensemble de données partagées, vous pouvez ef
 
 Si vous utilisez beaucoup d'ensembles de données communs dans votre équipe, vous risquez de perdre rapidement la vue d'ensemble. À quels **groupes** un jeu de données commun est-il partagé et dans quelles **bases** est-il intégré ? Vous pouvez consulter ces informations sous **Détails**.
 
-![Détails d'un ensemble de données commun](https://seatable.io/wp-content/uploads/2024/06/Details-of-a-common-dataset.png)
+![Détails d'un ensemble de données commun](images/Details-of-a-common-dataset.png)
 
-![Détails du jeu de données communes](https://seatable.io/wp-content/uploads/2024/06/Common-dataset-details.png)
+![Détails du jeu de données communes](images/Common-dataset-details.png)
 
 ## Renommer un enregistrement commun
 
 Si vous souhaitez modifier le **nom** de votre enregistrement partagé, il vous suffit de cliquer sur **Renommer**.
 
-![Rename common dataset option](https://seatable.io/wp-content/uploads/2024/06/Rename-common-dataset-option.png)
+![Rename common dataset option](images/Rename-common-dataset-option.png)
 
-![Rename common dataset](https://seatable.io/wp-content/uploads/2024/06/Rename-common-dataset.png)
+![Rename common dataset](images/Rename-common-dataset.png)
 
 Saisissez le nouveau nom et confirmez en cliquant sur **Envoyer**.
 

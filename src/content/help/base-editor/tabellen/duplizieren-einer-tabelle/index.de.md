@@ -13,9 +13,9 @@ Sie benötigen eine Tabelle in Ihrer Base mehrmals in leicht abgewandelter Form?
 1. Im Base-Header finden Sie oben links alle Tabellen der Base als **Reiter** dargestellt.
 2. Klicken Sie auf das **Drop-down-Symbol** neben dem **Namen der Tabelle**, die Sie duplizieren möchten.
 
-![Tabellenstruktur duplizieren](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png) 4. Klicken Sie auf **Tabelle duplizieren**. 5. Entscheiden Sie, ob die Tabelle **leer oder mit Einträgen** dupliziert werden soll, indem Sie den Regler aktivieren.
+![Tabellenstruktur duplizieren](images/Tabellenstruktur-duplizieren.png) 4. Klicken Sie auf **Tabelle duplizieren**. 5. Entscheiden Sie, ob die Tabelle **leer oder mit Einträgen** dupliziert werden soll, indem Sie den Regler aktivieren.
 
-![Dialog: Einträge duplizieren, wenn Tabelle dupliziert wird](https://seatable.io/wp-content/uploads/2024/02/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png) 7. Bestätigen Sie mit **Abschicken**.
+![Dialog: Einträge duplizieren, wenn Tabelle dupliziert wird](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png) 7. Bestätigen Sie mit **Abschicken**.
 
 {{< warning  headline="Hinweis"  text="Alle Ansichten werden mit allen [Ansichtseinstellungen](\"https://seatable.io/docs/ansichtsoptionen/\") ebenfalls dupliziert, sodass die kopierte Tabelle ein genaues Abbild der ursprünglichen Tabelle ist." />}}
 

@@ -16,7 +16,7 @@ Para um acesso rápido aos seus plugins, pode adicioná-los à **barra de ferram
 
 ## Activar um plugin
 
-![Activar um plugin numa base](https://seatable.io/wp-content/uploads/2022/11/activate-a-plugin.gif)
+![Activar um plugin numa base](images/activate-a-plugin.gif)
 
 1. Clique em **Plugins** no cabeçalho da Base.
 2. No painel que aparece, vá para **Configurar plugins**.

@@ -12,7 +12,7 @@ Si ya no necesitas los **registros compartidos** que has creado en un momento de
 
 ## Borrar un registro común
 
-![Borrar un registro común](https://seatable.io/wp-content/uploads/2022/11/screnshot-common-datasets-3.png)
+![Borrar un registro común](images/screnshot-common-datasets-3.png)
 
 1. Abra la página de **inicio** de SeaTable.
 2. Haga clic en la pestaña **Registro compartido**.
@@ -20,7 +20,7 @@ Si ya no necesitas los **registros compartidos** que has creado en un momento de
 4. Haga clic en los **tres puntos** y luego en **Eliminar**.
 5. Confirme el proceso de nuevo con **Borrar.**
 
-![Eliminar un registro común.](https://seatable.io/wp-content/uploads/2022/11/delete-a-common-dataset-1.png)
+![Eliminar un registro común.](images/delete-a-common-dataset-1.png)
 
 ## Efectos de la supresión
 

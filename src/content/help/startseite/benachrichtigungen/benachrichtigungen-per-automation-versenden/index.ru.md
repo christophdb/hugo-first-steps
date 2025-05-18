@@ -14,7 +14,7 @@ url: '/ru/help/benachrichtigungen-per-automation-versenden'
 
 ## Отправка уведомлений с помощью автоматизации
 
-![Отправка электронных писем с помощью автоматизации](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Отправка электронных писем с помощью автоматизации](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}} в заголовке Base, а затем на **Automation Rules**.
 2. Нажмите кнопку **Добавить правило**.
@@ -27,7 +27,7 @@ url: '/ru/help/benachrichtigungen-per-automation-versenden'
 
 Сначала определите **триггерное событие** для автоматизации.
 
-![Триггерные события в основном доступны для выбора](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Триггерные события в основном доступны для выбора](images/trigger-options-for-archivating-rows.png)
 
 **Четыре варианта**:
 
@@ -38,7 +38,7 @@ url: '/ru/help/benachrichtigungen-per-automation-versenden'
 
 Затем выберите **Отправить уведомление** в качестве автоматического действия. Это действие доступно для всех четырех вариантов запуска.
 
-![Добавление автоматического действия](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png)  
+![Добавление автоматического действия](images/add-an-action.png)  
 ![Добавление автоматического действия](images/send-notification.png)
 
 На следующем шаге выберите **пользователей**, которые должны получать уведомления при наступлении события триггера. Обратите внимание, что вы можете выбрать только тех пользователей, которые имеют как минимум **доступ на чтение к** таблице или представлению.

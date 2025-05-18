@@ -16,7 +16,7 @@ Para verificar a **correcta execução de uma automatização**, tem a opção d
 
 ## Para dar uma vista de olhos ao registo de execução
 
-![Mostrar registo de execução](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Mostrar registo de execução](images/open-an-automation-log.png)
 
 1. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
 2. Mova o ponteiro do rato sobre a **regra de automatização** cujo registo pretende visualizar.
@@ -24,7 +24,7 @@ Para verificar a **correcta execução de uma automatização**, tem a opção d
 
 ## Estrutura do registo de execução
 
-![Estrutura de um Auführungslog](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Estrutura de um Auführungslog](images/structure-of-an-automation-log-newest.png)
 
 Pode visualizar as seguintes informações no registo de execução de uma automatização:
 

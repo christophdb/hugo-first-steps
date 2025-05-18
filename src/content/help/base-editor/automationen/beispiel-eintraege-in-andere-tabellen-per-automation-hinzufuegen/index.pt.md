@@ -12,7 +12,7 @@ Com a ajuda de automatizações, já não tem de fazer entradas noutras tabelas 
 
 ## Adicionar entradas a outras tabelas através de automatização
 
-![Adicionar entradas a outras tabelas através de automatização](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Adicionar entradas a outras tabelas através de automatização](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
 2. Clique em **Add Rule (Adicionar regra)**.
@@ -26,7 +26,7 @@ Com a ajuda de automatizações, já não tem de fazer entradas noutras tabelas 
 
 Definir um **evento de disparo** para a automatização depois de primeiro determinar em que **tabela** e **visualizar** a mesma irá ocorrer.
 
-![Eventos de activação basicamente disponíveis para selecção](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Eventos de activação basicamente disponíveis para selecção](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Nota importante" >}}
 

@@ -12,7 +12,7 @@ Grâce aux automatisations, vous n'avez plus besoin d'ajouter manuellement des l
 
 ## Comment ajouter des lignes avec une automatisation
 
-![Ajouter des entrées par automatisation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Ajouter des entrées par automatisation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
 2. Cliquez sur **Ajouter une règle**.
@@ -25,7 +25,7 @@ Grâce aux automatisations, vous n'avez plus besoin d'ajouter manuellement des l
 
 Définissez d'abord un **événement déclencheur** pour l'automatisation.
 
-![Événements déclencheurs à choisir en principe](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Événements déclencheurs à choisir en principe](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Remarque importante" >}}
 

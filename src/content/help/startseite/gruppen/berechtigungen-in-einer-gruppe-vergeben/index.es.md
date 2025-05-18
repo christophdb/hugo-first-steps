@@ -18,15 +18,15 @@ Es importante tener en cuenta que sólo como **propietario** o **administrador d
 2. Haga clic en el **símbolo del triángulo** situado a la derecha del nombre del grupo al que desea asignar permisos.
 3. Vaya a **Gestionar miembros**.
 
-![Gestionar los miembros](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg)
+![Gestionar los miembros](images/manage-members.jpg)
 
 5. Para editar, haga clic en el **icono del lápiz situado** a la derecha de la función actual del miembro del grupo correspondiente.
 
-![Haga clic en el icono del lápiz situado junto a cualquier miembro del grupo.](https://seatable.io/wp-content/uploads/2022/09/click-edit-symbol.jpg)
+![Haga clic en el icono del lápiz situado junto a cualquier miembro del grupo.](images/click-edit-symbol.jpg)
 
 7. Seleccione la **función** que desea asignar al usuario correspondiente haciendo clic en el cuadro de selección.
 8. Confirme su selección haciendo clic en el campo **Cerrar**.
 
-![Selección y confirmación de funciones](https://seatable.io/wp-content/uploads/2022/09/change-authorization-and-close.jpg)
+![Selección y confirmación de funciones](images/change-authorization-and-close.jpg)
 
 {{< warning  headline="Nota importante"  text="Si ya no está seguro de cuál de los tres roles tiene qué permisos, esta [tabla sobre los permisos de los roles](https://seatable.io/es/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/) le ayudará." />}}

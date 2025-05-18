@@ -14,7 +14,7 @@ O SeaTable oferece-lhe duas opções de armazenamento diferentes para os registo
 
 Este artigo dá-lhe uma visão geral inicial da função Big Data no SeaTable, enquanto encontrará artigos de ajuda separados para os vários detalhes.
 
-![Grande backend de dados em acção](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Base-Stats-with-Big-Data.png)
+![Grande backend de dados em acção](images/SeaTable-3.1-Base-Stats-with-Big-Data.png)
 
 ## Uma solução para cada necessidade
 

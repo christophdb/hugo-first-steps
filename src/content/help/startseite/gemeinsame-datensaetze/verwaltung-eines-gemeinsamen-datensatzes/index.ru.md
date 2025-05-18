@@ -14,13 +14,13 @@ url: '/ru/help/verwaltung-eines-gemeinsamen-datensatzes'
 
 1. Откройте **стартовую** страницу SeaTable.
 
-![Управление общим набором данных](https://seatable.io/wp-content/uploads/2022/11/overview-common-datasets.png)
+![Управление общим набором данных](images/overview-common-datasets.png)
 
 3. Нажмите на " **Общая запись данных"**. Теперь вы находитесь в **обзоре** всех записей общих данных.
 4. Наведите курсор на запись общих данных и нажмите на **три точки** в крайнем правом углу.
 5. Выберите нужную опцию в следующем меню.
 
-![Больше операций для общих наборов данных](https://seatable.io/wp-content/uploads/2024/06/More-operations-for-common-datasets.png)
+![Больше операций для общих наборов данных](images/More-operations-for-common-datasets.png)
 
 {{< warning  headline="Требуется разрешение"  text="Вы можете выполнять эти операции управления, только если вы являетесь **создателем** общей записи данных. **Три точки скрыты** для записей данных, которые доступны только одной из ваших групп." />}}
 
@@ -28,17 +28,17 @@ url: '/ru/help/verwaltung-eines-gemeinsamen-datensatzes'
 
 Если вы широко используете общие наборы данных в своей команде, можно легко сбиться со счета. Для каких **групп** выпущена запись общих данных и в какие **базы** она интегрирована? Эту информацию можно просмотреть в разделе **Подробности**.
 
-![Детали общего набора данных](https://seatable.io/wp-content/uploads/2024/06/Details-of-a-common-dataset.png)
+![Детали общего набора данных](images/Details-of-a-common-dataset.png)
 
-![Общие сведения о наборе данных](https://seatable.io/wp-content/uploads/2024/06/Common-dataset-details.png)
+![Общие сведения о наборе данных](images/Common-dataset-details.png)
 
 ## Переименование общего набора данных
 
 Если вы хотите изменить **название** записи общих данных, просто нажмите " **Переименовать**".
 
-![Опция переименования общего набора данных](https://seatable.io/wp-content/uploads/2024/06/Rename-common-dataset-option.png)
+![Опция переименования общего набора данных](images/Rename-common-dataset-option.png)
 
-![Переименование общего набора данных](https://seatable.io/wp-content/uploads/2024/06/Rename-common-dataset.png)
+![Переименование общего набора данных](images/Rename-common-dataset.png)
 
 Введите новое имя и подтвердите его нажатием кнопки **Отправить**.
 

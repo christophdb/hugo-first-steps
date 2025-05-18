@@ -12,7 +12,7 @@ Grâce à l'automatisation, vous ne devez plus effectuer une opération de trait
 
 ## Exécuter une opération de traitement de données par automatisation
 
-![Exécuter une opération de traitement de données par automatisation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Exécuter une opération de traitement de données par automatisation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
 2. Cliquez sur **Ajouter une règle**.

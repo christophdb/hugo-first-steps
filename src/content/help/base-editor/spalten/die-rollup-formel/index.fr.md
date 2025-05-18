@@ -16,11 +16,11 @@ La **formule du rollup** permet de déterminer des relations entre des valeurs n
 
 Vous avez d'abord besoin d'une colonne de type [lien vers d'autres entrées]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Assurez-vous que l'option **Autoriser les liens vers plusieurs lignes** est activée, car c'est la seule façon de déterminer les relations entre les nombres.
 
-![La formule du rollup](https://seatable.io/wp-content/uploads/2022/11/rollup-1.png)
+![La formule du rollup](images/rollup-1.png)
 
 La colonne **Formule de lien** affiche ensuite la relation sélectionnée entre les valeurs numériques dans la colonne de lien à l'aide de la formule de rollup. Dans cet exemple, nous avons choisi la méthode d'évaluation **Somme**:
 
-![La formule du rollup](https://seatable.io/wp-content/uploads/2022/11/rollup-2-1.png)
+![La formule du rollup](images/rollup-2-1.png)
 
 ## Ajouter un lien de tableau
 
@@ -30,7 +30,7 @@ L'utilisation de la formule de rollup n'a de sens que si vous activez l'option *
 
 ## Créer une colonne avec la formule de rollup
 
-![La formule du rollup.](https://seatable.io/wp-content/uploads/2022/11/rollup-Formel.gif)
+![La formule du rollup.](images/rollup-Formel.gif)
 
 1. Créez une nouvelle colonne de type **Formule pour les liens**.
 2. Définissez l'option **Rollup** comme formule.

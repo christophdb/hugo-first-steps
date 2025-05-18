@@ -12,7 +12,7 @@ The intuitive yet powerful low-code SeaTable platform gives everyone the flexibi
 
 ## Start now with SeaTable
 
-![Elements of the SeaTable home page](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_homepage.png)
+![Elements of the SeaTable home page](images/elements_seatable_homepage.png)
 
 ### The home page with your bases
 
@@ -22,7 +22,7 @@ After logging in, you start on the home page of SeaTable. Each square tile repre
 
 ---
 
-![Elements of the SeaTable Base](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_base.png)
+![Elements of the SeaTable Base](images/elements_seatable_base.png)
 
 ### Tables
 

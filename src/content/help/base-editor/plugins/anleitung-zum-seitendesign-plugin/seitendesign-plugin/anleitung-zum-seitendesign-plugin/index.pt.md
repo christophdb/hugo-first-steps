@@ -82,7 +82,7 @@ Os **elementos da página** oferecem-lhe a possibilidade de conceber **layouts p
 
 Activa-se um elemento ao inserir o respectivo campo na página **usando o arrastar e largar**. Depois, pode também mover o elemento da página clicando e arrastando-o com o rato.
 
-![Activar a imagem estática](https://seatable.io/wp-content/uploads/2022/11/Statisches-Bild-aktivieren-1.gif)
+![Activar a imagem estática](images/Statisches-Bild-aktivieren-1.gif)
 
 ## Selecção e fixação dos elementos
 
@@ -104,7 +104,7 @@ Como [campos da tabela](https://seatable.io/pt/docs/seitendesign-plugin/tabellen
 
 Também tem dois **elementos de visualização** à sua escolha. O elemento **All View Entries** permite incorporar na página toda a secção da tabela definida sob a vista. O **nome da vista** contém apenas o nome da vista seleccionada.
 
-![Ver elementos](https://seatable.io/wp-content/uploads/2022/11/Ansichtselemente.png)
+![Ver elementos](images/Ansichtselemente.png)
 
 ## Cabeçalho e rodapé
 

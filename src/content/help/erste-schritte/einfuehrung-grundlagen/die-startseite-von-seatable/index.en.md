@@ -10,7 +10,7 @@ url: '/help/die-startseite-von-seatable'
 
 After you have registered and logged in, you will be taken to the SeaTable home page. In this article we will break down the different sections to help you navigate to the different areas of the product.
 
-![Elements of the SeaTable home page](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_homepage.png)
+![Elements of the SeaTable home page](images/elements_seatable_homepage.png)
 
 ## Header
 

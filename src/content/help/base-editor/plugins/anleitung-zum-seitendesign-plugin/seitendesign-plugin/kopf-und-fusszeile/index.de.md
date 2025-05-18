@@ -16,7 +16,7 @@ url: '/de/hilfe/kopf-und-fusszeile'
 
 Sie können nur die **Höhe** von Kopf- und Fußzeilen variieren, da diese sich immer über die **gesamte Seitenbreite** erstrecken. Im Feld **Höhe** geben Sie den gewünschten Zahlenwert ein oder verändern ihn über die **Pfeiltasten** oder scrollen mit dem **Mausrad**.
 
-![Einstellung der Höhe bei der Kopf- und Fußzeile.](https://seatable.io/wp-content/uploads/2022/11/Einstellungen-Kopfzeile-3.gif)
+![Einstellung der Höhe bei der Kopf- und Fußzeile.](images/Einstellungen-Kopfzeile-3.gif)
 
 Alternativ können Sie die Höhe auch direkt auf der Seite verändern, indem Sie mit der **rechten Maustaste** auf die Kopf- oder Fußzeile klicken und am kleinen **Quadrat** an der rechten unteren Ecke des Rahmens **ziehen**.
 
@@ -42,4 +42,4 @@ Sie können folgende Elemente in Kopf- und Fußzeilen einfügen:
 
 Sie können Kopf- und Fußzeilen **sperren** oder **löschen**, indem Sie die jeweilige Option anwählen. Wenn Sie eine Kopf- oder Fußzeile sperren, sind auch **alle Elemente** gesperrt, die Sie zuvor in diesen Bereich eingefügt haben. Das Gleiche gilt für das Löschen, wodurch Sie alle Elemente in einer Kopf- oder Fußzeile mitlöschen.
 
-![Sperren und Löschen beim Seitenplugin](https://seatable.io/wp-content/uploads/2022/11/sperren-und-loeschen-1.png)
+![Sperren und Löschen beim Seitenplugin](images/sperren-und-loeschen-1.png)

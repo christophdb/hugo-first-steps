@@ -14,7 +14,7 @@ Les actions et manipulations répétitives peuvent être facilement effectuées 
 
 Pour obtenir rapidement un aperçu de toutes les combinaisons de touches, il n'est d'ailleurs pas nécessaire de revenir sans cesse sur ce site. Vous trouverez également un aperçu de toutes les combinaisons de touches directement dans SeaTable. Ouvrez-le avec {{< key "Ctrl" >}} {{< key "?" >}} ou en cliquant sur l'icône en forme de point d'interrogation dans le coin supérieur droit.
 
-![Raccourcis clavier dans SeaTable](https://seatable.io/wp-content/uploads/2022/08/keyboard-shortcuts.png)
+![Raccourcis clavier dans SeaTable](images/keyboard-shortcuts.png)
 
 ## Raccourcis clavier dans SeaTable
 

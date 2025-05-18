@@ -12,7 +12,7 @@ Mithilfe von Automationen müssen Sie Einträge in andere Tabellen nicht mehr ma
 
 ## Einträge in andere Tabellen per Automation hinzufügen
 
-![Einträge in andere Tabellen per Automation hinzufügen](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Einträge in andere Tabellen per Automation hinzufügen](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Klicken Sie im Base-Header auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Automatisierungsregeln**.
 2. Klicken Sie auf **Regel hinzufügen**.
@@ -26,7 +26,7 @@ Mithilfe von Automationen müssen Sie Einträge in andere Tabellen nicht mehr ma
 
 Definieren Sie für die Automation ein **Trigger-Ereignis**, nachdem Sie zunächst festgelegt haben, in welcher **Tabelle** und **Ansicht** dieses auftreten wird.
 
-![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Grundsätzlich zur Auswahl stehende Trigger-Ereignisse](images/trigger-options-for-archivating-rows.png)
 
 {{< warning type="warning" headline="Wichtiger Hinweis" >}}
 
@@ -39,7 +39,7 @@ Die automatisierte Aktion **Neuen Eintrag in anderer Tabelle hinzufügen** steht
 
 Wählen Sie anschließend als automatisierte Aktion **Neuen Eintrag in anderer Tabelle hinzufügen** aus.
 
-![Hinzufügen der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Auswahl der automatisierten Aktion](images/add-action-example2.png)
+![Hinzufügen der automatisierten Aktion](images/add-an-action.png) ![Auswahl der automatisierten Aktion](images/add-action-example2.png)
 
 Im nächsten Schritt wählen Sie die **Tabelle** aus, in welche der Eintrag nach Auslösung des Triggers hinzugefügt werden soll.
 

@@ -16,12 +16,12 @@ Owners and administrators of a group can add members, remove members, and change
 2. Click the **triangle icon to** the right of the group name.
 3. Select the **Manage members** option.
 
-![Manage members](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg)
+![Manage members](images/manage-members.jpg)
 
 5. Enter the name in the **search field**.
 6. Confirm with **Submit**.
 
-![Search for user to add and confirm](https://seatable.io/wp-content/uploads/2022/09/search-member-to-add-and-save.jpg)
+![Search for user to add and confirm](images/search-member-to-add-and-save.jpg)
 
 {{< warning  headline=""  text="In the search field it is enough to enter only the first letters of the e-mail address or the name of another team member. SeaTable will automatically suggest you the matching team members." />}}
 
@@ -36,18 +36,18 @@ Team members with administrator rights also have the option of managing all grou
 1. Switch to the SeaTable **home** page.
 2. Click your **avatar image** in the upper right corner and then click **Team Management**.
 
-![Open the team management](https://seatable.io/wp-content/uploads/2022/09/open-team-admin.jpg)
+![Open the team management](images/open-team-admin.jpg)
 
 4. Switch to the **Team** area and there to the **Groups** tab.
 
-![Opening the team tab](https://seatable.io/wp-content/uploads/2022/09/open-reiter-team-1.png)
+![Opening the team tab](images/open-reiter-team-1.png)
 
 6. Find the group whose members you want to edit and click on it row.
 
-![Search and select group](https://seatable.io/wp-content/uploads/2022/09/select-group-1-711x40.png)
+![Search and select group](images/select-group-1-711x40.png)
 
 8. In the side menu that opens, switch to the **Members** tab.
 9. Find the team members you want to add to the group.
 10. Change the role from **None** to **Member** or **Admin** and **save** your changes.
 
-![Selecting team members and adding them to the group](https://seatable.io/wp-content/uploads/2022/09/select-member-and-change-role.png)
+![Selecting team members and adding them to the group](images/select-member-and-change-role.png)

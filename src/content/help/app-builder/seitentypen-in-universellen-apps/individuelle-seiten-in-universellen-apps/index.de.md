@@ -156,7 +156,7 @@ Alle Einstellungsänderungen werden **in Echtzeit** ausgeführt, d.h. das Diagra
 
 Auf individuellen Seiten gibt es einen besonderen Statistiktyp: Die **Einfache Tabelle** erlaubt – ähnlich wie [Tabellenseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) – die tabellarische Darstellung eines durch den App-Admin vorgefilterten und vorsortierten Datensatzes. Anders als auf der Tabellenseite ist es somit möglich, **mehrere Tabellen** auf einem Dashboard zu vereinen.
 
-![New chart type "Basic table"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![New chart type "Basic table"](images/BasicTable.png)
 
 ## Hintergrundfarbe der Seite einstellen
 

@@ -37,7 +37,7 @@ Pour en savoir plus, consultez l'article [Récupérer les tableaux, lignes et co
 
 Vous pouvez accéder à la corbeille de Base en cliquant sur l'icône des versions dans le coin supérieur droit. Dans ce menu déroulant, vous trouverez également d'autres options de restauration, qui seront expliquées plus loin.
 
-![Récupération de lignes individuelles](https://seatable.io/wp-content/uploads/2021/10/Trash-Versionierung.png)
+![Récupération de lignes individuelles](images/Trash-Versionierung.png)
 
 ## 3\. annuler des actions
 

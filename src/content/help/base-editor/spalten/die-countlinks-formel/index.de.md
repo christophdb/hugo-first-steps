@@ -22,13 +22,13 @@ Die **Countlinks-Formel** sollte immer dann zur Anwendung kommen, wenn Sie als Q
 
 Beispielsweise können Sie so bei einer Workshop-Planung die Anzahl angemeldeter Teilnehmer aus einer separaten Tabelle abbilden. Die [Verknüpfungsspalte]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) würde somit die Namen aller Teilnehmer festhalten.
 
-![Die Countlinks-Formel.](https://seatable.io/wp-content/uploads/2022/11/countlinks-2.png)
+![Die Countlinks-Formel.](images/countlinks-2.png)
 
 Die Verwendung der Countlinks-Formel ergibt nur Sinn, wenn Sie die Option **Verknüpfung zu mehreren Zeilen erlauben** bei der Erstellung einer Spalte des Typs **Verknüpfung zu anderen Einträgen** aktivieren. Wäre die Option ausgeschaltet, würde im Feld der Countlinks-Formel immer eine Eins stehen.
 
 ## Erstellen einer Countlinks-Formel
 
-![Die Countlinks-Formel.](https://seatable.io/wp-content/uploads/2022/11/countlink.gif)
+![Die Countlinks-Formel.](images/countlink.gif)
 
 1. Erstellen Sie eine neue Spalte des Typs **Formel für Verknüpfungen**.
 2. Geben Sie der Spalte einen passenden **Namen**.

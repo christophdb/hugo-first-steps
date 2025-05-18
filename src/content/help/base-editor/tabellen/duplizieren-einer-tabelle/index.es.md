@@ -13,12 +13,12 @@ url: '/es/ayuda/duplizieren-einer-tabelle'
 1. En la cabecera de la base, encontrará todas las tablas de la base mostradas como **pestañas** en la parte superior izquierda.
 2. Haga clic en el **icono desplegable** situado junto al **nombre de la tabla** que desea duplicar.
 
-![Estructura de tabla duplicada](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Estructura de tabla duplicada](images/Tabellenstruktur-duplizieren.png)
 
 4. Haga clic en **Duplicar tabla**.
 5. Decida si la tabla debe duplicarse **vacía o con entradas** activando el control deslizante.
 
-![Diálogo: Entradas duplicadas cuando se duplica la tabla](https://seatable.io/wp-content/uploads/2024/02/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
+![Diálogo: Entradas duplicadas cuando se duplica la tabla](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
 
 7. Confirme con **Enviar**.
 

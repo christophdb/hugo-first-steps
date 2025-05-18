@@ -23,7 +23,7 @@ Pode efetuar **definições visuais** para cada [aplicação universal](https://
 
 6. Clique no **ícone da paleta** no canto superior esquerdo da página.
 
-![Ícone de paleta para as definições de design de uma aplicação](https://seatable.io/wp-content/uploads/2024/12/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
+![Ícone de paleta para as definições de design de uma aplicação](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
 
 8. Efetuar os ajustes desejados nas **definições visuais (modo, cor e ícone)** da aplicação universal.
 
@@ -47,4 +47,4 @@ As definições mencionadas até agora afectam **toda** uma **aplicação univer
 
 Atualmente, a [página individual](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), em particular, oferece inúmeras definições de design adicionais. Por exemplo, pode definir cores diferentes para fundos, tipos de letra, linhas e molduras para os elementos. Para tal, utilize o prático **seletor de cores**.
 
-![Selecionador de cores na aplicação universal](https://seatable.io/wp-content/uploads/2024/12/Color-Picker-in-der-Universellen-App.png)
+![Selecionador de cores na aplicação universal](images/Color-Picker-in-der-Universellen-App.png)

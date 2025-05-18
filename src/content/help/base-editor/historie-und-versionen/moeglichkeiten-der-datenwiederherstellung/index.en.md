@@ -37,7 +37,7 @@ You can learn more about this in the article [Retrieve tables, rows and columns 
 
 You can access the Base Recycle Bin by clicking on the versions icon in the upper right corner. In this drop-down menu you will also find other recovery options, which will be explained below.
 
-![Restoration of individual rows](https://seatable.io/wp-content/uploads/2021/10/Trash-Versionierung.png)
+![Restoration of individual rows](images/Trash-Versionierung.png)
 
 ## 3\. undo actions
 

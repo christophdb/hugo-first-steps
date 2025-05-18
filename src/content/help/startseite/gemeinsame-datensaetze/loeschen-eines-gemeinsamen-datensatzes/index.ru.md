@@ -12,7 +12,7 @@ url: '/ru/help/loeschen-eines-gemeinsamen-datensatzes'
 
 ## Удаление общей записи
 
-![Удаление общей записи](https://seatable.io/wp-content/uploads/2022/11/screnshot-common-datasets-3.png)
+![Удаление общей записи](images/screnshot-common-datasets-3.png)
 
 1. Откройте **стартовую** страницу SeaTable.
 2. Перейдите на вкладку " **Общая запись"**.
@@ -20,7 +20,7 @@ url: '/ru/help/loeschen-eines-gemeinsamen-datensatzes'
 4. Нажмите на **три точки**, а затем на **Удалить**.
 5. Подтвердите процесс еще раз с помощью **Delete**.
 
-![Удалить общую запись.](https://seatable.io/wp-content/uploads/2022/11/delete-a-common-dataset-1.png)
+![Удалить общую запись.](images/delete-a-common-dataset-1.png)
 
 ## Последствия удаления
 

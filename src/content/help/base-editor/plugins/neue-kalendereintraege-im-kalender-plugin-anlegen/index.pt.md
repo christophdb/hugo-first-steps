@@ -48,7 +48,7 @@ Para esta função são necessárias **duas colunas de datas** que possam regist
 4. Definir as duas colunas de datas para o calendário nas **definições** (acessíveis através do símbolo da roda dentada {{< seatable-icon icon="dtable-icon-set-up" >}}).
 5. No calendário, clicar na hora em que a consulta deve começar, manter premido o **botão do rato** e arrastar a caixa aberta para a hora em que a consulta deve terminar.
 
-![Criar novas entradas de calendário no plug-in do calendário](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
+![Criar novas entradas de calendário no plug-in do calendário](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
 
 {{< warning  headline="Nota"  text="Só é possível marcar compromissos na **síntese semanal e diária**." />}}
 
@@ -56,4 +56,4 @@ Para esta função são necessárias **duas colunas de datas** que possam regist
 
 É possível **mover** convenientemente os compromissos criados no plug-in do calendário **arrastando e largando**. Isto altera automaticamente as entradas correspondentes nas colunas de datas da sua tabela. Esta função está disponível para as **sínteses** **mensais**, **semanais** e **diárias**.
 
-![Criar novas entradas de calendário no plug-in do calendário](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)
+![Criar novas entradas de calendário no plug-in do calendário](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)

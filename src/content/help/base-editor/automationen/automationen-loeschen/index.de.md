@@ -14,7 +14,7 @@ Bereits angelegte **Automatisierungsregeln** können Sie jederzeit wieder **lös
 
 ## So löschen Sie eine Automation
 
-![Eine Automation löschen](https://seatable.io/wp-content/uploads/2022/12/delete-an-automation-rule.png)
+![Eine Automation löschen](images/delete-an-automation-rule.png)
 
 1. Öffnen Sie eine **Tabelle**, in der Sie eine bereits angelegte Automation löschen möchten.
 2. Klicken Sie auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Automatisierungsregeln**.

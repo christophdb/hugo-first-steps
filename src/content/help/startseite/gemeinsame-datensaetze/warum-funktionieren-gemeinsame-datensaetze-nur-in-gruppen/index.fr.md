@@ -14,7 +14,7 @@ Jusqu'à présent, les jeux de données partagés ne peuvent être créés **qu'
 
 Un court **texte d'information** y fait également référence dès que vous souhaitez publier un enregistrement commun à partir d'une vue de table d'une base qui n'appartient **pas** à un groupe.
 
-![Remarque si vous souhaitez publier un enregistrement commun d'une vue à partir d'une base de la section "Mes bases".](https://seatable.io/wp-content/uploads/2022/12/common-dataset-hinweis.png)
+![Remarque si vous souhaitez publier un enregistrement commun d'une vue à partir d'une base de la section "Mes bases".](images/common-dataset-hinweis.png)
 
 ## Contourner la limitation
 

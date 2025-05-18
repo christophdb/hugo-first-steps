@@ -14,7 +14,7 @@ Os conjuntos de dados partilhados **só** podem até agora ser criados a partir 
 
 Esta circunstância é também referida por um pequeno **texto informativo** que aparece assim que se pretende publicar um registo comum a partir de uma vista de tabela a partir de uma base que **não** pertence a um grupo.
 
-![Nota: se quiser publicar um registo partilhado a partir de uma base na área "As Minhas Bases".](https://seatable.io/wp-content/uploads/2022/12/common-dataset-hinweis.png)
+![Nota: se quiser publicar um registo partilhado a partir de uma base na área "As Minhas Bases".](images/common-dataset-hinweis.png)
 
 ## Limitação de Bypass
 

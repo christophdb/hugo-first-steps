@@ -16,7 +16,7 @@ Para comprobar la **correcta ejecuci처n de una automatizaci처n**, tiene la opci�
 
 ## Para echar un vistazo al registro de ejecuci처n
 
-![Mostrar registro de ejecuci처n](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Mostrar registro de ejecuci처n](images/open-an-automation-log.png)
 
 1. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatizaci처n**.
 2. Mueva el puntero del rat처n sobre la **regla de automatizaci처n** cuyo registro desea ver.
@@ -24,7 +24,7 @@ Para comprobar la **correcta ejecuci처n de una automatizaci처n**, tiene la opci�
 
 ## Estructura del registro de ejecuci처n
 
-![Estructura de un Auf체hrungslog](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Estructura de un Auf체hrungslog](images/structure-of-an-automation-log-newest.png)
 
 Puede ver la siguiente informaci처n en el registro de ejecuci처n de una automatizaci처n:
 

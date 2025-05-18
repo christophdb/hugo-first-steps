@@ -14,7 +14,7 @@ If you want to update the tables linked to the shared data record, you can **ini
 
 ## Manual synchronization with a shared data set
 
-![Synchronization of a shared data set](https://seatable.io/wp-content/uploads/2022/11/Synchronisation-eines-gemeinsamen-Datensatez.png)
+![Synchronization of a shared data set](images/Synchronisation-eines-gemeinsamen-Datensatez.png)
 
 1. Click the **triangle icon to** the right of the name of a table created with a common record.
 2. Click **Synchronize with record**.
@@ -24,18 +24,18 @@ If you want to update the tables linked to the shared data record, you can **ini
 
 If the synchronization is successful, the following message appears:
 
-![Message in case of a successful synchronization of a common data set](https://seatable.io/wp-content/uploads/2022/11/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+![Message in case of a successful synchronization of a common data set](images/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
 ## Periodic synchronization with a common data set
 
-![Synchronization of a shared data set](https://seatable.io/wp-content/uploads/2022/11/Synchronisation-2.0.png)
+![Synchronization of a shared data set](images/Synchronisation-2.0.png)
 
 1. Click the **triangle icon to** the right of the name of a table created with a common record.
 2. Click **Synchronize with record**.
 3. Click the **Enable automatic synchronization** button.
 4. Select whether automatic synchronization should be performed **daily** or **hourly**.
 
-![Periodic synchronization of a common data set](https://seatable.io/wp-content/uploads/2022/11/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+![Periodic synchronization of a common data set](images/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
 ### Restrictions on periodic synchronization
 

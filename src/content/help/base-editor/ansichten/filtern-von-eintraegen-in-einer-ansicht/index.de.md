@@ -12,7 +12,7 @@ Mit der Filterfunktion von SeaTable können Sie über **Filterregeln** die gewü
 
 ## Einträge in einer Ansicht filtern
 
-![Filtern von Einträgen](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-1.gif)
+![Filtern von Einträgen](images/Filtern-von-Eintraegen-1.gif)
 
 1. Wählen Sie die **Ansicht** aus, in der Sie einen Filter setzen wollen.
 2. Klicken Sie in den Ansichtsoptionen über der Tabelle auf **Filtern**.
@@ -27,15 +27,15 @@ Je nachdem, nach welchem **Spaltentyp** Sie filtern möchten, passen sich auch d
 
 ### Hier einige Beispiele
 
-Diese Bedingungsoptionen haben Sie bei einer [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/): ![Filtern Textspalte](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-5.png)
+Diese Bedingungsoptionen haben Sie bei einer [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/): ![Filtern Textspalte](images/filtern-von-eintraegen-5.png)
 
-Diese Bedingungsoptionen haben Sie bei einer [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/): ![Filter einzelauswahl-Spalte](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-6.png)
+Diese Bedingungsoptionen haben Sie bei einer [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/): ![Filter einzelauswahl-Spalte](images/filtern-von-eintraegen-6.png)
 
-Diese Bedingungsoptionen haben Sie bei einer [Bild-Spalte](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/): ![Filtern Bildspalte](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-7.png)
+Diese Bedingungsoptionen haben Sie bei einer [Bild-Spalte](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/): ![Filtern Bildspalte](images/filtern-von-eintraegen-7.png)
 
 ## Einen Filter entfernen
 
-Sie können erstellte Filter wieder **löschen**, indem Sie auf das **x-Symbol** klicken. ![Entfernung eines Filters einer Ansicht](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen.png)
+Sie können erstellte Filter wieder **löschen**, indem Sie auf das **x-Symbol** klicken. ![Entfernung eines Filters einer Ansicht](images/filtern-von-eintraegen.png)
 
 ## Mehrere Filter anwenden
 
@@ -43,4 +43,4 @@ Sie können einen oder mehrere Filter erstellen, welche die erste Bedingung weit
 
 ## Filter neu anordnen
 
-Sie können Filter verschieben und neu anordnen, indem Sie die Maus auf der **Grifffläche** ![Icon zum Verschieben von Elementen](images/move-icon.png) gedrückt halten, ziehen und loslassen. ![Filtern von Einträgen sortieren](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)
+Sie können Filter verschieben und neu anordnen, indem Sie die Maus auf der **Grifffläche** ![Icon zum Verschieben von Elementen](images/move-icon.png) gedrückt halten, ziehen und loslassen. ![Filtern von Einträgen sortieren](images/Filtern-von-Eintraegen-2.gif)

@@ -12,7 +12,7 @@ Mithilfe von Automationen müssen Sie Einträge in Ihren Tabellen nicht mehr man
 
 ## Verlinken von Einträgen per Automation
 
-![Zeilen sperren und archivieren mit einer Automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Zeilen sperren und archivieren mit einer Automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Klicken Sie im Base-Header auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Automatisierungsregeln**.
 2. Klicken Sie auf **Regel hinzufügen**.
@@ -25,7 +25,7 @@ Mithilfe von Automationen müssen Sie Einträge in Ihren Tabellen nicht mehr man
 
 Definieren Sie für die Automation zunächst ein **Trigger-Ereignis**.
 
-![Trigger-Ereignisse zur Sperrung und Archivierung von Zeilen](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Trigger-Ereignisse zur Sperrung und Archivierung von Zeilen](images/trigger-options-for-archivating-rows.png)
 
 {{< warning type="warning" headline="Wichtiger Hinweis" >}}
 
@@ -39,11 +39,11 @@ Die automatisierte Aktion **Links hinzufügen** steht Ihnen **ausschließlich** 
 
 Wählen Sie anschließend als automatisierte Aktion **"Links hinzufügen"** aus.
 
-![Hinzufügen der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Hinzufügen der automatisierten Aktion: "Links hinzufügen"](https://seatable.io/wp-content/uploads/2022/12/add-action-add-links.png)
+![Hinzufügen der automatisierten Aktion](images/add-an-action.png) ![Hinzufügen der automatisierten Aktion: "Links hinzufügen"](images/add-action-add-links.png)
 
 Wählen Sie abschließend eine **Spalte** aus, die mit der ausgewählten Tabelle verknüpft werden soll, und definieren Sie eine **spezifische Bedingung**, die erfüllt sein muss, damit die Automation durchgeführt wird.
 
-![Definition der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/automated-actions-add-links.png)
+![Definition der automatisierten Aktion](images/automated-actions-add-links.png)
 
 Bestätigen Sie abschließend die Automation mit einem Klick auf **Abschicken**.
 
@@ -55,11 +55,11 @@ Ein konkreter **Anwendungsfall** für diese Art von Automation könnte beispiels
 
 In der Tabelle **Payments** erfassen Sie neben den **Transaktionsnummern** der Zahlungen (P-0001 etc.) bereits die **Beträge** der verschiedenen Zahlungen (Spalte **"Value"**).
 
-![Beispiel-Tabelle Payments](https://seatable.io/wp-content/uploads/2022/12/Table-Payments-1.png)
+![Beispiel-Tabelle Payments](images/Table-Payments-1.png)
 
 Ihre Tabelle **Invoices** enthält derweil die **Rechnungsnummern** (Spalte **"Invoice-No"**) und die jeweiligen **Rechnungsbeträge** (Spalte **"Price Total"**).
 
-![Beispiel-Tabelle "Invoices"](https://seatable.io/wp-content/uploads/2022/12/Table-Invoices.png)
+![Beispiel-Tabelle "Invoices"](images/Table-Invoices.png)
 
 Mithilfe einer **Automation** möchten Sie nun die beiden Tabellen **Payments** und **Invoices** miteinander **verlinken**, damit Sie die eingegangenen **Zahlungen** anhand ihrer Rechnungsnummern automatisch einer **Rechnung** zuordnen können.
 
@@ -67,11 +67,11 @@ Mithilfe einer **Automation** möchten Sie nun die beiden Tabellen **Payments** 
 
 Bevor Sie die Automation anlegen können, müssen Sie in der Tabelle **Payments** zunächst noch zwei Spalten hinzufügen. In der Spalte **"Inv-No"** tragen Sie manuell die Rechnungsnummern ein, die zu den jeweiligen Zahlungen gehören – was später die Automation **auslösen** soll. In der Spalte **"Invoices"** werden nach Anlegen der Automation automatisch die **verlinkten Einträge** aus der Tabelle **Invoices** hinzugefügt.
 
-![Manuelle Erweiterung der Tabelle "Payments" um zwei Spalten](https://seatable.io/wp-content/uploads/2022/12/Manuelle-Erweiterung-der-Tabelle-22Payments22.png)
+![Manuelle Erweiterung der Tabelle "Payments" um zwei Spalten](images/Manuelle-Erweiterung-der-Tabelle-22Payments22.png)
 
 In der Tabelle **Invoices** benötigen Sie ebenfalls noch eine Spalte (**"Collected Payments"**), in der im Zuge der Automation die verlinkten Einträge der Tabelle **Payments** hinzugefügt werden.
 
-![](https://seatable.io/wp-content/uploads/2022/12/Hinzufuegen-der-Spalte-22Collected-PAyments22.png)
+![](images/Hinzufuegen-der-Spalte-22Collected-PAyments22.png)
 
 Im Anschluss können Sie für die Tabelle **Payments** eine **Automation** anlegen.
 
@@ -79,45 +79,45 @@ Im Anschluss können Sie für die Tabelle **Payments** eine **Automation** anleg
 
 Als Erstes geben Sie der Automation einen Namen und wählen die Tabelle **Payments** mit der gleichnamigen Ansicht aus, in der diese wirken soll.
 
-![Definition der Automation des Anwendungsfalls](https://seatable.io/wp-content/uploads/2022/12/definition-of-the-automation-1.png)
+![Definition der Automation des Anwendungsfalls](images/definition-of-the-automation-1.png)
 
 Als **Trigger-Ereignis** der Automation wählen Sie die Option **"Einträge erfüllen nach Bearbeitung bestimmte Bedingungen"** aus. Dabei fügen Sie als Filterbedingung hinzu, dass die beiden Spalten **"Inv-No"** und **"Value"** der Tabelle "Payments" **nicht leer** sind. Diese Bedingung ist sinnvoll, da die Automation ausgelöst werden soll, sobald in diesen Spalten Einträge vorhanden sind.
 
-![Definition des Trigger-Ereignisses des Anwendungsfalls ](https://seatable.io/wp-content/uploads/2022/12/trigger-example-1-1.png) ![Definition des Trigger-Ereignisses des Anwendungsfalls ](https://seatable.io/wp-content/uploads/2022/12/trigger-example-2-1.png)
+![Definition des Trigger-Ereignisses des Anwendungsfalls ](images/trigger-example-1-1.png) ![Definition des Trigger-Ereignisses des Anwendungsfalls ](images/trigger-example-2-1.png)
 
 Als **automatisierte Aktion** der Automation definieren Sie abschließend die Aktion **"Hinzufügen einer verlinkten Spalte in die Tabelle"**.
 
-![Hinzufügen der automatisierten Aktion: "Links hinzufügen"](https://seatable.io/wp-content/uploads/2022/12/add-action-add-links.png)
+![Hinzufügen der automatisierten Aktion: "Links hinzufügen"](images/add-action-add-links.png)
 
 Die Spalte **"Invoices"** ist die Spalte, in welche die verlinkten Einträge im Zuge der Automation hinzugefügt werden sollen.
 
-![Auswahl der Spalte, in welche die verlinkten Einträge hinzugefügt werden](https://seatable.io/wp-content/uploads/2022/12/automated-action-example-1.png)
+![Auswahl der Spalte, in welche die verlinkten Einträge hinzugefügt werden](images/automated-action-example-1.png)
 
 Im letzten Schritt der Definition der Automation sollten Sie noch eine weitere **Bedingung** festlegen, die erfüllt werden muss, damit der Spalte ein verlinkter Eintrag hinzugefügt wird. In diesem Beispiel wird dabei definiert, dass jeder **Eintrag**, der in der Spalte **"Inv-No"** hinzugefügt wird, auch in der Spalte **"Invoice-No"** der Tabelle **Invoices** zu finden sein muss.
 
 Konkret bedeutet dies, dass jede **Rechnungsnummer**, die Sie einer Zahlung in der Tabelle **Payments** manuell zuordnen, bereits in der Tabelle **Invoices** zu finden sein muss, damit die entsprechenden **Einträge** beider Tabellen miteinander **verlinkt** werden können.
 
-![Definiton der abschließenden Bedingung zum Auslösen der Automation](https://seatable.io/wp-content/uploads/2022/12/automated-action-example-2-1.png)
+![Definiton der abschließenden Bedingung zum Auslösen der Automation](images/automated-action-example-2-1.png)
 
 ### Testen der Automation
 
 Wenn Sie daraufhin in der Tabelle **Payments** in der Spalte **"Inv-No"** eine Rechnungsnummer eintragen, die bereits in der Tabelle **Invoices** zu finden ist, wird der entsprechende **verlinkte Eintrag** automatisch der Tabelle in der Spalte **"Invoices"** hinzugefügt.
 
-![Hinzufügen der verlinkten Einträge durch Auslösen der Automation](https://seatable.io/wp-content/uploads/2022/12/Ausloesen-der-Automation-Beispiel-1-1-1.png)
+![Hinzufügen der verlinkten Einträge durch Auslösen der Automation](images/Ausloesen-der-Automation-Beispiel-1-1-1.png)
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Wenn Sie in der Spalte **\\"Inv-No\\"** Rechnungsnummern hinzufügen, die **noch nicht** in der Tabelle **Invoices** zu finden sind, wird die Automation **nicht** ausgelöst und der Spalte wird dementsprechend auch **kein** verlinkter Eintrag hinzugefügt, da es den dazugehörigen Eintrag in der Tabelle **Invoices** schlichtweg noch nicht gibt." />}}
 
 Mit einem Klick auf den verlinkten Eintrag öffnet sich ein Fenster, in dem Sie die Inhalte des **verlinkten Eintrags** aus der Tabelle **Invoices** einsehen können.
 
-![Mit einem Klick auf den verlinkten Eintrag lassen sich die Inhalte der verlinkten Spalte in der anderen Tabelle einsehen.](https://seatable.io/wp-content/uploads/2022/12/Informationen-der-verlinkten-Spalte.png)
+![Mit einem Klick auf den verlinkten Eintrag lassen sich die Inhalte der verlinkten Spalte in der anderen Tabelle einsehen.](images/Informationen-der-verlinkten-Spalte.png)
 
 Zusätzlich werden durch das Auslösen der Automation auch in der Tabelle **Invoices** die **verlinkten Einträge** aus der Tabelle **Payments** hinzugefügt. Dabei wird in der Spalte **"Collected Payments"** automatisch jeder Rechnungsnummer die dazugehörige **Zahlungsnummer (P-000X)** zugeordnet. Durch die **Automation** können Sie folglich für jede Rechnung die dazugehörige **Zahlung** einsehen und schnell feststellen, welche Rechnungen beglichen und welche Rechnungen noch offen sind.
 
-![Hinzufügen der verlinkten Einträge durch Auslösen der Automation](https://seatable.io/wp-content/uploads/2022/12/Ausloesen-der-Automation-Beispiel-2.png)
+![Hinzufügen der verlinkten Einträge durch Auslösen der Automation](images/Ausloesen-der-Automation-Beispiel-2.png)
 
 Auch in dieser Tabelle können Sie mit einem Klick auf den verlinkten Eintrag ein Fenster öffnen, in dem Sie die Inhalte des **verlinkten Eintrags** aus der Tabelle **Payments** einsehen können.
 
-![Mit einem Klick auf einen verlinkten Eintrag lassen sich die Inhalte der verlinkten Spalte in der anderen Tabelle einsehen.](https://seatable.io/wp-content/uploads/2022/12/Informationen-der-verlinkten-Spalte-2.png)
+![Mit einem Klick auf einen verlinkten Eintrag lassen sich die Inhalte der verlinkten Spalte in der anderen Tabelle einsehen.](images/Informationen-der-verlinkten-Spalte-2.png)
 
 ### Weitere hilfreiche Artikel in der Rubrik Automationen:
 

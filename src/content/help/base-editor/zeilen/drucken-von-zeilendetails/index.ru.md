@@ -12,7 +12,7 @@ url: '/ru/help/drucken-von-zeilendetails'
 
 ## Чтобы напечатать строки
 
-![Печать сведений о ряде.](https://seatable.io/wp-content/uploads/2022/11/Drucken-von-Zeilendetails.gif)
+![Печать сведений о ряде.](images/Drucken-von-Zeilendetails.gif)
 
 1. Переместите мышь к нумерации в **начале строки**, которую вы хотите напечатать.
 2. Нажмите на **значок двойной стрелки**, чтобы открыть **подробную информацию о ряде**.
@@ -29,8 +29,8 @@ url: '/ru/help/drucken-von-zeilendetails'
 Типы печати **Normal** и **Compact** отличаются как размером файла, так и формой **представления**.
 
 - Сайт **Нормальное давление** выглядит очень похоже на обычное отображение деталей ряда: вы видите записи, как и ожидали.  
-   ![Нормальное давление.](https://seatable.io/wp-content/uploads/2022/11/Normaler-Druck-1.png)
+   ![Нормальное давление.](images/Normaler-Druck-1.png)
 - Сайт **Компактное давление** сокращает белое пространство и упаковывает всю информацию в табличную структуру.  
-   ![Компактная печать.](https://seatable.io/wp-content/uploads/2022/11/Kompakter-Druck-1.png)
+   ![Компактная печать.](images/Kompakter-Druck-1.png)
 
 {{< warning  headline="Примечание"  text="Обычно на ПК есть опция _Print as PDF_. Сам SeaTable **не предлагает загрузку в формате PDF**." />}}

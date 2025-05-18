@@ -13,12 +13,12 @@ Do you need a table in your Base several times in a slightly modified form? Then
 1. In the base header, you will find all the tables in the base displayed as **tabs** at the top left.
 2. Click on the **drop-down icon** next to **the name of the table** you wish to duplicate.
 
-![Duplicate table structure](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Duplicate table structure](images/Tabellenstruktur-duplizieren.png)
 
 4. Click on **Duplicate table**.
 5. Decide whether the table should be duplicated **empty or with entries** by activating the slider.
 
-![Dialog: Duplicate entries when table is duplicated](https://seatable.io/wp-content/uploads/2024/02/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
+![Dialog: Duplicate entries when table is duplicated](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
 
 7. Confirm with **Submit**.
 

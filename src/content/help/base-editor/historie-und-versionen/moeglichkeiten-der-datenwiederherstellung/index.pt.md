@@ -37,7 +37,7 @@ Pode ler mais sobre isto no artigo [Retrieving Tables, Rows and Columns from the
 
 Pode aceder à Lixeira Base clicando no ícone das versões no canto superior direito. Neste menu suspenso encontrará também outras opções de restauração, que são explicadas abaixo.
 
-![Restauração de linhas individuais](https://seatable.io/wp-content/uploads/2021/10/Trash-Versionierung.png)
+![Restauração de linhas individuais](images/Trash-Versionierung.png)
 
 ## 3\. acções de desfazer
 

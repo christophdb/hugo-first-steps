@@ -12,7 +12,7 @@ url: '/help/unterschiede-zwischen-privaten-und-normalen-ansichten'
 
 In SeaTable there is the possibility to create both normal and private views of tables. Private views are, as the name suggests, only visible to the creator and cannot be shared with other people. Otherwise, private views do not differ from normal views.
 
-![public and private view](https://seatable.io/wp-content/uploads/2022/11/public-and-private-view.png)
+![public and private view](images/public-and-private-view.png)
 
 ## Personal data analysis with private views
 
@@ -30,10 +30,10 @@ Another difference between normal and private views is that private views cannot
 
 If you want to customize a normal view that is visible to others, you can simply duplicate it as a private view. The original view remains unchanged.
 
-![Duplicate a normal view as a private view](https://seatable.io/wp-content/uploads/2022/11/Duplicate-as-private-view.png)
+![Duplicate a normal view as a private view](images/Duplicate-as-private-view.png)
 
 ## Convert private views to normal views
 
 On the other hand, you can also convert your private views into non-private, normal views that are visible to others. However, this does not duplicate the view so that it is no longer available as a private view, but only as a normal view.
 
-![Convert a private view into a normal view](https://seatable.io/wp-content/uploads/2022/11/Change-to-non-private-view.png)
+![Convert a private view into a normal view](images/Change-to-non-private-view.png)

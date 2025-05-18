@@ -1,11 +1,11 @@
 ---
-title: "Eine Base an einen Benutzer freigeben"
+title: 'Eine Base an einen Benutzer freigeben'
 date: 2023-01-17
-lastmod: "2023-02-22"
-categories: 
-  - "freigaben"
-author: "vge"
-url: "/de/hilfe/anlegen-einer-benutzerfreigabe"
+lastmod: '2023-02-22'
+categories:
+    - 'freigaben'
+author: 'vge'
+url: '/de/hilfe/anlegen-einer-benutzerfreigabe'
 ---
 
 Sie können innerhalb Ihres Teams **Bases mit anderen Benutzern teilen**. Hierbei können Sie zwischen einer **Lesefreigabe** und einer **Lese- und Schreibfreigabe** wählen.
@@ -24,7 +24,7 @@ Sie können innerhalb Ihres Teams **Bases mit anderen Benutzern teilen**. Hierbe
 
 ### Freigabe innerhalb der Base
 
-![Freigabe innerhalb der Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Freigabe innerhalb der Base](images/share-a-base.png)
 
 Wenn Sie sich gerade **in einer Base** befinden, können Sie auch eine Freigabe erstellen, ohne auf die Startseite wechseln zu müssen. Klicken Sie dazu auf das **Teilen-Icon** {{< seatable-icon icon="dtable-icon-share" >}} rechts oben bei den **Base-Optionen**. Das Fenster, das sich zum Erstellen einer Freigabe öffnet, sieht genauso aus wie das auf der Startseite. Befolgen Sie einfach die obige Klickanleitung ab Schritt 4.
 

@@ -12,7 +12,7 @@ Numa **coluna de ficheiros** pode guardar um ou mais ficheiros e assim adicionar
 
 ## Como criar uma coluna de ficheiro
 
-![Criar uma coluna.](https://seatable.io/wp-content/uploads/2022/11/Wie-man-eine-Spalte-anlegt.gif)
+![Criar uma coluna.](images/Wie-man-eine-Spalte-anlegt.gif)
 
 1. Clique no **símbolo \[+\]** à direita da última coluna da sua tabela.
 2. Dê um **nome** à coluna no campo superior.
@@ -54,7 +54,7 @@ Para além dos novos ficheiros que carrega localmente para a célula de uma colu
 
 ## Descarregamento de ficheiros
 
-![Descarregar ficheiros.](https://seatable.io/wp-content/uploads/2022/11/Herunterladen-von-Dateien.gif)
+![Descarregar ficheiros.](images/Herunterladen-von-Dateien.gif)
 
 1. Na coluna do ficheiro, **faça duplo clique** sobre a célula que contém os documentos que pretende descarregar.
 2. Abre-se uma nova janela. **Todos os ficheiros** que estão armazenados na célula são listados aqui.
@@ -77,7 +77,7 @@ Se clicar nos **três pontos**, tem duas opções para guardar o ficheiro: Ao **
 
 ## Mudar o nome dos ficheiros
 
-![Renomear os anexos de uma coluna de ficheiro.](https://seatable.io/wp-content/uploads/2022/11/Datei-Spalte-Anhaenge-umbenennen.gif)
+![Renomear os anexos de uma coluna de ficheiro.](images/Datei-Spalte-Anhaenge-umbenennen.gif)
 
 1. Abrir a janela **Todos os ficheiros** **fazendo duplo clique sobre** uma célula na coluna Ficheiro.
 2. Mova o ponteiro do rato sobre o ficheiro que pretende renomear e clique nos **três pontos**.
@@ -85,7 +85,7 @@ Se clicar nos **três pontos**, tem duas opções para guardar o ficheiro: Ao **
 
 ## Eliminar ficheiros
 
-![Eliminar anexos.](https://seatable.io/wp-content/uploads/2022/11/Loeschen-von-Anhaengen.gif)
+![Eliminar anexos.](images/Loeschen-von-Anhaengen.gif)
 
 1. Abrir a janela **Todos os ficheiros** **fazendo duplo clique sobre** uma célula na coluna Ficheiro.
 2. Desta forma, pode criar um **ficheiro único** Eliminar

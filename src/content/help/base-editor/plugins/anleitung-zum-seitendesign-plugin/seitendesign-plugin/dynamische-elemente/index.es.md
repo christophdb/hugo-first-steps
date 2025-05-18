@@ -26,16 +26,16 @@ La **fecha actual** se ajusta automáticamente a hoy sin que tengas que ajustarl
 
 El único ajuste adicional en comparación con los elementos de texto estáticos es el **ajuste de formato**. Aquí puede elegir entre las diferentes notaciones regionales para las fechas.
 
-![elemento dinámico formato de fecha](https://seatable.io/wp-content/uploads/2022/11/Dynamisches-Element-Datum-Format.png)
+![elemento dinámico formato de fecha](images/Dynamisches-Element-Datum-Format.png)
 
 ## Nombre de la plantilla
 
 El **nombre de la plantilla**, es decir, el diseño de la página que está editando en ese momento, se ajusta automáticamente. Si ha cambiado el nombre de la plantilla, el cambio en este campo se adopta automáticamente.
 
-![Elemento dinámico Nombre de la plantilla](https://seatable.io/wp-content/uploads/2022/11/dynamisches-Element-Vorlagenname.gif)
+![Elemento dinámico Nombre de la plantilla](images/dynamisches-Element-Vorlagenname.gif)
 
 ## Usuario actual
 
 Su propio nombre aparece en el campo **Usuario actual** si está realizando cambios en la plantilla a través de su cuenta. En cuanto otro **miembro del equipo** llama a la plantilla en el plug-in de diseño de páginas, aparece su nombre.
 
-![Elemento dinámico del usuario actual](https://seatable.io/wp-content/uploads/2022/11/dynamisches-Element-Aktueller-nutzer.gif)
+![Elemento dinámico del usuario actual](images/dynamisches-Element-Aktueller-nutzer.gif)

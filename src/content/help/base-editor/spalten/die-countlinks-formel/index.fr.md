@@ -22,13 +22,13 @@ La **formule Countlinks** devrait être utilisée chaque fois que vous souhaitez
 
 Par exemple, lors de la planification d'un atelier, il est possible de représenter le nombre de participants inscrits à partir d'un tableau séparé. La [colonne de liaison]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) conserverait ainsi les noms de tous les participants.
 
-![La formule Countlinks.](https://seatable.io/wp-content/uploads/2022/11/countlinks-2.png)
+![La formule Countlinks.](images/countlinks-2.png)
 
 L'utilisation de la formule Countlinks n'a de sens que si vous activez l'option **Autoriser les liens vers plusieurs lignes** lors de la création d'une colonne de type **Lien vers d'autres entrées**. Si cette option était désactivée, le champ de la formule Countlinks contiendrait toujours un un.
 
 ## Création d'une formule Countlinks
 
-![La formule Countlinks.](https://seatable.io/wp-content/uploads/2022/11/countlink.gif)
+![La formule Countlinks.](images/countlink.gif)
 
 1. Créez une nouvelle colonne de type **Formule pour les liens**.
 2. Donnez un **nom** approprié à la colonne.

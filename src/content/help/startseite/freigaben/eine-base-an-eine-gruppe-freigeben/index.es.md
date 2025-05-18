@@ -30,7 +30,7 @@ Puedes compartir tus bases tanto **desde la** página de **inicio** como **dentr
 
 ## Liberación dentro de la base
 
-![Liberación dentro de la base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Liberación dentro de la base](images/share-a-base.png)
 
 Si te encuentras **en una** base, también puedes crear una acción sin tener que cambiar a la página de inicio. Para ello, haga clic en el **icono** de compartir {{< seatable-icon icon="dtable-icon-share" >}} situado en la parte superior derecha de las **opciones de** la base. La ventana que se abre para crear una acción es exactamente igual a la de la página de inicio. Sólo tienes que seguir las instrucciones del paso 4.
 

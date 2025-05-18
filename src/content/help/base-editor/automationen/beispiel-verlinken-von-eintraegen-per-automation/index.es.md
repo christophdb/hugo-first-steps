@@ -12,7 +12,7 @@ Con la ayuda de las automatizaciones, ya no tendrá que vincular manualmente las
 
 ## Vinculación de entradas mediante automatización
 
-![Bloqueo y archivo de líneas con automatización](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Bloqueo y archivo de líneas con automatización](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatización**.
 2. Haga clic en **Añadir Regla**.
@@ -25,7 +25,7 @@ Con la ayuda de las automatizaciones, ya no tendrá que vincular manualmente las
 
 En primer lugar, defina un **evento desencadenante** para la automatización.
 
-![Eventos desencadenantes para bloquear y archivar líneas](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Eventos desencadenantes para bloquear y archivar líneas](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Nota importante" >}}
 

@@ -16,7 +16,7 @@ Os **eventos de disparo** são uma das duas componentes essenciais das automatiz
 
 Na última versão do SeaTable, há um total de **quatro** eventos de disparo diferentes por onde escolher:
 
-![Eventos de activação actualmente disponíveis](https://seatable.io/wp-content/uploads/2022/12/types-of-trigger-events.png)
+![Eventos de activação actualmente disponíveis](images/types-of-trigger-events.png)
 
 - As inscrições preenchem certas condições após a edição
 - É acrescentada uma nova entrada
@@ -47,7 +47,7 @@ Se selecionar o evento "As entradas cumprem determinadas condições após a edi
 
 Se seleccionar este evento como gatilho, a automatização correspondente é activada cada vez que uma nova **entrada** é adicionada na vista da tabela seleccionada. Além disso, pode restringir ainda mais a ocorrência do evento, definindo individualmente um **valor** para cada coluna que a nova entrada **deve conter**, a fim de desencadear a automatização.
 
-![Possíveis restrições do evento de disparo: Quando uma nova entrada é adicionada](https://seatable.io/wp-content/uploads/2022/12/specialization-of-trigger-records-added.png)
+![Possíveis restrições do evento de disparo: Quando uma nova entrada é adicionada](images/specialization-of-trigger-records-added.png)
 
 Se selecionar o evento "Uma nova entrada é adicionada" como acionador de uma automatização, as seguintes **acções automáticas** estão disponíveis para seleção:
 
@@ -65,7 +65,7 @@ Se selecionar o evento "Uma nova entrada é adicionada" como acionador de uma au
 
 Se atribuir um disparo periódico a uma automatização, pode então definir uma **hora em que** a automatização é disparada **diariamente**, **semanalmente** ou **mensalmente**. Embora só possa especificar a **hora** para uma automatização diária, também pode especificar um **dia da semana** para uma automatização semanal ou uma **data** exacta **para** uma automatização mensal.
 
-![Definição de opções para um disparo periódico](https://seatable.io/wp-content/uploads/2022/12/specification-periodic-trigger.png)
+![Definição de opções para um disparo periódico](images/specification-periodic-trigger.png)
 
 Se definir um gatilho periódico para uma automatização, as seguintes **acções automáticas** estão disponíveis para selecção:
 
@@ -83,7 +83,7 @@ Este acionador é uma mistura do acionador periódico e do acionador "As entrada
 
 Além disso, com este evento de disparo pode definir individualmente certas **condições para** cada coluna da tabela, que as **entradas** na respectiva coluna devem cumprir para que a automatização seja concluída no momento especificado.
 
-![Desencadeamento automático: "Desencadeamento periódico quando as entradas satisfazem determinadas condições".](https://seatable.io/wp-content/uploads/2022/12/trigger-event-periodic-match-conditions.png)
+![Desencadeamento automático: "Desencadeamento periódico quando as entradas satisfazem determinadas condições".](images/trigger-event-periodic-match-conditions.png)
 
 Se selecionar a opção "Acionamento periódico para entradas que satisfazem determinadas condições" para uma automatização, as seguintes **acções automáticas** estão disponíveis para seleção:
 

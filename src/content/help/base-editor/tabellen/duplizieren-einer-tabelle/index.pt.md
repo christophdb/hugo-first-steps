@@ -13,12 +13,12 @@ Precisa de uma tabela na sua Base várias vezes com uma forma ligeiramente difer
 1. No cabeçalho da base, encontrará todas as tabelas da base apresentadas como **separadores** no canto superior esquerdo.
 2. Clique no **ícone de lista pendente** junto ao **nome da tabela** que pretende duplicar.
 
-![Estrutura de tabela duplicada](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Estrutura de tabela duplicada](images/Tabellenstruktur-duplizieren.png)
 
 4. Clique em **Duplicar tabela**.
 5. Decida se a tabela deve ser duplicada **vazia ou com entradas**, activando o cursor.
 
-![Diálogo: Entradas duplicadas quando a tabela é duplicada](https://seatable.io/wp-content/uploads/2024/02/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
+![Diálogo: Entradas duplicadas quando a tabela é duplicada](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
 
 7. Confirmar com **Submeter**.
 

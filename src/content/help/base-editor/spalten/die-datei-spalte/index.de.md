@@ -12,7 +12,7 @@ In einer **Datei-Spalte** können Sie eine oder mehrere Dateien speichern und so
 
 ## Wie Sie eine Datei-Spalte anlegen
 
-![Eine Spalte anlegen.](https://seatable.io/wp-content/uploads/2022/11/Wie-man-eine-Spalte-anlegt.gif)
+![Eine Spalte anlegen.](images/Wie-man-eine-Spalte-anlegt.gif)
 
 1. Klicken Sie rechts neben der letzten Spalte Ihrer Tabelle auf das **\[+\]-Symbol**.
 2. Geben Sie der Spalte im oberen Feld einen **Namen**.
@@ -54,7 +54,7 @@ Neben neuen Dateien, die Sie lokal in die Zelle einer Datei-Spalte hochladen, k�
 
 ## Herunterladen von Dateien
 
-![Herunterladen von Dateien.](https://seatable.io/wp-content/uploads/2022/11/Herunterladen-von-Dateien.gif)
+![Herunterladen von Dateien.](images/Herunterladen-von-Dateien.gif)
 
 1. Machen Sie in der Datei-Spalte einen **Doppelklick** auf die Zelle, die die Dokumente enthält, die Sie herunterladen möchten.
 2. Ein neues Fenster öffnet sich. Hier sind **alle Dateien** aufgelistet, die in der Zelle gespeichert sind.
@@ -77,7 +77,7 @@ Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu
 
 ## Umbenennen von Dateien
 
-![Umbenennen von Anhängen einer Datei-Spalte.](https://seatable.io/wp-content/uploads/2022/11/Datei-Spalte-Anhaenge-umbenennen.gif)
+![Umbenennen von Anhängen einer Datei-Spalte.](images/Datei-Spalte-Anhaenge-umbenennen.gif)
 
 1. Öffnen Sie das Fenster **Alle Dateien**, indem Sie einen **Doppelklick** auf eine Zelle in der Datei-Spalte machen.
 2. Fahren Sie mit dem Mauszeiger über die Datei, die Sie umbenennen möchten, und klicken Sie auf die **drei Punkte**.
@@ -85,7 +85,7 @@ Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu
 
 ## Löschen von Dateien
 
-![Löschen von Anhängen.](https://seatable.io/wp-content/uploads/2022/11/Loeschen-von-Anhaengen.gif)
+![Löschen von Anhängen.](images/Loeschen-von-Anhaengen.gif)
 
 1. Öffnen Sie das Fenster **Alle Dateien**, indem Sie einen **Doppelklick** auf eine Zelle in der Datei-Spalte machen.
 2. So können Sie eine **einzelne Datei** löschen:

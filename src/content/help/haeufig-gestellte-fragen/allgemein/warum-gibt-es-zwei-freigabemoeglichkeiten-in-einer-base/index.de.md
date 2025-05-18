@@ -18,7 +18,7 @@ Beide Freigaben erfolgen über den Freigeben-Dialog – ein Fenster, das Sie üb
 
 ## Freigabe einer Base
 
-![Freigeben-Dialog innerhalb der Base öffnen](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Freigeben-Dialog innerhalb der Base öffnen](images/share-a-base.png)
 
 Wenn Sie eine Ihrer Bases freigeben wollen, haben Sie die Wahl zwischen verschiedenen Optionen, je nachdem mit welchem Personenkreis Sie die Daten teilen möchten:
 

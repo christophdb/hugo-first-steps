@@ -14,13 +14,13 @@ Once you have created a shared data set, you can perform various operations to m
 
 1. Open the **home** page of SeaTable.
 
-![Management of a shared data set](https://seatable.io/wp-content/uploads/2022/11/overview-common-datasets.png)
+![Management of a shared data set](images/overview-common-datasets.png)
 
 3. Click on **Shared data record**. You are now in the **overview** of all shared data records.
 4. Move the mouse over a shared data record and click on the **three dots** on the far right.
 5. Select the desired option in the following menu.
 
-![More operations for common datasets](https://seatable.io/wp-content/uploads/2024/06/More-operations-for-common-datasets.png)
+![More operations for common datasets](images/More-operations-for-common-datasets.png)
 
 {{< warning  headline="Authorization required"  text="You can only perform these management operations if you are the **creator of** the shared data record. The **three dots are hidden** for data records that are only released to one of your groups." />}}
 
@@ -28,17 +28,17 @@ Once you have created a shared data set, you can perform various operations to m
 
 If you use shared data sets extensively in your team, it can be easy to lose track. To which **groups** is a shared data record released and in which **bases** is it integrated? You can view this information under **Details**.
 
-![Details of a common dataset](https://seatable.io/wp-content/uploads/2024/06/Details-of-a-common-dataset.png)
+![Details of a common dataset](images/Details-of-a-common-dataset.png)
 
-![Common dataset details](https://seatable.io/wp-content/uploads/2024/06/Common-dataset-details.png)
+![Common dataset details](images/Common-dataset-details.png)
 
 ## Rename a shared data set
 
 If you want to change the **name** of your shared data set, simply click on **Rename**.
 
-![Rename common dataset option](https://seatable.io/wp-content/uploads/2024/06/Rename-common-dataset-option.png)
+![Rename common dataset option](images/Rename-common-dataset-option.png)
 
-![Rename common dataset](https://seatable.io/wp-content/uploads/2024/06/Rename-common-dataset.png)
+![Rename common dataset](images/Rename-common-dataset.png)
 
 Enter the new name and confirm with **Send**.
 

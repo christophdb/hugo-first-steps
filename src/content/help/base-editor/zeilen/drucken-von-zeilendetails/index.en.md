@@ -12,7 +12,7 @@ You have the option to print **row details** similar to [table views](https://se
 
 ## How to print rows
 
-![Print row details.](https://seatable.io/wp-content/uploads/2022/11/Drucken-von-Zeilendetails.gif)
+![Print row details.](images/Drucken-von-Zeilendetails.gif)
 
 1. Move the mouse to the numbering at the **beginning of row**, which you want to print.
 2. Click the **double arrow icon** to open the **row details**.
@@ -29,8 +29,8 @@ You can also print a row by opening the line details and using the shortcut {{< 
 The **Normal** and **Compact** print types differ in both file size and **appearance**.
 
 - The **Normal pressure** looks very similar to the usual display of row details: you see the entries as you would expect.  
-   ![Normal pressure.](https://seatable.io/wp-content/uploads/2022/11/Normaler-Druck-1.png)
+   ![Normal pressure.](images/Normaler-Druck-1.png)
 - The **Compact pressure** reduces the white space and packs all information into a table structure.  
-   ![Compact print.](https://seatable.io/wp-content/uploads/2022/11/Kompakter-Druck-1.png)
+   ![Compact print.](images/Kompakter-Druck-1.png)
 
 {{< warning  headline="Note"  text="Usually on PCs there is an option _Print as PDF_. SeaTable itself does **not offer download as PDF**." />}}

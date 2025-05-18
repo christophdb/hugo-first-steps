@@ -1,18 +1,18 @@
 ---
-title: "Löschen eines gemeinsamen Datensatzes"
+title: 'Löschen eines gemeinsamen Datensatzes'
 date: 2022-11-21
-lastmod: "2024-06-12"
-categories: 
-  - "gemeinsame-datensaetze"
-author: "nsc2"
-url: "/de/hilfe/loeschen-eines-gemeinsamen-datensatzes"
+lastmod: '2024-06-12'
+categories:
+    - 'gemeinsame-datensaetze'
+author: 'nsc2'
+url: '/de/hilfe/loeschen-eines-gemeinsamen-datensatzes'
 ---
 
 Falls Sie Ihre erstellten **gemeinsamen Datensätze** zu einem bestimmten Zeitpunkt nicht mehr benötigen, können Sie diese von der Startseite aus jederzeit problemlos löschen.
 
 ## Löschen eines gemeinsamen Datensatzes
 
-![Löschen eines gemeinsamen Datensatzes](https://seatable.io/wp-content/uploads/2022/11/screnshot-common-datasets-3.png)
+![Löschen eines gemeinsamen Datensatzes](images/screnshot-common-datasets-3.png)
 
 1. Öffnen Sie die **Startseite** von SeaTable.
 2. Klicken Sie auf den Reiter **Gemeinsamer Datensatz**.
@@ -20,7 +20,7 @@ Falls Sie Ihre erstellten **gemeinsamen Datensätze** zu einem bestimmten Zeitpu
 4. Klicken Sie auf die **drei Punkte** und anschließend auf **Löschen**.
 5. Bestätigen Sie den Vorgang noch einmal mit **Löschen**.
 
-![Löschen eines gemeinsamen Datensatzes.](https://seatable.io/wp-content/uploads/2022/11/delete-a-common-dataset-1.png)
+![Löschen eines gemeinsamen Datensatzes.](images/delete-a-common-dataset-1.png)
 
 ## Auswirkungen der Löschung
 

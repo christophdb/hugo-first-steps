@@ -12,7 +12,7 @@ Sie haben die Möglichkeit, **Zeilendetails** ähnlich wie [Tabellenansichten](h
 
 ## So können Sie Zeilen drucken
 
-![Drucken von Zeilendetails.](https://seatable.io/wp-content/uploads/2022/11/Drucken-von-Zeilendetails.gif)
+![Drucken von Zeilendetails.](images/Drucken-von-Zeilendetails.gif)
 
 1. Bewegen Sie die Maus auf die Nummerierung am **Anfang der Zeile**, die Sie drucken wollen.
 2. Klicken Sie auf das **Doppelpfeil-Symbol**, um die **Zeilendetails** zu öffnen.
@@ -28,7 +28,7 @@ Sie können eine Zeile auch drucken, indem Sie die Zeilendetails öffnen und den
 
 Die Drucktypen **Normal** und **Kompakt** unterscheiden sich sowohl in der Dateigröße als auch in der **Darstellung**.
 
-- Der **normale Druck** sieht der gewohnten Darstellung der Zeilendetails sehr ähnlich: Man sieht die Einträge, wie man es erwartet. ![Normaler Druck.](https://seatable.io/wp-content/uploads/2022/11/Normaler-Druck-1.png)
-- Der **kompakte Druck** reduziert den Weißraum und packt alle Informationen in eine Tabellenstruktur. ![Kompakter Druck.](https://seatable.io/wp-content/uploads/2022/11/Kompakter-Druck-1.png)
+- Der **normale Druck** sieht der gewohnten Darstellung der Zeilendetails sehr ähnlich: Man sieht die Einträge, wie man es erwartet. ![Normaler Druck.](images/Normaler-Druck-1.png)
+- Der **kompakte Druck** reduziert den Weißraum und packt alle Informationen in eine Tabellenstruktur. ![Kompakter Druck.](images/Kompakter-Druck-1.png)
 
 {{< warning  headline="Hinweis"  text="Üblicherweise gibt es auf PCs die Option _Drucken als PDF_. SeaTable selbst bietet **keinen Download als PDF** an." />}}

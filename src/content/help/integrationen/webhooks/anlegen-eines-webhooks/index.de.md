@@ -1,11 +1,11 @@
 ---
-title: "Anlegen und Löschen eines Webhooks"
+title: 'Anlegen und Löschen eines Webhooks'
 date: 2023-02-28
-lastmod: "2023-02-28"
-categories: 
-  - "webhooks"
-author: "cdb"
-url: "/de/hilfe/anlegen-eines-webhooks"
+lastmod: '2023-02-28'
+categories:
+    - 'webhooks'
+author: 'cdb'
+url: '/de/hilfe/anlegen-eines-webhooks'
 ---
 
 Ein Webhook wird immer für eine Base angelegt. Sobald der Webhook eingerichtet ist, wird jede Änderung an den Inhalten der Base an die Ziel-URL verschickt.
@@ -17,4 +17,4 @@ Ein Webhook wird immer für eine Base angelegt. Sobald der Webhook eingerichtet 
 3. Geben Sie eine Ziel-URL an und bestätigen Sie.
 4. Der Webhook wird sofort aktiv.
 
-![Formular zum Erzeugen eines Webhooks in SeaTable](https://seatable.io/wp-content/uploads/2022/04/seatable-webhook.png)
+![Formular zum Erzeugen eines Webhooks in SeaTable](images/seatable-webhook.png)

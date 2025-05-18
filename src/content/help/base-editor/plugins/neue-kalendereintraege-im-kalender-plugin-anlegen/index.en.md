@@ -48,7 +48,7 @@ For this function you need **two date columns** that can capture **clock times**
 4. Set the two date columns for the calendar in the **settings** (accessible via the cogwheel icon {{< seatable-icon icon="dtable-icon-set-up" >}}).
 5. In the calendar, click on the time you want the appointment to start, hold down the **mouse button** and drag the box open to the time you want the appointment to end.
 
-![Create new calendar entries in the calendar plugin](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
+![Create new calendar entries in the calendar plugin](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-2.gif)
 
 {{< warning  headline="Note"  text="You can pull up appointments only in the **weekly and daily overview**." />}}
 
@@ -56,4 +56,4 @@ For this function you need **two date columns** that can capture **clock times**
 
 You can conveniently **drag and drop** the created dates in the calendar plugin. This will automatically change the corresponding entries in the date columns of your table. This function is available for the **monthly**, **weekly** and **daily overview**.
 
-![Create new calendar entries in the calendar plugin](https://seatable.io/wp-content/uploads/2022/11/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)
+![Create new calendar entries in the calendar plugin](images/Neuer-Kalendereintrag-im-Kalender-Plugin-anlegen-3.gif)

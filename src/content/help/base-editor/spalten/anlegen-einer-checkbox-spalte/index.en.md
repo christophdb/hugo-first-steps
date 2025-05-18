@@ -24,4 +24,4 @@ In SeaTable, you have the option of adding **checkbox columns** to your tables. 
 
 Don't like the default **green tick**? No problem! You have 70 different style options to fill in your checkboxes the way you want.
 
-![Style options for checkboxes](https://seatable.io/wp-content/uploads/2022/11/Stiloptionen-bei-Checkboxen.png)
+![Style options for checkboxes](images/Stiloptionen-bei-Checkboxen.png)

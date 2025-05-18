@@ -12,15 +12,15 @@ You can not only use shared data records in the respective group in which you cr
 
 ## Sharing a common data record with another group
 
-![Sharing a common data record with another group](https://seatable.io/wp-content/uploads/2022/11/overview-common-datasets.png)
+![Sharing a common data record with another group](images/overview-common-datasets.png)
 
-![Sharing a common data record with another group](https://seatable.io/wp-content/uploads/2022/11/release-a-common-dataset-to-a-external-group-2.gif) 3. Open the **home** page of SeaTable. 4. Click on the **Shared record** tab. 5. Select the shared data record that you want to **share** with another group. 6. Click on the **three dots** to the right of the corresponding data record and then on **Manage access**. 7. Select a **group** to which the record should be released. 8. Confirm the release by clicking on **Add**.
+![Sharing a common data record with another group](images/release-a-common-dataset-to-a-external-group-2.gif) 3. Open the **home** page of SeaTable. 4. Click on the **Shared record** tab. 5. Select the shared data record that you want to **share** with another group. 6. Click on the **three dots** to the right of the corresponding data record and then on **Manage access**. 7. Select a **group** to which the record should be released. 8. Confirm the release by clicking on **Add**.
 
 ## Dissolve release
 
 To **cancel** the release of a shared data record to another group, simply follow the steps above again and click **Delete** next to the corresponding group in the access authorizations.
 
-![Resolve release of a shared record to another group.](https://seatable.io/wp-content/uploads/2022/11/cancel-the-release-of-a-common-dataset-to-an-external-group.png)
+![Resolve release of a shared record to another group.](images/cancel-the-release-of-a-common-dataset-to-an-external-group.png)
 
 ### Consequences of the dissolution
 

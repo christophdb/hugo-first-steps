@@ -24,4 +24,4 @@ En SeaTable, tiene la opción de añadir **columnas de casillas de** verificaci�
 
 ¿No te gusta el **tick verde** por defecto? No hay problema. Tienes 70 opciones de estilo diferentes para rellenar tus casillas de verificación como quieras.
 
-![Opciones de estilo para las casillas de verificación](https://seatable.io/wp-content/uploads/2022/11/Stiloptionen-bei-Checkboxen.png)
+![Opciones de estilo para las casillas de verificación](images/Stiloptionen-bei-Checkboxen.png)

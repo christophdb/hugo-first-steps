@@ -16,11 +16,11 @@ Mit der **Rollup-Formel** ist es möglich, Relationen zwischen Zahlenwerten zu e
 
 Zunächst brauchen Sie eine Spalte des Typs [Verknüpfung zu anderen Einträgen]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Stellen Sie dabei sicher, dass die Option **Verknüpfungen zu mehreren Zeilen erlauben** aktiviert ist, denn nur so können Sie Relationen zwischen Zahlen bestimmen.
 
-![Die Rollup-Formel](https://seatable.io/wp-content/uploads/2022/11/rollup-1.png)
+![Die Rollup-Formel](images/rollup-1.png)
 
 Die Spalte **Formel für Verlinkung** zeigt Ihnen dann mithilfe der Rollup-Formel die ausgewählte Relation der Zahlenwerte innerhalb der Verknüpfungsspalte an. In diesem Beispiel haben wir die Auswertungsmethode **Summe** gewählt:
 
-![Die Rollup-Formel](https://seatable.io/wp-content/uploads/2022/11/rollup-2-1.png)
+![Die Rollup-Formel](images/rollup-2-1.png)
 
 ## Eine Tabellenverknüpfung hinzufügen
 
@@ -30,7 +30,7 @@ Die Verwendung der Rollup-Formel ergibt nur Sinn, wenn Sie die Option **Verknüp
 
 ## Eine Spalte mit der Rollup-Formel anlegen
 
-![Die Rollup-Formel.](https://seatable.io/wp-content/uploads/2022/11/rollup-Formel.gif)
+![Die Rollup-Formel.](images/rollup-Formel.gif)
 
 1. Erstellen Sie eine neue Spalte des Typs **Formel für Verknüpfungen**.
 2. Legen Sie als Formel die Option **Rollup** fest.

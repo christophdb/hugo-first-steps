@@ -82,7 +82,7 @@ The **page elements** offer you the possibility to design **standardized layouts
 
 You activate an element by **dragging and dro** pping the respective field into the page. After that, you can also move the element on the page by clicking and dragging it with the mouse.
 
-![Enable static image](https://seatable.io/wp-content/uploads/2022/11/Statisches-Bild-aktivieren-1.gif)
+![Enable static image](images/Statisches-Bild-aktivieren-1.gif)
 
 ## Selecting and setting the elements
 
@@ -104,7 +104,7 @@ As [table fields](https://seatable.io/en/docs/seitendesign-plugin/tabellenfelder
 
 You also have two **view elements** to choose from. The **All View Entries** element allows you to embed the entire table section defined under the view into the page. The **view name** contains only the name of the selected view.
 
-![View elements](https://seatable.io/wp-content/uploads/2022/11/Ansichtselemente.png)
+![View elements](images/Ansichtselemente.png)
 
 ## Header and footer
 

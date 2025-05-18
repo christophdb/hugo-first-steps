@@ -22,7 +22,7 @@ With the help of automations, you no longer have to manually lock rows in your t
 4. Define a **trigger event that triggers** the automation.
 5. Click **Add Action** and select **Lock Entry** as the automated action.
 
-![Selection of the automated action: "Lock entry".](https://seatable.io/wp-content/uploads/2022/12/lock-record.png)
+![Selection of the automated action: "Lock entry".](images/lock-record.png)
 
 7. Confirm with **Submit**.
 
@@ -40,19 +40,19 @@ The automated action **Lock entry** is only available for the following trigger 
 
 For example, if you want to**lock** any row in one of your tables where a certain entry reaches a specific **value**, define the event: **Entries meet certain conditions after editing** as the automation trigger.
 
-![Definition of the automation trigger event](https://seatable.io/wp-content/uploads/2022/12/trigger-example-1.png)
+![Definition of the automation trigger event](images/trigger-example-1.png)
 
 Then set the **value** and the **column** in which it must be reached.
 
-![Definition of the automation trigger event](https://seatable.io/wp-content/uploads/2022/12/trigger-example-2.png)
+![Definition of the automation trigger event](images/trigger-example-2.png)
 
 Finally, set **Lock Entry** as the automated action.
 
-![Definition of the automated action](https://seatable.io/wp-content/uploads/2022/12/automated-action-example.png)
+![Definition of the automated action](images/automated-action-example.png)
 
 From this moment on, the created automation will lock **all rows** where **entries** change in such a way that they fulfill the automation rule.
 
-![Defined automated action: "Lock entry".](https://seatable.io/wp-content/uploads/2022/12/automated-action-example-2.png)
+![Defined automated action: "Lock entry".](images/automated-action-example-2.png)
 
 {{< warning  headline="Please note"  text="With an automation you can only lock the rows in which the trigger of the automation has occurred. An automation rule according to the scheme **Event in row X triggers blocking of row Y** is not possible." />}}
 

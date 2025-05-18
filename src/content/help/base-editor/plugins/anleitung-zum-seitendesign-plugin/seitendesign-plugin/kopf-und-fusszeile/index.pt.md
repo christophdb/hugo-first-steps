@@ -16,7 +16,7 @@ Pode inserir **cabeçalhos e rodapés** como áreas especiais numa página e pre
 
 Só se pode variar a **altura dos** cabeçalhos e rodapés, uma vez que estes se estendem sempre por **toda a largura da página**. No campo **Altura**, introduzir o valor numérico desejado ou alterá-lo utilizando as **teclas de setas** ou rolar com a **roda do rato**.
 
-![Ajuste da altura do cabeçalho e do rodapé.](https://seatable.io/wp-content/uploads/2022/11/Einstellungen-Kopfzeile-3.gif)
+![Ajuste da altura do cabeçalho e do rodapé.](images/Einstellungen-Kopfzeile-3.gif)
 
 Em alternativa, pode alterar a altura directamente na página, **clicando com o botão direito** no cabeçalho ou no rodapé e **arrastando** o pequeno **quadrado** no canto inferior direito da moldura.
 
@@ -42,4 +42,4 @@ Pode inserir os seguintes elementos em cabeçalhos e rodapés:
 
 Pode **bloquear** ou **apagar** cabeçalhos e rodapés, seleccionando a respectiva opção. Se bloquear um cabeçalho ou rodapé, **todos os elementos** que tenha inserido anteriormente nesta área são também bloqueados. O mesmo se aplica à eliminação, pela qual também se eliminam todos os elementos de um cabeçalho ou rodapé de página.
 
-![Bloqueio e eliminação com o plug-in de página](https://seatable.io/wp-content/uploads/2022/11/sperren-und-loeschen-1.png)
+![Bloqueio e eliminação com o plug-in de página](images/sperren-und-loeschen-1.png)

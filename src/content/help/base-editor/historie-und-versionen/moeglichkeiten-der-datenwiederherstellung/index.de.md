@@ -37,7 +37,7 @@ Mehr dazu erfahren Sie im Artikel [Tabellen, Zeilen und Spalten aus dem Papierko
 
 Sie erreichen den Base-Papierkorb per Klick auf das Versionen-Icon in der rechten oberen Ecke. In diesem Drop-down-Menü finden Sie auch noch andere Wiederherstellungsoptionen, die weiter unten erläutert werden.
 
-![Wiederherstellung einzelner Zeilen](https://seatable.io/wp-content/uploads/2021/10/Trash-Versionierung.png)
+![Wiederherstellung einzelner Zeilen](images/Trash-Versionierung.png)
 
 ## 3\. Aktionen rückgängig machen
 

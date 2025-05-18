@@ -35,7 +35,7 @@ Puede llamar la atención de los miembros del equipo sobre su comentario ponién
 
 En la primera columna de la tabla aparece, para las líneas comentadas, un **icono en forma de bocadillo** con un número que indica el **número de comentarios** en los últimos 180 días. Haz clic en el icono para abrir la ventana de comentarios con el historial del chat.
 
-![Muestra los comentarios dentro de una línea.](https://seatable.io/wp-content/uploads/2022/11/kommentar-blase.png)
+![Muestra los comentarios dentro de una línea.](images/kommentar-blase.png)
 
 {{< warning  headline="Nota"  text="Si nadie escribe un nuevo comentario en una fila durante **180 días**, el **icono del globo de diálogo** vuelve a **desaparecer**. Los comentarios se conservan y aún pueden consultarse a través de los **detalles de la** fila, pero ya no es visible en la tabla que esta fila fue comentada anteriormente." />}}
 
@@ -43,7 +43,7 @@ En la primera columna de la tabla aparece, para las líneas comentadas, un **ico
 
 Sólo el propio **creador** puede **borrar** sus comentarios o **marcarlos como hechos.** Para ello, haga clic en los **tres puntos** a la derecha del comentario y seleccione la opción deseada. Los comentarios marcados como hechos se indican con un color verde.
 
-![](https://seatable.io/wp-content/uploads/2022/11/Kommentare-als-erledigt-markieren-1.png)
+![](images/Kommentare-als-erledigt-markieren-1.png)
 
 ## Añadir imágenes a un comentario
 

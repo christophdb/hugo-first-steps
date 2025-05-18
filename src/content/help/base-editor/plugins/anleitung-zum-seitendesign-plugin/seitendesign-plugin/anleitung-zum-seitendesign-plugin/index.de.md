@@ -68,7 +68,7 @@ Die **Seitenelemente** bieten Ihnen die Möglichkeit, **standardisierte Layouts*
 
 Sie aktivieren ein Element, indem Sie das jeweilige Feld **per Drag-and-Drop** in die Seite einbetten. Danach können Sie das Element ebenso auf der Seite verschieben, indem Sie es mit der Maus anklicken und ziehen.
 
-![Statisches Bild aktivieren](https://seatable.io/wp-content/uploads/2022/11/Statisches-Bild-aktivieren-1.gif)
+![Statisches Bild aktivieren](images/Statisches-Bild-aktivieren-1.gif)
 
 ## Auswählen und Einstellen der Elemente
 
@@ -90,7 +90,7 @@ Als [Tabellenfelder](https://seatable.io/docs/seitendesign-plugin/tabellenfelder
 
 Außerdem haben Sie zwei **Ansichtselemente** zur Auswahl. Das Element **Alle Einträge der Ansicht** erlaubt es Ihnen, den gesamten Tabellenausschnitt, der unter der Ansicht definiert wurde, in die Seite einzubetten. Der **Ansichtsname** enthält nur den Namen der ausgewählten Ansicht.
 
-![Ansichtselemente](https://seatable.io/wp-content/uploads/2022/11/Ansichtselemente.png)
+![Ansichtselemente](images/Ansichtselemente.png)
 
 ## Kopf- und Fußzeile
 

@@ -39,7 +39,7 @@ Vous avez **deux** possibilités pour partager des tables et des vues individuel
 
 ### Via l'icône de partage dans la base
 
-![Partage de feuilles de calcul individuelles à partir de la page d'accueil](https://seatable.io/wp-content/uploads/2022/11/share-single-tablesheets-from-the-base-options.png)
+![Partage de feuilles de calcul individuelles à partir de la page d'accueil](images/share-single-tablesheets-from-the-base-options.png)
 
 1. Ouvrez la **base** à partir de laquelle vous souhaitez partager des tables ou des vues individuelles.
 2. Cliquez en haut à droite dans les **options de la base** sur **Partager** {{< seatable-icon icon="dtable-icon-share" >}}.
@@ -54,7 +54,7 @@ L'autorisation de partage créée est maintenant disponible comme option sous **
 3. Dans le champ **Droits**, vous pouvez maintenant sélectionner l'**autorisation de partage** créée précédemment sous le nom correspondant.
 4. Confirmez la validation en cliquant sur **Envoyer**.
 
-![Partager des feuilles de calcul individuelles d'une base](https://seatable.io/wp-content/uploads/2022/11/share-sinlge-table-sheets-to-a-group-1.gif)
+![Partager des feuilles de calcul individuelles d'une base](images/share-sinlge-table-sheets-to-a-group-1.gif)
 
 Vous trouverez dans les articles suivants des explications détaillées sur les points à prendre en compte lors de partages avec des utilisateurs ou des groupes :
 
@@ -65,15 +65,15 @@ Vous trouverez dans les articles suivants des explications détaillées sur les 
 
 Les tableaux et vues partagés se trouvent dans l'**espace de travail** du groupe ou de l'utilisateur sur la **page d'accueil**. Ils sont toujours affichés avec la mention **Partagé**.
 
-![Feuilles de calcul individuelles d'une base partagées avec un groupe](https://seatable.io/wp-content/uploads/2022/11/how-shared-single-table-sheets-are-marked.png)
+![Feuilles de calcul individuelles d'une base partagées avec un groupe](images/how-shared-single-table-sheets-are-marked.png)
 
 Les tableaux et les vues en **lecture** **seule** sont donc visibles et **ne** peuvent **pas** être modifiés. Si vous cliquez dans le tableau, rien ne se passe :
 
-![Feuille de calcul unique partagée en lecture seule avec un groupe](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-only-read.gif)
+![Feuille de calcul unique partagée en lecture seule avec un groupe](images/shared-table-pages-only-read.gif)
 
 En revanche, vous pouvez à la fois consulter et **modifier** les tableaux et les vues qui sont partagés en **lecture et en écriture**. Vos modifications sont visibles pour tous les utilisateurs ayant accès au tableau :
 
-![Feuille de calcul unique partagée en lecture et en écriture avec un groupe](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-read-and-write.gif)
+![Feuille de calcul unique partagée en lecture et en écriture avec un groupe](images/shared-table-pages-read-and-write.gif)
 
 {{< warning  headline="Attention"  text="Veuillez noter que les **modifications apportées** par d'autres utilisateurs (disposant de droits d'écriture) dans les tableaux ou les vues que vous partagez seront également **répercutées** chez vous." />}}
 

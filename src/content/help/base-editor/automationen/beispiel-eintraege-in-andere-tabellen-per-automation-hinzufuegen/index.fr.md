@@ -12,7 +12,7 @@ Grâce à l'automatisation, vous ne devez plus effectuer manuellement des entré
 
 ## Ajouter des entrées dans d'autres tableaux par automatisation
 
-![Ajouter des entrées dans d'autres tableaux par automatisation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Ajouter des entrées dans d'autres tableaux par automatisation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
 2. Cliquez sur **Ajouter une règle**.
@@ -26,7 +26,7 @@ Grâce à l'automatisation, vous ne devez plus effectuer manuellement des entré
 
 Définissez un **événement déclencheur** pour l'automatisation, après avoir d'abord déterminé dans quelle **table** et quelle **vue** il se produira.
 
-![Événements déclencheurs à choisir en principe](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Événements déclencheurs à choisir en principe](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Remarque importante" >}}
 

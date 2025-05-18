@@ -16,7 +16,7 @@ If you name tables with matching **emojis** instead of terms, the **width of the
 
 How about, for example, symbols for job interviews (e.g. speech bubble), vacation requests (e.g. smiley face with sunglasses) and payslips (e.g. money bag) for the base of an HR department?
 
-![Table names with emojis](https://seatable.io/wp-content/uploads/2022/12/Tabellennamen-mit-Emojis.png)
+![Table names with emojis](images/Tabellennamen-mit-Emojis.png)
 
 Just try it out! Copy an **emoji** that matches your table and insert it into the **table name**.
 
@@ -24,7 +24,7 @@ Just try it out! Copy an **emoji** that matches your table and insert it into th
 
 ## Rename table and insert emoji
 
-![Rename table and insert emoji](https://seatable.io/wp-content/uploads/2022/12/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
+![Rename table and insert emoji](images/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
 
 - Click on the **drop-down arrow** to the right of the table name you want to change.
 - In the drop-down menu that opens, click on **Rename table**.
@@ -36,7 +36,7 @@ Just try it out! Copy an **emoji** that matches your table and insert it into th
 
 ## Add new table with emoji
 
-![Add new table with emoji](https://seatable.io/wp-content/uploads/2022/12/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
+![Add new table with emoji](images/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
 
 - Click on the **plus symbol** to the right of the last table tab.
 - In the drop-down menu that opens, click **Add table**.

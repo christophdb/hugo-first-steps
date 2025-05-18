@@ -14,7 +14,7 @@ Wenn Sie die mit dem gemeinsamen Datensatz verknüpften Tabellen auf den neueste
 
 ## Manuelle Synchronisation mit einem gemeinsamen Datensatz
 
-![Synchronisation eines gemeinsamen Datensatzes](https://seatable.io/wp-content/uploads/2022/11/Synchronisation-eines-gemeinsamen-Datensatez.png)
+![Synchronisation eines gemeinsamen Datensatzes](images/Synchronisation-eines-gemeinsamen-Datensatez.png)
 
 1. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Namen einer Tabelle, die mit einem gemeinsamen Datensatz erstellt wurde.
 2. Klicken Sie auf **Mit Datensatz synchronisieren**.
@@ -24,18 +24,18 @@ Wenn Sie die mit dem gemeinsamen Datensatz verknüpften Tabellen auf den neueste
 
 Bei einer erfolgreichen Synchronisation erscheint folgende Meldung:
 
-![Meldung bei einer erfolgreichen Synchronisation eines gemeinsamen Datensatzes](https://seatable.io/wp-content/uploads/2022/11/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+![Meldung bei einer erfolgreichen Synchronisation eines gemeinsamen Datensatzes](images/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
 ## Periodische Synchronisation mit einem gemeinsamen Datensatz
 
-![Synchronisation eines gemeinsamen Datensatzes](https://seatable.io/wp-content/uploads/2022/11/Synchronisation-2.0.png)
+![Synchronisation eines gemeinsamen Datensatzes](images/Synchronisation-2.0.png)
 
 1. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Namen einer Tabelle, die mit einem gemeinsamen Datensatz erstellt wurde.
 2. Klicken Sie auf **Mit Datensatz synchronisieren**.
 3. Klicken Sie auf den Schalter **Automatische Synchronisation aktivieren**.
 4. Wählen Sie aus, ob die automatische Synchronisation **täglich** oder **stündlich** durchgeführt werden soll.
 
-![Periodische Synchronisation eines gemeinsamen Datensatzes](https://seatable.io/wp-content/uploads/2022/11/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+![Periodische Synchronisation eines gemeinsamen Datensatzes](images/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
 ### Einschränkungen der periodischen Synchronisation
 

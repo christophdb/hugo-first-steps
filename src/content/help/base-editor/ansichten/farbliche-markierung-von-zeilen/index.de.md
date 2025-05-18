@@ -14,7 +14,7 @@ Mithilfe des **Zeilen-formatieren-Werkzeugs** können Sie farbliche Markierungen
 
 In den Ansichtsoptionen über einer Tabelle finden Sie folgendes Symbol:
 
-![Farbliches Makierungs Werkzeug](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-1.png)
+![Farbliches Makierungs Werkzeug](images/Farbliche-Markierung-von-Zellen-1.png)
 
 Nach einem Klick auf das Zeilen-formatieren-Werkzeug können Sie zwischen **drei Optionen** für die farbliche Markierung wählen:
 
@@ -22,13 +22,13 @@ Nach einem Klick auf das Zeilen-formatieren-Werkzeug können Sie zwischen **drei
 - Regeln verwenden
 - Duplikate hervorheben
 
-![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-2.png)
+![Farbliche Markierung von Zellen](images/Farbliche-Markierung-von-Zellen-2.png)
 
 ## Einfachauswahl-Spalte verwenden
 
 Für die Option **Einfachauswahl-Spalte verwenden** benötigen Sie in Ihrer Tabelle eine Spalte dieses Typs. So können Sie jede Zeile am **Zeilenanfang** mit der Farbe der jeweiligen Option markieren, die in dieser Spalte eingetragen ist.
 
-![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-3.png)
+![Farbliche Markierung von Zellen](images/Farbliche-Markierung-von-Zellen-3.png)
 
 {{< warning  headline="Anlegen einer Einfachauswahlspalte"  text="Erfahren Sie [hier](\"https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/\"), wie Sie neue Einfachauswahlspalten anlegen." />}}
 
@@ -37,11 +37,11 @@ Für die Option **Einfachauswahl-Spalte verwenden** benötigen Sie in Ihrer Tabe
 Die Option **Regeln verwenden** erlaubt es Ihnen, Bedingungen für die farbliche Markierung festzulegen.
 
 - Klicken Sie auf das **farbig hinterlegte Dreieck-Symbol**, um die Farbe der Markierung zu ändern.
-  ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
+  ![Farbliche Markierung von Zellen](images/Farbliche-Markierung-von-Zellen-5.png)
 - Legen Sie fest, auf welche Ihrer **Spalten** sich die Bedingung beziehen soll.
-  ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
+  ![Farbliche Markierung von Zellen](images/Farbliche-Markierung-von-Zellen-6.png)
 - Entscheiden Sie sich für die **Art der Bedingung**.
-  ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
+  ![Farbliche Markierung von Zellen](images/Farbliche-Markierung-von-Zellen-7.png)
 
 {{< warning  headline="Auswahl der Bedingungsarten abhängig vom Spaltentyp"  text="Bitte beachten Sie, dass vom Typ der ausgewählten Spalte abhängt, welche Optionen Sie bei den Bedingungen zur Auswahl haben." />}}
 
@@ -49,16 +49,16 @@ Die Option **Regeln verwenden** erlaubt es Ihnen, Bedingungen für die farbliche
 
 In diesem Beispiel sollen alle Zeilen in einem Redaktionsplan markiert werden, die in der [Checkbox-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) als erledigt markiert sind. Hierfür wurde die **Spalte "Published"** ausgewählt, die Bedingung **"ist"** verwendet und festgelegt, dass die **mit einem Haken versehenen** Zeilen markiert werden sollen.
 
-![Farbliche Markierung von Zeilen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-9.png)
+![Farbliche Markierung von Zeilen](images/Farbliche-Markierung-von-Zellen-9.png)
 
 ### Beispiel für eine Regel mit mehreren Bedingungen
 
 In diesem Beispiel möchten wir nur Zeilen des Redaktionsplans farblich hervorheben, wenn der **Status** des Posts nicht "fertig" ist, das **Veröffentlichungsdatum** in der Zukunft liegt und bereits ein **Bild** vorhanden ist.
 
-![Regel mit mehreren Bedingungen für die farbliche Zeilenmarkierung](https://seatable.io/wp-content/uploads/2022/11/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Regel mit mehreren Bedingungen für die farbliche Zeilenmarkierung](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 ## Duplikate hervorheben
 
 Zeilen mit einem oder mehreren identischen Spaltenwerten können Sie mit der Option **Duplikate hervorheben** farblich markieren. Wählen Sie hierzu die Spalte aus, die Sie auf Duplikate prüfen möchten. So können Sie Duplikate in Ihrer Tabelle leicht identifizieren und ggf. korrigieren oder löschen.
 
-![Farbliche Markierung von Zellen-Duplikate hervorheben](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-9-1.png)
+![Farbliche Markierung von Zellen-Duplikate hervorheben](images/Farbliche-Markierung-von-Zellen-9-1.png)

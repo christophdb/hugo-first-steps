@@ -12,7 +12,7 @@ url: '/es/ayuda/einzelne-tabellenblaetter-einer-base-freigeben'
 
 ## Compartir mesas individuales a través de la página de inicio
 
-![Liberación de hojas de cálculo individuales desde la página de inicio](https://seatable.io/wp-content/uploads/2022/11/share-single-tablesheets-from-the-start-page.png)
+![Liberación de hojas de cálculo individuales desde la página de inicio](images/share-single-tablesheets-from-the-start-page.png)
 
 1. Cambie a la página de **inicio** de SeaTable.
 2. Mueva el ratón sobre la **base** de la que desea liberar tablas individuales.
@@ -22,7 +22,7 @@ url: '/es/ayuda/einzelne-tabellenblaetter-einer-base-freigeben'
 
 ## Liberación dentro de la base
 
-![Liberación dentro de la base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Liberación dentro de la base](images/share-a-base.png)
 
 Si te encuentras **en una** base, también puedes crear una acción sin tener que cambiar a la página de inicio. Para ello, haga clic en el **icono** de compartir {{< seatable-icon icon="dtable-icon-share" >}} en la parte superior derecha de **las opciones de** la base. La ventana que se abre para crear una acción es la misma que en la página de inicio.
 

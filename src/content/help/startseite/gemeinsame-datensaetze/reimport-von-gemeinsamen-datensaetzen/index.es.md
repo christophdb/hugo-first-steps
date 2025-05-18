@@ -24,7 +24,7 @@ Si se [copian](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-
 
 Puede reconocer que la tabla está vinculada de nuevo al registro de datos compartidos por el **símbolo de pila** en la pestaña de la tabla.
 
-![Icono delante del nombre de las tablas de un conjunto de datos común.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset.png)
+![Icono delante del nombre de las tablas de un conjunto de datos común.](images/icon-table-common-dataset.png)
 
 ## Consecuencias de la reimportación
 

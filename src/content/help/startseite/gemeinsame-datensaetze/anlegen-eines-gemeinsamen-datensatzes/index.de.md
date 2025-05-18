@@ -16,7 +16,7 @@ In jeder zu einer Gruppe gehörenden Base können Sie eine Tabellenansicht als *
 
 ## Anlegen eines gemeinsamen Datensatzes
 
-![Anlegen eines gemeinsamen Datensatzes](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-5.png) ![Anlegen eines gemeinsamen Datensatzes](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-2-1.png)
+![Anlegen eines gemeinsamen Datensatzes](images/create-a-common-dataset-5.png) ![Anlegen eines gemeinsamen Datensatzes](images/create-a-common-dataset-2-1.png)
 
 1. Öffnen Sie eine beliebige **Tabellenansicht** in einer Base, die zu einer Ihrer Gruppen gehört.
 2. Klicken Sie auf die **drei Punkte**.

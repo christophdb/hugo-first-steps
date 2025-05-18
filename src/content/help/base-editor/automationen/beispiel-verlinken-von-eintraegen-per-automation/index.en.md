@@ -12,7 +12,7 @@ With the help of automations, you no longer have to link entries in your tables 
 
 ## Linking entries via automation
 
-![rows Locking and archiving with automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![rows Locking and archiving with automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. In the Base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
 2. Click **Add Rule**.
@@ -25,7 +25,7 @@ With the help of automations, you no longer have to link entries in your tables 
 
 First define a **trigger event** for the automation.
 
-![Trigger events for blocking and archiving of rows](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Trigger events for blocking and archiving of rows](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Important note" >}}
 

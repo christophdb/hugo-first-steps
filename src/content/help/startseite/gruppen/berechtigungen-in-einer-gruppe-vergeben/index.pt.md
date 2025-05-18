@@ -18,15 +18,15 @@ Dentro de um grupo SeaTable, pode atribuir permissões, atribuindo um papel espe
 2. Clique no **símbolo do triângulo** à direita do nome do grupo para o qual pretende atribuir permissões.
 3. Ir para **Gerir Membros**.
 
-![Gerir membros](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg)
+![Gerir membros](images/manage-members.jpg)
 
 5. Para editar, clicar no **ícone do lápis** à direita do papel actual do respectivo membro do grupo.
 
-![Clique no ícone de lápis junto a qualquer membro do grupo.](https://seatable.io/wp-content/uploads/2022/09/click-edit-symbol.jpg)
+![Clique no ícone de lápis junto a qualquer membro do grupo.](images/click-edit-symbol.jpg)
 
 7. Seleccione a **função** que pretende atribuir ao respectivo utilizador clicando na caixa de selecção.
 8. Confirme a sua selecção clicando no campo **Fechar**.
 
-![Seleção e confirmação de funções](https://seatable.io/wp-content/uploads/2022/09/change-authorization-and-close.jpg)
+![Seleção e confirmação de funções](images/change-authorization-and-close.jpg)
 
 {{< warning  headline="Nota importante"  text="Se já não tiver a certeza de qual dos três papéis tem quais as permissões, este [quadro sobre as permissões dos papéis](https://seatable.io/pt/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/) ajudá-lo-á." />}}

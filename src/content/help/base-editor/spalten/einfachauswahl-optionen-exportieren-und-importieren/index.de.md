@@ -12,7 +12,7 @@ Die Optionen, die Sie in Einfach- oder Mehrfach-Auswahlspalten zur Verfügung ha
 
 ## Optionen aus einer Auswahlspalte exportieren
 
-![Einfachauswahl-Optionen exportieren](https://seatable.io/wp-content/uploads/2022/11/export-options-of-a-single-select-column-new-1.png)
+![Einfachauswahl-Optionen exportieren](images/export-options-of-a-single-select-column-new-1.png)
 
 1. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Namen einer beliebigen Einfach- oder Mehrfach-Auswahlspalte.
 2. Wählen Sie **Einfachauswahl bearbeiten** bzw. **Mehrfachauswahl bearbeiten**.
@@ -22,7 +22,7 @@ Die Optionen werden nun als JSON-Datei **exportiert**. Je nach Browser-Einstellu
 
 ## Exportierte Optionen in eine Auswahlspalte importieren
 
-![Exportierte Optionen in eine neue Einfachauswahl-Spalte importieren](https://seatable.io/wp-content/uploads/2022/11/import-options-of-a-single-select-column-new-3.png)
+![Exportierte Optionen in eine neue Einfachauswahl-Spalte importieren](images/import-options-of-a-single-select-column-new-3.png)
 
 1. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Namen einer beliebigen Einfach- oder Mehrfach-Auswahlspalte, in die Sie Optionen importieren möchten.
 2. Wählen Sie **Einfachauswahl bearbeiten** bzw. **Mehrfachauswahl bearbeiten**.

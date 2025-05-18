@@ -23,7 +23,7 @@ Pour chaque [application universelle](https://seatable.io/fr/docs/apps/universel
 
 6. Cliquez sur l'**icône de la palette** en haut à gauche de la page.
 
-![Icône de palette pour les paramètres de design d'une application](https://seatable.io/wp-content/uploads/2024/12/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
+![Icône de palette pour les paramètres de design d'une application](images/Palette-Symbol-fuer-Design-Einstellungen-einer-App.png)
 
 8. Effectuez les ajustements souhaités sur les **paramètres visuels (mode, couleur et icône)** de l'application universelle.
 
@@ -47,4 +47,4 @@ Les paramètres mentionnés jusqu'ici concernent l'**ensemble** d'une **applicat
 
 Actuellement, c'est surtout la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) qui offre de nombreux autres paramètres de design. Par exemple, vous pouvez définir différentes couleurs pour les arrière-plans, les polices, les lignes et les cadres des éléments. Utilisez pour cela le **Color Picker** pratique.
 
-![Color Picker dans l'application universelle](https://seatable.io/wp-content/uploads/2024/12/Color-Picker-in-der-Universellen-App.png)
+![Color Picker dans l'application universelle](images/Color-Picker-in-der-Universellen-App.png)

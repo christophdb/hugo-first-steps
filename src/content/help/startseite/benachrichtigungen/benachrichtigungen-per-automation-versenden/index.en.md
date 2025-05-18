@@ -14,7 +14,7 @@ If you have an Enterprise subscription, you can also send notifications to selec
 
 ## Send notifications via automation
 
-![Send emails via automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Send emails via automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. In the Base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
 2. Click **Add Rule**.
@@ -27,7 +27,7 @@ If you have an Enterprise subscription, you can also send notifications to selec
 
 First define a **trigger event** for the automation.
 
-![Trigger events basically available for selection](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Trigger events basically available for selection](images/trigger-options-for-archivating-rows.png)
 
 The **four options** are:
 
@@ -38,7 +38,7 @@ The **four options** are:
 
 Then select **Send notification** as the automated action. This is available as an action for all four trigger options.
 
-![Adding the automated action](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png)  
+![Adding the automated action](images/add-an-action.png)  
 ![Adding the automated action](images/send-notification.png)
 
 In the next step, you select the **users** to be notified when the trigger event occurs. Note that you can only select users who have at least **read access to** the table or view.

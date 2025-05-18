@@ -21,7 +21,7 @@ Para poder criar uma nova tabela numa base com um registo de dados partilhado, a
 
 ## Criar uma nova mesa com um registo comum
 
-![Criar uma nova mesa com um registo comum](https://seatable.io/wp-content/uploads/2022/11/image-how-to-create-a-new-table-with-a-common-dataset.png)
+![Criar uma nova mesa com um registo comum](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
 
 1. Abrir uma **mesa** que se encontre numa base que cumpra um dos **requisitos** acima descritos.
 2. Clique no **símbolo \[+\]** para criar uma nova tabela.
@@ -37,11 +37,11 @@ Se a **importação** do conjunto de dados comum for **bem sucedida**, aparece a
 
 As tabelas criadas com um registo de dados partilhados podem ser distinguidas das outras tabelas pelo **símbolo de pilha** à frente do nome da tabela. Se passar o ponteiro do rato sobre o ícone, um pequeno **texto informativo** também indica que a tabela foi criada com um registo de dados partilhado.
 
-![Ícone em frente do nome de tabelas de um conjunto de dados comum.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset-1.png)
+![Ícone em frente do nome de tabelas de um conjunto de dados comum.](images/icon-table-common-dataset-1.png)
 
 Outra caraterística é o **carácter** no ícone das colunas que contêm dados de um conjunto de dados **partilhado**. As colunas da tabela que **não** contêm dados de um registo de dados partilhado **não** têm, por isso, esta etiqueta no ícone da coluna.
 
-![Coluna de um conjunto de dados comum (esquerda) e coluna regular (direita)](https://seatable.io/wp-content/uploads/2022/11/icons-of-the-column-of-a-common-dataset-2.png)
+![Coluna de um conjunto de dados comum (esquerda) e coluna regular (direita)](images/icons-of-the-column-of-a-common-dataset-2.png)
 
 ## Consequências para o processamento de dados
 

@@ -16,7 +16,7 @@ Pour vérifier la **bonne exécution d'une automatisation**, vous avez la possib
 
 ## Pour jeter un coup d'œil au journal d'exécution
 
-![Afficher le journal d'exécution](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Afficher le journal d'exécution](images/open-an-automation-log.png)
 
 1. Cliquez sur {{< seatable-icon icon="dtable-icon-rule" >}} dans l'en-tête de base, puis sur **Règles d'automatisation**.
 2. Passez le curseur de la souris sur la **règle d'automatisation** dont vous souhaitez consulter le log.
@@ -24,7 +24,7 @@ Pour vérifier la **bonne exécution d'une automatisation**, vous avez la possib
 
 ## Structure du journal d'exécution
 
-![Structure d'un journal de bord](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Structure d'un journal de bord](images/structure-of-an-automation-log-newest.png)
 
 Vous pouvez consulter les informations suivantes dans le journal d'exécution d'une automatisation :
 

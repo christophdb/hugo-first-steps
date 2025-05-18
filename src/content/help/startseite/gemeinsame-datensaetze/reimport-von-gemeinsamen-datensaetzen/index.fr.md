@@ -24,7 +24,7 @@ Si vous [copiez](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-ein
 
 Vous reconnaissez que le tableau est à nouveau lié à l'enregistrement commun grâce à l'**icône de pile** dans l'onglet du tableau.
 
-![Icône placée devant le nom des tables d'un ensemble de données commun.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset.png)
+![Icône placée devant le nom des tables d'un ensemble de données commun.](images/icon-table-common-dataset.png)
 
 ## Conséquences de la réimportation
 

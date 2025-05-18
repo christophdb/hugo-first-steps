@@ -45,21 +45,21 @@ Le site [Fonctionnement des automatisations](https://seatable.io/fr/docs/arbeite
 
 {{< warning  headline="Remarque importante"  text="L'exemple fictif a pour but d'illustrer le **fonctionnement de base** des automatisations avec une complexité réduite et ne contient donc qu'une quantité de données relativement faible. En principe, les automatisations ont un impact encore plus important dans **des ensembles de données plus volumineux**." />}}
 
-![Exemple de tableau](https://seatable.io/wp-content/uploads/2022/12/example-table-final-version.png)
+![Exemple de tableau](images/example-table-final-version.png)
 
 L'exemple de tableau présenté dans l'image pourrait être utilisé par le service du personnel d'une entreprise pour saisir, outre les **noms** des collaborateurs, leur **statut d'emploi** ainsi que le statut de leur **paiement de salaire**.
 
 Pour la vue tableau, vous créez ensuite une **automatisation** qui doit automatiser une étape de travail. Concrètement, il s'agit d'automatiser le fait qu'en cas de licenciement d'un collaborateur (et donc de modification de l'entrée dans la colonne **Statut d'emploi** de "occupé" à "licencié"), l'entrée dans la colonne **Paiement du salaire** soit adaptée de "actif" à "suspendu".
 
-![Définition de l'événement déclencheur](https://seatable.io/wp-content/uploads/2022/12/create-an-automation-1-1.png)
+![Définition de l'événement déclencheur](images/create-an-automation-1-1.png)
 
 Pour automatiser cette étape du processus, définissez d'abord comme **déclencheur** l'événement "L'entrée remplit certaines conditions après modification". Comme **colonne à contrôler**, vous indiquez la colonne "Statut d'emploi". Comme **condition** concrète pour le déclenchement de l'automatisation, vous définissez que l'entrée dans la colonne correspondante doit être modifiée en "résilié".
 
-![Définition de l'action automatique de l'exemple d'automatisation](https://seatable.io/wp-content/uploads/2022/12/automated-action-of-the-example-automation-2.png)
+![Définition de l'action automatique de l'exemple d'automatisation](images/automated-action-of-the-example-automation-2.png)
 
 Comme **action automatisée**, sélectionnez ensuite l'option **Modifier l'entrée**. Concrètement, après le déclenchement de l'événement déclencheur, l'entrée dans la colonne "Paiement du salaire" doit passer de "actif" à "réglé".
 
-![Exécution de l'exemple d'automatisation](https://seatable.io/wp-content/uploads/2022/12/example-automation-new.gif)
+![Exécution de l'exemple d'automatisation](images/example-automation-new.gif)
 
 Après avoir créé l'automation, la modification apportée manuellement dans la colonne "Statut d'emploi" entraîne **automatiquement** l'**adaptation** souhaitée **de l'entrée** dans la colonne "Paiement du salaire".
 

@@ -16,6 +16,6 @@ Each group in SeaTable has a so-called **workspace ID**. You need this ID to be 
 2. Click **any base of the group** whose **workspace ID** you want to determine.
 3. When the selected Base has opened, you can read the **Workspace ID** at the top of the page **URL**.
 
-![Determine workspace ID of a group](https://seatable.io/wp-content/uploads/2022/09/workspace-id-png.jpg)
+![Determine workspace ID of a group](images/workspace-id-png.jpg)
 
 ## Example for illustration

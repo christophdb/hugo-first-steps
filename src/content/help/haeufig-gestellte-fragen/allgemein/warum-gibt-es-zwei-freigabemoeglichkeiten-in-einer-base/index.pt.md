@@ -18,7 +18,7 @@ Ambas as acções são feitas através do diálogo de **acções** - uma janela 
 
 ## Lançamento de uma base
 
-![Abrir o diálogo de partilha dentro da Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Abrir o diálogo de partilha dentro da Base](images/share-a-base.png)
 
 Se quiser partilhar uma das suas bases, tem uma escolha de opções, dependendo de com quem a quer partilhar:
 

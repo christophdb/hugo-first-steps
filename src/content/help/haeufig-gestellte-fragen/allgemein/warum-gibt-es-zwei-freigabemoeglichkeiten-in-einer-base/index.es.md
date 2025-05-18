@@ -18,7 +18,7 @@ Ambas acciones se realizan a través del diálogo de **compartir**, una ventana 
 
 ## Liberación de una base
 
-![Abrir el diálogo Compartir en Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Abrir el diálogo Compartir en Base](images/share-a-base.png)
 
 Si quieres compartir una de tus bases, tienes varias opciones dependiendo de con quién quieras compartirla:
 

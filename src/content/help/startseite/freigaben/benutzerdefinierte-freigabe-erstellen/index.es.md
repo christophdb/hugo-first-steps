@@ -39,7 +39,7 @@ Hay **dos** formas de liberar tablas y vistas individuales de una base:
 
 ### A través del icono de compartir en Base
 
-![Compartir hojas de cálculo individuales desde la página de inicio](https://seatable.io/wp-content/uploads/2022/11/share-single-tablesheets-from-the-base-options.png)
+![Compartir hojas de cálculo individuales desde la página de inicio](images/share-single-tablesheets-from-the-base-options.png)
 
 1. Abra la **base** desde la que desea compartir tablas o vistas individuales.
 2. En la esquina superior derecha de las **opciones de la Base**, haga clic en **Compartir** {{< seatable-icon icon="dtable-icon-share" >}}.
@@ -54,7 +54,7 @@ La autorización de publicación creada está ahora disponible para su selecció
 3. En el campo **Derechos**, ahora puede seleccionar la **autorización de liberación** creada previamente con el nombre correspondiente.
 4. Confirme la liberación con **Enviar**.
 
-![Liberar hojas de cálculo individuales de una base](https://seatable.io/wp-content/uploads/2022/11/share-sinlge-table-sheets-to-a-group-1.gif)
+![Liberar hojas de cálculo individuales de una base](images/share-sinlge-table-sheets-to-a-group-1.gif)
 
 En los siguientes artículos encontrará explicaciones detalladas sobre lo que debe tener en cuenta a la hora de compartir con usuarios o grupos:
 
@@ -65,15 +65,15 @@ En los siguientes artículos encontrará explicaciones detalladas sobre lo que d
 
 Las tablas y vistas compartidas se encuentran en el **área de trabajo** del grupo o usuario en la página de **inicio**. Estas se muestran siempre con la nota **Compartidas**.
 
-![Hojas de cálculo individuales de una base compartida con un grupo](https://seatable.io/wp-content/uploads/2022/11/how-shared-single-table-sheets-are-marked.png)
+![Hojas de cálculo individuales de una base compartida con un grupo](images/how-shared-single-table-sheets-are-marked.png)
 
 En consecuencia, las tablas y vistas que se liberan exclusivamente para **lectura** **sólo** pueden verse y **no** editarse. Si haces clic en la tabla, no ocurre nada:
 
-![Hoja de cálculo única que se ha liberado a un grupo en modo de sólo lectura](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-only-read.gif)
+![Hoja de cálculo única que se ha liberado a un grupo en modo de sólo lectura](images/shared-table-pages-only-read.gif)
 
 En cambio, las tablas y vistas que se liberan para **lectura y escritura** pueden visualizarse y **editarse**. Sus cambios son visibles para todos los usuarios con acceso a la tabla:
 
-![Hoja de cálculo única que se ha compartido lectura y escritura a un grupo](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-read-and-write.gif)
+![Hoja de cálculo única que se ha compartido lectura y escritura a un grupo](images/shared-table-pages-read-and-write.gif)
 
 {{< warning  headline="Atención"  text="Tenga en cuenta que **los cambios** realizados por otros usuarios (con permiso de escritura) en las tablas o vistas que comparta también se le **aplicarán** a usted." />}}
 

@@ -41,21 +41,21 @@ Wenn Sie mehr über automatisierte Aktionen lernen möchten, lesen Sie den Artik
 
 Die [Funktionsweise von Automationen](https://seatable.io/docs/arbeiten-mit-automationen/funktionsweise-von-automationen/) wird im Folgenden anhand eines Beispiels ausführlicher erläutert. {{< warning  headline="Wichtiger Hinweis"  text="Das fiktive Beispiel soll mit reduzierter Komplexität die **grundlegende Funktionsweise** von Automationen beleuchten und enthält daher nur eine relativ geringe Datenmenge. Grundsätzlich gilt, dass Automationen in **umfangreicheren Datensätzen** eine noch viel größere Wirkung entfalten." />}}
 
-![Beispiel-Tabelle](https://seatable.io/wp-content/uploads/2022/12/example-table-final-version.png)
+![Beispiel-Tabelle](images/example-table-final-version.png)
 
 Die im Bild zu sehende Beispiel-Tabelle könnten Sie in der Personal-Abteilung eines Unternehmens verwenden, um neben den **Namen** von Mitarbeitern deren **Beschäftigungsstatus** sowie den Status ihrer **Gehaltszahlungen** zu erfassen.
 
 Für die Tabellenansicht erstellen Sie anschließend eine **Automation**, die einen Arbeitsschritt automatisieren soll. Konkret soll dabei automatisiert werden, dass im Falle der Kündigung eines Mitarbeiters (und der damit verbundenen Änderung des Eintrags in der Spalte **Beschäftigungsstatus** von "beschäftigt" zu "gekündigt") der Eintrag in der Spalte **Gehaltszahlung** von "aktiv" auf "eingestellt" angepasst wird.
 
-![Definition des Trigger-Ereignisses](https://seatable.io/wp-content/uploads/2022/12/create-an-automation-1-1.png)
+![Definition des Trigger-Ereignisses](images/create-an-automation-1-1.png)
 
 Um diesen Prozessschritt zu automatisieren, definieren Sie als **Trigger** zunächst das Ereignis "Eintrag erfüllt nach Änderung bestimmte Bedingungen". Als **zu überprüfende Spalte** geben Sie die Spalte "Beschäftigungsstatus" an. Als konkrete **Bedingung** für die Auslösung der Automation legen Sie fest, dass der Eintrag in der entsprechenden Spalte zu "gekündigt" geändert werden muss.
 
-![Definition der automatischen Aktion der Beispiel-Automation](https://seatable.io/wp-content/uploads/2022/12/automated-action-of-the-example-automation-2.png)
+![Definition der automatischen Aktion der Beispiel-Automation](images/automated-action-of-the-example-automation-2.png)
 
 Als **automatisierte Aktion** wählen Sie im Anschluss die Option **Eintrag bearbeiten** aus. Konkret soll nach Auslösung des Trigger-Ereignisses der Eintrag in der Spalte "Gehaltszahlung" von "aktiv" zu "eingestellt" geändert werden.
 
-![Ausführung der Beispiel-Automation](https://seatable.io/wp-content/uploads/2022/12/example-automation-new.gif)
+![Ausführung der Beispiel-Automation](images/example-automation-new.gif)
 
 Nachdem Sie die Automation angelegt haben, führt die manuell vorgenommene Änderung in der Spalte "Beschäftigungsstatus" **automatisch** zur gewünschten **Anpassung des Eintrags** in der Spalte "Gehaltszahlung".
 

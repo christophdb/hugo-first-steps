@@ -21,7 +21,7 @@ Pour pouvoir créer une nouvelle table dans une base avec un enregistrement comm
 
 ## Créer une nouvelle table avec un enregistrement commun
 
-![Créer une nouvelle table avec un enregistrement commun](https://seatable.io/wp-content/uploads/2022/11/image-how-to-create-a-new-table-with-a-common-dataset.png)
+![Créer une nouvelle table avec un enregistrement commun](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
 
 1. Ouvrez un **tableau** qui se trouve dans une base qui remplit l'une des **conditions** décrites ci-dessus.
 2. Cliquez sur le **symbole \[+\]** pour créer un nouveau tableau.
@@ -37,11 +37,11 @@ Si l'**importation** de l'ensemble de données commun est **réussie**, le messa
 
 Vous pouvez distinguer les tableaux créés avec un enregistrement commun des autres tableaux grâce à l'**icône de pile** qui se trouve devant le nom du tableau. Si vous déplacez le curseur de la souris sur l'icône, un court **texte d'information** indique que le tableau a été créé avec un enregistrement partagé.
 
-![Icône placée devant le nom des tables d'un ensemble de données commun.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset-1.png)
+![Icône placée devant le nom des tables d'un ensemble de données commun.](images/icon-table-common-dataset-1.png)
 
 Une autre caractéristique est le **signe** qui se trouve sur l'icône des colonnes qui contiennent des données d'un **enregistrement commun**. Les colonnes du tableau qui ne contiennent **pas** de données d'un enregistrement commun ne présentent donc **pas** cette marque sur l'icône de la colonne.
 
-![Colonne d'un ensemble de données commun (à gauche) et colonne régulière (à droite)](https://seatable.io/wp-content/uploads/2022/11/icons-of-the-column-of-a-common-dataset-2.png)
+![Colonne d'un ensemble de données commun (à gauche) et colonne régulière (à droite)](images/icons-of-the-column-of-a-common-dataset-2.png)
 
 ## Conséquences pour le traitement des données
 

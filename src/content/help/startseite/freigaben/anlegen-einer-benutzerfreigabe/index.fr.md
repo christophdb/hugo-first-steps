@@ -24,7 +24,7 @@ Vous pouvez **partager des bases avec d'autres utilisateurs** au sein de votre �
 
 ### Partage au sein de la base
 
-![Partage au sein de la base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Partage au sein de la base](images/share-a-base.png)
 
 Si vous vous trouvez actuellement **dans une base**, vous pouvez également créer un partage sans devoir vous rendre sur la page d'accueil. Pour ce faire, cliquez sur l'**icône de partage** {{< seatable-icon icon="dtable-icon-share" >}} en haut à droite des **options de la base**. La fenêtre qui s'ouvre pour créer un partage est identique à celle de la page d'accueil. Suivez simplement les instructions de clic ci-dessus à partir de l'étape 4.
 

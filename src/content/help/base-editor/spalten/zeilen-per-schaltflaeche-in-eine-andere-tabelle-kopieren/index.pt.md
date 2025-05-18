@@ -26,7 +26,7 @@ Criar duas novas tabelas para as respectivas listas de convidados da festa.
 
 **Sugestão:** Um método simples de adotar a estrutura da tabela original é **duplicar a tabela sem as entradas existentes**.
 
-![Estrutura de tabela duplicada](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Estrutura de tabela duplicada](images/Tabellenstruktur-duplizieren.png)
 
 Nas tabelas vazias, é claro que pode eliminar as colunas que não são necessárias ou adicionar novas colunas numa data posterior.
 

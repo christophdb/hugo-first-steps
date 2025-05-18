@@ -13,12 +13,12 @@ Vous avez besoin d'un tableau dans votre base plusieurs fois sous une forme lég
 1. Dans l'en-tête de la base, vous trouverez en haut à gauche tous les tableaux de la base représentés sous forme d'**onglets**.
 2. Cliquez sur l'**icône déroulante** à côté du **nom du tableau** que vous souhaitez dupliquer.
 
-![Dupliquer la structure du tableau](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Dupliquer la structure du tableau](images/Tabellenstruktur-duplizieren.png)
 
 4. Cliquez sur **Dupliquer le tableau**.
 5. Décidez si le tableau doit être **vide ou** dupliqué **avec des entrées** en activant le curseur.
 
-![Dialogue de la boîte de dialogue : Dupliquer les entrées si la table est dupliquée](https://seatable.io/wp-content/uploads/2024/02/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
+![Dialogue de la boîte de dialogue : Dupliquer les entrées si la table est dupliquée](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
 
 7. Confirmez en cliquant sur **Envoyer**.
 

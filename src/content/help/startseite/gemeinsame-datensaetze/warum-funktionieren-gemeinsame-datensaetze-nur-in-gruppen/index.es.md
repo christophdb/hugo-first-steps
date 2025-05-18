@@ -1,11 +1,11 @@
 ---
-title: "¿Por qué los registros compartidos sólo funcionan en grupo? - Mesa de mar"
+title: '¿Por qué los registros compartidos sólo funcionan en grupo? - Mesa de mar'
 date: 2022-12-15
-lastmod: "2022-12-15"
-categories: 
-  - "gemeinsame-datensaetze"
-author: "nsc2"
-url: "/es/ayuda/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen"
+lastmod: '2022-12-15'
+categories:
+    - 'gemeinsame-datensaetze'
+author: 'nsc2'
+url: '/es/ayuda/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
 ---
 
 Hasta ahora, los conjuntos de datos compartidos **sólo** pueden crearse a partir de vistas de bases de grupos. Esto se debe a una **limitación técnica** que podría eliminarse en una futura versión de SeaTable.
@@ -14,7 +14,7 @@ Hasta ahora, los conjuntos de datos compartidos **sólo** pueden crearse a parti
 
 También se hace referencia a esta circunstancia mediante un breve **texto informativo** que aparece en cuanto se desea publicar un registro común de una vista de tabla de una base que **no** pertenece a un grupo.
 
-![Tenga en cuenta si desea publicar un registro compartido desde una vista de una base en el área &quot;Mis bases&quot;.](https://seatable.io/wp-content/uploads/2022/12/common-dataset-hinweis.png)
+![Tenga en cuenta si desea publicar un registro compartido desde una vista de una base en el área "Mis bases".](images/common-dataset-hinweis.png)
 
 ## Limitación de bypass
 

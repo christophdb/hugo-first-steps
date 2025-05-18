@@ -39,7 +39,7 @@ Há **duas** formas de libertar tabelas individuais e vistas de uma base:
 
 ### Através do ícone de acção na Base
 
-![Partilha de folhas de cálculo individuais a partir da página inicial](https://seatable.io/wp-content/uploads/2022/11/share-single-tablesheets-from-the-base-options.png)
+![Partilha de folhas de cálculo individuais a partir da página inicial](images/share-single-tablesheets-from-the-base-options.png)
 
 1. Abra a **base** a partir da qual deseja partilhar tabelas ou pontos de vista individuais.
 2. No canto superior direito das **opções da Base**, clique em **Share** {{< seatable-icon icon="dtable-icon-share" >}}.
@@ -54,7 +54,7 @@ A autorização de liberação criada está agora disponível para selecção em
 3. No campo **Direitos**, pode agora seleccionar a **autorização de libertação** previamente criada com o respectivo nome.
 4. Confirmar a libertação com **Submeter**.
 
-![Libertar folhas de cálculo individuais de uma base](https://seatable.io/wp-content/uploads/2022/11/share-sinlge-table-sheets-to-a-group-1.gif)
+![Libertar folhas de cálculo individuais de uma base](images/share-sinlge-table-sheets-to-a-group-1.gif)
 
 Explicações detalhadas sobre o que deve considerar ao partilhar com utilizadores ou grupos podem ser encontradas nos artigos seguintes:
 
@@ -65,15 +65,15 @@ Explicações detalhadas sobre o que deve considerar ao partilhar com utilizador
 
 As tabelas e opiniões partilhadas podem ser encontradas no **espaço de trabalho do** grupo ou utilizador na página **inicial**. Estas são sempre exibidas com a nota **Partilhada**.
 
-![Folhas de cálculo individuais de uma base partilhada com um grupo](https://seatable.io/wp-content/uploads/2022/11/how-shared-single-table-sheets-are-marked.png)
+![Folhas de cálculo individuais de uma base partilhada com um grupo](images/how-shared-single-table-sheets-are-marked.png)
 
 As tabelas e vistas que são divulgadas exclusivamente para **leitura** **só** podem, consequentemente, ser vistas e **não** editadas. Se clicar na tabela, nada acontece:
 
-![Folha de cálculo única que foi divulgada a um grupo numa base de apenas leitura](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-only-read.gif)
+![Folha de cálculo única que foi divulgada a um grupo numa base de apenas leitura](images/shared-table-pages-only-read.gif)
 
 As tabelas e vistas que são divulgadas para **leitura e escrita**, por outro lado, podem ser ambas visualizadas e **editadas**. As suas alterações são visíveis para todos os utilizadores com acesso à tabela:
 
-![Folha de cálculo única que foi partilhada, lida e escrita a um grupo](https://seatable.io/wp-content/uploads/2022/11/shared-table-pages-read-and-write.gif)
+![Folha de cálculo única que foi partilhada, lida e escrita a um grupo](images/shared-table-pages-read-and-write.gif)
 
 {{< warning  headline="Atenção"  text="Note que **as alterações** feitas por outros utilizadores (com permissão de escrita) nas tabelas ou pontos de vista que partilhar serão também **aplicadas** a si." />}}
 

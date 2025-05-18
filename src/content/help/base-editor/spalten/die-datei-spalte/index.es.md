@@ -12,7 +12,7 @@ En una **columna de archivos** puede guardar uno o varios archivos y añadir as�
 
 ## Cómo crear una columna de archivos
 
-![Crea una columna.](https://seatable.io/wp-content/uploads/2022/11/Wie-man-eine-Spalte-anlegt.gif)
+![Crea una columna.](images/Wie-man-eine-Spalte-anlegt.gif)
 
 1. Haga clic en el **símbolo \[+**\] situado a la derecha de la última columna de la tabla.
 2. Dé un **nombre** a la columna en el campo superior.
@@ -54,7 +54,7 @@ Además de los archivos nuevos que subas localmente a la celda de una columna de
 
 ## Descarga de archivos
 
-![Descarga de archivos.](https://seatable.io/wp-content/uploads/2022/11/Herunterladen-von-Dateien.gif)
+![Descarga de archivos.](images/Herunterladen-von-Dateien.gif)
 
 1. En la columna de archivos, **haga doble clic** en la celda que contiene los documentos que desea descargar.
 2. Se abre una nueva ventana. Aquí se enumeran **todos los archivos** almacenados en la celda.
@@ -77,7 +77,7 @@ Si pulsa sobre los **tres puntos**, tiene dos opciones para guardar el archivo: 
 
 ## Renombrar archivos
 
-![Cambiar el nombre de los adjuntos de una columna de archivos.](https://seatable.io/wp-content/uploads/2022/11/Datei-Spalte-Anhaenge-umbenennen.gif)
+![Cambiar el nombre de los adjuntos de una columna de archivos.](images/Datei-Spalte-Anhaenge-umbenennen.gif)
 
 1. Abra la ventana **Todos los ficheros** **haciendo doble clic** en una celda de la columna Fichero.
 2. Sitúe el puntero del ratón sobre el archivo cuyo nombre desea cambiar y haga clic en los **tres puntos**.
@@ -85,7 +85,7 @@ Si pulsa sobre los **tres puntos**, tiene dos opciones para guardar el archivo: 
 
 ## Eliminar archivos
 
-![Eliminar los archivos adjuntos.](https://seatable.io/wp-content/uploads/2022/11/Loeschen-von-Anhaengen.gif)
+![Eliminar los archivos adjuntos.](images/Loeschen-von-Anhaengen.gif)
 
 1. Abra la ventana **Todos los ficheros** **haciendo doble clic** en una celda de la columna Fichero.
 2. De este modo, se puede crear un **archivo único** Borrar

@@ -12,7 +12,7 @@ url: '/ru/help/einfachauswahl-optionen-exportieren-und-importieren'
 
 ## Экспорт опций из колонки выбора
 
-![Экспорт отдельных параметров выбора](https://seatable.io/wp-content/uploads/2022/11/export-options-of-a-single-select-column-new-1.png)
+![Экспорт отдельных параметров выбора](images/export-options-of-a-single-select-column-new-1.png)
 
 1. Нажмите на **символ треугольника** справа от названия любого столбца одиночного или множественного выбора.
 2. Выберите **Редактировать одиночное выделение** или **Редактировать множественное выделение**.
@@ -22,7 +22,7 @@ url: '/ru/help/einfachauswahl-optionen-exportieren-und-importieren'
 
 ## Импорт экспортированных опций в колонку выбора
 
-![Импорт экспортированных опций в новый столбец с одним выбором](https://seatable.io/wp-content/uploads/2022/11/import-options-of-a-single-select-column-new-3.png)
+![Импорт экспортированных опций в новый столбец с одним выбором](images/import-options-of-a-single-select-column-new-3.png)
 
 - Нажмите на **значок треугольника** справа от названия любого столбца одиночного или множественного выбора, в который вы хотите импортировать параметры.
 - Выберите **Редактировать одиночное выделение** или **Редактировать множественное выделение**.

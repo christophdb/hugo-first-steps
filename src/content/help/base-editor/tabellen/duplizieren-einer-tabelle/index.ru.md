@@ -13,12 +13,12 @@ url: '/ru/help/duplizieren-einer-tabelle'
 1. В заголовке базы вы найдете все таблицы базы, отображаемые в виде **вкладок** в левом верхнем углу.
 2. Нажмите на **раскрывающийся значок** рядом с **названием таблицы**, которую нужно продублировать.
 
-![Дублирование структуры таблицы](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Дублирование структуры таблицы](images/Tabellenstruktur-duplizieren.png)
 
 4. Нажмите на кнопку **Дублировать таблицу**.
 5. Чтобы решить, дублировать ли таблицу **пустой или с записями**, активируйте ползунок.
 
-![Диалог: Дублирование записей при дублировании таблицы](https://seatable.io/wp-content/uploads/2024/02/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
+![Диалог: Дублирование записей при дублировании таблицы](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
 
 7. Подтвердите с помощью кнопки **Отправить**.
 

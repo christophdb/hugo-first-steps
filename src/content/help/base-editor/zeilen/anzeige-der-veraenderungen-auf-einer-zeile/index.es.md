@@ -16,7 +16,7 @@ SeaTable guarda todos los cambios que se realizan en una base. Dentro de una fil
 2. En la ventana abierta **Detalles de la línea**, haga clic en el **símbolo de la puerta** cuadrada de la esquina superior derecha.
 3. La ventana se expande. Haga clic en **Registros** a la derecha de los comentarios.
 
-![Visualización de los cambios en una línea por registros.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)  
+![Visualización de los cambios en una línea por registros.](images/Logs.png)  
 En el registro de líneas encontrará, por orden anticronológico, los cambios más recientes realizados en la línea. Cada entrada del registro contiene la siguiente información:
 
 - Nombre del editor

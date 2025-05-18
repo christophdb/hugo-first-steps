@@ -30,7 +30,7 @@ Con el [módulo de estadísticas](https://seatable.io/es/docs/plugins/anleitung-
 
 Los gráficos y las tablas dinámicas se gestionan en el panel de control del módulo de estadísticas. Todos los gráficos y tablas dinámicas creados se guardan allí y están disponibles para su recuperación en cualquier momento. Todas las estadísticas existentes se **actualizan automáticamente** cuando se modifican los datos de la tabla. Así que nunca tendrá que pensar en actualizar las estadísticas - ¡SeaTable lo hace por usted!
 
-![Varias estadísticas en el módulo](https://seatable.io/wp-content/uploads/2021/10/Statistiken.png)
+![Varias estadísticas en el módulo](images/Statistiken.png)
 
 Los análisis visualizados en el módulo de estadísticas se refieren siempre a **una tabla** de la base abierta. La base de datos para la visualización y la evaluación se determina seleccionando la **vista** que se va a utilizar. Si sólo desea crear un gráfico o una tabla dinámica para **una parte de los** datos de una tabla, cree una vista adecuada. No encontrará ninguna **función de filtro** en el propio módulo de estadísticas. Por esta razón, siempre debe definir los datos relevantes en una vista antes de crear una estadística.
 

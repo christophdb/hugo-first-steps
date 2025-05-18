@@ -16,8 +16,8 @@ url: '/ru/help/anlegen-eines-gemeinsamen-datensatzes'
 
 ## Создание общего набора данных
 
-![Создание общего набора данных](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-5.png)  
-![Создание общего набора данных](https://seatable.io/wp-content/uploads/2022/11/create-a-common-dataset-2-1.png)
+![Создание общего набора данных](images/create-a-common-dataset-5.png)  
+![Создание общего набора данных](images/create-a-common-dataset-2-1.png)
 
 1. Откройте любое **табличное представление** в Базе, принадлежащей одной из ваших групп.
 2. Нажмите на **три точки**.

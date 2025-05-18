@@ -35,13 +35,13 @@ Sie können Teammitglieder auf Ihren Kommentar aufmerksam machen, indem Sie sie 
 
 In der ersten Spalte der Tabelle erscheint bei kommentierten Zeilen ein **Sprechblasen-Icon** mit einer Zahl, welche die **Anzahl der Kommentare** in den letzten 180 Tagen angibt. Mit einem Klick auf das Icon öffnen Sie das Kommentar-Fenster mit dem Chatverlauf.
 
-![Anzeige von Kommentaren innerhalb einer Zeile.](https://seatable.io/wp-content/uploads/2022/11/kommentar-blase.png) {{< warning  headline="Hinweis"  text="Wenn **180 Tage** lang niemand einen neuen Kommentar zu einer Zeile verfasst, **verschwindet** das **Sprechblasen-Icon** wieder. Die Kommentare bleiben erhalten und sind weiterhin über die **Zeilendetails** abrufbar, in der Tabelle ist allerdings nicht mehr ersichtlich, dass diese Zeile zuvor kommentiert wurde." />}}
+![Anzeige von Kommentaren innerhalb einer Zeile.](images/kommentar-blase.png) {{< warning  headline="Hinweis"  text="Wenn **180 Tage** lang niemand einen neuen Kommentar zu einer Zeile verfasst, **verschwindet** das **Sprechblasen-Icon** wieder. Die Kommentare bleiben erhalten und sind weiterhin über die **Zeilendetails** abrufbar, in der Tabelle ist allerdings nicht mehr ersichtlich, dass diese Zeile zuvor kommentiert wurde." />}}
 
 ## Kommentare löschen und als erledigt markieren
 
 Nur der **Ersteller** selbst kann seine Kommentare **löschen** oder **als erledigt markieren**. Dazu klickt er auf die **drei Punkte** rechts neben seinem Kommentar und wählt die gewünschte Option. Als erledigt markierte Kommentare werden durch eine grüne Farbe gekennzeichnet.
 
-![](https://seatable.io/wp-content/uploads/2022/11/Kommentare-als-erledigt-markieren-1.png)
+![](images/Kommentare-als-erledigt-markieren-1.png)
 
 ## Einem Kommentar Bilder hinzufügen
 

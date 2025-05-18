@@ -45,21 +45,21 @@ The [How automation works](https://seatable.io/en/docs/arbeiten-mit-automationen
 
 {{< warning  headline="Important note"  text="The fictitious example is intended to illustrate the **basic operation of** automations with reduced complexity and therefore contains only a relatively small amount of data. In principle, automations have a much greater effect in **more extensive data sets**." />}}
 
-![Example table](https://seatable.io/wp-content/uploads/2022/12/example-table-final-version.png)
+![Example table](images/example-table-final-version.png)
 
 You could use the sample table shown in the image in a company's HR department to record, in addition to the **names of** employees, their **employment status** and the status of their **salary payments**.
 
 For the table view, you then create an **automation** that is to automate a work step. Specifically, you want to automate that in case of termination of an employee (and the associated change of the entry in the **Employment Status** column from "employed" to "terminated") the entry in the **Salary Payment** column is adjusted from "active" to "discontinued".
 
-![Definition of the trigger event](https://seatable.io/wp-content/uploads/2022/12/create-an-automation-1-1.png)
+![Definition of the trigger event](images/create-an-automation-1-1.png)
 
 To automate this process step, first define the event "Entry meets certain conditions after change" as a **trigger**. You specify the "Employment status" column as the column to be **checked**. As a concrete **condition for** triggering the automation, you define that the entry in the corresponding column must be changed to "terminated".
 
-![Definition of the automatic action of the sample automation](https://seatable.io/wp-content/uploads/2022/12/automated-action-of-the-example-automation-2.png)
+![Definition of the automatic action of the sample automation](images/automated-action-of-the-example-automation-2.png)
 
 As an **automated action**, you then select the **Edit entry** option. Specifically, after the trigger event has been triggered, the entry in the "Salary payment" column is to be changed from "active" to "set".
 
-![Execution of the example automation](https://seatable.io/wp-content/uploads/2022/12/example-automation-new.gif)
+![Execution of the example automation](images/example-automation-new.gif)
 
 After you have created the automation, the manually made change in the "Employment status" column will **automatically** result in the desired **adjustment of the entry** in the "Salary payment" column.
 

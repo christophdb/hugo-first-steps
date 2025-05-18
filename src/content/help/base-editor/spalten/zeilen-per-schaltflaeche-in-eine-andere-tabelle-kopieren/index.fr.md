@@ -26,7 +26,7 @@ Créez deux nouveaux tableaux pour les listes d'invités aux fêtes respectives.
 
 **Conseil :** Une méthode simple pour reprendre la structure du tableau d'origine consiste à **dupliquer le tableau sans les entrées existantes**.
 
-![Dupliquer la structure du tableau](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Dupliquer la structure du tableau](images/Tabellenstruktur-duplizieren.png)
 
 Dans les tableaux vides, vous pouvez bien entendu supprimer les colonnes inutiles ou en ajouter de nouvelles ultérieurement.
 

@@ -68,7 +68,7 @@ url: '/ru/help/historie-und-logs'
 
 **Журнал строк** позволяет увидеть, когда какой пользователь внес то или иное изменение в запись в **строке**. Если вы хотите просмотреть все изменения в базе вместо этого, вы должны использовать **журнал базы**.
 
-![Отображение изменений в строке по журналам.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)
+![Отображение изменений в строке по журналам.](images/Logs.png)
 
 Если вам нужна дополнительная информация о журнале строк, пожалуйста, посмотрите соответствующую [статью справки]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}).
 
@@ -76,11 +76,11 @@ url: '/ru/help/historie-und-logs'
 
 Чтобы проверить правильность выполнения **автоматизации**, у вас есть возможность просмотреть **журнал выполнения**, который доступен через опции Base.
 
-![Показать журнал выполнения](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Показать журнал выполнения](images/open-an-automation-log.png)
 
 SeaTable записывает следующую информацию для каждого запуска автоматизации: время выполнения, условие выполнения, статус и любые предупреждения.
 
-![Структура ауфюрунгслога](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Структура ауфюрунгслога](images/structure-of-an-automation-log-newest.png)
 
 Более подробную информацию о журнале выполнения автоматизации можно найти [здесь](https://seatable.io/ru/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
 

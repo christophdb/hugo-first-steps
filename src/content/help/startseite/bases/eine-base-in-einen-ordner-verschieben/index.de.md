@@ -1,11 +1,11 @@
 ---
-title: "Eine Base in einen Ordner verschieben"
+title: 'Eine Base in einen Ordner verschieben'
 date: 2022-09-12
-lastmod: "2023-03-22"
-categories: 
-  - "arbeiten-mit-bases"
-author: "nsc2"
-url: "/de/hilfe/eine-base-in-einen-ordner-verschieben"
+lastmod: '2023-03-22'
+categories:
+    - 'arbeiten-mit-bases'
+author: 'nsc2'
+url: '/de/hilfe/eine-base-in-einen-ordner-verschieben'
 ---
 
 Um eine bessere Übersicht über Ihre Bases zu erhalten, haben Sie die Möglichkeit, einzelne Bases in Ordner zu verschieben und dort zum Beispiel nach Thema oder Inhalt zusammenzufassen. Insgesamt gibt es zwei Möglichkeiten, eine Base in einen Ordner zu verschieben:
@@ -15,14 +15,14 @@ Um eine bessere Übersicht über Ihre Bases zu erhalten, haben Sie die Möglichk
 
 ## Eine Base per Drag-and-Drop in einen Ordner verschieben
 
-![Eine Base in einen Ordner verschieben](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-2.gif)
+![Eine Base in einen Ordner verschieben](images/move-a-base-to-a-folder-2.gif)
 
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Wählen Sie die gewünschte **Base** aus und ziehen Sie diese per **Drag-and-Drop** in einen beliebigen **Ordner**.
 
 ## Eine Base per Kontextmenü in einen Ordner verschieben
 
-![Eine Base per Kontextmenü in einen Ordner verschieben](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-from-the-context-menu-1.gif)
+![Eine Base per Kontextmenü in einen Ordner verschieben](images/move-a-base-to-a-folder-from-the-context-menu-1.gif)
 
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Klicken Sie auf die **drei Punkte** rechts neben einer beliebigen **Base**.

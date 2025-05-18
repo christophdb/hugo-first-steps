@@ -12,7 +12,7 @@ Con la ayuda de las automatizaciones, ya no tiene que realizar una operación de
 
 ## Realizar una operación de tratamiento de datos por automatización
 
-![Realizar operaciones de tratamiento de datos mediante automatización](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Realizar operaciones de tratamiento de datos mediante automatización](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Haga clic en {{< seatable-icon icon="dtable-icon-rule" >}} en la cabecera Base y luego en **Reglas de automatización**.
 2. Haga clic en **Añadir Regla**.

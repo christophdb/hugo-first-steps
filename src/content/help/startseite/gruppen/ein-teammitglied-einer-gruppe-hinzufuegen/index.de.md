@@ -16,9 +16,9 @@ Eigentümer und Administratoren einer Gruppe können Mitglieder hinzufügen, ent
 2. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Gruppennamen.
 3. Wählen Sie die Option **Mitglieder verwalten** aus.
 
-![Mitglieder verwalten](https://seatable.io/wp-content/uploads/2022/09/manage-members.jpg) 5. Geben Sie den Namen in das **Suchfeld** ein. 6. Bestätigen Sie mit **Absenden**.
+![Mitglieder verwalten](images/manage-members.jpg) 5. Geben Sie den Namen in das **Suchfeld** ein. 6. Bestätigen Sie mit **Absenden**.
 
-![Suche nach Benutzer zum Hinzufügen und Bestätigung](https://seatable.io/wp-content/uploads/2022/09/search-member-to-add-and-save.jpg)
+![Suche nach Benutzer zum Hinzufügen und Bestätigung](images/search-member-to-add-and-save.jpg)
 
 {{< warning  headline=""  text="Im Suchfeld genügt es, wenn Sie nur die ersten Buchstaben der E-Mail-Adresse oder des Namens eines anderen Teammitglieds eintragen. SeaTable schlägt Ihnen automatisch die passenden Teammitglieder vor." />}}
 
@@ -33,10 +33,10 @@ Teammitglieder mit einer Administratorberechtigung haben zusätzlich noch die M�
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Klicken Sie rechts oben auf Ihr **Avatar-Bild** und dann auf **Teamverwaltung**.
 
-![Öffnen der Teamverwaltung](https://seatable.io/wp-content/uploads/2022/09/open-team-admin.jpg) 4. Wechseln Sie in den Bereich **Team** und dort auf den Reiter **Gruppen**.
+![Öffnen der Teamverwaltung](images/open-team-admin.jpg) 4. Wechseln Sie in den Bereich **Team** und dort auf den Reiter **Gruppen**.
 
-![Öffnen des Team-Reiters](https://seatable.io/wp-content/uploads/2022/09/open-reiter-team-1.png) 6. Suchen Sie die Gruppe, deren Mitglieder Sie bearbeiten möchten, und klicken Sie auf diese Zeile.
+![Öffnen des Team-Reiters](images/open-reiter-team-1.png) 6. Suchen Sie die Gruppe, deren Mitglieder Sie bearbeiten möchten, und klicken Sie auf diese Zeile.
 
-![Gruppe suchen und auswählen](https://seatable.io/wp-content/uploads/2022/09/select-group-1-711x40.png) 8. Wechseln Sie in dem sich öffnenden Seitenmenü in den Reiter **Mitglieder**. 9. Suchen Sie die Teammitglieder, die Sie der Gruppe hinzufügen möchten. 10. Ändern Sie die Rolle von **Keine** auf **Mitglied** oder **Admin** und **speichern** Sie Ihre Änderungen.
+![Gruppe suchen und auswählen](images/select-group-1-711x40.png) 8. Wechseln Sie in dem sich öffnenden Seitenmenü in den Reiter **Mitglieder**. 9. Suchen Sie die Teammitglieder, die Sie der Gruppe hinzufügen möchten. 10. Ändern Sie die Rolle von **Keine** auf **Mitglied** oder **Admin** und **speichern** Sie Ihre Änderungen.
 
-![Auswahl der Teammitglieder und Hinzufügen zur Gruppe](https://seatable.io/wp-content/uploads/2022/09/select-member-and-change-role.png)
+![Auswahl der Teammitglieder und Hinzufügen zur Gruppe](images/select-member-and-change-role.png)

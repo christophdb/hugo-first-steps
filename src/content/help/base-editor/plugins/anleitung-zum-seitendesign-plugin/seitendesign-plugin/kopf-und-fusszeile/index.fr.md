@@ -16,7 +16,7 @@ Vous pouvez insérer des **en-têtes et des pieds de page** comme zones spécial
 
 Vous ne pouvez faire varier que la **hauteur** des en-têtes et des pieds de page, car ceux-ci s'étendent toujours sur **toute la largeur de la page**. Dans le champ **Hauteur**, saisissez la valeur numérique souhaitée ou modifiez-la à l'aide des **touches fléchées** ou faites défiler avec la **molette de la souris**.
 
-![Réglage de la hauteur pour l'en-tête et le pied de page.](https://seatable.io/wp-content/uploads/2022/11/Einstellungen-Kopfzeile-3.gif)
+![Réglage de la hauteur pour l'en-tête et le pied de page.](images/Einstellungen-Kopfzeile-3.gif)
 
 Vous pouvez également modifier la hauteur directement sur la page en cliquant avec **le bouton droit de la souris** sur l'en-tête ou le pied de page et **en faisant glisser** le petit **carré** situé dans le coin inférieur droit du cadre.
 
@@ -42,4 +42,4 @@ Vous pouvez insérer les éléments suivants dans les en-têtes et les pieds de 
 
 Vous pouvez **verrouiller** ou **supprimer** les en-têtes et les pieds de page en sélectionnant l'option correspondante. Si vous verrouillez un en-tête ou un pied de page, **tous les éléments** que vous avez insérés auparavant dans cette zone sont également verrouillés. Il en va de même pour la suppression, qui entraîne la suppression de tous les éléments d'un en-tête ou d'un pied de page.
 
-![Blocage et suppression du plugin de page](https://seatable.io/wp-content/uploads/2022/11/sperren-und-loeschen-1.png)
+![Blocage et suppression du plugin de page](images/sperren-und-loeschen-1.png)

@@ -26,16 +26,16 @@ La **date du** jour s'adapte automatiquement à la date du jour, sans que vous d
 
 Le seul réglage supplémentaire par rapport aux éléments de texte statiques est le **réglage du format**. Ici, vous pouvez choisir parmi les différentes écritures régionales pour les dates.
 
-![élément dynamique Date Format](https://seatable.io/wp-content/uploads/2022/11/Dynamisches-Element-Datum-Format.png)
+![élément dynamique Date Format](images/Dynamisches-Element-Datum-Format.png)
 
 ## Nom du modèle
 
 Le **nom du modèle**, c'est-à-dire du design de page que vous êtes en train de modifier, s'adapte automatiquement. Si vous avez modifié le nom du modèle, la modification dans ce champ est automatiquement prise en compte.
 
-![Élément dynamique Nom du modèle](https://seatable.io/wp-content/uploads/2022/11/dynamisches-Element-Vorlagenname.gif)
+![Élément dynamique Nom du modèle](images/dynamisches-Element-Vorlagenname.gif)
 
 ## Utilisateur actuel
 
 Dans le champ **Utilisateur actuel**, votre propre nom apparaît si vous êtes en train de modifier le modèle via votre compte. Dès qu'un autre **membre de l'équipe** accède au modèle dans le plug-in de conception de page, son nom s'affiche.
 
-![Élément dynamique utilisateur actuel](https://seatable.io/wp-content/uploads/2022/11/dynamisches-Element-Aktueller-nutzer.gif)
+![Élément dynamique utilisateur actuel](images/dynamisches-Element-Aktueller-nutzer.gif)

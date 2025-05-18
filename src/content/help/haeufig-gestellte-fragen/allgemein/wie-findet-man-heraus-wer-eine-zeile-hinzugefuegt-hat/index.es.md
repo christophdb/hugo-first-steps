@@ -17,7 +17,7 @@ url: '/es/ayuda/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 3. Seleccione el tipo de columna **Creador**.
 4. Haga clic en **Enviar**.
 
-![Cómo saber quién ha añadido una línea.](https://seatable.io/wp-content/uploads/2022/11/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
+![Cómo saber quién ha añadido una línea.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
 
 ## Mostrar más detalles de las filas mediante columnas
 

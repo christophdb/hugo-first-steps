@@ -24,7 +24,7 @@ Se [copiar](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gru
 
 É possível reconhecer que a tabela está novamente ligada ao registo de dados partilhados através do **símbolo de pilha** no separador da tabela.
 
-![Ícone em frente do nome de tabelas de um conjunto de dados comum.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset.png)
+![Ícone em frente do nome de tabelas de um conjunto de dados comum.](images/icon-table-common-dataset.png)
 
 ## Consequências da reimportação
 

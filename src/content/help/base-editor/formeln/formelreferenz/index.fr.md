@@ -26,7 +26,7 @@ Et une collection de fonctions de lien dans la colonne "Formule de lien" :
 
 - Fonctions de liaison
 
-![](https://seatable.io/wp-content/uploads/2021/10/formula.jpg)
+![](images/formula.jpg)
 
 Outre les fonctions ci-dessus, l'éditeur de formules contient encore une ou plusieurs listes de colonnes. Il s'agit des colonnes du tableau actuel et des colonnes liées de l'autre tableau de la base. Si vous cliquez sur le symbole "+" à côté, le nom de la colonne est ajouté comme élément dans le champ de saisie, et ce dans le format {nom de la colonne} ou {table liée.nom de la colonne}. Vous pouvez utiliser cet élément directement dans votre formule. Vous pouvez également saisir manuellement un nom de colonne sous la forme {nom de colonne}.
 

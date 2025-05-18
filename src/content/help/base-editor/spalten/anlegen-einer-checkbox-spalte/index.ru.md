@@ -24,4 +24,4 @@ url: '/ru/help/anlegen-einer-checkbox-spalte'
 
 Не нравится **зеленая галочка** по умолчанию? Не беда! У вас есть 70 вариантов стилей, чтобы заполнить флажки так, как вы хотите.
 
-![Параметры стиля для флажков](https://seatable.io/wp-content/uploads/2022/11/Stiloptionen-bei-Checkboxen.png)
+![Параметры стиля для флажков](images/Stiloptionen-bei-Checkboxen.png)

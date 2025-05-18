@@ -12,7 +12,7 @@ A intuitiva e poderosa plataforma de baixo código SeaTable dá a todos a flexib
 
 ## Comece agora com SeaTable
 
-![Elementos da página inicial do SeaTable](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_homepage.png)
+![Elementos da página inicial do SeaTable](images/elements_seatable_homepage.png)
 
 ### A página inicial com as suas bases
 
@@ -22,7 +22,7 @@ Depois de iniciar a sessão, é apresentada a página inicial do SeaTable. Cada 
 
 ---
 
-![Elementos da Base da SeaTable](https://seatable.io/wp-content/uploads/2022/09/elements_seatable_base.png)
+![Elementos da Base da SeaTable](images/elements_seatable_base.png)
 
 ### Tabelas
 

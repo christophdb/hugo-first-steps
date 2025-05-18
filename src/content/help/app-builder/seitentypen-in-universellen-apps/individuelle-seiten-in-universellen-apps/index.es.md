@@ -156,7 +156,7 @@ Todos los cambios de ajuste se realizan **en tiempo real**, es decir, el diagram
 
 Existe un tipo especial de estadísticas en páginas individuales: la **tabla simple** permite -de forma similar a las páginas [de tablas](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tablas, es posible combinar **varias tablas** en un panel de control.
 
-![Nuevo tipo de gráfico "Cuadro básico"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Nuevo tipo de gráfico "Cuadro básico"](images/BasicTable.png)
 
 ## Definir el color de fondo de la página
 

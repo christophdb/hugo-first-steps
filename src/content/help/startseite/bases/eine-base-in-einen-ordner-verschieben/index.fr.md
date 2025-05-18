@@ -15,14 +15,14 @@ Pour obtenir une meilleure vue d'ensemble de vos bases, vous avez la possibilit�
 
 ## Déplacer une base dans un dossier par glisser-déposer
 
-![Déplacer une base dans un dossier](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-2.gif)
+![Déplacer une base dans un dossier](images/move-a-base-to-a-folder-2.gif)
 
 1. Passez à la **page d'accueil** de SeaTable.
 2. Sélectionnez la **base** souhaitée et **glissez-la** dans le **dossier** de votre choix.
 
 ## Déplacer une base vers un dossier via le menu contextuel
 
-![Déplacer une base vers un dossier via le menu contextuel](https://seatable.io/wp-content/uploads/2022/09/move-a-base-to-a-folder-from-the-context-menu-1.gif)
+![Déplacer une base vers un dossier via le menu contextuel](images/move-a-base-to-a-folder-from-the-context-menu-1.gif)
 
 1. Passez à la **page d'accueil** de SeaTable.
 2. Cliquez sur les **trois points** à droite de n'importe quelle **base**.

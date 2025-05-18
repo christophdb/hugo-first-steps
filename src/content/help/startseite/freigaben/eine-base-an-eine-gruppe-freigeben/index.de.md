@@ -28,7 +28,7 @@ Sie können Ihre Bases sowohl **von der Startseite aus** als auch **innerhalb ei
 
 ## Freigabe innerhalb der Base
 
-![Freigabe innerhalb der Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Freigabe innerhalb der Base](images/share-a-base.png)
 
 Wenn Sie sich gerade **in einer Base** befinden, können Sie auch eine Freigabe erstellen, ohne auf die Startseite wechseln zu müssen. Klicken Sie dazu auf das **Teilen-Icon** {{< seatable-icon icon="dtable-icon-share" >}} rechts oben bei den **Base-Optionen**. Das Fenster, das sich zum Erstellen einer Freigabe öffnet, sieht genauso aus wie das auf der Startseite. Befolgen Sie einfach die obige Klickanleitung ab Schritt 4.
 

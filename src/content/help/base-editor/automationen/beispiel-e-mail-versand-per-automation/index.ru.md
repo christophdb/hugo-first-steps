@@ -12,7 +12,7 @@ url: '/ru/help/e-mail-versand-per-automation'
 
 ## Отправка электронных писем с помощью автоматизации
 
-![Отправка электронных писем с помощью автоматизации](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Отправка электронных писем с помощью автоматизации](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}} в заголовке Base, а затем на **Automation Rules**.
 2. Нажмите кнопку **Добавить правило**.
@@ -25,7 +25,7 @@ url: '/ru/help/e-mail-versand-per-automation'
 
 Сначала определите **триггерное событие** для автоматизации.
 
-![Триггерные события в основном доступны для выбора](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Триггерные события в основном доступны для выбора](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Примечание" >}}
 

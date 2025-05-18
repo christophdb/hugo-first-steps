@@ -12,7 +12,7 @@ You do not want to **share** a whole base, but **individual tables**? You can do
 
 ## Share individual tables via the start page
 
-![Release of individual spreadsheets from the start page](https://seatable.io/wp-content/uploads/2022/11/share-single-tablesheets-from-the-start-page.png)
+![Release of individual spreadsheets from the start page](images/share-single-tablesheets-from-the-start-page.png)
 
 1. Switch to the SeaTable **home** page.
 2. Move the mouse over the **base** from which you want to share individual tables.
@@ -22,7 +22,7 @@ You do not want to **share** a whole base, but **individual tables**? You can do
 
 ## Release within Base
 
-![Release within Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Release within Base](images/share-a-base.png)
 
 If you are currently **in a Base**, you can also create a share without having to switch to the Home screen. To do this, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} at the top right of the **Base options**. The window that opens to create a share is the same as on the Home page.
 

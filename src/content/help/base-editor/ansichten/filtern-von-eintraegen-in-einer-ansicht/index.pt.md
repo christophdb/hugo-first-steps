@@ -12,7 +12,7 @@ Com a função de filtro do SeaTable, é possível utilizar **regras de** filtra
 
 ## Filtrar entradas numa vista
 
-![Filtrar entradas](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-1.gif)
+![Filtrar entradas](images/Filtern-von-Eintraegen-1.gif)
 
 1. Seleccione a **vista na** qual pretende definir um filtro.
 2. Clique em **Filtrar** nas opções de visualização acima da tabela.
@@ -28,18 +28,18 @@ Dependendo do **tipo de coluna** que se pretende filtrar, as condições que se 
 ### Aqui estão alguns exemplos
 
 Tem estas opções de condição com um [Coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/):  
-![Filtrar coluna de texto](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-5.png)
+![Filtrar coluna de texto](images/filtern-von-eintraegen-5.png)
 
 Tem estas opções de condição com um [Coluna de seleção única](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/):  
-![Coluna de selecção única com filtro](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-6.png)
+![Coluna de selecção única com filtro](images/filtern-von-eintraegen-6.png)
 
 Tem estas opções de condição com um [Coluna de imagem](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/):  
-![Filtrar coluna de imagem](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen-7.png)
+![Filtrar coluna de imagem](images/filtern-von-eintraegen-7.png)
 
 ## Retirar um filtro
 
 Pode restaurar filtros que tenha criado. **eliminar**clicando no **símbolo x** clique.  
-![Remoção de um filtro de uma vista](https://seatable.io/wp-content/uploads/2022/11/filtern-von-eintraegen.png)
+![Remoção de um filtro de uma vista](images/filtern-von-eintraegen.png)
 
 ## Aplicar vários filtros
 
@@ -48,4 +48,4 @@ Pode criar um ou mais filtros que restringem ainda mais a primeira condição. L
 ## Filtros de rearranjo
 
 É possível mover e reorganizar os filtros movendo o rato sobre o **Superfície de agarrar** ![Ícone para elementos em movimento](images/move-icon.png) Premir e manter, puxar e soltar.  
-![Filtrar Entradas de Ordenação](https://seatable.io/wp-content/uploads/2022/11/Filtern-von-Eintraegen-2.gif)
+![Filtrar Entradas de Ordenação](images/Filtern-von-Eintraegen-2.gif)

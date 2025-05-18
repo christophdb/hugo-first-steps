@@ -23,7 +23,7 @@ Wenn Sie **Bases**, in die gemeinsame Datensätze eingebunden sind, [kopieren](h
 
 Dass die Tabelle wieder mit dem gemeinsamen Datensatz verbunden ist, erkennen Sie am **Stapel-Symbol** im Reiter der Tabelle.
 
-![Icon vor dem Namen von Tabellen eines gemeinsamen Datensatzes.](https://seatable.io/wp-content/uploads/2022/11/icon-table-common-dataset.png)
+![Icon vor dem Namen von Tabellen eines gemeinsamen Datensatzes.](images/icon-table-common-dataset.png)
 
 ## Folgen des Reimports
 

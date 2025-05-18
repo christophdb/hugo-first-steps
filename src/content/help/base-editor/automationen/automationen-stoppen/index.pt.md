@@ -18,11 +18,11 @@ Se já não quiser executar as automatizações durante um determinado período 
 2. Clique em {{< seatable-icon icon="dtable-icon-rule" >}} no cabeçalho da Base e depois nas **Regras de Automatização**.
 3. Mova o ponteiro do rato sobre a regra de automatização correspondente e clique no **símbolo de pausa** na extrema direita {{< seatable-icon icon="dtable-icon-paused" >}}.
 
-![Pausas automáticas](https://seatable.io/wp-content/uploads/2022/12/pause-an-automation-1.png)
+![Pausas automáticas](images/pause-an-automation-1.png)
 
 A regra de automatização seleccionada é então **pausada**. Pode reconhecer isto pela nota **(pausa)** que é acrescentada a vermelho ao nome da automatização e pelo facto de o símbolo de pausa mudar para um **símbolo de jogo** {{< seatable-icon icon="dtable-icon-implement" >}}.
 
-![Reativar uma automatização em pausa](https://seatable.io/wp-content/uploads/2022/12/reactivate-paused-automations.png)
+![Reativar uma automatização em pausa](images/reactivate-paused-automations.png)
 
 {{< warning  headline="Nota importante"  text="As automatizações pausadas já **não** estão activas até serem reactivadas. Isto significa que os eventos de disparo definidos já **não** disparam acções automáticas." />}}
 
@@ -30,11 +30,11 @@ A regra de automatização seleccionada é então **pausada**. Pode reconhecer i
 
 Para **reactivar** as automatizações pausadas, basta seguir os passos já descritos acima e clicar no **ícone de jogo** {{< seatable-icon icon="dtable-icon-implement" >}}.
 
-![Reativar uma automatização em pausa](https://seatable.io/wp-content/uploads/2022/12/reactivate-paused-automations.png)
+![Reativar uma automatização em pausa](images/reactivate-paused-automations.png)
 
 A nota **(pausada)** à direita do nome de automatização desaparece então novamente e o **símbolo de pausa** regressa.
 
-![Pausas automáticas](https://seatable.io/wp-content/uploads/2022/12/pause-an-automation-1.png)
+![Pausas automáticas](images/pause-an-automation-1.png)
 
 ### Artigos mais úteis na secção de automatização:
 

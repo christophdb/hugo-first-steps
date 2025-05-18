@@ -12,7 +12,7 @@ With the help of [automations](https://seatable.io/en/docs/automationen/uebersic
 
 ## Record times of status changes via automation
 
-![Send emails via automation](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Send emails via automation](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. In the Base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
 2. Click **Add Rule**.
@@ -28,11 +28,11 @@ First define the appropriate **trigger event** for the automation.
 
 {{< warning  headline="Important note"  text="In order to be able to record the times of status changes with an automation, you have to **mandatory** the trigger event **Entries meet certain conditions after the change** select. Using the other trigger events you can select status changes **not** capture" />}}
 
-![Trigger events basically available for selection](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Trigger events basically available for selection](images/trigger-options-for-archivating-rows.png)
 
 Then select **Add new entry in other table** as automated action.
 
-![Adding the automated action](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png) ![Selection of the automated action](images/add-action-example2.png)
+![Adding the automated action](images/add-an-action.png) ![Selection of the automated action](images/add-action-example2.png)
 
 In the next step, select the **table** to which the entry will be added after the trigger is fired.
 

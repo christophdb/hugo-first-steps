@@ -12,7 +12,7 @@ Vous avez la possibilité d'imprimer **les détails des lignes** de la même man
 
 ## Comment imprimer des lignes
 
-![Impression des détails des lignes.](https://seatable.io/wp-content/uploads/2022/11/Drucken-von-Zeilendetails.gif)
+![Impression des détails des lignes.](images/Drucken-von-Zeilendetails.gif)
 
 1. Déplacez la souris sur la numérotation au **début de la ligne** que vous souhaitez imprimer.
 2. Cliquez sur l'**icône en forme de double flèche** pour ouvrir les **détails de la ligne**.
@@ -29,8 +29,8 @@ Vous pouvez également imprimer une ligne en ouvrant les détails de la ligne et
 Les types d'impression **Normal** et **Compact** se distinguent à la fois par la taille du fichier et par la **présentation**.
 
 - Le site **pression normale** ressemble beaucoup à l'affichage habituel des détails des lignes : on voit les entrées comme on s'y attend.  
-   ![Pression normale.](https://seatable.io/wp-content/uploads/2022/11/Normaler-Druck-1.png)
+   ![Pression normale.](images/Normaler-Druck-1.png)
 - Le site **pression compacte** réduit l'espace blanc et regroupe toutes les informations dans une structure de tableau.  
-   ![Impression compacte.](https://seatable.io/wp-content/uploads/2022/11/Kompakter-Druck-1.png)
+   ![Impression compacte.](images/Kompakter-Druck-1.png)
 
 {{< warning  headline="Remarque"  text="En général, les PC disposent de l'option _Imprimer en PDF_. SeaTable ne propose **pas de téléchargement au format PDF**." />}}

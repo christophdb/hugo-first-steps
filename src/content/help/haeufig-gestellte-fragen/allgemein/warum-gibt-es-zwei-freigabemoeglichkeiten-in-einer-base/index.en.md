@@ -18,7 +18,7 @@ Both sharing is done via the **Share** dialog - a window you reach via the **Sha
 
 ## Release of a base
 
-![Open share dialog within Base](https://seatable.io/wp-content/uploads/2022/09/share-a-base.png)
+![Open share dialog within Base](images/share-a-base.png)
 
 If you want to share one of your bases, you have a choice of options depending on the group of people you want to share it with:
 

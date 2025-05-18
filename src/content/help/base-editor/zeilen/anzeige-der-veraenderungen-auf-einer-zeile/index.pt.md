@@ -16,7 +16,7 @@ SeaTable poupa todas as alterações que são feitas numa base. Dentro de uma li
 2. Na janela aberta **Detalhes da Linha**, clicar no **símbolo da porta** quadrada no canto superior direito.
 3. A janela expande-se. Clique em **Logs** à direita dos comentários.
 
-![Exibição das alterações numa linha por registos.](https://seatable.io/wp-content/uploads/2022/11/Logs.png)  
+![Exibição das alterações numa linha por registos.](images/Logs.png)  
 No registo de linha encontrará, por ordem anticronológica, as mais recentes alterações feitas à linha. Cada entrada de registo contém as seguintes informações:
 
 - Nome do editor

@@ -35,7 +35,7 @@ Pode chamar a atenção dos membros da equipa para o seu comentário, contactand
 
 Na primeira coluna da tabela, aparece um **ícone de balão de diálogo** com um número que indica o **número de comentários** nos últimos 180 dias para as linhas comentadas. Clique no ícone para abrir a janela de comentários com o histórico do chat.
 
-![Mostrar comentários dentro de uma linha.](https://seatable.io/wp-content/uploads/2022/11/kommentar-blase.png)
+![Mostrar comentários dentro de uma linha.](images/kommentar-blase.png)
 
 {{< warning  headline="Nota"  text="Se ninguém escrever um novo comentário numa linha durante **180 dias**, o **ícone do balão de diálogo** **desaparece** novamente. Os comentários são mantidos e ainda podem ser chamados através dos **detalhes da linha**, mas já não é visível na tabela que esta linha foi anteriormente comentada." />}}
 
@@ -43,7 +43,7 @@ Na primeira coluna da tabela, aparece um **ícone de balão de diálogo** com um
 
 Só o próprio **criador** pode **apagar** os seus comentários ou **marcá-los como feitos**. Para o fazer, clique nos **três pontos** à direita do comentário e seleccione a opção desejada. Os comentários marcados como feitos são indicados por uma cor verde.
 
-![](https://seatable.io/wp-content/uploads/2022/11/Kommentare-als-erledigt-markieren-1.png)
+![](images/Kommentare-als-erledigt-markieren-1.png)
 
 ## Adicionar imagens a um comentário
 

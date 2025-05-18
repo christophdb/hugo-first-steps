@@ -12,7 +12,7 @@ The options you have available in single or multiple selection columns can not o
 
 ## Export options from a selection column
 
-![Export single selection options](https://seatable.io/wp-content/uploads/2022/11/export-options-of-a-single-select-column-new-1.png)
+![Export single selection options](images/export-options-of-a-single-select-column-new-1.png)
 
 1. Click the **triangle icon to** the right of the name of any single or multiple selection column.
 2. Select **Edit single selection** or **Edit multiple selection**.
@@ -22,7 +22,7 @@ The options are now saved as a JSON file **exports**. Depending on the browser s
 
 ## Import exported options into a selection column
 
-![Import exported options into a new single selection column](https://seatable.io/wp-content/uploads/2022/11/import-options-of-a-single-select-column-new-3.png)
+![Import exported options into a new single selection column](images/import-options-of-a-single-select-column-new-3.png)
 
 - Click the **triangle icon to** the right of the name of any single or multiple selection column into which you want to import options.
 - Select **Edit single selection** or **Edit multiple selection**.

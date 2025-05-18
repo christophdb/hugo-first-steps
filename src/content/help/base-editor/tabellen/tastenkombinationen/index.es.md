@@ -14,7 +14,7 @@ En SeaTable, las acciones y operaciones recurrentes pueden realizarse cómodamen
 
 Por cierto, para tener una visión rápida de todas las combinaciones de teclas, no hace falta que vuelvas una y otra vez a este sitio web. También puede encontrar el resumen de todas las combinaciones de teclas directamente en SeaTable. Ábrelo con {{< key "Ctrl" >}} {{< key "?" >}} o haciendo clic en el icono del signo de interrogación de la esquina superior derecha.
 
-![Atajos de teclado en SeaTable](https://seatable.io/wp-content/uploads/2022/08/keyboard-shortcuts.png)
+![Atajos de teclado en SeaTable](images/keyboard-shortcuts.png)
 
 ## Atajos en SeaTable
 

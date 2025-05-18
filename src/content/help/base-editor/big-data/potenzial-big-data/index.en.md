@@ -14,7 +14,7 @@ SeaTable offers you two different storage options for the data records in a base
 
 This article gives you an initial overview of the Big Data function in SeaTable, while you will find separate help articles for the various details.
 
-![Big data backend in action](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Base-Stats-with-Big-Data.png)
+![Big data backend in action](images/SeaTable-3.1-Base-Stats-with-Big-Data.png)
 
 ## A solution for every need
 

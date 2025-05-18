@@ -12,7 +12,7 @@ Si vous hésitez encore sur la conception de votre base ou si vous êtes simplem
 
 ## Créer une base à l'aide d'un modèle
 
-![Créer une base à partir d'un modèle](https://seatable.io/wp-content/uploads/2022/12/Eine-Base-aus-einer-Vorlage-erstellen.png)
+![Créer une base à partir d'un modèle](images/Eine-Base-aus-einer-Vorlage-erstellen.png)
 
 1. Passez à la **page d'accueil** de SeaTable.
 2. Selon que vous souhaitez créer une base sous _Mes bases_ ou dans un de vos groupes, cliquez sur **Ajouter une base ou un dossier** dans la zone correspondante.

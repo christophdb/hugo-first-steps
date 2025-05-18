@@ -12,7 +12,7 @@ Mithilfe von Automationen müssen Sie eine Datenverarbeitungsoperation nicht meh
 
 ## Eine Datenverarbeitungsoperation per Automation ausführen
 
-![Datenverarbeitungsoperation per Automation ausführen](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Datenverarbeitungsoperation per Automation ausführen](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Klicken Sie im Base-Header auf {{< seatable-icon icon="dtable-icon-rule" >}} und im Anschluss auf **Automatisierungsregeln**.
 2. Klicken Sie auf **Regel hinzufügen**.
@@ -33,7 +33,7 @@ Nachdem Sie festgelegt haben, in welcher **Tabelle** und **Ansicht** die Automat
 
 Wählen Sie anschließend als automatisierte Aktion **Datenverarbeitungsoperation ausführen** aus und entscheiden Sie sich für die gewünschte [Datenverarbeitungsoperation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
-![Hinzufügen der automatisierten Aktion](https://seatable.io/wp-content/uploads/2022/12/add-an-action.png)
+![Hinzufügen der automatisierten Aktion](images/add-an-action.png)
 
 ![Auswahl der Datenverarbeitungsoperation, die als automatisierte Aktion der Automation ausgeführt werden soll](images/select-data-operation-for-automation.png)
 

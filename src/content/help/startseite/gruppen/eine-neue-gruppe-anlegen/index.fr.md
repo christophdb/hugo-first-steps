@@ -16,11 +16,11 @@ Organisez vos bases en groupes afin d'avoir une meilleure vue d'ensemble de vos 
 2. Faites défiler jusqu'au bas de la page.
 3. Cliquez sur **Nouveau groupe**.
 
-![Cliquez sur Nouveau groupe](https://seatable.io/wp-content/uploads/2022/09/create-new-group.jpg)
+![Cliquez sur Nouveau groupe](images/create-new-group.jpg)
 
 5. Saisissez le nom de votre choix.
 
-![Nommer le groupe nouvellement créé](https://seatable.io/wp-content/uploads/2022/09/name-new-group.png)
+![Nommer le groupe nouvellement créé](images/name-new-group.png)
 
 {{< warning  headline="Petit conseil"  text="Le nom d'un groupe ne peut contenir que des _lettres_, _des chiffres_, des _espaces_, des _points_, des _tirets_, des _traits de soulignement_ et le _signe #_. Les autres caractères ne sont actuellement pas autorisés." />}}
 
@@ -31,18 +31,18 @@ En tant qu'**administrateur d'équipe**, vous avez une deuxième possibilité, �
 1. Passez à la **page d'accueil** de SeaTable.
 2. Cliquez en haut à droite sur **l'image de** votre **avatar**, puis sur **Gestion d'équipe**.
 
-![Ouvrir la gestion d'équipe](https://seatable.io/wp-content/uploads/2022/09/open-team-admin.jpg)
+![Ouvrir la gestion d'équipe](images/open-team-admin.jpg)
 
 4. Passez à la section **Équipe**.
 
-![Ouvrir l'onglet de l'équipe](https://seatable.io/wp-content/uploads/2022/09/open-reiter-team-1.png)
+![Ouvrir l'onglet de l'équipe](images/open-reiter-team-1.png)
 
 6. Faites défiler jusqu'à la fin de l'onglet **Groupes**.
 7. Cliquez sur le bouton orange **Créer un groupe**.
 
-![Cliquez sur Créer un groupe](https://seatable.io/wp-content/uploads/2022/09/Bildschirmfoto-2023-07-20-um-13.08.54.png)
+![Cliquez sur Créer un groupe](images/Bildschirmfoto-2023-07-20-um-13.08.54.png)
 
 9. Donnez un **nom** au groupe, ajoutez **des membres de l'équipe** et enregistrez en cliquant sur le bouton **Ajouter un groupe**.
 
-![Nommez le groupe nouvellement créé](https://seatable.io/wp-content/uploads/2022/09/name-new-group-team-admin.png)  
-![Ajoutez des membres au groupe et enregistrez les modifications.](https://seatable.io/wp-content/uploads/2022/09/add-members-and-save-team-admin.jpg)
+![Nommez le groupe nouvellement créé](images/name-new-group-team-admin.png)  
+![Ajoutez des membres au groupe et enregistrez les modifications.](images/add-members-and-save-team-admin.jpg)

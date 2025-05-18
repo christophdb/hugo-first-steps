@@ -16,7 +16,7 @@ url: '/ru/help/ausfuehrungslog-einer-automation-anzeigen'
 
 ## Чтобы взглянуть на журнал выполнения
 
-![Показать журнал выполнения](https://seatable.io/wp-content/uploads/2022/12/open-an-automation-log.png)
+![Показать журнал выполнения](images/open-an-automation-log.png)
 
 1. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}} в заголовке Base, а затем на **Automation Rules**.
 2. Наведите указатель мыши на **правило автоматизации**, журнал которого вы хотите просмотреть.
@@ -24,7 +24,7 @@ url: '/ru/help/ausfuehrungslog-einer-automation-anzeigen'
 
 ## Структура журнала исполнения
 
-![Структура ауфюрунгслога](https://seatable.io/wp-content/uploads/2022/12/structure-of-an-automation-log-newest.png)
+![Структура ауфюрунгслога](images/structure-of-an-automation-log-newest.png)
 
 В журнале выполнения автоматизации можно просмотреть следующую информацию:
 

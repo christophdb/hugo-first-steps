@@ -22,7 +22,7 @@ Um **plugin** é um componente de software opcional do SeaTable que oferece opç
 
 No plug-in de calendário, é possível apresentar dados de uma [coluna de data](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) numa **vista** de **ano**, **mês**, **semana**, **dia** ou **agenda**. Também é possível utilizar duas colunas de datas para apresentar **intervalos de tempo** e, assim, manter uma visão geral de todas as datas importantes, etc.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Calendar.png)
+![](images/Calendar.png)
 
 [Mais informações sobre o plugin de calendário](https://seatable.io/pt/docs/plugins/anleitung-zum-kalender-plugin/)
 
@@ -35,7 +35,7 @@ Estes artigos também podem ser interessantes para si:
 
 O plug-in de cronologia representa diferentes períodos de tempo sob a forma de uma **cronologia** através de uma data de início e de fim ou de uma data de início e duração. Isto permite-lhe manter uma boa visão geral dos projectos que decorrem em paralelo ou dos compromissos que se sobrepõem. Este plugin é também excelente para o planeamento das férias da equipa e para o planeamento da ocupação dos quartos.
 
-![Cronograma de Gestão de Projectos](https://seatable.io/wp-content/uploads/2022/01/projektmanagement-timeline.png)
+![Cronograma de Gestão de Projectos](images/projektmanagement-timeline.png)
 
 [Mais informações sobre o plug-in da linha de tempo](https://seatable.io/pt/docs/plugins/anleitung-zum-timeline-plugin/)
 
@@ -55,7 +55,7 @@ Este artigo também pode ser interessante para si:
 
 **As localizações** podem ser apresentadas num mapa com o plug-in de mapa. Pode visualizar as informações geográficas introduzidas com marcadores de posição ou imagens. O plug-in de mapas pode tratar **coordenadas GPS** e **endereços**. No entanto, os endereços têm de ser únicos para poderem ser apresentados.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Map.png)
+![](images/Map.png)
 
 [Mais informações sobre o plug-in do mapa]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
@@ -63,7 +63,7 @@ Este artigo também pode ser interessante para si:
 
 O plugin de desduplicação de dados descobre **entradas duplicadas** numa tabela. Isto é especialmente útil com grandes quantidades de dados para detectar duplicados e removê-los. Pode eliminar todas as entradas duplicadas com apenas um clique.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Deduplication.png)
+![](images/Deduplication.png)
 
 [Mais informações sobre o plugin de duplicação de dados](https://seatable.io/pt/docs/plugins/anleitung-zum-datendeduplizierungs-plugin/)
 
@@ -71,7 +71,7 @@ O plugin de desduplicação de dados descobre **entradas duplicadas** numa tabel
 
 Com a ajuda do plug-in de design de páginas, pode criar o layout de **documentos** como cartas de formulário, cartões de visita e certificados e preenchê-los com os dados da sua tabela. Mais precisamente, pode criar layouts com **elementos estáticos** que são complementados e individualizados por **elementos dinâmicos** e **campos de tabela**. Estes oferecem-lhe a grande vantagem de, dependendo do registo de dados, inserirem todas as informações relacionadas (por exemplo, o nome de uma pessoa, a morada e o cargo) em modelos normalizados, sem que tenha de copiar manualmente os dados para os documentos. Desta forma, pode criar facturas prontas a imprimir, certificados ou outros documentos importantes a partir dos dados armazenados com apenas alguns cliques.
 
-![](https://seatable.io/wp-content/uploads/2022/08/Pagedesign.png)
+![](images/Pagedesign.png)
 
 [Mais informações sobre o plugin de design de páginas](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
 

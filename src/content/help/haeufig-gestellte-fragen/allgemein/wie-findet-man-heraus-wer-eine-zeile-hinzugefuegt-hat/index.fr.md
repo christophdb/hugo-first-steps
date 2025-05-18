@@ -17,7 +17,7 @@ Vous souhaitez savoir **qui** a ajouté une ligne ? Créez alors une colonne de 
 3. Sélectionnez le type de colonne **Créateur**.
 4. Cliquez sur **Envoyer**.
 
-![Comment savoir qui a ajouté une ligne.](https://seatable.io/wp-content/uploads/2022/11/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
+![Comment savoir qui a ajouté une ligne.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
 
 ## Afficher plus de détails sur les lignes via les colonnes
 

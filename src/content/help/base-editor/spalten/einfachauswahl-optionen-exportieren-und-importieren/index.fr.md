@@ -12,7 +12,7 @@ Vous pouvez non seulement **saisir manuellement** les options dont vous disposez
 
 ## Exporter des options à partir d'une colonne de sélection
 
-![Exporter les options de sélection simple](https://seatable.io/wp-content/uploads/2022/11/export-options-of-a-single-select-column-new-1.png)
+![Exporter les options de sélection simple](images/export-options-of-a-single-select-column-new-1.png)
 
 1. Cliquez sur l'**icône en forme de triangle** à droite du nom de n'importe quelle colonne de sélection simple ou multiple.
 2. Sélectionnez **Modifier la sélection simple** ou **Modifier la sélection multiple**.
@@ -22,7 +22,7 @@ Les options sont maintenant enregistrées dans un fichier JSON **exporte**. Selo
 
 ## Importer les options exportées dans une colonne de sélection
 
-![Importer les options exportées dans une nouvelle colonne de sélection simple](https://seatable.io/wp-content/uploads/2022/11/import-options-of-a-single-select-column-new-3.png)
+![Importer les options exportées dans une nouvelle colonne de sélection simple](images/import-options-of-a-single-select-column-new-3.png)
 
 - Cliquez sur l'**icône en forme de triangle** à droite du nom de n'importe quelle colonne de sélection simple ou multiple dans laquelle vous souhaitez importer des options.
 - Sélectionnez **Modifier la sélection simple** ou **Modifier la sélection multiple**.

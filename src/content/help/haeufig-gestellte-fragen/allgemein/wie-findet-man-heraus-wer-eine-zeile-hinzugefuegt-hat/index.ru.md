@@ -17,7 +17,7 @@ url: '/ru/help/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 3. Выберите тип столбца **Создатель**.
 4. Нажмите **Отправить**.
 
-![Как узнать, кто добавил строку.](https://seatable.io/wp-content/uploads/2022/11/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
+![Как узнать, кто добавил строку.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
 
 ## Показывайте больше подробностей о рядах через столбцы
 

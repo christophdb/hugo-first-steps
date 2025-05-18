@@ -12,7 +12,7 @@ url: '/ru/help/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
 
 ## Добавление записей в другие таблицы с помощью автоматизации
 
-![Добавление записей в другие таблицы с помощью автоматизации](https://seatable.io/wp-content/uploads/2022/12/how-to-use-automations-for-locking-rows-3.png)
+![Добавление записей в другие таблицы с помощью автоматизации](images/how-to-use-automations-for-locking-rows-3.png)
 
 1. Нажмите на {{< seatable-icon icon="dtable-icon-rule" >}} в заголовке Base, а затем на **Automation Rules**.
 2. Нажмите кнопку **Добавить правило**.
@@ -26,7 +26,7 @@ url: '/ru/help/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
 
 Определите **триггерное событие** для автоматизации, предварительно определив, в какой **таблице** и **представлении** оно будет происходить.
 
-![Триггерные события в основном доступны для выбора](https://seatable.io/wp-content/uploads/2022/12/trigger-options-for-archivating-rows.png)
+![Триггерные события в основном доступны для выбора](images/trigger-options-for-archivating-rows.png)
 
 {{< warning  headline="Важное замечание" >}}
 

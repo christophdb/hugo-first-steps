@@ -14,7 +14,7 @@ No SeaTable, as acções e operações recorrentes podem ser realizadas convenie
 
 A propósito, para ter uma visão rápida de todas as combinações de chaves, não tem de continuar a regressar a este sítio web. Pode também encontrar a visão geral de todas as combinações chave directamente no SeaTable. Abra-o com {{< key "Ctrl" >}} {{< key "?" >}} ou clicando no ícone do ponto de interrogação no canto superior direito.
 
-![Atalhos de teclado em SeaTable](https://seatable.io/wp-content/uploads/2022/08/keyboard-shortcuts.png)
+![Atalhos de teclado em SeaTable](images/keyboard-shortcuts.png)
 
 ## Atalhos em SeaTable
 

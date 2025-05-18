@@ -10,7 +10,7 @@ url: '/pt/ajuda/gruppenmitglieder-und-ihre-berechtigungen'
 
 Dentro de um grupo SeaTable existem três funções diferentes: **Proprietário**, **Administrador** e **Membro**. Dependendo da sua função, que pode ser diferente de grupo para grupo, os utilizadores estão autorizados a realizar diferentes acções. A **tabela** seguinte dá-lhe uma visão geral das permissões que cada função tem.
 
-![Gerir os membros do grupo](https://seatable.io/wp-content/uploads/2022/09/manage-group-members.png)
+![Gerir os membros do grupo](images/manage-group-members.png)
 
 ## Todas as permissões num relance
 

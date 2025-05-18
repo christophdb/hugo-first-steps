@@ -156,7 +156,7 @@ All setting changes are carried out **in real time**, i.e. the diagram is update
 
 There is a special type of statistics on individual pages: Similar to [table pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), the **simple table** allows the tabular display of a data set that has been pre-filtered and pre-sorted by the app admin. Unlike on the table page, it is therefore possible to combine **several tables** on one dashboard.
 
-![New chart type "Basic table"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![New chart type "Basic table"](images/BasicTable.png)
 
 ## Set the background color of the page
 

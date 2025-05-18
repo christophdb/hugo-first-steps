@@ -1,11 +1,11 @@
 ---
-title: "Anlegen einer Automation"
+title: 'Anlegen einer Automation'
 date: 2022-12-06
-lastmod: "2023-03-10"
-categories: 
-  - "automationen"
-author: "nsc2"
-url: "/de/hilfe/anlegen-einer-automation"
+lastmod: '2023-03-10'
+categories:
+    - 'automationen'
+author: 'nsc2'
+url: '/de/hilfe/anlegen-einer-automation'
 ---
 
 {{< required-version "Enterprise" >}}
@@ -25,17 +25,17 @@ Mithilfe von Automationen können Sie **Prozesse automatisieren**, sodass Sie ni
 
 Zunächst nehmen Sie an der neuen Automatisierungsregel **Basis-Einstellungen** vor. In diesem Schritt **benennen** Sie die Automation und legen fest, in welcher **Tabelle** und in welcher **Ansicht** die Automation wirken soll.
 
-![In einem ersten Schritt legen Sie für die neu erstellte Automation zunächst grundlegende Einstellungen fest](https://seatable.io/wp-content/uploads/2022/12/steps-to-create-an-automation-1-1.png)
+![In einem ersten Schritt legen Sie für die neu erstellte Automation zunächst grundlegende Einstellungen fest](images/steps-to-create-an-automation-1-1.png)
 
 Im nächsten Schritt definieren Sie ein Ereignis, welches als **Trigger** dient und die Automation auslöst. Zur Auswahl steht, dass Einträge hinzugefügt wurden oder nach einer Änderung bestimmte Bedingungen erfüllen. Darüber hinaus können Sie auch einen **periodischen** Trigger auswählen, sodass die Automation täglich, wöchentlich oder monatlich zu einem bestimmten Zeitpunkt ausgelöst wird.
 
-![Definition eines Ereignisses, welches die Automation als Trigger auslöst](https://seatable.io/wp-content/uploads/2022/12/steps-to-create-an-automation-2-1.png)
+![Definition eines Ereignisses, welches die Automation als Trigger auslöst](images/steps-to-create-an-automation-2-1.png)
 
 Sie können außerdem die Anzahl der **überwachten Spalten** eingrenzen und eine oder mehrere **Filter-Bedingungen** für den Trigger festlegen.
 
 Abschließend legen Sie eine oder mehrere **automatisierte Aktionen** fest, die vom zuvor definierten Trigger-Ereignis ausgelöst werden. Mögliche Aktionen können je nach Art des Triggers beispielsweise das Versenden von Benachrichtigungen und E-Mails, das Hinzufügen oder Sperren von Einträgen und die Ausführung eines Python-Skripts sein.
 
-![Definition einer automatisierten Aktion, die vom zuvor festgelegten Trigger-Ereignis ausgelöst wird.](https://seatable.io/wp-content/uploads/2022/12/steps-to-create-an-automation-3.png)
+![Definition einer automatisierten Aktion, die vom zuvor festgelegten Trigger-Ereignis ausgelöst wird.](images/steps-to-create-an-automation-3.png)
 
 ### Weitere hilfreiche Artikel in der Rubrik Automationen:
 

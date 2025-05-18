@@ -16,7 +16,7 @@ Wenn Sie Tabellen nicht mehr mit Begriffen, sondern mit passenden **Emojis** ben
 
 Wie wäre es beispielsweise mit Symbolen für Vorstellungsgespräche (z. B. Sprechblase), Urlaubsanträge (z. B. Smiley mit Sonnenbrille) und Gehaltsabrechnungen (z. B. Geldsack) für die Base einer Personalabteilung?
 
-![Tabellennamen mit Emojis](https://seatable.io/wp-content/uploads/2022/12/Tabellennamen-mit-Emojis.png)
+![Tabellennamen mit Emojis](images/Tabellennamen-mit-Emojis.png)
 
 Probieren Sie es einfach aus! Kopieren Sie ein zu Ihrer Tabelle passendes **Emoji** und fügen Sie es in den **Tabellennamen** ein.
 
@@ -24,7 +24,7 @@ Probieren Sie es einfach aus! Kopieren Sie ein zu Ihrer Tabelle passendes **Emoj
 
 ## Tabelle umbenennen und Emoji einfügen
 
-![Tabelle umbenennen und Emoji einfügen](https://seatable.io/wp-content/uploads/2022/12/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
+![Tabelle umbenennen und Emoji einfügen](images/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
 
 - Klicken Sie auf den **Drop-down-Pfeil** rechts neben dem Tabellennamen, den Sie ändern möchten.
 - Gehen Sie im geöffneten Drop-down-Menü auf **Tabelle umbenennen**.
@@ -36,7 +36,7 @@ Probieren Sie es einfach aus! Kopieren Sie ein zu Ihrer Tabelle passendes **Emoj
 
 ## Neue Tabelle mit Emoji hinzufügen
 
-![Tabelle mit Emoji neu hinzufügen](https://seatable.io/wp-content/uploads/2022/12/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
+![Tabelle mit Emoji neu hinzufügen](images/Tabelle-mit-Emoji-neu-hinzufuegen.gif)
 
 - Klicken Sie auf das **Plus-Symbol** rechts neben dem letzten Tabellenreiter.
 - Gehen Sie im geöffneten Drop-down-Menü auf **Tabelle hinzufügen**.

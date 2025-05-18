@@ -42,7 +42,7 @@ Indem Sie "Benachrichtigung versenden" als automatisierte Aktion definieren, kö
 
 Die Nutzer können ihre Benachrichtigungen über das {{< seatable-icon icon="dtable-icon-notice" >}} **Glocken-Symbol** neben ihrem Avatar in der rechten oberen Ecke abrufen.
 
-![Benachrichtigung bei Aktion: "Versenden von Benachrichtigungen an einen oder mehrere Benutzer" ](https://seatable.io/wp-content/uploads/2022/12/example-action-notification.png)
+![Benachrichtigung bei Aktion: "Versenden von Benachrichtigungen an einen oder mehrere Benutzer" ](images/example-action-notification.png)
 
 Die Automations-Aktion "Benachrichtigung versenden" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 
@@ -76,7 +76,7 @@ Die Automations-Aktion "App-Benachrichtigung versenden" steht Ihnen derzeit bei 
 
 Indem Sie "E-Mail versenden" als automatisierte Aktion definieren, können Sie vorab definierte E-Mails an einen oder mehrere Benutzer versenden. Dabei schickt SeaTable an jeden ausgewählten Benutzer eine **E-Mail**, sobald der entsprechende **Trigger** ausgelöst wird. Empfänger, Betreff, Inhalt und Anhänge der E-Mail können Sie jederzeit in den **Einstellungen** der Automation bearbeiten.
 
-![Definition der Automations-Aktion: "Versenden von E-Mails an einen oder mehrere Benutzer"](https://seatable.io/wp-content/uploads/2022/12/example-action-email.png)
+![Definition der Automations-Aktion: "Versenden von E-Mails an einen oder mehrere Benutzer"](images/example-action-email.png)
 
 Die Automations-Aktion "E-Mail versenden" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 
@@ -91,7 +91,7 @@ Der Artikel [E-Mail-Versand per Automation](https://seatable.io/docs/beispiel-au
 
 Wenn Sie "Zeile hinzufügen" als automatisierte Aktion definieren, wird der Tabelle ein **neuer Eintrag** hinzugefügt, sobald der entsprechende **Trigger** ausgelöst wird. Den genauen **Inhalt** des Eintrags können Sie im Vorhinein für jede Spalte individuell bestimmen.
 
-![Automations-Aktion: "Hinzufügen eines Eintrags in die Tabelle"](https://seatable.io/wp-content/uploads/2022/12/action-add-records.png)
+![Automations-Aktion: "Hinzufügen eines Eintrags in die Tabelle"](images/action-add-records.png)
 
 Die Automations-Aktion "Zeile hinzufügen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 
@@ -105,7 +105,7 @@ Der Artikel [Zeilen per Automation hinzufügen](https://seatable.io/docs/beispie
 
 Wenn Sie "Eintrag sperren" als automatisierte Aktion definieren, wird die **Zeile** mit dem Eintrag, der die Automation ausgelöst hat, für die Bearbeitung **gesperrt**. Beachten Sie dabei, dass Sie gesperrte Zeilen ohne Administratorrechte **nicht** mehr **entsperren** können.
 
-![Definition der Automations-Aktion: „Sperren eines Eintrags in der Tabelle“](https://seatable.io/wp-content/uploads/2022/12/action-lock-records.png) ![Durch eine Automation ausgelöste Sperrung eines Eintrag in einer Tabelle ](https://seatable.io/wp-content/uploads/2022/12/example-locked-records.png)
+![Definition der Automations-Aktion: „Sperren eines Eintrags in der Tabelle“](images/action-lock-records.png) ![Durch eine Automation ausgelöste Sperrung eines Eintrag in einer Tabelle ](images/example-locked-records.png)
 
 Die Automations-Aktion "Eintrag sperren" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 
@@ -119,7 +119,7 @@ Der Artikel [Zeilen per Automation sperren](https://seatable.io/docs/beispiel-au
 
 Wenn Sie "Eintrag bearbeiten" als automatisierte Aktion auswählen, werden **Einträge** in der Tabelle nach Auslösung des **Triggers** gemäß den im Vorhinein definierten **Einstellungen** angepasst. Wie im Screenshot zu sehen, kann beispielsweise das Einstiegsdatum eines neuen Mitarbeiters, der neu in die Tabelle eingetragen wird, automatisch auf das heutige Datum gesetzt werden.
 
-![Automations-Aktion: "Anpassen eines Eintrags in der Tabelle"](https://seatable.io/wp-content/uploads/2022/12/action-modify-a-record.png)
+![Automations-Aktion: "Anpassen eines Eintrags in der Tabelle"](images/action-modify-a-record.png)
 
 Die Automations-Aktion "Eintrag bearbeiten" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 
@@ -131,7 +131,7 @@ Die Automations-Aktion "Eintrag bearbeiten" steht Ihnen derzeit bei folgenden **
 
 Wenn Sie "Links hinzufügen" als automatisierte Aktion auswählen, wird in der entsprechenden Spalte bei Auslösung des **Triggers** eine [Verknüpfung zu Einträgen einer anderen Tabelle]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) herstellt. In den **Einstellungen** der Automatisierungsregel können Sie dabei genauestens festlegen, unter welchen Bedingungen welcher Link in der Tabelle hinzugefügt wird.
 
-![Automations-Aktion: "Hinzufügen einer verlinkten Spalte in die Tabelle"](https://seatable.io/wp-content/uploads/2022/12/action-add-links.png)
+![Automations-Aktion: "Hinzufügen einer verlinkten Spalte in die Tabelle"](images/action-add-links.png)
 
 Die Automations-Aktion "Links hinzufügen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 
@@ -145,7 +145,7 @@ Der Artikel [Verlinken von Einträgen per Automation](https://seatable.io/docs/b
 
 Wenn Sie "Neuen Eintrag in anderer Tabelle hinzufügen" als automatisierte Aktion auswählen, wird bei Auslösung des **Triggers** ein **Eintrag** in einer **anderen** Tabelle erstellt. In den **Einstellungen** der Automatisierungsregel können Sie dabei individuelle Einträge definieren, die den ausgewählten Tabellen im Zuge der Automation hinzugefügt werden.
 
-![Automations-Aktion: "Hinzufügen eines Eintrags in eine andere Tabelle"](https://seatable.io/wp-content/uploads/2022/12/action-add-records-to-another-table-new.png)
+![Automations-Aktion: "Hinzufügen eines Eintrags in eine andere Tabelle"](images/action-add-records-to-another-table-new.png)
 
 Die Automations-Aktion "Neuen Eintrag in anderer Tabelle hinzufügen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 
@@ -168,7 +168,7 @@ Die Automations-Aktion "Seite in PDF umwandeln" steht Ihnen derzeit bei folgende
 
 Wenn Sie die Ausführung eines Python-Skripts als automatisierte Aktion auswählen, kann SeaTable ein im Vorhinein definiertes **Python-Skript** in der ausgewählten Tabelle ausführen. Das Skript können Sie jederzeit im [Skript-Editor](https://seatable.io/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) anlegen oder bearbeiten und dann in den **Einstellungen** der Automatisierungsregel auswählen.
 
-![Automations-Aktion: "Ausführung eines Python Skripts"](https://seatable.io/wp-content/uploads/2022/12/action-run-python-script.png)
+![Automations-Aktion: "Ausführung eines Python Skripts"](images/action-run-python-script.png)
 
 Die Automations-Aktion "Python-Skript ausführen" steht Ihnen derzeit bei folgenden **Automations-Triggern** zur Verfügung:
 

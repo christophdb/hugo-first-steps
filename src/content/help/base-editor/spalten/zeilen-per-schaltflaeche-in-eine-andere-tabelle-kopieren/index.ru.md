@@ -26,7 +26,7 @@ url: '/ru/help/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
 
 **Совет:** Простой способ перенять структуру исходной таблицы - **продублировать таблицу без существующих записей**.
 
-![Дублирование структуры таблицы](https://seatable.io/wp-content/uploads/2024/02/Tabellenstruktur-duplizieren.png)
+![Дублирование структуры таблицы](images/Tabellenstruktur-duplizieren.png)
 
 В пустых таблицах вы, конечно, можете удалить ненужные столбцы или добавить новые позднее.
 
