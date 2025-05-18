@@ -80,7 +80,7 @@ url: '/ru/help/tabellenseiten-in-universellen-apps'
 
 ## Показать форматирование ячеек
 
-Если вы используете [раскраску ячеек](https://seatable.io/ru/docs/ansichtsoptionen/einfaerben-von-zellen/) в основной таблице, вы можете активировать опцию отображения форматирования ячеек на странице таблицы, щелкнув по ней.
+Если вы используете [раскраску ячеек]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) в основной таблице, вы можете активировать опцию отображения форматирования ячеек на странице таблицы, щелкнув по ней.
 
 ![Показывать раскраску ячеек на страницах таблиц в универсальных приложениях](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 

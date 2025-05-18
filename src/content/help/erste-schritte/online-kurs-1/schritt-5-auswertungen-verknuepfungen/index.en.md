@@ -45,5 +45,5 @@ This brings us to the end of this section. Scroll to the end and skip to the six
 
 ## Help article with further information
 
-- [Adjust row height](https://seatable.io/en/docs/ansichtsoptionen/zeilenhoehe-anpassen/)
+- [Adjust row height]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [The roll-up formula](https://seatable.io/en/docs/verknuepfungen/die-rollup-formel/)

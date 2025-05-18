@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/farbliche-markierung-von-zeilen'
 ---
 
-Pode utilizar a **ferramenta de formatação de linhas para** definir marcas coloridas no **início das linhas**. A **marcação** a cores **das filas** serve para identificar rapidamente certos registos de dados. Isto não deve ser confundido com [células de coloração](https://seatable.io/pt/docs/ansichtsoptionen/einfaerben-von-zellen/), o que lhe permite destacar células individuais.
+Pode utilizar a **ferramenta de formatação de linhas para** definir marcas coloridas no **início das linhas**. A **marcação** a cores **das filas** serve para identificar rapidamente certos registos de dados. Isto não deve ser confundido com [células de coloração]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), o que lhe permite destacar células individuais.
 
 ## A ferramenta de formato de linha
 

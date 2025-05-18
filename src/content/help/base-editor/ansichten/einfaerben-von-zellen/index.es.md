@@ -10,7 +10,11 @@ url: '/es/ayuda/einfaerben-von-zellen'
 
 A diferencia de Excel, en SeaTable no puede simplemente colorear las celdas a su gusto, sino que debe colorearlas según las **reglas** que establezca o en función de los **valores** de una **columna**. ¿Suena complicado? Pero no lo es.
 
-{{< warning  headline="Nota"  text="Además de la opción de **colorear las celdas**, también existe la posibilidad de colorear [las filas](https://seatable.io/es/docs/ansichtsoptionen/farbliche-markierung-von-zellen/). En este caso, sin embargo, las celdas no se colorean, sino que se colocan marcas de color al principio de las filas." />}}
+{{< warning  headline="Nota" >}}
+
+Además de la opción de **colorear las celdas**, también existe la posibilidad de colorear [las filas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}). En este caso, sin embargo, las celdas no se colorean, sino que se colocan marcas de color al principio de las filas.
+
+{{< /warning >}}
 
 ## Colorear por reglas o por valores
 

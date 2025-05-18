@@ -22,7 +22,7 @@ Pour créer une copie exacte d'une vue et reprendre tous les paramètres, vous p
 
 ## Dupliquer une vue normale existante en une vue privée
 
-Les vues privées, comme leur nom l'indique, ne sont **pas** visibles pour les autres utilisateurs. Elles sont donc particulièrement adaptées à votre affichage personnel des données si vous collaborez avec d'autres utilisateurs dans un tableau où les paramètres d'affichage[(filtres](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [tri](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [regroupement](https://seatable.io/fr/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/), [formatage des lignes](https://seatable.io/fr/docs/ansichtsoptionen/farbliche-markierung-von-zellen/), [colonnes masquées](https://seatable.io/fr/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) changent fréquemment.
+Les vues privées, comme leur nom l'indique, ne sont **pas** visibles pour les autres utilisateurs. Elles sont donc particulièrement adaptées à votre affichage personnel des données si vous collaborez avec d'autres utilisateurs dans un tableau où les paramètres d'affichage[(filtres]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}), [colonnes masquées](https://seatable.io/fr/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) changent fréquemment.
 
 Pour **éviter d'** avoir à reconfigurer votre vue privée dans ce cas, SeaTable offre l'option de dupliquer une vue existante en une **vue privée** qui ne peut être modifiée **que** par vous.
 

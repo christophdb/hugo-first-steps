@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/farbliche-markierung-von-zeilen'
 ---
 
-Mithilfe des **Zeilen-formatieren-Werkzeugs** können Sie farbliche Markierungen am **Zeilenanfang** setzen. Das **farbliche Markieren von Zeilen** dient dabei der schnellen Identifikation bestimmter Datensätze. Dies ist nicht zu verwechseln mit dem [Einfärben von Zellen](https://seatable.io/docs/ansichtsoptionen/einfaerben-von-zellen/), wodurch Sie einzelne Zellen farblich hervorheben können.
+Mithilfe des **Zeilen-formatieren-Werkzeugs** können Sie farbliche Markierungen am **Zeilenanfang** setzen. Das **farbliche Markieren von Zeilen** dient dabei der schnellen Identifikation bestimmter Datensätze. Dies ist nicht zu verwechseln mit dem [Einfärben von Zellen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), wodurch Sie einzelne Zellen farblich hervorheben können.
 
 ## ﻿Das Zeilen-formatieren-Werkzeug
 
@@ -37,11 +37,11 @@ Für die Option **Einfachauswahl-Spalte verwenden** benötigen Sie in Ihrer Tabe
 Die Option **Regeln verwenden** erlaubt es Ihnen, Bedingungen für die farbliche Markierung festzulegen.
 
 - Klicken Sie auf das **farbig hinterlegte Dreieck-Symbol**, um die Farbe der Markierung zu ändern.
-    ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
+  ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-5.png)
 - Legen Sie fest, auf welche Ihrer **Spalten** sich die Bedingung beziehen soll.
-    ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
+  ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-6.png)
 - Entscheiden Sie sich für die **Art der Bedingung**.
-    ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
+  ![Farbliche Markierung von Zellen](https://seatable.io/wp-content/uploads/2022/11/Farbliche-Markierung-von-Zellen-7.png)
 
 {{< warning  headline="Auswahl der Bedingungsarten abhängig vom Spaltentyp"  text="Bitte beachten Sie, dass vom Typ der ausgewählten Spalte abhängt, welche Optionen Sie bei den Bedingungen zur Auswahl haben." />}}
 

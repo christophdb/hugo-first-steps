@@ -16,7 +16,7 @@ No SeaTable é possível criar tanto vistas normais como privadas das mesas. As 
 
 ## Análise de dados pessoais com visualizações privadas
 
-Uma vista no SeaTable é a soma das seguintes definições: [Filtros](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [ordenação](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [agrupamento](https://seatable.io/pt/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/), [colunas ocultas](https://seatable.io/pt/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/), [formatação de linhas coloridas](https://seatable.io/pt/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) e [altura das linhas](https://seatable.io/pt/docs/ansichtsoptionen/zeilenhoehe-anpassen/). Por outras palavras, cada vista oferece uma perspetiva individual sobre os dados da sua tabela.
+Uma vista no SeaTable é a soma das seguintes definições: [Filtros]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}}). Por outras palavras, cada vista oferece uma perspetiva individual sobre os dados da sua tabela.
 
 A caraterística especial das vistas privadas é que **não** são **visíveis para os outros utilizadores**. Apenas o utilizador que criou a vista privada a pode ver.
 

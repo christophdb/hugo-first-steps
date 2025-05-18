@@ -80,7 +80,7 @@ For example, you can minimize **typing errors** for clearly defined character st
 
 ## Show cell formatting
 
-If you use the [coloring of cells](https://seatable.io/en/docs/ansichtsoptionen/einfaerben-von-zellen/) in the underlying table, you can activate the option to display the cell formatting on the table page with one click.
+If you use the [coloring of cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) in the underlying table, you can activate the option to display the cell formatting on the table page with one click.
 
 ![Show cell coloring on table pages in Universal Apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 

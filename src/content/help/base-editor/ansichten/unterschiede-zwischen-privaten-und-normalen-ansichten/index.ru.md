@@ -16,7 +16,7 @@ url: '/ru/help/unterschiede-zwischen-privaten-und-normalen-ansichten'
 
 ## Анализ персональных данных с закрытыми представлениями
 
-Представление в SeaTable - это совокупность следующих настроек: [Фильтры](https://seatable.io/ru/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [сортировка](https://seatable.io/ru/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [группировка](https://seatable.io/ru/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/), [скрытые столбцы](https://seatable.io/ru/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/), [цветное форматирование строк](https://seatable.io/ru/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) и [высота строк](https://seatable.io/ru/docs/ansichtsoptionen/zeilenhoehe-anpassen/). Другими словами, каждое представление предлагает индивидуальный взгляд на данные в таблице.
+Представление в SeaTable - это совокупность следующих настроек: [Фильтры]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}}). Другими словами, каждое представление предлагает индивидуальный взгляд на данные в таблице.
 
 Особенностью частных представлений является то, что они **не видны другим пользователям**. Только пользователь, создавший частное представление, может его видеть.
 

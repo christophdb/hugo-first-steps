@@ -16,7 +16,7 @@ In SeaTable there is the possibility to create both normal and private views of 
 
 ## Personal data analysis with private views
 
-A view in SeaTable is the sum of the following settings: [Filters](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [sorting](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [grouping](https://seatable.io/en/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/), [hidden columns](https://seatable.io/en/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/), [colored row formatting](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) and [row height](https://seatable.io/en/docs/ansichtsoptionen/zeilenhoehe-anpassen/). In other words, each view offers an individual perspective on the data in your table.
+A view in SeaTable is the sum of the following settings: [Filters]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}}). In other words, each view offers an individual perspective on the data in your table.
 
 The special feature of private views is that they are **not visible to other users**. Only the user who created the private view can see it.
 

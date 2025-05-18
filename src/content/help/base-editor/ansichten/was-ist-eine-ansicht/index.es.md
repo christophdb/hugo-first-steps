@@ -1,11 +1,11 @@
 ---
-title: "¿Qué es una vista? - Mesa de mar"
+title: '¿Qué es una vista? - Mesa de mar'
 date: 2023-01-13
-lastmod: "2023-01-13"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/es/ayuda/was-ist-eine-ansicht"
+lastmod: '2023-01-13'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/es/ayuda/was-ist-eine-ansicht'
 ---
 
 Siempre que visualiza sus datos en una tabla, lo hace a través de una **vista**. Incluso si ha creado una tabla nueva, ya la está visualizando en la **"Vista por defecto**" proporcionada por defecto.
@@ -46,9 +46,9 @@ Puede utilizar otras representaciones como calendario, galería o kanban en form
 - [Vinculación de reglas de filtrado con AND y OR](https://seatable.io/es/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/)
 - [Ordenar las entradas en una vista](https://seatable.io/es/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/)
 - [Agrupación de entradas en una vista](https://seatable.io/es/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/)
-- [Células de coloración](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/)
-- [Marcación por colores de las celdas](https://seatable.io/es/docs/ansichtsoptionen/farbliche-markierung-von-zellen/)
-- [Ajustar la altura de la fila](https://seatable.io/es/docs/ansichtsoptionen/zeilenhoehe-anpassen/)
+- [Células de coloración]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}})
+- [Marcación por colores de las celdas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
+- [Ajustar la altura de la fila]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Ajustar el número de columnas fijas](https://seatable.io/es/docs/ansichtsoptionen/anzahl-der-fixierten-spalten-anpassen/)
 - [Ocultar y mover columnas](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)
 - [Vistas de la cerradura](https://seatable.io/es/docs/ansichtsoptionen/ansicht-sperren/)

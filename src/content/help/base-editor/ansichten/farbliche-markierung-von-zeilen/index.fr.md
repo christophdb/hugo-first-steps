@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/farbliche-markierung-von-zeilen'
 ---
 
-L'**outil de formatage des lignes** vous permet d'ajouter des marques de couleur au **début des lignes**. Le **marquage des lignes en couleur** sert à identifier rapidement certains enregistrements. Il ne faut pas confondre cela avec le [coloriage des cellules](https://seatable.io/fr/docs/ansichtsoptionen/einfaerben-von-zellen/), qui permet de mettre en évidence certaines cellules.
+L'**outil de formatage des lignes** vous permet d'ajouter des marques de couleur au **début des lignes**. Le **marquage des lignes en couleur** sert à identifier rapidement certains enregistrements. Il ne faut pas confondre cela avec le [coloriage des cellules]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), qui permet de mettre en évidence certaines cellules.
 
 ## L'outil de mise en forme des lignes
 

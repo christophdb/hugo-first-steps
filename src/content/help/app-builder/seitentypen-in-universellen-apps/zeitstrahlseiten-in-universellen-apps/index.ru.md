@@ -18,7 +18,7 @@ url: '/ru/help/zeitstrahlseiten-in-universellen-apps'
 
 ![Изменение настроек страницы временной шкалы](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-В **настройках страницы** вы можете задать графическое представление временных линий. Для этого выберите [цвет строки](https://seatable.io/ru/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) или [одного столбца выделения](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), который определяет **цвет блоков**. Вы также можете задать столбец для **маркировки блоков**.
+В **настройках страницы** вы можете задать графическое представление временных линий. Для этого выберите [цвет строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одного столбца выделения](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), который определяет **цвет блоков**. Вы также можете задать столбец для **маркировки блоков**.
 
 ![Графическая настройка временных шкал в универсальных приложениях](images/Grafische-Einstellung-der-Zeitleisten.png)
 

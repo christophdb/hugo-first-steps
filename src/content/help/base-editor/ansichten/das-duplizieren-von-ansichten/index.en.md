@@ -22,7 +22,7 @@ To create an exact copy of a view and apply all its settings, you can **duplicat
 
 ## Duplicate an existing normal view into a private view
 
-Private views, as the name suggests, are **not** visible to other users. Therefore, they are particularly suitable for your personal data view when you collaborate with other users in a table where the view settings[(filters](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [sorting](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [grouping](https://seatable.io/en/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/), [row formatting](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zellen/), [hidden columns](https://seatable.io/en/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) change frequently.
+Private views, as the name suggests, are **not** visible to other users. Therefore, they are particularly suitable for your personal data view when you collaborate with other users in a table where the view settings[(filters]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}), [hidden columns](https://seatable.io/en/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) change frequently.
 
 To **avoid having** to reconfigure your private view in this case, SeaTable offers the option to duplicate an existing view into a **private view** that can **only** be edited by you.
 

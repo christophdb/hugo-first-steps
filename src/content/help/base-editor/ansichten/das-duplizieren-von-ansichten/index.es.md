@@ -22,7 +22,7 @@ Para crear una copia exacta de una vista y aplicar todos los ajustes, puede **du
 
 ## Duplicar una vista normal existente en una vista privada
 
-Las vistas privadas, como su nombre indica, **no** son visibles para otros usuarios. Por lo tanto, son especialmente adecuadas para la vista de tus datos personales cuando colaboras con otros usuarios en una tabla en la que la configuración de la vista[(filtros](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [ordenación](https://seatable.io/es/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [agrupación](https://seatable.io/es/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/), [formato de filas](https://seatable.io/es/docs/ansichtsoptionen/farbliche-markierung-von-zellen/), [columnas ocultas](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) cambia con frecuencia.
+Las vistas privadas, como su nombre indica, **no** son visibles para otros usuarios. Por lo tanto, son especialmente adecuadas para la vista de tus datos personales cuando colaboras con otros usuarios en una tabla en la que la configuración de la vista[(filtros]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}), [columnas ocultas](https://seatable.io/es/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) cambia con frecuencia.
 
 Para que **no** tenga que volver a configurar su vista privada en este caso, SeaTable ofrece la opción de duplicar una vista existente en una **vista privada** que **sólo** puede ser editada por usted.
 

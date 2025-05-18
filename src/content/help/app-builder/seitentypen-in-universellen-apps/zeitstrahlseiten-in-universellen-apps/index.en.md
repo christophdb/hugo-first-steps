@@ -18,7 +18,7 @@ If you want to change the settings of a page, click on the corresponding {{< sea
 
 ![Changing the settings of the timeline page](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-In the **page settings**, you can first set the graphic display of the timelines. To do this, select the [row color](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) or a [single selection column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), which determines the **color of the blocks**. You can also define a column for the **labeling of the blocks**.
+In the **page settings**, you can first set the graphic display of the timelines. To do this, select the [row color]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) or a [single selection column](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), which determines the **color of the blocks**. You can also define a column for the **labeling of the blocks**.
 
 ![Graphical setting of the timelines in universal apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 

@@ -10,7 +10,11 @@ url: '/de/hilfe/einfaerben-von-zellen'
 
 Im Gegensatz zu Excel können Sie Zellen in SeaTable nicht einfach beliebig einfärben, sondern müssen sie entweder durch von Ihnen festgelegte **Regeln** oder auf Basis der **Werte** in einer **Spalte** einfärben. Hört sich kompliziert an? Ist es aber nicht.
 
-{{< warning  headline="Hinweis"  text="Neben der Option **Zellen einfärben** gibt es auch die Möglichkeit, [Zeilen farbig zu markieren](\"https://seatable.io/docs/ansichtsoptionen/farbliche-markierung-von-zellen/\"). Hierbei werden jedoch nicht die Zellen eingefärbt, sondern farbliche Markierungen am Anfang der Zeilen gesetzt." />}}
+{{< warning  headline="Hinweis" >}}
+
+Neben der Option **Zellen einfärben** gibt es auch die Möglichkeit, [Zeilen farbig zu markieren]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}). Hierbei werden jedoch nicht die Zellen eingefärbt, sondern farbliche Markierungen am Anfang der Zeilen gesetzt.
+
+{{< /warning >}}
 
 ## Einfärben durch Regeln oder nach Werten
 

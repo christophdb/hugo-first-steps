@@ -80,7 +80,7 @@ Vous pouvez par exemple minimiser **les erreurs de frappe** sur des chaînes de 
 
 ## Afficher le formatage des cellules
 
-Si vous utilisez la [colorisation des cellules](https://seatable.io/fr/docs/ansichtsoptionen/einfaerben-von-zellen/) dans le tableau sous-jacent, vous pouvez activer d'un clic l'option permettant d'afficher le formatage des cellules également sur la page du tableau.
+Si vous utilisez la [colorisation des cellules]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) dans le tableau sous-jacent, vous pouvez activer d'un clic l'option permettant d'afficher le formatage des cellules également sur la page du tableau.
 
 ![Afficher la couleur des cellules sur les pages de tableaux dans les applications universelles](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 

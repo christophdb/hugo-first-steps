@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/farbliche-markierung-von-zeilen'
 ---
 
-Puede utilizar la **herramienta de formato de línea para** establecer marcas de color al **principio de las líneas**. El **marcado** por colores **de las filas** sirve para identificar rápidamente determinados registros de datos. Esto no debe confundirse con [colorear celdas](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/), que permite resaltar celdas individuales.
+Puede utilizar la **herramienta de formato de línea para** establecer marcas de color al **principio de las líneas**. El **marcado** por colores **de las filas** sirve para identificar rápidamente determinados registros de datos. Esto no debe confundirse con [colorear celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), que permite resaltar celdas individuales.
 
 ## La herramienta de formato de línea
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/farbliche-markierung-von-zeilen'
 ---
 
-With the help of the **rows-format tool** you can set colored markings at the **beginning of lines**. The color **marking of rows** serves the quick identification of certain data sets. This is not to be confused with [coloring cells](https://seatable.io/en/docs/ansichtsoptionen/einfaerben-von-zellen/), which allows you to highlight individual cells.
+With the help of the **rows-format tool** you can set colored markings at the **beginning of lines**. The color **marking of rows** serves the quick identification of certain data sets. This is not to be confused with [coloring cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), which allows you to highlight individual cells.
 
 ## The rows-format tool
 

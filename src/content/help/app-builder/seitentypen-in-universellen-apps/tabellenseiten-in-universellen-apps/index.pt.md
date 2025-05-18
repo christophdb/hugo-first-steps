@@ -80,7 +80,7 @@ Por exemplo, é possível minimizar **os erros de digitação** em cadeias de ca
 
 ## Mostrar formatação de células
 
-Se utilizar a [coloração das células](https://seatable.io/pt/docs/ansichtsoptionen/einfaerben-von-zellen/) na tabela subjacente, pode ativar a opção para apresentar a formatação das células na página da tabela, clicando na mesma.
+Se utilizar a [coloração das células]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) na tabela subjacente, pode ativar a opção para apresentar a formatação das células na página da tabela, clicando na mesma.
 
 ![Mostrar a coloração de células em páginas de tabelas em aplicações universais](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 

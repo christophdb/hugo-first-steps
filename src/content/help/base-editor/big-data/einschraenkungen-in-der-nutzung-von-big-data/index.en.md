@@ -19,7 +19,7 @@ Big data storage offers you largely **unlimited storage of rows**, but also come
 - You **cannot create new rows** in a big data view. This must always be done in a [normal view]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) .
 - In a Big Data view, you cannot [customize]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) edit columns.
 - You **cannot change**[linked entries](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) in big data entries. Links to rows in the big data storage are **not displayed** in normal views - but are displayed in a big data view.
-- Conditional formatting ([highlightrows in color](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zellen/)) is **not** available with Big Data. However, you can [color cells](https://seatable.io/en/docs/ansichtsoptionen/einfaerben-von-zellen/).
+- Conditional formatting ([highlightrows in color]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 - [Data processing operations]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) are **not** available for big data. The only exception is [compare and join]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}). This operation can link entries in the big data store with rows in any other table, regardless of whether the rows are stored in the base or in the big data store.
 - The [Find and Replace](https://seatable.io/en/docs/arbeiten-in-tabellen/suchen-und-ersetzen-von-werten-in-seatable/) function is **not** available.
 

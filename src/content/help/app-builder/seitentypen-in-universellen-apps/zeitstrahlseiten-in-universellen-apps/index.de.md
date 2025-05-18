@@ -18,7 +18,7 @@ Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navi
 
 ![Einstellungen der Zeitstrahlseite ändern](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe](https://seatable.io/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) oder eine [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
+In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
 
 ![Grafische Einstellung der Zeitleisten in Universellen Apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 

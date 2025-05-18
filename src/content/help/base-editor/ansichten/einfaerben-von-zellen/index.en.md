@@ -10,7 +10,11 @@ url: '/help/einfaerben-von-zellen'
 
 Unlike Excel, you can't just color cells arbitrarily in SeaTable, you have to color them either by **rules** you set or based on the **values** in a **column**. Sounds complicated? But it isn't.
 
-{{< warning  headline="Note"  text="In addition to the **Color cells** option, there is also the possibility to [markrows](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) in color. In this case, however, the cells are not colored, but colored marks are set at the beginning of the rows ." />}}
+{{< warning  headline="Note" >}}
+
+In addition to the **Color cells** option, there is also the possibility to [markrows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) in color. In this case, however, the cells are not colored, but colored marks are set at the beginning of the rows.
+
+{{< /warning >}}
 
 ## Coloring by rules or by values
 

@@ -1,11 +1,11 @@
 ---
-title: "Unterschiede zwischen privaten und normalen Ansichten"
+title: 'Unterschiede zwischen privaten und normalen Ansichten'
 date: 2022-11-07
-lastmod: "2023-11-27"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "nsc2"
-url: "/de/hilfe/unterschiede-zwischen-privaten-und-normalen-ansichten"
+lastmod: '2023-11-27'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'nsc2'
+url: '/de/hilfe/unterschiede-zwischen-privaten-und-normalen-ansichten'
 ---
 
 {{< required-version "Enterprise" >}}
@@ -16,7 +16,7 @@ In SeaTable gibt es die Möglichkeit, sowohl normale als auch private Ansichten 
 
 ## Persönliche Datenanalyse mit privaten Ansichten
 
-Eine Ansicht in SeaTable ist die Summe folgender Einstellungen: [Filter](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [Sortierungen](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [Gruppierungen](https://seatable.io/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/), [ausgeblendete Spalten](https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/), [farbliche Zeilenformatierung](https://seatable.io/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) und [Zeilenhöhe](https://seatable.io/docs/ansichtsoptionen/zeilenhoehe-anpassen/). Anders ausgedrückt: Jede Ansicht bietet einen individuellen Blickwinkel auf die Daten in Ihrer Tabelle.
+Eine Ansicht in SeaTable ist die Summe folgender Einstellungen: [Filter]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}}). Anders ausgedrückt: Jede Ansicht bietet einen individuellen Blickwinkel auf die Daten in Ihrer Tabelle.
 
 Die Besonderheit bei privaten Ansichten besteht darin, dass diese **nicht für andere Benutzer sichtbar** sind. Nur der Benutzer, der die private Ansicht erstellt hat, kann diese auch sehen.
 

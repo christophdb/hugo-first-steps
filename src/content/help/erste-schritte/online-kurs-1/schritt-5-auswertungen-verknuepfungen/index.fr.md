@@ -45,5 +45,5 @@ Ceci nous amène déjà à la fin de cette section. Faites défiler la page jusq
 
 ## Article d'aide avec plus d'informations
 
-- [Ajuster la hauteur des lignes](https://seatable.io/fr/docs/ansichtsoptionen/zeilenhoehe-anpassen/)
+- [Ajuster la hauteur des lignes]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [La formule du rollup](https://seatable.io/fr/docs/verknuepfungen/die-rollup-formel/)

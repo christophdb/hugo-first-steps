@@ -114,5 +114,5 @@ Prenez suffisamment de temps pour explorer la base en détail. Si certaines fonc
 
 - [Création d'une base à partir d'un fichier DTABLE](https://seatable.io/fr/docs/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei/)
 - [Principes de base des formules SeaTable](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/)
-- [Marquage des lignes en couleur](https://seatable.io/fr/docs/ansichtsoptionen/farbliche-markierung-von-zellen/)
+- [Marquage des lignes en couleur]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Verrouiller les vues](https://seatable.io/fr/docs/ansichtsoptionen/ansicht-sperren/)

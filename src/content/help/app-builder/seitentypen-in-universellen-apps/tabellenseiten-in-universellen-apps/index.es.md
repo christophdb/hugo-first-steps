@@ -80,7 +80,7 @@ Por ejemplo, puede minimizar los **errores de escritura** en cadenas de caracter
 
 ## Mostrar formato de celda
 
-Si utiliza la [coloración de celdas](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/) en la tabla subyacente, puede activar la opción de mostrar el formato de celda en la página de la tabla haciendo clic en ella.
+Si utiliza la [coloración de celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) en la tabla subyacente, puede activar la opción de mostrar el formato de celda en la página de la tabla haciendo clic en ella.
 
 ![Mostrar el color de las celdas en las páginas de tablas en Universal Apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 

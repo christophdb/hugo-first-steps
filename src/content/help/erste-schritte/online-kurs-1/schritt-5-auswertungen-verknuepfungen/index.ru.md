@@ -45,5 +45,5 @@ url: '/ru/help/schritt-5-auswertungen-verknuepfungen'
 
 ## Справочная статья с дополнительной информацией
 
-- [Отрегулируйте высоту ряда](https://seatable.io/ru/docs/ansichtsoptionen/zeilenhoehe-anpassen/)
+- [Отрегулируйте высоту ряда]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Формула сворачивания](https://seatable.io/ru/docs/verknuepfungen/die-rollup-formel/)

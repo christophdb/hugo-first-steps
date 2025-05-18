@@ -1,11 +1,11 @@
 ---
-title: "Was ist eine Ansicht?"
+title: 'Was ist eine Ansicht?'
 date: 2023-01-13
-lastmod: "2023-01-13"
-categories: 
-  - "grundlagen-von-ansichten"
-author: "vge"
-url: "/de/hilfe/was-ist-eine-ansicht"
+lastmod: '2023-01-13'
+categories:
+    - 'grundlagen-von-ansichten'
+author: 'vge'
+url: '/de/hilfe/was-ist-eine-ansicht'
 ---
 
 Immer wenn Sie Ihre Daten in einer Tabelle betrachten, betrachten Sie diese über eine **Ansicht**. Selbst wenn Sie eine brandneue Tabelle angelegt haben, betrachten Sie diese bereits in der standardmäßig mitgelieferten Ansicht **"Default View"**.
@@ -46,9 +46,9 @@ Andere Darstellungen wie Kalender, Galerie oder Kanban können Sie in Form von [
 - [Filter-Regeln mit UND und ODER verknüpfen](https://seatable.io/docs/ansichtsoptionen/filter-regeln-mit-und-und-oder-verknuepfen/)
 - [Sortieren von Einträgen in einer Ansicht](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/)
 - [Gruppieren von Einträgen in einer Ansicht](https://seatable.io/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/)
-- [Einfärben von Zellen](https://seatable.io/docs/ansichtsoptionen/einfaerben-von-zellen/)
-- [Farbliche Markierung von Zellen](https://seatable.io/docs/ansichtsoptionen/farbliche-markierung-von-zellen/)
-- [Zeilenhöhe anpassen](https://seatable.io/docs/ansichtsoptionen/zeilenhoehe-anpassen/)
+- [Einfärben von Zellen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}})
+- [Farbliche Markierung von Zellen]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
+- [Zeilenhöhe anpassen]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
 - [Anzahl der fixierten Spalten anpassen](https://seatable.io/docs/ansichtsoptionen/anzahl-der-fixierten-spalten-anpassen/)
 - [Ausblenden und Verschieben von Spalten](https://seatable.io/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)
 - [Ansichten sperren](https://seatable.io/docs/ansichtsoptionen/ansicht-sperren/)

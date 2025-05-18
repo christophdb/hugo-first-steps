@@ -22,7 +22,7 @@ Para criar uma cópia exacta de uma vista e aplicar todas as definições, pode 
 
 ## Duplicar uma visão normal existente para uma visão privada
 
-As opiniões privadas, como o nome sugere, **não** são visíveis para outros utilizadores. Portanto, são particularmente adequadas para a sua visualização de dados pessoais quando colabora com outros utilizadores numa tabela onde as definições de visualização[(filtros](https://seatable.io/pt/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [ordenação](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), [agrupamento](https://seatable.io/pt/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/), [formatação de linhas](https://seatable.io/pt/docs/ansichtsoptionen/farbliche-markierung-von-zellen/), [colunas ocultas](https://seatable.io/pt/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) mudam frequentemente.
+As opiniões privadas, como o nome sugere, **não** são visíveis para outros utilizadores. Portanto, são particularmente adequadas para a sua visualização de dados pessoais quando colabora com outros utilizadores numa tabela onde as definições de visualização[(filtros]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}), [colunas ocultas](https://seatable.io/pt/docs/ansichtsoptionen/ausblenden-und-verschieben-von-spalten/)) mudam frequentemente.
 
 Para que **não** tenha de reconfigurar a sua visão privada neste caso, SeaTable oferece a opção de duplicar uma visão existente para uma **visão privada** que **só** pode ser editada por si.
 

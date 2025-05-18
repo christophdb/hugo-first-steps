@@ -18,7 +18,7 @@ Si desea cambiar la configuración de una página, haga clic en el **símbolo de
 
 ![Cambiar la configuración de la página de la línea de tiempo](https://seatable.io/wp-content/uploads/2023/12/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-En la **configuración de la página**, puede establecer en primer lugar la representación gráfica de las líneas de tiempo. Para ello, seleccione el [color de la fila](https://seatable.io/es/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) o de una columna [de selección](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), que determina el **color de los** bloques. También puede definir una columna para el **etiquetado de los** bloques.
+En la **configuración de la página**, puede establecer en primer lugar la representación gráfica de las líneas de tiempo. Para ello, seleccione el [color de la fila]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) o de una columna [de selección](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), que determina el **color de los** bloques. También puede definir una columna para el **etiquetado de los** bloques.
 
 ![Ajuste gráfico de las líneas de tiempo en las aplicaciones universales](images/Grafische-Einstellung-der-Zeitleisten.png)
 

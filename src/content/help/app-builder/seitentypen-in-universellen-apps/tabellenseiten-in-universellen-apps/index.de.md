@@ -80,7 +80,7 @@ So können Sie zum Beispiel **Tippfehler** bei klar umrissenen Zeichenfolgen wie
 
 ## Zellformatierung anzeigen
 
-Wenn Sie in der zugrundeliegenden Tabelle das [Einfärben von Zellen](https://seatable.io/docs/ansichtsoptionen/einfaerben-von-zellen/) nutzen, können Sie mit einem Klick die Option aktivieren, dass die Zellformatierung auch auf der Tabellenseite angezeigt wird.
+Wenn Sie in der zugrundeliegenden Tabelle das [Einfärben von Zellen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) nutzen, können Sie mit einem Klick die Option aktivieren, dass die Zellformatierung auch auf der Tabellenseite angezeigt wird.
 
 ![Show cell coloring on table pages in Universal Apps](images/Show-cell-coloring-on-table-pages-in-Universal-Apps.gif)
 

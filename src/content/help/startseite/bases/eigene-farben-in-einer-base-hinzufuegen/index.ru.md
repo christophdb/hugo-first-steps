@@ -12,7 +12,7 @@ url: '/ru/help/eigene-farben-in-einer-base-hinzufuegen'
 
 С помощью SeaTable вы можете привнести больше цвета в свою повседневную работу - особенно по сравнению с унылыми базами данных и скучными электронными таблицами. При [подписке Enterprise](https://seatable.io/ru/preise/) можно даже добавлять **свои собственные цвета** с помощью шестнадцатеричного кода в цветовую палитру, которая встречается в различных местах базы.
 
-Например, вы можете выделить цветом [опции выбора]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}), [кнопки](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) и [ячейки](https://seatable.io/ru/docs/ansichtsoptionen/einfaerben-von-zellen/) в соответствии с корпоративным дизайном или дать волю своему творчеству в цветовом оформлении.
+Например, вы можете выделить цветом [опции выбора]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}), [кнопки]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) в соответствии с корпоративным дизайном или дать волю своему творчеству в цветовом оформлении.
 
 {{< warning  headline="Важное замечание"  text="**Только** **владельцы** и **администраторы** могут настраивать параметры цвета базы, принадлежащей группе. Простые члены группы даже **не** имеют такой возможности." />}}
 
