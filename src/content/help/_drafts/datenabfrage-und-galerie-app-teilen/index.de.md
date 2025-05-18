@@ -1,11 +1,11 @@
 ---
-title: "Datenabfrage- und Galerie-App teilen"
+title: 'Datenabfrage- und Galerie-App teilen'
 date: 2023-05-02
-lastmod: "2024-05-15"
-categories: 
-  - "apps"
-author: "nsc2"
-url: "/de/hilfe/datenabfrage-und-galerie-app-teilen"
+lastmod: '2024-05-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/de/hilfe/datenabfrage-und-galerie-app-teilen'
 draft: true
 ---
 
@@ -15,9 +15,9 @@ Sie haben eine Datenabfrage-App oder eine Galerie-App zu einer Ihrer Bases hinzu
 
 1. Öffnen Sie eine **Base**, der Sie eine Datenabfrage- oder Galerie-App hinzugefügt haben.
 2. Klicken Sie im Base-Header auf **Apps**.
-![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die gewünschte App und klicken Sie auf das **Teilen-Icon** {{< seatable-icon icon="dtable-icon-share" >}}.
-![Fahren Sie mit der Maus über die gewünschte App und klicken Sie auf das Teilen-Symbol](images/share-app-via-reiter-icon.png)6. Kopieren Sie den **App-Link** oder speichern Sie den **QR-Code**, um die App mit Anderen zu teilen.
-![Teilen der Datenabfrage- und Galerie-App über den Reiter Apps im Base-Header](images/share-app-via-reiter.png)
+   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die gewünschte App und klicken Sie auf das **Teilen-Icon** {{< seatable-icon icon="dtable-icon-share" >}}.
+   ![Fahren Sie mit der Maus über die gewünschte App und klicken Sie auf das Teilen-Symbol](images/share-app-via-reiter-icon.png)6. Kopieren Sie den **App-Link** oder speichern Sie den **QR-Code**, um die App mit Anderen zu teilen.
+   ![Teilen der Datenabfrage- und Galerie-App über den Reiter Apps im Base-Header](images/share-app-via-reiter.png)
 
 ## Datenabfrage- oder Galerie-App im Bearbeitungsmodus teilen
 
