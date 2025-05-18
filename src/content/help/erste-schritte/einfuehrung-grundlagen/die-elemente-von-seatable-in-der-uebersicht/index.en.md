@@ -42,13 +42,13 @@ With the columns of your spreadsheet you define which information is stored ther
 
 If a column is a [number column](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/), you can also store only numbers in that column. SeaTable knows a lot of different column types, so you can capture all the data you want.
 
-[Learn more about the columns in SeaTable →](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/)
+[Learn more about the columns in SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 
 ### Views
 
 Views allow you to look at the same information from different angles. The underlying rows are always the same, but using filters, sorting, grouping, hiding, and conditional formatting, you can create your own individual views of the data that is relevant to you. Normally, all team members share the same views within a base. However, you can also create private views that are visible only to you.
 
-[Learn more about views →](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+[Learn more about views →]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 
 ### Plugins
 

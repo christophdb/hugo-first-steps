@@ -48,7 +48,7 @@ Quando já tiveres experimentado o suficiente, tenta completar o questionário e
 
 ## Artigo de ajuda com mais informações
 
-- [O que é um ponto de vista?](https://seatable.io/pt/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+- [O que é um ponto de vista?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - [Agrupamento, classificação e filtragem](https://seatable.io/pt/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
 - [Criar uma nova visão](https://seatable.io/pt/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
 - [Visualizações de pinos](https://seatable.io/pt/docs/grundlagen-von-ansichten/ansichten-pinnen/)

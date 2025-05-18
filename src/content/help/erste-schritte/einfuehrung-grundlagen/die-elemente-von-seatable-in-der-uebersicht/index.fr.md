@@ -42,13 +42,13 @@ Les colonnes de votre tableau vous permettent de définir les informations qui y
 
 Si une colonne est une [colonne de chiffres](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/), vous pouvez aussi n'enregistrer que des chiffres dans cette colonne. SeaTable connaît un grand nombre de types de colonnes différents, ce qui vous permet de saisir toutes les données souhaitées.
 
-[En savoir plus sur les colonnes de SeaTable →](https://seatable.io/fr/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/)
+[En savoir plus sur les colonnes de SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 
 ### Vues
 
 Les vues vous permettent de visualiser les mêmes informations sous différents angles. Les lignes sous-jacentes sont toujours les mêmes, mais à l'aide de filtres, de tris, de regroupements, de masquages et de formatages conditionnels, vous pouvez créer vos propres vues des données qui vous intéressent. Normalement, tous les membres de l'équipe partagent les mêmes vues au sein d'une base. Mais vous pouvez aussi créer des vues privées qui ne sont visibles que par vous.
 
-[En savoir plus sur les vues →](https://seatable.io/fr/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+[En savoir plus sur les vues →]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 
 ### Plugins
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/wie-man-den-spaltentyp-anpasst'
 ---
 
-Dependiendo de los **valores** que desee registrar en SeaTable, puede asignarles diferentes tipos **de** columna. [Aquí](https://seatable.io/es/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) encontrará un resumen de los 25 tipos de columnas de SeaTable.
+Dependiendo de los **valores** que desee registrar en SeaTable, puede asignarles diferentes tipos **de** columna. [Aquí]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) encontrará un resumen de los 25 tipos de columnas de SeaTable.
 
 Es posible cambiar el tipo de columna posteriormente. Aquí puede averiguar cómo **cambiar** el tipo de columna **a posteriori**.
 

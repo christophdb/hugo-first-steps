@@ -18,7 +18,7 @@ In this post, learn which views and plugins are available, how you can use them,
 
 SeaTable has a **table view** for the most common use cases. Here your data is recorded in a table consisting of **rows** and **columns**. The Table View is SeaTable's **default view**: when you open a Base, you first see your data in table form.
 
-The Table View is essential for manually entering, editing and managing data in a Base: In it, you create the tables and define the column structure. Each column is assigned a [type](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) that captures specific data.
+The Table View is essential for manually entering, editing and managing data in a Base: In it, you create the tables and define the column structure. Each column is assigned a [type]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) that captures specific data.
 
 The table view is particularly suitable for displaying text- and number-based data. Using the available view settings such as [grouping, sorting and filters](https://seatable.io/en/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), you can also perform simple evaluations very quickly.
 
@@ -40,6 +40,6 @@ You activate the plugins via the Plugin Manager, which you open via the {{< seat
 
 ![Overview of all plugins in SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
-With the [calendar plug](https://seatable.io/en/docs/plugins/anleitung-zum-kalender-plugin/) in and the [timeline plugin](https://seatable.io/en/docs/plugins/anleitung-zum-timeline-plugin/) you can keep track of your appointments and deadlines and organize projects successfully. With the [Gallery plug](https://seatable.io/en/docs/plugins/anleitung-zum-galerie-plugin/) in you manage images quickly and easily in your Base.
+With the [calendar plug]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) in you manage images quickly and easily in your Base.
 
-Display addresses and position data on a map using the [Map plugin](https://seatable.io/en/docs/plugins/anleitung-zum-karten-plugin/) and visualize your tasks and project phases with the [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/). The [Page Design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) helps you quickly turn your records into laid out documents.
+Display addresses and position data on a map using the [Map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) and visualize your tasks and project phases with the [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/). The [Page Design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) helps you quickly turn your records into laid out documents.

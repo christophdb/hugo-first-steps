@@ -59,7 +59,7 @@ Dieser Artikel könnte für Sie auch interessant sein:
 
 ![](https://seatable.io/wp-content/uploads/2022/08/Map.png)
 
-[Mehr zum Karten-Plugin](https://seatable.io/docs/plugins/anleitung-zum-karten-plugin/)
+[Mehr zum Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
 ## Datendeduplizierungs-Plugin
 

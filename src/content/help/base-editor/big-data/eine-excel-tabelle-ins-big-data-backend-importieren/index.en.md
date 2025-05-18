@@ -16,8 +16,8 @@ By default, SeaTable allows the storage of **up to 100,000 rows** in one base. I
 
 ## Preparations for the import
 
-- **No new columns** can be created in [big data views](https://seatable.io/en/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). You should therefore create the desired **table structure** in a [normal view](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) beforehand.
-- Define [column types](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) that are **compatible** with the data in the Excel spreadsheet.
+- **No new columns** can be created in [big data views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) beforehand.
+- Define [column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) that are **compatible** with the data in the Excel spreadsheet.
 - To ensure a smooth import, the column names in SeaTable must be **identical to the column names in the Excel table**.
 
 ## Import an XLSX file into a Big Data view

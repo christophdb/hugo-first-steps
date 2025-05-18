@@ -37,6 +37,6 @@ SeaTable предлагает несколько способов создани
 
 Поскольку SeaTable является **программой реляционной базы данных**, вы можете связывать информацию в разных таблицах базы с помощью [ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [автоматизации](https://seatable.io/ru/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) и других функций.
 
-Таблица состоит из [строк](https://seatable.io/ru/docs-category/seatable-nutzen/arbeiten-mit-zeilen) и [столбцов](https://seatable.io/ru/docs-category/seatable-nutzen/arbeiten-mit-spalten). Все записи в **строке** образуют целостный **набор данных**. [Типы столбцов](https://seatable.io/ru/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) в SeaTable определяют, какие **типы данных** можно вводить в **столбец**.
+Таблица состоит из [строк]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) в SeaTable определяют, какие **типы данных** можно вводить в **столбец**.
 
-Каждый раз, когда вы просматриваете данные в таблице, вы просматриваете их через [представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/). Представления дают вам бесчисленные возможности для различного отображения данных в ваших таблицах - фильтрация, сортировка, группировка, скрытие и т. д.
+Каждый раз, когда вы просматриваете данные в таблице, вы просматриваете их через [представление]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}). Представления дают вам бесчисленные возможности для различного отображения данных в ваших таблицах - фильтрация, сортировка, группировка, скрытие и т. д.

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/wie-man-den-spaltentyp-anpasst'
 ---
 
-Depending on which **values** you want to record in SeaTable, you can assign different **column types** to them. You can find an overview of all 25 column types in SeaTable [here](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/).
+Depending on which **values** you want to record in SeaTable, you can assign different **column types** to them. You can find an overview of all 25 column types in SeaTable [here]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).
 
 It is possible to change the column type at a later date. Here you can find out how to **adjust** the column type **retrospectively**.
 

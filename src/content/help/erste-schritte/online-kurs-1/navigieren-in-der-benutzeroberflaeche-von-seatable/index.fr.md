@@ -68,6 +68,6 @@ Si vous souhaitez vous familiariser avec l'interface utilisateur et la terminolo
 Dans les articles suivants, nous insérerons toujours en fin de page un paragraphe renvoyant à notre rubrique d'aide. Ainsi, nous vous guiderons certes dans le cadre de ce cours en ligne, mais nous ne visualiserons pas chaque clic de souris par une capture d'écran. Si vous ne savez pas comment faire, les articles d'aide devraient vous aider.
 
 - [Créer une nouvelle base](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
-- [Qu'est-ce qu'une vue ?](https://seatable.io/fr/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+- [Qu'est-ce qu'une vue ?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - [Glossaire SeaTable](https://seatable.io/fr/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/)
 - [Ajouter une base aux favoris](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/)

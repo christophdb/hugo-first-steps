@@ -16,8 +16,8 @@ Por predefinição, o SeaTable permite o armazenamento de **até 100 000 linhas*
 
 ## Preparativos para a importação
 
-- **Não** podem ser criadas **novas colunas** nas [vistas de megadados](https://seatable.io/pt/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). Por isso, é necessário criar previamente a **estrutura de tabela** desejada numa [vista normal](https://seatable.io/pt/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/).
-- Especificar [tipos de colunas](https://seatable.io/pt/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) **compatíveis** com os dados da folha de cálculo do Excel.
+- **Não** podem ser criadas **novas colunas** nas [vistas de megadados]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}).
+- Especificar [tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) **compatíveis** com os dados da folha de cálculo do Excel.
 - Para garantir uma importação sem problemas, os nomes das colunas no SeaTable devem ser **idênticos aos nomes das colunas na tabela do Excel**.
 
 ## Importar um arquivo XLSX para uma exibição de Big Data

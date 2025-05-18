@@ -40,4 +40,4 @@ url: '/ru/help/anleitung-zum-timeline-plugin'
 
 1. Нажмите на **символ плюса** справа от названия вашей первой временной шкалы.
 2. Дайте временной шкале **название** и подтвердите его нажатием кнопки **Отправить**.
-3. В **настройках** {{< seatable-icon icon="dtable-icon-set-up" >}} определите, к какому [виду таблицы](https://seatable.io/ru/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) и к каким [столбцам дат](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/) должна относиться новая временная шкала.
+3. В **настройках** {{< seatable-icon icon="dtable-icon-set-up" >}} определите, к какому [виду таблицы]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) и к каким [столбцам дат](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/) должна относиться новая временная шкала.

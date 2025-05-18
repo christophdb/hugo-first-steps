@@ -35,7 +35,7 @@ Kinderleicht zu bedienende [Ansichten]({{< relref "help/base-editor/ansichten/wa
 
 Darüber hinaus erhalten Sie mit SeaTables unterschiedlichen [Plugins]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
 ) (wie z. B. [Kalender-]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
-), [Galerie-](https://seatable.io/docs/plugins/anleitung-zum-galerie-plugin/) oder [Karten-Plugin](https://seatable.io/docs/plugins/anleitung-zum-karten-plugin/)) ganz neue Darstellungsoptionen, um Ihre Arbeit optimal zu unterstützen.
+), [Galerie-]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) oder [Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})) ganz neue Darstellungsoptionen, um Ihre Arbeit optimal zu unterstützen.
 
 Ein erster Klick legt beispielsweise die Termine eines Events auf einen Kalender, ein zweiter Klick zeigt die begleitenden Bilder in einer Galerie und ein dritter die Veranstaltungsorte auf einer Karte. Darauf wollen Sie nie wieder verzichten.
 

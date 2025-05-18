@@ -68,6 +68,6 @@ If you would like to learn more about the SeaTable user interface and terms, we 
 In the following articles, we will always include a section at the bottom of the page with links to our help section. This way, we will guide you through this online course, but not visualize every mouse click with a screenshot. If you get stuck, the help articles should help you.
 
 - [Create a new base](https://seatable.io/en/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
-- [What is a view](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+- [What is a view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - [SeaTable Glossary](https://seatable.io/en/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/)
 - [Add a Base to Favorites](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/)

@@ -42,7 +42,7 @@ Next, click **Add Field** to select the columns for which you want to define spe
 
 ![Click Add Field](images/add-field.png)
 
-Now select a corresponding **column** from the drop-down menu and define the pre-filled **value** in the input field. Depending on the selected [column type](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/), you have different **options** to choose from.
+Now select a corresponding **column** from the drop-down menu and define the pre-filled **value** in the input field. Depending on the selected [column type]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), you have different **options** to choose from.
 
 ![Definition of the entry and the column to be added to it](images/define-column-to-be-added.png)
 

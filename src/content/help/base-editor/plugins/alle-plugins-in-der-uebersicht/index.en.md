@@ -57,7 +57,7 @@ This article might also be interesting for you:
 
 ![](https://seatable.io/wp-content/uploads/2022/08/Map.png)
 
-[More about the map plugin](https://seatable.io/en/docs/plugins/anleitung-zum-karten-plugin/)
+[More about the map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
 ## Data deduplication plugin
 

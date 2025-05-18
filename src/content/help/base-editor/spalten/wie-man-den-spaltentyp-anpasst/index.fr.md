@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/wie-man-den-spaltentyp-anpasst'
 ---
 
-Selon les **valeurs** que vous souhaitez saisir dans SeaTable, vous pouvez leur attribuer différents **types de colonnes**. Vous trouverez [ici](https://seatable.io/fr/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) un aperçu des 25 types de colonnes de SeaTable.
+Selon les **valeurs** que vous souhaitez saisir dans SeaTable, vous pouvez leur attribuer différents **types de colonnes**. Vous trouverez [ici]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) un aperçu des 25 types de colonnes de SeaTable.
 
 Il est encore possible de modifier le type de colonne après coup. Vous apprendrez ici comment **adapter** le type de colonne **ultérieurement**.
 

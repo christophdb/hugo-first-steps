@@ -18,7 +18,7 @@ En este artículo, aprenderá qué vistas y plugins están disponibles, cómo pu
 
 SeaTable tiene una **vista de tabla** para los casos de uso más comunes. Aquí sus datos se registran en una tabla que consta de **filas** y **columnas**. La vista de tabla es la **vista por defecto** de SeaTable: Cuando abre una base, primero ve sus datos en forma de tabla.
 
-La vista de tabla es esencial para introducir, editar y gestionar manualmente los datos de una base: En ella se crean las tablas y se define la estructura de columnas. A cada columna se le asigna un [tipo](https://seatable.io/es/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) que registra determinados datos.
+La vista de tabla es esencial para introducir, editar y gestionar manualmente los datos de una base: En ella se crean las tablas y se define la estructura de columnas. A cada columna se le asigna un [tipo]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) que registra determinados datos.
 
 La vista de tabla es especialmente adecuada para visualizar datos basados en texto y números. Con los ajustes de vista disponibles, como [agrupación, ordenación y filtros](https://seatable.io/es/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), también puede realizar evaluaciones sencillas con gran rapidez.
 
@@ -40,6 +40,6 @@ Los plugins se activan a través del gestor de plugins, que se abre mediante el 
 
 ![Vista general de todos los plugins de SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
-Con el plugin de [calendario](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/) y el [plugin de cronograma](https://seatable.io/es/docs/plugins/anleitung-zum-timeline-plugin/), podrás controlar tus citas y plazos y organizar tus proyectos con éxito. Con el plugin de [galería](https://seatable.io/es/docs/plugins/anleitung-zum-galerie-plugin/), puedes gestionar imágenes de forma rápida y sencilla en tu Base.
+Con el plugin de [calendario]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}), puedes gestionar imágenes de forma rápida y sencilla en tu Base.
 
-Muestre direcciones y datos de posición en un mapa mediante el complemento de [mapa](https://seatable.io/es/docs/plugins/anleitung-zum-karten-plugin/) y visualice sus tareas y fases de proyecto con el [complemento Kanban](https://seatable.io/es/docs/plugins/anleitung-zum-kanban-plugin/). El plugin de [diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) te ayuda a convertir rápidamente tus conjuntos de datos en documentos maquetados.
+Muestre direcciones y datos de posición en un mapa mediante el complemento de [mapa]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) y visualice sus tareas y fases de proyecto con el [complemento Kanban](https://seatable.io/es/docs/plugins/anleitung-zum-kanban-plugin/). El plugin de [diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) te ayuda a convertir rápidamente tus conjuntos de datos en documentos maquetados.

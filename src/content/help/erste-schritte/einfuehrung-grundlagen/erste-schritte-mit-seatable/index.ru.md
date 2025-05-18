@@ -23,7 +23,7 @@ weight: 3
 
 Какие данные вы хотите собрать? Какой процесс в вашей повседневной жизни может идти не так хорошо?
 
-[Создайте первую базу](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) и просто начните с создания соответствующих [типов столбцов](https://seatable.io/ru/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) в таблице для всей имеющейся у вас информации. Позже вы сможете провести оптимизацию.
+[Создайте первую базу]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) в таблице для всей имеющейся у вас информации. Позже вы сможете провести оптимизацию.
 
 ## Шаг 3: вдохновитесь
 

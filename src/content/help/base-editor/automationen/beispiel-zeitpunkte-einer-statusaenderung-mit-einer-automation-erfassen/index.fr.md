@@ -42,7 +42,7 @@ Cliquez ensuite sur **Ajouter un champ** pour sélectionner les colonnes pour le
 
 ![Cliquez sur Ajouter un champ](images/add-field.png)
 
-Sélectionnez maintenant une **colonne** correspondante dans le menu déroulant et définissez la **valeur** pré-remplie dans le champ de saisie. Selon le [type de colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) sélectionné, vous avez le choix entre différentes **options**.
+Sélectionnez maintenant une **colonne** correspondante dans le menu déroulant et définissez la **valeur** pré-remplie dans le champ de saisie. Selon le [type de colonne]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) sélectionné, vous avez le choix entre différentes **options**.
 
 ![Définition de l'entrée et de la colonne qui doit lui être ajoutée](images/define-column-to-be-added.png)
 

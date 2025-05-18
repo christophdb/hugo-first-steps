@@ -40,4 +40,4 @@ Como se puede ver en el vídeo anterior, también puedes crear **varias líneas 
 
 1. Haz clic en el **signo más** situado a la derecha del título de tu primera línea de tiempo.
 2. Asigne un **nombre** a la línea de tiempo y confirme con **Enviar**.
-3. En la **configuración** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a qué [vista de tabla](https://seatable.io/es/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) y a qué [columnas de](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) fecha debe referirse la nueva línea de tiempo.
+3. En la **configuración** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a qué [vista de tabla]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) y a qué [columnas de](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) fecha debe referirse la nueva línea de tiempo.

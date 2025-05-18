@@ -42,7 +42,7 @@ url: '/ru/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 
 ![Нажмите Добавить поле](images/add-field.png)
 
-Теперь выберите соответствующий **столбец** из выпадающего меню и определите предварительно заполненное **значение** в поле ввода. В зависимости от выбранного [типа столбца](https://seatable.io/ru/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/), у вас есть различные **варианты** на выбор.
+Теперь выберите соответствующий **столбец** из выпадающего меню и определите предварительно заполненное **значение** в поле ввода. В зависимости от выбранного [типа столбца]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), у вас есть различные **варианты** на выбор.
 
 ![Определение записи и столбца, который будет добавлен к ней](images/define-column-to-be-added.png)
 

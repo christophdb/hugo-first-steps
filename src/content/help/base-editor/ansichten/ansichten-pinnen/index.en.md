@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/ansichten-pinnen'
 ---
 
-In each table, you have the option of permanently displaying all available [views](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) in a navigation bar on the left-hand side. This is particularly useful if you often switch between views and **quick access** makes this more efficient.
+In each table, you have the option of permanently displaying all available [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) in a navigation bar on the left-hand side. This is particularly useful if you often switch between views and **quick access** makes this more efficient.
 
 Pinned **view navigation** remains visible even if you scroll to the right within a table. This allows you to easily compare entries in different views.
 

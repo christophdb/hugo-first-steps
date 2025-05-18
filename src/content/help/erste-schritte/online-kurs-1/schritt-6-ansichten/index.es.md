@@ -48,7 +48,7 @@ Cuando hayas experimentado lo suficiente, intenta completar el cuestionario y ga
 
 ## Artículo de ayuda con más información
 
-- [¿Qué es una vista?](https://seatable.io/es/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+- [¿Qué es una vista?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - [Agrupar, clasificar y filtrar](https://seatable.io/es/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
 - [Crear una nueva vista](https://seatable.io/es/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
 - [Puntos de vista](https://seatable.io/es/docs/grundlagen-von-ansichten/ansichten-pinnen/)

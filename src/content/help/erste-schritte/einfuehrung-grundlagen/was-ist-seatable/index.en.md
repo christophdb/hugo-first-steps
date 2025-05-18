@@ -23,15 +23,15 @@ SeaTable gives you all the freedom to organize your data. Excel, for example, on
 
 You can store text-based information in SeaTable just like images and files. Single selection fields allow for unique categorization, multiple selection fields for quick tagging. Barcodes, geo-location data, references to people and other field types make it possible for you to combine all data in one place.
 
-And SeaTable not only offers richer format support with [over 20 column types](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). As a database application, SeaTable supports relations between records of different tables, resulting in a wide range of applications not imaginable in Excel.
+And SeaTable not only offers richer format support with [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). As a database application, SeaTable supports relations between records of different tables, resulting in a wide range of applications not imaginable in Excel.
 
 ### ... displays your data as you need it
 
 Once you get used to SeaTable's wide range of analysis features, you will never want to miss them:
 
-Easy-to-use [views](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) ensure that you always have exactly the data you need in view - and with various statistics you can visualize your evaluations quickly and easily.
+Easy-to-use [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) ensure that you always have exactly the data you need in view - and with various statistics you can visualize your evaluations quickly and easily.
 
-Moreover, with SeaTables different [plugins](https://seatable.io/en/docs/plugins/aktivieren-eines-plugins-in-einer-base/) (such as [Calendar](https://seatable.io/en/docs/plugins/anleitung-zum-kalender-plugin/), [Gallery](https://seatable.io/en/docs/plugins/anleitung-zum-galerie-plugin/) or [Maps plugin](https://seatable.io/en/docs/plugins/anleitung-zum-karten-plugin/)) you get completely new display options to support your work in the best possible way.
+Moreover, with SeaTables different [plugins]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})) you get completely new display options to support your work in the best possible way.
 
 For example, a first click puts the dates of an event on a calendar, a second click shows the accompanying pictures in a gallery, and a third shows the event locations on a map. You'll never want to do without this again.
 

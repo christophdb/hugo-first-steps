@@ -14,7 +14,7 @@ In this article you will learn how to create statistical analyses and appealing 
 
 ## Filter, sort and group
 
-With [filters, groupings and sortings](https://seatable.io/en/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), you can bring order to your data in no time at all and prepare it for your various use cases. By combining these simple analysis tools, which you can find centrally in every table view, even large amounts of data become structured and manageable. You can save different [views](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) to access them later.
+With [filters, groupings and sortings]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) to access them later.
 
 At the [statusrow](https://seatable.io/en/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) you can read the **number of rows** in a view and certain **column values**. You can choose between the sum, the average, the median, the maximum or the minimum of all values in a column. You can also determine these column values for individual groupings.
 

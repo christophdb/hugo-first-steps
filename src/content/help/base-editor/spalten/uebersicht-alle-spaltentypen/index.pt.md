@@ -168,7 +168,7 @@ Para mais informações sobre o botão e as acções que podem ser desencadeadas
 
 Símbolo: {{< seatable-icon icon="dtable-icon-location" >}} **Geoposição**
 
-Nesta coluna, pode registar **localizações** e visualizá-las mais tarde com o [plug-in do mapa](https://seatable.io/pt/docs/plugins/anleitung-zum-karten-plugin/). Para tal, pode seleccionar a entrada com país e região ou com latitude e longitude. Além disso, tem a opção de encontrar um país ou região utilizando a função de pesquisa e adicioná-lo como entrada.
+Nesta coluna, pode registar **localizações** e visualizá-las mais tarde com o [plug-in do mapa]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}). Para tal, pode seleccionar a entrada com país e região ou com latitude e longitude. Além disso, tem a opção de encontrar um país ou região utilizando a função de pesquisa e adicioná-lo como entrada.
 
 [Mais informações sobre a coluna de geoposição](https://seatable.io/pt/docs/andere-spalten/die-geopositions-spalte/)
 

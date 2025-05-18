@@ -18,7 +18,7 @@ Découvrez dans cet article quelles sont les vues et les plug-ins disponibles, c
 
 SeaTable dispose d'un **affichage sous forme de tableau** pour les cas d'utilisation les plus courants. Ici, vos données sont saisies dans un tableau composé de **lignes** et de **colonnes**. La vue Tableau est la **vue par défaut** de SeaTable : lorsque vous ouvrez une base, vous voyez d'abord vos données sous forme de tableau.
 
-La vue Tableaux est essentielle pour la saisie, l'édition et la gestion manuelles des données dans une base : C'est dans cette vue que vous créez les tableaux et définissez la structure des colonnes. Pour ce faire, chaque colonne se voit attribuer un [type](https://seatable.io/fr/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) qui permet de saisir certaines données.
+La vue Tableaux est essentielle pour la saisie, l'édition et la gestion manuelles des données dans une base : C'est dans cette vue que vous créez les tableaux et définissez la structure des colonnes. Pour ce faire, chaque colonne se voit attribuer un [type]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) qui permet de saisir certaines données.
 
 L'affichage sous forme de tableau est particulièrement adapté à la présentation de données textuelles et chiffrées. Les paramètres d'affichage disponibles, tels que [le regroupement, le tri et les filtres](https://seatable.io/fr/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), vous permettent également d'effectuer très rapidement des évaluations simples.
 
@@ -40,6 +40,6 @@ Vous activez les plugins via le gestionnaire de plugins, que vous ouvrez en cliq
 
 ![Aperçu de tous les plugins de SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
-Avec le [plug-in](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/) calendrier et le [plug-in ligne de temps](https://seatable.io/fr/docs/plugins/anleitung-zum-timeline-plugin/), vous gardez une vue d'ensemble de vos rendez-vous et échéances et organisez vos projets avec succès. Avec le [plug-in Galerie](https://seatable.io/fr/docs/plugins/anleitung-zum-galerie-plugin/), vous gérez rapidement et facilement les images dans votre base.
+Avec le [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}), vous gérez rapidement et facilement les images dans votre base.
 
 Affichez les adresses et les données de position sur une carte grâce au [plug-in de carte](https://seatable.io/fr/docs/plugins/instructions-plugin-de-carte/) et visualisez vos tâches et les phases de votre projet grâce au [plug-in Kanban](https://seatable.io/fr/docs/plugins/anleitung-zum-kanban-plugin/). Le [plug-in de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) vous aide à transformer rapidement vos ensembles de données en documents mis en page.

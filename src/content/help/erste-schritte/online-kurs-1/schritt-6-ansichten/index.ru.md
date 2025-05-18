@@ -48,7 +48,7 @@ url: '/ru/help/schritt-6-ansichten'
 
 ## Справочная статья с дополнительной информацией
 
-- [Что такое вид?](https://seatable.io/ru/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+- [Что такое вид?]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - [Группировка, сортировка и фильтрация](https://seatable.io/ru/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/)
 - [Создайте новое представление](https://seatable.io/ru/docs/grundlagen-von-ansichten/anlegen-einer-neuen-ansicht/)
 - [Виды булавок](https://seatable.io/ru/docs/grundlagen-von-ansichten/ansichten-pinnen/)

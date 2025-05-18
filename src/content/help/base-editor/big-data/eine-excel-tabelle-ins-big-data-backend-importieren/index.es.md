@@ -16,8 +16,8 @@ Por defecto, SeaTable permite almacenar **hasta 100.000 filas** en una base. Si 
 
 ## Preparativos para la importación
 
-- En las vistas de [big](https://seatable.io/es/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) data **no** se pueden crear **nuevas columnas**. Por lo tanto, debe crear previamente la **estructura de tabla** deseada en una [vista normal](https://seatable.io/es/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/).
-- Especifique [tipos de columna](https://seatable.io/es/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) **compatibles** con los datos de la hoja de cálculo Excel.
+- En las vistas de [big]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}).
+- Especifique [tipos de columna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) **compatibles** con los datos de la hoja de cálculo Excel.
 - Para garantizar una importación sin problemas, los nombres de las **columnas** en SeaTable deben ser **idénticos a los nombres de las columnas en la tabla de Excel**.
 
 ## Importar un archivo XLSX en una vista de Big Data

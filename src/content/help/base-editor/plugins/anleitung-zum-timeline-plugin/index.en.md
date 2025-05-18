@@ -40,4 +40,4 @@ As you can see in the video above, you can also create **multiple timelines** in
 
 1. Click the **plus icon** to the right of the title of your first timeline.
 2. Give the timeline a **name** and confirm with **Submit**.
-3. Define in the **settings** {{< seatable-icon icon="dtable-icon-set-up" >}} to which [table view](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) and which [date columns](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) the new timeline should refer to.
+3. Define in the **settings** {{< seatable-icon icon="dtable-icon-set-up" >}} to which [table view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) and which [date columns](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) the new timeline should refer to.

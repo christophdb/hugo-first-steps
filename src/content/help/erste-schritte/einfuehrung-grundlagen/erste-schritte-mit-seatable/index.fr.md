@@ -23,7 +23,7 @@ Si vous préférez regarder des vidéos, les instructions de notre [chaîne YouT
 
 Quelles données souhaitez-vous saisir ? Quel processus de votre quotidien ne fonctionne peut-être pas très bien ?
 
-[Créez une première base](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) et commencez simplement par créer les [types de colonnes](https://seatable.io/fr/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) appropriés dans un tableau pour toutes les informations dont vous disposez. Vous pourrez procéder à des optimisations plus tard.
+[Créez une première base]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) appropriés dans un tableau pour toutes les informations dont vous disposez. Vous pourrez procéder à des optimisations plus tard.
 
 ## Étape 3 : Laissez-vous inspirer
 

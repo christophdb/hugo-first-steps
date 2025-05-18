@@ -23,7 +23,7 @@ If you prefer to watch videos, the tutorials on our [YouTube channel](https://ww
 
 What data do you want to capture? What process in your everyday life might not be going so well?
 
-[Create a first base](https://seatable.io/en/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) and just start creating the appropriate [column types](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) in a table for all the information you have. You can make optimizations later.
+[Create a first base]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) in a table for all the information you have. You can make optimizations later.
 
 ## Step 3: Get inspired
 

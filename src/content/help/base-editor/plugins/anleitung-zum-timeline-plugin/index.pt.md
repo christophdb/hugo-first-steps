@@ -40,4 +40,4 @@ Como se pode ver no vídeo acima, também se podem criar **várias linhas de tem
 
 1. Clique no **símbolo de mais** à direita do título da sua primeira linha temporal.
 2. Dar um **nome** à linha do tempo e confirmar com **Submeter**.
-3. Nas **definições** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a [vista de tabela](https://seatable.io/pt/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) e as [colunas de data](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) a que a nova cronologia se deve referir.
+3. Nas **definições** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a [vista de tabela]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) e as [colunas de data](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) a que a nova cronologia se deve referir.

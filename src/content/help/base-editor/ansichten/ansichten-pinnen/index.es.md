@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/ansichten-pinnen'
 ---
 
-En cada tabla tiene la opción de mostrar permanentemente todas las [vistas](https://seatable.io/es/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) disponibles en una barra de navegación en el margen izquierdo. Esto tiene sentido sobre todo si cambias a menudo de vista y un **acceso** hace que esto sea más eficiente.
+En cada tabla tiene la opción de mostrar permanentemente todas las [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) disponibles en una barra de navegación en el margen izquierdo. Esto tiene sentido sobre todo si cambias a menudo de vista y un **acceso** hace que esto sea más eficiente.
 
 La **navegación** de una vista anclada permanece visible incluso si se desplaza hacia la derecha dentro de una tabla. De este modo, puedes comparar fácilmente las entradas de distintas vistas.
 

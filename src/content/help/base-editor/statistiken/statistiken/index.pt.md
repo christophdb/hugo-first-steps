@@ -14,7 +14,7 @@ Neste artigo aprenderá como criar avaliações estatísticas e gráficos apelat
 
 ## Filtrar, ordenar e agrupar
 
-Com [filtros, agrupamentos e triagens](https://seatable.io/pt/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/), pode trazer ordem aos seus dados em pouco tempo e prepará-los para os seus vários casos de utilização. Ao combinar estas simples ferramentas de análise, que pode encontrar centralmente em cada vista de tabela, mesmo grandes quantidades de dados tornam-se estruturadas e manejáveis. Pode guardar diferentes [vistas](https://seatable.io/pt/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) para aceder a elas mais tarde.
+Com [filtros, agrupamentos e triagens]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) para aceder a elas mais tarde.
 
 A [linha de estado](https://seatable.io/pt/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) mostra o **número de filas** numa vista e certos **valores de coluna**. Pode escolher entre a soma, a média, a mediana, o máximo ou o mínimo de todos os valores de uma coluna. Pode também determinar estes valores de coluna para agrupamentos individuais.
 

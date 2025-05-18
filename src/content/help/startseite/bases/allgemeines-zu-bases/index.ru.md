@@ -13,7 +13,7 @@ url: '/ru/help/bases'
 На первый взгляд, база - это просто **контейнер** для одной или нескольких **таблиц**. С этой точки зрения кажется очевидным сравнение базы с рабочей книгой в Excel. Однако такое сравнение не дает должного представления о базе. Базы в SeaTable намного превосходят рабочие книги, как они известны из обычных электронных таблиц, потому что они предлагают:
 
 - Функции реляционных баз данных и [связывание таблиц](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Более 20 типов столбцов](https://seatable.io/ru/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/), охватывающих все распространенные форматы данных
+- [Более 20 типов столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), охватывающих все распространенные форматы данных
 - Различные [варианты совместного использования для](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) легкого обмена данными
 - [Совместная работа](https://seatable.io/ru/docs/seatable-nutzen/zusammenarbeit/) с другими пользователями и передача всех изменений в режиме реального времени
 - [Функция комментария для](https://seatable.io/ru/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) каждой записи в ряду

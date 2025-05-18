@@ -42,13 +42,13 @@ url: '/ru/help/die-elemente-von-seatable-in-der-uebersicht'
 
 Если столбец является [столбцом чисел](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/), вы также можете хранить в нем только числа. SeaTable знает множество различных типов столбцов, поэтому вы можете записывать любые данные.
 
-[Узнайте больше о колонках в SeaTable →](https://seatable.io/ru/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/)
+[Узнайте больше о колонках в SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 
 ### Просмотры
 
 Представления позволяют взглянуть на одну и ту же информацию с разных сторон. Основные строки всегда одинаковы, но с помощью фильтров, сортировки, группировки, скрытия и условного форматирования вы можете создавать свои собственные представления данных, которые вам нужны. Обычно все члены команды имеют общие представления в базе. Однако вы также можете создавать личные представления, которые видны только вам.
 
-[Подробнее о видах →](https://seatable.io/ru/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+[Подробнее о видах →]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 
 ### Плагины
 

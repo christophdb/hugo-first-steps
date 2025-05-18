@@ -14,7 +14,7 @@ Dans cet article, vous apprendrez comment créer des analyses statistiques et de
 
 ## Filtrer, trier et grouper
 
-Les [filtres, les regroupements et les tris](https://seatable.io/fr/docs/grundlagen-von-ansichten/gruppierung-sortierung-und-filter/) vous permettent de mettre de l'ordre dans vos données en un rien de temps et de les préparer pour vos différents cas d'application. Grâce à la combinaison de ces outils d'analyse simples, que vous trouverez de manière centralisée dans chaque vue de tableau, même les grandes quantités de données sont structurées et faciles à gérer. Vous pouvez enregistrer différentes [vues](https://seatable.io/fr/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) afin de pouvoir y accéder ultérieurement.
+Les [filtres, les regroupements et les tris]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) afin de pouvoir y accéder ultérieurement.
 
 La [ligne d'état](https://seatable.io/fr/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) indique le **nombre de lignes** dans une vue et certaines **valeurs de colonne**. Vous pouvez choisir entre la somme, la moyenne, la médiane, le maximum ou le minimum de toutes les valeurs d'une colonne. Vous pouvez également déterminer ces valeurs de colonne pour des regroupements individuels.
 

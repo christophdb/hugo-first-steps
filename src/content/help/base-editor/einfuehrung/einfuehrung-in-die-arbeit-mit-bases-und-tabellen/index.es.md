@@ -37,6 +37,6 @@ La tabla es el nivel más importante en el que puede organizar sus datos en SeaT
 
 Dado que SeaTable es un **software de base de datos relacional**, puede vincular la información de diferentes tablas de una base mediante [enlaces](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [automatizaciones](https://seatable.io/es/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) y otras funciones.
 
-Una tabla consta de [filas](https://seatable.io/es/docs-category/seatable-nutzen/arbeiten-mit-zeilen) y [columnas](https://seatable.io/es/docs-category/seatable-nutzen/arbeiten-mit-spalten). Todas las entradas de una **fila** forman un **conjunto de datos** coherente. Los [tipos de columna](https://seatable.io/es/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) en SeaTable definen qué **tipos de datos** se pueden introducir en una **columna**.
+Una tabla consta de [filas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) en SeaTable definen qué **tipos de datos** se pueden introducir en una **columna**.
 
-Cada vez que visualizas tus datos en una tabla, lo haces a través de una [vista](https://seatable.io/es/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/). Las vistas te ofrecen un sinfín de opciones para mostrar los datos de tus tablas de forma diferente: filtrarlos, ordenarlos, agruparlos, ocultarlos, etc.
+Cada vez que visualizas tus datos en una tabla, lo haces a través de una [vista]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}). Las vistas te ofrecen un sinfín de opciones para mostrar los datos de tus tablas de forma diferente: filtrarlos, ordenarlos, agruparlos, ocultarlos, etc.

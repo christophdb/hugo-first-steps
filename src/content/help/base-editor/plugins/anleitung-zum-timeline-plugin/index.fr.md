@@ -40,4 +40,4 @@ Comme on peut le voir dans la vidéo ci-dessus, il est également possible de cr
 
 1. Cliquez sur l'**icône +** à droite du titre de votre première ligne de temps.
 2. Donnez un **nom** à la ligne de temps et confirmez en cliquant sur **Envoyer**.
-3. Dans les **paramètres** {{< seatable-icon icon="dtable-icon-set-up" >}}, déterminez à quelle [vue du tableau](https://seatable.io/fr/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) et à quelles [colonnes de dates](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) la nouvelle ligne de temps doit se référer.
+3. Dans les **paramètres** {{< seatable-icon icon="dtable-icon-set-up" >}}, déterminez à quelle [vue du tableau]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) et à quelles [colonnes de dates](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) la nouvelle ligne de temps doit se référer.

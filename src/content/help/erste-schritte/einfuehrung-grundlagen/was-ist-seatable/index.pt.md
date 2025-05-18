@@ -23,15 +23,15 @@ O SeaTable dá-lhe toda a liberdade para organizar os seus dados. O Excel, por e
 
 Pode armazenar informação baseada em texto em SeaTable, bem como imagens e ficheiros. Campos de selecção simples permitem uma categorização clara, campos de selecção múltipla para uma rápida digitação. Códigos de barras, dados de geo-localização, referências a pessoas e outros tipos de campo tornam possível combinar todos os dados num único local.
 
-E o SeaTable não só oferece um suporte de formato mais rico através de [mais de 20 tipos de colunas](https://seatable.io/pt/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/). Como uma aplicação de base de dados, SeaTable suporta relações entre conjuntos de dados de diferentes tabelas, resultando numa vasta gama de possibilidades de aplicação não imagináveis em Excel.
+E o SeaTable não só oferece um suporte de formato mais rico através de [mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Como uma aplicação de base de dados, SeaTable suporta relações entre conjuntos de dados de diferentes tabelas, resultando numa vasta gama de possibilidades de aplicação não imagináveis em Excel.
 
 ### ... apresenta os seus dados da forma que pretende que sejam apresentados
 
 Uma vez habituado às diversas funções de análise do SeaTable, nunca mais vai querer passar sem elas:
 
-[Vistas](https://seatable.io/pt/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) fáceis de utilizar asseguram-lhe sempre uma visão geral exacta dos dados de que necessita - e com várias estatísticas pode visualizar as suas avaliações rápida e facilmente.
+[Vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) fáceis de utilizar asseguram-lhe sempre uma visão geral exacta dos dados de que necessita - e com várias estatísticas pode visualizar as suas avaliações rápida e facilmente.
 
-Além disso, com SeaTables diferentes [plug-ins](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/) (tais como [calendário](https://seatable.io/pt/docs/plugins/anleitung-zum-kalender-plugin/), [galeria](https://seatable.io/pt/docs/plugins/anleitung-zum-galerie-plugin/) ou [plug-in de mapa](https://seatable.io/pt/docs/plugins/anleitung-zum-karten-plugin/)) obtêm-se opções de visualização completamente novas para apoiar de forma óptima o seu trabalho.
+Além disso, com SeaTables diferentes [plug-ins]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})) obtêm-se opções de visualização completamente novas para apoiar de forma óptima o seu trabalho.
 
 Por exemplo, um primeiro clique coloca as datas de um evento num calendário, um segundo clique mostra as fotografias que o acompanham numa galeria e um terceiro mostra os locais num mapa. Nunca mais vai querer passar sem isto.
 

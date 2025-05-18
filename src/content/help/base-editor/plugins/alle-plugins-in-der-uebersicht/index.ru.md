@@ -57,7 +57,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![](https://seatable.io/wp-content/uploads/2022/08/Map.png)
 
-[Подробнее о плагине для карт](https://seatable.io/ru/docs/plugins/anleitung-zum-karten-plugin/)
+[Подробнее о плагине для карт]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})
 
 ## Плагин для дедупликации данных
 

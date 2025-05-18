@@ -23,7 +23,7 @@ Se preferir ver vídeos, as instruções no nosso [canal do YouTube](https://www
 
 Que dados pretende recolher? Que processo da sua vida quotidiana pode não estar a correr tão bem?
 
-[Crie uma primeira base](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) e comece simplesmente por criar os [tipos de colunas](https://seatable.io/pt/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) adequados numa tabela para todas as informações de que dispõe. Pode fazer optimizações mais tarde.
+[Crie uma primeira base]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) adequados numa tabela para todas as informações de que dispõe. Pode fazer optimizações mais tarde.
 
 ## Passo 3: Inspire-se
 

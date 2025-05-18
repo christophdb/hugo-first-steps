@@ -42,13 +42,13 @@ Con las columnas de tu hoja de cálculo, tú determinas qué información se alm
 
 Si una columna es [numérica](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/), también puede almacenar sólo números en esa columna. SeaTable conoce una gran variedad de tipos de columnas diferentes, para que pueda capturar todos los datos que desee.
 
-[Más información sobre las columnas de SeaTable →](https://seatable.io/es/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/)
+[Más información sobre las columnas de SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 
 ### Vistas
 
 Las vistas permiten ver la misma información desde distintos ángulos. Las filas subyacentes son siempre las mismas, pero utilizando filtros, ordenación, agrupación, ocultación y formato condicional, puede crear sus propias vistas individuales de los datos relevantes para usted. Normalmente, todos los miembros del equipo comparten las mismas vistas dentro de una base. Sin embargo, también puede crear vistas privadas que sólo sean visibles para usted.
 
-[Más información sobre las vistas →](https://seatable.io/es/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+[Más información sobre las vistas →]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 
 ### Plugins
 

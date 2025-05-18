@@ -37,6 +37,6 @@ The table is the main level at which you can organize your data in SeaTable, com
 
 Since SeaTable is a **relational database software**, you can connect information in different tables of a base via [links](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [automations](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) and other functions.
 
-A table consists of [rows](https://seatable.io/en/docs-category/seatable-nutzen/arbeiten-mit-zeilen) and [columns](https://seatable.io/en/docs-category/seatable-nutzen/arbeiten-mit-spalten). All entries in a **row** column form a contiguous **data set**. The [column types](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) in SeaTable define which **data types** you can enter in a **column**.
+A table consists of [rows]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) in SeaTable define which **data types** you can enter in a **column**.
 
-Whenever you view your data in a table, you view it through a [view](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/). Views give you countless options to display the data in your tables differently - to filter, sort, group, hide, and so on.
+Whenever you view your data in a table, you view it through a [view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}). Views give you countless options to display the data in your tables differently - to filter, sort, group, hide, and so on.

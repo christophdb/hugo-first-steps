@@ -1,11 +1,11 @@
 ---
-title: "Übersicht über alle Spaltentypen"
+title: 'Übersicht über alle Spaltentypen'
 date: 2022-08-25
-lastmod: "2024-03-18"
-categories: 
-  - "arbeiten-mit-spalten"
-author: "cdb"
-url: "/de/hilfe/uebersicht-alle-spaltentypen"
+lastmod: '2024-03-18'
+categories:
+    - 'arbeiten-mit-spalten'
+author: 'cdb'
+url: '/de/hilfe/uebersicht-alle-spaltentypen'
 ---
 
 In SeaTable können Sie Informationen und Daten in den unterschiedlichsten Formaten abspeichern.
@@ -168,7 +168,7 @@ Weitere Informationen zur Schaltfläche und den in Spalten dieses Typs auslösba
 
 Symbol: {{< seatable-icon icon="dtable-icon-location" >}} **Geoposition**
 
-In dieser Spalte können Sie **Orte** festhalten und später mit dem [Karten-Plugin](https://seatable.io/docs/plugins/anleitung-zum-karten-plugin/) visualisieren. Dafür können Sie entweder die Angabe mit Land und Region oder mit Breiten- und Längengrad auswählen. Zusätzlich haben Sie die Möglichkeit, ein Land bzw. eine Region mithilfe der Suchfunktion zu finden und als Eintrag hinzuzufügen.
+In dieser Spalte können Sie **Orte** festhalten und später mit dem [Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) visualisieren. Dafür können Sie entweder die Angabe mit Land und Region oder mit Breiten- und Längengrad auswählen. Zusätzlich haben Sie die Möglichkeit, ein Land bzw. eine Region mithilfe der Suchfunktion zu finden und als Eintrag hinzuzufügen.
 
 [Mehr zur Geopositions-Spalte](https://seatable.io/docs/andere-spalten/die-geopositions-spalte/)
 

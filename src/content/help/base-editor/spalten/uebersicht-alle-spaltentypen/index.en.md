@@ -168,7 +168,7 @@ For more information about the button and the actions that can be triggered in c
 
 Symbol: {{< seatable-icon icon="dtable-icon-location" >}} **Geoposition**
 
-In this column you can record **locations** and visualize them later with the [map plugin](https://seatable.io/en/docs/plugins/anleitung-zum-karten-plugin/). For this you can either select the entry with country and region or with latitude and longitude. Additionally, you have the possibility to find a country or region using the search function and add it as an entry.
+In this column you can record **locations** and visualize them later with the [map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}). For this you can either select the entry with country and region or with latitude and longitude. Additionally, you have the possibility to find a country or region using the search function and add it as an entry.
 
 [More about the geoposition column](https://seatable.io/en/docs/andere-spalten/die-geopositions-spalte/)
 

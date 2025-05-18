@@ -16,8 +16,8 @@ url: '/ru/help/eine-excel-tabelle-ins-big-data-backend-importieren'
 
 ## Подготовка к импорту
 
-- В [представлениях больших данных](https://seatable.io/ru/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/) **нельзя** создавать **новые столбцы**. Поэтому необходимо предварительно создать нужную **структуру таблицы** в [обычном представлении](https://seatable.io/ru/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/).
-- Укажите [типы столбцов](https://seatable.io/ru/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/), **совместимые** с данными в электронной таблице Excel.
+- В [представлениях больших данных]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}).
+- Укажите [типы столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), **совместимые** с данными в электронной таблице Excel.
 - Чтобы обеспечить бесперебойный импорт, названия столбцов в SeaTable должны **совпадать с названиями столбцов в таблице Excel**.
 
 ## Импорт файла XLSX в представление Big Data

@@ -42,13 +42,13 @@ Utiliza as colunas da sua folha de cálculo para definir as informações que s�
 
 Se uma coluna for uma [coluna numérica](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/), também pode guardar apenas números nessa coluna. O SeaTable reconhece uma variedade de tipos de colunas diferentes para que possa registar todos os dados que desejar.
 
-[Saiba mais sobre as colunas no SeaTable →](https://seatable.io/pt/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/)
+[Saiba mais sobre as colunas no SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 
 ### Vistas
 
 As visualizações permitem-lhe ver a mesma informação de diferentes ângulos. As linhas subjacentes são sempre as mesmas, mas com a ajuda de filtros, ordenação, agrupamento, ocultação e formatação condicional, pode criar as suas próprias visualizações individuais dos dados relevantes para si. Normalmente, todos os membros da equipa partilham as mesmas visualizações dentro de uma base. No entanto, também pode criar visualizações privadas que só são visíveis para si.
 
-[Saber mais sobre as vistas →](https://seatable.io/pt/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/)
+[Saber mais sobre as vistas →]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 
 ### Plugins
 
