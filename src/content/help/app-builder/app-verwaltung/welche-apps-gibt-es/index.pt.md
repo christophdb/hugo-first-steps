@@ -10,7 +10,7 @@ url: '/pt/ajuda/welche-apps-gibt-es'
 
 **As aplicações** no SeaTable são **interfaces** individuais para grupos de utilizadores específicos que têm diferentes necessidades de informação (por exemplo, funcionários, gestores de departamento, directores). O acesso aberto às aplicações permite-lhe disponibilizar os seus dados a **terceiros externos** (por exemplo, clientes, parceiros comerciais) **sem uma conta SeaTable**.
 
-Para construir estas aplicações, existem os chamados **construtores de aplicações**, nos quais é possível criar diferentes interfaces de utilizador e fazer toda uma série de configurações. O **backend de** uma aplicação é sempre uma [base](https://seatable.io/pt/docs/arbeiten-mit-bases/bases/). Pode criar tantas aplicações quantas quiser para cada base. A regra geral é: uma aplicação por grupo de utilizadores e caso de utilização.
+Para construir estas aplicações, existem os chamados **construtores de aplicações**, nos quais é possível criar diferentes interfaces de utilizador e fazer toda uma série de configurações. O **backend de** uma aplicação é sempre uma [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Pode criar tantas aplicações quantas quiser para cada base. A regra geral é: uma aplicação por grupo de utilizadores e caso de utilização.
 
 ## As aplicações num relance
 

@@ -28,7 +28,7 @@ También puede importar tablas de **archivos** a su Base. La importación se rea
 
 ## Importar tabla de otra base
 
-En SeaTable, [las bases](https://seatable.io/es/docs/arbeiten-mit-bases/bases/) son básicamente unidades separadas, pero no es raro necesitar datos en otra base. En lugar de tener que exportar una tabla de una base e importarla a la base deseada, SeaTable ofrece la cómoda opción de **importar** tablas **directamente** desde otras bases y transferir así datos a través de los límites de las bases.
+En SeaTable, [las bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) son básicamente unidades separadas, pero no es raro necesitar datos en otra base. En lugar de tener que exportar una tabla de una base e importarla a la base deseada, SeaTable ofrece la cómoda opción de **importar** tablas **directamente** desde otras bases y transferir así datos a través de los límites de las bases.
 
 ![Importar una tabla de otra base](images/import-table-from-other-base.gif)
 

@@ -29,11 +29,11 @@ Si vous êtes familier avec la création de vos propres tableaux, colonnes et vu
 
 ## Gérer les bases
 
-Une fois que vous avez maîtrisé les premières étapes et créé vos premières bases, vous pouvez découvrir toute une palette de fonctions supplémentaires sur la page d'accueil et dans vos bases. Tout ce que vous devez savoir sur la gestion de vos bases est expliqué dans le chapitre [Bases](https://seatable.io/fr/docs/arbeiten-mit-bases/bases/).
+Une fois que vous avez maîtrisé les premières étapes et créé vos premières bases, vous pouvez découvrir toute une palette de fonctions supplémentaires sur la page d'accueil et dans vos bases. Tout ce que vous devez savoir sur la gestion de vos bases est expliqué dans le chapitre [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}).
 
 ## Tableaux et vues dans une base
 
-Le tableau est le niveau le plus important auquel vous pouvez organiser vos données dans SeaTable, comparable à une feuille de calcul dans un tableur. En principe, **les tableaux** représentent le niveau suivant dans la structure organisationnelle de SeaTable, en dessous des [bases](https://seatable.io/fr/docs/arbeiten-mit-bases/bases/).
+Le tableau est le niveau le plus important auquel vous pouvez organiser vos données dans SeaTable, comparable à une feuille de calcul dans un tableur. En principe, **les tableaux** représentent le niveau suivant dans la structure organisationnelle de SeaTable, en dessous des [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}).
 
 Comme SeaTable est un **logiciel de base de données relationnelle**, vous pouvez relier les informations contenues dans différentes tables d'une base à l'aide de [jointures]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), d ['automatisations](https://seatable.io/fr/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) et d'autres fonctions.
 

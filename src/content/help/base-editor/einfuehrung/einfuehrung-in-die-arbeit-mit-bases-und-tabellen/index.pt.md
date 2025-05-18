@@ -29,11 +29,11 @@ Se estiver familiarizado com a criação das suas próprias tabelas, colunas e v
 
 ## Gerir bases
 
-Depois de ter dominado com sucesso os primeiros passos e criado as suas primeiras bases, pode descobrir toda uma série de outras funções na página inicial e nas suas bases. Tudo o que precisa de saber sobre a gestão das suas bases pode ser encontrado no capítulo [Bases](https://seatable.io/pt/docs/arbeiten-mit-bases/bases/).
+Depois de ter dominado com sucesso os primeiros passos e criado as suas primeiras bases, pode descobrir toda uma série de outras funções na página inicial e nas suas bases. Tudo o que precisa de saber sobre a gestão das suas bases pode ser encontrado no capítulo [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}).
 
 ## Tabelas e vistas numa base
 
-A tabela é o nível mais importante em que pode organizar os seus dados em SeaTable, comparável a uma folha de cálculo numa folha de cálculo. Basicamente, **as tabelas** são o nível seguinte abaixo das [bases](https://seatable.io/pt/docs/arbeiten-mit-bases/bases/) na estrutura organizacional do SeaTable.
+A tabela é o nível mais importante em que pode organizar os seus dados em SeaTable, comparável a uma folha de cálculo numa folha de cálculo. Basicamente, **as tabelas** são o nível seguinte abaixo das [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) na estrutura organizacional do SeaTable.
 
 Uma vez que o SeaTable é um **software de base de dados relacional**, é possível ligar informações em diferentes tabelas de uma base através de [ligações]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [automatizações](https://seatable.io/pt/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) e outras funções.
 

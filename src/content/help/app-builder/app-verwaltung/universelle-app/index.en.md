@@ -82,11 +82,11 @@ If you've created a Universal App that you want to temporarily disable, you can 
 
 You can **delete** a universal app that you no longer need at any time. Please note the consequences of the deletion.
 
-[Learn more about deleting a Universal App here.](https://seatable.io/en/?post_type=docs&p=24860)
+[Learn more about deleting a Universal App here.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})
 
 ## No collaborative work in universal apps
 
-While the universal app has many advantages over [working in the](https://seatable.io/en/docs/arbeiten-mit-bases/bases/) base, there is a big difference if you want to work on the data together in a team. In a base, every change made by other users is displayed immediately. The entries change in real time. This type of collaborative work is not supported in the Universal app.
+While the universal app has many advantages over [working in the]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) base, there is a big difference if you want to work on the data together in a team. In a base, every change made by other users is displayed immediately. The entries change in real time. This type of collaborative work is not supported in the Universal app.
 
 ## Comments in universal apps
 

@@ -10,7 +10,7 @@ url: '/de/hilfe/welche-apps-gibt-es'
 
 **Apps** in SeaTable sind individuelle **Frontends** für spezifische Benutzergruppen, die unterschiedliche Informationsbedürfnisse haben (z. B. Mitarbeiter, Abteilungsleiter, Geschäftsführer). Durch den offenen Zugang zu Apps können Sie Ihre Daten auch für **externe Dritte** (z. B. Kunden, Geschäftspartner) **ohne SeaTable Konto** nutzbar machen.
 
-Um diese Apps zu bauen, gibt es sogenannte **App Builder**, in denen man verschiedene Benutzeroberflächen anlegen und eine ganze Menge Einstellungen vornehmen kann. Das **Backend** einer App bildet dabei immer eine [Base](https://seatable.io/docs/arbeiten-mit-bases/bases/). Für jede Base können Sie beliebig viele Apps erstellen. Als Faustregel gilt: eine App pro Benutzergruppe und Anwendungsfall.
+Um diese Apps zu bauen, gibt es sogenannte **App Builder**, in denen man verschiedene Benutzeroberflächen anlegen und eine ganze Menge Einstellungen vornehmen kann. Das **Backend** einer App bildet dabei immer eine [Base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Für jede Base können Sie beliebig viele Apps erstellen. Als Faustregel gilt: eine App pro Benutzergruppe und Anwendungsfall.
 
 ## Die Apps im Überblick
 

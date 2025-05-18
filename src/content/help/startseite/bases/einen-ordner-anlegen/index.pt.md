@@ -18,7 +18,7 @@ Para uma melhor visão geral das suas bases, tem a opção de criar novas **past
 2. Dependendo se pretende criar uma pasta em **As minhas bases**, **Partilhada comigo** ou num **grupo** específico, clique em **Adicionar uma base ou pasta** na área correspondente.
 3. Clique em **Criar pasta** no menu pendente que se abre.
 4. Dê à pasta um **nome à** sua escolha e confirme-o clicando no sinal verde.
-5. A **pasta** aparece agora na secção correspondente e pode preenchê-la com as [bases](https://seatable.io/pt/docs/arbeiten-mit-bases/bases/) que desejar.
+5. A **pasta** aparece agora na secção correspondente e pode preenchê-la com as [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) que desejar.
    {{< warning  headline="Nota importante"  text="Para criar uma pasta dentro de um **grupo**, tem de ser **o proprietário** ou **o** **administrador do** grupo. Esta função **não** está disponível para utilizadores que sejam apenas **membros de** um grupo." />}}
 
 ## Criar uma pasta na síntese de pastas

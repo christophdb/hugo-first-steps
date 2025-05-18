@@ -18,7 +18,7 @@ Für eine bessere Übersicht über Ihre Bases haben Sie die Möglichkeit, sowohl
 2. Je nachdem, ob Sie unter **Meine Bases**, **Für mich freigegeben** oder in einer bestimmten **Gruppe** einen Ordner anlegen möchten, klicken Sie im entsprechenden Bereich auf **Eine Base oder Ordner hinzufügen.**
 3. Klicken Sie im sich öffnenden Drop-down-Menü auf **Ordner erstellen**.
 4. Geben Sie dem Ordner einen beliebigen **Namen** und bestätigen Sie diesen mit einem Klick auf den grünen Haken.
-5. Der **Ordner** erscheint nun im entsprechenden Abschnitt und Sie können diesen nach Belieben mit [Bases](https://seatable.io/docs/arbeiten-mit-bases/bases/) füllen.
+5. Der **Ordner** erscheint nun im entsprechenden Abschnitt und Sie können diesen nach Belieben mit [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) füllen.
    {{< warning  headline="Wichtiger Hinweis"  text="Um innerhalb einer **Gruppe** einen Ordner anzulegen, müssen Sie entweder **Eigentümer** oder **Administrator** der Gruppe sein. Nutzern, die lediglich **Mitglieder** einer Gruppe sind, steht diese Funktion **nicht** zur Verfügung." />}}
 
 ## Einen Ordner in der Ordner-Übersicht anlegen

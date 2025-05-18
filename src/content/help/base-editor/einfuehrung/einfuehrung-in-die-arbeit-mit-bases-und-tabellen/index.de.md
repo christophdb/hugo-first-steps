@@ -29,11 +29,11 @@ Wenn Sie mit der Erstellung Ihrer eigenen Tabellen, Spalten und Ansichten vertra
 
 ## Bases verwalten
 
-Wenn Sie die ersten Schritte erfolgreich gemeistert und Ihre ersten Bases erschaffen haben, können Sie auf der Startseite und in Ihren Bases noch eine ganze Palette an weiterführenden Funktionen entdecken. Alles, was Sie zur Verwaltung Ihrer Bases wissen müssen, erfahren Sie im Kapitel [Bases](https://seatable.io/docs/arbeiten-mit-bases/bases/).
+Wenn Sie die ersten Schritte erfolgreich gemeistert und Ihre ersten Bases erschaffen haben, können Sie auf der Startseite und in Ihren Bases noch eine ganze Palette an weiterführenden Funktionen entdecken. Alles, was Sie zur Verwaltung Ihrer Bases wissen müssen, erfahren Sie im Kapitel [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}).
 
 ## Tabellen und Ansichten in einer Base
 
-Die Tabelle ist die wichtigste Ebene, auf der Sie Ihre Daten in SeaTable organisieren können, vergleichbar mit einem Arbeitsblatt in einer Tabellenkalkulation. Grundsätzlich stellen **Tabellen** in der Organisationsstruktur von SeaTable die nächste Ebene unterhalb von [Bases](https://seatable.io/docs/arbeiten-mit-bases/bases/) dar.
+Die Tabelle ist die wichtigste Ebene, auf der Sie Ihre Daten in SeaTable organisieren können, vergleichbar mit einem Arbeitsblatt in einer Tabellenkalkulation. Grundsätzlich stellen **Tabellen** in der Organisationsstruktur von SeaTable die nächste Ebene unterhalb von [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) dar.
 
 Da es sich bei SeaTable um eine **relationale Datenbank**\-Software handelt, können Sie Informationen in verschiedenen Tabellen einer Base über [Verknüpfungen]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [Automationen](https://seatable.io/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) und andere Funktionen miteinander verbinden.
 

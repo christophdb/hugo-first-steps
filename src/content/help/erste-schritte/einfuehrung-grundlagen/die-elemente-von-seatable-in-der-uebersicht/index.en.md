@@ -18,7 +18,7 @@ The intuitive yet powerful low-code SeaTable platform gives everyone the flexibi
 
 After logging in, you start on the home page of SeaTable. Each square tile represents a project, database or process of yours. SeaTable calls these objects "bases". Bases contain all the information you need for a particular project or data collection, much like a folder that contains individual files.
 
-[Learn more about Bases →](https://seatable.io/en/docs/arbeiten-mit-bases/bases/)
+[Learn more about Bases →]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}})
 
 ---
 

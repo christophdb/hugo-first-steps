@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/help/die-erste-base'
 ---
 
-In SeaTable you organize your data in [bases](https://seatable.io/en/docs/arbeiten-mit-bases/bases/). A base is a container for one or more tables. The tables of a base can stand independently next to each other or - as in a database - be linked to each other via relations.
+In SeaTable you organize your data in [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). A base is a container for one or more tables. The tables of a base can stand independently next to each other or - as in a database - be linked to each other via relations.
 
 You can also [share]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) with other team members or [invite](https://seatable.io/en/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) external third parties to work on them together.
 

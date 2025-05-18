@@ -18,7 +18,7 @@ Para tener una mejor visión de conjunto de tus bases, tienes la opción de crea
 2. Dependiendo de si desea crear una carpeta en **Mis bases**, **Compartidas conmigo** o en un **grupo** específico, haga clic en **Añadir una base o carpeta** en el área correspondiente.
 3. Haga clic en **Crear carpeta** en el menú desplegable que se abre.
 4. Asigne a la carpeta **el nombre** que desee y confírmelo haciendo clic en la marca verde.
-5. La **carpeta** aparece ahora en la sección correspondiente y puede llenarla de [bases](https://seatable.io/es/docs/arbeiten-mit-bases/bases/) como desee.
+5. La **carpeta** aparece ahora en la sección correspondiente y puede llenarla de [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) como desee.
    {{< warning  headline="Nota importante"  text="Para crear una carpeta dentro de un **grupo**, debe ser **propietario** o **administrador** del grupo. Esta función **no** está disponible para los usuarios que sólo son **miembros de** un grupo." />}}
 
 ## Crear una carpeta en la vista general de carpetas

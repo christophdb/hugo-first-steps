@@ -18,7 +18,7 @@ Intuitive mais puissante, la plateforme Low-Code SeaTable offre à chacun la fle
 
 Après vous être connecté, vous démarrez sur la page d'accueil de SeaTable. Chaque tuile carrée représente un de vos projets, une base de données ou un processus. SeaTable appelle ces objets des "bases". Les bases contiennent toutes les informations dont vous avez besoin pour un projet ou une collection de données spécifique, un peu comme un dossier qui contient des fichiers individuels.
 
-[En savoir plus sur Bases →](https://seatable.io/fr/docs/arbeiten-mit-bases/bases/)
+[En savoir plus sur Bases →]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}})
 
 ---
 

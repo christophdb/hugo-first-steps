@@ -18,7 +18,7 @@ For a better overview of your bases, you have the option to create new **folders
 2. Depending on whether you want to create a folder under **My Bases**, **Shared with Me** or in a specific **group**, click **Add a Base or Folder** in the corresponding area.
 3. In the drop-down menu that opens, click **Create Folder**.
 4. Give the folder any **name** and confirm it by clicking the green checkmark.
-5. The **folder** will now appear in the appropriate section and you can fill it with [bases](https://seatable.io/en/docs/arbeiten-mit-bases/bases/) as you wish.
+5. The **folder** will now appear in the appropriate section and you can fill it with [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) as you wish.
    {{< warning  headline="Important note"  text="To create a folder within a **group**, you must be either **the owner** or **administrator of** the group. This function is **not** available to users who are only **members of** a group." />}}
 
 ## Create a folder in the folder overview

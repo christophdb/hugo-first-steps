@@ -82,11 +82,11 @@ Si vous avez créé une application universelle que vous souhaitez désactiver t
 
 Vous pouvez **supprimer** à tout moment une application universelle dont vous n’avez plus besoin. Veuillez noter les conséquences de la suppression.
 
-[Apprenez-en plus sur la suppression d'une application universelle ici.](https://seatable.io/fr/?post_type=docs&p=24860)
+[Apprenez-en plus sur la suppression d'une application universelle ici.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})
 
 ## Pas de travail collaboratif dans les apps universelles
 
-Alors que l'application universelle présente de nombreux avantages par rapport au [travail dans la base](https://seatable.io/fr/docs/arbeiten-mit-bases/bases/), il y a une grande différence si vous souhaitez travailler en équipe sur les données. Dans une base, toute modification effectuée par d'autres utilisateurs vous est immédiatement signalée. Les entrées changent en temps réel. Dans l'application universelle, ce type de travail collaboratif n'est pas pris en charge.
+Alors que l'application universelle présente de nombreux avantages par rapport au [travail dans la base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}), il y a une grande différence si vous souhaitez travailler en équipe sur les données. Dans une base, toute modification effectuée par d'autres utilisateurs vous est immédiatement signalée. Les entrées changent en temps réel. Dans l'application universelle, ce type de travail collaboratif n'est pas pris en charge.
 
 ## Commentaires dans les apps universelles
 

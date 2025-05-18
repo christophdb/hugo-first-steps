@@ -18,7 +18,7 @@ Pour une meilleure vue d'ensemble de vos bases, vous avez la possibilité de cr�
 2. Selon que vous souhaitez créer un dossier sous **Mes bases**, **Partagé avec moi** ou dans un **groupe** spécifique, cliquez sur **Ajouter une base ou un dossier** dans la zone correspondante **.**
 3. Cliquez sur **Créer un dossier** dans le menu déroulant qui s'ouvre.
 4. Donnez au dossier le **nom** de votre choix et confirmez-le en cliquant sur la coche verte.
-5. Le **dossier** apparaît alors dans la section correspondante et vous pouvez le remplir de [bases](https://seatable.io/fr/docs/arbeiten-mit-bases/bases/) à votre guise.
+5. Le **dossier** apparaît alors dans la section correspondante et vous pouvez le remplir de [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) à votre guise.
    {{< warning  headline="Remarque importante"  text="Pour créer un dossier dans un **groupe**, vous devez être soit **propriétaire**, soit **administrateur** du groupe. Les utilisateurs qui ne sont que **membres** d'un groupe n'ont **pas** accès à cette fonction." />}}
 
 ## Créer un dossier dans l'aperçu des dossiers

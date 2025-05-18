@@ -82,11 +82,11 @@ Si ha creado una aplicación universal que desea deshabilitar temporalmente, pue
 
 Puede **eliminar** una aplicación universal que ya no necesite en cualquier momento. Tenga en cuenta las consecuencias de la eliminación.
 
-[Más información sobre cómo eliminar una aplicación universal aquí.](https://seatable.io/es/?post_type=docs&p=24860)
+[Más información sobre cómo eliminar una aplicación universal aquí.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})
 
 ## No hay trabajo colaborativo en las aplicaciones universales
 
-Aunque la aplicación universal tiene muchas ventajas sobre el [trabajo en la](https://seatable.io/es/docs/arbeiten-mit-bases/bases/) base, hay una gran diferencia si quieres trabajar con los datos en equipo. En una base, cada cambio realizado por otros usuarios se muestra inmediatamente. Las entradas cambian en tiempo real. Este tipo de trabajo colaborativo no está soportado en la app universal.
+Aunque la aplicación universal tiene muchas ventajas sobre el [trabajo en la]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) base, hay una gran diferencia si quieres trabajar con los datos en equipo. En una base, cada cambio realizado por otros usuarios se muestra inmediatamente. Las entradas cambian en tiempo real. Este tipo de trabajo colaborativo no está soportado en la app universal.
 
 ## Comentarios en aplicaciones universales
 

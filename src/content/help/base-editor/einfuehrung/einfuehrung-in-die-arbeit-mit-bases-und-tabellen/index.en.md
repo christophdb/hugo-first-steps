@@ -29,11 +29,11 @@ If you are familiar with creating your own tables, columns and views, you can st
 
 ## Manage bases
 
-When you have successfully mastered the first steps and created your first bases, you can discover a whole range of further functions on the start page and in your bases. You can learn everything you need to know about managing your bases in the [Bases](https://seatable.io/en/docs/arbeiten-mit-bases/bases/) chapter.
+When you have successfully mastered the first steps and created your first bases, you can discover a whole range of further functions on the start page and in your bases. You can learn everything you need to know about managing your bases in the [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) chapter.
 
 ## Tables and views in a base
 
-The table is the main level at which you can organize your data in SeaTable, comparable to a worksheet in a spreadsheet. Basically, **tables** are the next level below [Bases](https://seatable.io/en/docs/arbeiten-mit-bases/bases/) in SeaTable's organizational structure.
+The table is the main level at which you can organize your data in SeaTable, comparable to a worksheet in a spreadsheet. Basically, **tables** are the next level below [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) in SeaTable's organizational structure.
 
 Since SeaTable is a **relational database software**, you can connect information in different tables of a base via [links]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [automations](https://seatable.io/en/docs/beispiel-automationen/eintraege-in-andere-tabellen-per-automation-hinzufuegen/) and other functions.
 

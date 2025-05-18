@@ -18,7 +18,7 @@ Die intuitive und dennoch leistungsstarke Low-Code-Plattform SeaTable gibt jedem
 
 Nach dem Login starten Sie auf der Startseite von SeaTable. Jede quadratische Kachel steht für ein Projekt, eine Datenbank oder einen Prozess von Ihnen. SeaTable nennt diese Objekte "Bases". Bases enthalten alle Informationen, die Sie für ein bestimmtes Projekt oder eine Datensammlung benötigen, ähnlich wie ein Ordner, der einzelne Dateien enthält.
 
-[Erfahren Sie mehr über Bases →](https://seatable.io/docs/arbeiten-mit-bases/bases/)
+[Erfahren Sie mehr über Bases →]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}})
 
 ---
 

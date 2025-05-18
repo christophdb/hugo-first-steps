@@ -82,11 +82,11 @@ Wenn Sie eine Universelle App erstellt haben, deren Nutzung Sie zeitweise unterb
 
 Eine Universelle App, die Sie nicht mehr benötigen, können Sie jederzeit **löschen**. Beachten Sie dabei, welche Konsequenzen die Löschung hat.
 
-[Erfahren Sie hier mehr zur Löschung einer Universellen App.](https://seatable.io/?post_type=docs&p=24860)
+[Erfahren Sie hier mehr zur Löschung einer Universellen App.]({{< relref "help/app-builder/app-verwaltung/apps-loeschen" >}})
 
 ## Kein kollaboratives Arbeiten in Universellen Apps
 
-Während die Universelle App viele Vorteile gegenüber der [Arbeit in der Base](https://seatable.io/docs/arbeiten-mit-bases/bases/) hat, gibt es einen großen Unterschied, wenn Sie gemeinsam im Team an den Daten arbeiten wollen. In einer Base wird Ihnen jede Änderung, die von anderen Anwendern ausgeführt wird, unmittelbar angezeigt. Die Einträge verändern sich in Echtzeit. Bei der Universellen App wird diese Art der kollaborativen Zusammenarbeit nicht unterstützt.
+Während die Universelle App viele Vorteile gegenüber der [Arbeit in der Base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) hat, gibt es einen großen Unterschied, wenn Sie gemeinsam im Team an den Daten arbeiten wollen. In einer Base wird Ihnen jede Änderung, die von anderen Anwendern ausgeführt wird, unmittelbar angezeigt. Die Einträge verändern sich in Echtzeit. Bei der Universellen App wird diese Art der kollaborativen Zusammenarbeit nicht unterstützt.
 
 ## Kommentare in Universellen Apps
 

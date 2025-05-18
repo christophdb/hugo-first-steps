@@ -18,7 +18,7 @@ A intuitiva e poderosa plataforma de baixo código SeaTable dá a todos a flexib
 
 Depois de iniciar a sessão, é apresentada a página inicial do SeaTable. Cada quadrado representa um dos seus projectos, bases de dados ou processos. O SeaTable chama a estes objectos "Bases". As Bases contêm todas as informações necessárias para um projeto ou recolha de dados específicos, à semelhança de uma pasta que contém ficheiros individuais.
 
-[Saber mais sobre Bases →](https://seatable.io/pt/docs/arbeiten-mit-bases/bases/)
+[Saber mais sobre Bases →]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}})
 
 ---
 
