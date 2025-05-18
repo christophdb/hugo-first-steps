@@ -31,7 +31,7 @@ Ce type de page vous permet d'ajouter n'importe quel **tableau** de votre base c
 
 ![En utilisant le type de page : Tableau Tableau ajouté à votre page](images/page-type-table-example-1.png)
 
-[En savoir plus sur les pages de tableaux dans les apps universelles.](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/)
+[En savoir plus sur les pages de tableaux dans les apps universelles.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}})
 
 ## Type de page : Formulaire
 

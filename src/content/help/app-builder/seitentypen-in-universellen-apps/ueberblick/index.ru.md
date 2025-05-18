@@ -31,7 +31,7 @@ weight: 1
 
 ![Использование типа страницы: Таблица добавлена к вашей странице](images/page-type-table-example-1.png)
 
-[Узнайте больше о табличных страницах в универсальных приложениях.](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/)
+[Узнайте больше о табличных страницах в универсальных приложениях.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}})
 
 ## Тип страницы: Форма
 

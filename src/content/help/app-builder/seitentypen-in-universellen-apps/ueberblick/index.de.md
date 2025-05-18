@@ -31,7 +31,7 @@ Mithilfe dieses Seitentyps können Sie eine beliebige **Tabelle** Ihrer Base als
 
 ![Mithilfe des Seitentyps: Tabelle hinzugefügte Tabelle zu Ihrer Seite](images/page-type-table-example-1.png)
 
-[Erfahren Sie mehr über Tabellenseiten in Universellen Apps.](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/)
+[Erfahren Sie mehr über Tabellenseiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}})
 
 ## Seitentyp: Formular
 

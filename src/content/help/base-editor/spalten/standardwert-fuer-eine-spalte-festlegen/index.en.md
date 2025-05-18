@@ -73,7 +73,7 @@ The default values apply **wherever** you can create new rows :
 - via [automation](https://seatable.io/en/docs/automationen/automations-aktionen/) (actions: "Addrow " and "Add new entry in another table")
 - in the [calendar](https://seatable.io/en/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [gallery](https://seatable.io/en/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) or [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/)
 - via [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- on [table](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [form](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) and [Kanban pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) of apps
+- on [table]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [form](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) and [Kanban pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) of apps
 
 ![Default value applies everywhere for new rows](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 

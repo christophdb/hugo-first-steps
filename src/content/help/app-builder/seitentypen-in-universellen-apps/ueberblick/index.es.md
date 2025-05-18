@@ -31,7 +31,7 @@ Puedes utilizar este tipo de página para añadir cualquier **tabla** de tu base
 
 ![Uso del tipo de página: Tabla añadida a su página](images/page-type-table-example-1.png)
 
-[Más información sobre páginas de tablas en aplicaciones universales.](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/)
+[Más información sobre páginas de tablas en aplicaciones universales.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Formulario
 

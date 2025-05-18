@@ -53,7 +53,11 @@ url: '/ru/help/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
 
 ![Строки, скопированные с помощью кнопки](images/Per-Schaltflaeche-kopierte-Zeilen.gif)
 
-{{< warning  headline="Примечание"  text="Это действие кнопки не поддерживается на [страницах таблиц в универсальных приложениях](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/). При нажатии кнопки появляется соответствующее сообщение об ошибке." />}}
+{{< warning  headline="Примечание" >}}
+
+Это действие кнопки не поддерживается на [страницах таблиц в универсальных приложениях]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). При нажатии кнопки появляется соответствующее сообщение об ошибке.
+
+{{< /warning >}}
 
 ## Автоматизация как дополнительная возможность
 

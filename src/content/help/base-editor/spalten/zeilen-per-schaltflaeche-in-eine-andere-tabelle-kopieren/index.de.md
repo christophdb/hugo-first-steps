@@ -50,7 +50,11 @@ In unserem Anwendungsbeispiel sollen bei Knopfdruck weibliche Gäste in die Tabe
 
 ![Per Schaltfläche kopierte Zeilen](images/Per-Schaltflaeche-kopierte-Zeilen.gif)
 
-{{< warning  type="warning" headline="Hinweis"  text="Auf [Tabellenseiten in Universellen Apps](\"https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/\") wird diese Schaltflächen-Aktion nicht unterstützt. Bei Knopfdruck erscheint eine entsprechende Fehlermeldung." />}}
+{{< warning  type="warning" headline="Hinweis" >}}
+
+Auf [Tabellenseiten in Universellen Apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) wird diese Schaltflächen-Aktion nicht unterstützt. Bei Knopfdruck erscheint eine entsprechende Fehlermeldung.
+
+{{< /warning >}}
 
 ## Automation als weitere Option
 

@@ -73,7 +73,7 @@ Los valores por defecto se aplican **siempre que** se puedan crear nuevas línea
 - mediante [automatización](https://seatable.io/es/docs/automationen/automations-aktionen/) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")
 - en el [calendario](https://seatable.io/es/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), la [galería](https://seatable.io/es/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) o el [plugin Kanban](https://seatable.io/es/docs/plugins/anleitung-zum-kanban-plugin/)
 - mediante [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- en las [páginas de](https://seatable.io/es/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) [tablas](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) y [Kanban](https://seatable.io/es/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) de las aplicaciones
+- en las [páginas de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) y [Kanban](https://seatable.io/es/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) de las aplicaciones
 
 ![El valor por defecto se aplica en todas las líneas nuevas](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 

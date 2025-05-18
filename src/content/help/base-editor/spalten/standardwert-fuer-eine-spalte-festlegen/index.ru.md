@@ -73,7 +73,7 @@ url: '/ru/help/standardwert-fuer-eine-spalte-festlegen'
 - с помощью [автоматизации](https://seatable.io/ru/docs/automationen/automations-aktionen/) (действия: "Добавить строку" и "Добавить новую запись в другую таблицу")
 - в [календаре](https://seatable.io/ru/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [галерее](https://seatable.io/ru/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) или [плагине Kanban](https://seatable.io/ru/docs/plugins/anleitung-zum-kanban-plugin/)
 - через [веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- на [страницах](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) [таблиц](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) и [Kanban](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) в приложениях
+- на [страницах]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) и [Kanban](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) в приложениях
 
 ![Значение по умолчанию применяется везде для новых строк](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 

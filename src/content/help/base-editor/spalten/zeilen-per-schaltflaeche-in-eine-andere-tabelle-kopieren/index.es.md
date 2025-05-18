@@ -53,7 +53,11 @@ En nuestro ejemplo de aplicación, cuando se pulsa el botón, las invitadas feme
 
 ![Líneas copiadas por botón](images/Per-Schaltflaeche-kopierte-Zeilen.gif)
 
-{{< warning  headline="Nota"  text="Esta acción de botón no es compatible con las [páginas de tabla de las aplicaciones universales](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/). Cuando se pulsa el botón, aparece el mensaje de error correspondiente." />}}
+{{< warning  headline="Nota" >}}
+
+Esta acción de botón no es compatible con las [páginas de tabla de las aplicaciones universales]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). Cuando se pulsa el botón, aparece el mensaje de error correspondiente.
+
+{{< /warning >}}
 
 ## La automatización como opción adicional
 

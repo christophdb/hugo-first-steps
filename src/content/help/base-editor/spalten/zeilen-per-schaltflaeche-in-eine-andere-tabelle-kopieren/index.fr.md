@@ -53,7 +53,11 @@ Dans notre exemple d'application, les invités féminins doivent être copiés d
 
 ![Lignes copiées par bouton](images/Per-Schaltflaeche-kopierte-Zeilen.gif)
 
-{{< warning  headline="Remarque"  text="Cette action de bouton n'est pas supportée sur les [pages de tableau dans les apps universelles](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/). Si l'on appuie sur le bouton, un message d'erreur correspondant apparaît." />}}
+{{< warning  headline="Remarque" >}}
+
+Cette action de bouton n'est pas supportée sur les [pages de tableau dans les apps universelles]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). Si l'on appuie sur le bouton, un message d'erreur correspondant apparaît.
+
+{{< /warning >}}
 
 ## L'automatisation comme option supplémentaire
 

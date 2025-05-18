@@ -74,7 +74,7 @@ Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 - per [Automation](https://seatable.io/docs/automationen/automations-aktionen/) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
 - im [Kalender-](https://seatable.io/docs/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen/), [Galerie-](https://seatable.io/docs/plugins/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen/) oder [Kanban-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kanban-plugin/)
 - über [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- auf [Tabellen-](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), [Formular-](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) und [Kanbanseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) von Apps
+- auf [Tabellen-]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), [Formular-](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) und [Kanbanseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/kanbanseiten-in-universellen-apps/) von Apps
 
 ![Standardwert greift überall bei neuen Zeilen](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 

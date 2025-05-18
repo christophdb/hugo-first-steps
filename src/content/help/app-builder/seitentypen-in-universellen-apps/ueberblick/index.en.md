@@ -31,7 +31,7 @@ You can use this page type to add any **table** from your base as a page to your
 
 ![Using the page type: Table added to your page](images/page-type-table-example-1.png)
 
-[Learn more about table pages in universal apps.](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/)
+[Learn more about table pages in universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}})
 
 ## Page type: Form
 

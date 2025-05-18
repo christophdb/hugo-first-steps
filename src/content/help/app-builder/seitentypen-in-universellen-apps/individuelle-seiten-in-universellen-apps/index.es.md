@@ -154,7 +154,7 @@ Todos los cambios de ajuste se realizan **en tiempo real**, es decir, el diagram
 
 ### Mesa simple
 
-Existe un tipo especial de estadísticas en páginas individuales: la **tabla simple** permite -de forma similar a las páginas [de tablas](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tablas, es posible combinar **varias tablas** en un panel de control.
+Existe un tipo especial de estadísticas en páginas individuales: la **tabla simple** permite -de forma similar a las páginas [de tablas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) - la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tablas, es posible combinar **varias tablas** en un panel de control.
 
 ![Nuevo tipo de gráfico "Cuadro básico"](images/BasicTable.png)
 
