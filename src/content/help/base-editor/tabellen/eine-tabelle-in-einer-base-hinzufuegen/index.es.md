@@ -22,7 +22,7 @@ Las bases constan de una o varias tablas, que a su vez pueden contener datos muy
 
 ## Importar tabla desde un archivo
 
-También puede importar tablas de **archivos** a su Base. La importación se realiza como [archivo CSV](https://seatable.io/es/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) o [archivo Excel](https://seatable.io/es/docs/import-von-daten/import-von-excel-dateien-in-seatable/). [Aquí](https://seatable.io/es/docs/import-von-daten/datenimport-und-export/#tabelle_importieren) encontrará información detallada sobre la importación de datos.
+También puede importar tablas de **archivos** a su Base. La importación se realiza como [archivo CSV]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#tabelle_importieren) encontrará información detallada sobre la importación de datos.
 
 ![Importar tabla desde un archivo](images/import-data-in-table.jpg)
 

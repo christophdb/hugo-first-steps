@@ -30,7 +30,7 @@ url: '/ru/help/sicherheitseinstellungen-in-einer-base'
 
 ### Предотвращение экспорта базы
 
-Активировав эту настройку, вы можете **запретить** другим пользователям [экспортировать](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/#base_exportieren) вашу базу.
+Активировав эту настройку, вы можете **запретить** другим пользователям [экспортировать]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_exportieren) вашу базу.
 
 Если эта настройка **активирована**, то данная база больше не может быть экспортирована **никем** до тех пор, пока эта настройка не будет снова деактивирована владельцем или администратором. Если пользователь все же попытается экспортировать данную базу через стартовую страницу, экспорт будет **предотвращен** и появится следующее **сообщение об ошибке**:
 
@@ -68,7 +68,7 @@ url: '/ru/help/sicherheitseinstellungen-in-einer-base'
 
 ### Предотвращение экспорта базы
 
-Активизировав этот параметр, можно **запретить** пользователям, которым [предоставлена](https://seatable.io/ru/docs/freigaben/anlegen-einer-benutzerfreigabe/) соответствующая [база](https://seatable.io/ru/docs/freigaben/anlegen-einer-benutzerfreigabe/), [экспортировать](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/#base_exportieren) ее.
+Активизировав этот параметр, можно **запретить** пользователям, которым [предоставлена]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_exportieren) ее.
 
 ### Предотвращение печати базы
 

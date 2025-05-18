@@ -34,7 +34,7 @@ Back on your home page you will find a new Base within the selected group or in 
 
 You can create your own template from scratch or derive it from an existing base or table. The procedure is identical: create the tables you need in a base, define the table layout according to your needs and create the views, plugins, statistics and web forms your use case requires. Also add some dummy data to illustrate the use of the template and make it easier for users to use.
 
-Now export your template. Exporting a template is identical to [exporting a Base](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/). Whenever you and your colleagues want to use your template, import the export file of the Base in [DTABLE format](https://seatable.io/en/docs/import-von-daten/dtable-dateiformat/) again and get started right away. For more information, see the article [Data import and export](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/).
+Now export your template. Exporting a template is identical to [exporting a Base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Submit your personal template
 

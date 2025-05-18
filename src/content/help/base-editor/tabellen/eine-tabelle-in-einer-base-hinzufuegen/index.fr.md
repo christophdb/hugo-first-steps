@@ -22,7 +22,7 @@ Les bases se composent d'un ou de plusieurs tableaux qui peuvent à leur tour co
 
 ## Importer un tableau à partir d'un fichier
 
-Vous pouvez également importer des tableaux dans votre base à partir de **fichiers**. L'importation se fait alors sous forme de [fichier CSV](https://seatable.io/fr/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) ou [de fichier Excel](https://seatable.io/fr/docs/import-von-daten/import-von-excel-dateien-in-seatable/). Vous trouverez [ici](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/#tabelle_importieren) des informations détaillées sur l'importation de données.
+Vous pouvez également importer des tableaux dans votre base à partir de **fichiers**. L'importation se fait alors sous forme de [fichier CSV]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#tabelle_importieren) des informations détaillées sur l'importation de données.
 
 ![Importer un tableau à partir d'un fichier](images/import-data-in-table.jpg)
 

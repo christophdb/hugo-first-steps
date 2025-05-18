@@ -22,7 +22,7 @@ Mit einem Klick auf das **Avatar-Bild** in der oberen rechten Ecke können Sie i
 
 Mit einem Klick auf **Base hinzufügen** legen Sie Ihre erste eigene Base an. Geben Sie ihr einen **Namen**, drücken Sie **Enter** und die Base wird auf der Startseite abgelegt. Wenn Sie den Mauszeiger auf den Namen der Base bewegen, erscheinen rechts ein **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}} und das Drei-Punkte-Symbol {{< seatable-icon icon="dtable-icon-more-vertical" >}} für die erweiterten Funktionen.
 
-Über das Stift-Symbol können Sie die Base umbenennen und ihr ein anderes Icon sowie eine andere Farbe zuweisen. Zu den erweiterten Funktionen gehören z. B. die [Freigabe]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) einer Base oder deren [Export](https://seatable.io/docs/import-von-daten/datenimport-und-export/). Sie öffnen die Base mit einem Klick auf ihren Namen.
+Über das Stift-Symbol können Sie die Base umbenennen und ihr ein anderes Icon sowie eine andere Farbe zuweisen. Zu den erweiterten Funktionen gehören z. B. die [Freigabe]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) einer Base oder deren [Export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}). Sie öffnen die Base mit einem Klick auf ihren Namen.
 
 ## Tabellenansicht
 

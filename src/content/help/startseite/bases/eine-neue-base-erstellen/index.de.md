@@ -1,11 +1,11 @@
 ---
-title: "Eine neue Base erstellen"
+title: 'Eine neue Base erstellen'
 date: 2022-09-19
-lastmod: "2023-06-27"
-categories: 
-  - "arbeiten-mit-bases"
-author: "nsc2"
-url: "/de/hilfe/eine-neue-base-erstellen"
+lastmod: '2023-06-27'
+categories:
+    - 'arbeiten-mit-bases'
+author: 'nsc2'
+url: '/de/hilfe/eine-neue-base-erstellen'
 ---
 
 In SeaTable haben Sie die Möglichkeit, im Arbeitsbereich **Meine Bases** eine neue leere Base zu erstellen. Auch in einer Ihrer **Gruppen** können Sie eine neue Base anlegen, wenn Sie Eigentümer oder Administrator dieser Gruppe sind. Als einfaches Gruppenmitglied können Sie allerdings keine neue Base in einer Gruppe anlegen.
@@ -31,7 +31,7 @@ Zusätzlich besteht die Möglichkeit, eine neue Base über einen Ordner zu erste
 1. Beginnen Sie auf der **Startseite** von SeaTable.
 2. Klicken Sie im entsprechenden Arbeitsbereich (Meine Bases oder eine Ihrer Gruppen) auf einen **Ordner**.
 3. Im sich öffnenden Fenster klicken Sie oben rechts auf **Neu**.
-4. Wählen Sie aus, ob Sie eine **leere Base erstellen**, eine [Base importieren](https://seatable.io/docs/import-von-daten/datenimport-und-export/#base_importieren) oder eine [Base aus einer Vorlage](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) erstellen möchten.
+4. Wählen Sie aus, ob Sie eine **leere Base erstellen**, eine [Base importieren]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) oder eine [Base aus einer Vorlage](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) erstellen möchten.
 5. Geben Sie der Base einen **Namen**, weisen Sie ihr eine Farbe und ein Icon zu und speichern Sie den Vorgang durch Drücken der **Enter-Taste**.
 6. Die neu erstellte Base erscheint nun in der Ordner-Übersicht und ist im entsprechenden **Ordner** auf der Startseite gespeichert.
 

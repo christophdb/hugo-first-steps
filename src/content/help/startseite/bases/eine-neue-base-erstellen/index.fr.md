@@ -31,7 +31,7 @@ Il est en outre possible de créer une nouvelle base via un dossier.
 1. Commencez par la **page d'accueil** de SeaTable.
 2. Cliquez sur un **dossier** dans l'espace de travail correspondant (Mes bases ou l'un de vos groupes).
 3. Dans la fenêtre qui s'ouvre, cliquez sur **Nouveau** en haut à droite.
-4. Choisissez si vous souhaitez créer une **base vide**, [importer](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/#base_importieren) une [base](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/#base_importieren) ou créer une [base à partir d'un modèle](https://seatable.io/fr/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+4. Choisissez si vous souhaitez créer une **base vide**, [importer]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) ou créer une [base à partir d'un modèle](https://seatable.io/fr/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 5. Donnez un **nom** à la base, attribuez-lui une couleur et une icône, puis enregistrez l'opération en appuyant sur la **touche Entrée**.
 6. La nouvelle base créée apparaît maintenant dans l'aperçu des dossiers et est enregistrée dans le **dossier** correspondant sur la page d'accueil.
 

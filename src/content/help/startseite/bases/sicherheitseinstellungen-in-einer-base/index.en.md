@@ -30,7 +30,7 @@ The first part of the security settings relates to the authorizations of **all u
 
 ### Prevent export of a base
 
-By activating this setting, you can **prevent** other users from being able to [export](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/#base_exportieren) your base.
+By activating this setting, you can **prevent** other users from being able to [export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_exportieren) your base.
 
 If this setting is **activated**, the base in question can no longer be exported by **anyone** until the setting is deactivated again by an owner or administrator. If a user nevertheless tries to export the corresponding base via the start page, the export is **prevented** and the following **error message** appears:
 
@@ -68,7 +68,7 @@ The second part of the security settings refers to the permissions of the **user
 
 ### Prevent export of a base
 
-By activating this setting, you can **prevent** users to whom the corresponding [base](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) is [shared](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) from being able to [export](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/#base_exportieren) the base.
+By activating this setting, you can **prevent** users to whom the corresponding [base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_exportieren) the base.
 
 ### Prevent printing of a base
 

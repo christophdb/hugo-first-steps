@@ -22,7 +22,7 @@ En cliquant sur l'**image de l'avatar** dans le coin supérieur droit, vous pouv
 
 En cliquant sur **Ajouter une** base, vous créez votre première base personnelle. Donnez-lui un **nom**, appuyez sur **Entrée** et la base sera placée sur la page d'accueil. Si vous déplacez le curseur de la souris sur le nom de la base, un **symbole de crayon** {{< seatable-icon icon="dtable-icon-rename" >}} et le symbole à trois points {{< seatable-icon icon="dtable-icon-more-vertical" >}} apparaissent à droite pour les fonctions avancées.
 
-L'icône en forme de crayon permet de renommer la base et de lui attribuer une autre icône et une autre couleur. Les fonctions avancées comprennent par exemple le [partage]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) d'une base ou son [exportation](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/). Vous ouvrez la base en cliquant sur son nom.
+L'icône en forme de crayon permet de renommer la base et de lui attribuer une autre icône et une autre couleur. Les fonctions avancées comprennent par exemple le [partage]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) d'une base ou son [exportation]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}). Vous ouvrez la base en cliquant sur son nom.
 
 ## Vue du tableau
 

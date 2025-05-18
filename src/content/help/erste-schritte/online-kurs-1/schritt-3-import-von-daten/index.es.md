@@ -18,7 +18,7 @@ Cambia a tu mesa `Expenses` y borre todas las filas introducidas anteriormente. 
 
 SeaTable ofrece una amplia gama de opciones de importación. Puede importar bases enteras como archivos .dtable, .csv o .xlsx. Pero incluso si ya tiene una base, puede escribir datos nuevos o actualizados directamente en una tabla. Esto es exactamente lo que queremos hacer ahora utilizando un archivo CSV. Alternativamente, también podríamos haber utilizado aquí un archivo Excel.
 
-- Descargue el siguiente archivo [expenses.csv](https://seatable.io/wp-content/uploads/2024/08/expenses.csv)
+- Descargue el siguiente archivo [expenses.csv](/expenses.csv)
 - Ahora importa el archivo CSV a la tabla `Expenses`
 - Comprueba que la tabla tiene ahora exactamente 50 entradas
 
@@ -33,5 +33,5 @@ Eso es todo por esta parte. Pasemos al siguiente paso.
 ## Artículo de ayuda con más información
 
 - [Borrar líneas]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Importación y exportación de datos en SeaTable](https://seatable.io/es/docs/import-von-daten/datenimport-und-export/)
-- [¿Qué formatos de importación admite SeaTable?](https://seatable.io/es/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
+- [Importación y exportación de datos en SeaTable]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
+- [¿Qué formatos de importación admite SeaTable?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})

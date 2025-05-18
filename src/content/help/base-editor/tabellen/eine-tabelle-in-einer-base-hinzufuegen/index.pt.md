@@ -22,7 +22,7 @@ As bases consistem em uma ou mais tabelas, que por sua vez podem conter dados mu
 
 ## Importar tabela de um ficheiro
 
-Em alternativa, também pode importar tabelas de **ficheiros** para a sua Base. A importação é feita como um [ficheiro CSV](https://seatable.io/pt/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) ou [ficheiro Excel](https://seatable.io/pt/docs/import-von-daten/import-von-excel-dateien-in-seatable/). Pode encontrar informações detalhadas sobre a importação de dados [aqui](https://seatable.io/pt/docs/import-von-daten/datenimport-und-export/#tabelle_importieren).
+Em alternativa, também pode importar tabelas de **ficheiros** para a sua Base. A importação é feita como um [ficheiro CSV]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#tabelle_importieren).
 
 ![Importar tabela de um ficheiro](images/import-data-in-table.jpg)
 

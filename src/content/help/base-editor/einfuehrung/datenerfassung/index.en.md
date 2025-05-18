@@ -20,7 +20,7 @@ For quick transfer of small amounts of data, you can also use your computer's **
 
 ## Data import
 
-SeaTable has a powerful [data import](https://seatable.io/en/docs-category/import-von-daten/) that allows you to capture data from **Excel** and **CSV files** in different ways. If you wonder [which import formats SeaTable supports](https://seatable.io/en/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/), read the corresponding help articles.
+SeaTable has a powerful [data import](https://seatable.io/en/docs-category/import-von-daten/) that allows you to capture data from **Excel** and **CSV files** in different ways. If you wonder [which import formats SeaTable supports](https://seatable.io/en/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), read the corresponding help articles.
 
 ## Forms
 

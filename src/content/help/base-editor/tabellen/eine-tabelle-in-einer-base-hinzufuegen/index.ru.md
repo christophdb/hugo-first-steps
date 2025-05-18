@@ -22,7 +22,7 @@ url: '/ru/help/eine-tabelle-in-einer-base-hinzufuegen'
 
 ## Импорт таблицы из файла
 
-Кроме того, вы можете импортировать таблицы из **файлов** в вашу Базу. Импорт осуществляется в виде [файла CSV](https://seatable.io/ru/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) или [файла Excel](https://seatable.io/ru/docs/import-von-daten/import-von-excel-dateien-in-seatable/). Подробную информацию об импорте данных вы можете найти [здесь](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/#tabelle_importieren).
+Кроме того, вы можете импортировать таблицы из **файлов** в вашу Базу. Импорт осуществляется в виде [файла CSV]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#tabelle_importieren).
 
 ![Импорт таблицы из файла](images/import-data-in-table.jpg)
 

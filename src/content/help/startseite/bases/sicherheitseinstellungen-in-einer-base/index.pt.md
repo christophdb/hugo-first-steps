@@ -30,7 +30,7 @@ A primeira parte das definições de segurança diz respeito às autorizações 
 
 ### Impedir a exportação de uma base
 
-Ao ativar esta definição, pode **impedir que** outros utilizadores possam [exportar](https://seatable.io/pt/docs/import-von-daten/datenimport-und-export/#base_exportieren) a sua base.
+Ao ativar esta definição, pode **impedir que** outros utilizadores possam [exportar]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_exportieren) a sua base.
 
 Se esta definição estiver **activada**, a base em questão deixa de poder ser exportada por **qualquer pessoa** até que a definição seja novamente desactivada por um proprietário ou administrador. Se, mesmo assim, um utilizador tentar exportar a base em questão através da página inicial, a exportação é **impedida** e aparece a seguinte **mensagem de erro**:
 
@@ -68,7 +68,7 @@ A segunda parte das definições de segurança refere-se às permissões dos **u
 
 ### Impedir a exportação de uma base
 
-Ao ativar esta definição, pode **impedir que** os utilizadores a quem a [base](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondente é [partilhada](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) possam [exportar](https://seatable.io/pt/docs/import-von-daten/datenimport-und-export/#base_exportieren) a base.
+Ao ativar esta definição, pode **impedir que** os utilizadores a quem a [base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_exportieren) a base.
 
 ### Impedir a impressão de uma base
 

@@ -22,7 +22,7 @@ Haciendo clic en la **imagen del avatar**, en la esquina superior derecha, puede
 
 Haz clic en **Añadir base** para crear tu primera base. Dele un **nombre**, pulse **Intro** y la base se colocará en la página de inicio. Si pasa el puntero del ratón por encima del nombre de la base, aparecerá a la derecha el **símbolo de un lápiz** {{< seatable-icon icon="dtable-icon-rename" >}} y el símbolo de tres puntos {{< seatable-icon icon="dtable-icon-more-vertical" >}} para las funciones ampliadas.
 
-Con el icono del lápiz, puedes cambiar el nombre de la base y asignarle un icono y un color diferentes. Las funciones avanzadas incluyen, por ejemplo, [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) una base o [exportarla](https://seatable.io/es/docs/import-von-daten/datenimport-und-export/). Para abrir la base, haz clic en su nombre.
+Con el icono del lápiz, puedes cambiar el nombre de la base y asignarle un icono y un color diferentes. Las funciones avanzadas incluyen, por ejemplo, [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) una base o [exportarla]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}). Para abrir la base, haz clic en su nombre.
 
 ## Vista de la tabla
 

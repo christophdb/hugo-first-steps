@@ -20,7 +20,7 @@ Pour transférer rapidement de petites quantités de données, vous pouvez égal
 
 ## Importation de données
 
-SeaTable dispose d'un puissant [système d'importation de données](https://seatable.io/fr/docs-category/import-von-daten/) qui vous permet de saisir des données de différentes manières à partir de **fichiers** **Excel** et **CSV**. Si vous vous demandez [quels formats d'importation SeaTable prend en charge](https://seatable.io/fr/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/), consultez les articles d'aide correspondants.
+SeaTable dispose d'un puissant [système d'importation de données](https://seatable.io/fr/docs-category/import-von-daten/) qui vous permet de saisir des données de différentes manières à partir de **fichiers** **Excel** et **CSV**. Si vous vous demandez [quels formats d'importation SeaTable prend en charge](https://seatable.io/fr/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), consultez les articles d'aide correspondants.
 
 ## Formulaires web
 

@@ -1,28 +1,28 @@
 ---
-title: "Eine Tabelle in einer Base hinzufügen"
+title: 'Eine Tabelle in einer Base hinzufügen'
 date: 2022-09-28
-lastmod: "2025-02-28"
-categories: 
-  - "arbeiten-in-tabellen"
-author: "nsc2"
-url: "/de/hilfe/eine-tabelle-in-einer-base-hinzufuegen"
+lastmod: '2025-02-28'
+categories:
+    - 'arbeiten-in-tabellen'
+author: 'nsc2'
+url: '/de/hilfe/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
 Bases bestehen aus einer oder mehreren Tabellen, die wiederum ganz unterschiedliche Daten aufnehmen und untereinander verlinken können. Eine Base kann **bis zu 200 Tabellen** enthalten. Der Übersichtlichkeit zuliebe sollten Sie aber ab 20 Tabellen darüber nachdenken, die Tabellen auf mehrere Bases aufzuteilen und die Daten mit der Funktion [Gemeinsame Datensätze](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) zu synchronisieren.
 
 ## Eine Tabelle in einer Base hinzufügen
 
-1. In der **geöffneten Base** sehen Sie oben links die Reiter mit sämtlichen **Tabellen** der Base. 
-    
+1. In der **geöffneten Base** sehen Sie oben links die Reiter mit sämtlichen **Tabellen** der Base.
+
     ![Tabellen in einer Base von SeaTable](https://seatable.io/wp-content/uploads/2022/09/Tabellen-in-seatable.png)
-    
+
 2. Klicken Sie auf das **\[+\]-Symbol** rechts neben dem letzten Tabellenreiter.
 3. Wählen Sie nun **Tabelle hinzufügen**.
 4. Geben Sie der neuen Tabelle einen **Namen** und bestätigen Sie mit **Abschicken**.
 
 ## Tabelle aus einer Datei importieren
 
-Alternativ können Sie Tabellen auch aus **Dateien** in Ihre Base importieren. Der Import erfolgt dabei als [CSV-Datei](https://seatable.io/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) oder [Excel-Datei](https://seatable.io/docs/import-von-daten/import-von-excel-dateien-in-seatable/). Ausführliche Informationen zum Datenimport finden Sie [hier](https://seatable.io/docs/import-von-daten/datenimport-und-export/#tabelle_importieren).
+Alternativ können Sie Tabellen auch aus **Dateien** in Ihre Base importieren. Der Import erfolgt dabei als [CSV-Datei]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#tabelle_importieren).
 
 ![Tabelle aus einer Datei importieren](images/import-data-in-table.jpg)
 

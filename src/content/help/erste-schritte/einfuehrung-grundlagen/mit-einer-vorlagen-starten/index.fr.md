@@ -34,7 +34,7 @@ De retour sur votre page d'accueil, vous trouverez une nouvelle base dans le gro
 
 Vous pouvez créer votre propre modèle à partir de zéro ou le dériver d'une base ou d'un tableau existant. La procédure est identique : créez dans une base les tableaux dont vous avez besoin, définissez la mise en page des tableaux selon vos besoins et créez les vues, plugins, statistiques et formulaires web que requiert votre cas d'utilisation. Ajoutez également quelques données factices pour illustrer l'utilisation du modèle et faciliter l'application pour les utilisateurs.
 
-Exportez maintenant votre modèle. L'exportation d'un template est identique à l'[exportation d'une base](https://seatable.io/fr/docs/import-von-daten/speichern-einer-base-als-dtable-datei/). Chaque fois que vous et vos collègues souhaitez utiliser votre template, réimportez le fichier d'exportation de la base au [format DTABLE](https://seatable.io/fr/docs/import-von-daten/dtable-dateiformat/) et commencez immédiatement. Vous trouverez plus d'informations à ce sujet dans l'article [Importation et exportation de données](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/).
+Exportez maintenant votre modèle. L'exportation d'un template est identique à l'[exportation d'une base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Soumettre votre modèle personnel
 

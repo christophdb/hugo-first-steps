@@ -18,7 +18,7 @@ Passez à votre tableau `Expenses` et supprimez toutes les lignes saisies jusqu'
 
 SeaTable offre de nombreuses possibilités d'importation. Vous pouvez ainsi importer des bases entières par fichier .dtable, .csv ou .xlsx. Mais même si vous avez déjà une base, vous pouvez écrire de nouvelles données ou des données mises à jour directement dans une table. C'est ce que nous voulons faire maintenant à l'aide d'un fichier CSV. Nous aurions également pu utiliser un fichier Excel.
 
-- Téléchargez le fichier [expenses.csv](https://seatable.io/wp-content/uploads/2024/08/expenses.csv) suivant
+- Téléchargez le fichier [expenses.csv](/expenses.csv) suivant
 - Importez maintenant le fichier CSV dans le tableau `Expenses`
 - Vérifiez que le tableau comporte exactement 50 entrées.
 
@@ -33,5 +33,5 @@ C'est tout pour cette partie. Passons à l'étape suivante.
 ## Article d'aide avec plus d'informations
 
 - [Suppression de lignes]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Importation et exportation de données dans SeaTable](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/)
-- [Quels sont les formats d'importation pris en charge par SeaTable ?](https://seatable.io/fr/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
+- [Importation et exportation de données dans SeaTable]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
+- [Quels sont les formats d'importation pris en charge par SeaTable ?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})

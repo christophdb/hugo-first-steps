@@ -56,7 +56,7 @@ Grundsätzlich kann es helfen, einen Blick in das [Handbuch von Airtable](https:
 
 ### 3\. Übersichtsartikel
 
-Der Übersichtsartikel ist in erster Linie eine Linksammlung mit Absprüngen auf andere Hilfeartikel. Diese Artikel werden immer als letzter Artikel einer Kategorie geschrieben. [Welche Importformate unterstützt SeaTable](https://seatable.io/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/) ist ein Beispiel für so einen Artikel.
+Der Übersichtsartikel ist in erster Linie eine Linksammlung mit Absprüngen auf andere Hilfeartikel. Diese Artikel werden immer als letzter Artikel einer Kategorie geschrieben. [Welche Importformate unterstützt SeaTable](https://seatable.io/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}) ist ein Beispiel für so einen Artikel.
 
 {{< warning  headline="Abweichung von diesen Vorgaben?"  text="Natürlich darf man von den hier gemachten Vorgaben abweichen, wenn es gute Gründe dafür gibt. Der individuelle Stil des Einzelnen darf erhalten bleiben, solange der Artikel optisch und inhaltlich funktioniert." />}}
 

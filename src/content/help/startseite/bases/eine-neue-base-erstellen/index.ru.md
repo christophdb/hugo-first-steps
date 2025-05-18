@@ -31,7 +31,7 @@ url: '/ru/help/eine-neue-base-erstellen'
 1. Начните с **домашней страницы** SeaTable.
 2. Щелкните **папку** в соответствующей рабочей области (My Bases или одна из ваших групп).
 3. В открывшемся окне нажмите кнопку **New** в правом верхнем углу.
-4. Выберите, хотите ли вы **создать пустую базу**, [импортировать](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/#base_importieren) базу или создать [базу из шаблона](https://seatable.io/ru/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+4. Выберите, хотите ли вы **создать пустую базу**, [импортировать]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) базу или создать [базу из шаблона](https://seatable.io/ru/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 5. Дайте базе **имя**, назначьте ей цвет и значок и сохраните процесс, нажав клавишу **Enter**.
 6. Теперь вновь созданная база появляется в обзоре папок и сохраняется в соответствующей **папке** на начальной странице.
 

@@ -22,7 +22,7 @@ SeaTable ведет [историю](https://seatable.io/ru/docs/historie-und-ve
 
 Нажмите кнопку **Добавить базу**, чтобы создать свою первую базу. Дайте ей **имя**, нажмите **Enter**, и база будет помещена на стартовую страницу. Если вы наведете указатель мыши на название базы, справа появится **символ карандаша** {{< seatable-icon icon="dtable-icon-rename" >}} и символ с тремя точками {{< seatable-icon icon="dtable-icon-more-vertical" >}} для расширенных функций.
 
-С помощью значка карандаша можно переименовать базу и присвоить ей другой значок и цвет. Дополнительные функции включают, например, [совместное использование]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) базы или ее [экспорт](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/). Вы открываете базу, щелкнув по ее названию.
+С помощью значка карандаша можно переименовать базу и присвоить ей другой значок и цвет. Дополнительные функции включают, например, [совместное использование]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) базы или ее [экспорт]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}). Вы открываете базу, щелкнув по ее названию.
 
 ## Вид таблицы
 

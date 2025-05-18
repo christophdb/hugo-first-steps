@@ -30,7 +30,7 @@ Jede Base hat einen (und nur einen) **Eigentümer**. Die Übertragung der Eigent
 
 Der Eigentümer einer Base ist entweder ein **Benutzer** oder eine **Gruppe**. Ist ein Benutzer der Eigentümer einer Base, dann hat nur dieser die volle Verfügungsgewalt. Gehört die Base einer Gruppe, so haben alle Administratoren der Gruppe vollen Zugriff auf sie. Hier erfahren Sie mehr zu den [Berechtigungen einzelner Gruppenmitglieder](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/).
 
-Die direkte Übertragung der Eigentümerschaft von einem Nutzer auf einen anderen Nutzer ist aktuell (Stand: 20.3.2023) nicht möglich. Sie können einen **Eigentümerwechsel** aber indirekt durchführen, indem Sie eine Base exportieren und durch den neuen Eigentümer importieren lassen. Mehr Informationen zum Import und Export von Bases finden Sie im Beitrag [Datenimport und -export](https://seatable.io/docs/import-von-daten/datenimport-und-export/).
+Die direkte Übertragung der Eigentümerschaft von einem Nutzer auf einen anderen Nutzer ist aktuell (Stand: 20.3.2023) nicht möglich. Sie können einen **Eigentümerwechsel** aber indirekt durchführen, indem Sie eine Base exportieren und durch den neuen Eigentümer importieren lassen. Mehr Informationen zum Import und Export von Bases finden Sie im Beitrag [Datenimport und -export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Erstellung von Bases
 
@@ -41,7 +41,7 @@ Im Bereich **Meine Bases** und in jeder **Gruppe**, in der Sie Administrator sin
 Bei der Erstellung einer neuen Base haben Sie **drei Optionen**. Mehr dazu erfahren Sie in den jeweiligen Artikeln:
 
 - [Leere Base erstellen]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Base aus einer Datei importieren](https://seatable.io/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
+- [Base aus einer Datei importieren](https://seatable.io/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
 - [Base aus einer Vorlage erstellen](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
 
 ## Verwaltung von Bases
@@ -80,7 +80,7 @@ Wenn sich eine Vielzahl an Bases auf Ihrer Startseite angesammelt hat, kann es f
 
 Zur Datensicherung, für die Übertragung an einen anderen Benutzer oder den Transfer auf einen anderen SeaTable Server können Sie Bases exportieren. Grundsätzlich erfolgt der Export in eine [DTABLE-Datei](https://seatable.io/docs/import-von-daten/dtable-dateiformat/).
 
-Mehr Informationen zum Export von Bases finden Sie im Beitrag [Speichern einer Base als DTABLE-Datei](https://seatable.io/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) oder im allgemeinen Überblick zum [Datenimport und -export](https://seatable.io/docs/import-von-daten/datenimport-und-export/)
+Mehr Informationen zum Export von Bases finden Sie im Beitrag [Speichern einer Base als DTABLE-Datei]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
 
 ## Bases löschen und wiederherstellen
 

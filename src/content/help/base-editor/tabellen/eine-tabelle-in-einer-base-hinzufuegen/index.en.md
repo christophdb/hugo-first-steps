@@ -22,7 +22,7 @@ Bases consist of one or more tables, which in turn can hold very different data 
 
 ## Import table from a file
 
-Alternatively, you can also import tables from **files** into your Base. The import takes place as a [CSV file](https://seatable.io/en/docs/import-von-daten/daten-import-mithilfe-von-csv-in-seatable/) or [Excel file](https://seatable.io/en/docs/import-von-daten/import-von-excel-dateien-in-seatable/). You can find detailed information on importing data [here](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/#tabelle_importieren).
+Alternatively, you can also import tables from **files** into your Base. The import takes place as a [CSV file]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#tabelle_importieren).
 
 ![Import table from a file](images/import-data-in-table.jpg)
 

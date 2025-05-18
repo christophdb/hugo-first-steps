@@ -27,4 +27,4 @@ Si vous ne souhaitez pas passer à une formule d'abonnement plus complète, vous
 - [Vider la corbeille dans la gestion d'équipe](https://seatable.io/fr/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
 - [Supprimer un tableau d'une base](https://seatable.io/fr/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
 - [Suppression d'une ligne]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Importation et exportation de données](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/)
+- [Importation et exportation de données]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

@@ -27,4 +27,4 @@ Falls Sie nicht zu einem umfangreicheren Abo-Paket wechseln möchten, haben Sie 
 - [Den Papierkorb in der Teamverwaltung leeren](https://seatable.io/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
 - [Löschen einer Tabelle aus einer Base](https://seatable.io/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
 - [Löschen einer Zeile]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Datenimport und -export](https://seatable.io/docs/import-von-daten/datenimport-und-export/)
+- [Datenimport und -export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

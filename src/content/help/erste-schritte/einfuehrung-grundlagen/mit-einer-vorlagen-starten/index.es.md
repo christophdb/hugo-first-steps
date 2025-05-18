@@ -34,7 +34,7 @@ De vuelta en tu página de inicio, encontrarás una nueva base dentro del grupo 
 
 Puede crear su propia plantilla desde cero o derivarla de una base o tabla existente. El procedimiento es idéntico: cree las tablas que necesite en una base, defina la disposición de las tablas según sus necesidades y cree las vistas, plugins, estadísticas y formularios web que requiera su caso de uso. Añada también algunos datos ficticios para ilustrar el uso de la plantilla y facilitar su utilización a los usuarios.
 
-Ahora exporte su plantilla. Exportar una plantilla es idéntico a [exportar una](https://seatable.io/es/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) base. Siempre que usted y sus colegas quieran utilizar su plantilla, importe de nuevo el archivo de exportación de la base en [formato DTABLE](https://seatable.io/es/docs/import-von-daten/dtable-dateiformat/) y empiece inmediatamente. Encontrará más información al respecto en el artículo [Importación y exportación](https://seatable.io/es/docs/import-von-daten/datenimport-und-export/) de datos.
+Ahora exporte su plantilla. Exportar una plantilla es idéntico a [exportar una]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) de datos.
 
 ## Envíe su plantilla personal
 

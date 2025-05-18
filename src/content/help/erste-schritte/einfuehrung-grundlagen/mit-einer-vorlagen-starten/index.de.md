@@ -34,7 +34,7 @@ Zurück auf Ihrer Startseite werden Sie eine neue Base innerhalb der gewählten 
 
 Sie können Ihr eigenes Template von Grund auf neu erschaffen oder aus einer bestehenden Base bzw. Tabelle ableiten. Das Vorgehen ist identisch: Erstellen Sie in einer Base die Tabellen, die Sie benötigen, definieren Sie das Tabellenlayout nach Ihren Bedürfnissen und legen Sie die Ansichten, Plugins, Statistiken und Webformulare an, die Ihr Anwendungsfall erfordert. Ergänzen Sie auch ein paar Dummy-Daten, um die Verwendung des Templates zu illustrieren und den Benutzern die Anwendung einfacher zu machen.
 
-Exportieren Sie nun Ihr Template. Der Export eines Templates ist identisch mit dem [Export einer Base](https://seatable.io/docs/import-von-daten/speichern-einer-base-als-dtable-datei/). Wann immer Sie und Ihre Kollegen Ihr Template verwenden wollen, importieren Sie die Exportdatei der Base im [DTABLE-Format](https://seatable.io/docs/import-von-daten/dtable-dateiformat/) wieder und legen sofort los. Mehr Informationen dazu finden Sie im Beitrag [Datenimport und -export](https://seatable.io/docs/import-von-daten/datenimport-und-export/).
+Exportieren Sie nun Ihr Template. Der Export eines Templates ist identisch mit dem [Export einer Base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Ihre persönliche Vorlage einreichen
 

@@ -29,7 +29,7 @@ url: '/ru/help/bases'
 
 Владельцем базы является либо **пользователь**, либо **группа**. Если владельцем базы является пользователь, то только этот пользователь имеет полное право распоряжаться ею. Если база принадлежит группе, то все администраторы группы имеют к ней полный доступ. Здесь вы можете узнать больше о [полномочиях отдельных членов группы](https://seatable.io/ru/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/).
 
-Прямая передача прав собственности от одного пользователя к другому в настоящее время (по состоянию на 20.3.2023) невозможна. Однако вы можете **сменить** владельца косвенно, экспортировав базу и импортировав ее новому владельцу. Более подробную информацию об импорте и экспорте баз можно найти в статье [Импорт и экспорт данных](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/).
+Прямая передача прав собственности от одного пользователя к другому в настоящее время (по состоянию на 20.3.2023) невозможна. Однако вы можете **сменить** владельца косвенно, экспортировав базу и импортировав ее новому владельцу. Более подробную информацию об импорте и экспорте баз можно найти в статье [Импорт и экспорт данных]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Создание баз
 
@@ -40,7 +40,7 @@ url: '/ru/help/bases'
 При создании новой базы у вас есть **три варианта**. Подробнее об этом вы можете прочитать в соответствующих статьях:
 
 - [Создайте пустую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Импорт базы из файла](https://seatable.io/ru/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
+- [Импорт базы из файла](https://seatable.io/ru/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
 - [Создание базы из шаблона](https://seatable.io/ru/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
 
 ## Управление базой
@@ -79,7 +79,7 @@ url: '/ru/help/bases'
 
 Вы можете экспортировать базы для резервного копирования данных, для передачи другому пользователю или для передачи на другой сервер SeaTable. В основном, экспорт происходит в [файл DTABLE](https://seatable.io/ru/docs/import-von-daten/dtable-dateiformat/).
 
-Для получения дополнительной информации об экспорте баз см. статью [Сохранение базы как файла DTABLE](https://seatable.io/ru/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) или общий обзор по [импорту и экспорту данных](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/).
+Для получения дополнительной информации об экспорте баз см. статью [Сохранение базы как файла DTABLE]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Удаление и восстановление баз
 

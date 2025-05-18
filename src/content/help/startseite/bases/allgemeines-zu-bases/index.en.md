@@ -29,7 +29,7 @@ Each Base has one (and only one) **owner**. However, transferring ownership of a
 
 The owner of a Base is either a **user** or a **group**. If a user is the owner of a base, then only this user has full power of disposal. If the base belongs to a group, then all administrators of the group have full access to it. Here you can learn more about the [permissions of individual group members](https://seatable.io/en/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/).
 
-Direct transfer of ownership from one user to another is currently (as of 3/20/2023) not possible. However, you can **change** ownership indirectly by exporting a base and having the new owner import it. For more information on importing and exporting bases, see the article [Data import and export](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/).
+Direct transfer of ownership from one user to another is currently (as of 3/20/2023) not possible. However, you can **change** ownership indirectly by exporting a base and having the new owner import it. For more information on importing and exporting bases, see the article [Data import and export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Creation of bases
 
@@ -40,7 +40,7 @@ In the **My Bases** section and in each **group** where you are an administrator
 You have **three options** when creating a new Base. You can read more about them in the respective articles:
 
 - [Create empty base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Import base from a file](https://seatable.io/en/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
+- [Import base from a file](https://seatable.io/en/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
 - [Create base from template](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
 
 ## Base management
@@ -79,7 +79,7 @@ If a large number of Bases have accumulated on your Home page, it may be useful 
 
 For backup, transfer to another user or transfer to another SeaTable server you can export bases. Basically, the export is done to a [DTABLE file](https://seatable.io/en/docs/import-von-daten/dtable-dateiformat/).
 
-For more information on exporting bases, see the article [Saving a Base as a DTABLE File](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) or the general overview on [data import and export](https://seatable.io/en/docs/import-von-daten/datenimport-und-export/)
+For more information on exporting bases, see the article [Saving a Base as a DTABLE File]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
 
 ## Delete and restore bases
 

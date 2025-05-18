@@ -30,7 +30,7 @@ La première partie des paramètres de sécurité concerne les autorisations **d
 
 ### Empêcher l'exportation d'une base
 
-En activant ce paramètre, vous pouvez **empêcher** que d'autres utilisateurs puissent [exporter](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/#base_exportieren) votre base.
+En activant ce paramètre, vous pouvez **empêcher** que d'autres utilisateurs puissent [exporter]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_exportieren) votre base.
 
 Si ce paramètre **est activé**, la base concernée ne peut plus être exportée par **quiconque** jusqu'à ce qu'un propriétaire ou un administrateur désactive ce paramètre. Si un utilisateur tente malgré tout d'exporter la base en question via la page d'accueil, l'exportation est **bloquée** et le **message d'erreur** suivant apparaît :
 
@@ -68,7 +68,7 @@ La deuxième partie des paramètres de sécurité concerne les autorisations des
 
 ### Empêcher l'exportation d'une base
 
-En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesquels la [base](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondante est [partagée](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) d'[exporter](https://seatable.io/fr/docs/import-von-daten/datenimport-und-export/#base_exportieren) la base.
+En activant ce paramètre, vous pouvez **empêcher** les utilisateurs avec lesquels la [base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_exportieren) la base.
 
 ### Empêcher l'impression d'une base
 

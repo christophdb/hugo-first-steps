@@ -20,7 +20,7 @@ url: '/ru/help/datenerfassung'
 
 ## Импорт данных
 
-SeaTable имеет мощную функцию [импорта данных](https://seatable.io/ru/docs-category/import-von-daten/), которая позволяет вам получать данные из **файлов** **Excel** и **CSV** различными способами. Если вам интересно, [какие форматы импорта поддерживает SeaTable](https://seatable.io/ru/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/), прочитайте соответствующие справочные статьи.
+SeaTable имеет мощную функцию [импорта данных](https://seatable.io/ru/docs-category/import-von-daten/), которая позволяет вам получать данные из **файлов** **Excel** и **CSV** различными способами. Если вам интересно, [какие форматы импорта поддерживает SeaTable](https://seatable.io/ru/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), прочитайте соответствующие справочные статьи.
 
 ## Веб-формы
 

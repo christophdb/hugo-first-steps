@@ -18,7 +18,7 @@ url: '/ru/help/schritt-3-import-von-daten'
 
 SeaTable предлагает широкий спектр возможностей импорта. Вы можете импортировать целые базы в виде файлов .dtable, .csv или .xlsx. Но даже если у вас уже есть база, вы можете записать новые или обновленные данные прямо в таблицу. Именно это мы и хотим сделать сейчас, используя CSV-файл. В качестве альтернативы мы могли бы использовать и файл Excel.
 
-- Загрузите следующий файл [expenses.csv](https://seatable.io/wp-content/uploads/2024/08/expenses.csv)
+- Загрузите следующий файл [expenses.csv](/expenses.csv)
 - Теперь импортируйте CSV-файл в таблицу `Expenses`
 - Проверьте, что теперь в таблице ровно 50 записей
 
@@ -33,5 +33,5 @@ SeaTable предлагает широкий спектр возможносте
 ## Справочная статья с дополнительной информацией
 
 - [Удалить строки]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
-- [Импорт и экспорт данных в SeaTable](https://seatable.io/ru/docs/import-von-daten/datenimport-und-export/)
-- [Какие форматы импорта поддерживает SeaTable?](https://seatable.io/ru/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
+- [Импорт и экспорт данных в SeaTable]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})
+- [Какие форматы импорта поддерживает SeaTable?]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})

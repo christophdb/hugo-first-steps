@@ -34,7 +34,7 @@ De volta à sua página inicial, encontrará uma nova base no grupo seleccionado
 
 Pode criar o seu próprio modelo a partir do zero ou derivá-lo de uma base ou tabela existente. O procedimento é idêntico: crie as tabelas de que necessita numa base, defina a disposição das tabelas de acordo com as suas necessidades e crie as vistas, os plugins, as estatísticas e os formulários Web que o seu caso de utilização exige. Adicione também alguns dados fictícios para ilustrar a utilização do modelo e facilitar a sua utilização pelos utilizadores.
 
-Agora, exporte o seu modelo. A exportação de um modelo é idêntica à [exportação de uma base](https://seatable.io/pt/docs/import-von-daten/speichern-einer-base-als-dtable-datei/). Sempre que você e os seus colegas quiserem utilizar o seu modelo, importe novamente o ficheiro de exportação da base no [formato DTABLE](https://seatable.io/pt/docs/import-von-daten/dtable-dateiformat/) e comece imediatamente. Pode encontrar mais informações sobre este assunto no artigo [Importação e exportação de dados](https://seatable.io/pt/docs/import-von-daten/datenimport-und-export/).
+Agora, exporte o seu modelo. A exportação de um modelo é idêntica à [exportação de uma base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Apresentar o seu modelo pessoal
 
