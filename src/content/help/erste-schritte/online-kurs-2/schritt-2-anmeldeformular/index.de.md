@@ -1,11 +1,11 @@
 ---
-title: "Schritt 2: Anmeldeformular"
+title: 'Schritt 2: Anmeldeformular'
 date: 2024-09-19
-lastmod: "2024-09-24"
-categories: 
-  - "online-kurs-2"
-author: "cdb"
-url: "/de/hilfe/schritt-2-anmeldeformular"
+lastmod: '2024-09-24'
+categories:
+    - 'online-kurs-2'
+author: 'cdb'
+url: '/de/hilfe/schritt-2-anmeldeformular'
 ---
 
 Als Nächstes widmen wir uns dem Webformular. Da Sie bereits im ersten Online-Kurs gelernt haben, wie man ein Webformular mit SeaTable erstellt, müssen Sie dies nicht erneut tun. Das Webformular ist bereits in das Template integriert.
@@ -33,4 +33,4 @@ SeaTable berücksichtigt diese Einschränkung und stellt sicher, dass auch im We
 ## Hilfeartikel mit weiteren Informationen
 
 - [Wie man Tabellen in SeaTable miteinander verknüpft](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Konfigurationsmöglichkeiten eines Webformulars](https://seatable.io/docs/webformulare/konfigurationsmoeglichkeiten-eines-webformulars/)
+- [Konfigurationsmöglichkeiten eines Webformulars]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

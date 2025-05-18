@@ -33,4 +33,4 @@ SeaTable takes this restriction into account and ensures that only courses that 
 ## Help article with further information
 
 - [How to link tables in SeaTable](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Configuration options for a web form](https://seatable.io/en/docs/webformulare/konfigurationsmoeglichkeiten-eines-webformulars/)
+- [Configuration options for a web form]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

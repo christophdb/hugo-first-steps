@@ -49,5 +49,5 @@ Prenez également quelques minutes pour explorer les possibilités supplémentai
 ## Article d'aide avec plus d'informations
 
 - [Les formulaires web en général]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Créer un formulaire web](https://seatable.io/fr/docs/webformulare/anlegen-eines-webformulars/)
-- [Possibilités de configuration d'un formulaire web](https://seatable.io/fr/docs/webformulare/konfigurationsmoeglichkeiten-eines-webformulars/)
+- [Créer un formulaire web]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
+- [Possibilités de configuration d'un formulaire web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

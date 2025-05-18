@@ -33,4 +33,4 @@ SeaTable tient compte de cette restriction et s'assure que, même dans le formul
 ## Article d'aide avec plus d'informations
 
 - [Comment lier des tableaux dans SeaTable](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/)
-- [Possibilités de configuration d'un formulaire web](https://seatable.io/fr/docs/webformulare/konfigurationsmoeglichkeiten-eines-webformulars/)
+- [Possibilités de configuration d'un formulaire web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})
