@@ -13,7 +13,11 @@ If you have exceeded the limits available to you in your current subscription, y
 - Switch to a more comprehensive subscription package
 - Delete part of your data
 
-{{< warning  headline="Note"  text="An overview with all available packages and the limits, functions and possibilities they contain can be found on our [pricing page](https://seatable.io/preise/)." />}}
+{{< warning  headline="Note" >}}
+
+An overview with all available packages and the limits, functions and possibilities they contain can be found on our [pricing page]({{< relref "pages/prices" >}}).
+
+{{< /warning >}}
 
 ## Switch to a more comprehensive subscription package
 

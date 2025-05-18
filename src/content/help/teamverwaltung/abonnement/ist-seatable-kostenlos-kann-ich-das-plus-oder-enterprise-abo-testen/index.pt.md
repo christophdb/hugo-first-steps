@@ -10,7 +10,7 @@ url: '/pt/ajuda/ist-seatable-kostenlos-kann-ich-das-plus-oder-enterprise-abo-tes
 
 SeaTable Cloud, a oferta online de SeaTable, é basicamente gratuita para todos no início. Chamamos a isto a nossa **assinatura gratuita**, com a qual cada equipa é criada.
 
-Por este motivo, não é necessário fornecer um cartão de crédito ao registar-se. O seu endereço de correio electrónico é perfeitamente suficiente para começar imediatamente a utilizar o SeaTable. Mesmo com a versão gratuita, quase todas as funções estão disponíveis para si e para a sua equipa e já tem de guardar muitos dados no SeaTable para atingir o limite da linha ou da memória. Pode descobrir quais são os limites destes na nossa [página de preços](https://seatable.io/pt/preise/).
+Por este motivo, não é necessário fornecer um cartão de crédito ao registar-se. O seu endereço de correio electrónico é perfeitamente suficiente para começar imediatamente a utilizar o SeaTable. Mesmo com a versão gratuita, quase todas as funções estão disponíveis para si e para a sua equipa e já tem de guardar muitos dados no SeaTable para atingir o limite da linha ou da memória. Pode descobrir quais são os limites destes na nossa [página de preços]({{< relref "pages/prices" >}}).
 
 Aqui estão algumas coisas que você e a sua equipa podem fazer com o SeaTable Free:
 
@@ -21,7 +21,7 @@ Aqui estão algumas coisas que você e a sua equipa podem fazer com o SeaTable F
 
 ## Quando é que o SeaTable se tornará cobrável?
 
-Para além da subscrição gratuita, a SeaTable oferece também duas subscrições pagas. Uma actualização para uma das subscrições pagas é necessária se precisar de uma função que não esteja incluída no Grátis ou se atingir o limite da linha ou da memória. Por exemplo, as automatizações, permissões alargadas e vários ajustes visuais só estão disponíveis na subscrição Plus ou Enterprise. Pode ver os preços das várias subscrições e as funções e opções incluídas nos pacotes de subscrição individuais na nossa [página de preços](https://seatable.io/pt/preise/).
+Para além da subscrição gratuita, a SeaTable oferece também duas subscrições pagas. Uma actualização para uma das subscrições pagas é necessária se precisar de uma função que não esteja incluída no Grátis ou se atingir o limite da linha ou da memória. Por exemplo, as automatizações, permissões alargadas e vários ajustes visuais só estão disponíveis na subscrição Plus ou Enterprise. Pode ver os preços das várias subscrições e as funções e opções incluídas nos pacotes de subscrição individuais na nossa [página de preços]({{< relref "pages/prices" >}}).
 
 ## É possível testar Plus ou Enterprise gratuitamente?
 

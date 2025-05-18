@@ -10,7 +10,7 @@ url: '/help/plus-oder-enterprise-abonnement-buchen'
 
 Your team has a SeaTable Free subscription and you want to upgrade to Plus or Enterprise? No problem! Just use the **Subscription** tab in **Team Management** and book your desired subscription package.
 
-On the [Pricing](https://seatable.io/en/preise/) page you can find an overview with all the subscription packages available in SeaTable and the features and capabilities they include.
+On the [Pricing]({{< relref "pages/prices" >}}) page you can find an overview with all the subscription packages available in SeaTable and the features and capabilities they include.
 
 ## Book a Plus or Enterprise subscription
 

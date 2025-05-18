@@ -26,7 +26,7 @@ Organize as suas bases em grupos, tanto para ter uma melhor visão geral dos seu
 
 ## Criação de um grupo na administração da equipa
 
-Como **administrador da equipa**, tem uma segunda opção, nomeadamente [criar um grupo através da administração da equipa](https://seatable.io/pt/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/).
+Como **administrador da equipa**, tem uma segunda opção, nomeadamente [criar um grupo através da administração da equipa]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}}).
 
 1. Mudar para a página **inicial** da SeaTable.
 2. Clique na **imagem do** seu **avatar** no canto superior direito e depois em **Gestão de Equipas**.

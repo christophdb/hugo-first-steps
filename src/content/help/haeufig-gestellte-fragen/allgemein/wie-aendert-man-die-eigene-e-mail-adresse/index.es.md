@@ -25,7 +25,7 @@ Este proceso también es muy sencillo. En primer lugar, cree **otro miembro del 
 
 - [Añadir un nuevo miembro del equipo](https://seatable.io/es/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
 - [Convertir a un miembro del equipo en administrador](https://seatable.io/es/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Crear un nuevo grupo](https://seatable.io/es/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/)
+- [Crear un nuevo grupo]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 - [Copiar una base en un grupo](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
 - [Asignación de permisos en un grupo](https://seatable.io/es/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
 - [Bloquear o eliminar a un miembro del equipo](https://seatable.io/es/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)

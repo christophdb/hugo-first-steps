@@ -29,7 +29,7 @@ Folgende Artikel könnten für Sie interessant sein:
 - [Ein Teammitglied sperren oder löschen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
 - [Ändern des Teamnamens](https://seatable.io/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Gruppen und ihre Mitglieder in der Teamverwaltung](https://seatable.io/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
-- [Eine neue Gruppe anlegen](https://seatable.io/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/)
+- [Eine neue Gruppe anlegen]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases und Freigaben
 

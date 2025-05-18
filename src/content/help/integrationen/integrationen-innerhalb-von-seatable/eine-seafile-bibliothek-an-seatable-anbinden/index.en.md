@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/eine-seafile-bibliothek-an-seatable-anbinden'
 ---
 
-If you store a lot of larger files (e.g. images and videos) in a Base, you may eventually reach the [storage limits of your subscription](https://seatable.io/en/preise/), and above 100 MB it will no longer be possible to [export](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) the Base as a [DTABLE file](https://seatable.io/en/docs/import-von-daten/dtable-dateiformat/).
+If you store a lot of larger files (e.g. images and videos) in a Base, you may eventually reach the [storage limits of your subscription]({{< relref "pages/prices" >}}), and above 100 MB it will no longer be possible to [export](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) the Base as a [DTABLE file](https://seatable.io/en/docs/import-von-daten/dtable-dateiformat/).
 
 One solution to comply with the limits in this case is to outsource your files to a cloud storage like **Seafile**, which you can then connect to SeaTable. In the following article you will learn how to integrate a Seafile library into a Base.
 

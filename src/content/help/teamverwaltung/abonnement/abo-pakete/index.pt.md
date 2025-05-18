@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/pt/ajuda/abo-pakete'
 ---
 
-Oferecemos SeaTable em diferentes versões em diferentes gamas de preços - por isso, há algo para todos. As funções e possibilidades variam em função do nível de preços e podem, portanto, ser adaptadas às suas necessidades individuais. Pode obter uma rápida comparação das nossas subscrições na [nossa página de preços](https://seatable.io/pt/preise/).
+Oferecemos SeaTable em diferentes versões em diferentes gamas de preços - por isso, há algo para todos. As funções e possibilidades variam em função do nível de preços e podem, portanto, ser adaptadas às suas necessidades individuais. Pode obter uma rápida comparação das nossas subscrições na [nossa página de preços]({{< relref "pages/prices" >}}).
 
 ## Pacotes de assinatura para SeaTable Cloud
 

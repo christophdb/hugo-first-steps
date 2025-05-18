@@ -1,11 +1,11 @@
 ---
-title: "Wie ändert man die eigene E-Mail-Adresse?"
+title: 'Wie ändert man die eigene E-Mail-Adresse?'
 date: 2023-05-11
-lastmod: "2023-08-22"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "cdb"
-url: "/de/hilfe/wie-aendert-man-die-eigene-e-mail-adresse"
+lastmod: '2023-08-22'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'cdb'
+url: '/de/hilfe/wie-aendert-man-die-eigene-e-mail-adresse'
 ---
 
 In der SeaTable Cloud ist ein **Wechsel der eigenen E-Mail-Adresse aktuell nicht vorgesehen**. Weder der Benutzer selbst noch der Team-Administrator kann bei einem bestehenden Account die E-Mail-Adresse ändern. Über einen **Umweg** ist dies aber möglich, indem Sie einen **neuen Account** mit einer **neuen E-Mail-Adresse** anlegen und den bisherigen Account löschen. Im folgenden Artikel wird dieses Vorgehen beschrieben.
@@ -25,7 +25,7 @@ Auch dieser Vorgang ist denkbar einfach. Als Erstes legen Sie ein **weiteres Tea
 
 - [Ein neues Teammitglied hinzufügen](https://seatable.io/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
 - [Ein Teammitglied zum Administrator machen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Eine neue Gruppe anlegen](https://seatable.io/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/)
+- [Eine neue Gruppe anlegen]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 - [Eine Base in eine Gruppe kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
 - [Berechtigungen in einer Gruppe vergeben](https://seatable.io/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
 - [Ein Teammitglied sperren oder löschen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)

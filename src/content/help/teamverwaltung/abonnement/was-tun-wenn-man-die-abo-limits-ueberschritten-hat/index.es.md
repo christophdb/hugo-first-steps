@@ -13,7 +13,11 @@ Si has sobrepasado los límites disponibles en tu suscripción actual, tienes b�
 - Cambiar a un paquete de suscripción más amplio
 - Borrar parte de sus datos
 
-{{< warning  headline="Nota"  text="En nuestra [página de precios](https://seatable.io/es/preise/) encontrará un resumen de todos los paquetes disponibles y los límites, funciones y opciones que contienen." />}}
+{{< warning  headline="Nota" >}}
+
+En nuestra [página de precios]({{< relref "pages/prices" >}}) encontrará un resumen de todos los paquetes disponibles y los límites, funciones y opciones que contienen.
+
+{{< /warning >}}
 
 ## Cambiar a un paquete de suscripción más amplio
 

@@ -10,7 +10,7 @@ url: '/help/eigene-farben-in-einer-base-hinzufuegen'
 
 {{< required-version "Enterprise" >}}
 
-With SeaTable you bring more color into your daily work - especially compared to drab databases and dull spreadsheets. With [Enterprise subscription](https://seatable.io/en/preise/) it is even possible that you insert **your own custom colors** via hexadecimal code into the color palette, which you encounter at various places within a base.
+With SeaTable you bring more color into your daily work - especially compared to drab databases and dull spreadsheets. With [Enterprise subscription]({{< relref "pages/prices" >}}) it is even possible that you insert **your own custom colors** via hexadecimal code into the color palette, which you encounter at various places within a base.
 
 For example, you can colorize [selection options]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}), [buttons]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) to match your corporate design, or let your creativity run wild with the color scheme.
 

@@ -10,7 +10,11 @@ url: '/help/nur-noch-lesender-zugriff-weil-limits-erreicht'
 
 You have read-only access to your data and can no longer edit it? Don't worry, your data is safe. You have probably only reached your **limits** available to you in your current **SeaTable subscription**.
 
-{{< warning headline="Note" text="For a detailed overview of all available **subscription packages** and the features, options and limits available to you with them, please visit our [pricing page](https://seatable.io/en/preise/)." />}}
+{{< warning headline="Note" >}}
+
+For a detailed overview of all available **subscription packages** and the features, options and limits available to you with them, please visit our [pricing page]({{< relref "pages/prices" >}}).
+
+{{< /warning >}}
 
 ## How can I edit my data again?
 

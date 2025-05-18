@@ -10,7 +10,7 @@ url: '/pt/ajuda/plus-oder-enterprise-abonnement-buchen'
 
 A sua equipa tem uma subscrição SeaTable Free e pretende atualizar para Plus ou Enterprise? Não há problema! Basta utilizar o separador **Subscrição** na **administração da equipa** e reservar o pacote de subscrição pretendido.
 
-Na página de [Preços](https://seatable.io/pt/preise/) encontrará uma visão geral de todos os pacotes de subscrição disponíveis no SeaTable e as características e opções que incluem.
+Na página de [Preços]({{< relref "pages/prices" >}}) encontrará uma visão geral de todos os pacotes de subscrição disponíveis no SeaTable e as características e opções que incluem.
 
 ## Subscrição Book Plus ou Enterprise
 

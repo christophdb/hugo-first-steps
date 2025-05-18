@@ -17,4 +17,8 @@ Um Ihre Bases weiter bearbeiten und Daten hinzufügen zu können, stehen Ihnen g
 1. **Löschen** Sie einen Teil Ihrer Daten (Bases, Tabellen, Gruppen etc.), um Speicherplatz freizumachen, bis Ihre Limits nicht mehr überschritten werden. Eine **Übersicht** über die derzeit von Ihnen belegten Speicher-Limits finden Sie im Drop-down-Menü auf der Startseite. ![Übersicht über aktuell erreichte Limits](images/show-current-limits.gif)
 2. [Wechseln Sie zu einem Abonnement](https://seatable.io/docs/abo-abrechnung/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen/#aktuelles_abo_anpassen), welches Ihnen höhere Limits gewährt.
 
-{{< warning type="warning" headline="Abonnements" text="Einen detaillierten Überblick über alle verfügbaren **Abonnements** und die Funktionen, Möglichkeiten und Limits, die Ihnen mit diesen zur Verfügung stehen, finden Sie auf unserer [Preisseite](\"https://seatable.io/preise/\")." />}}
+{{< warning type="warning" headline="Abonnements" >}}
+
+Einen detaillierten Überblick über alle verfügbaren **Abonnements** und die Funktionen, Möglichkeiten und Limits, die Ihnen mit diesen zur Verfügung stehen, finden Sie auf unserer [Preisseite]({{< relref "pages/prices" >}}).
+
+{{< /warning >}}

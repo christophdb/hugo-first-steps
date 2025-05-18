@@ -23,7 +23,7 @@ Organisieren Sie Ihre Bases in Gruppen, um sowohl einen besseren Überblick übe
 
 ## Gruppe anlegen in der Teamverwaltung
 
-Als **Team-Administrator** haben Sie noch eine zweite Möglichkeit, nämlich [eine Gruppe über die Teamverwaltung anzulegen](https://seatable.io/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/).
+Als **Team-Administrator** haben Sie noch eine zweite Möglichkeit, nämlich [eine Gruppe über die Teamverwaltung anzulegen]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}}).
 
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Klicken Sie rechts oben auf Ihr **Avatar-Bild** und dann auf **Teamverwaltung**.

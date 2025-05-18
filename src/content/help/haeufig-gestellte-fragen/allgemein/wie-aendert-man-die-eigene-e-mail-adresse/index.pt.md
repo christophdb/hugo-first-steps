@@ -1,11 +1,11 @@
 ---
-title: "Como alterar o seu endereço de correio electrónico? - Mesa do mar"
+title: 'Como alterar o seu endereço de correio electrónico? - Mesa do mar'
 date: 2023-05-11
-lastmod: "2023-08-22"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "cdb"
-url: "/pt/ajuda/wie-aendert-man-die-eigene-e-mail-adresse"
+lastmod: '2023-08-22'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'cdb'
+url: '/pt/ajuda/wie-aendert-man-die-eigene-e-mail-adresse'
 ---
 
 **Atualmente,** o SeaTable Cloud **não permite que os utilizadores alterem o seu endereço de** correio eletrónico. Nem o próprio utilizador nem o administrador da equipa podem alterar o endereço de e-mail de uma conta existente. No entanto, é possível fazê-lo de uma **forma indireta,** criando uma nova **conta** com um **novo endereço de e-mail** e eliminando a conta anterior. Este procedimento é descrito no artigo seguinte.
@@ -25,7 +25,7 @@ Este processo também é muito simples. Primeiro, crie **outro membro da equipa 
 
 - [Adicionar um novo membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
 - [Fazer de um membro da equipa um administrador](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Criar um novo grupo](https://seatable.io/pt/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/)
+- [Criar um novo grupo]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 - [Copiar uma Base para um Grupo](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
 - [Atribuição de permissões num grupo](https://seatable.io/pt/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
 - [Bloquear ou eliminar um membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)

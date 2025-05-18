@@ -29,7 +29,7 @@ Los siguientes artículos pueden ser de su interés:
 - [Bloquear o eliminar a un miembro del equipo](https://seatable.io/es/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
 - [Cambiar el nombre del equipo](https://seatable.io/es/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Grupos y sus miembros en la administración del equipo](https://seatable.io/es/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
-- [Crear un nuevo grupo](https://seatable.io/es/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/)
+- [Crear un nuevo grupo]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases y liberaciones
 

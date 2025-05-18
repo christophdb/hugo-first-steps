@@ -13,7 +13,11 @@ Si vous avez dépassé les limites dont vous disposez dans votre abonnement actu
 - Passer à une formule d'abonnement plus complète
 - Supprimer une partie de vos données
 
-{{< warning  headline="Remarque"  text="Vous trouverez un aperçu de tous les forfaits disponibles et des limites, fonctions et possibilités qu'ils contiennent sur notre [page de prix](https://seatable.io/fr/prix/)." />}}
+{{< warning  headline="Remarque" >}}
+
+Vous trouverez un aperçu de tous les forfaits disponibles et des limites, fonctions et possibilités qu'ils contiennent sur notre [page de prix](https://seatable.io/fr/prix/).
+
+{{< /warning >}}
 
 ## Passer à une formule d'abonnement plus complète
 

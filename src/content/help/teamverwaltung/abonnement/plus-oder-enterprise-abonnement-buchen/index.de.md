@@ -10,7 +10,7 @@ url: '/de/hilfe/plus-oder-enterprise-abonnement-buchen'
 
 Ihr Team verfügt über ein SeaTable Free-Abonnement und Sie möchten auf Plus oder Enterprise upgraden? Kein Problem! Nutzen Sie hierfür einfach den Reiter **Abonnement** in der **Teamverwaltung** und buchen Sie Ihr gewünschtes Abo-Paket.
 
-Auf der Seite [Preise](https://seatable.io/preise/) finden Sie eine Übersicht mit allen in SeaTable verfügbaren Abo-Paketen und den darin enthaltenen Funktionen und Möglichkeiten.
+Auf der Seite [Preise]({{< relref "pages/prices" >}}) finden Sie eine Übersicht mit allen in SeaTable verfügbaren Abo-Paketen und den darin enthaltenen Funktionen und Möglichkeiten.
 
 ## Plus- oder Enterprise-Abonnement buchen
 

@@ -10,7 +10,11 @@ url: '/de/hilfe/nur-noch-lesender-zugriff-weil-limits-erreicht'
 
 Sie haben nur noch einen lesenden Zugriff auf Ihre Daten und können diese nicht mehr bearbeiten? Keine Sorge, Ihre Daten sind sicher. Sie haben vermutlich nur Ihre **Limits** erreicht, die Ihnen in Ihrem aktuellen **SeaTable-Abonnement** zur Verfügung stehen.
 
-{{< warning type="warning" headline="Hinweis" text="Einen detaillierten Überblick über alle verfügbaren **Abo-Pakete** und die Funktionen, Möglichkeiten und Limits, die Ihnen mit diesen zur Verfügung stehen, finden Sie auf unserer [Preisseite](\"https://seatable.io/preise/\")." />}}
+{{< warning type="warning" headline="Hinweis" >}}
+
+Einen detaillierten Überblick über alle verfügbaren **Abo-Pakete** und die Funktionen, Möglichkeiten und Limits, die Ihnen mit diesen zur Verfügung stehen, finden Sie auf unserer [Preisseite]({{< relref "pages/prices" >}}).
+
+{{< /warning >}}
 
 ## Wie kann ich meine Daten wieder bearbeiten?
 

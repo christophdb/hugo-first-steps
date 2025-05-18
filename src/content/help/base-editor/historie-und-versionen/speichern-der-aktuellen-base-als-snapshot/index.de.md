@@ -28,7 +28,7 @@ Gut zu wissen: SeaTable legt automatisch einen Snapshot pro Tag von jeder Base a
 
 Die Snapshots von Bases werden für einen gewissen Zeitraum vorgehalten und danach gelöscht.
 
-Bei [SeaTable Cloud](https://seatable.io) ist die Speicherdauer der Snapshots abhängig vom [Abonnement Ihres Teams](https://seatable.io/preise/):
+Bei [SeaTable Cloud](https://seatable.io) ist die Speicherdauer der Snapshots abhängig vom [Abonnement Ihres Teams]({{< relref "pages/prices" >}}):
 
 - Beim kostenlosen **Free-Abonnement** werden die Snapshots für einen Monat gespeichert.
 - Beim **Plus-** bzw. **Enterprise-Abonnement** werden Snapshots für 6 bzw. 12 Monate gespeichert. (Die verlängerte Speicherdauer gilt vom Zeitpunkt des Upgrades.)

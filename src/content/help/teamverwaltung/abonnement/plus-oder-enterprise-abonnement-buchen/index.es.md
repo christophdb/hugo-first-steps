@@ -10,7 +10,7 @@ url: '/es/ayuda/plus-oder-enterprise-abonnement-buchen'
 
 ¿Su equipo está suscrito a SeaTable Free y desea pasar a Plus o Enterprise? No hay problema. Simplemente utilice la pestaña **Suscripción** en la **administración del equipo** y reserve el paquete de suscripción que desee.
 
-En la página de [precios](https://seatable.io/es/preise/) encontrará un resumen de todos los paquetes de suscripción disponibles en SeaTable y las funciones y opciones que incluyen.
+En la página de [precios]({{< relref "pages/prices" >}}) encontrará un resumen de todos los paquetes de suscripción disponibles en SeaTable y las funciones y opciones que incluyen.
 
 ## Suscripción Book Plus o Enterprise
 

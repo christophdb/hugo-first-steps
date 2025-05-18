@@ -29,7 +29,7 @@ url: '/ru/help/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 - [Блокировка или удаление члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
 - [Изменение названия команды](https://seatable.io/ru/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Группы и их члены в командной администрации](https://seatable.io/ru/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
-- [Создайте новую группу](https://seatable.io/ru/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/)
+- [Создайте новую группу]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Базы и релизы
 

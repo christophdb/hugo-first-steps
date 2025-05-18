@@ -13,7 +13,11 @@ Se tiver ultrapassado os limites disponíveis na sua assinatura actual, existem 
 - Mudar para um pacote de subscrição mais alargado
 - Eliminar parte dos seus dados
 
-{{< warning  headline="Nota"  text="Pode encontrar uma visão geral de todos os pacotes disponíveis e dos limites, funções e opções que contêm na nossa [página de preços](https://seatable.io/pt/preise/)." />}}
+{{< warning  headline="Nota" >}}
+
+Pode encontrar uma visão geral de todos os pacotes disponíveis e dos limites, funções e opções que contêm na nossa [página de preços]({{< relref "pages/prices" >}}).
+
+{{< /warning >}}
 
 ## Mudar para um pacote de subscrição mais alargado
 

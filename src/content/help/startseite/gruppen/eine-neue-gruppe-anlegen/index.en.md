@@ -26,7 +26,7 @@ Organize your bases into groups, both to get a better overview of your topics an
 
 ## Create group in team management
 
-As a **team administrator**, you have a second option, which is to [create a group via the team administration](https://seatable.io/en/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/).
+As a **team administrator**, you have a second option, which is to [create a group via the team administration]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}}).
 
 1. Switch to the SeaTable **home** page.
 2. Click your **avatar image** in the upper right corner and then click **Team Management**.

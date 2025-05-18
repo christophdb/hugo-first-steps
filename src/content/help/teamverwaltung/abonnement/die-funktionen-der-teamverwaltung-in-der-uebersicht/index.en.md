@@ -29,7 +29,7 @@ The following articles may be of interest to you:
 - [Lock or delete a team member](https://seatable.io/en/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
 - [Changing the team name](https://seatable.io/en/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Groups and their members in the team management](https://seatable.io/en/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
-- [Create a new group](https://seatable.io/en/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/)
+- [Create a new group]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases and releases
 

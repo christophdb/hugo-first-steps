@@ -25,7 +25,7 @@ url: '/ru/help/wie-aendert-man-die-eigene-e-mail-adresse'
 
 - [Добавить нового члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
 - [Сделать члена команды администратором](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Создайте новую группу](https://seatable.io/ru/docs/teamverwaltung/eine-neue-gruppe-anlegen-2/)
+- [Создайте новую группу]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 - [Копирование базы в группу](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)
 - [Назначение разрешений в группе](https://seatable.io/ru/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
 - [Блокировка или удаление члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)

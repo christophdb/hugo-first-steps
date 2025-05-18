@@ -10,7 +10,11 @@ url: '/es/ayuda/nur-noch-lesender-zugriff-weil-limits-erreicht'
 
 ¿Sólo tienes acceso de lectura a tus datos y ya no puedes editarlos? No se preocupe, sus datos están a salvo. Probablemente sólo ha alcanzado sus **límites**, que están a su disposición en su **suscripción actual a SeaTable**.
 
-{{< warning headline="Nota" text="En nuestra [página de precios](https://seatable.io/es/preise/) encontrará un resumen detallado de todos los **paquetes de suscripción** disponibles, así como de las funciones, opciones y límites de que dispone con ellos." />}}
+{{< warning headline="Nota" >}}
+
+En nuestra [página de precios]({{< relref "pages/prices" >}}) encontrará un resumen detallado de todos los **paquetes de suscripción** disponibles, así como de las funciones, opciones y límites de que dispone con ellos.
+
+{{< /warning >}}
 
 ## ¿Cómo puedo volver a editar mis datos?
 

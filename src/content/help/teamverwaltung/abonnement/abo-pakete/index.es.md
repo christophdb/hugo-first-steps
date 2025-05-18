@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/es/ayuda/abo-pakete'
 ---
 
-Ofrecemos SeaTable en distintas versiones y con diferentes precios, por lo que hay algo para todos los gustos. Las funciones y posibilidades varían en función del nivel de precios, por lo que pueden adaptarse a sus necesidades individuales. Puede obtener una comparación rápida de nuestros abonos en [nuestra página de precios](https://seatable.io/es/preise/).
+Ofrecemos SeaTable en distintas versiones y con diferentes precios, por lo que hay algo para todos los gustos. Las funciones y posibilidades varían en función del nivel de precios, por lo que pueden adaptarse a sus necesidades individuales. Puede obtener una comparación rápida de nuestros abonos en [nuestra página de precios]({{< relref "pages/prices" >}}).
 
 ## Paquetes de suscripción a SeaTable Cloud
 

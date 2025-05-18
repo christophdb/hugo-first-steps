@@ -13,7 +13,11 @@ Wenn Sie die Limits, die Ihnen in Ihrem aktuellen Abo zur Verfügung stehen, üb
 - Zu einem umfangreicheren Abo-Paket wechseln
 - Einen Teil Ihrer Daten löschen
 
-{{< warning  type="warning" headline="Hinweis"  text="Eine Übersicht mit allen verfügbaren Paketen und den darin enthaltenen Limits, Funktionen und Möglichkeiten finden Sie auf unserer [Preisseite](\"https://seatable.io/preise/\")." />}}
+{{< warning  type="warning" headline="Hinweis" >}}
+
+Eine Übersicht mit allen verfügbaren Paketen und den darin enthaltenen Limits, Funktionen und Möglichkeiten finden Sie auf unserer [Preisseite]({{< relref "pages/prices" >}}).
+
+{{< /warning >}}
 
 ## Zu einem umfangreicheren Abo-Paket wechseln
 
