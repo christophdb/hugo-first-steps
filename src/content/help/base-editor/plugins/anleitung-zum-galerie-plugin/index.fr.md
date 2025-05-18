@@ -16,7 +16,7 @@ Alors que dans l'**affichage du tableau**, les images sont représentées sous f
 
 ## Pour configurer le plugin de la galerie, procédez comme suit
 
-Pour pouvoir utiliser le **plugin de la galerie**, vous devez d'abord l'[activer](https://seatable.io/fr/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) dans votre base.
+Pour pouvoir utiliser le **plugin de la galerie**, vous devez d'abord l'[activer]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) dans votre base.
 
 Définissez ensuite dans les paramètres pour quelle **vue du tableau** vous souhaitez créer une galerie et de quelle [colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) les images doivent provenir. Pour le **titre**, indiquez la colonne dont vous souhaitez utiliser les entrées comme titre d'album.
 

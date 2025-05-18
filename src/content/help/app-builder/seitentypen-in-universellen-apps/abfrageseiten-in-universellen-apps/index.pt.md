@@ -69,13 +69,17 @@ Na parte inferior das definições da página, pode restringir quem pode ver a p
 
 Esta é a única [autorização de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que pode selecionar aqui. Não é possível adicionar ou eliminar linhas na tabela através de páginas de consulta.
 
-No entanto, após uma consulta de dados bem sucedida, os utilizadores da aplicação podem clicar nos [botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) da lista de ocorrências apresentada para **executar** determinadas **acções**.
+No entanto, após uma consulta de dados bem sucedida, os utilizadores da aplicação podem clicar nos [botões]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) da lista de ocorrências apresentada para **executar** determinadas **acções**.
 
 ![Botões de execução nas páginas de consulta](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
 Um exemplo de aplicação é um quadro de empregos interno: a página de consulta permite-lhe procurar rapidamente posições relevantes. Se for encontrada uma posição interessante, basta clicar no botão nos resultados da pesquisa para se candidatar diretamente à posição.
 
-{{< warning  headline="Atenção com os botões"  text="[Os botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) podem ser **sempre** premidos, independentemente das autorizações da página. Isto significa que todos os utilizadores da aplicação podem fazer determinadas alterações aos registos de dados que definiu previamente, mesmo que as colunas afectadas estejam bloqueadas para eles ou que o utilizador não esteja autorizado a editar os resultados da consulta." />}}
+{{< warning  headline="Atenção com os botões" >}}
+
+[Os botões]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) podem ser **sempre** premidos, independentemente das autorizações da página. Isto significa que todos os utilizadores da aplicação podem fazer determinadas alterações aos registos de dados que definiu previamente, mesmo que as colunas afectadas estejam bloqueadas para eles ou que o utilizador não esteja autorizado a editar os resultados da consulta.
+
+{{< /warning >}}
 
 ## Outros artigos úteis
 

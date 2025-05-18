@@ -73,7 +73,7 @@ Using the Page Design plugin, you can layout **documents** such as form letters,
 
 ![](images/Pagedesign.png)
 
-[More about the page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
+[More about the page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
 These articles may also be of interest to you:
 

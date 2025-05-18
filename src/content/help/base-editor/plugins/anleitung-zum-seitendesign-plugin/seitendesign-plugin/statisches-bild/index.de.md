@@ -10,7 +10,7 @@ url: '/de/hilfe/statisches-bild'
 
 Ein **statisches Bild** bietet Ihnen die Möglichkeit, **Bild-Dateien** wie Logos, Grafiken oder Hintergrundbilder in eine Seite einzubinden, um ein grundlegendes Seiten-Layout zu gestalten. Im Gegensatz zu Bildern, die aus [Bild-Spalten]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) Ihrer Tabelle stammen, verändert sich ein statisches Bild nicht und bleibt unabhängig von den Einträgen in der Tabelle gleich. Allerdings müssen Sie die entsprechende Bild-Datei **manuell hochladen**.
 
-Lesen Sie im Artikel [Anleitung zum Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) nach, welche anderen Elemente und Funktionen das **Seitendesign-Plugin** für Sie bereithält.
+Lesen Sie im Artikel [Anleitung zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) nach, welche anderen Elemente und Funktionen das **Seitendesign-Plugin** für Sie bereithält.
 
 ## Position und Größe des Bildes verändern
 

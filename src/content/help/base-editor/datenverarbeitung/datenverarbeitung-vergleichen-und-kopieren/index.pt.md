@@ -74,4 +74,4 @@ Os seguintes tipos de colunas **não podem** ser copiados através da operação
 - [A coluna Created](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
 - [A coluna do último editor](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [A última coluna editada](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/)
+- [Botão]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

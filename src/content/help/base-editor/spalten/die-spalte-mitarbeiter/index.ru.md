@@ -46,7 +46,7 @@ url: '/ru/help/die-spalte-mitarbeiter'
 
 ## Выберите сотрудников в качестве получателей автоматических уведомлений
 
-При отправке уведомлений с помощью [автоматики](https://seatable.io/ru/docs/arbeiten-mit-automationen/anlegen-einer-automation/) и [кнопок](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) вы можете выбрать в качестве получателей сообщения всех лиц, указанных в столбце "Сотрудники".
+При отправке уведомлений с помощью [автоматики]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) вы можете выбрать в качестве получателей сообщения всех лиц, указанных в столбце "Сотрудники".
 
 ![Колонка коллаборатора для автоматических уведомлений](images/Collaborator-column-for-automated-notifications.gif)
 

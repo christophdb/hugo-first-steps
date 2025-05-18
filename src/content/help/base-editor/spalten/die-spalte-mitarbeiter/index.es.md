@@ -46,7 +46,7 @@ Puede establecer uno o varios empleados como [valor por defecto]({{< relref "hel
 
 ## Seleccionar empleados como destinatarios de notificaciones automatizadas
 
-Al enviar notificaciones mediante [automatizaciones](https://seatable.io/es/docs/arbeiten-mit-automationen/anlegen-einer-automation/) y [botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/), puede seleccionar como destinatarios del mensaje a todas las personas introducidas en la columna de empleados.
+Al enviar notificaciones mediante [automatizaciones]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}), puede seleccionar como destinatarios del mensaje a todas las personas introducidas en la columna de empleados.
 
 ![Columna de colaboradores para notificaciones automáticas](images/Collaborator-column-for-automated-notifications.gif)
 

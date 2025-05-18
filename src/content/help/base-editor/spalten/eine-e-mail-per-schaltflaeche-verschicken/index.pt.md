@@ -12,7 +12,7 @@ Com a ajuda de um **botão** nas suas filas, pode enviar e-mails a um ou mais de
 
 ## Envio de um e-mail por botão
 
-Primeiro, seleccionar a acção **Enviar e-mail** ao criar o [botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/).
+Primeiro, seleccionar a acção **Enviar e-mail** ao criar o [botão]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
 
 ![Selecção da acção "Enviar e-mail](images/send-email-action.png)
 
@@ -40,7 +40,7 @@ Opcionalmente, pode acrescentar um **anexo à** mensagem de correio electrónico
 
 ## Execução condicional de acções de múltiplos botões
 
-O [botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) é um tipo de coluna especial com o qual é possível executar **várias acções simultaneamente** premindo um botão. É possível determinar a **seqüência cronológica de** ações através da execução condicional de uma ação subseqüente. Isto torna possível **alternar acções uma após a outra**.
+O [botão]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) é um tipo de coluna especial com o qual é possível executar **várias acções simultaneamente** premindo um botão. É possível determinar a **seqüência cronológica de** ações através da execução condicional de uma ação subseqüente. Isto torna possível **alternar acções uma após a outra**.
 
 Por exemplo, pode querer [guardar um documento PDF numa coluna de ficheiros](https://seatable.io/pt/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) com um clique e anexar o ficheiro a uma mensagem de correio electrónico. O problema pode surgir se a mensagem de correio electrónico for enviada antes de o PDF para o anexo ter sido criado.
 

@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-timeline-plugin'
 
 The **Timeline plugin** allows you to display different time spans in the form of a **timeline**. This is very useful, for example, if you want to see whether appointments **overlap**. Accordingly, you can use the Timeline plugin for vacation and project planning or booking (meeting) rooms, among other things.
 
-Read the article [Activating a Plugin in a Base](https://seatable.io/en/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) to find out how to activate the Timeline plugin.
+Read the article [Activating a Plugin in a Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) to find out how to activate the Timeline plugin.
 
 ## Function of the timeline plugin
 

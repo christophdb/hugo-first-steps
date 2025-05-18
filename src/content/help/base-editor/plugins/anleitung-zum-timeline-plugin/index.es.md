@@ -10,7 +10,7 @@ url: '/es/ayuda/anleitung-zum-timeline-plugin'
 
 El **plugin de línea** de tiempo permite mostrar distintos intervalos de tiempo en forma de **línea de tiempo**. Esto es muy útil, por ejemplo, si desea ver si las citas **se solapan**. En consecuencia, puede utilizar el plugin de cronograma para planificar vacaciones y proyectos o reservar salas (de reuniones), entre otras cosas.
 
-Lea el artículo [Activación de un plugin en una base](https://seatable.io/es/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) para saber cómo activar el plugin Timeline.
+Lea el artículo [Activación de un plugin en una base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) para saber cómo activar el plugin Timeline.
 
 ## Función del complemento de línea de tiempo
 

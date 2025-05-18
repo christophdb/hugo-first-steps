@@ -12,7 +12,7 @@ O plug-in do calendário mostra-lhe os dados de uma tabela em **forma de calend�
 
 Há um total de 5 opções de visualização: Pode exibir os compromissos num calendário **anual**, **mensal** ou **semanal**, no **planeador diário** ou como uma **agenda** mensal em forma de lista.
 
-{{< warning  headline="Requisitos"  text="Para utilizar a visualização do calendário para uma visualização de tabela, é necessário pelo menos uma [coluna de datas](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) e deve ter [activado](https://seatable.io/pt/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) previamente o plugin do calendário [na Base](https://seatable.io/pt/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/)." />}}
+{{< warning  headline="Requisitos"  text="Para utilizar a visualização do calendário para uma visualização de tabela, é necessário pelo menos uma [coluna de datas]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}})." />}}
 
 ## Configurações de plugin de calendário
 

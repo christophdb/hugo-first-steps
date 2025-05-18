@@ -10,7 +10,7 @@ url: '/es/ayuda/anleitung-zum-karten-plugin'
 
 Si ha creado una columna de texto con direcciones o topónimos en su tabla o ha utilizado el tipo de columna [Geoposición](https://seatable.io/es/docs/andere-spalten/die-geopositions-spalte/), puede utilizar el **complemento de mapa** para mostrar las ubicaciones introducidas en la columna.
 
-Para activar el plugin, siga las instrucciones del artículo [Activar un plugin en una base](https://seatable.io/es/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+Para activar el plugin, siga las instrucciones del artículo [Activar un plugin en una base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Funciones del complemento de mapas
 

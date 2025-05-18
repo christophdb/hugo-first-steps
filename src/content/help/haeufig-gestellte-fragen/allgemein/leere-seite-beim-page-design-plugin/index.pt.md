@@ -10,7 +10,7 @@ url: '/pt/ajuda/leere-seite-beim-page-design-plugin'
 
 {{< required-version "Fixado com a versão 3.4." >}}
 
-Ao criar um novo documento PDF utilizando o [plug-in de design de página](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), é criada uma página em branco adicional no final do documento PDF em alguns casos. Este comportamento já foi confirmado no fórum em dezembro de 2022. A versão 3.4, que será lançada no final de fevereiro de 2023, corrigirá este erro.
+Ao criar um novo documento PDF utilizando o [plug-in de design de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), é criada uma página em branco adicional no final do documento PDF em alguns casos. Este comportamento já foi confirmado no fórum em dezembro de 2022. A versão 3.4, que será lançada no final de fevereiro de 2023, corrigirá este erro.
 
 ## Mais informação sobre este erro
 

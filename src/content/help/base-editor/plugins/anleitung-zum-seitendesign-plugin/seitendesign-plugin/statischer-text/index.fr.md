@@ -12,7 +12,7 @@ Le **texte statique** vous offre la possibilité d'intégrer **des éléments de
 
 Contrairement aux textes issus des colonnes de texte de votre tableau, un texte statique ne change pas et reste le même quelles que soient les entrées du tableau. Vous devez toutefois **insérer** et **formater** **manuellement** le **texte** correspondant.
 
-Consultez l'article [Instructions relatives au plug-in de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) pour savoir quels autres éléments et fonctions le **plug-in de conception de pages** met à votre disposition.
+Consultez l'article [Instructions relatives au plug-in de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) pour savoir quels autres éléments et fonctions le **plug-in de conception de pages** met à votre disposition.
 
 ## Modifier la position et la taille de l'élément de texte
 

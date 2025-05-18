@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-With the **single data record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) that you already know from Base.
+With the **single data record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from Base.
 
 Users of the app can view, search, browse or even edit the individual data records on this page - with the relevant authorization. This type of page is suitable, for example, for displaying the data in an employee database as personal profiles.
 
@@ -100,7 +100,7 @@ You will also find a **QR code generator** in the toolbar. The QR code contains 
 
 ## Execute button actions
 
-Just like on table and query pages, you can also use columns of the [button](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) type here. Whether you want to create a PDF document, edit a data record or execute a script - you can start all these **button actions** at the touch of a button. **No** editing authorization is required for this. In this way, app admins can limit user interactions for this page type to a few predefined actions.
+Just like on table and query pages, you can also use columns of the [button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) type here. Whether you want to create a PDF document, edit a data record or execute a script - you can start all these **button actions** at the touch of a button. **No** editing authorization is required for this. In this way, app admins can limit user interactions for this page type to a few predefined actions.
 
 ## Page authorizations
 
@@ -110,7 +110,11 @@ You can define the following [page authorizations]({{< relref "help/app-builder/
 
 Decide who can **view** and **edit** the individual data records. You cannot add or delete rows in the table via this page.
 
-{{< warning  headline="Attention with buttons"  text="[Buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) can **always** be activated regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the page." />}}
+{{< warning  headline="Attention with buttons" >}}
+
+[Buttons]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) can **always** be activated regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the page.
+
+{{< /warning >}}
 
 ## Read-only columns
 

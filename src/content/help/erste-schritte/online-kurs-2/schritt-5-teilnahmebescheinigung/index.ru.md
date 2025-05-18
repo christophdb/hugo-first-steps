@@ -60,7 +60,7 @@ SeaTable предлагает несколько плагинов, которы�
 
 ## Справочная статья с дополнительной информацией
 
-- [Инструкции для плагина дизайна страниц](https://seatable.io/ru/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
+- [Инструкции для плагина дизайна страниц]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 - [Сохранение PDF-документа по кнопке в столбце](https://seatable.io/ru/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/)
 - [Колонка файлов](https://seatable.io/ru/docs/dateien-und-bilder/die-datei-spalte/)
 - [Управление файлами базы](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/)

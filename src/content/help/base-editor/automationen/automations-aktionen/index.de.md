@@ -156,7 +156,7 @@ Der Artikel [Einträge in andere Tabellen per Automation hinzufügen](https://se
 
 ## Automations-Aktion: Seite in PDF umwandeln
 
-Wenn Sie "Seite in PDF umwandeln" als automatisierte Aktion auswählen, wird bei Auslösung des **Triggers** ein PDF-Dokument aus dem Datensatz erzeugt und in einer [Datei-Spalte](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/) gespeichert. Dazu wählen Sie eine **Vorlage** aus, die Sie zuvor im [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) erstellt haben. In den Einstellungen der Automatisierungsregel können Sie auch den **Dateinamen** definieren.
+Wenn Sie "Seite in PDF umwandeln" als automatisierte Aktion auswählen, wird bei Auslösung des **Triggers** ein PDF-Dokument aus dem Datensatz erzeugt und in einer [Datei-Spalte]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) erstellt haben. In den Einstellungen der Automatisierungsregel können Sie auch den **Dateinamen** definieren.
 
 ![PDF per Automation erstellen](images/PDF-per-Automation-erstellen.png)
 

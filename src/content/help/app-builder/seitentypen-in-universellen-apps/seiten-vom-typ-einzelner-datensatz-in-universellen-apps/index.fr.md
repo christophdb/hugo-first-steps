@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-Avec le [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Enregistrement individuel**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau dynamiques, des couleurs, des cadres, etc. afin de présenter visuellement les données stockées dans une ligne. Ce type de page est donc similaire au [plug-in de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) que vous connaissez déjà dans la Base.
+Avec le [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Enregistrement individuel**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau dynamiques, des couleurs, des cadres, etc. afin de présenter visuellement les données stockées dans une ligne. Ce type de page est donc similaire au [plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que vous connaissez déjà dans la Base.
 
 Sur cette page, les utilisateurs de l'application peuvent - avec l'autorisation correspondante - voir, rechercher et parcourir les différents enregistrements, voire les modifier. Ce type de page convient par exemple pour afficher les données d'une base de données d'employés sous forme de fiches personnelles.
 
@@ -100,7 +100,7 @@ Dans la barre d'outils, vous trouverez également un **générateur de code QR**
 
 ## Exécuter des actions de bouton
 
-Comme pour les pages de tableaux et de requêtes, vous pouvez utiliser des colonnes de type [bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/). Que vous souhaitiez créer un document PDF, modifier un enregistrement ou exécuter un script, vous pouvez lancer toutes ces **actions de bouton** en appuyant sur un bouton. Une autorisation d'édition n'est **pas** nécessaire. De cette manière, les administrateurs d'applications peuvent limiter les interactions utilisateur pour ce type de page à quelques actions prédéfinies.
+Comme pour les pages de tableaux et de requêtes, vous pouvez utiliser des colonnes de type [bouton]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}). Que vous souhaitiez créer un document PDF, modifier un enregistrement ou exécuter un script, vous pouvez lancer toutes ces **actions de bouton** en appuyant sur un bouton. Une autorisation d'édition n'est **pas** nécessaire. De cette manière, les administrateurs d'applications peuvent limiter les interactions utilisateur pour ce type de page à quelques actions prédéfinies.
 
 ## Autorisations des pages
 
@@ -110,7 +110,11 @@ Pour les pages de type enregistrement unique, vous pouvez définir les [autorisa
 
 Décidez qui peut **voir** et **modifier** les différents enregistrements. Vous ne pouvez pas ajouter ou supprimer des lignes dans le tableau via cette page.
 
-{{< warning  headline="Attention aux boutons"  text="[Les boutons](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) peuvent **toujours** être actionnés indépendamment des autorisations de la page. Cela permet à tout utilisateur de l'application d'effectuer certaines modifications sur les enregistrements que vous avez définis au préalable, même si les colonnes concernées sont par ailleurs bloquées pour lui ou si l'utilisateur n'est pas autorisé à modifier la page." />}}
+{{< warning  headline="Attention aux boutons" >}}
+
+[Les boutons]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) peuvent **toujours** être actionnés indépendamment des autorisations de la page. Cela permet à tout utilisateur de l'application d'effectuer certaines modifications sur les enregistrements que vous avez définis au préalable, même si les colonnes concernées sont par ailleurs bloquées pour lui ou si l'utilisateur n'est pas autorisé à modifier la page.
+
+{{< /warning >}}
 
 ## Colonnes en lecture seule
 

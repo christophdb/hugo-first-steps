@@ -43,7 +43,7 @@ Les deux types d'opérations de traitement des données sont soumis à des **con
 
 ## Remarques sur l'exécution
 
-Les opérations de traitement des données peuvent actuellement être exécutées [manuellement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [par automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). L'équipe de développement travaille à ce que les opérations de traitement des données puissent également être exécutées à l'aide de [boutons à](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) l'avenir.
+Les opérations de traitement des données peuvent actuellement être exécutées [manuellement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [par automatisation]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) l'avenir.
 
 Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) pour les résultats.
 

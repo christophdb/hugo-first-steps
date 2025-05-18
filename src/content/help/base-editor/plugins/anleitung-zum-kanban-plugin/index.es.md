@@ -10,7 +10,7 @@ url: '/es/ayuda/anleitung-zum-kanban-plugin'
 
 Un **tablero Kanban** puede ser útil para representar procesos dinámicos con distintas fases. En este sentido, permite visualizar **flujos de trabajo** y **avances de proyectos**, por ejemplo. Esto resulta especialmente útil para la planificación de proyectos, el desarrollo de productos o la distribución de tareas **en el equipo**.
 
-Menos mal que SeaTable te ofrece todas estas posibilidades con el **plugin Kanban**. Puede encontrar información sobre cómo activar el plugin en una base [aquí](https://seatable.io/es/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+Menos mal que SeaTable te ofrece todas estas posibilidades con el **plugin Kanban**. Puede encontrar información sobre cómo activar el plugin en una base [aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Estructura del tablero Kanban
 

@@ -10,7 +10,7 @@ url: '/pt/ajuda/anleitung-zum-kanban-plugin'
 
 Um **quadro Kanban** pode ser útil para representar processos dinâmicos com diferentes fases. A este respeito, permite-lhe visualizar **fluxos de trabalho** e **o progresso de um projeto**, por exemplo. Isto é particularmente útil para o planeamento de projectos, desenvolvimento de produtos ou distribuição de tarefas **na equipa**.
 
-Ainda bem que o SeaTable lhe oferece todas estas possibilidades com o **plugin Kanban**. Pode descobrir [aqui](https://seatable.io/pt/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) como activar o plugin numa base.
+Ainda bem que o SeaTable lhe oferece todas estas possibilidades com o **plugin Kanban**. Pode descobrir [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) como activar o plugin numa base.
 
 ## Estrutura do conselho Kanban
 

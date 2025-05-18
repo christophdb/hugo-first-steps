@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/tabellenfelder'
 ---
 
-**Les champs de tableau** contiennent les entrées d'une colonne de votre tableau. C'est pourquoi le [plug-in de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) énumère dans les champs de tableau **toutes les colonnes** du tableau à partir desquelles vous pouvez intégrer des données dans la page.
+**Les champs de tableau** contiennent les entrées d'une colonne de votre tableau. C'est pourquoi le [plug-in de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) énumère dans les champs de tableau **toutes les colonnes** du tableau à partir desquelles vous pouvez intégrer des données dans la page.
 
 Comme le nombre et le type de colonnes déterminent les champs de tableau que vous pouvez sélectionner, vous disposez de différentes possibilités en fonction du tableau. Le contenu des champs de tableau insérés sur une page dépend des **entrées** du tableau et change **automatiquement** en fonction de la ligne.
 
@@ -27,7 +27,7 @@ Les **colonnes** du tableau "Budget Book" doivent être représentées sous form
 
 ![Exemple de tableau Budget Book.](images/Tabelle-Budget-Book.png)
 
-Créez une **nouvelle page** dans le plug-in ou ouvrez un **design de page enregistré**. Consultez les [instructions du plug-in de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) pour savoir comment procéder. Les colonnes du tableau sont maintenant disponibles dans les **éléments de la page** en tant que champs de tableau.
+Créez une **nouvelle page** dans le plug-in ou ouvrez un **design de page enregistré**. Consultez les [instructions du plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) pour savoir comment procéder. Les colonnes du tableau sont maintenant disponibles dans les **éléments de la page** en tant que champs de tableau.
 
 ![Champs de la table Budget Book.](images/Tabellenfelder-Burdget-Book.png)
 

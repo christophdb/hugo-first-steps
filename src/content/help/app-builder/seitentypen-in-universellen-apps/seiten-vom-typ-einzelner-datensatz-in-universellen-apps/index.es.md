@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-Con el [tipo de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) página de **registro de datos único**, tiene la opción de diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) que ya conoce de Base.
+Con el [tipo de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) página de **registro de datos único**, tiene la opción de diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que ya conoce de Base.
 
 Los usuarios de la aplicación pueden ver, buscar, explorar o incluso editar los registros de datos individuales en esta página, con la autorización pertinente. Este tipo de página es adecuada, por ejemplo, para mostrar los datos de una base de datos de empleados como perfiles personalizados.
 
@@ -100,7 +100,7 @@ También encontrará un **generador de códigos QR** en la barra de herramientas
 
 ## Ejecutar acciones de botón
 
-Al igual que en las páginas de tablas y consultas, aquí también puede utilizar columnas de tipo [botón](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/). Tanto si desea crear un documento PDF, editar un registro de datos o ejecutar un script, puede iniciar todas estas **acciones con** sólo pulsar un botón. Para ello **no** se requiere autorización de edición. De este modo, los administradores de aplicaciones pueden restringir las interacciones del usuario para este tipo de página a unas pocas acciones predefinidas.
+Al igual que en las páginas de tablas y consultas, aquí también puede utilizar columnas de tipo [botón]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}). Tanto si desea crear un documento PDF, editar un registro de datos o ejecutar un script, puede iniciar todas estas **acciones con** sólo pulsar un botón. Para ello **no** se requiere autorización de edición. De este modo, los administradores de aplicaciones pueden restringir las interacciones del usuario para este tipo de página a unas pocas acciones predefinidas.
 
 ## Autorizaciones de páginas
 
@@ -110,7 +110,11 @@ Puede definir las siguientes [autorizaciones de página]({{< relref "help/app-bu
 
 Decida quién está autorizado a **ver** y **editar** los registros de datos individuales. En esta página no se pueden añadir ni eliminar filas de la tabla.
 
-{{< warning  headline="Atención con los botones"  text="[Los botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar la página." />}}
+{{< warning  headline="Atención con los botones" >}}
+
+[Los botones]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar la página.
+
+{{< /warning >}}
 
 ## Columnas de sólo lectura
 

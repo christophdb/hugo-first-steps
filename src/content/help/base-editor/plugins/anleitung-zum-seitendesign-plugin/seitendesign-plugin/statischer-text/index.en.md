@@ -12,7 +12,7 @@ The **static text** gives you the possibility to include **text elements** like 
 
 Unlike texts that come from text columns in your table, a static text does not change and remains the same regardless of the entries in the table. However, you must **insert** and **format** the corresponding **text manually**.
 
-Read the [Page Design Plugin Guide](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) article [to](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) see what other elements and features the **Page Design Plugin** has in store for you.
+Read the [Page Design Plugin Guide]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) see what other elements and features the **Page Design Plugin** has in store for you.
 
 ## Change position and size of the text element
 

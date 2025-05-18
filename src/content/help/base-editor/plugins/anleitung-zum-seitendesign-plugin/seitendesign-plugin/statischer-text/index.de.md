@@ -12,7 +12,7 @@ Der **statische Text** bietet Ihnen die Möglichkeit, **Textelemente** wie Über
 
 Im Gegensatz zu Texten, die aus Textspalten Ihrer Tabelle stammen, verändert sich ein statischer Text nicht und bleibt unabhängig von den Einträgen in der Tabelle gleich. Allerdings müssen Sie den entsprechenden **Text manuell einfügen** und **formatieren**.
 
-Lesen Sie im Artikel [Anleitung zum Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) nach, welche anderen Elemente und Funktionen das **Seitendesign-Plugin** für Sie bereithält.
+Lesen Sie im Artikel [Anleitung zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) nach, welche anderen Elemente und Funktionen das **Seitendesign-Plugin** für Sie bereithält.
 
 ## Position und Größe des Textelements verändern
 

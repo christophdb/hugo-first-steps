@@ -10,7 +10,7 @@ url: '/fr/aide/anleitung-zum-datendeduplizierungs-plugin'
 
 Le plug-in de déduplication des données vous permet de vérifier si vos tableaux **contiennent des entrées en double** et de les **supprimer** automatiquement en un seul clic.
 
-Consultez l'article [Activer un plugin dans une base](https://seatable.io/fr/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) pour savoir comment activer le plugin et l'ajouter à votre barre d'outils.
+Consultez l'article [Activer un plugin dans une base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) pour savoir comment activer le plugin et l'ajouter à votre barre d'outils.
 
 ## Vérifier qu'un tableau ne contient pas d'entrées en double
 

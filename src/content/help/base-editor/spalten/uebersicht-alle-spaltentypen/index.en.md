@@ -162,7 +162,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-button" >}} **Button**
 
 Buttons allow you to **automate** the processing of data or the execution of certain actions. However, keep in mind that you always have to operate buttons **manually**. Using the button that you can add to your rows in this column, you trigger certain actions defined in advance. For this reason, this column type is particularly suitable for automating process steps.
 
-For more information about the button and the actions that can be triggered in columns of this type, see this [article](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/).
+For more information about the button and the actions that can be triggered in columns of this type, see this [article]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
 
 ### Geoposition
 

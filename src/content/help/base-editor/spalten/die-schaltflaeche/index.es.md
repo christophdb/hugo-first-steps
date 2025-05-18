@@ -27,7 +27,7 @@ Puedes elegir entre un total de **nueve** acciones diferentes:
 - Copiar fila a otra tabla
 - Abrir URL
 - Abrir plugin (sólo es posible si ha activado al menos un [plugin](https://seatable.io/es/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) )
-- Guardar archivo PDF en columna (sólo es posible si está activado el [plug-in de diseño de página](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) )
+- Guardar archivo PDF en columna (sólo es posible si está activado el [plug-in de diseño de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) )
 - Enviar notificación
 - Enviar correo electrónico
 - Ejecutar el script

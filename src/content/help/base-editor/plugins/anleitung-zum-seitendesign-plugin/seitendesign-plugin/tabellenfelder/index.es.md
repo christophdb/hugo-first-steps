@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/tabellenfelder'
 ---
 
-Los **campos de tabla** contienen las entradas de una columna de la tabla. Por lo tanto, el [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) enumera **todas las columnas de** la tabla a partir de las cuales se pueden incluir datos en la página en los campos de la tabla.
+Los **campos de tabla** contienen las entradas de una columna de la tabla. Por lo tanto, el [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) enumera **todas las columnas de** la tabla a partir de las cuales se pueden incluir datos en la página en los campos de la tabla.
 
 Dado que depende del número y tipo de columnas que los campos de la tabla que tiene que elegir, usted tiene diferentes opciones dependiendo de la tabla. El contenido de los campos de tabla insertados en una página depende de las **entradas** de la tabla y cambia **automáticamente** en función de la fila.
 
@@ -27,7 +27,7 @@ Las **columnas de** la tabla "Libro de presupuesto" deben mostrarse como **campo
 
 ![Tabla ejemplo Libro de Presupuestos.](images/Tabelle-Budget-Book.png)
 
-Cree una **nueva página** en el plugin o abra un **diseño de página guardado**. Lea las [instrucciones del complemento de diseño de páginas para](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) saber cómo hacerlo. Las columnas de la tabla están ahora disponibles como campos de tabla en los **elementos de la página**.
+Cree una **nueva página** en el plugin o abra un **diseño de página guardado**. Lea las [instrucciones del complemento de diseño de páginas para]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) saber cómo hacerlo. Las columnas de la tabla están ahora disponibles como campos de tabla en los **elementos de la página**.
 
 ![Campos de la tabla del Libro de Presupuestos.](images/Tabellenfelder-Burdget-Book.png)
 

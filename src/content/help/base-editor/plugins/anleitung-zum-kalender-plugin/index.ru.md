@@ -12,7 +12,7 @@ url: '/ru/help/anleitung-zum-kalender-plugin'
 
 Всего существует 5 вариантов отображения: Вы можете отображать встречи в календаре **годового**, **месячного** или **недельного обзора**, в **ежедневнике** или в виде ежемесячной **повестки дня** в форме списка.
 
-{{< warning  headline="Требования"  text="Чтобы использовать отображение календаря для табличного представления, вам необходим хотя бы один [столбец с датами](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/), и вы должны предварительно [активировать](https://seatable.io/ru/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) плагин календаря [в Base](https://seatable.io/ru/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/)." />}}
+{{< warning  headline="Требования"  text="Чтобы использовать отображение календаря для табличного представления, вам необходим хотя бы один [столбец с датами]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}})." />}}
 
 ## Настройки плагина календаря
 

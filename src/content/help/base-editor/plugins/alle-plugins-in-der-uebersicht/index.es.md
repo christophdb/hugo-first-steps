@@ -73,7 +73,7 @@ Con ayuda del plug-in de diseño de páginas, puede maquetar **documentos** como
 
 ![](images/Pagedesign.png)
 
-[Más información sobre el plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
+[Más información sobre el plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
 Estos artículos también pueden interesarle:
 

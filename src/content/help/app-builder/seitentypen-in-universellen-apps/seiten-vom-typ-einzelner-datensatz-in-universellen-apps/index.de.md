@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-Mit dem [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, dynamischen Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), das Sie bereits aus der Base kennen.
+Mit dem [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, dynamischen Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), das Sie bereits aus der Base kennen.
 
 Die Nutzer der App können auf dieser Seite – mit der jeweiligen Berechtigung – die einzelnen Datensätze sehen, suchen und durchblättern oder sogar bearbeiten. Dieser Seitentyp eignet sich zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als persönliche Steckbriefe anzuzeigen.
 
@@ -100,7 +100,7 @@ In der Toolbar finden Sie außerdem einen **QR-Code-Generator**. Der QR-Code ent
 
 ## Schaltflächen-Aktionen ausführen
 
-Genau wie auf Tabellen- und Abfrageseiten können Sie auch hier Spalten vom Typ [Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) nutzen. Ob Sie ein PDF-Dokument erstellen, einen Datensatz bearbeiten oder ein Skript ausführen möchten – all diese **Schaltflächen-Aktionen** können Sie per Knopfdruck starten. Eine Bearbeitungsberechtigung ist dafür **nicht** notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen beschränken.
+Genau wie auf Tabellen- und Abfrageseiten können Sie auch hier Spalten vom Typ [Schaltfläche]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) nutzen. Ob Sie ein PDF-Dokument erstellen, einen Datensatz bearbeiten oder ein Skript ausführen möchten – all diese **Schaltflächen-Aktionen** können Sie per Knopfdruck starten. Eine Bearbeitungsberechtigung ist dafür **nicht** notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen beschränken.
 
 ## Seitenberechtigungen
 
@@ -110,7 +110,11 @@ Für Seiten vom Typ Einzelner Datensatz können Sie folgende [Seitenberechtigung
 
 Entscheiden Sie, wer die einzelnen Datensätze **sehen** und **bearbeiten** darf. Über diese Seite können Sie keine Zeilen in der Tabelle hinzufügen oder löschen.
 
-{{< warning  type="warning" headline="Achtung bei Schaltflächen"  text="[Schaltflächen](\"https://seatable.io/docs/andere-spalten/die-schaltflaeche/\") können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Seite berechtigt ist." />}}
+{{< warning  type="warning" headline="Achtung bei Schaltflächen" >}}
+
+[Schaltflächen]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
+
+{{< /warning >}}
 
 ## Schreibgeschützte Spalten
 

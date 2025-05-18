@@ -90,7 +90,7 @@ Mithilfe dieses Seitentyps, der ähnlich wie die [Datenabfrage-App]({{< relref "
 
 ## Seitentyp: Einzelner Datensatz
 
-Mit diesem Seitentyp haben Sie die Möglichkeit, eine Seite mit statischen Elementen, dynamischen Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), das Sie bereits aus der Base kennen.
+Mit diesem Seitentyp haben Sie die Möglichkeit, eine Seite mit statischen Elementen, dynamischen Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), das Sie bereits aus der Base kennen.
 
 Die Nutzer der App können auf dieser Seite die einzelnen Datensätze durchblättern, suchen oder bearbeiten. Somit eignet sich dieser Seitentyp zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als **persönliche Steckbriefe** anzuzeigen.
 

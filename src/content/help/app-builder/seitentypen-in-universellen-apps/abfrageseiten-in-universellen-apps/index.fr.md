@@ -69,13 +69,17 @@ Tout en bas, dans les paramètres de la page, vous pouvez limiter les personnes 
 
 C'est la seule [autorisation de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que vous pouvez choisir ici. Les pages de requête ne permettent pas d'ajouter ou de supprimer des lignes dans le tableau.
 
-Toutefois, après une recherche de données réussie, les utilisateurs de l'application peuvent actionner [des boutons](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) dans la liste de résultats affichée afin d'**effectuer** certaines **actions**.
+Toutefois, après une recherche de données réussie, les utilisateurs de l'application peuvent actionner [des boutons]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) dans la liste de résultats affichée afin d'**effectuer** certaines **actions**.
 
 ![Exécuter des boutons sur des pages de requête](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
 Un exemple d'application est une bourse d'emploi interne : la page de requête permet de rechercher rapidement les postes pertinents. Si un poste intéressant y figure, il suffit alors de cliquer sur le bouton dans les résultats de recherche pour postuler directement à l'emploi.
 
-{{< warning  headline="Attention aux boutons"  text="[Les boutons](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) peuvent **toujours** être actionnés, indépendamment des autorisations de la page. Cela permet à tout utilisateur de l'application d'effectuer certaines modifications sur les enregistrements que vous avez définis au préalable, même si les colonnes concernées sont par ailleurs bloquées pour lui ou si l'utilisateur n'est pas autorisé à modifier les résultats de la requête." />}}
+{{< warning  headline="Attention aux boutons" >}}
+
+[Les boutons]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) peuvent **toujours** être actionnés, indépendamment des autorisations de la page. Cela permet à tout utilisateur de l'application d'effectuer certaines modifications sur les enregistrements que vous avez définis au préalable, même si les colonnes concernées sont par ailleurs bloquées pour lui ou si l'utilisateur n'est pas autorisé à modifier les résultats de la requête.
+
+{{< /warning >}}
 
 ## Autres articles utiles
 

@@ -18,7 +18,7 @@ Los **elementos dinámicos** cambian en función de determinados criterios, pero
 
 Los **ajustes** que puede realizar para los elementos dinámicos son los mismos que para los elementos de texto estáticos. Por ello, puede leer explicaciones detalladas de todas las opciones de configuración en el artículo [Texto estático](https://seatable.io/es/docs/seitendesign-plugin/statischer-text/).
 
-Si es necesario, lea el artículo [Instrucciones para el](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) **plugin de diseño de** páginas para saber qué otros elementos y funciones le ofrece el **plugin de diseño de páginas**.
+Si es necesario, lea el artículo [Instrucciones para el]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) **plugin de diseño de** páginas para saber qué otros elementos y funciones le ofrece el **plugin de diseño de páginas**.
 
 ## Fecha actual
 

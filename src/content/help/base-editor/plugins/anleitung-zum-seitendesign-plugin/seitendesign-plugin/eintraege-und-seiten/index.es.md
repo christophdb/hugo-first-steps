@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/eintraege-und-seiten'
 ---
 
-Con el [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), es importante entender la diferencia entre entradas y páginas. Mientras que las **páginas** adicionales amplían un documento independientemente del contenido de la tabla, las **entradas** asignan registros diferentes de las filas de la tabla.
+Con el [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), es importante entender la diferencia entre entradas y páginas. Mientras que las **páginas** adicionales amplían un documento independientemente del contenido de la tabla, las **entradas** asignan registros diferentes de las filas de la tabla.
 
 ## Entradas
 

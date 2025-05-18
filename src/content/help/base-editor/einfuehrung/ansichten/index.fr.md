@@ -42,4 +42,4 @@ Vous activez les plugins via le gestionnaire de plugins, que vous ouvrez en cliq
 
 Avec le [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}), vous gérez rapidement et facilement les images dans votre base.
 
-Affichez les adresses et les données de position sur une carte grâce au [plug-in de carte](https://seatable.io/fr/docs/plugins/instructions-plugin-de-carte/) et visualisez vos tâches et les phases de votre projet grâce au [plug-in Kanban](https://seatable.io/fr/docs/plugins/anleitung-zum-kanban-plugin/). Le [plug-in de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) vous aide à transformer rapidement vos ensembles de données en documents mis en page.
+Affichez les adresses et les données de position sur une carte grâce au [plug-in de carte]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) vous aide à transformer rapidement vos ensembles de données en documents mis en page.

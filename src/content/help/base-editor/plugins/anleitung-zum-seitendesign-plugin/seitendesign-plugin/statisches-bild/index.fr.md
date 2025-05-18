@@ -10,7 +10,7 @@ url: '/fr/aide/statisches-bild'
 
 Une **image statique** vous offre la possibilité d'intégrer **des fichiers image** tels que des logos, des graphiques ou des images d'arrière-plan dans une page afin de concevoir une mise en page de base. Contrairement aux images provenant de [colonnes d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) de votre tableau, une image statique ne change pas et reste la même indépendamment des entrées dans le tableau. Vous devez toutefois **télécharger manuellement** le fichier image correspondant.
 
-Consultez l'article [Instructions relatives au plug-in de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) pour savoir quels autres éléments et fonctions le **plug-in de conception de pages** met à votre disposition.
+Consultez l'article [Instructions relatives au plug-in de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) pour savoir quels autres éléments et fonctions le **plug-in de conception de pages** met à votre disposition.
 
 ## Modifier la position et la taille de l'image
 

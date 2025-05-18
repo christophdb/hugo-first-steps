@@ -90,7 +90,7 @@ Ce type de page, qui fonctionne de la même manière que l'[application de requ�
 
 ## Type de page : Enregistrement unique
 
-Ce type de page vous permet de concevoir une page avec des éléments statiques, des champs de tableau dynamiques, des couleurs, des cadres, etc. afin de présenter visuellement les données enregistrées sur une ligne. Ce type de page ressemble donc au [plugin de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) que vous connaissez déjà dans la Base.
+Ce type de page vous permet de concevoir une page avec des éléments statiques, des champs de tableau dynamiques, des couleurs, des cadres, etc. afin de présenter visuellement les données enregistrées sur une ligne. Ce type de page ressemble donc au [plugin de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que vous connaissez déjà dans la Base.
 
 Les utilisateurs de l'application peuvent parcourir, rechercher ou modifier les différents enregistrements sur cette page. Ce type de page convient donc par exemple pour afficher les données d'une base de données de collaborateurs sous forme de **fiches personnelles**.
 

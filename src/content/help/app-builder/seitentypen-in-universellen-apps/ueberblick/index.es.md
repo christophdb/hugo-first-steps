@@ -90,7 +90,7 @@ Este tipo de página, que funciona de forma similar a la [aplicación Consulta d
 
 ## Tipo de página: Ficha individual
 
-Este tipo de página permite diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) de diseño de páginas que ya conoces de Base.
+Este tipo de página permite diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) de diseño de páginas que ya conoces de Base.
 
 Los usuarios de la aplicación pueden navegar, buscar o editar los registros de datos individuales en esta página. Por tanto, este tipo de página es adecuada para mostrar los datos de una base de datos de empleados como **perfiles personales**, por ejemplo.
 

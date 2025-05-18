@@ -12,7 +12,7 @@ With the help of a **button** in your rows you can send e-mails to one or more r
 
 ## Sending an e-mail with a button
 
-First, when you create the [button](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/), select the **Send Email** action.
+First, when you create the [button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}), select the **Send Email** action.
 
 ![Selection of the action "Send e-mail](images/send-email-action.png)
 
@@ -40,7 +40,7 @@ Optionally, you can add an **attachment to** the email. Note, however, that you 
 
 ## Conditional execution of multiple button actions
 
-The [button](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) is a special type of column that allows you to perform **several actions simultaneously** by pressing a button. You can specify the **timing of** actions by conditionally executing a subsequent action. Thus it is possible to **switch actions one after the other**.
+The [button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) is a special type of column that allows you to perform **several actions simultaneously** by pressing a button. You can specify the **timing of** actions by conditionally executing a subsequent action. Thus it is possible to **switch actions one after the other**.
 
 For example, you may want to [save a PDF document in a file column](https://seatable.io/en/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) with one click and attach the file to an email afterwards. This may cause the problem that the email is sent before the PDF for the attachment has been created.
 

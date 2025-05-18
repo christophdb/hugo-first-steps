@@ -27,7 +27,7 @@ Sie können insgesamt zwischen **neun** verschiedenen Aktionen wählen:
 - Zeile in eine andere Tabelle kopieren
 - URL öffnen
 - Plugin öffnen (nur möglich, wenn Sie mindestens ein [Plugin](https://seatable.io/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) aktiviert haben)
-- PDF-Datei in Spalte speichern (nur möglich, wenn das [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) aktiviert ist)
+- PDF-Datei in Spalte speichern (nur möglich, wenn das [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) aktiviert ist)
 - Benachrichtigung versenden
 - E-Mail versenden
 - Skript ausführen

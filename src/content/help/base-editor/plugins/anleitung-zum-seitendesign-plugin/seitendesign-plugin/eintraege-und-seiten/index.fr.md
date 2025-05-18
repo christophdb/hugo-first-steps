@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/eintraege-und-seiten'
 ---
 
-En ce qui concerne le [plug-in de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), il est important de comprendre la différence entre les entrées et les pages. Alors que les **pages** supplémentaires étendent un document indépendamment du contenu du tableau, les **entrées** représentent différents enregistrements des lignes du tableau.
+En ce qui concerne le [plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), il est important de comprendre la différence entre les entrées et les pages. Alors que les **pages** supplémentaires étendent un document indépendamment du contenu du tableau, les **entrées** représentent différents enregistrements des lignes du tableau.
 
 ## Entrées
 

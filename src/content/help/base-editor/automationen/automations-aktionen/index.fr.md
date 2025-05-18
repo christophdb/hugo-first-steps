@@ -157,7 +157,7 @@ L'article [Ajouter des entrées dans d'autres tableaux par automatisation](https
 
 ## Action d'automatisation : convertir une page en PDF
 
-Si vous sélectionnez "Convertir la page en PDF" comme action automatisée, un document PDF sera créé à partir de l'ensemble de données et enregistré dans une [colonne de fichier](https://seatable.io/fr/docs/dateien-und-bilder/die-datei-spalte/) lorsque le **déclencheur** sera déclenché. Pour ce faire, sélectionnez un **modèle** que vous avez créé au préalable dans le [plug-in de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/). Dans les paramètres de la règle d'automatisation, vous pouvez également définir le **nom du fichier**.
+Si vous sélectionnez "Convertir la page en PDF" comme action automatisée, un document PDF sera créé à partir de l'ensemble de données et enregistré dans une [colonne de fichier]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}). Dans les paramètres de la règle d'automatisation, vous pouvez également définir le **nom du fichier**.
 
 ![Créer un PDF par automatisation](images/PDF-per-Automation-erstellen.png)
 

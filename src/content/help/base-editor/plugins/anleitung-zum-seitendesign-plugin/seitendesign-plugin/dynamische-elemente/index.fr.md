@@ -18,7 +18,7 @@ url: '/fr/aide/dynamische-elemente'
 
 Les **réglages** que vous pouvez effectuer pour les éléments dynamiques sont les mêmes que pour les éléments de texte statiques. Vous pouvez donc lire des explications détaillées sur toutes les possibilités de réglage dans l'article [Texte statique](https://seatable.io/fr/docs/seitendesign-plugin/statischer-text/).
 
-Si nécessaire, consultez l'article [Instructions relatives au plug-in de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) pour savoir quels autres éléments et fonctions le **plug-in de conception de pages** met à votre disposition.
+Si nécessaire, consultez l'article [Instructions relatives au plug-in de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) pour savoir quels autres éléments et fonctions le **plug-in de conception de pages** met à votre disposition.
 
 ## Date actuelle
 

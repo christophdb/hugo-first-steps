@@ -46,7 +46,7 @@ You can set one or more employees as the [default value]({{< relref "help/base-e
 
 ## Select employees as recipients of automated notifications
 
-When sending notifications via [automations](https://seatable.io/en/docs/arbeiten-mit-automationen/anlegen-einer-automation/) and [buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/), you can select all persons entered in the employee column as recipients of the message.
+When sending notifications via [automations]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}), you can select all persons entered in the employee column as recipients of the message.
 
 ![Collaborator column for automated notifications](images/Collaborator-column-for-automated-notifications.gif)
 

@@ -90,7 +90,7 @@ Using this page type, which works similarly to the [Data Query app]({{< relref "
 
 ## Page type: Single data record
 
-This page type allows you to design a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) that you already know from Base.
+This page type allows you to design a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from Base.
 
 Users of the app can browse, search or edit the individual data records on this page. This type of page is therefore suitable for displaying the data in an employee database as **personal profiles**, for example.
 

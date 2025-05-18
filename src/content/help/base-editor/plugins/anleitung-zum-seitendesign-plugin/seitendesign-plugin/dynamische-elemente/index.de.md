@@ -18,7 +18,7 @@ url: '/de/hilfe/dynamische-elemente'
 
 Die **Einstellungen**, die Sie für dynamische Elemente vornehmen können, sind die gleichen wie für statische Textelemente. Ausführliche Erklärungen zu allen Einstellungsmöglichkeiten können Sie daher im Artikel [Statischer Text](https://seatable.io/docs/seitendesign-plugin/statischer-text/) nachlesen.
 
-Lesen Sie bei Bedarf im Artikel [Anleitung zum Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) nach, welche anderen Elemente und Funktionen das **Seitendesign-Plugin** für Sie bereithält.
+Lesen Sie bei Bedarf im Artikel [Anleitung zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) nach, welche anderen Elemente und Funktionen das **Seitendesign-Plugin** für Sie bereithält.
 
 ## Aktuelles Datum
 

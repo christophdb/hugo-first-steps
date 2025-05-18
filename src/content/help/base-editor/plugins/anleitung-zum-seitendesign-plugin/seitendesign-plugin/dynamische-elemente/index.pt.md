@@ -18,7 +18,7 @@ url: '/pt/ajuda/dynamische-elemente'
 
 As **definições** que pode fazer para elementos dinâmicos são as mesmas que para elementos de texto estático. Pode, portanto, ler explicações detalhadas de todas as opções de definição no [texto estático](https://seatable.io/pt/docs/seitendesign-plugin/statischer-text/) do artigo.
 
-Se necessário, leia o artigo [Instruções para o plugin de desenho de página](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) para descobrir que outros elementos e funções o **plugin de desenho de página** tem guardado para si.
+Se necessário, leia o artigo [Instruções para o plugin de desenho de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) para descobrir que outros elementos e funções o **plugin de desenho de página** tem guardado para si.
 
 ## Data actual
 

@@ -12,7 +12,7 @@ The calendar plugin shows you data from a table in **calendar form.** You can ge
 
 There are 5 display options in total: You can display appointments in a calendar **yearly**, **monthly** or **weekly overview**, in the **daily planner** or as a monthly **agenda** in list form.
 
-{{< warning  headline="Requirements"  text="To use the calendar display for a table view, you need at least one [date column](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) and you must have previously [activated](https://seatable.io/en/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) the calendar plugin [in Base](https://seatable.io/en/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/)." />}}
+{{< warning  headline="Requirements"  text="To use the calendar display for a table view, you need at least one [date column]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}})." />}}
 
 ## Calendar plugin settings
 

@@ -16,7 +16,7 @@ Während die Bilder in der **Tabellen-Ansicht** als Miniatur dargestellt werden 
 
 ## So richten Sie das Galerie-Plugin ein
 
-Um das **Galerie-Plugin** verwenden zu können, müssen Sie dieses zunächst in Ihrer Base [aktivieren](https://seatable.io/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+Um das **Galerie-Plugin** verwenden zu können, müssen Sie dieses zunächst in Ihrer Base [aktivieren]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 Daraufhin legen Sie in den Einstellungen fest, für welche **Tabellenansicht** Sie eine Galerie erstellen möchten und aus welcher [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) die Bilder stammen sollen. Geben Sie bei **Titel** die Spalte an, deren Einträge Sie als Albumtitel verwenden möchten.
 

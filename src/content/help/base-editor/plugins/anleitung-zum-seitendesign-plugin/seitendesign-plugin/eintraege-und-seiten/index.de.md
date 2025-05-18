@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/eintraege-und-seiten'
 ---
 
-Beim [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) ist es wichtig, den Unterschied zwischen Einträgen und Seiten zu verstehen. Während zusätzliche **Seiten** ein Dokument unabhängig von den Inhalten der Tabelle erweitern, bilden die **Einträge** unterschiedliche Datensätze aus den Zeilen der Tabelle ab.
+Beim [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) ist es wichtig, den Unterschied zwischen Einträgen und Seiten zu verstehen. Während zusätzliche **Seiten** ein Dokument unabhängig von den Inhalten der Tabelle erweitern, bilden die **Einträge** unterschiedliche Datensätze aus den Zeilen der Tabelle ab.
 
 ## Einträge
 

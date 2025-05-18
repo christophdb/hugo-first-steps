@@ -42,4 +42,4 @@ Activa-se os plugins através do gestor de plugins, que se abre através do bot�
 
 Com o [plugin do calendário]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}), pode gerir imagens rápida e facilmente na sua Base.
 
-Visualize endereços e dados de posição num mapa através do [plug-in do mapa]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) e visualize as suas tarefas e fases do projecto com o [plug-in Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/). O [plug-in de concepção de página](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) ajuda-o a transformar rapidamente os seus conjuntos de dados em documentos em layouted.
+Visualize endereços e dados de posição num mapa através do [plug-in do mapa]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) e visualize as suas tarefas e fases do projecto com o [plug-in Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) ajuda-o a transformar rapidamente os seus conjuntos de dados em documentos em layouted.

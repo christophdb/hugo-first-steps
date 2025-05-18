@@ -18,7 +18,7 @@ url: '/help/dynamische-elemente'
 
 The **settings** you can make for dynamic elements are the same as for static text elements. You can therefore read detailed explanations of all the setting options in the [Static text](https://seatable.io/en/docs/seitendesign-plugin/statischer-text/) article.
 
-If necessary, read the [Page Design Plugin Guide](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) article [to](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) see what other elements and features the **Page Design Plugin** has in store for you.
+If necessary, read the [Page Design Plugin Guide]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) see what other elements and features the **Page Design Plugin** has in store for you.
 
 ## Current date
 

@@ -10,7 +10,7 @@ url: '/fr/aide/anleitung-zum-timeline-plugin'
 
 Le **plug-in Timeline** vous permet d'afficher différentes périodes de temps sous la forme d'une **ligne de temps**. Cela est par exemple très utile lorsque vous souhaitez voir si des rendez-vous **se chevauchent**. En conséquence, vous pouvez utiliser le plugin Timeline entre autres pour la planification des vacances et des projets ou la réservation de salles (de réunion).
 
-Lisez l'article [Activer un plugin dans une base](https://seatable.io/fr/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) pour savoir comment activer le plugin Timeline.
+Lisez l'article [Activer un plugin dans une base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) pour savoir comment activer le plugin Timeline.
 
 ## Fonctionnement du plug-in Timeline
 

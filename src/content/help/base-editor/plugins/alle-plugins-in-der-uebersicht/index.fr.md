@@ -73,7 +73,7 @@ Le plug-in de déduplication des données détecte les **entrées en double** da
 
 ![](images/Pagedesign.png)
 
-[En savoir plus sur le plugin de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
+[En savoir plus sur le plugin de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
 Ces articles pourraient également vous intéresser :
 

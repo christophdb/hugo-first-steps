@@ -73,7 +73,7 @@ url: '/ru/help/alle-plugins-in-der-uebersicht'
 
 ![](images/Pagedesign.png)
 
-[Подробнее о плагине для дизайна страниц](https://seatable.io/ru/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
+[Подробнее о плагине для дизайна страниц]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
 Эти статьи также могут быть вам интересны:
 

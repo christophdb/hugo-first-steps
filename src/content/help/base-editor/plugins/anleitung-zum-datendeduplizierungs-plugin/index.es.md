@@ -10,7 +10,7 @@ url: '/es/ayuda/anleitung-zum-datendeduplizierungs-plugin'
 
 Con el complemento de deduplicación de datos, puede comprobar si hay **entradas duplicadas en** sus tablas y **eliminarlas** automáticamente con un solo clic.
 
-Lea el artículo [Activar un plugin en una base](https://seatable.io/es/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) para aprender a activar el plugin y añadirlo a su barra de herramientas.
+Lea el artículo [Activar un plugin en una base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) para aprender a activar el plugin y añadirlo a su barra de herramientas.
 
 ## Comprobación de entradas duplicadas en una tabla
 

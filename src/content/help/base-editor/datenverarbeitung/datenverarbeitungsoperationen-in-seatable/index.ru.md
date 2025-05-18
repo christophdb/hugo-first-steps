@@ -43,7 +43,7 @@ SeaTable часто мыслит рядами. Например, [формула
 
 ## Примечания по выполнению
 
-В настоящее время операции по обработке данных могут выполняться [вручную]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) или с [помощью автоматизации](https://seatable.io/ru/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). Команда разработчиков работает над тем, чтобы в будущем операции по обработке данных можно было выполнять и с помощью [кнопок](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/).
+В настоящее время операции по обработке данных могут выполняться [вручную]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) или с [помощью автоматизации]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
 
 Каждый раз, когда выполняется операция обработки данных, **результаты** записываются в **столбец результатов** независимо от этого. Если вы не хотите перезаписывать данные, следует заранее [создать новый пустой столбец]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) для результатов.
 

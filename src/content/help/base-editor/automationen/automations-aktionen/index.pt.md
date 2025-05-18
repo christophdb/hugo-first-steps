@@ -157,7 +157,7 @@ O artigo [Adicionando Entradas a Outras Tabelas via Automação](https://seatabl
 
 ## Ação de automatização: Converter a página em PDF
 
-Se selecionar "Converter página em PDF" como ação automática, é criado um documento PDF a partir do conjunto de dados e guardado numa [coluna de ficheiro](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/) quando o **acionador é ac** ionado. Para tal, seleccione um **modelo** que tenha criado previamente no [plug-in de design de página](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/). Também pode definir o **nome do ficheiro** nas definições da regra de automatização.
+Se selecionar "Converter página em PDF" como ação automática, é criado um documento PDF a partir do conjunto de dados e guardado numa [coluna de ficheiro]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}). Também pode definir o **nome do ficheiro** nas definições da regra de automatização.
 
 ![Criar PDF através da automatização](images/PDF-per-Automation-erstellen.png)
 

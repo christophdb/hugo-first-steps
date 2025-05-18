@@ -162,7 +162,7 @@ Symbole : {{< seatable-icon icon="dtable-icon-button" >}} **Bouton**
 
 Les boutons permettent **d'automatiser** le traitement des données ou l'exécution de certaines actions. Notez toutefois que vous devez toujours utiliser les boutons **manuellement**. Le bouton que vous pouvez ajouter à vos lignes dans cette colonne vous permet de déclencher certaines actions définies au préalable. C'est pourquoi ce type de colonne convient particulièrement bien à l'automatisation des étapes de processus.
 
-Vous trouverez plus d'informations sur le bouton et les actions pouvant être déclenchées dans les colonnes de ce type dans cet [article](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/).
+Vous trouverez plus d'informations sur le bouton et les actions pouvant être déclenchées dans les colonnes de ce type dans cet [article]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
 
 ### Géoposition
 

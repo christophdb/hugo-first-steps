@@ -10,7 +10,7 @@ url: '/pt/ajuda/statisches-bild'
 
 Uma **imagem estática** oferece-lhe a possibilidade de incluir **ficheiros de imagem** como logótipos, gráficos ou imagens de fundo numa página para criar uma apresentação básica da página. Ao contrário das imagens provenientes de [colunas de imagens]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) na sua tabela, uma imagem estática não se altera e permanece a mesma, independentemente das entradas na tabela. No entanto, é necessário **carregar manualmente** o ficheiro de imagem correspondente.
 
-Leia o artigo [Page Design Plugin Guide para](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) descobrir que outros elementos e funções o **Page Design Plugin** tem reservado para si.
+Leia o artigo [Page Design Plugin Guide para]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) descobrir que outros elementos e funções o **Page Design Plugin** tem reservado para si.
 
 ## Alterar a posição e o tamanho da imagem
 

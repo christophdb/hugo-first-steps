@@ -43,7 +43,7 @@ Für beide Arten von Datenverarbeitungsoperationen gelten jeweils unterschiedlic
 
 ## Hinweise zur Ausführung
 
-Datenverarbeitungsoperationen können derzeit [manuell]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) oder [per Automation](https://seatable.io/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ausgeführt werden. Das Entwickler-Team arbeitet daran, dass Datenverarbeitungsoperationen zukünftig auch mithilfe von [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) ausgeführt werden können.
+Datenverarbeitungsoperationen können derzeit [manuell]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) oder [per Automation]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) ausgeführt werden können.
 
 Bei jeder Ausführung der Datenverarbeitungsoperation werden die **Ergebnisse** ohne Rücksicht auf Verluste in die **Ergebnisspalte** geschrieben. Wenn Sie keine Daten überschreiben wollen, sollten Sie für die Ergebnisse im Voraus eine [neue leere Spalte anlegen]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 

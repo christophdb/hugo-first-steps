@@ -96,6 +96,10 @@ Les données exportées depuis la page du tableau sont indépendantes de l'**aff
 
 Dans les [autorisations de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), vous pouvez définir avec précision qui peut voir et modifier le tableau.
 
-{{< warning  headline="Attention aux boutons"  text="[Les boutons](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) peuvent **toujours** être actionnés indépendamment des autorisations de la page. Cela permet à tout utilisateur de l'application d'effectuer certaines modifications sur les enregistrements que vous avez définis au préalable, même si les colonnes concernées sont par ailleurs bloquées pour lui ou si l'utilisateur n'est pas autorisé à modifier la page." />}}
+{{< warning  headline="Attention aux boutons" >}}
+
+[Les boutons]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) peuvent **toujours** être actionnés indépendamment des autorisations de la page. Cela permet à tout utilisateur de l'application d'effectuer certaines modifications sur les enregistrements que vous avez définis au préalable, même si les colonnes concernées sont par ailleurs bloquées pour lui ou si l'utilisateur n'est pas autorisé à modifier la page.
+
+{{< /warning >}}
 
 ![Définition des autorisations des pages](images/page-permissions.png)

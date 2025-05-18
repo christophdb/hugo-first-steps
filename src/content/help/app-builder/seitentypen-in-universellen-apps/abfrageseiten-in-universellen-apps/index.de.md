@@ -69,13 +69,17 @@ Ganz unten in den Seiteneinstellungen können Sie eingrenzen, wer die Abfragesei
 
 Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie hier zur Auswahl haben. Über Abfrageseiten kann man keine Zeilen in der Tabelle hinzufügen oder löschen.
 
-Allerdings können die Nutzer der App nach einer erfolgreichen Datenabfrage [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) in der angezeigten Trefferliste betätigen, um bestimmte **Aktionen auszuführen**.
+Allerdings können die Nutzer der App nach einer erfolgreichen Datenabfrage [Schaltflächen]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) in der angezeigten Trefferliste betätigen, um bestimmte **Aktionen auszuführen**.
 
 ![Schaltflächen auf Abfrageseiten ausführen](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
 Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt die schnelle Suche nach relevanten Positionen. Ist eine interessante Stelle dabei, dann reicht ein Klick auf die Schaltfläche in den Suchergebnissen, um sich direkt für die Stelle zu bewerben.
 
-{{< warning  type="warning" headline="Achtung bei Schaltflächen"  text="[Schaltflächen](\"https://seatable.io/docs/andere-spalten/die-schaltflaeche/\") können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Abfrageergebnisse berechtigt ist." />}}
+{{< warning  type="warning" headline="Achtung bei Schaltflächen" >}}
+
+[Schaltflächen]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Abfrageergebnisse berechtigt ist.
+
+{{< /warning >}}
 
 ## Weitere hilfreiche Artikel
 

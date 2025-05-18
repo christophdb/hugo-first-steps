@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-karten-plugin'
 
 If you have created a text column with addresses or place names in your table or used the [Geoposition](https://seatable.io/en/docs/andere-spalten/die-geopositions-spalte/) column type, you can use the **Map plugin** to display the locations entered in the column.
 
-To activate the plugin, follow the instructions in the article [Activating a Plugin in a Base](https://seatable.io/en/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+To activate the plugin, follow the instructions in the article [Activating a Plugin in a Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Map plugin functions
 

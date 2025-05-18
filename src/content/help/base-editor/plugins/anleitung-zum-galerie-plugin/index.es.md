@@ -16,7 +16,7 @@ Mientras que las imágenes de la **vista de tabla** se muestran como miniaturas 
 
 ## Para configurar el plug-in de la galería
 
-Para utilizar el **plugin de galería**, primero debe [activarlo](https://seatable.io/es/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) en su Base.
+Para utilizar el **plugin de galería**, primero debe [activarlo]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) en su Base.
 
 A continuación, en la configuración, determine para qué **vista de tabla** desea crear una galería y de qué columna de [imágenes]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) deben proceder las imágenes. En **Título**, introduzca la columna cuyas entradas desea utilizar como título del álbum.
 

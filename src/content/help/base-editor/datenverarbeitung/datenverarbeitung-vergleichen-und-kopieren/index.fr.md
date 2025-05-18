@@ -74,4 +74,4 @@ Les types de colonnes suivants ne peuvent **pas** être copiés à l'aide de l'o
 - [La colonne Créé](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
 - [La colonne Dernier intervenant](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [La colonne Récent](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/)
+- [Bouton]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

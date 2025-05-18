@@ -16,7 +16,7 @@ While the images in the **table view** are displayed as thumbnails and can only 
 
 ## To set up the gallery plugin
 
-In order to use the **Gallery plugin**, you must first [enable](https://seatable.io/en/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) it in your Base.
+In order to use the **Gallery plugin**, you must first [enable]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) it in your Base.
 
 Then, in the settings, specify for which **table view** you want to create a gallery and from which [image column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) the images should come. For **Title**, specify the column whose entries you want to use as album title.
 

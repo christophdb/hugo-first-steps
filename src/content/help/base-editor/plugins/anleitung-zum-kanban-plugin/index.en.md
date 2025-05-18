@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-kanban-plugin'
 
 A **Kanban board** can be useful to represent dynamic processes with different phases. In this respect, it allows you to visualize **workflows** and **project progress**, for example. This is particularly helpful for project planning, product development or task distribution **in the team**.
 
-Good that SeaTable offers you all these possibilities with the **Kanban plugin**. You can learn how to activate the plugin in a Base [here](https://seatable.io/en/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+Good that SeaTable offers you all these possibilities with the **Kanban plugin**. You can learn how to activate the plugin in a Base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Structure of the Kanban board
 

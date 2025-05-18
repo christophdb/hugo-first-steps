@@ -96,6 +96,10 @@ Die Daten, die aus der Tabellenseite exportiert werden, sind unabhängig von der
 
 Bei den [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) können Sie genauestens einstellen, wer die Tabelle sehen und bearbeiten darf.
 
-{{< warning  type="warning" headline="Achtung bei Schaltflächen"  text="[Schaltflächen](\"https://seatable.io/docs/andere-spalten/die-schaltflaeche/\") können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Seite berechtigt ist." />}}
+{{< warning  type="warning" headline="Achtung bei Schaltflächen" >}}
+
+[Schaltflächen]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
+
+{{< /warning >}}
 
 ![Festlegung der Seitenberechtigungen](images/page-permissions.png)

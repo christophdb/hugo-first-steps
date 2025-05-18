@@ -12,7 +12,7 @@ Mithilfe einer **Schaltfläche** in Ihren Zeilen können Sie E-Mails an einen od
 
 ## Eine E-Mail per Schaltfläche verschicken
 
-Als Erstes wählen Sie beim Erstellen der [Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) die Aktion **E-Mail versenden** aus.
+Als Erstes wählen Sie beim Erstellen der [Schaltfläche]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) die Aktion **E-Mail versenden** aus.
 
 ![Auswahl der Aktion "E-Mail versenden"](images/send-email-action.png)
 
@@ -40,7 +40,7 @@ Optional können Sie der E-Mail noch einen **Anhang** hinzufügen. Beachten Sie 
 
 ## Bedingte Ausführung mehrerer Schaltflächen-Aktionen
 
-Die [Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) ist ein besonderer Spaltentyp, mit dem Sie **mehrere Aktionen gleichzeitig** per Knopfdruck ausführen können. Die **zeitliche Abfolge** von Aktionen können Sie durch die bedingte Ausführung einer nachfolgenden Aktion festlegen. So ist es möglich, **Aktionen hintereinanderzuschalten**.
+Die [Schaltfläche]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) ist ein besonderer Spaltentyp, mit dem Sie **mehrere Aktionen gleichzeitig** per Knopfdruck ausführen können. Die **zeitliche Abfolge** von Aktionen können Sie durch die bedingte Ausführung einer nachfolgenden Aktion festlegen. So ist es möglich, **Aktionen hintereinanderzuschalten**.
 
 Zum Beispiel kann es vorkommen, dass Sie mit einem Klick ein [PDF-Dokument in einer Datei-Spalte speichern](https://seatable.io/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) und die Datei im Anschluss an eine E-Mail anhängen möchten. Dabei kann das Problem auftreten, dass die E-Mail schon versandt wird, bevor das PDF für den Anhang erstellt worden ist.
 

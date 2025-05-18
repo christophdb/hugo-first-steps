@@ -60,7 +60,7 @@ Dedique alguns minutos para se familiarizar com a gestão de ficheiros do SeaTab
 
 ## Artigo de ajuda com mais informações
 
-- [Instruções para o plugin de conceção de páginas](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
+- [Instruções para o plugin de conceção de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 - [Guardar um documento PDF por botão numa coluna](https://seatable.io/pt/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/)
 - [A coluna do ficheiro](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/)
 - [A gestão de ficheiros de uma base](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/)

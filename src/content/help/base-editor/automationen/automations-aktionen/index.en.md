@@ -157,7 +157,7 @@ The article [Adding Entries to Other Tables via Automation](https://seatable.io/
 
 ## Automation action: Convert page to PDF
 
-If you select "Convert page to PDF" as an automated action, a PDF document is created from the data set and saved in a [file column](https://seatable.io/en/docs/dateien-und-bilder/die-datei-spalte/) when the **trigger is triggered**. To do this, select a **template** that you have previously created in the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/). You can also define the **file name** in the automation rule settings.
+If you select "Convert page to PDF" as an automated action, a PDF document is created from the data set and saved in a [file column]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}). You can also define the **file name** in the automation rule settings.
 
 ![Create PDF via automation](images/PDF-per-Automation-erstellen.png)
 

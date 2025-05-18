@@ -24,7 +24,7 @@ url: '/ru/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 
 ## Выполнение сценария с помощью кнопки
 
-1. Создайте столбец типа [Button](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/).
+1. Создайте столбец типа [Button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
 2. Решите, какую **надпись** и какого **цвета** должна иметь кнопка.
 3. Используйте действие **Выполнить сценарий**.
 4. Выберите свой **сценарий** и сохраните.

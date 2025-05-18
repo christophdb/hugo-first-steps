@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/tabellenfelder'
 ---
 
-**Tabellenfelder** enthalten die Einträge aus einer Spalte Ihrer Tabelle. Daher listet das [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) bei den Tabellenfeldern **alle Spalten** der Tabelle auf, aus denen Sie Daten in die Seite einbauen können.
+**Tabellenfelder** enthalten die Einträge aus einer Spalte Ihrer Tabelle. Daher listet das [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) bei den Tabellenfeldern **alle Spalten** der Tabelle auf, aus denen Sie Daten in die Seite einbauen können.
 
 Da es an der Anzahl und am Typ der Spalten liegt, welche Tabellenfelder Sie zur Auswahl haben, verfügen Sie je nach Tabelle über unterschiedliche Möglichkeiten. Der Inhalt der auf einer Seite eingefügten Tabellenfelder hängt von den **Einträgen** in der Tabelle ab und ändert sich **automatisch** je nach Zeile.
 
@@ -26,7 +26,7 @@ Die **Spalten** der Tabelle "Budget Book" sollen im Seitendesign-Plugin als **Ta
 
 ![Tabellenbeispiel Budget Book.](images/Tabelle-Budget-Book.png)
 
-Erstellen Sie im Plugin eine **neue Seite** oder öffnen Sie ein **gespeichertes Seitendesign**. Lesen Sie in der [Anleitung zum Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) nach, wie das geht. Die Spalten der Tabelle stehen Ihnen nun bei den **Seitenelementen** als Tabellenfelder zur Verfügung.
+Erstellen Sie im Plugin eine **neue Seite** oder öffnen Sie ein **gespeichertes Seitendesign**. Lesen Sie in der [Anleitung zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) nach, wie das geht. Die Spalten der Tabelle stehen Ihnen nun bei den **Seitenelementen** als Tabellenfelder zur Verfügung.
 
 ![Tabellenfelder der Tabelle Budget Book.](images/Tabellenfelder-Burdget-Book.png)
 

@@ -12,7 +12,7 @@ El **texto estático** le ofrece la posibilidad de incluir en una página **elem
 
 A diferencia de los textos que proceden de las columnas de texto de la tabla, un texto estático no cambia y sigue siendo el mismo independientemente de las entradas de la tabla. Sin embargo, deberá **insertar** y **formatear** el **texto correspondiente manualmente**.
 
-Lea el artículo [Guía](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) del **plugin de diseño de** páginas [para](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) descubrir qué otros elementos y funciones le reserva el **plugin de diseño de páginas**.
+Lea el artículo [Guía]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) descubrir qué otros elementos y funciones le reserva el **plugin de diseño de páginas**.
 
 ## Cambiar la posición y el tamaño del elemento de texto
 

@@ -74,4 +74,4 @@ url: '/ru/help/datenverarbeitung-vergleichen-und-kopieren'
 - [Колонка "Создано](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
 - [Колонка "Последний редактор](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Последняя отредактированная колонка](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Кнопка](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/)
+- [Кнопка]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

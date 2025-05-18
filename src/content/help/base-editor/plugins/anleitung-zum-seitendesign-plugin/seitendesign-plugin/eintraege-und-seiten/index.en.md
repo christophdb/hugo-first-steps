@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/eintraege-und-seiten'
 ---
 
-In the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), it is important to understand the difference between entries and pages. While additional **pages** extend a document independently from the contents of the table, **entries** map different records from the rows of the table.
+In the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), it is important to understand the difference between entries and pages. While additional **pages** extend a document independently from the contents of the table, **entries** map different records from the rows of the table.
 
 ## Entries
 

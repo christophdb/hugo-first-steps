@@ -10,7 +10,7 @@ url: '/ru/help/anleitung-zum-karten-plugin'
 
 Если вы создали в таблице текстовую колонку с адресами или географическими названиями или использовали тип колонки [Geoposition](https://seatable.io/ru/docs/andere-spalten/die-geopositions-spalte/), вы можете использовать **Map Plugin** для отображения мест, введенных в колонку.
 
-Чтобы активировать плагин, следуйте инструкциям в статье [Активация плагина в базе](https://seatable.io/ru/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+Чтобы активировать плагин, следуйте инструкциям в статье [Активация плагина в базе]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Функции подключаемого модуля карты
 

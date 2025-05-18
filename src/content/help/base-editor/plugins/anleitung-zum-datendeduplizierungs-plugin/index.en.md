@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-datendeduplizierungs-plugin'
 
 With the data deduplication plugin you can check your tables for **duplicate entries** and have them **deleted** automatically with just one click.
 
-Read the article [Activating a Plugin in a Base](https://seatable.io/en/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) to learn how to activate the plugin and add it to your toolbar.
+Read the article [Activating a Plugin in a Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) to learn how to activate the plugin and add it to your toolbar.
 
 ## Check a table for duplicate entries
 

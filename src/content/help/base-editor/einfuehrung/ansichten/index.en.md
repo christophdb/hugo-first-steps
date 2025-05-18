@@ -42,4 +42,4 @@ You activate the plugins via the Plugin Manager, which you open via the {{< seat
 
 With the [calendar plug]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) in you manage images quickly and easily in your Base.
 
-Display addresses and position data on a map using the [Map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) and visualize your tasks and project phases with the [Kanban plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/). The [Page Design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) helps you quickly turn your records into laid out documents.
+Display addresses and position data on a map using the [Map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) and visualize your tasks and project phases with the [Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) helps you quickly turn your records into laid out documents.

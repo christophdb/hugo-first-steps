@@ -10,7 +10,7 @@ url: '/pt/ajuda/anleitung-zum-seitendesign-plugin'
 
 O **plug-in de design da página** oferece-lhe uma vasta gama de opções para visualizar a informação numa tabela sob a forma de cartas de apresentação personalizadas, cartões de visita e boletins informativos, entre outras coisas. Pode utilizar **elementos estáticos** para criar layouts de página que são complementados por **elementos dinâmicos** e **campos de tabela**.
 
-Leia o artigo [Activando um plugin numa base](https://seatable.io/pt/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) para saber como activar o plugin de desenho de página e adicioná-lo à sua barra de ferramentas.
+Leia o artigo [Activando um plugin numa base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) para saber como activar o plugin de desenho de página e adicioná-lo à sua barra de ferramentas.
 
 ## Acrescentar uma nova página
 
@@ -108,4 +108,38 @@ Também tem dois **elementos de visualização** à sua escolha. O elemento **Al
 
 ## Cabeçalho e rodapé
 
-Além disso, pode adicionar [cabeçalhos e rodapés](https://seatable.io/pt/docs/seitendesign-plugin/kopf-und-fusszeile/) às suas páginas. Nestas áreas de página pode incorporar elementos estáticos e dinâmicos, tais como o **número de página**.
+Pode inserir **cabeçalhos e rodapés** como áreas especiais numa página e preenchê-los **com vários elementos**, decidindo por si próprio o conteúdo e a disposição dos elementos. Com cabeçalhos e rodapés tem a opção de inserir **números de página** e bloquear vários elementos ao mesmo tempo.
+
+{{< warning  headline="Aplica-se a todas as páginas"  text="Se utilizar um cabeçalho ou rodapé, este será exibido em **todas as páginas de um documento**." />}}
+
+### Opções de configuração
+
+Só se pode variar a **altura dos** cabeçalhos e rodapés, uma vez que estes se estendem sempre por **toda a largura da página**. No campo **Altura**, introduzir o valor numérico desejado ou alterá-lo utilizando as **teclas de setas** ou rolar com a **roda do rato**.
+
+![Ajuste da altura do cabeçalho e do rodapé.](images/Einstellungen-Kopfzeile-3.gif)
+
+Em alternativa, pode alterar a altura directamente na página, **clicando com o botão direito** no cabeçalho ou no rodapé e **arrastando** o pequeno **quadrado** no canto inferior direito da moldura.
+
+### Elementos de cabeçalho e rodapé
+
+Pode inserir os seguintes elementos em cabeçalhos e rodapés:
+
+### Elementos estáticos:
+
+- [Texto estático](https://seatable.io/pt/docs/seitendesign-plugin/statischer-text/)
+- [Imagem estática](https://seatable.io/pt/docs/seitendesign-plugin/statisches-bild/)
+
+### Elementos dinâmicos:
+
+- [Data actual](https://seatable.io/pt/docs/seitendesign-plugin/dynamische-elemente/)
+- Número de página
+- [Nome do modelo](https://seatable.io/pt/docs/seitendesign-plugin/dynamische-elemente/)
+- [Utilizador actual](https://seatable.io/pt/docs/seitendesign-plugin/dynamische-elemente/)
+
+{{< warning  headline="Informação importante"  text="O **número de página** é o único elemento que se pode inserir **exclusivamente em cabeçalhos e rodapés**. Caso contrário, também pode utilizar elementos estáticos e dinâmicos no espaço de trabalho normal da página." />}}
+
+### Bloquear e Apagar
+
+Pode **bloquear** ou **apagar** cabeçalhos e rodapés, seleccionando a respectiva opção. Se bloquear um cabeçalho ou rodapé, **todos os elementos** que tenha inserido anteriormente nesta área são também bloqueados. O mesmo se aplica à eliminação, pela qual também se eliminam todos os elementos de um cabeçalho ou rodapé de página.
+
+![Bloqueio e eliminação com o plug-in de página](images/sperren-und-loeschen-1.png)

@@ -12,7 +12,7 @@ Un **bouton** dans vos lignes vous permet d'envoyer un e-mail à un ou plusieurs
 
 ## Envoyer un e-mail via un bouton
 
-Tout d'abord, lorsque vous créez le [bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/), sélectionnez l'action **Envoyer un e-mail**.
+Tout d'abord, lorsque vous créez le [bouton]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}), sélectionnez l'action **Envoyer un e-mail**.
 
 ![Sélection de l'action "Envoyer un e-mail](images/send-email-action.png)
 
@@ -40,7 +40,7 @@ En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez t
 
 ## Exécution conditionnelle de plusieurs actions de bouton
 
-Le [bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) est un type de colonne particulier qui vous permet d'exécuter **plusieurs actions simultanément** en appuyant sur un bouton. Vous pouvez définir l'**ordre chronologique** des actions en conditionnant l'exécution d'une action suivante. Il est ainsi possible d'**enchaîner des actions les unes après les autres**.
+Le [bouton]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) est un type de colonne particulier qui vous permet d'exécuter **plusieurs actions simultanément** en appuyant sur un bouton. Vous pouvez définir l'**ordre chronologique** des actions en conditionnant l'exécution d'une action suivante. Il est ainsi possible d'**enchaîner des actions les unes après les autres**.
 
 Par exemple, il peut arriver que vous [enregistriez un document PDF dans une colonne de fichier](https://seatable.io/fr/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) en un seul clic et que vous souhaitiez ensuite joindre le fichier à un e-mail. Il se peut alors que le courriel soit déjà envoyé avant que le PDF ne soit créé pour la pièce jointe.
 

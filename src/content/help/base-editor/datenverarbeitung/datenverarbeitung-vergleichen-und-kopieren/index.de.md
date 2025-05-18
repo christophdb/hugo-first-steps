@@ -66,4 +66,4 @@ Folgende Spaltentypen können Sie mithilfe der Operation _Vergleichen und kopier
 - [Die Spalte Erstellt](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
 - [Die Spalte Letzter Bearbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Die Spalte Zuletzt bearbeitet](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/)
+- [Schaltfläche]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

@@ -10,7 +10,7 @@ url: '/fr/aide/anleitung-zum-karten-plugin'
 
 Si vous avez créé une colonne de texte dans votre tableau avec des adresses ou des noms de lieux ou si vous avez utilisé le type de colonne [Géoposition](https://seatable.io/fr/docs/andere-spalten/die-geopositions-spalte/), vous pouvez utiliser le **plugin de carte** pour représenter les lieux saisis dans la colonne.
 
-Pour activer le plugin, suivez les instructions de l'article [Activer un plugin dans une base](https://seatable.io/fr/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+Pour activer le plugin, suivez les instructions de l'article [Activer un plugin dans une base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Fonctions du plug-in de carte
 

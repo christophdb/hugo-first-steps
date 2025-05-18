@@ -10,14 +10,17 @@ url: '/de/hilfe/anleitung-zum-seitendesign-plugin'
 
 Das **Seitendesign-Plugin** bietet Ihnen eine Vielzahl an Möglichkeiten, die Informationen einer Tabelle unter anderem in Form von personalisierten Anschreiben, Visitenkarten und Rundbriefen zu visualisieren. Sie können mithilfe von **statischen Elementen** Seiten-Layouts erstellen, die durch **dynamische Elemente** und **Tabellenfelder** ergänzt werden.
 
-Lesen Sie im Artikel [Aktivieren eines Plugins in einer Base](https://seatable.io/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/), wie Sie das Seitendesign-Plugin aktivieren und Ihrer Toolbar hinzufügen können.
+Lesen Sie im Artikel [Aktivieren eines Plugins in einer Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), wie Sie das Seitendesign-Plugin aktivieren und Ihrer Toolbar hinzufügen können.
 
 ## Eine neue Seite hinzufügen
 
 1. Öffnen Sie das **Seitendesign-Plugin**.
-   ![Öffnen des Seitendesign-Plugins in Ihrer Base](images/open-page-design-plugin.png)3. Klicken Sie auf die **neue Seite mit dem Plus-Symbol**.
-   ![Klicken Sie auf das + Symbol](images/add-new-page-to-page-design-plugin.png)5. Wählen Sie die Option **Leere Seite erstellen** aus.
-   ![Wählen der Option Leere Seite erstellen](images/create-blank-page.png)7. Hier können Sie folgende **Einstellungen** vornehmen: - Wählen Sie die **Tabelle**, aus der Sie Daten verwenden möchten. - Entscheiden Sie sich für eine **Papiergröße**. - Legen Sie für das Seiten-Layout **Hochformat** oder **Querformat** fest.
+   ![Öffnen des Seitendesign-Plugins in Ihrer Base](images/open-page-design-plugin.png)
+1. Klicken Sie auf die **neue Seite mit dem Plus-Symbol**.
+   ![Klicken Sie auf das + Symbol](images/add-new-page-to-page-design-plugin.png)
+1. Wählen Sie die Option **Leere Seite erstellen** aus.
+   ![Wählen der Option Leere Seite erstellen](images/create-blank-page.png)
+1. Hier können Sie folgende **Einstellungen** vornehmen: - Wählen Sie die **Tabelle**, aus der Sie Daten verwenden möchten. - Entscheiden Sie sich für eine **Papiergröße**. - Legen Sie für das Seiten-Layout **Hochformat** oder **Querformat** fest.
    ![Einstellungen einer Seite im Seitendesign-Plugin](images/settings-page-design-plugin.png)
 
 {{< warning  headline="Zweite Option"  text="Als zweite Möglichkeit haben Sie **Aus Datei importieren**. Dazu müssen Sie allerdings vorher ein bestehendes Seitendesign als JSON-Datei exportiert haben." />}}
@@ -26,7 +29,7 @@ Lesen Sie im Artikel [Aktivieren eines Plugins in einer Base](https://seatable.i
 
 Wenn Sie eine neue Seite angelegt haben, können Sie diese über die Schaltfläche {{< seatable-icon icon="dtable-icon-confirm" >}} **Fertig** als **Vorlage speichern**. Diese können Sie wieder bearbeiten, nachdem Sie an der gleichen Stelle auf die Schaltfläche {{< seatable-icon icon="dtable-icon-rename" >}} **Bearbeiten** geklickt haben.
 
-![Eine Seite im Seitendesign-Plugin bearbeiten und die Änderungen speichern](images/page-design-plugin-options-edit-page-1.gif)
+![Eine Seite im Seitendesign-Plugin bearbeiten und die Änderungen speichern](images/page-design-plugin-options-edit-page.gif)
 
 {{< warning  type="warning" headline="Achtung"  text="Ihre Änderungen werden **nicht** automatisch gespeichert. Wenn Sie im Bearbeitungsmodus auf **Abbrechen** klicken, gehen die Änderungen seit der letzten Speicherung verloren." />}}
 
@@ -68,7 +71,7 @@ Die **Seitenelemente** bieten Ihnen die Möglichkeit, **standardisierte Layouts*
 
 Sie aktivieren ein Element, indem Sie das jeweilige Feld **per Drag-and-Drop** in die Seite einbetten. Danach können Sie das Element ebenso auf der Seite verschieben, indem Sie es mit der Maus anklicken und ziehen.
 
-![Statisches Bild aktivieren](images/Statisches-Bild-aktivieren-1.gif)
+![Statisches Bild aktivieren](images/Statisches-Bild-aktivieren.gif)
 
 ## Auswählen und Einstellen der Elemente
 
@@ -84,7 +87,7 @@ Es gibt [statische Bilder](https://seatable.io/docs/seitendesign-plugin/statisch
 
 ## Tabellenfelder
 
-Als [Tabellenfelder](https://seatable.io/docs/seitendesign-plugin/tabellenfelder/) listet das Seitendesign-Plugin **alle Spalten der Tabelle** auf, aus denen Sie Daten in die Seite einbauen können. Der Inhalt der Felder hängt von den Zeilen der Tabelle ab und ändert sich je nach Eintrag.
+Als Tabellenfelder listet das Seitendesign-Plugin **alle Spalten der Tabelle** auf, aus denen Sie Daten in die Seite einbauen können. Der Inhalt der Felder hängt von den Zeilen der Tabelle ab und ändert sich je nach Eintrag.
 
 ## Ansichtselemente
 
@@ -94,4 +97,38 @@ Außerdem haben Sie zwei **Ansichtselemente** zur Auswahl. Das Element **Alle Ei
 
 ## Kopf- und Fußzeile
 
-Darüber hinaus können Sie Ihren Seiten [Kopf- und Fußzeilen](https://seatable.io/docs/seitendesign-plugin/kopf-und-fusszeile/) hinzufügen. In diese Seitenbereiche können Sie statische und dynamische Elemente wie zum Beispiel die **Seitenzahl** einbetten.
+**Kopf- und Fußzeilen** können Sie als spezielle Bereiche in eine Seite einfügen und **mit mehreren Elementen** füllen, wobei Sie über Inhalt und Anordnung der Elemente selbst entscheiden. Mit Kopf- und Fußzeilen haben Sie die Möglichkeit, **Seitenzahlen** einzufügen und mehrere Elemente gleichzeitig zu sperren.
+
+{{< warning  type="warning" headline="Gilt für alle Seiten"  text="Wenn Sie eine Kopf- oder Fußzeile einsetzen, wird diese **auf allen Seiten eines Dokuments** angezeigt." />}}
+
+### Einstellungsmöglichkeiten
+
+Sie können nur die **Höhe** von Kopf- und Fußzeilen variieren, da diese sich immer über die **gesamte Seitenbreite** erstrecken. Im Feld **Höhe** geben Sie den gewünschten Zahlenwert ein oder verändern ihn über die **Pfeiltasten** oder scrollen mit dem **Mausrad**.
+
+![Einstellung der Höhe bei der Kopf- und Fußzeile.](images/Einstellungen-Kopfzeile.gif)
+
+Alternativ können Sie die Höhe auch direkt auf der Seite verändern, indem Sie mit der **rechten Maustaste** auf die Kopf- oder Fußzeile klicken und am kleinen **Quadrat** an der rechten unteren Ecke des Rahmens **ziehen**.
+
+### Kopf- und Fußzeilenelemente
+
+Sie können folgende Elemente in Kopf- und Fußzeilen einfügen:
+
+### Statische Elemente:
+
+- [Statischer Text](https://seatable.io/docs/seitendesign-plugin/statischer-text/)
+- [Statisches Bild](https://seatable.io/docs/seitendesign-plugin/statisches-bild/)
+
+### Dynamische Elemente:
+
+- [Aktuelles Datum](https://seatable.io/docs/seitendesign-plugin/dynamische-elemente/)
+- Seitenzahl
+- [Vorlagenname](https://seatable.io/docs/seitendesign-plugin/dynamische-elemente/)
+- [Aktueller Benutzer](https://seatable.io/docs/seitendesign-plugin/dynamische-elemente/)
+
+{{< warning  type="warning" headline="Wichtige Info"  text="Die **Seitenzahl** ist das einzige Element, das Sie **ausschließlich in Kopf- und Fußzeilen** einfügen können. Ansonsten können Sie statische und dynamische Elemente auch im normalen Arbeitsbereich der Seite verwenden." />}}
+
+### Sperren und Löschen
+
+Sie können Kopf- und Fußzeilen **sperren** oder **löschen**, indem Sie die jeweilige Option anwählen. Wenn Sie eine Kopf- oder Fußzeile sperren, sind auch **alle Elemente** gesperrt, die Sie zuvor in diesen Bereich eingefügt haben. Das Gleiche gilt für das Löschen, wodurch Sie alle Elemente in einer Kopf- oder Fußzeile mitlöschen.
+
+![Sperren und Löschen beim Seitenplugin](images/sperren-und-loeschen.png)

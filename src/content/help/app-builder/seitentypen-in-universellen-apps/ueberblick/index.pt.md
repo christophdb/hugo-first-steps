@@ -90,7 +90,7 @@ Este tipo de página, que funciona de forma semelhante à [aplicação Data Quer
 
 ## Tipo de página: Registo de dados único
 
-Este tipo de página permite-lhe conceber uma página com elementos estáticos, campos de tabela dinâmicos, cores, molduras, etc., a fim de apresentar visualmente os dados armazenados numa linha. Este tipo de página é, portanto, semelhante ao [plugin de conceção de páginas](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) que já conhece do Base.
+Este tipo de página permite-lhe conceber uma página com elementos estáticos, campos de tabela dinâmicos, cores, molduras, etc., a fim de apresentar visualmente os dados armazenados numa linha. Este tipo de página é, portanto, semelhante ao [plugin de conceção de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que já conhece do Base.
 
 Os utilizadores da aplicação podem navegar, pesquisar ou editar os registos de dados individuais nesta página. Este tipo de página é, por conseguinte, adequado para apresentar os dados de uma base de dados de empregados como **perfis pessoais**, por exemplo.
 

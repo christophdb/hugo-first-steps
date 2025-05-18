@@ -75,7 +75,7 @@ Mithilfe des Seitendesign-Plugins können Sie **Dokumente** wie Serienbriefe, Vi
 
 ![](images/Pagedesign.png)
 
-[Mehr zum Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
+[Mehr zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
 Diese Artikel könnten für Sie auch interessant sein:
 

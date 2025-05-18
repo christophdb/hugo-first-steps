@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/tabellenfelder'
 ---
 
-**Table fields** contain the entries from one column of your table. Therefore, for the table fields, the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) lists **all the columns of** the table from which you can include data in the page.
+**Table fields** contain the entries from one column of your table. Therefore, for the table fields, the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) lists **all the columns of** the table from which you can include data in the page.
 
 Since it is up to the number and type of columns which table fields you have to choose from, you have different options depending on the table. The content of the table fields inserted on a page depends on the **entries** in the table and changes **automatically** depending on row.
 
@@ -27,7 +27,7 @@ The **columns of** the "Budget Book" table should be displayed as **table fields
 
 ![Table example Budget Book.](images/Tabelle-Budget-Book.png)
 
-Create a **new page** in the plugin or open a **saved page design**. Read the [instructions for the page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) to find out how to do this. The columns of the table are now available as table fields in the **page elements**.
+Create a **new page** in the plugin or open a **saved page design**. Read the [instructions for the page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) to find out how to do this. The columns of the table are now available as table fields in the **page elements**.
 
 ![Table fields of the Budget Book table.](images/Tabellenfelder-Burdget-Book.png)
 

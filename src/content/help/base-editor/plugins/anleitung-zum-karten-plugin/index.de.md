@@ -10,7 +10,7 @@ url: '/de/hilfe/anleitung-zum-karten-plugin'
 
 Wenn Sie in Ihrer Tabelle eine Textspalte mit Adressen bzw. Ortsnamen erstellt oder den Spaltentyp [Geoposition](https://seatable.io/docs/andere-spalten/die-geopositions-spalte/) verwendet haben, können Sie mit dem **Karten-Plugin** die in der Spalte eingetragenen Standorte darstellen.
 
-Um das Plugin zu aktivieren, folgen Sie der Anleitung im Artikel [Aktivieren eines Plugins in einer Base](https://seatable.io/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+Um das Plugin zu aktivieren, folgen Sie der Anleitung im Artikel [Aktivieren eines Plugins in einer Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Funktionen des Karten-Plugins
 

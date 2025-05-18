@@ -46,7 +46,7 @@ Os colaboradores recebem então uma notificação correspondente no Base, à qua
 
 ## Selecionar empregados como destinatários de notificações automáticas
 
-Ao enviar notificações através de [automatismos](https://seatable.io/pt/docs/arbeiten-mit-automationen/anlegen-einer-automation/) e [botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/), é possível selecionar todas as pessoas introduzidas na coluna do empregado como destinatários da mensagem.
+Ao enviar notificações através de [automatismos]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}), é possível selecionar todas as pessoas introduzidas na coluna do empregado como destinatários da mensagem.
 
 ![Coluna do colaborador para notificações automáticas](images/Collaborator-column-for-automated-notifications.gif)
 

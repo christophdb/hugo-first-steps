@@ -96,6 +96,10 @@ Los datos que se exportan desde la página de tabla son independientes de la **v
 
 En las [autorizaciones de la página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), puede establecer exactamente quién tiene permiso para ver y editar la tabla.
 
-{{< warning  headline="Atención con los botones"  text="[Los botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar la página." />}}
+{{< warning  headline="Atención con los botones" >}}
+
+[Los botones]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar la página.
+
+{{< /warning >}}
 
 ![Determinar los permisos de la página](images/page-permissions.png)

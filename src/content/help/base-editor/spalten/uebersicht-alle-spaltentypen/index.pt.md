@@ -162,7 +162,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-button" >}} **Botão**
 
 Com os botões, é possível **automatizar** o processamento de dados ou a execução de determinadas acções. No entanto, é importante ter em atenção que os botões têm sempre de ser accionados **manualmente**. Com a ajuda do botão que pode ser adicionado às linhas desta coluna, o usuário aciona determinadas ações definidas antecipadamente. Por esse motivo, esse tipo de coluna é particularmente adequado para automatizar etapas de processo.
 
-Para mais informações sobre o botão e as acções que podem ser desencadeadas em colunas deste tipo, consulte este [artigo](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/).
+Para mais informações sobre o botão e as acções que podem ser desencadeadas em colunas deste tipo, consulte este [artigo]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
 
 ### Geoposição
 

@@ -10,7 +10,7 @@ url: '/pt/ajuda/anleitung-zum-timeline-plugin'
 
 O **plugin da linha temporal** permite exibir diferentes intervalos de tempo sob a forma de uma **linha temporal**. Isto é muito útil, por exemplo, se quiser ver se as nomeações **se sobrepõem**. Assim, pode utilizar o plugin da linha do tempo para planeamento de férias e de projectos ou para reservar (reuniões) salas, entre outras coisas.
 
-Leia o artigo [Activando um Plugin numa Base](https://seatable.io/pt/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/) para saber como activar o Plugin da Linha do Tempo.
+Leia o artigo [Activando um Plugin numa Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) para saber como activar o Plugin da Linha do Tempo.
 
 ## Função do plug-in da linha do tempo
 

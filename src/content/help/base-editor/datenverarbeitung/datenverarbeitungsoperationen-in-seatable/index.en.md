@@ -43,7 +43,7 @@ The two types of data processing operations each have different **requirements**
 
 ## Execution notes
 
-Data processing operations can currently be performed [manually]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) or [via automation](https://seatable.io/en/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). The development team is working to ensure that data processing operations can also be executed using [buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) in the future.
+Data processing operations can currently be performed [manually]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) or [via automation]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) in the future.
 
 Each time the data processing operation is executed, the **results** are written to the **results column** regardless. If you do not want to overwrite any data, you should [create]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) for the results in advance.
 

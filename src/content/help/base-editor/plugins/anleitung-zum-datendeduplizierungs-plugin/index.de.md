@@ -1,16 +1,16 @@
 ---
-title: "Anleitung zum Datendeduplizierungs-Plugin"
+title: 'Anleitung zum Datendeduplizierungs-Plugin'
 date: 2023-04-27
-lastmod: "2023-04-27"
-categories: 
-  - "plugins"
-author: "nsc2"
-url: "/de/hilfe/anleitung-zum-datendeduplizierungs-plugin"
+lastmod: '2023-04-27'
+categories:
+    - 'plugins'
+author: 'nsc2'
+url: '/de/hilfe/anleitung-zum-datendeduplizierungs-plugin'
 ---
 
 Mit dem Datendeduplizierungs-Plugin können Sie Ihre Tabellen auf **doppelte Einträge** überprüfen und diese automatisch mit nur einem Klick **löschen** lassen.
 
-Lesen Sie im Artikel [Aktivieren eines Plugins in einer Base](https://seatable.io/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/), wie Sie das Plugin aktivieren und Ihrer Toolbar hinzufügen können.
+Lesen Sie im Artikel [Aktivieren eines Plugins in einer Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), wie Sie das Plugin aktivieren und Ihrer Toolbar hinzufügen können.
 
 ## Eine Tabelle auf doppelte Einträge überprüfen
 

@@ -74,4 +74,4 @@ The following column types **cannot** be copied using the _Compare and copy_ ope
 - [The Created column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
 - [The Last editor column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [The Last Edited column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Button](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/)
+- [Button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

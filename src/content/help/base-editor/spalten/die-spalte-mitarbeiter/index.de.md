@@ -46,7 +46,7 @@ Sie können einen oder mehrere Mitarbeiter als [Standardwert]({{< relref "help/b
 
 ## Die Mitarbeiter als Empfänger von automatisierten Benachrichtigungen auswählen
 
-Beim Senden von Benachrichtigungen über [Automationen](https://seatable.io/docs/arbeiten-mit-automationen/anlegen-einer-automation/) und [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) können Sie alle in der Mitarbeiter-Spalte eingetragenen Personen als Empfänger der Nachricht auswählen.
+Beim Senden von Benachrichtigungen über [Automationen]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) können Sie alle in der Mitarbeiter-Spalte eingetragenen Personen als Empfänger der Nachricht auswählen.
 
 ![Collaborator column for automated notifications](images/Collaborator-column-for-automated-notifications.gif)
 

@@ -10,7 +10,7 @@ url: '/de/hilfe/anleitung-zum-timeline-plugin'
 
 Das **Timeline-Plugin** ermöglicht Ihnen die Darstellung verschiedener Zeitspannen in Form eines **Zeitstrahls**. Dies ist beispielsweise sehr nützlich, wenn Sie sehen möchten, ob sich Termine **überschneiden**. Dementsprechend können Sie das Timeline-Plugin unter anderem für die Urlaubs- und Projektplanung oder die Buchung von (Meeting-)Räumen einsetzen.
 
-Lesen Sie den Artikel [Aktivieren eines Plugins in einer Base](https://seatable.io/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/), um herauszufinden, wie Sie das Timeline-Plugin aktivieren können.
+Lesen Sie den Artikel [Aktivieren eines Plugins in einer Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), um herauszufinden, wie Sie das Timeline-Plugin aktivieren können.
 
 ## Funktion des Timeline-Plugins
 

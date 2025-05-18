@@ -96,6 +96,10 @@ Os dados que são exportados da página de tabela são independentes da **vista*
 
 Nas [autorizações de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), pode definir exatamente quem tem permissão para ver e editar a tabela.
 
-{{< warning  headline="Atenção com os botões"  text="[Os botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) podem ser **sempre** premidos, independentemente das autorizações da página. Isto significa que todos os utilizadores da aplicação podem fazer determinadas alterações aos registos de dados que definiu previamente, mesmo que as colunas afectadas estejam bloqueadas para eles ou que o utilizador não esteja autorizado a editar a página." />}}
+{{< warning  headline="Atenção com os botões" >}}
+
+[Os botões]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) podem ser **sempre** premidos, independentemente das autorizações da página. Isto significa que todos os utilizadores da aplicação podem fazer determinadas alterações aos registos de dados que definiu previamente, mesmo que as colunas afectadas estejam bloqueadas para eles ou que o utilizador não esteja autorizado a editar a página.
+
+{{< /warning >}}
 
 ![Determinar as permissões da página](images/page-permissions.png)

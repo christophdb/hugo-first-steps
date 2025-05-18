@@ -162,7 +162,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-button" >}} **Schaltfläche**
 
 Mit Schaltflächen können Sie die Bearbeitung von Daten oder die Ausführung bestimmter Aktionen **automatisieren**. Beachten Sie dabei jedoch, dass Sie Schaltflächen stets **manuell** bedienen müssen. Mithilfe des Buttons, den Sie in dieser Spalte Ihren Zeilen hinzufügen können, lösen Sie bestimmte im Vorhinein definierte Aktionen aus. Aus diesem Grund eignet sich dieser Spaltentyp besonders gut für die Automatisierung von Prozessschritten.
 
-Weitere Informationen zur Schaltfläche und den in Spalten dieses Typs auslösbaren Aktionen finden Sie in diesem [Artikel](https://seatable.io/docs/andere-spalten/die-schaltflaeche/).
+Weitere Informationen zur Schaltfläche und den in Spalten dieses Typs auslösbaren Aktionen finden Sie in diesem [Artikel]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
 
 ### Geoposition
 

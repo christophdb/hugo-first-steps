@@ -43,7 +43,7 @@ Cada uno de los dos tipos de operaciones de tratamiento de datos tiene **requisi
 
 ## Notas sobre la ejecución
 
-Actualmente, las operaciones de tratamiento de datos pueden realizarse [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) o [mediante automatización](https://seatable.io/es/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). El equipo de desarrollo está trabajando para que en el futuro las operaciones de tratamiento de datos también puedan realizarse mediante [botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/).
+Actualmente, las operaciones de tratamiento de datos pueden realizarse [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) o [mediante automatización]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
 
 Cada vez que se ejecuta la operación de tratamiento de datos, los **resultados** se escriben en la **columna de resultados** independientemente. Si no desea sobrescribir ningún dato, deberá [crear]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para los resultados.
 

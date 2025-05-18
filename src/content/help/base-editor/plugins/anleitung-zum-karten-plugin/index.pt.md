@@ -10,7 +10,7 @@ url: '/pt/ajuda/anleitung-zum-karten-plugin'
 
 Se criou uma coluna de texto com endereços ou nomes de locais na sua tabela ou utilizou o tipo de coluna [Geoposition](https://seatable.io/pt/docs/andere-spalten/die-geopositions-spalte/), pode utilizar o **Plugin do Mapa** para exibir os locais introduzidos na coluna.
 
-Para activar o plugin, seguir as instruções do artigo [Activando um Plugin numa Base](https://seatable.io/pt/docs/arbeiten-mit-plugins/aktivieren-eines-plugins-in-einer-base/).
+Para activar o plugin, seguir as instruções do artigo [Activando um Plugin numa Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Funções do plug-in do mapa
 

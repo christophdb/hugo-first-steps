@@ -73,7 +73,7 @@ Com a ajuda do plug-in de design de páginas, pode criar o layout de **documento
 
 ![](images/Pagedesign.png)
 
-[Mais informações sobre o plugin de design de páginas](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/)
+[Mais informações sobre o plugin de design de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
 Estes artigos também podem ser interessantes para si:
 

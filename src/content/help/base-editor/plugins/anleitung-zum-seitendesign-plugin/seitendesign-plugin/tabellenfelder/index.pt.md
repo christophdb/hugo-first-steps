@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/tabellenfelder'
 ---
 
-Os **campos da tabela** contêm as entradas de uma coluna na sua tabela. Portanto, o [plugin de desenho da página](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) lista **todas as colunas** da tabela a partir das quais se podem incluir dados na página nos campos da tabela.
+Os **campos da tabela** contêm as entradas de uma coluna na sua tabela. Portanto, o [plugin de desenho da página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) lista **todas as colunas** da tabela a partir das quais se podem incluir dados na página nos campos da tabela.
 
 Uma vez que é até ao número e tipo de colunas que tem de escolher, tem diferentes opções dependendo da tabela. O conteúdo dos campos da tabela inseridos numa página depende das **entradas** na tabela e muda **automaticamente** em função da linha.
 
@@ -27,7 +27,7 @@ As **colunas da** tabela "Livro orçamental" devem ser apresentadas como **campo
 
 ![Quadro exemplo Livro orçamental.](images/Tabelle-Budget-Book.png)
 
-Criar uma **nova página** no plugin ou abrir um **desenho de página guardado**. Leia as [instruções para o plug-in de design da página para](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) saber como fazer isto. As colunas da tabela estão agora disponíveis como campos da tabela nos **elementos da página**.
+Criar uma **nova página** no plugin ou abrir um **desenho de página guardado**. Leia as [instruções para o plug-in de design da página para]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) saber como fazer isto. As colunas da tabela estão agora disponíveis como campos da tabela nos **elementos da página**.
 
 ![Campos da tabela do Livro do Orçamento.](images/Tabellenfelder-Burdget-Book.png)
 
