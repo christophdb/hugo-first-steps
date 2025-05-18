@@ -28,7 +28,7 @@ The entire business process is mapped in SeaTable so that you can concentrate fu
 
 To successfully complete this course, you will need:
 
-1. **SeaTable**: Use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account](https://seatable.io/en/registrierung/).
+1. **SeaTable**: Use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account]({{< relref "pages/registration" >}}).
 2. **Forum**: An [account in our community forum](https://forum.seatable.io/) if you would like to receive a badge after completing the course.
 3. **Mail dispatch**: An [account with Mailtrap](https://mailtrap.io/) to simulate mail dispatch from SeaTable.
 4. **Browser**: We recommend the use of Google Chrome.

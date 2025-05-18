@@ -20,7 +20,7 @@ url: '/ru/help/migration-von-airtable-bases-zu-seatable'
 
 ### 1\. создать базу
 
-Создайте [новую базу](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) в SeaTable. Имя базы SeaTable не обязательно должно совпадать с именем импортируемой базы Airtable. Вы можете выбрать имя произвольно.
+Создайте [новую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}) в SeaTable. Имя базы SeaTable не обязательно должно совпадать с именем импортируемой базы Airtable. Вы можете выбрать имя произвольно.
 
 ### 2\. вставить скрипт
 

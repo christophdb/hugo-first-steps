@@ -39,7 +39,7 @@ Dies alles werden Sie durch den Aufbau einer Base zur Erfassung Ihrer privaten o
 
 Folgende Voraussetzungen sind notwendig, damit Sie diesen Online Kurs absolvieren können:
 
-1. **SeaTable**: Sie können jedes SeaTable System verwenden. Am einfachsten geht es mit einem [kostenlosen SeaTable Cloud Account](https://seatable.io/registrierung/).
+1. **SeaTable**: Sie können jedes SeaTable System verwenden. Am einfachsten geht es mit einem [kostenlosen SeaTable Cloud Account]({{< relref "pages/registration" >}}).
 2. **Forum**: Einen [Account in unserem Community-Forum](https://forum.seatable.io/), wenn Sie nach erfolgreichem Abschluss ein Abzeichen erhalten möchten.
 3. **Browser**: Wir empfehlen Google Chrome.
 4. **Englisch**: Der Kurs ist in mehreren Sprachen verfügbar, das abschließende Quiz, die Screenshots und die verwendeten Beispieldaten sind jedoch auf Englisch.

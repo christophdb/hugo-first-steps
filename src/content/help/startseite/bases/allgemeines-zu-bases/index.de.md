@@ -40,7 +40,7 @@ Im Bereich **Meine Bases** und in jeder **Gruppe**, in der Sie Administrator sin
 
 Bei der Erstellung einer neuen Base haben Sie **drei Optionen**. Mehr dazu erfahren Sie in den jeweiligen Artikeln:
 
-- [Leere Base erstellen](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Leere Base erstellen]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Base aus einer Datei importieren](https://seatable.io/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
 - [Base aus einer Vorlage erstellen](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
 
@@ -52,7 +52,7 @@ An Sie freigegebene Bases können Sie **nicht verwalten**. In den erweiterten Fu
 
 ## Bases umbenennen
 
-Sie können Bases, deren Eigentümer oder Administrator Sie sind, nachträglich **umbenennen**. Bewegen Sie den Mauszeiger auf den Namen der umzubenennenden Base und klicken Sie dann auf das **Stift-Icon** {{< seatable-icon icon="dtable-icon-rename" >}}. Sie können den Namen nun ändern und per Klick auf die **Enter-Taste** speichern. Lesen Sie [hier](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) nach, was Sie bei der Namensgebung beachten sollten.
+Sie können Bases, deren Eigentümer oder Administrator Sie sind, nachträglich **umbenennen**. Bewegen Sie den Mauszeiger auf den Namen der umzubenennenden Base und klicken Sie dann auf das **Stift-Icon** {{< seatable-icon icon="dtable-icon-rename" >}}. Sie können den Namen nun ändern und per Klick auf die **Enter-Taste** speichern. Lesen Sie [hier]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}) nach, was Sie bei der Namensgebung beachten sollten.
 
 ## Icon und Farbe einer Base ändern
 
@@ -74,7 +74,7 @@ Sie können alle Bases, auf die Sie Zugriff haben, **kopieren**. Je nachdem, woh
 
 ## Bases in Ordner verschieben oder zu Favoriten hinzufügen
 
-Wenn sich eine Vielzahl an Bases auf Ihrer Startseite angesammelt hat, kann es für die Übersichtlichkeit sinnvoll sein, [mehrere Bases in Ordnern zusammenzufassen](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-einen-ordner-verschieben/) oder die Bases, auf die Sie am häufigsten zugreifen, [zu den Favoriten hinzuzufügen](https://seatable.io/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/).
+Wenn sich eine Vielzahl an Bases auf Ihrer Startseite angesammelt hat, kann es für die Übersichtlichkeit sinnvoll sein, [mehrere Bases in Ordnern zusammenzufassen]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}).
 
 ## Base exportieren
 

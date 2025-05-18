@@ -39,7 +39,7 @@ You will learn all this by setting up a base for recording your private or profe
 
 The following requirements are necessary for you to complete this online course:
 
-1. **SeaTable**: You can use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account](https://seatable.io/en/registrierung/).
+1. **SeaTable**: You can use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account]({{< relref "pages/registration" >}}).
 2. **Forum**: An [account in our community forum](https://forum.seatable.io/) if you would like to receive a badge upon successful completion.
 3. **Browser**: We recommend Google Chrome.
 4. **English**: The course is available in several languages, but the final quiz, the screenshots and the sample data used are in English.

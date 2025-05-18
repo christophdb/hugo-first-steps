@@ -1,11 +1,11 @@
 ---
-title: "Welche Abo-Pakete gibt es?"
+title: 'Welche Abo-Pakete gibt es?'
 date: 2022-08-25
-lastmod: "2023-02-17"
-categories: 
-  - "teamverwaltung-abonnement"
-author: "cdb"
-url: "/de/hilfe/abo-pakete"
+lastmod: '2023-02-17'
+categories:
+    - 'teamverwaltung-abonnement'
+author: 'cdb'
+url: '/de/hilfe/abo-pakete'
 ---
 
 Wir bieten SeaTable in verschiedenen Versionen in unterschiedlichen Preisklassen an - damit ist für jeden etwas dabei. Die Funktionen und Möglichkeiten variieren je nach Preisstufe und sind somit ganz auf ihre individuellen Bedürfnisse anpassbar. Einen schnellen Vergleich unserer Abonnements erhalten Sie auf [unserer Preis-Seite](https://seatable.io/preise/).
@@ -14,7 +14,7 @@ Wir bieten SeaTable in verschiedenen Versionen in unterschiedlichen Preisklassen
 
 ### SeaTable Cloud Free
 
-Das Free-Abonnement von SeaTable ist kostenlos - [einfach registrieren](https://seatable.io/registrierung/) und loslegen! Enthalten in der Free-Version sind unlimitierte Tabellen, insgesamt bis zu 10.000 Zeilen und 2 GB Speicherplatz für Dateien innerhalb der Tabellen. Die Versionierung ist einen Monat rückwirkend möglich. Das heißt, dass Tabellen bis zu 4 Wochen rückwirkend wiederhergestellt werden können. Mit der Free-Version können Sie unlimitierte JavaScripte schreiben und bis zu 100 Python-Läufe nutzen.
+Das Free-Abonnement von SeaTable ist kostenlos - [einfach registrieren]({{< relref "pages/registration" >}}) und loslegen! Enthalten in der Free-Version sind unlimitierte Tabellen, insgesamt bis zu 10.000 Zeilen und 2 GB Speicherplatz für Dateien innerhalb der Tabellen. Die Versionierung ist einen Monat rückwirkend möglich. Das heißt, dass Tabellen bis zu 4 Wochen rückwirkend wiederhergestellt werden können. Mit der Free-Version können Sie unlimitierte JavaScripte schreiben und bis zu 100 Python-Läufe nutzen.
 
 ### SeaTable Cloud Plus
 

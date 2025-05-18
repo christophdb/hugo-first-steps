@@ -28,7 +28,7 @@ Der komplette Geschäftsprozess wird in SeaTable abgebildet, sodass Sie sich vol
 
 Um diesen Kurs erfolgreich zu absolvieren, benötigen Sie:
 
-1. **SeaTable**: Verwenden Sie ein beliebiges SeaTable-System. Am einfachsten geht es mit einem [kostenlosen SeaTable Cloud-Account](https://seatable.io/registrierung/).
+1. **SeaTable**: Verwenden Sie ein beliebiges SeaTable-System. Am einfachsten geht es mit einem [kostenlosen SeaTable Cloud-Account]({{< relref "pages/registration" >}}).
 2. **Forum**: Einen [Account in unserem Community-Forum](https://forum.seatable.io/), falls Sie nach Abschluss des Kurses ein Abzeichen erhalten möchten.
 3. **Mailversand**: Ein [Konto bei Mailtrap](https://mailtrap.io/), um den Mailversand aus SeaTable zu simulieren.
 4. **Browser**: Wir empfehlen die Nutzung von Google Chrome.

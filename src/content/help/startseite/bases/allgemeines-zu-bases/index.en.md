@@ -39,7 +39,7 @@ In the **My Bases** section and in each **group** where you are an administrator
 
 You have **three options** when creating a new Base. You can read more about them in the respective articles:
 
-- [Create empty base](https://seatable.io/en/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Create empty base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Import base from a file](https://seatable.io/en/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
 - [Create base from template](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
 
@@ -51,7 +51,7 @@ You cannot **manage** bases released to you. In the advanced functions of such b
 
 ## Rename Bases
 
-You can **rename** Bases of which you are the owner or administrator afterwards. Move the mouse pointer to the name of the Base you want to rename and click on the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}. You can now change the name and save it by clicking the **Enter key**. Read [here](https://seatable.io/en/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) what you should consider when naming a base.
+You can **rename** Bases of which you are the owner or administrator afterwards. Move the mouse pointer to the name of the Base you want to rename and click on the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}. You can now change the name and save it by clicking the **Enter key**. Read [here]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}) what you should consider when naming a base.
 
 ## Change icon and color of a base
 
@@ -73,7 +73,7 @@ You can **copy** all the Bases you have access to. Depending on where the base c
 
 ## Move bases to folder or add to favorites
 
-If a large number of Bases have accumulated on your Home page, it may be useful for clarity to [group several Bases together in folders](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-einen-ordner-verschieben/) or [to add](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/) the Bases you access most often to [Favorites](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/).
+If a large number of Bases have accumulated on your Home page, it may be useful for clarity to [group several Bases together in folders]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}).
 
 ## Export base
 

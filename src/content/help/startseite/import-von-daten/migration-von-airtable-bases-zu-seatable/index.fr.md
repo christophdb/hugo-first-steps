@@ -20,7 +20,7 @@ Tout le monde – techniciens et non-techniciens – peut utiliser le script. Se
 
 ### 1\. créer une base
 
-Créez une [nouvelle Base](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) dans SeaTable. Le nom de la Base SeaTable ne doit pas nécessairement correspondre au nom de la Base Airtable à importer. Vous pouvez choisir librement le nom.
+Créez une [nouvelle Base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}) dans SeaTable. Le nom de la Base SeaTable ne doit pas nécessairement correspondre au nom de la Base Airtable à importer. Vous pouvez choisir librement le nom.
 
 ### 2\. insérer le script
 

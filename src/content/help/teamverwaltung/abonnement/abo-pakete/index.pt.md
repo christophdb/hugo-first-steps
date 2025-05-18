@@ -14,7 +14,7 @@ Oferecemos SeaTable em diferentes versões em diferentes gamas de preços - por 
 
 ### SeaTable Cloud Free
 
-A subscrição gratuita do SeaTable é gratuita - [basta registar-se](https://seatable.io/pt/registrierung/) e começar! Na versão gratuita estão incluídas tabelas ilimitadas, até 10.000 filas no total e 2 GB de espaço de armazenamento para ficheiros dentro das tabelas. A versão é possível com um mês de retrospectiva. Isto significa que as tabelas podem ser restauradas até 4 semanas retrospectivamente. Com a versão gratuita, é possível escrever JavaScripts ilimitados e utilizar até 100 execuções Python.
+A subscrição gratuita do SeaTable é gratuita - [basta registar-se]({{< relref "pages/registration" >}}) e começar! Na versão gratuita estão incluídas tabelas ilimitadas, até 10.000 filas no total e 2 GB de espaço de armazenamento para ficheiros dentro das tabelas. A versão é possível com um mês de retrospectiva. Isto significa que as tabelas podem ser restauradas até 4 semanas retrospectivamente. Com a versão gratuita, é possível escrever JavaScripts ilimitados e utilizar até 100 execuções Python.
 
 ### SeaTable Cloud Plus
 

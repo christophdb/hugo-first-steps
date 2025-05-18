@@ -81,7 +81,7 @@ Das war auch schon Schritt 1 dieses Online Kurses. Scrollen Sie bis ans Ende die
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Eine neue Base erstellen](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Eine neue Base erstellen]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Wie man den Spaltentyp anpasst](https://seatable.io/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/)
 - [Löschen einer Zeile](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
 - [Hinzufügen einer Spalte](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/)

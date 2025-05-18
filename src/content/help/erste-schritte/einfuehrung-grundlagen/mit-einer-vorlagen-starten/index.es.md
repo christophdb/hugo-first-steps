@@ -26,7 +26,7 @@ Con las plantillas, no se empieza de 0 al trabajar en una base, ¡sino de 100! E
 
 ¿Ha encontrado una plantilla interesante y quiere utilizarla? ¡Perfecto! Para poder introducir sus propios datos en esta plantilla, sólo tiene que [crear](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) una [nueva base a partir de la plantilla](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) en SeaTable Cloud.
 
-Si ya ha iniciado sesión en su cuenta, entonces se cumplen todos los requisitos. Si no ha iniciado sesión o no tiene una cuenta SeaTable, [inicie](https://cloud.seatable.io/) sesión o [regístrese gratuitamente con su dirección de correo electrónico](https://seatable.io/es/registrierung/).
+Si ya ha iniciado sesión en su cuenta, entonces se cumplen todos los requisitos. Si no ha iniciado sesión o no tiene una cuenta SeaTable, [inicie](https://cloud.seatable.io/) sesión o [regístrese gratuitamente con su dirección de correo electrónico]({{< relref "pages/registration" >}}).
 
 De vuelta en tu página de inicio, encontrarás una nueva base dentro del grupo seleccionado o en **Mis Bases**. El nombre de la base recién creada es el nombre de la plantilla. Si esto no le conviene, [simplemente cambie el nombre de la](/es/docs/handbuch/datenmanagement/bases/#base-umbenennen) base.
 

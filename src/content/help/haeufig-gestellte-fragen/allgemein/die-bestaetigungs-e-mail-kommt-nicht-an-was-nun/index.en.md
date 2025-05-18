@@ -22,4 +22,4 @@ If you have **not** received **an** email, please check the following options:
 
 1. Be patient: In rare cases, the sending of the confirmation email may be **delayed for** a while.
 2. Check your **Spam folder**, the **Advertising** tab if necessary, and the **Trash**. Maybe the email ended up there.
-3. If **neither** of these steps has been successful, you can register again [here](https://seatable.io/en/registrierung/) with your e-mail address and you will then receive a **new** confirmation e-mail.
+3. If **neither** of these steps has been successful, you can register again [here]({{< relref "pages/registration" >}}) with your e-mail address and you will then receive a **new** confirmation e-mail.

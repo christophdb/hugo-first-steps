@@ -14,7 +14,7 @@ We offer SeaTable in different versions in different price ranges - so there is 
 
 ### SeaTable Cloud Free
 
-The Free subscription to SeaTable is free - [just register](https://seatable.io/en/registrierung/) and get started! Included in the free version are unlimited tables, a total of up to 10,000 rows and 2 GB storage space for files within the tables. Versioning is possible one month backwards. This means that tables can be restored up to 4 weeks retrospectively. With the Free version you can write unlimited JavaScripts and use up to 100 Python runs.
+The Free subscription to SeaTable is free - [just register]({{< relref "pages/registration" >}}) and get started! Included in the free version are unlimited tables, a total of up to 10,000 rows and 2 GB storage space for files within the tables. Versioning is possible one month backwards. This means that tables can be restored up to 4 weeks retrospectively. With the Free version you can write unlimited JavaScripts and use up to 100 Python runs.
 
 ### SeaTable Cloud Plus
 

@@ -12,7 +12,7 @@ weight: 2
 En la introducción, ya hemos señalado que debe tener acceso a un sistema SeaTable e, idealmente, tener una cuenta en nuestro foro comunitario para poder completar este curso en línea.  
 En este artículo, nos gustaría explicar brevemente estos dos aspectos.
 
-Si ya tiene una cuenta en SeaTable y en el Foro, puede saltarse esta parte y [pasar](https://seatable.io/es/docs/online-kurs/navigieren-in-der-benutzeroberflaeche-von-seatable/) directamente [a la página siguiente](https://seatable.io/es/docs/online-kurs/navigieren-in-der-benutzeroberflaeche-von-seatable/).
+Si ya tiene una cuenta en SeaTable y en el Foro, puede saltarse esta parte y [pasar]({{< relref "help/erste-schritte/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
 
 ## Servidor SeaTable
 
@@ -22,7 +22,7 @@ Empecemos por el acceso a un servidor SeaTable. Hay tres maneras de conseguir un
 
 La forma más fácil con diferencia es registrar una cuenta gratuita para SeaTable Cloud. El registro solo requiere una dirección de correo electrónico y se completa en un minuto.
 
-[Regístrese gratis](https://seatable.io/es/registrierung/)
+[Regístrese gratis]({{< relref "pages/registration" >}})
 
 ### 2\. Servidor seaTable
 

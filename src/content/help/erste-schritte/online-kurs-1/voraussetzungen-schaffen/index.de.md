@@ -11,23 +11,23 @@ weight: 2
 
 In der Einführung haben wir bereits darauf hingewiesen, dass Sie Zugang zu einem SeaTable System haben müssen und optimalerweise einen Account in unserem Community-Forum besitzen, um diesen Online Kurs zu absolvieren. In diesem Artikel möchten wir diese beiden Aspekte kurz erläutern.
 
-Sollten Sie bereits einen SeaTable und Forums Account besitzen, können Sie diesen Teil auch gern überspringen und direkt [zur nächsten Seite springen](https://seatable.io/docs/online-kurs/navigieren-in-der-benutzeroberflaeche-von-seatable/).
+Sollten Sie bereits einen SeaTable und Forums Account besitzen, können Sie diesen Teil auch gern überspringen und direkt [zur nächsten Seite springen]({{< relref "help/erste-schritte/online-kurs-1/navigieren-in-der-benutzeroberflaeche-von-seatable" >}}).
 
 ## SeaTable Server
 
 Beginnen wir mit dem Zugang zu einem SeaTable Server. Es gibt drei Möglichkeiten, um einen solchen zu bekommen:
 
-### 1\. SeaTable Cloud
+### 1. SeaTable Cloud
 
 Der mit Abstand einfachste Weg ist es, wenn Sie sich einen kostenlosen Account für die SeaTable Cloud registrieren. Die Registrierung erfordert nur eine E-Mail-Adresse und ist in einer Minute erledigt.
 
-[Jetzt kostenlos registrieren](https://seatable.io/registrierung/)
+[Jetzt kostenlos registrieren]({{< relref "pages/registration" >}})
 
-### 2\. SeaTable Server
+### 2. SeaTable Server
 
 Alternativ bieten wir Ihnen mit unserem [SeaTable Server](https://admin.seatable.io/) die Möglichkeit, SeaTable auf Ihrem eigenen Server selbst zu installieren. Dies können wir aber nur fortgeschrittenen Benutzer mit technischen Kenntnissen im Bereich Docker empfehlen.
 
-### 3\. SeaTable Dedicated
+### 3. SeaTable Dedicated
 
 Die dritte Möglichkeit ist unser SeaTable Dedicated. Bei diesem Premiumangebot, welches wir Teams ab 100 Benutzern anbieten, installieren wir Ihnen Ihre individuelle und private Cloud, die Sie und Ihr Team unter einer beliebigen Domain erreichen können. Weiterhin übernehmen wir die Betreuung dieses Systems, wodurch Sie sich um nichts kümmern müssen. Gleichzeitig bieten wir Ihnen die Möglichkeit, Ihr System individuell an Ihre Bedürfnisse anzupassen. Dies kann durch ein eigenes Logo, eigene Farben, individuelle Templates oder eigene Limits erfolgen.
 

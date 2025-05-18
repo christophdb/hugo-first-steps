@@ -14,7 +14,7 @@ SeaTable grants public institutions a 25% discount, charitable non-profit organi
 
 ## Request discount
 
-If you have not yet registered a team on cloud.seatable.io, start by [registering](https://seatable.io/en/docs/erste-schritte/registrierung-login/). Always create a team with the free [subscription](https://seatable.io/en/docs/abo-abrechnung/abo-pakete/) first. Then proceed as follows:
+If you have not yet registered a team on cloud.seatable.io, start by [registering]({{< relref "pages/registration" >}}). Always create a team with the free [subscription](https://seatable.io/en/docs/abo-abrechnung/abo-pakete/) first. Then proceed as follows:
 
 1. Open the [team management](https://account.seatable.io).
 2. Switch to the **Subscription** section.

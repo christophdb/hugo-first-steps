@@ -61,13 +61,13 @@ weight: 3
 
 В этом уроке вы познакомились с различными элементами интерфейса SeaTable. Не пугайтесь многочисленных возможностей пользовательского интерфейса. В следующей части этого онлайн-курса мы начнем создавать собственную **систему управления расходами**, которая позволит вам использовать и ознакомиться со многими функциями SeaTable.
 
-Если вы хотите более подробно ознакомиться с пользовательским интерфейсом и терминами SeaTable, мы рекомендуем вам наш [глоссарий](https://seatable.io/ru/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/). В нем подробно объясняется пользовательский интерфейс и терминология SeaTable.
+Если вы хотите более подробно ознакомиться с пользовательским интерфейсом и терминами SeaTable, мы рекомендуем вам наш [глоссарий]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}}). В нем подробно объясняется пользовательский интерфейс и терминология SeaTable.
 
 ## Справочная статья с дополнительной информацией
 
 В следующих статьях мы всегда будем включать раздел в нижней части страницы со ссылками на наш раздел помощи. Таким образом, мы поможем вам пройти этот онлайн-курс, но не будем наглядно демонстрировать каждый щелчок мыши с помощью скриншотов. Если вы застрянете, статьи помощи помогут вам.
 
-- [Создайте новую базу](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Создайте новую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Что такое вид]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Глоссарий SeaTable](https://seatable.io/ru/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/)
-- [Добавить базу в избранное](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/)
+- [Глоссарий SeaTable]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
+- [Добавить базу в избранное]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})

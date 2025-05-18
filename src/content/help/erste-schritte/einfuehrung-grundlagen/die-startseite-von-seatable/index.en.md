@@ -30,6 +30,6 @@ The left side navigation of the Home page contains links to various sections and
 The workspace contains all the bases you have access to. The workspace is divided into the following sections:
 
 - **My Bases** - Bases that you have created and to which only you have access (as long as you do not give any [shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) ).
-- **Favorites** - Bases that you have marked as [favorites](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/).
+- **Favorites** - Bases that you have marked as [favorites]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}).
 - **Released for me** - all the bases that others have shared with you.
 - **Groups** - all the [groups](https://seatable.io/en/docs/arbeiten-mit-gruppen/gruppen/) you are a member of.

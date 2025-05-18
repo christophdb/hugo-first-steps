@@ -30,6 +30,6 @@ Die linke Seitennavigation der Startseite enthält Links zu verschiedenen Abschn
 Der Arbeitsbereich enthält alle Bases, auf die Sie Zugriff haben. Der Arbeitsbereich unterteilt sich in die folgenden Abschnitte:
 
 - **Meine Bases** - Bases, die Sie erstellt haben und auf die nur Sie Zugriff haben (solange Sie keine [Freigaben]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) erteilen).
-- **Favoriten** - Bases, die Sie als [Favoriten](https://seatable.io/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/) markiert haben.
+- **Favoriten** - Bases, die Sie als [Favoriten]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}) markiert haben.
 - **Für mich freigegeben** - alle Bases, die Andere mit Ihnen geteilt haben.
 - **Gruppen** - alle [Gruppen](https://seatable.io/docs/arbeiten-mit-gruppen/gruppen/), in denen Sie Mitglied sind.

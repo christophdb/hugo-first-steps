@@ -20,7 +20,7 @@ O guião pode ser utilizado por qualquer pessoa - técnicos e não técnicos. Ap
 
 ### 1\. criar uma base
 
-Criar uma [nova base](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) no SeaTable. O nome da base SeaTable não tem de corresponder ao nome da base Airtable a ser importada. Pode escolher o nome livremente.
+Criar uma [nova base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}) no SeaTable. O nome da base SeaTable não tem de corresponder ao nome da base Airtable a ser importada. Pode escolher o nome livremente.
 
 ### 2\. inserir guião
 

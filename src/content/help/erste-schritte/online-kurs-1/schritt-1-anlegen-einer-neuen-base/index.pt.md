@@ -87,7 +87,7 @@ Este foi o passo 1 deste curso online. Desloque-se até ao fim deste artigo e sa
 
 ## Artigo de ajuda com mais informações
 
-- [Criar uma nova base](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Criar uma nova base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Como ajustar o tipo de coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/)
 - [Apagar uma linha](https://seatable.io/pt/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
 - [Adicionar uma coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/)

@@ -39,7 +39,7 @@ Aprenderá tudo isto através da criação de uma base de registo das suas despe
 
 Os seguintes requisitos são necessários para concluir este curso em linha:
 
-1. **SeaTable**: Pode utilizar qualquer sistema SeaTable. A forma mais fácil de o fazer é com uma [conta gratuita SeaTable Cloud](https://seatable.io/pt/registrierung/).
+1. **SeaTable**: Pode utilizar qualquer sistema SeaTable. A forma mais fácil de o fazer é com uma [conta gratuita SeaTable Cloud]({{< relref "pages/registration" >}}).
 2. **Fórum**: Uma [conta no nosso fórum da comunidade](https://forum.seatable.io/) se quiser receber um distintivo após a conclusão com êxito.
 3. **Navegador**: Recomendamos o Google Chrome.
 4. **Inglês**: O curso está disponível em várias línguas, mas o questionário final, as capturas de ecrã e os dados de amostra utilizados estão em inglês.

@@ -61,13 +61,13 @@ Neste curso online, analisaremos o conceito de vistas com mais pormenor e ilustr
 
 Nesta lição, aprendeu sobre vários elementos da interface do SeaTable. Não se deixe intimidar pelas muitas possibilidades da interface do utilizador. Na próxima parte deste curso online, começaremos a construir **o** seu próprio **sistema de gestão de despesas**, o que lhe permitirá utilizar e familiarizar-se com muitas das funções do SeaTable.
 
-Se pretender familiarizar-se mais intensamente com a interface de utilizador e os termos do SeaTable, recomendamos o nosso [glossário](https://seatable.io/pt/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/). Este explica em pormenor a interface do utilizador e a terminologia do SeaTable.
+Se pretender familiarizar-se mais intensamente com a interface de utilizador e os termos do SeaTable, recomendamos o nosso [glossário]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}}). Este explica em pormenor a interface do utilizador e a terminologia do SeaTable.
 
 ## Artigo de ajuda com mais informações
 
 Nos artigos seguintes, incluiremos sempre uma secção no final da página com referências à nossa secção de ajuda. Desta forma, guiamo-lo através deste curso online, mas não visualizamos cada clique do rato com uma captura de ecrã. Se tiver dificuldades, os artigos de ajuda devem ajudá-lo.
 
-- [Criar uma nova base](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Criar uma nova base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [O que é uma vista]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
-- [Glossário SeaTable](https://seatable.io/pt/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/)
-- [Acrescente uma base aos seus favoritos](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/)
+- [Glossário SeaTable]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
+- [Acrescente uma base aos seus favoritos]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})

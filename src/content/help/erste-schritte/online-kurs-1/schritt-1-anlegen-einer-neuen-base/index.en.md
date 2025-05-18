@@ -87,7 +87,7 @@ That was step 1 of this online course. Scroll to the end of this article and jum
 
 ## Help article with further information
 
-- [Create a new base](https://seatable.io/en/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Create a new base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [How to customize the column type](https://seatable.io/en/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/)
 - [Delete a row](https://seatable.io/en/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
 - [Adding a column](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/)

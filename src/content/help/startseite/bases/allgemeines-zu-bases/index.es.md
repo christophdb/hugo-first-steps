@@ -39,7 +39,7 @@ En el área **Mis Bases** y en cada **grupo** en el que seas administrador, enco
 
 Tiene **tres opciones** a la hora de crear una nueva base. Puede obtener más información al respecto en los artículos correspondientes:
 
-- [Crear una base vacía](https://seatable.io/es/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Crear una base vacía]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Importar la base desde un archivo](https://seatable.io/es/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
 - [Crear base a partir de una plantilla](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
 
@@ -51,7 +51,7 @@ No puede **gestionar** bases que le hayan sido liberadas. Sólo hay dos opciones
 
 ## Renombrar bases
 
-Posteriormente podrá **renombrar** las bases de las que sea propietario o administrador. Sitúe el puntero del ratón sobre el nombre de la base que desea renombrar y, a continuación, haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}. Ahora puede cambiar el nombre y guardarlo pulsando la **tecla Intro**. Lee [aquí](https://seatable.io/es/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) lo que debes tener en cuenta a la hora de poner nombre a una base.
+Posteriormente podrá **renombrar** las bases de las que sea propietario o administrador. Sitúe el puntero del ratón sobre el nombre de la base que desea renombrar y, a continuación, haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}. Ahora puede cambiar el nombre y guardarlo pulsando la **tecla Intro**. Lee [aquí]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}) lo que debes tener en cuenta a la hora de poner nombre a una base.
 
 ## Cambiar el icono y el color de una base
 
@@ -73,7 +73,7 @@ Puedes **copiar** todas las bases a las que tengas acceso. Dependiendo de la pro
 
 ## Mover bases a carpetas o añadir a favoritos
 
-Si se ha acumulado un gran número de bases en tu página de inicio, puede ser útil para mayor claridad [agrupar varias bases en carpetas](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-einen-ordner-verschieben/) o [añadir](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/) a [favoritos](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/) las bases a las que accedes con más frecuencia.
+Si se ha acumulado un gran número de bases en tu página de inicio, puede ser útil para mayor claridad [agrupar varias bases en carpetas]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}) las bases a las que accedes con más frecuencia.
 
 ## Base de exportación
 

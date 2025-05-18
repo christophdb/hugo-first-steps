@@ -28,7 +28,7 @@ Todo el proceso empresarial se planifica en SeaTable para que pueda concentrarse
 
 Para completar con éxito este curso, necesitará:
 
-1. **SeaTable**: Utilice cualquier sistema SeaTable. La forma más sencilla de hacerlo es con una [cuenta gratuita de SeaTable Cloud](https://seatable.io/es/registrierung/).
+1. **SeaTable**: Utilice cualquier sistema SeaTable. La forma más sencilla de hacerlo es con una [cuenta gratuita de SeaTable Cloud]({{< relref "pages/registration" >}}).
 2. **Foro**: Una [cuenta en nuestro foro de la comunidad](https://forum.seatable.io/) si desea recibir una insignia después de completar el curso.
 3. **Envío de** correo: Una [cuenta con Mailtrap](https://mailtrap.io/) para simular el envío de correo desde SeaTable.
 4. **Navegador**: Recomendamos el uso de Google Chrome.

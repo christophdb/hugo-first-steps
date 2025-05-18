@@ -39,7 +39,7 @@ url: '/ru/help/bases'
 
 При создании новой базы у вас есть **три варианта**. Подробнее об этом вы можете прочитать в соответствующих статьях:
 
-- [Создайте пустую базу](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Создайте пустую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Импорт базы из файла](https://seatable.io/ru/docs/import-von-daten/welche-import-formate-unterstuetzt-seatable/)
 - [Создание базы из шаблона](https://seatable.io/ru/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
 
@@ -51,7 +51,7 @@ url: '/ru/help/bases'
 
 ## Переименовать базы
 
-Впоследствии вы можете **переименовывать** базы, владельцем или администратором которых вы являетесь. Подведите указатель мыши к названию базы, которую нужно переименовать, а затем нажмите на **значок карандаша** {{< seatable-icon icon="dtable-icon-rename" >}}. Теперь вы можете изменить название и сохранить его, нажав на **клавишу Enter**. Читайте [здесь](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/) о том, что следует иметь в виду при присвоении имени базе.
+Впоследствии вы можете **переименовывать** базы, владельцем или администратором которых вы являетесь. Подведите указатель мыши к названию базы, которую нужно переименовать, а затем нажмите на **значок карандаша** {{< seatable-icon icon="dtable-icon-rename" >}}. Теперь вы можете изменить название и сохранить его, нажав на **клавишу Enter**. Читайте [здесь]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}) о том, что следует иметь в виду при присвоении имени базе.
 
 ## Изменение значка и цвета базы
 
@@ -73,7 +73,7 @@ url: '/ru/help/bases'
 
 ## Переместить базы в папки или добавить в избранное
 
-Если на вашей домашней странице скопилось большое количество баз, для наглядности может быть полезно [сгруппировать несколько баз в папки](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-in-einen-ordner-verschieben/) или [добавить](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/) базы, к которым вы обращаетесь чаще всего, в [избранное](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/).
+Если на вашей домашней странице скопилось большое количество баз, для наглядности может быть полезно [сгруппировать несколько баз в папки]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}).
 
 ## Экспортная база
 

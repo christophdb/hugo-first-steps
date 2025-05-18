@@ -26,7 +26,7 @@ With templates, you don't start from 0 when working in a base, but from 100! Del
 
 You have found an exciting template and now you want to use it? Great! So that you can now enter your own data in this template, you only need to [create](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) a [new base from the template](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) in the SeaTable Cloud.
 
-If you are already logged in to your account, then all the requirements are met. If you are not logged in or do not have a SeaTable account, then [log](https://cloud.seatable.io/) in or [register for free with your email address](https://seatable.io/en/registrierung/).
+If you are already logged in to your account, then all the requirements are met. If you are not logged in or do not have a SeaTable account, then [log](https://cloud.seatable.io/) in or [register for free with your email address]({{< relref "pages/registration" >}}).
 
 Back on your home page you will find a new Base within the selected group or in **My Bases**. The name of the newly created Base is the name of the template. If you don't like it, [simply rename the Base](/en/docs/handbuch/datenmanagement/bases/#base-umbenennen).
 

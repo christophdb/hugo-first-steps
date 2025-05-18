@@ -61,14 +61,14 @@ Wir werden das Konzept der Ansichten in diesem Online Kurs noch intensiver beleu
 
 In dieser Lektion haben Sie verschiedene Elemente der SeaTable Oberfläche kennengelernt. Lassen Sie sich nicht einschüchtern von den vielen Möglichkeiten der Benutzeroberfläche. Schon im nächsten Teil dieses Online Kurses werden wir damit beginnen Ihre eigene **Ausgabenverwaltung** zu bauen, wodurch Sie viele der Funktionen von SeaTable einsetzen und kennenlernen werden.
 
-Wenn Sie sich intensiver mit der Benutzeroberfläche und den Begriffen von SeaTable auseinandersetzen wollen, empfehlen wir Ihnen unser [Glossar](https://seatable.io/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/). Dort werden die Benutzeroberfläche und die Begrifflichkeiten von SeaTable detailliert erklärt.
+Wenn Sie sich intensiver mit der Benutzeroberfläche und den Begriffen von SeaTable auseinandersetzen wollen, empfehlen wir Ihnen unser [Glossar]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}}). Dort werden die Benutzeroberfläche und die Begrifflichkeiten von SeaTable detailliert erklärt.
 
 ## Hilfeartikel mit weiteren Informationen
 
 In den folgenden Artikeln werden wir immer am Ende der Seite einen Abschnitt mit Verweisen auf unseren Hilfebereich einfügen. So werden wir Sie zwar im Rahmen dieses Online Kurses an die Hand nehmen, aber nicht jeden Mausklick per Screenshot visualisieren. Wenn Sie mal nicht weiter wissen, sollten Ihnen die Hilfeartikel weiterhelfen.
 
-- [Eine neue Base erstellen](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Eine neue Base erstellen]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Was ist eine Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
   )
-- [SeaTable Glossar](https://seatable.io/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/)
-- [Eine Base zu den Favoriten hinzufügen](https://seatable.io/docs/arbeiten-mit-bases/eine-base-zu-den-favoriten-hinzufuegen/)
+- [SeaTable Glossar]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
+- [Eine Base zu den Favoriten hinzufügen]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})

@@ -1,11 +1,11 @@
 ---
-title: "Mit einer Vorlage starten"
+title: 'Mit einer Vorlage starten'
 date: 2022-08-25
-lastmod: "2023-05-15"
-categories: 
-  - "kurzanleitungen"
-author: "cdb"
-url: "/de/hilfe/mit-einer-vorlagen-starten"
+lastmod: '2023-05-15'
+categories:
+    - 'kurzanleitungen'
+author: 'cdb'
+url: '/de/hilfe/mit-einer-vorlagen-starten'
 ---
 
 Für viele Anwendungsfälle stehen Ihnen in SeaTable fertige Vorlagen zur Verfügung. Mit diesen kickstarten Sie Ihre Arbeit und nutzen SeaTable noch schneller und zielgerichteter.
@@ -26,7 +26,7 @@ Mit Vorlagen fangen Sie bei der Arbeit in einer Base nicht bei 0, sondern bei 10
 
 Sie haben eine spannende Vorlage gefunden und wollen diese nun verwenden? Prima! Damit Sie in diesem Template nun Ihre eigenen Daten erfassen können, müssen Sie in der SeaTable Cloud nur noch eine [neue Base aus der Vorlage erstellen](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 
-Wenn Sie schon in Ihrem Benutzerkonto angemeldet sind, dann sind alle Voraussetzungen erfüllt. Wenn Sie nicht angemeldet sind oder kein SeaTable Konto haben, dann [loggen Sie sich ein](https://cloud.seatable.io/) oder [registrieren Sie sich kostenlos mit Ihrer E-Mail-Adresse](https://seatable.io/registrierung/).
+Wenn Sie schon in Ihrem Benutzerkonto angemeldet sind, dann sind alle Voraussetzungen erfüllt. Wenn Sie nicht angemeldet sind oder kein SeaTable Konto haben, dann [loggen Sie sich ein](https://cloud.seatable.io/) oder [registrieren Sie sich kostenlos mit Ihrer E-Mail-Adresse]({{< relref "pages/registration" >}}).
 
 Zurück auf Ihrer Startseite werden Sie eine neue Base innerhalb der gewählten Gruppe bzw. in **Meine Bases** finden. Der Name der neu erstellten Base ist der Name der Vorlage. Wenn Ihnen dieser nicht passt, [nennen Sie die Base einfach um](/docs/handbuch/datenmanagement/bases/#base-umbenennen).
 

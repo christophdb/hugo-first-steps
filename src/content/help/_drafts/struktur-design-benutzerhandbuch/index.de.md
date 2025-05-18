@@ -91,7 +91,7 @@ In der Umsetzung heißt dies konkret:
 - Verwende _Kursivdruck_, um die Betonung eines Wortes zu kennzeichnen, z.B. Dafür gibt es nicht die _eine_ Lösung.
 - Vermeide Anführungszeichen ("...") und nutze stattdessen das HTML-Tag _em_ für Kursivsetzung, z.B. die Spalte _Artikelnummer_.
 - Achte darauf, dass die Auszeichnungen (fett, kursiv etc.) in einem Absatz nicht überhandnehmen. Der Großteil des Textes sollte normal aussehen.
-- Verwende konsequent die Begriffe aus dem [Glossar](https://seatable.io/docs/erste-schritte/glossar-der-von-seatable-verwendeten-begriffe/).
+- Verwende konsequent die Begriffe aus dem [Glossar]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}}).
 
 ### Klickfolgen und Aufzählungen
 

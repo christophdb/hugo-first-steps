@@ -1,11 +1,11 @@
 ---
-title: "¿Qué paquetes de suscripción hay disponibles? - Mesa del mar"
+title: '¿Qué paquetes de suscripción hay disponibles? - Mesa del mar'
 date: 2022-08-25
-lastmod: "2023-02-17"
-categories: 
-  - "teamverwaltung-abonnement"
-author: "cdb"
-url: "/es/ayuda/abo-pakete"
+lastmod: '2023-02-17'
+categories:
+    - 'teamverwaltung-abonnement'
+author: 'cdb'
+url: '/es/ayuda/abo-pakete'
 ---
 
 Ofrecemos SeaTable en distintas versiones y con diferentes precios, por lo que hay algo para todos los gustos. Las funciones y posibilidades varían en función del nivel de precios, por lo que pueden adaptarse a sus necesidades individuales. Puede obtener una comparación rápida de nuestros abonos en [nuestra página de precios](https://seatable.io/es/preise/).
@@ -14,7 +14,7 @@ Ofrecemos SeaTable en distintas versiones y con diferentes precios, por lo que h
 
 ### SeaTable Cloud Gratis
 
-La suscripción gratuita a SeaTable es gratis - [¡sólo tiene que registrarse](https://seatable.io/es/registrierung/) y empezar! La versión gratuita incluye tablas ilimitadas, hasta 10.000 filas en total y 2 GB de espacio de almacenamiento para los archivos de las tablas. Es posible realizar versiones con un mes de antelación. Esto significa que las tablas pueden restaurarse hasta 4 semanas atrás. Con la versión gratuita, puede escribir un número ilimitado de JavaScripts y utilizar hasta 100 ejecuciones de Python.
+La suscripción gratuita a SeaTable es gratis - [¡sólo tiene que registrarse]({{< relref "pages/registration" >}}) y empezar! La versión gratuita incluye tablas ilimitadas, hasta 10.000 filas en total y 2 GB de espacio de almacenamiento para los archivos de las tablas. Es posible realizar versiones con un mes de antelación. Esto significa que las tablas pueden restaurarse hasta 4 semanas atrás. Con la versión gratuita, puede escribir un número ilimitado de JavaScripts y utilizar hasta 100 ejecuciones de Python.
 
 ### SeaTable Cloud Plus
 

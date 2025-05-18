@@ -39,7 +39,7 @@ Aprenderá todo esto estableciendo una base para registrar sus gastos privados o
 
 Los siguientes requisitos son necesarios para completar este curso en línea:
 
-1. **SeaTable**: Puede utilizar cualquier sistema SeaTable. La forma más sencilla de hacerlo es con una [cuenta gratuita de SeaTable Cloud](https://seatable.io/es/registrierung/).
+1. **SeaTable**: Puede utilizar cualquier sistema SeaTable. La forma más sencilla de hacerlo es con una [cuenta gratuita de SeaTable Cloud]({{< relref "pages/registration" >}}).
 2. **Foro**: Una [cuenta en nuestro foro de la comunidad](https://forum.seatable.io/) si desea recibir una insignia al completarlo con éxito.
 3. **Navegador**: Recomendamos Google Chrome.
 4. **Inglés**: El curso está disponible en varios idiomas, pero el cuestionario final, las capturas de pantalla y los datos de muestra utilizados están en inglés.

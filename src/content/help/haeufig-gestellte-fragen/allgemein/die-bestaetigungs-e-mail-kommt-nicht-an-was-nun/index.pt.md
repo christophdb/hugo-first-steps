@@ -22,4 +22,4 @@ Caso **não** tenha recebido **um** e-mail, por favor verifique as seguintes op�
 
 1. Ser paciente: Em casos raros, o envio do e-mail de confirmação pode ser **atrasado por** algum tempo.
 2. Verifique a sua **pasta de spam**, o separador de **publicidade**, se necessário, e o **lixo**. Talvez o e-mail tenha lá ido parar.
-3. Se **nenhuma** destas etapas tiver sido bem sucedida, pode registar-se novamente [aqui](https://seatable.io/pt/registrierung/) com o seu endereço de e-mail e receberá então um **novo** e-mail de confirmação.
+3. Se **nenhuma** destas etapas tiver sido bem sucedida, pode registar-se novamente [aqui]({{< relref "pages/registration" >}}) com o seu endereço de e-mail e receberá então um **novo** e-mail de confirmação.

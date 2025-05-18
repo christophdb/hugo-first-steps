@@ -87,7 +87,7 @@ url: '/ru/help/schritt-1-anlegen-einer-neuen-base'
 
 ## Справочная статья с дополнительной информацией
 
-- [Создайте новую базу](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/)
+- [Создайте новую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Как настроить тип колонки](https://seatable.io/ru/docs/arbeiten-mit-spalten/wie-man-den-spaltentyp-anpasst/)
 - [Удалить строку](https://seatable.io/ru/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/)
 - [Добавить колонку](https://seatable.io/ru/docs/arbeiten-mit-spalten/hinzufuegen-einer-spalte/)

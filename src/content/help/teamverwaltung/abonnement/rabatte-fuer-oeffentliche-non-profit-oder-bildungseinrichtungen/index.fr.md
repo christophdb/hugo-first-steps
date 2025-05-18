@@ -14,7 +14,7 @@ SeaTable accorde une remise de 25% aux institutions publiques, une remise standa
 
 ## Demander une réduction
 
-Si vous n'avez pas encore enregistré d'équipe sur cloud.seatable.io, commencez par vous [inscrire](https://seatable.io/fr/docs/erste-schritte/registrierung-login/). Commencez toujours par créer une équipe avec l'[abonnement gratuit](https://seatable.io/fr/docs/abo-abrechnung/abo-pakete/). Ensuite, procédez comme suit :
+Si vous n'avez pas encore enregistré d'équipe sur cloud.seatable.io, commencez par vous [inscrire]({{< relref "pages/registration" >}}). Commencez toujours par créer une équipe avec l'[abonnement gratuit](https://seatable.io/fr/docs/abo-abrechnung/abo-pakete/). Ensuite, procédez comme suit :
 
 1. Ouvrez la [gestion d'équipe](https://account.seatable.io).
 2. Passez à la section **Abonnement**.
