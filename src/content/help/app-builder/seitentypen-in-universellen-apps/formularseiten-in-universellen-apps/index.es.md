@@ -26,7 +26,7 @@ Si desea cambiar la configuración de una página, haga clic en el **símbolo de
 
 ## Crear formularios
 
-A través de la **configuración de la página**, con la que posiblemente ya esté familiarizado desde el [editor de formularios web](https://seatable.io/es/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/), puede añadir diversos **elementos** y **campos** al formulario web mediante arrastrar y soltar. Además de los campos de **tabla** que corresponden a las columnas de la tabla seleccionada, también puede añadir **líneas horizontales** y **anotaciones**.
+A través de la **configuración de la página**, con la que posiblemente ya esté familiarizado desde el [editor de formularios web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}), puede añadir diversos **elementos** y **campos** al formulario web mediante arrastrar y soltar. Además de los campos de **tabla** que corresponden a las columnas de la tabla seleccionada, también puede añadir **líneas horizontales** y **anotaciones**.
 
 ![Configuración de la página del formulario](images/Seiteneinstellungen-der-Formularseite.png)
 

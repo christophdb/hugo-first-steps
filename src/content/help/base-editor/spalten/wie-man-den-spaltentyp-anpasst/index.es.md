@@ -29,7 +29,7 @@ La **primera columna** de una tabla **sólo** admite **6 de los 25 tipos de colu
 
 - [Texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Número](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/)
-- [Fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/)
+- [Fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Selección individual](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
 - [Número automático](https://seatable.io/es/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - [Fórmula](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/)

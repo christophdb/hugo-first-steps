@@ -57,7 +57,11 @@ No passo seguinte, pode seleccionar qualquer número de colunas de origem da tab
 
 ![Selecção das colunas da tabela de origem cujo conteúdo é copiado para a tabela de destino, se a condição de correspondência for cumprida.](images/select-columns-to-copy.png)
 
-{{< warning  headline="Cuidado com a perda de dados"  text="As colunas de origem e resultado devem ter **o mesmo tipo de coluna** para que não se percam dados quando se copia. Pode-se, por exemplo, copiar dados de uma [coluna de data](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) para uma [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), mas estes já não são adequados para [calendários](https://seatable.io/pt/docs/plugins/anleitung-zum-kalender-plugin/). Portanto, antes de realizar a operação, crie uma coluna de **resultados** do mesmo tipo na tabela de destino para cada coluna de **origem** que pretende copiar." />}}
+{{< warning  headline="Cuidado com a perda de dados" >}}
+
+As colunas de origem e resultado devem ter **o mesmo tipo de coluna** para que não se percam dados quando se copia. Pode-se, por exemplo, copiar dados de uma [coluna de data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) para uma [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), mas estes já não são adequados para [calendários](https://seatable.io/pt/docs/plugins/anleitung-zum-kalender-plugin/). Portanto, antes de realizar a operação, crie uma coluna de **resultados** do mesmo tipo na tabela de destino para cada coluna de **origem** que pretende copiar.
+
+{{< /warning >}}
 
 Se a operação for executada com sucesso, as tabelas de **funcionários** e **tarefas em aberto** são verificadas quanto à correspondência no **nome das** colunas definidas e **responsáveis**. Se os **nomes** nas colunas de ambas as tabelas corresponderem, o **endereço de e-mail do** funcionário correspondente é automaticamente copiado do **e-mail** da coluna definida para o **contacto da** coluna de resultados.
 
@@ -70,8 +74,8 @@ Se a operação for executada com sucesso, as tabelas de **funcionários** e **t
 Os seguintes tipos de colunas **não podem** ser copiados através da operação _Comparar e copiar_ e, portanto, **não** estão disponíveis ao definir as colunas de origem e de resultado.
 
 - [Coluna de selecção múltipla](https://seatable.io/pt/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
-- [A coluna do Criador](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [A coluna Created](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [A coluna do último editor](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [A última coluna editada](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [A coluna do Criador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [A coluna Created]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [A coluna do último editor]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [A última coluna editada]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Botão]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

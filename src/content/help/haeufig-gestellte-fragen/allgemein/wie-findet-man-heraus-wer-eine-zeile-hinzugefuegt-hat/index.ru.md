@@ -8,7 +8,7 @@ author: 'vge'
 url: '/ru/help/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 ---
 
-Хотите узнать, **кто** добавил строку? Тогда создайте столбец типа [Создатель](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/). Здесь **имя пользователя**, создавшего столбец, неизменно.
+Хотите узнать, **кто** добавил строку? Тогда создайте столбец типа [Создатель]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}). Здесь **имя пользователя**, создавшего столбец, неизменно.
 
 ## Создайте колонку создателя
 
@@ -17,10 +17,14 @@ url: '/ru/help/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 3. Выберите тип столбца **Создатель**.
 4. Нажмите **Отправить**.
 
-![Как узнать, кто добавил строку.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
+![Как узнать, кто добавил строку.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat.png)
 
 ## Показывайте больше подробностей о рядах через столбцы
 
 Кроме того, вы можете использовать другие типы столбцов, чтобы отобразить, _когда_ была **создана** и **последний раз редактировалась** строка и _кто_ ее изменил в качестве **последнего редактора**.
 
-{{< warning headline="Примечание" text="Помимо типа столбца **Создатель**, содержимое столбцов **Создано**, [Последний редактор и Последнее редактирование](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) также неизменяемо." />}}
+{{< warning headline="Примечание" >}}
+
+Помимо типа столбца **Создатель**, содержимое столбцов **Создано**, [Последний редактор и Последнее редактирование]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) также неизменяемо.
+
+{{< /warning >}}

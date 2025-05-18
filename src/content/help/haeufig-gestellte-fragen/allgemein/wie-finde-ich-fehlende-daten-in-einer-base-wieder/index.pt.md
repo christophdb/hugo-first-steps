@@ -32,10 +32,10 @@ Saiba mais sobre restauração de bases [aqui](https://seatable.io/pt/docs/histo
 
 SeaTable regista todas as actividades dentro de uma base num tronco. Este registo pode ser utilizado para restaurar não só valores individuais, mas também linhas, colunas e tabelas.
 
-Saiba mais sobre a recuperação de dados através do registo de base [aqui](https://seatable.io/pt/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Saiba mais sobre a recuperação de dados através do registo de base [aqui]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 ## Restaurar instantâneos
 
 Se criar regularmente instantâneos de uma base no SeaTable, pode restaurá-la como uma nova base em qualquer altura.
 
-Saiba mais sobre a restauração de instantâneos [aqui](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Saiba mais sobre a restauração de instantâneos [aqui]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

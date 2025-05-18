@@ -50,13 +50,13 @@ Para os seguintes tipos de colunas, a linha de estado reflecte um valor calculad
     - Número
     - Porcentagem
     - Moeda
-- [Colunas permanentes](https://seatable.io/pt/docs/datum-dauer-und-personen/die-dauer-spalte/)
+- [Colunas permanentes]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Colunas de classificação](https://seatable.io/pt/docs/auswahlspalten/die-rating-spalte/)
 - Valores numéricos em [colunas de fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/)
 
 Para os seguintes tipos de colunas, a linha de estado **não** reflecte um valor calculado, embora (possam) conter números:
 
-- [Colunas de datas](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/)
-- [Criado](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) e [editado pela última vez](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Colunas de datas]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Criado]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Número automático](https://seatable.io/pt/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - Números em [colunas de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)

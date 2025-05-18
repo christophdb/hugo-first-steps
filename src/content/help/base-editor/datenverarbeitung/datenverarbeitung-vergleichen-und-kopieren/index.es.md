@@ -57,7 +57,11 @@ En el siguiente paso, puede seleccionar cualquier número de columnas de origen 
 
 ![Selección de las columnas de la tabla de origen cuyo contenido se copia en la tabla de destino si se cumple la condición de coincidencia.](images/select-columns-to-copy.png)
 
-{{< warning  headline="Cuidado con la pérdida de datos"  text="Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) en [una columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), pero entonces ya no servirán para [calendarios](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar." />}}
+{{< warning  headline="Cuidado con la pérdida de datos" >}}
+
+Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) en [una columna de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), pero entonces ya no servirán para [calendarios](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
+
+{{< /warning >}}
 
 Si la operación se ejecuta correctamente, se comprueba si las tablas **empleados** y **tareas** abiertas coinciden en las columnas definidas **nombre** y **responsable**. Si los **nombres** de las columnas de ambas tablas coinciden, la **dirección de correo electrónico** del empleado correspondiente se copia automáticamente de la columna definida **correo electrónico** a la columna resultante **contacto**.
 
@@ -70,8 +74,8 @@ Si la operación se ejecuta correctamente, se comprueba si las tablas **empleado
 Los siguientes tipos de columnas **no pueden** copiarse mediante la operación _Comparar y copiar_ y, por lo tanto, **no** están disponibles al definir las columnas de origen y de resultado.
 
 - [Columna de selección múltiple](https://seatable.io/es/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
-- [La columna del Creador](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [La columna Creado](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [La columna del Último Editor](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [La última columna editada](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [La columna del Creador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [La columna Creado]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [La columna del Último Editor]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [La última columna editada]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Botón]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

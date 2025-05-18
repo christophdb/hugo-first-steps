@@ -36,7 +36,7 @@ Werden automatische Sicherungen meiner Base angefertigt?
 
 |||
 
-Ja. Wenn Änderungen an einer Base vorgenommen werden, wird täglich ein sogenannter **Snapshot** der Base angelegt, den Sie anschließend wiederherstellen können. Ausführlichere Informationen finden Sie unter [Speicherung der aktuellen Base als Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) und [Wiederherstellung eines Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Ja. Wenn Änderungen an einer Base vorgenommen werden, wird täglich ein sogenannter **Snapshot** der Base angelegt, den Sie anschließend wiederherstellen können. Ausführlichere Informationen finden Sie unter [Speicherung der aktuellen Base als Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) und [Wiederherstellung eines Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 
 ---
 

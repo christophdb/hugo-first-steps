@@ -32,10 +32,10 @@ Erfahren Sie [hier](https://seatable.io/docs/historie-und-versionen/eine-geloesc
 
 SeaTable protokolliert alle Aktivitäten innerhalb einer Base in einem Log. Über dieses lassen sich nicht nur einzelne Werte, sondern auch Zeilen, Spalten und Tabellen wiederherstellen.
 
-Erfahren Sie [hier](https://seatable.io/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/) mehr über die Wiederherstellung von Daten über das Base-Log.
+Erfahren Sie [hier]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) mehr über die Wiederherstellung von Daten über das Base-Log.
 
 ## Wiederherstellung von Snapshots
 
 Wenn Sie in SeaTable regelmäßig Snapshots von einer Base erstellen, können Sie diese jederzeit als eine neue Base wiederherstellen.
 
-Erfahren Sie [hier](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) mehr über die Wiederherstellung von Snapshots.
+Erfahren Sie [hier]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) mehr über die Wiederherstellung von Snapshots.

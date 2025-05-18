@@ -57,7 +57,11 @@ Dans l'étape suivante, vous pouvez sélectionner un nombre quelconque de colonn
 
 ![Sélection des colonnes du tableau source dont le contenu sera copié dans le tableau cible si la condition de concordance est remplie.](images/select-columns-to-copy.png)
 
-{{< warning  headline="Attention à la perte de données"  text="Les colonnes source et résultat doivent avoir **le même type de colonne** afin de ne pas perdre de données lors de la copie. Vous pouvez par exemple copier des données d'une [colonne de date](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) dans une [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), mais elles ne conviennent plus pour les [calendriers](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/). Avant d'effectuer l'opération, créez donc une **colonne de résultats** du même type dans le tableau cible pour chaque **colonne source** que vous souhaitez copier." />}}
+{{< warning  headline="Attention à la perte de données" >}}
+
+Les colonnes source et résultat doivent avoir **le même type de colonne** afin de ne pas perdre de données lors de la copie. Vous pouvez par exemple copier des données d'une [colonne de date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) dans une [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), mais elles ne conviennent plus pour les [calendriers](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/). Avant d'effectuer l'opération, créez donc une **colonne de résultats** du même type dans le tableau cible pour chaque **colonne source** que vous souhaitez copier.
+
+{{< /warning >}}
 
 Si l'opération est exécutée avec succès, les tables **employees** et **open tasks** sont examinées pour voir si les colonnes **name** et **responsible** définies correspondent. Si les **noms** dans les colonnes des deux tables correspondent, l'**adresse e-mail** de l'employé correspondant est automatiquement copiée de la colonne **E-mail** définie dans la colonne de résultat **contact**.
 
@@ -70,8 +74,8 @@ Si l'opération est exécutée avec succès, les tables **employees** et **open 
 Les types de colonnes suivants ne peuvent **pas** être copiés à l'aide de l'opération _Comparer et copier_ et ne sont donc **pas** disponibles lors de la définition des colonnes source et résultat.
 
 - [Colonne à choix multiples](https://seatable.io/fr/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
-- [La colonne Créateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [La colonne Créé](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [La colonne Dernier intervenant](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [La colonne Récent](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [La colonne Créateur]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [La colonne Créé]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [La colonne Dernier intervenant]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [La colonne Récent]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Bouton]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

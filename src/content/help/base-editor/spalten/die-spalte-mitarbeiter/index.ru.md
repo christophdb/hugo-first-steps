@@ -30,7 +30,7 @@ url: '/ru/help/die-spalte-mitarbeiter'
 
 ## Уведомление сотрудника при добавлении
 
-При создании столбца сотрудников можно **активизировать ползунок**, чтобы сотрудники получали [уведомление](https://seatable.io/ru/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/), когда другие заносят их в столбец и таким образом назначают их в строку.
+При создании столбца сотрудников можно **активизировать ползунок**, чтобы сотрудники получали [уведомление]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}), когда другие заносят их в столбец и таким образом назначают их в строку.
 
 ![Включить уведомления для сотрудников, добавленных в колонку сотрудников.](images/turn-on-notification-for-collaborateur-1.png)
 

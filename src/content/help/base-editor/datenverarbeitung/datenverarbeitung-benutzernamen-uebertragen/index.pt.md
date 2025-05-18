@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. A **transferência de nomes de utilizador** é uma operação que pode copiar dados de colunas do tipo [Empregado]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Criador](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) ou [Último Editor](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) para uma [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. A **transferência de nomes de utilizador** é uma operação que pode copiar dados de colunas do tipo [Empregado]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Criador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) para uma [coluna de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
 
 ## Pôr em prática a operação
 

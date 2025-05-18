@@ -22,7 +22,7 @@ En la **configuración de la página**, puede establecer en primer lugar la repr
 
 ![Ajuste gráfico de las líneas de tiempo en las aplicaciones universales](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Para definir el periodo de las entradas, necesita una [columna](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) de fecha para la **fecha de inicio**. Para la **fecha final**, puede utilizar otra columna de fecha u otra columna numérica[(número](https://seatable.io/es/docs/text-und-zahlen/die-zahlen-spalte/), [duración](https://seatable.io/es/docs/datum-dauer-und-personen/die-dauer-spalte/) o [fórmula](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/)) que especifique el número de días. También puede seleccionar el **lapso** de tiempo, es decir, cuántos años debe abarcar la línea de tiempo.
+Para definir el periodo de las entradas, necesita una [columna]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) o [fórmula](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/)) que especifique el número de días. También puede seleccionar el **lapso** de tiempo, es decir, cuántos años debe abarcar la línea de tiempo.
 
 ![Configuración de la página de la línea de tiempo en aplicaciones universales](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

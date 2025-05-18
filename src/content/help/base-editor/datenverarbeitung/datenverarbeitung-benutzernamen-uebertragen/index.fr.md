@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-La fonction de traitement des données permet d'effectuer diverses opérations sur une colonne. Le **transfert de noms d'utilisateurs** est une opération qui permet de copier des données de colonnes de type [employé]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [créateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) ou [dernier utilisateur](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) dans une [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
+La fonction de traitement des données permet d'effectuer diverses opérations sur une colonne. Le **transfert de noms d'utilisateurs** est une opération qui permet de copier des données de colonnes de type [employé]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [créateur]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) dans une [colonne de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/).
 
 ## Mise en place de l'opération
 

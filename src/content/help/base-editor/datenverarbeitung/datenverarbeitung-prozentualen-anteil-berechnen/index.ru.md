@@ -33,7 +33,7 @@ url: '/ru/help/datenverarbeitung-prozentualen-anteil-berechnen'
 
 Конкретный случай использования этой операции обработки данных может возникнуть, например, если вы собираете данные о количестве ежедневных обращений к веб-сайту и хотите выяснить, какую долю составляет **количество обращений за один день** от общего количества обращений за все дни. Для этого вы хотите рассчитать **процентное соотношение** количества ежедневных обращений в другом столбце.
 
-Для реализации сначала нужна таблица, в которой различные **дни** собраны в [столбце даты](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/), а **номера доступа** к сайту - в [столбце числа](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/).
+Для реализации сначала нужна таблица, в которой различные **дни** собраны в [столбце даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), а **номера доступа** к сайту - в [столбце числа](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/).
 
 ![Пример таблицы для приложения Вычислить процент](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

@@ -50,13 +50,13 @@ url: '/ru/help/die-status-zeile-und-ihre-funktionen'
     - Номер
     - Процент
     - Валюта
-- [Постоянные колонки](https://seatable.io/ru/docs/datum-dauer-und-personen/die-dauer-spalte/)
+- [Постоянные колонки]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Рейтинговые колонки](https://seatable.io/ru/docs/auswahlspalten/die-rating-spalte/)
 - Числовые значения в [столбцах формул](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/)
 
 Для следующих типов столбцов строка состояния **не** отражает вычисляемое значение, хотя они (могут) содержать числа:
 
-- [Колонки дат](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/)
-- [Создано](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) и [последний раз редактировалось](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Колонки дат]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Создано]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Автоматический номер](https://seatable.io/ru/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - Числа в [текстовых колонках](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)

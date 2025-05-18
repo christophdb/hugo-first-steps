@@ -18,7 +18,7 @@ O cabeçalho da página inicial contém quatro elementos. Estes são:
 
 - **Logótipo SeaTable** - clique para actualizar a página inicial.
 - **Campo de pesquisa** - permite-lhe procurar uma ou mais bases por nome.
-- **Campainha** - apresenta [notificações](https://seatable.io/pt/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) gerais.
+- **Campainha** - apresenta [notificações]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) gerais.
 - **Avatar** - abre um menu: Os limites actuais da equipa são apresentados aqui, bem como as ligações para as [definições pessoais](https://seatable.io/pt/docs/persoenliche-einstellungen/persoenliche-einstellungen/) e as [definições da equipa](https://seatable.io/pt/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/), se fores um administrador da equipa. O logout também está localizado aqui.
 
 ## Navegação da página

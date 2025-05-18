@@ -37,7 +37,7 @@ Saisissez maintenant le **nom** du nouveau formulaire web, qui sera également a
 
 Si vous cliquez sur l'**icône en forme de crayon** {{< seatable-icon icon="dtable-icon-rename" >}}, l'**éditeur de formulaire web** s'ouvre avec sa vue en deux parties : à gauche, le formulaire web est affiché en mode brouillon, dans lequel vous avez de nombreuses options pour éditer les champs du formulaire ; à droite se trouvent les **paramètres**.
 
-Il existe de nombreuses [possibilités de configuration](https://seatable.io/fr/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/) permettant d'adapter rapidement et facilement un formulaire web à vos souhaits et à vos idées.
+Il existe de nombreuses [possibilités de configuration]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}) permettant d'adapter rapidement et facilement un formulaire web à vos souhaits et à vos idées.
 
 Les **paramètres du formulaire web** à droite vous permettent de prendre les décisions suivantes :
 

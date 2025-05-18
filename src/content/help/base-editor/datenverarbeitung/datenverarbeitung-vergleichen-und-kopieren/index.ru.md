@@ -57,7 +57,11 @@ url: '/ru/help/datenverarbeitung-vergleichen-und-kopieren'
 
 ![Выбор столбцов из исходной таблицы, содержимое которых копируется в целевую таблицу, если выполняется условие соответствия.](images/select-columns-to-copy.png)
 
-{{< warning  headline="Остерегайтесь потери данных"  text="Колонки источника и результата должны иметь **одинаковый тип колонок**, чтобы данные не были потеряны при копировании. Например, можно скопировать данные из [столбца даты](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/) в [текстовый столбец](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), но тогда они уже не будут подходить для [календарей](https://seatable.io/ru/docs/plugins/anleitung-zum-kalender-plugin/). Поэтому перед выполнением операции создайте в целевой таблице столбец **результата** того же типа для каждого столбца **источника**, который вы хотите скопировать." />}}
+{{< warning  headline="Остерегайтесь потери данных" >}}
+
+Колонки источника и результата должны иметь **одинаковый тип колонок**, чтобы данные не были потеряны при копировании. Например, можно скопировать данные из [столбца даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) в [текстовый столбец](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), но тогда они уже не будут подходить для [календарей](https://seatable.io/ru/docs/plugins/anleitung-zum-kalender-plugin/). Поэтому перед выполнением операции создайте в целевой таблице столбец **результата** того же типа для каждого столбца **источника**, который вы хотите скопировать.
+
+{{< /warning >}}
 
 Если операция выполнена успешно, таблицы **сотрудники** и **открытые задания** проверяются на совпадение в определенных столбцах **имя** и **ответственный**. Если **имена** в столбцах обеих таблиц совпадают, **адрес электронной почты** соответствующего сотрудника автоматически копируется из определенного столбца **email** в результирующий столбец **contact**.
 
@@ -70,8 +74,8 @@ url: '/ru/help/datenverarbeitung-vergleichen-und-kopieren'
 Следующие типы столбцов **не могут** быть скопированы с помощью операции _сравнения и копирования_ и поэтому **недоступны** при определении столбцов источника и результата.
 
 - [Колонка множественного выбора](https://seatable.io/ru/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
-- [Колонка "Создатель](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [Колонка "Создано](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [Колонка "Последний редактор](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Последняя отредактированная колонка](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Колонка "Создатель]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [Колонка "Создано]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [Колонка "Последний редактор]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Последняя отредактированная колонка]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Кнопка]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

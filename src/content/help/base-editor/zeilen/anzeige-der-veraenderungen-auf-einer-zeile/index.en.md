@@ -30,4 +30,4 @@ By default, the **comments** and **logs** are hidden when you open the **row det
 
 ## Differences between rows- and base log
 
-The **rows log only gives you an overview of the changes in a specific** row. If you want to view all changes in a base instead, the [base log](https://seatable.io/en/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/) will help you.
+The **rows log only gives you an overview of the changes in a specific** row. If you want to view all changes in a base instead, the [base log]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) will help you.

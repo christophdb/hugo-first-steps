@@ -22,7 +22,7 @@ In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung d
 
 ![Grafische Einstellung der Zeitleisten in Universellen Apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) für das **Startdatum**. Für das **Enddatum** können Sie eine weitere Datum-Spalte oder eine andere numerische Spalte ([Zahl](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/), [Dauer](https://seatable.io/docs/datum-dauer-und-personen/die-dauer-spalte/) oder [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)) verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
+Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) oder [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)) verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
 
 ![Seiteneinstellungen der Zeitstrahlseite in Universellen Apps](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

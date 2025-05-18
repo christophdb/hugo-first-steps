@@ -16,8 +16,8 @@ The use of **number columns** allows you, for example, to **calculate values** t
 
 In addition, SeaTable offers other columns that sometimes better match your specified values.
 
-- Duration and periods = duration [column](https://seatable.io/en/docs/datum-dauer-und-personen/die-dauer-spalte/)
-- Date and times = [date column](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/)
+- Duration and periods = duration [column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
+- Date and times = [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - Geo information = [geo position column](https://seatable.io/en/docs/andere-spalten/die-geopositions-spalte/)
 
 ## Adding a number column

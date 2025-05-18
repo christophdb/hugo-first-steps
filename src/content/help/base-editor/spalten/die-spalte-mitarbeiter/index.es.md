@@ -30,7 +30,7 @@ Haga clic en el icono {{< seatable-icon icon="dtable-icon-add\_members" >}} para
 
 ## Notificación al empleado cuando se añade
 
-Al crear una columna de empleados, puede **activar** el **control deslizante** para que los empleados reciban una [notificación](https://seatable.io/es/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) cuando otros los introduzcan en la columna y así asignarlos a una fila.
+Al crear una columna de empleados, puede **activar** el **control deslizante** para que los empleados reciban una [notificación]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) cuando otros los introduzcan en la columna y así asignarlos a una fila.
 
 ![Activar las notificaciones a los miembros del personal añadidos a una columna de personal.](images/turn-on-notification-for-collaborateur-1.png)
 

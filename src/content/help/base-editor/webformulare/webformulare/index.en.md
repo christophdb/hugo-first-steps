@@ -37,7 +37,7 @@ Now enter the **name of** the new web form, which is also displayed in the form 
 
 Clicking the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}} opens the **web form editor** with its two-part view: on the left, the web form is displayed in draft mode, where you have numerous options for editing the form fields; on the right, there are the **settings**.
 
-There are numerous [configuration options](https://seatable.io/en/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/) to quickly and easily customize a web form to your needs and preferences.
+There are numerous [configuration options]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}) to quickly and easily customize a web form to your needs and preferences.
 
 Using the **web form settings** on the right, you can make the following choices:
 

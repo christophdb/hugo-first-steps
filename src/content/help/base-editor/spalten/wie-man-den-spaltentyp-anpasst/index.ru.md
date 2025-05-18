@@ -29,7 +29,7 @@ url: '/ru/help/wie-man-den-spaltentyp-anpasst'
 
 - [Текст](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Номер](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/)
-- [Дата](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/)
+- [Дата]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Одиночный выбор](https://seatable.io/ru/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
 - [Автоматический номер](https://seatable.io/ru/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - [Формула](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/)

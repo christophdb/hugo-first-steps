@@ -12,7 +12,11 @@ Le plug-in calendrier vous permet d'afficher les données d'un tableau sous form
 
 Il existe en tout 5 options d'affichage : Vous pouvez afficher les rendez-vous dans une **vue d'ensemble** calendaire **annuelle**, **mensuelle** ou **hebdomadaire**, dans un **planning journalier** ou sous forme d'**agenda** mensuel sous forme de liste.
 
-{{< warning  headline="Exigences"  text="Pour pouvoir utiliser la représentation du calendrier pour une vue de tableau, vous avez besoin d'au moins une [colonne de date]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}})." />}}
+{{< warning  headline="Exigences" >}}
+
+Pour pouvoir utiliser la représentation du calendrier pour une vue de tableau, vous avez besoin d'au moins une [colonne de date]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+
+{{< /warning >}}
 
 ## Paramètres du plugin calendrier
 

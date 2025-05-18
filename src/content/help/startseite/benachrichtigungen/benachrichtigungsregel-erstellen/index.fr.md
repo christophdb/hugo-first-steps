@@ -33,7 +33,7 @@ Commencez par **configurer les paramètres de base** de la nouvelle règle de no
 
 L'étape suivante consiste à définir un événement qui servira de **déclencheur** et déclenchera la règle de notification. Vous avez le choix entre les options suivantes : **des entrées** sont **ajoutées** ou **modifiées** ou **remplissent certaines conditions après une modification**.
 
-En outre, vous pouvez choisir comme déclencheur temporel que la **date limite d'une entrée approche**. Ce déclencheur n'est utilisable que s'il existe une [colonne de date](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) dans la vue de tableau sélectionnée. Vous pouvez alors définir **à partir de quand** et à **quelle fréquence** SeaTable envoie **des rappels**.
+En outre, vous pouvez choisir comme déclencheur temporel que la **date limite d'une entrée approche**. Ce déclencheur n'est utilisable que s'il existe une [colonne de date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) dans la vue de tableau sélectionnée. Vous pouvez alors définir **à partir de quand** et à **quelle fréquence** SeaTable envoie **des rappels**.
 
 En outre, selon le déclencheur, vous pouvez limiter le nombre de **colonnes surveillées** et/ou définir une **condition de filtrage** qui doit être remplie pour que le déclencheur soit déclenché.
 

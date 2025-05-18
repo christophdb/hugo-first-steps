@@ -30,7 +30,7 @@ Click on the {{< seatable-icon icon="dtable-icon-add\_members" >}} icon to add t
 
 ## Notification of the employee when adding
 
-When creating an employee column, you can **activate** the **slider** so that employees receive a [notification](https://seatable.io/en/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) when others enter them in the column and thus assign them to row .
+When creating an employee column, you can **activate** the **slider** so that employees receive a [notification]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) when others enter them in the column and thus assign them to row .
 
 ![Enable notifications to employees added to an employee column.](images/turn-on-notification-for-collaborateur-1.png)
 

@@ -52,7 +52,7 @@ url: '/ru/help/historie-und-logs'
 
 ![Изменения в журналах](images/Aenderungen-in-den-Logs.png)
 
-Для получения дополнительной информации о базовом журнале и подробных **инструкций о** том, как отменить изменения над ним, смотрите эту [статью справки](https://seatable.io/ru/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Для получения дополнительной информации о базовом журнале и подробных **инструкций о** том, как отменить изменения над ним, смотрите эту [статью справки]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 Для повышения отслеживаемости изменений строк в [памяти больших данных]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) SeaTable предлагает отдельный **журнал больших данных**. Однако этот журнал появляется только после активации памяти больших данных в базе.
 

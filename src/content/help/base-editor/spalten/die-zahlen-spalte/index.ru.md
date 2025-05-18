@@ -16,8 +16,8 @@ url: '/ru/help/die-zahlen-spalte'
 
 Кроме того, SeaTable предлагает другие колонки, которые иногда лучше подходят к заданным вами значениям.
 
-- Продолжительность и периоды = [колонка](https://seatable.io/ru/docs/datum-dauer-und-personen/die-dauer-spalte/) продолжительности
-- Дата и время = [колонка даты](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/)
+- Продолжительность и периоды = [колонка]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) продолжительности
+- Дата и время = [колонка даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - Геоинформация = [колонка геопозиции](https://seatable.io/ru/docs/andere-spalten/die-geopositions-spalte/)
 
 ## Добавление числового столбца

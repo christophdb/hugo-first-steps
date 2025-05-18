@@ -32,10 +32,10 @@ url: '/ru/help/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 
 SeaTable регистрирует все действия внутри базы в журнале. Этот журнал можно использовать для восстановления не только отдельных значений, но и строк, столбцов и таблиц.
 
-Подробнее о восстановлении данных через базовый журнал можно узнать [здесь](https://seatable.io/ru/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Подробнее о восстановлении данных через базовый журнал можно узнать [здесь]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 ## Восстановление моментальных снимков
 
 Если вы регулярно создаете моментальные снимки базы в SeaTable, вы можете восстановить ее как новую базу в любое время.
 
-Подробнее о восстановлении моментальных снимков можно узнать [здесь](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Подробнее о восстановлении моментальных снимков можно узнать [здесь]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

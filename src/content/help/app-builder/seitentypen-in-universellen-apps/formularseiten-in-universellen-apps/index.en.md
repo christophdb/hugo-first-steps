@@ -26,7 +26,7 @@ Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navi
 
 ## Formulare erstellen
 
-Über die **Seiteneinstellungen**, die Sie vielleicht schon aus dem [Webformular-Editor](https://seatable.io/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/) kennen, können Sie verschiedene **Elemente** und **Felder** per Drag-and-Drop zum Webformular hinzufügen. Neben den **Tabellenfeldern**, die den Spalten der ausgewählten Tabelle entsprechen, können Sie auch **horizontale Linien** und **Anmerkungen** hinzufügen.
+Über die **Seiteneinstellungen**, die Sie vielleicht schon aus dem [Webformular-Editor]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}) kennen, können Sie verschiedene **Elemente** und **Felder** per Drag-and-Drop zum Webformular hinzufügen. Neben den **Tabellenfeldern**, die den Spalten der ausgewählten Tabelle entsprechen, können Sie auch **horizontale Linien** und **Anmerkungen** hinzufügen.
 
 ![Seiteneinstellungen der Formularseite](images/Seiteneinstellungen-der-Formularseite.png)
 

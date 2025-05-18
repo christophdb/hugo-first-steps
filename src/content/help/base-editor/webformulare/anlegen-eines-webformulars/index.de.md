@@ -25,5 +25,12 @@ Mehr über [Webformulare]({{< relref "help/base-editor/webformulare/webformulare
 3. Geben Sie dem Formular einen **Namen** und bestätigen Sie mit **Abschicken**.
 4. Beim ersten Mal öffnet sich der **Webformular-Editor** von selbst. Beim nächsten Mal klicken Sie auf das **Stift-Icon** {{< seatable-icon icon="dtable-icon-rename" >}} rechts neben dem Formularnamen, um den Editor zu öffnen.
 5. Auf der rechten Seite haben Sie einige Möglichkeiten, die **Einstellungen**, den **Inhalt** und das **Aussehen** des Webformulars anzupassen. Ziehen Sie die Tabellenfelder per **Drag-and-Drop** in Ihren Entwurf oder klicken Sie auf das **Plus-Symbol** rechts neben dem Spaltennamen, um sie in das Formular einzubauen.
-   {{< warning  headline="Weiterführende Informationen"  text="Erfahren Sie im verlinkten Artikel mehr zu den [Konfigurationsmöglichkeiten](\"https://seatable.io/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/\")." />}}7. Klicken Sie auf die Schaltfläche **Webformular Seite** am oberen rechten Rand, um sich eine **Vorschau** anzeigen zu lassen.
-6. Klicken Sie auf die Schaltfläche **Freigeben** am oberen rechten Rand, um **Links** zu erstellen, die Sie an die Nutzer des Formulars versenden können.
+
+    {{< warning  headline="Weiterführende Informationen" >}}
+
+    Erfahren Sie im verlinkten Artikel mehr zu den [Konfigurationsmöglichkeiten]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}).
+
+    {{< /warning >}}
+
+6. Klicken Sie auf die Schaltfläche **Webformular Seite** am oberen rechten Rand, um sich eine **Vorschau** anzeigen zu lassen.
+7. Klicken Sie auf die Schaltfläche **Freigeben** am oberen rechten Rand, um **Links** zu erstellen, die Sie an die Nutzer des Formulars versenden können.

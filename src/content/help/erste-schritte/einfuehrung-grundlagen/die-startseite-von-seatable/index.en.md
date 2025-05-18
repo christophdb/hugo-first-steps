@@ -18,7 +18,7 @@ The header of the home page contains four elements. These are:
 
 - **SeaTable logo** - click to refresh the home page.
 - **Search field** - allows searching for one or more Bases by their names.
-- **Bell** - displays general [notifications](https://seatable.io/en/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/).
+- **Bell** - displays general [notifications]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}).
 - **Avatar** - opens a menu: The current team limits are displayed here, as well as links to the [personal settings](https://seatable.io/en/docs/persoenliche-einstellungen/persoenliche-einstellungen/) and the [team settings](https://seatable.io/en/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/) if you are a team administrator. The logout is also located here.
 
 ## Page navigation

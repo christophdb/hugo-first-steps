@@ -19,6 +19,6 @@ url: '/ru/help/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeiche
 
 Если вы хотите узнать больше о возможностях восстановления данных в SeaTable, следующие статьи, несомненно, помогут вам.
 
-- [Восстановление моментального снимка](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
-- [Отмена изменений через журналы](https://seatable.io/ru/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/)
-- [Смысл и назначение уведомлений в SeaTable](https://seatable.io/ru/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/)
+- [Восстановление моментального снимка]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
+- [Отмена изменений через журналы]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}})
+- [Смысл и назначение уведомлений в SeaTable]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}})

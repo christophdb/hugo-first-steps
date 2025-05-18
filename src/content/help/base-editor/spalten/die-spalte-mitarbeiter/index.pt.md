@@ -30,7 +30,7 @@ Clique no ícone {{< seatable-icon icon="dtable-icon-add\_members" >}} para adic
 
 ## Notificação do trabalhador ao acrescentar
 
-Ao criar uma coluna de empregados, é possível **ativar** a **barra deslizante** para que os empregados recebam uma [notificação](https://seatable.io/pt/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) quando outros os introduzem na coluna e, assim, os atribuem a uma linha.
+Ao criar uma coluna de empregados, é possível **ativar** a **barra deslizante** para que os empregados recebam uma [notificação]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) quando outros os introduzem na coluna e, assim, os atribuem a uma linha.
 
 ![Habilitar notificações aos membros do pessoal acrescentadas a uma coluna de pessoal.](images/turn-on-notification-for-collaborateur-1.png)
 

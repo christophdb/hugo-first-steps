@@ -51,4 +51,4 @@ Um Diskussionen dort zu führen, wo sie hingehören, können Sie jeden Tabellene
 
 ## Benachrichtigungen
 
-Mithilfe der [Benachrichtigungen](https://seatable.io/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) innerhalb von SeaTable sind Sie und Ihre Teammitglieder jederzeit über die wichtigsten Neuigkeiten und Veränderungen in Ihrem Arbeitsbereich (z. B. Freigaben und Kommentare) informiert.
+Mithilfe der [Benachrichtigungen]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) innerhalb von SeaTable sind Sie und Ihre Teammitglieder jederzeit über die wichtigsten Neuigkeiten und Veränderungen in Ihrem Arbeitsbereich (z. B. Freigaben und Kommentare) informiert.

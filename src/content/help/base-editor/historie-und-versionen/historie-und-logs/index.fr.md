@@ -52,7 +52,7 @@ Dans un journal de base, vous trouverez les dernières modifications apportées 
 
 ![Changements dans les logs](images/Aenderungen-in-den-Logs.png)
 
-Vous trouverez plus d'informations sur le journal de base et **des instructions** détaillées sur la manière d'annuler les modifications à ce sujet dans cet [article d'aide](https://seatable.io/fr/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Vous trouverez plus d'informations sur le journal de base et **des instructions** détaillées sur la manière d'annuler les modifications à ce sujet dans cet [article d'aide]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 Afin d'améliorer la traçabilité des modifications apportées aux lignes dans la [mémoire Big Data]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}), SeaTable propose un **journal Big Data** séparé. Ce journal n'apparaît toutefois que lorsque la mémoire Big Data est activée dans la base.
 

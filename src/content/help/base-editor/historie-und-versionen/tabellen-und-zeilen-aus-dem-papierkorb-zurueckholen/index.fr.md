@@ -32,7 +32,7 @@ Vous avez bien entendu la possibilité d'annuler vos dernières modifications. P
 
 Des sauvegardes automatiques de ma base sont-elles effectuées ?|||
 
-Oui, lorsque des modifications sont apportées à une base, un **snapshot** de la base est créé chaque jour, que vous pouvez ensuite restaurer. Pour plus d'informations, voir [Enregistrement de la base actuelle sous forme de snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) et [Restauration d'un snapshot](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Oui, lorsque des modifications sont apportées à une base, un **snapshot** de la base est créé chaque jour, que vous pouvez ensuite restaurer. Pour plus d'informations, voir [Enregistrement de la base actuelle sous forme de snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) et [Restauration d'un snapshot]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 
 ---
 

@@ -37,7 +37,7 @@ Introduzca ahora el **nombre** del nuevo formulario web, que también se mostrar
 
 Haciendo clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}} se abre el **editor de formularios web** con su vista en dos partes: a la izquierda se muestra el formulario web en modo borrador, donde dispone de numerosas opciones para editar los campos del formulario; a la derecha están los **ajustes**.
 
-Existen numerosas [opciones de configuración](https://seatable.io/es/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/) para adaptar rápida y fácilmente un formulario web a sus deseos e ideas.
+Existen numerosas [opciones de configuración]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}) para adaptar rápida y fácilmente un formulario web a sus deseos e ideas.
 
 Puede realizar las siguientes elecciones utilizando la **configuración del formulario** web de la derecha:
 

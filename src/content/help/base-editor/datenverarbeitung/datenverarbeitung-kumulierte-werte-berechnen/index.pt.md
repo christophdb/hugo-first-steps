@@ -33,7 +33,7 @@ A primeira vez que é executado com sucesso, um pequeno **carrapato verde**.
 
 Poderá ocorrer um caso concreto de utilização para esta operação de processamento de dados, por exemplo, se quiser recolher o número de acessos diários a um sítio web na sua tabela. Para tal, pretende **somar** os **números de acesso de** cada dia individual, que são registados numa [coluna de números](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/) existente, de linha a linha numa nova coluna.
 
-Para a implementação, é necessário primeiro um quadro em que os diferentes **dias** são recolhidos numa [coluna de datas](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) e os **números de acesso** ao website numa [coluna de números](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/).
+Para a implementação, é necessário primeiro um quadro em que os diferentes **dias** são recolhidos numa [coluna de datas]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) e os **números de acesso** ao website numa [coluna de números](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/).
 
 ![Tabela de exemplo para o caso de utilização Calcular valores acumulados](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

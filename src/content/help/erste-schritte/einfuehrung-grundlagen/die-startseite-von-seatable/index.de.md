@@ -18,7 +18,7 @@ Die Kopfzeile der Startseite enthält vier Elemente. Diese sind:
 
 - **SeaTable-Logo** - bei einem Klick wird die Startseite aktualisiert.
 - **Suchfeld** - ermöglicht die Suche nach einer oder mehreren Bases über deren Namen.
-- **Glocke** - zeigt allgemeine [Benachrichtigungen](https://seatable.io/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) an.
+- **Glocke** - zeigt allgemeine [Benachrichtigungen]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) an.
 - **Avatar** - öffnet ein Menü: Hier werden die aktuellen Team-Limits angezeigt sowie Links zu den [persönlichen Einstellungen](https://seatable.io/docs/persoenliche-einstellungen/persoenliche-einstellungen/) und den [Team-Einstellungen](https://seatable.io/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/), wenn Sie ein Team-Administrator sind. Auch der Logout befindet sich hier.
 
 ## Seitennavigation

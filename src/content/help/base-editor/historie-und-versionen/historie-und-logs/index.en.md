@@ -52,7 +52,7 @@ In a base log you will find the latest changes that have been made to the corres
 
 ![Changes in the logs](images/Aenderungen-in-den-Logs.png)
 
-For more information about the base log and detailed **instructions on** how to undo changes above it, see this [help article](https://seatable.io/en/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+For more information about the base log and detailed **instructions on** how to undo changes above it, see this [help article]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 To increase the traceability of changes to rows in the [big data storage]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}), SeaTable offers a separate **big data log**. However, this log only appears as soon as the big data storage is activated in the base.
 

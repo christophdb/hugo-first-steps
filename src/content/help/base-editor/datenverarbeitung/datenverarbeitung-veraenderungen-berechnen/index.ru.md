@@ -33,7 +33,7 @@ url: '/ru/help/datenverarbeitung-veraenderungen-berechnen'
 
 Конкретным примером использования этой операции по обработке данных может быть, например, сбор данных о количестве ежедневных посещений веб-сайта и выяснение того, как изменилось **количество посещений** за период между двумя измерениями. Для этого нужно вычислить **разницу** между числами доступа в другом столбце.
 
-Для реализации сначала нужна таблица, в которой различные **дни** собраны в [столбце даты](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/), а **номера доступа** к сайту - в [столбце числа](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/).
+Для реализации сначала нужна таблица, в которой различные **дни** собраны в [столбце даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), а **номера доступа** к сайту - в [столбце числа](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/).
 
 ![Пример таблицы для случая использования Вычислить изменения](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

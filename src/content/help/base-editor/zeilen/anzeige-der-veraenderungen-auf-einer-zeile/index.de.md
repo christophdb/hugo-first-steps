@@ -29,4 +29,4 @@ Standardmäßig sind die **Kommentare** und **Logs** ausgeblendet, wenn Sie die 
 
 ## Unterschiede zwischen Zeilen- und Base-Log
 
-Das **Zeilen-Log** liefert Ihnen nur eine Übersicht über die Änderungen in einer speziellen Zeile. Wenn Sie sich stattdessen sämtliche Änderungen in einer Base ansehen wollen, hilft Ihnen das [Base-Log](https://seatable.io/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/) weiter.
+Das **Zeilen-Log** liefert Ihnen nur eine Übersicht über die Änderungen in einer speziellen Zeile. Wenn Sie sich stattdessen sämtliche Änderungen in einer Base ansehen wollen, hilft Ihnen das [Base-Log]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) weiter.

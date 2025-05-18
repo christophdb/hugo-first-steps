@@ -52,7 +52,7 @@ In einem Base-Log finden Sie die jüngsten Änderungen, die an der entsprechende
 
 ![Änderungen in den Logs](images/Aenderungen-in-den-Logs.png)
 
-Weitere Informationen über das Base-Log und eine detaillierte **Anleitung**, wie Sie darüber Änderungen rückgängig machen können, finden Sie in diesem [Hilfe-Artikel](https://seatable.io/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Weitere Informationen über das Base-Log und eine detaillierte **Anleitung**, wie Sie darüber Änderungen rückgängig machen können, finden Sie in diesem [Hilfe-Artikel]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 Um die Nachvollziehbarkeit von Änderungen an Zeilen im [Big-Data-Speicher]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) zu erhöhen, bietet SeaTable ein separates **Big Data Log**. Dieses Log kommt aber erst zum Vorschein, sobald der Big-Data-Speicher in der Base aktiviert ist.
 

@@ -32,10 +32,10 @@ Learn more about base recovery [here](https://seatable.io/en/docs/historie-und-v
 
 SeaTable logs all activities within a base in a log. This log can be used to restore not only individual values, but also rows, columns and tables.
 
-Learn more about recovering data via the base log [here](https://seatable.io/en/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Learn more about recovering data via the base log [here]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 ## Restore snapshots
 
 If you regularly take snapshots of a base in SeaTable, you can restore it as a new base at any time.
 
-Learn more about restoring snapshots [here](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Learn more about restoring snapshots [here]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

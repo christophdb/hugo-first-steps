@@ -19,6 +19,6 @@ Of course, SeaTable permanently stores the information you enter. At the same ti
 
 If you want to learn more about data recovery options in SeaTable, the following articles will definitely help you.
 
-- [Restoring a snapshot](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
-- [Undoing changes via the logs](https://seatable.io/en/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/)
-- [Sense and purpose of notifications in SeaTable](https://seatable.io/en/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/)
+- [Restoring a snapshot]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
+- [Undoing changes via the logs]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}})
+- [Sense and purpose of notifications in SeaTable]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}})

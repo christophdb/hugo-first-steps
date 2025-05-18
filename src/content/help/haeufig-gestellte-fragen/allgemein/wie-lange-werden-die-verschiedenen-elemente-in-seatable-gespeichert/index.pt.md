@@ -19,6 +19,6 @@ Naturalmente, SeaTable armazena permanentemente a informação que introduz. Ao 
 
 Se quiser saber mais sobre as possibilidades de recuperação de dados no SeaTable, os seguintes artigos irão certamente ajudá-lo.
 
-- [Restauração de um instantâneo](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
-- [Desfazer alterações através dos registos](https://seatable.io/pt/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/)
-- [Sentido e objectivo das notificações em SeaTable](https://seatable.io/pt/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/)
+- [Restauração de um instantâneo]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
+- [Desfazer alterações através dos registos]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}})
+- [Sentido e objectivo das notificações em SeaTable]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}})

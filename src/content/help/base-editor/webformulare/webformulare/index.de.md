@@ -37,7 +37,7 @@ Geben Sie nun den **Namen** des neuen Webformulars ein, der auch in der Formular
 
 Wenn Sie auf das **Stift-Icon** {{< seatable-icon icon="dtable-icon-rename" >}} klicken, öffnet sich der **Webformular-Editor** mit seiner zweigeteilten Ansicht: Links wird das Webformular im Entwurfsmodus angezeigt, in dem Sie zahlreiche Optionen zur Bearbeitung der Formularfelder haben; rechts befinden sich die **Einstellungen**.
 
-Es gibt zahlreiche [Konfigurationsmöglichkeiten](https://seatable.io/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/), um ein Webformular schnell und einfach an Ihre Wünsche und Vorstellungen anzupassen.
+Es gibt zahlreiche [Konfigurationsmöglichkeiten]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}), um ein Webformular schnell und einfach an Ihre Wünsche und Vorstellungen anzupassen.
 
 Über die **Webformular-Einstellungen** rechts können Sie die folgenden Entscheidungen treffen:
 

@@ -33,7 +33,7 @@ Lors de la première exécution réussie, une petite icône apparaît dans la ma
 
 Un cas d'application concret de cette opération de traitement des données pourrait par exemple se présenter si vous souhaitez relever le nombre de visites quotidiennes d'un site web dans votre tableau. Pour ce faire, vous souhaitez **additionner** ligne par ligne, dans une nouvelle [colonne](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/), les **chiffres de fréquentation** de chaque jour enregistrés dans une [colonne de chiffres](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/) existante.
 
-Pour la mise en œuvre, vous avez d'abord besoin d'un tableau dans lequel les différents **jours** sont relevés dans une [colonne de dates](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) et le **nombre de visites** sur le site dans une [colonne de chiffres](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/).
+Pour la mise en œuvre, vous avez d'abord besoin d'un tableau dans lequel les différents **jours** sont relevés dans une [colonne de dates]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) et le **nombre de visites** sur le site dans une [colonne de chiffres](https://seatable.io/fr/docs/text-und-zahlen/die-zahlen-spalte/).
 
 ![Exemple de tableau pour le cas d'utilisation Calculer les valeurs cumulées](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

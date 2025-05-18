@@ -33,7 +33,7 @@ En primer lugar se realizan **los ajustes básicos para** la nueva regla de noti
 
 En el siguiente paso, se define un evento que sirve de **desencadenante** y **activa** la regla de notificación. Puede elegir entre las opciones de que se **añadan** o **modifiquen** **entradas** o de que se **cumplan determinadas condiciones tras una modificación**.
 
-Además, puede seleccionar como desencadenante temporal que se **acerca la fecha límite de una entrada**. Este disparador sólo puede utilizarse si hay una [columna de fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) en la vista de tabla seleccionada. A continuación, puede definir a partir de **cuándo** y **con qué frecuencia** SeaTable envía **recordatorios**.
+Además, puede seleccionar como desencadenante temporal que se **acerca la fecha límite de una entrada**. Este disparador sólo puede utilizarse si hay una [columna de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) en la vista de tabla seleccionada. A continuación, puede definir a partir de **cuándo** y **con qué frecuencia** SeaTable envía **recordatorios**.
 
 Además, en función del activador, puede limitar el número de **columnas supervisadas** y/o establecer una **condición de filtro** que deba cumplirse para que se active el activador.
 

@@ -50,7 +50,7 @@ Using this page type you can display **images** that you have saved in an [image
 
 ## Page type: Calendar
 
-This page type works something like the [calendar plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kalender-plugin/) and allows you to display the entries from one or two [date columns of](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) your table in a **calendar**. For example, a concrete use case could be the calendar display of upcoming **meetings**.
+This page type works something like the [calendar plugin]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) your table in a **calendar**. For example, a concrete use case could be the calendar display of upcoming **meetings**.
 
 ![Upcoming meetings in a calendar view of the calendar page](images/calendar-page-example.png)
 

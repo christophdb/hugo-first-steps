@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/die-dauer-spalte'
 ---
 
-The **duration column** is particularly suitable for recording the duration of various events. It can record a **period of time** to the minute or even to the second. For example, the duration column can be used in conjunction with a [date](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) column for recording working hours.
+The **duration column** is particularly suitable for recording the duration of various events. It can record a **period of time** to the minute or even to the second. For example, the duration column can be used in conjunction with a [date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) column for recording working hours.
 
 ![Application example for a duration column](images/Die-Dauer-Spalte-1.png)
 

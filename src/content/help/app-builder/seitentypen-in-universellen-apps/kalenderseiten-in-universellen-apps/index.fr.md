@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/kalenderseiten-in-universellen-apps'
 ---
 
-Ce type de page de l'application universelle fonctionne de la même manière que le [plug-in](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/) de [calendrier](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/) dans la base et vous permet d'afficher les entrées d'une ou deux [colonnes de dates](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) de votre tableau dans un **calendrier**. Une application concrète pourrait être, par exemple, la représentation calendaire de **réunions** à venir.
+Ce type de page de l'application universelle fonctionne de la même manière que le [plug-in]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) de votre tableau dans un **calendrier**. Une application concrète pourrait être, par exemple, la représentation calendaire de **réunions** à venir.
 
 ![Réunions à venir dans une vue de calendrier de la page de calendrier](images/calendar-page-example.png)
 
@@ -50,7 +50,7 @@ Indépendamment de la date, vous pouvez également cliquer sur le grand **symbol
 
 ## Modifier et déplacer des entrées de calendrier
 
-Vous pouvez modifier les entrées du calendrier très facilement en **cliquant sur une entrée** et en effectuant les modifications souhaitées dans les **détails de la ligne** qui s'ouvrent. De plus, vous pouvez facilement **déplacer** les entrées du calendrier **par glisser-déposer**. SeaTable ajuste automatiquement les valeurs dans [les colonnes de date](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) correspondantes.
+Vous pouvez modifier les entrées du calendrier très facilement en **cliquant sur une entrée** et en effectuant les modifications souhaitées dans les **détails de la ligne** qui s'ouvrent. De plus, vous pouvez facilement **déplacer** les entrées du calendrier **par glisser-déposer**. SeaTable ajuste automatiquement les valeurs dans [les colonnes de date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) correspondantes.
 
 ![Déplacer et modifier des entrées sur les pages du calendrier](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
 

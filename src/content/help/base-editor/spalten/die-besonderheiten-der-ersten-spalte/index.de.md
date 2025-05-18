@@ -16,7 +16,7 @@ Die **erste Spalte** einer Tabelle weist in SeaTable im Vergleich zu den anderen
 - Die erste Spalte einer Tabelle können Sie im Gegensatz zu den anderen Spalten **nicht verschieben**.
 - Die erste Spalte einer Tabelle können Sie im Gegensatz zu den anderen Spalten **nicht löschen**.
 - Im Gegensatz zu den anderen Spalten können Sie die erste Spalte aber individuell **fixieren**.
-- Die erste Spalte unterstützt nur die **Spaltentypen** [Text](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), [Zahl](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/), [Datum](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/), [Einfachauswahl](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) und [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/).
+- Die erste Spalte unterstützt nur die **Spaltentypen** [Text]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), [Einfachauswahl](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) und [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/).
 
 ## Wie Sie den Typ der ersten Spalte anpassen
 
@@ -34,7 +34,7 @@ Für die **erste Spalte** stehen lediglich **sechs Spaltentypen** zur Auswahl:
 
 - [Text](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Zahl](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/)
-- [Datum](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/)
+- [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Einfachauswahl](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
 - [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)

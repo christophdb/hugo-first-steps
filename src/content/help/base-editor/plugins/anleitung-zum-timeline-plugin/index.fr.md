@@ -14,7 +14,7 @@ Lisez l'article [Activer un plugin dans une base]({{< relref "help/base-editor/p
 
 ## Fonctionnement du plug-in Timeline
 
-Le plugin Timeline représente **des périodes de temps**. C'est pourquoi vous avez besoin, pour cette représentation, **de deux** [colonnes de dates](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) dans un tableau qui définissent le **début** et la **fin** d'un cadre temporel.
+Le plugin Timeline représente **des périodes de temps**. C'est pourquoi vous avez besoin, pour cette représentation, **de deux** [colonnes de dates]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) dans un tableau qui définissent le **début** et la **fin** d'un cadre temporel.
 
 ## Comment utiliser le plugin de ligne de temps
 
@@ -40,4 +40,4 @@ Comme on peut le voir dans la vidéo ci-dessus, il est également possible de cr
 
 1. Cliquez sur l'**icône +** à droite du titre de votre première ligne de temps.
 2. Donnez un **nom** à la ligne de temps et confirmez en cliquant sur **Envoyer**.
-3. Dans les **paramètres** {{< seatable-icon icon="dtable-icon-set-up" >}}, déterminez à quelle [vue du tableau]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) et à quelles [colonnes de dates](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/) la nouvelle ligne de temps doit se référer.
+3. Dans les **paramètres** {{< seatable-icon icon="dtable-icon-set-up" >}}, déterminez à quelle [vue du tableau]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) et à quelles [colonnes de dates]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) la nouvelle ligne de temps doit se référer.

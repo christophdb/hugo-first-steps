@@ -30,7 +30,7 @@ Klicken Sie auf das Symbol {{< seatable-icon icon="dtable-icon-add\_members" >}}
 
 ## Benachrichtigung des Mitarbeiters beim Hinzufügen
 
-Beim Anlegen einer Mitarbeiter-Spalte können Sie den **Regler aktivieren**, dass Mitarbeiter eine [Benachrichtigung](https://seatable.io/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) erhalten, wenn andere sie in die Spalte eintragen und damit einer Zeile zuordnen.
+Beim Anlegen einer Mitarbeiter-Spalte können Sie den **Regler aktivieren**, dass Mitarbeiter eine [Benachrichtigung]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) erhalten, wenn andere sie in die Spalte eintragen und damit einer Zeile zuordnen.
 
 ![Aktivierung von Benachrichtigungen an Mitarbeiter, die zu einer Mitarbeiter-Spalte hinzugefügt werden.](images/turn-on-notification-for-collaborateur-1.png)
 

@@ -26,7 +26,7 @@ Se pretender alterar as definições de uma página, clique no **símbolo da rod
 
 ## Criar formulários
 
-Utilizando as **definições de página**, com as quais já deve estar familiarizado a partir do [editor de formulários Web](https://seatable.io/pt/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/), pode adicionar vários **elementos** e **campos** ao formulário Web utilizando a função arrastar e largar. Para além dos **campos de tabela** que correspondem às colunas da tabela selecionada, também é possível adicionar **linhas horizontais** e **anotações**.
+Utilizando as **definições de página**, com as quais já deve estar familiarizado a partir do [editor de formulários Web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}), pode adicionar vários **elementos** e **campos** ao formulário Web utilizando a função arrastar e largar. Para além dos **campos de tabela** que correspondem às colunas da tabela selecionada, também é possível adicionar **linhas horizontais** e **anotações**.
 
 ![Definições da página do formulário](images/Seiteneinstellungen-der-Formularseite.png)
 

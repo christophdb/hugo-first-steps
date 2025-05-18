@@ -25,5 +25,12 @@ Puede leer más sobre [formularios web]({{< relref "help/base-editor/webformular
 3. Dé un **nombre** al formulario y confirme con **Enviar**.
 4. La primera vez que lo hagas, el editor **de formularios web** se abrirá automáticamente. La próxima vez, haz clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}} a la derecha del nombre del formulario para abrir el editor.
 5. En la parte derecha tienes algunas opciones para personalizar la **configuración**, el **contenido** y la **apariencia** del formulario web. **Arrastra y suelta** los campos de la tabla en tu diseño o haz clic en el **símbolo más** a la derecha del nombre de la columna para incorporarlos al formulario.
-   {{< warning  headline="Para más información"  text="Obtenga más información sobre las [opciones de configuración](https://seatable.io/es/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/) en el artículo enlazado." />}}7. Haga clic en el botón de la **página del formulario** web en la esquina superior derecha para mostrar una **vista previa**.
-6. Haga clic en el botón **Compartir** de la parte superior derecha para crear **enlaces** que podrá enviar a los usuarios del formulario.
+
+    {{< warning  headline="Para más información" >}}
+
+    Obtenga más información sobre las [opciones de configuración]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}) en el artículo enlazado.
+
+    {{< /warning >}}
+
+6. Haga clic en el botón de la **página del formulario** web en la esquina superior derecha para mostrar una **vista previa**.
+7. Haga clic en el botón **Compartir** de la parte superior derecha para crear **enlaces** que podrá enviar a los usuarios del formulario.

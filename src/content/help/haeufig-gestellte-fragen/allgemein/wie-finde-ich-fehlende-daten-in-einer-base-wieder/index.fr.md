@@ -32,10 +32,10 @@ Apprenez-en plus sur la restauration des bases [ici](https://seatable.io/fr/docs
 
 SeaTable consigne toutes les activités au sein d'une base dans un journal. Celui-ci permet de récupérer non seulement des valeurs individuelles, mais aussi des lignes, des colonnes et des tableaux.
 
-Apprenez-en plus sur la récupération des données via le journal de base [ici](https://seatable.io/fr/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Apprenez-en plus sur la récupération des données via le journal de base [ici]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 ## Restauration de snapshots
 
 Si vous faites régulièrement des snapshots d'une base dans SeaTable, vous pouvez les restaurer à tout moment en tant que nouvelle base.
 
-Apprenez-en plus sur la restauration de snapshots [ici](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Apprenez-en plus sur la restauration de snapshots [ici]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

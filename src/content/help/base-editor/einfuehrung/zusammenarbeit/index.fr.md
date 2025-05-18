@@ -51,4 +51,4 @@ Pour que les discussions se déroulent là où elles doivent se dérouler, vous 
 
 ## Notifications
 
-Les [notifications de](https://seatable.io/fr/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) SeaTable vous permettent, à vous et aux membres de votre équipe, d'être informés à tout moment des nouveautés et des changements les plus importants dans votre espace de travail (par exemple, les partages et les commentaires).
+Les [notifications de]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) SeaTable vous permettent, à vous et aux membres de votre équipe, d'être informés à tout moment des nouveautés et des changements les plus importants dans votre espace de travail (par exemple, les partages et les commentaires).

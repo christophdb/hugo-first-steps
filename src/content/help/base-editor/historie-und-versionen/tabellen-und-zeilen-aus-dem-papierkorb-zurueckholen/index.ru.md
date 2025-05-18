@@ -32,7 +32,7 @@ url: '/ru/help/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
 
 Создаются ли автоматические резервные копии моей базы?|||
 
-Да, когда в базу вносятся изменения, ежедневно создается так называемый **снимок** базы, который затем можно восстановить. Для получения более подробной информации см. разделы [Сохранение текущей базы в виде моментального снимка]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) и [Восстановление моментального снимка](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Да, когда в базу вносятся изменения, ежедневно создается так называемый **снимок** базы, который затем можно восстановить. Для получения более подробной информации см. разделы [Сохранение текущей базы в виде моментального снимка]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) и [Восстановление моментального снимка]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 
 ---
 

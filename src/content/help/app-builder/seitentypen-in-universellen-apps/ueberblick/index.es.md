@@ -50,7 +50,7 @@ Con la ayuda de este tipo de página, puede mostrar **imágenes** que haya guard
 
 ## Tipo de página: Calendario
 
-Este tipo de página funciona de forma similar al [plugin de calendario](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/) y le permite mostrar las entradas de una o dos [columnas de fecha de](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) su tabla en un **calendario**. Un caso de uso concreto podría ser, por ejemplo, la visualización en el calendario de las próximas **reuniones**.
+Este tipo de página funciona de forma similar al [plugin de calendario]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) su tabla en un **calendario**. Un caso de uso concreto podría ser, por ejemplo, la visualización en el calendario de las próximas **reuniones**.
 
 ![Próximas reuniones en una vista de calendario de la página de calendario](images/calendar-page-example.png)
 

@@ -30,4 +30,4 @@ Por defeito, os **comentários** e **registos** são ocultados quando se abrem o
 
 ## Diferenças entre o registo de linha e o registo de base
 
-O **registo de linha** apenas lhe dá uma visão geral das alterações numa linha específica. Se, em vez disso, quiser ver todas as alterações de uma base, o [registo de base](https://seatable.io/pt/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/) ajudá-lo-á.
+O **registo de linha** apenas lhe dá uma visão geral das alterações numa linha específica. Se, em vez disso, quiser ver todas as alterações de uma base, o [registo de base]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) ajudá-lo-á.

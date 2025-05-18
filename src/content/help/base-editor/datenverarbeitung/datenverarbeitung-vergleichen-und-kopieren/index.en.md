@@ -57,7 +57,11 @@ In the next step, you can select any number of source columns from the **employe
 
 ![Selection of columns from the source table whose contents will be copied to the target table if the match condition is true.](images/select-columns-to-copy.png)
 
-{{< warning  headline="Beware of data loss"  text="The source and result columns should have **the same column type** so that no data is lost during copying. For example, you can copy data from a [date column](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) to a [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), but it will no longer be suitable for [calendars](https://seatable.io/en/docs/plugins/anleitung-zum-kalender-plugin/). So, before performing the operation, create a **result** column of the same type in the destination table for each **source** column you want to copy." />}}
+{{< warning  headline="Beware of data loss" >}}
+
+The source and result columns should have **the same column type** so that no data is lost during copying. For example, you can copy data from a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) to a [text column](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), but it will no longer be suitable for [calendars](https://seatable.io/en/docs/plugins/anleitung-zum-kalender-plugin/). So, before performing the operation, create a **result** column of the same type in the destination table for each **source** column you want to copy.
+
+{{< /warning >}}
 
 When the operation is successfully executed, the **employees** and **open tasks** tables are checked for matches in the defined **name** and **responsible** columns. If the **names** in the columns of both tables match, the **e-mail address of** the corresponding employee is automatically copied from the defined column **e-mail** **to** the result column **contact**.
 
@@ -70,8 +74,8 @@ When the operation is successfully executed, the **employees** and **open tasks*
 The following column types **cannot** be copied using the _Compare and copy_ operation and are therefore **not** available when defining the source and result columns.
 
 - [Multiple selection column](https://seatable.io/en/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
-- [The Creator column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [The Created column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [The Last editor column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [The Last Edited column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [The Creator column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [The Created column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [The Last editor column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [The Last Edited column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

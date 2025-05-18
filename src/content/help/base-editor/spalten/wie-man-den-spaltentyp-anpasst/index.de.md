@@ -30,7 +30,7 @@ Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 25 Spaltentypen**
 
 - [Text](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Zahl](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/)
-- [Datum](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/)
+- [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Einfachauswahl](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
 - [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)

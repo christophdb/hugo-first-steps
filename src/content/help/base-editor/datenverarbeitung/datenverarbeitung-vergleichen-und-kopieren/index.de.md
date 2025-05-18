@@ -47,7 +47,7 @@ Im nächsten Schritt können Sie eine beliebige Anzahl an Quellspalten aus der T
 
 {{< warning  type="warning" headline="Achtung vor Datenverlust" >}}
 
-Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
+Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) in eine [Text-Spalte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
 
 {{< /warning >}}
 
@@ -55,15 +55,19 @@ Bei erfolgreicher Ausführung der Operation werden die Tabellen **employees** un
 
 ![In die Ziel-Tabelle kopierte Inhalte nach der Auslösung der Datenverarbeitungsaktion](images/table-after-data-processing-operation-2.png)
 
-{{< warning  headline="Hinweis"  text="Um eine leichte Verständlichkeit zu ermöglichen, haben wir uns im Anwendungsfall dazu entschieden, lediglich **eine Spalte** mithilfe der Datenverarbeitungsoperation zu kopieren. Um die Wirkung zu erhöhen, können Sie selbstverständlich auch eine größere Anzahl an Quell- und Ergebnisspalten auswählen." />}}
+{{< warning  headline="Hinweis" >}}
+
+Um eine leichte Verständlichkeit zu ermöglichen, haben wir uns im Anwendungsfall dazu entschieden, lediglich **eine Spalte** mithilfe der Datenverarbeitungsoperation zu kopieren. Um die Wirkung zu erhöhen, können Sie selbstverständlich auch eine größere Anzahl an Quell- und Ergebnisspalten auswählen.
+
+{{< /warning >}}
 
 ## Nicht unterstützte Spaltentypen
 
 Folgende Spaltentypen können Sie mithilfe der Operation _Vergleichen und kopieren_ **nicht** kopieren und stehen Ihnen dementsprechend bei der Definition der Quell- und Ergebnisspalten **nicht** zur Verfügung.
 
 - [Mehrfachauswahl-Spalte](https://seatable.io/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
-- [Die Spalte Ersteller](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [Die Spalte Erstellt](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/)
-- [Die Spalte Letzter Bearbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Die Spalte Zuletzt bearbeitet](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Die Spalte Ersteller]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [Die Spalte Erstellt]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
+- [Die Spalte Letzter Bearbeiter]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Die Spalte Zuletzt bearbeitet]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Schaltfläche]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

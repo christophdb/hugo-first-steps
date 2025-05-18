@@ -30,4 +30,4 @@ Par défaut, les **commentaires** et **les logs** sont masqués lorsque vous ouv
 
 ## Différences entre le log de ligne et le log de base
 
-Le **journal de ligne** ne vous donne qu'un aperçu des modifications dans une ligne spécifique. Si vous souhaitez plutôt voir toutes les modifications dans une base, le [journal de base](https://seatable.io/fr/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/) vous aidera.
+Le **journal de ligne** ne vous donne qu'un aperçu des modifications dans une ligne spécifique. Si vous souhaitez plutôt voir toutes les modifications dans une base, le [journal de base]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) vous aidera.

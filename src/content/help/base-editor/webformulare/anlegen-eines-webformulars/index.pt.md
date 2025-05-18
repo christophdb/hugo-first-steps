@@ -25,5 +25,12 @@ Pode ler mais sobre [formulários web]({{< relref "help/base-editor/webformulare
 3. Dar um **nome** ao formulário e confirmar com **Submeter**.
 4. Da primeira vez que o fizer, o **editor de formulários Web** abre-se automaticamente. Da próxima vez, clique no **ícone de lápis** {{< seatable-icon icon="dtable-icon-rename" >}} à direita do nome do formulário para abrir o editor.
 5. No lado direito tem algumas opções para personalizar as **configurações**, **conteúdo** e **aparência do** formulário web. **Arraste e largue** os campos da tabela no seu desenho ou clique no **símbolo mais** à direita do nome da coluna para os incorporar no formulário.
-   {{< warning  headline="Mais informações"  text="Saiba mais sobre as [opções de configuração](https://seatable.io/pt/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/) no artigo ligado." />}}7. Clique no botão da **página do formulário Web** no canto superior direito para visualizar uma **pré-visualização**.
-6. Clique no botão **Partilhar** no canto superior direito para criar **ligações** que pode enviar aos utilizadores do formulário.
+
+    {{< warning  headline="Mais informações" >}}
+
+    Saiba mais sobre as [opções de configuração]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}) no artigo ligado.
+
+    {{< /warning >}}
+
+6. Clique no botão da **página do formulário Web** no canto superior direito para visualizar uma **pré-visualização**.
+7. Clique no botão **Partilhar** no canto superior direito para criar **ligações** que pode enviar aos utilizadores do formulário.

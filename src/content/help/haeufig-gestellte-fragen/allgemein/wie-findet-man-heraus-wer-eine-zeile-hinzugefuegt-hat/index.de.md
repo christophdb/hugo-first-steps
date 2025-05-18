@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 ---
 
-Sie möchten herausfinden, **wer** eine Zeile hinzugefügt hat? Dann legen Sie eine Spalte des Typs [Ersteller](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) an. Hier steht unveränderlich der **Name des Benutzers**, der die Spalte erstellt hat.
+Sie möchten herausfinden, **wer** eine Zeile hinzugefügt hat? Dann legen Sie eine Spalte des Typs [Ersteller]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/) an. Hier steht unveränderlich der **Name des Benutzers**, der die Spalte erstellt hat.
 
 ## Die Ersteller-Spalte anlegen
 
@@ -17,10 +17,14 @@ Sie möchten herausfinden, **wer** eine Zeile hinzugefügt hat? Dann legen Sie e
 3. Wählen Sie den Spaltentyp **Ersteller** aus.
 4. Klicken Sie auf **Abschicken**.
 
-![Wie man herausfindet wer eine Zeile hinzugefügt hat.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat-1.png)
+![Wie man herausfindet wer eine Zeile hinzugefügt hat.](images/Wie-findet-man-heraus-wer-eine-Zeile-hinzugefuegt-hat.png)
 
 ## Weitere Zeilendetails über Spalten anzeigen
 
 Zudem können Sie über weitere Spaltentypen anzeigen lassen, _wann_ eine Zeile **erstellt** und **zuletzt bearbeitet** wurde und _wer_ sie als **Letzter Bearbeiter** geändert hat.
 
-{{< warning headline="Hinweis" text="Neben dem Spaltentyp **Ersteller** sind auch die Inhalte der Spalten **Erstellt**, [Letzter Bearbeiter und Zuletzt bearbeitet](\"https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/\") unveränderlich." />}}
+{{< warning headline="Hinweis" >}}
+
+Neben dem Spaltentyp **Ersteller** sind auch die Inhalte der Spalten **Erstellt**, [Letzter Bearbeiter und Zuletzt bearbeitet]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) unveränderlich.
+
+{{< /warning >}}

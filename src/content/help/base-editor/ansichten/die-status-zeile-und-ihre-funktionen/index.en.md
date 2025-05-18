@@ -50,13 +50,13 @@ For the following column types, the statusrow reflects a calculated value:
     - Number
     - Percent
     - Currency
-- [Permanent columns](https://seatable.io/en/docs/datum-dauer-und-personen/die-dauer-spalte/)
+- [Permanent columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Rating columns](https://seatable.io/en/docs/auswahlspalten/die-rating-spalte/)
 - Numerical values in [formula columns](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/)
 
 For the following column types, the status-row **does not** reflect a calculated value, although they (may) contain numbers:
 
-- [Date columns](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/)
-- [Created](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) and [Last Edited](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Created]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - Numbers in [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)

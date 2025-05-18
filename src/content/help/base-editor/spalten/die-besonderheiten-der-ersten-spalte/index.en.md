@@ -16,7 +16,7 @@ The **first column** of a table in SeaTable has several special features and res
 - Unlike the other columns, you **cannot move** the first column of a table.
 - Unlike the other columns, you **cannot delete** the first column of a table.
 - In contrast to the other columns, however, you can **fix** the first column individually.
-- The first column supports only [Text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/), [Number](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/), [Date](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/), [Single Select](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), [Auto Number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) and [Formula](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/) column **types**.
+- The first column supports only [Text]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), [Single Select](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), [Auto Number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) and [Formula](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/) column **types**.
 
 ## How to customize the type of the first column
 
@@ -34,7 +34,7 @@ There are only **six column types** to choose from for the **first** **column**:
 
 - [Text](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Number](https://seatable.io/en/docs/text-und-zahlen/die-zahlen-spalte/)
-- [Date](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/)
+- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Single selection](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
 - [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - [Formula](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/)

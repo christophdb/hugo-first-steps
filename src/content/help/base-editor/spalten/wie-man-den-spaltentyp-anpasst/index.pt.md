@@ -29,7 +29,7 @@ A **primeira coluna** de uma tabela suporta **apenas 6 dos 25 tipos de coluna**.
 
 - [Texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
 - [Número](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/)
-- [Data](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/)
+- [Data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - [Selecção única](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
 - [Número automático](https://seatable.io/pt/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - [Fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/)

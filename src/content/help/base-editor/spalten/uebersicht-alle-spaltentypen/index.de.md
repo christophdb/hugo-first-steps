@@ -206,7 +206,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-creator" >}} **Letzter Bearbeiter**
 
 SeaTable dokumentiert in der Spalte Letzter Bearbeiter automatisch den **Namen des Benutzers**, der die **letzte Änderung** an einem Eintrag vorgenommen hat. Da die Spalte automatisch Änderungen an Einträgen erfasst, eignet sie sich zum Beispiel gut als Trigger für Automationen sowie für Filter und Sortierungen.
 
-[Mehr zur Spalte Letzter Bearbeiter](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-bearbeitungssatumt/)
+[Mehr zur Spalte Letzter Bearbeiter]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-bearbeitungssatumt/)
 
 ### Bearbeitungsdatum
 

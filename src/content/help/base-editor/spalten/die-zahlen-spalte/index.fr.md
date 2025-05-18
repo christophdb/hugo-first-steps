@@ -16,8 +16,8 @@ L'utilisation de **colonnes de chiffres** vous permet par exemple de **calculer 
 
 En outre, SeaTable propose d'autres colonnes qui correspondent parfois mieux aux valeurs que vous avez indiquées.
 
-- Durée et périodes = [colonne durée](https://seatable.io/fr/docs/datum-dauer-und-personen/die-dauer-spalte/)
-- Date et points de temps = [colonne date](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/)
+- Durée et périodes = [colonne durée]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
+- Date et points de temps = [colonne date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - Informations géographiques = [colonne de géopositionnement](https://seatable.io/fr/docs/andere-spalten/die-geopositions-spalte/)
 
 ## Ajouter une colonne de chiffres

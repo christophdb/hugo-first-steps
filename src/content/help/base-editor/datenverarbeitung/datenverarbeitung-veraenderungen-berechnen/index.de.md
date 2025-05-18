@@ -1,11 +1,11 @@
 ---
-title: "Datenverarbeitung: Veränderungen berechnen"
+title: 'Datenverarbeitung: Veränderungen berechnen'
 date: 2023-03-16
-lastmod: "2023-03-16"
-categories: 
-  - "datenverarbeitung"
-author: "nsc2"
-url: "/de/hilfe/datenverarbeitung-veraenderungen-berechnen"
+lastmod: '2023-03-16'
+categories:
+    - 'datenverarbeitung'
+author: 'nsc2'
+url: '/de/hilfe/datenverarbeitung-veraenderungen-berechnen'
 ---
 
 Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Eine Operation stellt dabei die **Berechnung von Veränderungen** dar, mit der Sie in einer numerischen Spalte die Veränderungen von Wert zu Wert berechnen können. Definieren Sie hierfür einfach eine entsprechende Datenverarbeitungsoperation über die Ansichtsoptionen Ihrer Tabelle.
@@ -17,15 +17,15 @@ Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über ei
 1. Öffnen Sie eine beliebige **Tabelle** und klicken Sie auf die **drei Punkte** in den Ansichtsoptionen.
 2. Klicken Sie auf **Datenverarbeitung** und im Anschluss auf **Datenverarbeitungsoperation hinzufügen**.
 3. Geben Sie der Operation einen **Namen** und wählen Sie **Veränderungen berechnen** aus.
-![Benennung der Datenverarbeitungsaktion und Auswahl des Operationstyps](images/name-operation-and-select-operation-type-example-delta.jpg)5. Definieren Sie **Tabelle**, **Ansicht**, **Quellspalte** und **Ergebnisspalte**.
-![Definition der Datenverarbeitungsaktion](images/define-action-example-delta-1.png)7. Klicken Sie auf **Speichern**, um die Aktion zu speichern und später auszuführen, oder auf **Ausführen**, um die Aktion direkt auszuführen.
-Bei der ersten erfolgreichen Ausführung erscheint am unteren linken Rand ein kleiner **grüner Haken**. ![Bei erfolgreicher erster Ausführung der Datenverarbeitungsaktion erscheint ein grüner Haken](images/gruener-haken-zur-bestaetigung-der-ersten-ausfuehrung.jpg)
+   ![Benennung der Datenverarbeitungsaktion und Auswahl des Operationstyps](images/name-operation-and-select-operation-type-example-delta.jpg)5. Definieren Sie **Tabelle**, **Ansicht**, **Quellspalte** und **Ergebnisspalte**.
+   ![Definition der Datenverarbeitungsaktion](images/define-action-example-delta-1.png)7. Klicken Sie auf **Speichern**, um die Aktion zu speichern und später auszuführen, oder auf **Ausführen**, um die Aktion direkt auszuführen.
+   Bei der ersten erfolgreichen Ausführung erscheint am unteren linken Rand ein kleiner **grüner Haken**. ![Bei erfolgreicher erster Ausführung der Datenverarbeitungsaktion erscheint ein grüner Haken](images/gruener-haken-zur-bestaetigung-der-ersten-ausfuehrung.jpg)
 
 ## Anwendungsfall
 
 Ein konkreter Anwendungsfall für diese Datenverarbeitungs-operation könnte beispielsweise auftreten, wenn Sie die Anzahl der täglichen Zugriffe auf eine Website erheben und herausfinden möchten, wie sich die **Zugriffszahlen** im Zeitraum zwischen zwei Messungen verändert haben. Hierfür möchten Sie die **Differenz** zwischen den Zugriffszahlen in einer weiteren Spalte berechnen.
 
-Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/) erhoben werden.
+Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte](https://seatable.io/docs/text-und-zahlen/die-zahlen-spalte/) erhoben werden.
 
 ![Beispieltabelle für den Anwendungsfall Veränderungen berechnen](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

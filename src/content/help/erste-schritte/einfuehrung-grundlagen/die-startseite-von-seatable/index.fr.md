@@ -18,7 +18,7 @@ L'en-tête de la page d'accueil contient quatre éléments. Il s'agit des élém
 
 - **Logo SeaTable** - en cliquant, la page d'accueil est actualisée
 - **Champ de recherche** - permet de rechercher une ou plusieurs bases par leur nom.
-- **Cloche** - indique [les notifications](https://seatable.io/fr/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) générales.
+- **Cloche** - indique [les notifications]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) générales.
 - **Avatar** - ouvre un menu : Les limites actuelles de l'équipe sont affichées ici, ainsi que des liens vers les [paramètres personnels](https://seatable.io/fr/docs/persoenliche-einstellungen/persoenliche-einstellungen/) et les [paramètres de l'équipe](https://seatable.io/fr/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/), si vous êtes administrateur de l'équipe. La déconnexion se trouve également ici.
 
 ## Navigation sur les pages

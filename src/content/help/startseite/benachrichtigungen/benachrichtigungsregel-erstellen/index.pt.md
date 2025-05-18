@@ -33,7 +33,7 @@ Primeiro faz-se a **configuração básica para a** nova regra de notificação.
 
 No passo seguinte, define-se um evento que serve de **gatilho** e **desencadeia** a regra de notificação. Pode escolher entre as opções que as **entradas** são **acrescentadas** ou **alteradas** ou que **certas condições são cumpridas após uma alteração**.
 
-Além disso, pode seleccionar como gatilho temporal que o **prazo de uma entrada se está a aproximar**. Este gatilho só pode ser utilizado se houver uma [coluna de datas](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) na vista da tabela seleccionada. Poderá então definir de **quando** e **com que frequência** o SeaTable envia **lembretes**.
+Além disso, pode seleccionar como gatilho temporal que o **prazo de uma entrada se está a aproximar**. Este gatilho só pode ser utilizado se houver uma [coluna de datas]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) na vista da tabela seleccionada. Poderá então definir de **quando** e **com que frequência** o SeaTable envia **lembretes**.
 
 Além disso, dependendo do gatilho, pode limitar o número de **colunas monitorizadas** e/ou definir uma **condição de filtro** que deve ser preenchida para que o gatilho seja accionado.
 

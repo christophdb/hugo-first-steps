@@ -30,4 +30,4 @@ Por defecto, los **comentarios** y **registros** están ocultos al abrir los **d
 
 ## Diferencias entre tronco de línea y tronco de base
 
-El registro de **líneas** sólo te da una visión general de los cambios en una línea específica. Si en cambio quieres ver todos los cambios en una base, el registro de [bases](https://seatable.io/es/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/) te ayudará.
+El registro de **líneas** sólo te da una visión general de los cambios en una línea específica. Si en cambio quieres ver todos los cambios en una base, el registro de [bases]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}) te ayudará.

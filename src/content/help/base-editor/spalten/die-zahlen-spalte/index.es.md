@@ -16,8 +16,8 @@ El uso de **columnas numéricas** le permite, por ejemplo, **calcular valores** 
 
 Además, SeaTable ofrece otras columnas que a veces se ajustan mejor a sus valores dados.
 
-- Duración y periodos = [columna de](https://seatable.io/es/docs/datum-dauer-und-personen/die-dauer-spalte/) duración
-- Fecha y hora = [columna de fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/)
+- Duración y periodos = [columna de]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) duración
+- Fecha y hora = [columna de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
 - Geoinformación = [Columna de geoposición](https://seatable.io/es/docs/andere-spalten/die-geopositions-spalte/)
 
 ## Añadir una columna numérica

@@ -49,13 +49,13 @@ Os detalhes podem ser encontrados no artigo de ajuda correspondente [Acções de
 
 SeaTable regista todas as actividades dentro de uma base num tronco. Este registo pode ser utilizado para restaurar não só valores individuais, mas também linhas, colunas e tabelas. Os registos permitem visualizar as alterações com mais detalhe e desfazer mais do que através do caixote do lixo da reciclagem.
 
-Para mais informações, ver o artigo [Desfazer Alterações através dos Registos](https://seatable.io/pt/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Para mais informações, ver o artigo [Desfazer Alterações através dos Registos]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 ## 5\. recuperação através de instantâneos
 
 Um instantâneo guarda um instantâneo de uma base, ou seja, todas as tabelas, vistas, estatísticas e formulários que estão presentes numa base num determinado momento. SeaTable cria um instantâneo a cada 24 horas para Bases que tenham sido trabalhadas activamente - mas também se pode criar instantâneos manualmente. Pode ver os instantâneos e restaurar as versões anteriores.
 
-Para mais informações, ver os artigos [Salvar a base actual como um instantâneo]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) e [Restaurar um instantâneo](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Para mais informações, ver os artigos [Salvar a base actual como um instantâneo]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) e [Restaurar um instantâneo]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 
 {{< warning  headline="Cuidado com a perda de dados"  text="SeaTable **não** armazena o conteúdo da Lixeira, dados de registo e instantâneos indefinidamente. O período de tempo em que a SeaTable mantém esta informação eliminada **depende da sua subscrição**. As alterações feitas no passado, mais do que o período de versões da sua subscrição, **não podem** ser desfeitas. Os instantâneos mais antigos serão eliminados." />}}
 

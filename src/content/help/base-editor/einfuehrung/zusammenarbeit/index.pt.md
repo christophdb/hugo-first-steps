@@ -51,4 +51,4 @@ Para manter as discussões onde elas pertencem, pode [comentar sobre]({{< relref
 
 ## Notificações
 
-Com a ajuda de [notificações](https://seatable.io/pt/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) dentro da SeaTable, você e os membros da sua equipa são sempre informados sobre as notícias e alterações mais importantes no seu espaço de trabalho (por exemplo, aprovações e comentários).
+Com a ajuda de [notificações]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) dentro da SeaTable, você e os membros da sua equipa são sempre informados sobre as notícias e alterações mais importantes no seu espaço de trabalho (por exemplo, aprovações e comentários).

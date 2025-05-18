@@ -51,4 +51,4 @@ To keep discussions where they belong, you can [comment on]({{< relref "help/bas
 
 ## Notifications
 
-Using [notifications](https://seatable.io/en/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) within SeaTable, you and your team members are always informed about the most important news and changes in your workspace (e.g. shares and comments).
+Using [notifications]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) within SeaTable, you and your team members are always informed about the most important news and changes in your workspace (e.g. shares and comments).

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/reimport-von-gemeinsamen-datensaetzen'
 ---
 
-Si vous [copiez]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) ou [restaurez](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) à partir de [snapshots](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) des **bases** dans lesquelles des enregistrements communs sont intégrés, la **connexion aux enregistrements communs** est perdue. Les données sont alors disponibles dans une table normale, mais ne peuvent plus être synchronisées. C'est pourquoi vous pouvez **réimporter** les ensembles de données partagés dans des tables existantes et permettre ainsi la **synchronisation** avec les données qui s'y trouvent.
+Si vous [copiez]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) ou [restaurez]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) des **bases** dans lesquelles des enregistrements communs sont intégrés, la **connexion aux enregistrements communs** est perdue. Les données sont alors disponibles dans une table normale, mais ne peuvent plus être synchronisées. C'est pourquoi vous pouvez **réimporter** les ensembles de données partagés dans des tables existantes et permettre ainsi la **synchronisation** avec les données qui s'y trouvent.
 
 ## Comment reconnecter une table à un enregistrement commun
 

@@ -49,13 +49,13 @@ Encontrará más detalles en el artículo de ayuda correspondiente [Deshacer acc
 
 SeaTable registra todas las actividades dentro de una base en un registro. Este registro puede utilizarse para restaurar no sólo valores individuales, sino también filas, columnas y tablas. Los registros permiten ver los cambios con más detalle y deshacer más que a través de la papelera de reciclaje.
 
-Para más información, consulte el artículo [Deshacer cambios a través de los registros](https://seatable.io/es/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Para más información, consulte el artículo [Deshacer cambios a través de los registros]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 ## 5\. recuperación mediante instantáneas
 
 Una instantánea guarda una instantánea de una base, es decir, todas las tablas, vistas, estadísticas y formularios que están presentes en una base en un momento determinado. SeaTable crea una instantánea cada 24 horas para las Bases en las que se ha trabajado activamente - pero también puede crear instantáneas manualmente. Puedes ver las instantáneas y restaurar las versiones anteriores.
 
-Para más información, consulta los artículos [Guardar la base actual como instantánea]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) y [Restaurar una instantánea](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Para más información, consulta los artículos [Guardar la base actual como instantánea]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) y [Restaurar una instantánea]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 
 {{< warning  headline="Cuidado con la pérdida de datos"  text="SeaTable **no** almacena indefinidamente el contenido de la Papelera de Reciclaje, los datos de registro y las instantáneas. El tiempo que SeaTable conserva esta información eliminada **depende de su suscripción**. Los cambios realizados en una fecha anterior al periodo de versionado de su suscripción **no pueden** deshacerse. Las instantáneas antiguas se eliminarán." />}}
 

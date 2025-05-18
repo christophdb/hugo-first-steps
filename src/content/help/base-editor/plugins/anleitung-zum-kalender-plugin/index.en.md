@@ -12,7 +12,11 @@ The calendar plugin shows you data from a table in **calendar form.** You can ge
 
 There are 5 display options in total: You can display appointments in a calendar **yearly**, **monthly** or **weekly overview**, in the **daily planner** or as a monthly **agenda** in list form.
 
-{{< warning  headline="Requirements"  text="To use the calendar display for a table view, you need at least one [date column]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}})." />}}
+{{< warning  headline="Requirements" >}}
+
+To use the calendar display for a table view, you need at least one [date column]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+
+{{< /warning >}}
 
 ## Calendar plugin settings
 

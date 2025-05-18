@@ -50,13 +50,13 @@ Bei den folgenden Spaltentypen gibt die Status-Zeile einen berechneten Wert wied
     - Zahl
     - Prozent
     - Währung
-- [Dauer-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-dauer-spalte/)
+- [Dauer-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
 - [Rating-Spalten](https://seatable.io/docs/auswahlspalten/die-rating-spalte/)
 - Zahlenwerte in [Formel-Spalten](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)
 
 Bei den folgenden Spaltentypen gibt die Status-Zeile **keinen** berechneten Wert wieder, obwohl sie Zahlen enthalten (können):
 
-- [Datum-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/)
-- [Erstellt](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/) und [Zuletzt bearbeitet](https://seatable.io/docs/datum-dauer-und-personen/die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Erstellt]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
 - [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/)
 - Zahlen in [Text-Spalten](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)

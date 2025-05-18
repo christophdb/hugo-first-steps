@@ -12,7 +12,11 @@ El complemento de calendario muestra los datos de una tabla en **forma de calend
 
 Hay un total de 5 opciones de visualización: Puede visualizar las citas en una **vista general** **anual**, **mensual** o **semanal** del calendario, en la **agenda diaria** o como **agenda** mensual en forma de lista.
 
-{{< warning  headline="Requisitos"  text="Para utilizar la visualización de calendario para una vista de tabla, necesita al menos una [columna de fecha]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}})." />}}
+{{< warning  headline="Requisitos" >}}
+
+Para utilizar la visualización de calendario para una vista de tabla, necesita al menos una [columna de fecha]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+
+{{< /warning >}}
 
 ## Configuración del plugin de calendario
 

@@ -10,7 +10,7 @@ url: '/de/hilfe/mehrere-kalender-fuer-eine-base-anlegen'
 
 Indem Sie **mehrere Kalender** in einer Base anlegen, können Sie spezifische Termine in unterschiedlichen Kalendern speichern. Beispielsweise können Sie einzelne Kalender für unterschiedliche Projekte anlegen. Wenn Sie in einer Base mit mehreren Personen zusammenarbeiten, kann jedes Teammitglied individuelle Kalender erstellen.
 
-Um mehrere Kalender anzulegen, benötigen Sie entweder **mehrere Tabellen** oder eine Tabelle mit verschiedenen [Ansichten]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) oder eine Tabelle mit verschiedenen [Datum-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/).
+Um mehrere Kalender anzulegen, benötigen Sie entweder **mehrere Tabellen** oder eine Tabelle mit verschiedenen [Ansichten]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) oder eine Tabelle mit verschiedenen [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/).
 
 ## Wie Sie im Kalender-Plugin weitere Kalender anlegen
 

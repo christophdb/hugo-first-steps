@@ -18,7 +18,7 @@ url: '/ru/help/die-startseite-von-seatable'
 
 - **Логотип SeaTable** - нажмите, чтобы обновить главную страницу.
 - **Поле поиска** - позволяет искать одну или несколько баз по названию.
-- **Звонок** - отображение общих [уведомлений](https://seatable.io/ru/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/).
+- **Звонок** - отображение общих [уведомлений]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}).
 - **Аватар** - открывает меню: Здесь отображаются текущие лимиты команды, а также ссылки на [личные настройки](https://seatable.io/ru/docs/persoenliche-einstellungen/persoenliche-einstellungen/) и [настройки команды](https://seatable.io/ru/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/), если вы являетесь администратором команды. Выход из системы также находится здесь.
 
 ## Навигация по страницам

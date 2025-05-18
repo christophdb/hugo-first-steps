@@ -1,11 +1,11 @@
 ---
-title: "Wie lange werden die verschiedenen Elemente in SeaTable gespeichert?"
+title: 'Wie lange werden die verschiedenen Elemente in SeaTable gespeichert?'
 date: 2023-03-02
-lastmod: "2023-03-02"
-categories: 
-  - "haeufig-gestellte-fragen"
-author: "cdb"
-url: "/de/hilfe/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert"
+lastmod: '2023-03-02'
+categories:
+    - 'haeufig-gestellte-fragen'
+author: 'cdb'
+url: '/de/hilfe/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert'
 ---
 
 Selbstverständlich speichert SeaTable die von Ihnen eingegebenen Daten dauerhaft ab. Gleichzeitig gibt es aber gewisse Informationen, die nicht dauerhaft von SeaTable aufbewahrt werden. Hier findet eine regelmäßige Bereinigung des Loggings statt. Die folgende Liste gibt Ihnen einen Überblick über die Mindest-Speicherzeit der verschiedenen Elemente in SeaTable an.
@@ -19,6 +19,6 @@ Selbstverständlich speichert SeaTable die von Ihnen eingegebenen Daten dauerhaf
 
 Wenn Sie mehr über die Möglichkeiten der Datenwiederherstellung in SeaTable erfahren wollen, helfen Ihnen bestimmt die folgenden Artikel.
 
-- [Wiederherstellung eines Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/)
-- [Änderungen über die Logs rückgängig machen](https://seatable.io/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/)
-- [Sinn und Zweck von Benachrichtigungen in SeaTable](https://seatable.io/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/)
+- [Wiederherstellung eines Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
+- [Änderungen über die Logs rückgängig machen]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}})
+- [Sinn und Zweck von Benachrichtigungen in SeaTable]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}})

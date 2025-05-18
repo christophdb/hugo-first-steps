@@ -22,7 +22,7 @@ Nas **definições da página**, pode começar por definir a representação gr�
 
 ![Definição gráfica das linhas de tempo em aplicações universais](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Para definir o período das entradas, é necessária uma [coluna de data](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) para a **data de início**. Para a **data final**, pode utilizar outra coluna de data ou outra coluna numérica[(número](https://seatable.io/pt/docs/text-und-zahlen/die-zahlen-spalte/), [duração](https://seatable.io/pt/docs/datum-dauer-und-personen/die-dauer-spalte/) ou [fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/)) que especifique o número de dias. Também é possível selecionar o **período de tempo**, ou seja, quantos anos a cronologia deve abranger.
+Para definir o período das entradas, é necessária uma [coluna de data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) ou [fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/)) que especifique o número de dias. Também é possível selecionar o **período de tempo**, ou seja, quantos anos a cronologia deve abranger.
 
 ![Definições de página da página da linha de tempo em aplicações universais](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

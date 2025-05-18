@@ -49,13 +49,13 @@ Vous trouverez des détails dans l'article d'aide correspondant [Annuler des act
 
 SeaTable consigne toutes les activités au sein d'une base dans un journal. Celui-ci permet de restaurer non seulement des valeurs individuelles, mais aussi des lignes, des colonnes et des tableaux. Les journaux permettent donc de voir les modifications de manière plus détaillée et d'en annuler davantage que la corbeille.
 
-Pour plus d'informations, consultez l'article [Annuler les modifications via les logs](https://seatable.io/fr/docs/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen/).
+Pour plus d'informations, consultez l'article [Annuler les modifications via les logs]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
 ## 5\. restauration à l'aide de snapshots
 
 Un snapshot enregistre un instantané d'une base, c'est-à-dire toutes les tables, vues, statistiques et formulaires présents dans une base à un moment donné. SeaTable crée un snapshot toutes les 24 heures pour les bases dans lesquelles un travail actif a été effectué - mais vous pouvez aussi créer des snapshots manuellement. Vous pouvez afficher les snapshots et restaurer les versions précédentes.
 
-Pour en savoir plus, consultez les articles [Enregistrer la base actuelle en tant que snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) et [Restaurer un snapshot](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Pour en savoir plus, consultez les articles [Enregistrer la base actuelle en tant que snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) et [Restaurer un snapshot]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 
 {{< warning  headline="Attention à la perte de données"  text="SeaTable ne conserve **pas** le contenu de la corbeille, les données du journal et les instantanés pour une durée illimitée. La durée pendant laquelle SeaTable conserve ces informations supprimées **dépend de votre abonnement**. Les modifications effectuées dans un passé plus lointain que la durée de versionnage de votre abonnement ne peuvent **pas** être annulées. Les snapshots plus anciens sont supprimés." />}}
 

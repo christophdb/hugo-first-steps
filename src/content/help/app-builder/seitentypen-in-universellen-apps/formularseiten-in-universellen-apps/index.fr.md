@@ -26,7 +26,7 @@ Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigatio
 
 ## Créer des formulaires
 
-Les **paramètres de page**, que vous connaissez peut-être déjà grâce à l'[éditeur de formulaires web](https://seatable.io/fr/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/), vous permettent d'ajouter différents **éléments** et **champs** au formulaire web par simple glisser-déposer. Outre les **champs de tableau** correspondant aux colonnes du tableau sélectionné, vous pouvez également ajouter **des lignes horizontales** et **des annotations**.
+Les **paramètres de page**, que vous connaissez peut-être déjà grâce à l'[éditeur de formulaires web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}), vous permettent d'ajouter différents **éléments** et **champs** au formulaire web par simple glisser-déposer. Outre les **champs de tableau** correspondant aux colonnes du tableau sélectionné, vous pouvez également ajouter **des lignes horizontales** et **des annotations**.
 
 ![Paramètres de la page du formulaire](images/Seiteneinstellungen-der-Formularseite.png)
 

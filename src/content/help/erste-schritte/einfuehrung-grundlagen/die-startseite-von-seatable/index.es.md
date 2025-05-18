@@ -18,7 +18,7 @@ La cabecera de la página de inicio contiene cuatro elementos. Éstos son:
 
 - **Logotipo de SeaTable** - haga clic para actualizar la página de inicio.
 - **Campo de búsqueda**: permite buscar una o varias bases por su nombre.
-- **Timbre** - muestra [notificaciones](https://seatable.io/es/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) generales.
+- **Timbre** - muestra [notificaciones]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) generales.
 - **Avatar** - abre un menú: Aquí se muestran los límites actuales del equipo, así como enlaces a la [configuración personal](https://seatable.io/es/docs/persoenliche-einstellungen/persoenliche-einstellungen/) y a la [configuración del equipo](https://seatable.io/es/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/) si eres administrador del mismo. El cierre de sesión también se encuentra aquí.
 
 ## Navegación por la página

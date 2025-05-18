@@ -25,5 +25,12 @@ You can learn more about [web forms]({{< relref "help/base-editor/webformulare/w
 3. Give the form a **name** and confirm with **Submit**.
 4. The first time you do this, the **web form editor** opens automatically. The next time, click on the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}} to the right of the form name to open the editor.
 5. On the right side, you have a few options to customize the **settings**, **content**, and **appearance of** the web form. **Drag and drop** the table fields into your design or click the **plus** icon to the right of the column name to include them in the form.
-   {{< warning  headline="Further information"  text="Learn more about the [configuration options](https://seatable.io/en/docs/webformulare/konfigurationsmoeglichkeiten-und-optische-anpassungen-eines-webformulars/) in the linked article." />}}7. Click on the **Web form page** button in the top right-hand corner to display a **preview**.
-6. Click on the **Share** button at the top right to create **links** that you can send to the users of the form.
+
+    {{< warning  headline="Further information" >}}
+
+    Learn more about the [configuration options]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}) in the linked article.
+
+    {{< /warning >}}
+
+6. Click on the **Web form page** button in the top right-hand corner to display a **preview**.
+7. Click on the **Share** button at the top right to create **links** that you can send to the users of the form.

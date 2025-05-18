@@ -20,7 +20,7 @@ Un **plugin** es un componente de software opcional en SeaTable que le ofrece op
 
 ## Plugin de calendario
 
-En el complemento de calendario, puede mostrar los datos de una [columna](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/) de fecha en una **vista de** **año**, **mes**, **semana**, **día** o **agenda**. También puede utilizar dos columnas de fecha para mostrar **intervalos de tiempo** y mantener así una visión general de todas las fechas importantes, etc.
+En el complemento de calendario, puede mostrar los datos de una [columna]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) de fecha en una **vista de** **año**, **mes**, **semana**, **día** o **agenda**. También puede utilizar dos columnas de fecha para mostrar **intervalos de tiempo** y mantener así una visión general de todas las fechas importantes, etc.
 
 ![](images/Calendar.png)
 

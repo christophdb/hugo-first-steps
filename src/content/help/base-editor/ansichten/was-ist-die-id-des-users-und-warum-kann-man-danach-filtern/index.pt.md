@@ -10,7 +10,7 @@ url: '/pt/ajuda/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 O ID de utilizador é melhor descrito como um **número de identificação pessoal**. O ID de utilizador é único dentro da equipa e pertence sempre a um membro da equipa.
 
-Com a ajuda do ID do utilizador, é possível definir **filtros dinâmicos** no SeaTable, que em determinadas situações são mais adequados do que um filtro de acordo com a [coluna do criador](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalten-ersteller-und-erstellt/). Neste artigo, apresentamos as vantagens e desvantagens dos filtros com o ID do utilizador.
+Com a ajuda do ID do utilizador, é possível definir **filtros dinâmicos** no SeaTable, que em determinadas situações são mais adequados do que um filtro de acordo com a [coluna do criador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). Neste artigo, apresentamos as vantagens e desvantagens dos filtros com o ID do utilizador.
 
 Se quiser saber como alterar o ID de utilizador de um membro da equipa, [encontrará a resposta neste artigo de ajuda](https://seatable.io/pt/docs/teamverwaltung-abonnement/aenderung-der-id-des-users-in-der-teamverwaltung/).
 

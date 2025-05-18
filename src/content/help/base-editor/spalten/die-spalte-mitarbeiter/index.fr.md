@@ -30,7 +30,7 @@ Cliquez sur l'icône {{< seatable-icon icon="dtable-icon-add\_members" >}} pour 
 
 ## Notification de l'employé lors de l'ajout
 
-Lors de la création d'une colonne d'employés, vous pouvez **activer** le **curseur** pour que les employés reçoivent une [notification](https://seatable.io/fr/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) lorsque d'autres les inscrivent dans la colonne et les affectent ainsi à une ligne.
+Lors de la création d'une colonne d'employés, vous pouvez **activer** le **curseur** pour que les employés reçoivent une [notification]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) lorsque d'autres les inscrivent dans la colonne et les affectent ainsi à une ligne.
 
 ![Activation des notifications aux employés ajoutés à une colonne d'employés.](images/turn-on-notification-for-collaborateur-1.png)
 

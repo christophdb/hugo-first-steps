@@ -33,7 +33,7 @@ url: '/ru/help/datenverarbeitung-rangliste-berechnen'
 
 Конкретный случай использования этой операции обработки данных может возникнуть, например, если вы хотите собрать в столбце количество ежедневных обращений к веб-сайту и **ранжировать** их (по сравнению с другими значениями столбца). Для этого необходимо присвоить **ранги** **номерам** ежедневных **доступов** отдельно в другом столбце.
 
-Для реализации сначала нужна таблица, в которой различные **дни** собраны в [столбце даты](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/), а **номера доступа** к сайту - в [столбце числа](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/).
+Для реализации сначала нужна таблица, в которой различные **дни** собраны в [столбце даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), а **номера доступа** к сайту - в [столбце числа](https://seatable.io/ru/docs/text-und-zahlen/die-zahlen-spalte/).
 
 ![Пример таблицы для случая использования Вычислить суммарные значения](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 
