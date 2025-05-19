@@ -1,0 +1,7 @@
+---
+title: 'Scripts (JS & Python)'
+description: '...'
+weight: 7
+url: /pt'/help/scripts'
+icon: 'code'
+---
