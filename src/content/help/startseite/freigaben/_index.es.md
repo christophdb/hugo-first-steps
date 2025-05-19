@@ -1,5 +1,5 @@
 ---
 title: 'Sharings'
 description: ''
-url: /es'/help/homepage/freigaben'
+url: '/es/ayuda/homepage/freigaben'
 ---

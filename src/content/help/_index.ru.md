@@ -1,6 +1,6 @@
 ---
-title: Help area
+title: Зона помощи
 url: /ru/help
 type: help-start
-headline: 'How can we help?'
+headline: 'Как мы можем помочь?'
 ---

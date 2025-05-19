@@ -1,5 +1,5 @@
 ---
 title: 'Notifications'
 description: ''
-url: /fr'/help/homepage/benachrichtigungen'
+url: '/fr/aide/homepage/benachrichtigungen'
 ---

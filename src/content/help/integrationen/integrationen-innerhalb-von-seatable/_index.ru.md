@@ -1,4 +1,4 @@
 ---
 title: 'General'
-url: /ru'/help/integration/general'
+url: '/ru/help/integration/general'
 ---

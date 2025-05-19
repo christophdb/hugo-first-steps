@@ -1,5 +1,5 @@
 ---
 title: 'General'
-url: /pt'/help/faq/general'
+url: '/pt/ajuda/faq/general'
 weight: 1
 ---

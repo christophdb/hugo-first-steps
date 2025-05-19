@@ -1,8 +1,8 @@
 ---
-title: 'Home page of SeaTable'
+title: 'Home page'
 description: ''
 weight: 2
-url: '/pt/help/homepage'
+url: '/pt/ajuda/homepage'
 icon: 'compass'
 color: bg-blue-100
 ---

@@ -1,5 +1,5 @@
 ---
 title: 'Notifications'
 description: ''
-url: /pt'/help/homepage/benachrichtigungen'
+url: '/pt/ajuda/homepage/benachrichtigungen'
 ---

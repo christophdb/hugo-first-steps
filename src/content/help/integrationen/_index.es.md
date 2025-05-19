@@ -2,7 +2,7 @@
 title: 'Integrations'
 description: ''
 weight: 8
-url: /es'/help/integrations'
+url: '/es/ayuda/integrations'
 icon: 'link'
 color: bg-pink-100
 ---

@@ -1,8 +1,8 @@
 ---
-title: 'Integrations'
+title: 'Intégrations'
 description: ''
 weight: 8
-url: /fr'/help/integrations'
+url: '/fr/aide/integrations'
 icon: 'link'
 color: bg-pink-100
 ---

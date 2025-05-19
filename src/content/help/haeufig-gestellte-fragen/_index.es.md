@@ -2,7 +2,7 @@
 title: 'FAQ'
 description: ''
 weight: 10
-url: /es'/help/faq'
+url: '/es/ayuda/faq'
 icon: 'circle-question'
 color: bg-lime-100
 ---

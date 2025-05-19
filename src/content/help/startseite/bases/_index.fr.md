@@ -1,6 +1,6 @@
 ---
 title: 'Bases'
 description: ''
-url: /fr'/help/startseite/bases'
+url: '/fr/aide/startseite/bases'
 weight: 1
 ---

@@ -1,4 +1,4 @@
 ---
 title: 'Webhooks'
-url: /pt'/help/integration/webhooks'
+url: '/pt/ajuda/integration/webhooks'
 ---

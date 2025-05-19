@@ -1,4 +1,4 @@
 ---
 title: 'Personal Settings'
-url: /fr'/help/homepage/persoenliche-einstellungen'
+url: '/fr/aide/homepage/persoenliche-einstellungen'
 ---

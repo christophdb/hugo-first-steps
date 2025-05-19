@@ -2,7 +2,7 @@
 title: 'App Builder'
 description: ''
 weight: 4
-url: /pt'/help/app-builder'
+url: '/pt/ajuda/app-builder'
 icon: 'layer-group'
 color: bg-orange-100
 ---

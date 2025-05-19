@@ -1,6 +1,6 @@
 ---
-title: Help area
-url: /es/help
+title: Área de ayuda
+url: /es/ayuda
 type: help-start
-headline: 'How can we help?'
+headline: '¿Cómo podemos ayudar?'
 ---

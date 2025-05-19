@@ -1,5 +1,5 @@
 ---
 title: 'Import of data'
 description: ''
-url: /fr'/help/homepage/import-von-daten'
+url: '/fr/aide/homepage/import-von-daten'
 ---
