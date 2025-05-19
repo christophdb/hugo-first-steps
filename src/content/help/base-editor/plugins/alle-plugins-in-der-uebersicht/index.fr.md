@@ -130,7 +130,7 @@ Surtout lorsque de nombreux tableaux avec des dizaines de colonnes se trouvent d
 
 Le **module Statistiques** vous permet une représentation polyvalente des données sous forme de graphiques et de statistiques de toutes sortes. Pour cela, vous disposez entre autres des **types de graphiques** suivants : diagrammes en colonnes, en barres, en lignes et en camemberts, mais aussi cartes, images thermiques, tachymètres ou tableaux croisés dynamiques. Vous pouvez configurer la visualisation qui vous convient dans les différents **graphiques** et vous construire un **tableau de bord avec les statistiques les plus importantes**.
 
-[En savoir plus sur le module Statistiques]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
+[En savoir plus sur le module Statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
 
 ### Formulaires web
 

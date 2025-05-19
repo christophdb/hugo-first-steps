@@ -130,7 +130,7 @@ Especially when there are many tables with dozens of columns in a base, it is ea
 
 The **statistics module** allows you to display data in all kinds of graphics and statistics. The following **chart types** are available to you: column, bar, line and pie charts, as well as maps, thermal images, speedometers and pivot tables. You can configure the right visualization for you in the various **graphics** and build a **dashboard with the most important statistics**.
 
-[More about the statistics module]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
+[More about the statistics module]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
 
 ### Forms
 

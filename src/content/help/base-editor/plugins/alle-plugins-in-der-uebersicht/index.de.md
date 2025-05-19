@@ -132,7 +132,7 @@ Besonders wenn sich viele Tabellen mit Dutzenden Spalten in einer Base befinden,
 
 Das **Statistik-Modul** ermöglicht Ihnen die vielseitige Darstellung von Daten in Grafiken und Statistiken aller Art. Dabei stehen Ihnen unter anderem die folgenden **Diagrammtypen** zur Verfügung: Säulen-, Balken-, Linien- und Kuchendiagramme, aber auch Karten, Wärmebilder, Tacho oder Pivot-Tabellen. Sie können in den unterschiedlichen **Grafiken** die für Sie passende Visualisierung konfigurieren und sich ein **Dashboard mit den wichtigsten Statistiken** bauen.
 
-[Mehr zum Statistik-Modul]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
+[Mehr zum Statistik-Modul]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
 
 ### Webformulare
 

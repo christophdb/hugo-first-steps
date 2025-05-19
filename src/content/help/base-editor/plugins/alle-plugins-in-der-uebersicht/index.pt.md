@@ -130,7 +130,7 @@ Especialmente quando existem muitas tabelas com dezenas de colunas numa base, é
 
 O **módulo de estatísticas** permite-lhe visualizar os dados em todos os tipos de gráficos e estatísticas. Tem à sua disposição os seguintes **tipos de gráficos**: coluna, barra, linha e pizza, bem como mapas, imagens térmicas, velocímetros e tabelas dinâmicas. Pode configurar a visualização que mais lhe convém nos vários **gráficos** e construir um **painel de controlo com as estatísticas mais importantes**.
 
-[Mais informações sobre o módulo de estatísticas]({{< relref "help/base-editor/plugins/anleitung-zum-statistik-plugin" >}})
+[Mais informações sobre o módulo de estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
 
 ### Formulários Web
 
