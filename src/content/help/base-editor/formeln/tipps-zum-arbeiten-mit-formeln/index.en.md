@@ -35,7 +35,7 @@ Use the different **colors** as a guide to get a better overview of your formula
 - **Text elements** are not marked in **red** in your formula until they are enclosed **in quotation marks**.
 - **References to columns** are not marked in **purple** in your formula until they are surrounded by **curly braces**.
 
-If the mentioned formula elements are **not** marked in the corresponding **color** in your formula, you have entered them **incorrectly**. To correct this, use the syntax or take a look at our [help articles](https://seatable.io/en/docs-category/formeln/).
+If the mentioned formula elements are **not** marked in the corresponding **color** in your formula, you have entered them **incorrectly**. To correct this, use the syntax
 
 ## Note highlighting of brackets that belong together
 

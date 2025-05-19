@@ -130,7 +130,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-formula" >}} **Formel**
 
 Mithilfe von Formeln können Sie unterschiedliche Spaltenwerte einer Zeile **verknüpfen** und basierend auf dem Inhalt dieser Spalten verschiedene **Funktionen** erstellen. Sie können unter anderem mit Werten in Ihren Tabellen rechnen, Werte verändern oder Werte aus der gleichen Zeile miteinander in Beziehung setzen.
 
-Sie benötigen weitere Infos zur Formel-Spalte? Dann werfen Sie einen Blick in diesen [Artikel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Da es sich bei Formeln um ein sehr komplexes Feature handelt, finden Sie zahlreiche weitere Hilfeartikel in unserem Handbuch. Klicken Sie [hier](https://seatable.io/docs-category/formeln/) und Sie werden zur Übersichtsseite weitergeleitet.
+Sie benötigen weitere Infos zur Formel-Spalte? Dann werfen Sie einen Blick in diesen [Artikel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Da es sich bei Formeln um ein sehr komplexes Feature handelt, finden Sie zahlreiche weitere Hilfeartikel in unserem Handbuch. Klicken Sie [hier]({{< relref "help/base-editor/formeln" >}}) und Sie werden zur Übersichtsseite weitergeleitet.
 
 ### Verknüpfung zu anderen Einträgen
 
@@ -145,8 +145,6 @@ Weitere Informationen zum Spaltentyp Verknüpfung zu anderen Einträgen finden S
 Symbol: {{< seatable-icon icon="dtable-icon-link-formulas" >}} **Formel für Verknüpfungen**
 
 Mit der Formel für Verknüpfungen können Sie Daten aus **verknüpften Tabellen** in Ihrer aktuellen Tabelle **darstellen** und miteinander **in Beziehung setzen**. Für den Spaltentyp stehen im Anschluss insgesamt fünf verschiedene Formeln zur Verfügung, mit denen Sie auch statistische Berechnungen durchführen können. Voraussetzung für die Verwendung der Spalte ist das Vorhandensein von mindestens einer Spalte des Typs **Verknüpfung zu anderen Einträgen** in Ihrer Tabelle.
-
-Weitere Informationen zum Spaltentyp und zu den einzelnen Formelarten finden Sie [hier](https://seatable.io/docs-category/verknuepfungen/).
 
 ### Mitarbeiter
 

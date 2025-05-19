@@ -35,7 +35,7 @@ Orientez-vous vers les différentes **couleurs** afin d'avoir une meilleure vue 
 - **Les éléments de texte** ne sont pas marqués en **rouge** dans votre formule tant qu'ils ne sont pas placés entre **guillemets**.
 - **Les références aux colonnes** ne sont marquées en **violet** dans votre formule que lorsqu'elles sont entourées d'**accolades**.
 
-Si les éléments de formule mentionnés **ne sont pas** marqués dans la **couleur** correspondante dans votre formule, vous les avez saisis **de manière erronée**. Pour les corriger, utilisez la syntaxe ou consultez nos [articles d'aide](https://seatable.io/fr/docs-category/formeln/).
+Si les éléments de formule mentionnés **ne sont pas** marqués dans la **couleur** correspondante dans votre formule, vous les avez saisis **de manière erronée**. Pour les corriger, utilisez la syntaxe.
 
 ## Respecter la mise en évidence des parenthèses qui vont ensemble
 

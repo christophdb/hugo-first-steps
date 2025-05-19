@@ -35,7 +35,7 @@ Utiliza los distintos **colores** como guía para tener una mejor visión genera
 - Los **elementos de texto** no se marcan en **rojo** en su fórmula hasta que se encierran **entre comillas**.
 - **Las referencias a columnas** no se marcan en **púrpura** en la fórmula hasta que se rodean de **llaves**.
 
-Si los elementos de fórmula mencionados **no** están marcados en el **color** correspondiente en su fórmula, es que los ha introducido **incorrectamente**. Para corregirlo, utilice la sintaxis o eche un vistazo a nuestros [artículos de ayuda](https://seatable.io/es/docs-category/formeln/).
+Si los elementos de fórmula mencionados **no** están marcados en el **color** correspondiente en su fórmula, es que los ha introducido **incorrectamente**. Para corregirlo, utilice la sintaxis.
 
 ## Resalte los corchetes que van juntos
 

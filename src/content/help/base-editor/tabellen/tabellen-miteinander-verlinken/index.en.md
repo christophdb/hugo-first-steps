@@ -12,6 +12,6 @@ At first glance, SeaTable looks like a spreadsheet, but in many places it works 
 
 More precisely, link columns create a link between entries. This works both with entries within a table and across multiple tables. In the end, SeaTable does not link entire tables with each other, but rows across table boundaries.
 
-Since you implement this in SeaTable with columns, you will find all further explanations about links and link formulas in the [Columns](https://seatable.io/en/docs-category/spalten/) section.
+Since you implement this in SeaTable with columns, you will find all further explanations about links and link formulas in the [Columns]({{< relref "help/base-editor/spalten" >}}) section.
 
 To get started, we recommend the following article: [How to link tables in SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

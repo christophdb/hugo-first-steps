@@ -35,7 +35,7 @@ Utilize as diferentes **cores** como guia para obter uma melhor visão geral da 
 - **Os elementos de texto** não são marcados a **vermelho** na sua fórmula até serem colocados **entre aspas**.
 - **As referências a colunas** não são marcadas a **roxo** na sua fórmula até estarem **entre parênteses rect** os.
 
-Se os elementos da fórmula mencionados **não** estiverem marcados com a **cor** correspondente na sua fórmula, é porque foram introduzidos **incorretamente**. Para o corrigir, utilize a sintaxe ou consulte os nossos [artigos de ajuda](https://seatable.io/pt/docs-category/formeln/).
+Se os elementos da fórmula mencionados **não** estiverem marcados com a **cor** correspondente na sua fórmula, é porque foram introduzidos **incorretamente**. Para o corrigir, utilize a sintaxe.
 
 ## Nota: realce dos parêntesis que pertencem uns aos outros
 

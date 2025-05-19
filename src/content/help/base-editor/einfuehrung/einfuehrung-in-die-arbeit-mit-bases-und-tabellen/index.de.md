@@ -37,7 +37,7 @@ Die Tabelle ist die wichtigste Ebene, auf der Sie Ihre Daten in SeaTable organis
 
 Da es sich bei SeaTable um eine **relationale Datenbank**\-Software handelt, können Sie Informationen in verschiedenen Tabellen einer Base über [Verknüpfungen]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [Automationen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) und andere Funktionen miteinander verbinden.
 
-Eine Tabelle besteht aus [Zeilen](https://seatable.io/docs-category/seatable-nutzen/arbeiten-mit-zeilen) und [Spalten](https://seatable.io/docs-category/seatable-nutzen/arbeiten-mit-spalten). Alle Einträge in einer **Zeile** bilden dabei einen zusammenhängenden **Datensatz**. Die [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
+Eine Tabelle besteht aus Zeilen und Spalten. Alle Einträge in einer **Zeile** bilden dabei einen zusammenhängenden **Datensatz**. Die [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
 ) in SeaTable definieren, welche **Datentypen** Sie in einer **Spalte** erfassen können.
 
 Immer wenn Sie Ihre Daten in einer Tabelle betrachten, betrachten Sie diese über eine [Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}

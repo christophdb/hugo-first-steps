@@ -130,7 +130,7 @@ symbole : {{< seatable-icon icon="dtable-icon-formula" >}} **Formule**
 
 Les formules vous permettent de **relier** différentes valeurs de colonnes d'une ligne et de créer différentes **fonctions** basées sur le contenu de ces colonnes. Vous pouvez entre autres calculer des valeurs dans vos tableaux, modifier des valeurs ou mettre en relation des valeurs de la même ligne.
 
-Vous avez besoin de plus d'informations sur la colonne des formules ? Jetez un coup d'œil à cet [article]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Les formules étant une fonctionnalité très complexe, vous trouverez de nombreux autres articles d'aide dans notre manuel. Cliquez [ici](https://seatable.io/fr/docs-category/formeln/) et vous serez redirigé vers la page d'aperçu.
+Vous avez besoin de plus d'informations sur la colonne des formules ? Jetez un coup d'œil à cet [article]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Les formules étant une fonctionnalité très complexe, vous trouverez de nombreux autres articles d'aide dans notre manuel. Cliquez [ici]({{< relref "help/base-editor/formeln" >}}) et vous serez redirigé vers la page d'aperçu.
 
 ### Lien vers d'autres entrées
 
@@ -145,8 +145,6 @@ Vous trouverez plus d'informations sur le type de colonne Lien vers d'autres ent
 symbole : {{< seatable-icon icon="dtable-icon-link-formulas" >}} **Formule pour les liens**
 
 La formule pour les liens vous permet d'**afficher** les données des **tableaux liés** dans votre tableau actuel et de les **mettre** en relation. Pour le type de colonne, cinq formules différentes sont ensuite disponibles, avec lesquelles vous pouvez également effectuer des calculs statistiques. La condition préalable à l'utilisation de la colonne est la présence d'au moins une colonne de type **lien avec d'autres entrées** dans votre tableau.
-
-Vous trouverez [ici](https://seatable.io/fr/docs-category/verknuepfungen/) de plus amples informations sur le type de colonne et sur les différents types de formules.
 
 ### Employés
 

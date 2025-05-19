@@ -36,8 +36,3 @@ Pode também limitar o número de **colunas monitorizadas** e definir uma ou mai
 Finalmente, define-se uma ou mais **acções automatizadas** que são desencadeadas pelo evento de disparo previamente definido. As acções possíveis, dependendo do tipo de disparo, podem ser, por exemplo, o envio de notificações e e-mails, a adição ou bloqueio de entradas e a execução de um script Python.
 
 ![Definição de uma acção automatizada desencadeada pelo evento de disparo previamente definido.](images/steps-to-create-an-automation-3.png)
-
-### Artigos mais úteis na secção de automatização:
-
-- [Trabalhar com automatismos](https://seatable.io/pt/docs-category/automationen/)
-- [Exemplos de automatizações](https://seatable.io/pt/docs-category/beispiel-automationen/)

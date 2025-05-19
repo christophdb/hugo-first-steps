@@ -36,8 +36,3 @@ Vous pouvez également limiter le nombre de **colonnes surveillées** et défini
 Enfin, vous définissez une ou plusieurs **actions automatisées** qui seront déclenchées par l'événement déclencheur défini précédemment. Selon le type de déclencheur, les actions possibles peuvent être par exemple l'envoi de notifications et d'e-mails, l'ajout ou le blocage d'entrées et l'exécution d'un script Python.
 
 ![Définition d'une action automatisée déclenchée par l'événement déclencheur préalablement défini.](images/steps-to-create-an-automation-3.png)
-
-### D'autres articles utiles dans la rubrique Automations :
-
-- [Travailler avec des automatisations](https://seatable.io/fr/docs-category/automationen/)
-- [Exemples d'automatisation](https://seatable.io/fr/docs-category/beispiel-automationen/)

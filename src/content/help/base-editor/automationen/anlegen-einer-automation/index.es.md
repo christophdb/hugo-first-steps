@@ -36,8 +36,3 @@ También puede limitar el número de **columnas supervisadas** y establecer una 
 Por último, defina una o varias **acciones automatizadas** que se desencadenen por el evento desencadenante previamente definido. Según el tipo de activador, las acciones posibles pueden ser, por ejemplo, enviar notificaciones y correos electrónicos, añadir o bloquear entradas y ejecutar un script de Python.
 
 ![Definición de una acción automatizada desencadenada por el evento desencadenante previamente definido.](images/steps-to-create-an-automation-3.png)
-
-### Más artículos útiles en la sección de automatización:
-
-- [Trabajar con automatizaciones](https://seatable.io/es/docs-category/automationen/)
-- [Ejemplos de automatizaciones](https://seatable.io/es/docs-category/beispiel-automationen/)

@@ -12,6 +12,6 @@ SeaTable ressemble à première vue à un tableur, mais fonctionne à de nombreu
 
 Plus précisément, les colonnes de liaison établissent un lien entre les entrées. Cela fonctionne aussi bien avec les entrées d'un tableau qu'avec celles de plusieurs tableaux. En fin de compte, SeaTable ne relie pas des tableaux entiers entre eux, mais des lignes entre les tableaux.
 
-Comme cela se fait dans SeaTable avec des colonnes, vous trouverez toutes les explications supplémentaires sur les liens et les formules de liaison dans la section [Colonnes](https://seatable.io/fr/docs-category/spalten/).
+Comme cela se fait dans SeaTable avec des colonnes, vous trouverez toutes les explications supplémentaires sur les liens et les formules de liaison dans la section [Colonnes]({{< relref "help/base-editor/spalten" >}}).
 
 Pour commencer, nous vous recommandons l'article suivant : [Comment lier des tableaux dans SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

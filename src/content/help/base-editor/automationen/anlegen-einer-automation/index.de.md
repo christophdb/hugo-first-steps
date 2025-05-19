@@ -36,8 +36,3 @@ Sie können außerdem die Anzahl der **überwachten Spalten** eingrenzen und ein
 Abschließend legen Sie eine oder mehrere **automatisierte Aktionen** fest, die vom zuvor definierten Trigger-Ereignis ausgelöst werden. Mögliche Aktionen können je nach Art des Triggers beispielsweise das Versenden von Benachrichtigungen und E-Mails, das Hinzufügen oder Sperren von Einträgen und die Ausführung eines Python-Skripts sein.
 
 ![Definition einer automatisierten Aktion, die vom zuvor festgelegten Trigger-Ereignis ausgelöst wird.](images/steps-to-create-an-automation-3.png)
-
-### Weitere hilfreiche Artikel in der Rubrik Automationen:
-
-- [Arbeiten mit Automationen](https://seatable.io/docs-category/automationen/)
-- [Beispiele für Automationen](https://seatable.io/docs-category/beispiel-automationen/)

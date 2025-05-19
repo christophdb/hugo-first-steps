@@ -130,7 +130,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-formula" >}} **Fórmula**
 
 Con la ayuda de las fórmulas, puede **relacionar** diferentes valores de columnas de una fila y crear diferentes **funciones** basadas en el contenido de estas columnas. Entre otras cosas, puedes calcular con valores de tus tablas, modificar valores o relacionar valores de una misma fila.
 
-¿Necesitas más información sobre la columna de fórmulas? Entonces echa un vistazo a este [artículo]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Como las fórmulas son una función muy compleja, en nuestro manual encontrará muchos otros artículos de ayuda. Haga clic [aquí](https://seatable.io/es/docs-category/formeln/) y será redirigido a la página de resumen.
+¿Necesitas más información sobre la columna de fórmulas? Entonces echa un vistazo a este [artículo]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Como las fórmulas son una función muy compleja, en nuestro manual encontrará muchos otros artículos de ayuda. Haga clic [aquí]({{< relref "help/base-editor/formeln" >}}) y será redirigido a la página de resumen.
 
 ### Enlace a otras entradas
 
@@ -145,8 +145,6 @@ Para más información sobre el tipo de columna Enlace a otras entradas, [haga c
 Símbolo: {{< seatable-icon icon="dtable-icon-link-formulas" >}} **Fórmula de los enlaces**
 
 Con la fórmula para enlaces, puede **mostrar** datos de **tablas enlazadas** en su tabla actual y **relacionarlos** entre sí. Para el tipo de columna se dispone entonces de un total de cinco fórmulas diferentes, con las que también se pueden realizar cálculos estadísticos. El requisito previo para utilizar la columna es la existencia de al menos una columna del tipo Enlace **con otras entradas** de su tabla.
-
-Para obtener más información sobre el tipo de columna y los tipos de fórmula individuales, [haga clic aquí](https://seatable.io/es/docs-category/verknuepfungen/).
 
 ### Empleados
 

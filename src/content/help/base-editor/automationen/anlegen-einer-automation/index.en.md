@@ -36,8 +36,3 @@ You can also limit the number of **monitored columns** and set one or more **fil
 Finally, you specify one or more **automated actions** that are triggered by the previously defined trigger event. Possible actions, depending on the type of trigger, can be, for example, sending notifications and emails, adding or locking entries, and executing a Python script.
 
 ![Definition of an automated action triggered by the previously defined trigger event.](images/steps-to-create-an-automation-3.png)
-
-### More helpful articles in the Automations section:
-
-- [Working with automations](https://seatable.io/en/docs-category/automationen/)
-- [Automation examples](https://seatable.io/en/docs-category/beispiel-automationen/)

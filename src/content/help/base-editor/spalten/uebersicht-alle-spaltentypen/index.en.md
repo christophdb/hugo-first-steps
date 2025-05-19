@@ -130,7 +130,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-formula" >}} **Formula**
 
 Using formulas you can**link** different column values of a row and create different **functions** based on the content of these columns. Among other things, you can calculate with values in your tables, change values or relate values from the same row .
 
-You need more info about the formula column? Then take a look at this [article]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Since formulas are a very complex feature, you can find numerous other help articles in our manual. Click [here](https://seatable.io/en/docs-category/formeln/) and you will be redirected to the overview page.
+You need more info about the formula column? Then take a look at this [article]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Since formulas are a very complex feature, you can find numerous other help articles in our manual. Click [here]({{< relref "help/base-editor/formeln" >}}) and you will be redirected to the overview page.
 
 ### Link to other entries
 
@@ -145,8 +145,6 @@ More information about the column type Link to other entries can be found [here.
 Symbol: {{< seatable-icon icon="dtable-icon-link-formulas" >}} **Formula for mates**
 
 With the formula for links you can **display** data from **linked tables** in your current table and **relate** them to each other. A total of five different formulas are subsequently available for the column type, which you can also use to perform statistical calculations. The prerequisite for using the column is the existence of at least one column of the type **Link to other entries** in your table.
-
-More information about the column type and the individual formula types can be found [here.](https://seatable.io/en/docs-category/verknuepfungen/)
 
 ### Employees
 

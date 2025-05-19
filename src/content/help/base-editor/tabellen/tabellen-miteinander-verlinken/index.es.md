@@ -12,6 +12,6 @@ A primera vista, SeaTable parece una hoja de cálculo, pero en muchos puntos fun
 
 Más concretamente, las columnas de enlace crean un vínculo entre las entradas. Esto funciona tanto con entradas dentro de una tabla como entre varias tablas. En última instancia, SeaTable no enlaza tablas enteras entre sí, sino filas a través de los límites de las tablas.
 
-Dado que esto se implementa en SeaTable con columnas, encontrará todas las explicaciones adicionales sobre el tema de los enlaces y las fórmulas de enlace en la sección [Columnas](https://seatable.io/es/docs-category/spalten/).
+Dado que esto se implementa en SeaTable con columnas, encontrará todas las explicaciones adicionales sobre el tema de los enlaces y las fórmulas de enlace en la sección [Columnas]({{< relref "help/base-editor/spalten" >}}).
 
 Para empezar, le recomendamos el siguiente artículo: [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).

@@ -35,7 +35,7 @@ Orientieren Sie sich an den verschiedenen **Farben**, um einen besseren Überbli
 - **Textelemente** werden in Ihrer Formel erst in **rot** markiert, wenn diese in **Anführungszeichen** gesetzt werden.
 - **Verweise auf Spalten** werden in Ihrer Formel erst in **lila** markiert, wenn diese von **geschweiften Klammern** umgeben sind.
 
-Werden die genannten Formelelemente in Ihrer Formel **nicht** in der entsprechenden **Farbe** markiert, haben Sie diese **fehlerhaft** eingegeben. Nutzen Sie zur Korrektur die Syntax oder werfen Sie einen Blick in unsere [Hilfeartikel](https://seatable.io/docs-category/formeln/).
+Werden die genannten Formelelemente in Ihrer Formel **nicht** in der entsprechenden **Farbe** markiert, haben Sie diese **fehlerhaft** eingegeben. Nutzen Sie zur Korrektur die Syntax.
 
 ## Hervorhebung von zusammengehörenden Klammern beachten
 
