@@ -1,11 +1,11 @@
 ---
-title: "Die Kommentarfunktion in SeaTable"
+title: 'Die Kommentarfunktion in SeaTable'
 date: 2023-01-13
-lastmod: "2023-08-09"
-categories: 
-  - "arbeiten-mit-zeilen"
-author: "cdb"
-url: "/de/hilfe/die-kommentarfunktion-in-seatable"
+lastmod: '2023-08-09'
+categories:
+    - 'arbeiten-mit-zeilen'
+author: 'cdb'
+url: '/de/hilfe/die-kommentarfunktion-in-seatable'
 ---
 
 Wenn Sie gemeinsam mit anderen Nutzern an Daten arbeiten, dann sind Diskussionen, Anmerkungen oder Fragen zu den Daten (z. B. zur Korrektheit von Einträgen) vorprogrammiert. Solche **Konversationen** wollen Sie nicht per E-Mail oder in Chat-Systemen austragen, sondern am besten direkt da, wo die Daten sind, nämlich in der entsprechenden **Zeile** der Tabelle. So ist auch Tage und Wochen später ohne lange Suche klar, warum die Daten sind, wie Sie sind, wie man sich verständigt hat und was der aktuelle Stand ist.
@@ -18,7 +18,7 @@ In SeaTable können Sie in jeder einzelnen **Zeile** der Tabelle eine separate D
 
 Die Diskussionen und Kommentare sind für alle Personen mit Zugriff auf die Tabelle sichtbar. Das umfasst auch Personen, die über einen [externen Link](https://seatable.io/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) auf eine Tabelle zugreifen.
 
-Kommentare in einer Tabelle werden weder beim [Export einer Base](/docs/handbuch/datenmanagement/datenimport-und-export/#base-exportieren) noch beim [Export einer Tabelle in eine XLSX-Datei](/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) berücksichtigt und gehen dann verloren.
+Kommentare in einer Tabelle werden weder beim [Export einer Base]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) noch beim [Export einer Tabelle in eine XLSX-Datei]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) berücksichtigt und gehen dann verloren.
 
 ## Weitere Artikel zum Thema Kommentare
 

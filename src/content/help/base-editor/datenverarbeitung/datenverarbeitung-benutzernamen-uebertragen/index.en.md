@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Using the data processing function, you can perform various operations across a column. The **transfer of user names** is an operation that copies data from columns of the type [Employee]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Creator]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) into a [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
+Using the data processing function, you can perform various operations across a column. The **transfer of user names** is an operation that copies data from columns of the type [Employee]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Creator]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) into a [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ## Putting on the operation
 

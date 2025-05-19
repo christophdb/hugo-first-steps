@@ -16,7 +16,7 @@ Wenn Sie Excel-Dateien importieren, unterstützt SeaTable dies für Dateien bis 
 
 {{< warning  type="warning" headline="Speicherlimit für Zeilen" >}}
 
-Das normale Backend von SeaTable kann maximal 100.000 Zeilen pro Tabelle aufnehmen. Wenn Sie eine Excel- oder CSV-Datei importieren möchten, die mehr als 100.000 Zeilen enthält, müssen Sie zunächst [das Big Data Backend aktivieren]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), um die [Excel-Tabelle ins Big Data Backend importieren]("{{< relref "help/base-editor/big-data/eine-excel-tabelle-ins-big-data-backend-importieren" >}}") zu können.
+Das normale Backend von SeaTable kann maximal 100.000 Zeilen pro Tabelle aufnehmen. Wenn Sie eine Excel- oder CSV-Datei importieren möchten, die mehr als 100.000 Zeilen enthält, müssen Sie zunächst [das Big Data Backend aktivieren]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), um die [Excel-Tabelle ins Big Data Backend importieren]({{< relref "help/base-editor/big-data/eine-excel-tabelle-ins-big-data-backend-importieren" >}}) zu können.
 
 {{< /warning >}}
 

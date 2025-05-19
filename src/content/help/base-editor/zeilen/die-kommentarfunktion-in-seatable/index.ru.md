@@ -18,7 +18,7 @@ SeaTable предоставляет **функцию комментариев д
 
 Обсуждения и комментарии видны всем лицам, имеющим доступ к таблице. Сюда также входят люди, которые получают доступ к таблице по [внешней ссылке](https://seatable.io/ru/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
 
-Комментарии в таблице не учитываются при [экспорте базы](/ru/docs/handbuch/datenmanagement/datenimport-und-export/#base-exportieren) или при [экспорте таблицы в файл XLSX](/ru/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) и затем теряются.
+Комментарии в таблице не учитываются при [экспорте базы]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) или при [экспорте таблицы в файл XLSX](/ru/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) и затем теряются.
 
 ## Другие статьи по теме комментариев
 

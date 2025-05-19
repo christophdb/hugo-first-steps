@@ -64,7 +64,8 @@ Each lookup formula can only fetch the information from **one** column of your l
 
 Can entries looked up by lookup be filtered?|||
 
-Yes, you can filter the entries as you wish. To do this, activate the corresponding **Controller** in the _Column settings_ and select the **Column(s)** whose entries are to be looked up. You can select any number of **Filter conditions** define.  
-![Filtering of entries to be looked up by Look-Up](images/filter-entries-to-look-up.png.jpg)
+Yes, you can filter the entries as you wish. To do this, activate the corresponding **Controller** in the _Column settings_ and select the **Column(s)** whose entries are to be looked up. You can select any number of **Filter conditions** define.
+
+![Filtering of entries to be looked up by Look-Up](images/filter-entries-to-look-up.jpg)
 
 {{< /faq >}}

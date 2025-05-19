@@ -64,7 +64,8 @@ Chaque formule de recherche ne peut récupérer que les informations d **'une se
 
 Les entrées consultées par lookup peuvent-elles être filtrées ?|||
 
-Oui, vous pouvez filtrer les entrées comme vous le souhaitez. Pour ce faire, activez le **Régulateur** dans les _Paramètres des colonnes_ et sélectionnez la **Colonne(s)** dont les entrées doivent être recherchées. Vous pouvez sélectionner autant de **Conditions de filtrage** définir.  
-![Filtrer les entrées qui doivent être consultées par look-up](images/filter-entries-to-look-up.png.jpg)
+Oui, vous pouvez filtrer les entrées comme vous le souhaitez. Pour ce faire, activez le **Régulateur** dans les _Paramètres des colonnes_ et sélectionnez la **Colonne(s)** dont les entrées doivent être recherchées. Vous pouvez sélectionner autant de **Conditions de filtrage** définir.
+
+![Filtrer les entrées qui doivent être consultées par look-up](images/filter-entries-to-look-up.jpg)
 
 {{< /faq >}}

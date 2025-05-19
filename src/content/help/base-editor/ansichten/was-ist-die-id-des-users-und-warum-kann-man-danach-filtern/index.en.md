@@ -10,7 +10,7 @@ url: '/help/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 The ID of the user is best described as a **personal identification number**. The user's ID is unique within the team and always belongs to one team member.
 
-With the help of User ID you can set **dynamic filters** in SeaTable, which in certain situations is more suitable than filtering by the [creator column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). In this article we will present you the advantages and disadvantages of filters with User ID.
+With the help of User ID you can set **dynamic filters** in SeaTable, which in certain situations is more suitable than filtering by the [creator column]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}). In this article we will present you the advantages and disadvantages of filters with User ID.
 
 If you want to know how to change the user ID of a team member, [you can find the answer in this help article]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 

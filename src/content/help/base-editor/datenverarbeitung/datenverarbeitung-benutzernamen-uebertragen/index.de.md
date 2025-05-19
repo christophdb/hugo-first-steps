@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Ersteller]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) in eine [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) kopiert werden können.
+Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Ersteller]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) kopiert werden können.
 
 ## Anlegen der Operation
 

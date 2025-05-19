@@ -26,7 +26,7 @@ Símbolo {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Texto**
 
 Este tipo de columna almacena **texto** sin formato y es uno de los tipos de columna más básicos de SeaTable. El contenido de texto consiste en **letras**, **números** y **caracteres especiales**, así como **espacios**. Por lo tanto, las columnas de texto se utilizan a menudo para nombres y descripciones (cortas).
 
-[Más información sobre la columna de texto](/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+[Más información sobre la columna de texto]({{< relref "base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Texto con formato
 
@@ -34,7 +34,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-long-text" >}} **Texto con formato
 
 En este tipo de columna puede guardar **textos más largos** con elementos insertados, como **imágenes** y **tablas**. También dispone de varias opciones de formato y estructuración para sus textos mediante el lenguaje de marcado Markdown. Por ello, la columna _Texto con formato_ se utiliza a menudo para descripciones y documentación. Si para la recopilación de información resulta útil que los textos contengan elementos de estructuración y/o que el texto y las imágenes estén muy juntos, entonces este tipo de columna es ideal.
 
-[Más información sobre la columna Texto con formato](/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_spalte_formatierter_text/)
+[Más información sobre la columna Texto con formato]({{< relref "base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Número
 
@@ -42,7 +42,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-number" >}} **Número**
 
 Las columnas numéricas almacenan información **numérica** y pueden utilizarse de muchas maneras para trabajar con números de todo tipo. La información numérica puede ser un **número**, un **porcentaje** o una **cantidad de dinero**. Además, las columnas numéricas permiten **calcular valores** que se pueden visualizar con fórmulas y [estadísticas](https://seatable.io/es/docs/seatable-nutzen/statistiken/). Sin embargo, las columnas numéricas no son adecuadas para almacenar cadenas de cualquier longitud y la entrada de letras es rechazada por SeaTable en este tipo de columna.
 
-[Más información sobre la columna de cifras](/es/docs/text-und-zahlen/die-zahlen-spalte/)
+[Más información sobre la columna de cifras]({{< relref "base-editor/spalten/die-zahlen-spalte" >}})
 
 ### Fecha
 
@@ -50,7 +50,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} **Fecha**
 
 Con la ayuda de la columna de fecha, puede introducir **horas** y **fechas** en sus tablas hasta el minuto. Ten en cuenta que las columnas de fecha siempre interpretan la información introducida como una fecha, de modo que las entradas que no puedan interpretarse como fechas siempre se descartan como no válidas.
 
-[Más información sobre la columna de fechas](/es/docs/datum-dauer-und-personen/die-datum-spalte/)
+[Más información sobre la columna de fechas]({{< relref "base-editor/spalten/die-datum-spalte" >}})
 
 ### Duración
 
@@ -58,7 +58,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-duration" >}} **Duración**
 
 La columna de duración es un tipo de columna numérica especializada para almacenar **medidas de tiempo, intervalos e intervalos**, por lo que puede registrar un periodo de tiempo al minuto o incluso al segundo. Por esta razón, la columna es especialmente adecuada, entre otras cosas, para registrar la duración de diversos acontecimientos. Al utilizar la columna, sin embargo, tenga en cuenta que las entradas no numéricas siempre se descartan como no válidas.
 
-[Más información sobre la columna permanente](/es/docs/datum-dauer-und-personen/die-dauer-spalte/)
+[Más información sobre la columna permanente]({{< relref "base-editor/spalten/die-dauer-spalte" >}})
 
 ### Selección individual
 
@@ -66,7 +66,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-single-election" >}} **Selección 
 
 En una celda de una columna de selección única, puede seleccionar un **valor** de una lista de opciones definidas. Usted mismo crea la lista de opciones definidas por columna de selección única y puede adaptarla a circunstancias cambiantes en cualquier momento. Por lo tanto, la selección única es especialmente adecuada para categorizar y agrupar sus datos.
 
-[Más información sobre la columna de selección única](/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+[Más información sobre la columna de selección única]({{< relref "base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 
 ### Selección múltiple
 
@@ -74,7 +74,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Selecci�
 
 Con una selección múltiple, puede seleccionar **cualquier número de valores** de una lista de opciones definidas. Al igual que con la selección simple, usted mismo crea la lista de valores posibles y la adapta a sus necesidades individuales. La selección múltiple es, por tanto, ideal para la búsqueda de palabras clave, también llamada etiquetado.
 
-[Más información sobre la columna de selección múltiple](/es/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
+[Más información sobre la columna de selección múltiple]({{< relref "base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 
 ### Imagen
 

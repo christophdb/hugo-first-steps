@@ -60,7 +60,7 @@ Ein konkreter Anwendungsfall für diese Art von Automation könnte beispielsweis
 
 Bisher war die [Berechnung der kumulierten Zugriffszahlen mithilfe einer Datenverarbeitungsoperation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}}) nur **manuell** möglich. Mithilfe einer entsprechenden Automation ist es von nun an möglich, die kumulierten Zugriffszahlen **jeden Tag** zu einem festen Zeitpunkt **automatisch** berechnen zu lassen.
 
-Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) erhoben werden.
+Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) erhoben werden.
 
 ![Beispieltabelle für den Anwendungsfall der Automation: Kumulierte Werte berechnen](images/Beispiel-Tabelle-automation-data-processing-kumulierte-werte-berechnen.png)
 

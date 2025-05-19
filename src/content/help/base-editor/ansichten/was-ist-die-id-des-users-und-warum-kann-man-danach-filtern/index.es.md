@@ -10,7 +10,7 @@ url: '/es/ayuda/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 El ID de usuario se describe mejor como un **número de identificación personal**. El ID de usuario es único dentro del equipo y siempre pertenece a un miembro del equipo.
 
-Con la ayuda del ID de usuario, puede establecer **filtros dinámicos** en SeaTable, que en determinadas situaciones son más adecuados que un filtro según la [columna del creador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/). En este artículo presentamos las ventajas y desventajas de los filtros con el ID de usuario.
+Con la ayuda del ID de usuario, puede establecer **filtros dinámicos** en SeaTable, que en determinadas situaciones son más adecuados que un filtro según la [columna del creador]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}). En este artículo presentamos las ventajas y desventajas de los filtros con el ID de usuario.
 
 Si quieres saber cómo cambiar el ID de usuario de un miembro del equipo, [encontrarás la respuesta en este artículo de ayuda]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 

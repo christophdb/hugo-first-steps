@@ -26,7 +26,7 @@ symbole : {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Texte**
 
 Ce type de colonne stocke **du texte** sans mise en forme et fait partie des types de colonnes les plus basiques de SeaTable. Le contenu textuel est composé de **lettres**, de **chiffres**, de **caractères spéciaux** et **d'espaces**. C'est pourquoi les colonnes de texte sont souvent utilisées pour les noms et les (courtes) descriptions.
 
-[En savoir plus sur la colonne de texte](/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+[En savoir plus sur la colonne de texte]({{< relref "base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Texte formaté
 
@@ -34,7 +34,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-long-text" >}} **Texte formaté
 
 Dans ce type de colonne, vous pouvez enregistrer **des textes plus longs** avec des éléments insérés, tels que **des images** et **des tableaux**. Pour vos textes, vous disposez en outre de diverses options de formatage et de structuration à l'aide du langage de balisage Markdown. C'est pourquoi la colonne _Texte formaté_ est souvent utilisée pour les descriptions et la documentation. S'il est utile pour la saisie d'informations que les textes contiennent des éléments structurants et/ou que le texte et les images soient proches les uns des autres, ce type de colonne est alors idéal.
 
-[En savoir plus sur la colonne Texte formaté](/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_spalte_formatierter_text/)
+[En savoir plus sur la colonne Texte formaté]({{< relref "base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Nombre
 
@@ -42,7 +42,7 @@ symbole : {{< seatable-icon icon="dtable-icon-number" >}} **Nombre**
 
 Les colonnes de nombres stockent **des informations numériques** et peuvent être utilisées de différentes manières pour travailler avec des nombres de toutes sortes. Une information numérique peut être un **nombre**, un **pourcentage** ou une **somme d'argent**. De plus, les colonnes numériques vous permettent de **calculer des valeurs** que vous pouvez visualiser à l'aide de formules et [de statistiques](https://seatable.io/fr/docs/seatable-nutzen/statistiken/). Cependant, les colonnes numériques ne conviennent pas pour stocker des chaînes de caractères de n'importe quelle longueur et SeaTable refuse de saisir des lettres dans ce type de colonne.
 
-[En savoir plus sur la colonne des chiffres](/fr/docs/text-und-zahlen/die-zahlen-spalte/)
+[En savoir plus sur la colonne des chiffres]({{< relref "base-editor/spalten/die-zahlen-spalte" >}})
 
 ### Date
 
@@ -50,7 +50,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} **Date*
 
 La colonne des dates vous permet de saisir **des heures** et **des dates** à la minute près dans vos tableaux. Notez que les colonnes de date interprètent toujours les informations saisies comme des dates, de sorte que les saisies qui ne peuvent pas être interprétées comme des dates sont toujours rejetées comme non valables.
 
-[En savoir plus sur la colonne des dates](/fr/docs/datum-dauer-und-personen/die-datum-spalte/)
+[En savoir plus sur la colonne des dates]({{< relref "base-editor/spalten/die-datum-spalte" >}})
 
 ### Durée
 
@@ -58,7 +58,7 @@ symbole : {{< seatable-icon icon="dtable-icon-duration" >}} **Durée**
 
 La colonne des durées est un type de colonne de nombres spécialisé pour l'enregistrement de **mesures, de durées et d'intervalles de temps** et peut enregistrer une période à la minute ou même à la seconde près. C'est la raison pour laquelle cette colonne convient particulièrement bien, entre autres, pour enregistrer la durée de différents événements. Notez toutefois que les entrées non numériques sont toujours rejetées comme non valables.
 
-[En savoir plus sur la colonne permanente](/fr/docs/datum-dauer-und-personen/die-dauer-spalte/)
+[En savoir plus sur la colonne permanente]({{< relref "base-editor/spalten/die-dauer-spalte" >}})
 
 ### Sélection unique
 
@@ -66,7 +66,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-single-election" >}} **Sélecti
 
 Dans une cellule d'une colonne de sélection simple, vous pouvez choisir **une valeur** dans une liste d'options définies. Vous créez vous-même la liste des options définies pour chaque colonne de sélection simple et pouvez l'adapter à tout moment aux circonstances changeantes. La sélection simple est donc particulièrement adaptée à la catégorisation et au regroupement de vos données.
 
-[En savoir plus sur la colonne de sélection simple](/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+[En savoir plus sur la colonne de sélection simple]({{< relref "base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 
 ### Sélection multiple
 
@@ -74,7 +74,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Choix
 
 Lors d'une sélection multiple, vous pouvez choisir un **nombre quelconque de valeurs** dans une liste d'options définies. Comme pour la sélection simple, vous créez vous-même la liste des valeurs possibles et l'adaptez à vos besoins individuels. La sélection multiple est donc idéale pour l'indexation - également appelée tagging.
 
-[En savoir plus sur la colonne de sélection multiple](/fr/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
+[En savoir plus sur la colonne de sélection multiple]({{< relref "base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 
 ### Image
 

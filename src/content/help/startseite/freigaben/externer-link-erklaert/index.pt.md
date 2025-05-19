@@ -16,9 +16,9 @@ Consequentemente, as ligações externas oferecem-lhe muitas oportunidades excit
 
 ## Funcionalidade e tipos de ligações externas
 
-Uma ligação externa é um **URL** que lhe dá acesso **apenas para leitura** a uma recolha de dados em SeaTable. Uma tal recolha de dados pode ser uma [base](/pt/docs/handbuch/datenmanagement/bases/) ou uma [vista](/pt/docs/handbuch/datenmanagement/ansichten/).
+Uma ligação externa é um **URL** que lhe dá acesso **apenas para leitura** a uma recolha de dados em SeaTable. Uma tal recolha de dados pode ser uma [base]({{< relref "startseite/bases/allgemeines-zu-bases" >}}) ou uma [vista]({{< relref "base-editor/einfuehrung/ansichten/" >}}).
 
-- **Ligação externa para uma base**: Ao chamar esta ligação externa, o visitante pode **ver** todos os dados armazenados numa base, incluindo todas as tabelas. O visitante pode também aceder a **todas as opiniões** e [estatísticas](/pt/docs/handbuch/datenmanagement/statistiken/) **existentes**. Além disso, pode utilizar as **ferramentas de avaliação** [agrupando, ordenando e filtrando](/pt/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/).
+- **Ligação externa para uma base**: Ao chamar esta ligação externa, o visitante pode **ver** todos os dados armazenados numa base, incluindo todas as tabelas. O visitante pode também aceder a **todas as opiniões** e [estatísticas]({{< relref "base-editor/statistiken/anleitung-zum-statistik-modul" >}}) **existentes**. Além disso, pode utilizar as **ferramentas de avaliação** [agrupando, ordenando e filtrando]({{< relref "base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 - **Ligação** externa **para uma visualização**: Uma ligação externa deste tipo concede **acesso a _uma_ visualização específica de uma tabela**. Outras vistas e tabelas na Base bem como **linhas e colunas ocultas** permanecem **ocultas** aos utilizadores da ligação externa. Leia mais sobre isto no artigo [Criar uma ligação externa para uma vista]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
 
 As ligações externas são basicamente **ligações públicas**, ou seja, a ligação pode ser acedida por qualquer pessoa, independentemente de estarem ou não ligadas ao SeaTable. Esta é também uma das principais [diferenças em relação ao link do convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}).
@@ -42,6 +42,6 @@ Os links externos são sempre adequados se quiserem tornar os dados em bases ace
 
 As ligações externas são óptimas para publicar registos individuais num website. Os visitantes do website apenas vêem o conteúdo que foi divulgado, mas não podem alterar o conteúdo.
 
-Com uma simples _etiqueta de incorporação_, pode integrar uma base ou uma vista numa página web através de uma ligação externa. Por exemplo, as bases da nossa [biblioteca de modelos](/pt/docs/templates/) estão incorporadas no nosso website através de ligações externas. É também desta forma que publicamos artigos de imprensa SeaTable na nossa página de imprensa.
+Com uma simples _etiqueta de incorporação_, pode integrar uma base ou uma vista numa página web através de uma ligação externa. Por exemplo, as bases da nossa [biblioteca de modelos](https://seatable.io/vorlagen/) estão incorporadas no nosso website através de ligações externas. É também desta forma que publicamos artigos de imprensa SeaTable na nossa página de imprensa.
 
 ![Incorporação de uma ligação externa numa página web](images/externer-link-in-webseite.gif)

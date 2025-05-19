@@ -18,7 +18,7 @@ En SeaTable puede mantener un debate independiente en cada **fila de** la tabla.
 
 Los debates y comentarios son visibles para todas las personas con acceso a la mesa. Esto incluye también a las personas que acceden a una mesa a través de un [enlace externo](https://seatable.io/es/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
 
-Los comentarios de una tabla no se tienen en cuenta al [exportar una base](/es/docs/handbuch/datenmanagement/datenimport-und-export/#base-exportieren) o al [exportar una tabla a un archivo XLSX](/es/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) y se pierden.
+Los comentarios de una tabla no se tienen en cuenta al [exportar una base]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) o al [exportar una tabla a un archivo XLSX](/es/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) y se pierden.
 
 ## Otros artículos sobre el tema de los comentarios
 

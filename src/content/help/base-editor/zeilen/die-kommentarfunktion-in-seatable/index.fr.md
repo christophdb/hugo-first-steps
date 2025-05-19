@@ -18,7 +18,7 @@ Dans SeaTable, vous pouvez mener une discussion séparée sur chaque **ligne** d
 
 Les discussions et les commentaires sont visibles par toutes les personnes ayant accès au tableau. Cela inclut également les personnes qui accèdent à un tableau via un [lien externe](https://seatable.io/fr/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
 
-Les commentaires dans un tableau ne sont pas pris en compte lors de l ['exportation d'une base](/fr/docs/handbuch/datenmanagement/datenimport-und-export/#base-exportieren) ou de l'[exportation d'un tableau dans un fichier XLSX](/fr/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) et sont alors perdus.
+Les commentaires dans un tableau ne sont pas pris en compte lors de l ['exportation d'une base]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) ou de l'[exportation d'un tableau dans un fichier XLSX](/fr/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) et sont alors perdus.
 
 ## Autres articles sur le thème des commentaires
 

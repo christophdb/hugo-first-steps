@@ -16,9 +16,9 @@ Par conséquent, les liens externes vous offrent de nombreuses possibilités int
 
 ## Fonctionnement et types de liens externes
 
-Un lien externe est une **URL** qui vous permet d'accéder **en lecture** à un recueil de données dans SeaTable. Un tel recueil de données peut être une [base](/fr/docs/handbuch/datenmanagement/bases/) ou une [vue](/fr/docs/handbuch/datenmanagement/ansichten/).
+Un lien externe est une **URL** qui vous permet d'accéder **en lecture** à un recueil de données dans SeaTable. Un tel recueil de données peut être une [base]({{< relref "startseite/bases/allgemeines-zu-bases" >}}) ou une [vue]({{< relref "base-editor/einfuehrung/ansichten/" >}}).
 
-- **Lien externe pour une base**: En appelant ce lien externe, le visiteur peut **voir** toutes les données enregistrées dans une base, y compris tous les tableaux. Le visiteur peut en outre accéder à **toutes les vues** et [statistiques](/fr/docs/handbuch/datenmanagement/statistiken/) **existantes**. Il peut en outre utiliser les **outils d'évaluation** que sont le [regroupement, le tri et le filtre](/fr/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/).
+- **Lien externe pour une base**: En appelant ce lien externe, le visiteur peut **voir** toutes les données enregistrées dans une base, y compris tous les tableaux. Le visiteur peut en outre accéder à **toutes les vues** et [statistiques]({{< relref "base-editor/statistiken/anleitung-zum-statistik-modul" >}}) **existantes**. Il peut en outre utiliser les **outils d'évaluation** que sont le [regroupement, le tri et le filtre]({{< relref "base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 - **Lien externe pour une vue**: un tel lien externe donne **un accès en lecture à _une_ vue spécifique d'un tableau**. Les autres vues et tableaux de la base, ainsi que **les lignes et colonnes masquées**, restent **cachés** aux utilisateurs du lien externe. Pour en savoir plus, consultez l'article [Créer un lien externe pour une vue]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
 
 Les liens externes sont en principe des **liens publics**, c'est-à-dire que le lien peut être consulté par toute personne, qu'elle soit ou non connectée à SeaTable. C'est aussi l'une des principales [différences avec le lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}).
@@ -42,6 +42,6 @@ Les liens externes sont toujours appropriés lorsque vous souhaitez rendre des d
 
 Les liens externes conviennent parfaitement à la publication d'enregistrements individuels sur un site web. Les visiteurs du site web ne voient que les contenus qui ont été partagés, mais ne peuvent pas les modifier.
 
-Une simple _balise embed_ permet d'intégrer une base ou une vue dans une page web via un lien externe. Les bases de notre [bibliothèque de modèles](/fr/docs/templates/) sont par exemple intégrées dans notre site web au moyen de liens externes. C'est également de cette manière que nous publions les articles de presse de SeaTable sur notre page de presse.
+Une simple _balise embed_ permet d'intégrer une base ou une vue dans une page web via un lien externe. Les bases de notre [bibliothèque de modèles](https://seatable.io/vorlagen/) sont par exemple intégrées dans notre site web au moyen de liens externes. C'est également de cette manière que nous publions les articles de presse de SeaTable sur notre page de presse.
 
 ![Intégration d'un lien externe dans une page web](images/externer-link-in-webseite.gif)

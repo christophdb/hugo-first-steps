@@ -26,7 +26,7 @@ Icon: {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Text**
 
 This column type stores **text** without formatting and is one of the most basic column types in SeaTable. Text contents consist of **letters**, **numbers** and **special characters** as well as **spaces**. That's why text columns are often used for names and (short) descriptions.
 
-[More about the text column](/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/)
+[More about the text column]({{< relref "base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Formatted text
 
@@ -34,7 +34,7 @@ Icon: {{< seatable-icon icon="dtable-icon-long-text" >}} **Formatted text**
 
 In this column type you can save **longer texts** with inserted elements such as **images** and **tables**. You also have various formatting and structuring options for your texts using the Markdown markup language. Therefore, the _Formatted Text_ column is often used for descriptions and documentation. If it is helpful for information gathering that texts contain structuring elements and/or text and images are close to each other, then this column type is ideal.
 
-[More about the Formatted Text column](/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/#die_spalte_formatierter_text/)
+[More about the Formatted Text column]({{< relref "base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Number
 
@@ -42,7 +42,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-number" >}} **Number**
 
 Number columns store **numeric information** and can be used in many ways to work with numbers of any kind. A numeric information can be a **number**, a **percentage** or a **monetary amount**. Furthermore, number columns allow you to **calculate values** that you can visualize with formulas and [statistics](https://seatable.io/en/docs/seatable-nutzen/statistiken/). However, number columns are not suitable for storing strings of any length, and SeaTable refuses to allow you to enter letters in this type of column.
 
-[More about the numbers column](/en/docs/text-und-zahlen/die-zahlen-spalte/)
+[More about the numbers column]({{< relref "base-editor/spalten/die-zahlen-spalte" >}})
 
 ### Date
 
@@ -50,7 +50,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} **Date**
 
 You can use the date column to enter **times** and **dates** in your tables down to the minute. Note that date columns always interpret the information entered as a date, so entries that cannot be interpreted as dates are always discarded as invalid.
 
-[More about the date column](/en/docs/datum-dauer-und-personen/die-datum-spalte/)
+[More about the date column]({{< relref "base-editor/spalten/die-datum-spalte" >}})
 
 ### Duration
 
@@ -58,7 +58,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-duration" >}} **Duration**
 
 The duration column is a specialized number column type for storing **time measurements, spans and intervals,** and can thereby record a period of time to the minute or even to the second. For this reason, the column is particularly suitable for recording the duration of various events, among other things. When using the column, however, note that non-numeric entries are always discarded as invalid.
 
-[More about the duration column](/en/docs/datum-dauer-und-personen/die-dauer-spalte/)
+[More about the duration column]({{< relref "base-editor/spalten/die-dauer-spalte" >}})
 
 ### Single selection
 
@@ -66,7 +66,7 @@ Icon: {{< seatable-icon icon="dtable-icon-single-election" >}} **Single selectio
 
 In a cell of a single-selection column you can select a **value** from a list of defined options. You create the list of defined options per single selection column yourself and can adapt it to changing circumstances at any time. The single selection is thus particularly suitable for categorizing and grouping your data.
 
-[More about the single selection column](/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/)
+[More about the single selection column]({{< relref "base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 
 ### Multiple selection
 
@@ -74,7 +74,7 @@ Icon: {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Multiple sel
 
 With a multiple selection, you can choose **any number of values** from a list of defined options. As with the single selection, you create the list of possible values yourself and adapt it to your individual requirements. The multiple selection is therefore ideal for keywording - also called tagging.
 
-[More about the multiple selection column](/en/docs/auswahlspalten/die-mehrfachauswahl-spalte/)
+[More about the multiple selection column]({{< relref "base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 
 ### Image
 

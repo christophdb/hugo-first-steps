@@ -47,7 +47,7 @@ Im nächsten Schritt können Sie eine beliebige Anzahl an Quellspalten aus der T
 
 {{< warning  type="warning" headline="Achtung vor Datenverlust" >}}
 
-Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) in eine [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
+Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
 
 {{< /warning >}}
 
@@ -66,8 +66,8 @@ Um eine leichte Verständlichkeit zu ermöglichen, haben wir uns im Anwendungsfa
 Folgende Spaltentypen können Sie mithilfe der Operation _Vergleichen und kopieren_ **nicht** kopieren und stehen Ihnen dementsprechend bei der Definition der Quell- und Ergebnisspalten **nicht** zur Verfügung.
 
 - [Mehrfachauswahl-Spalte]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
-- [Die Spalte Ersteller]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
-- [Die Spalte Erstellt]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
-- [Die Spalte Letzter Bearbeiter]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [Die Spalte Zuletzt bearbeitet]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Die Spalte Ersteller]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
+- [Die Spalte Erstellt]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
+- [Die Spalte Letzter Bearbeiter]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Die Spalte Zuletzt bearbeitet]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Schaltfläche]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

@@ -98,8 +98,7 @@ Kurz bevorstehende Termine einfärben
 
 Sie haben hier zwei Möglichkeiten, die jeweiligen Zellen einer Datumsspalte einzufärben. Entweder Sie wählen die Bedingung **ist am oder nach** und ein **exaktes Datum** aus – oder Sie wählen die Option **ist innerhalb** und einen Zeitraum in der Zukunft aus.
 
-![Einfärben von Zellen kurz bevorstehende Datum
-](images/einfaerben-von-zellen-7.png)
+![Einfärben von Zellen kurz bevorstehende Datum](images/einfaerben-von-zellen-7.png)
 
 ---
 

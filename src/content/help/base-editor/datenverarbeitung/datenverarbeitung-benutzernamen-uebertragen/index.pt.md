@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. A **transferência de nomes de utilizador** é uma operação que pode copiar dados de colunas do tipo [Empregado]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Criador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) para uma [coluna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
+Usando a função de processamento de dados, é possível realizar várias operações através de uma coluna. A **transferência de nomes de utilizador** é uma operação que pode copiar dados de colunas do tipo [Empregado]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Criador]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) para uma [coluna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ## Pôr em prática a operação
 

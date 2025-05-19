@@ -57,6 +57,6 @@ Bei den folgenden Spaltentypen gibt die Status-Zeile einen berechneten Wert wied
 Bei den folgenden Spaltentypen gibt die Status-Zeile **keinen** berechneten Wert wieder, obwohl sie Zahlen enthalten (können):
 
 - [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Erstellt]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Erstellt]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Zahlen in [Text-Spalten]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

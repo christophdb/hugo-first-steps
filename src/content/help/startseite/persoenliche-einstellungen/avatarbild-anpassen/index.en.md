@@ -10,7 +10,7 @@ url: '/help/avatarbild-anpassen'
 
 You can customize your own **avatar image** in just a few steps in the **personal settings of** your account.
 
-An avatar image is helpful for other team members to quickly identify you in SeaTable, because the image is also displayed as a thumbnail in [collaborator]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [creator]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/), for example, and in front of your name in shares.
+An avatar image is helpful for other team members to quickly identify you in SeaTable, because the image is also displayed as a thumbnail in [collaborator]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [creator]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}), for example, and in front of your name in shares.
 
 ## To customize your avatar image
 
