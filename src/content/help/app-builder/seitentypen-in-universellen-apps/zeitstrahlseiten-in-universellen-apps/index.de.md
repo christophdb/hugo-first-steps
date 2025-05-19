@@ -22,7 +22,7 @@ In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung d
 
 ![Grafische Einstellung der Zeitleisten in Universellen Apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) oder [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
+Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}}) oder [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
 
 ![Seiteneinstellungen der Zeitstrahlseite in Universellen Apps](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

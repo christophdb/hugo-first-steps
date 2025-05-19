@@ -22,7 +22,7 @@ In the **page settings**, you can first set the graphic display of the timelines
 
 ![Graphical setting of the timelines in universal apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-To define the period of the entries, you need a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) or [formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})) that specifies the number of days. You can also select the **time span**, i.e. how many years the timeline should cover.
+To define the period of the entries, you need a [date column]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}}) or [formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) that specifies the number of days. You can also select the **time span**, i.e. how many years the timeline should cover.
 
 ![Page settings of the timeline page in universal apps](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

@@ -26,7 +26,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Text**
 
 Dieser Spaltentyp speichert **Text** ohne Formatierung und gehört zu den grundlegendsten Spaltentypen in SeaTable. Textinhalte bestehen aus **Buchstaben**, **Zahlen** und **Sonderzeichen** sowie **Leerzeichen**. Deswegen werden Text-Spalten häufig für Namen und (Kurz-)Beschreibungen verwendet.
 
-[Mehr zur Text-Spalte]({{< relref "base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
+[Mehr zur Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Formatierter Text
 
@@ -34,7 +34,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-long-text" >}} **Formatierter Text**
 
 In diesem Spaltentyp können Sie **längere Texte** mit eingefügten Elementen, wie **Bildern** und **Tabellen** speichern. Für Ihre Texte stehen Ihnen zudem diverse Formatierungs- und Strukturierungsoptionen mithilfe der Auszeichnungssprache Markdown zur Verfügung. Daher wird die Spalte _Formatierter Text_ häufig für Beschreibungen und Dokumentationen verwendet. Wenn es für die Informationserfassung hilfreich ist, dass Texte strukturierende Elemente beinhalten und/oder Text und Bilder nahe beieinander stehen, dann ist dieser Spaltentyp ideal.
 
-[Mehr zur Spalte Formatierter Text]({{< relref "base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
+[Mehr zur Spalte Formatierter Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Zahl
 
@@ -42,7 +42,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-number" >}} **Zahl**
 
 Zahlen-Spalten speichern **numerische Informationen** und können vielseitig genutzt werden, um mit Zahlen jeder Art zu arbeiten. Eine numerische Information kann dabei eine **Zahl**, ein **Prozentsatz** oder ein **Geldbetrag** sein. Weiterhin ermöglichen Zahlen-Spalten Ihnen die **Berechnung von Werten**, die Sie mit Formeln und [Statistiken](https://seatable.io/docs/seatable-nutzen/statistiken/) visualisieren können. Zum Speichern von beliebig langen Zeichenfolgen eignen sich Zahlen-Spalten jedoch nicht und die Eingabe von Buchstaben wird in diesem Spaltentyp von SeaTable verweigert.
 
-[Mehr zur Zahlen-Spalte]({{< relref "base-editor/spalten/die-zahlen-spalte" >}})
+[Mehr zur Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
 
 ### Datum
 
@@ -50,7 +50,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} **Datum**
 
 Mithilfe der Datum-Spalte können Sie **Zeitpunkte** und **Termine** bis auf die Minute genau in Ihren Tabellen erfassen. Beachten Sie dabei, dass Datumspalten die eingegebenen Informationen stets als Datum interpretieren, sodass nicht als Datum interpretierbare Eingaben immer als ungültig verworfen werden.
 
-[Mehr zur Datum-Spalte]({{< relref "base-editor/spalten/die-datum-spalte" >}})
+[Mehr zur Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 
 ### Dauer
 
@@ -58,7 +58,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-duration" >}} **Dauer**
 
 Die Dauer-Spalte ist ein spezialisierter Zahl-Spaltentyp für die Speicherung von **Zeitmessungen, -spannen und -intervallen** und kann dabei einen Zeitraum auf die Minute oder gar auf die Sekunde genau erfassen. Aus diesem Grund eignet sich die Spalte unter anderem besonders gut, um die Dauer von verschiedenen Ereignissen festzuhalten. Beachten Sie bei der Verwendung der Spalte jedoch, dass nicht-numerische Eingaben stets als ungültig verworfen werden.
 
-[Mehr zur Dauer-Spalte]({{< relref "base-editor/spalten/die-dauer-spalte" >}})
+[Mehr zur Dauer-Spalte]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}})
 
 ### Einfachauswahl
 
@@ -66,7 +66,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-single-election" >}} **Einfachauswah
 
 In einer Zelle einer Einfachauswahl-Spalte können Sie **einen Wert** aus einer Liste definierter Optionen auswählen. Die Liste der definierten Optionen erstellen Sie pro Einfachauswahl-Spalte selbst und können diese jederzeit an wechselnde Umstände anpassen. Die Einfachauswahl eignet sich somit besonders zur Kategorisierung und Gruppierung Ihrer Daten.
 
-[Mehr zur Einfachauswahl-Spalte]({{< relref "base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}} )
+[Mehr zur Einfachauswahl-Spalte]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}} )
 
 ### Mehrfachauswahl
 
@@ -74,7 +74,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Mehrfachau
 
 Bei einer Mehrfachauswahl können Sie eine **beliebige Anzahl an Werten** aus einer Liste definierter Optionen auswählen. Wie bei der Einfachauswahl erstellen Sie die Liste der möglichen Werte selbst und passen diese Ihren individuellen Anforderungen an. Die Mehrfachauswahl bietet sich daher ideal für die Verschlagwortung – auch Tagging genannt – an.
 
-[Mehr zur Mehrfachauswahl-Spalte]({{< relref "base-editor/spalten/die-mehrfachauswahl-spalte" >}})
+[Mehr zur Mehrfachauswahl-Spalte]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 
 ### Bild
 

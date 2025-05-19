@@ -18,7 +18,7 @@ Em SeaTable pode ter uma discussão separada em cada **fila** individual **da** 
 
 As discussões e comentários são visíveis a todas as pessoas com acesso à mesa. Isto inclui também as pessoas que acedem a uma mesa através de uma [ligação externa](https://seatable.io/pt/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
 
-Os comentários de uma tabela não são tidos em conta ao [exportar uma base]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) ou ao [exportar uma tabela para um ficheiro XLSX](/pt/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) e são depois perdidos.
+Os comentários de uma tabela não são tidos em conta ao [exportar uma base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) ou ao [exportar uma tabela para um ficheiro XLSX]({{ relref "help/startseite/import-von-daten/datenimport-und-export" }}) e são depois perdidos.
 
 ## Outros artigos sobre o tema dos comentários
 

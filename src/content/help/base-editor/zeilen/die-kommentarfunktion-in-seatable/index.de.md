@@ -18,7 +18,7 @@ In SeaTable können Sie in jeder einzelnen **Zeile** der Tabelle eine separate D
 
 Die Diskussionen und Kommentare sind für alle Personen mit Zugriff auf die Tabelle sichtbar. Das umfasst auch Personen, die über einen [externen Link](https://seatable.io/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) auf eine Tabelle zugreifen.
 
-Kommentare in einer Tabelle werden weder beim [Export einer Base]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) noch beim [Export einer Tabelle in eine XLSX-Datei]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) berücksichtigt und gehen dann verloren.
+Kommentare in einer Tabelle werden weder beim [Export einer Base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) noch beim [Export einer Tabelle in eine XLSX-Datei]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) berücksichtigt und gehen dann verloren.
 
 ## Weitere Artikel zum Thema Kommentare
 

@@ -22,7 +22,7 @@ url: '/ru/help/zeitstrahlseiten-in-universellen-apps'
 
 ![Графическая настройка временных шкал в универсальных приложениях](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Чтобы определить период записей, вам понадобится [столбец даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) или [формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})), в котором указывается количество дней. Вы также можете выбрать **временной интер** вал, то есть сколько лет должна охватывать временная шкала.
+Чтобы определить период записей, вам понадобится [столбец даты]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}}) или [формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), в котором указывается количество дней. Вы также можете выбрать **временной интер** вал, то есть сколько лет должна охватывать временная шкала.
 
 ![Настройки страницы временной шкалы в универсальных приложениях](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

@@ -22,7 +22,7 @@ Nas **definições da página**, pode começar por definir a representação gr�
 
 ![Definição gráfica das linhas de tempo em aplicações universais](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Para definir o período das entradas, é necessária uma [coluna de data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/) ou [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})) que especifique o número de dias. Também é possível selecionar o **período de tempo**, ou seja, quantos anos a cronologia deve abranger.
+Para definir o período das entradas, é necessária uma [coluna de data]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}}) ou [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) que especifique o número de dias. Também é possível selecionar o **período de tempo**, ou seja, quantos anos a cronologia deve abranger.
 
 ![Definições de página da página da linha de tempo em aplicações universais](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

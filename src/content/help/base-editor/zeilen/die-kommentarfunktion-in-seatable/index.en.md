@@ -18,7 +18,7 @@ In SeaTable you can have a separate discussion in each **row** of the table to h
 
 The discussions and comments are visible to all people with access to the table. This includes people who access a table via an [external link](https://seatable.io/en/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
 
-Comments in a table are not taken into account when [exporting a Base]({{< relref "startseite/import-von-daten/datenimport-und-export" >}}) nor when [exporting a table to an XLSX file](/en/docs/handbuch/datenmanagement/datenimport-und-export/#tabelle-exportieren) and are then lost.
+Comments in a table are not taken into account when [exporting a Base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) nor when [exporting a table to an XLSX file]({{ relref "help/startseite/import-von-daten/datenimport-und-export" }}) and are then lost.
 
 ## More articles on the topic of comments
 

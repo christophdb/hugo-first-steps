@@ -16,9 +16,9 @@ Consequently, external links offer you lots of exciting opportunities. This post
 
 ## Functionality and types of external links
 
-An external link is a **URL** that you can use to access a data collection in SeaTable with **read** access. Such a data collection can be a [base]({{< relref "startseite/bases/allgemeines-zu-bases" >}}) or a [view.]({{< relref "base-editor/einfuehrung/ansichten/" >}})
+An external link is a **URL** that you can use to access a data collection in SeaTable with **read** access. Such a data collection can be a [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) or a [view.]({{< relref "help/base-editor/einfuehrung/ansichten/" >}})
 
-- **External link for a Base**: By calling this external link, the visitor can **see** all data stored in a Base, including all tables. The visitor can also access **all existing views** and [statistics]({{< relref "base-editor/statistiken/anleitung-zum-statistik-modul" >}}). In addition, he can use the **evaluation tools** [grouping, sorting and filtering]({{< relref "base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
+- **External link for a Base**: By calling this external link, the visitor can **see** all data stored in a Base, including all tables. The visitor can also access **all existing views** and [statistics]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}). In addition, he can use the **evaluation tools** [grouping, sorting and filtering]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 - **External link for a view**: Such an external link grants **read access to _a_ specific view of a table**. Other views and tables in Base as well as **hidden rows and columns** remain **hidden** from the users of the external link. Read more about it in the article [Creating an external link for a view]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
 
 External links are basically **public links**, i.e. the link can be accessed by anyone, regardless of whether they are logged into SeaTable or not. This is also one of the main [differences from the invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}).
