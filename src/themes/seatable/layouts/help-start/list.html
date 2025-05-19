@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <section class="padding max-container my-4">
+    <section class="padding max-container mt-4">
         <div class="text-center">
             <h1 class="mb-8 text-4xl">{{ .Params.headline }}</h1>
 
@@ -25,10 +25,74 @@
                     </div>
                 </a>
             {{ end }}
-
         </div>
+    </section>
 
-        <!--
+    <!--
+    <section class="bg-gray-100 curved relative">
+        <section class="max-container">
+            <p class="gradient font-poppins text-2xl font-bold">asdf</p>
+            <h2 class="mt-1 text-4xl font-bold">adf</h2>
+            <div class="mx-auto mt-32 grid grid-cols-1 gap-40 lg:grid-cols-2 xl:grid-cols-3">
+                <div class=" ">
+                    <span class="text-center text-3xl text-seatable-orange">{{ partial "icon.html" "ghost" }}</span>
+                    <h3 class="mt-3 text-2xl font-bold">Was gibt es Neues?</h3>
+                    <p class="mb-8 mt-4 text-lg leading-normal">Alle Upgrades und Verbesserungen, mit denen sich alles besser organisieren lässt.</p>
+                    <a href="#" class="text-blue-600">Zum Changelog</a>
+                </div>
+                <div class=" ">
+                    <span class="text-center text-3xl text-seatable-orange">{{ partial "icon.html" "ghost" }}</span>
+                    <h3 class="mt-3 text-2xl font-bold">Kurzanleitung</h3>
+                    <p class="mb-8 mt-4 text-lg leading-normal">Wissen Sie nicht, wo Sie anfangen sollen? Unsere Kurzanleitung wird Ihnen helfen.</p>
+                    <a href="#" class="text-blue-600">Loslegen</a>
+                </div>
+                <div class="">
+                    <span class="text-center text-3xl text-seatable-orange">{{ partial "icon.html" "ghost" }}</span>
+                    <h3 class="mt-3 text-2xl font-bold">Vorlagen</h3>
+                    <p class="mb-8 mt-4 text-lg leading-normal">Erfinden Sie das Rad nicht neu. SeaTable bietet Vorlagen für fast jede Herausforderung.</p>
+                    <a href="#" class="text-blue-600">Vorlagen erkunden</a>
+                </div>
+            </div>
+        </section>
+    </section>
+
+        <section class="max-container">
+            <div class="mx-auto max-w-xl text-center">
+                <h2 class="mt-1 text-3xl font-bold">Echte Menschen, die für dich da sind</h2>
+                <p class="mt-4 text-lg leading-relaxed">
+                    98 von 100 Personen finden die Antworten, die sie brauchen, in einem unserer Hilfeartikel. Wenn du zu den verbleibenden 2 % gehörst, steht dir unser
+                    Expertenteam zur Verfügung.
+                </p>
+                <div class="mt-8 text-center">
+                    <a class="bg-gradient text-md rounded-xl px-5 py-2 font-poppins font-bold text-white" href="#">Kontaktiere uns</a>
+                </div>
+            </div>
+
+            <div class="max-container mb-24 mt-24 grid grid-cols-1 gap-2 lg:grid-cols-2 xl:grid-cols-3">
+                <div class="rounded-xl border p-6 pr-10">
+                    <p class="text-lg leading-normal">
+                        „Stacey war fantastisch – sie war äußerst hilfsbereit und hat unermüdlich daran gearbeitet, mein Problem zu lösen. Ich schätze ihre Unterstützung wirklich
+                        sehr.“
+                    </p>
+                </div>
+                <div class="rounded-xl border p-6 pr-10">
+                    <p class="text-lg leading-normal">
+                        „Direkt auf den Punkt gebracht und wirklich schnell geantwortet. Alles gut erklärt und das Problem gelöst. Was will man mehr?“
+                    </p>
+                </div>
+                <div class="rounded-xl border p-6 pr-10">
+                    <p class="text-lg leading-normal">
+                        „In Zeiten, in denen Bots oft die erste und sogar zweite Ebene des Supports bei den meisten Dienstleistungsunternehmen darstellen, war es eine willkommene
+                        Erfahrung, mit einer echten Person zu sprechen. Die Interaktion mit Stephanie war besonders erfrischend und ermutigend, da sie mir das Gefühl gab, dass die
+                        Kundschaft Todoist wirklich am Herzen liegt.“
+                    </p>
+                </div>
+            </div>
+        </section>
+    </section>
+    -->
+
+    <!--
         <div class="my-12">Noch ganz viele andere Hilfequellen...</div>
         <ul>
             <li>Was gibt es neues?</li>
@@ -38,5 +102,4 @@
             <li>Andere Dokumenttionen</li>
         </ul>
         -->
-    </section>
 {{ end }}

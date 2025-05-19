@@ -4,4 +4,5 @@ description: ''
 weight: 4
 url: /pt'/help/app-builder'
 icon: 'layer-group'
+color: bg-orange-100
 ---

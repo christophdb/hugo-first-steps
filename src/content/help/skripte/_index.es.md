@@ -4,4 +4,5 @@ description: '...'
 weight: 7
 url: /es'/help/scripts'
 icon: 'code'
+color: bg-stone-100
 ---
