@@ -1,5 +1,5 @@
 ---
-title: 'Team Admin'
+title: 'Administrador da equipa'
 description: ''
 weight: 5
 url: '/pt/ajuda/team-admin'

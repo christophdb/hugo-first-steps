@@ -1,5 +1,5 @@
 ---
-title: 'Home page'
+title: 'Главная страница'
 description: ''
 weight: 2
 url: '/ru/help/homepage'

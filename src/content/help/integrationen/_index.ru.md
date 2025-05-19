@@ -1,5 +1,5 @@
 ---
-title: 'Integrations'
+title: 'Интеграции'
 description: ''
 weight: 8
 url: '/ru/help/integrations'

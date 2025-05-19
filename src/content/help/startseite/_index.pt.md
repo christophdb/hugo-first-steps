@@ -1,5 +1,5 @@
 ---
-title: 'Home page'
+title: 'Página principal'
 description: ''
 weight: 2
 url: '/pt/ajuda/homepage'

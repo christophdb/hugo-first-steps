@@ -1,5 +1,5 @@
 ---
-title: 'Getting started'
+title: 'Начало работы'
 description: ''
 weight: 1
 url: '/ru/help/first-steps'

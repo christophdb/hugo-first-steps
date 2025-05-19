@@ -1,5 +1,5 @@
 ---
-title: 'Getting started'
+title: 'Começar'
 description: ''
 weight: 1
 url: '/pt/ajuda/first-steps'

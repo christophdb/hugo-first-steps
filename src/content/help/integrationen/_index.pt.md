@@ -1,5 +1,5 @@
 ---
-title: 'Integrations'
+title: 'Integrações'
 description: ''
 weight: 8
 url: '/pt/ajuda/integrations'
