@@ -17,7 +17,7 @@ Sie benötigen eine Tabelle in Ihrer Base mehrmals in leicht abgewandelter Form?
 
 ![Dialog: Einträge duplizieren, wenn Tabelle dupliziert wird](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png) 7. Bestätigen Sie mit **Abschicken**.
 
-{{< warning  headline="Hinweis"  text="Alle Ansichten werden mit allen [Ansichtseinstellungen](\"https://seatable.io/docs/ansichtsoptionen/\") ebenfalls dupliziert, sodass die kopierte Tabelle ein genaues Abbild der ursprünglichen Tabelle ist." />}}
+{{< warning  headline="Hinweis"  text="Alle Ansichten werden mit allen [Ansichtseinstellungen](https://seatable.io/docs/ansichtsoptionen/) ebenfalls dupliziert, sodass die kopierte Tabelle ein genaues Abbild der ursprünglichen Tabelle ist." />}}
 
 **So sieht das Ergebnis mit duplizierten Einträgen aus**
 

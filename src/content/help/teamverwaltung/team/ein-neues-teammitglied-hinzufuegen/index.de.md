@@ -24,7 +24,7 @@ Als **Team-Administrator** können Sie über die **Teamverwaltung** neue Teammit
 8. Wählen Sie die **Sprache** aus, in der die E-Mail verfasst werden soll.
 9. Klicken Sie auf **Teammitglied hinzufügen**.
 
-{{< warning  type="warning" headline="Achtung"  text="Sie können **kein Teammitglied** hinzufügen, das **mit derselben E-Mail-Adresse** bereits ein anderes Konto bei SeaTable erstellt hat. Damit Sie ein Konto mit dieser E-Mail-Adresse anlegen können, muss dieser Nutzer alle seine Daten sichern (z. B. als [DTABLE-Datei exportieren](\"https://seatable.io/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/\")) und sein bisheriges Konto löschen. Mehr dazu erfahren Sie im Artikel [Kann man zwei SeaTable Konten zusammenführen?](\"https://seatable.io/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/\")" />}}
+{{< warning  type="warning" headline="Achtung"  text="Sie können **kein Teammitglied** hinzufügen, das **mit derselben E-Mail-Adresse** bereits ein anderes Konto bei SeaTable erstellt hat. Damit Sie ein Konto mit dieser E-Mail-Adresse anlegen können, muss dieser Nutzer alle seine Daten sichern (z. B. als [DTABLE-Datei exportieren](https://seatable.io/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/)) und sein bisheriges Konto löschen. Mehr dazu erfahren Sie im Artikel [Kann man zwei SeaTable Konten zusammenführen?](https://seatable.io/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/)" />}}
 
 ## Weitere Optionen beim Anlegen eines Teammitglieds
 

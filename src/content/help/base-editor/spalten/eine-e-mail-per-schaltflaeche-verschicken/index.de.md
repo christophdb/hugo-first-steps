@@ -20,7 +20,7 @@ Wählen Sie unter **Kontoname** einen Account aus, von dem aus Sie die E-Mail ve
 
 ![Falls Ihnen kein E-Mail-Account angezeigt wird, müssen Sie zunächst ein Email-Konto zu SeaTable hinzufügen](images/add-email-account.png)
 
-{{< warning  type="warning" headline="Hinweis"  text="Eine detaillierte Anleitung, wie Sie Ihren **E-Mail-Account** für den Versand von E-Mails einrichten, finden Sie [hier](\"https://seatable.io/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/\"). Der von Ihnen hinzugefügte **Account** steht Ihnen im Anschluss bei der Erstellung der Schaltfläche zur Auswahl." />}}
+{{< warning  type="warning" headline="Hinweis"  text="Eine detaillierte Anleitung, wie Sie Ihren **E-Mail-Account** für den Versand von E-Mails einrichten, finden Sie [hier](https://seatable.io/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/). Der von Ihnen hinzugefügte **Account** steht Ihnen im Anschluss bei der Erstellung der Schaltfläche zur Auswahl." />}}
 
 Legen Sie nun den **Betreff** und **Inhalt** der E-Mail fest.
 

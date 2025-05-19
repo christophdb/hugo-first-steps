@@ -10,7 +10,7 @@ url: '/de/hilfe/eine-tabellenbeschreibung-hinzufuegen'
 
 Jede Tabelle in Ihrer Base können Sie mit einer Beschreibung versehen. Mit diesem prägnanten Text können Sie beispielsweise die Tabelleninhalte erläutern.
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Sie können – unabhängig von Ihrer [Rolle und Berechtigung](\"https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/\") – auch die Tabellenbeschreibungen in Bases bearbeiten, die zu einer **Gruppe** gehören. Die Beschreibung von Tabellen, die an Sie [freigegeben](\"https://seatable.io/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/\") wurden, können Sie hingegen ausschließlich mit **Schreibrechten** bearbeiten." />}}
+{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Sie können – unabhängig von Ihrer [Rolle und Berechtigung](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) – auch die Tabellenbeschreibungen in Bases bearbeiten, die zu einer **Gruppe** gehören. Die Beschreibung von Tabellen, die an Sie [freigegeben](https://seatable.io/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) wurden, können Sie hingegen ausschließlich mit **Schreibrechten** bearbeiten." />}}
 
 ## Wie Sie eine Beschreibung zu einer Tabelle hinzufügen
 

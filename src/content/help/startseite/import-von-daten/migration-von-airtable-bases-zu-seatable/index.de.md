@@ -14,7 +14,7 @@ Für den Transfer der Airtable Daten in SeaTable haben wir ein Migrationsskript 
 
 Das Skript kann jeder - Techniker wie nicht-Techniker - verwenden. Es sind nur ein paar **manuelle Angaben** erforderlich, um das Skript betriebsbereit zu machen. In diesem Artikel erklären wir, wie Sie das machen.
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Das Migrationsskript ist funktional, aber noch beta. Wir passen es fortlaufend an und optimieren es. Bei Problemen hinterlassen Sie bitte einen Post im [SeaTable Forum](\"https://forum.seatable.io/\")." />}}
+{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Das Migrationsskript ist funktional, aber noch beta. Wir passen es fortlaufend an und optimieren es. Bei Problemen hinterlassen Sie bitte einen Post im [SeaTable Forum](\"https://forum.seatable.io/)." />}}
 
 ## Wie Sie eine Base von Airtable zu SeaTable migrieren
 

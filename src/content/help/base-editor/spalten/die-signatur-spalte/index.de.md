@@ -42,7 +42,7 @@ Wenn Sie mit Ihrer hinterlegten Signatur nicht zufrieden sind und nochmals unter
 
 ![Erneut im Signatur-Panel unterschreiben](images/resign.jpg)
 
-{{< warning  headline="Datei nicht gelöscht"  text="Die ursprüngliche Unterschrift bleibt allerdings in der [Dateiverwaltung](\"https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/\") der Base als PNG-Datei abrufbar, wenn Sie sie bereits gespeichert hatten." />}}
+{{< warning  headline="Datei nicht gelöscht"  text="Die ursprüngliche Unterschrift bleibt allerdings in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) der Base als PNG-Datei abrufbar, wenn Sie sie bereits gespeichert hatten." />}}
 
 ## Digitale Unterschriften in der Dateiverwaltung
 

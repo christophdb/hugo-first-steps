@@ -95,4 +95,4 @@ Wählen Sie anschließend das gewünschte **Bild** aus und klicken Sie auf das {
 
 ![Bestätigung der Löschung](images/confirm-delete.jpg)
 
-{{< warning  type="warning" headline="Achtung"  text="Aus einer Bild-Spalte gelöschte Bilder sind weiterhin Teil der Base und somit **nicht** endgültig gelöscht. Lesen Sie hierzu die Artikel [Zugriff auf gelöschte Dateien und Bilder](\"https://seatable.io/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/\") und [Wie man Dateien dauerhaft entfernt](\"https://seatable.io/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/\")." />}}
+{{< warning  type="warning" headline="Achtung"  text="Aus einer Bild-Spalte gelöschte Bilder sind weiterhin Teil der Base und somit **nicht** endgültig gelöscht. Lesen Sie hierzu die Artikel [Zugriff auf gelöschte Dateien und Bilder](https://seatable.io/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) und [Wie man Dateien dauerhaft entfernt](https://seatable.io/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}

@@ -23,4 +23,4 @@ Selbstverständlich steht Ihnen jederzeit die Möglichkeit offen, dass Sie ein K
 
 Das Deaktivieren des Teammitglieds im ursprünglichen Team ist nicht ausreichend. Damit SeaTable die E-Mail-Adresse erneut verwenden kann, müssen Sie das Teammitglied komplett löschen.
 
-{{< warning headline="Achtung" text="Wenn Sie [das komplette Team löschen](\"https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/\"), werden auch alle anderen Teammitglieder gelöscht." />}}
+{{< warning headline="Achtung" text="Wenn Sie [das komplette Team löschen](https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/), werden auch alle anderen Teammitglieder gelöscht." />}}

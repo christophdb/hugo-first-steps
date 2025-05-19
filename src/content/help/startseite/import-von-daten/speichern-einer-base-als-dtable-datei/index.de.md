@@ -22,7 +22,7 @@ Je nach Browser-Einstellungen startet der **Download** nun entweder automatisch 
 
 Sobald am angegebenen Speicherort Ihre Datei mit der Endung **.dtable** auftaucht, ist der Export der Base abgeschlossen.
 
-{{< warning  headline="Hinweis"  text="Seien Sie darauf gefasst, dass die **DTABLE-Datei** sehr **groß** werden kann, wenn Sie in der exportierten Base regen Gebrauch von Datei- und Bild-Spalten gemacht haben. In der SeaTable Cloud können Bases mit einer **maximalen Größe bis 100 MB** exportiert werden. Über die [Dateiverwaltung](\"https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/\") können Sie in Bases, die dieses Größenlimit überschreiten, **Dateianhänge löschen**, um den Export zu ermöglichen." />}}
+{{< warning  headline="Hinweis"  text="Seien Sie darauf gefasst, dass die **DTABLE-Datei** sehr **groß** werden kann, wenn Sie in der exportierten Base regen Gebrauch von Datei- und Bild-Spalten gemacht haben. In der SeaTable Cloud können Bases mit einer **maximalen Größe bis 100 MB** exportiert werden. Über die [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) können Sie in Bases, die dieses Größenlimit überschreiten, **Dateianhänge löschen**, um den Export zu ermöglichen." />}}
 
 ## Was speichert eine DTABLE-Datei?
 

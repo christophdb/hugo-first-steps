@@ -35,7 +35,7 @@ Sie können in der Datei-Spalte **Dateien hochladen**, indem Sie mit der Maus au
 3. Ein neues Fenster öffnet sich. Hier können Sie per **Drag-and-Drop** oder **Klick** Dateien von Ihrem Gerät hochladen.
 4. Wählen Sie mehrere Dateien gleichzeitig aus, indem Sie alle Dokumente, die Sie hochladen möchten, markieren und zusammen hochladen.
 
-{{< warning  type="warning" headline="Mit Dateiverwaltung verbunden"  text="Dateien, die Sie lokal in eine Datei-Spalte hochladen, werden in einem **Systemordner** gespeichert, den Sie über die [Dateiverwaltung](\"https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/\") Ihrer Base aufrufen können." />}}
+{{< warning  type="warning" headline="Mit Dateiverwaltung verbunden"  text="Dateien, die Sie lokal in eine Datei-Spalte hochladen, werden in einem **Systemordner** gespeichert, den Sie über die [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base aufrufen können." />}}
 
 ## Hinzufügen von bestehenden Dateien
 
@@ -96,7 +96,7 @@ Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu
     - Wählen Sie die Option **Alle Auswählen** oder setzen Sie **Häkchen** in den Kästchen vor den Dateien.
     - Klicken Sie auf **Löschen**.
 
-{{< warning  headline="Hinweis"  text="Auf diesem Weg sind die Dateien **nicht** endgültig gelöscht. Erst, wenn Sie in der [Dateiverwaltung](\"https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/\") der Base die Dateien löschen, werden diese [dauerhaft entfernt](\"https://seatable.io/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/\")." />}}
+{{< warning  headline="Hinweis"  text="Auf diesem Weg sind die Dateien **nicht** endgültig gelöscht. Erst, wenn Sie in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) der Base die Dateien löschen, werden diese [dauerhaft entfernt](https://seatable.io/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
 
 ## Häufige Fragen
 

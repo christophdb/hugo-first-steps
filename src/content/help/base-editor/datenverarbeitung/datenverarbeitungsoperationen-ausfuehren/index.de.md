@@ -24,7 +24,7 @@ Datenverarbeitungsoperationen führen Sie entweder **manuell** oder **per Automa
    ![Ausführung einer Datenverarbeitungsaktion](images/run-data-processing-actions.jpg)7. Nach erfolgreicher Ausführung erscheint anstelle des Play-Symbols ein **grüner Haken**.
    ![Grüner Haken zur Bestätigung der erfolgten Ausführung einer Datenverarbeitungsaktion](images/conformation-for-the-runof-a-data-processing-action.jpg)
 
-{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Sie können Datenverarbeitungsoperationen nicht nur **manuell**, sondern auch [per Automation](\"https://seatable.io/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/\") ausführen. Lesen Sie bei Interesse alles dazu im verlinkten Artikel." />}}
+{{< warning  type="warning" headline="Wichtiger Hinweis"  text="Sie können Datenverarbeitungsoperationen nicht nur **manuell**, sondern auch [per Automation](https://seatable.io/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ausführen. Lesen Sie bei Interesse alles dazu im verlinkten Artikel." />}}
 
 ## Folgen der Ausführung
 

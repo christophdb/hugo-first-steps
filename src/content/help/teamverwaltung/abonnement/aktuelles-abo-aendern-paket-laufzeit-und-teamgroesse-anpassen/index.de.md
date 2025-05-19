@@ -53,7 +53,7 @@ Selbstverständlich zahlen Sie bei jeder Änderung auch nur den jeweiligen **ant
 
 Sie können zum Ende der bereits bezahlten Laufzeit zum kostenlosen Free-Abonnement zurückkehren. Hierfür müssen Sie Ihr kostenpflichtiges Abonnement kündigen.
 
-{{< warning  type="warning" headline="Kündigung ist keine Löschung"  text="Eine Kündigung Ihres kostenpflichtigen Abonnements führt nicht zur Löschung Ihres Teams oder Ihrer Daten. Ihr Team wird lediglich zum Ende der Laufzeit auf das kostenlose SeaTable Free zurückgestuft. Wie Sie Ihr Team komplett löschen, erfahren Sie [hier](\"https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/\")." />}}
+{{< warning  type="warning" headline="Kündigung ist keine Löschung"  text="Eine Kündigung Ihres kostenpflichtigen Abonnements führt nicht zur Löschung Ihres Teams oder Ihrer Daten. Ihr Team wird lediglich zum Ende der Laufzeit auf das kostenlose SeaTable Free zurückgestuft. Wie Sie Ihr Team komplett löschen, erfahren Sie [hier](https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/)." />}}
 
 1. Öffnen Sie die **Teamverwaltung**.
 2. Klicken Sie auf **Abonnement**.

@@ -20,4 +20,4 @@ Des Weiteren können Sie Tabellen im Base-Header mithilfe der **Pfeiltasten** {{
 
 ![Tabelle im Base-Header mit Pfeiltasten finden](images/Tabelle-im-Base-Header-mit-Pfeiltasten-finden.gif)
 
-{{< warning  type="warning" headline="Tipp"  text="Sie können Tabellen auch [per Drag-and-Drop verschieben](\"https://seatable.io/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/\"), um Ihre meistgenutzten Tabellen immer griffbereit links im Base-Header zu sehen." />}}
+{{< warning  type="warning" headline="Tipp"  text="Sie können Tabellen auch [per Drag-and-Drop verschieben](https://seatable.io/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/), um Ihre meistgenutzten Tabellen immer griffbereit links im Base-Header zu sehen." />}}

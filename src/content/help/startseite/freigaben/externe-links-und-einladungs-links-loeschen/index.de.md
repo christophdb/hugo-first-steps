@@ -38,7 +38,7 @@ Sowohl **externe Links** als auch **Einladungs-Links** können Sie jederzeit auf
 4. Wählen Sie den zu löschenden **Link** aus.
 5. Bestätigen Sie die Löschung durch Aktivieren des **Reglers** und klicken Sie auf **Einladungs-Link löschen** (für Einladungs-Links) bzw. **Freigabe löschen** (für externe Links). ![Bestätigen Sie die Löschung](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
-{{< warning  headline="Funktioniert nur bei Base-Links"  text="Einen [externen Link für eine Ansicht](\"https://seatable.io/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/\") können Sie nicht über die Teamverwaltung, sondern nur über das Teilen-Icon für Ansichten löschen." />}}
+{{< warning  headline="Funktioniert nur bei Base-Links"  text="Einen [externen Link für eine Ansicht](https://seatable.io/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) können Sie nicht über die Teamverwaltung, sondern nur über das Teilen-Icon für Ansichten löschen." />}}
 
 ## Konsequenzen der Löschung
 
@@ -52,7 +52,7 @@ Versuchen Nutzer einen **gelöschten** Einladungs-Link zu öffnen, erscheint fol
 
 Nach dem Löschen des Einladungs-Links können folglich **keine weiteren Nutzer** mehr Zugriff auf die geteilte Base erhalten.
 
-{{< warning  type="warning" headline="Eingeladene Benutzer behalten Zugang"  text="Nutzer, die Ihre Einladung vor der Löschung des Links angenommen haben, können weiterhin auf die geteilte Base zugreifen und werden bei den [Benutzerfreigaben](\"https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/\") aufgeführt. Dort können Sie die Freigabe aber natürlich löschen." />}}
+{{< warning  type="warning" headline="Eingeladene Benutzer behalten Zugang"  text="Nutzer, die Ihre Einladung vor der Löschung des Links angenommen haben, können weiterhin auf die geteilte Base zugreifen und werden bei den [Benutzerfreigaben](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/) aufgeführt. Dort können Sie die Freigabe aber natürlich löschen." />}}
 
 ### Löschung eines externen Links
 
