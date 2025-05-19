@@ -13,14 +13,15 @@
             </script>
         </div>
 
-        <div class="my-12 grid auto-rows-fr grid-cols-5 gap-4">
+        <div class="mx-auto my-12 grid max-w-4xl auto-rows-fr grid-cols-4 gap-4">
             {{ range .Sections }}
+                {{ $bgClass := .Params.color | default "bg-red-100" }}
                 <a href="{{ .RelPermalink }}">
                     <div class="flex h-full flex-col rounded-xl">
-                        <div class="flex w-full justify-center rounded-t-xl bg-red-100 p-4 text-3xl text-seatable-gray">
+                        <div class="{{ $bgClass }} flex w-full justify-center rounded-t-xl border p-4 text-3xl text-seatable-gray">
                             {{ partial "icon.html" .Params.icon }}
                         </div>
-                        <span class="text-md h-full rounded-b-xl border p-4 text-center font-poppins font-bold text-seatable-gray">{{ .Title }}</span>
+                        <span class="text-md h-full rounded-b-xl border px-4 pb-8 pt-6 text-center font-poppins text-seatable-gray">{{ .Title }}</span>
                     </div>
                 </a>
             {{ end }}
