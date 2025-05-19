@@ -65,7 +65,7 @@ jobs:
             - name: Install muffet
               run: go install github.com/raviqqe/muffet/v2@${MUFFET_VERSION}
             - name: Check links
-              run: muffet -t60 -c10 -f -i 'http://127*' -i 'http://localhost' http://127.0.0.1:1313
+              run: muffet -t60 -c10 -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
 
     deploy:
         name: Deploy
