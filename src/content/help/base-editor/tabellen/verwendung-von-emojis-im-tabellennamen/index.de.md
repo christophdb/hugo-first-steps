@@ -20,7 +20,7 @@ Wie wäre es beispielsweise mit Symbolen für Vorstellungsgespräche (z. B. Spr
 
 Probieren Sie es einfach aus! Kopieren Sie ein zu Ihrer Tabelle passendes **Emoji** und fügen Sie es in den **Tabellennamen** ein.
 
-{{< warning  headline="Tipp"  text="Eine große Auswahl an verschiedenen Emojis finden Sie z. B. auf [emojiterra.com](\"https://emojiterra.com\") oder [emojipedia.org](\"https://emojipedia.org/)." />}}
+{{< warning  headline="Tipp"  text="Eine große Auswahl an verschiedenen Emojis finden Sie z. B. auf [emojiterra.com](https://emojiterra.com) oder [emojipedia.org](https://emojipedia.org/)." />}}
 
 ## Tabelle umbenennen und Emoji einfügen
 

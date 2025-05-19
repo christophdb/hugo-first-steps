@@ -14,7 +14,7 @@ Nun fügen wir die Funktion hinzu, dass Teilnehmer, die sich für einen Kurs ang
 
 Um E-Mails mit SeaTable zu verschicken, müssen Sie zunächst ein E-Mail-Konto in der Base hinterlegen. Da die Konfiguration je nach Anbieter unterschiedlich ist, empfehlen wir die Nutzung von [mailtrap](https://mailtrap.io). _Mailtrap_ ermöglicht es Ihnen, E-Mails in ein virtuelles Postfach zu senden, was den Vorteil hat, dass keine E-Mails an reale oder fiktive Kunden versendet werden – Sie können jedoch den E-Mail-Versand realitätsnah simulieren.
 
-{{< warning type="warning" headline="Welcher E-Mail-Anbieter ist der richtige für mich" text="Es gibt keinen _richtigen_ oder _falschen_\> E-Mail-Anbieter. Wenn Sie nur wenige E-Mails pro Tag versenden, reicht Ihr bestehendes E-Mail-Konto wahrscheinlich aus. Bei steigendem E-Mail-Volumen sollten Sie jedoch einen professionellen Anbieter wie [Brevo.com](\"https://brevo.com\") in Betracht ziehen, der es Ihnen ermöglicht, die Zustellung der E-Mails besser nachzuverfolgen." />}}
+{{< warning type="warning" headline="Welcher E-Mail-Anbieter ist der richtige für mich" text="Es gibt keinen _richtigen_ oder _falschen_\> E-Mail-Anbieter. Wenn Sie nur wenige E-Mails pro Tag versenden, reicht Ihr bestehendes E-Mail-Konto wahrscheinlich aus. Bei steigendem E-Mail-Volumen sollten Sie jedoch einen professionellen Anbieter wie [Brevo.com](https://brevo.com) in Betracht ziehen, der es Ihnen ermöglicht, die Zustellung der E-Mails besser nachzuverfolgen." />}}
 
 ### Ein Mailtrap-Konto erstellen
 

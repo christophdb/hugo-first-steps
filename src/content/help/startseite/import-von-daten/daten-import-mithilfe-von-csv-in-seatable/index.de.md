@@ -18,7 +18,7 @@ Mit der Import-Funktion von SeaTable können Sie CSV-Dateien in Ihre Bases über
 2. Eine CSV-Datei als **neue Tabelle** in eine **existierende Base** importieren.
 3. Eine CSV-Datei in eine bereits **existierende Tabelle** importieren.
 
-{{< warning  type="warning" headline="Achtung"  text="Damit SeaTable eine CSV-Datei korrekt erkennt, muss sie nach [UTF-8-Standard](\"https://de.wikipedia.org/wiki/UTF-8\") formatiert sein." />}}
+{{< warning  type="warning" headline="Achtung"  text="Damit SeaTable eine CSV-Datei korrekt erkennt, muss sie nach [UTF-8-Standard](https://de.wikipedia.org/wiki/UTF-8) formatiert sein." />}}
 
 ## Option 1: Als neue Base importieren
 
