@@ -29,7 +29,7 @@ The **first column** in a table **only** supports **6 of the 25 column types**. 
 
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Number]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Single selection]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})

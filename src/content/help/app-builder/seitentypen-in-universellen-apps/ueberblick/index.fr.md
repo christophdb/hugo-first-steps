@@ -50,7 +50,7 @@ Ce type de page vous permet d'afficher sous forme de **galerie** **les images** 
 
 ## Type de page : Calendrier
 
-Ce type de page fonctionne de manière similaire au [plug-in calendrier]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) de votre tableau dans un **calendrier**. Une application concrète pourrait être par exemple la représentation calendaire de **réunions** à venir.
+Ce type de page fonctionne de manière similaire au [plug-in calendrier]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) de votre tableau dans un **calendrier**. Une application concrète pourrait être par exemple la représentation calendaire de **réunions** à venir.
 
 ![Réunions à venir dans une vue de calendrier de la page de calendrier](images/calendar-page-example.png)
 

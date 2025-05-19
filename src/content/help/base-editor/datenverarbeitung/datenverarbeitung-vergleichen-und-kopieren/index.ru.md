@@ -59,7 +59,7 @@ url: '/ru/help/datenverarbeitung-vergleichen-und-kopieren'
 
 {{< warning  headline="Остерегайтесь потери данных" >}}
 
-Колонки источника и результата должны иметь **одинаковый тип колонок**, чтобы данные не были потеряны при копировании. Например, можно скопировать данные из [столбца даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) в [текстовый столбец]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), но тогда они уже не будут подходить для [календарей](https://seatable.io/ru/docs/plugins/anleitung-zum-kalender-plugin/). Поэтому перед выполнением операции создайте в целевой таблице столбец **результата** того же типа для каждого столбца **источника**, который вы хотите скопировать.
+Колонки источника и результата должны иметь **одинаковый тип колонок**, чтобы данные не были потеряны при копировании. Например, можно скопировать данные из [столбца даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) в [текстовый столбец]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), но тогда они уже не будут подходить для [календарей](https://seatable.io/ru/docs/plugins/anleitung-zum-kalender-plugin/). Поэтому перед выполнением операции создайте в целевой таблице столбец **результата** того же типа для каждого столбца **источника**, который вы хотите скопировать.
 
 {{< /warning >}}
 

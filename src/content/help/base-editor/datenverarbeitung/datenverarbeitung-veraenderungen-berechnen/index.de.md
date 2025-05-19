@@ -25,7 +25,7 @@ Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über ei
 
 Ein konkreter Anwendungsfall für diese Datenverarbeitungs-operation könnte beispielsweise auftreten, wenn Sie die Anzahl der täglichen Zugriffe auf eine Website erheben und herausfinden möchten, wie sich die **Zugriffszahlen** im Zeitraum zwischen zwei Messungen verändert haben. Hierfür möchten Sie die **Differenz** zwischen den Zugriffszahlen in einer weiteren Spalte berechnen.
 
-Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) erhoben werden.
+Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) erhoben werden.
 
 ![Beispieltabelle für den Anwendungsfall Veränderungen berechnen](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

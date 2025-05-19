@@ -33,7 +33,7 @@ url: '/ru/help/datenverarbeitung-kumulierte-werte-berechnen'
 
 Конкретный случай использования этой операции обработки данных может возникнуть, например, если вы хотите собрать в своей таблице количество ежедневных обращений к веб-сайту. Для этого нужно **сложить** **цифры доступа за** каждый отдельный день, которые записаны в существующем [столбце чисел]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), из строки в строку в новом столбце.
 
-Для реализации сначала нужна таблица, в которой различные **дни** собраны в [столбце даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), а **номера доступа** к сайту - в [столбце числа]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
+Для реализации сначала нужна таблица, в которой различные **дни** собраны в [столбце даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), а **номера доступа** к сайту - в [столбце числа]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
 
 ![Пример таблицы для случая использования Вычислить суммарные значения](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

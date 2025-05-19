@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/die-dauer-spalte'
 ---
 
-Die **Dauer-Spalte** eignet sich besonders gut, um die Dauer von verschiedenen Ereignissen festzuhalten. Sie kann dabei einen **Zeitraum** auf die Minute oder gar auf die Sekunde genau erfassen. Beispielsweise bietet es sich für die Arbeitszeiterfassung an, die Dauer-Spalte in Verbindung mit einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) zu nutzen.
+Die **Dauer-Spalte** eignet sich besonders gut, um die Dauer von verschiedenen Ereignissen festzuhalten. Sie kann dabei einen **Zeitraum** auf die Minute oder gar auf die Sekunde genau erfassen. Beispielsweise bietet es sich für die Arbeitszeiterfassung an, die Dauer-Spalte in Verbindung mit einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) zu nutzen.
 
 ![Anwendungsbeispiel für eine Dauer-Spalte](images/Die-Dauer-Spalte-1.png)
 

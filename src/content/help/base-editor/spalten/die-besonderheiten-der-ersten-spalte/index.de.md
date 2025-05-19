@@ -16,7 +16,7 @@ Die **erste Spalte** einer Tabelle weist in SeaTable im Vergleich zu den anderen
 - Die erste Spalte einer Tabelle können Sie im Gegensatz zu den anderen Spalten **nicht verschieben**.
 - Die erste Spalte einer Tabelle können Sie im Gegensatz zu den anderen Spalten **nicht löschen**.
 - Im Gegensatz zu den anderen Spalten können Sie die erste Spalte aber individuell **fixieren**.
-- Die erste Spalte unterstützt nur die **Spaltentypen** [Text]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), [Einfachauswahl]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Automatische Nummer]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- Die erste Spalte unterstützt nur die **Spaltentypen** [Text]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), [Einfachauswahl]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Automatische Nummer]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
 
 ## Wie Sie den Typ der ersten Spalte anpassen
 
@@ -34,7 +34,7 @@ Für die **erste Spalte** stehen lediglich **sechs Spaltentypen** zur Auswahl:
 
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Zahl]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Einfachauswahl]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})

@@ -16,7 +16,7 @@ SeaTable maintains a [history]({{< relref "help/base-editor/historie-und-version
 
 ## The home page
 
-After logging in, you will find yourself on the **start** page. Here you manage your bases. If you have selected [templates](/en/docs/handbuch/templates/) during registration, they will be displayed here.
+After logging in, you will find yourself on the **start** page. Here you manage your bases. If you have selected [templates](https://seatable.io/vorlagen/) during registration, they will be displayed here.
 
 By clicking on the **avatar image** in the upper right corner, you can switch to the [personal settings](https://seatable.io/en/docs/persoenliche-einstellungen/persoenliche-einstellungen/) to adjust the system language, for example.
 
@@ -26,7 +26,7 @@ Using the pencil icon, you can rename the base and assign a different icon and c
 
 ## Table view
 
-The new Base contains a [table](https://seatable.io/en/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) from the beginning. The Table view is the central, but not the only [view of](/en/docs/handbuch/datenmanagement/ansichten/) SeaTable. In the Table view you manage the tables of the Base, define their column structure and enter or analyze your data.
+The new Base contains a [table](https://seatable.io/en/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) from the beginning. The Table view is the central, but not the only view of SeaTable. In the Table view you manage the tables of the Base, define their column structure and enter or analyze your data.
 
 Before you [enter data]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 

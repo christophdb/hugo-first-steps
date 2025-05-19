@@ -61,7 +61,7 @@ Konkret umsetzen lässt sich dies mithilfe einer Tabelle ("Order"), in der Sie d
 
 ![Tabelle zur Erhebung der verschiedenen getätigten Bestellungen](images/table-with-different-orders-1.png)
 
-In einer anderen Tabelle ("Order-Status-Log") möchten Sie ebenfalls die verschiedenen **Bestellnummern** samt den dazugehörigen **Beträgen** sehen. Zusätzlich wird in dieser Tabelle in der [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) "last status change" der **Zeitpunkt der letzten Statusänderung** eingetragen.
+In einer anderen Tabelle ("Order-Status-Log") möchten Sie ebenfalls die verschiedenen **Bestellnummern** samt den dazugehörigen **Beträgen** sehen. Zusätzlich wird in dieser Tabelle in der [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) "last status change" der **Zeitpunkt der letzten Statusänderung** eingetragen.
 
 ![Tabelle, in der die Zeitpunkte der letzten Statusänderung automatisch erhoben werden](images/table-order-status-log.png)
 

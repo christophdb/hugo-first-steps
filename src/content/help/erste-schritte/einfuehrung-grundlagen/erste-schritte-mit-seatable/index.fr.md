@@ -31,7 +31,7 @@ Il n'y a pas qu'une seule "bonne" façon d'utiliser SeaTable de manière rentabl
 
 Si vous avez besoin d'un peu d'inspiration pour savoir comment utiliser SeaTable de manière optimale, consultez nos [modèles](https://seatable.io/fr/modeles/). Vous y trouverez de nombreuses possibilités d'application intéressantes pour SeaTable.
 
-D'autres sources sont notre [chaîne YouTube](https://www.youtube.com/seatable), sur laquelle nous publions de nombreuses vidéos d'instruction, et notre [blog SeaTable](/fr/blog/), sur lequel nous écrivons régulièrement au sujet de nouveaux cas d'utilisation et de solutions.
+D'autres sources sont notre [chaîne YouTube](https://www.youtube.com/seatable), sur laquelle nous publions de nombreuses vidéos d'instruction, et notre [blog SeaTable]({{< relref "posts" >}}), sur lequel nous écrivons régulièrement au sujet de nouveaux cas d'utilisation et de solutions.
 
 ## Des questions ?
 

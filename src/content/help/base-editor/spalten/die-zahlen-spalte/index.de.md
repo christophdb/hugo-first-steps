@@ -17,7 +17,7 @@ Die Verwendung von **Zahlen-Spalten** ermöglicht Ihnen beispielsweise die **Ber
 Darüber hinaus bietet SeaTable andere Spalten an, die manchmal besser zu Ihren angegebenen Werten passen.
 
 - Dauer und Zeiträume = [Dauer-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-dauer-spalte/)
-- Datum und Zeitpunkte = [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- Datum und Zeitpunkte = [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - Geo-Informationen = [Geopositions-Spalte](https://seatable.io/docs/andere-spalten/die-geopositions-spalte/)
 
 ## Hinzufügen einer Zahlen-Spalte

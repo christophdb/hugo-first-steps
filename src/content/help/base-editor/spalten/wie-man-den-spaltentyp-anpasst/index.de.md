@@ -30,7 +30,7 @@ Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 25 Spaltentypen**
 
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Zahl]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Einfachauswahl]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})

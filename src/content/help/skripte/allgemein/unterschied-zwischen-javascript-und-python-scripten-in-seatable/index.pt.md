@@ -22,7 +22,7 @@ Mais informações e exemplos simples de JavaScript no SeaTable podem ser encont
 
 ## Python em SeaTable
 
-O ambiente Python do SeaTable suporta inúmeras [bibliotecas Python bem conhecidas](/pt/unterstuetzte-python-bibliotheken/) e permite que serviços externos e APIs sejam consultados. Isto significa que mesmo tarefas extensas e complexas podem ser concluídas com scripts Python.
+O ambiente Python do SeaTable suporta inúmeras [bibliotecas Python bem conhecidas](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) e permite que serviços externos e APIs sejam consultados. Isto significa que mesmo tarefas extensas e complexas podem ser concluídas com scripts Python.
 
 Em contraste com o JavaScript, o código Python é executado por um componente do SeaTable Server. Os resultados do Python Runner são escritos diretamente na base. Isto torna possível que um script Python seja acionado e processado por automação com base em regras ou eventos.
 

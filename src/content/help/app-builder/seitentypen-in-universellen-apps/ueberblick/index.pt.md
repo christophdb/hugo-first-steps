@@ -50,7 +50,7 @@ Com a ajuda deste tipo de página, pode apresentar **as imagens** que guardou nu
 
 ## Tipo de página: Calendário
 
-Este tipo de página funciona de forma semelhante ao [plugin de calendário]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) sua tabela num **calendário**. Um caso de utilização concreto poderia ser, por exemplo, a apresentação do calendário das próximas **reuniões**.
+Este tipo de página funciona de forma semelhante ao [plugin de calendário]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) sua tabela num **calendário**. Um caso de utilização concreto poderia ser, por exemplo, a apresentação do calendário das próximas **reuniões**.
 
 ![Próximas reuniões numa vista de calendário da página de calendário](images/calendar-page-example.png)
 

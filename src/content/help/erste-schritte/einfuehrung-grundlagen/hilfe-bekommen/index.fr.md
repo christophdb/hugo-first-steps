@@ -37,13 +37,13 @@ Outre le guide de l'utilisateur, il existe d'autres sources qui vous permettront
 
 SeaTable propose-t-il une assistance téléphonique ?|||
 
-Nous ne fournissons **pas** d'assistance téléphonique pour SeaTable Cloud. Si vous avez réservé un système cloud dédié ou acheté une licence de serveur SeaTable, vous pouvez bénéficier d'une assistance téléphonique de nos collaborateurs. Pour plus de détails, [cliquez ici](/fr/support/).
+Nous ne fournissons **pas** d'assistance téléphonique pour SeaTable Cloud. Si vous avez réservé un système cloud dédié ou acheté une licence de serveur SeaTable, vous pouvez bénéficier d'une assistance téléphonique de nos collaborateurs. Pour plus de détails, [cliquez ici]({{< relref "pages/support" >}}).
 
 ---
 
 Peut-on réserver un expert SeaTable pour un atelier, une formation ou une assistance individuelle ?|||
 
-Bien entendu, nous proposons des rendez-vous individuels correspondants sur demande. Pour l'aide d'un expert SeaTable, nous vous facturons 120 € (net) par heure. [Écrivez-nous](/fr/contact) si vous souhaitez convenir d'un rendez-vous individuel.
+Bien entendu, nous proposons des rendez-vous individuels correspondants sur demande. Pour l'aide d'un expert SeaTable, nous vous facturons 120 € (net) par heure. [Écrivez-nous]({{< relref "pages/contact" >}}) si vous souhaitez convenir d'un rendez-vous individuel.
 
 ---
 

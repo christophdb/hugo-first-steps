@@ -22,7 +22,7 @@ SeaTable позволяет выполнять **сценарии JavaScript и 
 
 ## Python в SeaTable
 
-Среда Python в SeaTable поддерживает множество [известных библиотек Python](/ru/unterstuetzte-python-bibliotheken/) и позволяет обращаться к внешним сервисам и API. Это означает, что даже обширные и сложные задачи могут быть решены с помощью сценариев Python.
+Среда Python в SeaTable поддерживает множество [известных библиотек Python](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) и позволяет обращаться к внешним сервисам и API. Это означает, что даже обширные и сложные задачи могут быть решены с помощью сценариев Python.
 
 В отличие от JavaScript, код Python выполняется компонентом сервера SeaTable Server. Результаты выполнения Python-скрипта записываются непосредственно в базу. Это позволяет запускать и обрабатывать Python-скрипт с помощью автоматики на основе правил или событий.
 

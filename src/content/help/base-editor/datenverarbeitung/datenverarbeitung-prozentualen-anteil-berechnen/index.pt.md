@@ -33,7 +33,7 @@ A primeira vez que é executado com sucesso, um pequeno **carrapato verde**.
 
 Poderá ocorrer um caso concreto de utilização para esta operação de processamento de dados, por exemplo, se recolher o número de acessos diários a um website e quiser descobrir qual a quota do **número de acesso de um dia** do número total de acessos ao longo de todos os dias. Para este efeito, gostaria de calcular a **percentagem** dos números de acesso diários noutra coluna.
 
-Para a implementação, é necessário primeiro um quadro em que os diferentes **dias** são recolhidos numa [coluna de datas]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) e os **números de acesso** ao website numa [coluna de números]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
+Para a implementação, é necessário primeiro um quadro em que os diferentes **dias** são recolhidos numa [coluna de datas]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) e os **números de acesso** ao website numa [coluna de números]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
 
 ![Tabela de exemplo para a aplicação Calcular a percentagem](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

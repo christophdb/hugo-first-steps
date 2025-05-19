@@ -28,7 +28,7 @@ Sie haben eine spannende Vorlage gefunden und wollen diese nun verwenden? Prima!
 
 Wenn Sie schon in Ihrem Benutzerkonto angemeldet sind, dann sind alle Voraussetzungen erfüllt. Wenn Sie nicht angemeldet sind oder kein SeaTable Konto haben, dann [loggen Sie sich ein](https://cloud.seatable.io/) oder [registrieren Sie sich kostenlos mit Ihrer E-Mail-Adresse]({{< relref "pages/registration" >}}).
 
-Zurück auf Ihrer Startseite werden Sie eine neue Base innerhalb der gewählten Gruppe bzw. in **Meine Bases** finden. Der Name der neu erstellten Base ist der Name der Vorlage. Wenn Ihnen dieser nicht passt, [nennen Sie die Base einfach um](/docs/handbuch/datenmanagement/bases/#base-umbenennen).
+Zurück auf Ihrer Startseite werden Sie eine neue Base innerhalb der gewählten Gruppe bzw. in **Meine Bases** finden. Der Name der neu erstellten Base ist der Name der Vorlage. Wenn Ihnen dieser nicht passt, nennen Sie die Base einfach um.
 
 ## Erstellung eines eigenen Templates
 

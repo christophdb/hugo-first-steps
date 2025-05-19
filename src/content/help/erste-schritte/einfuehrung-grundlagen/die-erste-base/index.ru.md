@@ -26,7 +26,7 @@ SeaTable ведет [историю]({{< relref "help/base-editor/historie-und-v
 
 ## Вид таблицы
 
-Новая база содержит [таблицу](https://seatable.io/ru/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) с самого начала. Представление таблицы является центральным, но не единственным [представлением](/ru/docs/handbuch/datenmanagement/ansichten/) SeaTable. В представлении таблицы вы управляете таблицами базы, определяете структуру их колонок и вводите или анализируете свои данные.
+Новая база содержит [таблицу](https://seatable.io/ru/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) с самого начала. Представление таблицы является центральным, но не единственным представлением SeaTable. В представлении таблицы вы управляете таблицами базы, определяете структуру их колонок и вводите или анализируете свои данные.
 
 Перед [вводом данных]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 

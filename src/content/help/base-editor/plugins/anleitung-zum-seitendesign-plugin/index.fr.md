@@ -40,7 +40,7 @@ Consultez l'article [Activer un plugin dans une base]({{< relref "help/base-edit
 
 Lorsque vous avez créé une nouvelle page, vous pouvez l'**enregistrer** comme **modèle** en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-confirm" >}} **Terminé**. Vous pouvez à nouveau la modifier après avoir cliqué au même endroit sur le bouton {{< seatable-icon icon="dtable-icon-rename" >}} **Modifier**.
 
-![Modifier une page dans le plugin de conception de page et enregistrer les modifications](images/page-design-plugin-options-edit-page-1.gif)
+![Modifier une page dans le plugin de conception de page et enregistrer les modifications](images/page-design-plugin-options-edit-page.gif)
 
 {{< warning  headline="Attention"  text="Vos modifications ne sont **pas** automatiquement enregistrées. Si vous cliquez sur **Annuler** en mode édition, les modifications effectuées depuis le dernier enregistrement seront perdues." />}}
 
@@ -82,7 +82,7 @@ Les **éléments de page** vous offrent la possibilité de concevoir **des mises
 
 Vous activez un élément en intégrant le champ correspondant dans la page **par glisser-déposer**. Ensuite, vous pouvez également déplacer l'élément sur la page en cliquant dessus avec la souris et en le faisant glisser.
 
-![Activer l'image statique](images/Statisches-Bild-aktivieren-1.gif)
+![Activer l'image statique](images/Statisches-Bild-aktivieren.gif)
 
 ## Sélectionner et régler les éléments
 
@@ -116,7 +116,7 @@ Vous pouvez insérer des **en-têtes et des pieds de page** comme zones spécial
 
 Vous ne pouvez faire varier que la **hauteur** des en-têtes et des pieds de page, car ceux-ci s'étendent toujours sur **toute la largeur de la page**. Dans le champ **Hauteur**, saisissez la valeur numérique souhaitée ou modifiez-la à l'aide des **touches fléchées** ou faites défiler avec la **molette de la souris**.
 
-![Réglage de la hauteur pour l'en-tête et le pied de page.](images/Einstellungen-Kopfzeile-3.gif)
+![Réglage de la hauteur pour l'en-tête et le pied de page.](images/Einstellungen-Kopfzeile.gif)
 
 Vous pouvez également modifier la hauteur directement sur la page en cliquant avec **le bouton droit de la souris** sur l'en-tête ou le pied de page et **en faisant glisser** le petit **carré** situé dans le coin inférieur droit du cadre.
 
@@ -142,4 +142,4 @@ Vous pouvez insérer les éléments suivants dans les en-têtes et les pieds de 
 
 Vous pouvez **verrouiller** ou **supprimer** les en-têtes et les pieds de page en sélectionnant l'option correspondante. Si vous verrouillez un en-tête ou un pied de page, **tous les éléments** que vous avez insérés auparavant dans cette zone sont également verrouillés. Il en va de même pour la suppression, qui entraîne la suppression de tous les éléments d'un en-tête ou d'un pied de page.
 
-![Blocage et suppression du plugin de page](images/sperren-und-loeschen-1.png)
+![Blocage et suppression du plugin de page](images/sperren-und-loeschen.png)

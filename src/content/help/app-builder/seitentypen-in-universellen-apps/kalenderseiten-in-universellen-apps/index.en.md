@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/kalenderseiten-in-universellen-apps'
 ---
 
-This page type of the Universal App works in a similar way to the [calendar plugin]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) of your table in a **calendar**. A specific use case could be, for example, the calendar display of upcoming **meetings**.
+This page type of the Universal App works in a similar way to the [calendar plugin]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) of your table in a **calendar**. A specific use case could be, for example, the calendar display of upcoming **meetings**.
 
 ![Upcoming meetings in a calendar view of the calendar page](images/calendar-page-example.png)
 
@@ -50,7 +50,7 @@ Regardless of the date, you can also click on the large **circular plus symbol**
 
 ## Edit and move calendar entries
 
-You can easily edit calendar entries by **clicking on an entry** and making the desired changes in the **line details** that open. You can also conveniently move entries in the calendar **using drag-and-drop**. SeaTable automatically adjusts the values in the respective [date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/).
+You can easily edit calendar entries by **clicking on an entry** and making the desired changes in the **line details** that open. You can also conveniently move entries in the calendar **using drag-and-drop**. SeaTable automatically adjusts the values in the respective [date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}).
 
 ![Move and edit entries on calendar pages](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
 

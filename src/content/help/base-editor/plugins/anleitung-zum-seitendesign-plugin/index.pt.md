@@ -40,7 +40,7 @@ Leia o artigo [Activando um plugin numa base]({{< relref "help/base-editor/plugi
 
 Quando tiver criado uma nova página, pode **guardá-la** como um **modelo** através do botão {{< seatable-icon icon="dtable-icon-confirm" >}} **Feito**. Pode editá-lo novamente após clicar no botão {{< seatable-icon icon="dtable-icon-rename" >}} **Editar** no mesmo local.
 
-![Editar uma página no plugin de design de páginas e guardar as alterações](images/page-design-plugin-options-edit-page-1.gif)
+![Editar uma página no plugin de design de páginas e guardar as alterações](images/page-design-plugin-options-edit-page.gif)
 
 {{< warning  headline="Atenção"  text="As suas alterações **não** são automaticamente guardadas. Se clicar em **Cancelar** no modo de edição, as alterações desde a última gravação serão perdidas." />}}
 
@@ -82,7 +82,7 @@ Os **elementos da página** oferecem-lhe a possibilidade de conceber **layouts p
 
 Activa-se um elemento ao inserir o respectivo campo na página **usando o arrastar e largar**. Depois, pode também mover o elemento da página clicando e arrastando-o com o rato.
 
-![Activar a imagem estática](images/Statisches-Bild-aktivieren-1.gif)
+![Activar a imagem estática](images/Statisches-Bild-aktivieren.gif)
 
 ## Selecção e fixação dos elementos
 
@@ -116,7 +116,7 @@ Pode inserir **cabeçalhos e rodapés** como áreas especiais numa página e pre
 
 Só se pode variar a **altura dos** cabeçalhos e rodapés, uma vez que estes se estendem sempre por **toda a largura da página**. No campo **Altura**, introduzir o valor numérico desejado ou alterá-lo utilizando as **teclas de setas** ou rolar com a **roda do rato**.
 
-![Ajuste da altura do cabeçalho e do rodapé.](images/Einstellungen-Kopfzeile-3.gif)
+![Ajuste da altura do cabeçalho e do rodapé.](images/Einstellungen-Kopfzeile.gif)
 
 Em alternativa, pode alterar a altura directamente na página, **clicando com o botão direito** no cabeçalho ou no rodapé e **arrastando** o pequeno **quadrado** no canto inferior direito da moldura.
 
@@ -142,4 +142,4 @@ Pode inserir os seguintes elementos em cabeçalhos e rodapés:
 
 Pode **bloquear** ou **apagar** cabeçalhos e rodapés, seleccionando a respectiva opção. Se bloquear um cabeçalho ou rodapé, **todos os elementos** que tenha inserido anteriormente nesta área são também bloqueados. O mesmo se aplica à eliminação, pela qual também se eliminam todos os elementos de um cabeçalho ou rodapé de página.
 
-![Bloqueio e eliminação com o plug-in de página](images/sperren-und-loeschen-1.png)
+![Bloqueio e eliminação com o plug-in de página](images/sperren-und-loeschen.png)

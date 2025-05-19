@@ -37,13 +37,13 @@ Besides the user manual, there are other sources that you can use to learn more 
 
 Does SeaTable offer telephone support?|||
 
-We do **not** provide telephone support for SeaTable Cloud. If you have booked a Dedicated Cloud system or purchased a SeaTable Server license, you can add telephone support from our staff. You can find more details [here](/en/support/).
+We do **not** provide telephone support for SeaTable Cloud. If you have booked a Dedicated Cloud system or purchased a SeaTable Server license, you can add telephone support from our staff. You can find more details [here]({{< relref "pages/support" >}}).
 
 ---
 
 Is it possible to book a SeaTable expert for a workshop, training or individual support?|||
 
-Of course, we offer corresponding individual appointments on demand. For the help of a SeaTable expert we charge 120 € (net) per hour. [Write us](/en/kontakt) if you want to make an individual appointment.
+Of course, we offer corresponding individual appointments on demand. For the help of a SeaTable expert we charge 120 € (net) per hour. [Write us]({{< relref "pages/contact" >}}) if you want to make an individual appointment.
 
 ---
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/neue-kalendereintraege-im-kalender-plugin-anlegen'
 ---
 
-You have various options for adding **new entries** to the calendar. You can do this **in the underlying table** by creating a new row there and entering an appointment in the [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), which is then also displayed in the calendar plugin.
+You have various options for adding **new entries** to the calendar. You can do this **in the underlying table** by creating a new row there and entering an appointment in the [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), which is then also displayed in the calendar plugin.
 
 But it is also very easy to make new entries directly **in the calendar plugin**. There it depends on the selected display**(year**, **month**, **week**, **day** or **agenda**) how you can enter an appointment.
 

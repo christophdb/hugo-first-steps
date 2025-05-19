@@ -21,7 +21,7 @@ Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zus�
 
 ## Kalender-Plugin
 
-Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) in einer **Jahres-**, **Monats-**, **Wochen-**, **Tages-** oder **Agenda-Ansicht** anzeigen. Sie können mithilfe von zwei Datum-Spalten auch **Zeitspannen** darstellen und so einen Überblick über alle wichtigen Termine etc. behalten.
+Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) in einer **Jahres-**, **Monats-**, **Wochen-**, **Tages-** oder **Agenda-Ansicht** anzeigen. Sie können mithilfe von zwei Datum-Spalten auch **Zeitspannen** darstellen und so einen Überblick über alle wichtigen Termine etc. behalten.
 
 ![](images/Calendar.png)
 

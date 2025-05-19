@@ -29,7 +29,7 @@ La **première colonne** d'un tableau ne prend en charge **que 6 des 25 types de
 
 - [Texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Nombre]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Sélection unique]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Numéro automatique]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})

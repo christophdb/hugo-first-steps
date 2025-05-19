@@ -10,7 +10,7 @@ url: '/help/mehrere-kalender-fuer-eine-base-anlegen'
 
 By creating **multiple calendars** in a Base, you can store specific appointments in different calendars. For example, you can create individual calendars for different projects. If you collaborate with multiple people in a Base, each team member can create individual calendars.
 
-To create multiple calendars, you need either **multiple tables** or a table with different [views]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) or a table with different [date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/).
+To create multiple calendars, you need either **multiple tables** or a table with different [views]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) or a table with different [date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}).
 
 ## How to create additional calendars in the calendar plugin
 

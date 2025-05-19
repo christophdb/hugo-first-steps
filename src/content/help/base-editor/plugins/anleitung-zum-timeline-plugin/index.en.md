@@ -14,7 +14,7 @@ Read the article [Activating a Plugin in a Base]({{< relref "help/base-editor/pl
 
 ## Function of the timeline plugin
 
-The timeline plugin maps **time spans**. Therefore, for this representation you need **two** [date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) in a table that define the **beginning** and the **end of** a time frame.
+The timeline plugin maps **time spans**. Therefore, for this representation you need **two** [date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) in a table that define the **beginning** and the **end of** a time frame.
 
 ## How to use the timeline plugin
 
@@ -40,4 +40,4 @@ As you can see in the video above, you can also create **multiple timelines** in
 
 1. Click the **plus icon** to the right of the title of your first timeline.
 2. Give the timeline a **name** and confirm with **Submit**.
-3. Define in the **settings** {{< seatable-icon icon="dtable-icon-set-up" >}} to which [table view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) and which [date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) the new timeline should refer to.
+3. Define in the **settings** {{< seatable-icon icon="dtable-icon-set-up" >}} to which [table view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) and which [date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) the new timeline should refer to.

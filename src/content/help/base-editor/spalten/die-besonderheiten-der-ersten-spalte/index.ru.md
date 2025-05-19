@@ -16,7 +16,7 @@ url: '/ru/help/die-besonderheiten-der-ersten-spalte'
 - В отличие от других столбцов, первый столбец таблицы **нельзя перемещать**.
 - В отличие от других столбцов, вы **не можете удалить** первый столбец таблицы.
 - Однако, в отличие от других колонок, первую колонку можно **закрепить** отдельно.
-- Первый столбец поддерживает только **типы столбцов** [текст]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), [одиночный выбор]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [автоматическое число]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- Первый столбец поддерживает только **типы столбцов** [текст]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), [одиночный выбор]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [автоматическое число]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
 
 ## Как настроить тип первого столбца
 
@@ -34,7 +34,7 @@ url: '/ru/help/die-besonderheiten-der-ersten-spalte'
 
 - [Текст]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Номер]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Дата]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Дата]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Одиночный выбор]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Автоматический номер]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})

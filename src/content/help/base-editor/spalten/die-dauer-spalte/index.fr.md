@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/die-dauer-spalte'
 ---
 
-La **colonne "Durée** " est particulièrement bien adaptée pour enregistrer la durée de différents événements. Elle peut saisir une **période** à la minute ou même à la seconde près. Par exemple, pour la saisie du temps de travail, il est intéressant d'utiliser la colonne de durée en combinaison avec une [colonne de date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/).
+La **colonne "Durée** " est particulièrement bien adaptée pour enregistrer la durée de différents événements. Elle peut saisir une **période** à la minute ou même à la seconde près. Par exemple, pour la saisie du temps de travail, il est intéressant d'utiliser la colonne de durée en combinaison avec une [colonne de date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}).
 
 ![Exemple d'utilisation d'une colonne permanente](images/Die-Dauer-Spalte-1.png)
 

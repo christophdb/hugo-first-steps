@@ -16,7 +16,7 @@ The **first column** of a table in SeaTable has several special features and res
 - Unlike the other columns, you **cannot move** the first column of a table.
 - Unlike the other columns, you **cannot delete** the first column of a table.
 - In contrast to the other columns, however, you can **fix** the first column individually.
-- The first column supports only [Text]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), [Single Select]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Auto Number]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) column **types**.
+- The first column supports only [Text]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), [Single Select]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Auto Number]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) column **types**.
 
 ## How to customize the type of the first column
 
@@ -34,7 +34,7 @@ There are only **six column types** to choose from for the **first** **column**:
 
 - [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Number]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Single selection]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})

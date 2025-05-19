@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/die-dauer-spalte'
 ---
 
-La **columna de duración** es especialmente adecuada para registrar la duración de diversos eventos. Puede grabar un **periodo** de tiempo al minuto o incluso al segundo. Por ejemplo, la columna de duración puede utilizarse junto con una columna de [fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) para registrar las horas de trabajo.
+La **columna de duración** es especialmente adecuada para registrar la duración de diversos eventos. Puede grabar un **periodo** de tiempo al minuto o incluso al segundo. Por ejemplo, la columna de duración puede utilizarse junto con una columna de [fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) para registrar las horas de trabajo.
 
 ![Ejemplo de aplicación para una columna permanente](images/Die-Dauer-Spalte-1.png)
 

@@ -16,7 +16,7 @@ SeaTable mantiene un [historial]({{< relref "help/base-editor/historie-und-versi
 
 ## La página de inicio
 
-Después de iniciar sesión, te encontrarás en la página de **inicio**. Aquí puede gestionar sus bases. Si ha seleccionado [plantillas](/es/docs/handbuch/templates/) durante el registro, se mostrarán aquí.
+Después de iniciar sesión, te encontrarás en la página de **inicio**. Aquí puede gestionar sus bases. Si ha seleccionado [plantillas](https://seatable.io/vorlagen/) durante el registro, se mostrarán aquí.
 
 Haciendo clic en la **imagen del avatar**, en la esquina superior derecha, puedes pasar a la [configuración personal](https://seatable.io/es/docs/persoenliche-einstellungen/persoenliche-einstellungen/) para ajustar, por ejemplo, el idioma del sistema.
 
@@ -26,7 +26,7 @@ Con el icono del lápiz, puedes cambiar el nombre de la base y asignarle un icon
 
 ## Vista de la tabla
 
-La nueva Base contiene una [tabla](https://seatable.io/es/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) desde el principio. La vista de tabla es la [vista](/es/docs/handbuch/datenmanagement/ansichten/) central, pero no la única [, de](/es/docs/handbuch/datenmanagement/ansichten/) SeaTable. En la vista de tabla usted gestiona las tablas de la base, define su estructura de columnas e introduce o analiza sus datos.
+La nueva Base contiene una [tabla](https://seatable.io/es/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) desde el principio. La vista de tabla es la vista central, pero no la única, de SeaTable. En la vista de tabla usted gestiona las tablas de la base, define su estructura de columnas e introduce o analiza sus datos.
 
 Antes de [introducir los datos]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 

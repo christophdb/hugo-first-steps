@@ -16,7 +16,7 @@ O SeaTable mantém um [histórico]({{< relref "help/base-editor/historie-und-ver
 
 ## A página inicial
 
-Depois de iniciar sessão, encontra-se na página **inicial**. Aqui pode gerir as suas bases. Se seleccionou [modelos](/pt/docs/handbuch/templates/) durante o registo, estes serão apresentados aqui.
+Depois de iniciar sessão, encontra-se na página **inicial**. Aqui pode gerir as suas bases. Se seleccionou [modelos](https://seatable.io/vorlagen/) durante o registo, estes serão apresentados aqui.
 
 Ao clicar na **imagem do avatar** no canto superior direito, pode aceder às [definições pessoais](https://seatable.io/pt/docs/persoenliche-einstellungen/persoenliche-einstellungen/) para ajustar a língua do sistema, por exemplo.
 
@@ -26,7 +26,7 @@ Utilizando o ícone do lápis, pode mudar o nome da base e atribuir-lhe um ícon
 
 ## Vista de tabela
 
-A nova Base contém uma [tabela](https://seatable.io/pt/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) desde o início. A vista de tabela é a [vista](/pt/docs/handbuch/datenmanagement/ansichten/) central, mas não a única, [do](/pt/docs/handbuch/datenmanagement/ansichten/) SeaTable. Na vista de tabela, pode gerir as tabelas da base, definir a sua estrutura de colunas e introduzir ou analisar os seus dados.
+A nova Base contém uma [tabela](https://seatable.io/pt/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) desde o início. A vista de tabela é a vista central, mas não a única, do SeaTable. Na vista de tabela, pode gerir as tabelas da base, definir a sua estrutura de colunas e introduzir ou analisar os seus dados.
 
 Antes da [entrada de dados]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 

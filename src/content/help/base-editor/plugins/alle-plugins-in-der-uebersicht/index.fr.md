@@ -20,7 +20,7 @@ Un **plugin** est un composant logiciel optionnel de SeaTable qui vous offre des
 
 ## Plugin de calendrier
 
-Le plug-in Calendrier vous permet d'afficher les données d'une [colonne de dates]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) dans une **vue** **annuelle**, **mensuelle**, **hebdomadaire**, **quotidienne** ou **d'agenda**. Vous pouvez également afficher **des périodes de temps** à l'aide de deux colonnes de dates et garder ainsi une vue d'ensemble de tous les rendez-vous importants, etc.
+Le plug-in Calendrier vous permet d'afficher les données d'une [colonne de dates]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) dans une **vue** **annuelle**, **mensuelle**, **hebdomadaire**, **quotidienne** ou **d'agenda**. Vous pouvez également afficher **des périodes de temps** à l'aide de deux colonnes de dates et garder ainsi une vue d'ensemble de tous les rendez-vous importants, etc.
 
 ![](images/Calendar.png)
 

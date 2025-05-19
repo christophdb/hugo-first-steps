@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/neue-kalendereintraege-im-kalender-plugin-anlegen'
 ---
 
-Dispone de varias opciones para añadir **nuevas entradas** al calendario. Puede hacerlo **en la tabla subyacente**, creando allí una nueva fila e introduciendo una cita en la [columna de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), que se mostrará también en el complemento de calendario.
+Dispone de varias opciones para añadir **nuevas entradas** al calendario. Puede hacerlo **en la tabla subyacente**, creando allí una nueva fila e introduciendo una cita en la [columna de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), que se mostrará también en el complemento de calendario.
 
 Pero también es muy fácil hacer nuevas entradas directamente **en el plugin de calendario**. La forma de introducir una cita depende de la visualización seleccionada**(año**, **mes**, **semana**, **día** o **agenda**).
 

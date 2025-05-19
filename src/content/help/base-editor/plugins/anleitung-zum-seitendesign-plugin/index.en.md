@@ -40,7 +40,7 @@ Read the article [Activating a Plugin in a Base]({{< relref "help/base-editor/pl
 
 When you have created a new page, you can **save** it as a **template** via the {{< seatable-icon icon="dtable-icon-confirm" >}} **Done** button. You can edit it again after clicking the {{< seatable-icon icon="dtable-icon-rename" >}} **Edit** button in the same place.
 
-![Edit a page in the page design plugin and save the changes](images/page-design-plugin-options-edit-page-1.gif)
+![Edit a page in the page design plugin and save the changes](images/page-design-plugin-options-edit-page.gif)
 
 {{< warning  headline="Attention"  text="Your changes are **not** saved automatically. If you click **Cancel** in edit mode, the changes since the last save will be lost." />}}
 
@@ -82,7 +82,7 @@ The **page elements** offer you the possibility to design **standardized layouts
 
 You activate an element by **dragging and dro** pping the respective field into the page. After that, you can also move the element on the page by clicking and dragging it with the mouse.
 
-![Enable static image](images/Statisches-Bild-aktivieren-1.gif)
+![Enable static image](images/Statisches-Bild-aktivieren.gif)
 
 ## Selecting and setting the elements
 
@@ -116,7 +116,7 @@ You can insert **headers and footers** as special areas in a page and fill them 
 
 You can only vary the **height of** headers and footers, since they always span the **entire width of the page**. In the **Height** field, enter the desired numerical value or change it using the **arrow keys** or scroll with the **mouse wheel**.
 
-![Setting the height of the header and footer.](images/Einstellungen-Kopfzeile-3.gif)
+![Setting the height of the header and footer.](images/Einstellungen-Kopfzeile.gif)
 
 Alternatively, you can change the height directly on the page by **right-clicking** on the header or footer and **dragging** the small **square** at the bottom right corner of the frame.
 
@@ -142,4 +142,4 @@ You can insert the following elements in headers and footers:
 
 You can **lock** or **delete** headers and footers by selecting the respective option. When you lock a header or footer, **all elements** that you previously inserted in that area are also locked. The same is true for deleting, which causes you to delete all elements in a header or footer as well.
 
-![Lock and delete at page plugin](images/sperren-und-loeschen-1.png)
+![Lock and delete at page plugin](images/sperren-und-loeschen.png)

@@ -16,7 +16,7 @@ SeaTable verwaltet im Hintergrund für jede Base eine [Historie]({{< relref "hel
 
 ## Die Startseite
 
-Nach dem Login befinden Sie sich auf der **Startseite**. Hier verwalten Sie Ihre Bases. Wenn Sie bei der Registrierung [Templates](/docs/handbuch/templates/) ausgewählt haben, dann werden diese hier angezeigt.
+Nach dem Login befinden Sie sich auf der **Startseite**. Hier verwalten Sie Ihre Bases. Wenn Sie bei der Registrierung [Templates](https://seatable.io/vorlagen/) ausgewählt haben, dann werden diese hier angezeigt.
 
 Mit einem Klick auf das **Avatar-Bild** in der oberen rechten Ecke können Sie in die [persönlichen Einstellungen](https://seatable.io/docs/persoenliche-einstellungen/persoenliche-einstellungen/) wechseln, um zum Beispiel die Systemsprache anzupassen.
 
@@ -26,7 +26,7 @@ Mit einem Klick auf **Base hinzufügen** legen Sie Ihre erste eigene Base an. Ge
 
 ## Tabellenansicht
 
-Die neue Base enthält von Beginn an eine [Tabelle](https://seatable.io/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/). Die Tabellenansicht ist die zentrale, aber nicht die einzige [Ansicht](/docs/handbuch/datenmanagement/ansichten/) von SeaTable. In der Tabellenansicht verwalten Sie die Tabellen der Base, definieren deren Spaltenstruktur und erfassen oder analysieren Ihre Daten.
+Die neue Base enthält von Beginn an eine [Tabelle](https://seatable.io/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/). Die Tabellenansicht ist die zentrale, aber nicht die einzige Ansicht von SeaTable. In der Tabellenansicht verwalten Sie die Tabellen der Base, definieren deren Spaltenstruktur und erfassen oder analysieren Ihre Daten.
 
 Vor der [Datenerfassung]({{< relref "help/base-editor/webformulare/webformulare" >}}) verhalten.
 

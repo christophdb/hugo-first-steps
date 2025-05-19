@@ -28,7 +28,7 @@ Encontrou um modelo interessante e agora quer utilizá-lo? Óptimo! Para poder i
 
 Se já tiver iniciado sessão na sua conta, então todos os requisitos estão preenchidos. Se não tiver sessão iniciada ou não tiver uma conta SeaTable, [inicie](https://cloud.seatable.io/) sessão ou [registe-se gratuitamente com o seu endereço de e-mail]({{< relref "pages/registration" >}}).
 
-De volta à sua página inicial, encontrará uma nova base no grupo seleccionado ou em **As minhas bases**. O nome da nova base criada é o nome do modelo. Se isto não for do seu agrado, [basta mudar o nome da base](/pt/docs/handbuch/datenmanagement/bases/#base-umbenennen).
+De volta à sua página inicial, encontrará uma nova base no grupo seleccionado ou em **As minhas bases**. O nome da nova base criada é o nome do modelo. Se isto não for do seu agrado, basta mudar o nome da base.
 
 ## Criação do seu próprio modelo
 

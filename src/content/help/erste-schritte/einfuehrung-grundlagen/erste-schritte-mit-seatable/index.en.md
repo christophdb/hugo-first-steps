@@ -31,7 +31,7 @@ There is no one "right" way to use SeaTable profitably. The best system is the o
 
 If you need a little inspiration to find out how to use SeaTable in the best way, take a look at our [templates](https://seatable.io/en/vorlagen/). There you will find many interesting ways to use SeaTable.
 
-Other sources include our [YouTube channel](https://www.youtube.com/seatable), where we publish many how-to videos, and our [SeaTable blog](/en/blog/), where we regularly write about new use cases and solutions.
+Other sources include our [YouTube channel](https://www.youtube.com/seatable), where we publish many how-to videos, and our [SeaTable blog]({{< relref "posts" >}}), where we regularly write about new use cases and solutions.
 
 ## Questions?
 

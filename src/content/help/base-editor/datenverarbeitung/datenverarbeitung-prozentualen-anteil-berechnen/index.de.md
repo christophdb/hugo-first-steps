@@ -25,7 +25,7 @@ Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über ei
 
 Ein konkreter Anwendungsfall für diese Datenverarbeitungs-operation könnte beispielsweise auftreten, wenn Sie die Anzahl der täglichen Zugriffe auf eine Website erheben und herausfinden möchten, welchen Anteil die **Zugriffszahl eines Tages** an der Gesamtzahl der Zugriffe über alle Tage hinweg hat. Hierfür möchten Sie die **prozentualen Anteile** der täglichen Zugriffszahlen in einer weiteren Spalte berechnen.
 
-Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) erhoben werden.
+Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) erhoben werden.
 
 ![Beispieltabelle für den Anwendungsfall Prozentualen Anteil berechnen](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

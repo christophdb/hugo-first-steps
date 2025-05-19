@@ -16,7 +16,7 @@ La **primera** columna de una tabla en SeaTable tiene varias características es
 - A diferencia de las demás columnas, **no puede desplazar** la primera columna de una tabla.
 - A diferencia de las demás columnas, **no puede eliminar** la primera columna de una tabla.
 - Sin embargo, a diferencia de las demás columnas, la primera puede **fijarse** individualmente.
-- La primera columna sólo admite los **tipos de columna** [texto]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), [selección única]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [número automático]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- La primera columna sólo admite los **tipos de columna** [texto]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), [selección única]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [número automático]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
 
 ## Cómo personalizar el tipo de la primera columna
 
@@ -34,7 +34,7 @@ Para la **primera** columna, sólo hay **seis tipos de columna** entre los que e
 
 - [Texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Número]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Selección individual]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})

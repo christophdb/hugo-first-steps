@@ -16,7 +16,7 @@ Dans SeaTable, la **première colonne** d'un tableau présente plusieurs particu
 - Contrairement aux autres colonnes, vous ne pouvez **pas déplacer** la première colonne d'un tableau.
 - Contrairement aux autres colonnes, vous ne pouvez **pas supprimer** la première colonne d'un tableau.
 - Mais contrairement aux autres colonnes, vous pouvez **fixer** individuellement la première colonne.
-- La première colonne ne prend en charge que les **types de colonne** [Texte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/), [Sélection simple]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Numéro automatique]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- La première colonne ne prend en charge que les **types de colonne** [Texte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), [Sélection simple]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Numéro automatique]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
 
 ## Comment personnaliser le type de la première colonne
 
@@ -34,7 +34,7 @@ Pour la **première colonne**, il n'y a que **six types de colonnes** au choix :
 
 - [Texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
 - [Nombre]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/)
+- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
 - [Sélection unique]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
 - [Numéro automatique]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})

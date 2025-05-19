@@ -14,7 +14,7 @@ Lesen Sie den Artikel [Aktivieren eines Plugins in einer Base]({{< relref "help/
 
 ## Funktion des Timeline-Plugins
 
-Das Timeline-Plugin bildet **Zeitspannen** ab. Deshalb benötigen Sie für diese Darstellung **zwei** [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) in einer Tabelle, die den **Beginn** und das **Ende** eines Zeitrahmens definieren.
+Das Timeline-Plugin bildet **Zeitspannen** ab. Deshalb benötigen Sie für diese Darstellung **zwei** [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) in einer Tabelle, die den **Beginn** und das **Ende** eines Zeitrahmens definieren.
 
 ## So nutzen Sie das Timeline-Plugin
 
@@ -41,4 +41,4 @@ Wie im Video oben zu sehen ist, können Sie auch **mehrere Timelines** in einer 
 1. Klicken Sie auf das **Plus-Symbol** rechts neben dem Titel Ihrer ersten Timeline.
 2. Geben Sie der Timeline einen **Namen** und bestätigen Sie mit **Abschicken**.
 3. Legen Sie in den **Einstellungen** {{< seatable-icon icon="dtable-icon-set-up" >}} fest, auf welche [Tabellenansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
-   ) und welche [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) sich die neue Timeline beziehen soll.
+   ) und welche [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) sich die neue Timeline beziehen soll.

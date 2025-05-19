@@ -32,7 +32,7 @@ Es gibt nicht nur eine "richtige" Vorgehensweise, mit der Sie SeaTable gewinnbri
 
 Wenn Sie ein wenig Inspiration benötigen, um herauszufinden, wie Sie SeaTable optimal einsetzen können, schauen Sie sich unsere [Vorlagen](https://seatable.io/vorlagen/) an. Dort finden Sie viele interessante Anwendungsmöglichkeiten für SeaTable.
 
-Weitere Quellen sind unser [YouTube-Kanal](https://www.youtube.com/seatable), auf dem wir viele Anleitungsvideos veröffentlichen, und unser [SeaTable Blog](/blog/), auf dem wir regelmäßig über neue Anwendungsfälle und Lösungen schreiben.
+Weitere Quellen sind unser [YouTube-Kanal](https://www.youtube.com/seatable), auf dem wir viele Anleitungsvideos veröffentlichen, und unser [SeaTable Blog]({{< relref "posts" >}}), auf dem wir regelmäßig über neue Anwendungsfälle und Lösungen schreiben.
 
 ## Fragen?
 

@@ -33,7 +33,7 @@ Zunächst nehmen Sie an der neuen Benachrichtigungsregel **Basiseinstellungen** 
 
 Im nächsten Schritt definieren Sie ein Ereignis, welches als **Trigger** dient und die Benachrichtigungsregel auslöst. Zur Auswahl stehen die Optionen, dass **Einträge hinzugefügt** oder **verändert** werden oder **nach einer Änderung bestimmte Bedingungen erfüllen**.
 
-Darüber hinaus können Sie als zeitlichen Trigger wählen, dass die **Deadline eines Eintrags naht**. Dieser Trigger ist nur einsetzbar, wenn eine [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) in der ausgewählten Tabellenansicht vorliegt. Sie können dann festlegen, **ab wann** und **wie oft** SeaTable **Erinnerungen** verschickt.
+Darüber hinaus können Sie als zeitlichen Trigger wählen, dass die **Deadline eines Eintrags naht**. Dieser Trigger ist nur einsetzbar, wenn eine [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) in der ausgewählten Tabellenansicht vorliegt. Sie können dann festlegen, **ab wann** und **wie oft** SeaTable **Erinnerungen** verschickt.
 
 Außerdem können Sie je nach Trigger die Anzahl der **überwachten Spalten** eingrenzen und/oder eine **Filter-Bedingung** festlegen, die erfüllt sein muss, damit der Trigger ausgelöst wird.
 

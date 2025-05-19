@@ -28,7 +28,7 @@ Vous avez trouvé un modèle passionnant et souhaitez l'utiliser ? C'est parfait
 
 Si vous êtes déjà connecté à votre compte d'utilisateur, toutes les conditions sont remplies. Si vous n'êtes pas connecté ou si vous n'avez pas de compte SeaTable, [connectez-vous](https://cloud.seatable.io/) ou [inscrivez-vous gratuitement avec votre adresse e-mail](https://seatable.io/fr/enregistrement/).
 
-De retour sur votre page d'accueil, vous trouverez une nouvelle base dans le groupe sélectionné ou dans **Mes bases**. Le nom de la nouvelle base créée est le nom du modèle. Si celui-ci ne vous convient pas, [renommez simplement la base](/fr/docs/handbuch/datenmanagement/bases/#base-umbenennen).
+De retour sur votre page d'accueil, vous trouverez une nouvelle base dans le groupe sélectionné ou dans **Mes bases**. Le nom de la nouvelle base créée est le nom du modèle. Si celui-ci ne vous convient pas, renommez simplement la base.
 
 ## Création d'un modèle personnalisé
 

@@ -40,7 +40,7 @@ Lea el artículo [Activar un Plugin en una Base]({{< relref "help/base-editor/pl
 
 Cuando haya creado una nueva página, puede **guardarla** como plantilla mediante el botón {{< seatable-icon icon="dtable-icon-confirm" >}} **Hecho**. Puede volver a editarlo pulsando el botón {{< seatable-icon icon="dtable-icon-rename" >}} **Editar** en el mismo lugar.
 
-![Editar una página en el plugin de diseño de páginas y guardar los cambios](images/page-design-plugin-options-edit-page-1.gif)
+![Editar una página en el plugin de diseño de páginas y guardar los cambios](images/page-design-plugin-options-edit-page.gif)
 
 {{< warning  headline="Atención"  text="Los cambios **no** se guardan automáticamente. Si hace clic en **Cancelar** en el modo de edición, se perderán los cambios realizados desde el último guardado." />}}
 
@@ -82,7 +82,7 @@ Los **elementos de página** le ofrecen la posibilidad de diseñar **diseños es
 
 Se activa un elemento incrustando el campo correspondiente en la página **mediante arrastrar y soltar**. Después, también puede mover el elemento en la página haciendo clic en él y arrastrándolo con el ratón.
 
-![Activar imagen estática](images/Statisches-Bild-aktivieren-1.gif)
+![Activar imagen estática](images/Statisches-Bild-aktivieren.gif)
 
 ## Seleccionar y fijar los elementos
 
@@ -116,7 +116,7 @@ Puede insertar **encabezados y pies de página** como áreas especiales en una p
 
 Sólo puede variar la **altura de** los encabezados y pies de página, ya que éstos siempre se extienden por **todo el ancho de la página**. En el campo **Altura**, introduzca el valor numérico deseado o modifíquelo utilizando las **teclas de flecha** o desplazándose con la **rueda del ratón**.
 
-![Ajuste de la altura de la cabecera y el pie de página.](images/Einstellungen-Kopfzeile-3.gif)
+![Ajuste de la altura de la cabecera y el pie de página.](images/Einstellungen-Kopfzeile.gif)
 
 También puede cambiar la altura directamente en la página **haciendo clic con el botón derecho del ratón** en la cabecera o el pie de página y **arrastrando** el pequeño **cuadrado** situado en la esquina inferior derecha del marco.
 
@@ -142,4 +142,4 @@ Puede insertar los siguientes elementos en los encabezados y pies de página:
 
 Puede **bloquear** o **eliminar** encabezados y pies de página seleccionando la opción correspondiente. Si bloquea un encabezado o un pie de página, también se bloquearán **todos los elementos** que haya insertado previamente en esta zona. Lo mismo ocurre con el borrado, por el que también se borran todos los elementos de una cabecera o pie de página.
 
-![Bloquear y borrar con el complemento de página](images/sperren-und-loeschen-1.png)
+![Bloquear y borrar con el complemento de página](images/sperren-und-loeschen.png)

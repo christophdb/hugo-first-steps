@@ -33,7 +33,7 @@ On the first successful execution, a small **Green hook**.
 
 A concrete use case for this data processing operation could occur, for example, if you want to collect the number of daily accesses to a website in your table. For this purpose, you want to **add up** the **access numbers of** each individual day, which are recorded in an existing [number]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) column, from row to row in a new column.
 
-For the implementation you first need a table in which the different **days** are collected in a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-datum-spalte/) and the **access numbers to** the website in a [number column]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
+For the implementation you first need a table in which the different **days** are collected in a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) and the **access numbers to** the website in a [number column]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
 
 ![Example table for the use case Calculate cumulative values](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 
