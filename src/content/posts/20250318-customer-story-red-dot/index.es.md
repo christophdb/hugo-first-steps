@@ -2,8 +2,8 @@
 title: 'Red Dot Design Award optimiza la gestión de eventos con SeaTable'
 description: 'Red Dot GmbH & Co. KG de Essen, conocida por el premio de diseño Red Dot de renombre internacional, ha revolucionado y optimizado su gestión de eventos y pedidos. Con SeaTable Server, el equipo se beneficia de flujos de trabajo transparentes, eficientes y colaborativos, así como de una gestión de datos conforme a la GDPR.'
 seo:
-    title: "Customer Story Red Dot Design Award optimizado"
-    description: "Con SeaTable Server, el equipo se beneficia de flujos de trabajo eficientes y colaborativos y de una gestión de datos conforme a la GDPR."
+    title: 'Customer Story Red Dot Design Award optimizado'
+    description: 'Con SeaTable Server, el equipo se beneficia de flujos de trabajo eficientes y colaborativos y de una gestión de datos conforme a la GDPR.'
 date: 2025-03-18
 categories:
     - 'Historia de un cliente'
@@ -22,9 +22,9 @@ Red Dot GmbH & Co. KG, con sede en Essen, forma parte integrante del mundo inter
 
 Antes de la introducción de SeaTable, la herramienta más importante era un [programa de hoja de cálculo de escritorio]({{< relref "pages/excel-alternative" >}}). Esta solución ya no estaba al día, sobre todo para la gestión de datos. La colaboración dentro del equipo era un verdadero reto, ya que no era posible trabajar en colaboración. El proceso existente resultó especialmente problemático a la hora de organizar la ceremonia de entrega de los premios Red Dot Award: Product Design, un importante acontecimiento internacional. La falta de oportunidades para trabajar en colaboración dificultó una organización fluida y los cambios de última hora.
 
-## SeaTable cumple a la perfección los requisitos de
+## SeaTable cumple a la perfección los requisitos
 
-Para Red Dot, estaba claro que se necesitaba una herramienta diferente que también ofreciera colaboración en tiempo real en los datos. Sin embargo, una [solución en la nube] obvia ({{< relref "pages/product/seatable-cloud" >}}) estaba descartada debido a la estricta normativa de protección de datos de la empresa. Por tanto, se necesitaba una solución que permitiera el trabajo colaborativo, cumpliera los estrictos requisitos de protección de datos y pudiera alojarse in situ. En ese momento, Red Dot ya utilizaba SeaFile como herramienta para compartir archivos, un producto hermano de SeaTable. Así que Louisa Mücher recibió una recomendación de su proveedor de servicios informáticos para que echara un vistazo a SeaTable.
+Para Red Dot, estaba claro que se necesitaba una herramienta diferente que también ofreciera colaboración en tiempo real en los datos. Sin embargo, una [solución en la nube] obvia ({{< relref "pages/product/seatable-cloud" >}}) estaba descartada debido a la estricta normativa de protección de datos de la empresa. Por tanto, se necesitaba una solución que permitiera el trabajo colaborativo, cumpliera los estrictos requisitos de protección de datos y pudiera alojarse in situ. En ese momento, Red Dot ya utilizaba Seafile como herramienta para compartir archivos, un producto hermano de SeaTable. Así que Louisa Mücher recibió una recomendación de su proveedor de servicios informáticos para que echara un vistazo a SeaTable.
 
 La facilidad de uso, el alto nivel de protección de datos y la posibilidad sin problemas de trabajar juntos en un solo archivo convencieron de inmediato. El proceso de implantación también fue como la seda. Con el apoyo del proveedor de servicios informáticos, SeaTable se implantó rápidamente en varias áreas de la empresa. Dado que los procesos iniciales podían trazarse utilizando plantillas estándar y que el sistema es muy fácil de usar e intuitivo, la aceptación dentro del equipo fue alta.
 

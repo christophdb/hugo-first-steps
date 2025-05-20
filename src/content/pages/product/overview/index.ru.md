@@ -1,5 +1,8 @@
 ---
 title: 'SeaTable продукты'
+seo:
+    title: "Продукция SeaTable | Найдите правильное решение"
+    description: "SeaTable предлагает гибкие облачные, выделенные и локальные решения, идеально соответствующие требованиям вашего бизнеса"
 date: '2025-03-30'
 url: '/ru/produkty'
 
@@ -166,6 +169,7 @@ sections:
           - label: Зарегистрироваться сейчас
             link: 'pages/registration'
             style: primary
+            id: ru-product-overview-registration-content-22
           - label: Связаться с отделом продаж
             link: 'pages/contact'
             style: secondary

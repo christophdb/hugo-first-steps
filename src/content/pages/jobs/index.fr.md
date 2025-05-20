@@ -10,9 +10,7 @@ sections:
       title: 'Rejoignez notre bureau global'
       subtitle: "Restez là où vous vous sentez à l'aise"
       text: "Avec notre plateforme sans code, nous révolutionnons la manière dont les gens du monde entier travailleront avec les données à l'avenir. Pour cette mission, nous avons besoin de personnes motivées et prêtes à faire la différence. Des personnes qui prennent des initiatives et restent engagées dans leur travail."
-      image:
-          src: '/images/people-at-work.png'
-          alt: 'personnes-au-travail'
+      
 
     - name: content-19
       weight: 2

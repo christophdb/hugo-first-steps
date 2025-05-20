@@ -54,6 +54,8 @@
                     type: 'sales',
                     subject: '',
                     message: '',
+                    // Honeypot field
+                    name: '',
                     buttonText: '{{ T "contact.submit"}}',
                     isSubmitting: false, // Tracks if the form is being submitted
                     errorMessage: '', // Message to show on error
@@ -69,6 +71,11 @@
                     },
                     submitForm() {
                         this.validateEmail();
+
+                        // Validate honeypot field
+                        if (this.name.length >= 1) {
+                            return;
+                        }
 
                         // Disable the button
                         this.isSubmitting = true;
@@ -121,6 +128,8 @@
             function registrationForm() {
                 return {
                     email: '',
+                    // Honeypot field
+                    name: '',
                     errors: {},
                     isSubmitting: false, // Tracks if the form is being submitted
                     successMessage: '', // Message to show on success
@@ -140,6 +149,11 @@
                         this.validateEmail();
 
                         if (this.errors.email) {
+                            return;
+                        }
+
+                        // Validate honeypot field
+                        if (this.name.length >= 1) {
                             return;
                         }
 
@@ -185,6 +199,8 @@
             function newsletterForm() {
                 return {
                     email: '',
+                    // Honeypot field
+                    name: '',
                     errors: {},
                     submitted: false,
                     validateEmail() {
@@ -200,6 +216,11 @@
                         this.validateEmail();
 
                         if (this.errors.email) {
+                            return;
+                        }
+
+                        // Validate honeypot field
+                        if (this.name.length >= 1) {
                             return;
                         }
 
@@ -319,5 +340,9 @@
                 };
             }
         </script>
+
+        <!-- toc highlight -->
+        {{ $toc := resources.Get "js/toc-highlight.js" | fingerprint }}
+        <script src="{{ $toc.RelPermalink }}" integrity="{{ $toc.Data.Integrity }}" defer></script>
     </body>
 </html>

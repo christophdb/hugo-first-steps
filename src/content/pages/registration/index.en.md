@@ -9,5 +9,6 @@ sections:
       title: 'Try SeaTable'
       subtitle: 'Start now with our free subscription.'
       cta: 'Get started right away, no credit card required!'
+      id: 'en-registration'
       submit: 'Register now'
 ---

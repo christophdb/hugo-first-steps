@@ -1,5 +1,8 @@
 ---
 title: 'SeaTable Products'
+seo:
+    title: "SeaTable products | Find the right solution for you"
+    description: "SeaTable offers flexible cloud, dedicated and on-premises solutions, perfectly tailored to your business requirements"
 date: '2025-03-30'
 url: '/products'
 
@@ -167,6 +170,7 @@ sections:
           - label: Register now
             link: 'pages/registration'
             style: primary
+            id: en-product-overview-registration-content-22
           - label: Contact sales
             link: 'pages/contact'
             style: secondary
