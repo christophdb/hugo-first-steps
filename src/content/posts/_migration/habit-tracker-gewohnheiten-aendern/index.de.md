@@ -1,9 +1,9 @@
 ---
-title: "Habit Tracker – wie Sie langfristig Ihre Gewohnheiten ändern"
+title: 'Habit Tracker – wie Sie langfristig Ihre Gewohnheiten ändern'
 date: 2023-12-06
-lastmod: "2024-01-25"
-author: "lsc"
-url: "/de/habit-tracker-gewohnheiten-aendern"
+lastmod: '2024-01-25'
+author: 'lsc'
+url: '/de/habit-tracker-gewohnheiten-aendern'
 ---
 
 Sich **gute Vorsätze** für das neue Jahr vorzunehmen, ist für viele Menschen zur Gewohnheit geworden. Doch jedes Jahr ist man enttäuscht, wenn man es wieder nicht schafft, die guten Vorsätze durchzuziehen. Es erfordert nunmal einen starken Willen, neue Gewohnheiten in unser Leben zu integrieren. Um dieses Vorgehen zu erleichtern, gibt es **Habit Tracker**.
@@ -20,7 +20,7 @@ So könnte Ihr Habit Tracker aussehen.
 
 Bei der **Gestaltung** Ihres Habit Trackers sind Ihrer Fantasie keine Grenzen gesetzt. Arbeiten Sie zum Beispiel mit verschiedenen **Farben** und Schriftarten oder setzen Sie Ihre Ideen mit dem [Habit Tracker von SeaTable](https://seatable.io/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker) einfach online um. Dabei sollten Sie nicht nur Ihre angestrebten, sondern auch Ihre bisherigen Gewohnheiten aufschreiben. Das Nachverfolgen hilft Ihnen, sich der Gewohnheiten bewusst zu werden, die Sie bis dahin als selbstverständlich wahrgenommen haben.
 
-{{< warning headline="Warum wir Gewohnheiten brauchen" text="Gewohnheiten machen unser Leben leichter. Haben Sie eine Verhaltensweise erst einmal verinnerlicht, wird sie meist automatisch von Ihnen ausgeführt. Die Aktivität passiert unterbewusst, wie zum Beispiel das tägliche Zähneputzen, das wir aus Gewohnheit tun, ohne jedes Mal den Zweck zu hinterfragen. Damit nehmen wir dem Gehirn Denkarbeit ab und schaffen gleichzeitig Kapazitäten für wichtigere Abläufe." >}}
+{{< warning headline="Warum wir Gewohnheiten brauchen" text="Gewohnheiten machen unser Leben leichter. Haben Sie eine Verhaltensweise erst einmal verinnerlicht, wird sie meist automatisch von Ihnen ausgeführt. Die Aktivität passiert unterbewusst, wie zum Beispiel das tägliche Zähneputzen, das wir aus Gewohnheit tun, ohne jedes Mal den Zweck zu hinterfragen. Damit nehmen wir dem Gehirn Denkarbeit ab und schaffen gleichzeitig Kapazitäten für wichtigere Abläufe." />}}
 
 Doch bedenken Sie: Ihr Habit Tracker ist nicht für die Ewigkeit gemacht. Ziel ist es, eine **Routine** zu entwickeln, sodass Sie die Aufzeichnung Ihrer Aktivität irgendwann nicht mehr brauchen.
 
@@ -30,9 +30,10 @@ Neben dem Ziel, Gewohnheiten zu erlernen und diese in Ihren Alltag zu integriere
 
 Außerdem sorgen die schnell zu erkennenden Erfolge für eine Stärkung des Selbstbewusstseins und regen dazu an, **motiviert** und **diszipliniert** weiterzumachen. Mit einem Habit Tracker entwickeln Sie schnell einen Ehrgeiz, die Siegesserie nicht abreißen zu lassen.
 
-{{< warning headline="Tracking hilft, Ziele zu erreichen" text="Dass Tracking hilft, Ihre Ziele zu erreichen, zeigt auch die Wissenschaft. [Studien](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) belegen, dass Menschen, die ihren Fortschritt verfolgen, erfolgreicher darin sind, ihre Ziele zu erreichen." >}}
+{{< warning headline="Tracking hilft, Ziele zu erreichen" text="Dass Tracking hilft, Ihre Ziele zu erreichen, zeigt auch die Wissenschaft. [Studien](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) belegen, dass Menschen, die ihren Fortschritt verfolgen, erfolgreicher darin sind, ihre Ziele zu erreichen." />}}
 
-Der wohl größte Vorteil ist das **Aufbauen von Routinen**. Indem Sie sich Ihrer Fortschritte bewusst werden, können Sie Ihre Gewohnheiten verinnerlichen. Das beweist allen voran der Habit Tracker an sich. Schließlich ist auch das regelmäßige Abhaken Ihrer To-dos eine Gewohnheit.  
+Der wohl größte Vorteil ist das **Aufbauen von Routinen**. Indem Sie sich Ihrer Fortschritte bewusst werden, können Sie Ihre Gewohnheiten verinnerlichen. Das beweist allen voran der Habit Tracker an sich. Schließlich ist auch das regelmäßige Abhaken Ihrer To-dos eine Gewohnheit.
+
 ﻿
 
 ## Welche Gewohnheiten Sie tracken können
@@ -77,7 +78,7 @@ Ihre Verhaltensweisen regelmäßig auszuführen erfordert eine starke **Selbstdi
 
 ![Das Buch Atomic Habits enthält die unten stehenden Tipps, welche Sie in Ihren Gewohnheitstracker integrieren können.](https://seatable.io/wp-content/uploads/2023/11/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
-James Clears Bestseller enthält nützliche Tipps.  
+James Clears Bestseller enthält nützliche Tipps.
 
 Die folgenden Tipps stammen aus dem Buch **Die 1% Methode** (auf Englisch _Atomic Habits_) von James Clear und können Ihren Habit Tracker noch effektiver machen.
 
@@ -86,20 +87,17 @@ Die folgenden Tipps stammen aus dem Buch **Die 1% Methode** (auf Englisch _Atomi
 Gewohnheiten in den Alltag einbauen|||
 
 Um eine wünschenswerte Handlung verbindlicher zu machen, sollten Sie diese mit Ort und Zeit der Ausführung verknüpfen.
-
-\--- 
+{{< /faq >}}
 
 Neues und Altes verbinden|||
 
 Bereits automatisierte Gewohnheiten können Ihnen das Erlernen neuer Gewohnheiten erleichtern. Führen Sie einfach eine aktuelle und eine neue Gewohnheit nacheinander aus.
-
-\--- 
+{{< /faq >}}
 
 Anreize und Belohnungen nutzen|||
 
 Nicht alle Gewohnheiten, die Sie erlernen möchten, bereiten Ihnen Freude. Daher kann es helfen, mit einem Belohnungssystem zu arbeiten. Führen Sie eine Ihnen unliebsame Aufgabe aus und belohnen Sie sich danach mit etwas, das Ihnen leichtfällt und Spaß macht.
-
-\--- 
+{{< /faq >}}
 
 2-Minuten-Habits|||
 

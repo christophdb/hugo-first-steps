@@ -1,9 +1,9 @@
 ---
-title: "Qué es un guión gráfico y cómo crearlo"
+title: 'Qué es un guión gráfico y cómo crearlo'
 date: 2024-03-26
-lastmod: "2024-03-26"
-author: "nsc"
-url: "/es/storyboard"
+lastmod: '2024-03-26'
+author: 'nsc'
+url: '/es/storyboard'
 ---
 
 Tanto si estás creando un vídeo de imagen para tu empresa, un cortometraje para un festival de cine o la próxima superproducción de Hollywood, la creación de un guión **gráfico** puede marcar la diferencia. Un guión gráfico no es sólo una herramienta para estructurar tus **ideas creativas**, sino también para garantizar un **proceso de producción fluido**. En este artículo se explican la importancia y las ventajas de los guiones gráficos para proyectos cinematográficos de todo tipo y se presenta una plantilla de guión gráfico gratuita que le ayudará a dar vida a su visión.
@@ -47,7 +47,7 @@ Si tu idea ya está completamente desarrollada, deberías escribirla en un **gui
 
 Después viene el **storyboard**, en el que trasladas la trama de tu guión en forma de bocetos visuales. Presta atención a detalles como los ángulos de cámara, la atmósfera, el sonido y la música para dar profundidad a tu historia.
 
-{{< warning headline="Consejo" text="No olvides pensar qué actores, atrezzo o vestuario necesitas para tu proyecto." >}}
+{{< warning headline="Consejo" text="No olvides pensar qué actores, atrezzo o vestuario necesitas para tu proyecto." />}}
 
 Sólo se debe empezar a **rodar** una vez que se hayan ultimado el guión y el guión gráfico. Porque en una película que no está completamente planificada y organizada, el rodaje suele ser caótico e implica mucho más esfuerzo del realmente necesario.
 

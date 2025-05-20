@@ -1,9 +1,9 @@
 ---
-title: "Was ein Storyboard ist und wie Sie es erstellen"
+title: 'Was ein Storyboard ist und wie Sie es erstellen'
 date: 2024-03-26
-lastmod: "2024-03-26"
-author: "nsc"
-url: "/de/storyboard"
+lastmod: '2024-03-26'
+author: 'nsc'
+url: '/de/storyboard'
 ---
 
 Ganz gleich, ob Sie gerade ein Imagevideo für Ihre Firma, einen Kurzfilm für ein Film-Festival oder den nächsten Hollywood-Blockbuster konzipieren – ein **Storyboard** zu erstellen kann den entscheidenden Unterschied machen. Ein Storyboard ist nicht nur ein Werkzeug, um Ihre **kreativen Ideen** zu strukturieren, sondern auch um einen **reibungslosen Produktionsablauf** zu gewährleisten. In diesem Artikel wird die Bedeutung und der Nutzen von Storyboards für Filmprojekte aller Art erläutert und eine kostenlose Storyboard Vorlage vorgestellt, mit der Sie Ihre Visionen zum Leben erwecken können.
@@ -47,7 +47,7 @@ Ist Ihre Idee bereits ausgereift, sollten Sie diese schriftlich in einem **Drehb
 
 Erst danach folgt das **Storyboard**, in das Sie die Handlung Ihres Drehbuchs in Form von visuellen Skizzen übertragen. Beachten Sie hierbei bereits Details wie Kameraeinstellungen, Atmosphäre, Sound und Musik, um Ihrer Geschichte Tiefe zu verleihen.
 
-{{< warning headline="Tipp" text="Vergessen Sie nicht zu überlegen, welche Darsteller, Requisiten oder Kostüme Sie für Ihr Projekt benötigen." >}}
+{{< warning headline="Tipp" text="Vergessen Sie nicht zu überlegen, welche Darsteller, Requisiten oder Kostüme Sie für Ihr Projekt benötigen." />}}
 
 Erst wenn sowohl Drehbuch als auch Storyboard final stehen, sollten Sie mit den **Dreharbeiten** beginnen. Denn bei einem Film, der nicht komplett durchgeplant und organisiert ist, verläuft der Dreh oft chaotisch und mit viel mehr Aufwand als eigentlich notwendig.
 

@@ -1,9 +1,9 @@
 ---
-title: "Enterrement de vie de garçon - Idées et conseils pour la visite parfaite"
+title: 'Enterrement de vie de garçon - Idées et conseils pour la visite parfaite'
 date: 2024-08-06
-lastmod: "2024-08-07"
-author: "nsc"
-url: "/fr/junggesellenabschied"
+lastmod: '2024-08-07'
+author: 'nsc'
+url: '/fr/junggesellenabschied'
 ---
 
 Pour l'enterrement de vie de garçon classique, trois choses sont considérées comme indispensables : des **T-shirts** flamboyants, un **chariot** rempli de toutes sortes de curiosités et un **lieu animé**. Mais pourquoi ne pas faire quelque chose de spécial ? Après tout, on ne se marie généralement qu'une fois dans sa vie et l'**enterrement de vie de garçon** peut être aussi unique et inoubliable que le mariage lui-même.
@@ -24,7 +24,7 @@ Les mariés ont souvent tendance à organiser leurs fêtes d'adieu séparément.
 
 Certains couples célèbrent ensemble leur enterrement de vie de garçon ou de jeune fille, connu sous le nom de "Jack and Jill Party" ou "Stag and Hen Party". Cette variante moderne offre une occasion aux familles et aux amis des deux parties de se réunir pour célébrer le couple et soutenir symboliquement le début de leur vie commune.
 
-{{< warning headline="Soirée de célibataire" text="Une autre option populaire pour une célébration commune avant le mariage est l'[enterrement de vie de jeune](https://de.wikipedia.org/wiki/Polterabend) fille, au cours duquel des tessons de céramique placés devant la maison de la mariée sont censés porter symboliquement chance au mariage. Cette tradition est surtout répandue dans certains pays européens." >}}
+{{< warning headline="Soirée de célibataire" text="Une autre option populaire pour une célébration commune avant le mariage est l'[enterrement de vie de jeune](https://de.wikipedia.org/wiki/Polterabend) fille, au cours duquel des tessons de céramique placés devant la maison de la mariée sont censés porter symboliquement chance au mariage. Cette tradition est surtout répandue dans certains pays européens." />}}
 
 ## Ce dont il faut tenir compte avant de planifier
 
@@ -34,7 +34,7 @@ Tout d'abord, il est crucial de déterminer à l'avance quels sont les **amis et
 
 Les **coûts** de l'enterrement de vie de garçon sont généralement partagés entre tous les participants, la mariée et le marié étant invités d'honneur. Il est donc important de planifier et de convenir soigneusement du **budget** afin de ne froisser personne et de ne pas dépasser les limites financières.
 
-![Sur une main, on peut lire &quot;Bride to be&quot;.](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
+![Sur une main, on peut lire "Bride to be".](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
 
 Pour beaucoup, l'enterrement de vie de garçon est un rite de passage important entre la vie de célibataire et la vie de couple.
 

@@ -1,9 +1,9 @@
 ---
 title: "SeaTable 4.3 : nouveaux liens de formulaires, automatisations & fonctionnalités de l'app"
 date: 2024-02-08
-lastmod: "2024-02-16"
-author: "kgr"
-url: "/fr/seatable-release-4-3"
+lastmod: '2024-02-16'
+author: 'kgr'
+url: '/fr/seatable-release-4-3'
 ---
 
 La période du carnaval en Allemagne approche de son apogée - et chez SeaTable aussi, les canons à confettis claquent ! La version 4.3 apporte quelques fonctions et améliorations attendues depuis longtemps.
@@ -22,7 +22,7 @@ Nous avons également ajouté une toute nouvelle option permettant de créer **d
 
 ![Nouvelle boîte de dialogue de lien de formulaire dans SeaTable 4.3](images/Formularlink-Dialog.gif)
 
-{{< warning headline="Remarque" text="La partie personnalisée qui est ajoutée au lien doit comporter **entre 5 et 30 caractères** et ne peut contenir que **des lettres**, **des chiffres** et des **tirets**. De plus, chaque URL doit être unique : Si une URL personnalisée est déjà occupée, un message d'erreur apparaît." >}}
+{{< warning headline="Remarque" text="La partie personnalisée qui est ajoutée au lien doit comporter **entre 5 et 30 caractères** et ne peut contenir que **des lettres**, **des chiffres** et des **tirets**. De plus, chaque URL doit être unique : Si une URL personnalisée est déjà occupée, un message d'erreur apparaît." />}}
 
 ## Actions automatisées : Enregistrer le PDF et envoyer une notification d'application
 
@@ -51,7 +51,7 @@ Cette fonctionnalité est particulièrement utile dans l'application universelle
 
 La [fonction de commentaire](https://seatable.io/fr/docs/arbeiten-mit-zeilen/zeilen-kommentieren/), que vous connaissez déjà sous la même forme dans la base, est une toute nouvelle fonctionnalité de l'application universelle. Consignez vos commentaires ou des informations supplémentaires sur les jeux de données pour les autres utilisateurs de l'application et menez des discussions sur place.
 
-{{< warning headline="Bon à savoir" text="Les commentaires dans l'application sont complètement **indépendants** des commentaires dans la base. Cela signifie que chaque commentaire n'est visible que là où il est posté." >}}
+{{< warning headline="Bon à savoir" text="Les commentaires dans l'application sont complètement **indépendants** des commentaires dans la base. Cela signifie que chaque commentaire n'est visible que là où il est posté." />}}
 
 Sur la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), vous pouvez vous réjouir de deux nouveaux éléments : le **conteneur** et la **carte**. Le conteneur donne une grille qui vous permet de disposer plus facilement d'autres éléments (textes, images, statistiques) et de les regrouper.
 
@@ -75,7 +75,7 @@ Dans la version 4.4, l'[application Galerie](https://seatable.io/fr/docs/apps/ga
 
 Si vous utilisez les deux applications en cours d'exécution, nous vous recommandons de recréer vos cas d'utilisation avec des [pages de galerie](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) et [des pages de requête](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) dans l'App Builder avant la prochaine version. Sur les pages de requête, vous pouvez d'ailleurs entre-temps ajouter des champs qui permettent aux utilisateurs de rechercher également **des colonnes de liens** pour certaines valeurs.
 
-{{< warning headline="Attention, risque de confusion !" text="Vous connaissez également la [galerie](https://seatable.io/fr/docs/plugins/anleitung-zum-galerie-plugin/) et la [requête SQL](https://seatable.io/fr/docs/plugins/anleitung-zum-sql-abfrage-plugin/) en tant que **plugins** que vous pouvez ajouter à vos bases. Celles-ci continuent bien entendu d'exister." >}}
+{{< warning headline="Attention, risque de confusion !" text="Vous connaissez également la [galerie](https://seatable.io/fr/docs/plugins/anleitung-zum-galerie-plugin/) et la [requête SQL](https://seatable.io/fr/docs/plugins/anleitung-zum-sql-abfrage-plugin/) en tant que **plugins** que vous pouvez ajouter à vos bases. Celles-ci continuent bien entendu d'exister." />}}
 
 ## Et bien plus encore
 

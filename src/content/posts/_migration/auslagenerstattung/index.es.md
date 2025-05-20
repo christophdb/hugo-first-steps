@@ -1,9 +1,9 @@
 ---
-title: "Reembolso de gastos: consejos para empresarios y trabajadores"
+title: 'Reembolso de gastos: consejos para empresarios y trabajadores'
 date: 2024-01-03
-lastmod: "2025-05-19"
-author: "nsc"
-url: "/es/auslagenerstattung"
+lastmod: '2025-05-19'
+author: 'nsc'
+url: '/es/auslagenerstattung'
 ---
 
 Ya se trate de una comida de negocios, un billete de tren o el teléfono móvil de la empresa, ¿realiza pagos por adelantado con regularidad en el trabajo y quiere saber qué debe tener en cuenta a la hora de **reembolsar gastos**? ¿O es usted empresario y busca la manera de que el proceso de reembolso de gastos sea más eficaz para sus empleados?
@@ -35,7 +35,7 @@ Hay varios costes que puede hacer que le reembolsen como gastos.
 
 Los fondos transitorios suelen utilizarse para **gastos previsibles** que se realizan a intervalos regulares, mientras que los reembolsos de gastos tienden a utilizarse para **gastos puntuales**.
 
-{{< warning headline="Prestación en especie" text="Si un empleado utiliza un producto o artículo tanto profesional como privadamente, recibe una **prestación en especie** de la empresa. Puede tratarse, por ejemplo, de un coche de empresa o un smartphone, que también puede utilizar en su tiempo libre. El artículo en cuestión está exento de impuestos hasta un importe de 50 euros al mes." >}}
+{{< warning headline="Prestación en especie" text="Si un empleado utiliza un producto o artículo tanto profesional como privadamente, recibe una **prestación en especie** de la empresa. Puede tratarse, por ejemplo, de un coche de empresa o un smartphone, que también puede utilizar en su tiempo libre. El artículo en cuestión está exento de impuestos hasta un importe de 50 euros al mes." />}}
 
 ## Caso excepcional: reembolso a tanto alzado de los gastos
 
@@ -63,7 +63,7 @@ El reembolso de los gastos puede abrumarle rápidamente sin una buena estructura
 
 El reembolso de gastos alberga sus propios retos. En particular, no hay que subestimar el **esfuerzo burocrático** que supone: los recibos y la documentación se amontonan en carpetas y ocupan **espacio**. Para poder liquidar las cuentas en su totalidad, es necesario presentar meticulosamente cada recibo y cada factura. Sin embargo, existe el riesgo de que los recibos se pierdan más rápidamente de lo que le gustaría.
 
-{{< warning headline="Consejo" text="Si pierde un recibo, puede crear el **suyo propio**. Antes de hacerlo, sin embargo, es aconsejable consultar a la oficina tributaria local, ya que no existe una obligación general de reconocerlo." >}}
+{{< warning headline="Consejo" text="Si pierde un recibo, puede crear el **suyo propio**. Antes de hacerlo, sin embargo, es aconsejable consultar a la oficina tributaria local, ya que no existe una obligación general de reconocerlo." />}}
 
 El proceso de reembolso de gastos no sólo **lleva mucho tiempo**, sino que también es **propenso a errores**, sobre todo si todavía se hace en papel. Hay que estar completamente concentrado para evitar transponer cifras accidentalmente. También hay que tener en cuenta las **especificaciones de formato** de la Agencia Tributaria, que sólo acepta PDF contiguos.
 

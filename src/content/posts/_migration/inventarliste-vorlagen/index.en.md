@@ -1,10 +1,10 @@
 ---
-title: "Create an inventory list - with a free template, Excel or Word"
+title: 'Create an inventory list - with a free template, Excel or Word'
 date: 2024-02-23
-lastmod: "2025-01-10"
-coverImage: "Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg"
-author: "kgr"
-url: "/inventarliste-vorlagen"
+lastmod: '2025-01-10'
+coverImage: 'Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg'
+author: 'kgr'
+url: '/inventarliste-vorlagen'
 ---
 
 Do you carry out an **inventory** every year or even every month? Then you've come to the right place! In this article, you will learn how to create your **inventory list**, standardize the process and simplify your inventory. You can import an inventory list into Excel or create your own template in Word. You will also find out what advantages a free database like **SeaTable** offers **over Excel and Word**.
@@ -32,7 +32,7 @@ The assets (fixed and current assets) and liabilities of your company belong to 
 - **Fixed assets include assets** that are permanently used for your company's business operations. These can be real estate, machinery, technical equipment, vehicles, office furniture, financial assets or intangible rights and assets such as patents.
 - **Current assets are all assets** that are only held in the company for short-term sale, consumption, further processing or repayment. These are usually the basis (e.g. raw materials and energy sources in stock) or the result (e.g. finished goods, bank balances, receivables) of the production process.
 
-{{< warning headline="This does not need to be inventoried" text="You do not have to take an inventory of **short-lived consumables that lose their value within 12 months** or are destroyed by the act of use. These include, for example, printer cartridges, hygiene articles or food, regardless of the purchase price." >}}
+{{< warning headline="This does not need to be inventoried" text="You do not have to take an inventory of **short-lived consumables that lose their value within 12 months** or are destroyed by the act of use. These include, for example, printer cartridges, hygiene articles or food, regardless of the purchase price." />}}
 
 ## Types of inventory
 
@@ -46,7 +46,7 @@ It also makes a difference **when** you create your inventory:
 
 ![Warehouse worker takes inventory in Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
-You should regularly compare your inventory list with the actual stock. Image rights: zephyr\_p / Adobe Stock
+You should regularly compare your inventory list with the actual stock. Image rights: zephyr_p / Adobe Stock
 
 ## Why is it important to create an inventory list?
 

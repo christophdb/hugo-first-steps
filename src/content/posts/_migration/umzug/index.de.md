@@ -1,9 +1,9 @@
 ---
-title: "Umzug planen mit Checkliste: Wie Sie stressfrei umziehen"
+title: 'Umzug planen mit Checkliste: Wie Sie stressfrei umziehen'
 date: 2023-10-30
-lastmod: "2023-10-30"
-author: "lsc"
-url: "/de/umzug"
+lastmod: '2023-10-30'
+author: 'lsc'
+url: '/de/umzug'
 ---
 
 Endlich ist es so weit! Sie haben die perfekte Wohnung für sich gefunden und können es kaum erwarten, in Ihr neues Heim einzuziehen. Das Einzige, was Sie jetzt noch von Ihrer Traumwohnung trennt, ist der Umzug. Was für die meisten Menschen viel Stress und Zeitaufwand bedeutet, können Sie sich mit einem strukturierten **Umzugsplan** leichtmachen. Wie Sie Ihren Umzug möglichst stressfrei planen und erfolgreich über die Bühne bringen, erfahren Sie hier.
@@ -41,20 +41,17 @@ Mit einer sorgfältigen Planung der Übergaben ist der erste Schritt Ihres Umzug
 Habe ich ein Anrecht auf gesetzlichen Sonderurlaub?|||
 
 Zunächst die schlechte Nachricht: In Deutschland gibt es laut Bundesurlaubsgesetz und Bürgerlichem Gesetzbuch **keinen gesetzlichen Anspruch auf Urlaub** bei einem Umzug.
-
-\--- 
+{{< /faq >}}
 
 Was steht in meinem Arbeitsvertrag?|||
 
 Zwar gibt es keinen generellen Anspruch auf Sonderurlaub, jedoch kann Ihr Arbeitgeber diesen natürlich trotzdem gewähren. Werfen Sie zur Vergewisserung einen Blick in Ihren Arbeitsvertrag oder fragen Sie beim Betriebsrat oder einem Vorgesetzten nach, ob Ihnen Sonderurlaub zusteht.
-
-\--- 
+{{< /faq >}}
 
 Was ist, wenn ich aus beruflichen Gründen umziehe?|||
 
 In diesem Fall haben Sie gute Chancen, dass Sie eine bezahlte Freistellung gewährt bekommen, auch wenn dies nicht in Ihrem Arbeitsvertrag aufgeführt ist. Unterschieden wird, ob Sie den Arbeitgeber wechseln oder lediglich den Arbeitsort. Bei Ersterem müssen Sie auf die Kulanz Ihres neuen Arbeitgebers hoffen. Ziehen Sie hingegen bei ein und demselben Arbeitgeber um, ist es möglich, eine bezahlte Freistellung zu beantragen.
-
-\---
+{{< /faq >}}
 
 ### Berufliche Gründe für den Umzug
 
@@ -63,14 +60,12 @@ In diesem Fall haben Sie gute Chancen, dass Sie eine bezahlte Freistellung gewä
 Welche Gründe machen einen Umzug 'beruflich bedingt'?|||
 
 Neben den bereits erwähnten Gründen _Arbeitsplatz- oder Arbeitgeberwechsel_ gibt es noch weitere Möglichkeiten, Ihren Umzug als beruflich bedingt geltend zu machen. Diese sind der Antritt Ihres ersten Jobs, der Umzug aus einer oder in eine Dienstwohnung, die Rückkehr aus dem Ausland zum Antritt einer neuen Stelle in Deutschland und die Verkürzung des Arbeitsweges um mindestens eine halbe Stunde täglich.
-
-\--- 
+{{< /faq >}}
 
 Gibt es andere Regelungen, wenn ich im öffentlichen Dienst arbeite?|||
 
 Ja, denn als Beamter oder Angestellter im öffentlichen Dienst erhalten Sie gemäß Paragraph 29 der Tarifverordnung einen Tag bezahlten Urlaub für einen Umzug aus dienstlichen Gründen. Mussten Sie in den vergangenen fünf Jahren aus betrieblichen Gründen schon einmal umziehen, haben Sie sogar Anspruch auf drei freie Tage.
-
-\---
+{{< /faq >}}
 
 ## Den Umzug organisieren
 
@@ -84,7 +79,7 @@ Mit einer **Umzugsfirma** ersparen Sie sich viel Zeit und Nerven. Denn alles, wa
 
 Die Kosten Ihres Umzugs hängen von der Haushaltsgröße und Entfernung der Wohnungen ab.
 
-Für Ihr Geld kriegen Sie dann aber einen **Komplettservice**. Dazu gehört auch, dass das Unternehmen während Ihres Umzugs für alle eventuellen Schäden an Ihrem Besitz, der Wohnung oder dem Treppenhaus haftet. Das Gesetz sieht vor, dass 620 Euro pro Kubikmeter Transportgut für den Schadensfall veranschlagt werden. Sollten Sie besonders wertvolles Gut transportieren lassen wollen, können Sie mit der Umzugsfirma eine höhere Haftungssumme vereinbaren. Aber geben Sie Acht: Wenn Sie Ihre Möbel und Besitztümer selbst verpacken, übernehmen die Profis keine Haftung für beim Transport entstandene Schäden.  
+Für Ihr Geld kriegen Sie dann aber einen **Komplettservice**. Dazu gehört auch, dass das Unternehmen während Ihres Umzugs für alle eventuellen Schäden an Ihrem Besitz, der Wohnung oder dem Treppenhaus haftet. Das Gesetz sieht vor, dass 620 Euro pro Kubikmeter Transportgut für den Schadensfall veranschlagt werden. Sollten Sie besonders wertvolles Gut transportieren lassen wollen, können Sie mit der Umzugsfirma eine höhere Haftungssumme vereinbaren. Aber geben Sie Acht: Wenn Sie Ihre Möbel und Besitztümer selbst verpacken, übernehmen die Profis keine Haftung für beim Transport entstandene Schäden.
 
 ![Eine Umzugsfirma zu beauftragen erspart Ihnen viel Arbeit.](https://seatable.io/wp-content/uploads/2023/10/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
@@ -135,17 +130,17 @@ Der Umzug steht kurz bevor und Sie möchten allen Ihre neue Anschrift mitteilen.
 - Mitgliedschaften (z. B. Fitnessstudio, Vereine)
 - Online-Shops und Paketdienste
 
-{{< warning headline="Falls Sie vergessen, jemandem Ihre neue Adresse mitzuteilen" text="Mit dem Nachsendeauftrag der Deutschen Post werden Briefe und Pakete, welche an Ihrer alten Adresse ankommen, ganz einfach an Ihre neue Adresse weitergeleitet. Unter [nachsendeauftrag.de](http://nachsendeauftrag.de/) können Sie diesen ab 28,90 Euro für sechs Monate online einrichten." >}}
+{{< warning headline="Falls Sie vergessen, jemandem Ihre neue Adresse mitzuteilen" text="Mit dem Nachsendeauftrag der Deutschen Post werden Briefe und Pakete, welche an Ihrer alten Adresse ankommen, ganz einfach an Ihre neue Adresse weitergeleitet. Unter [nachsendeauftrag.de](http://nachsendeauftrag.de/) können Sie diesen ab 28,90 Euro für sechs Monate online einrichten." />}}
 
 ## Berufsbedingten Umzug von der Steuer absetzen
 
 Einen Teil Ihrer Umzugskosten können Sie in Deutschland als **Werbungskosten** von der Steuer absetzen. Diese werden in **allgemeine und sonstige Kosten** getrennt und machen einen Großteil der von der Steuer absetzbaren Kosten aus. Achtung: Wenn Ihr Arbeitgeber Ihre Umzugskosten teilweise oder ganz übernimmt, können Sie die übernommenen Kosten nicht nochmal in Ihrer Steuererklärung geltend machen.
 
-{{< warning headline="Studenten und Auszubildende aufgepasst!" text="Wer umzieht, um seine erste Berufsausbildung anzutreten, kann die Umzugskosten als **Sonderausgaben** geltend machen." >}}
+{{< warning headline="Studenten und Auszubildende aufgepasst!" text="Wer umzieht, um seine erste Berufsausbildung anzutreten, kann die Umzugskosten als **Sonderausgaben** geltend machen." />}}
 
 ### Allgemeine Kosten
 
-Es gibt einige **allgemeine Kosten**, welche Sie in voller Höhe in der Steuererklärung angeben können. **Ganz wichtig**: Bewahren Sie Rechnungen und Quittungen auf, um Ihre Ausgaben belegen zu können. Zu allgemeinen Kosten gehören zum Beispiel Transportkosten für den Hausrat, doppelte Miete während der Umzugsphase oder die Maklerprovision.  
+Es gibt einige **allgemeine Kosten**, welche Sie in voller Höhe in der Steuererklärung angeben können. **Ganz wichtig**: Bewahren Sie Rechnungen und Quittungen auf, um Ihre Ausgaben belegen zu können. Zu allgemeinen Kosten gehören zum Beispiel Transportkosten für den Hausrat, doppelte Miete während der Umzugsphase oder die Maklerprovision.
 
 ![Behalten Sie Ihre Kosten immer im Blick, indem Sie Quittungen aufbewahren.](https://seatable.io/wp-content/uploads/2023/10/finance-8206242_1280-711x474.jpg)
 

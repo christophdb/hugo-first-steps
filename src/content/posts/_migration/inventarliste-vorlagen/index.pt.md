@@ -1,9 +1,9 @@
 ---
-title: "Criar uma lista de inventário - com um modelo gratuito, Excel ou Word"
+title: 'Criar uma lista de inventário - com um modelo gratuito, Excel ou Word'
 date: 2024-02-23
-lastmod: "2025-01-10"
-author: "kgr"
-url: "/pt/inventarliste-vorlagen"
+lastmod: '2025-01-10'
+author: 'kgr'
+url: '/pt/inventarliste-vorlagen'
 ---
 
 Faz um **inventário** todos os anos ou mesmo todos os meses? Então veio ao sítio certo! Neste artigo, aprenderá a criar a sua **lista de inventário**, a normalizar o processo e a simplificar o seu inventário. Pode importar uma lista de inventário para o Excel ou criar o seu próprio modelo no Word. Descobrirá também as vantagens que uma base de dados gratuita como o **SeaTable** oferece **em relação ao Excel e ao Word**.
@@ -31,7 +31,7 @@ Os activos (fixos e circulantes) e os passivos da sua empresa pertencem ao inven
 - **Os activos fixos incluem activos** que são permanentemente utilizados para as operações comerciais da sua empresa. Podem ser imóveis, máquinas, equipamento técnico, veículos, mobiliário de escritório, activos financeiros ou direitos e activos incorpóreos, como patentes.
 - **Os activos correntes são todos os activos** que só são detidos na empresa para venda, consumo, processamento posterior ou reembolso a curto prazo. São normalmente a base (por exemplo, matérias-primas e fontes de energia em stock) ou o resultado (por exemplo, produtos acabados, saldos bancários, contas a receber) do processo de produção.
 
-{{< warning headline="Não é necessário inventariar" text="Não é necessário fazer um inventário dos **bens de consumo de curta duração que perdem o seu valor no prazo de 12 meses** ou **que** são destruídos pelo ato de utilização. Trata-se, por exemplo, de cartuchos de impressora, artigos de higiene ou alimentos, independentemente do preço de compra." >}}
+{{< warning headline="Não é necessário inventariar" text="Não é necessário fazer um inventário dos **bens de consumo de curta duração que perdem o seu valor no prazo de 12 meses** ou **que** são destruídos pelo ato de utilização. Trata-se, por exemplo, de cartuchos de impressora, artigos de higiene ou alimentos, independentemente do preço de compra." />}}
 
 ## Tipos de inventário
 
@@ -45,7 +45,7 @@ Também faz diferença **quando** cria o seu inventário:
 
 ![O trabalhador do armazém faz o inventário em Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
-Deve comparar regularmente a sua lista de inventário com as existências reais. Direitos de imagem: zephyr\_p / Adobe Stock
+Deve comparar regularmente a sua lista de inventário com as existências reais. Direitos de imagem: zephyr_p / Adobe Stock
 
 ## Porque é que é importante criar uma lista de inventário?
 

@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.2: Nuevas funciones en Universal App Builder y mucho más"
+title: 'SeaTable 4.2: Nuevas funciones en Universal App Builder y mucho más'
 date: 2023-11-22
-lastmod: "2023-11-22"
-author: "kgr"
-url: "/es/seatable-release-4-2"
+lastmod: '2023-11-22'
+author: 'kgr'
+url: '/es/seatable-release-4-2'
 ---
 
 **SeaTable 4.2** lleva el desarrollo del Universal App Builder al siguiente nivel: la nueva **gestión de versiones** permite volver a versiones anteriores de una aplicación. Con la **comprobación de duplicados** en la página de tablas y formularios, puede evitar eficazmente la introducción de entradas idénticas. Ahora también es posible duplicar páginas en la app universal y **suspender temporalmente las apps**.
@@ -20,11 +20,11 @@ La [funcionalidad](https://seatable.io/es/docs/historie-und-versionen/speichern-
 
 La nueva **gestión de versiones** se encuentra detrás del icono {{< seatable-icon icon="dtable-icon-history" >}} en la barra de configuración de la izquierda. Allí puedes crear, ver, restaurar y borrar instantáneas. También se puede introducir una pequeña nota para cada instantánea, lo que permite volver a encontrar rápidamente la versión correcta.
 
-{{< warning headline="Numeración de las versiones" text="No se sorprenda si a sus instantáneas no se les asignan números consecutivos (1, 2, 3 ...). SeaTable cuenta cada cambio que realice en una aplicación universal como una versión independiente. Esto significa que puede haber rápidamente docenas de versiones entre dos instantáneas." >}}
+{{< warning headline="Numeración de las versiones" text="No se sorprenda si a sus instantáneas no se les asignan números consecutivos (1, 2, 3 ...). SeaTable cuenta cada cambio que realice en una aplicación universal como una versión independiente. Esto significa que puede haber rápidamente docenas de versiones entre dos instantáneas." />}}
 
 Si restauras una instantánea guardada, la aplicación vuelve al estado anterior. Todos los cambios realizados desde entonces se descartan. Por tanto, la restauración de instantáneas en la app funciona de forma diferente que en la base, donde la instantánea se restaura en una nueva base.
 
-{{< warning headline="Atención" text="**Actualmente, las instantáneas de base no contienen ninguna aplicación**. Esto significa que cuando se [restaura una](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) instantánea de base, las aplicaciones contenidas en la base no se restauran. Esta funcionalidad se añadirá en una de las siguientes versiones de SeaTable." >}}
+{{< warning headline="Atención" text="**Actualmente, las instantáneas de base no contienen ninguna aplicación**. Esto significa que cuando se [restaura una](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) instantánea de base, las aplicaciones contenidas en la base no se restauran. Esta funcionalidad se añadirá en una de las siguientes versiones de SeaTable." />}}
 
 ## Comprobación de duplicados en páginas de tablas y formularios
 
@@ -52,7 +52,7 @@ El desarrollo del Universal App Builder continuará sin cesar en las próximas v
 
 Antes, sólo podía activar la [acción automatizada "Editar entrada](https://seatable.io/es/docs/automationen/automations-aktionen/#6-toc-title) " al añadir nuevas líneas o modificar entradas. Ahora también puede **ejecutar** esta automatización **periódicamente para las entradas que cumplan determinadas condiciones**. De este modo, las entradas de la tabla se ajustan siempre en un momento determinado según la configuración definida de antemano.
 
-![Ejecutar periódicamente la acción automatizada &quot;Editar entrada&quot;.](images/Run-automated-action-Modify-record-periodically-.png)
+![Ejecutar periódicamente la acción automatizada "Editar entrada".](images/Run-automated-action-Modify-record-periodically-.png)
 
 ## Nueva función en la columna de fórmulas: iserror()
 
@@ -74,6 +74,6 @@ A partir de la versión 4.2, es posible convertir vistas [privadas](https://seat
 
 En la operación de tratamiento de datos [Calcular lista ordenada](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/), ahora puede seleccionar el **orden** en que deben listarse los valores. Para ello, especifique si debe listarse primero el valor más grande o el más pequeño.
 
-{{< warning headline="Nueva autorización" text="Como propietario o administrador de una base, puede especificar en la [configuración de seguridad](https://seatable.io/es/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/) si los usuarios tienen derecho a crear y editar operaciones de tratamiento de datos." >}}
+{{< warning headline="Nueva autorización" text="Como propietario o administrador de una base, puede especificar en la [configuración de seguridad](https://seatable.io/es/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/) si los usuarios tienen derecho a crear y editar operaciones de tratamiento de datos." />}}
 
 Además, SeaTable 4.2 ahora también admite el tipo de columna [Número automático](https://seatable.io/es/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) para las operaciones de procesamiento de datos [Comparar y vincular](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/), así como [Comparar y copiar](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).

@@ -1,9 +1,9 @@
 ---
-title: "Un programme de gestion de la littérature pour y voir plus clair"
+title: 'Un programme de gestion de la littérature pour y voir plus clair'
 date: 2024-05-17
-lastmod: "2024-05-17"
-author: "rdb"
-url: "/fr/literaturverwaltung"
+lastmod: '2024-05-17'
+author: 'rdb'
+url: '/fr/literaturverwaltung'
 ---
 
 Qu'il s'agisse d'un travail de fin d'études, d'une thèse ou d'un rapport de recherche, un **programme de gestion de la littérature** vous facilite le travail sur les projets scientifiques. La création d'une **bibliographie** prend autant de temps que la recherche, la consultation et l'évaluation des **sources**.
@@ -70,7 +70,7 @@ Zotero est particulièrement adapté aux néophytes, car il est intuitif et con�
 
 Mendeley vous propose un **abonnement gratuit** avec deux gigaoctets d'espace de stockage dans le cloud. Si cela ne vous suffit pas, vous pouvez acheter sur demande, moyennant un prix, une version avec plus d'espace de stockage, un support supplémentaire, d'autres fonctionnalités et un meilleur cryptage des données. Le programme fonctionne sur tous les systèmes d'exploitation.
 
-{{< warning headline="Accès par application" text="Mendeley propose également une application via iOS, grâce à laquelle vous avez toujours un accès mobile à votre gestion bibliographique." >}}
+{{< warning headline="Accès par application" text="Mendeley propose également une application via iOS, grâce à laquelle vous avez toujours un accès mobile à votre gestion bibliographique." />}}
 
 Outre l'utilisation via le programme de bureau ou le Web Importer, vous pouvez également utiliser Mendeley via un **plug-in Word**. Toutes vos données, documents et dossiers sont synchronisés via le cloud.
 
@@ -131,32 +131,27 @@ Toutes les informations sur vos sources ne sont pas pertinentes pour le report u
 Auteurs|||
 
 Les auteurs doivent être mentionnés avec leurs noms et prénoms et, le cas échéant, leurs titres académiques. Outre les auteurs, le nom des éditeurs doit également être mentionné pour les ouvrages collectifs.
-
-\--- 
+{{< /faq >}}
 
 Année|||
 
 Outre l'année, vous devez également indiquer le jour et le mois de publication des sources Internet. S'il s'agit d'une source sans indication d'année, vous devez également le signaler.
-
-\--- 
+{{< /faq >}}
 
 Titre|||
 
 Le titre se réfère au titre de l'article, du livre ou du chapitre s'il s'agit d'un recueil. Il convient de respecter les majuscules et les minuscules.
-
-\--- 
+{{< /faq >}}
 
 Moyen|||
 
 La plupart du temps, il suffit d'indiquer la revue ou l'ouvrage dans lequel l'article a été publié. S'il s'agit d'un livre, il convient de mentionner l'éditeur.
-
-\--- 
+{{< /faq >}}
 
 Édition et nombre de pages|||
 
 Notez ces informations le plus précisément possible. Comptez les numéros de page s'ils ne sont pas imprimés.
-
-\---
+{{< /faq >}}
 
 ### 3\. rechercher de nouvelles sources avec le programme de gestion de la littérature
 
@@ -176,7 +171,7 @@ Zotero vous offre la possibilité d'attribuer des marqueurs aux sources, en fonc
 
 Toutes les sources ne sont pas citées selon le même modèle. Dès le début de votre projet, vous devez décider quel type de citation vous souhaitez utiliser. [**style de citation**](https://www.scribbr.de/richtig-zitieren/uebersicht-zitierstile/) que vous utiliserez. Une fois que vous vous êtes décidé pour un style, vous devez l'appliquer de manière uniforme et le paramétrer dans votre programme de gestion de la littérature. Ce programme vous permet ensuite de formater toutes vos sources dans ce style et de les copier dans votre travail.
 
-{{< warning headline="Remarque importante" text="Le style de citation n'est pas seulement décisif pour la présentation de vos sources dans la bibliographie, il est également utilisé pour faire de courtes références dans le texte." >}}
+{{< warning headline="Remarque importante" text="Le style de citation n'est pas seulement décisif pour la présentation de vos sources dans la bibliographie, il est également utilisé pour faire de courtes références dans le texte." />}}
 
 ### 6\. utiliser la fonction de prise de notes dans le programme de gestion de la littérature
 

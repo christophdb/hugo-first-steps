@@ -1,10 +1,10 @@
 ---
-title: "Patriot Act vs. data protection - processing Canadian data securely"
+title: 'Patriot Act vs. data protection - processing Canadian data securely'
 date: 2023-07-17
-lastmod: "2023-08-18"
-coverImage: "titelbild-patriot-act.png"
-author: "cdb"
-url: "/patriot-act-vs-privacy-canada"
+lastmod: '2023-08-18'
+coverImage: 'titelbild-patriot-act.png'
+author: 'cdb'
+url: '/patriot-act-vs-privacy-canada'
 ---
 
 The data of millions of Canadians is stored on US servers of Microsoft, Google, Amazon or Airtable - at the same time, the so-called **Patriot Act** basically allows US authorities to siphon off all this data. [For this reason, data protection experts have long advised against storing personal data in US clouds.](https://www.heise.de/select/ct/2017/9/1492964161648735) The Canadian province of Quebec also wants to prevent this from September 2023 through stricter data protection laws.
@@ -69,10 +69,10 @@ You want to capture data in a structured way, complete tasks efficiently and dev
 
 Not convinced yet? You can find more information about SeaTable on the [website](https://seatable.io/en/).
 
-{{< warning headline="Seafile" text="Additionally, if you're looking for a secure alternative for file sharing and storage (e.g. Google Drive or Microsoft OneDrive), you could install the [Seafile](https://www.seafile.com/en/home/) file sync-and-share solution on your own servers as well." >}}
+{{< warning headline="Seafile" text="Additionally, if you're looking for a secure alternative for file sharing and storage (e.g. Google Drive or Microsoft OneDrive), you could install the [Seafile](https://www.seafile.com/en/home/) file sync-and-share solution on your own servers as well." />}}
 
 ### Tip for Airtable users
 
 A detailed comparison of Airtable and SeaTable can be found [here](https://seatable.io/en/airtable-alternative). As an Airtable user, you can also easily migrate all your base data to SeaTable without any programming knowledge by using a script. How this works is explained in [this help article](https://seatable.io/en/docs/import-von-daten/migration-von-airtable-bases-zu-seatable/).
 
-{{< warning headline="Disclaimer" text="Privacy laws vary from region to region and may change at any time. Despite thorough research, this article is not a substitute for authoritative legal advice in your country, so we cannot accept responsibility for any legal misconceptions." >}}
+{{< warning headline="Disclaimer" text="Privacy laws vary from region to region and may change at any time. Despite thorough research, this article is not a substitute for authoritative legal advice in your country, so we cannot accept responsibility for any legal misconceptions." />}}

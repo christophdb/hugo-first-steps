@@ -1,9 +1,9 @@
 ---
-title: "Gestión del conocimiento: cómo hacer que el conocimiento sea utilizable"
+title: 'Gestión del conocimiento: cómo hacer que el conocimiento sea utilizable'
 date: 2024-08-09
-lastmod: "2024-08-09"
-author: "lsc"
-url: "/es/wissensmanagement"
+lastmod: '2024-08-09'
+author: 'lsc'
+url: '/es/wissensmanagement'
 ---
 
 El conocimiento es uno de los recursos más importantes de cualquier empresa. No en vano ya se menciona el conocimiento como [factor de producción](https://de.wikipedia.org/wiki/Produktionsfaktor) junto con la tierra, el capital y la mano de obra cuando se trata del éxito de una empresa. Pero, ¿qué hace falta para que los conocimientos de sus empleados estén a disposición de los demás en su empresa? La respuesta: ¡un **sistema de gestión del conocimiento** que funcione!
@@ -16,7 +16,7 @@ Optimizar el manejo del conocimiento en la empresa: de eso trata _la gestión_ d
 
 Puede conseguirlo recopilando y procesando los conocimientos ocultos en su empresa, haciéndolos accesibles a todos y, en última instancia, aplicándolos eficazmente.
 
-{{< warning headline="Gestión del conocimiento en la ciencia" text="Desde los años 90, la gestión del conocimiento también desempeña un papel importante en la ciencia. En este caso, la atención se centra en el desarrollo de modelos científicos que van desde la producción de conocimientos (por ejemplo, a través de la investigación) hasta su transferencia y almacenamiento." >}}
+{{< warning headline="Gestión del conocimiento en la ciencia" text="Desde los años 90, la gestión del conocimiento también desempeña un papel importante en la ciencia. En este caso, la atención se centra en el desarrollo de modelos científicos que van desde la producción de conocimientos (por ejemplo, a través de la investigación) hasta su transferencia y almacenamiento." />}}
 
 ## No todos los conocimientos son iguales
 
@@ -135,44 +135,37 @@ Si quiere implantar con éxito la gestión del conocimiento en su empresa, difí
 Wikis y sistemas de gestión de la información|||
 
 Ejemplos: Confluence, Guru
-
-\--- 
+{{< /faq >}}
 
 Groupware y sistemas de colaboración|||
 
 Ejemplos: BSCW, Microsoft SharePoint
-
-\--- 
+{{< /faq >}}
 
 Mensajeros instantáneos y sistemas de comunicación|||
 
 Ejemplos: Slack, Microsoft Teams
-
-\--- 
+{{< /faq >}}
 
 Sistemas de gestión de documentos e intercambio de archivos|||
 
 Ejemplos: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-
-\--- 
+{{< /faq >}}
 
 Sistemas de gestión de las relaciones con los clientes|||
 
 Ejemplos: Pipedrive, Salesforce
-
-\--- 
+{{< /faq >}}
 
 Sistemas de gestión de proyectos|||
 
 Ejemplos: Asana, Jira
-
-\--- 
+{{< /faq >}}
 
 Sistemas de RRHH y gestión de personal|||
 
 Ejemplos: Personio, DATEV
-
-\--- 
+{{< /faq >}}
 
 Sistemas de gestión de contenidos|||
 

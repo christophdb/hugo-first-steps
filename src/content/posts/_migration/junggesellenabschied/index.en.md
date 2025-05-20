@@ -1,10 +1,10 @@
 ---
-title: "Stag party - ideas and tips for the perfect tour"
+title: 'Stag party - ideas and tips for the perfect tour'
 date: 2024-08-06
-lastmod: "2024-08-07"
-coverImage: "ibrahim-boran-oLaWOFe7_xI-unsplash.jpg"
-author: "nsc"
-url: "/junggesellenabschied"
+lastmod: '2024-08-07'
+coverImage: 'ibrahim-boran-oLaWOFe7_xI-unsplash.jpg'
+author: 'nsc'
+url: '/junggesellenabschied'
 ---
 
 Three things are considered indispensable for the classic stag party: eye-catching **T-shirts**, a **hawker's tray** filled with all kinds of curiosities and a **lively location**. But why shouldn't it be something special? After all, you usually only get married once in your life and the **stag party** can be just as unique and unforgettable as the wedding itself.
@@ -25,7 +25,7 @@ Brides and grooms often tend to organize their farewell parties separately. Howe
 
 Some couples celebrate their bachelor and bachelorette parties together, known as a "Jack and Jill Party" or "Stag and Hen Party". This modern twist provides an opportunity for families and friends of both parties to come together to celebrate the couple and symbolically support the start of their lives together.
 
-{{< warning headline="Stag party" text="Another popular option for a joint celebration before the wedding is the [stag party](https://de.wikipedia.org/wiki/Polterabend), where ceramic shards are placed in front of the bride's house to symbolize good luck for the marriage. This tradition is particularly widespread in some European countries." >}}
+{{< warning headline="Stag party" text="Another popular option for a joint celebration before the wedding is the [stag party](https://de.wikipedia.org/wiki/Polterabend), where ceramic shards are placed in front of the bride's house to symbolize good luck for the marriage. This tradition is particularly widespread in some European countries." />}}
 
 ## What to consider before planning
 
@@ -35,7 +35,7 @@ First of all, it is crucial to decide in advance which **friends and relatives**
 
 The **cost** of the stag party is usually split between all participants, with the bride and groom invited as guests of honor. It is therefore important to plan and agree the **budget** carefully so that you don't offend anyone or overstretch yourself financially.
 
-![&quot;Bride to be&quot; is written on one hand](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
+!["Bride to be" is written on one hand](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
 
 For many, the stag party is an important rite of passage from being a bachelor to married life.
 

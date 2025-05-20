@@ -1,9 +1,9 @@
 ---
-title: "RSE: conceptos básicos de la responsabilidad social de las empresas"
+title: 'RSE: conceptos básicos de la responsabilidad social de las empresas'
 date: 2024-04-08
-lastmod: "2025-05-19"
-author: "nsc"
-url: "/es/csr"
+lastmod: '2025-05-19'
+author: 'nsc'
+url: '/es/csr'
 ---
 
 En un momento en que la tendencia hacia **la sostenibilidad** está ganando impulso, las empresas se enfrentan al reto de satisfacer las mayores expectativas de sus clientes. La creciente demanda de productos sostenibles se refleja en el comportamiento de los consumidores, que valoran cada vez más la compatibilidad medioambiental y la responsabilidad social, palabra clave: **responsabilidad social de las empresas (RSE)**.
@@ -63,7 +63,7 @@ Sin embargo, también puede encontrarse con algunos retos en su camino para conv
 
 Los objetivos de sostenibilidad pueden ser **largos** y desmotivadores si el progreso es lento. La participación en actividades benéficas también puede suponer **un esfuerzo adicional**.
 
-{{< warning headline="Prescindir del lavado verde" text="Evite a toda costa **el "lavado verde"**, ya que puede provocar una pérdida de credibilidad y dañar considerablemente su reputación. Por lo tanto, sea siempre honesto y transparente en sus esfuerzos y no presente a su empresa como más sostenible de lo que realmente es." >}}
+{{< warning headline="Prescindir del lavado verde" text="Evite a toda costa **el "lavado verde"**, ya que puede provocar una pérdida de credibilidad y dañar considerablemente su reputación. Por lo tanto, sea siempre honesto y transparente en sus esfuerzos y no presente a su empresa como más sostenible de lo que realmente es." />}}
 
 ## Ejemplos de medidas adecuadas
 

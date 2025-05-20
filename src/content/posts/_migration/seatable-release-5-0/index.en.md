@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 5.0: App builder, new plugins and more accessibility"
+title: 'SeaTable 5.0: App builder, new plugins and more accessibility'
 date: 2024-07-15
-lastmod: "2024-07-15"
-author: "kgr"
-url: "/seatable-release-5-0"
+lastmod: '2024-07-15'
+author: 'kgr'
+url: '/seatable-release-5-0'
 ---
 
 The time has come: Our app builder is officially launched! With this version of our **no-code database with integrated no-code app builder**, anyone, whether programmer or citizen developer, can now easily create their own apps! With SeaTable 5.0, we are ready to take a leading position in digital transformation and innovation on the international market.
@@ -52,7 +52,7 @@ The Whiteboard is the first plugin that works independently of the data in a bas
 
 ![Whiteboard plugin](images/Whiteboard-Plugin.png)
 
-{{< warning headline="SeaTable ♥ Excalidraw" text="The Whiteboard plugin is based on the popular [Excalidraw](https://plus.excalidraw.com/) software, which many users will already be familiar with. One important limitation should not go unmentioned: At the launch of SeaTable 5.0, the Whiteboard will not support live collaboration. We will deliver this shortly." >}}
+{{< warning headline="SeaTable ♥ Excalidraw" text="The Whiteboard plugin is based on the popular [Excalidraw](https://plus.excalidraw.com/) software, which many users will already be familiar with. One important limitation should not go unmentioned: At the launch of SeaTable 5.0, the Whiteboard will not support live collaboration. We will deliver this shortly." />}}
 
 ## Improved accessibility
 

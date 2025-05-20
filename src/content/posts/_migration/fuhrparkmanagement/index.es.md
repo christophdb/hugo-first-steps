@@ -1,9 +1,9 @@
 ---
-title: "Gestión de flotas: cómo gestionar su flota de forma inteligente"
+title: 'Gestión de flotas: cómo gestionar su flota de forma inteligente'
 date: 2024-01-09
-lastmod: "2025-02-12"
-author: "kgr"
-url: "/es/fuhrparkmanagement"
+lastmod: '2025-02-12'
+author: 'kgr'
+url: '/es/fuhrparkmanagement'
 ---
 
 Ya sean camiones, autobuses o coches de empresa clásicos: la gestión de una flota de vehículos es una tarea polifacética para empresas de todos los tamaños, y hay mucho que tener en cuenta. Por eso, el siguiente artículo pretende ayudarle a aclarar todas sus dudas sobre la **gestión de flotas**.
@@ -68,7 +68,7 @@ En la gestión de flotas, los **seguros** también conllevan elevados costes de 
 
 Como probablemente sepa, debe cumplir el **Reglamento General de Protección de Datos (RGPD** ) siempre que recopile y almacene datos personales. En la gestión de flotas, la protección de datos entra en juego en muchos puntos. Por eso es aconsejable obtener una **declaración de consentimiento** del conductor antes de entregarle el vehículo. Haga saber a todo el mundo qué datos va a almacenar sobre ellos, con qué fin y durante cuánto tiempo.
 
-{{< warning headline="Nota" text="Los sistemas modernos pueden, por ejemplo, localizar vehículos para planificar rutas y crear **perfiles de movimiento** precisos. También es posible extraer conclusiones sobre rutas, consumo y estilo de conducción a partir del **uso de tarjetas de combustible**." >}}
+{{< warning headline="Nota" text="Los sistemas modernos pueden, por ejemplo, localizar vehículos para planificar rutas y crear **perfiles de movimiento** precisos. También es posible extraer conclusiones sobre rutas, consumo y estilo de conducción a partir del **uso de tarjetas de combustible**." />}}
 
 Sobre todo por motivos fiscales, debe poder hacer un seguimiento de la **utilización** concreta de los **vehículos**. ¿Qué empleados utilizaron qué vehículos de empresa? Y lo que es más importante: ¿los desplazamientos eran por motivos profesionales o privados? Un [diario digital](https://seatable.io/es/digitales-fahrtenbuch-fuehren/) es una buena manera de documentar esta información con cuidado y de conformidad con el GDPR.
 
@@ -99,20 +99,17 @@ SeaTable le ofrece una gestión clara e intuitiva de su flota y de las solicitud
 ¿Qué es un parque móvil?|||
 
 Una flota de vehículos se refiere a todos los vehículos que posee su empresa.
-
-\--- 
+{{< /faq >}}
 
 ¿Qué es la gestión de flotas?|||
 
 La gestión de flotas hace referencia a todos los procesos relacionados con su flota de vehículos.
-
-\--- 
+{{< /faq >}}
 
 ¿En qué consiste la gestión de flotas?|||
 
 La gestión de flotas comienza con **una evaluación de** cuántos vehículos **necesita** su empresa y, a continuación, aclara la **financiación, compra o venta de** los vehículos. Debe garantizar la **gestión** cuidadosa **de los documentos de los vehículos** (documentos de matriculación de vehículos, contratos de compra, pólizas de seguros, etc.) y el **almacenamiento de los datos de los conductores conforme al GDPR** (por ejemplo, datos de movimiento, recibos de combustible, permisos de conducir). El día a día implica la **reserva, entrega y planificación de rutas** sin problemas, así como cualquier **reparación e inspección**.
-
-\--- 
+{{< /faq >}}
 
 ¿Cuánto cuesta la gestión de flotas?|||
 

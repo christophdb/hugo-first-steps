@@ -1,9 +1,9 @@
 ---
-title: "Gestion des connaissances : comment rendre les connaissances utilisables"
+title: 'Gestion des connaissances : comment rendre les connaissances utilisables'
 date: 2024-08-09
-lastmod: "2024-08-09"
-author: "lsc"
-url: "/fr/wissensmanagement"
+lastmod: '2024-08-09'
+author: 'lsc'
+url: '/fr/wissensmanagement'
 ---
 
 La connaissance est l'une des ressources les plus importantes de toute entreprise. Ce n'est pas pour rien que le savoir est déjà cité comme [facteur de production](https://de.wikipedia.org/wiki/Produktionsfaktor) au même titre que la terre, le capital et le travail lorsqu'il s'agit de la réussite d'une entreprise. Mais que faut-il pour que les connaissances de vos collaborateurs soient utiles à d'autres dans votre entreprise ? La réponse : une **gestion des connaissances** qui fonctionne !
@@ -16,7 +16,7 @@ Optimiser l'utilisation des connaissances au sein de l'entreprise, tel est l'obj
 
 Vous y parviendrez en collectant les connaissances cachées dans votre entreprise, en les préparant, en les rendant accessibles à tous et, en fin de compte, en les appliquant efficacement.
 
-{{< warning headline="Gestion des connaissances dans le domaine scientifique" text="Depuis les années 1990, la gestion des connaissances joue également un rôle important dans le domaine scientifique. L'accent est mis sur le développement de modèles scientifiques allant de la production de connaissances (par exemple par la recherche) au stockage des connaissances en passant par le transfert des connaissances." >}}
+{{< warning headline="Gestion des connaissances dans le domaine scientifique" text="Depuis les années 1990, la gestion des connaissances joue également un rôle important dans le domaine scientifique. L'accent est mis sur le développement de modèles scientifiques allant de la production de connaissances (par exemple par la recherche) au stockage des connaissances en passant par le transfert des connaissances." />}}
 
 ## Tous les savoirs ne se valent pas
 
@@ -135,44 +135,37 @@ Si vous souhaitez mettre en place une gestion des connaissances efficace dans vo
 Wikis et systèmes de gestion de l'information|||
 
 exemples : Confluence, Guru
-
-\--- 
+{{< /faq >}}
 
 Groupware et systèmes de collaboration|||
 
 des exemples : BSCW, Microsoft SharePoint
-
-\--- 
+{{< /faq >}}
 
 Messageries instantanées et systèmes de communication|||
 
 Exemples : Slack, Microsoft Teams
-
-\--- 
+{{< /faq >}}
 
 Systèmes de gestion de documents et d'échange de fichiers|||
 
 Exemples : Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-
-\--- 
+{{< /faq >}}
 
 Systèmes de gestion de la relation client|||
 
 exemples : Pipedrive, Salesforce
-
-\--- 
+{{< /faq >}}
 
 Systèmes de gestion de projets|||
 
 Exemples : Asana, Jira
-
-\--- 
+{{< /faq >}}
 
 Systèmes de gestion des RH et du personnel|||
 
 Exemples : Personio, DATEV
-
-\--- 
+{{< /faq >}}
 
 Systèmes de gestion de contenu|||
 

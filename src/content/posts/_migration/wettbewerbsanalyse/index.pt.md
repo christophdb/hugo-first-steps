@@ -1,9 +1,9 @@
 ---
-title: "Análise da concorrência: A melhor forma de proceder - incl. modelo!"
+title: 'Análise da concorrência: A melhor forma de proceder - incl. modelo!'
 date: 2025-01-20
-lastmod: "2025-01-21"
-author: "nsc"
-url: "/pt/wettbewerbsanalyse"
+lastmod: '2025-01-21'
+author: 'nsc'
+url: '/pt/wettbewerbsanalyse'
 ---
 
 Está a planear expandir a sua linha de produtos e pretende saber que **caraterísticas dos produtos** são particularmente populares no seu sector? Ou notou um declínio nas **vendas** e quer descobrir o que os seus concorrentes estão a fazer melhor? Uma análise da concorrência orientada pode fornecer-lhe informações valiosas para otimizar a sua **estratégia** e responder especificamente às **necessidades dos** seus clientes.
@@ -118,7 +118,7 @@ Utilizar a análise de fontes de dados existentes, como relatórios de mercado, 
 
 Recolha informações completas sobre os seus concorrentes. Utilize fontes públicas, como **sítios Web**, **relatórios anuais**, **comunicados de imprensa** ou **canais de redes sociais** dos seus concorrentes, bem como **ferramentas** e **serviços** de análise do mercado e da concorrência.
 
-{{< warning headline="Dica" text="Pode encontrar dados, factos e números no registo da empresa, na Stiftung Warentest ou na Firminform." >}}
+{{< warning headline="Dica" text="Pode encontrar dados, factos e números no registo da empresa, na Stiftung Warentest ou na Firminform." />}}
 
 ### 4\. efetuar análises
 
@@ -130,7 +130,7 @@ Comparar e avaliar os dados recolhidos. Para o efeito, utilize os **métodos de 
 
 ### 5\. derivar estratégias
 
-![Análise do concurso: Um campo de jogo &quot;Mensch ärgere dich nicht&quot; numa mesa de vidro](images/pexels-pixabay-207924-711x399.jpg)
+![Análise do concurso: Um campo de jogo "Mensch ärgere dich nicht" numa mesa de vidro](images/pexels-pixabay-207924-711x399.jpg)
 
 Romper com os modelos empresariais rígidos e concentrar-se na criação contínua de novas vantagens competitivas.
 

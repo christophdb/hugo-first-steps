@@ -1,9 +1,9 @@
 ---
 title: "Garder une vue d'ensemble grâce à un plan éditorial pour les médias sociaux"
 date: 2024-02-07
-lastmod: "2025-01-17"
-author: "rdb"
-url: "/fr/social-media-plan-vorlage"
+lastmod: '2025-01-17'
+author: 'rdb'
+url: '/fr/social-media-plan-vorlage'
 ---
 
 Pour obtenir des résultats mesurables sur les plates-formes de médias sociaux, vous devez publier continuellement de nouveaux contenus. Et ce, souvent plusieurs fois par semaine pour différents canaux, comme LinkedIn, Instagram, Facebook, X ou Youtube. Il s'agit de **publier des contenus intéressants et divertissants dans les délais impartis**. Un **plan éditorial pour les médias sociaux** vous aidera à le mettre en œuvre. Découvrez dans cet article comment développer une stratégie de médias sociaux efficace grâce à un plan de médias sociaux.
@@ -22,7 +22,7 @@ Un plan éditorial pour les médias sociaux permet de structurer les processus e
 
 Le prochain avantage d'un plan de contenu pour les médias sociaux est que vous pouvez **collecter des idées sans limite**. Si une idée est utilisée pour un post sur les médias sociaux, vous pouvez facilement la déployer sur vos différents canaux et **créer un contenu sur mesure**. Vous avez ainsi à tout moment des contributions dans le pipeline, au cas où la créativité viendrait à manquer lors de la création de nouveaux contenus. En effet, il n'y a rien de pire que de devoir produire des contenus créatifs sous la pression du temps et de ne pas avoir de bonnes idées à ce moment-là.
 
-{{< warning headline="Bon à savoir" text="Les algorithmes d'Instagram, Facebook, LinkedIn et autres **reconnaissent une activité régulière et la récompensent par une visibilité accrue**. C'est pourquoi il faut éviter autant que possible les temps morts sur vos canaux de médias sociaux." >}}
+{{< warning headline="Bon à savoir" text="Les algorithmes d'Instagram, Facebook, LinkedIn et autres **reconnaissent une activité régulière et la récompensent par une visibilité accrue**. C'est pourquoi il faut éviter autant que possible les temps morts sur vos canaux de médias sociaux." />}}
 
 ### 3\. planifier des rendez-vous
 
@@ -30,7 +30,7 @@ Le plan éditorial devrait pouvoir être représenté dans un calendrier. Vous p
 
 ![Modèle de plan pour les médias sociaux](https://seatable.io/wp-content/uploads/2022/06/Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
 
-Planifiez les dates de vos posts dans un calendrier. Droits d'image : © mizar\_21984 / Adobe Stock
+Planifiez les dates de vos posts dans un calendrier. Droits d'image : © mizar_21984 / Adobe Stock
 
 ### 4\. classer systématiquement les contenus
 

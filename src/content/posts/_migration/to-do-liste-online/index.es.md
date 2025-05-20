@@ -1,9 +1,9 @@
 ---
-title: "Crear una lista de tareas en línea con una aplicación"
+title: 'Crear una lista de tareas en línea con una aplicación'
 date: 2024-04-03
-lastmod: "2024-04-03"
-author: "kgr"
-url: "/es/to-do-liste-online"
+lastmod: '2024-04-03'
+author: 'kgr'
+url: '/es/to-do-liste-online'
 ---
 
 Crear y gestionar una lista de tareas pendientes en línea con una aplicación tiene muchas ventajas. Esto se debe a que una lista de tareas **pendientes** te ayuda a gestionar tus tareas de forma eficiente tanto en tu vida privada como en tu día a día y a no olvidar nada en el estresante día a día. Lee este artículo para descubrir por qué deberías utilizar una **plantilla** para tu lista de tareas y qué **aplicación** es la mejor para una lista de tareas.
@@ -58,7 +58,7 @@ Puedes introducir rápidamente tus tareas, añadir descripciones, secciones y su
 
 También puede vincularse a tu calendario, a un asistente de voz de tu smartphone y a otras herramientas. Puedes sincronizar Todoist en todos los dispositivos para acceder a tus listas desde el portátil, el móvil o el smartwatch.
 
-{{< warning headline="Costes" text="En la versión gratuita, puedes gestionar cinco proyectos activos y trabajar con cinco miembros por proyecto. La carga de archivos, los filtros y los recordatorios están limitados. Por 4 euros al mes por usuario, puedes aumentar esta cifra a 300 proyectos y 25 miembros de equipo, mientras que 6 euros al mes por usuario te dan 500 proyectos con hasta 1.000 miembros de equipo, lo que es adecuado sobre todo para equipos más grandes en empresas." >}}
+{{< warning headline="Costes" text="En la versión gratuita, puedes gestionar cinco proyectos activos y trabajar con cinco miembros por proyecto. La carga de archivos, los filtros y los recordatorios están limitados. Por 4 euros al mes por usuario, puedes aumentar esta cifra a 300 proyectos y 25 miembros de equipo, mientras que 6 euros al mes por usuario te dan 500 proyectos con hasta 1.000 miembros de equipo, lo que es adecuado sobre todo para equipos más grandes en empresas." />}}
 
 ### Microsoft To Do: La versátil aplicación para tu lista de tareas pendientes
 
@@ -66,7 +66,7 @@ Con [Microsoft To](https://todo.microsoft.com/tasks/de-de/) Do, dispondrá tanto
 
 Puedes ordenar las tareas individuales, fijar una fecha límite y marcarlas. También es posible utilizar recordatorios y tareas recurrentes. Sin embargo, no hay opciones avanzadas de visualización más allá del modo lista; para ello necesitarás el Planificador.
 
-{{< warning headline="Uso gratuito" text="Microsoft To Do está disponible de forma gratuita. Todo lo que necesita es una cuenta Microsoft." >}}
+{{< warning headline="Uso gratuito" text="Microsoft To Do está disponible de forma gratuita. Todo lo que necesita es una cuenta Microsoft." />}}
 
 ![Aplicación Microsoft To do list en smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
@@ -78,7 +78,7 @@ El principal objetivo de [Projoodle](https://www.projoodle.com/de) es facilitar 
 
 Con Projoodle, dispones de una aplicación gratuita para listas de tareas fáciles de crear, compartir y gestionar. Otra característica es la vista de tablero Kanban, que permite agrupar las tareas claramente por estado. Sin embargo, las opciones para ordenar y programar tareas son escasas.
 
-{{< warning headline="Cumplimiento del GDPR" text="El servidor de la aplicación de listas de tareas se encuentra en Alemania, por lo que Projoodle es apta para trabajar con datos personales sensibles de conformidad con la GDPR." >}}
+{{< warning headline="Cumplimiento del GDPR" text="El servidor de la aplicación de listas de tareas se encuentra en Alemania, por lo que Projoodle es apta para trabajar con datos personales sensibles de conformidad con la GDPR." />}}
 
 ### Recordatorios: La aplicación de listas de tareas para iOS
 
@@ -98,7 +98,7 @@ SeaTable es, con diferencia, la aplicación con más **funciones** de todas las 
 
 Con SeaTable, puede empezar de inmediato con la [versión gratuita](https://seatable.io/es/registrierung/) y la [plantilla interactiva](https://seatable.io/es/vorlage/bpvzkh-vrpwr4xylid6zeq/). Las funciones adicionales están disponibles en la versión Plus por 7 € por usuario al mes, la versión Enterprise por 14 € por usuario al mes o una solución dedicada en la nube.
 
-{{< warning headline="GDPR y soberanía de datos" text="Los servidores de SeaTable Cloud se encuentran en Alemania, por lo que la plataforma es adecuada para trabajar con datos personales sensibles de conformidad con la GDPR. También tiene la opción de instalar [SeaTable in situ](https://seatable.io/es/on-premises/) en sus propios servidores." >}}
+{{< warning headline="GDPR y soberanía de datos" text="Los servidores de SeaTable Cloud se encuentran en Alemania, por lo que la plataforma es adecuada para trabajar con datos personales sensibles de conformidad con la GDPR. También tiene la opción de instalar [SeaTable in situ](https://seatable.io/es/on-premises/) en sus propios servidores." />}}
 
 ## Consejos para aplicar con éxito su lista de tareas pendientes
 

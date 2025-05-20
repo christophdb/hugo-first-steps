@@ -1,9 +1,9 @@
 ---
-title: "El análisis de contenido cualitativo explicado de forma sencilla - ejemplo: revista de prensa"
+title: 'El análisis de contenido cualitativo explicado de forma sencilla - ejemplo: revista de prensa'
 date: 2024-03-11
-lastmod: "2024-03-11"
-author: "lsc"
-url: "/es/qualitative-inhaltsanalyse"
+lastmod: '2024-03-11'
+author: 'lsc'
+url: '/es/qualitative-inhaltsanalyse'
 ---
 
 Ya sea en la investigación o en el mundo laboral: el **análisis de contenido cualitativo** le ayuda a analizar el material de datos de forma estructurada. En este artículo aprenderá cuál es la mejor manera de proceder y a qué debe prestar atención. A continuación, también se ilustra la realización de un análisis de contenido mediante una **revista de** prensa.
@@ -14,7 +14,7 @@ El análisis cualitativo de contenidos es un método científico de investigaci�
 
 El diseño exacto del análisis de contenido depende de los resultados que quiera obtener con su pregunta de investigación.
 
-{{< warning headline="De dónde procede el formulario de análisis" text="Uno de los cofundadores del análisis cualitativo de contenido es Philipp Mayring. Este psicólogo, sociólogo y pedagogo alemán publicó su obra _Qualitative Content Analysis. Fundamentos y técnicas_." >}}
+{{< warning headline="De dónde procede el formulario de análisis" text="Uno de los cofundadores del análisis cualitativo de contenido es Philipp Mayring. Este psicólogo, sociólogo y pedagogo alemán publicó su obra _Qualitative Content Analysis. Fundamentos y técnicas_." />}}
 
 ## Análisis de contenido cualitativo frente a cuantitativo
 
@@ -24,7 +24,7 @@ Básicamente, hay un **enfoque** **cualitativo** y otro **cuantitativo** del an�
 
 En el análisis de contenido cualitativo, uno se centra en una **pequeña cantidad** de contenido que analiza en profundidad. Aquí también depende de lo que escuche entre líneas en las entrevistas, por ejemplo. En consecuencia, se trabaja **de forma inductiva**, es decir, se llevan a cabo observaciones propias y se deducen nuevas hipótesis a partir de ellas. El objetivo es comprender e **interpretar** los resultados y desarrollar nuevos enfoques teóricos a partir de ellos.
 
-El análisis de contenido cuantitativo es su contrapartida. Se trata de un procedimiento estandarizado en el que el investigador mantiene siempre constantes las condiciones de la investigación. En este caso se utiliza una **gran cantidad de contenido**, que se somete a un análisis específico. El procedimiento es **deductivo**, ya que se trata de analizar las teorías existentes y fundamentarlas con datos. El objetivo del análisis es reconocer, describir y **explicar** **frecuencias** estadísticas.  
+El análisis de contenido cuantitativo es su contrapartida. Se trata de un procedimiento estandarizado en el que el investigador mantiene siempre constantes las condiciones de la investigación. En este caso se utiliza una **gran cantidad de contenido**, que se somete a un análisis específico. El procedimiento es **deductivo**, ya que se trata de analizar las teorías existentes y fundamentarlas con datos. El objetivo del análisis es reconocer, describir y **explicar** **frecuencias** estadísticas.
 
 ## ¿Cuándo es adecuado el análisis cualitativo de contenidos?
 
@@ -84,7 +84,7 @@ La forma de su análisis cualitativo de contenido determina cuánto material ana
 - **Análisis de contenido explicativo**: los pasajes de texto incomprensibles se explican con material adicional.
 - **Estructuración del análisis de contenido**: existe una [guía de codificación](https://www.acad-write.com/ratgeber/tipps/erstellung-codierleitfaden/) en la que se determina cómo debe clasificarse el material en categorías relacionadas con el tema.
 
-{{< warning headline="Categorización" text="La creación de categorías adecuadas también es relevante para usted si se decide por una de las dos primeras opciones. Las utilizará para clasificar las secciones de su material en función de su pregunta." >}}
+{{< warning headline="Categorización" text="La creación de categorías adecuadas también es relevante para usted si se decide por una de las dos primeras opciones. Las utilizará para clasificar las secciones de su material en función de su pregunta." />}}
 
 > _A partir de algunos de los artículos que informan sobre SeaTable, se definen distintas categorías para la **tonalidad**. Por ejemplo, en un artículo se utilizan palabras como "fácil de usar" e "importante", a partir de las cuales se puede formar la categoría de **información positiva**._
 
@@ -123,7 +123,7 @@ Los artículos pueden dividirse fácilmente en unidades gracias a su estructura.
 
 Ha llegado el momento de la parte más importante y laboriosa del análisis cualitativo de contenidos. Se **codifica** el material y se asigna a las **categorías** correspondientes. Puede hacerlo a mano con una hoja de codificación o con una base de datos digital como SeaTable.
 
-{{< warning headline="Consejo" text="Con un **programa de transcripción** como _EasyTranscript_ o _ELAN_, puedes convertir previamente las grabaciones de vídeo y audio en texto. Esto puede facilitarte mucho la codificación." >}}
+{{< warning headline="Consejo" text="Con un **programa de transcripción** como _EasyTranscript_ o _ELAN_, puedes convertir previamente las grabaciones de vídeo y audio en texto. Esto puede facilitarte mucho la codificación." />}}
 
 > _**Resultado del análisis:** La mayoría de los artículos en línea sobre SeaTable pueden clasificarse en "tonalidad positiva" o "tonalidad neutra"._
 
@@ -142,20 +142,17 @@ Por último, compruebe si su análisis cumple los criterios de calidad del anál
 Transparencia|||
 
 Su investigación debe ser **comprensible** para personas ajenas a la empresa. Explique cómo y por qué ha procedido en cada paso de su análisis.
-
-\---
+{{< /faq >}}
 
 Intersubjetividad|||
 
 Asegúrese de que su análisis arroja resultados similares cuando se repite entre distintos codificadores, es decir, que es **reproducible**.
-
-\---
+{{< /faq >}}
 
 Fiabilidad|||
 
 ¿Es fiable la codificación? ¿Se valora el mismo contenido por igual y las diferencias se expresan adecuadamente en valores diferentes?
-
-\---
+{{< /faq >}}
 
 ## Lista de control para el análisis cualitativo de contenidos
 

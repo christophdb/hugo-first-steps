@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.1: Automatizações mais poderosas, App Builder na reta final e muito mais - SeaTable"
+title: 'SeaTable 4.1: Automatizações mais poderosas, App Builder na reta final e muito mais - SeaTable'
 date: 2023-08-23
-lastmod: "2023-08-23"
-author: "kgr"
-url: "/pt/seatable-release-4-1"
+lastmod: '2023-08-23'
+author: 'kgr'
+url: '/pt/seatable-release-4-1'
 ---
 
 As férias de verão estão a chegar ao fim e esperamos que tenha aproveitado o tempo livre. Enquanto outros saltavam para a piscina ou punham os pés no chão, os nossos programadores trabalhavam arduamente e criaram **a versão 4.1 do SeaTable**.
@@ -22,7 +22,7 @@ Além disso, melhorámos o desempenho de algumas [acções](https://seatable.io/
 
 ![Novas opções para automatizações](images/New-options-for-automation.png)
 
-{{< warning headline="Limite de execução mais elevado para as automatizações" text="Cada automatização está sujeita a um [limite de execução](https://seatable.io/pt/docs/automationen/ausfuehrungslimit-bei-automationen/) que define a frequência máxima de execução das automatizações. Este limite é necessário para garantir uma boa experiência de utilização para todos os utilizadores do SeaTable Cloud. Anteriormente, o SeaTable Cloud tinha um limite de 10 execuções por minuto para cada automação. Este limite foi aumentado para **50 execuções por** minuto com a mudança de versão. Este novo limite não deve ser uma restrição relevante para muitos casos de utilização. Isto é diferente para as automatizações com o tipo de evento "Entradas adicionadas". Nesse caso, o limite aumentado também pode entrar em vigor rapidamente. Por exemplo, se copiar linhas de uma tabela Excel e as colar no SeaTable, o limite restringirá a execução às primeiras 50 linhas inseridas." >}}
+{{< warning headline="Limite de execução mais elevado para as automatizações" text="Cada automatização está sujeita a um [limite de execução](https://seatable.io/pt/docs/automationen/ausfuehrungslimit-bei-automationen/) que define a frequência máxima de execução das automatizações. Este limite é necessário para garantir uma boa experiência de utilização para todos os utilizadores do SeaTable Cloud. Anteriormente, o SeaTable Cloud tinha um limite de 10 execuções por minuto para cada automação. Este limite foi aumentado para **50 execuções por** minuto com a mudança de versão. Este novo limite não deve ser uma restrição relevante para muitos casos de utilização. Isto é diferente para as automatizações com o tipo de evento "Entradas adicionadas". Nesse caso, o limite aumentado também pode entrar em vigor rapidamente. Por exemplo, se copiar linhas de uma tabela Excel e as colar no SeaTable, o limite restringirá a execução às primeiras 50 linhas inseridas." />}}
 
 ## Lixeira e função de pesquisa no gestor de ficheiros
 
@@ -40,7 +40,7 @@ O desenvolvimento do Universal App Builder está na reta final e a nossa equipa 
 
 [As permissões de página](https://seatable.io/pt/docs/apps/seitenberechtigungen-in-einer-universellen-app/) permitem a gestão de permissões para uma página inteira de uma aplicação: quem tem permissão para ver linhas numa página, quem tem permissão para criar linhas, quem tem permissão para alterar e eliminar linhas. O SeaTable 4.1 introduz uma lógica de permissão simples para as colunas. As colunas podem agora ser individualmente definidas como**"apenas leitura**" e, assim, removidas da edição pelos utilizadores. As novas permissões de coluna na aplicação universal aplicam-se para além das [permissões de coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) na base e, em combinação, permitem um controlo muito granular das permissões de utilizador numa página de tabela.
 
-{{< warning headline="É bom saber" text="No SeaTable 4.1, **os utilizadores com** permissão **de leitura** têm permissão para executar acções de botão nas páginas da tabela, mesmo que estas causem alterações no registo." >}}
+{{< warning headline="É bom saber" text="No SeaTable 4.1, **os utilizadores com** permissão **de leitura** têm permissão para executar acções de botão nas páginas da tabela, mesmo que estas causem alterações no registo." />}}
 
 As **predefinições** das vistas são outra nova funcionalidade das páginas de tabela. Uma predefinição determina a apresentação dos dados quando a página é chamada. Assim, fornece um determinado ângulo de visão dos dados, mas pode ser alterado pelos utilizadores da aplicação e, deste modo, o ângulo de visão pode ser adaptado às necessidades dos utilizadores. A forma como funciona é, portanto, fundamentalmente diferente das definições de dados que estão disponíveis há algum tempo. Estas últimas não podem ser alteradas pelos utilizadores. As definições de dados servem para restringir os dados apresentados aos utilizadores.
 
@@ -64,6 +64,6 @@ Outra melhoria, puramente visual, diz respeito aos **detalhes da linha**, onde p
 
 Para todos aqueles que gostam de iniciar processos com um clique do rato, há razões para se regozijarem: a nova [ação do botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) "Enviar notificação" está disponível a partir do SeaTable 4.1. Esta ação complementa a ação anteriormente disponível "Enviar e-mail". Uma vez que o SeaTable oferece agora **nove** acções de botão, também tornámos a janela de seleção mais clara:
 
-![Nova ação do botão &quot;Enviar notificação](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
+![Nova ação do botão "Enviar notificação](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
 
 Por último, mas não menos importante, corrigimos novamente alguns **erros** no SeaTable 4.1 - entre outros, os valores com o seguinte sinal de % em colunas de texto e de seleção única não eram interpretados como percentagens, mas como números. Isto poderia levar a resultados indesejados em algumas [fórmulas](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/). Verifique se esta correção de erro afecta as suas fórmulas.

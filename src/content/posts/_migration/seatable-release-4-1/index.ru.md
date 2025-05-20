@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.1: Leistungsstärkere Automationen, App Builder auf der Zielgeraden und vieles mehr - SeaTable"
+title: 'SeaTable 4.1: Leistungsstärkere Automationen, App Builder auf der Zielgeraden und vieles mehr - SeaTable'
 date: 2023-08-23
-lastmod: "2023-08-23"
-author: "kgr"
-url: "/ru/seatable-release-4-1"
+lastmod: '2023-08-23'
+author: 'kgr'
+url: '/ru/seatable-release-4-1'
 ---
 
 Die Sommerferien neigen sich dem Ende zu und wir hoffen, Sie haben die Urlaubszeit genossen. Während andere in den Pool sprangen oder die Füße hochlegten, haben sich unsere Entwickler mächtig ins Zeug gelegt und **SeaTable Version 4.1** hervorgezaubert.
@@ -22,7 +22,7 @@ Darüber hinaus haben wir die Performance einiger [Aktionen](https://seatable.io
 
 ![Neue Optionen bei Automationen](images/New-options-for-automation.png)
 
-{{< warning headline="Höheres Ausführungslimit bei Automationen" text="Jede Automation unterliegt einem [Ausführungslimit](https://seatable.io/docs/automationen/ausfuehrungslimit-bei-automationen/), das die maximale Ausführungsfrequenz von Automationen definiert. Ein solches Limit ist notwendig, um für alle Benutzer von SeaTable Cloud eine gute User Experience sicherzustellen. Bisher galt in SeaTable Cloud ein Limit von 10 Ausführungen pro Minute für jede Automation. Dieses Limit wurde mit dem Versionswechsel auf **50 Ausführungen pro Minute** erhöht. Dieses neue Limit sollte für viele Anwendungsfälle keine relevante Einschränkung darstellen. Anders bei Automationen mit dem Ereignistyp „Hinzugefügte Einträge“. Dort kann auch das erhöhte Limit schnell greifen. Wenn Sie beispielsweise Zeilen aus einer Excel Tabelle kopieren und in SeaTable einfügen, dann wird das Limit die Ausführung auf die ersten 50 eingefügten Zeilen beschränken." >}}
+{{< warning headline="Höheres Ausführungslimit bei Automationen" text="Jede Automation unterliegt einem [Ausführungslimit](https://seatable.io/docs/automationen/ausfuehrungslimit-bei-automationen/), das die maximale Ausführungsfrequenz von Automationen definiert. Ein solches Limit ist notwendig, um für alle Benutzer von SeaTable Cloud eine gute User Experience sicherzustellen. Bisher galt in SeaTable Cloud ein Limit von 10 Ausführungen pro Minute für jede Automation. Dieses Limit wurde mit dem Versionswechsel auf **50 Ausführungen pro Minute** erhöht. Dieses neue Limit sollte für viele Anwendungsfälle keine relevante Einschränkung darstellen. Anders bei Automationen mit dem Ereignistyp „Hinzugefügte Einträge“. Dort kann auch das erhöhte Limit schnell greifen. Wenn Sie beispielsweise Zeilen aus einer Excel Tabelle kopieren und in SeaTable einfügen, dann wird das Limit die Ausführung auf die ersten 50 eingefügten Zeilen beschränken." />}}
 
 ## Papierkorb und Suchfunktion in der Dateiverwaltung
 
@@ -40,7 +40,7 @@ Die Entwicklung des Universal App Builders ist auf der Zielgeraden und unser Tea
 
 Die [Seitenberechtigungen](https://seatable.io/docs/apps/seitenberechtigungen-in-einer-universellen-app/) erlauben die Berechtigungsverwaltung für eine ganze Seite einer App: Wer darf auf einer Seite Zeilen sehen, wer darf Zeilen anlegen, wer darf Zeilen ändern und löschen. SeaTable 4.1 führt eine einfache Berechtigungslogik für Spalten ein. Spalten können nun individuell auf „**nur lesbar**“ gesetzt und damit der Bearbeitung durch die Nutzer entzogen werden. Die neuen Spaltenberechtigungen in der Universal App gelten zusätzlich zu den [Spaltenberechtigungen](https://seatable.io/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) in der Base und erlauben in Kombination eine sehr granulare Steuerung der Benutzerrechte auf einer Tabellenseite.
 
-{{< warning headline="Gut zu wissen" text="In SeaTable 4.1 erhalten **Nutzer mit Leseberechtigung** die Erlaubnis, Schaltflächen-Aktionen auf Tabellenseiten auszuführen, auch wenn sie Veränderungen am Datensatz bewirken." >}}
+{{< warning headline="Gut zu wissen" text="In SeaTable 4.1 erhalten **Nutzer mit Leseberechtigung** die Erlaubnis, Schaltflächen-Aktionen auf Tabellenseiten auszuführen, auch wenn sie Veränderungen am Datensatz bewirken." />}}
 
 Die **Standardeinstellungen** für Ansichten sind eine weitere Neuerung auf Tabellenseiten. Eine Standardeinstellung bestimmt die Anzeige der Daten beim Aufruf der Seite. Sie gibt damit einen bestimmten Blickwinkel auf die Daten vor, sie kann aber von den App-Benutzern geändert und damit der Blickwinkel auf die Bedürfnisse der Benutzer angepasst werden. Die Funktionsweise ist damit grundsätzlich anders als die der schon länger verfügbaren Dateneinstellungen. Letztere können durch die Benutzer nicht geändert werden. Die Dateneinstellungen dienen dazu, die den Benutzern angezeigten Daten einzuschränken.
 

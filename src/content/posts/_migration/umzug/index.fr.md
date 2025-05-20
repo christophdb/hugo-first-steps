@@ -1,9 +1,9 @@
 ---
-title: "Planifier un déménagement avec une check-list : Comment déménager sans stress"
+title: 'Planifier un déménagement avec une check-list : Comment déménager sans stress'
 date: 2023-10-30
-lastmod: "2023-10-30"
-author: "lsc"
-url: "/fr/umzug"
+lastmod: '2023-10-30'
+author: 'lsc'
+url: '/fr/umzug'
 ---
 
 Le moment est enfin venu ! Vous avez trouvé l'appartement parfait pour vous et vous êtes impatient d'emménager dans votre nouvelle maison. La seule chose qui vous sépare encore de l'appartement de vos rêves est le déménagement. Ce qui représente beaucoup de stress et de temps pour la plupart des gens peut vous être facilité par un **plan de déménagement** structuré. Vous apprendrez ici comment planifier votre déménagement avec le moins de stress possible et comment le mener à bien.
@@ -41,20 +41,17 @@ Avec une planification minutieuse des transferts, la première étape de votre d
 Ai-je droit à un congé spécial légal ?|||
 
 Commençons par la mauvaise nouvelle : en Allemagne, selon la loi fédérale sur les congés et le code civil, il n'existe **pas de droit légal aux congés** en cas de déménagement.
-
-\--- 
+{{< /faq >}}
 
 Que dit mon contrat de travail ?|||
 
 Bien qu'il n'existe pas de droit général au congé spécial, votre employeur peut bien sûr l'accorder. Pour vous en assurer, consultez votre contrat de travail ou demandez au comité d'entreprise ou à un supérieur si vous avez droit à un congé spécial.
-
-\--- 
+{{< /faq >}}
 
 Que se passe-t-il si je déménage pour des raisons professionnelles ?|||
 
 Dans ce cas, vous avez de bonnes chances d'obtenir un congé payé, même si cela n'est pas mentionné dans votre contrat de travail. Une distinction est faite selon que vous changez d'employeur ou simplement de lieu de travail. Dans le premier cas, vous devez espérer la complaisance de votre nouvel employeur. En revanche, si vous déménagez chez le même employeur, il est possible de demander un congé payé.
-
-\---
+{{< /faq >}}
 
 ### Raisons professionnelles du déménagement
 
@@ -63,14 +60,12 @@ Dans ce cas, vous avez de bonnes chances d'obtenir un congé payé, même si cel
 Quelles sont les raisons qui font qu'un déménagement est 'professionnel' ?|||
 
 Outre les raisons déjà mentionnées _de changement d'emploi ou d'employeur_, il existe d'autres possibilités de faire valoir votre déménagement comme étant lié à votre activité professionnelle. Il s'agit de l'entrée en fonction de votre premier emploi, du déménagement d'un ou d'un logement de fonction, du retour de l'étranger pour prendre un nouvel emploi en Allemagne et de la réduction du trajet domicile-travail d'au moins une demi-heure par jour.
-
-\--- 
+{{< /faq >}}
 
 Y a-t-il des règles différentes si je travaille dans le secteur public ?|||
 
 Oui, car en tant que fonctionnaire ou employé du secteur public, vous avez droit à un jour de congé payé pour un déménagement pour raisons de service, conformément à l'article 29 du règlement sur les tarifs. Si vous avez déjà dû déménager pour des raisons de service au cours des cinq dernières années, vous avez même droit à trois jours de congé.
-
-\---
+{{< /faq >}}
 
 ## Organiser le déménagement
 
@@ -84,7 +79,7 @@ Avec une **entreprise de déménagement**, vous vous épargnez beaucoup de temps
 
 Le coût de votre déménagement dépend de la taille du ménage et de la distance entre les logements.
 
-Mais pour votre argent, vous aurez un **Service complet**. Cela implique également que l'entreprise est responsable de tous les dommages éventuels causés à vos biens, à l'appartement ou à la cage d'escalier pendant votre déménagement. La loi prévoit que 620 euros par mètre cube de biens transportés seront facturés en cas de dommage. Si vous souhaitez faire transporter des biens particulièrement précieux, vous pouvez convenir d'un montant de responsabilité plus élevé avec l'entreprise de déménagement. Mais attention : si vous emballez vous-même vos meubles et vos biens, les professionnels ne sont pas responsables des dommages causés pendant le transport.  
+Mais pour votre argent, vous aurez un **Service complet**. Cela implique également que l'entreprise est responsable de tous les dommages éventuels causés à vos biens, à l'appartement ou à la cage d'escalier pendant votre déménagement. La loi prévoit que 620 euros par mètre cube de biens transportés seront facturés en cas de dommage. Si vous souhaitez faire transporter des biens particulièrement précieux, vous pouvez convenir d'un montant de responsabilité plus élevé avec l'entreprise de déménagement. Mais attention : si vous emballez vous-même vos meubles et vos biens, les professionnels ne sont pas responsables des dommages causés pendant le transport.
 
 ![Faire appel à une entreprise de déménagement vous permet d'économiser beaucoup de travail.](https://seatable.io/wp-content/uploads/2023/10/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
@@ -135,17 +130,17 @@ Le déménagement est imminent et vous souhaitez communiquer votre nouvelle adre
 - Adhésions (par ex. salle de sport, associations)
 - Boutiques en ligne et services de colis
 
-{{< warning headline="Si vous oubliez de communiquer votre nouvelle adresse à quelqu'un" text="Avec la demande de réexpédition de la Deutsche Post, les lettres et les colis qui arrivent à votre ancienne adresse sont tout simplement transmis à votre nouvelle adresse. Vous pouvez l'établir en ligne sur [nachsendeauftrag.de](http://nachsendeauftrag.de/) à partir de 28,90 euros pour six mois." >}}
+{{< warning headline="Si vous oubliez de communiquer votre nouvelle adresse à quelqu'un" text="Avec la demande de réexpédition de la Deutsche Post, les lettres et les colis qui arrivent à votre ancienne adresse sont tout simplement transmis à votre nouvelle adresse. Vous pouvez l'établir en ligne sur [nachsendeauftrag.de](http://nachsendeauftrag.de/) à partir de 28,90 euros pour six mois." />}}
 
 ## Déduire de ses impôts un déménagement pour raisons professionnelles
 
 En Allemagne, vous pouvez déduire une partie de vos frais de déménagement de vos impôts en tant que **frais professionnels**. Ceux-ci sont séparés en **frais généraux et autres frais** et constituent une grande partie des frais déductibles des impôts. Attention : si votre employeur prend en charge une partie ou la totalité de vos frais de déménagement, vous ne pouvez pas faire valoir à nouveau les frais pris en charge dans votre déclaration d'impôts.
 
-{{< warning headline="Étudiants et apprentis, attention !" text="Les personnes qui déménagent pour entamer leur première formation professionnelle peuvent faire valoir les frais de déménagement comme **dépenses spéciales**." >}}
+{{< warning headline="Étudiants et apprentis, attention !" text="Les personnes qui déménagent pour entamer leur première formation professionnelle peuvent faire valoir les frais de déménagement comme **dépenses spéciales**." />}}
 
 ### Frais généraux
 
-Il y a quelques **frais généraux**Le montant total de l'impôt sur le revenu peut être déclaré dans la déclaration d'impôt. **Très important**Conservez les factures et les reçus afin de pouvoir justifier vos dépenses. Les frais généraux comprennent par exemple les frais de transport du mobilier, le double loyer pendant la phase de déménagement ou la commission de l'agent immobilier.  
+Il y a quelques **frais généraux**Le montant total de l'impôt sur le revenu peut être déclaré dans la déclaration d'impôt. **Très important**Conservez les factures et les reçus afin de pouvoir justifier vos dépenses. Les frais généraux comprennent par exemple les frais de transport du mobilier, le double loyer pendant la phase de déménagement ou la commission de l'agent immobilier.
 
 ![Gardez toujours un œil sur vos dépenses en conservant les reçus.](https://seatable.io/wp-content/uploads/2023/10/finance-8206242_1280-711x474.jpg)
 

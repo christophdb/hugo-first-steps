@@ -1,9 +1,9 @@
 ---
-title: "Event planen in 10 Schritten inkl. Vorlage für Ihr Eventmanagement"
+title: 'Event planen in 10 Schritten inkl. Vorlage für Ihr Eventmanagement'
 date: 2024-03-07
-lastmod: "2024-03-07"
-author: "nsc"
-url: "/de/event-planen"
+lastmod: '2024-03-07'
+author: 'nsc'
+url: '/de/event-planen'
 ---
 
 Wenn Sie das perfekte Event planen möchten, müssen Sie so einiges beachten. Doch wo fängt man am besten an, wenn man sich nicht mit Eventmanagement auskennt? Und wie verhindert man Fehlplanungen, Terminkollisionen und Absagen?
@@ -22,7 +22,7 @@ Wichtig ist auch, direkt zu Beginn festzulegen, was für ein Event sie planen. H
 
 Durch diese Informationen können Sie während der Planungsphase fundierte Entscheidungen treffen und das Event besser auf Ihr Zielpublikum zuschneiden.
 
-{{< warning headline="Tipp" text="Ein spezifisches und messbares Ziel hilft Ihnen nach der Veranstaltung, den Erfolg Ihres Events bewerten zu können." >}}
+{{< warning headline="Tipp" text="Ein spezifisches und messbares Ziel hilft Ihnen nach der Veranstaltung, den Erfolg Ihres Events bewerten zu können." />}}
 
 ## 2\. Konzept entwickeln
 
@@ -48,7 +48,7 @@ Damit Sie kein Event planen, das Ihr Budget übersteigt, ist es im Eventmanageme
 
 Indem Sie diese Hauptkostenpunkte sowie die zusätzlichen Ausgaben sorgfältig für Ihr Event planen und budgetieren, können Sie sicherstellen, dass Ihr Event finanziell im Rahmen bleibt und keine unerwarteten Kosten entstehen. Falls Sie ein kommerzielles Event planen, können Sie auf dieser Grundlage berechnen, **wie viel Eintritt** Sie verlangen müssen, um die Kosten zu decken.
 
-{{< warning headline="Tipp" text="Womöglich können Sie die Kosten durch **freiwillige Helfer** oder **Sponsoren** reduzieren." >}}
+{{< warning headline="Tipp" text="Womöglich können Sie die Kosten durch **freiwillige Helfer** oder **Sponsoren** reduzieren." />}}
 
 ## 4\. Zeitplan erstellen
 
@@ -56,7 +56,7 @@ Das A und O im Eventmanagement ist frühzeitig mit der Planung zu beginnen. Denn
 
 Ein solcher Zeitplan ermöglicht es Ihnen nicht nur, genau festzulegen, wann welcher Schritt gemacht werden muss, sondern auch potenzielle Verzögerungen frühzeitig zu erkennen. Es ist wichtig, einen **Puffer** einzuplanen, um unvorhergesehene Planänderungen ausgleichen zu können und somit möglichen Zeitdruck und Stress zu minimieren.
 
-{{< warning headline="Tipp" text="Checken Sie vorher, ob sich Ihr Termin mit anderen wichtigen Terminen, Feiertagen oder Schulferien überschneidet." >}}
+{{< warning headline="Tipp" text="Checken Sie vorher, ob sich Ihr Termin mit anderen wichtigen Terminen, Feiertagen oder Schulferien überschneidet." />}}
 
 ![Eventmanagement: Sanduhr auf einer Zeitung](images/pexels-pixabay-39396-711x536.jpg)
 
@@ -98,7 +98,7 @@ Bei kommerziellen Events wie Festivals ist eine gezielte Werbung über **Social-
 
 Wichtig ist es, die Werbemaßnahmen rechtzeitig zu starten und die Botschaften ansprechend und informativ aufzubereiten, um das Interesse Ihrer Zielgruppe zu wecken und eine hohe Besucherzahl zu erreichen.
 
-{{< warning headline="Tipp" text="Durch das Posten von Highlights, Fotos und Videos auf [Social Media](https://seatable.io/social-media-plan-vorlage/) können Sie die Präsenz und Wirkung Ihres Events über den eigentlichen Termin hinaus verlängern." >}}
+{{< warning headline="Tipp" text="Durch das Posten von Highlights, Fotos und Videos auf [Social Media](https://seatable.io/social-media-plan-vorlage/) können Sie die Präsenz und Wirkung Ihres Events über den eigentlichen Termin hinaus verlängern." />}}
 
 ## 9\. Sicherheit und Rechtliches beachten
 

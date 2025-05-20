@@ -1,9 +1,9 @@
 ---
 title: "SeaTable 4.2 : nouvelles fonctions dans l'Universal App Builder et plus encore"
 date: 2023-11-22
-lastmod: "2023-11-22"
-author: "kgr"
-url: "/fr/seatable-release-4-2"
+lastmod: '2023-11-22'
+author: 'kgr'
+url: '/fr/seatable-release-4-2'
 ---
 
 Dans **SeaTable 4.2**, le développement de l'Universal App Builder passe à la vitesse supérieure : la nouvelle **gestion des versions** permet de revenir aux versions précédentes d'une application. Le **contrôle des doublons** sur les pages de tableaux et de formulaires permet d'empêcher efficacement la saisie d'entrées identiques. En outre, il est désormais possible de dupliquer des pages dans l'app universelle et de **suspendre temporairement des apps**.
@@ -20,11 +20,11 @@ La [fonctionnalité Snapshot](https://seatable.io/fr/docs/historie-und-versionen
 
 La nouvelle **gestion des versions** se trouve derrière l'icône {{< seatable-icon icon="dtable-icon-history" >}} dans la barre des paramètres à gauche. Vous pouvez y créer, afficher, restaurer et supprimer des snapshots. Pour chaque snapshot, il est également possible de saisir une petite note qui vous permet de retrouver rapidement la bonne version.
 
-{{< warning headline="Numérotation des versions" text="Ne vous étonnez pas si vos snapshots ne reçoivent pas de numéros consécutifs (1, 2, 3 ...). SeaTable compte chaque modification que vous effectuez dans une application universelle comme une version à part entière. Il peut donc rapidement y avoir des dizaines de versions entre deux snapshots." >}}
+{{< warning headline="Numérotation des versions" text="Ne vous étonnez pas si vos snapshots ne reçoivent pas de numéros consécutifs (1, 2, 3 ...). SeaTable compte chaque modification que vous effectuez dans une application universelle comme une version à part entière. Il peut donc rapidement y avoir des dizaines de versions entre deux snapshots." />}}
 
 Lorsque vous restaurez un snapshot enregistré, l'application est restaurée à son état précédent. Toutes les modifications effectuées depuis sont annulées. La restauration d'un snapshot dans l'app fonctionne donc différemment de celle dans la base, où le snapshot est restauré dans une nouvelle base.
 
-{{< warning headline="Attention" text="**Actuellement, les snapshots de la base ne contiennent pas d'apps**. Cela signifie que lors de la [restauration d'un snapshot de la](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) base, les apps contenues dans la base ne sont pas restaurées. Cette fonctionnalité sera ajoutée dans une prochaine version de SeaTable." >}}
+{{< warning headline="Attention" text="**Actuellement, les snapshots de la base ne contiennent pas d'apps**. Cela signifie que lors de la [restauration d'un snapshot de la](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) base, les apps contenues dans la base ne sont pas restaurées. Cette fonctionnalité sera ajoutée dans une prochaine version de SeaTable." />}}
 
 ## Contrôle des doublons sur les pages de tableaux et de formulaires
 
@@ -52,7 +52,7 @@ Le développement de l'Universal App Builder se poursuivra sans relâche dans le
 
 Jusqu'à présent, vous ne pouviez déclencher l'[action automatisée "Modifier l'entrée"](https://seatable.io/fr/docs/automationen/automations-aktionen/#6-toc-title) que par l'ajout de nouvelles lignes ou la modification d'entrées. Désormais, vous pouvez également **faire exécuter** cette automatisation **périodiquement pour les entrées qui remplissent certaines conditions**. Les entrées du tableau sont alors toujours adaptées à un moment précis, conformément aux paramètres définis au préalable.
 
-![Exécuter périodiquement l&#039;action automatisée &quot;Modifier l&#039;entrée&quot;.](images/Run-automated-action-Modify-record-periodically-.png)
+![Exécuter périodiquement l'action automatisée "Modifier l'entrée".](images/Run-automated-action-Modify-record-periodically-.png)
 
 ## Nouvelle fonction dans la colonne des formules : iserror()
 
@@ -74,6 +74,6 @@ Dans SeaTable 4.2, nous avons affiné la fonction de recherche sur la page d'acc
 
 Lors de l'opération de traitement des données [Calculer le classement](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/), vous pouvez maintenant choisir l'**ordre** dans lequel les valeurs doivent être listées. Pour cela, indiquez si la plus grande ou la plus petite valeur doit être placée en premier.
 
-{{< warning headline="Nouvelle autorisation" text="Dans les [paramètres de sécurité](https://seatable.io/fr/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/), vous pouvez, en tant que propriétaire ou administrateur d'une base, déterminer si les utilisateurs ont le droit de créer et de modifier des opérations de traitement des données." >}}
+{{< warning headline="Nouvelle autorisation" text="Dans les [paramètres de sécurité](https://seatable.io/fr/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/), vous pouvez, en tant que propriétaire ou administrateur d'une base, déterminer si les utilisateurs ont le droit de créer et de modifier des opérations de traitement des données." />}}
 
 De plus, SeaTable 4.2 prend désormais en charge le type de colonne [Numéro automatique](https://seatable.io/fr/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) pour les opérations de traitement des données [Comparer et relier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) et [Comparer et copier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).

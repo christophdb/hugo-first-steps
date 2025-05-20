@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 5.0: App builder, nuevos plugins y más accesibilidad"
+title: 'SeaTable 5.0: App builder, nuevos plugins y más accesibilidad'
 date: 2024-07-15
-lastmod: "2024-07-15"
-author: "kgr"
-url: "/es/seatable-release-5-0"
+lastmod: '2024-07-15'
+author: 'kgr'
+url: '/es/seatable-release-5-0'
 ---
 
 Ha llegado el momento: ¡lanzamos oficialmente nuestro creador de aplicaciones! Con esta versión de nuestra **base de datos sin código con creador de aplicaciones sin código integrado**, cualquier persona, ya sea programador o desarrollador ciudadano, podrá crear fácilmente sus propias aplicaciones. Con SeaTable 5.0, estamos preparados para asumir una posición de liderazgo en transformación digital e innovación en el mercado internacional.
@@ -52,7 +52,7 @@ La pizarra es el primer plugin que funciona independientemente de los datos de u
 
 ![Plugin de pizarra blanca](images/Whiteboard-Plugin.png)
 
-{{< warning headline="SeaTable ♥ Excalidraw" text="El plugin de pizarra blanca se basa en el popular software [Excalidraw](https://plus.excalidraw.com/), con el que muchos usuarios ya estarán familiarizados. Una limitación importante no debe pasar desapercibida: En el lanzamiento de SeaTable 5.0, la pizarra no soportará la colaboración en vivo. Lo haremos en breve." >}}
+{{< warning headline="SeaTable ♥ Excalidraw" text="El plugin de pizarra blanca se basa en el popular software [Excalidraw](https://plus.excalidraw.com/), con el que muchos usuarios ya estarán familiarizados. Una limitación importante no debe pasar desapercibida: En el lanzamiento de SeaTable 5.0, la pizarra no soportará la colaboración en vivo. Lo haremos en breve." />}}
 
 ## Mejora de la accesibilidad
 

@@ -1,10 +1,10 @@
 ---
-title: "Create a to-do list online with the app"
+title: 'Create a to-do list online with the app'
 date: 2024-04-03
-lastmod: "2024-04-03"
-coverImage: "To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg"
-author: "kgr"
-url: "/to-do-liste-online"
+lastmod: '2024-04-03'
+coverImage: 'To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg'
+author: 'kgr'
+url: '/to-do-liste-online'
 ---
 
 Creating and managing an online to-do list with an app has many advantages. This is because a **to-do list** helps you to manage your tasks efficiently both in your private life and in your day-to-day business and not forget anything in stressful everyday life. Read this article to find out why you should use a **template** for your to-do list and which **app** is best for a to-do list.
@@ -59,7 +59,7 @@ You can quickly enter your tasks, add descriptions, sections and subtasks and se
 
 It can also be linked to your calendar, a voice assistant on your smartphone and other tools. You can synchronize Todoist on all devices so that you can access your lists from your laptop to your cell phone to your smartwatch.
 
-{{< warning headline="Costs" text="In the free version, you can run five active projects and work with five members per project. File uploads, filters and reminders are limited. For 4 euros per user per month, you can increase this to 300 projects and 25 team members; at 6 euros per user per month, it is 500 projects with up to 1000 team members, which is mainly suitable for larger teams in companies." >}}
+{{< warning headline="Costs" text="In the free version, you can run five active projects and work with five members per project. File uploads, filters and reminders are limited. For 4 euros per user per month, you can increase this to 300 projects and 25 team members; at 6 euros per user per month, it is 500 projects with up to 1000 team members, which is mainly suitable for larger teams in companies." />}}
 
 ### Microsoft To Do: The versatile app for your to-do list
 
@@ -67,7 +67,7 @@ With [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), you get both a 
 
 You can sort the individual to-dos, set a deadline and tick them off. Reminders and recurring tasks are also possible. However, there are no advanced visualization options beyond the list mode, for which you will need the Planner.
 
-{{< warning headline="Free use" text="Microsoft To Do is available free of charge. All you need is a Microsoft account." >}}
+{{< warning headline="Free use" text="Microsoft To Do is available free of charge. All you need is a Microsoft account." />}}
 
 ![Microsoft To do list app on smartphone.](images/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
@@ -79,7 +79,7 @@ You can sort the individual to-dos, set a deadline and tick them off. Reminders 
 
 With Projoodle, you get a free app for to-do lists that are easy to create, share and manage. Another feature is the Kanban board view, which allows you to group tasks clearly by status. However, the options for sorting and scheduling tasks are sparse.
 
-{{< warning headline="GDPR compliance" text="The server for the to-do list app is located in Germany, making Projoodle suitable for GDPR-compliant work with sensitive personal data." >}}
+{{< warning headline="GDPR compliance" text="The server for the to-do list app is located in Germany, making Projoodle suitable for GDPR-compliant work with sensitive personal data." />}}
 
 ### Reminders: The to-do list app for iOS
 
@@ -99,7 +99,7 @@ SeaTable has by far the **widest range of functions** of all the apps we looked 
 
 With SeaTable, you can get started right away with the [free version](https://seatable.io/en/registrierung/) and the [interactive template](https://seatable.io/en/vorlage/bpvzkh-vrpwr4xylid6zeq/). Additional features are available in the Plus version for €7 per user per month, the Enterprise version for €14 per user per month or a dedicated cloud solution.
 
-{{< warning headline="GDPR and data sovereignty" text="The SeaTable Cloud servers are located in Germany, making the platform suitable for GDPR-compliant work with sensitive personal data. You also have the option of installing [SeaTable on-premises](https://seatable.io/en/on-premises/) on your own servers." >}}
+{{< warning headline="GDPR and data sovereignty" text="The SeaTable Cloud servers are located in Germany, making the platform suitable for GDPR-compliant work with sensitive personal data. You also have the option of installing [SeaTable on-premises](https://seatable.io/en/on-premises/) on your own servers." />}}
 
 ## Tips for successfully implementing your to-do list
 

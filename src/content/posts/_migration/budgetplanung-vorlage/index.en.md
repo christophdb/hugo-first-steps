@@ -1,10 +1,10 @@
 ---
-title: "Budget planning: advantages, types, tips and an example with template"
+title: 'Budget planning: advantages, types, tips and an example with template'
 date: 2023-12-13
-lastmod: "2025-02-03"
-coverImage: "Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg"
-author: "rdb"
-url: "/budgetplanung-vorlage"
+lastmod: '2025-02-03'
+coverImage: 'Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg'
+author: 'rdb'
+url: '/budgetplanung-vorlage'
 ---
 
 ## Advantages, types, tips for budget planning
@@ -29,7 +29,7 @@ Forward-looking budget planning helps you to allocate money and **resources sens
 
 **Strategic budget planning** for the next two to five years is also quite common. This **helps you to make long-term business decisions** that will drive your company forward and ensure its success, such as opening new locations. However, the further into the future the planning horizon is, the more difficult and uncertain it is to make an accurate forecast.
 
-{{< warning headline="Tip" text="As you need a budget plan for each financial year, it is best to create a template that you can use again and again." >}}
+{{< warning headline="Tip" text="As you need a budget plan for each financial year, it is best to create a template that you can use again and again." />}}
 
 ![Budget plan template](images/goodnotes-5-1s5TOXcMZQ8-unsplash.jpg)
 
@@ -83,7 +83,7 @@ Particularly in internal power struggles, results are often glossed over or exag
 
 **Specific budgeting must remain adaptable**, as it is partly based on assumptions for the future that cannot be predicted with certainty. If things develop differently than expected, you should react flexibly.
 
-{{< warning headline="Zero-base budgeting" text="[Zero-base budgeting](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) is a method in which budget plans from previous years are **not** used as a basis, but instead new budget plans are created from scratch every year. This constant rethinking is intended to uncover unnecessary measures and save costs." >}}
+{{< warning headline="Zero-base budgeting" text="[Zero-base budgeting](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) is a method in which budget plans from previous years are **not** used as a basis, but instead new budget plans are created from scratch every year. This constant rethinking is intended to uncover unnecessary measures and save costs." />}}
 
 ## Budget planning in project management
 

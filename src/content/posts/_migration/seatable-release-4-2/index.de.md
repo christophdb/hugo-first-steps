@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.2: Neue Funktionen im Universal App Builder und mehr"
+title: 'SeaTable 4.2: Neue Funktionen im Universal App Builder und mehr'
 date: 2023-11-22
-lastmod: "2023-11-22"
-author: "kgr"
-url: "/de/seatable-release-4-2"
+lastmod: '2023-11-22'
+author: 'kgr'
+url: '/de/seatable-release-4-2'
 ---
 
 In **SeaTable 4.2** geht die Weiterentwicklung des Universal App Builders in die nächste Runde: Die neue **Versionsverwaltung** ermöglicht den Rücksprung auf frühere Versionsstände einer App. Mit der **Duplikatsprüfung** auf der Tabellen- und Formularseite können Sie wirksam die Erfassung identischer Einträge verhindern. Zudem ist es nun möglich, Seiten in der Universellen App zu duplizieren und **Apps zeitweise auszusetzen**.
@@ -20,11 +20,11 @@ Die [Snapshot](https://seatable.io/docs/historie-und-versionen/speichern-der-akt
 
 Die neue **Versionsverwaltung** befindet sich hinter dem {{< seatable-icon icon="dtable-icon-history" >}}-Icon in der linken Einstellungsleiste. Dort können Sie Snapshots erstellen, ansehen, wiederherstellen und löschen. Für jeden Snapshot lässt sich auch eine kleine Notiz erfassen, mit der Sie schnell die richtige Version wiederfinden.
 
-{{< warning headline="Nummerierung der Versionen" text="Wundern Sie sich nicht, wenn Ihre Snapshots keine aufeinanderfolgenden Nummern (1, 2, 3 …) erhalten. SeaTable zählt jede Änderung, die Sie in einer Universellen App vornehmen, als eigene Version. Dadurch können schnell Dutzende Versionen zwischen zwei Snapshots liegen." >}}
+{{< warning headline="Nummerierung der Versionen" text="Wundern Sie sich nicht, wenn Ihre Snapshots keine aufeinanderfolgenden Nummern (1, 2, 3 …) erhalten. SeaTable zählt jede Änderung, die Sie in einer Universellen App vornehmen, als eigene Version. Dadurch können schnell Dutzende Versionen zwischen zwei Snapshots liegen." />}}
 
 Wenn Sie einen gespeicherten Snapshot wiederherstellen, wird die App auf den früheren Stand zurückgesetzt. Alle seitdem vorgenommenen Änderungen werden verworfen. Die Snapshot-Wiederherstellung in der App funktioniert also anders als in der Base, wo der Snapshot in einer neuen Base wiederhergestellt wird.
 
-{{< warning headline="Achtung" text="**Aktuell enthalten Base-Snapshots keine Apps**. Das heißt: Bei [Wiederherstellung eines Base-Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) werden die in der Base enthaltenen Apps nicht wiederhergestellt. Diese Funktionalität wird in einer der folgenden Versionen von SeaTable ergänzt." >}}
+{{< warning headline="Achtung" text="**Aktuell enthalten Base-Snapshots keine Apps**. Das heißt: Bei [Wiederherstellung eines Base-Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) werden die in der Base enthaltenen Apps nicht wiederhergestellt. Diese Funktionalität wird in einer der folgenden Versionen von SeaTable ergänzt." />}}
 
 ## Duplikatsprüfung auf Tabellen- und Formularseiten
 
@@ -74,6 +74,6 @@ Ab Version 4.2 können Sie [private Ansichten](https://seatable.io/docs/grundlag
 
 Bei der Datenverarbeitungsoperation [Rangliste berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/) können Sie nun auswählen, in welcher **Reihenfolge** die Werte aufgelistet werden sollen. Geben Sie dafür an, ob der größte oder der kleinste Wert an erster Stelle stehen soll.
 
-{{< warning headline="Neue Berechtigung" text="In den [Sicherheitseinstellungen](https://seatable.io/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/) können Sie als Eigentümer oder Administrator einer Base festlegen, ob Benutzer das Recht haben, Datenverarbeitungsoperationen anzulegen und zu bearbeiten." >}}
+{{< warning headline="Neue Berechtigung" text="In den [Sicherheitseinstellungen](https://seatable.io/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/) können Sie als Eigentümer oder Administrator einer Base festlegen, ob Benutzer das Recht haben, Datenverarbeitungsoperationen anzulegen und zu bearbeiten." />}}
 
 Außerdem unterstützt SeaTable 4.2 nun auch den Spaltentyp [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) bei den Datenverarbeitungsoperationen [Vergleichen und verknüpfen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) sowie [Vergleichen und kopieren](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).

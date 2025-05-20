@@ -1,9 +1,9 @@
 ---
-title: "Despedida de solteiro - ideias e dicas para uma viagem perfeita"
+title: 'Despedida de solteiro - ideias e dicas para uma viagem perfeita'
 date: 2024-08-06
-lastmod: "2024-08-07"
-author: "nsc"
-url: "/pt/junggesellenabschied"
+lastmod: '2024-08-07'
+author: 'nsc'
+url: '/pt/junggesellenabschied'
 ---
 
 Três coisas são consideradas indispensáveis para a despedida de solteiro clássica: **t-shirts** apelativas, um **tabuleiro de vendedores ambulantes** cheio de todo o tipo de curiosidades e um **local animado**. Mas porque é que não há-de ser algo especial? Afinal de contas, normalmente só se casa uma vez na vida e a **despedida** de **solteiro** pode ser tão única e inesquecível como o próprio casamento.
@@ -24,7 +24,7 @@ Muitas vezes, os noivos tendem a organizar as suas festas de despedida separadam
 
 Alguns casais celebram as suas despedidas de solteiro e de solteira em conjunto, conhecidas como "Jack and Jill Party" ou "Stag and Hen Party". Este toque moderno proporciona uma oportunidade para as famílias e amigos de ambas as partes se juntarem para celebrar o casal e apoiar simbolicamente o início das suas vidas em conjunto.
 
-{{< warning headline="Despedida de solteiro" text="Outra opção popular para uma celebração conjunta antes do casamento é a [despedida](https://de.wikipedia.org/wiki/Polterabend) de [solteiro](https://de.wikipedia.org/wiki/Polterabend), em que os cacos de cerâmica em frente à casa da noiva são simbolizados como trazendo boa sorte para o casamento. Esta tradição está particularmente difundida em alguns países europeus." >}}
+{{< warning headline="Despedida de solteiro" text="Outra opção popular para uma celebração conjunta antes do casamento é a [despedida](https://de.wikipedia.org/wiki/Polterabend) de [solteiro](https://de.wikipedia.org/wiki/Polterabend), em que os cacos de cerâmica em frente à casa da noiva são simbolizados como trazendo boa sorte para o casamento. Esta tradição está particularmente difundida em alguns países europeus." />}}
 
 ## O que considerar antes de planear
 
@@ -34,7 +34,7 @@ Em primeiro lugar, é fundamental decidir antecipadamente quais os **amigos e fa
 
 O **custo** da despedida de solteiro é normalmente dividido entre todos os participantes, sendo os noivos convidados de honra. Por conseguinte, é importante planear e acordar cuidadosamente o **orçamento**, para não ofender ninguém e não se exceder financeiramente.
 
-![Numa mão lê-se &quot;Bride to be&quot; (futura noiva)](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
+![Numa mão lê-se "Bride to be" (futura noiva)](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
 
 Para muitos, a despedida de solteiro é um importante rito de passagem da vida de solteiro para a vida de casado.
 

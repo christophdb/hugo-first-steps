@@ -1,10 +1,10 @@
 ---
-title: "Social media management explained simply: examples and template"
+title: 'Social media management explained simply: examples and template'
 date: 2024-01-17
-lastmod: "2025-01-28"
-coverImage: "pexels-lisa-fotios-1092671-scaled.jpg"
-author: "nsc"
-url: "/social-media-management"
+lastmod: '2025-01-28'
+coverImage: 'pexels-lisa-fotios-1092671-scaled.jpg'
+author: 'nsc'
+url: '/social-media-management'
 ---
 
 **Social media** has become an important part of our everyday lives. You can **reach** many **potential target groups** on platforms such as **Instagram, TikTok, Facebook or LinkedIn**. Whether organic content or paid ads: Amidst the feeds and stories, the line between entertainment, information and advertising becomes blurred. Social media management allows you to promote yourself subliminally, interact with your followers and create a stronger emotional bond between your customers and your brand.
@@ -66,7 +66,7 @@ A corporate identity is also a must when it comes to content. **Design**, **lang
 
 However, the basis for good content is the content itself. Surprise your followers with creative and **varied posts**. Stand out from the crowd and come up with your own **categories**. If you run out of ideas, don't be afraid to ask your **community** directly what kind of content they would like. This will not only help you to better understand the preferences of your target group, but also create a closer bond.
 
-{{< warning headline="User-generated content" text="Encourage your community to create their own content and link it to your brand. User-generated content is a cost-effective way to get versatile content with little effort. Customer reviews, product images and hashtag campaigns are simple examples that encourage interaction and actively engage your community." >}}
+{{< warning headline="User-generated content" text="Encourage your community to create their own content and link it to your brand. User-generated content is a cost-effective way to get versatile content with little effort. Customer reviews, product images and hashtag campaigns are simple examples that encourage interaction and actively engage your community." />}}
 
 ## Practical tips for your social media management
 
@@ -90,7 +90,7 @@ You also have the option of carrying out a **benchmark analysis** of your compet
 
 In addition to analyzing the figures, don't forget the **feedback** from your followers. Likes, comments and other forms of interaction serve as direct feedback from your target group. This analysis enables you to understand their needs and wishes and adapt your content accordingly.
 
-{{< warning headline="Optimize publication times" text="A valuable tip for social media management is to optimize publication times. By identifying periods when your target group is particularly active, you can place posts in a targeted manner to achieve maximum reach and interaction." >}}
+{{< warning headline="Optimize publication times" text="A valuable tip for social media management is to optimize publication times. By identifying periods when your target group is particularly active, you can place posts in a targeted manner to achieve maximum reach and interaction." />}}
 
 ## Useful tools in social media management
 

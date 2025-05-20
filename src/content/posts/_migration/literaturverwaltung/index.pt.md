@@ -1,9 +1,9 @@
 ---
-title: "Programa de gestão da literatura para uma melhor visão de conjunto"
+title: 'Programa de gestão da literatura para uma melhor visão de conjunto'
 date: 2024-05-17
-lastmod: "2024-05-17"
-author: "rdb"
-url: "/pt/literaturverwaltung"
+lastmod: '2024-05-17'
+author: 'rdb'
+url: '/pt/literaturverwaltung'
 ---
 
 Quer se trate de uma tese, dissertação ou relatório de investigação - um **programa de gestão de referências** facilita o trabalho em projectos científicos. A criação de **bibliografias** leva tanto tempo como a procura, visualização e análise de **fontes**.
@@ -70,7 +70,7 @@ O Zotero é particularmente adequado para principiantes, uma vez que é de utili
 
 O Mendeley oferece-lhe uma **subscrição gratuita** com dois gigabytes de espaço de armazenamento na nuvem. Se isso não for suficiente, pode adquirir uma versão com mais espaço de armazenamento, apoio adicional, mais funcionalidades e melhor encriptação de dados por um preço a pedido. O programa funciona em todos os sistemas operativos.
 
-{{< warning headline="Acesso através da aplicação" text="O Mendeley também oferece uma aplicação para iOS, com a qual tem sempre acesso móvel à sua gestão de literatura." >}}
+{{< warning headline="Acesso através da aplicação" text="O Mendeley também oferece uma aplicação para iOS, com a qual tem sempre acesso móvel à sua gestão de literatura." />}}
 
 Para além de utilizar o programa de secretária ou o Web Importer, também pode utilizar o Mendeley através de um **plugin para o Word**. Todos os seus dados, documentos e pastas são sincronizados através da nuvem.
 
@@ -131,32 +131,27 @@ Nem todas as informações sobre as suas fontes são relevantes para a posterior
 Autores|||
 
 Os autores devem ser indicados pelos apelidos e nomes próprios e, se for caso disso, pelos títulos académicos. Para além dos autores, os nomes dos editores também devem ser indicados para os volumes editados.
-
-\--- 
+{{< /faq >}}
 
 Ano|||
 
 Para além do ano, deve também indicar o dia e o mês de publicação para as fontes da Internet. Se se tratar de uma fonte sem ano, deve também indicá-lo.
-
-\--- 
+{{< /faq >}}
 
 Título|||
 
 O título refere-se ao título do artigo, livro ou capítulo, caso se trate de uma antologia. Note-se que o título é sensível a maiúsculas e minúsculas.
-
-\--- 
+{{< /faq >}}
 
 Médio|||
 
 Na maioria dos casos, é suficiente indicar a revista ou obra em que o artigo foi publicado. Se se tratar de um livro, deve indicar a editora.
-
-\--- 
+{{< /faq >}}
 
 Número da edição e da página|||
 
 Deve anotar estas informações com a maior exatidão possível. Contar os números das páginas, se não estiverem impressos.
-
-\---
+{{< /faq >}}
 
 ### 3\. pesquisar novas fontes com o programa de gestão de referências
 
@@ -176,7 +171,7 @@ O Zotero oferece-lhe a opção de etiquetar as fontes para que as possa selecion
 
 Nem todas as fontes são citadas da mesma forma. Logo no início do seu projeto, deve decidir qual o [**estilo de citação**](https://www.scribbr.de/richtig-zitieren/uebersicht-zitierstile/) que vai utilizar. Depois de ter decidido um estilo, deve utilizá-lo de forma consistente e configurá-lo no seu programa de gestão de referências. Pode então utilizar o programa para formatar todas as suas fontes neste estilo e copiá-las para o seu trabalho.
 
-{{< warning headline="Nota importante" text="O estilo de citação não só é decisivo para a apresentação das suas fontes na bibliografia, como também é utilizado para estabelecer referências curtas no texto." >}}
+{{< warning headline="Nota importante" text="O estilo de citação não só é decisivo para a apresentação das suas fontes na bibliografia, como também é utilizado para estabelecer referências curtas no texto." />}}
 
 ### 6\. utilizar a função de nota no programa de gestão de referências
 

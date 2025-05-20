@@ -1,9 +1,9 @@
 ---
-title: "Bullet journal - como organizar a sua vida com criatividade"
+title: 'Bullet journal - como organizar a sua vida com criatividade'
 date: 2023-12-19
-lastmod: "2024-01-25"
-author: "lsc"
-url: "/pt/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren"
+lastmod: '2024-01-25'
+author: 'lsc'
+url: '/pt/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren'
 ---
 
 Na vida quotidiana, muitas vezes stressante, é difícil conciliar tarefas, compromissos e os seus próprios interesses. Para garantir que não perde de vista as coisas que são realmente importantes para si na vida, na pilha diária de rotinas monótonas, ajuda escrevê-las. Um **bullet journal** é ideal para isso, no qual pode registar tudo o que é importante e dar asas à sua criatividade.
@@ -12,7 +12,7 @@ Neste artigo, pode descobrir como funciona um bullet journal e o que precisa de 
 
 ## O que é um bullet journal?
 
-Um bullet journal ajuda-o a organizar as suas **Organizar a vida quotidiana** e manter um registo de todas as suas tarefas, compromissos e necessidades. O diário funciona como uma combinação de agenda, planificador de projectos e bloco de notas. Também oferece espaço suficiente para acomodar os seus desejos individuais. O bullet journal define o seu **Criatividade** sem limites. Porque, ao contrário dos calendários convencionais, não existem páginas prontas a usar. É o próprio utilizador que as desenha e preenche de acordo com as suas próprias ideias.  
+Um bullet journal ajuda-o a organizar as suas **Organizar a vida quotidiana** e manter um registo de todas as suas tarefas, compromissos e necessidades. O diário funciona como uma combinação de agenda, planificador de projectos e bloco de notas. Também oferece espaço suficiente para acomodar os seus desejos individuais. O bullet journal define o seu **Criatividade** sem limites. Porque, ao contrário dos calendários convencionais, não existem páginas prontas a usar. É o próprio utilizador que as desenha e preenche de acordo com as suas próprias ideias.
 
 ![Este é o aspeto de um bullet journal com uma visão geral mensal e diária.](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
@@ -28,7 +28,7 @@ A **sua ideia:** um diário sem directrizes e sem problemas de espaço. Carroll 
 
 ## O pacote inicial certo
 
-Começar a utilizar o bullet journaling é muito fácil. Tudo o que precisa é de um **Caderno de notas** e um **Caneta**. É uma boa ideia começar com o que tem em casa. Pode experimentar se o journaling lhe agrada. Se gostar e quiser ser mais criativo, pode comprar ferramentas adicionais.  
+Começar a utilizar o bullet journaling é muito fácil. Tudo o que precisa é de um **Caderno de notas** e um **Caneta**. É uma boa ideia começar com o que tem em casa. Pode experimentar se o journaling lhe agrada. Se gostar e quiser ser mais criativo, pode comprar ferramentas adicionais.
 
 ![O](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
@@ -40,7 +40,7 @@ Os cadernos com **uma grelha de pontos** servem de base, uma vez que oferecem um
 
 Como já foi referido, a concretização das suas próprias ideias é fundamental. No entanto, existe um **sistema básico** que pode ser utilizado como guia para a estrutura do seu diário.
 
-Trata-se essencialmente de **sínteses temporais**no qual pode introduzir as suas tarefas e compromissos. Além disso, existem **Colecções**. São páginas que servem para o seu desenvolvimento livre e individual. Abaixo encontra uma coleção de ideias que pode utilizar ou nas quais se pode inspirar.  
+Trata-se essencialmente de **sínteses temporais**no qual pode introduzir as suas tarefas e compromissos. Além disso, existem **Colecções**. São páginas que servem para o seu desenvolvimento livre e individual. Abaixo encontra uma coleção de ideias que pode utilizar ou nas quais se pode inspirar.
 
 ![O seu bullet journal deve conter os itens Índice, Chave, Registo do futuro, Registo mensal, Registo diário e Colectivos.](https://seatable.io/wp-content/uploads/2023/12/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
@@ -53,6 +53,7 @@ A estrutura básica do seu bullet journal é composta por três partes. O **índ
 Segue-se a **chave**. Esta é uma espécie de lenda. Os símbolos e o seu significado são aí registados. Esta técnica é designada por **registo rápido**.
 
 {{< warning headline="É assim que pode conceber a sua chave" text="- Hífen = notas
+
 - Ponto = tarefa
 - Pintar o ponto com uma cruz = a tarefa está concluída
 - Ponto com seta a apontar para a direita = tarefa deslocada
@@ -67,7 +68,7 @@ Com base nisto, cria-se um **registo mensal**. Este contém todos os compromisso
 
 O **registo diário** é ainda mais pormenorizado. Este é criado numa base semanal e oferece a possibilidade de introduzir eventos diários de forma flexível.
 
-{{< warning headline="A disposição correcta dos calendários" text="A ordem das sínteses segue normalmente este padrão: síntese anual, síntese mensal de janeiro, síntese diária de janeiro, síntese mensal de fevereiro, síntese diária de fevereiro, ..." >}}
+{{< warning headline="A disposição correcta dos calendários" text="A ordem das sínteses segue normalmente este padrão: síntese anual, síntese mensal de janeiro, síntese diária de janeiro, síntese mensal de fevereiro, síntese diária de fevereiro, ..." />}}
 
 ### As colecções
 

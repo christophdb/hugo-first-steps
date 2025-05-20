@@ -1,9 +1,9 @@
 ---
-title: "Planeamento de eventos em 10 passos incl. modelo para a gestão do seu evento"
+title: 'Planeamento de eventos em 10 passos incl. modelo para a gestão do seu evento'
 date: 2024-03-07
-lastmod: "2024-03-07"
-author: "nsc"
-url: "/pt/event-planen"
+lastmod: '2024-03-07'
+author: 'nsc'
+url: '/pt/event-planen'
 ---
 
 Se quiser planear o evento perfeito, há muito a considerar. Mas por onde começar se não estiver familiarizado com a gestão de eventos? E como evitar erros de planeamento, conflitos de agenda e cancelamentos?
@@ -22,7 +22,7 @@ Também é importante decidir logo no início que tipo de evento está a planear
 
 Esta informação permite-lhe tomar decisões informadas durante a fase de planeamento e adaptar melhor o evento ao seu público-alvo.
 
-{{< warning headline="Dica" text="Um objetivo específico e mensurável ajuda-o a avaliar o sucesso do seu evento após o mesmo." >}}
+{{< warning headline="Dica" text="Um objetivo específico e mensurável ajuda-o a avaliar o sucesso do seu evento após o mesmo." />}}
 
 ## 2\. desenvolver o conceito
 
@@ -48,7 +48,7 @@ Para garantir que não se planeia um evento que exceda o orçamento, é fundamen
 
 Se planear e orçamentar cuidadosamente estes pontos de custo principais e as despesas adicionais do seu evento, pode garantir que o seu evento não excede o orçamento e que não há custos inesperados. Se estiver a planear um evento comercial, pode utilizar isto como base para calcular **o montante** a cobrar para cobrir os custos.
 
-{{< warning headline="Dica" text="Pode ser possível reduzir os custos com **voluntários** ou **patrocinadores**." >}}
+{{< warning headline="Dica" text="Pode ser possível reduzir os custos com **voluntários** ou **patrocinadores**." />}}
 
 ## 4\. criar um calendário
 
@@ -56,7 +56,7 @@ O essencial na gestão de eventos é começar a planear com antecedência. As re
 
 Este calendário permite não só determinar exatamente quando é que cada passo deve ser dado, mas também reconhecer potenciais atrasos numa fase inicial. É importante planear uma **reserva** para compensar alterações imprevistas ao plano e, assim, minimizar a pressão do tempo e o stress.
 
-{{< warning headline="Dica" text="Verifique com antecedência se a sua marcação coincide com outras datas importantes, feriados ou férias escolares." >}}
+{{< warning headline="Dica" text="Verifique com antecedência se a sua marcação coincide com outras datas importantes, feriados ou férias escolares." />}}
 
 ![Gestão de eventos: Ampulheta num jornal](images/pexels-pixabay-39396-711x536.jpg)
 
@@ -98,7 +98,7 @@ Para eventos comerciais, como festivais, faz sentido a publicidade direccionada 
 
 É importante iniciar as acções de publicidade atempadamente e preparar as mensagens de forma apelativa e informativa, a fim de despertar o interesse do seu grupo-alvo e obter um elevado número de visitantes.
 
-{{< warning headline="Dica" text="Ao publicar destaques, fotografias e vídeos nas [redes sociais](https://seatable.io/pt/social-media-plan-vorlage/), pode prolongar a presença e o impacto do seu evento para além da data real." >}}
+{{< warning headline="Dica" text="Ao publicar destaques, fotografias e vídeos nas [redes sociais](https://seatable.io/pt/social-media-plan-vorlage/), pode prolongar a presença e o impacto do seu evento para além da data real." />}}
 
 ## 9\. respeitar os requisitos legais e de segurança
 

@@ -1,9 +1,9 @@
 ---
-title: "O que é um storyboard e como criá-lo"
+title: 'O que é um storyboard e como criá-lo'
 date: 2024-03-26
-lastmod: "2024-03-26"
-author: "nsc"
-url: "/pt/storyboard"
+lastmod: '2024-03-26'
+author: 'nsc'
+url: '/pt/storyboard'
 ---
 
 Quer esteja a criar um vídeo de imagem para a sua empresa, uma curta-metragem para um festival de cinema ou o próximo êxito de bilheteira de Hollywood, a criação de um **storyboard** pode fazer toda a diferença. Um storyboard não é apenas uma ferramenta para estruturar as suas **ideias criativas**, mas também para garantir um **processo de produção sem problemas**. Este artigo explica a importância e as vantagens dos storyboards para projectos cinematográficos de todos os tipos e apresenta um modelo de storyboard gratuito para o ajudar a dar vida à sua visão.
@@ -47,7 +47,7 @@ Se a sua ideia já estiver completamente desenvolvida, deve escrevê-la num **gu
 
 Segue-se o **storyboard**, no qual transfere o enredo do seu argumento sob a forma de esboços visuais. Preste atenção a pormenores como os ângulos da câmara, a atmosfera, o som e a música para dar profundidade à sua história.
 
-{{< warning headline="Dica" text="Não se esqueça de pensar nos actores, adereços ou figurinos de que necessita para o seu projeto." >}}
+{{< warning headline="Dica" text="Não se esqueça de pensar nos actores, adereços ou figurinos de que necessita para o seu projeto." />}}
 
 Só se deve começar a **filmar** quando o guião e o storyboard estiverem concluídos. Porque num filme que não está completamente planeado e organizado, a rodagem é muitas vezes caótica e envolve muito mais esforço do que o realmente necessário.
 

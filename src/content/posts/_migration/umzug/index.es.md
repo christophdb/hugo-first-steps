@@ -1,9 +1,9 @@
 ---
-title: "Planifique su mudanza con una lista de comprobación: Cómo mudarse sin estrés"
+title: 'Planifique su mudanza con una lista de comprobación: Cómo mudarse sin estrés'
 date: 2023-10-30
-lastmod: "2023-10-30"
-author: "lsc"
-url: "/es/umzug"
+lastmod: '2023-10-30'
+author: 'lsc'
+url: '/es/umzug'
 ---
 
 ¡Por fin ha llegado el momento! Ha encontrado el piso perfecto para usted y está deseando mudarse a su nuevo hogar. Lo único que ahora le separa del piso de sus sueños es la mudanza. Lo que a la mayoría de la gente le supone mucho estrés y tiempo, tú puedes hacérselo fácil con un **plan de mudanza** estructurado. Descubra aquí cómo planificar su mudanza sin estrés y llevarla a buen puerto.
@@ -41,20 +41,17 @@ Con una planificación cuidadosa de los traspasos, el primer paso de su mudanza 
 ¿Tengo derecho a un permiso especial estatutario?|||
 
 Primero las malas noticias: en Alemania, según la Ley Federal de Vacaciones y el Código Civil, **no hay derecho legal a vacaciones** cuando se cambia de domicilio.
-
-\--- 
+{{< /faq >}}
 
 ¿Qué dice mi contrato de trabajo?|||
 
 Aunque no existe un derecho general a la excedencia especial, su empresario puede, por supuesto, concedérsela. Para asegurarte, consulta tu contrato de trabajo o pregunta al comité de empresa o a un superior si tienes derecho a una excedencia especial.
-
-\--- 
+{{< /faq >}}
 
 ¿Y si me mudo por motivos profesionales?|||
 
 En este caso, tiene muchas posibilidades de que le concedan tiempo libre retribuido, aunque no figure en su contrato de trabajo. Hay que distinguir si cambia de empresario o sólo de lugar de trabajo. En el primer caso, debe confiar en la buena voluntad de su nuevo empresario. Si, por el contrario, se traslada con el mismo empresario, es posible solicitar tiempo libre retribuido.
-
-\---
+{{< /faq >}}
 
 ### Motivos profesionales del traslado
 
@@ -63,14 +60,12 @@ En este caso, tiene muchas posibilidades de que le concedan tiempo libre retribu
 ¿Qué razones hacen que un traslado esté "relacionado con el trabajo"?|||
 
 Además de las razones ya mencionadas _\-cambio de trabajo o de empresa-_, hay otras formas de considerar que su traslado está relacionado con el trabajo. Por ejemplo, al aceptar tu primer trabajo, al mudarte a un piso de la empresa, al volver del extranjero para trabajar en Alemania o al acortar los desplazamientos al menos media hora al día.
-
-\--- 
+{{< /faq >}}
 
 ¿Existen otras normas si trabajo en el sector público?|||
 
 Sí, porque como funcionario o empleado del sector público tienes derecho a un día de permiso retribuido por traslado por motivos laborales, según el artículo 29 de la Ordenanza de Negociación Colectiva. Si ya has tenido que trasladarte una vez en los últimos cinco años por motivos laborales, tienes derecho incluso a tres días de permiso.
-
-\---
+{{< /faq >}}
 
 ## Organizar la mudanza
 
@@ -84,7 +79,7 @@ Con una **empresa de mudanzas** se ahorrará mucho tiempo y nervios. Porque aqu�
 
 El coste de su mudanza depende del tamaño del hogar y de la distancia de los pisos.
 
-Pero por tu dinero obtienes un **Servicio completo**. Esto incluye también que la empresa es responsable de cualquier daño que sufran sus bienes, el piso o la escalera durante la mudanza. La ley estipula que se tasarán 620 euros por metro cúbico de mercancía transportada en caso de daños. Si desea transportar bienes especialmente valiosos, puede acordar con la empresa de mudanzas un importe de responsabilidad civil más elevado. Pero cuidado: si embala usted mismo sus muebles y enseres, los profesionales no se harán responsables de los daños causados durante el transporte.  
+Pero por tu dinero obtienes un **Servicio completo**. Esto incluye también que la empresa es responsable de cualquier daño que sufran sus bienes, el piso o la escalera durante la mudanza. La ley estipula que se tasarán 620 euros por metro cúbico de mercancía transportada en caso de daños. Si desea transportar bienes especialmente valiosos, puede acordar con la empresa de mudanzas un importe de responsabilidad civil más elevado. Pero cuidado: si embala usted mismo sus muebles y enseres, los profesionales no se harán responsables de los daños causados durante el transporte.
 
 ![Contratar una empresa de mudanzas le ahorra mucho trabajo.](https://seatable.io/wp-content/uploads/2023/10/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
@@ -135,17 +130,17 @@ La mudanza es inminente y quiere informar a todo el mundo de su nueva dirección
 - Afiliaciones (gimnasio, clubes, etc.)
 - Tiendas en línea y servicios de paquetería
 
-{{< warning headline="Si olvida comunicar a alguien su nueva dirección" text="Con la orden de reenvío de Deutsche Post, las cartas y paquetes que llegan a su antigua dirección se reenvían sencillamente a su nueva dirección. Puedes contratarla online en [nachsendeauftrag.de](http://nachsendeauftrag.de/) a partir de 28,90 euros por seis meses." >}}
+{{< warning headline="Si olvida comunicar a alguien su nueva dirección" text="Con la orden de reenvío de Deutsche Post, las cartas y paquetes que llegan a su antigua dirección se reenvían sencillamente a su nueva dirección. Puedes contratarla online en [nachsendeauftrag.de](http://nachsendeauftrag.de/) a partir de 28,90 euros por seis meses." />}}
 
 ## Deducir de impuestos un traslado relacionado con el trabajo
 
 En Alemania puede deducir parte de los gastos de mudanza de sus impuestos como **gastos relacionados con los ingresos**. Se dividen en **gastos generales y otros gastos** y constituyen una gran parte de los gastos deducibles. Atención: si su empresa paga una parte o la totalidad de sus gastos de mudanza, no podrá volver a reclamar los gastos pagados en su declaración de la renta.
 
-{{< warning headline="¡Atención estudiantes y becarios!" text="Cualquier persona que se traslade para iniciar su primera formación profesional puede reclamar los gastos de traslado como **gastos especiales**." >}}
+{{< warning headline="¡Atención estudiantes y becarios!" text="Cualquier persona que se traslade para iniciar su primera formación profesional puede reclamar los gastos de traslado como **gastos especiales**." />}}
 
 ### Gastos generales
 
-Hay algunos **gastos generales**que puede declarar íntegramente en su declaración de la renta. **Muy importante**Gastos generales: Conserve facturas y recibos para poder demostrar sus gastos. Los gastos generales incluyen, por ejemplo, los gastos de transporte de enseres, el doble alquiler durante la fase de mudanza o la comisión del agente inmobiliario.  
+Hay algunos **gastos generales**que puede declarar íntegramente en su declaración de la renta. **Muy importante**Gastos generales: Conserve facturas y recibos para poder demostrar sus gastos. Los gastos generales incluyen, por ejemplo, los gastos de transporte de enseres, el doble alquiler durante la fase de mudanza o la comisión del agente inmobiliario.
 
 ![Lleve siempre la cuenta de sus gastos guardando los recibos.](https://seatable.io/wp-content/uploads/2023/10/finance-8206242_1280-711x474.jpg)
 

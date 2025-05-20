@@ -1,9 +1,9 @@
 ---
-title: "Remboursement des frais - Conseils pour les employeurs et les employés"
+title: 'Remboursement des frais - Conseils pour les employeurs et les employés'
 date: 2024-01-03
-lastmod: "2025-05-19"
-author: "nsc"
-url: "/fr/auslagenerstattung"
+lastmod: '2025-05-19'
+author: 'nsc'
+url: '/fr/auslagenerstattung'
 ---
 
 Qu'il s'agisse d'un repas d'affaires, d'un billet de train ou d'un téléphone portable professionnel, vous faites régulièrement des avances dans le cadre de votre travail et vous souhaitez savoir ce qu'il faut prendre en compte pour le **remboursement des frais**? Ou êtes-vous vous-même employeur et cherchez-vous un moyen de rendre le processus de remboursement des frais plus efficace pour vos collaborateurs ?
@@ -35,7 +35,7 @@ Vous vous êtes déjà penché sur le remboursement des frais et vous êtes tomb
 
 Les fonds de roulement sont généralement utilisés pour **des dépenses prévisibles** et régulières, tandis que les remboursements de frais sont plutôt utilisés pour des **dépenses ponctuelles**.
 
-{{< warning headline="Avantage en nature" text="Si un employé utilise un produit ou un objet à des fins professionnelles et privées, il reçoit un **avantage en nature** de la part de l'entreprise. Il peut s'agir par exemple d'une voiture de société ou d'un smartphone que vous pouvez également utiliser pendant votre temps libre. Jusqu'à un montant de 50 euros par mois, l'objet en question est exonéré d'impôt." >}}
+{{< warning headline="Avantage en nature" text="Si un employé utilise un produit ou un objet à des fins professionnelles et privées, il reçoit un **avantage en nature** de la part de l'entreprise. Il peut s'agir par exemple d'une voiture de société ou d'un smartphone que vous pouvez également utiliser pendant votre temps libre. Jusqu'à un montant de 50 euros par mois, l'objet en question est exonéré d'impôt." />}}
 
 ## Cas exceptionnel : remboursement forfaitaire des frais
 
@@ -63,7 +63,7 @@ Sans une bonne structure, le remboursement des frais peut rapidement vous submer
 
 Le remboursement des frais comporte ses propres défis. Il ne faut notamment pas sous-estimer le **travail bureaucratique** - les justificatifs et la documentation s'accumulent dans les classeurs et prennent de **la place**. Pour pouvoir facturer intégralement, il est nécessaire de présenter méticuleusement chaque justificatif et chaque facture. Mais le risque est grand que les justificatifs se perdent plus vite que vous ne le souhaiteriez.
 
-{{< warning headline="Conseil" text="Si vous perdez un justificatif, vous pouvez créer **votre propre justificatif**. Avant de procéder de la sorte, il est toutefois recommandé de consulter l'administration fiscale compétente, car il n'existe pas d'obligation générale de reconnaissance." >}}
+{{< warning headline="Conseil" text="Si vous perdez un justificatif, vous pouvez créer **votre propre justificatif**. Avant de procéder de la sorte, il est toutefois recommandé de consulter l'administration fiscale compétente, car il n'existe pas d'obligation générale de reconnaissance." />}}
 
 Le processus de remboursement des frais ne **prend** pas seulement **du temps**, il **est** également **sujet à des erreurs**, surtout s'il se fait encore sur papier. Vous devez être parfaitement concentré sur votre travail pour ne pas risquer de vous tromper de chiffre. De plus, il faut tenir compte des **exigences de format de** l'administration fiscale, car celle-ci n'accepte que des PDF cohérents.
 

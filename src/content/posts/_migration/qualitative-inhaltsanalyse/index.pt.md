@@ -1,9 +1,9 @@
 ---
-title: "A análise qualitativa de conteúdo explicada de forma simples - exemplo: análise da imprensa"
+title: 'A análise qualitativa de conteúdo explicada de forma simples - exemplo: análise da imprensa'
 date: 2024-03-11
-lastmod: "2024-03-11"
-author: "lsc"
-url: "/pt/qualitative-inhaltsanalyse"
+lastmod: '2024-03-11'
+author: 'lsc'
+url: '/pt/qualitative-inhaltsanalyse'
 ---
 
 Quer seja na investigação ou no mundo do trabalho: **a análise de conteúdo qualitativo** ajuda-o a analisar o material de dados de uma forma estruturada. Neste artigo, ficará a saber qual a melhor forma de proceder e a que é que deve prestar atenção. Posteriormente, a implementação de uma análise de conteúdo é também ilustrada através de uma **revista de imprensa**.
@@ -14,7 +14,7 @@ A análise qualitativa de conteúdos é um método científico de investigação
 
 A forma exacta como deve conceber a análise de conteúdo depende dos resultados que pretende obter com a sua pergunta de investigação.
 
-{{< warning headline="De onde vem o formulário de análise" text="Um dos co-fundadores da análise qualitativa de conteúdo é Philipp Mayring. O psicólogo, sociólogo e pedagogo alemão publicou a sua obra _Qualitative Content Analysis. Fundamentos e Técnicas_." >}}
+{{< warning headline="De onde vem o formulário de análise" text="Um dos co-fundadores da análise qualitativa de conteúdo é Philipp Mayring. O psicólogo, sociólogo e pedagogo alemão publicou a sua obra _Qualitative Content Analysis. Fundamentos e Técnicas_." />}}
 
 ## Análise de conteúdo qualitativa vs. quantitativa
 
@@ -24,7 +24,7 @@ Basicamente, existe uma **abordagem** **qualitativa** e uma **abordagem quantita
 
 Na análise de conteúdo qualitativa, o utilizador concentra-se numa **pequena quantidade** de conteúdo que analisa em profundidade. Aqui também depende do que se ouve nas entrelinhas das entrevistas, por exemplo. Por conseguinte, trabalha-se **de forma indutiva**, ou seja, efectua-se as próprias observações e deduz-se uma nova hipótese a partir delas. O objetivo é compreender e **interpretar** os resultados e desenvolver novas abordagens teóricas nesta base.
 
-A análise quantitativa de conteúdo é a sua contrapartida. Trata-se de um procedimento normalizado em que o investigador mantém sempre constantes as condições de investigação. Neste caso, recorre-se a uma **grande quantidade de conteúdos**, que são sujeitos a uma análise específica. O procedimento é **dedutivo**, uma vez que se pretende analisar as teorias existentes e fundamentá-las com dados. O objetivo da análise é reconhecer, descrever e **explicar** as **frequências** estatísticas.  
+A análise quantitativa de conteúdo é a sua contrapartida. Trata-se de um procedimento normalizado em que o investigador mantém sempre constantes as condições de investigação. Neste caso, recorre-se a uma **grande quantidade de conteúdos**, que são sujeitos a uma análise específica. O procedimento é **dedutivo**, uma vez que se pretende analisar as teorias existentes e fundamentá-las com dados. O objetivo da análise é reconhecer, descrever e **explicar** as **frequências** estatísticas.
 
 ## Quando é que a análise de conteúdo qualitativa é um método adequado?
 
@@ -84,7 +84,7 @@ A forma da sua análise de conteúdo qualitativa determina a quantidade de mater
 - **Análise de conteúdo explicativa**: as passagens de texto incompreensíveis são explicadas com material adicional.
 - **Estruturar a análise de conteúdo**: Existe um [guia de codificação](https://www.acad-write.com/ratgeber/tipps/erstellung-codierleitfaden/) no qual se determina a forma como o material deve ser classificado em categorias relacionadas com tópicos.
 
-{{< warning headline="Categorização" text="A criação de categorias adequadas também é relevante para si se optar por uma das duas primeiras opções. Utiliza-as para categorizar secções do seu material de acordo com a sua pergunta." >}}
+{{< warning headline="Categorização" text="A criação de categorias adequadas também é relevante para si se optar por uma das duas primeiras opções. Utiliza-as para categorizar secções do seu material de acordo com a sua pergunta." />}}
 
 > _Com base nalguns dos artigos que relatam o SeaTable, são definidas diferentes categorias para a **tonalidade**. Por exemplo, palavras como "fácil de utilizar" e "importante" são utilizadas num artigo, a partir do qual se pode formar a categoria de **reportagem positiva**._
 
@@ -123,7 +123,7 @@ Os artigos podem ser facilmente divididos em unidades graças à sua estrutura.
 
 Agora é altura da parte mais importante e demorada da análise qualitativa de conteúdos. **Codifica-se** o material e atribui-se-lhe as **categorias** adequadas. Pode fazer isto à mão, utilizando uma folha de codificação, ou pode utilizar uma base de dados digital, como o SeaTable.
 
-{{< warning headline="Dica" text="Com um **programa de transcrição**, como o _EasyTranscript_ ou o _ELAN_, pode converter previamente gravações de vídeo e áudio em texto. Isto pode tornar a codificação muito mais fácil para si." >}}
+{{< warning headline="Dica" text="Com um **programa de transcrição**, como o _EasyTranscript_ ou o _ELAN_, pode converter previamente gravações de vídeo e áudio em texto. Isto pode tornar a codificação muito mais fácil para si." />}}
 
 > _**Resultado da análise:** A maioria dos artigos em linha sobre o SeaTable pode ser classificada como "tonalidade positiva" ou "tonalidade neutra"._
 
@@ -142,20 +142,17 @@ Por último, verifique se a sua análise cumpre os critérios de qualidade da an
 Transparência|||
 
 A sua investigação deve ser **compreensível** para quem está de fora. Explique como e porquê procedeu em cada etapa da sua análise.
-
-\---
+{{< /faq >}}
 
 Intersubjetividade|||
 
 Certifique-se de que a sua análise apresenta resultados semelhantes quando repetida por diferentes codificadores, ou seja, que é **reprodutível**.
-
-\---
+{{< /faq >}}
 
 Fiabilidade|||
 
 Qual o grau de fiabilidade da codificação? O mesmo conteúdo é classificado da mesma forma e as diferenças são expressas adequadamente em valores diferentes?
-
-\---
+{{< /faq >}}
 
 ## Lista de controlo para a sua análise de conteúdo qualitativa
 

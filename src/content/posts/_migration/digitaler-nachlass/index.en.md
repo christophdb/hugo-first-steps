@@ -1,9 +1,9 @@
 ---
-title: "Digital estate: How you can manage your access data"
+title: 'Digital estate: How you can manage your access data'
 date: 2023-10-31
-lastmod: "2023-10-31"
-author: "kgr"
-url: "/digitaler-nachlass"
+lastmod: '2023-10-31'
+author: 'kgr'
+url: '/digitaler-nachlass'
 ---
 
 In today's digital age, our **online lives** are becoming increasingly important: we communicate via e-mail, messenger and social media, store important files and photos in the cloud, do online banking and leave countless traces on the Internet. But what actually happens to all this data and accounts when you die one day? Keyword: **digital estate**.
@@ -85,7 +85,7 @@ Your digital estate can contain any amount of data. Depending on the number of a
 - Digital subscriptions (e.g. magazines, e-paper)
 - Other user accounts (e.g., forums, Adobe Creative Cloud)
 
-{{< warning headline="Tip" text="Declutter your digital legacy while you're still alive. Delete accounts and cancel services that you no longer use. This will save your loved ones a lot of work and unnecessary costs after your death." >}}
+{{< warning headline="Tip" text="Declutter your digital legacy while you're still alive. Delete accounts and cancel services that you no longer use. This will save your loved ones a lot of work and unnecessary costs after your death." />}}
 
 ### 3\. determine trusted third party
 

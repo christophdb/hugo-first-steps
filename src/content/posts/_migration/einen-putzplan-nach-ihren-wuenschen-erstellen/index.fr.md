@@ -1,9 +1,9 @@
 ---
-title: "Créer un plan de nettoyage selon vos souhaits : Modèle et conseils"
+title: 'Créer un plan de nettoyage selon vos souhaits : Modèle et conseils'
 date: 2023-09-06
-lastmod: "2023-09-13"
-author: "lsc"
-url: "/fr/einen-putzplan-nach-ihren-wuenschen-erstellen"
+lastmod: '2023-09-13'
+author: 'lsc'
+url: '/fr/einen-putzplan-nach-ihren-wuenschen-erstellen'
 ---
 
 Quiconque vit à plusieurs sous le même toit connaît cette situation : la vaisselle sale s'empile dans l'évier, l'écoulement de la douche est bouché et il faudrait en fait passer l'aspirateur. Mais personne ne se sent responsable et la tâche fastidieuse reste en suspens. Pour mettre fin au chaos, un plan de nettoyage individuel pour votre ménage est la solution. Découvrez ici tout ce que vous devez savoir pour établir votre plan de nettoyage.
@@ -36,7 +36,7 @@ Pour avoir une vue d'ensemble des tâches à effectuer, il est utile de les rép
 - **Couloir :** ranger la commode, maintenir le portemanteau en ordre, nettoyer le miroir
 - **Chambre à coucher :** faire le lit, ranger l'armoire, faire la lessive (chacun est généralement responsable de cela)
 
-{{< warning headline="C'est bon à savoir : D'où vient la poussière gênante" text="La poussière domestique récurrente peut en rendre plus d'un fou ou même déclencher des allergies. Elle se compose de minuscules particules provenant de différentes sources. Ainsi, de petites particules (p. ex. pollen, sable, suie) pénètrent dans l'appartement en aérant, de la saleté tombe des chaussures, les vêtements et les rembourrages perdent des fibres microscopiques, les personnes et les animaux domestiques perdent des squames et des poils, des miettes tombent sur le sol, les insectes comme les acariens laissent des excréments et se décomposent eux-mêmes en poussière après leur mort. Il n'est donc malheureusement pas possible d'éviter la formation de poussière domestique, mais vous pouvez la réduire grâce à un plan de nettoyage." >}}
+{{< warning headline="C'est bon à savoir : D'où vient la poussière gênante" text="La poussière domestique récurrente peut en rendre plus d'un fou ou même déclencher des allergies. Elle se compose de minuscules particules provenant de différentes sources. Ainsi, de petites particules (p. ex. pollen, sable, suie) pénètrent dans l'appartement en aérant, de la saleté tombe des chaussures, les vêtements et les rembourrages perdent des fibres microscopiques, les personnes et les animaux domestiques perdent des squames et des poils, des miettes tombent sur le sol, les insectes comme les acariens laissent des excréments et se décomposent eux-mêmes en poussière après leur mort. Il n'est donc malheureusement pas possible d'éviter la formation de poussière domestique, mais vous pouvez la réduire grâce à un plan de nettoyage." />}}
 
 ## À quelle fréquence les choses doivent-elles être faites ?
 

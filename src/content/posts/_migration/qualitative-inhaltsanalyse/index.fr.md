@@ -1,9 +1,9 @@
 ---
 title: "L'analyse qualitative de contenu expliquée simplement - Exemple : revue de presse"
 date: 2024-03-11
-lastmod: "2024-03-11"
-author: "lsc"
-url: "/fr/qualitative-inhaltsanalyse"
+lastmod: '2024-03-11'
+author: 'lsc'
+url: '/fr/qualitative-inhaltsanalyse'
 ---
 
 Que ce soit dans la recherche ou dans le monde du travail, une **analyse de contenu qualitative** vous aide à évaluer des données de manière structurée. Cet article vous explique comment procéder au mieux et ce à quoi vous devez faire attention. Ensuite, la réalisation d'une analyse de contenu est également mise en lumière à l'aide d'une **revue de presse**.
@@ -14,7 +14,7 @@ L'analyse de contenu qualitative est une méthode scientifique de recherche soci
 
 La manière exacte dont vous devez concevoir l'analyse de contenu dépend des résultats que vous souhaitez obtenir avec votre question de recherche.
 
-{{< warning headline="D'où vient la forme d'analyse" text="L'un des cofondateurs de l'analyse qualitative de contenu est Philipp Mayring. Ce psychologue, sociologue et pédagogue allemand a publié en 1983 son ouvrage _Qualitative Content Analysis. Bases et techniques_." >}}
+{{< warning headline="D'où vient la forme d'analyse" text="L'un des cofondateurs de l'analyse qualitative de contenu est Philipp Mayring. Ce psychologue, sociologue et pédagogue allemand a publié en 1983 son ouvrage _Qualitative Content Analysis. Bases et techniques_." />}}
 
 ## Analyse de contenu qualitative vs. quantitative
 
@@ -24,7 +24,7 @@ En principe, il existe une **approche** **qualitative** et une **approche quanti
 
 Dans l'analyse de contenu qualitative, vous vous concentrez sur un **petit nombre** de contenus que vous soumettez à une analyse approfondie. Ce qui compte ici, c'est ce que vous entendez entre les lignes, par exemple lors d'interviews. Vous travaillez en conséquence **de manière inductive**, c'est-à-dire que vous effectuez vos propres observations et en déduisez une nouvelle hypothèse. L'objectif est de comprendre et d'**interpréter** les résultats et de développer de nouvelles approches théoriques sur cette base.
 
-L'analyse de contenu quantitative constitue le pendant de cette méthode. Il s'agit d'une méthode standardisée dans laquelle le chercheur maintient toujours les conditions d'analyse constantes. Vous recourez ici à un **grand nombre de contenus** que vous soumettez à une analyse spécifique. La démarche est ici **déductive**, car vous souhaitez examiner des théories déjà existantes et les étayer par des données. L'objectif de l'analyse est d'identifier, de décrire et d'**expliquer** des **fréquences** statistiques.  
+L'analyse de contenu quantitative constitue le pendant de cette méthode. Il s'agit d'une méthode standardisée dans laquelle le chercheur maintient toujours les conditions d'analyse constantes. Vous recourez ici à un **grand nombre de contenus** que vous soumettez à une analyse spécifique. La démarche est ici **déductive**, car vous souhaitez examiner des théories déjà existantes et les étayer par des données. L'objectif de l'analyse est d'identifier, de décrire et d'**expliquer** des **fréquences** statistiques.
 
 ## Quand l'analyse qualitative de contenu est-elle une méthode appropriée ?
 
@@ -84,7 +84,7 @@ La forme de votre analyse de contenu qualitative détermine la quantité de mat�
 - **Analyse de contenu explicative**: les passages incompréhensibles sont expliqués à l'aide de matériel supplémentaire.
 - **Analyse de contenu structurante**: il existe un [guide de codage](https://www.acad-write.com/ratgeber/tipps/erstellung-codierleitfaden/) dans lequel vous définissez comment le matériel doit être classé dans des catégories thématiques.
 
-{{< warning headline="Création de catégories" text="La création de catégories appropriées est également importante pour vous si vous choisissez l'une des deux premières options. Celles-ci vous permettent en effet de classer des extraits de votre matériel en fonction de votre problématique." >}}
+{{< warning headline="Création de catégories" text="La création de catégories appropriées est également importante pour vous si vous choisissez l'une des deux premières options. Celles-ci vous permettent en effet de classer des extraits de votre matériel en fonction de votre problématique." />}}
 
 > _En se basant sur quelques articles qui parlent de SeaTable, différentes catégories de **tonalité** sont définies. Par exemple, un article utilise des mots tels que "convivial" et "important", ce qui permet de créer une catégorie de **rapports positifs**._
 
@@ -123,7 +123,7 @@ Les articles peuvent être facilement divisés en unités grâce à leur structu
 
 Il s'agit maintenant de la partie la plus importante et la plus complexe de l'analyse de contenu qualitative. Vous **codez** votre matériel et l'attribuez aux **catégories** correspondantes. Vous pouvez le faire à la main à l'aide d'une fiche de codage ou utiliser une base de données numérique comme SeaTable.
 
-{{< warning headline="Conseil" text="Avec un **programme de transcription** comme _EasyTranscript_ ou _ELAN_, vous pouvez préalablement convertir les enregistrements vidéo et audio en texte. Cela peut vous faciliter énormément le codage." >}}
+{{< warning headline="Conseil" text="Avec un **programme de transcription** comme _EasyTranscript_ ou _ELAN_, vous pouvez préalablement convertir les enregistrements vidéo et audio en texte. Cela peut vous faciliter énormément le codage." />}}
 
 > _**Résultat de l'analyse :** la plupart des articles en ligne sur SeaTable peuvent être classés dans la catégorie "tonalité positive" ou "tonalité neutre"._
 
@@ -142,20 +142,17 @@ Enfin, vous vérifiez si votre analyse répond aux critères de qualité de l'an
 Transparence|||
 
 Votre recherche doit être **compréhensible** pour les personnes extérieures. Pour chaque étape de votre analyse, expliquez comment et pourquoi vous avez procédé de la sorte.
-
-\---
+{{< /faq >}}
 
 Intersubjectivité|||
 
 Assurez-vous que votre analyse présente des résultats similaires lorsqu'elle est répétée sur différents codeurs, c'est-à-dire qu'elle est **reproductible**.
-
-\---
+{{< /faq >}}
 
 Reliabilité|||
 
 Quelle est la fiabilité de la codification ? Les mêmes contenus sont-ils évalués de la même manière et les différences s'expriment-elles de manière appropriée par des valeurs différentes ?
-
-\---
+{{< /faq >}}
 
 ## Liste de contrôle pour votre analyse de contenu qualitative
 

@@ -1,9 +1,9 @@
 ---
-title: "Weihnachtsgeschenke für Mitarbeiter und Kunden – 24 Ideen"
+title: 'Weihnachtsgeschenke für Mitarbeiter und Kunden – 24 Ideen'
 date: 2024-10-28
-lastmod: "2024-11-20"
-author: "lsc"
-url: "/de/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden"
+lastmod: '2024-11-20'
+author: 'lsc'
+url: '/de/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
 ---
 
 Weihnachten steht vor der Tür und Sie möchten Ihren Mitarbeitern, Geschäftspartnern oder Kunden eine kleine Aufmerksamkeit als Zeichen Ihrer **Wertschätzung** zukommen lassen. Doch was könnten passende Weihnachtsgeschenke für Mitarbeiter und Kunden sein? Ideenreichtum und Fingerspitzengefühl sind gefragt! Welche **Weihnachtsgeschenke** Ihre Mitarbeiter und Kunden erfreuen und mit welchem **Budget** Sie rechnen können, erfahren Sie in diesem Artikel.
@@ -110,7 +110,7 @@ Bei Weihnachtsfeiern gibt es noch einiges zu beachten…
 
 Möchten Sie Ihren Kunden oder Geschäftspartnern zu Weihnachten eine Freude bereiten, gibt es auch hier eine Freigrenze zu beachten. Bis zu 50 Euro dürfen Sie sich ein Geschenk pro Geschäftskunden kosten lassen, um die steuerliche Absetzbarkeit wahrzunehmen. Geschenke bis zu dieser Obergrenze können Sie als **Betriebsausgabe** gewinnbringend geltend machen.
 
-{{< warning headline="Mehr Geld seit 2024" text="Erst seit März 2024 liegt die Grenze bei 50 Euro. Im Rahmen des Wachstumschancengesetzes wurde dieser Betrag von den vorher geltenden 35 Euro angehoben." >}}
+{{< warning headline="Mehr Geld seit 2024" text="Erst seit März 2024 liegt die Grenze bei 50 Euro. Im Rahmen des Wachstumschancengesetzes wurde dieser Betrag von den vorher geltenden 35 Euro angehoben." />}}
 
 Beachten Sie außerdem, dass Sie zu jedem Geschenk, welches einen Wert von 10 Euro überschreitet, die begünstigte Person oder Firma sowie den Anlass in der Buchhaltung festhalten müssen.
 

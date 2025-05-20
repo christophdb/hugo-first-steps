@@ -1,9 +1,9 @@
 ---
-title: "Patriot Act vs. protection des données - Traiter les données canadiennes en toute sécurité"
+title: 'Patriot Act vs. protection des données - Traiter les données canadiennes en toute sécurité'
 date: 2023-07-17
-lastmod: "2023-08-18"
-author: "cdb"
-url: "/fr/patriot-act-vs-privacy-canada"
+lastmod: '2023-08-18'
+author: 'cdb'
+url: '/fr/patriot-act-vs-privacy-canada'
 ---
 
 Les données de millions de Canadiens sont stockées sur des serveurs américains de Microsoft, Google, Amazon ou Airtable - en même temps, le **Patriot Act** permet aux autorités américaines de siphonner toutes ces données. [C'est pourquoi les experts en protection des données déconseillent depuis longtemps de stocker des données personnelles dans des clouds américains.](https://www.heise.de/select/ct/2017/9/1492964161648735) La province canadienne du Québec veut également empêcher cela à partir de septembre 2023 en adoptant des lois plus strictes sur la protection des données.
@@ -68,10 +68,10 @@ Vous souhaitez saisir des données de manière structurée, effectuer des tâche
 
 Pas encore convaincu ? Pour plus d'informations sur SeaTable, consultez le [site web](https://seatable.io/fr/).
 
-{{< warning headline="Seafile" text="Si vous recherchez également une alternative sécurisée pour l'échange et le stockage de fichiers (par exemple Google Drive ou Microsoft OneDrive), vous pourriez également installer la solution de synchronisation et de partage de fichiers [Seafile](https://www.seafile.com/en/home/) sur vos propres serveurs." >}}
+{{< warning headline="Seafile" text="Si vous recherchez également une alternative sécurisée pour l'échange et le stockage de fichiers (par exemple Google Drive ou Microsoft OneDrive), vous pourriez également installer la solution de synchronisation et de partage de fichiers [Seafile](https://www.seafile.com/en/home/) sur vos propres serveurs." />}}
 
 ### Conseil pour les utilisateurs d'Airtable
 
 Vous trouverez [ici](https://seatable.io/fr/alternative-airtable) une comparaison détaillée d'Airtable et de SeaTable. En tant qu'utilisateur d'Airtable, vous avez en outre la possibilité de migrer facilement toutes les données de vos bases vers SeaTable à l'aide d'un script, sans connaissances en programmation. [Cet article d'aide](https://seatable.io/fr/docs/import-von-daten/migration-von-airtable-bases-zu-seatable/) explique comment cela fonctionne.
 
-{{< warning headline="Clause de non-responsabilité" text="Les lois sur la protection des données varient d'une région à l'autre et peuvent être modifiées à tout moment. Malgré des recherches approfondies, cet article ne remplace pas un conseil juridique obligatoire dans votre pays. Nous ne pouvons donc pas être tenus responsables d'éventuelles erreurs d'appréciation juridique." >}}
+{{< warning headline="Clause de non-responsabilité" text="Les lois sur la protection des données varient d'une région à l'autre et peuvent être modifiées à tout moment. Malgré des recherches approfondies, cet article ne remplace pas un conseil juridique obligatoire dans votre pays. Nous ne pouvons donc pas être tenus responsables d'éventuelles erreurs d'appréciation juridique." />}}

@@ -1,9 +1,9 @@
 ---
-title: "Organizar a criação de animais - como manter o seu animal de estimação de uma forma adequada à espécie"
+title: 'Organizar a criação de animais - como manter o seu animal de estimação de uma forma adequada à espécie'
 date: 2024-01-30
-lastmod: "2024-01-30"
-author: "lsc"
-url: "/pt/tierhaltung"
+lastmod: '2024-01-30'
+author: 'lsc'
+url: '/pt/tierhaltung'
 ---
 
 O cão é o melhor amigo do homem - é o que se diz frequentemente quando se trata da relação entre o dono e o **animal de estimação**. O gato é o animal de estimação mais popular na Alemanha, à frente do cão, seguido dos roedores, peixes e répteis. Um animal de estimação traz-nos alegria, é uma alma gémea ou é simplesmente bonito de se ver. No entanto, **manter** um animal de estimação também implica trabalho, uma vez que nos comprometemos durante muito tempo e temos de ter em conta as necessidades dos nossos animais de estimação.
@@ -43,26 +43,22 @@ Está a planear mudar-se com um novo companheiro animal e não tem a certeza se 
 O que diz o contrato de arrendamento sobre a posse de animais?|||
 
 O senhorio pode estipular no contrato de arrendamento certas restrições à posse de animais de estimação. Se não existir tal disposição no contrato de arrendamento, o senhorio não pode proibi-lo de ter animais de estimação, independentemente do animal que seja. A exceção é a detenção de animais perigosos.
-
-\--- 
+{{< /faq >}}
 
 Que restrições existem?|||
 
 Existe a chamada cláusula **de autorização**, que restringe a posse de animais de grande porte. Se esta cláusula estiver incluída no seu contrato de arrendamento, deve pedir autorização ao seu senhorio antes de se mudar com um animal. O senhorio pode proibi-lo de adquirir determinados animais em casos individuais, indicando o motivo.
-
-\--- 
+{{< /faq >}}
 
 Que animais posso ter sem autorização?|||
 
 **Os animais de pequeno** porte, como ratos, osgas ou peixes ornamentais, que não representem um perigo ou um incómodo sonoro ou olfativo e que sejam mantidos em gaiolas fechadas, terrários ou aquários, não necessitam de autorização.
-
-\--- 
+{{< /faq >}}
 
 Posso ter animais de estimação no meu apartamento temporariamente?|||
 
 É claro que não há nada de errado numa visita curta de um amigo com o seu animal de estimação. No entanto, deve obter o consentimento do senhorio se tomar conta de animais durante um período de tempo mais longo ou mesmo mediante pagamento.
-
-\---
+{{< /faq >}}
 
 ## A criação de animais custa tempo
 
@@ -72,7 +68,7 @@ Antes de adquirir um animal de estimação, deve ter em conta o impacto que este
 
 Se estiver ausente durante um período mais longo, por exemplo, porque vai de **férias**, deve [cuidar](https://www.lanuv.nrw.de/verbraucherschutz/tierschutz/tierhaltung/allgemeines/haustiere-in-der-urlaubszeit#:~:text=F%C3%BCr%20eine%20Reise%20ins%20Ausland,kann%20es%20ein%20Einreiseverbot%20geben.) do seu animal de estimação atempadamente. No caso dos roedores, muitas vezes é suficiente pedir a amigos e familiares que cuidem deles de vez em quando e os alimentem. Normalmente, isto não é suficiente para os animais de maior porte, pois estes precisam de exercício ativo e de estar perto das pessoas.
 
-{{< warning headline="Levar animais consigo nas férias" text="As férias também podem ser uma óptima experiência para os animais. No entanto, **viajar com animais** também significa muito stress. É necessário um **passaporte da UE** para gatos, cães e furões quando viajam para o estrangeiro. Podem também ser necessárias vacinas especiais e quarentena no destino de férias." >}}
+{{< warning headline="Levar animais consigo nas férias" text="As férias também podem ser uma óptima experiência para os animais. No entanto, **viajar com animais** também significa muito stress. É necessário um **passaporte da UE** para gatos, cães e furões quando viajam para o estrangeiro. Podem também ser necessárias vacinas especiais e quarentena no destino de férias." />}}
 
 Para férias mais longas, tem a possibilidade de levar o seu animal para um **canil**. Se comprou o seu animal de estimação a um criador, pode também perguntar-lhe se ele oferece cuidados durante as férias. Em todo o caso, não deve deixar o seu animal sozinho em casa.
 
@@ -147,7 +143,7 @@ Os **custos de aquisição** variam muito consoante o animal seja comprado a um 
 
 Tal como nós, os animais adoecem por vezes, mas muitas vezes escondem-no de nós. Por isso, é necessário consultar um veterinário, mesmo que haja pequenos desvios do comportamento normal do seu animal. **Os controlos preventivos** regulares podem ajudar a evitar doenças.
 
-{{< warning headline="Seguro de saúde para o seu animal de estimação" text="O seguro de saúde pode valer a pena para o seu animal de estimação, especialmente se tiver conhecimento de quaisquer condições pré-existentes. Os prémios de seguro começam em 200 euros por ano para os gatos e em 280 euros para os cães. [O seguro de cirurgia](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) também pode valer a pena para os animais de estimação mais velhos, uma vez que as operações podem rapidamente custar somas de quatro dígitos. Caso contrário, deve reservar dinheiro suficiente para o pagar em caso de emergência." >}}
+{{< warning headline="Seguro de saúde para o seu animal de estimação" text="O seguro de saúde pode valer a pena para o seu animal de estimação, especialmente se tiver conhecimento de quaisquer condições pré-existentes. Os prémios de seguro começam em 200 euros por ano para os gatos e em 280 euros para os cães. [O seguro de cirurgia](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) também pode valer a pena para os animais de estimação mais velhos, uma vez que as operações podem rapidamente custar somas de quatro dígitos. Caso contrário, deve reservar dinheiro suficiente para o pagar em caso de emergência." />}}
 
 Quando acolhe um animal, deve ir ao médico para um primeiro **exame de saúde**. São igualmente necessárias **vacinas** e **desparasitações** regulares.
 

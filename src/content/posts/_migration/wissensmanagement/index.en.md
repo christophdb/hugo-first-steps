@@ -1,9 +1,9 @@
 ---
-title: "Knowledge management: How to make knowledge usable"
+title: 'Knowledge management: How to make knowledge usable'
 date: 2024-08-09
-lastmod: "2024-08-09"
-author: "lsc"
-url: "/wissensmanagement"
+lastmod: '2024-08-09'
+author: 'lsc'
+url: '/wissensmanagement'
 ---
 
 Knowledge is one of the most important resources in any company. It is not for nothing that knowledge is already cited as a [production factor](https://de.wikipedia.org/wiki/Produktionsfaktor) alongside land, capital and labor when it comes to the success of a company. But what does it take to make the knowledge of your employees available to others in your company? The answer: a functioning **knowledge management system**!
@@ -16,7 +16,7 @@ Optimizing the handling of knowledge in the company - that's what knowledge _man
 
 You can achieve this by collecting the knowledge hidden in your company, processing it, making it accessible to everyone and ultimately applying it effectively.
 
-{{< warning headline="Knowledge management in science" text="Since the 1990s, knowledge management has also played an important role in science. The focus here is on the development of scientific models from knowledge production (e.g. through research) to knowledge transfer and the storage of knowledge." >}}
+{{< warning headline="Knowledge management in science" text="Since the 1990s, knowledge management has also played an important role in science. The focus here is on the development of scientific models from knowledge production (e.g. through research) to knowledge transfer and the storage of knowledge." />}}
 
 ## Not all knowledge is the same
 
@@ -135,44 +135,37 @@ If you want to set up successful knowledge management in your company, you can h
 Wikis and information management systems|||
 
 Examples: Confluence, Guru
-
-\--- 
+{{< /faq >}}
 
 Groupware and collaboration systems|||
 
 Examples: BSCW, Microsoft SharePoint
-
-\--- 
+{{< /faq >}}
 
 Instant messengers and communication systems|||
 
 Examples: Slack, Microsoft Teams
-
-\--- 
+{{< /faq >}}
 
 Document management and file exchange systems|||
 
 Examples: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-
-\--- 
+{{< /faq >}}
 
 Customer relationship management systems|||
 
 Examples: Pipedrive, Salesforce
-
-\--- 
+{{< /faq >}}
 
 Project management systems|||
 
 Examples: Asana, Jira
-
-\--- 
+{{< /faq >}}
 
 HR and personnel management systems|||
 
 Examples: Personio, DATEV
-
-\--- 
+{{< /faq >}}
 
 Content management systems|||
 

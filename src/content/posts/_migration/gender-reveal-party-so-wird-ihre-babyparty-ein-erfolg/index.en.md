@@ -1,10 +1,10 @@
 ---
-title: "Gender reveal party: How to make your baby shower a success"
+title: 'Gender reveal party: How to make your baby shower a success'
 date: 2024-02-16
-lastmod: "2024-02-16"
-coverImage: "Gender-Reveal-Party-organisieren-e1706793584661.jpg"
-author: "lsc"
-url: "/gender-reveal-party-so-wird-ihre-babyparty-ein-erfolg"
+lastmod: '2024-02-16'
+coverImage: 'Gender-Reveal-Party-organisieren-e1706793584661.jpg'
+author: 'lsc'
+url: '/gender-reveal-party-so-wird-ihre-babyparty-ein-erfolg'
 ---
 
 A baby is on the way and you want to celebrate in style? Then a **gender reveal party** is the right thing for you. This trend from the USA involves revealing the gender of the baby in an impressive way. If you want to organize such a **baby shower**, you need to plan carefully how to coordinate the decorations, food and program.
@@ -15,7 +15,7 @@ Here you can find out what you should bear in mind when organizing your Gender R
 
 The Gender Reveal Party focuses on the **unveiling of the** baby's **gender**. The parents-to-be celebrate the imminent birth of the child together with friends and relatives - with a lot of fanfare. The decorations, food and games are planned down to the smallest detail to heighten the anticipation of the gender reveal.
 
-![Get your guests in the mood with a blackboard with the question &#039;he or she?](images/frederick-medina-hGLVkyNoYpQ-unsplash-e1707224889549-711x924.jpg)
+![Get your guests in the mood with a blackboard with the question 'he or she?](images/frederick-medina-hGLVkyNoYpQ-unsplash-e1707224889549-711x924.jpg)
 
 The whole celebration revolves around this question.
 
@@ -23,7 +23,7 @@ The actual unveiling is done in a spectacular way. For example, you can cut a ca
 
 ## Who will organize the Gender Reveal Party?
 
-There are basically **two options** for who takes care of the organization of the Gender Reveal Party. This depends on who of those present you would like to surprise with the gender reveal.  
+There are basically **two options** for who takes care of the organization of the Gender Reveal Party. This depends on who of those present you would like to surprise with the gender reveal.
 
 ### Surprise for the parents-to-be
 
@@ -35,7 +35,7 @@ If the parents would like to find out the gender of their child in peace, they c
 
 ## 7 steps to your perfect baby shower
 
-Would you like to throw a gender reveal party for yourself or your friends, but don't know what all needs to be organized? Here you will find an overview of the tasks that await you on the way to a successful event.  
+Would you like to throw a gender reveal party for yourself or your friends, but don't know what all needs to be organized? Here you will find an overview of the tasks that await you on the way to a successful event.
 
 ![Here you can find out how to organize your Gender Reveal Party in 7 steps.](images/Gender-Reveal-Party-organisieren-e1706793584661-711x939.jpg)
 
@@ -63,7 +63,7 @@ A gender reveal party is an intimate and personal affair. You should therefore o
 
 A **guest list** gives you an initial overview and allows you to adapt the next planning steps to the number of guests expected.
 
-{{< warning headline="Ideas for the invitation card" text="Give the invitations a personal touch by designing them yourself. Increase the guests' anticipation with titles such as "Will it be a boy or a girl?". You can keep the card in the same color scheme as the decorations for your party." >}}
+{{< warning headline="Ideas for the invitation card" text="Give the invitations a personal touch by designing them yourself. Increase the guests' anticipation with titles such as "Will it be a boy or a girl?". You can keep the card in the same color scheme as the decorations for your party." />}}
 
 Send out the invitations early and set a **deadline for accepting or canceling** them. Also ask whether partners or children will be coming along. You should also briefly explain how a Gender Reveal Party works so that guests can prepare for the event.
 
@@ -79,7 +79,7 @@ Decide on a suitable color combination.
 
 ## 5\. plan catering
 
-Of course, food to match the decorations should not be missing. If you decide to invite guests for coffee and cake, a well-stocked **Sweet Table** a must. The color scheme you choose is reflected in the desserts. Cakes, cookies or cupcakes with colored icing invite you to snack.  
+Of course, food to match the decorations should not be missing. If you decide to invite guests for coffee and cake, a well-stocked **Sweet Table** a must. The color scheme you choose is reflected in the desserts. Cakes, cookies or cupcakes with colored icing invite you to snack.
 
 ![Present the food at your gender reveal party in an appealing way.](images/pexels-fu-zhichao-587741-e1707223367993-711x597.jpg)
 
@@ -105,7 +105,7 @@ The moment everyone has been waiting for has finally arrived. Will it be a boy, 
 
 ### Gender Reveal Party with balloons
 
-Balloons are very popular. One option is to fill a black balloon with glitter in the color chosen for the gender and then blow it up. The parents-to-be can pop the surprise with a pin or a dart.  
+Balloons are very popular. One option is to fill a black balloon with glitter in the color chosen for the gender and then blow it up. The parents-to-be can pop the surprise with a pin or a dart.
 
 ![Use a large black balloon to keep the baby's gender a secret until the last moment.](images/pexels-tima-miroshnichenko-6461822-e1707224120257-711x504.jpg)
 
@@ -117,11 +117,11 @@ If you want a little more of the image of the reveal, you can also opt for anoth
 
 It is especially nice for the guests if they are included in the announcement of the gender. One way of doing this is to hand out opaque bags to all guests. These contain **powder** in the respective color. After a countdown, everyone throws the contents into the air and can enjoy the color image that appears.
 
-{{< warning headline="Explosive unveiling with confetti or smoke cannon" text="The use of **confetti or smoke cannons** is a little more daring. The sex of the child is announced with a bang. The unveiling with the smoke cannon in particular makes for dramatic photo moments." >}}
+{{< warning headline="Explosive unveiling with confetti or smoke cannon" text="The use of **confetti or smoke cannons** is a little more daring. The sex of the child is announced with a bang. The unveiling with the smoke cannon in particular makes for dramatic photo moments." />}}
 
 ### A sweet surprise
 
-The classic gender reveal is the **Cake**. Order or bake a multi-tiered cake with a colored cream filling or colored chocolate drops, depending on the gender. The outside of the cake matches the color scheme of the decoration. The gender of the child is only revealed when the cake is cut.  
+The classic gender reveal is the **Cake**. Order or bake a multi-tiered cake with a colored cream filling or colored chocolate drops, depending on the gender. The outside of the cake matches the color scheme of the decoration. The gender of the child is only revealed when the cake is cut.
 
 ![A gender reveal cake reveals the gender of the baby.](images/pexels-tima-miroshnichenko-6461826-711x474.jpg)
 
@@ -129,13 +129,13 @@ Enjoy a delicious surprise.
 
 ## Capturing memories
 
-A gender reveal party is not just a unique event for the parents-to-be. Capture the day with photos so that it will be remembered forever. The best way to do this is to use a **Photographers** who will take pictures of the many happy moments. Alternatively, guests can get active themselves. Hand out **Disposable or instant cameras** to those present, allowing them to capture the day in all its facets as they please.  
+A gender reveal party is not just a unique event for the parents-to-be. Capture the day with photos so that it will be remembered forever. The best way to do this is to use a **Photographers** who will take pictures of the many happy moments. Alternatively, guests can get active themselves. Hand out **Disposable or instant cameras** to those present, allowing them to capture the day in all its facets as they please.
 
 ![Assign someone to take photos during the Gender Reveal Party.](images/pexels-nicole-michalou-5775047-e1707226227633-711x671.jpg)
 
 Capture the celebration in pictures.
 
-{{< warning headline="Tip" text="You can use the pictures afterwards to inform relatives and friends who were unable to attend your party about the sex of the baby." >}}
+{{< warning headline="Tip" text="You can use the pictures afterwards to inform relatives and friends who were unable to attend your party about the sex of the baby." />}}
 
 ## Alternative ideas for your baby shower
 
@@ -143,7 +143,7 @@ Would you like to celebrate your pregnancy with friends and family, but a gender
 
 ### Babyshower
 
-Let it rain presents! Traditionally, this **Baby shower** organized by friends of the expectant mother and takes place with female acquaintances and relatives. The guests bring **Gifts** for the parents-to-be and the baby.  
+Let it rain presents! Traditionally, this **Baby shower** organized by friends of the expectant mother and takes place with female acquaintances and relatives. The guests bring **Gifts** for the parents-to-be and the baby.
 
 ![Soft toys, brushes or washcloths are useful gifts for parents-to-be.](images/elliot-verhaeren-sMjqcAOretU-unsplash-e1707226580159-711x575.jpg)
 

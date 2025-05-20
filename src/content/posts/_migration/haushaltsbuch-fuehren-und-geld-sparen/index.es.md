@@ -1,9 +1,9 @@
 ---
-title: "Lleve un libro de presupuesto: Ahorra dinero con estos 12 consejos"
+title: 'Lleve un libro de presupuesto: Ahorra dinero con estos 12 consejos'
 date: 2024-01-02
-lastmod: "2024-01-03"
-author: "kgr"
-url: "/es/haushaltsbuch-fuehren-und-geld-sparen"
+lastmod: '2024-01-03'
+author: 'kgr'
+url: '/es/haushaltsbuch-fuehren-und-geld-sparen'
 ---
 
 A veces no es fácil controlar los gastos. Ocurre con demasiada frecuencia que el dinero desaparece a final de mes y apenas se recuerda en qué se ha gastado. Es precisamente entonces cuando un **libro de** presupuestos viene al rescate y pone orden en el caos financiero.
@@ -75,7 +75,7 @@ Las suscripciones innecesarias de streaming pueden resultar caras.
 
 Además de las suscripciones a espectáculos, las **cuotas de gimnasios, clubes deportivos o escuelas de baile** también forman parte de los gastos fijos mensuales. Pero ya sabes lo que pasa: una vez que te has apuntado, enseguida pierdes la motivación y sólo acudes esporádicamente. Puedes ahorrarte estos gastos corrientes haciendo ejercicio en casa con medios sencillos, como mancuernas o bandas elásticas, o haciendo **ejercicios con tu propio peso**: Los abdominales, las sentadillas y las flexiones no cuestan un céntimo. También puedes trasladar gratis del gimnasio al aire libre tu entrenamiento cardiovascular en bicicleta o cinta de correr.
 
-{{< warning headline="Consejo" text="En [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) puedes encontrar numerosos **vídeos** que te motivan a hacer aerobic, power yoga o ejercicios en tus propias cuatro paredes." >}}
+{{< warning headline="Consejo" text="En [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) puedes encontrar numerosos **vídeos** que te motivan a hacer aerobic, power yoga o ejercicios en tus propias cuatro paredes." />}}
 
 ### 4\. invitar a amigos a casa
 
@@ -85,7 +85,7 @@ Noches de juegos, fiestas o cocinar algo delicioso juntos: **Las actividades en 
 
 ¿Se han mudado sus hijos, ha vendido su coche o apenas utiliza su sótano? Si tienes más espacio habitable o de almacenaje del que necesitas, tiene sentido alquilarlo. Puedes alquilar una **habitación** vacía a viajeros a corto plazo a través de portales como AirBnB, por ejemplo, o -si un piso compartido es una opción para ti- a subarrendatarios de forma permanente.
 
-{{< warning headline="Atención" text="Si no es usted el propietario de su piso, el arrendador debe dar su consentimiento al subarriendo." >}}
+{{< warning headline="Atención" text="Si no es usted el propietario de su piso, el arrendador debe dar su consentimiento al subarriendo." />}}
 
 Lo mismo ocurre si en su casa hay un **garaje**, un **aparcamiento** o **un sótano** que no necesita. [Alquilar una propiedad](https://seatable.io/es/hausverwaltung/) puede generar muchos ingresos a largo plazo, lo que complacerá el presupuesto de tu hogar.
 
@@ -103,7 +103,7 @@ Si tu casa está bien comunicada con el **transporte público**, puedes utilizar
 
 No tiene por qué comprar cosas nuevas para su casa o su armario. Los **artículos de segunda mano** en buen estado suelen costar menos de la mitad y son más asequibles. Echa un vistazo en las **tiendas de segunda mano**, **mercadillos** o **mercados online** de tu barrio. Para ahorrar dinero de esta forma, sin embargo, necesitarás un poco más de paciencia que para ir de compras.
 
-{{< warning headline="Atención: ¡trampa de costes!" text="Los frigoríficos, lavadoras y otros electrodomésticos viejos suelen ser muy baratos. Pero en el caso de estos electrodomésticos en particular, es importante tener en cuenta los costes a lo largo de toda su vida útil. Un electrodoméstico que cuesta 200 euros más cuando es nuevo, pero dura diez años más y consume un 20% menos de electricidad, puede ahorrarle mucho más de 200 euros. Por tanto, es mejor optar por electrodomésticos de alta calidad. Las bombillas LED también son más caras, pero sólo consumen una décima parte de electricidad que las bombillas convencionales." >}}
+{{< warning headline="Atención: ¡trampa de costes!" text="Los frigoríficos, lavadoras y otros electrodomésticos viejos suelen ser muy baratos. Pero en el caso de estos electrodomésticos en particular, es importante tener en cuenta los costes a lo largo de toda su vida útil. Un electrodoméstico que cuesta 200 euros más cuando es nuevo, pero dura diez años más y consume un 20% menos de electricidad, puede ahorrarle mucho más de 200 euros. Por tanto, es mejor optar por electrodomésticos de alta calidad. Las bombillas LED también son más caras, pero sólo consumen una décima parte de electricidad que las bombillas convencionales." />}}
 
 Busca también **ofertas especiales** de los comercios. [Comparar precios](https://seatable.io/es/vorlage/fsbfwc4fqocgqed7vczq9g/) puede merecer la pena, sobre todo si estás pensando en hacer una nueva compra cara.
 
@@ -131,9 +131,9 @@ Si compras platos precocinados caros en el supermercado cada mediodía, pides co
 
 Los astutos gurús del fitness y sus empresas utilizan un marketing tentador para hacernos creer que necesitamos complementar nuestra dieta con suplementos especiales, por ejemplo para ganar músculo, aumentar el metabolismo o reforzar el sistema inmunitario. Se gastan miles de millones en proteínas en polvo y píldoras vitamínicas, la mayoría de las cuales son completamente superfluas.
 
-En lugar de eso, asegúrate de seguir una dieta equilibrada, hacer suficiente ejercicio y llevar un estilo de vida saludable, y entonces podrás prescindir de las supuestas curas milagrosas que sólo acaban engrosando tu presupuesto doméstico.  
+En lugar de eso, asegúrate de seguir una dieta equilibrada, hacer suficiente ejercicio y llevar un estilo de vida saludable, y entonces podrás prescindir de las supuestas curas milagrosas que sólo acaban engrosando tu presupuesto doméstico.
 
-{{< warning headline="Nota importante" text="Si los médicos han demostrado que tiene carencias de vitaminas u oligoelementos, por supuesto no debe escatimar en medicamentos que contengan los principios activos necesarios en concentración suficiente." >}}
+{{< warning headline="Nota importante" text="Si los médicos han demostrado que tiene carencias de vitaminas u oligoelementos, por supuesto no debe escatimar en medicamentos que contengan los principios activos necesarios en concentración suficiente." />}}
 
 ### 12\. fin de los vicios caros
 

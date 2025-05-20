@@ -1,10 +1,10 @@
 ---
-title: "House hunting - 10 tips on how to find an apartment"
+title: 'House hunting - 10 tips on how to find an apartment'
 date: 2023-12-18
-lastmod: "2023-12-18"
-coverImage: "Wohnungssuche-Kriterien.png"
-author: "nsc"
-url: "/wohnungssuche"
+lastmod: '2023-12-18'
+coverImage: 'Wohnungssuche-Kriterien.png'
+author: 'nsc'
+url: '/wohnungssuche'
 ---
 
 Whether it's your first apartment, your third shared flat this year or a new retreat for the whole family - everyone **looking for a home** faces the same challenge. The situation on the housing market is tense: Affordable apartments are in short supply, while rents continue to rise. But there are always nice apartments becoming available or old apartment buildings being renovated. You should be well prepared for these opportunities in order to be able to assert yourself against your numerous competitors.
@@ -25,7 +25,7 @@ Checklist for the perfect apartment search.
 
 To convince your future landlord of your merits, you need to make a good first impression. A **cover letter** in which you include a personal touch in addition to the usual facts will be more memorable than standard phrases. You can also impress your prospective landlord with a **profile** or CV. If possible, ask your current landlord for a **certificate of no rent arrears** or even a letter of recommendation. In any case, you will need your most recent payslips and a **Schufa credit check**.
 
-{{< warning headline="Tip" text="Many landlords also accept the [data copy (in accordance with Art. 15 GDPR)](https://www.meineschufa.de/de/datenkopie). In contrast to the Schufa credit check, the data copy is free of charge." >}}
+{{< warning headline="Tip" text="Many landlords also accept the [data copy (in accordance with Art. 15 GDPR)](https://www.meineschufa.de/de/datenkopie). In contrast to the Schufa credit check, the data copy is free of charge." />}}
 
 ## 3\. check your requirements before looking for an apartment
 
@@ -44,7 +44,7 @@ There are several everyday methods for finding apartments. For example, some lan
 
 If this is too time-consuming, you can also turn to more official agencies. Tenants can also use **estate agents** to find accommodation, but they charge a commission. According to the law, the estate agent's commission may not exceed two net cold rents plus VAT. Another option is to contact **property management companies** directly. They often have an [overview](https://seatable.io/en/hausverwaltung/) and can arrange apartments that will soon become available.
 
-{{< warning headline="Tip" text="In the event of a rejection, it is worth asking the landlord whether there is a **list of interested parties**. Especially if they own several rental units, they can contact you as soon as another apartment becomes available." >}}
+{{< warning headline="Tip" text="In the event of a rejection, it is worth asking the landlord whether there is a **list of interested parties**. Especially if they own several rental units, they can contact you as soon as another apartment becomes available." />}}
 
 ## 5\. find apartments online
 

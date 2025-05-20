@@ -1,9 +1,9 @@
 ---
-title: "Planifier des funérailles - pour des adieux dans la dignité"
+title: 'Planifier des funérailles - pour des adieux dans la dignité'
 date: 2023-08-17
-lastmod: "2024-01-25"
-author: "kgr"
-url: "/fr/beerdigung-planen"
+lastmod: '2024-01-25'
+author: 'kgr'
+url: '/fr/beerdigung-planen'
 ---
 
 Vous avez perdu un être cher et souhaitez que les funérailles à venir se déroulent sans encombre ? Ou vous souhaitez organiser vos propres funérailles afin de soulager vos proches après votre décès ? Cet article vous fournit toutes les informations importantes dont vous devez tenir compte pour l'organisation des obsèques.
@@ -13,26 +13,22 @@ Vous avez perdu un être cher et souhaitez que les funérailles à venir se dér
 Combien coûtent des funérailles ?|||
 
 Le coût d'un enterrement peut varier de quelques milliers à plusieurs dizaines de milliers d'euros. Un enterrement moyen en Allemagne coûte environ 13.000 euros. Pour savoir où vous pouvez éventuellement économiser sur les frais, consultez l'article.
-
-\--- 
+{{< /faq >}}
 
 Où peut-on se faire enterrer ?|||
 
 En Allemagne, seuls deux types d'enterrement sont en principe autorisés : l'inhumation et la crémation. Toutefois, il existe un certain nombre d'endroits au choix où le corps ou les cendres peuvent être enterrés. Il s'agit notamment des cimetières, des columbariums ou de zones sélectionnées dans la nature. Pour en savoir plus, consultez le chapitre correspondant.
-
-\--- 
+{{< /faq >}}
 
 Quels sont les documents nécessaires pour un enterrement ?|||
 
 Vous aurez notamment besoin de la carte d'identité du défunt, de son acte de naissance et de son acte de mariage, ainsi que de l'acte de décès et du certificat de décès. L'article vous explique également comment vous procurer ces documents.
-
-\--- 
+{{< /faq >}}
 
 Faut-il faire appel à une entreprise de pompes funèbres ?|||
 
 Oui. En Allemagne, la loi stipule que certaines activités, comme le transport du corps, ne peuvent être effectuées que par un entrepreneur de pompes funèbres.
-
-\--- 
+{{< /faq >}}
 
 Qui inviter aux funérailles ?|||
 
@@ -54,7 +50,7 @@ C'est pourquoi il est conseillé de parler ouvertement de la mort et des funéra
 
 Afin d'éviter le chaos en cas de décès, il est préférable de déterminer au préalable qui s'occupera des obsèques et du règlement de vos affaires juridiques. Décidez d'une ou de plusieurs **personnes de confiance**. Il peut s'agir de parents proches comme le conjoint, les enfants ou les frères et sœurs, mais aussi d'amis proches.
 
-{{< warning headline="Remarque importante" text="N'oubliez pas de donner à vos personnes de confiance une [procuration](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) qui leur permettra, entre autres, d'accéder à vos comptes après votre décès. Sinon, les personnes responsables risquent de ne pas pouvoir agir, car elles devront attendre des semaines, voire des mois, l'ouverture du testament ou la délivrance d'un certificat d'héritier." >}}
+{{< warning headline="Remarque importante" text="N'oubliez pas de donner à vos personnes de confiance une [procuration](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) qui leur permettra, entre autres, d'accéder à vos comptes après votre décès. Sinon, les personnes responsables risquent de ne pas pouvoir agir, car elles devront attendre des semaines, voire des mois, l'ouverture du testament ou la délivrance d'un certificat d'héritier." />}}
 
 ![Planifier des funérailles - en cas d'urgence, les personnes concernées ne savent souvent pas par quoi commencer.](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
@@ -78,9 +74,9 @@ Peut-être y a-t-il des parents ou des amis à côté desquels vous aimeriez rep
 
 Un dernier repos paisible dans la nature est de plus en plus apprécié.
 
-En Allemagne, les enterrements ne sont toutefois pas du tout autorisés partout, mais uniquement dans des zones autorisées !  
+En Allemagne, les enterrements ne sont toutefois pas du tout autorisés partout, mais uniquement dans des zones autorisées !
 
-{{< warning headline="Attention" text="Il est par exemple **interdit** d'enterrer les défunts dans son propre jardin ou de ramener les cendres chez soi. En Allemagne, il est également interdit de créer des diamants artificiels à partir des cendres d'un défunt, de lancer les cendres dans le ciel nocturne lors d'un feu d'artifice ou de les envoyer dans l'espace à l'aide d'une fusée." >}}
+{{< warning headline="Attention" text="Il est par exemple **interdit** d'enterrer les défunts dans son propre jardin ou de ramener les cendres chez soi. En Allemagne, il est également interdit de créer des diamants artificiels à partir des cendres d'un défunt, de lancer les cendres dans le ciel nocturne lors d'un feu d'artifice ou de les envoyer dans l'espace à l'aide d'une fusée." />}}
 
 Discutez avec vos proches de la manière dont ils aimeraient se souvenir de vous. En effet, les avis sont très partagés sur la manière dont on souhaite se souvenir d'un être cher : certains préfèrent une tombe comme lieu de commémoration, d'autres un objet personnel ou des photos en souvenir de la personne décédée ; et d'autres encore font chaque année, le jour du décès, quelque chose qui leur rappelle les moments passés ensemble.
 
@@ -173,7 +169,7 @@ Les vêtements de deuil ne sont toutefois pas obligatoires. Les cérémonies fun
 
 En cas de décès d'un être cher, vous devez **en informer** le plus rapidement possible **toutes les personnes qui vous sont proches**. Cela inclut les parents, les amis, les connaissances, les voisins et les collègues de travail. Le mieux est de faire une liste de toutes les personnes concernées et de les contacter avant même d'avoir réglé les détails de la cérémonie funéraire. Ainsi, tous les proches auront la possibilité d'assimiler le décès et, le cas échéant, de demander un congé spécial.
 
-{{< warning headline="Congé spécial" text="Il n'existe **pas de dispositions légales** relatives aux congés spéciaux en cas de décès. Renseignez-vous auprès de votre employeur pour savoir s'il accorde un congé spécial payé au-delà des jours de congé convenus dans le contrat de travail. **Il est d'usage de prévoir 1 à 2 jours de congé spécial en cas de décès d'un membre de la famille proche.** Il s'agit du conjoint, des enfants, des parents, des beaux-parents, des grands-parents et des frères et sœurs." >}}
+{{< warning headline="Congé spécial" text="Il n'existe **pas de dispositions légales** relatives aux congés spéciaux en cas de décès. Renseignez-vous auprès de votre employeur pour savoir s'il accorde un congé spécial payé au-delà des jours de congé convenus dans le contrat de travail. **Il est d'usage de prévoir 1 à 2 jours de congé spécial en cas de décès d'un membre de la famille proche.** Il s'agit du conjoint, des enfants, des parents, des beaux-parents, des grands-parents et des frères et sœurs." />}}
 
 Pour **informer les personnes endeuillées**, vous avez, dans le meilleur des cas, accès à une liste de contacts dans le téléphone portable ou le compte e-mail du défunt. Si vous connaissez très bien l'entourage du défunt, vous pouvez également noter les personnes de mémoire et trouver leurs coordonnées. Si la personne décédée était active sur les médias sociaux, vous pouvez écrire à des contacts sur ces sites.
 

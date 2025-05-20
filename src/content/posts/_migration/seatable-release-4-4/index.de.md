@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.4: Universal App, Excel Import & Common Datasets"
+title: 'SeaTable 4.4: Universal App, Excel Import & Common Datasets'
 date: 2024-05-15
-lastmod: "2024-05-15"
-author: "kgr"
-url: "/de/seatable-release-4-4"
+lastmod: '2024-05-15'
+author: 'kgr'
+url: '/de/seatable-release-4-4'
 ---
 
 In SeaTable 4.4 setzen wir die Entwicklung des Universal App Builders mit Verve fort. Viele neue Funktionen ermöglichen noch leistungsfähigere und komfortablere Webanwendungen. Darüber hinaus haben wir die Importfunktion und die gemeinsamen Datensätze aufpoliert. Die praktischen Standardwerte greifen nun universell.
@@ -44,13 +44,13 @@ In Version 4.4 können Sie auf der [individuellen Seite](https://seatable.io/doc
 
 Wie in den letzten Release Notes angekündigt, haben wir in SeaTable 4.4 den **Galerie App Builder entfernt**. Wenn Sie eine neue App mit einer [Galerie](https://seatable.io/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) anlegen wollen, dann steht Ihnen mit dem Universal App Builder eine funktional höherwertige Alternative zur Verfügung.
 
-{{< warning headline="Gut zu wissen" text="**Bestehende Galerie-Apps funktionieren weiterhin**. Wir empfehlen aber, bestehende Galerie-Apps auf Universelle Apps umzustellen, um von Weiterentwicklungen und Verbesserungen zu profitieren." >}}
+{{< warning headline="Gut zu wissen" text="**Bestehende Galerie-Apps funktionieren weiterhin**. Wir empfehlen aber, bestehende Galerie-Apps auf Universelle Apps umzustellen, um von Weiterentwicklungen und Verbesserungen zu profitieren." />}}
 
 ![Create app dialog](images/Create-app-dialog-.png)
 
 Auch bei der [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) hat sich einiges getan. Der alte App Builder für Datenabfragen wurde entfernt und durch einen neuen auf Basis des Universal App Builders ersetzt. Das heißt: Sie können natürlich weiterhin öffentliche Apps für die Abfrage Ihrer Bases anlegen, das Interface sieht nun aber aus wie im Universal App Builder. Für bestehende Abfrage-Apps gilt das Gleiche wie für Galerie-Apps: Sie müssen nichts tun und können diese weiter verwenden.
 
-{{< warning headline="Effizienzgewinn" text="Durch die beschriebenen Änderungen können wir uns auf die Weiterentwicklung des Universal App Builders fokussieren und damit eine höhere Entwicklungsgeschwindigkeit für kommende Features erreichen." >}}
+{{< warning headline="Effizienzgewinn" text="Durch die beschriebenen Änderungen können wir uns auf die Weiterentwicklung des Universal App Builders fokussieren und damit eine höhere Entwicklungsgeschwindigkeit für kommende Features erreichen." />}}
 
 ## Angenehmere User Experience beim Excel Import
 
@@ -58,24 +58,23 @@ Mit SeaTable 4.4 wird der [Import von Excel Tabellen](https://seatable.io/docs/i
 
 ![Excel-Import](images/Excel-Import.png)
 
-{{< warning headline="Kleiner Vorgeschmack" text="Mit SeaTable 5.0 machen wir den Import noch flexibler! Dann lassen sich auch einzelne Spalten einer Tabelle auswählen und vom Import ausschließen." >}}
+{{< warning headline="Kleiner Vorgeschmack" text="Mit SeaTable 5.0 machen wir den Import noch flexibler! Dann lassen sich auch einzelne Spalten einer Tabelle auswählen und vom Import ausschließen." />}}
 
 ## Mehr Funktionen für gemeinsame Datensätze
 
 [Gemeinsame Datensätze](https://seatable.io/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) sind sehr nützlich, wenn Sie und Ihre Teammitglieder bestimmte Tabellen (z. B. eine Mitarbeiterliste) über verschiedene [Gruppen](https://seatable.io/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) hinweg in Ihren Bases benötigen. Mit SeaTable 4.4 kommen zu den bestehenden Funktionen drei weitere hinzu:
 
 1. Wenn Sie eine [Base kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/), in die gemeinsame Datensätze eingebunden sind, können Sie entscheiden, ob Sie die Verbindung zu diesen Datensätzen beibehalten wollen. Die Gruppe, in die Sie die Base kopieren, muss dafür natürlich Zugriff auf die gemeinsamen Datensätze haben.
-    
+
     ![Retain link to common dataset when copying a base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
-    
+
 2. Nach der [Wiederherstellung von Bases aus Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) oder der [Erstellung einer Base aus einer Vorlage](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) können Sie bestehende Tabellen mit einem gemeinsamen Datensatz verknüpfen und dadurch die Synchronisation mit den dortigen Daten ermöglichen. Bisher ließen sich gemeinsame Datensätze nicht reimportieren, sondern nur in neue Tabellen einbinden.
-    
+
     ![Reimport common dataset](images/Reimport-common-dataset.gif)
-    
+
 3. Der Ersteller eines gemeinsamen Datensatzes kann neuerdings die [Synchronisation](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) aller abhängigen Tabellen mit dem Datensatz erzwingen und so sicherstellen, dass die anderen Benutzer in ihren Bases den aktuellen Stand der Daten verwenden. In der Vergangenheit mussten Sie darauf vertrauen, dass die Benutzer die automatische Synchronisation eingerichtet haben oder die Synchronisation manuell anstoßen.
-    
+
     ![Force sync of common dataset](images/Force-sync-of-common-dataset.png)
-    
 
 ## Standardwerte greifen überall
 
@@ -85,7 +84,7 @@ Da sich der Wirkungsbereich der Standardwerte erheblich vergrößert hat, haben 
 
 ![Standardwert greift überall bei neuen Zeilen](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
-{{< warning headline="Hinweis" text="Wenn sowohl in der Tabelle als auch im Webformular ein Standardwert definiert ist, greift der Wert aus dem Formular für alle Zeilen, die über das Formular erstellt werden." >}}
+{{< warning headline="Hinweis" text="Wenn sowohl in der Tabelle als auch im Webformular ein Standardwert definiert ist, greift der Wert aus dem Formular für alle Zeilen, die über das Formular erstellt werden." />}}
 
 Übrigens: Sogar bei der Neuanlage von Zeilen per API können Sie die Standardwerte mit dem entsprechenden Parameter aktivieren.
 

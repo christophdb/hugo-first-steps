@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 5.1 : plus de fonctions/confort dans App Builder & Big Data"
+title: 'SeaTable 5.1 : plus de fonctions/confort dans App Builder & Big Data'
 date: 2024-11-08
-lastmod: "2024-11-08"
-author: "rdb"
-url: "/fr/seatable-release-5-1"
+lastmod: '2024-11-08'
+author: 'rdb'
+url: '/fr/seatable-release-5-1'
 ---
 
 La version 5.1 de SeaTable met l'accent sur l'amélioration des fonctions existantes et leur optimisation pour des cas d'utilisation pratiques. En particulier, l'**App Builder**, officiellement lancé avec la version 5.0, a fait l'objet d'une attention particulière et permet désormais de créer des applications web encore plus performantes. Mais les utilisateurs de l'**espace de stockage de données volumineuses** bénéficient également d'importantes améliorations. Le nouveau **plug-in Tree** offre une possibilité de visualisation supplémentaire pour les données hiérarchiques. Nous vous informons de toutes les nouveautés importantes dans ces notes de mise à jour. Dans le [changelog](https://seatable.io/fr/docs/changelog/version-5-1/), vous trouverez - comme toujours - la liste complète des modifications.
@@ -62,7 +62,7 @@ Presque aussi frappant est le **message d'avertissement jaune** qui apparaît da
 
 À la demande de nombreux utilisateurs, l'**opération de traitement des données** [Comparer et relier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) est désormais disponible dans les vues Big Data. Cette opération peut relier des entrées dans la mémoire Big Data à des lignes dans n'importe quelle autre table, que les lignes de la table reliée soient stockées dans la base ou dans la mémoire Big Data.
 
-{{< warning headline="Remarque" text="La vitesse d'exécution est nettement plus lente que la même opération dans une vue normale, car lors de l'exécution dans des vues normales, toutes les informations sur les lignes se trouvent déjà dans la mémoire de travail." >}}
+{{< warning headline="Remarque" text="La vitesse d'exécution est nettement plus lente que la même opération dans une vue normale, car lors de l'exécution dans des vues normales, toutes les informations sur les lignes se trouvent déjà dans la mémoire de travail." />}}
 
 Afin d'améliorer la traçabilité des modifications apportées aux lignes dans la mémoire Big Data, SeaTable 5.1 propose un **journal Big Data** séparé. Ce journal, qui enregistre les modifications et les suppressions de lignes, apparaît dès que la mémoire Big Data est activée dans la base.
 
@@ -70,7 +70,7 @@ Afin d'améliorer la traçabilité des modifications apportées aux lignes dans 
 
 Les apps peuvent certes accéder aux données dans la mémoire Big Data, mais les entrées créées dans les apps ne pouvaient pas y être enregistrées directement. Les nouvelles entrées étaient toujours enregistrées dans la base. Nous avons comblé cette lacune fonctionnelle avec SeaTable 5.1. La base reste l'**emplacement par défaut des nouvelles entrées**, mais ce paramètre peut être modifié dans les [paramètres de l'application](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). Comme le montre la capture d'écran, vous pouvez déterminer, tableau par tableau, si les nouvelles lignes doivent être écrites dans la base ou dans la mémoire Big Data.
 
-![Nouvelle gestion des données de masse dans l&#039;App Builder de SeaTable](https://seatable.io/wp-content/uploads/2024/11/BigDataManagement_AppBuilder.png)
+![Nouvelle gestion des données de masse dans l'App Builder de SeaTable](https://seatable.io/wp-content/uploads/2024/11/BigDataManagement_AppBuilder.png)
 
 Mais nous n'avons pas seulement amélioré l'intégration avec les apps, le [plugin de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) offre également de nouvelles possibilités. Le plugin a désormais accès à la mémoire Big Data et peut **créer des documents pour les lignes de la mémoire Big Data**.
 

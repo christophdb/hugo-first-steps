@@ -1,10 +1,10 @@
 ---
-title: "Fleet management: How to manage your fleet cleverly"
+title: 'Fleet management: How to manage your fleet cleverly'
 date: 2024-01-09
-lastmod: "2025-02-12"
-coverImage: "fuhrparkmanagement-mit-seatable.jpg"
-author: "kgr"
-url: "/fuhrparkmanagement"
+lastmod: '2025-02-12'
+coverImage: 'fuhrparkmanagement-mit-seatable.jpg'
+author: 'kgr'
+url: '/fuhrparkmanagement'
 ---
 
 Whether trucks, buses or classic company cars: managing a fleet of vehicles is a multifaceted task for companies of all sizes and there are a number of things to consider. The following article is therefore intended to help clarify all your questions about **fleet management**.
@@ -69,7 +69,7 @@ The **administrative burden** is usually lower with leasing, as many car rental 
 
 As you probably know, you must comply with the **General Data Protection Regulation (GDPR** ) wherever you collect and store personal data. In fleet management, data protection comes into play at many points. It is therefore advisable to obtain a **declaration of consent** from the driver before the vehicle is handed over. Make everyone aware of what data you will store about them, for what purpose and for how long.
 
-{{< warning headline="Note" text="Modern systems can, for example, locate vehicles for route planning and create precise **movement profiles**. **Fuel card usage** can also be used to draw conclusions about routes, consumption and driving style." >}}
+{{< warning headline="Note" text="Modern systems can, for example, locate vehicles for route planning and create precise **movement profiles**. **Fuel card usage** can also be used to draw conclusions about routes, consumption and driving style." />}}
 
 For tax reasons in particular, you need to be able to track the specific **use of vehicles**. When did which employees use which company cars? And very importantly: were the journeys for business or private purposes? To document this information carefully and in compliance with the GDPR, a [digital logbook](https://seatable.io/en/digitales-fahrtenbuch-fuehren/) is the ideal solution.
 
@@ -100,20 +100,17 @@ SeaTable offers you clear and intuitive management of your fleet and incoming bo
 What is a vehicle fleet?|||
 
 A vehicle fleet refers to all the vehicles owned by your company.
-
-\--- 
+{{< /faq >}}
 
 What is fleet management?|||
 
 Fleet management refers to all processes that affect your vehicle fleet.
-
-\--- 
+{{< /faq >}}
 
 What does fleet management involve?|||
 
 Fleet management begins with **an assessment of** how many vehicles your company **needs** and then clarifies the **financing, purchase or sale of** the vehicles. It must ensure the careful **management of vehicle documents** (vehicle registration documents, purchase contracts, insurance policies, etc.) and the **GDPR-compliant storage of driver data** (e.g. movement data, fuel receipts, driving licenses). Day-to-day business involves smooth **booking, handover and route planning** as well as any **repairs and inspections**.
-
-\--- 
+{{< /faq >}}
 
 What does fleet management cost?|||
 

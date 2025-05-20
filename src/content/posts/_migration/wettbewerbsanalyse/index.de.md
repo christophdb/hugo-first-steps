@@ -1,9 +1,9 @@
 ---
-title: "Wettbewerbsanalyse: So gehen Sie am besten vor – inkl. Vorlage!"
+title: 'Wettbewerbsanalyse: So gehen Sie am besten vor – inkl. Vorlage!'
 date: 2025-01-20
-lastmod: "2025-01-21"
-author: "nsc"
-url: "/de/wettbewerbsanalyse"
+lastmod: '2025-01-21'
+author: 'nsc'
+url: '/de/wettbewerbsanalyse'
 ---
 
 Planen Sie Ihre Produktlinie zu erweitern und möchten wissen, welche **Produkteigenschaften** in Ihrer Branche besonders gefragt sind? Oder haben Sie einen Rückgang bei den **Verkaufszahlen** festgestellt und möchten herausfinden, was Ihre Konkurrenz besser macht? Eine gezielte Wettbewerbsanalyse kann Ihnen wertvolle Einblicke verschaffen, um Ihre **Strategie** zu optimieren und gezielt auf die **Bedürfnisse** Ihrer Kunden einzugehen.
@@ -118,7 +118,7 @@ Nutzen Sie die Analyse vorhandener Datenquellen wie Marktberichte, Branchenstudi
 
 Sammeln Sie umfassende Informationen über Ihre Wettbewerber. Nutzen Sie dabei sowohl öffentliche Quellen wie **Webseiten**, **Geschäftsberichte**, **Pressemitteilungen** oder **Social-Media-Kanäle** Ihrer Konkurrenz als auch **Tools** und **Dienstleistungen** für Markt- und Wettbewerbsanalysen.
 
-{{< warning headline="Tipp" text="Daten, Zahlen und Fakten können Sie im Unternehmensregister, bei Stiftung Warentest oder bei Firminform finden." >}}
+{{< warning headline="Tipp" text="Daten, Zahlen und Fakten können Sie im Unternehmensregister, bei Stiftung Warentest oder bei Firminform finden." />}}
 
 ### 4\. Analyse durchführen
 

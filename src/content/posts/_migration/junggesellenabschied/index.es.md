@@ -1,9 +1,9 @@
 ---
-title: "Despedida de soltero: ideas y consejos para un viaje perfecto"
+title: 'Despedida de soltero: ideas y consejos para un viaje perfecto'
 date: 2024-08-06
-lastmod: "2024-08-07"
-author: "nsc"
-url: "/es/junggesellenabschied"
+lastmod: '2024-08-07'
+author: 'nsc'
+url: '/es/junggesellenabschied'
 ---
 
 Tres cosas se consideran indispensables para la clásica despedida de soltero: **camisetas** llamativas, una **bandeja de buhonero** llena de todo tipo de curiosidades y un **local animado**. Pero, ¿por qué no iba a ser algo especial? Al fin y al cabo, uno sólo se casa una vez en la vida y la **despedida de soltero** puede ser tan única e inolvidable como la propia boda.
@@ -24,7 +24,7 @@ Los novios suelen organizar sus despedidas por separado. Sin embargo, esto no es
 
 Algunas parejas celebran su despedida de soltero y soltera juntos, lo que se conoce como "Jack and Jill Party" o "Stag and Hen Party". Este giro moderno brinda la oportunidad a familiares y amigos de ambas partes de reunirse para celebrar la pareja y apoyar simbólicamente el comienzo de su vida en común.
 
-{{< warning headline="Despedida de soltero" text="Otra opción popular para una celebración conjunta antes de la boda es la [despedida de soltero](https://de.wikipedia.org/wiki/Polterabend), en la que se simboliza que los fragmentos de cerámica frente a la casa de la novia traen buena suerte para el matrimonio. Esta tradición está especialmente extendida en algunos países europeos." >}}
+{{< warning headline="Despedida de soltero" text="Otra opción popular para una celebración conjunta antes de la boda es la [despedida de soltero](https://de.wikipedia.org/wiki/Polterabend), en la que se simboliza que los fragmentos de cerámica frente a la casa de la novia traen buena suerte para el matrimonio. Esta tradición está especialmente extendida en algunos países europeos." />}}
 
 ## Lo que hay que tener en cuenta antes de planificar
 
@@ -34,7 +34,7 @@ En primer lugar, es fundamental decidir de antemano qué **amigos y familiares**
 
 El **coste** de la despedida de soltero suele repartirse entre todos los participantes, con los novios como invitados de honor. Por lo tanto, es importante planificar y acordar el **presupuesto** con cuidado para no ofender a nadie ni excederse económicamente.
 
-![En una mano se lee &quot;Bride to be&quot;](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
+![En una mano se lee "Bride to be"](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
 
 Para muchos, la despedida de soltero es un importante rito de paso de la soltería al matrimonio.
 

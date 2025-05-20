@@ -1,9 +1,9 @@
 ---
-title: "Planeie a sua mudança com uma lista de verificação: Como fazer uma mudança sem stress"
+title: 'Planeie a sua mudança com uma lista de verificação: Como fazer uma mudança sem stress'
 date: 2023-10-30
-lastmod: "2023-10-30"
-author: "lsc"
-url: "/pt/umzug"
+lastmod: '2023-10-30'
+author: 'lsc'
+url: '/pt/umzug'
 ---
 
 Finalmente, chegou o momento! Encontrou o apartamento perfeito para si e mal pode esperar para se mudar para a sua nova casa. A única coisa que agora o separa do seu apartamento de sonho é a mudança. O que para a maioria das pessoas é muito stressante e consome muito tempo, pode ser facilitado com um **plano de mudança** estruturado. Descubra aqui como planear a sua mudança sem stress e como levá-la a bom porto.
@@ -41,20 +41,17 @@ Com um planeamento cuidadoso das entregas, a primeira etapa da sua mudança est�
 Tenho direito a uma licença especial legal?|||
 
 Em primeiro lugar, as más notícias: na Alemanha, de acordo com a Lei Federal das Férias e o Código Civil, **não existe qualquer direito legal a férias** quando se muda de casa.
-
-\--- 
+{{< /faq >}}
 
 O que diz o meu contrato de trabalho?|||
 
 Embora não exista um direito geral a uma licença especial, a entidade patronal pode, naturalmente, concedê-la. Para ter a certeza, consulte o seu contrato de trabalho ou pergunte ao conselho de empresa ou a um superior se tem direito a uma licença especial.
-
-\--- 
+{{< /faq >}}
 
 E se me mudar por motivos profissionais?|||
 
 Neste caso, tem boas hipóteses de beneficiar de férias pagas, mesmo que tal não esteja previsto no seu contrato de trabalho. É feita uma distinção entre mudar de entidade patronal ou apenas de local de trabalho. No primeiro caso, é necessário contar com a boa vontade da nova entidade patronal. Se, pelo contrário, se mudar com a mesma entidade patronal, é possível requerer uma licença remunerada.
-
-\---
+{{< /faq >}}
 
 ### Razões profissionais para a mudança
 
@@ -63,14 +60,12 @@ Neste caso, tem boas hipóteses de beneficiar de férias pagas, mesmo que tal n�
 Que razões tornam uma mudança "relacionada com o trabalho"?|||
 
 Para além das razões já mencionadas - _mudança de emprego ou de entidade patronal_ - há outras formas de declarar a sua mudança como relacionada com o trabalho. Trata-se, por exemplo, de começar a trabalhar pela primeira vez, mudar de casa ou de apartamento, regressar do estrangeiro para aceitar um novo emprego na Alemanha e encurtar o trajeto diário em pelo menos meia hora.
-
-\--- 
+{{< /faq >}}
 
 Existem outros regulamentos se eu trabalhar no sector público?|||
 
 Sim, porque, enquanto funcionário ou empregado do sector público, tem direito a um dia de licença remunerada para uma mudança de residência por motivos profissionais, de acordo com o artigo 29º do regulamento relativo às convenções colectivas de trabalho. Se já teve de se deslocar uma vez nos últimos cinco anos por motivos profissionais, tem mesmo direito a três dias de licença.
-
-\---
+{{< /faq >}}
 
 ## Organizar a mudança
 
@@ -84,7 +79,7 @@ Com uma **empresa de mudanças**, poupa-se muito tempo e nervos. Porque tudo o q
 
 O custo da sua mudança depende da dimensão do agregado familiar e da distância dos apartamentos.
 
-Mas, pelo seu dinheiro, recebe um **Serviço completo**. Isto também inclui a responsabilidade da empresa por quaisquer danos causados aos seus bens, ao apartamento ou às escadas durante a mudança. A lei estipula que, em caso de danos, será cobrada uma indemnização de 620 euros por metro cúbico de bens transportados. Se pretender transportar bens particularmente valiosos, pode acordar com a empresa de mudanças um montante de responsabilidade mais elevado. Mas atenção: se for você a embalar os seus móveis e objectos, os profissionais não serão responsáveis por quaisquer danos causados durante o transporte.  
+Mas, pelo seu dinheiro, recebe um **Serviço completo**. Isto também inclui a responsabilidade da empresa por quaisquer danos causados aos seus bens, ao apartamento ou às escadas durante a mudança. A lei estipula que, em caso de danos, será cobrada uma indemnização de 620 euros por metro cúbico de bens transportados. Se pretender transportar bens particularmente valiosos, pode acordar com a empresa de mudanças um montante de responsabilidade mais elevado. Mas atenção: se for você a embalar os seus móveis e objectos, os profissionais não serão responsáveis por quaisquer danos causados durante o transporte.
 
 ![A contratação de uma empresa de mudanças poupa-lhe muito trabalho.](https://seatable.io/wp-content/uploads/2023/10/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
@@ -135,17 +130,17 @@ A mudança está iminente e quer informar toda a gente da sua nova morada. Pense
 - Assinaturas (por exemplo, ginásio, clubes)
 - Lojas em linha e serviços de encomendas
 
-{{< warning headline="Se se esquecer de dizer a alguém a sua nova morada" text="Com a ordem de reencaminhamento da Deutsche Post, as cartas e encomendas que chegam à sua antiga morada são simplesmente reencaminhadas para a sua nova morada. Pode ser efectuada online em [nachsendeauftrag.de](http://nachsendeauftrag.de/) a partir de 28,90 euros por seis meses." >}}
+{{< warning headline="Se se esquecer de dizer a alguém a sua nova morada" text="Com a ordem de reencaminhamento da Deutsche Post, as cartas e encomendas que chegam à sua antiga morada são simplesmente reencaminhadas para a sua nova morada. Pode ser efectuada online em [nachsendeauftrag.de](http://nachsendeauftrag.de/) a partir de 28,90 euros por seis meses." />}}
 
 ## Deduzir do imposto uma mudança relacionada com o trabalho
 
 Na Alemanha, uma parte das despesas de mudança pode ser deduzida do imposto sobre o **rendimento** como **despesas relacionadas com o rendimento**. Estas despesas estão divididas em **despesas gerais e outras** e constituem uma grande parte das despesas dedutíveis nos impostos. Atenção: Se a sua entidade patronal pagar uma parte ou a totalidade das despesas de mudança, não pode voltar a deduzir as despesas pagas na sua declaração de impostos.
 
-{{< warning headline="Atenção estudantes e estagiários!" text="Qualquer pessoa que se desloque para iniciar a sua primeira formação profissional pode declarar as despesas de mudança como **despesas especiais**." >}}
+{{< warning headline="Atenção estudantes e estagiários!" text="Qualquer pessoa que se desloque para iniciar a sua primeira formação profissional pode declarar as despesas de mudança como **despesas especiais**." />}}
 
 ### Custos gerais
 
-Existem alguns **custos gerais**que pode declarar na íntegra na sua declaração de impostos. **Muito importante**: Guarde as facturas e os recibos para poder comprovar as suas despesas. As despesas gerais incluem, por exemplo, os custos de transporte dos bens domésticos, o dobro da renda durante o período de mudança ou a comissão do agente imobiliário.  
+Existem alguns **custos gerais**que pode declarar na íntegra na sua declaração de impostos. **Muito importante**: Guarde as facturas e os recibos para poder comprovar as suas despesas. As despesas gerais incluem, por exemplo, os custos de transporte dos bens domésticos, o dobro da renda durante o período de mudança ou a comissão do agente imobiliário.
 
 ![Mantenha sempre um registo dos seus custos, guardando os recibos.](https://seatable.io/wp-content/uploads/2023/10/finance-8206242_1280-711x474.jpg)
 

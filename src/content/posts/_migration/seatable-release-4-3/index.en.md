@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.3: New form links, automations & app features"
+title: 'SeaTable 4.3: New form links, automations & app features'
 date: 2024-02-08
-lastmod: "2024-02-16"
-author: "kgr"
-url: "/seatable-release-4-3"
+lastmod: '2024-02-16'
+author: 'kgr'
+url: '/seatable-release-4-3'
 ---
 
 The carnival season in Germany is approaching its peak - and the confetti cannons are popping at SeaTable too! Version 4.3 brings with it some long-awaited functions and improvements.
@@ -22,7 +22,7 @@ We have also added the brand new option to create **custom URLs** for web forms.
 
 ![New form link dialog in SeaTable 4.3](images/Formularlink-Dialog.gif)
 
-{{< warning headline="Note" text="The user-defined part that is appended to the link must be **between 5 and 30 characters** long and may only contain **letters**, **numbers** and **hyphens**. In addition, each URL must be unique: If a user-defined URL is already in use, an error message appears." >}}
+{{< warning headline="Note" text="The user-defined part that is appended to the link must be **between 5 and 30 characters** long and may only contain **letters**, **numbers** and **hyphens**. In addition, each URL must be unique: If a user-defined URL is already in use, an error message appears." />}}
 
 ## Automated actions: Save PDF and send app notification
 
@@ -51,7 +51,7 @@ This functionality is particularly useful in the universal app. You can activate
 
 A brand new feature in the Universal app is the [comment function](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/), which you already know in the same form from your bases. Record your feedback or additional information on the data records for other app users and hold discussions on the spot.
 
-{{< warning headline="Good to know" text="The comments in the app are completely **independent** of the comments in the base. This means that each comment is only visible where it is posted." >}}
+{{< warning headline="Good to know" text="The comments in the app are completely **independent** of the comments in the base. This means that each comment is only visible where it is posted." />}}
 
 On the [custom page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), you can look forward to two new elements: the **container** and the **card**. The container provides a grid with which you can arrange other elements (texts, images, statistics) more easily and group them together.
 
@@ -75,7 +75,7 @@ In version 4.4, the [gallery app](https://seatable.io/en/docs/apps/galerie-app/)
 
 If you use the two expiring apps, we recommend that you rebuild your use cases with [gallery pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) and query [pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) in the App Builder before the next release. Incidentally, you can now add fields to query pages that allow users to search **link columns** for specific values.
 
-{{< warning headline="Attention, danger of confusion!" text="You also know the [gallery](https://seatable.io/en/docs/plugins/anleitung-zum-galerie-plugin/) and the [SQL query](https://seatable.io/en/docs/plugins/anleitung-zum-sql-abfrage-plugin/) as **plugins** that you can add to your bases. These will of course remain in place." >}}
+{{< warning headline="Attention, danger of confusion!" text="You also know the [gallery](https://seatable.io/en/docs/plugins/anleitung-zum-galerie-plugin/) and the [SQL query](https://seatable.io/en/docs/plugins/anleitung-zum-sql-abfrage-plugin/) as **plugins** that you can add to your bases. These will of course remain in place." />}}
 
 ## And much more
 

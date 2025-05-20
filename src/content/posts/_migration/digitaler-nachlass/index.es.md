@@ -1,9 +1,9 @@
 ---
-title: "Patrimonio digital: cómo gestionar sus datos de acceso"
+title: 'Patrimonio digital: cómo gestionar sus datos de acceso'
 date: 2023-10-31
-lastmod: "2023-10-31"
-author: "kgr"
-url: "/es/digitaler-nachlass"
+lastmod: '2023-10-31'
+author: 'kgr'
+url: '/es/digitaler-nachlass'
 ---
 
 En la era digital actual, nuestra **vida online** es cada vez más importante: nos comunicamos por correo electrónico, mensajería y redes sociales, almacenamos archivos y fotos importantes en la nube, hacemos operaciones bancarias online y dejamos innumerables rastros en Internet. Pero, ¿qué ocurre realmente con todos estos datos y cuentas cuando uno fallece algún día? Palabra clave: **patrimonio digital**.
@@ -85,7 +85,7 @@ Tu patrimonio digital puede contener cualquier cantidad de datos. Dependiendo de
 - Suscripciones digitales (revistas, periódicos electrónicos, etc.)
 - Otras cuentas de usuario (por ejemplo, foros, Adobe Creative Cloud)
 
-{{< warning headline="Consejo" text="Limpia tu legado digital en vida. Borra cuentas y cancela servicios que ya no utilices. Esto ahorrará a tus familiares mucho trabajo y costes innecesarios tras tu muerte." >}}
+{{< warning headline="Consejo" text="Limpia tu legado digital en vida. Borra cuentas y cancela servicios que ya no utilices. Esto ahorrará a tus familiares mucho trabajo y costes innecesarios tras tu muerte." />}}
 
 ### 3\. nombrar a una persona de confianza
 

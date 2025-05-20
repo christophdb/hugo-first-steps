@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 5.1: Mais funções/conveniência no App Builder e Big Data"
+title: 'SeaTable 5.1: Mais funções/conveniência no App Builder e Big Data'
 date: 2024-11-08
-lastmod: "2024-11-08"
-author: "rdb"
-url: "/pt/seatable-release-5-1"
+lastmod: '2024-11-08'
+author: 'rdb'
+url: '/pt/seatable-release-5-1'
 ---
 
 O foco do SeaTable 5.1 está em melhorar as funções existentes e optimizá-las para casos de utilização prática. Em particular, o **App Builder**, que foi oficialmente lançado com a versão 5.0, recebeu atenção especial e agora permite aplicações web ainda mais poderosas. No entanto, os utilizadores do **Big Data Store** também beneficiam de extensas melhorias. O novo **plug-in Tree** oferece uma opção de visualização adicional para dados hierárquicos. Nas presentes notas de lançamento, apresentamos todas as novas funcionalidades importantes. Como sempre, encontrará a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-5-1/).
@@ -62,7 +62,7 @@ Quase tão percetível é o **aviso amarelo** que aparece em visualizações nor
 
 Em resposta a muitos pedidos dos utilizadores, a **operação de processamento de dados** [comparar e juntar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) está agora também disponível nas visualizações de grandes volumes de dados. Esta operação pode ligar entradas no big data store com linhas em qualquer outra tabela, independentemente de as linhas da tabela ligada estarem armazenadas na base ou no big data store.
 
-{{< warning headline="Nota" text="A velocidade de execução é significativamente mais lenta do que a mesma operação numa vista normal porque toda a informação da linha já está na memória de trabalho quando executada em vistas normais." >}}
+{{< warning headline="Nota" text="A velocidade de execução é significativamente mais lenta do que a mesma operação numa vista normal porque toda a informação da linha já está na memória de trabalho quando executada em vistas normais." />}}
 
 Para aumentar a rastreabilidade das alterações às linhas na memória de grandes volumes de dados, o SeaTable 5.1 oferece um **registo de grandes volumes de dados** separado. Este log, que regista as modificações e eliminações de linhas, aparece assim que a memória de grandes volumes de dados é activada na base.
 

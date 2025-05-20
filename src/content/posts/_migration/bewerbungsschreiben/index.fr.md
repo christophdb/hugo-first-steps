@@ -1,22 +1,22 @@
 ---
-title: "La lettre de motivation : Comment convaincre tout recruteur"
+title: 'La lettre de motivation : Comment convaincre tout recruteur'
 date: 2024-04-22
-lastmod: "2024-04-22"
-author: "lsc"
-url: "/fr/bewerbungsschreiben"
+lastmod: '2024-04-22'
+author: 'lsc'
+url: '/fr/bewerbungsschreiben'
 ---
 
 Qu'il s'agisse d'un stage, d'une formation ou d'un emploi fixe, la première étape sur la voie du job de rêve est toujours une **candidature** réussie. Vous avez trouvé de nombreuses **offres d'emploi** intéressantes, mais la rédaction des candidatures vous donne du fil à retordre ? Ne vous inquiétez pas, vous n'êtes pas le seul. Pour beaucoup, la **lettre de motivation** est un obstacle majeur, car elle exige une auto-évaluation honnête et est liée à une formulation laborieuse de ses propres capacités.
 
 Mais le travail en vaut la peine, car seule une lettre de motivation réussie vous ouvrira les portes d'un **entretien** personnel et vous rapprochera de l'**emploi de vos rêves**. Vous trouverez ci-dessous les points auxquels vous devez faire attention lors de la rédaction de votre candidature.
 
-{{< warning headline="Conseil" text="Pour garder une vue d'ensemble de vos candidatures, vous pouvez également utiliser un outil de planification. Vous apprendrez [ici](https://seatable.io/fr/modele/cc0-xv_fq_yn3ipvbvfiaa/) comment cet outil vous permet de générer différentes lettres de candidature à partir d'un modèle en appuyant sur un bouton." >}}
+{{< warning headline="Conseil" text="Pour garder une vue d'ensemble de vos candidatures, vous pouvez également utiliser un outil de planification. Vous apprendrez [ici](https://seatable.io/fr/modele/cc0-xv_fq_yn3ipvbvfiaa/) comment cet outil vous permet de générer différentes lettres de candidature à partir d'un modèle en appuyant sur un bouton." />}}
 
 ## Pourquoi une lettre de motivation est importante
 
 La lettre de motivation fait partie intégrante de toute candidature. Alors que vous placez vos **hard skills** dans votre **CV**, vous consacrez votre lettre de motivation à vos **soft skills**. Celles-ci ont pris de plus en plus d'importance ces dernières années, ce qui explique pourquoi la lettre de motivation personnelle a également pris une place plus importante dans la procédure de sélection.
 
-{{< warning headline="Hard versus soft skills" text="Les hard skills regroupent l'ensemble des connaissances techniques que vous avez acquises par le travail, les stages ou les loisirs. Les [soft skills](https://www.karriereakademie.de/soft-skills), en revanche, regroupent les caractéristiques qui définissent votre personnalité." >}}
+{{< warning headline="Hard versus soft skills" text="Les hard skills regroupent l'ensemble des connaissances techniques que vous avez acquises par le travail, les stages ou les loisirs. Les [soft skills](https://www.karriereakademie.de/soft-skills), en revanche, regroupent les caractéristiques qui définissent votre personnalité." />}}
 
 Avec une lettre de motivation, vous avez la possibilité de vous présenter avec assurance et de mettre en avant vos qualités positives. Il s'agit d'une part de **se mettre en valeur** en énumérant des qualifications pertinentes et d'autre part de se démarquer de la masse des candidats par la langue.
 
@@ -51,7 +51,7 @@ Reliez les soft skills apprises aux hard skills correspondantes.
 
 Vous pouvez mettre de côté toutes les qualifications que vous n'avez pas marquées comme **pertinentes pour votre candidature**. Soyez cohérent et éliminez également les informations qui parlent de vous de manière positive, mais qui ne correspondent pas au poste.
 
-{{< warning headline="Conseil : changer de perspective" text="N'oubliez pas que votre lettre de motivation doit plaire au recruteur et non à vous. Quels sont les points forts d'un candidat pour ce poste ? Vous pourrez éventuellement mettre en avant d'autres qualités intéressantes lors d'un entretien ultérieur." >}}
+{{< warning headline="Conseil : changer de perspective" text="N'oubliez pas que votre lettre de motivation doit plaire au recruteur et non à vous. Quels sont les points forts d'un candidat pour ce poste ? Vous pourrez éventuellement mettre en avant d'autres qualités intéressantes lors d'un entretien ultérieur." />}}
 
 ## Créer un aperçu de la candidature
 
@@ -61,7 +61,7 @@ Si vous souhaitez utiliser SeaTable pour planifier votre candidature, il vous su
 
 ## Formalités dans votre lettre de motivation
 
-Avant de commencer à formuler votre candidature, il convient d'établir une **design cohérent** pour tous vos documents de candidature. Non seulement votre candidature sera plus cohérente au premier coup d'œil, mais vous communiquerez aussi que vous êtes **ordonné** et **propre** travailler.  
+Avant de commencer à formuler votre candidature, il convient d'établir une **design cohérent** pour tous vos documents de candidature. Non seulement votre candidature sera plus cohérente au premier coup d'œil, mais vous communiquerez aussi que vous êtes **ordonné** et **propre** travailler.
 
 ![Choisissez une police, un interligne et une taille de caractères appropriés.](https://seatable.io/wp-content/uploads/2024/04/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
@@ -91,7 +91,7 @@ L'en-tête est classiquement utilisé lorsque vous envoyez votre lettre de motiv
 
 Dans tous les cas, l'adresse doit être sans erreur et sans faille. Vérifiez que le **nom de l'entreprise** est complet. Pour éviter les erreurs inutiles, reprenez l'orthographe de l'entreprise sur le site web. Le **nom de votre interlocuteur** doit être correct et, s'il est indiqué, accompagné de son titre académique.
 
-{{< warning headline="Comment trouver le bon interlocuteur" text="L'**offre d'emploi** ne mentionne pas toujours le nom de votre interlocuteur. Dans le meilleur des cas, vous devriez le trouver. Vous trouverez généralement un contact sur les **pages emploi ou carrière de l'entreprise**. Si ce n'est pas le cas, vous pouvez aussi demander son nom par téléphone." >}}
+{{< warning headline="Comment trouver le bon interlocuteur" text="L'**offre d'emploi** ne mentionne pas toujours le nom de votre interlocuteur. Dans le meilleur des cas, vous devriez le trouver. Vous trouverez généralement un contact sur les **pages emploi ou carrière de l'entreprise**. Si ce n'est pas le cas, vous pouvez aussi demander son nom par téléphone." />}}
 
 L'indication de la **date** est ensuite alignée à droite, à une certaine distance. En Allemagne, celle-ci est structurée de la manière suivante :
 
@@ -147,7 +147,7 @@ Il ne manque plus que votre **signature manuscrite**. Vous pouvez soit l'apposer
 
 Les annexes demandées sont énumérées à la fin de votre lettre de motivation sous le titre **Annexes** ou **pièces join** tes. Il s'agit généralement du **CV, des certificats de travail et de stage ainsi que des attestations**. Vous les joindrez à votre candidature dans un **fichier PDF** séparé.
 
-{{< warning headline="Ordre des documents" text="L'ordre dans lequel vous listez les documents dans votre lettre de motivation doit correspondre à l'enchaînement de vos documents dans le fichier PDF. En règle générale, le CV, qui est le document le plus important, vient en premier." >}}
+{{< warning headline="Ordre des documents" text="L'ordre dans lequel vous listez les documents dans votre lettre de motivation doit correspondre à l'enchaînement de vos documents dans le fichier PDF. En règle générale, le CV, qui est le document le plus important, vient en premier." />}}
 
 ## Formes spéciales de la lettre de motivation
 
@@ -177,7 +177,7 @@ Le contenu de votre candidature est prêt et vous souhaitez y apporter la touche
 
 ### Dos et Don'ts
 
-Faites attention à votre style d'écriture et aux formulations que vous utilisez.  
+Faites attention à votre style d'écriture et aux formulations que vous utilisez.
 
 ![Vous pouvez valoriser votre lettre de motivation en tenant compte des choses à faire et à ne pas faire.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
@@ -194,26 +194,22 @@ Vous trouverez ici des aides à la formulation pour différentes situations dans
 Établir un lien avec l'entreprise et le thème|||
 
 "Lors de plusieurs stages dans le secteur des médias, j'ai déjà eu un aperçu du travail journalistique. J'aimerais maintenant mettre à profit les compétences que j'y ai acquises et les développer au sein des RP de votre entreprise internationale".
-
-\--- 
+{{< /faq >}}
 
 Emballer l'expérience professionnelle pour en tirer profit|||
 
 "Grâce à mes 10 ans d'expérience dans la vente, je sais comment enthousiasmer les clients en contact direct, c'est pourquoi je peux augmenter avec succès le chiffre d'affaires de votre équipe de vente".
-
-\--- 
+{{< /faq >}}
 
 Mettre en évidence les qualifications professionnelles|||
 
 "Grâce à mes études de langues romanes, je maîtrise l'espagnol et le français au niveau B2 et j'ai mis en pratique et approfondi ces connaissances lors de stages à l'étranger à Madrid et à Paris".
-
-\--- 
+{{< /faq >}}
 
 Justifier les soft skills|||
 
 "Dans ma position de chef d'équipe adjoint, j'ai développé un style de direction collégial qui me permet de traiter mes collaborateurs d'égal à égal et de leur attribuer des tâches en fonction de leurs capacités individuelles. Ensemble, nous avons réalisé le projet dans la moitié du temps imparti".
-
-\---
+{{< /faq >}}
 
 ### Liste de contrôle
 

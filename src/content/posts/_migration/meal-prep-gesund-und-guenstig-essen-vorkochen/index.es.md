@@ -1,9 +1,9 @@
 ---
-title: "Meal Prep - preparación de comidas sanas y asequibles + plan semanal"
+title: 'Meal Prep - preparación de comidas sanas y asequibles + plan semanal'
 date: 2023-11-23
-lastmod: "2024-02-13"
-author: "lsc"
-url: "/es/meal-prep-gesund-und-guenstig-essen-vorkochen"
+lastmod: '2024-02-13'
+author: 'lsc'
+url: '/es/meal-prep-gesund-und-guenstig-essen-vorkochen'
 ---
 
 Comer lo más barato y sano posible con el menor tiempo posible: una tendencia de EE.UU. promete exactamente eso. En el estresante día a día solemos descuidar una **dieta equilibrada**. En lugar de ello, a menudo recurrimos a la comida rápida o a tentempiés poco saludables durante las pausas para comer, por ejemplo, para satisfacer nuestros antojos. En este artículo descubrirá en qué consiste la **preparación** de comidas, qué debe tener en cuenta a la hora de prepararla y cómo crear un [plan semanal](https://seatable.io/es/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) inteligente.
@@ -21,20 +21,17 @@ A partir de unos pocos ingredientes se elaboran diversos platos.
 ¿De dónde viene la moda de la preparación de comidas?|||
 
 Como muchas otras tendencias alimentarias, la moda de la preparación de comidas se originó en Estados Unidos. Allí, los entusiastas del fitness eran los primeros en utilizarla, pero pronto se extendió a todos los ámbitos de la vida.
-
-\--- 
+{{< /faq >}}
 
 ¿Para quién es adecuado el Meal Prep?|||
 
 Merece la pena que prueben el Meal Prep las personas que no tienen tiempo de cocinar. También ayuda a cumplir los propósitos dietéticos y a reforzar la autodisciplina. Por supuesto, requiere un poco de esfuerzo y suficiente motivación probar esta nueva forma de cocinar, pero al final puede hacer que tu dieta sea más eficiente, más sana y más barata.
-
-\--- 
+{{< /faq >}}
 
 ¿Cuántos días de antelación puedes cocinar?|||
 
 Hay dos formas de preparar la comida. Puedes cocinar **el** doble para tener comida suficiente para el día siguiente, o puedes ir un paso más allá y tomarte el tiempo de **precocinar los ingredientes individuales** y luego combinarlos como quieras los días siguientes.
-
-\---
+{{< /faq >}}
 
 ## Ventajas e inconvenientes de la preparación de comidas
 
@@ -94,19 +91,19 @@ Una lista te ayuda a llevar un registro de tus compras.
 
 Ahora viene la parte que más tiempo requiere de la preparación de las comidas. Tómate **el tiempo suficiente** para preparar toda la comida, preferiblemente dos o tres horas en un día de tu elección. Asa, hierve, cuece al vapor u hornea los ingredientes por separado, ya que tienen **diferentes puntos de cocción** y, de lo contrario, se convertirán en papilla blanda y uniforme. Además de las comidas principales, también puedes preparar **pequeños tentempiés** para tomar entre horas. Por ejemplo, barritas caseras de muesli.
 
-{{< warning headline="Especias milagrosas" text="Las especias adecuadas dan el toque final a sus platos. Con diferentes mezclas de especias, el mismo plato sabe diferente cada vez y te tienta a explorar nuevos mundos de sabor." >}}
+{{< warning headline="Especias milagrosas" text="Las especias adecuadas dan el toque final a sus platos. Con diferentes mezclas de especias, el mismo plato sabe diferente cada vez y te tienta a explorar nuevos mundos de sabor." />}}
 
 ### 4\. almacenamiento
 
 Para que los ingredientes preparados se mantengan frescos el tiempo suficiente y conserven su sabor, debes **guardarlos por separado**. Las [cajas](https://www.chefkoch.de/vergleich/meal-prep-boxen/) especiales con separadores son adecuadas, por ejemplo, para la preparación de comidas. Los alimentos deben guardarse en recipientes herméticos de cristal o plástico resistente. Es preferible guardar los platos preparados en el frigorífico o congelarlos.
 
-{{< warning headline="Rellenar los tarros" text="Los tarros grandes con tapa de rosca o a presión son perfectos para transportar sus alimentos. Son ideales para guardar alimentos secos como muesli o arroz, pero también para sopas líquidas o salsas. La mayoría de los tarros son aptos para microondas, por lo que podrá calentar y consumir sus alimentos inmediatamente." >}}
+{{< warning headline="Rellenar los tarros" text="Los tarros grandes con tapa de rosca o a presión son perfectos para transportar sus alimentos. Son ideales para guardar alimentos secos como muesli o arroz, pero también para sopas líquidas o salsas. La mayoría de los tarros son aptos para microondas, por lo que podrá calentar y consumir sus alimentos inmediatamente." />}}
 
 ### 5\. combinar
 
 El último paso de la preparación de comidas es el más fácil. Saca los ingredientes preparados de la nevera y monta un plato a tu gusto. Las **diferentes combinaciones** garantizan una gran variedad de sabores. Empaqueta tu creación de forma segura para transportarla o caliéntala y ¡disfruta enseguida de tu comida casera sana y deliciosa!
 
-{{< warning headline="Todo está en la mezcla" text="Para una dieta equilibrada, hay que prestar atención a los valores nutricionales de los alimentos. Se recomienda una composición de entre el 50% y el 60% de hidratos de carbono, entre el 15% y el 25% de proteínas y entre el 20% y el 30% de grasas." >}}
+{{< warning headline="Todo está en la mezcla" text="Para una dieta equilibrada, hay que prestar atención a los valores nutricionales de los alimentos. Se recomienda una composición de entre el 50% y el 60% de hidratos de carbono, entre el 15% y el 25% de proteínas y entre el 20% y el 30% de grasas." />}}
 
 ## Ejemplo de plan semanal de preparación de comidas
 

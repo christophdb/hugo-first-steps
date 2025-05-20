@@ -1,9 +1,9 @@
 ---
-title: "Abastécete de suministros de emergencia: Lo que siempre debe tener en casa"
+title: 'Abastécete de suministros de emergencia: Lo que siempre debe tener en casa'
 date: 2023-09-20
-lastmod: "2023-09-20"
-author: "lsc"
-url: "/es/notvorrat-anlegen"
+lastmod: '2023-09-20'
+author: 'lsc'
+url: '/es/notvorrat-anlegen'
 ---
 
 ¿Qué haría usted si de repente fallara el suministro de electricidad y agua en todo el país? En Alemania esto es muy improbable, pero en otras partes del mundo los daños en las infraestructuras son más habituales. Muchas personas no están suficientemente preparadas para estas y otras **situaciones de emergencia**.
@@ -14,7 +14,7 @@ Por lo tanto, es aconsejable hacer provisiones óptimas para el peor de los caso
 
 Lo que puede significar tener que recurrir al acopio de emergencia es algo que conocemos al menos desde la pandemia de Corona. Por miedo a no poder salir del piso durante más tiempo o a que los productos que se necesitaban con urgencia dejaran de estar disponibles, en Alemania se acapararon grandes cantidades de fideos y papel higiénico. Esto lo demuestra: Cuando se trata de una situación de crisis, los supermercados se vacían rápidamente. Aparte de la situación de emergencia específica, almacenar alimentos tiene la ventaja de ser independiente de los horarios de apertura de las tiendas y de las cadenas de suministro.
 
-{{< warning headline="Esto es lo que recomienda el Estado alemán" text="La Oficina Federal de Protección Civil y Ayuda en Catástrofes (BKK) recomienda abastecerse de suministros de emergencia para **10 días**. Para calcular esto para su hogar, existe una [calculadora de existencias](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator) detallada. Calcula qué alimentos debes comprar y en qué cantidades para garantizar suministros suficientes." >}}
+{{< warning headline="Esto es lo que recomienda el Estado alemán" text="La Oficina Federal de Protección Civil y Ayuda en Catástrofes (BKK) recomienda abastecerse de suministros de emergencia para **10 días**. Para calcular esto para su hogar, existe una [calculadora de existencias](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator) detallada. Calcula qué alimentos debes comprar y en qué cantidades para garantizar suministros suficientes." />}}
 
 ## Esto es lo que debe tener en cuenta al elegir los alimentos
 
@@ -52,7 +52,7 @@ Otra forma de conservar los alimentos es encurtirlos.
 
 Para evitar que los alimentos almacenados superen su fecha de consumo preferente y dejen de ser comestibles en caso de emergencia, también puedes trabajar con una "reserva viva". En este caso, integras los alimentos almacenados en tu uso diario y compras provisiones. De este modo, nada se echa a perder. Asegúrate de colocar siempre los alimentos recién comprados al final de la estantería para consumir primero los más antiguos. Con un [planificador online para tus reservas](https://seatable.io/es/notvorrat-anlegen/#Online-Planer_fuer_Ihren_Notvorrat), siempre tendrás controlado qué alimentos debes consumir a continuación.
 
-{{< warning headline="Este es el tiempo que pueden conservarse los alimentos" text="La **fecha de consumo preferente que figura** en el envase indica el periodo mínimo hasta el que un producto puede conservarse y consumirse. Sin embargo, esto no significa que el alimento deje de ser comestible más allá de esta fecha. Si se conservan correctamente y se cierran herméticamente, suelen ser comestibles más allá de la fecha límite sin dudarlo. No obstante, antes de consumirlos hay que comprobar que no presenten rastros de deterioro. Pueden ser, por ejemplo, un olor desagradable, moho o envases hinchados." >}}
+{{< warning headline="Este es el tiempo que pueden conservarse los alimentos" text="La **fecha de consumo preferente que figura** en el envase indica el periodo mínimo hasta el que un producto puede conservarse y consumirse. Sin embargo, esto no significa que el alimento deje de ser comestible más allá de esta fecha. Si se conservan correctamente y se cierran herméticamente, suelen ser comestibles más allá de la fecha límite sin dudarlo. No obstante, antes de consumirlos hay que comprobar que no presenten rastros de deterioro. Pueden ser, por ejemplo, un olor desagradable, moho o envases hinchados." />}}
 
 ### Ahorre con las promociones de descuento
 

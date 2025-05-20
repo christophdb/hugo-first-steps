@@ -1,9 +1,9 @@
 ---
-title: "La gestión inmobiliaria más fácil: Gestión inmobiliaria profesional"
+title: 'La gestión inmobiliaria más fácil: Gestión inmobiliaria profesional'
 date: 2023-11-03
-lastmod: "2023-11-06"
-author: "ott"
-url: "/es/hausverwaltung"
+lastmod: '2023-11-06'
+author: 'ott'
+url: '/es/hausverwaltung'
 ---
 
 El **alquiler de inmuebles** es un negocio lucrativo, tanto para particulares como para empresas y ayuntamientos. Sin embargo, si administra propiedades, debe asegurarse de que su **gestión inmobiliaria** funciona correctamente, independientemente de si alquila pisos individuales de forma privada o a gran escala con una empresa.
@@ -20,7 +20,7 @@ Como propietario, tiene que ocuparse de la gestión y el alquiler de su propieda
 
 Existen **empresas externas de gestión inmobili**aria que apoyan a los propietarios de inmuebles en alquiler con su gestión o se encargan de esta tarea por completo. Esto significa que se aseguran de que los inmuebles estén bien mantenidos y de que la gestión de los mismos esté garantizada. Los propietarios les remuneran por este trabajo administrativo.
 
-{{< warning headline="Gestión de la propiedad frente a conserje" text="A menudo se confunde al administrador de fincas con el **conserje**. Sin embargo, el conserje es solo un empleado o proveedor de servicios de la empresa de gestión inmobiliaria y se dedica principalmente a prestar servicios de manitas." >}}
+{{< warning headline="Gestión de la propiedad frente a conserje" text="A menudo se confunde al administrador de fincas con el **conserje**. Sin embargo, el conserje es solo un empleado o proveedor de servicios de la empresa de gestión inmobiliaria y se dedica principalmente a prestar servicios de manitas." />}}
 
 Sin embargo, también hay muchos **propietarios privados** que asumen ellos mismos las tareas administrativas de la gestión inmobiliaria, sobre todo si hay pocos inquilinos. Así se ahorran los costes de una gestión externa.
 

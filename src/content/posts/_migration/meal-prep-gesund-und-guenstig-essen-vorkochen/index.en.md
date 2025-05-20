@@ -1,10 +1,10 @@
 ---
-title: "Meal Prep - healthy and affordable meal prep + weekly plan"
+title: 'Meal Prep - healthy and affordable meal prep + weekly plan'
 date: 2023-11-23
-lastmod: "2024-02-13"
-coverImage: "Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683.jpg"
-author: "lsc"
-url: "/meal-prep-gesund-und-guenstig-essen-vorkochen"
+lastmod: '2024-02-13'
+coverImage: 'Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683.jpg'
+author: 'lsc'
+url: '/meal-prep-gesund-und-guenstig-essen-vorkochen'
 ---
 
 Eating as cheaply and healthily as possible with as little time as possible - a trend from the USA promises exactly that. A **balanced diet** is often neglected in stressful everyday life. Instead, we often reach for fast food or unhealthy snacks during lunch breaks, for example, to satisfy our cravings. In this article, you will find out what **meal prep** is all about, what you should look out for when meal prepping and how you can create a smart [weekly meal prep plan](https://seatable.io/en/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan).
@@ -22,20 +22,17 @@ Various dishes are conjured up from just a few ingredients.
 Where does the meal prep trend come from?|||
 
 Like many food trends, the hype surrounding meal prepping originated in the USA. There, meal prep was primarily used by fitness enthusiasts, but quickly found its way into all areas of life.
-
-\--- 
+{{< /faq >}}
 
 Who is Meal Prep suitable for?|||
 
 It is particularly worth trying Meal Prep for people who cannot find the time in their everyday lives to cook their own meals. It also helps to stick to dietary resolutions and strengthen self-discipline. Of course, it takes a little effort and enough motivation to try this new way of cooking, but in the end it can make your diet more efficient, healthier and cheaper.
-
-\--- 
+{{< /faq >}}
 
 How many days' worth of dishes can you cook in advance?|||
 
 There are two ways in which you can meal prep. You can either cook **double the amount** so that you have enough food for the next day, or you can go one step further and take the time to **pre-cook the individual ingredients** and then combine them as you wish on the following days.
-
-\---
+{{< /faq >}}
 
 ## Advantages and disadvantages of Meal Prep
 
@@ -95,19 +92,19 @@ A list helps you to keep track of your purchases.
 
 Now comes the most time-consuming part of meal prep. Take **enough time** to prepare all your food, preferably two to three hours on a day of your choice. Roast, boil, steam or bake the ingredients separately, as they have **different cooking points** and will otherwise turn into mushy, uniform mush. In addition to the main meals, you can also prepare **small snacks** for in between meals. These could be homemade muesli bars, for example.
 
-{{< warning headline="Miracle cure spices" text="The right spices add the finishing touch to your dishes. With different spice blends, the same dish tastes different every time and tempts you to explore new worlds of flavor." >}}
+{{< warning headline="Miracle cure spices" text="The right spices add the finishing touch to your dishes. With different spice blends, the same dish tastes different every time and tempts you to explore new worlds of flavor." />}}
 
 ### 4\. storage
 
 To ensure that the prepared ingredients stay fresh long enough and retain their flavor, you should **store** them **separately**. Special [boxes](https://www.chefkoch.de/vergleich/meal-prep-boxen/) with partitions are suitable for meal prep, for example. The food should be stored in airtight containers made of glass or sturdy plastic. Preferably store the prepared dishes in the fridge or freeze them.
 
-{{< warning headline="Fill into jars" text="Large jars with screw or snap-on lids are perfect for transporting your food. They are ideal for storing dry foods such as muesli or rice, but also for liquid soups or sauces. Most jars are microwave-safe, so you can heat and eat your food straight away." >}}
+{{< warning headline="Fill into jars" text="Large jars with screw or snap-on lids are perfect for transporting your food. They are ideal for storing dry foods such as muesli or rice, but also for liquid soups or sauces. Most jars are microwave-safe, so you can heat and eat your food straight away." />}}
 
 ### 5\. combine
 
 The last step of meal prep is the easiest. Take the prepared ingredients out of the fridge and put together a dish as you wish. **Different combinations** ensure a variety of flavors. Pack your creation safely for transportation or heat it up and enjoy your healthy and delicious home-cooked meal straight away!
 
-{{< warning headline="It's all in the mix" text="For a balanced diet, you should pay attention to the nutritional values in your food. A composition of 50 to 60 percent carbohydrates, 15 to 25 percent protein and 20 to 30 percent fat is recommended." >}}
+{{< warning headline="It's all in the mix" text="For a balanced diet, you should pay attention to the nutritional values in your food. A composition of 50 to 60 percent carbohydrates, 15 to 25 percent protein and 20 to 30 percent fat is recommended." />}}
 
 ## Example of a weekly meal prep plan
 

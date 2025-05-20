@@ -1,9 +1,9 @@
 ---
-title: "Regalos de Navidad para empleados y clientes: 24 ideas"
+title: 'Regalos de Navidad para empleados y clientes: 24 ideas'
 date: 2024-10-28
-lastmod: "2024-11-20"
-author: "lsc"
-url: "/es/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden"
+lastmod: '2024-11-20'
+author: 'lsc'
+url: '/es/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
 ---
 
 La Navidad está a la vuelta de la esquina y a usted le gustaría obsequiar a sus empleados, socios comerciales o clientes con un pequeño regalo como muestra de su **agradecimiento**. Pero, ¿cuáles podrían ser los regalos de Navidad adecuados para empleados y clientes? Se necesitan muchas ideas y un instinto certero. En este artículo descubrirá qué **regalos de Navidad** harán las delicias de sus empleados y clientes y con qué **presupuesto** puede contar.
@@ -110,7 +110,7 @@ Todavía hay que tener en cuenta algunas cosas en las fiestas de Navidad...
 
 Si quiere hacer felices a sus clientes o socios comerciales en Navidad, también hay un límite libre de impuestos que debe tener en cuenta. Puede gastar hasta 50 euros en un regalo por cliente profesional para utilizar la desgravación fiscal. Puede reclamar los regalos hasta este límite máximo como **gasto empresarial**.
 
-{{< warning headline="Más dinero desde 2024" text="El límite es de 50 euros desde marzo de 2024. Como parte de la Ley de Oportunidades de Crecimiento, esta cantidad se elevó desde los 35 euros aplicables anteriormente." >}}
+{{< warning headline="Más dinero desde 2024" text="El límite es de 50 euros desde marzo de 2024. Como parte de la Ley de Oportunidades de Crecimiento, esta cantidad se elevó desde los 35 euros aplicables anteriormente." />}}
 
 Tenga en cuenta también que debe registrar en la contabilidad el beneficiario o la empresa y la ocasión para cada regalo cuyo valor supere los 10 euros.
 

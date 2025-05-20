@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.3: Nuevos enlaces de formularios, automatizaciones y funciones de la aplicación"
+title: 'SeaTable 4.3: Nuevos enlaces de formularios, automatizaciones y funciones de la aplicación'
 date: 2024-02-08
-lastmod: "2024-02-16"
-author: "kgr"
-url: "/es/seatable-release-4-3"
+lastmod: '2024-02-16'
+author: 'kgr'
+url: '/es/seatable-release-4-3'
 ---
 
 La temporada de carnaval en Alemania se acerca a su punto álgido, ¡y los cañones de confeti también estallan en SeaTable! La versión 4.3 trae consigo algunas funciones y mejoras muy esperadas.
@@ -22,7 +22,7 @@ También hemos añadido la nueva opción de crear **URL personalizadas** para fo
 
 ![Nuevo diálogo de enlace de formularios en SeaTable 4.3](images/Formularlink-Dialog.gif)
 
-{{< warning headline="Nota" text="La parte definida por el usuario que se añade al enlace debe tener **entre 5 y 30 caracteres** y sólo puede contener **letras**, **números** y **guiones**. Además, cada URL debe ser única: Si una URL definida por el usuario ya está en uso, aparece un mensaje de error." >}}
+{{< warning headline="Nota" text="La parte definida por el usuario que se añade al enlace debe tener **entre 5 y 30 caracteres** y sólo puede contener **letras**, **números** y **guiones**. Además, cada URL debe ser única: Si una URL definida por el usuario ya está en uso, aparece un mensaje de error." />}}
 
 ## Acciones automatizadas: Guardar PDF y enviar notificación de aplicación
 
@@ -51,7 +51,7 @@ Esta funcionalidad es especialmente útil en la aplicación universal. Puede act
 
 Una novedad de la aplicación universal es la [función de comentarios](https://seatable.io/es/docs/arbeiten-mit-zeilen/zeilen-kommentieren/), que ya reconocerá en la misma forma de Base. Anota tus comentarios o información adicional en los registros de datos de otros usuarios de la aplicación y mantén conversaciones sobre la marcha.
 
-{{< warning headline="Es bueno saberlo" text="Los comentarios en la aplicación son completamente **independientes** de los comentarios en la base. Esto significa que cada comentario solo es visible donde se publica." >}}
+{{< warning headline="Es bueno saberlo" text="Los comentarios en la aplicación son completamente **independientes** de los comentarios en la base. Esto significa que cada comentario solo es visible donde se publica." />}}
 
 En la [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), le esperan dos nuevos elementos: el **contenedor** y el **mapa**. El contenedor proporciona una cuadrícula con la que puede organizar otros elementos (textos, imágenes, estadísticas) más fácilmente y agruparlos.
 
@@ -75,7 +75,7 @@ En la versión 4.4, la [aplicación de galería](https://seatable.io/es/docs/app
 
 Si utiliza las dos aplicaciones que expiran, le recomendamos que reconstruya sus casos de uso con páginas de [galería](https://seatable.io/es/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) y páginas [de](https://seatable.io/es/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) consulta en el App Builder antes de la próxima versión. Por cierto, ahora puedes añadir campos a las páginas de consulta que permiten a los usuarios buscar valores específicos en **las columnas de enlace**.
 
-{{< warning headline="¡Atención, peligro de confusión!" text="También conoces la [galería](https://seatable.io/es/docs/plugins/anleitung-zum-galerie-plugin/) y la [consulta](https://seatable.io/es/docs/plugins/anleitung-zum-sql-abfrage-plugin/) SQL como **plugins** que puedes añadir a tus bases. Estos, por supuesto, permanecerán en su lugar." >}}
+{{< warning headline="¡Atención, peligro de confusión!" text="También conoces la [galería](https://seatable.io/es/docs/plugins/anleitung-zum-galerie-plugin/) y la [consulta](https://seatable.io/es/docs/plugins/anleitung-zum-sql-abfrage-plugin/) SQL como **plugins** que puedes añadir a tus bases. Estos, por supuesto, permanecerán en su lugar." />}}
 
 ## Y mucho más
 

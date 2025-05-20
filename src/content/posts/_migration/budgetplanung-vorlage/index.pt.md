@@ -1,9 +1,9 @@
 ---
-title: "Planeamento orçamental: vantagens, tipos, conselhos e um exemplo com modelo"
+title: 'Planeamento orçamental: vantagens, tipos, conselhos e um exemplo com modelo'
 date: 2023-12-13
-lastmod: "2025-02-03"
-author: "rdb"
-url: "/pt/budgetplanung-vorlage"
+lastmod: '2025-02-03'
+author: 'rdb'
+url: '/pt/budgetplanung-vorlage'
 ---
 
 ## Vantagens, tipos, conselhos para o planeamento orçamental
@@ -28,7 +28,7 @@ O planeamento orçamental orientado para o futuro ajuda-o a atribuir dinheiro e 
 
 **O planeamento estratégico do orçamento** para os próximos dois a cinco anos também é bastante comum. Este planeamento **ajuda-o a tomar decisões comerciais a longo prazo** que irão impulsionar a sua empresa e garantir o seu sucesso, como a abertura de novas localizações. No entanto, quanto mais distante for o horizonte de planeamento, mais difícil e incerto será fazer uma previsão exacta.
 
-{{< warning headline="Dica" text="Como é necessário um plano orçamental para cada exercício financeiro, é melhor criar um modelo que possa ser utilizado repetidamente." >}}
+{{< warning headline="Dica" text="Como é necessário um plano orçamental para cada exercício financeiro, é melhor criar um modelo que possa ser utilizado repetidamente." />}}
 
 ![Modelo de plano orçamental](images/goodnotes-5-1s5TOXcMZQ8-unsplash.jpg)
 
@@ -82,7 +82,7 @@ Sobretudo nas lutas internas pelo poder, os resultados são muitas vezes encober
 
 **A orçamentação específica deve manter-se adaptável**, uma vez que se baseia parcialmente em pressupostos para o futuro que não podem ser previstos com certeza. Se as coisas evoluírem de forma diferente da esperada, é necessário reagir com flexibilidade.
 
-{{< warning headline="Orçamento de base zero" text="[A orçamentação de base zero](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) é um método em que os planos orçamentais dos anos anteriores **não** são utilizados como base, mas em que todos os anos são elaborados novos planos orçamentais a partir do zero. Este repensar constante tem como objetivo descobrir medidas desnecessárias e poupar custos." >}}
+{{< warning headline="Orçamento de base zero" text="[A orçamentação de base zero](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) é um método em que os planos orçamentais dos anos anteriores **não** são utilizados como base, mas em que todos os anos são elaborados novos planos orçamentais a partir do zero. Este repensar constante tem como objetivo descobrir medidas desnecessárias e poupar custos." />}}
 
 ## Planeamento orçamental na gestão de projectos
 

@@ -1,23 +1,23 @@
 ---
-title: "Cover letter: How to convince every recruiter"
+title: 'Cover letter: How to convince every recruiter'
 date: 2024-04-22
-lastmod: "2024-04-22"
-coverImage: "Bewerbungsschreiben_02-e1713776597515.png"
-author: "lsc"
-url: "/bewerbungsschreiben"
+lastmod: '2024-04-22'
+coverImage: 'Bewerbungsschreiben_02-e1713776597515.png'
+author: 'lsc'
+url: '/bewerbungsschreiben'
 ---
 
 Whether it's an internship, apprenticeship or permanent position - the first step on the way to your dream job is always a successful **application**. Have you found lots of interesting **job vacancies**, but writing applications is giving you a headache? Don't worry, you're not alone. For many people, the **letter of application** is a major obstacle, as it requires an honest self-assessment and involves a lot of time-consuming formulation of your own skills.
 
 But it's worth the effort, because only a successful application letter will open the door to a personal **interview** and bring you one step closer to your **dream job**. Below you will find out what you should pay attention to when writing your application.
 
-{{< warning headline="Tip" text="To keep track of your applications, you can also use a planning tool. [Here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) you can find out how you can use this tool to generate various application letters from a template at the touch of a button." >}}
+{{< warning headline="Tip" text="To keep track of your applications, you can also use a planning tool. [Here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) you can find out how you can use this tool to generate various application letters from a template at the touch of a button." />}}
 
 ## Why a letter of application is important
 
 The cover letter is an integral part of every application. While you should include your **hard skills** in your **CV**, you should dedicate your cover letter to your **soft skills**. These have become increasingly important in recent years, which is why the personal cover letter has become more of a focus in the selection process.
 
-{{< warning headline="Hard versus soft skills" text="Hard skills include all the specialist knowledge you have acquired through work, internships or leisure activities. [Soft skills](https://www.karriereakademie.de/soft-skills), on the other hand, summarize the characteristics that make up your personality." >}}
+{{< warning headline="Hard versus soft skills" text="Hard skills include all the specialist knowledge you have acquired through work, internships or leisure activities. [Soft skills](https://www.karriereakademie.de/soft-skills), on the other hand, summarize the characteristics that make up your personality." />}}
 
 With a cover letter, you have the opportunity to present yourself confidently and emphasize your positive qualities. On the one hand, it is about **self-presentation** by listing relevant qualifications, and on the other hand, it is about standing out from the crowd of applicants in terms of language.
 
@@ -52,7 +52,7 @@ Combine the soft skills you have learned with the corresponding hard skills.
 
 You can put aside any qualifications that you have not marked as **relevant to your application**. Be consistent and also delete information that says something positive about you but does not fit the position.
 
-{{< warning headline="Tip: Change your perspective" text="Always remember: your application letter must appeal to the recruiter and not to you. How can an applicant for this position score points? You can bring up other exciting qualities of yours in a later interview if necessary." >}}
+{{< warning headline="Tip: Change your perspective" text="Always remember: your application letter must appeal to the recruiter and not to you. How can an applicant for this position score points? You can bring up other exciting qualities of yours in a later interview if necessary." />}}
 
 ## Create application overview
 
@@ -62,7 +62,7 @@ If you would like to use SeaTable for your application planner, simply [register
 
 ## Formalities in your letter of application
 
-Before you start formulating your application, it is important to have a **uniform design** for all your application documents. This will not only make your application look more coherent at first glance, but you will also convey that you **neat** and **clean** work.  
+Before you start formulating your application, it is important to have a **uniform design** for all your application documents. This will not only make your application look more coherent at first glance, but you will also convey that you **neat** and **clean** work.
 
 ![Choose a suitable font, line spacing and font size.](images/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
@@ -92,7 +92,7 @@ The letterhead is traditionally used when you send your application letter by po
 
 The address should always be free of errors and without gaps. Check that the **company name** is complete. To avoid unnecessary errors, copy the spelling of the company from the website. The **name of your contact person** should be correct and, if given, with an academic title.
 
-{{< warning headline="How to find the right contact person" text="The **job advertisement** does not always include the name of your contact person. At best, however, you should find this person. You can usually find a contact on the **company's job or career pages**. If this is not the case, you can also ask for the name by telephone." >}}
+{{< warning headline="How to find the right contact person" text="The **job advertisement** does not always include the name of your contact person. At best, however, you should find this person. You can usually find a contact on the **company's job or career pages**. If this is not the case, you can also ask for the name by telephone." />}}
 
 The **date** then follows, some distance to the right. In Germany, this is structured as follows:
 
@@ -148,7 +148,7 @@ Now all that is missing is your **handwritten signature**. You can either place 
 
 List the required attachments at the end of your cover letter under the heading **Attachments**. These usually include your **CV, work and internship references and certificates**. Attach these to your application in a separate **PDF file**.
 
-{{< warning headline="Order of the documents" text="The order in which you list the documents in your letter of application must match the order of your documents in the PDF file. As a rule, the CV comes first as the most important document." >}}
+{{< warning headline="Order of the documents" text="The order in which you list the documents in your letter of application must match the order of your documents in the PDF file. As a rule, the CV comes first as the most important document." />}}
 
 ## Special forms of the letter of application
 
@@ -178,7 +178,7 @@ Is the content of your application ready and you want to put the finishing touch
 
 ### Dos and don'ts
 
-Pay attention to your writing style and the wording you use.  
+Pay attention to your writing style and the wording you use.
 
 ![You can enhance your cover letter by paying attention to the dos and don'ts.](images/Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
@@ -195,26 +195,22 @@ Here you will find formulation aids for various situations in the cover letter:
 Establish company and topic reference|||
 
 "I have already gained insights into journalistic work during several internships in the media industry. Now I would like to apply the skills I acquired there to the PR of your international company and develop them further."
-
-\--- 
+{{< /faq >}}
 
 Packaging professional experience profitably|||
 
 "Thanks to my 10 years in sales, I know how to inspire customers in direct contact, which is why I can successfully increase turnover in your sales team."
-
-\--- 
+{{< /faq >}}
 
 Developing professional qualifications|||
 
 "Thanks to my Romance studies, I have a B2-level command of Spanish and French and have applied and deepened this knowledge during internships abroad in Madrid and Paris."
-
-\--- 
+{{< /faq >}}
 
 Establish soft skills|||
 
 "In my position as deputy team leader, I have developed a collegial management style in which I treat my employees as equals and assign them tasks based on their individual skills. Together, we completed the project in half the allotted time."
-
-\---
+{{< /faq >}}
 
 ### Checklist
 

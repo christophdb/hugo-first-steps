@@ -1,9 +1,9 @@
 ---
-title: "Wissensmanagement: Wie Sie Wissen nutzbar machen"
+title: 'Wissensmanagement: Wie Sie Wissen nutzbar machen'
 date: 2024-08-09
-lastmod: "2024-08-09"
-author: "lsc"
-url: "/de/wissensmanagement"
+lastmod: '2024-08-09'
+author: 'lsc'
+url: '/de/wissensmanagement'
 ---
 
 Wissen ist eine der wichtigsten Ressourcen in jedem Unternehmen. Nicht umsonst wird Wissen bereits als [Produktionsfaktor](https://de.wikipedia.org/wiki/Produktionsfaktor) in einer Reihe mit Boden, Kapital und Arbeit genannt, wenn es um den Erfolg eines Unternehmens geht. Doch was braucht es, um das Wissen Ihrer Mitarbeiter für andere in Ihrem Unternehmen nutzbar zu machen? Die Antwort: ein funktionierendes **Wissensmanagement**!
@@ -16,7 +16,7 @@ Den Umgang mit Wissen im Unternehmen optimieren – darum geht es beim Wissensma
 
 Das erreichen Sie dadurch, dass das in Ihrem Unternehmen verborgene Wissen gesammelt, aufbereitet, für alle zugänglich gemacht und letztendlich effektiv angewandt wird.
 
-{{< warning headline="Wissensmanagement in der Wissenschaft" text="Seit den 1990er Jahren spielt das Wissensmanagement auch eine wichtige Rolle in der Wissenschaft. Im Vordergrund steht dabei die Entwicklung wissenschaftlicher Modelle von der Wissensproduktion (z. B. durch Forschung) über den Wissenstransfer bis hin zur Speicherung von Wissen." >}}
+{{< warning headline="Wissensmanagement in der Wissenschaft" text="Seit den 1990er Jahren spielt das Wissensmanagement auch eine wichtige Rolle in der Wissenschaft. Im Vordergrund steht dabei die Entwicklung wissenschaftlicher Modelle von der Wissensproduktion (z. B. durch Forschung) über den Wissenstransfer bis hin zur Speicherung von Wissen." />}}
 
 ## Wissen ist nicht gleich Wissen
 
@@ -135,44 +135,37 @@ Möchten Sie in Ihrem Unternehmen ein erfolgreiches Wissensmanagement aufbauen, 
 Wikis und Informationsmanagementsysteme|||
 
 Beispiele: Confluence, Guru
-
-\--- 
+{{< /faq >}}
 
 Groupware und Kollaborationssysteme|||
 
 Beispiele: BSCW, Microsoft SharePoint
-
-\--- 
+{{< /faq >}}
 
 Instant Messenger und Kommunikationssysteme|||
 
 Beispiele: Slack, Microsoft Teams
-
-\--- 
+{{< /faq >}}
 
 Dokumentenmanagement- und Dateiaustauschsysteme|||
 
 Beispiele: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
-
-\--- 
+{{< /faq >}}
 
 Customer-Relationship-Management-Systeme|||
 
 Beispiele: Pipedrive, Salesforce
-
-\--- 
+{{< /faq >}}
 
 Projektmanagementsysteme|||
 
 Beispiele: Asana, Jira
-
-\--- 
+{{< /faq >}}
 
 HR- und Personalmanagementsysteme|||
 
 Beispiele: Personio, DATEV
-
-\--- 
+{{< /faq >}}
 
 Contentmanagementsysteme|||
 

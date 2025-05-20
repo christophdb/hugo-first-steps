@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.4 : Application universelle, importation Excel & jeux de données communs"
+title: 'SeaTable 4.4 : Application universelle, importation Excel & jeux de données communs'
 date: 2024-05-15
-lastmod: "2024-05-15"
-author: "kgr"
-url: "/fr/seatable-release-4-4"
+lastmod: '2024-05-15'
+author: 'kgr'
+url: '/fr/seatable-release-4-4'
 ---
 
 Dans SeaTable 4.4, nous poursuivons avec verve le développement de l'Universal App Builder. De nombreuses nouvelles fonctions permettent de créer des applications web encore plus puissantes et confortables. En outre, nous avons peaufiné la fonction d'importation et les jeux de données communs. Les valeurs par défaut pratiques s'appliquent désormais de manière universelle.
@@ -44,13 +44,13 @@ Dans la version 4.4, il est possible de masquer la **barre de titre** sur la [pa
 
 Comme nous l'avons annoncé dans les dernières notes de version, nous avons **supprimé** le **Générateur d'applications de galerie** dans SeaTable 4.4. Si vous souhaitez créer une nouvelle application avec une [galerie](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/), vous disposez d'une alternative plus fonctionnelle avec l'Universal App Builder.
 
-{{< warning headline="Bon à savoir" text="**Les applications de galerie existantes continuent de fonctionner**. Nous recommandons toutefois de passer les applications de galerie existantes aux applications universelles afin de profiter des développements et des améliorations." >}}
+{{< warning headline="Bon à savoir" text="**Les applications de galerie existantes continuent de fonctionner**. Nous recommandons toutefois de passer les applications de galerie existantes aux applications universelles afin de profiter des développements et des améliorations." />}}
 
 ![Créer un dialogue d'application](images/Create-app-dialog-.png)
 
 L'[application de consultation des données](https://seatable.io/fr/docs/apps/datenabfrage-app/) a également connu quelques changements. L'ancien App Builder pour la consultation des données a été supprimé et remplacé par un nouveau basé sur l'Universal App Builder. Cela signifie que vous pouvez bien sûr continuer à créer des applications publiques pour la consultation de vos bases, mais l'interface ressemble désormais à celle de l'Universal App Builder. Pour les apps de requête existantes, la situation est la même que pour les apps de galerie : vous ne devez rien faire et vous pouvez continuer à les utiliser.
 
-{{< warning headline="Gain d'efficacité" text="Les changements décrits ci-dessus nous permettent de nous concentrer sur le développement de l'Universal App Builder et d'atteindre ainsi une vitesse de développement plus élevée pour les fonctionnalités à venir." >}}
+{{< warning headline="Gain d'efficacité" text="Les changements décrits ci-dessus nous permettent de nous concentrer sur le développement de l'Universal App Builder et d'atteindre ainsi une vitesse de développement plus élevée pour les fonctionnalités à venir." />}}
 
 ## Une expérience utilisateur plus agréable lors de l'importation d'Excel
 
@@ -58,24 +58,23 @@ Avec SeaTable 4.4, l'[importation de tableaux Excel](https://seatable.io/fr/docs
 
 ![Importation Excel](images/Excel-Import.png)
 
-{{< warning headline="Petit avant-goût" text="Avec SeaTable 5.0, nous rendons l'importation encore plus flexible ! Il est désormais possible de sélectionner des colonnes individuelles d'un tableau et de les exclure de l'importation." >}}
+{{< warning headline="Petit avant-goût" text="Avec SeaTable 5.0, nous rendons l'importation encore plus flexible ! Il est désormais possible de sélectionner des colonnes individuelles d'un tableau et de les exclure de l'importation." />}}
 
 ## Plus de fonctions pour les ensembles de données partagés
 
 [Les ensembles de données partagés](https://seatable.io/fr/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) sont très utiles lorsque vous et les membres de votre équipe avez besoin de certains tableaux (par exemple une liste d'employés) à travers différents [groupes](https://seatable.io/fr/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) dans vos bases. Avec SeaTable 4.4, trois nouvelles fonctions viennent s'ajouter à celles déjà existantes :
 
 1. Si vous avez une [Copier la base](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)Si vous utilisez des bases de données qui contiennent des enregistrements partagés, vous pouvez décider de conserver ou non le lien avec ces enregistrements. Le groupe dans lequel vous copiez la base doit bien sûr avoir accès aux enregistrements communs.
-    
+
     ![Retenir le lien vers le dataset commun lors de la copie d'une base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
-    
+
 2. Après la [Restauration de bases à partir de snapshots](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) ou le [Création d'une base à partir d'un modèle](https://seatable.io/fr/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) permet de lier des tables existantes à un enregistrement commun et de permettre ainsi la synchronisation avec les données qui s'y trouvent. Jusqu'à présent, il n'était pas possible de réimporter des enregistrements communs, mais seulement de les intégrer dans de nouvelles tables.
-    
+
     ![Réimportation common dataset](images/Reimport-common-dataset.gif)
-    
+
 3. Depuis peu, le créateur d'un ensemble de données communes peut [Synchronisation](https://seatable.io/fr/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) de toutes les tables dépendantes avec l'ensemble de données, garantissant ainsi que les autres utilisateurs utilisent l'état actuel des données dans leurs bases. Par le passé, vous deviez compter sur les utilisateurs pour configurer la synchronisation automatique ou pour la déclencher manuellement.
-    
+
     ![Synchronisation forcée du jeu de données commun](images/Force-sync-of-common-dataset.png)
-    
 
 ## Les valeurs par défaut s'appliquent partout
 
@@ -85,7 +84,7 @@ Comme le champ d'action des valeurs par défaut s'est considérablement élargi,
 
 ![La valeur par défaut s'applique à toutes les nouvelles lignes](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
-{{< warning headline="Remarque" text="Si une valeur par défaut est définie à la fois dans le tableau et dans le formulaire web, la valeur du formulaire s'applique à toutes les lignes créées via le formulaire." >}}
+{{< warning headline="Remarque" text="Si une valeur par défaut est définie à la fois dans le tableau et dans le formulaire web, la valeur du formulaire s'applique à toutes les lignes créées via le formulaire." />}}
 
 D'ailleurs, même lorsque vous créez de nouvelles lignes via l'API, vous pouvez activer les valeurs par défaut avec le paramètre correspondant.
 

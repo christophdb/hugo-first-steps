@@ -1,9 +1,9 @@
 ---
-title: "Crie um plano de limpeza de acordo com os seus desejos: Modelo e dicas"
+title: 'Crie um plano de limpeza de acordo com os seus desejos: Modelo e dicas'
 date: 2023-09-06
-lastmod: "2023-09-13"
-author: "lsc"
-url: "/pt/einen-putzplan-nach-ihren-wuenschen-erstellen"
+lastmod: '2023-09-13'
+author: 'lsc'
+url: '/pt/einen-putzplan-nach-ihren-wuenschen-erstellen'
 ---
 
 Qualquer pessoa que viva com várias pessoas debaixo do mesmo teto conhece a situação: a loiça suja acumula-se no lava-loiça, o ralo do chuveiro está entupido e é preciso passar o aspirador outra vez. Mas ninguém se sente responsável e o trabalho incómodo continua por fazer. Para pôr fim ao caos, um plano de limpeza individual para a sua casa é a solução. Aqui pode encontrar tudo o que precisa de saber para criar o seu plano de limpeza.
@@ -36,7 +36,7 @@ Para ter uma visão geral das tarefas que têm de ser feitas, é útil dividi-la
 - **Corredor:** arrumar a cómoda, manter o cabide arrumado, limpar o espelho.
 - **Quarto:** fazer a cama, arrumar o guarda-roupa, lavar a roupa (normalmente é da responsabilidade de todos)
 
-{{< warning headline="É bom saber: De onde vem o pó irritante" text="O pó doméstico recorrente pode levar algumas pessoas à loucura ou mesmo provocar alergias. É constituído por partículas minúsculas provenientes de diferentes fontes. Pequenas partículas (p. ex., pólen, areia, fuligem) entram em casa ao arejar, a sujidade cai dos sapatos, o vestuário e os estofos perdem fibras microscópicas, as pessoas e os animais de estimação largam pêlos e cabelos, caem migalhas no chão, os insectos, como os ácaros, deixam excreções e decompõem-se em pó após a sua morte. Infelizmente, a formação de pó doméstico não pode ser evitada, mas é possível reduzi-la com um plano de limpeza." >}}
+{{< warning headline="É bom saber: De onde vem o pó irritante" text="O pó doméstico recorrente pode levar algumas pessoas à loucura ou mesmo provocar alergias. É constituído por partículas minúsculas provenientes de diferentes fontes. Pequenas partículas (p. ex., pólen, areia, fuligem) entram em casa ao arejar, a sujidade cai dos sapatos, o vestuário e os estofos perdem fibras microscópicas, as pessoas e os animais de estimação largam pêlos e cabelos, caem migalhas no chão, os insectos, como os ácaros, deixam excreções e decompõem-se em pó após a sua morte. Infelizmente, a formação de pó doméstico não pode ser evitada, mas é possível reduzi-la com um plano de limpeza." />}}
 
 ## Com que frequência é que o que tem de ser feito?
 

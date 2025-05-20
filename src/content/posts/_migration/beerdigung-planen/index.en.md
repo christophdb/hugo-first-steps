@@ -1,9 +1,9 @@
 ---
-title: "Beerdigung planen – für einen würdevollen Abschied"
+title: 'Beerdigung planen – für einen würdevollen Abschied'
 date: 2023-08-17
-lastmod: "2024-01-25"
-author: "kgr"
-url: "/beerdigung-planen"
+lastmod: '2024-01-25'
+author: 'kgr'
+url: '/beerdigung-planen'
 ---
 
 Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigung reibungslos hinter sich bringen? Oder Sie möchten Ihre eigene Beerdigung planen, um Ihre Angehörigen nach Ihrem Tod zu entlasten? Dieser Artikel liefert Ihnen alle wichtigen Informationen, was Sie rund um die Organisation einer Bestattung beachten sollten.
@@ -13,26 +13,22 @@ Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigu
 Was kostet eine Beerdigung?|||
 
 Die Kosten für eine Beerdigung können zwischen wenigen Tausend und mehreren Zehntausend Euro schwanken. Eine durchschnittliche Beerdigung in Deutschland kostet rund 13.000 Euro. Wo Sie bei den Kosten gegebenenfalls sparen können, erfahren Sie im Artikel.
-
-\--- 
+{{< /faq >}}
 
 Wo kann man sich bestatten lassen?|||
 
 In Deutschland sind im Grunde nur zwei Bestattungsarten erlaubt: Erd- und Feuerbestattung. Allerdings stehen einige Orte zur Auswahl, an denen der Leichnam oder die Asche beigesetzt werden kann. Dazu zählen Friedhöfe, Kolumbarien oder ausgewählte Gebiete in der Natur. Mehr dazu erfahren Sie im entsprechenden Kapitel.
-
-\--- 
+{{< /faq >}}
 
 Welche Dokumente braucht man für eine Beerdigung?|||
 
 Unter anderem benötigen Sie den Personalausweis des Verstorbenen, die Geburts- und Heiratsurkunde sowie den Totenschein und die Sterbeurkunde. Wie Sie diese Dokumente beschaffen, erfahren Sie ebenfalls im Artikel.
-
-\--- 
+{{< /faq >}}
 
 Muss man einen Bestatter beauftragen?|||
 
 Ja. In Deutschland ist gesetzlich vorgeschrieben, dass bestimmte Tätigkeiten wie die Überführung des Leichnams nur von einem Bestatter ausgeführt werden dürfen.
-
-\--- 
+{{< /faq >}}
 
 Wen sollte man zur Beerdigung einladen?|||
 
@@ -54,7 +50,7 @@ Aus diesem Grund sollten Sie bereits zu Lebzeiten offen mit Familie und Freunden
 
 Damit im Todesfall kein Chaos ausbricht, sollten Sie zuvor klären, wer sich um die Bestattung und die Abwicklung Ihrer Rechtsgeschäfte kümmern soll. Entscheiden Sie sich für eine oder mehrere **Personen Ihres Vertrauens**. Dies können nahe Verwandte wie Ehepartner, Kinder oder Geschwister, aber auch enge Freunde sein.
 
-{{< warning headline="Wichtiger Hinweis" text="Vergessen Sie nicht, Ihren Vertrauenspersonen eine [Vollmacht](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) zu erteilen, mit der sie nach Ihrem Tod unter anderem Zugriff auf Ihre Konten erhalten. Ansonsten sind die Verantwortlichen eventuell nicht handlungsfähig, da sie Wochen bis Monate auf die Eröffnung des Testaments oder die Erteilung eines Erbscheins warten müssen." >}}
+{{< warning headline="Wichtiger Hinweis" text="Vergessen Sie nicht, Ihren Vertrauenspersonen eine [Vollmacht](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) zu erteilen, mit der sie nach Ihrem Tod unter anderem Zugriff auf Ihre Konten erhalten. Ansonsten sind die Verantwortlichen eventuell nicht handlungsfähig, da sie Wochen bis Monate auf die Eröffnung des Testaments oder die Erteilung eines Erbscheins warten müssen." />}}
 
 ![Eine Beerdigung planen – in Ernstfall wissen Betroffene oft nicht, womit sie anfangen sollen.](images/the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
@@ -78,9 +74,9 @@ Vielleicht gibt es Verwandte oder Freunde, neben denen Sie gerne Ihre letzte Ruh
 
 Eine friedliche letzte Ruhe in der Natur wird immer beliebter.
 
-Bestattungen sind in Deutschland aber keineswegs überall erlaubt, sondern nur auf genehmigten Flächen!  
+Bestattungen sind in Deutschland aber keineswegs überall erlaubt, sondern nur auf genehmigten Flächen!
 
-{{< warning headline="Achtung" text="**Nicht erlaubt** ist es zum Beispiel, Verstorbene im eigenen Garten zu beerdigen oder die Asche mit nach Hause zu nehmen. In Deutschland ist es ebenso verboten, aus der Asche von Verstorbenen künstliche Diamanten zu erzeugen, die Asche bei einem Feuerwerk in den Nachthimmel zu schießen oder sie mit einer Rakete in den Weltraum zu befördern." >}}
+{{< warning headline="Achtung" text="**Nicht erlaubt** ist es zum Beispiel, Verstorbene im eigenen Garten zu beerdigen oder die Asche mit nach Hause zu nehmen. In Deutschland ist es ebenso verboten, aus der Asche von Verstorbenen künstliche Diamanten zu erzeugen, die Asche bei einem Feuerwerk in den Nachthimmel zu schießen oder sie mit einer Rakete in den Weltraum zu befördern." />}}
 
 Sprechen Sie mit Ihren Angehörigen, wie diese Sie gerne in Erinnerung behalten würden. Bei der Frage, wie man sich an einen geliebten Menschen erinnern möchte, gehen die Meinungen nämlich weit auseinander: Manche bevorzugen ein Grab als Ort des Gedenkens, manche einen persönlichen Gegenstand oder Fotos als Andenken an die verstorbene Person; und wieder andere tun jedes Jahr am Todestag etwas, das sie an die gemeinsame Zeit erinnert.
 
@@ -173,7 +169,7 @@ Trauerkleidung ist aber kein Muss. Auch unkonventionelle oder heitere Trauerfeie
 
 Über den Tod eines geliebten Menschen sollten Sie so schnell wie möglich **alle Bezugspersonen informieren**. Dazu gehören Verwandte, Freunde, Bekannte, Nachbarn und Arbeitskollegen. Machen Sie sich am besten eine Liste mit allen relevanten Personen und kontaktieren Sie diese schon, bevor Sie die Details der Trauerfeier geklärt haben. So haben alle Angehörigen die Möglichkeit, den Todesfall zu verarbeiten und ggf. Sonderurlaub zu beantragen.
 
-{{< warning headline="Sonderurlaub" text="Es gibt **keine gesetzlichen Regelungen** zum Sonderurlaub bei Todesfällen. Fragen Sie bei Ihrem Arbeitgeber nach, ob er bezahlten Sonderurlaub über die im Arbeitsvertrag vereinbarten Urlaubstage hinaus gewährt. **Üblich sind 1 bis 2 Tage Sonderurlaub beim Tod von engsten Angehörigen.** Dazu zählen Ehepartner, Kinder, Eltern, Schwiegereltern, Großeltern und Geschwister." >}}
+{{< warning headline="Sonderurlaub" text="Es gibt **keine gesetzlichen Regelungen** zum Sonderurlaub bei Todesfällen. Fragen Sie bei Ihrem Arbeitgeber nach, ob er bezahlten Sonderurlaub über die im Arbeitsvertrag vereinbarten Urlaubstage hinaus gewährt. **Üblich sind 1 bis 2 Tage Sonderurlaub beim Tod von engsten Angehörigen.** Dazu zählen Ehepartner, Kinder, Eltern, Schwiegereltern, Großeltern und Geschwister." />}}
 
 Für die **Benachrichtigung der Trauergäste** haben Sie im Optimalfall Zugriff auf eine Kontaktliste im Mobiltelefon oder E-Mail-Account des Verstorbenen. Wenn Sie das Umfeld des Verstorbenen sehr gut kennen, können Sie die Personen aber auch aus dem Gedächtnis notieren und die Kontaktdaten herausfinden. Sofern die verstorbene Person auf Social Media aktiv war, können Sie dort Kontakte anschreiben.
 

@@ -1,9 +1,9 @@
 ---
-title: "Abastecer-se de material de emergência: O que deve ter sempre em casa"
+title: 'Abastecer-se de material de emergência: O que deve ter sempre em casa'
 date: 2023-09-20
-lastmod: "2023-09-20"
-author: "lsc"
-url: "/pt/notvorrat-anlegen"
+lastmod: '2023-09-20'
+author: 'lsc'
+url: '/pt/notvorrat-anlegen'
 ---
 
 O que faria se a eletricidade e a água falhassem subitamente em todo o país? Na Alemanha isso é muito improvável, mas noutras partes do mundo os danos nas infra-estruturas são mais comuns. Muitas pessoas não estão suficientemente preparadas para estas e outras **situações de emergência**.
@@ -14,7 +14,7 @@ Por conseguinte, é aconselhável tomar as melhores disposições para o pior ce
 
 O que pode significar ter de recorrer à constituição de reservas de emergência é algo que conhecemos, pelo menos, desde a pandemia do coronavírus. Com receio de não poder sair do apartamento durante um período de tempo mais longo ou de que os bens urgentemente necessários deixassem de estar disponíveis, foram acumuladas grandes quantidades de massa e de papel higiénico na Alemanha. Isto demonstra-o: Quando se trata de uma situação de crise, os supermercados são rapidamente esvaziados. Para além da situação de emergência específica, a acumulação de alimentos tem a vantagem de ser independente dos horários de abertura das lojas e das cadeias de abastecimento.
 
-{{< warning headline="É isto que o Estado alemão recomenda" text="O Serviço Federal de Proteção Civil e Assistência em caso de Catástrofe (BKK) recomenda que se faça uma reserva de bens de emergência para **10 dias**. Para calcular este valor para o seu agregado familiar, existe uma [calculadora de stocks](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator) pormenorizada. Esta calcula quais os alimentos que deve comprar e em que quantidades para garantir um abastecimento suficiente." >}}
+{{< warning headline="É isto que o Estado alemão recomenda" text="O Serviço Federal de Proteção Civil e Assistência em caso de Catástrofe (BKK) recomenda que se faça uma reserva de bens de emergência para **10 dias**. Para calcular este valor para o seu agregado familiar, existe uma [calculadora de stocks](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator) pormenorizada. Esta calcula quais os alimentos que deve comprar e em que quantidades para garantir um abastecimento suficiente." />}}
 
 ## Eis o que deve procurar ao escolher os alimentos
 
@@ -52,7 +52,7 @@ Outra forma de conservar os alimentos é fazer pickles.
 
 Para evitar que os alimentos armazenados ultrapassem o prazo de validade e se tornem não comestíveis em caso de emergência, pode também trabalhar com um "stock vivo". Neste caso, integra os alimentos armazenados na sua utilização diária e compra provisões. Desta forma, nada se estraga. Certifique-se de que coloca sempre os alimentos recém-comprados na parte de trás da prateleira, de modo a consumir primeiro os mais antigos. Com um [planeador online para a sua reserva](https://seatable.io/pt/notvorrat-anlegen/#Online-Planer_fuer_Ihren_Notvorrat), mantém sempre um registo dos alimentos que devem ser consumidos a seguir.
 
-{{< warning headline="Este é o tempo que os alimentos podem ser conservados" text="A **data de validade indicada na** embalagem indica o período mínimo até ao qual um produto pode ser armazenado e consumido. No entanto, isto não significa que o alimento deixe de ser comestível para além desta data. Se forem armazenados corretamente e selados, são geralmente comestíveis para além do prazo sem hesitação. No entanto, os alimentos devem ser verificados quanto a vestígios de deterioração antes do consumo. Estes podem ser, por exemplo, um cheiro desagradável, bolor ou embalagens inchadas." >}}
+{{< warning headline="Este é o tempo que os alimentos podem ser conservados" text="A **data de validade indicada na** embalagem indica o período mínimo até ao qual um produto pode ser armazenado e consumido. No entanto, isto não significa que o alimento deixe de ser comestível para além desta data. Se forem armazenados corretamente e selados, são geralmente comestíveis para além do prazo sem hesitação. No entanto, os alimentos devem ser verificados quanto a vestígios de deterioração antes do consumo. Estes podem ser, por exemplo, um cheiro desagradável, bolor ou embalagens inchadas." />}}
 
 ### Poupar sabiamente nas promoções de desconto
 

@@ -1,10 +1,10 @@
 ---
-title: "Fundraising: How to collect and manage donations - SeaTable"
+title: 'Fundraising: How to collect and manage donations - SeaTable'
 date: 2024-04-16
-lastmod: "2024-04-16"
-coverImage: "charity-donations-fundraising-nonprofit-volunteer-concept.jpg"
-author: "nsc"
-url: "/fundraising"
+lastmod: '2024-04-16'
+coverImage: 'charity-donations-fundraising-nonprofit-volunteer-concept.jpg'
+author: 'nsc'
+url: '/fundraising'
 ---
 
 **Fundraising** is more than just a financing strategy: it is a way to achieve goals together. From supporting **non-profit organizations** and **political campaigns** to financing **entrepreneurial innovations**, it permeates almost all areas of social life. It draws on a variety of strategies to promote people's commitment and solidarity.
@@ -27,7 +27,7 @@ In order to fundraise successfully and convince people of your project, a direct
 
 It is important that you provide detailed information, including the specific **amount** you need for your defined **purpose**. Use **emotional and descriptive language** to get as many interested parties as possible excited about your idea.
 
-{{< warning headline="Tip" text="A tried and tested approach is to send out **donation letters**. These allow you to communicate your message clearly and effectively and address potential donors on a personal level." >}}
+{{< warning headline="Tip" text="A tried and tested approach is to send out **donation letters**. These allow you to communicate your message clearly and effectively and address potential donors on a personal level." />}}
 
 ![Jar with coins, out of which a small plant grows](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 

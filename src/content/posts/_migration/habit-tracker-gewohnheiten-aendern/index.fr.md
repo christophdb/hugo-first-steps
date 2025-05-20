@@ -1,9 +1,9 @@
 ---
-title: "Habit Tracker - comment changer vos habitudes à long terme"
+title: 'Habit Tracker - comment changer vos habitudes à long terme'
 date: 2023-12-06
-lastmod: "2024-01-25"
-author: "lsc"
-url: "/fr/habit-tracker-gewohnheiten-aendern"
+lastmod: '2024-01-25'
+author: 'lsc'
+url: '/fr/habit-tracker-gewohnheiten-aendern'
 ---
 
 Prendre **de bonnes résolutions** pour la nouvelle année est devenu une habitude pour de nombreuses personnes. Mais chaque année, on est déçu de ne pas réussir à tenir ses bonnes résolutions. Il faut en effet faire preuve de beaucoup de volonté pour intégrer de nouvelles habitudes dans notre vie. Pour faciliter cette démarche, il existe des **Habit Tracker**.
@@ -20,7 +20,7 @@ Voici à quoi pourrait ressembler votre Habit Tracker.
 
 Votre imagination n'a pas de limite pour la **conception** de votre Habit Tracker. Travaillez par exemple avec différentes **couleurs** et polices de caractères ou concrétisez simplement vos idées en ligne avec l'[Habit Tracker de SeaTable](https://seatable.io/fr/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). Ce faisant, ne notez pas seulement les habitudes que vous souhaitez adopter, mais aussi celles que vous avez déjà adoptées. Le suivi vous aidera à prendre conscience des habitudes que vous aviez perçues jusqu'alors comme allant de soi.
 
-{{< warning headline="Pourquoi nous avons besoin d'habitudes" text="Les habitudes nous facilitent la vie. Une fois que vous avez assimilé un comportement, vous l'exécutez généralement automatiquement. L'activité se déroule de manière subconsciente, comme par exemple le brossage quotidien des dents que nous faisons par habitude, sans nous interroger à chaque fois sur son utilité. Nous épargnons ainsi au cerveau un travail de réflexion et créons en même temps des capacités pour des processus plus importants." >}}
+{{< warning headline="Pourquoi nous avons besoin d'habitudes" text="Les habitudes nous facilitent la vie. Une fois que vous avez assimilé un comportement, vous l'exécutez généralement automatiquement. L'activité se déroule de manière subconsciente, comme par exemple le brossage quotidien des dents que nous faisons par habitude, sans nous interroger à chaque fois sur son utilité. Nous épargnons ainsi au cerveau un travail de réflexion et créons en même temps des capacités pour des processus plus importants." />}}
 
 Mais n'oubliez pas : Votre Habit Tracker n'est pas fait pour durer. L'objectif est de développer une **routine** afin qu'à un moment donné, vous n'ayez plus besoin d'enregistrer votre activité.
 
@@ -30,9 +30,9 @@ Outre l'objectif d'apprendre des habitudes et de les intégrer dans votre quotid
 
 En outre, les succès rapidement identifiables renforcent la confiance en soi et incitent à continuer de **manière** **motivée** et **disciplinée**. Avec un Habit Tracker, vous développez rapidement une ambition de ne pas laisser la série de victoires s'interrompre.
 
-{{< warning headline="Le suivi aide à atteindre les objectifs" text="La science montre également que le suivi vous aide à atteindre vos objectifs. [Des études](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) montrent que les personnes qui suivent leurs progrès ont plus de succès dans la réalisation de leurs objectifs." >}}
+{{< warning headline="Le suivi aide à atteindre les objectifs" text="La science montre également que le suivi vous aide à atteindre vos objectifs. [Des études](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) montrent que les personnes qui suivent leurs progrès ont plus de succès dans la réalisation de leurs objectifs." />}}
 
-Le plus grand avantage est sans doute la **mise en place de routines**. En prenant conscience de vos progrès, vous pouvez intérioriser vos habitudes. C'est ce que prouve le Habit Tracker en lui-même. Après tout, le fait de cocher régulièrement vos "to-do" est également une habitude.  
+Le plus grand avantage est sans doute la **mise en place de routines**. En prenant conscience de vos progrès, vous pouvez intérioriser vos habitudes. C'est ce que prouve le Habit Tracker en lui-même. Après tout, le fait de cocher régulièrement vos "to-do" est également une habitude.
 
 ## Les habitudes que vous pouvez suivre
 
@@ -76,7 +76,7 @@ Adopter un comportement régulier demande une grande **autodiscipline**. Il exis
 
 ![Le livre Atomic Habits contient les conseils ci-dessous, que vous pouvez intégrer dans votre traqueur d'habitudes.](https://seatable.io/wp-content/uploads/2023/11/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
-Le best-seller de James Clear contient des conseils utiles.  
+Le best-seller de James Clear contient des conseils utiles.
 
 Les conseils suivants sont tirés du livre **La méthode 1%** (en anglais _Atomic Habits_) de James Clear et peuvent rendre votre Habit Tracker encore plus efficace.
 
@@ -85,20 +85,17 @@ Les conseils suivants sont tirés du livre **La méthode 1%** (en anglais _Atomi
 Intégrer des habitudes dans la vie quotidienne|||
 
 Pour rendre une action souhaitable plus contraignante, associez-la au lieu et à l'heure de son exécution.
-
-\--- 
+{{< /faq >}}
 
 Relier le nouveau et l'ancien|||
 
 Les habitudes déjà automatisées peuvent vous faciliter l'apprentissage de nouvelles habitudes. Il vous suffit d'exécuter successivement une habitude actuelle et une nouvelle habitude.
-
-\--- 
+{{< /faq >}}
 
 Utiliser les incitations et les récompenses|||
 
 Les habitudes que vous souhaitez acquérir ne vous procurent pas toutes du plaisir. C'est pourquoi il peut être utile de travailler avec un système de récompense. Exécutez une tâche que vous n'aimez pas et récompensez-vous ensuite avec quelque chose que vous trouvez facile et agréable.
-
-\--- 
+{{< /faq >}}
 
 Habits de 2 minutes|||
 

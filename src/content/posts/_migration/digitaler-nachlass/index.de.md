@@ -1,9 +1,9 @@
 ---
-title: "Digitaler Nachlass: So können Sie Ihre Zugangsdaten verwalten"
+title: 'Digitaler Nachlass: So können Sie Ihre Zugangsdaten verwalten'
 date: 2023-10-31
-lastmod: "2023-10-31"
-author: "kgr"
-url: "/de/digitaler-nachlass"
+lastmod: '2023-10-31'
+author: 'kgr'
+url: '/de/digitaler-nachlass'
 ---
 
 Im heutigen digitalen Zeitalter gewinnt unser **Online-Leben** immer weiter an Bedeutung: Wir kommunizieren über E-Mails, Messenger und soziale Medien, speichern wichtige Dateien und Fotos in der Cloud, betreiben Online-Banking und hinterlassen unzählige Spuren im Internet. Doch was passiert eigentlich mit all diesen Daten und Accounts, wenn man eines Tages stirbt? Stichwort: **digitaler Nachlass**.
@@ -85,7 +85,7 @@ Ihr digitaler Nachlass kann jede Menge Daten enthalten. Je nach Anzahl Ihrer Acc
 - Digitale Abonnements (z. B. Zeitschriften, E-Paper)
 - Sonstige Nutzerkonten (z. B. Foren, Adobe Creative Cloud)
 
-{{< warning headline="Tipp" text="Entrümpeln Sie Ihr digitales Erbe noch zu Lebzeiten. Löschen Sie Accounts und kündigen Sie Dienste, die Sie nicht mehr nutzen. Damit ersparen Sie Ihren Angehörigen viel Arbeit und unnötige Kosten nach Ihrem Tod." >}}
+{{< warning headline="Tipp" text="Entrümpeln Sie Ihr digitales Erbe noch zu Lebzeiten. Löschen Sie Accounts und kündigen Sie Dienste, die Sie nicht mehr nutzen. Damit ersparen Sie Ihren Angehörigen viel Arbeit und unnötige Kosten nach Ihrem Tod." />}}
 
 ### 3\. Vertrauensperson bestimmen
 

@@ -1,9 +1,9 @@
 ---
-title: "Planear um funeral - para uma despedida digna"
+title: 'Planear um funeral - para uma despedida digna'
 date: 2023-08-17
-lastmod: "2024-01-25"
-author: "kgr"
-url: "/pt/beerdigung-planen"
+lastmod: '2024-01-25'
+author: 'kgr'
+url: '/pt/beerdigung-planen'
 ---
 
 Perdeu um ente querido e gostaria de organizar o funeral sem problemas? Ou gostaria de planear o seu próprio funeral para aliviar os seus familiares após a sua morte? Este artigo fornece-lhe todas as informações importantes que precisa de saber sobre a organização de um funeral.
@@ -13,26 +13,22 @@ Perdeu um ente querido e gostaria de organizar o funeral sem problemas? Ou gosta
 Quanto custa um funeral?|||
 
 O custo de um funeral pode variar entre alguns milhares e várias dezenas de milhares de euros. Um funeral médio na Alemanha custa cerca de 13.000 euros. Pode descobrir onde pode poupar nos custos no artigo.
-
-\--- 
+{{< /faq >}}
 
 Onde podes ser enterrado?|||
 
 Basicamente, só são permitidos dois tipos de enterro na Alemanha: o enterro no solo e a cremação. No entanto, existem alguns locais à escolha onde o corpo ou as cinzas podem ser enterrados. Estes incluem cemitérios, columbários ou áreas seleccionadas na natureza. Pode obter mais informações sobre este assunto no capítulo correspondente.
-
-\--- 
+{{< /faq >}}
 
 Que documentos são necessários para um funeral?|||
 
 É necessário, entre outros, o bilhete de identidade do falecido, a certidão de nascimento e de casamento, bem como o certificado de óbito e a certidão de óbito. Para saber como obter estes documentos, consulte o artigo.
-
-\--- 
+{{< /faq >}}
 
 É necessário contratar um agente funerário?|||
 
 Sim. Na Alemanha, a lei estipula que certas actividades, como a transferência do corpo, só podem ser realizadas por um agente funerário.
-
-\--- 
+{{< /faq >}}
 
 Quem deve convidar para o funeral?|||
 
@@ -54,7 +50,7 @@ Por esta razão, deve falar abertamente com a família e os amigos sobre os tema
 
 Para evitar o caos em caso de morte, deve esclarecer antecipadamente quem deve ocupar-se do funeral e da gestão dos seus negócios jurídicos. Escolha uma ou mais **pessoas da sua confiança**. Podem ser familiares próximos, como o cônjuge, os filhos ou os irmãos, mas também amigos próximos.
 
-{{< warning headline="Nota importante" text="Não se esqueça de [autorizar](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) as pessoas de confiança a aceder às suas contas após a sua morte, entre outras coisas. Caso contrário, os responsáveis poderão não poder atuar, pois terão de esperar semanas ou meses pela abertura do testamento ou pela emissão de um certificado de herança." >}}
+{{< warning headline="Nota importante" text="Não se esqueça de [autorizar](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) as pessoas de confiança a aceder às suas contas após a sua morte, entre outras coisas. Caso contrário, os responsáveis poderão não poder atuar, pois terão de esperar semanas ou meses pela abertura do testamento ou pela emissão de um certificado de herança." />}}
 
 ![Planear um funeral - numa situação de emergência, as pessoas afectadas não sabem muitas vezes por onde começar.](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
@@ -78,9 +74,9 @@ Talvez haja familiares ou amigos ao lado dos quais gostaria de encontrar o seu �
 
 Um descanso final tranquilo na natureza está a tornar-se cada vez mais popular.
 
-No entanto, os enterros não são permitidos em toda a Alemanha, mas apenas em zonas autorizadas!  
+No entanto, os enterros não são permitidos em toda a Alemanha, mas apenas em zonas autorizadas!
 
-{{< warning headline="Atenção" text="Por exemplo, **não é permitido** enterrar o defunto no seu próprio jardim ou levar as cinzas para casa. Na Alemanha, é igualmente proibido criar diamantes artificiais a partir das cinzas de pessoas falecidas, atirar as cinzas para o céu noturno durante o fogo de artifício ou lançá-las para o espaço com um foguetão." >}}
+{{< warning headline="Atenção" text="Por exemplo, **não é permitido** enterrar o defunto no seu próprio jardim ou levar as cinzas para casa. Na Alemanha, é igualmente proibido criar diamantes artificiais a partir das cinzas de pessoas falecidas, atirar as cinzas para o céu noturno durante o fogo de artifício ou lançá-las para o espaço com um foguetão." />}}
 
 Fale com os seus entes queridos sobre a forma como gostariam de o recordar. Afinal, as opiniões variam muito sobre a questão de como gostaríamos de recordar um ente querido: alguns preferem um túmulo como local de recordação, outros um objeto pessoal ou fotografias como recordação da pessoa falecida; e outros ainda fazem algo todos os anos no aniversário da sua morte para recordar o tempo que passaram juntos.
 
@@ -173,7 +169,7 @@ No entanto, o traje de luto não é obrigatório. Também são permitidas cerim�
 
 A morte de um ente querido deve ser comunicada o mais rapidamente possível a **todas as pessoas** de quem se gosta. Isto inclui familiares, amigos, conhecidos, vizinhos e colegas de trabalho. O melhor é fazer uma lista de todas as pessoas relevantes e contactá-las ainda antes de esclarecer os pormenores do serviço fúnebre. Desta forma, todos os familiares têm a oportunidade de se inteirar do falecimento e, se necessário, solicitar uma licença especial.
 
-{{< warning headline="Licença especial" text="Não existem **disposições legais** sobre a licença especial em caso de morte. Pergunte à sua entidade patronal se concede uma licença especial remunerada para além dos dias de licença acordados no contrato de trabalho. **É comum a concessão de 1 a 2 dias de licença especial em caso de falecimento de familiares próximos.** Isto inclui o cônjuge, os filhos, os pais, os sogros, os avós e os irmãos." >}}
+{{< warning headline="Licença especial" text="Não existem **disposições legais** sobre a licença especial em caso de morte. Pergunte à sua entidade patronal se concede uma licença especial remunerada para além dos dias de licença acordados no contrato de trabalho. **É comum a concessão de 1 a 2 dias de licença especial em caso de falecimento de familiares próximos.** Isto inclui o cônjuge, os filhos, os pais, os sogros, os avós e os irmãos." />}}
 
 O ideal é ter acesso a uma lista de contactos no telemóvel ou na conta de correio eletrónico da pessoa falecida para avisar as **pessoas de luto**. Se conhecer muito bem o ambiente da pessoa falecida, pode também tomar nota das pessoas de memória e descobrir os seus contactos. Se a pessoa falecida era ativa nas redes sociais, pode escrever aos seus contactos.
 

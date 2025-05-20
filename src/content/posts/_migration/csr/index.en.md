@@ -1,10 +1,10 @@
 ---
-title: "CSR – die Grundlagen der Corporate Social Responsibility"
+title: 'CSR – die Grundlagen der Corporate Social Responsibility'
 date: 2024-04-08
-lastmod: "2025-05-19"
-coverImage: "solar-4478105_1280.jpg"
-author: "nsc"
-url: "/csr"
+lastmod: '2025-05-19'
+coverImage: 'solar-4478105_1280.jpg'
+author: 'nsc'
+url: '/csr'
 ---
 
 In einer Zeit, in der sich der Trend zur **Nachhaltigkeit** zunehmend verstärkt, stehen Unternehmen vor der Herausforderung, den höheren Ansprüchen ihrer Kunden gerecht zu werden. Die steigende Nachfrage nach nachhaltigen Produkten spiegelt sich im Verhalten der Verbraucher wider, die zunehmend Wert auf Umweltverträglichkeit und soziale Verantwortung legen – Stichwort: **Corporate Social Responsibility (CSR)**.
@@ -64,7 +64,7 @@ Auf Ihrem Weg zu einem nachhaltigeren Unternehmen können Sie jedoch auch auf ei
 
 Ziele im Bereich der Nachhaltigkeit können sich als **langwierig** erweisen und es kann demotivierend sein, wenn Fortschritte nur langsam erreicht werden. Das Engagement in gemeinnützigen Aktivitäten kann ebenfalls **zusätzlichen Aufwand** bedeuten.
 
-{{< warning headline="Auf Greenwashing verzichten" text="Vermeiden Sie unbedingt **Greenwashing**, da dies zu einem Verlust an Glaubwürdigkeit führen und Ihre Reputation erheblich beeinträchtigen kann. Bleiben Sie daher stets ehrlich und transparent in Ihren Bemühungen und stellen Sie Ihr Unternehmen nicht nachhaltiger dar, als es wirklich ist." >}}
+{{< warning headline="Auf Greenwashing verzichten" text="Vermeiden Sie unbedingt **Greenwashing**, da dies zu einem Verlust an Glaubwürdigkeit führen und Ihre Reputation erheblich beeinträchtigen kann. Bleiben Sie daher stets ehrlich und transparent in Ihren Bemühungen und stellen Sie Ihr Unternehmen nicht nachhaltiger dar, als es wirklich ist." />}}
 
 ## Beispiele für geeignete Maßnahmen
 

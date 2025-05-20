@@ -1,9 +1,9 @@
 ---
-title: "Organización de la cría de animales: cómo mantener a su mascota de forma adecuada a su especie"
+title: 'Organización de la cría de animales: cómo mantener a su mascota de forma adecuada a su especie'
 date: 2024-01-30
-lastmod: "2024-01-30"
-author: "lsc"
-url: "/es/tierhaltung"
+lastmod: '2024-01-30'
+author: 'lsc'
+url: '/es/tierhaltung'
 ---
 
 El perro es el mejor amigo del hombre: esto se dice a menudo cuando se trata de la relación entre amo y **mascota**. El gato es la mascota más popular en Alemania, por delante del perro, seguido de roedores, peces y reptiles. Una mascota da alegría, es un alma gemela o simplemente es bonita de ver. Sin embargo, **tener** un animal de compañía también implica trabajo, ya que te comprometes durante mucho tiempo y tienes que tener en cuenta las necesidades de tus mascotas.
@@ -43,26 +43,22 @@ Los animales de especies especialmente raras o peligrosas pueden tener cierto at
 ¿Qué dice el contrato de alquiler sobre la tenencia de animales?|||
 
 El casero puede estipular en el contrato de alquiler ciertas restricciones a la tenencia de animales de compañía. Si no existe tal disposición en el contrato de alquiler, el casero no puede prohibirle tener animales de compañía, independientemente del animal de que se trate. La excepción es la tenencia de animales peligrosos.
-
-\--- 
+{{< /faq >}}
 
 ¿Qué restricciones existen?|||
 
 Existe la llamada cláusula **de permiso**, que restringe la tenencia de animales grandes. Si esta cláusula está incluida en su contrato de alquiler, debe pedir permiso al propietario antes de mudarse con un animal. El casero puede prohibirle adquirir determinados animales en casos concretos, indicando el motivo.
-
-\--- 
+{{< /faq >}}
 
 ¿Qué animales puedo tener sin autorización?|||
 
 Los **animales pequeños** como ratones, salamanquesas o peces ornamentales que no representen peligro, ruido o molestias por olores y se mantengan en jaulas cerradas, terrarios o acuarios no necesitan permiso.
-
-\--- 
+{{< /faq >}}
 
 ¿Puedo tener animales de compañía en mi piso temporalmente?|||
 
 Por supuesto, no hay nada malo en una breve visita de un amigo con su mascota. Sin embargo, debes obtener el consentimiento del propietario si cuidas de animales durante más tiempo o incluso a cambio de una remuneración.
-
-\---
+{{< /faq >}}
 
 ## La cría de animales cuesta tiempo
 
@@ -72,7 +68,7 @@ Por supuesto, en un hogar con varias personas, tiene sentido dividir **las tarea
 
 Si te ausentas durante un periodo prolongado, por ejemplo porque te vas de **vacaciones**, debes [ocuparte](https://www.lanuv.nrw.de/verbraucherschutz/tierschutz/tierhaltung/allgemeines/haustiere-in-der-urlaubszeit#:~:text=F%C3%BCr%20eine%20Reise%20ins%20Ausland,kann%20es%20ein%20Einreiseverbot%20geben.) de tu mascota con tiempo. En el caso de los roedores, suele bastar con pedir a amigos y familiares que se ocupen de ellos de vez en cuando y les den de comer. Esto no suele ser suficiente para los animales más grandes, ya que necesitan ejercicio activo y estar cerca de la gente.
 
-{{< warning headline="Llevarse animales de vacaciones" text="Las vacaciones también pueden ser una gran experiencia para los animales. Sin embargo, **viajar con animales** también supone mucho estrés. Los gatos, perros y hurones necesitan un **pasaporte de la UE** para viajar al extranjero. Además, en el destino de las vacaciones pueden exigirse vacunas especiales y cuarentena." >}}
+{{< warning headline="Llevarse animales de vacaciones" text="Las vacaciones también pueden ser una gran experiencia para los animales. Sin embargo, **viajar con animales** también supone mucho estrés. Los gatos, perros y hurones necesitan un **pasaporte de la UE** para viajar al extranjero. Además, en el destino de las vacaciones pueden exigirse vacunas especiales y cuarentena." />}}
 
 Para vacaciones más largas, tiene la opción de llevar a su mascota a una **residencia can** ina. Si ha comprado el animal a un criador, puede preguntarle si ofrece cuidado en vacaciones. En cualquier caso, no debe dejar a su mascota sola en casa.
 
@@ -147,7 +143,7 @@ Los **costes de adquisición** varían mucho según se compre un animal a un ref
 
 Al igual que nosotros, los animales a veces enferman, pero a menudo nos lo ocultan. Por eso es necesario consultar a un veterinario aunque haya pequeñas desviaciones del comportamiento normal de su mascota. Las **revisiones preventivas** periódicas pueden ayudar a prevenir enfermedades.
 
-{{< warning headline="Seguro médico para su mascota" text="Un seguro médico puede merecer la pena para su mascota, sobre todo si conoce alguna enfermedad preexistente. Las primas de seguro empiezan en 200 euros al año para gatos y 280 euros para perros. El [seguro de cirugía](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) también puede ser útil para animales mayores, ya que las operaciones pueden costar rápidamente sumas de cuatro cifras. Por lo demás, conviene reservar dinero suficiente para pagarlo en caso de urgencia." >}}
+{{< warning headline="Seguro médico para su mascota" text="Un seguro médico puede merecer la pena para su mascota, sobre todo si conoce alguna enfermedad preexistente. Las primas de seguro empiezan en 200 euros al año para gatos y 280 euros para perros. El [seguro de cirugía](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) también puede ser útil para animales mayores, ya que las operaciones pueden costar rápidamente sumas de cuatro cifras. Por lo demás, conviene reservar dinero suficiente para pagarlo en caso de urgencia." />}}
 
 Cuando se acoge a un animal, hay que acudir al médico para un primer **chequeo sanitario**. También es necesario **vacunarlo** y **desparasitarlo** periódicamente.
 

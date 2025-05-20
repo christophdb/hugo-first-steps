@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 5.1: More functions/convenience in App Builder & Big Data"
+title: 'SeaTable 5.1: More functions/convenience in App Builder & Big Data'
 date: 2024-11-08
-lastmod: "2024-11-08"
-author: "rdb"
-url: "/seatable-release-5-1"
+lastmod: '2024-11-08'
+author: 'rdb'
+url: '/seatable-release-5-1'
 ---
 
 The focus of SeaTable 5.1 is on improving existing functions and optimizing them for practical use cases. In particular, the **App Builder**, which was officially launched with version 5.0, has received special attention and now enables even more powerful web applications. However, users of the **big data storage** also benefit from extensive improvements. The new **Tree plugin** offers a further visualization option for hierarchical data. We report on all the important new features in these release notes. As always, you will find the complete list of changes in the [changelog](https://seatable.io/en/docs/changelog/version-5-1/).
@@ -62,7 +62,7 @@ Almost as noticeable is the **yellow warning** that appears in normal views in l
 
 In response to many user requests, the **data processing operation** [Compare and join](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) is now also available in big data views. This operation can link entries in the big data store with rows in any other table, regardless of whether the rows of the linked table are stored in the base or in the big data store.
 
-{{< warning headline="Note" text="The execution speed is significantly slower than the same operation in a normal view because all row information is already in the working memory when executed in normal views." >}}
+{{< warning headline="Note" text="The execution speed is significantly slower than the same operation in a normal view because all row information is already in the working memory when executed in normal views." />}}
 
 To increase the traceability of changes to rows in the big data memory, SeaTable 5.1 offers a separate **big data log**. This log, which records row modifications and deletions, appears as soon as the big data memory is activated in the base.
 
@@ -70,7 +70,7 @@ To increase the traceability of changes to rows in the big data memory, SeaTable
 
 Although apps can access data in the big data storage, entries created in apps could not be saved there directly. New entries were always saved in the base. We have closed this functional gap with SeaTable 5.1. The base remains the **default storage location for new entries**; however, this setting can be changed in the [app settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). As the screenshot shows, you can specify for each table whether new rows should be written to the base or to the big data memory.
 
-![New big data management in SeaTable&#039;s App Builder](images/BigDataManagement_AppBuilder.png)
+![New big data management in SeaTable's App Builder](images/BigDataManagement_AppBuilder.png)
 
 However, we have not only improved the integration with the apps, the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) also offers new possibilities. The plugin now has access to the big data storage and can **create documents for rows in the big data storage**.
 

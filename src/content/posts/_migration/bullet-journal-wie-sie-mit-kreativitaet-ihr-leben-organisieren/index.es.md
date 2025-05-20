@@ -1,9 +1,9 @@
 ---
-title: "Bullet journal: cómo organizar tu vida con creatividad"
+title: 'Bullet journal: cómo organizar tu vida con creatividad'
 date: 2023-12-19
-lastmod: "2024-01-25"
-author: "lsc"
-url: "/es/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren"
+lastmod: '2024-01-25'
+author: 'lsc'
+url: '/es/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren'
 ---
 
 En una vida cotidiana a menudo estresante, es difícil hacer malabarismos con las tareas, las citas y los propios intereses. Para no perder de vista las cosas realmente importantes de la vida en el cúmulo diario de rutinas monótonas, es útil anotarlas. Para ello es ideal un **bullet journal**, en el que puedes anotar todo lo importante y dar rienda suelta a tu creatividad.
@@ -12,7 +12,7 @@ En este artículo, puedes descubrir cómo funciona un bullet journal y lo que ne
 
 ## ¿Qué es un bullet journal?
 
-Un diario con viñetas le ayuda a organizar sus **Organizar la vida cotidiana** y controle todas sus tareas, citas y necesidades. El diario funciona como una combinación de agenda, planificador de proyectos y cuaderno. Además, ofrece espacio suficiente para acomodar los temas que desee. El bullet journal establece su **Creatividad** sin límites. Porque, a diferencia de los calendarios convencionales, no hay páginas ya hechas. Las diseñas tú mismo y las rellenas según tus propias ideas.  
+Un diario con viñetas le ayuda a organizar sus **Organizar la vida cotidiana** y controle todas sus tareas, citas y necesidades. El diario funciona como una combinación de agenda, planificador de proyectos y cuaderno. Además, ofrece espacio suficiente para acomodar los temas que desee. El bullet journal establece su **Creatividad** sin límites. Porque, a diferencia de los calendarios convencionales, no hay páginas ya hechas. Las diseñas tú mismo y las rellenas según tus propias ideas.
 
 ![Este es el aspecto que puede tener un diario de viñetas con un resumen mensual y diario.](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
@@ -28,7 +28,7 @@ Este método de calendario fue inventado por el diseñador gráfico neoyorquino 
 
 ## El pack de inicio adecuado
 
-Empezar con el bullet journaling es muy fácil. Todo lo que necesitas es un **Cuaderno** y un **Pluma**. Es una buena idea empezar con lo que tienes en casa. Puedes probar si el diario te gusta. Si te gusta y quieres ser más creativo, puedes comprar más herramientas.  
+Empezar con el bullet journaling es muy fácil. Todo lo que necesitas es un **Cuaderno** y un **Pluma**. Es una buena idea empezar con lo que tienes en casa. Puedes probar si el diario te gusta. Si te gusta y quieres ser más creativo, puedes comprar más herramientas.
 
 ![Atentamente](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
@@ -40,7 +40,7 @@ Los cuadernos con **cuadrícula de puntos** sirven de base, ya que ofrecen ciert
 
 Como ya se ha mencionado, la realización de sus propias ideas es primordial. No obstante, existe un **sistema** básico que puede utilizar como guía para la estructura de su diario.
 
-Se trata principalmente de **resumen de tiempos**en el que puede introducir sus tareas y citas. Además, hay **Colecciones**. Son páginas que sirven para tu desarrollo libre e individual. A continuación encontrarás una colección de ideas que puedes utilizar o en las que puedes inspirarte.  
+Se trata principalmente de **resumen de tiempos**en el que puede introducir sus tareas y citas. Además, hay **Colecciones**. Son páginas que sirven para tu desarrollo libre e individual. A continuación encontrarás una colección de ideas que puedes utilizar o en las que puedes inspirarte.
 
 ![Su diario de viñetas debe contener los elementos Índice, Clave, Registro futuro, Registro mensual, Registro diario y Colectivos.](https://seatable.io/wp-content/uploads/2023/12/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
@@ -53,6 +53,7 @@ La estructura básica de tu bullet journal consta de tres partes. El **índice**
 A continuación viene la **llave**. Es una especie de leyenda. En ella se registran los símbolos y su significado. Esta técnica se denomina **registro rápido**.
 
 {{< warning headline="Así puede diseñar su llave" text="- Guión = notas
+
 - Punto = tarea
 - Colorea el punto con una cruz = tarea completada
 - Punto con flecha hacia la derecha = tarea desplazada
@@ -67,7 +68,7 @@ A partir de ahí, se crea un **registro mensual**. En él se recogen de un vista
 
 El **registro diario** es aún más detallado. Se crea semanalmente y ofrece la posibilidad de introducir eventos diarios de forma flexible.
 
-{{< warning headline="La disposición correcta de los calendarios" text="El orden de los resúmenes suele ser el siguiente: resumen anual, resumen mensual de enero, resumen diario de enero, resumen mensual de febrero, resumen diario de febrero, ..." >}}
+{{< warning headline="La disposición correcta de los calendarios" text="El orden de los resúmenes suele ser el siguiente: resumen anual, resumen mensual de enero, resumen diario de enero, resumen mensual de febrero, resumen diario de febrero, ..." />}}
 
 ### Las colecciones
 

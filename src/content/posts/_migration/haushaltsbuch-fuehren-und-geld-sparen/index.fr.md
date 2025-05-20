@@ -1,9 +1,9 @@
 ---
 title: "Tenir un livre de comptes : Ces 12 conseils vous permettront d'économiser de l'argent"
 date: 2024-01-02
-lastmod: "2024-01-03"
-author: "kgr"
-url: "/fr/haushaltsbuch-fuehren-und-geld-sparen"
+lastmod: '2024-01-03'
+author: 'kgr'
+url: '/fr/haushaltsbuch-fuehren-und-geld-sparen'
 ---
 
 Il n'est pas toujours facile de garder un œil sur ses dépenses. Il arrive trop souvent que l'argent s'envole à la fin du mois et que l'on ait du mal à se rappeler comment on l'a dépensé. C'est précisément dans ce cas qu'un **livre de comptes** permet de remédier à la situation et de mettre de l'ordre dans le chaos financier !
@@ -75,7 +75,7 @@ Les abonnements inutiles au streaming peuvent coûter cher.
 
 Outre les abonnements de divertissement, **les adhésions à des centres de fitness, des clubs de sport ou des écoles de danse** font également partie des frais fixes mensuels. Mais on le sait bien : une fois inscrit, on perd vite sa motivation et on ne se montre plus que sporadiquement. Vous pouvez vous épargner ces frais courants en vous entraînant chez vous avec des accessoires simples comme des haltères ou des élastiques ou en misant sur **des exercices avec votre propre poids**: Les sit-ups, les squats et les pompes ne coûtent pas un centime. Vous pouvez également déplacer gratuitement l'entraînement cardio sur le vélo ou le tapis roulant de la salle de sport à l'air libre.
 
-{{< warning headline="Conseil" text="Vous trouverez sur [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) de nombreuses **vidéos** qui vous motiveront à faire de l'aérobic, du power yoga ou des séances d'entraînement à domicile." >}}
+{{< warning headline="Conseil" text="Vous trouverez sur [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) de nombreuses **vidéos** qui vous motiveront à faire de l'aérobic, du power yoga ou des séances d'entraînement à domicile." />}}
 
 ### 4\. inviter des amis à la maison
 
@@ -85,7 +85,7 @@ Des soirées de jeux, des fêtes ou cuisiner ensemble quelque chose de bon : **L
 
 Vos enfants ont déménagé, vous avez vendu votre voiture ou vous utilisez à peine votre cave ? Si vous disposez de plus d'espace de vie ou de rangement que vous n'en avez besoin, il est judicieux de le louer. Vous pouvez par exemple louer une **chambre** libérée à court terme à des voyageurs via des portails comme AirBnB ou - si une colocation est envisageable pour vous - à des sous-locataires de manière permanente.
 
-{{< warning headline="Attention" text="Si vous n'êtes pas propriétaire de votre logement, votre bailleur doit donner son accord pour une sous-location." >}}
+{{< warning headline="Attention" text="Si vous n'êtes pas propriétaire de votre logement, votre bailleur doit donner son accord pour une sous-location." />}}
 
 Il en va de même si un **garage**, une **place de parking** ou une **cave**, dont vous n'avez pas besoin, fait partie de votre logement. La [location de biens immobiliers](https://seatable.io/fr/hausverwaltung/) peut, à long terme, faire entrer dans vos caisses toutes sortes de revenus qui réjouiront votre comptabilité budgétaire.
 
@@ -103,7 +103,7 @@ Si votre lieu de résidence est bien desservi par **les transports en commun**, 
 
 Vous n'êtes pas obligé d'acheter des objets neufs pour votre appartement ou votre garde-robe. **Les articles d'occasion** en bon état ou comme neufs coûtent souvent moins de la moitié et allègent votre budget. Fouillez dans **les magasins de seconde main**, les **marchés aux puces** ou **les places de marché en ligne** près de chez vous. Pour économiser de l'argent de cette manière, vous devez toutefois vous armer d'un peu plus de patience que pour une virée shopping.
 
-{{< warning headline="Attention : piège des coûts !" text="Les vieux réfrigérateurs, machines à laver et autres appareils électriques peuvent souvent être achetés à très bas prix. Mais pour ces appareils en particulier, il est important de considérer les coûts sur toute leur durée de vie. Un appareil qui coûte 200 euros de plus à l'état neuf, mais qui dure dix ans de plus et consomme 20 % d'électricité en moins, peut vous faire économiser bien plus que 200 euros. Misez donc plutôt sur des appareils électriques de qualité. Les ampoules LED coûtent également plus cher à l'achat, mais ne consomment qu'un dixième environ de l'électricité utilisée par les ampoules à incandescence traditionnelles." >}}
+{{< warning headline="Attention : piège des coûts !" text="Les vieux réfrigérateurs, machines à laver et autres appareils électriques peuvent souvent être achetés à très bas prix. Mais pour ces appareils en particulier, il est important de considérer les coûts sur toute leur durée de vie. Un appareil qui coûte 200 euros de plus à l'état neuf, mais qui dure dix ans de plus et consomme 20 % d'électricité en moins, peut vous faire économiser bien plus que 200 euros. Misez donc plutôt sur des appareils électriques de qualité. Les ampoules LED coûtent également plus cher à l'achat, mais ne consomment qu'un dixième environ de l'électricité utilisée par les ampoules à incandescence traditionnelles." />}}
 
 Faites également attention aux **offres spéciales** des détaillants. Si vous envisagez un nouvel achat coûteux, il peut être intéressant de [comparer les prix](https://seatable.io/fr/modele/fsbfwc4fqocgqed7vczq9g/).
 
@@ -131,9 +131,9 @@ Si vous achetez des plats préparés coûteux au supermarché à chaque pause d�
 
 Les gourous du fitness et leurs entreprises nous font croire, grâce à un marketing alléchant, que nous devons compléter notre alimentation par des préparations spéciales, par exemple pour développer les muscles, stimuler le métabolisme ou renforcer le système immunitaire. Des milliards sont dépensés pour des poudres de protéines et des pilules de vitamines, qui sont pour la plupart totalement superflues.
 
-Veillez plutôt à avoir une alimentation équilibrée, à faire suffisamment d'exercice et à adopter un mode de vie sain. Vous pourrez ainsi vous passer de ces produits prétendument miraculeux qui, au bout du compte, ne font qu'ajouter une note négative à votre budget.  
+Veillez plutôt à avoir une alimentation équilibrée, à faire suffisamment d'exercice et à adopter un mode de vie sain. Vous pourrez ainsi vous passer de ces produits prétendument miraculeux qui, au bout du compte, ne font qu'ajouter une note négative à votre budget.
 
-{{< warning headline="Remarque importante" text="Si les médecins ont constaté chez vous une carence avérée en vitamines ou en oligo-éléments, vous ne devriez évidemment pas lésiner sur les médicaments qui contiennent les substances actives nécessaires en concentration suffisante." >}}
+{{< warning headline="Remarque importante" text="Si les médecins ont constaté chez vous une carence avérée en vitamines ou en oligo-éléments, vous ne devriez évidemment pas lésiner sur les médicaments qui contiennent les substances actives nécessaires en concentration suffisante." />}}
 
 ### 12\. en finir avec les vices coûteux
 

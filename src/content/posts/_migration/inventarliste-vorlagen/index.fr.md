@@ -1,9 +1,9 @@
 ---
 title: "Créer une liste d'inventaire - avec un modèle gratuit, Excel ou Word"
 date: 2024-02-23
-lastmod: "2025-01-10"
-author: "kgr"
-url: "/fr/inventarliste-vorlagen"
+lastmod: '2025-01-10'
+author: 'kgr'
+url: '/fr/inventarliste-vorlagen'
 ---
 
 Vous effectuez un **inventaire** chaque année ou même chaque mois ? Alors vous êtes au bon endroit ! Dans cet article, vous apprendrez comment **créer** votre **liste d'inventaire**, standardiser le processus et simplifier votre inventaire. Pour ce faire, vous pouvez importer une liste d'inventaire dans Excel ou construire votre propre modèle dans Word. Vous découvrirez également les avantages d'une base de données gratuite comme **SeaTable par rapport à Excel et Word**.
@@ -31,7 +31,7 @@ L'inventaire, et donc votre liste d'inventaire, comprend les actifs (actifs immo
 - **Les actifs immobilisés comprennent les biens** qui servent durablement à l'activité de votre entreprise. Il peut s'agir de biens immobiliers, de machines, d'installations techniques, de véhicules, de mobilier de bureau, de placements financiers ou de droits et valeurs immatériels tels que des brevets.
 - Les **actifs circulants représentent tous les actifs** qui ne se trouvent dans l'entreprise qu'à court terme pour être vendus, consommés, transformés ou remboursés. Ils constituent généralement la base (par exemple, les matières premières et les sources d'énergie en stock) ou le résultat (par exemple, les produits finis, les avoirs bancaires, les créances) du processus de production.
 
-{{< warning headline="Il n'est pas nécessaire d'en faire l'inventaire" text="Vous ne devez pas inventorier **les biens de consommation à courte durée de vie qui perdent leur valeur dans les 12 mois** ou qui sont détruits par l'acte d'utilisation. Il s'agit par exemple des cartouches d'imprimante, des articles d'hygiène ou des denrées alimentaires, indépendamment de leur prix d'achat." >}}
+{{< warning headline="Il n'est pas nécessaire d'en faire l'inventaire" text="Vous ne devez pas inventorier **les biens de consommation à courte durée de vie qui perdent leur valeur dans les 12 mois** ou qui sont détruits par l'acte d'utilisation. Il s'agit par exemple des cartouches d'imprimante, des articles d'hygiène ou des denrées alimentaires, indépendamment de leur prix d'achat." />}}
 
 ## Types d'inventaire
 
@@ -45,7 +45,7 @@ De plus, le **moment où** vous créez votre inventaire fait une différence :
 
 ![Un magasinier fait l'inventaire dans Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
-Vous devez régulièrement comparer votre liste d'inventaire avec le stock réel. Droits d'image : zephyr\_p / Adobe Stock
+Vous devez régulièrement comparer votre liste d'inventaire avec le stock réel. Droits d'image : zephyr_p / Adobe Stock
 
 ## Pourquoi est-il important de dresser un inventaire ?
 

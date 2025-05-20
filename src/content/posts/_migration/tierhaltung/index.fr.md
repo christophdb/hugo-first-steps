@@ -1,9 +1,9 @@
 ---
 title: "Organiser l'élevage d'animaux - comment garder votre animal de compagnie de manière adaptée à son espèce"
 date: 2024-01-30
-lastmod: "2024-01-30"
-author: "lsc"
-url: "/fr/tierhaltung"
+lastmod: '2024-01-30'
+author: 'lsc'
+url: '/fr/tierhaltung'
 ---
 
 Le chien est le meilleur ami de l'homme - c'est ce que l'on dit souvent lorsqu'il s'agit de la relation entre le maître et **son animal de compagnie**. Pourtant, le chat est l'animal de compagnie préféré des Allemands et arrive en première position devant le chien. Loin derrière, on trouve les rongeurs, les poissons et les reptiles. Un animal domestique apporte de la joie, est une âme sœur ou est tout simplement agréable à regarder. Mais la **possession d'un animal** implique aussi du travail, car vous vous engagez pour une longue durée et devez tenir compte des besoins de vos animaux de compagnie.
@@ -43,26 +43,22 @@ Vous prévoyez l'arrivée d'un nouveau compagnon animalier et vous ne savez pas 
 Que dit le contrat de location au sujet de la détention d'animaux ?|||
 
 Votre bailleur peut inscrire dans le contrat de location certaines restrictions concernant la détention d'animaux. Si aucune disposition de ce type ne figure dans le contrat de location, le propriétaire ne peut pas vous interdire de détenir des animaux domestiques, quel que soit l'animal en question. L'exception à cette règle est la détention d'animaux dangereux.
-
-\--- 
+{{< /faq >}}
 
 Quelles sont les restrictions ?|||
 
 Il existe ce que l'on appelle **la réserve d'autorisation**, qui limite la détention d'animaux de grande taille. Si cette clause se trouve dans votre contrat de location, vous devez demander l'autorisation à votre propriétaire avant d'emménager avec un animal. Le bailleur peut, au cas par cas, vous interdire l'acquisition de certains animaux, en indiquant un motif.
-
-\--- 
+{{< /faq >}}
 
 Quels sont les animaux que je peux détenir sans autorisation ?|||
 
 **Les petits animaux** tels que les souris, les geckos ou les poissons d'ornement qui ne représentent pas un danger, une nuisance sonore ou olfactive et qui sont détenus dans des cages, des terrariums ou des aquariums fermés n'ont pas besoin de permis.
-
-\--- 
+{{< /faq >}}
 
 Puis-je avoir des animaux domestiques temporairement dans mon appartement ?|||
 
 Il n'y a bien sûr aucune objection à ce qu'une personne de votre connaissance vienne brièvement vous rendre visite avec son animal de compagnie. Mais vous devez obtenir l'accord du propriétaire si vous gardez des animaux pendant une période prolongée ou même contre rémunération.
-
-\---
+{{< /faq >}}
 
 ## L'élevage d'animaux prend du temps
 
@@ -72,7 +68,7 @@ Bien entendu, dans un ménage composé de plusieurs personnes, il est préférab
 
 Si vous vous absentez pour une longue période, par exemple parce que vous partez en **vacances**, vous devez vous occuper à temps des [soins](https://www.lanuv.nrw.de/verbraucherschutz/tierschutz/tierhaltung/allgemeines/haustiere-in-der-urlaubszeit#:~:text=F%C3%BCr%20eine%20Reise%20ins%20Ausland,kann%20es%20ein%20Einreiseverbot%20geben.) de votre animal de compagnie. Pour les rongeurs, il suffit souvent de demander à des amis ou à la famille de venir de temps en temps vérifier que tout va bien et de nourrir les animaux. Pour les animaux plus grands, cela ne suffit généralement pas, car ils ont besoin de sortir activement et d'être proches des humains.
 
-{{< warning headline="Emmener les animaux en vacances" text="Les vacances peuvent aussi être une expérience formidable pour les animaux. Mais **voyager avec des animaux** est aussi une source de stress. Pour les chats, les chiens et les furets, un **passeport européen pour animaux de compagnie** est nécessaire pour voyager à l'étranger. En outre, des vaccins spéciaux et une quarantaine peuvent être exigés dans le pays de destination." >}}
+{{< warning headline="Emmener les animaux en vacances" text="Les vacances peuvent aussi être une expérience formidable pour les animaux. Mais **voyager avec des animaux** est aussi une source de stress. Pour les chats, les chiens et les furets, un **passeport européen pour animaux de compagnie** est nécessaire pour voyager à l'étranger. En outre, des vaccins spéciaux et une quarantaine peuvent être exigés dans le pays de destination." />}}
 
 Pour des vacances plus longues, il est possible de confier votre animal à une **pension pour animaux**. Si vous avez acheté votre animal chez un éleveur, vous pouvez également lui demander s'il propose une garde pour les vacances. Dans tous les cas, ne laissez pas votre animal seul à la maison.
 
@@ -147,7 +143,7 @@ En ce qui concerne les **frais d'acquisition**, les prix varient considérableme
 
 Comme nous, les animaux tombent parfois malades, mais ils nous le cachent souvent. C'est pourquoi il est nécessaire de consulter un vétérinaire dès que votre animal présente de petits écarts par rapport à son comportement normal. **Des contrôles préventifs** réguliers peuvent aider à prévenir les maladies.
 
-{{< warning headline="Assurance maladie pour votre animal de compagnie" text="Pour votre animal de compagnie, il peut être intéressant de souscrire une assurance maladie, surtout si vous avez des antécédents médicaux. Les cotisations d'assurance commencent à 200 euros par an pour les chats et à 280 euros pour les chiens. Une [assurance OP](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) peut également s'avérer intéressante pour les animaux d'un âge avancé, car les opérations coûtent rapidement des sommes à quatre chiffres. Dans le cas contraire, vous devriez mettre suffisamment d'argent de côté pour pouvoir les payer en cas d'urgence." >}}
+{{< warning headline="Assurance maladie pour votre animal de compagnie" text="Pour votre animal de compagnie, il peut être intéressant de souscrire une assurance maladie, surtout si vous avez des antécédents médicaux. Les cotisations d'assurance commencent à 200 euros par an pour les chats et à 280 euros pour les chiens. Une [assurance OP](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) peut également s'avérer intéressante pour les animaux d'un âge avancé, car les opérations coûtent rapidement des sommes à quatre chiffres. Dans le cas contraire, vous devriez mettre suffisamment d'argent de côté pour pouvoir les payer en cas d'urgence." />}}
 
 Lorsque vous accueillez un animal chez vous, vous devez vous rendre chez le médecin pour un premier **bilan de santé**. En outre, des **vaccinations** et **des vermifuges** réguliers sont nécessaires.
 

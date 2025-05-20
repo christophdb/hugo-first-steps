@@ -1,10 +1,10 @@
 ---
-title: "Habit Tracker - how to change your habits in the long term"
+title: 'Habit Tracker - how to change your habits in the long term'
 date: 2023-12-06
-lastmod: "2024-01-25"
-coverImage: "Purple-Colorful-Modern-Roadmap-Timeline-Infographic-e1701339213192.jpg"
-author: "lsc"
-url: "/habit-tracker-gewohnheiten-aendern"
+lastmod: '2024-01-25'
+coverImage: 'Purple-Colorful-Modern-Roadmap-Timeline-Infographic-e1701339213192.jpg'
+author: 'lsc'
+url: '/habit-tracker-gewohnheiten-aendern'
 ---
 
 Making **good resolutions** for the new year has become a habit for many people. But every year we are disappointed when we fail to keep our resolutions. It takes a strong will to integrate new habits into our lives. **Habit trackers** are available to make this process easier.
@@ -21,7 +21,7 @@ Your Habit Tracker could look like this.
 
 There are no limits to your imagination when **designing** your Habit Tracker. For example, work with different **colors** and fonts or simply implement your ideas online with the [Habit Tracker from SeaTable](https://seatable.io/en/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). You should not only write down your desired habits, but also your previous habits. Tracking helps you to become aware of the habits that you have taken for granted up to this point.
 
-{{< warning headline="Why we need habits" text="Habits make our lives easier. Once you have internalized a behavior, you usually perform it automatically. The activity happens subconsciously, such as brushing our teeth every day, which we do out of habit without questioning the purpose each time. This relieves the brain of mental work and at the same time creates capacity for more important processes." >}}
+{{< warning headline="Why we need habits" text="Habits make our lives easier. Once you have internalized a behavior, you usually perform it automatically. The activity happens subconsciously, such as brushing our teeth every day, which we do out of habit without questioning the purpose each time. This relieves the brain of mental work and at the same time creates capacity for more important processes." />}}
 
 But remember: Your Habit Tracker is not made to last forever. The aim is to develop a **routine** so that you no longer need to record your activity at some point.
 
@@ -31,9 +31,9 @@ In addition to the goal of learning habits and integrating them into your everyd
 
 In addition, the quickly recognizable successes boost your self-confidence and encourage you to continue with **motivation** and **discipline**. With a habit tracker, you quickly develop the ambition to keep up the winning streak.
 
-{{< warning headline="Tracking helps to achieve goals" text="Science also shows that tracking helps you achieve your goals. [Studies](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) show that people who track their progress are more successful in achieving their goals." >}}
+{{< warning headline="Tracking helps to achieve goals" text="Science also shows that tracking helps you achieve your goals. [Studies](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) show that people who track their progress are more successful in achieving their goals." />}}
 
-Probably the biggest advantage is **building routines**. By becoming aware of your progress, you can internalize your habits. The Habit Tracker proves this first and foremost. After all, regularly ticking off your to-dos is also a habit.  
+Probably the biggest advantage is **building routines**. By becoming aware of your progress, you can internalize your habits. The Habit Tracker proves this first and foremost. After all, regularly ticking off your to-dos is also a habit.
 
 ## Which habits you can track
 
@@ -77,7 +77,7 @@ Carrying out your behaviors regularly requires strong **self-discipline**. Howev
 
 ![The Atomic Habits book contains the tips below, which you can integrate into your habit tracker.](images/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
-James Clear's bestseller contains useful tips.  
+James Clear's bestseller contains useful tips.
 
 The following tips are from James Clear's book **The 1% Method** ( _Atomic Habits_) and can make your habit tracker even more effective.
 
@@ -86,20 +86,17 @@ The following tips are from James Clear's book **The 1% Method** ( _Atomic Habit
 Incorporate habits into everyday life|||
 
 To make a desirable action more binding, you should link it to the place and time of execution.
-
-\--- 
+{{< /faq >}}
 
 Combining new and old|||
 
 Habits that are already automated can make it easier for you to learn new habits. Simply perform a current habit and a new habit one after the other.
-
-\--- 
+{{< /faq >}}
 
 Use incentives and rewards|||
 
 Not all habits that you want to learn will give you pleasure. It can therefore help to work with a reward system. Perform a task that you don't like and then reward yourself with something that you find easy and fun.
-
-\--- 
+{{< /faq >}}
 
 2-Minute-Habits|||
 

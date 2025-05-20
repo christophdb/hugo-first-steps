@@ -1,9 +1,9 @@
 ---
 title: "Faire des réserves d'urgence : Ce que vous devriez toujours avoir chez vous"
 date: 2023-09-20
-lastmod: "2023-09-20"
-author: "lsc"
-url: "/fr/notvorrat-anlegen"
+lastmod: '2023-09-20'
+author: 'lsc'
+url: '/fr/notvorrat-anlegen'
 ---
 
 Que feriez-vous si l'approvisionnement en électricité et en eau était soudainement interrompu sur l'ensemble du territoire ? Bien que cela soit très improbable en Allemagne, les dommages aux infrastructures sont plus fréquents dans d'autres parties du monde. Nombreux sont ceux qui ne sont pas suffisamment préparés à de telles **situations d'urgence** ou à d'autres.
@@ -14,7 +14,7 @@ C'est pourquoi il est conseillé de se prémunir de manière optimale en cas d'u
 
 Nous savons, au moins depuis la pandémie de Corona, ce que cela peut signifier de devoir recourir à une réserve d'urgence. En Allemagne, de grandes quantités de pâtes et de papier toilette ont été thésaurisées par crainte de ne pas pouvoir quitter son domicile pendant une longue période ou de ne plus pouvoir se procurer les produits dont on avait un besoin urgent. Cela montre que : En cas de crise, les supermarchés sont rapidement vidés de leurs stocks. Au-delà de la situation d'urgence concrète, le stockage de denrées alimentaires présente l'avantage d'être indépendant des heures d'ouverture des magasins et des chaînes d'approvisionnement.
 
-{{< warning headline="Ce que recommande l'État allemand" text="L'Office fédéral pour la protection de la population et l'aide en cas de catastrophe (BKK) recommande de constituer des réserves d'urgence pour **10 jours**. Pour pouvoir calculer ce [stock](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator) pour votre ménage, il existe un [calculateur de stock](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator) détaillé. Celui-ci calcule quels aliments vous devriez acheter et en quelles quantités afin de pouvoir garantir un approvisionnement suffisant." >}}
+{{< warning headline="Ce que recommande l'État allemand" text="L'Office fédéral pour la protection de la population et l'aide en cas de catastrophe (BKK) recommande de constituer des réserves d'urgence pour **10 jours**. Pour pouvoir calculer ce [stock](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator) pour votre ménage, il existe un [calculateur de stock](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator) détaillé. Celui-ci calcule quels aliments vous devriez acheter et en quelles quantités afin de pouvoir garantir un approvisionnement suffisant." />}}
 
 ## Voici ce à quoi vous devez faire attention lorsque vous choisissez des aliments
 
@@ -52,7 +52,7 @@ Une autre façon de conserver les aliments est de les faire mariner.
 
 Pour éviter que les aliments stockés ne dépassent leur date de péremption et ne soient plus consommables en cas d'urgence, vous pouvez également travailler avec un "stock vivant". Dans ce cas, vous intégrez les aliments stockés dans votre utilisation quotidienne et vous en achetez de nouveaux. Ainsi, rien ne se gâte. Veillez à toujours placer les nouveaux aliments achetés au fond de l'étagère afin de consommer les plus anciens en premier. Avec un [planificateur en ligne pour vos réserves](https://seatable.io/fr/notvorrat-anlegen/#Online-Planer_fuer_Ihren_Notvorrat), vous gardez toujours une vue d'ensemble des aliments qui devraient être utilisés ensuite.
 
-{{< warning headline="La durée de conservation des aliments" text="La **date de durabilité minimale** sur l'emballage indique jusqu'à quand un produit peut être conservé et consommé. Toutefois, cela ne signifie pas que les aliments ne sont plus consommables au-delà de cette date. S'ils sont correctement stockés et fermés, ils peuvent généralement être consommés sans problème au-delà de la date limite. Il convient néanmoins de vérifier que les aliments ne présentent pas de traces d'altération avant de les consommer. Il peut s'agir par exemple d'une odeur désagréable, de moisissures ou d'emballages gonflés." >}}
+{{< warning headline="La durée de conservation des aliments" text="La **date de durabilité minimale** sur l'emballage indique jusqu'à quand un produit peut être conservé et consommé. Toutefois, cela ne signifie pas que les aliments ne sont plus consommables au-delà de cette date. S'ils sont correctement stockés et fermés, ils peuvent généralement être consommés sans problème au-delà de la date limite. Il convient néanmoins de vérifier que les aliments ne présentent pas de traces d'altération avant de les consommer. Il peut s'agir par exemple d'une odeur désagréable, de moisissures ou d'emballages gonflés." />}}
 
 ### Économiser judicieusement lors des actions de réduction
 

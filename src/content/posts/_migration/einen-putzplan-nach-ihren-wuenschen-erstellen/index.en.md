@@ -1,9 +1,9 @@
 ---
-title: "Create cleaning plan according to your wishes: Template and Tips"
+title: 'Create cleaning plan according to your wishes: Template and Tips'
 date: 2023-09-06
-lastmod: "2023-09-13"
-author: "lsc"
-url: "/einen-putzplan-nach-ihren-wuenschen-erstellen"
+lastmod: '2023-09-13'
+author: 'lsc'
+url: '/einen-putzplan-nach-ihren-wuenschen-erstellen'
 ---
 
 Anyone who lives with several people under one roof knows the situation: dirty dishes are piling up in the sink, the shower drain is clogged, and you really should vacuum again. But no one feels responsible and the annoying work remains undone. To put an end to the chaos, an individual cleaning plan for your household is the solution. Here you can find out everything you need to know to create your cleaning plan.
@@ -36,7 +36,7 @@ To get a rough overview of the tasks that need to be done, it is helpful to divi
 - **Hallway:** clean up dresser, keep clothes rack neat, clean mirror
 - **Bedroom:** making up the bed, tidying up the closet, doing the laundry (this is usually everyone's responsibility).
 
-{{< warning headline="Good to know: Where the annoying dust comes from" text="Recurring house dust can drive some people crazy or even trigger allergies. It consists of tiny particles that come from different sources. Small particles (e.g. pollen, sand, soot) enter the home when airing, dirt falls off shoes, clothing and upholstery lose microscopic fibers, people and pets shed dander and hair, crumbs fall on the floor, insects such as mites leave behind excretions and decompose into dust themselves after their death. So, unfortunately, the formation of house dust can not be avoided, but you can reduce it with a cleaning schedule." >}}
+{{< warning headline="Good to know: Where the annoying dust comes from" text="Recurring house dust can drive some people crazy or even trigger allergies. It consists of tiny particles that come from different sources. Small particles (e.g. pollen, sand, soot) enter the home when airing, dirt falls off shoes, clothing and upholstery lose microscopic fibers, people and pets shed dander and hair, crumbs fall on the floor, insects such as mites leave behind excretions and decompose into dust themselves after their death. So, unfortunately, the formation of house dust can not be avoided, but you can reduce it with a cleaning schedule." />}}
 
 ## How often does what need to be done?
 

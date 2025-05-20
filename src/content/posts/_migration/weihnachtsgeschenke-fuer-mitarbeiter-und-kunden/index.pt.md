@@ -1,9 +1,9 @@
 ---
-title: "Prendas de Natal para empregados e clientes - 24 ideias"
+title: 'Prendas de Natal para empregados e clientes - 24 ideias'
 date: 2024-10-28
-lastmod: "2024-11-20"
-author: "lsc"
-url: "/pt/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden"
+lastmod: '2024-11-20'
+author: 'lsc'
+url: '/pt/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
 ---
 
 O Natal está à porta e gostaria de oferecer aos seus empregados, parceiros comerciais ou clientes um pequeno presente como sinal do seu **apreço**. Mas quais são as prendas de Natal adequadas para funcionários e clientes? É necessária uma grande quantidade de ideias e um instinto seguro! Neste artigo, pode descobrir quais os **presentes de Natal** que farão as delícias dos seus empregados e clientes e qual o **orçamento** que pode esperar.
@@ -110,7 +110,7 @@ Há ainda algumas coisas a ter em conta nas festas de Natal...
 
 Se quiser fazer os seus clientes ou parceiros de negócios felizes no Natal, há também um limite de isenção de impostos a considerar. Pode gastar até 50 euros num presente por cliente comercial para utilizar a dedutibilidade fiscal. Pode declarar os presentes até este limite máximo como uma **despesa comercial**.
 
-{{< warning headline="Mais dinheiro desde 2024" text="O limite é de apenas 50 euros desde março de 2024. No âmbito da Lei das Oportunidades de Crescimento, este montante foi aumentado em relação aos 35 euros anteriormente aplicáveis." >}}
+{{< warning headline="Mais dinheiro desde 2024" text="O limite é de apenas 50 euros desde março de 2024. No âmbito da Lei das Oportunidades de Crescimento, este montante foi aumentado em relação aos 35 euros anteriormente aplicáveis." />}}
 
 É necessário registar o beneficiário ou a empresa e a ocasião na contabilidade para cada oferta que exceda o valor de 10 euros.
 

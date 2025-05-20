@@ -1,10 +1,10 @@
 ---
-title: "Competitor analysis: The best way to proceed - incl. template!"
+title: 'Competitor analysis: The best way to proceed - incl. template!'
 date: 2025-01-20
-lastmod: "2025-01-21"
-coverImage: "chess-6890325_1920.jpg"
-author: "nsc"
-url: "/wettbewerbsanalyse"
+lastmod: '2025-01-21'
+coverImage: 'chess-6890325_1920.jpg'
+author: 'nsc'
+url: '/wettbewerbsanalyse'
 ---
 
 Are you planning to expand your product line and want to know which **product features** are particularly in demand in your industry? Or have you noticed a decline in **sales** and want to find out what your competitors are doing better? A targeted competitive analysis can provide you with valuable insights to help you optimize your **strategy** and target the **needs of** your customers.
@@ -119,7 +119,7 @@ Use the analysis of existing data sources such as market reports, industry studi
 
 Gather comprehensive information about your competitors. Use public sources such as **websites**, **annual reports**, **press releases** or **social media channels** of your competitors as well as **tools** and **services** for market and competitive analyses.
 
-{{< warning headline="Tip" text="You can find data, facts and figures in the company register, at Stiftung Warentest or at Firminform." >}}
+{{< warning headline="Tip" text="You can find data, facts and figures in the company register, at Stiftung Warentest or at Firminform." />}}
 
 ### 4\. perform analysis
 
@@ -131,7 +131,7 @@ Compare and evaluate the collected data. To do this, use the **competitive analy
 
 ### 5\. derive strategies
 
-![Competition analysis: A &quot;Mensch ärgere dich nicht&quot; playing field on a glass table](images/pexels-pixabay-207924-711x399.jpg)
+![Competition analysis: A "Mensch ärgere dich nicht" playing field on a glass table](images/pexels-pixabay-207924-711x399.jpg)
 
 Break away from rigid business models and focus on the continuous creation of new competitive advantages.
 

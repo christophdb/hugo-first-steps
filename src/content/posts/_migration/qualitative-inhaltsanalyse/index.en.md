@@ -1,9 +1,9 @@
 ---
-title: "Qualitative content analysis explained simply - example: press review"
+title: 'Qualitative content analysis explained simply - example: press review'
 date: 2024-03-11
-lastmod: "2024-03-11"
-author: "lsc"
-url: "/qualitative-inhaltsanalyse"
+lastmod: '2024-03-11'
+author: 'lsc'
+url: '/qualitative-inhaltsanalyse'
 ---
 
 Whether in research or in the working world: **qualitative content analysis** helps you to evaluate data material in a structured way. In this article, you will learn how best to proceed and what you should pay attention to. Subsequently, the implementation of a content analysis is also illustrated using a **press review**.
@@ -14,7 +14,7 @@ Qualitative content analysis is a scientific method of empirical social research
 
 How exactly you should design the content analysis depends on the results you want to achieve with your research question.
 
-{{< warning headline="Where the analysis form comes from" text="One of the co-founders of qualitative content analysis is Philipp Mayring. The German psychologist, sociologist and educator published his work _Qualitative Content Analysis. Basics and techniques_." >}}
+{{< warning headline="Where the analysis form comes from" text="One of the co-founders of qualitative content analysis is Philipp Mayring. The German psychologist, sociologist and educator published his work _Qualitative Content Analysis. Basics and techniques_." />}}
 
 ## Qualitative vs. quantitative content analysis
 
@@ -24,7 +24,7 @@ Basically, there is a **qualitative** and a **quantitative approach** to content
 
 In qualitative content analysis, you focus on a **small amount** of content that you subject to in-depth analysis. Here it also depends on what you hear, for example, in interviews between the rows . Accordingly, you work **inductively**, i.e. you carry out your own observations and derive a new hypothesis from them. The aim is to understand and **interpret** the results and develop new theoretical approaches on this basis.
 
-Quantitative content analysis is the counterpart to this. It is a standardized procedure in which the researcher always keeps the research conditions constant. Here you draw on a **large amount of content**, which you subject to a specific analysis. The procedure is **deductive**, as you want to examine existing theories and substantiate them with data. The aim of the analysis is to identify, describe and **explain** statistical **frequencies**.  
+Quantitative content analysis is the counterpart to this. It is a standardized procedure in which the researcher always keeps the research conditions constant. Here you draw on a **large amount of content**, which you subject to a specific analysis. The procedure is **deductive**, as you want to examine existing theories and substantiate them with data. The aim of the analysis is to identify, describe and **explain** statistical **frequencies**.
 
 ## When is qualitative content analysis a suitable method?
 
@@ -84,7 +84,7 @@ The form of your qualitative content analysis determines how much material you e
 - **Explicative content analysis**: incomprehensible text passages are explained with additional material.
 - **Structuring content analysis**: There is a [coding guide](https://www.acad-write.com/ratgeber/tipps/erstellung-codierleitfaden/) in which you determine how the material is to be classified into topic-related categories.
 
-{{< warning headline="Categorization" text="The creation of suitable categories is also relevant for you if you choose one of the first two options. You use these to categorize sections of your material according to your question." >}}
+{{< warning headline="Categorization" text="The creation of suitable categories is also relevant for you if you choose one of the first two options. You use these to categorize sections of your material according to your question." />}}
 
 > _Based on some of the articles that report on SeaTable, different categories are defined for the **tonality**. For example, words such as "user-friendly" and "important" are used in an article, from which the category of **positive reporting** can be formed._
 
@@ -123,7 +123,7 @@ Articles can be easily divided into units thanks to their structure.
 
 Now it's time for the most important and time-consuming part of the qualitative content analysis. You **code** your material and assign it to the appropriate **categories**. You can do this by hand using a coding sheet or you can use a digital database such as SeaTable.
 
-{{< warning headline="Tip" text="With a **transcription program** such as _EasyTranscript_ or _ELAN_, you can convert video and audio recordings into text beforehand. This can make coding much easier for you." >}}
+{{< warning headline="Tip" text="With a **transcription program** such as _EasyTranscript_ or _ELAN_, you can convert video and audio recordings into text beforehand. This can make coding much easier for you." />}}
 
 > _**Result of the analysis:** Most online articles about SeaTable can be categorized as "positive tonality" or "neutral tonality"._
 
@@ -142,20 +142,17 @@ Finally, check whether your analysis meets the quality criteria of qualitative c
 Transparency|||
 
 Your research must be **comprehensible** to outsiders. Explain how and why you proceeded in each step of your analysis.
-
-\---
+{{< /faq >}}
 
 Intersubjectivity|||
 
 Make sure that your analysis shows similar results when repeated across different coders, i.e. that it is **reproducible**.
-
-\---
+{{< /faq >}}
 
 Reliability|||
 
 How reliable is the coding? Is the same content rated equally and are differences expressed appropriately in different values?
-
-\---
+{{< /faq >}}
 
 ## Checklist for your qualitative content analysis
 

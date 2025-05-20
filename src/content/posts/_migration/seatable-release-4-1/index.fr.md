@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.1 : Automations plus puissantes, App Builder dans la dernière ligne droite et bien plus encore - SeaTable"
+title: 'SeaTable 4.1 : Automations plus puissantes, App Builder dans la dernière ligne droite et bien plus encore - SeaTable'
 date: 2023-08-23
-lastmod: "2023-08-23"
-author: "kgr"
-url: "/fr/seatable-release-4-1"
+lastmod: '2023-08-23'
+author: 'kgr'
+url: '/fr/seatable-release-4-1'
 ---
 
 Les vacances d'été touchent à leur fin et nous espérons que vous en avez profité. Pendant que d'autres sautaient dans la piscine ou se reposaient, nos développeurs ont travaillé d'arrache-pied pour sortir **la version 4.1 de SeaTable**.
@@ -22,7 +22,7 @@ En outre, nous avons amélioré les performances de certaines [actions](https://
 
 ![Nouvelles options pour les automatisations](images/New-options-for-automation.png)
 
-{{< warning headline="Limite d'exécution plus élevée pour les automatisations" text="Chaque automation est soumise à une [limite d'exécution](https://seatable.io/fr/docs/automationen/ausfuehrungslimit-bei-automationen/) qui définit la fréquence maximale d'exécution des automations. Une telle limite est nécessaire pour garantir une bonne expérience utilisateur à tous les utilisateurs de SeaTable Cloud. Jusqu'à présent, SeaTable Cloud fixait une limite de 10 exécutions par minute pour chaque automation. Cette limite a été portée à **50 exécutions par minute** lors du changement de version. Cette nouvelle limite ne devrait pas constituer une restriction importante pour de nombreux cas d'application. Il en va autrement pour les automatismes avec le type d'événement "Entrées ajoutées". Là aussi, la limite augmentée peut intervenir rapidement. Par exemple, si vous copiez des lignes d'un tableau Excel et les collez dans SeaTable, la limite limitera l'exécution aux 50 premières lignes collées." >}}
+{{< warning headline="Limite d'exécution plus élevée pour les automatisations" text="Chaque automation est soumise à une [limite d'exécution](https://seatable.io/fr/docs/automationen/ausfuehrungslimit-bei-automationen/) qui définit la fréquence maximale d'exécution des automations. Une telle limite est nécessaire pour garantir une bonne expérience utilisateur à tous les utilisateurs de SeaTable Cloud. Jusqu'à présent, SeaTable Cloud fixait une limite de 10 exécutions par minute pour chaque automation. Cette limite a été portée à **50 exécutions par minute** lors du changement de version. Cette nouvelle limite ne devrait pas constituer une restriction importante pour de nombreux cas d'application. Il en va autrement pour les automatismes avec le type d'événement "Entrées ajoutées". Là aussi, la limite augmentée peut intervenir rapidement. Par exemple, si vous copiez des lignes d'un tableau Excel et les collez dans SeaTable, la limite limitera l'exécution aux 50 premières lignes collées." />}}
 
 ## Corbeille et fonction de recherche dans la gestion des fichiers
 
@@ -40,7 +40,7 @@ Le développement de l'Universal App Builder est dans sa dernière ligne droite 
 
 Les [autorisations de page](https://seatable.io/fr/docs/apps/seitenberechtigungen-in-einer-universellen-app/) permettent de gérer les autorisations pour une page entière d'une application : qui peut voir des lignes sur une page, qui peut créer des lignes, qui peut modifier et supprimer des lignes. SeaTable 4.1 introduit une logique d'autorisation simple pour les colonnes. Les colonnes peuvent désormais être définies individuellement comme "**en lecture seule**" et ainsi être soustraites à la modification par les utilisateurs. Les nouvelles autorisations de colonnes dans l'application universelle s'appliquent en plus des [autorisations de colonnes](https://seatable.io/fr/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) dans la base et, combinées, permettent un contrôle très granulaire des droits des utilisateurs sur une page de tableau.
 
-{{< warning headline="Bon à savoir" text="Dans SeaTable 4.1, **les utilisateurs disposant d'un accès en lecture** sont autorisés à effectuer des actions sur les boutons des pages de tableaux, même si elles entraînent des modifications de l'ensemble de données." >}}
+{{< warning headline="Bon à savoir" text="Dans SeaTable 4.1, **les utilisateurs disposant d'un accès en lecture** sont autorisés à effectuer des actions sur les boutons des pages de tableaux, même si elles entraînent des modifications de l'ensemble de données." />}}
 
 Les **paramètres par défaut** des vues sont une autre nouveauté des pages de tableaux. Un réglage par défaut détermine l'affichage des données lors de l'appel de la page. Il impose donc un certain angle de vue sur les données, mais il peut être modifié par les utilisateurs de l'application, ce qui permet d'adapter l'angle de vue aux besoins des utilisateurs. Le fonctionnement est donc fondamentalement différent de celui des paramètres de données disponibles depuis plus longtemps. Ces derniers ne peuvent pas être modifiés par les utilisateurs. Les paramètres de données servent à limiter les données affichées aux utilisateurs.
 
@@ -64,6 +64,6 @@ Une autre amélioration, purement visuelle, concerne les **détails des lignes**
 
 Pour tous ceux qui aiment lancer des processus en un clic, il y a de quoi se réjouir : la nouvelle [action de bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) "Envoyer une notification" est disponible à partir de SeaTable 4.1. Elle complète l'action "Envoyer un e-mail" déjà disponible auparavant. Comme SeaTable propose désormais **neuf** actions de bouton, nous avons également rendu la fenêtre de sélection plus claire :
 
-![Nouveau bouton d&#039;action &quot;Envoyer une notification](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
+![Nouveau bouton d'action "Envoyer une notification](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
 
 Enfin, nous avons corrigé quelques **bugs** dans SeaTable 4.1, notamment le fait que les valeurs suivies du signe % dans les colonnes de texte et de sélection simple n'étaient pas interprétées comme des pourcentages, mais comme des nombres. Cela pouvait conduire à des résultats indésirables dans certaines [formules](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/). Veuillez vérifier si cette correction de bug a un impact sur vos formules.

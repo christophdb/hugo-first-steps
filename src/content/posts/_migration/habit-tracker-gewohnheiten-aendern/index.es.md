@@ -1,9 +1,9 @@
 ---
-title: "Habit Tracker: cómo cambiar tus hábitos a largo plazo"
+title: 'Habit Tracker: cómo cambiar tus hábitos a largo plazo'
 date: 2023-12-06
-lastmod: "2024-01-25"
-author: "lsc"
-url: "/es/habit-tracker-gewohnheiten-aendern"
+lastmod: '2024-01-25'
+author: 'lsc'
+url: '/es/habit-tracker-gewohnheiten-aendern'
 ---
 
 Hacer **propósitos** de Año Nuevo se ha convertido en un hábito para muchas personas. Pero todos los años nos decepcionamos cuando no cumplimos nuestros propósitos. Se necesita una gran voluntad para integrar nuevos hábitos en nuestras vidas. Existen **seguidores** de hábitos que facilitan este proceso.
@@ -20,7 +20,7 @@ Tu Rastreador de Hábitos podría tener este aspecto.
 
 No hay límites a su imaginación a la hora de **diseñar** su Seguidor de hábitos. Por ejemplo, trabaje con diferentes **colores** y tipos de letra o simplemente ponga en práctica sus ideas en línea con el Seguidor de hábitos [de SeaTable](https://seatable.io/es/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). No sólo debes anotar tus hábitos deseados, sino también tus hábitos anteriores. El seguimiento le ayuda a tomar conciencia de los hábitos que ha dado por sentados hasta el momento.
 
-{{< warning headline="Por qué necesitamos hábitos" text="Los hábitos nos facilitan la vida. Una vez interiorizado un comportamiento, solemos realizarlo automáticamente. La actividad se produce de forma subconsciente, como cepillarse los dientes cada día, que hacemos por costumbre sin cuestionarnos el propósito cada vez. De este modo, descargamos al cerebro de trabajo mental y al mismo tiempo creamos capacidad para procesos más importantes." >}}
+{{< warning headline="Por qué necesitamos hábitos" text="Los hábitos nos facilitan la vida. Una vez interiorizado un comportamiento, solemos realizarlo automáticamente. La actividad se produce de forma subconsciente, como cepillarse los dientes cada día, que hacemos por costumbre sin cuestionarnos el propósito cada vez. De este modo, descargamos al cerebro de trabajo mental y al mismo tiempo creamos capacidad para procesos más importantes." />}}
 
 Pero recuerda: Tu Seguidor de hábitos no está hecho para durar para siempre. El objetivo es desarrollar una **rutina** para que en algún momento ya no necesites registrar tu actividad.
 
@@ -30,9 +30,9 @@ Además del objetivo de aprender hábitos e integrarlos en tu vida cotidiana, el
 
 Además, los éxitos rápidamente reconocibles aumentan la confianza en ti mismo y te animan a continuar con **motivación** y **disciplina**. Con un seguidor de hábitos, desarrollarás rápidamente la ambición de mantener la racha ganadora.
 
-{{< warning headline="El seguimiento ayuda a alcanzar los objetivos" text="La ciencia también demuestra que el seguimiento le ayuda a alcanzar sus objetivos. Los [estudios](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) demuestran que las personas que hacen un seguimiento de su progreso tienen más éxito en la consecución de sus objetivos." >}}
+{{< warning headline="El seguimiento ayuda a alcanzar los objetivos" text="La ciencia también demuestra que el seguimiento le ayuda a alcanzar sus objetivos. Los [estudios](https://www.sciencedaily.com/releases/2015/10/151029101349.htm) demuestran que las personas que hacen un seguimiento de su progreso tienen más éxito en la consecución de sus objetivos." />}}
 
-Probablemente la mayor ventaja sea la **creación de rutinas**. Al ser consciente de tus progresos, puedes interiorizar tus hábitos. El propio Rastreador de hábitos lo demuestra. Al fin y al cabo, marcar regularmente las tareas pendientes también es un hábito.  
+Probablemente la mayor ventaja sea la **creación de rutinas**. Al ser consciente de tus progresos, puedes interiorizar tus hábitos. El propio Rastreador de hábitos lo demuestra. Al fin y al cabo, marcar regularmente las tareas pendientes también es un hábito.
 
 ## Qué hábitos puede seguir
 
@@ -76,7 +76,7 @@ Llevar a cabo sus comportamientos con regularidad requiere una gran **autodiscip
 
 ![El libro Atomic Habits contiene los siguientes consejos, que puedes integrar en tu rastreador de hábitos.](https://seatable.io/wp-content/uploads/2023/11/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
-El bestseller de James Clear contiene consejos útiles.  
+El bestseller de James Clear contiene consejos útiles.
 
 Los siguientes consejos proceden del libro de James Clear **El método del 1%** _(Atomic Habits_) y pueden hacer que tu rastreador de hábitos sea aún más eficaz.
 
@@ -85,20 +85,17 @@ Los siguientes consejos proceden del libro de James Clear **El método del 1%** 
 Incorporar hábitos a la vida cotidiana|||
 
 Para que una acción deseable sea más vinculante, debe vincularla al lugar y al momento de ejecución.
-
-\--- 
+{{< /faq >}}
 
 Combinar lo nuevo y lo viejo|||
 
 Los hábitos que ya están automatizados pueden facilitarle el aprendizaje de nuevos hábitos. Basta con realizar un hábito actual y un hábito nuevo uno detrás de otro.
-
-\--- 
+{{< /faq >}}
 
 Utilizar incentivos y recompensas|||
 
 No todos los hábitos que desea aprender le proporcionarán placer. Por eso puede ser útil trabajar con un sistema de recompensas. Realiza una tarea que no te guste y luego prémiate con algo que te resulte fácil y divertido.
-
-\--- 
+{{< /faq >}}
 
 Hábitos de 2 minutos|||
 

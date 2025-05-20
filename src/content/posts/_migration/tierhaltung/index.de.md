@@ -1,9 +1,9 @@
 ---
-title: "Tierhaltung organisieren – wie Sie Ihr Haustier artgerecht halten"
+title: 'Tierhaltung organisieren – wie Sie Ihr Haustier artgerecht halten'
 date: 2024-01-30
-lastmod: "2024-01-30"
-author: "lsc"
-url: "/de/tierhaltung"
+lastmod: '2024-01-30'
+author: 'lsc'
+url: '/de/tierhaltung'
 ---
 
 Der Hund ist der beste Freund des Menschen – so heißt es oft, wenn es um die Beziehung zwischen Herrchen und **Haustier** geht. Dabei liegt die Katze als beliebtestes Haustier der Deutschen noch vor dem Hund auf Platz 1. Weit dahinter folgen Nagetiere, Fische und Reptilien. Ein Haustier bringt Ihnen Freude, ist ein Seelenverwandter oder einfach schön anzuschauen. Mit der **Tierhaltung** ist aber auch Arbeit verbunden, denn Sie binden sich für eine lange Zeit und müssen die Bedürfnisse Ihrer Haustiere berücksichtigen.
@@ -43,26 +43,22 @@ Sie planen den Einzug eines neuen tierischen Begleiters und sind sich unsicher, 
 Was steht zur Tierhaltung im Mietvertrag?|||
 
 Ihr Vermieter kann im Mietvertrag bestimmte Einschränkungen zur Tierhaltung verankern. Ist im Mietvertrag keine derartige Regelung zu finden, darf der Vermieter Ihnen die Haltung von Haustieren nicht verbieten, egal um welches Tier es sich handelt. Ausnahme ist dabei das Halten von gefährlichen Tieren.
-
-\--- 
+{{< /faq >}}
 
 Welche Einschränkungen gibt es?|||
 
 Es gibt den sogenannten **Erlaubnisvorbehalt**, welcher die Tierhaltung von großen Tieren einschränkt. Findet sich diese Klausel in Ihrem Mietvertrag, müssen Sie Ihren Vermieter vor dem Einzug eines Tiers um Erlaubnis bitten. Der Vermieter darf Ihnen im Einzelfall, unter Angabe eines Grundes, die Anschaffung bestimmter Tiere verbieten.
-
-\--- 
+{{< /faq >}}
 
 Welche Tiere darf ich ohne Zustimmung halten?|||
 
 **Kleintiere** wie Mäuse, Geckos oder Zierfische, die keine Gefahr, Lärm- oder Geruchsbelästigung darstellen und in geschlossenen Käfigen, Terrarien oder Aquarien gehalten werden, bedürfen keiner Erlaubnis.
-
-\--- 
+{{< /faq >}}
 
 Darf ich Haustiere vorübergehend in meiner Wohnung haben?|||
 
 Gegen einen kurzen Besuch von einem Bekannten mit seinem Haustier ist natürlich nichts einzuwenden. Die Zustimmung des Vermieters müssen Sie aber einholen, wenn Sie längere Zeit oder gar gegen Bezahlung auf Tiere aufpassen.
-
-\---
+{{< /faq >}}
 
 ## Tierhaltung kostet Zeit
 
@@ -72,7 +68,7 @@ Natürlich bietet es sich in einem Haushalt mit mehreren Personen an, die rund u
 
 Wenn Sie für längere Zeit nicht da sind, zum Beispiel weil Sie in den **Urlaub** fahren, sollten Sie sich frühzeitig um die [Versorgung](https://www.lanuv.nrw.de/verbraucherschutz/tierschutz/tierhaltung/allgemeines/haustiere-in-der-urlaubszeit#:~:text=F%C3%BCr%20eine%20Reise%20ins%20Ausland,kann%20es%20ein%20Einreiseverbot%20geben.) Ihres Haustiers kümmern. Bei Nagetieren reicht es oft, Freunde und Verwandte zu fragen, ob sie ab und zu nach dem Rechten sehen und die Tiere füttern. Bei größeren Tieren reicht das meist nicht, da diese aktiv Auslauf und die Nähe zum Menschen brauchen.
 
-{{< warning headline="Tiere mit in den Urlaub nehmen" text="Auch für Tiere kann Urlaub eine tolle Erfahrung sein. **Reisen mit Tieren** bedeuten aber auch viel Stress. Für Katzen, Hunde und Frettchen wird für Reisen ins Ausland ein **EU-Heimtierausweis** benötigt. Außerdem können im Urlaubsland spezielle Impfungen und Quarantäne vorgeschrieben sein." >}}
+{{< warning headline="Tiere mit in den Urlaub nehmen" text="Auch für Tiere kann Urlaub eine tolle Erfahrung sein. **Reisen mit Tieren** bedeuten aber auch viel Stress. Für Katzen, Hunde und Frettchen wird für Reisen ins Ausland ein **EU-Heimtierausweis** benötigt. Außerdem können im Urlaubsland spezielle Impfungen und Quarantäne vorgeschrieben sein." />}}
 
 Für längere Urlaube gibt es die Möglichkeit, Ihren Liebling in eine **Tierpension** zu geben. Haben Sie Ihr Tier vom Züchter erworben, können Sie auch diesen Fragen, ob er eine Urlaubsbetreuung anbietet. In jedem Fall sollten Sie Ihr Tier nicht alleine zu Hause zurücklassen.
 
@@ -147,7 +143,7 @@ Bei den **Anschaffungskosten** gehen die Preise weit auseinander – je nachdem,
 
 Auch Tiere werden wie wir Menschen manchmal krank, nur verstecken sie es oft vor uns. Daher ist es notwendig, bereits bei kleinen Abweichungen vom normalen Verhalten Ihres Tiers einen Tierarzt aufzusuchen. Regelmäßige **Vorsorge-Checks** können helfen, Krankheiten vorzubeugen.
 
-{{< warning headline="Krankenversicherung für Ihr Haustier" text="Für Ihr Haustier kann sich eine Krankenversicherung vor allem lohnen, wenn Vorerkrankungen bekannt sind. Die Versicherungsbeiträge beginnen für Katzen bei 200 Euro im Jahr, bei Hunden bei 280 Euro. Auch eine [OP-Versicherung](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) kann sich bei Tieren in fortgeschrittenem Alter rechnen, da Operationen schnell vierstellige Beträge kosten. Andernfalls sollten Sie genug Geld zur Seite legen, um diese im Notfall bezahlen zu können." >}}
+{{< warning headline="Krankenversicherung für Ihr Haustier" text="Für Ihr Haustier kann sich eine Krankenversicherung vor allem lohnen, wenn Vorerkrankungen bekannt sind. Die Versicherungsbeiträge beginnen für Katzen bei 200 Euro im Jahr, bei Hunden bei 280 Euro. Auch eine [OP-Versicherung](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) kann sich bei Tieren in fortgeschrittenem Alter rechnen, da Operationen schnell vierstellige Beträge kosten. Andernfalls sollten Sie genug Geld zur Seite legen, um diese im Notfall bezahlen zu können." />}}
 
 Wenn Sie ein Tier bei sich aufnehmen, sollten Sie für einen ersten **Gesundheitscheck** zum Arzt gehen. Außerdem sind regelmäßige **Impfungen** und **Entwurmungen** nötig.
 

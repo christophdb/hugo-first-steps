@@ -1,9 +1,9 @@
 ---
-title: "Auslagenerstattung – Tipps für Arbeitgeber und Arbeitnehmer"
+title: 'Auslagenerstattung – Tipps für Arbeitgeber und Arbeitnehmer'
 date: 2024-01-03
-lastmod: "2025-05-19"
-author: "nsc"
-url: "/de/auslagenerstattung"
+lastmod: '2025-05-19'
+author: 'nsc'
+url: '/de/auslagenerstattung'
 ---
 
 Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?
@@ -35,7 +35,7 @@ Haben Sie sich bereits mit der Auslagenerstattung auseinandergesetzt und sind ü
 
 Durchlaufende Gelder werden in der Regel eher für **absehbare Ausgaben** genutzt, die in regelmäßigen Abständen anfallen, wohingegen Auslagenerstattungen eher für **einmalige Ausgaben** verwendet werden.
 
-{{< warning headline="Sachbezug" text="Nutzt ein Mitarbeiter ein Produkt oder einen Gegenstand beruflich und privat, erhält er vom Unternehmen einen **Sachbezug**. Das kann beispielsweise ein Firmenauto oder ein Smartphone sein, das Sie auch in Ihrer Freizeit nutzen dürfen. Bis zu einem Betrag von 50 Euro im Monat ist der betreffende Gegenstand von der Steuer befreit." >}}
+{{< warning headline="Sachbezug" text="Nutzt ein Mitarbeiter ein Produkt oder einen Gegenstand beruflich und privat, erhält er vom Unternehmen einen **Sachbezug**. Das kann beispielsweise ein Firmenauto oder ein Smartphone sein, das Sie auch in Ihrer Freizeit nutzen dürfen. Bis zu einem Betrag von 50 Euro im Monat ist der betreffende Gegenstand von der Steuer befreit." />}}
 
 ## Ausnahmefall: Pauschale Auslagenerstattung
 
@@ -63,7 +63,7 @@ Die Auslagenerstattung kann Sie ohne gute Struktur schnell überfordern.
 
 Die Auslagenerstattung birgt ihre eigenen Herausforderungen. Insbesondere der **bürokratische Aufwand** ist nicht zu unterschätzen – Belege und Dokumentationen häufen sich in den Ordnern an und beanspruchen **Platz**. Damit Sie vollständig abrechnen können, ist die akribische Vorlage jedes Belegs und jeder Rechnung erforderlich. Dabei besteht jedoch die Gefahr, dass die Nachweise schneller verloren gehen, als Ihnen lieb ist.
 
-{{< warning headline="Tipp" text="Sollten Sie doch mal einen Beleg verlieren, können Sie einen **Eigenbeleg** erstellen. Vor dieser Vorgehensweise empfiehlt es sich jedoch, Rücksprache mit Ihrem zuständigen Finanzamt zu halten, da hierfür keine generelle Anerkennungspflicht besteht." >}}
+{{< warning headline="Tipp" text="Sollten Sie doch mal einen Beleg verlieren, können Sie einen **Eigenbeleg** erstellen. Vor dieser Vorgehensweise empfiehlt es sich jedoch, Rücksprache mit Ihrem zuständigen Finanzamt zu halten, da hierfür keine generelle Anerkennungspflicht besteht." />}}
 
 Der Prozess der Auslagenerstattung ist nicht nur **zeitaufwändig**, sondern auch **fehleranfällig**, besonders wenn er noch auf Papier stattfindet. Hier müssen Sie vollkommen bei der Sache sein, um nicht versehentlich einen Zahlendreher zu riskieren. Zusätzlich gibt es noch die **Formatvorgaben** des Finanzamts zu beachten, denn dieses akzeptiert nur zusammenhängende PDFs.
 

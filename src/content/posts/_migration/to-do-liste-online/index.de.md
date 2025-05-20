@@ -1,9 +1,9 @@
 ---
-title: "To do Liste mit App online erstellen"
+title: 'To do Liste mit App online erstellen'
 date: 2024-04-03
-lastmod: "2024-04-03"
-author: "kgr"
-url: "/de/to-do-liste-online"
+lastmod: '2024-04-03'
+author: 'kgr'
+url: '/de/to-do-liste-online'
 ---
 
 Eine online nutzbare To do Liste mit einer App zu erstellen und zu verwalten bringt viele Vorteile mit sich. Denn eine **To-do-Liste** unterstützt Sie sowohl im Privatleben als auch im beruflichen Tagesgeschäft dabei, Ihre Aufgaben effizient zu meistern und im stressigen Alltag nichts zu vergessen. Lesen Sie in diesem Artikel, warum Sie für Ihre To do Liste eine **Vorlage** einsetzen sollten und welche **App** sich für eine To do Liste anbietet.
@@ -58,7 +58,7 @@ Sie können Ihre Aufgaben schnell erfassen, Beschreibungen, Abschnitte und Unter
 
 Eine Verknüpfung mit Ihrem Kalender, einem Sprachassistenten auf dem Smartphone und anderen Tools ist ebenfalls möglich. Todoist können Sie auf allen Geräten synchronisieren, um vom Laptop über das Handy bis zur Smartwatch auf Ihre Listen zugreifen zu können.
 
-{{< warning headline="Kosten" text="In der kostenfreien Version können Sie fünf aktive Projekte betreiben und mit fünf Mitgliedern pro Projekt arbeiten. Datei-Uploads, Filter und Erinnerungen sind eingeschränkt. Für 4 Euro pro User und Monat erhöhen Sie auf 300 Projekte und 25 Teammitglieder, bei 6 Euro pro User pro Monat sind es 500 Projekte mit bis zu 1000 Teammitgliedern, was sich hauptsächlich für größere Teams in Unternehmen eignet." >}}
+{{< warning headline="Kosten" text="In der kostenfreien Version können Sie fünf aktive Projekte betreiben und mit fünf Mitgliedern pro Projekt arbeiten. Datei-Uploads, Filter und Erinnerungen sind eingeschränkt. Für 4 Euro pro User und Monat erhöhen Sie auf 300 Projekte und 25 Teammitglieder, bei 6 Euro pro User pro Monat sind es 500 Projekte mit bis zu 1000 Teammitgliedern, was sich hauptsächlich für größere Teams in Unternehmen eignet." />}}
 
 ### Microsoft To Do: Die vielseitige App für Ihre To-do-Liste
 
@@ -66,7 +66,7 @@ Mit [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/) erhalten Sie sowo
 
 Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken. Erinnerungen und sich wiederholende Aufgaben sind ebenfalls möglich. Über den Listenmodus hinaus gibt es allerdings keine erweiterten Optionen zur Visualisierung, dafür benötigen Sie dann den Planner.
 
-{{< warning headline="Kostenlose Nutzung" text="Microsoft To Do ist kostenlos erhältlich. Alles, was Sie brauchen, ist ein Microsoft Account." >}}
+{{< warning headline="Kostenlose Nutzung" text="Microsoft To Do ist kostenlos erhältlich. Alles, was Sie brauchen, ist ein Microsoft Account." />}}
 
 ![Microsoft To do Liste App auf Smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
@@ -78,7 +78,7 @@ Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken
 
 Mit Projoodle erhalten Sie eine kostenlose App für To do Listen, die einfach zu erstellen, zu teilen und zu verwalten sind. Als weiteres Feature gibt es eine Kanban-Board-Ansicht, mit der Sie die Aufgaben übersichtlich nach Status gruppieren können. Die Möglichkeiten zum Sortieren und Terminieren der Aufgaben fallen allerdings spärlich aus.
 
-{{< warning headline="DSGVO-Konformität" text="Der Server der To-do-Listen App steht in Deutschland, sodass sich Projoodle auch für die DSGVO-konforme Arbeit mit sensiblen, personenbezogenen Daten eignet." >}}
+{{< warning headline="DSGVO-Konformität" text="Der Server der To-do-Listen App steht in Deutschland, sodass sich Projoodle auch für die DSGVO-konforme Arbeit mit sensiblen, personenbezogenen Daten eignet." />}}
 
 ### Erinnerungen: Die To-do-Listen-App für iOS
 
@@ -98,7 +98,7 @@ Im Vergleich aller betrachteten Apps hat SeaTable den mit Abstand **größten Fu
 
 Bei SeaTable können Sie mit der [kostenfreien Version](https://seatable.io/registrierung/) und dem [interaktiven Template](https://seatable.io/vorlage/bpvzkh-vrpwr4xylid6zeq/) sofort beginnen. Weitere Features sind in der Plus-Version für 7 € pro User und Monat, der Enterprise-Version für 14 € pro User und Monat oder einer dedizierten Cloud-Lösung erhältlich.
 
-{{< warning headline="DSGVO und Datenhoheit" text="Die Server der SeaTable Cloud befinden sich in Deutschland, sodass sich die Plattform auch für die DSGVO-konforme Arbeit mit sensiblen, personenbezogenen Daten eignet. Zudem haben Sie die Möglichkeit, [SeaTable On-Premises](https://seatable.io/on-premises/) auf Ihren eigenen Servern zu installieren." >}}
+{{< warning headline="DSGVO und Datenhoheit" text="Die Server der SeaTable Cloud befinden sich in Deutschland, sodass sich die Plattform auch für die DSGVO-konforme Arbeit mit sensiblen, personenbezogenen Daten eignet. Zudem haben Sie die Möglichkeit, [SeaTable On-Premises](https://seatable.io/on-premises/) auf Ihren eigenen Servern zu installieren." />}}
 
 ## Tipps für die erfolgreiche Umsetzung Ihrer To-do-Liste
 

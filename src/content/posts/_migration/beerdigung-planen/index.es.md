@@ -1,9 +1,9 @@
 ---
-title: "Planificar un funeral: para una despedida digna"
+title: 'Planificar un funeral: para una despedida digna'
 date: 2023-08-17
-lastmod: "2024-01-25"
-author: "kgr"
-url: "/es/beerdigung-planen"
+lastmod: '2024-01-25'
+author: 'kgr'
+url: '/es/beerdigung-planen'
 ---
 
 ¿Ha perdido a un ser querido y le gustaría que los funerales se celebraran sin complicaciones? ¿O le gustaría planificar su propio funeral para aliviar a sus familiares tras su muerte? En este artículo encontrará toda la información importante que necesita saber sobre la organización de un funeral.
@@ -13,26 +13,22 @@ url: "/es/beerdigung-planen"
 ¿Cuánto cuesta un funeral?|||
 
 El coste de un funeral puede variar entre unos pocos miles y varias decenas de miles de euros. Un funeral medio en Alemania cuesta unos 13.000 euros. En el artículo puede averiguar dónde puede ahorrar en los costes.
-
-\--- 
+{{< /faq >}}
 
 ¿Dónde puede ser enterrado?|||
 
 Básicamente, en Alemania sólo se permiten dos tipos de enterramiento: enterramiento en la tierra e incineración. Sin embargo, hay algunos lugares a elegir donde enterrar el cadáver o las cenizas. Entre ellos están los cementerios, los columbarios o determinadas zonas en la naturaleza. Encontrará más información al respecto en el capítulo correspondiente.
-
-\--- 
+{{< /faq >}}
 
 ¿Qué documentos necesita para un funeral?|||
 
 Entre otras cosas, necesitará el documento de identidad del fallecido, el certificado de nacimiento y matrimonio, así como el certificado de defunción y el certificado de defunción. También puede informarse sobre cómo obtener estos documentos en el artículo.
-
-\--- 
+{{< /faq >}}
 
 ¿Tiene que contratar a un enterrador?|||
 
 Sí. En Alemania, la ley establece que determinadas actividades, como el traspaso del cadáver, sólo pueden ser realizadas por una empresa de pompas fúnebres.
-
-\--- 
+{{< /faq >}}
 
 ¿A quién debes invitar al funeral?|||
 
@@ -54,7 +50,7 @@ Por este motivo, debe hablar abiertamente con sus familiares y amigos sobre los 
 
 Para evitar el caos en caso de fallecimiento, debe aclarar de antemano quién debe encargarse del funeral y de la gestión de sus trámites legales. Decida una o varias **personas** de su confianza. Pueden ser parientes cercanos, como cónyuges, hijos o hermanos, pero también amigos íntimos.
 
-{{< warning headline="Nota importante" text="No olvide, entre otras cosas, [autorizar](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) a sus personas de confianza a acceder a sus cuentas tras su fallecimiento. De lo contrario, es posible que los responsables no puedan actuar, ya que tendrán que esperar semanas o meses a que se abra el testamento o se expida un certificado de herencia." >}}
+{{< warning headline="Nota importante" text="No olvide, entre otras cosas, [autorizar](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) a sus personas de confianza a acceder a sus cuentas tras su fallecimiento. De lo contrario, es posible que los responsables no puedan actuar, ya que tendrán que esperar semanas o meses a que se abra el testamento o se expida un certificado de herencia." />}}
 
 ![Planificar un funeral: en caso de emergencia, los afectados no suelen saber por dónde empezar.](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
@@ -78,9 +74,9 @@ La elección de un tipo de sepultura está directamente relacionada con el lugar
 
 Un apacible descanso final en la naturaleza es cada vez más popular.
 
-Sin embargo, los enterramientos no están permitidos en todas partes en Alemania, sino sólo en las zonas autorizadas.  
+Sin embargo, los enterramientos no están permitidos en todas partes en Alemania, sino sólo en las zonas autorizadas.
 
-{{< warning headline="Atención" text="Por ejemplo, **no** está permitido enterrar al difunto en el propio jardín o llevarse las cenizas a casa. En Alemania, también está prohibido crear diamantes artificiales con las cenizas de difuntos, lanzar las cenizas al cielo nocturno durante los fuegos artificiales o lanzarlas al espacio con un cohete." >}}
+{{< warning headline="Atención" text="Por ejemplo, **no** está permitido enterrar al difunto en el propio jardín o llevarse las cenizas a casa. En Alemania, también está prohibido crear diamantes artificiales con las cenizas de difuntos, lanzar las cenizas al cielo nocturno durante los fuegos artificiales o lanzarlas al espacio con un cohete." />}}
 
 Hable con sus seres queridos sobre cómo les gustaría recordarle. Al fin y al cabo, las opiniones varían mucho sobre la cuestión de cómo les gustaría recordar a un ser querido: algunos prefieren una tumba como lugar de recuerdo, otros un objeto personal o fotos como recuerdo de la persona fallecida; y otros hacen algo cada año en el aniversario de su muerte para recordar el tiempo que pasaron juntos.
 
@@ -173,7 +169,7 @@ Sin embargo, el atuendo de luto no es obligatorio. Las ceremonias funerarias poc
 
 Debe informar lo antes posible del fallecimiento de un ser querido a **todas las personas** a las que cuida. Esto incluye a familiares, amigos, conocidos, vecinos y compañeros de trabajo. Lo mejor es hacer una lista de todas las personas relevantes y ponerse en contacto con ellas incluso antes de haber aclarado los detalles del servicio funerario. De este modo, todos los familiares tienen la oportunidad de procesar el fallecimiento y, si es necesario, solicitar un permiso especial.
 
-{{< warning headline="Licencia especial" text="**No existen disposiciones legales** sobre el permiso especial en caso de fallecimiento. Pregunte a su empresario si concede un permiso especial retribuido más allá de los días de permiso acordados en el contrato de trabajo. **Es habitual que se concedan de 1 a 2 días de permiso especial en caso de fallecimiento de parientes cercanos.** Esto incluye cónyuges, hijos, padres, suegros, abuelos y hermanos." >}}
+{{< warning headline="Licencia especial" text="**No existen disposiciones legales** sobre el permiso especial en caso de fallecimiento. Pregunte a su empresario si concede un permiso especial retribuido más allá de los días de permiso acordados en el contrato de trabajo. **Es habitual que se concedan de 1 a 2 días de permiso especial en caso de fallecimiento de parientes cercanos.** Esto incluye cónyuges, hijos, padres, suegros, abuelos y hermanos." />}}
 
 Lo ideal es que tengas acceso a la lista de contactos del teléfono móvil o la cuenta de correo electrónico del fallecido para avisar a los **dolientes**. Si conoces bien el entorno del fallecido, también puedes tomar nota de las personas de memoria y averiguar sus datos de contacto. Si la persona fallecida era activa en las redes sociales, puedes escribir a los contactos que haya allí.
 

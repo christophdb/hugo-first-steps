@@ -1,9 +1,9 @@
 ---
-title: "Planificación presupuestaria: ventajas, tipos, consejos y un ejemplo con plantilla"
+title: 'Planificación presupuestaria: ventajas, tipos, consejos y un ejemplo con plantilla'
 date: 2023-12-13
-lastmod: "2025-02-03"
-author: "rdb"
-url: "/es/budgetplanung-vorlage"
+lastmod: '2025-02-03'
+author: 'rdb'
+url: '/es/budgetplanung-vorlage'
 ---
 
 ## Ventajas, tipos y consejos para planificar el presupuesto
@@ -28,7 +28,7 @@ La **planificación presupuest** aria **operativa** forma parte de la planificac
 
 La **planificación presupuestaria estratégica** para los próximos dos a cinco años también es bastante habitual. Esto **le ayuda a tomar decisiones empresariales a largo plazo** que impulsarán a su empresa y garantizarán su éxito, como la apertura de nuevas sedes. Sin embargo, cuanto más lejano sea el horizonte de planificación, más difícil e incierto será hacer una previsión precisa.
 
-{{< warning headline="Consejo" text="Como necesitas un plan presupuestario para cada ejercicio, lo mejor es crear una plantilla que puedas utilizar una y otra vez." >}}
+{{< warning headline="Consejo" text="Como necesitas un plan presupuestario para cada ejercicio, lo mejor es crear una plantilla que puedas utilizar una y otra vez." />}}
 
 ![Modelo de plan presupuestario](images/goodnotes-5-1s5TOXcMZQ8-unsplash.jpg)
 
@@ -82,7 +82,7 @@ Sobre todo en las luchas internas por el poder, a menudo se pasan por alto los r
 
 **La presupuestación específica debe seguir siendo adaptable**, ya que se basa en parte en hipótesis de futuro que no pueden predecirse con certeza. Si las cosas evolucionan de forma distinta a la prevista, hay que reaccionar con flexibilidad.
 
-{{< warning headline="Presupuestación de base cero" text="La [presupuestación de base cero](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) es un método en el que los planes presupuestarios de años anteriores **no** se utilizan como base, sino que cada año se forjan nuevos planes presupuestarios desde cero. Este replanteamiento constante pretende descubrir medidas innecesarias y ahorrar costes." >}}
+{{< warning headline="Presupuestación de base cero" text="La [presupuestación de base cero](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) es un método en el que los planes presupuestarios de años anteriores **no** se utilizan como base, sino que cada año se forjan nuevos planes presupuestarios desde cero. Este replanteamiento constante pretende descubrir medidas innecesarias y ahorrar costes." />}}
 
 ## Planificación presupuestaria en la gestión de proyectos
 

@@ -1,9 +1,9 @@
 ---
-title: "Inventarliste erstellen – mit kostenloser Vorlage, Excel oder Word"
+title: 'Inventarliste erstellen – mit kostenloser Vorlage, Excel oder Word'
 date: 2024-02-23
-lastmod: "2025-01-10"
-author: "kgr"
-url: "/de/inventarliste-vorlagen"
+lastmod: '2025-01-10'
+author: 'kgr'
+url: '/de/inventarliste-vorlagen'
 ---
 
 Sie führen jedes Jahr oder sogar jeden Monat eine **Inventur** durch? Dann sind Sie hier genau richtig! In diesem Artikel erfahren Sie, wie Sie Ihre **Inventarliste erstellen**, den Prozess standardisieren und Ihre Inventur vereinfachen können. Dazu können Sie eine Inventarliste in Excel importieren oder Ihre eigene Vorlage in Word aufbauen. Außerdem finden Sie heraus, welche Vorteile eine kostenlose Datenbank wie **SeaTable gegenüber Excel und Word** bietet.
@@ -31,7 +31,7 @@ Zum Inventar und damit in Ihre Inventarliste gehören das Vermögen (Anlage- und
 - Zum **Anlagevermögen gehören die Vermögensgegenstände**, die dauerhaft dem Geschäftsbetrieb Ihres Unternehmens dienen. Das können Immobilien, Maschinen, technische Anlagen, Fahrzeuge, Büromöbel, Finanzanlagen oder immaterielle Rechte und Werte wie etwa Patente sein.
 - Das **Umlaufvermögen stellen alle Vermögensgegenstände dar**, die sich nur kurzfristig zur Veräußerung, zum Verbrauch, zur Weiterverarbeitung oder zur Rückzahlung im Unternehmen befinden. Diese sind meist die Grundlage (z. B. vorrätige Rohstoffe und Energieträger) oder das Ergebnis (z. B. fertige Erzeugnisse, Bankguthaben, Forderungen) des Produktionsprozesses.
 
-{{< warning headline="Das muss nicht inventarisiert werden" text="Nicht inventarisieren müssen Sie **kurzlebige Verbrauchsgegenstände, die innerhalb von 12 Monaten ihren Wert verlieren** oder durch den Gebrauchsakt vernichtet werden. Dazu zählen unabhängig vom Anschaffungspreis beispielsweise Druckerpatronen, Hygieneartikel oder Nahrungsmittel." >}}
+{{< warning headline="Das muss nicht inventarisiert werden" text="Nicht inventarisieren müssen Sie **kurzlebige Verbrauchsgegenstände, die innerhalb von 12 Monaten ihren Wert verlieren** oder durch den Gebrauchsakt vernichtet werden. Dazu zählen unabhängig vom Anschaffungspreis beispielsweise Druckerpatronen, Hygieneartikel oder Nahrungsmittel." />}}
 
 ## Arten der Inventur
 
@@ -45,7 +45,7 @@ Zudem macht es einen Unterschied, **wann** Sie Ihr Inventar erstellen:
 
 ![Lagerarbeiter macht Inventur in Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
-Ihre Inventarliste sollten Sie regelmäßig mit dem tatsächlichen Bestand abgleichen. Bildrechte: zephyr\_p / Adobe Stock
+Ihre Inventarliste sollten Sie regelmäßig mit dem tatsächlichen Bestand abgleichen. Bildrechte: zephyr_p / Adobe Stock
 
 ## Warum ist es wichtig, eine Inventarliste zu erstellen?
 

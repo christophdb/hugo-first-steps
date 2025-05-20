@@ -1,9 +1,9 @@
 ---
-title: "Fuhrparkmanagement: Wie Sie Ihren Fuhrpark clever verwalten"
+title: 'Fuhrparkmanagement: Wie Sie Ihren Fuhrpark clever verwalten'
 date: 2024-01-09
-lastmod: "2025-02-12"
-author: "kgr"
-url: "/de/fuhrparkmanagement"
+lastmod: '2025-02-12'
+author: 'kgr'
+url: '/de/fuhrparkmanagement'
 ---
 
 Ob LKWs, Busse oder klassische Dienstwagen: Einen Fuhrpark zu verwalten ist für Unternehmen jeder Größe eine vielseitige Aufgabe, bei der es einiges zu beachten gilt. Deshalb soll der folgende Artikel dabei helfen, all Ihre Fragen rund um das **Fuhrparkmanagement** zu klären.
@@ -68,7 +68,7 @@ Auch die **Versicherung** schlägt beim Fuhrpark- und Flottenmanagement mit hohe
 
 Wie Sie vermutlich wissen, müssen Sie die **Datenschutz-Grundverordnung (DSGVO)** überall beachten, wo Sie personenbezogene Daten erheben und speichern. Beim Fuhrparkmanagement kommt der Datenschutz an vielen Stellen ins Spiel. Deshalb ist es ratsam, bereits vor Fahrzeugüberlassung eine **Einwilligungserklärung** vom Fahrer einzuholen. Klären Sie jeden darüber auf, welche Daten Sie wozu und wie lange von ihm speichern werden.
 
-{{< warning headline="Hinweis" text="Moderne Systeme können Fahrzeuge zum Beispiel zur Routenplanung orten und genaue **Bewegungsprofile** erstellen. Ebenso lassen sich über die **Tankkartennutzung** Rückschlüsse auf Strecken, Verbrauch und Fahrweise ziehen." >}}
+{{< warning headline="Hinweis" text="Moderne Systeme können Fahrzeuge zum Beispiel zur Routenplanung orten und genaue **Bewegungsprofile** erstellen. Ebenso lassen sich über die **Tankkartennutzung** Rückschlüsse auf Strecken, Verbrauch und Fahrweise ziehen." />}}
 
 Vor allem aus steuerrechtlichen Gründen ist es notwendig, dass Sie die konkrete **Fahrzeugnutzung** nachvollziehen können. Wann haben welche Mitarbeiter welche Firmenwagen genutzt? Und ganz wichtig: Waren die Fahrten dienstlicher oder privater Natur? Um diese Informationen sorgfältig und DSGVO-konform zu dokumentieren, bietet sich ein [digitales Fahrtenbuch](https://seatable.io/digitales-fahrtenbuch-fuehren/) an.
 
@@ -99,20 +99,17 @@ SeaTable bietet Ihnen eine übersichtliche und intuitive Verwaltung Ihres Fuhrpa
 Was ist ein Fuhrpark?|||
 
 Unter einem Fuhrpark versteht man die Gesamtheit der Fahrzeuge, die sich im Besitz Ihres Unternehmens befinden.
-
-\--- 
+{{< /faq >}}
 
 Was versteht man unter Fuhrparkmanagement?|||
 
 Mit Fuhrparkmanagement sind alle Prozesse gemeint, die Ihre Fahrzeugflotte betreffen.
-
-\--- 
+{{< /faq >}}
 
 Was beinhaltet das Fuhrparkmanagement?|||
 
 Das Fuhrparkmanagement beginnt mit der **Bedarfsprüfung**, wie viele Fahrzeuge Ihr Unternehmen benötigt, und klärt anschließend die **Finanzierung, Anschaffung oder Veräußerung** der Fahrzeuge. Es muss die sorgfältige **Vewaltung der Fahrzeugdokumente** (Fahrzeugbriefe, Kaufverträge, Versicherungen etc.) und die **DSGVO-konforme Speicherung der Fahrerdaten** (z. B. Bewegungsdaten, Tankbelege, Führerscheine) sicherstellen. Im Tagesgeschäft geht es um die reibungslose **Buchung, Übergabe und Routenplanung** sowie eventuelle **Reparaturen und Inspektionen**.
-
-\--- 
+{{< /faq >}}
 
 Was kostet das Fuhrparkmanagement?|||
 

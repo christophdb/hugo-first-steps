@@ -1,9 +1,9 @@
 ---
-title: "Recaudación de fondos: Cómo recaudar y gestionar donativos - SeaTable"
+title: 'Recaudación de fondos: Cómo recaudar y gestionar donativos - SeaTable'
 date: 2024-04-16
-lastmod: "2024-04-16"
-author: "nsc"
-url: "/es/fundraising"
+lastmod: '2024-04-16'
+author: 'nsc'
+url: '/es/fundraising'
 ---
 
 La **recaudación de fondos** es algo más que una estrategia de financiación: es una forma de alcanzar objetivos en común. Desde el apoyo a **organizaciones sin ánimo de lucro** y **campañas políticas** hasta la financiación de **innovaciones empresariales**, impregna casi todos los ámbitos de la vida social. Se sirve de diversas estrategias para promover el compromiso y la solidaridad de las personas.
@@ -26,7 +26,7 @@ Para recaudar fondos con éxito y convencer a la gente de su proyecto, es crucia
 
 Es importante que facilite información detallada, incluida la **cantidad** concreta que necesita para el **fin** definido. Utiliza un **lenguaje emotivo y descriptivo** para inspirar tu idea al mayor número posible de interesados.
 
-{{< warning headline="Consejo" text="Un método de probada eficacia es enviar **cartas de donación**. Estas cartas le permiten comunicar su mensaje de forma clara y eficaz y dirigirse a los donantes potenciales a nivel personal." >}}
+{{< warning headline="Consejo" text="Un método de probada eficacia es enviar **cartas de donación**. Estas cartas le permiten comunicar su mensaje de forma clara y eficaz y dirigirse a los donantes potenciales a nivel personal." />}}
 
 ![Jarra con monedas, de la que crece una pequeña planta](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 

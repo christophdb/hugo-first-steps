@@ -1,9 +1,9 @@
 ---
-title: "Gestão de propriedades facilitada: Gestão profissional de propriedades"
+title: 'Gestão de propriedades facilitada: Gestão profissional de propriedades'
 date: 2023-11-03
-lastmod: "2023-11-06"
-author: "ott"
-url: "/pt/hausverwaltung"
+lastmod: '2023-11-06'
+author: 'ott'
+url: '/pt/hausverwaltung'
 ---
 
 **O arrendamento de imóveis** é um negócio lucrativo, tanto para particulares como para empresas e autarquias locais. No entanto, se gere propriedades, tem de garantir que a sua **gestão** funciona corretamente - independentemente de alugar apartamentos individuais a título particular ou em grande escala com uma empresa.
@@ -20,7 +20,7 @@ Enquanto proprietário, tem de se ocupar da gestão e do arrendamento do seu im�
 
 Existem **empresas externas de gestão de** imóveis que apoiam os proprietários de imóveis de aluguer na sua gestão ou assumem completamente esta tarefa. Isto significa que asseguram a boa manutenção dos imóveis e que a gestão dos mesmos é garantida. São remuneradas pelos proprietários por este trabalho administrativo.
 
-{{< warning headline="Gestão de propriedades vs. zelador" text="O gestor de propriedades é muitas vezes confundido com o **zelador**. No entanto, o zelador é apenas um empregado ou prestador de serviços da empresa de gestão de propriedades e presta principalmente serviços de manutenção." >}}
+{{< warning headline="Gestão de propriedades vs. zelador" text="O gestor de propriedades é muitas vezes confundido com o **zelador**. No entanto, o zelador é apenas um empregado ou prestador de serviços da empresa de gestão de propriedades e presta principalmente serviços de manutenção." />}}
 
 No entanto, há também muitos **proprietários privados** que assumem eles próprios as tarefas administrativas de gestão do património, sobretudo se os inquilinos forem poucos. Desta forma, poupam os custos de uma gestão externa.
 

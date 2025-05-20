@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.1: More powerful automations, App Builder on the home stretch and much more - SeaTable"
+title: 'SeaTable 4.1: More powerful automations, App Builder on the home stretch and much more - SeaTable'
 date: 2023-08-23
-lastmod: "2023-08-23"
-author: "kgr"
-url: "/seatable-release-4-1"
+lastmod: '2023-08-23'
+author: 'kgr'
+url: '/seatable-release-4-1'
 ---
 
 The summer vacations are coming to an end and we hope you enjoyed the vacation time. While others were jumping into the pool or putting their feet up, our developers have been hard at work and created **SeaTable version 4.1**.
@@ -22,7 +22,7 @@ In addition, we have improved the performance of some [actions](https://seatable
 
 ![New options for automations](images/New-options-for-automation.png)
 
-{{< warning headline="Higher execution limit for automations" text="Each automation is subject to an [execution limit](https://seatable.io/en/docs/automationen/ausfuehrungslimit-bei-automationen/) that defines the maximum execution frequency of automations. Such a limit is necessary to ensure a good user experience for all SeaTable Cloud users. Previously, SeaTable Cloud had a limit of 10 executions per minute for each automation. This limit was increased to **50 executions per** minute with the version change. This new limit should not be a relevant limitation for many use cases. This is different for automations with the event type "Added entries". There, the increased limit can also quickly take effect. For example, if you copy rows from an Excel spreadsheet and paste it into SeaTable, the limit will restrict the execution to the first 50 inserted rows ." >}}
+{{< warning headline="Higher execution limit for automations" text="Each automation is subject to an [execution limit](https://seatable.io/en/docs/automationen/ausfuehrungslimit-bei-automationen/) that defines the maximum execution frequency of automations. Such a limit is necessary to ensure a good user experience for all SeaTable Cloud users. Previously, SeaTable Cloud had a limit of 10 executions per minute for each automation. This limit was increased to **50 executions per** minute with the version change. This new limit should not be a relevant limitation for many use cases. This is different for automations with the event type "Added entries". There, the increased limit can also quickly take effect. For example, if you copy rows from an Excel spreadsheet and paste it into SeaTable, the limit will restrict the execution to the first 50 inserted rows ." />}}
 
 ## Trash bin and search function in file management
 
@@ -40,7 +40,7 @@ The development of the Universal App Builder is on the home stretch and our team
 
 [Page perm](https://seatable.io/en/docs/apps/seitenberechtigungen-in-einer-universellen-app/) issions allow to manage permissions for a whole page of an app: who is allowed to see rows on a page, who is allowed to create rows , who is allowed to modify and delete rows . SeaTable 4.1 introduces a simple permission logic for columns. Columns can now be individually set to "**read only**" and thus removed from user editing. The new column permissions in the Universal App apply in addition to the [column permissions](https://seatable.io/en/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) in Base and in combination allow very granular control of user permissions on a table page.
 
-{{< warning headline="Good to know" text="In SeaTable 4.1, **users with read-only access** are granted permission to perform button actions on table pages, even if they cause changes to the record." >}}
+{{< warning headline="Good to know" text="In SeaTable 4.1, **users with read-only access** are granted permission to perform button actions on table pages, even if they cause changes to the record." />}}
 
 The **default settings** for views are another new feature on table pages. A default setting determines how the data is displayed when the page is called up. It thus provides a certain angle of view on the data, but it can be changed by the app users and thus the angle of view can be adapted to the needs of the users. The way it works is thus fundamentally different from the data settings that have been available for some time. The latter cannot be changed by users. The data settings are used to restrict the data displayed to the users.
 
@@ -64,6 +64,6 @@ Another, purely visual improvement concerns the **row details**, where you can v
 
 For all those who like to start processes with a mouse click, there is reason to rejoice: The new [button action](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) "Send notification" is available as of SeaTable 4.1. This supplements the already previously available action "Send email". Since SeaTable now offers **nine** button actions, we have also made the selection window clearer:
 
-![New &quot;Send notification&quot; button action](images/New-button-action-send-notification.png)
+![New "Send notification" button action](images/New-button-action-send-notification.png)
 
 Last but not least, we fixed some **bugs** again in SeaTable 4.1 - among others that values with following % sign in text and single selection columns were not interpreted as percentages but as numbers. This could lead to unwanted results in some [formulas](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/). Please check if this bugfix affects your formulas.

@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.1: Automatizaciones más potentes, App Builder en la recta final y mucho más - SeaTable"
+title: 'SeaTable 4.1: Automatizaciones más potentes, App Builder en la recta final y mucho más - SeaTable'
 date: 2023-08-23
-lastmod: "2023-08-23"
-author: "kgr"
-url: "/es/seatable-release-4-1"
+lastmod: '2023-08-23'
+author: 'kgr'
+url: '/es/seatable-release-4-1'
 ---
 
 Las vacaciones de verano están llegando a su fin y esperamos que haya disfrutado del tiempo libre. Mientras otros se tiraban a la piscina o descansaban, nuestros desarrolladores trabajaban duro para crear **la versión 4.1 de SeaTable**.
@@ -22,7 +22,7 @@ Además, hemos mejorado el rendimiento de algunas [acciones](https://seatable.io
 
 ![Nuevas opciones de automatización](images/New-options-for-automation.png)
 
-{{< warning headline="Mayor límite de ejecución para las automatizaciones" text="Cada automatización está sujeta a un límite [de ejecución](https://seatable.io/es/docs/automationen/ausfuehrungslimit-bei-automationen/) que define la frecuencia máxima de ejecución de las automatizaciones. Dicho límite es necesario para garantizar una buena experiencia de usuario para todos los usuarios de SeaTable Cloud. Anteriormente, SeaTable Cloud tenía un límite de 10 ejecuciones por minuto para cada automatización. Este límite se incrementó a 50 ejecuciones **por** minuto con el cambio de versión. Este nuevo límite no debería ser una restricción relevante para muchos casos de uso. Esto es diferente para las automatizaciones con el tipo de evento "Entradas añadidas". Allí, el límite aumentado también puede tener efecto rápidamente. Por ejemplo, si copia filas de una tabla Excel y las pega en SeaTable, el límite restringirá la ejecución a las primeras 50 filas insertadas." >}}
+{{< warning headline="Mayor límite de ejecución para las automatizaciones" text="Cada automatización está sujeta a un límite [de ejecución](https://seatable.io/es/docs/automationen/ausfuehrungslimit-bei-automationen/) que define la frecuencia máxima de ejecución de las automatizaciones. Dicho límite es necesario para garantizar una buena experiencia de usuario para todos los usuarios de SeaTable Cloud. Anteriormente, SeaTable Cloud tenía un límite de 10 ejecuciones por minuto para cada automatización. Este límite se incrementó a 50 ejecuciones **por** minuto con el cambio de versión. Este nuevo límite no debería ser una restricción relevante para muchos casos de uso. Esto es diferente para las automatizaciones con el tipo de evento "Entradas añadidas". Allí, el límite aumentado también puede tener efecto rápidamente. Por ejemplo, si copia filas de una tabla Excel y las pega en SeaTable, el límite restringirá la ejecución a las primeras 50 filas insertadas." />}}
 
 ## Papelera de reciclaje y función de búsqueda en el gestor de archivos
 
@@ -40,7 +40,7 @@ El desarrollo del Universal App Builder se encuentra en la recta final y nuestro
 
 Los permisos [de página](https://seatable.io/es/docs/apps/seitenberechtigungen-in-einer-universellen-app/) permiten la gestión de permisos para toda una página de una aplicación: quién tiene permiso para ver filas en una página, quién tiene permiso para crear filas, quién tiene permiso para cambiar y eliminar filas. SeaTable 4.1 introduce una lógica de permisos simple para las columnas. Ahora las columnas pueden configurarse individualmente como**"sólo lectura**" y, por lo tanto, no pueden ser editadas por los usuarios. Los nuevos permisos de columna en la Aplicación Universal se aplican además de los [permisos de columna](https://seatable.io/es/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) en Base y, en combinación, permiten un control muy granular de los permisos de usuario en una página de tabla.
 
-{{< warning headline="Es bueno saberlo" text="En SeaTable 4.1, **los usuarios con** permiso de lectura tienen permiso para realizar acciones de botón en las páginas de la tabla, incluso si provocan cambios en el registro." >}}
+{{< warning headline="Es bueno saberlo" text="En SeaTable 4.1, **los usuarios con** permiso de lectura tienen permiso para realizar acciones de botón en las páginas de la tabla, incluso si provocan cambios en el registro." />}}
 
 La **configuración** por defecto de las vistas es otra de las novedades de las páginas de tablas. Una configuración por defecto determina la visualización de los datos cuando se llama a la página. Proporciona así un determinado ángulo de visión de los datos, pero puede ser modificado por los usuarios de la aplicación y, de este modo, el ángulo de visión puede adaptarse a las necesidades de los usuarios. Su funcionamiento es, por tanto, fundamentalmente diferente del de los ajustes de datos disponibles desde hace algún tiempo. Estos últimos no pueden ser modificados por los usuarios. Los ajustes de datos sirven para restringir los datos que se muestran a los usuarios.
 
@@ -64,6 +64,6 @@ Otra mejora, puramente visual, afecta a los detalles de **las** filas, donde se 
 
 Para todos aquellos a los que les gusta iniciar procesos con un clic del ratón, hay motivos para alegrarse: La nueva acción de [botón](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/) "Enviar notificación" está disponible desde SeaTable 4.1. Esta acción complementa a la anteriormente disponible "Enviar correo electrónico". Dado que SeaTable ofrece ahora **nueve** acciones de botón, también hemos hecho más clara la ventana de selección:
 
-![Nueva acción de botón &quot;Enviar notificación](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
+![Nueva acción de botón "Enviar notificación](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
 
 Por último, pero no por ello menos importante, hemos corregido de nuevo algunos **errores** en SeaTable 4.1 - entre otros, que los valores con el siguiente signo % en columnas de texto y de selección única no se interpretaban como porcentajes sino como números. Esto podía dar lugar a resultados no deseados en algunas [fórmulas](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/). Por favor, compruebe si esta corrección afecta a sus fórmulas.

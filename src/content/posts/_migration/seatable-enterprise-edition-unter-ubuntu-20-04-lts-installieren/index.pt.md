@@ -1,14 +1,14 @@
 ---
-title: "Instalar SeaTable Enterprise Edition sob Ubuntu Server 20.04 LTS - SeaTable"
+title: 'Instalar SeaTable Enterprise Edition sob Ubuntu Server 20.04 LTS - SeaTable'
 date: 2021-01-23
-lastmod: "2024-01-19"
-author: "rdb"
-url: "/pt/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren"
+lastmod: '2024-01-19'
+author: 'rdb'
+url: '/pt/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren'
 ---
 
 Graças a Docker , a instalação da SeaTable Enterprise Edition é muito simples e pode ser feita em apenas alguns momentos. Ubuntu Server como um sistema operativo Linux amplamente utilizado e bem documentado é uma excelente base para o SeaTable. Se já tem um servidor Ubuntu, pode aprender aqui como instalar o SeaTable nele em 10 minutos.
 
-{{< warning headline="Este manual está desatualizado" text="Tenha em atenção que este manual está desatualizado. Consulte as instruções de instalação actualizadas disponíveis em [https://manual.seatable.io](https://manual.seatable.io)" >}}
+{{< warning headline="Este manual está desatualizado" text="Tenha em atenção que este manual está desatualizado. Consulte as instruções de instalação actualizadas disponíveis em [https://manual.seatable.io](https://manual.seatable.io)" />}}
 
 ## Requisitos
 
@@ -65,17 +65,17 @@ Este é o aspecto do ficheiro YAML após o download:
 
 ![docker-compose.yml ficheiro](https://seatable.io/wp-content/uploads/2021/01/SeaTable_dockercompose.png)
 
-À primeira vista, pode ver os quatro contentores que Docker configura quando a receita é executada: db, memcached, redis e seatable. Para cada contentor, a imagem a ser utilizada ("image") e o nome do contentor ("container\_name") são declarados. O nome do contentor é o nome que pode ser utilizado mais tarde para gerir o contentor através da Consola Docker .
+À primeira vista, pode ver os quatro contentores que Docker configura quando a receita é executada: db, memcached, redis e seatable. Para cada contentor, a imagem a ser utilizada ("image") e o nome do contentor ("container_name") são declarados. O nome do contentor é o nome que pode ser utilizado mais tarde para gerir o contentor através da Consola Docker .
 
 Além disso, cada contentor tem algumas configurações individuais, algumas das quais precisam agora da sua atenção.
 
-No **contentor db**, é necessário alterar a palavra-passe da base de dados. Substitua "YOUR\_PASSWORD" por uma palavra-passe alfanumérica de vários dígitos. Além disso, pode ajustar o caminho sob o qual o diretório /opt/seatable/mysql-data/ é disponibilizado no contentor seatable-mysql. Por defeito, este é o caminho /var/lib/mysql. Isto não é necessário.
+No **contentor db**, é necessário alterar a palavra-passe da base de dados. Substitua "YOUR_PASSWORD" por uma palavra-passe alfanumérica de vários dígitos. Além disso, pode ajustar o caminho sob o qual o diretório /opt/seatable/mysql-data/ é disponibilizado no contentor seatable-mysql. Por defeito, este é o caminho /var/lib/mysql. Isto não é necessário.
 
 O **contentor memcached** e o **contentor redis** não requerem quaisquer ajustes. Se já estiver a executar memcached ou redis, pode remover estes dois recipientes do ficheiro Compose. No entanto, para que o SeaTable funcione, terá de fazer ajustes manuais nos ficheiros de configuração mais tarde.
 
-Os ajustes mais extensos devem ser efectuados no **contentor seatable**: Em primeiro lugar, a MYSQL\_ROOT\_PASSWORD deve ser introduzida aí. Caso contrário, o SeaTable não consegue comunicar com a base de dados. Por isso, introduza a palavra-passe especificada acima para o contentor db em "DB\_ROOT\_PASSWD".
+Os ajustes mais extensos devem ser efectuados no **contentor seatable**: Em primeiro lugar, a MYSQL_ROOT_PASSWORD deve ser introduzida aí. Caso contrário, o SeaTable não consegue comunicar com a base de dados. Por isso, introduza a palavra-passe especificada acima para o contentor db em "DB_ROOT_PASSWD".
 
-Depois, é uma questão de decidir se a Let's Encrypt deve solicitar um certificado SSL para si e incluí-lo na configuração do servidor Web. Se quiser fazer isto - o que é provavelmente a recomendação para a maioria dos utilizadores - então altere o valor da chave SEATABLE\_SERVER\_LETSENCRYPT para "True" e introduza o subdomínio que está a utilizar para SEATABLE\_SERVER\_HOSTNAME. O Certbot do Let's Encrypt solicitará então um certificado SSL como parte da configuração e tê-lo-á em conta na configuração do servidor Web.
+Depois, é uma questão de decidir se a Let's Encrypt deve solicitar um certificado SSL para si e incluí-lo na configuração do servidor Web. Se quiser fazer isto - o que é provavelmente a recomendação para a maioria dos utilizadores - então altere o valor da chave SEATABLE_SERVER_LETSENCRYPT para "True" e introduza o subdomínio que está a utilizar para SEATABLE_SERVER_HOSTNAME. O Certbot do Let's Encrypt solicitará então um certificado SSL como parte da configuração e tê-lo-á em conta na configuração do servidor Web.
 
 Pode deixar o fuso horário definido para Etc/UTC para a Europa Central. Se estiver fora da Europa Central, utilize os códigos de fuso horário habituais.
 
@@ -99,9 +99,9 @@ Após o último comando, ser-lhe-á pedido que introduza um endereço de correio
 
 ## Comissionamento
 
-Chame agora o URL que especificou no docker-compose.yml em SEATABLE\_SERVER\_HOSTNAME. Irá aterrar na página de login do seu servidor SeaTable. Instalação bem sucedida!
+Chame agora o URL que especificou no docker-compose.yml em SEATABLE_SERVER_HOSTNAME. Irá aterrar na página de login do seu servidor SeaTable. Instalação bem sucedida!
 
-Se votou para utilizar Let's Encrypt no site docker-compose.yml, então o seu pedido deve ser redireccionado directamente para https e assim a comunicação com o seu servidor deve ser encriptada. Se não, então deverá agora inserir o seu próprio certificado SSL. Copiar o certificado para a pasta /opt/seatable/ssl/ e ajustar a configuração do nginx do servidor web. Também tem de alterar os endereços de http para https nos ficheiros de configuração ccnet.conf, dtable\_web\_seetings.py e dtable\_server\_config.json. Depois disso, nginx, SeaTable e Memcached têm de ser reiniciados. Faz-se isto com estes três comandos:
+Se votou para utilizar Let's Encrypt no site docker-compose.yml, então o seu pedido deve ser redireccionado directamente para https e assim a comunicação com o seu servidor deve ser encriptada. Se não, então deverá agora inserir o seu próprio certificado SSL. Copiar o certificado para a pasta /opt/seatable/ssl/ e ajustar a configuração do nginx do servidor web. Também tem de alterar os endereços de http para https nos ficheiros de configuração ccnet.conf, dtable_web_seetings.py e dtable_server_config.json. Depois disso, nginx, SeaTable e Memcached têm de ser reiniciados. Faz-se isto com estes três comandos:
 
 `docker exec -it seatable /shared/seatable/scripts/seatable.sh restart   docker restart seatable-memcached   docker exec -it seatable /usr/sbin/nginx -s reload`
 

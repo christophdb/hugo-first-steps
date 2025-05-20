@@ -1,9 +1,9 @@
 ---
-title: "Gestion de la flotte : comment gérer intelligemment votre parc de véhicules"
+title: 'Gestion de la flotte : comment gérer intelligemment votre parc de véhicules'
 date: 2024-01-09
-lastmod: "2025-02-12"
-author: "kgr"
-url: "/fr/fuhrparkmanagement"
+lastmod: '2025-02-12'
+author: 'kgr'
+url: '/fr/fuhrparkmanagement'
 ---
 
 Qu'il s'agisse de camions, de bus ou de voitures de service classiques, la gestion d'une flotte de véhicules est une tâche polyvalente pour les entreprises de toutes tailles, qui nécessite de prendre en compte un certain nombre d'éléments. C'est pourquoi l'article suivant a pour but de vous aider à répondre à toutes vos questions concernant la **gestion de votre parc automobile**.
@@ -68,7 +68,7 @@ Les **frais administratifs** sont généralement moins élevés avec le leasing,
 
 Comme vous le savez probablement, vous devez respecter le **règlement général sur la protection des données (RGPD)** partout où vous collectez et stockez des données à caractère personnel. Dans la gestion de parc automobile, la protection des données entre en jeu à de nombreux endroits. C'est pourquoi il est conseillé de demander une **déclaration de consentement** au conducteur avant même de mettre un véhicule à disposition. Informez chacun des données que vous allez enregistrer à son sujet, dans quel but et pendant combien de temps.
 
-{{< warning headline="Remarque" text="Les systèmes modernes peuvent par exemple localiser les véhicules pour planifier les itinéraires et établir **des profils de déplacement** précis. De même, l'**utilisation des cartes de carburant** permet de tirer des conclusions sur les trajets, la consommation et le mode de conduite." >}}
+{{< warning headline="Remarque" text="Les systèmes modernes peuvent par exemple localiser les véhicules pour planifier les itinéraires et établir **des profils de déplacement** précis. De même, l'**utilisation des cartes de carburant** permet de tirer des conclusions sur les trajets, la consommation et le mode de conduite." />}}
 
 Il est nécessaire, surtout pour des raisons fiscales, que vous puissiez suivre l'**utilisation** concrète **des véhicules**. Quand quels collaborateurs ont-ils utilisé quelles voitures de société ? Et très important : les trajets étaient-ils de nature professionnelle ou privée ? Pour documenter ces informations avec soin et conformément au RGPD, un [carnet de route numérique](https://seatable.io/fr/digitales-fahrtenbuch-fuehren/) s'impose.
 
@@ -99,20 +99,17 @@ SeaTable vous offre une gestion claire et intuitive de votre flotte et des deman
 Qu'est-ce qu'un parc de véhicules ?|||
 
 Une flotte est l’ensemble des véhicules possédés par votre entreprise.
-
-\--- 
+{{< /faq >}}
 
 Qu'est-ce que la gestion de flotte ?|||
 
 La gestion de flotte fait référence à tous les processus qui affectent votre flotte de véhicules.
-
-\--- 
+{{< /faq >}}
 
 Que comprend la gestion de flotte ?|||
 
 La gestion de flotte commence par une **évaluation** du nombre de véhicules dont votre entreprise a besoin, puis clarifie le **financement, l'achat ou la vente** des véhicules. Elle doit assurer une **gestion soignée des documents du véhicule** (carte grise, contrats d'achat, assurances, etc.) et le **stockage conforme au RGPD des données du conducteur** (par exemple, données de déplacement, reçus de carburant, permis de conduire). Les activités quotidiennes comprennent **la réservation, la remise et la planification des itinéraires** en toute fluidité, ainsi que les éventuelles **réparations et inspections** .
-
-\--- 
+{{< /faq >}}
 
 Combien coûte la gestion de flotte ?|||
 

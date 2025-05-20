@@ -1,9 +1,9 @@
 ---
-title: "Procura de casa - 10 dicas para encontrar um apartamento"
+title: 'Procura de casa - 10 dicas para encontrar um apartamento'
 date: 2023-12-18
-lastmod: "2023-12-18"
-author: "nsc"
-url: "/pt/wohnungssuche"
+lastmod: '2023-12-18'
+author: 'nsc'
+url: '/pt/wohnungssuche'
 ---
 
 Quer se trate da sua primeira casa, do seu terceiro apartamento partilhado este ano ou de um novo retiro para toda a família - todos os que **procuram casa** enfrentam o mesmo desafio. A situação no mercado da habitação é tensa: Os apartamentos a preços acessíveis escasseiam, enquanto as rendas continuam a subir. Mas há sempre bons apartamentos a ficarem disponíveis ou blocos de apartamentos antigos a serem renovados. Deve estar bem preparado para estas oportunidades, de modo a poder afirmar-se perante os seus numerosos concorrentes.
@@ -24,7 +24,7 @@ Lista de controlo para a procura do apartamento perfeito.
 
 Para convencer o seu futuro senhorio dos seus méritos, é necessário causar uma boa primeira impressão. Uma **carta de apresentação** que inclua um toque pessoal para além dos factos habituais será mais memorável do que as frases comuns. Também pode impressionar o seu futuro senhorio com um **perfil** ou um CV. Se possível, peça ao seu senhorio atual um **certificado de ausência de rendas em atraso** ou mesmo uma carta de recomendação. Em todo o caso, precisa dos seus últimos recibos de vencimento e de um **controlo de crédito Schufa**.
 
-{{< warning headline="Dica" text="Muitos senhorios aceitam também a [cópia dos dados (de acordo com o art. 15º do RGPD)](https://www.meineschufa.de/de/datenkopie). Ao contrário do controlo de crédito da Schufa, a cópia de dados é gratuita." >}}
+{{< warning headline="Dica" text="Muitos senhorios aceitam também a [cópia dos dados (de acordo com o art. 15º do RGPD)](https://www.meineschufa.de/de/datenkopie). Ao contrário do controlo de crédito da Schufa, a cópia de dados é gratuita." />}}
 
 ## 3\. verificar as suas necessidades antes de procurar um apartamento
 
@@ -43,7 +43,7 @@ Existem vários métodos quotidianos para encontrar um apartamento. Por exemplo,
 
 Se este processo for demasiado moroso, pode também recorrer a agências mais oficiais. Os inquilinos podem também recorrer a **agentes imob** iliários para encontrar alojamento, embora estes cobrem uma comissão. Nos termos da lei, a comissão do agente imobiliário não pode exceder duas rendas frias líquidas acrescidas de IVA. Outra opção é contactar diretamente **as empresas de gestão de imóveis**. Estas dispõem frequentemente de uma [visão global](https://seatable.io/pt/hausverwaltung/) e podem encontrar apartamentos que ficarão disponíveis em breve.
 
-{{< warning headline="Dica" text="Em caso de anulação, vale a pena perguntar ao senhorio se existe uma **lista de interessados**. Especialmente se possuir várias unidades de aluguer, pode ser contactado assim que houver outro apartamento disponível." >}}
+{{< warning headline="Dica" text="Em caso de anulação, vale a pena perguntar ao senhorio se existe uma **lista de interessados**. Especialmente se possuir várias unidades de aluguer, pode ser contactado assim que houver outro apartamento disponível." />}}
 
 ## 5\. encontrar apartamentos em linha
 

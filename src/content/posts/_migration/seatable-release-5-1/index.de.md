@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 5.1: Mehr Funktionen/Komfort in App Builder & Big Data"
+title: 'SeaTable 5.1: Mehr Funktionen/Komfort in App Builder & Big Data'
 date: 2024-11-08
-lastmod: "2024-11-08"
-author: "rdb"
-url: "/de/seatable-release-5-1"
+lastmod: '2024-11-08'
+author: 'rdb'
+url: '/de/seatable-release-5-1'
 ---
 
 Der Schwerpunkt von SeaTable 5.1 liegt auf der Verbesserung bestehender Funktionen und ihrer Optimierung für praktische Anwendungsfälle. Insbesondere der **App Builder**, der mit der Version 5.0 offiziell an den Start ging, hat besondere Aufmerksamkeit erhalten und ermöglicht nun noch leistungsfähigere Web-Anwendungen. Aber auch Benutzer des **Big-Data-Speichers** profitieren von umfangreichen Verbesserungen. Das neue **Tree-Plugin** bietet eine weitere Visualisierungsmöglichkeit für hierarchische Daten. Über alle wichtigen Neuerungen berichten wir in diesen Release Notes. Im [Changelog](https://seatable.io/docs/changelog/version-5-1/) finden Sie – wie immer – die vollständige Liste der Änderungen.
@@ -62,7 +62,7 @@ Fast ebenso auffällig ist der **gelbe Warnhinweis**, der in normalen Ansichten 
 
 Auf vielfachen Nutzerwunsch steht die **Datenverarbeitungsoperation** [Vergleichen und verknüpfen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) nun auch in Big-Data-Ansichten zur Verfügung. Diese Operation kann Einträge im Big-Data-Speicher mit Zeilen in jeder anderen Tabelle verknüpfen, egal ob die Zeilen der verknüpften Tabelle in der Base oder im Big-Data-Speicher gespeichert sind.
 
-{{< warning headline="Hinweis" text="Die Ausführungsgeschwindigkeit ist deutlich langsamer als die gleiche Operation in einer normalen Ansicht, weil bei der Ausführung in normalen Ansichten bereits alle Zeileninformationen im Arbeitsspeicher liegen." >}}
+{{< warning headline="Hinweis" text="Die Ausführungsgeschwindigkeit ist deutlich langsamer als die gleiche Operation in einer normalen Ansicht, weil bei der Ausführung in normalen Ansichten bereits alle Zeileninformationen im Arbeitsspeicher liegen." />}}
 
 Um die Nachvollziehbarkeit von Änderungen an Zeilen im Big-Data-Speicher zu erhöhen, bietet SeaTable 5.1 ein separates **Big Data Log**. Dieses Log, das Zeilenmodifikationen und Löschungen erfasst, kommt zum Vorschein, sobald der Big-Data-Speicher in der Base aktiviert ist.
 

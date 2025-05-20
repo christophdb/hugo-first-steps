@@ -1,9 +1,9 @@
 ---
-title: "Buscar casa: 10 consejos para encontrar piso"
+title: 'Buscar casa: 10 consejos para encontrar piso'
 date: 2023-12-18
-lastmod: "2023-12-18"
-author: "nsc"
-url: "/es/wohnungssuche"
+lastmod: '2023-12-18'
+author: 'nsc'
+url: '/es/wohnungssuche'
 ---
 
 Ya sea su primera vivienda, su tercer piso compartido este año o un nuevo refugio para toda la familia, todos los **que buscan casa** se enfrentan al mismo reto. La situación del mercado inmobiliario es tensa: Los pisos asequibles escasean, mientras que los alquileres siguen subiendo. Pero siempre hay pisos bonitos disponibles o bloques de pisos antiguos que se renuevan. Debe estar bien preparado para estas oportunidades a fin de poder imponerse a sus numerosos competidores.
@@ -24,7 +24,7 @@ Lista de comprobación para la búsqueda del piso perfecto.
 
 Para convencer a su futuro casero de sus méritos, necesita causar una buena primera impresión. Una **carta de** presentación en la que incluyas un toque personal además de los datos habituales será más memorable que las frases estándar. También puedes impresionar a tu posible casero con un **perfil** o un CV. Si es posible, pídele a tu casero actual un **certificado de no atrasos en el alquiler** o incluso una carta de recomendación. En cualquier caso, necesitarás tus nóminas más recientes y una **verificación de crédito de Schufa**.
 
-{{< warning headline="Consejo" text="Muchos arrendadores también aceptan la copia de datos [(de conformidad con el artículo 15 del GDPR)](https://www.meineschufa.de/de/datenkopie). A diferencia de la verificación de crédito de Schufa, la copia de datos es gratuita." >}}
+{{< warning headline="Consejo" text="Muchos arrendadores también aceptan la copia de datos [(de conformidad con el artículo 15 del GDPR)](https://www.meineschufa.de/de/datenkopie). A diferencia de la verificación de crédito de Schufa, la copia de datos es gratuita." />}}
 
 ## 3\. compruebe sus necesidades antes de buscar piso
 
@@ -43,7 +43,7 @@ Existen varios métodos cotidianos para encontrar piso. Por ejemplo, algunos pro
 
 Si esto le lleva demasiado tiempo, también puede recurrir a agencias más oficiales. Los inquilinos también pueden recurrir a **agentes inmobiliarios** para encontrar alojamiento, aunque cobrarán una comisión. Según la ley, la comisión del agente inmobiliario no puede superar los dos alquileres fríos netos más IVA. Otra opción es contactar directamente con **empresas de gestión inmobiliaria**. Suelen tener una [visión de conjunto](https://seatable.io/es/hausverwaltung/) y pueden ofrecer pisos que quedarán disponibles en breve.
 
-{{< warning headline="Consejo" text="En caso de cancelación, conviene preguntar al propietario si existe una **lista de interesados**. Sobre todo si son propietarios de varias viviendas de alquiler, pueden ponerse en contacto contigo en cuanto haya otro piso disponible." >}}
+{{< warning headline="Consejo" text="En caso de cancelación, conviene preguntar al propietario si existe una **lista de interesados**. Sobre todo si son propietarios de varias viviendas de alquiler, pueden ponerse en contacto contigo en cuanto haya otro piso disponible." />}}
 
 ## 5\. buscar pisos en internet
 

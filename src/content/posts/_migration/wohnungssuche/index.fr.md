@@ -1,9 +1,9 @@
 ---
-title: "Recherche de logement - 10 conseils pour trouver un logement"
+title: 'Recherche de logement - 10 conseils pour trouver un logement'
 date: 2023-12-18
-lastmod: "2023-12-18"
-author: "nsc"
-url: "/fr/wohnungssuche"
+lastmod: '2023-12-18'
+author: 'nsc'
+url: '/fr/wohnungssuche'
 ---
 
 Qu'il s'agisse du premier appartement à soi, de la troisième colocation de l'année ou d'un nouveau lieu de retraite pour toute la famille, toutes les personnes à la **recherche d'un logement** sont confrontées au même défi. La situation sur le marché du logement est tendue : Les logements abordables sont rares, tandis que les loyers continuent d'augmenter. Mais il y a toujours de beaux appartements qui se libèrent ou d'anciens immeubles locatifs qui sont rénovés. Vous devez être bien préparé à ces opportunités afin de pouvoir vous imposer face à vos nombreux concurrents.
@@ -24,7 +24,7 @@ Check-list pour une recherche de logement parfaite.
 
 Pour convaincre votre futur propriétaire, la première impression doit être la bonne. Une **lettre de motivation** dans laquelle vous ajoutez une touche personnelle en plus des faits habituels restera plus facilement en tête que des phrases standard. Vous pouvez également impressionner votre futur propriétaire avec un **profil** ou un CV. Si possible, demandez à votre propriétaire actuel une **attestation de non-dette locative** ou même une lettre de recommandation. Dans tous les cas, vous aurez besoin de vos derniers bulletins de salaire et d'un **contrôle de solvabilité de la Schufa**.
 
-{{< warning headline="Conseil" text="De nombreux bailleurs acceptent également la [copie des données (conformément à l'article 15 du RGPD)](https://www.meineschufa.de/de/datenkopie). Contrairement à la vérification de la solvabilité par la Schufa, la copie des données est gratuite." >}}
+{{< warning headline="Conseil" text="De nombreux bailleurs acceptent également la [copie des données (conformément à l'article 15 du RGPD)](https://www.meineschufa.de/de/datenkopie). Contrairement à la vérification de la solvabilité par la Schufa, la copie des données est gratuite." />}}
 
 ## 3\. vérifier ses droits avant de chercher un logement
 
@@ -43,7 +43,7 @@ Au quotidien, il existe plusieurs méthodes pour trouver des logements. Certains
 
 Si cela vous semble trop compliqué, vous pouvez vous adresser à des organismes plus officiels. Les locataires peuvent également faire appel **à des agents immobiliers** pour trouver un logement, mais ceux-ci demandent une commission. Selon la loi, les frais d'agence ne peuvent pas dépasser deux loyers nets plus la TVA. Une autre option consiste à contacter directement les **gérances immobilières**. Ceux-ci ont souvent [une vue d'ensemble](https://seatable.io/fr/hausverwaltung/) et peuvent proposer des logements qui seront bientôt libres.
 
-{{< warning headline="Conseil" text="En cas de refus, il vaut la peine de demander au bailleur s'il existe une **liste de personnes intéressées**. Surtout si celui-ci possède plusieurs unités de location, il peut vous contacter dès qu'un autre logement se libère." >}}
+{{< warning headline="Conseil" text="En cas de refus, il vaut la peine de demander au bailleur s'il existe une **liste de personnes intéressées**. Surtout si celui-ci possède plusieurs unités de location, il peut vous contacter dès qu'un autre logement se libère." />}}
 
 ## 5\. trouver des appartements en ligne
 

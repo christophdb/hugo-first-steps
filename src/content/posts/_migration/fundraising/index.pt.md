@@ -1,9 +1,9 @@
 ---
-title: "Angariação de fundos: Como recolher e gerir donativos - SeaTable"
+title: 'Angariação de fundos: Como recolher e gerir donativos - SeaTable'
 date: 2024-04-16
-lastmod: "2024-04-16"
-author: "nsc"
-url: "/pt/fundraising"
+lastmod: '2024-04-16'
+author: 'nsc'
+url: '/pt/fundraising'
 ---
 
 **A angariação de fundos** é mais do que uma simples estratégia de financiamento: é uma forma de alcançar objectivos em conjunto. Desde o apoio a **organizações sem fins lucrativos** e **campanhas políticas** até ao financiamento de **inovações empresariais**, está presente em quase todos os domínios da vida social. Recorre a uma variedade de estratégias para promover o empenhamento e a solidariedade das pessoas.
@@ -26,7 +26,7 @@ Para angariar fundos com sucesso e convencer as pessoas do seu projeto, é cruci
 
 É importante que forneça informações pormenorizadas, incluindo o **montante** específico de que necessita para o **objetivo** definido. Utilize **uma linguagem emocional e descritiva** para inspirar o maior número possível de interessados na sua ideia.
 
-{{< warning headline="Dica" text="Uma abordagem experimentada e testada é o envio de **cartas de donativos**. Estas permitem-lhe comunicar a sua mensagem de forma clara e eficaz e dirigir-se aos potenciais doadores a um nível pessoal." >}}
+{{< warning headline="Dica" text="Uma abordagem experimentada e testada é o envio de **cartas de donativos**. Estas permitem-lhe comunicar a sua mensagem de forma clara e eficaz e dirigir-se aos potenciais doadores a um nível pessoal." />}}
 
 ![Frasco com moedas, do qual nasce uma pequena planta](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 

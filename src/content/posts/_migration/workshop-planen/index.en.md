@@ -1,10 +1,10 @@
 ---
-title: "Workshop planning: How to organize stress-free workshops"
+title: 'Workshop planning: How to organize stress-free workshops'
 date: 2024-01-15
-lastmod: "2024-01-15"
-coverImage: "Workshops.jpg"
-author: "kgr"
-url: "/workshop-planen"
+lastmod: '2024-01-15'
+coverImage: 'Workshops.jpg'
+author: 'kgr'
+url: '/workshop-planen'
 ---
 
 Nowadays, lifelong learning is one of the most important things when it comes to **professional qualifications** and **personal development**. Whether it's a workshop, training or further education: As an employer, it is essential that you support your employees and offer them opportunities for further development. For many employees today, this is part of an attractive job and **your company benefits** in many ways from well-trained employees.
@@ -31,7 +31,7 @@ Further training, courses and workshops naturally have several advantages for yo
 
 On the other hand, your employees develop **better promotion prospects**, as new skills and leadership qualities can expand their field of activity. This allows you to cover your **need for specialists and managers** from your own workforce if necessary. And last but not least, workshops are also an exciting **diversion** for employees when there are no new tasks and projects in their day-to-day work.
 
-{{< warning headline="Employee loyalty and satisfaction" text="Regular further education, training and workshops can not only increase **productivity** and **employability**, but also the [satisfaction](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) of your employees. They feel taken seriously and see it as a positive signal when you want to hear their opinion, involve them in changes or offer them the opportunity to develop further. This strengthens **employee loyalty** to the company and, in the long term, reduces staff turnover and means you have to spend less time and money looking for and recruiting new employees." >}}
+{{< warning headline="Employee loyalty and satisfaction" text="Regular further education, training and workshops can not only increase **productivity** and **employability**, but also the [satisfaction](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) of your employees. They feel taken seriously and see it as a positive signal when you want to hear their opinion, involve them in changes or offer them the opportunity to develop further. This strengthens **employee loyalty** to the company and, in the long term, reduces staff turnover and means you have to spend less time and money looking for and recruiting new employees." />}}
 
 ## Managing workshops - a breeze with the right software
 
@@ -89,7 +89,7 @@ Depending on the topic of the workshop, different methods and materials are suit
 - **Interactive role plays** are ideal for management training, for example, because you can take on the perspective of different team members and practise dealing with conflicts.
 - Another method in which a topic is examined from different perspectives is de Bono's **6 thinking hats**. You divide the participants into six groups: The white hat stands for facts, the red one for emotions, the yellow one for opportunities, the black one for risks, the green one for ideas and the blue one for structures.
 
-{{< warning headline="Tip" text="If you are using a **presentation** for your workshop, you should test beforehand whether the **technology** (projector, speakers, cables for the laptop) is working properly." >}}
+{{< warning headline="Tip" text="If you are using a **presentation** for your workshop, you should test beforehand whether the **technology** (projector, speakers, cables for the laptop) is working properly." />}}
 
 ## Create certificates
 

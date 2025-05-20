@@ -1,9 +1,9 @@
 ---
-title: "Planificación de eventos en 10 pasos incl. plantilla para la gestión de su evento"
+title: 'Planificación de eventos en 10 pasos incl. plantilla para la gestión de su evento'
 date: 2024-03-07
-lastmod: "2024-03-07"
-author: "nsc"
-url: "/es/event-planen"
+lastmod: '2024-03-07'
+author: 'nsc'
+url: '/es/event-planen'
 ---
 
 Si quiere planificar el evento perfecto, hay mucho que tener en cuenta. Pero, ¿por dónde empezar si no está familiarizado con la gestión de eventos? ¿Y cómo evitar errores de planificación, conflictos de programación y cancelaciones?
@@ -22,7 +22,7 @@ También es importante determinar desde el principio qué tipo de acto está pla
 
 Esta información le permitirá tomar decisiones con conocimiento de causa durante la fase de planificación y adaptar mejor el acto a su público objetivo.
 
-{{< warning headline="Consejo" text="Un objetivo específico y cuantificable le ayudará a evaluar el éxito de su evento una vez celebrado." >}}
+{{< warning headline="Consejo" text="Un objetivo específico y cuantificable le ayudará a evaluar el éxito de su evento una vez celebrado." />}}
 
 ## 2\. desarrollar el concepto
 
@@ -48,7 +48,7 @@ Para asegurarse de no planificar un evento que supere su presupuesto, en la orga
 
 Si planifica y presupuesta cuidadosamente estos costes principales y los gastos adicionales de su evento, podrá asegurarse de que éste se ajuste a su presupuesto y de que no haya costes imprevistos. Si planificas un acto comercial, puedes utilizar estos datos como base para calcular **cuánto** tienes que cobrar para cubrir los costes.
 
-{{< warning headline="Consejo" text="Tal vez pueda reducir los costes con **voluntarios** o **patrocinadores**." >}}
+{{< warning headline="Consejo" text="Tal vez pueda reducir los costes con **voluntarios** o **patrocinadores**." />}}
 
 ## 4\. crear horario
 
@@ -56,7 +56,7 @@ Lo más importante en la organización de un evento es empezar a planificarlo co
 
 Un calendario de este tipo no sólo permite determinar exactamente cuándo hay que dar cada paso, sino también reconocer posibles retrasos en una fase temprana. Es importante prever un **margen** para compensar cambios imprevistos en el plan y minimizar así la presión del tiempo y el estrés.
 
-{{< warning headline="Consejo" text="Compruebe con antelación si su cita coincide con otras fechas importantes, días festivos o vacaciones escolares." >}}
+{{< warning headline="Consejo" text="Compruebe con antelación si su cita coincide con otras fechas importantes, días festivos o vacaciones escolares." />}}
 
 ![Gestión de actos: Reloj de arena en un periódico](images/pexels-pixabay-39396-711x536.jpg)
 
@@ -98,7 +98,7 @@ En el caso de eventos comerciales como festivales, tiene sentido la publicidad s
 
 Es importante iniciar las medidas publicitarias a tiempo y preparar los mensajes de forma atractiva e informativa para despertar el interés de su público objetivo y conseguir un elevado número de visitantes.
 
-{{< warning headline="Consejo" text="Si publica los momentos más destacados, fotos y vídeos en [las redes](https://seatable.io/es/social-media-plan-vorlage/) sociales, podrá ampliar la presencia y el impacto de su evento más allá de la fecha real." >}}
+{{< warning headline="Consejo" text="Si publica los momentos más destacados, fotos y vídeos en [las redes](https://seatable.io/es/social-media-plan-vorlage/) sociales, podrá ampliar la presencia y el impacto de su evento más allá de la fecha real." />}}
 
 ## 9\. cumplir los requisitos legales y de seguridad
 

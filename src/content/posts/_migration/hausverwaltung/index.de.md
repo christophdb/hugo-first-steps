@@ -1,9 +1,9 @@
 ---
-title: "Hausverwaltung leicht gemacht: Immobilien professionell managen"
+title: 'Hausverwaltung leicht gemacht: Immobilien professionell managen'
 date: 2023-11-03
-lastmod: "2023-11-06"
-author: "ott"
-url: "/de/hausverwaltung"
+lastmod: '2023-11-06'
+author: 'ott'
+url: '/de/hausverwaltung'
 ---
 
 Die **Vermietung von Immobilien** ist sowohl privat als auch für Unternehmen und Kommunen ein lohnendes Geschäft. Wenn Sie Immobilien bewirtschaften, müssen Sie aber eine funktionierende **Hausverwaltung** gewährleisten – egal, ob Sie privat einzelne Wohnungen vermieten oder im großen Stil mit einer Firma.
@@ -20,7 +20,7 @@ Als Eigentümer müssen Sie sich um die Verwaltung und Vermietung Ihrer Immobili
 
 Es gibt **externe Hausverwaltungen**, die Eigentümer von Mietobjekten bei der Verwaltung unterstützen oder dies gänzlich übernehmen. Das heißt, dass sie dafür sorgen, dass die Immobilien gut erhalten bleiben und die Bewirtschaftung der Objekte gewährleistet ist. Diesen administrativen Aufwand lassen sie sich von den Eigentümern vergüten.
 
-{{< warning headline="Hausverwaltung vs. Hausmeister" text="Die Hausverwaltung wird oft mit dem **Hausmeister** verwechselt. Der Hausmeister ist jedoch nur ein Angestellter oder Dienstleister der Hausverwaltung und erbringt überwiegend Handwerkerleistungen." >}}
+{{< warning headline="Hausverwaltung vs. Hausmeister" text="Die Hausverwaltung wird oft mit dem **Hausmeister** verwechselt. Der Hausmeister ist jedoch nur ein Angestellter oder Dienstleister der Hausverwaltung und erbringt überwiegend Handwerkerleistungen." />}}
 
 Es gibt aber auch viele **private Eigentümer**, die selbst die administrativen Tätigkeiten der Hausverwaltung übernehmen – insbesondere, wenn es sich um wenige Mietparteien handelt. Damit sparen sie sich die Kosten für eine externe Verwaltung.
 

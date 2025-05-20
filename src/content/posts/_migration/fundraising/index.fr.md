@@ -1,9 +1,9 @@
 ---
-title: "Collecte de fonds : comment collecter et gérer les dons - SeaTable"
+title: 'Collecte de fonds : comment collecter et gérer les dons - SeaTable'
 date: 2024-04-16
-lastmod: "2024-04-16"
-author: "nsc"
-url: "/fr/fundraising"
+lastmod: '2024-04-16'
+author: 'nsc'
+url: '/fr/fundraising'
 ---
 
 **La collecte de fonds** est plus qu'une simple stratégie de financement : c'est un moyen d'atteindre des objectifs communs. Du soutien **aux organisations d'utilité publique** au financement **de l'innovation entrepreneuriale** en passant par les **campagnes politiques**, il pénètre presque tous les domaines de la vie sociale. Il fait appel à une multitude de stratégies pour encourager l'engagement et la solidarité des personnes.
@@ -26,7 +26,7 @@ Pour réussir une collecte de fonds et convaincre les gens de votre projet, il e
 
 Il est important de fournir des informations détaillées, y compris le **montant** spécifique dont vous avez besoin pour atteindre votre **objectif**. Utilisez un **langage émotionnel et descriptif** afin d'enthousiasmer le plus grand nombre possible de personnes intéressées par votre idée.
 
-{{< warning headline="Conseil" text="Une approche qui a fait ses preuves est l'envoi de **lettres de don**. Celles-ci vous permettent de communiquer votre message de manière claire et efficace et d'aborder les donateurs potentiels à un niveau personnel." >}}
+{{< warning headline="Conseil" text="Une approche qui a fait ses preuves est l'envoi de **lettres de don**. Celles-ci vous permettent de communiquer votre message de manière claire et efficace et d'aborder les donateurs potentiels à un niveau personnel." />}}
 
 ![Verre contenant des pièces de monnaie, d'où sort une petite plante](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 

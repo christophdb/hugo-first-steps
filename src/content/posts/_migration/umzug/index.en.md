@@ -1,9 +1,9 @@
 ---
-title: "Plan your move with checklist: How to move stress free"
+title: 'Plan your move with checklist: How to move stress free'
 date: 2023-10-30
-lastmod: "2023-10-30"
-author: "lsc"
-url: "/umzug"
+lastmod: '2023-10-30'
+author: 'lsc'
+url: '/umzug'
 ---
 
 Finally, the time has come! You've found the perfect apartment for you and can't wait to move into your new home. The only thing that now separates you from your dream apartment is the move. What most people find a lot of stress and time-consuming, you can make easy for yourself with a structured **moving plan**. Find out here how you can plan your move as stress-free as possible and bring it to a successful conclusion.
@@ -41,20 +41,17 @@ With careful planning of the transfers, the first step of your move is done. But
 Am I entitled to statutory special leave?|||
 
 First the bad news: In Germany, according to the Federal Leave Act and the Civil Code, there is **no legal entitlement to leave** when you move.
-
-\--- 
+{{< /faq >}}
 
 What does my employment contract say?|||
 
 Although there is no general entitlement to special leave, your employer can of course still grant it. To make sure, take a look at your employment contract or ask the works council or a superior whether you are entitled to special leave.
-
-\--- 
+{{< /faq >}}
 
 What if I move for work reasons?|||
 
 In this case, you have a good chance of being granted paid time off, even if this is not listed in your employment contract. A distinction is made between whether you are changing employers or merely changing the place of work. In the case of the former, you must hope for the goodwill of your new employer. If, on the other hand, you are moving within the same employer, it is possible to apply for paid time off.
-
-\---
+{{< /faq >}}
 
 ### Professional reasons for the move
 
@@ -63,14 +60,12 @@ In this case, you have a good chance of being granted paid time off, even if thi
 What reasons make a move 'work related'?|||
 
 In addition to the reasons already mentioned - _change of job or employer_ - there are other ways to claim your move as work-related. These are starting your first job, moving out of or into an official residence, returning from abroad to start a new job in Germany, and shortening your commute by at least half an hour a day.
-
-\--- 
+{{< /faq >}}
 
 Are there different rules if I work in the public sector?|||
 
 Yes, because as a civil servant or employee in the public sector, you are entitled to one day of paid leave for a move for work-related reasons in accordance with Section 29 of the Collective Bargaining Ordinance. If you have already had to move once in the past five years for business reasons, you are even entitled to three days off.
-
-\---
+{{< /faq >}}
 
 ## Organize the move
 
@@ -84,7 +79,7 @@ With a **moving company** you save yourself a lot of time and nerves. Because ev
 
 The cost of your move depends on the household size and distance of the apartments.
 
-But for your money you then get a **Complete service**. This also includes that the company is liable for any damage to your property, the apartment or the staircase during your move. The law stipulates that 620 euros per cubic meter of transported goods will be assessed for the case of damage. If you want to have particularly valuable goods transported, you can agree on a higher liability sum with the moving company. But be careful: if you pack your furniture and possessions yourself, the professionals will not assume any liability for damage caused during transport.  
+But for your money you then get a **Complete service**. This also includes that the company is liable for any damage to your property, the apartment or the staircase during your move. The law stipulates that 620 euros per cubic meter of transported goods will be assessed for the case of damage. If you want to have particularly valuable goods transported, you can agree on a higher liability sum with the moving company. But be careful: if you pack your furniture and possessions yourself, the professionals will not assume any liability for damage caused during transport.
 
 ![Hiring a moving company will save you a lot of work.](images/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
@@ -135,17 +130,17 @@ The move is imminent and you want to tell everyone about your new address. Think
 - Memberships (e.g. gym, clubs)
 - Online stores and parcel services
 
-{{< warning headline="If you forget to tell someone your new address" text="With Deutsche Post's forwarding order, letters and parcels that arrive at your old address are simply forwarded to your new address. You can set this up online at [nachsendeauftrag.de](http://nachsendeauftrag.de/) from 28.90 euros for six months." >}}
+{{< warning headline="If you forget to tell someone your new address" text="With Deutsche Post's forwarding order, letters and parcels that arrive at your old address are simply forwarded to your new address. You can set this up online at [nachsendeauftrag.de](http://nachsendeauftrag.de/) from 28.90 euros for six months." />}}
 
 ## Job-related move tax deductible
 
 You can deduct part of your moving costs from your taxes in Germany as **income-related expenses**. These are separated into **general and other costs** and make up a large part of the tax-deductible costs. Attention: If your employer takes over part or all of your moving costs, you cannot claim the costs taken over again in your tax return.
 
-{{< warning headline="Attention students and trainees!" text="Those who move to start their first professional training can claim the moving costs as **special expenses**." >}}
+{{< warning headline="Attention students and trainees!" text="Those who move to start their first professional training can claim the moving costs as **special expenses**." />}}
 
 ### General costs
 
-There are some **general costs**which you can declare in full in your tax return. **Very important**: Keep invoices and receipts to substantiate your expenses. General expenses include, for example, transportation costs for household goods, double rent during the moving period or the broker's commission.  
+There are some **general costs**which you can declare in full in your tax return. **Very important**: Keep invoices and receipts to substantiate your expenses. General expenses include, for example, transportation costs for household goods, double rent during the moving period or the broker's commission.
 
 ![Always keep track of your expenses by keeping receipts.](images/finance-8206242_1280-711x474.jpg)
 

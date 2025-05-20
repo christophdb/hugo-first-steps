@@ -1,9 +1,9 @@
 ---
-title: "Fundraising: So können Sie Spenden sammeln und verwalten - SeaTable"
+title: 'Fundraising: So können Sie Spenden sammeln und verwalten - SeaTable'
 date: 2024-04-16
-lastmod: "2024-04-16"
-author: "nsc"
-url: "/de/fundraising"
+lastmod: '2024-04-16'
+author: 'nsc'
+url: '/de/fundraising'
 ---
 
 **Fundraising** ist mehr als nur eine Finanzierungsstrategie: Es ist eine Möglichkeit, gemeinsam Ziele zu erreichen. Von der Unterstützung **gemeinnütziger Organisationen** über **politische Kampagnen** bis hin zur Finanzierung **unternehmerischer Innovationen** durchdringt es nahezu alle Bereiche des gesellschaftlichen Lebens. Dabei greift es auf eine Vielzahl von Strategien zurück, um das Engagement und die Solidarität der Menschen zu fördern.
@@ -26,7 +26,7 @@ Um erfolgreiches Fundraising zu betreiben und Menschen von Ihrem Projekt zu übe
 
 Dabei ist es wichtig, dass Sie detaillierte Informationen bereitstellen, einschließlich des spezifischen **Betrags**, den Sie für Ihren festgelegten **Zweck** benötigen. Nutzen Sie dabei eine **emotionale und anschauliche Sprache**, um möglichst viele Interessenten von Ihrer Idee zu begeistern.
 
-{{< warning headline="Tipp" text="Ein bewährter Ansatz ist der Versand von **Spendenbriefen**. Diese ermöglichen es Ihnen, Ihre Botschaft klar und effektiv zu kommunizieren und potenzielle Spender auf persönlicher Ebene anzusprechen." >}}
+{{< warning headline="Tipp" text="Ein bewährter Ansatz ist der Versand von **Spendenbriefen**. Diese ermöglichen es Ihnen, Ihre Botschaft klar und effektiv zu kommunizieren und potenzielle Spender auf persönlicher Ebene anzusprechen." />}}
 
 ![Glas mit Geldmünzen, aus dem heraus eine kleine Pflanze wächst](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 

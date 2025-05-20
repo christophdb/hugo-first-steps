@@ -1,22 +1,22 @@
 ---
-title: "Carta de presentación: Cómo convencer a todos los reclutadores"
+title: 'Carta de presentación: Cómo convencer a todos los reclutadores'
 date: 2024-04-22
-lastmod: "2024-04-22"
-author: "lsc"
-url: "/es/bewerbungsschreiben"
+lastmod: '2024-04-22'
+author: 'lsc'
+url: '/es/bewerbungsschreiben'
 ---
 
 Tanto si se trata de unas prácticas como de un puesto de aprendiz o fijo, el primer paso para conseguir el trabajo de tus sueños es siempre una buena **solicitud**. ¿Has encontrado muchas **ofertas de trabajo** interesantes, pero redactar las solicitudes te da quebraderos de cabeza? No se preocupe, no es el único. Para muchas personas, la **carta de solicitud** es un gran obstáculo, ya que requiere una autoevaluación honesta e implica una formulación elaborada de sus propias habilidades.
 
 Pero el esfuerzo merece la pena, porque sólo una carta de solicitud satisfactoria le abrirá la puerta a una **entrevista** personal y le acercará un paso más al **trabajo de sus sueños**. A continuación descubrirá a qué debe prestar atención al redactar su solicitud.
 
-{{< warning headline="Consejo" text="También puede utilizar una herramienta de planificación para hacer un seguimiento de sus solicitudes. [Aquí](https://seatable.io/es/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) puede descubrir cómo utilizar esta herramienta para generar varias cartas de solicitud a partir de una plantilla con solo pulsar un botón." >}}
+{{< warning headline="Consejo" text="También puede utilizar una herramienta de planificación para hacer un seguimiento de sus solicitudes. [Aquí](https://seatable.io/es/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) puede descubrir cómo utilizar esta herramienta para generar varias cartas de solicitud a partir de una plantilla con solo pulsar un botón." />}}
 
 ## Por qué es importante una carta de solicitud
 
 La carta de presentación es parte integrante de toda solicitud. Aunque debe incluir sus **aptitudes** en el **CV**, debe dedicar la carta de presentación a sus **aptitudes personales**. En los últimos años, estas aptitudes han cobrado cada vez más importancia, por lo que la carta de presentación personal se ha convertido en un punto central del proceso de selección.
 
-{{< warning headline="Habilidades duras frente a blandas" text="Las competencias duras incluyen todos los conocimientos especializados que ha adquirido a través del trabajo, las prácticas o las actividades de ocio. En cambio, las competencias [blandas](https://www.karriereakademie.de/soft-skills) resumen las características que conforman tu personalidad." >}}
+{{< warning headline="Habilidades duras frente a blandas" text="Las competencias duras incluyen todos los conocimientos especializados que ha adquirido a través del trabajo, las prácticas o las actividades de ocio. En cambio, las competencias [blandas](https://www.karriereakademie.de/soft-skills) resumen las características que conforman tu personalidad." />}}
 
 Una carta de presentación le da la oportunidad de presentarse con confianza y destacar sus cualidades positivas. Por un lado, se trata de **presentarse** enumerando las cualificaciones pertinentes y, por otro, de destacar entre la multitud de candidatos.
 
@@ -51,7 +51,7 @@ Combina las habilidades blandas que has aprendido con las habilidades duras corr
 
 Puede dejar de lado cualquier cualificación que no haya marcado como **relevante para su candidatura**. Sea coherente y elimine también la información que diga algo positivo de usted pero que no encaje con el puesto.
 
-{{< warning headline="Consejo: cambie de perspectiva" text="Recuerde siempre: su carta de solicitud debe atraer al reclutador, no a usted. ¿Cómo puede sumar puntos un candidato a este puesto? Si es necesario, puedes sacar a colación otras cualidades interesantes tuyas en una entrevista posterior." >}}
+{{< warning headline="Consejo: cambie de perspectiva" text="Recuerde siempre: su carta de solicitud debe atraer al reclutador, no a usted. ¿Cómo puede sumar puntos un candidato a este puesto? Si es necesario, puedes sacar a colación otras cualidades interesantes tuyas en una entrevista posterior." />}}
 
 ## Crear un resumen de la aplicación
 
@@ -61,7 +61,7 @@ Si desea utilizar SeaTable para su planificador de solicitudes, sólo tiene que 
 
 ## Formalidades de su carta de candidatura
 
-Antes de empezar a formular su solicitud, es importante tener una **Diseño normalizado** para todos sus documentos de solicitud. Esto no sólo hace que su solicitud parezca más coherente a primera vista, sino que también transmite que usted **aseado** y **limpiar** trabajo.  
+Antes de empezar a formular su solicitud, es importante tener una **Diseño normalizado** para todos sus documentos de solicitud. Esto no sólo hace que su solicitud parezca más coherente a primera vista, sino que también transmite que usted **aseado** y **limpiar** trabajo.
 
 ![Elija un tipo, interlineado y tamaño de letra adecuados.](https://seatable.io/wp-content/uploads/2024/04/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
@@ -91,7 +91,7 @@ El membrete se utiliza tradicionalmente cuando envía su carta de solicitud por 
 
 La dirección debe ser siempre correcta y completa. Compruebe que el **nombre de la empresa** está completo. Para evitar errores innecesarios, copie la ortografía de la empresa de la página web. El **nombre de la persona de contacto** debe ser correcto y, si se indica, con título académico.
 
-{{< warning headline="Cómo encontrar a la persona de contacto adecuada" text="El **anuncio de empleo** no siempre incluye el nombre de la persona de contacto. En el mejor de los casos, sin embargo, debería encontrar a esta persona. Por lo general, puede encontrar un contacto en las **páginas de empleo o carrera profesional de la empresa**. Si no es el caso, también puede preguntar el nombre por teléfono." >}}
+{{< warning headline="Cómo encontrar a la persona de contacto adecuada" text="El **anuncio de empleo** no siempre incluye el nombre de la persona de contacto. En el mejor de los casos, sin embargo, debería encontrar a esta persona. Por lo general, puede encontrar un contacto en las **páginas de empleo o carrera profesional de la empresa**. Si no es el caso, también puede preguntar el nombre por teléfono." />}}
 
 La **fecha** sigue a continuación, a cierta distancia a la derecha. En Alemania, la estructura es la siguiente:
 
@@ -147,7 +147,7 @@ Ahora sólo falta su **firma manuscrita**. Puede ponerla en la carta de solicitu
 
 Enumere los anexos necesarios al final de su carta de presentación, bajo el epígrafe **Anexos**. Suelen incluir su **CV, referencias laborales y de prácticas y certificados**. Adjúntelos a su solicitud en un **archivo PDF** aparte.
 
-{{< warning headline="Orden de los documentos" text="El orden en que enumere los documentos en su carta de solicitud debe coincidir con el orden de los documentos en el archivo PDF. Por regla general, el CV es el documento más importante." >}}
+{{< warning headline="Orden de los documentos" text="El orden en que enumere los documentos en su carta de solicitud debe coincidir con el orden de los documentos en el archivo PDF. Por regla general, el CV es el documento más importante." />}}
 
 ## Formularios especiales de la carta de solicitud
 
@@ -177,7 +177,7 @@ Actualmente, la mayoría de las solicitudes se envían **por Internet**. Si env�
 
 ### Qué hacer y qué no hacer
 
-Presta atención a tu estilo de escritura y a la redacción que utilizas.  
+Presta atención a tu estilo de escritura y a la redacción que utilizas.
 
 ![Puedes mejorar tu carta de presentación prestando atención a lo que debes y no debes hacer.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
@@ -194,26 +194,22 @@ Aquí encontrará ayudas de formulación para diversas situaciones de la carta d
 Establecer referencias de empresas y temas|||
 
 "Ya he adquirido conocimientos sobre el trabajo periodístico durante varias prácticas en el sector de los medios de comunicación. Ahora me gustaría aplicar las competencias que he adquirido allí a las relaciones públicas de su empresa internacional y desarrollarlas aún más."
-
-\--- 
+{{< /faq >}}
 
 Empaquetar la experiencia profesional de forma rentable|||
 
 "Gracias a mis 10 años en ventas, sé cómo inspirar a los clientes en el contacto directo, por lo que puedo aumentar con éxito la facturación de su equipo de ventas."
-
-\--- 
+{{< /faq >}}
 
 Desarrollar cualificaciones especializadas|||
 
 "Gracias a mis estudios de Románicas, domino el español y el francés a nivel B2 y he aplicado y profundizado estos conocimientos durante las prácticas en el extranjero, en Madrid y París."
-
-\--- 
+{{< /faq >}}
 
 Establecer competencias interpersonales|||
 
 "En mi puesto de jefe de equipo adjunto, he desarrollado un estilo de gestión colegiado en el que trato a mis empleados como iguales y les asigno tareas en función de sus capacidades individuales. Juntos, completamos el proyecto en la mitad del tiempo previsto".
-
-\---
+{{< /faq >}}
 
 ### Lista de control
 

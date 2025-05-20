@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 5.0: Criador de aplicações, novos plugins e mais acessibilidade"
+title: 'SeaTable 5.0: Criador de aplicações, novos plugins e mais acessibilidade'
 date: 2024-07-15
-lastmod: "2024-07-15"
-author: "kgr"
-url: "/pt/seatable-release-5-0"
+lastmod: '2024-07-15'
+author: 'kgr'
+url: '/pt/seatable-release-5-0'
 ---
 
 Chegou a hora: o nosso criador de aplicações foi oficialmente lançado! Com esta versão da nossa **base de dados sem código com o criador de aplicações sem código integrado**, qualquer pessoa, quer seja programador ou cidadão programador, pode agora criar facilmente as suas próprias aplicações! Com o SeaTable 5.0, estamos prontos para assumir uma posição de liderança na transformação digital e na inovação no mercado internacional.
@@ -52,7 +52,7 @@ O quadro branco é o primeiro plugin que funciona independentemente dos dados de
 
 ![Plugin de quadro branco](images/Whiteboard-Plugin.png)
 
-{{< warning headline="SeaTable ♥ Excalidraw" text="O plug-in do quadro branco baseia-se no popular software [Excalidraw](https://plus.excalidraw.com/), com o qual muitos utilizadores já estão familiarizados. Há uma limitação importante que não deve deixar de ser mencionada: No lançamento do SeaTable 5.0, o quadro branco não suportará a colaboração em direto. Iremos disponibilizar este recurso em breve." >}}
+{{< warning headline="SeaTable ♥ Excalidraw" text="O plug-in do quadro branco baseia-se no popular software [Excalidraw](https://plus.excalidraw.com/), com o qual muitos utilizadores já estão familiarizados. Há uma limitação importante que não deve deixar de ser mencionada: No lançamento do SeaTable 5.0, o quadro branco não suportará a colaboração em direto. Iremos disponibilizar este recurso em breve." />}}
 
 ## Melhoria da acessibilidade
 

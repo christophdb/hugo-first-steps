@@ -1,10 +1,10 @@
 ---
-title: "Keep a budget book: Save money with these 12 tips"
+title: 'Keep a budget book: Save money with these 12 tips'
 date: 2024-01-02
-lastmod: "2024-01-03"
-coverImage: "Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg"
-author: "kgr"
-url: "/haushaltsbuch-fuehren-und-geld-sparen"
+lastmod: '2024-01-03'
+coverImage: 'Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg'
+author: 'kgr'
+url: '/haushaltsbuch-fuehren-und-geld-sparen'
 ---
 
 Keeping track of your spending is sometimes not that easy. It happens far too often that the money is simply gone at the end of the month and you can hardly remember what you actually spent it on. This is exactly when a **budget book** comes to the rescue and brings order to the financial chaos!
@@ -76,7 +76,7 @@ Unnecessary streaming subscriptions can be expensive.
 
 In addition to entertainment subscriptions, **memberships to gyms, sports clubs or dance schools** are also fixed monthly costs. But you know what it's like: once you've signed up, you quickly lose motivation and only show up sporadically. You can save yourself these running costs by exercising at home with simple aids such as dumbbells or elastic bands or by doing **exercises with your own weight**: Sit-ups, squats and push-ups don't cost a penny. You can also move your cardio training on the bike or treadmill from the gym to the fresh air for free.
 
-{{< warning headline="Tip" text="You can find numerous **videos** on [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) that motivate you to do aerobics, power yoga or workouts in your own four walls." >}}
+{{< warning headline="Tip" text="You can find numerous **videos** on [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) that motivate you to do aerobics, power yoga or workouts in your own four walls." />}}
 
 ### 4\. invite friends home
 
@@ -86,7 +86,7 @@ Game nights, parties or cooking something delicious together: **Activities at ho
 
 Have your children moved out, have you sold your car or do you hardly use your basement? If you have more living or storage space than you need, it makes sense to rent it out. You can rent out a vacant **room** to travelers on a short-term basis via portals such as AirBnB or - if a shared flat is an option for you - permanently to subtenants.
 
-{{< warning headline="Attention" text="If you do not own your apartment yourself, your landlord must agree to subletting." >}}
+{{< warning headline="Attention" text="If you do not own your apartment yourself, your landlord must agree to subletting." />}}
 
 The same applies if a **garage**, **parking space** or **basement room** that you don't need is part of your home. In the long term, [renting out real estate](https://seatable.io/en/hausverwaltung/) can bring in a lot of income that will please your household budget.
 
@@ -104,7 +104,7 @@ If your home is well connected to **public transport**, you can use it more ofte
 
 You don't necessarily have to buy new items for your home or closet. **Second-hand items** in good to mint condition often cost less than half the price and are easier on your budget. Browse through **second-hand stores**, **flea markets** or **online marketplaces** in your area. To save money in this way, however, you will need a little more patience than you would for a shopping trip.
 
-{{< warning headline="Attention: cost trap!" text="Old refrigerators, washing machines and other electrical appliances can often be bought very cheaply. But with these appliances in particular, it is important to consider the costs over their entire lifetime. An appliance that costs 200 euros more when new, but lasts ten years longer and uses 20 percent less electricity, can save you far more than 200 euros. It is therefore better to opt for high-quality electrical appliances. LED lamps also cost more to buy, but consume only around a tenth of the electricity of conventional light bulbs." >}}
+{{< warning headline="Attention: cost trap!" text="Old refrigerators, washing machines and other electrical appliances can often be bought very cheaply. But with these appliances in particular, it is important to consider the costs over their entire lifetime. An appliance that costs 200 euros more when new, but lasts ten years longer and uses 20 percent less electricity, can save you far more than 200 euros. It is therefore better to opt for high-quality electrical appliances. LED lamps also cost more to buy, but consume only around a tenth of the electricity of conventional light bulbs." />}}
 
 Also look out for **special offers** from retailers. A [price comparison](https://seatable.io/en/vorlage/fsbfwc4fqocgqed7vczq9g/) can be worthwhile, especially if you are considering an expensive new purchase.
 
@@ -132,9 +132,9 @@ If you buy expensive ready meals at the supermarket every lunch break, order foo
 
 Clever fitness gurus and their companies use enticing marketing to make us believe that we need to supplement our diet with special supplements, for example to build muscle, boost our metabolism or strengthen our immune system. Billions are spent on protein powders and vitamin pills, most of which are completely superfluous.
 
-Instead, make sure you eat a balanced diet, get enough exercise and lead a healthy lifestyle, then you can do without the supposed miracle cures that only end up adding to your household budget.  
+Instead, make sure you eat a balanced diet, get enough exercise and lead a healthy lifestyle, then you can do without the supposed miracle cures that only end up adding to your household budget.
 
-{{< warning headline="Important note" text="If doctors have proven that you are deficient in vitamins or trace elements, you should of course not skimp on medicines that contain the necessary active ingredients in sufficient concentration." >}}
+{{< warning headline="Important note" text="If doctors have proven that you are deficient in vitamins or trace elements, you should of course not skimp on medicines that contain the necessary active ingredients in sufficient concentration." />}}
 
 ### 12\. an end to expensive vices
 

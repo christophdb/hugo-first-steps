@@ -1,9 +1,9 @@
 ---
-title: "Putzplan nach Ihren Wünschen erstellen: Vorlage und Tipps"
+title: 'Putzplan nach Ihren Wünschen erstellen: Vorlage und Tipps'
 date: 2023-09-06
-lastmod: "2023-09-13"
-author: "lsc"
-url: "/de/einen-putzplan-nach-ihren-wuenschen-erstellen"
+lastmod: '2023-09-13'
+author: 'lsc'
+url: '/de/einen-putzplan-nach-ihren-wuenschen-erstellen'
 ---
 
 Wer mit mehreren Menschen unter einem Dach lebt, kennt es: Das dreckige Geschirr stapelt sich im Waschbecken, der Duschabfluss ist verstopft und eigentlich müsste man mal wieder staubsaugen. Aber keiner fühlt sich zuständig und die lästige Arbeit bleibt liegen. Um dem Chaos ein Ende zu bereiten, ist ein individueller Putzplan für Ihren Haushalt die Lösung. Hier erfahren Sie alles, was Sie für die Erstellung Ihres Reinigungsplans wissen müssen.
@@ -36,7 +36,7 @@ Um einen groben Überblick über die anfallenden Aufgaben zu erhalten, ist es hi
 - **Flur:** Kommode aufräumen, Kleiderständer ordentlich halten, Spiegel reinigen
 - **Schlafzimmer:** Bett frischmachen, Kleiderschrank aufräumen, Wäsche waschen (hierfür ist meist jeder selbst zuständig)
 
-{{< warning headline="Gut zu wissen: Woher der lästige Staub stammt" text="Immer wiederkehrender Hausstaub kann manch einen in den Wahnsinn treiben oder gar Allergien auslösen. Er besteht aus winzigen Teilchen, die aus unterschiedlichen Quellen stammen. So gelangen beim Lüften kleine Partikel (z. B. Pollen, Sand, Ruß) in die Wohnung, von den Schuhen fällt Schmutz ab, Kleidung und Polster verlieren mikroskopische Fasern, Menschen und Haustiere verlieren Hautschuppen und Haare, Krümel fallen auf den Boden, Insekten wie Milben hinterlassen Ausscheidungen und zerfallen nach ihrem Tod selbst zu Staub. Vermeiden lässt sich die Entstehung von Hausstaub also leider nicht, Sie können diesen aber durch einen Putzplan reduzieren." >}}
+{{< warning headline="Gut zu wissen: Woher der lästige Staub stammt" text="Immer wiederkehrender Hausstaub kann manch einen in den Wahnsinn treiben oder gar Allergien auslösen. Er besteht aus winzigen Teilchen, die aus unterschiedlichen Quellen stammen. So gelangen beim Lüften kleine Partikel (z. B. Pollen, Sand, Ruß) in die Wohnung, von den Schuhen fällt Schmutz ab, Kleidung und Polster verlieren mikroskopische Fasern, Menschen und Haustiere verlieren Hautschuppen und Haare, Krümel fallen auf den Boden, Insekten wie Milben hinterlassen Ausscheidungen und zerfallen nach ihrem Tod selbst zu Staub. Vermeiden lässt sich die Entstehung von Hausstaub also leider nicht, Sie können diesen aber durch einen Putzplan reduzieren." />}}
 
 ## Wie oft muss was erledigt werden?
 

@@ -1,9 +1,9 @@
 ---
-title: "Bullet Journal - comment organiser votre vie avec créativité"
+title: 'Bullet Journal - comment organiser votre vie avec créativité'
 date: 2023-12-19
-lastmod: "2024-01-25"
-author: "lsc"
-url: "/fr/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren"
+lastmod: '2024-01-25'
+author: 'lsc'
+url: '/fr/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren'
 ---
 
 Dans un quotidien souvent stressant, il est difficile de concilier les tâches, les rendez-vous et ses propres intérêts. Pour ne pas perdre de vue les choses qui sont vraiment importantes pour vous dans la vie, il est utile de les noter dans le tas de processus monotones quotidiens. Pour cela, un **Bullet Journal** est idéal, dans lequel vous pouvez noter tout ce qui est important et laisser libre cours à votre créativité.
@@ -12,7 +12,7 @@ Découvrez dans cet article comment fonctionne un Bullet Journal et ce que vous 
 
 ## Qu'est-ce qu'un Bullet Journal ?
 
-Un Bullet Journal vous aide à **Organiser le quotidien** et de garder un œil sur toutes vos tâches, vos rendez-vous et vos besoins. Le journal fonctionne comme une combinaison d'agenda, de planificateur de projets et de carnet de notes. Il offre en outre suffisamment d'espace libre pour que vos souhaits individuels en matière de thèmes y trouvent leur place. Le Bullet Journal met en valeur votre **Créativité** n'a pas de limites. En effet, contrairement aux calendriers traditionnels, il n'y a pas de pages prédéfinies. Celles-ci doivent être conçues par vos soins et remplies selon vos idées.  
+Un Bullet Journal vous aide à **Organiser le quotidien** et de garder un œil sur toutes vos tâches, vos rendez-vous et vos besoins. Le journal fonctionne comme une combinaison d'agenda, de planificateur de projets et de carnet de notes. Il offre en outre suffisamment d'espace libre pour que vos souhaits individuels en matière de thèmes y trouvent leur place. Le Bullet Journal met en valeur votre **Créativité** n'a pas de limites. En effet, contrairement aux calendriers traditionnels, il n'y a pas de pages prédéfinies. Celles-ci doivent être conçues par vos soins et remplies selon vos idées.
 
 ![Voici à quoi peut ressembler un Bullet Journal avec un aperçu mensuel et quotidien.](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
@@ -28,7 +28,7 @@ Cette méthode de calendrier a été inventée par le graphiste new-yorkais Ryde
 
 ## Le bon kit de démarrage
 
-Commencer à faire du Bullet Journaling est très simple. Il suffit d'avoir un **Carnet de notes** et un **Stylo**. Il est intéressant de commencer avec ce que vous avez chez vous. Vous pouvez essayer de voir si le journaling vous convient. Si cela vous plaît et que vous souhaitez développer votre créativité, vous pouvez acheter d'autres ustensiles.  
+Commencer à faire du Bullet Journaling est très simple. Il suffit d'avoir un **Carnet de notes** et un **Stylo**. Il est intéressant de commencer avec ce que vous avez chez vous. Vous pouvez essayer de voir si le journaling vous convient. Si cela vous plaît et que vous souhaitez développer votre créativité, vous pouvez acheter d'autres ustensiles.
 
 ![Votre](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
@@ -40,7 +40,7 @@ Les carnets de notes avec une **grille de points** servent de base, car elle off
 
 Comme mentionné plus haut, la réalisation de vos propres idées est au premier plan. Il existe toutefois un **système de base** dont vous pouvez vous inspirer pour la structure de votre journal.
 
-Celui-ci se compose en premier lieu **des aperçus temporels**Vous pouvez y inscrire vos tâches et vos rendez-vous. En outre, il existe **Collections**. Ce sont des pages qui servent à votre épanouissement libre et individuel. Pour cela, vous trouverez ci-dessous une collection d'idées que vous pouvez reprendre ou dont vous pouvez vous inspirer.  
+Celui-ci se compose en premier lieu **des aperçus temporels**Vous pouvez y inscrire vos tâches et vos rendez-vous. En outre, il existe **Collections**. Ce sont des pages qui servent à votre épanouissement libre et individuel. Pour cela, vous trouverez ci-dessous une collection d'idées que vous pouvez reprendre ou dont vous pouvez vous inspirer.
 
 ![Votre Bullet Journal doit contenir les points Index, Key, Future Log, Monthly Log, Daily Log et Collectives.](https://seatable.io/wp-content/uploads/2023/12/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
@@ -53,6 +53,7 @@ La structure de base de votre Bullet Journal se compose de trois parties. L'**in
 Vient ensuite la **clé**. Celle-ci est une sorte de légende. Les symboles et leur signification y sont consignés. Cette technique s'appelle le **Rapid Logging**.
 
 {{< warning headline="Voici comment vous pouvez concevoir votre clé" text="- Trait d'union = notes
+
 - point = tâche
 - Colorier le point avec une petite croix = tâche accomplie
 - Point avec flèche dont la pointe est dirigée vers la droite = tâche déplacée
@@ -67,7 +68,7 @@ Sur cette base, vous créez ensuite un **Monthly Log**. Celui-ci contient tous l
 
 Le **Daily Log** va encore plus loin dans le détail. Celui-ci est établi par semaine et offre la possibilité d'inscrire de manière flexible les événements du jour.
 
-{{< warning headline="La bonne disposition des calendriers" text="L'ordre des aperçus suit généralement ce modèle : aperçu annuel, aperçu mensuel de janvier, aperçus quotidiens de janvier, aperçu mensuel de février, aperçus quotidiens de février, ..." >}}
+{{< warning headline="La bonne disposition des calendriers" text="L'ordre des aperçus suit généralement ce modèle : aperçu annuel, aperçu mensuel de janvier, aperçus quotidiens de janvier, aperçu mensuel de février, aperçus quotidiens de février, ..." />}}
 
 ### Les collections
 

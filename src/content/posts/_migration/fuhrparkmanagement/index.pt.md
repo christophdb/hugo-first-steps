@@ -1,9 +1,9 @@
 ---
-title: "Gestão de frotas: Como gerir a sua frota de forma inteligente"
+title: 'Gestão de frotas: Como gerir a sua frota de forma inteligente'
 date: 2024-01-09
-lastmod: "2025-02-12"
-author: "kgr"
-url: "/pt/fuhrparkmanagement"
+lastmod: '2025-02-12'
+author: 'kgr'
+url: '/pt/fuhrparkmanagement'
 ---
 
 Quer se trate de camiões, autocarros ou automóveis clássicos da empresa: a gestão de uma frota de veículos é uma tarefa multifacetada para empresas de todas as dimensões, e há muito a considerar. O artigo que se segue destina-se, portanto, a ajudar a esclarecer todas as suas dúvidas sobre a **gestão de frotas**.
@@ -68,7 +68,7 @@ A **carga administrativa** é geralmente menor com o leasing, uma vez que muitas
 
 Como provavelmente sabe, tem de cumprir o **Regulamento Geral sobre a Proteção de Dados (RGPD** ) sempre que recolhe e armazena dados pessoais. Na gestão de frotas, a proteção de dados entra em jogo em muitos pontos. Por conseguinte, é aconselhável obter uma **declaração de consentimento** do condutor antes da entrega do veículo. Informe todos os condutores sobre os dados que irá armazenar sobre eles, para que fins e durante quanto tempo.
 
-{{< warning headline="Nota" text="Os sistemas modernos podem, por exemplo, localizar veículos para planeamento de rotas e criar **perfis de movimento** precisos. Também é possível tirar conclusões sobre as rotas, o consumo e o estilo de condução a partir da **utilização de cartões de combustível**." >}}
+{{< warning headline="Nota" text="Os sistemas modernos podem, por exemplo, localizar veículos para planeamento de rotas e criar **perfis de movimento** precisos. Também é possível tirar conclusões sobre as rotas, o consumo e o estilo de condução a partir da **utilização de cartões de combustível**." />}}
 
 Por razões fiscais, em particular, é necessário poder acompanhar a **utilização de veículos** específicos. Quando é que cada empregado utilizou cada viatura da empresa? E, muito importante: as deslocações foram feitas para fins profissionais ou privados? Um [diário de bordo digital](https://seatable.io/pt/digitales-fahrtenbuch-fuehren/) é uma boa forma de documentar estas informações cuidadosamente e em conformidade com o RGPD.
 
@@ -99,20 +99,17 @@ O SeaTable oferece-lhe uma gestão clara e intuitiva da sua frota e dos pedidos 
 O que é uma frota de veículos?|||
 
 Uma frota de veículos refere-se a todos os veículos que pertencem à sua empresa.
-
-\--- 
+{{< /faq >}}
 
 O que é a gestão de frotas?|||
 
 A gestão de frotas refere-se a todos os processos relacionados com a sua frota de veículos.
-
-\--- 
+{{< /faq >}}
 
 O que envolve a gestão de frotas?|||
 
 A gestão de frotas começa com **uma avaliação do** número de veículos **de que** a sua empresa **necessita** e, em seguida, esclarece o **financiamento, a compra ou a venda dos** veículos. Deve assegurar a **gestão** cuidadosa **dos documentos dos veículos** (documentos de registo dos veículos, contratos de compra e venda, apólices de seguro, etc.) e o **armazenamento, em conformidade com o RGPD, dos dados dos condutores** (por exemplo, dados de movimento, recibos de combustível, cartas de condução). A atividade diária envolve a **reserva, a entrega e o planeamento do itinerário**, bem como eventuais **reparações e inspecções**.
-
-\--- 
+{{< /faq >}}
 
 Quanto custa a gestão de frotas?|||
 

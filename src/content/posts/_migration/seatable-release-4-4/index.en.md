@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.4: Universal App, Excel Import & Common Datasets"
+title: 'SeaTable 4.4: Universal App, Excel Import & Common Datasets'
 date: 2024-05-15
-lastmod: "2024-05-15"
-author: "kgr"
-url: "/seatable-release-4-4"
+lastmod: '2024-05-15'
+author: 'kgr'
+url: '/seatable-release-4-4'
 ---
 
 In SeaTable 4.4, we continue the development of the Universal App Builder with verve. Many new functions enable even more powerful and convenient web applications. We have also polished up the import function and the common datasets. The practical default values now apply universally.
@@ -44,43 +44,42 @@ In version 4.4, you can hide the **title bar** on the [individual page](https://
 
 As announced in the last release notes, we have **removed** the **Gallery App Builder** in SeaTable 4.4. If you want to create a new app with a [gallery](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/), the Universal App Builder offers you an alternative with higher functionality.
 
-{{< warning headline="Good to know" text="**Existing gallery apps will continue to work**. However, we recommend switching existing gallery apps to universal apps in order to benefit from further developments and improvements." >}}
+{{< warning headline="Good to know" text="**Existing gallery apps will continue to work**. However, we recommend switching existing gallery apps to universal apps in order to benefit from further developments and improvements." />}}
 
 ![Create app dialog](images/Create-app-dialog-.png)
 
 There have also been some changes to the [data query app](https://seatable.io/en/docs/apps/datenabfrage-app/). The old App Builder for data queries has been removed and replaced by a new one based on the Universal App Builder. This means that you can of course still create public apps for querying your bases, but the interface now looks like the Universal App Builder. The same applies to existing query apps as for gallery apps: you don't have to do anything and can continue to use them.
 
-{{< warning headline="Efficiency gain" text="The changes described allow us to focus on the further development of the Universal App Builder and thus achieve a higher development speed for upcoming features." >}}
+{{< warning headline="Efficiency gain" text="The changes described allow us to focus on the further development of the Universal App Builder and thus achieve a higher development speed for upcoming features." />}}
 
-## More pleasant user experience when importing Excel files  
+## More pleasant user experience when importing Excel files
 
 SeaTable 4.4 makes the [import of Excel tables](https://seatable.io/en/docs/import-von-daten/import-von-excel-dateien-in-seatable/) faster, more flexible and more stable: Tables with many thousands rows are now made available in SeaTable in just a few moments. In the significantly enlarged preview window, you can now choose which tables of a workbook – all or only some – you want to import from the XLSX file. While special characters in column names and other special cases led to undesired results in the past, these are now reliably taken into account. Improved error messages provide clear indications of conflicts, especially when [importing into the Big Data Storage](https://seatable.io/en/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
 
 ![Excel import](images/Excel-Import.png)
 
-{{< warning headline="A little foretaste" text="With SeaTable 5.0 we make the import even more flexible! You can now also select individual columns of a table and exclude them from the import." >}}
+{{< warning headline="A little foretaste" text="With SeaTable 5.0 we make the import even more flexible! You can now also select individual columns of a table and exclude them from the import." />}}
 
-## More functions for common datasets  
+## More functions for common datasets
 
 [Common datasets](https://seatable.io/en/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) are very useful if you and your team members need certain tables (e.g. an employee list) across different [groups](https://seatable.io/en/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) in your bases. SeaTable 4.4 adds three new functions to the existing ones:
 
 1. If you  
-    [Copy a base  
-    ](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)to a group in which common datasets are included, you can decide whether you want to retain the connection to these datasets. The group to which you copy the base must of course have access to the common datasets.
-    
+   [Copy a base  
+   ](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)to a group in which common datasets are included, you can decide whether you want to retain the connection to these datasets. The group to which you copy the base must of course have access to the common datasets.
+
     ![Retain link to common dataset when copying a base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
-    
+
 2. After  
-    [restoring bases from snapshots](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) or  
-    [creating a base from a template](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) you can link existing tables to a common dataset and thus enable synchronization with the data there. Previously, common datasets could not be reimported, but only integrated into new tables.
-    
+   [restoring bases from snapshots](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) or  
+   [creating a base from a template](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) you can link existing tables to a common dataset and thus enable synchronization with the data there. Previously, common datasets could not be reimported, but only integrated into new tables.
+
     ![Reimport common dataset](images/Reimport-common-dataset.gif)
-    
+
 3. The creator of a common dataset can now force the  
-    [synchronization](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) of all dependent tables with the data set and thus ensure that the other users use the current status of the data in their bases. In the past, you had to rely on users setting up automatic synchronization or triggering synchronization manually.
-    
+   [synchronization](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) of all dependent tables with the data set and thus ensure that the other users use the current status of the data in their bases. In the past, you had to rely on users setting up automatic synchronization or triggering synchronization manually.
+
     ![Force sync of common dataset](images/Force-sync-of-common-dataset.png)
-    
 
 ## Default values apply everywhere
 
@@ -90,7 +89,7 @@ As the scope of the default values has increased considerably, we have also crea
 
 ![Default value applies everywhere for new rows](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
-{{< warning headline="Note" text="If a default value is defined both in the table and in the web form, the value from the form applies to all rows that are created via the form." >}}
+{{< warning headline="Note" text="If a default value is defined both in the table and in the web form, the value from the form applies to all rows that are created via the form." />}}
 
 By the way: You can even activate the default values with the corresponding parameter when creating a new rows via API.
 

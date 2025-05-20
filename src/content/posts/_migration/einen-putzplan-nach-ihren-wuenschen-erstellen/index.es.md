@@ -1,9 +1,9 @@
 ---
-title: "Cree un plan de limpieza según sus deseos: Plantilla y consejos"
+title: 'Cree un plan de limpieza según sus deseos: Plantilla y consejos'
 date: 2023-09-06
-lastmod: "2023-09-13"
-author: "lsc"
-url: "/es/einen-putzplan-nach-ihren-wuenschen-erstellen"
+lastmod: '2023-09-13'
+author: 'lsc'
+url: '/es/einen-putzplan-nach-ihren-wuenschen-erstellen'
 ---
 
 Cualquiera que viva con varias personas bajo el mismo techo conoce la situación: los platos sucios se amontonan en el fregadero, el desagüe de la ducha está atascado y hay que volver a pasar la aspiradora. Pero nadie se siente responsable y el molesto trabajo sigue sin hacerse. Para acabar con el caos, la solución es un plan de limpieza individual para su hogar. Aquí encontrarás todo lo que necesitas saber para crear tu plan de limpieza.
@@ -36,7 +36,7 @@ Para tener una idea general de las tareas que hay que hacer, es útil dividirlas
 - **Pasillo:** ordena la cómoda, mantén ordenado el perchero, limpia el espejo.
 - **Dormitorio:** hacer la cama, ordenar el armario, hacer la colada (esto suele ser responsabilidad de todos).
 
-{{< warning headline="Es bueno saberlo: De dónde viene el molesto polvo" text="El polvo doméstico recurrente puede volver locas a algunas personas o incluso desencadenar alergias. Está formado por partículas diminutas que proceden de distintas fuentes. Pequeñas partículas (por ejemplo, polen, arena, hollín) entran en la casa al ventilarla, la suciedad se desprende de los zapatos, la ropa y la tapicería pierden fibras microscópicas, las personas y los animales domésticos sueltan caspa y pelo, las migas caen al suelo, insectos como los ácaros dejan excrementos y se descomponen en polvo tras su muerte. Desgraciadamente, la formación de polvo doméstico no puede evitarse, pero puede reducirse con un plan de limpieza." >}}
+{{< warning headline="Es bueno saberlo: De dónde viene el molesto polvo" text="El polvo doméstico recurrente puede volver locas a algunas personas o incluso desencadenar alergias. Está formado por partículas diminutas que proceden de distintas fuentes. Pequeñas partículas (por ejemplo, polen, arena, hollín) entran en la casa al ventilarla, la suciedad se desprende de los zapatos, la ropa y la tapicería pierden fibras microscópicas, las personas y los animales domésticos sueltan caspa y pelo, las migas caen al suelo, insectos como los ácaros dejan excrementos y se descomponen en polvo tras su muerte. Desgraciadamente, la formación de polvo doméstico no puede evitarse, pero puede reducirse con un plan de limpieza." />}}
 
 ## ¿Con qué frecuencia hay que hacerlo?
 

@@ -1,9 +1,9 @@
 ---
-title: "Workshop planen: So organisieren Sie stressfrei Workshops"
+title: 'Workshop planen: So organisieren Sie stressfrei Workshops'
 date: 2024-01-15
-lastmod: "2024-01-15"
-author: "kgr"
-url: "/de/workshop-planen"
+lastmod: '2024-01-15'
+author: 'kgr'
+url: '/de/workshop-planen'
 ---
 
 Lebenslanges Lernen ist heutzutage eines der wichtigsten Dinge, wenn es um **berufliche Qualifikationen** und **Persönlichkeitsentwicklung** geht. Ob Workshop, Schulung oder Weiterbildung: Als Arbeitgeber ist es essenziell für Sie, dass Sie Ihre Mitarbeiter fördern und ihnen Angebote zur Weiterentwicklung bieten. Denn das zählt bei vielen Arbeitnehmern heute zu einem attraktiven Job dazu und **Ihr Unternehmen profitiert** auf vielerlei Weise von gut geschulten Mitarbeitern.
@@ -30,7 +30,7 @@ Für Sie und Ihre Mitarbeiter haben Weiterbildungen, Schulungen und Workshops na
 
 Zum anderen entwickeln Ihre Mitarbeiter **bessere Aufstiegschancen**, da neue Kompetenzen und Führungsqualitäten ihr Einsatzgebiet erweitern können. Dadurch können Sie Ihren **Bedarf an Fach- und Führungskräften** gegebenenfalls aus der eigenen Belegschaft decken. Und zu guter Letzt sind Workshops auch eine spannende **Abwechslung** für Arbeitnehmer, wenn sich im Arbeitsalltag gerade keine neuen Aufgaben und Projekte ergeben.
 
-{{< warning headline="Mitarbeiterbindung und -zufriedenheit" text="Regelmäßige Weiterbildungen, Schulungen und Workshops können nicht nur die **Produktivität** und **Einsatzfähigkeit**, sondern auch die [Zufriedenheit](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) Ihrer Mitarbeiter steigern. Sie fühlen sich ernst genommen und sehen es als positives Signal, wenn Sie ihre Meinung hören wollen, sie in Veränderungen einbinden oder ihnen die Möglichkeit bieten, sich weiterzuentwickeln. Das stärkt die **Mitarbeiterbindung** an das Unternehmen und hat langfristig zur Folge, dass die Fluktuation sinkt und Sie weniger Zeit und Geld für das Suchen und Rekrutieren neuer Mitarbeiter ausgeben müssen." >}}
+{{< warning headline="Mitarbeiterbindung und -zufriedenheit" text="Regelmäßige Weiterbildungen, Schulungen und Workshops können nicht nur die **Produktivität** und **Einsatzfähigkeit**, sondern auch die [Zufriedenheit](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) Ihrer Mitarbeiter steigern. Sie fühlen sich ernst genommen und sehen es als positives Signal, wenn Sie ihre Meinung hören wollen, sie in Veränderungen einbinden oder ihnen die Möglichkeit bieten, sich weiterzuentwickeln. Das stärkt die **Mitarbeiterbindung** an das Unternehmen und hat langfristig zur Folge, dass die Fluktuation sinkt und Sie weniger Zeit und Geld für das Suchen und Rekrutieren neuer Mitarbeiter ausgeben müssen." />}}
 
 ## Workshops managen – mit der richtigen Software ein Klacks
 
@@ -88,7 +88,7 @@ Je nach Thema des Workshops eignen sich unterschiedliche Methoden und Materialie
 - **Interaktive Rollenspiele** bieten sich beispielsweise für ein Führungskräfte-Training an, weil man die Perspektive verschiedener Teammitglieder einnehmen und den Umgang mit Konflikten üben kann.
 - Eine weitere Methode, bei der man ein Thema aus unterschiedlichen Perspektiven beleuchtet, sind **die 6 Denkhüte** von de Bono. Dabei teilen Sie die Teilnehmer in sechs Gruppen ein: Der weiße Hut steht für Fakten, der rote für Emotionen, der gelbe für Chancen, der schwarze für Risiken, der grüne für Ideen und der blaue für Strukturen.
 
-{{< warning headline="Tipp" text="Falls Sie bei Ihrem Workshop eine **Präsentation** nutzen, sollten Sie vorher testen, ob die **Technik** (Beamer, Lautsprecher, Kabel für den Laptop) einwandfrei funktioniert." >}}
+{{< warning headline="Tipp" text="Falls Sie bei Ihrem Workshop eine **Präsentation** nutzen, sollten Sie vorher testen, ob die **Technik** (Beamer, Lautsprecher, Kabel für den Laptop) einwandfrei funktioniert." />}}
 
 ## Zertifikate erstellen
 

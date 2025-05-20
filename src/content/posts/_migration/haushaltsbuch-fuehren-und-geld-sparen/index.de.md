@@ -1,9 +1,9 @@
 ---
-title: "Haushaltsbuch führen: Mit diesen 12 Tipps sparen Sie bares Geld"
+title: 'Haushaltsbuch führen: Mit diesen 12 Tipps sparen Sie bares Geld'
 date: 2024-01-02
-lastmod: "2024-01-03"
-author: "kgr"
-url: "/de/haushaltsbuch-fuehren-und-geld-sparen"
+lastmod: '2024-01-03'
+author: 'kgr'
+url: '/de/haushaltsbuch-fuehren-und-geld-sparen'
 ---
 
 Die eigenen Ausgaben im Blick zu behalten ist manchmal gar nicht so leicht. Viel zu oft passiert es, dass das Geld am Ende des Monats einfach weg ist und man sich kaum erinnern kann, wofür man es eigentlich ausgegeben hat. Genau dann schafft ein **Haushaltsbuch** Abhilfe und bringt Ordnung in das Finanzchaos!
@@ -75,7 +75,7 @@ Unnötige Streaming-Abonnements können ins Geld gehen.
 
 Neben Entertainment-Abos zählen auch **Mitgliedschaften in Fitnessstudios, Sportvereinen oder Tanzschulen** zu den monatlichen Fixkosten. Aber man kennt es: Einmal angemeldet, verliert man schnell die Motivation und lässt sich nur noch sporadisch blicken. Diese laufenden Kosten können Sie sich sparen, indem Sie zuhause mit einfachen Hilfsmitteln wie Hanteln oder Gummibändern trainieren oder auf **Übungen mit Eigengewicht** setzen: Sit-ups, Kniebeugen und Liegestütze kosten keinen Cent. Auch das Kardiotraining auf dem Fahrrad oder Laufband können Sie vom Fitnessstudio kostenlos an die frische Luft verlegen.
 
-{{< warning headline="Tipp" text="Auf [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) finden Sie zahlreiche **Videos**, die Sie zu Aerobic, Power Yoga oder Workouts in den eigenen vier Wänden motivieren." >}}
+{{< warning headline="Tipp" text="Auf [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) finden Sie zahlreiche **Videos**, die Sie zu Aerobic, Power Yoga oder Workouts in den eigenen vier Wänden motivieren." />}}
 
 ### 4\. Freunde nach Hause einladen
 
@@ -85,7 +85,7 @@ Spieleabende, Partys oder gemeinsam etwas Leckeres kochen: **Aktivitäten zu Hau
 
 Ihre Kinder sind ausgezogen, Sie haben Ihr Auto verkauft oder nutzen Ihren Keller kaum? Wenn Sie mehr Wohn- oder Stauraum haben, als Sie benötigen, ist es sinnvoll, diesen zu vermieten. Ein freigewordenes **Zimmer** können Sie zum Beispiel über Portale wie AirBnB kurzfristig an Reisende vermieten oder – falls eine WG für Sie in Frage kommt – dauerhaft an Untermieter.
 
-{{< warning headline="Achtung" text="Wenn Sie nicht selbst Eigentümer Ihrer Wohnung sind, muss Ihr Vermieter einer Untervermietung zustimmen." >}}
+{{< warning headline="Achtung" text="Wenn Sie nicht selbst Eigentümer Ihrer Wohnung sind, muss Ihr Vermieter einer Untervermietung zustimmen." />}}
 
 Das Gleiche gilt, wenn eine **Garage**, ein **Parkplatz** oder ein **Kellerraum**, den Sie nicht benötigen, zu Ihrer Wohnung gehört. Die [Vermietung von Immobilien](https://seatable.io/hausverwaltung/) kann langfristig jede Menge Einnahmen in Ihre Kasse spülen, die Ihr Haushaltsbuch erfreuen.
 
@@ -103,7 +103,7 @@ Wenn Ihr Wohnort gut an **öffentliche Verkehrsmittel** angebunden ist, können 
 
 Viele Habseligkeiten für Ihre Wohnung oder Ihren Kleiderschrank müssen Sie nicht unbedingt neu kaufen. **Gebrauchtware** in einem guten bis neuwertigen Zustand kostet oft weniger als die Hälfte und entlastet Ihr Haushaltsbuch. Stöbern Sie in **Second-Hand-Läden**, auf **Flohmärkten** oder **Online-Marktplätzen** in Ihrer Nähe. Um auf diese Weise Geld zu sparen, müssen Sie aber etwas mehr Geduld mitbringen als für eine Shoppingtour.
 
-{{< warning headline="Achtung: Kostenfalle!" text="Alte Kühlschränke, Waschmaschinen und andere Elektrogeräte gibt es oft sehr günstig zu kaufen. Aber gerade bei diesen Geräten ist es wichtig, die Kosten über die gesamte Lebenszeit zu betrachten. Ein Gerät, welches neu 200 Euro mehr kostet, aber zehn Jahre länger hält und 20 Prozent weniger Strom benötigt, kann Ihnen weit mehr als 200 Euro sparen. Setzen Sie also lieber auf qualitativ hochwertige Elektrogeräte. Auch LED-Lampen kosten in der Anschaffung mehr, verbrauchen aber nur etwa ein Zehntel der Elektrizität von herkömmlichen Glühlampen." >}}
+{{< warning headline="Achtung: Kostenfalle!" text="Alte Kühlschränke, Waschmaschinen und andere Elektrogeräte gibt es oft sehr günstig zu kaufen. Aber gerade bei diesen Geräten ist es wichtig, die Kosten über die gesamte Lebenszeit zu betrachten. Ein Gerät, welches neu 200 Euro mehr kostet, aber zehn Jahre länger hält und 20 Prozent weniger Strom benötigt, kann Ihnen weit mehr als 200 Euro sparen. Setzen Sie also lieber auf qualitativ hochwertige Elektrogeräte. Auch LED-Lampen kosten in der Anschaffung mehr, verbrauchen aber nur etwa ein Zehntel der Elektrizität von herkömmlichen Glühlampen." />}}
 
 Achten Sie zudem auf **Sonderangebote** von Einzelhändlern. Gerade wenn Sie mit einer teuren Neuanschaffung liebäugeln, kann sich ein [Preisvergleich](https://seatable.io/vorlage/fsbfwc4fqocgqed7vczq9g/) lohnen.
 
@@ -131,9 +131,9 @@ Wenn Sie in jeder Mittagspause teure Fertiggerichte im Supermarkt kaufen, Essen 
 
 Gewiefte Fitness-Gurus und deren Firmen lassen uns mit verlockendem Marketing glauben, dass wir unsere Ernährung durch spezielle Präparate ergänzen müssten, um beispielsweise Muskeln aufzubauen, den Stoffwechsel anzukurbeln oder das Immunsystem zu stärken. Für Protein-Pulver und Vitamin-Pillen, die meist völlig überflüssig sind, werden Milliarden ausgegeben.
 
-Achten Sie lieber auf eine ausgewogene Ernährung, genug Bewegung und einen gesunden Lebensstil, dann können Sie auf die angeblichen Wundermittel verzichten, die am Ende nur ein Minus in Ihr Haushaltsbuch zaubern.  
+Achten Sie lieber auf eine ausgewogene Ernährung, genug Bewegung und einen gesunden Lebensstil, dann können Sie auf die angeblichen Wundermittel verzichten, die am Ende nur ein Minus in Ihr Haushaltsbuch zaubern.
 
-{{< warning headline="Wichtiger Hinweis" text="Wenn Ärzte bei Ihnen nachweislich einen Mangel an Vitaminen oder Spurenelementen festgestellt haben, sollten Sie natürlich nicht an Arzneimitteln sparen, welche die notwendigen Wirkstoffe in ausreichender Konzentration enthalten." >}}
+{{< warning headline="Wichtiger Hinweis" text="Wenn Ärzte bei Ihnen nachweislich einen Mangel an Vitaminen oder Spurenelementen festgestellt haben, sollten Sie natürlich nicht an Arzneimitteln sparen, welche die notwendigen Wirkstoffe in ausreichender Konzentration enthalten." />}}
 
 ### 12\. Schluss mit teuren Lastern
 

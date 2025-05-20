@@ -1,9 +1,9 @@
 ---
-title: "Cadeaux de Noël pour les employés et les clients - 24 idées"
+title: 'Cadeaux de Noël pour les employés et les clients - 24 idées'
 date: 2024-10-28
-lastmod: "2024-11-20"
-author: "lsc"
-url: "/fr/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden"
+lastmod: '2024-11-20'
+author: 'lsc'
+url: '/fr/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
 ---
 
 Noël approche et vous souhaitez offrir à vos collaborateurs, partenaires commerciaux ou clients une petite attention en signe d'**appréciation**. Mais quels pourraient être les cadeaux de Noël appropriés pour les collaborateurs et les clients ? Il faut faire preuve d'imagination et de doigté ! Vous découvrirez dans cet article quels **cadeaux de Noël** feront plaisir à vos collaborateurs et clients et quel **budget** vous pouvez espérer.
@@ -110,7 +110,7 @@ Lors des fêtes de Noël, il y a encore des choses à prendre en compte
 
 Si vous souhaitez faire plaisir à vos clients ou à vos partenaires commerciaux à Noël, il existe également une limite d'exonération à respecter. Vous pouvez offrir jusqu'à 50 euros par client professionnel pour bénéficier de la déductibilité fiscale. Les cadeaux ne dépassant pas cette limite peuvent être considérés comme **des dépenses d'entreprise** et être déduits des bénéfices.
 
-{{< warning headline="Plus d'argent depuis 2024" text="Ce n'est que depuis mars 2024 que la limite est fixée à 50 euros. Dans le cadre de la loi sur les opportunités de croissance, ce montant a été relevé par rapport aux 35 euros précédemment en vigueur." >}}
+{{< warning headline="Plus d'argent depuis 2024" text="Ce n'est que depuis mars 2024 que la limite est fixée à 50 euros. Dans le cadre de la loi sur les opportunités de croissance, ce montant a été relevé par rapport aux 35 euros précédemment en vigueur." />}}
 
 Notez également que pour chaque cadeau d'une valeur supérieure à 10 euros, vous devez enregistrer dans votre comptabilité la personne ou l'entreprise bénéficiaire ainsi que le motif.
 

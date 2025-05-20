@@ -1,9 +1,9 @@
 ---
-title: "Planification budgétaire : avantages, types, conseils et un exemple avec modèle"
+title: 'Planification budgétaire : avantages, types, conseils et un exemple avec modèle'
 date: 2023-12-13
-lastmod: "2025-02-03"
-author: "rdb"
-url: "/fr/budgetplanung-vorlage"
+lastmod: '2025-02-03'
+author: 'rdb'
+url: '/fr/budgetplanung-vorlage'
 ---
 
 ## Avantages, types, conseils de planification budgétaire
@@ -28,7 +28,7 @@ La **planification budgétaire opérationnelle** fait partie de la planification
 
 Il est également très courant d'**établir un budget stratégique** pour les deux à cinq prochaines années. Cela **vous aidera à prendre des décisions commerciales à long terme** qui feront progresser votre entreprise et assureront son succès, comme par exemple l'ouverture de nouveaux sites. Toutefois, plus l'horizon de planification est lointain, plus il est difficile et incertain de faire des prévisions précises.
 
-{{< warning headline="Conseil" text="Comme vous avez besoin d'un plan budgétaire pour chaque exercice, le mieux est de créer un modèle, que vous pourrez réutiliser à l'infini." >}}
+{{< warning headline="Conseil" text="Comme vous avez besoin d'un plan budgétaire pour chaque exercice, le mieux est de créer un modèle, que vous pourrez réutiliser à l'infini." />}}
 
 ![Modèle de plan budgétaire](images/goodnotes-5-1s5TOXcMZQ8-unsplash.jpg)
 
@@ -82,7 +82,7 @@ C'est justement dans le cadre de luttes de pouvoir internes que les résultats s
 
 La **budgétisation concrète doit rester adaptable**, car elle se base en partie sur des hypothèses pour l'avenir, qui ne peuvent pas être prédites avec certitude. Si les choses évoluent différemment de ce que vous aviez prévu, vous devez réagir avec souplesse.
 
-{{< warning headline="Budget à base zéro" text="Le [Zero-Base-Budgeting](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) (en français : budgétisation à base zéro) est une méthode dans laquelle les plans budgétaires des années précédentes ne servent **pas** de base, mais où de nouveaux plans budgétaires sont forgés chaque année à partir de zéro. Cette remise en question permanente doit permettre d'identifier les mesures inutiles et de réduire les coûts." >}}
+{{< warning headline="Budget à base zéro" text="Le [Zero-Base-Budgeting](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) (en français : budgétisation à base zéro) est une méthode dans laquelle les plans budgétaires des années précédentes ne servent **pas** de base, mais où de nouveaux plans budgétaires sont forgés chaque année à partir de zéro. Cette remise en question permanente doit permettre d'identifier les mesures inutiles et de réduire les coûts." />}}
 
 ## Planification budgétaire dans la gestion de projet
 

@@ -1,22 +1,22 @@
 ---
-title: "Carta de apresentação: Como convencer todos os recrutadores"
+title: 'Carta de apresentação: Como convencer todos os recrutadores'
 date: 2024-04-22
-lastmod: "2024-04-22"
-author: "lsc"
-url: "/pt/bewerbungsschreiben"
+lastmod: '2024-04-22'
+author: 'lsc'
+url: '/pt/bewerbungsschreiben'
 ---
 
 Quer se trate de um estágio, de uma aprendizagem ou de um posto de trabalho permanente - o primeiro passo no caminho para o seu emprego de sonho é sempre uma **candidatura** bem sucedida. Encontrou muitas **ofertas de emprego** interessantes, mas escrever candidaturas está a dar-lhe dores de cabeça? Não se preocupe, não é o único. Para muitas pessoas, a **carta de candidatura** é um grande obstáculo, uma vez que requer uma autoavaliação honesta e envolve uma formulação elaborada das suas próprias competências.
 
 Mas vale a pena o esforço, porque só uma carta de candidatura bem sucedida abrirá a porta a uma **entrevista** pessoal e deixá-lo-á um passo mais perto do seu **emprego de sonho**. A seguir, encontrará os pontos a que deve prestar atenção ao redigir a sua candidatura.
 
-{{< warning headline="Dica" text="Também pode utilizar uma ferramenta de planeamento para acompanhar as suas candidaturas. [Aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) pode descobrir como pode utilizar esta ferramenta para gerar várias cartas de candidatura a partir de um modelo com o toque de um botão." >}}
+{{< warning headline="Dica" text="Também pode utilizar uma ferramenta de planeamento para acompanhar as suas candidaturas. [Aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) pode descobrir como pode utilizar esta ferramenta para gerar várias cartas de candidatura a partir de um modelo com o toque de um botão." />}}
 
 ## Porque é que uma carta de candidatura é importante
 
 A carta de apresentação é uma parte integrante de qualquer candidatura. Embora deva incluir as suas **competências técnicas** no seu **CV**, deve dedicar a sua carta de apresentação às suas **competências pessoais**. Estas têm-se tornado cada vez mais importantes nos últimos anos, razão pela qual a carta de apresentação pessoal se tornou mais um ponto focal no processo de seleção.
 
-{{< warning headline="Competências técnicas versus competências transversais" text="As competências técnicas incluem todos os conhecimentos especializados que adquiriu através do trabalho, de estágios ou de actividades de lazer. [As competências transversais](https://www.karriereakademie.de/soft-skills), por outro lado, resumem as características que constituem a sua personalidade." >}}
+{{< warning headline="Competências técnicas versus competências transversais" text="As competências técnicas incluem todos os conhecimentos especializados que adquiriu através do trabalho, de estágios ou de actividades de lazer. [As competências transversais](https://www.karriereakademie.de/soft-skills), por outro lado, resumem as características que constituem a sua personalidade." />}}
 
 Uma carta de apresentação dá-lhe a oportunidade de se apresentar com confiança e de realçar as suas qualidades positivas. Por um lado, trata-se de uma **auto-apresentação** através da enumeração das qualificações relevantes e, por outro lado, trata-se de se destacar da massa de candidatos em termos de linguagem.
 
@@ -51,7 +51,7 @@ Combine as competências transversais que aprendeu com as competências técnica
 
 Pode pôr de lado quaisquer qualificações que não tenha assinalado como **relevantes para a sua candidatura**. Seja coerente e elimine também as informações que dizem algo de positivo sobre si mas que não se enquadram no cargo.
 
-{{< warning headline="Dica: Mude a sua perspetiva" text="Lembre-se sempre: a sua carta de candidatura deve agradar ao recrutador e não a si. Como é que um candidato a esta posição pode ganhar pontos? Se necessário, pode referir outras qualidades suas interessantes numa entrevista posterior." >}}
+{{< warning headline="Dica: Mude a sua perspetiva" text="Lembre-se sempre: a sua carta de candidatura deve agradar ao recrutador e não a si. Como é que um candidato a esta posição pode ganhar pontos? Se necessário, pode referir outras qualidades suas interessantes numa entrevista posterior." />}}
 
 ## Criar uma síntese da aplicação
 
@@ -61,7 +61,7 @@ Se pretender utilizar o SeaTable para o seu planeador de candidaturas, basta [re
 
 ## Formalidades da carta de candidatura
 
-Antes de começar a formular a sua candidatura, é importante ter uma **Conceção normalizada** para todos os seus documentos de candidatura. Isto não só fará com que a sua candidatura pareça mais coerente à primeira vista, como também transmitirá que **limpo** e **limpo** trabalho.  
+Antes de começar a formular a sua candidatura, é importante ter uma **Conceção normalizada** para todos os seus documentos de candidatura. Isto não só fará com que a sua candidatura pareça mais coerente à primeira vista, como também transmitirá que **limpo** e **limpo** trabalho.
 
 ![Escolha um tipo de letra, um espaçamento entre linhas e um tamanho de letra adequados.](https://seatable.io/wp-content/uploads/2024/04/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
@@ -91,7 +91,7 @@ O papel timbrado é tradicionalmente utilizado quando a carta de candidatura é 
 
 O endereço deve estar sempre correto e completo. Verifique se o **nome da empresa** está completo. Para evitar erros desnecessários, copie a ortografia da empresa do sítio Web. O **nome da sua pessoa de contacto** deve estar correto e, se for indicado, com um título académico.
 
-{{< warning headline="Como encontrar a pessoa de contacto certa" text="O **anúncio de emprego** nem sempre inclui o nome da sua pessoa de contacto. No entanto, na melhor das hipóteses, deve encontrar essa pessoa. Normalmente, é possível encontrar um contacto nas **páginas de emprego ou de carreiras da empresa**. Se não for esse o caso, pode também pedir o nome por telefone." >}}
+{{< warning headline="Como encontrar a pessoa de contacto certa" text="O **anúncio de emprego** nem sempre inclui o nome da sua pessoa de contacto. No entanto, na melhor das hipóteses, deve encontrar essa pessoa. Normalmente, é possível encontrar um contacto nas **páginas de emprego ou de carreiras da empresa**. Se não for esse o caso, pode também pedir o nome por telefone." />}}
 
 A **data** segue-se, a alguma distância à direita. Na Alemanha, a estrutura é a seguinte:
 
@@ -147,7 +147,7 @@ Agora só falta a sua **assinatura manuscrita**. Pode colocá-la na carta de can
 
 No final da carta de apresentação, na secção " **Anexos** ", indique os anexos necessários. Estes incluem geralmente o seu **CV, referências de trabalho e de estágio e certificados**. Junte-os à sua candidatura num **ficheiro PDF** separado.
 
-{{< warning headline="Ordem dos documentos" text="A ordem pela qual os documentos são enumerados na carta de candidatura deve corresponder à ordem dos documentos no ficheiro PDF. Regra geral, o CV vem em primeiro lugar, sendo o documento mais importante." >}}
+{{< warning headline="Ordem dos documentos" text="A ordem pela qual os documentos são enumerados na carta de candidatura deve corresponder à ordem dos documentos no ficheiro PDF. Regra geral, o CV vem em primeiro lugar, sendo o documento mais importante." />}}
 
 ## Formulários especiais da carta de candidatura
 
@@ -177,7 +177,7 @@ O conteúdo da sua candidatura está pronto e quer dar-lhe os retoques finais? E
 
 ### O que fazer e o que não fazer
 
-Preste atenção ao seu estilo de escrita e à redação que utiliza.  
+Preste atenção ao seu estilo de escrita e à redação que utiliza.
 
 ![Pode melhorar a sua carta de apresentação se prestar atenção ao que deve e não deve fazer.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
@@ -194,26 +194,22 @@ Aqui encontrará ajudas de formulação para várias situações na carta de apr
 Estabelecer a referência da empresa e do tema|||
 
 "Já adquiri conhecimentos sobre o trabalho jornalístico durante vários estágios na indústria dos media. Agora, gostaria de aplicar as competências que adquiri nas relações públicas da vossa empresa internacional e desenvolvê-las ainda mais."
-
-\--- 
+{{< /faq >}}
 
 Acondicionar a experiência profissional de forma rentável|||
 
 "Graças aos meus 10 anos de experiência em vendas, sei como inspirar os clientes em contacto direto e é por isso que posso aumentar com sucesso o volume de negócios da sua equipa de vendas."
-
-\--- 
+{{< /faq >}}
 
 Desenvolver qualificações especializadas|||
 
 "Graças aos meus estudos românicos, tenho um domínio de nível B2 do espanhol e do francês e apliquei e aprofundei estes conhecimentos durante os estágios no estrangeiro em Madrid e Paris."
-
-\--- 
+{{< /faq >}}
 
 Estabelecer competências transversais|||
 
 "Na minha posição de chefe de equipa adjunto, desenvolvi um estilo de gestão colegial em que trato os meus funcionários como iguais e atribuo-lhes tarefas com base nas suas competências individuais. Juntos, concluímos o projeto em metade do tempo previsto."
-
-\---
+{{< /faq >}}
 
 ### Lista de controlo
 

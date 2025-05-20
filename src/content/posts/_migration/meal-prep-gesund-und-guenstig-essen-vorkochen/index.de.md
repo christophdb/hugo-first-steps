@@ -1,9 +1,9 @@
 ---
-title: "Meal Prep – gesund und günstig Essen vorkochen + Wochenplan"
+title: 'Meal Prep – gesund und günstig Essen vorkochen + Wochenplan'
 date: 2023-11-23
-lastmod: "2024-02-13"
-author: "lsc"
-url: "/de/meal-prep-gesund-und-guenstig-essen-vorkochen"
+lastmod: '2024-02-13'
+author: 'lsc'
+url: '/de/meal-prep-gesund-und-guenstig-essen-vorkochen'
 ---
 
 Mit wenig Zeit möglichst günstig und gesund essen – ein Trend aus den USA verspricht genau das. Denn im stressigen Alltag kommt eine **ausgewogene Ernährung** oft zu kurz. Stattdessen greifen wir zum Beispiel in den Mittagspausen häufig zu Fastfood oder ungesunden Snacks, um unseren Heißhunger zu stillen. In diesem Artikel erfahren Sie, was es mit **Meal Prep** auf sich hat, worauf Sie beim Meal Prepping achten sollten und wie Sie einen smarten [Meal Prep Wochenplan](https://seatable.io/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) erstellen können.
@@ -21,20 +21,17 @@ Aus wenigen Zutaten werden verschiedene Speisen gezaubert.
 Woher kommt der Meal Prep Trend?|||
 
 Wie viele Food Trends kommt der Hype ums Meal Prepping aus den USA. Dort wurde Meal Prep vor allem von Fitness-Liebhabern genutzt, hat aber auch schnell Anwendung in allen Lebensbereichen gefunden.
-
-\--- 
+{{< /faq >}}
 
 Für wen ist Meal Prep geeignet?|||
 
 Besonders für Menschen, die in ihrem Alltag nicht die Zeit für ein selbstgekochtes Essen finden, lohnt es sich, Meal Prep auszuprobieren. Es hilft auch, Ernährungsvorsätze einzuhalten und die Selbstdisziplin zu stärken. Natürlich braucht es etwas Überwindung und genug Motivation, um sich an die neue Art des Kochens heranzutrauen, im Endeffekt kann es die Ernährung aber effizienter, gesünder und günstiger machen.
-
-\--- 
+{{< /faq >}}
 
 Für wie viele Tage kann man Gerichte vorkochen?|||
 
 Es gibt zwei Möglichkeiten, wie Sie Meal Prep betreiben können. Entweder Sie kochen die **doppelte Menge**, sodass das Essen für den nächsten Tag reicht, oder Sie gehen einen Schritt weiter, nehmen sich Zeit zum **Vorkochen der einzelnen Zutaten** und können diese dann an den folgenden Tagen nach Belieben kombinieren.
-
-\---
+{{< /faq >}}
 
 ## Vor- und Nachteile von Meal Prep
 
@@ -94,19 +91,19 @@ Eine Liste hilft Ihnen, Ihre Einkäufe zu überblicken.
 
 Nun folgt der aufwändigste Part des Meal Prep. Um alle Ihre Lebensmittel zuzubereiten, nehmen Sie sich **genügend Zeit**, am besten zwei bis drei Stunden an einem Tag Ihrer Wahl. Braten, kochen, dünsten oder backen Sie die Zutaten getrennt, da sie **unterschiedliche Garpunkte** haben und sonst zum matschigen Einheitsbrei werden. Neben den Hauptmahlzeiten können Sie zusätzlich **kleine Snacks** für zwischendurch vorbereiten. Das könnten zum Beispiel selbstgemachte Müsliriegel sein.
 
-{{< warning headline="Wundermittel Gewürze" text="Die richtigen Gewürze verleihen Ihren Gerichten den letzten Schliff. Mit unterschiedlichen Gewürzmischungen schmeckt dasselbe Gericht jedes Mal anders und verlockt zum Erforschen neuer Geschmackswelten." >}}
+{{< warning headline="Wundermittel Gewürze" text="Die richtigen Gewürze verleihen Ihren Gerichten den letzten Schliff. Mit unterschiedlichen Gewürzmischungen schmeckt dasselbe Gericht jedes Mal anders und verlockt zum Erforschen neuer Geschmackswelten." />}}
 
 ### 4\. Lagern
 
 Damit die vorbereiteten Zutaten lange genug frisch bleiben und ihren Geschmack behalten, sollten Sie diese **getrennt aufbewahren**. Für Meal Prep eignen sich zum Beispiel spezielle [Boxen](https://www.chefkoch.de/vergleich/meal-prep-boxen/) mit Trennwänden. Die Lebensmittel sollten Sie in luftdicht verschließbaren Behältern aus Glas oder robustem Plastik aufbewahren. Lagern Sie die vorbereiteten Gerichte bevorzugt im Kühlschrank oder frieren Sie sie ein.
 
-{{< warning headline="In Gläser abfüllen" text="Große Gläser mit Schraub- oder Schnappverschluss eignen sich perfekt, um Ihr Essen zu transportieren. Sie bieten sich zum Aufbewahren trockener Lebensmittel wie Müsli oder Reis an, aber auch für flüssige Suppen oder Soßen. Die meisten Gläser sind mikrowellengeeignet, sodass Sie Ihre Speisen direkt erwärmen und verzehren können." >}}
+{{< warning headline="In Gläser abfüllen" text="Große Gläser mit Schraub- oder Schnappverschluss eignen sich perfekt, um Ihr Essen zu transportieren. Sie bieten sich zum Aufbewahren trockener Lebensmittel wie Müsli oder Reis an, aber auch für flüssige Suppen oder Soßen. Die meisten Gläser sind mikrowellengeeignet, sodass Sie Ihre Speisen direkt erwärmen und verzehren können." />}}
 
 ### 5\. Kombinieren
 
 Der letzte Schritt des Meal Prep ist der leichteste. Nehmen Sie die vorbereiteten Komponenten aus dem Kühlschrank und stellen Sie nach Belieben ein Gericht zusammen. **Verschiedene Kombinationen** sorgen dabei für geschmackliche Abwechslung. Verpacken Sie Ihre Kreation sicher für den Transport oder erhitzen und genießen Sie direkt Ihr gesundes und leckeres selbstgekochtes Essen!
 
-{{< warning headline="Die Mischung macht's" text="Für eine ausgewogene Ernährung sollten Sie auf die Nährwerte in Ihrem Essen achten. Empfohlen wird eine Zusammensetzung aus 50 bis 60 Prozent Kohlenhydraten, 15 bis 25 Prozent Eiweiß und 20 bis 30 Prozent Fett." >}}
+{{< warning headline="Die Mischung macht's" text="Für eine ausgewogene Ernährung sollten Sie auf die Nährwerte in Ihrem Essen achten. Empfohlen wird eine Zusammensetzung aus 50 bis 60 Prozent Kohlenhydraten, 15 bis 25 Prozent Eiweiß und 20 bis 30 Prozent Fett." />}}
 
 ## Beispiel für einen Meal Prep Wochenplan
 

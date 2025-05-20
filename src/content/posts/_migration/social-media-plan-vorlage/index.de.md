@@ -1,9 +1,9 @@
 ---
-title: "Mit einem Redaktionsplan für Social Media den Überblick behalten"
+title: 'Mit einem Redaktionsplan für Social Media den Überblick behalten'
 date: 2024-02-07
-lastmod: "2025-01-17"
-author: "rdb"
-url: "/de/social-media-plan-vorlage"
+lastmod: '2025-01-17'
+author: 'rdb'
+url: '/de/social-media-plan-vorlage'
 ---
 
 Um auf Social-Media-Plattformen messbare Erfolge zu erzielen, müssen Sie kontinuierlich neue Inhalte veröffentlichen. Und das oft mehrmals pro Woche für unterschiedliche Kanäle, wie LinkedIn, Instagram, Facebook, X oder Youtube. Es gilt, **termingerecht interessanten und unterhaltsamen Content zu posten**. Bei der Umsetzung hilft Ihnen ein **Social-Media Redaktionsplan**. Lesen Sie in diesem Artikel, wie Sie mit einem Social Media Plan eine erfolgreiche Social-Media-Strategie entwickeln.
@@ -22,7 +22,7 @@ Ein Redaktionsplan für Social-Media sorgt für strukturierte Prozesse und einen
 
 Der nächste Pluspunkt eines Contentplans für Social-Media ist, dass Sie **unbegrenzt Ideen sammeln** können. Kommt eine Idee für einen Social-Media-Post zum Einsatz, können Sie diese einfach auf Ihre einzelnen Kanäle ausrollen und **maßgeschneiderten Content erstellen**. So haben Sie jederzeit Beiträge in der Pipeline, falls die Kreativität bei der Erstellung neuer Inhalte einmal ausbleiben sollte. Denn nichts ist schlimmer, als unter Zeitdruck kreative Inhalte produzieren zu müssen und ausgerechnet dann keine guten Einfälle zu haben.
 
-{{< warning headline="Gut zu wissen" text="Die Algorithmen von Instagram, Facebook, LinkedIn und Co. **erkennen regelmäßige Aktivität und belohnen diese mit mehr Sichtbarkeit**. Daher sollten Sie Leerlauf auf Ihren Social-Media-Kanälen tunlichst vermeiden." >}}
+{{< warning headline="Gut zu wissen" text="Die Algorithmen von Instagram, Facebook, LinkedIn und Co. **erkennen regelmäßige Aktivität und belohnen diese mit mehr Sichtbarkeit**. Daher sollten Sie Leerlauf auf Ihren Social-Media-Kanälen tunlichst vermeiden." />}}
 
 ### 3\. Termine planen
 
@@ -30,7 +30,7 @@ Der Redaktionsplan sollte in einem Kalender abgebildet werden können. So könne
 
 ![Vorlage für Social-Media Plan](https://seatable.io/wp-content/uploads/2022/06/Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
 
-Planen Sie die Termine für Ihre Posts in einem Kalender. Bildrechte: © mizar\_21984 / Adobe Stock
+Planen Sie die Termine für Ihre Posts in einem Kalender. Bildrechte: © mizar_21984 / Adobe Stock
 
 ### 4\. Inhalte systematisch ordnen
 

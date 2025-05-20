@@ -1,10 +1,10 @@
 ---
-title: "Christmas gifts for employees and customers - 24 ideas"
+title: 'Christmas gifts for employees and customers - 24 ideas'
 date: 2024-10-28
-lastmod: "2024-11-20"
-coverImage: "Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731.png"
-author: "lsc"
-url: "/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden"
+lastmod: '2024-11-20'
+coverImage: 'Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731.png'
+author: 'lsc'
+url: '/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
 ---
 
 Christmas is just around the corner and you would like to give your employees, business partners or customers a small gift as a token of your **appreciation**. But what could be suitable Christmas gifts for employees and customers? A wealth of ideas and a sure instinct are required! In this article, you can find out which **Christmas gifts** will delight your employees and customers and what **budget** you can expect.
@@ -111,7 +111,7 @@ There are still a few things to consider at Christmas parties...
 
 If you would like to make your customers or business partners happy at Christmas, there is also a tax-free limit to consider here. You can spend up to 50 euros on a gift per business customer in order to take advantage of the tax deduction. You can claim gifts up to this upper limit as a **business expense**.
 
-{{< warning headline="More money since 2024" text="The limit has only been 50 euros since March 2024. As part of the Growth Opportunities Act, this amount was raised from the previously applicable 35 euros." >}}
+{{< warning headline="More money since 2024" text="The limit has only been 50 euros since March 2024. As part of the Growth Opportunities Act, this amount was raised from the previously applicable 35 euros." />}}
 
 Please also note that you must record the beneficiary or company and the occasion in the accounts for every gift that exceeds a value of 10 euros.
 

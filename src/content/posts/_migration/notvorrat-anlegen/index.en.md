@@ -1,9 +1,9 @@
 ---
-title: "Stock up on emergency supplies: What you should always have at home"
+title: 'Stock up on emergency supplies: What you should always have at home'
 date: 2023-09-20
-lastmod: "2023-09-20"
-author: "lsc"
-url: "/notvorrat-anlegen"
+lastmod: '2023-09-20'
+author: 'lsc'
+url: '/notvorrat-anlegen'
 ---
 
 What would you do if the power and water supply suddenly failed across the board? In Germany, this is very unlikely, but in other parts of the world, damage to infrastructure is more common. Many people are not sufficiently prepared for such and other **emergency situations**.
@@ -14,7 +14,7 @@ Therefore, it is advisable to make optimal provisions for the worst-case scenari
 
 What it can mean to have to fall back on emergency supplies is something we have known at least since the Corona pandemic. Fearing that people would not be able to leave their homes for a long time or that urgently needed goods would no longer be available, large quantities of pasta and toilet paper were hoarded in Germany. This shows: When it comes to a crisis situation, supermarkets are quickly emptied. Apart from the specific emergency situation, stockpiling food has the advantage of being independent of store opening hours and supply chains.
 
-{{< warning headline="This is what the German state recommends" text="The German Federal Office of Civil Protection and Disaster Assistance (BKK) recommends creating an emergency stockpile for **10 days**. To be able to calculate this for your household, there is a detailed [stock calculator](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator). This calculates which foods you should purchase and in what quantities to be able to ensure a sufficient supply." >}}
+{{< warning headline="This is what the German state recommends" text="The German Federal Office of Civil Protection and Disaster Assistance (BKK) recommends creating an emergency stockpile for **10 days**. To be able to calculate this for your household, there is a detailed [stock calculator](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator). This calculates which foods you should purchase and in what quantities to be able to ensure a sufficient supply." />}}
 
 ## Here's what you should look for when choosing foods
 
@@ -52,7 +52,7 @@ Another way to preserve food is to pickle it.
 
 To prevent stored food from exceeding its best-before date and becoming inedible in an emergency, you can also work with a "living stockpile." In doing so, you incorporate the stored food into your daily use and buy supplies. That way, nothing spoils for you. Be sure to always place the newly purchased foods at the back of the shelf so you use up the older ones first. With an [online planner for your stockpiling](https://seatable.io/en/notvorrat-anlegen/#Online-Planer_fuer_Ihren_Notvorrat), you always keep track of which foods should be used up next.
 
-{{< warning headline="This is how long food can be kept" text="The **best-before date on** the packaging shows the minimum period until which a product can be stored and consumed. However, this does not mean that the food is no longer edible beyond this date. If properly stored and sealed, they are usually edible beyond the deadline without concern. Nevertheless, the food should be checked for traces of spoilage before consumption. These can be, for example, an unpleasant odor, mold or bloated packaging." >}}
+{{< warning headline="This is how long food can be kept" text="The **best-before date on** the packaging shows the minimum period until which a product can be stored and consumed. However, this does not mean that the food is no longer edible beyond this date. If properly stored and sealed, they are usually edible beyond the deadline without concern. Nevertheless, the food should be checked for traces of spoilage before consumption. These can be, for example, an unpleasant odor, mold or bloated packaging." />}}
 
 ### Save wisely on discount promotions
 

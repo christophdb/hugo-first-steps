@@ -1,9 +1,9 @@
 ---
-title: "Bullet Journal – wie Sie mit Kreativität Ihr Leben organisieren"
+title: 'Bullet Journal – wie Sie mit Kreativität Ihr Leben organisieren'
 date: 2023-12-19
-lastmod: "2024-01-25"
-author: "lsc"
-url: "/de/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren"
+lastmod: '2024-01-25'
+author: 'lsc'
+url: '/de/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren'
 ---
 
 Im oft stressigen Alltag ist es schwer, Aufgaben, Termine und die eigenen Interessen unter einen Hut zu bekommen. Damit Sie die Dinge, die Ihnen im Leben wirklich wichtig sind, im täglichen Haufen an monotonen Abläufen nicht aus den Augen verlieren, hilft es, diese aufzuschreiben. Dafür eignet sich ein **Bullet Journal**, in welchem Sie alles Wichtige festhalten und Ihrer Kreativität freien Lauf lassen können.
@@ -12,7 +12,7 @@ Wie ein Bullet Journal funktioniert und was Sie wissen müssen, um ein Bullet Jo
 
 ## Was ist ein Bullet Journal?
 
-Ein Bullet Journal hilft Ihnen dabei, Ihren **Alltag zu organisieren** und alle Ihre Aufgaben, Termine und Bedürfnisse im Blick zu behalten. Dabei fungiert das Journal als eine Kombination aus Terminkalender, Projektplaner und Notizbuch. Außerdem bietet es genügend Freiraum, damit auch Ihre individuellen Themenwünsche Platz finden. Das Bullet Journal setzt Ihrer **Kreativität** keine Grenzen. Denn im Vergleich zu herkömmlichen Kalendern, gibt es keine vorgefertigten Seiten. Diese sollen von Ihnen selbst designt und nach Ihren Vorstellungen gefüllt werden.  
+Ein Bullet Journal hilft Ihnen dabei, Ihren **Alltag zu organisieren** und alle Ihre Aufgaben, Termine und Bedürfnisse im Blick zu behalten. Dabei fungiert das Journal als eine Kombination aus Terminkalender, Projektplaner und Notizbuch. Außerdem bietet es genügend Freiraum, damit auch Ihre individuellen Themenwünsche Platz finden. Das Bullet Journal setzt Ihrer **Kreativität** keine Grenzen. Denn im Vergleich zu herkömmlichen Kalendern, gibt es keine vorgefertigten Seiten. Diese sollen von Ihnen selbst designt und nach Ihren Vorstellungen gefüllt werden.
 
 ![So kann ein Bullet Journal mit Monats- und Tagesübersicht aussehen.](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
@@ -28,7 +28,7 @@ Erfunden hat der New Yorker Grafikdesigner Ryder Carroll diese Kalender-Methode.
 
 ## Das richtige Starterpack
 
-Mit dem Bullet Journaling anzufangen ist denkbar einfach. Sie brauchen lediglich ein **Notizbuch** und einen **Stift**. Es bietet sich an, mit dem zu beginnen, was Sie zu Hause haben. Sie können ausprobieren, ob Ihnen das Journaling liegt. Wenn Sie Gefallen daran finden und sich kreativ entfalten möchten, können Sie weitere Utensilien dazukaufen.  
+Mit dem Bullet Journaling anzufangen ist denkbar einfach. Sie brauchen lediglich ein **Notizbuch** und einen **Stift**. Es bietet sich an, mit dem zu beginnen, was Sie zu Hause haben. Sie können ausprobieren, ob Ihnen das Journaling liegt. Wenn Sie Gefallen daran finden und sich kreativ entfalten möchten, können Sie weitere Utensilien dazukaufen.
 
 ![Ihr](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
@@ -40,7 +40,7 @@ Als Grundlage dienen Notizbücher mit **Punktraster**, da dieses beim Schreiben 
 
 Wie oben bereits erwähnt, steht die Verwirklichung Ihrer eigenen Ideen im Vordergrund. Es gibt jedoch ein **Grundsystem**, an welchem Sie sich für den Aufbau Ihres Journals orientieren können.
 
-Dieses besteht primär aus **zeitlichen Übersichten**, in die Sie Ihre Aufgaben und Termine eintragen können. Darüber hinaus gibt es **Collections**. Das sind Seiten, welche Ihrer freien und individuellen Entfaltung dienen. Dafür finden Sie im Folgenden eine Sammlung an Ideen, welche Sie übernehmen oder von denen Sie sich inspirieren lassen können.  
+Dieses besteht primär aus **zeitlichen Übersichten**, in die Sie Ihre Aufgaben und Termine eintragen können. Darüber hinaus gibt es **Collections**. Das sind Seiten, welche Ihrer freien und individuellen Entfaltung dienen. Dafür finden Sie im Folgenden eine Sammlung an Ideen, welche Sie übernehmen oder von denen Sie sich inspirieren lassen können.
 
 ![Ihr Bullet Journal sollte die Punkte Index, Key, Future Log, Monthly Log, Daily Log und Collectives enthalten.](https://seatable.io/wp-content/uploads/2023/12/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
@@ -53,6 +53,7 @@ Der Grundaufbau Ihres Bullet Journals besteht aus drei Teilen. Der **Index** die
 Danach folgt der **Key**. Dieser ist eine Art Legende. Dort werden die Symbole und ihre Bedeutung festgehalten. Diese Technik heißt **Rapid Logging**.
 
 {{< warning headline="So können Sie Ihren Key gestalten" text="- Bindestrich = Notizen
+
 - Punkt = Aufgabe
 - Punkt mit Kreuzchen übermalen = Aufgabe ist erledigt
 - Punkt mit Pfeil, dessen Spitze nach rechts zeigt = Aufgabe verschoben
@@ -67,7 +68,7 @@ Darauf aufbauend erstellen Sie dann ein **Monthly Log**. Dieses beinhaltet alle 
 
 Noch weiter ins Detail geht das **Daily Log**. Dieses wird wochenweise erstellt und bietet die Möglichkeit, flexibel tagesaktuelle Ereignisse einzutragen.
 
-{{< warning headline="Die richtige Anordnung der Kalender" text="Die Reihenfolge der Übersichten folgt meist diesem Muster: Jahresübersicht, Monatsübersicht Januar, Tagesübersichten Januar, Monatsübersicht Februar, Tagesübersichten Februar, …" >}}
+{{< warning headline="Die richtige Anordnung der Kalender" text="Die Reihenfolge der Übersichten folgt meist diesem Muster: Jahresübersicht, Monatsübersicht Januar, Tagesübersichten Januar, Monatsübersicht Februar, Tagesübersichten Februar, …" />}}
 
 ### Die Collections
 

@@ -1,9 +1,9 @@
 ---
-title: "Notvorrat anlegen: Was Sie immer zuhause haben sollten"
+title: 'Notvorrat anlegen: Was Sie immer zuhause haben sollten'
 date: 2023-09-20
-lastmod: "2023-09-20"
-author: "lsc"
-url: "/de/notvorrat-anlegen"
+lastmod: '2023-09-20'
+author: 'lsc'
+url: '/de/notvorrat-anlegen'
 ---
 
 Was würden Sie tun, wenn plötzlich flächendeckend die Strom- und Wasserversorgung ausfällt? In Deutschland ist das zwar sehr unwahrscheinlich, in anderen Teilen der Welt kommen Schäden an der Infrastruktur jedoch häufiger vor. Auf solche und andere **Notsituationen** sind viele nicht ausreichend vorbereitet.
@@ -14,7 +14,7 @@ Deshalb ist es ratsam, für den Fall der Fälle optimal vorzusorgen, um die Grun
 
 Was es bedeuten kann, auf einen Notvorrat zurückgreifen zu müssen, ist uns spätestens seit der Corona-Pandemie bekannt. Aus Angst, dass man für längere Zeit die Wohnung nicht verlassen kann oder die dringend benötigte Ware nicht mehr erhältlich sein könnte, wurden in Deutschland große Mengen an Nudeln und Klopapier gehamstert. Das zeigt: Wenn es zu einem Krisenfall kommt, sind die Supermärkte schnell leergekauft. Von der konkreten Notsituation abgesehen hat das Bevorraten von Lebensmitteln den Vorteil, dass man unabhängig von Ladenöffnungszeiten und Lieferketten ist.
 
-{{< warning headline="Das empfiehlt der deutsche Staat" text="Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BKK) empfiehlt, einen Notvorrat für **10 Tage** anzulegen. Um diesen für Ihren Haushalt berechnen zu können, gibt es einen ausführlichen [Vorratskalkulator](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator). Dieser berechnet, welche Lebensmittel Sie in welchen Mengen anschaffen sollten, um eine ausreichende Versorgung sicherstellen zu können." >}}
+{{< warning headline="Das empfiehlt der deutsche Staat" text="Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BKK) empfiehlt, einen Notvorrat für **10 Tage** anzulegen. Um diesen für Ihren Haushalt berechnen zu können, gibt es einen ausführlichen [Vorratskalkulator](https://www.ernaehrungsvorsorge.de/private-vorsorge/notvorrat/vorratskalkulator). Dieser berechnet, welche Lebensmittel Sie in welchen Mengen anschaffen sollten, um eine ausreichende Versorgung sicherstellen zu können." />}}
 
 ## Darauf sollten Sie bei der Auswahl von Lebensmitteln achten
 
@@ -52,7 +52,7 @@ Eine weitere Möglichkeit, Essen haltbar zu machen, ist es einzulegen.
 
 Um zu verhindern, dass die gelagerten Lebensmittel ihr Mindesthaltbarkeitsdatum überschreiten und im Notfall nicht mehr genießbar sind, können Sie außerdem mit einem “lebenden Vorrat” arbeiten. Dabei binden Sie die gelagerten Lebensmittel in Ihren täglichen Gebrauch ein und kaufen Nachschub. So verdirbt Ihnen nichts. Achten Sie darauf, die neu gekauften Nahrungsmittel immer hinten im Regal zu platzieren, damit Sie die älteren zuerst aufbrauchen. Mit einem [Online-Planer für Ihre Vorratshaltung](https://seatable.io/notvorrat-anlegen/#Online-Planer_fuer_Ihren_Notvorrat) behalten Sie immer den Überblick, welche Lebensmittel als Nächstes verwertet werden sollten.
 
-{{< warning headline="So lange sind Lebensmittel haltbar" text="Das **Mindesthaltbarkeitsdatum** auf der Verpackung zeigt, bis wann sich ein Produkt mindestens lagern und verzehren lässt. Jedoch bedeutet dies nicht, dass die Nahrungsmittel darüber hinaus nicht mehr genießbar sind. Bei richtiger Lagerung und im verschlossenen Zustand sind sie meist ohne Bedenken über die Deadline hinaus essbar. Die Lebensmittel sollten trotzdem vor dem Verzehr auf Spuren des Verderbens geprüft werden. Das können zum Beispiel ein unangenehmer Geruch, Schimmel oder aufgeblähte Verpackungen sein." >}}
+{{< warning headline="So lange sind Lebensmittel haltbar" text="Das **Mindesthaltbarkeitsdatum** auf der Verpackung zeigt, bis wann sich ein Produkt mindestens lagern und verzehren lässt. Jedoch bedeutet dies nicht, dass die Nahrungsmittel darüber hinaus nicht mehr genießbar sind. Bei richtiger Lagerung und im verschlossenen Zustand sind sie meist ohne Bedenken über die Deadline hinaus essbar. Die Lebensmittel sollten trotzdem vor dem Verzehr auf Spuren des Verderbens geprüft werden. Das können zum Beispiel ein unangenehmer Geruch, Schimmel oder aufgeblähte Verpackungen sein." />}}
 
 ### Bei Rabattaktionen sinnvoll sparen
 

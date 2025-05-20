@@ -1,9 +1,9 @@
 ---
 title: "La gestion immobilière en toute simplicité : Gérer l'immobilier de manière professionnelle"
 date: 2023-11-03
-lastmod: "2023-11-06"
-author: "ott"
-url: "/fr/hausverwaltung"
+lastmod: '2023-11-06'
+author: 'ott'
+url: '/fr/hausverwaltung'
 ---
 
 La **location de biens immobiliers** est une activité rentable, tant pour les particuliers que pour les entreprises et les communes. Si vous gérez des biens immobiliers, vous devez toutefois garantir le bon fonctionnement de la **gestion immobilière**, que vous louiez des appartements individuels à titre privé ou à grande échelle avec une entreprise.
@@ -20,7 +20,7 @@ En tant que propriétaire, vous devez vous occuper de la gestion et de la locati
 
 Il existe des **régies immobilières externes** qui aident les propriétaires de biens locatifs à gérer leurs biens ou qui s'en chargent entièrement. Cela signifie qu'ils veillent à ce que les biens immobiliers soient bien conservés et que leur gestion soit assurée. Ils se font rémunérer par les propriétaires pour ce travail administratif.
 
-{{< warning headline="Gestion immobilière vs. concierge" text="La gestion immobilière est souvent confondue avec le **concierge**. Or, le concierge n'est qu'un employé ou un prestataire de services de la gérance immobilière et fournit principalement des prestations d'artisanat." >}}
+{{< warning headline="Gestion immobilière vs. concierge" text="La gestion immobilière est souvent confondue avec le **concierge**. Or, le concierge n'est qu'un employé ou un prestataire de services de la gérance immobilière et fournit principalement des prestations d'artisanat." />}}
 
 Mais il y a aussi de nombreux **propriétaires privés** qui se chargent eux-mêmes des activités administratives de la gestion immobilière - surtout s'il s'agit de quelques locataires. Ils s'épargnent ainsi les frais d'une gestion externe.
 

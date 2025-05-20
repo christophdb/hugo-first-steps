@@ -1,9 +1,9 @@
 ---
 title: "Créer une liste de choses à faire avec l'application en ligne"
 date: 2024-04-03
-lastmod: "2024-04-03"
-author: "kgr"
-url: "/fr/to-do-liste-online"
+lastmod: '2024-04-03'
+author: 'kgr'
+url: '/fr/to-do-liste-online'
 ---
 
 Créer et gérer une liste de choses à faire utilisable en ligne avec une application présente de nombreux avantages. En effet, une **liste de choses à faire** vous aide, tant dans votre vie privée que dans vos activités professionnelles quotidiennes, à maîtriser efficacement vos tâches et à ne rien oublier dans le stress du quotidien. Découvrez dans cet article pourquoi vous devriez utiliser un **modèle** pour votre liste de choses à faire et quelle **application** est la plus appropriée pour une liste de choses à faire.
@@ -58,7 +58,7 @@ Vous pouvez saisir rapidement vos tâches, ajouter des descriptions, des section
 
 Un lien avec votre calendrier, un assistant vocal sur votre smartphone et d'autres outils est également possible. Todoist peut être synchronisé sur tous les appareils pour accéder à vos listes, de votre ordinateur portable à votre smartwatch en passant par votre téléphone portable.
 
-{{< warning headline="Coûts" text="Dans la version gratuite, vous pouvez gérer cinq projets actifs et travailler avec cinq membres par projet. Les téléchargements de fichiers, les filtres et les rappels sont limités. Pour 4 euros par utilisateur et par mois, vous passez à 300 projets et 25 membres d'équipe, pour 6 euros par utilisateur et par mois, ce sont 500 projets avec jusqu'à 1000 membres d'équipe, ce qui convient principalement aux grandes équipes dans les entreprises." >}}
+{{< warning headline="Coûts" text="Dans la version gratuite, vous pouvez gérer cinq projets actifs et travailler avec cinq membres par projet. Les téléchargements de fichiers, les filtres et les rappels sont limités. Pour 4 euros par utilisateur et par mois, vous passez à 300 projets et 25 membres d'équipe, pour 6 euros par utilisateur et par mois, ce sont 500 projets avec jusqu'à 1000 membres d'équipe, ce qui convient principalement aux grandes équipes dans les entreprises." />}}
 
 ### Microsoft To Do : l'application polyvalente pour votre liste de choses à faire
 
@@ -66,7 +66,7 @@ Avec [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), vous disposez �
 
 Il est possible de trier les différentes tâches à faire, de leur attribuer un délai et de les cocher. Des rappels et des tâches répétitives sont également possibles. Au-delà du mode liste, il n'y a cependant pas d'options avancées pour la visualisation, vous avez alors besoin du Planner.
 
-{{< warning headline="Utilisation gratuite" text="Microsoft To Do est disponible gratuitement. Tout ce dont vous avez besoin, c'est d'un compte Microsoft." >}}
+{{< warning headline="Utilisation gratuite" text="Microsoft To Do est disponible gratuitement. Tout ce dont vous avez besoin, c'est d'un compte Microsoft." />}}
 
 ![Application Microsoft To do List sur smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
@@ -78,7 +78,7 @@ Il est possible de trier les différentes tâches à faire, de leur attribuer un
 
 Avec Projoodle, vous disposez d'une application gratuite pour les listes de choses à faire, qui sont faciles à créer, à partager et à gérer. Une autre caractéristique est l'affichage du tableau Kanban, qui vous permet de regrouper les tâches par statut. Les possibilités de trier et de planifier les tâches sont toutefois peu nombreuses.
 
-{{< warning headline="Conformité au RGPD" text="Le serveur de l'application To-do-Listen est situé en Allemagne, ce qui fait que Projoodle convient également au travail conforme au RGPD avec des données sensibles et personnelles." >}}
+{{< warning headline="Conformité au RGPD" text="Le serveur de l'application To-do-Listen est situé en Allemagne, ce qui fait que Projoodle convient également au travail conforme au RGPD avec des données sensibles et personnelles." />}}
 
 ### Les rappels de tâches : L'application de liste de choses à faire pour iOS
 
@@ -98,7 +98,7 @@ Dans la comparaison de toutes les apps considérées, SeaTable a de loin **le pl
 
 Avec SeaTable, vous pouvez commencer immédiatement avec la [version gratuite](https://seatable.io/fr/enregistrement/) et le [modèle interactif](https://seatable.io/fr/modele/bpvzkh-vrpwr4xylid6zeq/). D'autres fonctionnalités sont disponibles dans la version Plus pour 7 € par utilisateur et par mois, la version Enterprise pour 14 € par utilisateur et par mois ou une solution cloud dédiée.
 
-{{< warning headline="RGPD et souveraineté des données" text="Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la plateforme est également adaptée au travail avec des données sensibles et personnelles, conformément au RGPD. Vous avez en outre la possibilité d'installer [SeaTable On-Premises](https://seatable.io/fr/on-premises/) sur vos propres serveurs." >}}
+{{< warning headline="RGPD et souveraineté des données" text="Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la plateforme est également adaptée au travail avec des données sensibles et personnelles, conformément au RGPD. Vous avez en outre la possibilité d'installer [SeaTable On-Premises](https://seatable.io/fr/on-premises/) sur vos propres serveurs." />}}
 
 ## Conseils pour réussir votre liste de choses à faire
 

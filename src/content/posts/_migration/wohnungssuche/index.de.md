@@ -1,9 +1,9 @@
 ---
-title: "Wohnungssuche – 10 Tipps, wie Sie eine Wohnung finden"
+title: 'Wohnungssuche – 10 Tipps, wie Sie eine Wohnung finden'
 date: 2023-12-18
-lastmod: "2023-12-18"
-author: "nsc"
-url: "/de/wohnungssuche"
+lastmod: '2023-12-18'
+author: 'nsc'
+url: '/de/wohnungssuche'
 ---
 
 Ob die erste eigene Wohnung, die dritte WG in diesem Jahr oder ein neuer Rückzugsort für die ganze Familie – alle Menschen auf **Wohnungssuche** stehen vor der gleichen Herausforderung. Die Lage am Wohnungsmarkt ist angespannt: Bezahlbare Wohnungen sind knapp, während die Mieten weiter steigen. Doch es werden auch immer wieder schöne Wohnungen frei oder alte Mietshäuser renoviert. Auf diese Chancen sollten Sie gut vorbereitet sein, um sich gegen Ihre zahlreichen Mitbewerber durchsetzen zu können.
@@ -24,7 +24,7 @@ Checkliste für die perfekte Wohnungssuche.
 
 Um Ihren zukünftigen Vermieter von Ihnen zu überzeugen, muss der erste Eindruck sitzen. Ein **Anschreiben**, in dem Sie neben den üblichen Fakten auch einen persönlichen Touch mit einbauen, bleibt besser im Kopf als Standardphrasen. Mit einem **Steckbrief** oder Lebenslauf können Sie zusätzlich Ihren Vermieter in spe beeindrucken. Holen Sie, wenn möglich, bei Ihrem derzeitigen Vermieter eine **Mietschuldenfreiheitsbescheinigung** oder sogar ein Empfehlungsschreiben ein. In jedem Fall aber benötigen Sie Ihre letzten Gehaltsabrechnungen und einen **Schufa-Bonitätscheck**.
 
-{{< warning headline="Tipp" text="Viele Vermieter akzeptieren auch die [Datenkopie (nach Art. 15 DS-GVO)](https://www.meineschufa.de/de/datenkopie). Die Datenkopie ist im Gegensatz zum Schufa-Bonitätscheck kostenfrei." >}}
+{{< warning headline="Tipp" text="Viele Vermieter akzeptieren auch die [Datenkopie (nach Art. 15 DS-GVO)](https://www.meineschufa.de/de/datenkopie). Die Datenkopie ist im Gegensatz zum Schufa-Bonitätscheck kostenfrei." />}}
 
 ## 3\. Ansprüche vor der Wohnungssuche checken
 
@@ -43,7 +43,7 @@ Im Alltag gibt es einige Methoden, um Wohnungen zu finden. Manche Vermieter inse
 
 Wem das zu aufwändig ist, kann sich auch an offiziellere Stellen wenden. Auch Mieter können **Immobilienmakler** zur Wohnungssuche beauftragen, die allerdings eine Provision verlangen. Laut Gesetz darf die Maklercourtage maximal zwei Nettokaltmieten zuzüglich der Mehrwertsteuer betragen. Eine weitere Option bietet der direkte Kontakt zu **Hausverwaltungen**. Diese haben oft den [Überblick](https://seatable.io/hausverwaltung/) und können Wohnungen vermitteln, die bald frei werden.
 
-{{< warning headline="Tipp" text="Bei einer Absage lohnt sich die Nachfrage beim Vermieter, ob eine **Interessentenliste** besteht. Vor allem wenn dieser mehrere Mieteinheiten besitzt, kann er Sie kontaktieren, sobald eine andere Wohnung frei wird." >}}
+{{< warning headline="Tipp" text="Bei einer Absage lohnt sich die Nachfrage beim Vermieter, ob eine **Interessentenliste** besteht. Vor allem wenn dieser mehrere Mieteinheiten besitzt, kann er Sie kontaktieren, sobald eine andere Wohnung frei wird." />}}
 
 ## 5\. Wohnungen online finden
 

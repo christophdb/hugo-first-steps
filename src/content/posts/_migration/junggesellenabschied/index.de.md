@@ -1,9 +1,9 @@
 ---
-title: "Junggesellenabschied – Ideen und Tipps für die perfekte Tour"
+title: 'Junggesellenabschied – Ideen und Tipps für die perfekte Tour'
 date: 2024-08-06
-lastmod: "2024-08-07"
-author: "nsc"
-url: "/de/junggesellenabschied"
+lastmod: '2024-08-07'
+author: 'nsc'
+url: '/de/junggesellenabschied'
 ---
 
 Für den klassischen Junggesellenabschied gelten drei Dinge als unverzichtbar: auffällige **T-Shirts**, ein **Bauchladen** gefüllt mit allerlei Kuriositäten und ein **belebter Ort**. Doch warum sollte es nicht etwas Besonderes sein? Immerhin heiratet man meist nur einmal im Leben und der **Junggesellenabschied** kann ebenso einzigartig und unvergesslich sein wie die Hochzeit selbst.
@@ -24,7 +24,7 @@ Bräute und Bräutigame neigen oft dazu, ihre Abschiedsfeiern getrennt voneinand
 
 Einige Paare feiern ihren Junggesellen- und Junggesellinnenabschied zusammen, bekannt als „Jack and Jill Party“ oder „Stag and Hen Party“. Diese moderne Variante bietet eine Gelegenheit für Familien und Freunde beider Seiten, sich zusammenzufinden, um das Paar zu feiern und symbolisch den Start in ihr gemeinsames Leben zu unterstützen.
 
-{{< warning headline="Polterabend" text="Eine weitere beliebte Option für eine gemeinsame Feier vor der Hochzeit ist der [Polterabend](https://de.wikipedia.org/wiki/Polterabend), bei dem Keramikscherben vor dem Haus der Braut sinnbildlich Glück für die Ehe bringen sollen. Diese Tradition ist vor allem in einigen europäischen Ländern verbreitet." >}}
+{{< warning headline="Polterabend" text="Eine weitere beliebte Option für eine gemeinsame Feier vor der Hochzeit ist der [Polterabend](https://de.wikipedia.org/wiki/Polterabend), bei dem Keramikscherben vor dem Haus der Braut sinnbildlich Glück für die Ehe bringen sollen. Diese Tradition ist vor allem in einigen europäischen Ländern verbreitet." />}}
 
 ## Was es vor der Planung zu beachten gibt
 

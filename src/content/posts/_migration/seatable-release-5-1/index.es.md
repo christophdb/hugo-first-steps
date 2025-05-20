@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 5.1: Más funciones/conveniencia en App Builder & Big Data"
+title: 'SeaTable 5.1: Más funciones/conveniencia en App Builder & Big Data'
 date: 2024-11-08
-lastmod: "2024-11-08"
-author: "rdb"
-url: "/es/seatable-release-5-1"
+lastmod: '2024-11-08'
+author: 'rdb'
+url: '/es/seatable-release-5-1'
 ---
 
 SeaTable 5.1 se centra en mejorar las funciones existentes y optimizarlas para casos de uso prácticos. En particular, el **App Builder**, que se lanzó oficialmente con la versión 5.0, ha recibido especial atención y ahora permite aplicaciones web aún más potentes. Pero los usuarios de **Big Data** Store también se benefician de amplias mejoras. El nuevo **plugin Tree** ofrece otra opción de visualización para datos jerárquicos. En estas notas de la versión informamos de todas las novedades importantes. Como siempre, encontrará la lista completa de cambios en [el registro de cambios](https://seatable.io/es/docs/changelog/version-5-1/).
@@ -62,7 +62,7 @@ Casi igual de notable es el **aviso amarillo** que aparece en las vistas normale
 
 En respuesta a muchas peticiones de los usuarios, la **operación de procesamiento de datos** [comparar y unir](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) ahora también está disponible en las vistas de big data. Esta operación puede enlazar entradas del almacén de big data con filas de cualquier otra tabla, independientemente de si las filas de la tabla enlazada están almacenadas en la base o en el almacén de big data.
 
-{{< warning headline="Nota" text="La velocidad de ejecución es significativamente más lenta que la misma operación en una vista normal porque toda la información de las filas ya está en la memoria de trabajo cuando se ejecuta en vistas normales." >}}
+{{< warning headline="Nota" text="La velocidad de ejecución es significativamente más lenta que la misma operación en una vista normal porque toda la información de las filas ya está en la memoria de trabajo cuando se ejecuta en vistas normales." />}}
 
 Para aumentar la trazabilidad de los cambios en las filas de la memoria de big data, SeaTable 5.1 ofrece un **registro de big data** independiente. Este registro, que registra las modificaciones y eliminaciones de filas, aparece en cuanto se activa la memoria de big data en la base.
 

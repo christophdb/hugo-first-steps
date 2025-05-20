@@ -1,9 +1,9 @@
 ---
-title: "Organizing animal husbandry - how to keep your pet in a species-appropriate way"
+title: 'Organizing animal husbandry - how to keep your pet in a species-appropriate way'
 date: 2024-01-30
-lastmod: "2024-01-30"
-author: "lsc"
-url: "/tierhaltung"
+lastmod: '2024-01-30'
+author: 'lsc'
+url: '/tierhaltung'
 ---
 
 The dog is man's best friend - this is often said when it comes to the relationship between master and **pet**. The cat is the most popular pet in Germany, ahead of the dog, followed by rodents, fish and reptiles. A pet brings you joy, is a soulmate or is simply beautiful to look at. But **keeping** a pet also involves work, because you are committing yourself for a long time and have to take the needs of your pets into account.
@@ -43,26 +43,22 @@ Are you planning to move in with a new animal companion and are unsure whether y
 What does the tenancy agreement say about keeping animals?|||
 
 Your landlord can stipulate certain restrictions on keeping pets in the tenancy agreement. If there is no such provision in the tenancy agreement, the landlord may not prohibit you from keeping pets, regardless of which animal it is. The exception to this is the keeping of dangerous animals.
-
-\--- 
+{{< /faq >}}
 
 What restrictions are there?|||
 
 There is a so-called **permission proviso**, which restricts the keeping of large animals. If this clause is included in your tenancy agreement, you must ask your landlord for permission before moving in with an animal. The landlord may prohibit you from acquiring certain animals in individual cases, stating a reason.
-
-\--- 
+{{< /faq >}}
 
 Which animals can I keep without permission?|||
 
 **Small animals** such as mice, geckos or ornamental fish that do not pose a danger, noise or odor nuisance and are kept in closed cages, terrariums or aquariums do not require a permit.
-
-\--- 
+{{< /faq >}}
 
 Am I allowed to have pets in my apartment temporarily?|||
 
 Of course, there is nothing wrong with a short visit from a friend with their pet. However, you must obtain the landlord's consent if you look after animals for a longer period of time or even for a fee.
-
-\---
+{{< /faq >}}
 
 ## Animal husbandry costs time
 
@@ -72,7 +68,7 @@ Of course, in a household with several people, it makes sense to **divide up the
 
 If you are away for a longer period of time, for example because you are going on **vacation**, you should take [care of](https://www.lanuv.nrw.de/verbraucherschutz/tierschutz/tierhaltung/allgemeines/haustiere-in-der-urlaubszeit#:~:text=F%C3%BCr%20eine%20Reise%20ins%20Ausland,kann%20es%20ein%20Einreiseverbot%20geben.) your pet in good time. With rodents, it is often enough to ask friends and relatives to look after them from time to time and feed them. This is usually not enough for larger animals, as they need to be actively exercised and need to be close to people.
 
-{{< warning headline="Taking animals on vacation with you" text="Vacations can also be a great experience for animals. However, **traveling with animals** also means a lot of stress. An **EU pet passport** is required for cats, dogs and ferrets when traveling abroad. In addition, special vaccinations and quarantine may be required in the vacation destination." >}}
+{{< warning headline="Taking animals on vacation with you" text="Vacations can also be a great experience for animals. However, **traveling with animals** also means a lot of stress. An **EU pet passport** is required for cats, dogs and ferrets when traveling abroad. In addition, special vaccinations and quarantine may be required in the vacation destination." />}}
 
 For longer vacations, you have the option of taking your pet to a **boarding kennel**. If you have purchased your pet from a breeder, you can also ask them whether they offer vacation care. In any case, you should not leave your pet alone at home.
 
@@ -147,7 +143,7 @@ If you want to have a pet, you have to be able to afford it. After all, pets are
 
 Just like us humans, animals sometimes fall ill, but they often hide it from us. It is therefore necessary to consult a vet even if there are minor deviations from your pet's normal behavior. Regular **preventive check-ups** can help to prevent illness.
 
-{{< warning headline="Health insurance for your pet" text="Health insurance can be worthwhile for your pet, especially if you are aware of any pre-existing conditions. Insurance premiums start at 200 euros per year for cats and 280 euros for dogs. [Surgery insurance](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) can also be worthwhile for older animals, as operations can quickly cost four-figure sums. Otherwise, you should set aside enough money to pay for it in an emergency." >}}
+{{< warning headline="Health insurance for your pet" text="Health insurance can be worthwhile for your pet, especially if you are aware of any pre-existing conditions. Insurance premiums start at 200 euros per year for cats and 280 euros for dogs. [Surgery insurance](https://www.finanztip.de/tierkrankenversicherung/#:~:text=F%C3%BCr%20eine%20OP%2DVersicherung%20zahlst,pro%20Jahr%20\(f%C3%BCr%20Freig%C3%A4nger\).) can also be worthwhile for older animals, as operations can quickly cost four-figure sums. Otherwise, you should set aside enough money to pay for it in an emergency." />}}
 
 When you take in an animal, you should go to the doctor for an initial **health check**. Regular **vaccinations** and **worming** are also necessary.
 

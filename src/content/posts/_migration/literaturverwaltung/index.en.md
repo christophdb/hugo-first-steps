@@ -1,10 +1,10 @@
 ---
-title: "Literature management program for a better overview"
+title: 'Literature management program for a better overview'
 date: 2024-05-17
-lastmod: "2024-05-17"
-coverImage: "Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg"
-author: "rdb"
-url: "/literaturverwaltung"
+lastmod: '2024-05-17'
+coverImage: 'Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg'
+author: 'rdb'
+url: '/literaturverwaltung'
 ---
 
 Whether it's a thesis, dissertation or research report - a **reference management program** makes it easier for you to work on scientific projects. Creating **bibliographies** takes just as much time as finding, viewing and evaluating **sources**.
@@ -71,7 +71,7 @@ Zotero is particularly suitable for newcomers, as it is intuitive to use and des
 
 Mendeley offers you a **free subscription** with two gigabytes of storage space in the cloud. If this is not enough for you, you can purchase a version with more storage space, additional support, more features and better data encryption for a price on request. The program runs on all operating systems.
 
-{{< warning headline="Access via app" text="Mendeley also offers an app for iOS, with which you always have mobile access to your literature management." >}}
+{{< warning headline="Access via app" text="Mendeley also offers an app for iOS, with which you always have mobile access to your literature management." />}}
 
 In addition to using the desktop program or the Web Importer, you can also use Mendeley via a **Word plugin**. All your data, documents and folders are synchronized via the cloud.
 
@@ -132,32 +132,27 @@ Not all information about your sources is relevant for the subsequent transfer t
 Authors|||
 
 The authors should be listed with their surnames and first names and, if applicable, academic titles. In addition to the authors, the name of the editors should also be given for edited volumes.
-
-\--- 
+{{< /faq >}}
 
 Year|||
 
 In addition to the year, you must also state the day and month of publication for internet sources. If it is a source without a year, you must also indicate this.
-
-\--- 
+{{< /faq >}}
 
 Title|||
 
 The title refers to the title of the article, book or chapter if it is an anthology. Please note that the title is case-sensitive.
-
-\--- 
+{{< /faq >}}
 
 Medium|||
 
 In most cases, it is sufficient to state the journal or work in which the article was published. If it is a book, you should name the publisher.
-
-\--- 
+{{< /faq >}}
 
 Edition and page number|||
 
 You should make a note of this information as accurately as possible. Count the page numbers if they are not printed.
-
-\---
+{{< /faq >}}
 
 ### 3\. research new sources with the reference management program
 
@@ -177,7 +172,7 @@ Zotero offers you the option of assigning markers to sources according to which 
 
 Not all sources are cited in the same way. Right at the beginning of your project, you should decide which [**citation style**](https://www.scribbr.de/richtig-zitieren/uebersicht-zitierstile/) you will use. Once you have decided on a style, you should use it consistently and set it in your reference management program. You can then use the program to format all your sources in this style and copy them into your work.
 
-{{< warning headline="Important note" text="The citation style is not only decisive for the presentation of your sources in the bibliography, it is also used to set short references in the text." >}}
+{{< warning headline="Important note" text="The citation style is not only decisive for the presentation of your sources in the bibliography, it is also used to set short references in the text." />}}
 
 ### 6\. use the note function in the reference management program
 

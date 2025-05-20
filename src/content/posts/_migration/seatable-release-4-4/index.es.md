@@ -1,9 +1,9 @@
 ---
-title: "SeaTable 4.4: aplicación universal, importación de Excel y conjuntos de datos comunes"
+title: 'SeaTable 4.4: aplicación universal, importación de Excel y conjuntos de datos comunes'
 date: 2024-05-15
-lastmod: "2024-05-15"
-author: "kgr"
-url: "/es/seatable-release-4-4"
+lastmod: '2024-05-15'
+author: 'kgr'
+url: '/es/seatable-release-4-4'
 ---
 
 En SeaTable 4.4, continuamos con brío el desarrollo del Universal App Builder. Muchas funciones nuevas permiten aplicaciones web aún más potentes y cómodas. También hemos pulido la función de importación y los conjuntos de datos compartidos. Los prácticos valores por defecto se aplican ahora de forma universal.
@@ -44,13 +44,13 @@ En la versión 4.4, puede ocultar la **barra de título** en la [página individ
 
 Como se anunció en las últimas notas de la versión, hemos **eliminado** el **Gallery App Bu**ilder en SeaTable 4.4. Si desea crear una nueva app con [galería](https://seatable.io/es/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/), el Universal App Builder le ofrece una alternativa más funcional.
 
-{{< warning headline="Es bueno saberlo" text="Las aplicaciones de galería **existentes seguirán funcionando**. Sin embargo, recomendamos cambiar las aplicaciones de galería existentes a aplicaciones universales para beneficiarse de nuevos desarrollos y mejoras." >}}
+{{< warning headline="Es bueno saberlo" text="Las aplicaciones de galería **existentes seguirán funcionando**. Sin embargo, recomendamos cambiar las aplicaciones de galería existentes a aplicaciones universales para beneficiarse de nuevos desarrollos y mejoras." />}}
 
 ![Crear diálogo de aplicación](images/Create-app-dialog-.png)
 
 También ha habido algunos cambios en la [aplicación de consulta](https://seatable.io/es/docs/apps/datenabfrage-app/) de datos. El antiguo App Builder para consultas de datos ha sido eliminado y sustituido por uno nuevo basado en el Universal App Builder. Esto significa que, por supuesto, puedes seguir creando aplicaciones públicas para consultar tus bases, pero la interfaz se parece ahora a la del Universal App Builder. Lo mismo se aplica a las aplicaciones de consulta existentes que a las aplicaciones de galería: no tienes que hacer nada y puedes seguir utilizándolas.
 
-{{< warning headline="Aumento de la eficacia" text="Los cambios descritos nos permiten centrarnos en el desarrollo ulterior de Universal App Builder y lograr así una mayor velocidad de desarrollo para las próximas funciones." >}}
+{{< warning headline="Aumento de la eficacia" text="Los cambios descritos nos permiten centrarnos en el desarrollo ulterior de Universal App Builder y lograr así una mayor velocidad de desarrollo para las próximas funciones." />}}
 
 ## Experiencia de usuario más agradable al importar Excel
 
@@ -58,24 +58,23 @@ SeaTable 4.4 hace que [la importación de tablas Excel](https://seatable.io/es/d
 
 ![Importación Excel](images/Excel-Import.png)
 
-{{< warning headline="Un pequeño anticipo" text="Con SeaTable 5.0, ¡hacemos la importación aún más flexible! Las columnas individuales de una tabla se pueden seleccionar y excluir de la importación." >}}
+{{< warning headline="Un pequeño anticipo" text="Con SeaTable 5.0, ¡hacemos la importación aún más flexible! Las columnas individuales de una tabla se pueden seleccionar y excluir de la importación." />}}
 
 ## Más funciones para los registros de datos compartidos
 
 Los [conjuntos de datos compartidos](https://seatable.io/es/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) son muy útiles si usted y los miembros de su equipo necesitan ciertas tablas (por ejemplo, una lista de empleados) en diferentes [grupos](https://seatable.io/es/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) de sus bases. SeaTable 4.4 añade tres nuevas funciones a las ya existentes:
 
 1. Si tiene un [Base de copias](https://seatable.io/es/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)Si copia una base a un grupo en el que se incluyen registros de datos compartidos, puede decidir si desea conservar la conexión con estos registros de datos. Por supuesto, el grupo en el que se copia la base debe tener acceso a los registros de datos compartidos.
-    
+
     ![Conservar el enlace al conjunto de datos común al copiar una base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
-    
+
 2. Después del [Restauración de bases a partir de instantáneas](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) o el [Creación de una base a partir de una plantilla](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) puede vincular tablas existentes a un registro de datos compartidos y permitir así la sincronización con los datos que allí se encuentran. Antes, los registros de datos compartidos no podían reimportarse, sino sólo integrarse en tablas nuevas.
-    
+
     ![Reimportación de un conjunto de datos común](images/Reimport-common-dataset.gif)
-    
+
 3. El creador de un registro de datos compartidos puede ahora seleccionar la opción [Sincronización](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) de todas las tablas dependientes con el conjunto de datos y garantizar así que los demás usuarios utilicen el estado actual de los datos en sus bases. Antes, había que confiar en que los usuarios configurasen la sincronización automática o la activasen manualmente.
-    
+
     ![Forzar la sincronización del conjunto de datos común](images/Force-sync-of-common-dataset.png)
-    
 
 ## Los valores por defecto se aplican en todas partes
 
@@ -85,7 +84,7 @@ Como el alcance de los valores por defecto ha aumentado considerablemente, tambi
 
 ![El valor por defecto se aplica en todas las líneas nuevas](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
-{{< warning headline="Nota" text="Si se define un valor por defecto tanto en la tabla como en el formulario web, el valor del formulario se aplica a todas las filas que se creen a través del formulario." >}}
+{{< warning headline="Nota" text="Si se define un valor por defecto tanto en la tabla como en el formulario web, el valor del formulario se aplica a todas las filas que se creen a través del formulario." />}}
 
 Por cierto: incluso puede activar los valores por defecto con el parámetro correspondiente al crear nuevas filas a través de la API.
 

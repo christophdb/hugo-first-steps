@@ -1,9 +1,9 @@
 ---
-title: "Manter um livro de orçamento: Poupe dinheiro com estas 12 dicas"
+title: 'Manter um livro de orçamento: Poupe dinheiro com estas 12 dicas'
 date: 2024-01-02
-lastmod: "2024-01-03"
-author: "kgr"
-url: "/pt/haushaltsbuch-fuehren-und-geld-sparen"
+lastmod: '2024-01-03'
+author: 'kgr'
+url: '/pt/haushaltsbuch-fuehren-und-geld-sparen'
 ---
 
 Por vezes, não é fácil controlar as nossas despesas. Acontece com demasiada frequência que, no final do mês, o dinheiro simplesmente desaparece e quase não nos lembramos em que é que o gastámos. É exatamente neste momento que um **livro de orçamento** vem em socorro e põe ordem no caos financeiro!
@@ -75,7 +75,7 @@ As subscrições de streaming desnecessárias podem ser dispendiosas.
 
 Para além das assinaturas de entretenimento, **as inscrições em ginásios, clubes desportivos ou escolas de dança** também fazem parte dos custos fixos mensais. Mas sabe como é: depois de se inscrever, rapidamente perde a motivação e só aparece esporadicamente. Pode poupar estes custos de funcionamento fazendo exercício em casa com ajudas simples, como halteres ou elásticos, ou fazendo **exercícios com o seu próprio peso**: Os abdominais, os agachamentos e as flexões não custam um cêntimo. Também pode transferir gratuitamente o seu treino de cardio na bicicleta ou na passadeira do ginásio para o ar livre.
 
-{{< warning headline="Dica" text="Pode encontrar inúmeros **vídeos** no [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) que o motivam a fazer aeróbica, power yoga ou exercícios nas suas próprias quatro paredes." >}}
+{{< warning headline="Dica" text="Pode encontrar inúmeros **vídeos** no [YouTube](https://www.youtube.com/watch?v=cA1jIxcAi_o) que o motivam a fazer aeróbica, power yoga ou exercícios nas suas próprias quatro paredes." />}}
 
 ### 4\. convidar amigos para casa
 
@@ -85,7 +85,7 @@ Noites de jogos, festas ou cozinhar algo delicioso em conjunto: **As actividades
 
 Os seus filhos já saíram de casa, vendeu o seu carro ou quase não utiliza a sua cave? Se tem mais espaço de habitação ou de armazenamento do que precisa, faz sentido alugá-lo. Pode alugar um **quarto** vago a viajantes a curto prazo através de portais como o AirBnB, por exemplo, ou - se um apartamento partilhado for uma opção para si - a sublocatários numa base permanente.
 
-{{< warning headline="Atenção" text="Se não for o proprietário do seu apartamento, o seu senhorio deve autorizar o subarrendamento." >}}
+{{< warning headline="Atenção" text="Se não for o proprietário do seu apartamento, o seu senhorio deve autorizar o subarrendamento." />}}
 
 O mesmo se aplica se a sua casa incluir uma **garagem**, um parque **de estacionamento** ou uma **cave** de que não precisa. O [arrendamento de um imóvel](https://seatable.io/pt/hausverwaltung/) pode gerar muitos rendimentos a longo prazo, o que irá favorecer o seu orçamento familiar.
 
@@ -103,7 +103,7 @@ Se a sua casa estiver bem ligada aos **transportes públicos**, pode utilizá-lo
 
 Não tem necessariamente de comprar artigos novos para a sua casa ou para o seu guarda-roupa. **Os artigos em segunda mão**, em bom estado ou como novos, custam muitas vezes menos de metade do preço e são mais fáceis de gerir no seu orçamento. Procure nas **lojas de segunda mão**, nas feiras da **ladra** ou nos **mercados em linha** do seu bairro. No entanto, para poupar dinheiro desta forma, é necessário um pouco mais de paciência do que numa ida às compras.
 
-{{< warning headline="Atenção: armadilha dos custos!" text="Frigoríficos, máquinas de lavar roupa e outros aparelhos eléctricos antigos podem ser comprados a preços muito baixos. Mas, no caso destes aparelhos em particular, é importante considerar os custos ao longo de toda a sua vida útil. Um aparelho que custa mais 200 euros quando é novo, mas que dura mais dez anos e consome menos 20% de eletricidade, pode poupar muito mais do que 200 euros. Por isso, é preferível optar por aparelhos eléctricos de alta qualidade. As lâmpadas LED também são mais caras, mas consomem apenas um décimo da eletricidade das lâmpadas convencionais." >}}
+{{< warning headline="Atenção: armadilha dos custos!" text="Frigoríficos, máquinas de lavar roupa e outros aparelhos eléctricos antigos podem ser comprados a preços muito baixos. Mas, no caso destes aparelhos em particular, é importante considerar os custos ao longo de toda a sua vida útil. Um aparelho que custa mais 200 euros quando é novo, mas que dura mais dez anos e consome menos 20% de eletricidade, pode poupar muito mais do que 200 euros. Por isso, é preferível optar por aparelhos eléctricos de alta qualidade. As lâmpadas LED também são mais caras, mas consomem apenas um décimo da eletricidade das lâmpadas convencionais." />}}
 
 Procure também as **ofertas especiais** dos retalhistas. Uma [comparação de preços](https://seatable.io/pt/vorlage/fsbfwc4fqocgqed7vczq9g/) pode valer a pena, especialmente se estiver a considerar uma nova compra dispendiosa.
 
@@ -131,9 +131,9 @@ Se comprar refeições prontas caras no supermercado em todas as pausas para o a
 
 Os gurus da boa forma e as suas empresas utilizam um marketing tentador para nos fazer crer que precisamos de complementar a nossa dieta com suplementos especiais, por exemplo, para construir músculo, aumentar o nosso metabolismo ou reforçar o nosso sistema imunitário. Gastam-se milhares de milhões em proteínas em pó e comprimidos de vitaminas, a maioria dos quais são completamente supérfluos.
 
-Em vez disso, certifique-se de que faz uma dieta equilibrada, pratica exercício físico suficiente e leva um estilo de vida saudável, e depois pode passar sem as supostas curas milagrosas que apenas acabam por aumentar o seu orçamento familiar.  
+Em vez disso, certifique-se de que faz uma dieta equilibrada, pratica exercício físico suficiente e leva um estilo de vida saudável, e depois pode passar sem as supostas curas milagrosas que apenas acabam por aumentar o seu orçamento familiar.
 
-{{< warning headline="Nota importante" text="Se os médicos comprovarem que tem uma carência de vitaminas ou oligoelementos, é evidente que não deve poupar nos medicamentos que contêm os princípios activos necessários em concentração suficiente." >}}
+{{< warning headline="Nota importante" text="Se os médicos comprovarem que tem uma carência de vitaminas ou oligoelementos, é evidente que não deve poupar nos medicamentos que contêm os princípios activos necessários em concentração suficiente." />}}
 
 ### 12\. o fim dos vícios dispendiosos
 

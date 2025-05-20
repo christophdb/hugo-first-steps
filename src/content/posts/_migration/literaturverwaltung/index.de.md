@@ -1,9 +1,9 @@
 ---
-title: "Literaturverwaltungsprogramm für mehr Durchblick"
+title: 'Literaturverwaltungsprogramm für mehr Durchblick'
 date: 2024-05-17
-lastmod: "2024-05-17"
-author: "rdb"
-url: "/de/literaturverwaltung"
+lastmod: '2024-05-17'
+author: 'rdb'
+url: '/de/literaturverwaltung'
 ---
 
 Ob Abschlussarbeit, Dissertation oder Forschungsbericht – ein **Literaturverwaltungsprogramm** erleichtert Ihnen die Arbeit an wissenschaftlichen Projekten. Genauso viel Zeit wie das Finden, Sichten und Auswerten von **Quellen** frisst dabei die Erstellung von **Literaturverzeichnissen**.
@@ -70,7 +70,7 @@ Zotero eignet sich besonders für Neulinge, da es intuitiv zu bedienen und für 
 
 Mendeley bietet Ihnen ein **Gratis-Abonnement** mit zwei Gigabyte Speicherplatz in der Cloud an. Sollte Ihnen das nicht reichen, können Sie gegen einen Preis auf Anfrage eine Version mit mehr Speicherplatz, zusätzlichem Support, weiteren Features und einer besseren Datenverschlüsselung erwerben. Das Programm läuft auf allen Betriebssystemen.
 
-{{< warning headline="Zugriff per App" text="Auch Mendeley bietet eine App über iOS an, mit welcher Sie immer mobilen Zugriff auf Ihre Literaturverwaltung haben." >}}
+{{< warning headline="Zugriff per App" text="Auch Mendeley bietet eine App über iOS an, mit welcher Sie immer mobilen Zugriff auf Ihre Literaturverwaltung haben." />}}
 
 Neben der Nutzung über das Desktop-Programm oder den Web Importer, können Sie Mendeley auch über ein **Word-Plugin** verwenden. Alle Ihre Daten, Dokumente und Ordner werden über die Cloud synchronisiert.
 
@@ -131,32 +131,27 @@ Nicht alle Informationen zu Ihren Quellen sind für die spätere Übertragung in
 Autoren|||
 
 Die Autoren sollten Sie mit Nach- und Vornamen und ggf. akademischen Titeln angeben. Neben den Autoren ist bei Sammelbänden auch der Name der Herausgeber zu nennen.
-
-\--- 
+{{< /faq >}}
 
 Jahr|||
 
 Neben der Jahreszahl müssen Sie bei Internetquellen auch Tag und Monat der Veröffentlichung angeben. Handelt es sich um eine Quelle ohne Jahresangabe, müssen Sie dies ebenfalls kenntlich machen.
-
-\--- 
+{{< /faq >}}
 
 Titel|||
 
 Der Titel bezieht sich auf den Titel des Artikels, des Buches oder des Kapitels, wenn es sich um einen Sammelband handelt. Dabei sollten Sie die Groß- und Kleinschreibung beachten.
-
-\--- 
+{{< /faq >}}
 
 Medium|||
 
 Meist reicht hier die Angabe der Zeitschrift oder des Werkes, in welchem der Artikel veröffentlicht wurde. Handelt es sich um Bücher, sollten Sie den Verlag nennen.
-
-\--- 
+{{< /faq >}}
 
 Ausgabe und Seitenzahl|||
 
 Diese Angaben sollten Sie so genau wie möglich notieren. Zählen Sie die Seitenzahlen nach, wenn diese nicht abgedruckt sind.
-
-\---
+{{< /faq >}}
 
 ### 3\. Neue Quellen mit dem Literaturverwaltungsprogramm recherchieren
 
@@ -176,7 +171,7 @@ Zotero bietet Ihnen die Möglichkeit, Quellen mit Markierungen zu versehen, nach
 
 Nicht alle Quellen werden nach dem gleichen Muster zitiert. Bereits zu Beginn Ihres Projekts sollten Sie sich entscheiden, welchen [**Zitationsstil**](https://www.scribbr.de/richtig-zitieren/uebersicht-zitierstile/) Sie verwenden. Haben Sie sich für einen Stil entschieden, sollten Sie diesen einheitlich durchziehen und auch in Ihrem Literaturverwaltungsprogramm einstellen. Mit dem Programm können Sie dann alle Ihre Quellen in diesem Stil formatieren und in Ihre Arbeit kopieren.
 
-{{< warning headline="Wichtiger Hinweis" text="Der Zitationsstil ist nicht nur entscheidend für die Darstellung Ihrer Quellen im Literaturverzeichnis, er wird auch verwendet, um Kurzverweise im Text zu setzen." >}}
+{{< warning headline="Wichtiger Hinweis" text="Der Zitationsstil ist nicht nur entscheidend für die Darstellung Ihrer Quellen im Literaturverzeichnis, er wird auch verwendet, um Kurzverweise im Text zu setzen." />}}
 
 ### 6\. Notizfunktion im Literaturverwaltungsprogramm nutzen
 

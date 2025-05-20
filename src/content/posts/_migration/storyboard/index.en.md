@@ -1,10 +1,10 @@
 ---
-title: "What a storyboard is and how to create one"
+title: 'What a storyboard is and how to create one'
 date: 2024-03-26
-lastmod: "2024-03-26"
-coverImage: "dix-sept-idiRDLFPH6A-unsplash.jpg"
-author: "nsc"
-url: "/storyboard"
+lastmod: '2024-03-26'
+coverImage: 'dix-sept-idiRDLFPH6A-unsplash.jpg'
+author: 'nsc'
+url: '/storyboard'
 ---
 
 Whether you're creating an image video for your company, a short film for a film festival or the next Hollywood blockbuster, creating a **storyboard** can make all the difference. A storyboard is not only a tool to structure your **creative ideas**, but also to ensure a **smooth production process**. This article will explain the importance and benefits of storyboards for film projects of all kinds and introduce a free storyboard template to help you bring your vision to life.
@@ -48,7 +48,7 @@ If your idea is already fully developed, you should write it down in a **script*
 
 This is followed by the **storyboard**, in which you transfer the plot of your screenplay in the form of visual sketches. Pay attention to details such as camera angles, atmosphere, sound and music to give your story depth.
 
-{{< warning headline="Tip" text="Don't forget to think about which actors, props or costumes you need for your project." >}}
+{{< warning headline="Tip" text="Don't forget to think about which actors, props or costumes you need for your project." />}}
 
 You should only start **filming** once both the script and storyboard have been finalized. Because in a film that is not completely planned and organized, the shoot often runs chaotically and with much more effort than is actually necessary.
 

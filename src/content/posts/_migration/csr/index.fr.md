@@ -1,9 +1,9 @@
 ---
-title: "RSE - les bases de la responsabilité sociale des entreprises"
+title: 'RSE - les bases de la responsabilité sociale des entreprises'
 date: 2024-04-08
-lastmod: "2025-05-19"
-author: "nsc"
-url: "/fr/csr"
+lastmod: '2025-05-19'
+author: 'nsc'
+url: '/fr/csr'
 ---
 
 À une époque où la tendance au **développement durable** se renforce de plus en plus, les entreprises sont confrontées au défi de répondre aux exigences accrues de leurs clients. La demande croissante de produits durables se reflète dans le comportement des consommateurs, qui accordent de plus en plus d'importance au respect de l'environnement et à la responsabilité sociale - mot-clé : **Corporate Social Responsibility (CSR)**.
@@ -63,7 +63,7 @@ Cependant, vous pouvez également rencontrer quelques défis sur votre chemin ve
 
 Les objectifs en matière de durabilité peuvent s'avérer **longs à** atteindre et il peut être démotivant de constater que les progrès sont lents. L'engagement dans des activités d'intérêt général peut également représenter **un effort supplémentaire**.
 
-{{< warning headline="Renoncer au greenwashing" text="Évitez à tout prix **le greenwashing**, car il peut entraîner une perte de crédibilité et nuire considérablement à votre réputation. Restez donc toujours honnête et transparent dans vos efforts et ne présentez pas votre entreprise comme plus durable qu'elle ne l'est réellement." >}}
+{{< warning headline="Renoncer au greenwashing" text="Évitez à tout prix **le greenwashing**, car il peut entraîner une perte de crédibilité et nuire considérablement à votre réputation. Restez donc toujours honnête et transparent dans vos efforts et ne présentez pas votre entreprise comme plus durable qu'elle ne l'est réellement." />}}
 
 ## Exemples de mesures appropriées
 

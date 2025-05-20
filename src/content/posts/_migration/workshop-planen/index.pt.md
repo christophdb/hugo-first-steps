@@ -1,9 +1,9 @@
 ---
-title: "Planeamento de workshops: Como organizar workshops sem stress"
+title: 'Planeamento de workshops: Como organizar workshops sem stress'
 date: 2024-01-15
-lastmod: "2024-01-15"
-author: "kgr"
-url: "/pt/workshop-planen"
+lastmod: '2024-01-15'
+author: 'kgr'
+url: '/pt/workshop-planen'
 ---
 
 Atualmente, a aprendizagem ao longo da vida é um dos aspectos mais importantes no que diz respeito às **qualificações profissionais** e ao **desenvolvimento pessoal**. Quer se trate de um workshop, de uma formação ou de um curso superior: Como empregador, é essencial que apoie os seus empregados e lhes ofereça oportunidades de desenvolvimento. Hoje em dia, para muitos trabalhadores, isto faz parte de um emprego atrativo e **a sua empresa beneficia** de muitas formas com trabalhadores bem formados.
@@ -30,7 +30,7 @@ A formação contínua, os cursos e os workshops têm, naturalmente, uma série 
 
 Em segundo lugar, os seus empregados têm **melhores perspectivas de promoção**, uma vez que as novas competências e qualidades de liderança podem alargar o seu campo de trabalho. Isto permite-lhe cobrir a **necessidade de especialistas e gestores** da sua própria força de trabalho, se necessário. E, por último, mas não menos importante, os workshops são também uma **mudança de ritmo** estimulante para os empregados quando não há novas tarefas e projectos no seu trabalho diário.
 
-{{< warning headline="Lealdade e satisfação dos empregados" text="A formação contínua, a formação e os workshops regulares podem não só aumentar a **produtividade** e a **empregabilidade**, mas também a [satisfação](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) dos seus empregados. Eles sentem-se levados a sério e vêem como um sinal positivo o facto de querer ouvir a sua opinião, envolvê-los em mudanças ou oferecer-lhes a oportunidade de se desenvolverem mais. Isto reforça **a lealdade dos empregados** à empresa e, a longo prazo, reduz a rotação do pessoal, o que significa que tem de gastar menos tempo e dinheiro a procurar e a recrutar novos empregados." >}}
+{{< warning headline="Lealdade e satisfação dos empregados" text="A formação contínua, a formação e os workshops regulares podem não só aumentar a **produtividade** e a **empregabilidade**, mas também a [satisfação](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) dos seus empregados. Eles sentem-se levados a sério e vêem como um sinal positivo o facto de querer ouvir a sua opinião, envolvê-los em mudanças ou oferecer-lhes a oportunidade de se desenvolverem mais. Isto reforça **a lealdade dos empregados** à empresa e, a longo prazo, reduz a rotação do pessoal, o que significa que tem de gastar menos tempo e dinheiro a procurar e a recrutar novos empregados." />}}
 
 ## Gerir seminários - uma tarefa fácil com o software certo
 
@@ -88,7 +88,7 @@ Dependendo do tema da oficina, diferentes métodos e materiais são adequados pa
 - As **dramatizações interactivas** são ideais para a formação em gestão, por exemplo, porque é possível assumir a perspetiva de diferentes membros da equipa e praticar a gestão de conflitos.
 - Outro método que permite analisar um tópico de diferentes perspectivas é o dos **6 chapéus pensantes** de Bono. Os participantes são divididos em seis grupos: O chapéu branco representa os factos, o chapéu vermelho as emoções, o chapéu amarelo as oportunidades, o chapéu preto os riscos, o chapéu verde as ideias e o chapéu azul as estruturas.
 
-{{< warning headline="Dica" text="Se vai utilizar uma **apresentação** para o seu seminário, deve testar previamente se a **tecnologia** (projetor, altifalantes, cabos para o computador portátil) está a funcionar corretamente." >}}
+{{< warning headline="Dica" text="Se vai utilizar uma **apresentação** para o seu seminário, deve testar previamente se a **tecnologia** (projetor, altifalantes, cabos para o computador portátil) está a funcionar corretamente." />}}
 
 ## Criar certificados
 

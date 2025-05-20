@@ -1,9 +1,9 @@
 ---
-title: "RSE - noções básicas de responsabilidade social das empresas"
+title: 'RSE - noções básicas de responsabilidade social das empresas'
 date: 2024-04-08
-lastmod: "2025-05-19"
-author: "nsc"
-url: "/pt/csr"
+lastmod: '2025-05-19'
+author: 'nsc'
+url: '/pt/csr'
 ---
 
 Numa altura em que a tendência para a **sustentabilidade** está a ganhar força, as empresas são confrontadas com o desafio de satisfazer as expectativas mais elevadas dos seus clientes. A procura crescente de produtos sustentáveis reflecte-se no comportamento dos consumidores, que valorizam cada vez mais a compatibilidade ambiental e a responsabilidade social - palavra-chave: **Responsabilidade Social das Empresas (R**SE).
@@ -63,7 +63,7 @@ No entanto, também pode encontrar alguns desafios no seu caminho para se tornar
 
 Os objectivos de sustentabilidade podem ser **longos** e podem ser desmotivadores se os progressos forem lentos. O envolvimento em actividades caritativas também pode significar um **esforço adicional**.
 
-{{< warning headline="Não fazer greenwashing" text="Evite a todo o custo **o "greenwashing**", uma vez que isso pode levar a uma perda de credibilidade e prejudicar significativamente a sua reputação. Por conseguinte, mantenha-se sempre honesto e transparente nos seus esforços e não apresente a sua empresa como mais sustentável do que realmente é." >}}
+{{< warning headline="Não fazer greenwashing" text="Evite a todo o custo **o "greenwashing**", uma vez que isso pode levar a uma perda de credibilidade e prejudicar significativamente a sua reputação. Por conseguinte, mantenha-se sempre honesto e transparente nos seus esforços e não apresente a sua empresa como mais sustentável do que realmente é." />}}
 
 ## Exemplos de medidas adequadas
 

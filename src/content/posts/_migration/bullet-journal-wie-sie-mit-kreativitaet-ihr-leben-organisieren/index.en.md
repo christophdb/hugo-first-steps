@@ -1,10 +1,10 @@
 ---
-title: "Bullet journal - how to organize your life with creativity"
+title: 'Bullet journal - how to organize your life with creativity'
 date: 2023-12-19
-lastmod: "2024-01-25"
-coverImage: "Bullet-Journal-Dot-Grid-Blank-Journal-.png"
-author: "lsc"
-url: "/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren"
+lastmod: '2024-01-25'
+coverImage: 'Bullet-Journal-Dot-Grid-Blank-Journal-.png'
+author: 'lsc'
+url: '/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren'
 ---
 
 In often stressful everyday life, it is difficult to reconcile tasks, appointments and your own interests. To make sure you don't lose sight of the things that are really important to you in life in the daily pile of monotonous routines, it helps to write them down. A **bullet journal** is ideal for this, in which you can record everything important and give free rein to your creativity.
@@ -13,7 +13,7 @@ Find out how a bullet journal works and what you need to know to design a bullet
 
 ## What is a bullet journal?
 
-A bullet journal helps you to organize your **Organize everyday life** and keep track of all your tasks, appointments and needs. The journal functions as a combination of diary, project planner and notebook. It also offers enough space to accommodate your individual topic preferences. The bullet journal sets your **Creativity** no limits. Because unlike conventional calendars, there are no ready-made pages. You design them yourself and fill them according to your own ideas.  
+A bullet journal helps you to organize your **Organize everyday life** and keep track of all your tasks, appointments and needs. The journal functions as a combination of diary, project planner and notebook. It also offers enough space to accommodate your individual topic preferences. The bullet journal sets your **Creativity** no limits. Because unlike conventional calendars, there are no ready-made pages. You design them yourself and fill them according to your own ideas.
 
 ![This is what a bullet journal with a monthly and daily overview can look like.](images/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
@@ -29,7 +29,7 @@ This calendar method was invented by New York graphic designer Ryder Carroll. Bo
 
 ## The right starter pack
 
-Getting started with bullet journaling is very easy. All you need is a **Notebook** and a **Pen**. It is a good idea to start with what you have at home. You can try out whether you like journaling. If you like it and want to get creative, you can buy more tools.  
+Getting started with bullet journaling is very easy. All you need is a **Notebook** and a **Pen**. It is a good idea to start with what you have at home. You can try out whether you like journaling. If you like it and want to get creative, you can buy more tools.
 
 ![Yours](images/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
@@ -41,7 +41,7 @@ Notebooks with **a dot grid** serve as a basis, as this offers a certain freedom
 
 As mentioned above, the focus is on the realization of your own ideas. However, there is a **basic system** that you can use as a guide for the structure of your journal.
 
-This consists primarily of **time overviews**in which you can enter your tasks and appointments. There are also **Collections**. These are pages that serve your free and individual development. Below you will find a collection of ideas that you can adopt or be inspired by.  
+This consists primarily of **time overviews**in which you can enter your tasks and appointments. There are also **Collections**. These are pages that serve your free and individual development. Below you will find a collection of ideas that you can adopt or be inspired by.
 
 ![Your bullet journal should contain the items Index, Key, Future Log, Monthly Log, Daily Log and Collectives.](images/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
@@ -54,6 +54,7 @@ The basic structure of your bullet journal consists of three parts. The **index*
 This is followed by the **key**. This is a kind of legend. The symbols and their meaning are recorded there. This technique is called **rapid logging**.
 
 {{< warning headline="This is how you can design your key" text="- Hyphen = Notes
+
 - Point = task
 - Paint over the dot with a cross = task is completed
 - Point with arrow pointing to the right = task shifted
@@ -68,7 +69,7 @@ Based on this, you then create a **monthly log**. This contains all important ap
 
 The **Daily Log** goes into even more detail. This is created on a weekly basis and offers the option of flexibly entering daily events.
 
-{{< warning headline="The correct arrangement of the calendars" text="The order of the overviews usually follows this pattern: annual overview, monthly overview January, daily overview January, monthly overview February, daily overview February, ..." >}}
+{{< warning headline="The correct arrangement of the calendars" text="The order of the overviews usually follows this pattern: annual overview, monthly overview January, daily overview January, monthly overview February, daily overview February, ..." />}}
 
 ### The Collections
 

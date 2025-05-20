@@ -63,7 +63,7 @@ Reimbursement of expenses can quickly overwhelm you without a good structure.
 
 The reimbursement of expenses poses its own challenges. In particular, the **bureaucratic effort** involved should not be underestimated - receipts and documentation pile up in folders and take up **space**. In order for you to be able to settle accounts in full, every receipt and every invoice must be meticulously submitted. However, there is a risk that the receipts will be lost more quickly than you would like.
 
-{{< warning headline="Tip" text="If you do lose a receipt, you can create **your own receipt**. Before doing this, however, it is advisable to consult your local tax office, as there is no general obligation to recognize this." >}}
+{{< warning headline="Tip" text="If you do lose a receipt, you can create **your own receipt**. Before doing this, however, it is advisable to consult your local tax office, as there is no general obligation to recognize this." />}}
 
 The process of reimbursing expenses is not only **time-consuming**, but also **error-prone**, especially if it is still done on paper. You need to be completely on top of things to avoid accidentally transposing figures. There are also the **format specifications** of the tax office to consider, as they only accept contiguous PDFs.
 

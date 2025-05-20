@@ -1,22 +1,22 @@
 ---
-title: "Bewerbungsschreiben: Wie Sie jeden Personaler überzeugen"
+title: 'Bewerbungsschreiben: Wie Sie jeden Personaler überzeugen'
 date: 2024-04-22
-lastmod: "2024-04-22"
-author: "lsc"
-url: "/de/bewerbungsschreiben"
+lastmod: '2024-04-22'
+author: 'lsc'
+url: '/de/bewerbungsschreiben'
 ---
 
 Egal, ob Praktikum, Ausbildung oder Festanstellung – der erste Schritt auf dem Weg zum Traumjob ist immer eine erfolgreiche **Bewerbung**. Sie haben viele interessante **Stellenangebote** gefunden, doch das Schreiben der Bewerbungen bereitet Ihnen Kopfzerbrechen? Keine Sorge, damit sind Sie nicht allein. Für viele ist das **Bewerbungsschreiben** ein großes Hindernis, denn es erfordert eine ehrliche Selbsteinschätzung und ist mit einer aufwändigen Formulierung der eigenen Fähigkeiten verbunden.
 
 Doch der Arbeitsaufwand lohnt sich, denn nur ein gelungenes Bewerbungsschreiben öffnet Ihnen die Türen zu einem persönlichen **Vorstellungsgespräch** und bringt Sie einen Schritt näher zu Ihrem **Traumjob**. Im Folgenden erfahren Sie, worauf Sie beim Schreiben Ihrer Bewerbung achten sollten.
 
-{{< warning headline="Tipp" text="Um den Überblick über Ihre Bewerbungen zu behalten, bietet sich auch ein Planungstool an. [Hier](https://seatable.io/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) erfahren Sie, wie Sie mit diesem Tool per Knopfdruck aus einer Vorlage verschiedene Bewerbungsschreiben erzeugen können." >}}
+{{< warning headline="Tipp" text="Um den Überblick über Ihre Bewerbungen zu behalten, bietet sich auch ein Planungstool an. [Hier](https://seatable.io/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) erfahren Sie, wie Sie mit diesem Tool per Knopfdruck aus einer Vorlage verschiedene Bewerbungsschreiben erzeugen können." />}}
 
 ## Warum ein Bewerbungsschreiben wichtig ist
 
 Das Bewerbungsschreiben ist ein fester Bestandteil jeder Bewerbung. Während Sie im **Lebenslauf** Ihre **Hard Skills** unterbringen, widmen Sie Ihr Anschreiben Ihren **Soft Skills**. Diese haben in den letzten Jahren immer mehr an Bedeutung gewonnen, weswegen auch das persönliche Bewerbungsschreiben im Auswahlverfahren mehr in den Fokus gerückt ist.
 
-{{< warning headline="Hard versus Soft Skills" text="Unter Hard Skills fällt das gesamte fachliche Wissen, welches Sie sich durch Arbeit, Praktika oder Freizeitaktivitäten angeeignet haben. [Soft Skills](https://www.karriereakademie.de/soft-skills) hingegen fassen Eigenschaften zusammen, welche Ihre Persönlichkeit ausmachen." >}}
+{{< warning headline="Hard versus Soft Skills" text="Unter Hard Skills fällt das gesamte fachliche Wissen, welches Sie sich durch Arbeit, Praktika oder Freizeitaktivitäten angeeignet haben. [Soft Skills](https://www.karriereakademie.de/soft-skills) hingegen fassen Eigenschaften zusammen, welche Ihre Persönlichkeit ausmachen." />}}
 
 Mit einem Anschreiben haben Sie die Möglichkeit, sich selbstbewusst zu präsentieren und Ihre positiven Eigenschaften hervorzuheben. Dabei geht es einerseits um **Selbstdarstellung** durch das Auflisten von relevanten Qualifikationen, andererseits um das sprachliche Hervortun aus der Masse an Bewerbern.
 
@@ -51,7 +51,7 @@ Verbinden Sie die erlernten Soft Skills mit den dazugehörigen Hard Skills.
 
 Alle Qualifikationen, welche Sie nicht als **bewerbungsrelevant** markiert haben, können Sie zur Seite legen. Seien Sie dabei konsequent und streichen Sie auch Informationen, welche zwar etwas Positives über Sie aussagen, aber nicht zur Stelle passen.
 
-{{< warning headline="Tipp: Perspektive wechseln" text="Bedenken Sie immer: Ihr Bewerbungsschreiben muss dem Personaler gefallen und nicht Ihnen. Womit kann ein Bewerber für diese Stelle punkten? Weitere spannende Eigenschaften von Ihnen können Sie gegebenenfalls in einem späteren Vorstellungsgespräch anbringen." >}}
+{{< warning headline="Tipp: Perspektive wechseln" text="Bedenken Sie immer: Ihr Bewerbungsschreiben muss dem Personaler gefallen und nicht Ihnen. Womit kann ein Bewerber für diese Stelle punkten? Weitere spannende Eigenschaften von Ihnen können Sie gegebenenfalls in einem späteren Vorstellungsgespräch anbringen." />}}
 
 ## Bewerbungsübersicht anlegen
 
@@ -61,7 +61,7 @@ Wenn Sie SeaTable für Ihren Bewerbungsplaner nutzen möchten, [registrieren](ht
 
 ## Formalien in Ihrem Bewerbungsschreiben
 
-Bevor Sie mit dem Formulieren Ihrer Bewerbung beginnen, gilt es, ein **einheitliches Design** für alle Ihre Bewerbungsunterlagen festzulegen. Damit sieht Ihre Bewerbung nicht nur auf den ersten Blick stimmiger aus, sondern Sie vermitteln, dass Sie **ordentlich** und **sauber** arbeiten.  
+Bevor Sie mit dem Formulieren Ihrer Bewerbung beginnen, gilt es, ein **einheitliches Design** für alle Ihre Bewerbungsunterlagen festzulegen. Damit sieht Ihre Bewerbung nicht nur auf den ersten Blick stimmiger aus, sondern Sie vermitteln, dass Sie **ordentlich** und **sauber** arbeiten.
 
 ![Suchen Sie eine passende Schriftart, Zeilenabstand und Schriftgröße aus.](https://seatable.io/wp-content/uploads/2024/04/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
@@ -91,7 +91,7 @@ Der Briefkopf wird klassischerweise verwendet, wenn Sie Ihr Bewerbungsschreiben 
 
 Die Adresse sollte in jedem Fall fehlerfrei und lückenlos sein. Überprüfen Sie, ob der **Firmenname** vollständig ist. Um unnötige Fehler zur vermeiden, übernehmen Sie die Schreibweise des Unternehmens von der Webseite. Der **Name Ihres Ansprechpartners** sollte stimmen und wenn angegeben mit akademischem Titel genannt werden.
 
-{{< warning headline="So finden Sie den richtigen Ansprechpartner" text="Nicht immer steht in der **Stellenanzeige** der Name Ihres Ansprechpartners dabei. Diesen sollten Sie bestenfalls jedoch ausfindig machen. Auf den **Job- oder Karriere-Seiten des Unternehmens** finden Sie meist einen Kontakt. Sollte das nicht der Fall sein, können Sie den Namen auch telefonisch erfragen." >}}
+{{< warning headline="So finden Sie den richtigen Ansprechpartner" text="Nicht immer steht in der **Stellenanzeige** der Name Ihres Ansprechpartners dabei. Diesen sollten Sie bestenfalls jedoch ausfindig machen. Auf den **Job- oder Karriere-Seiten des Unternehmens** finden Sie meist einen Kontakt. Sollte das nicht der Fall sein, können Sie den Namen auch telefonisch erfragen." />}}
 
 Mit einigem Abstand folgt dann rechtsbündig die Angabe des **Datums**. Dieses ist in Deutschland wie folgt aufgebaut:
 
@@ -147,7 +147,7 @@ Nun fehlt nur noch Ihre **handschriftliche Unterschrift**. Diese können Sie ent
 
 Die geforderten Anlagen listen Sie am Ende Ihres Anschreibens unter der Überschrift **Anlagen** oder **Anhang** auf. Dazu gehören meist der **Lebenslauf, Arbeits- und Praktikumszeugnisse sowie Zertifikate**. Diese fügen Sie Ihrer Bewerbung in einer gesonderten **PDF-Datei** bei.
 
-{{< warning headline="Reihenfolge der Dokumente" text="Die Reihenfolge, in der Sie die Dokumente in Ihrem Bewerbungsschreiben auflisten, muss mit der Aneinanderreihung Ihrer Unterlagen in der PDF-Datei übereinstimmen. In der Regel kommt der Lebenslauf als wichtigstes Dokument zuerst." >}}
+{{< warning headline="Reihenfolge der Dokumente" text="Die Reihenfolge, in der Sie die Dokumente in Ihrem Bewerbungsschreiben auflisten, muss mit der Aneinanderreihung Ihrer Unterlagen in der PDF-Datei übereinstimmen. In der Regel kommt der Lebenslauf als wichtigstes Dokument zuerst." />}}
 
 ## Sonderformen des Bewerbungsschreibens
 
@@ -177,7 +177,7 @@ Inhaltlich steht Ihre Bewerbung und Sie wollen ihr den letzten Schliff verpassen
 
 ### Dos und Don’ts
 
-Achten Sie auf Ihren Schreibstil und die von Ihnen verwendeten Formulierungen.  
+Achten Sie auf Ihren Schreibstil und die von Ihnen verwendeten Formulierungen.
 
 ![Ihr Anschreiben können Sie mit der Beachtung von Dos und Don'ts aufwerten.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
@@ -194,26 +194,22 @@ Hier finden Sie Formulierungshilfen für verschiedene Situationen im Anschreiben
 Unternehmens- und Themenbezug herstellen|||
 
 “Bei mehreren Praktika in der Medienbranche habe ich bereits Einblicke in die journalistische Arbeit erhalten. Nun möchte ich meine dort erarbeiteten Kompetenzen in die PR Ihres internationalen Unternehmens einbringen und weiterentwickeln.”
-
-\--- 
+{{< /faq >}}
 
 Berufserfahrung gewinnbringend verpacken|||
 
 “Durch meine 10-jährige Tätigkeit im Verkauf weiß ich, wie man Kunden im direkten Kontakt begeistert, weshalb ich den Umsatz in Ihrem Sales Team erfolgreich steigern kann.”
-
-\--- 
+{{< /faq >}}
 
 Fachliche Qualifikationen herausarbeiten|||
 
 “Dank meines Romanistikstudiums beherrsche ich Spanisch und Französisch auf dem Level B2 und habe diese Kenntnisse bei Auslandspraktika in Madrid und Paris praktisch angewandt und vertieft.”
-
-\--- 
+{{< /faq >}}
 
 Soft Skills begründen|||
 
 “In meiner Position als stellvertretender Teamleiter habe ich einen kollegialen Führungsstil entwickelt, mit dem ich meinen Mitarbeitenden auf Augenhöhe begegne und ihnen Aufgaben anhand ihrer individuellen Fähigkeiten zuteile. Gemeinsam haben wir das Projekt in der Hälfte der vorgegebenen Zeit durchgeführt.”
-
-\---
+{{< /faq >}}
 
 ### Checkliste
 

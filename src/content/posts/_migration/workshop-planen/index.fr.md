@@ -1,9 +1,9 @@
 ---
-title: "Planifier un atelier : comment organiser des ateliers sans stress"
+title: 'Planifier un atelier : comment organiser des ateliers sans stress'
 date: 2024-01-15
-lastmod: "2024-01-15"
-author: "kgr"
-url: "/fr/workshop-planen"
+lastmod: '2024-01-15'
+author: 'kgr'
+url: '/fr/workshop-planen'
 ---
 
 L’apprentissage tout au long de la vie est l’une des choses les plus importantes de nos jours lorsqu’il s’agit de **qualifications professionnelles** et de **développement personnel** . Qu’il s’agisse d’un atelier, d’une formation ou d’une formation continue : en tant qu’employeur, il est essentiel que vous souteniez vos collaborateurs et leur offriez des possibilités de développement. Après tout, il s’agit d’un emploi attrayant pour de nombreux employés aujourd’hui et **votre entreprise bénéficie** à bien des égards d’employés bien formés.
@@ -30,7 +30,7 @@ Pour vous et vos collaborateurs, les formations continues, les formations et les
 
 D'autre part, vos collaborateurs développent **de meilleures chances de promotion**, car de nouvelles compétences et qualités de direction peuvent élargir leur champ d'action. Cela vous permet de couvrir vos **besoins en personnel qualifié et de direction**, le cas échéant, à partir de votre propre personnel. Enfin, les ateliers constituent également un **changement** passionnant pour les employés lorsqu'il n'y a pas de nouvelles tâches ou de nouveaux projets dans leur travail quotidien.
 
-{{< warning headline="Fidélisation et satisfaction des employés" text="Des formations continues, des formations et des ateliers réguliers peuvent non seulement augmenter la **productivité** et la **capacité d'intervention**, mais aussi la [satisfaction de](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) vos collaborateurs. Ils se sentent pris au sérieux et considèrent comme un signal positif le fait que vous souhaitiez écouter leur avis, les impliquer dans les changements ou leur offrir la possibilité d'évoluer. Cela renforce l'**attachement des collaborateurs** à l'entreprise et a pour conséquence, à long terme, de réduire le taux de rotation du personnel et de vous faire dépenser moins de temps et d'argent pour la recherche et le recrutement de nouveaux collaborateurs." >}}
+{{< warning headline="Fidélisation et satisfaction des employés" text="Des formations continues, des formations et des ateliers réguliers peuvent non seulement augmenter la **productivité** et la **capacité d'intervention**, mais aussi la [satisfaction de](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) vos collaborateurs. Ils se sentent pris au sérieux et considèrent comme un signal positif le fait que vous souhaitiez écouter leur avis, les impliquer dans les changements ou leur offrir la possibilité d'évoluer. Cela renforce l'**attachement des collaborateurs** à l'entreprise et a pour conséquence, à long terme, de réduire le taux de rotation du personnel et de vous faire dépenser moins de temps et d'argent pour la recherche et le recrutement de nouveaux collaborateurs." />}}
 
 ## Gérer des ateliers - un jeu d'enfant avec le bon logiciel
 
@@ -88,7 +88,7 @@ Selon le thème de l'atelier, différentes méthodes et différents matériaux c
 - **Les jeux de rôle interactifs** sont idéaux pour la formation au leadership, par exemple, car vous pouvez adopter le point de vue de différents membres de l’équipe et vous entraîner à gérer les conflits.
 - Une autre méthode pour examiner un sujet sous différents angles est **les 6 chapeaux de la pensée de de Bono** . Vous divisez les participants en six groupes : le chapeau blanc représente les faits, le rouge les émotions, le jaune les opportunités, le noir les risques, le vert les idées et le bleu les structures.
 
-{{< warning headline="Conseil" text="Si vous utilisez une **présentation** dans votre atelier, vous devez tester au préalable si la **technologie** (projecteur, haut-parleurs, câbles pour l’ordinateur portable) fonctionne parfaitement." >}}
+{{< warning headline="Conseil" text="Si vous utilisez une **présentation** dans votre atelier, vous devez tester au préalable si la **technologie** (projecteur, haut-parleurs, câbles pour l’ordinateur portable) fonctionne parfaitement." />}}
 
 ## Créer des certificats
 

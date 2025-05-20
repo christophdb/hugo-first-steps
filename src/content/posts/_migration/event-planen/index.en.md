@@ -1,10 +1,10 @@
 ---
-title: "Event planning in 10 steps incl. template for your event management"
+title: 'Event planning in 10 steps incl. template for your event management'
 date: 2024-03-07
-lastmod: "2024-03-07"
-coverImage: "pexels-matheus-bertelli-2608517.jpg"
-author: "nsc"
-url: "/event-planen"
+lastmod: '2024-03-07'
+coverImage: 'pexels-matheus-bertelli-2608517.jpg'
+author: 'nsc'
+url: '/event-planen'
 ---
 
 If you want to plan the perfect event, there's a lot to consider. But what's the best place to start if you're not familiar with event management? And how do you avoid planning errors, scheduling conflicts and cancellations?
@@ -23,7 +23,7 @@ It is also important to determine what kind of event you are planning right at t
 
 This information allows you to make informed decisions during the planning phase and better tailor the event to your target audience.
 
-{{< warning headline="Tip" text="A specific and measurable goal helps you to evaluate the success of your event after the event." >}}
+{{< warning headline="Tip" text="A specific and measurable goal helps you to evaluate the success of your event after the event." />}}
 
 ## 2\. develop concept
 
@@ -49,7 +49,7 @@ To ensure that you do not plan an event that exceeds your budget, it is crucial 
 
 By carefully planning and budgeting for these main cost points and additional expenses for your event, you can ensure that your event stays within budget and that there are no unexpected costs. If you are planning a commercial event, you can use this as a basis for calculating **how much** you need to charge to cover the costs.
 
-{{< warning headline="Tip" text="You may be able to reduce the costs with **volunteers** or **sponsors**." >}}
+{{< warning headline="Tip" text="You may be able to reduce the costs with **volunteers** or **sponsors**." />}}
 
 ## 4\. create schedule
 
@@ -57,7 +57,7 @@ The be-all and end-all in event management is to start planning early. Reservati
 
 Such a schedule not only allows you to determine exactly when which step needs to be taken, but also to identify potential delays at an early stage. It is important to plan in a **buffer** to compensate for unforeseen changes to the plan and thus minimize potential time pressure and stress.
 
-{{< warning headline="Tip" text="Check in advance whether your appointment overlaps with other important dates, public holidays or school vacations." >}}
+{{< warning headline="Tip" text="Check in advance whether your appointment overlaps with other important dates, public holidays or school vacations." />}}
 
 ![Event management: Hourglass on a newspaper](images/pexels-pixabay-39396-711x536.jpg)
 
@@ -99,7 +99,7 @@ For commercial events such as festivals, targeted advertising via **social media
 
 It is important to start the advertising measures in good time and to prepare the messages in an appealing and informative way in order to arouse the interest of your target group and achieve a high number of visitors.
 
-{{< warning headline="Tip" text="By posting highlights, photos and videos on [social media](https://seatable.io/en/social-media-plan-vorlage/), you can extend the presence and impact of your event beyond the actual date." >}}
+{{< warning headline="Tip" text="By posting highlights, photos and videos on [social media](https://seatable.io/en/social-media-plan-vorlage/), you can extend the presence and impact of your event beyond the actual date." />}}
 
 ## 9\. observe safety and legal requirements
 

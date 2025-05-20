@@ -1,9 +1,9 @@
 ---
 title: "SeaTable 5.0 : constructeur d'applications, nouveaux plug-ins et accessibilité accrue"
 date: 2024-07-15
-lastmod: "2024-07-15"
-author: "kgr"
-url: "/fr/seatable-release-5-0"
+lastmod: '2024-07-15'
+author: 'kgr'
+url: '/fr/seatable-release-5-0'
 ---
 
 C'est parti : notre App-Builder est officiellement lancé ! Grâce à cette version de notre **base de données No-Code avec No-Code-App-Builder intégré**, tout le monde, programmeurs ou Citizen Developer, pourra désormais créer ses propres applications en toute simplicité ! Avec SeaTable 5.0, nous sommes prêts à occuper une position de leader sur le marché international de la transformation et de l'innovation numériques.
@@ -52,7 +52,7 @@ Le tableau blanc est le premier plugin qui fonctionne indépendamment des donné
 
 ![Plugin de tableau blanc](images/Whiteboard-Plugin.png)
 
-{{< warning headline="SeaTable ♥ Excalidraw" text="Le plugin pour tableau blanc est basé sur le logiciel populaire [Excalidraw](https://plus.excalidraw.com/), que de nombreux utilisateurs connaissent déjà. Une restriction importante doit être mentionnée : Au lancement de SeaTable 5.0, le tableau blanc ne supportera pas la collaboration en direct. Nous y remédierons prochainement." >}}
+{{< warning headline="SeaTable ♥ Excalidraw" text="Le plugin pour tableau blanc est basé sur le logiciel populaire [Excalidraw](https://plus.excalidraw.com/), que de nombreux utilisateurs connaissent déjà. Une restriction importante doit être mentionnée : Au lancement de SeaTable 5.0, le tableau blanc ne supportera pas la collaboration en direct. Nous y remédierons prochainement." />}}
 
 ## Amélioration de l'accessibilité
 

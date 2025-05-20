@@ -1,10 +1,10 @@
 ---
-title: "Keeping an overview with an editorial plan for social media"
+title: 'Keeping an overview with an editorial plan for social media'
 date: 2024-02-07
-lastmod: "2025-01-17"
-coverImage: "Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg"
-author: "rdb"
-url: "/social-media-plan-vorlage"
+lastmod: '2025-01-17'
+coverImage: 'Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg'
+author: 'rdb'
+url: '/social-media-plan-vorlage'
 ---
 
 To achieve measurable success on social media platforms, you need to continuously publish new content. And often several times a week for different channels, such as LinkedIn, Instagram, Facebook, X or YouTube. You need to **post interesting and entertaining content on time**. A **social media editorial plan** will help you with this. Read this article to find out how to develop a successful social media strategy with a social media plan.
@@ -23,7 +23,7 @@ An editorial plan for social media ensures structured processes and a uniform ap
 
 The next advantage of a content plan for social media is that you can **collect unlimited ideas**. If an idea for a social media post comes to fruition, you can simply roll it out to your individual channels and **create customized content**. This means you always have posts in the pipeline in case you run out of creativity when creating new content. After all, there's nothing worse than having to produce creative content under time pressure and then not having any good ideas.
 
-{{< warning headline="Good to know" text="The algorithms of Instagram, Facebook, LinkedIn and co. **recognize regular activity and reward it with more visibility**. You should therefore avoid idle time on your social media channels as far as possible." >}}
+{{< warning headline="Good to know" text="The algorithms of Instagram, Facebook, LinkedIn and co. **recognize regular activity and reward it with more visibility**. You should therefore avoid idle time on your social media channels as far as possible." />}}
 
 ### 3\. plan appointments
 
@@ -31,7 +31,7 @@ It should be possible to display the editorial plan in a calendar. This allows y
 
 ![Template for social media plan](images/Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
 
-Plan the dates for your posts in a calendar. Image rights: © mizar\_21984 / Adobe Stock
+Plan the dates for your posts in a calendar. Image rights: © mizar_21984 / Adobe Stock
 
 ### 4\. systematically organize content
 

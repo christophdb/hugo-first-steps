@@ -1,9 +1,9 @@
 ---
-title: "Crear una lista de inventario: con una plantilla gratuita, Excel o Word"
+title: 'Crear una lista de inventario: con una plantilla gratuita, Excel o Word'
 date: 2024-02-23
-lastmod: "2025-01-10"
-author: "kgr"
-url: "/es/inventarliste-vorlagen"
+lastmod: '2025-01-10'
+author: 'kgr'
+url: '/es/inventarliste-vorlagen'
 ---
 
 ¿Realiza un **inventario** cada año o incluso cada mes? Entonces ha llegado al lugar adecuado. En este artículo, aprenderá a crear su **lista de** inventario, estandarizar el proceso y simplificar su inventario. Puede importar una lista de inventario a Excel o crear su propia plantilla en Word. También descubrirá qué ventajas ofrece una base de datos gratuita como **SeaTable frente a Excel y Word**.
@@ -31,7 +31,7 @@ Los activos (fijos y circulantes) y pasivos de su empresa forman parte del inven
 - **Los activos fijos incluyen activos** que se utilizan de forma permanente para las operaciones comerciales de su empresa. Pueden ser propiedades, maquinaria, equipos técnicos, vehículos, mobiliario de oficina, activos financieros o derechos y activos intangibles como patentes.
 - **Los activos corrientes son todos los activos** que la empresa sólo posee para su venta a corto plazo, su consumo, su transformación posterior o su reembolso. Suelen ser la base (por ejemplo, materias primas y fuentes de energía en existencias) o el resultado (por ejemplo, productos acabados, saldos bancarios, cuentas por cobrar) del proceso de producción.
 
-{{< warning headline="No es necesario inventariarlo" text="No tiene que hacer inventario de **los bienes fungibles de corta duración que pierden su valor en 12 meses** o se destruyen con el uso. Se trata, por ejemplo, de cartuchos de impresora, artículos de aseo o alimentos, independientemente del precio de compra." >}}
+{{< warning headline="No es necesario inventariarlo" text="No tiene que hacer inventario de **los bienes fungibles de corta duración que pierden su valor en 12 meses** o se destruyen con el uso. Se trata, por ejemplo, de cartuchos de impresora, artículos de aseo o alimentos, independientemente del precio de compra." />}}
 
 ## Tipos de inventario
 
@@ -45,7 +45,7 @@ También influye a **la hora de** crear el inventario:
 
 ![Trabajador de almacén hace inventario en Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
-Debe comparar periódicamente su lista de inventario con las existencias reales. Derechos de imagen: zephyr\_p / Adobe Stock
+Debe comparar periódicamente su lista de inventario con las existencias reales. Derechos de imagen: zephyr_p / Adobe Stock
 
 ## ¿Por qué es importante elaborar una lista de inventario?
 

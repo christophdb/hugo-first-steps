@@ -1,9 +1,9 @@
 ---
-title: "Qualitative Inhaltsanalyse einfach erklärt – Beispiel: Pressespiegel"
+title: 'Qualitative Inhaltsanalyse einfach erklärt – Beispiel: Pressespiegel'
 date: 2024-03-11
-lastmod: "2024-03-11"
-author: "lsc"
-url: "/de/qualitative-inhaltsanalyse"
+lastmod: '2024-03-11'
+author: 'lsc'
+url: '/de/qualitative-inhaltsanalyse'
 ---
 
 Ob in der Forschung oder in der Arbeitswelt: Eine **qualitative Inhaltsanalyse** hilft Ihnen, strukturiert Datenmaterial auszuwerten. Wie Sie dabei am besten vorgehen und worauf Sie achten sollten, erfahren Sie in diesem Artikel. Im Anschluss wird die Durchführung einer Inhaltsanalyse auch an einem **Pressespiegel** beleuchtet.
@@ -14,7 +14,7 @@ Die qualitative Inhaltsanalyse ist eine wissenschaftliche Methode der empirische
 
 Wie genau Sie die Inhaltsanalyse konzipieren sollten, ist abhängig von den Ergebnissen, welche Sie mit Ihrer Forschungsfrage erzielen wollen.
 
-{{< warning headline="Woher die Analyseform stammt" text="Einer der Mitbegründer der qualitativen Inhaltsanalyse ist Philipp Mayring. Der deutsche Psychologe, Soziologe und Pädagoge veröffentlichte 1983 sein Werk _Qualitative Inhaltsanalyse. Grundlagen und Techniken_." >}}
+{{< warning headline="Woher die Analyseform stammt" text="Einer der Mitbegründer der qualitativen Inhaltsanalyse ist Philipp Mayring. Der deutsche Psychologe, Soziologe und Pädagoge veröffentlichte 1983 sein Werk _Qualitative Inhaltsanalyse. Grundlagen und Techniken_." />}}
 
 ## Qualitative vs. Quantitative Inhaltsanalyse
 
@@ -24,7 +24,8 @@ Grundsätzlich gibt es für die Inhaltsanalyse einen **qualitativen** und einen 
 
 Bei der qualitativen Inhaltsanalyse legen Sie Ihren Fokus auf eine **geringe Anzahl** an Inhalten, welche Sie einer tiefgründigen Analyse unterziehen. Hier kommt es auch darauf an, was Sie zum Beispiel bei Interviews zwischen den Zeilen heraushören. Sie arbeiten dementsprechend **induktiv**, führen also eigene Beobachtungen durch und leiten daraus eine neue Hypothese ab. Das Ziel ist es, die Ergebnisse zu verstehen, zu **interpretieren** und auf dieser Grundlage neue theoretische Ansätze zu entwickeln.
 
-Die quantitative Inhaltsanalyse bildet das Gegenstück dazu. Sie ist ein standardisiertes Verfahren, bei dem der Forschende die Untersuchungsbedingungen stets konstant hält. Hier greifen Sie auf eine **große Anzahl an Inhalten** zurück, welche Sie einer spezifischen Analyse unterziehen. Das Vorgehen ist hierbei **deduktiv**, da Sie bereits vorhandene Theorien untersuchen und mit Daten belegen möchten. Das Ziel der Analyse ist es, statistische **Häufigkeiten** zu erkennen, zu beschreiben und zu **erklären**.  
+Die quantitative Inhaltsanalyse bildet das Gegenstück dazu. Sie ist ein standardisiertes Verfahren, bei dem der Forschende die Untersuchungsbedingungen stets konstant hält. Hier greifen Sie auf eine **große Anzahl an Inhalten** zurück, welche Sie einer spezifischen Analyse unterziehen. Das Vorgehen ist hierbei **deduktiv**, da Sie bereits vorhandene Theorien untersuchen und mit Daten belegen möchten. Das Ziel der Analyse ist es, statistische **Häufigkeiten** zu erkennen, zu beschreiben und zu **erklären**.
+
 ﻿
 
 ## Wann ist die qualitative Inhaltsanalyse als Verfahren geeignet?
@@ -85,7 +86,7 @@ Die Form Ihrer qualitativen Inhaltsanalyse gibt vor, wie viel Material Sie in we
 - **Explizierende Inhaltsanalyse**: unverständliche Textstellen werden mit zusätzlichem Material erklärt.
 - **Strukturierende Inhaltsanalyse**: Es gibt einen [Codierleitfaden](https://www.acad-write.com/ratgeber/tipps/erstellung-codierleitfaden/), in dem Sie festlegen, wie das Material in themenbezogene Kategorien einzuordnen ist.
 
-{{< warning headline="Kategorienbildung" text="Die Bildung passender Kategorien ist für Sie auch relevant, wenn Sie sich für eine der ersten beiden Optionen entscheiden. Diese verwenden Sie nämlich, um Ausschnitte Ihres Material Ihrer Fragestellung gemäß einzuordnen." >}}
+{{< warning headline="Kategorienbildung" text="Die Bildung passender Kategorien ist für Sie auch relevant, wenn Sie sich für eine der ersten beiden Optionen entscheiden. Diese verwenden Sie nämlich, um Ausschnitte Ihres Material Ihrer Fragestellung gemäß einzuordnen." />}}
 
 > _Basierend auf einigen Artikeln, welche über SeaTable berichten, werden verschiedene Kategorien für die **Tonalität** festgelegt. Zum Beispiel werden in einem Artikel Wörter wie “nutzerfreundlich” und “wichtig” genutzt, woraus sich die Kategorie **positive Berichterstattung** bilden lässt._
 
@@ -124,7 +125,7 @@ Artikel lassen sich durch ihre Strukturierung einfach in Einheiten aufteilen.
 
 Jetzt geht es an den wichtigsten und aufwändigsten Part der qualitativen Inhaltsanalyse. Sie **codieren** Ihr Material und weisen es den entsprechenden **Kategorien** zu. Das können Sie mit einem Codierbogen per Hand machen oder Sie nutzen eine digitale Datenbank wie SeaTable.
 
-{{< warning headline="Tipp" text="Mit einem **Transkriptionsprogramm** wie _EasyTranscript_ oder _ELAN_ können Sie Video- und Audio-Aufnahmen zuvor in Texte umwandeln. Das kann Ihnen das Codieren enorm erleichtern." >}}
+{{< warning headline="Tipp" text="Mit einem **Transkriptionsprogramm** wie _EasyTranscript_ oder _ELAN_ können Sie Video- und Audio-Aufnahmen zuvor in Texte umwandeln. Das kann Ihnen das Codieren enorm erleichtern." />}}
 
 > _**Ergebnis der Analyse:** Die meisten Online-Artikel über SeaTable können der Kategorie “positive Tonalität” oder “neutrale Tonalität” zugeordnet werden._
 
@@ -143,20 +144,17 @@ Zuletzt überprüfen Sie, ob Ihre Analyse den Gütekriterien der qualitativen In
 Transparenz|||
 
 Ihre Forschung muss für Außenstehende **nachvollziehbar** sein. Erklären Sie für jeden Schritt Ihrer Analyse, wie und warum Sie so vorgegangen sind.
-
-\---
+{{< /faq >}}
 
 Intersubjektivität|||
 
 Stellen Sie sicher, dass Ihre Analyse bei wiederholter Durchführung über verschiedene Codierer hinweg ähnliche Ergebnisse aufweist, also **reproduzierbar** ist.
-
-\---
+{{< /faq >}}
 
 Reliabilität|||
 
 Wie zuverlässig ist die Codierung? Werden gleiche Inhalte gleich bewertet und drücken sich Unterschiede angemessen in unterschiedlichen Werten aus?
-
-\---
+{{< /faq >}}
 
 ## Checkliste für Ihre qualitative Inhaltsanalyse
 

@@ -1,9 +1,9 @@
 ---
-title: "Planificación de talleres: cómo organizar talleres sin estrés"
+title: 'Planificación de talleres: cómo organizar talleres sin estrés'
 date: 2024-01-15
-lastmod: "2024-01-15"
-author: "kgr"
-url: "/es/workshop-planen"
+lastmod: '2024-01-15'
+author: 'kgr'
+url: '/es/workshop-planen'
 ---
 
 Hoy en día, el aprendizaje permanente es una de las cosas más importantes cuando se trata de **cualificación profesional** y **desarrollo personal**. Ya se trate de un taller, de formación o de formación continua: Como empresario, es esencial que apoye a sus empleados y les ofrezca oportunidades de perfeccionamiento. Para muchos empleados de hoy en día, esto forma parte de un trabajo atractivo y **su empresa se beneficia** de muchas maneras de unos empleados bien formados.
@@ -30,7 +30,7 @@ Naturalmente, la formación continua, los cursos y los talleres tienen una serie
 
 En segundo lugar, sus empleados desarrollan **mejores perspectivas de promoción**, ya que las nuevas competencias y cualidades de liderazgo pueden ampliar su campo de trabajo. Esto le permite cubrir su **necesidad de especialistas y directivos** de su propia plantilla en caso necesario. Y por último, aunque no por ello menos importante, los talleres son también un **cambio** emocionante para los empleados cuando no hay nuevas tareas y proyectos en su trabajo diario.
 
-{{< warning headline="Lealtad y satisfacción de los empleados" text="La formación continua, la formación y los talleres regulares no sólo pueden aumentar **la productividad** y **la empleabilidad**, sino también la [satisfacción](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) de sus empleados. Se sienten tomados en serio y ven como una señal positiva que usted quiera escuchar su opinión, hacerles partícipes de los cambios u ofrecerles la oportunidad de seguir desarrollándose. Esto refuerza **la lealtad de los empleados** a la empresa y, a largo plazo, reduce la rotación de personal y significa que tiene que dedicar menos tiempo y dinero a buscar y contratar nuevos empleados." >}}
+{{< warning headline="Lealtad y satisfacción de los empleados" text="La formación continua, la formación y los talleres regulares no sólo pueden aumentar **la productividad** y **la empleabilidad**, sino también la [satisfacción](https://www.personalwerk.de/hr-wissen/glossaruebersicht/detail/news/mitarbeiterzufriedenheit) de sus empleados. Se sienten tomados en serio y ven como una señal positiva que usted quiera escuchar su opinión, hacerles partícipes de los cambios u ofrecerles la oportunidad de seguir desarrollándose. Esto refuerza **la lealtad de los empleados** a la empresa y, a largo plazo, reduce la rotación de personal y significa que tiene que dedicar menos tiempo y dinero a buscar y contratar nuevos empleados." />}}
 
 ## Gestión de talleres: un juego de niños con el software adecuado
 
@@ -88,7 +88,7 @@ Dependiendo del tema del taller, hay distintos métodos y materiales adecuados p
 - Los **juegos de rol interactivos** son ideales para la formación de directivos, por ejemplo, porque permiten adoptar la perspectiva de distintos miembros del equipo y practicar la resolución de conflictos.
 - Otro método que permite analizar un tema desde distintas perspectivas es el de los **6 sombreros para pensar** de De Bono. Se divide a los participantes en seis grupos: El sombrero blanco representa los hechos, el rojo las emociones, el amarillo las oportunidades, el negro los riesgos, el verde las ideas y el azul las estructuras.
 
-{{< warning headline="Consejo" text="Si utilizas una **presentación** para tu taller, debes comprobar de antemano que la **tecnología** (proyector, altavoces, cables para el portátil) funciona correctamente." >}}
+{{< warning headline="Consejo" text="Si utilizas una **presentación** para tu taller, debes comprobar de antemano que la **tecnología** (proyector, altavoces, cables para el portátil) funciona correctamente." />}}
 
 ## Crear certificados
 

@@ -1,9 +1,9 @@
 ---
-title: "Criar uma lista de tarefas online com a aplicação"
+title: 'Criar uma lista de tarefas online com a aplicação'
 date: 2024-04-03
-lastmod: "2024-04-03"
-author: "kgr"
-url: "/pt/to-do-liste-online"
+lastmod: '2024-04-03'
+author: 'kgr'
+url: '/pt/to-do-liste-online'
 ---
 
 Criar e gerir uma lista de tarefas online com uma aplicação tem muitas vantagens. Isto porque uma **lista** de tarefas ajuda-o a gerir eficazmente as suas tarefas, tanto na sua vida privada como na sua atividade diária, e a não se esquecer de nada no stress do dia a dia. Leia este artigo para saber por que razão deve utilizar um **modelo** para a sua lista de tarefas e qual a melhor **aplicação** para uma lista de tarefas.
@@ -58,7 +58,7 @@ Pode introduzir rapidamente as suas tarefas, adicionar descrições, secções e
 
 Também pode ser ligado ao seu calendário, a um assistente de voz no seu smartphone e a outras ferramentas. Pode sincronizar Todoist em todos os dispositivos para que possa aceder às suas listas a partir do seu computador portátil, do seu telemóvel ou do seu smartwatch.
 
-{{< warning headline="Custos" text="Na versão gratuita, pode gerir cinco projectos activos e trabalhar com cinco membros por projeto. Os carregamentos de ficheiros, os filtros e os lembretes são limitados. Por 4 euros por utilizador e por mês, pode aumentar este número para 300 projectos e 25 membros de equipa, enquanto 6 euros por utilizador e por mês lhe dá 500 projectos com até 1000 membros de equipa, o que é principalmente adequado para equipas maiores em empresas." >}}
+{{< warning headline="Custos" text="Na versão gratuita, pode gerir cinco projectos activos e trabalhar com cinco membros por projeto. Os carregamentos de ficheiros, os filtros e os lembretes são limitados. Por 4 euros por utilizador e por mês, pode aumentar este número para 300 projectos e 25 membros de equipa, enquanto 6 euros por utilizador e por mês lhe dá 500 projectos com até 1000 membros de equipa, o que é principalmente adequado para equipas maiores em empresas." />}}
 
 ### Microsoft To Do: A aplicação versátil para a sua lista de tarefas
 
@@ -66,7 +66,7 @@ Com o [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), obtém um plan
 
 Pode ordenar as tarefas individuais, definir um prazo e assinalá-las. Também são possíveis lembretes e tarefas recorrentes. No entanto, não existem opções de visualização avançadas para além do modo de lista; para tal, é necessário o Planner.
 
-{{< warning headline="Utilização gratuita" text="O Microsoft To Do está disponível gratuitamente. Tudo o que precisa é de uma conta Microsoft." >}}
+{{< warning headline="Utilização gratuita" text="O Microsoft To Do está disponível gratuitamente. Tudo o que precisa é de uma conta Microsoft." />}}
 
 ![Aplicação de lista de tarefas da Microsoft no smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
@@ -78,7 +78,7 @@ O principal objetivo do [Projoodle](https://www.projoodle.com/de) é facilitar a
 
 Com o Projoodle, obtém uma aplicação gratuita para listas de tarefas que são fáceis de criar, partilhar e gerir. Outra funcionalidade é a vista de quadro Kanban, que permite agrupar claramente as tarefas por estado. No entanto, as opções para ordenar e agendar tarefas são escassas.
 
-{{< warning headline="Conformidade com o RGPD" text="O servidor da aplicação da lista de tarefas está localizado na Alemanha, o que torna o Projoodle adequado para o trabalho em conformidade com o RGPD com dados pessoais sensíveis." >}}
+{{< warning headline="Conformidade com o RGPD" text="O servidor da aplicação da lista de tarefas está localizado na Alemanha, o que torna o Projoodle adequado para o trabalho em conformidade com o RGPD com dados pessoais sensíveis." />}}
 
 ### Lembretes: A aplicação de lista de afazeres para iOS
 
@@ -98,7 +98,7 @@ O SeaTable tem, de longe, a **gama mais vasta de funções** de todas as aplica�
 
 Com o SeaTable, pode começar imediatamente com a [versão gratuita](https://seatable.io/pt/registrierung/) e o [modelo interativo](https://seatable.io/pt/vorlage/bpvzkh-vrpwr4xylid6zeq/). Estão disponíveis funcionalidades adicionais na versão Plus por 7 euros por utilizador e por mês, na versão Enterprise por 14 euros por utilizador e por mês ou numa solução dedicada na nuvem.
 
-{{< warning headline="RGPD e soberania dos dados" text="Os servidores SeaTable Cloud estão localizados na Alemanha, o que torna a plataforma adequada para o trabalho em conformidade com o RGPD com dados pessoais sensíveis. Também tem a opção de instalar [o SeaTable on-premises](https://seatable.io/pt/on-premises/) nos seus próprios servidores." >}}
+{{< warning headline="RGPD e soberania dos dados" text="Os servidores SeaTable Cloud estão localizados na Alemanha, o que torna a plataforma adequada para o trabalho em conformidade com o RGPD com dados pessoais sensíveis. Também tem a opção de instalar [o SeaTable on-premises](https://seatable.io/pt/on-premises/) nos seus próprios servidores." />}}
 
 ## Dicas para implementar com sucesso a sua lista de tarefas
 

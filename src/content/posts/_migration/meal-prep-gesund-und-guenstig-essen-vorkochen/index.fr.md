@@ -1,9 +1,9 @@
 ---
 title: "Meal Prep - cuisiner à l'avance des repas sains et bon marché + plan hebdomadaire"
 date: 2023-11-23
-lastmod: "2024-02-13"
-author: "lsc"
-url: "/fr/meal-prep-gesund-und-guenstig-essen-vorkochen"
+lastmod: '2024-02-13'
+author: 'lsc'
+url: '/fr/meal-prep-gesund-und-guenstig-essen-vorkochen'
 ---
 
 Manger le moins cher et le plus sain possible en peu de temps - c'est exactement ce que promet une tendance venue des États-Unis. En effet, dans notre quotidien stressant, une **alimentation équilibrée** est souvent négligée. Au lieu de cela, nous avons souvent recours à la restauration rapide ou à des snacks malsains, par exemple pendant les pauses déjeuner, afin d'apaiser nos fringales. Dans cet article, vous découvrirez ce qu'est le Meal **Prep**, ce à quoi vous devez faire attention en faisant du Meal Prepping et comment vous pouvez établir un [plan hebdomadaire Meal Prep](https://seatable.io/fr/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) intelligent.
@@ -21,20 +21,17 @@ Différents plats sont préparés à partir de quelques ingrédients.
 D'où vient la tendance Meal Prep ?|||
 
 Comme beaucoup de tendances alimentaires, l'engouement pour le meal prepping vient des États-Unis. Là-bas, le Meal Prep a surtout été utilisé par les amateurs de fitness, mais il a rapidement trouvé des applications dans tous les domaines de la vie.
-
-\--- 
+{{< /faq >}}
 
 À qui s'adresse Meal Prep ?|||
 
 Il vaut la peine d'essayer Meal Prep, en particulier pour les personnes qui ne trouvent pas le temps de cuisiner un repas maison dans leur vie quotidienne. Cela aide également à respecter les résolutions alimentaires et à renforcer l'autodiscipline. Bien sûr, il faut un peu de courage et suffisamment de motivation pour se lancer dans cette nouvelle façon de cuisiner, mais au final, cela peut rendre l'alimentation plus efficace, plus saine et moins chère.
-
-\--- 
+{{< /faq >}}
 
 Pour combien de jours peut-on précuire des plats ?|||
 
 Il y a deux façons de faire de la Meal Prep. Soit vous cuisinez **deux fois plus**, de sorte que le repas suffise pour le lendemain, soit vous allez un peu plus loin, vous prenez le temps de **précuire les différents ingrédients** et vous pouvez ensuite les combiner à votre guise les jours suivants.
-
-\---
+{{< /faq >}}
 
 ## Avantages et inconvénients de Meal Prep
 
@@ -94,19 +91,19 @@ Une liste vous aide à garder une vue d'ensemble de vos achats.
 
 Vient maintenant la partie la plus laborieuse du Meal Prep. Pour préparer tous vos aliments, prenez **suffisamment** de temps, de préférence deux à trois heures, le jour de votre choix. Rôtissez, cuisez, étuvez ou faites cuire les ingrédients séparément, car ils ont **des points de cuisson différents** et se transforment sinon en une bouillie boueuse. En plus des repas principaux, vous pouvez également préparer **de petits en-cas** pour les petits creux. Il peut s'agir par exemple de barres de céréales faites maison.
 
-{{< warning headline="Les épices, un remède miracle" text="Les bonnes épices apportent la touche finale à vos plats. Avec différents mélanges d'épices, le même plat aura à chaque fois un goût différent et vous incitera à explorer de nouveaux univers gustatifs." >}}
+{{< warning headline="Les épices, un remède miracle" text="Les bonnes épices apportent la touche finale à vos plats. Avec différents mélanges d'épices, le même plat aura à chaque fois un goût différent et vous incitera à explorer de nouveaux univers gustatifs." />}}
 
 ### 4\. stocker
 
 Pour que les ingrédients préparés restent frais suffisamment longtemps et conservent leur saveur, il est conseillé de les **conserver séparément**. [Des boîtes](https://www.chefkoch.de/vergleich/meal-prep-boxen/) spéciales avec des parois de séparation conviennent par exemple à la préparation des repas. Les aliments doivent être conservés dans des récipients en verre ou en plastique robuste qui se ferment hermétiquement. Conservez de préférence les plats préparés au réfrigérateur ou congelez-les.
 
-{{< warning headline="Mettre en bocaux" text="Les grands bocaux avec un couvercle à visser ou à encliqueter sont parfaits pour transporter vos aliments. Ils sont parfaits pour conserver des aliments secs comme les céréales ou le riz, mais aussi pour les soupes liquides ou les sauces. La plupart des bocaux sont adaptés au four à micro-ondes, ce qui vous permet de réchauffer et de consommer directement vos aliments." >}}
+{{< warning headline="Mettre en bocaux" text="Les grands bocaux avec un couvercle à visser ou à encliqueter sont parfaits pour transporter vos aliments. Ils sont parfaits pour conserver des aliments secs comme les céréales ou le riz, mais aussi pour les soupes liquides ou les sauces. La plupart des bocaux sont adaptés au four à micro-ondes, ce qui vous permet de réchauffer et de consommer directement vos aliments." />}}
 
 ### 5\. combiner
 
 La dernière étape de Meal Prep est la plus facile. Sortez les composants préparés du réfrigérateur et composez un plat à votre convenance. **Différentes combinaisons** permettent de varier les goûts. Emballez votre création en toute sécurité pour le transport ou réchauffez et savourez directement votre repas sain et délicieux fait maison !
 
-{{< warning headline="Le mélange fait la différence" text="Pour une alimentation équilibrée, vous devez faire attention aux valeurs nutritives de vos aliments. Il est recommandé d'avoir une composition de 50 à 60 % de glucides, 15 à 25 % de protéines et 20 à 30 % de matières grasses." >}}
+{{< warning headline="Le mélange fait la différence" text="Pour une alimentation équilibrée, vous devez faire attention aux valeurs nutritives de vos aliments. Il est recommandé d'avoir une composition de 50 à 60 % de glucides, 15 à 25 % de protéines et 20 à 30 % de matières grasses." />}}
 
 ## Exemple de plan hebdomadaire Meal Prep
 
