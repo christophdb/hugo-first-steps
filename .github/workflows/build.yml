@@ -23,14 +23,11 @@ jobs:
               uses: actions/checkout@v4
               with:
                   fetch-depth: 0 # Fetches entire commit history for git lastmod
-
             - name: Build site
               run: ./build.sh
-
             - name: Create tar.gz archive
               run: tar -czvf archive.tar.gz public
               working-directory: src
-
             - name: Upload tar.gz artifact
               uses: actions/upload-artifact@v4
               with:
@@ -53,8 +50,12 @@ jobs:
                   echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
             - name: Install muffet
               run: go install github.com/raviqqe/muffet/v2@${MUFFET_VERSION}
+            - name: Download wait-for-it.sh
+              run: curl -fsSL -o wait-for-it.sh https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh
+            - name: Wait for Hugo to be ready
+              run: bash wait-for-it.sh localhost:1313 -t 120
             - name: Check links
-              run: muffet -t20 -c100 -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
+              run: muffet -t5 -c100 -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
 
     deploy:
         name: Deploy
