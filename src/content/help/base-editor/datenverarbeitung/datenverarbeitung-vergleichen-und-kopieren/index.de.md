@@ -67,7 +67,5 @@ Folgende Spaltentypen können Sie mithilfe der Operation _Vergleichen und kopier
 
 - [Mehrfachauswahl-Spalte]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
 - [Die Spalte Ersteller]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
-- [Die Spalte Erstellt]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
 - [Die Spalte Letzter Bearbeiter]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Die Spalte Zuletzt bearbeitet]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Schaltfläche]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

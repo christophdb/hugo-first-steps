@@ -57,6 +57,6 @@ Para los siguientes tipos de columna, la línea de estado refleja un valor calcu
 Para los siguientes tipos de columnas, la línea de estado **no** refleja un valor calculado, aunque (pueden) contener números:
 
 - [Columnas de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Creado]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/) vez
+- [Creado]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Números en [columnas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

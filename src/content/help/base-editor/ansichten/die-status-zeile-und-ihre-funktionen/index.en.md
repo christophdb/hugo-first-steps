@@ -57,6 +57,6 @@ For the following column types, the statusrow reflects a calculated value:
 For the following column types, the status-row **does not** reflect a calculated value, although they (may) contain numbers:
 
 - [Date columns]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Created]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Created]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Numbers in [text columns]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

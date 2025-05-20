@@ -204,7 +204,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-creator" >}} **Dernier agent**
 
 SeaTable documente automatiquement le **nom de l'utilisateur** qui a **apporté** la **dernière modification** à une entrée dans la colonne Dernière modification. Comme cette colonne enregistre automatiquement les modifications apportées aux entrées, elle convient bien, par exemple, comme déclencheur pour les automatisations ainsi que pour les filtres et les tris.
 
-[En savoir plus sur la colonne Dernier intervenant]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-bearbeitungssatumt/)
+[En savoir plus sur la colonne Dernier intervenant]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Date de traitement
 

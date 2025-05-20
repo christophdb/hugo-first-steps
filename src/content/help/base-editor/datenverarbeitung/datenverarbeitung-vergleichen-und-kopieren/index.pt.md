@@ -74,8 +74,6 @@ Se a operação for executada com sucesso, as tabelas de **funcionários** e **t
 Os seguintes tipos de colunas **não podem** ser copiados através da operação _Comparar e copiar_ e, portanto, **não** estão disponíveis ao definir as colunas de origem e de resultado.
 
 - [Coluna de selecção múltipla]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
-- [A coluna do Criador]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
-- [A coluna Created]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-ersteller-und-erstellt/)
-- [A coluna do último editor]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
-- [A última coluna editada]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [A coluna do Criador]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
+- [A coluna do último editor]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Botão]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})

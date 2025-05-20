@@ -37,7 +37,7 @@ Neben dem Benutzerhandbuch gibt es noch weitere Quellen, mit denen Sie mehr übe
 
 |||
 
-Telefonischen Support stellen wir für die SeaTable Cloud **nicht** zur Verfügung. Wenn Sie ein Dedicated Cloud-System gebucht haben oder eine SeaTable Server-Lizenz erworben haben, können Sie telefonischen Support von unseren Mitarbeitern dazubuchen. Weitere Details finden Sie [hier]({{< relref "pages/support" >}}).
+Telefonischen Support stellen wir für die SeaTable Cloud **nicht** zur Verfügung. Wenn Sie ein Dedicated Cloud-System gebucht haben oder eine SeaTable Server-Lizenz erworben haben, können Sie telefonischen Support von unseren Mitarbeitern dazubuchen.
 
 ---
 
@@ -45,7 +45,7 @@ Kann man einen SeaTable Experten für einen Workshop, eine Schulung oder individ
 
 |||
 
-Selbstverständlich bieten wir auf Nachfrage entsprechende individuelle Termine an. Für die Hilfe durch einen SeaTable Experten berechnen wir Ihnen 120 € (netto) pro Stunde. [Schreiben Sie uns]({{< relref "pages/contact" >}}), wenn Sie einen individuellen Termin vereinbaren wollen.
+Selbstverständlich bieten wir auf Nachfrage entsprechende individuelle Termine an. Für die Hilfe durch einen SeaTable Experten berechnen wir Ihnen 120 € (netto) pro Stunde. Schreiben Sie uns, wenn Sie einen individuellen Termin vereinbaren wollen.
 
 ---
 

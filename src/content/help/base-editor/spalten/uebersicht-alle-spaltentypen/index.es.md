@@ -204,7 +204,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-creator" >}} **Último editor**
 
 SeaTable documenta automáticamente el **nombre del usuario** que realizó el **último cambio en** una entrada en la columna Último editor. Dado que la columna registra automáticamente los cambios en las entradas, resulta muy adecuada, por ejemplo, como activador de automatizaciones, así como para filtros y ordenaciones.
 
-[Más información sobre la columna Último editor]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-bearbeitungssatumt/)
+[Más información sobre la columna Último editor]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Fecha de tratamiento
 

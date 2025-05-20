@@ -57,6 +57,6 @@ url: '/ru/help/die-status-zeile-und-ihre-funktionen'
 Для следующих типов столбцов строка состояния **не** отражает вычисляемое значение, хотя они (могут) содержать числа:
 
 - [Колонки дат]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Создано]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Создано]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Автоматический номер]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Числа в [текстовых колонках]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})

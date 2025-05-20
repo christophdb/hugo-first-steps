@@ -204,7 +204,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-creator" >}} **Last editor**
 
 SeaTable automatically documents the **name of the user** who made the **last change to** an entry in the Last Editor column. Since the column automatically records changes to entries, it is well suited, for example, as a trigger for automations as well as for filters and sorts.
 
-[More about the Last editor column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-bearbeitungssatumt/)
+[More about the Last editor column]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Processing date
 

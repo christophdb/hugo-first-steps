@@ -57,6 +57,6 @@ Pour les types de colonnes suivants, la ligne d'état indique une valeur calcul�
 Pour les types de colonnes suivants, la ligne d'état ne donne **pas** de valeur calculée, bien qu'ils contiennent (ou puissent contenir) des chiffres :
 
 - [Colonnes de dates]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Créé]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}die-spalten-letzter-bearbeiter-und-zuletzt-bearbeitet/)
+- [Créé]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 - [Numéro automatique]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
 - Chiffres dans [les colonnes de texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
