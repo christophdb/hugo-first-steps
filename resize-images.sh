@@ -28,7 +28,8 @@ find "$1" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) -exec b
     # smaller than 768px
     if [[ "$img" =~ \.png$ ]]; then
       # Convert PNG to JPEG (flatten transparency, optimize quality)
-      convert "$img" -resize ${width}x -background white -flatten -alpha off -quality 100% "${img%.*}.jpg"
+      convert "$img" -resize ${width}x -background white -flatten -alpha off -quality 100% "${img%.*}.jpg" && \
+      rm "$img"
     fi
   fi
 ' {} \;
