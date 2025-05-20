@@ -100,26 +100,10 @@ Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu
 
 ## Häufige Fragen
 
-{{< faq >}} Kann eine Datei bei einer Lese-Freigabe heruntergeladen werden?
-
-|||
-
-Ja. Auch wenn ein Benutzer lediglich eine **Leseberechtigung** hat, kann er Dateien herunterladen.
-
----
-
-Können Audio-Dateien in SeaTable abgespielt werden?
-
-|||
-
-Nein. Um **Audio-Dateien** abspielen zu können, müssen Sie diese zunächst downloaden.
-
----
-
-Kann man die Reihenfolge der Dateien in einer Datei-Spalte ändern?
-
-|||
-
-Nein, die Reihenfolge kann innerhalb einer Datei-Spalte **nicht** geändert werden. Das zuerst hochgeladene Dokument steht an erster Stelle. Durch die Reihenfolge, in der Sie die Dokumente hochladen, können Sie die Reihenfolge innerhalb der Datei-Spalte bestimmen.
+{{< faq "Kann eine Datei bei einer Lese-Freigabe heruntergeladen werden?" >}}Ja. Auch wenn ein Benutzer lediglich eine **Leseberechtigung** hat, kann er Dateien herunterladen.
+{{< /faq >}}
+{{< faq "Können Audio-Dateien in SeaTable abgespielt werden?" >}}Nein. Um **Audio-Dateien** abspielen zu können, müssen Sie diese zunächst downloaden.
+{{< /faq >}}
+{{< faq "Kann man die Reihenfolge der Dateien in einer Datei-Spalte ändern?" >}}Nein, die Reihenfolge kann innerhalb einer Datei-Spalte **nicht** geändert werden. Das zuerst hochgeladene Dokument steht an erster Stelle. Durch die Reihenfolge, in der Sie die Dokumente hochladen, können Sie die Reihenfolge innerhalb der Datei-Spalte bestimmen.
 
 {{< /faq >}}

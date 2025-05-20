@@ -57,22 +57,10 @@ In both ways, you define a standardized e-mail whose **text** remains the **same
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-Are the e-mail access data (especially the password) visible to others, e.g. when I share a base?|||
-
-**No**, the secret email access data is **not compromised** by sharing a base. For email accounts that log in to the email server using a user name and password, the password is no longer displayed in plain text after setup. For email accounts set up with OAuth 2.0 authentication, neither the ID nor the key are displayed.
-
----
-
-Are e-mail accounts copied when a base is copied?|||
-
-**No**, the email accounts set up for a base are **not copied**. If you copy a base to the _My Bases_ area or [to a group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), you must **set up** the email accounts **again** in the new base.
-
----
-
-Are e-mail accounts exported when exporting a base?|||
-
-**No**, the e-mail accounts set up in a base are **not exported to the [DTABLE file]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
+{{< faq "Are the e-mail access data (especially the password) visible to others, e.g. when I share a base?" >}}**No**, the secret email access data is **not compromised** by sharing a base. For email accounts that log in to the email server using a user name and password, the password is no longer displayed in plain text after setup. For email accounts set up with OAuth 2.0 authentication, neither the ID nor the key are displayed.
+{{< /faq >}}
+{{< faq "Are e-mail accounts copied when a base is copied?" >}}**No**, the email accounts set up for a base are **not copied**. If you copy a base to the _My Bases_ area or [to a group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), you must **set up** the email accounts **again** in the new base.
+{{< /faq >}}
+{{< faq "Are e-mail accounts exported when exporting a base?" >}}**No**, the e-mail accounts set up in a base are **not exported to the [DTABLE file]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 
 {{< /faq >}}

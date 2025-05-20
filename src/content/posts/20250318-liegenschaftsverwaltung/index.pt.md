@@ -2,8 +2,8 @@
 title: 'Gestão de propriedades: Como gerir as propriedades digitalmente'
 description: 'A gestão de propriedades significa coordenar eficientemente uma vasta gama de tarefas, mantendo uma visão geral. A digitalização oferece aqui um apoio valioso para otimizar os processos e gerir os dados de forma estruturada. Descubra como pode gerir as suas propriedades de forma eficiente e preparada para o futuro.'
 seo:
-    title: "Gestão de imóveis: gerir os imóveis digitalmente"
-    description: "Simplifique a organização dos seus imóveis! O nosso blogue fornece-lhe informações para uma gestão imobiliária bem sucedida"
+    title: 'Gestão de imóveis: gerir os imóveis digitalmente'
+    description: 'Simplifique a organização dos seus imóveis! O nosso blogue fornece-lhe informações para uma gestão imobiliária bem sucedida'
 date: 2025-03-18
 categories:
     - 'Informações gerais'
@@ -103,28 +103,12 @@ Para utilizar o SeaTable, basta registar-se [gratuitamente] ({{< relref "pages/r
 
 ## Perguntas frequentes
 
-{{< faq >}}
-
-Quais são as vantagens da gestão digital do património para os municípios e instituições públicas? |||
-
-As soluções digitais permitem às administrações públicas gerir os imóveis de forma mais eficiente, automatizar processos e armazenar dados de forma segura. Isto poupa tempo e recursos e ajuda a garantir a transparência e a rastreabilidade.
-
----
-
-Como é que o SeaTable apoia a gestão do património? |||
-
-O SeaTable oferece uma plataforma flexível e personalizável que permite a organização centralizada de propriedades e terrenos. Funções como os direitos de acesso definidos pelo utilizador, a integração da gestão de contratos e documentos e a capacidade de documentar claramente todas as propriedades facilitam muito o trabalho.
-
----
-
-A gestão de propriedades no SeaTable é compatível com o RGPD? |||
-
-A conformidade com o RGPD é essencial, especialmente ao processar os dados pessoais dos inquilinos e proprietários. Com uma plataforma como o SeaTable, pode definir com precisão os direitos de acesso e armazenar os dados de forma segura - quer na nuvem, quer nos seus próprios servidores (on-premises).
-
----
-
-A gestão digital de propriedades também faz sentido para municípios ou comunidades mais pequenas? |||
-
-Sim, os municípios mais pequenos beneficiam particularmente das soluções digitais, uma vez que têm frequentemente recursos limitados para a administração. Com o SeaTable, podem organizar processos de forma eficiente sem incorrer em custos elevados de software ou infra-estruturas de TI. O sistema escalável adapta-se às suas necessidades individuais.
+{{< faq "Quais são as vantagens da gestão digital do património para os municípios e instituições públicas? " >}}As soluções digitais permitem às administrações públicas gerir os imóveis de forma mais eficiente, automatizar processos e armazenar dados de forma segura. Isto poupa tempo e recursos e ajuda a garantir a transparência e a rastreabilidade.
+{{< /faq >}}
+{{< faq "Como é que o SeaTable apoia a gestão do património? " >}}O SeaTable oferece uma plataforma flexível e personalizável que permite a organização centralizada de propriedades e terrenos. Funções como os direitos de acesso definidos pelo utilizador, a integração da gestão de contratos e documentos e a capacidade de documentar claramente todas as propriedades facilitam muito o trabalho.
+{{< /faq >}}
+{{< faq "A gestão de propriedades no SeaTable é compatível com o RGPD? " >}}A conformidade com o RGPD é essencial, especialmente ao processar os dados pessoais dos inquilinos e proprietários. Com uma plataforma como o SeaTable, pode definir com precisão os direitos de acesso e armazenar os dados de forma segura - quer na nuvem, quer nos seus próprios servidores (on-premises).
+{{< /faq >}}
+{{< faq "A gestão digital de propriedades também faz sentido para municípios ou comunidades mais pequenas? " >}}Sim, os municípios mais pequenos beneficiam particularmente das soluções digitais, uma vez que têm frequentemente recursos limitados para a administração. Com o SeaTable, podem organizar processos de forma eficiente sem incorrer em custos elevados de software ou infra-estruturas de TI. O sistema escalável adapta-se às suas necessidades individuais.
 
 {{< /faq >}}

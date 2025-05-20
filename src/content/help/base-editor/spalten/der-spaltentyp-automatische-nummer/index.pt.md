@@ -26,22 +26,10 @@ Quando se cria a coluna _Número Automático_, determina-se qual o **formato** q
 
 Embora o tipo de coluna _Número Automático_ pareça comparativamente simples, existem algumas características especiais que precisam de ser tidas em conta.
 
-{{< faq >}}
-
-É possível influenciar o próximo valor utilizado?|||
-
-Sim. Nas opções de coluna, a coluna oferece a possibilidade de **reiniciar** o **número automático** para um determinado valor, que a linha seguinte recebe então.
-
----
-
-Os valores na coluna podem ocorrer duas vezes?|||
-
-Sim, isto pode acontecer. Se se reiniciar o número automático, os valores também podem ocorrer duas vezes. Os valores nesta coluna não são, portanto, únicos.
-
----
-
-A coluna também pode conter apenas valores únicos?|||
-
-Sim. Se utilizar uma subscrição Plus ou Enterprise da SeaTable, pode **bloquear** a **coluna para edição**. Desta forma, ninguém pode redefinir o número e cada valor permanece único.
+{{< faq "É possível influenciar o próximo valor utilizado?" >}}Sim. Nas opções de coluna, a coluna oferece a possibilidade de **reiniciar** o **número automático** para um determinado valor, que a linha seguinte recebe então.
+{{< /faq >}}
+{{< faq "Os valores na coluna podem ocorrer duas vezes?" >}}Sim, isto pode acontecer. Se se reiniciar o número automático, os valores também podem ocorrer duas vezes. Os valores nesta coluna não são, portanto, únicos.
+{{< /faq >}}
+{{< faq "A coluna também pode conter apenas valores únicos?" >}}Sim. Se utilizar uma subscrição Plus ou Enterprise da SeaTable, pode **bloquear** a **coluna para edição**. Desta forma, ninguém pode redefinir o número e cada valor permanece único.
 
 {{< /faq >}}

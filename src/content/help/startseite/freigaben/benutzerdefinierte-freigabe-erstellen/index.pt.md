@@ -94,16 +94,8 @@ Pode alterar retrospectivamente as permissões de partilha personalizadas, **rem
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Quando é que a partilha personalizada faz sentido?|||
-
-No SeaTable, deve sempre introduzir conjuntos de dados relacionados na mesma base. Se quiser **partilhar** apenas **uma parte dos dados** com alguém, então as partilhas definidas pelo utilizador são o caminho a seguir.
-
----
-
-É possível partilhar uma partilha personalizada através de um link?|||
-
-**Não**, actualmente só pode enviar acções personalizadas a um **membro** ou **grupo** **da equipa**.
+{{< faq "Quando é que a partilha personalizada faz sentido?" >}}No SeaTable, deve sempre introduzir conjuntos de dados relacionados na mesma base. Se quiser **partilhar** apenas **uma parte dos dados** com alguém, então as partilhas definidas pelo utilizador são o caminho a seguir.
+{{< /faq >}}
+{{< faq "É possível partilhar uma partilha personalizada através de um link?" >}}**Não**, actualmente só pode enviar acções personalizadas a um **membro** ou **grupo** **da equipa**.
 
 {{< /faq >}}

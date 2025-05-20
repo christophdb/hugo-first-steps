@@ -23,27 +23,15 @@ Alternativamente, puede deshacer su última acción con un **clic del ratón** e
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Durante cuánto tiempo se pueden deshacer los cambios?|||
-
-En principio, se puede deshacer cualquier entrada o cambio dentro de una sesión. Sin embargo, en cuanto se abandona la base, los últimos pasos no se pueden deshacer con las dos opciones descritas la próxima vez que se llame a la base.
-
----
-
-¿Qué se puede deshacer?|||
-
-Las siguientes acciones pueden deshacerse:
+{{< faq "¿Durante cuánto tiempo se pueden deshacer los cambios?" >}}En principio, se puede deshacer cualquier entrada o cambio dentro de una sesión. Sin embargo, en cuanto se abandona la base, los últimos pasos no se pueden deshacer con las dos opciones descritas la próxima vez que se llame a la base.
+{{< /faq >}}
+{{< faq "¿Qué se puede deshacer?" >}}Las siguientes acciones pueden deshacerse:
 
 - Entradas/modificaciones en una celda
 - Cambios en las columnas (nombre, tipo, posición)
 - Orden de las líneas
-
----
-
-Acciones que no se pueden deshacer|||
-
-Algunos procesos no son reversibles. Estos incluyen, pero no se limitan a:
+  {{< /faq >}}
+  {{< faq "Acciones que no se pueden deshacer" >}}Algunos procesos no son reversibles. Estos incluyen, pero no se limitan a:
 
 - Líneas de bloqueo
 - Cambios en la clasificación, agrupación o filtrado

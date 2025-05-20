@@ -2,8 +2,8 @@
 title: 'Citizen Developer - Gamechanger in digitization?'
 description: 'Are customized software solutions for your specific processes in short supply? Then develop your own solutions! Find out in this article how you can use the expertise in your specialist departments and set up efficient digital processes by involving citizen developers in the development process.'
 seo:
-    title: "Citizen Developer - Gamechanger in digitalisation"
-    description: "Develop your own software solutions with Citizen Developers! This article shows you how to utilise the expertise of your specialist departments"
+    title: 'Citizen Developer - Gamechanger in digitalisation'
+    description: 'Develop your own software solutions with Citizen Developers! This article shows you how to utilise the expertise of your specialist departments'
 date: 2025-03-17
 categories:
     - 'No Code / Low Code'
@@ -109,29 +109,13 @@ Citizen development is a promising trend that can fundamentally change the way c
 
 ## FAQs
 
-{{< faq >}}
-
-What does a Citizen Developer do? |||
-
-A citizen developer uses low-code development environments to create their own software applications. Unlike IT professionals, however, they have not completed any formal training in the field of software development.
-
----
-
-Why is Citizen Development useful? |||
-
-Citizen development accelerates application development, relieves the IT department and saves costs for expensive special software. It also promotes innovation, cross-departmental collaboration and acceptance of new solutions.
-
----
-
-What is shadow IT? |||
-
-Shadow IT refers to IT systems and software applications that employees in a company's specialist departments use alongside the official IT infrastructure **without the knowledge of the IT department**. Shadow IT is therefore neither technically nor strategically integrated into IT service management, which entails security risks and other problems.
-
----
-
-What role do project managers play in Citizen Development? |||
-
-Project managers are often good citizen developers because they know the needs and requirements of their teams, have a holistic overview and can use their process thinking to build more efficient workflows.
+{{< faq "What does a Citizen Developer do? " >}}A citizen developer uses low-code development environments to create their own software applications. Unlike IT professionals, however, they have not completed any formal training in the field of software development.
+{{< /faq >}}
+{{< faq "Why is Citizen Development useful? " >}}Citizen development accelerates application development, relieves the IT department and saves costs for expensive special software. It also promotes innovation, cross-departmental collaboration and acceptance of new solutions.
+{{< /faq >}}
+{{< faq "What is shadow IT? " >}}Shadow IT refers to IT systems and software applications that employees in a company's specialist departments use alongside the official IT infrastructure **without the knowledge of the IT department**. Shadow IT is therefore neither technically nor strategically integrated into IT service management, which entails security risks and other problems.
+{{< /faq >}}
+{{< faq "What role do project managers play in Citizen Development? " >}}Project managers are often good citizen developers because they know the needs and requirements of their teams, have a holistic overview and can use their process thinking to build more efficient workflows.
 
 <!-- ###### Register now for our newsletter -->
 

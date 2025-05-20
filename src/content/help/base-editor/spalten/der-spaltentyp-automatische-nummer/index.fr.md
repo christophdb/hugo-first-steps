@@ -26,22 +26,10 @@ Lorsque vous créez la colonne _Numéro automatique_, vous déterminez le **form
 
 Même si le type de colonne _Numéro automatique_ semble relativement simple, il y a quelques particularités dont il faut tenir compte.
 
-{{< faq >}}
-
-Est-il possible d'influencer la prochaine valeur utilisée ?|||
-
-Oui, la colonne offre la possibilité, dans les options de colonne, de **réinitialiser** le **numéro automatique** à une certaine valeur, qui sera ensuite attribuée à la ligne suivante.
-
----
-
-Les valeurs peuvent-elles apparaître deux fois dans la colonne ?|||
-
-Oui, cela peut arriver. Si tu réinitialises le numéro automatique, des valeurs peuvent aussi apparaître en double. Les valeurs de cette colonne ne sont donc pas uniques.
-
----
-
-La colonne peut-elle ne contenir que des valeurs uniques ?|||
-
-Oui. Si vous utilisez un abonnement Plus ou Enterprise de SeaTable, vous pouvez **verrouiller** la **colonne pour qu'elle ne puisse pas être modifiée**. Ainsi, personne ne peut réinitialiser le numéro et chaque valeur reste unique.
+{{< faq "Est-il possible d'influencer la prochaine valeur utilisée ?" >}}Oui, la colonne offre la possibilité, dans les options de colonne, de **réinitialiser** le **numéro automatique** à une certaine valeur, qui sera ensuite attribuée à la ligne suivante.
+{{< /faq >}}
+{{< faq "Les valeurs peuvent-elles apparaître deux fois dans la colonne ?" >}}Oui, cela peut arriver. Si tu réinitialises le numéro automatique, des valeurs peuvent aussi apparaître en double. Les valeurs de cette colonne ne sont donc pas uniques.
+{{< /faq >}}
+{{< faq "La colonne peut-elle ne contenir que des valeurs uniques ?" >}}Oui. Si vous utilisez un abonnement Plus ou Enterprise de SeaTable, vous pouvez **verrouiller** la **colonne pour qu'elle ne puisse pas être modifiée**. Ainsi, personne ne peut réinitialiser le numéro et chaque valeur reste unique.
 
 {{< /faq >}}

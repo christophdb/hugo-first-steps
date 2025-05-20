@@ -58,29 +58,13 @@ No total, tem à sua disposição **três** opções diferentes:
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Porque é que a pré-visualização de importação não mostra todos os valores?|||
-
-A pré-visualização da importação mostra que estruturas de dados são importadas para o SeaTable. No entanto, um máximo de **201 filas** são exibidas na **pré-visualização**.
-
----
-
-Podem ser importadas múltiplas folhas de trabalho do Excel?|||
-
-SeaTable pode manusear várias folhas de trabalho e tenta converter cada folha de trabalho numa mesa.
-
----
-
-Porque é que a minha primeira linha não é importada?|||
-
-Os valores que se encontram na **primeira linha** de uma tabela Excel importada são sempre automaticamente utilizados como **nomes de colunas** pelo SeaTable e são, portanto, **removidos da** primeira linha durante a importação. Todos os outros dados na tabela são movidos para cima **numa linha**.
-
----
-
-O SeaTable reconhece automaticamente o tipo de coluna?|||
-
-SeaTable tenta determinar o tipo de coluna automaticamente com base nos valores das primeiras filas. Certos **tipos de dados** são **automaticamente** reconhecidos pelo SeaTable. Por exemplo, se forem importados **números** ou **datas (ano-mês-dia)**, o programa adapta automaticamente o **tipo de coluna** aos dados importados.
+{{< faq "Porque é que a pré-visualização de importação não mostra todos os valores?" >}}A pré-visualização da importação mostra que estruturas de dados são importadas para o SeaTable. No entanto, um máximo de **201 filas** são exibidas na **pré-visualização**.
+{{< /faq >}}
+{{< faq "Podem ser importadas múltiplas folhas de trabalho do Excel?" >}}SeaTable pode manusear várias folhas de trabalho e tenta converter cada folha de trabalho numa mesa.
+{{< /faq >}}
+{{< faq "Porque é que a minha primeira linha não é importada?" >}}Os valores que se encontram na **primeira linha** de uma tabela Excel importada são sempre automaticamente utilizados como **nomes de colunas** pelo SeaTable e são, portanto, **removidos da** primeira linha durante a importação. Todos os outros dados na tabela são movidos para cima **numa linha**.
+{{< /faq >}}
+{{< faq "O SeaTable reconhece automaticamente o tipo de coluna?" >}}SeaTable tenta determinar o tipo de coluna automaticamente com base nos valores das primeiras filas. Certos **tipos de dados** são **automaticamente** reconhecidos pelo SeaTable. Por exemplo, se forem importados **números** ou **datas (ano-mês-dia)**, o programa adapta automaticamente o **tipo de coluna** aos dados importados.
 
 {{< /faq >}}
 

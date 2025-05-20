@@ -78,23 +78,11 @@ This error message appears when the file import fails due to **internet connecti
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-What must the CSV file look like that is to be imported into the table?|||
-
-The CSV file must be formatted according to [the UTF-8 standard](https://de.wikipedia.org/wiki/UTF-8) and contain the suffix **.csv** at the **end of the file name**.
-
----
-
-Will existing data be replaced during import?|||
-
-**No**, **no** data is replaced during import.
-
----
-
-Will the imported data simply be inserted under the existing rows ?|||
-
-**Yes**, the imported data will be inserted in the corresponding columns of the table under the already existing rows .
+{{< faq "What must the CSV file look like that is to be imported into the table?" >}}The CSV file must be formatted according to [the UTF-8 standard](https://de.wikipedia.org/wiki/UTF-8) and contain the suffix **.csv** at the **end of the file name**.
+{{< /faq >}}
+{{< faq "Will existing data be replaced during import?" >}}**No**, **no** data is replaced during import.
+{{< /faq >}}
+{{< faq "Will the imported data simply be inserted under the existing rows ?" >}}**Yes**, the imported data will be inserted in the corresponding columns of the table under the already existing rows .
 
 {{< /faq >}}
 

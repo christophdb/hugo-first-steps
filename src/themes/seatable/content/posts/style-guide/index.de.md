@@ -111,40 +111,46 @@ Die Höhe ist ein optionaler Parameter und kann weggelassen werden. Standardmä�
 
 Folgende Syntax erzeugt einen FAQ-Abschnitt in einem Blogbeitrag:
 
-{{< faq >}}
-
-Kann man Markdown in den FAQ Bereichen verwenden?|||
+{{< faq "Kann man Markdown in den FAQ Bereichen verwenden?" >}}
 
 Ja, **Markdown** kann verwendet werden und somit auch Aufzählungen enthalten:
 
 - Option A
 - Option B
 
----
+{{< /faq >}}
 
-Worauf muss man achten? |||
+{{< faq "Werden Bilder und Links unterstützt?" >}}
 
-Eigentlich nicht viel. Wenn man
+Ja. Man kann sowohl Bilder als auch Links in einem FAQ-Abschnitt verwenden.
+
+Z.B.: [Kontaktiere uns]({{< relref "pages/contact" >}}).
+
+![](feature.jpg)
 
 {{< /faq >}}
+
+<br>
 
 Der zugehörige Code dazu sieht so aus:
 
 ```
-{{</* faq */>}}
-
-Kann man Markdown in den FAQ Bereichen verwenden?|||
+{{</* faq "Kann man Markdown in den FAQ Bereichen verwenden?" */>}}
 
 Ja, **Markdown** kann verwendet werden und somit auch Aufzählungen enthalten:
 
 - Option A
 - Option B
 
----
+{{</* /faq */>}}
 
-Worauf muss man achten? |||
+{{</* faq "Werden Bilder und Links unterstützt?" */>}}
 
-Eigentlich nicht viel. Wenn man
+Ja. Man kann sowohl Bilder als auch Links in einem FAQ-Abschnitt verwenden.
+
+Z.B.: [Kontaktiere uns]({{</* relref "pages/contact" */>}}).
+
+![](images/feature.jpg)
 
 {{</* /faq */>}}
 ```

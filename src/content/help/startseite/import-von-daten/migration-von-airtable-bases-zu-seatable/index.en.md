@@ -270,34 +270,18 @@ On the other hand, you must also create views yourself, as these are not transfe
 
 ## FAQ area
 
-{{< faq >}}
-
-Does the script change data in my airtable base?|||
-
-No. The script only reads your airtable base. The data in the airtable base is not changed.
-
----
-
-What do I do if I receive an error message?|||
-
-An error message on first execution is not at all unlikely. There are plenty of reasons for this, e.g. an incorrect token, an incorrect sequence in the specification of the links, typing errors, missing commas or incorrect indentation. A single error can lead to script execution being aborted.  
+{{< faq "Does the script change data in my airtable base?" >}}No. The script only reads your airtable base. The data in the airtable base is not changed.
+{{< /faq >}}
+{{< faq "What do I do if I receive an error message?" >}}An error message on first execution is not at all unlikely. There are plenty of reasons for this, e.g. an incorrect token, an incorrect sequence in the specification of the links, typing errors, missing commas or incorrect indentation. A single error can lead to script execution being aborted.  
 If you receive an error message, this is generally not a problem. No data can be lost. Proceed as follows to find the cause of the error:  
 \- In most cases, the error message will give you a hint where to find the error. Follow it, correct the entered parameters and run the script again. An indentation error, for example, indicates that the indentation does not conform to Python syntax.  
 \- If the error message is incomprehensible, check all entries for correctness and try again.  
 \- If none of the tips help, get help in the [SeaTable Forum](https://forum.seatable.io/).
 
 {{< warning  headline="Important note"  text="Please remove the API token, the PAT and the base ID before posting screenshots or scripts in the forum." />}}
-
----
-
-Can Airtable Bases of any size be migrated?|||
-
-In principle, yes. However, the procedure presented in this article with the integrated Python editor is subject to a maximum runtime limit of 15 minutes, i.e. scripts that run for longer than 15 minutes are aborted. In practice, this is sufficient for the vast majority of bases. However, this limit can play a role for bases with large/many file attachments. In this case, you can reduce the runtime by excluding columns. If you do not want to exclude columns, you must run the Python script locally on a computer where there is no runtime limit.
-
----
-
-Is it possible to import tables into an existing base?|||
-
-The script does not require a base to be empty. So you can run the script even in a base with existing, filled tables. The only thing you should avoid is duplicating table names.
+{{< /faq >}}
+{{< faq "Can Airtable Bases of any size be migrated?" >}}In principle, yes. However, the procedure presented in this article with the integrated Python editor is subject to a maximum runtime limit of 15 minutes, i.e. scripts that run for longer than 15 minutes are aborted. In practice, this is sufficient for the vast majority of bases. However, this limit can play a role for bases with large/many file attachments. In this case, you can reduce the runtime by excluding columns. If you do not want to exclude columns, you must run the Python script locally on a computer where there is no runtime limit.
+{{< /faq >}}
+{{< faq "Is it possible to import tables into an existing base?" >}}The script does not require a base to be empty. So you can run the script even in a base with existing, filled tables. The only thing you should avoid is duplicating table names.
 
 {{< /faq >}}

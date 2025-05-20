@@ -39,22 +39,10 @@ Chaque jeton contient les informations suivantes :
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Que peut-on faire avec l'API SeaTable ?|||
-
-L'API de SeaTable offre pratiquement toutes les fonctions que vous pourriez exécuter via un navigateur web. Dans certains cas, l'utilisation de l'API est même plus efficace, car vous pouvez programmer des activités répétitives une fois et les exécuter à plusieurs reprises. Mais en principe, il faut dire qu'une interface API n'est utilisée que par des développeurs expérimentés ou des utilisateurs puissants.
-
----
-
-Comment démarrer avec l'API SeaTable ?|||
-
-Le site [https://api.seatable.io](https://api.seatable.io) contient toutes les informations dont vous avez besoin pour faire vos premiers pas avec l'API SeaTable. Si vous n'avez jamais utilisé d'API auparavant, nous vous conseillons de lire d'abord quelques tutoriels pour débutants, car la documentation de l'API SeaTable part du principe que vous avez déjà de l'expérience avec les API.
-
----
-
-Y a-t-il une limite à l'exécution de l'API SeaTable ?|||
-
-Oui, l'API SeaTable a plusieurs limites, que vous trouverez toutes [ici](https://api.seatable.io/reference/limits). La limite la plus importante est un maximum de 300 demandes par minute et de 5.000 demandes par jour et par base individuelle. Dès que cette limite est atteinte, toutes les autres demandes sont rejetées avec le code d'erreur 429.
+{{< faq "Que peut-on faire avec l'API SeaTable ?" >}}L'API de SeaTable offre pratiquement toutes les fonctions que vous pourriez exécuter via un navigateur web. Dans certains cas, l'utilisation de l'API est même plus efficace, car vous pouvez programmer des activités répétitives une fois et les exécuter à plusieurs reprises. Mais en principe, il faut dire qu'une interface API n'est utilisée que par des développeurs expérimentés ou des utilisateurs puissants.
+{{< /faq >}}
+{{< faq "Comment démarrer avec l'API SeaTable ?" >}}Le site [https://api.seatable.io](https://api.seatable.io) contient toutes les informations dont vous avez besoin pour faire vos premiers pas avec l'API SeaTable. Si vous n'avez jamais utilisé d'API auparavant, nous vous conseillons de lire d'abord quelques tutoriels pour débutants, car la documentation de l'API SeaTable part du principe que vous avez déjà de l'expérience avec les API.
+{{< /faq >}}
+{{< faq "Y a-t-il une limite à l'exécution de l'API SeaTable ?" >}}Oui, l'API SeaTable a plusieurs limites, que vous trouverez toutes [ici](https://api.seatable.io/reference/limits). La limite la plus importante est un maximum de 300 demandes par minute et de 5.000 demandes par jour et par base individuelle. Dès que cette limite est atteinte, toutes les autres demandes sont rejetées avec le code d'erreur 429.
 
 {{< /faq >}}

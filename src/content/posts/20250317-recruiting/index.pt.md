@@ -1,16 +1,16 @@
 ---
-title: "Recrutamento compacto: como encontrar e convencer talentos"
-description: "Um processo de recrutamento bem sucedido determina se as empresas se mantêm preparadas para o futuro ou se ficam atrás da concorrência. Descubra quais as estratégias e métodos que levarão o seu recrutamento para o próximo nível e como pode manter-se à frente num mercado de trabalho competitivo."
+title: 'Recrutamento compacto: como encontrar e convencer talentos'
+description: 'Um processo de recrutamento bem sucedido determina se as empresas se mantêm preparadas para o futuro ou se ficam atrás da concorrência. Descubra quais as estratégias e métodos que levarão o seu recrutamento para o próximo nível e como pode manter-se à frente num mercado de trabalho competitivo.'
 seo:
-    title: "Recrutamento: dicas e estratégias para encontrar as pessoas certas"
-    description: "O futuro do recrutamento: conheça as novas tecnologias e as formas inovadoras de encontrar e reter os melhores candidatos"
+    title: 'Recrutamento: dicas e estratégias para encontrar as pessoas certas'
+    description: 'O futuro do recrutamento: conheça as novas tecnologias e as formas inovadoras de encontrar e reter os melhores candidatos'
 date: 2025-03-17
-categories: 
-  - "Informações gerais"
-tags: 
-  - "Gestão de candidatos e talentos"
-color: "#d4a2ee"
-url: "/pt/recruiting"
+categories:
+    - 'Informações gerais'
+tags:
+    - 'Gestão de candidatos e talentos'
+color: '#d4a2ee'
+url: '/pt/recruiting'
 ---
 
 ## Como chegar aos melhores talentos em linha
@@ -27,13 +27,13 @@ O recrutamento envolve muito mais do que apenas colocar anúncios de emprego. Ex
 
 ### Recrutamento interno
 
-O recrutamento interno consiste em recrutar novos efectivos a partir das próprias fileiras da empresa. As vagas são anunciadas na **intranet** da empresa ou em **newsletters** regulares, por exemplo, para que os empregados existentes possam candidatar-se às vagas. As referências** dos empregados também desempenham um papel importante: os empregados sugerem pessoas adequadas da sua própria rede, o que muitas vezes permite nomeações mais rápidas e mais adequadas. Outra estratégia de recrutamento interno consiste em preparar o seu próprio pessoal para novos cargos através de **desenvolvimento e promoção direcionados**.
+O recrutamento interno consiste em recrutar novos efectivos a partir das próprias fileiras da empresa. As vagas são anunciadas na **intranet** da empresa ou em **newsletters** regulares, por exemplo, para que os empregados existentes possam candidatar-se às vagas. As referências** dos empregados também desempenham um papel importante: os empregados sugerem pessoas adequadas da sua própria rede, o que muitas vezes permite nomeações mais rápidas e mais adequadas. Outra estratégia de recrutamento interno consiste em preparar o seu próprio pessoal para novos cargos através de **desenvolvimento e promoção direcionados\*\*.
 
 O recrutamento interno tem a vantagem de os empregados estarem **já familiarizados com os processos e estruturas da sua empresa**, permitindo uma transição sem problemas e um **período de indução mais curto**. Isto não só poupa tempo, como também reduz o esforço necessário para a indução. Além disso, os seus empregados sentir-se-ão valorizados se lhes oferecer oportunidades de desenvolvimento interno. No entanto, o recrutamento interno também traz desafios. A falta de novos impulsos vindos do exterior pode levar à estagnação da cultura da empresa. Pode também levar a uma espécie de "cegueira da empresa", uma vez que não são trazidas novas perspectivas. A **visibilidade da marca do empregador também permanece limitada**, uma vez que a presença externa desempenha um papel subordinado nesta abordagem.
 
 ### Recrutamento externo
 
-O recrutamento externo tem como objetivo atrair talentos para fora da empresa. Para além dos **anúncios clássicos de emprego**, métodos modernos como o **recrutamento social**, em que são utilizadas redes sociais como o LinkedIn ou o Instagram, estão a desempenhar um papel cada vez mais importante. O sourcing ativo**, ou seja, a abordagem direta de potenciais candidatos, bem como o **estabelecimento de parcerias com universidades** ou a **participação em feiras de carreiras** estão também entre as medidas. Além disso, as empresas estão a utilizar cada vez mais **abordagens criativas como o marketing de guerrilha** para chamar a atenção. Estas estratégias activas são complementadas por abordagens passivas, tais como a utilização de candidaturas não solicitadas ou de bolsas de talentos e a manutenção de uma marca de empregador positiva que posicione a empresa como um empregador atrativo.
+O recrutamento externo tem como objetivo atrair talentos para fora da empresa. Para além dos **anúncios clássicos de emprego**, métodos modernos como o **recrutamento social**, em que são utilizadas redes sociais como o LinkedIn ou o Instagram, estão a desempenhar um papel cada vez mais importante. O sourcing ativo**, ou seja, a abordagem direta de potenciais candidatos, bem como o **estabelecimento de parcerias com universidades** ou a **participação em feiras de carreiras** estão também entre as medidas. Além disso, as empresas estão a utilizar cada vez mais **abordagens criativas como o marketing de guerrilha\*\* para chamar a atenção. Estas estratégias activas são complementadas por abordagens passivas, tais como a utilização de candidaturas não solicitadas ou de bolsas de talentos e a manutenção de uma marca de empregador positiva que posicione a empresa como um empregador atrativo.
 
 O recrutamento externo tem a vantagem de chegar a um **maior número de potenciais candidatos**, o que aumenta as hipóteses de encontrar talentos particularmente qualificados. Os novos empregados também trazem frequentemente **ideias e perspectivas novas**, que podem promover o desenvolvimento da cultura da empresa. No entanto, também requerem um **período de indução mais longo** e existe alguma incerteza quanto à sua integração na equipa a longo prazo. Além disso, os **processos são muitas vezes mais demorados e dispendiosos** do que o recrutamento interno.
 
@@ -87,8 +87,8 @@ Um processo de recrutamento bem sucedido estabelece a base para atrair talentos 
 - A **velocidade do processo** também desempenha um papel importante. Os longos tempos de espera têm um efeito desmotivador e podem levar à desistência de talentos promissores. Por conseguinte, é essencial que os processos sejam eficientes e que as decisões sejam tomadas rapidamente.
 - A **transparência** é outra chave para um processo de recrutamento bem sucedido. Actualizações regulares e informações claras sobre os passos seguintes dão orientação aos candidatos e mostram que a sua empresa está a proceder de forma estruturada e profissional.
 - Para garantir a justiça e a objetividade, deve utilizar **perguntas e critérios de avaliação normalizados**. Isto minimiza as influências subjectivas e garante que todos os candidatos são avaliados de acordo com as mesmas normas.
-- Por último, o processo de recrutamento deve **refletir a cultura da sua empresa**. Uma aparência autêntica mostra o que a sua empresa representa e ajuda-o a encontrar candidatos que se enquadram bem não só profissionalmente, mas também em termos de personalidade.  
-    
+- Por último, o processo de recrutamento deve **refletir a cultura da sua empresa**. Uma aparência autêntica mostra o que a sua empresa representa e ajuda-o a encontrar candidatos que se enquadram bem não só profissionalmente, mas também em termos de personalidade.
+
 ![show-recruiting-process](Das-zeichnet-einen-guten-Recruiting-Prozess-aus.jpg)
 
 ## Custos incorridos no recrutamento
@@ -121,44 +121,24 @@ Experimente o SeaTable e veja como o recrutamento pode ser fácil. [Registe-se g
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-O que é o recrutamento e porque é que é tão importante?|||
-
-O recrutamento é o processo através do qual as empresas atraem os talentos adequados para as posições em aberto. Num mercado de trabalho altamente competitivo, um processo de recrutamento bem planeado determina o sucesso e a viabilidade futura de uma empresa.
-
----
-
-Que métodos existem para atrair novos talentos?|||
-
-As empresas podem escolher entre o recrutamento interno e externo. O recrutamento interno inclui medidas como a indicação de funcionários ou a contratação dentro da empresa. O recrutamento externo baseia-se em métodos como anúncios de emprego, recrutamento social ou procura ativa.
-
----
-
-O que torna uma estratégia de recrutamento bem sucedida?|||
-
-Uma boa estratégia de recrutamento é autêntica, eficaz e adaptada ao grupo-alvo. Tem em conta os seguintes aspectos:
+{{< faq "O que é o recrutamento e porque é que é tão importante?" >}}O recrutamento é o processo através do qual as empresas atraem os talentos adequados para as posições em aberto. Num mercado de trabalho altamente competitivo, um processo de recrutamento bem planeado determina o sucesso e a viabilidade futura de uma empresa.
+{{< /faq >}}
+{{< faq "Que métodos existem para atrair novos talentos?" >}}As empresas podem escolher entre o recrutamento interno e externo. O recrutamento interno inclui medidas como a indicação de funcionários ou a contratação dentro da empresa. O recrutamento externo baseia-se em métodos como anúncios de emprego, recrutamento social ou procura ativa.
+{{< /faq >}}
+{{< faq "O que torna uma estratégia de recrutamento bem sucedida?" >}}Uma boa estratégia de recrutamento é autêntica, eficaz e adaptada ao grupo-alvo. Tem em conta os seguintes aspectos:
 
 - descrições de funções claras e apelativas
 - processos rápidos e transparentes
 - ênfase na experiência do candidato para reter talentos a longo prazo
 - Utilização de ferramentas modernas, como o SeaTable, para uma gestão estruturada dos candidatos
+  {{< /faq >}}
+  {{< faq "Como é que encontro os melhores talentos online?" >}}O recrutamento online oferece uma vasta gama de oportunidades para chegar a pessoas talentosas:
 
----
-
-Como é que encontro os melhores talentos online?|||
-
-O recrutamento online oferece uma vasta gama de oportunidades para chegar a pessoas talentosas:
-
-- Utilize plataformas de redes sociais como o LinkedIn ou o Xing para entrar em contacto direto com os candidatos.  
-- Optimize o seu sítio Web de carreiras para que seja de fácil utilização e informativo.  
-- Colocar anúncios direcionados em quadros de emprego como o StepStone ou o Indeed.  
+- Utilize plataformas de redes sociais como o LinkedIn ou o Xing para entrar em contacto direto com os candidatos.
+- Optimize o seu sítio Web de carreiras para que seja de fácil utilização e informativo.
+- Colocar anúncios direcionados em quadros de emprego como o StepStone ou o Indeed.
 - Utilize abordagens criativas, como o marketing de guerrilha, para chamar a atenção.
-
----
-
-Que ferramentas gratuitas ajudam no recrutamento?|||
-
-Ferramentas como o SeaTable oferecem soluções completas para todo o processo de recrutamento. Com modelos gratuitos, pode gerir candidaturas de forma centralizada, organizar tarefas e agendar entrevistas. Isto poupa-lhe tempo e dinheiro sem comprometer a qualidade.
+  {{< /faq >}}
+  {{< faq "Que ferramentas gratuitas ajudam no recrutamento?" >}}Ferramentas como o SeaTable oferecem soluções completas para todo o processo de recrutamento. Com modelos gratuitos, pode gerir candidaturas de forma centralizada, organizar tarefas e agendar entrevistas. Isto poupa-lhe tempo e dinheiro sem comprometer a qualidade.
 
 {{< /faq >}}

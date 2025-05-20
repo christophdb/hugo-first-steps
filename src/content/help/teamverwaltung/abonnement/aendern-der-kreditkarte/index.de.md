@@ -27,26 +27,10 @@ Sie möchten Ihre Kreditkarte ändern, die Sie zur Bezahlung Ihres SeaTable-Abos
 
 ## Häufige Fragen rund um die Bezahlung per Kreditkarte
 
-{{< faq >}} Welche Kreditkarten werden akzeptiert?
-
-|||
-
-Aktuell werden Visa, Mastercard, American Express, China UnionPay und Cartes Bancaires akzeptiert.
-
----
-
-Kann eine Kreditkarte gelöscht werden?
-
-|||
-
-Aktuell kann eine Kreditkarte nicht gelöscht werden. Diese wird aber nur solange belastet, wie Sie ein kostenpflichtiges Abonnement haben.
-
----
-
-Wo werden die Kreditkartendaten gespeichert?
-
-|||
-
-Ihre Kreditkartendaten werden ausschließlich bei unserem Zahlungsdienstleister Stripe gespeichert. SeaTable speichert Ihre Zahlungsinformationen nicht.
+{{< faq "Welche Kreditkarten werden akzeptiert?" >}}Aktuell werden Visa, Mastercard, American Express, China UnionPay und Cartes Bancaires akzeptiert.
+{{< /faq >}}
+{{< faq "Kann eine Kreditkarte gelöscht werden?" >}}Aktuell kann eine Kreditkarte nicht gelöscht werden. Diese wird aber nur solange belastet, wie Sie ein kostenpflichtiges Abonnement haben.
+{{< /faq >}}
+{{< faq "Wo werden die Kreditkartendaten gespeichert?" >}}Ihre Kreditkartendaten werden ausschließlich bei unserem Zahlungsdienstleister Stripe gespeichert. SeaTable speichert Ihre Zahlungsinformationen nicht.
 
 {{< /faq >}}

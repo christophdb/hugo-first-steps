@@ -78,23 +78,11 @@ Este mensaje de error aparece cuando la importación de archivos falla debido a 
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Qué aspecto debe tener el archivo CSV que se va a importar en la tabla?|||
-
-El archivo CSV debe estar formateado según [la norma UTF-8](https://de.wikipedia.org/wiki/UTF-8) y contener el sufijo **.csv** al **final del nombre del archivo**.
-
----
-
-¿Se sustituirán los datos existentes durante la importación?|||
-
-**No**, **no** se sustituye ningún dato durante la importación.
-
----
-
-¿Los datos importados se insertan simplemente bajo las filas existentes?|||
-
-**Sí**, los datos importados se insertarán en las columnas correspondientes de la tabla bajo las filas ya existentes.
+{{< faq "¿Qué aspecto debe tener el archivo CSV que se va a importar en la tabla?" >}}El archivo CSV debe estar formateado según [la norma UTF-8](https://de.wikipedia.org/wiki/UTF-8) y contener el sufijo **.csv** al **final del nombre del archivo**.
+{{< /faq >}}
+{{< faq "¿Se sustituirán los datos existentes durante la importación?" >}}**No**, **no** se sustituye ningún dato durante la importación.
+{{< /faq >}}
+{{< faq "¿Los datos importados se insertan simplemente bajo las filas existentes?" >}}**Sí**, los datos importados se insertarán en las columnas correspondientes de la tabla bajo las filas ya existentes.
 
 {{< /faq >}}
 

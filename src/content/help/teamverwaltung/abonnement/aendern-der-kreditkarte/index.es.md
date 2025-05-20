@@ -27,22 +27,10 @@ url: '/es/ayuda/aendern-der-kreditkarte'
 
 ## Preguntas frecuentes sobre el pago con tarjeta de crédito
 
-{{< faq >}}
-
-¿Qué tarjetas de crédito se aceptan?|||
-
-Actualmente se aceptan Visa, Mastercard, American Express, China UnionPay y Cartes Bancaires.
-
----
-
-¿Se puede anular una tarjeta de crédito?|||
-
-Actualmente, una tarjeta de crédito no puede cancelarse. Sin embargo, solo se cargará mientras tengas una suscripción de pago.
-
----
-
-¿Dónde se guardan los datos de la tarjeta de crédito?|||
-
-Los datos de su tarjeta de crédito sólo se almacenan con nuestro proveedor de servicios de pago Stripe. SeaTable no almacena su información de pago.
+{{< faq "¿Qué tarjetas de crédito se aceptan?" >}}Actualmente se aceptan Visa, Mastercard, American Express, China UnionPay y Cartes Bancaires.
+{{< /faq >}}
+{{< faq "¿Se puede anular una tarjeta de crédito?" >}}Actualmente, una tarjeta de crédito no puede cancelarse. Sin embargo, solo se cargará mientras tengas una suscripción de pago.
+{{< /faq >}}
+{{< faq "¿Dónde se guardan los datos de la tarjeta de crédito?" >}}Los datos de su tarjeta de crédito sólo se almacenan con nuestro proveedor de servicios de pago Stripe. SeaTable no almacena su información de pago.
 
 {{< /faq >}}

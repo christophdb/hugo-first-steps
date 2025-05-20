@@ -2,8 +2,8 @@
 title: 'Créer une feuille de route : Comment visualiser clairement votre prochain projet'
 description: "Une feuille de route bien structurée est plus qu'un simple calendrier - elle montre le chemin vers vos objectifs de manière claire et compréhensible. Qu'il s'agisse de développement de stratégie, de gestion de projet ou de contrôle des progrès, une feuille de route vous permet de garder à tout moment une vue d'ensemble. Découvrez ici comment créer une feuille de route et économiser du temps et des ressources avec le bon modèle."
 seo:
-    title: "Créer une feuille de route : visualiser le projet de manière claire"
-    description: "Dans cet article de blog, vous apprendrez à créer une feuille de route et à gagner du temps et des ressources en utilisant le bon modèle"
+    title: 'Créer une feuille de route : visualiser le projet de manière claire'
+    description: 'Dans cet article de blog, vous apprendrez à créer une feuille de route et à gagner du temps et des ressources en utilisant le bon modèle'
 date: 2025-03-24
 categories:
     - 'Général'
@@ -157,14 +157,11 @@ Si vous souhaitez utiliser SeaTable pour créer votre feuille de route, il vous 
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Qu'est-ce qu'une feuille de route et comment peut-elle m'aider à planifier un projet?|||
+{{< faq "Qu'est-ce qu'une feuille de route et comment peut-elle m'aider à planifier un projet?" >}}
 Une feuille de route est une représentation visuelle d'un projet qui en décrit clairement les objectifs, les étapes et les tâches. Elle vous aide à structurer clairement l'ensemble du projet, de sorte que vous puissiez garder un œil sur les étapes importantes et surveiller les progrès. La feuille de route est particulièrement utile pour simplifier les projets complexes et améliorer la communication avec toutes les parties concernées.
+{{< /faq >}}
 
----
-
-Quels sont les différents types de feuilles de route?|||
+{{< faq "Quels sont les différents types de feuilles de route?" >}}
 Il existe différents types de feuilles de route, chacune s'adressant à des besoins et objectifs spécifiques. Parmi les plus courants, on trouve
 
 - Feuille de route de projet
@@ -173,9 +170,9 @@ Il existe différents types de feuilles de route, chacune s'adressant à des bes
 - Feuille de route technologique
 - Feuille de route intégrée
 
----
+{{< /faq >}}
 
-Quels sont les outils qui permettent de créer une feuille de route ?
+{{< faq "Quels sont les outils qui permettent de créer une feuille de route ?" >}}
 Il existe de nombreux outils qui peuvent vous aider à créer une feuille de route. SeaTable en est un exemple particulièrement flexible : c'est un outil de gestion de projet qui fournit des modèles de feuille de route personnalisables et qui prend en charge différents types de représentation, comme les diagrammes de Gantt.
 
 {{< /faq >}}

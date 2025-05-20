@@ -57,22 +57,10 @@ Em ambos os sentidos, define-se um e-mail normalizado cujo **texto** permanece o
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Os dados de acesso ao correio eletrónico (especialmente a palavra-passe) são visíveis para outras pessoas, por exemplo, quando partilho uma base?|||
-
-**Não**, os dados secretos de acesso ao correio eletrónico não são **postos em causa** pela libertação de uma base. Para as contas de correio eletrónico que iniciam sessão no servidor de correio eletrónico utilizando um nome de utilizador e uma palavra-passe, a palavra-passe deixa de ser apresentada em texto simples após a configuração. Para contas de correio eletrónico configuradas com autenticação OAuth 2.0, nem o ID nem a chave são apresentados.
-
----
-
-As contas de correio eletrónico são copiadas quando uma base é copiada?|||
-
-**Não**, as contas de e-mail configuradas para uma base **não** são **copiadas**. Se copiar uma base para a área _As minhas bases_ ou [para um grupo]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), tem de **configurar novamente** as contas de correio eletrónico na nova base.
-
----
-
-As contas de correio eletrónico também são exportadas quando se exporta uma base?|||
-
-**Não**, as contas de correio eletrónico configuradas numa base **não** são **exportadas para o [ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
+{{< faq "Os dados de acesso ao correio eletrónico (especialmente a palavra-passe) são visíveis para outras pessoas, por exemplo, quando partilho uma base?" >}}**Não**, os dados secretos de acesso ao correio eletrónico não são **postos em causa** pela libertação de uma base. Para as contas de correio eletrónico que iniciam sessão no servidor de correio eletrónico utilizando um nome de utilizador e uma palavra-passe, a palavra-passe deixa de ser apresentada em texto simples após a configuração. Para contas de correio eletrónico configuradas com autenticação OAuth 2.0, nem o ID nem a chave são apresentados.
+{{< /faq >}}
+{{< faq "As contas de correio eletrónico são copiadas quando uma base é copiada?" >}}**Não**, as contas de e-mail configuradas para uma base **não** são **copiadas**. Se copiar uma base para a área _As minhas bases_ ou [para um grupo]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), tem de **configurar novamente** as contas de correio eletrónico na nova base.
+{{< /faq >}}
+{{< faq "As contas de correio eletrónico também são exportadas quando se exporta uma base?" >}}**Não**, as contas de correio eletrónico configuradas numa base **não** são **exportadas para o [ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 
 {{< /faq >}}

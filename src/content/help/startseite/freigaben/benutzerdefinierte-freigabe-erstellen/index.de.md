@@ -94,18 +94,8 @@ Sie können benutzerdefinierte Freigabeberechtigungen im Nachhinein ändern, ind
 
 ## Häufige Fragen
 
-{{< faq >}} Wann ist eine benutzerdefinierte Freigabe sinnvoll?
-
-|||
-
-In SeaTable sollten Sie zusammengehörige Datensätze grundsätzlich in derselben Base erfassen. Wenn Sie nun nur **einen Teil der Daten** an jemanden **freigeben** wollen, dann sind benutzerdefinierte Freigaben das Mittel der Wahl.
-
----
-
-Kann man eine benutzerdefinierte Freigabe auch über einen Link teilen?
-
-|||
-
-**Nein**, benutzerdefinierte Freigaben können Sie aktuell nur an ein **Teammitglied** oder eine **Gruppe** senden.
+{{< faq "Wann ist eine benutzerdefinierte Freigabe sinnvoll?" >}}In SeaTable sollten Sie zusammengehörige Datensätze grundsätzlich in derselben Base erfassen. Wenn Sie nun nur **einen Teil der Daten** an jemanden **freigeben** wollen, dann sind benutzerdefinierte Freigaben das Mittel der Wahl.
+{{< /faq >}}
+{{< faq "Kann man eine benutzerdefinierte Freigabe auch über einen Link teilen?" >}}**Nein**, benutzerdefinierte Freigaben können Sie aktuell nur an ein **Teammitglied** oder eine **Gruppe** senden.
 
 {{< /faq >}}

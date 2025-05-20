@@ -47,28 +47,10 @@ Wenn Sie als **erste Spalte** einer Tabelle eine **Formel** definieren, können 
 
 ## Häufige Fragen
 
-{{< faq >}}
-
-Welche Einschränkungen hat die erste Spalte?
-
-|||
-
-Die erste Spalte kann weder **ausgeblendet** noch **verschoben** noch **gelöscht** werden.
-
----
-
-Kann man den Typ der ersten Spalte nachträglich ändern?
-
-|||
-
-Ja, dies ist möglich. In manchen Fällen kann es jedoch vorkommen, dass bei der [Änderung des Spaltentyps]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), beispielsweise von Text zu Zahl, Informationen **verloren gehen**. Prüfen Sie daher nach einer Konvertierung, ob alle Informationen korrekt und vollständig übernommen wurden.
-
----
-
-Was ist eine automatische Nummer?
-
-|||
-
-Wenn Ihre Zeilen eine **eindeutige Identifikationsnummer** haben sollen, könnte der Spaltentyp [Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) Ihnen gute Dienste erweisen. Beispiele sind Rechnungsnummern, Testfälle oder Mitarbeiter-IDs. Die Nummer lässt sich zusätzlich um ein beliebiges Präfix ergänzen.
+{{< faq "Welche Einschränkungen hat die erste Spalte?" >}}Die erste Spalte kann weder **ausgeblendet** noch **verschoben** noch **gelöscht** werden.
+{{< /faq >}}
+{{< faq "Kann man den Typ der ersten Spalte nachträglich ändern?" >}}Ja, dies ist möglich. In manchen Fällen kann es jedoch vorkommen, dass bei der [Änderung des Spaltentyps]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), beispielsweise von Text zu Zahl, Informationen **verloren gehen**. Prüfen Sie daher nach einer Konvertierung, ob alle Informationen korrekt und vollständig übernommen wurden.
+{{< /faq >}}
+{{< faq "Was ist eine automatische Nummer?" >}}Wenn Ihre Zeilen eine **eindeutige Identifikationsnummer** haben sollen, könnte der Spaltentyp [Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) Ihnen gute Dienste erweisen. Beispiele sind Rechnungsnummern, Testfälle oder Mitarbeiter-IDs. Die Nummer lässt sich zusätzlich um ein beliebiges Präfix ergänzen.
 
 {{< /faq >}}

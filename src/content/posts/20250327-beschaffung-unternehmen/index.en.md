@@ -1,17 +1,17 @@
 ---
-title: "5 tips on how to optimize procurement in your company"
-description: "Procurement is at the heart of every successful corporate strategy, and optimizing it not only saves costs but also increases competitiveness. In this article, we show you the biggest success factors and challenges for successful procurement and give you 5 tips to help you optimize your procurement processes."
+title: '5 tips on how to optimize procurement in your company'
+description: 'Procurement is at the heart of every successful corporate strategy, and optimizing it not only saves costs but also increases competitiveness. In this article, we show you the biggest success factors and challenges for successful procurement and give you 5 tips to help you optimize your procurement processes.'
 seo:
-    title: "Procurement in the company: Strategically well positioned"
-    description: "Efficient procurement processes are the be-all and end-all for corporate success. Discover strategies for purchasing processes & supplier management"
+    title: 'Procurement in the company: Strategically well positioned'
+    description: 'Efficient procurement processes are the be-all and end-all for corporate success. Discover strategies for purchasing processes & supplier management'
 date: 2025-03-27
-categories: 
-  - "Best Practice"
+categories:
+    - 'Best Practice'
 tags:
-- "Digital Transformation"
-- "Procurement & Logistics"
-color: "#a57956"
-url: "/beschaffung-unternehmen/"
+    - 'Digital Transformation'
+    - 'Procurement & Logistics'
+color: '#a57956'
+url: '/beschaffung-unternehmen/'
 ---
 
 ## Procurement management in companies
@@ -116,18 +116,16 @@ Register for free today with your e-mail address.
 
 ## FAQ Procurement
 
-{{< faq >}}
-
-What is involved in the procurement process?|||
+{{< faq "What is involved in the procurement process?" >}}
 Determining requirements, checking and approving orders, selecting suppliers and requesting quotations, checking incoming goods and quality control as well as subsequent payment processing are all part of the procurement process.
----
-What is procurement logistics?|||
+{{< /faq >}}
+{{< faq "What is procurement logistics?" >}}
 Procurement logistics is responsible for the procurement and management of materials in companies and ensures that the required materials are available. This also includes purchasing goods as economically as possible and at optimal conditions.
----
-What is a procurement strategy?|||
+{{< /faq >}}
+{{< faq "What is a procurement strategy?" >}}
 This involves various methods that responsible managers develop and apply in order to organize procurement in the company effectively and efficiently. It also determines whether purchasing is organized centrally or decentrally and whether a single sourcing, multiple sourcing or lead buyer approach is pursued.
----
-What is primary demand, secondary demand and tertiary demand?|||
+{{< /faq >}}
+{{< faq "What is primary demand, secondary demand and tertiary demand?" >}}
 Primary demand refers to the demand for end products, spare parts or saleable intermediate products that are sold directly to customers. In contrast, secondary demand goods are raw materials, components or intermediate products that a company needs to manufacture its goods, while tertiary demand includes operating materials or wear parts that are needed to transport the secondary goods.
 
 {{< /faq >}}

@@ -42,28 +42,12 @@ No início, a fórmula de pesquisa pode confundi-lo. Mas em breve verá que vai 
 
 ## Perguntas mais frequentes sobre a coluna Lookup
 
-{{< faq >}}
-
-É possível obter vários valores numa só tabela através de uma pesquisa?|||
-
-Definitivamente. Basta criar outra coluna e utilizar novamente a função de pesquisa. Desta forma, pode ler e exibir toda a informação que desejar a partir da tabela ligada.
-
----
-
-As consultas podem ser alteradas posteriormente?|||
-
-É claro que isto é possível. Clicar no **símbolo do triângulo** à direita do nome da coluna e depois no **tipo de coluna Personalizar**. Ajustar as definições da coluna e imediatamente é exibida a informação desejada.
-
----
-
-Os lookups funcionam com múltiplas ligações?|||
-
-Cada fórmula de pesquisa só pode ir buscar a informação a partir de **uma** coluna das suas tabelas ligadas. Mas é claro que pode ligar várias tabelas através de colunas de ligação e criar mais colunas de pesquisa para ler e exibir ainda mais informação.
-
----
-
-As entradas que são consultadas por pesquisa podem ser filtradas?|||
-
-Sim, pode filtrar as entradas como desejar. Para o fazer, active o correspondente **Controlador** no _Configuração das colunas_ e seleccione o **Coluna(s)** cujas entradas devem ser consultadas. Pode seleccionar qualquer número de **Condições de filtragem** definir.
+{{< faq "É possível obter vários valores numa só tabela através de uma pesquisa?" >}}Definitivamente. Basta criar outra coluna e utilizar novamente a função de pesquisa. Desta forma, pode ler e exibir toda a informação que desejar a partir da tabela ligada.
+{{< /faq >}}
+{{< faq "As consultas podem ser alteradas posteriormente?" >}}É claro que isto é possível. Clicar no **símbolo do triângulo** à direita do nome da coluna e depois no **tipo de coluna Personalizar**. Ajustar as definições da coluna e imediatamente é exibida a informação desejada.
+{{< /faq >}}
+{{< faq "Os lookups funcionam com múltiplas ligações?" >}}Cada fórmula de pesquisa só pode ir buscar a informação a partir de **uma** coluna das suas tabelas ligadas. Mas é claro que pode ligar várias tabelas através de colunas de ligação e criar mais colunas de pesquisa para ler e exibir ainda mais informação.
+{{< /faq >}}
+{{< faq "As entradas que são consultadas por pesquisa podem ser filtradas?" >}}Sim, pode filtrar as entradas como desejar. Para o fazer, active o correspondente **Controlador** no _Configuração das colunas_ e seleccione o **Coluna(s)** cujas entradas devem ser consultadas. Pode seleccionar qualquer número de **Condições de filtragem** definir.
 
 {{< /faq >}}

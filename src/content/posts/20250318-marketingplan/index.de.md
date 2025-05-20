@@ -2,8 +2,8 @@
 title: 'Wie Sie einen professionellen Marketingplan erstellen und umsetzen'
 description: 'In Marketing-Teams mangelt es selten an kreativen Ideen. Umso wichtiger ist ein sorgfältig erarbeiteter Marketingplan, um Ihre Kampagnen zielgerichtet zu planen und umzusetzen. Wir zeigen in 6 Schritten, worauf es dabei ankommt und wie Sie ganz leicht in die Umsetzung kommen – mit digitaler Vorlage.'
 seo:
-    title: "Marketingplan erstellen: So erreichen Sie Ihre Ziele | SeaTable"
-    description: "Erfahren Sie, wie Sie einen effektiven Marketingplan erstellen, um Ihre Geschäftsziele zu erreichen, von der Analyse bis zur Umsetzung"
+    title: 'Marketingplan erstellen: So erreichen Sie Ihre Ziele | SeaTable'
+    description: 'Erfahren Sie, wie Sie einen effektiven Marketingplan erstellen, um Ihre Geschäftsziele zu erreichen, von der Analyse bis zur Umsetzung'
 date: 2025-03-18
 categories:
     - 'Allgemein'
@@ -136,17 +136,9 @@ Ob [Marketingkampagne](https://seatable.io/vorlage/to2pxzc9q0ww0ciwhfyosa/), Soc
 
 ## FAQ – Marketingplan
 
-{{< faq >}}
-
-Was ist ein Marketingplan? |||
-
-Ein Marketingplan ist ein Dokument, in dem die geplanten Marketingaktivitäten eines Unternehmens mit Zielgruppen und Kampagnenlaufzeit festgehalten werden.
-
----
-
-Was muss bei der Erstellung eines Marketingplans berücksichtigt werden? |||
-
-Wenn Sie einen Marketing Plan erstellen, gibt es unabhängig von den Zielen und Produkten eines Unternehmens einige Punkte, die Sie beim Marketingplan Aufbau berücksichtigen müssen:
+{{< faq "Was ist ein Marketingplan? " >}}Ein Marketingplan ist ein Dokument, in dem die geplanten Marketingaktivitäten eines Unternehmens mit Zielgruppen und Kampagnenlaufzeit festgehalten werden.
+{{< /faq >}}
+{{< faq "Was muss bei der Erstellung eines Marketingplans berücksichtigt werden? " >}}Wenn Sie einen Marketing Plan erstellen, gibt es unabhängig von den Zielen und Produkten eines Unternehmens einige Punkte, die Sie beim Marketingplan Aufbau berücksichtigen müssen:
 
 - Controlling und Ergebnisanalyse
 - Ist-Analyse der eigenen Ressourcen
@@ -154,11 +146,7 @@ Wenn Sie einen Marketing Plan erstellen, gibt es unabhängig von den Zielen und 
 - Zielgruppendefinition
 - Budget
 - Ideen- und Maßnahmenplan
-
----
-
-Warum sollte man eine Cloud-Lösung wie SeaTable nutzen, um einen Marketingplan zu erstellen? |||
-
-Die Nutzung eines Cloud-Tools wie z. B. SeaTables bietet einige Vorteile. Zum einen ermöglichen diese Tools ein schnelleres, effizienteres und transparenteres Arbeiten im Team, wodurch Missverständnisse vermieden werden. Zum anderen wird die zeitliche und inhaltliche Steuerung aller Aufgaben erleichtert, wenn Informationen zentral zusammengeführt und jederzeit abgerufen werden können.
+  {{< /faq >}}
+  {{< faq "Warum sollte man eine Cloud-Lösung wie SeaTable nutzen, um einen Marketingplan zu erstellen? " >}}Die Nutzung eines Cloud-Tools wie z. B. SeaTables bietet einige Vorteile. Zum einen ermöglichen diese Tools ein schnelleres, effizienteres und transparenteres Arbeiten im Team, wodurch Missverständnisse vermieden werden. Zum anderen wird die zeitliche und inhaltliche Steuerung aller Aufgaben erleichtert, wenn Informationen zentral zusammengeführt und jederzeit abgerufen werden können.
 
 {{< /faq >}}

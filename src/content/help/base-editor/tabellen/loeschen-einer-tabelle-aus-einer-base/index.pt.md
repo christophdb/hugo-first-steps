@@ -21,16 +21,8 @@ Já não precisa de tabelas individuais a partir das suas bases? Depois pode apa
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-É possível restaurar tabelas apagadas?|||
-
-No SeaTable não é preciso ter medo de apagar. Mesmo se apagar acidentalmente uma mesa, linha ou coluna, pode facilmente [recuperá-la](https://seatable.io/pt/docs/bases-verwalten/eine-geloeschte-tabelle-wiederherstellen/). Pode encontrar os seus dados apagados no caixote do lixo da reciclagem de base.
-
----
-
-Não consigo encontrar a opção de apagar a tabela|||
-
-Se só resta uma tabela numa base, a opção _Eliminar tabela_ já não é exibida. Deve também ter a autorização necessária para eliminar uma tabela.
+{{< faq "É possível restaurar tabelas apagadas?" >}}No SeaTable não é preciso ter medo de apagar. Mesmo se apagar acidentalmente uma mesa, linha ou coluna, pode facilmente [recuperá-la](https://seatable.io/pt/docs/bases-verwalten/eine-geloeschte-tabelle-wiederherstellen/). Pode encontrar os seus dados apagados no caixote do lixo da reciclagem de base.
+{{< /faq >}}
+{{< faq "Não consigo encontrar a opção de apagar a tabela" >}}Se só resta uma tabela numa base, a opção _Eliminar tabela_ já não é exibida. Deve também ter a autorização necessária para eliminar uma tabela.
 
 {{< /faq >}}

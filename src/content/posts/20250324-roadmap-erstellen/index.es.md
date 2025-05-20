@@ -2,8 +2,8 @@
 title: 'Crear una hoja de ruta: Cómo visualizar claramente tu próximo proyecto'
 description: 'Una hoja de ruta bien estructurada es algo más que un calendario: muestra el camino hacia tus objetivos de forma clara y comprensible. Ya se trate del desarrollo de estrategias, la gestión de proyectos o el seguimiento de los avances: con una hoja de ruta siempre tendrá una visión de conjunto. Aquí descubrirá cómo crear una hoja de ruta y ahorrar tiempo y recursos con la plantilla adecuada.'
 seo:
-    title: "Cree una hoja de ruta: Visualice su proyecto con claridad"
-    description: "En este artículo, aprenderá a crear una hoja de ruta y ahorrar tiempo y recursos con la plantilla adecuada"
+    title: 'Cree una hoja de ruta: Visualice su proyecto con claridad'
+    description: 'En este artículo, aprenderá a crear una hoja de ruta y ahorrar tiempo y recursos con la plantilla adecuada'
 date: 2025-03-24
 categories:
     - 'General'
@@ -157,14 +157,10 @@ Si desea utilizar SeaTable para crear su hoja de ruta, sólo tiene que registrar
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Qué es una hoja de ruta y cómo puede ayudarme a planificar un proyecto?|||
+{{< faq "¿Qué es una hoja de ruta y cómo puede ayudarme a planificar un proyecto?" >}}
 Una hoja de ruta es una representación visual de un proyecto que muestra claramente sus objetivos, hitos y tareas. Le ayuda a estructurar claramente todo el curso del proyecto, de modo que pueda estar atento a los pasos importantes y supervisar el progreso. La hoja de ruta es especialmente útil para simplificar proyectos complejos y mejorar la comunicación con todos los implicados.
-
----
-
-¿Qué tipos de hojas de ruta existen?|||
+{{< /faq >}}
+{{< faq "¿Qué tipos de hojas de ruta existen?" >}}
 Existen distintos tipos de hojas de ruta, cada uno de los cuales aborda requisitos y objetivos específicos. Las más comunes son
 
 - Hoja de ruta del proyecto
@@ -172,10 +168,8 @@ Existen distintos tipos de hojas de ruta, cada uno de los cuales aborda requisit
 - Hoja de ruta del producto
 - Hoja de ruta tecnológica
 - Hoja de ruta integrada
-
----
-
-¿Qué herramientas son adecuadas para crear una hoja de ruta?|||
-Existen numerosas herramientas que pueden ayudarle a crear una hoja de ruta. Un ejemplo especialmente flexible es SeaTable: una herramienta de gestión de proyectos que proporciona plantillas personalizables de hojas de ruta y admite varios formatos de visualización, como diagramas de Gantt.
+  {{< /faq >}}
+  {{< faq "  ¿Qué herramientas son adecuadas para crear una hoja de ruta?" >}}
+  Existen numerosas herramientas que pueden ayudarle a crear una hoja de ruta. Un ejemplo especialmente flexible es SeaTable: una herramienta de gestión de proyectos que proporciona plantillas personalizables de hojas de ruta y admite varios formatos de visualización, como diagramas de Gantt.
 
 {{< /faq >}}

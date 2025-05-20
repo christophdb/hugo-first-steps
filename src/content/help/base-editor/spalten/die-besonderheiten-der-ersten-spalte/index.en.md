@@ -47,22 +47,10 @@ If you define a **formula** as the **first column** of a table, you can use the 
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-What are the limitations of the first column?|||
-
-The first column cannot be **hidden**, **moved** or **deleted**.
-
----
-
-Is it possible to change the type of the first column afterwards?|||
-
-Yes, this is possible. However, in some cases information may be **lost** when [changing the column type]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), for example from text to number. Therefore, after a conversion, check whether all information has been transferred correctly and completely.
-
----
-
-What is an automatic number?|||
-
-If you want your rows to have a **unique identification number**, the [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) column type could serve you well. Examples include invoice numbers, test cases or employee IDs. The number can also be supplemented with any prefix.
+{{< faq "What are the limitations of the first column?" >}}The first column cannot be **hidden**, **moved** or **deleted**.
+{{< /faq >}}
+{{< faq "Is it possible to change the type of the first column afterwards?" >}}Yes, this is possible. However, in some cases information may be **lost** when [changing the column type]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), for example from text to number. Therefore, after a conversion, check whether all information has been transferred correctly and completely.
+{{< /faq >}}
+{{< faq "What is an automatic number?" >}}If you want your rows to have a **unique identification number**, the [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) column type could serve you well. Examples include invoice numbers, test cases or employee IDs. The number can also be supplemented with any prefix.
 
 {{< /faq >}}

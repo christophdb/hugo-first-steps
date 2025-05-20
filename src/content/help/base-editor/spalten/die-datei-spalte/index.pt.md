@@ -100,22 +100,10 @@ Se clicar nos **três pontos**, tem duas opções para guardar o ficheiro: Ao **
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Um ficheiro pode ser descarregado durante uma acção de leitura?|||
-
-Sim. Mesmo que um utilizador só tenha **permissão de leitura**, pode descarregar ficheiros.
-
----
-
-Os ficheiros áudio podem ser reproduzidos em SeaTable?|||
-
-Não. Para poder reproduzir **ficheiros áudio**, deve primeiro descarregá-los.
-
----
-
-É possível alterar a ordem dos ficheiros numa coluna de ficheiros?|||
-
-Não, a ordem **não pode** ser alterada dentro de uma coluna de ficheiro. O documento carregado primeiro vem em primeiro lugar. Pela ordem em que se carregam os documentos, pode-se determinar a ordem dentro da coluna do ficheiro.
+{{< faq "Um ficheiro pode ser descarregado durante uma acção de leitura?" >}}Sim. Mesmo que um utilizador só tenha **permissão de leitura**, pode descarregar ficheiros.
+{{< /faq >}}
+{{< faq "Os ficheiros áudio podem ser reproduzidos em SeaTable?" >}}Não. Para poder reproduzir **ficheiros áudio**, deve primeiro descarregá-los.
+{{< /faq >}}
+{{< faq "É possível alterar a ordem dos ficheiros numa coluna de ficheiros?" >}}Não, a ordem **não pode** ser alterada dentro de uma coluna de ficheiro. O documento carregado primeiro vem em primeiro lugar. Pela ordem em que se carregam os documentos, pode-se determinar a ordem dentro da coluna do ficheiro.
 
 {{< /faq >}}

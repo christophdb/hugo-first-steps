@@ -25,22 +25,10 @@ Pode alterar a **ordem** em que as suas opiniões sobre uma tabela são listadas
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-A encomenda é individual para cada utilizador?|||
-
-Não. A ordem das opiniões é a mesma para todos os utilizadores de uma base.
-
----
-
-As opiniões também podem ser agrupadas?|||
-
-Claro que sim. As vistas podem ser facilmente organizadas em [pastas]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
-
----
-
-Os pontos de vista privados comportam-se de forma diferente?|||
-
-Não. Pode-se mover vistas privadas da mesma forma usando o arrastar e largar. No entanto, as opiniões privadas só são visíveis para si.
+{{< faq "A encomenda é individual para cada utilizador?" >}}Não. A ordem das opiniões é a mesma para todos os utilizadores de uma base.
+{{< /faq >}}
+{{< faq "As opiniões também podem ser agrupadas?" >}}Claro que sim. As vistas podem ser facilmente organizadas em [pastas]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
+{{< /faq >}}
+{{< faq "Os pontos de vista privados comportam-se de forma diferente?" >}}Não. Pode-se mover vistas privadas da mesma forma usando o arrastar e largar. No entanto, as opiniões privadas só são visíveis para si.
 
 {{< /faq >}}

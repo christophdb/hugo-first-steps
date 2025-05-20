@@ -23,27 +23,15 @@ Em alternativa, pode desfazer a sua última acção com um **clique do rato** na
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Por quanto tempo podem as mudanças ser desfeitas?|||
-
-Em princípio, pode desfazer qualquer entrada ou alteração dentro de uma sessão. No entanto, assim que sair da base, os últimos passos não podem ser desfeitos com as duas opções descritas na próxima vez que chamar a base.
-
----
-
-O que pode ser tudo desfeito?|||
-
-As seguintes acções podem ser desfeitas:
+{{< faq "Por quanto tempo podem as mudanças ser desfeitas?" >}}Em princípio, pode desfazer qualquer entrada ou alteração dentro de uma sessão. No entanto, assim que sair da base, os últimos passos não podem ser desfeitos com as duas opções descritas na próxima vez que chamar a base.
+{{< /faq >}}
+{{< faq "O que pode ser tudo desfeito?" >}}As seguintes acções podem ser desfeitas:
 
 - Entradas/alterações numa célula
 - Mudanças nas colunas (nome, tipo, posição)
 - Ordem das linhas
-
----
-
-Acções que não podem ser desfeitas|||
-
-Alguns processos não podem ser invertidos. Estes incluem, mas não estão limitados a:
+  {{< /faq >}}
+  {{< faq "Acções que não podem ser desfeitas" >}}Alguns processos não podem ser invertidos. Estes incluem, mas não estão limitados a:
 
 - Linhas de bloqueio
 - Mudanças de ordenação, agrupamento ou filtragem

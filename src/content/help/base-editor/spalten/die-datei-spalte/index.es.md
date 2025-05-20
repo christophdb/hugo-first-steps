@@ -100,22 +100,10 @@ Si pulsa sobre los **tres puntos**, tiene dos opciones para guardar el archivo: 
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Se puede descargar un archivo durante una lectura compartida?|||
-
-Sí. Aunque un usuario sólo tenga **permiso de** lectura, puede descargar archivos.
-
----
-
-¿Se pueden reproducir archivos de audio en SeaTable?|||
-
-No. Para poder reproducir **archivos de** audio, primero debes descargarlos.
-
----
-
-¿Es posible cambiar el orden de los ficheros en una columna de ficheros?|||
-
-No, el orden **no puede** modificarse dentro de una columna de archivo. El documento cargado en primer lugar es el primero. Según el orden en que cargue los documentos, podrá determinar el orden dentro de la columna de archivos.
+{{< faq "¿Se puede descargar un archivo durante una lectura compartida?" >}}Sí. Aunque un usuario sólo tenga **permiso de** lectura, puede descargar archivos.
+{{< /faq >}}
+{{< faq "¿Se pueden reproducir archivos de audio en SeaTable?" >}}No. Para poder reproducir **archivos de** audio, primero debes descargarlos.
+{{< /faq >}}
+{{< faq "¿Es posible cambiar el orden de los ficheros en una columna de ficheros?" >}}No, el orden **no puede** modificarse dentro de una columna de archivo. El documento cargado en primer lugar es el primero. Según el orden en que cargue los documentos, podrá determinar el orden dentro de la columna de archivos.
 
 {{< /faq >}}

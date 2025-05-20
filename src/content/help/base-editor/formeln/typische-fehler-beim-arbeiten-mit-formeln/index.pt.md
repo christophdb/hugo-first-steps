@@ -13,13 +13,7 @@ No entanto, uma vez que o trabalho com fórmulas mais complexas pode facilmente 
 
 ## Erros típicos ao trabalhar com fórmulas
 
-{{< faq >}}
-{{< /faq >}}
-FIXME: ...
-
-Falta de vírgulas invertidas para elementos de texto|||
-
-Cada elemento de texto nas suas fórmulas **deve ser** colocado entre _aspas_ para que seja reconhecido pelo assistente de fórmulas. Se um texto **não** estiver entre aspas, pode aparecer a seguinte **mensagem de erro**:
+{{< faq "Falta de vírgulas invertidas para elementos de texto" >}}Cada elemento de texto nas suas fórmulas **deve ser** colocado entre _aspas_ para que seja reconhecido pelo assistente de fórmulas. Se um texto **não** estiver entre aspas, pode aparecer a seguinte **mensagem de erro**:
 
 ![Mensagem de erro que aparece quando faltam aspas à volta de elementos de texto](images/Fehlermeldung-fehlende-Anfuehrungszeichen-bei-Textelementen.png)
 
@@ -32,12 +26,8 @@ Cada elemento de texto nas suas fórmulas **deve ser** colocado entre _aspas_ pa
 ![Introdução correcta de elementos de texto](images/richtige-eingabe-anfuehrungszeichen.png)
 
 {{< warning  headline="Dica"  text="Os elementos de texto são sempre marcados a **vermelho** numa fórmula e podem assim ser distinguidos de outros elementos. Se um _elemento de texto_ introduzido no assistente de fórmulas **não** for automaticamente marcado a **vermelho**, isso significa que foi introduzido **incorrectamente**." />}}
-
----
-
-Os suportes para as funções estão em falta ou mal colocados|||
-
-**No** editor de fórmulas, cada _função_ deve ser seguida por um _parêntesis de abertura_ antes de poderem ser adicionados outros elementos à fórmula.  
+{{< /faq >}}
+{{< faq "Os suportes para as funções estão em falta ou mal colocados" >}}**No** editor de fórmulas, cada _função_ deve ser seguida por um _parêntesis de abertura_ antes de poderem ser adicionados outros elementos à fórmula.  
 Se todos os elementos de uma função tiverem sido adicionados à fórmula, esta deve também ser _fechada_ com um parêntesis _de fecho_. Se **não** forem colocados parênteses, a função **não pode** ser reconhecida pelo assistente de fórmulas e podem aparecer as seguintes mensagens de erro:
 
 ![Mensagem de erro que aparece se não for definido um parêntesis de abertura após uma função](images/Fehlermeldung-bei-fehlender-Klammer-nach-einer-Funktion.png)
@@ -53,12 +43,8 @@ Se todos os elementos de uma função tiverem sido adicionados à fórmula, esta
 ![Entrada correcta de uma função](images/korrekte-eingabe-funktion-1.png)
 
 {{< warning  headline="Dica"  text="As funções são sempre destacadas a **azul** numa fórmula. Se mover o cursor para um _parêntesis de abertura ou de fecho_ no _editor de fórmulas_, o _parêntesis_ correspondente é **realçado**. Isto facilita o reconhecimento de substituições de parênteses em falta ou incorrectas ao introduzir funções." />}}
-
----
-
-Substituição incorrecta do suporte em geral|||
-
-A definição correcta dos _parênteses_ é um dos maiores desafios ao introduzir fórmulas. Quer sejam _parênteses_ _redondos_, _quadrados_ ou curvos, devem ser sempre colocados na **posição correcta** numa fórmula para que sejam reconhecidos pelo _assistente de fórmulas_.
+{{< /faq >}}
+{{< faq "Substituição incorrecta do suporte em geral" >}}A definição correcta dos _parênteses_ é um dos maiores desafios ao introduzir fórmulas. Quer sejam _parênteses_ _redondos_, _quadrados_ ou curvos, devem ser sempre colocados na **posição correcta** numa fórmula para que sejam reconhecidos pelo _assistente de fórmulas_.
 
 {{< warning  headline="Dica mais importante para uma substituição correcta do suporte"  text="Se mover o cursor sobre um _parêntesis de abertura ou de fecho_ no _editor de fórmulas_, o _parêntesis_ correspondente é **realçado**. Isto facilita o reconhecimento de substituições de parênteses **em falta** ou **incorrectas**." />}}
 
@@ -94,12 +80,8 @@ Se não tiver a certeza, lembre-se que o _parêntese_ correspondente é sempre *
 ### Entrada correcta:
 
 ![Entrada correcta de uma função com referência de coluna](images/korrekte-eingabe-einer-funktion-mit-spaltenverweis.png)
-
----
-
-Não consigo ligar várias funções na minha fórmula, uma após a outra|||
-
-Se pretender incluir várias _funções_ na fórmula, deve ter o cuidado de separar sempre as funções individuais com uma **vírgula**.
+{{< /faq >}}
+{{< faq "Não consigo ligar várias funções na minha fórmula, uma após a outra" >}}Se pretender incluir várias _funções_ na fórmula, deve ter o cuidado de separar sempre as funções individuais com uma **vírgula**.
 
 Além disso, é necessário terminar as fórmulas que contêm várias funções com vários _colchetes de fechamento_. Se a fórmula contém **três** _funções_, por exemplo, ela também deve ser encerrada com **três** _colchetes_ no editor de fórmulas.
 
@@ -118,12 +100,8 @@ Se os pontos acima **não** forem respeitados, a fórmula introduzida **não pod
 ![Introdução correcta de uma fórmula em que várias funções foram ligadas em série ](images/korrekte-eingabe-formel-mit-mehreren-funktionen.png)
 
 {{< warning  headline="Dica"  text="Para fórmulas mais complexas, trabalhe sempre com _espaços_ e _quebras de linha_ para que possa ver as _funções_ individuais _da_ sua fórmula separadamente e para que os erros sejam mais fáceis de detectar." />}}
-
----
-
-Não consigo ligar vários elementos de texto na minha fórmula|||
-
-Para ligar vários elementos de texto na sua fórmula, deve separar os _elementos de texto_ individuais uns dos outros com um**"símbolo &**". Se **não** forem adicionados _símbolos &_ entre os elementos de texto, o assistente de fórmulas **não pode** reconhecer a fórmula introduzida e aparece a seguinte mensagem de erro:
+{{< /faq >}}
+{{< faq "Não consigo ligar vários elementos de texto na minha fórmula" >}}Para ligar vários elementos de texto na sua fórmula, deve separar os _elementos de texto_ individuais uns dos outros com um**"símbolo &**". Se **não** forem adicionados _símbolos &_ entre os elementos de texto, o assistente de fórmulas **não pode** reconhecer a fórmula introduzida e aparece a seguinte mensagem de erro:
 
 ![Mensagem de erro que aparece quando vários elementos de texto numa fórmula não estão separados por &.](images/Fehlermeldung-bei-fehlendenen-zwischen-Textelementen.png)
 
@@ -138,3 +116,5 @@ Para ligar vários elementos de texto na sua fórmula, deve separar os _elemento
 {{< warning headline="Dica" text="Para que os vários elementos de texto sejam representados por um _Espaço_ estão ligados separadamente, acrescentando em cada caso **atrás** os dois primeiros elementos de texto, para além de um **& símbolo** e dois **Vírgula invertida (em cima)** acrescentado." />}}
 
 ![Editar a fórmula de modo a que os elementos de texto sejam ligados de cada vez separados por um carácter de espaço](images/Leerzeichen-zwischen-Textelementen.png)
+
+{{< /faq >}}

@@ -27,22 +27,10 @@ Vous souhaitez modifier la carte de crédit que vous avez utilisée pour payer v
 
 ## Questions fréquentes sur le paiement par carte de crédit
 
-{{< faq >}}
-
-Quelles cartes de crédit sont acceptées ?|||
-
-Actuellement, les cartes acceptées sont Visa, Mastercard, American Express, China UnionPay et Cartes Bancaires.
-
----
-
-Une carte de crédit peut-elle être annulée ?|||
-
-Actuellement, il n'est pas possible de supprimer une carte de crédit. Elle ne sera toutefois débitée que tant que vous aurez un abonnement payant.
-
----
-
-Où sont stockées les données des cartes de crédit ?|||
-
-Les informations relatives à votre carte de crédit sont uniquement conservées par notre prestataire de services de paiement Stripe. SeaTable ne stocke pas vos informations de paiement.
+{{< faq "Quelles cartes de crédit sont acceptées ?" >}}Actuellement, les cartes acceptées sont Visa, Mastercard, American Express, China UnionPay et Cartes Bancaires.
+{{< /faq >}}
+{{< faq "Une carte de crédit peut-elle être annulée ?" >}}Actuellement, il n'est pas possible de supprimer une carte de crédit. Elle ne sera toutefois débitée que tant que vous aurez un abonnement payant.
+{{< /faq >}}
+{{< faq "Où sont stockées les données des cartes de crédit ?" >}}Les informations relatives à votre carte de crédit sont uniquement conservées par notre prestataire de services de paiement Stripe. SeaTable ne stocke pas vos informations de paiement.
 
 {{< /faq >}}

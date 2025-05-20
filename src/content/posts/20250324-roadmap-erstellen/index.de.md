@@ -2,8 +2,8 @@
 title: 'Roadmap erstellen: Wie Sie Ihr nächstes Projekt übersichtlich visualisieren'
 description: 'Eine gut strukturierte Roadmap ist mehr als nur ein Zeitplan – sie zeigt den Weg zu Ihren Zielen klar und verständlich auf. Ob Strategieentwicklung, Projektmanagement oder Fortschrittskontrolle: Mit einer Roadmap behalten Sie jederzeit den Überblick. Hier erfahren Sie, wie Sie eine Roadmap erstellen und dabei mit der richtigen Vorlage Zeit und Ressourcen sparen.'
 seo:
-    title: "Roadmap erstellen: Projekt übersichtlich visualisieren"
-    description: "In diesem Blogartikel erfahren Sie, wie Sie eine Roadmap erstellen und dabei mit der richtigen Vorlage Zeit und Ressourcen sparen"
+    title: 'Roadmap erstellen: Projekt übersichtlich visualisieren'
+    description: 'In diesem Blogartikel erfahren Sie, wie Sie eine Roadmap erstellen und dabei mit der richtigen Vorlage Zeit und Ressourcen sparen'
 date: 2025-03-24
 categories:
     - 'Best Practice'
@@ -157,14 +157,10 @@ Wenn Sie SeaTable für die Erstellung Ihrer Roadmap nutzen möchten, registrier
 
 ## Häufig gestellte Fragen
 
-{{< faq >}}
-
-Was ist eine Roadmap und wie kann sie mir bei der Projektplanung helfen?|||
+{{< faq "Was ist eine Roadmap und wie kann sie mir bei der Projektplanung helfen?" >}}
 Eine Roadmap ist eine visuelle Darstellung eines Projekts, die dessen Ziele, Meilensteine und Aufgaben übersichtlich darstellt. Sie hilft Ihnen dabei, den gesamten Projektverlauf klar zu strukturieren, so dass Sie die wichtigen Schritte im Auge behalten und den Fortschritt überwachen können. Die Roadmap ist besonders hilfreich, um komplexe Projekte zu vereinfachen und die Kommunikation mit allen Beteiligten zu verbessern.
-
----
-
-Welche Arten von Roadmaps gibt es?|||
+{{< /faq >}}
+{{< faq "Welche Arten von Roadmaps gibt es?" >}}
 Es gibt verschiedene Arten von Roadmaps, die jeweils spezifische Anforderungen und Ziele adressieren. Zu den häufigsten gehören:
 
 - Projekt-Roadmap
@@ -172,10 +168,8 @@ Es gibt verschiedene Arten von Roadmaps, die jeweils spezifische Anforderungen u
 - Produkt-Roadmap
 - Technologie-Roadmap
 - Integrierte Roadmap
-
----
-
-Welche Tools eignen sich zur Erstellung einer Roadmap?|||
-Es gibt zahlreiche Tools, die Ihnen bei der Erstellung einer Roadmap helfen können. Ein besonders flexibles Beispiel ist SeaTable: Ein Projektmanagement-Tool, das individuell anpassbare Roadmap-Vorlagen bereitstellt und verschiedene Darstellungsformen wie Gantt-Diagramme unterstützt.
+  {{< /faq >}}
+  {{< faq "  Welche Tools eignen sich zur Erstellung einer Roadmap?" >}}
+  Es gibt zahlreiche Tools, die Ihnen bei der Erstellung einer Roadmap helfen können. Ein besonders flexibles Beispiel ist SeaTable: Ein Projektmanagement-Tool, das individuell anpassbare Roadmap-Vorlagen bereitstellt und verschiedene Darstellungsformen wie Gantt-Diagramme unterstützt.
 
 {{< /faq >}}

@@ -21,16 +21,8 @@ Pode apagar vistas que tenham sido criadas incorrectamente ou que se tenham torn
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Uma vista eliminada pode ser restaurada?|||
-
-**Não**. Uma vez que uma vista não contém quaisquer dados próprios, mas é apenas uma representação especial dos dados, uma vista apagada não pode ser apagada nem através do caixote da reciclagem nem através do atalho {{< key "CTRL" >}} + {{< key "Z" >}} Restaurar.
-
----
-
-Uma vista pode ser sempre apagada?|||
-
-Só pode eliminar vistas se tiver criado **pelo menos uma vista adicional** à vista padrão.
+{{< faq "Uma vista eliminada pode ser restaurada?" >}}**Não**. Uma vez que uma vista não contém quaisquer dados próprios, mas é apenas uma representação especial dos dados, uma vista apagada não pode ser apagada nem através do caixote da reciclagem nem através do atalho {{< key "CTRL" >}} + {{< key "Z" >}} Restaurar.
+{{< /faq >}}
+{{< faq "Uma vista pode ser sempre apagada?" >}}Só pode eliminar vistas se tiver criado **pelo menos uma vista adicional** à vista padrão.
 
 {{< /faq >}}

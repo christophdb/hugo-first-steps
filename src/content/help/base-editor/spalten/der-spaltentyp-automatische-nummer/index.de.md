@@ -26,26 +26,10 @@ Beim Anlegen der Spalte _Automatische Nummer_ legen Sie fest, welches **Format**
 
 Auch wenn der Spaltentyp _Automatische Nummer_ vergleichsweise einfach wirkt, gibt es ein paar Besonderheiten, die es zu beachten gilt.
 
-{{< faq >}} Kann man den nächsten verwendeten Wert beeinflussen?
-
-|||
-
-Ja. Die Spalte bietet in den Spalten-Optionen die Möglichkeit, die **automatische Nummer** auf einen bestimmten Wert **zurückzusetzen**, den dann die nächste Zeile erhält.
-
----
-
-Können Werte in der Spalte doppelt vorkommen?
-
-|||
-
-Ja, das kann passieren. Wenn Sie die automatische Nummer zurücksetzen, können Werte auch doppelt vorkommen. Die Werte dieser Spalte sind somit nicht einzigartig.
-
----
-
-Kann die Spalte auch nur einzigartige Werte enthalten?
-
-|||
-
-Ja. Wenn Sie ein Plus- oder Enterprise-Abonnement von SeaTable nutzen, können Sie die **Spalte für die Bearbeitung sperren**. So kann niemand die Nummer zurücksetzen und jeder Wert bleibt einzigartig.
+{{< faq "Kann man den nächsten verwendeten Wert beeinflussen?" >}}Ja. Die Spalte bietet in den Spalten-Optionen die Möglichkeit, die **automatische Nummer** auf einen bestimmten Wert **zurückzusetzen**, den dann die nächste Zeile erhält.
+{{< /faq >}}
+{{< faq "Können Werte in der Spalte doppelt vorkommen?" >}}Ja, das kann passieren. Wenn Sie die automatische Nummer zurücksetzen, können Werte auch doppelt vorkommen. Die Werte dieser Spalte sind somit nicht einzigartig.
+{{< /faq >}}
+{{< faq "Kann die Spalte auch nur einzigartige Werte enthalten?" >}}Ja. Wenn Sie ein Plus- oder Enterprise-Abonnement von SeaTable nutzen, können Sie die **Spalte für die Bearbeitung sperren**. So kann niemand die Nummer zurücksetzen und jeder Wert bleibt einzigartig.
 
 {{< /faq >}}

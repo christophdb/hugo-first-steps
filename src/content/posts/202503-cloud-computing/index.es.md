@@ -2,8 +2,8 @@
 title: 'Computación en nube: Cómo escalar su TI de forma rentable'
 description: 'La digitalización del mundo laboral avanza rápidamente y la computación en nube desempeña un papel fundamental en ella. Pero, ¿qué significa exactamente computación en nube y cómo puede ayudar a su empresa? En este artículo aprenderá todo lo que necesita saber sobre la tecnología en la nube.'
 seo:
-    title: "Cloud computing | Escala tu TI de forma rentable"
-    description: "¿Qué es la computación en nube y cómo ayuda a su empresa? Descubre todo lo que necesitas saber sobre la tecnología en la nube"
+    title: 'Cloud computing | Escala tu TI de forma rentable'
+    description: '¿Qué es la computación en nube y cómo ayuda a su empresa? Descubre todo lo que necesitas saber sobre la tecnología en la nube'
 categories:
     - 'Información general'
 tags:
@@ -37,29 +37,19 @@ Además de la definición anterior de computación en nube, 6 rasgos se consider
 
 Ahora que hemos explicado la computación en nube en términos sencillos, echemos un vistazo a las ventajas que le ofrecen las características de una nube antes mencionadas.
 
-{{< faq >}}
-
-Rentabilidad y comodidad|||
+{{< faq "Rentabilidad y comodidad" >}}
 Cuando utilizas servicios en la nube, te ahorras elevadas inversiones en servidores propios y sólo pagas por los recursos que realmente utilizas (principio de pago por uso). Como apenas tiene que preocuparse de la infraestructura local, su personal informático tiene más tiempo para asuntos más importantes.
-
----
-
-Aprovisionamiento rápido|||
+{{< /faq >}}
+{{< faq "Aprovisionamiento rápido" >}}
 Con la computación en nube, puede activar los componentes necesarios en sólo unos minutos en lugar de tener que esperar semanas a que se encargue el hardware, configurar el sistema e instalar el software.
-
----
-
-Independencia de ubicaciones y dispositivos|||
+{{< /faq >}}
+{{< faq "Independencia de ubicaciones y dispositivos" >}}
 Sus empleados pueden acceder a sus datos y aplicaciones en la nube en cualquier momento y desde cualquier lugar. Esto significa que no hay pérdida de datos debido al almacenamiento local si un dispositivo final se rompe o se pierde.
-
----
-
-Actualización y productividad|||
+{{< /faq >}}
+{{< faq "Actualización y productividad" >}}
 En la nube, todos los usuarios ven la versión actual de sus datos y documentos almacenados. Los cambios se sincronizan en tiempo real, lo que mejora significativamente la colaboración.
-
----
-
-Elasticidad y escalabilidad|||
+{{< /faq >}}
+{{< faq "Elasticidad y escalabilidad" >}}
 Adapte con flexibilidad su infraestructura en la nube a sus necesidades y volúmenes de datos en cualquier momento. La computación en nube permite a su empresa crecer sin que su infraestructura informática se convierta en un cuello de botella.
 
 {{< /faq >}}
@@ -163,18 +153,14 @@ La computación en nube le ofrece una forma rentable, cómoda y segura de amplia
 
 ## Preguntas frecuentes sobre la computación en nube
 
-{{< faq >}}
-
-¿Qué es la nube?|||
+{{< faq "¿Qué es la nube?" >}}
 La nube es un **símbolo de una extensa red de servidores remotos** que están distribuidos y conectados por todo el mundo. El ejemplo más conocido de nube es Internet.
+{{< /faq >}}
 
----
+{{< faq "¿Qué es la computación en nube?" >}}
+La computación en nube (explicada de forma sencilla) se refiere a la **provisión de recursos informáticos a través de Internet**. En lugar de almacenar programas y datos localmente en tu ordenador o en tus propios servidores, utilizas los **centros de datos de los proveedores de la nube**. Estos le proporcionan tanto espacio de almacenamiento, potencia de cálculo o software como desee bajo demanda.
+{{< /faq >}}
 
-¿Qué es la computación en nube?|||
-
-## La computación en nube (explicada de forma sencilla) se refiere a la **provisión de recursos informáticos a través de Internet**. En lugar de almacenar programas y datos localmente en tu ordenador o en tus propios servidores, utilizas los **centros de datos de los proveedores de la nube**. Estos le proporcionan tanto espacio de almacenamiento, potencia de cálculo o software como desee bajo demanda.
-
-¿Qué tipos de computación en nube existen?|||
+{{< faq "¿Qué tipos de computación en nube existen?" >}}
 Los tipos de computación en nube se dividen en servicios de computación en nube y modelos de computación en nube: Los servicios en nube más utilizados son **IaaS** (Infraestructura como Servicio), **PaaS** (Plataforma como Servicio) y **SaaS** (Software como Servicio). Se suele distinguir entre modelos de **nube pública**, **nube privada** y **nube híbrida**.
-
 {{< /faq >}}

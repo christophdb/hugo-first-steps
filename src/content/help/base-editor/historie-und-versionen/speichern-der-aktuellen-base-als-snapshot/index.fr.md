@@ -44,28 +44,12 @@ Les articles suivants pourraient vous intéresser en ce qui concerne l'utilisati
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Quelles informations d'une base sont enregistrées dans un snapshot ?|||
-
-Un snapshot enregistre toutes les **données des tableaux** (colonnes et lignes) ainsi que **les vues** et leurs paramètres. Les **statistiques**, les **plugins** et leurs paramètres ainsi que **les scripts** sont également enregistrés.
-
----
-
-Quelles informations d'une base ne sont _pas_ enregistrées dans un snapshot ?|||
-
-Les **commentaires**, **les formulaires web**, les **automatisations**, les **apps** et **le contenu de la corbeille** (tableaux, colonnes et lignes supprimés) ne sont **pas** enregistrés dans les snapshots. De même, les données contenues dans l'espace de stockage Big Data ne sont pas incluses dans un snapshot.
-
----
-
-À quelle fréquence les snapshots automatiques sont-ils créés ?|||
-
-Les snapshots sont créés automatiquement **une fois par jour**, pour autant que des modifications aient été apportées à la base. Le moment où cela se produit ne peut actuellement pas être influencé.
-
----
-
-Combien de fois peut-on créer manuellement un snapshot ?|||
-
-Vous pouvez créer manuellement un snapshot toutes les **10 minutes** au maximum.
+{{< faq "Quelles informations d'une base sont enregistrées dans un snapshot ?" >}}Un snapshot enregistre toutes les **données des tableaux** (colonnes et lignes) ainsi que **les vues** et leurs paramètres. Les **statistiques**, les **plugins** et leurs paramètres ainsi que **les scripts** sont également enregistrés.
+{{< /faq >}}
+{{< faq "Quelles informations d'une base ne sont _pas_ enregistrées dans un snapshot ?" >}}Les **commentaires**, **les formulaires web**, les **automatisations**, les **apps** et **le contenu de la corbeille** (tableaux, colonnes et lignes supprimés) ne sont **pas** enregistrés dans les snapshots. De même, les données contenues dans l'espace de stockage Big Data ne sont pas incluses dans un snapshot.
+{{< /faq >}}
+{{< faq "À quelle fréquence les snapshots automatiques sont-ils créés ?" >}}Les snapshots sont créés automatiquement **une fois par jour**, pour autant que des modifications aient été apportées à la base. Le moment où cela se produit ne peut actuellement pas être influencé.
+{{< /faq >}}
+{{< faq "Combien de fois peut-on créer manuellement un snapshot ?" >}}Vous pouvez créer manuellement un snapshot toutes les **10 minutes** au maximum.
 
 {{< /faq >}}

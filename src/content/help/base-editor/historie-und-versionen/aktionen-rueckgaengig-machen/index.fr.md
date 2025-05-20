@@ -23,27 +23,15 @@ Vous pouvez également annuler votre dernière action **en cliquant sur** l'**in
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Combien de temps peut-on annuler les modifications ?|||
-
-En principe, vous pouvez annuler toute saisie ou modification au cours d'une session. Cependant, dès que vous quittez la base, les dernières étapes de travail ne peuvent plus être annulées lors du prochain appel de la base avec les deux options décrites.
-
----
-
-Qu'est-ce qui peut être annulé ?|||
-
-Les actions suivantes peuvent être annulées :
+{{< faq "Combien de temps peut-on annuler les modifications ?" >}}En principe, vous pouvez annuler toute saisie ou modification au cours d'une session. Cependant, dès que vous quittez la base, les dernières étapes de travail ne peuvent plus être annulées lors du prochain appel de la base avec les deux options décrites.
+{{< /faq >}}
+{{< faq "Qu'est-ce qui peut être annulé ?" >}}Les actions suivantes peuvent être annulées :
 
 - Entrées/modifications dans une cellule
 - Modifications des colonnes (nom, type, position)
 - Ordre des lignes
-
----
-
-Actions qui ne peuvent pas être annulées|||
-
-Certaines opérations ne peuvent pas être annulées. Il s'agit entre autres
+  {{< /faq >}}
+  {{< faq "Actions qui ne peuvent pas être annulées" >}}Certaines opérations ne peuvent pas être annulées. Il s'agit entre autres
 
 - Verrouillage des lignes
 - Modifications des tris, des regroupements ou des filtres

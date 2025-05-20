@@ -22,22 +22,10 @@ The Base Recycle Bin displays a list in **antichronological** order - that is, t
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-Is it also possible to undo the last entries?|||
-
-Of course, you have the possibility to undo your last changes. Read more under [Undo actions](https://seatable.io/en/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
-
----
-
-Are automatic backups of my base made?|||
-
-Yes, when changes are made to a base, a so-called **snapshot of** the base is created daily, which you can then restore. For more detailed information, see [Saving the current base as a snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) and [Restoring a snapshot]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
-
----
-
-Is there also the possibility to make a full backup of a base?|||
-
-Yes, this is also possible in SeaTable using the export function. Read more about this under [Data import and export](https://seatable.io/en/docs/seatable-nutzen/datenimport-und-export/).
+{{< faq "Is it also possible to undo the last entries?" >}}Of course, you have the possibility to undo your last changes. Read more under [Undo actions](https://seatable.io/en/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+{{< /faq >}}
+{{< faq "Are automatic backups of my base made?" >}}Yes, when changes are made to a base, a so-called **snapshot of** the base is created daily, which you can then restore. For more detailed information, see [Saving the current base as a snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) and [Restoring a snapshot]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
+{{< /faq >}}
+{{< faq "Is there also the possibility to make a full backup of a base?" >}}Yes, this is also possible in SeaTable using the export function. Read more about this under [Data import and export](https://seatable.io/en/docs/seatable-nutzen/datenimport-und-export/).
 
 {{< /faq >}}

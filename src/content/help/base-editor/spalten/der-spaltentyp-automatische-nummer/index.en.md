@@ -26,22 +26,10 @@ When you create the _Automatic number_ column, you specify what **format** the v
 
 Even though the _Automatic Number_ column type seems comparatively simple, there are a few special features that need to be considered.
 
-{{< faq >}}
-
-Is it possible to influence the next value used?|||
-
-Yes. The column offers the possibility in the column options to **reset** the **automatic number** to a certain value, which will then be given to the next row .
-
----
-
-Can values in the column be duplicated?|||
-
-Yes, this can happen. If you reset the automatic number, values can also occur twice. Thus, the values of this column are not unique.
-
----
-
-Can the column also contain only unique values?|||
-
-Yes. If you use a Plus or Enterprise subscription of SeaTable, you can **lock** the **column for editing**. This way no one can reset the number and each value remains unique.
+{{< faq "Is it possible to influence the next value used?" >}}Yes. The column offers the possibility in the column options to **reset** the **automatic number** to a certain value, which will then be given to the next row .
+{{< /faq >}}
+{{< faq "Can values in the column be duplicated?" >}}Yes, this can happen. If you reset the automatic number, values can also occur twice. Thus, the values of this column are not unique.
+{{< /faq >}}
+{{< faq "Can the column also contain only unique values?" >}}Yes. If you use a Plus or Enterprise subscription of SeaTable, you can **lock** the **column for editing**. This way no one can reset the number and each value remains unique.
 
 {{< /faq >}}

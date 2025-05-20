@@ -33,28 +33,12 @@ Además del manual de usuario, hay otras fuentes que puede utilizar para aprende
 
 ## Preguntas frecuentes sobre asistencia
 
-{{< faq >}}
-
-¿Ofrece SeaTable asistencia telefónica?|||
-
-**No** proporcionamos soporte telefónico para SeaTable Cloud. Si ha reservado un sistema en la nube dedicado o ha adquirido una licencia de SeaTable Server, puede reservar asistencia telefónica de nuestro personal.
-
----
-
-¿Puedo contratar a un experto de SeaTable para un taller, formación o apoyo individual?|||
-
-Por supuesto, ofrecemos las correspondientes citas individuales previa solicitud. Por la ayuda de un experto de SeaTable, le cobramos 120 € (netos) por hora. Escríbanos si desea concertar una cita individual.
-
----
-
-¿Cuándo recibiré la respuesta del servicio de asistencia de SeaTable?|||
-
-Hacemos todo lo posible por responder a su consulta con rapidez y amabilidad. Por lo general, recibirá una respuesta el mismo día o al siguiente día laborable.
-
----
-
-¿Puedo contactar con el soporte de SeaTable sin tener una cuenta SeaTable?|||
-
-No. Para contactar con el soporte de SeaTable, necesita una suscripción Plus o Enterprise. Por supuesto, siempre puede ponerse en contacto con nuestro [equipo de ventas](mailto:sales@seatable.io).
+{{< faq "¿Ofrece SeaTable asistencia telefónica?" >}}**No** proporcionamos soporte telefónico para SeaTable Cloud. Si ha reservado un sistema en la nube dedicado o ha adquirido una licencia de SeaTable Server, puede reservar asistencia telefónica de nuestro personal.
+{{< /faq >}}
+{{< faq "¿Puedo contratar a un experto de SeaTable para un taller, formación o apoyo individual?" >}}Por supuesto, ofrecemos las correspondientes citas individuales previa solicitud. Por la ayuda de un experto de SeaTable, le cobramos 120 € (netos) por hora. Escríbanos si desea concertar una cita individual.
+{{< /faq >}}
+{{< faq "¿Cuándo recibiré la respuesta del servicio de asistencia de SeaTable?" >}}Hacemos todo lo posible por responder a su consulta con rapidez y amabilidad. Por lo general, recibirá una respuesta el mismo día o al siguiente día laborable.
+{{< /faq >}}
+{{< faq "¿Puedo contactar con el soporte de SeaTable sin tener una cuenta SeaTable?" >}}No. Para contactar con el soporte de SeaTable, necesita una suscripción Plus o Enterprise. Por supuesto, siempre puede ponerse en contacto con nuestro [equipo de ventas](mailto:sales@seatable.io).
 
 {{< /faq >}}

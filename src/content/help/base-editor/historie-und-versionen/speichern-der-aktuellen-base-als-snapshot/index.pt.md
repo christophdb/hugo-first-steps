@@ -44,28 +44,12 @@ Os artigos seguintes podem interessar-lhe em relação a lidar com instantâneos
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Que informações sobre uma base são armazenadas num instantâneo?|||
-
-Um instantâneo guarda todos os **dados da tabela** (colunas e linhas), bem como as **vistas** e as suas definições. **As estatísticas**, **os plugins** e as suas definições e **scripts** também são guardados.
-
----
-
-Que informações de uma base _não_ são guardadas num instantâneo?|||
-
-**Comentários**, **formulários Web**, **automatizações**, **aplicações** e **conteúdos na reciclagem** (tabelas, colunas e linhas eliminadas) **não** são guardados em instantâneos. Os dados no armazenamento de grandes volumes de dados também não são incluídos num instantâneo.
-
----
-
-Com que frequência são criados instantâneos automáticos?|||
-
-Os instantâneos são criados automaticamente **uma vez por dia** se tiverem sido efectuadas alterações na base. A hora a que isto acontece não pode ser influenciada atualmente.
-
----
-
-Com que frequência se pode criar manualmente um instantâneo?|||
-
-Pode criar um instantâneo manualmente a cada **10 minutos**, no máximo.
+{{< faq "Que informações sobre uma base são armazenadas num instantâneo?" >}}Um instantâneo guarda todos os **dados da tabela** (colunas e linhas), bem como as **vistas** e as suas definições. **As estatísticas**, **os plugins** e as suas definições e **scripts** também são guardados.
+{{< /faq >}}
+{{< faq "Que informações de uma base _não_ são guardadas num instantâneo?" >}}**Comentários**, **formulários Web**, **automatizações**, **aplicações** e **conteúdos na reciclagem** (tabelas, colunas e linhas eliminadas) **não** são guardados em instantâneos. Os dados no armazenamento de grandes volumes de dados também não são incluídos num instantâneo.
+{{< /faq >}}
+{{< faq "Com que frequência são criados instantâneos automáticos?" >}}Os instantâneos são criados automaticamente **uma vez por dia** se tiverem sido efectuadas alterações na base. A hora a que isto acontece não pode ser influenciada atualmente.
+{{< /faq >}}
+{{< faq "Com que frequência se pode criar manualmente um instantâneo?" >}}Pode criar um instantâneo manualmente a cada **10 minutos**, no máximo.
 
 {{< /faq >}}

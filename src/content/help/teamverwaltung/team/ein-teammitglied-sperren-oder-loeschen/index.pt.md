@@ -43,22 +43,10 @@ Assim que o membro da equipa bloqueada tentar iniciar sessão, é exibida a segu
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-O que acontece à base de um utilizador eliminado?|||
-
-A base vai parar ao lixo e pode ser [restaurada](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por um administrador de equipa.
-
----
-
-Os utilizadores ainda têm acesso a bases partilhadas de um utilizador eliminado?|||
-
-No momento em que o proprietário de uma base é eliminado, a base é **também eliminada para todos os outros** que têm autorização de libertação. A base vai parar ao caixote da reciclagem e pode assim ser [restaurada](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por um administrador.
-
----
-
-O que acontece a um grupo criado por um utilizador eliminado?|||
-
-O grupo do utilizador eliminado permanece com todos os outros membros.
+{{< faq "O que acontece à base de um utilizador eliminado?" >}}A base vai parar ao lixo e pode ser [restaurada](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por um administrador de equipa.
+{{< /faq >}}
+{{< faq "Os utilizadores ainda têm acesso a bases partilhadas de um utilizador eliminado?" >}}No momento em que o proprietário de uma base é eliminado, a base é **também eliminada para todos os outros** que têm autorização de libertação. A base vai parar ao caixote da reciclagem e pode assim ser [restaurada](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por um administrador.
+{{< /faq >}}
+{{< faq "O que acontece a um grupo criado por um utilizador eliminado?" >}}O grupo do utilizador eliminado permanece com todos os outros membros.
 
 {{< /faq >}}

@@ -26,16 +26,10 @@ With an appropriate subscription you have the possibility in SeaTable to restric
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-What does only **administrators** mean?|||
-
+{{< faq "What does only **administrators** mean?" >}}
 By **administrators** here we do not mean the general team admins, but the administrators and owners of a group.
+{{< /faq >}}
 
----
-
-What happens if you create rows but are not allowed to see it?|||
-
+{{< faq "What happens if you create rows but are not allowed to see it?" >}}
 This combination does not work. Only those who can see rows can also edit them or add new rows .
-
 {{< /faq >}}

@@ -2,8 +2,8 @@
 title: 'Criar um roteiro: Como visualizar claramente o seu próximo projeto'
 description: 'Um roteiro bem estruturado é mais do que um simples calendário - mostra o caminho para os seus objectivos de forma clara e compreensível. Quer se trate de desenvolvimento de estratégias, gestão de projectos ou monitorização de progressos: um roteiro permite-lhe manter uma visão geral em qualquer altura. Aqui pode descobrir como criar um roteiro e poupar tempo e recursos com o modelo certo.'
 seo:
-    title: "Criar um roteiro: Visualize claramente o seu projeto"
-    description: "Neste artigo do blogue, ficará a saber como criar um roteiro e poupar tempo e recursos com o modelo certo"
+    title: 'Criar um roteiro: Visualize claramente o seu projeto'
+    description: 'Neste artigo do blogue, ficará a saber como criar um roteiro e poupar tempo e recursos com o modelo certo'
 date: 2025-03-24
 categories:
     - 'Melhores práticas'
@@ -157,14 +157,10 @@ Se quiser utilizar o SeaTable para criar o seu roteiro, basta registar-se gratui
 
 ## Perguntas frequentes
 
-{{< faq >}}
-
-O que é um roteiro e como pode ajudar-me no planeamento de projectos?|||
+{{< faq "O que é um roteiro e como pode ajudar-me no planeamento de projectos?" >}}
 Um roteiro é uma representação visual de um projeto que mostra claramente os seus objectivos, marcos e tarefas. Ajuda-o a estruturar claramente todo o percurso do projeto, para que possa acompanhar as etapas importantes e monitorizar o progresso. O roteiro é particularmente útil para simplificar projectos complexos e melhorar a comunicação com todos os envolvidos.
-
----
-
-Que tipos de roteiros existem?|||
+{{< /faq >}}
+{{< faq "Que tipos de roteiros existem?" >}}
 Existem diferentes tipos de roteiros, cada um dos quais aborda requisitos e objectivos específicos. Os mais comuns incluem
 
 - Roteiro de projeto
@@ -172,10 +168,8 @@ Existem diferentes tipos de roteiros, cada um dos quais aborda requisitos e obje
 - Roteiro do produto
 - Roteiro tecnológico
 - Roteiro integrado
-
----
-
-Que ferramentas são adequadas para criar um roteiro?|||
-Existem inúmeras ferramentas que o podem ajudar a criar um roteiro. Um exemplo particularmente flexível é o SeaTable: uma ferramenta de gestão de projectos que fornece modelos de roteiro personalizáveis e suporta vários formatos de apresentação, como gráficos de Gantt.
+  {{< /faq >}}
+  {{< faq "  Que ferramentas são adequadas para criar um roteiro?" >}}
+  Existem inúmeras ferramentas que o podem ajudar a criar um roteiro. Um exemplo particularmente flexível é o SeaTable: uma ferramenta de gestão de projectos que fornece modelos de roteiro personalizáveis e suporta vários formatos de apresentação, como gráficos de Gantt.
 
 {{< /faq >}}

@@ -264,34 +264,12 @@ Zum anderen müssen Sie auch Ansichten selbst anlegen, da diese nicht aus der Ai
 
 ## FAQ-Bereich
 
-{{< faq >}} Ändert das Skript Daten in meiner Airtable Base?
-
-|||
-
-Nein. Das Skript liest ausschließlich Ihre Airtable Base aus. Die Daten in der Airtable Base werden nicht verändert.
-
----
-
-Wie verhalte ich mich bei Fehlermeldungen?
-
-|||
-
-Eine Fehlermeldung bei der ersten Ausführung ist gar nicht unwahrscheinlich. Gründe dafür gibt es genug, z.B. ein falscher Token, eine inkorrekte Reihenfolge bei der Spezifikation der Verlinkungen, Tippfehler, fehlende Kommas oder eine nicht korrekte Einrückung. Ein einzelner Fehler kann zu einem Abbruch der Skriptausführung führen. Wenn Sie eine Fehlermeldung erhalten, dann ist dies grundsätzlich kein Problem. Daten können keine verloren gehen. Gehen Sie wie folgt vor, um die Ursache des Fehlers zu finden: - Die Fehlermeldung gibt Ihnen in den meisten Fällen ein Hinweis, wo der Fehler zu finden ist. Folgen Sie diesem, korrigieren Sie die eingegebenen Parameter und führen Sie das Skript erneut aus. Ein Einrückungsfehler (englich "indentation") beispielsweise verweist auf eine nicht der Python-Syntax entsprechende Einrückung hin. - Ist die Fehlermeldung unverständlich, prüfen Sie alle Eingaben auf Korrektheit und versuchen Sie es nochmals. - Wenn keiner der Tipps hilft, holen Sie sich Hilfe im [SeaTable Forum](https://forum.seatable.io/). {{< warning  headline="Wichtiger Hinweis"  text="Bitte entfernen Sie API-Token, den PAT und die Base-ID, bevor Sie Screenshots oder Skripte im Forum posten." />}}
-
----
-
-Können Airtable Bases beliebiger Größe migriert werden?
-
-|||
-
-Grundsätzlich ja. Die in diesem Artikel vorgestellten Vorgehensweise mit dem integrierten Python Editor unterliegt jedoch einer maximalen Laufzeitbeschränkung von 15 Minuten, d.h. Skripte, die länger als 15 Minuten laufen, werden abgebrochen. In der Praxis ist dies für die allermeisten Bases ausreichend. Bei Bases mit großen/vielen Dateianhängen kann dieses Limit jedoch eine Rolle spielen. In dem Fall können Sie durch das Ausschließen von Spalten die Laufzeit verrringern. Wenn Sie Spalten nicht ausschließen wollen, dann müssen Sie das Python Skript lokal auf einem Rechner ausführen, bei dem es keine Laufzeitbeschränkung gibt.
-
----
-
-Kann man Tabellen in eine bestehende Base importieren?
-
-|||
-
-Das Skript erfordert nicht, dass eine Base leer ist. Sie können das Skript also auch in einer Base mit bestehenden, gefüllten Tabellen ausführen. Das Einzige, was Sie vermeiden sollten, ist die Duplizierung von Tabellennamen.
+{{< faq "Ändert das Skript Daten in meiner Airtable Base?" >}}Nein. Das Skript liest ausschließlich Ihre Airtable Base aus. Die Daten in der Airtable Base werden nicht verändert.
+{{< /faq >}}
+{{< faq "Wie verhalte ich mich bei Fehlermeldungen?" >}}Eine Fehlermeldung bei der ersten Ausführung ist gar nicht unwahrscheinlich. Gründe dafür gibt es genug, z.B. ein falscher Token, eine inkorrekte Reihenfolge bei der Spezifikation der Verlinkungen, Tippfehler, fehlende Kommas oder eine nicht korrekte Einrückung. Ein einzelner Fehler kann zu einem Abbruch der Skriptausführung führen. Wenn Sie eine Fehlermeldung erhalten, dann ist dies grundsätzlich kein Problem. Daten können keine verloren gehen. Gehen Sie wie folgt vor, um die Ursache des Fehlers zu finden: - Die Fehlermeldung gibt Ihnen in den meisten Fällen ein Hinweis, wo der Fehler zu finden ist. Folgen Sie diesem, korrigieren Sie die eingegebenen Parameter und führen Sie das Skript erneut aus. Ein Einrückungsfehler (englich "indentation") beispielsweise verweist auf eine nicht der Python-Syntax entsprechende Einrückung hin. - Ist die Fehlermeldung unverständlich, prüfen Sie alle Eingaben auf Korrektheit und versuchen Sie es nochmals. - Wenn keiner der Tipps hilft, holen Sie sich Hilfe im [SeaTable Forum](https://forum.seatable.io/). {{< warning  headline="Wichtiger Hinweis"  text="Bitte entfernen Sie API-Token, den PAT und die Base-ID, bevor Sie Screenshots oder Skripte im Forum posten." />}}
+{{< /faq >}}
+{{< faq "Können Airtable Bases beliebiger Größe migriert werden?" >}}Grundsätzlich ja. Die in diesem Artikel vorgestellten Vorgehensweise mit dem integrierten Python Editor unterliegt jedoch einer maximalen Laufzeitbeschränkung von 15 Minuten, d.h. Skripte, die länger als 15 Minuten laufen, werden abgebrochen. In der Praxis ist dies für die allermeisten Bases ausreichend. Bei Bases mit großen/vielen Dateianhängen kann dieses Limit jedoch eine Rolle spielen. In dem Fall können Sie durch das Ausschließen von Spalten die Laufzeit verrringern. Wenn Sie Spalten nicht ausschließen wollen, dann müssen Sie das Python Skript lokal auf einem Rechner ausführen, bei dem es keine Laufzeitbeschränkung gibt.
+{{< /faq >}}
+{{< faq "Kann man Tabellen in eine bestehende Base importieren?" >}}Das Skript erfordert nicht, dass eine Base leer ist. Sie können das Skript also auch in einer Base mit bestehenden, gefüllten Tabellen ausführen. Das Einzige, was Sie vermeiden sollten, ist die Duplizierung von Tabellennamen.
 
 {{< /faq >}}

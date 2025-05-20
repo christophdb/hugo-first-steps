@@ -39,22 +39,10 @@ Cada ficha contém as seguintes informações:
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-O que se pode fazer com o SeaTable API?|||
-
-A API do SeaTable oferece praticamente todas as funções que também podem ser executadas através do navegador Web. Em parte, a utilização da API é ainda mais eficiente, uma vez que é possível programar actividades repetitivas uma vez e depois executá-las várias vezes. No entanto, deve ser dito que uma interface API só é utilizada por programadores experientes ou utilizadores avançados.
-
----
-
-Como posso começar com o SeaTable API?|||
-
-Em [https://api.seatable.io](https://api.seatable.io) encontrará toda a informação necessária para dar os primeiros passos com a API SeaTable. Se nunca utilizou uma API antes, recomenda-se que leia primeiro alguns tutoriais para principiantes, uma vez que a documentação da API do SeaTable parte do princípio de que já tem experiência com APIs.
-
----
-
-Existe um limite de execução para o SeaTable API?|||
-
-Sim, a API SeaTable tem vários limites, que podem ser consultados [aqui](https://api.seatable.io/reference/limits). O limite mais importante é um máximo de 300 pedidos por minuto e 5000 pedidos por dia e por base única. Quando este limite for atingido, todos os outros pedidos serão rejeitados com o código de erro 429.
+{{< faq "O que se pode fazer com o SeaTable API?" >}}A API do SeaTable oferece praticamente todas as funções que também podem ser executadas através do navegador Web. Em parte, a utilização da API é ainda mais eficiente, uma vez que é possível programar actividades repetitivas uma vez e depois executá-las várias vezes. No entanto, deve ser dito que uma interface API só é utilizada por programadores experientes ou utilizadores avançados.
+{{< /faq >}}
+{{< faq "Como posso começar com o SeaTable API?" >}}Em [https://api.seatable.io](https://api.seatable.io) encontrará toda a informação necessária para dar os primeiros passos com a API SeaTable. Se nunca utilizou uma API antes, recomenda-se que leia primeiro alguns tutoriais para principiantes, uma vez que a documentação da API do SeaTable parte do princípio de que já tem experiência com APIs.
+{{< /faq >}}
+{{< faq "Existe um limite de execução para o SeaTable API?" >}}Sim, a API SeaTable tem vários limites, que podem ser consultados [aqui](https://api.seatable.io/reference/limits). O limite mais importante é um máximo de 300 pedidos por minuto e 5000 pedidos por dia e por base única. Quando este limite for atingido, todos os outros pedidos serão rejeitados com o código de erro 429.
 
 {{< /faq >}}

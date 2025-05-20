@@ -2,15 +2,15 @@
 title: 'How to create and implement a professional marketing plan'
 description: 'Marketing teams are rarely short of creative ideas. This makes it all the more important to have a carefully developed marketing plan in order to plan and implement your campaigns in a targeted manner. In 6 steps, we show you what is important and how you can easily implement it - with a digital template.'
 seo:
-    title: "Create a marketing plan: How to achieve your goals | SeaTable"
-    description: "Learn how to create an effective marketing plan to achieve your business goals, from analysis to implementation"
+    title: 'Create a marketing plan: How to achieve your goals | SeaTable'
+    description: 'Learn how to create an effective marketing plan to achieve your business goals, from analysis to implementation'
 date: 2025-03-18
-categories: 
-  - "General"
-tags: 
-  - "Marketing Planning"
-color: "#509dfd"
-url: "/marketingplan"
+categories:
+    - 'General'
+tags:
+    - 'Marketing Planning'
+color: '#509dfd'
+url: '/marketingplan'
 ---
 
 ## Create a marketing plan in 6 steps
@@ -136,17 +136,9 @@ Whether [marketing campaign](https://seatable.io/vorlage/to2pxzc9q0ww0ciwhfyosa/
 
 ## FAQ - Marketing plan
 
-{{< faq >}}
-
-What is a marketing plan? |||
-
-A marketing plan is a document in which the planned marketing activities of a company are recorded with target groups and campaign duration.
-
----
-
-What needs to be considered when creating a marketing plan? |||
-
-When creating a marketing plan, there are a number of points that you need to consider when setting up a marketing plan, regardless of the company's goals and products:
+{{< faq "What is a marketing plan? " >}}A marketing plan is a document in which the planned marketing activities of a company are recorded with target groups and campaign duration.
+{{< /faq >}}
+{{< faq "What needs to be considered when creating a marketing plan? " >}}When creating a marketing plan, there are a number of points that you need to consider when setting up a marketing plan, regardless of the company's goals and products:
 
 - Controlling and results analysis
 - Actual analysis of your own resources
@@ -154,11 +146,7 @@ When creating a marketing plan, there are a number of points that you need to co
 - Target group definition
 - Budget
 - Idea and action plan
-
----
-
-Why should you use a cloud solution like SeaTable to create a marketing plan? |||
-
-Using a cloud tool such as SeaTables offers several advantages. Firstly, these tools enable faster, more efficient and more transparent teamwork, which avoids misunderstandings. Secondly, it is easier to manage the timing and content of all tasks when information is centralized and can be accessed at any time.
+  {{< /faq >}}
+  {{< faq "Why should you use a cloud solution like SeaTable to create a marketing plan? " >}}Using a cloud tool such as SeaTables offers several advantages. Firstly, these tools enable faster, more efficient and more transparent teamwork, which avoids misunderstandings. Secondly, it is easier to manage the timing and content of all tasks when information is centralized and can be accessed at any time.
 
 {{< /faq >}}

@@ -34,22 +34,10 @@ Só quando a verificação tiver sido bem sucedida é que a identificação fisc
 
 ## Perguntas mais frequentes sobre a identificação fiscal
 
-{{< faq >}}
-
-A identificação fiscal é impressa na factura?|||
-
-Claro que sim. Se fornecer um documento de identificação fiscal, este será listado em todas as facturas futuras.
-
----
-
-A minha identificação fiscal não é aceite?|||
-
-Após a entrada
-
----
-
-Qual é o significado da identificação fiscal para o IVA?|||
-
-A identificação fiscal influencia o cálculo do **IVA** para futuras facturas. **cálculo para** futuras facturas. Se a identificação fiscal for válida para uma empresa não alemã, o IVA será reduzido para **0%**.
+{{< faq "A identificação fiscal é impressa na factura?" >}}Claro que sim. Se fornecer um documento de identificação fiscal, este será listado em todas as facturas futuras.
+{{< /faq >}}
+{{< faq "A minha identificação fiscal não é aceite?" >}}Após a entrada
+{{< /faq >}}
+{{< faq "Qual é o significado da identificação fiscal para o IVA?" >}}A identificação fiscal influencia o cálculo do **IVA** para futuras facturas. **cálculo para** futuras facturas. Se a identificação fiscal for válida para uma empresa não alemã, o IVA será reduzido para **0%**.
 
 {{< /faq >}}

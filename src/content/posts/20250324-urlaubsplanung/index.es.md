@@ -1,21 +1,20 @@
 ---
-title: "Planificar con éxito las vacaciones de acuerdo con la Ley Federal de Vacaciones: consejos para los responsables de RRHH"
-description: "¿Caos en el calendario? Si demasiados empleados se ausentan al mismo tiempo, las cosas se ponen críticas rápidamente. Con estrategias inteligentes y herramientas digitales, puede asegurarse de que las solicitudes de vacaciones se cumplan sin interrumpir las operaciones. Descubra cómo una planificación inteligente de las vacaciones hace felices a todos."
+title: 'Planificar con éxito las vacaciones de acuerdo con la Ley Federal de Vacaciones: consejos para los responsables de RRHH'
+description: '¿Caos en el calendario? Si demasiados empleados se ausentan al mismo tiempo, las cosas se ponen críticas rápidamente. Con estrategias inteligentes y herramientas digitales, puede asegurarse de que las solicitudes de vacaciones se cumplan sin interrumpir las operaciones. Descubra cómo una planificación inteligente de las vacaciones hace felices a todos.'
 seo:
-    title: "Planificación de las vacaciones de los empleados: consejos para los responsables de RRHH"
-    description: "Planificación eficaz de las vacaciones en equipo: cómo coordinar de forma óptima las ausencias de los empleados y evitar cuellos de botella Consejos y plantillas"
+    title: 'Planificación de las vacaciones de los empleados: consejos para los responsables de RRHH'
+    description: 'Planificación eficaz de las vacaciones en equipo: cómo coordinar de forma óptima las ausencias de los empleados y evitar cuellos de botella Consejos y plantillas'
 date: 2025-03-24
-categories: 
-  - "General"
-  - "Buenas prácticas"
-color: "#fdf505"
-url: "/es/urlaubsplanung"
-
+categories:
+    - 'General'
+    - 'Buenas prácticas'
+color: '#fdf505'
+url: '/es/urlaubsplanung'
 ---
 
 ## Cómo coordinar las solicitudes de vacaciones sin problemas
 
-La planificación de las vacaciones de sus empleados es un importante proceso de RRHH que debe organizar bien. Es esencial evitar la escasez de personal provocada por el solapamiento de demasiadas solicitudes de vacaciones para que el funcionamiento de su empresa no se desequilibre.  
+La planificación de las vacaciones de sus empleados es un importante proceso de RRHH que debe organizar bien. Es esencial evitar la escasez de personal provocada por el solapamiento de demasiadas solicitudes de vacaciones para que el funcionamiento de su empresa no se desequilibre.
 
 En este artículo, no sólo echamos un vistazo a útiles planificadores de vacaciones para una gestión eficaz de las mismas, sino que también analizamos la Ley Federal Alemana de Vacaciones y otras disposiciones legales que son importantes para la planificación de las vacaciones en su empresa.
 
@@ -102,34 +101,33 @@ SeaTable también se basa en la web y puede funcionar en la nube o en su propio 
 
 ## Conclusión
 
-Existen muchos planificadores de vacaciones para empleados. Sin embargo, la mayoría de ellos son soluciones específicas independientes que realmente no pueden cubrir nada más que la planificación de las vacaciones y el registro del tiempo. Es mejor confiar en una solución flexible que permita la planificación de las vacaciones, así como otros casos de uso.   
-   
+Existen muchos planificadores de vacaciones para empleados. Sin embargo, la mayoría de ellos son soluciones específicas independientes que realmente no pueden cubrir nada más que la planificación de las vacaciones y el registro del tiempo. Es mejor confiar en una solución flexible que permita la planificación de las vacaciones, así como otros casos de uso.
+
 Con la plantilla gratuita de SeaTable, podrá gestionar todas las solicitudes de vacaciones de sus empleados. Desde la solicitud a través de un formulario web hasta el procesamiento en un tablero Kanban, SeaTable hace que todo el proceso sea más eficiente.
 
 {{< template id="a4065ce03d4d4bd5959c" >}}
 
-Gracias a las notificaciones automáticas, nunca perderá una solicitud y podrá responder rápidamente a las peticiones de sus empleados. La vista de calendario le permite identificar directamente cualquier solapamiento y decidir rápidamente qué solicitudes puede aprobar o rechazar. Puede utilizar fórmulas inteligentes para calcular automáticamente los días de vacaciones y obtener una visión general de cuántos días se han tomado ya de un vistazo.   
-   
+Gracias a las notificaciones automáticas, nunca perderá una solicitud y podrá responder rápidamente a las peticiones de sus empleados. La vista de calendario le permite identificar directamente cualquier solapamiento y decidir rápidamente qué solicitudes puede aprobar o rechazar. Puede utilizar fórmulas inteligentes para calcular automáticamente los días de vacaciones y obtener una visión general de cuántos días se han tomado ya de un vistazo.
+
 Regístrese gratis en SeaTable hoy mismo y descubra las numerosas funciones que revolucionarán la planificación de sus vacaciones.
 
 ## Preguntas más frecuentes
 
-{{< faq >}}
-¿Cuál es la duración de las vacaciones mínimas legales?|||
+{{< faq "¿Cuál es la duración de las vacaciones mínimas legales?" >}}
 En Alemania, con una semana de 5 días, existe un derecho legal a vacaciones (de acuerdo con la Ley Federal de Vacaciones) de al menos 20 días de vacaciones al año.
----
-¿Qué dice la Ley Federal de Vacaciones?|||
+{{< /faq >}}
+{{< faq "¿Qué dice la Ley Federal de Vacaciones?" >}}
 La Ley Federal de Vacaciones regula el derecho de los trabajadores a vacaciones retribuidas y establece el permiso mínimo legal de cuatro semanas al año.
----
-¿Tengo derecho a vacaciones no retribuidas?|||
+{{< /faq >}}
+{{< faq "¿Tengo derecho a vacaciones no retribuidas?" >}}
 Los empleados deben solicitar sus vacaciones con al menos 6 semanas de antelación para poder planificarlas adecuadamente.
----
-¿Cuándo deben presentar los trabajadores sus vacaciones?|||
+{{< /faq >}}
+{{< faq "¿Cuándo deben presentar los trabajadores sus vacaciones?" >}}
 Los empleados deben presentar sus vacaciones con al menos 6 semanas de antelación para permitir una planificación adecuada.
----
-¿Cuándo se consideran aprobadas las vacaciones?|||
-Las vacaciones se consideran aprobadas cuando el empresario confirma la solicitud por escrito o digitalmente. Una confirmación verbal también puede considerarse una autorización. Si el empresario no responde a la solicitud en el plazo de un mes, el trabajador puede considerar que la solicitud está autorizada.  
----
-¿Cuánto cuestan los planificadores de vacaciones para empresas?|||
+{{< /faq >}}
+{{< faq "¿Cuándo se consideran aprobadas las vacaciones?" >}}
+Las vacaciones se consideran aprobadas cuando el empresario confirma la solicitud por escrito o digitalmente. Una confirmación verbal también puede considerarse una autorización. Si el empresario no responde a la solicitud en el plazo de un mes, el trabajador puede considerar que la solicitud está autorizada.
+{{< /faq >}}
+{{< faq "¿Cuánto cuestan los planificadores de vacaciones para empresas?" >}}
 Algunos planificadores de vacaciones para empresas son gratuitos, como SeaTable. Otros proveedores ofrecen sus herramientas a un precio básico y cobran una pequeña tarifa adicional por empleado.
 {{< /faq >}}

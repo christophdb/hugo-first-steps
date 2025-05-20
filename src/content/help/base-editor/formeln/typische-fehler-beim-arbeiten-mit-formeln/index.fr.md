@@ -13,13 +13,7 @@ Toutefois, comme le travail avec des formules complexes peut facilement poser de
 
 ## Erreurs typiques lors du travail avec des formules
 
-{{< faq >}}
-{{< /faq >}}
-FIXME: ...
-
-Absence de guillemets dans les éléments de texte|||
-
-Chaque élément de texte de vos formules **doit** impérativement être placé entre _guillemets_ pour être reconnu par l'assistant de formules. Si un texte **n'est pas** placé entre guillemets, le **message d'erreur** suivant peut apparaître :
+{{< faq "Absence de guillemets dans les éléments de texte" >}}Chaque élément de texte de vos formules **doit** impérativement être placé entre _guillemets_ pour être reconnu par l'assistant de formules. Si un texte **n'est pas** placé entre guillemets, le **message d'erreur** suivant peut apparaître :
 
 ![Message d'erreur qui apparaît lorsque des guillemets manquent autour d'éléments de texte](images/Fehlermeldung-fehlende-Anfuehrungszeichen-bei-Textelementen.png)
 
@@ -32,12 +26,8 @@ Chaque élément de texte de vos formules **doit** impérativement être placé 
 ![Saisie correcte des éléments de texte](images/richtige-eingabe-anfuehrungszeichen.png)
 
 {{< warning  headline="Conseil"  text="Les éléments de texte sont toujours marqués en **rouge** dans une formule et peuvent ainsi être distingués des autres éléments. Si un _élément de texte_ saisi dans l'assistant de formule n **'est pas** automatiquement marqué **en rouge**, cela signifie qu'il a été saisi **de manière incorrecte**." />}}
-
----
-
-Les parenthèses des fonctions sont manquantes ou mal placées|||
-
-Dans l'éditeur de formules, chaque _fonction_ doit toujours être **suivie** d'une _parenthèse ouvrante_ avant que d'autres éléments puissent être ajoutés à la formule.  
+{{< /faq >}}
+{{< faq "Les parenthèses des fonctions sont manquantes ou mal placées" >}}Dans l'éditeur de formules, chaque _fonction_ doit toujours être **suivie** d'une _parenthèse ouvrante_ avant que d'autres éléments puissent être ajoutés à la formule.  
 Lorsque tous les éléments d'une fonction ont été ajoutés à la formule, celle-ci doit en outre être terminée par une _parenthèse fermante_. Si **aucune** parenthèse n'est placée, la fonction ne peut **pas** être reconnue par l'assistant de formules et les messages d'erreur suivants peuvent apparaître :
 
 ![Message d'erreur qui apparaît lorsqu'une parenthèse ouvrante n'est pas placée après une fonction](images/Fehlermeldung-bei-fehlender-Klammer-nach-einer-Funktion.png)
@@ -53,12 +43,8 @@ Lorsque tous les éléments d'une fonction ont été ajoutés à la formule, cel
 ![Saisie correcte d'une fonction](images/korrekte-eingabe-funktion-1.png)
 
 {{< warning  headline="Conseil"  text="Les fonctions sont toujours marquées en **bleu** dans une formule. Si vous placez le curseur sur une _parenthèse ouvrante ou fermante_ dans l'_éditeur de formules_, la _parenthèse_ correspondante est **mise en évidence**. Cela vous permet de repérer plus facilement les remplacements de parenthèses manquants ou incorrects lors de la saisie de fonctions." />}}
-
----
-
-Remplacement incorrect des parenthèses en général|||
-
-Le placement correct des _parenthèses_ est l'un des plus grands défis lors de la saisie de formules. Qu'il s _'\_agisse de \_parenthèses_, de _crochets_ ou _d_ _'_ _accolades_, ils doivent toujours être placés au **bon endroit** dans une formule pour que celle-ci soit reconnue par l'_Assistant de formule_.
+{{< /faq >}}
+{{< faq "Remplacement incorrect des parenthèses en général" >}}Le placement correct des _parenthèses_ est l'un des plus grands défis lors de la saisie de formules. Qu'il s _'\_agisse de \_parenthèses_, de _crochets_ ou _d_ _'_ _accolades_, ils doivent toujours être placés au **bon endroit** dans une formule pour que celle-ci soit reconnue par l'_Assistant de formule_.
 
 {{< warning  headline="Principal conseil pour un remplacement correct des parenthèses"  text="Lorsque vous placez le curseur sur une _parenthèse ouvrante ou fermante_ dans l'_éditeur de formules_, la _parenthèse_ correspondante est **mise en évidence**. Cela vous permet de repérer plus facilement les remplacements de parenthèses **manquants** ou **incorrects**." />}}
 
@@ -94,12 +80,8 @@ Si vous n'êtes pas sûr, n'oubliez pas que la _parenthèse_ correspondante est 
 ### Saisie correcte :
 
 ![Saisie correcte d'une fonction avec une référence de colonne](images/korrekte-eingabe-einer-funktion-mit-spaltenverweis.png)
-
----
-
-Je ne parviens pas à enchaîner plusieurs fonctions dans ma formule.|||
-
-Si vous souhaitez intégrer plusieurs _fonctions_ dans votre formule, vous devez veiller à toujours séparer les différentes fonctions par une **virgule**.
+{{< /faq >}}
+{{< faq "Je ne parviens pas à enchaîner plusieurs fonctions dans ma formule." >}}Si vous souhaitez intégrer plusieurs _fonctions_ dans votre formule, vous devez veiller à toujours séparer les différentes fonctions par une **virgule**.
 
 De plus, les formules qui contiennent plusieurs fonctions doivent être terminées par plusieurs _parenthèses fermantes_. Si votre formule contient par exemple **trois** _fonctions_, elle doit également se terminer par **trois** _parenthèses fermantes_ dans l'éditeur de formules.
 
@@ -118,12 +100,8 @@ Si les points mentionnés ne sont **pas** respectés, la formule saisie ne peut 
 ![Saisie correcte d'une formule dans laquelle plusieurs fonctions ont été placées en série ](images/korrekte-eingabe-formel-mit-mehreren-funktionen.png)
 
 {{< warning  headline="Conseil"  text="Pour les formules plus complexes, travaillez toujours avec _des espaces_ et _des retours à la ligne_, afin de pouvoir examiner séparément les différentes _fonctions_ de votre formule et de rendre ainsi les erreurs plus visibles." />}}
-
----
-
-Je ne parviens pas à lier plusieurs éléments de texte dans ma formule|||
-
-Pour relier plusieurs éléments de texte dans votre formule, vous devez séparer chaque _élément de texte_ par un "**symbole &**". Si **aucun** _symbole &_ n'est ajouté entre les éléments de texte, l'Assistant de Formule ne peut **pas** reconnaître la formule saisie et le message d'erreur suivant apparaît :
+{{< /faq >}}
+{{< faq "Je ne parviens pas à lier plusieurs éléments de texte dans ma formule" >}}Pour relier plusieurs éléments de texte dans votre formule, vous devez séparer chaque _élément de texte_ par un "**symbole &**". Si **aucun** _symbole &_ n'est ajouté entre les éléments de texte, l'Assistant de Formule ne peut **pas** reconnaître la formule saisie et le message d'erreur suivant apparaît :
 
 ![Message d'erreur qui apparaît lorsque plusieurs éléments de texte dans une formule ne sont pas séparés par &.](images/Fehlermeldung-bei-fehlendenen-zwischen-Textelementen.png)
 
@@ -138,3 +116,5 @@ Pour relier plusieurs éléments de texte dans votre formule, vous devez sépare
 {{< warning headline="Conseil" text="Pour que les différents éléments de texte soient chacun représentés par un _Espace_ sont liés séparément, ajoutez à chaque fois **derrière** les deux premiers éléments de texte, en plus d'un **symbole &** et deux **Guillemets (haut)** s'ajoutent." />}}
 
 ![Modification de la formule afin que les éléments de texte soient toujours reliés par un espace.](images/Leerzeichen-zwischen-Textelementen.png)
+
+{{< /faq >}}

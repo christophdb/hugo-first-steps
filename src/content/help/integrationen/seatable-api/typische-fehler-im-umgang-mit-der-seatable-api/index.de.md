@@ -14,33 +14,15 @@ Wenn Sie das Problem trotzdem nicht lösen können, kontaktieren Sie den Support
 
 ## API-Fehlercodes
 
-{{< faq >}}
-
-401 error: authentication_required
-
-|||
-
-**Bedeutung der Fehlermeldung** Der API-Schlüssel oder das Zugriffstoken war in der Anfrage nicht vorhanden oder wurde falsch übergeben.
+{{< faq "401 error: authentication_required" >}}**Bedeutung der Fehlermeldung** Der API-Schlüssel oder das Zugriffstoken war in der Anfrage nicht vorhanden oder wurde falsch übergeben.
 
 **Schritte zur Fehlerbehebung** Suchen Sie den passenden Token und fügen Sie ihn Ihrer Anfrage hinzu. Ihr Zugriffstoken muss in der Anfrage in Form eines _Authorization-Headers_ enthalten sein. Weitere Details zum richtigen Token finden Sie in der [API-Dokumentation](https://api.seatable.io/#authentication).
-
----
-
-401 error: unauthorized, invalid authentication token
-
-|||
-
-**Bedeutung der Fehlermeldung** Der angegebene Token ist ungültig.
+{{< /faq >}}
+{{< faq "401 error: unauthorized, invalid authentication token" >}}**Bedeutung der Fehlermeldung** Der angegebene Token ist ungültig.
 
 **Schritte zur Fehlerbehebung** Vergewissern Sie sich, dass der von Ihnen verwendete Token mit dem Schlüssel übereinstimmt, der Ihnen in SeaTable angezeigt wird.
-
----
-
-429 error: too_many_requests
-
-|||
-
-**Bedeutung der Fehlermeldung** Das Limit von maximal 300 Anfragen pro Minute oder 5.000 pro Tag und Base wurde überschritten. Sie müssen warten, bis die API wieder Anfragen zulässt.
+{{< /faq >}}
+{{< faq "429 error: too_many_requests" >}}**Bedeutung der Fehlermeldung** Das Limit von maximal 300 Anfragen pro Minute oder 5.000 pro Tag und Base wurde überschritten. Sie müssen warten, bis die API wieder Anfragen zulässt.
 
 **Schritte zur Fehlerbehebung** Optimieren Sie Ihren Code oder vergrößern Sie die Abstände zwischen den einzelnen Anfragen, um sicherzustellen, dass Sie unter dem Limit der Anfragen bleiben.
 

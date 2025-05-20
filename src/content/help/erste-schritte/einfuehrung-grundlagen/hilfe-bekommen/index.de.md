@@ -33,43 +33,16 @@ Neben dem Benutzerhandbuch gibt es noch weitere Quellen, mit denen Sie mehr übe
 
 ## Häufige Fragen rund um den Support
 
-{{< faq2 "Bietet SeaTable telefonischen Support?" >}}
-Telefonischen Support stellen wir für die SeaTable Cloud **nicht** zur Verfügung. Wenn Sie ein Dedicated Cloud-System gebucht haben oder eine SeaTable Server-Lizenz erworben haben, können Sie telefonischen Support von unseren Mitarbeitern dazubuchen. Mehr Informationen erhalten Sie [hier]({{< relref "pages/contact" >}}).
+{{< faq "Bietet SeaTable telefonischen Support?" >}}Telefonischen Support stellen wir für die SeaTable Cloud **nicht** zur Verfügung. Wenn Sie ein Dedicated Cloud-System gebucht haben oder eine SeaTable Server-Lizenz erworben haben, können Sie telefonischen Support von unseren Mitarbeitern dazubuchen.
+{{< /faq >}}
 
-{{< /faq2 >}}
+{{< faq "Kann man einen SeaTable Experten für einen Workshop, eine Schulung oder individuellen Support buchen?" >}}Selbstverständlich bieten wir auf Nachfrage entsprechende individuelle Termine an. Für die Hilfe durch einen SeaTable Experten berechnen wir Ihnen 120 € (netto) pro Stunde. Schreiben Sie uns, wenn Sie einen individuellen Termin vereinbaren wollen.
+{{< /faq >}}
 
-{{< faq2 "Can I add more questions?" >}}
-Absolutely! Just repeat the shortcode for each question/answer pair.
-{{< /faq2 >}}
-
-{{< faq >}} Bietet SeaTable telefonischen Support?
-
-|||
-
-Telefonischen Support stellen wir für die SeaTable Cloud **nicht** zur Verfügung. Wenn Sie ein Dedicated Cloud-System gebucht haben oder eine SeaTable Server-Lizenz erworben haben, können Sie telefonischen Support von unseren Mitarbeitern dazubuchen.
-
----
-
-Kann man einen SeaTable Experten für einen Workshop, eine Schulung oder individuellen Support buchen?
-
-|||
-
-Selbstverständlich bieten wir auf Nachfrage entsprechende individuelle Termine an. Für die Hilfe durch einen SeaTable Experten berechnen wir Ihnen 120 € (netto) pro Stunde. Schreiben Sie uns, wenn Sie einen individuellen Termin vereinbaren wollen.
-
----
-
-Wann erhalte ich eine Rückmeldung vom SeaTable Support?
-
-|||
-
+{{< faq "Wann erhalte ich eine Rückmeldung vom SeaTable Support?" >}}
 Wir geben unser Bestes, um Ihre Anfrage schnell und hilfreich zu beantworten. Typischerweise erhalten Sie noch am gleichen Tag bzw. am nächsten Arbeitstag eine Rückmeldung.
+{{< /faq >}}
 
----
-
-Kann ich den SeaTable Support auch ohne einen SeaTable Account kontaktieren?
-
-|||
-
+{{< faq "Kann ich den SeaTable Support auch ohne einen SeaTable Account kontaktieren?" >}}
 Nein. Um den SeaTable Support zu kontaktieren, benötigen Sie ein Plus oder Enterprise Abo. Selbstverständlich können Sie sich aber jederzeit an unser [Sales Team](mailto:sales@seatable.io) wenden.
-
 {{</ faq >}}

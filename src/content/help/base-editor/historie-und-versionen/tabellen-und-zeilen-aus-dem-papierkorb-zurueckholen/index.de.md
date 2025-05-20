@@ -22,28 +22,10 @@ Der Base-Papierkorb stellt eine Liste in **antichronologischer** Reihenfolge dar
 
 ## Häufige Fragen
 
-{{< faq >}}
-
-Kann man auch die letzten Eingaben rückgängig machen?
-
-|||
-
-Selbstverständlich haben Sie die Möglichkeit, Ihre letzten Änderungen rückgängig zu machen. Lesen Sie mehr unter [Aktionen rückgängig machen](https://seatable.io/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
-
----
-
-Werden automatische Sicherungen meiner Base angefertigt?
-
-|||
-
-Ja. Wenn Änderungen an einer Base vorgenommen werden, wird täglich ein sogenannter **Snapshot** der Base angelegt, den Sie anschließend wiederherstellen können. Ausführlichere Informationen finden Sie unter [Speicherung der aktuellen Base als Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) und [Wiederherstellung eines Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
-
----
-
-Besteht auch die Möglichkeit, eine vollständige Sicherung einer Base anzufertigen?
-
-|||
-
-Ja, auch das ist in SeaTable mithilfe der Exportfunktion möglich. Lesen Sie mehr dazu unter [Datenimport und -export](https://seatable.io/docs/seatable-nutzen/datenimport-und-export/).
+{{< faq "Kann man auch die letzten Eingaben rückgängig machen?" >}}Selbstverständlich haben Sie die Möglichkeit, Ihre letzten Änderungen rückgängig zu machen. Lesen Sie mehr unter [Aktionen rückgängig machen](https://seatable.io/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+{{< /faq >}}
+{{< faq "Werden automatische Sicherungen meiner Base angefertigt?" >}}Ja. Wenn Änderungen an einer Base vorgenommen werden, wird täglich ein sogenannter **Snapshot** der Base angelegt, den Sie anschließend wiederherstellen können. Ausführlichere Informationen finden Sie unter [Speicherung der aktuellen Base als Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) und [Wiederherstellung eines Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
+{{< /faq >}}
+{{< faq "Besteht auch die Möglichkeit, eine vollständige Sicherung einer Base anzufertigen?" >}}Ja, auch das ist in SeaTable mithilfe der Exportfunktion möglich. Lesen Sie mehr dazu unter [Datenimport und -export](https://seatable.io/docs/seatable-nutzen/datenimport-und-export/).
 
 {{< /faq >}}

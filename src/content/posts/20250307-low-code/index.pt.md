@@ -1,18 +1,18 @@
 ---
-title: "Low code, no code e o desenvolvimento de software do futuro"
-description: "Graças ao desenvolvimento sem código e de baixo código, as pessoas com pouco ou nenhum conhecimento de programação podem finalmente construir as suas próprias aplicações Web. Mas o que é que significa realmente \"low code\"? Em que é que difere do \"sem código\" e da codificação clássica? E que plataforma de baixo código é adequada para que aplicação? Encontrará as respostas neste artigo."
+title: 'Low code, no code e o desenvolvimento de software do futuro'
+description: 'Graças ao desenvolvimento sem código e de baixo código, as pessoas com pouco ou nenhum conhecimento de programação podem finalmente construir as suas próprias aplicações Web. Mas o que é que significa realmente "low code"? Em que é que difere do "sem código" e da codificação clássica? E que plataforma de baixo código é adequada para que aplicação? Encontrará as respostas neste artigo.'
 seo:
-    title: "Low Code No Code | Desenvolvimento de Software com Futuro | SeaTable"
-    description: "O novo mundo de low-code e no-code! Aprenda a criar aplicações poderosas sem conhecimentos de programação"
+    title: 'Low Code No Code | Desenvolvimento de Software com Futuro | SeaTable'
+    description: 'O novo mundo de low-code e no-code! Aprenda a criar aplicações poderosas sem conhecimentos de programação'
 date: 2025-03-07
-categories: 
-  - "No Code / Low Code"
-tags: 
-  - "No Code / Low Code"
-  - "Transformação digital"
-  - "Ferramentas e plugins"
-color: "#f2afdb"
-url: "/pt/low-code"
+categories:
+    - 'No Code / Low Code'
+tags:
+    - 'No Code / Low Code'
+    - 'Transformação digital'
+    - 'Ferramentas e plugins'
+color: '#f2afdb'
+url: '/pt/low-code'
 ---
 
 ## Diga adeus à codificação – com Low Code e No Code
@@ -149,22 +149,10 @@ As plataformas aqui apresentadas oferecem ferramentas valiosas de baixo código 
 
 ## FAQ
 
-{{< faq >}}
-
-O que é low code? |||
-
-Low code significa "baixo esforço de programação" e refere-se a um tipo específico de método de desenvolvimento. Com estes métodos, a programação já não é efectuada com a ajuda de linguagens de programação baseadas em texto, mas sim com base em recursos visuais. As ferramentas gráficas intuitivas e os módulos prontos a utilizar permitem criar aplicações com pouco esforço de programação manual.
-
----
-
-Qual é a diferença entre low code e no code? |||
-
-Uma plataforma de baixo código oferece mais **flexibilidade** e **opções de personalização**, uma vez que os programadores podem intervir no código e programar os seus próprios componentes, se necessário. As plataformas sem código são concebidas mais para soluções padrão e oferecem menos espaço para personalização individual, uma vez que especificam uma grande parte do design. Uma plataforma com pouco código destina-se, por conseguinte, aos programadores que pretendem beneficiar de um desenvolvimento rápido e modular, mas que ainda pretendem ter a possibilidade de implementar funções definidas pelo utilizador através de programação manual. Por outro lado, a plataforma sem código destina-se principalmente a utilizadores sem conhecimentos técnicos prévios.
-
----
-
-É melhor uma plataforma de baixo código ou uma plataforma sem código? |||
-
-Depende das suas necessidades. Uma plataforma sem código fornece soluções padrão rápidas, não requer conhecimentos técnicos prévios e requer pouco tempo de formação. No entanto, se precisar de uma aplicação personalizada em que pretenda programar as alterações, uma plataforma de **código reduzido** é a melhor escolha. No entanto, a transição entre sem código e com pouco código é fluida para muitas plataformas.
+{{< faq "O que é low code? " >}}Low code significa "baixo esforço de programação" e refere-se a um tipo específico de método de desenvolvimento. Com estes métodos, a programação já não é efectuada com a ajuda de linguagens de programação baseadas em texto, mas sim com base em recursos visuais. As ferramentas gráficas intuitivas e os módulos prontos a utilizar permitem criar aplicações com pouco esforço de programação manual.
+{{< /faq >}}
+{{< faq "Qual é a diferença entre low code e no code? " >}}Uma plataforma de baixo código oferece mais **flexibilidade** e **opções de personalização**, uma vez que os programadores podem intervir no código e programar os seus próprios componentes, se necessário. As plataformas sem código são concebidas mais para soluções padrão e oferecem menos espaço para personalização individual, uma vez que especificam uma grande parte do design. Uma plataforma com pouco código destina-se, por conseguinte, aos programadores que pretendem beneficiar de um desenvolvimento rápido e modular, mas que ainda pretendem ter a possibilidade de implementar funções definidas pelo utilizador através de programação manual. Por outro lado, a plataforma sem código destina-se principalmente a utilizadores sem conhecimentos técnicos prévios.
+{{< /faq >}}
+{{< faq "É melhor uma plataforma de baixo código ou uma plataforma sem código? " >}}Depende das suas necessidades. Uma plataforma sem código fornece soluções padrão rápidas, não requer conhecimentos técnicos prévios e requer pouco tempo de formação. No entanto, se precisar de uma aplicação personalizada em que pretenda programar as alterações, uma plataforma de **código reduzido** é a melhor escolha. No entanto, a transição entre sem código e com pouco código é fluida para muitas plataformas.
 
 {{< /faq >}}

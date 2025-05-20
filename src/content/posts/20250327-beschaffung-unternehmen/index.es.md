@@ -1,16 +1,16 @@
 ---
-title: "5 consejos para optimizar las compras en su empresa"
-description: "El aprovisionamiento está en el centro de toda estrategia empresarial de éxito, y optimizarlo no sólo ahorra costes sino que también aumenta la competitividad. En este artículo, le mostramos los principales factores de éxito y retos para el éxito de las compras y le damos 5 consejos para ayudarle a optimizar sus procesos de compras."
+title: '5 consejos para optimizar las compras en su empresa'
+description: 'El aprovisionamiento está en el centro de toda estrategia empresarial de éxito, y optimizarlo no sólo ahorra costes sino que también aumenta la competitividad. En este artículo, le mostramos los principales factores de éxito y retos para el éxito de las compras y le damos 5 consejos para ayudarle a optimizar sus procesos de compras.'
 seo:
-    title: "Adquisiciones en la empresa: Estratégicamente bien situada"
-    description: "Unos procesos de compra eficientes son la clave del éxito empresarial. Descubra estrategias para los procesos de compra y la gestión de proveedores"
+    title: 'Adquisiciones en la empresa: Estratégicamente bien situada'
+    description: 'Unos procesos de compra eficientes son la clave del éxito empresarial. Descubra estrategias para los procesos de compra y la gestión de proveedores'
 date: 2025-03-27
 categorías:
-  - "General"
-  - "Buenas prácticas"
+    - 'General'
+    - 'Buenas prácticas'
 tags:
-color: "#a57956"
-url: "/es/beschaffung-unternehmen/"
+color: '#a57956'
+url: '/es/beschaffung-unternehmen/'
 ---
 
 ## Gestión de adquisiciones en las empresas
@@ -75,7 +75,7 @@ Con el **compra individual**, se adquieren mercancías por artículos, por ejemp
 
 El objetivo del **aprovisionamiento de existencias** es mantener una gran cantidad de bienes y materiales en stock para satisfacer los pedidos de forma continuada.
 
-El aprovisionamiento justo a tiempo**, también conocido como aprovisionamiento sincronizado con la producción, consiste en adquirir bienes sólo cuando se necesitan en el proceso de producción.
+El aprovisionamiento justo a tiempo\*\*, también conocido como aprovisionamiento sincronizado con la producción, consiste en adquirir bienes sólo cuando se necesitan en el proceso de producción.
 
 ## Factores de éxito en el aprovisionamiento: ¿qué hay que tener en cuenta?
 
@@ -115,18 +115,16 @@ Regístrese gratis hoy mismo con su dirección de correo electrónico.
 
 ## FAQ Compras
 
-{{< faq >}}
-
-¿Qué implica el proceso de adquisición?|||
+{{< faq "¿Qué implica el proceso de adquisición?" >}}
 La determinación de las necesidades, la comprobación y aprobación de los pedidos, la selección de proveedores y la obtención de presupuestos, la comprobación de las mercancías recibidas y el control de calidad, así como la posterior tramitación de los pagos, forman parte del proceso de adquisición.
----
-¿Qué es la logística de compras?|||
+{{< /faq >}}
+{{< faq "¿Qué es la logística de compras?" >}}
 La logística de aprovisionamiento es responsable de la adquisición y gestión de materiales en las empresas y garantiza que los materiales necesarios estén disponibles. Esto también incluye la compra de bienes de la forma más económica posible y en las mejores condiciones.
----
-¿Qué es una estrategia de aprovisionamiento?|||
+{{< /faq >}}
+{{< faq "¿Qué es una estrategia de aprovisionamiento?" >}}
 Se trata de diversos métodos que los responsables desarrollan y aplican para organizar las compras en la empresa de forma eficaz y eficiente. También determina si las compras se organizan de forma centralizada o descentralizada y si se sigue un enfoque de abastecimiento único, de abastecimiento múltiple o de comprador líder.
----
-¿Qué es la demanda primaria, la demanda secundaria y la demanda terciaria?|||
+{{< /faq >}}
+{{< faq "¿Qué es la demanda primaria, la demanda secundaria y la demanda terciaria?" >}}
 La demanda primaria se refiere a la demanda de productos finales, piezas de recambio o productos intermedios vendibles que se venden directamente a los clientes. Por el contrario, los bienes de demanda secundaria son materias primas, componentes o productos intermedios que una empresa necesita para fabricar sus bienes, mientras que la demanda terciaria incluye materiales de explotación o piezas de desgaste que se necesitan para transportar los bienes secundarios.
 
 {{< /faq >}}

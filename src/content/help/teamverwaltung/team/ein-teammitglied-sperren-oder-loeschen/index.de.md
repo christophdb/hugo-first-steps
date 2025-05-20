@@ -33,26 +33,10 @@ Sobald sich das gesperrte Teammitglied versucht einzuloggen, wird folgende Fehle
 
 ## Häufige Fragen
 
-{{< faq >}} Was passiert mit der Base eines gelöschten Benutzers?
-
-|||
-
-Die Base landet im Papierkorb und kann von einem Team-Administrator [wiederhergestellt](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) werden.
-
----
-
-Haben Benutzer weiterhin Zugriff auf geteilte Bases eines gelöschten Benutzers?
-
-|||
-
-In dem Moment, in dem der Besitzer einer Base gelöscht wird, wird die Base **auch für alle anderen gelöscht**, die eine Freigabeberechtigung haben. Die Base landet im Papierkorb und kann somit von einem Administrator [wiederhergestellt](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) werden.
-
----
-
-Was passiert mit einer von einem gelöschten Benutzer erstellten Gruppe?
-
-|||
-
-Die Gruppe des gelöschten Benutzers bleibt mit allen anderen Mitgliedern bestehen.
+{{< faq "Was passiert mit der Base eines gelöschten Benutzers?" >}}Die Base landet im Papierkorb und kann von einem Team-Administrator [wiederhergestellt](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) werden.
+{{< /faq >}}
+{{< faq "Haben Benutzer weiterhin Zugriff auf geteilte Bases eines gelöschten Benutzers?" >}}In dem Moment, in dem der Besitzer einer Base gelöscht wird, wird die Base **auch für alle anderen gelöscht**, die eine Freigabeberechtigung haben. Die Base landet im Papierkorb und kann somit von einem Administrator [wiederhergestellt](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) werden.
+{{< /faq >}}
+{{< faq "Was passiert mit einer von einem gelöschten Benutzer erstellten Gruppe?" >}}Die Gruppe des gelöschten Benutzers bleibt mit allen anderen Mitgliedern bestehen.
 
 {{< /faq >}}

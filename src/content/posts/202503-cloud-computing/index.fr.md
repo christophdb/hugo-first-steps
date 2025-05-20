@@ -2,14 +2,14 @@
 title: 'Cloud Computing : comment faire évoluer votre informatique à moindre coût'
 description: 'La numérisation du monde du travail progresse rapidement et le cloud computing joue un rôle central dans ce processus. Mais que signifie exactement le cloud computing et comment peut-il faire progresser votre entreprise ? Dans cet article, vous apprendrez tout ce que vous devez savoir sur la technologie cloud.'
 seo:
-    title: "Cloud Computing | Faites évoluer votre informatique à moindre coût"
-    description: "Que signifie le cloud computing et comment fait-il progresser votre entreprise ? Découvrez tout ce que vous devez savoir sur la technologie cloud"
+    title: 'Cloud Computing | Faites évoluer votre informatique à moindre coût'
+    description: 'Que signifie le cloud computing et comment fait-il progresser votre entreprise ? Découvrez tout ce que vous devez savoir sur la technologie cloud'
 categories:
     - 'Meilleures pratiques'
 tags:
- - 'Transformation digitale'
- - 'Sécurité informatique'
- - 'gestion des données & visualisation'
+    - 'Transformation digitale'
+    - 'Sécurité informatique'
+    - 'gestion des données & visualisation'
 date: 2025-04-01
 color: '#c5a6e9'
 url: '/fr/cloud-computing'
@@ -42,29 +42,19 @@ En plus de la définition du cloud computing mentionnée ci-dessus, 6 caractéri
 
 Après avoir expliqué simplement le cloud computing, nous nous penchons sur les avantages que vous offrent les caractéristiques d'un cloud citées ci-dessus.
 
-{{< faq >}}
-
-Rentabilité et confort|||
+{{< faq "Rentabilité et confort" >}}
 Si vous faites appel à des services cloud, vous économisez des investissements importants dans vos propres serveurs et ne payez que pour les ressources que vous utilisez effectivement (principe du "pay-as-you-go"). Comme vous ne devez pratiquement plus vous occuper de l'infrastructure locale, votre personnel informatique a plus de temps à consacrer à des sujets plus importants.
-
----
-
-Déploiement rapide|||
+{{< /faq >}}
+{{< faq "Déploiement rapide" >}}
 Avec le cloud computing, vous pouvez activer les composants nécessaires en quelques minutes au lieu de devoir attendre des semaines pour obtenir le matériel commandé, configurer votre système et installer les logiciels.
-
----
-
-Indépendance vis-à-vis des lieux et des appareils|||
+{{< /faq >}}
+{{< faq "Indépendance vis-à-vis des lieux et des appareils" >}}
 Vos collaborateurs peuvent accéder à tout moment et de partout à leurs données et applications dans le cloud. Ainsi, il n'y a pas de perte de données due au stockage local si un terminal est cassé ou perdu.
-
----
-
-Actualité et productivité|||
+{{< /faq >}}
+{{< faq "Actualité et productivité" >}}
 Dans un nuage, tous les utilisateurs voient la version actuelle de leurs données et documents stockés. Les modifications sont synchronisées en temps réel, ce qui améliore considérablement la collaboration.
-
----
-
-Élasticité et évolutivité|||
+{{< /faq >}}
+{{< faq "Élasticité et évolutivité" >}}
 Adaptez à tout moment et de manière flexible votre infrastructure cloud à vos besoins et à vos volumes de données. Le cloud computing permet à votre entreprise de se développer sans que l'infrastructure informatique ne devienne un goulot d'étranglement.
 
 {{< /faq >}}
@@ -167,19 +157,14 @@ Le cloud computing vous offre un moyen économique, pratique et sûr de faire é
 
 ## Questions fréquentes sur le cloud computing
 
-{{< faq >}}
-
-Qu'est-ce que le cloud ?|||
+{{< faq "Qu'est-ce que le cloud ?" >}}
 Le cloud sert de **symbole pour un vaste réseau de serveurs distants** répartis dans le monde entier et reliés entre eux. L'exemple le plus connu de cloud est Internet.
+{{< /faq >}}
 
----
-
-Qu'entend-on par cloud computing?|||
+{{< faq "Qu'entend-on par cloud computing?" >}}
 Le cloud computing (expliqué simplement) désigne la **mise à disposition de ressources informatiques via Internet**. Au lieu de stocker des programmes et des données localement sur votre ordinateur ou sur vos propres serveurs, vous utilisez les **centres informatiques des fournisseurs de cloud**. Ceux-ci mettent à votre disposition, à la demande, autant d'espace de stockage, de puissance de calcul ou de logiciels que vous le souhaitez.
+{{< /faq >}}
 
----
-
-Quels sont les différents types de cloud computing ?|||
+{{< faq "Quels sont les différents types de cloud computing ?" >}}
 Les types de cloud computing se divisent en services de cloud computing et en modèles de cloud computing : les services de cloud computing les plus utilisés sont **IaaS** (Infrastructure as a Service), **PaaS** (Platform as a Service) et **SaaS** (Software as a Service). Parmi les modèles, on distingue généralement le **cloud public**, le **cloud privé** et le **cloud hybride**.
-
 {{< /faq >}}

@@ -21,16 +21,8 @@ Sie benötigen einzelne Tabellen aus Ihren Bases nicht mehr? Dann können Sie di
 
 ## Häufige Fragen
 
-{{< faq >}}
-
-Kann man gelöschte Tabellen wiederherstellen?|||
-
-In SeaTable brauchen Sie keine Angst vor dem Löschen zu haben. Selbst wenn Sie versehentlich mal eine Tabelle, Zeile oder Spalte löschen, können Sie diese problemlos [wiederherstellen](https://seatable.io/docs/bases-verwalten/eine-geloeschte-tabelle-wiederherstellen/). Sie finden Ihre gelöschten Daten im Papierkorb der Base.
-
----
-
-Ich finde die Option zum Löschen der Tabelle nicht|||
-
-Wenn nur noch eine Tabelle in einer Base vorhanden ist, wird die Option _Tabelle löschen_ nicht mehr angezeigt. Außerdem müssen Sie über die notwendige Berechtigung verfügen, um eine Tabelle löschen zu dürfen.
+{{< faq "Kann man gelöschte Tabellen wiederherstellen?" >}}In SeaTable brauchen Sie keine Angst vor dem Löschen zu haben. Selbst wenn Sie versehentlich mal eine Tabelle, Zeile oder Spalte löschen, können Sie diese problemlos [wiederherstellen](https://seatable.io/docs/bases-verwalten/eine-geloeschte-tabelle-wiederherstellen/). Sie finden Ihre gelöschten Daten im Papierkorb der Base.
+{{< /faq >}}
+{{< faq "Ich finde die Option zum Löschen der Tabelle nicht" >}}Wenn nur noch eine Tabelle in einer Base vorhanden ist, wird die Option _Tabelle löschen_ nicht mehr angezeigt. Außerdem müssen Sie über die notwendige Berechtigung verfügen, um eine Tabelle löschen zu dürfen.
 
 {{< /faq >}}

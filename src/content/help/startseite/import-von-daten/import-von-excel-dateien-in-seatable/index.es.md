@@ -58,29 +58,13 @@ Tiene a su disposición un total de **tres** opciones diferentes:
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Por qué la vista previa de la importación no muestra todos los valores?|||
-
-La vista previa de importación muestra qué estructuras de datos se importan en SeaTable. Sin embargo, en la **vista previa** se muestra un máximo de **201 filas**.
-
----
-
-¿Se pueden importar varias hojas de cálculo desde Excel?|||
-
-SeaTable puede manejar múltiples hojas de trabajo e intenta convertir cada hoja de trabajo en una tabla.
-
----
-
-¿Por qué no se importa mi primera línea?|||
-
-Los valores que se encuentran en la **primera fila** de una tabla Excel importada siempre son utilizados automáticamente como **nombres de columna** por SeaTable y, por lo tanto, se **eliminan de** la primera fila durante la importación. Todos los demás datos de la tabla se desplazan en consecuencia **una fila** hacia arriba.
-
----
-
-¿Reconoce SeaTable automáticamente el tipo de columna?|||
-
-SeaTable intenta determinar el tipo de columna automáticamente en base a los valores de las primeras filas. Algunos **tipos de datos** son reconocidos **automáticamente** por SeaTable. Por ejemplo, si se importan **números** o **fechas (año-mes-día)**, el programa adapta automáticamente el **tipo de columna** a los datos importados.
+{{< faq "¿Por qué la vista previa de la importación no muestra todos los valores?" >}}La vista previa de importación muestra qué estructuras de datos se importan en SeaTable. Sin embargo, en la **vista previa** se muestra un máximo de **201 filas**.
+{{< /faq >}}
+{{< faq "¿Se pueden importar varias hojas de cálculo desde Excel?" >}}SeaTable puede manejar múltiples hojas de trabajo e intenta convertir cada hoja de trabajo en una tabla.
+{{< /faq >}}
+{{< faq "¿Por qué no se importa mi primera línea?" >}}Los valores que se encuentran en la **primera fila** de una tabla Excel importada siempre son utilizados automáticamente como **nombres de columna** por SeaTable y, por lo tanto, se **eliminan de** la primera fila durante la importación. Todos los demás datos de la tabla se desplazan en consecuencia **una fila** hacia arriba.
+{{< /faq >}}
+{{< faq "¿Reconoce SeaTable automáticamente el tipo de columna?" >}}SeaTable intenta determinar el tipo de columna automáticamente en base a los valores de las primeras filas. Algunos **tipos de datos** son reconocidos **automáticamente** por SeaTable. Por ejemplo, si se importan **números** o **fechas (año-mes-día)**, el programa adapta automáticamente el **tipo de columna** a los datos importados.
 
 {{< /faq >}}
 

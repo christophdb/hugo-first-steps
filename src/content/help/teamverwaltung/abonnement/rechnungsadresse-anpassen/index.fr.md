@@ -20,16 +20,8 @@ Vous souhaitez modifier votre adresse de facturation ? Pas de problème, grâce 
 
 ## Questions fréquentes sur l'adresse de facturation
 
-{{< faq >}}
-
-Quand l'adresse de facturation devient-elle valide ?|||
-
-Si vous modifiez votre adresse de facturation, toutes les futures factures seront établies avec votre nouvelle adresse de facturation.
-
----
-
-L'adresse de facturation peut-elle être modifiée rétroactivement ?|||
-
-Malheureusement, non. Il n'est malheureusement pas possible de modifier l'adresse de facturation sur des factures déjà générées. Dans des cas exceptionnels, nous pouvons éventuellement vous établir une nouvelle facture, mais nous vous facturerons dans tous les cas des frais de traitement d'un montant de 10 €. Veuillez nous envoyer une [demande d'assistance](https://account.seatable.io/support) correspondante avec le numéro de facture et les modifications précises souhaitées.
+{{< faq "Quand l'adresse de facturation devient-elle valide ?" >}}Si vous modifiez votre adresse de facturation, toutes les futures factures seront établies avec votre nouvelle adresse de facturation.
+{{< /faq >}}
+{{< faq "L'adresse de facturation peut-elle être modifiée rétroactivement ?" >}}Malheureusement, non. Il n'est malheureusement pas possible de modifier l'adresse de facturation sur des factures déjà générées. Dans des cas exceptionnels, nous pouvons éventuellement vous établir une nouvelle facture, mais nous vous facturerons dans tous les cas des frais de traitement d'un montant de 10 €. Veuillez nous envoyer une [demande d'assistance](https://account.seatable.io/support) correspondante avec le numéro de facture et les modifications précises souhaitées.
 
 {{< /faq >}}

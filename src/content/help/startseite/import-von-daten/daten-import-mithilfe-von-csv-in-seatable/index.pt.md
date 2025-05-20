@@ -78,23 +78,11 @@ Esta mensagem de erro aparece quando a importação do ficheiro falha devido a p
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Que aspecto deve ter o ficheiro CSV para ser importado para a mesa?|||
-
-O ficheiro CSV deve ser formatado de acordo com a [norma UTF-8](https://de.wikipedia.org/wiki/UTF-8) e conter o sufixo **.csv** no **final do nome do ficheiro**.
-
----
-
-Será que os dados existentes serão substituídos durante a importação?|||
-
-**Não**, **nenhum** dado é substituído durante a importação.
-
----
-
-Os dados importados são simplesmente inseridos sob as linhas existentes?|||
-
-**Sim**, os dados importados serão inseridos nas colunas correspondentes do quadro sob as linhas já existentes.
+{{< faq "Que aspecto deve ter o ficheiro CSV para ser importado para a mesa?" >}}O ficheiro CSV deve ser formatado de acordo com a [norma UTF-8](https://de.wikipedia.org/wiki/UTF-8) e conter o sufixo **.csv** no **final do nome do ficheiro**.
+{{< /faq >}}
+{{< faq "Será que os dados existentes serão substituídos durante a importação?" >}}**Não**, **nenhum** dado é substituído durante a importação.
+{{< /faq >}}
+{{< faq "Os dados importados são simplesmente inseridos sob as linhas existentes?" >}}**Sim**, os dados importados serão inseridos nas colunas correspondentes do quadro sob as linhas já existentes.
 
 {{< /faq >}}
 

@@ -33,28 +33,12 @@ Para além do manual do utilizador, existem outras fontes que pode utilizar para
 
 ## Perguntas mais frequentes sobre apoio
 
-{{< faq >}}
-
-O SeaTable oferece apoio telefónico?|||
-
-**Não** prestamos apoio telefónico para o SeaTable Cloud. Se reservou um sistema de nuvem dedicado ou adquiriu uma licença SeaTable Server, pode reservar apoio telefónico da nossa equipa.
-
----
-
-Posso contratar um especialista SeaTable para um workshop, formação ou apoio individual?|||
-
-Naturalmente, oferecemos marcações individuais correspondentes a pedido. Para obter a ajuda de um especialista SeaTable, cobramos 120 € (líquidos) por hora. Escreva-nos se desejar marcar uma consulta individual.
-
----
-
-Quando vou receber feedback do SeaTable Support?|||
-
-Fazemos o nosso melhor para responder ao seu pedido de informação de forma rápida e útil. Normalmente, receberá uma resposta no mesmo dia ou no dia útil seguinte.
-
----
-
-Posso contactar o apoio SeaTable sem uma conta SeaTable?|||
-
-Não. Para contactar o Suporte do SeaTable, é necessária uma subscrição Plus ou Enterprise. Naturalmente, pode sempre contactar a nossa [equipa de vendas](mailto:sales@seatable.io).
+{{< faq "O SeaTable oferece apoio telefónico?" >}}**Não** prestamos apoio telefónico para o SeaTable Cloud. Se reservou um sistema de nuvem dedicado ou adquiriu uma licença SeaTable Server, pode reservar apoio telefónico da nossa equipa.
+{{< /faq >}}
+{{< faq "Posso contratar um especialista SeaTable para um workshop, formação ou apoio individual?" >}}Naturalmente, oferecemos marcações individuais correspondentes a pedido. Para obter a ajuda de um especialista SeaTable, cobramos 120 € (líquidos) por hora. Escreva-nos se desejar marcar uma consulta individual.
+{{< /faq >}}
+{{< faq "Quando vou receber feedback do SeaTable Support?" >}}Fazemos o nosso melhor para responder ao seu pedido de informação de forma rápida e útil. Normalmente, receberá uma resposta no mesmo dia ou no dia útil seguinte.
+{{< /faq >}}
+{{< faq "Posso contactar o apoio SeaTable sem uma conta SeaTable?" >}}Não. Para contactar o Suporte do SeaTable, é necessária uma subscrição Plus ou Enterprise. Naturalmente, pode sempre contactar a nossa [equipa de vendas](mailto:sales@seatable.io).
 
 {{< /faq >}}

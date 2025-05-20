@@ -94,16 +94,8 @@ You can change custom share permissions after the fact by **removing** individua
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-When does a custom share make sense?|||
-
-In SeaTable you should always enter related records in the same base. Now, if you want to **share** only **a part of the data** with someone, custom shares are the way to go.
-
----
-
-Is it possible to share a custom share via a link?|||
-
-**No**, you can currently only send custom shares to a **team member** or **group**.
+{{< faq "When does a custom share make sense?" >}}In SeaTable you should always enter related records in the same base. Now, if you want to **share** only **a part of the data** with someone, custom shares are the way to go.
+{{< /faq >}}
+{{< faq "Is it possible to share a custom share via a link?" >}}**No**, you can currently only send custom shares to a **team member** or **group**.
 
 {{< /faq >}}

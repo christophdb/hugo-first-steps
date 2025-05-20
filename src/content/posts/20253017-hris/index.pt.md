@@ -2,8 +2,8 @@
 title: 'HRIS - o que é e como pode beneficiar a sua organização'
 description: 'Atualmente, é praticamente impossível uma gestão eficiente do pessoal sem um HRIS (Human Resources Information System) - pelo menos se a sua organização tiver atingido uma determinada dimensão. Neste artigo, analisamos a diferença entre um sistema de informação de recursos humanos (HRIS) e um sistema de gestão de recursos humanos (HRMS) e discutimos como pode tornar a sua gestão de RH mais eficiente com software que inclui uma base de dados de RH.'
 seo:
-    title: "HRIS - o que é e como beneficia a sua empresa"
-    description: "Neste artigo, mostramos a diferença entre um sistema de informação de recursos humanos (HRIS) e um sistema de gestão de recursos humanos (HRMS)"
+    title: 'HRIS - o que é e como beneficia a sua empresa'
+    description: 'Neste artigo, mostramos a diferença entre um sistema de informação de recursos humanos (HRIS) e um sistema de gestão de recursos humanos (HRMS)'
 date: 2025-03-17
 categories:
     - 'Informações gerais'
@@ -81,35 +81,33 @@ No passado, o software HRIS era quase sempre utilizado [on-premises]({{< relref 
 
 Um sistema de informação de RH tem vantagens que vão muito além das possibilidades de uma base de dados de empregados em Excel. Estas incluem essencialmente
 
-{A gestão de recursos humanos
+A gestão de recursos humanos (FIXME:)
 
-Acesso centralizado e atualização
+{{< faq "Acesso centralizado e atualização" >}}
 
 Ainda hoje, muitos departamentos de RH continuam a recolher dados dos funcionários em folhas de cálculo Excel ou a arquivar documentos em pastas tradicionais. No entanto, com um HRIS, é possível armazenar digitalmente todos os dados e documentos relevantes dos funcionários numa base de dados central de RH. Isto dá-lhe a si e aos seus empregados (com a devida autorização) um acesso direcionado ao estado atual em qualquer altura. As listas Excel desactualizadas e o caos de dados são finalmente uma coisa do passado! Além disso, os dados são armazenados no sistema de gestão de RH, mesmo em caso de perda de um telemóvel ou portátil da empresa.
+{{< /faq >}}
 
----
-
-Esforço mínimo através da automatização
+{{< faq "Esforço mínimo através da automatização" >}}
 
 Numa base de dados de funcionários em Excel, tem de introduzir todos os dados manualmente ou copiá-los para trás e para a frente, ao passo que um sistema de informação de pessoal sincroniza e actualiza automaticamente os dados de todos assim que um membro da equipa faz alterações. Com a ajuda das suas automatizações especialmente definidas, pode também aprovar pedidos de férias com o toque de um botão, por exemplo, ou enviar a um empregado doente um e-mail de confirmação já preparado, incluindo uma mensagem de "melhoras rápidas". Isto não só poupa tempo, como também reduz os processos manuais propensos a erros.
+{{< /faq >}}
 
----
-
-Custos mais baixos
+{{< faq "Custos mais baixos" >}}
 
 Os processos digitais e automatizados permitem-lhe a si e aos seus empregados trabalhar mais rapidamente, de forma mais eficiente e, por último, mas não menos importante, de forma mais económica, uma vez que poupa tempo de trabalho valioso, bem como custos de papel e impressão. Mesmo que tenha subcontratado a contabilidade do pessoal a um prestador de serviços externo, um sistema de informação do pessoal pode ajudá-lo a poupar dinheiro com processos internos. Por outro lado, um HRIS incorre naturalmente em custos, que muitas vezes consistem numa taxa de utilização mensal por membro da equipa. No entanto, no cômputo geral, a relação custo-benefício deve ser positiva.
+{{< /faq >}}
 
----
-
-Visão geral perfeita
+{{< faq "Visão geral perfeita" >}}
 
 Um HRIS fornece-lhe uma visão geral bem fundamentada dos dados dos seus empregados. Pode armazenar todos os documentos e informações de forma compacta em ficheiros pessoais digitais. Normalmente, existe um calendário completo para que o utilizador e os seus colaboradores estejam sempre informados sobre todas as ausências, férias e baixas médicas. Isto é igualmente importante para a programação do pessoal. Num bom sistema de gestão de RH, as análises estatísticas são uma brincadeira de crianças. Responde a perguntas num relance, tais como: Qual foi a taxa de doença em outubro? Quantas novas contratações e saídas se registaram nos últimos dois anos? E quais são os custos de pessoal previstos para o próximo ano?
+{{< /faq >}}
 
----
-
-Elevado nível de autodeterminação e transparência
+{{< faq "Elevado nível de autodeterminação e transparência" >}}
 
 Na maioria dos casos, os empregados têm a opção de manter os seus próprios dados num HRIS. Permita que os seus colaboradores gerem eles próprios o maior número possível de processos de RH, por exemplo, atualizar os seus dados pessoais, apresentar pedidos de férias ou descarregar folhas de vencimento. Isto alivia a pressão sobre o departamento de RH e é uma situação vantajosa para todos os envolvidos. Uma base de dados de RH, no sentido de uma visão geral interna dos empregados, também conduz a uma maior transparência, porque todos sabem a quem se dirigir em caso de preocupação específica. Essas informações, que são visíveis para todos, podem incluir, por exemplo, o cargo e o departamento exactos, projectos anteriores, o endereço eletrónico profissional de uma pessoa ou o número de telemóvel da empresa.
+
+{{< /faq >}}
 
 ## SeaTable como HRIS ou HRMS
 

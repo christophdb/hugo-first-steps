@@ -34,22 +34,10 @@ Ce n'est qu'une fois la vérification effectuée avec succès que le numéro d'i
 
 ## Questions fréquentes sur le numéro d'identification fiscale
 
-{{< faq >}}
-
-Le numéro d'identification fiscale est-il imprimé sur la facture ?|||
-
-Bien entendu, cela va de soi. Si vous indiquez un numéro d'identification fiscale, celui-ci sera mentionné sur toutes les futures factures.
-
----
-
-Mon numéro d'identification fiscale n'est pas accepté ?|||
-
-Après la saisie
-
----
-
-Quelle est l'importance du numéro d'identification fiscale pour la TVA ?|||
-
-Le numéro d'identification fiscale influence le calcul **de la TVA.** Le **calcul** des futures factures. Si le numéro d'identification fiscale d'une entreprise non allemande est valide, la TVA est réduite à **0%**.
+{{< faq "Le numéro d'identification fiscale est-il imprimé sur la facture ?" >}}Bien entendu, cela va de soi. Si vous indiquez un numéro d'identification fiscale, celui-ci sera mentionné sur toutes les futures factures.
+{{< /faq >}}
+{{< faq "Mon numéro d'identification fiscale n'est pas accepté ?" >}}Après la saisie
+{{< /faq >}}
+{{< faq "Quelle est l'importance du numéro d'identification fiscale pour la TVA ?" >}}Le numéro d'identification fiscale influence le calcul **de la TVA.** Le **calcul** des futures factures. Si le numéro d'identification fiscale d'une entreprise non allemande est valide, la TVA est réduite à **0%**.
 
 {{< /faq >}}

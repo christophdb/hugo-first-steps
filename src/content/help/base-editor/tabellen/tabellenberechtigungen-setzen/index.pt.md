@@ -26,16 +26,10 @@ Com uma subscrição correspondente, tem a opção no SeaTable de restringir a u
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-O que significa apenas **administradores**?|||
-
+{{< faq "O que significa apenas **administradores**?" >}}
 **Administradores** aqui não significa os administradores gerais da equipa, mas os administradores e proprietários de um grupo.
+{{< /faq >}}
 
----
-
-O que acontece se se criar linhas mas não for permitido vê-las?|||
-
+{{< faq "O que acontece se se criar linhas mas não for permitido vê-las?" >}}
 Esta combinação não funciona. Apenas aqueles que conseguem ver filas podem também editá-las ou adicionar novas filas.
-
 {{< /faq >}}

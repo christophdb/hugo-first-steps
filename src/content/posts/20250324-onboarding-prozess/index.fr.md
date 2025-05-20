@@ -150,38 +150,21 @@ Misez sur un logiciel adapté et faites en sorte que vos nouveaux collaborateurs
 
 ## Foire aux questions
 
-{{< faq >}}
+{{< faq "Pourquoi un processus d'onboarding structuré est-il important?" >}}## Un processus d'onboarding structuré aide les nouveaux collaborateurs à s'adapter plus rapidement à leur rôle, à s'intégrer sur le plan professionnel et social et à travailler avec motivation. Cela permet non seulement d'augmenter la productivité, mais aussi de fidéliser les collaborateurs et de réduire le taux de fluctuation.
+{{< /faq >}}
 
-Pourquoi un processus d'onboarding structuré est-il important?|||
-
-## Un processus d'onboarding structuré aide les nouveaux collaborateurs à s'adapter plus rapidement à leur rôle, à s'intégrer sur le plan professionnel et social et à travailler avec motivation. Cela permet non seulement d'augmenter la productivité, mais aussi de fidéliser les collaborateurs et de réduire le taux de fluctuation.
-
-Que devrait contenir un bon concept d'onboarding?|||
-
-Un bon concept d'onboarding comprend l'intégration professionnelle, sociale et culturelle des nouveaux collaborateurs. Cela comprend des listes de contrôle pour les formalités, des plans d'intégration, des formations, des entretiens de feedback réguliers et des mesures de team building. Il est également essentiel de communiquer clairement les valeurs et les objectifs de l'entreprise.
-
----
-
-Comment optimiser le processus d'onboarding pour les nouveaux collaborateurs?|||
-
-Des entretiens de feedback et des évaluations régulières permettent d'améliorer le processus. Des outils numériques comme SeaTable permettent de gérer et de suivre efficacement les tâches et les documents. Grâce à des responsabilités claires et des listes de contrôle intuitives, les services RH peuvent gagner du temps et mieux soutenir les nouveaux collaborateurs.
-
----
-
-Quelles sont les phases d'un processus d'onboarding typique?|||
-
-Un processus d'onboarding typique comprend :
+{{< faq "Que devrait contenir un bon concept d'onboarding?" >}}Un bon concept d'onboarding comprend l'intégration professionnelle, sociale et culturelle des nouveaux collaborateurs. Cela comprend des listes de contrôle pour les formalités, des plans d'intégration, des formations, des entretiens de feedback réguliers et des mesures de team building. Il est également essentiel de communiquer clairement les valeurs et les objectifs de l'entreprise.
+{{< /faq >}}
+{{< faq "Comment optimiser le processus d'onboarding pour les nouveaux collaborateurs?" >}}Des entretiens de feedback et des évaluations régulières permettent d'améliorer le processus. Des outils numériques comme SeaTable permettent de gérer et de suivre efficacement les tâches et les documents. Grâce à des responsabilités claires et des listes de contrôle intuitives, les services RH peuvent gagner du temps et mieux soutenir les nouveaux collaborateurs.
+{{< /faq >}}
+{{< faq "Quelles sont les phases d'un processus d'onboarding typique?" >}}Un processus d'onboarding typique comprend :
 
 - **Phase de préparation (preboarding)** : Signature du contrat jusqu'au premier jour de travail.
 - **Phase d'orientation** : Trois premiers mois dans l'entreprise.
 - **Phase d'intégration** : Trois à douze mois après le début.
 
 Chaque phase se concentre sur des tâches et des objectifs différents, par exemple la préparation organisationnelle, l'introduction et l'intégration à long terme.
-
----
-
-Quels sont les avantages de l'utilisation de logiciels dans le processus d'onboarding?|||
-
-Avec SeaTable, vous pouvez organiser efficacement votre processus d'onboarding. Vous recevez un modèle prédéfini avec des listes de contrôle, vous pouvez gérer tous les documents de manière centralisée et suivre les progrès en direct. Cela permet de gagner du temps, de minimiser les erreurs et d'offrir aux nouveaux collaborateurs une expérience d'entrée en fonction fluide et professionnelle.
+{{< /faq >}}
+{{< faq "Quels sont les avantages de l'utilisation de logiciels dans le processus d'onboarding?" >}}Avec SeaTable, vous pouvez organiser efficacement votre processus d'onboarding. Vous recevez un modèle prédéfini avec des listes de contrôle, vous pouvez gérer tous les documents de manière centralisée et suivre les progrès en direct. Cela permet de gagner du temps, de minimiser les erreurs et d'offrir aux nouveaux collaborateurs une expérience d'entrée en fonction fluide et professionnelle.
 
 {{< /faq >}}

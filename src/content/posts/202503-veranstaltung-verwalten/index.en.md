@@ -2,14 +2,14 @@
 title: '10 tips you should know before managing your events'
 description: "Planning the perfect event sounds stressful? It doesn't have to be! With the right tools and a clear checklist, complex planning becomes a simple process. Read how to manage even large events professionally and what really matters."
 seo:
-    title: "Manage your event | 10 tips for your success | SeaTable"
-    description: "Read how even large events can be professionally managed and how tools can help you with complex planning"
+    title: 'Manage your event | 10 tips for your success | SeaTable'
+    description: 'Read how even large events can be professionally managed and how tools can help you with complex planning'
 date: 2025-03-23
 url: '/event-management'
 tags:
-- 'Event Management'
+    - 'Event Management'
 categories:
-- 'Best Practice'
+    - 'Best Practice'
 color: '#f7c1cf'
 ---
 
@@ -194,28 +194,12 @@ With these features, SeaTable offers the ideal solution to optimize the planning
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-Why should I use online tools for event planning?|||
-
-Online tools make event planning much easier by enabling centralized and automated management of all tasks. They offer a user-friendly interface that allows you to make changes in real time and automate various tasks such as sending emails or customizing guest lists. This saves time, minimizes errors and allows teams to work together regardless of their location.
-
----
-
-What factors should I consider when choosing event management software? |||
-
-When selecting software, you should pay attention to the following criteria: Ease of use, functionality, data protection (especially GDPR compliance) and cost. Think about which functions you need and how well the software can be adapted to your specific requirements.
-
----
-
-How do I create an event budget and what costs do I need to take into account?|||
-
-A detailed event budget should include both obvious costs such as venue hire, catering and technology as well as less obvious expenses such as travel costs, licenses and cleaning costs. It is also important to consider potential savings from volunteers or sponsors.
-
----
-
-How can I ensure that my event is well attended?|||
-
-To maximize the number of participants, it is important to start promoting the event early and use all relevant channels to reach your target group. Personalized invitations, social media marketing and easy registration via an online tool can significantly increase the participation rate.
+{{< faq "Why should I use online tools for event planning?" >}}Online tools make event planning much easier by enabling centralized and automated management of all tasks. They offer a user-friendly interface that allows you to make changes in real time and automate various tasks such as sending emails or customizing guest lists. This saves time, minimizes errors and allows teams to work together regardless of their location.
+{{< /faq >}}
+{{< faq "What factors should I consider when choosing event management software? " >}}When selecting software, you should pay attention to the following criteria: Ease of use, functionality, data protection (especially GDPR compliance) and cost. Think about which functions you need and how well the software can be adapted to your specific requirements.
+{{< /faq >}}
+{{< faq "How do I create an event budget and what costs do I need to take into account?" >}}A detailed event budget should include both obvious costs such as venue hire, catering and technology as well as less obvious expenses such as travel costs, licenses and cleaning costs. It is also important to consider potential savings from volunteers or sponsors.
+{{< /faq >}}
+{{< faq "How can I ensure that my event is well attended?" >}}To maximize the number of participants, it is important to start promoting the event early and use all relevant channels to reach your target group. Personalized invitations, social media marketing and easy registration via an online tool can significantly increase the participation rate.
 
 {{< /faq >}}

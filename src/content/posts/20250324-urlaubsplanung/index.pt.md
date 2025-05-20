@@ -1,23 +1,22 @@
 ---
-title: "Planeamento bem sucedido das férias de acordo com a Lei Federal das Férias: dicas para os gestores de RH"
-description: "Caos no calendário? Se demasiados empregados estiverem ausentes ao mesmo tempo, as coisas tornam-se rapidamente críticas. Com estratégias inteligentes e ferramentas digitais, pode garantir que os pedidos de férias são satisfeitos sem perturbar as operações. Descubra como o planeamento inteligente das férias faz com que todos fiquem felizes."
+title: 'Planeamento bem sucedido das férias de acordo com a Lei Federal das Férias: dicas para os gestores de RH'
+description: 'Caos no calendário? Se demasiados empregados estiverem ausentes ao mesmo tempo, as coisas tornam-se rapidamente críticas. Com estratégias inteligentes e ferramentas digitais, pode garantir que os pedidos de férias são satisfeitos sem perturbar as operações. Descubra como o planeamento inteligente das férias faz com que todos fiquem felizes.'
 seo:
-    title: "Planeamento das férias dos trabalhadores: dicas para os gestores de RH"
-    description: "Planeamento eficiente das férias em equipa: como coordenar da melhor forma as ausências dos trabalhadores e evitar estrangulamentos Dicas e modelos"
+    title: 'Planeamento das férias dos trabalhadores: dicas para os gestores de RH'
+    description: 'Planeamento eficiente das férias em equipa: como coordenar da melhor forma as ausências dos trabalhadores e evitar estrangulamentos Dicas e modelos'
 date: 2025-03-24
-categories: 
-  - "Informações gerais"
-  - "Melhores práticas"
+categories:
+    - 'Informações gerais'
+    - 'Melhores práticas'
 tags:
-- "Administração de Recursos Humanos"
-color: "#fdf505"
-url: "/pt/urlaubsplanung"
-
+    - 'Administração de Recursos Humanos'
+color: '#fdf505'
+url: '/pt/urlaubsplanung'
 ---
 
 ## Como coordenar os pedidos de férias sem problemas
 
-O planeamento das férias dos seus empregados é um processo importante de RH que deve ser bem organizado. É essencial evitar a falta de pessoal devido a uma sobreposição excessiva de férias, para que as operações da sua empresa não fiquem desequilibradas.  
+O planeamento das férias dos seus empregados é um processo importante de RH que deve ser bem organizado. É essencial evitar a falta de pessoal devido a uma sobreposição excessiva de férias, para que as operações da sua empresa não fiquem desequilibradas.
 
 Neste artigo, não só damos uma vista de olhos a planificadores de férias úteis para uma gestão eficaz das férias, como também analisamos a Lei Federal Alemã sobre Férias e outras disposições legais que são importantes para o planeamento das férias na sua empresa.
 
@@ -104,35 +103,33 @@ O SeaTable também é baseado na web e pode ser operado na nuvem ou no seu próp
 
 ## Conclusão
 
-Existem muitos planeadores de férias para os empregados. No entanto, a maior parte deles são soluções autónomas específicas que não podem abranger mais nada para além do planeamento de férias e do registo de horas. É preferível recorrer a uma solução flexível que permita o planeamento de férias, bem como outros casos de utilização.   
-   
+Existem muitos planeadores de férias para os empregados. No entanto, a maior parte deles são soluções autónomas específicas que não podem abranger mais nada para além do planeamento de férias e do registo de horas. É preferível recorrer a uma solução flexível que permita o planeamento de férias, bem como outros casos de utilização.
+
 Com o modelo gratuito do SeaTable, pode gerir todos os pedidos de férias dos seus empregados. Desde o pedido através de um formulário Web até ao processamento num quadro Kanban - o SeaTable torna todo o processo mais eficiente.
 
 {{< template id="a4065ce03d4d4bd5959c" >}}
-  
-As notificações automáticas significam que nunca perde um pedido e que pode responder prontamente aos pedidos dos seus empregados. A vista de calendário permite-lhe identificar diretamente quaisquer sobreposições e decidir rapidamente quais os pedidos que pode aprovar ou rejeitar. Pode utilizar fórmulas inteligentes para calcular automaticamente os dias de férias e obter uma visão geral de quantos dias já foram gozados num relance.   
-   
+
+As notificações automáticas significam que nunca perde um pedido e que pode responder prontamente aos pedidos dos seus empregados. A vista de calendário permite-lhe identificar diretamente quaisquer sobreposições e decidir rapidamente quais os pedidos que pode aprovar ou rejeitar. Pode utilizar fórmulas inteligentes para calcular automaticamente os dias de férias e obter uma visão geral de quantos dias já foram gozados num relance.
+
 Registe-se hoje gratuitamente no SeaTable e descubra as inúmeras funções que irão revolucionar o seu planeamento de férias.
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Qual é a duração mínima das férias legais?|||
+{{< faq "Qual é a duração mínima das férias legais?" >}}
 Na Alemanha, com uma semana de 5 dias, existe um direito legal a férias (de acordo com a Lei Federal de Férias) de pelo menos 20 dias de férias por ano.
----
-O que diz a Lei Federal de Férias?|||
+{{< /faq >}}
+{{< faq "O que diz a Lei Federal de Férias?" >}}
 A Lei Federal de Férias regula o direito dos trabalhadores a férias pagas e estipula o período mínimo legal de férias de quatro semanas por ano.
----
-Tenho direito a férias não remuneradas?|||
+{{< /faq >}}
+{{< faq "Tenho direito a férias não remuneradas?" >}}
 Os trabalhadores devem apresentar as suas férias com pelo menos 6 semanas de antecedência, de modo a permitir um planeamento adequado.
----
-Quando é que os trabalhadores devem apresentar as suas férias, o mais tardar?|||
+{{< /faq >}}
+{{< faq "Quando é que os trabalhadores devem apresentar as suas férias, o mais tardar?" >}}
 Os trabalhadores devem apresentar as suas férias com pelo menos 6 semanas de antecedência, de modo a permitir um planeamento adequado.
----
-Quando é que as férias são consideradas aprovadas?|||
-As férias são consideradas autorizadas quando a entidade patronal confirma o pedido por escrito ou por via eletrónica. Uma confirmação verbal também pode ser considerada como uma autorização. Se a entidade patronal não responder ao pedido no prazo de um mês, o trabalhador pode considerar o pedido como autorizado.  
----
-Quanto custam as planificações de férias para as empresas?|||
+{{< /faq >}}
+{{< faq "Quando é que as férias são consideradas aprovadas?" >}}
+As férias são consideradas autorizadas quando a entidade patronal confirma o pedido por escrito ou por via eletrónica. Uma confirmação verbal também pode ser considerada como uma autorização. Se a entidade patronal não responder ao pedido no prazo de um mês, o trabalhador pode considerar o pedido como autorizado.
+{{< /faq >}}
+{{< faq "Quanto custam as planificações de férias para as empresas?" >}}
 Alguns planificadores de férias para empresas estão disponíveis gratuitamente, como o SeaTable. Outros fornecedores oferecem as suas ferramentas a um preço de base e cobram uma pequena taxa adicional por empregado.
 {{< /faq >}}

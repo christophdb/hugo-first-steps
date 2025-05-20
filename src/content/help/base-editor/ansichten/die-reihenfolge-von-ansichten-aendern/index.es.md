@@ -25,22 +25,10 @@ Puede cambiar a su gusto el **orden** en que se enumeran las vistas de una tabla
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿El pedido es individual para cada usuario?|||
-
-No. El orden de las vistas es el mismo para todos los usuarios de una base.
-
----
-
-¿Se pueden agrupar también las vistas?|||
-
-Por supuesto. Las vistas pueden organizarse fácilmente en [carpetas]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
-
----
-
-¿Se comportan de forma diferente las opiniones privadas?|||
-
-No. Puede mover las vistas privadas de la misma manera utilizando la función de arrastrar y soltar. Sin embargo, las vistas privadas sólo son visibles para ti.
+{{< faq "¿El pedido es individual para cada usuario?" >}}No. El orden de las vistas es el mismo para todos los usuarios de una base.
+{{< /faq >}}
+{{< faq "¿Se pueden agrupar también las vistas?" >}}Por supuesto. Las vistas pueden organizarse fácilmente en [carpetas]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
+{{< /faq >}}
+{{< faq "¿Se comportan de forma diferente las opiniones privadas?" >}}No. Puede mover las vistas privadas de la misma manera utilizando la función de arrastrar y soltar. Sin embargo, las vistas privadas sólo son visibles para ti.
 
 {{< /faq >}}

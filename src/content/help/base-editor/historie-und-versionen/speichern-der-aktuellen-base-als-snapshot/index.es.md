@@ -44,28 +44,12 @@ Los siguientes artículos podrían interesarle en relación con el tratamiento d
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Qué información sobre una base se almacena en una instantánea?|||
-
-Una instantánea guarda todos los **datos de la tabla** (columnas y filas), así como **las vistas** y su configuración. También se guardan **las estadísticas**, los **plugins** y su configuración y los **scripts**.
-
----
-
-¿Qué información de una base _no_ se guarda en una instantánea?|||
-
-Los **comentarios**, los **formularios web**, las **automatizaciones**, las **aplicaciones** y el **contenido de la papelera de reciclaje** (tablas, columnas y filas eliminadas) **no** se guardan en las instantáneas. Los datos del almacenamiento de big data tampoco se incluyen en una instantánea.
-
----
-
-¿Con qué frecuencia se crean instantáneas automáticas?|||
-
-Las instantáneas se crean automáticamente **una vez al día** si se han realizado cambios en la base. Actualmente no se puede influir en la hora a la que esto ocurre.
-
----
-
-¿Con qué frecuencia se puede crear manualmente una instantánea?|||
-
-Puedes crear una instantánea manualmente cada **10 minutos** como máximo.
+{{< faq "¿Qué información sobre una base se almacena en una instantánea?" >}}Una instantánea guarda todos los **datos de la tabla** (columnas y filas), así como **las vistas** y su configuración. También se guardan **las estadísticas**, los **plugins** y su configuración y los **scripts**.
+{{< /faq >}}
+{{< faq "¿Qué información de una base _no_ se guarda en una instantánea?" >}}Los **comentarios**, los **formularios web**, las **automatizaciones**, las **aplicaciones** y el **contenido de la papelera de reciclaje** (tablas, columnas y filas eliminadas) **no** se guardan en las instantáneas. Los datos del almacenamiento de big data tampoco se incluyen en una instantánea.
+{{< /faq >}}
+{{< faq "¿Con qué frecuencia se crean instantáneas automáticas?" >}}Las instantáneas se crean automáticamente **una vez al día** si se han realizado cambios en la base. Actualmente no se puede influir en la hora a la que esto ocurre.
+{{< /faq >}}
+{{< faq "¿Con qué frecuencia se puede crear manualmente una instantánea?" >}}Puedes crear una instantánea manualmente cada **10 minutos** como máximo.
 
 {{< /faq >}}

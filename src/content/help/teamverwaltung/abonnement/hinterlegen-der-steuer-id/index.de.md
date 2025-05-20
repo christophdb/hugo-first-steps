@@ -34,26 +34,10 @@ Erst wenn die Überpüfung erfolgreich war, wird die Steuer-ID wirksam und auf z
 
 ## Häufige Fragen zur Steuer-ID
 
-{{< faq >}} Wird die Steuer-ID auf der Rechnung angedruckt?
-
-|||
-
-Selbstverständlich. Wenn Sie eine Steuer-ID angeben, wird diese auf allen zukünftigen Rechnungen aufgeführt.
-
----
-
-Meine Steuer-ID wird nicht akzeptiert?
-
-|||
-
-Nach der Eingabe
-
----
-
-Welche Bedeutung hat die Steuer-ID für Mehrwertsteuer?
-
-|||
-
-Die Steuer-ID beeinflusst die **MwSt. Berechnung** bei zukünftigen Rechnungen. Bei einer gültigen Steuer-ID ein nicht-Deutschen Unternehmens wird die MwSt. auf **0%** reduziert.
+{{< faq "Wird die Steuer-ID auf der Rechnung angedruckt?" >}}Selbstverständlich. Wenn Sie eine Steuer-ID angeben, wird diese auf allen zukünftigen Rechnungen aufgeführt.
+{{< /faq >}}
+{{< faq "Meine Steuer-ID wird nicht akzeptiert?" >}}Nach der Eingabe
+{{< /faq >}}
+{{< faq "Welche Bedeutung hat die Steuer-ID für Mehrwertsteuer?" >}}Die Steuer-ID beeinflusst die **MwSt. Berechnung** bei zukünftigen Rechnungen. Bei einer gültigen Steuer-ID ein nicht-Deutschen Unternehmens wird die MwSt. auf **0%** reduziert.
 
 {{< /faq >}}

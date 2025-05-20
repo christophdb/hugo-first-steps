@@ -58,29 +58,13 @@ Au total, **trois** possibilités différentes s'offrent à vous :
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Pourquoi l'aperçu de l'importation n'affiche-t-il pas toutes les valeurs ?|||
-
-L'aperçu de l'importation montre quelles structures de données seront importées dans SeaTable. Toutefois, l'**aperçu** affiche un maximum de **201 lignes**.
-
----
-
-Est-il possible d'importer plusieurs feuilles de calcul à partir d'Excel ?|||
-
-SeaTable peut gérer plusieurs feuilles de calcul et tente de convertir chaque feuille de calcul en tableau.
-
----
-
-Pourquoi ma première ligne n'est-elle pas importée ?|||
-
-Les valeurs qui se trouvent sur la **première ligne** d'une feuille de calcul Excel importée sont toujours utilisées automatiquement par SeaTable comme **noms de colonne** et sont donc **supprimées** de la première ligne lors de l'importation. Toutes les autres données du tableau sont en conséquence déplacées **d'une ligne** vers le haut.
-
----
-
-SeaTable reconnaît-il automatiquement le type de colonne ?|||
-
-SeaTable essaie de déterminer automatiquement le type de colonne en fonction des valeurs des premières lignes. Certains **types de données** sont **automatiquement** reconnus par SeaTable. Par exemple, si **des numéros** ou **des dates (année-mois-jour)** sont importés, le programme adapte automatiquement le **type de colonne** aux données importées.
+{{< faq "Pourquoi l'aperçu de l'importation n'affiche-t-il pas toutes les valeurs ?" >}}L'aperçu de l'importation montre quelles structures de données seront importées dans SeaTable. Toutefois, l'**aperçu** affiche un maximum de **201 lignes**.
+{{< /faq >}}
+{{< faq "Est-il possible d'importer plusieurs feuilles de calcul à partir d'Excel ?" >}}SeaTable peut gérer plusieurs feuilles de calcul et tente de convertir chaque feuille de calcul en tableau.
+{{< /faq >}}
+{{< faq "Pourquoi ma première ligne n'est-elle pas importée ?" >}}Les valeurs qui se trouvent sur la **première ligne** d'une feuille de calcul Excel importée sont toujours utilisées automatiquement par SeaTable comme **noms de colonne** et sont donc **supprimées** de la première ligne lors de l'importation. Toutes les autres données du tableau sont en conséquence déplacées **d'une ligne** vers le haut.
+{{< /faq >}}
+{{< faq "SeaTable reconnaît-il automatiquement le type de colonne ?" >}}SeaTable essaie de déterminer automatiquement le type de colonne en fonction des valeurs des premières lignes. Certains **types de données** sont **automatiquement** reconnus par SeaTable. Par exemple, si **des numéros** ou **des dates (année-mois-jour)** sont importés, le programme adapte automatiquement le **type de colonne** aux données importées.
 
 {{< /faq >}}
 

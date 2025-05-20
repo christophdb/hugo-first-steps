@@ -44,36 +44,12 @@ Folgende Artikel könnten Sie in Bezug auf den Umgang mit Snapshots interessiere
 
 ## Häufige Fragen
 
-{{< faq >}}
-
-Welche Informationen einer Base werden in einem Snapshot gespeichert?
-
-|||
-
-Ein Snapshot speichert alle **Tabellendaten** (Spalten und Zeilen) sowie **Ansichten** und deren Einstellungen. Auch **Statistiken**, **Plugins** und deren Einstellungen sowie **Skripte** werden gespeichert.
-
----
-
-Welche Informationen einer Base werden _nicht_ in einem Snapshot gespeichert?
-
-|||
-
-**Kommentare**, **Webformulare**, **Automationen**, **Apps** und **Inhalte im Papierkorb** (gelöschte Tabellen, Spalten und Zeilen) werden **nicht** in Snapshots gespeichert. Ebenfalls nicht in einem Snapshot enthalten sind Daten im Big-Data-Speicher.
-
----
-
-Wie oft werden automatische Snapshots erstellt?
-
-|||
-
-Snapshots werden **einmal täglich** automatisch erstellt, sofern an der Base Änderungen vorgenommen wurden. Der Zeitpunkt, wann dies passiert, kann aktuell nicht beeinflusst werden.
-
----
-
-Wie oft kann man manuell einen Snapshot erstellen?
-
-|||
-
-Sie können maximal alle **10 Minuten** einen Snapshot manuell erstellen.
+{{< faq "Welche Informationen einer Base werden in einem Snapshot gespeichert?" >}}Ein Snapshot speichert alle **Tabellendaten** (Spalten und Zeilen) sowie **Ansichten** und deren Einstellungen. Auch **Statistiken**, **Plugins** und deren Einstellungen sowie **Skripte** werden gespeichert.
+{{< /faq >}}
+{{< faq "Welche Informationen einer Base werden _nicht_ in einem Snapshot gespeichert?" >}}**Kommentare**, **Webformulare**, **Automationen**, **Apps** und **Inhalte im Papierkorb** (gelöschte Tabellen, Spalten und Zeilen) werden **nicht** in Snapshots gespeichert. Ebenfalls nicht in einem Snapshot enthalten sind Daten im Big-Data-Speicher.
+{{< /faq >}}
+{{< faq "Wie oft werden automatische Snapshots erstellt?" >}}Snapshots werden **einmal täglich** automatisch erstellt, sofern an der Base Änderungen vorgenommen wurden. Der Zeitpunkt, wann dies passiert, kann aktuell nicht beeinflusst werden.
+{{< /faq >}}
+{{< faq "Wie oft kann man manuell einen Snapshot erstellen?" >}}Sie können maximal alle **10 Minuten** einen Snapshot manuell erstellen.
 
 {{< /faq >}}

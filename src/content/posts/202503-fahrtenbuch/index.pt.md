@@ -1,17 +1,17 @@
 ---
-title: "Modelo gratuito: É muito fácil manter um diário de bordo digital"
-description: "Um livro de registo pode ser mais do que apenas uma burocracia irritante - oferece-lhe a oportunidade de poupar dinheiro. Com as ferramentas digitais certas, pode maximizar os seus benefícios e evitar erros dispendiosos. Descubra como manter um diário de bordo inteligente e quais as soluções que o podem ajudar!"
+title: 'Modelo gratuito: É muito fácil manter um diário de bordo digital'
+description: 'Um livro de registo pode ser mais do que apenas uma burocracia irritante - oferece-lhe a oportunidade de poupar dinheiro. Com as ferramentas digitais certas, pode maximizar os seus benefícios e evitar erros dispendiosos. Descubra como manter um diário de bordo inteligente e quais as soluções que o podem ajudar!'
 seo:
-    title: "Mantenha um diário de bordo digital: É muito fácil | SeaTable"
-    description: "Um diário de bordo digital tem muitas vantagens. Descubra como manter um diário de bordo inteligente sem o incómodo da burocracia."
+    title: 'Mantenha um diário de bordo digital: É muito fácil | SeaTable'
+    description: 'Um diário de bordo digital tem muitas vantagens. Descubra como manter um diário de bordo inteligente sem o incómodo da burocracia.'
 date: 2025-04-01
 url: '/pt/digital-logbook'
 tags:
-- 'Finanças'
-- 'Ferramentas e plugins'
-- 'Gestão de frotas'
-categories: 
-- 'Informações gerais'
+    - 'Finanças'
+    - 'Ferramentas e plugins'
+    - 'Gestão de frotas'
+categories:
+    - 'Informações gerais'
 color: '#f34b4c'
 text: 'white'
 ---
@@ -137,14 +137,10 @@ Se pretender utilizar o diário de bordo digital do SeaTable, [basta registar-se
 
 ## Perguntas frequentes
 
-{{< faq >}}
-
-Tenho de documentar todas as viagens? |||
+{{< faq "Tenho de documentar todas as viagens? " >}}
 Sim, se mantiver um diário de bordo, tem de documentar todas as viagens para poder separar corretamente a utilização privada da utilização profissional e reivindicá-la para efeitos fiscais.
-
----
-
-O que deve constar de um diário de bordo? |||
+{{< /faq >}}
+{{< faq "O que deve constar de um diário de bordo? " >}}
 Os seguintes pormenores devem ser integralmente documentados num diário de bordo para cada viagem:
 
 - Data da viagem
@@ -152,24 +148,18 @@ Os seguintes pormenores devem ser integralmente documentados num diário de bord
 - Quilometragem no início e no fim da viagem
 - Destino e objetivo da viagem
 - Nome do parceiro de negócios ou do cliente (para viagens de negócios)
-
----
-
-O que acontece se eu perder o meu diário de bordo? |||
-Se perder o seu diário de bordo, as consequências dependem do facto de ser ou não obrigado a guardá-lo:
+  {{< /faq >}}
+  {{< faq "  O que acontece se eu perder o meu diário de bordo? " >}}
+  Se perder o seu diário de bordo, as consequências dependem do facto de ser ou não obrigado a guardá-lo:
 
 **Se for obrigado** a manter um diário de bordo: A perda implica uma coima de 100 euros. Além disso, a obrigatoriedade do diário de bordo pode ser alargada, uma vez que o diário de bordo já não pode ser apresentado.
 
 **Se tiver um diário de bordo voluntário para a administração fiscal**: Neste caso, aplica-se a regra do 1%, o que muitas vezes conduz a custos mais elevados, uma vez que a utilização privada é tributada a uma taxa fixa.
-
----
-
-É mais favorável a regra do 1% ou o livro de registo? |||
+{{< /faq >}}
+{{< faq "É mais favorável a regra do 1% ou o livro de registo? " >}}
 Quanto menor for a proporção de deslocações privadas, mais vale a pena utilizar um diário de bordo; no entanto, o método do 1% é geralmente mais favorável para uma utilização privada frequente. Em caso de dúvida, pode calcular facilmente este valor online com uma calculadora de veículos de empresa.
-
----
-
-Quais são as vantagens de um diário de bordo? |||
+{{< /faq >}}
+{{< faq "Quais são as vantagens de um diário de bordo? " >}}
 Em resumo, pode dizer-se que um diário de bordo para os veículos da empresa oferece vantagens sobretudo se a utilização privada do veículo for reduzida e se o esforço que um diário de bordo implica parecer justificado.
 
 As alternativas digitais tornam o diário de bordo acessível em linha e simplificam consideravelmente a gestão, o que as torna particularmente atractivas para as empresas e os trabalhadores independentes que procuram precisão e eficácia.

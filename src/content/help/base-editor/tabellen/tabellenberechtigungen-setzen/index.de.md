@@ -27,18 +27,8 @@ Mit einem entsprechenden Abonnement haben Sie in SeaTable die Möglichkeit, die 
 
 ## Häufige Fragen
 
-{{< faq >}} Was bedeutet nur **Administratoren**?
-
-|||
-
-Mit **Administratoren** sind hier nicht die allgemeinen Team-Admins gemeint, sondern die Administratoren und Besitzer einer Gruppe.
-
----
-
-Was passiert, wenn man Zeilen anlegen, aber nicht sehen darf?
-
-|||
-
-Diese Kombination funktioniert nicht. Nur wer Zeilen sehen kann, kann diese auch bearbeiten oder neue Zeilen hinzufügen.
+{{< faq "Was bedeutet nur **Administratoren**?" >}}Mit **Administratoren** sind hier nicht die allgemeinen Team-Admins gemeint, sondern die Administratoren und Besitzer einer Gruppe.
+{{< /faq >}}
+{{< faq "Was passiert, wenn man Zeilen anlegen, aber nicht sehen darf?" >}}Diese Kombination funktioniert nicht. Nur wer Zeilen sehen kann, kann diese auch bearbeiten oder neue Zeilen hinzufügen.
 
 {{< /faq >}}

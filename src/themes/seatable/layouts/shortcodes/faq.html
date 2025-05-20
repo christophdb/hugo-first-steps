@@ -1,19 +1,11 @@
-{{ $faqItems := split .Inner "---" }}
-<div class="mx-auto mb-6 mt-4 grid max-w-[900px] grid-cols-1">
-    {{ range $index, $item := $faqItems }}
-        {{ $parts := split $item "|||" }}
-        {{ if ge (len $parts) 2 }}
-            <div class="{{ if ne $index (sub (len $faqItems) 1) }}border-b border-gray-200{{ end }} cursor-pointer p-6" x-data="{ open: false }" @click="open = !open">
-                <dt class="flex items-center justify-between" aria-controls="faq-{{ $index }}">
-                    <p class="font-poppins text-xl font-bold leading-normal" :class="{ 'gradient': open }">
-                        {{ index $parts 0 | markdownify }}
-                    </p>
-                    {{ partial "icon.html" "chevron-up" }}
-                </dt>
-                <dd class="mt-6 text-lg" x-show="open" x-collapse x-transition>
-                    <p class="leading-normal">{{ index $parts 1 | markdownify }}</p>
-                </dd>
-            </div>
-        {{ end }}
-    {{ end }}
+<div x-data="{ open: false }" class="faq-item mb-2 cursor-pointer border-b border-gray-200 p-6">
+    <div class="flex items-center justify-between" @click="open = !open" :aria-expanded="open" role="button" tabindex="0">
+        <p class="!pb-0 pr-4 font-poppins text-xl font-bold leading-normal" :class="{ 'gradient': open }">{{ .Get 0 }}</p>
+        <svg :class="{ 'rotate-180': open }" class="h-5 w-5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+    </div>
+    <div x-show="open" x-collapse x-transition class="mt-6 text-lg leading-normal">
+        {{ .Page.RenderString .Inner }}
+    </div>
 </div>

@@ -42,28 +42,12 @@ Al principio, la fórmula de búsqueda puede confundirle. Pero pronto verá que 
 
 ## Preguntas frecuentes sobre la columna Lookup
 
-{{< faq >}}
-
-¿Es posible introducir varios valores en una tabla mediante lookup?|||
-
-Definitivamente. Sólo hay que crear otra columna y volver a utilizar la función de búsqueda. De este modo, podrá leer y mostrar toda la información que desee de la tabla vinculada.
-
----
-
-¿Se pueden modificar las búsquedas a posteriori?|||
-
-Por supuesto, esto es posible. Haga clic en el **símbolo del triángulo situado** a la derecha del nombre de la columna y, a continuación, en **Personalizar tipo de columna**. Ajuste la configuración de la columna e inmediatamente aparecerá la información deseada.
-
----
-
-¿Funcionan las búsquedas con múltiples enlaces?|||
-
-Cada fórmula de búsqueda sólo puede obtener información de **una** columna de las tablas vinculadas. Pero, por supuesto, puedes enlazar varias tablas mediante columnas de enlace y crear otras columnas de consulta para leer y mostrar aún más información.
-
----
-
-¿Se pueden filtrar las entradas que se consultan por búsqueda?|||
-
-Sí, puede filtrar las entradas como desee. Para ello, active el correspondiente **Controlador** en el _Ajustes de columna_ y seleccione el **Columna(s)** cuyas entradas deben consultarse. Puede seleccionar cualquier número de **Condiciones de filtrado** definir.
+{{< faq "¿Es posible introducir varios valores en una tabla mediante lookup?" >}}Definitivamente. Sólo hay que crear otra columna y volver a utilizar la función de búsqueda. De este modo, podrá leer y mostrar toda la información que desee de la tabla vinculada.
+{{< /faq >}}
+{{< faq "¿Se pueden modificar las búsquedas a posteriori?" >}}Por supuesto, esto es posible. Haga clic en el **símbolo del triángulo situado** a la derecha del nombre de la columna y, a continuación, en **Personalizar tipo de columna**. Ajuste la configuración de la columna e inmediatamente aparecerá la información deseada.
+{{< /faq >}}
+{{< faq "¿Funcionan las búsquedas con múltiples enlaces?" >}}Cada fórmula de búsqueda sólo puede obtener información de **una** columna de las tablas vinculadas. Pero, por supuesto, puedes enlazar varias tablas mediante columnas de enlace y crear otras columnas de consulta para leer y mostrar aún más información.
+{{< /faq >}}
+{{< faq "¿Se pueden filtrar las entradas que se consultan por búsqueda?" >}}Sí, puede filtrar las entradas como desee. Para ello, active el correspondiente **Controlador** en el _Ajustes de columna_ y seleccione el **Columna(s)** cuyas entradas deben consultarse. Puede seleccionar cualquier número de **Condiciones de filtrado** definir.
 
 {{< /faq >}}

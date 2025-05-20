@@ -57,28 +57,10 @@ Auf beiden Wegen definieren Sie eine standardisierte E-Mail, deren **Text für a
 
 ## Häufige Fragen
 
-{{< faq >}}
-
-Sind die E-Mail-Zugangsdaten (insbesondere das Passwort) für Andere sichtbar, z. B. wenn ich eine Base freigebe?
-
-|||
-
-**Nein**, die geheimen E-Mail-Zugangsdaten sind durch die Freigabe einer Base **nicht gefährdet**. Bei E-Mail-Konten, die sich mittels Benutzername und Passwort am E-Mail-Server anmelden, wird das Passwort nach der Einrichtung nicht mehr im Klartext angezeigt. Bei eingerichteten E-Mail-Konten mit OAuth 2.0 Authentifizierung werden weder ID noch Schlüssel angezeigt.
-
----
-
-Werden E-Mail-Konten beim Kopieren einer Base kopiert?
-
-|||
-
-**Nein**, die einer Base eingerichteten E-Mail-Konten werden **nicht kopiert**. Wenn Sie eine Base in den Bereich _Meine Bases_ oder [in eine Gruppe]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) kopieren, müssen Sie in der neuen Base die E-Mail-Konten **neu einrichten**.
-
----
-
-Werden E-Mail-Konten beim Export einer Base mit exportiert?
-
-|||
-
-**Nein**, die in einer Base eingerichteten E-Mail-Konten werden **nicht in die [DTABLE-Datei]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) exportiert**.
+{{< faq "Sind die E-Mail-Zugangsdaten (insbesondere das Passwort) für Andere sichtbar, z. B. wenn ich eine Base freigebe?" >}}**Nein**, die geheimen E-Mail-Zugangsdaten sind durch die Freigabe einer Base **nicht gefährdet**. Bei E-Mail-Konten, die sich mittels Benutzername und Passwort am E-Mail-Server anmelden, wird das Passwort nach der Einrichtung nicht mehr im Klartext angezeigt. Bei eingerichteten E-Mail-Konten mit OAuth 2.0 Authentifizierung werden weder ID noch Schlüssel angezeigt.
+{{< /faq >}}
+{{< faq "Werden E-Mail-Konten beim Kopieren einer Base kopiert?" >}}**Nein**, die einer Base eingerichteten E-Mail-Konten werden **nicht kopiert**. Wenn Sie eine Base in den Bereich _Meine Bases_ oder [in eine Gruppe]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) kopieren, müssen Sie in der neuen Base die E-Mail-Konten **neu einrichten**.
+{{< /faq >}}
+{{< faq "Werden E-Mail-Konten beim Export einer Base mit exportiert?" >}}**Nein**, die in einer Base eingerichteten E-Mail-Konten werden **nicht in die [DTABLE-Datei]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) exportiert**.
 
 {{< /faq >}}

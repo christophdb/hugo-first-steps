@@ -1,24 +1,23 @@
 ---
-title: "Desarrollador ciudadano: ¿un cambio en la digitalización?"
-description: "¿Le faltan soluciones de software a medida para sus procesos específicos? Entonces, ¿por qué no desarrollar sus propias soluciones? Descubra en este artículo cómo puede aprovechar la experiencia de sus departamentos especializados y establecer procesos digitales eficientes implicando a desarrolladores ciudadanos en el proceso de desarrollo."
+title: 'Desarrollador ciudadano: ¿un cambio en la digitalización?'
+description: '¿Le faltan soluciones de software a medida para sus procesos específicos? Entonces, ¿por qué no desarrollar sus propias soluciones? Descubra en este artículo cómo puede aprovechar la experiencia de sus departamentos especializados y establecer procesos digitales eficientes implicando a desarrolladores ciudadanos en el proceso de desarrollo.'
 seo:
-    title: "Citizen Developer - Cambiador de juego en la digitalización"
-    description: "Desarrolle sus propias soluciones de software con Citizen Developer. Este artículo le muestra cómo utilizar la experiencia de sus departamentos especializados"
+    title: 'Citizen Developer - Cambiador de juego en la digitalización'
+    description: 'Desarrolle sus propias soluciones de software con Citizen Developer. Este artículo le muestra cómo utilizar la experiencia de sus departamentos especializados'
 date: 2025-03-17
-categories: 
-  - "No Code / Low Code"
-tags: 
-  - "Transformación digital"
-  - "Procesos de TI"
-color: "#50c2d0"
-url: "/es/citizen-developer"
+categories:
+    - 'No Code / Low Code'
+tags:
+    - 'Transformación digital'
+    - 'Procesos de TI'
+color: '#50c2d0'
+url: '/es/citizen-developer'
 ---
 
 ## Citizen Developer: motor de innovación para la transformación digital
 
 **Los procesos digitales eficientes** son el secreto del éxito de las empresas en crecimiento y resultan esenciales para mantener su competitividad. Con demasiada frecuencia, sin embargo, los departamentos de TI son incapaces de proporcionar **sistemas informáticos y aplicaciones de software flexibles** que puedan personalizarse según las necesidades y requisitos individuales de los usuarios por cuestiones de cumplimiento o por falta de capacidad. El resultado: procesos engorrosos y empleados frustrados que intentan ayudarse a sí mismos con **informática en la sombra**. Sin embargo, existe un arma milagrosa que puede tanto aliviar a su departamento de TI como satisfacer los deseos de sus departamentos especializados: el **desarrollador ciudadano**.
 
-  
 Descubra en este artículo cómo puede utilizar el **conocimiento de sus departamentos especializados** y evitar la TI en la sombra utilizando Citizen Developers en la interfaz con TI.
 
 ## ¿Qué es un Citizen Developer?
@@ -74,7 +73,7 @@ Siempre debe evitar que los departamentos especializados utilicen su propia TI e
 - Colaboración interdepartamental
 - Se evitan las TI en la sombra
 
-![Los desarrolladores ciudadanos ven el desarrollo desde otro prisma](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg "Los desarrolladores ciudadanos ven el desarrollo desde otro prisma").
+![Los desarrolladores ciudadanos ven el desarrollo desde otro prisma](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg 'Los desarrolladores ciudadanos ven el desarrollo desde otro prisma').
 
 ## 6 habilidades que caracterizan a un Citizen Developer
 
@@ -110,29 +109,13 @@ El desarrollo ciudadano es una tendencia prometedora que puede cambiar radicalme
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Qué hace un Desarrollador Ciudadano? |||
-
-Un desarrollador ciudadano utiliza entornos de desarrollo de bajo código para crear sus propias aplicaciones de software. Sin embargo, a diferencia de los profesionales de la informática, no han completado ninguna formación formal en el campo del desarrollo de software.
-
----
-
-¿Por qué es útil el desarrollo ciudadano? |||
-
-El Desarrollo Ciudadano acelera el desarrollo de aplicaciones, alivia al departamento de TI y ahorra costes de costosos programas informáticos especializados. También fomenta la innovación, la colaboración entre departamentos y la aceptación de nuevas soluciones.
-
----
-
-¿Qué es la TI en la sombra? |||
-
-Shadow IT se refiere a los sistemas informáticos y aplicaciones de software que los empleados de los departamentos especializados de una empresa utilizan junto con la infraestructura informática oficial **sin el conocimiento del departamento de TI**. Por lo tanto, las TI en la sombra no están integradas ni técnica ni estratégicamente en la gestión de servicios de TI, lo que conlleva riesgos de seguridad y otros problemas.
-
----
-
-¿Qué papel desempeñan los gestores de proyectos en el Desarrollo Ciudadano? |||
-
-Los gestores de proyectos suelen ser buenos desarrolladores ciudadanos porque conocen las necesidades y requisitos de sus equipos, tienen una visión de conjunto y pueden utilizar su pensamiento procesual para crear flujos de trabajo más eficientes.
+{{< faq "¿Qué hace un Desarrollador Ciudadano? " >}}Un desarrollador ciudadano utiliza entornos de desarrollo de bajo código para crear sus propias aplicaciones de software. Sin embargo, a diferencia de los profesionales de la informática, no han completado ninguna formación formal en el campo del desarrollo de software.
+{{< /faq >}}
+{{< faq "¿Por qué es útil el desarrollo ciudadano? " >}}El Desarrollo Ciudadano acelera el desarrollo de aplicaciones, alivia al departamento de TI y ahorra costes de costosos programas informáticos especializados. También fomenta la innovación, la colaboración entre departamentos y la aceptación de nuevas soluciones.
+{{< /faq >}}
+{{< faq "¿Qué es la TI en la sombra? " >}}Shadow IT se refiere a los sistemas informáticos y aplicaciones de software que los empleados de los departamentos especializados de una empresa utilizan junto con la infraestructura informática oficial **sin el conocimiento del departamento de TI**. Por lo tanto, las TI en la sombra no están integradas ni técnica ni estratégicamente en la gestión de servicios de TI, lo que conlleva riesgos de seguridad y otros problemas.
+{{< /faq >}}
+{{< faq "¿Qué papel desempeñan los gestores de proyectos en el Desarrollo Ciudadano? " >}}Los gestores de proyectos suelen ser buenos desarrolladores ciudadanos porque conocen las necesidades y requisitos de sus equipos, tienen una visión de conjunto y pueden utilizar su pensamiento procesual para crear flujos de trabajo más eficientes.
 
 <!-- ###### Regístrese ahora para recibir nuestro boletín -->
 

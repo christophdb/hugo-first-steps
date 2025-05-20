@@ -13,13 +13,7 @@ However, working with more complex formulas can easily pose problems, especially
 
 ## Typical mistakes when working with formulas
 
-{{< faq >}}
-{{< /faq >}}
-FIXME: ...
-
-Quotation marks missing for text elements|||
-
-It is mandatory **to** enclose each text element in your formulas _in quotation marks_ in order for it to be recognized by the Formula Wizard. If a text is **not** enclosed in quotation marks, the following **error message** may appear:
+{{< faq "Quotation marks missing for text elements" >}}It is mandatory **to** enclose each text element in your formulas _in quotation marks_ in order for it to be recognized by the Formula Wizard. If a text is **not** enclosed in quotation marks, the following **error message** may appear:
 
 ![Error message that appears when quotation marks are missing around text elements](images/Fehlermeldung-fehlende-Anfuehrungszeichen-bei-Textelementen.png)
 
@@ -32,12 +26,8 @@ It is mandatory **to** enclose each text element in your formulas _in quotation 
 ![Correct input of text elements](images/richtige-eingabe-anfuehrungszeichen.png)
 
 {{< warning  headline="Tip"  text="Text elements are always marked in **red** in a formula and can thus be distinguished from other elements. If a _text element_ entered in the formula wizard is **not** automatically marked in **red**, this means that it was entered **incorrectly**." />}}
-
----
-
-Brackets for functions are missing or set incorrectly|||
-
-**In** the formula editor, each _function_ must be followed by an _opening parenthesis_ before further elements can be added to the formula.  
+{{< /faq >}}
+{{< faq "Brackets for functions are missing or set incorrectly" >}}**In** the formula editor, each _function_ must be followed by an _opening parenthesis_ before further elements can be added to the formula.  
 If all elements of a function have been added to the formula, it must also be _closed_ with a _closing parent_ hesis. If **no** parentheses are set, the function **cannot** be recognized by the formula wizard and the following error messages may appear:
 
 ![Error message that appears if no opening round bracket is set after a function](images/Fehlermeldung-bei-fehlender-Klammer-nach-einer-Funktion.png)
@@ -53,12 +43,8 @@ If all elements of a function have been added to the formula, it must also be _c
 ![Correct input of a function](images/korrekte-eingabe-funktion-1.png)
 
 {{< warning  headline="Tip"  text="Functions are always highlighted in **blue** in a formula. If you move the cursor over an _opening or closing parenthesis_ in the _formula editor_, the corresponding _parenthesis_ is **highlighted**. This makes it easier for you to recognize missing or incorrect bracket replacements when entering functions." />}}
-
----
-
-Incorrect bracket replacement in general|||
-
-Setting _brackets_ correctly is one of the biggest challenges when entering formulas. Whether _round_, _square_ or _curly_ _brackets_, they all have to be set at the **right place** in a formula so that it is recognized by the _formula wizard._
+{{< /faq >}}
+{{< faq "Incorrect bracket replacement in general" >}}Setting _brackets_ correctly is one of the biggest challenges when entering formulas. Whether _round_, _square_ or _curly_ _brackets_, they all have to be set at the **right place** in a formula so that it is recognized by the _formula wizard._
 
 {{< warning  headline="Most important tip for correct bracket replacement"  text="When you move the cursor over an _opening or closing parenthesis_ in the _formula editor_, the corresponding _parenthesis_ is **highlighted**. This makes it easier to identify **missing** or **incorrect** bracket replacements." />}}
 
@@ -94,12 +80,8 @@ If you are unsure, remember that the corresponding _parenthesis_ is always **hig
 ### Correct input:
 
 ![Correct input of a function with column reference](images/korrekte-eingabe-einer-funktion-mit-spaltenverweis.png)
-
----
-
-I can't manage to switch several functions in my formula one after the other|||
-
-If you want to include several _functions_ in your formula, you must take care to always separate the individual functions with a **comma**.
+{{< /faq >}}
+{{< faq "I can't manage to switch several functions in my formula one after the other" >}}If you want to include several _functions_ in your formula, you must take care to always separate the individual functions with a **comma**.
 
 In addition, you must also end formulas that contain multiple functions with multiple _closing brackets_. For example, if your formula contains **three** _functions_, it must also end with **three** _closing brackets_ in the formula editor.
 
@@ -119,9 +101,9 @@ If the above points are **not** observed, the formula entered **cannot** be reco
 
 {{< warning  headline="Tip"  text="For more complex formulas, always work with _spaces_ and _line breaks_ so that you can view the individual _functions of_ your formula separately, making it easier to spot errors." />}}
 
----
+{{< /faq >}}
 
-I can't manage to link several text elements in my formula together|||
+{{< faq "I can't manage to link several text elements in my formula together" >}}
 
 To link multiple text elements in your formula, you must separate each _text_ element with a "**& symbol**". If **no** _& symbols_ are added between the text elements, the formula wizard cannot recognize **the** entered formula and the following error message appears:
 
@@ -138,3 +120,5 @@ To link multiple text elements in your formula, you must separate each _text_ el
 {{< warning headline="Tip" text="So that the various text elements are each represented by a _Space_ are linked separately, add in each case **behind** the first two text elements additionally a **& symbol** and two **Quotation mark (top)** added." />}}
 
 ![Editing the formula so that text elements are linked each separated by a space character](images/Leerzeichen-zwischen-Textelementen.png)
+
+{{< /faq >}}

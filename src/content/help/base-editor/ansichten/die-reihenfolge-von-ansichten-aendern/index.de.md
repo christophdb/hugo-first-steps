@@ -25,26 +25,10 @@ Die **Reihenfolge**, in der Ihre Ansichten einer Tabelle aufgelistet sind, könn
 
 ## Häufige Fragen
 
-{{< faq >}} Ist die Reihenfolge für jeden Benutzer individuell?
-
-|||
-
-Nein. Die Reihenfolge der Ansichten ist für alle Benutzer einer Base die gleiche.
-
----
-
-Können Ansichten auch gruppiert werden?
-
-|||
-
-Natürlich. Ansichten lassen sich ganz einfach in [Ordnern]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) organisieren.
-
----
-
-Verhalten sich private Ansichten anders?
-
-|||
-
-Nein. Private Ansichten können Sie genauso per Drag-and-Drop verschieben. Private Ansichten sind aber nur für Sie sichtbar.
+{{< faq "Ist die Reihenfolge für jeden Benutzer individuell?" >}}Nein. Die Reihenfolge der Ansichten ist für alle Benutzer einer Base die gleiche.
+{{< /faq >}}
+{{< faq "Können Ansichten auch gruppiert werden?" >}}Natürlich. Ansichten lassen sich ganz einfach in [Ordnern]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}) organisieren.
+{{< /faq >}}
+{{< faq "Verhalten sich private Ansichten anders?" >}}Nein. Private Ansichten können Sie genauso per Drag-and-Drop verschieben. Private Ansichten sind aber nur für Sie sichtbar.
 
 {{< /faq >}}

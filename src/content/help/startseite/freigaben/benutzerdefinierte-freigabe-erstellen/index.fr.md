@@ -94,16 +94,8 @@ Vous pouvez modifier les autorisations de partage personnalisées a posteriori, 
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Quand un partage personnalisé est-il utile ?|||
-
-Dans SeaTable, vous devez en principe saisir les enregistrements associés dans la même base. Si vous ne souhaitez **partager** qu'**une partie des données** avec quelqu'un, les partages personnalisés sont la solution idéale.
-
----
-
-Est-il possible de partager un partage personnalisé via un lien ?|||
-
-**Non**, vous ne pouvez actuellement envoyer des partages personnalisés qu'à un **membre de l'équipe** ou à un **groupe**.
+{{< faq "Quand un partage personnalisé est-il utile ?" >}}Dans SeaTable, vous devez en principe saisir les enregistrements associés dans la même base. Si vous ne souhaitez **partager** qu'**une partie des données** avec quelqu'un, les partages personnalisés sont la solution idéale.
+{{< /faq >}}
+{{< faq "Est-il possible de partager un partage personnalisé via un lien ?" >}}**Non**, vous ne pouvez actuellement envoyer des partages personnalisés qu'à un **membre de l'équipe** ou à un **groupe**.
 
 {{< /faq >}}

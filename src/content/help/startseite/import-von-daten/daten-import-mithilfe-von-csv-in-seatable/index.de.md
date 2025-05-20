@@ -78,29 +78,11 @@ Diese Fehlermeldung erscheint, wenn der Datei-Import aufgrund von Problemen mit 
 
 ## Häufig gestellte Fragen
 
-{{< faq >}}
-
-Wie muss die CSV-Datei aussehen, die in die Tabelle importiert werden soll?
-
-|||
-
-Die CSV-Datei muss nach [UTF-8-Standard](https://de.wikipedia.org/wiki/UTF-8) formatiert sein und das Suffix **.csv** am **Ende des Dateinamens** enthalten.
-
----
-
-Werden bestehende Daten beim Import ersetzt?
-
-|||
-
-**Nein**, es werden beim Import **keine** Daten ersetzt.
-
----
-
-Werden die importierten Daten einfach unter den bestehenden Zeilen eingefügt?
-
-|||
-
-**Ja**, die importierten Daten werden in den entsprechenden Spalten der Tabelle unter den bereits existierenden Zeilen eingefügt.
+{{< faq "Wie muss die CSV-Datei aussehen, die in die Tabelle importiert werden soll?" >}}Die CSV-Datei muss nach [UTF-8-Standard](https://de.wikipedia.org/wiki/UTF-8) formatiert sein und das Suffix **.csv** am **Ende des Dateinamens** enthalten.
+{{< /faq >}}
+{{< faq "Werden bestehende Daten beim Import ersetzt?" >}}**Nein**, es werden beim Import **keine** Daten ersetzt.
+{{< /faq >}}
+{{< faq "Werden die importierten Daten einfach unter den bestehenden Zeilen eingefügt?" >}}**Ja**, die importierten Daten werden in den entsprechenden Spalten der Tabelle unter den bereits existierenden Zeilen eingefügt.
 
 {{< /faq >}}
 

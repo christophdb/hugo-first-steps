@@ -47,22 +47,10 @@ Si define una **fórmula** como **primera** columna de una tabla, puede utilizar
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Cuáles son las limitaciones de la primera columna?|||
-
-La primera columna no puede **ocultarse**, **moverse** ni **borrarse**.
-
----
-
-¿Es posible cambiar después el tipo de la primera columna?|||
-
-Sí, es posible. En algunos casos, sin embargo, puede ocurrir que se **pierda** información al [cambiar el tipo de columna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), por ejemplo de texto a número. Por lo tanto, después de una conversión, compruebe si toda la información se ha transferido correcta y completamente.
-
----
-
-¿Qué es un número automático?|||
-
-Si desea que sus filas tengan un **número de identificación único**, el tipo de columna [Número]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) automático puede serle útil. Algunos ejemplos son los números de factura, los casos de prueba o los ID de empleado. El número también puede completarse con cualquier prefijo.
+{{< faq "¿Cuáles son las limitaciones de la primera columna?" >}}La primera columna no puede **ocultarse**, **moverse** ni **borrarse**.
+{{< /faq >}}
+{{< faq "¿Es posible cambiar después el tipo de la primera columna?" >}}Sí, es posible. En algunos casos, sin embargo, puede ocurrir que se **pierda** información al [cambiar el tipo de columna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), por ejemplo de texto a número. Por lo tanto, después de una conversión, compruebe si toda la información se ha transferido correcta y completamente.
+{{< /faq >}}
+{{< faq "¿Qué es un número automático?" >}}Si desea que sus filas tengan un **número de identificación único**, el tipo de columna [Número]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) automático puede serle útil. Algunos ejemplos son los números de factura, los casos de prueba o los ID de empleado. El número también puede completarse con cualquier prefijo.
 
 {{< /faq >}}

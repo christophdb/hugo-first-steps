@@ -27,22 +27,10 @@ You want to change the credit card you used to pay your SeaTable subscription? N
 
 ## Frequently asked questions about payment by credit card
 
-{{< faq >}}
-
-What credit cards are accepted?|||
-
-Currently Visa, Mastercard, American Express, China UnionPay and Cartes Bancaires are accepted.
-
----
-
-Can a credit card be cancelled?|||
-
-Currently, a credit card cannot be deleted. However, it will only be charged as long as you have a paid subscription.
-
----
-
-Where is the credit card data stored?|||
-
-Your credit card information is only stored by our payment service provider Stripe. SeaTable does not store your payment information.
+{{< faq "What credit cards are accepted?" >}}Currently Visa, Mastercard, American Express, China UnionPay and Cartes Bancaires are accepted.
+{{< /faq >}}
+{{< faq "Can a credit card be cancelled?" >}}Currently, a credit card cannot be deleted. However, it will only be charged as long as you have a paid subscription.
+{{< /faq >}}
+{{< faq "Where is the credit card data stored?" >}}Your credit card information is only stored by our payment service provider Stripe. SeaTable does not store your payment information.
 
 {{< /faq >}}

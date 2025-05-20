@@ -23,27 +23,15 @@ Alternatively, you can undo your last action with **a mouse click** in SeaTable'
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-How long can you undo changes?|||
-
-In principle, you can undo any entry or change within a session. However, as soon as you leave Base, the last work steps can no longer be undone with the two described options the next time Base is called.
-
----
-
-What can all be undone?|||
-
-The following actions can be undone:
+{{< faq "How long can you undo changes?" >}}In principle, you can undo any entry or change within a session. However, as soon as you leave Base, the last work steps can no longer be undone with the two described options the next time Base is called.
+{{< /faq >}}
+{{< faq "What can all be undone?" >}}The following actions can be undone:
 
 - Inputs/changes in a cell
 - Changes to the columns (name, type, position)
 - Sequence of rows
-
----
-
-Actions that cannot be undone|||
-
-Some operations cannot be undone. These include, but are not limited to:
+  {{< /faq >}}
+  {{< faq "Actions that cannot be undone" >}}Some operations cannot be undone. These include, but are not limited to:
 
 - Locking from rows
 - Changes to sorting, grouping or filters

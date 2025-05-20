@@ -25,22 +25,10 @@ You can change the **order** in which your views of a table are listed as you wi
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-Is the order individual for each user?|||
-
-No. The order of views is the same for all users of a base.
-
----
-
-Can views also be grouped?|||
-
-Of course. Views can be easily organized into [folders]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
-
----
-
-Do private views behave differently?|||
-
-No. You can drag and drop private views in the same way. However, private views are visible only to you.
+{{< faq "Is the order individual for each user?" >}}No. The order of views is the same for all users of a base.
+{{< /faq >}}
+{{< faq "Can views also be grouped?" >}}Of course. Views can be easily organized into [folders]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
+{{< /faq >}}
+{{< faq "Do private views behave differently?" >}}No. You can drag and drop private views in the same way. However, private views are visible only to you.
 
 {{< /faq >}}

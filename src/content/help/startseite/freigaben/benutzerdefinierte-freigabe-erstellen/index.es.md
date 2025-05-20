@@ -94,16 +94,8 @@ Puede cambiar los permisos de compartición personalizados a posteriori **elimin
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Cuándo tiene sentido el uso compartido personalizado?|||
-
-En SeaTable, siempre debe introducir conjuntos de datos relacionados en la misma base. Si desea **compartir** con alguien sólo **una parte** de los datos, lo más adecuado son los recursos compartidos definidos por el usuario.
-
----
-
-¿Es posible compartir una acción personalizada a través de un enlace?|||
-
-**No**, actualmente sólo puedes enviar acciones personalizadas a un **miembro del equipo** o a un **grupo**.
+{{< faq "¿Cuándo tiene sentido el uso compartido personalizado?" >}}En SeaTable, siempre debe introducir conjuntos de datos relacionados en la misma base. Si desea **compartir** con alguien sólo **una parte** de los datos, lo más adecuado son los recursos compartidos definidos por el usuario.
+{{< /faq >}}
+{{< faq "¿Es posible compartir una acción personalizada a través de un enlace?" >}}**No**, actualmente sólo puedes enviar acciones personalizadas a un **miembro del equipo** o a un **grupo**.
 
 {{< /faq >}}

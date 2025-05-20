@@ -2,8 +2,8 @@
 title: 'Quick, easy and free: How to create your own app without code'
 description: "Developing your own app doesn't have to be expensive or complicated. With modern no-code tools, you can implement your ideas quickly and easily - without any programming knowledge. In this article, you will find out which tools are particularly suitable and how you can create your own app in just a few steps."
 seo:
-    title: "Create an app: No-code solution without programming knowledge"
-    description: "Creating your own apps made easy! Discover simple ways to develop customised apps without programming knowledge"
+    title: 'Create an app: No-code solution without programming knowledge'
+    description: 'Creating your own apps made easy! Discover simple ways to develop customised apps without programming knowledge'
 date: 2025-03-18
 categories:
     - 'No Code / Low Code'
@@ -180,19 +180,13 @@ No code app builders such as SeaTable open up completely new possibilities for y
 
 ## Frequently asked questions when creating an app
 
-{{< faq >}}
-
-What is an app builder?|||
+{{< faq "What is an app builder?" >}}
 An app builder is a tool that allows you to create apps without programming knowledge. With visual drag-and-drop editors and ready-made modules, you can create your own apps without having to deal with technical aspects.
-
----
-
-Who is an App Builder suitable for?|||
+{{< /faq >}}
+{{< faq "Who is an App Builder suitable for?" >}}
 App builders are ideal for companies, freelancers and startups who need customized solutions but don't have the time or budget for traditional app development. Developers can also benefit from these tools to test prototypes or design user interfaces.
-
----
-
-How do I create my own app?|||
+{{< /faq >}}
+{{< faq "How do I create my own app?" >}}
 To create your own app, choose a no-code app builder like SeaTable. You can create an app in just a few simple steps: create a base, add a universal app, configure pages and integrate elements such as calendars, forms or tables.
 
 {{< /faq >}}

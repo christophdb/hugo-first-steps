@@ -43,22 +43,10 @@ En cuanto el miembro del equipo bloqueado intenta conectarse, aparece el siguien
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Qué ocurre con la base de un usuario eliminado?|||
-
-La base acaba en la papelera y puede ser [restaurada](https://seatable.io/es/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por un administrador del equipo.
-
----
-
-¿Los usuarios siguen teniendo acceso a las bases compartidas de un usuario eliminado?|||
-
-En el momento en que se suprime el propietario de una base, la base se **suprime también para todos los demás** que tengan autorización de liberación. La base acaba en la papelera de reciclaje y, por tanto, puede ser [restaurada](https://seatable.io/es/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por un administrador.
-
----
-
-¿Qué ocurre con un grupo creado por un usuario eliminado?|||
-
-El grupo del usuario eliminado permanece con todos los demás miembros.
+{{< faq "¿Qué ocurre con la base de un usuario eliminado?" >}}La base acaba en la papelera y puede ser [restaurada](https://seatable.io/es/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por un administrador del equipo.
+{{< /faq >}}
+{{< faq "¿Los usuarios siguen teniendo acceso a las bases compartidas de un usuario eliminado?" >}}En el momento en que se suprime el propietario de una base, la base se **suprime también para todos los demás** que tengan autorización de liberación. La base acaba en la papelera de reciclaje y, por tanto, puede ser [restaurada](https://seatable.io/es/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por un administrador.
+{{< /faq >}}
+{{< faq "¿Qué ocurre con un grupo creado por un usuario eliminado?" >}}El grupo del usuario eliminado permanece con todos los demás miembros.
 
 {{< /faq >}}

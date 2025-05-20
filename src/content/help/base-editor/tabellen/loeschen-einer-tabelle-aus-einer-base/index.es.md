@@ -21,16 +21,8 @@ url: '/es/ayuda/loeschen-einer-tabelle-aus-einer-base'
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Se pueden restaurar las tablas borradas?|||
-
-En SeaTable no hay que tener miedo a borrar. Incluso si borras accidentalmente una tabla, fila o columna, puedes [recuperarla](https://seatable.io/es/docs/bases-verwalten/eine-geloeschte-tabelle-wiederherstellen/) fácilmente. Puedes encontrar los datos borrados en la papelera de reciclaje de la Base.
-
----
-
-No encuentro la opción de borrar la tabla|||
-
-Si sólo queda una tabla en una base, ya no aparece la opción _Eliminar tabla_. También debe disponer de la autorización necesaria para eliminar una tabla.
+{{< faq "¿Se pueden restaurar las tablas borradas?" >}}En SeaTable no hay que tener miedo a borrar. Incluso si borras accidentalmente una tabla, fila o columna, puedes [recuperarla](https://seatable.io/es/docs/bases-verwalten/eine-geloeschte-tabelle-wiederherstellen/) fácilmente. Puedes encontrar los datos borrados en la papelera de reciclaje de la Base.
+{{< /faq >}}
+{{< faq "No encuentro la opción de borrar la tabla" >}}Si sólo queda una tabla en una base, ya no aparece la opción _Eliminar tabla_. También debe disponer de la autorización necesaria para eliminar una tabla.
 
 {{< /faq >}}

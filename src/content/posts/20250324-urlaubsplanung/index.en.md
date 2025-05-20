@@ -1,22 +1,22 @@
 ---
-title: "Successful vacation planning in accordance with the Federal Vacation Act: tips for HR managers"
-description: "Chaos in the calendar? If too many employees are absent at the same time, things quickly become critical. With clever strategies and digital tools, you can ensure that vacation requests are fulfilled without disrupting operations. Find out how smart vacation planning makes everyone happy."
+title: 'Successful vacation planning in accordance with the Federal Vacation Act: tips for HR managers'
+description: 'Chaos in the calendar? If too many employees are absent at the same time, things quickly become critical. With clever strategies and digital tools, you can ensure that vacation requests are fulfilled without disrupting operations. Find out how smart vacation planning makes everyone happy.'
 seo:
-    title: "Holiday planning for employees: tips for HR managers"
-    description: "Efficient holiday planning in a team: How to optimally coordinate employee absences and avoid bottlenecks - tips and templates"
+    title: 'Holiday planning for employees: tips for HR managers'
+    description: 'Efficient holiday planning in a team: How to optimally coordinate employee absences and avoid bottlenecks - tips and templates'
 date: 2025-03-24
-categories: 
-  - "General"
-  - "Best Practice"
+categories:
+    - 'General'
+    - 'Best Practice'
 tags:
-- "HR Administration"
-color: "#fdf505"
-url: "/urlaubsplanung"
+    - 'HR Administration'
+color: '#fdf505'
+url: '/urlaubsplanung'
 ---
 
 ## How to coordinate vacation requests without any problems
 
-Vacation planning for your employees is an important HR process that you should organize well. It is essential to avoid staff shortages caused by too many overlapping vacation periods so that your company's operations do not become unbalanced.  
+Vacation planning for your employees is an important HR process that you should organize well. It is essential to avoid staff shortages caused by too many overlapping vacation periods so that your company's operations do not become unbalanced.
 
 In this article, we not only take a look at useful vacation planners for effective vacation management, but also highlight the German Federal Leave Act and other legal provisions that are important for vacation planning in your company.
 
@@ -103,34 +103,33 @@ SeaTable is also web-based and can be operated in the cloud or on your own serve
 
 ## Conclusion
 
-There are many vacation planners for employees. However, most of them are specific stand-alone solutions that really can't cover anything other than vacation planning and time recording. It is better to rely on a flexible solution that enables vacation planning as well as other use cases.   
-   
+There are many vacation planners for employees. However, most of them are specific stand-alone solutions that really can't cover anything other than vacation planning and time recording. It is better to rely on a flexible solution that enables vacation planning as well as other use cases.
+
 With SeaTable's free template, you can manage all your employees' vacation requests. From requesting via a web form to processing in a Kanban board - SeaTable makes the entire process more efficient.
 
 {{< template id="a4065ce03d4d4bd5959c" >}}
-  
-Automatic notifications mean you never miss a request and can respond promptly to your employees' requests. The calendar view allows you to directly identify any overlaps and quickly decide which requests you can approve or reject. You can use intelligent formulas to automatically calculate vacation days and get an overview of how many days have already been taken at a glance.   
-   
+
+Automatic notifications mean you never miss a request and can respond promptly to your employees' requests. The calendar view allows you to directly identify any overlaps and quickly decide which requests you can approve or reject. You can use intelligent formulas to automatically calculate vacation days and get an overview of how many days have already been taken at a glance.
+
 Register with SeaTable for free today and discover the numerous functions that will revolutionize your vacation planning.
 
 ## Frequently asked questions
 
-{{< faq >}}
-How long is the statutory minimum vacation?|||
+{{< faq "How long is the statutory minimum vacation?" >}}
 In Germany, with a 5-day week, there is a statutory (according to the Federal Vacation Act) vacation entitlement of at least 20 vacation days per year.
----
-What does the Federal Leave Act say?|||
+{{< /faq >}}
+{{< faq "What does the Federal Leave Act say?" >}}
 The Federal Leave Act regulates the right of employees to paid leave and stipulates the statutory minimum leave of four weeks per year.
----
-Am I entitled to unpaid leave?|||
+{{< /faq >}}
+{{< faq "Am I entitled to unpaid leave?" >}}
 Employees should submit their vacation at least 6 weeks in advance to allow for adequate planning.
----
-When should employees submit their vacation at the latest?|||
+{{< /faq >}}
+{{< faq "When should employees submit their vacation at the latest?" >}}
 Employees should submit their vacation at least 6 weeks in advance to allow for proper planning.
----
-When is leave considered approved?|||
-Leave is considered approved when the employer confirms the request in writing or digitally. A verbal confirmation can also be regarded as approval. If the employer does not respond to the request within one month, the employee can consider the request approved.  
----
-How much do vacation planners for companies cost?|||
+{{< /faq >}}
+{{< faq "When is leave considered approved?" >}}
+Leave is considered approved when the employer confirms the request in writing or digitally. A verbal confirmation can also be regarded as approval. If the employer does not respond to the request within one month, the employee can consider the request approved.
+{{< /faq >}}
+{{< faq "How much do vacation planners for companies cost?" >}}
 Some vacation planners for companies are available for free, such as SeaTable. Other providers offer their tools at a basic price and charge an additional small fee per employee.
 {{< /faq >}}

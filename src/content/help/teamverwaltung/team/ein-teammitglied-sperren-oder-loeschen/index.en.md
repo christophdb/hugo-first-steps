@@ -43,22 +43,10 @@ As soon as the locked team member tries to log in, the following error message i
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-What happens to the base of a deleted user?|||
-
-The base ends up in the trash and can be [restored](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) by a team administrator.
-
----
-
-Do users still have access to shared bases of a deleted user?|||
-
-The moment the owner of a base is deleted, the base is **also deleted for all others** who have sharing permission. The base ends up in the recycle bin and can thus be [restored](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) by an administrator.
-
----
-
-What happens to a group created by a deleted user?|||
-
-The group of the deleted user remains with all other members.
+{{< faq "What happens to the base of a deleted user?" >}}The base ends up in the trash and can be [restored](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) by a team administrator.
+{{< /faq >}}
+{{< faq "Do users still have access to shared bases of a deleted user?" >}}The moment the owner of a base is deleted, the base is **also deleted for all others** who have sharing permission. The base ends up in the recycle bin and can thus be [restored](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) by an administrator.
+{{< /faq >}}
+{{< faq "What happens to a group created by a deleted user?" >}}The group of the deleted user remains with all other members.
 
 {{< /faq >}}

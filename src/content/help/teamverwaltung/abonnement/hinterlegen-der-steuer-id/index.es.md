@@ -34,22 +34,10 @@ Sólo cuando la verificación se haya realizado con éxito, el número de identi
 
 ## Preguntas frecuentes sobre el NIF
 
-{{< faq >}}
-
-¿Está impreso el NIF en la factura?|||
-
-Por supuesto. Si facilita un número de identificación fiscal, figurará en todas las facturas futuras.
-
----
-
-¿No se acepta mi NIF?|||
-
-Después de la entrada
-
----
-
-¿Qué importancia tiene el número de identificación fiscal para el IVA?|||
-
-El número de identificación fiscal influye en el cálculo del **IVA** para futuras facturas. **cálculo para** futuras facturas. Si el número de identificación fiscal es válido para una empresa no alemana, el IVA se reducirá al **0%.**
+{{< faq "¿Está impreso el NIF en la factura?" >}}Por supuesto. Si facilita un número de identificación fiscal, figurará en todas las facturas futuras.
+{{< /faq >}}
+{{< faq "¿No se acepta mi NIF?" >}}Después de la entrada
+{{< /faq >}}
+{{< faq "¿Qué importancia tiene el número de identificación fiscal para el IVA?" >}}El número de identificación fiscal influye en el cálculo del **IVA** para futuras facturas. **cálculo para** futuras facturas. Si el número de identificación fiscal es válido para una empresa no alemana, el IVA se reducirá al **0%.**
 
 {{< /faq >}}

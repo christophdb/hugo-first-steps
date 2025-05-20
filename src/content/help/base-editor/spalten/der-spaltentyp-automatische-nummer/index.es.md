@@ -26,22 +26,10 @@ Al crear la columna _Número automático_, se determina el **formato** que deben
 
 Aunque el tipo de columna _Número automático_ parece relativamente sencillo, hay algunas características especiales que deben tenerse en cuenta.
 
-{{< faq >}}
-
-¿Es posible influir en el siguiente valor utilizado?|||
-
-Sí. En las opciones de la columna, ésta ofrece la posibilidad de **restablecer** el **número automático** a un valor determinado, que luego recibe la fila siguiente.
-
----
-
-¿Los valores de la columna pueden aparecer dos veces?|||
-
-Sí, esto puede ocurrir. Si restablece el número automático, los valores también pueden producirse dos veces. Por lo tanto, los valores de esta columna no son únicos.
-
----
-
-¿Puede la columna contener también sólo valores únicos?|||
-
-Sí. Si utiliza una suscripción Plus o Enterprise de SeaTable, puede **bloquear la columna para editarla**. De este modo, nadie puede restablecer el número y cada valor sigue siendo único.
+{{< faq "¿Es posible influir en el siguiente valor utilizado?" >}}Sí. En las opciones de la columna, ésta ofrece la posibilidad de **restablecer** el **número automático** a un valor determinado, que luego recibe la fila siguiente.
+{{< /faq >}}
+{{< faq "¿Los valores de la columna pueden aparecer dos veces?" >}}Sí, esto puede ocurrir. Si restablece el número automático, los valores también pueden producirse dos veces. Por lo tanto, los valores de esta columna no son únicos.
+{{< /faq >}}
+{{< faq "¿Puede la columna contener también sólo valores únicos?" >}}Sí. Si utiliza una suscripción Plus o Enterprise de SeaTable, puede **bloquear la columna para editarla**. De este modo, nadie puede restablecer el número y cada valor sigue siendo único.
 
 {{< /faq >}}

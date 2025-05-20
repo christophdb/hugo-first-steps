@@ -1,16 +1,16 @@
 ---
-title: "Reclutamiento compacto: cómo encontrar y convencer al talento"
-description: "Un proceso de contratación satisfactorio determina si las empresas se mantienen preparadas para el futuro o se quedan rezagadas frente a la competencia. Descubra qué estrategias y métodos llevarán su contratación al siguiente nivel y cómo puede mantenerse a la cabeza en un mercado laboral competitivo."
+title: 'Reclutamiento compacto: cómo encontrar y convencer al talento'
+description: 'Un proceso de contratación satisfactorio determina si las empresas se mantienen preparadas para el futuro o se quedan rezagadas frente a la competencia. Descubra qué estrategias y métodos llevarán su contratación al siguiente nivel y cómo puede mantenerse a la cabeza en un mercado laboral competitivo.'
 seo:
     title: 'Contratación: consejos y estrategias para encontrar a las personas adecuadas'
     description: 'El futuro de la contratación: conozca las nuevas tecnologías y las formas innovadoras de encontrar y retener a los mejores candidatos'
 date: 2025-03-17
-categories: 
-  - "General"
-tags: 
-  - "Candidatos y gestión del talento"
-color: "#d4a2ee"
-url: "/es/recruiting"
+categories:
+    - 'General'
+tags:
+    - 'Candidatos y gestión del talento'
+color: '#d4a2ee'
+url: '/es/recruiting'
 ---
 
 ## Cómo llegar a los mejores talentos en línea
@@ -87,8 +87,8 @@ Un buen proceso de contratación sienta las bases para atraer talento cualificad
 - La **velocidad del proceso** también desempeña un papel importante. Los largos tiempos de espera tienen un efecto desmotivador y pueden provocar el abandono de talentos prometedores. Por tanto, es esencial que los procesos sean eficaces y las decisiones rápidas.
 - **La transparencia** es otra clave del éxito del proceso de contratación. Las actualizaciones periódicas y la información clara sobre los pasos siguientes orientan a los candidatos y demuestran que su empresa procede de forma estructurada y profesional.
 - Para garantizar la imparcialidad y la objetividad, debe utilizar **preguntas y criterios de evaluación normalizados**. De este modo se reducen al mínimo las influencias subjetivas y se garantiza que todos los candidatos sean evaluados con arreglo a las mismas normas.
-- Por último, el proceso de contratación debe **reflejar su cultura corporativa**. Un comportamiento auténtico muestra lo que representa su empresa y le ayuda a encontrar candidatos que encajen no sólo profesionalmente, sino también en cuanto a su personalidad.  
-    
+- Por último, el proceso de contratación debe **reflejar su cultura corporativa**. Un comportamiento auténtico muestra lo que representa su empresa y le ayuda a encontrar candidatos que encajen no sólo profesionalmente, sino también en cuanto a su personalidad.
+
 ![Mostrar el proceso de contratación](Das-zeichnet-einen-guten-Recruiting-Prozess-aus.jpg)
 
 ## Costes de contratación
@@ -121,44 +121,24 @@ Pruebe SeaTable y experimente lo fácil que puede ser la selección de personal.
 
 ## Preguntas más frecuentes
 
-{{< faq >}}
-
-¿Qué es la contratación y por qué es tan importante? |||
-
-La contratación es el proceso mediante el cual las empresas atraen a los talentos adecuados para las vacantes. En un mercado laboral altamente competitivo, un proceso de contratación bien pensado determina el éxito y la viabilidad futura de una empresa.
-
----
-
-¿Qué métodos existen para atraer nuevos talentos? |||
-
-Las empresas pueden elegir entre la contratación interna y la externa. La contratación interna incluye medidas como la recomendación de empleados o la contratación desde dentro de la empresa. La contratación externa se basa en métodos como los anuncios de empleo, la contratación social o la búsqueda activa.
-
----
-
-¿En qué consiste el éxito de una estrategia de contratación? |||
-
-Una buena estrategia de contratación es auténtica, eficaz y adaptada al grupo destinatario. Tiene en cuenta los siguientes aspectos:
+{{< faq "¿Qué es la contratación y por qué es tan importante? " >}}La contratación es el proceso mediante el cual las empresas atraen a los talentos adecuados para las vacantes. En un mercado laboral altamente competitivo, un proceso de contratación bien pensado determina el éxito y la viabilidad futura de una empresa.
+{{< /faq >}}
+{{< faq "¿Qué métodos existen para atraer nuevos talentos? " >}}Las empresas pueden elegir entre la contratación interna y la externa. La contratación interna incluye medidas como la recomendación de empleados o la contratación desde dentro de la empresa. La contratación externa se basa en métodos como los anuncios de empleo, la contratación social o la búsqueda activa.
+{{< /faq >}}
+{{< faq "¿En qué consiste el éxito de una estrategia de contratación? " >}}Una buena estrategia de contratación es auténtica, eficaz y adaptada al grupo destinatario. Tiene en cuenta los siguientes aspectos:
 
 - descripciones claras y atractivas de los puestos
 - Procesos rápidos y transparentes
 - Centrarse en la experiencia del candidato para retener el talento a largo plazo
 - Uso de herramientas modernas como SeaTable para una gestión estructurada de los candidatos
+  {{< /faq >}}
+  {{< faq "¿Cómo puedo encontrar a los mejores talentos en línea? " >}}La contratación en línea ofrece una amplia gama de oportunidades para llegar a personas con talento:
 
----
-
-¿Cómo puedo encontrar a los mejores talentos en línea? |||
-
-La contratación en línea ofrece una amplia gama de oportunidades para llegar a personas con talento:
-
-- Utiliza plataformas de redes sociales como LinkedIn o Xing para ponerte en contacto directo con los candidatos.  
-- Optimiza tu sitio web de empleo para que sea fácil de usar en dispositivos móviles y tenga información.  
-- Publica anuncios específicos en portales de empleo como StepStone o Indeed.  
+- Utiliza plataformas de redes sociales como LinkedIn o Xing para ponerte en contacto directo con los candidatos.
+- Optimiza tu sitio web de empleo para que sea fácil de usar en dispositivos móviles y tenga información.
+- Publica anuncios específicos en portales de empleo como StepStone o Indeed.
 - Utiliza métodos creativos, como el marketing de guerrilla, para llamar la atención.
-
----
-
-¿Qué herramientas gratuitas ayudan a contratar personal? |||
-
-Herramientas como SeaTable ofrecen soluciones integrales para todo el proceso de contratación. Con plantillas gratuitas, puede gestionar las candidaturas de forma centralizada, organizar las tareas y programar las entrevistas. Así ahorrará tiempo y dinero sin comprometer la calidad.
+  {{< /faq >}}
+  {{< faq "¿Qué herramientas gratuitas ayudan a contratar personal? " >}}Herramientas como SeaTable ofrecen soluciones integrales para todo el proceso de contratación. Con plantillas gratuitas, puede gestionar las candidaturas de forma centralizada, organizar las tareas y programar las entrevistas. Así ahorrará tiempo y dinero sin comprometer la calidad.
 
 {{< /faq >}}

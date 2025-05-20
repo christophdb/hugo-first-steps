@@ -44,28 +44,12 @@ You might be interested in the following articles regarding the handling of snap
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-What information about a base is stored in a snapshot?|||
-
-A snapshot saves all **table data** (columns and rows) as well as **views** and their settings. **Statistics**, **plugins** and their settings and **scripts** are also saved.
-
----
-
-What information from a base is _not_ saved in a snapshot?|||
-
-**Comments**, **web forms**, **automations**, **apps** and **content in the recycle bin** (deleted tables, columns and rows) are **not** saved in snapshots. Data in the big data storage is also not included in a snapshot.
-
----
-
-How often are automatic snapshots created?|||
-
-Snapshots are created automatically **once a day** if changes have been made to the base. The time at which this happens cannot currently be influenced.
-
----
-
-How often can you manually create a snapshot?|||
-
-You can create a snapshot manually every **10 minutes** at most.
+{{< faq "What information about a base is stored in a snapshot?" >}}A snapshot saves all **table data** (columns and rows) as well as **views** and their settings. **Statistics**, **plugins** and their settings and **scripts** are also saved.
+{{< /faq >}}
+{{< faq "What information from a base is _not_ saved in a snapshot?" >}}**Comments**, **web forms**, **automations**, **apps** and **content in the recycle bin** (deleted tables, columns and rows) are **not** saved in snapshots. Data in the big data storage is also not included in a snapshot.
+{{< /faq >}}
+{{< faq "How often are automatic snapshots created?" >}}Snapshots are created automatically **once a day** if changes have been made to the base. The time at which this happens cannot currently be influenced.
+{{< /faq >}}
+{{< faq "How often can you manually create a snapshot?" >}}You can create a snapshot manually every **10 minutes** at most.
 
 {{< /faq >}}

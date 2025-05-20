@@ -21,18 +21,8 @@ Falsch erstellte oder irrelevant gewordene Ansichten können Sie jederzeit lösc
 
 ## Häufige Fragen
 
-{{< faq >}} Kann eine gelöschte Ansicht wiederhergestellt werden?
-
-|||
-
-**Nein**. Da eine Ansicht keine eigenen Daten enthält, sondern lediglich eine spezielle Darstellung der Daten ist, kann man eine gelöschte Ansicht weder über den Papierkorb noch über den Shortcut {{< key "STRG" >}} + {{< key "Z" >}} wiederherstellen.
-
----
-
-Kann eine Ansicht immer gelöscht werden?
-
-|||
-
-Sie können Ansichten nur löschen, wenn Sie **mindestens eine zusätzliche Ansicht** zu der Default View erstellt haben.
+{{< faq "Kann eine gelöschte Ansicht wiederhergestellt werden?" >}}**Nein**. Da eine Ansicht keine eigenen Daten enthält, sondern lediglich eine spezielle Darstellung der Daten ist, kann man eine gelöschte Ansicht weder über den Papierkorb noch über den Shortcut {{< key "STRG" >}} + {{< key "Z" >}} wiederherstellen.
+{{< /faq >}}
+{{< faq "Kann eine Ansicht immer gelöscht werden?" >}}Sie können Ansichten nur löschen, wenn Sie **mindestens eine zusätzliche Ansicht** zu der Default View erstellt haben.
 
 {{< /faq >}}

@@ -1,18 +1,17 @@
 ---
-title: "Erfolgreiche Urlaubsplanung gemäß Bundesurlaubsgesetz: Tipps für Personaler"
-description: "Chaos im Kalender? Wenn zu viele Mitarbeiter gleichzeitig fehlen, wird’s schnell kritisch. Mit cleveren Strategien und digitalen Tools sorgen Sie dafür, dass Urlaubswünsche erfüllt werden, ohne den Betriebsablauf zu stören. Erfahren Sie, wie eine smarte Urlaubsplanung alle Seiten glücklich macht."
+title: 'Erfolgreiche Urlaubsplanung gemäß Bundesurlaubsgesetz: Tipps für Personaler'
+description: 'Chaos im Kalender? Wenn zu viele Mitarbeiter gleichzeitig fehlen, wird’s schnell kritisch. Mit cleveren Strategien und digitalen Tools sorgen Sie dafür, dass Urlaubswünsche erfüllt werden, ohne den Betriebsablauf zu stören. Erfahren Sie, wie eine smarte Urlaubsplanung alle Seiten glücklich macht.'
 seo:
-    title: "Urlaubsplanung für Mitarbeiter: Tipps für Personaler"
-    description: "Effiziente Urlaubsplanung im Team: So koordinieren Sie Mitarbeiterabwesenheiten optimal und vermeiden Engpässe.Tipps und Vorlagen"
+    title: 'Urlaubsplanung für Mitarbeiter: Tipps für Personaler'
+    description: 'Effiziente Urlaubsplanung im Team: So koordinieren Sie Mitarbeiterabwesenheiten optimal und vermeiden Engpässe.Tipps und Vorlagen'
 date: 2025-03-24
-categories: 
-  - "Allgemein"
-  - "Best Practice"
+categories:
+    - 'Allgemein'
+    - 'Best Practice'
 tags:
-- "Personalverwaltung"
-color: "#fdf505"
-url: "/de/urlaubsplanung"
-
+    - 'Personalverwaltung'
+color: '#fdf505'
+url: '/de/urlaubsplanung'
 ---
 
 ## So koordinieren Sie Urlaubsanträge ohne Probleme
@@ -104,34 +103,35 @@ SeaTable ist ebenfalls webbasiert und kann in der Cloud oder auf Ihrem eigenen S
 
 ## Fazit
 
-Urlaubsplaner für Mitarbeiter gibt es viele. Die meisten sind jedoch spezifische Insellösungen, die wirklich nichts außer Urlaubsplanung und Zeiterfassung abdecken können. Besser ist es, auf eine flexible Lösung zu setzen, die sowohl die Urlaubsplanung als auch andere Anwendungsfälle ermöglicht.   
+Urlaubsplaner für Mitarbeiter gibt es viele. Die meisten sind jedoch spezifische Insellösungen, die wirklich nichts außer Urlaubsplanung und Zeiterfassung abdecken können. Besser ist es, auf eine flexible Lösung zu setzen, die sowohl die Urlaubsplanung als auch andere Anwendungsfälle ermöglicht. 
+
    
 Mit der kostenlosen Vorlage von SeaTable können Sie alle Urlaubsanträge Ihrer Mitarbeiter verwalten. Vom Antrag über ein Webformular bis hin zur Bearbeitung in einem Kanban-Board – mit SeaTable wird der gesamte Prozess effizienter gestaltet. 
 
 {{< template id="a4065ce03d4d4bd5959c" >}}
-  
-Durch automatische Benachrichtigungen verpassen Sie keinen Antrag und können zeitnah auf die Wünsche Ihrer Mitarbeiter reagieren. Die Kalenderansicht ermöglicht es Ihnen, etwaige Überschneidungen direkt zu identifizieren und so schnell zu entscheiden, welche Anträge Sie genehmigen oder ablehnen können. Mit intelligenten Formeln können Sie automatisch Urlaubstage berechnen und erhalten so auf einen Blick eine Übersicht darüber, wie viele Tage bereits in Anspruch genommen wurden.   
+
+Durch automatische Benachrichtigungen verpassen Sie keinen Antrag und können zeitnah auf die Wünsche Ihrer Mitarbeiter reagieren. Die Kalenderansicht ermöglicht es Ihnen, etwaige Überschneidungen direkt zu identifizieren und so schnell zu entscheiden, welche Anträge Sie genehmigen oder ablehnen können. Mit intelligenten Formeln können Sie automatisch Urlaubstage berechnen und erhalten so auf einen Blick eine Übersicht darüber, wie viele Tage bereits in Anspruch genommen wurden. 
+
    
 Registrieren Sie sich noch heute kostenlos bei SeaTable und entdecken Sie die zahlreichen Funktionen, die Ihre Urlaubsplanung revolutionieren werden.
 
 ## Häufig gestellte Fragen
 
-{{< faq >}}
-Wie lang ist der gesetzliche Mindesturlaub?|||
+{{< faq "Wie lang ist der gesetzliche Mindesturlaub?" >}}
 In Deutschland besteht bei einer 5-Tage-Woche ein gesetzlicher (gemäß Bundesurlaubsgesetz) Urlaubsanspruch von mindestens 20 Urlaubstagen pro Jahr.
----
-Was besagt das Bundesurlaubsgesetz?|||
+{{< /faq >}}
+{{< faq "Was besagt das Bundesurlaubsgesetz?" >}}
 Das Bundesurlaubsgesetz regelt das Recht der Arbeitnehmer auf bezahlten Urlaub und legt den gesetzlichen Mindesturlaub von vier Wochen pro Jahr fest.
----
-Habe ich Anspruch auf unbezahlten Urlaub?|||
+{{< /faq >}}
+{{< faq "Habe ich Anspruch auf unbezahlten Urlaub?" >}}
 Mitarbeiter sollten ihren Urlaub mindestens 6 Wochen im Voraus einreichen, um eine angemessene Planung zu ermöglichen.
----
-Wann sollten Mitarbeiter Ihren Urlaub spätestens einreichen?|||
+{{< /faq >}}
+{{< faq "Wann sollten Mitarbeiter Ihren Urlaub spätestens einreichen?" >}}
 Mitarbeiter sollten ihren Urlaub mindestens 6 Wochen im Voraus einreichen, um eine angemessene Planung zu ermöglichen. 
----
-Wann gilt Urlaub als genehmigt?|||
+{{< /faq >}}
+{{< faq "Wann gilt Urlaub als genehmigt?" >}}
 Urlaub gilt als genehmigt, wenn der Arbeitgeber den Antrag schriftlich oder digital bestätigt. Eine mündliche Zusage kann ebenfalls als Genehmigung betrachtet werden. Wenn der Arbeitgeber nicht innerhalb eines Monats auf den Antrag reagiert, kann der Arbeitnehmer den Antrag als genehmigt ansehen.  
----
-Wie viel kosten Urlaubsplaner für Unternehmen?|||
+{{< /faq >}}
+{{< faq "Wie viel kosten Urlaubsplaner für Unternehmen?" >}}
 Einige Urlaubsplaner für Firmen sind kostenlos erhältlich, so zum Beispiel SeaTable. Andere Anbieter bieten ihre Tools zu einem Basispreis an und berechnen zusätzlich eine geringe Gebühr pro Mitarbeiter.
 {{< /faq >}}

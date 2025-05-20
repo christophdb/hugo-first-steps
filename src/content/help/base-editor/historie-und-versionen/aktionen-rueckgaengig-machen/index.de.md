@@ -23,33 +23,15 @@ Alternativ können Sie **per Mausklick** in der **Web-Oberfläche** von SeaTable
 
 ## Häufige Fragen
 
-{{< faq >}}
-
-Wie lange kann man Änderungen rückgängig machen?
-
-|||
-
-Grundsätzlich können Sie innerhalb einer Sitzung jede Eingabe oder Veränderung rückgängig machen. Sobald Sie jedoch die Base verlassen, können beim nächsten Aufruf der Base die letzten Arbeitsschritte mit den beiden beschriebenen Optionen nicht mehr rückgängig gemacht werden.
-
----
-
-Was kann alles rückgängig gemacht werden?
-
-|||
-
-Folgende Aktionen lassen sich rückgängig machen:
+{{< faq "Wie lange kann man Änderungen rückgängig machen?" >}}Grundsätzlich können Sie innerhalb einer Sitzung jede Eingabe oder Veränderung rückgängig machen. Sobald Sie jedoch die Base verlassen, können beim nächsten Aufruf der Base die letzten Arbeitsschritte mit den beiden beschriebenen Optionen nicht mehr rückgängig gemacht werden.
+{{< /faq >}}
+{{< faq "Was kann alles rückgängig gemacht werden?" >}}Folgende Aktionen lassen sich rückgängig machen:
 
 - Eingaben/Veränderungen in einer Zelle
 - Änderungen an den Spalten (Name, Typ, Position)
 - Reihenfolge der Zeilen
-
----
-
-Aktionen, die nicht rückgängig gemacht werden können
-
-|||
-
-Manche Vorgänge lassen sich nicht rückgängig machen. Dazu gehören unter anderem:
+  {{< /faq >}}
+  {{< faq "Aktionen, die nicht rückgängig gemacht werden können" >}}Manche Vorgänge lassen sich nicht rückgängig machen. Dazu gehören unter anderem:
 
 - Sperren von Zeilen
 - Änderungen von Sortierungen, Gruppierungen oder Filtern

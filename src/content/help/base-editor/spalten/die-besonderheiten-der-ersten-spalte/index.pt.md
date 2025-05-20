@@ -47,22 +47,10 @@ Se definir uma **fórmula** como a **primeira coluna** de uma tabela, pode utili
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Quais são as limitações da primeira coluna?|||
-
-A primeira coluna não pode ser **escondida**, nem **deslocada** ou **apagada**.
-
----
-
-É possível mudar depois o tipo da primeira coluna?|||
-
-Sim, isto é possível. Em alguns casos, contudo, pode acontecer que a informação **se perca** quando se [muda o tipo de coluna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), por exemplo, de texto para número. Por conseguinte, após uma conversão, verificar se toda a informação foi transferida correcta e completamente.
-
----
-
-O que é um número automático?|||
-
-Se pretender que as suas linhas tenham um **número de identificação único**, o tipo de coluna [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) pode ser-lhe útil. Os exemplos incluem números de facturas, casos de teste ou IDs de empregados. O número também pode ser complementado com qualquer prefixo.
+{{< faq "Quais são as limitações da primeira coluna?" >}}A primeira coluna não pode ser **escondida**, nem **deslocada** ou **apagada**.
+{{< /faq >}}
+{{< faq "É possível mudar depois o tipo da primeira coluna?" >}}Sim, isto é possível. Em alguns casos, contudo, pode acontecer que a informação **se perca** quando se [muda o tipo de coluna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), por exemplo, de texto para número. Por conseguinte, após uma conversão, verificar se toda a informação foi transferida correcta e completamente.
+{{< /faq >}}
+{{< faq "O que é um número automático?" >}}Se pretender que as suas linhas tenham um **número de identificação único**, o tipo de coluna [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) pode ser-lhe útil. Os exemplos incluem números de facturas, casos de teste ou IDs de empregados. O número também pode ser complementado com qualquer prefixo.
 
 {{< /faq >}}

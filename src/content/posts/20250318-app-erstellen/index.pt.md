@@ -1,9 +1,9 @@
 ---
 title: 'Rápido, fácil e gratuito: Como criar a sua própria aplicação sem código'
-description: "Desenvolver a sua própria aplicação não tem de ser dispendioso ou complicado. Com as modernas ferramentas sem código, pode implementar as suas ideias de forma rápida e fácil - sem qualquer conhecimento de programação. Neste artigo, irá descobrir que ferramentas são particularmente adequadas e como pode criar a sua própria aplicação em apenas alguns passos."
+description: 'Desenvolver a sua própria aplicação não tem de ser dispendioso ou complicado. Com as modernas ferramentas sem código, pode implementar as suas ideias de forma rápida e fácil - sem qualquer conhecimento de programação. Neste artigo, irá descobrir que ferramentas são particularmente adequadas e como pode criar a sua própria aplicação em apenas alguns passos.'
 seo:
-    title: "Criar uma aplicação: Solução sem código, sem conhecimentos de programação"
-    description: "Criar as suas próprias aplicações de forma fácil! Descubra formas simples de desenvolver aplicações personalizadas sem conhecimentos de programação"
+    title: 'Criar uma aplicação: Solução sem código, sem conhecimentos de programação'
+    description: 'Criar as suas próprias aplicações de forma fácil! Descubra formas simples de desenvolver aplicações personalizadas sem conhecimentos de programação'
 date: 2025-03-18
 categories:
     - 'Informações gerais'
@@ -152,6 +152,7 @@ Atualmente, não existem informações sobre datas no App Builder. Para alterar 
 Para que os treinadores dos cursos possam ver diretamente quais os participantes já registados, criamos uma lista prática de participantes no App Builder. Para isso, basta adicionar uma nova página, selecionar o tipo de página "Tabela" e especificar "Participantes" como fonte de dados. Todos os registos estão agora visíveis. Para uma maior estruturação, os participantes podem ser convenientemente ordenados por workshop utilizando o separador "Grupo".
 
 ![Tabela de lista de participantes no SeaTable](Step-3-Dashboard-1.jpg)
+
 #### Página individual
 
 Um tipo de página particularmente interessante é a página individual. Com esta vista, pode criar painéis de fácil utilização na aplicação que reúnem todas as informações importantes de uma forma compacta. Uma vez criada a página, pode adicionar elementos como imagens, estatísticas, contentores ou mapas, arrastando e largando - tal como precisa deles.
@@ -180,19 +181,13 @@ Os criadores de aplicações sem código, como o SeaTable, abrem possibilidades 
 
 ## Perguntas frequentes ao criar uma aplicação
 
-{{< faq >}}
-
-O que é um construtor de aplicações?|||
+{{< faq "O que é um construtor de aplicações?" >}}
 Um construtor de aplicações é uma ferramenta que lhe permite criar aplicações sem conhecimentos de programação. Com editores visuais de arrastar e largar e módulos prontos a usar, pode criar as suas próprias aplicações sem ter de lidar com aspectos técnicos.
-
----
-
-Para quem é adequado um App Builder?|||
+{{< /faq >}}
+{{< faq "Para quem é adequado um App Builder?" >}}
 Os construtores de aplicações são ideais para empresas, freelancers e startups que precisam de soluções personalizadas, mas não têm tempo ou orçamento para o desenvolvimento tradicional de aplicações. Os programadores também podem beneficiar destas ferramentas para testar protótipos ou conceber interfaces de utilizador.
-
----
-
-Como posso criar a minha própria aplicação?|||
+{{< /faq >}}
+{{< faq "Como posso criar a minha própria aplicação?" >}}
 Para criar a sua própria aplicação, escolha um criador de aplicações sem código como o SeaTable. Pode criar uma aplicação em apenas alguns passos simples: criar uma base, adicionar uma aplicação universal, configurar páginas e integrar elementos como calendários, formulários ou tabelas.
 
 {{< /faq >}}

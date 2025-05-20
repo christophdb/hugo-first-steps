@@ -2,7 +2,7 @@
 title: 'Recrutement compact : comment trouver et convaincre des talents'
 description: "Un processus de recrutement réussi détermine si les entreprises restent viables ou si elles se font distancer par la concurrence. Découvrez les stratégies et les méthodes qui feront passer votre recrutement au niveau supérieur et qui vous permettront de garder une longueur d'avance sur un marché du travail très concurrentiel"
 seo:
-    title: "Recrutement : conseils et stratégies pour la recherche de personnel"
+    title: 'Recrutement : conseils et stratégies pour la recherche de personnel'
     description: "L'avenir du recrutement : découvrez les nouvelles technologies et les moyens innovants de trouver les meilleurs candidats et de les fidéliser à long terme"
 date: 2025-03-17
 categories:
@@ -88,8 +88,7 @@ Un processus de recrutement réussi pose la première pierre pour l'acquisition 
 - La **rapidité du processus** joue également un rôle important. Les longues périodes d'attente ont un effet démotivant et peuvent vous faire perdre des talents prometteurs. Des processus efficaces et des décisions prises en temps réel sont donc indispensables.
 - **La transparence** est une autre clé d'un processus de recrutement réussi. Des mises à jour régulières et des informations claires sur les prochaines étapes permettent à vos candidats de s'orienter et montrent que votre entreprise procède de manière structurée et professionnelle.
 - Pour garantir l'équité et l'objectivité, vous devriez utiliser **des questions et des critères d'évaluation standardisés**. Cela minimise les influences subjectives et garantit que tous les candidats sont évalués selon les mêmes critères.
-- Enfin, le processus de recrutement devrait **refléter votre culture d'entreprise**. Une attitude authentique montre ce que votre entreprise représente et vous aide à trouver des candidats qui vous conviennent bien, non seulement sur le plan professionnel, mais aussi en raison de leur personnalité.  
-
+- Enfin, le processus de recrutement devrait **refléter votre culture d'entreprise**. Une attitude authentique montre ce que votre entreprise représente et vous aide à trouver des candidats qui vous conviennent bien, non seulement sur le plan professionnel, mais aussi en raison de leur personnalité.
 
 ![Représenter le processus de recrutement](Das-zeichnet-einen-guten-Recruiting-Prozess-aus.jpg)
 
@@ -123,44 +122,24 @@ Essayez SeaTable et découvrez à quel point le recrutement peut être simple. [
 
 ## Foire aux questions
 
-{{< faq >}}
-
-Qu'est-ce que le recrutement et pourquoi est-il si important?|||
-
-Le recrutement désigne le processus par lequel les entreprises attirent les talents adéquats pour les postes vacants. Dans un marché du travail très concurrentiel, un processus de recrutement bien pensé est déterminant pour le succès et la pérennité d'une entreprise.
-
----
-
-Quelles sont les méthodes pour attirer de nouveaux talents?|||
-
-Les entreprises peuvent choisir entre le recrutement interne et le recrutement externe. Le recrutement interne comprend des mesures telles que les recommandations des collaborateurs ou le recrutement au sein de l'entreprise. Le recrutement externe fait appel à des méthodes telles que les offres d'emploi, le recrutement social ou l'active sourcing.
-
----
-
-Qu'est-ce qui fait le succès d'une stratégie de recrutement?|||
-
-Une bonne stratégie de recrutement est authentique, efficace et adaptée au groupe cible. Elle tient compte des aspects suivants :
+{{< faq "Qu'est-ce que le recrutement et pourquoi est-il si important?" >}}Le recrutement désigne le processus par lequel les entreprises attirent les talents adéquats pour les postes vacants. Dans un marché du travail très concurrentiel, un processus de recrutement bien pensé est déterminant pour le succès et la pérennité d'une entreprise.
+{{< /faq >}}
+{{< faq "Quelles sont les méthodes pour attirer de nouveaux talents?" >}}Les entreprises peuvent choisir entre le recrutement interne et le recrutement externe. Le recrutement interne comprend des mesures telles que les recommandations des collaborateurs ou le recrutement au sein de l'entreprise. Le recrutement externe fait appel à des méthodes telles que les offres d'emploi, le recrutement social ou l'active sourcing.
+{{< /faq >}}
+{{< faq "Qu'est-ce qui fait le succès d'une stratégie de recrutement?" >}}Une bonne stratégie de recrutement est authentique, efficace et adaptée au groupe cible. Elle tient compte des aspects suivants :
 
 - des descriptions de poste claires et attrayantes
 - des processus rapides et transparents
 - focalisation sur l'expérience du candidat afin de fidéliser les talents à long terme
 - utilisation d'outils modernes comme SeaTable pour une gestion structurée des candidatures
-
----
-
-Comment trouver les meilleurs talents en ligne?|||
-
-Le recrutement en ligne offre de multiples possibilités d'atteindre les talents :
+  {{< /faq >}}
+  {{< faq "Comment trouver les meilleurs talents en ligne?" >}}Le recrutement en ligne offre de multiples possibilités d'atteindre les talents :
 
 - Utilisez les plateformes de médias sociaux comme LinkedIn ou Xing pour entrer directement en contact avec les candidats.
 - Optimisez votre site web de carrière pour qu'il soit adapté aux mobiles et informatif.
 - Passez des annonces ciblées sur des sites d'emploi comme StepStone ou Indeed.
 - Misez sur des approches créatives comme le guerilla marketing pour attirer l'attention.
-
----
-
-Quels sont les outils gratuits qui aident au recrutement?|||
-
-Des outils comme SeaTable offrent des solutions complètes pour l'ensemble du processus de recrutement. Des modèles gratuits vous permettent de gérer les candidatures de manière centralisée, d'organiser les tâches et de planifier les entretiens d'embauche. Vous économisez ainsi du temps et de l'argent, sans pour autant renoncer à la qualité.
+  {{< /faq >}}
+  {{< faq "Quels sont les outils gratuits qui aident au recrutement?" >}}Des outils comme SeaTable offrent des solutions complètes pour l'ensemble du processus de recrutement. Des modèles gratuits vous permettent de gérer les candidatures de manière centralisée, d'organiser les tâches et de planifier les entretiens d'embauche. Vous économisez ainsi du temps et de l'argent, sans pour autant renoncer à la qualité.
 
 {{< /faq >}}

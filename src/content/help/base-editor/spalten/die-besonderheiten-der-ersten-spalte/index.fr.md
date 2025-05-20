@@ -47,22 +47,10 @@ Si vous définissez une **formule** comme **première colonne** d'un tableau, vo
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Quelles sont les restrictions de la première colonne ?|||
-
-La première colonne ne peut être ni **masquée**, ni **déplacée**, ni **supprimée**.
-
----
-
-Est-il possible de modifier ultérieurement le type de la première colonne ?|||
-
-Oui, c'est possible. Dans certains cas, il peut toutefois arriver que des informations soient **perdues** lors de la [modification du type de colonne]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), par exemple du texte au nombre. Après une conversion, vérifiez donc que toutes les informations ont été reprises correctement et intégralement.
-
----
-
-Qu'est-ce qu'un numéro automatique ?|||
-
-Si vos lignes doivent avoir un **numéro d'identification unique**, le type de colonne [Numéro automatique]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) pourrait vous rendre de fiers services. Les numéros de facture, les cas de test ou les identifiants des collaborateurs en sont des exemples. Le numéro peut en outre être complété par un préfixe de votre choix.
+{{< faq "Quelles sont les restrictions de la première colonne ?" >}}La première colonne ne peut être ni **masquée**, ni **déplacée**, ni **supprimée**.
+{{< /faq >}}
+{{< faq "Est-il possible de modifier ultérieurement le type de la première colonne ?" >}}Oui, c'est possible. Dans certains cas, il peut toutefois arriver que des informations soient **perdues** lors de la [modification du type de colonne]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), par exemple du texte au nombre. Après une conversion, vérifiez donc que toutes les informations ont été reprises correctement et intégralement.
+{{< /faq >}}
+{{< faq "Qu'est-ce qu'un numéro automatique ?" >}}Si vos lignes doivent avoir un **numéro d'identification unique**, le type de colonne [Numéro automatique]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) pourrait vous rendre de fiers services. Les numéros de facture, les cas de test ou les identifiants des collaborateurs en sont des exemples. Le numéro peut en outre être complété par un préfixe de votre choix.
 
 {{< /faq >}}

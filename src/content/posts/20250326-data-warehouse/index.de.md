@@ -2,14 +2,14 @@
 title: 'Wie Sie mit einem Data Warehouse Ihre Daten nutzbar machen'
 description: 'Data Warehouse, Datenbank, Data Lake: Diese Begriffe können verwirrend sein – meinen sie doch alle ein System, das Daten speichert. Der folgende Artikel bringt Licht ins Dunkel und erklärt, was ein Data Warehouse für Vorteile hat und wie Data Warehousing funktioniert.'
 seo:
-    title: "Data Warehouse: Vorteile für Ihr Unternehmen im Überblick"
-    description: "Entdecken Sie die Grundlagen und fortgeschrittenen Techniken des Data Warehousing. Erfahren Sie, wie Sie Daten effektiv speichern"
+    title: 'Data Warehouse: Vorteile für Ihr Unternehmen im Überblick'
+    description: 'Entdecken Sie die Grundlagen und fortgeschrittenen Techniken des Data Warehousing. Erfahren Sie, wie Sie Daten effektiv speichern'
 date: 2025-03-26
 categories:
     - 'Allgemein'
 tags:
-- "Datenmanagement & Visualisierung"
-- "Digitale Transformation"
+    - 'Datenmanagement & Visualisierung'
+    - 'Digitale Transformation'
 url: '/de/data-warehouse'
 color: '#34ba9d'
 ---
@@ -135,24 +135,16 @@ Noch dazu haben Sie die Wahl, ob Sie Ihr Datawarehouse [On-Premises]({{< relref 
 
 ## FAQs zum Data Warehousing
 
-{{< faq >}}
-
-Was ist ein Data Warehouse?|||
+{{< faq "Was ist ein Data Warehouse?" >}}
 Eine weitgehend anerkannte Data Warehouse Definition lautet, dass ein DWH vielfältige Daten aus verschiedenen Quellen zu einem einheitlichen Datenbestand zusammenführt, um fundierte Analysen möglich zu machen. Dazu bereitet es die Daten auf und speichert sie strukturiert in einer Datenbank.
-
----
-
-Was ist ein Data Lake?|||
+{{< /faq >}}
+{{< faq "Was ist ein Data Lake?" >}}
 Ein Data Lake ist ebenso wie ein Data Warehouse ein spezielles Speichersystem. Im Vergleich zum Data Warehouse speichert ein Data Lake jedoch unverarbeitete Rohdaten. Die Aufbereitung ist nachgelagert und beginnt erst, wenn Sie die Daten für die Analyse benötigen.
-
----
-
-Was ist ein Data Mart?|||
+{{< /faq >}}
+{{< faq "Was ist ein Data Mart?" >}}
 Ein Data Mart ist ein Teil des Data Warehouses, der für einen bestimmten Anwendungsfall oder Geschäftsbereich vorgesehen ist. Er versorgt eine definierte Nutzergruppe genau mit den Daten, die für sie relevant sind. Dahingegen speichert das Data Warehouse die Daten eines gesamten Unternehmens.
-
----
-
-Was bedeutet ETL?|||
+{{< /faq >}}
+{{< faq "Was bedeutet ETL?" >}}
 ETL ist die Abkürzung für Extract, Transform, Load. Dies beschreibt die drei Prozessschritte, in denen aus unterschiedlichen Quellen Daten gesammelt, umgewandelt und im Datawarehouse gespeichert werden.
 
 {{< /faq >}}

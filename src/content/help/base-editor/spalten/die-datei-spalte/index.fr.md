@@ -100,22 +100,10 @@ En cliquant sur les **trois points**, vous avez deux options pour enregistrer le
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Un fichier peut-il être téléchargé lors d'un partage en lecture ?|||
-
-Oui, même si un utilisateur n'a qu'une **autorisation de lecture**, il peut télécharger des fichiers.
-
----
-
-Est-il possible de lire des fichiers audio dans SeaTable ?|||
-
-Non. Pour pouvoir lire **des fichiers audio**, vous devez d'abord les télécharger.
-
----
-
-Est-il possible de modifier l'ordre des fichiers dans une colonne de fichiers ?|||
-
-Non, l'ordre ne peut **pas** être modifié dans une colonne de fichiers. Le premier document téléchargé est placé en premier. L'ordre dans lequel vous téléchargez les documents vous permet de déterminer l'ordre dans la colonne des fichiers.
+{{< faq "Un fichier peut-il être téléchargé lors d'un partage en lecture ?" >}}Oui, même si un utilisateur n'a qu'une **autorisation de lecture**, il peut télécharger des fichiers.
+{{< /faq >}}
+{{< faq "Est-il possible de lire des fichiers audio dans SeaTable ?" >}}Non. Pour pouvoir lire **des fichiers audio**, vous devez d'abord les télécharger.
+{{< /faq >}}
+{{< faq "Est-il possible de modifier l'ordre des fichiers dans une colonne de fichiers ?" >}}Non, l'ordre ne peut **pas** être modifié dans une colonne de fichiers. Le premier document téléchargé est placé en premier. L'ordre dans lequel vous téléchargez les documents vous permet de déterminer l'ordre dans la colonne des fichiers.
 
 {{< /faq >}}

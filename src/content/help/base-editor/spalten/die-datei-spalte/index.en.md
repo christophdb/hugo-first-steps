@@ -100,22 +100,10 @@ If you click on the **three dots**, you have two options for saving the file: Wh
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-Can a file be downloaded on a read share?|||
-
-Yes. Even if a user has **read-only permission**, he or she can download files.
-
----
-
-Can audio files be played in SeaTable?|||
-
-No. To play **audio files**, you need to download them first.
-
----
-
-Is it possible to change the order of files in a file column?|||
-
-No, the order **cannot** be changed within a file column. The first uploaded document comes first. By the order in which you upload the documents, you can determine the order within the file column.
+{{< faq "Can a file be downloaded on a read share?" >}}Yes. Even if a user has **read-only permission**, he or she can download files.
+{{< /faq >}}
+{{< faq "Can audio files be played in SeaTable?" >}}No. To play **audio files**, you need to download them first.
+{{< /faq >}}
+{{< faq "Is it possible to change the order of files in a file column?" >}}No, the order **cannot** be changed within a file column. The first uploaded document comes first. By the order in which you upload the documents, you can determine the order within the file column.
 
 {{< /faq >}}

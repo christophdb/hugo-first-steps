@@ -42,34 +42,12 @@ Anfangs mag die Lookup-Formel Sie vielleicht noch verwirren. Doch Sie werden seh
 
 ## Häufige Fragen zur Lookup-Spalte
 
-{{< faq >}} Kann man mehrere Werte per Lookup in eine Tabelle holen?
-
-|||
-
-Definitiv. Erzeugen Sie einfach eine weitere Spalte und nutzen Sie wieder die Lookup-Funktion. So können Sie beliebig viele Informationen aus der verlinkten Tabelle auslesen und anzeigen lassen.
-
----
-
-Können Lookups nachträglich geändert werden?
-
-|||
-
-Das ist natürlich möglich. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Spaltennamen und dann auf **Spaltentyp anpassen**. Passen Sie die Einstellungen der Spalte an und sofort werden Ihnen die gewünschten Informationen angezeigt.
-
----
-
-Funktionieren Lookups bei mehreren Verlinkungen?
-
-|||
-
-Jede Lookup-Formel kann nur die Informationen aus **einer** Spalte Ihrer verlinkten Tabellen holen. Aber natürlich können Sie über Verknüpfungsspalten mehrere Tabellen verlinken und weitere Lookup-Spalten anlegen, um noch mehr Informationen auszulesen und anzuzeigen.
-
----
-
-Können Einträge, die per Lookup nachgeschlagen werden, gefiltert werden?
-
-|||
-
-Ja, Sie können die Einträge beliebig filtern. Aktivieren Sie dazu den entsprechenden **Regler** in den _Spalten-Einstellungen_ und wählen Sie die **Spalte(n)** aus, deren Einträge nachgeschlagen werden sollen. Sie können dabei beliebig viele **Filter-Bedingungen** definieren.
+{{< faq "Kann man mehrere Werte per Lookup in eine Tabelle holen?" >}}Definitiv. Erzeugen Sie einfach eine weitere Spalte und nutzen Sie wieder die Lookup-Funktion. So können Sie beliebig viele Informationen aus der verlinkten Tabelle auslesen und anzeigen lassen.
+{{< /faq >}}
+{{< faq "Können Lookups nachträglich geändert werden?" >}}Das ist natürlich möglich. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Spaltennamen und dann auf **Spaltentyp anpassen**. Passen Sie die Einstellungen der Spalte an und sofort werden Ihnen die gewünschten Informationen angezeigt.
+{{< /faq >}}
+{{< faq "Funktionieren Lookups bei mehreren Verlinkungen?" >}}Jede Lookup-Formel kann nur die Informationen aus **einer** Spalte Ihrer verlinkten Tabellen holen. Aber natürlich können Sie über Verknüpfungsspalten mehrere Tabellen verlinken und weitere Lookup-Spalten anlegen, um noch mehr Informationen auszulesen und anzuzeigen.
+{{< /faq >}}
+{{< faq "Können Einträge, die per Lookup nachgeschlagen werden, gefiltert werden?" >}}Ja, Sie können die Einträge beliebig filtern. Aktivieren Sie dazu den entsprechenden **Regler** in den _Spalten-Einstellungen_ und wählen Sie die **Spalte(n)** aus, deren Einträge nachgeschlagen werden sollen. Sie können dabei beliebig viele **Filter-Bedingungen** definieren.
 
 {{< /faq >}}

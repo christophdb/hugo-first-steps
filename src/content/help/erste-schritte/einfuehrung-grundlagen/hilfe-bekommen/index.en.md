@@ -33,28 +33,12 @@ Besides the user manual, there are other sources that you can use to learn more 
 
 ## Frequently asked questions about support
 
-{{< faq >}}
-
-Does SeaTable offer telephone support?|||
-
-We do **not** provide telephone support for SeaTable Cloud. If you have booked a Dedicated Cloud system or purchased a SeaTable Server license, you can add telephone support from our staff.
-
----
-
-Is it possible to book a SeaTable expert for a workshop, training or individual support?|||
-
-Of course, we offer corresponding individual appointments on demand. For the help of a SeaTable expert we charge 120 € (net) per hour. Write us if you want to make an individual appointment.
-
----
-
-When will I receive feedback from SeaTable support?|||
-
-We do our best to answer your inquiry quickly and helpfully. Typically, you will receive a response the same day or the next business day.
-
----
-
-Can I contact SeaTable support without a SeaTable account?|||
-
-No. To contact SeaTable support, you need a Plus or Enterprise subscription. Of course, you can always contact our [sales team](mailto:sales@seatable.io).
+{{< faq "Does SeaTable offer telephone support?" >}}We do **not** provide telephone support for SeaTable Cloud. If you have booked a Dedicated Cloud system or purchased a SeaTable Server license, you can add telephone support from our staff.
+{{< /faq >}}
+{{< faq "Is it possible to book a SeaTable expert for a workshop, training or individual support?" >}}Of course, we offer corresponding individual appointments on demand. For the help of a SeaTable expert we charge 120 € (net) per hour. Write us if you want to make an individual appointment.
+{{< /faq >}}
+{{< faq "When will I receive feedback from SeaTable support?" >}}We do our best to answer your inquiry quickly and helpfully. Typically, you will receive a response the same day or the next business day.
+{{< /faq >}}
+{{< faq "Can I contact SeaTable support without a SeaTable account?" >}}No. To contact SeaTable support, you need a Plus or Enterprise subscription. Of course, you can always contact our [sales team](mailto:sales@seatable.io).
 
 {{< /faq >}}

@@ -26,16 +26,10 @@ Avec un abonnement approprié, vous avez la possibilité dans SeaTable de restre
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Que signifie " **administrateurs** uniquement" ?|||
-
+{{< faq "Que signifie **administrateurs** uniquement ?" >}}
 Par **administrateurs**, nous n'entendons pas ici les administrateurs généraux de l'équipe, mais les administrateurs et propriétaires d'un groupe.
+{{< /faq >}}
 
----
-
-Que se passe-t-il si l'on crée des lignes mais que l'on ne peut pas les voir ?|||
-
+{{< faq "Que se passe-t-il si l'on crée des lignes mais que l'on ne peut pas les voir ?" >}}
 Cette combinaison ne fonctionne pas. Seules les personnes qui peuvent voir les lignes peuvent les modifier ou en ajouter de nouvelles.
-
 {{< /faq >}}

@@ -3,7 +3,7 @@ title: 'Modèle gratuit : pour tenir facilement un carnet de route numérique'
 description: "Un livre de bord peut être plus qu'une simple bureaucratie ennuyeuse - il vous offre la possibilité d'économiser de l'argent. Avec les bons outils numériques, vous maximisez vos avantages et évitez les erreurs coûteuses. Découvrez comment tenir intelligemment votre carnet de route et quelles solutions peuvent vous aider !"
 seo:
     title: "Tenir un carnet de route numérique : C'est aussi simple que ça | SeaTable"
-    description: "Un carnet de route numérique présente de nombreux avantages. Découvrez comment tenir intelligemment votre carnet de route, sans paperasserie fastidieuse."
+    description: 'Un carnet de route numérique présente de nombreux avantages. Découvrez comment tenir intelligemment votre carnet de route, sans paperasserie fastidieuse.'
 date: 2025-04-01
 url: '/fr/carnet-de-route'
 tags:
@@ -134,45 +134,25 @@ Si vous souhaitez utiliser le livre de bord numérique de SeaTable, [il vous suf
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Dois-je documenter chaque trajet?|||
-
-Oui, si vous tenez un carnet de route, vous devez documenter chaque trajet afin de séparer correctement l'usage privé de l'usage professionnel et de bénéficier d'une déduction fiscale.
-
----
-
-Que doit contenir un carnet de route ?|||
-
-Dans un carnet de route, les informations suivantes doivent être entièrement documentées pour chaque trajet :
+{{< faq "Dois-je documenter chaque trajet?" >}}Oui, si vous tenez un carnet de route, vous devez documenter chaque trajet afin de séparer correctement l'usage privé de l'usage professionnel et de bénéficier d'une déduction fiscale.
+{{< /faq >}}
+{{< faq "Que doit contenir un carnet de route ?" >}}Dans un carnet de route, les informations suivantes doivent être entièrement documentées pour chaque trajet :
 
 - date du trajet
 - Heure de début et de fin
 - Kilométrage au début et à la fin du trajet
 - Destination et but du trajet
 - Nom du partenaire commercial ou du client (pour les trajets professionnels)
-
----
-
-Que se passe-t-il si je perds mon carnet de route?|||
-
-Si vous perdez votre carnet de route, les conséquences dépendent de l'obligation ou non de le tenir :
+  {{< /faq >}}
+  {{< faq "Que se passe-t-il si je perds mon carnet de route?" >}}Si vous perdez votre carnet de route, les conséquences dépendent de l'obligation ou non de le tenir :
 
 **Si le carnet de route est obligatoire:** La perte entraîne une amende de 100 euros. De plus, l'obligation de tenir un carnet de route peut être prolongée, car le carnet ne peut plus être présenté.
 
 **En cas de carnet de route volontaire pour le fisc** : Dans ce cas, la règle du 1% s'applique, ce qui entraîne souvent des frais plus élevés, car l'utilisation privée est imposée de manière forfaitaire.
-
----
-
-La règle du 1% ou le carnet de route sont-ils plus avantageux?|||
-
-Plus la part de trajets privés est faible, plus il est intéressant d'utiliser un carnet de route ; en revanche, si l'utilisation privée est fréquente, la méthode des 1% est généralement plus avantageuse. En cas de doute, vous pouvez facilement le calculer en ligne avec un calculateur de voiture de société.
-
----
-
-Quels sont les avantages d'un carnet de route ?|||
-
-En résumé, un carnet de route pour les voitures de fonction présente surtout des avantages lorsque l'utilisation privée du véhicule est faible et que l'effort que représente un carnet de route semble justifié.
+{{< /faq >}}
+{{< faq "La règle du 1% ou le carnet de route sont-ils plus avantageux?" >}}Plus la part de trajets privés est faible, plus il est intéressant d'utiliser un carnet de route ; en revanche, si l'utilisation privée est fréquente, la méthode des 1% est généralement plus avantageuse. En cas de doute, vous pouvez facilement le calculer en ligne avec un calculateur de voiture de société.
+{{< /faq >}}
+{{< faq "Quels sont les avantages d'un carnet de route ?" >}}En résumé, un carnet de route pour les voitures de fonction présente surtout des avantages lorsque l'utilisation privée du véhicule est faible et que l'effort que représente un carnet de route semble justifié.
 
 Les alternatives numériques rendent le carnet de bord accessible en ligne et en simplifient considérablement la gestion, ce qui les rend particulièrement attrayantes pour les entreprises et les indépendants qui privilégient la précision et l'efficacité.
 

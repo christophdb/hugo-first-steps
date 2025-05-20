@@ -14,31 +14,19 @@ Se mesmo assim não conseguir resolver o problema, contacte o serviço de apoio 
 
 ## Códigos de erro API
 
-{{< faq >}}
-
-401 erro: autenticação_requerida|||
-
-**Significado da mensagem de erro**  
+{{< faq "401 erro: autenticação_requerida" >}}**Significado da mensagem de erro**  
 A chave API ou ficha de acesso não estava presente no pedido ou foi passada incorrectamente.
 
 **Passos para a resolução de problemas**  
 Localize a ficha apropriada e adicione-a ao seu pedido. O seu código de acesso deve ser incluído no pedido sob a forma de um _cabeçalho de autorização_. Para mais detalhes sobre o token correcto, ver a [documentação API](https://api.seatable.io/#authentication).
-
----
-
-401 erro: não autorizado, ficha de autenticação inválida|||
-
-**Significado da mensagem de erro**  
+{{< /faq >}}
+{{< faq "401 erro: não autorizado, ficha de autenticação inválida" >}}**Significado da mensagem de erro**  
 A ficha especificada é inválida.
 
 **Passos para a resolução de problemas**  
 Certifique-se de que a ficha que está a utilizar corresponde à chave que lhe é mostrada no SeaTable.
-
----
-
-429 erro: too_many_requests|||
-
-**Significado da mensagem de erro**  
+{{< /faq >}}
+{{< faq "429 erro: too_many_requests" >}}**Significado da mensagem de erro**  
 O limite máximo de 300 pedidos por minuto ou 5.000 por dia e base foi excedido. É necessário aguardar até que o API permita novamente os pedidos.
 
 **Passos para a resolução de problemas**  

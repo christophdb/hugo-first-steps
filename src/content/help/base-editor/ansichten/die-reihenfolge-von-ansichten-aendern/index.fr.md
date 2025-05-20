@@ -25,22 +25,10 @@ Vous pouvez modifier à volonté l'**ordre** dans lequel vos vues d'un tableau s
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-L'ordre est-il individuel pour chaque utilisateur ?|||
-
-Non. L'ordre des vues est le même pour tous les utilisateurs d'une base.
-
----
-
-Les vues peuvent-elles aussi être regroupées ?|||
-
-Bien sûr que oui. Les vues peuvent être facilement organisées en [dossiers]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
-
----
-
-Les opinions privées se comportent-elles différemment ?|||
-
-Non, vous pouvez déplacer les vues privées par glisser-déposer. Les vues privées ne sont toutefois visibles que pour vous.
+{{< faq "L'ordre est-il individuel pour chaque utilisateur ?" >}}Non. L'ordre des vues est le même pour tous les utilisateurs d'une base.
+{{< /faq >}}
+{{< faq "Les vues peuvent-elles aussi être regroupées ?" >}}Bien sûr que oui. Les vues peuvent être facilement organisées en [dossiers]({{< relref "help/base-editor/ansichten/ansichten-in-ordnern-gruppieren" >}}).
+{{< /faq >}}
+{{< faq "Les opinions privées se comportent-elles différemment ?" >}}Non, vous pouvez déplacer les vues privées par glisser-déposer. Les vues privées ne sont toutefois visibles que pour vous.
 
 {{< /faq >}}

@@ -58,35 +58,13 @@ Insgesamt stehen Ihnen dabei **drei** verschiedene Möglichkeiten zur Verfügung
 
 ## Häufige Fragen
 
-{{< faq >}} Warum zeigt die Importvorschau nicht alle Werte an?
-
-|||
-
-Die Importvorschau zeigt, welche Datenstrukturen in SeaTable importiert werden. In der **Vorschau** werden jedoch maximal **201 Zeilen** angezeigt.
-
----
-
-Können mehrere Arbeitsblätter aus Excel importiert werden?
-
-|||
-
-SeaTable kann mit mehreren Arbeitsblättern umgehen und versucht jedes Arbeitsblatt in eine Tabelle umzuwandeln.
-
----
-
-Warum wird meine erste Zeile nicht importiert?
-
-|||
-
-Die Werte, die sich in der **ersten Zeile** einer importierten Excel-Tabelle befinden, werden von SeaTable immer automatisch als **Spalten-Namen** verwendet und daher beim Import aus der ersten Zeile **entfernt**. Alle anderen Daten in der Tabelle werden dementsprechend **eine Zeile** nach oben verschoben.
-
----
-
-Erkennt SeaTable den Spaltentyp automatisch?
-
-|||
-
-SeaTable versucht anhand der Werte in den ersten Zeilen den Spaltentyp automatisch zu bestimmen. Bestimmte **Datentypen** werden von SeaTable **automatisch** erkannt. Werden beispielsweise **Nummern** oder **Daten (Jahr-Monat-Tag)** importiert, passt das Programm automatisch den **Spaltentyp** an die importierten Daten an.
+{{< faq "Warum zeigt die Importvorschau nicht alle Werte an?" >}}Die Importvorschau zeigt, welche Datenstrukturen in SeaTable importiert werden. In der **Vorschau** werden jedoch maximal **201 Zeilen** angezeigt.
+{{< /faq >}}
+{{< faq "Können mehrere Arbeitsblätter aus Excel importiert werden?" >}}SeaTable kann mit mehreren Arbeitsblättern umgehen und versucht jedes Arbeitsblatt in eine Tabelle umzuwandeln.
+{{< /faq >}}
+{{< faq "Warum wird meine erste Zeile nicht importiert?" >}}Die Werte, die sich in der **ersten Zeile** einer importierten Excel-Tabelle befinden, werden von SeaTable immer automatisch als **Spalten-Namen** verwendet und daher beim Import aus der ersten Zeile **entfernt**. Alle anderen Daten in der Tabelle werden dementsprechend **eine Zeile** nach oben verschoben.
+{{< /faq >}}
+{{< faq "Erkennt SeaTable den Spaltentyp automatisch?" >}}SeaTable versucht anhand der Werte in den ersten Zeilen den Spaltentyp automatisch zu bestimmen. Bestimmte **Datentypen** werden von SeaTable **automatisch** erkannt. Werden beispielsweise **Nummern** oder **Daten (Jahr-Monat-Tag)** importiert, passt das Programm automatisch den **Spaltentyp** an die importierten Daten an.
 
 {{< /faq >}}
 

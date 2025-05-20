@@ -57,22 +57,10 @@ Les deux méthodes permettent de définir un e-mail standardisé dont le **texte
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Les données d'accès à la messagerie (en particulier le mot de passe) sont-elles visibles pour les autres, par exemple lorsque je partage une base ?|||
-
-**Non**, les données d'accès secrètes à la messagerie ne sont **pas menacées** par le partage d'une base. Pour les comptes de messagerie qui se connectent au serveur de messagerie au moyen d'un nom d'utilisateur et d'un mot de passe, le mot de passe n'est plus affiché en clair après la configuration. Pour les comptes de messagerie configurés avec l'authentification OAuth 2.0, ni l'ID ni la clé ne sont affichées.
-
----
-
-Les comptes de messagerie sont-ils copiés lors de la copie d'une base ?|||
-
-**Non**, les comptes de messagerie configurés dans une base ne sont **pas copiés**. Si vous copiez une base dans le domaine _Mes bases_ ou [dans un groupe]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), vous devez **reconfigurer** les comptes de messagerie dans la nouvelle base.
-
----
-
-Les comptes de messagerie sont-ils également exportés lors de l'exportation d'une base ?|||
-
-**Non**, les comptes de messagerie configurés dans une base ne sont **pas exportés dans le [fichier DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
+{{< faq "Les données d'accès à la messagerie (en particulier le mot de passe) sont-elles visibles pour les autres, par exemple lorsque je partage une base ?" >}}**Non**, les données d'accès secrètes à la messagerie ne sont **pas menacées** par le partage d'une base. Pour les comptes de messagerie qui se connectent au serveur de messagerie au moyen d'un nom d'utilisateur et d'un mot de passe, le mot de passe n'est plus affiché en clair après la configuration. Pour les comptes de messagerie configurés avec l'authentification OAuth 2.0, ni l'ID ni la clé ne sont affichées.
+{{< /faq >}}
+{{< faq "Les comptes de messagerie sont-ils copiés lors de la copie d'une base ?" >}}**Non**, les comptes de messagerie configurés dans une base ne sont **pas copiés**. Si vous copiez une base dans le domaine _Mes bases_ ou [dans un groupe]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), vous devez **reconfigurer** les comptes de messagerie dans la nouvelle base.
+{{< /faq >}}
+{{< faq "Les comptes de messagerie sont-ils également exportés lors de l'exportation d'une base ?" >}}**Non**, les comptes de messagerie configurés dans une base ne sont **pas exportés dans le [fichier DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 
 {{< /faq >}}

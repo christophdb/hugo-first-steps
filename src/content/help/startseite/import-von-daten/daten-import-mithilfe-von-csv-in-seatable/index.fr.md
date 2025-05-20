@@ -78,23 +78,11 @@ Ce message d'erreur apparaît lorsque l'importation de fichiers échoue en raiso
 
 ## Questions fréquemment posées
 
-{{< faq >}}
-
-Comment doit se présenter le fichier CSV à importer dans le tableau ?|||
-
-Le fichier CSV doit être formaté selon la [norme UTF-8](https://de.wikipedia.org/wiki/UTF-8) et contenir le suffixe **.csv** à **la fin du nom de fichier**.
-
----
-
-Les données existantes sont-elles remplacées lors de l'importation ?|||
-
-**Non**, **aucune** donnée n'est remplacée lors de l'importation.
-
----
-
-Les données importées sont-elles simplement insérées sous les lignes existantes ?|||
-
-**Oui**, les données importées seront insérées dans les colonnes correspondantes du tableau, sous les lignes déjà existantes.
+{{< faq "Comment doit se présenter le fichier CSV à importer dans le tableau ?" >}}Le fichier CSV doit être formaté selon la [norme UTF-8](https://de.wikipedia.org/wiki/UTF-8) et contenir le suffixe **.csv** à **la fin du nom de fichier**.
+{{< /faq >}}
+{{< faq "Les données existantes sont-elles remplacées lors de l'importation ?" >}}**Non**, **aucune** donnée n'est remplacée lors de l'importation.
+{{< /faq >}}
+{{< faq "Les données importées sont-elles simplement insérées sous les lignes existantes ?" >}}**Oui**, les données importées seront insérées dans les colonnes correspondantes du tableau, sous les lignes déjà existantes.
 
 {{< /faq >}}
 

@@ -27,22 +27,10 @@ Gostaria de alterar o cartão de crédito que utilizou para pagar a sua subscri�
 
 ## Perguntas mais frequentes sobre pagamento por cartão de crédito
 
-{{< faq >}}
-
-Que cartões de crédito são aceites?|||
-
-Actualmente são aceites Visa, Mastercard, American Express, China UnionPay e Cartes Bancaires.
-
----
-
-Um cartão de crédito pode ser cancelado?|||
-
-Actualmente, um cartão de crédito não pode ser cancelado. No entanto, só será cobrado enquanto tiver uma assinatura paga.
-
----
-
-Onde estão guardados os dados do cartão de crédito?|||
-
-Os detalhes do seu cartão de crédito só são guardados com o nosso fornecedor de serviços de pagamento Stripe. O SeaTable não armazena as suas informações de pagamento.
+{{< faq "Que cartões de crédito são aceites?" >}}Actualmente são aceites Visa, Mastercard, American Express, China UnionPay e Cartes Bancaires.
+{{< /faq >}}
+{{< faq "Um cartão de crédito pode ser cancelado?" >}}Actualmente, um cartão de crédito não pode ser cancelado. No entanto, só será cobrado enquanto tiver uma assinatura paga.
+{{< /faq >}}
+{{< faq "Onde estão guardados os dados do cartão de crédito?" >}}Os detalhes do seu cartão de crédito só são guardados com o nosso fornecedor de serviços de pagamento Stripe. O SeaTable não armazena as suas informações de pagamento.
 
 {{< /faq >}}

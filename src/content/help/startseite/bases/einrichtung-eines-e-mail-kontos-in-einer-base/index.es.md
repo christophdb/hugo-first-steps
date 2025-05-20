@@ -57,22 +57,10 @@ De ambas formas, se define un correo electrónico estandarizado cuyo **texto** s
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-¿Los datos de acceso al correo electrónico (especialmente la contraseña) son visibles para otras personas, por ejemplo, cuando comparto una base?|||
-
-**No**, los datos secretos de acceso al correo electrónico **no se ponen en peligro** por la publicación de una base. Para las cuentas de correo electrónico que inician sesión en el servidor de correo electrónico utilizando un nombre de usuario y una contraseña, la contraseña ya no se muestra en texto sin formato después de la configuración. Para las cuentas de correo electrónico configuradas con autenticación OAuth 2.0, no se muestran ni el ID ni la clave.
-
----
-
-¿Se copian las cuentas de correo electrónico cuando se copia una base?|||
-
-**No**, las cuentas de correo electrónico configuradas para una base **no se copian**. Si copias una base al área _Mis bases_ o [a un grupo]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), deberás **volver a configurar** las cuentas de correo electrónico en la nueva base.
-
----
-
-¿Se exportan también las cuentas de correo electrónico al exportar una base?|||
-
-**No**, las cuentas de correo electrónico configuradas en una base **no se exportan al [archivo DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
+{{< faq "¿Los datos de acceso al correo electrónico (especialmente la contraseña) son visibles para otras personas, por ejemplo, cuando comparto una base?" >}}**No**, los datos secretos de acceso al correo electrónico **no se ponen en peligro** por la publicación de una base. Para las cuentas de correo electrónico que inician sesión en el servidor de correo electrónico utilizando un nombre de usuario y una contraseña, la contraseña ya no se muestra en texto sin formato después de la configuración. Para las cuentas de correo electrónico configuradas con autenticación OAuth 2.0, no se muestran ni el ID ni la clave.
+{{< /faq >}}
+{{< faq "¿Se copian las cuentas de correo electrónico cuando se copia una base?" >}}**No**, las cuentas de correo electrónico configuradas para una base **no se copian**. Si copias una base al área _Mis bases_ o [a un grupo]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), deberás **volver a configurar** las cuentas de correo electrónico en la nueva base.
+{{< /faq >}}
+{{< faq "¿Se exportan también las cuentas de correo electrónico al exportar una base?" >}}**No**, las cuentas de correo electrónico configuradas en una base **no se exportan al [archivo DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 
 {{< /faq >}}

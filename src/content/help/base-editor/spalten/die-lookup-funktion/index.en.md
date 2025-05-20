@@ -42,28 +42,12 @@ At first, the Lookup formula may confuse you. But you'll see that before long yo
 
 ## Frequently asked questions about the Lookup column
 
-{{< faq >}}
-
-Is it possible to get multiple values into one table via lookup?|||
-
-Definitely. Just create another column and use the lookup function again. This way you can read and display as much information as you want from the linked table.
-
----
-
-Can lookups be changed afterwards?|||
-
-Of course, this is possible. Click the **triangle icon to** the right of the column name and then click **Customize Column Type**. Adjust the settings of the column and immediately the desired information will be displayed.
-
----
-
-Do lookups work with multiple links?|||
-
-Each lookup formula can only fetch the information from **one** column of your linked tables. But of course you can link multiple tables via link columns and create more lookup columns to read and display even more information.
-
----
-
-Can entries looked up by lookup be filtered?|||
-
-Yes, you can filter the entries as you wish. To do this, activate the corresponding **Controller** in the _Column settings_ and select the **Column(s)** whose entries are to be looked up. You can select any number of **Filter conditions** define.
+{{< faq "Is it possible to get multiple values into one table via lookup?" >}}Definitely. Just create another column and use the lookup function again. This way you can read and display as much information as you want from the linked table.
+{{< /faq >}}
+{{< faq "Can lookups be changed afterwards?" >}}Of course, this is possible. Click the **triangle icon to** the right of the column name and then click **Customize Column Type**. Adjust the settings of the column and immediately the desired information will be displayed.
+{{< /faq >}}
+{{< faq "Do lookups work with multiple links?" >}}Each lookup formula can only fetch the information from **one** column of your linked tables. But of course you can link multiple tables via link columns and create more lookup columns to read and display even more information.
+{{< /faq >}}
+{{< faq "Can entries looked up by lookup be filtered?" >}}Yes, you can filter the entries as you wish. To do this, activate the corresponding **Controller** in the _Column settings_ and select the **Column(s)** whose entries are to be looked up. You can select any number of **Filter conditions** define.
 
 {{< /faq >}}

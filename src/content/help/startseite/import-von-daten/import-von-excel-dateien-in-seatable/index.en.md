@@ -58,29 +58,13 @@ A total of **three** different options are available to you:
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-Why does the import preview not show all values?|||
-
-The import preview shows which data structures will be imported into SeaTable. However, the **preview** shows a maximum of **201 rows**.
-
----
-
-Can multiple worksheets be imported from Excel?|||
-
-SeaTable can handle multiple worksheets and tries to convert each worksheet into a table.
-
----
-
-Why is my first row not imported?|||
-
-The values that are in the **first row** of an imported Excel table are always automatically used by SeaTable as **column names** and therefore**removed from** the first row during import. All other data in the table will be moved up **one row** accordingly.
-
----
-
-Does SeaTable detect the column type automatically?|||
-
-SeaTable tries to determine the column type automatically based on the values in the first rows . Certain **data types** are **automatically** recognized by SeaTable. For example, if **numbers** or **dates (year-month-day)** are imported, the program automatically adjusts the **column type** to the imported data.
+{{< faq "Why does the import preview not show all values?" >}}The import preview shows which data structures will be imported into SeaTable. However, the **preview** shows a maximum of **201 rows**.
+{{< /faq >}}
+{{< faq "Can multiple worksheets be imported from Excel?" >}}SeaTable can handle multiple worksheets and tries to convert each worksheet into a table.
+{{< /faq >}}
+{{< faq "Why is my first row not imported?" >}}The values that are in the **first row** of an imported Excel table are always automatically used by SeaTable as **column names** and therefore**removed from** the first row during import. All other data in the table will be moved up **one row** accordingly.
+{{< /faq >}}
+{{< faq "Does SeaTable detect the column type automatically?" >}}SeaTable tries to determine the column type automatically based on the values in the first rows . Certain **data types** are **automatically** recognized by SeaTable. For example, if **numbers** or **dates (year-month-day)** are imported, the program automatically adjusts the **column type** to the imported data.
 
 {{< /faq >}}
 

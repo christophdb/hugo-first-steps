@@ -270,34 +270,18 @@ Por outro lado, também é necessário criar vistas, uma vez que estas não são
 
 ## Área de FAQ
 
-{{< faq >}}
-
-O script altera os dados na minha Airtable Base?|||
-
-Não. O script apenas lê a sua base de mesa aérea. Os dados na base da tabela aérea não são alterados.
-
----
-
-O que devo fazer se receber uma mensagem de erro?|||
-
-Uma mensagem de erro na primeira execução não é de todo improvável. Há muitas razões para isso, por exemplo, um token incorreto, uma sequência incorrecta na especificação das ligações, erros de digitação, falta de vírgulas ou indentação incorrecta. Um único erro pode levar à anulação da execução do script.  
+{{< faq "O script altera os dados na minha Airtable Base?" >}}Não. O script apenas lê a sua base de mesa aérea. Os dados na base da tabela aérea não são alterados.
+{{< /faq >}}
+{{< faq "O que devo fazer se receber uma mensagem de erro?" >}}Uma mensagem de erro na primeira execução não é de todo improvável. Há muitas razões para isso, por exemplo, um token incorreto, uma sequência incorrecta na especificação das ligações, erros de digitação, falta de vírgulas ou indentação incorrecta. Um único erro pode levar à anulação da execução do script.  
 Se receber uma mensagem de erro, geralmente não se trata de um problema. Não se perdem dados. Proceda da seguinte forma para encontrar a causa do erro:  
 \- Na maioria dos casos, a mensagem de erro dá-lhe uma pista sobre onde encontrar o erro. Siga-a, corrija os parâmetros introduzidos e execute o script novamente. Um erro de indentação, por exemplo, indica que a indentação não corresponde à sintaxe Python.  
 \- Se a mensagem de erro for incompreensível, verifique se todas as entradas estão correctas e tente novamente.  
 \- Se nenhuma das dicas ajudar, procure ajuda no [Fórum SeaTable](https://forum.seatable.io/).
 
 {{< warning  headline="Nota importante"  text="Remova o token da API, o PAT e a ID de base antes de publicar capturas de ecrã ou scripts no fórum." />}}
-
----
-
-Podem ser migradas bases Airtable de qualquer dimensão?|||
-
-Em princípio, sim. No entanto, o procedimento apresentado neste artigo com o editor Python integrado está sujeito a um limite máximo de tempo de execução de 15 minutos, ou seja, os scripts que se prolongam por mais de 15 minutos são cancelados. Na prática, isto é suficiente para a grande maioria das bases. No entanto, este limite pode ter um papel importante para bases com ficheiros grandes/muitos anexos. Neste caso, pode reduzir o tempo de execução excluindo colunas. Se não pretender excluir colunas, deve executar o script Python localmente num computador onde não exista limite de tempo de execução.
-
----
-
-É possível importar tabelas para uma base existente?|||
-
-O script não requer que a base esteja vazia. Por isso, também pode executar o script numa base com tabelas existentes e preenchidas. A única coisa que deve evitar é duplicar os nomes das tabelas.
+{{< /faq >}}
+{{< faq "Podem ser migradas bases Airtable de qualquer dimensão?" >}}Em princípio, sim. No entanto, o procedimento apresentado neste artigo com o editor Python integrado está sujeito a um limite máximo de tempo de execução de 15 minutos, ou seja, os scripts que se prolongam por mais de 15 minutos são cancelados. Na prática, isto é suficiente para a grande maioria das bases. No entanto, este limite pode ter um papel importante para bases com ficheiros grandes/muitos anexos. Neste caso, pode reduzir o tempo de execução excluindo colunas. Se não pretender excluir colunas, deve executar o script Python localmente num computador onde não exista limite de tempo de execução.
+{{< /faq >}}
+{{< faq "É possível importar tabelas para uma base existente?" >}}O script não requer que a base esteja vazia. Por isso, também pode executar o script numa base com tabelas existentes e preenchidas. A única coisa que deve evitar é duplicar os nomes das tabelas.
 
 {{< /faq >}}
