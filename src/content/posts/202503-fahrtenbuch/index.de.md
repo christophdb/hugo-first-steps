@@ -2,16 +2,16 @@
 title: 'Digitales Fahrtenbuch führen: So einfach geht es!'
 description: 'Ein Fahrtenbuch kann mehr sein als nur lästige Bürokratie – es bietet Ihnen die Möglichkeit, bares Geld zu sparen. Mit den richtigen digitalen Tools maximieren Sie Ihre Vorteile und vermeiden teure Fehler. Entdecken Sie, wie Sie Ihr Fahrtenbuch clever führen und welche Lösungen Ihnen dabei helfen können!'
 seo:
-    title: "Digitales Fahrtenbuch führen: So einfach geht es | SeaTable"
-    description: "Ein digitales Fahrtenbuch bringt viele Vorteile. Entdecken Sie, wie Sie Ihr Fahrtenbuch clever führen, ohne lästige Bürokratie."
+    title: 'Digitales Fahrtenbuch führen: So einfach geht es | SeaTable'
+    description: 'Ein digitales Fahrtenbuch bringt viele Vorteile. Entdecken Sie, wie Sie Ihr Fahrtenbuch clever führen, ohne lästige Bürokratie.'
 date: 2025-04-01
 url: '/de/fahrtenbuch'
 tags:
-- 'Toolings & Plugins'
-- 'Finanzen'
-- 'Fuhrparkmanagement'
+    - 'Toolings & Plugins'
+    - 'Finanzen'
+    - 'Fuhrparkmanagement'
 categories:
-- 'Allgemein'
+    - 'Allgemein'
 color: '#f34b4c'
 ---
 
@@ -136,45 +136,25 @@ Wenn Sie das digitale Fahrtenbuch von SeaTable nutzen möchten, [registrieren Si
 
 ## Häufig gestellte Fragen
 
-{{< faq >}}
-
-Muss ich jede Fahrt dokumentieren?|||
-
-Ja, wenn Sie ein Fahrtenbuch führen, müssen Sie jede einzelne Fahrt dokumentieren, um die private und geschäftliche Nutzung korrekt zu trennen und steuerlich geltend zu machen. 
-
----
-
-Was muss alles in einem Fahrtenbuch stehen?|||
-
-In einem Fahrtenbuch müssen folgende Angaben für jede Fahrt vollständig dokumentiert sein:
+{{< faq "Muss ich jede Fahrt dokumentieren?" >}}Ja, wenn Sie ein Fahrtenbuch führen, müssen Sie jede einzelne Fahrt dokumentieren, um die private und geschäftliche Nutzung korrekt zu trennen und steuerlich geltend zu machen. 
+{{< /faq >}}
+{{< faq "Was muss alles in einem Fahrtenbuch stehen?" >}}In einem Fahrtenbuch müssen folgende Angaben für jede Fahrt vollständig dokumentiert sein:
 
 - Datum der Fahrt
 - Uhrzeit bei Beginn und Ende
 - Kilometerstand zu Beginn und Ende der Fahrt
 - Zielort und Zweck der Fahrt
 - Name des Geschäftspartners oder Kunden (bei geschäftlichen Fahrten)
-
----
-
-Was passiert, wenn ich mein Fahrtenbuch verliere?|||
-
-Wenn Sie Ihr Fahrtenbuch verlieren, hängt die Konsequenz davon ab, ob Sie verpflichtet waren, es zu führen:
+  {{< /faq >}}
+  {{< faq "Was passiert, wenn ich mein Fahrtenbuch verliere?" >}}Wenn Sie Ihr Fahrtenbuch verlieren, hängt die Konsequenz davon ab, ob Sie verpflichtet waren, es zu führen:
 
 **Bei verpflichtendem Fahrtenbuch:** Der Verlust führt zu einem Bußgeld von 100 Euro. Zudem kann die Fahrtenbuchauflage verlängert werden, da das Buch nicht mehr vorgelegt werden kann.
 
 **Bei freiwilligem Fahrtenbuch für das Finanzamt**: In diesem Fall greift die 1%-Regelung, was häufig zu höheren Kosten führt, da die private Nutzung pauschal besteuert wird.
-
----
-
-Ist die 1%-Regel oder das Fahrtenbuch günstiger?|||
-
-Je geringer der Anteil an Privatfahrten, desto eher lohnt sich ein Fahrtenbuch; bei häufiger Privatnutzung ist hingegen meist die 1%-Methode günstiger. Im Zweifelsfall können Sie dies bequem mit einem Firmenwagenrechner online berechnen.
-
----
-
-Was sind die Vorteile eines Fahrtenbuchs?|||
-
-Zusammenfassend lässt sich sagen, dass ein Fahrtenbuch bei Dienstwagen vor allem Vorteile bietet, wenn die private Nutzung des Fahrzeugs gering ist und der Aufwand, den ein Fahrtenbuch mit sich bringt, gerechtfertigt erscheint.
+{{< /faq >}}
+{{< faq "Ist die 1%-Regel oder das Fahrtenbuch günstiger?" >}}Je geringer der Anteil an Privatfahrten, desto eher lohnt sich ein Fahrtenbuch; bei häufiger Privatnutzung ist hingegen meist die 1%-Methode günstiger. Im Zweifelsfall können Sie dies bequem mit einem Firmenwagenrechner online berechnen.
+{{< /faq >}}
+{{< faq "Was sind die Vorteile eines Fahrtenbuchs?" >}}Zusammenfassend lässt sich sagen, dass ein Fahrtenbuch bei Dienstwagen vor allem Vorteile bietet, wenn die private Nutzung des Fahrzeugs gering ist und der Aufwand, den ein Fahrtenbuch mit sich bringt, gerechtfertigt erscheint.
 
 Die digitalen Alternativen machen das Fahrtenbuch online zugänglich und vereinfachen die Verwaltung erheblich, was sie besonders attraktiv für Unternehmen und Selbstständige macht, die auf Präzision und Effizienz setzen.
 

@@ -2,8 +2,8 @@
 title: 'Computação em nuvem: Como dimensionar as suas TI de forma económica'
 description: 'A digitalização do mundo do trabalho está a progredir rapidamente e a computação em nuvem desempenha um papel central neste processo. Mas o que significa exatamente a computação em nuvem e como pode ajudar a sua empresa? Neste artigo, ficará a saber tudo o que precisa de saber sobre a tecnologia da nuvem.'
 seo:
-    title: "Computação em nuvem | Dimensione as suas TI de forma económica"
-    description: "O que é a computação em nuvem e como pode ajudar a sua empresa? Descubra tudo o que precisa de saber sobre a tecnologia de nuvem."
+    title: 'Computação em nuvem | Dimensione as suas TI de forma económica'
+    description: 'O que é a computação em nuvem e como pode ajudar a sua empresa? Descubra tudo o que precisa de saber sobre a tecnologia de nuvem.'
 categories:
     - 'Informações gerais'
 tags:
@@ -38,29 +38,19 @@ Além da definição de computação em nuvem acima, 6 recursos são considerado
 
 Agora que já explicámos a computação em nuvem em termos simples, vejamos as vantagens que as caraterísticas de uma nuvem acima mencionadas lhe oferecem.
 
-{{< faq >}}
-
-Eficiência de custos e conveniência|||
+{{< faq "Eficiência de custos e conveniência" >}}
 Quando utiliza serviços de nuvem, poupa em investimentos elevados nos seus próprios servidores e paga apenas os recursos que realmente utiliza (princípio do pagamento consoante o uso). Como não tem de se preocupar com a infraestrutura local, a sua equipa de TI tem mais tempo para questões mais importantes.
-
----
-
-Fornecimento rápido|||
+{{< /faq >}}
+{{< faq "Fornecimento rápido" >}}
 Com a computação em nuvem, pode ativar os componentes necessários em apenas alguns minutos, em vez de ter de esperar semanas pela encomenda de hardware, configurar o sistema e instalar software.
-
----
-
-Independência de locais e dispositivos|||
+{{< /faq >}}
+{{< faq "Independência de locais e dispositivos" >}}
 Os seus funcionários podem aceder aos seus dados e aplicações na nuvem a qualquer momento e a partir de qualquer lugar. Isto significa que não há perda de dados devido ao armazenamento local se um dispositivo final se avariar ou se perder.
-
----
-
-Atualidade e produtividade|||
+{{< /faq >}}
+{{< faq "Atualidade e produtividade" >}}
 Numa nuvem, todos os utilizadores vêem a versão atual dos seus dados e documentos armazenados. As alterações são sincronizadas em tempo real, o que melhora significativamente a colaboração.
-
----
-
-Elasticidade e escalabilidade|||
+{{< /faq >}}
+{{< faq "Elasticidade e escalabilidade" >}}
 Adapte de forma flexível a sua infraestrutura de nuvem às suas necessidades e volumes de dados em qualquer altura. A computação em nuvem permite que a sua empresa cresça sem que a sua infraestrutura de TI se torne um estrangulamento.
 
 {{< /faq >}}
@@ -98,11 +88,11 @@ A Plataforma como Serviço (PaaS) é uma **plataforma baseada na nuvem para o de
 
 Infraestrutura como um serviço (IaaS) significa que aluga a sua **infraestrutura de TI** desejada, por exemplo, servidores, redes, bases de dados e sistemas operativos, **num centro de dados externo e acede-lhe através da nuvem**. A faturação é baseada na utilização através do fornecedor de computação em nuvem. Isto elimina a necessidade de investimentos elevados na sua própria infraestrutura.
 
-| **IaaS** | **PaaS** | **SaaS** | |
-| ------------------- | ---------------------------- | ----------------------- | -------------------------------------------------- |
-| **Tipo de serviço** | Infraestrutura | Plataforma de desenvolvimento | Software
-| **Grupo-alvo** | Administradores de sistemas | Programadores de software | Utilizadores |
-| **Exemplos** | Servidores, redes, bases de dados | Desenvolvimento de aplicações, DevOps | Sistemas CRM, ferramentas de gestão de projectos, software de RH |
+| **IaaS**            | **PaaS**                          | **SaaS**                              |                                                                  |
+| ------------------- | --------------------------------- | ------------------------------------- | ---------------------------------------------------------------- |
+| **Tipo de serviço** | Infraestrutura                    | Plataforma de desenvolvimento         | Software                                                         |
+| **Grupo-alvo**      | Administradores de sistemas       | Programadores de software             | Utilizadores                                                     |
+| **Exemplos**        | Servidores, redes, bases de dados | Desenvolvimento de aplicações, DevOps | Sistemas CRM, ferramentas de gestão de projectos, software de RH |
 
 ![Para uma nuvem privada, é necessária a sua própria infraestrutura](Fuer-eine-Private-Cloud-benoetigen-Sie-eigene-Infrastruktur.jpg 'Para uma nuvem privada, é necessária a sua própria infraestrutura')
 
@@ -116,13 +106,13 @@ Existem vários modelos de computação em nuvem, que diferem de acordo com o **
 
 A principal diferença entre estes modelos de computação em nuvem é a medida em que pretende **fornecer os recursos de TI de que a sua empresa necessita**. Quanto mais infra-estruturas possuir, maior será a soberania e o controlo dos dados, mas maiores serão os esforços e os custos.
 
-| **Nuvem pública** | **Nuvem híbrida** | **Nuvem privada** |
-| -------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Acessibilidade** | recursos informáticos partilhados publicamente | recursos informáticos parcialmente próprios e parcialmente públicos | recursos informáticos próprios e privados
-| **Escalabilidade** | muito rápida e flexível | flexível | só pode ser expandida com um atraso |
-| **Soberania dos dados** | elevada dependência do fornecedor de serviços em nuvem | média dependência do fornecedor de serviços em nuvem | total independência e soberania dos dados
-| **Despesas e custos** | baixos, não é necessária uma infraestrutura própria, princípio de pagamento conforme o uso | moderados, infraestrutura básica própria, podem ser reservados recursos adicionais se necessário | custos elevados para servidores próprios, infraestrutura, eletricidade e pessoal de TI |
-| **Exemplos de grupos-alvo e sectores** | Empresas em fase de arranque, empresas em expansão, indústrias com grandes flutuações sazonais | Empresas que mantêm os dados sensíveis privados, mas que pretendem ser flexíveis | Autoridades públicas, bancos, instituições de investigação, empresas que trabalham com dados altamente sensíveis |
+| **Nuvem pública**                      | **Nuvem híbrida**                                                                              | **Nuvem privada**                                                                                |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| **Acessibilidade**                     | recursos informáticos partilhados publicamente                                                 | recursos informáticos parcialmente próprios e parcialmente públicos                              | recursos informáticos próprios e privados                                                                        |
+| **Escalabilidade**                     | muito rápida e flexível                                                                        | flexível                                                                                         | só pode ser expandida com um atraso                                                                              |
+| **Soberania dos dados**                | elevada dependência do fornecedor de serviços em nuvem                                         | média dependência do fornecedor de serviços em nuvem                                             | total independência e soberania dos dados                                                                        |
+| **Despesas e custos**                  | baixos, não é necessária uma infraestrutura própria, princípio de pagamento conforme o uso     | moderados, infraestrutura básica própria, podem ser reservados recursos adicionais se necessário | custos elevados para servidores próprios, infraestrutura, eletricidade e pessoal de TI                           |
+| **Exemplos de grupos-alvo e sectores** | Empresas em fase de arranque, empresas em expansão, indústrias com grandes flutuações sazonais | Empresas que mantêm os dados sensíveis privados, mas que pretendem ser flexíveis                 | Autoridades públicas, bancos, instituições de investigação, empresas que trabalham com dados altamente sensíveis |
 
 ## Aspectos da segurança na nuvem
 
@@ -163,19 +153,13 @@ A computação em nuvem oferece-lhe uma forma económica, conveniente e segura d
 
 ## Perguntas mais frequentes sobre a computação em nuvem
 
-{{< faq >}}
-
-O que é a nuvem?|||
+{{< faq "O que é a nuvem?" >}}
 A nuvem é um **símbolo para uma extensa rede de servidores remotos** que estão distribuídos e ligados em todo o mundo. O exemplo mais conhecido de uma nuvem é a Internet.
-
----
-
-O que é a computação em nuvem?|||
+{{< /faq >}}
+{{< faq "O que é a computação em nuvem?" >}}
 A computação em nuvem (explicada de forma simples) refere-se ao **fornecimento de recursos informáticos através da Internet**. Em vez de armazenar programas e dados localmente no seu computador ou nos seus próprios servidores, utiliza os **centros de dados dos fornecedores de serviços em nuvem**. Estes fornecem-lhe todo o espaço de armazenamento, potência de computação ou software que desejar, a pedido.
-
----
-
-Que tipos de computação em nuvem existem?|||
+{{< /faq >}}
+{{< faq "Que tipos de computação em nuvem existem?" >}}
 Os tipos de computação em nuvem dividem-se em serviços de computação em nuvem e modelos de computação em nuvem: Os serviços de computação em nuvem mais utilizados são **IaaS** (Infraestrutura como serviço), **PaaS** (Plataforma como serviço) e **SaaS** (Software como serviço). É normalmente feita uma distinção entre os modelos **Nuvem pública**, **Nuvem privada** e **Nuvem híbrida**.
 
 {{< /faq >}}

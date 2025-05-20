@@ -1,0 +1,16 @@
+<nav aria-label="breadcrumb" data-pagefind-ignore>
+    <span class="flex w-fit place-items-center gap-2 rounded-md bg-gray-200 px-6 py-2">
+        {{ $ancestors := .Ancestors.Reverse }}
+        {{ $last := index (last 1 $ancestors) 0 }}
+        {{ range $ancestors }}
+            {{ if not .IsHome }}
+                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                {{ if ne . $last }}
+                    <span class="-rotate-90">
+                        {{ partial "icon.html" "chevron-down" }}
+                    </span>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </span>
+</nav>

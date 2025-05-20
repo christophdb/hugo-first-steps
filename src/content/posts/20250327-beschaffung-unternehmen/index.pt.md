@@ -1,16 +1,16 @@
 ---
-title: "5 dicas sobre como otimizar o aprovisionamento na sua empresa"
-description: "O aprovisionamento está no centro de qualquer estratégia empresarial bem sucedida e a sua otimização não só poupa custos como também aumenta a competitividade. Neste artigo, mostramos-lhe os maiores factores de sucesso e desafios para uma aquisição bem sucedida e damos-lhe 5 dicas para o ajudar a otimizar os seus processos de aquisição."
+title: '5 dicas sobre como otimizar o aprovisionamento na sua empresa'
+description: 'O aprovisionamento está no centro de qualquer estratégia empresarial bem sucedida e a sua otimização não só poupa custos como também aumenta a competitividade. Neste artigo, mostramos-lhe os maiores factores de sucesso e desafios para uma aquisição bem sucedida e damos-lhe 5 dicas para o ajudar a otimizar os seus processos de aquisição.'
 seo:
-    title: "Compras na empresa: Estrategicamente bem posicionado"
-    description: "Processos de aquisição eficientes são a chave para o sucesso de uma empresa. Descubra estratégias para processos de compra e gestão de fornecedores"
+    title: 'Compras na empresa: Estrategicamente bem posicionado'
+    description: 'Processos de aquisição eficientes são a chave para o sucesso de uma empresa. Descubra estratégias para processos de compra e gestão de fornecedores'
 date: 2025-03-27
-categories: 
-  - "Informações gerais"
-  - "Melhores práticas"
+categories:
+    - 'Informações gerais'
+    - 'Melhores práticas'
 tags:
-color: "#a57956"
-url: "/pt/beschaffung-unternehmen/"
+color: '#a57956'
+url: '/pt/beschaffung-unternehmen/'
 ---
 
 ## Gestão das aquisições nas empresas
@@ -75,7 +75,7 @@ Com o **suprimento individual**, o usuário compra mercadorias por item, por exe
 
 O objetivo do **stock procurement** é manter uma grande quantidade de bens e materiais em stock, de modo a satisfazer as encomendas numa base contínua.
 
-O aprovisionamento just-in-time**, também conhecido como aprovisionamento sincronizado com a produção, envolve a aquisição de bens apenas quando estes são necessários no processo de produção.
+O aprovisionamento just-in-time\*\*, também conhecido como aprovisionamento sincronizado com a produção, envolve a aquisição de bens apenas quando estes são necessários no processo de produção.
 
 ## Factores de sucesso nas aquisições: o que deve considerar?
 
@@ -115,18 +115,16 @@ Registe-se hoje gratuitamente com o seu endereço de e-mail.
 
 ## FAQ Compras
 
-{{< faq >}}
-
-O que é que está envolvido no processo de aprovisionamento?|||
+{{< faq "O que é que está envolvido no processo de aprovisionamento?" >}}
 A determinação das necessidades, a verificação e aprovação das encomendas, a seleção dos fornecedores e a obtenção de cotações, a verificação das mercadorias recebidas e o controlo da qualidade, bem como o subsequente processamento dos pagamentos, fazem parte do processo de aquisição.
----
-O que é a logística de aprovisionamento?|||
+{{< /faq >}}
+{{< faq "O que é a logística de aprovisionamento?" >}}
 A logística de aprovisionamento é responsável pela aquisição e gestão de materiais nas empresas e assegura que os materiais necessários estão disponíveis. Isto também inclui a aquisição de bens da forma mais económica possível e nas melhores condições possíveis.
----
-O que é uma estratégia de aprovisionamento?|||
+{{< /faq >}}
+{{< faq "O que é uma estratégia de aprovisionamento?" >}}
 Trata-se de vários métodos que os gestores responsáveis desenvolvem e aplicam para organizar as aquisições na empresa de forma eficaz e eficiente. Determina também se as compras são organizadas de forma centralizada ou descentralizada e se é adoptada uma abordagem de abastecimento único, abastecimento múltiplo ou comprador principal.
----
-O que é a procura primária, a procura secundária e a procura terciária?|||
+{{< /faq >}}
+{{< faq "O que é a procura primária, a procura secundária e a procura terciária?" >}}
 A procura primária refere-se à procura de produtos finais, peças sobresselentes ou produtos intermédios vendáveis que são vendidos diretamente aos clientes. Em contrapartida, os bens de procura secundária são matérias-primas, componentes ou produtos intermédios de que uma empresa necessita para fabricar os seus bens, enquanto a procura terciária inclui materiais de exploração ou peças de desgaste necessárias para transportar os bens secundários.
 
 {{< /faq >}}

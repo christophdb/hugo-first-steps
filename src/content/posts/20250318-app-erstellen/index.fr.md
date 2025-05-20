@@ -181,18 +181,13 @@ Les No Code App Builders comme SeaTable vous ouvrent de toutes nouvelles possibi
 
 ## Foire aux questions sur la création d'apps
 
-{{< faq >}}
-Qu'est-ce qu'un app builder?|||
+{{< faq "Qu'est-ce qu'un app builder?" >}}
 Un App Builder est un outil qui permet de créer des applications sans connaissances en programmation. Grâce à des éditeurs visuels de type "glisser-déposer" et à des modules prédéfinis, vous pouvez créer vos propres apps sans avoir à vous préoccuper des aspects techniques.
-
----
-
-A qui s'adresse un app builder?|||
+{{< /faq >}}
+{{< faq "A qui s'adresse un app builder?" >}}
 Les app builders sont idéaux pour les entreprises, les indépendants et les start-ups qui ont besoin de solutions personnalisées, mais qui n'ont ni le temps ni le budget pour développer des apps de manière traditionnelle. Les développeurs peuvent également profiter de ces outils pour tester des prototypes ou concevoir des interfaces utilisateur.
-
----
-
-Comment créer sa propre app?|||
+{{< /faq >}}
+{{< faq "Comment créer sa propre app?" >}}
 Pour créer votre propre app, choisissez un No Code App Builder comme SeaTable. Vous créez ainsi une app en quelques étapes simples : créer une base, ajouter une app universelle, configurer des pages et intégrer des éléments tels que des calendriers, des formulaires ou des tableaux.
 
 {{< /faq >}}

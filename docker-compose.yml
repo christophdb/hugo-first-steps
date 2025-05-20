@@ -1,11 +1,13 @@
 services:
-  hugo:
-    container_name: hugo
-    # TODO: Replace with image hosted on DockerHub/GCR
-    build: .
-    environment:
-      - HUGO_BACKEND_URL=http://127.0.0.1:3000
-    ports:
-      - 127.0.0.1:1313:1313
-    volumes:
-      - ${PWD}:/hugo
+    hugo:
+        container_name: hugo
+        # TODO: Replace with image hosted on DockerHub/GCR
+        build: .
+        environment:
+            - HUGO_BACKEND_URL=http://127.0.0.1:3000
+            - ENABLE_PAGEFIND=${ENABLE_PAGEFIND:-0}
+            # by default pagefind is not activated (=0). To activate, you can create .env file with environment variable.
+        ports:
+            - 127.0.0.1:1313:1313
+        volumes:
+            - ${PWD}:/hugo

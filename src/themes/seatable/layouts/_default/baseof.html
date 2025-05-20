@@ -24,7 +24,11 @@
             </div>
         {{ end }}
 
-        {{ partial "header/basic.html" . }}
+        {{ if or (eq .Type "help") (eq .Type "help-start") }}
+            {{ partial "header/basic-docs.html" . }}
+        {{ else }}
+            {{ partial "header/basic.html" . }}
+        {{ end }}
 
 
         <!-- showCloud is necessary for price page - not beautiful but working... -->
@@ -308,7 +312,8 @@
             const redirect = (url) => {
                 // Redirect if the user is not already on the correct page
                 if (window.location.href !== url) {
-                    window.location.href = url;
+                    // Keep the URL fragment
+                    window.location.href = url + window.location.hash;
                 }
             };
         </script>

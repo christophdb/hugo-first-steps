@@ -1,18 +1,18 @@
 ---
-title: "Citizen Developer - um fator de mudança na digitalização?"
-description: "As soluções de software personalizadas para os seus processos específicos são escassas? Então, desenvolva as suas próprias soluções! Descubra neste artigo como pode utilizar as competências dos seus departamentos especializados e criar processos digitais eficientes, envolvendo cidadãos programadores no processo de desenvolvimento."
+title: 'Citizen Developer - um fator de mudança na digitalização?'
+description: 'As soluções de software personalizadas para os seus processos específicos são escassas? Então, desenvolva as suas próprias soluções! Descubra neste artigo como pode utilizar as competências dos seus departamentos especializados e criar processos digitais eficientes, envolvendo cidadãos programadores no processo de desenvolvimento.'
 seo:
-    title: "Citizen Developer - Um fator de mudança na digitalização"
-    description: "Desenvolva as suas próprias soluções de software com Citizen Developers! Este artigo mostra-lhe como utilizar os conhecimentos dos seus departamentos especializados"
+    title: 'Citizen Developer - Um fator de mudança na digitalização'
+    description: 'Desenvolva as suas próprias soluções de software com Citizen Developers! Este artigo mostra-lhe como utilizar os conhecimentos dos seus departamentos especializados'
 date: 2025-03-17
-categories: 
-  - "No Code / Low Code"
-tags: 
-  - 'No Code / Low Code'
-  - 'Processos informáticos'
-  - 'Transformação digital'
-color: "#50c2d0"
-url: "/pt/citizen-developer"
+categories:
+    - 'No Code / Low Code'
+tags:
+    - 'No Code / Low Code'
+    - 'Processos informáticos'
+    - 'Transformação digital'
+color: '#50c2d0'
+url: '/pt/citizen-developer'
 ---
 
 ## Citizen Developer: motor de inovação para a transformação digital
@@ -61,7 +61,7 @@ Deve sempre evitar que os departamentos especializados utilizem a sua própria T
 
 1. Ao confiar no Citizen Development, está a **descentralizar** o desenvolvimento de software na sua empresa. Em vez de dependerem de uma equipa de TI sobrecarregada, os departamentos podem agora desenvolver as suas próprias soluções, adaptadas às suas necessidades. Os desenvolvedores cidadãos podem frequentemente criar aplicações funcionais **em menos tempo** e **a um custo menor** do que seria possível usando métodos tradicionais.
 1. O Citizen Developer pode eliminar a necessidade de comprar caro **software especializado**. As ferramentas do Citizen Developer oferecem um ambiente de desenvolvimento flexível no qual é possível mapear quase todos os casos de uso. Além disso, o Citizen Development pode contribuir para a **inovação** e melhorar a **eficiência** do desenvolvimento de aplicações.
-1. É necessária uma estreita cooperação** com os departamentos de negócio para minimizar a distância entre o departamento de TI e o negócio operacional. Isto pode ser conseguido através da participação direta dos programadores cidadãos na seleção e desenvolvimento de soluções adequadas. Além disso, as aplicações de software que os seus departamentos especializados desenvolvem por si próprios têm uma **aceitação** significativamente mais elevada entre os empregados.
+1. É necessária uma estreita cooperação** com os departamentos de negócio para minimizar a distância entre o departamento de TI e o negócio operacional. Isto pode ser conseguido através da participação direta dos programadores cidadãos na seleção e desenvolvimento de soluções adequadas. Além disso, as aplicações de software que os seus departamentos especializados desenvolvem por si próprios têm uma **aceitação\*\* significativamente mais elevada entre os empregados.
 1. A gestão e o acompanhamento dos Citizen Developers podem abrir novas capacidades e aliviar o **seu departamento de TI** sem ter de contratar mais programadores de software. Isto permite-lhe contrariar a crescente escassez de especialistas em TI. No entanto, o pré-requisito para tal é que possa permitir que os empregados existentes desenvolvam **soluções de software personalizadas** para os seus casos de utilização com relativamente pouco esforço. Se os Citizen Developers responderem a pedidos de apoio para as aplicações de software que eles próprios ajudaram a desenvolver, o seu departamento de TI terá muito mais **espaço para projectos estratégicos**.
 
 ### As vantagens do Citizen Development num relance
@@ -74,7 +74,7 @@ Deve sempre evitar que os departamentos especializados utilizem a sua própria T
 - colaboração entre departamentos
 - Evitar a existência de TI sombra
 
-![Os cidadãos programadores vêem o desenvolvimento através de uma lente diferente](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg "Os cidadãos programadores vêem o desenvolvimento através de uma lente diferente.")
+![Os cidadãos programadores vêem o desenvolvimento através de uma lente diferente](Citizen-Developer_Entwicklung-durch-eine-andere-Brille-sehen.jpg 'Os cidadãos programadores vêem o desenvolvimento através de uma lente diferente.')
 
 ## 6 competências que caracterizam um Citizen Developer
 
@@ -110,29 +110,13 @@ O desenvolvimento cidadão é uma tendência promissora que pode mudar fundament
 
 ## FAQs
 
-{{< faq >}}
-
-O que é que um Citizen Developer faz? |||
-
-Um programador cidadão utiliza ambientes de desenvolvimento low-code para criar as suas próprias aplicações de software. No entanto, ao contrário dos profissionais de TI, não têm qualquer formação formal no domínio do desenvolvimento de software.
-
----
-
-Por que é que o Citizen Development é útil? |||
-
-O desenvolvimento do cidadão acelera o desenvolvimento de aplicações, alivia o departamento de TI e poupa custos com software especial dispendioso. Também promove a inovação, a colaboração entre departamentos e a aceitação de novas soluções.
-
----
-
-O que é a TI sombra? |||
-
-A TI sombra refere-se a sistemas de TI e aplicações de software que os funcionários dos departamentos especializados de uma empresa utilizam juntamente com a infraestrutura de TI oficial **sem o conhecimento do departamento de TI**. Por conseguinte, a TI sombra não está técnica nem estrategicamente integrada na gestão dos serviços de TI, o que implica riscos de segurança e outros problemas.
-
----
-
-Que papel desempenham os gestores de projeto no Desenvolvimento do Cidadão? |||
-
-Os gestores de projectos são muitas vezes bons programadores cidadãos porque conhecem as necessidades e os requisitos das suas equipas, têm uma visão holística e podem utilizar o seu pensamento processual para criar fluxos de trabalho mais eficientes.
+{{< faq "O que é que um Citizen Developer faz? " >}}Um programador cidadão utiliza ambientes de desenvolvimento low-code para criar as suas próprias aplicações de software. No entanto, ao contrário dos profissionais de TI, não têm qualquer formação formal no domínio do desenvolvimento de software.
+{{< /faq >}}
+{{< faq "Por que é que o Citizen Development é útil? " >}}O desenvolvimento do cidadão acelera o desenvolvimento de aplicações, alivia o departamento de TI e poupa custos com software especial dispendioso. Também promove a inovação, a colaboração entre departamentos e a aceitação de novas soluções.
+{{< /faq >}}
+{{< faq "O que é a TI sombra? " >}}A TI sombra refere-se a sistemas de TI e aplicações de software que os funcionários dos departamentos especializados de uma empresa utilizam juntamente com a infraestrutura de TI oficial **sem o conhecimento do departamento de TI**. Por conseguinte, a TI sombra não está técnica nem estrategicamente integrada na gestão dos serviços de TI, o que implica riscos de segurança e outros problemas.
+{{< /faq >}}
+{{< faq "Que papel desempenham os gestores de projeto no Desenvolvimento do Cidadão? " >}}Os gestores de projectos são muitas vezes bons programadores cidadãos porque conhecem as necessidades e os requisitos das suas equipas, têm uma visão holística e podem utilizar o seu pensamento processual para criar fluxos de trabalho mais eficientes.
 
 <!-- ###### Registe-se agora para receber a nossa newsletter -->
 

@@ -1,17 +1,17 @@
 ---
-title: "5 Tipps, wie Sie die Beschaffung in Ihrem Unternehmen optimieren"
-description: "Die Beschaffung ist das Herzstück jeder erfolgreichen Unternehmensstrategie, deren Optimierung nicht nur Kosten spart, sondern auch die Wettbewerbsfähigkeit steigert. In diesem Artikel zeign wir Ihnen die größten Erfolgsfaktoren und Herausforderungen für eine erfolgreiche Beschaffung und geben Ihnen 5 Tipps, die Ihnen helfen, Ihre Beschaffungsprozesse zu optimieren."
+title: '5 Tipps, wie Sie die Beschaffung in Ihrem Unternehmen optimieren'
+description: 'Die Beschaffung ist das Herzstück jeder erfolgreichen Unternehmensstrategie, deren Optimierung nicht nur Kosten spart, sondern auch die Wettbewerbsfähigkeit steigert. In diesem Artikel zeign wir Ihnen die größten Erfolgsfaktoren und Herausforderungen für eine erfolgreiche Beschaffung und geben Ihnen 5 Tipps, die Ihnen helfen, Ihre Beschaffungsprozesse zu optimieren.'
 seo:
-    title: "Beschaffung im Unternehmen: Strategisch gut aufstellen"
-    description: "Effiziente Beschaffungsprozesse sind das A und O für Unternehmenserfolg. Entdecke Strategien für Einkaufsabläufe & Lieferantenmanagement"
+    title: 'Beschaffung im Unternehmen: Strategisch gut aufstellen'
+    description: 'Effiziente Beschaffungsprozesse sind das A und O für Unternehmenserfolg. Entdecke Strategien für Einkaufsabläufe & Lieferantenmanagement'
 date: 2025-03-27
-categories: 
-  - "Best Practice"
+categories:
+    - 'Best Practice'
 tags:
-- "Beschaffung & Logistik"
-- "Digitale Transformation"
-color: "#a57956"
-url: "/de/beschaffung-unternehmen/"
+    - 'Beschaffung & Logistik'
+    - 'Digitale Transformation'
+color: '#a57956'
+url: '/de/beschaffung-unternehmen/'
 ---
 
 ## Beschaffungsmanagement in Unternehmen
@@ -100,7 +100,7 @@ Der Erfolg eines Unternehmens hängt auch davon ab, dass die einzelnen Abteilung
 
 **Lieferantenmanagement:** Legen Sie eine zentrale, für alle zugängliche Lieferantendatenbank an, in der die relevanten Informationenzusammenfließen, z. B. Preise und verfügbare Produkte, bisherige Lieferungen, Qualitätsanalyse, Zuverlässigkeit und Leistungsbewertung, offene Reklamationen usw. Anhand dieser Informationen können Sie dann Bestellungen gezielt bündeln.
 
-**Bestan****dsm****anagement:** Mit einer effektiven Bestandskontrolle reduzieren Sie Lagerkosten,  vermeiden doppelte Bestellungen und stellen die Lieferfähigkeit des Unternehmens sicher. Nutzen Sie moderne Systeme, um Ihren Beschaffungsprozess durch präzise Bedarfsprognosen zu optimieren. Mit der [Lieferkettenmanagement-Vorlage](https://seatable.io/vorlage/lrtcit5zqratbf0rpidxlw/) der No-Code-Datenbank-Lösung SeaTable behalten Sie stets alle Bestände und ausstehenden Lieferungen im Blick.
+**Bestan\*\***dsm\***\*anagement:** Mit einer effektiven Bestandskontrolle reduzieren Sie Lagerkosten,  vermeiden doppelte Bestellungen und stellen die Lieferfähigkeit des Unternehmens sicher. Nutzen Sie moderne Systeme, um Ihren Beschaffungsprozess durch präzise Bedarfsprognosen zu optimieren. Mit der [Lieferkettenmanagement-Vorlage](https://seatable.io/vorlage/lrtcit5zqratbf0rpidxlw/) der No-Code-Datenbank-Lösung SeaTable behalten Sie stets alle Bestände und ausstehenden Lieferungen im Blick.
 
 **Leistungs- und Qualitätsprüfung:** Etablieren Sie systematische Leistungs- und Qualitätsmessungen für Lieferanten. Definieren Sie klare Kennzahlen, erstellen Sie Dashboards und monitoren Sie regelmäßig die Leistung Ihrer Lieferanten. Nutzen Sie dafür moderne Datenbanklösungen, die Statistiken und Dashboards bereitstellen, um tiefere Einblicke in Ihre Daten zu erhalten.
 
@@ -116,18 +116,16 @@ Registrieren Sie sich noch heute kostenlos mit Ihrer E-Mail-Adresse.
 
 ## FAQ Beschaffung
 
-{{< faq >}}
-
-Was gehört zum Beschaffungsprozess?|||
+{{< faq "Was gehört zum Beschaffungsprozess?" >}}
 Die Bedarfsermittlung, Prüfung und Freigabe von Bestellungen, Lieferantenauswahl und Angebotseinholung, die Prüfung des Wareneingangs und die Qualitätskontrolle sowie die anschließende Zahlungsabwicklung sind Bestandteile des Beschaffungsprozesses.
----
-Was bedeutet Beschaffungslogistik?|||
+{{< /faq >}}
+{{< faq "Was bedeutet Beschaffungslogistik?" >}}
 Die Beschaffungslogistik ist für die Materialbeschaffung und Verwaltung in Unternehmen zuständig und sorgt dafür, dass benötigte Materialien vorhanden sind. Dazu gehört auch, Waren möglichst wirtschaftlich und zu optimalen Bedingungen einzukaufen.
----
-Was ist eine Beschaffungsstrategie?|||
+{{< /faq >}}
+{{< faq "Was ist eine Beschaffungsstrategie?" >}}
 Hierbei handelt es sich um verschiedene Methoden, die verantwortliche Manager entwickeln und anwenden, um die Beschaffung im Unternehmen effektiv und effizient zu gestalten. Hier wird auch festgestellt, ob der Einkauf zentral oder dezentral organisiert wird, und ob ein Single Sourcing, Multiple Sourcing oder Lead-Buyer-Ansatz verfolgt wird.
----
-Was bedeutet Primärbedarf, Sekundärbedarf und Tertiärbedarf?|||
+{{< /faq >}}
+{{< faq "Was bedeutet Primärbedarf, Sekundärbedarf und Tertiärbedarf?" >}}
 Der Primärbedarf bezeichnet den Bedarf an Endprodukten, Ersatzteilen oder verkaufsfähigen Zwischenprodukten, die direkt an Kunden verkauft werden. Im Gegensatz dazu sind Waren des Sekundärbedarfs Rohstoffe, Komponenten oder Vorprodukte, die ein Unternehmen zur Herstellung seiner Waren benötigt, während der Tertiärbedarf Betriebsstoffe oder Verschleißteile umfasst, die zum Transport der Sekundärwaren benötigt werden.
 
 {{< /faq >}}

@@ -2,8 +2,8 @@
 title: 'The ultimate guide to successful onboarding'
 description: 'Well thought-out onboarding is the key to a successful start for new employees. With clearly defined processes, you can ensure that new team members quickly find their feet and become productive. In this article, you will learn how to create and successfully implement a structured onboarding concept.'
 seo:
-    title: "Onboarding process: Successful employee induction"
-    description: "In this article you will learn how to create and successfully implement a structured onboarding concept for new employees"
+    title: 'Onboarding process: Successful employee induction'
+    description: 'In this article you will learn how to create and successfully implement a structured onboarding concept for new employees'
 date: 2025-03-24
 categories:
     - 'General'
@@ -150,38 +150,21 @@ Rely on suitable software and ensure that your new employees feel immediately we
 
 ## Frequently asked questions
 
-{{< faq >}}
+{{< faq "Why is a structured onboarding process important?" >}}A structured onboarding process helps new employees to settle into their role more quickly, to integrate professionally and socially and to work with motivation. This not only boosts productivity, but also increases employee loyalty and reduces the staff turnover rate.
+{{< /faq >}}
 
-Why is a structured onboarding process important?|||
-
-A structured onboarding process helps new employees to settle into their role more quickly, to integrate professionally and socially and to work with motivation. This not only boosts productivity, but also increases employee loyalty and reduces the staff turnover rate.
-
-What should be included in a good onboarding concept?|||
-
-A good onboarding concept covers the professional, social and cultural integration of new employees. This includes checklists for formalities, induction plans, training, regular feedback meetings and team-building measures. Clearly communicating the company's values and goals is also essential.
-
----
-
-How can I optimize the onboarding process for new employees?|||
-
-Feedback meetings and regular evaluations help to improve the process. With digital tools such as SeaTable, tasks and documents can be managed and monitored efficiently. With clear responsibilities and intuitive checklists, HR departments can save time and better support new employees.
-
----
-
-What are the phases of a typical onboarding process?|||
-
-A typical onboarding process consists of:
+{{< faq "What should be included in a good onboarding concept?" >}}A good onboarding concept covers the professional, social and cultural integration of new employees. This includes checklists for formalities, induction plans, training, regular feedback meetings and team-building measures. Clearly communicating the company's values and goals is also essential.
+{{< /faq >}}
+{{< faq "How can I optimize the onboarding process for new employees?" >}}Feedback meetings and regular evaluations help to improve the process. With digital tools such as SeaTable, tasks and documents can be managed and monitored efficiently. With clear responsibilities and intuitive checklists, HR departments can save time and better support new employees.
+{{< /faq >}}
+{{< faq "What are the phases of a typical onboarding process?" >}}A typical onboarding process consists of:
 
 - **Preparation phase (preboarding)**: Contract signing until the first working day.
 - **Orientation phase**: First three months in the company.
 - **Integration phase**: Three to twelve months after starting.
 
 Each phase focuses on different tasks and objectives, e.g. organizational preparation, introduction and long-term integration.
-
----
-
-What are the advantages of using software in the onboarding process?|||
-
-With SeaTable you can organize your onboarding process efficiently. You receive a ready-made template with checklists, can manage all documents centrally and track progress live. This saves time, minimizes errors and offers new employees a smooth and professional onboarding experience.
+{{< /faq >}}
+{{< faq "What are the advantages of using software in the onboarding process?" >}}With SeaTable you can organize your onboarding process efficiently. You receive a ready-made template with checklists, can manage all documents centrally and track progress live. This saves time, minimizes errors and offers new employees a smooth and professional onboarding experience.
 
 {{< /faq >}}

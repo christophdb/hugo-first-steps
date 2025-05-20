@@ -1,14 +1,14 @@
 ---
 title: 'Sicherheit der SeaTable Cloud'
 description: ''
-date: 2022-05-13
+date: 2024-10-28
 type: 'legal'
 url: '/de/sicherheit'
 ---
 
-Stand: 13. Mai 2022
+Stand: 28. Oktober 2024
 
-Sie vertrauen darauf, dass Ihre Benutzerdaten in SeaTable Cloud sicher, privat und jederzeit verfügbar gespeichert werden. Zu Recht! Wir nehmen diese Verantwortung sehr ernst.
+Sie vertrauen darauf, dass Ihre Benutzerdaten in SeaTable Cloud sicher, privat und jederzeit verfügbar gespeichert werden. Zurecht! Wir nehmen diese Verantwortung sehr ernst.
 
 Fünf Grundsätze leiten unsere Entscheidungen in Bezug auf Aufbau und Betrieb von SeaTable Cloud:
 
@@ -22,7 +22,7 @@ Fünf Grundsätze leiten unsere Entscheidungen in Bezug auf Aufbau und Betrieb v
 
 Für den Betrieb von SeaTable Cloud nutzen wir die Infrastruktur der [Akenes SA (Exoscale)](https://www.exoscale.com/). Exoscale wurde 2011 gegründet und hat seinen Sitz in Lausanne, Schweiz. Seit Jahr 2017 ist es eine Tochter von A1 Digital International GmbH und damit Teil der börsennotierten [A1 Telekom Austria Group](https://www.a1.group/de/home).
 
-Exoscale betreibt [mehrere Rechenzentren](https://www.exoscale.com/datacenters/) im DACH-Raum (Deutschland, Österreich, Schweiz) sowie in Bulgarien (Stand Mai 2022). Alle Rechenzentren sind nach [ISO 9001 und 27001 zertifiziert](https://www.exoscale.com/compliance/) und verfügen über N+1 Redundanz für alle Kernkomponenten wie Stromversorgung, Kühlung und Branderkennung und -unterdrückung. Damit erfüllen bzw. übertreffen sie die [Tier III Anforderungen des Uptime Institutes](https://uptimeinstitute.com/tiers).
+Exoscale betreibt [mehrere Rechenzentren](https://www.exoscale.com/datacenters/) im DACH-Raum (Deutschland, Österreich, Schweiz) sowie in Bulgarien (Stand Oktober 2024). Alle Rechenzentren sind nach [ISO 9001 und 27001 zertifiziert](https://www.exoscale.com/compliance/) und verfügen über N+1 Redundanz für alle Kernkomponenten wie Stromversorgung, Kühlung und Branderkennung und -unterdrückung. Damit erfüllen bzw. übertreffen sie die [Tier III Anforderungen des Uptime Institutes](https://uptimeinstitute.com/tiers).
 
 Alle Benutzerdaten in SeaTable Cloud, ausgenommen Abonnement- und Zahlungsdaten, werden in den Rechenzentren DE-FRA-1 und DE-MUC-1 in Frankfurt und München gespeichert und verarbeitet. Ihre Nutzerdaten verlassen Europa also nie.
 
@@ -38,7 +38,7 @@ Die Rechenzentren von Exoscale sind untereinander über einen 100Gbits Backbone 
 
 ### Serververwaltung
 
-Die regelmäßige Verwaltung und Pflege der Infrastruktur erfolgt durch die Mitarbeiter der SeaTable GmbH sowie europäischer Partnerunternehmen. Um Ihre vertraglichen Aufgaben erfüllen zu können, haben die Partnerunternehmen und deren berechtigten Mitarbeiter administrativen Zugriff auf die Infrastruktur von [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}). Mit allen Partnerunternehmen bestehen Vereinbarungen über die Auftragsdatenvereinbarung und Geheimhaltung. Die Mitarbeiter sind individuell zur Einhaltung von Datenschutzregeln verpflichtet.
+Die regelmäßige Verwaltung und Pflege der Infrastruktur erfolgt durch die Mitarbeiter der SeaTable GmbH sowie europäischer Partnerunternehmen. Um Ihre vertraglichen Aufgaben erfüllen zu können, haben die Partnerunternehmen und deren berechtigten Mitarbeiter administrativen Zugriff auf die Infrastruktur von SeaTable Cloud. Mit allen Partnerunternehmen bestehen Vereinbarungen über die Auftragsdatenvereinbarung und Geheimhaltung. Die Mitarbeiter sind individuell zur Einhaltung von Datenschutzregeln verpflichtet.
 
 Abgesehen von den berechtigten Mitarbeitern bei der SeaTable GmbH und unseren Partnerunternehmen hat keine andere Partei unüberwachten, administrativen Zugriff auf die Infrastruktur von SeaTable Cloud. In Ausnahmefällen (z.B. für die Beseitigung von Fehlerfunktionen) kann es notwendig oder sinnvoll sein, dass Mitarbeitern der Seafile Ltd. Zugriff auf die Infrastruktur von SeaTable Cloud gegeben wird. Seafile Ltd. ist der Entwickler der SeaTable Software. In jedem Fall erfolgt der Zugriff jedoch überwacht durch einen Mitarbeiter der SeaTable GmbH oder eines Partnerunternehmens.
 
@@ -50,7 +50,7 @@ Wir nutzen den aktuellen Stand der Technik und etablierte Best-Practices, um den
 - IP-Adressen Weißliste
 - Public-Key-Authentifizierung
 - Passwort-Mindestanforderungen
-- 2-Faktor Authentisierung
+- 2-Faktor Authentifizierung
 - Captcha
 - API-Throttling
 - Angriffserkennungssystem (z.B. Monitoring der IP-Adressen)
@@ -60,7 +60,7 @@ Wir nutzen den aktuellen Stand der Technik und etablierte Best-Practices, um den
 
 Um eine sichere Übertragung Ihrer Daten über das Internet sicherzustellen, werden alle Benutzerdaten, einschließlich Abonnement- und Zahlungsdaten, mit aktuellen kryptographischen Verfahren verschlüsselt. Dies gilt für die Datenübertragung zwischen Ihnen und den Anwendungsserver, zwischen den Komponenten in einem Rechenzentrum sowie zwischen den zwei verwendeten Rechenzentren.
 
-Für die HTTPS-Verbindung zwischen Ihrem Browser und SeaTable erlauben wir nur die jüngeren TLS-Protokolle 1.2 und 1.3 und verwenden ausschließlich aktuelle Algorithmen für Verschlüsselung, Authentifizierung und Schlüsseltausch. Der SSL-Test der IT-Sicherheitsfirma Qualys bewertet die [Qualität der SSL-Konfiguration](https://www.ssllabs.com/ssltest/) von SeaTable Cloud mit der Note A (Stand Mai 2022).
+Für die HTTPS-Verbindung zwischen Ihrem Browser und SeaTable erlauben wir nur die jüngeren TLS-Protokolle 1.2 und 1.3 und verwenden ausschließlich aktuelle Algorithmen für Verschlüsselung, Authentifizierung und Schlüsseltausch. Der SSL-Test der IT-Sicherheitsfirma Qualys bewertet die [Qualität der SSL-Konfiguration](https://www.ssllabs.com/ssltest/) von SeaTable Cloud mit der Note A+ (Stand Oktober 2024).
 
 ## Datenverfügbarkeit
 
@@ -84,16 +84,18 @@ Mehr Informationen über das [DTABLE-Dateiformat](https://seatable.io/docs/hand
 
 Die Rechenzentren unseres Infrastrukturpartners Exoscale sind zertifiziert nach ISO 9001 und 27001 sowie weiterer, teilweise strikterer Anforderungen.
 
-Für SeaTable Cloud selbst liegt derzeit kein externer Audit oder Zertifizierung vor. Der Beginn eines Zertifizierungsprojekt ist für die zweite Jahreshälfte 2023 geplant.
+Im September 2024 hat das Prüfinstitut SRC Security Research & Consulting GmbH SeaTable Server einen Penetrationstest unterzogen. Den Managementbericht können Sie [hier](/Seatable-2401_Management_Summary_v1.2.pdf) unterladen. Schreiben Sie an security@seatable.io, um den vollständigen Bericht zu erhalten.
+
+Aktuell liegt für SeaTable keine Zertifizierung vor. Eine Zertifizierung von SeaTable Server durch das [Bundesamt für Sicherheit in der Informationstechnik (BSI)](https://www.bsi.bund.de/) ist für die zweite Jahreshälfte 2025 geplant.
 
 ## Schwachstelle melden
 
 Wenn Sie eine Sicherheitslücke entdecken oder davon Kenntnis erhalten, dann senden Sie uns bitte eine E-Mail an [security@seatable.io](mailto:security@seatable.io). Wir werden mit hoher Intensität an der Beseitigung der Sicherheitslücke arbeiten.
 
-Ein Bug Bounty Programm befindet sich derzeit im Aufbau. Es wird voraussichtlich Ende 2023 starten.
+Ein Bug Bounty Programm befindet sich derzeit in Planung. Es wird voraussichtlich 2025 starten.
 
 ## Privatsphäre und Datenschutz
 
 Die Privatsphäre ist ein hohes Gut und wir ergreifen alle sinnvollen Maßnahmen, um Ihre zu schützen. Daher verzichten wir konsequent auf nicht-essenziellen Cookies und alle Tracker.
 
-Wir legen großen Wert darauf, transparent zu machen, wie wir Ihre Daten erfassen, verwenden und behandeln, wenn Sie unsere Website und SeaTable Cloud nutzen. Details enthält die [Datenschutzerklärung](https://seatable.io/datenschutz).
+Wir legen großen Wert darauf, transparent zu machen, wie wir Ihre Daten erfassen, verwenden und behandeln, wenn Sie unsere Website und SeaTable Cloud nutzen. Details enthält die [Datenschutzerklärung]({{< relref "pages/legal/data-privacy" >}}).

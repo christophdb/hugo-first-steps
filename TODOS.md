@@ -1,5 +1,7 @@
 # Todos
 
+[ ] löschen von public folder?
+
 Navigation:
 [ ] hover-effect bei login/registrierungs buttons
 [ ] mobile menu anders machen

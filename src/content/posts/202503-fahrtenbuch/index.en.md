@@ -3,15 +3,15 @@ title: "Free template: It's so easy to keep a digital logbook"
 description: 'A logbook can be more than just annoying bureaucracy - it offers you the opportunity to save money. With the right digital tools, you can maximize your benefits and avoid costly mistakes. Discover how to keep a smart logbook and which solutions can help you!'
 seo:
     title: "Keep a digital logbook: It's that easy | SeaTable"
-    description: "A digital logbook has many advantages. Discover how to keep a smart logbook without the hassle of bureaucracy."
+    description: 'A digital logbook has many advantages. Discover how to keep a smart logbook without the hassle of bureaucracy.'
 date: 2025-04-01
 url: '/digital-logbook'
 tags:
-- 'Finances'
-- 'Tools & Plugins'
-- 'Fleetmanagement'
+    - 'Finances'
+    - 'Tools & Plugins'
+    - 'Fleetmanagement'
 categories:
-- 'General'
+    - 'General'
 color: '#f34b4c'
 text: 'white'
 ---
@@ -137,14 +137,10 @@ If you would like to use SeaTable's digital logbook, [simply register]({{< relre
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-Do I have to document every journey? |||
+{{< faq "Do I have to document every journey? " >}}
 Yes, if you keep a logbook, you must document every single journey in order to correctly separate private and business use and claim it for tax purposes. 
-
----
-
-What must be included in a logbook? |||
+{{< /faq >}}
+{{< faq "What must be included in a logbook? " >}}
 The following details must be fully documented in a logbook for each journey:
 
 - Date of the trip
@@ -152,24 +148,18 @@ The following details must be fully documented in a logbook for each journey:
 - Mileage at the start and end of the trip
 - Destination and purpose of the trip
 - Name of the business partner or customer (for business trips)
-
----
-
-What happens if I lose my logbook? |||
-If you lose your logbook, the consequences depend on whether you were obliged to keep it:
+  {{< /faq >}}
+  {{< faq "  What happens if I lose my logbook? " >}}
+  If you lose your logbook, the consequences depend on whether you were obliged to keep it:
 
 **If you are obliged to** keep a logbook: The loss will result in a fine of 100 euros. In addition, the logbook requirement may be extended, as the logbook can no longer be presented.
 
 **If you have a voluntary logbook for the tax office**: In this case, the 1% rule applies, which often leads to higher costs, as private use is taxed at a flat rate.
-
----
-
-Is the 1% rule or the logbook more favorable? |||
+{{< /faq >}}
+{{< faq "Is the 1% rule or the logbook more favorable? " >}}
 The lower the proportion of private journeys, the more worthwhile a logbook is; however, the 1% method is usually more favorable for frequent private use. If in doubt, you can easily calculate this online with a company car calculator.
-
----
-
-What are the advantages of a logbook? |||
+{{< /faq >}}
+{{< faq "What are the advantages of a logbook? " >}}
 In summary, it can be said that a logbook for company cars offers advantages above all if the private use of the vehicle is low and the effort that a logbook entails seems justified.
 
 The digital alternatives make the logbook accessible online and simplify administration considerably, which makes them particularly attractive for companies and the self-employed who are looking for precision and efficiency.

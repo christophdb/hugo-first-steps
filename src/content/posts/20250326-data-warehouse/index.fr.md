@@ -2,8 +2,8 @@
 title: 'Comment rendre vos données utilisables avec un entrepôt de données'
 description: "Entrepôt de données, base de données, lac de données : ces termes peuvent prêter à confusion - ils désignent tous un système qui stocke des données. L'article suivant apporte des éclaircissements et explique quels sont les avantages d'un entrepôt de données et comment fonctionne le data warehousing."
 seo:
-    title: "Entrepôt de données : aperçu des avantages pour votre entreprise"
-    description: "Découvrez les bases et les techniques avancées du data warehousing. Apprenez à stocker efficacement les données"
+    title: 'Entrepôt de données : aperçu des avantages pour votre entreprise'
+    description: 'Découvrez les bases et les techniques avancées du data warehousing. Apprenez à stocker efficacement les données'
 date: 2025-03-26
 categories:
     - 'Général'
@@ -133,24 +133,18 @@ De plus, vous pouvez choisir d'exploiter votre entrepôt de données [sur site](
 
 ## FAQ sur le data warehousing
 
-{{< faq >}}
-
-Qu'est-ce qu'un entrepôt de données ?
+{{< faq "Qu'est-ce qu'un entrepôt de données ?" >}}
 Une définition largement reconnue de l'entrepôt de données est qu'un DWH rassemble de multiples données provenant de différentes sources en un ensemble de données unifié afin de permettre des analyses fondées. Pour ce faire, il prépare les données et les stocke de manière structurée dans une base de données.
+{{< /faq >}}
 
----
-
-Qu'est-ce qu'un data lake ?
+{{< faq "Qu'est-ce qu'un data lake ?" >}}
 Un data lake est, tout comme un entrepôt de données, un système de stockage spécial. Par rapport à un entrepôt de données, un data lake stocke toutefois des données brutes non traitées. Le traitement se fait en aval et ne commence que lorsque vous avez besoin des données pour l'analyse.
+{{< /faq >}}
 
----
-
-Qu'est-ce qu'un data mart?|||
+{{< faq "Qu'est-ce qu'un data mart?" >}}
 Un data mart est une partie du data warehouse destinée à un cas d'application ou à un domaine d'activité spécifique. Il fournit à un groupe d'utilisateurs défini les données qui les intéressent. En revanche, l'entrepôt de données stocke les données de toute une entreprise.
+{{< /faq >}}
 
----
-
-Que signifie ETL ?
+{{< faq "Que signifie ETL ?" >}}
 ETL est l'abréviation d'Extract, Transform, Load. Cela décrit les trois étapes du processus au cours duquel les données sont collectées à partir de différentes sources, transformées et stockées dans l'entrepôt de données.
-
 {{< /faq >}}

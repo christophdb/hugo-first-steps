@@ -1,7 +1,7 @@
 ---
 title: 'Segurança na SeaTable Cloud'
 description: ''
-date: 2022-05-13
+date: 2024-10-28
 type: 'legal'
 url: '/pt/seguranca'
 ---
@@ -28,7 +28,7 @@ Five principles guide our decisions in terms of architecture and operation of Se
 
 We rely on the infrastructure of [Akenes SA (Exoscale)](https://www.exoscale.com/) for the operation of SeaTable Cloud. Exoscale was founded in 2011 and is headquartered in Lausanne, Switzerland. Since 2017, it is a subsidiary of A1 Digital International GmbH and, as such, a part of the public-stock company [A1 Telekom Austria Group](https://www.a1.group/de/home/).
 
-Exoscale operates [multiple data centers in Germany, Austria, Switzerland, and Bulgaria](https://www.exoscale.com/datacenters/) (as of May 2022). All data centers are [ISO 9001 and 27001 certified](https://www.exoscale.com/compliance) and have N+1 redundancy for all core components such as power supply, cooling, fire detection and suppression. Exoscale’s data centers meet or exceed the Tier III requirements of the [Uptime Institute](https://uptimeinstitute.com/tiers).
+Exoscale operates [multiple data centers in Germany, Austria, Switzerland, and Bulgaria](https://www.exoscale.com/datacenters/) (as of October 2024). All data centers are [ISO 9001 and 27001 certified](https://www.exoscale.com/compliance) and have N+1 redundancy for all core components such as power supply, cooling, fire detection and suppression. Exoscale’s data centers meet or exceed the Tier III requirements of the [Uptime Institute](https://uptimeinstitute.com/tiers).
 
 All user data in SeaTable Cloud, except subscription and payment data, is stored and processed in the DE-FRA-1 and DE-MUC-1 data centers in Frankfurt and Munich, Germany. Your user data never leaves Europe.
 
@@ -66,7 +66,7 @@ We use state of the art technology and best practices to control access to SeaTa
 
 To ensure secure transmission of your data over the Internet, all user data, including subscription and payment data, is encrypted using up-to-date cryptographic methods. This applies to data transfer between you and the application servers, between components in a data center, and between the two data centers used.
 
-For the HTTPS connection between your browser and SeaTable, we only allow the more recent TLS protocols 1.2 and 1.3 and use only current algorithms for encryption, authentication, and key exchange. SeaTable Cloud’s [SSL configuration gets an A rating](https://www.ssllabs.com/ssltest/) by IT security firm Qualys (last update May 2022).
+For the HTTPS connection between your browser and SeaTable, we only allow the more recent TLS protocols 1.2 and 1.3 and use only current algorithms for encryption, authentication, and key exchange. SeaTable Cloud’s [SSL configuration gets an A+ rating](https://www.ssllabs.com/ssltest/) by IT security firm Qualys (last update October 2024).
 
 ## Data Availability
 
@@ -90,16 +90,18 @@ More information about the DTABLE file format can be found in the [SeaTable Manu
 
 The data centers of our infrastructure partner Exoscale are ISO 9001 and 27001 certified in addition to some, partly stricter certifications.
 
-No external audit or certification is currently available for SeaTable Cloud itself. We plan to kick off a certification project in the second half of 2023.
+In September 2024, the IT security firm SRC Security Research & Consulting GmbH, based in Bonn, Germany, performed a penetration test of SeaTable Server. You can download the management report (in German) [here](/Seatable-2401_Management_Summary_v1.2.pdf). We provide the full report (in German) upon request. Please contact security@seatable.io.
+
+There is currently no certification for SeaTable. A certification of SeaTable Server by the German Federal Office for Information Security (BSI) is planned for the second half of 2025.
 
 ## Report a Bug
 
 If you discover or become aware of a security vulnerability, please email us at security@seatable.io. We will work with high intensity to eliminate the vulnerability.
 
-A bug bounty program is currently under construction. It is expected to launch in late 2023.
+A bug bounty program is currently under construction. It is expected to launch in 2025.
 
 ## Data Privacy
 
 Privacy is an invaluable asset and we want to do our utmost to protect it. We therefore do not use any non-essential cookies and refrain from using any trackers.
 
-We attach great importance to making transparent how we collect, use, and treat your data when you use our website and SeaTable Cloud. Details can be found in the [Privacy Policy](https://seatable.io/en/privacy/).
+We attach great importance to making transparent how we collect, use, and treat your data when you use our website and SeaTable Cloud. Details can be found in the [Privacy Policy](({{< relref "pages/legal/data-privacy" >}}).

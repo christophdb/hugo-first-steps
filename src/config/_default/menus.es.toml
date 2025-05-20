@@ -140,7 +140,7 @@ weight = 21
 [[footer]]
 name = "Área de ayuda"
 parent = "Apoyo a"
-url = "https://docs.seatable.io/?lang=auto"
+pageRef = "help"
 weight = 22
 
 [[footer]]

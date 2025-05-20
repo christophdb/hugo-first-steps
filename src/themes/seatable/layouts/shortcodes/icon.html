@@ -1,0 +1,27 @@
+<!-- handle icon -->
+{{ $iconName := "" }}
+{{ if .IsNamedParams }}
+    {{ $iconName = .Get "icon" }}
+{{ else }}
+    {{ $iconName = .Get 0 }}
+{{ end }}
+
+{{ $icon := resources.Get (print "icons/" $iconName ".svg") }}
+
+
+<!-- handle classes -->
+{{ $class := "" }}
+{{ if .IsNamedParams }}
+    {{ $class = .Get "class" }}
+{{ else }}
+    {{ $class = .Get 1 }}
+{{ end }}
+
+{{ if $icon }}
+    <span class="icon {{ $class }} relative block" :class="{ '-rotate-180': !open }">
+        {{ $icon.Content | safeHTML }}
+    </span>
+{{ end }}
+
+
+<!-- this rotate is for faq-section -->

@@ -1,0 +1,74 @@
+{{ define "main" }}
+    {{/* Traverse up to the root section (e.g., /content/help/) */}}
+    {{ $root := . }}
+    {{ range seq 5 }}
+        {{/* Safety loop to prevent infinite recursion */}}
+        {{ if $root.Parent.Parent }}
+            {{/* Stop when parent is the homepage */}}
+            {{ $root = $root.Parent }}
+        {{ else }}
+            {{ break }}
+        {{ end }}
+    {{ end }}
+
+    {{ $currentPage := . }}
+    <section class="padding max-container my-8">
+        <div class="flex gap-8">
+            <!-- linke seite -->
+            <div class="root-categories w-1/4">
+                <!--<a href="{{ $root.RelPermalink }}">Zurück zur Hilfe-Startseite (später neben Logo)</a><br /><br />-->
+                {{/* Display sections under the root */}}
+                {{ range $root.Sections }}
+
+                    <div>
+                        <!-- show only pages, if this section is selected... -->
+                        {{ if or (eq . $currentPage.CurrentSection) (.IsAncestor $currentPage.CurrentSection) }}
+                            <span class="mb-6 flex items-center justify-between">
+                                <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                                <span class="">{{ partial "icon.html" "chevron-up" }}</span>
+                            </span>
+
+                            <ul class="mb-6 list-none border-b pb-6 pl-3 text-sm text-gray-500">
+                                {{ range .Pages }}
+                                    <li
+                                        class="{{ if eq .RelPermalink $.RelPermalink }}
+                                            border-l-2 font-bold text-seatable-orange
+                                        {{ end }} mb-2 border-seatable-orange pl-3 font-poppins">
+                                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        {{ else }}
+                            <span class="mb-8 flex items-center justify-between">
+                                <h2 class="text-xl font-semibold"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                                <span class="rotate-180">{{ partial "icon.html" "chevron-up" }}</span>
+                            </span>
+                        {{ end }}
+                    </div>
+                {{ end }}
+            </div>
+
+            <!-- rechte Seite ... -->
+            <div class="w-full max-w-3xl pl-12 lg:w-3/4">
+                <h2 class="text-4xl">{{ .Title }}</h2>
+                <p>{{ .Description }}</p>
+
+                {{ if .Content }}
+                    <div class="mt-8">
+                        {{ .Content }}
+                    </div>
+                {{ end }}
+
+
+                <div class="mt-8 grid grid-cols-2 gap-4">
+                    {{ range .Pages }}
+                        <a href="{{ .RelPermalink }}" class="rounded-xl border px-4 py-6 shadow-lg hover:border-gray-300 hover:bg-gray-50">
+                            {{ .Title }}
+                        </a>
+                    {{ end }}
+
+                </div>
+            </div>
+        </div>
+    </section>
+{{ end }}

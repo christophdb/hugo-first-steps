@@ -81,35 +81,15 @@ Avec une base de données RH, vous et [vos collaborateurs êtes parfaitement con
 
 Un système d'information des ressources humaines présente des avantages qui vont bien au-delà des possibilités offertes par une base de données des employés Excel. En voici les principaux :
 
-{{< faq >}}
-
-Accès central et actualité |||
-
-Aujourd'hui encore, de nombreux services du personnel collectent les données des collaborateurs dans des tableaux Excel ou classent les documents dans des classeurs classiques. Avec un SIRH, en revanche, vous pouvez enregistrer numériquement toutes les données et tous les documents pertinents concernant les collaborateurs dans une base de données RH centrale. Vous et vos collaborateurs (avec l'autorisation correspondante) avez ainsi accès à tout moment et de manière ciblée à l'état actuel. Les listes Excel obsolètes et le chaos des données appartiennent enfin au passé ! De plus, les données sont sauvegardées dans le système de gestion RH, même en cas de perte d'un téléphone portable ou d'un ordinateur portable de l'entreprise.
-
----
-
-Un effort minimal grâce à l'automatisation |||
-
-Dans une base de données Excel des employés, vous devez saisir manuellement toutes les données ou les copier dans tous les sens, alors qu'un système d'information sur les ressources humaines synchronise et met à jour automatiquement les données pour tous dès qu'un membre de l'équipe apporte des modifications. Grâce aux automatismes que vous avez définis, vous pouvez par exemple approuver les demandes de congé en appuyant sur un seul bouton ou envoyer un e-mail de confirmation préétabli à un collaborateur malade, y compris un message de "bon rétablissement". Cela permet non seulement de gagner du temps, mais aussi de réduire les processus manuels sources d'erreurs.
-
----
-
-Réduction des coûts |||
-
-Grâce à des processus numériques et automatisés, vous et vos collaborateurs pouvez travailler plus rapidement, plus efficacement et surtout à moindre coût, car vous économisez un temps de travail précieux ainsi que des frais de papier et d'impression. Même si vous avez jusqu'à présent confié la comptabilité du personnel à un prestataire de services externe, un système d'information sur les ressources humaines peut vous aider à économiser de l'argent grâce à des processus internes. D'un autre côté, un SIRH engendre naturellement des coûts, qui se composent souvent de frais d'utilisation mensuels par membre de l'équipe. Mais en fin de compte, le rapport coûts/bénéfices devrait être positif.
-
----
-
-Une vue d'ensemble parfaite |||
-
-Un SIRH vous donne une vue d'ensemble fondée sur les données de vos collaborateurs. Dans les dossiers numériques du personnel, vous pouvez enregistrer de manière compacte tous les documents et informations. La plupart du temps, il existe un calendrier général, de sorte que vous et vos collaborateurs soyez toujours informés de toutes les absences, congés et arrêts maladie. C'est tout aussi important pour la planification du personnel. Dans un bon système de gestion RH, les analyses statistiques sont un jeu d'enfant. Répondez en un clin d'œil à des questions telles que : Quel était le taux d'absentéisme en octobre ? Combien d'embauches et de départs ont eu lieu au cours des deux dernières années ? Et quelles sont les prévisions de frais de personnel pour l'année à venir ?
-
----
-
-Autodétermination et transparence élevées |||
-
-La plupart du temps, les employés ont la possibilité de gérer leurs propres données dans un SIRH. Laissez vos employés gérer eux-mêmes autant de processus RH que possible, par exemple mettre à jour leurs données personnelles, faire des demandes de congé ou télécharger des fiches de paie. Cela allège la charge de travail de votre service du personnel et constitue une situation gagnant-gagnant pour toutes les parties concernées. Une base de données RH dans le sens d'une vue d'ensemble interne des collaborateurs conduit en outre à une plus grande transparence, car chacun sait à qui il peut s'adresser pour une demande particulière. Ces informations visibles par tous peuvent être par exemple le poste et le service exacts, les projets antérieurs, l'adresse e-mail professionnelle ou le numéro de téléphone portable de l'entreprise d'une personne.
+{{< faq "Accès central et actualité " >}}Aujourd'hui encore, de nombreux services du personnel collectent les données des collaborateurs dans des tableaux Excel ou classent les documents dans des classeurs classiques. Avec un SIRH, en revanche, vous pouvez enregistrer numériquement toutes les données et tous les documents pertinents concernant les collaborateurs dans une base de données RH centrale. Vous et vos collaborateurs (avec l'autorisation correspondante) avez ainsi accès à tout moment et de manière ciblée à l'état actuel. Les listes Excel obsolètes et le chaos des données appartiennent enfin au passé ! De plus, les données sont sauvegardées dans le système de gestion RH, même en cas de perte d'un téléphone portable ou d'un ordinateur portable de l'entreprise.
+{{< /faq >}}
+{{< faq "Un effort minimal grâce à l'automatisation " >}}Dans une base de données Excel des employés, vous devez saisir manuellement toutes les données ou les copier dans tous les sens, alors qu'un système d'information sur les ressources humaines synchronise et met à jour automatiquement les données pour tous dès qu'un membre de l'équipe apporte des modifications. Grâce aux automatismes que vous avez définis, vous pouvez par exemple approuver les demandes de congé en appuyant sur un seul bouton ou envoyer un e-mail de confirmation préétabli à un collaborateur malade, y compris un message de "bon rétablissement". Cela permet non seulement de gagner du temps, mais aussi de réduire les processus manuels sources d'erreurs.
+{{< /faq >}}
+{{< faq "Réduction des coûts " >}}Grâce à des processus numériques et automatisés, vous et vos collaborateurs pouvez travailler plus rapidement, plus efficacement et surtout à moindre coût, car vous économisez un temps de travail précieux ainsi que des frais de papier et d'impression. Même si vous avez jusqu'à présent confié la comptabilité du personnel à un prestataire de services externe, un système d'information sur les ressources humaines peut vous aider à économiser de l'argent grâce à des processus internes. D'un autre côté, un SIRH engendre naturellement des coûts, qui se composent souvent de frais d'utilisation mensuels par membre de l'équipe. Mais en fin de compte, le rapport coûts/bénéfices devrait être positif.
+{{< /faq >}}
+{{< faq "Une vue d'ensemble parfaite " >}}Un SIRH vous donne une vue d'ensemble fondée sur les données de vos collaborateurs. Dans les dossiers numériques du personnel, vous pouvez enregistrer de manière compacte tous les documents et informations. La plupart du temps, il existe un calendrier général, de sorte que vous et vos collaborateurs soyez toujours informés de toutes les absences, congés et arrêts maladie. C'est tout aussi important pour la planification du personnel. Dans un bon système de gestion RH, les analyses statistiques sont un jeu d'enfant. Répondez en un clin d'œil à des questions telles que : Quel était le taux d'absentéisme en octobre ? Combien d'embauches et de départs ont eu lieu au cours des deux dernières années ? Et quelles sont les prévisions de frais de personnel pour l'année à venir ?
+{{< /faq >}}
+{{< faq "Autodétermination et transparence élevées " >}}La plupart du temps, les employés ont la possibilité de gérer leurs propres données dans un SIRH. Laissez vos employés gérer eux-mêmes autant de processus RH que possible, par exemple mettre à jour leurs données personnelles, faire des demandes de congé ou télécharger des fiches de paie. Cela allège la charge de travail de votre service du personnel et constitue une situation gagnant-gagnant pour toutes les parties concernées. Une base de données RH dans le sens d'une vue d'ensemble interne des collaborateurs conduit en outre à une plus grande transparence, car chacun sait à qui il peut s'adresser pour une demande particulière. Ces informations visibles par tous peuvent être par exemple le poste et le service exacts, les projets antérieurs, l'adresse e-mail professionnelle ou le numéro de téléphone portable de l'entreprise d'une personne.
 
 {{< /faq >}}
 

@@ -1,21 +1,20 @@
 ---
-title: "Planifier avec succès les congés conformément à la loi fédérale sur les congés : conseils pour le personnel"
+title: 'Planifier avec succès les congés conformément à la loi fédérale sur les congés : conseils pour le personnel'
 description: "Le chaos dans le calendrier ? Lorsque trop de collaborateurs sont absents en même temps, la situation devient vite critique. Avec des stratégies intelligentes et des outils numériques, vous veillez à ce que les souhaits de vacances soient satisfaits sans perturber le fonctionnement de l'entreprise. Découvrez comment une planification intelligente des vacances peut rendre tout le monde heureux."
 seo:
-    title: "Planification des congés pour les employés : conseils pour le personnel"
+    title: 'Planification des congés pour les employés : conseils pour le personnel'
     description: "Planification efficace des congés en équipe : comment coordonner de manière optimale les absences des collaborateurs et éviter les goulets d'étranglement.conseils et modèles"
 date: 2025-03-24
-categories: 
-  - "Général"
-  - "Meilleures pratiques"
-color: "#fdf505"
-url: "/fr/urlaubsplanung"
-
+categories:
+    - 'Général'
+    - 'Meilleures pratiques'
+color: '#fdf505'
+url: '/fr/urlaubsplanung'
 ---
 
 ## Comment coordonner les demandes de congé sans problème
 
-La planification des congés de vos collaborateurs est un processus important dans la gestion des ressources humaines, que vous devez bien organiser. Il faut absolument éviter les pénuries de personnel dues à un trop grand chevauchement des congés, afin de ne pas déséquilibrer le fonctionnement de votre entreprise.  
+La planification des congés de vos collaborateurs est un processus important dans la gestion des ressources humaines, que vous devez bien organiser. Il faut absolument éviter les pénuries de personnel dues à un trop grand chevauchement des congés, afin de ne pas déséquilibrer le fonctionnement de votre entreprise.
 
 Dans cet article, nous ne nous contentons pas de jeter un coup d'œil aux planificateurs de congés utiles pour gérer efficacement les congés, mais nous examinons également la loi fédérale sur les congés ainsi que d'autres dispositions légales qui sont importantes pour la planification des congés dans votre entreprise.
 
@@ -102,34 +101,38 @@ SeaTable est également basé sur le web et peut être exploité dans le cloud o
 
 ## Conclusion
 
-Il existe de nombreux planificateurs de vacances pour les employés. La plupart sont toutefois des solutions isolées spécifiques qui ne peuvent vraiment rien couvrir d'autre que la planification des congés et la saisie des temps. Il vaut mieux miser sur une solution flexible qui permette de planifier les congés ainsi que d'autres cas d'application.   
-   
+Il existe de nombreux planificateurs de vacances pour les employés. La plupart sont toutefois des solutions isolées spécifiques qui ne peuvent vraiment rien couvrir d'autre que la planification des congés et la saisie des temps. Il vaut mieux miser sur une solution flexible qui permette de planifier les congés ainsi que d'autres cas d'application.
+
 Le modèle gratuit de SeaTable vous permet de gérer toutes les demandes de congé de vos employés. De la demande via un formulaire web au traitement dans un tableau Kanban, SeaTable rend l'ensemble du processus plus efficace.
 
 {{< template id="a4065ce03d4d4bd5959c" >}}
-  
-Grâce aux notifications automatiques, vous ne manquez aucune demande et pouvez réagir en temps réel aux souhaits de vos collaborateurs. La vue du calendrier vous permet d'identifier directement les éventuels chevauchements et de décider ainsi rapidement quelles demandes vous pouvez approuver ou rejeter. Des formules intelligentes vous permettent de calculer automatiquement les jours de congé et d'obtenir en un coup d'œil un aperçu du nombre de jours déjà pris.   
-   
+
+Grâce aux notifications automatiques, vous ne manquez aucune demande et pouvez réagir en temps réel aux souhaits de vos collaborateurs. La vue du calendrier vous permet d'identifier directement les éventuels chevauchements et de décider ainsi rapidement quelles demandes vous pouvez approuver ou rejeter. Des formules intelligentes vous permettent de calculer automatiquement les jours de congé et d'obtenir en un coup d'œil un aperçu du nombre de jours déjà pris.
+
 Inscrivez-vous gratuitement à SeaTable dès aujourd'hui et découvrez les nombreuses fonctionnalités qui vont révolutionner la planification de vos congés.
 
 ## Questions fréquentes
 
-{{< faq >}}
-Quelle est la durée minimale légale du congé ?
+{{< faq "Quelle est la durée minimale légale du congé ?" >}}
 En Allemagne, pour une semaine de 5 jours, le droit légal (selon la loi fédérale sur les congés) est d'au moins 20 jours de congés par an.
----
-Que dit la loi fédérale sur les congés ?
+{{< /faq >}}
+
+{{< faq "Que dit la loi fédérale sur les congés ?" >}}
 La loi fédérale sur les congés régit le droit des travailleurs aux congés payés et fixe le minimum légal de quatre semaines de congés par an.
----
-Ai-je droit à des congés sans solde?|||
+{{< /faq >}}
+
+{{< faq "Ai-je droit à des congés sans solde?" >}}
 Les employés doivent soumettre leurs congés au moins six semaines à l'avance afin de permettre une planification adéquate.
----
-Quand les employés doivent-ils poser leurs congés au plus tard?||||
+{{< /faq >}}
+
+{{< faq "Quand les employés doivent-ils poser leurs congés au plus tard?" >}}
 Les employés doivent poser leurs congés au moins 6 semaines à l'avance afin de permettre une planification adéquate.
----
-Quand les congés sont-ils considérés comme approuvés ?
-Les congés sont considérés comme approuvés lorsque l'employeur confirme la demande par écrit ou par voie numérique. Un accord oral peut également être considéré comme une approbation. Si l'employeur ne répond pas à la demande dans un délai d'un mois, le travailleur peut considérer la demande comme approuvée.  
----
-Combien coûtent les planificateurs de vacances pour entreprises ?
+{{< /faq >}}
+
+{{< faq "Quand les congés sont-ils considérés comme approuvés ?" >}}
+Les congés sont considérés comme approuvés lorsque l'employeur confirme la demande par écrit ou par voie numérique. Un accord oral peut également être considéré comme une approbation. Si l'employeur ne répond pas à la demande dans un délai d'un mois, le travailleur peut considérer la demande comme approuvée.
+{{< /faq >}}
+
+{{< faq "Combien coûtent les planificateurs de vacances pour entreprises ?" >}}
 Certains planificateurs de vacances pour entreprises sont disponibles gratuitement, comme SeaTable par exemple. D'autres fournisseurs proposent leurs outils à un prix de base et facturent en outre une petite somme par employé.
 {{< /faq >}}

@@ -2,8 +2,8 @@
 title: 'Property management: How to manage properties digitally'
 description: 'Property management means coordinating a wide range of tasks efficiently while maintaining an overview. Digitalization offers valuable support in optimizing processes and managing data in a structured manner. Find out how you can manage your properties efficiently and in a future-proof way.'
 seo:
-    title: "Property management: Manage properties digitally"
-    description: "Simplify the organisation of your properties! Our blog provides you with insights for successful property management"
+    title: 'Property management: Manage properties digitally'
+    description: 'Simplify the organisation of your properties! Our blog provides you with insights for successful property management'
 date: 2025-03-18
 categories:
     - 'General'
@@ -104,28 +104,12 @@ To use SeaTable, all you need to do is register [free of charge]({{< relref "pag
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-What are the advantages of digital property management for municipalities and public institutions? |||
-
-Digital solutions enable public administrations to manage properties more efficiently, automate processes and store data securely. This saves time and resources and helps to ensure transparency and traceability.
-
----
-
-How does SeaTable support the management of real estate? |||
-
-SeaTable offers a flexible and customizable platform that makes it possible to centrally organize real estate and properties. Functions such as user-defined access rights, the integration of contract and document management and the ability to clearly document all properties make work much easier.
-
----
-
-Is property management in SeaTable GDPR-compliant? |||
-
-GDPR compliance is essential, especially when processing the personal data of tenants and owners. With a platform like SeaTable, you can precisely define access rights and store data securely - either in the cloud or on your own servers (on-premises).
-
----
-
-Does digital property management also make sense for smaller municipalities or communities? |||
-
-Yes, smaller municipalities in particular benefit from digital solutions, as they often have limited resources for administration. With SeaTable, they can design processes efficiently without incurring high costs for software or IT infrastructure. The scalable system adapts to your individual requirements.
+{{< faq "What are the advantages of digital property management for municipalities and public institutions? " >}}Digital solutions enable public administrations to manage properties more efficiently, automate processes and store data securely. This saves time and resources and helps to ensure transparency and traceability.
+{{< /faq >}}
+{{< faq "How does SeaTable support the management of real estate? " >}}SeaTable offers a flexible and customizable platform that makes it possible to centrally organize real estate and properties. Functions such as user-defined access rights, the integration of contract and document management and the ability to clearly document all properties make work much easier.
+{{< /faq >}}
+{{< faq "Is property management in SeaTable GDPR-compliant? " >}}GDPR compliance is essential, especially when processing the personal data of tenants and owners. With a platform like SeaTable, you can precisely define access rights and store data securely - either in the cloud or on your own servers (on-premises).
+{{< /faq >}}
+{{< faq "Does digital property management also make sense for smaller municipalities or communities? " >}}Yes, smaller municipalities in particular benefit from digital solutions, as they often have limited resources for administration. With SeaTable, they can design processes efficiently without incurring high costs for software or IT infrastructure. The scalable system adapts to your individual requirements.
 
 {{< /faq >}}

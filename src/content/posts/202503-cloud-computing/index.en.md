@@ -2,8 +2,8 @@
 title: 'Cloud computing: How to scale your IT cost-effectively'
 description: 'The digitalization of the working world is progressing rapidly and cloud computing plays a central role in this. But what exactly does cloud computing mean and how can it help your company? In this article, you will learn everything you need to know about cloud technology.'
 seo:
-    title: "Cloud computing | Scale your IT cost-effectively"
-    description: "What is cloud computing and how does it help your company? Find out everything you need to know about cloud technology"
+    title: 'Cloud computing | Scale your IT cost-effectively'
+    description: 'What is cloud computing and how does it help your company? Find out everything you need to know about cloud technology'
 categories:
     - 'General'
 tags:
@@ -38,31 +38,24 @@ In addition to the above cloud computing definition, 6 features are considered c
 
 Now that we have explained cloud computing in simple terms, let's take a look at the benefits that the above-mentioned features of a cloud offer you.
 
-{{< faq >}}
-
-Cost efficiency and convenience|||
+{{< faq "Cost efficiency and convenience" >}}
 When you use cloud services, you save on high investments in your own servers and only pay for the resources you actually use (pay-as-you-go principle). As you hardly have to worry about local infrastructure, your IT staff have more time for more important issues.
+{{< /faq >}}
 
----
-
-Rapid provision|||
+{{< faq "Rapid provision" >}}
 With cloud computing, you can activate the necessary components in just a few minutes instead of having to wait weeks for ordered hardware, configure your system and install software.
+{{< /faq >}}
 
----
-
-Independence from locations and devices|||
+{{< faq "Independence from locations and devices" >}}
 Your employees can access their data and applications in the cloud at any time and from anywhere. This means that there is no loss of data due to local storage if an end device is broken or lost.
+{{< /faq >}}
 
----
-
-Up-to-dateness and productivity|||
+{{< faq "Up-to-dateness and productivity" >}}
 In a cloud, all users see the current version of their stored data and documents. Changes are synchronized in real time, which significantly improves collaboration.
+{{< /faq >}}
 
----
-
-Elasticity and scalability|||
-Flexibly adapt your cloud computing infrastructure to your needs and data volumes at any time. Cloud computing allows your company to grow without your IT infrastructure becoming a bottleneck.
-
+{{< faq "Elasticity and scalability" >}}
+Flexibly adapt your cloud infrastructure to your needs and data volumes at any time. Cloud computing allows your company to grow without your IT infrastructure becoming a bottleneck.
 {{< /faq >}}
 
 ### Scenarios for which cloud computing is the solution
@@ -163,19 +156,13 @@ Cloud computing offers you a cost-effective, convenient and secure way to scale 
 
 ## Frequently asked questions about cloud computing
 
-{{< faq >}}
-
-What is the cloud?|||
+{{< faq "What is the cloud?" >}}
 The cloud is a **symbol for an extensive network of remote servers** that are distributed and connected all over the world. The best-known example of a cloud is the Internet.
-
----
-
-What is cloud computing?|||
+{{< /faq >}}
+{{< faq "What is cloud computing?" >}}
 Cloud computing (simply explained) refers to the **provision of IT resources via the internet**. Instead of storing programs and data locally on your computer or your own servers, you use the **data centers of cloud providers**. These provide you with as much storage space, computing power or software as you want on demand.
-
----
-
-What types of cloud computing are there?|||
+{{< /faq >}}
+{{< faq "What types of cloud computing are there?" >}}
 The types of cloud computing are divided into cloud computing services and cloud computing models: The most commonly used cloud services are **IaaS** (Infrastructure as a Service), **PaaS** (Platform as a Service) and **SaaS** (Software as a Service). A distinction is usually made between **Public Cloud**, **Private Cloud** and **Hybrid Cloud** models.
 
 {{< /faq >}}

@@ -1,0 +1,28 @@
+---
+title: 'Make a team member an administrator'
+date: 2023-01-09
+lastmod: '2023-03-22'
+categories:
+    - 'teamverwaltung'
+author: 'vge'
+url: '/help/ein-teammitglied-zum-administrator-machen'
+---
+
+As a team administrator, you can add new members to the team and **give** these members **administration rights** as well.
+
+## Make team members administrators
+
+![Make a team member an administrator](images/Ein-Teammitglied-zum-Administrator-machen.gif)
+
+1. Click on your **profile** in the upper right corner.
+2. Select the **Team Management** option from the drop-down menu.
+3. Go to the **Team** menu item under **Navigation**.
+4. Click the **team member** you want to give administration rights to.
+5. A new window opens. Under **Security**, activate the **Administrator** slider.
+6. Click **Save Changes**.
+
+## The rights of a team administrator
+
+Every team administrator gets **full access to** the team administration and has the **same rights**. For a detailed overview of all team administration functions, please read the article [The team administration functions](https://seatable.io/en/docs/teamverwaltung/die-funktionen-der-teamverwaltung-in-der-uebersicht/) at a glance.
+
+{{< warning  headline="Note"  text="You can make team members administrators only if you are a team administrator yourself. You can **revoke** administration rights using the same slider you used to grant them." />}}

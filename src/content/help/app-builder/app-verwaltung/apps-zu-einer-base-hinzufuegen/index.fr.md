@@ -1,0 +1,32 @@
+---
+title: 'Ajouter des apps à une base'
+date: 2023-05-02
+lastmod: '2024-05-15'
+categories:
+    - 'apps'
+author: 'nsc2'
+url: '/fr/aide/apps-zu-einer-base-hinzufuegen'
+---
+
+Vous souhaitez ajouter une application à votre base afin de personnaliser davantage votre travail dans SeaTable pour des groupes d'utilisateurs et des cas d'utilisation spécifiques ? Pas de problème ! Cela se fait en quelques étapes.
+
+{{< warning  headline="Autorisation requise dans le groupe"  text="Pour pouvoir créer une app, vous devez être **propriétaire** ou **administrateur du groupe** dans lequel se trouve la **base** sous-jacente. **Les** simples **membres d'un groupe** peuvent uniquement consulter et utiliser des apps existantes." />}}
+
+## Ajouter une application à une base
+
+1. Ouvrez n'importe quelle **base** dans laquelle vous souhaitez ajouter une nouvelle application.
+2. Cliquez sur **Apps** dans l'en-tête de la base.
+
+![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
+
+4. Une nouvelle fenêtre apparaît. Cliquez sur **Ajouter une application**.
+5. Décidez du type d'application que vous souhaitez créer et cliquez sur **Ajouter**.
+
+![Boîte de dialogue pour l'ajout d'apps](images/Add-App.png)
+
+7. Donnez un **nom** à l'application.
+8. Confirmez en cliquant sur **Envoyer**.
+
+![Nommez l'application et confirmez en cliquant sur Envoyer](images/confirm-to-add-app-to-base.jpg)
+
+Une fois que vous avez ajouté l'application, vous pouvez la [modifier]({{< relref "help/app-builder/app-verwaltung/apps-bearbeiten" >}}) et la personnaliser à votre guise.

@@ -2,8 +2,8 @@
 title: 'O guia definitivo para uma integração bem sucedida'
 description: 'Uma integração bem planeada é a chave para um início bem sucedido dos novos funcionários. Com processos claramente definidos, é possível garantir que os novos membros da equipa se adaptem rapidamente e se tornem produtivos. Neste artigo, ficará a saber como criar e implementar com sucesso um conceito de integração estruturado.'
 seo:
-    title: "Processo de integração: familiarização bem sucedida dos empregados"
-    description: "Neste artigo, ficará a saber como criar e implementar com êxito um conceito de integração estruturado para os novos trabalhadores"
+    title: 'Processo de integração: familiarização bem sucedida dos empregados'
+    description: 'Neste artigo, ficará a saber como criar e implementar com êxito um conceito de integração estruturado para os novos trabalhadores'
 date: 2025-03-24
 categories:
     - 'Informações gerais'
@@ -150,38 +150,25 @@ Confie num software adequado e assegure-se de que os seus novos empregados se se
 
 ## Perguntas frequentes
 
-{{< faq >}}
-
-Porque é que um processo de integração estruturado é importante?|||
-
+{{< faq "Porque é que um processo de integração estruturado é importante?" >}}
 Um processo de integração estruturado ajuda os novos funcionários a familiarizarem-se mais rapidamente com a sua função, a integrarem-se profissional e socialmente e a trabalharem com motivação. Isto não só aumenta a produtividade, como também aumenta a lealdade dos empregados e reduz a taxa de rotação do pessoal.
+{{< /faq >}}
 
-O que deve constar de um bom conceito de integração?|||
+{{< faq "O que deve constar de um bom conceito de integração?" >}}Um bom conceito de onboarding abrange a integração profissional, social e cultural dos novos empregados. Inclui listas de verificação das formalidades, planos de familiarização, formação, reuniões regulares de feedback e medidas de formação de equipas. A comunicação clara dos valores e objectivos da empresa é também essencial.
+{{< /faq >}}
 
-Um bom conceito de onboarding abrange a integração profissional, social e cultural dos novos empregados. Inclui listas de verificação das formalidades, planos de familiarização, formação, reuniões regulares de feedback e medidas de formação de equipas. A comunicação clara dos valores e objectivos da empresa é também essencial.
+{{< faq "Como posso otimizar o processo de integração dos novos empregados?" >}}As reuniões de feedback e as avaliações regulares ajudam a melhorar o processo. Com ferramentas digitais como o SeaTable, as tarefas e os documentos podem ser geridos e monitorizados de forma eficiente. Com responsabilidades claras e listas de controlo intuitivas, os departamentos de RH podem poupar tempo e apoiar melhor os novos funcionários.
+{{< /faq >}}
 
----
-
-Como posso otimizar o processo de integração dos novos empregados?|||
-
-As reuniões de feedback e as avaliações regulares ajudam a melhorar o processo. Com ferramentas digitais como o SeaTable, as tarefas e os documentos podem ser geridos e monitorizados de forma eficiente. Com responsabilidades claras e listas de controlo intuitivas, os departamentos de RH podem poupar tempo e apoiar melhor os novos funcionários.
-
----
-
-Quais são as fases de um processo de integração típico?|||
-
-Um processo de integração típico consiste em
+{{< faq "Quais são as fases de um processo de integração típico?" >}}Um processo de integração típico consiste em
 
 - **Fase de preparação (preboarding)**: Da assinatura do contrato até ao primeiro dia de trabalho.
 - **Fase de orientação**: Primeiros três meses na empresa.
 - **Fase de integração**: Três a doze meses após o início da atividade.
 
 Cada fase incide em tarefas e objectivos diferentes, por exemplo, preparação organizacional, introdução e integração a longo prazo.
+{{< /faq >}}
 
----
-
-Quais são as vantagens de utilizar software no processo de integração?|||
-
-Com o SeaTable, pode organizar o seu processo de integração de forma eficiente. Recebe um modelo pronto com listas de verificação, pode gerir todos os documentos de forma centralizada e acompanhar o progresso em direto. Isto poupa tempo, minimiza os erros e proporciona aos novos empregados uma experiência de integração profissional e sem problemas.
+{{< faq "Quais são as vantagens de utilizar software no processo de integração?" >}}Com o SeaTable, pode organizar o seu processo de integração de forma eficiente. Recebe um modelo pronto com listas de verificação, pode gerir todos os documentos de forma centralizada e acompanhar o progresso em direto. Isto poupa tempo, minimiza os erros e proporciona aos novos empregados uma experiência de integração profissional e sem problemas.
 
 {{< /faq >}}

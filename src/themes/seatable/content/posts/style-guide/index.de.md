@@ -82,14 +82,14 @@ Mit Markdown können auch Tabellen geschrieben werden.
 | ------------------- | --------------------- | --------------------- | ----------- |
 | **Art des Service** | Infrastruktur         | Entwicklungsplattform | Software    |
 | **Zielgruppe**      | Systemadministratoren | Software-Entwickler   | Nutzer      |
-| **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | CRM-Systeme |
+| **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | {{</* icon "circle-check" */>}} |
 ```
 
-|                     | **IaaS**              | **PaaS**              | **SaaS**    |
-| ------------------- | --------------------- | --------------------- | ----------- |
-| **Art des Service** | Infrastruktur         | Entwicklungsplattform | Software    |
-| **Zielgruppe**      | Systemadministratoren | Software-Entwickler   | Nutzer      |
-| **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | CRM-Systeme |
+|                     | **IaaS**              | **PaaS**              | **SaaS**                    |
+| ------------------- | --------------------- | --------------------- | --------------------------- |
+| **Art des Service** | Infrastruktur         | Entwicklungsplattform | Software                    |
+| **Zielgruppe**      | Systemadministratoren | Software-Entwickler   | Nutzer                      |
+| **Beispiele**       | Server, Netzwerke     | App-Entwicklung       | {{< icon "circle-check" >}} |
 
 ## SeaTable Templates
 
@@ -111,40 +111,46 @@ Die Höhe ist ein optionaler Parameter und kann weggelassen werden. Standardmä�
 
 Folgende Syntax erzeugt einen FAQ-Abschnitt in einem Blogbeitrag:
 
-{{< faq >}}
-
-Kann man Markdown in den FAQ Bereichen verwenden?|||
+{{< faq "Kann man Markdown in den FAQ Bereichen verwenden?" >}}
 
 Ja, **Markdown** kann verwendet werden und somit auch Aufzählungen enthalten:
 
 - Option A
 - Option B
 
----
+{{< /faq >}}
 
-Worauf muss man achten? |||
+{{< faq "Werden Bilder und Links unterstützt?" >}}
 
-Eigentlich nicht viel. Wenn man
+Ja. Man kann sowohl Bilder als auch Links in einem FAQ-Abschnitt verwenden.
+
+Z.B.: [Kontaktiere uns]({{< relref "pages/contact" >}}).
+
+![](feature.jpg)
 
 {{< /faq >}}
+
+<br>
 
 Der zugehörige Code dazu sieht so aus:
 
 ```
-{{</* faq */>}}
-
-Kann man Markdown in den FAQ Bereichen verwenden?|||
+{{</* faq "Kann man Markdown in den FAQ Bereichen verwenden?" */>}}
 
 Ja, **Markdown** kann verwendet werden und somit auch Aufzählungen enthalten:
 
 - Option A
 - Option B
 
----
+{{</* /faq */>}}
 
-Worauf muss man achten? |||
+{{</* faq "Werden Bilder und Links unterstützt?" */>}}
 
-Eigentlich nicht viel. Wenn man
+Ja. Man kann sowohl Bilder als auch Links in einem FAQ-Abschnitt verwenden.
+
+Z.B.: [Kontaktiere uns]({{</* relref "pages/contact" */>}}).
+
+![](images/feature.jpg)
 
 {{</* /faq */>}}
 ```
@@ -172,11 +178,39 @@ Erlaubte Werte für `style` sind:
 
 ## Warnings
 
+Warn-Hinweise können auf zwei verschiedene Arten geschreiben werden. Bei einfachen Texten genügt ein inline Parameter, bei längeren Texten mit Absätzen und Formatierungen, empfiehlt sich die längere Schreibweise.
+
+### Kurzschreibweise
+
 ```
-{{</* warning headline="Die Headline" text="**Text** mit Markdown Formatierung." */>}}
+{{</* warning headline="Die Headline" text="**Text** mit Markdown Formatierung." /*/>}}
 ```
 
-{{< warning headline="Die Headline" text="**Text** mit Markdown Formatierung." >}}
+{{< warning headline="Die Headline" text="**Text** mit Markdown Formatierung." />}}
+
+Wichtig: Dieser Shortcode verlangt zwingend ein `/` am Ende bei `/>}}`.
+
+### Langschreibweise
+
+```
+{{</* warning headline="Die Headline" */>}}
+
+Hier kann beliebiger Text und Aufzählungen hin:
+
+1. asdafd
+2. asdfafda
+
+{{</* /warning */>}}
+```
+
+{{< warning headline="Die Headline" >}}
+
+Hier kann beliebiger Text und Aufzählungen hin:
+
+1. asdafd
+2. asdfafda
+
+{{< /warning >}}
 
 ## YouTube
 
@@ -193,3 +227,41 @@ Fügen dies in dein Markdown ein:
 ```
 
 {{< youtube AHTzHMVx2uE >}}
+
+## Keyboard
+
+Um eine Tastenkombination wie z.B. {{< key "STRG" >}} + {{< key "C" >}} auszugeben, genügt folgender Shortcode:
+
+```
+{{</* key "STRG" */>}} + {{</* key "C" */>}}
+```
+
+## Tags
+
+Das sind Tags, in den Farben {{< tag color="blue" text="Blau" >}}, {{< tag color="red" text="Rot" >}} oder {{< tag text="irgendwas anderes" >}}.
+Hier die gesamte Übersicht:
+
+- ...
+- ...
+
+## Icons
+
+In den Blogbeiträgen oder Hilfeseiten können die Icons wie z.B. {{< icon "circle-xmark" >}} mit dem folgenden Shortcode eingebunden werden. Dies funktioniert auch in Tabellen.
+
+```
+{{</* icon "circle-xmark" */>}}
+{{</* icon icon="circle-check" class="text-seatable-orange" */>}}
+```
+
+## SeaTable Icons
+
+Die Icons der SeaTable Benutzeroberfläche wie z.B. {{< seatable-icon "dtable-icon-filter" >}} können im Fließtext eingebunden werden.
+Die Namen des Icon kann man über die Entwicklertools des Browsers herausfinden.
+
+```
+{{</* seatable-icon "dtable-icon-filter" */>}}
+```
+
+## Verfügbar mit
+
+{{< required-version "free" "plus" "enterprise" >}}

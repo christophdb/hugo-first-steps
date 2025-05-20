@@ -2,8 +2,8 @@
 title: 'Como utilizar os seus dados com um armazém de dados'
 description: 'Data warehouse, base de dados, data lake: estes termos podem ser confusos - afinal, todos eles se referem a um sistema que armazena dados. O artigo a seguir esclarece o assunto e explica as vantagens de um data warehouse e como funciona o armazenamento de dados.'
 seo:
-    title: "Data warehouse: as vantagens para a sua empresa em resumo"
-    description: "Descubra as técnicas básicas e avançadas de armazenamento de dados. Saiba como armazenar dados de forma eficaz"
+    title: 'Data warehouse: as vantagens para a sua empresa em resumo'
+    description: 'Descubra as técnicas básicas e avançadas de armazenamento de dados. Saiba como armazenar dados de forma eficaz'
 date: 2025-03-26
 categories:
     - 'Informações gerais'
@@ -133,24 +133,16 @@ Além disso, pode escolher se pretende operar o seu armazém de dados [on-premis
 
 ## FAQs sobre armazenamento de dados
 
-{{< faq >}}
-
-O que é um armazém de dados?|||
+{{< faq "O que é um armazém de dados?" >}}
 Uma definição de armazém de dados amplamente reconhecida é que um DWH combina diversos dados de diferentes fontes numa base de dados uniforme para permitir análises bem fundamentadas. Para tal, prepara os dados e armazena-os numa base de dados estruturada.
-
----
-
-O que é um lago de dados?|||
+{{< /faq >}}
+{{< faq "O que é um lago de dados?" >}}
 Tal como um armazém de dados, um lago de dados é um sistema de armazenamento especial. No entanto, ao contrário de um armazém de dados, um lago de dados armazena dados brutos não processados. O processamento é feito a jusante e só começa quando os dados são necessários para análise.
-
----
-
-O que é um data mart?|||
+{{< /faq >}}
+{{< faq "O que é um data mart?" >}}
 Um data mart é uma parte do armazém de dados que se destina a um caso de utilização específico ou a uma área de negócio. Fornece a um grupo de utilizadores definido exatamente os dados que lhes são relevantes. O data warehouse, por outro lado, armazena os dados de toda uma empresa.
-
----
-
-O que significa ETL?|||
+{{< /faq >}}
+{{< faq "O que significa ETL?" >}}
 ETL é a abreviatura de Extract, Transform, Load. Descreve as três etapas do processo em que os dados são recolhidos de diferentes fontes, transformados e armazenados no armazém de dados.
 
 {{< /faq >}}

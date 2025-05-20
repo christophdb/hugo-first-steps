@@ -2,8 +2,8 @@
 title: 'Citizen Developer - Gamechanger dans la numérisation ?'
 description: 'Les solutions logicielles sur mesure pour vos processus spécifiques sont rares ? Alors, développez vos propres solutions ! Découvrez dans cet article comment utiliser le savoir-faire au sein de vos départements spécialisés et mettre en place des processus numériques efficaces en impliquant des Citizen Developers dans le développement'
 seo:
-    title: "Citizen Developer - Gamechanger dans la numérisation"
-    description: "Développez vos propres solutions logicielles avec les Citizen Developers ! Cet article vous montre comment utiliser le savoir-faire de vos départements spécialisés."
+    title: 'Citizen Developer - Gamechanger dans la numérisation'
+    description: 'Développez vos propres solutions logicielles avec les Citizen Developers ! Cet article vous montre comment utiliser le savoir-faire de vos départements spécialisés.'
 date: 2025-03-17
 categories:
     - 'No Code / Low Code'
@@ -113,29 +113,13 @@ Le Citizen Development est une tendance prometteuse qui peut changer radicalemen
 
 ## FAQ
 
-{{< faq >}}
-
-Que fait un Citizen Developer ? |||
-
-Un Citizen Developer utilise des environnements de développement low-code pour créer ses propres applications logicielles. Toutefois, contrairement aux professionnels de l'informatique, il n'a pas suivi de formation formelle dans le domaine du développement de logiciels.
-
----
-
-Pourquoi le Citizen Development est-il utile ? |||
-
-Le Citizen Development accélère le développement d'applications, allège la charge de travail du service informatique et permet d'économiser les coûts de logiciels spécialisés coûteux. En outre, il favorise l'innovation, la collaboration interdépartementale et l'acceptation de nouvelles solutions.
-
----
-
-Qu'est-ce que l'informatique de l'ombre ? |||
-
-Le Shadow IT désigne les systèmes informatiques et les applications logicielles que les collaborateurs des départements spécialisés d'une entreprise utilisent en plus de l'infrastructure informatique officielle **à l'insu du service informatique**. Le Shadow IT n'est donc pas intégré techniquement ou stratégiquement dans la gestion des services informatiques, ce qui entraîne des risques de sécurité et d'autres problèmes.
-
----
-
-Quel est le rôle des chefs de projet dans le développement citoyen ? |||
-
-Les chefs de projet sont souvent de bons Citizen Developers, car ils connaissent les besoins et les exigences de leurs équipes, ont une vision globale et peuvent utiliser leur réflexion sur les processus pour mettre en place des flux de travail plus efficaces.
+{{< faq "Que fait un Citizen Developer ? " >}}Un Citizen Developer utilise des environnements de développement low-code pour créer ses propres applications logicielles. Toutefois, contrairement aux professionnels de l'informatique, il n'a pas suivi de formation formelle dans le domaine du développement de logiciels.
+{{< /faq >}}
+{{< faq "Pourquoi le Citizen Development est-il utile ? " >}}Le Citizen Development accélère le développement d'applications, allège la charge de travail du service informatique et permet d'économiser les coûts de logiciels spécialisés coûteux. En outre, il favorise l'innovation, la collaboration interdépartementale et l'acceptation de nouvelles solutions.
+{{< /faq >}}
+{{< faq "Qu'est-ce que l'informatique de l'ombre ? " >}}Le Shadow IT désigne les systèmes informatiques et les applications logicielles que les collaborateurs des départements spécialisés d'une entreprise utilisent en plus de l'infrastructure informatique officielle **à l'insu du service informatique**. Le Shadow IT n'est donc pas intégré techniquement ou stratégiquement dans la gestion des services informatiques, ce qui entraîne des risques de sécurité et d'autres problèmes.
+{{< /faq >}}
+{{< faq "Quel est le rôle des chefs de projet dans le développement citoyen ? " >}}Les chefs de projet sont souvent de bons Citizen Developers, car ils connaissent les besoins et les exigences de leurs équipes, ont une vision globale et peuvent utiliser leur réflexion sur les processus pour mettre en place des flux de travail plus efficaces.
 
 <!-- ###### Inscrivez-vous maintenant à notre newsletter -->
 

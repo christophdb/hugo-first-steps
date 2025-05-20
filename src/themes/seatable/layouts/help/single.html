@@ -1,0 +1,102 @@
+{{ define "main" }}
+    <section class="max-container padding mx-auto w-full" data-pagefind-body>
+        <article class="">
+            {{ partial "breadcrumbs-docs.html" . }}
+
+
+            <h1 class="gradient mt-12 font-poppins text-4xl">{{ .Title }}</h1>
+
+            <div class="justify-left post mt-16 flex w-full gap-12 md:flex-row">
+                <!-- max width of the blog posts is 768px -> image optimization -->
+                <div class="post-content w-full max-w-3xl lg:w-3/4">
+                    <!-- table of content for smaller resolutions -->
+                    <div class="order-first block px-0 pb-8 lg:order-last lg:hidden">
+                        <div class="lg:top-10 print:hidden">{{ partial "toc.html" . }}</div>
+                    </div>
+
+                    {{ .Content }}
+
+
+                    <!--<div class="mt-12 border-t border-gray-300"></div>
+                    <p class="mt-12">
+                        TAGS:
+                        {{ range (.GetTerms "tags") }}
+                        <a href="{{ .Permalink }}"><span style="background-color: #e1e1e1; padding: 4px 8px; border-radius: 8px;">{{ .LinkTitle }}</span></a>
+                    {{ end }}
+                    </p>-->
+
+                    {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
+                    <div class="mt-24 flex flex-row justify-between gap-4" data-pagefind-ignore>
+                        {{ with $pages.Prev . }}
+                            <a href="{{ .RelPermalink }}" class="group">
+                                <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
+                                    <span class="flex-shrink-0 rotate-90">
+                                        {{ partial "icon.html" "chevron-down" }}
+                                    </span>
+                                    <span class="min-w-0 max-w-72 text-sm font-normal tracking-tight"> {{ .LinkTitle }} </span>
+                                </span>
+                            </a>
+                        {{ end }}
+
+                        {{ with $pages.Next . }}
+                            <a href="{{ .RelPermalink }}" class="group">
+                                <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
+                                    <span class="min-w-0 max-w-72 text-right text-sm font-normal tracking-tight"> {{ .LinkTitle }} </span>
+                                    <span class="flex-shrink-0 -rotate-90">
+                                        {{ partial "icon.html" "chevron-down" }}
+                                    </span>
+                                </span>
+                            </a>
+                        {{ end }}
+
+                    </div>
+                </div>
+
+                <!-- Second section -->
+
+                <div class="toc post-toc win-w-[220px] hidden w-1/4 lg:block" data-pagefind-ignore>
+                    <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
+                        <h3>INHALTSVERZEICHNIS</h3>
+                        <div>
+                            {{ .TableOfContents }}
+                        </div>
+
+                        <h3 class="mt-12">WEITERE ARTIKEL IN DIESER KATEGORIE</h3>
+                        <div>
+                            <ul>
+                                {{ range .CurrentSection.Pages.ByWeight }}
+                                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                {{ end }}
+                            </ul>
+                        </div>
+
+                        <!--
+                        <h3 class="mt-12">ÄHNLICHE ARTIKEL</h3>
+                        <div>
+                            {{ $related := .Site.RegularPages.Related . | first 5 }}
+                            {{ with $related }}
+                            <ul>
+                                {{ range . }}
+                                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                {{ end }}
+                            </ul>
+                        {{ end }}
+                        </div>
+
+                        <div class="mt-12">
+                            ZULETZT AKTUALISIERT VON
+                            <div class="flex flex-row">
+                                <img src="https://placehold.co/48x48" class="rounded-full" />
+                                <div class="flex flex-col pl-4">
+                                    <span>{{ .Params.author | default "Kevin Graf" }}</span>
+                                    <span>{{ .Date | time.Format (.Site.Language.Params.dateFormat | default ":date_long" ) }}</span>
+                                </div>
+                            </div>
+                        </div>
+                        -->
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+{{ end }}

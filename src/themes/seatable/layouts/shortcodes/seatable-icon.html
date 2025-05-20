@@ -1,0 +1,9 @@
+{{ $icon := "" }}
+{{ if .IsNamedParams }}
+    {{ $icon = .Get "icon" }}
+{{ else }}
+    {{ $icon = .Get 0 }}
+{{ end }}
+
+
+<span class="dtable-font {{ $icon }}" {{ if .Get "color" }}style="color: {{ .Get `color` }}"{{ end }}></span>

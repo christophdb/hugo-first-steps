@@ -2,14 +2,14 @@
 title: 'How to make your data usable with a data warehouse'
 description: 'Data warehouse, database, data lake: these terms can be confusing - after all, they all refer to a system that stores data. The following article sheds light on the subject and explains the advantages of a data warehouse and how data warehousing works.'
 seo:
-    title: "Data Warehouse: Benefits for your company at a glance"
-    description: "Discover the basics and advanced techniques of data warehousing. Learn how to store data effectively"
+    title: 'Data Warehouse: Benefits for your company at a glance'
+    description: 'Discover the basics and advanced techniques of data warehousing. Learn how to store data effectively'
 date: 2025-03-26
 categories:
     - 'General'
 tags:
-- "Data Management & Visualisation"
-- "Digital Transformation"
+    - 'Data Management & Visualisation'
+    - 'Digital Transformation'
 url: '/data-warehouse'
 color: '#34ba9d'
 ---
@@ -135,24 +135,16 @@ What's more, you can choose whether you want to operate your data warehouse [on-
 
 ## FAQs on data warehousing
 
-{{< faq >}}
-
-What is a data warehouse?|||
+{{< faq "What is a data warehouse?" >}}
 A widely recognized data warehouse definition is that a DWH combines diverse data from different sources into a uniform database in order to enable well-founded analyses. To do this, it prepares the data and stores it in a structured database.
-
----
-
-What is a data lake?|||
+{{< /faq >}}
+{{< faq "What is a data lake?" >}}
 Like a data warehouse, a data lake is a special storage system. In contrast to a data warehouse, however, a data lake stores unprocessed raw data. Processing is downstream and only begins when you need the data for analysis.
-
----
-
-What is a data mart?|||
+{{< /faq >}}
+{{< faq "What is a data mart?" >}}
 A data mart is a part of the data warehouse that is intended for a specific use case or business area. It provides a defined user group with exactly the data that is relevant to them. The data warehouse, on the other hand, stores the data of an entire company.
-
----
-
-What does ETL mean?|||
+{{< /faq >}}
+{{< faq "What does ETL mean?" >}}
 ETL is the abbreviation for Extract, Transform, Load. This describes the three process steps in which data is collected from different sources, transformed and stored in the data warehouse.
 
 {{< /faq >}}

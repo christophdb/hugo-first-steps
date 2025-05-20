@@ -7,7 +7,8 @@
         "build": "tailwindcss build -i assets/css/styles.css -o assets/css/styles.output.css",
         "watch": "tailwindcss build -i assets/css/styles.css -o assets/css/styles.output.css --watch",
         "docker:hugo": "hugo server --source /hugo/src -D -E --bind=0.0.0.0",
-        "docker:watch": "concurrently \"npm run watch\" \"npm run docker:hugo\""
+        "pagefind:watch": "npx -y pagefind --site /hugo/src/public",
+        "docker:watch": "./docker-watch.sh"
     },
     "keywords": [],
     "author": "Christoph Dyllick-Brenzinger",
@@ -16,6 +17,7 @@
         "@hugomods/prettier-config": "^0.2.0",
         "autoprefixer": "^10.4.21",
         "concurrently": "^9.1.2",
+        "pagefind": "^1.3.0",
         "postcss": "^8.5.3",
         "prettier": "^3.5.3",
         "prettier-plugin-tailwindcss": "^0.6.11",

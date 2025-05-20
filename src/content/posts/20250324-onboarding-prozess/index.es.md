@@ -2,8 +2,8 @@
 title: 'La guía definitiva para una incorporación exitosa'
 description: 'Una incorporación bien pensada es la clave para que los nuevos empleados empiecen con buen pie. Con procesos claramente definidos, puede asegurarse de que los nuevos miembros del equipo se adapten rápidamente y sean productivos. En este artículo aprenderá a crear y aplicar con éxito un concepto estructurado de incorporación.'
 seo:
-    title: "Onboarding process: Acogida con éxito de los empleados"
-    description: "En este artículo aprenderá a crear y aplicar con éxito un concepto estructurado de incorporación para los nuevos empleados"
+    title: 'Onboarding process: Acogida con éxito de los empleados'
+    description: 'En este artículo aprenderá a crear y aplicar con éxito un concepto estructurado de incorporación para los nuevos empleados'
 date: 2025-03-24
 categories:
     - 'General'
@@ -150,38 +150,21 @@ Apóyese en un software adecuado y asegúrese de que sus nuevos empleados se sie
 
 ## Preguntas frecuentes
 
-{{< faq >}}
+{{< faq "¿Por qué es importante un proceso de incorporación estructurado?" >}}## Un proceso de incorporación estructurado ayuda a los nuevos empleados a familiarizarse más rápidamente con su función, a integrarse profesional y socialmente y a trabajar con motivación. Esto no sólo aumenta la productividad, sino que también incrementa la lealtad de los empleados y reduce la tasa de rotación de personal.
+{{< /faq >}}
 
-¿Por qué es importante un proceso de incorporación estructurado?|||
-
-## Un proceso de incorporación estructurado ayuda a los nuevos empleados a familiarizarse más rápidamente con su función, a integrarse profesional y socialmente y a trabajar con motivación. Esto no sólo aumenta la productividad, sino que también incrementa la lealtad de los empleados y reduce la tasa de rotación de personal.
-
-¿Qué debe incluir un buen concepto de incorporación?|||
-
-Un buen concepto de incorporación abarca la integración profesional, social y cultural de los nuevos empleados. Incluye listas de comprobación para las formalidades, planes de familiarización, formación, reuniones periódicas de feedback y medidas para fomentar el espíritu de equipo. También es esencial comunicar claramente los valores y objetivos de la empresa.
-
----
-
-¿Cómo puedo optimizar el proceso de incorporación de nuevos empleados?|||
-
-Las reuniones de feedback y las evaluaciones periódicas ayudan a mejorar el proceso. Con herramientas digitales como SeaTable, las tareas y los documentos pueden gestionarse y supervisarse eficazmente. Con responsabilidades claras y listas de comprobación intuitivas, los departamentos de RRHH pueden ahorrar tiempo y apoyar mejor a los nuevos empleados.
-
----
-
-¿Cuáles son las fases de un proceso de incorporación típico?|||
-
-Un proceso de incorporación típico consta de
+{{< faq "¿Qué debe incluir un buen concepto de incorporación?" >}}Un buen concepto de incorporación abarca la integración profesional, social y cultural de los nuevos empleados. Incluye listas de comprobación para las formalidades, planes de familiarización, formación, reuniones periódicas de feedback y medidas para fomentar el espíritu de equipo. También es esencial comunicar claramente los valores y objetivos de la empresa.
+{{< /faq >}}
+{{< faq "¿Cómo puedo optimizar el proceso de incorporación de nuevos empleados?" >}}Las reuniones de feedback y las evaluaciones periódicas ayudan a mejorar el proceso. Con herramientas digitales como SeaTable, las tareas y los documentos pueden gestionarse y supervisarse eficazmente. Con responsabilidades claras y listas de comprobación intuitivas, los departamentos de RRHH pueden ahorrar tiempo y apoyar mejor a los nuevos empleados.
+{{< /faq >}}
+{{< faq "¿Cuáles son las fases de un proceso de incorporación típico?" >}}Un proceso de incorporación típico consta de
 
 - Fase de preparación (preboarding)\*\*: Firma del contrato hasta el primer día de trabajo.
 - Fase de orientación\*\*: Los tres primeros meses en la empresa.
 - Fase de integración\*\*: De tres a doce meses después de empezar.
 
 Cada fase se centra en tareas y objetivos diferentes, por ejemplo, preparación organizativa, introducción e integración a largo plazo.
-
----
-
-¿Cuáles son las ventajas de utilizar programas informáticos en el proceso de incorporación?|||
-
-Con SeaTable puede organizar su proceso de incorporación de forma eficaz. Recibirá una plantilla preparada con listas de comprobación, podrá gestionar todos los documentos de forma centralizada y realizar un seguimiento del progreso en tiempo real. Esto ahorra tiempo, minimiza los errores y ofrece a los nuevos empleados una experiencia de incorporación fluida y profesional.
+{{< /faq >}}
+{{< faq "¿Cuáles son las ventajas de utilizar programas informáticos en el proceso de incorporación?" >}}Con SeaTable puede organizar su proceso de incorporación de forma eficaz. Recibirá una plantilla preparada con listas de comprobación, podrá gestionar todos los documentos de forma centralizada y realizar un seguimiento del progreso en tiempo real. Esto ahorra tiempo, minimiza los errores y ofrece a los nuevos empleados una experiencia de incorporación fluida y profesional.
 
 {{< /faq >}}

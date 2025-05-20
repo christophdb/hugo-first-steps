@@ -2,8 +2,8 @@
 title: 'Citizen Developer – Gamechanger in der Digitalisierung?'
 description: 'Maßgeschneiderte Software-Lösungen für Ihre speziellen Prozesse sind Mangelware? Dann entwickeln Sie doch eigene Lösungen! Erfahren Sie in diesem Artikel, wie Sie das Know-how in Ihren Fachabteilungen nutzen und effiziente digitale Prozesse aufsetzen, indem Sie Citizen Developer an der Entwicklung beteiligen.'
 seo:
-    title: "Citizen Developer – Gamechanger in der Digitalisierung"
-    description: "Entwickeln Sie eigene Softwarelösungen mit Citizen Developern! Dieser Artikel zeigt Ihnen, wie Sie das Know-how Ihrer Fachabteilungen nutzen"
+    title: 'Citizen Developer – Gamechanger in der Digitalisierung'
+    description: 'Entwickeln Sie eigene Softwarelösungen mit Citizen Developern! Dieser Artikel zeigt Ihnen, wie Sie das Know-how Ihrer Fachabteilungen nutzen'
 date: 2025-03-17
 categories:
     - 'No Code / Low Code'
@@ -109,29 +109,13 @@ Citizen Development ist ein vielversprechender Trend, der die Art und Weise, wie
 
 ## FAQs
 
-{{< faq >}}
-
-Was macht ein Citizen Developer? |||
-
-Ein Citizen Developer nutzt Low-Code-Entwicklungsumgebungen, um eigene Software-Anwendungen zu erstellen. Im Gegensatz zu IT-Profis hat er jedoch keine formelle Ausbildung im Bereich der Softwareentwicklung absolviert.
-
----
-
-Warum ist Citizen Development sinnvoll? |||
-
-Citizen Development beschleunigt die Anwendungsentwicklung, entlastet die IT-Abteilung und spart Kosten für teure Spezialsoftware. Außerdem fördert es die Innovation, die abteilungsübergreifende Zusammenarbeit und die Akzeptanz gegenüber neuen Lösungen.
-
----
-
-Was versteht man unter Schatten IT? |||
-
-Als Schatten-IT bezeichnet man IT-Systeme und Software-Anwendungen, die Mitarbeiter in den Fachabteilungen eines Unternehmens neben der offiziellen IT-Infrastruktur **ohne Kenntnis der IT-Abteilung** nutzen. Die Schatten IT ist somit weder technisch noch strategisch in das IT-Service-Management eingebunden, was Sicherheitsrisiken und andere Probleme mit sich bringt.
-
----
-
-Welche Rolle spielen Projektmanager beim Citizen Development? |||
-
-Projektmanager sind oft gute Citizen Developer, da sie die Bedürfnisse und Anforderungen ihrer Teams kennen, einen ganzheitlichen Überblick haben und ihr Prozessdenken für den Aufbau effizienterer Arbeitsabläufe nutzen können.
+{{< faq "Was macht ein Citizen Developer? " >}}Ein Citizen Developer nutzt Low-Code-Entwicklungsumgebungen, um eigene Software-Anwendungen zu erstellen. Im Gegensatz zu IT-Profis hat er jedoch keine formelle Ausbildung im Bereich der Softwareentwicklung absolviert.
+{{< /faq >}}
+{{< faq "Warum ist Citizen Development sinnvoll? " >}}Citizen Development beschleunigt die Anwendungsentwicklung, entlastet die IT-Abteilung und spart Kosten für teure Spezialsoftware. Außerdem fördert es die Innovation, die abteilungsübergreifende Zusammenarbeit und die Akzeptanz gegenüber neuen Lösungen.
+{{< /faq >}}
+{{< faq "Was versteht man unter Schatten IT? " >}}Als Schatten-IT bezeichnet man IT-Systeme und Software-Anwendungen, die Mitarbeiter in den Fachabteilungen eines Unternehmens neben der offiziellen IT-Infrastruktur **ohne Kenntnis der IT-Abteilung** nutzen. Die Schatten IT ist somit weder technisch noch strategisch in das IT-Service-Management eingebunden, was Sicherheitsrisiken und andere Probleme mit sich bringt.
+{{< /faq >}}
+{{< faq "Welche Rolle spielen Projektmanager beim Citizen Development? " >}}Projektmanager sind oft gute Citizen Developer, da sie die Bedürfnisse und Anforderungen ihrer Teams kennen, einen ganzheitlichen Überblick haben und ihr Prozessdenken für den Aufbau effizienterer Arbeitsabläufe nutzen können.
 
 <!-- ###### Registrieren Sie sich jetzt für unseren Newsletter -->
 

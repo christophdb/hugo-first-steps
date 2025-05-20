@@ -2,8 +2,8 @@
 title: 'Der ultimative Guide zum erfolgreichen Onboarding'
 description: 'Ein gut durchdachtes Onboarding ist der Schlüssel für einen erfolgreichen Start neuer Mitarbeitender. Mit klar definierten Prozessen sorgen Sie dafür, dass sich neue Teammitglieder schnell zurechtfinden und produktiv werden. In diesem Artikel erfahren Sie, wie Sie ein strukturiertes Onboarding-Konzept erstellen und erfolgreich umsetzen.'
 seo:
-    title: "Onboarding Prozess: Erfolgreiches Einarbeiten der Mitarbeiter"
-    description: "In diesem Artikel erfahren Sie, wie Sie ein strukturiertes Onboarding-Konzept für neie Mitarbeiter erstellen und erfolgreich umsetzen"
+    title: 'Onboarding Prozess: Erfolgreiches Einarbeiten der Mitarbeiter'
+    description: 'In diesem Artikel erfahren Sie, wie Sie ein strukturiertes Onboarding-Konzept für neie Mitarbeiter erstellen und erfolgreich umsetzen'
 date: 2025-03-24
 categories:
     - 'Allgemein'
@@ -154,38 +154,21 @@ Setzen Sie auf eine geeignete Software und sorgen Sie dafür, dass sich Ihre neu
 
 ## Häufig gestellte Fragen
 
-{{< faq >}}
+{{< faq "Warum ist ein strukturierter Onboarding-Prozess wichtig?" >}}Ein strukturierter Onboarding-Prozess hilft neuen Mitarbeitern, sich schneller in ihre Rolle einzufinden, sich fachlich und sozial zu integrieren und motiviert zu arbeiten. Dies steigert nicht nur die Produktivität, sondern erhöht auch die Mitarbeiterbindung und senkt die Fluktuationsrate.
+{{< /faq >}}
 
-Warum ist ein strukturierter Onboarding-Prozess wichtig?|||
-
-Ein strukturierter Onboarding-Prozess hilft neuen Mitarbeitern, sich schneller in ihre Rolle einzufinden, sich fachlich und sozial zu integrieren und motiviert zu arbeiten. Dies steigert nicht nur die Produktivität, sondern erhöht auch die Mitarbeiterbindung und senkt die Fluktuationsrate.
-
-Was sollte in einem guten Onboarding-Konzept enthalten sein?|||
-
-Ein gutes Onboarding-Konzept umfasst die fachliche, soziale und kulturelle Integration neuer Mitarbeiter. Dazu gehören Checklisten für Formalitäten, Einarbeitungspläne, Schulungen, regelmäßige Feedbackgespräche und Teambuilding-Maßnahmen. Auch eine klare Vermittlung der Unternehmenswerte und -ziele ist essenziell.
-
----
-
-Wie kann ich den Onboarding-Prozess für neue Mitarbeiter optimieren?|||
-
-Feedbackgespräche und regelmäßige Evaluierungen helfen, den Prozess zu verbessern. Mit digitalen Tools wie SeaTable können Aufgaben und Dokumente effizient verwaltet und überwacht werden. Durch klare Verantwortlichkeiten und intuitive Checklisten können HR-Abteilungen Zeit sparen und neue Mitarbeiter besser unterstützen.
-
----
-
-Welche Phasen umfasst ein typischer Onboarding-Prozess?|||
-
-Ein typischer Onboarding-Prozess besteht aus:
+{{< faq "Was sollte in einem guten Onboarding-Konzept enthalten sein?" >}}Ein gutes Onboarding-Konzept umfasst die fachliche, soziale und kulturelle Integration neuer Mitarbeiter. Dazu gehören Checklisten für Formalitäten, Einarbeitungspläne, Schulungen, regelmäßige Feedbackgespräche und Teambuilding-Maßnahmen. Auch eine klare Vermittlung der Unternehmenswerte und -ziele ist essenziell.
+{{< /faq >}}
+{{< faq "Wie kann ich den Onboarding-Prozess für neue Mitarbeiter optimieren?" >}}Feedbackgespräche und regelmäßige Evaluierungen helfen, den Prozess zu verbessern. Mit digitalen Tools wie SeaTable können Aufgaben und Dokumente effizient verwaltet und überwacht werden. Durch klare Verantwortlichkeiten und intuitive Checklisten können HR-Abteilungen Zeit sparen und neue Mitarbeiter besser unterstützen.
+{{< /faq >}}
+{{< faq "Welche Phasen umfasst ein typischer Onboarding-Prozess?" >}}Ein typischer Onboarding-Prozess besteht aus:
 
 - **Vorbereitungsphase (Preboarding)**: Vertragsunterzeichnung bis zum ersten Arbeitstag.
 - **Orientierungsphase**: Erste drei Monate im Unternehmen.
 - **Integrationsphase**: Drei bis zwölf Monate nach Beginn.
 
 In jeder Phase stehen unterschiedliche Aufgaben und Ziele im Fokus, z. B. organisatorische Vorbereitung, Einführung und langfristige Integration.
-
----
-
-Welche Vorteile bietet der Einsatz von Software im Onboarding-Prozess?|||
-
-Mit SeaTable können Sie Ihren Onboarding-Prozess effizient organisieren. Sie erhalten eine vorgefertigte Vorlage mit Checklisten, können alle Dokumente zentral verwalten und Fortschritte live verfolgen. Das spart Zeit, minimiert Fehler und bietet neuen Mitarbeitern ein reibungsloses und professionelles Einstiegserlebnis.
+{{< /faq >}}
+{{< faq "Welche Vorteile bietet der Einsatz von Software im Onboarding-Prozess?" >}}Mit SeaTable können Sie Ihren Onboarding-Prozess effizient organisieren. Sie erhalten eine vorgefertigte Vorlage mit Checklisten, können alle Dokumente zentral verwalten und Fortschritte live verfolgen. Das spart Zeit, minimiert Fehler und bietet neuen Mitarbeitern ein reibungsloses und professionelles Einstiegserlebnis.
 
 {{< /faq >}}

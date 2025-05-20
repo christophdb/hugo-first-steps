@@ -1,0 +1,28 @@
+---
+title: 'Fazer de um membro da equipa um administrador'
+date: 2023-01-09
+lastmod: '2023-03-22'
+categories:
+    - 'teamverwaltung'
+author: 'vge'
+url: '/pt/ajuda/ein-teammitglied-zum-administrator-machen'
+---
+
+Como administrador da equipa, pode adicionar novos membros à equipa e também **conceder** a estes membros **direitos de administração**.
+
+## Tornar os membros da equipa administradores
+
+![Fazer de um membro da equipa um administrador](images/Ein-Teammitglied-zum-Administrator-machen.gif)
+
+1. Clique no seu **perfil** no canto superior direito.
+2. Seleccione **Gestão de Equipas** a partir do menu pendente.
+3. Ir para o item do menu **Equipa** em **Navegação**.
+4. Clique no **membro da equipa** a quem pretende dar direitos de administração.
+5. Abre-se uma nova janela. Em **Segurança**, activar o cursor do **Administrador**.
+6. Clique em **Guardar Alterações**.
+
+## Os direitos de um administrador de equipa
+
+Cada administrador de equipa tem **pleno acesso à** administração da equipa e tem os **mesmos direitos**. Para uma visão geral detalhada de todas as funções da administração da equipa, leia por favor o artigo [As funções da administração da equipa em visão geral](https://seatable.io/pt/docs/teamverwaltung/die-funktionen-der-teamverwaltung-in-der-uebersicht/).
+
+{{< warning  headline="Nota"  text="Só pode fazer administradores de membros de equipa se for você mesmo um administrador de equipa. Pode **revogar** os direitos de administração usando o mesmo deslizador que usou para os conceder." />}}

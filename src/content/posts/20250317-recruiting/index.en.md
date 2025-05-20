@@ -2,8 +2,8 @@
 title: 'Recruiting compact: How to find and convince talent'
 description: 'A successful recruiting process determines whether companies remain fit for the future or fall behind the competition. Find out which strategies and methods will take your recruiting to the next level and how you can stay ahead in a competitive job market.'
 seo:
-    title: "Recruiting: Tips & strategies for the search for personnel"
-    description: "The future of recruiting: Learn about new technologies and innovative ways to find and retain top candidates"
+    title: 'Recruiting: Tips & strategies for the search for personnel'
+    description: 'The future of recruiting: Learn about new technologies and innovative ways to find and retain top candidates'
 date: 2025-03-17
 categories:
     - 'Best Practice'
@@ -27,13 +27,13 @@ Recruiting involves much more than just placing job advertisements. There are nu
 
 ### Internal recruiting
 
-Internal recruiting involves recruiting new staff from within the company's own ranks. Vacancies are advertised on the company's **intranet** or in regular **newsletters**, for example, so that existing employees can apply for vacant positions. Employee referrals** also play a role: employees suggest suitable people from their own network, which often enables faster and more suitable appointments. Another internal recruiting strategy is to prepare your own staff for new positions through **targeted development and promotion**.
+Internal recruiting involves recruiting new staff from within the company's own ranks. Vacancies are advertised on the company's **intranet** or in regular **newsletters**, for example, so that existing employees can apply for vacant positions. Employee referrals** also play a role: employees suggest suitable people from their own network, which often enables faster and more suitable appointments. Another internal recruiting strategy is to prepare your own staff for new positions through **targeted development and promotion\*\*.
 
 Internal recruitment has the advantage that employees are **already familiar with the processes and structures of your company**, enabling both a seamless transition and a **shorter induction period**. This not only saves time, but also reduces the effort required for induction. In addition, your employees will feel valued if you offer them internal development opportunities. However, internal recruiting also brings challenges. There is a lack of fresh impetus from outside, which can cause the corporate culture to stagnate. It can also lead to a kind of "company blindness", as no new perspectives are brought in. The **visibility of the employer brand also remains limited**, as external presence plays a subordinate role in this approach.
 
 ### External recruiting
 
-External recruiting aims to attract talent outside the company. In addition to **classical job advertisements**, modern methods such as **social recruiting**, in which social networks such as LinkedIn or Instagram are used, are playing an increasingly important role. Active sourcing**, i.e. approaching potential candidates directly, as well as **establishing partnerships with universities** or **participating in career fairs** are also among the measures. In addition, companies are increasingly using **creative approaches such as guerrilla marketing** to generate attention. These active strategies are supplemented by passive approaches such as the use of unsolicited applications or talent pools and the maintenance of a positive employer branding that positions the company as an attractive employer.
+External recruiting aims to attract talent outside the company. In addition to **classical job advertisements**, modern methods such as **social recruiting**, in which social networks such as LinkedIn or Instagram are used, are playing an increasingly important role. Active sourcing**, i.e. approaching potential candidates directly, as well as **establishing partnerships with universities** or **participating in career fairs** are also among the measures. In addition, companies are increasingly using **creative approaches such as guerrilla marketing\*\* to generate attention. These active strategies are supplemented by passive approaches such as the use of unsolicited applications or talent pools and the maintenance of a positive employer branding that positions the company as an attractive employer.
 
 External recruitment has the advantage that you reach a **greater number of potential applicants**, which increases the chances of finding particularly qualified talent. New employees also often bring **fresh ideas and perspectives**, which can promote the further development of your corporate culture. However, they also require a **longer induction period** and there is some uncertainty as to whether they will fit into the team in the long term. In addition, the **processes are often more time-consuming and costly** than internal recruiting.
 
@@ -87,8 +87,7 @@ A successful recruiting process lays the foundation for attracting qualified tal
 - The **speed of the process** also plays a major role. Long waiting times have a demotivating effect and can lead to promising talent dropping out. Efficient processes and prompt decisions are therefore essential.
 - **Transparency** is another key to a successful recruiting process. Regular updates and clear information about the next steps give your applicants orientation and show that your company is proceeding in a structured and professional manner.
 - To ensure fairness and objectivity, you should use **standardized questions and evaluation criteria**. This minimizes subjective influences and ensures that all applicants are assessed according to the same standards.
-- Finally, the recruitment process should **reflect your corporate culture**. An authentic appearance shows what your company stands for and helps you to find candidates who are a good fit not only professionally but also in terms of their personality.  
-
+- Finally, the recruitment process should **reflect your corporate culture**. An authentic appearance shows what your company stands for and helps you to find candidates who are a good fit not only professionally but also in terms of their personality.
 
 ![show-recruiting-process](Das-zeichnet-einen-guten-Recruiting-Prozess-aus.jpg)
 
@@ -122,44 +121,24 @@ Try SeaTable and experience how easy recruiting can be. [Register for free today
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-What is recruiting and why is it so important?|||
-
-Recruiting is the process by which companies attract suitable talent for open positions. In a highly competitive job market, a well thought-out recruiting process determines the success and future viability of a company.
-
----
-
-What methods are there to attract new talent?|||
-
-Companies can choose between internal and external recruiting. Internal recruiting includes measures such as employee referrals or hiring from within the company. External recruiting relies on methods such as job advertisements, social recruiting or active sourcing.
-
----
-
-What makes a successful recruiting strategy?|||
-
-A good recruiting strategy is authentic, efficient and tailored to the target group. It takes the following aspects into account:
+{{< faq "What is recruiting and why is it so important?" >}}Recruiting is the process by which companies attract suitable talent for open positions. In a highly competitive job market, a well thought-out recruiting process determines the success and future viability of a company.
+{{< /faq >}}
+{{< faq "What methods are there to attract new talent?" >}}Companies can choose between internal and external recruiting. Internal recruiting includes measures such as employee referrals or hiring from within the company. External recruiting relies on methods such as job advertisements, social recruiting or active sourcing.
+{{< /faq >}}
+{{< faq "What makes a successful recruiting strategy?" >}}A good recruiting strategy is authentic, efficient and tailored to the target group. It takes the following aspects into account:
 
 - clear and appealing job descriptions
 - Fast and transparent processes
 - focus on the candidate experience to retain talent in the long term
 - Use of modern tools such as SeaTable for structured applicant management
-
----
-
-How do I find the best talent online?|||
-
-Online recruiting offers a wide range of opportunities to reach talented people:
+  {{< /faq >}}
+  {{< faq "How do I find the best talent online?" >}}Online recruiting offers a wide range of opportunities to reach talented people:
 
 - Use social media platforms such as LinkedIn or Xing to get in touch with candidates directly.
 - Optimize your career website to make it mobile-friendly and informative.
 - Place targeted ads on job boards such as StepStone or Indeed.
 - Use creative approaches such as guerrilla marketing to generate attention.
-
----
-
-Which free tools help with recruiting?|||
-
-Tools such as SeaTable offer comprehensive solutions for the entire recruiting process. With free templates, you can manage applications centrally, organize tasks and schedule interviews. This saves you time and money without compromising on quality.
+  {{< /faq >}}
+  {{< faq "Which free tools help with recruiting?" >}}Tools such as SeaTable offer comprehensive solutions for the entire recruiting process. With free templates, you can manage applications centrally, organize tasks and schedule interviews. This saves you time and money without compromising on quality.
 
 {{< /faq >}}
