@@ -59,10 +59,6 @@ jobs:
               with:
                   container-name: hugo
                   timeout: 240
-            - name: Check hugo curl...
-              run: curl http://127.0.0.1:1313
-            - name: Check hugo curl...
-              run: curl http://hugo:1313
             - name: Check links
               run: muffet -t60 -c10 -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
 
