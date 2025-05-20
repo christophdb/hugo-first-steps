@@ -40,7 +40,6 @@ jobs:
     check-links:
         name: Check links
         runs-on: ubuntu-22.04
-        needs: create-archive
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
