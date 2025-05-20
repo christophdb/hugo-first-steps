@@ -1,0 +1,11 @@
+<div x-data="{ open: false }" class="faq-item cursor-pointer border-b border-gray-200 p-6">
+    <div class="flex items-center justify-between" @click="open = !open" :aria-expanded="open" role="button" tabindex="0">
+        <p class="font-poppins text-xl font-bold leading-normal" :class="{ 'gradient': open }">{{ .Get 0 }}</p>
+        <svg :class="{ 'rotate-180': open }" class="h-5 w-5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+    </div>
+    <div x-show="open" x-collapse x-transition class="mt-6 text-lg leading-normal">
+        {{ .Page.RenderString .Inner }}
+    </div>
+</div>

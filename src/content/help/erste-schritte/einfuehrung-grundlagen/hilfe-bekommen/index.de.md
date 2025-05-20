@@ -33,6 +33,15 @@ Neben dem Benutzerhandbuch gibt es noch weitere Quellen, mit denen Sie mehr übe
 
 ## Häufige Fragen rund um den Support
 
+{{< faq2 "Bietet SeaTable telefonischen Support?" >}}
+Telefonischen Support stellen wir für die SeaTable Cloud **nicht** zur Verfügung. Wenn Sie ein Dedicated Cloud-System gebucht haben oder eine SeaTable Server-Lizenz erworben haben, können Sie telefonischen Support von unseren Mitarbeitern dazubuchen. Mehr Informationen erhalten Sie [hier]({{< relref "pages/contact" >}}).
+
+{{< /faq2 >}}
+
+{{< faq2 "Can I add more questions?" >}}
+Absolutely! Just repeat the shortcode for each question/answer pair.
+{{< /faq2 >}}
+
 {{< faq >}} Bietet SeaTable telefonischen Support?
 
 |||
