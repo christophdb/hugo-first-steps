@@ -35,7 +35,7 @@ jobs:
                   && sudo mv pagefind /usr/local/bin/ \
                   && rm pagefind.tar.gz
             - name: Run Pagefind Indexing
-              run: pagefind --site "public" --verbose
+              run: pagefind --site "/hugo/src/public" --verbose
 
             - name: Create tar.gz archive
               run: tar -czvf archive.tar.gz public
