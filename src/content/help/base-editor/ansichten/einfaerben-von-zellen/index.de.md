@@ -80,34 +80,20 @@ Mithilfe der Option **Duplikate hervorheben** lassen sich gleiche Werte in einer
 
 ## Häufige Fragen
 
-{{< faq >}}
-
-Alle Zellen mit der gleichen Farbe füllen
-
-|||
+### Alle Zellen mit der gleichen Farbe füllen
 
 Definieren Sie dazu eine Regel, die auf alle gewünschten Zellen zutrifft. Zum Beispiel können Sie alle **gefüllten** Zellen einer Spalte einfärben, indem Sie die Bedingung **ist nicht leer** auswählen.
 
 ![Einfärben von Zellen Faq 1](images/einfaerben-von-zellen-6.png)
 
----
-
-Kurz bevorstehende Termine einfärben
-
-|||
+### Kurz bevorstehende Termine einfärben
 
 Sie haben hier zwei Möglichkeiten, die jeweiligen Zellen einer Datumsspalte einzufärben. Entweder Sie wählen die Bedingung **ist am oder nach** und ein **exaktes Datum** aus – oder Sie wählen die Option **ist innerhalb** und einen Zeitraum in der Zukunft aus.
 
 ![Einfärben von Zellen kurz bevorstehende Datum](images/einfaerben-von-zellen-7.png)
 
----
-
-Einen bestimmten Termin einfärben
-
-|||
+### Einen bestimmten Termin einfärben
 
 Wählen Sie die Option **ist gleich** aus und geben Sie das jeweilige Datum an.
 
 ![](images/einfaerben-von-zellen-8.png)
-
-{{< /faq >}}

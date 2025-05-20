@@ -64,6 +64,18 @@ Mit dem CSV-Import können Sie praktisch alle Ihre Daten in SeaTable importieren
 - Die Werte, die sich in der **ersten Zeile** einer mit CSV importierten Tabelle befinden, werden von SeaTable immer automatisch als **Spalten-Namen** verwendet und daher beim Import aus der ersten Zeile **entfernt**. Alle anderen Daten in der Tabelle werden dementsprechend **eine Zeile** nach oben verschoben.
 - Beim Import von CSV-Dateien wird die **Art der Daten** von SeaTable **nicht** automatisch erkannt. Der Spaltentyp passt sich folglich (anders als beim Excel-Import) **nicht** an die individuellen Daten an.
 
+## Welche Fehlermeldungen können bei einem gescheiterten Import der Daten erscheinen?
+
+Bei einem **gescheiterten** Daten-Import können folgende Fehlermeldungen erscheinen:
+
+![File content invalid](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
+
+Diese Fehlermeldung erscheint, wenn der Inhalt der Datei, die Sie importieren möchten, **ungültig** ist. Ein Grund für diese Fehlermeldung kann beispielsweise sein, dass die von Ihnen ausgewählte Datei **keine** CSV-Datei ist. Schauen Sie am besten nochmal unter dem **ersten Punkt** dieser **FAQs** nach, wie genau eine CSV-Datei für den Import aussehen muss.
+
+![check network](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
+
+Diese Fehlermeldung erscheint, wenn der Datei-Import aufgrund von Problemen mit der **Internetverbindung** fehlschlägt. Bitte stellen Sie sicher, dass Ihr Gerät mit dem **Internet verbunden** ist, und versuchen Sie es erneut.
+
 ## Häufig gestellte Fragen
 
 {{< faq >}}
@@ -89,32 +101,6 @@ Werden die importierten Daten einfach unter den bestehenden Zeilen eingefügt?
 |||
 
 **Ja**, die importierten Daten werden in den entsprechenden Spalten der Tabelle unter den bereits existierenden Zeilen eingefügt.
-
----
-
-Welche Erfolgsmeldung erscheint bei einem erfolgreichen Import der Daten?
-
-|||
-
-Bei einem **erfolgreichen** Daten-Import erscheint folgende Erfolgsmeldung:
-
-![success](images/Bildschirmfoto-2022-10-28-um-11.51.04.png)
-
----
-
-Welche Fehlermeldungen können bei einem gescheiterten Import der Daten erscheinen?
-
-|||
-
-Bei einem **gescheiterten** Daten-Import können folgende Fehlermeldungen erscheinen:
-
-![File content invalid](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
-
-Diese Fehlermeldung erscheint, wenn der Inhalt der Datei, die Sie importieren möchten, **ungültig** ist. Ein Grund für diese Fehlermeldung kann beispielsweise sein, dass die von Ihnen ausgewählte Datei **keine** CSV-Datei ist. Schauen Sie am besten nochmal unter dem **ersten Punkt** dieser **FAQs** nach, wie genau eine CSV-Datei für den Import aussehen muss.
-
-![check network](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
-
-Diese Fehlermeldung erscheint, wenn der Datei-Import aufgrund von Problemen mit der **Internetverbindung** fehlschlägt. Bitte stellen Sie sicher, dass Ihr Gerät mit dem **Internet verbunden** ist, und versuchen Sie es erneut.
 
 {{< /faq >}}
 

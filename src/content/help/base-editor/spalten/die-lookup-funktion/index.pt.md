@@ -66,6 +66,4 @@ As entradas que são consultadas por pesquisa podem ser filtradas?|||
 
 Sim, pode filtrar as entradas como desejar. Para o fazer, active o correspondente **Controlador** no _Configuração das colunas_ e seleccione o **Coluna(s)** cujas entradas devem ser consultadas. Pode seleccionar qualquer número de **Condições de filtragem** definir.
 
-![Filtragem de entradas a serem procuradas por Look-Up](images/filter-entries-to-look-up.jpg)
-
 {{< /faq >}}

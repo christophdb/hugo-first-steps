@@ -64,6 +64,18 @@ L'importation CSV vous permet d'importer pratiquement toutes vos données dans S
 - Les valeurs qui se trouvent dans la **première ligne** d'un tableau importé avec CSV sont toujours utilisées automatiquement par SeaTable comme **noms de colonne** et sont donc **supprimées** de la première ligne lors de l'importation. Toutes les autres données du tableau sont donc déplacées **d'une ligne** vers le haut.
 - Lors de l'importation de fichiers CSV, SeaTable ne reconnaît **pas** automatiquement le **type de données**. Par conséquent, le type de colonne ne s'adapte **pas** aux données individuelles (contrairement à l'importation dans Excel).
 
+## Quels messages d'erreur peuvent apparaître en cas d'échec de l'importation des données ?
+
+En cas d'**échec de** l'importation de données, les messages d'erreur suivants peuvent apparaître :
+
+![Contenu de fichier invalide](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
+
+Ce message d'erreur apparaît si le contenu du fichier que vous souhaitez importer n **'est pas valide**. La raison de ce message d'erreur peut être, par exemple, que le fichier que vous avez sélectionné n'est **pas** un fichier CSV. Consultez le **premier point** de cette **FAQ** pour savoir exactement à quoi doit ressembler un fichier CSV pour l'importation.
+
+![check network](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
+
+Ce message d'erreur apparaît lorsque l'importation de fichiers échoue en raison de problèmes de **connexion à Internet**. Veuillez vous assurer que votre appareil est **connecté à Internet** et réessayer.
+
 ## Questions fréquemment posées
 
 {{< faq >}}
@@ -83,28 +95,6 @@ Les données existantes sont-elles remplacées lors de l'importation ?|||
 Les données importées sont-elles simplement insérées sous les lignes existantes ?|||
 
 **Oui**, les données importées seront insérées dans les colonnes correspondantes du tableau, sous les lignes déjà existantes.
-
----
-
-Quel message de réussite apparaît lorsque l'importation des données est réussie ?|||
-
-Si l'importation des données **est réussie**, le message de réussite suivant apparaît :
-
-![succès](images/Bildschirmfoto-2022-10-28-um-11.51.04.png)
-
----
-
-Quels messages d'erreur peuvent apparaître en cas d'échec de l'importation des données ?|||
-
-En cas d'**échec de** l'importation de données, les messages d'erreur suivants peuvent apparaître :
-
-![Contenu de fichier invalide](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
-
-Ce message d'erreur apparaît si le contenu du fichier que vous souhaitez importer n **'est pas valide**. La raison de ce message d'erreur peut être, par exemple, que le fichier que vous avez sélectionné n'est **pas** un fichier CSV. Consultez le **premier point** de cette **FAQ** pour savoir exactement à quoi doit ressembler un fichier CSV pour l'importation.
-
-![check network](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
-
-Ce message d'erreur apparaît lorsque l'importation de fichiers échoue en raison de problèmes de **connexion à Internet**. Veuillez vous assurer que votre appareil est **connecté à Internet** et réessayer.
 
 {{< /faq >}}
 

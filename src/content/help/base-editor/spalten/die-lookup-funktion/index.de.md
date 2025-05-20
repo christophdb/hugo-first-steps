@@ -72,6 +72,4 @@ Können Einträge, die per Lookup nachgeschlagen werden, gefiltert werden?
 
 Ja, Sie können die Einträge beliebig filtern. Aktivieren Sie dazu den entsprechenden **Regler** in den _Spalten-Einstellungen_ und wählen Sie die **Spalte(n)** aus, deren Einträge nachgeschlagen werden sollen. Sie können dabei beliebig viele **Filter-Bedingungen** definieren.
 
-![Filtern von Einträgen, die per Look-Up nachgeschlagen werden sollen](images/filter-entries-to-look-up.jpg)
-
 {{< /faq >}}

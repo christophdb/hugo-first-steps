@@ -55,7 +55,7 @@ Sin embargo, los límites de la API no deberían impedirle suscribirse. Porque h
 - Utilice una vista separada para el Zap en la que oculte las columnas innecesarias de imagen, archivo y firma.
 - Compruebe si hay consultas innecesarias.
 
-Con estas medidas, no debería tener dificultades para mantenerse por debajo del límite de ejecución de 5.000 consultas al día. Si incluso este límite ya no es suficiente, puede considerar la posibilidad de ejecutar su propio [servidor SeaTable](https://seatable.io/es/on-premises/) o [reservar](/es/dedicated/) un [sistema dedicado](/es/dedicated/) en el que podrá aumentar los límites de la API en consecuencia.
+Con estas medidas, no debería tener dificultades para mantenerse por debajo del límite de ejecución de 5.000 consultas al día. Si incluso este límite ya no es suficiente, puede considerar la posibilidad de ejecutar su propio [servidor SeaTable]({{< relref "pages/product/seatable-server" >}}) o reservar un [sistema dedicado]({{< relref "pages/product/seatable-dedicated" >}}) en el que podrá aumentar los límites de la API en consecuencia.
 
 ## 5\. beneficiarse de solicitudes API completamente individuales
 

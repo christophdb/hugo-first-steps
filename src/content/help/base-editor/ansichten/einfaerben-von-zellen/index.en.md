@@ -81,28 +81,20 @@ Using the **Highlight Duplicates** option, you can quickly find identical values
 
 ## Frequently asked questions
 
-{{< faq >}}
-
-Fill all cells with the same color|||
+### Fill all cells with the same color
 
 To do this, define a rule that applies to all the desired cells. For example, you can color all **filled** cells of a column by selecting the condition **is not empty.**
 
 ![Coloring cells Faq 1](images/einfaerben-von-zellen-6.png)
 
----
-
-Colorize upcoming appointments|||
+### Colorize upcoming appointments
 
 Here you have two options to color the respective cells of a date column. Either you select the condition **is on or after** and an **exact date** - or you select the option **is within** and a period in the future.
 
 ![Coloring cells shortly upcoming date](images/einfaerben-von-zellen-7.png)
 
----
-
-Color a specific date|||
+### Color a specific date
 
 Select the option **is equal to** and specify the respective date.
 
 ![](images/einfaerben-von-zellen-8.png)
-
-{{< /faq >}}

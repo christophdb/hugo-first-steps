@@ -81,28 +81,20 @@ L'option **Mettre en évidence les doublons** permet de trouver rapidement les v
 
 ## Questions fréquentes
 
-{{< faq >}}
-
-Remplir toutes les cellules avec la même couleur|||
+### Remplir toutes les cellules avec la même couleur
 
 Pour ce faire, définissez une règle qui s'applique à toutes les cellules souhaitées. Par exemple, vous pouvez colorer toutes les cellules **remplies** d'une colonne en sélectionnant la condition **est non vide**.
 
 ![Coloration des cellules Faq 1](images/einfaerben-von-zellen-6.png)
 
----
-
-Colorer les rendez-vous à venir|||
+### Colorer les rendez-vous à venir
 
 Vous avez ici deux possibilités pour colorer les cellules respectives d'une colonne de date. Soit vous choisissez la condition **est le ou après** et une **date exacte** - soit vous choisissez l'option **est dans** et une période dans le futur.
 
 ![Colorer les cellules à l'approche d'une date](images/einfaerben-von-zellen-7.png)
 
----
-
-Colorer une date spécifique|||
+### Colorer une date spécifique
 
 Sélectionnez l'option **est identique** et indiquez la date correspondante.
 
 ![](images/einfaerben-von-zellen-8.png)
-
-{{< /faq >}}

@@ -55,7 +55,7 @@ However, the API limits should not prevent you from subscribing to it. Because t
 - Use a custom view for the Zap where you hide unneeded image, file, and signature columns.
 - Check your zaps for unnecessary queries.
 
-With these measures, you should have no trouble staying under the execution limit of 5,000 queries per day. If even this limit is not enough anymore, you can consider running your own [SeaTable server](https://seatable.io/en/on-premises/) or [booking](/en/dedicated/) a [dedicated system](/en/dedicated/), where you can then increase the API limits accordingly.
+With these measures, you should have no trouble staying under the execution limit of 5,000 queries per day. If even this limit is not enough anymore, you can consider running your own [SeaTable server]({{< relref "pages/product/seatable-server" >}}) or booking a a [dedicated system]({{< relref "pages/product/seatable-dedicated" >}}), where you can then increase the API limits accordingly.
 
 ## 5\. benefit from completely individual API requests
 

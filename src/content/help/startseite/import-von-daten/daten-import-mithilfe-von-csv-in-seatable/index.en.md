@@ -64,6 +64,18 @@ With the CSV import you can import virtually all your data into SeaTable. Here a
 - The values that are in the **first row** of a table imported with CSV are always automatically used by SeaTable as **column names** and therefore**removed from** the first row during import. All other data in the table will be moved up **one row** accordingly.
 - When importing CSV files, the **type of data** is **not** automatically detected by SeaTable. Consequently, the column type does **not** adapt to the individual data (unlike the Excel import).
 
+## What error messages may appear if the data import fails?
+
+In case of a **failed** data import, the following error messages may appear:
+
+![File content invalid](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
+
+This error message appears when the content of the file you want to import is **invalid**. One reason for this error message may be, for example, that the file you have selected is **not a** CSV file. It is best to look up again under the **first point of** this **FAQ**, how exactly a CSV file must look like for the import.
+
+![check network](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
+
+This error message appears when the file import fails due to **internet connection** problems. Please make sure your device is **connected to the Internet** and try again.
+
 ## Frequently asked questions
 
 {{< faq >}}
@@ -83,28 +95,6 @@ Will existing data be replaced during import?|||
 Will the imported data simply be inserted under the existing rows ?|||
 
 **Yes**, the imported data will be inserted in the corresponding columns of the table under the already existing rows .
-
----
-
-What success message appears when the data is imported successfully?|||
-
-If the data import is **successful**, the following success message appears:
-
-![success](images/Bildschirmfoto-2022-10-28-um-11.51.04.png)
-
----
-
-What error messages may appear if the data import fails?|||
-
-In case of a **failed** data import, the following error messages may appear:
-
-![File content invalid](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
-
-This error message appears when the content of the file you want to import is **invalid**. One reason for this error message may be, for example, that the file you have selected is **not a** CSV file. It is best to look up again under the **first point of** this **FAQ**, how exactly a CSV file must look like for the import.
-
-![check network](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
-
-This error message appears when the file import fails due to **internet connection** problems. Please make sure your device is **connected to the Internet** and try again.
 
 {{< /faq >}}
 

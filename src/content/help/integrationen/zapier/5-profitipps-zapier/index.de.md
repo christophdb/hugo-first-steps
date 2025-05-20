@@ -55,7 +55,7 @@ Die API-Limits sollten Sie jedoch nicht davon abhalten, ein entsprechendes Abo a
 - Verwenden Sie eine eigene Ansicht für den Zap, bei dem Sie nicht benötigte Bild-, Datei- und Signature-Spalten ausblenden.
 - Überprüfen Sie Ihre Zaps auf unnötige Abfragen.
 
-Mit diesen Maßnahmen sollten Sie keine Schwierigkeiten haben unter dem Ausführungslimit von 5.000 Abfragen pro Tag zu bleiben. Wenn selbst dieses Limit nicht mehr reicht, können Sie überlegen einen eigenen [SeaTable Server](https://seatable.io/on-premises/) zu betreiben oder ein [Dedicated System zu buchen](/dedicated/), bei dem Sie dann die API-Limits entsprechend erhöhen können.
+Mit diesen Maßnahmen sollten Sie keine Schwierigkeiten haben unter dem Ausführungslimit von 5.000 Abfragen pro Tag zu bleiben. Wenn selbst dieses Limit nicht mehr reicht, können Sie überlegen einen eigenen [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) zu betreiben oder ein [Dedicated System zu buchen]({{< relref "pages/product/seatable-dedicated" >}}), bei dem Sie dann die API-Limits entsprechend erhöhen können.
 
 ## 5\. Profitieren Sie von ganz individuellen API-Requests
 

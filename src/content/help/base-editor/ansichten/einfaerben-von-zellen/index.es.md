@@ -81,28 +81,20 @@ Con la ayuda de la opción **Resaltar duplicados**, se pueden encontrar rápidam
 
 ## Preguntas frecuentes
 
-{{< faq >}}
-
-Rellenar todas las celdas con el mismo color|||
+### Rellenar todas las celdas con el mismo color
 
 Para ello, defina una regla que se aplique a todas las celdas deseadas. Por ejemplo, puede colorear todas las celdas **rellenas** de una columna seleccionando la condición **no está vacía**.
 
 ![Células de coloración Faq 1](images/einfaerben-von-zellen-6.png)
 
----
-
-Color en las próximas citas|||
+### Color en las próximas citas
 
 Aquí tiene dos opciones para colorear las celdas respectivas de una columna de fecha. O bien selecciona la condición es **en o después** y una **fecha exacta** - o bien selecciona la opción **es dentro** y un periodo en el futuro.
 
 ![Colorear las celdas poco antes de una cita](images/einfaerben-von-zellen-7.png)
 
----
-
-Colorear una fecha específica|||
+### Colorear una fecha específica
 
 Seleccione la opción **es igual a** e introduzca la fecha correspondiente.
 
 ![](images/einfaerben-von-zellen-8.png)
-
-{{< /faq >}}

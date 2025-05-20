@@ -66,6 +66,4 @@ Cada fórmula de búsqueda sólo puede obtener información de **una** columna d
 
 Sí, puede filtrar las entradas como desee. Para ello, active el correspondiente **Controlador** en el _Ajustes de columna_ y seleccione el **Columna(s)** cuyas entradas deben consultarse. Puede seleccionar cualquier número de **Condiciones de filtrado** definir.
 
-![Filtrado de las entradas que deben buscarse por Búsqueda](images/filter-entries-to-look-up.jpg)
-
 {{< /faq >}}

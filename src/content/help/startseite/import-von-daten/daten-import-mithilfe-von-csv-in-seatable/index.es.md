@@ -64,6 +64,18 @@ Con la importación CSV puede importar prácticamente todos sus datos a SeaTable
 - Los valores que se encuentran en la **primera fila** de una tabla importada con CSV siempre son utilizados automáticamente por SeaTable como **nombres de columna** y, por lo tanto, se **eliminan de** la primera fila durante la importación. Todos los demás datos de la tabla se desplazarán **una fila** hacia arriba en consecuencia.
 - Al importar archivos CSV, SeaTable **no** reconoce automáticamente el **tipo de datos**. En consecuencia, el tipo de columna **no** se adapta a los datos individuales (a diferencia de lo que ocurre con la importación de Excel).
 
+## ¿Qué mensajes de error pueden aparecer si falla la importación de los datos?
+
+Si la importación de datos **falla,** pueden aparecer los siguientes mensajes de error:
+
+![El contenido del archivo no es válido](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
+
+Este mensaje de error aparece si el contenido del archivo que desea importar **no es válido**. Uno de los motivos de este mensaje de error puede ser, por ejemplo, que el archivo seleccionado **no sea un** archivo CSV. Lo mejor es consultar de nuevo en el **primer punto de** estas **FAQ** cómo debe ser exactamente un archivo CSV para la importación.
+
+![comprobar la red](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
+
+Este mensaje de error aparece cuando la importación de archivos falla debido a problemas con la **conexión a Internet**. Asegúrate de que tu dispositivo está conectado **a Internet** e inténtalo de nuevo.
+
 ## Preguntas frecuentes
 
 {{< faq >}}
@@ -83,28 +95,6 @@ El archivo CSV debe estar formateado según [la norma UTF-8](https://de.wikipedi
 ¿Los datos importados se insertan simplemente bajo las filas existentes?|||
 
 **Sí**, los datos importados se insertarán en las columnas correspondientes de la tabla bajo las filas ya existentes.
-
----
-
-¿Qué mensaje de éxito aparece cuando los datos se importan correctamente?|||
-
-Si la importación de datos se realiza **correctamente**, aparece el siguiente mensaje de éxito:
-
-![éxito](images/Bildschirmfoto-2022-10-28-um-11.51.04.png)
-
----
-
-¿Qué mensajes de error pueden aparecer si falla la importación de los datos?|||
-
-Si la importación de datos **falla,** pueden aparecer los siguientes mensajes de error:
-
-![El contenido del archivo no es válido](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
-
-Este mensaje de error aparece si el contenido del archivo que desea importar **no es válido**. Uno de los motivos de este mensaje de error puede ser, por ejemplo, que el archivo seleccionado **no sea un** archivo CSV. Lo mejor es consultar de nuevo en el **primer punto de** estas **FAQ** cómo debe ser exactamente un archivo CSV para la importación.
-
-![comprobar la red](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
-
-Este mensaje de error aparece cuando la importación de archivos falla debido a problemas con la **conexión a Internet**. Asegúrate de que tu dispositivo está conectado **a Internet** e inténtalo de nuevo.
 
 {{< /faq >}}
 

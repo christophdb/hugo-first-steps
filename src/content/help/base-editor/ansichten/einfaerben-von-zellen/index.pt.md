@@ -81,28 +81,20 @@ Com a ajuda da opção de **Duplicatas em Destaque**, valores idênticos numa co
 
 ## Perguntas mais frequentes
 
-{{< faq >}}
-
-Preencher todas as células com a mesma cor|||
+### Preencher todas as células com a mesma cor
 
 Para o fazer, definir uma regra que se aplique a todas as células desejadas. Por exemplo, é possível colorir todas as células **preenchidas** numa coluna, seleccionando a condição **não está vazia**.
 
 ![Células de coloração Faq 1](images/einfaerben-von-zellen-6.png)
 
----
-
-Cor nas próximas nomeações|||
+### Cor nas próximas nomeações
 
 Tem aqui duas opções para colorir as respectivas células de uma coluna de datas. Ou selecciona a condição **em ou depois** e uma **data exacta** - ou selecciona a opção **dentro de um** prazo e um período no futuro.
 
 ![Coloração de células pouco antes de uma data](images/einfaerben-von-zellen-7.png)
 
----
-
-Colorir uma data específica|||
+### Colorir uma data específica
 
 Seleccionar a opção **é igual a** e introduzir a respectiva data.
 
 ![](images/einfaerben-von-zellen-8.png)
-
-{{< /faq >}}

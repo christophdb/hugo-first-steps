@@ -64,6 +64,18 @@ Com a importação do CSV pode importar praticamente todos os seus dados para o 
 - Os valores que estão na **primeira linha** de uma tabela importada com CSV são sempre utilizados automaticamente pela SeaTable como **nomes de colunas** e são por isso **removidos da** primeira linha durante a importação. Todos os outros dados da tabela serão movidos para **uma linha** superior em conformidade.
 - Ao importar ficheiros CSV, o **tipo de dados** **não** é automaticamente reconhecido pelo SeaTable. Consequentemente, o tipo de coluna **não** se adapta aos dados individuais (ao contrário do que acontece com a importação do Excel).
 
+## Que mensagens de erro podem aparecer se a importação dos dados falhar?
+
+Se a importação de dados **falhar,** podem aparecer as seguintes mensagens de erro:
+
+![Conteúdo do ficheiro inválido](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
+
+Esta mensagem de erro aparece se o conteúdo do ficheiro que se pretende importar for **inválido**. Uma razão para esta mensagem de erro pode ser, por exemplo, que o ficheiro que seleccionou **não** é **um** ficheiro CSV. É melhor procurar novamente no **primeiro ponto** destas **FAQ** o que deve ser exactamente um ficheiro CSV para a importação.
+
+![rede de verificação](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
+
+Esta mensagem de erro aparece quando a importação do ficheiro falha devido a problemas com a **ligação à Internet**. Certifique-se de que o seu dispositivo está **ligado à Internet** e tente novamente.
+
 ## Perguntas mais frequentes
 
 {{< faq >}}
@@ -83,28 +95,6 @@ Será que os dados existentes serão substituídos durante a importação?|||
 Os dados importados são simplesmente inseridos sob as linhas existentes?|||
 
 **Sim**, os dados importados serão inseridos nas colunas correspondentes do quadro sob as linhas já existentes.
-
----
-
-Que mensagem de sucesso aparece quando os dados são importados com sucesso?|||
-
-Se a importação de dados for **bem sucedida**, aparece a seguinte mensagem de sucesso:
-
-![sucesso](images/Bildschirmfoto-2022-10-28-um-11.51.04.png)
-
----
-
-Que mensagens de erro podem aparecer se a importação dos dados falhar?|||
-
-Se a importação de dados **falhar,** podem aparecer as seguintes mensagens de erro:
-
-![Conteúdo do ficheiro inválido](images/Bildschirmfoto-2022-10-28-um-11.39.36.png)
-
-Esta mensagem de erro aparece se o conteúdo do ficheiro que se pretende importar for **inválido**. Uma razão para esta mensagem de erro pode ser, por exemplo, que o ficheiro que seleccionou **não** é **um** ficheiro CSV. É melhor procurar novamente no **primeiro ponto** destas **FAQ** o que deve ser exactamente um ficheiro CSV para a importação.
-
-![rede de verificação](images/Bildschirmfoto-2022-10-28-um-11.44.06.png)
-
-Esta mensagem de erro aparece quando a importação do ficheiro falha devido a problemas com a **ligação à Internet**. Certifique-se de que o seu dispositivo está **ligado à Internet** e tente novamente.
 
 {{< /faq >}}
 
