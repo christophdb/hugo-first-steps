@@ -12,7 +12,7 @@ Los usuarios de SeaTable tienen diferentes formas de obtener soporte o ayuda con
 
 ### Ayuda para usuarios de SeaTable Free
 
-Debería poder responder a la mayoría de las preguntas que surgen en torno al uso de SeaTable con nuestro [manual de usuario](/es/docs/). Utilice la función de búsqueda y busque su problema específico. El manual de usuario contiene actualmente casi 350 artículos de ayuda, por lo que hay muchas posibilidades de que pueda responder a su pregunta aquí.
+Debería poder responder a la mayoría de las preguntas que surgen en torno al uso de SeaTable con nuestro manual de usuario. Utilice la función de búsqueda y busque su problema específico. El manual de usuario contiene actualmente casi 350 artículos de ayuda, por lo que hay muchas posibilidades de que pueda responder a su pregunta aquí.
 
 Si no encuentra lo que busca en el manual de usuario, puede publicar su pregunta en el [foro de la comunidad SeaTable](https://forum.seatable.io). Describa su situación actual, qué problema tiene y qué ha hecho para resolverlo. Además de la activa comunidad, el personal de SeaTable también consulta regularmente el foro para responder a las preguntas abiertas.
 
@@ -27,7 +27,7 @@ Los clientes con una suscripción de pago Plus o Enterprise también tienen la o
 
 Además del manual de usuario, hay otras fuentes que puede utilizar para aprender más sobre las funciones y posibles usos de SeaTable.
 
-- En el [Blog de SeaTable](/es/blog) publicamos regularmente artículos y ayuda sobre cómo utilizar SeaTable de forma más eficiente. No dude en echar un vistazo a los distintos artículos.
+- En el [Blog de SeaTable]({{ relref "posts" }}) publicamos regularmente artículos y ayuda sobre cómo utilizar SeaTable de forma más eficiente. No dude en echar un vistazo a los distintos artículos.
 - Nuestro [canal de YouTube](https://youtube.com/seatable) le ofrece una variedad de vídeos que tanto le facilitarán la introducción a SeaTable como le servirán para convertirse en un experto en SeaTable. Seguro que encuentra el vídeo adecuado para usted.
 - También publicamos regularmente pequeños tutoriales para problemas típicos en nuestro foro [de la comunidad](https://forum.seatable.io). Busca en el foro el término **tutorial** y encontrarás varias pequeñas ayudas.
 

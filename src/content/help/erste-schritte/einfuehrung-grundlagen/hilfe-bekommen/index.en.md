@@ -12,7 +12,7 @@ SeaTable users have different ways to get support or help with questions or prob
 
 ### Help for SeaTable Free users
 
-You should be able to answer most questions that arise around the use of SeaTable with our [user manual](/en/docs/). Use the search function and look for your specific problem. The user guide currently has almost 350 help articles, so there is a good chance that you will be able to answer your question here.
+You should be able to answer most questions that arise around the use of SeaTable with our user manual. Use the search function and look for your specific problem. The user guide currently has almost 350 help articles, so there is a good chance that you will be able to answer your question here.
 
 If you do not find what you are looking for in the user manual, you can post your question in [SeaTable's community forum](https://forum.seatable.io). Describe your current situation, what problem you have and what you have already done to solve the problem. In addition to the active community, SeaTable employees also regularly check the forum to answer open questions.
 
@@ -27,7 +27,7 @@ Customers with a paid Plus or Enterprise subscription also have the option to op
 
 Besides the user manual, there are other sources that you can use to learn more about SeaTable's features and uses.
 
-- In the [SeaTable Blog](/en/blog) we regularly publish articles and help on how to use SeaTable more efficiently. Feel free to browse through the various articles.
+- In the [SeaTable Blog]({{ relref "posts" }}) we regularly publish articles and help on how to use SeaTable more efficiently. Feel free to browse through the various articles.
 - Our [YouTube channel](https://youtube.com/seatable) offers you a variety of videos that will help you get started with SeaTable as well as help you become a SeaTable expert yourself. You are sure to find the right video for you.
 - We also regularly publish small tutorials for typical problems in our [community forum](https://forum.seatable.io). Search the forum for the term **tutorial** and you will find various small help.
 
