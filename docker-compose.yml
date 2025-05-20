@@ -11,3 +11,9 @@ services:
             - 127.0.0.1:1313:1313
         volumes:
             - ${PWD}:/hugo
+        healthcheck:
+            test: ['CMD', 'curl', '-f', 'http://localhost:1313']
+            interval: 10s
+            timeout: 5s
+            retries: 5
+            start_period: 10s

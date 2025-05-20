@@ -50,10 +50,15 @@ jobs:
                   echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
             - name: Install muffet
               run: go install github.com/raviqqe/muffet/v2@${MUFFET_VERSION}
-            - name: Download wait-for-it.sh
-              run: curl -fsSL -o wait-for-it.sh https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh
-            - name: Wait for Hugo to be ready
-              run: bash wait-for-it.sh localhost:1313 -t 120
+            #- name: Download wait-for-it.sh
+            #  run: curl -fsSL -o wait-for-it.sh https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh
+            #- name: Wait for Hugo to be ready
+            #  run: bash wait-for-it.sh localhost:1313 -t 120
+            - name: 'Wait until the container is healthy'
+              uses: raschmitt/wait-for-healthy-container/@master
+              with:
+                  container-name: hugo
+                  timeout: 240
             - name: Check links
               run: muffet -t5 -c100 -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
 
