@@ -35,7 +35,8 @@ jobs:
                   && sudo mv pagefind /usr/local/bin/ \
                   && rm pagefind.tar.gz
             - name: Run Pagefind Indexing
-              run: pagefind --site "/hugo/src/public" --verbose
+              run: pagefind --site "public" --verbose
+              working-directory: src
 
             - name: Create tar.gz archive
               run: tar -czvf archive.tar.gz public
@@ -51,6 +52,7 @@ jobs:
     check-links:
         name: Check links
         runs-on: ubuntu-22.04
+        needs: create-archive
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
@@ -65,7 +67,7 @@ jobs:
             - name: Install muffet
               run: go install github.com/raviqqe/muffet/v2@${MUFFET_VERSION}
             - name: Check links
-              run: muffet -t60 -c10 -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
+              run: muffet -t5 -c100 -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
 
     deploy:
         name: Deploy
