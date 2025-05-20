@@ -16,19 +16,17 @@ Meal Prep est l'abréviation de **Meal Pre**paration, ce qui signifie en frança
 
 Différents plats sont préparés à partir de quelques ingrédients.
 
-{{< faq >}}
-
-D'où vient la tendance Meal Prep ?|||
+{{< faq "D'où vient la tendance Meal Prep ?" >}}
 
 Comme beaucoup de tendances alimentaires, l'engouement pour le meal prepping vient des États-Unis. Là-bas, le Meal Prep a surtout été utilisé par les amateurs de fitness, mais il a rapidement trouvé des applications dans tous les domaines de la vie.
 {{< /faq >}}
 
-À qui s'adresse Meal Prep ?|||
+{{< faq "À qui s'adresse Meal Prep ?" >}}
 
 Il vaut la peine d'essayer Meal Prep, en particulier pour les personnes qui ne trouvent pas le temps de cuisiner un repas maison dans leur vie quotidienne. Cela aide également à respecter les résolutions alimentaires et à renforcer l'autodiscipline. Bien sûr, il faut un peu de courage et suffisamment de motivation pour se lancer dans cette nouvelle façon de cuisiner, mais au final, cela peut rendre l'alimentation plus efficace, plus saine et moins chère.
 {{< /faq >}}
 
-Pour combien de jours peut-on précuire des plats ?|||
+{{< faq "Pour combien de jours peut-on précuire des plats ?" >}}
 
 Il y a deux façons de faire de la Meal Prep. Soit vous cuisinez **deux fois plus**, de sorte que le repas suffise pour le lendemain, soit vous allez un peu plus loin, vous prenez le temps de **précuire les différents ingrédients** et vous pouvez ensuite les combiner à votre guise les jours suivants.
 {{< /faq >}}

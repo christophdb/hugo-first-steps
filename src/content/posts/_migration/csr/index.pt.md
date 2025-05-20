@@ -63,7 +63,7 @@ No entanto, também pode encontrar alguns desafios no seu caminho para se tornar
 
 Os objectivos de sustentabilidade podem ser **longos** e podem ser desmotivadores se os progressos forem lentos. O envolvimento em actividades caritativas também pode significar um **esforço adicional**.
 
-{{< warning headline="Não fazer greenwashing" text="Evite a todo o custo **o "greenwashing**", uma vez que isso pode levar a uma perda de credibilidade e prejudicar significativamente a sua reputação. Por conseguinte, mantenha-se sempre honesto e transparente nos seus esforços e não apresente a sua empresa como mais sustentável do que realmente é." />}}
+{{< warning headline="Não fazer greenwashing" text="Evite a todo o custo **o greenwashing**, uma vez que isso pode levar a uma perda de credibilidade e prejudicar significativamente a sua reputação. Por conseguinte, mantenha-se sempre honesto e transparente nos seus esforços e não apresente a sua empresa como mais sustentável do que realmente é." />}}
 
 ## Exemplos de medidas adequadas
 

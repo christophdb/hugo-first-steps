@@ -22,7 +22,11 @@ En outre, nous avons amélioré les performances de certaines [actions](https://
 
 ![Nouvelles options pour les automatisations](images/New-options-for-automation.png)
 
-{{< warning headline="Limite d'exécution plus élevée pour les automatisations" text="Chaque automation est soumise à une [limite d'exécution](https://seatable.io/fr/docs/automationen/ausfuehrungslimit-bei-automationen/) qui définit la fréquence maximale d'exécution des automations. Une telle limite est nécessaire pour garantir une bonne expérience utilisateur à tous les utilisateurs de SeaTable Cloud. Jusqu'à présent, SeaTable Cloud fixait une limite de 10 exécutions par minute pour chaque automation. Cette limite a été portée à **50 exécutions par minute** lors du changement de version. Cette nouvelle limite ne devrait pas constituer une restriction importante pour de nombreux cas d'application. Il en va autrement pour les automatismes avec le type d'événement "Entrées ajoutées". Là aussi, la limite augmentée peut intervenir rapidement. Par exemple, si vous copiez des lignes d'un tableau Excel et les collez dans SeaTable, la limite limitera l'exécution aux 50 premières lignes collées." />}}
+{{< warning headline="Limite d'exécution plus élevée pour les automatisations" >}}
+
+Chaque automation est soumise à une [limite d'exécution](https://seatable.io/fr/docs/automationen/ausfuehrungslimit-bei-automationen/) qui définit la fréquence maximale d'exécution des automations. Une telle limite est nécessaire pour garantir une bonne expérience utilisateur à tous les utilisateurs de SeaTable Cloud. Jusqu'à présent, SeaTable Cloud fixait une limite de 10 exécutions par minute pour chaque automation. Cette limite a été portée à **50 exécutions par minute** lors du changement de version. Cette nouvelle limite ne devrait pas constituer une restriction importante pour de nombreux cas d'application. Il en va autrement pour les automatismes avec le type d'événement **Entrées ajoutées**. Là aussi, la limite augmentée peut intervenir rapidement. Par exemple, si vous copiez des lignes d'un tableau Excel et les collez dans SeaTable, la limite limitera l'exécution aux 50 premières lignes collées.
+
+{{< /warning >}}
 
 ## Corbeille et fonction de recherche dans la gestion des fichiers
 

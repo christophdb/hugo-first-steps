@@ -94,24 +94,22 @@ O SeaTable oferece-lhe uma gestão clara e intuitiva da sua frota e dos pedidos 
 
 ## FAQ
 
-{{< faq >}}
-
-O que é uma frota de veículos?|||
+{{< faq "O que é uma frota de veículos?" >}}
 
 Uma frota de veículos refere-se a todos os veículos que pertencem à sua empresa.
 {{< /faq >}}
 
-O que é a gestão de frotas?|||
+{{< faq "O que é a gestão de frotas?" >}}
 
 A gestão de frotas refere-se a todos os processos relacionados com a sua frota de veículos.
 {{< /faq >}}
 
-O que envolve a gestão de frotas?|||
+{{< faq "O que envolve a gestão de frotas?" >}}
 
 A gestão de frotas começa com **uma avaliação do** número de veículos **de que** a sua empresa **necessita** e, em seguida, esclarece o **financiamento, a compra ou a venda dos** veículos. Deve assegurar a **gestão** cuidadosa **dos documentos dos veículos** (documentos de registo dos veículos, contratos de compra e venda, apólices de seguro, etc.) e o **armazenamento, em conformidade com o RGPD, dos dados dos condutores** (por exemplo, dados de movimento, recibos de combustível, cartas de condução). A atividade diária envolve a **reserva, a entrega e o planeamento do itinerário**, bem como eventuais **reparações e inspecções**.
 {{< /faq >}}
 
-Quanto custa a gestão de frotas?|||
+{{< faq "Quanto custa a gestão de frotas?" >}}
 
 Esta questão depende da dimensão da sua frota de veículos e, por conseguinte, não pode ser respondida em termos gerais. No entanto, deve estar ciente de que terá de se encarregar pessoalmente de toda a gestão da frota se **comprar** veículos. Em caso de **locação financeira**, as empresas de aluguer de automóveis podem assumir serviços completos, como seguros e inspecções, se assim o desejar.
 

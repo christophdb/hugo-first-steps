@@ -130,44 +130,42 @@ Wägen Sie die beiden Seiten gegeneinander ab.
 
 Möchten Sie in Ihrem Unternehmen ein erfolgreiches Wissensmanagement aufbauen, kommen Sie an einem **Wissensmanagementsystem** in Form einer Software kaum vorbei. Dabei ist die Auswahl an passenden **Softwarelösungen** groß. Je nach Ihren Anforderungen gibt es eine enorme Bandbreite an Systemen mit unterschiedlichem Fokus:
 
-{{< faq >}}
-
-Wikis und Informationsmanagementsysteme|||
+{{< faq "Wikis und Informationsmanagementsysteme" >}}
 
 Beispiele: Confluence, Guru
 {{< /faq >}}
 
-Groupware und Kollaborationssysteme|||
+{{< faq "Groupware und Kollaborationssysteme" >}}
 
 Beispiele: BSCW, Microsoft SharePoint
 {{< /faq >}}
 
-Instant Messenger und Kommunikationssysteme|||
+{{< faq "Instant Messenger und Kommunikationssysteme" >}}
 
 Beispiele: Slack, Microsoft Teams
 {{< /faq >}}
 
-Dokumentenmanagement- und Dateiaustauschsysteme|||
+{{< faq "Dokumentenmanagement- und Dateiaustauschsysteme" >}}
 
 Beispiele: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
 {{< /faq >}}
 
-Customer-Relationship-Management-Systeme|||
+{{< faq "Customer-Relationship-Management-Systeme" >}}
 
 Beispiele: Pipedrive, Salesforce
 {{< /faq >}}
 
-Projektmanagementsysteme|||
+{{< faq "Projektmanagementsysteme" >}}
 
 Beispiele: Asana, Jira
 {{< /faq >}}
 
-HR- und Personalmanagementsysteme|||
+{{< faq "HR- und Personalmanagementsysteme" >}}
 
 Beispiele: Personio, DATEV
 {{< /faq >}}
 
-Contentmanagementsysteme|||
+{{< faq "Contentmanagementsysteme" >}}
 
 Beispiele: WordPress, TYPO3
 

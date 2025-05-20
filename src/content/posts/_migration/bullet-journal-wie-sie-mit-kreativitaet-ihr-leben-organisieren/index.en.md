@@ -53,15 +53,18 @@ The basic structure of your bullet journal consists of three parts. The **index*
 
 This is followed by the **key**. This is a kind of legend. The symbols and their meaning are recorded there. This technique is called **rapid logging**.
 
-{{< warning headline="This is how you can design your key" text="- Hyphen = Notes
+{{< warning headline="This is how you can design your key" >}}
 
+- Hyphen = Notes
 - Point = task
 - Paint over the dot with a cross = task is completed
 - Point with arrow pointing to the right = task shifted
 - Cross out point = task is omitted
 - Circle = date
 - Color in circle = appointment over
-- Special characters = emphasize important things additionally" >}}
+- Special characters = emphasize important things additionally
+
+{{< /warning >}}
 
 The **calendar views** follow in the third part. Start with the **Future Log**, the annual plan in which you record major and important events.
 

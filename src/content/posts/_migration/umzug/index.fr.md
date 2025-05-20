@@ -36,33 +36,29 @@ Avec une planification minutieuse des transferts, la première étape de votre d
 
 ### Droit au congé spécial
 
-{{< faq >}}
-
-Ai-je droit à un congé spécial légal ?|||
+{{< faq "Ai-je droit à un congé spécial légal ?" >}}
 
 Commençons par la mauvaise nouvelle : en Allemagne, selon la loi fédérale sur les congés et le code civil, il n'existe **pas de droit légal aux congés** en cas de déménagement.
 {{< /faq >}}
 
-Que dit mon contrat de travail ?|||
+{{< faq "Que dit mon contrat de travail ?" >}}
 
 Bien qu'il n'existe pas de droit général au congé spécial, votre employeur peut bien sûr l'accorder. Pour vous en assurer, consultez votre contrat de travail ou demandez au comité d'entreprise ou à un supérieur si vous avez droit à un congé spécial.
 {{< /faq >}}
 
-Que se passe-t-il si je déménage pour des raisons professionnelles ?|||
+{{< faq "Que se passe-t-il si je déménage pour des raisons professionnelles ?" >}}
 
 Dans ce cas, vous avez de bonnes chances d'obtenir un congé payé, même si cela n'est pas mentionné dans votre contrat de travail. Une distinction est faite selon que vous changez d'employeur ou simplement de lieu de travail. Dans le premier cas, vous devez espérer la complaisance de votre nouvel employeur. En revanche, si vous déménagez chez le même employeur, il est possible de demander un congé payé.
 {{< /faq >}}
 
 ### Raisons professionnelles du déménagement
 
-{{< faq >}}
-
-Quelles sont les raisons qui font qu'un déménagement est 'professionnel' ?|||
+{{< faq "Quelles sont les raisons qui font qu'un déménagement est 'professionnel' ?" >}}
 
 Outre les raisons déjà mentionnées _de changement d'emploi ou d'employeur_, il existe d'autres possibilités de faire valoir votre déménagement comme étant lié à votre activité professionnelle. Il s'agit de l'entrée en fonction de votre premier emploi, du déménagement d'un ou d'un logement de fonction, du retour de l'étranger pour prendre un nouvel emploi en Allemagne et de la réduction du trajet domicile-travail d'au moins une demi-heure par jour.
 {{< /faq >}}
 
-Y a-t-il des règles différentes si je travaille dans le secteur public ?|||
+{{< faq "Y a-t-il des règles différentes si je travaille dans le secteur public ?" >}}
 
 Oui, car en tant que fonctionnaire ou employé du secteur public, vous avez droit à un jour de congé payé pour un déménagement pour raisons de service, conformément à l'article 29 du règlement sur les tarifs. Si vous avez déjà dû déménager pour des raisons de service au cours des cinq dernières années, vous avez même droit à trois jours de congé.
 {{< /faq >}}

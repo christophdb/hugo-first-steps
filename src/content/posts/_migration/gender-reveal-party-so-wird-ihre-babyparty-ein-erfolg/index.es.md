@@ -62,7 +62,7 @@ Una fiesta de revelación del sexo es un asunto íntimo y personal. Por lo tanto
 
 Una **lista de invitados** le ofrece una visión general inicial y le permite adaptar los siguientes pasos de planificación al número de invitados previsto.
 
-{{< warning headline="Ideas para la tarjeta de invitación" text="Dale un toque personal a las invitaciones diseñándolas tú mismo. Aumenta la expectación de los invitados con títulos como "¿Será niño o niña?". Puedes mantener la tarjeta en la misma gama de colores que la decoración de la fiesta." />}}
+{{< warning headline="Ideas para la tarjeta de invitación" text="Dale un toque personal a las invitaciones diseñándolas tú mismo. Aumenta la expectación de los invitados con títulos como *¿Será niño o niña?*. Puedes mantener la tarjeta en la misma gama de colores que la decoración de la fiesta." />}}
 
 Envíe las invitaciones con tiempo y fije una **fecha límite para aceptarlas o cancelarlas**. Pregunte también si vendrán parejas o hijos. Explique brevemente cómo funciona una fiesta de revelación de sexo para que los invitados puedan prepararse.
 

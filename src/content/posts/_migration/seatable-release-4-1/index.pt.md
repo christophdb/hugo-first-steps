@@ -22,7 +22,11 @@ Além disso, melhorámos o desempenho de algumas [acções](https://seatable.io/
 
 ![Novas opções para automatizações](images/New-options-for-automation.png)
 
-{{< warning headline="Limite de execução mais elevado para as automatizações" text="Cada automatização está sujeita a um [limite de execução](https://seatable.io/pt/docs/automationen/ausfuehrungslimit-bei-automationen/) que define a frequência máxima de execução das automatizações. Este limite é necessário para garantir uma boa experiência de utilização para todos os utilizadores do SeaTable Cloud. Anteriormente, o SeaTable Cloud tinha um limite de 10 execuções por minuto para cada automação. Este limite foi aumentado para **50 execuções por** minuto com a mudança de versão. Este novo limite não deve ser uma restrição relevante para muitos casos de utilização. Isto é diferente para as automatizações com o tipo de evento "Entradas adicionadas". Nesse caso, o limite aumentado também pode entrar em vigor rapidamente. Por exemplo, se copiar linhas de uma tabela Excel e as colar no SeaTable, o limite restringirá a execução às primeiras 50 linhas inseridas." />}}
+{{< warning headline="Limite de execução mais elevado para as automatizações" >}}
+
+Cada automatização está sujeita a um [limite de execução](https://seatable.io/pt/docs/automationen/ausfuehrungslimit-bei-automationen/) que define a frequência máxima de execução das automatizações. Este limite é necessário para garantir uma boa experiência de utilização para todos os utilizadores do SeaTable Cloud. Anteriormente, o SeaTable Cloud tinha um limite de 10 execuções por minuto para cada automação. Este limite foi aumentado para **50 execuções por** minuto com a mudança de versão. Este novo limite não deve ser uma restrição relevante para muitos casos de utilização. Isto é diferente para as automatizações com o tipo de evento **Entradas adicionadas**. Nesse caso, o limite aumentado também pode entrar em vigor rapidamente. Por exemplo, se copiar linhas de uma tabela Excel e as colar no SeaTable, o limite restringirá a execução às primeiras 50 linhas inseridas.
+
+{{< /warning >}}
 
 ## Lixeira e função de pesquisa no gestor de ficheiros
 

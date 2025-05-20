@@ -63,7 +63,7 @@ Sin embargo, también puede encontrarse con algunos retos en su camino para conv
 
 Los objetivos de sostenibilidad pueden ser **largos** y desmotivadores si el progreso es lento. La participación en actividades benéficas también puede suponer **un esfuerzo adicional**.
 
-{{< warning headline="Prescindir del lavado verde" text="Evite a toda costa **el "lavado verde"**, ya que puede provocar una pérdida de credibilidad y dañar considerablemente su reputación. Por lo tanto, sea siempre honesto y transparente en sus esfuerzos y no presente a su empresa como más sostenible de lo que realmente es." />}}
+{{< warning headline="Prescindir del lavado verde" text="Evite a toda costa **el lavado verde**, ya que puede provocar una pérdida de credibilidad y dañar considerablemente su reputación. Por lo tanto, sea siempre honesto y transparente en sus esfuerzos y no presente a su empresa como más sostenible de lo que realmente es." />}}
 
 ## Ejemplos de medidas adecuadas
 

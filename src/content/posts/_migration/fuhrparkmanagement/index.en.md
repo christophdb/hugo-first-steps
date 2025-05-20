@@ -95,24 +95,22 @@ SeaTable offers you clear and intuitive management of your fleet and incoming bo
 
 ## FAQ
 
-{{< faq >}}
-
-What is a vehicle fleet?|||
+{{< faq "What is a vehicle fleet?" >}}
 
 A vehicle fleet refers to all the vehicles owned by your company.
 {{< /faq >}}
 
-What is fleet management?|||
+{{< faq "What is fleet management?" >}}
 
 Fleet management refers to all processes that affect your vehicle fleet.
 {{< /faq >}}
 
-What does fleet management involve?|||
+{{< faq "What does fleet management involve?" >}}
 
 Fleet management begins with **an assessment of** how many vehicles your company **needs** and then clarifies the **financing, purchase or sale of** the vehicles. It must ensure the careful **management of vehicle documents** (vehicle registration documents, purchase contracts, insurance policies, etc.) and the **GDPR-compliant storage of driver data** (e.g. movement data, fuel receipts, driving licenses). Day-to-day business involves smooth **booking, handover and route planning** as well as any **repairs and inspections**.
 {{< /faq >}}
 
-What does fleet management cost?|||
+{{< faq "What does fleet management cost?" >}}
 
 This depends on the size of your vehicle fleet and therefore cannot be answered in general terms. However, you should be aware that you will have to take care of the entire fleet management yourself if you **buy** vehicles. When **leasing**, car rental companies can take on extensive services such as insurance and inspections if you wish.
 

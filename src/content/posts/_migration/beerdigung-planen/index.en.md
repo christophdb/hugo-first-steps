@@ -8,29 +8,27 @@ url: '/beerdigung-planen'
 
 Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigung reibungslos hinter sich bringen? Oder Sie möchten Ihre eigene Beerdigung planen, um Ihre Angehörigen nach Ihrem Tod zu entlasten? Dieser Artikel liefert Ihnen alle wichtigen Informationen, was Sie rund um die Organisation einer Bestattung beachten sollten.
 
-{{< faq >}}
-
-Was kostet eine Beerdigung?|||
+{{< faq "Was kostet eine Beerdigung?" >}}
 
 Die Kosten für eine Beerdigung können zwischen wenigen Tausend und mehreren Zehntausend Euro schwanken. Eine durchschnittliche Beerdigung in Deutschland kostet rund 13.000 Euro. Wo Sie bei den Kosten gegebenenfalls sparen können, erfahren Sie im Artikel.
 {{< /faq >}}
 
-Wo kann man sich bestatten lassen?|||
+{{< faq "Wo kann man sich bestatten lassen?" >}}
 
 In Deutschland sind im Grunde nur zwei Bestattungsarten erlaubt: Erd- und Feuerbestattung. Allerdings stehen einige Orte zur Auswahl, an denen der Leichnam oder die Asche beigesetzt werden kann. Dazu zählen Friedhöfe, Kolumbarien oder ausgewählte Gebiete in der Natur. Mehr dazu erfahren Sie im entsprechenden Kapitel.
 {{< /faq >}}
 
-Welche Dokumente braucht man für eine Beerdigung?|||
+{{< faq "Welche Dokumente braucht man für eine Beerdigung?" >}}
 
 Unter anderem benötigen Sie den Personalausweis des Verstorbenen, die Geburts- und Heiratsurkunde sowie den Totenschein und die Sterbeurkunde. Wie Sie diese Dokumente beschaffen, erfahren Sie ebenfalls im Artikel.
 {{< /faq >}}
 
-Muss man einen Bestatter beauftragen?|||
+{{< faq "Muss man einen Bestatter beauftragen?" >}}
 
 Ja. In Deutschland ist gesetzlich vorgeschrieben, dass bestimmte Tätigkeiten wie die Überführung des Leichnams nur von einem Bestatter ausgeführt werden dürfen.
 {{< /faq >}}
 
-Wen sollte man zur Beerdigung einladen?|||
+{{< faq "Wen sollte man zur Beerdigung einladen?" >}}
 
 Über den Tod eines geliebten Menschen sollten Sie so schnell wie möglich alle Bezugspersonen informieren. Dazu gehören Verwandte, Freunde, Bekannte, Nachbarn und Arbeitskollegen. Ob Sie die Trauerfeier lieber im kleinen Kreis abhalten möchten oder über eine Todesanzeige die gesamte Trauergemeinde zur Bestattung einladen, bleibt Ihnen überlassen.
 

@@ -38,24 +38,22 @@ Los animales de especies especialmente raras o peligrosas pueden tener cierto at
 
 ¿Piensa mudarse con un nuevo animal de compañía y no está seguro de si puede tener una mascota en su piso? Entonces es aconsejable echar un vistazo al **contrato de alquiler** o ponerse en contacto directamente con el **casero**. Porque no está permitido tener cualquier animal de compañía sin acuerdo previo.
 
-{{< faq >}}
-
-¿Qué dice el contrato de alquiler sobre la tenencia de animales?|||
+{{< faq "¿Qué dice el contrato de alquiler sobre la tenencia de animales?" >}}
 
 El casero puede estipular en el contrato de alquiler ciertas restricciones a la tenencia de animales de compañía. Si no existe tal disposición en el contrato de alquiler, el casero no puede prohibirle tener animales de compañía, independientemente del animal de que se trate. La excepción es la tenencia de animales peligrosos.
 {{< /faq >}}
 
-¿Qué restricciones existen?|||
+{{< faq "¿Qué restricciones existen?" >}}
 
 Existe la llamada cláusula **de permiso**, que restringe la tenencia de animales grandes. Si esta cláusula está incluida en su contrato de alquiler, debe pedir permiso al propietario antes de mudarse con un animal. El casero puede prohibirle adquirir determinados animales en casos concretos, indicando el motivo.
 {{< /faq >}}
 
-¿Qué animales puedo tener sin autorización?|||
+{{< faq "¿Qué animales puedo tener sin autorización?" >}}
 
 Los **animales pequeños** como ratones, salamanquesas o peces ornamentales que no representen peligro, ruido o molestias por olores y se mantengan en jaulas cerradas, terrarios o acuarios no necesitan permiso.
 {{< /faq >}}
 
-¿Puedo tener animales de compañía en mi piso temporalmente?|||
+{{< faq "¿Puedo tener animales de compañía en mi piso temporalmente?" >}}
 
 Por supuesto, no hay nada malo en una breve visita de un amigo con su mascota. Sin embargo, debes obtener el consentimiento del propietario si cuidas de animales durante más tiempo o incluso a cambio de una remuneración.
 {{< /faq >}}

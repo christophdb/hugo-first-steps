@@ -36,33 +36,29 @@ With careful planning of the transfers, the first step of your move is done. But
 
 ### Entitlement to special leave
 
-{{< faq >}}
-
-Am I entitled to statutory special leave?|||
+{{< faq "Am I entitled to statutory special leave?" >}}
 
 First the bad news: In Germany, according to the Federal Leave Act and the Civil Code, there is **no legal entitlement to leave** when you move.
 {{< /faq >}}
 
-What does my employment contract say?|||
+{{< faq "What does my employment contract say?" >}}
 
 Although there is no general entitlement to special leave, your employer can of course still grant it. To make sure, take a look at your employment contract or ask the works council or a superior whether you are entitled to special leave.
 {{< /faq >}}
 
-What if I move for work reasons?|||
+{{< faq "What if I move for work reasons?" >}}
 
 In this case, you have a good chance of being granted paid time off, even if this is not listed in your employment contract. A distinction is made between whether you are changing employers or merely changing the place of work. In the case of the former, you must hope for the goodwill of your new employer. If, on the other hand, you are moving within the same employer, it is possible to apply for paid time off.
 {{< /faq >}}
 
 ### Professional reasons for the move
 
-{{< faq >}}
-
-What reasons make a move 'work related'?|||
+{{< faq "What reasons make a move 'work related'?" >}}
 
 In addition to the reasons already mentioned - _change of job or employer_ - there are other ways to claim your move as work-related. These are starting your first job, moving out of or into an official residence, returning from abroad to start a new job in Germany, and shortening your commute by at least half an hour a day.
 {{< /faq >}}
 
-Are there different rules if I work in the public sector?|||
+{{< faq "Are there different rules if I work in the public sector?" >}}
 
 Yes, because as a civil servant or employee in the public sector, you are entitled to one day of paid leave for a move for work-related reasons in accordance with Section 29 of the Collective Bargaining Ordinance. If you have already had to move once in the past five years for business reasons, you are even entitled to three days off.
 {{< /faq >}}

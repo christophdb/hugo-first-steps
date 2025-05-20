@@ -8,29 +8,27 @@ url: '/es/beerdigung-planen'
 
 ¿Ha perdido a un ser querido y le gustaría que los funerales se celebraran sin complicaciones? ¿O le gustaría planificar su propio funeral para aliviar a sus familiares tras su muerte? En este artículo encontrará toda la información importante que necesita saber sobre la organización de un funeral.
 
-{{< faq >}}
-
-¿Cuánto cuesta un funeral?|||
+{{< faq "¿Cuánto cuesta un funeral?" >}}
 
 El coste de un funeral puede variar entre unos pocos miles y varias decenas de miles de euros. Un funeral medio en Alemania cuesta unos 13.000 euros. En el artículo puede averiguar dónde puede ahorrar en los costes.
 {{< /faq >}}
 
-¿Dónde puede ser enterrado?|||
+{{< faq "¿Dónde puede ser enterrado?" >}}
 
 Básicamente, en Alemania sólo se permiten dos tipos de enterramiento: enterramiento en la tierra e incineración. Sin embargo, hay algunos lugares a elegir donde enterrar el cadáver o las cenizas. Entre ellos están los cementerios, los columbarios o determinadas zonas en la naturaleza. Encontrará más información al respecto en el capítulo correspondiente.
 {{< /faq >}}
 
-¿Qué documentos necesita para un funeral?|||
+{{< faq "¿Qué documentos necesita para un funeral?" >}}
 
 Entre otras cosas, necesitará el documento de identidad del fallecido, el certificado de nacimiento y matrimonio, así como el certificado de defunción y el certificado de defunción. También puede informarse sobre cómo obtener estos documentos en el artículo.
 {{< /faq >}}
 
-¿Tiene que contratar a un enterrador?|||
+{{< faq "¿Tiene que contratar a un enterrador?" >}}
 
 Sí. En Alemania, la ley establece que determinadas actividades, como el traspaso del cadáver, sólo pueden ser realizadas por una empresa de pompas fúnebres.
 {{< /faq >}}
 
-¿A quién debes invitar al funeral?|||
+{{< faq "¿A quién debes invitar al funeral?" >}}
 
 Debe informar lo antes posible del fallecimiento de un ser querido a todas las personas a las que cuida. Esto incluye a familiares, amigos, conocidos, vecinos y compañeros de trabajo. Usted decide si prefiere celebrar el funeral en un círculo reducido o invitar a todos los dolientes a través de una esquela.
 

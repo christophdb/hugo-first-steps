@@ -38,24 +38,22 @@ Les animaux d'une espèce particulièrement rare ou dangereuse ont certes un cer
 
 Vous prévoyez l'arrivée d'un nouveau compagnon animalier et vous ne savez pas si vous avez le droit d'avoir un animal domestique dans votre logement ? Dans ce cas, il est recommandé de jeter un coup d'œil sur le **contrat de location** ou de s'adresser directement à votre **propriétaire**. En effet, vous n'avez pas le droit de détenir n'importe quel animal domestique sans accord préalable.
 
-{{< faq >}}
-
-Que dit le contrat de location au sujet de la détention d'animaux ?|||
+{{< faq "Que dit le contrat de location au sujet de la détention d'animaux ?" >}}
 
 Votre bailleur peut inscrire dans le contrat de location certaines restrictions concernant la détention d'animaux. Si aucune disposition de ce type ne figure dans le contrat de location, le propriétaire ne peut pas vous interdire de détenir des animaux domestiques, quel que soit l'animal en question. L'exception à cette règle est la détention d'animaux dangereux.
 {{< /faq >}}
 
-Quelles sont les restrictions ?|||
+{{< faq "Quelles sont les restrictions ?" >}}
 
 Il existe ce que l'on appelle **la réserve d'autorisation**, qui limite la détention d'animaux de grande taille. Si cette clause se trouve dans votre contrat de location, vous devez demander l'autorisation à votre propriétaire avant d'emménager avec un animal. Le bailleur peut, au cas par cas, vous interdire l'acquisition de certains animaux, en indiquant un motif.
 {{< /faq >}}
 
-Quels sont les animaux que je peux détenir sans autorisation ?|||
+{{< faq "Quels sont les animaux que je peux détenir sans autorisation ?" >}}
 
 **Les petits animaux** tels que les souris, les geckos ou les poissons d'ornement qui ne représentent pas un danger, une nuisance sonore ou olfactive et qui sont détenus dans des cages, des terrariums ou des aquariums fermés n'ont pas besoin de permis.
 {{< /faq >}}
 
-Puis-je avoir des animaux domestiques temporairement dans mon appartement ?|||
+{{< faq "Puis-je avoir des animaux domestiques temporairement dans mon appartement ?" >}}
 
 Il n'y a bien sûr aucune objection à ce qu'une personne de votre connaissance vienne brièvement vous rendre visite avec son animal de compagnie. Mais vous devez obtenir l'accord du propriétaire si vous gardez des animaux pendant une période prolongée ou même contre rémunération.
 {{< /faq >}}

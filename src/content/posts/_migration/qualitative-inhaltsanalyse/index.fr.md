@@ -137,19 +137,17 @@ Vous pouvez maintenant rassembler et interpréter vos résultats. Revenez à vot
 
 Enfin, vous vérifiez si votre analyse répond aux critères de qualité de l'analyse de contenu qualitative.
 
-{{< faq >}}
-
-Transparence|||
+{{< faq "Transparence" >}}
 
 Votre recherche doit être **compréhensible** pour les personnes extérieures. Pour chaque étape de votre analyse, expliquez comment et pourquoi vous avez procédé de la sorte.
 {{< /faq >}}
 
-Intersubjectivité|||
+{{< faq "Intersubjectivité" >}}
 
 Assurez-vous que votre analyse présente des résultats similaires lorsqu'elle est répétée sur différents codeurs, c'est-à-dire qu'elle est **reproductible**.
 {{< /faq >}}
 
-Reliabilité|||
+{{< faq "Reliabilité" >}}
 
 Quelle est la fiabilité de la codification ? Les mêmes contenus sont-ils évalués de la même manière et les différences s'expriment-elles de manière appropriée par des valeurs différentes ?
 {{< /faq >}}

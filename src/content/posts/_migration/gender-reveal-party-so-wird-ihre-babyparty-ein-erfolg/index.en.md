@@ -63,7 +63,7 @@ A gender reveal party is an intimate and personal affair. You should therefore o
 
 A **guest list** gives you an initial overview and allows you to adapt the next planning steps to the number of guests expected.
 
-{{< warning headline="Ideas for the invitation card" text="Give the invitations a personal touch by designing them yourself. Increase the guests' anticipation with titles such as "Will it be a boy or a girl?". You can keep the card in the same color scheme as the decorations for your party." />}}
+{{< warning headline="Ideas for the invitation card" text="Give the invitations a personal touch by designing them yourself. Increase the guests' anticipation with titles such as *Will it be a boy or a girl?*. You can keep the card in the same color scheme as the decorations for your party." />}}
 
 Send out the invitations early and set a **deadline for accepting or canceling** them. Also ask whether partners or children will be coming along. You should also briefly explain how a Gender Reveal Party works so that guests can prepare for the event.
 

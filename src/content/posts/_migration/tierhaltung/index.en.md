@@ -38,24 +38,22 @@ Animals of a particularly rare or dangerous species may have a certain appeal, b
 
 Are you planning to move in with a new animal companion and are unsure whether you are even allowed to keep a pet in your apartment? Then it is advisable to take a look at your **tenancy agreement** or contact your **landlord** directly. Because you are not allowed to keep every pet without prior agreement.
 
-{{< faq >}}
-
-What does the tenancy agreement say about keeping animals?|||
+{{< faq "What does the tenancy agreement say about keeping animals?" >}}
 
 Your landlord can stipulate certain restrictions on keeping pets in the tenancy agreement. If there is no such provision in the tenancy agreement, the landlord may not prohibit you from keeping pets, regardless of which animal it is. The exception to this is the keeping of dangerous animals.
 {{< /faq >}}
 
-What restrictions are there?|||
+{{< faq "What restrictions are there?" >}}
 
 There is a so-called **permission proviso**, which restricts the keeping of large animals. If this clause is included in your tenancy agreement, you must ask your landlord for permission before moving in with an animal. The landlord may prohibit you from acquiring certain animals in individual cases, stating a reason.
 {{< /faq >}}
 
-Which animals can I keep without permission?|||
+{{< faq "Which animals can I keep without permission?" >}}
 
 **Small animals** such as mice, geckos or ornamental fish that do not pose a danger, noise or odor nuisance and are kept in closed cages, terrariums or aquariums do not require a permit.
 {{< /faq >}}
 
-Am I allowed to have pets in my apartment temporarily?|||
+{{< faq "Am I allowed to have pets in my apartment temporarily?" >}}
 
 Of course, there is nothing wrong with a short visit from a friend with their pet. However, you must obtain the landlord's consent if you look after animals for a longer period of time or even for a fee.
 {{< /faq >}}

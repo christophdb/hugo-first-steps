@@ -62,7 +62,7 @@ Uma festa de revelação do sexo é um assunto íntimo e pessoal. Por isso, só 
 
 Uma **lista de convidados** dá-lhe uma visão geral inicial e permite-lhe adaptar as etapas de planeamento subsequentes ao número de convidados esperado.
 
-{{< warning headline="Ideias para o cartão de convite" text="Dê um toque pessoal aos convites, desenhando-os você mesmo. Aumente a expetativa dos convidados com títulos como "Será um rapaz ou uma rapariga?". Pode manter o cartão com o mesmo esquema de cores que as decorações da sua festa." />}}
+{{< warning headline="Ideias para o cartão de convite" text="Dê um toque pessoal aos convites, desenhando-os você mesmo. Aumente a expetativa dos convidados com títulos como *Será um rapaz ou uma rapariga?*. Pode manter o cartão com o mesmo esquema de cores que as decorações da sua festa." />}}
 
 Envie os convites com antecedência e estabeleça um **prazo para os aceitar ou cancelar**. Pergunte também se os cônjuges ou os filhos irão participar. Deve também explicar brevemente como funciona uma festa de revelação do sexo para que os convidados se possam preparar para o evento.
 

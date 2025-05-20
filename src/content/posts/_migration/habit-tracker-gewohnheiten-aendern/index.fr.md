@@ -80,24 +80,22 @@ Le best-seller de James Clear contient des conseils utiles.
 
 Les conseils suivants sont tirés du livre **La méthode 1%** (en anglais _Atomic Habits_) de James Clear et peuvent rendre votre Habit Tracker encore plus efficace.
 
-{{< faq >}}
-
-Intégrer des habitudes dans la vie quotidienne|||
+{{< faq "Intégrer des habitudes dans la vie quotidienne" >}}
 
 Pour rendre une action souhaitable plus contraignante, associez-la au lieu et à l'heure de son exécution.
 {{< /faq >}}
 
-Relier le nouveau et l'ancien|||
+{{< faq "Relier le nouveau et l'ancien" >}}
 
 Les habitudes déjà automatisées peuvent vous faciliter l'apprentissage de nouvelles habitudes. Il vous suffit d'exécuter successivement une habitude actuelle et une nouvelle habitude.
 {{< /faq >}}
 
-Utiliser les incitations et les récompenses|||
+{{< faq "Utiliser les incitations et les récompenses" >}}
 
 Les habitudes que vous souhaitez acquérir ne vous procurent pas toutes du plaisir. C'est pourquoi il peut être utile de travailler avec un système de récompense. Exécutez une tâche que vous n'aimez pas et récompensez-vous ensuite avec quelque chose que vous trouvez facile et agréable.
 {{< /faq >}}
 
-Habits de 2 minutes|||
+{{< faq "Habits de 2 minutes" >}}
 
 Si une activité dure moins de deux minutes, vous pouvez la faire immédiatement, car elle demande peu d'énergie et d'efforts. Au début de votre parcours de suivi, il est judicieux de commencer petit. Les habitudes que vous pouvez réaliser en deux minutes sont motivantes et offrent la possibilité de les étendre à volonté.
 

@@ -52,15 +52,18 @@ Der Grundaufbau Ihres Bullet Journals besteht aus drei Teilen. Der **Index** die
 
 Danach folgt der **Key**. Dieser ist eine Art Legende. Dort werden die Symbole und ihre Bedeutung festgehalten. Diese Technik heißt **Rapid Logging**.
 
-{{< warning headline="So können Sie Ihren Key gestalten" text="- Bindestrich = Notizen
+{{< warning headline="So können Sie Ihren Key gestalten" >}}
 
+- Bindestrich = Notizen
 - Punkt = Aufgabe
 - Punkt mit Kreuzchen übermalen = Aufgabe ist erledigt
 - Punkt mit Pfeil, dessen Spitze nach rechts zeigt = Aufgabe verschoben
 - Punkt durchstreichen = Aufgabe fällt weg
 - Kreis = Termin
 - Kreis ausmalen = Termin vorbei
-- Sonderzeichen = wichtige Dinge zusätzlich hervorheben" >}}
+- Sonderzeichen = wichtige Dinge zusätzlich hervorheben
+
+{{< /warning >}}
 
 Im dritten Teil folgen die **Kalenderansichten**. Beginnen Sie mit dem **Future Log**, der Jahresplanung, in der Sie große und wichtige Ereignisse festhalten.
 

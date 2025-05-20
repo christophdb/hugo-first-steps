@@ -126,29 +126,27 @@ Um programa de gestão de referências é tão bom quanto o seu utilizador - voc
 
 Nem todas as informações sobre as suas fontes são relevantes para a posterior transferência para a bibliografia. Deve saber como citar corretamente as fontes para não ficar sobrecarregado com a informação gerada automaticamente por muitos programas:
 
-{{< faq >}}
-
-Autores|||
+{{< faq "Autores" >}}
 
 Os autores devem ser indicados pelos apelidos e nomes próprios e, se for caso disso, pelos títulos académicos. Para além dos autores, os nomes dos editores também devem ser indicados para os volumes editados.
 {{< /faq >}}
 
-Ano|||
+{{< faq "Ano" >}}
 
 Para além do ano, deve também indicar o dia e o mês de publicação para as fontes da Internet. Se se tratar de uma fonte sem ano, deve também indicá-lo.
 {{< /faq >}}
 
-Título|||
+{{< faq "Título" >}}
 
 O título refere-se ao título do artigo, livro ou capítulo, caso se trate de uma antologia. Note-se que o título é sensível a maiúsculas e minúsculas.
 {{< /faq >}}
 
-Médio|||
+{{< faq "Médio" >}}
 
 Na maioria dos casos, é suficiente indicar a revista ou obra em que o artigo foi publicado. Se se tratar de um livro, deve indicar a editora.
 {{< /faq >}}
 
-Número da edição e da página|||
+{{< faq "Número da edição e da página" >}}
 
 Deve anotar estas informações com a maior exatidão possível. Contar os números das páginas, se não estiverem impressos.
 {{< /faq >}}

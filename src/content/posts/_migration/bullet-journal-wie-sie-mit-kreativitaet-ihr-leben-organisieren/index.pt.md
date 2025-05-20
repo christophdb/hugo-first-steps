@@ -52,15 +52,18 @@ A estrutura básica do seu bullet journal é composta por três partes. O **índ
 
 Segue-se a **chave**. Esta é uma espécie de lenda. Os símbolos e o seu significado são aí registados. Esta técnica é designada por **registo rápido**.
 
-{{< warning headline="É assim que pode conceber a sua chave" text="- Hífen = notas
+{{< warning headline="É assim que pode conceber a sua chave" >}}
 
+- Hífen = notas
 - Ponto = tarefa
 - Pintar o ponto com uma cruz = a tarefa está concluída
 - Ponto com seta a apontar para a direita = tarefa deslocada
 - Ponto riscado = a tarefa é cancelada
 - Círculo = data
 - Cor no círculo = nomeação
-- Caracteres especiais = realçam adicionalmente coisas importantes" >}}
+- Caracteres especiais = realçam adicionalmente coisas importantes
+
+{{< /warning >}}
 
 As **visualizações do calendário** são apresentadas na terceira parte. Comece com o **Diário do Futuro**, o plano anual no qual regista os eventos principais e importantes.
 

@@ -130,44 +130,42 @@ Pesar os dois lados um contra o outro.
 
 Se pretende estabelecer uma gestão **do** conhecimento bem sucedida na sua empresa, dificilmente pode evitar um **sistema de gestão do conhecimento** sob a forma de software. Existe uma grande seleção de **soluções de software** adequadas. Dependendo das suas necessidades, existe uma enorme variedade de sistemas com diferentes objectivos:
 
-{{< faq >}}
-
-Wikis e sistemas de gestão da informação|||
+{{< faq "Wikis e sistemas de gestão da informação" >}}
 
 Exemplos: Confluence, Guru
 {{< /faq >}}
 
-Sistemas de groupware e colaboração|||
+{{< faq "Sistemas de groupware e colaboração" >}}
 
 Exemplos: BSCW, Microsoft SharePoint
 {{< /faq >}}
 
-Mensageiros instantâneos e sistemas de comunicação|||
+{{< faq "Mensageiros instantâneos e sistemas de comunicação" >}}
 
 Exemplos: Slack, Microsoft Teams
 {{< /faq >}}
 
-Sistemas de gestão de documentos e de intercâmbio de ficheiros|||
+{{< faq "Sistemas de gestão de documentos e de intercâmbio de ficheiros" >}}
 
 Exemplos: Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
 {{< /faq >}}
 
-Sistemas de gestão das relações com os clientes|||
+{{< faq "Sistemas de gestão das relações com os clientes" >}}
 
 Exemplos: Pipedrive, Salesforce
 {{< /faq >}}
 
-Sistemas de gestão de projectos|||
+{{< faq "Sistemas de gestão de projectos" >}}
 
 Exemplos: Asana, Jira
 {{< /faq >}}
 
-Sistemas de gestão de recursos humanos e de pessoal|||
+{{< faq "Sistemas de gestão de recursos humanos e de pessoal" >}}
 
 Exemplos: Personio, DATEV
 {{< /faq >}}
 
-Sistemas de gestão de conteúdos|||
+{{< faq "Sistemas de gestão de conteúdos" >}}
 
 Exemplos: WordPress, TYPO3
 

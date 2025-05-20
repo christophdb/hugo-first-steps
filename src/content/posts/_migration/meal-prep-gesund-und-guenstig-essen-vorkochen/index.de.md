@@ -16,19 +16,17 @@ Meal Prep ist die Abkürzung für **Meal Preparation**, was im Deutschen so viel
 
 Aus wenigen Zutaten werden verschiedene Speisen gezaubert.
 
-{{< faq >}}
-
-Woher kommt der Meal Prep Trend?|||
+{{< faq "Woher kommt der Meal Prep Trend?" >}}
 
 Wie viele Food Trends kommt der Hype ums Meal Prepping aus den USA. Dort wurde Meal Prep vor allem von Fitness-Liebhabern genutzt, hat aber auch schnell Anwendung in allen Lebensbereichen gefunden.
 {{< /faq >}}
 
-Für wen ist Meal Prep geeignet?|||
+{{< faq "Für wen ist Meal Prep geeignet?" >}}
 
 Besonders für Menschen, die in ihrem Alltag nicht die Zeit für ein selbstgekochtes Essen finden, lohnt es sich, Meal Prep auszuprobieren. Es hilft auch, Ernährungsvorsätze einzuhalten und die Selbstdisziplin zu stärken. Natürlich braucht es etwas Überwindung und genug Motivation, um sich an die neue Art des Kochens heranzutrauen, im Endeffekt kann es die Ernährung aber effizienter, gesünder und günstiger machen.
 {{< /faq >}}
 
-Für wie viele Tage kann man Gerichte vorkochen?|||
+{{< faq "Für wie viele Tage kann man Gerichte vorkochen?" >}}
 
 Es gibt zwei Möglichkeiten, wie Sie Meal Prep betreiben können. Entweder Sie kochen die **doppelte Menge**, sodass das Essen für den nächsten Tag reicht, oder Sie gehen einen Schritt weiter, nehmen sich Zeit zum **Vorkochen der einzelnen Zutaten** und können diese dann an den folgenden Tagen nach Belieben kombinieren.
 {{< /faq >}}

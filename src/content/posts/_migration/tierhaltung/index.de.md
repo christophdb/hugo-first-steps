@@ -38,24 +38,22 @@ Tiere einer besonders seltenen oder gefährlichen Spezies haben zwar einen gewis
 
 Sie planen den Einzug eines neuen tierischen Begleiters und sind sich unsicher, ob Sie überhaupt ein Haustier in Ihrer Wohnung halten dürfen? Dann empfiehlt es sich, einen Blick in den **Mietvertrag** zu werfen oder sich direkt an Ihren **Vermieter** zu wenden. Denn nicht jedes Haustier dürfen Sie ohne Absprache halten.
 
-{{< faq >}}
-
-Was steht zur Tierhaltung im Mietvertrag?|||
+{{< faq "Was steht zur Tierhaltung im Mietvertrag?" >}}
 
 Ihr Vermieter kann im Mietvertrag bestimmte Einschränkungen zur Tierhaltung verankern. Ist im Mietvertrag keine derartige Regelung zu finden, darf der Vermieter Ihnen die Haltung von Haustieren nicht verbieten, egal um welches Tier es sich handelt. Ausnahme ist dabei das Halten von gefährlichen Tieren.
 {{< /faq >}}
 
-Welche Einschränkungen gibt es?|||
+{{< faq "Welche Einschränkungen gibt es?" >}}
 
 Es gibt den sogenannten **Erlaubnisvorbehalt**, welcher die Tierhaltung von großen Tieren einschränkt. Findet sich diese Klausel in Ihrem Mietvertrag, müssen Sie Ihren Vermieter vor dem Einzug eines Tiers um Erlaubnis bitten. Der Vermieter darf Ihnen im Einzelfall, unter Angabe eines Grundes, die Anschaffung bestimmter Tiere verbieten.
 {{< /faq >}}
 
-Welche Tiere darf ich ohne Zustimmung halten?|||
+{{< faq "Welche Tiere darf ich ohne Zustimmung halten?" >}}
 
 **Kleintiere** wie Mäuse, Geckos oder Zierfische, die keine Gefahr, Lärm- oder Geruchsbelästigung darstellen und in geschlossenen Käfigen, Terrarien oder Aquarien gehalten werden, bedürfen keiner Erlaubnis.
 {{< /faq >}}
 
-Darf ich Haustiere vorübergehend in meiner Wohnung haben?|||
+{{< faq "Darf ich Haustiere vorübergehend in meiner Wohnung haben?" >}}
 
 Gegen einen kurzen Besuch von einem Bekannten mit seinem Haustier ist natürlich nichts einzuwenden. Die Zustimmung des Vermieters müssen Sie aber einholen, wenn Sie längere Zeit oder gar gegen Bezahlung auf Tiere aufpassen.
 {{< /faq >}}

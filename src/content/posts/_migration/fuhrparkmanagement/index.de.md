@@ -94,24 +94,22 @@ SeaTable bietet Ihnen eine übersichtliche und intuitive Verwaltung Ihres Fuhrpa
 
 ## FAQ
 
-{{< faq >}}
-
-Was ist ein Fuhrpark?|||
+{{< faq "Was ist ein Fuhrpark?" >}}
 
 Unter einem Fuhrpark versteht man die Gesamtheit der Fahrzeuge, die sich im Besitz Ihres Unternehmens befinden.
 {{< /faq >}}
 
-Was versteht man unter Fuhrparkmanagement?|||
+{{< faq "Was versteht man unter Fuhrparkmanagement?" >}}
 
 Mit Fuhrparkmanagement sind alle Prozesse gemeint, die Ihre Fahrzeugflotte betreffen.
 {{< /faq >}}
 
-Was beinhaltet das Fuhrparkmanagement?|||
+{{< faq "Was beinhaltet das Fuhrparkmanagement?" >}}
 
 Das Fuhrparkmanagement beginnt mit der **Bedarfsprüfung**, wie viele Fahrzeuge Ihr Unternehmen benötigt, und klärt anschließend die **Finanzierung, Anschaffung oder Veräußerung** der Fahrzeuge. Es muss die sorgfältige **Vewaltung der Fahrzeugdokumente** (Fahrzeugbriefe, Kaufverträge, Versicherungen etc.) und die **DSGVO-konforme Speicherung der Fahrerdaten** (z. B. Bewegungsdaten, Tankbelege, Führerscheine) sicherstellen. Im Tagesgeschäft geht es um die reibungslose **Buchung, Übergabe und Routenplanung** sowie eventuelle **Reparaturen und Inspektionen**.
 {{< /faq >}}
 
-Was kostet das Fuhrparkmanagement?|||
+{{< faq "Was kostet das Fuhrparkmanagement?" >}}
 
 Dies hängt von der Größe Ihrer Fahrzeugflotte ab und lässt sich daher nicht pauschal beantworten. Sie sollten sich allerdings darüber im Klaren sein, dass Sie sich selbst um das gesamte Flottenmanagement kümmern müssen, wenn Sie Fahrzeuge **kaufen**. Beim **Leasing** können Autovermieter auf Wunsch umfangreiche Serviceleistungen wie Versicherungen und Inspektionen übernehmen.
 

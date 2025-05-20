@@ -64,7 +64,7 @@ Eine Gender Reveal Party ist eine intime und persönliche Angelegenheit. Daher s
 
 Mit einer **Gästeliste** verschaffen Sie sich einen ersten Überblick und können die weiteren Planungsschritte an die Anzahl der zu erwartenden Gäste anpassen.
 
-{{< warning headline="Ideen für die Einladungskarte" text="Geben Sie den Einladungen einen persönlichen Touch, indem Sie sie selbst designen. Steigern Sie durch Titel wie “Wird es ein Junge oder ein Mädchen?” die Vorfreude der Gäste. Sie können die Karte bereits in dem Farbschema halten, in dem auch die Dekoration Ihrer Feier erstrahlen wird." />}}
+{{< warning headline="Ideen für die Einladungskarte" text="Geben Sie den Einladungen einen persönlichen Touch, indem Sie sie selbst designen. Steigern Sie durch Titel wie *Wird es ein Junge oder ein Mädchen?* die Vorfreude der Gäste. Sie können die Karte bereits in dem Farbschema halten, in dem auch die Dekoration Ihrer Feier erstrahlen wird." />}}
 
 Schicken Sie die Einladungen frühzeitig raus und legen Sie eine **Deadline für eine Zu- oder Absage** fest. Erfragen Sie auch, ob Partner oder Kinder mitkommen werden. Außerdem sollten Sie kurz erklären, wie eine Gender Reveal Party abläuft, damit die Gäste sich auf das Event vorbereiten können.
 

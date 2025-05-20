@@ -16,19 +16,17 @@ Meal Prep es la abreviatura de **preparación de comidas**. La idea consiste en 
 
 A partir de unos pocos ingredientes se elaboran diversos platos.
 
-{{< faq >}}
-
-¿De dónde viene la moda de la preparación de comidas?|||
+{{< faq "¿De dónde viene la moda de la preparación de comidas?" >}}
 
 Como muchas otras tendencias alimentarias, la moda de la preparación de comidas se originó en Estados Unidos. Allí, los entusiastas del fitness eran los primeros en utilizarla, pero pronto se extendió a todos los ámbitos de la vida.
 {{< /faq >}}
 
-¿Para quién es adecuado el Meal Prep?|||
+{{< faq "¿Para quién es adecuado el Meal Prep?" >}}
 
 Merece la pena que prueben el Meal Prep las personas que no tienen tiempo de cocinar. También ayuda a cumplir los propósitos dietéticos y a reforzar la autodisciplina. Por supuesto, requiere un poco de esfuerzo y suficiente motivación probar esta nueva forma de cocinar, pero al final puede hacer que tu dieta sea más eficiente, más sana y más barata.
 {{< /faq >}}
 
-¿Cuántos días de antelación puedes cocinar?|||
+{{< faq "¿Cuántos días de antelación puedes cocinar?" >}}
 
 Hay dos formas de preparar la comida. Puedes cocinar **el** doble para tener comida suficiente para el día siguiente, o puedes ir un paso más allá y tomarte el tiempo de **precocinar los ingredientes individuales** y luego combinarlos como quieras los días siguientes.
 {{< /faq >}}

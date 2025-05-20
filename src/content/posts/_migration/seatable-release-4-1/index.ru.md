@@ -22,7 +22,11 @@ Darüber hinaus haben wir die Performance einiger [Aktionen](https://seatable.io
 
 ![Neue Optionen bei Automationen](images/New-options-for-automation.png)
 
-{{< warning headline="Höheres Ausführungslimit bei Automationen" text="Jede Automation unterliegt einem [Ausführungslimit](https://seatable.io/docs/automationen/ausfuehrungslimit-bei-automationen/), das die maximale Ausführungsfrequenz von Automationen definiert. Ein solches Limit ist notwendig, um für alle Benutzer von SeaTable Cloud eine gute User Experience sicherzustellen. Bisher galt in SeaTable Cloud ein Limit von 10 Ausführungen pro Minute für jede Automation. Dieses Limit wurde mit dem Versionswechsel auf **50 Ausführungen pro Minute** erhöht. Dieses neue Limit sollte für viele Anwendungsfälle keine relevante Einschränkung darstellen. Anders bei Automationen mit dem Ereignistyp „Hinzugefügte Einträge“. Dort kann auch das erhöhte Limit schnell greifen. Wenn Sie beispielsweise Zeilen aus einer Excel Tabelle kopieren und in SeaTable einfügen, dann wird das Limit die Ausführung auf die ersten 50 eingefügten Zeilen beschränken." />}}
+{{< warning headline="Höheres Ausführungslimit bei Automationen" >}}
+
+Jede Automation unterliegt einem [Ausführungslimit](https://seatable.io/docs/automationen/ausfuehrungslimit-bei-automationen/), das die maximale Ausführungsfrequenz von Automationen definiert. Ein solches Limit ist notwendig, um für alle Benutzer von SeaTable Cloud eine gute User Experience sicherzustellen. Bisher galt in SeaTable Cloud ein Limit von 10 Ausführungen pro Minute für jede Automation. Dieses Limit wurde mit dem Versionswechsel auf **50 Ausführungen pro Minute** erhöht. Dieses neue Limit sollte für viele Anwendungsfälle keine relevante Einschränkung darstellen. Anders bei Automationen mit dem Ereignistyp **Hinzugefügte Einträge**. Dort kann auch das erhöhte Limit schnell greifen. Wenn Sie beispielsweise Zeilen aus einer Excel Tabelle kopieren und in SeaTable einfügen, dann wird das Limit die Ausführung auf die ersten 50 eingefügten Zeilen beschränken.
+
+{{< /warning >}}
 
 ## Papierkorb und Suchfunktion in der Dateiverwaltung
 

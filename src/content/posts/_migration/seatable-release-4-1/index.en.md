@@ -22,7 +22,11 @@ In addition, we have improved the performance of some [actions](https://seatable
 
 ![New options for automations](images/New-options-for-automation.png)
 
-{{< warning headline="Higher execution limit for automations" text="Each automation is subject to an [execution limit](https://seatable.io/en/docs/automationen/ausfuehrungslimit-bei-automationen/) that defines the maximum execution frequency of automations. Such a limit is necessary to ensure a good user experience for all SeaTable Cloud users. Previously, SeaTable Cloud had a limit of 10 executions per minute for each automation. This limit was increased to **50 executions per** minute with the version change. This new limit should not be a relevant limitation for many use cases. This is different for automations with the event type "Added entries". There, the increased limit can also quickly take effect. For example, if you copy rows from an Excel spreadsheet and paste it into SeaTable, the limit will restrict the execution to the first 50 inserted rows ." />}}
+{{< warning headline="Higher execution limit for automations" >}}
+
+Each automation is subject to an [execution limit](https://seatable.io/en/docs/automationen/ausfuehrungslimit-bei-automationen/) that defines the maximum execution frequency of automations. Such a limit is necessary to ensure a good user experience for all SeaTable Cloud users. Previously, SeaTable Cloud had a limit of 10 executions per minute for each automation. This limit was increased to **50 executions per** minute with the version change. This new limit should not be a relevant limitation for many use cases. This is different for automations with the event type **Added entries**. There, the increased limit can also quickly take effect. For example, if you copy rows from an Excel spreadsheet and paste it into SeaTable, the limit will restrict the execution to the first 50 inserted rows.
+
+{{< /warning >}}
 
 ## Trash bin and search function in file management
 

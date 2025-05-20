@@ -126,29 +126,27 @@ La qualité d'un programme de gestion de la littérature dépend de celle de son
 
 Toutes les informations sur vos sources ne sont pas pertinentes pour le report ultérieur dans la bibliographie. Pour ne pas vous laisser submerger par les indications générées automatiquement par de nombreux programmes, vous devez savoir comment citer correctement vos sources :
 
-{{< faq >}}
-
-Auteurs|||
+{{< faq "Auteurs" >}}
 
 Les auteurs doivent être mentionnés avec leurs noms et prénoms et, le cas échéant, leurs titres académiques. Outre les auteurs, le nom des éditeurs doit également être mentionné pour les ouvrages collectifs.
 {{< /faq >}}
 
-Année|||
+{{< faq "Année" >}}
 
 Outre l'année, vous devez également indiquer le jour et le mois de publication des sources Internet. S'il s'agit d'une source sans indication d'année, vous devez également le signaler.
 {{< /faq >}}
 
-Titre|||
+{{< faq "Titre" >}}
 
 Le titre se réfère au titre de l'article, du livre ou du chapitre s'il s'agit d'un recueil. Il convient de respecter les majuscules et les minuscules.
 {{< /faq >}}
 
-Moyen|||
+{{< faq "Moyen" >}}
 
 La plupart du temps, il suffit d'indiquer la revue ou l'ouvrage dans lequel l'article a été publié. S'il s'agit d'un livre, il convient de mentionner l'éditeur.
 {{< /faq >}}
 
-Édition et nombre de pages|||
+{{< faq "Édition et nombre de pages" >}}
 
 Notez ces informations le plus précisément possible. Comptez les numéros de page s'ils ne sont pas imprimés.
 {{< /faq >}}

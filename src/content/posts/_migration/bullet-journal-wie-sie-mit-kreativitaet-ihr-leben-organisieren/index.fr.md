@@ -52,15 +52,18 @@ La structure de base de votre Bullet Journal se compose de trois parties. L'**in
 
 Vient ensuite la **clé**. Celle-ci est une sorte de légende. Les symboles et leur signification y sont consignés. Cette technique s'appelle le **Rapid Logging**.
 
-{{< warning headline="Voici comment vous pouvez concevoir votre clé" text="- Trait d'union = notes
+{{< warning headline="Voici comment vous pouvez concevoir votre clé" >}}
 
+- Trait d'union = notes
 - point = tâche
 - Colorier le point avec une petite croix = tâche accomplie
 - Point avec flèche dont la pointe est dirigée vers la droite = tâche déplacée
 - Biffer le point = la tâche est supprimée
 - cercle = date
 - Colorier le cercle = rendez-vous terminé
-- Caractères spéciaux = mettre en évidence les choses importantes" >}}
+- Caractères spéciaux = mettre en évidence les choses importantes
+
+{{< /warning >}}
 
 La troisième partie est consacrée aux **vues du calendrier**. Commencez par le **Future Log**, la planification annuelle, dans laquelle vous notez les grands événements et les événements importants.
 

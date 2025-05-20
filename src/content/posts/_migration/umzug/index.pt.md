@@ -36,33 +36,29 @@ Com um planeamento cuidadoso das entregas, a primeira etapa da sua mudança est�
 
 ### Direito a uma licença especial
 
-{{< faq >}}
-
-Tenho direito a uma licença especial legal?|||
+{{< faq "Tenho direito a uma licença especial legal?" >}}
 
 Em primeiro lugar, as más notícias: na Alemanha, de acordo com a Lei Federal das Férias e o Código Civil, **não existe qualquer direito legal a férias** quando se muda de casa.
 {{< /faq >}}
 
-O que diz o meu contrato de trabalho?|||
+{{< faq "O que diz o meu contrato de trabalho?" >}}
 
 Embora não exista um direito geral a uma licença especial, a entidade patronal pode, naturalmente, concedê-la. Para ter a certeza, consulte o seu contrato de trabalho ou pergunte ao conselho de empresa ou a um superior se tem direito a uma licença especial.
 {{< /faq >}}
 
-E se me mudar por motivos profissionais?|||
+{{< faq "E se me mudar por motivos profissionais?" >}}
 
 Neste caso, tem boas hipóteses de beneficiar de férias pagas, mesmo que tal não esteja previsto no seu contrato de trabalho. É feita uma distinção entre mudar de entidade patronal ou apenas de local de trabalho. No primeiro caso, é necessário contar com a boa vontade da nova entidade patronal. Se, pelo contrário, se mudar com a mesma entidade patronal, é possível requerer uma licença remunerada.
 {{< /faq >}}
 
 ### Razões profissionais para a mudança
 
-{{< faq >}}
-
-Que razões tornam uma mudança "relacionada com o trabalho"?|||
+{{< faq "Que razões tornam uma mudança "relacionada com o trabalho"?" >}}
 
 Para além das razões já mencionadas - _mudança de emprego ou de entidade patronal_ - há outras formas de declarar a sua mudança como relacionada com o trabalho. Trata-se, por exemplo, de começar a trabalhar pela primeira vez, mudar de casa ou de apartamento, regressar do estrangeiro para aceitar um novo emprego na Alemanha e encurtar o trajeto diário em pelo menos meia hora.
 {{< /faq >}}
 
-Existem outros regulamentos se eu trabalhar no sector público?|||
+{{< faq "Existem outros regulamentos se eu trabalhar no sector público?" >}}
 
 Sim, porque, enquanto funcionário ou empregado do sector público, tem direito a um dia de licença remunerada para uma mudança de residência por motivos profissionais, de acordo com o artigo 29º do regulamento relativo às convenções colectivas de trabalho. Se já teve de se deslocar uma vez nos últimos cinco anos por motivos profissionais, tem mesmo direito a três dias de licença.
 {{< /faq >}}

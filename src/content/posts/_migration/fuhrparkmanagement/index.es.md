@@ -94,24 +94,22 @@ SeaTable le ofrece una gestión clara e intuitiva de su flota y de las solicitud
 
 ## PREGUNTAS FRECUENTES
 
-{{< faq >}}
-
-¿Qué es un parque móvil?|||
+{{< faq "¿Qué es un parque móvil?" >}}
 
 Una flota de vehículos se refiere a todos los vehículos que posee su empresa.
 {{< /faq >}}
 
-¿Qué es la gestión de flotas?|||
+{{< faq "¿Qué es la gestión de flotas?" >}}
 
 La gestión de flotas hace referencia a todos los procesos relacionados con su flota de vehículos.
 {{< /faq >}}
 
-¿En qué consiste la gestión de flotas?|||
+{{< faq "¿En qué consiste la gestión de flotas?" >}}
 
 La gestión de flotas comienza con **una evaluación de** cuántos vehículos **necesita** su empresa y, a continuación, aclara la **financiación, compra o venta de** los vehículos. Debe garantizar la **gestión** cuidadosa **de los documentos de los vehículos** (documentos de matriculación de vehículos, contratos de compra, pólizas de seguros, etc.) y el **almacenamiento de los datos de los conductores conforme al GDPR** (por ejemplo, datos de movimiento, recibos de combustible, permisos de conducir). El día a día implica la **reserva, entrega y planificación de rutas** sin problemas, así como cualquier **reparación e inspección**.
 {{< /faq >}}
 
-¿Cuánto cuesta la gestión de flotas?|||
+{{< faq "¿Cuánto cuesta la gestión de flotas?" >}}
 
 Esto depende del tamaño de su flota de vehículos y, por tanto, no puede responderse en términos generales. No obstante, debe saber que, si **compra** vehículos, tendrá que ocuparse usted mismo de toda la gestión de la flota. En el caso **del leasing**, las empresas de alquiler de vehículos pueden hacerse cargo de amplios servicios, como el seguro y las inspecciones, si así lo desea.
 

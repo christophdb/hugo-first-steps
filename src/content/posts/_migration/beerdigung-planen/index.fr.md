@@ -8,29 +8,27 @@ url: '/fr/beerdigung-planen'
 
 Vous avez perdu un être cher et souhaitez que les funérailles à venir se déroulent sans encombre ? Ou vous souhaitez organiser vos propres funérailles afin de soulager vos proches après votre décès ? Cet article vous fournit toutes les informations importantes dont vous devez tenir compte pour l'organisation des obsèques.
 
-{{< faq >}}
-
-Combien coûtent des funérailles ?|||
+{{< faq "Combien coûtent des funérailles ?" >}}
 
 Le coût d'un enterrement peut varier de quelques milliers à plusieurs dizaines de milliers d'euros. Un enterrement moyen en Allemagne coûte environ 13.000 euros. Pour savoir où vous pouvez éventuellement économiser sur les frais, consultez l'article.
 {{< /faq >}}
 
-Où peut-on se faire enterrer ?|||
+{{< faq "Où peut-on se faire enterrer ?" >}}
 
 En Allemagne, seuls deux types d'enterrement sont en principe autorisés : l'inhumation et la crémation. Toutefois, il existe un certain nombre d'endroits au choix où le corps ou les cendres peuvent être enterrés. Il s'agit notamment des cimetières, des columbariums ou de zones sélectionnées dans la nature. Pour en savoir plus, consultez le chapitre correspondant.
 {{< /faq >}}
 
-Quels sont les documents nécessaires pour un enterrement ?|||
+{{< faq "Quels sont les documents nécessaires pour un enterrement ?" >}}
 
 Vous aurez notamment besoin de la carte d'identité du défunt, de son acte de naissance et de son acte de mariage, ainsi que de l'acte de décès et du certificat de décès. L'article vous explique également comment vous procurer ces documents.
 {{< /faq >}}
 
-Faut-il faire appel à une entreprise de pompes funèbres ?|||
+{{< faq "Faut-il faire appel à une entreprise de pompes funèbres ?" >}}
 
 Oui. En Allemagne, la loi stipule que certaines activités, comme le transport du corps, ne peuvent être effectuées que par un entrepreneur de pompes funèbres.
 {{< /faq >}}
 
-Qui inviter aux funérailles ?|||
+{{< faq "Qui inviter aux funérailles ?" >}}
 
 En cas de décès d'un être cher, vous devez en informer le plus rapidement possible toutes les personnes qui vous sont proches. Il s'agit notamment des parents, des amis, des connaissances, des voisins et des collègues de travail. C'est à vous de décider si vous préférez organiser la cérémonie en petit comité ou inviter l'ensemble de la communauté endeuillée à l'enterrement par le biais d'un avis de décès.
 

@@ -38,24 +38,22 @@ Os animais de uma espécie particularmente rara ou perigosa podem ter um certo a
 
 Está a planear mudar-se com um novo companheiro animal e não tem a certeza se pode ter um animal de estimação no seu apartamento? Então, é aconselhável consultar o seu **contrato de arrendamento** ou contactar diretamente o seu **senhorio**. Porque não é permitido ter qualquer animal de estimação sem acordo prévio.
 
-{{< faq >}}
-
-O que diz o contrato de arrendamento sobre a posse de animais?|||
+{{< faq "O que diz o contrato de arrendamento sobre a posse de animais?" >}}
 
 O senhorio pode estipular no contrato de arrendamento certas restrições à posse de animais de estimação. Se não existir tal disposição no contrato de arrendamento, o senhorio não pode proibi-lo de ter animais de estimação, independentemente do animal que seja. A exceção é a detenção de animais perigosos.
 {{< /faq >}}
 
-Que restrições existem?|||
+{{< faq "Que restrições existem?" >}}
 
 Existe a chamada cláusula **de autorização**, que restringe a posse de animais de grande porte. Se esta cláusula estiver incluída no seu contrato de arrendamento, deve pedir autorização ao seu senhorio antes de se mudar com um animal. O senhorio pode proibi-lo de adquirir determinados animais em casos individuais, indicando o motivo.
 {{< /faq >}}
 
-Que animais posso ter sem autorização?|||
+{{< faq "Que animais posso ter sem autorização?" >}}
 
 **Os animais de pequeno** porte, como ratos, osgas ou peixes ornamentais, que não representem um perigo ou um incómodo sonoro ou olfativo e que sejam mantidos em gaiolas fechadas, terrários ou aquários, não necessitam de autorização.
 {{< /faq >}}
 
-Posso ter animais de estimação no meu apartamento temporariamente?|||
+{{< faq "Posso ter animais de estimação no meu apartamento temporariamente?" >}}
 
 É claro que não há nada de errado numa visita curta de um amigo com o seu animal de estimação. No entanto, deve obter o consentimento do senhorio se tomar conta de animais durante um período de tempo mais longo ou mesmo mediante pagamento.
 {{< /faq >}}

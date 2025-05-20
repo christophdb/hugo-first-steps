@@ -139,19 +139,17 @@ Nun können Sie Ihre Ergebnisse zusammentragen und interpretieren. Greifen Sie d
 
 Zuletzt überprüfen Sie, ob Ihre Analyse den Gütekriterien der qualitativen Inhaltsanalyse entspricht.
 
-{{< faq >}}
-
-Transparenz|||
+{{< faq "Transparenz" >}}
 
 Ihre Forschung muss für Außenstehende **nachvollziehbar** sein. Erklären Sie für jeden Schritt Ihrer Analyse, wie und warum Sie so vorgegangen sind.
 {{< /faq >}}
 
-Intersubjektivität|||
+{{< faq "Intersubjektivität" >}}
 
 Stellen Sie sicher, dass Ihre Analyse bei wiederholter Durchführung über verschiedene Codierer hinweg ähnliche Ergebnisse aufweist, also **reproduzierbar** ist.
 {{< /faq >}}
 
-Reliabilität|||
+{{< faq "Reliabilität" >}}
 
 Wie zuverlässig ist die Codierung? Werden gleiche Inhalte gleich bewertet und drücken sich Unterschiede angemessen in unterschiedlichen Werten aus?
 {{< /faq >}}

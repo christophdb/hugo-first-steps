@@ -36,33 +36,29 @@ Mit einer sorgfältigen Planung der Übergaben ist der erste Schritt Ihres Umzug
 
 ### Anspruch auf Sonderurlaub
 
-{{< faq >}}
-
-Habe ich ein Anrecht auf gesetzlichen Sonderurlaub?|||
+{{< faq "Habe ich ein Anrecht auf gesetzlichen Sonderurlaub?" >}}
 
 Zunächst die schlechte Nachricht: In Deutschland gibt es laut Bundesurlaubsgesetz und Bürgerlichem Gesetzbuch **keinen gesetzlichen Anspruch auf Urlaub** bei einem Umzug.
 {{< /faq >}}
 
-Was steht in meinem Arbeitsvertrag?|||
+{{< faq "Was steht in meinem Arbeitsvertrag?" >}}
 
 Zwar gibt es keinen generellen Anspruch auf Sonderurlaub, jedoch kann Ihr Arbeitgeber diesen natürlich trotzdem gewähren. Werfen Sie zur Vergewisserung einen Blick in Ihren Arbeitsvertrag oder fragen Sie beim Betriebsrat oder einem Vorgesetzten nach, ob Ihnen Sonderurlaub zusteht.
 {{< /faq >}}
 
-Was ist, wenn ich aus beruflichen Gründen umziehe?|||
+{{< faq "Was ist, wenn ich aus beruflichen Gründen umziehe?" >}}
 
 In diesem Fall haben Sie gute Chancen, dass Sie eine bezahlte Freistellung gewährt bekommen, auch wenn dies nicht in Ihrem Arbeitsvertrag aufgeführt ist. Unterschieden wird, ob Sie den Arbeitgeber wechseln oder lediglich den Arbeitsort. Bei Ersterem müssen Sie auf die Kulanz Ihres neuen Arbeitgebers hoffen. Ziehen Sie hingegen bei ein und demselben Arbeitgeber um, ist es möglich, eine bezahlte Freistellung zu beantragen.
 {{< /faq >}}
 
 ### Berufliche Gründe für den Umzug
 
-{{< faq >}}
-
-Welche Gründe machen einen Umzug 'beruflich bedingt'?|||
+{{< faq "Welche Gründe machen einen Umzug 'beruflich bedingt'?" >}}
 
 Neben den bereits erwähnten Gründen _Arbeitsplatz- oder Arbeitgeberwechsel_ gibt es noch weitere Möglichkeiten, Ihren Umzug als beruflich bedingt geltend zu machen. Diese sind der Antritt Ihres ersten Jobs, der Umzug aus einer oder in eine Dienstwohnung, die Rückkehr aus dem Ausland zum Antritt einer neuen Stelle in Deutschland und die Verkürzung des Arbeitsweges um mindestens eine halbe Stunde täglich.
 {{< /faq >}}
 
-Gibt es andere Regelungen, wenn ich im öffentlichen Dienst arbeite?|||
+{{< faq "Gibt es andere Regelungen, wenn ich im öffentlichen Dienst arbeite?" >}}
 
 Ja, denn als Beamter oder Angestellter im öffentlichen Dienst erhalten Sie gemäß Paragraph 29 der Tarifverordnung einen Tag bezahlten Urlaub für einen Umzug aus dienstlichen Gründen. Mussten Sie in den vergangenen fünf Jahren aus betrieblichen Gründen schon einmal umziehen, haben Sie sogar Anspruch auf drei freie Tage.
 {{< /faq >}}

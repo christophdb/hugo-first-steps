@@ -22,7 +22,11 @@ Además, hemos mejorado el rendimiento de algunas [acciones](https://seatable.io
 
 ![Nuevas opciones de automatización](images/New-options-for-automation.png)
 
-{{< warning headline="Mayor límite de ejecución para las automatizaciones" text="Cada automatización está sujeta a un límite [de ejecución](https://seatable.io/es/docs/automationen/ausfuehrungslimit-bei-automationen/) que define la frecuencia máxima de ejecución de las automatizaciones. Dicho límite es necesario para garantizar una buena experiencia de usuario para todos los usuarios de SeaTable Cloud. Anteriormente, SeaTable Cloud tenía un límite de 10 ejecuciones por minuto para cada automatización. Este límite se incrementó a 50 ejecuciones **por** minuto con el cambio de versión. Este nuevo límite no debería ser una restricción relevante para muchos casos de uso. Esto es diferente para las automatizaciones con el tipo de evento "Entradas añadidas". Allí, el límite aumentado también puede tener efecto rápidamente. Por ejemplo, si copia filas de una tabla Excel y las pega en SeaTable, el límite restringirá la ejecución a las primeras 50 filas insertadas." />}}
+{{< warning headline="Mayor límite de ejecución para las automatizaciones" >}}
+
+Cada automatización está sujeta a un límite [de ejecución](https://seatable.io/es/docs/automationen/ausfuehrungslimit-bei-automationen/) que define la frecuencia máxima de ejecución de las automatizaciones. Dicho límite es necesario para garantizar una buena experiencia de usuario para todos los usuarios de SeaTable Cloud. Anteriormente, SeaTable Cloud tenía un límite de 10 ejecuciones por minuto para cada automatización. Este límite se incrementó a 50 ejecuciones **por** minuto con el cambio de versión. Este nuevo límite no debería ser una restricción relevante para muchos casos de uso. Esto es diferente para las automatizaciones con el tipo de evento **Entradas añadidas**. Allí, el límite aumentado también puede tener efecto rápidamente. Por ejemplo, si copia filas de una tabla Excel y las pega en SeaTable, el límite restringirá la ejecución a las primeras 50 filas insertadas.
+
+{{< /warning >}}
 
 ## Papelera de reciclaje y función de búsqueda en el gestor de archivos
 

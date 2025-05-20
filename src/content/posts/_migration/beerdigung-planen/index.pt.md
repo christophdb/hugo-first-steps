@@ -8,29 +8,27 @@ url: '/pt/beerdigung-planen'
 
 Perdeu um ente querido e gostaria de organizar o funeral sem problemas? Ou gostaria de planear o seu próprio funeral para aliviar os seus familiares após a sua morte? Este artigo fornece-lhe todas as informações importantes que precisa de saber sobre a organização de um funeral.
 
-{{< faq >}}
-
-Quanto custa um funeral?|||
+{{< faq "Quanto custa um funeral?" >}}
 
 O custo de um funeral pode variar entre alguns milhares e várias dezenas de milhares de euros. Um funeral médio na Alemanha custa cerca de 13.000 euros. Pode descobrir onde pode poupar nos custos no artigo.
 {{< /faq >}}
 
-Onde podes ser enterrado?|||
+{{< faq "Onde podes ser enterrado?" >}}
 
 Basicamente, só são permitidos dois tipos de enterro na Alemanha: o enterro no solo e a cremação. No entanto, existem alguns locais à escolha onde o corpo ou as cinzas podem ser enterrados. Estes incluem cemitérios, columbários ou áreas seleccionadas na natureza. Pode obter mais informações sobre este assunto no capítulo correspondente.
 {{< /faq >}}
 
-Que documentos são necessários para um funeral?|||
+{{< faq "Que documentos são necessários para um funeral?" >}}
 
 É necessário, entre outros, o bilhete de identidade do falecido, a certidão de nascimento e de casamento, bem como o certificado de óbito e a certidão de óbito. Para saber como obter estes documentos, consulte o artigo.
 {{< /faq >}}
 
-É necessário contratar um agente funerário?|||
+{{< faq "É necessário contratar um agente funerário?" >}}
 
 Sim. Na Alemanha, a lei estipula que certas actividades, como a transferência do corpo, só podem ser realizadas por um agente funerário.
 {{< /faq >}}
 
-Quem deve convidar para o funeral?|||
+{{< faq "Quem deve convidar para o funeral?" >}}
 
 A morte de um ente querido deve ser comunicada o mais rapidamente possível a todas as pessoas de quem se gosta. Isto inclui familiares, amigos, conhecidos, vizinhos e colegas de trabalho. Cabe-lhe a si decidir se prefere realizar a cerimónia fúnebre num pequeno círculo ou convidar todos os enlutados para o funeral através de um obituário.
 

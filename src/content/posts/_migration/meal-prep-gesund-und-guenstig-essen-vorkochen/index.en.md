@@ -17,19 +17,17 @@ Meal Prep is the abbreviation for **Meal Preparation**. The idea behind it is th
 
 Various dishes are conjured up from just a few ingredients.
 
-{{< faq >}}
-
-Where does the meal prep trend come from?|||
+{{< faq "Where does the meal prep trend come from?" >}}
 
 Like many food trends, the hype surrounding meal prepping originated in the USA. There, meal prep was primarily used by fitness enthusiasts, but quickly found its way into all areas of life.
 {{< /faq >}}
 
-Who is Meal Prep suitable for?|||
+{{< faq "Who is Meal Prep suitable for?" >}}
 
 It is particularly worth trying Meal Prep for people who cannot find the time in their everyday lives to cook their own meals. It also helps to stick to dietary resolutions and strengthen self-discipline. Of course, it takes a little effort and enough motivation to try this new way of cooking, but in the end it can make your diet more efficient, healthier and cheaper.
 {{< /faq >}}
 
-How many days' worth of dishes can you cook in advance?|||
+{{< faq "How many days' worth of dishes can you cook in advance?" >}}
 
 There are two ways in which you can meal prep. You can either cook **double the amount** so that you have enough food for the next day, or you can go one step further and take the time to **pre-cook the individual ingredients** and then combine them as you wish on the following days.
 {{< /faq >}}

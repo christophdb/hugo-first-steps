@@ -137,19 +137,17 @@ Ahora puedes resumir e interpretar tus resultados. Vuelve a la pregunta original
 
 Por último, compruebe si su análisis cumple los criterios de calidad del análisis de contenido cualitativo.
 
-{{< faq >}}
-
-Transparencia|||
+{{< faq "Transparencia" >}}
 
 Su investigación debe ser **comprensible** para personas ajenas a la empresa. Explique cómo y por qué ha procedido en cada paso de su análisis.
 {{< /faq >}}
 
-Intersubjetividad|||
+{{< faq "Intersubjetividad" >}}
 
 Asegúrese de que su análisis arroja resultados similares cuando se repite entre distintos codificadores, es decir, que es **reproducible**.
 {{< /faq >}}
 
-Fiabilidad|||
+{{< faq "Fiabilidad" >}}
 
 ¿Es fiable la codificación? ¿Se valora el mismo contenido por igual y las diferencias se expresan adecuadamente en valores diferentes?
 {{< /faq >}}

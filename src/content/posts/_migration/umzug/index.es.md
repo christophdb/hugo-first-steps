@@ -36,33 +36,29 @@ Con una planificación cuidadosa de los traspasos, el primer paso de su mudanza 
 
 ### Derecho a una excedencia especial
 
-{{< faq >}}
-
-¿Tengo derecho a un permiso especial estatutario?|||
+{{< faq "¿Tengo derecho a un permiso especial estatutario?" >}}
 
 Primero las malas noticias: en Alemania, según la Ley Federal de Vacaciones y el Código Civil, **no hay derecho legal a vacaciones** cuando se cambia de domicilio.
 {{< /faq >}}
 
-¿Qué dice mi contrato de trabajo?|||
+{{< faq "¿Qué dice mi contrato de trabajo?" >}}
 
 Aunque no existe un derecho general a la excedencia especial, su empresario puede, por supuesto, concedérsela. Para asegurarte, consulta tu contrato de trabajo o pregunta al comité de empresa o a un superior si tienes derecho a una excedencia especial.
 {{< /faq >}}
 
-¿Y si me mudo por motivos profesionales?|||
+{{< faq "¿Y si me mudo por motivos profesionales?" >}}
 
 En este caso, tiene muchas posibilidades de que le concedan tiempo libre retribuido, aunque no figure en su contrato de trabajo. Hay que distinguir si cambia de empresario o sólo de lugar de trabajo. En el primer caso, debe confiar en la buena voluntad de su nuevo empresario. Si, por el contrario, se traslada con el mismo empresario, es posible solicitar tiempo libre retribuido.
 {{< /faq >}}
 
 ### Motivos profesionales del traslado
 
-{{< faq >}}
-
-¿Qué razones hacen que un traslado esté "relacionado con el trabajo"?|||
+{{< faq "¿Qué razones hacen que un traslado esté "relacionado con el trabajo"?" >}}
 
 Además de las razones ya mencionadas _\-cambio de trabajo o de empresa-_, hay otras formas de considerar que su traslado está relacionado con el trabajo. Por ejemplo, al aceptar tu primer trabajo, al mudarte a un piso de la empresa, al volver del extranjero para trabajar en Alemania o al acortar los desplazamientos al menos media hora al día.
 {{< /faq >}}
 
-¿Existen otras normas si trabajo en el sector público?|||
+{{< faq "¿Existen otras normas si trabajo en el sector público?" >}}
 
 Sí, porque como funcionario o empleado del sector público tienes derecho a un día de permiso retribuido por traslado por motivos laborales, según el artículo 29 de la Ordenanza de Negociación Colectiva. Si ya has tenido que trasladarte una vez en los últimos cinco años por motivos laborales, tienes derecho incluso a tres días de permiso.
 {{< /faq >}}

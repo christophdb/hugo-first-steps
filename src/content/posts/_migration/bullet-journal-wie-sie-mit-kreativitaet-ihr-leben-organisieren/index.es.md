@@ -52,15 +52,18 @@ La estructura básica de tu bullet journal consta de tres partes. El **índice**
 
 A continuación viene la **llave**. Es una especie de leyenda. En ella se registran los símbolos y su significado. Esta técnica se denomina **registro rápido**.
 
-{{< warning headline="Así puede diseñar su llave" text="- Guión = notas
+{{< warning headline="Así puede diseñar su llave" >}}
 
+- Guión = notas
 - Punto = tarea
 - Colorea el punto con una cruz = tarea completada
 - Punto con flecha hacia la derecha = tarea desplazada
 - Tachar punto = tarea cancelada
 - Círculo = fecha
 - Color en el círculo = cita previa
-- Caracteres especiales = enfatizan adicionalmente las cosas importantes" >}}
+- Caracteres especiales = enfatizan adicionalmente las cosas importantes
+
+{{< /warning >}}
 
 Las **vistas del calendario** siguen en la tercera parte. Empieza por el **Diario Futuro**, el plan anual en el que anotarás los acontecimientos más importantes.
 

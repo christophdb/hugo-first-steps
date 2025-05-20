@@ -137,19 +137,17 @@ You can now compile and interpret your results. Refer back to your original ques
 
 Finally, check whether your analysis meets the quality criteria of qualitative content analysis.
 
-{{< faq >}}
-
-Transparency|||
+{{< faq "Transparency" >}}
 
 Your research must be **comprehensible** to outsiders. Explain how and why you proceeded in each step of your analysis.
 {{< /faq >}}
 
-Intersubjectivity|||
+{{< faq "Intersubjectivity" >}}
 
 Make sure that your analysis shows similar results when repeated across different coders, i.e. that it is **reproducible**.
 {{< /faq >}}
 
-Reliability|||
+{{< faq "Reliability" >}}
 
 How reliable is the coding? Is the same content rated equally and are differences expressed appropriately in different values?
 {{< /faq >}}

@@ -94,24 +94,22 @@ SeaTable vous offre une gestion claire et intuitive de votre flotte et des deman
 
 ## FAQ
 
-{{< faq >}}
-
-Qu'est-ce qu'un parc de véhicules ?|||
+{{< faq "Qu'est-ce qu'un parc de véhicules ?" >}}
 
 Une flotte est l’ensemble des véhicules possédés par votre entreprise.
 {{< /faq >}}
 
-Qu'est-ce que la gestion de flotte ?|||
+{{< faq "Qu'est-ce que la gestion de flotte ?" >}}
 
 La gestion de flotte fait référence à tous les processus qui affectent votre flotte de véhicules.
 {{< /faq >}}
 
-Que comprend la gestion de flotte ?|||
+{{< faq "Que comprend la gestion de flotte ?" >}}
 
 La gestion de flotte commence par une **évaluation** du nombre de véhicules dont votre entreprise a besoin, puis clarifie le **financement, l'achat ou la vente** des véhicules. Elle doit assurer une **gestion soignée des documents du véhicule** (carte grise, contrats d'achat, assurances, etc.) et le **stockage conforme au RGPD des données du conducteur** (par exemple, données de déplacement, reçus de carburant, permis de conduire). Les activités quotidiennes comprennent **la réservation, la remise et la planification des itinéraires** en toute fluidité, ainsi que les éventuelles **réparations et inspections** .
 {{< /faq >}}
 
-Combien coûte la gestion de flotte ?|||
+{{< faq "Combien coûte la gestion de flotte ?" >}}
 
 Cela dépend de la taille de votre flotte de véhicules et ne peut donc pas être répondu en termes généraux. Toutefois, vous devez savoir que si vous **achetez** des véhicules, vous devrez vous occuper vous-même de toute la gestion de votre flotte. Lors **de la location,** les sociétés de location de voitures peuvent fournir des services complets tels que des assurances et des inspections sur demande.
 

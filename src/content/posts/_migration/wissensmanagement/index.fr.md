@@ -130,44 +130,42 @@ Pesez le pour et le contre.
 
 Si vous souhaitez mettre en place une gestion des connaissances efficace dans votre entreprise, vous ne pouvez guère faire l'impasse sur un **système de gestion des connaissances** sous la forme d'un logiciel. Le choix de **solutions logicielles** adaptées est vaste. En fonction de vos exigences, il existe une énorme variété de systèmes avec des objectifs différents :
 
-{{< faq >}}
-
-Wikis et systèmes de gestion de l'information|||
+{{< faq "Wikis et systèmes de gestion de l'information" >}}
 
 exemples : Confluence, Guru
 {{< /faq >}}
 
-Groupware et systèmes de collaboration|||
+{{< faq "Groupware et systèmes de collaboration" >}}
 
 des exemples : BSCW, Microsoft SharePoint
 {{< /faq >}}
 
-Messageries instantanées et systèmes de communication|||
+{{< faq "Messageries instantanées et systèmes de communication" >}}
 
 Exemples : Slack, Microsoft Teams
 {{< /faq >}}
 
-Systèmes de gestion de documents et d'échange de fichiers|||
+{{< faq "Systèmes de gestion de documents et d'échange de fichiers" >}}
 
 Exemples : Seafile, Nextcloud, iCloud, Google Drive, OneDrive, Dropbox
 {{< /faq >}}
 
-Systèmes de gestion de la relation client|||
+{{< faq "Systèmes de gestion de la relation client" >}}
 
 exemples : Pipedrive, Salesforce
 {{< /faq >}}
 
-Systèmes de gestion de projets|||
+{{< faq "Systèmes de gestion de projets" >}}
 
 Exemples : Asana, Jira
 {{< /faq >}}
 
-Systèmes de gestion des RH et du personnel|||
+{{< faq "Systèmes de gestion des RH et du personnel" >}}
 
 Exemples : Personio, DATEV
 {{< /faq >}}
 
-Systèmes de gestion de contenu|||
+{{< faq "Systèmes de gestion de contenu" >}}
 
 des exemples : WordPress, TYPO3
 
