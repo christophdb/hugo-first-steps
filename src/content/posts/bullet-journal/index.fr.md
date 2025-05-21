@@ -3,7 +3,7 @@ title: 'Bullet Journal - comment organiser votre vie avec créativité'
 date: 2023-12-19
 lastmod: '2024-01-25'
 author: 'lsc'
-url: '/fr/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren'
+url: '/fr/bullet-journal'
 ---
 
 Dans un quotidien souvent stressant, il est difficile de concilier les tâches, les rendez-vous et ses propres intérêts. Pour ne pas perdre de vue les choses qui sont vraiment importantes pour vous dans la vie, il est utile de les noter dans le tas de processus monotones quotidiens. Pour cela, un **Bullet Journal** est idéal, dans lequel vous pouvez noter tout ce qui est important et laisser libre cours à votre créativité.

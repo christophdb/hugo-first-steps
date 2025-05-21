@@ -4,7 +4,7 @@ date: 2024-02-16
 lastmod: '2024-02-16'
 coverImage: 'Gender-Reveal-Party-organisieren-e1706793584661.jpg'
 author: 'lsc'
-url: '/gender-reveal-party-so-wird-ihre-babyparty-ein-erfolg'
+url: '/gender-reveal-party'
 ---
 
 A baby is on the way and you want to celebrate in style? Then a **gender reveal party** is the right thing for you. This trend from the USA involves revealing the gender of the baby in an impressive way. If you want to organize such a **baby shower**, you need to plan carefully how to coordinate the decorations, food and program.

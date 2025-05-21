@@ -3,7 +3,7 @@ title: 'Bullet journal - como organizar a sua vida com criatividade'
 date: 2023-12-19
 lastmod: '2024-01-25'
 author: 'lsc'
-url: '/pt/bullet-journal-wie-sie-mit-kreativitaet-ihr-leben-organisieren'
+url: '/pt/bullet-journal'
 ---
 
 Na vida quotidiana, muitas vezes stressante, é difícil conciliar tarefas, compromissos e os seus próprios interesses. Para garantir que não perde de vista as coisas que são realmente importantes para si na vida, na pilha diária de rotinas monótonas, ajuda escrevê-las. Um **bullet journal** é ideal para isso, no qual pode registar tudo o que é importante e dar asas à sua criatividade.

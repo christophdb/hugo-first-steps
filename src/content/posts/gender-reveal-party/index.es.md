@@ -3,7 +3,7 @@ title: 'Fiesta de revelación del sexo: cómo hacer que tu baby shower sea un é
 date: 2024-02-16
 lastmod: '2024-02-16'
 author: 'lsc'
-url: '/es/gender-reveal-party-so-wird-ihre-babyparty-ein-erfolg'
+url: '/es/gender-reveal-party'
 ---
 
 ¿Viene un bebé en camino y quieres celebrarlo por todo lo alto? Entonces una **fiesta de revelación de sexo** es lo que necesitas. Esta tendencia estadounidense consiste en desvelar el sexo del bebé de una forma impresionante. Si quieres organizar una fiesta **de** este tipo, tienes que planificar cuidadosamente cómo coordinar la decoración, la comida y el programa.
