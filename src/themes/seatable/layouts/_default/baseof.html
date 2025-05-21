@@ -275,6 +275,11 @@
                     return;
                 }
 
+                // Do not redirect if Matomo preview mode is enabled
+                if (params.has('mtmPreviewMode')) {
+                    return;
+                }
+
                 // Check local storage first
                 const language = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
 
