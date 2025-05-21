@@ -114,7 +114,7 @@ You can find out more about integrating your own SSL certificate in the [SeaTabl
 
 You can use SeaTable Enterprise Edition with all functions without a paid licence with up to three users - privately as well as commercially and also permanently. For this reason, you do not need a licence to get started.
 
-However, if you want to create more than three users in SeaTable, SeaTable will refuse to do so. You can obtain a licence from [our sales department](/en/kontakt/?lang=auto). You can find more information about the prices of SeaTable Enterprise on our [pricing page](/en/preise/?lang=auto).
+However, if you want to create more than three users in SeaTable, SeaTable will refuse to do so. You can obtain a licence from [our sales department]({{< relref "pages/contact" >}}). You can find more information about the prices of SeaTable Enterprise on our [pricing page]({{< relref "pages/prices" >}}).
 
 To activate the licence, save the licence file, a TXT file, in the folder /opt/seatable/seatable-data/seatable and restart SeaTable:
 

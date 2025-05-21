@@ -113,7 +113,7 @@ Puede encontrar más información sobre la integración de su propio certificado
 
 Puede utilizar SeaTable Enterprise Edition con todas las funciones sin necesidad de una licencia de pago con un máximo de tres usuarios, tanto de forma privada como comercial y también de forma permanente. Por esta razón, no necesitas una licencia para empezar.
 
-Sin embargo, si quiere crear más de tres usuarios en SeaTable, éste se negará a hacerlo. Puede obtener una licencia en [nuestro departamento de ventas](/es/kontakt/?lang=auto). Puede encontrar más información sobre los precios de SeaTable Enterprise en nuestra [página de precios](/es/preise/?lang=auto).
+Sin embargo, si quiere crear más de tres usuarios en SeaTable, éste se negará a hacerlo. Puede obtener una licencia en [nuestro departamento de ventas]({{< relref "pages/contact" >}}). Puede encontrar más información sobre los precios de SeaTable Enterprise en nuestra [página de precios]({{< relref "pages/prices" >}}).
 
 Para activar la licencia, guarde el archivo de licencia, un archivo TXT, en la carpeta /opt/seatable/seatable-data/seatable y reinicie SeaTable:
 
