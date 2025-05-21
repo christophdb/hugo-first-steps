@@ -27,7 +27,7 @@ O menu de opções das colunas de selecção única e múltipla é outro modal q
 
 ### Edição simultânea de várias tabelas
 
-[SeaTable 1.4](seatable-release-1-4/?lang=auto) introduziu um novo mago que facilita a ligação das entradas. Este assistente abre-se com um clique numa célula de ligação e depois mostra todas as entradas na coluna ligada numa janela transparente. Outro clique sobre uma entrada cria o link para a entrada na célula. Por outras palavras, com o novo assistente, ligar entradas tornou-se tão fácil como seleccionar um valor a partir de um menu drop-down.
+[SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) introduziu um novo mago que facilita a ligação das entradas. Este assistente abre-se com um clique numa célula de ligação e depois mostra todas as entradas na coluna ligada numa janela transparente. Outro clique sobre uma entrada cria o link para a entrada na célula. Por outras palavras, com o novo assistente, ligar entradas tornou-se tão fácil como seleccionar um valor a partir de um menu drop-down.
 
 SeaTable 1.5 torna agora este feiticeiro ainda mais poderoso: As entradas na coluna ligada podem agora não só ser exibidas mas também editadas directamente. Um clique numa entrada ligada abre os seus detalhes e todas as alterações feitas aqui são guardadas directamente na tabela ligada. Se quiser saltar para a tabela ligada, pode fazê-lo com a ligação directa na parte superior dos detalhes.
 
