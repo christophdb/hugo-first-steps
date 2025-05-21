@@ -234,4 +234,4 @@ También hay disponible una aplicación para simplificar la planificación del v
 
 ![Presupuesto en la aplicación de viajes SeaTable](images/Travel-App.png)
 
-[Regístrese](https://seatable.io/es/registrierung/) gratis hoy mismo para beneficiarse de estas prácticas funciones y organizar su próximo viaje sin estrés. Después podrás utilizar la [plantilla](https://seatable.io/es/vorlage/axq_85kkrjsriagmqpxehw/) en tu espacio de trabajo personal de SeaTable, rellenarla con tus propios datos y compartirla con tus compañeros de viaje a través de la app.
+[Regístrese]({{< relref "pages/registration" >}}) gratis hoy mismo para beneficiarse de estas prácticas funciones y organizar su próximo viaje sin estrés. Después podrás utilizar la [plantilla](https://seatable.io/es/vorlage/axq_85kkrjsriagmqpxehw/) en tu espacio de trabajo personal de SeaTable, rellenarla con tus propios datos y compartirla con tus compañeros de viaje a través de la app.

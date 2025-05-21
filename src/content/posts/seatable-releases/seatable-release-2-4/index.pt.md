@@ -19,7 +19,7 @@ Com o SeaTable 2.4 introduzimos a navegação com vista docável, o que torna a 
 
 ## Ligação a outras entradas muito mais flexível
 
-O tipo de coluna Ligação a outras entradas é provavelmente a mais importante do SeaTable. O SeaTable não é apenas mais uma [folha de cálculo online](die-online-tabellenkalkulation-fuer-alle-ihre-aufgaben/)! Como nenhum outro tipo de coluna, este tipo de coluna representa isso. E no SeaTable 2.4 tornámos este tipo de coluna ainda melhor.
+O tipo de coluna Ligação a outras entradas é provavelmente a mais importante do SeaTable. O SeaTable não é apenas mais uma folha de cálculo online! Como nenhum outro tipo de coluna, este tipo de coluna representa isso. E no SeaTable 2.4 tornámos este tipo de coluna ainda melhor.
 
 ![Mais opções de visualização para a coluna de ligação](images/More_Flexible_Link_Column_raw_1448x554.png)
 

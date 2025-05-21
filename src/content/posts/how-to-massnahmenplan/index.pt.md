@@ -7,7 +7,7 @@ url: '/pt/how-to-massnahmenplan'
 color: '#eeeeee'
 ---
 
-Para que as empresas cresçam e se desenvolvam, estabelecem constantemente novos objectivos e trabalham para eles com todos os seus recursos. O plano de acção é um método comprovado para alcançar estes objectivos - por exemplo na [gestão de projectos](/pt/projekt-management/), finanças & controlo e [marketing](/pt/marketing/).
+Para que as empresas cresçam e se desenvolvam, estabelecem constantemente novos objectivos e trabalham para eles com todos os seus recursos. O plano de acção é um método comprovado para alcançar estes objectivos - por exemplo na [gestão de projectos](/pt/projekt-management/), finanças & controlo e [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
 
 ## O que é um plano de acção?
 

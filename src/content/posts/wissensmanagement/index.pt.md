@@ -195,4 +195,4 @@ Pode utilizar o SeaTable na nuvem, que está alojado em centros de dados alemãe
 
 Todo começo é difícil, mas vale a pena! Invista tempo e esforço na gestão do conhecimento para utilizar o conhecimento escondido na sua empresa.
 
-Gostaria de utilizar o SeaTable para a sua gestão do conhecimento? Então, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente.
+Gostaria de utilizar o SeaTable para a sua gestão do conhecimento? Então, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente.

@@ -51,7 +51,7 @@ Pode introduzir facilmente todas as suas despesas no seu livro de orçamento dig
 
 Quer se trate de compras, renda e serviços públicos, seguro automóvel ou explicações para o seu filho - com o SeaTable pode controlar todas as suas despesas. Com a ajuda de [colunas de seleção única](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), pode **categorizar**, **filtrar** e **agrupar** as suas despesas individualmente. Para uma ordem cronológica no seu livro de orçamento, basta **ordenar** as suas despesas por [data](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/). Pode listar o seu **rendimento** mensal e calcular o seu excedente **orçamental** em dois quadros adicionais.
 
-Se pretender utilizar o modelo para o seu livro de orçamento, [basta registar-se gratuitamente](https://seatable.io/pt/registrierung/) no SeaTable. Pode então importar o [modelo](https://seatable.io/pt/vorlage/kqecvuxbrganzgw0w1skgq/) para o seu espaço de trabalho e personalizá-lo de acordo com as suas necessidades.
+Se pretender utilizar o modelo para o seu livro de orçamento, [basta registar-se gratuitamente]({{< relref "pages/registration" >}}) no SeaTable. Pode então importar o [modelo](https://seatable.io/pt/vorlage/kqecvuxbrganzgw0w1skgq/) para o seu espaço de trabalho e personalizá-lo de acordo com as suas necessidades.
 
 ## 12 dicas para o ajudar a poupar dinheiro
 
@@ -143,6 +143,6 @@ Ao mesmo tempo, pode criar hábitos positivos: Por exemplo, o simples facto de b
 
 ## O seu orçamento perfeito reserve com o SeaTable
 
-Como pode ver: O controlo das suas despesas e do seu custo de vida só tem vantagens. Com um livro de orçamento, mantém-se sempre no controlo e sabe exatamente para onde foi o seu dinheiro. O SeaTable adapta-se às suas necessidades. Se atualmente utiliza o Excel para o seu livro de orçamento, pode simplesmente importar as suas tabelas para o SeaTable. Pode [registar-se gratuitamente](https://seatable.io/pt/registrierung/) e experimentar o SeaTable!
+Como pode ver: O controlo das suas despesas e do seu custo de vida só tem vantagens. Com um livro de orçamento, mantém-se sempre no controlo e sabe exatamente para onde foi o seu dinheiro. O SeaTable adapta-se às suas necessidades. Se atualmente utiliza o Excel para o seu livro de orçamento, pode simplesmente importar as suas tabelas para o SeaTable. Pode [registar-se gratuitamente]({{< relref "pages/registration" >}}) e experimentar o SeaTable!
 
 Se pretender utilizar o nosso modelo, consulte a nossa área de modelos [financeiros](https://seatable.io/pt/vorlagen/finanzen/). Existem muitos outros casos de utilização em que o SeaTable pode facilitar o seu quotidiano.

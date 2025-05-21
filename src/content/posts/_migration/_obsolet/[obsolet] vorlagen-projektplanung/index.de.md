@@ -57,7 +57,7 @@ Der Einsatz von SeaTable lohnt sich, wenn Sie mit mehreren Parteien an einem Pro
 
 ### So gehen Sie vor
 
-Für die Erstellung Ihres Projektplans [registrieren Sie sich kostenfrei auf SeaTable](https://seatable.io/registrierung/) und loggen sich in dem digitalen Tool über Ihren Browser ein. Klicken Sie anschließend auf „Base hinzufügen“ und wählen Sie eine Vorlage aus. Das Template steht sofort zur Nutzung bereit.
+Für die Erstellung Ihres Projektplans [registrieren Sie sich kostenfrei auf SeaTable]({{< relref "pages/registration" >}}) und loggen sich in dem digitalen Tool über Ihren Browser ein. Klicken Sie anschließend auf „Base hinzufügen“ und wählen Sie eine Vorlage aus. Das Template steht sofort zur Nutzung bereit.
 
 ### 5 Vorlagen für die Projektplanung in SeaTable
 

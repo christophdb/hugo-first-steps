@@ -11,7 +11,7 @@ color: '#eeeeee'
 
 Инструмент CRM должен помочь вам и вашей компании улучшить деловые отношения с вашими клиентами, увеличить связанный оборот ваших клиентов и оптимизировать внутренние процессы в вашей компании.
 
-На рынке представлено более чем достаточно поставщиков программного обеспечения CRM. Наиболее известными программными решениями CRM, вероятно, являются [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) и [SugarCRM](https://www.sugarcrm.com/). Внедрение новой и хорошо известной CRM-системы может быстро стать дорогостоящим, особенно для малых и средних компаний. Однако это не обязательно должно быть так. [SeaTable](https://seatable.io/ru/registrierung/) - это оптимальное и в то же время доступное решение.
+На рынке представлено более чем достаточно поставщиков программного обеспечения CRM. Наиболее известными программными решениями CRM, вероятно, являются [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) и [SugarCRM](https://www.sugarcrm.com/). Внедрение новой и хорошо известной CRM-системы может быстро стать дорогостоящим, особенно для малых и средних компаний. Однако это не обязательно должно быть так. [SeaTable]({{< relref "pages/registration" >}}) - это оптимальное и в то же время доступное решение.
 
 ## Что такое CRM?
 
@@ -140,5 +140,5 @@ CRM-система от SeaTable
 Кроме того, вам не нужно отдельное решение для каждой отдельной области задач, а можно эффективно и качественно отображать межведомственные процессы с помощью SeaTable. SeaTable действительно не оставляет желать лучшего и полностью адаптируется к вашим личным потребностям. Чего вы ждете? Откажитесь от услуг дорогих поставщиков программного обеспечения CRM и начните работу с CRM-системой SeaTable уже сегодня.
 
 [К шаблону "Управление предложениями CRM"](https://seatable.io/ru/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)  
-[Попробуйте SeaTable в облаке бесплатно прямо сейчас](/ru/registrierung/)  
+[Попробуйте SeaTable в облаке бесплатно прямо сейчас]({{< relref "pages/registration" >}})  
 [Или предпочитаете использовать SeaTable Enterprise в собственном центре обработки данных](/ru/get-enterprise-server/)

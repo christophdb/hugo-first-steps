@@ -138,4 +138,4 @@ Der [Schreibplan](https://seatable.io/vorlage/lkngogoxqfaoj1kppa2awa/) von SeaTa
 
 Die hier vorgestellten Autorensoftware-Tools bieten eine Vielzahl von Funktionen und Möglichkeiten, um Sie in jeder Phase des Schreibprozesses zu unterstützen. Letztendlich ist die Auswahl der passenden Software von Ihren individuellen Bedürfnissen und Vorlieben beim Buch schreiben abhängig. Mit dem richtigen Programm können Sie Ihren Schreibprozess optimieren und Ihre kreativen Visionen erfolgreich realisieren.
 
-Wenn Sie die Vorlage von SeaTable für Ihr Buchprojekt nutzen möchten, [registrieren Sie sich](https://seatable.io/registrierung/) einfach kostenlos mit Ihrer E-Mail-Adresse. So können Sie in wenigen Minuten bereits mit Ihrem persönlichen [Schreibplan](https://seatable.io/vorlage/lkngogoxqfaoj1kppa2awa/) starten.
+Wenn Sie die Vorlage von SeaTable für Ihr Buchprojekt nutzen möchten, [registrieren Sie sich]({{< relref "pages/registration" >}}) einfach kostenlos mit Ihrer E-Mail-Adresse. So können Sie in wenigen Minuten bereits mit Ihrem persönlichen [Schreibplan](https://seatable.io/vorlage/lkngogoxqfaoj1kppa2awa/) starten.

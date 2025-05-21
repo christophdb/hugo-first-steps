@@ -130,5 +130,5 @@ This article should have shown you how flexibly SeaTable can be used. You can ma
 What are you still waiting for? Your new supply chain management is already in the starting blocks.
 
 [To the template "Supply Chain Management](https://seatable.io/en/vorlage/lrtcit5zqratbf0rpidxlw/)  
-[Try SeaTable in the cloud for free now](/en/registrierung/)  
+[Try SeaTable in the cloud for free now]({{< relref "pages/registration" >}})  
 [Or prefer to run SeaTable Enterprise in your own data centre](/en/get-enterprise-server/)

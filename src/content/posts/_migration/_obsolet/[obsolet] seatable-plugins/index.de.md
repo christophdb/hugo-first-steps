@@ -10,7 +10,7 @@ draft: true
 
 ## Lernen Sie die Plugins von SeaTable kennen
 
-SeaTable arbeitet ständig an neuen Plugins, die Ihnen noch mehr Funktionalität in Ihre Tabellen bringen. Sie können verschiedene Plugins kombinieren, um den für Sie und Ihr Team perfekten Workflow zu kreieren. Alle Plugins von SeaTable sind in der kostenlosen Standardversion enthalten und innerhalb von Sekunden installiert und einsatzbereit. Schauen wir uns in diesem Beitrag die verschiedenen Plugins von SeaTable genauer an, sodass sie [sofort loslegen](https://seatable.io/registrierung/) können.
+SeaTable arbeitet ständig an neuen Plugins, die Ihnen noch mehr Funktionalität in Ihre Tabellen bringen. Sie können verschiedene Plugins kombinieren, um den für Sie und Ihr Team perfekten Workflow zu kreieren. Alle Plugins von SeaTable sind in der kostenlosen Standardversion enthalten und innerhalb von Sekunden installiert und einsatzbereit. Schauen wir uns in diesem Beitrag die verschiedenen Plugins von SeaTable genauer an, sodass sie [sofort loslegen]({{< relref "pages/registration" >}}) können.
 
 ### Wie installiere ich ein Plugin in SeaTable?
 
@@ -39,4 +39,4 @@ Unser Karten-Plugin erleichtert Ihnen die Standortvisualisierung Ihrer Daten. In
 
 ### Mehr als eine Tabelle
 
-SeaTable ist mehr als eine einfache Tabelle. Mit zusätzlichen Plugins gestalten Sie Ihren Workflow und bereiten Ihre Daten nützlich auf. Wir arbeiten ständig an neuen Plugins, damit Sie in Zukunft noch effizienter arbeiten können. Sie können so viele Plugins installieren, wie Sie möchten. Alle Plugins sind in unserem kostenlosen Free Abo inbegriffen. [Melden Sie sich jetzt an und legen Sie los!](https://seatable.io/registrierung/)
+SeaTable ist mehr als eine einfache Tabelle. Mit zusätzlichen Plugins gestalten Sie Ihren Workflow und bereiten Ihre Daten nützlich auf. Wir arbeiten ständig an neuen Plugins, damit Sie in Zukunft noch effizienter arbeiten können. Sie können so viele Plugins installieren, wie Sie möchten. Alle Plugins sind in unserem kostenlosen Free Abo inbegriffen. [Melden Sie sich jetzt an und legen Sie los!]({{< relref "pages/registration" >}})

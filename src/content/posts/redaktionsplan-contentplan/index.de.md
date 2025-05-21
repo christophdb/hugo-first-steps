@@ -3,7 +3,7 @@ title: 'Redaktionsplan | Contentplan erstellen: Tipps & Tricks mit Vorlage'
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/de/contentplan-vorlage'
+url: '/de/redaktionsplan-contentplan'
 color: '#eeeeee'
 ---
 
@@ -148,4 +148,4 @@ Alles in allem sollten Sie darauf achten, dass …
 
 Wenn Sie einen [Marketingplan](https://seatable.io/marketingplan-vorlage/) erstellen gehört ein übersichtlicher Contentplan dazu, um den Überblick über die geplanten Inhalte, Termine, Aufgaben sowie deren Status zu behalten. So lassen sich Beiträge im Team erfolgreich planen und verwirklichen.
 
-Wenn wir Ihr Interesse an SeaTable geweckt haben, [registrieren Sie sich kostenlos](https://seatable.io/registrierung/) in unserer Cloud und beginnen Sie direkt mit der Contentplan Vorlage zu arbeiten.
+Wenn wir Ihr Interesse an SeaTable geweckt haben, [registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) in unserer Cloud und beginnen Sie direkt mit der Contentplan Vorlage zu arbeiten.

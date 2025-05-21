@@ -20,7 +20,7 @@ With SeaTable 2.4 we introduce dockable view navigation, which makes selecting a
 
 ## Linking to other entries much more flexible
 
-The column type Link to other entries is probably SeaTable's most important. SeaTable is not just another [online spreadsheet](die-online-tabellenkalkulation-fuer-alle-ihre-aufgaben/)! Like no other column type, this column type stands for that. And in SeaTable 2.4 we have made this column type even better.
+The column type Link to other entries is probably SeaTable's most important. SeaTable is not just another online spreadsheet! Like no other column type, this column type stands for that. And in SeaTable 2.4 we have made this column type even better.
 
 ![More display options for link column](images/More_Flexible_Link_Column_raw_1448x554.png)
 

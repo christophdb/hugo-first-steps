@@ -65,7 +65,7 @@ Compared to Airtable, SeaTable impresses with multilingualism, higher memory lim
 
 In addition, SeaTable offers a self-hosted variant that allows you to install and operate the software as an [on-premises solution](https://seatable.io/en/on-premises/) on your own servers. This gives you absolute data sovereignty and maximum control over where your data is stored. No matter which option you choose, SeaTable is compliant with Canadian privacy laws.
 
-You want to capture data in a structured way, complete tasks efficiently and develop powerful processes - without having to worry about the security of your data? Then convince yourself and [register here](https://seatable.io/en/registrierung/) for a **SeaTable Free subscription**, which already provides you with numerous useful [functions](https://seatable.io/en/preise). The subscription is **completely free for** you and a perfect opportunity to test SeaTable without obligation.
+You want to capture data in a structured way, complete tasks efficiently and develop powerful processes - without having to worry about the security of your data? Then convince yourself and [register here]({{< relref "pages/registration" >}}) for a **SeaTable Free subscription**, which already provides you with numerous useful [functions](https://seatable.io/en/preise). The subscription is **completely free for** you and a perfect opportunity to test SeaTable without obligation.
 
 Not convinced yet? You can find more information about SeaTable on the [website](https://seatable.io/en/).
 

@@ -90,7 +90,7 @@ Controle toda su flota Con nuestro [software](https://seatable.io/es/vorlage/qsx
 
 SeaTable le ofrece una gestión clara e intuitiva de su flota y de las solicitudes de reserva entrantes. Esto significa que siempre tendrá una visión general de qué vehículos están disponibles en qué momento y el estado de su flota.
 
-[Regístrese gratis](https://seatable.io/es/registrierung/) y pruebe hoy mismo SeaTable y la plantilla flexible y personalizable para la gestión de su flota.
+[Regístrese gratis]({{< relref "pages/registration" >}}) y pruebe hoy mismo SeaTable y la plantilla flexible y personalizable para la gestión de su flota.
 
 ## PREGUNTAS FRECUENTES
 

@@ -138,4 +138,4 @@ El [programa de escritura](https://seatable.io/es/vorlage/lkngogoxqfaoj1kppa2awa
 
 Las herramientas de software de autoría que se presentan aquí ofrecen una variedad de características y capacidades para ayudarlo en cada etapa del proceso de escritura. En última instancia, la elección del software adecuado depende de sus necesidades y preferencias individuales a la hora de escribir libros. Con el programa adecuado, puedes agilizar tu proceso de escritura y hacer realidad con éxito tus visiones creativas.
 
-Si desea utilizar la plantilla de SeaTable para su proyecto de libro, simplemente [regístrese](https://seatable.io/es/registrierung/) de forma gratuita con su dirección de correo electrónico. Así que puedes empezar con tu plan personal de [escritura](https://seatable.io/es/vorlage/lkngogoxqfaoj1kppa2awa/) en tan solo unos minutos.
+Si desea utilizar la plantilla de SeaTable para su proyecto de libro, simplemente [regístrese]({{< relref "pages/registration" >}}) de forma gratuita con su dirección de correo electrónico. Así que puedes empezar con tu plan personal de [escritura](https://seatable.io/es/vorlage/lkngogoxqfaoj1kppa2awa/) en tan solo unos minutos.

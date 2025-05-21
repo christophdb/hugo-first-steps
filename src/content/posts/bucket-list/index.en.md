@@ -179,4 +179,4 @@ To ensure that you don't lose sight of the goals on your bucket list, it is advi
 
 In addition, you can record which friends and family members share certain interests and would accompany you on your adventures. You can also save additional information such as pictures, links or addresses directly in your bucket list to collect all relevant details in one place.
 
-Check off goal after goal from your bucket list, flexibly add new ideas or delete wishes that are no longer important to you. You can [register for free](https://seatable.io/en/registrierung/) with SeaTable and customize the [online template](https://seatable.io/en/vorlage/jbn_a4wysewcfd9eegkgha/) to suit your needs.
+Check off goal after goal from your bucket list, flexibly add new ideas or delete wishes that are no longer important to you. You can [register for free]({{< relref "pages/registration" >}}) with SeaTable and customize the [online template](https://seatable.io/en/vorlage/jbn_a4wysewcfd9eegkgha/) to suit your needs.

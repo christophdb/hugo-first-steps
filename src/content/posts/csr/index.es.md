@@ -101,4 +101,4 @@ La [plantilla](https://seatable.io/es/vorlage/dzs1hkplqmurvmuwzhv0fa/) gratuita 
 
 Con la ayuda de otra tabla, puede hacer un seguimiento de todas las cifras importantes y ver de un vistazo en qué áreas ya ha sido capaz de mejorar. También puede documentar los certificados de sostenibilidad que ya ha recibido o en los que está trabajando y generar automáticamente la próxima fecha para la nueva solicitud.
 
-Para utilizar SeaTable, basta con [registrarse](https://seatable.io/es/registrierung/) gratuitamente. A continuación, puede añadir la [plantilla](https://seatable.io/es/vorlage/dzs1hkplqmurvmuwzhv0fa/) a su base y añadir sus propios datos.
+Para utilizar SeaTable, basta con [registrarse]({{< relref "pages/registration" >}}) gratuitamente. A continuación, puede añadir la [plantilla](https://seatable.io/es/vorlage/dzs1hkplqmurvmuwzhv0fa/) a su base y añadir sus propios datos.

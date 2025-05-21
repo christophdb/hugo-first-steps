@@ -19,7 +19,7 @@ Avec SeaTable 2.4, nous introduisons la navigation par vue ancrable, qui rend la
 
 ## L'établissement de liens vers d'autres entrées est beaucoup plus souple
 
-Le type de colonne Lien vers d'autres entrées est probablement le plus important de SeaTable. SeaTable n'est pas seulement un autre [tableur en ligne](die-online-tabellenkalkulation-fuer-alle-ihre-aufgaben/)! Comme aucun autre type de colonne, ce type de colonne représente cela. Et dans SeaTable 2.4, nous avons encore amélioré ce type de colonne.
+Le type de colonne Lien vers d'autres entrées est probablement le plus important de SeaTable. SeaTable n'est pas seulement un autre tableur en ligne! Comme aucun autre type de colonne, ce type de colonne représente cela. Et dans SeaTable 2.4, nous avons encore amélioré ce type de colonne.
 
 ![Plus d'options d'affichage pour la colonne de liens](images/More_Flexible_Link_Column_raw_1448x554.png)
 

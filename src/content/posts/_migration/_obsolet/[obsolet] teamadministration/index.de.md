@@ -8,11 +8,11 @@ color: '#eeeeee'
 draft: true
 ---
 
-Mit dem Upgrade der SeaTable Cloud auf die Version 3.0 profitieren Cloud Abonnenten nicht nur von den vielen neuen und verbesserten Funktionen des [Major Releases](/seatable-release-3-0), sondern auch von einer neuen Teamverwaltung, die das Management von kleinen und insbesondere größeren Teams vereinfacht. Neue Funktionen wurden ergänzt, bestehende Funktionen wurden erweitert und ein neues Design schafft mehr Übersicht und Nutzerfreundlichkeit. Wir freuen uns, Ihnen die neue Teamverwaltung und die wichtigsten Änderungen in diesem Betrag vorzustellen.
+Mit dem Upgrade der SeaTable Cloud auf die Version 3.0 profitieren Cloud Abonnenten nicht nur von den vielen neuen und verbesserten Funktionen des [Major Releases]({{< relref "posts/seatable-releases/seatable-release-3-0" >}}, sondern auch von einer neuen Teamverwaltung, die das Management von kleinen und insbesondere größeren Teams vereinfacht. Neue Funktionen wurden ergänzt, bestehende Funktionen wurden erweitert und ein neues Design schafft mehr Übersicht und Nutzerfreundlichkeit. Wir freuen uns, Ihnen die neue Teamverwaltung und die wichtigsten Änderungen in diesem Betrag vorzustellen.
 
 ## Ausgangslage und Herausforderungen
 
-Die “alte” Teamverwaltung von SeaTable Cloud ist ein Modul von [SeaTable Server.](/on-premises/?lang=auto/) (SeaTable Server ist die Software hinter SeaTable Cloud, die auch für die Installation auf dem eigenen Server zur Verfügung steht.) Als solches bietet es alle notwendigen Verwaltungsfunktionen für Teams, die für den Einsatz innerhalb einer Organisation (private Cloud) notwendig sind. Es bietet aber keine Funktionen für die Verwaltung von Abonnements und keine Integration mit einem Zahlungsdienstleister.
+Die “alte” Teamverwaltung von SeaTable Cloud ist ein Modul von [SeaTable Server.]({{< relref "pages/product/seatable-server" >}} (SeaTable Server ist die Software hinter SeaTable Cloud, die auch für die Installation auf dem eigenen Server zur Verfügung steht.) Als solches bietet es alle notwendigen Verwaltungsfunktionen für Teams, die für den Einsatz innerhalb einer Organisation (private Cloud) notwendig sind. Es bietet aber keine Funktionen für die Verwaltung von Abonnements und keine Integration mit einem Zahlungsdienstleister.
 
 !["Old" team administration](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
 

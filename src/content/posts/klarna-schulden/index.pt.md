@@ -94,4 +94,4 @@ Com o [planeador de orçamento](https://seatable.io/pt/vorlage/kqecvuxbrganzgw0w
 
 Graças ao **calendário** prático, pode também vigiar a data de vencimento de certas despesas para não perder nenhum prazo de pagamento e não ser surpreendido por débitos directos inesperados.
 
-Diga adeus às suas dívidas ao Klarna gerindo eficazmente as suas finanças e controlando as suas despesas. Tudo o que precisa de fazer é [registar-se gratuitamente no SeaTable](https://seatable.io/pt/registrierung/), criar uma nova base de dados utilizando o modelo e, em seguida, introduzir os seus próprios dados.
+Diga adeus às suas dívidas ao Klarna gerindo eficazmente as suas finanças e controlando as suas despesas. Tudo o que precisa de fazer é [registar-se gratuitamente no SeaTable]({{< relref "pages/registration" >}}), criar uma nova base de dados utilizando o modelo e, em seguida, introduzir os seus próprios dados.

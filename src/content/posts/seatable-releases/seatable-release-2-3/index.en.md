@@ -65,7 +65,7 @@ The table history and comments are not part of the information that one would no
 
 ### Default values for forms
 
-After [default values for columns](https://seatable.io/en/seatable-release-2-0/?lang=auto), there are now also default values for form fields in version 2.3. And not only static default values are supported: The variables _creator.id_ and _creator.name_ automatically insert the user ID or user name in the form field for logged-in users.
+After [default values for columns]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}), there are now also default values for form fields in version 2.3. And not only static default values are supported: The variables _creator.id_ and _creator.name_ automatically insert the user ID or user name in the form field for logged-in users.
 
 ![Default values in forms](images/Default-values-forms-1088x974.png)
 

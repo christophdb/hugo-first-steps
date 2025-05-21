@@ -128,4 +128,4 @@ So that you always have your favorite recipes to hand, you can create a list of 
 
 Simply enter the day on which you want to cook a dish next time and create new **weekly Meal Prep plans** in the calendar. Upload photos and be inspired by your gallery of possible dishes week after week. In two additional tables, you can record all ingredients in a **shopping list** and compare the **nutritional values** of your favorite dishes.
 
-If you would like to use SeaTable for your weekly meal prep plan, simply [register](https://seatable.io/en/registrierung/) for free. You can find the corresponding template [here](https://seatable.io/en/vorlage/egzrna4wtbsuv7bbquzwsq/). Delete the sample recipes and customize the meal plan to suit your needs.
+If you would like to use SeaTable for your weekly meal prep plan, simply [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here](https://seatable.io/en/vorlage/egzrna4wtbsuv7bbquzwsq/). Delete the sample recipes and customize the meal plan to suit your needs.

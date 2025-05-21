@@ -190,4 +190,4 @@ Are you facing the challenge of planning the ultimate stag party for your best f
 
 The template can be easily adapted to your needs by deleting the sample entries and entering your own data. In SeaTable, you can organize and visualize data so clearly that you always have an overview of activities, to-dos, guests and finances.
 
-But SeaTable doesn't just support witnesses to the marriage: the future spouses can also use SeaTable as a free [wedding planner](https://seatable.io/en/vorlage/eso9hktaqnms333jjy0z9q/) to make the most beautiful day of their lives perfect. To register for free, enter your e-mail address [here](https://seatable.io/en/registrierung/).
+But SeaTable doesn't just support witnesses to the marriage: the future spouses can also use SeaTable as a free [wedding planner](https://seatable.io/en/vorlage/eso9hktaqnms333jjy0z9q/) to make the most beautiful day of their lives perfect. To register for free, enter your e-mail address [here]({{< relref "pages/registration" >}}).

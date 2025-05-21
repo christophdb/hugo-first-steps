@@ -125,7 +125,7 @@ Para empresas más grandes con muchos artículos y casos de uso más complejos, 
 
 ## Crear una lista de inventario con SeaTable
 
-El software de base de datos sin código **SeaTable** ya tiene preparada para usted una [plantilla de lista de inventario](https://seatable.io/es/vorlage/nwkbq-cmrxmcxv1k0sxoaw/). Para utilizarla **gratuitamente**, sólo tiene que [registrarse](https://seatable.io/es/registrierung/) con su dirección de correo electrónico y crear una cuenta. Una vez que haya iniciado sesión, proceda como se indica a continuación:
+El software de base de datos sin código **SeaTable** ya tiene preparada para usted una [plantilla de lista de inventario](https://seatable.io/es/vorlage/nwkbq-cmrxmcxv1k0sxoaw/). Para utilizarla **gratuitamente**, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) con su dirección de correo electrónico y crear una cuenta. Una vez que haya iniciado sesión, proceda como se indica a continuación:
 
 1. Añade la plantilla como **nueva base** en tu página de inicio. Puedes encontrar cómo hacerlo [en estas instrucciones](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 2. Haz clic en la base para **abrirla**.
@@ -154,4 +154,4 @@ La mayoría de las empresas tienen que llevar una lista de inventario. Una lista
 
 Piense **qué información** necesita sobre su inventario, **quién** participa en él y **cuántas personas** necesitan acceder a los datos. **¿Cómo** quiere preparar los datos y **qué funciones** son necesarias para ello?
 
-Una vez aclaradas estas cuestiones básicas, es fácil empezar. Si desea utilizar la plantilla SeaTable para su lista de inventario, [regístrese gratuitamente](https://seatable.io/es/registrierung/) y empiece de inmediato.
+Una vez aclaradas estas cuestiones básicas, es fácil empezar. Si desea utilizar la plantilla SeaTable para su lista de inventario, [regístrese gratuitamente]({{< relref "pages/registration" >}}) y empiece de inmediato.

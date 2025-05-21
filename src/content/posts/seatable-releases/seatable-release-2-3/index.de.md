@@ -64,7 +64,7 @@ Die Tabellenhistorie und Kommentare gehören nicht zu den Informationen, die man
 
 ### Standardwerte für Formulare
 
-Nach [Standardwerten für Spalten](https://seatable.io/seatable-release-2-0/?lang=auto) gibt es in der Version 2.3 nun auch Standardwerte für Formularfelder. Und nicht nur statische Standardwerte werden unterstützt: Die Variablen _creator.id_ und _creator.name_ fügen bei angemeldeten Benutzern automatisch die Benutzer-ID bzw. den Benutzernamen im Formularfeld ein.
+Nach [Standardwerten für Spalten]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}) gibt es in der Version 2.3 nun auch Standardwerte für Formularfelder. Und nicht nur statische Standardwerte werden unterstützt: Die Variablen _creator.id_ und _creator.name_ fügen bei angemeldeten Benutzern automatisch die Benutzer-ID bzw. den Benutzernamen im Formularfeld ein.
 
 ![Default values in forms](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
 

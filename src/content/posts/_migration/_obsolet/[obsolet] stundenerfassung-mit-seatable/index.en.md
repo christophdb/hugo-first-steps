@@ -17,7 +17,7 @@ Yes, employers in Germany are already required to record overtime and Sunday wor
 
 The Federal Ministry of Labor wants to answer the question of **how** hours must be recorded in the future in a draft law before the end of 2023. Currently, the recording of hours is **not** bound to a specific form and can take place both electronically and in writing on paper. This is set to change in the future if the Federal Ministry of Labor has its way: the start, end and duration of daily working hours must then be recorded **electronically** and, as a rule, on the **same day**.
 
-For you as an employer, however, it is not advisable to wait until electronic hours recording is required by law. Rather, start recording your employees' working hours digitally right away, if you don't do it already. SeaTable's [free timesheet template](https://seatable.io/en/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) provides a suitable system for tracking hours in your company and is ready to use right away after [free registration](https://seatable.io/en/registrierung/).
+For you as an employer, however, it is not advisable to wait until electronic hours recording is required by law. Rather, start recording your employees' working hours digitally right away, if you don't do it already. SeaTable's [free timesheet template](https://seatable.io/en/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) provides a suitable system for tracking hours in your company and is ready to use right away after [free registration]({{< relref "pages/registration" >}}).
 
 ## Structure of the SeaTable template
 
@@ -41,4 +41,4 @@ The entered hours are then displayed in your overview. A submitted web form corr
 
 With our template for hours recording you are prepared for everything - be it legal changes or future controls by the authorities. In any case, it makes sense to start recording your employees' working hours accurately today. With our template, you have all hours in view at all times and can prove compliance with legal working time regulations.
 
-You are missing something? No problem! You can easily tailor SeaTable to your individual needs. Just try it out! Our [templates](https://seatable.io/en/vorlagen/) are free and usable immediately after [registration](https://seatable.io/en/registrierung/).
+You are missing something? No problem! You can easily tailor SeaTable to your individual needs. Just try it out! Our [templates](https://seatable.io/en/vorlagen/) are free and usable immediately after [registration]({{< relref "pages/registration" >}}).

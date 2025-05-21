@@ -19,7 +19,7 @@ Mit SeaTable 2.4 führen wir die andockbare Ansichtsnavigation ein, die die Ausw
 
 ## Verknüpfung zu anderen Einträgen viel flexibler
 
-Der Spaltentyp Verknüpfung zu anderen Einträgen ist vermutlich SeaTables wichtigster. SeaTable ist eben nicht einfach ein weiteres [Online-Spreadsheet](die-online-tabellenkalkulation-fuer-alle-ihre-aufgaben/)! Wie kein anderer Spaltentypen steht dieser Spaltentyp dafür. Und in SeaTable 2.4 haben wir diesen Spaltentyp nun noch besser gemacht.
+Der Spaltentyp Verknüpfung zu anderen Einträgen ist vermutlich SeaTables wichtigster. SeaTable ist eben nicht einfach ein weiteres Online-Spreadsheet! Wie kein anderer Spaltentypen steht dieser Spaltentyp dafür. Und in SeaTable 2.4 haben wir diesen Spaltentyp nun noch besser gemacht.
 
 ![More display options for link column](images/More_Flexible_Link_Column_raw_1448x554.png)
 

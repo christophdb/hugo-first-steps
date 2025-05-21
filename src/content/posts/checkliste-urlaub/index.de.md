@@ -234,4 +234,4 @@ Zur Vereinfachung der Reiseplanung steht Ihnen zudem eine App zur Verfügung. Mi
 
 ![Budget Dashboard in SeaTable's Travel App](images/Travel-App.png)
 
-[Registrieren](https://seatable.io/registrierung/) Sie sich noch heute kostenlos, um von diesen praktischen Funktionen zu profitieren und Ihre nächste Reise stressfrei zu organisieren. Daraufhin können Sie die [Vorlage](https://seatable.io/vorlage/axq_85kkrjsriagmqpxehw/) in Ihrem persönlichen SeaTable Arbeitsbereich nutzen, mit ihren eigenen Daten füllen und via App mit Ihren Mitreisenden teilen.
+[Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute kostenlos, um von diesen praktischen Funktionen zu profitieren und Ihre nächste Reise stressfrei zu organisieren. Daraufhin können Sie die [Vorlage](https://seatable.io/vorlage/axq_85kkrjsriagmqpxehw/) in Ihrem persönlichen SeaTable Arbeitsbereich nutzen, mit ihren eigenen Daten füllen und via App mit Ihren Mitreisenden teilen.

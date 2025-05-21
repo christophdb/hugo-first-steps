@@ -46,7 +46,7 @@ Les créateurs de contenu connaissent le jeu qui consiste à être constamment �
 
 **9\. tableaux intelligents avec SeaTable**
 
-SeaTable est un mélange de tableur intelligent et de base de données, également utilisable gratuitement. Il est possible de créer jusqu'à 2.000 lignes dans différentes bases - les fonctions de SeaTable sont entièrement utilisables et vous pouvez tester vous-même les multiples domaines d'application. Qu'il s'agisse de gestion de projet, de [marketing](/fr/marketing/) ou de RH, de tri et d'organisation de données, presque tout est possible avec SeaTable.
+SeaTable est un mélange de tableur intelligent et de base de données, également utilisable gratuitement. Il est possible de créer jusqu'à 2.000 lignes dans différentes bases - les fonctions de SeaTable sont entièrement utilisables et vous pouvez tester vous-même les multiples domaines d'application. Qu'il s'agisse de gestion de projet, de [marketing]({{< relref "pages/industry-solutions/marketing" >}}) ou de RH, de tri et d'organisation de données, presque tout est possible avec SeaTable.
 
 Avec des plugins utiles comme le tableau Kanban, il est même possible de créer une excellente alternative à l'outil de gestion de projet Trello mentionné ci-dessus. De plus, **SeaTable peut être relié à Zapier**, ce qui permet d'enregistrer, de trier et de réutiliser toutes sortes de données de manière entièrement automatisée. [L'inscription](https://seatable.io/fr/enregistrement/) est gratuite et rapide comme l'éclair - essayez donc !
 

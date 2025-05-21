@@ -64,7 +64,7 @@ L'historique de la table et les commentaires ne font pas partie des informations
 
 ### Valeurs par défaut pour les formulaires
 
-Après les [valeurs par défaut pour les colonnes](https://seatable.io/fr/seatable-release-2-0/?lang=auto), il y a maintenant aussi des valeurs par défaut pour les champs de formulaire dans la version 2.3. Et les valeurs statiques par défaut ne sont pas les seules à être prises en charge : Les variables _creator.id_ et _creator.name_ insèrent automatiquement l'ID ou le nom de l'utilisateur dans le champ du formulaire pour les utilisateurs connectés.
+Après les [valeurs par défaut pour les colonnes]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}), il y a maintenant aussi des valeurs par défaut pour les champs de formulaire dans la version 2.3. Et les valeurs statiques par défaut ne sont pas les seules à être prises en charge : Les variables _creator.id_ et _creator.name_ insèrent automatiquement l'ID ou le nom de l'utilisateur dans le champ du formulaire pour les utilisateurs connectés.
 
 ![Valeurs par défaut dans les formulaires](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
 

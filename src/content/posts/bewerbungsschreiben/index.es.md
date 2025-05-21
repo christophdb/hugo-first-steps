@@ -57,7 +57,7 @@ Puede dejar de lado cualquier cualificación que no haya marcado como **relevant
 
 Debería crear una tabla para no perder la pista de dónde ha presentado su candidatura, cuándo y con qué documentos durante su búsqueda de empleo. SeaTable le ofrece un [resumen estructurado](https://seatable.io/es/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) de las solicitudes para que siempre tenga a mano la información y los documentos que ha preparado. Vea todas sus solicitudes y los documentos asociados de un vistazo y le facilitará la creación de cartas de presentación con el **diseño de página**.
 
-Si desea utilizar SeaTable para su planificador de solicitudes, sólo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente. Encontrará la plantilla [aquí](https://seatable.io/es/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+Si desea utilizar SeaTable para su planificador de solicitudes, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. Encontrará la plantilla [aquí](https://seatable.io/es/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
 
 ## Formalidades de su carta de candidatura
 
@@ -214,4 +214,4 @@ Antes de enviar su solicitud, debe **corregirla**. Además de **revisar la ortog
 
 Ahora nada se interpondrá en su camino para redactar su próxima solicitud con éxito. SeaTable ha creado para usted un [planificador de solicitudes en línea](https://seatable.io/es/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) para que no pierda de vista sus documentos aunque tenga varias solicitudes. Esto le ayudará a planificar sus próximos pasos, organizar sus documentos y mantenerse siempre al día con el proceso de solicitud.
 
-Si desea utilizar SeaTable para el resumen de su solicitud, [regístrese](https://seatable.io/es/registrierung/) gratuitamente. Encontrará la plantilla [aquí](https://seatable.io/es/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+Si desea utilizar SeaTable para el resumen de su solicitud, [regístrese]({{< relref "pages/registration" >}}) gratuitamente. Encontrará la plantilla [aquí](https://seatable.io/es/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).

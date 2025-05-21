@@ -105,4 +105,4 @@ Los comentarios dentro de una línea utilizando la función de comentario tambi�
 
 ## La gestión de tareas es más fácil que nunca
 
-SeaTable convierte la gestión de tareas en una herramienta eficaz para ahorrar tiempo en sus proyectos. Para utilizar nuestra plantilla, debe [registrarse](https://seatable.io/es/registrierung/) con nosotros. Como software de hoja de cálculo y base de datos, SeaTable va mucho más allá de la introducción de datos: estructurar, clasificar, delegar, discutir, organizar, planificar, ejecutar y completar: todo esto y mucho más es posible con SeaTable.
+SeaTable convierte la gestión de tareas en una herramienta eficaz para ahorrar tiempo en sus proyectos. Para utilizar nuestra plantilla, debe [registrarse]({{< relref "pages/registration" >}}) con nosotros. Como software de hoja de cálculo y base de datos, SeaTable va mucho más allá de la introducción de datos: estructurar, clasificar, delegar, discutir, organizar, planificar, ejecutar y completar: todo esto y mucho más es posible con SeaTable.

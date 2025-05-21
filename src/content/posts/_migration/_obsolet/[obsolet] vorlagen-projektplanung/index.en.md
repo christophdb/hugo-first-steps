@@ -58,7 +58,7 @@ Using SeaTable is worthwhile if you want to work with several parties on a proje
 
 ### This is how you proceed
 
-To create your project plan, [register for free on SeaTable](https://seatable.io/en/registrierung/) and log in to the digital tool via your browser. Then click on "Add Base" and select a template. The template is immediately ready for use.
+To create your project plan, [register for free on SeaTable]({{< relref "pages/registration" >}}) and log in to the digital tool via your browser. Then click on "Add Base" and select a template. The template is immediately ready for use.
 
 ### 5 Templates for project planning in SeaTable
 

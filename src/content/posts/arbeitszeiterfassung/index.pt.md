@@ -80,4 +80,4 @@ Finalmente, pode mapear todos os processos necessários em SeaTable para regista
 
 No SeaTable, você e os seus empregados documentam o registo do tempo, os pedidos de férias e os dias de baixa num local central em vez de manterem muitas folhas de horas dispersas (por exemplo, em Excel ou Google Sheets). Tudo o que precisa é de um navegador de Internet e de um endereço de correio electrónico.
 
-No entanto, o seguimento do tempo é apenas um caso de utilização das possibilidades quase infinitas que a SeaTable lhe oferece. Descubra nos nossos [modelos](https://seatable.io/pt/vorlagen/) quais as impressionantes soluções de software que pode construir com SeaTable e comece de imediato com uma [conta gratuita](https://seatable.io/pt/registrierung/).
+No entanto, o seguimento do tempo é apenas um caso de utilização das possibilidades quase infinitas que a SeaTable lhe oferece. Descubra nos nossos [modelos](https://seatable.io/pt/vorlagen/) quais as impressionantes soluções de software que pode construir com SeaTable e comece de imediato com uma [conta gratuita]({{< relref "pages/registration" >}}).

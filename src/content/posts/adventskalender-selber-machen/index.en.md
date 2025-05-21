@@ -169,4 +169,4 @@ You can use SeaTable to create your virtual Advent calendar. Design a little doo
 
 ![Private Advent Calendar](images/Private-Advent-Calendar.png)
 
-If you would like to use SeaTable to create analog and/or digital Advent calendars, simply [register](https://seatable.io/en/registrierung/) for free with your e-mail address. You can also find the free template [here](https://seatable.io/en/vorlage/si5fsu0nrny8wtabksc6iq/).
+If you would like to use SeaTable to create analog and/or digital Advent calendars, simply [register]({{< relref "pages/registration" >}}) for free with your e-mail address. You can also find the free template [here](https://seatable.io/en/vorlage/si5fsu0nrny8wtabksc6iq/).

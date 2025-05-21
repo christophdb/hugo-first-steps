@@ -40,4 +40,4 @@ SeaTable provides a targeted view of needed information through different views.
 
 ## Ready for the new semester
 
-With your new [semester planner](https://seatable.io/en/vorlage/cfpc_mw3qsspac81dbiefa/), nothing stands in the way of a successful semester. You can design your student planner individually at SeaTable and adapt it to your needs. Register now for [free](https://seatable.io/en/registrierung/) and get a productive start to the 2020 winter semester!
+With your new [semester planner](https://seatable.io/en/vorlage/cfpc_mw3qsspac81dbiefa/), nothing stands in the way of a successful semester. You can design your student planner individually at SeaTable and adapt it to your needs. Register now for [free]({{< relref "pages/registration" >}}) and get a productive start to the 2020 winter semester!

@@ -125,4 +125,4 @@ Mit der SeaTable [Vorlage für Ihre Immobilienverwaltung](https://seatable.io/vo
 
 In einer Datenbank können Sie Fotos und Highlights Ihrer Immobilien (z. B. voll ausgestattete Küche, Terrasse) erfassen.
 
-[Registrieren Sie sich kostenlos](https://seatable.io/registrierung/), um die Vorlage zu nutzen und Ihre Daten effizient zu organisieren. Legen Sie flexibel die Tabellenstruktur an, die Sie für die Hausverwaltung brauchen, um alle Daten im Blick zu behalten und Ihren Verwaltungsaufwand so gering wie möglich zu halten.
+[Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}), um die Vorlage zu nutzen und Ihre Daten effizient zu organisieren. Legen Sie flexibel die Tabellenstruktur an, die Sie für die Hausverwaltung brauchen, um alle Daten im Blick zu behalten und Ihren Verwaltungsaufwand so gering wie möglich zu halten.

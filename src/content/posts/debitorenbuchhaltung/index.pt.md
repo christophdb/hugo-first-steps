@@ -108,5 +108,5 @@ Assim, nem sempre tem de acabar com software de contabilidade caro como o [Lexwa
 Graças à sua enorme flexibilidade, a SeaTable também pode fazer com que o seu departamento de contas a receber funcione perfeitamente. A vantagem clara que o SeaTable traz consigo é a diversidade em que o próprio produto pode ser utilizado. Para além das contas a receber, outros casos importantes de utilização na sua empresa também podem ser cobertos. Pode encontrar mais sobre isto no nosso [blog](https://seatable.io/pt/blog/?lang=auto) ou directamente nos nossos [modelos](https://seatable.io/pt/docs/templates/?lang=auto). Convença-se da folha de cálculo mais poderosa e inovadora e comece hoje mesmo a fazer a sua contabilidade de contas a receber.
 
 [Para o modelo "Contas a Receber de CRM](https://seatable.io/pt/vorlage/wsnf1ukarv6sp5omx6a2og/)  
-[Experimente agora o SeaTable na nuvem de graça](/pt/registrierung/)  
+[Experimente agora o SeaTable na nuvem de graça]({{< relref "pages/registration" >}})  
 [Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados](/pt/get-enterprise-server/)

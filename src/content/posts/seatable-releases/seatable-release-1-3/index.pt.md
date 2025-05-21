@@ -7,7 +7,7 @@ url: '/pt/seatable-release-1-3'
 color: '#eeeeee'
 ---
 
-O lançamento de Setembro, que carregámos a 14 de Setembro, oferece um conjunto impressionante de novas funcionalidades, funcionalidades e melhorias para TODOS os utilizadores. A adição mais quente é o motor de scripting do SeaTable. Outras grandes novidades incluem a integração sem problemas dos nossos modelos, a formatação condicional de linhas, uma nova funcionalidade de impressão e o novo tipo de coluna de número automático. E isso não é de longe tudo! A lista completa das alterações está disponível no [changelog](https://seatable.io/pt/docs/changelog/version-1-3/). SeaTable mantém-se fiel ao seu nome e oferece um mar de possibilidades. [Comece agora](https://seatable.io/pt/registrierung/) e brinque com as ondas.
+O lançamento de Setembro, que carregámos a 14 de Setembro, oferece um conjunto impressionante de novas funcionalidades, funcionalidades e melhorias para TODOS os utilizadores. A adição mais quente é o motor de scripting do SeaTable. Outras grandes novidades incluem a integração sem problemas dos nossos modelos, a formatação condicional de linhas, uma nova funcionalidade de impressão e o novo tipo de coluna de número automático. E isso não é de longe tudo! A lista completa das alterações está disponível no [changelog](https://seatable.io/pt/docs/changelog/version-1-3/). SeaTable mantém-se fiel ao seu nome e oferece um mar de possibilidades. [Comece agora]({{< relref "pages/registration" >}}) e brinque com as ondas.
 
 ## Processamento automatizado de dados com scripts
 

@@ -7,7 +7,7 @@ url: '/fr/how-to-massnahmenplan'
 color: '#eeeeee'
 ---
 
-Pour croître et se développer, les entreprises se fixent constamment de nouveaux objectifs et y consacrent toutes leurs ressources. Le plan d'action est une méthode éprouvée pour atteindre ces objectifs, par exemple dans le domaine de la [gestion de projet](/fr/projekt-management/), des finances et du contrôle de gestion ainsi que du [marketing](/fr/marketing/).
+Pour croître et se développer, les entreprises se fixent constamment de nouveaux objectifs et y consacrent toutes leurs ressources. Le plan d'action est une méthode éprouvée pour atteindre ces objectifs, par exemple dans le domaine de la [gestion de projet](/fr/projekt-management/), des finances et du contrôle de gestion ainsi que du [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
 
 ## Qu'est-ce qu'un plan d'action ?
 

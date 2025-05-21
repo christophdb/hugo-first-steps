@@ -64,7 +64,7 @@ O histórico da tabela e os comentários não fazem parte da informação que no
 
 ### Valores por defeito para formulários
 
-Após os [valores por defeito para as colunas](https://seatable.io/pt/seatable-release-2-0/?lang=auto), existem agora também valores por defeito para os campos de formulário na versão 2.3. E não só são suportados valores por defeito estáticos: As variáveis _creator.id_ e _creator.name_ inserem automaticamente o ID de utilizador ou nome de utilizador no campo do formulário para utilizadores com sessão iniciada.
+Após os [valores por defeito para as colunas]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}), existem agora também valores por defeito para os campos de formulário na versão 2.3. E não só são suportados valores por defeito estáticos: As variáveis _creator.id_ e _creator.name_ inserem automaticamente o ID de utilizador ou nome de utilizador no campo do formulário para utilizadores com sessão iniciada.
 
 ![Valores por defeito em formas](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
 

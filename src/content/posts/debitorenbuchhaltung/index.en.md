@@ -109,5 +109,5 @@ So it doesn't always have to end up with expensive accounting software such as [
 Thanks to its enormous flexibility, SeaTable can also make your accounts receivable department work perfectly. The clear advantage that SeaTable brings with it is the diversity in which the product itself can be used. In addition to accounts receivable, other important use cases in your company can also be covered. You can find more about this in our [blog](https://seatable.io/en/blog/?lang=auto) or directly in our [templates](https://seatable.io/en/docs/templates/?lang=auto). Convince yourself of the most powerful and innovative spreadsheet and get started with your accounts receivable accounting today.
 
 [To the "CRM Accounts Receivable" template](https://seatable.io/en/vorlage/wsnf1ukarv6sp5omx6a2og/)  
-[Try SeaTable in the cloud for free now](/en/registrierung/)  
+[Try SeaTable in the cloud for free now]({{< relref "pages/registration" >}})  
 [Or prefer to run SeaTable Enterprise in your own data centre](/en/get-enterprise-server/)

@@ -104,4 +104,4 @@ A segunda regra é uma notificação de lembrete definida com um prazo. Um dia a
 
 Como se pode ver: Com o SeaTable, organizar e conduzir reuniões não é um truque de magia. A preparação óptima é conseguida através de regras de notificação, vistas personalizadas, função de chat e a agenda, enquanto a agenda convida ao trabalho colaborativo durante a execução. Para acompanhamento, todos os detalhes importantes são listados e guardados na Base, para que tudo possa ser rastreado e lido em qualquer altura. Nunca mais faltará a uma reunião!
 
-[Teste](https://seatable.io/pt/vorlage/gumqbevcroszpprj6j4xyg/) hoje o [nosso modelo](https://seatable.io/pt/vorlage/gumqbevcroszpprj6j4xyg/) e [registe-se](/pt/registrierung/) completamente sem custos.
+[Teste](https://seatable.io/pt/vorlage/gumqbevcroszpprj6j4xyg/) hoje o [nosso modelo](https://seatable.io/pt/vorlage/gumqbevcroszpprj6j4xyg/) e [registe-se]({{< relref "pages/registration" >}}) completamente sem custos.

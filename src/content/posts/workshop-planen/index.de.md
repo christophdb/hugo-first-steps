@@ -108,4 +108,4 @@ Das gesammelte Feedback können Sie in SeaTable einfach **auswerten**, indem Sie
 
 Mit SeaTable können Sie jeden Vorgang rund um die Workshop-Planung sinnvoll abbilden und alle Daten mühelos verwalten. Im Vordergrund steht dabei immer die größtmögliche Effizienz für Sie, Ihre Mitarbeiter und andere Beteiligte. Denkbar sind auch noch weitere Tabellen und Prozesse, die Sie flexibel nach Ihren Wünschen ergänzen können, wie etwa die Buchung von Meetingräumen oder eine Inventarliste Ihrer Materialien.
 
-[Registrieren Sie sich](/registrierung/) noch heute kostenlos und probieren Sie unsere [Vorlage](https://seatable.io/vorlage/kfsupdwhs9g5kgyqjemsea/) direkt aus! Die Funktionen lassen sich für eine Vielzahl weiterer Anwendungsfälle nutzen.
+[Registrieren Sie sich]({{< relref "pages/registration" >}}) noch heute kostenlos und probieren Sie unsere [Vorlage](https://seatable.io/vorlage/kfsupdwhs9g5kgyqjemsea/) direkt aus! Die Funktionen lassen sich für eine Vielzahl weiterer Anwendungsfälle nutzen.

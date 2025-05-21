@@ -49,7 +49,7 @@ A nice alternative to the classic analog Advent calendar is a digital version. Y
 
 The SeaTable team has created [a template](https://seatable.io/en/vorlage/si5fsu0nrny8wtabksc6iq/) for you that you can customize according to your needs. Give the calendar a personal touch and look forward to the astonished faces of your employees when they discover a new surprise behind one of the little doors every day.
 
-If you would like to use SeaTable to create an online Advent calendar, simply [register](https://seatable.io/en/registrierung/) for free and customize the template as you wish. The template also contains 24 ideas for Christmas gifts for employees and customers.
+If you would like to use SeaTable to create an online Advent calendar, simply [register]({{< relref "pages/registration" >}}) for free and customize the template as you wish. The template also contains 24 ideas for Christmas gifts for employees and customers.
 
 ## 3\. gift with a connection to the company
 
@@ -121,4 +121,4 @@ The Christmas season is stressful, which is why thoughtful preparation is all th
 
 Are you looking for more ideas for suitable Christmas gifts for employees and customers? You'll find lots of exciting ideas in our Advent calendar template for companies!
 
-If you would like to use SeaTable to plan your Christmas party or your Christmas gifts for employees and customers, simply [register](https://seatable.io/en/registrierung/) for free and customize the templates linked above to suit your individual requirements.
+If you would like to use SeaTable to plan your Christmas party or your Christmas gifts for employees and customers, simply [register]({{< relref "pages/registration" >}}) for free and customize the templates linked above to suit your individual requirements.

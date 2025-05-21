@@ -102,7 +102,7 @@ Aqui pode ver um bom **exemplo de análise SWOT para empresas**:
 
 ## Como funciona o modelo de análise SWOT da SeaTable
 
-Gostaria de utilizar o modelo SeaTable para efetuar a sua análise? Então [registe-se](https://seatable.io/pt/registrierung/) no nosso sítio Web num instante. Na biblioteca, encontrará o **modelo gratuito**, no qual a análise SWOT é explicada de forma simples e preenchida com dados de amostra. Clique em Utilizar o modelo e comece a sua análise.
+Gostaria de utilizar o modelo SeaTable para efetuar a sua análise? Então [registe-se]({{< relref "pages/registration" >}}) no nosso sítio Web num instante. Na biblioteca, encontrará o **modelo gratuito**, no qual a análise SWOT é explicada de forma simples e preenchida com dados de amostra. Clique em Utilizar o modelo e comece a sua análise.
 
 Na primeira tabela você encontrará exemplos de entradas organizadas de acordo com as quatro categorias SWOT correspondentes. Você insere o fator na primeira coluna antes de determinar sua origem (interna ou externa) e classificá-lo nas categorias individuais.
 

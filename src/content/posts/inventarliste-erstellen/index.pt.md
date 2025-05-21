@@ -125,7 +125,7 @@ Para empresas maiores, com muitos artigos e casos de utilização mais complexos
 
 ## Criar uma lista de inventário com o SeaTable
 
-O software de base de dados sem código **SeaTable** já tem um [modelo de lista de inventário](https://seatable.io/pt/vorlage/nwkbq-cmrxmcxv1k0sxoaw/) pronto para si. Para o utilizar **gratuitamente**, basta [registar-se](https://seatable.io/pt/registrierung/) com o seu endereço de correio eletrónico e criar uma conta. Uma vez iniciada a sessão, proceda da seguinte forma:
+O software de base de dados sem código **SeaTable** já tem um [modelo de lista de inventário](https://seatable.io/pt/vorlage/nwkbq-cmrxmcxv1k0sxoaw/) pronto para si. Para o utilizar **gratuitamente**, basta [registar-se]({{< relref "pages/registration" >}}) com o seu endereço de correio eletrónico e criar uma conta. Uma vez iniciada a sessão, proceda da seguinte forma:
 
 1. Adicione o modelo como uma **nova base** na sua página inicial. Para saber como o fazer, consulte [estas instruções](https://seatable.io/pt/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 2. Clique na base para a **abrir**.
@@ -154,4 +154,4 @@ A maioria das empresas tem de manter uma lista de inventário. Uma lista de inve
 
 Pense nas **informações** de que precisa sobre o seu inventário, **quem** está envolvido no inventário e **quantas pessoas** precisam de ter acesso aos dados. **Como** pretende preparar os dados e **que funções** são necessárias para o efeito?
 
-Depois de esclarecer estas questões básicas, é fácil começar. Se pretender utilizar o modelo SeaTable para a sua lista de inventário, [registe-se gratuitamente](https://seatable.io/pt/registrierung/) e comece já a trabalhar.
+Depois de esclarecer estas questões básicas, é fácil começar. Se pretender utilizar o modelo SeaTable para a sua lista de inventário, [registe-se gratuitamente]({{< relref "pages/registration" >}}) e comece já a trabalhar.

@@ -57,4 +57,4 @@ Las fórmulas findmin y findmax en el tipo de columna Fórmulas para enlaces aho
 
 Con la versión 2.6 SeaTable Server Enterprise Edition (SeaTable Server EE) requiere un archivo de licencia. Sin un archivo de licencia, SeaTable Server se niega a iniciarse. Las versiones anteriores también podían iniciarse sin un archivo de licencia. Si su SeaTable Server EE no se inicia después de la actualización, por favor compruebe la existencia de un archivo de licencia.
 
-Puede solicitar una licencia gratuita para un máximo de tres usuarios y una validez de 2 años [a través de nuestro sitio web](https://seatable.io/es/on-premises/?lang=auto).
+Puede solicitar una licencia gratuita para un máximo de tres usuarios y una validez de 2 años [a través de nuestro sitio web]({{< relref "pages/product/seatable-server" >}}.

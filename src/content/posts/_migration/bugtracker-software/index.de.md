@@ -104,7 +104,7 @@ Das Tree-Plugin bietet zusätzlich eine **intuitive Übersicht über die Struktu
 
 Mit SeaTable schaffen Sie eine zentrale Anlaufstelle, um ein verlässliches und leistungsstarkes Produkt zu liefern. Nutzen Sie den kostenlosen Bugtracker, der Ihnen und Ihrem Team wertvolle Zeit spart und gleichzeitig höchste Softwarequalität ermöglicht. Das Ergebnis? Ein reibungsloser Testprozess und zufriedene Anwender, die von einer stabilen und leistungsfähigen Software profitieren.
 
-[Registrieren Sie sich noch heute kostenlos](/de/registrierung/) bei SeaTable und überzeugen Sie sich selbst, wie einfach und übersichtlich Software Testing und Bugtracking sein können.
+[Registrieren Sie sich noch heute kostenlos]({{< relref "pages/registration" >}}) bei SeaTable und überzeugen Sie sich selbst, wie einfach und übersichtlich Software Testing und Bugtracking sein können.
 
 ## Häufig gestellte Fragen [#](#h%C3%A4ufig-gestellte-fragen)
 

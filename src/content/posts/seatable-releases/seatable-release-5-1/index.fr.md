@@ -77,7 +77,7 @@ Mais nous n'avons pas seulement amélioré l'intégration avec les apps, le [plu
 
 ## Le nouveau plugin Tree
 
-Après trois nouveaux plug-ins dans la [version 5.0](/fr/seatable-release-5-0/), la version 5.1 élargit également la liste des plug-ins SeaTable disponibles : le nouveau plug-in Tree permet une représentation compacte sous forme de tableau d'ensembles de données liés de manière relationnelle. Que vous analysiez des données financières (comme dans la capture d'écran ci-dessous), des données de projet, des données d'utilisation ou d'autres données, le nouveau plugin crée une vue d'ensemble qui n'existait pas auparavant.
+Après trois nouveaux plug-ins dans la [version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), la version 5.1 élargit également la liste des plug-ins SeaTable disponibles : le nouveau plug-in Tree permet une représentation compacte sous forme de tableau d'ensembles de données liés de manière relationnelle. Que vous analysiez des données financières (comme dans la capture d'écran ci-dessous), des données de projet, des données d'utilisation ou d'autres données, le nouveau plugin crée une vue d'ensemble qui n'existait pas auparavant.
 
 ![Plugin d'arbre](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
 

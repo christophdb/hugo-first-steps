@@ -139,4 +139,4 @@ SeaTable's [writing schedule](https://seatable.io/en/vorlage/lkngogoxqfaoj1kppa2
 
 The authoring software tools presented here offer a variety of features and capabilities to assist you at every stage of the writing process. Ultimately, choosing the right software depends on your individual needs and preferences when writing books. With the right program, you can streamline your writing process and successfully realize your creative visions.
 
-If you'd like to use SeaTable's template for your book project, simply [register](https://seatable.io/en/registrierung/) for free with your email address. So you can start with your personal [writing plan](https://seatable.io/en/vorlage/lkngogoxqfaoj1kppa2awa/) in just a few minutes.
+If you'd like to use SeaTable's template for your book project, simply [register]({{< relref "pages/registration" >}}) for free with your email address. So you can start with your personal [writing plan](https://seatable.io/en/vorlage/lkngogoxqfaoj1kppa2awa/) in just a few minutes.

@@ -77,7 +77,7 @@ However, we have not only improved the integration with the apps, the [page desi
 
 ## The new Tree plugin
 
-After three new plugins in [version 5.0](/en/seatable-release-5-0/), version 5.1 also expands the list of available SeaTable plugins: The new Tree plugin enables the compact tabular display of relationally linked data records. Regardless of whether you are evaluating financial data (as in the screenshot below), project data, usage data or other data, the new plugin provides an overview that did not previously exist in this form.
+After three new plugins in [version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), version 5.1 also expands the list of available SeaTable plugins: The new Tree plugin enables the compact tabular display of relationally linked data records. Regardless of whether you are evaluating financial data (as in the screenshot below), project data, usage data or other data, the new plugin provides an overview that did not previously exist in this form.
 
 ![Tree Plugin](images/TreePlugin.png)
 

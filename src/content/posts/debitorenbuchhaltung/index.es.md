@@ -108,5 +108,5 @@ Así pues, no tiene por qué acabar siempre con costosos programas de contabilid
 Gracias a su enorme flexibilidad, SeaTable también puede hacer que su departamento de cuentas por cobrar funcione perfectamente. La clara ventaja que aporta SeaTable es la diversidad de usos que puede tener el propio producto. Además de las cuentas por cobrar, también se pueden cubrir otros casos de uso importantes en su empresa. Puede encontrar más información al respecto en nuestro [blog](https://seatable.io/es/blog/?lang=auto) o directamente en nuestras [plantillas](https://seatable.io/es/docs/templates/?lang=auto). Convénzase de la hoja de cálculo más potente e innovadora y comience hoy mismo con su contabilidad de cuentas por cobrar.
 
 [A la plantilla "CRM Cuentas por Cobrar"](https://seatable.io/es/vorlage/wsnf1ukarv6sp5omx6a2og/)  
-[Pruebe ahora SeaTable en la nube de forma gratuita](/es/registrierung/)  
+[Pruebe ahora SeaTable en la nube de forma gratuita]({{< relref "pages/registration" >}})  
 [O prefiere ejecutar SeaTable Enterprise en su propio centro de datos](/es/get-enterprise-server/)

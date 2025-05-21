@@ -108,4 +108,4 @@ Vous pouvez facilement **évaluer** les commentaires recueillis dans SeaTable, p
 
 Avec SeaTable, vous pouvez représenter chaque processus lié à la planification d'un atelier et gérer toutes les données sans effort. L'objectif est toujours d'être le plus efficace possible pour vous, vos collaborateurs et les autres personnes concernées. D'autres tableaux et processus sont également envisageables, que vous pouvez compléter de manière flexible en fonction de vos besoins, comme par exemple la réservation de salles de réunion ou un inventaire de votre matériel.
 
-[Inscrivez-vous](/fr/enregistrement/) gratuitement dès aujourd’hui et essayez notre [modèle](https://seatable.io/fr/modele/kfsupdwhs9g5kgyqjemsea/) tout de suite ! Les fonctions peuvent être utilisées pour une variété d’autres cas d’utilisation.
+[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement dès aujourd’hui et essayez notre [modèle](https://seatable.io/fr/modele/kfsupdwhs9g5kgyqjemsea/) tout de suite ! Les fonctions peuvent être utilisées pour une variété d’autres cas d’utilisation.

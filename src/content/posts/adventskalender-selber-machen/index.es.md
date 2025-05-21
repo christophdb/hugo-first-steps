@@ -168,4 +168,4 @@ Puedes utilizar SeaTable para crear tu calendario de Adviento virtual. Diseña u
 
 ![Calendario de Adviento privado](images/Private-Advent-Calendar.png)
 
-Si desea utilizar SeaTable para crear calendarios de Adviento analógicos y/o digitales, sólo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente con su dirección de correo electrónico. También puede encontrar la plantilla gratuita [aquí](https://seatable.io/es/vorlage/si5fsu0nrny8wtabksc6iq/).
+Si desea utilizar SeaTable para crear calendarios de Adviento analógicos y/o digitales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico. También puede encontrar la plantilla gratuita [aquí](https://seatable.io/es/vorlage/si5fsu0nrny8wtabksc6iq/).

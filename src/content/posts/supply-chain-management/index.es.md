@@ -129,5 +129,5 @@ Este artículo debería haberle mostrado la flexibilidad de uso de SeaTable. Con
 ¿A qué esperas todavía? Su nueva gestión de la cadena de suministro ya está en marcha.
 
 [A la plantilla "Gestión de la cadena de suministro](https://seatable.io/es/vorlage/lrtcit5zqratbf0rpidxlw/)  
-[Pruebe ahora SeaTable en la nube de forma gratuita](/es/registrierung/)  
+[Pruebe ahora SeaTable en la nube de forma gratuita]({{< relref "pages/registration" >}})  
 [O prefiere ejecutar SeaTable Enterprise en su propio centro de datos](/es/get-enterprise-server/)

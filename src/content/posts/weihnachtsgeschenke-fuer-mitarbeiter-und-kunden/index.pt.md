@@ -48,7 +48,7 @@ Uma óptima alternativa ao clássico calendário do Advento analógico é uma ve
 
 A equipa SeaTable criou [um modelo](https://seatable.io/pt/vorlage/si5fsu0nrny8wtabksc6iq/) para si que pode personalizar de acordo com as suas necessidades. Dê um toque pessoal ao calendário e aguarde com expetativa os rostos espantados dos seus empregados quando descobrirem uma nova surpresa atrás de uma das pequenas portas todos os dias.
 
-Se quiser utilizar o SeaTable para criar um calendário do Advento em linha, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente e personalizar o modelo como desejar. O modelo também contém 24 ideias para prendas de Natal para empregados e clientes.
+Se quiser utilizar o SeaTable para criar um calendário do Advento em linha, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente e personalizar o modelo como desejar. O modelo também contém 24 ideias para prendas de Natal para empregados e clientes.
 
 ## 3\. oferta com referência à empresa
 
@@ -120,4 +120,4 @@ A época de Natal é stressante, razão pela qual uma preparação cuidadosa é 
 
 Está à procura de mais ideias para prendas de Natal adequadas para funcionários e clientes? Encontrará muitas ideias interessantes no nosso modelo de calendário do Advento para empresas!
 
-Se quiser utilizar o SeaTable para planear a sua festa de Natal ou os presentes de Natal para os seus empregados e clientes, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente e personalizar os modelos acima indicados de acordo com as suas necessidades individuais.
+Se quiser utilizar o SeaTable para planear a sua festa de Natal ou os presentes de Natal para os seus empregados e clientes, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente e personalizar os modelos acima indicados de acordo com as suas necessidades individuais.

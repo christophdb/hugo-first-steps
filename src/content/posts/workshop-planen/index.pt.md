@@ -108,4 +108,4 @@ Pode **analisar** facilmente o feedback recolhido no SeaTable, por exemplo, apre
 
 Com o SeaTable, pode mapear todos os processos relacionados com o planeamento de workshops e gerir todos os dados sem esforço. O objetivo é sempre maximizar a eficiência para si, para os seus colaboradores e para os outros participantes. Também são possíveis outras tabelas e processos, que pode adicionar de forma flexível de acordo com as suas necessidades, como a reserva de salas de reunião ou uma lista de inventário dos seus materiais.
 
-[Registe-se](/pt/registrierung/) gratuitamente hoje e experimente o nosso [modelo](https://seatable.io/pt/vorlage/kfsupdwhs9g5kgyqjemsea/) imediatamente! As funções podem ser utilizadas para uma variedade de outras aplicações.
+[Registe-se]({{< relref "pages/registration" >}}) gratuitamente hoje e experimente o nosso [modelo](https://seatable.io/pt/vorlage/kfsupdwhs9g5kgyqjemsea/) imediatamente! As funções podem ser utilizadas para uma variedade de outras aplicações.

@@ -85,4 +85,4 @@ Com o [modelo gratuito](https://seatable.io/pt/vorlage/k6o24najsho8oipbkwmo8g/) 
 
 O modelo de storyboard permite-lhe planear claramente o **enredo**, o **cenário**, o **diálogo** e **os ângulos de câmara**. Também pode adicionar facilmente **personagens**, **adereços** e **direcções de palco** para pensar e registar a sua história até ao mais ínfimo pormenor.
 
-Se quiser utilizar [este modelo](https://seatable.io/pt/vorlage/k6o24najsho8oipbkwmo8g/) do SeaTable para o seu projeto de filme, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente com o seu endereço de e-mail. Pode então começar a criar o seu storyboard individual num instante e fazer avançar eficazmente os seus projectos cinematográficos.
+Se quiser utilizar [este modelo](https://seatable.io/pt/vorlage/k6o24najsho8oipbkwmo8g/) do SeaTable para o seu projeto de filme, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de e-mail. Pode então começar a criar o seu storyboard individual num instante e fazer avançar eficazmente os seus projectos cinematográficos.

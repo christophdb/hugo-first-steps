@@ -164,4 +164,4 @@ The free SeaTable tool is ideal for efficiently carrying out your strategic comp
 
 File PDF documents (e.g. annual reports, press releases) and screenshots of advertisements or websites of your competitors to see interesting sources in direct comparison. Describe the strengths and weaknesses of the competition or note down information about prices, unique selling points and target groups. With the free competitor analysis template, which you can find [here](https://seatable.io/en/vorlage/rv0aemhnqjufipzfycgc8w/), you can visualize your analysis data at a glance and develop strategies as easily as possible.
 
-If you're ready to put your competitors through their paces, [register](https://seatable.io/en/registrierung/) with SeaTable for free today. You can then get started right away, use the template and fill it with your own data.
+If you're ready to put your competitors through their paces, [register]({{< relref "pages/registration" >}}) with SeaTable for free today. You can then get started right away, use the template and fill it with your own data.

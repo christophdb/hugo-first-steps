@@ -57,4 +57,4 @@ Die Formeln findmin und findmax im Spaltentyp Formeln für Verknüpfungen unters
 
 Mit Version 2.6 verlangt SeaTable Server Enterprise Edition (SeaTable Server EE) eine Lizenzdatei. Ohne Lizenzdatei verweigert der SeaTable Server den Start. Frühere Versionen ließen sich auch ohne Lizenzdatei starten. Wenn Ihr SeaTable Server EE nach dem Update nicht mehr startet, dann prüfen Sie bitte auf die Existenz einer Lizenzdatei.
 
-Eine kostenlose Lizenz für bis zu drei Benutzer und einer Gültigkeit von 2 Jahren erhalten Sie auf Anfrage [über unsere Website](https://seatable.io/on-premises/?lang=auto).
+Eine kostenlose Lizenz für bis zu drei Benutzer und einer Gültigkeit von 2 Jahren erhalten Sie auf Anfrage [über unsere Website]({{< relref "pages/product/seatable-server" >}}.

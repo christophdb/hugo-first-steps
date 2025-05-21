@@ -7,7 +7,7 @@ url: '/de/how-to-massnahmenplan'
 color: '#eeeeee'
 ---
 
-Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue Ziele und arbeiten mit allen Ressourcen auf diese hin. Dabei ist der Maßnahmenplan eine bewährte Methode, um diese Ziele zu erreichen – etwa im [Projektmanagement](/projekt-management/), im Bereich Finanzen & Controlling sowie im [Marketing](/marketing/).
+Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue Ziele und arbeiten mit allen Ressourcen auf diese hin. Dabei ist der Maßnahmenplan eine bewährte Methode, um diese Ziele zu erreichen – etwa im [Projektmanagement](/projekt-management/), im Bereich Finanzen & Controlling sowie im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}).
 
 ## Was ist ein Maßnahmenplan?
 

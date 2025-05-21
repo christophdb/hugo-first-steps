@@ -90,7 +90,7 @@ Mantenha o controlo de toda a sua frota! Com o nosso [software](https://seatable
 
 O SeaTable oferece-lhe uma gestão clara e intuitiva da sua frota e dos pedidos de reserva recebidos. Isto significa que tem sempre uma visão geral dos veículos disponíveis e do estado da sua frota.
 
-[Registe-se gratuitamente](https://seatable.io/pt/registrierung/) e experimente hoje mesmo o SeaTable e o modelo flexível e personalizável para a gestão da sua frota!
+[Registe-se gratuitamente]({{< relref "pages/registration" >}}) e experimente hoje mesmo o SeaTable e o modelo flexível e personalizável para a gestão da sua frota!
 
 ## FAQ
 

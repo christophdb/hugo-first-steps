@@ -107,4 +107,4 @@ Registre sus **ideas**, asigne entradas a **categorías** específicas con sólo
 
 Gracias al **calendario** incorporado, puedes controlar cuándo deben aparecer tus publicaciones y respetar fácilmente tu calendario de publicación. Las diferentes tablas para cada plataforma te facilitarán la personalización de tus contenidos para todas las redes sociales.
 
-[Regístrese gratis](https://seatable.io/es/registrierung/) en SeaTable, personalice el plan de redes sociales según sus necesidades y disfrute de la reducción de la carga de trabajo.
+[Regístrese gratis]({{< relref "pages/registration" >}}) en SeaTable, personalice el plan de redes sociales según sus necesidades y disfrute de la reducción de la carga de trabajo.

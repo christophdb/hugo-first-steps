@@ -84,4 +84,4 @@ You can set up an automated notification mechanism for yourself under the notifi
 
 You can adjust your form at any time if you notice that important information is missing. After a participant submits their information, it immediately appears in the Meeting Schedule table. So in just a few steps, you've created a simple and straightforward appointment booking system that automatically collects all the relevant information in one place. Scheduling appointments becomes a breeze! [Our template](https://seatable.io/en/vorlage/m1su2sncqwmgwfxs1x_jza/) can help you bring structure to your appointment booking system.
 
-[In our YouTube tutorial](https://www.youtube.com/watch?v=7Kgzeld0kDM) we explained once again in detail how to create a web form with SeaTable. This can be easily transferred to an appointment booking system - [try it out today](https://seatable.io/en/registrierung/)!
+[In our YouTube tutorial](https://www.youtube.com/watch?v=7Kgzeld0kDM) we explained once again in detail how to create a web form with SeaTable. This can be easily transferred to an appointment booking system - [try it out today]({{< relref "pages/registration" >}})!

@@ -103,7 +103,7 @@ Here you can see a nice **SWOT analysis example for companies**:
 
 ## How SeaTable's SWOT analysis template works
 
-Would you like to use the SeaTable template to carry out your analysis? Then [register](https://seatable.io/en/registrierung/) on our website in no time at all. In the library you will find the **free template**, in which the SWOT analysis is simply explained and filled out with sample data. Click on Use template and start your analysis.
+Would you like to use the SeaTable template to carry out your analysis? Then [register]({{< relref "pages/registration" >}}) on our website in no time at all. In the library you will find the **free template**, in which the SWOT analysis is simply explained and filled out with sample data. Click on Use template and start your analysis.
 
 In the first table, you will find sample entries organized according to the four SWOT categories. In the first column, enter the factor before determining its origin (internal or external) and assigning it to the individual categories.
 

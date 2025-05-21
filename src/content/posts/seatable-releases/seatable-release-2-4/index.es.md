@@ -19,7 +19,7 @@ Con SeaTable 2.4 introducimos la navegación por las vistas acoplables, que hace
 
 ## Vinculación con otras entradas mucho más flexible
 
-El tipo de columna Enlace a otras entradas es probablemente el más importante de SeaTable. SeaTable no es una [hoja de cálculo](die-online-tabellenkalkulation-fuer-alle-ihre-aufgaben/) más. Como ningún otro tipo de columna, este tipo de columna representa eso. Y en SeaTable 2.4 hemos mejorado aún más este tipo de columna.
+El tipo de columna Enlace a otras entradas es probablemente el más importante de SeaTable. SeaTable no es una hoja de cálculo más. Como ningún otro tipo de columna, este tipo de columna representa eso. Y en SeaTable 2.4 hemos mejorado aún más este tipo de columna.
 
 ![Más opciones de visualización para la columna de enlaces](images/More_Flexible_Link_Column_raw_1448x554.png)
 

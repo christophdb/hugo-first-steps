@@ -108,7 +108,7 @@ A partir de estos análisis y objetivos, los directivos comunican cuánto dinero
 
 ## Cree sus planes presupuestarios con SeaTable
 
-Mucha gente utiliza [hojas de cálculo Excel](https://seatable.io/es/die-beste-excel-alternative-tabellenloesungen-im-vergleich/) para planificar su presupuesto, pero éstas sólo ofrecen funciones y opciones de visualización limitadas. Puede [registrarse gratuitamente](https://seatable.io/es/registrierung/) en **SeaTable** y empezar directamente con la plantilla que se muestra arriba. Puede agrupar y evaluar todos los centros de costes, objetivos, presupuestos y gastos en una base de datos central de este tipo.
+Mucha gente utiliza [hojas de cálculo Excel](https://seatable.io/es/die-beste-excel-alternative-tabellenloesungen-im-vergleich/) para planificar su presupuesto, pero éstas sólo ofrecen funciones y opciones de visualización limitadas. Puede [registrarse gratuitamente]({{< relref "pages/registration" >}}) en **SeaTable** y empezar directamente con la plantilla que se muestra arriba. Puede agrupar y evaluar todos los centros de costes, objetivos, presupuestos y gastos en una base de datos central de este tipo.
 
 Asigne a sus gestores la responsabilidad del presupuesto y utilice **SeaTable como herramienta de colaboración** para **trabajar en la elaboración del presupuesto** con varios departamentos **al mismo tiempo**. Esto le permite ajustar el plan presupuestario a lo largo del año, **hacer un seguimiento de los gastos en tiempo real** y tener siempre una visión general del presupuesto actual.
 

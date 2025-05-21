@@ -196,4 +196,4 @@ Con el [planificador de festivales](https://seatable.io/es/vorlage/qmbf6-o7t7u5l
 
 Con la opción de compartir una lista de equipaje para el festival con tus amigos, puedes asegurarte de que nada se lleva dos veces sin necesidad y de que todo el mundo sabe exactamente de qué es responsable. Las casillas marcables garantizan que no se olvide nada importante.
 
-[Regístrese](https://seatable.io/es/registrierung/) gratuitamente con su dirección de correo electrónico y utilice la [plantilla](https://seatable.io/es/vorlage/qmbf6-o7t7u5lj8lns28ug/) para su próximo festival.
+[Regístrese]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico y utilice la [plantilla](https://seatable.io/es/vorlage/qmbf6-o7t7u5lj8lns28ug/) para su próximo festival.

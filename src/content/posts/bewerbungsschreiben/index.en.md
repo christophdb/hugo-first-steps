@@ -58,7 +58,7 @@ You can put aside any qualifications that you have not marked as **relevant to y
 
 You should create a table so that you don't lose track of where you have applied, when and with which documents during your job search. SeaTable offers you a [structured application overview](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) so that you always have the information and documents you have prepared to hand. See all your applications and the associated documents at a glance and make it easier for you to create cover letters with the **page design**.
 
-If you would like to use SeaTable for your application planner, simply [register](https://seatable.io/en/registrierung/) free of charge. You can find the template [here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+If you would like to use SeaTable for your application planner, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
 
 ## Formalities in your letter of application
 
@@ -220,4 +220,4 @@ Before you send off your application, you should **proofread** it. In addition t
 
 Now nothing stands in the way of writing your next successful application. SeaTable has created an [online application planner](https://seatable.io/en/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) for you so that you don't lose track of your documents even if you have several applications. This will help you to plan your next steps, organize your documents and always stay up to date with the application process.
 
-If you would like to use SeaTable for your application overview, simply [register](https://seatable.io/en/registrierung/) free of charge. You can find the template [here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+If you would like to use SeaTable for your application overview, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).

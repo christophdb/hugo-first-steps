@@ -9,11 +9,11 @@ color: '#eeeeee'
 draft: true
 ---
 
-With the upgrade of SeaTable Cloud to version 3.0, Cloud subscribers benefit not only from the many new and improved functions of the [major release](/en/seatable-release-3-0), but also from a new team management that simplifies the management of small and especially larger teams. New functions have been added, existing functions have been expanded and a new design creates more clarity and user-friendliness. We are pleased to present the new team management and the most important changes in this article.
+With the upgrade of SeaTable Cloud to version 3.0, Cloud subscribers benefit not only from the many new and improved functions of the [major release]({{< relref "posts/seatable-releases/seatable-release-3-0" >}}, but also from a new team management that simplifies the management of small and especially larger teams. New functions have been added, existing functions have been expanded and a new design creates more clarity and user-friendliness. We are pleased to present the new team management and the most important changes in this article.
 
 ## Initial situation and challenges
 
-The "old" team management of SeaTable Cloud is a module of [SeaTable Server](/en/on-premises/?lang=auto/). (SeaTable Server is the software behind SeaTable Cloud, which is also available for installation on your own server). As such, it provides all the necessary management functions for teams to use within an organization (private cloud). However, it does not offer subscription management features or integration with a payment service provider.
+The "old" team management of SeaTable Cloud is a module of [SeaTable Server]({{< relref "pages/product/seatable-server" >}}. (SeaTable Server is the software behind SeaTable Cloud, which is also available for installation on your own server). As such, it provides all the necessary management functions for teams to use within an organization (private cloud). However, it does not offer subscription management features or integration with a payment service provider.
 
 !["Old" team administration](images/TeamAdministration_old.png)
 

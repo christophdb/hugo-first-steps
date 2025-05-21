@@ -30,4 +30,4 @@ Here are a few highlights of how you can integrate SeaTable with other apps:
 - [Spotify + SeaTable](https://zapier.com/apps/seatable/integrations/spotify):  
    Save all tracks you add to a playlist to SeaTable.
 
-The possibilities of Zapier are truly endless and offer great potential to make your life easier. [Write to us](/en/kontakt/) and tell us about your integrations or tell us what integration you need.
+The possibilities of Zapier are truly endless and offer great potential to make your life easier. [Write to us]({{< relref "pages/contact" >}}) and tell us about your integrations or tell us what integration you need.

@@ -96,4 +96,4 @@ Möchten Sie informiert werden, wenn ein neuer Bug eingeht oder wenn Ihnen ein B
 Starten Sie noch heute mit einem effizienten Fehlerbehebungsprozess. Sie finden das Bugtracker [Template](https://seatable.io/vorlage/hlbtvqrtscqmhx3adh5asg/) direkt in SeaTable bei den Vorlagen im Bereich Softwareentwicklung. Die meisten Funktionen dieser Vorlage sind bereits im kostenlosen SeaTable Free Abo nutzbar. Automationen und erweiterte Berechtigungen sind den kostenpflichtigen Abos von SeaTable vorbehalten.
 
 **Weitere Vorlagen im Bereich Softwareentwicklung:**  
-Werfen Sie auch einen Blick auf unserer anderen Vorlagen im Bereich Softwareentwicklung. SeaTable bietet vielfältige Möglichkeiten um Ihnen und Ihrem Team die Arbeit leichter zu machen. [Registrieren](/registrierung/) Sie sich am Besten gleich und probieren Sie es aus.
+Werfen Sie auch einen Blick auf unserer anderen Vorlagen im Bereich Softwareentwicklung. SeaTable bietet vielfältige Möglichkeiten um Ihnen und Ihrem Team die Arbeit leichter zu machen. [Registrieren]({{< relref "pages/registration" >}}) Sie sich am Besten gleich und probieren Sie es aus.

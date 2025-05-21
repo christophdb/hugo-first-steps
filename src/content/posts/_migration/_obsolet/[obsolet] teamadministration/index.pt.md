@@ -8,11 +8,11 @@ color: '#eeeeee'
 draft: true
 ---
 
-Com a actualização do SeaTable Cloud para a versão 3.0, os assinantes do SeaTable Cloud não só beneficiam das muitas funções novas e melhoradas do [lançamento principal](/pt/seatable-release-3-0), mas também de uma nova gestão de equipas que simplifica a gestão de equipas pequenas e especialmente maiores. Foram acrescentadas novas funções, as funções existentes foram expandidas e um novo design cria mais clareza e facilidade de utilização. Temos o prazer de apresentar a nova gestão da equipa e as mudanças mais importantes neste artigo.
+Com a actualização do SeaTable Cloud para a versão 3.0, os assinantes do SeaTable Cloud não só beneficiam das muitas funções novas e melhoradas do [lançamento principal]({{< relref "posts/seatable-releases/seatable-release-3-0" >}}, mas também de uma nova gestão de equipas que simplifica a gestão de equipas pequenas e especialmente maiores. Foram acrescentadas novas funções, as funções existentes foram expandidas e um novo design cria mais clareza e facilidade de utilização. Temos o prazer de apresentar a nova gestão da equipa e as mudanças mais importantes neste artigo.
 
 ## Situação inicial e desafios
 
-A "antiga" gestão de equipas do SeaTable Cloud é um módulo do [SeaTable Server](/pt/on-premises/?lang=auto/). (O SeaTable Server é o software por detrás do SeaTable Cloud, que também está disponível para instalação no seu próprio servidor). Como tal, fornece todas as funções de gestão necessárias para as equipas utilizarem dentro de uma organização (nuvem privada). No entanto, não oferece funções de gestão de subscrições ou integração com um fornecedor de serviços de pagamento.
+A "antiga" gestão de equipas do SeaTable Cloud é um módulo do [SeaTable Server]({{< relref "pages/product/seatable-server" >}}. (O SeaTable Server é o software por detrás do SeaTable Cloud, que também está disponível para instalação no seu próprio servidor). Como tal, fornece todas as funções de gestão necessárias para as equipas utilizarem dentro de uma organização (nuvem privada). No entanto, não oferece funções de gestão de subscrições ou integração com um fornecedor de serviços de pagamento.
 
 !["Administração da equipa "antiga](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
 

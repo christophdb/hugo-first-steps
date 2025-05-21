@@ -97,4 +97,4 @@ Leuchten Ihnen die Vorteile von Datenbanken ein, doch die Vorstellung, eine eige
 
 Schauen Sie sich viele Beispiele für die Nutzung von SeaTable in unserer [Vorlagen-Bibliothek](https://seatable.io/vorlagen/) an. Hier finden Sie Beispiele aus den Bereichen Marketing, Vertrieb, Projektmanagement, Softwareentwicklung, Personalwesen und viele mehr. Wir haben sogar eine [7-teilige Produkteinführung](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) auf unserem YouTube-Kanal für Sie vorbereitet, bei welcher wir Sie einmal durch den gesamten Prozess der Erstellung einer SeaTable Base leiten.
 
-Nutzen Sie die Vorteile einer Datenbank und verabschieden Sie sich noch heute von unübersichtlichen Tabellen! [Hier](https://seatable.io/registrierung/) geht’s direkt zur kostenlosen Registrierung!
+Nutzen Sie die Vorteile einer Datenbank und verabschieden Sie sich noch heute von unübersichtlichen Tabellen! [Hier]({{< relref "pages/registration" >}}) geht’s direkt zur kostenlosen Registrierung!

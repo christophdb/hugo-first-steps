@@ -96,7 +96,7 @@ Interessant ist außerdem, dass Sie [Dateien](https://seatable.io/docs/dateien-u
 
 Im Vergleich aller betrachteten Apps hat SeaTable den mit Abstand **größten Funktionsumfang** und überzeugt mit jeder Menge **Flexibilität**. So erhalten Sie in einer App alles, was Sie für Ihre To do Liste brauchen. Dank der vielen **kollaborativen Funktionen** (Kommentare, gemeinsame Datensätze, synchrones Arbeiten in Echtzeit etc.) können Sie nicht nur an eigenen Listen, sondern auch erfolgreich im Team zusammenarbeiten.
 
-Bei SeaTable können Sie mit der [kostenfreien Version](https://seatable.io/registrierung/) und dem [interaktiven Template](https://seatable.io/vorlage/bpvzkh-vrpwr4xylid6zeq/) sofort beginnen. Weitere Features sind in der Plus-Version für 7 € pro User und Monat, der Enterprise-Version für 14 € pro User und Monat oder einer dedizierten Cloud-Lösung erhältlich.
+Bei SeaTable können Sie mit der [kostenfreien Version]({{< relref "pages/registration" >}}) und dem [interaktiven Template](https://seatable.io/vorlage/bpvzkh-vrpwr4xylid6zeq/) sofort beginnen. Weitere Features sind in der Plus-Version für 7 € pro User und Monat, der Enterprise-Version für 14 € pro User und Monat oder einer dedizierten Cloud-Lösung erhältlich.
 
 {{< warning headline="DSGVO und Datenhoheit" text="Die Server der SeaTable Cloud befinden sich in Deutschland, sodass sich die Plattform auch für die DSGVO-konforme Arbeit mit sensiblen, personenbezogenen Daten eignet. Zudem haben Sie die Möglichkeit, [SeaTable On-Premises](https://seatable.io/on-premises/) auf Ihren eigenen Servern zu installieren." />}}
 

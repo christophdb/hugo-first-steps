@@ -45,7 +45,7 @@ A integração do Seafile no SeaTable dificilmente poderia ser mais fácil: Gera
 
 ![Integração facilitada do Seafile para grandes volumes de dados](https://seatable.io/wp-content/uploads/2023/06/verbesserte-integration-mit-seafile-release-notes.png)
 
-Os servidores Seafile alojados e auto-hospedados podem ser ligados. [Por favor, contacte a nossa equipa de vendas](https://seatable.io/pt/kontakt/) se pretender alojar um servidor Seafile. Para os clientes SeaTable Dedicated, oferecemos o co-hospedagem Seafile.
+Os servidores Seafile alojados e auto-hospedados podem ser ligados. [Por favor, contacte a nossa equipa de vendas]({{< relref "pages/contact" >}}) se pretender alojar um servidor Seafile. Para os clientes SeaTable Dedicated, oferecemos o co-hospedagem Seafile.
 
 ## O plug-in de estatísticas e o módulo de estatísticas fundem-se numa única ferramenta
 

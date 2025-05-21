@@ -104,4 +104,4 @@ Office organisation, and especially the ordering of internal goods, can quickly 
 
 With SeaTable you have a powerful tool at your side that can provide you with excellent support in this and many other processes. For example, you can use it to organise your [CRM offer management](https://seatable.io/en/crm-angebotsmanagement/?lang=auto), [build](https://seatable.io/en/digitales-produktmanagement/?lang=auto) your [product management digitally](https://seatable.io/en/digitales-produktmanagement/?lang=auto) or [plan internal workshops](https://seatable.io/en/mit-internen-workshops-den-unternehmenswert-steigern/?lang=auto).
 
-Try out our template and [register](https://seatable.io/en/registrierung/)! SeaTable is free of charge in the basic version.
+Try out our template and [register]({{< relref "pages/registration" >}})! SeaTable is free of charge in the basic version.

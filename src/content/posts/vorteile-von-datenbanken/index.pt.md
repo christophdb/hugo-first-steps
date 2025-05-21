@@ -96,4 +96,4 @@ As vantagens das bases de dados fazem sentido para si, mas a ideia de construir 
 
 Veja muitos exemplos de como utilizar o SeaTable na nossa [biblioteca de modelos](https://seatable.io/pt/vorlagen/). Aqui encontrará exemplos das áreas de marketing, vendas, gestão de projectos, desenvolvimento de software, recursos humanos e muito mais. Até preparámos para si uma [introdução ao produto em 7 partes](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) no nosso canal do YouTube, na qual o orientamos ao longo de todo o processo de criação de uma Base SeaTable.
 
-Utilize as vantagens de uma base de dados e diga adeus às tabelas confusas hoje mesmo! [Clique aqui](https://seatable.io/pt/registrierung/) para se registar gratuitamente!
+Utilize as vantagens de uma base de dados e diga adeus às tabelas confusas hoje mesmo! [Clique aqui]({{< relref "pages/registration" >}}) para se registar gratuitamente!

@@ -166,4 +166,4 @@ A lot of material and information can come together in a content analysis. That'
 
 Especially if you work with several coders, a **collaboration platform** like SeaTable has unbeatable advantages. You can store all materials centrally in a database and have them coded by giving each coder an individually filtered view. You can also easily evaluate the coded data and visualize it as clear statistics.
 
-If you would like to use SeaTable for your content analysis, simply [register](https://seatable.io/en/registrierung/) free of charge. You can find the template [here](https://seatable.io/en/vorlage/jaw90r-mtsgxsep3vkfd4q/).
+If you would like to use SeaTable for your content analysis, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here](https://seatable.io/en/vorlage/jaw90r-mtsgxsep3vkfd4q/).

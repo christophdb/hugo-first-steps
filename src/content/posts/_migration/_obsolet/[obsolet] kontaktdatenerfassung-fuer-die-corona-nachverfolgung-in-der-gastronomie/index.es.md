@@ -8,7 +8,7 @@ color: '#eeeeee'
 draft: true
 ---
 
-La recogida de datos de contacto en el sector de la hostelería para el seguimiento de las cadenas de infección de Covid19 es un componente clave del paquete de medidas para contener la propagación del nuevo virus Corona. Nuestra plantilla de registro de invitados ofrece una solución sencilla y digital para acabar con el tedioso papeleo que supone la recopilación de datos de contacto de Corona: En lugar de papel, el huésped introduce sus datos de contacto en un formulario web en su smartphone. Para abrir el formulario web, su invitado sólo tiene que escanear un código QR con la cámara de su teléfono móvil. La información de contacto se almacena en un centro de datos alemán y puede seguir la entrada de la información de contacto en tiempo real a través de su cuenta de cliente de SeaTable. Comience [ahora](https://seatable.io/es/registrierung/) de forma gratuita con la solución todo en uno para la captura de datos de contacto en restaurantes, bares y cafeterías.
+La recogida de datos de contacto en el sector de la hostelería para el seguimiento de las cadenas de infección de Covid19 es un componente clave del paquete de medidas para contener la propagación del nuevo virus Corona. Nuestra plantilla de registro de invitados ofrece una solución sencilla y digital para acabar con el tedioso papeleo que supone la recopilación de datos de contacto de Corona: En lugar de papel, el huésped introduce sus datos de contacto en un formulario web en su smartphone. Para abrir el formulario web, su invitado sólo tiene que escanear un código QR con la cámara de su teléfono móvil. La información de contacto se almacena en un centro de datos alemán y puede seguir la entrada de la información de contacto en tiempo real a través de su cuenta de cliente de SeaTable. Comience [ahora]({{< relref "pages/registration" >}}) de forma gratuita con la solución todo en uno para la captura de datos de contacto en restaurantes, bares y cafeterías.
 
 ## Captura digital de datos de contacto: higiénica, flexible y sin complicaciones
 
@@ -36,7 +36,7 @@ Sus datos se almacenarán en su cuenta de usuario de SeaTable. Lo primero que ti
 
 Siga los 5 pasos y estará listo en minutos.
 
-[5 pasos para la captura de datos de contacto con SeaTable](/es/corona-gaesteregistrierung/#tab-id-1-active)
+[5 pasos para la captura de datos de contacto con SeaTable](https://seatable.io/es/corona-gaesteregistrierung/#tab-id-1-active)
 
 ## Muchas otras funciones prácticas
 

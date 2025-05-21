@@ -122,4 +122,4 @@ Damit Ihr Event ein voller Erfolg wird, ist es maßgebend, jederzeit einen klare
 
 Die Verwendung des integrierten **Webformulars** ermöglicht es den Teilnehmern, sich problemlos für Ihr Event anzumelden. Sie können **Rechnungen** mit nur einem Klick erstellen und versenden, ohne großen Aufwand betreiben zu müssen. Darüber hinaus bietet die Vorlage die Möglichkeit, das **Timeline-Plugin** für die Zeitplanung zu nutzen oder das **Karten-Plugin**, um die Veranstaltungsorte visuell festzuhalten.
 
-Mit diesen Funktionen bietet SeaTable die ideale Lösung, um Ihr Eventmanagement zu optimieren. Alles, was Sie tun müssen, um die [Vorlage](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/) zu nutzen, ist sich mit Ihrer E-Mail-Adresse zu [registrieren](https://seatable.io/registrierung/).
+Mit diesen Funktionen bietet SeaTable die ideale Lösung, um Ihr Eventmanagement zu optimieren. Alles, was Sie tun müssen, um die [Vorlage](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/) zu nutzen, ist sich mit Ihrer E-Mail-Adresse zu [registrieren]({{< relref "pages/registration" >}}).

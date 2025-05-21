@@ -77,7 +77,7 @@ No entanto, não só melhorámos a integração com as aplicações, como també
 
 ## O novo plugin Árvore
 
-Depois de três novos plugins na [versão 5.0](/pt/seatable-release-5-0/), a versão 5.1 também expande a lista de plugins SeaTable disponíveis: O novo plugin Tree permite a visualização tabular compacta de registos de dados ligados por relações. Independentemente de estar a analisar dados financeiros (como na imagem abaixo), dados de projectos, dados de utilização ou outros dados, o novo plugin fornece uma visão geral que não existia anteriormente.
+Depois de três novos plugins na [versão 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), a versão 5.1 também expande a lista de plugins SeaTable disponíveis: O novo plugin Tree permite a visualização tabular compacta de registos de dados ligados por relações. Independentemente de estar a analisar dados financeiros (como na imagem abaixo), dados de projectos, dados de utilização ou outros dados, o novo plugin fornece uma visão geral que não existia anteriormente.
 
 ![Plugin de árvore](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
 

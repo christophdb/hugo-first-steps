@@ -200,4 +200,4 @@ With the template for your animal husbandry you can:
 - Organize care for your vacations and absences
 - Record expenses and calculate costs
 
-If you would like to use SeaTable for your animal husbandry, simply [register](https://seatable.io/en/registrierung/) free of charge. You can find the corresponding template with sample entries [here](https://seatable.io/en/vorlage/yhq088vxr8mtfpz_i_hmag/).
+If you would like to use SeaTable for your animal husbandry, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the corresponding template with sample entries [here](https://seatable.io/en/vorlage/yhq088vxr8mtfpz_i_hmag/).

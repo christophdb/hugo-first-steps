@@ -166,4 +166,4 @@ En el análisis de contenidos puede confluir mucho material e información. Por 
 
 Especialmente si trabaja con varios codificadores, una **plataforma de colaboración** como SeaTable tiene ventajas insuperables. Puede almacenar todos los materiales de forma centralizada en una base de datos y codificarlos ofreciendo a cada codificador una vista filtrada individualmente. También puede evaluar fácilmente los datos codificados y visualizarlos en forma de estadísticas claras.
 
-Si desea utilizar SeaTable para su análisis de contenidos, sólo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente. Encontrará la plantilla [aquí](https://seatable.io/es/vorlage/jaw90r-mtsgxsep3vkfd4q/).
+Si desea utilizar SeaTable para su análisis de contenidos, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. Encontrará la plantilla [aquí](https://seatable.io/es/vorlage/jaw90r-mtsgxsep3vkfd4q/).

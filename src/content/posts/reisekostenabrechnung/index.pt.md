@@ -104,4 +104,4 @@ Muitas pessoas utilizam um modelo Excel para o seu relatório de despesas de via
 
 Pode encontrar mais informações sobre o modelo de relatório de despesas de viagem da SeaTable [aqui](https://seatable.io/pt/vorlage/alhhthyxqbud1qqkxaormq/).
 
-[Basta registar-se gratuitamente](https://seatable.io/pt/registrierung/) com o seu endereço de e-mail, experimentar o SeaTable e personalizar o modelo como desejar para registar as apresentações na sua empresa da forma que quiser!
+[Basta registar-se gratuitamente]({{< relref "pages/registration" >}}) com o seu endereço de e-mail, experimentar o SeaTable e personalizar o modelo como desejar para registar as apresentações na sua empresa da forma que quiser!

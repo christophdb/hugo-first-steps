@@ -68,10 +68,10 @@ Apart from general open source collection programs, there are a large number of 
 
 For example, if you collect shoes, your database in SeaTable could look like this:
 
-[Register](https://seatable.io/en/registrierung/) with your e-mail address and start with the free version, which is completely sufficient for private collections. If you need more functions or storage space, switch to the Plus version for €7 per person per month or the Enterprise version for €14 per user per month.
+[Register]({{< relref "pages/registration" >}}) with your e-mail address and start with the free version, which is completely sufficient for private collections. If you need more functions or storage space, switch to the Plus version for €7 per person per month or the Enterprise version for €14 per user per month.
 
 ## Conclusion
 
 For collectors, every single collector's item is valuable. You can keep track of them with a suitable collection management app or general management software that is suitable for collections.
 
-The range of collection software is as large and varied as the collections that exist. If you collect fish or classic cars, for example, you will find the right management program online. If, on the other hand, you want to use the same program to manage different collections, it is worthwhile using clearly structured and versatile programs such as SeaTable. With the [free version](https://seatable.io/en/registrierung/), you can manage your collection efficiently in intelligent tables.
+The range of collection software is as large and varied as the collections that exist. If you collect fish or classic cars, for example, you will find the right management program online. If, on the other hand, you want to use the same program to manage different collections, it is worthwhile using clearly structured and versatile programs such as SeaTable. With the [free version]({{< relref "pages/registration" >}}), you can manage your collection efficiently in intelligent tables.

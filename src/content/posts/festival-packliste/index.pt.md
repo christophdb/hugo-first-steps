@@ -196,4 +196,4 @@ Com o [planeador de festivais](https://seatable.io/pt/vorlage/qmbf6-o7t7u5lj8lns
 
 Com a opção de partilhar uma lista de embalagem para o festival com os seus amigos, pode certificar-se de que nada é trazido duas vezes desnecessariamente e que todos sabem exatamente aquilo por que são responsáveis. As caixas de verificação assinaláveis garantem que não se esquece de nada importante.
 
-[Registe-se](https://seatable.io/pt/registrierung/) gratuitamente com o seu endereço de correio eletrónico e utilize o [modelo](https://seatable.io/pt/vorlage/qmbf6-o7t7u5lj8lns28ug/) para o seu próximo festival.
+[Registe-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de correio eletrónico e utilize o [modelo](https://seatable.io/pt/vorlage/qmbf6-o7t7u5lj8lns28ug/) para o seu próximo festival.

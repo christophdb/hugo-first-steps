@@ -107,4 +107,4 @@ Registe as suas **ideias**, atribua mensagens a **categorias** específicas com 
 
 Graças ao **calendário** incorporado, pode acompanhar quando as suas mensagens devem aparecer e cumprir facilmente o seu calendário de publicação. Tabelas diferentes para cada plataforma facilitarão a personalização do seu conteúdo para todas as redes sociais.
 
-[Registe-se gratuitamente](https://seatable.io/pt/registrierung/) no SeaTable, personalize o plano de redes sociais de acordo com as suas necessidades e desfrute da redução do volume de trabalho!
+[Registe-se gratuitamente]({{< relref "pages/registration" >}}) no SeaTable, personalize o plano de redes sociais de acordo com as suas necessidades e desfrute da redução do volume de trabalho!

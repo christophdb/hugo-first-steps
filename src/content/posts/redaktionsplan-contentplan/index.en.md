@@ -149,4 +149,4 @@ All in all, you should make sure that ...
 
 When you create a [marketing plan](https://seatable.io/en/marketingplan-vorlage/), you need a clear content plan to keep track of the planned content, deadlines, tasks and their status. This allows you to successfully plan and implement contributions as a team.
 
-If we have piqued your interest in SeaTable, [register for free](https://seatable.io/en/registrierung/) in our cloud and start working directly with the content plan template.
+If we have piqued your interest in SeaTable, [register for free]({{< relref "pages/registration" >}}) in our cloud and start working directly with the content plan template.

@@ -109,7 +109,7 @@ Os seus empregados registam as horas de trabalho com apenas alguns cliques num f
 
 Em seguida, os responsáveis podem visualizar os tempos de trabalho na folha de horas. Aqui podem agrupar e filtrar de acordo com empregados individuais ou períodos de tempo.
 
-É particularmente fácil começar com um [modelo gratuito](https://seatable.io/pt/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) que pode ser utilizado imediatamente após o [registo gratuito](https://seatable.io/pt/registrierung/). Pode obter mais informações sobre o registo do tempo de trabalho no SeaTable [aqui](https://seatable.io/pt/arbeitszeiterfassung/).
+É particularmente fácil começar com um [modelo gratuito](https://seatable.io/pt/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) que pode ser utilizado imediatamente após o [registo gratuito]({{< relref "pages/registration" >}}). Pode obter mais informações sobre o registo do tempo de trabalho no SeaTable [aqui](https://seatable.io/pt/arbeitszeiterfassung/).
 
 ## Conclusão: Alternativas ao registo de horas no Excel
 

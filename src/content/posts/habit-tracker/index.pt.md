@@ -131,4 +131,4 @@ Se gosta de praticidade e simplicidade, também pode utilizar uma **aplicação*
 
 Para não perder de vista o seu objetivo, precisa de uma solução simples e eficaz para acompanhar os seus hábitos e progressos. O SeaTable oferece-lha com um [modelo gratuito](https://seatable.io/pt/vorlage/petkiwi1stmm_1lh2xlejq/) que pode personalizar de acordo com as suas necessidades pessoais. O Habit Tracker está integrado num bullet journal, que oferece formas ainda mais interessantes de organizar e mudar a sua vida.
 
-Se quiser utilizar o SeaTable para o seu registo de hábitos, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente. Pode encontrar o modelo correspondente com muita inspiração e exemplos de hábitos [aqui](https://seatable.io/pt/vorlage/petkiwi1stmm_1lh2xlejq/).
+Se quiser utilizar o SeaTable para o seu registo de hábitos, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente com muita inspiração e exemplos de hábitos [aqui](https://seatable.io/pt/vorlage/petkiwi1stmm_1lh2xlejq/).

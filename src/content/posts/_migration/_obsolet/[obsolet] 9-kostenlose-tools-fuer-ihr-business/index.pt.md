@@ -46,9 +46,9 @@ Os criadores de conteúdos conhecem o jogo de estar constantemente à procura de
 
 **9\. mesas inteligentes com SeaTable**
 
-SeaTable é uma mistura de programa de folha de cálculo inteligente e base de dados, que também pode ser utilizada gratuitamente. Podem ser criadas até 2.000 filas em diferentes bases - as funções do SeaTable são totalmente utilizáveis e pode testar você mesmo as diversas áreas de aplicação. Seja para a gestão de projectos, [marketing](/pt/marketing/) ou RH, para classificar e organizar dados, quase tudo é possível com o SeaTable.
+SeaTable é uma mistura de programa de folha de cálculo inteligente e base de dados, que também pode ser utilizada gratuitamente. Podem ser criadas até 2.000 filas em diferentes bases - as funções do SeaTable são totalmente utilizáveis e pode testar você mesmo as diversas áreas de aplicação. Seja para a gestão de projectos, [marketing]({{< relref "pages/industry-solutions/marketing" >}}) ou RH, para classificar e organizar dados, quase tudo é possível com o SeaTable.
 
-Com plug-ins úteis como o quadro Kanban, é mesmo possível criar uma excelente alternativa à ferramenta de gestão de projectos Trello acima referida. Além disso, o **SeaTable pode ser ligado ao Zapier** e, desta forma, pode registar, classificar e utilizar todo o tipo de dados de uma forma totalmente automatizada. O [registo](https://seatable.io/pt/registrierung/) é gratuito e rápido - basta experimentar!
+Com plug-ins úteis como o quadro Kanban, é mesmo possível criar uma excelente alternativa à ferramenta de gestão de projectos Trello acima referida. Além disso, o **SeaTable pode ser ligado ao Zapier** e, desta forma, pode registar, classificar e utilizar todo o tipo de dados de uma forma totalmente automatizada. O [registo]({{< relref "pages/registration" >}}) é gratuito e rápido - basta experimentar!
 
 Esta é apenas uma pequena e selectiva visão geral das ferramentas empresariais gratuitas que podem abrir caminho para o sucesso de empresas em fase de arranque e de pequenas empresas. A escolha das que acabará por utilizar depende inteiramente dos seus objectivos comerciais e das suas possibilidades. Com as ferramentas gratuitas, pode até fazer rondas de teste extensivas - se o programa não se adequar ao seu fluxo de trabalho, pode simplesmente procurar outro.
 

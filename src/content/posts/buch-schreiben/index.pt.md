@@ -138,4 +138,4 @@ Campfire Pro apresenta uma estrutura simples com **painéis** que resultam em um
 
 As ferramentas de software de autoria apresentadas aqui oferecem uma variedade de funções e opções para apoiá-lo em todas as fases do processo de escrita. Em última análise, a escolha do software certo depende de suas necessidades e preferências individuais ao escrever um livro. Com o programa certo, você pode otimizar seu processo de escrita e concretizar com sucesso suas visões criativas.
 
-Se você quiser usar o modelo do SeaTable para o projeto do seu livro, basta [registrar-se](https://seatable.io/pt/registrierung/) gratuitamente com seu endereço de e-mail. Você pode iniciar seu [plano de redação](https://seatable.io/pt/vorlage/lkngogoxqfaoj1kppa2awa/) pessoal em apenas alguns minutos.
+Se você quiser usar o modelo do SeaTable para o projeto do seu livro, basta [registrar-se]({{< relref "pages/registration" >}}) gratuitamente com seu endereço de e-mail. Você pode iniciar seu [plano de redação](https://seatable.io/pt/vorlage/lkngogoxqfaoj1kppa2awa/) pessoal em apenas alguns minutos.

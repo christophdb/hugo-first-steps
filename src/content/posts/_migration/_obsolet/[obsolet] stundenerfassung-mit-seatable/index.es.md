@@ -16,7 +16,7 @@ Sí, los empresarios en Alemania ya están obligados a registrar las horas extra
 
 El Ministerio Federal de Trabajo quiere responder a la pregunta de **cómo** debe ser el registro de horas en el futuro en un proyecto de ley antes de finales de 2023. Actualmente, el registro de horas **no** está sujeto a una forma específica y puede realizarse tanto electrónicamente como por escrito en papel. Esto cambiará en el futuro si el Ministerio Federal de Trabajo se sale con la suya: el comienzo, el final y la duración del tiempo de trabajo diario deberán registrarse **electrónicamente** y, por lo general, el **mismo día**.
 
-Sin embargo, como empresario, no es aconsejable esperar hasta que la ley exija el registro electrónico de las horas. Si aún no lo ha hecho, empiece a registrar digitalmente las horas de trabajo de sus empleados. La [plantilla gratuita para el registro](https://seatable.io/es/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) de las horas de trabajo de SeaTable es un sistema adecuado para registrar las horas en su empresa y está lista para su uso inmediatamente después del [registro gratuito](https://seatable.io/es/registrierung/).
+Sin embargo, como empresario, no es aconsejable esperar hasta que la ley exija el registro electrónico de las horas. Si aún no lo ha hecho, empiece a registrar digitalmente las horas de trabajo de sus empleados. La [plantilla gratuita para el registro](https://seatable.io/es/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) de las horas de trabajo de SeaTable es un sistema adecuado para registrar las horas en su empresa y está lista para su uso inmediatamente después del [registro gratuito]({{< relref "pages/registration" >}}).
 
 ## Estructura de la plantilla SeaTable
 
@@ -40,4 +40,4 @@ Las horas introducidas se muestran en la vista general. Un formulario web enviad
 
 Con nuestra plantilla para el registro de horas, estará preparado para todo, ya se trate de cambios legales o de futuros controles por parte de las autoridades. En cualquier caso, tiene sentido empezar hoy mismo a registrar con precisión las horas de trabajo de sus empleados. Con nuestra plantilla, tendrá todas las horas a la vista en todo momento y podrá demostrar el cumplimiento de la normativa legal sobre el tiempo de trabajo.
 
-¿Le falta algo? No se preocupe. Puede adaptar fácilmente SeaTable a sus necesidades individuales. Sólo tiene que probarlo. Nuestras [plantillas](https://seatable.io/es/vorlagen/) son gratuitas y pueden utilizarse inmediatamente después de [registrarse](https://seatable.io/es/registrierung/).
+¿Le falta algo? No se preocupe. Puede adaptar fácilmente SeaTable a sus necesidades individuales. Sólo tiene que probarlo. Nuestras [plantillas](https://seatable.io/es/vorlagen/) son gratuitas y pueden utilizarse inmediatamente después de [registrarse]({{< relref "pages/registration" >}}).

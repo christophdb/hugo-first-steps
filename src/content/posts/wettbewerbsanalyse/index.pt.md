@@ -163,4 +163,4 @@ A ferramenta gratuita SeaTable é ideal para efetuar eficazmente a sua análise 
 
 Arquive documentos PDF (por exemplo, relatórios anuais, comunicados de imprensa) e capturas de ecrã de anúncios ou sítios Web dos seus concorrentes para ver fontes interessantes em comparação direta. Descreva os pontos fortes e fracos da concorrência ou anote informações sobre preços, pontos de venda exclusivos e grupos-alvo. Com o modelo gratuito de análise da concorrência, que pode encontrar [aqui](https://seatable.io/pt/vorlage/rv0aemhnqjufipzfycgc8w/), pode visualizar rapidamente os dados da sua análise e desenvolver estratégias o mais facilmente possível.
 
-Se está pronto para pôr os seus concorrentes à prova, [registe-se](https://seatable.io/pt/registrierung/) gratuitamente no SeaTable hoje mesmo. Pode então começar imediatamente, utilizar o modelo e preenchê-lo com os seus próprios dados.
+Se está pronto para pôr os seus concorrentes à prova, [registe-se]({{< relref "pages/registration" >}}) gratuitamente no SeaTable hoje mesmo. Pode então começar imediatamente, utilizar o modelo e preenchê-lo com os seus próprios dados.

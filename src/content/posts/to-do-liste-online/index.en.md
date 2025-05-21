@@ -97,7 +97,7 @@ Another interesting feature is that you can upload [files](https://seatable.io/e
 
 SeaTable has by far the **widest range of functions** of all the apps we looked at and impresses with a great deal of **flexibility**. You get everything you need for your to-do list in one app. Thanks to the many **collaborative functions** (comments, shared data records, synchronized work in real time, etc.), you can not only work on your own lists, but also collaborate successfully in a team.
 
-With SeaTable, you can get started right away with the [free version](https://seatable.io/en/registrierung/) and the [interactive template](https://seatable.io/en/vorlage/bpvzkh-vrpwr4xylid6zeq/). Additional features are available in the Plus version for €7 per user per month, the Enterprise version for €14 per user per month or a dedicated cloud solution.
+With SeaTable, you can get started right away with the [free version]({{< relref "pages/registration" >}}) and the [interactive template](https://seatable.io/en/vorlage/bpvzkh-vrpwr4xylid6zeq/). Additional features are available in the Plus version for €7 per user per month, the Enterprise version for €14 per user per month or a dedicated cloud solution.
 
 {{< warning headline="GDPR and data sovereignty" text="The SeaTable Cloud servers are located in Germany, making the platform suitable for GDPR-compliant work with sensitive personal data. You also have the option of installing [SeaTable on-premises](https://seatable.io/en/on-premises/) on your own servers." />}}
 

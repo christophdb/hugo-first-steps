@@ -51,7 +51,7 @@ Puedes introducir fácilmente todos tus gastos en tu libro de presupuesto digita
 
 Ya se trate de la compra, el alquiler y los servicios públicos, el seguro del coche o las clases particulares de su hijo, con SeaTable podrá llevar un registro de todos sus gastos. Con la ayuda de [columnas de selección única](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), puede **clasificar**, **filtrar** y **agrupar** sus gastos individualmente. Para un orden cronológico en su libro de presupuesto, simplemente **ordene** sus gastos por [fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/). En dos tablas adicionales puede enumerar sus **ingresos** mensuales y calcular su **presupuesto de** excedentes.
 
-Si desea utilizar la plantilla para su libro de presupuesto, [sólo tiene que registrarse gratuitamente](https://seatable.io/es/registrierung/) en SeaTable. A continuación, podrá importar la [plantilla](https://seatable.io/es/vorlage/kqecvuxbrganzgw0w1skgq/) a su espacio de trabajo y personalizarla para adaptarla a sus necesidades.
+Si desea utilizar la plantilla para su libro de presupuesto, [sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) en SeaTable. A continuación, podrá importar la [plantilla](https://seatable.io/es/vorlage/kqecvuxbrganzgw0w1skgq/) a su espacio de trabajo y personalizarla para adaptarla a sus necesidades.
 
 ## 12 consejos para ahorrar
 
@@ -143,6 +143,6 @@ Al mismo tiempo, puedes establecer hábitos positivos: Por ejemplo, beber agua e
 
 ## Su presupuesto perfecto reserve con SeaTable
 
-Como puede ver: Controlar tus gastos y costes de vida sólo tiene ventajas. Con un libro de presupuesto, siempre tendrá el control y sabrá exactamente a dónde ha ido a parar su dinero. SeaTable se adapta a sus necesidades. Si actualmente utiliza Excel para su libro de presupuesto, puede simplemente importar sus tablas a SeaTable. Puede [registrarse gratuitamente](https://seatable.io/es/registrierung/) y probar SeaTable.
+Como puede ver: Controlar tus gastos y costes de vida sólo tiene ventajas. Con un libro de presupuesto, siempre tendrá el control y sabrá exactamente a dónde ha ido a parar su dinero. SeaTable se adapta a sus necesidades. Si actualmente utiliza Excel para su libro de presupuesto, puede simplemente importar sus tablas a SeaTable. Puede [registrarse gratuitamente]({{< relref "pages/registration" >}}) y probar SeaTable.
 
 Si desea utilizar nuestra plantilla, eche un vistazo a nuestra área de plantillas de [Finanzas](https://seatable.io/es/vorlagen/finanzen/). Hay muchos más casos de uso en los que SeaTable puede facilitarle el día a día.

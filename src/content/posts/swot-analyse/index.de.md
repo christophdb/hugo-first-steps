@@ -102,7 +102,7 @@ Hier sehen Sie ein schönes **SWOT Analyse Beispiel für Unternehmen**:
 
 ## So funktioniert das SWOT Analyse Template von SeaTable
 
-Möchten Sie das Template von SeaTable nutzen, um Ihre Analyse durchzuführen? Dann [registrieren Sie sich](https://seatable.io/registrierung/) im Handumdrehen auf unserer Webseite. In der Bibliothek finden Sie das **kostenlose Template**, in dem die SWOT Analyse einfach erklärt mit Beispieldaten ausgefüllt ist. Klicken Sie auf Vorlage benutzen und starten Sie mit Ihrer Analyse.
+Möchten Sie das Template von SeaTable nutzen, um Ihre Analyse durchzuführen? Dann [registrieren Sie sich]({{< relref "pages/registration" >}}) im Handumdrehen auf unserer Webseite. In der Bibliothek finden Sie das **kostenlose Template**, in dem die SWOT Analyse einfach erklärt mit Beispieldaten ausgefüllt ist. Klicken Sie auf Vorlage benutzen und starten Sie mit Ihrer Analyse.
 
 In der ersten Tabelle finden Sie Beispiel-Einträge, die nach den entsprechenden vier SWOT-Kategorien geordnet sind. In der ersten Spalte tragen Sie den Faktor ein, bevor Sie seine Herkunft (intern oder extern) bestimmen und ihn in die einzelnen Kategorien einordnen.
 

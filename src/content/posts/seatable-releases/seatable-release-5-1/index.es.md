@@ -77,7 +77,7 @@ Sin embargo, no sólo hemos mejorado la integración con las aplicaciones, el [p
 
 ## El nuevo plugin Árbol
 
-Después de tres nuevos plugins en [la versión 5.0](/es/seatable-release-5-0/), la versión 5.1 también amplía la lista de plugins SeaTable disponibles: el nuevo plugin Árbol permite la visualización tabular compacta de registros de datos vinculados relacionalmente. Independientemente de si se analizan datos financieros (como en la captura de pantalla siguiente), datos de proyectos, datos de uso u otros datos, el nuevo plugin proporciona una visión general que antes no existía.
+Después de tres nuevos plugins en [la versión 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), la versión 5.1 también amplía la lista de plugins SeaTable disponibles: el nuevo plugin Árbol permite la visualización tabular compacta de registros de datos vinculados relacionalmente. Independientemente de si se analizan datos financieros (como en la captura de pantalla siguiente), datos de proyectos, datos de uso u otros datos, el nuevo plugin proporciona una visión general que antes no existía.
 
 ![Plugin del árbol](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
 

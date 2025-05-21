@@ -235,4 +235,4 @@ An app is also available to simplify travel planning. You can use it to enter id
 
 ![Budget Dashboard in SeaTable's Travel App](images/Travel-App.png)
 
-[Register](https://seatable.io/en/registrierung/) for free today to benefit from these practical functions and organize your next trip stress-free. You can then use the [template](https://seatable.io/en/vorlage/axq_85kkrjsriagmqpxehw/) in your personal SeaTable workspace, fill it with your own data and share it with your fellow travelers via the app.
+[Register]({{< relref "pages/registration" >}}) for free today to benefit from these practical functions and organize your next trip stress-free. You can then use the [template](https://seatable.io/en/vorlage/axq_85kkrjsriagmqpxehw/) in your personal SeaTable workspace, fill it with your own data and share it with your fellow travelers via the app.

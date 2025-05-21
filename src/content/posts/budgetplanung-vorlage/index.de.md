@@ -108,7 +108,7 @@ Auf Basis dieser Analysen und Ziele kommunizieren die Manager im Bottom-Up-Verfa
 
 ## Erstellen Sie Ihre Budgetpläne mit SeaTable
 
-Viele nutzen für Ihre Budgetplanung [Excel-Tabellen](https://seatable.io/die-beste-excel-alternative-tabellenloesungen-im-vergleich/), die allerdings nur begrenzte Funktionen und Darstellungsmöglichkeiten bieten. In **SeaTable** können Sie sich [kostenlos registrieren](https://seatable.io/registrierung/) und direkt mit der oben gezeigten Vorlage starten. In solch einer zentralen Datenbank können Sie alle Kostenstellen, Ziele, Budgets und Ausgaben bündeln und auswerten.
+Viele nutzen für Ihre Budgetplanung [Excel-Tabellen](https://seatable.io/die-beste-excel-alternative-tabellenloesungen-im-vergleich/), die allerdings nur begrenzte Funktionen und Darstellungsmöglichkeiten bieten. In **SeaTable** können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und direkt mit der oben gezeigten Vorlage starten. In solch einer zentralen Datenbank können Sie alle Kostenstellen, Ziele, Budgets und Ausgaben bündeln und auswerten.
 
 Geben Sie Ihren Führungskräften Budgetverantwortung und nutzen Sie **SeaTable als Kollaborationstool**, um mit mehreren Abteilungen **gleichzeitig an der Budgetierung zu arbeiten**. So können Sie den Budgetplan im Laufe des Jahres anpassen, die **Erfassung der Ausgaben in Echtzeit verfolgen** und stets den Überblick über das aktuelle Budget behalten.
 

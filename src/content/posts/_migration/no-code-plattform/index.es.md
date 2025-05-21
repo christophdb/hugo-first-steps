@@ -151,7 +151,7 @@ SeaTable cumple las cuatro características de Forrester Research y no puede cla
 
 En cuanto a su campo de aplicación, SeaTable pertenece a las soluciones sin código basadas en bases de datos. En SeaTable, puede almacenar y organizar casi cualquier tipo de información y utilizarla como base para otros procesos. Para ello, proporcionamos más de 20 tipos de columnas diferentes, plug-ins como galería, kanban, línea de tiempo, mapa o calendario. Además, el usuario tiene la posibilidad de construir sus vistas de la forma que desee mediante funciones de filtrado, clasificación y agrupación. Los análisis estadísticos y los formularios web también son funciones básicas de SeaTable.
 
-Simplemente[regístrese](/es/registrierung/) en la nube de SeaTable y pruebe SeaTable de forma gratuita durante un período ilimitado de tiempo.
+Simplemente[regístrese]({{< relref "pages/registration" >}}) en la nube de SeaTable y pruebe SeaTable de forma gratuita durante un período ilimitado de tiempo.
 
 ## Otras soluciones sin código en un vistazo
 

@@ -125,7 +125,7 @@ Für größere Unternehmen mit vielen Gegenständen und komplexeren Anwendungsf�
 
 ## Eine Inventarliste erstellen mit SeaTable
 
-Die No-Code-Datenbank-Software **SeaTable** hält bereits eine [Inventarliste Vorlage](https://seatable.io/vorlage/nwkbq-cmrxmcxv1k0sxoaw/) für Sie bereit. Um diese **kostenlos zu nutzen**, [registrieren](https://seatable.io/registrierung/) Sie sich einfach mit Ihrer E-Mail-Adresse und legen einen Account an. Sind Sie eingeloggt, fahren Sie wie folgt fort:
+Die No-Code-Datenbank-Software **SeaTable** hält bereits eine [Inventarliste Vorlage](https://seatable.io/vorlage/nwkbq-cmrxmcxv1k0sxoaw/) für Sie bereit. Um diese **kostenlos zu nutzen**, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach mit Ihrer E-Mail-Adresse und legen einen Account an. Sind Sie eingeloggt, fahren Sie wie folgt fort:
 
 1. Fügen Sie die Vorlage als **neue Base** auf Ihrer Startseite hinzu. Wie das geht, erfahren Sie [in dieser Anleitung](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 2. Klicken Sie die Base an, um sie zu **öffnen**.
@@ -154,4 +154,4 @@ Die meisten Unternehmen müssen eine Inventarliste führen. Dabei standardisiert
 
 Überlegen Sie, **welche Informationen** Sie über Ihr Inventar benötigen, **wer** an der Inventur beteiligt ist und **wie viele Beteiligte** Zugriff auf die Daten benötigen. **Wie** möchten Sie die Daten aufbereiten und **welche Funktionen** sind dafür nötig?
 
-Sobald Sie diese grundlegenden Fragen geklärt haben, starten Sie ganz einfach in die Umsetzung. Wenn Sie die SeaTable Vorlage für Ihre Inventarliste nutzen möchten, [registrieren Sie sich kostenlos](https://seatable.io/registrierung/) und legen Sie direkt los.
+Sobald Sie diese grundlegenden Fragen geklärt haben, starten Sie ganz einfach in die Umsetzung. Wenn Sie die SeaTable Vorlage für Ihre Inventarliste nutzen möchten, [registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) und legen Sie direkt los.

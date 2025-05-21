@@ -52,7 +52,7 @@ You can easily enter all your expenses in your digital budget book. Using the ex
 
 Whether it's shopping, rent and utilities, car insurance or tutoring for your son - with SeaTable you can keep track of all your costs. With the help of [single-selection columns](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), you can **categorize**, **filter** and **group** your expenses individually. For a chronological order in your budget book, simply **sort** your expenses by [date](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/). You can list your monthly **income** and calculate your surplus **budget** in two additional tables.
 
-If you would like to use the template for your budget book, [simply register for free](https://seatable.io/en/registrierung/) in SeaTable. You can then import the [template](https://seatable.io/en/vorlage/kqecvuxbrganzgw0w1skgq/) into your workspace and adapt it flexibly to your needs.
+If you would like to use the template for your budget book, [simply register for free]({{< relref "pages/registration" >}}) in SeaTable. You can then import the [template](https://seatable.io/en/vorlage/kqecvuxbrganzgw0w1skgq/) into your workspace and adapt it flexibly to your needs.
 
 ## 12 tips to help you save money
 
@@ -144,6 +144,6 @@ At the same time, you can establish positive habits: For example, simply drinkin
 
 ## Your perfect budget book with SeaTable
 
-As you can see: Keeping track of your expenses and living costs only has advantages. With a budget book, you always stay in control and know exactly where your money has gone. SeaTable adapts to your needs. If you currently use Excel for your budget book, you can simply import your tables into SeaTable. You can [register for free](https://seatable.io/en/registrierung/) and try out SeaTable!
+As you can see: Keeping track of your expenses and living costs only has advantages. With a budget book, you always stay in control and know exactly where your money has gone. SeaTable adapts to your needs. If you currently use Excel for your budget book, you can simply import your tables into SeaTable. You can [register for free]({{< relref "pages/registration" >}}) and try out SeaTable!
 
 If you would like to use our template, take a look at our [Finance](https://seatable.io/en/vorlagen/finanzen/) template area. There are many more use cases for how SeaTable can make your everyday life easier.

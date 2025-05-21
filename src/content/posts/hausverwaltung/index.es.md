@@ -125,4 +125,4 @@ Con la [plantilla](https://seatable.io/es/vorlage/ufyf6scpsgucxv8y0g9asw/) SeaTa
 
 Puede registrar fotos y aspectos destacados de su propiedad (por ejemplo, cocina totalmente equipada, terraza) en una base de datos.
 
-Regístrese [gratuitamente](https://seatable.io/es/registrierung/) para utilizar la plantilla y organizar sus datos de forma eficaz. Cree de forma flexible la estructura de tablas que necesita para la gestión inmobiliaria, a fin de mantener una visión general de todos los datos y minimizar su carga de trabajo administrativo.
+Regístrese [gratuitamente]({{< relref "pages/registration" >}}) para utilizar la plantilla y organizar sus datos de forma eficaz. Cree de forma flexible la estructura de tablas que necesita para la gestión inmobiliaria, a fin de mantener una visión general de todos los datos y minimizar su carga de trabajo administrativo.

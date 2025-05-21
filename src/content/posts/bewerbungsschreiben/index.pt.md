@@ -57,7 +57,7 @@ Pode pôr de lado quaisquer qualificações que não tenha assinalado como **rel
 
 Deve criar uma tabela para não perder a noção de onde se candidatou, quando e com que documentos durante a sua procura de emprego. O SeaTable oferece-lhe uma [visão geral estruturada](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) das candidaturas, para que tenha sempre à mão as informações e os documentos que preparou. Veja todas as suas candidaturas e os documentos associados num relance e facilite a criação de cartas de apresentação com o **design da página**.
 
-Se pretender utilizar o SeaTable para o seu planeador de candidaturas, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente. Pode encontrar o modelo [aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+Se pretender utilizar o SeaTable para o seu planeador de candidaturas, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
 
 ## Formalidades da carta de candidatura
 
@@ -211,4 +211,4 @@ Antes de enviar a sua candidatura, deve fazer **uma revisão da** mesma. Para al
 
 Agora nada o impede de redigir a sua próxima candidatura com êxito. A SeaTable criou um [planeador de candidaturas em linha](https://seatable.io/pt/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) para que não perca o rasto dos seus documentos, mesmo que tenha várias candidaturas. Isto ajudá-lo-á a planear os seus próximos passos, a organizar os seus documentos e a manter-se sempre atualizado sobre o processo de candidatura.
 
-Se pretender utilizar o SeaTable para a síntese da sua candidatura, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente. Pode encontrar o modelo [aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+Se pretender utilizar o SeaTable para a síntese da sua candidatura, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).

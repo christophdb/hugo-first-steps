@@ -21,7 +21,7 @@ Plus vous possédez de livres, plus il est difficile de garder une vue d'ensembl
 
 Vous avez plus d'une bibliothèque et les emplacements de vos livres sont répartis dans plusieurs pièces ? Même dans ce cas, il est très utile de cataloguer les livres. Avec l'application Livres appropriée, vous savez exactement quel livre se trouve où et vous n'avez pas besoin de le chercher longtemps si vous en avez besoin rapidement.
 
-![Une femme cataloguera ses livres avec l'application Livres.](https://seatable.io/wp-content/uploads/2022/07/Bücher-kataklgisieren_AdobeStock_189841022–bearbeitet-711x474.jpg)
+![Une femme cataloguera ses livres avec l'application Livres.](images/buecher-katalogisieren-frau.jpg)
 
 Cataloguer des livres © Viktoriia / Adobe Stock
 
@@ -48,7 +48,7 @@ ou Google Sheets. Ici aussi, vous devez saisir vous-même chaque titre et les in
 
 Si vous souhaitez cataloguer, organiser et gérer vos livres de manière judicieuse, vous devriez miser sur le travail avec une application pour livres ou une application pour bibliothèques. C'est rapide, simple et sans crayon ni fiche.
 
-![Un homme répertorie ses livres dans l'application Livres.](https://seatable.io/wp-content/uploads/2022/07/Bücher-katalogisieren_AdobeStock_378495849_bearbeitet-711x474.jpg)
+![Un homme répertorie ses livres dans l'application Livres.](images/buecher-katalogisieren-mann.jpg)
 
 Cataloguer des livres © NDABCREATIVITY / Adobe Stock
 
@@ -86,7 +86,7 @@ Quel que soit le support que vous utilisez au final, il y a trois facteurs qui s
 2. **Des informations intelligentes**: Pour choisir l'application qui convient, il est également important de savoir quelles informations vous souhaitez saisir. Le titre et l'auteur suffisent-ils ou faut-il également saisir des aspects plus détaillés comme le genre, le statut de lecture, etc.
 3. **Gestion du temps**: plus vous avez de livres, plus il vous faudra de temps pour les cataloguer. Pour ne pas perdre votre motivation, prévoyez plutôt plus de temps. En revanche, vous serez récompensé à la fin par une bibliothèque privée complète.
 
-![Pile de livres à cataloguer dans une application de livres.](https://seatable.io/wp-content/uploads/2022/07/Bücher-katalogisieren_AdobeStock_144344997_bearbeitet-1.jpg)
+![Pile de livres à cataloguer dans une application de livres.](images/buecher-stapel.jpg)
 
 Cataloguer des livres © Kara / Adobe Stock
 

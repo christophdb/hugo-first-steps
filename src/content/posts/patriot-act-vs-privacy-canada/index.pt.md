@@ -64,7 +64,7 @@ Comparado com o Airtable, o SeaTable impressiona pelo multilinguismo, limites de
 
 Além disso, o SeaTable oferece uma variante auto-hospedada com a qual pode instalar e utilizar o software como uma [solução no local](https://seatable.io/pt/on-premises/), nos seus próprios servidores. Isto proporciona-lhe uma soberania absoluta dos dados e o máximo controlo sobre o local onde os seus dados são armazenados. Qualquer que seja a opção escolhida, o SeaTable está em conformidade com as leis canadianas de proteção de dados.
 
-Pretende recolher dados de uma forma estruturada, concluir tarefas de forma eficiente e desenvolver processos poderosos - sem ter de se preocupar com a segurança dos seus dados? Então veja com os seus próprios olhos e [registe-se aqui](https://seatable.io/pt/registrierung/) para obter uma **subscrição gratuita do SeaTable**, que já lhe oferece inúmeras [funções](https://seatable.io/pt/preise) úteis. A subscrição é **totalmente gratuita para** si e é uma oportunidade perfeita para testar o SeaTable sem compromisso.
+Pretende recolher dados de uma forma estruturada, concluir tarefas de forma eficiente e desenvolver processos poderosos - sem ter de se preocupar com a segurança dos seus dados? Então veja com os seus próprios olhos e [registe-se aqui]({{< relref "pages/registration" >}}) para obter uma **subscrição gratuita do SeaTable**, que já lhe oferece inúmeras [funções](https://seatable.io/pt/preise) úteis. A subscrição é **totalmente gratuita para** si e é uma oportunidade perfeita para testar o SeaTable sem compromisso.
 
 Ainda não está convencido? Pode encontrar mais informações sobre o SeaTable no sítio [Web](https://seatable.io/pt/).
 

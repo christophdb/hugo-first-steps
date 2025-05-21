@@ -8,7 +8,7 @@ url: '/seatable-release-1-3'
 color: '#eeeeee'
 ---
 
-The September release, uploaded on September 14, brings plenty of new features, functionalities and user experience improvements to ALL users. The hottest new addition is SeaTable’s scripting engine. Other great new features are the seamless integration of templates, conditional row formatting, a new print function and the new column type auto number. And this is by far not all. For the full list of changes, check our [Changelog](https://seatable.io/en/docs/changelog/version-1-3/). Living up to its name, SeaTable offers an ocean of possibilities. [Register now](https://seatable.io/en/registrierung/) and hit the waves.
+The September release, uploaded on September 14, brings plenty of new features, functionalities and user experience improvements to ALL users. The hottest new addition is SeaTable’s scripting engine. Other great new features are the seamless integration of templates, conditional row formatting, a new print function and the new column type auto number. And this is by far not all. For the full list of changes, check our [Changelog](https://seatable.io/en/docs/changelog/version-1-3/). Living up to its name, SeaTable offers an ocean of possibilities. [Register now]({{< relref "pages/registration" >}}) and hit the waves.
 
 ## Automate data processing with scripts
 

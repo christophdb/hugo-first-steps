@@ -94,4 +94,4 @@ Con el [planificador de presupuestos](https://seatable.io/es/vorlage/kqecvuxbrga
 
 Gracias al práctico **calendario**, también puede controlar la fecha de vencimiento de determinados gastos para no incumplir ningún plazo de pago y no verse sorprendido por domiciliaciones inesperadas.
 
-Despídase de sus deudas de Klarna gestionando sus finanzas de forma eficaz y llevando un control de sus gastos. Solo tienes que [registrarte gratuitamente en SeaTable](https://seatable.io/es/registrierung/), crear una nueva base de datos utilizando la plantilla e introducir tus propios datos.
+Despídase de sus deudas de Klarna gestionando sus finanzas de forma eficaz y llevando un control de sus gastos. Solo tienes que [registrarte gratuitamente en SeaTable]({{< relref "pages/registration" >}}), crear una nueva base de datos utilizando la plantilla e introducir tus propios datos.

@@ -193,4 +193,4 @@ Welches Literaturverwaltungsprogramm für Sie das richtige ist, sollten Sie davo
 
 SeaTable bietet Ihnen dafür eine [Vorlage](https://seatable.io/vorlage/h9cf82deq2ms7eizc3nwgg/), in welcher Sie beispielhafte Literatur finden und den Prozess vom Einpflegen der Quellen bis hin zur Ausgabe des Literaturverzeichnisses nachvollziehen können. Die Vorlage können Sie nach Belieben an Ihre Anforderungen anpassen, eigene Quellen einfügen und sie mit vielen nützlichen Tools strukturieren und visualisieren.
 
-Wenn Sie SeaTable als Literaturverwaltungsprogramm nutzen möchten, [registrieren](https://seatable.io/registrierung/) Sie sich einfach kostenlos.
+Wenn Sie SeaTable als Literaturverwaltungsprogramm nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos.

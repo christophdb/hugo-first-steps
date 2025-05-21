@@ -58,4 +58,4 @@ The formulas findmin and findmax in the column type Formulas for Links now also 
 
 With version 2.6 SeaTable Server Enterprise Edition (SeaTable Server EE) requires a licence file. Without a licence file, SeaTable Server refuses to start. Earlier versions could also be started without a licence file. If your SeaTable Server EE does not start after the update, please check for the existence of a licence file.
 
-A free licence for up to three users and a validity of 2 years is available on request [via our website](https://seatable.io/en/on-premises/?lang=auto).
+A free licence for up to three users and a validity of 2 years is available on request [via our website]({{< relref "pages/product/seatable-server" >}}.

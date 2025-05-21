@@ -102,4 +102,4 @@ Um konkrete Ziele festzulegen und Ihren Fortschritt verfolgen zu können, bietet
 
 Mithilfe einer weiteren Tabelle behalten Sie den Überblick über alle wichtigen Zahlen und sehen auf einen Blick, in welchen Bereichen Sie sich bereits verbessern konnten. Ebenso können Sie Nachhaltigkeitszertifikate, die Sie bereits erhalten haben oder auf die Sie hinarbeiten, dokumentieren und automatisiert den nächsten Termin für die Neubeantragung generieren lassen.
 
-Um SeaTable zu verwenden, müssen Sie sich lediglich kostenlos [registrieren](https://seatable.io/registrierung/). Anschließend können Sie die [Vorlage](https://seatable.io/vorlage/dzs1hkplqmurvmuwzhv0fa/) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.
+Um SeaTable zu verwenden, müssen Sie sich lediglich kostenlos [registrieren]({{< relref "pages/registration" >}}). Anschließend können Sie die [Vorlage](https://seatable.io/vorlage/dzs1hkplqmurvmuwzhv0fa/) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.

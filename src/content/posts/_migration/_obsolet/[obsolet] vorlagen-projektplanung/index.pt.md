@@ -57,7 +57,7 @@ Vale a pena utilizar o SeaTable se quiser trabalhar com várias partes num plano
 
 ### É assim que se procede
 
-Para criar o seu plano de projecto, [registe-se gratuitamente no SeaTable](https://seatable.io/pt/registrierung/) e inicie sessão na ferramenta digital através do seu navegador. Depois clicar em "Adicionar Base" e seleccionar um modelo. O modelo está imediatamente pronto a ser utilizado.
+Para criar o seu plano de projecto, [registe-se gratuitamente no SeaTable]({{< relref "pages/registration" >}}) e inicie sessão na ferramenta digital através do seu navegador. Depois clicar em "Adicionar Base" e seleccionar um modelo. O modelo está imediatamente pronto a ser utilizado.
 
 ### 5 Modelos para planeamento de projectos em SeaTable
 

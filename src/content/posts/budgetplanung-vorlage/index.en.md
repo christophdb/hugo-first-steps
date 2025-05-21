@@ -109,7 +109,7 @@ Based on these analyses and targets, the managers communicate how much money the
 
 ## Create your budget plans with SeaTable
 
-Many people use [Excel spreadsheets](https://seatable.io/en/die-beste-excel-alternative-tabellenloesungen-im-vergleich/) for their budget planning, but these only offer limited functions and display options. You can register [for free](https://seatable.io/en/registrierung/) in **SeaTable** and start directly with the template shown above. You can bundle and evaluate all cost centers, targets, budgets and expenses in such a central database.
+Many people use [Excel spreadsheets](https://seatable.io/en/die-beste-excel-alternative-tabellenloesungen-im-vergleich/) for their budget planning, but these only offer limited functions and display options. You can register [for free]({{< relref "pages/registration" >}}) in **SeaTable** and start directly with the template shown above. You can bundle and evaluate all cost centers, targets, budgets and expenses in such a central database.
 
 Give your managers budget responsibility and use **SeaTable as a collaboration tool** to **work on budgeting** with several departments **at the same time**. This allows you to adjust the budget plan throughout the year, **track expenses in real time** and always have an overview of the current budget.
 

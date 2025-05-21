@@ -178,4 +178,4 @@ Para no perder de vista los objetivos de su lista de cosas que hacer antes de mo
 
 Además, puede registrar qué amigos y familiares comparten determinados intereses y le acompañarían en sus aventuras. También puedes guardar información adicional como fotos, enlaces o direcciones directamente en tu lista de cosas que hacer antes de morir para reunir todos los detalles relevantes en un solo lugar.
 
-Marque un objetivo tras otro de su lista de deseos, añada nuevas ideas de forma flexible o elimine deseos que ya no son importantes para usted. Puedes registrarte [gratis](https://seatable.io/es/registrierung/) en SeaTable y personalizar la [plantilla](https://seatable.io/es/vorlage/jbn_a4wysewcfd9eegkgha/) online para adaptarla a tus necesidades.
+Marque un objetivo tras otro de su lista de deseos, añada nuevas ideas de forma flexible o elimine deseos que ya no son importantes para usted. Puedes registrarte [gratis]({{< relref "pages/registration" >}}) en SeaTable y personalizar la [plantilla](https://seatable.io/es/vorlage/jbn_a4wysewcfd9eegkgha/) online para adaptarla a tus necesidades.

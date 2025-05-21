@@ -163,4 +163,4 @@ La herramienta gratuita SeaTable es ideal para llevar a cabo eficazmente su aná
 
 Archive documentos PDF (por ejemplo, informes anuales, comunicados de prensa) y capturas de pantalla de anuncios o sitios web de sus competidores para ver fuentes interesantes en comparación directa. Describa los puntos fuertes y débiles de la competencia o anote información sobre precios, puntos de venta únicos y grupos destinatarios. Con la plantilla gratuita de análisis de la competencia, que puedes encontrar [aquí](https://seatable.io/es/vorlage/rv0aemhnqjufipzfycgc8w/), podrás visualizar los datos de tu análisis de un vistazo y desarrollar estrategias de la forma más sencilla posible.
 
-Si está listo para poner a prueba a sus competidores, [regístrese](https://seatable.io/es/registrierung/) gratis en SeaTable hoy mismo. Podrá empezar de inmediato, utilizar la plantilla y rellenarla con sus propios datos.
+Si está listo para poner a prueba a sus competidores, [regístrese]({{< relref "pages/registration" >}}) gratis en SeaTable hoy mismo. Podrá empezar de inmediato, utilizar la plantilla y rellenarla con sus propios datos.

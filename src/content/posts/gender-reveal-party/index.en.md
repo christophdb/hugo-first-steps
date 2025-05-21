@@ -163,4 +163,4 @@ This is all about guessing. Have your guests predict the **date of birth** based
 
 In order for your gender reveal party to be a complete success, it requires extensive organization. To make this easier for you, the SeaTable team has created a [practical template](https://seatable.io/en/vorlage/bpczhtg6q9ql10dcgly_wa/) for planning your baby shower. You can customize it to suit your needs.
 
-If you would like to use SeaTable for this, simply [register](https://seatable.io/en/registrierung/) free of charge. You can find the template [here](https://seatable.io/en/vorlage/bpczhtg6q9ql10dcgly_wa/).
+If you would like to use SeaTable for this, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here](https://seatable.io/en/vorlage/bpczhtg6q9ql10dcgly_wa/).

@@ -122,4 +122,4 @@ Para que o seu evento seja um sucesso total, é essencial ter sempre uma visão 
 
 A utilização do **formulário Web** integrado facilita o registo dos participantes no seu evento. Pode criar e enviar **facturas** com apenas um clique, sem ter de fazer muito esforço. Além disso, o modelo oferece a opção de utilizar o **plugin de cronologia** para o agendamento ou o **plugin de mapa** para registar visualmente os locais do evento.
 
-Com estas funções, o SeaTable oferece a solução ideal para otimizar a gestão dos seus eventos. Para utilizar o [modelo](https://seatable.io/pt/vorlage/fewxqfzbsxocskxl7hikqq/), basta [registar-se](https://seatable.io/pt/registrierung/) com o seu endereço eletrónico.
+Com estas funções, o SeaTable oferece a solução ideal para otimizar a gestão dos seus eventos. Para utilizar o [modelo](https://seatable.io/pt/vorlage/fewxqfzbsxocskxl7hikqq/), basta [registar-se]({{< relref "pages/registration" >}}) com o seu endereço eletrónico.
