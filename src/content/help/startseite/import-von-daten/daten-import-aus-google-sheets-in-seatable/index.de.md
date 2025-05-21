@@ -17,4 +17,5 @@ Im folgenden Artikel finden Sie eine Anleitung, wie Sie Daten aus Google Sheets 
     ![Google Sheet als CSV oder Excel speichern](images/google-sheets-export-as-xls-csv.png)
 
 2. Im Anschluss können Sie die Dateien wie gewohnt in SeaTable **importieren**.
-3. Eine detaillierte **Anleitung** zum Importieren der Dateien finden Sie im jeweiligen Übersichtsartikel zum [Excel-]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) bzw. [CSV-Import](https://seatable.io/?post_type=docs&p=16604).
+
+3. Eine detaillierte **Anleitung** zum Importieren der Dateien finden Sie im jeweiligen Übersichtsartikel zum [Excel-Import]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) bzw. [CSV-Import]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}).
