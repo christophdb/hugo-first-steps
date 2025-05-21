@@ -57,4 +57,4 @@ Team-Administratoren können ab sofort für Ihre Teammitglieder die 2-Faktor-Aut
 
 Bisher blieben Verknüpfungen aus gelöschten und dann wiederhergestellten Zeilen verloren. Mit der Version 2.7 werden auch Verknüpfungen bei der Wiederherstellung einer Zeile wieder erzeugt.
 
-Die mit [Version 2.3](/seatable-release-2-3) eingeführte Archivfunktion hat weitere Schritte in Richtung produktiver Einsatz gemacht: Aus dem Archiv lassen sich jetzt Einträge löschen und auch Einträge bearbeiten. (Verknüpfungen können jedoch noch nicht erzeugt oder geändert werden.)
+Die mit [Version 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) eingeführte Archivfunktion hat weitere Schritte in Richtung produktiver Einsatz gemacht: Aus dem Archiv lassen sich jetzt Einträge löschen und auch Einträge bearbeiten. (Verknüpfungen können jedoch noch nicht erzeugt oder geändert werden.)

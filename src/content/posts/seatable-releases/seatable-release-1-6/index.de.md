@@ -23,7 +23,7 @@ Und das ist noch nicht alles! Wir haben auch die Formatoptionen der Formelspalte
 
 ## Spaltentyp # 20: E-Mail
 
-Der neue Spaltentyp E-Mail speichert E-Mail-Adressen. Ein Klick auf eine gefüllte Zelle öffnet automatisch die Mail-App und kopiert die Adresse wird in die An: Zeile. Man kann also direkt zum Verfassen der E-Mail übergehen. Zellen in der E-Mail Spalte verhalten sich also ganz ähnlich wie Zellen in der Spalte vom Typ URL, die in [SeaTable 1.4](/seatable-release-1-4/) eingeführt wurde.
+Der neue Spaltentyp E-Mail speichert E-Mail-Adressen. Ein Klick auf eine gefüllte Zelle öffnet automatisch die Mail-App und kopiert die Adresse wird in die An: Zeile. Man kann also direkt zum Verfassen der E-Mail übergehen. Zellen in der E-Mail Spalte verhalten sich also ganz ähnlich wie Zellen in der Spalte vom Typ URL, die in [SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) eingeführt wurde.
 
 ![Column type email in webform](images/Column_Type_Email_Form.jpg)
 

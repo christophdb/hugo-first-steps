@@ -113,7 +113,7 @@ Mehr zur Integration eines eigenen SSL-Zertifikats finden Sie im [SeaTable Manua
 
 Sie können SeaTable Enterprise Edition mit allen Funktionen ohne kostenpflichtige Lizenz mit bis zu drei Benutzern benutzen – privat wie gewerblich und auch dauerhaft. Aus diesem Grund benötigen Sie für die Inbetriebnahme keine Lizenz.
 
-Wenn Sie jedoch mehr als drei Benutzer in SeaTable anlegen wollen, dann wird sich SeaTable dem verweigern. Eine Lizenz erhalten Sie über [unseren Vertrieb](/kontakt/?lang=auto). Mehr Informationen zu den Preisen von SeaTable Enterprise finden Sie auf unserer [Preisseite](/preise/?lang=auto).
+Wenn Sie jedoch mehr als drei Benutzer in SeaTable anlegen wollen, dann wird sich SeaTable dem verweigern. Eine Lizenz erhalten Sie über [unseren Vertrieb]({{< relref "pages/contact" >}}). Mehr Informationen zu den Preisen von SeaTable Enterprise finden Sie auf unserer [Preisseite](/preise/?lang=auto).
 
 Um die Lizenz zu aktivieren, speichern Sie die Lizenzdatei, eine TXT-Datei, im Ordner /opt/seatable/seatable-data/seatable und starten Sie SeaTable neu:
 
