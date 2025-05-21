@@ -25,19 +25,11 @@
         </div>
     </section>
 
-    <div class="mx-auto mt-16 flex justify-center gap-4 text-center">
-        {{ range .buttons }}
-            {{ $link := page.GetPage .link }}
-
-            {{ if not $link }}
-                {{ errorf "[hero-1] Page %s does not exist!" .link }}
+    {{ if .buttons }}
+        <div class="mx-auto mt-16 flex justify-center gap-4 text-center">
+            {{ range .buttons }}
+                {{ partial "content-blocks/helpers/button.html" . }}
             {{ end }}
-
-            {{ if eq .style "primary" | default "" }}
-                <a class="bg-gradient rounded-xl px-7 py-4 font-poppins text-xl font-bold text-white" href="{{ $link.RelPermalink }}">{{ .label }}</a>
-            {{ else }}
-                <a class="rounded-xl border border-seatable-blue bg-white px-7 py-4 font-poppins text-xl font-bold text-gray-800" href="{{ $link.RelPermalink }}">{{ .label }}</a>
-            {{ end }}
-        {{ end }}
-    </div>
+        </div>
+    {{ end }}
 </section>
