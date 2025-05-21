@@ -6,6 +6,8 @@ seo:
     description: 'Lea cómo incluso los grandes eventos pueden gestionarse de forma profesional y cómo las herramientas pueden ayudarle con una planificación compleja'
 date: 2025-03-23
 url: '/es/veranstaltung-verwalten'
+aliases:
+    - /es/veranstaltung-verwalten/
 tags:
 categories:
 color: '#f7c1cf'

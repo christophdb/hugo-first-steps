@@ -6,6 +6,8 @@ seo:
     description: 'Read how even large events can be professionally managed and how tools can help you with complex planning'
 date: 2025-03-23
 url: '/event-management'
+aliases:
+    - /veranstaltung-verwalten/
 tags:
     - 'Event Management'
 categories:
