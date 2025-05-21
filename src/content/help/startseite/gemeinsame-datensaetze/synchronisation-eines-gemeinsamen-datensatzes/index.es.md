@@ -1,5 +1,5 @@
 ---
-title: 'Synchronisation eines gemeinsamen Datensatzes'
+title: 'Sincronización de un conjunto de datos común - SeaTable'
 date: 2022-12-15
 lastmod: '2024-06-12'
 categories:
@@ -8,71 +8,73 @@ author: 'nsc2'
 url: '/es/ayuda/synchronisation-eines-gemeinsamen-datensatzes'
 ---
 
-Jede Tabelle, die Sie aus einem gemeinsamen Datensatz erstellt haben, können Sie **synchronisieren**. Dabei gleicht SeaTable die Daten des gemeinsamen Datensatzes mit den identischen Spalten in der Tabelle ab. Die Werte in diesen Spalten werden **überschrieben**, falls Sie oder Ihre Gruppenmitglieder seit der letzten Synchronisation **Veränderungen am gemeinsamen Datensatz** vorgenommen haben.
+Puede **sincronizar** cualquier tabla que haya creado a partir de un conjunto de datos compartido. SeaTable sincroniza los datos del conjunto de datos compartidos con las columnas idénticas de la tabla. Los valores de estas columnas se **sobrescriben** si usted o los miembros de su grupo han realizado **cambios en el** conjunto de datos compartido desde la última sincronización.
 
-Wenn Sie die mit dem gemeinsamen Datensatz verknüpften Tabellen auf den neuesten Stand bringen wollen, können Sie die Synchronisation sowohl **nutzerseitig in den einzelnen Tabellen anstoßen** (Pull-Prinzip) als auch **für alle Tabellen erzwingen** (Push-Prinzip), sofern Sie als **Ersteller** des gemeinsamen Datensatzes dazu berechtigt sind. Als Nutzer können Sie die Synchronisation in jeder Tabelle **manuell** durchführen oder auch eine automatische **periodische Synchronisation** einstellen.
+Si desea actualizar las tablas vinculadas al registro de datos compartidos, puede **iniciar la** sincronización en **las tablas individuales por parte del usuario** (principio pull) o **forzarla para todas las tablas** (principio push), siempre que esté autorizado para ello como **creador** del registro de datos compartidos. Como usuario, puede realizar la sincronización **manualmente** en cada tabla o establecer una **sincronización periódica** automática.
 
-## Manuelle Synchronisation mit einem gemeinsamen Datensatz
+## Sincronización manual con un conjunto de datos compartidos
 
-![Synchronisation eines gemeinsamen Datensatzes](images/Synchronisation-eines-gemeinsamen-Datensatez.png)
+![Sincronización de un conjunto de datos común](images/Synchronisation-eines-gemeinsamen-Datensatez.png)
 
-1. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Namen einer Tabelle, die mit einem gemeinsamen Datensatz erstellt wurde.
-2. Klicken Sie auf **Mit Datensatz synchronisieren**.
-3. Klicken Sie auf **Jetzt synchronisieren**.
+1. Haga clic en el **icono del triángulo** situado a la derecha del nombre de una tabla creada con un registro común.
+2. Haga clic en **Sincronizar con registro**.
+3. Haga clic en **Sincronizar ahora**.
 
-![Manuelle Synchronisation eines gemeinsamen Datensatzes](images/Manuelle-Synchronisation-eines-gemeinsamen-Datensatzes.png){{< warning  headline="Datumsänderung nur bei Veränderung"  text="Das angezeigte Datum der letzten Synchronisation ändert sich nur, wenn **Änderungen am gemeinsamen Datensatz vorgenommen** wurden und somit wirklich Daten abgeglichen werden können. Wenn sich keine Werte geändert haben, verändert sich auch das angezeigte Synchronisationsdatum nicht." />}}
+![Sincronización manual de un conjunto de datos común](images/Manuelle-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
-Bei einer erfolgreichen Synchronisation erscheint folgende Meldung:
+{{< warning headline="Cambio de fecha sólo en caso de modificación" text="La fecha mostrada de la última sincronización sólo cambia si se han **realizado cambios en el registro de datos compartidos** y, por lo tanto, los datos pueden sincronizarse realmente. Si no se ha modificado ningún valor, la fecha de sincronización mostrada tampoco cambia." />}}
 
-![Meldung bei einer erfolgreichen Synchronisation eines gemeinsamen Datensatzes](images/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+Si la sincronización se realiza correctamente, aparece el siguiente mensaje:
 
-## Periodische Synchronisation mit einem gemeinsamen Datensatz
+![Mensaje en caso de sincronización correcta de un conjunto de datos común](images/Meldung-bei-einer-erfolgreichen-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
-![Synchronisation eines gemeinsamen Datensatzes](images/Synchronisation-2.0.png)
+## Sincronización periódica con un conjunto de datos común
 
-1. Klicken Sie auf das **Dreieck-Symbol** rechts neben dem Namen einer Tabelle, die mit einem gemeinsamen Datensatz erstellt wurde.
-2. Klicken Sie auf **Mit Datensatz synchronisieren**.
-3. Klicken Sie auf den Schalter **Automatische Synchronisation aktivieren**.
-4. Wählen Sie aus, ob die automatische Synchronisation **täglich** oder **stündlich** durchgeführt werden soll.
+![Sincronización de un conjunto de datos común](images/Synchronisation-2.0.png)
 
-![Periodische Synchronisation eines gemeinsamen Datensatzes](images/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
+1. Haga clic en el **icono del triángulo** situado a la derecha del nombre de una tabla creada con un registro común.
+2. Haga clic en **Sincronizar con registro**.
+3. Haga clic en el botón **Activar sincronización automática**.
+4. Seleccione si la sincronización automática debe realizarse **diariamente** o **cada hora**.
 
-### Einschränkungen der periodischen Synchronisation
+![Sincronización periódica de un conjunto común de datos](images/Periodische-Synchronisation-eines-gemeinsamen-Datensatzes.png)
 
-- Die automatische periodische Synchronisation wird aktuell nur vollzogen, wenn am ursprünglichen gemeinsamen Datensatz **Änderungen** vorgenommen wurden.
-- Die stündliche Synchronisation eines gemeinsamen Datensatzes steht aktuell ausschließlich Nutzern mit einem **Enterprise-Abo** zur Verfügung.
+### Restricciones a la sincronización periódica
 
-## Synchronisation aller abhängigen Tabellen erzwingen
+- Actualmente, la sincronización periódica automática sólo se lleva a cabo si se han realizado **cambios** en el registro de datos compartido original.
+- La sincronización horaria de un conjunto de datos comunes sólo está disponible actualmente para los usuarios con una **suscripción Enterprise**.
 
-![Force sync of common dataset](images/Force-sync-of-common-dataset.png)
+## Forzar la sincronización de todas las tablas dependientes
 
-1. Wechseln Sie von der Startseite in den Bereich **Gemeinsame Datensätze**.
-2. Fahren Sie mit der Maus über den **gemeinsamen Datensatz**, den Sie synchronisieren möchten, und klicken Sie ganz rechts auf die **drei Punkte**.
-3. Klicken Sie auf **Sync erzwingen**.
+![Forzar la sincronización del conjunto de datos común](images/Force-sync-of-common-dataset.png)
 
-![Choose bases for sync with common dataset](images/Choose-bases-for-sync-with-common-dataset.png)
+1. Pase de la página de inicio a la zona de **Ficheros compartidos**.
+2. Sitúe el ratón sobre el **registro de datos compartidos** que desea sincronizar y haga clic en los **tres puntos** del extremo derecho.
+3. Haz clic en **Forzar sincronización**.
 
-5. Wählen Sie die **Bases** aus, die Sie mit dem gemeinsamen Datensatz synchronisieren wollen.
-6. Bestätigen Sie mit **Sync erzwingen**.
+![Elija las bases para la sincronización con el conjunto de datos común](images/Choose-bases-for-sync-with-common-dataset.png)
 
-Mit dieser Funktion können Sie sicherstellen, dass die anderen Nutzer in ihren Bases den aktuellen Stand des gemeinsamen Datensatzes verwenden. Ansonsten müssen Sie darauf vertrauen, dass die Benutzer die automatische Synchronisation aktiviert haben oder die Synchronisation regelmäßig selbst durchführen.
+5. Seleccione las **bases** que desea sincronizar con el conjunto de datos compartidos.
+6. Confirme con **Forzar sincronización**.
 
-{{< warning  headline="Berechtigung erforderlich"  text="Sie können die Synchronisation nur erzwingen, wenn Sie als **Ersteller** des gemeinsamen Datensatzes dazu berechtigt sind." />}}
+Puede utilizar esta función para asegurarse de que los demás usuarios utilizan el estado actual del conjunto de datos compartidos en sus bases. De lo contrario, deberá confiar en que los usuarios hayan activado la sincronización automática o realicen ellos mismos la sincronización de forma periódica.
 
-## Auswirkungen der Synchronisation auf die Tabelle
+{{< warning headline="Autorización necesaria" text="Sólo puede forzar la sincronización si está autorizado a hacerlo como **creador** del registro de datos compartidos." />}}
 
-### Zeilen
+## Efectos de la sincronización en la mesa
 
-- Zeilen, die in der Tabelle, nicht aber im gemeinsamen Datensatz enthalten sind, werden aus der Tabelle **gelöscht**.
-- Zeilen, die sowohl in der Tabelle als auch im gemeinsamen Datensatz enthalten sind, werden in der Tabelle **überschrieben**, sofern seit der letzten Synchronisation Änderungen vorgenommen wurden.
-- Zeilen, die nicht in der Tabelle, wohl aber im gemeinsamen Datensatz enthalten sind, werden in der Tabelle **hinzugefügt**.
-- Zeilen, die seit der letzten Synchronisation im gemeinsamen Datensatz herausgefiltert wurden, **verschwinden** auch in der Tabelle.
+### Líneas
 
-### Spalten
+- Las filas contenidas en la tabla pero no en el registro de datos compartidos se **eliminan** de la tabla.
+- Las líneas contenidas tanto en la tabla como en el registro de datos compartidos se **sobrescriben** en la tabla si se han realizado cambios desde la última sincronización.
+- Las filas que no están contenidas en la tabla pero sí en el registro de datos compartidos se **añaden** a la tabla.
+- Las filas que se han filtrado en el registro de datos compartidos desde la última sincronización también **desaparecen** de la tabla.
 
-- Wenn Sie im gemeinsamen Datensatz **neue Spalten hinzugefügt** haben, werden diese auch in der Tabelle **hinzugefügt**.
-- Wenn Sie aus dem gemeinsamen Datensatz **Spalten löschen**, bleiben diese in der Tabelle erhalten, die Daten werden aber **nicht mehr synchronisiert**.
-- Wenn Sie im gemeinsamen Datensatz **Spalten ausblenden**, bleiben diese in der Tabelle sichtbar, die Daten werden aber **nicht mehr synchronisiert**.
-- Wenn Sie im gemeinsamen Datensatz **den Spaltentyp ändern**, wird dieser auch in der Tabelle **geändert**.
-- Wenn Sie in der Tabelle [neue Spalten hinzufügen](https://seatable.io/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/), die nicht im gemeinsamen Datensatz enthalten sind, werden diese **nicht synchronisiert** und bleiben **unverändert**.
-- Wenn Sie in der Tabelle **Spalten des gemeinsamen Datensatzes umbenennen**, werden die Spaltennamen **nicht synchronisiert** und bleiben **geändert**.
+### Columnas
+
+- Si ha **añadido nuevas columnas** al registro de datos compartidos, éstas también se **añadirán** a la tabla.
+- Si **elimina columnas** del conjunto de datos compartidos, éstas permanecen en la tabla, pero los datos **dejan de estar sincronizados**.
+- Si **oculta columnas** en el conjunto de datos compartidos, seguirán siendo visibles en la tabla, pero los datos **dejarán de estar sincronizados**.
+- Si **se modifica el tipo de columna** en el registro de datos compartidos, también se **modificará** en la tabla.
+- Si se [añaden nuevas columnas](https://seatable.io/es/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/) a la tabla que no están contenidas en el conjunto de datos compartidos, éstas **no se sincronizan** y permanecen **inalteradas**.
+- Si **cambia el nombre de las columnas del conjunto de datos compartido** en la tabla, los nombres de las columnas **no se sincronizan** y permanecen **modificados**.
