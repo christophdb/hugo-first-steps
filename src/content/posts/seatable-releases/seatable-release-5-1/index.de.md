@@ -77,7 +77,7 @@ Doch nicht nur die Integration mit den Apps haben wir verbessert, auch das [Seit
 
 ## Das neue Tree-Plugin
 
-Nach drei neuen Plugins in [Version 5.0](/seatable-release-5-0/) vergrößert auch die Version 5.1 die Liste der verfügbaren SeaTable Plugins: Das neue Tree-Plugin ermöglicht die kompakte tabellarische Darstellung relational verknüpfter Datensätze. Egal, ob Sie Finanzdaten (wie im Screenshot unten), Projektdaten, Nutzungsdaten oder andere Daten auswerten, das neue Plugin schafft einen Überblick, der bisher so nicht existierte.
+Nach drei neuen Plugins in [Version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}) vergrößert auch die Version 5.1 die Liste der verfügbaren SeaTable Plugins: Das neue Tree-Plugin ermöglicht die kompakte tabellarische Darstellung relational verknüpfter Datensätze. Egal, ob Sie Finanzdaten (wie im Screenshot unten), Projektdaten, Nutzungsdaten oder andere Daten auswerten, das neue Plugin schafft einen Überblick, der bisher so nicht existierte.
 
 ![Tree Plugin](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
 

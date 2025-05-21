@@ -109,7 +109,7 @@ Ihre Mitarbeiter erfassen ihre Stunden mit wenigen Klicks in einem Webformular. 
 
 Anschließend sehen Verantwortliche die Arbeitszeiten in der Stundenliste ein. Hier können sie nach einzelnen Mitarbeitern oder Zeiträumen gruppieren und filtern.
 
-Besonders leicht wird der Start mit einem [kostenfreien Template](https://seatable.io/vorlage/fyp0x2y-s-ut3m-wcbpzbq/), das Sie nach der [kostenlosen Registrierung](https://seatable.io/registrierung/) sofort nutzen können. Mehr zur Arbeitszeiterfassung in SeaTable erfahren Sie [hier](https://seatable.io/arbeitszeiterfassung/).
+Besonders leicht wird der Start mit einem [kostenfreien Template](https://seatable.io/vorlage/fyp0x2y-s-ut3m-wcbpzbq/), das Sie nach der [kostenlosen Registrierung]({{< relref "pages/registration" >}}) sofort nutzen können. Mehr zur Arbeitszeiterfassung in SeaTable erfahren Sie [hier](https://seatable.io/arbeitszeiterfassung/).
 
 ## Fazit: Alternativen zur Zeiterfassung in Excel
 

@@ -29,4 +29,4 @@ A continuación, le mostramos cómo puede integrar SeaTable con otras aplicacion
 - [Spotify + SeaTable](https://zapier.com/apps/seatable/integrations/spotify):  
    Guarda todas las canciones que añadas a una lista de reproducción en SeaTable.
 
-Las posibilidades de Zapier son realmente infinitas y ofrecen un gran potencial para hacerte la vida más fácil. [Escríbenos](/es/kontakt/) y cuéntanos tus integraciones o dinos qué integración necesitas.
+Las posibilidades de Zapier son realmente infinitas y ofrecen un gran potencial para hacerte la vida más fácil. [Escríbenos]({{< relref "pages/contact" >}}) y cuéntanos tus integraciones o dinos qué integración necesitas.

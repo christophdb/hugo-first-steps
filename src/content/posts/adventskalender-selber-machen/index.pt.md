@@ -168,4 +168,4 @@ Pode utilizar o SeaTable para criar o seu calendário virtual do Advento. Crie u
 
 ![Calendário do Advento privado](images/Private-Advent-Calendar.png)
 
-Se quiser utilizar o SeaTable para criar calendários do Advento analógicos e/ou digitais, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente com o seu endereço de correio eletrónico. Também pode encontrar o modelo gratuito [aqui](https://seatable.io/pt/vorlage/si5fsu0nrny8wtabksc6iq/).
+Se quiser utilizar o SeaTable para criar calendários do Advento analógicos e/ou digitais, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de correio eletrónico. Também pode encontrar o modelo gratuito [aqui](https://seatable.io/pt/vorlage/si5fsu0nrny8wtabksc6iq/).

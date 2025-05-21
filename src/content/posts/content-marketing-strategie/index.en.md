@@ -102,7 +102,7 @@ Example description of the personas in SeaTable
 
 Self-employed designers, for example, love reading articles on [medium.com](https://medium.com/@seatable). They mainly use Apple devices and would rather ride a bike than a Porsche. You love to be presented with images as a source of inspiration. You also enjoy concrete tutorials, how-tos, and content that directly helps you in your work. To get this persona excited about a product, you usually just need some motivational help. A basic interest is given in any case. Therefore, deliver concrete tips and practical assistance. The appropriate format could be short YouTube videos and suitable blog articles on medium.com or the company blog.
 
-Creative teams are asking for recommendations for new tools and efficiency-boosting process improvements. Such a team may already know your product and need a few [success stories](/en/success-stories/) from other customers to sign up for a trial or order a test product.
+Creative teams are asking for recommendations for new tools and efficiency-boosting process improvements. Such a team may already know your product and need a few success stories from other customers to sign up for a trial or order a test product.
 
 Creative agencies, on the other hand, already work in a much more formalized way. Individual employees can probably be quickly enthused about a new tool, but at the same time they have to convince their management of the concrete benefits. Help these individuals with hints on how to increase efficiency or the concrete benefits of your solution. The best way to do this is with success stories, press releases, and white papers.
 

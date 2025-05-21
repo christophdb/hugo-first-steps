@@ -47,9 +47,9 @@ Content creators know the game of constantly being on the lookout for new conten
 
 **9\. intelligent tables with SeaTable**
 
-SeaTable is a mixture of intelligent spreadsheet program and database, which can also be used free of charge. Up to 2.000 rows can be created in different bases - the functions of SeaTable are fully usable and you can test the various fields of application yourself. Whether project management, in [marketing](/en/marketing/) or HR, for sorting and organizing data, almost anything is possible with SeaTable.
+SeaTable is a mixture of intelligent spreadsheet program and database, which can also be used free of charge. Up to 2.000 rows can be created in different bases - the functions of SeaTable are fully usable and you can test the various fields of application yourself. Whether project management, in [marketing]({{< relref "pages/industry-solutions/marketing" >}}) or HR, for sorting and organizing data, almost anything is possible with SeaTable.
 
-With helpful plugins such as the Kanban board, an excellent alternative to the above-mentioned project management tool Trello can even be created. In addition, **SeaTable can be linked to Zapier** and in this way can record, sort and further use all kinds of data in a fully automated way. [Registration](https://seatable.io/en/registrierung/) is free and lightning fast - just give it a try!
+With helpful plugins such as the Kanban board, an excellent alternative to the above-mentioned project management tool Trello can even be created. In addition, **SeaTable can be linked to Zapier** and in this way can record, sort and further use all kinds of data in a fully automated way. [Registration]({{< relref "pages/registration" >}}) is free and lightning fast - just give it a try!
 
 This is just a small, selective overview of free business tools that can pave the way to success for startups and small businesses. Which ones you end up using depends entirely on your business goals and capabilities. With free tools, you can even go for extensive trial rounds - if the program doesn't fit your workflow, you can simply look for something else.
 

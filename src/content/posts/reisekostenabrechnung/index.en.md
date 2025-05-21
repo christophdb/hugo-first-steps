@@ -105,4 +105,4 @@ Many people use an Excel template for their travel expense report - but that doe
 
 You can find more information about SeaTable's travel expense report template [here](https://seatable.io/en/vorlage/alhhthyxqbud1qqkxaormq/).
 
-[Simply register for free](https://seatable.io/en/registrierung/) with your e-mail address, try out SeaTable and customize the template according to your wishes to record the displays in your company the way you want!
+[Simply register for free]({{< relref "pages/registration" >}}) with your e-mail address, try out SeaTable and customize the template according to your wishes to record the displays in your company the way you want!

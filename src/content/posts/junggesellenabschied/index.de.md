@@ -189,4 +189,4 @@ Stehen Sie vor der Herausforderung, den ultimativen Junggesellenabschied für Ih
 
 Die Vorlage lässt sich einfach an Ihre Bedürfnisse anpassen, indem Sie die Beispieleinträge löschen und Ihre eigenen Daten eintragen. In SeaTable können Sie Daten so anschaulich ordnen und visualisieren, dass Sie stets den Überblick über Aktivitäten, To-dos, Gäste und Finanzen behalten.
 
-SeaTable unterstützt aber nicht nur Trauzeugen: Auch die zukünftigen Eheleute können SeaTable als kostenlosen [Hochzeitsplaner](https://seatable.io/vorlage/eso9hktaqnms333jjy0z9q/) nutzen, um den schönsten Tag ihres Lebens perfekt zu gestalten. Um sich kostenlos zu registrieren, geben Sie [hier](https://seatable.io/registrierung/) Ihre E-Mail-Adresse an.
+SeaTable unterstützt aber nicht nur Trauzeugen: Auch die zukünftigen Eheleute können SeaTable als kostenlosen [Hochzeitsplaner](https://seatable.io/vorlage/eso9hktaqnms333jjy0z9q/) nutzen, um den schönsten Tag ihres Lebens perfekt zu gestalten. Um sich kostenlos zu registrieren, geben Sie [hier]({{< relref "pages/registration" >}}) Ihre E-Mail-Adresse an.

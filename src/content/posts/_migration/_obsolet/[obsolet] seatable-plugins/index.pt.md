@@ -10,7 +10,7 @@ draft: true
 
 ## Conheça os plugins da SeaTable
 
-O SeaTable está constantemente a trabalhar em novos plugins que trazem ainda mais funcionalidades às suas mesas. Pode combinar diferentes plugins para criar o fluxo de trabalho perfeito para si e para a sua equipa. Todos os plugins do SeaTable estão incluídos na versão standard gratuita e são instalados e estão prontos a utilizar em segundos. Nesta publicação, vamos analisar mais detalhadamente os diferentes plug-ins do SeaTable para que possa [começar imediatamente](https://seatable.io/pt/registrierung/).
+O SeaTable está constantemente a trabalhar em novos plugins que trazem ainda mais funcionalidades às suas mesas. Pode combinar diferentes plugins para criar o fluxo de trabalho perfeito para si e para a sua equipa. Todos os plugins do SeaTable estão incluídos na versão standard gratuita e são instalados e estão prontos a utilizar em segundos. Nesta publicação, vamos analisar mais detalhadamente os diferentes plug-ins do SeaTable para que possa [começar imediatamente]({{< relref "pages/registration" >}}).
 
 ### Como é que instalo um plugin no SeaTable?
 
@@ -39,4 +39,4 @@ O nosso plugin de mapas facilita a visualização da localização dos seus dado
 
 ### Mais do que uma mesa
 
-O SeaTable é mais do que uma simples tabela. Com plug-ins adicionais, pode conceber o seu fluxo de trabalho e preparar os seus dados de uma forma útil. Estamos constantemente a trabalhar em novos plugins para que possa trabalhar de forma ainda mais eficiente no futuro. Pode instalar tantos plugins quantos quiser. Todos os plugins estão incluídos na nossa subscrição gratuita. [Registe-se agora e comece a trabalhar!](https://seatable.io/pt/registrierung/)
+O SeaTable é mais do que uma simples tabela. Com plug-ins adicionais, pode conceber o seu fluxo de trabalho e preparar os seus dados de uma forma útil. Estamos constantemente a trabalhar em novos plugins para que possa trabalhar de forma ainda mais eficiente no futuro. Pode instalar tantos plugins quantos quiser. Todos os plugins estão incluídos na nossa subscrição gratuita. [Registe-se agora e comece a trabalhar!]({{< relref "pages/registration" >}})

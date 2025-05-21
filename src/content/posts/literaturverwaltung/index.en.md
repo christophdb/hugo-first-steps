@@ -194,4 +194,4 @@ Which reference management program is right for you should depend on which funct
 
 SeaTable offers you a [template](https://seatable.io/en/vorlage/h9cf82deq2ms7eizc3nwgg/) in which you can find examples of literature and follow the process from entering the sources to outputting the bibliography. You can adapt the template to your requirements, insert your own sources and structure and visualize them with many useful tools.
 
-If you would like to use SeaTable as a reference management program, simply [register](https://seatable.io/en/registrierung/) free of charge.
+If you would like to use SeaTable as a reference management program, simply [register]({{< relref "pages/registration" >}}) free of charge.

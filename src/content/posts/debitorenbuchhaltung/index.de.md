@@ -108,5 +108,5 @@ Es muss also nicht immer bei einer teuren Buchhaltungssoftware wie beispielsweis
 SeaTable schafft es durch seine enorme Flexibilität auch Ihre Debitorenbuchhaltung perfekt arbeiten zu lassen. Den klaren Vorteil, den SeaTable mit sich bringt, ist die Vielfältigkeit, in welcher Form das Produkt selbst eingesetzt werden kann. Neben der Debitorenbuchhaltung können auch weitere wichtige Anwendungsfälle in Ihrem Unternehmen abgedeckt werden. Mehr hierzu finden Sie in unserem [Blog](https://seatable.io/blog/?lang=auto) oder unter direkt in unseren [Templates](https://seatable.io/docs/templates/?lang=auto). Überzeugen Sie sich nun selbst von dem mächtigsten und innovativsten Spreadsheet und starten Sie noch heute mit Ihrer Debitorenbuchhaltung so richtig durch.
 
 [Zum Template „CRM-Debitorenbuchhaltung“](https://seatable.io/vorlage/wsnf1ukarv6sp5omx6a2og/)  
-[Jetzt SeaTable kostenlos in der Cloud ausprobieren](/registrierung/)  
-[Oder lieber SeaTable Enterprise im eigenen Rechenzentrum betreiben](/get-enterprise-server/)
+[Jetzt SeaTable kostenlos in der Cloud ausprobieren]({{< relref "pages/registration" >}})  
+[Oder lieber SeaTable Enterprise im eigenen Rechenzentrum betreiben]({{< relref "pages/product/seatable-server" >}})

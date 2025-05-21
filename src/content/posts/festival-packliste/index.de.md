@@ -196,4 +196,4 @@ Mit dem kostenlosen [Festivalplaner](https://seatable.io/vorlage/qmbf6-o7t7u5lj8
 
 Mit der Möglichkeit, eine Festival Packliste mit Ihren Freunden zu teilen, können Sie sicherstellen, dass nichts unnötig doppelt mitgebracht wird und jeder genau weiß, wofür er zuständig ist. Durch die abhakbaren Checkboxen stellen Sie sicher, dass Sie nichts Wichtiges vergessen.
 
-[Registrieren](https://seatable.io/registrierung/) Sie sich kostenlos mit Ihrer E-Mail-Adresse und nutzen Sie die [Vorlage](https://seatable.io/vorlage/qmbf6-o7t7u5lj8lns28ug/) für Ihr nächstes Festival.
+[Registrieren]({{< relref "pages/registration" >}}) Sie sich kostenlos mit Ihrer E-Mail-Adresse und nutzen Sie die [Vorlage](https://seatable.io/vorlage/qmbf6-o7t7u5lj8lns28ug/) für Ihr nächstes Festival.

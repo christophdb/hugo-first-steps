@@ -12,7 +12,7 @@ Any company that wants to record and track its customers more efficiently cannot
 
 A CRM tool should help you and your company to improve the business relationships with your customers, to increase the associated turnover of your customers and to optimise the internal processes in your company.
 
-There are more than enough CRM software providers on the market. The best-known CRM software solutions are probably [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) and [SugarCRM](https://www.sugarcrm.com/). It can quickly become expensive, especially for small and medium-sized companies, to introduce a new and well-known CRM system. However, this does not necessarily have to be the case. [SeaTable](https://seatable.io/en/registrierung/) is an optimal and at the same time affordable solution.
+There are more than enough CRM software providers on the market. The best-known CRM software solutions are probably [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) and [SugarCRM](https://www.sugarcrm.com/). It can quickly become expensive, especially for small and medium-sized companies, to introduce a new and well-known CRM system. However, this does not necessarily have to be the case. [SeaTable]({{< relref "pages/registration" >}}) is an optimal and at the same time affordable solution.
 
 ## What is CRM anyway?
 
@@ -141,5 +141,5 @@ This article should have made it clear to you how powerful and flexible SeaTable
 In addition, you do not need a separate solution for each individual task area, but can map cross-departmental processes effectively and efficiently with SeaTable. SeaTable really leaves nothing to be desired and adapts completely to your personal needs. What are you waiting for? Do away with expensive CRM software providers and get started with your SeaTable CRM system today.
 
 [To the "CRM offer management" template](https://seatable.io/en/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)  
-[Try SeaTable in the cloud for free now](/en/registrierung/)  
+[Try SeaTable in the cloud for free now]({{< relref "pages/registration" >}})  
 [Or prefer to run SeaTable Enterprise in your own data centre](/en/get-enterprise-server/)

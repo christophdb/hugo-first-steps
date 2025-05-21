@@ -187,4 +187,4 @@ url: '/ru/beerdigung-planen'
 
 Шаблон обзора затрат на похороны SeaTable
 
-Если вы хотите использовать SeaTable для организации похорон, [просто зарегистрируйтесь бесплатно](https://seatable.io/ru/registrierung/) и создайте обзор с вашими собственными данными. Соответствующий шаблон можно найти [здесь](https://seatable.io/ru/vorlage/kraqwv46rhgoay-y9okshq/).
+Если вы хотите использовать SeaTable для организации похорон, [просто зарегистрируйтесь бесплатно]({{< relref "pages/registration" >}}) и создайте обзор с вашими собственными данными. Соответствующий шаблон можно найти [здесь](https://seatable.io/ru/vorlage/kraqwv46rhgoay-y9okshq/).

@@ -39,4 +39,4 @@ SeaTable le ofrece una visión específica de la información que necesita a tra
 
 ## Preparados para el nuevo semestre
 
-Con tu nuevo [planificador semestral](https://seatable.io/es/vorlage/cfpc_mw3qsspac81dbiefa/), nada se interpone en el camino de un semestre exitoso. En SeaTable puedes diseñar tu agenda de estudiante de forma individual y adaptarla a tus necesidades. Inscríbase ahora de [forma gratuita](https://seatable.io/es/registrierung/) y comience de forma productiva el semestre de invierno de 2020.
+Con tu nuevo [planificador semestral](https://seatable.io/es/vorlage/cfpc_mw3qsspac81dbiefa/), nada se interpone en el camino de un semestre exitoso. En SeaTable puedes diseñar tu agenda de estudiante de forma individual y adaptarla a tus necesidades. Inscríbase ahora de [forma gratuita]({{< relref "pages/registration" >}}) y comience de forma productiva el semestre de invierno de 2020.

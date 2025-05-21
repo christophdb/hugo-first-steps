@@ -12,7 +12,7 @@ A month has passed since the release of SeaTable 1.6, so it's about time for a n
 
 For this new release, we have spent a lot of effort on making SeaTable look nicer and increasing the interface's usability. We have taken care of a lot of smaller details and, while not necessarily visible at first sight, we are confident that it adds to a positive user experience. Those hoping for a lot of new features will just have to sit tight until SeaTable 1.8, but in the meantime enjoy all the added comforts of 1.7.
 
-In this release note we focus on the most important aspects of the new version. The complete list of changes can be found - as always - in the [changelog](/en/docs/changelog/version-1-7/).
+In this release note we focus on the most important aspects of the new version. The complete list of changes can be found - as always - in the [changelog](https://seatable.io/docs/changelog/version-1-7/?lang=auto).
 
 ## Dynamic user interface
 

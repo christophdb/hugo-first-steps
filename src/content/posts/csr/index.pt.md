@@ -101,4 +101,4 @@ O [modelo](https://seatable.io/pt/vorlage/dzs1hkplqmurvmuwzhv0fa/) gratuito da S
 
 Com a ajuda de outra tabela, pode acompanhar todos os números importantes e ver rapidamente em que áreas já conseguiu melhorar. Também pode documentar os certificados de sustentabilidade que já recebeu ou para os quais está a trabalhar e gerar automaticamente a próxima data para o novo pedido.
 
-Para utilizar o SeaTable, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente. Pode então adicionar o [modelo](https://seatable.io/pt/vorlage/dzs1hkplqmurvmuwzhv0fa/) à sua base e adicionar os seus próprios dados.
+Para utilizar o SeaTable, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode então adicionar o [modelo](https://seatable.io/pt/vorlage/dzs1hkplqmurvmuwzhv0fa/) à sua base e adicionar os seus próprios dados.

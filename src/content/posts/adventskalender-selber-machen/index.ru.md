@@ -168,4 +168,4 @@ url: '/ru/adventskalender-selber-machen'
 
 ![Частный адвент-календарь](images/Private-Advent-Calendar.png)
 
-Если вы хотите использовать SeaTable для создания аналоговых и/или цифровых адвент-календарей, просто [зарегистрируйтесь](https://seatable.io/ru/registrierung/) бесплатно, указав свой адрес электронной почты. Вы также можете найти бесплатный шаблон [здесь](https://seatable.io/ru/vorlage/si5fsu0nrny8wtabksc6iq/).
+Если вы хотите использовать SeaTable для создания аналоговых и/или цифровых адвент-календарей, просто [зарегистрируйтесь]({{< relref "pages/registration" >}}) бесплатно, указав свой адрес электронной почты. Вы также можете найти бесплатный шаблон [здесь](https://seatable.io/ru/vorlage/si5fsu0nrny8wtabksc6iq/).

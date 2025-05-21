@@ -102,7 +102,7 @@ Aquí puede ver un buen **ejemplo de análisis DAFO para empresas**:
 
 ## Cómo funciona la plantilla de análisis DAFO de SeaTable
 
-¿Desea utilizar la plantilla SeaTable para realizar sus análisis? Entonces [regístrese](https://seatable.io/es/registrierung/) en nuestra página web en un abrir y cerrar de ojos. En la biblioteca encontrará la **plantilla gratuita**, en la que el análisis DAFO se explica de forma sencilla y se rellena con datos de ejemplo. Haga clic en Utilizar plantilla y comience su análisis.
+¿Desea utilizar la plantilla SeaTable para realizar sus análisis? Entonces [regístrese]({{< relref "pages/registration" >}}) en nuestra página web en un abrir y cerrar de ojos. En la biblioteca encontrará la **plantilla gratuita**, en la que el análisis DAFO se explica de forma sencilla y se rellena con datos de ejemplo. Haga clic en Utilizar plantilla y comience su análisis.
 
 En la primera tabla encontrará ejemplos de entradas organizadas según las cuatro categorías DAFO correspondientes. Introduzca el factor en la primera columna antes de determinar su origen (interno o externo) y categorizarlo.
 

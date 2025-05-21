@@ -104,4 +104,4 @@ Mucha gente utiliza una plantilla de Excel para sus informes de gastos de viaje,
 
 Puede encontrar más información sobre la plantilla de informe de gastos de viaje de SeaTable [aquí](https://seatable.io/es/vorlage/alhhthyxqbud1qqkxaormq/).
 
-[Sólo tiene que registrarse gratuitamente](https://seatable.io/es/registrierung/) con su dirección de correo electrónico, probar SeaTable y personalizar la plantilla a su gusto para registrar las visualizaciones de su empresa como desee.
+[Sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) con su dirección de correo electrónico, probar SeaTable y personalizar la plantilla a su gusto para registrar las visualizaciones de su empresa como desee.

@@ -105,4 +105,4 @@ Auch Kommentare innerhalb einer Zeile mithilfe der Kommentar-Funktion lösen ein
 
 ## Aufgabenverwaltung so einfach wie nie
 
-Mit SeaTable wird Ihre Aufgabenverwaltung zu einem effektiven und zeitsparenden Gamechanger in Ihren Projekten. Um unser Template zu nutzen, müssen Sie sich bei uns [registrieren](https://seatable.io/registrierung/). SeaTable geht als Spreadsheetsoftware und Datenbank weit über die Eintragung von Daten hinaus: Strukturieren, sortieren, delegieren, besprechen, organisieren, planen, implementieren und abschließen – all das und mehr ist mit SeaTable möglich.
+Mit SeaTable wird Ihre Aufgabenverwaltung zu einem effektiven und zeitsparenden Gamechanger in Ihren Projekten. Um unser Template zu nutzen, müssen Sie sich bei uns [registrieren]({{< relref "pages/registration" >}}). SeaTable geht als Spreadsheetsoftware und Datenbank weit über die Eintragung von Daten hinaus: Strukturieren, sortieren, delegieren, besprechen, organisieren, planen, implementieren und abschließen – all das und mehr ist mit SeaTable möglich.

@@ -39,4 +39,4 @@ After setting up the map plugin, you can now use it as you wish. You can zoom an
 
 ## More plugins from SeaTable
 
-Besides the map plugin for your location visualization, there are also other plugins from SeaTable available. The Timeline plugin shows you temporal data to help visualize projects. The Gallery plugin shows you images or other documents in a large map form to highlight them. With the calendar plugin you have all your appointments in view. With the [SeaTable plugins](https://seatable.io/en/seatable-plugins/) you can make your workflow even more efficient. [Get started now!](https://seatable.io/en/registrierung/)
+Besides the map plugin for your location visualization, there are also other plugins from SeaTable available. The Timeline plugin shows you temporal data to help visualize projects. The Gallery plugin shows you images or other documents in a large map form to highlight them. With the calendar plugin you have all your appointments in view. With the [SeaTable plugins](https://seatable.io/en/seatable-plugins/) you can make your workflow even more efficient. [Get started now!]({{< relref "pages/registration" >}})

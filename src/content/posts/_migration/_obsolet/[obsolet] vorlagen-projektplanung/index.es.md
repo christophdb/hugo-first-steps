@@ -57,7 +57,7 @@ Utilizar SeaTable merece la pena si se quiere trabajar con varias partes en un p
 
 ### Así es como se procede
 
-Para crear su plan de proyecto, [regístrese gratuitamente en SeaTable](https://seatable.io/es/registrierung/) y acceda a la herramienta digital a través de su navegador. A continuación, haga clic en "Añadir base" y seleccione una plantilla. La plantilla está inmediatamente lista para su uso.
+Para crear su plan de proyecto, [regístrese gratuitamente en SeaTable]({{< relref "pages/registration" >}}) y acceda a la herramienta digital a través de su navegador. A continuación, haga clic en "Añadir base" y seleccione una plantilla. La plantilla está inmediatamente lista para su uso.
 
 ### 5 Plantillas para la planificación de proyectos en SeaTable
 

@@ -36,7 +36,7 @@ Vos données seront stockées dans votre compte utilisateur SeaTable. La premiè
 
 Suivez les 5 étapes et vous serez prêt à partir en quelques minutes !
 
-[5 étapes pour la saisie des données de contact avec SeaTable](/fr/corona-gaesteregistrierung/#tab-id-1-active)
+[5 étapes pour la saisie des données de contact avec SeaTable](https://seatable.io/fr/corona-gaesteregistrierung/#tab-id-1-active)
 
 ## De nombreuses autres fonctions pratiques
 

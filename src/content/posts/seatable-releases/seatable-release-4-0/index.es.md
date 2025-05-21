@@ -45,7 +45,7 @@ Integrar Seafile en SeaTable no podría ser más fácil: Genere un token API par
 
 ![Integración facilitada de Seafile para grandes volúmenes de datos](https://seatable.io/wp-content/uploads/2023/06/verbesserte-integration-mit-seafile-release-notes.png)
 
-Se pueden conectar servidores Seafile alojados y autoalojados. [Póngase en contacto con nuestro equipo de ventas](https://seatable.io/es/kontakt/) si desea alojar usted mismo un servidor Seafile. Para los clientes de SeaTable Dedicated ofrecemos co-hosting Seafile.
+Se pueden conectar servidores Seafile alojados y autoalojados. [Póngase en contacto con nuestro equipo de ventas]({{< relref "pages/contact" >}}) si desea alojar usted mismo un servidor Seafile. Para los clientes de SeaTable Dedicated ofrecemos co-hosting Seafile.
 
 ## El plug-in de estadísticas y el módulo de estadísticas se fusionan en una sola herramienta
 

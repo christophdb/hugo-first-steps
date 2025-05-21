@@ -85,4 +85,4 @@ Mit dem [kostenlosen Template](https://seatable.io/vorlage/k6o24najsho8oipbkwmo8
 
 Die Storyboard Vorlage ermöglicht es Ihnen, **Handlung**, **Szenerie**, **Dialoge** und **Kameraeinstellungen** übersichtlich zu planen. Darüber hinaus können Sie mühelos **Charaktere**, **Requisiten** und **Regieanweisungen** hinzufügen, um Ihre Geschichte bis ins kleinste Detail zu durchdenken und festzuhalten.
 
-Wenn Sie [dieses Template](https://seatable.io/vorlage/k6o24najsho8oipbkwmo8g/) von SeaTable für Ihr Filmprojekt nutzen möchten, [registrieren Sie sich](https://seatable.io/registrierung/) einfach kostenlos mit Ihrer E-Mail-Adresse. So können Sie in kürzester Zeit mit dem Erstellen Ihres individuellen Storyboards beginnen und Ihre Filmprojekte effektiv vorantreiben.
+Wenn Sie [dieses Template](https://seatable.io/vorlage/k6o24najsho8oipbkwmo8g/) von SeaTable für Ihr Filmprojekt nutzen möchten, [registrieren Sie sich]({{< relref "pages/registration" >}}) einfach kostenlos mit Ihrer E-Mail-Adresse. So können Sie in kürzester Zeit mit dem Erstellen Ihres individuellen Storyboards beginnen und Ihre Filmprojekte effektiv vorantreiben.

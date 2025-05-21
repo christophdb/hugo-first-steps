@@ -96,4 +96,4 @@ Gostaria de ser informado quando um novo bug é recebido ou quando um bug lhe é
 Inicie hoje mesmo um processo eficiente de correção de erros. Pode encontrar o [modelo](https://seatable.io/pt/vorlage/hlbtvqrtscqmhx3adh5asg/) Bugtracker diretamente no SeaTable nos modelos da secção Desenvolvimento de Software. A maioria das funções deste modelo já pode ser utilizada na subscrição gratuita do SeaTable Free. As automatizações e as permissões alargadas estão reservadas para as subscrições pagas do SeaTable.
 
 **Mais modelos na área Desenvolvimento de software:**  
-Dê uma vista de olhos aos nossos outros modelos na área do desenvolvimento de software. SeaTable oferece uma vasta gama de possibilidades para tornar o trabalho mais fácil para si e para a sua equipa. [Registe-se](/pt/registrierung/) agora e experimente-o.
+Dê uma vista de olhos aos nossos outros modelos na área do desenvolvimento de software. SeaTable oferece uma vasta gama de possibilidades para tornar o trabalho mais fácil para si e para a sua equipa. [Registe-se]({{< relref "pages/registration" >}}) agora e experimente-o.

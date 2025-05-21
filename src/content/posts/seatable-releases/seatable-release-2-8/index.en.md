@@ -8,7 +8,7 @@ url: '/seatable-release-2-8'
 color: '#eeeeee'
 ---
 
-Early builds of SeaTable 2.8 have been available for download from [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub for a few days now. The final build has been available for download since April 1. With today's update to SeaTable 2.8, we are pleased to make its many new features and improvements available in SeaTable Cloud as well. New features include a color-customizable title band and display of all active users in a base, column descriptions, and an improved formatted text editor. In addition, shared records can now be automatically synchronized and renamed. And these are just the highlights, which we present in more detail in these release notes. The complete list of changes can be found - as always - in the [changelog](/en/docs/changelog/version-2-8/).
+Early builds of SeaTable 2.8 have been available for download from [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub for a few days now. The final build has been available for download since April 1. With today's update to SeaTable 2.8, we are pleased to make its many new features and improvements available in SeaTable Cloud as well. New features include a color-customizable title band and display of all active users in a base, column descriptions, and an improved formatted text editor. In addition, shared records can now be automatically synchronized and renamed. And these are just the highlights, which we present in more detail in these release notes. The complete list of changes can be found - as always - in the [changelog](https://seatable.io/docs/changelog/version-2-8/?lang=auto).
 
 ## Coloured title ribbon
 

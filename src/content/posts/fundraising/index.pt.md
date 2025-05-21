@@ -116,4 +116,4 @@ Na sua [base de dados online](https://seatable.io/pt/vorlage/nzqrkmzcsle8vkesd-l
 
 Para as organizações mais pequenas, as funções e os limites de armazenamento do SeaTable Free (versão gratuita) devem ser suficientes. Se tiver planos maiores, a sua organização sem fins lucrativos beneficiará de [descontos](https://seatable.io/pt/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) normais no custo do SeaTable Plus ou Enterprise.
 
-Primeiro, [registe-se](https://seatable.io/pt/registrierung/) para obter a subscrição gratuita e, em seguida, apresente um pedido correspondente através da administração da equipa. Estamos ansiosos por apoiar a sua organização sem fins lucrativos com o nosso software!
+Primeiro, [registe-se]({{< relref "pages/registration" >}}) para obter a subscrição gratuita e, em seguida, apresente um pedido correspondente através da administração da equipa. Estamos ansiosos por apoiar a sua organização sem fins lucrativos com o nosso software!

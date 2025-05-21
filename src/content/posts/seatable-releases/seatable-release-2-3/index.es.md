@@ -64,7 +64,7 @@ El historial de la mesa y los comentarios no forman parte de la información que
 
 ### Valores por defecto de los formularios
 
-Después de los [valores por defecto para las columnas](https://seatable.io/es/seatable-release-2-0/?lang=auto), ahora también hay valores por defecto para los campos del formulario en la versión 2.3. Y no sólo se admiten valores estáticos por defecto: Las variables _creator.id_ y _creator._ name insertan automáticamente el ID de usuario o el nombre de usuario en el campo del formulario para los usuarios conectados.
+Después de los [valores por defecto para las columnas]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}), ahora también hay valores por defecto para los campos del formulario en la versión 2.3. Y no sólo se admiten valores estáticos por defecto: Las variables _creator.id_ y _creator._ name insertan automáticamente el ID de usuario o el nombre de usuario en el campo del formulario para los usuarios conectados.
 
 ![Valores por defecto en los formularios](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
 

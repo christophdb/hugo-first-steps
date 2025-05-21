@@ -104,4 +104,4 @@ Die zweite Regel ist eine Erinnerungsbenachrichtigung, die mit einer Deadline ei
 
 Sie sehen: Mit SeaTable ist das Organisieren und Durchführen von Meetings kein Hexenwerk. Die optimale Vorbereitung geschieht durch Benachrichtigungsregeln, eigene Ansichten, Chat-Funktion und die Agenda, während bei der Durchführung die Agenda zur kollaborativen Zusammenarbeit einlädt. Zur Nachbereitung sind alle wichtigen Details in der Base aufgelistet und abgespeichert, sodass jederzeit alles nachvollzogen und nachgelesen werden kann. So verpassen Sie sicher kein Meeting mehr!
 
-[Testen Sie unser Template](https://seatable.io/vorlage/gumqbevcroszpprj6j4xyg/) noch heute und [registrieren Sie sich](/registrierung/) völlig kostenlos.
+[Testen Sie unser Template](https://seatable.io/vorlage/gumqbevcroszpprj6j4xyg/) noch heute und [registrieren Sie sich]({{< relref "pages/registration" >}}) völlig kostenlos.

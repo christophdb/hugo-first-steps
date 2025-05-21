@@ -197,4 +197,4 @@ With SeaTable's free [festival planner](https://seatable.io/en/vorlage/qmbf6-o7t
 
 With the option of sharing a festival packing list with your friends, you can make sure that nothing is brought twice unnecessarily and that everyone knows exactly what they are responsible for. The tickable checkboxes ensure that you don't forget anything important.
 
-[Register](https://seatable.io/en/registrierung/) for free with your e-mail address and use the [template](https://seatable.io/en/vorlage/qmbf6-o7t7u5lj8lns28ug/) for your next festival.
+[Register]({{< relref "pages/registration" >}}) for free with your e-mail address and use the [template](https://seatable.io/en/vorlage/qmbf6-o7t7u5lj8lns28ug/) for your next festival.

@@ -74,4 +74,4 @@ Há muito para planear quando se trata de tarefas domésticas, especialmente se 
 
 ![Criar um plano de limpeza individual no SeaTable.](images/Putzplan.png)
 
-Se pretender utilizar o SeaTable para criar o seu plano de limpeza individual, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente. Pode encontrar o modelo correspondente [aqui](https://seatable.io/pt/vorlage/a5nogkchqiifwjettvs4ha/).
+Se pretender utilizar o SeaTable para criar o seu plano de limpeza individual, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui](https://seatable.io/pt/vorlage/a5nogkchqiifwjettvs4ha/).

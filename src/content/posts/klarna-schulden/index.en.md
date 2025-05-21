@@ -95,4 +95,4 @@ With SeaTable's [budget planner](https://seatable.io/en/vorlage/kqecvuxbrganzgw0
 
 Thanks to the practical **calendar**, you can also keep an eye on the due date of certain expenses so that you don't miss any payment deadlines and aren't surprised by unexpected direct debits.
 
-Say goodbye to your Klarna debts by managing your finances effectively and keeping track of your expenses. All you need to do is [register for free with SeaTable](https://seatable.io/en/registrierung/), create a new database using the template and then enter your own data.
+Say goodbye to your Klarna debts by managing your finances effectively and keeping track of your expenses. All you need to do is [register for free with SeaTable]({{< relref "pages/registration" >}}), create a new database using the template and then enter your own data.

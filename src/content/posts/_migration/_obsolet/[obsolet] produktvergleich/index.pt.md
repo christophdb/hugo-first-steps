@@ -69,7 +69,7 @@ Agora pode perguntar-se como é que deve saber qual é o produto certo para si? 
 - Os meus dados são particularmente dignos de protecção?
 - Preciso de personalizações individuais tais como o meu próprio logótipo, cores e modelos?
 
-Se respondeu "sim" às três perguntas, então apenas um [sistema no local](/pt/on-premises/) é uma opção para si. Se respondeu "não" às três perguntas, então deve dar uma oportunidade à SeaTable Cloud. Em todos os outros casos, deve ler e ver os três produtos em pormenor.
+Se respondeu "sim" às três perguntas, então apenas um [sistema no local]({{< relref "pages/product/seatable-server" >}}) é uma opção para si. Se respondeu "não" às três perguntas, então deve dar uma oportunidade à SeaTable Cloud. Em todos os outros casos, deve ler e ver os três produtos em pormenor.
 
 Se não estiver 100% seguro de qual é a versão certa para si, então experimente primeiro a SeaTable Cloud. Isto está disponível imediatamente, oferece todas as funções e custa pouco. Ao mesmo tempo, pode transferir os seus dados da nuvem para um servidor SeaTable dedicado ou auto-hospedado em qualquer altura.
 
@@ -119,7 +119,7 @@ A instalação tem lugar poucos dias após a encomenda nos servidores do fornece
 
 Com um sistema no local, o utilizador decide onde e em que hardware o seu sistema funciona. Este pode ser o seu próprio servidor ou um servidor virtual em qualquer centro de dados. Descarregar o SeaTable Enterprise Container a partir de Docker Hub e instalar e configurar o sistema de acordo com o [manual SeaTable](https://manual.seatable.io).
 
-Em qualquer caso, é necessária uma licença para iniciar o SeaTable Server. Para um máximo de três utilizadores, recebe [uma licença gratuita de dois anos](/pt/on-premises/). Para tal, apenas é necessário o seu endereço electrónico. Se quiser utilizar mais de três utilizadores, tem de licenciar o SeaTable Enterprise de acordo com o seu número de utilizadores. O ficheiro de licença é um ficheiro txt que tem de ser armazenado no seu servidor. A validade é validada quando o servidor SeaTable é iniciado. Não é necessária uma ligação à Internet a um servidor de licença. O SeaTable Enterprise pode, portanto, funcionar de forma completamente isolada e autónoma numa rede local.
+Em qualquer caso, é necessária uma licença para iniciar o SeaTable Server. Para um máximo de três utilizadores, recebe [uma licença gratuita de dois anos]({{< relref "pages/product/seatable-server" >}}). Para tal, apenas é necessário o seu endereço electrónico. Se quiser utilizar mais de três utilizadores, tem de licenciar o SeaTable Enterprise de acordo com o seu número de utilizadores. O ficheiro de licença é um ficheiro txt que tem de ser armazenado no seu servidor. A validade é validada quando o servidor SeaTable é iniciado. Não é necessária uma ligação à Internet a um servidor de licença. O SeaTable Enterprise pode, portanto, funcionar de forma completamente isolada e autónoma numa rede local.
 
 Com um SeaTable Enterprise System auto-hospedado, obtém todas as possibilidades do SeaTable e ao mesmo tempo tem o controlo completo sobre todos os componentes do sistema. Define quais as funções e permissões que atribui, quais os utilizadores autorizados a entrar no seu sistema e quais as funções que pretende activar. Também mantém o controlo total sobre a escolha do hardware ou do ambiente de virtualização utilizado.
 

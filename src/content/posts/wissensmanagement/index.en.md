@@ -195,4 +195,4 @@ You can use SeaTable in the cloud, which is hosted in GDPR-compliant German data
 
 Every beginning is hard, but it's worth it! Invest time and effort in knowledge management to harness the knowledge hidden in your company.
 
-Would you like to use SeaTable for your knowledge management? Then simply [register](https://seatable.io/en/registrierung/) free of charge.
+Would you like to use SeaTable for your knowledge management? Then simply [register]({{< relref "pages/registration" >}}) free of charge.

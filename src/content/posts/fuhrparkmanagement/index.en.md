@@ -91,7 +91,7 @@ Keep track of your entire fleet! With our free [fleet management software](https
 
 SeaTable offers you clear and intuitive management of your fleet and incoming booking requests. This means you always have an overview of which vehicles are available at what time and the status of your fleet.
 
-[Register for free](https://seatable.io/en/registrierung/) and try SeaTable and the flexibly customizable template for your fleet management today!
+[Register for free]({{< relref "pages/registration" >}}) and try SeaTable and the flexibly customizable template for your fleet management today!
 
 ## FAQ
 

@@ -107,4 +107,4 @@ Halten Sie Ihre **Ideen** fest, ordnen Sie Beiträge mit wenigen Klicks bestimmt
 
 Dank des eingebauten **Kalenders** behalten Sie den Überblick darüber, wann Ihre Beiträge erscheinen sollen, und können leicht Ihren Veröffentlichungsrhythmus einhalten. Durch unterschiedliche Tabellen für jede Plattform wird es Ihnen leichter fallen, Ihren Content individuell auf alle sozialen Medien anzupassen.
 
-[Registrieren Sie sich kostenlos](https://seatable.io/registrierung/) auf SeaTable, passen Sie den Social-Media-Plan an Ihre Bedürfnisse an und genießen Sie den geringeren Arbeitsaufwand!
+[Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) auf SeaTable, passen Sie den Social-Media-Plan an Ihre Bedürfnisse an und genießen Sie den geringeren Arbeitsaufwand!

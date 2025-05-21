@@ -16,7 +16,7 @@ Sim, os empregadores na Alemanha já são obrigados a registar as horas extraord
 
 O Ministério Federal do Trabalho pretende responder à questão de **como** deverá ser o registo das horas de trabalho no futuro, através de um projecto de lei, antes do final de 2023. Actualmente, o registo de horas **não** está vinculado a uma forma específica e pode ser feito tanto por via electrónica como por escrito em papel. Esta situação deverá mudar no futuro, se o Ministério Federal do Trabalho conseguir o que pretende: o início, o fim e a duração do tempo de trabalho diário deverão então ser registados **electronicamente** e, geralmente, **no mesmo dia**.
 
-No entanto, para si, enquanto empregador, não é aconselhável esperar até que o registo electrónico de horas seja exigido por lei. Em vez disso, comece imediatamente a registar digitalmente as horas de trabalho dos seus empregados, se ainda não o estiver a fazer. O [modelo gratuito de registo de horas de trabalho](https://seatable.io/pt/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) do SeaTable é um sistema adequado para o registo de horas na sua empresa e está pronto a ser utilizado imediatamente após o [registo gratuito](https://seatable.io/pt/registrierung/).
+No entanto, para si, enquanto empregador, não é aconselhável esperar até que o registo electrónico de horas seja exigido por lei. Em vez disso, comece imediatamente a registar digitalmente as horas de trabalho dos seus empregados, se ainda não o estiver a fazer. O [modelo gratuito de registo de horas de trabalho](https://seatable.io/pt/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) do SeaTable é um sistema adequado para o registo de horas na sua empresa e está pronto a ser utilizado imediatamente após o [registo gratuito]({{< relref "pages/registration" >}}).
 
 ## Estrutura do modelo SeaTable
 
@@ -40,4 +40,4 @@ As horas introduzidas são então exibidas na síntese. Um formulário Web apres
 
 Com o nosso modelo de registo de horas, está preparado para tudo - quer se trate de alterações legais ou de futuros controlos por parte das autoridades. Em qualquer caso, faz sentido começar a registar as horas de trabalho dos seus empregados com precisão hoje. Com o nosso modelo, tem sempre todas as horas à vista e pode provar o cumprimento dos regulamentos legais relativos ao tempo de trabalho.
 
-Falta-lhe alguma coisa? Não há problema! Pode facilmente adaptar o SeaTable às suas necessidades individuais. Basta experimentar! [Os](https://seatable.io/pt/vorlagen/) nossos [modelos](https://seatable.io/pt/vorlagen/) são gratuitos e podem ser utilizados imediatamente após o [registo](https://seatable.io/pt/registrierung/).
+Falta-lhe alguma coisa? Não há problema! Pode facilmente adaptar o SeaTable às suas necessidades individuais. Basta experimentar! [Os](https://seatable.io/pt/vorlagen/) nossos [modelos](https://seatable.io/pt/vorlagen/) são gratuitos e podem ser utilizados imediatamente após o [registo]({{< relref "pages/registration" >}}).

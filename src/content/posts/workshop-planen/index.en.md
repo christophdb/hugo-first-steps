@@ -109,4 +109,4 @@ You can easily **evaluate** the collected feedback in SeaTable, for example by d
 
 With SeaTable, you can map every process related to workshop planning and manage all data effortlessly. The focus is always on the greatest possible efficiency for you, your employees and other participants. Other tables and processes are also conceivable, which you can add flexibly according to your requirements, such as booking meeting rooms or an inventory list of your materials.
 
-[Register](/en/registrierung/) for free today and try out our [template](https://seatable.io/en/vorlage/kfsupdwhs9g5kgyqjemsea/) straight away! The functions can be used for a variety of other applications.
+[Register]({{< relref "pages/registration" >}}) for free today and try out our [template](https://seatable.io/en/vorlage/kfsupdwhs9g5kgyqjemsea/) straight away! The functions can be used for a variety of other applications.

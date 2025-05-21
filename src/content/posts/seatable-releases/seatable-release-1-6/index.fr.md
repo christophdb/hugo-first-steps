@@ -9,7 +9,7 @@ color: '#eeeeee'
 
 Nous commençons la nouvelle année avec une nouvelle version de SeaTable : la version 1.6 a été déployée aujourd'hui sur [https://cloud.seatable.io](https://cloud.seatable.io). La publication sur Docker Hub aura lieu prochainement. Cette nouvelle version est une fois de plus pleine de nouvelles fonctionnalités et d'améliorations. Au premier coup d'œil, vous remarquerez les deux nouveaux types de colonnes et le menu de configuration des colonnes remanié. En y regardant de plus près, vous trouverez une multitude d'autres améliorations de l'interface utilisateur. Dans cette version, nous avons également investi de gros efforts dans l'assistant de formules. De nouvelles fonctions, des améliorations du design et des messages d'erreur étendus élèvent l'assistant à un tout nouveau niveau.
 
-Dans cette note de version, nous présentons les changements les plus importants et les plus pertinents de la nouvelle version. Comme toujours, vous pouvez trouver une liste complète des changements dans le [SeaTable Changelog](/fr/docs/changelog/version-1-6/).
+Dans cette note de version, nous présentons les changements les plus importants et les plus pertinents de la nouvelle version. Comme toujours, vous pouvez trouver une liste complète des changements dans le [SeaTable Changelog](https://seatable.io/docs/changelog/version-1-6/?lang=auto).
 
 ## Type de colonne n° 19 : durée
 

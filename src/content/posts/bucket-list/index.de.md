@@ -178,4 +178,4 @@ Um sicherzustellen, dass Sie die Ziele auf Ihrer Bucket List nicht aus den Augen
 
 Darüber hinaus können Sie festhalten, welche Freunde und Familienmitglieder bestimmte Interessen teilen und Sie bei Ihren Abenteuern begleiten würden. Sie können auch zusätzliche Informationen wie Bilder, Links oder Adressen direkt in Ihrer Bucket List speichern, um alle relevanten Details an einem Ort zu sammeln.
 
-Haken Sie Ziel für Ziel von Ihrer Bucket List ab, ergänzen Sie flexibel neue Ideen oder löschen Sie Wünsche, die Ihnen nicht mehr wichtig sind. Bei SeaTable können Sie sich [kostenlos registrieren](https://seatable.io/registrierung/) und die [Online-Vorlage](https://seatable.io/vorlage/jbn_a4wysewcfd9eegkgha/) nach Belieben an Ihre Bedürfnisse anpassen.
+Haken Sie Ziel für Ziel von Ihrer Bucket List ab, ergänzen Sie flexibel neue Ideen oder löschen Sie Wünsche, die Ihnen nicht mehr wichtig sind. Bei SeaTable können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und die [Online-Vorlage](https://seatable.io/vorlage/jbn_a4wysewcfd9eegkgha/) nach Belieben an Ihre Bedürfnisse anpassen.

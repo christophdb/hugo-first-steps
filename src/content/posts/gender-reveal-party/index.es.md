@@ -162,4 +162,4 @@ Se trata de adivinar. Haz que tus invitados predigan la **fecha de** nacimiento 
 
 Para que tu fiesta de revelación de sexo sea todo un éxito, necesitas una organización exhaustiva. Para facilitarte las cosas, el equipo de SeaTable ha creado una [práctica plantilla](https://seatable.io/es/vorlage/bpczhtg6q9ql10dcgly_wa/) para planificar tu baby shower. Puedes personalizarla para adaptarla a tus necesidades.
 
-Si desea utilizar SeaTable para ello, sólo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente. Encontrará la plantilla [aquí](https://seatable.io/es/vorlage/bpczhtg6q9ql10dcgly_wa/).
+Si desea utilizar SeaTable para ello, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. Encontrará la plantilla [aquí](https://seatable.io/es/vorlage/bpczhtg6q9ql10dcgly_wa/).

@@ -9,7 +9,7 @@ color: '#eeeeee'
 
 Hoje actualizámos cloud.seatable.io para a versão 1.5 de SeaTable. Com o próximo login, todos os utilizadores beneficiarão de novas e excitantes funcionalidades e de uma série de melhorias na interface e nas funções existentes. À primeira vista, notará as numerosas alterações menores e maiores no editor de tabelas, resultando numa maior eficiência do fluxo de trabalho e numa melhor experiência do utilizador. As novas permissões de partilha personalizadas proporcionam mais controlo e flexibilidade quando se trabalha em colaboração sobre bases. Opções de personalização melhoradas fazem dos formulários da SeaTable uma ferramenta ainda mais versátil para a recolha de dados.
 
-A lista completa das alterações pode ser encontrada, como sempre, no [changelog do SeaTable](/pt/docs/changelog/version-1-5/). Esta nota de lançamento apresenta as mudanças mais importantes e excitantes desta nova versão.
+A lista completa das alterações pode ser encontrada, como sempre, no [changelog do SeaTable](https://seatable.io/docs/changelog/version-1-5/?lang=auto). Esta nota de lançamento apresenta as mudanças mais importantes e excitantes desta nova versão.
 
 ## Editor de mesa melhorado
 

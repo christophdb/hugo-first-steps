@@ -234,4 +234,4 @@ Também está disponível uma aplicação para simplificar o seu planeamento de 
 
 ![Painel de controlo do orçamento na aplicação de viagens da SeaTable](images/Travel-App.png)
 
-[Registe-se](https://seatable.io/pt/registrierung/) gratuitamente hoje para beneficiar destas funções práticas e organizar a sua próxima viagem sem stress. Pode depois utilizar o [modelo](https://seatable.io/pt/vorlage/axq_85kkrjsriagmqpxehw/) no seu espaço de trabalho pessoal do SeaTable, preenchê-lo com os seus próprios dados e partilhá-lo com os seus companheiros de viagem através da aplicação.
+[Registe-se]({{< relref "pages/registration" >}}) gratuitamente hoje para beneficiar destas funções práticas e organizar a sua próxima viagem sem stress. Pode depois utilizar o [modelo](https://seatable.io/pt/vorlage/axq_85kkrjsriagmqpxehw/) no seu espaço de trabalho pessoal do SeaTable, preenchê-lo com os seus próprios dados e partilhá-lo com os seus companheiros de viagem através da aplicação.

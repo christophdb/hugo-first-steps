@@ -74,4 +74,4 @@ Bei der Hausarbeit gibt es viel zu planen, besonders wenn Sie mehrere Personen i
 
 ![Erstellen Sie einen individuellen Putzplan in SeaTable.](images/Putzplan.png)
 
-Wenn Sie SeaTable für die Erstellung Ihres individuellen Putzplans nutzen möchten, [registrieren](https://seatable.io/registrierung/) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier](https://seatable.io/vorlage/a5nogkchqiifwjettvs4ha/).
+Wenn Sie SeaTable für die Erstellung Ihres individuellen Putzplans nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier](https://seatable.io/vorlage/a5nogkchqiifwjettvs4ha/).

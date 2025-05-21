@@ -9,7 +9,7 @@ color: '#eeeeee'
 draft: true
 ---
 
-Contact data collection in the hospitality industry for tracking Covid19 infection chains is a key component of the package of measures to contain the spread of the novel Corona virus. Our Guest Registration Template provides a simple, digital solution to end the tedious paperwork involved in Corona contact data collection: Instead of paper, guests enter their contact information into a web form on their smartphone. To open the web form, all your guest has to do is scan a QR code with their phone camera. The contact information is stored in a German data center and you can track the entry of contact information in real time via your SeaTable customer account. Start [now](https://seatable.io/en/registrierung/) for free with the all-in-one solution for contact data entry in restaurants, bars and cafes!
+Contact data collection in the hospitality industry for tracking Covid19 infection chains is a key component of the package of measures to contain the spread of the novel Corona virus. Our Guest Registration Template provides a simple, digital solution to end the tedious paperwork involved in Corona contact data collection: Instead of paper, guests enter their contact information into a web form on their smartphone. To open the web form, all your guest has to do is scan a QR code with their phone camera. The contact information is stored in a German data center and you can track the entry of contact information in real time via your SeaTable customer account. Start [now]({{< relref "pages/registration" >}}) for free with the all-in-one solution for contact data entry in restaurants, bars and cafes!
 
 ## Digital contact data capture: hygienic, flexible, uncomplicated
 
@@ -37,7 +37,7 @@ Your data will be stored in your SeaTable user account. The first thing you need
 
 Follow the 5 steps and you'll be ready to go in minutes!
 
-[5 steps to contact data capture with SeaTable](/en/corona-gaesteregistrierung/#tab-id-1-active)
+[5 steps to contact data capture with SeaTable](https://seatable.io/en/corona-gaesteregistrierung/#tab-id-1-active)
 
 ## Many other practical functions
 

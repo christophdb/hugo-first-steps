@@ -105,4 +105,4 @@ Os comentários dentro de uma linha utilizando a função de comentário também
 
 ## Gestão de tarefas mais fácil do que nunca
 
-O SeaTable transforma a sua gestão de tarefas num fator de mudança eficaz e que poupa tempo nos seus projectos. Para utilizar o nosso modelo, tem de [se registar](https://seatable.io/pt/registrierung/) connosco. Como software de folha de cálculo e base de dados, o SeaTable vai muito além da introdução de dados: estruturar, ordenar, delegar, discutir, organizar, planear, implementar e concluir - tudo isto e muito mais é possível com o SeaTable.
+O SeaTable transforma a sua gestão de tarefas num fator de mudança eficaz e que poupa tempo nos seus projectos. Para utilizar o nosso modelo, tem de [se registar]({{< relref "pages/registration" >}}) connosco. Como software de folha de cálculo e base de dados, o SeaTable vai muito além da introdução de dados: estruturar, ordenar, delegar, discutir, organizar, planear, implementar e concluir - tudo isto e muito mais é possível com o SeaTable.

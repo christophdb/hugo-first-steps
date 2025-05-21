@@ -46,7 +46,7 @@ Integrating Seafile with SeaTable could hardly be easier: Generate an API token 
 
 ![Facilitated Seafile integration for large data sets](images/verbesserte-integration-mit-seafile-release-notes.png)
 
-In principle, both hosted and self-hosted Seafile servers can be connected. [Feel free to contact our sales team](https://seatable.io/en/kontakt/) if you want to self-host a Seafile server. For SeaTable Dedicated customers we offer Seafile co-hosting.
+In principle, both hosted and self-hosted Seafile servers can be connected. [Feel free to contact our sales team]({{< relref "pages/contact" >}}) if you want to self-host a Seafile server. For SeaTable Dedicated customers we offer Seafile co-hosting.
 
 ## Statistics plugin and statistics module merge into one tool
 

@@ -80,4 +80,4 @@ Schlussendlich können Sie in SeaTable alle notwendigen Prozesse abbilden, um di
 
 In SeaTable dokumentieren Sie und Ihre Mitarbeiter die Zeiterfassung, Urlaubsanträge und Krankheitstage an einem zentralen Ort, anstatt viele verstreute Stundentabellen (z. B. in Excel oder Google Sheets) zu pflegen. Alles, was Sie dafür benötigen, ist ein Internet-Browser und eine E-Mail-Adresse.
 
-Dennoch ist die Zeiterfassung nur ein einziger Anwendungsfall der schier unendlichen Möglichkeiten, die SeaTable Ihnen bietet. Entdecken Sie in unseren [Vorlagen](https://seatable.io/vorlagen/), welche beeindruckenden Software-Lösungen Sie mit SeaTable bauen können, und starten Sie am besten gleich mit einem [kostenlosen Free Account](https://seatable.io/registrierung/).
+Dennoch ist die Zeiterfassung nur ein einziger Anwendungsfall der schier unendlichen Möglichkeiten, die SeaTable Ihnen bietet. Entdecken Sie in unseren [Vorlagen](https://seatable.io/vorlagen/), welche beeindruckenden Software-Lösungen Sie mit SeaTable bauen können, und starten Sie am besten gleich mit einem [kostenlosen Free Account]({{< relref "pages/registration" >}}).

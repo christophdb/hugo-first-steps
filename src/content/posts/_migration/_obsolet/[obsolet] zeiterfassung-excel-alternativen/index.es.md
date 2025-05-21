@@ -109,7 +109,7 @@ Sus empleados registran sus horas con unos pocos clics en un formulario web. Int
 
 Después, los responsables pueden ver los tiempos de trabajo en el parte de horas. Aquí pueden agrupar y filtrar según empleados individuales o periodos de tiempo.
 
-Es especialmente fácil empezar con una [plantilla gratuita](https://seatable.io/es/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) que puede utilizar inmediatamente después de [registrarse gratuitamente](https://seatable.io/es/registrierung/). Puede obtener más información sobre el registro del tiempo de trabajo en SeaTable [aquí](https://seatable.io/es/arbeitszeiterfassung/).
+Es especialmente fácil empezar con una [plantilla gratuita](https://seatable.io/es/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) que puede utilizar inmediatamente después de [registrarse gratuitamente]({{< relref "pages/registration" >}}). Puede obtener más información sobre el registro del tiempo de trabajo en SeaTable [aquí](https://seatable.io/es/arbeitszeiterfassung/).
 
 ## Conclusión: Alternativas al registro de tiempos en Excel
 

@@ -96,7 +96,7 @@ Outra funcionalidade interessante é a possibilidade de carregar [ficheiros](htt
 
 O SeaTable tem, de longe, a **gama mais vasta de funções** de todas as aplicações que analisámos e impressiona pela sua grande **flexibilidade**. Tem tudo o que precisa para a sua lista de tarefas numa única aplicação. Graças às muitas **funções de colaboração** (comentários, registos de dados partilhados, trabalho sincronizado em tempo real, etc.), pode não só trabalhar nas suas próprias listas, mas também colaborar com sucesso numa equipa.
 
-Com o SeaTable, pode começar imediatamente com a [versão gratuita](https://seatable.io/pt/registrierung/) e o [modelo interativo](https://seatable.io/pt/vorlage/bpvzkh-vrpwr4xylid6zeq/). Estão disponíveis funcionalidades adicionais na versão Plus por 7 euros por utilizador e por mês, na versão Enterprise por 14 euros por utilizador e por mês ou numa solução dedicada na nuvem.
+Com o SeaTable, pode começar imediatamente com a [versão gratuita]({{< relref "pages/registration" >}}) e o [modelo interativo](https://seatable.io/pt/vorlage/bpvzkh-vrpwr4xylid6zeq/). Estão disponíveis funcionalidades adicionais na versão Plus por 7 euros por utilizador e por mês, na versão Enterprise por 14 euros por utilizador e por mês ou numa solução dedicada na nuvem.
 
 {{< warning headline="RGPD e soberania dos dados" text="Os servidores SeaTable Cloud estão localizados na Alemanha, o que torna a plataforma adequada para o trabalho em conformidade com o RGPD com dados pessoais sensíveis. Também tem a opção de instalar [o SeaTable on-premises](https://seatable.io/pt/on-premises/) nos seus próprios servidores." />}}
 

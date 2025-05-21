@@ -10,7 +10,7 @@ draft: true
 
 ## Conozca los plugins de SeaTable
 
-SeaTable trabaja constantemente en nuevos plugins que aporten aún más funcionalidad a sus mesas. Puede combinar diferentes plugins para crear el flujo de trabajo perfecto para usted y su equipo. Todos los plugins de SeaTable están incluidos en la versión estándar gratuita y se instalan y están listos para usar en cuestión de segundos. En este post, vamos a echar un vistazo más de cerca a los diferentes plugins de SeaTable para que pueda [empezar de inmediato](https://seatable.io/es/registrierung/).
+SeaTable trabaja constantemente en nuevos plugins que aporten aún más funcionalidad a sus mesas. Puede combinar diferentes plugins para crear el flujo de trabajo perfecto para usted y su equipo. Todos los plugins de SeaTable están incluidos en la versión estándar gratuita y se instalan y están listos para usar en cuestión de segundos. En este post, vamos a echar un vistazo más de cerca a los diferentes plugins de SeaTable para que pueda [empezar de inmediato]({{< relref "pages/registration" >}}).
 
 ### ¿Cómo instalo un plugin en SeaTable?
 
@@ -39,4 +39,4 @@ Nuestro plugin de mapas le facilita la visualización de la ubicación de sus da
 
 ### Más que una mesa
 
-SeaTable es más que una simple tabla. Con plugins adicionales puede diseñar su flujo de trabajo y preparar sus datos de forma útil. Trabajamos constantemente en nuevos plugins para que pueda trabajar de forma aún más eficiente en el futuro. Puede instalar tantos plugins como desee. Todos los plugins están incluidos en nuestra suscripción gratuita. [¡Suscríbase ahora y empiece!](https://seatable.io/es/registrierung/)
+SeaTable es más que una simple tabla. Con plugins adicionales puede diseñar su flujo de trabajo y preparar sus datos de forma útil. Trabajamos constantemente en nuevos plugins para que pueda trabajar de forma aún más eficiente en el futuro. Puede instalar tantos plugins como desee. Todos los plugins están incluidos en nuestra suscripción gratuita. [¡Suscríbase ahora y empiece!]({{< relref "pages/registration" >}})

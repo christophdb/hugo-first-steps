@@ -110,7 +110,7 @@ Your employees record their hours in a web form with just a few clicks. They ent
 
 Subsequently, responsible persons view the working times in the time sheet. Here they can group and filter according to individual employees or time periods.
 
-It is especially easy to get started with a [free template](https://seatable.io/en/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) that you can use immediately after [free registration](https://seatable.io/en/registrierung/). You can learn more about working time recording in SeaTable [here](https://seatable.io/en/arbeitszeiterfassung/).
+It is especially easy to get started with a [free template](https://seatable.io/en/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) that you can use immediately after [free registration]({{< relref "pages/registration" >}}). You can learn more about working time recording in SeaTable [here](https://seatable.io/en/arbeitszeiterfassung/).
 
 ## Conclusion: Alternatives to time tracking in Excel
 

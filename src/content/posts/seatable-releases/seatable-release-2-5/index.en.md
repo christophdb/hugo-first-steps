@@ -8,7 +8,7 @@ url: '/seatable-release-2-5'
 color: '#eeeeee'
 ---
 
-SeaTable 2.5 is out now! The new Docker image was uploaded to Docker Hub at the end of last week and SeaTable Cloud was updated this morning. The new release makes numerous SeaTable features even better! The maturing archive function lends itself to more and more use cases, the data processing operations become more flexible, the integrated automations and the rating column offer more options. Last but not least, link and link formula columns are now fully supported in external links for views. Read on, if you want to know more. For a complete list of changes, have a look at the [SeaTable Changelog](/en/docs/changelog/version-2-5/).
+SeaTable 2.5 is out now! The new Docker image was uploaded to Docker Hub at the end of last week and SeaTable Cloud was updated this morning. The new release makes numerous SeaTable features even better! The maturing archive function lends itself to more and more use cases, the data processing operations become more flexible, the integrated automations and the rating column offer more options. Last but not least, link and link formula columns are now fully supported in external links for views. Read on, if you want to know more. For a complete list of changes, have a look at the [SeaTable Changelog](https://seatable.io/docs/changelog/version-2-5/?lang=auto).
 
 ## Upgraded archive function
 

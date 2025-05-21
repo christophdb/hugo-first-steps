@@ -122,4 +122,4 @@ Para que su evento sea todo un éxito, es esencial tener en todo momento una vis
 
 El **formulario web** integrado facilita la inscripción de los participantes en su evento. Puedes crear y enviar **facturas** con un solo clic, sin tener que dedicar mucho esfuerzo. Además, la plantilla ofrece la opción de utilizar el plugin de **línea de tiempo** para la programación o el **plugin de mapa** para registrar visualmente las ubicaciones del evento.
 
-Con estas funciones, SeaTable ofrece la solución ideal para optimizar la gestión de sus eventos. Lo único que tiene que hacer para utilizar la [plantilla](https://seatable.io/es/vorlage/fewxqfzbsxocskxl7hikqq/) es [registrarse](https://seatable.io/es/registrierung/) con su dirección de correo electrónico.
+Con estas funciones, SeaTable ofrece la solución ideal para optimizar la gestión de sus eventos. Lo único que tiene que hacer para utilizar la [plantilla](https://seatable.io/es/vorlage/fewxqfzbsxocskxl7hikqq/) es [registrarse]({{< relref "pages/registration" >}}) con su dirección de correo electrónico.

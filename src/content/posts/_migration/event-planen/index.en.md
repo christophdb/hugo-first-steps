@@ -123,4 +123,4 @@ For your event to be a complete success, it is essential to have a clear overvie
 
 Using the integrated **web form** makes it easy for participants to register for your event. You can create and send **invoices** with just one click, without having to put in a lot of effort. In addition, the template offers the option of using the **timeline plugin** for scheduling or the **map plugin** to visually record the event locations.
 
-With these functions, SeaTable offers the ideal solution to optimize your event management. All you have to do to use the [template](https://seatable.io/en/vorlage/fewxqfzbsxocskxl7hikqq/) is [register](https://seatable.io/en/registrierung/) with your e-mail address.
+With these functions, SeaTable offers the ideal solution to optimize your event management. All you have to do to use the [template](https://seatable.io/en/vorlage/fewxqfzbsxocskxl7hikqq/) is [register]({{< relref "pages/registration" >}}) with your e-mail address.

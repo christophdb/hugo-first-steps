@@ -74,4 +74,4 @@ There is a lot to plan when it comes to housework, especially if you want to inv
 
 ![Create a custom cleaning schedule in SeaTable.](images/Putzplan.png)
 
-If you want to use SeaTable to create your individual cleaning plan, just [register](https://seatable.io/en/registrierung/) for free. You can find the corresponding template [here](https://seatable.io/en/vorlage/a5nogkchqiifwjettvs4ha/).
+If you want to use SeaTable to create your individual cleaning plan, just [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here](https://seatable.io/en/vorlage/a5nogkchqiifwjettvs4ha/).

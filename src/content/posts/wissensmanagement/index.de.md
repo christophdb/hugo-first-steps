@@ -195,4 +195,4 @@ SeaTable können Sie in der Cloud nutzen, die DSGVO-konform in deutschen Rechenz
 
 Aller Anfang ist schwer, aber es lohnt sich! Investieren Sie Zeit und Arbeit in das Wissensmanagement, um das in Ihrem Unternehmen verborgene Wissen nutzbar zu machen.
 
-Möchten Sie SeaTable für Ihr Wissensmanagement nutzen? Dann [registrieren](https://seatable.io/registrierung/) Sie sich einfach kostenlos.
+Möchten Sie SeaTable für Ihr Wissensmanagement nutzen? Dann [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos.

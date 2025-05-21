@@ -64,7 +64,7 @@ SeaTable besticht im Vergleich zu Airtable unter anderem durch Mehrsprachigkeit,
 
 Darüber hinaus bietet SeaTable eine selbstgehostete Variante an, mit der Sie die Software als [On-Premises-Lösung](https://seatable.io/on-premises/) auf Ihren eigenen Servern installieren und betreiben können. So haben Sie die absolute Datenhoheit und maximale Kontrolle über die Speicherorte Ihrer Daten. Egal, für welche Option Sie sich entscheiden – SeaTable steht im Einklang mit den kanadischen Datenschutzgesetzen.
 
-Sie möchten strukturiert Daten erfassen, effizient Aufgaben erledigen und leistungsfähige Prozesse entwickeln – ohne sich Gedanken über die Sicherheit Ihrer Daten machen zu müssen? Dann überzeugen Sie sich selbst und [registrieren Sie sich hier](https://seatable.io/registrierung/) für ein **SeaTable Free-Abonnement**, mit dem Ihnen bereits zahlreiche nützliche [Funktionen](https://seatable.io/preise) zur Verfügung stehen. Das Abonnement ist für Sie **komplett kostenlos** und eine perfekte Gelegenheit, SeaTable unverbindlich zu testen.
+Sie möchten strukturiert Daten erfassen, effizient Aufgaben erledigen und leistungsfähige Prozesse entwickeln – ohne sich Gedanken über die Sicherheit Ihrer Daten machen zu müssen? Dann überzeugen Sie sich selbst und [registrieren Sie sich hier]({{< relref "pages/registration" >}}) für ein **SeaTable Free-Abonnement**, mit dem Ihnen bereits zahlreiche nützliche [Funktionen](https://seatable.io/preise) zur Verfügung stehen. Das Abonnement ist für Sie **komplett kostenlos** und eine perfekte Gelegenheit, SeaTable unverbindlich zu testen.
 
 Noch nicht überzeugt? Weitere Informationen über SeaTable finden Sie auf der [Website](https://seatable.io/).
 

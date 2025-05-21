@@ -104,4 +104,4 @@ Viele nutzen für ihre Reisekostenabrechnung eine Vorlage in Excel – aber das 
 
 Mehr Informationen zur Reisekostenabrechnung Vorlage von SeaTable finden Sie [hier](https://seatable.io/vorlage/alhhthyxqbud1qqkxaormq/).
 
-[Registrieren Sie sich einfach kostenlos](https://seatable.io/registrierung/) mit Ihrer E-Mail-Adresse, probieren Sie SeaTable aus und passen Sie die Vorlage ganz nach Ihren Wünschen an, um die Auslagen in Ihrem Unternehmen so zu erfassen, wie Sie es möchten!
+[Registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse, probieren Sie SeaTable aus und passen Sie die Vorlage ganz nach Ihren Wünschen an, um die Auslagen in Ihrem Unternehmen so zu erfassen, wie Sie es möchten!

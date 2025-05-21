@@ -193,4 +193,4 @@ O programa de gestão de referências mais adequado para si depende das funçõe
 
 O SeaTable oferece-lhe um [modelo](https://seatable.io/pt/vorlage/h9cf82deq2ms7eizc3nwgg/) no qual pode encontrar exemplos de literatura e seguir o processo desde a introdução das fontes até à produção da bibliografia. Pode adaptar o modelo às suas necessidades, inserir as suas próprias fontes e estruturas e visualizá-las com muitas ferramentas úteis.
 
-Se pretender utilizar o SeaTable como programa de gestão de referências, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente.
+Se pretender utilizar o SeaTable como programa de gestão de referências, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente.

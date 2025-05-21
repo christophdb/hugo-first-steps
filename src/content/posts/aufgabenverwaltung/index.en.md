@@ -106,4 +106,4 @@ Also comments within a row using the comment function trigger an automatic notif
 
 ## Task management easier than ever
 
-SeaTable turns your task management into an effective and time-saving game changer in your projects. To use our template, you need to [register](https://seatable.io/en/registrierung/) with us. As spreadsheet software and database, SeaTable goes far beyond the entry of data: structuring, sorting, delegating, discussing, organizing, planning, implementing and completing - all this and more is possible with SeaTable.
+SeaTable turns your task management into an effective and time-saving game changer in your projects. To use our template, you need to [register]({{< relref "pages/registration" >}}) with us. As spreadsheet software and database, SeaTable goes far beyond the entry of data: structuring, sorting, delegating, discussing, organizing, planning, implementing and completing - all this and more is possible with SeaTable.

@@ -9,7 +9,7 @@ color: '#eeeeee'
 
 Os fãs de SeaTable receberão hoje o seu presente de Natal: Versão 3.3 de SeaTable com os seus numerosos melhoramentos e inovações. O editor de formulários completamente revisto no desenho de blocos oferece nova liberdade e funções adicionais para o desenho e utilização de formulários web. Além dos e-mails de texto, o SeaTable envia agora também e-mails HTML formatados. O editor ampliado para texto formatado faz a brincadeira desta criança. E as colunas de pagamento oferecem agora validação automática de dados como já é conhecido a partir de colunas de texto. Os utilizadores que gerem ou querem gerir dados em massa no SeaTable também recebem o seu dinheiro com o SeaTable 3.3. De agora em diante, SeaTable pode importar centenas de milhares de linhas de um ficheiro XLSX directamente para a memória dos Grandes Dados e exportá-las de lá novamente. Quer saber mais? Então continue a ler!
 
-O SeaTable Server 3.3 está disponível no SeaTable Cloud desde esta manhã. Os auto-hospedeiros podem descarregar o build 3.3.7 do conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) e instalá-lo no seu próprio servidor. No [changelog](/pt/docs/changelog/version-3-3/) encontrará - como sempre - a lista completa de alterações.
+O SeaTable Server 3.3 está disponível no SeaTable Cloud desde esta manhã. Os auto-hospedeiros podem descarregar o build 3.3.7 do conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) e instalá-lo no seu próprio servidor. No [changelog](https://seatable.io/docs/changelog/version-3-3/?lang=auto) encontrará - como sempre - a lista completa de alterações.
 
 ## Mais flexibilidade com formulários
 

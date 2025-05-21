@@ -126,7 +126,7 @@ For larger companies with many items and more complex use cases, we strongly adv
 
 ## Create an inventory list with SeaTable
 
-The no-code database software **SeaTable** already has an [inventory list template](https://seatable.io/en/vorlage/nwkbq-cmrxmcxv1k0sxoaw/) ready for you. To use it **free of charge**, simply [register](https://seatable.io/en/registrierung/) with your e-mail address and create an account. Once you are logged in, proceed as follows:
+The no-code database software **SeaTable** already has an [inventory list template](https://seatable.io/en/vorlage/nwkbq-cmrxmcxv1k0sxoaw/) ready for you. To use it **free of charge**, simply [register]({{< relref "pages/registration" >}}) with your e-mail address and create an account. Once you are logged in, proceed as follows:
 
 1. Add the template as a **new base** on your start page. You can find out how to do this [in these instructions](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 2. Click on the base to **open** it.
@@ -155,4 +155,4 @@ Most companies have to keep an inventory list. An inventory list standardizes an
 
 Think about **what information** you need about your inventory, **who** is involved in the inventory and **how many people** need access to the data. **How** do you want to prepare the data and **which functions** are required for this?
 
-Once you have clarified these basic questions, it's easy to get started. If you would like to use the SeaTable template for your inventory list, [register for free](https://seatable.io/en/registrierung/) and get started right away.
+Once you have clarified these basic questions, it's easy to get started. If you would like to use the SeaTable template for your inventory list, [register for free]({{< relref "pages/registration" >}}) and get started right away.

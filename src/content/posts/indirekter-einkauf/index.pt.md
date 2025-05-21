@@ -103,4 +103,4 @@ A organização do escritório, e especialmente a encomenda de bens internos, po
 
 Com SeaTable tem ao seu lado uma ferramenta poderosa que lhe pode fornecer um excelente apoio neste e em muitos outros processos. Por exemplo, pode utilizá-lo para organizar a [gestão da](https://seatable.io/pt/crm-angebotsmanagement/?lang=auto) sua [oferta CRM](https://seatable.io/pt/crm-angebotsmanagement/?lang=auto), [construir digitalmente](https://seatable.io/pt/digitales-produktmanagement/?lang=auto) a sua [gestão de produtos](https://seatable.io/pt/digitales-produktmanagement/?lang=auto) ou [planear workshops internos](https://seatable.io/pt/mit-internen-workshops-den-unternehmenswert-steigern/?lang=auto).
 
-Experimente o nosso modelo e [registe-se](https://seatable.io/pt/registrierung/)! O SeaTable é gratuito na versão básica.
+Experimente o nosso modelo e [registe-se]({{< relref "pages/registration" >}})! O SeaTable é gratuito na versão básica.

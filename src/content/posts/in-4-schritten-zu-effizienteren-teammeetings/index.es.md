@@ -104,4 +104,4 @@ La segunda regla es una notificación de recordatorio fijada con una fecha lími
 
 Como puedes ver: Con SeaTable, organizar y llevar a cabo reuniones no es un truco de magia. La preparación óptima se consigue mediante las reglas de notificación, las vistas personalizadas, la función de chat y la agenda, mientras que la agenda invita al trabajo colaborativo durante la ejecución. Para el seguimiento, todos los detalles importantes se enumeran y se guardan en Base, de modo que todo puede ser rastreado y leído en cualquier momento. Nunca más te perderás una reunión.
 
-[Pruebe nuestra plantilla](https://seatable.io/es/vorlage/gumqbevcroszpprj6j4xyg/) hoy mismo y [regístrese](/es/registrierung/) de forma totalmente gratuita.
+[Pruebe nuestra plantilla](https://seatable.io/es/vorlage/gumqbevcroszpprj6j4xyg/) hoy mismo y [regístrese]({{< relref "pages/registration" >}}) de forma totalmente gratuita.

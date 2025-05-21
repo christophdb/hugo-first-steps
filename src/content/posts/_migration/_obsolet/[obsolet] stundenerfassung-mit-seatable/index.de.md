@@ -16,7 +16,7 @@ Ja, Arbeitgeber in Deutschland sind bereits laut geltendem Arbeitszeitgesetz zur
 
 **Wie** die Stundenerfassung künftig aussehen muss, will das Bundesarbeitsministerium noch 2023 in einem Gesetzentwurf beantworten. Aktuell ist die Stundenerfassung **nicht** an eine bestimmte Form gebunden und kann sowohl elektronisch als auch schriftlich auf Papier stattfinden. Das soll sich künftig ändern, wenn es nach dem Bundesarbeitsministerium geht: Beginn, Ende und Dauer der täglichen Arbeitszeit müssen dann **elektronisch** und in der Regel noch **am selben Tag** aufgezeichnet werden.
 
-Für Sie als Arbeitgeber ist es allerdings nicht ratsam, so lange zu warten, bis die elektronische Stundenerfassung gesetzlich vorgeschrieben ist. Beginnen Sie lieber sofort damit, die Arbeitszeiten Ihrer Mitarbeiter zu digital zu erfassen, wenn Sie es nicht bereits tun. Das [kostenlose Template zur Arbeitszeiterfassung](https://seatable.io/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) von SeaTable stellt ein geeignetes System zur Stundenerfassung in Ihrem Unternehmen dar und ist nach [kostenloser Anmeldung](https://seatable.io/registrierung/) sofort einsatzbereit.
+Für Sie als Arbeitgeber ist es allerdings nicht ratsam, so lange zu warten, bis die elektronische Stundenerfassung gesetzlich vorgeschrieben ist. Beginnen Sie lieber sofort damit, die Arbeitszeiten Ihrer Mitarbeiter zu digital zu erfassen, wenn Sie es nicht bereits tun. Das [kostenlose Template zur Arbeitszeiterfassung](https://seatable.io/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) von SeaTable stellt ein geeignetes System zur Stundenerfassung in Ihrem Unternehmen dar und ist nach [kostenloser Anmeldung]({{< relref "pages/registration" >}}) sofort einsatzbereit.
 
 ## Aufbau des Templates von SeaTable
 
@@ -40,4 +40,4 @@ Ihnen werden die eingetragenen Stunden anschließend in Ihrer Übersicht angezei
 
 Mit unserem Template zur Stundenerfassung sind Sie auf alles vorbereitet – seien es gesetzliche Änderungen oder zukünftige Kontrollen der Behörden. In jedem Fall ist es sinnvoll, schon heute mit einer genauen Arbeitszeiterfassung Ihrer Mitarbeiter zu beginnen. Mit unserer Vorlage haben Sie jederzeit alle Stunden im Blick und können die Einhaltung der gesetzlichen Arbeitszeitregelungen nachweisen.
 
-Ihnen fehlt etwas? Kein Problem! Sie können SeaTable ganz einfach auf Ihre individuellen Bedürfnisse zuschneiden. Probieren Sie es einfach aus! Unsere [Templates](https://seatable.io/vorlagen/) sind kostenlos und sofort nach der [Anmeldung](https://seatable.io/registrierung/) nutzbar.
+Ihnen fehlt etwas? Kein Problem! Sie können SeaTable ganz einfach auf Ihre individuellen Bedürfnisse zuschneiden. Probieren Sie es einfach aus! Unsere [Templates](https://seatable.io/vorlagen/) sind kostenlos und sofort nach der [Anmeldung]({{< relref "pages/registration" >}}) nutzbar.

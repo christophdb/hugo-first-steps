@@ -57,4 +57,4 @@ As fórmulas findmin e findmax no tipo de coluna Fórmulas para Links agora tamb
 
 Com a versão 2.6 SeaTable Server Enterprise Edition (SeaTable Server EE) requer um ficheiro de licença. Sem um ficheiro de licença, o SeaTable Server recusa-se a iniciar. As versões anteriores também podiam ser iniciadas sem um ficheiro de licença. Se o seu SeaTable Server EE não começar após a actualização, verifique por favor a existência de um ficheiro de licença.
 
-Uma licença gratuita para um máximo de três utilizadores e uma validade de 2 anos está disponível mediante pedido [através do nosso website](https://seatable.io/pt/on-premises/?lang=auto).
+Uma licença gratuita para um máximo de três utilizadores e uma validade de 2 anos está disponível mediante pedido [através do nosso website]({{< relref "pages/product/seatable-server" >}}.

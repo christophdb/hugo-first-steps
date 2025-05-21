@@ -106,6 +106,6 @@ Zuletzt haben Sie die Möglichkeit, die Online-Datenbank [SeaTable](https://seat
 
 Entweder legen Sie Hand an und programmieren selbst oder Sie wählen eine Lösung, die auch ohne Programmierkenntnisse verwendbar ist. Durch Programme wie SeaTable können auch Unternehmen und Privatpersonen ohne IT-Abteilung ihre Daten in einer relationalen Datenbank speichern, verwalten und analysieren.
 
-Testen Sie zwei bis drei Lösungen, um die passende für Ihr [Projekt](https://seatable.io/vorlagen-projektplanung/) zu finden. [Starten Sie mit dem kostenlosen Free-Abo von SeaTable hier](https://seatable.io/registrierung/).
+Testen Sie zwei bis drei Lösungen, um die passende für Ihr [Projekt](https://seatable.io/vorlagen-projektplanung/) zu finden. [Starten Sie mit dem kostenlosen Free-Abo von SeaTable hier]({{< relref "pages/registration" >}}).
 
 Bildquelle Titelbild: © monsitj/Adobe Stock

@@ -90,7 +90,7 @@ Behalten Sie den Überblick über Ihre ganze Flotte! Mit unserer kostenlosen [Fu
 
 SeaTable bietet Ihnen eine übersichtliche und intuitive Verwaltung Ihres Fuhrparks und der eintreffenden Buchungsanfragen. Damit haben Sie immer im Blick, welche Fahrzeuge zu welcher Zeit verfügbar sind und wie es um den Zustand Ihres Fuhrparks steht.
 
-[Registrieren Sie sich kostenlos](https://seatable.io/registrierung/) und probieren Sie noch heute SeaTable und die flexibel anpassbare Vorlage für Ihr Fuhrparkmanagement aus!
+[Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) und probieren Sie noch heute SeaTable und die flexibel anpassbare Vorlage für Ihr Fuhrparkmanagement aus!
 
 ## FAQ
 

@@ -108,4 +108,4 @@ Record your **ideas**, assign posts to specific **categories** with just a few c
 
 Thanks to the built-in **calendar**, you can keep track of when your posts should appear and easily keep to your publishing schedule. Different tables for each platform will make it easier for you to adapt your content individually to all social media.
 
-[Register for free](https://seatable.io/en/registrierung/) on SeaTable, customize the social media plan to your needs and enjoy the reduced workload!
+[Register for free]({{< relref "pages/registration" >}}) on SeaTable, customize the social media plan to your needs and enjoy the reduced workload!

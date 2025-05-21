@@ -8,11 +8,11 @@ color: '#eeeeee'
 draft: true
 ---
 
-Avec la mise à niveau de SeaTable Cloud vers la version 3.0, les abonnés Cloud bénéficient non seulement des nombreuses fonctions nouvelles et améliorées de la [version majeure](/fr/seatable-release-3-0), mais aussi d'une nouvelle gestion d'équipe qui simplifie la gestion des petites et surtout des grandes équipes. De nouvelles fonctions ont été ajoutées, les fonctions existantes ont été étendues et un nouveau design permet une meilleure vue d'ensemble et une plus grande convivialité. Nous sommes heureux de vous présenter la nouvelle gestion d'équipe et les principaux changements dans ce montant.
+Avec la mise à niveau de SeaTable Cloud vers la version 3.0, les abonnés Cloud bénéficient non seulement des nombreuses fonctions nouvelles et améliorées de la [version majeure]({{< relref "posts/seatable-releases/seatable-release-3-0" >}}, mais aussi d'une nouvelle gestion d'équipe qui simplifie la gestion des petites et surtout des grandes équipes. De nouvelles fonctions ont été ajoutées, les fonctions existantes ont été étendues et un nouveau design permet une meilleure vue d'ensemble et une plus grande convivialité. Nous sommes heureux de vous présenter la nouvelle gestion d'équipe et les principaux changements dans ce montant.
 
 ## Situation de départ et défis
 
-L'"ancienne" gestion d'équipe de SeaTable Cloud est un module de [SeaTable Server.](/fr/on-premises/?lang=auto/) (SeaTable Server est le logiciel derrière SeaTable Cloud, qui est également disponible pour une installation sur votre propre serveur). En tant que tel, il offre toutes les fonctions de gestion nécessaires aux équipes pour une utilisation au sein d'une organisation (cloud privé). Il n'offre toutefois pas de fonctions de gestion des abonnements ni d'intégration avec un prestataire de services de paiement.
+L'"ancienne" gestion d'équipe de SeaTable Cloud est un module de [SeaTable Server.]({{< relref "pages/product/seatable-server" >}} (SeaTable Server est le logiciel derrière SeaTable Cloud, qui est également disponible pour une installation sur votre propre serveur). En tant que tel, il offre toutes les fonctions de gestion nécessaires aux équipes pour une utilisation au sein d'une organisation (cloud privé). Il n'offre toutefois pas de fonctions de gestion des abonnements ni d'intégration avec un prestataire de services de paiement.
 
 ![Administration de l'équipe "ancienne"](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
 

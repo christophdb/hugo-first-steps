@@ -11,7 +11,7 @@ draft: true
 
 ## Get to know the plugins of SeaTable
 
-SeaTable is constantly working on new plugins that will bring even more functionality to your tables. You can combine different plugins to create the perfect workflow for you and your team. All of SeaTable's plugins are included in the free standard version and are installed and ready to use within seconds. In this post, let's take a closer look at SeaTable's different plugins so you can [get started right away](https://seatable.io/en/registrierung/).
+SeaTable is constantly working on new plugins that will bring even more functionality to your tables. You can combine different plugins to create the perfect workflow for you and your team. All of SeaTable's plugins are included in the free standard version and are installed and ready to use within seconds. In this post, let's take a closer look at SeaTable's different plugins so you can [get started right away]({{< relref "pages/registration" >}}).
 
 ### How do I install a plugin in SeaTable?
 
@@ -40,4 +40,4 @@ Our map plugin facilitates the location visualization of your data. In our examp
 
 ### More than a table
 
-SeaTable is more than a simple table. With additional plugins you can design your workflow and prepare your data in a useful way. We are constantly working on new plugins so you can work even more efficiently in the future. You can install as many plugins as you like. All plugins are included in our free subscription. [Sign up now and get started!](https://seatable.io/en/registrierung/)
+SeaTable is more than a simple table. With additional plugins you can design your workflow and prepare your data in a useful way. We are constantly working on new plugins so you can work even more efficiently in the future. You can install as many plugins as you like. All plugins are included in our free subscription. [Sign up now and get started!]({{< relref "pages/registration" >}})

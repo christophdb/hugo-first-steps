@@ -129,5 +129,5 @@ Dieser Artikel sollte Ihnen gezeigt haben, wie flexibel SeaTable eingesetzt werd
 Worauf warten Sie noch? Ihr neues Supply Chain Management steht bereits in den Startlöchern.
 
 [Zum Template „Supply Chain Management“](https://seatable.io/vorlage/lrtcit5zqratbf0rpidxlw/)  
-[Jetzt SeaTable kostenlos in der Cloud ausprobieren](/registrierung/)  
-[Oder lieber SeaTable Enterprise im eigenen Rechenzentrum betreiben](/get-enterprise-server/)
+[Jetzt SeaTable kostenlos in der Cloud ausprobieren]({{< relref "pages/registration" >}})  
+[Oder lieber SeaTable Enterprise im eigenen Rechenzentrum betreiben]({{< relref "pages/product/seatable-server" >}})

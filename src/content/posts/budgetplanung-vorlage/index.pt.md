@@ -108,7 +108,7 @@ Com base nestas análises e objectivos, os gestores comunicam quanto dinheiro pr
 
 ## Crie os seus planos orçamentais com o SeaTable
 
-Muitas pessoas utilizam [folhas de cálculo Excel](https://seatable.io/pt/die-beste-excel-alternative-tabellenloesungen-im-vergleich/) para o seu planeamento orçamental, mas estas apenas oferecem funções e opções de visualização limitadas. Pode [registar-se gratuitamente](https://seatable.io/pt/registrierung/) no **SeaTable** e começar diretamente com o modelo apresentado acima. Pode agrupar e avaliar todos os centros de custos, objectivos, orçamentos e despesas numa base de dados central.
+Muitas pessoas utilizam [folhas de cálculo Excel](https://seatable.io/pt/die-beste-excel-alternative-tabellenloesungen-im-vergleich/) para o seu planeamento orçamental, mas estas apenas oferecem funções e opções de visualização limitadas. Pode [registar-se gratuitamente]({{< relref "pages/registration" >}}) no **SeaTable** e começar diretamente com o modelo apresentado acima. Pode agrupar e avaliar todos os centros de custos, objectivos, orçamentos e despesas numa base de dados central.
 
 Atribua responsabilidades orçamentais aos seus gestores e utilize **o SeaTable como uma ferramenta de colaboração** para **trabalhar na elaboração do orçamento** com vários departamentos **ao mesmo tempo**. Isto permite-lhe ajustar o plano orçamental ao longo do ano, **acompanhar as despesas em tempo real** e ter sempre uma visão geral do orçamento atual.
 

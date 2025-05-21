@@ -11,7 +11,7 @@ Qualquer empresa que queira registar e acompanhar os seus clientes de forma mais
 
 Uma ferramenta CRM deve ajudá-lo e à sua empresa a melhorar as relações comerciais com os seus clientes, a aumentar o volume de negócios associado dos seus clientes e a optimizar os processos internos da sua empresa.
 
-Existem mais do que suficientes fornecedores de software de CRM no mercado. As soluções de software CRM mais conhecidas são provavelmente [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) e [SugarCRM](https://www.sugarcrm.com/). Pode tornar-se rapidamente caro, especialmente para pequenas e médias empresas, introduzir um novo e bem conhecido sistema de CRM. Contudo, este não tem necessariamente de ser o caso. [SeaTable](https://seatable.io/pt/registrierung/) é uma solução óptima e, ao mesmo tempo, acessível.
+Existem mais do que suficientes fornecedores de software de CRM no mercado. As soluções de software CRM mais conhecidas são provavelmente [SAP-Hybris](https://www.sap.com/acquired-brands/what-is-hybris.html), [Salesforce](https://www.salesforce.com/), [Nimble](https://www.nimble.com/), [Zoho](https://www.zoho.com/), [Pipedrive](https://www.pipedrive.com/), [Base](https://www.zendesk.com/), [Highrise](https://highrisehq.com/), [CentralStationCRM](https://centralstationcrm.de/) e [SugarCRM](https://www.sugarcrm.com/). Pode tornar-se rapidamente caro, especialmente para pequenas e médias empresas, introduzir um novo e bem conhecido sistema de CRM. Contudo, este não tem necessariamente de ser o caso. [SeaTable]({{< relref "pages/registration" >}}) é uma solução óptima e, ao mesmo tempo, acessível.
 
 ## Afinal, o que é CRM?
 
@@ -140,5 +140,5 @@ Este artigo deveria ter-lhe deixado claro quão poderoso e flexível pode ser o 
 Além disso, não precisa de uma solução separada para cada área de tarefa individual, mas pode mapear processos transversais de forma eficaz e eficiente com o SeaTable. SeaTable não deixa realmente nada a desejar e adapta-se completamente às suas necessidades pessoais. De que está à espera? Acabe com os fornecedores de software de CRM dispendioso e comece hoje mesmo a utilizar o seu sistema de CRM SeaTable.
 
 [Ao modelo "Gestão de ofertas CRM".](https://seatable.io/pt/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)  
-[Experimente agora o SeaTable na nuvem de graça](/pt/registrierung/)  
+[Experimente agora o SeaTable na nuvem de graça]({{< relref "pages/registration" >}})  
 [Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados](/pt/get-enterprise-server/)

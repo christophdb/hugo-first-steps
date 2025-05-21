@@ -45,7 +45,7 @@ Die Integration von Seafile in SeaTable könnte kaum einfacher sein: Generieren 
 
 ![Erleichterte Seafile Integration für große Datenmengen](https://seatable.io/wp-content/uploads/2023/06/verbesserte-integration-mit-seafile-release-notes.png)
 
-Verbinden lassen sich grundsätzlich gehostete wie selbstgehostete Seafile Server. [Wenden Sie sich gern an unser Sales Team](https://seatable.io/kontakt/), wenn Sie einen Seafile Server selbst hosten wollen. Für SeaTable Dedicated Kunden bieten wir ein Seafile Co-Hosting an.
+Verbinden lassen sich grundsätzlich gehostete wie selbstgehostete Seafile Server. [Wenden Sie sich gern an unser Sales Team]({{< relref "pages/contact" >}}), wenn Sie einen Seafile Server selbst hosten wollen. Für SeaTable Dedicated Kunden bieten wir ein Seafile Co-Hosting an.
 
 ## Statistik-Plugin und Statistik-Modul verschmelzen zu einem Tool
 

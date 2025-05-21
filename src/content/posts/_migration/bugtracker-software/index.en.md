@@ -97,4 +97,4 @@ Would you like to be informed when a new bug is received or when a bug is assign
 Get started with an efficient bug fixing process today. You can find the Bugtracker [template](https://seatable.io/en/vorlage/hlbtvqrtscqmhx3adh5asg/) directly in SeaTable at the templates in the Software Development section. Most features of this template are already usable in the free SeaTable Free subscription. Automations and advanced permissions are reserved for the paid subscriptions of SeaTable.
 
 **More templates in the area Software development**:  
-Take a look at our other templates in the area of software development. SeaTable offers a wide range of possibilities to make work easier for you and your team. [Register](/en/registrierung/) now and try it out.
+Take a look at our other templates in the area of software development. SeaTable offers a wide range of possibilities to make work easier for you and your team. [Register]({{< relref "pages/registration" >}}) now and try it out.

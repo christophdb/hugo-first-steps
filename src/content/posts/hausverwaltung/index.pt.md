@@ -125,4 +125,4 @@ Com o [modelo](https://seatable.io/pt/vorlage/ufyf6scpsgucxv8y0g9asw/) SeaTable 
 
 Pode registar fotografias e destaques da sua propriedade (por exemplo, cozinha totalmente equipada, terraço) numa base de dados.
 
-Registe-se [gratuitamente](https://seatable.io/pt/registrierung/) para utilizar o modelo e organizar os seus dados de forma eficiente. Crie de forma flexível a estrutura de tabelas de que necessita para a gestão de propriedades, para manter uma visão geral de todos os dados e minimizar o seu volume de trabalho administrativo.
+Registe-se [gratuitamente]({{< relref "pages/registration" >}}) para utilizar o modelo e organizar os seus dados de forma eficiente. Crie de forma flexível a estrutura de tabelas de que necessita para a gestão de propriedades, para manter uma visão geral de todos os dados e minimizar o seu volume de trabalho administrativo.

@@ -48,7 +48,7 @@ Una gran alternativa al clásico calendario de Adviento analógico es la versió
 
 El equipo de SeaTable ha creado para usted [una plantilla](https://seatable.io/es/vorlage/si5fsu0nrny8wtabksc6iq/) que podrá personalizar según sus necesidades. Dale un toque personal al calendario y espera con impaciencia las caras de asombro de tus empleados cuando descubran cada día una nueva sorpresa detrás de una de las puertecitas.
 
-Si desea utilizar SeaTable para crear un calendario de Adviento en línea, sólo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente y personalizar la plantilla como desee. La plantilla también contiene 24 ideas de regalos de Navidad para empleados y clientes.
+Si desea utilizar SeaTable para crear un calendario de Adviento en línea, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente y personalizar la plantilla como desee. La plantilla también contiene 24 ideas de regalos de Navidad para empleados y clientes.
 
 ## 3\. regalo con referencia de la empresa
 
@@ -120,4 +120,4 @@ La época navideña es estresante, por eso es tan importante prepararla bien. Co
 
 ¿Busca más ideas de regalos de Navidad adecuados para empleados y clientes? Encontrará muchas ideas interesantes en nuestra plantilla de calendario de Adviento para empresas.
 
-Si desea utilizar SeaTable para planificar su fiesta de Navidad o sus regalos navideños para empleados y clientes, sólo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente y personalizar las plantillas enlazadas más arriba para adaptarlas a sus necesidades individuales.
+Si desea utilizar SeaTable para planificar su fiesta de Navidad o sus regalos navideños para empleados y clientes, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente y personalizar las plantillas enlazadas más arriba para adaptarlas a sus necesidades individuales.

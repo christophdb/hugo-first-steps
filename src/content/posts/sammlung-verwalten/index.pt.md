@@ -67,10 +67,10 @@ Abgesehen von allgemeinen Open-Source-Sammlungsprogrammen existiert eine Vielzah
 
 Wenn Sie zum Beispiel Schuhe sammeln, könnte Ihre Datenbank in SeaTable so aussehen:
 
-[Registrieren Sie sich](https://seatable.io/registrierung/) mit Ihrer E-Mail-Adresse und beginnen Sie mit der kostenfreien Version, die für private Sammlungen völlig ausreicht. Benötigen Sie mehr Funktionen oder Speicherplatz, wechseln Sie zur Plus-Variante für 7 € pro Person pro Monat oder zur Enterprise-Version für 14 € pro User pro Monat.
+[Registrieren Sie sich]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse und beginnen Sie mit der kostenfreien Version, die für private Sammlungen völlig ausreicht. Benötigen Sie mehr Funktionen oder Speicherplatz, wechseln Sie zur Plus-Variante für 7 € pro Person pro Monat oder zur Enterprise-Version für 14 € pro User pro Monat.
 
 ## Fazit
 
 Für Sammler ist jedes einzelne Sammlerstück wertvoll. Die Übersicht behält man mit einer passenden App zur Sammlungsverwaltung oder einer allgemeinen Verwaltungssoftware, die sich für Sammlungen eignet.
 
-Das Angebot an Sammlungssoftware ist so groß und unterschiedlich wie die Sammlungen, die es gibt. Sammeln Sie zum Beispiel Fische oder Oldtimer, finden Sie online das jeweils passende Verwaltungsprogramm. Möchten Sie hingegen ein und dasselbe Programm nutzen, um verschiedene Sammlungen zu verwalten, lohnen sich übersichtliche und vielseitige Programme wie SeaTable. Mit der [kostenfreien Version](https://seatable.io/registrierung/) managen Sie Ihre Sammlung effizient in intelligenten Tabellen.
+Das Angebot an Sammlungssoftware ist so groß und unterschiedlich wie die Sammlungen, die es gibt. Sammeln Sie zum Beispiel Fische oder Oldtimer, finden Sie online das jeweils passende Verwaltungsprogramm. Möchten Sie hingegen ein und dasselbe Programm nutzen, um verschiedene Sammlungen zu verwalten, lohnen sich übersichtliche und vielseitige Programme wie SeaTable. Mit der [kostenfreien Version]({{< relref "pages/registration" >}}) managen Sie Ihre Sammlung effizient in intelligenten Tabellen.

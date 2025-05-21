@@ -166,4 +166,4 @@ Para que su próxima mudanza sea lo menos estresante posible, el equipo de SeaTa
 
 ![Plan de reubicación](images/Umzugsplan.png)
 
-Si desea utilizar SeaTable para planificar su traslado, sólo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente. [Aquí](https://seatable.io/es/vorlage/h3kzygydsysdrzun-h-fxq/) encontrará la plantilla correspondiente.
+Si desea utilizar SeaTable para planificar su traslado, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí](https://seatable.io/es/vorlage/h3kzygydsysdrzun-h-fxq/) encontrará la plantilla correspondiente.

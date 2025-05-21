@@ -105,4 +105,4 @@ The second rule is a reminder notification set with a deadline. One day before t
 
 As you can see: With SeaTable, organising and conducting meetings is no magic trick. Optimal preparation is achieved through notification rules, custom views, chat function and the agenda, while the agenda invites collaborative work during the execution. For follow-up, all important details are listed and saved in Base, so that everything can be tracked and read at any time. You'll never miss a meeting again!
 
-[Test our template](https://seatable.io/en/vorlage/gumqbevcroszpprj6j4xyg/) today and [register](/en/registrierung/) completely free of charge.
+[Test our template](https://seatable.io/en/vorlage/gumqbevcroszpprj6j4xyg/) today and [register]({{< relref "pages/registration" >}}) completely free of charge.

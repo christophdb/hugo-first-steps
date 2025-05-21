@@ -94,4 +94,4 @@ Mit dem [Budgetplaner](https://seatable.io/vorlage/kqecvuxbrganzgw0w1skgq/) von 
 
 Dank des praktischen **Kalenders** können Sie auch das Fälligkeitsdatum bestimmter Ausgaben im Auge behalten, um keine Zahlungsfrist zu verpassen und nicht von unvorhergesehenen Abbuchungen überrascht zu werden.
 
-Verabschieden Sie sich von Ihren Klarna Schulden, indem Sie Ihre Finanzen effektiv verwalten und Ihre Ausgaben auf dem Schirm haben. Hierfür müssen Sie sich nur [kostenlos bei SeaTable registrieren](https://seatable.io/registrierung/), mit der Vorlage eine neue Datenbank anlegen und anschließend Ihre eigenen Daten eintragen.
+Verabschieden Sie sich von Ihren Klarna Schulden, indem Sie Ihre Finanzen effektiv verwalten und Ihre Ausgaben auf dem Schirm haben. Hierfür müssen Sie sich nur [kostenlos bei SeaTable registrieren]({{< relref "pages/registration" >}}), mit der Vorlage eine neue Datenbank anlegen und anschließend Ihre eigenen Daten eintragen.

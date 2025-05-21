@@ -116,4 +116,4 @@ In Ihrer [Online-Datenbank](https://seatable.io/vorlage/nzqrkmzcsle8vkesd-lmpw/)
 
 Für kleinere Vereine sollten die Funktionen und Speicherlimits von SeaTable Free (kostenlose Version) ausreichen. Wenn Sie Größeres vorhaben, erhält Ihre gemeinnützige Organisation standardmäßig [Rabatte](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) auf die Kosten von SeaTable Plus oder Enterprise.
 
-[Registrieren](https://seatable.io/registrierung/) Sie sich zunächst für das Free-Abonnement und stellen Sie anschließend einen entsprechenden Antrag über die Teamverwaltung. Wir freuen uns darauf, Ihre gemeinnützige Organisation mit unserer Software zu unterstützen!
+[Registrieren]({{< relref "pages/registration" >}}) Sie sich zunächst für das Free-Abonnement und stellen Sie anschließend einen entsprechenden Antrag über die Teamverwaltung. Wir freuen uns darauf, Ihre gemeinnützige Organisation mit unserer Software zu unterstützen!

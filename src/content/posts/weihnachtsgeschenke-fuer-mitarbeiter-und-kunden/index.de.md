@@ -48,7 +48,7 @@ Eine schöne Alternative zum klassischen analogen Adventskalender ist eine digit
 
 Das Team von SeaTable hat für Sie [eine Vorlage](https://seatable.io/vorlage/si5fsu0nrny8wtabksc6iq/) erstellt, welche Sie nach Ihren Bedürfnissen anpassen können. Geben Sie dem Kalender eine persönliche Note und freuen Sie sich auf die erstaunten Gesichter Ihrer Mitarbeiter, wenn diese täglich eine neue Überraschung hinter einem der Türchen entdecken.
 
-Wenn Sie SeaTable für die Erstellung eines Online-Adventskalenders nutzen möchten, [registrieren](https://seatable.io/registrierung/) Sie sich einfach kostenlos und passen Sie die Vorlage nach Belieben an. In der Vorlage finden Sie zudem 24 Ideen, welche Weihnachtsgeschenke für Mitarbeiter und Kunden in Frage kommen.
+Wenn Sie SeaTable für die Erstellung eines Online-Adventskalenders nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos und passen Sie die Vorlage nach Belieben an. In der Vorlage finden Sie zudem 24 Ideen, welche Weihnachtsgeschenke für Mitarbeiter und Kunden in Frage kommen.
 
 ## 3\. Geschenk mit Unternehmensbezug
 
@@ -120,4 +120,4 @@ Die Weihnachtszeit ist stressig, deswegen ist eine durchdachte Vorbereitung umso
 
 Suchen Sie nach weiteren Anregungen rund um passende Weihnachtsgeschenke für Mitarbeiter und Kunden? In unserer Adventskalender-Vorlage für Unternehmen finden Sie viele spannende Ideen!
 
-Wenn Sie SeaTable für die Planung Ihrer Weihnachtsfeier oder Ihrer Weihnachtsgeschenke für Mitarbeiter und Kunden nutzen möchten, [registrieren](https://seatable.io/registrierung/) Sie sich einfach kostenlos und passen Sie die oben verlinkten Vorlagen nach Belieben an Ihre individuellen Wünsche an.
+Wenn Sie SeaTable für die Planung Ihrer Weihnachtsfeier oder Ihrer Weihnachtsgeschenke für Mitarbeiter und Kunden nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos und passen Sie die oben verlinkten Vorlagen nach Belieben an Ihre individuellen Wünsche an.

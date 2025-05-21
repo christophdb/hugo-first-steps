@@ -166,4 +166,4 @@ Para que a sua próxima mudança seja o menos stressante possível, a equipa Sea
 
 ![Plano de relocalização](images/Umzugsplan.png)
 
-Se pretender utilizar o SeaTable para o planeamento da sua mudança, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente. Pode encontrar o modelo correspondente [aqui](https://seatable.io/pt/vorlage/h3kzygydsysdrzun-h-fxq/).
+Se pretender utilizar o SeaTable para o planeamento da sua mudança, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui](https://seatable.io/pt/vorlage/h3kzygydsysdrzun-h-fxq/).

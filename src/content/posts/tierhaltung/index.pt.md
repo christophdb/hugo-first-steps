@@ -200,4 +200,4 @@ Pode utilizar o modelo para a sua criação de animais:
 - Organizar a assistência nas suas férias e ausências
 - Registo das despesas e cálculo dos custos
 
-Se pretender utilizar o SeaTable para a sua criação de animais, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente. Pode encontrar o modelo correspondente com exemplos de registos [aqui](https://seatable.io/pt/vorlage/yhq088vxr8mtfpz_i_hmag/).
+Se pretender utilizar o SeaTable para a sua criação de animais, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente com exemplos de registos [aqui](https://seatable.io/pt/vorlage/yhq088vxr8mtfpz_i_hmag/).

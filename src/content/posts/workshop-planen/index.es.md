@@ -108,4 +108,4 @@ Puede **analizar** fácilmente los comentarios recogidos en SeaTable, por ejempl
 
 Con SeaTable, puede planificar todos los procesos relacionados con la planificación de talleres y gestionar todos los datos sin esfuerzo. El objetivo es siempre maximizar la eficiencia para usted, sus empleados y los demás participantes. También son posibles otras tablas y procesos, que puede añadir de forma flexible según sus necesidades, como la reserva de salas de reuniones o una lista de inventario de sus materiales.
 
-[Regístrese](/es/registrierung/) gratis hoy mismo y pruebe nuestra plantilla [de](https://seatable.io/es/vorlage/kfsupdwhs9g5kgyqjemsea/) inmediato. Las funciones pueden utilizarse para otras muchas aplicaciones.
+[Regístrese]({{< relref "pages/registration" >}}) gratis hoy mismo y pruebe nuestra plantilla [de](https://seatable.io/es/vorlage/kfsupdwhs9g5kgyqjemsea/) inmediato. Las funciones pueden utilizarse para otras muchas aplicaciones.

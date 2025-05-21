@@ -67,10 +67,10 @@ Aparte de los programas generales de colección de código abierto, hay un gran 
 
 Por ejemplo, si colecciona zapatos, su base de datos en SeaTable podría tener este aspecto:
 
-[Regístrese](https://seatable.io/es/registrierung/) con su dirección de correo electrónico y empiece con la versión gratuita, que es totalmente suficiente para colecciones privadas. Si necesita más funciones o espacio de almacenamiento, cambie a la versión Plus por 7 € por persona y mes o a la versión Enterprise por 14 € por usuario y mes.
+[Regístrese]({{< relref "pages/registration" >}}) con su dirección de correo electrónico y empiece con la versión gratuita, que es totalmente suficiente para colecciones privadas. Si necesita más funciones o espacio de almacenamiento, cambie a la versión Plus por 7 € por persona y mes o a la versión Enterprise por 14 € por usuario y mes.
 
 ## Conclusión:
 
 Cada objeto de colección es valioso para los coleccionistas. Puedes mantener una visión general con una aplicación de gestión de colecciones adecuada o un software de gestión general apto para colecciones.
 
-La oferta de software de coleccionismo es tan amplia y variada como las colecciones que existen. Si colecciona peces o coches clásicos, por ejemplo, encontrará en Internet el programa de gestión adecuado. Si, por el contrario, desea utilizar el mismo programa para gestionar distintas colecciones, merece la pena recurrir a programas claros y versátiles como SeaTable. Con la [versión](https://seatable.io/es/registrierung/) gratuita, podrá gestionar eficazmente su colección en tablas inteligentes.
+La oferta de software de coleccionismo es tan amplia y variada como las colecciones que existen. Si colecciona peces o coches clásicos, por ejemplo, encontrará en Internet el programa de gestión adecuado. Si, por el contrario, desea utilizar el mismo programa para gestionar distintas colecciones, merece la pena recurrir a programas claros y versátiles como SeaTable. Con la [versión]({{< relref "pages/registration" >}}) gratuita, podrá gestionar eficazmente su colección en tablas inteligentes.
