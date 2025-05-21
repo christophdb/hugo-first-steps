@@ -38,7 +38,7 @@ L'élément suivant de la formule est le **nom de la colonne** dont la présence
 
 ![Ajouter le nom de la colonne dont la présence du mot recherché doit être vérifiée.](images/add-reference-column.jpg)
 
-Hinter dem Spaltennamen fügen Sie die mathematische Gleichung “**1 > 0**” ein. Diese ist für die Formel von Bedeutung, da Sie angibt, dass ein spezifischer **Wert** zurückgegeben wird, sobald das gesuchte Wort **mindestens einmal** in der Text-Spalte gefunden wird. Achten Sie in der Formel darauf, die Klammer **nach** der ersten Zahl zu **schließen**. Die **Vergleichszeichen** ( > , < , = , etc.) finden Sie im Formeleditor unter **Operatoren**.
+Après le nom de la colonne, insérez l'équation mathématique `1 > 0`. Celle-ci est importante pour la formule, car elle indique qu'une **valeur** spécifique est renvoyée dès que le mot recherché est trouvé **au moins une fois** dans la colonne de texte. Dans la formule, veillez à **fermer** la parenthèse **après** le premier chiffre. Les **caractères de comparaison** ( > , < , = , etc.) se trouvent dans l'éditeur de formules sous **Opérateurs**.
 
 ![Ajouter l'équation mathématique pour compléter la condition](images/add-.jpg)
 
