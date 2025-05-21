@@ -1,5 +1,5 @@
 ---
-title: 'Löschen einer Tabelle aus einer Base'
+title: "Supprimer une table d'une base - SeaTable"
 date: 2022-09-26
 lastmod: '2023-08-16'
 categories:
@@ -8,21 +8,23 @@ author: 'nsc2'
 url: '/fr/aide/loeschen-einer-tabelle-aus-einer-base'
 ---
 
-Sie benötigen einzelne Tabellen aus Ihren Bases nicht mehr? Dann können Sie diese mit wenigen Mausklicks löschen. So einfach geht es:
+Vous n'avez plus besoin de certains tableaux de vos bases ? Vous pouvez alors les supprimer en quelques clics de souris. C'est aussi simple que cela :
 
-![Löschen einer Tabelle aus einer Base](images/delete-a-table.png)
+![Supprimer un tableau d'une base](images/delete-a-table.png)
 
-1. In Ihrer Base finden Sie oben links alle **Tabellen der Base** als Reiter dargestellt.
-2. Klicken Sie auf das **Dreieck-Symbol** am Ende des **Namens der Tabelle**, die Sie löschen möchten.
-3. Klicken Sie auf **Tabelle löschen**.
-4. Bestätigen Sie die Löschung, indem Sie nochmals auf **Löschen** drücken.
+1. Dans votre base, vous trouverez en haut à gauche tous les **tableaux de la base** représentés sous forme d'onglets.
+2. Cliquez sur l'**icône en forme de triangle** à la fin du **nom du tableau** que vous souhaitez supprimer.
+3. Cliquez sur **Supprimer le tableau**.
+4. Confirmez la suppression en appuyant à nouveau sur **Supprimer**.
 
-{{< warning  headline="Hinweis"  text="Die gelöschten Daten gehen **nicht** verloren, sondern verbleiben für unbegrenzte Zeit im Papierkorb der Base." />}}
+{{< warning headline="Remarque" text="Les données supprimées ne sont **pas** perdues, mais restent dans la corbeille de la base pour une durée illimitée." />}}
 
-## Häufige Fragen
+## Questions fréquentes
 
-{{< faq "Kann man gelöschte Tabellen wiederherstellen?" >}}In SeaTable brauchen Sie keine Angst vor dem Löschen zu haben. Selbst wenn Sie versehentlich mal eine Tabelle, Zeile oder Spalte löschen, können Sie diese problemlos [wiederherstellen](https://seatable.io/docs/bases-verwalten/eine-geloeschte-tabelle-wiederherstellen/). Sie finden Ihre gelöschten Daten im Papierkorb der Base.
+{{< faq "Est-il possible de restaurer des tableaux supprimés ?" >}}
+Dans SeaTable, vous ne devez pas avoir peur d'effacer. Même si vous supprimez accidentellement un tableau, une ligne ou une colonne, vous pouvez les [récupérer]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}) sans problème. Vous trouverez vos données supprimées dans la corbeille de la base.
 {{< /faq >}}
-{{< faq "Ich finde die Option zum Löschen der Tabelle nicht" >}}Wenn nur noch eine Tabelle in einer Base vorhanden ist, wird die Option _Tabelle löschen_ nicht mehr angezeigt. Außerdem müssen Sie über die notwendige Berechtigung verfügen, um eine Tabelle löschen zu dürfen.
 
+{{< faq "Je ne trouve pas l'option pour supprimer le tableau" >}}
+S'il n'y a plus qu'un seul tableau dans une base, l'option _Supprimer le tableau_ n'est plus affichée. En outre, vous devez disposer de l'autorisation nécessaire pour pouvoir supprimer une table.
 {{< /faq >}}

@@ -1,5 +1,5 @@
 ---
-title: 'Eine Seafile Bibliothek an SeaTable anbinden'
+title: 'Connecter une bibliothèque Seafile à SeaTable - SeaTable'
 date: 2023-06-27
 lastmod: '2023-06-27'
 categories:
@@ -8,51 +8,52 @@ author: 'nsc2'
 url: '/fr/aide/eine-seafile-bibliothek-an-seatable-anbinden'
 ---
 
-Wenn Sie viele größere Dateien (z. B. Bilder und Videos) in einer Base speichern, können Sie zum einen irgendwann an die [Speicherlimits Ihres Abonnements]({{< relref "pages/prices" >}}) stoßen, und zum anderen wird es über 100 MB nicht mehr möglich sein, die Base als [DTABLE-Datei]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) zu [exportieren]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}}).
+Si vous enregistrez beaucoup de fichiers volumineux (par exemple des images et des vidéos) dans une base, vous risquez d'une part d'atteindre un jour les [limites de stockage de votre abonnement]({{< relref "pages/prices" >}}) et d'autre part, au-delà de 100 Mo, il ne sera plus possible d'[exporter]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) la base en tant que [fichier DTABLE]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}}).
 
-Eine Lösung, um in diesem Fall die Limits einzuhalten, ist die Auslagerung Ihrer Dateien in einen Cloudspeicher wie **Seafile**, den Sie anschließend an SeaTable anbinden können. Im folgenden Artikel erfahren Sie, wie Sie eine Seafile Bibliothek in eine Base integrieren.
+Une solution pour respecter les limites dans ce cas est d'externaliser vos fichiers dans un stockage en nuage comme **Seafile**, que vous pouvez ensuite connecter à SeaTable. Dans l'article suivant, vous apprendrez comment intégrer une bibliothèque Seafile dans une base.
 
-{{< warning headline="Info" text="Seafile ist die Filesharing- und Cloudspeicher-Lösung von den Machern von SeaTable, wodurch Sie die zwei Produkte zu einer Gesamtlösung für kollaboratives Informationsmanagement vereinen können. Dabei können Sie die Vorteile von Seafile – flexible Speicherkapazität und Dateisynchronisation – mit den Stärken von SeaTable verbinden." />}}
+{{< warning headline="Info" text="Seafile est la solution de partage de fichiers et de stockage en nuage des créateurs de SeaTable, ce qui vous permet de combiner les deux produits en une solution globale de gestion collaborative de l'information. Vous pouvez ainsi combiner les avantages de Seafile - capacité de stockage flexible et synchronisation des fichiers - avec les points forts de SeaTable." />}}
 
-## So binden Sie eine Seafile Bibliothek an SeaTable an
+## Pour lier une bibliothèque Seafile à SeaTable, procédez comme suit
 
-1. Öffnen Sie das Seafile Webinterface und melden Sie sich mit Ihrem **Seafile Konto** an.
-2. Klicken Sie auf das **Drop-down-Symbol**, um die erweiterten Optionen einer **Seafile Bibliothek** zu öffnen, und klicken Sie auf **API Token**.
+1. Ouvrez l'interface web Seafile et connectez-vous avec votre **compte Seafile**.
+2. Cliquez sur l'**icône déroulante** pour ouvrir les options avancées d'une **bibliothèque Seafile** et cliquez sur **API Token**.
 
-![Öffnen der Erweiterten Einstellungen einer Bibliothek und Klick auf API Token](images/click-api-token.png)
+    ![Ouvrir les paramètres avancés d'une bibliothèque et cliquer sur API Token](images/click-api-token.png)
 
-4. **Benennen** Sie den **Token**, vergeben Sie eine Lese- und Schreibberechtigung oder nur eine Leseberechtigung und erstellen Sie den Token über **Abschicken**.
+3. **Nommez** le **token**, attribuez une autorisation de lecture et d'écriture ou seulement une autorisation de lecture et créez le token en cliquant sur **Envoyer**.
 
-![Erstellung des API Tokens](images/create-api-token.png)
+    ![Création du jeton API](images/create-api-token.png)
 
-6. **Kopieren** Sie den API Token in den Zwischenspeicher.
+4. **Copiez** le jeton API dans le cache.
 
-![Kopieren des API-Tokens in den Zwischenspeicher](images/copy-api-token.png)
+    ![Copie du jeton de l'API dans le cache](images/copy-api-token.png)
 
-8. Öffnen Sie im Anschluss das **SeaTable Webinterface** und gehen Sie in die Base, in die Sie die **Bibliothek** einbinden wollen.
-9. Klicken Sie auf die **drei Punkte** im Base-Header, um die erweiterten Base-Optionen zu öffnen, und wählen Sie die Option **Integration von Drittanbieter** aus.
+5. Ouvrez ensuite l'**interface web de SeaTable** et allez dans la base dans laquelle vous souhaitez intégrer la **bibliothèque**.
+6. Cliquez sur les **trois points** dans l'en-tête de la base pour ouvrir les options avancées de la base et sélectionnez l'option **Intégration de tiers**.
 
-![Auswahl der Option Integration von Drittanbieter](images/open-third-party-integration.png)
+    ![Sélection de l'option Intégration de tiers](images/open-third-party-integration.png)
 
-11. Klicken Sie im Bereich Seafile auf **Seafile Bibliothek hinzufügen.**
+7. Dans la section Seafile, cliquez sur **Ajouter une bibliothèque Seafile.**
 
-![Klick auf Seafile Bibliothek hinzufügen](images/add-seafile-library.png)
+    ![Cliquez sur Ajouter une bibliothèque Seafile](images/add-seafile-library.png)
 
-13. Geben Sie den **Namen der Bibliothek**, die **URL Ihres Seafile Servers** und den zuvor kopierten **API Token** der Bibliothek ein.
+8. Saisissez le **nom de la bibliothèque**, l'**URL de votre serveur Seafile** et le **jeton API** de la bibliothèque que vous avez copié précédemment.
 
-![Einbindung der Seafile Bibliothek](images/add-library-to-base.png)
+    ![Intégration de la bibliothèque Seafile](images/add-library-to-base.png)
 
-15. Klicken Sie abschließend auf **Überprüfen**. Nach erschienener Erfolgsmeldung bestätigen Sie die Einbindung mit **Abschicken**.  
-    ![Einbindung der Seafile Bibliothek bestätigen und abschließen](images/finish-integration.gif)
+9. Cliquez enfin sur **Vérifier**. Une fois le message de réussite affiché, confirmez l'intégration en cliquant sur **Envoyer**.
 
-## Auf Dateien in Seafile zugreifen
+    ![Confirmer et terminer l'intégration de la bibliothèque Seafile](images/finish-integration.gif)
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
+## Accéder aux fichiers dans Seafile
 
-![Eingebundene Seafile Bibliothek im Dateimanagement der Base](images/library-in-file-management.png)
+Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
 
-Über diese Integration können Sie die in Seafile gespeicherten Dateien direkt in SeaTable nutzen.
+![Bibliothèque Seafile intégrée dans la gestion de fichiers de la base](images/library-in-file-management.png)
 
-## Integrationsmöglichkeiten
+Cette intégration vous permet d'utiliser les fichiers stockés dans Seafile directement dans SeaTable.
 
-Grundsätzlich können Sie sowohl selbstgehostete als auch gehostete Seafile Server mit SeaTable verbinden. [Wenden Sie sich gern an unser Sales Team](https://seatable.io/kontakt/), wenn Sie einen Seafile Server selbst hosten wollen. Für SeaTable Dedicated Kunden bieten wir ein Seafile Co-Hosting an.
+## Possibilités d'intégration
+
+En principe, vous pouvez connecter à SeaTable aussi bien des serveurs Seafile auto-hébergés que des serveurs hébergés. N ['hésitez pas à contacter notre équipe commerciale]({{< relref "pages/contact" >}}) si vous souhaitez héberger vous-même un serveur Seafile. Pour les clients SeaTable dédiés, nous proposons un co-hébergement Seafile.

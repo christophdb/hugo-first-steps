@@ -17,14 +17,34 @@ Eine Lösung, um in diesem Fall die Limits einzuhalten, ist die Auslagerung Ihre
 ## So binden Sie eine Seafile Bibliothek an SeaTable an
 
 1. Öffnen Sie das Seafile Webinterface und melden Sie sich mit Ihrem **Seafile Konto** an.
-2. Klicken Sie auf das **Drop-down-Symbol**, um die erweiterten Optionen einer **Seafile Bibliothek** zu öffnen, und klicken Sie auf **API Token**.
-   ![Öffnen der Erweiterten Einstellungen einer Bibliothek und Klick auf API Token](images/click-api-token.png)4. **Benennen** Sie den **Token**, vergeben Sie eine Lese- und Schreibberechtigung oder nur eine Leseberechtigung und erstellen Sie den Token über **Abschicken**.
-   ![Erstellung des API Tokens](images/create-api-token.png)6. **Kopieren** Sie den API Token in den Zwischenspeicher.
-   ![Kopieren des API-Tokens in den Zwischenspeicher](images/copy-api-token.png)8. Öffnen Sie im Anschluss das **SeaTable Webinterface** und gehen Sie in die Base, in die Sie die **Bibliothek** einbinden wollen.
-3. Klicken Sie auf die **drei Punkte** im Base-Header, um die erweiterten Base-Optionen zu öffnen, und wählen Sie die Option **Integration von Drittanbieter** aus.
-   ![Auswahl der Option Integration von Drittanbieter](images/open-third-party-integration.png)11. Klicken Sie im Bereich Seafile auf **Seafile Bibliothek hinzufügen.**
-   ![Klick auf Seafile Bibliothek hinzufügen](images/add-seafile-library.png)13. Geben Sie den **Namen der Bibliothek**, die **URL Ihres Seafile Servers** und den zuvor kopierten **API Token** der Bibliothek ein.
-   ![Einbindung der Seafile Bibliothek](images/add-library-to-base.png)15. Klicken Sie abschließend auf **Überprüfen**. Nach erschienener Erfolgsmeldung bestätigen Sie die Einbindung mit **Abschicken**. ![Einbindung der Seafile Bibliothek bestätigen und abschließen](images/finish-integration.gif)
+1. Klicken Sie auf das **Drop-down-Symbol**, um die erweiterten Optionen einer **Seafile Bibliothek** zu öffnen, und klicken Sie auf **API Token**.
+
+    ![Öffnen der Erweiterten Einstellungen einer Bibliothek und Klick auf API Token](images/click-api-token.png)
+
+1. **Benennen** Sie den **Token**, vergeben Sie eine Lese- und Schreibberechtigung oder nur eine Leseberechtigung und erstellen Sie den Token über **Abschicken**.
+
+    ![Erstellung des API Tokens](images/create-api-token.png)
+
+1. **Kopieren** Sie den API Token in den Zwischenspeicher.
+
+    ![Kopieren des API-Tokens in den Zwischenspeicher](images/copy-api-token.png)
+
+1. Öffnen Sie im Anschluss das **SeaTable Webinterface** und gehen Sie in die Base, in die Sie die **Bibliothek** einbinden wollen.
+1. Klicken Sie auf die **drei Punkte** im Base-Header, um die erweiterten Base-Optionen zu öffnen, und wählen Sie die Option **Integration von Drittanbieter** aus.
+
+    ![Auswahl der Option Integration von Drittanbieter](images/open-third-party-integration.png)
+
+1. Klicken Sie im Bereich Seafile auf **Seafile Bibliothek hinzufügen.**
+
+    ![Klick auf Seafile Bibliothek hinzufügen](images/add-seafile-library.png)
+
+1. Geben Sie den **Namen der Bibliothek**, die **URL Ihres Seafile Servers** und den zuvor kopierten **API Token** der Bibliothek ein.
+
+    ![Einbindung der Seafile Bibliothek](images/add-library-to-base.png)
+
+1. Klicken Sie abschließend auf **Überprüfen**. Nach erschienener Erfolgsmeldung bestätigen Sie die Einbindung mit **Abschicken**.
+
+    ![Einbindung der Seafile Bibliothek bestätigen und abschließen](images/finish-integration.gif)
 
 ## Auf Dateien in Seafile zugreifen
 

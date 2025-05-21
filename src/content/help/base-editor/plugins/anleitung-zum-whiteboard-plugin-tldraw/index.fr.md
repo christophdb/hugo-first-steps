@@ -1,5 +1,5 @@
 ---
-title: 'Anleitung zum Whiteboard-Plugin (tldraw)'
+title: 'Instructions pour le plugin de tableau blanc (tldraw)'
 date: 2025-04-24
 lastmod: '2025-04-24'
 categories:
@@ -8,210 +8,213 @@ author: 'kgr'
 url: '/fr/aide/anleitung-zum-whiteboard-plugin-tldraw'
 ---
 
-Das **Whiteboard-Plugin** gibt Ihnen die Freiheit, Prozesse und Strukturen grafisch zu visualisieren, die Sie mit den bisherigen Plugins nicht darstellen können. Ebenso können Sie Layouts und Mockups frei skizzieren. Für die Gestaltung haben Sie verschiedene **Elemente** wie Vierecke, Ellipsen und Pfeile sowie **Werkzeuge** wie Stift, Radierer und das Text-Werkzeug zur Auswahl.
+Le **plug-in Whiteboard** vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plug-ins précédents. De même, vous pouvez esquisser librement des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo, la gomme et l'outil de texte.
 
-Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
-).
+Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-{{< warning  headline="Nicht zu verwechseln mit dem alten Whiteboard-Plugin"  text="In SeaTable existiert noch ein weiteres **Whiteboard-Plugin (veraltet)**, das auf dem Open-Source-Projekt Excalidraw basiert. Der Austausch des Plugins war nötig geworden, da das alte Whiteboard-Plugin keine Kollaboration unterstützte und sich bei gleichzeitiger Nutzung durch mehrere Benutzer als störanfällig erwies. Im Zuge des Release 6.0 im Sommer 2025 werden wir das alte Plugin aus SeaTable Cloud entfernen." />}}
+{{< warning headline="À ne pas confondre avec l'ancien plug-in Whiteboard" >}}
 
-## Einstellungsmöglichkeiten einer Whiteboard-Zeichnung
+SeaTable contient un autre **plug-in de tableau blanc (obsolète)**, basé sur le projet open source Excalidraw. Le remplacement de ce plug-in était devenu nécessaire, car l'ancien plug-in de tableau blanc ne prenait pas en charge la collaboration et s'avérait sujet à des dysfonctionnements lorsque plusieurs utilisateurs l'utilisaient simultanément. Dans le cadre de la version 6.0 prévue pour l'été 2025, nous supprimerons l'ancien plugin de SeaTable Cloud.
 
-Standardmäßig ist beim ersten Öffnen des Whiteboard-Plugins bereits eine Zeichnung mit leerer Leinwand angelegt. Wenn Sie eine weitere Zeichnung erstellen möchten, klicken Sie auf {{< seatable-icon icon="dtable-icon-add-table" >}} **Zeichnung hinzufügen**. Daraufhin öffnet sich ein Eingabefeld, in das Sie den gewünschten **Namen** tippen.
+{{< /warning >}}
 
-![Optionen einer Whiteboard-Zeichnung](images/Optionen-einer-Whiteboard-Zeichnung-1.png)
+## Possibilités de réglage d'un dessin sur tableau blanc
 
-Um die **Reihenfolge der Zeichnungen zu ändern**, halten Sie die linke Maustaste an der **Greiffläche** {{< seatable-icon icon="dtable-icon-drag" >}} gedrückt und ziehen die Zeichnung **per Drag-and-Drop** an die gewünschte Stelle. Darüber hinaus können Sie die Zeichnungen **umbenennen** und **löschen**.
+Par défaut, un dessin avec un canevas vide est déjà créé lors de la première ouverture du plugin de tableau blanc. Si vous souhaitez créer un autre dessin, cliquez sur {{< seatable-icon icon="dtable-icon-add-table" >}} **Ajouter un dessin**. Un champ de saisie s'ouvre alors, dans lequel vous tapez le **nom** souhaité.
 
-{{< warning  headline="Hinweis"  text="Wenn nur eine einzige Zeichnung im Plugin angelegt ist, können Sie diese **nicht löschen**." />}}
+![Options d'un dessin sur tableau blanc](images/Optionen-einer-Whiteboard-Zeichnung-1.png)
 
-## Verfügbare Werkzeuge
+Pour modifier l'**ordre des dessins**, il suffit de maintenir le bouton gauche de la souris enfoncé sur la **surface de préhension** {{< seatable-icon icon="dtable-icon-drag" >}} et **de glisser-déposer** le dessin à l'endroit souhaité. En outre, vous pouvez **renommer** et **supprimer** les dessins.
 
-In der **Werkzeugleiste** unterhalb der Leinwand stehen Ihnen verschiedene Werkzeuge und Elemente zur Verfügung.
+{{< warning headline="Remarque" text="Si un seul dessin est créé dans le plugin, vous ne pouvez **pas** le **supprimer**." />}}
 
-### Auswahl-Werkzeug
+## Outils disponibles
 
-Mit diesem Werkzeug können Sie ein Element auswählen, das Sie bearbeiten, kopieren, verschieben oder löschen möchten. Sobald das Element ausgewählt ist, erscheinen links seine jeweiligen Einstellungsoptionen.
+Dans la **barre d'outils** située sous le canevas, vous disposez de différents outils et éléments.
 
-![Auswahl-Werkzeug im Whiteboard-Plugin](images/Auswahl-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outil de sélection
 
-### Hand-Werkzeug
+Cet outil vous permet de sélectionner un élément que vous souhaitez modifier, copier, déplacer ou supprimer. Une fois l'élément sélectionné, ses options de configuration respectives apparaissent à gauche.
 
-Nutzen Sie das Hand-Werkzeug, um die Leinwand zu bewegen, ohne etwas an den Elementen zu verändern. Dies funktioniert ebenso mit dem Auswahl-Werkzeug, sobald Sie die Leertaste gedrückt halten, oder mit dem Mausrad in vertikaler Richtung.
+![Outil de sélection dans le plug-in Whiteboard](images/Auswahl-Werkzeug-im-Whiteboard-Plugin.gif)
 
-![Hand-Werkzeug im Whiteboard-Plugin](images/Hand-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outillage à main
 
-### Zeichen-Werkzeug (Stift)
+Utilisez l'outil Main pour déplacer le canevas sans rien changer aux éléments. Cela fonctionne également avec l'outil Sélection, dès que vous maintenez la barre d'espacement enfoncée, ou avec la molette de la souris dans le sens vertical.
 
-Halten Sie die linke Maustaste gedrückt, um frei Hand verschiedene Linien und Formen zu zeichnen. Immer wenn Sie mit dem Stift absetzen, entsteht ein neues Element, das Sie separat anwählen und nach Belieben anpassen können.
+![Outil manuel dans le plug-in Whiteboard](images/Hand-Werkzeug-im-Whiteboard-Plugin.gif)
 
-![Zeichen-Werkzeug im Whiteboard-Plugin](images/Zeichen-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outil de dessin (stylo)
 
-Sie haben die Auswahl zwischen **12 Farben**, können auf dem Regler die **Deckkraft** einstellen und den **Füllmodus** wählen. Entscheiden Sie zudem, ob die Striche gezeichnet, gestrichelt, gepunktet oder durchgezogen sein sollen. Auch die **Strichstärke** (S, M, L, XL) lässt sich anpassen.
+Maintenez le bouton gauche de la souris enfoncé pour dessiner à main levée différentes lignes et formes. Chaque fois que vous posez le crayon, un nouvel élément apparaît, que vous pouvez sélectionner séparément et adapter à votre guise.
 
-### Radierer
+![Outil de dessin dans le plug-in Whiteboard](images/Zeichen-Werkzeug-im-Whiteboard-Plugin.gif)
 
-Mit diesem Werkzeug können Sie auf einen Streich mehrere Elemente auf der Leinwand löschen. Halten Sie die linke Maustaste gedrückt, während Sie mit dem Radierer über die zu löschenden Elemente fahren.
+Vous avez le choix entre **12 couleurs**, vous pouvez régler l'**opacité** sur le curseur et choisir le **mode de remplissage**. Décidez également si les traits doivent être dessinés, en pointillés, en points ou continus. Vous pouvez également adapter l'**épaisseur des traits** (S, M, L, XL).
 
-![Radierer im Whiteboard-Plugin](images/Radierer-im-Whiteboard-Plugin.gif)
+### Gomme
 
-### Pfeil-Werkzeug
+Cet outil permet d'effacer d'un seul coup plusieurs éléments sur le canevas. Maintenez le bouton gauche de la souris enfoncé tout en passant la gomme sur les éléments à effacer.
 
-Erstellen Sie **Pfeile**, um verschiedene Elemente auf der Leinwand miteinander in Beziehung zu setzen. Sie haben für Pfeile die gleichen Einstellungsoptionen wie bei gezeichneten Linien und Formen, können aber zusätzlich noch aus **8 Pfeilspitzen** wählen. Um den Pfeil zu **biegen**, ziehen Sie an seinem Mittelpunkt.
+![Gomme dans le plugin pour tableau blanc](images/Radierer-im-Whiteboard-Plugin.gif)
 
-![Pfeil-Werkzeug im Whiteboard-Plugin](images/Pfeil-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outil flèche
 
-### Text-Werkzeug
+Créez **des flèches** pour mettre en relation différents éléments sur le canevas. Vous disposez pour les flèches des mêmes options de réglage que pour les lignes et les formes dessinées, mais vous pouvez en outre choisir parmi **8 pointes de flèches**. Pour **courber** la flèche, faites glisser son centre.
 
-Sie möchten einen Text oder Schriftzug auf Ihrer Leinwand platzieren? Dann fügen Sie mit diesem Werkzeug einfach ein Textelement ein! Sobald Sie die Buchstaben eingegeben haben, können Sie die **Schriftfarbe**, die **Transparenz**, die **Schriftgröße**, die **Schriftart** und die **Textausrichtung** einstellen.
+![Outil flèche dans le plugin Whiteboard](images/Pfeil-Werkzeug-im-Whiteboard-Plugin.gif)
 
-![Text-Werkzeug im Whiteboard-Plugin](images/Text-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outil texte
 
-### Hinweis-Werkzeug
+Vous souhaitez placer un texte ou une inscription sur votre toile ? Alors, insérez simplement un élément de texte à l'aide de cet outil ! Une fois que vous avez saisi les lettres, vous pouvez régler la **couleur de la police**, la **transparence**, la **taille de la police**, la **police** et l'**orientation du texte**.
 
-Mit diesem Werkzeug können Sie kinderleicht **Notizzettel** auf Ihrer Leinwand platzieren, um wichtige Informationen hervorzuheben. Klicken Sie einfach auf die Leinwand, wo Sie die Notiz platzieren möchten. Beim erscheinenden Element ist bereits ein **Textfeld** integriert, sodass Sie direkt losschreiben können.
+![Outil Texte dans le plug-in Whiteboard](images/Text-Werkzeug-im-Whiteboard-Plugin.gif)
 
-![Hinweis-Werkzeug im Whiteboard-Plugin](images/Hinweis-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outil de remarque
 
-### Bild-Werkzeug
+Cet outil vous permet de placer très facilement **des notes** sur votre toile afin de mettre en évidence des informations importantes. Il suffit de cliquer sur le canevas à l'endroit où vous souhaitez placer la note. Une **zone de texte** est intégrée à l'élément qui apparaît, ce qui vous permet de commencer à écrire directement.
 
-Mit dem Bild-Werkzeug können Sie **Bilder** von Ihrem Gerät in die Zeichnung einfügen. Dazu wählen Sie die gewünschte Bilddatei im Ordnersystem Ihres Geräts aus und bestätigen mit einem Klick.
+![Outil de remarque dans le plug-in Whiteboard](images/Hinweis-Werkzeug-im-Whiteboard-Plugin.gif)
 
-![Bild-Werkzeug im Whiteboard-Plugin](images/Bild-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outil d'image
 
-**Form-Werkzeug**
+L'outil Image vous permet d'insérer **des images** de votre appareil dans le dessin. Pour ce faire, sélectionnez le fichier image souhaité dans le système de dossiers de votre appareil et confirmez en cliquant dessus.
 
-Mit diesem Werkzeug können Sie vielfältige **Formen** zu Ihrer Zeichnung hinzufügen. Wählen Sie das Werkzeug aus, halten Sie die linke Maustaste auf der Leinwand gedrückt und ziehen Sie die Form auf.
+![Outil Image dans le plug-in Whiteboard](images/Bild-Werkzeug-im-Whiteboard-Plugin.gif)
 
-![Form-Werkzeug im Whiteboard-Plugin](images/Form-Werkzeug-im-Whiteboard-Plugin.gif)
+**Outil de forme**
 
-Sie haben 20 Formen zur Auswahl, darunter
+Cet outil vous permet d'ajouter des **formes** variées à votre dessin. Sélectionnez l'outil, maintenez le bouton gauche de la souris enfoncé sur le canevas et faites glisser la forme.
 
-- Rechtecke, Rauten, Parallelogramme und Trapeze
-- Dreiecke, Fünfecke, Sechsecke und Achtecke
-- Ellipsen und Ovale
-- Sterne, Wolken und Herzen
-- Pfeile
-- Checkboxen
+![Outil Form dans le plugin Whiteboard](images/Form-Werkzeug-im-Whiteboard-Plugin.gif)
 
-Zudem können Sie zwischen **12 Farben** wählen, auf dem Regler die **Deckkraft** einstellen und den **Füllmodus** ändern. Entscheiden Sie ferner, ob die **Konturen** gezeichnet, gestrichelt, gepunktet oder durchgezogen sein sollen. Auch die **Strichstärke** (S, M, L, XL) lässt sich anpassen.
+Vous avez le choix entre 20 formes, dont
 
-{{< warning  headline="Hinweis"  text="Die **Konturfarbe** und die **Füllfarbe** der Form sind immer identisch und lassen sich nicht getrennt voneinander einstellen." />}}
+- Rectangles, losanges, parallélogrammes et trapèzes
+- Triangles, pentagones, hexagones et octogones
+- Ellipses et ovales
+- Étoiles, nuages et cœurs
+- Flèches
+- Cases à cocher
 
-### Linien-Werkzeug
+Vous pouvez également choisir entre **12 couleurs**, régler l'**opacité** sur le curseur et modifier le **mode de remplissage**. Décidez également si les **contours** doivent être dessinés, en pointillés, en points ou en traits continus. L'**épaisseur du trait** (S, M, L, XL) peut également être adaptée.
 
-Dieses Werkzeug erstellt **Linien**, die zwei Punkte miteinander verbinden. Dabei haben Sie die Auswahl zwischen **12 Farben**, können auf dem Regler die **Deckkraft** einstellen und entscheiden, ob die Linien gezeichnet, gestrichelt, gepunktet oder durchgezogen sein sollen. Auch die **Strichstärke** (S, M, L, XL) lässt sich anpassen. Ziehen Sie am Mittelpunkt der Linie, um eine **Ecke** oder **Kurve** zu machen.
+{{< warning headline="Remarque" text="La **couleur du contour** et la **couleur de remplissage** de la forme sont toujours identiques et ne peuvent pas être réglées séparément." />}}
 
-![Linien-Werkzeug im Whiteboard-Plugin](images/Linien-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outil Lignes
 
-### Marker
+Cet outil crée **des lignes** qui relient deux points. Vous avez le choix entre **12 couleurs**, vous pouvez régler l'**opacité** sur le curseur et décider si les lignes doivent être dessinées, pointillées, en pointillés ou continues. L'**épaisseur du trait** (S, M, L, XL) peut également être adaptée. Faites glisser le centre de la ligne pour faire un **angle** ou **une courbe**.
 
-Mit diesem Werkzeug können Sie dauerhaft bestimmte Stellen auf der Leinwand markieren, wie Sie es analog von einem **Textmarker** kennen. Dabei können Sie die **Farbe**, die **Transparenz** und die **Größe** der Markierung einstellen.
+![Outil Lignes dans le plug-in Whiteboard](images/Linien-Werkzeug-im-Whiteboard-Plugin.gif)
 
-![Marker im Whiteboard-Plugin](images/Marker-im-Whiteboard-Plugin.gif)
+### Marqueur
 
-### Laserpointer
+Cet outil vous permet de marquer durablement certains endroits sur le canevas, comme vous le feriez par analogie avec un **surligneur**. Vous pouvez régler la **couleur**, la **transparence** et la **taille** du marquage.
 
-Dieses Werkzeug bietet sich vor allem für **Präsentationen** an. Heben Sie mit dem Laserpointer die Stellen auf der Leinwand hervor, über die Sie gerade sprechen. Er erzeugt einen roten Strich, der in Sekundenschnelle wieder verschwindet.
+![Marqueurs dans le plug-in Whiteboard](images/Marker-im-Whiteboard-Plugin.gif)
 
-![Laserpointer im Whiteboard-Plugin](images/Laserpointer-im-Whiteboard-Plugin.gif)
+### Pointeur laser
 
-### Rahmen-Werkzeug
+Cet outil est particulièrement utile pour les **présentations**. Utilisez le pointeur laser pour mettre en évidence les endroits de l'écran dont vous êtes en train de parler. Il crée un trait rouge qui disparaît en quelques secondes.
 
-Nutzen Sie das Rahmen-Werkzeug, um einzelne Elemente zu **gruppieren**. Sobald die Elemente in einem Rahmen zu einer Gruppe zusammengefasst sind, können Sie diese gemeinsam verschieben, kopieren, sperren und löschen.
+![Pointeur laser dans le plugin pour tableau blanc](images/Laserpointer-im-Whiteboard-Plugin.gif)
 
-![Rahmen-Werkzeug im Whiteboard-Plugin](images/Rahmen-Werkzeug-im-Whiteboard-Plugin.gif)
+### Outil de cadre
 
-## Elemente bearbeiten
+Utilisez l'outil Cadre pour **regrouper** des éléments individuels. Dès que les éléments d'un cadre sont réunis en un groupe, vous pouvez les déplacer, les copier, les verrouiller et les supprimer ensemble.
 
-Mit den verschiedenen Elementen können Sie bestimmte Aktionen ausführen, die wir nun im Einzelnen beleuchten.
+![Outil de cadre dans le plugin Whiteboard](images/Rahmen-Werkzeug-im-Whiteboard-Plugin.gif)
 
-### Text in Elemente einfügen
+## Modifier des éléments
 
-In Formen wie Rechtecke und Ellipsen können Sie standardmäßig **Texte einfügen**. Machen Sie dazu einen Doppelklick auf das entsprechende Element und geben Sie den gewünschten Text ein. Anschließend haben Sie die gleichen Einstellungsoptionen wie beim Text-Werkzeug.
+Les différents éléments permettent d'effectuer certaines actions que nous allons maintenant examiner en détail.
 
-![Text in Formen einfügen](images/Text-in-Formen-einfuegen.gif)
+### Insérer du texte dans des éléments
 
-### Elemente verschieben, drehen, vergrößern oder verkleinern
+Dans les formes telles que les rectangles et les ellipses, vous pouvez **insérer des textes** par défaut. Pour ce faire, double-cliquez sur l'élément correspondant et saisissez le texte souhaité. Vous disposez ensuite des mêmes options de réglage que pour l'outil Texte.
 
-Klicken Sie mit dem **Auswahl-Werkzeug** das Element an, das Sie anpassen möchten. Fahren Sie mit der Maus über den passenden **Greifpunkt** am Element und ziehen Sie mit gedrückter linker Maustaste, um das Element zu verschieben, zu drehen, zu vergrößern oder zu verkleinern.
+![Insérer du texte dans des formes](images/Text-in-Formen-einfuegen.gif)
 
-![Elemente verschieben, drehen, vergrößern, verkleinern](images/Elemente-verschieben-drehen-vergroessern-verkleinern.gif)
+### Déplacer, faire pivoter, agrandir ou réduire des éléments
 
-Zudem können Sie die **Zoomstufe** der Leinwand in der unteren linken Ecke ändern. Dies verändert allerdings nur die Größe des sichtbaren Ausschnitts und nicht die Größe der Elemente.
+Avec l'**outil de sélection**, cliquez sur l'élément que vous souhaitez adapter. Passez la souris sur le **point de préhension** approprié de l'élément et faites glisser en maintenant le bouton gauche de la souris enfoncé pour déplacer, faire pivoter, agrandir ou réduire l'élément.
 
-### Elemente duplizieren, ausschneiden, kopieren und einfügen
+![Déplacer, faire pivoter, agrandir, réduire des éléments](images/Elemente-verschieben-drehen-vergroessern-verkleinern.gif)
 
-Um ein Element zu duplizieren, gibt es drei Möglichkeiten: Entweder Sie klicken am oberen linken Rand auf das **Duplikat-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü **Duplizieren** aus oder Sie verwenden den **Shortcut** {{< key "Strg" >}}+{{< key "D" >}}.
+En outre, vous pouvez modifier le **niveau de zoom** du canevas dans le coin inférieur gauche. Toutefois, cela ne modifie que la taille de la partie visible et non la taille des éléments.
 
-![Elemente duplizieren, kopieren, ausschneiden und einfügen](images/Elemente-duplizieren-kopieren-ausschneiden-und-einfuegen.gif)
+### Dupliquer, couper, copier et coller des éléments
 
-Um ein Element auszuschneiden, zu kopieren oder einzufügen, können Sie einen Rechtsklick auf das Element machen und im **Kontextmenü** die entsprechende Option wählen oder die bekannten **Shortcuts** {{< key "Strg" >}}+{{< key "X" >}}, {{< key "Strg" >}}+{{< key "C" >}} und {{< key "Strg" >}}+{{< key "V" >}} nutzen. Des Weiteren können Sie ein Element als Bilddatei (PNG oder SVG) in den Zwischenspeicher kopieren.
+Pour dupliquer un élément, il existe trois possibilités : Soit vous cliquez en haut à gauche sur le **Icône de duplication** ou faites un clic droit sur l'élément et choisissez dans le menu contextuel **Dupliquer** ou vous pouvez utiliser le **Raccourci** {{< key "Ctrl" >}}+{{< key "D" >}}.
 
-### Elemente in den Vordergrund oder Hintergrund rücken
+![Dupliquer, copier, couper et coller des éléments](images/Elemente-duplizieren-kopieren-ausschneiden-und-einfuegen.gif)
 
-Da sich mehrere Elemente auf der Leinwand überlagern können, können Sie jedes Element je eine Ebene nach vorne oder hinten oder ganz in den Vordergrund oder Hintergrund rücken. Dafür klicken Sie entweder am oberen linken Rand auf die **drei Punkte** und eines der **vier Pfeilsymbole** oder Sie machen einen Rechtsklick auf das Element und wählen im **Kontextmenü** die gewünschte Option aus.
+Pour couper, copier ou coller un élément, vous pouvez faire un clic droit sur l'élément et cliquer sur le bouton "Couper" dans le menu contextuel. **Menu contextuel** sélectionner l'option correspondante ou utiliser les fameux **Raccourcis** {{< key "Ctrl" >}}+{{< key "X" >}}, {{< key "Ctrl" >}}+{{< key "C" >}} et {{< key "Ctrl" >}}+{{< key "V" >}} pour l'utiliser. En outre, vous pouvez copier un élément dans le presse-papiers sous forme de fichier image (PNG ou SVG).
 
-![Elemente nach vorne oder hinten rücken](images/Elemente-nach-vorne-oder-hinten-ruecken.gif)
+### Mettre des éléments au premier plan ou à l'arrière-plan
 
-### Elemente verlinken
+Comme plusieurs éléments peuvent se superposer sur le canevas, vous pouvez déplacer chaque élément d'un niveau vers l'avant ou vers l'arrière, ou encore le placer entièrement au premier plan ou à l'arrière-plan. Pour ce faire, cliquez sur les **trois points** en haut à gauche et sur l'un des **quatre symboles de flèche** ou faites un clic droit sur l'élément et choisissez l'option souhaitée dans le **menu contextuel**.
 
-Möchten Sie Elemente (z. B. Buttons, Bilder oder Texte) zu Ihrer Zeichnung hinzufügen, die auf bestimmte Webseiten verweisen? Dann verlinken Sie die Elemente einfach, indem Sie eine URL einfügen. Klicken Sie dazu entweder am oberen linken Rand auf die **drei Punkte** und das **Ketten-Symbol** oder machen Sie einen Rechtsklick auf das Element, bevor Sie im Kontextmenü **Link bearbeiten** auswählen.
+![Déplacer des éléments vers l'avant ou l'arrière](images/Elemente-nach-vorne-oder-hinten-ruecken.gif)
 
-![Element verlinken](images/Element-verlinken.gif)
+### Lier des éléments
 
-Sobald das Element verlinkt ist, erscheint ein **Verweis-Symbol** rechts oben am Element. Klicken Sie darauf, um die URL zu öffnen. Natürlich können Sie die URL nachträglich auf dem gleichen Weg bearbeiten oder aus dem Eingabefeld löschen.
+Vous souhaitez ajouter à votre dessin des éléments (par exemple des boutons, des images ou du texte) qui renvoient à des pages web spécifiques ? Il vous suffit alors d'insérer un lien URL vers ces éléments. Pour ce faire, cliquez soit sur les **trois points** et le **symbole de chaîne** en haut à gauche, soit faites un clic droit sur l'élément avant de sélectionner **Editer le lien** dans le menu contextuel.
 
-### Elemente sperren
+![Lier l'élément](images/Element-verlinken.gif)
 
-Wenn Sie auf der Leinwand arbeiten möchten, ohne bestimmte Elemente versehentlich zu verschieben oder zu verändern, können Sie die Elemente sperren. Machen Sie dazu einen Rechtsklick auf das Element und wählen Sie die Option **Sperren**. Um gesperrte Elemente wieder zu **entsperren**, gehen Sie genauso vor.
+Dès que l'élément est lié, une **icône de renvoi** apparaît en haut à droite de l'élément. Cliquez dessus pour ouvrir l'URL. Vous pouvez bien sûr modifier l'URL ultérieurement de la même manière ou la supprimer du champ de saisie.
 
-![Elemente sperren und entsperren](images/Elemente-sperren-und-entsperren.gif)
+### Verrouiller des éléments
 
-### Elemente löschen
+Si vous souhaitez travailler sur le canevas sans déplacer ou modifier certains éléments par inadvertance, vous pouvez verrouiller les éléments. Pour ce faire, faites un clic droit sur l'élément et sélectionnez l'option **Verrouiller**. Pour **déverrouiller** les éléments verrouillés, procédez de la même manière.
 
-Wenn Sie ein Element löschen möchten, gibt es mehrere Möglichkeiten: Entweder Sie klicken am oberen linken Rand auf das **Papierkorb-Symbol** oder Sie machen einen Rechtsklick auf das Element und wählen im Kontextmenü **Löschen** aus oder Sie verwenden die Tasten {{< key "Backspace" >}} oder {{< key "Entf" >}}.
+![Verrouiller et déverrouiller des éléments](images/Elemente-sperren-und-entsperren.gif)
 
-Um schnell und treffsicher mehrere Elemente von der Leinwand zu entfernen, können Sie auch den **Radierer** aus der Werkzeugleiste nutzen.
+### Supprimer des éléments
 
-{{< warning  headline="Achtung"  text="Im Whiteboard-Plugin gibt es keinen Papierkorb. Die entfernten Elemente sind **endgültig gelöscht**." />}}
+Si vous souhaitez supprimer un élément, vous avez plusieurs possibilités : Soit vous cliquez en haut à gauche sur l'icône **Icône de la corbeille** ou faites un clic droit sur l'élément et choisissez dans le menu contextuel **Supprimer** ou utilisez les boutons {{< key "Retour arrière" >}} ou {{< key "Supprimer" >}}.
 
-Mit den Pfeilsymbolen am oberen linken Rand können Sie nur die letzten Schritte **rückgängig machen** oder **wiederherstellen**. Ebenso können Sie dafür die bekannten Shortcuts {{< key "Strg" >}}+{{< key "Z" >}} und {{< key "Strg" >}}+{{< key "Shift" >}}+{{< key "Z" >}} nutzen.
+Pour supprimer rapidement et avec précision plusieurs éléments du canevas, vous pouvez également utiliser la **gomme** de la barre d'outils.
 
-## Leinwandeinstellungen
+{{< warning headline="Attention" text="Il n'y a pas de corbeille dans le plug-in Whiteboard. Les éléments retirés sont **définitivement supprimés**." />}}
 
-Im Whiteboard-Plugin können Sie neben den Einstellungen für die einzelnen Elemente auch Einstellungen für die gesamte Leinwand vornehmen. Nutzen Sie dazu das Burger-Menü (die drei horizontalen Striche) in der linken oberen Ecke. Im Folgenden stellen wir Ihnen einige nützliche Funktionen vor.
+Les symboles fléchés en haut à gauche vous permettent de n'afficher que les dernières étapes. **annuler** ou **restaurer**. Vous pouvez également utiliser les raccourcis bien connus {{< key "Ctrl" >}}+{{< key "Z" >}} et {{< key "Ctrl" >}}+{{< key "Shift" >}}+{{< key "Z" >}} utiliser.
 
-- Wenn Sie ein Raster einblenden möchten, um die Elemente auf der Leinwand passgenau auszurichten, wählen Sie **Gitter anzeigen**.
-- Wenn Sie zusätzlich **Immer an anderen Elementen ausrichten** aktivieren, erscheinen intelligente Hilfslinien, um die Elemente aneinander auszurichten.
+## Réglages de l'écran
 
-![Elemente am Raster und aneinander ausrichten](images/Elemente-am-Raster-und-aneinander-ausrichten.gif)
+Dans le plug-in Whiteboard, vous pouvez non seulement effectuer des réglages pour les différents éléments, mais aussi pour l'ensemble du canevas. Utilisez pour cela le menu Burger (les trois traits horizontaux) dans le coin supérieur gauche. Nous vous présentons ci-dessous quelques fonctions utiles.
 
-- Im **Fokus-Modus** werden die Werkzeugleiste sowie alle Symbole und Menüs auf der Leinwand ausgeblendet. Beim Auswählen der Elemente öffnen sich auch nicht die Elementeinstellungen, sodass Sie ungestört über die Leinwand klicken und Elemente anordnen können.
-- Mit **Alle auswählen** können Sie alle Elemente auf der Leinwand gleichzeitig markieren. Das ist beispielsweise nützlich, wenn Sie vor einer Präsentationen alle Elemente sperren möchten, damit Sie nichts versehentlich verändern können. Danach können Sie wieder bequem **alle entsperren**.
+- Si vous souhaitez afficher une grille afin d'aligner précisément les éléments sur le canevas, sélectionnez **Afficher la grille**.
+- Si vous activez également **Toujours aligner sur d'autres éléments**, des lignes d'aide intelligentes apparaissent pour aligner les éléments les uns par rapport aux autres.
 
-![Alle Elemente auswählen, sperren und entsperren](images/Alle-Elemente-auswaehlen-sperren-und-entsperren.gif)
+![Aligner les éléments sur la grille et les uns par rapport aux autres](images/Elemente-am-Raster-und-aneinander-ausrichten.gif)
 
-### Sprache einstellen
+- En **mode focus**, la barre d'outils, les icônes et les menus du canevas sont masqués. Lorsque vous sélectionnez des éléments, les paramètres des éléments ne s'ouvrent pas non plus, ce qui vous permet de cliquer sur le canevas et d'organiser les éléments sans être dérangé.
+- **Sélectionner tout vous** permet de marquer simultanément tous les éléments du canevas. C'est utile, par exemple, si vous souhaitez verrouiller tous les éléments avant une présentation afin de ne rien modifier par inadvertance. Vous pouvez ensuite **tous les déverrouiller** facilement.
 
-Um Ihnen die Arbeit so leicht wie möglich zu machen, haben Sie im Whiteboard-Plugin noch deutlich mehr Sprachen als auf der SeaTable Nutzeroberfläche zur Auswahl. Klicken Sie dazu das Burger-Menü (die drei horizontalen Striche) an, stellen Sie Ihre **Sprache** ein und schon werden alle Beschriftungen übersetzt.
+![Sélectionner, verrouiller et déverrouiller tous les éléments](images/Alle-Elemente-auswaehlen-sperren-und-entsperren.gif)
 
-![Sprache einstellen](images/Sprache-einstellen.gif)
+### Régler la langue
 
-### Zwischen Hell- und Dunkel-Modus wechseln
+Pour vous faciliter la tâche, le plugin pour tableau blanc vous permet de choisir beaucoup plus de langues que l'interface utilisateur de SeaTable. Pour cela, cliquez sur le menu Burger (les trois traits horizontaux), définissez votre **langue** et toutes les inscriptions seront traduites.
 
-Darüber hinaus können Sie selbst festlegen, ob Sie das Whiteboard im **Hell- oder Dunkel-Modus** nutzen möchten. Klicken Sie dazu das Burger-Menü (die drei horizontalen Striche) an und wählen Sie in den Einstellungen ganz unten den gewünschten Modus aus.
+![Régler la langue](images/Sprache-einstellen.gif)
 
-![Zwischen Hell- und Dunkel-Modus wechseln](images/Zwischen-Hell-und-Dunkel-Modus-wechseln.gif)
+### Passer du mode clair au mode sombre
 
-### Liste aller Shortcuts
+En outre, vous pouvez déterminer vous-même si vous souhaitez utiliser le tableau blanc en **mode clair ou foncé**. Pour ce faire, cliquez sur le menu Burger (les trois traits horizontaux) et sélectionnez le mode souhaité dans les paramètres tout en bas.
 
-Eine übersichtliche Liste mit allen Shortcuts finden Sie, wenn Sie auf das Burger-Menü (die drei horizontalen Striche) und dann auf **Tastaturkürzel** klicken.
+![Passer du mode clair au mode sombre](images/Zwischen-Hell-und-Dunkel-Modus-wechseln.gif)
 
-## Elemente exportieren
+### Liste de tous les raccourcis
 
-Sie können eine Zeichnung auf Ihrer Festplatte speichern, indem Sie die Elemente von einer Leinwand exportieren. Klicken Sie dazu auf das Burger-Menü (die drei horizontalen Striche) und wählen Sie **Alle exportieren als**. Mit dem Regler können Sie festlegen, ob der Hintergrund **transparent** sein soll. Sobald Sie auf **SVG** oder **PNG** klicken, wird die entsprechende Bild-Datei heruntergeladen. Darüber hinaus können Sie auch einzelne Elemente auswählen und als PNG oder SVG exportieren.
+Vous trouverez une liste claire de tous les raccourcis en cliquant sur le menu Burger (les trois traits horizontaux), puis sur **Raccourcis clavier**.
 
-![Elemente exportieren](images/Elemente-exportieren.gif)
+## Exporter des éléments
 
-{{< warning  headline="Hinweis"  text="Sie können Bild-Dateien über die Option **Medien hochladen** wieder importieren oder mithilfe des **Bild-Werkzeugs** in bestehende Zeichnungen einfügen." />}}
+Vous pouvez enregistrer un dessin sur votre disque dur en exportant les éléments d'un canevas. Pour ce faire, cliquez sur le menu Burger (les trois traits horizontaux) et sélectionnez **Exporter tout en tant que**. Avec le curseur, vous pouvez définir si l'arrière-plan doit être **transparent**. Dès que vous cliquez sur **SVG** ou **PNG**, le fichier image correspondant est téléchargé. En outre, vous pouvez également sélectionner des éléments individuels et les exporter au format PNG ou SVG.
+
+![Exporter des éléments](images/Elemente-exportieren.gif)
+
+{{< warning headline="Remarque" text="Vous pouvez réimporter des fichiers image à l'aide de l'option **Télécharger des médias** ou les insérer dans des dessins existants à l'aide de l'**outil Image**." />}}
