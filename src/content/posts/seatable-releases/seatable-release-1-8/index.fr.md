@@ -39,7 +39,7 @@ En tant que directeur des ventes, la mise à jour du catalogue de produits est d
 
 Les liens externes pour les bases font déjà partie des fonctions de partage centrales depuis la version 1.0 de SeaTable. Les nouveaux liens externes pour les vues sont leur extension logique et permettent un échange de données plus granulaire avec des tiers externes. Comme son nom l'indique, un lien externe pour une vue est une URL qui donne un accès en lecture à une vue spécifique d'un tableau, indépendamment de la connexion à SeaTable. Les lignes et les colonnes masquées par les paramètres de la vue, ainsi que les autres tableaux de la base, restent cachés aux visiteurs du lien externe.
 
-Vous créez un lien externe pour une vue via le menu contextuel d'une vue. Cliquez sur l'icône à trois points à côté du nom de la vue. Dans la boîte de dialogue "Partager la vue", vous pouvez adapter le lien à vos besoins. Le lien est créé en cliquant sur "Créer". Vous pouvez partager le lien de toutes les manières possibles : par e-mail, par chat ou en l'intégrant dans une page web (comme nous l'avons fait par exemple sur notre page [Newsroom](/fr/unternehmen/newsroom/) ).
+Vous créez un lien externe pour une vue via le menu contextuel d'une vue. Cliquez sur l'icône à trois points à côté du nom de la vue. Dans la boîte de dialogue "Partager la vue", vous pouvez adapter le lien à vos besoins. Le lien est créé en cliquant sur "Créer". Vous pouvez partager le lien de toutes les manières possibles : par e-mail, par chat ou en l'intégrant dans une page web (comme nous l'avons fait par exemple sur notre page [Newsroom]({{< relref "pages/press" >}}) ).
 
 ## Envoi d'e-mail
 

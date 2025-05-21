@@ -40,7 +40,7 @@ For you as head of sales, updating the product catalog is short work: Create a d
 
 External links for bases have been a core element of SeaTable's sharing features since version 1.0. The newly introduced external links for views are their logical extension and allow much more fine-grained data sharing. As their name suggests, external links for views grant read-only access to one selected view of a table. The rows and columns, which are not included in the view, as well as the other tables in the base remain concealed from the person using the external link.
 
-You create an external link for a view using the context menu of a view. Click on the three-dot icon next to the name of the view. In the "Share view" dialog you can adapt the link to your needs. Click "Create" to create the link. You can share the link in any way you like: by email, by chat, or by embedding it in a web page (as we did on our [Newsroom](/en/unternehmen/newsroom/) page, for example).
+You create an external link for a view using the context menu of a view. Click on the three-dot icon next to the name of the view. In the "Share view" dialog you can adapt the link to your needs. Click "Create" to create the link. You can share the link in any way you like: by email, by chat, or by embedding it in a web page (as we did on our [Newsroom]({{< relref "pages/press" >}}) page, for example).
 
 ## Sending emails
 

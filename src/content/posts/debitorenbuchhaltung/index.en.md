@@ -110,4 +110,4 @@ Thanks to its enormous flexibility, SeaTable can also make your accounts receiva
 
 [To the "CRM Accounts Receivable" template](https://seatable.io/en/vorlage/wsnf1ukarv6sp5omx6a2og/)  
 [Try SeaTable in the cloud for free now]({{< relref "pages/registration" >}})  
-[Or prefer to run SeaTable Enterprise in your own data centre](/en/get-enterprise-server/)
+[Or prefer to run SeaTable Enterprise in your own data centre]({{< relref "pages/product/seatable-server" >}})

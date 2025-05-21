@@ -39,7 +39,7 @@ Para usted, como gestor de ventas, la actualización del catálogo de productos 
 
 Los enlaces externos para las bases forman parte de las funciones centrales de intercambio desde la versión 1.0 de SeaTable. Los nuevos enlaces externos para las vistas son su extensión lógica y permiten un intercambio de datos más granular con terceros externos. Como su nombre indica, un enlace externo para una vista es una URL que -independientemente de un inicio de sesión en SeaTable- otorga acceso de lectura a una vista específica de una tabla. Las filas y columnas ocultas por la configuración de la vista, así como las demás tablas de la base, permanecen ocultas para los visitantes del enlace externo.
 
-Puede crear un enlace externo para una vista a través del menú contextual de una vista. Haga clic en el icono de tres puntos situado junto al nombre de la vista. En el cuadro de diálogo "Compartir vista" puede adaptar el enlace a sus necesidades. Haga clic en "Crear" para crear el enlace. Puede compartir el enlace como desee: por correo electrónico, por chat o incrustándolo en una página web (como hemos hecho en nuestra página de [la Sala de Prensa](/es/unternehmen/newsroom/), por ejemplo).
+Puede crear un enlace externo para una vista a través del menú contextual de una vista. Haga clic en el icono de tres puntos situado junto al nombre de la vista. En el cuadro de diálogo "Compartir vista" puede adaptar el enlace a sus necesidades. Haga clic en "Crear" para crear el enlace. Puede compartir el enlace como desee: por correo electrónico, por chat o incrustándolo en una página web (como hemos hecho en nuestra página de [la Sala de Prensa]({{< relref "pages/press" >}}), por ejemplo).
 
 ## Envío por correo electrónico
 

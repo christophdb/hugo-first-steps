@@ -109,4 +109,4 @@ Graças à sua enorme flexibilidade, a SeaTable também pode fazer com que o seu
 
 [Para o modelo "Contas a Receber de CRM](https://seatable.io/pt/vorlage/wsnf1ukarv6sp5omx6a2og/)  
 [Experimente agora o SeaTable na nuvem de graça]({{< relref "pages/registration" >}})  
-[Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados](/pt/get-enterprise-server/)
+[Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados]({{< relref "pages/product/seatable-server" >}})

@@ -130,4 +130,4 @@ De que é que ainda estás à espera? A sua nova gestão da cadeia de abastecime
 
 [Para o modelo "Supply Chain Management](https://seatable.io/pt/vorlage/lrtcit5zqratbf0rpidxlw/)  
 [Experimente agora o SeaTable na nuvem de graça]({{< relref "pages/registration" >}})  
-[Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados](/pt/get-enterprise-server/)
+[Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados]({{< relref "pages/product/seatable-server" >}})

@@ -141,4 +141,4 @@ Além disso, não precisa de uma solução separada para cada área de tarefa in
 
 [Ao modelo "Gestão de ofertas CRM".](https://seatable.io/pt/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)  
 [Experimente agora o SeaTable na nuvem de graça]({{< relref "pages/registration" >}})  
-[Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados](/pt/get-enterprise-server/)
+[Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados]({{< relref "pages/product/seatable-server" >}})

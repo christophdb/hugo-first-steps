@@ -8,7 +8,7 @@ url: '/how-to-massnahmenplan'
 color: '#eeeeee'
 ---
 
-In order for companies to grow and develop, they constantly set themselves new goals and work towards them with all their resources. The action plan is a proven method for achieving these goals - for example in [project management](/en/projekt-management/), finance & controlling and [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
+In order for companies to grow and develop, they constantly set themselves new goals and work towards them with all their resources. The action plan is a proven method for achieving these goals - for example in [project management]({{< relref "pages/industry-solutions/project-management" >}}), finance & controlling and [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
 
 ## What is an action plan?
 

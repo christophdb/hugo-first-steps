@@ -141,4 +141,4 @@ En outre, vous n'avez pas besoin d'une solution distincte pour chaque domaine de
 
 [Vers le modèle "Gestion des offres CRM](https://seatable.io/fr/modele/GNx7Mg0DQKeJp6P4e5c6-w/)  
 [Essayez SeaTable dans le nuage gratuitement maintenant](/fr/enregistrement/)  
-[Ou vous préférez utiliser SeaTable Enterprise dans votre propre centre de données.](/fr/get-enterprise-server/)
+[Ou vous préférez utiliser SeaTable Enterprise dans votre propre centre de données.]({{< relref "pages/product/seatable-server" >}})

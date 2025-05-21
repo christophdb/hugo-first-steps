@@ -8,7 +8,7 @@ color: '#eeeeee'
 ---
 
 A SeaTable 3.0 está aqui! O terceiro grande lançamento do SeaTable oferece edição online de documentos do Office, validação automática de dados, mais funções para conjuntos de dados partilhados e uma nova componente de servidor para um armazenamento mais eficiente de bases. Como sempre, o [changelog](https://seatable.io/docs/changelog/version-3-0/?lang=auto) fornece informações sobre as muitas outras melhorias detalhadas e correcções de bugs na nova versão. As novas funções estão disponíveis imediatamente para os [utilizadores do SeaTable Cloud](https://cloud.seatable.io/). A imagem para SeaTable 3.0 foi disponibilizada hoje à noite em [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  
-Para além das melhorias funcionais na aplicação SeaTable, existe outra nova funcionalidade para os utilizadores do SeaTable Cloud: uma nova gestão de equipas com funções alargadas e design melhorado torna a gestão de equipas pequenas e especialmente maiores muito mais fácil. Pode saber mais sobre a nova gestão de equipas no artigo [A nova gestão de equipas](/pt/teamadministration/).
+Para além das melhorias funcionais na aplicação SeaTable, existe outra nova funcionalidade para os utilizadores do SeaTable Cloud: uma nova gestão de equipas com funções alargadas e design melhorado torna a gestão de equipas pequenas e especialmente maiores muito mais fácil. Pode saber mais sobre a nova gestão de equipas no artigo [A nova gestão de equipas]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Validação automática de dados
 
