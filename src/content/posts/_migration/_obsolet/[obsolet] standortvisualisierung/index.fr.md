@@ -1,9 +1,10 @@
 ---
-title: "La visualisation de site simplifiée avec SeaTable | SeaTable"
+title: 'La visualisation de site simplifiée avec SeaTable | SeaTable'
 date: 2020-08-19
-lastmod: "2023-05-17"
-author: "rbu"
-url: "/fr/standortvisualisierung"
+lastmod: '2023-05-17'
+author: 'rbu'
+url: '/fr/standortvisualisierung'
+color: '#eeeeee'
 ---
 
 ## Le plugin de cartographie de SeaTable

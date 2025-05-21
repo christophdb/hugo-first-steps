@@ -1,9 +1,10 @@
 ---
-title: "Gestão mais fácil da sua equipa - a nova gestão de equipas - SeaTable"
+title: 'Gestão mais fácil da sua equipa - a nova gestão de equipas - SeaTable'
 date: 2022-06-21
-lastmod: "2022-06-20"
-author: "rdb"
-url: "/pt/teamadministration"
+lastmod: '2022-06-20'
+author: 'rdb'
+url: '/pt/teamadministration'
+color: '#eeeeee'
 ---
 
 Com a actualização do SeaTable Cloud para a versão 3.0, os assinantes do SeaTable Cloud não só beneficiam das muitas funções novas e melhoradas do [lançamento principal](/pt/seatable-release-3-0), mas também de uma nova gestão de equipas que simplifica a gestão de equipas pequenas e especialmente maiores. Foram acrescentadas novas funções, as funções existentes foram expandidas e um novo design cria mais clareza e facilidade de utilização. Temos o prazer de apresentar a nova gestão da equipa e as mudanças mais importantes neste artigo.
@@ -12,7 +13,7 @@ Com a actualização do SeaTable Cloud para a versão 3.0, os assinantes do SeaT
 
 A "antiga" gestão de equipas do SeaTable Cloud é um módulo do [SeaTable Server](/pt/on-premises/?lang=auto/). (O SeaTable Server é o software por detrás do SeaTable Cloud, que também está disponível para instalação no seu próprio servidor). Como tal, fornece todas as funções de gestão necessárias para as equipas utilizarem dentro de uma organização (nuvem privada). No entanto, não oferece funções de gestão de subscrições ou integração com um fornecedor de serviços de pagamento.
 
-![&quot;Administração da equipa &quot;antiga](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
+!["Administração da equipa "antiga](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
 
 Estas funções, que são necessárias para o funcionamento de uma solução com um grupo geral de utilizadores (nuvem pública), foram complementadas individualmente para o SeaTable Cloud. Em termos de experiência do utilizador, a gestão da equipa ficou aquém dos padrões habituais, apesar da complexidade técnica comparativamente elevada. Expandir uma equipa, por exemplo, primeiro era necessário adicionar um ou mais utilizadores à subscrição antes que utilizadores adicionais pudessem então ser registados noutro menu. O resultado foram numerosos pedidos de apoio, incluindo a frustração associada devido a este procedimento invulgar.
 
@@ -54,7 +55,7 @@ A administração da sua assinatura - e isto inclui o cancelamento da sua assina
 
 Na nova área de conta podemos agora também oferecer pagamento por conta para actualizações de Free para Enterprise. Basta seleccionar a factura como o método de pagamento ao actualizar. (Os pré-requisitos para pagamento de facturas são pagamento anual e pelo menos 10 utilizadores).
 
-No separador _Bilhetes _todas as facturas da sua equipa e o seu estado de pagamento são listados. Também pode descarregar uma factura. Para o fazer, clicar no número da factura na última coluna.__
+No separador \_Bilhetes \_todas as facturas da sua equipa e o seu estado de pagamento são listados. Também pode descarregar uma factura. Para o fazer, clicar no número da factura na última coluna.\_\_
 
 ### API & Integração
 

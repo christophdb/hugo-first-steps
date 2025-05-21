@@ -1,10 +1,11 @@
 ---
-title: "Plugins for a more efficient workflow | SeaTable"
+title: 'Plugins for a more efficient workflow | SeaTable'
 date: 2020-08-18
-lastmod: "2023-05-17"
-coverImage: "ian-dooley-DJ7bWa-Gwks-unsplash-scaled-1.jpg"
-author: "rbu"
-url: "/seatable-plugins"
+lastmod: '2023-05-17'
+coverImage: 'ian-dooley-DJ7bWa-Gwks-unsplash-scaled-1.jpg'
+author: 'rbu'
+url: '/seatable-plugins'
+color: '#eeeeee'
 ---
 
 ## Get to know the plugins of SeaTable

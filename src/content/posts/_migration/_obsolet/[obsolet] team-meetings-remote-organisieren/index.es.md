@@ -1,9 +1,10 @@
 ---
-title: "Organice fácilmente reuniones de equipo a distancia con SeaTable"
+title: 'Organice fácilmente reuniones de equipo a distancia con SeaTable'
 date: 2020-08-31
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/es/team-meetings-remote-organisieren"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/es/team-meetings-remote-organisieren'
+color: '#eeeeee'
 ---
 
 ## Organice sus reuniones semanales de equipo con SeaTable

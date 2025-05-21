@@ -1,10 +1,11 @@
 ---
-title: "Create cost-benefit analysis"
+title: 'Create cost-benefit analysis'
 date: 2024-03-04
-lastmod: "2025-02-20"
-coverImage: "Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg"
-author: "cdb"
-url: "/kosten-nutzen-analyse-vorlage"
+lastmod: '2025-02-20'
+coverImage: 'Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg'
+author: 'cdb'
+url: '/kosten-nutzen-analyse-vorlage'
+color: '#eeeeee'
 ---
 
 In everyday business life, it is not always easy to make the right decisions. You have to consider many aspects and factors and often have to assess the effect of certain measures without any experience. How successful your company is depends on one thing in particular: the basis on which your decisions are made. It's good that you can put your decisions on a solid footing with a **cost-benefit analysis**.
@@ -70,15 +71,15 @@ The furniture store "Gemütlich Wohnen" employs a total of ten customer advisors
 
 On the other hand, there is the profit that this further training measure could bring. The business owners know the exact **costs** of the training, i.e. course fees, accommodation, travel and loss of earnings. They have also defined a figure for **the expected benefit** in the form of improved work processes and increased turnover. In order to be able to assess whether this investment is worthwhile, the business owners prepare the following cost-benefit analysis:
 
-| Effort factor | Costs | Benefit factor | Expected benefit |
-| --- | --- | --- | --- |
-| Course fee | 2.500 € | Improved workflows | 3.300 € |
-| Travel expenses | 1.500 € | increased sales | 16.000 € |
-| Overnight stay | 1.650 € |  |  |
-| Loss of earnings | 2.200 € |  |  |
-|  |  |  |  |
-|  | Total cost |  | Total benefits |
-|  | 7.850 € |  | 19.300 € |
+| Effort factor    | Costs      | Benefit factor     | Expected benefit |
+| ---------------- | ---------- | ------------------ | ---------------- |
+| Course fee       | 2.500 €    | Improved workflows | 3.300 €          |
+| Travel expenses  | 1.500 €    | increased sales    | 16.000 €         |
+| Overnight stay   | 1.650 €    |                    |                  |
+| Loss of earnings | 2.200 €    |                    |                  |
+|                  |            |                    |                  |
+|                  | Total cost |                    | Total benefits   |
+|                  | 7.850 €    |                    | 19.300 €         |
 
 The CBA allows the business owners to compare the total costs of 7,850 euros with the expected total benefit of over 19,000 euros. This enables them to see that the planned investment would be worthwhile in the long term.
 
@@ -87,11 +88,11 @@ The CBA allows the business owners to compare the total costs of 7,850 euros wit
 In addition to the classic cost-benefit analysis, there are [other forms and methods](https://de.wikipedia.org/wiki/Kosten-Nutzen-Analyse) for quantifying the profitability of projects and ensuring the efficient use of financial resources.
 
 - **Cost minimization studies / Cost minimization studies:**  
-    Here you evaluate the costs of different methods (e.g. healthcare treatments) and compare them with each other. Each method must achieve a comparable result (e.g. full recovery). The most favorable method wins.
+   Here you evaluate the costs of different methods (e.g. healthcare treatments) and compare them with each other. Each method must achieve a comparable result (e.g. full recovery). The most favorable method wins.
 - **Cost-effectiveness analysis:**  
-    This is a tool for assessing the cost-effectiveness of projects whose benefits cannot be measured in monetary terms (e.g. lives saved, satisfied customers, improved environmental quality). The result is a quotient of the costs or monetary units divided by the benefits or outcome units.
+   This is a tool for assessing the cost-effectiveness of projects whose benefits cannot be measured in monetary terms (e.g. lives saved, satisfied customers, improved environmental quality). The result is a quotient of the costs or monetary units divided by the benefits or outcome units.
 - **Cost-utility analysis:**  
-    This analysis is one of the qualitative, non-monetary methods of decision theory. You can also evaluate complex issues and minimize the risk of wrong decisions by including non-monetarily measurable factors such as increasing quality.
+   This analysis is one of the qualitative, non-monetary methods of decision theory. You can also evaluate complex issues and minimize the risk of wrong decisions by including non-monetarily measurable factors such as increasing quality.
 
 ## You can find a suitable template here
 

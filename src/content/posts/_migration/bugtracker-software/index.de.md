@@ -1,9 +1,10 @@
 ---
-title: "Effektives Software Testing: So optimieren Sie die Fehlersuche"
+title: 'Effektives Software Testing: So optimieren Sie die Fehlersuche'
 date: 2021-11-19
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/de/bugtracker-software"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/de/bugtracker-software'
+color: '#eeeeee'
 ---
 
 # Effektives Software Testing: So optimieren Sie die Fehlersuche

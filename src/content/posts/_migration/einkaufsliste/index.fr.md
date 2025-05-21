@@ -1,9 +1,10 @@
 ---
-title: "Liste de courses & app : Comparaison de 7 listes de courses numériques"
+title: 'Liste de courses & app : Comparaison de 7 listes de courses numériques'
 date: 2024-02-05
-lastmod: "2024-02-05"
-author: "nsc"
-url: "/fr/einkaufsliste"
+lastmod: '2024-02-05'
+author: 'nsc'
+url: '/fr/einkaufsliste'
+color: '#eeeeee'
 ---
 
 Dans le rythme effréné de la vie quotidienne, aller au supermarché peut devenir un véritable défi entre toutes les obligations professionnelles et privées. Les jours de stress, il n'est pas rare que l'on oublie également la liste de courses que l'on a péniblement établie à la maison. Mais ne vous inquiétez pas - une **liste de courses / application numérique** peut remédier efficacement à de telles situations.
@@ -50,7 +51,7 @@ Que ce soit la gestion et le tri des **catégories d'aliments** ou les **recette
 
 - Aucun inconvénient majeur
 
-![L&#039;application &quot;La liste des courses ](images/Die-Einkaufsliste-711x971.jpg)
+![L'application "La liste des courses ](images/Die-Einkaufsliste-711x971.jpg)
 
 Voici à quoi ressemble "La liste des courses".
 
@@ -72,7 +73,7 @@ L'application permet également d'envoyer **des messages prédéfinis** aux colo
 
 - Aucun inconvénient majeur
 
-![L&#039;application de liste de courses &quot;Bring !](images/Bring-711x1022.jpg)
+![L'application de liste de courses "Bring !](images/Bring-711x1022.jpg)
 
 L'application de liste de courses "Bring !
 
@@ -115,7 +116,7 @@ Si vous enregistrez vos **recettes** dans l'application, vous pourrez ajouter le
 - Aucune offre
 - Un nombre illimité de listes et de modèles est payant
 
-![L&#039;application &quot;ToBuy](images/ToBuy-711x1086.jpg)
+![L'application "ToBuy](images/ToBuy-711x1086.jpg)
 
 L'application "ToBuy" en mode sombre
 
@@ -136,7 +137,7 @@ Ici, il est certes possible **de procéder à différents regrou** pements et **
 - Aucune offre
 - Pas de fonctionnalités intelligentes
 
-![L&#039;application de liste de courses &quot;WeNeed](images/WeNeed-711x1083.jpg)
+![L'application de liste de courses "WeNeed](images/WeNeed-711x1083.jpg)
 
 L'application "WeNeed
 

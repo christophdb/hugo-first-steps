@@ -1,9 +1,10 @@
 ---
-title: "Seguimiento de horas más fácil: plantilla gratuita de SeaTable - SeaTable"
+title: 'Seguimiento de horas más fácil: plantilla gratuita de SeaTable - SeaTable'
 date: 2020-08-28
-lastmod: "2023-04-27"
-author: "rbu"
-url: "/es/stundenerfassung-mit-seatable"
+lastmod: '2023-04-27'
+author: 'rbu'
+url: '/es/stundenerfassung-mit-seatable'
+color: '#eeeeee'
 ---
 
 El registro electrónico de las horas de trabajo aún no es obligatorio, pero [si el Ministerio Federal de Trabajo](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html) se sale con la suya, pronto lo será. Una sencilla [plantilla para el](https://seatable.io/es/arbeitszeiterfassung/) registro de las horas de trabajo le ofrece aquí un remedio. Con SeaTable tendrá a mano un formulario para registrar las horas de sus empleados y, al mismo tiempo, una tabla clara en la que podrá ver todas las horas trabajadas.

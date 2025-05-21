@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.3 : Amélioration de l’éditeur de formulaires et de la prise en charge des e-mails HTML"
+title: 'SeaTable 3.3 : Amélioration de l’éditeur de formulaires et de la prise en charge des e-mails HTML'
 date: 2022-12-13
-lastmod: "2022-12-15"
-author: "rdb"
-url: "/fr/seatable-release-3-3"
+lastmod: '2022-12-15'
+author: 'rdb'
+url: '/fr/seatable-release-3-3'
+color: '#eeeeee'
 ---
 
 Les fans de SeaTable reçoivent dès aujourd'hui leur cadeau de Noël : la version 3.3 de SeaTable et ses nombreuses améliorations et nouveautés. L'éditeur de formulaires entièrement revu dans un design en bloc offre de nouvelles libertés et des fonctions supplémentaires pour la conception et l'utilisation de formulaires Web. Outre les e-mails texte, SeaTable envoie désormais aussi des e-mails HTML formatés. L'éditeur de texte formaté amélioré à cet effet fait de cette opération un jeu d'enfant. Et les colonnes de paiement offrent désormais une validation automatique des données, comme c'est déjà le cas pour les colonnes de texte. Les utilisateurs qui gèrent ou souhaitent gérer des données en masse dans SeaTable trouveront également leur compte dans SeaTable 3.3. Désormais, SeaTable peut importer et exporter des centaines de milliers de lignes d'un fichier XLSX directement dans la mémoire du Big Data. Vous avez envie d'en savoir plus ? Alors lisez la suite !
@@ -18,7 +19,7 @@ Dans l'éditeur de formulaires web révisé, les "blocs" remplacent les curseurs
 
 Les nombreux avantages du design en bloc sont convaincants : les champs du formulaire peuvent être placés dans n'importe quel ordre. L'ordre des champs du formulaire ne doit pas nécessairement correspondre à l'ordre des colonnes dans le tableau. Chaque formulaire peut avoir une séquence de champs individuelle. Bien entendu, tous les blocs du formulaire peuvent être déplacés ultérieurement. Pour échanger l'ordre de deux champs, il suffit de faire glisser le champ inférieur sur le champ supérieur (ou inversement) et vous avez déjà optimisé la séquence. Avec le nouvel éditeur, c'est à vous de décider quels champs vous utilisez dans les formulaires et dans quel ordre.
 
-****Mais le design des blocs peut aller plus loin. Deux blocs pour le contenu statique complètent les blocs pour les champs de saisie. Le bloc **Ligne horizontale** permet de structurer un formulaire de manière thématique ; le bloc **Annotations** permet de placer un texte explicatif dans le formulaire. Comme les blocs d'annotations**** permettent de travailler de ****manière plus flexible que les anciennes**notes du formulaire web**, ces dernières disparaissent de la barre latérale des paramètres et laissent la place à d'autres éléments.
+\***\*Mais le design des blocs peut aller plus loin. Deux blocs pour le contenu statique complètent les blocs pour les champs de saisie. Le bloc **Ligne horizontale** permet de structurer un formulaire de manière thématique ; le bloc **Annotations** permet de placer un texte explicatif dans le formulaire. Comme les blocs d'annotations\*\*** permettent de travailler de \***\*manière plus flexible que les anciennes**notes du formulaire web\*\*, ces dernières disparaissent de la barre latérale des paramètres et laissent la place à d'autres éléments.
 
 Trois nouvelles fonctions complètent la transformation de l'éditeur. Dans le message de soumission, il est désormais possible de faire référence à des colonnes dans le tableau du formulaire. Il peut s'agir d'un champ qui a été rempli dans le formulaire ou d'une valeur générée ou calculée à partir d'une formule. Plus rien ne s'oppose ainsi à un remerciement personnel du déposant ou à l'affichage d'un numéro de traitement. La deuxième nouvelle fonction est l'option "Activation requise" pour les cases à cocher. Si cette option est activée, le formulaire ne peut être soumis que si la case correspondante est cochée. Cela est utile lorsque vous devez obtenir un accord, par exemple pour les conditions d'utilisation ou le traitement des données personnelles. Troisièmement, vous pouvez désormais rendre tous les champs de votre formulaire obligatoires en un seul clic.
 

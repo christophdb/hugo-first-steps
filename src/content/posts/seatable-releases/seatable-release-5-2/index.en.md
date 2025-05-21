@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 5.2: Advanced filters in the base and a new plugin"
+title: 'SeaTable 5.2: Advanced filters in the base and a new plugin'
 date: 2025-02-25
-lastmod: "2025-02-25"
-author: "rdb"
-url: "/seatable-release-5-2"
+lastmod: '2025-02-25'
+author: 'rdb'
+url: '/seatable-release-5-2'
+color: '#eeeeee'
 ---
 
 The second minor release of version 5 of SeaTable contains numerous bug fixes and detail improvements to make working with SeaTable even easier and to support your use cases even better: In Bases, the **new filter groups** enable a much more precise selection of data (records). Cross-column filters in conditional rows and cell formatting allow a previously impossible action-oriented highlighting of data. In the **App Builder**, every page type benefits from major and minor improvements of various kinds - extended authorizations, better usability and more functions. SeaTable 5.2 also includes a new **whiteboard plugin** and improvements to the page design and calendar plugins. As always, you can find the complete list of changes in the [changelog](https://seatable.io/en/docs/changelog/version-5/).
@@ -50,7 +51,7 @@ The **preset filters** in the data settings now allow the selection of all relev
 
 The [individual page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) has a new statistics type: the **simple table** allows - similar to the [table page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - the tabular display of a data set that has been pre-filtered and pre-sorted by the app admin. Unlike the table page, the new statistics type makes it possible to combine two or more tables on one page. In version 5.2, app users cannot set their own filter and sorting rules. We will add this function in the future.
 
-![New chart type &quot;Basic table&quot;](images/BasicTable.png)
+![New chart type "Basic table"](images/BasicTable.png)
 
 ### Page type Calendar
 

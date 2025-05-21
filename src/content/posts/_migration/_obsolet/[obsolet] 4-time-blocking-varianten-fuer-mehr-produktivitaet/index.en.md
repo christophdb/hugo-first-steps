@@ -1,10 +1,11 @@
 ---
-title: "4 Time Blocking Variants for More Productivity - SeaTable"
+title: '4 Time Blocking Variants for More Productivity - SeaTable'
 date: 2021-06-16
-lastmod: "2023-07-11"
-coverImage: "stop-1.jpg"
-author: "ott"
-url: "/4-time-blocking-varianten-fuer-mehr-produktivitaet"
+lastmod: '2023-07-11'
+coverImage: 'stop-1.jpg'
+author: 'ott'
+url: '/4-time-blocking-varianten-fuer-mehr-produktivitaet'
+color: '#eeeeee'
 ---
 
 Everyday work is often stressful and sometimes it just doesn't go as you had imagined in the morning. Your plans for the day have been completely disrupted by phone calls, meetings and emails and at the end of the day you ask yourself: what did I actually manage to do? To prevent such situations from arising again, you should familiarise yourself with Time Blocking.

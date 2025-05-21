@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 2.3: Even more deployment flexibility with archive function - SeaTable"
+title: 'SeaTable 2.3: Even more deployment flexibility with archive function - SeaTable'
 date: 2021-09-02
-lastmod: "2023-07-11"
-coverImage: "SeaTable-2-3.png"
-author: "rdb"
-url: "/seatable-release-2-3"
+lastmod: '2023-07-11'
+coverImage: 'SeaTable-2-3.png'
+author: 'rdb'
+url: '/seatable-release-2-3'
+color: '#eeeeee'
 ---
 
 SeaTable version 2.3, available since today, is getting ready to conquer new fields of application. With the archive function, which is presented as a beta in this release, SeaTable is now also recommended for data-intensive use cases: Tables with millions of data records can be stored and evaluated in SeaTable. It is the focus of these release notes. Further innovations and improvements are presented in an overview. The complete list of changes can be found - as always - in the [SeaTable Changelog](https://seatable.io/en/docs/changelog/version-2-3/).
@@ -21,19 +22,18 @@ In terms of evaluation and analysis options, the differences between active and 
 
 The central difference is the support of online collaboration in real time: The active rows are completely loaded into the working memory when the table is called up. Every change in a table can thus be transmitted immediately to other users. Archived data is different: When a table is opened, only the first 1,000 rows are loaded from the archive. Additional data can be retrieved page by page. This renunciation of complete loading allows fast display in the web interface, even of tables with many hundreds of thousands rows, but also means renouncing real-time collaboration.
 
-|  | Normal view | View incl.   archived data |
-| --- | --- | --- |
-| Collaborative work | ✓ |  |
-| Support for all column types | ✓ | ✓# |
-| Plugin support | ✓ | ✓ \* |
-| Read and write access | ✓ | ✓ \* |
-| Sorting | ✓ | ✓ |
-| Filtering | ✓ | ✓ |
-| Grouping | ✓ |  |
-| Hide | ✓ | ✓ \* |
-| Search | ✓ | ✓ \* |
+|                              | Normal view | View incl. archived data |
+| ---------------------------- | ----------- | ------------------------ |
+| Collaborative work           | ✓           |                          |
+| Support for all column types | ✓           | ✓#                       |
+| Plugin support               | ✓           | ✓ \*                     |
+| Read and write access        | ✓           | ✓ \*                     |
+| Sorting                      | ✓           | ✓                        |
+| Filtering                    | ✓           | ✓                        |
+| Grouping                     | ✓           |                          |
+| Hide                         | ✓           | ✓ \*                     |
+| Search                       | ✓           | ✓ \*                     |
 
-  
 \# In version 2.3, all column types are supported with the exception of formulas and links.  
 \* These functions are not yet available in version 2.3.
 
@@ -67,7 +67,6 @@ The table history and comments are not part of the information that one would no
 
 After [default values for columns](https://seatable.io/en/seatable-release-2-0/?lang=auto), there are now also default values for form fields in version 2.3. And not only static default values are supported: The variables _creator.id_ and _creator.name_ automatically insert the user ID or user name in the form field for logged-in users.
 
-  
 ![Default values in forms](images/Default-values-forms-1088x974.png)
 
 ### Preview for the column type formatted text

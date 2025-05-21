@@ -1,9 +1,10 @@
 ---
-title: "Informe de gastos de viaje: todo lo que necesita saber"
+title: 'Informe de gastos de viaje: todo lo que necesita saber'
 date: 2025-01-17
-lastmod: "2025-01-17"
-author: "nsc"
-url: "/es/reisekostenabrechnung"
+lastmod: '2025-01-17'
+author: 'nsc'
+url: '/es/reisekostenabrechnung'
+color: '#eeeeee'
 ---
 
 La Ley del Impuesto sobre la Renta describe tres categorías de **gastos** que los trabajadores pueden hacer que **les reembolse** su empresa. Además de los pedidos realizados por cuenta de la empresa y los gastos en que se incurre para cumplir un pedido, esto también se aplica a los **viajes de negocios**. Ya se trate de un viaje de negocios de varios días, una reunión con un cliente lejano o el desplazamiento a una feria, los viajes de negocios forman parte de la vida cotidiana de muchos empleados. En el siguiente artículo, no sólo aprenderá qué es un **informe de gastos de viaje**, sino que también recibirá valiosos consejos sobre cómo crear uno.

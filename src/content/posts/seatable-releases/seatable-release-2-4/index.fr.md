@@ -1,9 +1,10 @@
 ---
 title: "SeaTable 2.4 : Amélioration des options d'affichage pour un travail plus rapide - SeaTable"
 date: 2021-10-19
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/fr/seatable-release-2-4"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/fr/seatable-release-2-4'
+color: '#eeeeee'
 ---
 
 SeaTable 2.4 a vu le jour ! La dernière incarnation du serveur SeaTable a été téléchargée sur [Docker](https://hub.docker.com/u/seatable) Hub à la fin de la semaine dernière et SeaTable Cloud a été mis à jour ce matin. La nouvelle version offre un grand nombre d'améliorations et de nouvelles fonctionnalités : La navigation dans les vues est désormais ancrable, le type de colonne Lien vers d'autres entrées offre des paramètres avancés, une nouvelle opération de traitement des données et une opération améliorée rendent l'analyse quantitative plus facile. En outre, une nouvelle mise en forme conditionnelle permet de gérer les grands ensembles de données. Et ce ne sont là que les fonctions qui se distinguent de la masse. SeaTable 2.4 offre bien plus encore. Vous trouverez les informations les plus importantes sur la nouvelle version dans ces notes de mise à jour. Vous trouverez la liste complète des modifications - comme toujours dans le [changelog](https://seatable.io/fr/docs/changelog/version-2-4/).
@@ -28,7 +29,7 @@ Dans les versions précédentes de SeaTable, le lien affichait toujours la valeu
 
 Vous voulez identifier tous les doublons dans votre tableau ? Avec SeaTable 2.4, vous avez désormais non pas une, mais deux possibilités pour le faire : vous pouvez utiliser le plug-in de déduplication des données ou la nouvelle option de mise en forme conditionnelle "Mettre en évidence les doublons". Cette option de formatage met en évidence toutes les lignes en double dans le tableau actif. En sélectionnant les colonnes de comparaison, vous pouvez définir exactement ce qui constitue un doublon.
 
-![Nouvelle option de formatage conditionnel &quot;Mettre en évidence les doublons](images/Highlight_duplicates_1448x554.png)
+![Nouvelle option de formatage conditionnel "Mettre en évidence les doublons](images/Highlight_duplicates_1448x554.png)
 
 Le grand avantage du formatage conditionnel par rapport au plugin est le fait que vous ne quittez pas l'éditeur de tableaux. Les doublons sont affichés et vous pouvez modifier les lignes, les supprimer et utiliser des filtres et des tris. (Le plugin reste l'outil de choix si vous souhaitez supprimer automatiquement tous les doublons).
 

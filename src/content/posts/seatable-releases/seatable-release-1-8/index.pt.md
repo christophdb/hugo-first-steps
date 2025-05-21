@@ -1,12 +1,13 @@
 ---
-title: "SeaTable 1.8: mais colaboração e um novo tipo de coluna - SeaTable"
+title: 'SeaTable 1.8: mais colaboração e um novo tipo de coluna - SeaTable'
 date: 2021-03-18
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/pt/seatable-release-1-8"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/pt/seatable-release-1-8'
+color: '#eeeeee'
 ---
 
-Hoje disponibilizámos o SeaTable 1.8 no [SeaTable Cloud](https://cloud.seatable.io) e estamos convencidos de que concordará: SeaTable 1.8 é óptimo! Está repleto de novas características e adições de funcionalidades, bem como de um grande número de pequenos melhoramentos. Tal como no passado, apresentamos as novidades mais importantes na nota de lançamento. Desta vez foi particularmente difícil concentrarmo-nos nos cinco destaques. Encontrará a lista completa de alterações - como sempre - no changelog. Iremos carregar a imagem Docker para Docker Hub nos próximos dias.  
+Hoje disponibilizámos o SeaTable 1.8 no [SeaTable Cloud](https://cloud.seatable.io) e estamos convencidos de que concordará: SeaTable 1.8 é óptimo! Está repleto de novas características e adições de funcionalidades, bem como de um grande número de pequenos melhoramentos. Tal como no passado, apresentamos as novidades mais importantes na nota de lançamento. Desta vez foi particularmente difícil concentrarmo-nos nos cinco destaques. Encontrará a lista completa de alterações - como sempre - no changelog. Iremos carregar a imagem Docker para Docker Hub nos próximos dias.
 
 ## Altura variável das filas
 
@@ -72,4 +73,4 @@ E, claro, também corrigimos alguns bugs:
 - As condições de filtragem da coluna de selecção única foram adaptadas às da coluna de selecção múltipla.
 - A caixa de verificação e as colunas de selecção múltipla podem agora ser ordenadas.
 - A função de pesquisa inclui agora membros do pessoal, bem como colunas de selecção simples e múltiplas.
-- A opção FREEZE\_USER\_ON\_LOGIN\_FAILED, que faz com que as contas dos utilizadores sejam bloqueadas após um certo número de tentativas de login não autorizadas, funciona agora novamente. [Graças ao mtmail do utilizador por ter apontado este facto.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)
+- A opção FREEZE_USER_ON_LOGIN_FAILED, que faz com que as contas dos utilizadores sejam bloqueadas após um certo número de tentativas de login não autorizadas, funciona agora novamente. [Graças ao mtmail do utilizador por ter apontado este facto.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)

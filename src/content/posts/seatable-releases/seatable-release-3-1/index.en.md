@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 3.1: Enhanced page design plugin and new big data backend"
+title: 'SeaTable 3.1: Enhanced page design plugin and new big data backend'
 date: 2022-08-26
-lastmod: "2022-08-26"
-coverImage: "SeaTable-3.1-Feature.jpg"
-author: "rdb"
-url: "/seatable-release-3-1"
+lastmod: '2022-08-26'
+coverImage: 'SeaTable-3.1-Feature.jpg'
+author: 'rdb'
+url: '/seatable-release-3-1'
+color: '#eeeeee'
 ---
 
 We are happy to introduce the latest version of SeaTable! The release is only a "minor" release, but it comes along quite big. The advanced page design plugin now offers more options to design and manage sophisticated templates. New features also allow for completely new usage scenarios. The Big Data Backend, which goes live with version 3.1, does the same. The Enterprise feature breaks SeaTable's previous limit of 100,000 rows per base, making SeaTable ready for larger tasks. Larger teams will be pleased with the ability to sort groups on the home page and categorize views in Bases. These highlights and a few other new features are presented here. The changelog contains the complete list of changes.
@@ -15,13 +16,13 @@ The new features are now available on [SeaTable Cloud](https://cloud.seatable.io
 
 Being packed with new functions, the page design plugin almost merits release notes of its own. What's new? A list print function, new dynamic fields including page header and footer, as well as a version history for every template. Not surprisingly, the sidebar has become considerably more button-rich in the edit mode (see image below) as a result. Last but not least, the templates in the plugin can now also be moved and sorted in the overview. But now everything in order.
 
-![List print feature in SeaTable&#039;s Page Design plugin](images/SeaTable-3.1-List-Print.gif)
+![List print feature in SeaTable's Page Design plugin](images/SeaTable-3.1-List-Print.gif)
 
 The new list printing feature puts the contents of a view on paper or in a PDF document in no time at all with an attractive design. Simply drag the "All View Entries" element onto the template, resize the placeholder, format the table according to your preferences and add the remaining page elements such as document title, logo and date. SeaTable will then automatically take care of the table layout and pagination when printing if the rows of the selected view does not fit into the placeholder. SeaTable adds as many pages as necessary for this.
 
 The dynamic fields introduced in this new release make it super easy to insert contextual information on a page. Specifically, the current date, the template used, the current user, and the page number can be added to a page with them. In terms of usage, dynamic fields are no different from static text fields. Simply drag the field onto the templates, position it correctly, and format it - SeaTable takes care of the rest.
 
-![Page header in SeaTable&#039;s Page Design plugin](images/SeaTable-3.1-Page-Header.png)
+![Page header in SeaTable's Page Design plugin](images/SeaTable-3.1-Page-Header.png)
 
 The new page header and footers are an ideal complement for the dynamic elements. Elements placed in either get repeated on every page of the template, of course including the pages that the plugin automatically adds when printing lists. Page headers and footers are not reserved exclusively for dynamic elements. The two fields static text and static image can also be embedded to provide documents with meaningful meta information.
 
@@ -43,24 +44,23 @@ The previous size limit was necessary because SeaTable loads a base completely i
 
 The big data backend supports all column types. Rows can be modified and deleted, filtered and grouped. Records can also be moved back and forth between normal and big data storage. On the other hand, the editing options for records in the big data storage lag those in normal storage for technical reasons. Restrictions exist especially for sharing, automations and plugins: Views that include data from the big data backend cannot be shared. Also, only the statistics plugin can handle data sets in the big data storage. All other plugins and also automations can only operate on normal views. Big data records cannot be linked either. If this is required, then they must first be moved back to normal storage.
 
-|  | Normal view | Big Data View |
-| --- | --- | --- |
-| Collaborative work | ✓ |  |
-| Support for all plugins | ✓ |  |
-| Support for all column types | ✓ | ✓ |
-| Sorting | ✓ | ✓ |
-| Filtering | ✓ | ✓ |
-| Grouping | ✓ | ✓# |
-| Hide | ✓ | ✓ |
-| Conditional formatting | ✓ |  |
-| Search | ✓ | ✓ |
-| Search and replace | ✓ |  |
-| Data processing | ✓ |  |
-| Export to Excel | ✓ | ✓ |
-| Export to DTABLE | ✓ |  |
+|                              | Normal view | Big Data View |
+| ---------------------------- | ----------- | ------------- |
+| Collaborative work           | ✓           |               |
+| Support for all plugins      | ✓           |               |
+| Support for all column types | ✓           | ✓             |
+| Sorting                      | ✓           | ✓             |
+| Filtering                    | ✓           | ✓             |
+| Grouping                     | ✓           | ✓#            |
+| Hide                         | ✓           | ✓             |
+| Conditional formatting       | ✓           |               |
+| Search                       | ✓           | ✓             |
+| Search and replace           | ✓           |               |
+| Data processing              | ✓           |               |
+| Export to Excel              | ✓           | ✓             |
+| Export to DTABLE             | ✓           |               |
 
-  
-\# This function will be available from SeaTable 3.2. 
+\# This function will be available from SeaTable 3.2.
 
 The Big Data memory must be activated in a Base via the settings. The transfer of data from the normal to the Big Data memory takes place via the "Archive view" function. The contents of the Big Data memory can be displayed in a Big Data view. Big Data views load data from the Big Data store in addition to the records in the normal store. Initially, the view loads only 1,000 rows from the Big Data store. These can be identified in the Table Editor by the gray triangle in the row number column. Using the context menu, such rows can be moved back to the normal memory. To view more Big Data rows , scroll past the end of the table or click "Load All" in the status bar.
 

@@ -1,9 +1,10 @@
 ---
-title: "Cómo crear una gestión digital de productos con SeaTable - SeaTable"
+title: 'Cómo crear una gestión digital de productos con SeaTable - SeaTable'
 date: 2021-10-07
-lastmod: "2023-07-11"
-author: "ott"
-url: "/es/digitales-produktmanagement"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/es/digitales-produktmanagement'
+color: '#eeeeee'
 ---
 
 La gestión digital de productos es indispensable para tratar los productos en la época actual. Porque digitalmente, muchas cosas son mucho más fáciles que antes. Uno de los objetivos es mapear las distintas interfaces de toda la gestión del producto de principio a fin y recopilar toda la información de forma completa y compacta. A menudo hay que cambiar de un programa a otro y de una herramienta a otra, pero con SeaTable esto ya no es necesario.
@@ -56,7 +57,7 @@ En nuestro ejemplo, hemos creado directamente cálculos para el margen con el fi
 
 En la parte derecha de la pantalla aparecen los enlaces a la tabla "Catálogo" y "Proyectos". El primer enlace sirve para pasar correctamente algunos datos de la ficha de producto al catálogo, ya que algunas informaciones son las mismas. La tabla "Datos del producto" sirve de tabla maestra; cada vez que se modifican cosas en ella, como el precio de compra, estos valores se cambian automáticamente en el catálogo a través del enlace. De este modo, ya no es necesario modificar manualmente los precios de compra.
 
-La conexión con la tabla "Proyectos" se utiliza para vincular la gestión de proyectos en torno a estos productos directamente con la ficha de datos del producto. De este modo, los proyectos planificados, en curso y finalizados y las medidas de marketing en torno a los productos se vinculan a los propios productos y su gestión de productos digitales se convierte en un asunto completo.  
+La conexión con la tabla "Proyectos" se utiliza para vincular la gestión de proyectos en torno a estos productos directamente con la ficha de datos del producto. De este modo, los proyectos planificados, en curso y finalizados y las medidas de marketing en torno a los productos se vinculan a los propios productos y su gestión de productos digitales se convierte en un asunto completo.
 
 ## Gestión de proyectos y tareas
 

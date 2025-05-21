@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.3: Melhor suporte ao editor de formulários e suporte de e-mail HTML"
+title: 'SeaTable 3.3: Melhor suporte ao editor de formulários e suporte de e-mail HTML'
 date: 2022-12-13
-lastmod: "2022-12-15"
-author: "rdb"
-url: "/pt/seatable-release-3-3"
+lastmod: '2022-12-15'
+author: 'rdb'
+url: '/pt/seatable-release-3-3'
+color: '#eeeeee'
 ---
 
 Os fãs de SeaTable receberão hoje o seu presente de Natal: Versão 3.3 de SeaTable com os seus numerosos melhoramentos e inovações. O editor de formulários completamente revisto no desenho de blocos oferece nova liberdade e funções adicionais para o desenho e utilização de formulários web. Além dos e-mails de texto, o SeaTable envia agora também e-mails HTML formatados. O editor ampliado para texto formatado faz a brincadeira desta criança. E as colunas de pagamento oferecem agora validação automática de dados como já é conhecido a partir de colunas de texto. Os utilizadores que gerem ou querem gerir dados em massa no SeaTable também recebem o seu dinheiro com o SeaTable 3.3. De agora em diante, SeaTable pode importar centenas de milhares de linhas de um ficheiro XLSX directamente para a memória dos Grandes Dados e exportá-las de lá novamente. Quer saber mais? Então continue a ler!
@@ -18,7 +19,7 @@ No editor revisto para formulários Web, os "blocos" substituem os cursores na b
 
 As numerosas vantagens do desenho do bloco são convincentes: os campos na forma podem estar em qualquer ordem. A ordem dos campos do formulário não tem de corresponder à ordem das colunas na tabela. Cada formulário pode ter uma sequência de campo individual. Naturalmente, todos os blocos na forma também podem ser movidos mais tarde. Para trocar a sequência de dois campos, basta arrastar o campo inferior sobre o superior (ou vice-versa) e terá optimizado a sequência. Que campos utiliza nos formulários e por ordem é agora da sua inteira responsabilidade com o novo editor.
 
-****Mas o desenho do bloco pode fazer ainda mais. Dois blocos para conteúdo estático complementam os blocos para os campos de entrada. O bloco **Linha Horizontal** pode ser utilizado para estruturar um formulário tematicamente; o bloco **Notas** pode ser utilizado para colocar texto explicativo no formulário. Como os blocos de anotação**** podem ser trabalhados ****com mais flexibilidade do que as**notas do formulário da web **anterior****, estas últimas desaparecem da barra lateral das definições e dão lugar a outras coisas.
+\***\*Mas o desenho do bloco pode fazer ainda mais. Dois blocos para conteúdo estático complementam os blocos para os campos de entrada. O bloco **Linha Horizontal** pode ser utilizado para estruturar um formulário tematicamente; o bloco **Notas** pode ser utilizado para colocar texto explicativo no formulário. Como os blocos de anotação\*\*** podem ser trabalhados \***\*com mais flexibilidade do que as**notas do formulário da web **anterior\*\***, estas últimas desaparecem da barra lateral das definições e dão lugar a outras coisas.
 
 Três novas funções completam a reorganização do editor. Na mensagem de envio, pode agora fazer referência a colunas na tabela do formulário. Pode tratar-se de um campo preenchido no formulário ou de um valor gerado ou calculado a partir de uma fórmula. Nada impede um agradecimento pessoal ao remetente ou a apresentação de um número de processamento. A segunda nova função é a opção "Ativação obrigatória" para as caixas de verificação. Se a opção estiver definida, o formulário só pode ser enviado se a caixa de verificação correspondente estiver assinalada. Isto é útil quando é necessário obter o consentimento, por exemplo, para termos de utilização ou processamento de dados pessoais. Em terceiro lugar, pode agora tornar obrigatórios todos os campos do seu formulário com um só clique.
 

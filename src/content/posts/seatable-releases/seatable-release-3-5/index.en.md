@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 3.5: Formulas in the first column, new automation actions and all sorts of goodies - SeaTable"
+title: 'SeaTable 3.5: Formulas in the first column, new automation actions and all sorts of goodies - SeaTable'
 date: 2023-04-12
-lastmod: "2023-09-04"
-coverImage: "seatable-version-3.5.jpg"
-author: "kgr"
-url: "/seatable-release-3-5"
+lastmod: '2023-09-04'
+coverImage: 'seatable-version-3.5.jpg'
+author: 'kgr'
+url: '/seatable-release-3-5'
+color: '#eeeeee'
 ---
 
 April does what it wants - but SeaTable does what you want! With version 3.5, some long-cherished wishes of our users come true: The first column now also supports [formulas](/en/docs/formeln/grundlagen-von-seatable-formeln/) and via [automation](/en/docs/automationen/uebersicht-ueber-automationen/) you can have two additional actions executed periodically. You gain more flexibility for demanding use cases with the conditional execution of [button actions](/en/docs/andere-spalten/die-schaltflaeche/) and the conditional [lookups](/en/docs/verknuepfungen/die-lookup-funktion/). Below we present these improvements in detail.

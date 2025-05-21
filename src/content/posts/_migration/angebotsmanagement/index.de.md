@@ -1,9 +1,10 @@
 ---
-title: "Gutes Angebotsmanagement für bessere Sales-Performance"
+title: 'Gutes Angebotsmanagement für bessere Sales-Performance'
 date: 2022-07-22
-lastmod: "2022-07-27"
-author: "rdb"
-url: "/de/angebotsmanagement"
+lastmod: '2022-07-27'
+author: 'rdb'
+url: '/de/angebotsmanagement'
+color: '#eeeeee'
 ---
 
 Eine Sache ist entscheidend für eine erfolgreiche Vertriebsarbeit: das **Angebotsmanagement**. Doch worauf kommt es dabei an? Welche Fehler sollten auf keinen Fall auftauchen? Und was steckt überhaupt hinter dem Begriff „Angebotsmanagement“?

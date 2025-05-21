@@ -1,10 +1,11 @@
 ---
-title: "Festival packing list: Must-haves for an unforgettable experience"
+title: 'Festival packing list: Must-haves for an unforgettable experience'
 date: 2024-03-13
-lastmod: "2024-07-26"
-coverImage: "group-friends-having-fun-together.jpg"
-author: "nsc"
-url: "/festival-packliste"
+lastmod: '2024-07-26'
+coverImage: 'group-friends-having-fun-together.jpg'
+author: 'nsc'
+url: '/festival-packliste'
+color: '#eeeeee'
 ---
 
 When the festival season begins and the anticipation of good music and shared experiences with friends increases, it's time to pack your bags again. To ensure that your festival visit runs smoothly and is not overshadowed by problems and annoyances, **thorough preparation** is crucial.

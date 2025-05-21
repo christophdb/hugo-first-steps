@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.1: Разрешения таблиц и обработка данных - SeaTable"
+title: 'SeaTable 2.1: Разрешения таблиц и обработка данных - SeaTable'
 date: 2021-07-06
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/ru/seatable-release-2-1"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/ru/seatable-release-2-1'
+color: '#eeeeee'
 ---
 
 Сегодня, 6 июля 2021 года, мы обновили [SeaTable Cloud](https://cloud.seatable.io) до SeaTable 2.1 и загрузили новый образ Docker на Docker Hub. Основными моментами выпуска являются новые разрешения для таблиц и новая функция под названием "Обработка данных". Кроме того, мы улучшили типы столбцов с одиночным и множественным выбором, а также столбец с флажком. В этих заметках о выпуске мы, как всегда, представляем основные изменения и обращаемся к [SeaTable Changelog](https://seatable.io/ru/docs/changelog/version-2-1/) за полным списком изменений.

@@ -1,9 +1,10 @@
 ---
-title: "9 kostenlose Business Tools, die Ihr Unternehmen sofort bereichern - SeaTable"
+title: '9 kostenlose Business Tools, die Ihr Unternehmen sofort bereichern - SeaTable'
 date: 2021-09-24
-lastmod: "2023-07-11"
-author: "ott"
-url: "/de/9-kostenlose-tools-fuer-ihr-business"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/de/9-kostenlose-tools-fuer-ihr-business'
+color: '#eeeeee'
 ---
 
 Kostenlose Business-Tools? Yes, please! Für Start-ups und kleine Unternehmen sind Investitionen in kostenpflichtige Tools oft noch nicht drin. Die Ressourcen sind knapp und es muss ganz genau gewirtschaftet werden, denn beim Nutzen von Software oder Tools kommt im Monat schnell einiges zusammen.

@@ -1,9 +1,10 @@
 ---
-title: "Bucket List erstellen: Ideen, Inspiration & kostenlose Vorlage"
+title: 'Bucket List erstellen: Ideen, Inspiration & kostenlose Vorlage'
 date: 2024-02-19
-lastmod: "2024-02-19"
-author: "nsc"
-url: "/de/bucket-list"
+lastmod: '2024-02-19'
+author: 'nsc'
+url: '/de/bucket-list'
+color: '#eeeeee'
 ---
 
 Wollten Sie schon immer mal einen Fallschirmsprung aus einem Flugzeug wagen? Träumen Sie seit Ihrer Kindheit davon, einmal am Great Barrier Reef in Australien zu tauchen? Oder möchten Sie eine Nacht in einem Iglu in Norwegen verbringen? Dann schreiben Sie diese Ziele auf Ihre Bucket List!

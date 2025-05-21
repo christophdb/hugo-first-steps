@@ -1,9 +1,10 @@
 ---
-title: "Clientes satisfechos y comida sana son los objetivos de eat Performance - SeaTable"
+title: 'Clientes satisfechos y comida sana son los objetivos de eat Performance - SeaTable'
 date: 2021-02-03
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/es/eat-performance"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/es/eat-performance'
+color: '#eeeeee'
 ---
 
 SeaTable ayuda al fabricante berlinés de alimentos eat Performance a coordinar las tareas del equipo y a supervisar los procesos logísticos. Esto permite a los dos fundadores concentrarse plenamente en la producción y distribución de sus saludables productos Paleo.

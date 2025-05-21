@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.1 : Extension du plugin de conception de page et nouveau backend Big Data"
+title: 'SeaTable 3.1 : Extension du plugin de conception de page et nouveau backend Big Data'
 date: 2022-08-26
-lastmod: "2022-08-26"
-author: "rdb"
-url: "/fr/seatable-release-3-1"
+lastmod: '2022-08-26'
+author: 'rdb'
+url: '/fr/seatable-release-3-1'
+color: '#eeeeee'
 ---
 
 Nous sommes heureux de vous présenter la dernière version de SeaTable ! Bien qu'il ne s'agisse que d'une version "mineure", elle est très importante. Le plug-in de conception de pages étendu offre désormais plus d'options pour concevoir et gérer des modèles sophistiqués. De nouvelles fonctions permettent en outre de tout nouveaux scénarios d'utilisation. Il en va de même pour le Big Data Backend, qui atteint sa maturité productive avec la version 3.1. Cette fonctionnalité d'entreprise fait sauter la limite de 100 000 lignes par base de SeaTable et rend SeaTable prêt pour des tâches plus importantes. Les grandes équipes apprécieront la possibilité de trier les groupes sur la page d'accueil et de catégoriser les vues dans les bases. Nous vous présentons ici ces points forts et quelques autres nouveautés. Le changelog contient la liste complète des modifications.
@@ -14,7 +15,7 @@ Les nouvelles fonctionnalités sont disponibles dès maintenant sur [SeaTable Cl
 
 Le plugin de conception de pages remanié pourrait faire l'objet d'une publication à part entière, tant il est rempli de nouvelles fonctions dans SeaTable 3.1. Il y a la fonction d'impression de listes, les champs dynamiques, y compris l'en-tête et le pied de page, ainsi que la fonction de versionnement. La barre latérale du mode d'édition s'est ainsi considérablement remplie (voir illustration ci-dessous). Ah et les modèles du plug-in peuvent désormais être déplacés et triés dans l'aperçu. Mais maintenant, tout dans l'ordre.
 
-![Fonctionnalité d&#039;impression de listes dans le plugin Page Design de SeaTable](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-List-Print.gif)
+![Fonctionnalité d'impression de listes dans le plugin Page Design de SeaTable](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-List-Print.gif)
 
 La nouvelle fonction d'impression de listes permet d'imprimer le contenu d'une vue sur papier ou dans un document PDF en un rien de temps et avec un design attrayant. Il suffit de faire glisser l'élément "Toutes les entrées de la vue" sur le modèle, de redimensionner l'espace réservé, de formater le tableau selon vos préférences et d'ajouter les autres éléments de la page comme le titre du document, le logo et la date. SeaTable s'occupe ensuite automatiquement de la mise en page du tableau et du saut de page lors de l'impression si les lignes de l'affichage choisi ne rentrent pas dans l'espace réservé. Pour cela, SeaTable complète autant de pages que nécessaire.
 
@@ -42,24 +43,23 @@ Grâce à cette division des données en deux, l'utilisateur gagne une énorme f
 
 Les enregistrements du Big Data Backend supportent tous les types de colonnes et peuvent être modifiés et supprimés, filtrés et regroupés. Les enregistrements peuvent également être déplacés entre le stockage normal et le stockage de données volumineuses. D'un autre côté, les possibilités de traitement des enregistrements Big Data restent, pour des raisons techniques, inférieures à celles du stockage normal. Il existe des restrictions notamment en ce qui concerne le partage, les automatisations et les plugins : les vues qui contiennent des données du Big Data Backend ne peuvent pas être partagées. De même, seul le plugin Statistiques peut traiter les jeux de données dans la mémoire Big Data. Tous les autres plugins ainsi que les automatisations ne peuvent utiliser que des vues normales. Les jeux de données Big Data ne peuvent pas non plus être liés. Si cela est nécessaire, ils doivent d'abord être déplacés dans la mémoire normale.
 
-|  | Vue normale | Vue Big Data |
-| --- | --- | --- |
-| Travail en collaboration | ✓ ; |  |
-| Support de tous les plugins | ✓ ; |  |
-| Prise en charge de tous les types de colonnes | ✓ ; | ✓ ; |
-| Triage | ✓ ; | ✓ ; |
-| Filtrage | ✓ ; | ✓ ; |
-| Regroupement | ✓ ; | ✓ ;# |
-| Cacher | ✓ ; | ✓ ; |
-| Formatage conditionnel | ✓ ; |  |
-| Recherche | ✓ ; | ✓ ; |
-| Rechercher & remplacer | ✓ ; |  |
-| Traitement des données | ✓ ; |  |
-| Exportation vers Excel | ✓ ; | ✓ ; |
-| Exportation vers DTABLE | ✓ ; |  |
+|                                               | Vue normale | Vue Big Data |
+| --------------------------------------------- | ----------- | ------------ |
+| Travail en collaboration                      | ✓ ;         |              |
+| Support de tous les plugins                   | ✓ ;         |              |
+| Prise en charge de tous les types de colonnes | ✓ ;         | ✓ ;          |
+| Triage                                        | ✓ ;         | ✓ ;          |
+| Filtrage                                      | ✓ ;         | ✓ ;          |
+| Regroupement                                  | ✓ ;         | ✓ ;#         |
+| Cacher                                        | ✓ ;         | ✓ ;          |
+| Formatage conditionnel                        | ✓ ;         |              |
+| Recherche                                     | ✓ ;         | ✓ ;          |
+| Rechercher & remplacer                        | ✓ ;         |              |
+| Traitement des données                        | ✓ ;         |              |
+| Exportation vers Excel                        | ✓ ;         | ✓ ;          |
+| Exportation vers DTABLE                       | ✓ ;         |              |
 
-  
-\# Cette fonction sera disponible à partir de la version 3.2 de SeaTable.  
+\# Cette fonction sera disponible à partir de la version 3.2 de SeaTable.
 
 La mémoire Big Data doit être activée dans une base via les paramètres. Le transfert de données de la mémoire normale vers la mémoire Big Data s'effectue via la fonction "Archiver la vue". Le contenu de la mémoire Big Data peut être affiché dans une vue Big Data. Les vues Big Data chargent également des données de la mémoire Big Data en plus des enregistrements de la mémoire normale. Dans un premier temps, la vue ne charge que 1.000 lignes de la mémoire Big Data. Celles-ci sont reconnaissables dans l'éditeur de tableau au triangle gris dans la colonne des numéros de ligne. Le menu contextuel permet de déplacer ces lignes vers la mémoire normale. Pour afficher d'autres lignes Big Data, faites défiler le tableau au-delà de la fin ou cliquez sur "Charger tout" dans la barre d'état.
 

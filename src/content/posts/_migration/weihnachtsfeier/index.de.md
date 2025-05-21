@@ -1,9 +1,10 @@
 ---
-title: "Weihnachtsfeier 2024 – Ideen für ein einzigartiges Firmenevent"
+title: 'Weihnachtsfeier 2024 – Ideen für ein einzigartiges Firmenevent'
 date: 2023-08-25
-lastmod: "2024-07-09"
-author: "nsc2"
-url: "/de/weihnachtsfeier"
+lastmod: '2024-07-09'
+author: 'nsc2'
+url: '/de/weihnachtsfeier'
+color: '#eeeeee'
 ---
 
 Bald ist es wieder so weit! Während der ein oder andere noch dem vergangenen Sommer hinterhertrauert, erinnern die ersten Lebkuchen und Plätzchen in den Supermarktregalen bereits an die kommende Weihnachtszeit. Doch auch wenn Sie gedanklich noch nicht in Weihnachtsstimmung sind: Die nächste Firmenweihnachtsfeier wartet schon auf Sie. Damit Ihre Weihnachtsfeier 2024 unvergesslich wird, können Sie nicht früh genug mit der Planung beginnen!

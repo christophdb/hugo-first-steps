@@ -1,9 +1,10 @@
 ---
 title: "Gérez plus facilement votre équipe - la nouvelle gestion d'équipe - SeaTable"
 date: 2022-06-21
-lastmod: "2022-06-20"
-author: "rdb"
-url: "/fr/teamadministration"
+lastmod: '2022-06-20'
+author: 'rdb'
+url: '/fr/teamadministration'
+color: '#eeeeee'
 ---
 
 Avec la mise à niveau de SeaTable Cloud vers la version 3.0, les abonnés Cloud bénéficient non seulement des nombreuses fonctions nouvelles et améliorées de la [version majeure](/fr/seatable-release-3-0), mais aussi d'une nouvelle gestion d'équipe qui simplifie la gestion des petites et surtout des grandes équipes. De nouvelles fonctions ont été ajoutées, les fonctions existantes ont été étendues et un nouveau design permet une meilleure vue d'ensemble et une plus grande convivialité. Nous sommes heureux de vous présenter la nouvelle gestion d'équipe et les principaux changements dans ce montant.
@@ -12,7 +13,7 @@ Avec la mise à niveau de SeaTable Cloud vers la version 3.0, les abonnés Cloud
 
 L'"ancienne" gestion d'équipe de SeaTable Cloud est un module de [SeaTable Server.](/fr/on-premises/?lang=auto/) (SeaTable Server est le logiciel derrière SeaTable Cloud, qui est également disponible pour une installation sur votre propre serveur). En tant que tel, il offre toutes les fonctions de gestion nécessaires aux équipes pour une utilisation au sein d'une organisation (cloud privé). Il n'offre toutefois pas de fonctions de gestion des abonnements ni d'intégration avec un prestataire de services de paiement.
 
-![Administration de l&#039;équipe &quot;ancienne&quot;](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
+![Administration de l'équipe "ancienne"](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
 
 Ces fonctions nécessaires à l'exploitation d'une solution destinée à un cercle d'utilisateurs général (cloud public) ont été complétées individuellement pour SeaTable Cloud. En ce qui concerne l'expérience utilisateur, la gestion des équipes est restée en deçà des normes habituelles, malgré une complexité technique relativement élevée. L'extension d'une équipe, par exemple, nécessitait d'abord d'ajouter un ou plusieurs utilisateurs à l'abonnement avant de pouvoir ensuite enregistrer des utilisateurs supplémentaires dans un autre menu. Il en a résulté de nombreuses demandes d'assistance et la frustration qui en a découlé en raison de cette procédure inhabituelle.
 
@@ -54,7 +55,7 @@ La gestion de votre abonnement - qui comprend également la suppression de votre
 
 Dans la nouvelle zone de compte, nous pouvons désormais proposer le paiement sur facture pour les mises à niveau de Free à Enterprise. Pour cela, il suffit de choisir la facture comme mode de paiement lors de la mise à niveau. (Les conditions pour le paiement par facture sont un mode de paiement annuel et au moins 10 utilisateurs).
 
-Dans l'onglet _Factures _toutes les factures de votre équipe et leur statut de paiement sont indiqués. Vous pouvez également télécharger une facture. Pour ce faire, cliquez sur le numéro de facture dans la dernière colonne.__
+Dans l'onglet \_Factures \_toutes les factures de votre équipe et leur statut de paiement sont indiqués. Vous pouvez également télécharger une facture. Pour ce faire, cliquez sur le numéro de facture dans la dernière colonne.\_\_
 
 ### API & intégration
 

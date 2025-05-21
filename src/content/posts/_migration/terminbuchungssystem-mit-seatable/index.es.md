@@ -1,9 +1,10 @@
 ---
-title: "Cómo ahorrar un tiempo valioso con un sistema de reserva de citas de SeaTable - SeaTable"
+title: 'Cómo ahorrar un tiempo valioso con un sistema de reserva de citas de SeaTable - SeaTable'
 date: 2021-06-18
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/es/terminbuchungssystem-mit-seatable"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/es/terminbuchungssystem-mit-seatable'
+color: '#eeeeee'
 ---
 
 ¿Cuánto tiempo dedica a concertar citas con clientes y socios comerciales? O bien el teléfono no para de sonar, sacándole una y otra vez de su flujo de trabajo, o bien escribe innumerables correos electrónicos para llegar por fin a un denominador común a la hora de encontrar citas. También para sus clientes, las constantes idas y venidas a la hora de planificar y reprogramar citas pueden resultar molestas. La solución: un sistema de reserva de citas online.

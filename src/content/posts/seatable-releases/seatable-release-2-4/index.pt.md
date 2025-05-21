@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.4: Opções de visualização melhoradas para um trabalho mais rápido - SeaTable"
+title: 'SeaTable 2.4: Opções de visualização melhoradas para um trabalho mais rápido - SeaTable'
 date: 2021-10-19
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/pt/seatable-release-2-4"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/pt/seatable-release-2-4'
+color: '#eeeeee'
 ---
 
 O SeaTable 2.4 viu a luz do dia! A última encarnação do SeaTable Server foi carregada em [Docker](https://hub.docker.com/u/seatable) Hub no final da semana passada e o SeaTable Cloud foi actualizado esta manhã. A nova versão oferece uma série de melhorias e novas funcionalidades: Ver navegação está agora acoplável, o tipo de coluna Link to Other Entries oferece configurações melhoradas, uma nova e melhorada operação de processamento de dados torna a análise quantitativa mais fácil. Além disso, uma nova formatação condicional oferece ajuda com grandes conjuntos de dados. E estas são apenas as características que se destacam da multidão. A SeaTable 2.4 também oferece muito mais. Encontrará as informações mais importantes sobre a nova versão nestas notas de lançamento. Encontrará a lista completa de alterações - como sempre no [changelog](https://seatable.io/pt/docs/changelog/version-2-4/).
@@ -28,7 +29,7 @@ Nas versões anteriores do SeaTable, a ligação mostrava sempre o valor da prim
 
 Pretende identificar todos os dados duplicados na sua tabela? Com o SeaTable 2.4, tem agora não uma, mas duas formas de o fazer: pode utilizar o plug-in de desduplicação de dados ou a nova opção de formatação condicional "Destacar duplicados". Esta opção de formatação destaca todas as linhas duplicadas na tabela ativa. Ao selecionar as colunas de comparação, pode definir exatamente o que constitui um duplicado.
 
-![Nova opção de formatação condicional &quot;Destacar duplicados](images/Highlight_duplicates_1448x554.png)
+![Nova opção de formatação condicional "Destacar duplicados](images/Highlight_duplicates_1448x554.png)
 
 A grande vantagem da formatação condicional em comparação com o plugin é o facto de não se abandonar o editor de tabelas. Os duplicados são exibidos onde se pode editar linhas, apagar linhas e utilizar filtros e triagem. (O plugin continua a ser a ferramenta de escolha se se pretender eliminar automaticamente todas as duplicações).
 

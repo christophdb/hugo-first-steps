@@ -1,10 +1,11 @@
 ---
-title: "Negative customer feedback and how to deal with it | SeaTable"
+title: 'Negative customer feedback and how to deal with it | SeaTable'
 date: 2020-09-17
-lastmod: "2022-06-13"
-coverImage: "trent-erwin-UgA3Xvi3SkA-unsplash-scaled-1.jpg"
-author: "rbu"
-url: "/negatives-kundenfeedback"
+lastmod: '2022-06-13'
+coverImage: 'trent-erwin-UgA3Xvi3SkA-unsplash-scaled-1.jpg'
+author: 'rbu'
+url: '/negatives-kundenfeedback'
+color: '#eeeeee'
 ---
 
 Positive customer feedback is desirable. Nevertheless, it also happens that you receive negative feedback despite all your efforts. However, negative customer feedback does not always have to be bad. It is precisely from this that you can gain valuable insights for improving your processes or your product. Why is customer feedback so important and how do you deal with negative customer feedback? We give you tips!

@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.2: Automation und Integration - SeaTable"
+title: 'SeaTable 2.2: Automation und Integration - SeaTable'
 date: 2021-08-10
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/de/seatable-release-2-2"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/de/seatable-release-2-2'
+color: '#eeeeee'
 ---
 
 Bei SeaTable gibt es keine Sommerpause! Wir behalten unseren monatlichen Release Rhythmus bei und so profitieren seit heute alle [SeaTable Cloud](https://cloud.seatable.io) Benutzer von den Vorteilen der Version 2.2. Automationen und externe Apps sind zwei neue Features, die in dieser Version eingeführt werden. In kommenden Release Notes werden wir über diese aber noch häufiger berichten. Weitere Highlights des neuen Releases sind verschachtelte Gruppen, kaskadierende Auswahlfelder sowie erweiterte Tabellenberechtigungen und verbesserte Datenverarbeitungsfunktionen. Diese Neuerungen stellen wir in diesen Release Notes vor. Die deutlich umfangreichere, vollständige Liste der Änderungen finden Sie – wie immer – im [SeaTable Changelog](/docs/changelog/version-2-2/). Auf Docker Hub wird SeaTable 2.2 – in beiden Editionen des SeaTable Servers – morgen verfügbar sein.

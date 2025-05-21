@@ -1,9 +1,10 @@
 ---
-title: "Checkliste Urlaub: Alles im Griff für die perfekte Reise | SeaTable"
+title: 'Checkliste Urlaub: Alles im Griff für die perfekte Reise | SeaTable'
 date: 2024-07-17
-lastmod: "2024-07-17"
-author: "nsc"
-url: "/de/checkliste-urlaub"
+lastmod: '2024-07-17'
+author: 'nsc'
+url: '/de/checkliste-urlaub'
+color: '#eeeeee'
 ---
 
 Die Sommerferien stehen vor der Tür und für viele Urlauber heißt das: Zeit zum **Koffer packen**! Doch wann genau ist eigentlich der richtige Zeitpunkt, um den Koffer zu packen? Gehören Sie zu denen, die in der Nacht vor der Abreise schnell alles zusammensuchen und in die nächstbeste Reisetasche werfen? Oder planen Sie lieber bereits Wochen im Voraus, was es auf Ihre **Checkliste für den Urlaub** schafft?

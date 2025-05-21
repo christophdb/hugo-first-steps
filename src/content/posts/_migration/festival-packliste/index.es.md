@@ -1,9 +1,10 @@
 ---
-title: "Lista de equipaje para el festival: Lo imprescindible para una experiencia inolvidable"
+title: 'Lista de equipaje para el festival: Lo imprescindible para una experiencia inolvidable'
 date: 2024-03-13
-lastmod: "2024-07-26"
-author: "nsc"
-url: "/es/festival-packliste"
+lastmod: '2024-07-26'
+author: 'nsc'
+url: '/es/festival-packliste'
+color: '#eeeeee'
 ---
 
 Cuando comienza la temporada de festivales y aumenta la expectación por la buena música y las experiencias compartidas con los amigos, es hora de volver a hacer las maletas. Para que tu visita al festival transcurra sin contratiempos y no se vea ensombrecida por problemas y molestias, es fundamental **una preparación minuciosa**.

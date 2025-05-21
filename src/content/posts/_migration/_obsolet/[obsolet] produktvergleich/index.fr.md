@@ -1,9 +1,10 @@
 ---
-title: "Quel est le produit qui vous convient le mieux ? Cloud, dédié ou sur site"
+title: 'Quel est le produit qui vous convient le mieux ? Cloud, dédié ou sur site'
 date: 2021-11-12
-lastmod: "2022-02-03"
-author: "cdb"
-url: "/fr/produktvergleich"
+lastmod: '2022-02-03'
+author: 'cdb'
+url: '/fr/produktvergleich'
+color: '#eeeeee'
 ---
 
 Il n'y a pas un seul SeaTable, mais trois versions différentes de SeaTable. Le choix de votre système SeaTable a une grande influence sur la rapidité de votre démarrage, sur la quantité de travail que vous devez effectuer vous-même, sur le prix que vous payez et sur le contrôle que vous avez sur vos propres données. Cet article vous donne un aperçu complet des produits qui s'offrent à vous et des avantages de chacun d'entre eux. À la fin de ce texte, vous saurez quel SeaTable est fait pour vous. C'est promis.
@@ -40,24 +41,24 @@ Un système dédié est en quelque sorte la voie médiane : on ne partage plus l
 
 Le tableau suivant donne un aperçu des différents aspects des trois produits :
 
-|  | Nuage | Dédié | Sur site |
-| --- | --- | --- | --- |
-| Éditions | Gratuit, Plus, Entreprise | Entreprise | Entreprise |
-| Utilisable gratuitement | (SeaTable Free) |  | (pour jusqu'à 3 utilisateurs) |
-| Administration |  |  |  |
-| Tout emplacement du serveur |  |  |  |
-| mises à jour automatiques |  |  |  |
-| propre administration |  |  |  |
-| Accéder à la ligne de commande Linux |  |  |  |
-| Authentification propre |  |  |  |
-| Personnalisation de |  |  |  |
-| son propre logo |  |  |  |
-| propre URL |  |  |  |
-| propres modèles |  |  |  |
-| rôles propres des utilisateurs |  |  |  |
-| Soutien |  |  |  |
-| soutien facultatif aux entreprises |  |  |  |
-| Exigences | Adresse électronique | min. 100 utilisateurs | Serveur Linux ou VM |
+|                                      | Nuage                     | Dédié                 | Sur site                      |
+| ------------------------------------ | ------------------------- | --------------------- | ----------------------------- |
+| Éditions                             | Gratuit, Plus, Entreprise | Entreprise            | Entreprise                    |
+| Utilisable gratuitement              | (SeaTable Free)           |                       | (pour jusqu'à 3 utilisateurs) |
+| Administration                       |                           |                       |                               |
+| Tout emplacement du serveur          |                           |                       |                               |
+| mises à jour automatiques            |                           |                       |                               |
+| propre administration                |                           |                       |                               |
+| Accéder à la ligne de commande Linux |                           |                       |                               |
+| Authentification propre              |                           |                       |                               |
+| Personnalisation de                  |                           |                       |                               |
+| son propre logo                      |                           |                       |                               |
+| propre URL                           |                           |                       |                               |
+| propres modèles                      |                           |                       |                               |
+| rôles propres des utilisateurs       |                           |                       |                               |
+| Soutien                              |                           |                       |                               |
+| soutien facultatif aux entreprises   |                           |                       |                               |
+| Exigences                            | Adresse électronique      | min. 100 utilisateurs | Serveur Linux ou VM           |
 
 ## Les trois questions centrales pour choisir le bon produit
 

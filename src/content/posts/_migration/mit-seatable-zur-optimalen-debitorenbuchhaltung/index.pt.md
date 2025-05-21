@@ -1,9 +1,10 @@
 ---
-title: "Contabilidade optimizada de contas a receber com SeaTable - SeaTable"
+title: 'Contabilidade optimizada de contas a receber com SeaTable - SeaTable'
 date: 2021-08-26
-lastmod: "2023-07-11"
-author: "pbr"
-url: "/pt/mit-seatable-zur-optimalen-debitorenbuchhaltung"
+lastmod: '2023-07-11'
+author: 'pbr'
+url: '/pt/mit-seatable-zur-optimalen-debitorenbuchhaltung'
+color: '#eeeeee'
 ---
 
 Os pagamentos recebidos têm de ser verificados, os clientes têm de ser lembrados dos pagamentos e, por vezes, há mesmo a parte que cada empresa quer evitar: o processo de cobrança. Isto pode tornar-se um verdadeiro desafio para muitas empresas. Perde-se rapidamente no seu próprio caos e ninguém na sua empresa ainda sabe quando e se uma factura foi sequer paga. No final, a liquidez da sua própria empresa acaba por sofrer. No entanto, não deve deixá-lo chegar tão longe!

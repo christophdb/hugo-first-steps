@@ -1,9 +1,10 @@
 ---
-title: "Organiser un mariage parfait avec SeaTable - SeaTable"
+title: 'Organiser un mariage parfait avec SeaTable - SeaTable'
 date: 2021-07-22
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/fr/hochzeitsplanung-wedding-planner"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/fr/hochzeitsplanung-wedding-planner'
+color: '#eeeeee'
 ---
 
 L'un des plus beaux et des plus importants jours de la vie est sur le point d'arriver : le mariage. Il ne faut surtout pas que quelque chose se passe mal, c'est pourquoi un planning de mariage structuré est d'une grande importance pour la plupart des couples. Que faut-il faire 12 mois avant le mariage, que faut-il faire 5 mois avant le grand jour ? Si l'on n'a pas les moyens financiers d'engager un organisateur de mariage professionnel ou si l'on prend tout simplement plaisir à organiser son propre mariage, SeaTable permet de ne pas perdre la vue d'ensemble lors de l'organisation du mariage.
@@ -41,7 +42,7 @@ Nous vous avons préparé tout de suite 5 vues différentes qui vous aideront à
 2. Pour la sélection des photographes et des vidéastes, il existe la vue _Photographer/ Videographer_
 3. Pour la décoration, il y a la vue _Fleuriste_
 4. Pour le divertissement, il y a la vue _Entertainment_
-5. Pour la nourriture, il y a l'avis de _traiteurs_possibles
+5. Pour la nourriture, il y a l'avis de \_traiteurs_possibles
 
 ![Organisation du mariage](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
 

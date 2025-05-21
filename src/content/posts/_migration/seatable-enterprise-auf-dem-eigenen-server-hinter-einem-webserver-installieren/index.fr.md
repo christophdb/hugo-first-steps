@@ -1,12 +1,13 @@
 ---
-title: "Installer SeaTable Enterprise sur son propre serveur, derrière un serveur web - SeaTable"
+title: 'Installer SeaTable Enterprise sur son propre serveur, derrière un serveur web - SeaTable'
 date: 2021-05-15
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/fr/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/fr/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren'
+color: '#eeeeee'
 ---
 
-Dans l'article [Installation de SeaTable Enterprise Edition sous Ubuntu Server 20.04 LTS](/fr/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren/?lang=auto) nous avons expliqué l'installation standard de SeaTable Enterprise sur un serveur avec Ubuntu Linux. Dans l'installation standard, SeaTable est installé sur un serveur sur lequel aucune autre application web ne tourne. Mais que faire si les ports 80 et 443 sont déjà occupés par un autre service tel qu'un serveur web nginx ou Apache ? Nous allons répondre à cette question dans cet article. Comme vous le verrez, la réponse est délicieusement simple.  
+Dans l'article [Installation de SeaTable Enterprise Edition sous Ubuntu Server 20.04 LTS](/fr/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren/?lang=auto) nous avons expliqué l'installation standard de SeaTable Enterprise sur un serveur avec Ubuntu Linux. Dans l'installation standard, SeaTable est installé sur un serveur sur lequel aucune autre application web ne tourne. Mais que faire si les ports 80 et 443 sont déjà occupés par un autre service tel qu'un serveur web nginx ou Apache ? Nous allons répondre à cette question dans cet article. Comme vous le verrez, la réponse est délicieusement simple.
 
 ## Exigences
 
@@ -32,7 +33,7 @@ Les instructions pour l'installation standard expliquent la structure et le fonc
 
 Dans le fichier YAML, il est maintenant nécessaire de procéder à quelques ajustements, d'une part pour tenir compte de vos propres besoins, et d'autre part pour permettre un fonctionnement derrière un serveur web.
 
-Les ajustements nécessaires concernent notamment le mot de passe de la base de données, qui doit être modifié dans le conteneur db (MYSQL\_ROOT\_PASSWORD) et dans le conteneur seatable (DB\_ROOT\_PASSWD). L'URL sous laquelle SeaTable doit être accessible doit également être modifiée. La valeur SEATABLE\_SERVER\_HOSTNAME est utilisée à cet effet. Entrez le domaine sans http:// ou https://.
+Les ajustements nécessaires concernent notamment le mot de passe de la base de données, qui doit être modifié dans le conteneur db (MYSQL_ROOT_PASSWORD) et dans le conteneur seatable (DB_ROOT_PASSWD). L'URL sous laquelle SeaTable doit être accessible doit également être modifiée. La valeur SEATABLE_SERVER_HOSTNAME est utilisée à cet effet. Entrez le domaine sans http:// ou https://.
 
 En plus de ces modifications, qui doivent également être effectuées pour l'installation standard, les ports HTTP et HTTPS doivent également être adaptés. La configuration des ports du conteneur seatable est décrite dans la section du même nom. Les valeurs par défaut dans SeaTables docker-compose.yml sont les suivantes :  
  `- "80:80" #HTTP port   - "443:443" #HTTPS port`  
@@ -44,7 +45,7 @@ Comme les ports 80 et 443 sont déjà occupés sur le serveur, il faut changer l
 
 Les ports 880 et 4443 choisis ici sont des ports alternatifs populaires pour les ports 80 et 443. D'autres numéros de port peuvent également être utilisés à leur place. Il faut alors plutôt en tenir compte lors de la configuration du serveur web sur l'hôte (voir ci-dessous).
 
-Laissez la valeur SEATABLE\_SERVER\_LETSENCRYPT définie sur False. Cette fonction ne peut être utilisée qu'avec l'installation standard.
+Laissez la valeur SEATABLE_SERVER_LETSENCRYPT définie sur False. Cette fonction ne peut être utilisée qu'avec l'installation standard.
 
 ## Initialisation de la base de données
 
@@ -63,7 +64,7 @@ Par exemple, une directive qui fait cela pour nginx ressemble à ceci :
 `server {   listen 80;   listen [::]:80;   server_name seatable.example.com;`
 
 location / {  
-proxy\_pass http://127.0.0.1:880;  
+proxy_pass http://127.0.0.1:880;  
 }  
 }
 
@@ -100,13 +101,13 @@ Si vous demandez à Certbot de modifier automatiquement la configuration du serv
 
 `server {   listen 443 ssl; # managed by Certbot   listen [::]:443 ssl; # managed by Certbot   server_name seatable.example.com;`
 
-ssl\_certificate /etc/letsencrypt/live/seatable.example.com/fullchain.pem ; # géré par Certbot  
-ssl\_certificate\_key /etc/letsencrypt/live/seatable.example.com/privkey.pem ; # géré par Certbot  
+ssl_certificate /etc/letsencrypt/live/seatable.example.com/fullchain.pem ; # géré par Certbot  
+ssl_certificate_key /etc/letsencrypt/live/seatable.example.com/privkey.pem ; # géré par Certbot  
 include /etc/letsencrypt/options-ssl-nginx.conf ; # géré par Certbot  
-ssl\_dhparam /etc/letsencrypt/ssl-dhparams.pem ; # géré par Certbot
+ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem ; # géré par Certbot
 
 location / {  
-proxy\_pass http://127.0.0.1:880;  
+proxy_pass http://127.0.0.1:880;  
 }  
 }
 
@@ -115,10 +116,10 @@ Dans le cas où vous avez décidé de ne pas modifier la configuration du serveu
 Enfin, la conversion à HTTPS doit également être prise en compte dans deux fichiers de configuration de SeaTable. Plus précisément, ces deux fichiers de configuration sont situés dans le dossier /opt/seatable/seatable-data/seatable/conf :
 
 - ccnet.conf
-- dtable\_web\_settings.py
+- dtable_web_settings.py
 
-Dans le fichier ccnet.conf, l'URL SERVICE\_URL doit passer de "http://" à "https://".
+Dans le fichier ccnet.conf, l'URL SERVICE_URL doit passer de "http://" à "https://".
 
-Dans le fichier dtable\_web\_settings.py, toutes les URL doivent être adaptées. Pour DTABLE\_SERVER\_URL, DTABLE\_SOCKET\_URL, DTABLE\_WEB\_SERVICE\_URL et FILE\_SERVER\_ROOT, ajoutez un "s" après le "http", de sorte que toutes les URL commencent par "https".
+Dans le fichier dtable_web_settings.py, toutes les URL doivent être adaptées. Pour DTABLE_SERVER_URL, DTABLE_SOCKET_URL, DTABLE_WEB_SERVICE_URL et FILE_SERVER_ROOT, ajoutez un "s" après le "http", de sorte que toutes les URL commencent par "https".
 
 Redémarrez SeaTable maintenant et amusez-vous avec SeaTable !

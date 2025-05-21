@@ -1,10 +1,11 @@
 ---
-title: "How to: How to create an action plan for the whole year - SeaTable"
+title: 'How to: How to create an action plan for the whole year - SeaTable'
 date: 2021-05-04
-lastmod: "2023-07-11"
-coverImage: "pexels-breakingpic-3299.jpg"
-author: "ott"
-url: "/how-to-massnahmenplan-fuer-das-ganze-jahr"
+lastmod: '2023-07-11'
+coverImage: 'pexels-breakingpic-3299.jpg'
+author: 'ott'
+url: '/how-to-massnahmenplan-fuer-das-ganze-jahr'
+color: '#eeeeee'
 ---
 
 In order for companies to grow and develop, they constantly set themselves new goals and work towards them with all their resources. The action plan is a proven method for achieving these goals - for example in [project management](/en/projekt-management/), finance & controlling and [marketing](/en/marketing/).

@@ -1,9 +1,10 @@
 ---
-title: "Com SeaTable para a estratégia de marketing de conteúdo certo - SeaTable"
+title: 'Com SeaTable para a estratégia de marketing de conteúdo certo - SeaTable'
 date: 2021-02-16
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/pt/content-marketing-star"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/pt/content-marketing-star'
+color: '#eeeeee'
 ---
 
 A agência de serviço completo "Content Marketing Star" ajuda os seus clientes a ganhar novos clientes com a ajuda de uma estratégia de marketing de conteúdos. A SeaTable ajuda a agência a planear e estruturar todos os componentes dessa estratégia numa base de dados e a coordená-los com o cliente.

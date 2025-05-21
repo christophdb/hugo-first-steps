@@ -1,9 +1,10 @@
 ---
 title: "Comment faire : Comment créer un plan d'action pour toute l'année - SeaTable"
 date: 2021-05-04
-lastmod: "2023-07-11"
-author: "ott"
-url: "/fr/how-to-massnahmenplan-fuer-das-ganze-jahr"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/fr/how-to-massnahmenplan-fuer-das-ganze-jahr'
+color: '#eeeeee'
 ---
 
 Pour croître et se développer, les entreprises se fixent constamment de nouveaux objectifs et y consacrent toutes leurs ressources. Le plan d'action est une méthode éprouvée pour atteindre ces objectifs, par exemple dans le domaine de la [gestion de projet](/fr/projekt-management/), des finances et du contrôle de gestion ainsi que du [marketing](/fr/marketing/).

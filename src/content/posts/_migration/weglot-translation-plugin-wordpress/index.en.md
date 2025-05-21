@@ -1,10 +1,11 @@
 ---
-title: "How to translate your website automatically with Weglot."
+title: 'How to translate your website automatically with Weglot.'
 date: 2022-03-21
-lastmod: "2022-04-05"
-coverImage: "weglot-multilanguage-seo.jpg"
-author: "cdb"
-url: "/weglot-translation-plugin-wordpress"
+lastmod: '2022-04-05'
+coverImage: 'weglot-multilanguage-seo.jpg'
+author: 'cdb'
+url: '/weglot-translation-plugin-wordpress'
+color: '#eeeeee'
 ---
 
 Weglot is a WordPress plugin for automatically translating your own website. The idea is simple and quickly explained. You write all the texts on your own website in your native language as usual and let Weglot translate all the content into one or more other languages. The website visitor is automatically redirected to the language version that suits him and [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) takes care of all the necessary work for international SEO. 
@@ -124,7 +125,7 @@ The prices of the WordPress plugin Weglot.
 
 Currently we use the _Advanced_\-Weglot subscription, which allows up to 10 languages and up to 1 million words. We pay €1,990 for this, but, as mentioned before, it has saved us at least 18 working days over the two years. The time saved is probably many times more. The subscriptions can be upgraded at any time during the term and the residual value of the current subscription is credited in full to the price of the higher-value subscription. 
 
-In the near future we will be looking at the _Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten._ 
+In the near future we will be looking at the *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
 
 ### With the Word Count Tool you can determine your own needs
 

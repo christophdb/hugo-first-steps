@@ -1,10 +1,11 @@
 ---
-title: "How SeaTable facilitates association management - SeaTable"
+title: 'How SeaTable facilitates association management - SeaTable'
 date: 2021-07-21
-lastmod: "2025-01-14"
-coverImage: "Vereinsmanagement-scaled-1.jpg"
-author: "kgr"
-url: "/vereinsverwaltung"
+lastmod: '2025-01-14'
+coverImage: 'Vereinsmanagement-scaled-1.jpg'
+author: 'kgr'
+url: '/vereinsverwaltung'
+color: '#eeeeee'
 ---
 
 Association management solutions are a dime a dozen. All the software solutions we tested promise to be fast, simple and intuitive. But we believe that all these solutions lack a key feature. The flexibility to adapt to the challenges and individual situation of each club. Association management software such as [ClubDesk](https://www.clubdesk.de/), [easyVerein](https://easyverein.com/), [SEWOBE](https://www.sewobe.de/) or [MTH](https://www.mth-software.de/), for example, specify exactly how processes and procedures must look. Input masks and texts are inflexible and can only be adapted in the rarest of cases.

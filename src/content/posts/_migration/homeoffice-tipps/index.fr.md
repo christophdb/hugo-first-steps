@@ -1,9 +1,10 @@
 ---
-title: "Désespéré de travailler à domicile ? Avec ces conseils, tout ira bien ! | SeaTable"
+title: 'Désespéré de travailler à domicile ? Avec ces conseils, tout ira bien ! | SeaTable'
 date: 2020-09-17
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/fr/homeoffice-tipps"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/fr/homeoffice-tipps'
+color: '#eeeeee'
 ---
 
 La crise de la Corona oblige actuellement des millions de personnes à travailler à domicile. Si certains s'adaptent facilement à cette nouvelle situation, beaucoup ont du mal à s'y faire. Vous aussi, vous ne savez pas vraiment comment commencer le matin ? Vous oubliez constamment votre pause déjeuner et mangez à la place vos sandwichs vite faits devant votre ordinateur ? Nous vous donnons de précieux conseils et vous présentons des avantages qui vous faciliteront certainement la tâche.

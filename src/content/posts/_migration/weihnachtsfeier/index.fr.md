@@ -1,9 +1,10 @@
 ---
 title: "Fête de Noël 2024 - Des idées pour un événement d'entreprise unique"
 date: 2023-08-25
-lastmod: "2024-07-09"
-author: "nsc2"
-url: "/fr/weihnachtsfeier"
+lastmod: '2024-07-09'
+author: 'nsc2'
+url: '/fr/weihnachtsfeier'
+color: '#eeeeee'
 ---
 
 C'est bientôt le retour ! Alors que certains regrettent encore l'été dernier, les premiers pains d'épices et biscuits dans les rayons des supermarchés évoquent déjà la période de Noël à venir. Mais même si vous n'êtes pas encore dans l'esprit de Noël : La prochaine fête de Noël de l'entreprise vous attend déjà. Pour que votre fête de Noël 2024 soit inoubliable, vous ne commencerez jamais assez tôt à la planifier !

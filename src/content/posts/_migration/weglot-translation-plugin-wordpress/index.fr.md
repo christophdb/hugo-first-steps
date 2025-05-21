@@ -1,9 +1,10 @@
 ---
-title: "Comment traduire automatiquement votre site web avec Weglot."
+title: 'Comment traduire automatiquement votre site web avec Weglot.'
 date: 2022-03-21
-lastmod: "2022-04-05"
-author: "cdb"
-url: "/fr/weglot-translation-plugin-wordpress"
+lastmod: '2022-04-05'
+author: 'cdb'
+url: '/fr/weglot-translation-plugin-wordpress'
+color: '#eeeeee'
 ---
 
 Weglot est un plug-in WordPress permettant de traduire automatiquement son propre site web. L'idée est simple et rapidement expliquée. On rédige comme d'habitude tous les textes de son propre site web dans sa langue maternelle et on laisse Weglot traduire tous les contenus dans une ou plusieurs autres langues. Le visiteur du site web est automatiquement redirigé vers la version linguistique qui lui convient le mieux et [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) se charge de tous les travaux nécessaires au référencement international. 
@@ -123,7 +124,7 @@ Les prix du plugin WordPress Weglot.
 
 Actuellement, nous utilisons le _Advanced_\-L'abonnement à Weglot, qui permet de traduire jusqu'à 10 langues et 1 million de mots. Nous payons 1 990 euros pour cela, mais comme nous l'avons déjà mentionné, cela nous a permis d'économiser au moins 18 jours de travail sur les deux années. Le gain de temps est probablement encore beaucoup plus important. Les abonnements peuvent être mis à niveau à tout moment, même pendant la période de validité, et la valeur résiduelle de l'abonnement actuel est entièrement déduite du prix de l'abonnement supérieur. 
 
-Prochainement, nous allons publier sur le _Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten._ 
+Prochainement, nous allons publier sur le *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
 
 ### L'outil Word-Count vous permet de déterminer vos propres besoins
 

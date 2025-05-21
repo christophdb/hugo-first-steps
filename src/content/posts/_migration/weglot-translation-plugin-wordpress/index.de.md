@@ -1,9 +1,10 @@
 ---
-title: "Wie Sie mit Weglot Ihre Webseite automatisch übersetzen können."
+title: 'Wie Sie mit Weglot Ihre Webseite automatisch übersetzen können.'
 date: 2022-03-21
-lastmod: "2022-04-05"
-author: "cdb"
-url: "/de/weglot-translation-plugin-wordpress"
+lastmod: '2022-04-05'
+author: 'cdb'
+url: '/de/weglot-translation-plugin-wordpress'
+color: '#eeeeee'
 ---
 
 Weglot ist ein WordPress-Plugin zum automatischen Übersetzen der eigenen Webseite. Die Idee ist einfach und schnell erklärt. Man schreibt wie gewohnt alle Texte auf der eigenen Webseite in seiner Muttersprache und lässt Weglot alle Inhalte in eine oder mehrere andere Sprachen übersetzen. Der Webseitenbesucher wird automatisch auf die für ihn passende Sprache-Version umgeleitet und [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) übernimmt alle notwendigen Arbeiten für das internationale SEO. 
@@ -123,7 +124,7 @@ Die Preise des WordPress-Plugins Weglot.
 
 Aktuell nutzen wir das _Advanced_\-Abo von Weglot, welches bis zu 10 Sprachen und bis zu 1 Million Wörter erlaubt. Dafür zahlen wir 1.990 €, was uns aber, wie zuvor erwähnt, mindestens 18 Arbeitstage in den zwei Jahren eingespart hat. Wahrscheinlich ist die Zeitersparnis noch um ein Vielfaches höher. Die Abos lassen sich jederzeit auch innerhalb der Laufzeit upgraden und man erhält den Restwert des aktuellen Abos vollständig auf den Preis des höherwertigen Abos angerechnet. 
 
-In Kürze werden wir auf den _Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten._ 
+In Kürze werden wir auf den *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
 
 ### Mit dem Word-Count Tool können Sie Ihren eigenen Bedarf ermitteln
 

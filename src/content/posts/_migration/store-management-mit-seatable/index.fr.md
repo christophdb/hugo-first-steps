@@ -1,9 +1,10 @@
 ---
-title: "Gestion organisée des magasins avec SeaTable - SeaTable"
+title: 'Gestion organisée des magasins avec SeaTable - SeaTable'
 date: 2021-10-21
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/fr/store-management-mit-seatable"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/fr/store-management-mit-seatable'
+color: '#eeeeee'
 ---
 
 Avec l'ouverture de nouveaux sites, non seulement le chiffre d'affaires augmente, mais aussi l'effort d'organisation. Il est maintenant important de garder une vue d'ensemble. Notre modèle de gestion de magasin vous aide à répondre aux questions suivantes : Où se trouvent vos succursales à forte rotation ? Quels sont les magasins qui nécessitent plus d'attention parce qu'ils n'ont pas atteint le chiffre d'affaires prévu ? Où avez-vous besoin de nouveau personnel et quelle est la qualité de votre personnel recruté ? Quels employés pourraient utiliser quelle formation ?

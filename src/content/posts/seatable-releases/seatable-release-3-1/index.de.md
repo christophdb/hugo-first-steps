@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.1: Erweitertes Seitendesign Plugin und neues Big Data Backend"
+title: 'SeaTable 3.1: Erweitertes Seitendesign Plugin und neues Big Data Backend'
 date: 2022-08-26
-lastmod: "2022-08-26"
-author: "rdb"
-url: "/de/seatable-release-3-1"
+lastmod: '2022-08-26'
+author: 'rdb'
+url: '/de/seatable-release-3-1'
+color: '#eeeeee'
 ---
 
 Wir freuen uns, die neueste Version von SeaTable vorzustellen! Das Release ist zwar nur ein “Minor” Release, kommt aber ganz groß daher. Das erweiterte Seitendesign Plugin bietet nun mehr Optionen, um anspruchsvolle Vorlagen zu gestalten und zu verwalten. Neue Funktionen erlauben darüber hinaus ganz neue Einsatzszenarien. Das gleich tut auch das Big Data Backend, das mit der Version 3.1 Produktivreife erhält. Das Enterprise Feature sprengt SeaTables bisheriges Limit von 100.000 Zeilen pro Base und macht SeaTable damit bereit für größere Aufgaben. Größere Teams werden sich über die Möglichkeit freuen, Gruppen auf der Homepage sortieren und Ansichten in Bases kategorisieren zu können. Diese Highlights und ein paar weitere Neuerungen stellen wir in hier vor. Das Changelog enthält die vollständige Liste der Änderungen.
@@ -42,24 +43,23 @@ Mit dieser Zweiteilung der Daten gewinnen Sie als Benutzer enorme zusätzliche F
 
 Datensätze im Big Data Backend unterstützen alle Spaltentypen und können geändert und gelöscht, gefiltert und gruppiert werden. Datensätze können auch zwischen normalen und Big Data Speicher hin- und hergeschoben werden. Andererseits bleiben die Bearbeitungsmöglichkeiten für Big Data Datensätze technisch bedingt hinter denen im normalen Speicher zurück. Einschränkungen gibt es insbesondere bei der Freigabe, Automationen und Plugins: Ansichten, die Daten des Big Data Backends inkludieren, können nicht geteilt werden. Auch kann nur das Statistik Plugin mit Datensätzen im Big Data Speicher umgehen. Alle anderen Plugins und auch Automationen können nur normale Ansichten verwenden. Big Data Datensätze können auch nicht verknüpft werden. Ist das erforderlich, dann müssen sie zunächst in den normalen Speicher verschoben werden.
 
-|  | Normale Ansicht | Big Data Ansicht |
-| --- | --- | --- |
-| Kollaboratives Arbeiten | ✓ |  |
-| Unterstützung aller Plugins | ✓ |  |
-| Unterstützung aller Spaltentypen | ✓ | ✓ |
-| Sortierung | ✓ | ✓ |
-| Filterung | ✓ | ✓ |
-| Gruppierung | ✓ | ✓# |
-| Ausblenden | ✓ | ✓ |
-| Bedingte Formatierung | ✓ |  |
-| Suche | ✓ | ✓ |
-| Suche & Ersetzen | ✓ |  |
-| Datenverarbeitung | ✓ |  |
-| Export to Excel | ✓ | ✓ |
-| Export to DTABLE | ✓ |  |
+|                                  | Normale Ansicht | Big Data Ansicht |
+| -------------------------------- | --------------- | ---------------- |
+| Kollaboratives Arbeiten          | ✓               |                  |
+| Unterstützung aller Plugins      | ✓               |                  |
+| Unterstützung aller Spaltentypen | ✓               | ✓                |
+| Sortierung                       | ✓               | ✓                |
+| Filterung                        | ✓               | ✓                |
+| Gruppierung                      | ✓               | ✓#               |
+| Ausblenden                       | ✓               | ✓                |
+| Bedingte Formatierung            | ✓               |                  |
+| Suche                            | ✓               | ✓                |
+| Suche & Ersetzen                 | ✓               |                  |
+| Datenverarbeitung                | ✓               |                  |
+| Export to Excel                  | ✓               | ✓                |
+| Export to DTABLE                 | ✓               |                  |
 
-  
-\# Diese Funktion ab SeaTable 3.2 zur Verfügung stehen.  
+\# Diese Funktion ab SeaTable 3.2 zur Verfügung stehen.
 
 Der Big Data Speicher muss in einer Base über die Einstellungen aktiviert werden. Der Transfer von Daten aus dem normalen in den Big Data Speicher erfolgt über die Funktion “Ansicht archivieren”. Der Inhalt des Big Data Speichers lässt sich in einer Big Data Ansicht anzeigen. Big Data Ansichten laden zusätzlich zu den Datensätzen im normalen Speicher auch Daten aus dem Big Data Speicher. Zunächst lädt die Ansicht nur 1.000 Zeilen aus dem Big Data Speicher. Diese sind im Tabelleneditor am grauen Dreieck in der Zeilennummernspalte erkennbar. Über das Kontextmenu lassen sich solche Zeilen wieder in den normalen Speicher verschieben. Um weitere Big Data Zeilen anzuzeigen, scrollen Sie über das Ende der Tabelle hinaus oder klicken Sie auf “Alle Laden” in der Statuszeile.
 

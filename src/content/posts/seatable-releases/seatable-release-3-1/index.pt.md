@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.1: Plugin de desenho de página melhorado e novo Big Data backend"
+title: 'SeaTable 3.1: Plugin de desenho de página melhorado e novo Big Data backend'
 date: 2022-08-26
-lastmod: "2022-08-26"
-author: "rdb"
-url: "/pt/seatable-release-3-1"
+lastmod: '2022-08-26'
+author: 'rdb'
+url: '/pt/seatable-release-3-1'
+color: '#eeeeee'
 ---
 
 Temos o prazer de apresentar a última versão do SeaTable! O lançamento é apenas uma versão "menor", mas vem em grande estilo. O plugin de design de páginas alargado oferece agora mais opções para conceber e gerir modelos sofisticados. As novas funções também permitem cenários de aplicação completamente novos. O Big Data Backend, que está pronto para produção com a versão 3.1, faz o mesmo. A funcionalidade Enterprise excede o limite anterior do SeaTable de 100.000 linhas por base e torna o SeaTable pronto para tarefas maiores. As equipas maiores ficarão satisfeitas com a possibilidade de ordenar grupos na página inicial e de categorizar as vistas nas bases. Estes destaques e algumas outras novas funcionalidades são apresentados aqui. O registo de alterações contém a lista completa de alterações.
@@ -42,24 +43,23 @@ Com esta bifurcação de dados, o utilizador, enquanto utilizador, ganha uma eno
 
 Os conjuntos de dados no backend Big Data suportam todos os tipos de colunas e podem ser modificados e apagados, filtrados e agrupados. Os conjuntos de dados também podem ser movidos para trás e para a frente entre o armazenamento de dados normais e grandes. Por outro lado, as opções de edição dos conjuntos de dados Big Data são tecnicamente inferiores às do armazenamento normal. Existem restrições, especialmente no que diz respeito à partilha, automatizações e plug-ins: as opiniões que incluem dados do backend de Grandes Dados não podem ser partilhadas. Além disso, apenas o plugin de estatísticas pode tratar conjuntos de dados no grande armazém de dados. Todos os outros plugins e automatizações só podem utilizar vistas normais. Os grandes conjuntos de dados também não podem ser ligados. Se isto for necessário, devem ser primeiro movidos para a memória normal.
 
-|  | Vista normal | Grande Vista de Dados |
-| --- | --- | --- |
-| Trabalho colaborativo | ✓ |  |
-| Apoio para todos os plugins | ✓ |  |
-| Apoio para todos os tipos de colunas | ✓ | ✓ |
-| Ordenação | ✓ | ✓ |
-| Filtragem | ✓ | ✓ |
-| Agrupamento | ✓ | ✓# |
-| Esconder | ✓ | ✓ |
-| Formatação condicional | ✓ |  |
-| Pesquisa | ✓ | ✓ |
-| Pesquisa e Substituição | ✓ |  |
-| Processamento de dados | ✓ |  |
-| Exportar para Excel | ✓ | ✓ |
-| Exportar para DTABLE | ✓ |  |
+|                                      | Vista normal | Grande Vista de Dados |
+| ------------------------------------ | ------------ | --------------------- |
+| Trabalho colaborativo                | ✓            |                       |
+| Apoio para todos os plugins          | ✓            |                       |
+| Apoio para todos os tipos de colunas | ✓            | ✓                     |
+| Ordenação                            | ✓            | ✓                     |
+| Filtragem                            | ✓            | ✓                     |
+| Agrupamento                          | ✓            | ✓#                    |
+| Esconder                             | ✓            | ✓                     |
+| Formatação condicional               | ✓            |                       |
+| Pesquisa                             | ✓            | ✓                     |
+| Pesquisa e Substituição              | ✓            |                       |
+| Processamento de dados               | ✓            |                       |
+| Exportar para Excel                  | ✓            | ✓                     |
+| Exportar para DTABLE                 | ✓            |                       |
 
-  
-\# Esta função estará disponível no SeaTable 3.2. 
+\# Esta função estará disponível no SeaTable 3.2.
 
 O armazenamento de Big Data deve ser ativado numa Base através das definições. A transferência de dados da memória normal para a memória de Big Data é efectuada através da função "Vista de arquivo". O conteúdo da memória de Big Data pode ser visualizado numa vista de Big Data. As vistas Big Data carregam dados da memória Big Data para além dos conjuntos de dados da memória normal. Inicialmente, a vista só carrega 1.000 linhas da memória Big Data. Estas podem ser reconhecidas no editor de tabelas pelo triângulo cinzento na coluna do número da linha. Utilizando o menu de contexto, estas linhas podem ser movidas de volta para a memória normal. Para visualizar mais linhas do Big Data, desloque-se para além do fim da tabela ou clique em "Carregar tudo" na barra de estado.
 

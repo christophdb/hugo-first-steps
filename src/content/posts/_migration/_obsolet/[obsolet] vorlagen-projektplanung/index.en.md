@@ -1,13 +1,14 @@
 ---
-title: "Intelligent templates for project planning"
+title: 'Intelligent templates for project planning'
 date: 2022-05-20
-lastmod: "2022-07-27"
-coverImage: "Vorlagen-Projektplanung_AdobeStock_223684493_bearbeitet.jpg"
-author: "cdb"
-url: "/vorlagen-projektplanung"
+lastmod: '2022-07-27'
+coverImage: 'Vorlagen-Projektplanung_AdobeStock_223684493_bearbeitet.jpg'
+author: 'cdb'
+url: '/vorlagen-projektplanung'
+color: '#eeeeee'
 ---
 
-**Project planning****templates** make it possible to start planning and implementing a project immediately. Gantt charts, Kanban boards or smart lists are used to manage project activities, deadlines, budgets and more. Below you will find various templates including sample data for creating your project plan.
+**Project planning\*\***templates\*\* make it possible to start planning and implementing a project immediately. Gantt charts, Kanban boards or smart lists are used to manage project activities, deadlines, budgets and more. Below you will find various templates including sample data for creating your project plan.
 
 ## What is a project plan?
 

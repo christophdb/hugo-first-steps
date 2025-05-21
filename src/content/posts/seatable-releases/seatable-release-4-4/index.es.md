@@ -4,6 +4,7 @@ date: 2024-05-15
 lastmod: '2024-05-15'
 author: 'kgr'
 url: '/es/seatable-release-4-4'
+color: '#eeeeee'
 ---
 
 En SeaTable 4.4, continuamos con brío el desarrollo del Universal App Builder. Muchas funciones nuevas permiten aplicaciones web aún más potentes y cómodas. También hemos pulido la función de importación y los conjuntos de datos compartidos. Los prácticos valores por defecto se aplican ahora de forma universal.

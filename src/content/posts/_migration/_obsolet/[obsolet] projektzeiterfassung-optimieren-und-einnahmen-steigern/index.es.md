@@ -1,9 +1,10 @@
 ---
-title: "Cómo optimizar el seguimiento temporal de sus proyectos - SeaTable"
+title: 'Cómo optimizar el seguimiento temporal de sus proyectos - SeaTable'
 date: 2021-05-03
-lastmod: "2023-07-11"
-author: "ott"
-url: "/es/projektzeiterfassung-optimieren-und-einnahmen-steigern"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/es/projektzeiterfassung-optimieren-und-einnahmen-steigern'
+color: '#eeeeee'
 ---
 
 Muchos proveedores de servicios lo conocen y lo temen: el seguimiento temporal de los proyectos. El control del tiempo es impopular y, en la mayoría de los casos, no se lleva a cabo con la meticulosidad que quizá debería. Sin embargo, el lema es "el tiempo es oro". Los diseñadores, arquitectos y agencias conocen este problema y a veces les cuesta encontrarle remedio.

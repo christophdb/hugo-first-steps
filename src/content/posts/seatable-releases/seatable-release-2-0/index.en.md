@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 2.0: Three new column types, new and improved plugins and Russian as user language - SeaTable"
+title: 'SeaTable 2.0: Three new column types, new and improved plugins and Russian as user language - SeaTable'
 date: 2021-05-27
-lastmod: "2023-07-11"
-coverImage: "Seatable-2-0.png"
-author: "rdb"
-url: "/seatable-release-2-0"
+lastmod: '2023-07-11'
+coverImage: 'Seatable-2-0.png'
+author: 'rdb'
+url: '/seatable-release-2-0'
+color: '#eeeeee'
 ---
 
 On July 1, 2020, SeaTable 1.0 saw the light of day. Since then, it has been pulled from Docker Hub over 100.000 times. This overwhelming interest in SeaTable has pushed us ahead, and we are happy to announce a major milestone in the development of SeaTable: We rolled out SeaTable 2.0 on [SeaTable Cloud](https://cloud.seatable.io) and published it on [Docker Hub](https://hub.docker.com/u/seatable) for private installations.
@@ -49,7 +50,7 @@ The rating column is not the only change in SeaTable 2.0 boosting the versatilit
 
 Less visible than the logo, but all the more important: SeaTable 2.0's web forms can now handle link columns. Link columns are more flexible and dynamic than the alternative single select columns and so allow even more detailed surveys.
 
-Completely invisible in the editor, but all the more powerful in the application is the default value function for form fields. To prefill a form field with a default value, add '?prefill\_COLUMNAME=PREFILLVALUE' to the form URL. (COLUMNAME is the name of the column whose field is to be prefilled; PREFILLVALUE is the value to be inserted. Spaces in column names are to be written as "%20" and are case sensitive). Of course, several form fields can also be provided with default values. For this purpose, several COLUMNNAME-PREFILLVALUE pairs are connected with the ampersand ("&").
+Completely invisible in the editor, but all the more powerful in the application is the default value function for form fields. To prefill a form field with a default value, add '?prefill_COLUMNAME=PREFILLVALUE' to the form URL. (COLUMNAME is the name of the column whose field is to be prefilled; PREFILLVALUE is the value to be inserted. Spaces in column names are to be written as "%20" and are case sensitive). Of course, several form fields can also be provided with default values. For this purpose, several COLUMNNAME-PREFILLVALUE pairs are connected with the ampersand ("&").
 
 ## Column type #24: Geolocation
 

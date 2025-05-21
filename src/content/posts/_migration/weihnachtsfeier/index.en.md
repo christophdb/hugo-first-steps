@@ -1,9 +1,10 @@
 ---
-title: "Christmas party 2024 - ideas for a unique company event"
+title: 'Christmas party 2024 - ideas for a unique company event'
 date: 2023-08-25
-lastmod: "2024-07-09"
-author: "nsc2"
-url: "/weihnachtsfeier"
+lastmod: '2024-07-09'
+author: 'nsc2'
+url: '/weihnachtsfeier'
+color: '#eeeeee'
 ---
 
 It will soon be that time again! While some people are still mourning the past summer, the first gingerbread and cookies on the supermarket shelves are already reminding us of the coming Christmas season. But even if you're not yet in the Christmas spirit: The next company Christmas party is already waiting for you. To make your 2024 Christmas party unforgettable, you can't start planning early enough!

@@ -1,9 +1,10 @@
 ---
-title: "Criar uma análise custo-benefício"
+title: 'Criar uma análise custo-benefício'
 date: 2024-03-04
-lastmod: "2025-02-20"
-author: "cdb"
-url: "/pt/kosten-nutzen-analyse-vorlage"
+lastmod: '2025-02-20'
+author: 'cdb'
+url: '/pt/kosten-nutzen-analyse-vorlage'
+color: '#eeeeee'
 ---
 
 No dia a dia da vida empresarial, nem sempre é fácil tomar as decisões correctas. É preciso considerar muitos aspectos e factores e, muitas vezes, avaliar o efeito de certas medidas sem quaisquer valores empíricos. O sucesso da sua empresa depende de uma coisa em particular: a base sobre a qual as suas decisões são tomadas. É bom que possa colocar as suas decisões numa base sólida com uma **análise custo-benefício**.
@@ -69,15 +70,15 @@ A loja de mobiliário "Gemütlich Wohnen" emprega um total de dez consultores de
 
 Por outro lado, há o lucro que este programa de formação complementar pode trazer. Os empresários conhecem os **custos** exactos da formação, ou seja, as propinas do curso, o alojamento, as deslocações e a perda de rendimentos. Também definiram um valor para o **benefício esperado** sob a forma de melhoria dos processos de trabalho e aumento do volume de negócios. Para poderem avaliar se este investimento vale a pena, os empresários preparam a seguinte análise custo-benefício:
 
-| Factor de esforço | Custos | Factor de benefício | Benefício esperado |
-| --- | --- | --- | --- |
-| Taxa do curso | 2.500 € | fluxo de trabalho melhorado | 3.300 € |
-| Despesas de viagem | 1.500 € | aumento das vendas | 16.000 € |
-| Estadia nocturna | 1.650 € |  |  |
-| Perda de rendimentos | 2.200 € |  |  |
-|  |  |  |  |
-|  | Custos totais |  | Benefícios totais |
-|  | 7.850 € |  | 19.300 € |
+| Factor de esforço    | Custos        | Factor de benefício         | Benefício esperado |
+| -------------------- | ------------- | --------------------------- | ------------------ |
+| Taxa do curso        | 2.500 €       | fluxo de trabalho melhorado | 3.300 €            |
+| Despesas de viagem   | 1.500 €       | aumento das vendas          | 16.000 €           |
+| Estadia nocturna     | 1.650 €       |                             |                    |
+| Perda de rendimentos | 2.200 €       |                             |                    |
+|                      |               |                             |                    |
+|                      | Custos totais |                             | Benefícios totais  |
+|                      | 7.850 €       |                             | 19.300 €           |
 
 A ACB permite aos empresários comparar os custos totais de 7.850 euros com o benefício total esperado de mais de 19.000 euros. Isto mostra-lhes que o investimento planeado valerá a pena a longo prazo.
 
@@ -86,11 +87,11 @@ A ACB permite aos empresários comparar os custos totais de 7.850 euros com o be
 Para além da clássica análise custo-benefício, existem [outras formas e métodos](https://de.wikipedia.org/wiki/Kosten-Nutzen-Analyse) para quantificar a rentabilidade dos projectos e garantir uma utilização eficiente dos recursos financeiros.
 
 - **Estudos de minimização de custos / Estudos de minimização de custos:**  
-    Neste caso, avaliam-se os custos de diferentes métodos (por exemplo, tratamentos de saúde) e comparam-se entre si. Cada método deve atingir um resultado comparável (por exemplo, a recuperação total). Ganha o método mais favorável.
+   Neste caso, avaliam-se os custos de diferentes métodos (por exemplo, tratamentos de saúde) e comparam-se entre si. Cada método deve atingir um resultado comparável (por exemplo, a recuperação total). Ganha o método mais favorável.
 - **Análise custo-eficácia:**  
-    Trata-se de um instrumento para avaliar a relação custo-eficácia dos projectos cujos benefícios não podem ser medidos em termos monetários (por exemplo, vidas salvas, clientes satisfeitos, melhoria da qualidade ambiental). O resultado é um quociente entre os custos ou unidades monetárias divididos pelos benefícios ou unidades de resultados.
+   Trata-se de um instrumento para avaliar a relação custo-eficácia dos projectos cujos benefícios não podem ser medidos em termos monetários (por exemplo, vidas salvas, clientes satisfeitos, melhoria da qualidade ambiental). O resultado é um quociente entre os custos ou unidades monetárias divididos pelos benefícios ou unidades de resultados.
 - **Análise custo-utilidade:**  
-    Esta análise é um dos métodos qualitativos e não monetários da teoria da decisão. Também é possível avaliar questões complexas e minimizar o risco de decisões erradas, incluindo factores não mensuráveis monetariamente, como o aumento da qualidade.
+   Esta análise é um dos métodos qualitativos e não monetários da teoria da decisão. Também é possível avaliar questões complexas e minimizar o risco de decisões erradas, incluindo factores não mensuráveis monetariamente, como o aumento da qualidade.
 
 ## Pode encontrar um modelo adequado aqui
 

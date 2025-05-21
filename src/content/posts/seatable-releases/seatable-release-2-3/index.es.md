@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.3: Aún más flexibilidad de despliegue con la función de archivo - SeaTable"
+title: 'SeaTable 2.3: Aún más flexibilidad de despliegue con la función de archivo - SeaTable'
 date: 2021-09-02
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/es/seatable-release-2-3"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/es/seatable-release-2-3'
+color: '#eeeeee'
 ---
 
 La versión 2.3 de SeaTable, disponible desde hoy, se prepara para conquistar nuevos campos de aplicación. Con la función de archivo, que se presenta como beta en esta versión, SeaTable se recomienda ahora también para casos de uso intensivo de datos: En SeaTable se pueden almacenar y evaluar tablas con millones de registros de datos. Es el objetivo de estas notas de la versión. Otras innovaciones y mejoras se presentan en un resumen. La lista completa de cambios se puede encontrar - como siempre - en el [Changelog de SeaTable](https://seatable.io/es/docs/changelog/version-2-3/).
@@ -20,19 +21,18 @@ En cuanto a las opciones de evaluación y análisis, las diferencias entre las f
 
 La diferencia central es el apoyo a la colaboración en línea en tiempo real: las filas activas se cargan completamente en la memoria de trabajo cuando se llama a la tabla. Así, cada cambio en una tabla puede transmitirse inmediatamente a otros usuarios. Los datos archivados son diferentes: Cuando se abre una tabla, sólo se cargan las primeras 1.000 filas desde el archivo. Los datos adicionales se pueden recuperar página por página. Esta renuncia a la carga completa permite una visualización rápida en la interfaz web, incluso de tablas con muchos cientos de miles de filas, pero también supone renunciar a la colaboración en tiempo real.
 
-|  | Vista normal | Ver incl.   datos archivados |
-| --- | --- | --- |
-| Trabajo en colaboración | ✓ |  |
-| Soporte para todos los tipos de columnas | ✓ | ✓# |
-| Soporte de plugins | ✓ | ✓ \* |
-| Acceso de lectura y escritura | ✓ | ✓ \* |
-| Clasificación | ✓ | ✓ |
-| Filtrado | ✓ | ✓ |
-| Agrupación | ✓ |  |
-| Ocultar | ✓ | ✓ \* |
-| Buscar en | ✓ | ✓ \* |
+|                                          | Vista normal | Ver incl. datos archivados |
+| ---------------------------------------- | ------------ | -------------------------- |
+| Trabajo en colaboración                  | ✓            |                            |
+| Soporte para todos los tipos de columnas | ✓            | ✓#                         |
+| Soporte de plugins                       | ✓            | ✓ \*                       |
+| Acceso de lectura y escritura            | ✓            | ✓ \*                       |
+| Clasificación                            | ✓            | ✓                          |
+| Filtrado                                 | ✓            | ✓                          |
+| Agrupación                               | ✓            |                            |
+| Ocultar                                  | ✓            | ✓ \*                       |
+| Buscar en                                | ✓            | ✓ \*                       |
 
-  
 \# En la versión 2.3, se admiten todos los tipos de columnas, a excepción de las fórmulas y los enlaces.  
 \* Estas funciones aún no están disponibles en la versión 2.3.
 
@@ -66,7 +66,6 @@ El historial de la mesa y los comentarios no forman parte de la información que
 
 Después de los [valores por defecto para las columnas](https://seatable.io/es/seatable-release-2-0/?lang=auto), ahora también hay valores por defecto para los campos del formulario en la versión 2.3. Y no sólo se admiten valores estáticos por defecto: Las variables _creator.id_ y _creator._ name insertan automáticamente el ID de usuario o el nombre de usuario en el campo del formulario para los usuarios conectados.
 
-  
 ![Valores por defecto en los formularios](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
 
 ### Vista previa del texto formateado del tipo de columna

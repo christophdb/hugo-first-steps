@@ -1,9 +1,10 @@
 ---
-title: "Produktlaunch- so funktioniert es garantiert | SeaTable"
+title: 'Produktlaunch- so funktioniert es garantiert | SeaTable'
 date: 2020-09-24
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/de/produktlaunch-so-funktioniert-es-garantiert"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/de/produktlaunch-so-funktioniert-es-garantiert'
+color: '#eeeeee'
 ---
 
 Haben Sie den Prozess der Produktentwicklung erfolgreich abgeschlossen, steht einem Produktlaunch nichts mehr im Wege.

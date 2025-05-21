@@ -1,9 +1,10 @@
 ---
-title: "Festa de Natal 2024 - ideias para um evento empresarial único"
+title: 'Festa de Natal 2024 - ideias para um evento empresarial único'
 date: 2023-08-25
-lastmod: "2024-07-09"
-author: "nsc2"
-url: "/pt/weihnachtsfeier"
+lastmod: '2024-07-09'
+author: 'nsc2'
+url: '/pt/weihnachtsfeier'
+color: '#eeeeee'
 ---
 
 Em breve chegará de novo aquela altura! Enquanto algumas pessoas ainda estão a lamentar o verão que passou, os primeiros biscoitos de gengibre e bolachas nas prateleiras dos supermercados já nos recordam a época natalícia que se aproxima. Mas mesmo que ainda não esteja no espírito natalício: A próxima festa de Natal da empresa já está à sua espera. Para tornar a sua festa de Natal de 2024 inesquecível, não pode começar a planear com antecedência suficiente!

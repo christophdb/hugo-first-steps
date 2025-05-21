@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 1.7: Interface improvement and Excel import"
+title: 'SeaTable 1.7: Interface improvement and Excel import'
 date: 2021-02-07
-lastmod: "2021-02-07"
-coverImage: "seatable-release-1.7.jpg"
-author: "rdb"
-url: "/seatable-release-1-7"
+lastmod: '2021-02-07'
+coverImage: 'seatable-release-1.7.jpg'
+author: 'rdb'
+url: '/seatable-release-1-7'
+color: '#eeeeee'
 ---
 
 A month has passed since the release of SeaTable 1.6, so it's about time for a new release. Here it is: We proudly present SeaTable 1.7! It was rolled out today, so SeaTable Cloud users have already started using it. On-premises users will be able to download the newest version from Docker Hub shortly.

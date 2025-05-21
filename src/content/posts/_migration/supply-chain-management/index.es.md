@@ -1,9 +1,10 @@
 ---
-title: "Cómo optimizar la gestión de su cadena de suministro con SeaTable - SeaTable"
+title: 'Cómo optimizar la gestión de su cadena de suministro con SeaTable - SeaTable'
 date: 2021-10-07
-lastmod: "2023-07-11"
-author: "pbr"
-url: "/es/supply-chain-management"
+lastmod: '2023-07-11'
+author: 'pbr'
+url: '/es/supply-chain-management'
+color: '#eeeeee'
 ---
 
 El engranaje de varios procesos a lo largo de la cadena de valor de un producto es muy complejo: desde la adquisición hasta el almacenamiento y el cliente final. Los procesos y procedimientos deben planificarse, respetarse y optimizarse siempre de forma eficaz para que el cliente final también reciba el producto deseado en el momento adecuado, es decir, cuando lo quiera. SeaTable le ofrece la oportunidad de planificar de forma óptima la gestión de su cadena de suministro y mantener siempre el control de toda la cadena de valor.

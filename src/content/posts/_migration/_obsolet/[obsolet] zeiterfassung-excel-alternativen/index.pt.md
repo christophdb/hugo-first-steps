@@ -1,9 +1,10 @@
 ---
-title: "6 Alternativas ao controlo de tempo no Excel - SeaTable"
+title: '6 Alternativas ao controlo de tempo no Excel - SeaTable'
 date: 2022-03-04
-lastmod: "2023-04-27"
-author: "cdb"
-url: "/pt/zeiterfassung-excel-alternativen"
+lastmod: '2023-04-27'
+author: 'cdb'
+url: '/pt/zeiterfassung-excel-alternativen'
+color: '#eeeeee'
 ---
 
 Como funciona o **registo de horas no Excel** e que alternativas estão disponíveis? Em seguida, ficará a saber como implementar o registo de horas com o Excel ou com uma ferramenta alternativa. Ficará também a conhecer as vantagens e desvantagens das diferentes soluções. Qual delas se adequa à sua empresa?

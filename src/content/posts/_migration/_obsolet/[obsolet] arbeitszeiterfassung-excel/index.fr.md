@@ -1,9 +1,10 @@
 ---
-title: "Outils de suivi du temps de travail : Excel vs. SeaTable - SeaTable"
+title: 'Outils de suivi du temps de travail : Excel vs. SeaTable - SeaTable'
 date: 2021-07-22
-lastmod: "2023-05-02"
-author: "ott"
-url: "/fr/arbeitszeiterfassung-excel"
+lastmod: '2023-05-02'
+author: 'ott'
+url: '/fr/arbeitszeiterfassung-excel'
+color: '#eeeeee'
 ---
 
 Connaissez-vous déjà les [dispositions légales](https://seatable.io/fr/zeiterfassung-mitarbeiter/) relatives à la saisie électronique du temps de travail ? Si oui, vous êtes probablement en train de chercher la meilleure solution logicielle pour vos besoins. Les options sont nombreuses, mais les licences logicielles pour chaque employé peuvent vite coûter cher, que ce soit avec un logiciel spécialisé comme Personio ou Clockodo ou un tableur comme Microsoft Excel. Dans de nombreuses entreprises qui utilisent de toute façon le pack Office de Microsoft, Excel est utilisé pour la saisie du temps de travail, bien que cela présente quelques inconvénients. Dans cet article, vous découvrirez donc quelle alternative économique existe et comment elle se compare à Excel.

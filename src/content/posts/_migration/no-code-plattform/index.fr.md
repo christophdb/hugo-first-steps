@@ -1,9 +1,10 @@
 ---
-title: "Votre guide pour les plateformes no code et low code en 2022"
+title: 'Votre guide pour les plateformes no code et low code en 2022'
 date: 2021-11-12
-lastmod: "2022-08-29"
-author: "cdb"
-url: "/fr/no-code-plattform"
+lastmod: '2022-08-29'
+author: 'cdb'
+url: '/fr/no-code-plattform'
+color: '#eeeeee'
 ---
 
 Le développement de logiciels est toujours fatigant, chronophage, coûteux et requiert les compétences d'un développeur expérimenté. No-Code est la promesse d'accélérer et de simplifier ce processus laborieux qu'est le développement de logiciels.

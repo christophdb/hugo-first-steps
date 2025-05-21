@@ -1,10 +1,11 @@
 ---
-title: "Product launch - guaranteed to work | SeaTable"
+title: 'Product launch - guaranteed to work | SeaTable'
 date: 2020-09-24
-lastmod: "2022-06-13"
-coverImage: "SeaTable-Product-Launch.jpg"
-author: "rbu"
-url: "/produktlaunch-so-funktioniert-es-garantiert"
+lastmod: '2022-06-13'
+coverImage: 'SeaTable-Product-Launch.jpg'
+author: 'rbu'
+url: '/produktlaunch-so-funktioniert-es-garantiert'
+color: '#eeeeee'
 ---
 
 Once you have successfully completed the product development process, nothing stands in the way of a product launch.

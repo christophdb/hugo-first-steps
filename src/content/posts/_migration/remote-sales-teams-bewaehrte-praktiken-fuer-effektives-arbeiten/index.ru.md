@@ -1,9 +1,10 @@
 ---
-title: "Удаленные команды продаж: лучшие практики для эффективной работы"
+title: 'Удаленные команды продаж: лучшие практики для эффективной работы'
 date: 2023-06-06
-lastmod: "2023-06-28"
-author: "nsc2"
-url: "/ru/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten"
+lastmod: '2023-06-28'
+author: 'nsc2'
+url: '/ru/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
+color: '#eeeeee'
 ---
 
 Обстоятельства 2020 года существенно изменили способ работы в компаниях. Согласно недавнему [опросу Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 из 10 удаленных работников хотели бы в той или иной степени сохранить этот способ работы.

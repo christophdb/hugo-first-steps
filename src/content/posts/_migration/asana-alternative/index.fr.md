@@ -1,9 +1,10 @@
 ---
 title: "Voici les 6 meilleures alternatives d'Asana"
 date: 2022-05-06
-lastmod: "2022-07-27"
-author: "cdb"
-url: "/fr/asana-alternative"
+lastmod: '2022-07-27'
+author: 'cdb'
+url: '/fr/asana-alternative'
+color: '#eeeeee'
 ---
 
 Pour gérer des projets avec succès, il faut être organisé et structuré. Pour respecter les délais, travailler efficacement et atteindre les objectifs, l'utilisation d'[outils](https://seatable.io/fr/projekt-management-tool/) numériques [de gestion de projet](https://seatable.io/fr/projekt-management-tool/) est un atout majeur. De nombreuses équipes ont recours à Asana pour cela, bien qu'il existe bien plus d'outils tout aussi performants. Mais quelle est la meilleure **alternative à Asana**?

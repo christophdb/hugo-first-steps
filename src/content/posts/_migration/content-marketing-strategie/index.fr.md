@@ -1,9 +1,10 @@
 ---
-title: "Comment développer une stratégie de marketing de contenu - SeaTable"
+title: 'Comment développer une stratégie de marketing de contenu - SeaTable'
 date: 2021-02-28
-lastmod: "2023-06-26"
-author: "cdb"
-url: "/fr/content-marketing-strategie"
+lastmod: '2023-06-26'
+author: 'cdb'
+url: '/fr/content-marketing-strategie'
+color: '#eeeeee'
 ---
 
 Le marketing de contenu est une approche marketing très appréciée pour placer ses produits auprès des clients et des prospects potentiels. L'idée de base du marketing de contenu est très simple : on crée des contenus pour son groupe cible, on les publie et on enthousiasme ses clients.
@@ -44,7 +45,7 @@ Qu'est-ce qui est important dans une stratégie de marketing de contenu ? Que do
 
 Il existe différentes définitions du marketing de contenu, mais la description avec les trois P est celle qui correspond le mieux. Ceux-ci représentent les trois termes anglais : _Preparation_, _Production_ et _Publication_. On lit aussi parfois _Produce_, _Publish_ et _Promote_. Mais au final, il s'agit toujours d'élaborer de manière ciblée un contenu pertinent pour le client.
 
-**Preparation** comprend la planification stratégique et la préparation de votre propre stratégie de contenu. Pour ce faire, il convient de définir le groupe cible ou des [Personas](https://en.wikipedia.org/wiki/Persona_\(user_experience\)) sélectionner, identifier les bons canaux et les termes SEO et, à partir de là, élaborer un plan pour le bon contenu.
+**Preparation** comprend la planification stratégique et la préparation de votre propre stratégie de contenu. Pour ce faire, il convient de définir le groupe cible ou des [Personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) sélectionner, identifier les bons canaux et les termes SEO et, à partir de là, élaborer un plan pour le bon contenu.
 
 **Production** consiste en toutes les étapes nécessaires pour donner vie aux contenus et surveiller leur création. Pour cela, vous déterminez qui doit créer le contenu et quand, quels doivent être les mots-clés et les titres exacts, qui doit fournir les informations et qui doit ensuite rédiger le contenu, etc.
 

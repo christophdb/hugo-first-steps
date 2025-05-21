@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 1.5: Editor, acciones y formularios web mejorados - SeaTable"
+title: 'SeaTable 1.5: Editor, acciones y formularios web mejorados - SeaTable'
 date: 2020-11-27
-lastmod: "2022-06-14"
-author: "rdb"
-url: "/es/seatable-release-1-5"
+lastmod: '2022-06-14'
+author: 'rdb'
+url: '/es/seatable-release-1-5'
+color: '#eeeeee'
 ---
 
 Hoy hemos actualizado cloud.seatable.io a la versión 1.5 de SeaTable. Con el próximo inicio de sesión, todos los usuarios se beneficiarán de nuevas e interesantes características y de una serie de mejoras en la interfaz y en las funciones existentes. A primera vista, notará los numerosos cambios menores y mayores en el editor de tablas, lo que se traduce en una mayor eficiencia del flujo de trabajo y una mejor experiencia del usuario. Los nuevos permisos de uso compartido personalizados proporcionan más control y flexibilidad a la hora de trabajar en colaboración en las bases. Las opciones de personalización mejoradas hacen de los formularios web de SeaTable una herramienta aún más versátil para la recogida de datos.

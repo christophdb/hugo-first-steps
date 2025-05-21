@@ -1,9 +1,10 @@
 ---
-title: "Immobilien: 4 nützliche Vorlagen für Mieter und Vermieter"
+title: 'Immobilien: 4 nützliche Vorlagen für Mieter und Vermieter'
 date: 2022-04-17
-lastmod: "2023-11-06"
-author: "cdb"
-url: "/de/immobilien-vorlagen"
+lastmod: '2023-11-06'
+author: 'cdb'
+url: '/de/immobilien-vorlagen'
+color: '#eeeeee'
 ---
 
 Wir kümmern uns um Ihre Organisation – ganz egal, ob Sie Ihre Immobilien übersichtlich verwalten möchten, auf der Suche nach einer Wohnung sind oder bereits den nächsten Umzug planen.

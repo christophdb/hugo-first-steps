@@ -1,10 +1,11 @@
 ---
-title: "Your Guide to No-Code and Low-Code Platforms in 2022"
+title: 'Your Guide to No-Code and Low-Code Platforms in 2022'
 date: 2021-11-12
-lastmod: "2022-08-29"
-coverImage: "no-code-plattform-seatable.jpg"
-author: "cdb"
-url: "/no-code-plattform"
+lastmod: '2022-08-29'
+coverImage: 'no-code-plattform-seatable.jpg'
+author: 'cdb'
+url: '/no-code-plattform'
+color: '#eeeeee'
 ---
 
 Software development is always exhausting, time-consuming, laborious and requires the skills of an experienced developer. No-Code is the promise to accelerate and simplify this laborious process of software development.

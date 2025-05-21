@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 3.0: Data validation, office web editors and new storage backend - SeaTable"
+title: 'SeaTable 3.0: Data validation, office web editors and new storage backend - SeaTable'
 date: 2022-06-21
-lastmod: "2022-06-27"
-coverImage: "release-3.0.jpg"
-author: "rdb"
-url: "/seatable-release-3-0"
+lastmod: '2022-06-27'
+coverImage: 'release-3.0.jpg'
+author: 'rdb'
+url: '/seatable-release-3-0'
+color: '#eeeeee'
 ---
 
 SeaTable 3.0 is here! The third major release of SeaTable offers online editing of Office documents, automatic data validation, more functions for shared data sets and a new server component for more efficient storage of bases. As always, the [changelog](/en/docs/changelog/version-3-0/) provides information about the many other detailed improvements and bug fixes in the new version. The new functions are available immediately for [SeaTable Cloud users](https://cloud.seatable.io/). The image for SeaTable 3.0 was made available tonight on [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  
@@ -38,7 +39,7 @@ Online editing is available in all SeaTable Cloud subscriptions, including the f
 
 The Shared Records feature allows you to synchronize data from one Base to one or more other Bases. They are especially useful when you want to make data available to other users for further processing and enrichment, but you cannot give these users access rights to the list you manage ("master list"). Version 3.0 includes several enhancements to simplify the creation, synchronization, and duplication of shared records.
 
-![Existing common datasets are displayed in the &quot;New common dataset&quot; dialogue box.](images/ExistingCDS.png)
+![Existing common datasets are displayed in the "New common dataset" dialogue box.](images/ExistingCDS.png)
 
 As of SeaTable 3.0, the New Shared Record dialog displays shared records that have already been created. This avoids the multiple creation of common data sets.
 

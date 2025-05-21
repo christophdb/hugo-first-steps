@@ -1,10 +1,11 @@
 ---
-title: "Hours tracking made easy: free template from SeaTable - SeaTable"
+title: 'Hours tracking made easy: free template from SeaTable - SeaTable'
 date: 2020-08-28
-lastmod: "2023-04-27"
-coverImage: "who-s-denilo-3ECPkzvwlBs-unsplash-scaled-1.jpg"
-author: "rbu"
-url: "/stundenerfassung-mit-seatable"
+lastmod: '2023-04-27'
+coverImage: 'who-s-denilo-3ECPkzvwlBs-unsplash-scaled-1.jpg'
+author: 'rbu'
+url: '/stundenerfassung-mit-seatable'
+color: '#eeeeee'
 ---
 
 The electronic recording of working hours is not yet mandatory, but [if the Federal Ministry of Labor has its way](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html), it should come soon. A simple [template for recording working hours](https://seatable.io/en/arbeitszeiterfassung/) provides you with a remedy here. With SeaTable you have a form for recording hours for your employees and at the same time a clear table at hand in which you can see all hours worked.

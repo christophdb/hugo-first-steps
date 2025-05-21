@@ -1,9 +1,10 @@
 ---
 title: "Comment la maison d'édition Ventil fait passer ses processus internes à la vitesse supérieure - SeaTable"
 date: 2021-01-27
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/fr/ventil-verlag"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/fr/ventil-verlag'
+color: '#eeeeee'
 ---
 
 Ventil Verlag a besoin d'un outil organisationnel flexible pour ses processus de publication internes. Les diverses et petites tâches organisationnelles qui ne peuvent pas être cartographiées de manière significative dans un logiciel standard ont conduit Ventil Verlag à SeaTable.

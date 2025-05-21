@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 4.0: new column type, improved file management and progress in Universal App Builder - SeaTable"
+title: 'SeaTable 4.0: new column type, improved file management and progress in Universal App Builder - SeaTable'
 date: 2023-06-27
-lastmod: "2023-06-27"
-coverImage: "seatable-release-4.0.jpg"
-author: "kgr"
-url: "/seatable-release-4-0"
+lastmod: '2023-06-27'
+coverImage: 'seatable-release-4.0.jpg'
+author: 'kgr'
+url: '/seatable-release-4-0'
+color: '#eeeeee'
 ---
 
 While the sun is blazing outside, our developers have kept a cool head and finished the fourth major release of SeaTable. SeaTable version 4.0 improves existing features, but also quenches the thirst for new features. New in version 4.0: a column type for digital signatures, an integrated file manager for easier attachment management and - for our Cloud Enterprise customers - a custom logo feature as a branding option.
@@ -83,12 +84,12 @@ In the Base Log, SeaTable stores changes that you and your team members make in 
 
 Since version 1.0, we have expanded the functionality of SeaTable step by step. We have also made significant investments in simpler and more powerful integrations, improved documentation and increased security. Together with the generally high price dynamics, this requires an adjustment of our prices for [SeaTable Server licenses](https://seatable.io/en/on-premises/).
 
-| Number of users | Price so far | Price new | Change |
-| --- | --- | --- | --- |
-|   3   | 0 € | 0 € | \-- |
-|   10   | 400 € | 500 € | \+ 25,0 % |
-|   25   | 1.500 € | 1.250 € | \- 16,7 % |
-|   50   | 3.500 € | 4.500 € | \+ 28,6 % |
+| Number of users | Price so far | Price new | Change    |
+| --------------- | ------------ | --------- | --------- |
+| 3               | 0 €          | 0 €       | \--       |
+| 10              | 400 €        | 500 €     | \+ 25,0 % |
+| 25              | 1.500 €      | 1.250 €   | \- 16,7 % |
+| 50              | 3.500 €      | 4.500 €   | \+ 28,6 % |
 
 For new customers, the new license prices will apply starting August 1, 2023. SeaTable Server existing customers will continue to receive license renewals at the old prices until December 31, 2023.
 

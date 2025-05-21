@@ -1,9 +1,10 @@
 ---
-title: "Propriedade: 4 modelos úteis para inquilinos e senhorios"
+title: 'Propriedade: 4 modelos úteis para inquilinos e senhorios'
 date: 2022-04-17
-lastmod: "2023-11-06"
-author: "cdb"
-url: "/pt/immobilien-vorlagen"
+lastmod: '2023-11-06'
+author: 'cdb'
+url: '/pt/immobilien-vorlagen'
+color: '#eeeeee'
 ---
 
 Nós tratamos da sua organização - independentemente de querer gerir claramente os seus imóveis, de estar à procura de um apartamento ou de já estar a planear a sua próxima mudança.

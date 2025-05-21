@@ -1,9 +1,10 @@
 ---
-title: "Escreva um livro: resumo de 7 ferramentas de software de autoria"
+title: 'Escreva um livro: resumo de 7 ferramentas de software de autoria'
 date: 2024-03-20
-lastmod: "2024-03-20"
-author: "nsc"
-url: "/pt/buch-schreiben"
+lastmod: '2024-03-20'
+author: 'nsc'
+url: '/pt/buch-schreiben'
+color: '#eeeeee'
 ---
 
 Escrever um livro é um processo fascinante, mas também desafiante para muitas pessoas. Desde a ideia inicial até ao **manuscrito** acabado, há inúmeros obstáculos a ultrapassar e passos a dar. Numa altura em que as ferramentas digitais e as soluções de software desempenham um papel cada vez mais importante no **processo criativo**, é crucial que os autores encontrem o software certo para dar vida às suas visões. Este artigo analisa em pormenor **7 ferramentas** que pode utilizar para escrever o seu livro.

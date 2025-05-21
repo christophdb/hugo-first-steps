@@ -1,9 +1,10 @@
 ---
-title: "Lista de compras e aplicação: 7 listas de compras digitais em comparação"
+title: 'Lista de compras e aplicação: 7 listas de compras digitais em comparação'
 date: 2024-02-05
-lastmod: "2024-02-05"
-author: "nsc"
-url: "/pt/einkaufsliste"
+lastmod: '2024-02-05'
+author: 'nsc'
+url: '/pt/einkaufsliste'
+color: '#eeeeee'
 ---
 
 Na vida quotidiana agitada, ir ao supermercado pode tornar-se um verdadeiro desafio entre todos os compromissos profissionais e privados. Em dias de stress, não é raro esquecer a lista de compras que foi cuidadosamente criada em casa. Mas não se preocupe - uma **lista de compras digital/aplicação** pode ser um remédio eficaz nessas situações.
@@ -50,7 +51,7 @@ Quer se trate de gerir e ordenar **categorias de alimentos** ou das suas **recei
 
 - Não há desvantagens relevantes disponíveis
 
-![A aplicação &quot;Lista de compras ](images/Die-Einkaufsliste-711x971.jpg)
+![A aplicação "Lista de compras ](images/Die-Einkaufsliste-711x971.jpg)
 
 Este é o aspeto da "lista de compras".
 
@@ -72,7 +73,7 @@ Na aplicação, também pode enviar **mensagens predefinidas** aos colegas de ca
 
 - Não há desvantagens relevantes disponíveis
 
-![A aplicação de lista de compras &quot;Traz!&quot;](images/Bring-711x1022.jpg)
+![A aplicação de lista de compras "Traz!"](images/Bring-711x1022.jpg)
 
 A aplicação de lista de compras "Traz!"
 
@@ -115,7 +116,7 @@ Se guardar as suas **receitas** na aplicação, pode adicionar os ingredientes e
 - Sem ofertas
 - O número ilimitado de listas e modelos está sujeito a um custo
 
-![A aplicação &quot;ToBuy](images/ToBuy-711x1086.jpg)
+![A aplicação "ToBuy](images/ToBuy-711x1086.jpg)
 
 A aplicação "ToBuy" em modo escuro
 
@@ -136,7 +137,7 @@ Embora aqui sejam possíveis **vários agrupamentos** e **ordenações personali
 - Sem ofertas
 - Sem funcionalidades inteligentes
 
-![A aplicação de lista de compras &quot;WeNeed&quot;](images/WeNeed-711x1083.jpg)
+![A aplicação de lista de compras "WeNeed"](images/WeNeed-711x1083.jpg)
 
 A aplicação "WeNeed
 

@@ -1,9 +1,10 @@
 ---
-title: "Immobilier : 4 modèles utiles pour les locataires et les bailleurs"
+title: 'Immobilier : 4 modèles utiles pour les locataires et les bailleurs'
 date: 2022-04-17
-lastmod: "2023-11-06"
-author: "cdb"
-url: "/fr/immobilien-vorlagen"
+lastmod: '2023-11-06'
+author: 'cdb'
+url: '/fr/immobilien-vorlagen'
+color: '#eeeeee'
 ---
 
 Nous nous occupons de votre organisation, que vous souhaitiez gérer vos biens immobiliers de manière claire, que vous soyez à la recherche d'un logement ou que vous planifiiez déjà votre prochain déménagement.

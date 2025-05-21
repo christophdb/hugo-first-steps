@@ -1,10 +1,11 @@
 ---
-title: "Indirect purchasing: easy and cost-saving with SeaTable - SeaTable"
+title: 'Indirect purchasing: easy and cost-saving with SeaTable - SeaTable'
 date: 2021-11-19
-lastmod: "2023-07-11"
-coverImage: "indirect_procurement.jpg"
-author: "ott"
-url: "/indirekter-einkauf"
+lastmod: '2023-07-11'
+coverImage: 'indirect_procurement.jpg'
+author: 'ott'
+url: '/indirekter-einkauf'
+color: '#eeeeee'
 ---
 
 It is present in every company in one way or another: indirect purchasing. It includes the procurement, ordering and complete management of all goods and merchandise that are not resold, but remain within the company and are needed for the internal operations of the office organization. Typical examples of indirect material are:

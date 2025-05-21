@@ -1,9 +1,10 @@
 ---
-title: "Rétrospective des SeaDays 2024 : Les points forts et les enseignements - SeaTable"
+title: 'Rétrospective des SeaDays 2024 : Les points forts et les enseignements - SeaTable'
 date: 2024-10-18
-lastmod: "2024-10-18"
-author: "nsc"
-url: "/fr/seadays-2024"
+lastmod: '2024-10-18'
+author: 'nsc'
+url: '/fr/seadays-2024'
+color: '#eeeeee'
 ---
 
 Les **SeaDays 2024** sont terminés et nous revenons sur deux jours intenses et inspirants dans la salle du Sénat de l'Université de Mayence. Pour la deuxième fois, une cinquantaine de participants - dont des administrateurs et des responsables de projets - se sont réunis pour discuter des derniers développements autour de Seafile et SeaTable et apporter leurs commentaires.

@@ -1,9 +1,10 @@
 ---
-title: "Cómo traducir su sitio web automáticamente con Weglot."
+title: 'Cómo traducir su sitio web automáticamente con Weglot.'
 date: 2022-03-21
-lastmod: "2022-04-05"
-author: "cdb"
-url: "/es/weglot-translation-plugin-wordpress"
+lastmod: '2022-04-05'
+author: 'cdb'
+url: '/es/weglot-translation-plugin-wordpress'
+color: '#eeeeee'
 ---
 
 Weglot es un plugin de WordPress para traducir automáticamente su propio sitio web. La idea es sencilla y se explica rápidamente. Usted escribe todos los textos de su propio sitio web en su lengua materna, como de costumbre, y deja que Weglot traduzca todo el contenido a uno o varios idiomas más. El visitante del sitio web es redirigido automáticamente a la versión del idioma que le convenga y [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) se encarga de todo el trabajo necesario para el SEO internacional. 
@@ -123,7 +124,7 @@ Los precios del plugin de WordPress Weglot.
 
 Actualmente utilizamos el _Advanced_\-Suscripción a Weglot, que permite hasta 10 idiomas y hasta 1 millón de palabras. Pagamos 1.990 euros por ello, pero, como ya hemos dicho, nos ha ahorrado al menos 18 días de trabajo en los dos años. El tiempo que se ahorra es probablemente muchas veces mayor. Los abonos pueden actualizarse en cualquier momento durante el periodo de vigencia y el valor residual del abono actual se abona en su totalidad al precio del abono de mayor valor. 
 
-En un futuro próximo veremos la _Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten._ 
+En un futuro próximo veremos la *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
 
 ### Con la herramienta de recuento de palabras puede determinar sus propias necesidades
 

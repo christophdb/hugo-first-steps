@@ -1,9 +1,10 @@
 ---
-title: "Lista de la compra y aplicación: comparativa de 7 listas de la compra digitales"
+title: 'Lista de la compra y aplicación: comparativa de 7 listas de la compra digitales'
 date: 2024-02-05
-lastmod: "2024-02-05"
-author: "nsc"
-url: "/es/einkaufsliste"
+lastmod: '2024-02-05'
+author: 'nsc'
+url: '/es/einkaufsliste'
+color: '#eeeeee'
 ---
 
 En la agitada vida cotidiana, ir al supermercado puede convertirse en un verdadero reto entre todos los compromisos profesionales y privados. En los días estresantes, no es raro olvidarse de la lista de la compra que se ha elaborado minuciosamente en casa. Pero no se preocupe: una **lista de la compra digital** puede ser un remedio eficaz en estas situaciones.
@@ -50,7 +51,7 @@ Ya se trate de gestionar y clasificar **categorías de alimentos** o de tus **re
 
 - No se dispone de desventajas relevantes
 
-![La aplicación &quot;Lista de la compra ](images/Die-Einkaufsliste-711x971.jpg)
+![La aplicación "Lista de la compra ](images/Die-Einkaufsliste-711x971.jpg)
 
 Este es el aspecto de "La lista de la compra".
 
@@ -72,7 +73,7 @@ Dentro de la aplicación, también puedes enviar **mensajes predefinidos** a los
 
 - No se dispone de desventajas relevantes
 
-![La aplicación de lista de la compra &quot;¡Trae!&quot;](images/Bring-711x1022.jpg)
+![La aplicación de lista de la compra "¡Trae!"](images/Bring-711x1022.jpg)
 
 La aplicación de lista de la compra "¡Trae!"
 
@@ -115,7 +116,7 @@ Si guardas tus **recetas** en la aplicación, puedes añadir los ingredientes qu
 - No hay ofertas
 - El número ilimitado de listas y plantillas está sujeto a un recargo
 
-![La aplicación &quot;ToBuy](images/ToBuy-711x1086.jpg)
+![La aplicación "ToBuy](images/ToBuy-711x1086.jpg)
 
 La aplicación "ToBuy" en modo oscuro
 
@@ -136,7 +137,7 @@ Aunque es posible **agrupar** y **clasificar de forma personalizada**, las funci
 - No hay ofertas
 - Sin funciones inteligentes
 
-![La aplicación de listas de la compra &quot;WeNeed](images/WeNeed-711x1083.jpg)
+![La aplicación de listas de la compra "WeNeed](images/WeNeed-711x1083.jpg)
 
 La aplicación "WeNeed
 

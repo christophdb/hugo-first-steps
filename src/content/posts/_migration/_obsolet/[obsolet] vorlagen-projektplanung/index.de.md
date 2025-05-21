@@ -1,9 +1,10 @@
 ---
-title: "Intelligente Vorlagen für die Projektplanung"
+title: 'Intelligente Vorlagen für die Projektplanung'
 date: 2022-05-20
-lastmod: "2022-07-27"
-author: "cdb"
-url: "/de/vorlagen-projektplanung"
+lastmod: '2022-07-27'
+author: 'cdb'
+url: '/de/vorlagen-projektplanung'
+color: '#eeeeee'
 ---
 
 **Vorlagen** der **Projektplanung** ermöglichen es, sofort mit der Planung und Durchführung eines Projekts zu beginnen. Es kommen Gantt-Diagramme, Kanban-Boards oder intelligente Listen zum Einsatz, um die Projektaktivitäten, Deadlines, Budgets und mehr zu verwalten. Im Folgenden finden Sie verschiedene Vorlagen inklusive Beispiel-Daten für die Erstellung Ihres Projektplans.

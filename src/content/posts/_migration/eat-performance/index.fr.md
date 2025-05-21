@@ -1,9 +1,10 @@
 ---
-title: "Des clients heureux et des aliments sains sont au cœur de eat Performance - SeaTable"
+title: 'Des clients heureux et des aliments sains sont au cœur de eat Performance - SeaTable'
 date: 2021-02-03
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/fr/eat-performance"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/fr/eat-performance'
+color: '#eeeeee'
 ---
 
 SeaTable aide la manufacture alimentaire berlinoise eat Performance à coordonner les tâches au sein de l'équipe et à surveiller les processus logistiques. Les deux fondateurs peuvent ainsi se concentrer pleinement sur la fabrication et la distribution de leurs produits paléo sains.

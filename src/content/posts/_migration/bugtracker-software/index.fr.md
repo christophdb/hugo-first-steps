@@ -1,9 +1,10 @@
 ---
-title: "Comment améliorer votre logiciel grâce à un bugtracker - SeaTable"
+title: 'Comment améliorer votre logiciel grâce à un bugtracker - SeaTable'
 date: 2021-11-19
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/fr/bugtracker-software"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/fr/bugtracker-software'
+color: '#eeeeee'
 ---
 
 Lors du développement de logiciels complexes, les erreurs sont inévitables. [Les bugs](https://www.arksolutions.de/gs/project/blog/bug-programmfehler) apparaissent toujours pendant la phase de développement et doivent donc être documentés et résolus dans un bugtracker. Sans un logiciel bien structuré, la recherche, le suivi et la surveillance des bugs peuvent vite devenir confus et faire perdre un temps précieux.

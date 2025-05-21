@@ -1,9 +1,10 @@
 ---
-title: "La catalogación de libros se hace más fácil"
+title: 'La catalogación de libros se hace más fácil'
 date: 2022-07-29
-lastmod: "2024-12-02"
-author: "cdb"
-url: "/es/buecher-katalogisieren"
+lastmod: '2024-12-02'
+author: 'cdb'
+url: '/es/buecher-katalogisieren'
+color: '#eeeeee'
 ---
 
 ¿Le encanta leer y no se cansa de los libros? Eso es maravilloso, porque no hay mejor manera de sumergirse en mundos ajenos que con un libro. Pero, ¿sabe exactamente cuántos y qué libros posee en ese momento? ¿Y dónde se encuentra actualmente cada libro? Si no es así, existe la solución perfecta, porque con las aplicaciones adecuadas podrá catalogar sus libros de forma fácil, rápida y sin mucho esfuerzo.

@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 5.2 : des filtres avancés dans la base et un nouveau plugin"
+title: 'SeaTable 5.2 : des filtres avancés dans la base et un nouveau plugin'
 date: 2025-02-25
-lastmod: "2025-02-25"
-author: "rdb"
-url: "/fr/seatable-release-5-2"
+lastmod: '2025-02-25'
+author: 'rdb'
+url: '/fr/seatable-release-5-2'
+color: '#eeeeee'
 ---
 
 La deuxième version mineure de la version 5 de SeaTable contient de nombreuses corrections de bugs et améliorations de détails afin de rendre le travail avec SeaTable encore plus facile et de soutenir encore mieux vos cas d'application : Dans les bases, les **nouveaux groupes de filtres** permettent une sélection beaucoup plus précise des (ensembles de) données. Les filtres inter-colonnes dans le formatage conditionnel des lignes et des cellules permettent une mise en évidence des données orientée vers l'action, ce qui n'était pas possible auparavant. Dans l'**App Builder**, chaque type de page bénéficie d'améliorations majeures et mineures de différents types - autorisations étendues, meilleure ergonomie et davantage de fonctions. SeaTable 5.2 comprend également un nouveau **plug-in de tableau blanc** et des améliorations aux plug-in de conception de page et de calendrier. Comme toujours, vous trouverez la liste complète des modifications dans le [changelog](https://seatable.io/fr/docs/changelog/version-5/).
@@ -50,7 +51,7 @@ Les **filtres prédéfinis** dans les paramètres de données permettent désorm
 
 La [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) reçoit un nouveau type de statistiques : le **tableau simple** permet - comme la [page de tableau](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - la représentation sous forme de tableau d'un ensemble de données préfiltrées et prétriées par l'administrateur de l'application. Contrairement à la page de tableau, le nouveau type de statistiques permet de réunir deux ou plusieurs tableaux sur une même page. Dans la version 5.2, les utilisateurs d'apps ne peuvent pas définir eux-mêmes leurs propres règles de filtrage et de tri. Nous ajouterons cette fonction à l'avenir.
 
-![Nouveau type de tableau &quot;Tableau de base](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Nouveau type de tableau "Tableau de base](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
 
 ### Type de page Calendrier
 

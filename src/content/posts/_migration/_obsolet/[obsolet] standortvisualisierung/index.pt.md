@@ -1,9 +1,10 @@
 ---
-title: "Visualização da localização facilitada com SeaTable | SeaTable"
+title: 'Visualização da localização facilitada com SeaTable | SeaTable'
 date: 2020-08-19
-lastmod: "2023-05-17"
-author: "rbu"
-url: "/pt/standortvisualisierung"
+lastmod: '2023-05-17'
+author: 'rbu'
+url: '/pt/standortvisualisierung'
+color: '#eeeeee'
 ---
 
 ## O plugin de mapas SeaTable

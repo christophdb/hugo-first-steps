@@ -4,6 +4,7 @@ date: 2024-02-08
 lastmod: '2024-02-16'
 author: 'kgr'
 url: '/fr/seatable-release-4-3'
+color: '#eeeeee'
 ---
 
 La période du carnaval en Allemagne approche de son apogée - et chez SeaTable aussi, les canons à confettis claquent ! La version 4.3 apporte quelques fonctions et améliorations attendues depuis longtemps.

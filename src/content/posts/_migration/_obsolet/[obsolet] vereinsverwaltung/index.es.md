@@ -1,9 +1,10 @@
 ---
-title: "Cómo SeaTable facilita la gestión de las asociaciones - SeaTable"
+title: 'Cómo SeaTable facilita la gestión de las asociaciones - SeaTable'
 date: 2021-07-21
-lastmod: "2025-01-14"
-author: "kgr"
-url: "/es/vereinsverwaltung"
+lastmod: '2025-01-14'
+author: 'kgr'
+url: '/es/vereinsverwaltung'
+color: '#eeeeee'
 ---
 
 Las soluciones de gestión de asociaciones son una docena. Todas las soluciones de software que hemos probado prometen ser rápidas, sencillas e intuitivas. Pero creemos que todas estas soluciones carecen de una característica clave. La flexibilidad para adaptarse a los retos y a la situación individual de cada club. Los programas de gestión de asociaciones como [ClubDesk](https://www.clubdesk.de/), [easyVerein](https://easyverein.com/), [SEWOBE](https://www.sewobe.de/) o [MTH](https://www.mth-software.de/), por ejemplo, especifican exactamente cómo deben ser los procesos y procedimientos. Las máscaras de entrada y los textos son inflexibles y sólo pueden adaptarse en los casos más raros.

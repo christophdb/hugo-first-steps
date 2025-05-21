@@ -1,9 +1,10 @@
 ---
-title: "Glückliche Kunden und gesunde Lebensmittel stehen bei eat Performance im Mittelpunkt - SeaTable"
+title: 'Glückliche Kunden und gesunde Lebensmittel stehen bei eat Performance im Mittelpunkt - SeaTable'
 date: 2021-02-03
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/de/eat-performance"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/de/eat-performance'
+color: '#eeeeee'
 ---
 
 SeaTable hilft der Berliner Lebensmittel-Manufaktur eat Performance dabei, die Aufgaben im Team zu koordinieren und die Logistikprozesse zu überwachen. So können sich die beiden Gründer voll auf die Herstellung und den Vertrieb ihrer gesunden Paleo-Produkte konzentrieren.

@@ -1,9 +1,10 @@
 ---
-title: "Wie Sie mit einem Terminbuchungssystem von SeaTable wertvolle Zeit sparen - SeaTable"
+title: 'Wie Sie mit einem Terminbuchungssystem von SeaTable wertvolle Zeit sparen - SeaTable'
 date: 2021-06-18
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/de/terminbuchungssystem-mit-seatable"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/de/terminbuchungssystem-mit-seatable'
+color: '#eeeeee'
 ---
 
 Wie viel Zeit verbringen Sie damit, Termine mit Kunden und Geschäftspartnern auszumachen? Entweder das Telefon klingelt ständig und reißt Sie immer wieder aus Ihrem Workflow heraus oder Sie schreiben unzählige E-Mails, um bei der Terminfindung endlich auf einen Nenner zu kommen. Auch für Ihre Kunden kann das ständige Hin und Her beim Planen und Verschieben von Terminen nervig sein. Die Lösung: Ein Online-Terminbuchungssystem.

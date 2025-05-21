@@ -1,10 +1,11 @@
 ---
-title: "Create a survey: 7 popular tools in comparison"
+title: 'Create a survey: 7 popular tools in comparison'
 date: 2024-02-21
-lastmod: "2024-03-05"
-coverImage: "feedback-kommentar-umfrage-support-antwortleiste-wort.jpg"
-author: "nsc"
-url: "/umfrage-erstellen"
+lastmod: '2024-03-05'
+coverImage: 'feedback-kommentar-umfrage-support-antwortleiste-wort.jpg'
+author: 'nsc'
+url: '/umfrage-erstellen'
+color: '#eeeeee'
 ---
 
 Would you like to find out what the needs of your target group are or how you can further optimize your product? Or would you like to create a survey to find out how satisfied your employees are? **Online surveys** prove to be an extremely efficient tool for collecting data. The numerous advantages make them a preferred method for companies, organizations and researchers all over the world.

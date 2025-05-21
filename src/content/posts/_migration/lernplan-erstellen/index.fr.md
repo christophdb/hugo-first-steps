@@ -1,9 +1,10 @@
 ---
 title: "Elaborer un plan d'apprentissage - en 7 étapes vers la meilleure note"
 date: 2024-05-02
-lastmod: "2024-05-02"
-author: "nsc"
-url: "/fr/lernplan-erstellen"
+lastmod: '2024-05-02'
+author: 'nsc'
+url: '/fr/lernplan-erstellen'
+color: '#eeeeee'
 ---
 
 De nombreux élèves et étudiants sont pris dans un tourbillon de procrastination et d'apprentissage de dernière minute. Peut-être que vous aussi, vous repoussez une fois de plus l'étude jusqu'à ce que, la dernière nuit avant l'examen, vous deviez bachoter pendant des heures pour acquérir tant bien que mal les connaissances nécessaires. Mais ne vous inquiétez pas, il existe une meilleure solution : établissez un **plan d'étude** efficace !
@@ -94,7 +95,7 @@ Un aspect important de la motivation est la **pertinence personnelle** de la mat
 
 En outre, la **mise en réseau** des informations avec les connaissances existantes est un avantage. Essayez donc d'établir un lien entre la matière apprise et vos connaissances antérieures. C'est aussi en **pratiquant** que l'on devient maître : en **appliquant** des contenus d'apprentissage abstraits à l'aide d'exemples concrets, vous pouvez consolider vos connaissances.
 
-![Créer un plan d&#039;apprentissage : Panneau sur le bureau avec l&#039;inscription &quot;You got this&quot;.](images/pexels-prateekkatyal-2740956-711x474.jpg)
+![Créer un plan d'apprentissage : Panneau sur le bureau avec l'inscription "You got this".](images/pexels-prateekkatyal-2740956-711x474.jpg)
 
 La motivation peut être influencée par différents facteurs.
 

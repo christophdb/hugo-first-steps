@@ -1,9 +1,10 @@
 ---
-title: "Kosten-Nutzen-Analyse erstellen"
+title: 'Kosten-Nutzen-Analyse erstellen'
 date: 2024-03-04
-lastmod: "2025-02-20"
-author: "cdb"
-url: "/de/kosten-nutzen-analyse-vorlage"
+lastmod: '2025-02-20'
+author: 'cdb'
+url: '/de/kosten-nutzen-analyse-vorlage'
+color: '#eeeeee'
 ---
 
 Im unternehmerischen Alltag ist es nicht immer leicht, die richtigen Entscheidungen zu treffen. Sie müssen viele Aspekte und Faktoren berücksichtigen und oft ohne Erfahrungswerte die Wirkung bestimmter Maßnahmen abschätzen. Wie erfolgreich Ihr Unternehmen dabei ist, hängt insbesondere von einer Sache ab: auf welcher Basis Ihre Entscheidungen fallen. Gut, dass Sie Ihre Entscheidungen mit einer **Kosten-Nutzen-Analyse** auf eine solide Grundlage stellen können.
@@ -69,15 +70,15 @@ Das Möbelhaus „Gemütlich Wohnen“ beschäftigt insgesamt zehn Kundenberater
 
 Demgegenüber steht der Gewinn, den diese Weiterbildungsmaßnahme bringen könnte. Die genauen **Kosten** für die Weiterbildung, also Lehrgangsgebühr, Übernachtung, Fahrt und Verdienstausfall, sind den Geschäftsinhabern bekannt. Und auch für **den erwarteten Nutzen** in Form von verbesserten Arbeitsabläufen und gesteigertem Umsatz haben sie eine Zahl für die Zukunft definiert. Um nun bewerten zu können, ob diese Investition sich lohnt, erstellen die Geschäftsinhaber folgende Kosten-Nutzen-Analyse:
 
-| Aufwandsfaktor | Kosten | Nutzenfaktor | Erwarteter Nutzen |
-| --- | --- | --- | --- |
-| Lehrgangsgebühr | 2.500 € | verbesserte Arbeitsabläufe | 3.300 € |
-| Reisekosten | 1.500 € | gesteigerter Umsatz | 16.000 € |
-| Übernachtung | 1.650 € |  |  |
-| Verdienstausfall | 2.200 € |  |  |
-|  |  |  |  |
-|  | Gesamtkosten |  | Gesamtnutzen |
-|  | 7.850 € |  | 19.300 € |
+| Aufwandsfaktor   | Kosten       | Nutzenfaktor               | Erwarteter Nutzen |
+| ---------------- | ------------ | -------------------------- | ----------------- |
+| Lehrgangsgebühr  | 2.500 €      | verbesserte Arbeitsabläufe | 3.300 €           |
+| Reisekosten      | 1.500 €      | gesteigerter Umsatz        | 16.000 €          |
+| Übernachtung     | 1.650 €      |                            |                   |
+| Verdienstausfall | 2.200 €      |                            |                   |
+|                  |              |                            |                   |
+|                  | Gesamtkosten |                            | Gesamtnutzen      |
+|                  | 7.850 €      |                            | 19.300 €          |
 
 Durch die CBA können die Geschäftsinhaber die Gesamtkosten von 7.850 Euro dem erwarteten Gesamtnutzen von über 19.000 Euro gegenüberstellen. So sehen sie, dass sich die geplante Investition langfristig lohnen würde.
 
@@ -86,11 +87,11 @@ Durch die CBA können die Geschäftsinhaber die Gesamtkosten von 7.850 Euro dem 
 Neben der klassischen Kosten-Nutzen-Analyse gibt es noch [weitere Formen und Methoden](https://de.wikipedia.org/wiki/Kosten-Nutzen-Analyse), um die Wirtschaftlichkeit von Projekten zu beziffern und den effizienten Einsatz finanzieller Ressourcen sicherzustellen.
 
 - **Kosten-Minimierungs-Studien / Cost-Minimization Studies:**  
-    Hier evaluieren Sie die Kosten verschiedener Methoden (z. B. Behandlungen im Gesundheitswesen) und vergleichen diese miteinander. Dabei muss jede Methode ein vergleichbares Ergebnis (z. B. vollständige Genesung) erzielen. Die günstigste Methode gewinnt.
+   Hier evaluieren Sie die Kosten verschiedener Methoden (z. B. Behandlungen im Gesundheitswesen) und vergleichen diese miteinander. Dabei muss jede Methode ein vergleichbares Ergebnis (z. B. vollständige Genesung) erzielen. Die günstigste Methode gewinnt.
 - **Kosten-Wirksamkeits-Analyse / Cost-Effectiveness Analysis:**  
-    Dies ist ein Instrument, um die Wirtschaftlichkeit von Projekten zu beurteilen, deren Nutzen nicht monetär gemessen werden kann (z. B. gerettete Menschenleben, zufriedene Kunden, verbesserte Umweltqualität). Als Ergebnis erhält man einen Quotienten der Kosten bzw. Geldeinheiten geteilt durch den Nutzen bzw. die Outcome-Einheiten.
+   Dies ist ein Instrument, um die Wirtschaftlichkeit von Projekten zu beurteilen, deren Nutzen nicht monetär gemessen werden kann (z. B. gerettete Menschenleben, zufriedene Kunden, verbesserte Umweltqualität). Als Ergebnis erhält man einen Quotienten der Kosten bzw. Geldeinheiten geteilt durch den Nutzen bzw. die Outcome-Einheiten.
 - **Kosten-Nutzwert-Analyse / Cost-Utility Analysis:**  
-    Diese Analyse gehört zu den qualitativen, nicht-monetären Methoden der Entscheidungstheorie. Dabei können Sie auch komplexe Sachverhalte bewerten und das Risiko von Fehlentscheidungen minimieren, indem Sie nicht monetär messbare Faktoren wie die Steigerung der Qualität einbeziehen.
+   Diese Analyse gehört zu den qualitativen, nicht-monetären Methoden der Entscheidungstheorie. Dabei können Sie auch komplexe Sachverhalte bewerten und das Risiko von Fehlentscheidungen minimieren, indem Sie nicht monetär messbare Faktoren wie die Steigerung der Qualität einbeziehen.
 
 ## Hier finden Sie eine passende Vorlage
 

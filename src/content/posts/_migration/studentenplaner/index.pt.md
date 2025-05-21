@@ -1,9 +1,10 @@
 ---
-title: "Personalize o seu planeador de alunos | com SeaTable"
+title: 'Personalize o seu planeador de alunos | com SeaTable'
 date: 2020-09-17
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/pt/studentenplaner"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/pt/studentenplaner'
+color: '#eeeeee'
 ---
 
 O semestre de Inverno de 2020 está ao virar da esquina e quer realmente começar desta vez? SeaTable oferece-lhe a solução perfeita. Agora pode acompanhar todos os seus exames, submissões e outras doses. sempre em vista. O seu planeador individual de estudantes é personalizado de acordo com as suas necessidades num piscar de olhos. Vejamos mais de perto a SeaTable já feita modelo em mais detalhe:

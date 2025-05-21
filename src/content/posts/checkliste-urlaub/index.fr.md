@@ -1,9 +1,10 @@
 ---
-title: "Check-list vacances : tout à portée de main pour un voyage parfait | SeaTable"
+title: 'Check-list vacances : tout à portée de main pour un voyage parfait | SeaTable'
 date: 2024-07-17
-lastmod: "2024-07-17"
-author: "nsc"
-url: "/fr/checkliste-urlaub"
+lastmod: '2024-07-17'
+author: 'nsc'
+url: '/fr/checkliste-urlaub'
+color: '#eeeeee'
 ---
 
 Les vacances d'été approchent et pour de nombreux vacanciers, cela signifie qu'il est temps de **faire ses valises**! Mais quel est exactement le bon moment pour faire sa valise ? Faites-vous partie de ceux qui, la nuit précédant le départ, rassemblent rapidement tout ce qu'il faut et le jettent dans le premier sac de voyage venu ? Ou préférez-vous planifier des semaines à l'avance ce qui doit figurer sur votre **check-list pour les vacances**?
@@ -231,6 +232,6 @@ Dans le modèle, vous trouverez non seulement une check-list de vacances adaptab
 
 Une application est également disponible pour simplifier la planification des voyages. Celle-ci vous permet de saisir des idées, des coûts et des choses à faire via des pages de formulaire, dont les informations sont ensuite automatiquement enregistrées dans les tableaux correspondants. L'ensemble de votre planification de vacances peut être consulté dans des tableaux clairs que vous pouvez regrouper et trier à votre guise. Des statistiques claires, comme par exemple dans le tableau de bord budgétaire, vous facilitent en outre la vue d'ensemble :
 
-![Tableau de bord du budget dans l&#039;application Voyage de SeaTable](images/Travel-App.png)
+![Tableau de bord du budget dans l'application Voyage de SeaTable](images/Travel-App.png)
 
 [Inscrivez-vous](https://seatable.io/fr/enregistrement/) gratuitement dès aujourd'hui pour profiter de ces fonctions pratiques et organiser votre prochain voyage sans stress. Vous pourrez ensuite utiliser le [modèle](https://seatable.io/fr/modele/axq_85kkrjsriagmqpxehw/) dans votre espace de travail personnel SeaTable, le remplir avec vos propres données et le partager avec vos compagnons de voyage via l'application.

@@ -1,9 +1,10 @@
 ---
-title: "Évaluer facilement les commentaires des clients en 3 étapes - SeaTable"
+title: 'Évaluer facilement les commentaires des clients en 3 étapes - SeaTable'
 date: 2021-03-12
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/fr/kundenfeedback-verwerten"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/fr/kundenfeedback-verwerten'
+color: '#eeeeee'
 ---
 
 Des données brutes qualitatives à la toute nouvelle fonctionnalité du produit. Il peut s'écouler un certain temps avant que la remarque d'un client ne débouche sur une nouvelle fonctionnalité. Néanmoins, le processus en vaut la peine et, avec un outil en ligne approprié, il est beaucoup plus facile que vous ne le pensez.

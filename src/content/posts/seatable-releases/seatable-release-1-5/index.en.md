@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 1.5: Improved editor, shares and web forms - SeaTable"
+title: 'SeaTable 1.5: Improved editor, shares and web forms - SeaTable'
 date: 2020-11-27
-lastmod: "2022-06-14"
-coverImage: "seatable-release-1.5.png"
-author: "rdb"
-url: "/seatable-release-1-5"
+lastmod: '2022-06-14'
+coverImage: 'seatable-release-1.5.png'
+author: 'rdb'
+url: '/seatable-release-1-5'
+color: '#eeeeee'
 ---
 
 Today we have updated cloud.seatable.io to version 1.5 of SeaTable. With the next login, all users will benefit from exciting new features and a number of interface and existing functionality improvements. At first glance, you will notice the numerous minor and major changes to the table editor, resulting in increased workflow efficiency and improved user experience. The new custom sharing permissions provide more control and flexibility when working collaboratively on bases. Enhanced customization options make SeaTable's web forms an even more versatile tool for data collection.
@@ -63,7 +64,7 @@ SeaTable's powerful web forms have proven to be a very sought after feature in r
 
 Based on customer feedback and in hopes of helping this suffering industry, we have added three options to customize the web forms: First, custom "Thank you for your participation" messages can now be created. You want to send a special thank you to your guests or provide further information after they have answered the questions, SeaTable 1.5 allows you to do just that. Secondly, automatic forwarding has been a much requested feature. It is our pleasure to implement it in this new version as well. If a forwarding address is specified, SeaTable will automatically forward to that address. Thirdly, we have also made the hint functions more flexible. In addition to the form hint at the bottom of the form, there is now also the possibility to display a hint in front of the form fields.
 
-![SeaTable&#039;s webforms now offer more customisation options](images/Extra_Customization_Options_Webforms.png)
+![SeaTable's webforms now offer more customisation options](images/Extra_Customization_Options_Webforms.png)
 
 We are crossing our fingers that the Corona pandemic will be something for the history books very soon. Yet, if the pandemic is with us for longer, we hope that these improvements will help SeaTable users in the hard-hit restaurant industry.
 

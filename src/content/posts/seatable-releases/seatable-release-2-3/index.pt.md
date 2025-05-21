@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.3: Ainda mais flexibilidade de aplicação com função de arquivo - SeaTable"
+title: 'SeaTable 2.3: Ainda mais flexibilidade de aplicação com função de arquivo - SeaTable'
 date: 2021-09-02
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/pt/seatable-release-2-3"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/pt/seatable-release-2-3'
+color: '#eeeeee'
 ---
 
 O SeaTable versão 2.3, disponível desde hoje, está a preparar-se para conquistar novos campos de aplicação. Com a função de arquivo, que é apresentada como um beta nesta versão, o SeaTable é agora também recomendado para casos de utilização intensiva de dados: As tabelas com milhões de registos de dados podem ser armazenadas e avaliadas em SeaTable. É o foco destas notas de lançamento. Outras inovações e melhorias são apresentadas numa visão geral. A lista completa de alterações pode ser encontrada - como sempre - no [SeaTable Changelog](https://seatable.io/pt/docs/changelog/version-2-3/).
@@ -20,19 +21,18 @@ Em termos de opções de avaliação e análise, as diferenças entre linhas act
 
 A diferença central é o apoio da colaboração online em tempo real: as linhas activas são completamente carregadas na memória de trabalho quando a mesa é chamada. Cada alteração numa tabela pode assim ser transmitida imediatamente a outros utilizadores. Os dados arquivados são diferentes: Quando uma mesa é aberta, apenas as primeiras 1.000 filas são carregadas do arquivo. Os dados adicionais podem ser recuperados página a página. Esta renúncia ao carregamento completo permite uma visualização rápida na interface web, mesmo de tabelas com muitas centenas de milhares de linhas, mas também significa renunciar à colaboração em tempo real.
 
-|  | Vista normal | Ver incl.   dados arquivados |
-| --- | --- | --- |
-| Trabalho colaborativo | ✓ |  |
-| Apoio para todos os tipos de colunas | ✓ | ✓# |
-| Suporte de Plugin | ✓ | ✓ \* |
-| Acesso de leitura e escrita | ✓ | ✓ \* |
-| Ordenação | ✓ | ✓ |
-| Filtragem | ✓ | ✓ |
-| Agrupamento | ✓ |  |
-| Esconder | ✓ | ✓ \* |
-| Pesquisa | ✓ | ✓ \* |
+|                                      | Vista normal | Ver incl. dados arquivados |
+| ------------------------------------ | ------------ | -------------------------- |
+| Trabalho colaborativo                | ✓            |                            |
+| Apoio para todos os tipos de colunas | ✓            | ✓#                         |
+| Suporte de Plugin                    | ✓            | ✓ \*                       |
+| Acesso de leitura e escrita          | ✓            | ✓ \*                       |
+| Ordenação                            | ✓            | ✓                          |
+| Filtragem                            | ✓            | ✓                          |
+| Agrupamento                          | ✓            |                            |
+| Esconder                             | ✓            | ✓ \*                       |
+| Pesquisa                             | ✓            | ✓ \*                       |
 
-  
 \# Na versão 2.3, todos os tipos de colunas são suportados, com excepção de fórmulas e links.  
 \* Estas funções ainda não estão disponíveis na versão 2.3.
 
@@ -66,7 +66,6 @@ O histórico da tabela e os comentários não fazem parte da informação que no
 
 Após os [valores por defeito para as colunas](https://seatable.io/pt/seatable-release-2-0/?lang=auto), existem agora também valores por defeito para os campos de formulário na versão 2.3. E não só são suportados valores por defeito estáticos: As variáveis _creator.id_ e _creator.name_ inserem automaticamente o ID de utilizador ou nome de utilizador no campo do formulário para utilizadores com sessão iniciada.
 
-  
 ![Valores por defeito em formas](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
 
 ### Pré-visualização para o texto formatado por tipo de coluna

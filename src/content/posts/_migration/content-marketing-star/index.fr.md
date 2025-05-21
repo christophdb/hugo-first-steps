@@ -1,9 +1,10 @@
 ---
-title: "Trouver la bonne stratégie de marketing de contenu avec SeaTable - SeaTable"
+title: 'Trouver la bonne stratégie de marketing de contenu avec SeaTable - SeaTable'
 date: 2021-02-16
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/fr/content-marketing-star"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/fr/content-marketing-star'
+color: '#eeeeee'
 ---
 
 L'agence de services complets "Content Marketing Star" aide ses clients à trouver de nouveaux clients grâce à une stratégie de marketing de contenu. SeaTable aide l'agence à planifier et à structurer tous les éléments d'une telle stratégie dans une base de données et à les coordonner avec le client.

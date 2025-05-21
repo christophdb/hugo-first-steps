@@ -1,9 +1,10 @@
 ---
-title: "Sammlung verwalten mit digitalen Tools"
+title: 'Sammlung verwalten mit digitalen Tools'
 date: 2022-07-01
-lastmod: "2024-03-21"
-author: "cdb"
-url: "/pt/sammlung-verwalten"
+lastmod: '2024-03-21'
+author: 'cdb'
+url: '/pt/sammlung-verwalten'
+color: '#eeeeee'
 ---
 
 Ihre **Sammlungen** lassen sich ideal über digitale Programme und Apps **verwalten**. Dabei ist es egal, ob es sich bei der Sammlung um physische Gegenstände oder digitale Medien handelt. Zu den beliebtesten Sammlerstücken zählen Münzen, Briefmarken, Schuhe, Kunstwerke, Spielzeug, Sammelkarten, Non Fungible Tokens (NFT), [Bücher](https://seatable.io/buecher-katalogisieren/), Filme, Musik (auf CD, Schallplatten) und mehr. Wenn einen Sammler die Leidenschaft packt, ist die größte Herausforderung oft, den Überblick zu behalten. Hier kommen die Programme ins Spiel, mit denen Sie Ihre Sammlung verwalten können – am PC oder mit einer App.

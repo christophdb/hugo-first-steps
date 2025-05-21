@@ -1,10 +1,11 @@
 ---
-title: "The perfect wedding planning with SeaTable - SeaTable"
+title: 'The perfect wedding planning with SeaTable - SeaTable'
 date: 2021-07-22
-lastmod: "2023-07-11"
-coverImage: "eliza-szablinska-TncriKEFStY-unsplash-scaled-1.jpg"
-author: "rbu"
-url: "/hochzeitsplanung-wedding-planner"
+lastmod: '2023-07-11'
+coverImage: 'eliza-szablinska-TncriKEFStY-unsplash-scaled-1.jpg'
+author: 'rbu'
+url: '/hochzeitsplanung-wedding-planner'
+color: '#eeeeee'
 ---
 
 One of the most beautiful and important days in life is just around the corner: your own wedding. Nothing should go wrong here, which is why structured wedding planning is of great importance for most couples. What needs to be done 12 months before the wedding, what needs to be done 5 months before the big day? If you don't have the financial means to hire a professional wedding planner, or if you simply enjoy planning your own wedding, SeaTable helps you not to lose the overview when planning your wedding.
@@ -39,9 +40,9 @@ In addition to the Wedding Planning Checklist, we have set up other spreadsheets
 We have prepared 5 different views to help you make 5 important decisions:
 
 1. For the location selection there is the view _Wedding Locations_
-2. For the selection of photographers and _videographers_there is the view _Photographer/ Videographer_
+2. For the selection of photographers and _videographers_there is the view \_Photographer/ Videographer_
 3. For the decoration there is the view _Florist_
-4. For entertainment there is the _Entertainment_view
+4. For entertainment there is the \_Entertainment_view
 5. For the food there is the view of possible _caterers_
 
 ![Wedding planning](images/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)

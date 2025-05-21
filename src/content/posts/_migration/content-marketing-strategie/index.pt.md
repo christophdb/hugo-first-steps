@@ -1,9 +1,10 @@
 ---
-title: "Como desenvolver uma estratégia de marketing de conteúdos - SeaTable"
+title: 'Como desenvolver uma estratégia de marketing de conteúdos - SeaTable'
 date: 2021-02-28
-lastmod: "2023-06-26"
-author: "cdb"
-url: "/pt/content-marketing-strategie"
+lastmod: '2023-06-26'
+author: 'cdb'
+url: '/pt/content-marketing-strategie'
+color: '#eeeeee'
 ---
 
 O marketing de conteúdos é uma abordagem de marketing popular para colocar os seus próprios produtos junto dos clientes e das potenciais partes interessadas. A ideia básica do marketing de conteúdos é muito simples: cria-se conteúdo para o grupo-alvo, publica-se e inspira-se os clientes.
@@ -44,7 +45,7 @@ Então, o que é importante numa estratégia de marketing de conteúdos? O que �
 
 Existem várias definições de marketing de conteúdos, mas a descrição com os três P's é a que melhor resume o conceito. Estes representam os três termos em inglês: _Preparation_, _Production_ e _Publication_. Por vezes também se lê sobre _Produce_, _Publish_ e _Promote_. No final, porém, trata-se sempre do desenvolvimento direcionado de conteúdos relevantes para o cliente.
 
-**Preparation** inclui o planeamento estratégico e a preparação da sua própria estratégia de conteúdos. Aqui, deve definir o grupo-alvo ou um grupo fictício [Personas](https://en.wikipedia.org/wiki/Persona_\(user_experience\)) selecionar, identificar os canais certos e os termos de SEO e, a partir daí, desenvolver um plano para o conteúdo certo.
+**Preparation** inclui o planeamento estratégico e a preparação da sua própria estratégia de conteúdos. Aqui, deve definir o grupo-alvo ou um grupo fictício [Personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) selecionar, identificar os canais certos e os termos de SEO e, a partir daí, desenvolver um plano para o conteúdo certo.
 
 **Production** consiste em todos os passos necessários para dar vida ao conteúdo e monitorizar a sua criação. Para isso, é necessário determinar quem cria o conteúdo e quando, quais devem ser as palavras-chave e os títulos exactos, quem fornece as informações e, posteriormente, edita o conteúdo, etc.
 
@@ -146,7 +147,7 @@ Desta forma, ninguém tem de pedir uma atualização por correio eletrónico ou 
 
 Como autor ou editor, pode querer ver as datas de publicação agendadas numa vista de calendário. Aí, pode facilmente arrastar e largar artigos para reorganizar os prazos e garantir que os bons conteúdos são publicados de forma consistente.
 
-![Planeamento editorial através de drag &amp; drop no SeaTable](https://seatable.de/wp-content/uploads/2021/02/redaktionsplanung-seatable-kalender.png)
+![Planeamento editorial através de drag & drop no SeaTable](https://seatable.de/wp-content/uploads/2021/02/redaktionsplanung-seatable-kalender.png)
 
 Planeamento editorial através de arrastar e largar no SeaTable
 

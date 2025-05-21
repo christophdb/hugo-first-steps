@@ -1,9 +1,10 @@
 ---
-title: "Crear una lista de cosas que hacer antes de morir: Ideas, inspiración y plantilla gratuita"
+title: 'Crear una lista de cosas que hacer antes de morir: Ideas, inspiración y plantilla gratuita'
 date: 2024-02-19
-lastmod: "2024-02-19"
-author: "nsc"
-url: "/es/bucket-list"
+lastmod: '2024-02-19'
+author: 'nsc'
+url: '/es/bucket-list'
+color: '#eeeeee'
 ---
 
 ¿Siempre ha querido saltar en paracaídas desde un avión? ¿Sueña desde niño con bucear en la Gran Barrera de Coral de Australia? ¿O le gustaría pasar una noche en un iglú en Noruega? Anote estos destinos en su lista de deseos.

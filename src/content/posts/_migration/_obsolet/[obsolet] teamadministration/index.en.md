@@ -1,10 +1,11 @@
 ---
-title: "Easier management of your team - the new team management - SeaTable"
+title: 'Easier management of your team - the new team management - SeaTable'
 date: 2022-06-21
-lastmod: "2022-06-20"
-coverImage: "team-verwaltung.jpg"
-author: "rdb"
-url: "/teamadministration"
+lastmod: '2022-06-20'
+coverImage: 'team-verwaltung.jpg'
+author: 'rdb'
+url: '/teamadministration'
+color: '#eeeeee'
 ---
 
 With the upgrade of SeaTable Cloud to version 3.0, Cloud subscribers benefit not only from the many new and improved functions of the [major release](/en/seatable-release-3-0), but also from a new team management that simplifies the management of small and especially larger teams. New functions have been added, existing functions have been expanded and a new design creates more clarity and user-friendliness. We are pleased to present the new team management and the most important changes in this article.
@@ -13,7 +14,7 @@ With the upgrade of SeaTable Cloud to version 3.0, Cloud subscribers benefit not
 
 The "old" team management of SeaTable Cloud is a module of [SeaTable Server](/en/on-premises/?lang=auto/). (SeaTable Server is the software behind SeaTable Cloud, which is also available for installation on your own server). As such, it provides all the necessary management functions for teams to use within an organization (private cloud). However, it does not offer subscription management features or integration with a payment service provider.
 
-![&quot;Old&quot; team administration](images/TeamAdministration_old.png)
+!["Old" team administration](images/TeamAdministration_old.png)
 
 These functions, which are necessary for the operation of a solution with a general user group (public cloud), were individually supplemented for SeaTable Cloud. In terms of user experience, team management fell short of usual standards despite the comparatively high technical complexity. Expanding a team, for example, first required adding one or more users to the subscription before additional users could then be registered in another menu. Numerous support requests including the associated frustration due to this unusual procedure were the result.
 
@@ -55,7 +56,7 @@ The administration of your subscription - and this includes the cancellation of 
 
 In the new account area we can now also offer payment on account for upgrades from Free to Enterprise. Simply select invoice as the payment method when upgrading. (Prerequisites for invoice payment are annual payment and at least 10 users).
 
-In the tab _Bills _all your team's invoices and their payment status are listed. You can also download an invoice. To do so, click on the invoice number in the last column.__
+In the tab \_Bills \_all your team's invoices and their payment status are listed. You can also download an invoice. To do so, click on the invoice number in the last column.\_\_
 
 ### API & Integration
 

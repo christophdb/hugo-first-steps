@@ -1,10 +1,11 @@
 ---
-title: "Create a learning plan - 7 steps to the top grade"
+title: 'Create a learning plan - 7 steps to the top grade'
 date: 2024-05-02
-lastmod: "2024-05-02"
-coverImage: "pexels-prateekkatyal-2740956.jpg"
-author: "nsc"
-url: "/lernplan-erstellen"
+lastmod: '2024-05-02'
+coverImage: 'pexels-prateekkatyal-2740956.jpg'
+author: 'nsc'
+url: '/lernplan-erstellen'
+color: '#eeeeee'
 ---
 
 Many pupils and students are caught in a maelstrom of procrastination and last-minute studying. Perhaps you too are putting off studying until you have to cram for hours on the last night before the exam in order to acquire the necessary knowledge by the skin of your teeth. But don't worry, there is a better way: create an effective **study plan**!
@@ -95,7 +96,7 @@ An important aspect of motivation is the **personal relevance** of the learning 
 
 It is also beneficial to **link** the information with existing knowledge. Therefore, try to establish a connection between the learning material and your previous knowledge. Practice makes perfect: by **applying** abstract learning content using concrete examples, you can consolidate your knowledge.
 
-![Create a learning plan: Sign on the desk with the inscription &quot;You got this&quot;](images/pexels-prateekkatyal-2740956-711x474.jpg)
+![Create a learning plan: Sign on the desk with the inscription "You got this"](images/pexels-prateekkatyal-2740956-711x474.jpg)
 
 Motivation can be influenced by various factors.
 

@@ -4,6 +4,7 @@ date: 2023-11-22
 lastmod: '2023-11-22'
 author: 'kgr'
 url: '/fr/seatable-release-4-2'
+color: '#eeeeee'
 ---
 
 Dans **SeaTable 4.2**, le développement de l'Universal App Builder passe à la vitesse supérieure : la nouvelle **gestion des versions** permet de revenir aux versions précédentes d'une application. Le **contrôle des doublons** sur les pages de tableaux et de formulaires permet d'empêcher efficacement la saisie d'entrées identiques. En outre, il est désormais possible de dupliquer des pages dans l'app universelle et de **suspendre temporairement des apps**.

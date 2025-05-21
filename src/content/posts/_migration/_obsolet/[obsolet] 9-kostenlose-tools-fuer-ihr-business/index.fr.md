@@ -1,9 +1,10 @@
 ---
-title: "9 outils commerciaux gratuits qui enrichissent immédiatement votre entreprise - SeaTable"
+title: '9 outils commerciaux gratuits qui enrichissent immédiatement votre entreprise - SeaTable'
 date: 2021-09-24
-lastmod: "2023-07-11"
-author: "ott"
-url: "/fr/9-kostenlose-tools-fuer-ihr-business"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/fr/9-kostenlose-tools-fuer-ihr-business'
+color: '#eeeeee'
 ---
 
 Des outils professionnels gratuits ? Yes, please ! Pour les start-ups et les petites entreprises, il n'est souvent pas encore possible d'investir dans des outils payants. Les ressources sont limitées et il faut gérer au plus près, car l'utilisation de logiciels ou d'outils représente rapidement une somme importante par mois.

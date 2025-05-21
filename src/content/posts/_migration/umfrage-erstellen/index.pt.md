@@ -1,9 +1,10 @@
 ---
-title: "Criar um inquérito: 7 ferramentas populares em comparação"
+title: 'Criar um inquérito: 7 ferramentas populares em comparação'
 date: 2024-02-21
-lastmod: "2024-03-05"
-author: "nsc"
-url: "/pt/umfrage-erstellen"
+lastmod: '2024-03-05'
+author: 'nsc'
+url: '/pt/umfrage-erstellen'
+color: '#eeeeee'
 ---
 
 Gostaria de saber quais são as necessidades do seu grupo-alvo ou como pode otimizar ainda mais o seu produto? Ou gostaria de criar um inquérito para saber o grau de satisfação dos seus empregados? **Os inquéritos em linha** estão a revelar-se uma ferramenta extremamente eficaz para a recolha de dados. As numerosas vantagens fazem deles um método preferido por empresas, organizações e investigadores em todo o mundo.

@@ -1,9 +1,10 @@
 ---
-title: "O directório de empregados perfeito"
+title: 'O directório de empregados perfeito'
 date: 2022-08-19
-lastmod: "2022-08-08"
-author: "rdb"
-url: "/pt/mitarbeiterverzeichnis"
+lastmod: '2022-08-08'
+author: 'rdb'
+url: '/pt/mitarbeiterverzeichnis'
+color: '#eeeeee'
 ---
 
 Quem é o perito para que área temática? Qual é novamente o endereço de correio electrónico do colega? E quem se enquadra melhor na equipa do novo [projecto de marketing](https://seatable.io/pt/vorlagen-projektplanung/)? A procura de respostas a estas ou outras questões semelhantes pode rapidamente tornar-se um desafio moroso. A menos que a sua empresa tenha uma **lista de empregados** bem conservada.

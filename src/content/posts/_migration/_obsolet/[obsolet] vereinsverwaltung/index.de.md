@@ -1,9 +1,10 @@
 ---
-title: "Wie SeaTable die Vereinsverwaltung erleichtert - SeaTable"
+title: 'Wie SeaTable die Vereinsverwaltung erleichtert - SeaTable'
 date: 2021-07-21
-lastmod: "2025-01-14"
-author: "kgr"
-url: "/de/vereinsverwaltung"
+lastmod: '2025-01-14'
+author: 'kgr'
+url: '/de/vereinsverwaltung'
+color: '#eeeeee'
 ---
 
 Lösungen zur Vereinsverwaltung gibt es wie Sand am Meer. Alle von uns getesteten Softwarelösungen versprechen schnell, einfach und intuitiv zu sein. Doch wir glauben, dass all diesen Lösungen ein zentrales Merkmal fehlt. Die Flexibilität, sich an die Herausforderungen und individuellen Situation des einzelnen Vereins anzupassen. Vereinsverwaltungssoftware wie beispielsweise [ClubDesk](https://www.clubdesk.de/), [easyVerein](https://easyverein.com/), [SEWOBE](https://www.sewobe.de/) oder [MTH](https://www.mth-software.de/) geben genau vor, wie Prozesse und Abläufe aussehen müssen. Eingabemasken und Texte sind unflexibel und lassen sich nur in den seltensten Fällen anpassen.

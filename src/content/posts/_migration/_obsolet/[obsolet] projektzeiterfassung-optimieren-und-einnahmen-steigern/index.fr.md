@@ -1,9 +1,10 @@
 ---
-title: "Comment optimiser la saisie des temps de projet - SeaTable"
+title: 'Comment optimiser la saisie des temps de projet - SeaTable'
 date: 2021-05-03
-lastmod: "2023-07-11"
-author: "ott"
-url: "/fr/projektzeiterfassung-optimieren-und-einnahmen-steigern"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/fr/projektzeiterfassung-optimieren-und-einnahmen-steigern'
+color: '#eeeeee'
 ---
 
 De nombreux prestataires de services la connaissent et la redoutent : la saisie du temps de projet. Le suivi du temps n'est pas apprécié et, dans la plupart des cas, il n'est pas effectué aussi minutieusement qu'il le devrait peut-être. Pourtant, la devise ici est "le temps, c'est de l'argent" ! Les designers, les architectes et les agences connaissent ce problème et savent parfois difficilement comment y remédier.

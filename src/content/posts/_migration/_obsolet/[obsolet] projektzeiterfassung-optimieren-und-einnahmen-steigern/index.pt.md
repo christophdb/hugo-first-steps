@@ -1,9 +1,10 @@
 ---
-title: "Como otimizar o controlo do tempo do seu projeto - SeaTable"
+title: 'Como otimizar o controlo do tempo do seu projeto - SeaTable'
 date: 2021-05-03
-lastmod: "2023-07-11"
-author: "ott"
-url: "/pt/projektzeiterfassung-optimieren-und-einnahmen-steigern"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/pt/projektzeiterfassung-optimieren-und-einnahmen-steigern'
+color: '#eeeeee'
 ---
 
 Muitos prestadores de serviços conhecem-no e temem-no: o controlo do tempo dos projectos. O controlo do tempo é impopular e, na maioria dos casos, não é efectuado com a meticulosidade que talvez devesse. No entanto, o lema aqui é "tempo é dinheiro"! Designers, arquitectos e agências conhecem este problema e, por vezes, têm dificuldade em encontrar uma solução.

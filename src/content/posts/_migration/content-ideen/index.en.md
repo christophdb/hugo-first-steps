@@ -1,10 +1,11 @@
 ---
-title: "Content ideas that always work"
+title: 'Content ideas that always work'
 date: 2024-01-24
-lastmod: "2025-02-13"
-coverImage: "content-for-instagram-e1622035217478.jpg"
-author: "nsc"
-url: "/content-ideen"
+lastmod: '2025-02-13'
+coverImage: 'content-for-instagram-e1622035217478.jpg'
+author: 'nsc'
+url: '/content-ideen'
+color: '#eeeeee'
 ---
 
 One thing is particularly important for a successful social media presence: **posting** content **regularly**. The algorithms of [Instagram](http://www.instagram.com) and the like immediately penalize inactivity and limit the visibility of accounts, which can be fatal for your **reach**. It is therefore important to feed the algorithm regularly and collect content ideas for Instagram, TikTok etc.

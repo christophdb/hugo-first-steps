@@ -1,9 +1,10 @@
 ---
-title: "SeaDays 2024 im Rückblick: Die Highlights und Learnings - SeaTable"
+title: 'SeaDays 2024 im Rückblick: Die Highlights und Learnings - SeaTable'
 date: 2024-10-18
-lastmod: "2024-10-18"
-author: "nsc"
-url: "/de/seadays-2024"
+lastmod: '2024-10-18'
+author: 'nsc'
+url: '/de/seadays-2024'
+color: '#eeeeee'
 ---
 
 Die **SeaDays 2024** sind vorbei, und wir blicken auf zwei intensive und inspirierende Tage im Senatssaal der Universität Mainz zurück. Zum zweiten Mal trafen sich etwa 50 Teilnehmer – darunter Administratoren und Projektverantwortliche – um die neuesten Entwicklungen rund um Seafile und SeaTable zu diskutieren und ihr Feedback einzubringen.

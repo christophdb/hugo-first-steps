@@ -1,10 +1,11 @@
 ---
 title: "How to keep track of your team's sick leave - SeaTable"
 date: 2021-10-21
-lastmod: "2023-07-11"
-coverImage: "pexels-ivan-samkov-6436278.jpg"
-author: "ott"
-url: "/krankmeldungen-verwalten"
+lastmod: '2023-07-11'
+coverImage: 'pexels-ivan-samkov-6436278.jpg'
+author: 'ott'
+url: '/krankmeldungen-verwalten'
+color: '#eeeeee'
 ---
 
 It happens time and again that employees in companies have to call in sick - it just doesn't go away. Especially in the times of the flu epidemic, staff shortages quickly occur when particularly many fall ill at the same time. Fortunately, this situation has greatly improved due to strict hygiene measures, as employees with symptoms of illness are now much more likely to stay at home and thus protect their colleagues.

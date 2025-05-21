@@ -1,10 +1,11 @@
 ---
-title: "Measure, evaluate and increase customer satisfaction - SeaTable"
+title: 'Measure, evaluate and increase customer satisfaction - SeaTable'
 date: 2021-03-05
-lastmod: "2023-06-28"
-coverImage: "customer-satisfaction-survey-seatable.jpg"
-author: "cdb"
-url: "/kundenzufriedenheit-messen-auswerten-und-steigern"
+lastmod: '2023-06-28'
+coverImage: 'customer-satisfaction-survey-seatable.jpg'
+author: 'cdb'
+url: '/kundenzufriedenheit-messen-auswerten-und-steigern'
+color: '#eeeeee'
 ---
 
 If a customer is satisfied, they will buy from you again and probably even recommend your company to others. If your product does not solve the customer's problem as expected, you have lost a customer and, in the worst case, you will receive bad reviews. The lack of customer satisfaction could then in turn scare off other potential new customers and lead to a loss of sales.

@@ -1,9 +1,10 @@
 ---
 title: "SeaTable 2.0 : Trois nouveaux types de colonnes, des plugins nouveaux et améliorés et le russe comme langue d'utilisation - SeaTable"
 date: 2021-05-27
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/fr/seatable-release-2-0"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/fr/seatable-release-2-0'
+color: '#eeeeee'
 ---
 
 Le 1er juillet 2020, SeaTable a vu le jour dans sa version 1.0. Depuis, il a été téléchargé plus de 100 000 fois sur Docker Hub. Cet intérêt écrasant pour SeaTable nous a poussés à aller de l'avant et nous sommes maintenant heureux et fiers d'annoncer une nouvelle étape dans le développement de SeaTable : SeaTable 2.0 a été mis à jour aujourd'hui sur [SeaTable Cloud](https://cloud.seatable.io) et publié sur [Docker](https://hub.docker.com/u/seatable) Hub pour les installations privées.
@@ -48,7 +49,7 @@ La colonne d'évaluation n'est qu'une des nombreuses innovations qui rendent les
 
 Moins visible, mais d'autant plus importante dans l'application, est la fonction ajoutée dans SeaTable 2.0 pour utiliser des colonnes de liens dans les formulaires. Ce type de colonne offre beaucoup plus de flexibilité que les colonnes à sélection unique et permet donc des enquêtes encore plus détaillées.
 
-La fonction de valeur par défaut pour les champs de formulaire est totalement invisible dans l'éditeur, mais d'autant plus puissante dans l'application. Pour pré-remplir un champ de formulaire avec une valeur standard, ajoutez '?prefill\_COLUMNNAME=PREFILLVALUE' à l'URL du formulaire. (COLUMNAME est le nom de la colonne dont le champ doit être rempli ; PREFILLVALUE est la valeur à insérer. Les espaces dans les noms de colonnes doivent être écrits sous la forme "%20" et les majuscules et minuscules doivent être respectées). Il est bien entendu possible d'attribuer des valeurs par défaut à plusieurs champs de formulaire. Pour ce faire, plusieurs paires COLUMNNAME-PREFILLVALUE sont reliées par le signe commercial et ("&").
+La fonction de valeur par défaut pour les champs de formulaire est totalement invisible dans l'éditeur, mais d'autant plus puissante dans l'application. Pour pré-remplir un champ de formulaire avec une valeur standard, ajoutez '?prefill_COLUMNNAME=PREFILLVALUE' à l'URL du formulaire. (COLUMNAME est le nom de la colonne dont le champ doit être rempli ; PREFILLVALUE est la valeur à insérer. Les espaces dans les noms de colonnes doivent être écrits sous la forme "%20" et les majuscules et minuscules doivent être respectées). Il est bien entendu possible d'attribuer des valeurs par défaut à plusieurs champs de formulaire. Pour ce faire, plusieurs paires COLUMNNAME-PREFILLVALUE sont reliées par le signe commercial et ("&").
 
 ## Type de colonne #24 : Géopositionnement
 

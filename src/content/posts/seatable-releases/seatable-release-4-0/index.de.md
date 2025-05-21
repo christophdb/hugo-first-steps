@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 4.0: neuer Spaltentyp, verbessertes Dateimanagement und Fortschritte beim Universal App Builder - SeaTable"
+title: 'SeaTable 4.0: neuer Spaltentyp, verbessertes Dateimanagement und Fortschritte beim Universal App Builder - SeaTable'
 date: 2023-06-27
-lastmod: "2023-06-27"
-author: "kgr"
-url: "/de/seatable-release-4-0"
+lastmod: '2023-06-27'
+author: 'kgr'
+url: '/de/seatable-release-4-0'
+color: '#eeeeee'
 ---
 
 Während draußen die Sonne brennt, haben unsere Entwickler einen kühlen Kopf behalten und das vierte Major Release von SeaTable fertiggestellt. SeaTable Version 4.0 verbessert bestehende Funktionen, stillt aber auch den Durst nach neuen Features. Neu in Version 4.0: ein Spaltentyp für digitale Unterschriften, ein integrierter Datei-Manager für die einfachere Verwaltung von Anhängen und – für unsere Cloud Enterprise Kunden – eine Custom-Logo-Funktion als Branding-Option.
@@ -83,11 +84,11 @@ Im Base-Log speichert SeaTable Änderungen, die Sie und Ihre Teammitglieder in e
 Seit Version 1.0 haben wir den Funktionsumfang von SeaTable Schritt für Schritt erweitert. Außerdem haben wir signifikante Investitionen in einfachere und leistungsfähigere Integrationen, verbesserte Dokumentationen und erhöhte Sicherheit getätigt. Zusammen mit der allgemein hohen Preisdynamik erfordert dies eine Anpassung unserer Preise für [SeaTable Server Lizenzen](https://seatable.io/on-premises/).
 
 | Benutzeranzahl | Preis bisher | Preis neu | Veränderung |
-| --- | --- | --- | --- |
-|   3   | 0 € | 0 € | \-- |
-|   10   | 400 € | 500 € | \+ 25,0 % |
-|   25   | 1.500 € | 1.250 € | \- 16,7 % |
-|   50   | 3.500 € | 4.500 € | \+ 28,6 % |
+| -------------- | ------------ | --------- | ----------- |
+| 3              | 0 €          | 0 €       | \--         |
+| 10             | 400 €        | 500 €     | \+ 25,0 %   |
+| 25             | 1.500 €      | 1.250 €   | \- 16,7 %   |
+| 50             | 3.500 €      | 4.500 €   | \+ 28,6 %   |
 
 Für Neukunden gelten die neuen Lizenzpreise ab dem 1. August 2023. SeaTable Server Bestandskunden erhalten noch bis zum 31. Dezember 2023 Lizenzverlängerungen zu den alten Preisen.
 

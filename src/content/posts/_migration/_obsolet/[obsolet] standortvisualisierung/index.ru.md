@@ -1,9 +1,10 @@
 ---
-title: "Визуализация местоположения стала проще благодаря SeaTable | SeaTable"
+title: 'Визуализация местоположения стала проще благодаря SeaTable | SeaTable'
 date: 2020-08-19
-lastmod: "2023-05-17"
-author: "rbu"
-url: "/ru/standortvisualisierung"
+lastmod: '2023-05-17'
+author: 'rbu'
+url: '/ru/standortvisualisierung'
+color: '#eeeeee'
 ---
 
 ## Плагин для карт SeaTable

@@ -1,10 +1,11 @@
 ---
-title: "Shopping list & app: 7 digital shopping lists in comparison"
+title: 'Shopping list & app: 7 digital shopping lists in comparison'
 date: 2024-02-05
-lastmod: "2024-02-05"
-coverImage: "einkaufswagen-voller-produkte-in-einem-supermarkt.jpg"
-author: "nsc"
-url: "/einkaufsliste"
+lastmod: '2024-02-05'
+coverImage: 'einkaufswagen-voller-produkte-in-einem-supermarkt.jpg'
+author: 'nsc'
+url: '/einkaufsliste'
+color: '#eeeeee'
 ---
 
 In hectic everyday life, going to the supermarket can become a real challenge between all the professional and private commitments. On stressful days, it's not uncommon to forget the shopping list you've painstakingly created at home. But don't worry - a **digital shopping list/app** can be an effective remedy in such situations.
@@ -51,7 +52,7 @@ Whether it's managing and sorting **food categories** or your **favorite recipes
 
 - No relevant disadvantages available
 
-![The &quot;Shopping list&quot; application ](images/Die-Einkaufsliste-711x971.jpg)
+![The "Shopping list" application ](images/Die-Einkaufsliste-711x971.jpg)
 
 This is what "The shopping list" looks like.
 
@@ -73,7 +74,7 @@ Within the app, you can also send **predefined messages** to roommates with whom
 
 - No relevant disadvantages available
 
-![The shopping list app &quot;Bring!&quot;](images/Bring-711x1022.jpg)
+![The shopping list app "Bring!"](images/Bring-711x1022.jpg)
 
 The shopping list app "Bring!"
 
@@ -116,7 +117,7 @@ If you save your **recipes** in the app, you can add the missing ingredients to 
 - No offers
 - Unlimited number of lists and templates is subject to a charge
 
-![The &quot;ToBuy&quot; application](images/ToBuy-711x1086.jpg)
+![The "ToBuy" application](images/ToBuy-711x1086.jpg)
 
 The "ToBuy" application in dark mode
 
@@ -137,7 +138,7 @@ Although **various groupings** and **individual sorting** are possible here, sma
 - No offers
 - No smart features
 
-![The shopping list app &quot;WeNeed&quot;](images/WeNeed-711x1083.jpg)
+![The shopping list app "WeNeed"](images/WeNeed-711x1083.jpg)
 
 The "WeNeed" application
 

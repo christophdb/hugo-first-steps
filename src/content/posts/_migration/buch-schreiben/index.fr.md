@@ -1,9 +1,10 @@
 ---
-title: "Rédaction de livres : 7 outils logiciels de création en un coup d’œil"
+title: 'Rédaction de livres : 7 outils logiciels de création en un coup d’œil'
 date: 2024-03-20
-lastmod: "2024-03-20"
-author: "nsc"
-url: "/fr/buch-schreiben"
+lastmod: '2024-03-20'
+author: 'nsc'
+url: '/fr/buch-schreiben'
+color: '#eeeeee'
 ---
 
 L'écriture d'un livre est pour beaucoup un processus fascinant, mais aussi un défi. De la première idée au **manuscrit** final, il y a de nombreux obstacles à surmonter et de nombreux jalons à poser. À une époque où les outils numériques et les solutions logicielles jouent un rôle de plus en plus important dans le **processus de création**, il est essentiel pour les auteurs de trouver le bon logiciel pour donner vie à leur vision. Cet article se penche de plus près sur **7 outils** qui vous permettront d'écrire votre livre.

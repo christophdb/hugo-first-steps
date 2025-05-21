@@ -1,9 +1,10 @@
 ---
-title: "Desesperado por um escritório em casa? Com estas dicas, funciona! | SeaTable"
+title: 'Desesperado por um escritório em casa? Com estas dicas, funciona! | SeaTable'
 date: 2020-09-17
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/pt/homeoffice-tipps"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/pt/homeoffice-tipps'
+color: '#eeeeee'
 ---
 
 A crise da coroa está actualmente a forçar milhões de pessoas a trabalhar a partir de casa. Alguns acham fácil adaptar-se à nova situação, mas muitos também se debatem com ela. Também não sabe realmente como começar pela manhã? Está sempre a esquecer-se da hora de almoço e, em vez disso, come as suas sandes rapidamente feitas em frente ao seu PC? Dar-lhe-emos dicas valiosas e mostrar-lhe-emos vantagens que lhe facilitarão definitivamente a situação.

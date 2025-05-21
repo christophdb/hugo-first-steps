@@ -1,9 +1,10 @@
 ---
-title: "Como fazer: Como criar um plano de acção para o ano inteiro - SeaTable"
+title: 'Como fazer: Como criar um plano de acção para o ano inteiro - SeaTable'
 date: 2021-05-04
-lastmod: "2023-07-11"
-author: "ott"
-url: "/pt/how-to-massnahmenplan-fuer-das-ganze-jahr"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/pt/how-to-massnahmenplan-fuer-das-ganze-jahr'
+color: '#eeeeee'
 ---
 
 Para que as empresas cresçam e se desenvolvam, estabelecem constantemente novos objectivos e trabalham para eles com todos os seus recursos. O plano de acção é um método comprovado para alcançar estes objectivos - por exemplo na [gestão de projectos](/pt/projekt-management/), finanças & controlo e [marketing](/pt/marketing/).

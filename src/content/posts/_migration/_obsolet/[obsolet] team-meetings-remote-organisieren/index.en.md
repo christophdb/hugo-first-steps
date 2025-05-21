@@ -1,10 +1,11 @@
 ---
-title: "Organise remote team meetings easily with SeaTable"
+title: 'Organise remote team meetings easily with SeaTable'
 date: 2020-08-31
-lastmod: "2022-06-13"
-coverImage: "tyler-franta-iusJ25iYu1c-unsplash-scaled-1.jpg"
-author: "rbu"
-url: "/team-meetings-remote-organisieren"
+lastmod: '2022-06-13'
+coverImage: 'tyler-franta-iusJ25iYu1c-unsplash-scaled-1.jpg'
+author: 'rbu'
+url: '/team-meetings-remote-organisieren'
+color: '#eeeeee'
 ---
 
 ## Organise your weekly team meetings with SeaTable

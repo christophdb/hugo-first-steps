@@ -1,9 +1,10 @@
 ---
-title: "Studentenplaner individuell gestalten | mit SeaTable"
+title: 'Studentenplaner individuell gestalten | mit SeaTable'
 date: 2020-09-17
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/de/studentenplaner"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/de/studentenplaner'
+color: '#eeeeee'
 ---
 
 Das Wintersemester 2020 steht vor der Tür und du möchtest diesmal so richtig durchstarten? SeaTable bietet Dir die perfekte Lösung. All deine Klausuren, Abgaben und sonstigen To-dos behältst Du nun stets im Blick. Dein individueller Studentenplaner ist im Handumdrehen an deine Bedürfnisse angepasst. Schauen wir uns das vorgefertigte SeaTable Template einmal genauer an:

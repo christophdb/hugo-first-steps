@@ -1,9 +1,10 @@
 ---
-title: "Crear un plan de aprendizaje - 7 pasos para obtener la mejor nota"
+title: 'Crear un plan de aprendizaje - 7 pasos para obtener la mejor nota'
 date: 2024-05-02
-lastmod: "2024-05-02"
-author: "nsc"
-url: "/es/lernplan-erstellen"
+lastmod: '2024-05-02'
+author: 'nsc'
+url: '/es/lernplan-erstellen'
+color: '#eeeeee'
 ---
 
 Muchos alumnos y estudiantes se ven atrapados en una vorágine de procrastinación y estudio de última hora. Quizá tú también pospongas el estudio hasta que tengas que empollar durante horas la última noche antes del examen para adquirir los conocimientos necesarios por los pelos. Pero no te preocupes, hay una forma mejor: ¡crear un **plan de estudio** eficaz!
@@ -94,7 +95,7 @@ Un aspecto importante de la motivación es la **relevancia personal** del materi
 
 También es beneficioso **relacionar** la información con los conocimientos existentes. Por lo tanto, intente establecer una conexión entre el material de aprendizaje y sus conocimientos previos. La práctica hace al maestro: **aplicando** contenidos de aprendizaje abstractos mediante ejemplos concretos, podrá consolidar sus conocimientos.
 
-![Crear un plan de aprendizaje: Firma en el escritorio con la inscripción &quot;Tú puedes&quot;.](images/pexels-prateekkatyal-2740956-711x474.jpg)
+![Crear un plan de aprendizaje: Firma en el escritorio con la inscripción "Tú puedes".](images/pexels-prateekkatyal-2740956-711x474.jpg)
 
 La motivación puede verse influida por diversos factores.
 

@@ -1,9 +1,10 @@
 ---
-title: "Como traduzir automaticamente o seu sítio web com Weglot."
+title: 'Como traduzir automaticamente o seu sítio web com Weglot.'
 date: 2022-03-21
-lastmod: "2022-04-05"
-author: "cdb"
-url: "/pt/weglot-translation-plugin-wordpress"
+lastmod: '2022-04-05'
+author: 'cdb'
+url: '/pt/weglot-translation-plugin-wordpress'
+color: '#eeeeee'
 ---
 
 Weglot é um plugin WordPress para traduzir automaticamente o seu próprio website. A ideia é simples e rapidamente explicada. Escreve todos os textos no seu próprio website na sua língua materna como habitualmente e deixa a Weglot traduzir todo o conteúdo para uma ou mais outras línguas. O visitante do website é automaticamente redireccionado para a versão linguística que lhe convém e a [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) encarrega-se de todo o trabalho necessário para SEO internacional. 
@@ -123,7 +124,7 @@ Os preços do plugin WordPress Weglot.
 
 Actualmente utilizamos o _Advanced_\-Assinatura Weglot, que permite até 10 línguas e até 1 milhão de palavras. Pagamos 1.990 euros por isto, mas, como mencionado anteriormente, poupou-nos pelo menos 18 dias úteis ao longo dos dois anos. O tempo poupado é provavelmente muitas vezes mais. As subscrições podem ser actualizadas em qualquer altura durante o prazo e o valor residual da subscrição actual é creditado na totalidade ao preço da subscrição de valor mais elevado. 
 
-Num futuro próximo, estaremos a analisar o _Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten._ 
+Num futuro próximo, estaremos a analisar o *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
 
 ### Com a ferramenta de contagem de palavras pode determinar as suas próprias necessidades
 

@@ -1,10 +1,11 @@
 ---
-title: "Optimal accounts receivable accounting with SeaTable - SeaTable"
+title: 'Optimal accounts receivable accounting with SeaTable - SeaTable'
 date: 2021-08-26
-lastmod: "2023-07-11"
-coverImage: "Buchhaltung.jpg"
-author: "pbr"
-url: "/mit-seatable-zur-optimalen-debitorenbuchhaltung"
+lastmod: '2023-07-11'
+coverImage: 'Buchhaltung.jpg'
+author: 'pbr'
+url: '/mit-seatable-zur-optimalen-debitorenbuchhaltung'
+color: '#eeeeee'
 ---
 
 Incoming payments have to be checked, customers have to be reminded of payments and sometimes there is even the part that every company wants to avoid: the dunning process. This can become a real challenge for many companies. You quickly get lost in your own chaos and no one in your company still knows when and if an invoice was even paid. In the end, the liquidity of your own company suffers. However, you should not let it get that far!

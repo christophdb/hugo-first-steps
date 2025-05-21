@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 3.3: Improved form editor and HTML e-mail support"
+title: 'SeaTable 3.3: Improved form editor and HTML e-mail support'
 date: 2022-12-13
-lastmod: "2022-12-15"
-coverImage: "release-3.3-release-note.jpg"
-author: "rdb"
-url: "/seatable-release-3-3"
+lastmod: '2022-12-15'
+coverImage: 'release-3.3-release-note.jpg'
+author: 'rdb'
+url: '/seatable-release-3-3'
+color: '#eeeeee'
 ---
 
 SeaTable fans will receive their Christmas present today: version 3.3 of SeaTable with its numerous improvements and new features. The completely revised form editor in block design offers new freedoms and additional functions for the design and use of web forms. In addition to text e-mails, SeaTable now also sends formatted HTML e-mails. The extended editor for formatted text makes this a breeze. And payment columns now offer automatic data validation as already known from text columns. Also users who want to manage mass data in SeaTable will get their money's worth with SeaTable 3.3. From now on SeaTable can import hundreds of thousands of rows from an XLSX file directly into the Big Data store and export them again from there. Want to know more? Then read on!
@@ -19,7 +20,7 @@ In the revised editor for web forms, "blocks" replace the sliders in the setting
 
 The numerous advantages of the block design are convincing: The fields in the form can be in any order. The order of the form fields does not have to correspond to the order of the columns in the table. Each form can have an individual field sequence. Of course, all blocks in the form can be moved later. To swap the sequence of two fields, simply drag the lower field over the upper one (or vice versa) and you have optimized the sequence. Which fields you use in forms and in which order is now entirely up to you with the new editor.
 
-****But the block design can do even more. Two blocks for static content complement the blocks for the input fields. The **Horizontal Line** block can be used to structure a form thematically; the **Annotations** block can be used to place explanatory text in the form. Since the annotation blocks**** can be worked ****with more flexibly than the previous**web form hints**, the latter disappear from the settings sidebar and make room for other things.
+\***\*But the block design can do even more. Two blocks for static content complement the blocks for the input fields. The **Horizontal Line** block can be used to structure a form thematically; the **Annotations** block can be used to place explanatory text in the form. Since the annotation blocks\*\*** can be worked \***\*with more flexibly than the previous**web form hints\*\*, the latter disappear from the settings sidebar and make room for other things.
 
 Three new functions complete the rebuild of the editor. In the submission message, you can now reference columns in the form's table. This can be a field that was filled in the form or a generated or calculated value from a formula. This means that nothing stands in the way of a personal thank you to the submitter or the display of a processing number. The second new feature is the "Activation required" option for checkboxes. If the option is set, then the form can only be submitted if the corresponding checkbox is checked. This is helpful when you need to obtain consent, such as for terms of use or personal data processing. Third, you can now make all fields in your form mandatory with one click.
 
@@ -43,7 +44,7 @@ Thanks to the Big Data function introduced in [version 3.1,](/en/seatable-releas
 
 The bulk import is done directly into the Big Data store (or SeaTables component dtable-db). You can edit and analyze the data with all the functions available in a Big Data view. Up to the limit of 100,000 rows you can also move imported rows into the normal storage to collaborate on them in real time.
 
-![Mass-import into and export form SeaTable&#039;s big data storage](images/Massimport_BigDataStorage.png)
+![Mass-import into and export form SeaTable's big data storage](images/Massimport_BigDataStorage.png)
 
 The new import, update and export function can be accessed via the advanced functions of a Big Data view.
 

@@ -1,10 +1,11 @@
 ---
-title: "With these 4 steps to perfect product management - SeaTable"
+title: 'With these 4 steps to perfect product management - SeaTable'
 date: 2021-04-29
-lastmod: "2023-07-11"
-coverImage: "pexels-lukas-669619.jpg"
-author: "ott"
-url: "/das-perfekte-produktmanagement-mit-seatable"
+lastmod: '2023-07-11'
+coverImage: 'pexels-lukas-669619.jpg'
+author: 'ott'
+url: '/das-perfekte-produktmanagement-mit-seatable'
+color: '#eeeeee'
 ---
 
 When companies market a product or service, good product management is very important for long-term market success. After all, what good is a great product that simply doesn't work? We show what needs to be considered in product management and which useful functions the work with SeaTable brings with it.

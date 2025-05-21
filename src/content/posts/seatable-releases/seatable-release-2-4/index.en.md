@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 2.4: Improved display options for faster work - SeaTable"
+title: 'SeaTable 2.4: Improved display options for faster work - SeaTable'
 date: 2021-10-19
-lastmod: "2023-07-11"
-coverImage: "release-2.4-v3.jpg"
-author: "rdb"
-url: "/seatable-release-2-4"
+lastmod: '2023-07-11'
+coverImage: 'release-2.4-v3.jpg'
+author: 'rdb'
+url: '/seatable-release-2-4'
+color: '#eeeeee'
 ---
 
 SeaTable 2.4 has seen the light of day! The latest incarnation of the SeaTable Server was uploaded to [Docker](https://hub.docker.com/u/seatable) Hub at the end of last week and SeaTable Cloud was updated this morning. The new version offers a number of improvements and new features: View navigation is now dockable, the Link to Other Entries column type offers enhanced settings, a new and improved data processing operation make quantitative analysis easier. In addition, a new conditional formatting offers help with large data sets. And these are just the features that stand out from the crowd. SeaTable 2.4 also offers much more. You will find the most important information about the new release in these release notes. You will find the complete list of changes - as always in the [changelog](https://seatable.io/en/docs/changelog/version-2-4/).
@@ -29,7 +30,7 @@ In previous SeaTable versions, the link always showed the value of the first col
 
 Want to identify all duplicates in your table? With SeaTable 2.4 you now have not one, but two ways to do this: you can use the data deduplication plugin or the new conditional formatting option "Highlight duplicates". This formatting option highlights all duplicate rows in the active table. By selecting the comparison columns, you can define exactly what constitutes a duplicate.
 
-![New conditional formatting option &quot;Highlight duplicates](images/Highlight_duplicates_1448x554.png)
+![New conditional formatting option "Highlight duplicates](images/Highlight_duplicates_1448x554.png)
 
 The big advantage of conditional formatting compared to the plugin is the fact that you do not leave the table editor. The duplicates are displayed where you can edit rows , delete rows as well as use filters and sorting. (The plugin remains the tool of choice if you want to automatically delete all duplicates).
 

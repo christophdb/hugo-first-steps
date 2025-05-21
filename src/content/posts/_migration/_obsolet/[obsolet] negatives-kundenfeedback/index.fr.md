@@ -1,9 +1,10 @@
 ---
-title: "Les commentaires négatifs des clients et comment les gérer | SeaTable"
+title: 'Les commentaires négatifs des clients et comment les gérer | SeaTable'
 date: 2020-09-17
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/fr/negatives-kundenfeedback"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/fr/negatives-kundenfeedback'
+color: '#eeeeee'
 ---
 
 Un feedback positif de la part des clients est souhaitable. Néanmoins, il peut arriver que, malgré tous vos efforts, vous receviez un feedback négatif. Mais le feedback négatif des clients n'est pas toujours mauvais. Vous pouvez en tirer des enseignements précieux pour l'amélioration de vos processus ou de votre produit. Pourquoi le feedback des clients est-il si important et comment gérer les avis négatifs des clients ? Nous vous donnons des conseils !

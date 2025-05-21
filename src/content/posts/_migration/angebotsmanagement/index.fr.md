@@ -1,9 +1,10 @@
 ---
-title: "Une bonne gestion des offres pour de meilleures performances de vente"
+title: 'Une bonne gestion des offres pour de meilleures performances de vente'
 date: 2022-07-22
-lastmod: "2022-07-27"
-author: "rdb"
-url: "/fr/angebotsmanagement"
+lastmod: '2022-07-27'
+author: 'rdb'
+url: '/fr/angebotsmanagement'
+color: '#eeeeee'
 ---
 
 Une chose est essentielle pour une vente réussie : la **gestion des offres**. Mais de quoi s'agit-il ? Quelles sont les erreurs à ne pas commettre ? Et qu'est-ce qui se cache derrière le terme "gestion des offres" ?

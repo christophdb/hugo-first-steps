@@ -1,13 +1,14 @@
 ---
-title: "SeaTable 1.8: more collaboration and a new column type - SeaTable"
+title: 'SeaTable 1.8: more collaboration and a new column type - SeaTable'
 date: 2021-03-18
-lastmod: "2023-07-11"
-coverImage: "seatable-1.8-release-notes.jpg"
-author: "rdb"
-url: "/seatable-release-1-8"
+lastmod: '2023-07-11'
+coverImage: 'seatable-1.8-release-notes.jpg'
+author: 'rdb'
+url: '/seatable-release-1-8'
+color: '#eeeeee'
 ---
 
-We have deployed SeaTable 1.8 on [SeaTable Cloud](https://cloud.seatable.io) today, and we are confident that you'll agree with us: SeaTable 1.8 is a great new release! It is packed with new features and extensions of existing features as well as a great number of smaller improvements. As usual, this release note only highlights the most important changes and this time it was particularly difficult to choose those highlights. You'll find the complete list of changes - as always - in SeaTable's Changelog. We'll upload the new Docker images to Docker Hub within the next couple of days.  
+We have deployed SeaTable 1.8 on [SeaTable Cloud](https://cloud.seatable.io) today, and we are confident that you'll agree with us: SeaTable 1.8 is a great new release! It is packed with new features and extensions of existing features as well as a great number of smaller improvements. As usual, this release note only highlights the most important changes and this time it was particularly difficult to choose those highlights. You'll find the complete list of changes - as always - in SeaTable's Changelog. We'll upload the new Docker images to Docker Hub within the next couple of days.
 
 ## Customizable row height
 
@@ -73,4 +74,4 @@ Lastly, we have also fixed some bugs:
 - The filter conditions of single select columns have been aligned with those of multiple select columns.
 - Checkboxes and multiple select columns are now sortable.
 - The search function now also includes collaborator as well as single and multiple select columns.
-- The FREEZE\_USER\_ON\_LOGIN\_FAILED option works again - [thanks to user mtmail for pointing this out.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)
+- The FREEZE_USER_ON_LOGIN_FAILED option works again - [thanks to user mtmail for pointing this out.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)

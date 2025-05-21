@@ -1,12 +1,13 @@
 ---
-title: "SeaTable 1.8: mehr Zusammenarbeit und ein neuer Spaltentyp - SeaTable"
+title: 'SeaTable 1.8: mehr Zusammenarbeit und ein neuer Spaltentyp - SeaTable'
 date: 2021-03-18
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/de/seatable-release-1-8"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/de/seatable-release-1-8'
+color: '#eeeeee'
 ---
 
-Am heutigen Tag haben wir SeaTable 1.8 auf [SeaTable Cloud](https://cloud.seatable.io) zur Verfügung gestellt und wir sind davon überzeugt, dass Sie uns zustimmen werden: SeaTable 1.8 ist großartig! Es ist vollgepackt mit neuen Funktionen und Funktionsergänzungen sowie einer großen Anzahl kleinerer Verbesserungen. Wie auch schon in der Vergangenheit stellen wir in der Release Note die wichtigsten Neuerungen vor. Dieses Mal war es besonders schwer, uns auf die fünf Highlights zu fokussieren. Sie finden Sie vollständige Änderungsliste – wie immer – im Changelog. Das Docker Image werden wir in den nächsten Tag auf Docker Hub hochladen.  
+Am heutigen Tag haben wir SeaTable 1.8 auf [SeaTable Cloud](https://cloud.seatable.io) zur Verfügung gestellt und wir sind davon überzeugt, dass Sie uns zustimmen werden: SeaTable 1.8 ist großartig! Es ist vollgepackt mit neuen Funktionen und Funktionsergänzungen sowie einer großen Anzahl kleinerer Verbesserungen. Wie auch schon in der Vergangenheit stellen wir in der Release Note die wichtigsten Neuerungen vor. Dieses Mal war es besonders schwer, uns auf die fünf Highlights zu fokussieren. Sie finden Sie vollständige Änderungsliste – wie immer – im Changelog. Das Docker Image werden wir in den nächsten Tag auf Docker Hub hochladen.
 
 ## Variable Zeilenhöhe
 
@@ -72,4 +73,4 @@ Und natürlich haben wir auch noch ein paar Bugs beseitigt:
 - Die Filterbedingungen der Einfachauswahlspalte wurden an die der Mehrfachauswahlspalte angepasst.
 - Checkbox und Mehrfachauswahlspalten lassen sich nun sortieren.
 - Die Suchfunktion inkludiert nun auch Mitarbeiter sowie Einfach- und Mehrfachauswahlspalten.
-- Die FREEZE\_USER\_ON\_LOGIN\_FAILED Option, die dafür sorgt, dass Benutzerkonten nach einer bestimmten Anzahl nicht autorisierte Anmeldeversuche gesperrt wird, funktioniert nun wieder. [Einen Dank an den Benutzer mtmail für den Hinweis.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)
+- Die FREEZE_USER_ON_LOGIN_FAILED Option, die dafür sorgt, dass Benutzerkonten nach einer bestimmten Anzahl nicht autorisierte Anmeldeversuche gesperrt wird, funktioniert nun wieder. [Einen Dank an den Benutzer mtmail für den Hinweis.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)

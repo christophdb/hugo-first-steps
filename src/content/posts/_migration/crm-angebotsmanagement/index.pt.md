@@ -1,9 +1,10 @@
 ---
-title: "CRM: Desde o registo do cliente até à oferta - SeaTable"
+title: 'CRM: Desde o registo do cliente até à oferta - SeaTable'
 date: 2021-07-22
-lastmod: "2023-07-11"
-author: "pbr"
-url: "/pt/crm-angebotsmanagement"
+lastmod: '2023-07-11'
+author: 'pbr'
+url: '/pt/crm-angebotsmanagement'
+color: '#eeeeee'
 ---
 
 Qualquer empresa que queira registar e acompanhar os seus clientes de forma mais eficiente não pode prescindir de uma boa gestão da relação com o cliente (CRM) ou, mais precisamente, de um sistema CRM.

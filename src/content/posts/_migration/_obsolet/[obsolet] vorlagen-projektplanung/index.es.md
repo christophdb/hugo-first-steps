@@ -1,9 +1,10 @@
 ---
-title: "Plantillas inteligentes para la planificación de proyectos"
+title: 'Plantillas inteligentes para la planificación de proyectos'
 date: 2022-05-20
-lastmod: "2022-07-27"
-author: "cdb"
-url: "/es/vorlagen-projektplanung"
+lastmod: '2022-07-27'
+author: 'cdb'
+url: '/es/vorlagen-projektplanung'
+color: '#eeeeee'
 ---
 
 **Las plantillas de** **planificación de proyectos** permiten empezar a planificar y ejecutar un proyecto inmediatamente. Los diagramas de Gantt, los tableros Kanban o las listas inteligentes se utilizan para gestionar las actividades del proyecto, los plazos y los presupuestos, entre otras cosas. A continuación encontrará varias plantillas con datos de muestra para crear su plan de proyecto.

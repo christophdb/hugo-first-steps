@@ -1,9 +1,10 @@
 ---
-title: "Equipas de vendas à distância: melhores práticas para um trabalho eficaz"
+title: 'Equipas de vendas à distância: melhores práticas para um trabalho eficaz'
 date: 2023-06-06
-lastmod: "2023-06-28"
-author: "nsc2"
-url: "/pt/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten"
+lastmod: '2023-06-28'
+author: 'nsc2'
+url: '/pt/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
+color: '#eeeeee'
 ---
 
 As circunstâncias em 2020 alteraram significativamente a forma como o trabalho é efectuado nas empresas. De acordo com uma [sondagem](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx) recente [da Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 em cada 10 trabalhadores remotos gostariam de manter esta forma de trabalhar até certo ponto.

@@ -4,6 +4,7 @@ date: 2023-08-23
 lastmod: '2023-08-23'
 author: 'kgr'
 url: '/ru/seatable-release-4-1'
+color: '#eeeeee'
 ---
 
 Die Sommerferien neigen sich dem Ende zu und wir hoffen, Sie haben die Urlaubszeit genossen. Während andere in den Pool sprangen oder die Füße hochlegten, haben sich unsere Entwickler mächtig ins Zeug gelegt und **SeaTable Version 4.1** hervorgezaubert.

@@ -1,10 +1,11 @@
 ---
-title: "CRM: From customer registration to the offer - SeaTable"
+title: 'CRM: From customer registration to the offer - SeaTable'
 date: 2021-07-22
-lastmod: "2023-07-11"
-coverImage: "crm-product-catalog-offers-preview.jpg"
-author: "pbr"
-url: "/crm-angebotsmanagement"
+lastmod: '2023-07-11'
+coverImage: 'crm-product-catalog-offers-preview.jpg'
+author: 'pbr'
+url: '/crm-angebotsmanagement'
+color: '#eeeeee'
 ---
 
 Any company that wants to record and track its customers more efficiently cannot do without good customer relationship management (CRM) or, more precisely, a CRM system.

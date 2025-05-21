@@ -1,9 +1,10 @@
 ---
 title: "SeaTable 2.3 : Encore plus de flexibilité de déploiement avec la fonction d'archivage - SeaTable"
 date: 2021-09-02
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/fr/seatable-release-2-3"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/fr/seatable-release-2-3'
+color: '#eeeeee'
 ---
 
 La version 2.3 de SeaTable, disponible depuis aujourd'hui, s'apprête à conquérir de nouveaux champs d'application. Avec la fonction d'archivage, qui est présentée en version bêta dans cette version, SeaTable est désormais également recommandé pour les cas d'utilisation intensive des données : Des tableaux contenant des millions d'enregistrements de données peuvent être stockés et analysés dans SeaTable. C'est l'objet de ces notes de mise à jour. D'autres innovations et améliorations sont présentées dans un aperçu. La liste complète des changements peut être trouvée - comme toujours - dans le [Changelog de SeaTable](https://seatable.io/fr/docs/changelog/version-2-3/).
@@ -20,19 +21,18 @@ En ce qui concerne les possibilités d'évaluation et d'analyse, les différence
 
 La principale différence réside dans la prise en charge de la collaboration en ligne en temps réel : les lignes actives sont entièrement chargées dans la mémoire de travail lorsque le tableau est appelé. Chaque modification d'une table peut ainsi être transmise immédiatement aux autres utilisateurs. Les données archivées sont différentes : Lorsqu'une table est ouverte, seules les 1 000 premières lignes sont chargées à partir de l'archive. Des données supplémentaires peuvent être récupérées page par page. Ce renoncement au chargement complet permet un affichage rapide dans l'interface web, même de tableaux comportant plusieurs centaines de milliers de lignes, mais il implique également de renoncer à la collaboration en temps réel.
 
-|  | Vue normale | Vue incluse.   données archivées |
-| --- | --- | --- |
-| Travail en collaboration | ✓ ; |  |
-| Prise en charge de tous les types de colonnes | ✓ ; | ✓ ;# |
-| Support des plugins | ✓ ; | ✓ ; \* |
-| Accès en lecture et en écriture | ✓ ; | ✓ ; \* |
-| Triage | ✓ ; | ✓ ; |
-| Filtrage | ✓ ; | ✓ ; |
-| Regroupement | ✓ ; |  |
-| Cacher | ✓ ; | ✓ ; \* |
-| Recherche | ✓ ; | ✓ ; \* |
+|                                               | Vue normale | Vue incluse. données archivées |
+| --------------------------------------------- | ----------- | ------------------------------ |
+| Travail en collaboration                      | ✓ ;         |                                |
+| Prise en charge de tous les types de colonnes | ✓ ;         | ✓ ;#                           |
+| Support des plugins                           | ✓ ;         | ✓ ; \*                         |
+| Accès en lecture et en écriture               | ✓ ;         | ✓ ; \*                         |
+| Triage                                        | ✓ ;         | ✓ ;                            |
+| Filtrage                                      | ✓ ;         | ✓ ;                            |
+| Regroupement                                  | ✓ ;         |                                |
+| Cacher                                        | ✓ ;         | ✓ ; \*                         |
+| Recherche                                     | ✓ ;         | ✓ ; \*                         |
 
-  
 \# Dans la version 2.3, tous les types de colonnes sont supportés à l'exception des formules et des liens.  
 \* Ces fonctions ne sont pas encore disponibles dans la version 2.3.
 
@@ -66,7 +66,6 @@ L'historique de la table et les commentaires ne font pas partie des informations
 
 Après les [valeurs par défaut pour les colonnes](https://seatable.io/fr/seatable-release-2-0/?lang=auto), il y a maintenant aussi des valeurs par défaut pour les champs de formulaire dans la version 2.3. Et les valeurs statiques par défaut ne sont pas les seules à être prises en charge : Les variables _creator.id_ et _creator.name_ insèrent automatiquement l'ID ou le nom de l'utilisateur dans le champ du formulaire pour les utilisateurs connectés.
 
-  
 ![Valeurs par défaut dans les formulaires](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
 
 ### Aperçu du texte formaté du type de colonne

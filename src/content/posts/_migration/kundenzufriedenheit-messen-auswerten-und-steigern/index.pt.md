@@ -1,9 +1,10 @@
 ---
-title: "Medir, avaliar e aumentar a satisfação do cliente - SeaTable"
+title: 'Medir, avaliar e aumentar a satisfação do cliente - SeaTable'
 date: 2021-03-05
-lastmod: "2023-06-28"
-author: "cdb"
-url: "/pt/kundenzufriedenheit-messen-auswerten-und-steigern"
+lastmod: '2023-06-28'
+author: 'cdb'
+url: '/pt/kundenzufriedenheit-messen-auswerten-und-steigern'
+color: '#eeeeee'
 ---
 
 Se um cliente estiver satisfeito, voltará a comprar-lhe e provavelmente até recomendará a sua empresa a outros. Se o seu produto não resolver o problema do cliente como esperado, perdeu um cliente e, na pior das hipóteses, receberá más críticas. A falta de satisfação do cliente poderia, por sua vez, assustar outros potenciais novos clientes e levar à perda de vendas.
@@ -36,7 +37,7 @@ Um questionário NPS criado com o SeaTable. Experimente o nosso [modelo de NPS](
 
 ### Cálculo do NPS (Net Promoter Score)
 
-O cálculo subsequente do Net-Promoter-Scores é simples. Os clientes que respondem são primeiro divididos em duas categorias: os _Promoter_por vezes designados por fãs, e o _Detractors, häufig auch als Kritiker bezeichnet. Dabei sind Promoter diejenigen, die mit 10 oder 9 geantwortet haben, und die Kritiker jene, die 0 bis 6 angegeben haben. Personen mit einer 7 oder 8 werden als Passive bezeichnet._
+O cálculo subsequente do Net-Promoter-Scores é simples. Os clientes que respondem são primeiro divididos em duas categorias: os _Promoter_por vezes designados por fãs, e o \_Detractors, häufig auch als Kritiker bezeichnet. Dabei sind Promoter diejenigen, die mit 10 oder 9 geantwortet haben, und die Kritiker jene, die 0 bis 6 angegeben haben. Personen mit einer 7 oder 8 werden als Passive bezeichnet._
 
 Agora, pegue na percentagem de promotores e subtraia a percentagem de detractores. O resultado é o seu NPS como um valor entre -100 e 100. Um valor NPS positivo mostra que tem mais clientes satisfeitos do que clientes insatisfeitos. É claro que uma boa pontuação NPS para a sua empresa depende do seu sector, mas normalmente uma pontuação NPS de 30 ou superior é considerada muito boa.
 

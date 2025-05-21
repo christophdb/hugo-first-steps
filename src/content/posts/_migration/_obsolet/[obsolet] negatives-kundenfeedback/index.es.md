@@ -1,9 +1,10 @@
 ---
-title: "Comentarios negativos de los clientes y cómo tratarlos | SeaTable"
+title: 'Comentarios negativos de los clientes y cómo tratarlos | SeaTable'
 date: 2020-09-17
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/es/negatives-kundenfeedback"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/es/negatives-kundenfeedback'
+color: '#eeeeee'
 ---
 
 Es deseable que las opiniones de los clientes sean positivas. Sin embargo, también ocurre que, a pesar de todos sus esfuerzos, reciba comentarios negativos. Sin embargo, los comentarios negativos de los clientes no siempre tienen que ser malos. Precisamente de ahí puede obtener valiosos conocimientos para mejorar sus procesos o su producto. ¿Por qué es tan importante la opinión de los clientes y cómo se gestionan las opiniones negativas de los clientes? Te damos consejos!

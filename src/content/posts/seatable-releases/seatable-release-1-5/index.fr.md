@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 1.5 : Éditeur, partages et formulaires web améliorés - SeaTable"
+title: 'SeaTable 1.5 : Éditeur, partages et formulaires web améliorés - SeaTable'
 date: 2020-11-27
-lastmod: "2022-06-14"
-author: "rdb"
-url: "/fr/seatable-release-1-5"
+lastmod: '2022-06-14'
+author: 'rdb'
+url: '/fr/seatable-release-1-5'
+color: '#eeeeee'
 ---
 
 Aujourd'hui, nous avons mis à jour cloud.seatable.io vers la version 1.5 de SeaTable. Avec la prochaine connexion, tous les utilisateurs bénéficieront de nouvelles fonctionnalités passionnantes et d'une série d'améliorations de l'interface et des fonctions existantes. Au premier coup d'œil, vous remarquerez les nombreuses modifications, petites et grandes, apportées à l'éditeur de tableaux, qui se traduisent par une plus grande efficacité du flux de travail et une meilleure expérience utilisateur. Les nouvelles autorisations de partage définies par l'utilisateur offrent un contrôle et une flexibilité accrus pour le travail collaboratif sur les bases. Les options de personnalisation avancées font des formulaires Web de SeaTables un outil encore plus polyvalent pour la saisie de données.
@@ -62,7 +63,7 @@ Les puissants formulaires web de SeaTable ont été très demandés au cours des
 
 En nous basant sur les commentaires de nos clients et dans l'espoir de soutenir ce secteur qui souffre, nous avons ajouté trois options de personnalisation des formulaires web : premièrement, il est désormais possible de créer des messages individuels "Merci pour votre participation". Vous voulez envoyer un remerciement spécial à vos invités ou donner des informations plus détaillées après avoir répondu aux questions, c'est exactement ce que vous pouvez faire avec SeaTable 1.5. Deuxièmement, la redirection automatique était une fonction très demandée. C'est un plaisir pour nous de la mettre en œuvre dans cette nouvelle version. Si une adresse de redirection est indiquée, SeaTable redirige automatiquement vers cette adresse. Troisièmement, nous avons également assoupli les fonctions de remarque. En plus de la note de formulaire au bas du formulaire, il est désormais possible d'afficher une note avant les champs de formulaire.
 
-![Les formulaires web de SeaTable offrent désormais plus d&#039;options de personnalisation](images/Extra_Customization_Options_Webforms.png)
+![Les formulaires web de SeaTable offrent désormais plus d'options de personnalisation](images/Extra_Customization_Options_Webforms.png)
 
 Nous croisons les doigts pour que la pandémie de Corona n'apparaisse bientôt plus que dans les livres d'histoire. D'autre part, nous espérons que ces améliorations aideront les utilisateurs de SeaTable dans les secteurs fortement touchés dans leur travail si la pandémie se prolonge.
 

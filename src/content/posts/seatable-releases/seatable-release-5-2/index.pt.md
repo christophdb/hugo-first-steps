@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 5.2: Filtros avançados na base e um novo plugin"
+title: 'SeaTable 5.2: Filtros avançados na base e um novo plugin'
 date: 2025-02-25
-lastmod: "2025-02-25"
-author: "rdb"
-url: "/pt/seatable-release-5-2"
+lastmod: '2025-02-25'
+author: 'rdb'
+url: '/pt/seatable-release-5-2'
+color: '#eeeeee'
 ---
 
 O segundo lançamento menor da versão 5 do SeaTable contém inúmeras correcções de erros e melhorias de pormenor para tornar o trabalho com o SeaTable ainda mais fácil e para apoiar ainda melhor os seus casos de utilização: Nas Bases, os **novos grupos de filtros** permitem uma seleção muito mais precisa dos dados (registos). Os filtros entre colunas na formatação condicional de linhas e células permitem destacar dados de uma forma que anteriormente não era possível. No **App Builder**, cada tipo de página beneficia de melhorias maiores e menores de vários tipos - autorizações alargadas, melhor usabilidade e mais funções. O SeaTable 5.2 também inclui um novo **plug-in de quadro branco** e melhorias nos plug-ins de design de página e de calendário. Como sempre, pode encontrar a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-5/).
@@ -50,7 +51,7 @@ Para além do controlo de autorização, a nova versão contém também duas mel
 
 A [página individual](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) foi dotada de um novo tipo de estatísticas: semelhante à [página de tabela](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), a **tabela simples** permite a apresentação tabular de um conjunto de dados que foi pré-filtrado e pré-classificado pelo administrador da aplicação. Ao contrário da página de tabela, o novo tipo de estatísticas permite combinar duas ou mais tabelas numa página. Na versão 5.2, os utilizadores da aplicação não podem definir as suas próprias regras de filtragem e ordenação. Iremos adicionar esta função no futuro.
 
-![Novo tipo de gráfico &quot;Tabela básica&quot;](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Novo tipo de gráfico "Tabela básica"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
 
 ### Tipo de página Calendário
 

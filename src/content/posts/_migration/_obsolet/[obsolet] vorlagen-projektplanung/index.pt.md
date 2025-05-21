@@ -1,9 +1,10 @@
 ---
-title: "Modelos inteligentes para planeamento de projectos"
+title: 'Modelos inteligentes para planeamento de projectos'
 date: 2022-05-20
-lastmod: "2022-07-27"
-author: "cdb"
-url: "/pt/vorlagen-projektplanung"
+lastmod: '2022-07-27'
+author: 'cdb'
+url: '/pt/vorlagen-projektplanung'
+color: '#eeeeee'
 ---
 
 **Os modelos de** **planeamento de projectos** permitem iniciar imediatamente o planeamento e a implementação de um projecto. Gráficos de Gantt, quadros Kanban ou listas inteligentes são utilizados para gerir as actividades do projecto, prazos, orçamentos e muito mais. Abaixo encontrará vários modelos, incluindo amostras de dados para a criação do seu plano de projecto.

@@ -1,9 +1,10 @@
 ---
-title: "Wie Sie die Krankmeldungen Ihres Teams im Blick behalten - SeaTable"
+title: 'Wie Sie die Krankmeldungen Ihres Teams im Blick behalten - SeaTable'
 date: 2021-10-21
-lastmod: "2023-07-11"
-author: "ott"
-url: "/de/krankmeldungen-verwalten"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/de/krankmeldungen-verwalten'
+color: '#eeeeee'
 ---
 
 Immer wieder kommt es vor, dass Mitarbeiter in Unternehmen sich krank melden müssen – das bleibt einfach nicht aus. Insbesondere in den Zeiten der Grippewelle kommt es schnell zu Personalmangel, wenn besonders viele gleichzeitig erkranken. Zum Glück hat sich diese Situation durch die strikten Hygienemaßnahmen stark gebessert, da Mitarbeiter mit Krankheitssymptomen nun viel eher zuhause bleiben und so ihre Kollegen schützen.

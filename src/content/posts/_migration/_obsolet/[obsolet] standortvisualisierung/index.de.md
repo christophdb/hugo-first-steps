@@ -1,9 +1,10 @@
 ---
-title: "Standortvisualisierung einfach gemacht mit SeaTable | SeaTable"
+title: 'Standortvisualisierung einfach gemacht mit SeaTable | SeaTable'
 date: 2020-08-19
-lastmod: "2023-05-17"
-author: "rbu"
-url: "/de/standortvisualisierung"
+lastmod: '2023-05-17'
+author: 'rbu'
+url: '/de/standortvisualisierung'
+color: '#eeeeee'
 ---
 
 ## Das Karten-Plugin von SeaTable

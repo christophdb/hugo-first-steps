@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.3: Editor de formularios mejorado y compatibilidad con correo electrónico HTML"
+title: 'SeaTable 3.3: Editor de formularios mejorado y compatibilidad con correo electrónico HTML'
 date: 2022-12-13
-lastmod: "2022-12-15"
-author: "rdb"
-url: "/es/seatable-release-3-3"
+lastmod: '2022-12-15'
+author: 'rdb'
+url: '/es/seatable-release-3-3'
+color: '#eeeeee'
 ---
 
 Los aficionados a SeaTable recibirán hoy su regalo de Navidad: la versión 3.3 de SeaTable con sus numerosas mejoras e innovaciones. El editor de formularios completamente revisado en diseño de bloques ofrece nueva libertad y funciones adicionales para el diseño y uso de formularios web. Además de correos electrónicos de texto, SeaTable ahora también envía correos electrónicos HTML formateados. El editor ampliado de texto formateado lo convierte en un juego de niños. Y las columnas de pago ofrecen ahora validación automática de datos, como ya se sabe de las columnas de texto. Los usuarios que gestionan o quieren gestionar datos masivos en SeaTable también sacan partido a su dinero con SeaTable 3.3. A partir de ahora, SeaTable puede importar cientos de miles de filas de un archivo XLSX directamente a la memoria de Big Data y volver a exportarlas desde allí. ¿Quiere saber más? Pues siga leyendo.
@@ -18,7 +19,7 @@ En el editor revisado de formularios web, los "bloques" sustituyen a los control
 
 Las numerosas ventajas del diseño en bloque son convincentes: los campos del formulario pueden estar en cualquier orden. El orden de los campos del formulario no tiene por qué coincidir con el orden de las columnas de la tabla. Cada formulario puede tener una secuencia de campos individual. Por supuesto, todos los bloques del formulario también se pueden mover posteriormente. Para intercambiar la secuencia de dos campos, basta con arrastrar el campo inferior sobre el superior (o viceversa) y habrá optimizado la secuencia. Con el nuevo editor, usted decide qué campos utilizar en los formularios y en qué orden.
 
-****Pero el diseño en bloque puede hacer aún más. Dos bloques para contenido estático complementan los bloques para los campos de entrada. El bloque **Línea horizontal** puede utilizarse para estructurar un formulario temáticamente; el bloque **Notas** puede utilizarse para colocar texto explicativo en el formulario. Dado que se puede trabajar con los bloques de anotaciones de forma más flexible que**** con**las anteriores notas de formulario web**, estas últimas desaparecen de la barra lateral de ajustes y dejan espacio para otras cosas.
+\***\*Pero el diseño en bloque puede hacer aún más. Dos bloques para contenido estático complementan los bloques para los campos de entrada. El bloque **Línea horizontal** puede utilizarse para estructurar un formulario temáticamente; el bloque **Notas** puede utilizarse para colocar texto explicativo en el formulario. Dado que se puede trabajar con los bloques de anotaciones de forma más flexible que\*\*** con**las anteriores notas de formulario web**, estas últimas desaparecen de la barra lateral de ajustes y dejan espacio para otras cosas.
 
 Tres nuevas funciones completan la reorganización del editor. En el mensaje de envío, ahora puede hacer referencia a columnas de la tabla del formulario. Puede tratarse de un campo rellenado en el formulario o de un valor generado o calculado a partir de una fórmula. Nada se opone a un agradecimiento personal al remitente o a la visualización de un número de tratamiento. La segunda función nueva es la opción "Activación obligatoria" para las casillas de verificación. Si la opción está activada, el formulario sólo podrá enviarse si la casilla de verificación correspondiente está marcada. Esto resulta útil cuando es necesario obtener el consentimiento, por ejemplo, para las condiciones de uso o el tratamiento de datos personales. En tercer lugar, ahora puede hacer que todos los campos de su formulario sean obligatorios con un solo clic.
 

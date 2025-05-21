@@ -1,9 +1,10 @@
 ---
-title: "Как разработать фронтенд для собственного приложения SeaTable с помощью PHP - SeaTable"
+title: 'Как разработать фронтенд для собственного приложения SeaTable с помощью PHP - SeaTable'
 date: 2022-09-27
-lastmod: "2022-09-27"
-author: "cdb"
-url: "/ru/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln"
+lastmod: '2022-09-27'
+author: 'cdb'
+url: '/ru/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+color: '#eeeeee'
 ---
 
 SeaTable - это невероятно мощная платформа с низким кодом, с помощью которой вы можете разработать собственные бизнес-процессы за очень короткое время. В одном из своих первых уроков на YouTube я уже показал, как вы можете создать свой собственный **инструмент обратной связи с клиентами** менее чем за час, используя только функции и встроенные инструменты Seatable. Если вы не знаете, о чем я говорю, рекомендую сначала посмотреть это [видео на YouTube](https://www.youtube.com/watch?v=HqtyeRL2qiY).
@@ -596,7 +597,7 @@ $app->get('/r/{Title}', function (Request $request, Response $response, $args) {
     // get comments
     $sql = "select * from Comments WHERE `Feature Request` = '". $items->results[0]->Title ."' ORDER BY `Creation` DESC";
     $comments = $conn->querySql($sql, true);
-    
+
     $view = Twig::fromRequest($request);
     return $view->render($response, 'details.html', ['items' => $items->results, 'comments' => $comments->results]);
 });

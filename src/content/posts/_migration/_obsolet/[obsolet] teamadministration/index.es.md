@@ -1,9 +1,10 @@
 ---
-title: "Gestión más fácil de su equipo - la nueva gestión de equipos - SeaTable"
+title: 'Gestión más fácil de su equipo - la nueva gestión de equipos - SeaTable'
 date: 2022-06-21
-lastmod: "2022-06-20"
-author: "rdb"
-url: "/es/teamadministration"
+lastmod: '2022-06-20'
+author: 'rdb'
+url: '/es/teamadministration'
+color: '#eeeeee'
 ---
 
 Con la actualización de SeaTable Cloud a la versión 3.0, los suscriptores de Cloud se benefician no sólo de las numerosas funciones nuevas y mejoradas de la [versión principal](/es/seatable-release-3-0), sino también de una nueva gestión de equipos que simplifica la gestión de equipos pequeños y, sobre todo, grandes. Se han añadido nuevas funciones, se han ampliado las existentes y un nuevo diseño crea más claridad y facilidad de uso. Nos complace presentar la nueva dirección del equipo y los cambios más importantes en este artículo.
@@ -12,7 +13,7 @@ Con la actualización de SeaTable Cloud a la versión 3.0, los suscriptores de C
 
 La "antigua" gestión de equipos de SeaTable Cloud es un módulo de [SeaTable Server](/es/on-premises/?lang=auto/). (SeaTable Server es el software detrás de SeaTable Cloud, que también está disponible para su instalación en su propio servidor). Como tal, proporciona todas las funciones de gestión necesarias para que los equipos las utilicen dentro de una organización (nube privada). Sin embargo, no ofrece funciones de gestión de suscripciones ni integración con un proveedor de servicios de pago.
 
-![La &quot;antigua&quot; administración del equipo](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
+![La "antigua" administración del equipo](https://seatable.io/wp-content/uploads/2022/06/TeamAdministration_old.png)
 
 Estas funciones, necesarias para el funcionamiento de una solución con un grupo de usuarios general (nube pública), se complementaron individualmente para SeaTable Cloud. En cuanto a la experiencia de los usuarios, la gestión de los equipos no estuvo a la altura de los estándares habituales, a pesar de la complejidad técnica comparativamente alta. Para ampliar un equipo, por ejemplo, primero había que añadir uno o más usuarios a la suscripción antes de poder registrar usuarios adicionales en otro menú. El resultado fueron numerosas solicitudes de asistencia, incluyendo la frustración asociada a este procedimiento inusual.
 
@@ -54,7 +55,7 @@ La administración de su suscripción -y esto incluye la cancelación de la mism
 
 En la nueva área de cuentas ahora también podemos ofrecer el pago a cuenta para las actualizaciones de Free a Enterprise. Sólo tiene que seleccionar la factura como método de pago al realizar la actualización. (Los requisitos para el pago de facturas son el pago anual y un mínimo de 10 usuarios).
 
-En la pestaña _Facturas _Todas las facturas de su equipo y su estado de pago aparecen en la lista. También puede descargar una factura. Para ello, haga clic en el número de factura de la última columna.__
+En la pestaña \_Facturas \_Todas las facturas de su equipo y su estado de pago aparecen en la lista. También puede descargar una factura. Para ello, haga clic en el número de factura de la última columna.\_\_
 
 ### API e integración
 

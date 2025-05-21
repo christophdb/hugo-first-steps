@@ -1,10 +1,11 @@
 ---
-title: "With SeaTable to the right content marketing strategy - SeaTable"
+title: 'With SeaTable to the right content marketing strategy - SeaTable'
 date: 2021-02-16
-lastmod: "2023-07-11"
-coverImage: "content-marketing-star-kunde-seatable.jpg"
-author: "cdb"
-url: "/content-marketing-star"
+lastmod: '2023-07-11'
+coverImage: 'content-marketing-star-kunde-seatable.jpg'
+author: 'cdb'
+url: '/content-marketing-star'
+color: '#eeeeee'
 ---
 
 The full-service agency "Content Marketing Star" helps its clients gain new customers with the help of a content marketing strategy. SeaTable helps the agency to plan and structure all components of such a strategy in a database and to coordinate them with the customer.

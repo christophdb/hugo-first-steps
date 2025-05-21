@@ -1,9 +1,10 @@
 ---
-title: "Criar um plano de aprendizagem - 7 passos para a nota máxima"
+title: 'Criar um plano de aprendizagem - 7 passos para a nota máxima'
 date: 2024-05-02
-lastmod: "2024-05-02"
-author: "nsc"
-url: "/pt/lernplan-erstellen"
+lastmod: '2024-05-02'
+author: 'nsc'
+url: '/pt/lernplan-erstellen'
+color: '#eeeeee'
 ---
 
 Muitos alunos e estudantes são apanhados num turbilhão de procrastinação e de estudos de última hora. Talvez você também esteja a adiar o estudo até ter de estudar durante horas na última noite antes do exame para adquirir os conhecimentos necessários por um triz. Mas não se preocupe, há uma maneira melhor: criar um **plano de estudo** eficaz!
@@ -94,7 +95,7 @@ Um aspeto importante da motivação é a **relevância pessoal** do material de 
 
 É igualmente benéfico **relacionar** a informação com os conhecimentos existentes. Por isso, tente estabelecer uma ligação entre o material de aprendizagem e os seus conhecimentos anteriores. A prática leva à perfeição: ao **aplicar** conteúdos de aprendizagem abstractos através de exemplos concretos, pode consolidar os seus conhecimentos.
 
-![Criar um plano de aprendizagem: Placa na secretária com a inscrição &quot;Tu consegues&quot;](images/pexels-prateekkatyal-2740956-711x474.jpg)
+![Criar um plano de aprendizagem: Placa na secretária com a inscrição "Tu consegues"](images/pexels-prateekkatyal-2740956-711x474.jpg)
 
 A motivação pode ser influenciada por vários factores.
 

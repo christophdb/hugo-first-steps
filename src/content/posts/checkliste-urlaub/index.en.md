@@ -1,10 +1,11 @@
 ---
-title: "Vacation checklist: Everything under control for the perfect trip | SeaTable"
+title: 'Vacation checklist: Everything under control for the perfect trip | SeaTable'
 date: 2024-07-17
-lastmod: "2024-07-17"
-coverImage: "nattu-adnan-atSUvc1hMwk-unsplash-scaled.jpg"
-author: "nsc"
-url: "/checkliste-urlaub"
+lastmod: '2024-07-17'
+coverImage: 'nattu-adnan-atSUvc1hMwk-unsplash-scaled.jpg'
+author: 'nsc'
+url: '/checkliste-urlaub'
+color: '#eeeeee'
 ---
 
 The summer vacations are just around the corner and for many vacationers that means it's time to pack their **suitcases**! But when exactly is the right time to pack your suitcase? Are you one of those people who quickly gather everything together the night before departure and throw it into the next best travel bag? Or do you prefer to plan weeks in advance what will make it onto your **vacation checklist**?
@@ -232,6 +233,6 @@ In the template you will not only find a flexibly customizable vacation checklis
 
 An app is also available to simplify travel planning. You can use it to enter ideas, costs and to-dos via form pages, the information for which is then automatically saved in the corresponding tables. Your entire vacation planning can be called up in clear tables, which you can group and sort as you wish. Clear statistics, such as in the budget dashboard, also make it easier for you to keep track:
 
-![Budget Dashboard in SeaTable&#039;s Travel App](images/Travel-App.png)
+![Budget Dashboard in SeaTable's Travel App](images/Travel-App.png)
 
 [Register](https://seatable.io/en/registrierung/) for free today to benefit from these practical functions and organize your next trip stress-free. You can then use the [template](https://seatable.io/en/vorlage/axq_85kkrjsriagmqpxehw/) in your personal SeaTable workspace, fill it with your own data and share it with your fellow travelers via the app.

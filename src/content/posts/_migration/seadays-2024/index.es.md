@@ -1,9 +1,10 @@
 ---
-title: "SeaDays 2024 en retrospectiva: Lo más destacado y lo aprendido - SeaTable"
+title: 'SeaDays 2024 en retrospectiva: Lo más destacado y lo aprendido - SeaTable'
 date: 2024-10-18
-lastmod: "2024-10-18"
-author: "nsc"
-url: "/es/seadays-2024"
+lastmod: '2024-10-18'
+author: 'nsc'
+url: '/es/seadays-2024'
+color: '#eeeeee'
 ---
 
 **SeaDays 2024** ha concluido y podemos echar la vista atrás a dos días intensos e inspiradores en la Sala del Senado de la Universidad de Maguncia. Por segunda vez, alrededor de 50 participantes -entre administradores y gestores de proyectos- se reunieron para debatir los últimos avances en torno a Seafile y SeaTable y aportar sus comentarios.

@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.5: Optimiertes Archiv, Datenverarbeitung und Automationen - SeaTable"
+title: 'SeaTable 2.5: Optimiertes Archiv, Datenverarbeitung und Automationen - SeaTable'
 date: 2021-11-16
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/de/seatable-release-2-5"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/de/seatable-release-2-5'
+color: '#eeeeee'
 ---
 
 SeaTable 2.5 ist da! Das neue Docker Image wurde bereits Ende letzter Woche auf Docker Hub bereitgestellt und heute Morgen wurde dann SeaTable Cloud auf die neuste Version gehoben. Das neue Release macht zahlreiche Funktionen von SeaTable noch besser! Die Archivfunktion mit ihrem wachsenden Funktionsumfang empfiehlt sich für eine wachsende Anzahl an Anwendungsfällen, die verfügbaren Datenverarbeitungsfunktionen werden flexibler und die integrierten Automationen sowie die Rating Spalte bieten neue Optionen. Auch eine Erwähnung wert: Spalten vom Typ Verknüpfung und Formel für Verknüpfungen werden nun vollständig in externen Ansichten unterstützt. Lesen Sie weiter, um mehr über diese Neuerungen zu erfahren. Die vollständige Liste der Änderungen finden Sie – wie immer – im [SeaTable Changelog](/docs/changelog/version-2-5/).

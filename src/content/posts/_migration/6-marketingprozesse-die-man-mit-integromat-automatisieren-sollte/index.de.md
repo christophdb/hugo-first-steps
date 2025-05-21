@@ -1,9 +1,10 @@
 ---
-title: "6 Marketingprozesse, die man mit Integromat automatisieren sollte - SeaTable"
+title: '6 Marketingprozesse, die man mit Integromat automatisieren sollte - SeaTable'
 date: 2021-09-24
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/de/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/de/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
+color: '#eeeeee'
 ---
 
 Erfolg im Marketing ist häufig das Ergebnis konsequenter und beständiger Arbeit im Umgang mit zukünftigen und aktuellen Kunden. Die typische Marketingabteilung kümmert sich nicht um den einen zentralen Marketingprozess, sondern viele kleine ineinandergreifende Prozesse, die darauf abzielen, das Interesse bei möglichen Kunden zu wecken, die Kundenerfahrung zu steigern oder in einen regelmäßigen Austausch zu kommen. Gerade wegen dieser Kleinteiligkeit und der sich ständig wiederholenden Aufgaben ergibt es Sinn, alle Marketingprozesse zu automatisieren, die sich automatisieren lassen. So sparen Sie Zeit, in der Sie sich auf Ihre kreative Arbeit konzentrieren können. Denn hier findet die tatsächliche Wertschöpfung des Marketings statt und diese Arbeit wird sich auch in Zukunft nur schwer automatisieren lassen.
@@ -16,7 +17,7 @@ Der folgende Artikel gibt sechs Beispiele der Marketingprozesse, die sich spiele
 
 Auch im Marketing hilft es, seinen Feind zu kennen und sich regelmäßig darüber zu informieren, mit welchen Nachrichten und Updates diese in den Medien auftauchen. Richten Sie hierzu einen [Google Alert](https://www.google.de/alerts) für alle relevanten Suchbegriffe ein. So können Sie Ihren eigenen Firmennamen, den Namen Ihres Konkurrenten oder auch spezielle Produkte überwachen. Die Nachrichten lassen sich auf einzelne Länder oder Regionen eingrenzen und so an Ihre Bedürfnisse anpassen.
 
-In den Einstellungen des Alerts wählen Sie bei _Senden an _die Option _RSS-Feed_. So erhalten Sie eine URL, mit der Sie mit Hilfe von Integromat zukünftig alle neuen Einträge in eine SeaTable Tabelle speichern können. Dort können Sie dann ganz bequem und übersichtlich die Nachrichten überwachen und strukturieren.__
+In den Einstellungen des Alerts wählen Sie bei _Senden an \_die Option \_RSS-Feed_. So erhalten Sie eine URL, mit der Sie mit Hilfe von Integromat zukünftig alle neuen Einträge in eine SeaTable Tabelle speichern können. Dort können Sie dann ganz bequem und übersichtlich die Nachrichten überwachen und strukturieren.\_\_
 
 ![So werden die Google News in SeaTable gespeichert.](https://seatable.io/wp-content/uploads/2021/09/google-news-seatable.png)
 

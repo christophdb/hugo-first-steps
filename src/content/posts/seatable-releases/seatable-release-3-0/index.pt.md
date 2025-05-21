@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.0: Validação de dados, editores web de escritório e novo backend de armazenamento - SeaTable"
+title: 'SeaTable 3.0: Validação de dados, editores web de escritório e novo backend de armazenamento - SeaTable'
 date: 2022-06-21
-lastmod: "2022-06-27"
-author: "rdb"
-url: "/pt/seatable-release-3-0"
+lastmod: '2022-06-27'
+author: 'rdb'
+url: '/pt/seatable-release-3-0'
+color: '#eeeeee'
 ---
 
 A SeaTable 3.0 está aqui! O terceiro grande lançamento do SeaTable oferece edição online de documentos do Office, validação automática de dados, mais funções para conjuntos de dados partilhados e uma nova componente de servidor para um armazenamento mais eficiente de bases. Como sempre, o [changelog](/pt/docs/changelog/version-3-0/) fornece informações sobre as muitas outras melhorias detalhadas e correcções de bugs na nova versão. As novas funções estão disponíveis imediatamente para os [utilizadores do SeaTable Cloud](https://cloud.seatable.io/). A imagem para SeaTable 3.0 foi disponibilizada hoje à noite em [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  
@@ -37,7 +38,7 @@ A edição online está disponível em todas as subscrições SeaTable Cloud, in
 
 A função Registos Partilhados permite sincronizar os dados de uma Base com uma ou mais Bases. São particularmente úteis se pretender disponibilizar os dados a outros utilizadores para processamento e enriquecimento posterior, mas não pode dar a esses utilizadores direitos de acesso à lista que gere ("lista principal"). A versão 3.0 inclui várias melhorias para simplificar a criação, a sincronização e a duplicação de registos partilhados.
 
-![Os conjuntos de dados comuns existentes são apresentados na caixa de diálogo &quot;Novo conjunto de dados comum&quot;.](https://seatable.io/wp-content/uploads/2022/06/ExistingCDS.png)
+![Os conjuntos de dados comuns existentes são apresentados na caixa de diálogo "Novo conjunto de dados comum".](https://seatable.io/wp-content/uploads/2022/06/ExistingCDS.png)
 
 A partir do SeaTable 3.0, os conjuntos de dados comuns já criados são apresentados na caixa de diálogo "Novo conjunto de dados comum". Isto evita a criação múltipla de conjuntos de dados comuns.
 

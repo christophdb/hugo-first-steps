@@ -1,9 +1,10 @@
 ---
-title: "Cómo desarrollar una estrategia de marketing de contenidos - SeaTable"
+title: 'Cómo desarrollar una estrategia de marketing de contenidos - SeaTable'
 date: 2021-02-28
-lastmod: "2023-06-26"
-author: "cdb"
-url: "/es/content-marketing-strategie"
+lastmod: '2023-06-26'
+author: 'cdb'
+url: '/es/content-marketing-strategie'
+color: '#eeeeee'
 ---
 
 El marketing de contenidos es un popular enfoque de marketing para colocar los propios productos entre los clientes y posibles interesados. La idea básica del marketing de contenidos es muy sencilla: creas contenidos para tu grupo objetivo, los publicas e inspiras a tus clientes.
@@ -44,7 +45,7 @@ Entonces, ¿qué es importante en una estrategia de marketing de contenidos? ¿Q
 
 Existen varias definiciones de marketing de contenidos, pero la descripción con las tres P es la que mejor lo resume. Son los tres términos en inglés: _Preparation_, _Production_ y _Publication_. A veces también se lee sobre _Produce_, _Publish_ y _Promote_. Al final, sin embargo, siempre se trata del desarrollo específico de contenidos relevantes para el cliente.
 
-**Preparation** incluye la planificación estratégica y la preparación de su propia estrategia de contenidos. Aquí debe definir el grupo objetivo o ficticio [Personas](https://en.wikipedia.org/wiki/Persona_\(user_experience\)) seleccionar, identificar los canales adecuados y los términos SEO y, a partir de ahí, desarrollar un plan para el contenido adecuado.
+**Preparation** incluye la planificación estratégica y la preparación de su propia estrategia de contenidos. Aquí debe definir el grupo objetivo o ficticio [Personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) seleccionar, identificar los canales adecuados y los términos SEO y, a partir de ahí, desarrollar un plan para el contenido adecuado.
 
 **Production** consiste en todos los pasos necesarios para dar vida al contenido y supervisar su creación. Para ello, se determina quién crea el contenido y en qué momento, cuáles deben ser las palabras clave y los titulares exactos, quién suministra la información y edita posteriormente el contenido, etc.
 

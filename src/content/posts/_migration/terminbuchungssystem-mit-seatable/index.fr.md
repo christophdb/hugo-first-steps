@@ -1,9 +1,10 @@
 ---
-title: "Comment gagner un temps précieux avec un système de réservation de rendez-vous de SeaTable - SeaTable"
+title: 'Comment gagner un temps précieux avec un système de réservation de rendez-vous de SeaTable - SeaTable'
 date: 2021-06-18
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/fr/terminbuchungssystem-mit-seatable"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/fr/terminbuchungssystem-mit-seatable'
+color: '#eeeeee'
 ---
 
 Combien de temps passez-vous à fixer des rendez-vous avec des clients et des partenaires commerciaux ? Soit le téléphone n'arrête pas de sonner et vous sort sans cesse de votre flux de travail, soit vous écrivez d'innombrables e-mails pour trouver enfin un dénominateur commun dans la fixation des rendez-vous. Pour vos clients aussi, les allers et retours incessants lors de la planification et du report des rendez-vous peuvent être agaçants. La solution : un système de prise de rendez-vous en ligne.

@@ -1,12 +1,13 @@
 ---
-title: "SeaTable 1.8 : plus de collaboration et un nouveau type de colonne - SeaTable"
+title: 'SeaTable 1.8 : plus de collaboration et un nouveau type de colonne - SeaTable'
 date: 2021-03-18
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/fr/seatable-release-1-8"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/fr/seatable-release-1-8'
+color: '#eeeeee'
 ---
 
-Aujourd'hui, nous avons mis à disposition SeaTable 1.8 sur [SeaTable Cloud](https://cloud.seatable.io) et nous sommes convaincus que vous serez d'accord avec nous : SeaTable 1.8 est génial ! Elle regorge de nouvelles fonctions et d'ajouts de fonctionnalités, ainsi que d'un grand nombre d'améliorations mineures. Comme par le passé, nous présentons les principales nouveautés dans la note de mise à jour. Cette fois-ci, il a été particulièrement difficile de nous concentrer sur les cinq points forts. Comme toujours, vous trouverez la liste complète des modifications dans le changelog. Nous téléchargerons l'image Docker sur Docker Hub dans les prochains jours.  
+Aujourd'hui, nous avons mis à disposition SeaTable 1.8 sur [SeaTable Cloud](https://cloud.seatable.io) et nous sommes convaincus que vous serez d'accord avec nous : SeaTable 1.8 est génial ! Elle regorge de nouvelles fonctions et d'ajouts de fonctionnalités, ainsi que d'un grand nombre d'améliorations mineures. Comme par le passé, nous présentons les principales nouveautés dans la note de mise à jour. Cette fois-ci, il a été particulièrement difficile de nous concentrer sur les cinq points forts. Comme toujours, vous trouverez la liste complète des modifications dans le changelog. Nous téléchargerons l'image Docker sur Docker Hub dans les prochains jours.
 
 ## Hauteur de ligne variable
 
@@ -72,4 +73,4 @@ Et bien sûr, nous avons aussi corrigé quelques bugs :
 - Les conditions de filtrage de la colonne de sélection simple ont été alignées sur celles de la colonne de sélection multiple.
 - Les cases à cocher et les colonnes à choix multiples peuvent désormais être triées.
 - La fonction de recherche inclut désormais les collaborateurs ainsi que les colonnes de sélection simple et multiple.
-- L'option FREEZE\_USER\_ON\_LOGIN\_FAILED, qui permet de bloquer les comptes d'utilisateurs après un certain nombre de tentatives de connexion non autorisées, fonctionne à nouveau. [Merci à l'utilisateur mtmail pour cette remarque.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)
+- L'option FREEZE_USER_ON_LOGIN_FAILED, qui permet de bloquer les comptes d'utilisateurs après un certain nombre de tentatives de connexion non autorisées, fonctionne à nouveau. [Merci à l'utilisateur mtmail pour cette remarque.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)

@@ -1,9 +1,10 @@
 ---
-title: "6 Alternativen zur Zeiterfassung in Excel - SeaTable"
+title: '6 Alternativen zur Zeiterfassung in Excel - SeaTable'
 date: 2022-03-04
-lastmod: "2023-04-27"
-author: "cdb"
-url: "/de/zeiterfassung-excel-alternativen"
+lastmod: '2023-04-27'
+author: 'cdb'
+url: '/de/zeiterfassung-excel-alternativen'
+color: '#eeeeee'
 ---
 
 Wie funktioniert die **Zeiterfassung in Excel** und welche Alternativen bieten sich Ihnen? Im Folgenden erfahren Sie, wie Sie die Zeiterfassung mit Excel oder einem alternativen Tool umsetzen. Lernen Sie außerdem die Vor- und Nachteile der verschiedenen Lösungen kennen. Welche passt zu Ihrem Unternehmen?

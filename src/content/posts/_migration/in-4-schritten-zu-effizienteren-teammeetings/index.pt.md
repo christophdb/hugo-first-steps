@@ -1,9 +1,10 @@
 ---
-title: "4 passos para reuniões de equipa mais eficientes - SeaTable"
+title: '4 passos para reuniões de equipa mais eficientes - SeaTable'
 date: 2021-10-21
-lastmod: "2024-08-09"
-author: "ott"
-url: "/pt/in-4-schritten-zu-effizienteren-teammeetings"
+lastmod: '2024-08-09'
+author: 'ott'
+url: '/pt/in-4-schritten-zu-effizienteren-teammeetings'
+color: '#eeeeee'
 ---
 
 As reuniões de equipa são uma parte essencial da vida profissional quotidiana. Os projectos têm de ser coordenados, os textos aprovados e as decisões tomadas. Sem uma comunicação regular, nada avança. É por isso que as reuniões estão frequentemente presentes na agenda dos trabalhadores: Passam [mais de 15 horas por mês](https://news.it-matchmaker.com/meetings-zeitverschwendung-statt-erfolgsfaktor/) em reuniões de todos os tipos - mas muitas vezes estas não são muito produtivas em termos de resultados. A falta de eficiência e, por conseguinte, o desperdício de tempo de trabalho valioso pode ser um enorme problema para as culturas de reunião.

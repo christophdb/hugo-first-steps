@@ -1,10 +1,11 @@
 ---
-title: "How to develop a content marketing strategy - SeaTable"
+title: 'How to develop a content marketing strategy - SeaTable'
 date: 2021-02-28
-lastmod: "2023-06-26"
-coverImage: "content-marketing-with-seatable.jpg"
-author: "cdb"
-url: "/content-marketing-strategie"
+lastmod: '2023-06-26'
+coverImage: 'content-marketing-with-seatable.jpg'
+author: 'cdb'
+url: '/content-marketing-strategie'
+color: '#eeeeee'
 ---
 
 Content marketing is a popular marketing approach to place one's own products with customers and potential prospects. The basic idea behind content marketing is very simple: you create content for your target group, publish it and inspire your customers.
@@ -45,7 +46,7 @@ So what is important in a content marketing strategy? What must a software solut
 
 There are various definitions of content marketing, but the description with the three P's sums it up best. These stand for the three English terms: _Preparation_, _Production_ and _Publication_. Partly one reads also from _Produce_, _Publish_ and _Promote_. In the end, however, it is always about the targeted development of customer-relevant content.
 
-**Preparation** includes the strategic planning and preparation of your own content strategy. Here you should consider the target group or fictitious [Personas](https://en.wikipedia.org/wiki/Persona_\(user_experience\)) select, identify the right channels and SEO terms, and from that develop a plan for the right content.
+**Preparation** includes the strategic planning and preparation of your own content strategy. Here you should consider the target group or fictitious [Personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) select, identify the right channels and SEO terms, and from that develop a plan for the right content.
 
 **Production** consists of all the necessary steps to bring the content to life and monitor its creation. For this purpose, you define who will create the content and by when, what the exact keywords and headlines should be, who will supply the information and later edit the content, etc.
 
@@ -147,7 +148,7 @@ This way, no one has to ask for an update via email or Slack. You simply add the
 
 As an author or editor, you may want to see scheduled publication dates in a calendar view. There, you can conveniently drag and drop articles to rearrange deadlines and ensure consistently good content is published.
 
-![Editorial planning via drag &amp; drop in SeaTable](images/redaktionsplanung-seatable-kalender.png)
+![Editorial planning via drag & drop in SeaTable](images/redaktionsplanung-seatable-kalender.png)
 
 Editorial planning via drag & drop in SeaTable
 

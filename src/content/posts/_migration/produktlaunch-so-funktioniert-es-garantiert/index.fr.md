@@ -1,9 +1,10 @@
 ---
-title: "Lancement de produit - fonctionnement garanti | SeaTable"
+title: 'Lancement de produit - fonctionnement garanti | SeaTable'
 date: 2020-09-24
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/fr/produktlaunch-so-funktioniert-es-garantiert"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/fr/produktlaunch-so-funktioniert-es-garantiert'
+color: '#eeeeee'
 ---
 
 Une fois le processus de développement du produit terminé avec succès, plus rien ne s'oppose au lancement du produit.

@@ -1,10 +1,11 @@
 ---
-title: "Create a bucket list: Ideas, inspiration & free template"
+title: 'Create a bucket list: Ideas, inspiration & free template'
 date: 2024-02-19
-lastmod: "2024-02-19"
-coverImage: "aurora-1185464_1280.jpg"
-author: "nsc"
-url: "/bucket-list"
+lastmod: '2024-02-19'
+coverImage: 'aurora-1185464_1280.jpg'
+author: 'nsc'
+url: '/bucket-list'
+color: '#eeeeee'
 ---
 
 Have you always wanted to try a parachute jump from an airplane? Have you dreamed of diving on the Great Barrier Reef in Australia since you were a child? Or would you like to spend a night in an igloo in Norway? Then put these destinations on your bucket list!

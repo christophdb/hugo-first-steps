@@ -1,9 +1,10 @@
 ---
-title: "Créer un sondage : comparaison de 7 outils populaires"
+title: 'Créer un sondage : comparaison de 7 outils populaires'
 date: 2024-02-21
-lastmod: "2024-03-05"
-author: "nsc"
-url: "/fr/umfrage-erstellen"
+lastmod: '2024-03-05'
+author: 'nsc'
+url: '/fr/umfrage-erstellen'
+color: '#eeeeee'
 ---
 
 Vous voulez savoir quels sont les besoins de votre groupe cible ou comment optimiser davantage votre produit ? Ou souhaitez-vous créer un sondage pour évaluer la satisfaction de vos collaborateurs ? **Les enquêtes en ligne** s'avèrent être un outil extrêmement efficace pour collecter des données. Leurs nombreux avantages en font une méthode de choix pour les entreprises, les organisations et les chercheurs du monde entier.

@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.5: формулы в первом столбце, новые действия автоматизации и всевозможные плюсы - SeaTable"
+title: 'SeaTable 3.5: формулы в первом столбце, новые действия автоматизации и всевозможные плюсы - SeaTable'
 date: 2023-04-12
-lastmod: "2023-09-04"
-author: "kgr"
-url: "/ru/seatable-release-3-5"
+lastmod: '2023-09-04'
+author: 'kgr'
+url: '/ru/seatable-release-3-5'
+color: '#eeeeee'
 ---
 
 Апрель делает то, что хочет - но SeaTable делает то, что хотите вы! Версия 3.5 исполняет некоторые давние пожелания наших пользователей: первый столбец теперь также поддерживает [формулы](/ru/docs/formeln/grundlagen-von-seatable-formeln/), а с помощью [автоматизации](/ru/docs/automationen/uebersicht-ueber-automationen/) вы можете периодически выполнять два дополнительных действия. Вы получаете больше гибкости для более сложных случаев использования благодаря условному выполнению [действий кнопок](/ru/docs/andere-spalten/die-schaltflaeche/) и условному [поиску](/ru/docs/verknuepfungen/die-lookup-funktion/). Далее мы подробно расскажем об этих улучшениях.

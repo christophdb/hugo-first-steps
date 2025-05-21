@@ -1,9 +1,10 @@
 ---
-title: "Tools zur Arbeitszeiterfassung: Excel vs. SeaTable - SeaTable"
+title: 'Tools zur Arbeitszeiterfassung: Excel vs. SeaTable - SeaTable'
 date: 2021-07-22
-lastmod: "2023-05-02"
-author: "ott"
-url: "/de/arbeitszeiterfassung-excel"
+lastmod: '2023-05-02'
+author: 'ott'
+url: '/de/arbeitszeiterfassung-excel'
+color: '#eeeeee'
 ---
 
 Kennen Sie schon die [rechtlichen Vorgaben](https://seatable.io/zeiterfassung-mitarbeiter/) zur elektronischen Arbeitszeiterfassung? Wenn ja, dann suchen Sie vermutlich gerade nach der besten Software-Lösung für Ihren Bedarf. Optionen gibt es wie Sand am Meer, aber Software-Lizenzen für jeden Mitarbeiter können schnell ins Geld gehen – sei es mit einer Spezialsoftware wie Personio oder Clockodo oder einer Tabellenkalkulation wie Microsoft Excel. In zahlreichen Unternehmen, die ohnehin das Office-Paket von Microsoft nutzen, wird für die Arbeitszeiterfassung Excel eingesetzt, obwohl dies einige Nachteile mit sich bringt. In diesem Artikel erfahren Sie daher, welche kostengünstige Alternative es gibt und wie diese im Vergleich zu Excel abschneidet.

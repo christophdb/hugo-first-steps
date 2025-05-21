@@ -1,10 +1,11 @@
 ---
-title: "Managing the collection with digital tools"
+title: 'Managing the collection with digital tools'
 date: 2022-07-01
-lastmod: "2024-03-21"
-coverImage: "Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg"
-author: "cdb"
-url: "/sammlung-verwalten"
+lastmod: '2024-03-21'
+coverImage: 'Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg'
+author: 'cdb'
+url: '/sammlung-verwalten'
+color: '#eeeeee'
 ---
 
 Your **collections** can be ideally **managed** via digital programs and apps. It doesn't matter whether the collection consists of physical items or digital media. The most popular collectibles include coins, stamps, shoes, artwork, toys, trading cards, non-fungible tokens (NFTs), [books](https://seatable.io/en/buecher-katalogisieren/), movies, music (on CD, records) and more. When a collector's passion takes hold, the biggest challenge is often keeping track of everything. This is where the programs that allow you to manage your collection come into play - on your PC or with an app.

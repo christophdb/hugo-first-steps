@@ -1,9 +1,10 @@
 ---
-title: "Bases de données - 5 avantages par rapport aux tableaux simples"
+title: 'Bases de données - 5 avantages par rapport aux tableaux simples'
 date: 2021-03-30
-lastmod: "2024-03-22"
-author: "cdb"
-url: "/fr/vorteile-von-datenbanken"
+lastmod: '2024-03-22'
+author: 'cdb'
+url: '/fr/vorteile-von-datenbanken'
+color: '#eeeeee'
 ---
 
 La plupart des gens sont confrontés chaque jour à des données qui doivent être gérées efficacement. Le propriétaire d'un supermarché doit garder une vue d'ensemble sur le stock de marchandises, un directeur de rédaction doit avoir toutes les publications à l'œil et un coiffeur doit gérer les rendez-vous de ses clients. Dans presque toutes les professions, les données jouent un rôle. Le mieux est de gérer de grandes quantités d'informations dans des **bases de données**. Mais qu'est-ce qu'une base de données, quels sont les avantages des bases de données et pourquoi un simple tableau ne suffit-il pas dans la plupart des cas ?

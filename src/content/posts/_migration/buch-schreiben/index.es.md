@@ -1,9 +1,10 @@
 ---
-title: "Escritura de libros: 7 herramientas de software de autoría de un vistazo"
+title: 'Escritura de libros: 7 herramientas de software de autoría de un vistazo'
 date: 2024-03-20
-lastmod: "2024-03-20"
-author: "nsc"
-url: "/es/buch-schreiben"
+lastmod: '2024-03-20'
+author: 'nsc'
+url: '/es/buch-schreiben'
+color: '#eeeeee'
 ---
 
 Escribir un libro es un proceso fascinante pero también desafiante para muchas personas. Desde la idea inicial hasta el **manuscrito** terminado, hay numerosos obstáculos que superar y pasos que dar. En una época en la que las herramientas digitales y las soluciones informáticas desempeñan un papel cada vez más importante en el **proceso creativo**, es crucial que los autores encuentren el software adecuado para dar vida a sus visiones. En este artículo analizamos **7 herramientas** que puedes utilizar para escribir tu libro.

@@ -1,9 +1,10 @@
 ---
-title: "Planificar una fiesta de cumpleaños: 3 pasos para una fiesta perfecta"
+title: 'Planificar una fiesta de cumpleaños: 3 pasos para una fiesta perfecta'
 date: 2023-07-26
-lastmod: "2024-01-11"
-author: "nsc2"
-url: "/es/eine-geburtstagsfeier-planen"
+lastmod: '2024-01-11'
+author: 'nsc2'
+url: '/es/eine-geburtstagsfeier-planen'
+color: '#eeeeee'
 ---
 
 ¿Celebra pronto su cumpleaños o quiere organizar una fiesta de cumpleaños para sus seres queridos? Una planificación detallada es esencial para garantizar que su fiesta sea única y sus invitados la recuerden durante mucho tiempo. Desde la elección de un lugar de ensueño hasta el catering y la música, la organización anticipada de todos los aspectos importantes de tu fiesta crea las condiciones perfectas para que la celebración sea un éxito. Ya sea un cumpleaños redondo, una fiesta temática o una fiesta de cumpleaños infantil: con nuestra ayuda, podrá organizar y realizar cualquier fiesta.

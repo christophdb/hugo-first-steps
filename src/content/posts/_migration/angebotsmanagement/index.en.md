@@ -1,10 +1,11 @@
 ---
-title: "Good offer management for better sales performance"
+title: 'Good offer management for better sales performance'
 date: 2022-07-22
-lastmod: "2022-07-27"
-coverImage: "Angebotsmanagement_AdobeStock_62533714.jpg"
-author: "rdb"
-url: "/angebotsmanagement"
+lastmod: '2022-07-27'
+coverImage: 'Angebotsmanagement_AdobeStock_62533714.jpg'
+author: 'rdb'
+url: '/angebotsmanagement'
+color: '#eeeeee'
 ---
 
 One thing is crucial for successful sales work: **offer management**. But what is important here? What mistakes should not be made under any circumstances? And what is behind the term "offer management" anyway?

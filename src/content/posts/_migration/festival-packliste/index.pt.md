@@ -1,9 +1,10 @@
 ---
-title: "Lista de bagagem para o festival: Artigos indispensáveis para uma experiência inesquecível"
+title: 'Lista de bagagem para o festival: Artigos indispensáveis para uma experiência inesquecível'
 date: 2024-03-13
-lastmod: "2024-07-26"
-author: "nsc"
-url: "/pt/festival-packliste"
+lastmod: '2024-07-26'
+author: 'nsc'
+url: '/pt/festival-packliste'
+color: '#eeeeee'
 ---
 
 Quando a época dos festivais começa e a expetativa de boa música e de experiências partilhadas com amigos aumenta, é altura de voltar a fazer as malas. Para garantir que a sua visita ao festival corre bem e não é ensombrada por problemas e aborrecimentos, é crucial **uma preparação minuciosa**.

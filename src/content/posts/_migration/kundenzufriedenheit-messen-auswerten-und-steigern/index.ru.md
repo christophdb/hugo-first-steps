@@ -1,9 +1,10 @@
 ---
-title: "Измерение, оценка и повышение удовлетворенности клиентов - SeaTable"
+title: 'Измерение, оценка и повышение удовлетворенности клиентов - SeaTable'
 date: 2021-03-05
-lastmod: "2023-06-28"
-author: "cdb"
-url: "/ru/kundenzufriedenheit-messen-auswerten-und-steigern"
+lastmod: '2023-06-28'
+author: 'cdb'
+url: '/ru/kundenzufriedenheit-messen-auswerten-und-steigern'
+color: '#eeeeee'
 ---
 
 Если клиент доволен, он будет покупать у вас снова и, возможно, даже порекомендует вашу компанию другим. Если ваш продукт не решает проблему клиента так, как ожидалось, вы потеряли клиента и, в худшем случае, получите плохие отзывы. Отсутствие удовлетворенности клиентов может отпугнуть других потенциальных новых клиентов и привести к потере продаж.
@@ -36,7 +37,7 @@ url: "/ru/kundenzufriedenheit-messen-auswerten-und-steigern"
 
 ### Расчет NPS (Net Promoter Score)
 
-Последующий расчет Net-Promoter-Scores проста. Сначала отвечающие клиенты делятся на две категории:. _Promoter_иногда называемые вентиляторами, и _Detractors, häufig auch als Kritiker bezeichnet. Dabei sind Promoter diejenigen, die mit 10 oder 9 geantwortet haben, und die Kritiker jene, die 0 bis 6 angegeben haben. Personen mit einer 7 oder 8 werden als Passive bezeichnet._
+Последующий расчет Net-Promoter-Scores проста. Сначала отвечающие клиенты делятся на две категории:. *Promoter*иногда называемые вентиляторами, и _Detractors, häufig auch als Kritiker bezeichnet. Dabei sind Promoter diejenigen, die mit 10 oder 9 geantwortet haben, und die Kritiker jene, die 0 bis 6 angegeben haben. Personen mit einer 7 oder 8 werden als Passive bezeichnet._
 
 Теперь возьмите процент промоутеров и вычтите процент недоброжелателей. Результат - ваш NPS в виде значения от -100 до 100. Положительное значение NPS показывает, что у вас больше довольных клиентов, чем недовольных. Конечно, что такое хороший показатель NPS для вашего бизнеса, зависит от вашей отрасли, но обычно показатель NPS 30 или выше считается очень хорошим.
 

@@ -1,9 +1,10 @@
 ---
-title: "Festival Packliste: Must-haves für ein unvergessliches Erlebnis"
+title: 'Festival Packliste: Must-haves für ein unvergessliches Erlebnis'
 date: 2024-03-13
-lastmod: "2024-07-26"
-author: "nsc"
-url: "/de/festival-packliste"
+lastmod: '2024-07-26'
+author: 'nsc'
+url: '/de/festival-packliste'
+color: '#eeeeee'
 ---
 
 Wenn die Festivalsaison beginnt und die Vorfreude auf gute Musik und gemeinsame Erlebnisse mit Freunden steigt, ist es wieder an der Zeit, das Gepäck zu schnüren. Damit Ihr Festivalbesuch reibungslos verläuft und nicht von Problemen und Ärgernissen überschattet wird, ist eine **gründliche Vorbereitung** entscheidend.

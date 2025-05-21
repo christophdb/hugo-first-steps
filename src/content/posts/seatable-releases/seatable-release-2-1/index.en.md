@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 2.1: table permissions and data processing - SeaTable"
+title: 'SeaTable 2.1: table permissions and data processing - SeaTable'
 date: 2021-07-06
-lastmod: "2023-07-11"
-coverImage: "SeaTable-Release-2.1.jpg"
-author: "rdb"
-url: "/seatable-release-2-1"
+lastmod: '2023-07-11'
+coverImage: 'SeaTable-Release-2.1.jpg'
+author: 'rdb'
+url: '/seatable-release-2-1'
+color: '#eeeeee'
 ---
 
 Today, 6 July 2021, we updated [SeaTable Cloud](https://cloud.seatable.io) to SeaTable 2.1 and uploaded the new Docker image to Docker Hub. The highlights of the release are the new table permissions and a new feature called Data Processing. In addition, we have improved the single and multiple selection column types and the checkbox column. In these release notes we present - as always - the key developments and refer to the [SeaTable Changelog](https://seatable.io/en/docs/changelog/version-2-1/) for the full list of changes.

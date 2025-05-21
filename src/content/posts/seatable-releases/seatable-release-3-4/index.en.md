@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 3.4: Dynamic page design, additional search functions and improved web forms"
+title: 'SeaTable 3.4: Dynamic page design, additional search functions and improved web forms'
 date: 2023-03-01
-lastmod: "2023-03-01"
-coverImage: "SeaTable-3.4-Feature_1088x500.jpg"
-author: "rdb"
-url: "/seatable-release-3-4"
+lastmod: '2023-03-01'
+coverImage: 'SeaTable-3.4-Feature_1088x500.jpg'
+author: 'rdb'
+url: '/seatable-release-3-4'
+color: '#eeeeee'
 ---
 
 Spring awakening at SeaTable! While the first blossoms are sprouting outside, we are coming out of the winter break with SeaTable 3.4. Warm up for an improved user experience and even more design freedom! The page design plugin now unfolds its full potential, just like the editor for web forms - with enhanced functions for dynamic positioning of elements and other useful options. Discover the new search function when filtering, sorting and grouping in the view settings as well as when creating options in selection columns. Notable new features include the Data Query app, which now allows refined searching across multiple fields. The rows context menu has also been given more options and the entries in the rows log have a new look.

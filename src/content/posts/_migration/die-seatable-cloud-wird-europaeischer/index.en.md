@@ -1,10 +1,11 @@
 ---
-title: "AWS: SeaTable Cloud separates from Amazon and becomes more European - SeaTable"
+title: 'AWS: SeaTable Cloud separates from Amazon and becomes more European - SeaTable'
 date: 2021-05-20
-lastmod: "2023-07-11"
-coverImage: "seatable-europa-aws-exoscale-migraton.jpg"
-author: "cdb"
-url: "/die-seatable-cloud-wird-europaeischer"
+lastmod: '2023-07-11'
+coverImage: 'seatable-europa-aws-exoscale-migraton.jpg'
+author: 'cdb'
+url: '/die-seatable-cloud-wird-europaeischer'
+color: '#eeeeee'
 ---
 
 With SeaTable you manage and organise projects, customers, assets, ideas and work results of all kinds. You thus entrust SeaTable with the central and most important data of your company or your team. The fact that we are the only provider of online spreadsheet solutions to offer our customers the option of operating their own personal [SeaTable server](/en/enterprise-on-premise/) shows that the protection of your data is very important to us. Only in this way do you retain full control and absolute data sovereignty. But we also set the highest standards for the security of your data with our cloud customers.

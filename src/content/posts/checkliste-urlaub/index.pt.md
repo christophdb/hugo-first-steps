@@ -1,9 +1,10 @@
 ---
-title: "Lista de verificação para as férias: tudo sob controlo para uma viagem perfeita | SeaTable"
+title: 'Lista de verificação para as férias: tudo sob controlo para uma viagem perfeita | SeaTable'
 date: 2024-07-17
-lastmod: "2024-07-17"
-author: "nsc"
-url: "/pt/checkliste-urlaub"
+lastmod: '2024-07-17'
+author: 'nsc'
+url: '/pt/checkliste-urlaub'
+color: '#eeeeee'
 ---
 
 As férias de verão estão mesmo ao virar da esquina e, para muitos veraneantes, isso significa que está na altura de fazer as **malas**! Mas qual é exatamente a altura certa para fazer a mala? É daquelas pessoas que juntam rapidamente tudo na noite anterior à partida e metem tudo no melhor saco de viagem que há? Ou prefere planear com semanas de antecedência o que vai fazer parte da sua **lista de férias**?

@@ -1,9 +1,10 @@
 ---
-title: "Medir, evaluar y aumentar la satisfacción del cliente - SeaTable"
+title: 'Medir, evaluar y aumentar la satisfacción del cliente - SeaTable'
 date: 2021-03-05
-lastmod: "2023-06-28"
-author: "cdb"
-url: "/es/kundenzufriedenheit-messen-auswerten-und-steigern"
+lastmod: '2023-06-28'
+author: 'cdb'
+url: '/es/kundenzufriedenheit-messen-auswerten-und-steigern'
+color: '#eeeeee'
 ---
 
 Si un cliente está satisfecho, volverá a comprarle y probablemente incluso recomendará su empresa a otras personas. Si su producto no resuelve el problema del cliente como se esperaba, habrá perdido un cliente y, en el peor de los casos, recibirá malas críticas. La falta de satisfacción de los clientes podría, a su vez, ahuyentar a otros posibles nuevos clientes y provocar la pérdida de ventas.
@@ -36,7 +37,7 @@ Un cuestionario NPS creado con SeaTable. Pruebe nuestra [plantilla N](https://se
 
 ### Cálculo del NPS (Net Promoter Score)
 
-El cálculo posterior de la Net-Promoter-Scores es sencillo. Los clientes que responden se dividen primero en dos categorías: los _Promoter_a veces llamados abanicos, y el _Detractors, häufig auch als Kritiker bezeichnet. Dabei sind Promoter diejenigen, die mit 10 oder 9 geantwortet haben, und die Kritiker jene, die 0 bis 6 angegeben haben. Personen mit einer 7 oder 8 werden als Passive bezeichnet._
+El cálculo posterior de la Net-Promoter-Scores es sencillo. Los clientes que responden se dividen primero en dos categorías: los _Promoter_a veces llamados abanicos, y el \_Detractors, häufig auch als Kritiker bezeichnet. Dabei sind Promoter diejenigen, die mit 10 oder 9 geantwortet haben, und die Kritiker jene, die 0 bis 6 angegeben haben. Personen mit einer 7 oder 8 werden als Passive bezeichnet._
 
 Ahora tome el porcentaje de promotores y réstele el porcentaje de detractores. El resultado es su NPS como un valor entre -100 y 100. Un valor positivo de NPS muestra que tiene más clientes satisfechos que insatisfechos. Por supuesto, lo que es una buena puntuación de NPS para su empresa depende de su sector, pero normalmente una puntuación de NPS de 30 o superior se considera muy buena.
 

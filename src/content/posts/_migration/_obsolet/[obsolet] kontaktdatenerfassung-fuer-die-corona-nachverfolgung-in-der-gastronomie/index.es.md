@@ -1,9 +1,10 @@
 ---
-title: "Captura de datos de contacto para el seguimiento de la corona en el sector de la restauración"
+title: 'Captura de datos de contacto para el seguimiento de la corona en el sector de la restauración'
 date: 2020-10-02
-lastmod: "2022-06-14"
-author: "pbr"
-url: "/es/kontaktdatenerfassung-fuer-die-corona-nachverfolgung-in-der-gastronomie"
+lastmod: '2022-06-14'
+author: 'pbr'
+url: '/es/kontaktdatenerfassung-fuer-die-corona-nachverfolgung-in-der-gastronomie'
+color: '#eeeeee'
 ---
 
 La recogida de datos de contacto en el sector de la hostelería para el seguimiento de las cadenas de infección de Covid19 es un componente clave del paquete de medidas para contener la propagación del nuevo virus Corona. Nuestra plantilla de registro de invitados ofrece una solución sencilla y digital para acabar con el tedioso papeleo que supone la recopilación de datos de contacto de Corona: En lugar de papel, el huésped introduce sus datos de contacto en un formulario web en su smartphone. Para abrir el formulario web, su invitado sólo tiene que escanear un código QR con la cámara de su teléfono móvil. La información de contacto se almacena en un centro de datos alemán y puede seguir la entrada de la información de contacto en tiempo real a través de su cuenta de cliente de SeaTable. Comience [ahora](https://seatable.io/es/registrierung/) de forma gratuita con la solución todo en uno para la captura de datos de contacto en restaurantes, bares y cafeterías.

@@ -1,9 +1,10 @@
 ---
-title: "Propiedad: 4 plantillas útiles para inquilinos y propietarios"
+title: 'Propiedad: 4 plantillas útiles para inquilinos y propietarios'
 date: 2022-04-17
-lastmod: "2023-11-06"
-author: "cdb"
-url: "/es/immobilien-vorlagen"
+lastmod: '2023-11-06'
+author: 'cdb'
+url: '/es/immobilien-vorlagen'
+color: '#eeeeee'
 ---
 
 Nos ocupamos de su organización, tanto si desea gestionar claramente sus propiedades como si busca piso o ya está planeando su próxima mudanza.

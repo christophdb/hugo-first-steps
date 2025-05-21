@@ -1,9 +1,10 @@
 ---
 title: "Comment optimiser la gestion de votre chaîne d'approvisionnement avec SeaTable - SeaTable"
 date: 2021-10-07
-lastmod: "2023-07-11"
-author: "pbr"
-url: "/fr/supply-chain-management"
+lastmod: '2023-07-11'
+author: 'pbr'
+url: '/fr/supply-chain-management'
+color: '#eeeeee'
 ---
 
 L'imbrication de plusieurs processus tout au long de la chaîne de création de valeur d'un produit est très complexe : de l'approvisionnement au client final en passant par le stockage. Les processus et les procédures doivent toujours être planifiés, respectés et optimisés de manière efficace afin que le client final reçoive le produit souhaité au bon moment, c'est-à-dire quand il le souhaite. Avec SeaTable, vous avez la possibilité d'optimiser la gestion de votre chaîne d'approvisionnement et de rester maître de l'ensemble de la chaîne de valeur.

@@ -1,10 +1,11 @@
 ---
-title: "6 alternatives to time tracking in Excel - SeaTable"
+title: '6 alternatives to time tracking in Excel - SeaTable'
 date: 2022-03-04
-lastmod: "2023-04-27"
-coverImage: "Arbeitszeiterfassung_Excel_AdobeStock_407122649_bearbeitet.jpg"
-author: "cdb"
-url: "/zeiterfassung-excel-alternativen"
+lastmod: '2023-04-27'
+coverImage: 'Arbeitszeiterfassung_Excel_AdobeStock_407122649_bearbeitet.jpg'
+author: 'cdb'
+url: '/zeiterfassung-excel-alternativen'
+color: '#eeeeee'
 ---
 
 How does time tracking work **in Excel** and what alternatives are available to you? In the following, you will learn how to implement time tracking with Excel or an alternative tool. Also learn about the advantages and disadvantages of the different solutions. Which one suits your company?

@@ -1,9 +1,10 @@
 ---
-title: "How to: Wie Sie einen Maßnahmenplan für das ganze Jahr erstellen - SeaTable"
+title: 'How to: Wie Sie einen Maßnahmenplan für das ganze Jahr erstellen - SeaTable'
 date: 2021-05-04
-lastmod: "2023-07-11"
-author: "ott"
-url: "/de/how-to-massnahmenplan-fuer-das-ganze-jahr"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/de/how-to-massnahmenplan-fuer-das-ganze-jahr'
+color: '#eeeeee'
 ---
 
 Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue Ziele und arbeiten mit allen Ressourcen auf diese hin. Dabei ist der Maßnahmenplan eine bewährte Methode, um diese Ziele zu erreichen – etwa im [Projektmanagement](/projekt-management/), im Bereich Finanzen & Controlling sowie im [Marketing](/marketing/).

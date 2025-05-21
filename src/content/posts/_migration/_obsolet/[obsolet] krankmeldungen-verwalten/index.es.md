@@ -1,9 +1,10 @@
 ---
-title: "Cómo hacer un seguimiento de las bajas por enfermedad de su equipo - SeaTable"
+title: 'Cómo hacer un seguimiento de las bajas por enfermedad de su equipo - SeaTable'
 date: 2021-10-21
-lastmod: "2023-07-11"
-author: "ott"
-url: "/es/krankmeldungen-verwalten"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/es/krankmeldungen-verwalten'
+color: '#eeeeee'
 ---
 
 En las empresas ocurre una y otra vez que los empleados tienen que llamar a la puerta para decir que están enfermos, y eso no desaparece. Especialmente en tiempos de epidemia de gripe, la escasez de personal se produce rápidamente cuando se enferman muchos al mismo tiempo. Afortunadamente, esta situación ha mejorado mucho gracias a las estrictas medidas de higiene, ya que ahora es mucho más probable que los empleados con síntomas de enfermedad se queden en casa y protejan así a sus compañeros.

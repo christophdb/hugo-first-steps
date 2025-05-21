@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.0: Tres nuevos tipos de columnas, nuevos y mejorados plugins y el ruso como idioma de usuario - SeaTable"
+title: 'SeaTable 2.0: Tres nuevos tipos de columnas, nuevos y mejorados plugins y el ruso como idioma de usuario - SeaTable'
 date: 2021-05-27
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/es/seatable-release-2-0"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/es/seatable-release-2-0'
+color: '#eeeeee'
 ---
 
 La versión 1.0 de SeaTable vio la luz el 1 de julio de 2020. Desde entonces se ha descargado más de 100.000 veces desde Docker Hub. Este abrumador interés en SeaTable nos ha impulsado y por eso ahora estamos felices y orgullosos de anunciar otro hito en el desarrollo de SeaTable: SeaTable 2.0 se ha subido hoy a [SeaTable Cloud](https://cloud.seatable.io) y se ha publicado en [Docker](https://hub.docker.com/u/seatable) Hub para instalaciones privadas.
@@ -30,7 +31,7 @@ En principio, SeaTable no restringe el tipo de relación entre tablas. Sin embar
 
 Con SeaTable 2.0, las columnas de enlace ofrecen ahora la opción de configuración "Permitir enlace a múltiples filas". Activada por defecto, la desactivación del interruptor hace que una entrada de la tabla actual sólo pueda enlazar con una única entrada de la tabla enlazada. Para los dos ejemplos anteriores, esto significa: SeaTable garantiza que no haya que buscar el proyector con varias personas o en varias salas y evita que la máquina de pruebas no esté programada para dos pruebas simultáneas.
 
-Además de la opción de configuración para limitar el _número de entradas_ vinculadas, una segunda opción de configuración nueva permite limitar el _tipo de entradas que pueden vincul_arse. Activando el botón "Restringir enlaces a una vista" y seleccionando una vista, sólo se podrán enlazar las entradas de la tabla enlazada que formen parte de la vista seleccionada. Si una entrada se elimina de una vista mediante un filtro, no estará disponible para la vinculación. Cuando se trata de evitar la vinculación entre determinadas entradas, esta nueva opción es crucial. Tomando de nuevo el ejemplo de la máquina de pruebas, si ésta se somete a un mantenimiento anual, el indicador correspondiente de la tabla hará que desaparezca de la vista de equipos de pruebas disponibles. En consecuencia, no podrá vincularse para su uso en la planificación de pruebas.
+Además de la opción de configuración para limitar el _número de entradas_ vinculadas, una segunda opción de configuración nueva permite limitar el \_tipo de entradas que pueden vincul_arse. Activando el botón "Restringir enlaces a una vista" y seleccionando una vista, sólo se podrán enlazar las entradas de la tabla enlazada que formen parte de la vista seleccionada. Si una entrada se elimina de una vista mediante un filtro, no estará disponible para la vinculación. Cuando se trata de evitar la vinculación entre determinadas entradas, esta nueva opción es crucial. Tomando de nuevo el ejemplo de la máquina de pruebas, si ésta se somete a un mantenimiento anual, el indicador correspondiente de la tabla hará que desaparezca de la vista de equipos de pruebas disponibles. En consecuencia, no podrá vincularse para su uso en la planificación de pruebas.
 
 ## Tipo de columna #23: Clasificación
 
@@ -48,7 +49,7 @@ La columna de calificaciones es sólo una de las varias innovaciones que hacen q
 
 Menos llamativa, pero más importante en la aplicación, es la función añadida en SeaTable 2.0 para utilizar columnas de enlace en los formularios. Este tipo de columna ofrece mucha más flexibilidad que las columnas de selección simple y, por tanto, permite realizar encuestas más detalladas.
 
-Completamente invisible en el editor, pero tanto más potente en la aplicación, es la función de valor por defecto para los campos de formulario. Para rellenar previamente un campo de formulario con un valor por defecto, añada '?prefill\_COLUMNNAME=PREFILLVALUE' a la URL del formulario. (COLUMNAME es el nombre de la columna cuyo campo debe rellenarse previamente; PREFILLVALUE es el valor que debe insertarse. Los espacios en los nombres de columna deben escribirse como "%20" y distinguen entre mayúsculas y minúsculas). Por supuesto, también se pueden proporcionar valores predeterminados a varios campos del formulario. Para ello, se conectan varios pares COLUMNNAME-PREFILLVALUE con el signo ampersand ("&").
+Completamente invisible en el editor, pero tanto más potente en la aplicación, es la función de valor por defecto para los campos de formulario. Para rellenar previamente un campo de formulario con un valor por defecto, añada '?prefill_COLUMNNAME=PREFILLVALUE' a la URL del formulario. (COLUMNAME es el nombre de la columna cuyo campo debe rellenarse previamente; PREFILLVALUE es el valor que debe insertarse. Los espacios en los nombres de columna deben escribirse como "%20" y distinguen entre mayúsculas y minúsculas). Por supuesto, también se pueden proporcionar valores predeterminados a varios campos del formulario. Para ello, se conectan varios pares COLUMNNAME-PREFILLVALUE con el signo ampersand ("&").
 
 ## Tipo de columna #24: Geoposición
 

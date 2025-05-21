@@ -1,10 +1,11 @@
 ---
-title: "How to develop a frontend for your own SeaTable app with PHP - SeaTable"
+title: 'How to develop a frontend for your own SeaTable app with PHP - SeaTable'
 date: 2022-09-27
-lastmod: "2022-09-27"
-coverImage: "develop-own-frontend-seatable-app.jpg"
-author: "cdb"
-url: "/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln"
+lastmod: '2022-09-27'
+coverImage: 'develop-own-frontend-seatable-app.jpg'
+author: 'cdb'
+url: '/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+color: '#eeeeee'
 ---
 
 SeaTable is an incredibly powerful low-code platform that allows you to develop your own business processes in no time. In one of my first YouTube tutorials, I already showed how you can develop your own **Customer Feeback Tool** in less than an hour using only Seatable's features and on-boarding tools. If you don't know what I'm talking about, I recommend watching this [YouTube video](https://www.youtube.com/watch?v=HqtyeRL2qiY) first.
@@ -597,7 +598,7 @@ $app->get('/r/{Title}', function (Request $request, Response $response, $args) {
     // get comments
     $sql = "select * from Comments WHERE `Feature Request` = '". $items->results[0]->Title ."' ORDER BY `Creation` DESC";
     $comments = $conn->querySql($sql, true);
-    
+
     $view = Twig::fromRequest($request);
     return $view->render($response, 'details.html', ['items' => $items->results, 'comments' => $comments->results]);
 });

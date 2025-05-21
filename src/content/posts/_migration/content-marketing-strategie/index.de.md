@@ -1,9 +1,10 @@
 ---
-title: "Wie Sie eine Content Marketing Strategie entwickeln - SeaTable"
+title: 'Wie Sie eine Content Marketing Strategie entwickeln - SeaTable'
 date: 2021-02-28
-lastmod: "2023-06-26"
-author: "cdb"
-url: "/de/content-marketing-strategie"
+lastmod: '2023-06-26'
+author: 'cdb'
+url: '/de/content-marketing-strategie'
+color: '#eeeeee'
 ---
 
 Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren. Der grundsätzliche Gedanke hinter Content Marketing ist dabei denkbar einfach: Man erstellt Inhalte für seine Zielgruppe, publiziert diese und begeistert seine Kunden.
@@ -44,7 +45,7 @@ Worauf kommt es also bei einer Content Marketing Strategie an? Was muss eine Sof
 
 Es gibt verschiedene Definitionen von Content Marketing, aber die Beschreibung mit den drei P’s trifft es am besten. Diese stehen für die drei englischen Begriffe: _Preparation_, _Production_ und _Publication_. Teilweise liest man auch von _Produce_, _Publish_ und _Promote_. Am Ende geht es aber immer um die zielgerichtete Erarbeitung von kundenrelevantem Content.
 
-**Preparation** umfasst die strategische Planung und Vorbereitung der eigenen Content Strategie. Hierbei sollten Sie die Zielgruppe oder fiktive [Personas](https://en.wikipedia.org/wiki/Persona_\(user_experience\)) auswählen, die richtigen Kanäle und SEO-Begriffe identifizieren und daraus einen Plan für den richtigen Content entwickeln.
+**Preparation** umfasst die strategische Planung und Vorbereitung der eigenen Content Strategie. Hierbei sollten Sie die Zielgruppe oder fiktive [Personas](<https://en.wikipedia.org/wiki/Persona_(user_experience)>) auswählen, die richtigen Kanäle und SEO-Begriffe identifizieren und daraus einen Plan für den richtigen Content entwickeln.
 
 **Production** besteht aus allen notwendigen Schritten, um die Inhalte zum Leben zu erwecken und deren Entstehung zu überwachen. Dafür legen Sie fest, wer die Inhalte bis wann erstellt, was die genauen Keywords und Überschriften sein sollen, wer die Informationen zuliefert und später die Inhalte redigiert etc.
 

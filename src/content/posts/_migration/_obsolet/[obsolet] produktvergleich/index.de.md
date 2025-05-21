@@ -1,9 +1,10 @@
 ---
-title: "Welches ist das richtige Produkt für Sie? Cloud, Dedicated oder On-Premises"
+title: 'Welches ist das richtige Produkt für Sie? Cloud, Dedicated oder On-Premises'
 date: 2021-11-12
-lastmod: "2022-02-03"
-author: "cdb"
-url: "/de/produktvergleich"
+lastmod: '2022-02-03'
+author: 'cdb'
+url: '/de/produktvergleich'
+color: '#eeeeee'
 ---
 
 Es gibt nicht das eine SeaTable, sondern SeaTable können Sie in drei verschiedenen Ausführungen bekommen. Dabei hat die Wahl Ihres SeaTable-Systems große Auswirkungen darauf, wie schnell Sie loslegen können, um wie viel Sie sich selbst kümmern müssen, welchen Preis Sie zahlen und welche Kontrolle Sie über Ihre eigenen Daten haben. Dieser Artikel gibt Ihnen einen vollständigen Überblick darüber, welche Produkte Ihnen zur Verfügung stehen und welche Vorteile das jeweilige Produkt hat. Am Ende dieses Textes werden Sie wissen, welches SeaTable das Richtige für Sie ist. Versprochen.
@@ -40,24 +41,24 @@ Ein dediziertes System ist gewissermaßen der Mittelweg: Man teilt sich das Sy
 
 Die folgende Tabelle zeigt die verschiedenen Aspekte der drei Produkte im Überblick:
 
-|  | Cloud | Dedicated | On-Premises |
-| --- | --- | --- | --- |
-| Editionen | Free, Plus, Enterprise | Enterprise | Enterprise |
-| kostenlos nutzbar | (SeaTable Free) |  | (für bis zu 3 Benutzer) |
-| Administration |  |  |  |
-| beliebiger Serverstandort |  |  |  |
-| automatische Updates |  |  |  |
-| eigene Administration |  |  |  |
-| Zugriff Linux Kommandozeile |  |  |  |
-| eigene Authentifizierung |  |  |  |
-| Customizing |  |  |  |
-| eigenes Logo |  |  |  |
-| eigene URL |  |  |  |
-| eigene Vorlagen |  |  |  |
-| eigene Benutzerrollen |  |  |  |
-| Support |  |  |  |
-| optionaler Corporate Support |  |  |  |
-| Voraussetzungen | E-Mail-Adresse | mind. 100 Nutzer | Linux Server oder VM |
+|                              | Cloud                  | Dedicated        | On-Premises             |
+| ---------------------------- | ---------------------- | ---------------- | ----------------------- |
+| Editionen                    | Free, Plus, Enterprise | Enterprise       | Enterprise              |
+| kostenlos nutzbar            | (SeaTable Free)        |                  | (für bis zu 3 Benutzer) |
+| Administration               |                        |                  |                         |
+| beliebiger Serverstandort    |                        |                  |                         |
+| automatische Updates         |                        |                  |                         |
+| eigene Administration        |                        |                  |                         |
+| Zugriff Linux Kommandozeile  |                        |                  |                         |
+| eigene Authentifizierung     |                        |                  |                         |
+| Customizing                  |                        |                  |                         |
+| eigenes Logo                 |                        |                  |                         |
+| eigene URL                   |                        |                  |                         |
+| eigene Vorlagen              |                        |                  |                         |
+| eigene Benutzerrollen        |                        |                  |                         |
+| Support                      |                        |                  |                         |
+| optionaler Corporate Support |                        |                  |                         |
+| Voraussetzungen              | E-Mail-Adresse         | mind. 100 Nutzer | Linux Server oder VM    |
 
 ## Die drei zentralen Fragen zur Auswahl des richtigen Produktes
 

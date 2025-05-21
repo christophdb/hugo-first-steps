@@ -1,9 +1,10 @@
 ---
-title: "Comment créer une gestion numérique des produits avec SeaTable - SeaTable"
+title: 'Comment créer une gestion numérique des produits avec SeaTable - SeaTable'
 date: 2021-10-07
-lastmod: "2023-07-11"
-author: "ott"
-url: "/fr/digitales-produktmanagement"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/fr/digitales-produktmanagement'
+color: '#eeeeee'
 ---
 
 La gestion numérique des produits est aujourd'hui indispensable pour gérer les produits. En effet, le numérique rend les choses beaucoup plus simples qu'auparavant. L'un des objectifs est de représenter les différentes interfaces de toute la gestion des produits, du début à la fin, et de rassembler toutes les informations de manière complète et compacte. Souvent, on passe d'un programme et d'un outil à l'autre, mais avec SeaTable, ce n'est plus nécessaire.
@@ -56,7 +57,7 @@ Dans notre exemple, nous avons directement créé des calculs pour la marge afin
 
 Dans la partie droite de l'écran, vous voyez des liens vers les tableaux "Catalogue" et "Projects". Le premier lien sert à transmettre correctement certaines données de la fiche produit au catalogue, car certaines informations sont identiques. Le tableau "Product Data" sert de tableau principal ; chaque fois que des choses, comme le prix d'achat, y sont modifiées, ces valeurs sont automatiquement modifiées dans le catalogue grâce au lien. De cette manière, les prix d'achat ne doivent plus être modifiés manuellement.
 
-Le lien avec le tableau "Projects" sert à relier directement la gestion de projet autour de ces produits à la fiche produit. Ainsi, les projets planifiés, en cours et terminés et les mesures de marketing autour des produits sont liés aux produits eux-mêmes et votre gestion numérique des produits devient une affaire rondement menée.  
+Le lien avec le tableau "Projects" sert à relier directement la gestion de projet autour de ces produits à la fiche produit. Ainsi, les projets planifiés, en cours et terminés et les mesures de marketing autour des produits sont liés aux produits eux-mêmes et votre gestion numérique des produits devient une affaire rondement menée.
 
 ## Gestion de projets et de tâches
 

@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.2: Assistente de fórmula interactiva e tipos de colunas melhorados"
+title: 'SeaTable 3.2: Assistente de fórmula interactiva e tipos de colunas melhorados'
 date: 2022-10-06
-lastmod: "2022-10-29"
-author: "rdb"
-url: "/pt/seatable-release-3-2"
+lastmod: '2022-10-29'
+author: 'rdb'
+url: '/pt/seatable-release-3-2'
+color: '#eeeeee'
 ---
 
 Bem-vindo SeaTable 3.2! No novo lançamento, os tipos de coluna SeaTable estão em destaque: O assistente de coluna de fórmula é agora interactivo e oferece uma correcção de erros significativamente melhorada. Os botões no tipo de coluna do mesmo nome permitem agora a realização de múltiplas acções com um clique. As novas funções na coluna de ficheiros simplificam a gestão de ficheiros e as colunas de selecção também oferecem uma utilização mais conveniente. Mas não foram só os tipos de colunas que beneficiaram. Os utilizadores empresariais, em particular, podem ansiar por melhorar as automatizações.

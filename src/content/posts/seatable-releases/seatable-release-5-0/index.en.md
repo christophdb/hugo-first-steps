@@ -4,6 +4,7 @@ date: 2024-07-15
 lastmod: '2024-07-15'
 author: 'kgr'
 url: '/seatable-release-5-0'
+color: '#eeeeee'
 ---
 
 The time has come: Our app builder is officially launched! With this version of our **no-code database with integrated no-code app builder**, anyone, whether programmer or citizen developer, can now easily create their own apps! With SeaTable 5.0, we are ready to take a leading position in digital transformation and innovation on the international market.

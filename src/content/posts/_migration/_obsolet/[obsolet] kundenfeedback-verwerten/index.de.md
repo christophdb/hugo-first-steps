@@ -1,9 +1,10 @@
 ---
-title: "Kundenfeedback in 3 Schritten ganz einfach auswerten - SeaTable"
+title: 'Kundenfeedback in 3 Schritten ganz einfach auswerten - SeaTable'
 date: 2021-03-12
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/de/kundenfeedback-verwerten"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/de/kundenfeedback-verwerten'
+color: '#eeeeee'
 ---
 
 Von qualitativen Rohdaten zum brandneuen Produktfeature. Bis aus der Anmerkung eines Kunden ein neues Feature entsteht, kann einige Zeit verstreichen. Trotzdem lohnt sich der Prozess und geht mit einem geeigneten Online-Tool auch viel leichter von der Hand, als Sie vielleicht gerade denken.

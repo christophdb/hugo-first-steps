@@ -1,10 +1,11 @@
 ---
-title: "6 marketing processes you should automate with Integromat - SeaTable"
+title: '6 marketing processes you should automate with Integromat - SeaTable'
 date: 2021-09-24
-lastmod: "2023-07-11"
-coverImage: "marketing-automation-1.jpg"
-author: "cdb"
-url: "/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte"
+lastmod: '2023-07-11'
+coverImage: 'marketing-automation-1.jpg'
+author: 'cdb'
+url: '/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
+color: '#eeeeee'
 ---
 
 Success in marketing is often the result of consistent and persistent work in dealing with prospective and current customers. The typical marketing department doesn't take care of the one central marketing process, but rather many small interlocking processes aimed at generating interest among potential customers, enhancing the customer experience, or engaging in regular exchanges. It is precisely because of this small-scale nature and repetitive tasks that it makes sense to automate all marketing processes that can be automated. This saves you time in which you can focus on your creative work. Because this is where the real value creation of marketing takes place and this work will be difficult to automate in the future.
@@ -17,7 +18,7 @@ The following article gives six examples of the marketing processes that can be 
 
 In marketing, too, it helps to know your enemy and to keep yourself regularly informed about the news and updates with which they appear in the media. To do this, set up a [Google Alert](https://www.google.de/alerts) for all relevant search terms. This way you can monitor your own company name, the name of your competitor or even specific products. The news can be narrowed down to individual countries or regions and thus adapted to your needs.
 
-In the settings for the alert, select _Send to _the option _RSS feed_. This gives you a URL with which you can save all new entries in a SeaTable table in future with the help of Integromat. There you can then monitor and structure the messages very comfortably and clearly.__
+In the settings for the alert, select _Send to \_the option \_RSS feed_. This gives you a URL with which you can save all new entries in a SeaTable table in future with the help of Integromat. There you can then monitor and structure the messages very comfortably and clearly.\_\_
 
 ![This is how Google News is stored in SeaTable.](images/google-news-seatable.png)
 

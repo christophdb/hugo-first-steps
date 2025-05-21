@@ -1,9 +1,10 @@
 ---
-title: "Bücher katalogisieren ganz einfach"
+title: 'Bücher katalogisieren ganz einfach'
 date: 2022-07-29
-lastmod: "2024-12-02"
-author: "cdb"
-url: "/de/buecher-katalogisieren"
+lastmod: '2024-12-02'
+author: 'cdb'
+url: '/de/buecher-katalogisieren'
+color: '#eeeeee'
 ---
 
 Sie lieben es zu lesen und können von Büchern gar nicht genug bekommen? Das ist ganz wunderbar, denn schöner als mit einem Buch lässt es sich kaum in fremde Welten abtauchen. Doch wissen Sie auch auf Anhieb ganz genau, wie viele und welche Bücher Sie besitzen? Und wo welches Buch gerade steht? Falls nicht, es gibt die perfekte Lösung, denn mit den richtigen Apps können Sie Ihre Bücher katalogisieren – einfach, schnell und ohne großen Aufwand.

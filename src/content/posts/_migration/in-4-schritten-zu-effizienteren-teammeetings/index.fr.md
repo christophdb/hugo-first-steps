@@ -1,9 +1,10 @@
 ---
 title: "Des réunions d'équipe plus efficaces en 4 étapes - SeaTable"
 date: 2021-10-21
-lastmod: "2024-08-09"
-author: "ott"
-url: "/fr/in-4-schritten-zu-effizienteren-teammeetings"
+lastmod: '2024-08-09'
+author: 'ott'
+url: '/fr/in-4-schritten-zu-effizienteren-teammeetings'
+color: '#eeeeee'
 ---
 
 Les réunions d'équipe sont un élément essentiel de la vie professionnelle quotidienne. Les projets doivent être coordonnés, les textes validés et les décisions prises. Car sans communication régulière, rien n'avance. C'est pourquoi les réunions sont souvent inscrites dans l'agenda des travailleurs : Ils passent [plus de 15 heures par mois](https://news.it-matchmaker.com/meetings-zeitverschwendung-statt-erfolgsfaktor/) en réunions de toutes sortes - mais celles-ci ne sont souvent pas très fructueuses. Le manque d'efficacité, et donc le gaspillage d'un temps de travail précieux, peut être un énorme problème dans les cultures de réunion.

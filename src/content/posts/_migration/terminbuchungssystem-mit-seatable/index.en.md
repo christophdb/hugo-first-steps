@@ -1,10 +1,11 @@
 ---
-title: "How to save valuable time with an appointment booking system from SeaTable - SeaTable"
+title: 'How to save valuable time with an appointment booking system from SeaTable - SeaTable'
 date: 2021-06-18
-lastmod: "2023-07-11"
-coverImage: "pexels-jess-bailey-designs-1558691.jpg"
-author: "rbu"
-url: "/terminbuchungssystem-mit-seatable"
+lastmod: '2023-07-11'
+coverImage: 'pexels-jess-bailey-designs-1558691.jpg'
+author: 'rbu'
+url: '/terminbuchungssystem-mit-seatable'
+color: '#eeeeee'
 ---
 
 How much time do you spend making appointments with customers and business partners? Either the phone is constantly ringing, pulling you out of your workflow again and again, or you write countless emails to finally come to a common denominator when it comes to finding appointments. The constant back-and-forth of scheduling and rescheduling appointments can also be annoying for your customers. The solution: an online appointment booking system.

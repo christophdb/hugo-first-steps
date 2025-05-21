@@ -4,6 +4,7 @@ date: 2024-07-15
 lastmod: '2024-07-15'
 author: 'kgr'
 url: '/es/seatable-release-5-0'
+color: '#eeeeee'
 ---
 
 Ha llegado el momento: ¡lanzamos oficialmente nuestro creador de aplicaciones! Con esta versión de nuestra **base de datos sin código con creador de aplicaciones sin código integrado**, cualquier persona, ya sea programador o desarrollador ciudadano, podrá crear fácilmente sus propias aplicaciones. Con SeaTable 5.0, estamos preparados para asumir una posición de liderazgo en transformación digital e innovación en el mercado internacional.

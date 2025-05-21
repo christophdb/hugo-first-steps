@@ -1,9 +1,10 @@
 ---
-title: "Ideias de conteúdos que funcionam sempre"
+title: 'Ideias de conteúdos que funcionam sempre'
 date: 2024-01-24
-lastmod: "2025-02-13"
-author: "nsc"
-url: "/pt/content-ideen"
+lastmod: '2025-02-13'
+author: 'nsc'
+url: '/pt/content-ideen'
+color: '#eeeeee'
 ---
 
 Uma coisa é particularmente importante para uma presença bem sucedida nas redes sociais: **publicar** conteúdos **regularmente**. Os algoritmos do [Instagram](http://www.instagram.com) e similares penalizam imediatamente a inatividade e limitam a visibilidade das contas, o que pode ser fatal para o seu **alcance**. Por conseguinte, é importante alimentar o algoritmo regularmente e recolher ideias de conteúdos para o Instagram, TikTok, etc.

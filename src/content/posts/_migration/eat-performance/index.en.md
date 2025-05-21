@@ -1,10 +1,11 @@
 ---
-title: "Happy customers and healthy food are the focus at eat Performance - SeaTable"
+title: 'Happy customers and healthy food are the focus at eat Performance - SeaTable'
 date: 2021-02-03
-lastmod: "2023-07-11"
-coverImage: "eat-performance.jpg"
-author: "cdb"
-url: "/eat-performance"
+lastmod: '2023-07-11'
+coverImage: 'eat-performance.jpg'
+author: 'cdb'
+url: '/eat-performance'
+color: '#eeeeee'
 ---
 
 SeaTable helps the Berlin-based food manufacturer eat Performance to coordinate the tasks in the team and to monitor the logistics processes. This allows the two founders to fully concentrate on the production and distribution of their healthy Paleo products.

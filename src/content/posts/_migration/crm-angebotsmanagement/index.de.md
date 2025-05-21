@@ -1,9 +1,10 @@
 ---
-title: "CRM: Von der Kundenerfassung bis zum Angebot - SeaTable"
+title: 'CRM: Von der Kundenerfassung bis zum Angebot - SeaTable'
 date: 2021-07-22
-lastmod: "2023-07-11"
-author: "pbr"
-url: "/de/crm-angebotsmanagement"
+lastmod: '2023-07-11'
+author: 'pbr'
+url: '/de/crm-angebotsmanagement'
+color: '#eeeeee'
 ---
 
 Jedes Unternehmen, das seine Kunden effizienter erfassen und nachhalten möchte, kommt um ein gutes Customer Relationship Management (CRM) bzw. genauer gesagt um ein CRM-System nicht herum.

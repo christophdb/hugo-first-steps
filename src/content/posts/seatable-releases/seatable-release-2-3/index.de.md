@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.3: Noch mehr Einsatzflexibilität mit Archivfunktion - SeaTable"
+title: 'SeaTable 2.3: Noch mehr Einsatzflexibilität mit Archivfunktion - SeaTable'
 date: 2021-09-02
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/de/seatable-release-2-3"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/de/seatable-release-2-3'
+color: '#eeeeee'
 ---
 
 SeaTable Version 2.3, die seit heute verfügbar ist, macht sich bereit, neue Einsatzfelder zu erobern. Mit der Archivfunktion, die in diesem Release als Beta vorgestellt wird, empfiehlt sich SeaTable nun auch für datenintensive Anwendungsfälle: Tabellen mit Millionen Datensätzen lassen sich mit ihr in SeaTable speichern und auswerten. Sie steht in diesen Release Notes im Fokus. Weitere Neuerungen und Verbesserungen stellen wir überblicksartig vor. Die vollständige Liste der Änderungen finden Sie – wie immer – im [SeaTable Changelog](https://seatable.io/docs/changelog/version-2-3/).
@@ -20,19 +21,18 @@ In Sachen Auswertungs- und Analysemöglichkeiten sind die Unterschiede zwischen 
 
 Der zentrale Unterschied ist die Unterstützung der Online-Kollaboration in Echtzeit: Die aktiven Zeilen werden beim Aufruf der Tabelle vollständig in den Arbeitsspeicher geladen. Jede Änderung in einer Tabelle kann so unmittelbar an andere Benutzer übertragen werden. Anders die archivierten Daten: Beim Öffnen einer Tabelle werden nur die ersten 1.000 Zeilen aus dem Archiv geladen. Seitenweise können zusätzliche Daten abgerufen werden. Dieser Verzicht auf das vollständige Laden erlaubt die schnelle Anzeige im Webinterface, auch von Tabellen mit vielen Hunderttausend Zeilen, bedeutet aber auch den Verzicht auf Echtzeit-Kollaboration.
 
-|  | Normale Ansicht | Ansicht inkl.   archivierter Daten |
-| --- | --- | --- |
-| Kollaboratives Arbeiten | ✓ |  |
-| Unterstützung aller Spaltentypen | ✓ | ✓# |
-| Unterstützung der Plugins | ✓ | ✓ \* |
-| Lese- und Schreibzugriff | ✓ | ✓ \* |
-| Sortierung | ✓ | ✓ |
-| Filterung | ✓ | ✓ |
-| Gruppierung | ✓ |  |
-| Ausblenden | ✓ | ✓ \* |
-| Suche | ✓ | ✓ \* |
+|                                  | Normale Ansicht | Ansicht inkl. archivierter Daten |
+| -------------------------------- | --------------- | -------------------------------- |
+| Kollaboratives Arbeiten          | ✓               |                                  |
+| Unterstützung aller Spaltentypen | ✓               | ✓#                               |
+| Unterstützung der Plugins        | ✓               | ✓ \*                             |
+| Lese- und Schreibzugriff         | ✓               | ✓ \*                             |
+| Sortierung                       | ✓               | ✓                                |
+| Filterung                        | ✓               | ✓                                |
+| Gruppierung                      | ✓               |                                  |
+| Ausblenden                       | ✓               | ✓ \*                             |
+| Suche                            | ✓               | ✓ \*                             |
 
-  
 \# In der Version 2.3 werden alle Spaltentypen mit Ausnahme von Formeln und Verknüpfungen unterstützt.  
 \* Diese Funktionen stehen in der Version 2.3 noch nicht zur Verfügung.
 
@@ -66,7 +66,6 @@ Die Tabellenhistorie und Kommentare gehören nicht zu den Informationen, die man
 
 Nach [Standardwerten für Spalten](https://seatable.io/seatable-release-2-0/?lang=auto) gibt es in der Version 2.3 nun auch Standardwerte für Formularfelder. Und nicht nur statische Standardwerte werden unterstützt: Die Variablen _creator.id_ und _creator.name_ fügen bei angemeldeten Benutzern automatisch die Benutzer-ID bzw. den Benutzernamen im Formularfeld ein.
 
-  
 ![Default values in forms](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
 
 ### Vorschau für den Spaltentyp formatierter Text

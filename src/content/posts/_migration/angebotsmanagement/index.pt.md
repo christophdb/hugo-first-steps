@@ -1,9 +1,10 @@
 ---
-title: "Boa gestão da oferta para um melhor desempenho de vendas"
+title: 'Boa gestão da oferta para um melhor desempenho de vendas'
 date: 2022-07-22
-lastmod: "2022-07-27"
-author: "rdb"
-url: "/pt/angebotsmanagement"
+lastmod: '2022-07-27'
+author: 'rdb'
+url: '/pt/angebotsmanagement'
+color: '#eeeeee'
 ---
 
 Uma coisa é crucial para um trabalho de vendas bem sucedido: a **gestão da oferta**. Mas o que é importante aqui? Que erros não devem ser cometidos em circunstância alguma? E o que está por detrás do termo "gestão da oferta", afinal?

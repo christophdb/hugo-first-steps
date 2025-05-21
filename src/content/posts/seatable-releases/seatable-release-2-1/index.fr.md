@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.1 : Autorisations de table et traitement des données - SeaTable"
+title: 'SeaTable 2.1 : Autorisations de table et traitement des données - SeaTable'
 date: 2021-07-06
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/fr/seatable-release-2-1"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/fr/seatable-release-2-1'
+color: '#eeeeee'
 ---
 
 Aujourd'hui, 6 juillet 2021, nous avons mis à jour [SeaTable Cloud](https://cloud.seatable.io) en SeaTable 2.1 et téléchargé la nouvelle image Docker sur Docker Hub. Les points forts de cette version sont les nouvelles autorisations de table et une nouvelle fonction appelée Traitement des données. En outre, nous avons amélioré les types de colonnes sélection simple et multiple ainsi que la colonne case à cocher. Dans ces notes de mise à jour, nous présentons - comme toujours - les développements centraux et renvoyons au [changelog de SeaTable](https://seatable.io/fr/docs/changelog/version-2-1/) (disponible uniquement en anglais) pour la liste complète des changements.
@@ -26,7 +27,7 @@ SeaTable 2.1 propose trois opérations de traitement des données :
 
 - _Calculer les valeurs cumulées_ additionne les valeurs des cellules d'une colonne de la ligne 1 à la ligne actuelle.
 - _Calculer les changements_ calcule la différence entre les chiffres de deux lignes consécutives.
-- La fonction de_comparaison et de copie_ vérifie l'égalité des entrées de deux tables et, si une correspondance est trouvée, transfère une ou plusieurs valeurs d'une table à l'autre.
+- La fonction de*comparaison et de copie* vérifie l'égalité des entrées de deux tables et, si une correspondance est trouvée, transfère une ou plusieurs valeurs d'une table à l'autre.
 
 D'autres actions de traitement des données, telles que le calcul de l'ordre ou la liaison automatique des entrées, seront ajoutées dans les versions futures afin de simplifier le traitement d'ensembles de données toujours plus importants. Une option de mémoire pour les actions récurrentes de traitement des données sera également disponible.
 

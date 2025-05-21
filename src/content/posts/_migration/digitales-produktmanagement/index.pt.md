@@ -1,9 +1,10 @@
 ---
-title: "Como criar uma gestão de produtos digitais com o SeaTable - SeaTable"
+title: 'Como criar uma gestão de produtos digitais com o SeaTable - SeaTable'
 date: 2021-10-07
-lastmod: "2023-07-11"
-author: "ott"
-url: "/pt/digitales-produktmanagement"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/pt/digitales-produktmanagement'
+color: '#eeeeee'
 ---
 
 A gestão digital de produtos é indispensável para lidar com os produtos da era actual. Porque, digitalmente, muitas coisas são muito mais fáceis do que costumavam ser. Um objectivo é mapear as várias interfaces de toda a gestão do produto do início ao fim e compilar toda a informação de forma completa e compacta. Isto envolve muitas vezes a mudança entre diferentes programas e ferramentas - com o SeaTable, isto já não é necessário.
@@ -56,7 +57,7 @@ No nosso exemplo, criámos directamente cálculos para a margem a fim de observa
 
 Na parte direita do ecrã, aparecem ligações para a tabela "Catálogo" e "Projectos". A primeira ligação é utilizada para passar corretamente alguns dados da ficha de produto para o catálogo, uma vez que algumas informações são as mesmas. A tabela "Dados do produto" funciona como uma tabela-mestra; sempre que se alteram dados nessa tabela, como o preço de compra, esses valores são automaticamente alterados no catálogo através da ligação. Desta forma, os preços de compra deixam de ter de ser alterados manualmente.
 
-A ligação à tabela "Projectos" é utilizada para ligar a gestão de projectos em torno destes produtos diretamente à folha de dados do produto. Desta forma, os projectos planeados, em curso e concluídos e as medidas de marketing em torno dos produtos estão ligados aos próprios produtos e a sua gestão de produtos digitais torna-se um assunto completo.  
+A ligação à tabela "Projectos" é utilizada para ligar a gestão de projectos em torno destes produtos diretamente à folha de dados do produto. Desta forma, os projectos planeados, em curso e concluídos e as medidas de marketing em torno dos produtos estão ligados aos próprios produtos e a sua gestão de produtos digitais torna-se um assunto completo.
 
 ## Gestão de projectos e gestão de tarefas
 

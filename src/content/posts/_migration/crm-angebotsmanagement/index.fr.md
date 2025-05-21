@@ -1,9 +1,10 @@
 ---
 title: "CRM : de la saisie du client à l'offre - SeaTable"
 date: 2021-07-22
-lastmod: "2023-07-11"
-author: "pbr"
-url: "/fr/crm-angebotsmanagement"
+lastmod: '2023-07-11'
+author: 'pbr'
+url: '/fr/crm-angebotsmanagement'
+color: '#eeeeee'
 ---
 
 Toute entreprise qui souhaite enregistrer et suivre ses clients plus efficacement ne peut se passer d'une bonne gestion de la relation client (CRM) ou, plus précisément, d'un système CRM.

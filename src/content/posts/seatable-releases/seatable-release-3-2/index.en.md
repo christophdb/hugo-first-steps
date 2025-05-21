@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 3.2: Interactive formula wizard and improved column types"
+title: 'SeaTable 3.2: Interactive formula wizard and improved column types'
 date: 2022-10-06
-lastmod: "2022-10-29"
-coverImage: "seatable-release-3.2-blog.jpg"
-author: "rdb"
-url: "/seatable-release-3-2"
+lastmod: '2022-10-29'
+coverImage: 'seatable-release-3.2-blog.jpg'
+author: 'rdb'
+url: '/seatable-release-3-2'
+color: '#eeeeee'
 ---
 
 Welcome SeaTable 3.2! In the new release SeaTable's column types are in the spotlight: The formula column wizard is now interactive and offers significantly improved error correction. Buttons in the column type of the same name now allow to perform multiple actions with one click. New functions in the file column simplify the management of files and the selection columns also offer more convenient use. But not only the column types have benefited. Enterprise users in particular can look forward to improved automations.
@@ -15,13 +16,13 @@ Since this morning the latest version is running on [SeaTable Cloud](https://clo
 
 The Formula Wizard previously offered little guidance when creating complex formulas. With the new formula wizard, even interconnected formulas with various column references and multiple functions can be created quickly. It provides interactive support during input and, if something does go wrong, offers meaningful error messages for quick troubleshooting.
 
-![Seatable&#039;s interactive formula wizard](images/SeaTable3.2_FormulaWizard.png)
+![Seatable's interactive formula wizard](images/SeaTable3.2_FormulaWizard.png)
 
 Where previously there was only gray text, there is now a clear color language: formulas are displayed in blue font, column references are purple, numbers are green and text appears in red. Brackets - round as well as curly ones - are automatically closed when typing and a fine shadow marks connected brackets. Single and double quotation marks for plain text are also automatically doubled to speed up typing. Of course, the new wizard works not only for new formulas, but also for existing ones.
 
 ## Versatile button
 
-![SeaTable&#039;s button can now execute two actions with one click](images/SeaTable3.2_ButtonColumn.png)
+![SeaTable's button can now execute two actions with one click](images/SeaTable3.2_ButtonColumn.png)
 
 Until now, the rule was "1 button - 1 action". This rule goes overboard with SeaTable 3.2. The new rule is "1 button - you choose the number of actions". For example, in SeaTable 3.2 you create a PDF document with the page design plugin with one click and then send it by email. Also, the row can be locked afterwards or cell values can be changed automatically (e.g. a status change). The available actions can be combined in any way. Existing buttons can, of course, also be assigned additional actions, making tables leaner and simpler.
 
@@ -68,6 +69,6 @@ A new data processing operation 'Transfer user name' reads a column of the type 
 When a new column is added to a table, SeaTable checks if there are hidden columns in other views. If this is the case, then the newly created column will be hidden in these views as well.
 
 In addition to the improved display of single-selection fields, the page design gets another improvement: Multiple elements can now be aligned collectively, as known from PowerPoint, for example.  
-![Multiple elements can be aligned in SeaTable 3.2&#039;s page design plugin](images/SeaTable3.2-ElementAlignment.png)
+![Multiple elements can be aligned in SeaTable 3.2's page design plugin](images/SeaTable3.2-ElementAlignment.png)
 
 Last but not least, the Timeline plugin is happy about an improvement: Groupings in a view can now also be displayed in the plugin. Specifically: The entries in a grouping are displayed separated from each other by swimlanes.

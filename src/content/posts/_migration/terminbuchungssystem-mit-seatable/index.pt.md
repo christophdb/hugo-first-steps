@@ -1,9 +1,10 @@
 ---
-title: "Como poupar tempo valioso com um sistema de marcação de entrevistas da SeaTable - SeaTable"
+title: 'Como poupar tempo valioso com um sistema de marcação de entrevistas da SeaTable - SeaTable'
 date: 2021-06-18
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/pt/terminbuchungssystem-mit-seatable"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/pt/terminbuchungssystem-mit-seatable'
+color: '#eeeeee'
 ---
 
 Quanto tempo passa a marcar reuniões com clientes e parceiros comerciais? Ou o telefone está constantemente a tocar, tirando-o do seu fluxo de trabalho uma e outra vez, ou escreve inúmeros e-mails para finalmente chegar a um denominador comum quando se trata de encontrar marcações. Também para os seus clientes, as constantes idas e vindas para planear e remarcar marcações podem ser irritantes. A solução: um sistema de marcação de consultas em linha.

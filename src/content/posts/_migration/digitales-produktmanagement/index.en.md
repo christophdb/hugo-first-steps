@@ -1,10 +1,11 @@
 ---
-title: "How to create digital product management with SeaTable - SeaTable"
+title: 'How to create digital product management with SeaTable - SeaTable'
 date: 2021-10-07
-lastmod: "2023-07-11"
-coverImage: "key-1504422_1920.jpg"
-author: "ott"
-url: "/digitales-produktmanagement"
+lastmod: '2023-07-11'
+coverImage: 'key-1504422_1920.jpg'
+author: 'ott'
+url: '/digitales-produktmanagement'
+color: '#eeeeee'
 ---
 
 Digital product management is indispensable in dealing with products in today's age. Because digitally, many things are so much easier than they used to be. One goal is to map the various interfaces of the entire product management from start to finish and to compile all information completely and compactly. This often involves switching back and forth between different programmes and tools - with SeaTable, this is no longer necessary.
@@ -57,7 +58,7 @@ In our example, we directly created calculations for the margin in order to obse
 
 In the right part of the screen you can see links to the "Catalogue" and "Projects" table. The first link is used to correctly pass some data from the product data sheet to the catalog, since some information is the same. The "Product Data" table serves as a master table; whenever things are changed there, such as the purchase price, these values are automatically changed in the catalog as a result of the link. In this way, purchase prices no longer have to be changed manually.
 
-The connection to the "Projects" table is used to link the project management around these products directly to the product data sheet. Thus, planned, ongoing and completed projects and marketing activities around the products are linked to the products themselves and your digital product management becomes a well-rounded affair.  
+The connection to the "Projects" table is used to link the project management around these products directly to the product data sheet. Thus, planned, ongoing and completed projects and marketing activities around the products are linked to the products themselves and your digital product management becomes a well-rounded affair.
 
 ## Project management and task management
 

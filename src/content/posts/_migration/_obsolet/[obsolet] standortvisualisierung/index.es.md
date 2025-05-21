@@ -1,9 +1,10 @@
 ---
-title: "La visualización de la ubicación es más fácil con SeaTable | SeaTable"
+title: 'La visualización de la ubicación es más fácil con SeaTable | SeaTable'
 date: 2020-08-19
-lastmod: "2023-05-17"
-author: "rbu"
-url: "/es/standortvisualisierung"
+lastmod: '2023-05-17'
+author: 'rbu'
+url: '/es/standortvisualisierung'
+color: '#eeeeee'
 ---
 
 ## Plugin de mapas SeaTable

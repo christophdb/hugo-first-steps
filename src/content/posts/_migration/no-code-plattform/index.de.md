@@ -1,9 +1,10 @@
 ---
-title: "Low Code, No Code und die Software-Entwicklung der Zukunft"
+title: 'Low Code, No Code und die Software-Entwicklung der Zukunft'
 date: 2021-11-12
-lastmod: "2022-08-29"
-author: "cdb"
-url: "/de/no-code-plattform"
+lastmod: '2022-08-29'
+author: 'cdb'
+url: '/de/no-code-plattform'
+color: '#eeeeee'
 ---
 
 # Low Code, No Code und die Software-Entwicklung der Zukunft
@@ -23,7 +24,7 @@ Haben Sie sich schon einmal gewünscht, mit wenigen Klicks Ihre eigenen Software
 Low Code ist der englische Fachbegriff für Entwicklungsmethoden, bei denen das Programmieren nicht mehr mithilfe von textbasierten Programmiersprachen, sondern auf Basis von visuellen Hilfsmitteln erfolgt. Intuitive grafische Tools und vorgefertigte Bausteine ermöglichen es dabei, Anwendungen mit geringem manuellem Programmieraufwand zu erstellen.
 
 > „Softwareentwicklung ist immer anstrengend, zeitraubend und erfordert die Fähigkeiten von erfahrenen Entwicklern. Low Code Entwicklung verspricht, diesen aufwändigen Prozess zu beschleunigen und zu vereinfachen.“
-> 
+>
 > Christoph Dyllick-Brenzinger, CTO von SeaTable
 
 ## Was ist eine Low Code Plattform? [#](#was-ist-eine-low-code-plattform)
@@ -86,7 +87,7 @@ Typische Anwendungsfälle sind:
 - **Prototypen und MVPs (Minimum Viable Products)**: Entwickeln Sie schnell einsatzbereite Software-Prototypen, um Ideen zu testen und früh Feedback einzuholen.
 
 > „Aus meiner Sicht sollte man eine Low Code Plattform als einen Spielplatz zum Ausprobieren neuer Lösungen ansehen, um Prozesse digital zu gestalten und zu automatisieren.“
-> 
+>
 > Christoph Dyllick-Brenzinger, CTO von SeaTable
 
 ### Sollten Sie eine Low Code oder No Code Plattform nutzen? [#](#sollten-sie-eine-low-code-oder-no-code-plattform-nutzen)

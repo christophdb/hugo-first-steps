@@ -1,9 +1,10 @@
 ---
-title: "So optimieren Sie Ihr Supply Chain Management mit SeaTable   - SeaTable"
+title: 'So optimieren Sie Ihr Supply Chain Management mit SeaTable   - SeaTable'
 date: 2021-10-07
-lastmod: "2023-07-11"
-author: "pbr"
-url: "/de/supply-chain-management"
+lastmod: '2023-07-11'
+author: 'pbr'
+url: '/de/supply-chain-management'
+color: '#eeeeee'
 ---
 
 Die Verzahnungen von mehreren Prozessen entlang der Wertschöpfungskette eines Produktes ist sehr komplex: Von der Beschaffung, über die Lagerung bis hin zum Endkunden. Prozesse und Abläufe müssen stets effizient geplant, eingehalten und optimiert werden, damit der Endkunde auch sein gewünschtes Produkt zum richtigen Zeitpunkt, nämlich dann wann er es will, erhält. Mit SeaTable haben Sie die Möglichkeit, Ihr Supply Chain Management optimal abzubilden und stets Herr über die gesamte Wertschöpfungskette zu bleiben.

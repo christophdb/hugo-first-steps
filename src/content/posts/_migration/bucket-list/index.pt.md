@@ -1,9 +1,10 @@
 ---
-title: "Criar uma lista de desejos: Ideias, inspiração e modelo gratuito"
+title: 'Criar uma lista de desejos: Ideias, inspiração e modelo gratuito'
 date: 2024-02-19
-lastmod: "2024-02-19"
-author: "nsc"
-url: "/pt/bucket-list"
+lastmod: '2024-02-19'
+author: 'nsc'
+url: '/pt/bucket-list'
+color: '#eeeeee'
 ---
 
 Sempre quis experimentar um salto de para-quedas de um avião? Desde criança que sonha em mergulhar na Grande Barreira de Coral na Austrália? Ou gostaria de passar uma noite num iglu na Noruega? Então, coloque estes destinos na sua lista de desejos!

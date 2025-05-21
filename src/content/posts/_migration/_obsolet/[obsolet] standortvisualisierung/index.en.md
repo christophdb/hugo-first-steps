@@ -1,10 +1,11 @@
 ---
-title: "Location visualisation made easy with SeaTable | SeaTable"
+title: 'Location visualisation made easy with SeaTable | SeaTable'
 date: 2020-08-19
-lastmod: "2023-05-17"
-coverImage: "simon-migaj-sa7KClvDBpo-unsplash-scaled-1.jpg"
-author: "rbu"
-url: "/standortvisualisierung"
+lastmod: '2023-05-17'
+coverImage: 'simon-migaj-sa7KClvDBpo-unsplash-scaled-1.jpg'
+author: 'rbu'
+url: '/standortvisualisierung'
+color: '#eeeeee'
 ---
 
 ## The map plugin from SeaTable

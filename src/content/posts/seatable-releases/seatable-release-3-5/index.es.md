@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.5: Fórmulas en la primera columna, nuevas acciones de automatización y todo tipo de novedades - SeaTable"
+title: 'SeaTable 3.5: Fórmulas en la primera columna, nuevas acciones de automatización y todo tipo de novedades - SeaTable'
 date: 2023-04-12
-lastmod: "2023-09-04"
-author: "kgr"
-url: "/es/seatable-release-3-5"
+lastmod: '2023-09-04'
+author: 'kgr'
+url: '/es/seatable-release-3-5'
+color: '#eeeeee'
 ---
 
 April hace lo que quiere - ¡pero SeaTable hace lo que usted quiere! La versión 3.5 cumple algunos deseos largamente acariciados por nuestros usuarios: la primera columna ahora también soporta [fórmulas](/es/docs/formeln/grundlagen-von-seatable-formeln/) y mediante la [automatización](/es/docs/automationen/uebersicht-ueber-automationen/) puede hacer que se ejecuten periódicamente dos acciones adicionales. Obtendrá más flexibilidad para casos de uso más exigentes con la ejecución condicional de las [acciones de los botones](/es/docs/andere-spalten/die-schaltflaeche/) y las [búsquedas](/es/docs/verknuepfungen/die-lookup-funktion/) condicionales. A continuación presentamos estas mejoras en detalle.

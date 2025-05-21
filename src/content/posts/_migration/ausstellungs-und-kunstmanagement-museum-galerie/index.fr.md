@@ -1,9 +1,10 @@
 ---
 title: "Gestion de l'art - comment gérer les musées et les galeries numériquement - SeaTable"
 date: 2021-03-09
-lastmod: "2023-07-05"
-author: "cdb"
-url: "/fr/ausstellungs-und-kunstmanagement-museum-galerie"
+lastmod: '2023-07-05'
+author: 'cdb'
+url: '/fr/ausstellungs-und-kunstmanagement-museum-galerie'
+color: '#eeeeee'
 ---
 
 Il existe environ [55 000 musées](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) dans le monde et d'innombrables autres galeries, expositions, théâtres et scènes artistiques. Tout le monde sera d'accord pour dire que l'art, sous ses différentes formes, joue un rôle important dans notre vie. Sans les outils numériques, il serait difficile d'imaginer aujourd'hui la gestion et l'exploitation d'une telle institution artistique. Demander des fonds publics, faire l'inventaire des pièces exposées et (surtout pendant la pandémie de Corona) enregistrer les visiteurs - il y a certainement des tâches plus simples que dans la gestion artistique.

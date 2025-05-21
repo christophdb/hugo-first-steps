@@ -1,9 +1,10 @@
 ---
-title: "AWS: SeaTable Cloud se separa de Amazon y se hace más europea - SeaTable"
+title: 'AWS: SeaTable Cloud se separa de Amazon y se hace más europea - SeaTable'
 date: 2021-05-20
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/es/die-seatable-cloud-wird-europaeischer"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/es/die-seatable-cloud-wird-europaeischer'
+color: '#eeeeee'
 ---
 
 Con SeaTable podrá gestionar y organizar proyectos, clientes, activos, ideas y resultados de trabajo de todo tipo. De este modo, confía a SeaTable los datos centrales y más importantes de su empresa o de su equipo. El hecho de que seamos el único proveedor de soluciones de hojas de cálculo en línea que ofrece a nuestros clientes la opción de manejar su propio [servidor](/es/enterprise-on-premise/) personal [SeaTable](/es/enterprise-on-premise/) demuestra que la protección de sus datos es muy importante para nosotros. Sólo así se mantiene el control total y la soberanía absoluta de los datos. Pero también establecemos los estándares más altos para la seguridad de sus datos con nuestros clientes de la nube.

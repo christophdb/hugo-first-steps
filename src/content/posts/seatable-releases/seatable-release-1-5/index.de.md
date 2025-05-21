@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 1.5: Verbesserter Editor, Freigaben und Webformulare - SeaTable"
+title: 'SeaTable 1.5: Verbesserter Editor, Freigaben und Webformulare - SeaTable'
 date: 2020-11-27
-lastmod: "2022-06-14"
-author: "rdb"
-url: "/de/seatable-release-1-5"
+lastmod: '2022-06-14'
+author: 'rdb'
+url: '/de/seatable-release-1-5'
+color: '#eeeeee'
 ---
 
 Wir haben heute cloud.seatable.io auf die Version 1.5 von SeaTable aktualisiert. Mit dem nächsten Login profitieren alle Nutzer von spannenden neuen Features und einer Reihe von Verbesserungen an Interface und bestehenden Funktionen. Auf den ersten Blick werden die zahlreichen kleineren und größeren Änderungen am Tabelleneditor auffallen, die zu einer höheren Workfloweffizienz und verbesserten Benutzererfahrung führen. Die neuen benutzerdefinierten Freigabeberechtigungen bieten mehr Kontrolle und Flexibilität bei der gemeinsamen Arbeit an Bases. Erweiterte Individualisierungsoptionen machen SeaTables Webformulare ein noch vielseitigeres Werkzeug für die Datenerfassung.

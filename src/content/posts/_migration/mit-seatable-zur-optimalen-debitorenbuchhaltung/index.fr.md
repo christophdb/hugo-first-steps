@@ -1,9 +1,10 @@
 ---
-title: "Une comptabilité clients optimale avec SeaTable - SeaTable"
+title: 'Une comptabilité clients optimale avec SeaTable - SeaTable'
 date: 2021-08-26
-lastmod: "2023-07-11"
-author: "pbr"
-url: "/fr/mit-seatable-zur-optimalen-debitorenbuchhaltung"
+lastmod: '2023-07-11'
+author: 'pbr'
+url: '/fr/mit-seatable-zur-optimalen-debitorenbuchhaltung'
+color: '#eeeeee'
 ---
 
 Il faut vérifier les paiements entrants, rappeler les paiements aux clients et, parfois, il y a même la partie que toute entreprise veut éviter : le processus de relance. Cela peut devenir un véritable défi pour de nombreuses entreprises. Vous vous perdez rapidement dans votre propre chaos et personne dans votre entreprise ne sait toujours quand et si une facture a même été payée. Au final, c'est la liquidité de votre propre entreprise qui en pâtit. Cependant, il ne faut pas que cela aille aussi loin !

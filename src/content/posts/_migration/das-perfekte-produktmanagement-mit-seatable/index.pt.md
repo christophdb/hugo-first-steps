@@ -1,9 +1,10 @@
 ---
-title: "Com estes 4 passos para uma gestão perfeita do produto - SeaTable"
+title: 'Com estes 4 passos para uma gestão perfeita do produto - SeaTable'
 date: 2021-04-29
-lastmod: "2023-07-11"
-author: "ott"
-url: "/pt/das-perfekte-produktmanagement-mit-seatable"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/pt/das-perfekte-produktmanagement-mit-seatable'
+color: '#eeeeee'
 ---
 
 Quando as empresas comercializam um produto ou serviço, uma boa gestão do produto é muito importante para o sucesso do mercado a longo prazo. Afinal de contas, de que serve um grande produto que simplesmente não funciona? Mostramos o que deve ser considerado na gestão do produto e quais as funções úteis que o trabalho com SeaTable traz consigo.

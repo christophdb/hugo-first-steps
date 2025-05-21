@@ -1,9 +1,10 @@
 ---
-title: "Saisie des heures facile : modèle gratuit de SeaTable - SeaTable"
+title: 'Saisie des heures facile : modèle gratuit de SeaTable - SeaTable'
 date: 2020-08-28
-lastmod: "2023-04-27"
-author: "rbu"
-url: "/fr/stundenerfassung-mit-seatable"
+lastmod: '2023-04-27'
+author: 'rbu'
+url: '/fr/stundenerfassung-mit-seatable'
+color: '#eeeeee'
 ---
 
 L'enregistrement électronique des heures de travail n'est pas encore obligatoire, mais il le deviendra bientôt, [si l'on en croit le ministère fédéral du Travail](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html). Un [modèle](https://seatable.io/fr/arbeitszeiterfassung/) simple [de saisie des heures de travail](https://seatable.io/fr/arbeitszeiterfassung/) vous permet d'y remédier. Avec SeaTable, vous disposez d'un formulaire de saisie des heures pour vos collaborateurs et d'un tableau clair dans lequel vous pouvez voir toutes les heures travaillées.

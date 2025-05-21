@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.0: Drei neue Spaltentypen, neue und verbesserte Plugins und Russisch als Benutzersprache - SeaTable"
+title: 'SeaTable 2.0: Drei neue Spaltentypen, neue und verbesserte Plugins und Russisch als Benutzersprache - SeaTable'
 date: 2021-05-27
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/de/seatable-release-2-0"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/de/seatable-release-2-0'
+color: '#eeeeee'
 ---
 
 Am 1. Juli 2020 hat SeaTable in der Version 1.0 das Licht der Welt erblickt. Mehr als 100.000 Mal wurde es seitdem von Docker Hub heruntergeladen. Dieses überwältigende Interesse an SeaTable hat uns angetrieben und so sind wir jetzt glücklich und stolz darauf, einen weiteren Meilenstein in der Entwicklung von SeaTable bekannt zu geben: SeaTable 2.0 wurde heute auf [SeaTable Cloud](https://cloud.seatable.io) aufgespielt und auf [Docker Hub](https://hub.docker.com/u/seatable) für private Installationen veröffentlicht.
@@ -48,7 +49,7 @@ Die Ratingspalte ist nur eine von mehreren Neuerungen, die SeaTables Webformular
 
 Weniger auffällig, aber umso wichtiger in der Anwendung ist die in SeaTable 2.0 ergänzte Funktion, Verknüpfungsspalten in Formularen zu nutzen. Dieser Spaltentyp bietet deutlich mehr Flexibilität als Einfachauswahlspalten und erlaubt so noch detailliertere Umfragen.
 
-Gänzlich unsichtbar im Editor, dafür aber umso mächtiger in der Anwendung ist die Standardwertfunktion für Formularfelder. Um ein Formularfeld mit einem Standardwert vorauszufüllen, ergänzen Sie ‘?prefill\_COLUMNNAME=PREFILLVALUE’ an die Formular-URL. (COLUMNNAME ist der Name der Spalte, dessen Feld auszufüllen ist; PREFILLVALUE ist der einzufügende Wert. Leerzeichen in Spaltennamen sind als “%20” zu schreiben und auf Groß- und Kleinschreibung muss geachtet werden.) Selbstverständlich lassen sich auch mehrere Formularfelder mit Standardwerten versehen. Zu diesem Zweck werden mehrere COLUMNNAME-PREFILLVALUE Paare mit dem kaufmännischen Und-Zeichen (“&”) verbunden.
+Gänzlich unsichtbar im Editor, dafür aber umso mächtiger in der Anwendung ist die Standardwertfunktion für Formularfelder. Um ein Formularfeld mit einem Standardwert vorauszufüllen, ergänzen Sie ‘?prefill_COLUMNNAME=PREFILLVALUE’ an die Formular-URL. (COLUMNNAME ist der Name der Spalte, dessen Feld auszufüllen ist; PREFILLVALUE ist der einzufügende Wert. Leerzeichen in Spaltennamen sind als “%20” zu schreiben und auf Groß- und Kleinschreibung muss geachtet werden.) Selbstverständlich lassen sich auch mehrere Formularfelder mit Standardwerten versehen. Zu diesem Zweck werden mehrere COLUMNNAME-PREFILLVALUE Paare mit dem kaufmännischen Und-Zeichen (“&”) verbunden.
 
 ## Spaltentyp #24: Geoposition
 

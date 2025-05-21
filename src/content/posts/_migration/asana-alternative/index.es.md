@@ -1,9 +1,10 @@
 ---
-title: "Estas son las 6 mejores alternativas de asanas"
+title: 'Estas son las 6 mejores alternativas de asanas'
 date: 2022-05-06
-lastmod: "2022-07-27"
-author: "cdb"
-url: "/es/asana-alternative"
+lastmod: '2022-07-27'
+author: 'cdb'
+url: '/es/asana-alternative'
+color: '#eeeeee'
 ---
 
 Cualquiera que quiera gestionar proyectos con éxito necesita organización y estructura. Para cumplir los plazos, trabajar con eficacia y alcanzar los objetivos, el uso de [herramientas](https://seatable.io/es/projekt-management-tool/) digitales [de gestión de proyectos](https://seatable.io/es/projekt-management-tool/) es una gran ventaja. Muchos equipos recurren a Asana para ello, aunque hay muchas más herramientas igualmente buenas. Pero, ¿cuál es la mejor **alternativa a Asana**?

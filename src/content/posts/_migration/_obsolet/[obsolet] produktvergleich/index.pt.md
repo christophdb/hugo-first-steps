@@ -1,9 +1,10 @@
 ---
-title: "Qual é o produto certo para si? Nuvem, Dedicado ou On-Premises"
+title: 'Qual é o produto certo para si? Nuvem, Dedicado ou On-Premises'
 date: 2021-11-12
-lastmod: "2022-02-03"
-author: "cdb"
-url: "/pt/produktvergleich"
+lastmod: '2022-02-03'
+author: 'cdb'
+url: '/pt/produktvergleich'
+color: '#eeeeee'
 ---
 
 Não há nenhuma SeaTable, mas pode obter a SeaTable em três versões diferentes. A escolha do seu sistema SeaTable tem um grande impacto na rapidez com que pode começar, quanto tem de cuidar de si, o preço que paga e o controlo que tem sobre os seus próprios dados. Este artigo dar-lhe-á uma visão completa dos produtos que estão disponíveis e dos benefícios de cada produto. No final deste texto, saberá qual é o SeaTable adequado para si. Prometido.
@@ -40,24 +41,24 @@ Um sistema dedicado é, de certa forma, o meio termo: já não se partilha o sis
 
 O quadro seguinte mostra uma visão geral dos diferentes aspectos dos três produtos:
 
-|  | Nuvem | Dedicado | On-Premises |
-| --- | --- | --- | --- |
-| Edições | Livre, Mais, Empresarial | Empresa | Empresa |
-| Utilizável sem custos | (SeaTable Free) |  | (para um máximo de 3 utilizadores) |
-| Administração |  |  |  |
-| Qualquer localização de servidor |  |  |  |
-| actualizações automáticas |  |  |  |
-| administração própria |  |  |  |
-| Aceder à linha de comando Linux |  |  |  |
-| Autenticação própria |  |  |  |
-| Personalização |  |  |  |
-| logótipo próprio |  |  |  |
-| URL próprio |  |  |  |
-| modelos próprios |  |  |  |
-| funções do próprio utilizador |  |  |  |
-| Apoio |  |  |  |
-| apoio empresarial opcional |  |  |  |
-| Requisitos | Endereço de correio electrónico | mín. 100 utilizadores | Servidor Linux ou VM |
+|                                  | Nuvem                           | Dedicado              | On-Premises                        |
+| -------------------------------- | ------------------------------- | --------------------- | ---------------------------------- |
+| Edições                          | Livre, Mais, Empresarial        | Empresa               | Empresa                            |
+| Utilizável sem custos            | (SeaTable Free)                 |                       | (para um máximo de 3 utilizadores) |
+| Administração                    |                                 |                       |                                    |
+| Qualquer localização de servidor |                                 |                       |                                    |
+| actualizações automáticas        |                                 |                       |                                    |
+| administração própria            |                                 |                       |                                    |
+| Aceder à linha de comando Linux  |                                 |                       |                                    |
+| Autenticação própria             |                                 |                       |                                    |
+| Personalização                   |                                 |                       |                                    |
+| logótipo próprio                 |                                 |                       |                                    |
+| URL próprio                      |                                 |                       |                                    |
+| modelos próprios                 |                                 |                       |                                    |
+| funções do próprio utilizador    |                                 |                       |                                    |
+| Apoio                            |                                 |                       |                                    |
+| apoio empresarial opcional       |                                 |                       |                                    |
+| Requisitos                       | Endereço de correio electrónico | mín. 100 utilizadores | Servidor Linux ou VM               |
 
 ## As três questões centrais para a escolha do produto certo
 

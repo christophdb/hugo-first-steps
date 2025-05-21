@@ -1,9 +1,10 @@
 ---
-title: "Recolher e avaliar o feedback do cliente com SeaTable | SeaTable"
+title: 'Recolher e avaliar o feedback do cliente com SeaTable | SeaTable'
 date: 2020-08-04
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/pt/kundenfeedback-mit-seatable"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/pt/kundenfeedback-mit-seatable'
+color: '#eeeeee'
 ---
 
 O que excita os seus clientes e com o que não está de todo satisfeito? Está à procura do preço mais baixo ou uma experiência de compras excitante é mais importante para si? O feedback do cliente não só lhe oferece uma visão das características do seu grupo alvo, como também lhe dá uma perspectiva completamente nova do seu próprio produto. Uma vez recolhido o feedback, este precisa de ser devidamente avaliado.

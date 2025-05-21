@@ -1,10 +1,11 @@
 ---
-title: "How Ventil Verlag is taking its internal processes to a new level - SeaTable"
+title: 'How Ventil Verlag is taking its internal processes to a new level - SeaTable'
 date: 2021-01-27
-lastmod: "2023-07-11"
-coverImage: "ventil-verlag.jpg"
-author: "cdb"
-url: "/ventil-verlag"
+lastmod: '2023-07-11'
+coverImage: 'ventil-verlag.jpg'
+author: 'cdb'
+url: '/ventil-verlag'
+color: '#eeeeee'
 ---
 
 Ventil Verlag needs a flexible organisational tool for its internal publishing processes. The diverse and small organisational tasks that cannot be meaningfully mapped in any standard software led Ventil Verlag to SeaTable.

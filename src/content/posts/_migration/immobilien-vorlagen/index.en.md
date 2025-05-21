@@ -1,10 +1,11 @@
 ---
-title: "Real estate: 4 useful templates for tenants and landlords"
+title: 'Real estate: 4 useful templates for tenants and landlords'
 date: 2022-04-17
-lastmod: "2023-11-06"
-coverImage: "seatable-immobilien-vorlagen.jpg"
-author: "cdb"
-url: "/immobilien-vorlagen"
+lastmod: '2023-11-06'
+coverImage: 'seatable-immobilien-vorlagen.jpg'
+author: 'cdb'
+url: '/immobilien-vorlagen'
+color: '#eeeeee'
 ---
 
 We take care of your organization - regardless of whether you want to manage your properties clearly, are looking for an apartment or are already planning your next move.

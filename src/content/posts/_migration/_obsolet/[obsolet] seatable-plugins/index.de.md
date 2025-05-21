@@ -1,9 +1,10 @@
 ---
-title: "Plugins für einen effizienteren Workflow | SeaTable"
+title: 'Plugins für einen effizienteren Workflow | SeaTable'
 date: 2020-08-18
-lastmod: "2023-05-17"
-author: "rbu"
-url: "/de/seatable-plugins"
+lastmod: '2023-05-17'
+author: 'rbu'
+url: '/de/seatable-plugins'
+color: '#eeeeee'
 ---
 
 ## Lernen Sie die Plugins von SeaTable kennen

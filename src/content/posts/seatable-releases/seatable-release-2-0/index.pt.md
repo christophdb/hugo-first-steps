@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 2.0: Três novos tipos de colunas, novos e melhorados plugins e russo como língua do utilizador - SeaTable"
+title: 'SeaTable 2.0: Três novos tipos de colunas, novos e melhorados plugins e russo como língua do utilizador - SeaTable'
 date: 2021-05-27
-lastmod: "2023-07-11"
-author: "rdb"
-url: "/pt/seatable-release-2-0"
+lastmod: '2023-07-11'
+author: 'rdb'
+url: '/pt/seatable-release-2-0'
+color: '#eeeeee'
 ---
 
 A versão 1.0 do SeaTable viu a luz do dia a 1 de Julho de 2020. Desde então, foi descarregado mais de 100.000 vezes a partir de Docker Hub. Este interesse esmagador no SeaTable levou-nos e por isso estamos agora felizes e orgulhosos de anunciar outro marco no desenvolvimento do SeaTable: O SeaTable 2.0 foi hoje carregado no [SeaTable Cloud](https://cloud.seatable.io) e lançado em [Docker](https://hub.docker.com/u/seatable) Hub para instalações privadas.
@@ -48,7 +49,7 @@ A coluna de classificações é apenas uma das várias inovações que tornam os
 
 Menos visível, mas ainda mais importante na aplicação, é a função acrescentada no SeaTable 2.0 para utilizar colunas de ligação em formulários. Este tipo de coluna oferece significativamente mais flexibilidade do que colunas de selecção únicas, permitindo assim levantamentos ainda mais detalhados.
 
-Completamente invisível no editor, mas ainda mais poderosa na aplicação, é a função de valor predefinido para campos de formulário. Para preencher previamente um campo de formulário com um valor por defeito, adicione '?prefill\_COLUMNNAME=PREFILLVALUE' ao URL do formulário. (COLUMNAME é o nome da coluna cujo campo deve ser pré-preenchido; PREFILLVALUE é o valor a ser inserido. Os espaços nos nomes das colunas devem ser escritos como "%20" e são sensíveis às maiúsculas e minúsculas). Naturalmente, vários campos do formulário podem também ser fornecidos com valores por defeito. Para este efeito, vários pares COLUMNNAME-PREFILLVALUE são ligados com o sinal de E comercial ("&").
+Completamente invisível no editor, mas ainda mais poderosa na aplicação, é a função de valor predefinido para campos de formulário. Para preencher previamente um campo de formulário com um valor por defeito, adicione '?prefill_COLUMNNAME=PREFILLVALUE' ao URL do formulário. (COLUMNAME é o nome da coluna cujo campo deve ser pré-preenchido; PREFILLVALUE é o valor a ser inserido. Os espaços nos nomes das colunas devem ser escritos como "%20" e são sensíveis às maiúsculas e minúsculas). Naturalmente, vários campos do formulário podem também ser fornecidos com valores por defeito. Para este efeito, vários pares COLUMNNAME-PREFILLVALUE são ligados com o sinal de E comercial ("&").
 
 ## Tipo de coluna #24: Geoposição
 

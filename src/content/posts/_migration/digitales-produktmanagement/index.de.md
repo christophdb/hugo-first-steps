@@ -1,9 +1,10 @@
 ---
-title: "Wie Sie mit SeaTable ein digitales Produktmanagement schaffen - SeaTable"
+title: 'Wie Sie mit SeaTable ein digitales Produktmanagement schaffen - SeaTable'
 date: 2021-10-07
-lastmod: "2023-07-11"
-author: "ott"
-url: "/de/digitales-produktmanagement"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/de/digitales-produktmanagement'
+color: '#eeeeee'
 ---
 
 Digitales Produktmanagement ist im heutigen Zeitalter unabdingbar im Umgang mit Produkten. Denn digital ist vieles so viel einfacher, als es noch früher war. Dabei ist es ein Ziel, die verschiedenen Schnittstellen des ganzen Produktmanagements von Beginn bis Ende abzubilden und dabei alle Informationen vollständig und kompakt zusammen zu tragen. Oft wird dabei zwischen verschiedenen Programmen und Tools hin- und hergewechselt – mit SeaTable ist das nicht mehr nötig.
@@ -56,7 +57,7 @@ In unserem Beispiel haben wir direkt Berechnungen für die Marge angelegt, um zu
 
 Im rechten Teil des Bilds sehen Sie Verknüpfungen zur Tabelle “Catalogue” und “Projects”. Die erste Verknüpfung dient dazu, einige Daten aus dem Produktdatenblatt korrekt an den Katalog weiterzugeben, da einige Informationen gleich sind. Die Tabelle “Product Data” dient dabei als Master-Tabelle; immer, wenn dort Dinge, wie etwa der Einkaufs-Preis, geändert werden, so ändern sich diese Werte durch die Verknüpfung automatisch auch im Katalog. Auf diese Weise müssen EK-Preise nicht mehr manuell geändert werden.
 
-Die Verbindung zur Tabelle “Projects” dient dazu, das Projektmanagement um diese Produkte direkt mit dem Produktdatenblatt zu verbinden. Somit sind geplante, laufende und abgeschlossene Projekte und Marketingmaßnahmen rund um die Produkte mit den Produkten selbst verknüpft und Ihr digitales Produktmanagement wird zu einer runden Sache.  
+Die Verbindung zur Tabelle “Projects” dient dazu, das Projektmanagement um diese Produkte direkt mit dem Produktdatenblatt zu verbinden. Somit sind geplante, laufende und abgeschlossene Projekte und Marketingmaßnahmen rund um die Produkte mit den Produkten selbst verknüpft und Ihr digitales Produktmanagement wird zu einer runden Sache.
 
 ## Projektmanagement und Aufgabenverwaltung
 

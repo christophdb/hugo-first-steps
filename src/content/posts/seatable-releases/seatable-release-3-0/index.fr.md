@@ -1,9 +1,10 @@
 ---
-title: "SeaTable 3.0 : Validation des données, éditeurs web Office et nouveau backend de stockage - SeaTable"
+title: 'SeaTable 3.0 : Validation des données, éditeurs web Office et nouveau backend de stockage - SeaTable'
 date: 2022-06-21
-lastmod: "2022-06-27"
-author: "rdb"
-url: "/fr/seatable-release-3-0"
+lastmod: '2022-06-27'
+author: 'rdb'
+url: '/fr/seatable-release-3-0'
+color: '#eeeeee'
 ---
 
 La version 3.0 de SeaTable est arrivée ! La troisième version majeure de SeaTable offre l'édition en ligne de documents Office, une validation automatique des données, davantage de fonctions pour les jeux de données partagés et un nouveau composant serveur pour un stockage plus efficace des bases. Comme toujours, le [changelog](/fr/docs/changelog/version-3-0/) fournit des informations sur les nombreuses autres améliorations détaillées et corrections de bugs de la nouvelle version. [Les utilisateurs de SeaTable Cloud](https://cloud.seatable.io/) peuvent accéder aux nouvelles fonctions dès maintenant. L'image de SeaTable 3.0 a été mise à disposition cette nuit sur [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  
@@ -37,7 +38,7 @@ L'édition en ligne est disponible dans tous les abonnements SeaTable Cloud, y c
 
 Les enregistrements partagés permettent de synchroniser les données d'une base vers une ou plusieurs autres bases. Ils sont particulièrement utiles lorsque vous souhaitez mettre des données à la disposition d'autres utilisateurs à des fins de traitement et d'enrichissement, mais que vous ne pouvez pas donner à ces utilisateurs le droit d'accéder à la liste que vous gérez ("liste maîtresse"). La version 3.0 contient plusieurs améliorations visant à simplifier la création, la synchronisation et la duplication d'ensembles de données partagés.
 
-![Les jeux de données communs existants sont affichés dans la boîte de dialogue &quot;Nouveau jeu de données commun&quot;.](https://seatable.io/wp-content/uploads/2022/06/ExistingCDS.png)
+![Les jeux de données communs existants sont affichés dans la boîte de dialogue "Nouveau jeu de données commun".](https://seatable.io/wp-content/uploads/2022/06/ExistingCDS.png)
 
 À partir de la version 3.0 de SeaTable, la boîte de dialogue "Nouvel ensemble de données communes" affiche les ensembles de données communes déjà créés. Cela permet d'éviter de créer plusieurs fois des enregistrements communs.
 

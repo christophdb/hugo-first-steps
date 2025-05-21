@@ -1,9 +1,10 @@
 ---
-title: "Запуск продукта - гарантированная работа | SeaTable"
+title: 'Запуск продукта - гарантированная работа | SeaTable'
 date: 2020-09-24
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/ru/produktlaunch-so-funktioniert-es-garantiert"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/ru/produktlaunch-so-funktioniert-es-garantiert'
+color: '#eeeeee'
 ---
 
 Как только вы успешно завершили процесс разработки продукта, ничто не стоит на пути к его запуску.

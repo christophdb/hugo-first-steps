@@ -1,9 +1,10 @@
 ---
-title: "Remote Sales Teams: Bewährte Praktiken für effektives Arbeiten"
+title: 'Remote Sales Teams: Bewährte Praktiken für effektives Arbeiten'
 date: 2023-06-06
-lastmod: "2023-06-28"
-author: "nsc2"
-url: "/de/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten"
+lastmod: '2023-06-28'
+author: 'nsc2'
+url: '/de/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
+color: '#eeeeee'
 ---
 
 Die Umstände im Jahr 2020 haben die Art und Weise, wie in Unternehmen gearbeitet wird, erheblich verändert. Gemäß einer kürzlich durchgeführten [Gallup-Umfrage](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx) möchten 9 von 10 Remote-Arbeitnehmern diese Arbeitsweise in gewissem Umfang beibehalten.

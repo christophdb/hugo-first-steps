@@ -1,9 +1,10 @@
 ---
-title: "La planificación de la boda perfecta con SeaTable - SeaTable"
+title: 'La planificación de la boda perfecta con SeaTable - SeaTable'
 date: 2021-07-22
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/es/hochzeitsplanung-wedding-planner"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/es/hochzeitsplanung-wedding-planner'
+color: '#eeeeee'
 ---
 
 Uno de los días más bonitos e importantes de la vida está a la vuelta de la esquina: tu propia boda. Nada debería salir mal aquí, por lo que la planificación estructurada de la boda es de gran importancia para la mayoría de las parejas. ¿Qué hay que hacer 12 meses antes de la boda, qué hay que hacer 5 meses antes del gran día? Si no dispone de medios económicos para contratar a un organizador de bodas profesional, o si simplemente le gusta planificar su propia boda, SeaTable le ayuda a no perder la visión de conjunto al planificar su boda.
@@ -38,7 +39,7 @@ Además de la lista de control para la planificación de la boda, hemos creado o
 Hemos preparado 5 puntos de vista diferentes para ayudarte a tomar 5 decisiones importantes:
 
 1. Para la selección del lugar está la vista _Lugares de Boda_
-2. Para la selección de fotógrafos y _videógrafos_está la vista _Fotógrafo/ Videógrafo_
+2. Para la selección de fotógrafos y _videógrafos_está la vista \_Fotógrafo/ Videógrafo_
 3. Para la decoración está la vista _Floristería_
 4. Para el entretenimiento está la vista _Entertainment_
 5. Para la comida está la vista de los posibles _servicios de catering_

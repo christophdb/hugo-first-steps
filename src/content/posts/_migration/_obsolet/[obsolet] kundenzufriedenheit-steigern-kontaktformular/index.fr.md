@@ -1,9 +1,10 @@
 ---
-title: "Améliorez la satisfaction de vos clients avec ce formulaire de contact de SeaTable - SeaTable"
+title: 'Améliorez la satisfaction de vos clients avec ce formulaire de contact de SeaTable - SeaTable'
 date: 2021-09-10
-lastmod: "2023-07-11"
-author: "ott"
-url: "/fr/kundenzufriedenheit-steigern-kontaktformular"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/fr/kundenzufriedenheit-steigern-kontaktformular'
+color: '#eeeeee'
 ---
 
 Améliorer la satisfaction des clients est aujourd'hui essentiel pour le succès des entreprises. Sans clients satisfaits, il n'y a pas de base pour les recommandations personnelles et [le bouche-à-oreille](https://www.sem-deutschland.de/inbound-marketing-agentur/online-marketing-glossar/was-ist-word-of-mouth-marketing/), l'un des outils les plus importants lorsqu'il s'agit de construire une portée. Pire encore : les clients insatisfaits expriment bien plus facilement leur opinion que les clients satisfaits. Et sur Internet, les mauvaises évaluations entraînent très rapidement des problèmes d'image à long terme.

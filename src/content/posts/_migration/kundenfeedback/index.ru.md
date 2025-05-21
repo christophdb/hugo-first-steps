@@ -1,9 +1,10 @@
 ---
-title: "Обратная связь с клиентами 2.0: ваше полное руководство - SeaTable"
+title: 'Обратная связь с клиентами 2.0: ваше полное руководство - SeaTable'
 date: 2021-09-24
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/ru/kundenfeedback"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/ru/kundenfeedback'
+color: '#eeeeee'
 ---
 
 Отзывы клиентов являются основой для принятия важных решений для многих компаний. Независимо от того, являетесь ли вы стартапом, устоявшейся компанией или работаете самостоятельно, отзывы ваших клиентов помогают вам [постоянно совершенствовать](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/) свой [продукт](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/). С помощью нашего [онлайн-инструмента](https://seatable.io/ru/vorlage/ku9n1tyosmmho-8trn7rdg/) вы получите комплексное решение, которое позволит вам:

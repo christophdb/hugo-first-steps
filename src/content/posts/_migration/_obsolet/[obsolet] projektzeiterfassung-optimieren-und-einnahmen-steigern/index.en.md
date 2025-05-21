@@ -1,10 +1,11 @@
 ---
-title: "How to optimize your project time tracking - SeaTable"
+title: 'How to optimize your project time tracking - SeaTable'
 date: 2021-05-03
-lastmod: "2023-07-11"
-coverImage: "zeiterfassung-mit-seatable.jpg"
-author: "ott"
-url: "/projektzeiterfassung-optimieren-und-einnahmen-steigern"
+lastmod: '2023-07-11'
+coverImage: 'zeiterfassung-mit-seatable.jpg'
+author: 'ott'
+url: '/projektzeiterfassung-optimieren-und-einnahmen-steigern'
+color: '#eeeeee'
 ---
 
 Many service providers know and dread it: project time tracking. Time tracking is unpopular and, in most cases, is not carried out as meticulously as it perhaps should be. Yet the motto here is "time is money"! Designers, architects and agencies know this problem and sometimes find it difficult to find a remedy.

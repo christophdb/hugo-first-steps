@@ -1,9 +1,10 @@
 ---
-title: "Плагины для более эффективного рабочего процесса | SeaTable"
+title: 'Плагины для более эффективного рабочего процесса | SeaTable'
 date: 2020-08-18
-lastmod: "2023-05-17"
-author: "rbu"
-url: "/ru/seatable-plugins"
+lastmod: '2023-05-17'
+author: 'rbu'
+url: '/ru/seatable-plugins'
+color: '#eeeeee'
 ---
 
 ## Познакомьтесь с плагинами SeaTable

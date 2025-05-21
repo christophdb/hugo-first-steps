@@ -1,9 +1,10 @@
 ---
-title: "Frais de déplacement : tout ce que vous devez savoir"
+title: 'Frais de déplacement : tout ce que vous devez savoir'
 date: 2025-01-17
-lastmod: "2025-01-17"
-author: "nsc"
-url: "/fr/reisekostenabrechnung"
+lastmod: '2025-01-17'
+author: 'nsc'
+url: '/fr/reisekostenabrechnung'
+color: '#eeeeee'
 ---
 
 La loi sur l'impôt sur le revenu décrit trois catégories de **dépenses** que les travailleurs peuvent se faire **rembourser** par leur entreprise. Outre les commandes passées au nom de l'entreprise et les dépenses effectuées pour exécuter une commande, cela concerne également les **déplacements professionnels**. Qu'il s'agisse d'un voyage d'affaires de plusieurs jours, d'une réunion avec un client éloigné ou d'un déplacement à un salon, les déplacements professionnels font partie du quotidien de nombreux travailleurs. Dans l'article suivant, vous découvrirez non seulement ce qu'est une **note de frais**, mais vous obtiendrez également de précieux conseils pour l'établir.

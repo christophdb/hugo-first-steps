@@ -1,10 +1,11 @@
 ---
-title: "SeaTable 1.3: A wave of new features and improvements - SeaTable"
+title: 'SeaTable 1.3: A wave of new features and improvements - SeaTable'
 date: 2020-09-14
-lastmod: "2022-01-24"
-coverImage: "michael-shannon.jpg"
-author: "mwu"
-url: "/seatable-release-1-3"
+lastmod: '2022-01-24'
+coverImage: 'michael-shannon.jpg'
+author: 'mwu'
+url: '/seatable-release-1-3'
+color: '#eeeeee'
 ---
 
 The September release, uploaded on September 14, brings plenty of new features, functionalities and user experience improvements to ALL users. The hottest new addition is SeaTable’s scripting engine. Other great new features are the seamless integration of templates, conditional row formatting, a new print function and the new column type auto number. And this is by far not all. For the full list of changes, check our [Changelog](https://seatable.io/en/docs/changelog/version-1-3/). Living up to its name, SeaTable offers an ocean of possibilities. [Register now](https://seatable.io/en/registrierung/) and hit the waves.

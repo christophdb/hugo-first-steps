@@ -1,9 +1,10 @@
 ---
-title: "Wie der Ventil Verlag seine internen Abläufe auf ein neues Level hebt - SeaTable"
+title: 'Wie der Ventil Verlag seine internen Abläufe auf ein neues Level hebt - SeaTable'
 date: 2021-01-27
-lastmod: "2023-07-11"
-author: "cdb"
-url: "/es/ventil-verlag"
+lastmod: '2023-07-11'
+author: 'cdb'
+url: '/es/ventil-verlag'
+color: '#eeeeee'
 ---
 
 Der Ventil Verlag braucht ein flexibles Organisationstool für seine internen Verlagsprozesse. Die vielfältigen und kleinen Organisationsaufgaben, die sich in keiner Standardsoftware sinnvoll abbilden lassen, haben den Ventil Verlag zu SeaTable geführt.

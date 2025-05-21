@@ -1,9 +1,10 @@
 ---
-title: "Feedback do Cliente 2.0: O seu guia final - SeaTable"
+title: 'Feedback do Cliente 2.0: O seu guia final - SeaTable'
 date: 2021-09-24
-lastmod: "2023-07-11"
-author: "rbu"
-url: "/pt/kundenfeedback"
+lastmod: '2023-07-11'
+author: 'rbu'
+url: '/pt/kundenfeedback'
+color: '#eeeeee'
 ---
 
 O feedback dos clientes é a base para decisões importantes para muitas empresas. Não importa se é um start-up, uma empresa estabelecida ou se trabalha de forma independente, o feedback dos seus clientes ajuda-o a [melhorar constantemente](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/) o seu [produto](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/). Com a nossa [ferramenta online](https://seatable.io/pt/vorlage/ku9n1tyosmmho-8trn7rdg/), obtém uma solução abrangente que lhe permite fazê-lo:

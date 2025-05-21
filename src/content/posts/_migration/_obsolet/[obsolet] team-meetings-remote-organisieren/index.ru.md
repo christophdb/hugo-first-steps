@@ -1,9 +1,10 @@
 ---
-title: "С помощью SeaTable легко организовывать удаленные собрания команды"
+title: 'С помощью SeaTable легко организовывать удаленные собрания команды'
 date: 2020-08-31
-lastmod: "2022-06-13"
-author: "rbu"
-url: "/ru/team-meetings-remote-organisieren"
+lastmod: '2022-06-13'
+author: 'rbu'
+url: '/ru/team-meetings-remote-organisieren'
+color: '#eeeeee'
 ---
 
 ## Организуйте еженедельные собрания коллектива с помощью SeaTable

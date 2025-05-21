@@ -1,9 +1,10 @@
 ---
-title: "4 variantes de bloqueo de tiempo para una mayor productividad - SeaTable"
+title: '4 variantes de bloqueo de tiempo para una mayor productividad - SeaTable'
 date: 2021-06-16
-lastmod: "2023-07-11"
-author: "ott"
-url: "/es/4-time-blocking-varianten-fuer-mehr-produktivitaet"
+lastmod: '2023-07-11'
+author: 'ott'
+url: '/es/4-time-blocking-varianten-fuer-mehr-produktivitaet'
+color: '#eeeeee'
 ---
 
 El trabajo diario suele ser estresante y a veces no sale como uno se había imaginado por la mañana. Tus planes del día se han visto completamente alterados por las llamadas telefónicas, las reuniones y los correos electrónicos y al final del día te preguntas: ¿qué he conseguido hacer realmente? Para evitar que estas situaciones vuelvan a producirse, debe familiarizarse con el bloqueo de tiempo.

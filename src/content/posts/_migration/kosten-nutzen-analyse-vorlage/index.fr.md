@@ -1,9 +1,10 @@
 ---
-title: "Réaliser une analyse coûts-bénéfices"
+title: 'Réaliser une analyse coûts-bénéfices'
 date: 2024-03-04
-lastmod: "2025-02-20"
-author: "cdb"
-url: "/fr/kosten-nutzen-analyse-vorlage"
+lastmod: '2025-02-20'
+author: 'cdb'
+url: '/fr/kosten-nutzen-analyse-vorlage'
+color: '#eeeeee'
 ---
 
 Dans le quotidien d'une entreprise, il n'est pas toujours facile de prendre les bonnes décisions. Vous devez tenir compte de nombreux aspects et facteurs et, souvent, évaluer l'impact de certaines mesures sans disposer de données empiriques. Le succès de votre entreprise dépend en particulier d'une chose : sur quelle base vos décisions sont prises. Il est bon que vous puissiez fonder vos décisions sur une base solide grâce à une **analyse coûts-bénéfices**.
@@ -69,15 +70,15 @@ Le magasin de meubles "Gemütlich Wohnen" emploie au total dix conseillers à la
 
 En contrepartie, il y a le bénéfice que pourrait apporter cette formation continue. Les **coûts** exacts de la formation, c'est-à-dire les frais de cours, l'hébergement, le déplacement et le manque à gagner, sont connus des propriétaires d'entreprise. Ils ont également défini un chiffre pour l'avenir en ce qui concerne **les bénéfices attendus** sous forme d'amélioration des processus de travail et d'augmentation du chiffre d'affaires. Afin d'évaluer le bien-fondé de cet investissement, les propriétaires d'entreprise réalisent l'analyse coûts-bénéfices suivante :
 
-| Facteur de charge | Coûts | Facteur d'utilité | Bénéfices attendus |
-| --- | --- | --- | --- |
-| Frais de formation | 2.500 € | amélioration des processus de travail | 3.300 € |
-| Frais de voyage | 1.500 € | augmentation du chiffre d'affaires | 16.000 € |
-| Nuit sur place | 1.650 € |  |  |
-| Perte de revenus | 2.200 € |  |  |
-|  |  |  |  |
-|  | Coût total |  | Avantages globaux |
-|  | 7.850 € |  | 19.300 € |
+| Facteur de charge  | Coûts      | Facteur d'utilité                     | Bénéfices attendus |
+| ------------------ | ---------- | ------------------------------------- | ------------------ |
+| Frais de formation | 2.500 €    | amélioration des processus de travail | 3.300 €            |
+| Frais de voyage    | 1.500 €    | augmentation du chiffre d'affaires    | 16.000 €           |
+| Nuit sur place     | 1.650 €    |                                       |                    |
+| Perte de revenus   | 2.200 €    |                                       |                    |
+|                    |            |                                       |                    |
+|                    | Coût total |                                       | Avantages globaux  |
+|                    | 7.850 €    |                                       | 19.300 €           |
 
 Grâce à l'ABC, les propriétaires de magasins peuvent comparer le coût total de 7.850 euros aux bénéfices totaux escomptés de plus de 19.000 euros. Ils voient ainsi que l'investissement prévu serait rentable à long terme.
 
@@ -86,11 +87,11 @@ Grâce à l'ABC, les propriétaires de magasins peuvent comparer le coût total 
 Outre l'analyse coûts-avantages classique, il existe [d'autres formes et méthodes](https://de.wikipedia.org/wiki/Kosten-Nutzen-Analyse) permettant de chiffrer la rentabilité des projets et de garantir une utilisation efficace des ressources financières.
 
 - **Études de minimisation des coûts / Cost-Minimization Studies :**  
-    Vous évaluez ici les coûts de différentes méthodes (p. ex. traitements dans le domaine de la santé) et les comparez entre elles. Chaque méthode doit produire un résultat comparable (par exemple un rétablissement complet). La méthode la moins chère l'emporte.
+   Vous évaluez ici les coûts de différentes méthodes (p. ex. traitements dans le domaine de la santé) et les comparez entre elles. Chaque méthode doit produire un résultat comparable (par exemple un rétablissement complet). La méthode la moins chère l'emporte.
 - **Analyse coût-efficacité / Cost-Effectiveness Analysis :**  
-    Il s'agit d'un instrument permettant d'évaluer la rentabilité de projets dont les avantages ne peuvent pas être mesurés en termes monétaires (par exemple, vies humaines sauvées, clients satisfaits, amélioration de la qualité de l'environnement). Le résultat est un quotient des coûts ou des unités monétaires divisé par les bénéfices ou les unités de résultats.
+   Il s'agit d'un instrument permettant d'évaluer la rentabilité de projets dont les avantages ne peuvent pas être mesurés en termes monétaires (par exemple, vies humaines sauvées, clients satisfaits, amélioration de la qualité de l'environnement). Le résultat est un quotient des coûts ou des unités monétaires divisé par les bénéfices ou les unités de résultats.
 - **Analyse coût-utilité / Cost-Utility Analysis :**  
-    Cette analyse fait partie des méthodes qualitatives et non monétaires de la théorie de la décision. Elle permet d'évaluer des situations complexes et de minimiser le risque de prendre de mauvaises décisions en intégrant des facteurs non mesurables en termes monétaires, tels que l'amélioration de la qualité.
+   Cette analyse fait partie des méthodes qualitatives et non monétaires de la théorie de la décision. Elle permet d'évaluer des situations complexes et de minimiser le risque de prendre de mauvaises décisions en intégrant des facteurs non mesurables en termes monétaires, tels que l'amélioration de la qualité.
 
 ## Vous trouverez ici un modèle adapté
 
