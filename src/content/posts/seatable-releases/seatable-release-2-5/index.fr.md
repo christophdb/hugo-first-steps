@@ -11,13 +11,13 @@ La version 2.5 de SeaTable est arrivée ! La nouvelle image Docker a déjà ét�
 
 ## Fonction d'archivage révisée
 
-Depuis l'introduction de l'archive en tant que fonction bêta dans la [version 2.3](/fr/seatable-release-2-3/?lang=auto), nos développeurs ont travaillé sans relâche pour que la fonction d'archive soit prête à être utilisée en production. Nous n'avons pas encore atteint cet objectif avec la version 2.5, mais la nouvelle version représente un pas de géant dans cette direction.
+Depuis l'introduction de l'archive en tant que fonction bêta dans la [version 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}), nos développeurs ont travaillé sans relâche pour que la fonction d'archive soit prête à être utilisée en production. Nous n'avons pas encore atteint cet objectif avec la version 2.5, mais la nouvelle version représente un pas de géant dans cette direction.
 
 La fonction d'archivage prend désormais en charge les 24 colonnes, y compris les trois types de colonnes : formule, lien et formule pour lien. L'absence d'accès en écriture aux données d'archives reste une limitation dans SeaTable 2.5, mais ces trois colonnes sont des cas particuliers : Les valeurs dans les deux colonnes Formule sont calculées dynamiquement, en fonction de la spécification de la formule. Si une formule est modifiée, les valeurs dans les lignes archivées sont recalculées. Si l'utilisateur modifie la colonne de référence dans une formule pour les liens, les données archivées reflètent cette modification. Il en va de même pour la colonne des liens. Un changement de la colonne d'affichage s'effectue de la même manière dans l'ensemble des données, archives comprises. De cette manière, les données archivées restent comparables aux données non archivées.
 
 ![La nouvelle vue des archives de SeaTable](https://seatable.io/wp-content/uploads/2021/11/archive-view.jpg)
 
-SeaTable 2.5 ajoute également une fonction d'impression pour les vues d'archives et permet désormais de masquer des colonnes individuelles dans une telle vue. Une fonction de recherche et une fonction d'exportation Excel ont déjà été implémentées dans [SeaTable 2.4](/fr/seatable-release-2-4/?lang=auto).
+SeaTable 2.5 ajoute également une fonction d'impression pour les vues d'archives et permet désormais de masquer des colonnes individuelles dans une telle vue. Une fonction de recherche et une fonction d'exportation Excel ont déjà été implémentées dans [SeaTable 2.4]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}).
 
 ## Opérations de traitement des données optimisées
 
@@ -25,7 +25,7 @@ Les opérations de traitement des données de SeaTable sont souvent nécessaires
 
 L'opération Comparer et relier crée automatiquement des liens entre des lignes similaires dans deux tableaux. Elle permet de convertir des tableaux Excel en une base de données relationnelle en un clin d'œil. La nouveauté de SeaTable 2.5 est la prise en charge de tous les principaux types de colonnes (y compris les colonnes à sélection simple) pour la définition de la règle de comparaison. En outre, l'opération offre désormais une plus grande flexibilité dans le cas où les tableaux sont déjà liés deux fois. Dans ce cas, l'utilisateur est invité à sélectionner les colonnes dans lesquelles les liens doivent être ajoutés via un menu déroulant.
 
-L'opération Calculer les valeurs cumulées calcule des totaux interlignes pour les colonnes de données numériques - une fonction standard dans Excel. L'opération est disponible depuis l'introduction de la fonction de traitement des données dans [SeaTable 2.1](/fr/seatable-release-2-1/?lang=auto), mais elle a été adaptée en fonction des commentaires des utilisateurs. Concrètement, la gestion de la toute première colonne a été critiquée. Maintenant que l'opération a été retravaillée, elle additionne uniquement les données de la colonne source et écrit les résultats dans la colonne des résultats.
+L'opération Calculer les valeurs cumulées calcule des totaux interlignes pour les colonnes de données numériques - une fonction standard dans Excel. L'opération est disponible depuis l'introduction de la fonction de traitement des données dans [SeaTable 2.1]({{< relref "posts/seatable-releases/seatable-release-2-1" >}}), mais elle a été adaptée en fonction des commentaires des utilisateurs. Concrètement, la gestion de la toute première colonne a été critiquée. Maintenant que l'opération a été retravaillée, elle additionne uniquement les données de la colonne source et écrit les résultats dans la colonne des résultats.
 
 ## Nouveaux automatismes et déclencheurs
 

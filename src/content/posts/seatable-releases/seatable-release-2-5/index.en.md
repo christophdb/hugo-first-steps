@@ -12,13 +12,13 @@ SeaTable 2.5 is out now! The new Docker image was uploaded to Docker Hub at the 
 
 ## Upgraded archive function
 
-Introduced in [SeaTable 2.3](/en/seatable-release-2-3/?lang=auto) as a beta function, our developers have been working tirelessly to push the archive function towards production-readiness. Although we are not quite there yet, SeaTable 2.5 makes great strides in this direction!
+Introduced in [SeaTable 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) as a beta function, our developers have been working tirelessly to push the archive function towards production-readiness. Although we are not quite there yet, SeaTable 2.5 makes great strides in this direction!
 
 The archive function now supports all 24 columns, including the three column types formula, link and formula for link. The lack of write access to the archive data remains a limitation in SeaTable 2.5, but these three columns are special cases: Values in the two formula columns are calculated dynamically, depending on the specification of the formula. If a formula is changed, then the values in the archived rows are recalculated. If the user changes the look-up column in a formula for links, the archive data reflects this change. The same applies to the link column. A change in the display column is made equally in the entire dataset, archive included. In this way, the archived data remains comparable with the non-archived data.
 
 ![The revised archive view of SeaTable](images/archive-view.jpg)
 
-SeaTable 2.5 also adds a print function for archive views and supports hiding columns. A search function as well as an export to Excel function were already implemented in [SeaTable 2.4](/en/seatable-release-2-4/?lang=auto).
+SeaTable 2.5 also adds a print function for archive views and supports hiding columns. A search function as well as an export to Excel function were already implemented in [SeaTable 2.4]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}).
 
 ## Optimized data processing operations
 
@@ -26,7 +26,7 @@ SeaTable's data processing operations are often needed for migrating Excel appli
 
 The Compare and Link operation automatically creates links between similar rows in two tables. With it, the conversion of Excel tables into a relational database is done in no time. New in SeaTable 2.5 is the support of all important column types (incl. single selection columns) for the definition of the compare rule. In addition, the operation now also offers more flexibility in the event that the tables are already double-linked. In this case, the user is prompted to select the columns in which the links are to be added via a drop-down menu.
 
-The Calculate Cumulative Values operation calculates totals across rows for columns of numeric data - a standard function in Excel. The operation has been available since the introduction of the data processing function in [SeaTable 2.1,](/en/seatable-release-2-1/?lang=auto) but has now been adapted based on user feedback. Specifically, the handling of the very first column was criticised. Now after the revision, the operation sums exclusively via the source column and writes the results to the result column.
+The Calculate Cumulative Values operation calculates totals across rows for columns of numeric data - a standard function in Excel. The operation has been available since the introduction of the data processing function in [SeaTable 2.1,]({{< relref "posts/seatable-releases/seatable-release-2-1" >}}) but has now been adapted based on user feedback. Specifically, the handling of the very first column was criticised. Now after the revision, the operation sums exclusively via the source column and writes the results to the result column.
 
 ## New automation actions and triggers
 

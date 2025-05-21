@@ -23,7 +23,7 @@ Y eso no es todo. También hemos ampliado las opciones de formato de la columna 
 
 ## Tipo de columna # 20: Correo electrónico
 
-El nuevo tipo de columna E-mail almacena las direcciones de correo electrónico. Al hacer clic en una celda rellenada, se abre automáticamente la aplicación Mail y se copia la dirección en la fila Para:. Por lo tanto, puede proceder directamente a redactar el correo electrónico. Las celdas de la columna de correo electrónico se comportan de forma muy similar a las celdas de la columna de tipo de URL introducida en [SeaTable 1.4.](/es/seatable-release-1-4/)
+El nuevo tipo de columna E-mail almacena las direcciones de correo electrónico. Al hacer clic en una celda rellenada, se abre automáticamente la aplicación Mail y se copia la dirección en la fila Para:. Por lo tanto, puede proceder directamente a redactar el correo electrónico. Las celdas de la columna de correo electrónico se comportan de forma muy similar a las celdas de la columna de tipo de URL introducida en [SeaTable 1.4.]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})
 
 ![Columna de correo electrónico en el formulario web](images/Column_Type_Email_Form.jpg)
 

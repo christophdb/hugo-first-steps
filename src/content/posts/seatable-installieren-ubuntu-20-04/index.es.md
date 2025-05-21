@@ -24,7 +24,7 @@ Por supuesto, debería prever más espacio en el disco duro que el mencionado pa
 
 No es un requisito previo, pero sí útil, que se pueda acceder al servidor a través de una dirección IPv4 estática. Esto maximiza la accesibilidad del servidor durante los desplazamientos. En Europa, todavía hay [redes móviles que no soportan IPv6](https://www.datamate.org/status-der-ipv6-implementierung-in-mobilfunknetzen-in-dach/). No se puede acceder a su servidor SeaTable a través de una red de este tipo si no tiene una dirección IPv4.
 
-En caso de que los puertos 80 y/o 443 ya estén ocupados en su servidor, encontrará todo lo que necesita saber para la instalación en su situación en el artículo [Instalación de SeaTable Enterprise en su propio servidor detrás de un servidor web](/es/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren?lang=auto).
+En caso de que los puertos 80 y/o 443 ya estén ocupados en su servidor, encontrará todo lo que necesita saber para la instalación en su situación en el artículo [Instalación de SeaTable Enterprise en su propio servidor detrás de un servidor web]({{< relref "posts/seatable-installieren-webserver" >}}).
 
 ¿Estás listo? ¡Vamos! Suponemos que tiene un shell de root abierto en su servidor.
 
@@ -113,7 +113,7 @@ Puede encontrar más información sobre la integración de su propio certificado
 
 Puede utilizar SeaTable Enterprise Edition con todas las funciones sin necesidad de una licencia de pago con un máximo de tres usuarios, tanto de forma privada como comercial y también de forma permanente. Por esta razón, no necesitas una licencia para empezar.
 
-Sin embargo, si quiere crear más de tres usuarios en SeaTable, éste se negará a hacerlo. Puede obtener una licencia en [nuestro departamento de ventas](/es/kontakt/?lang=auto). Puede encontrar más información sobre los precios de SeaTable Enterprise en nuestra [página de precios](/es/preise/?lang=auto).
+Sin embargo, si quiere crear más de tres usuarios en SeaTable, éste se negará a hacerlo. Puede obtener una licencia en [nuestro departamento de ventas]({{< relref "pages/contact" >}}). Puede encontrar más información sobre los precios de SeaTable Enterprise en nuestra [página de precios]({{< relref "pages/prices" >}}).
 
 Para activar la licencia, guarde el archivo de licencia, un archivo TXT, en la carpeta /opt/seatable/seatable-data/seatable y reinicie SeaTable:
 

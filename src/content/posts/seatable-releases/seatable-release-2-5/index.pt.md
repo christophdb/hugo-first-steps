@@ -11,13 +11,13 @@ A SeaTable 2.5 está aqui! A nova imagem Docker foi disponibilizada em Docker Hu
 
 ## Função de arquivo revista
 
-Desde a introdução do arquivo como função beta na [versão 2.3,](/pt/seatable-release-2-3/?lang=auto) os nossos criadores têm trabalhado sem parar para que a função de arquivo fique pronta para uma utilização produtiva. Com a versão 2.5, ainda não atingimos este objectivo, mas a nova versão representa um enorme passo nessa direcção.
+Desde a introdução do arquivo como função beta na [versão 2.3,]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) os nossos criadores têm trabalhado sem parar para que a função de arquivo fique pronta para uma utilização produtiva. Com a versão 2.5, ainda não atingimos este objectivo, mas a nova versão representa um enorme passo nessa direcção.
 
 A função de arquivo suporta agora todas as 24 colunas, incluindo os três tipos de coluna fórmula, link e fórmula para link. A falta de acesso por escrito aos dados do arquivo continua a ser uma limitação no SeaTable 2.5, mas estas três colunas são casos especiais: Os valores nas duas colunas de fórmula são calculados dinamicamente, dependendo da especificação da fórmula. Se uma fórmula for alterada, então os valores nas filas arquivadas são recalculados. Se o utilizador alterar a coluna de consulta numa fórmula para ligações, os dados arquivados reflectem esta alteração. O mesmo se aplica à coluna de ligação. Uma alteração na coluna de visualização ocorre igualmente em todo o conjunto de dados, incluindo o arquivo. Desta forma, os dados arquivados permanecem comparáveis com os dados não arquivados.
 
 ![A visão revista do arquivo do SeaTable](https://seatable.io/wp-content/uploads/2021/11/archive-view.jpg)
 
-SeaTable 2.5 também acrescenta uma função de impressão para vistas de arquivo e agora também permite a ocultação de colunas individuais em tal vista. Uma função de pesquisa e uma função de exportação Excel já foram implementadas no [SeaTable 2.4](/pt/seatable-release-2-4/?lang=auto).
+SeaTable 2.5 também acrescenta uma função de impressão para vistas de arquivo e agora também permite a ocultação de colunas individuais em tal vista. Uma função de pesquisa e uma função de exportação Excel já foram implementadas no [SeaTable 2.4]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}).
 
 ## Operações optimizadas de processamento de dados
 
@@ -25,7 +25,7 @@ As operações de processamento de dados da SeaTable são frequentemente necess�
 
 A operação Comparar e Ligar cria automaticamente ligações entre filas semelhantes em duas tabelas. Com ele, a conversão das tabelas Excel numa base de dados relacional é feita em pouco tempo. Novo no SeaTable 2.5 é o suporte de todos os tipos de colunas importantes (incl. colunas de selecção únicas) para a definição da regra de comparação. Além disso, a operação oferece agora também mais flexibilidade no caso de as tabelas já estarem ligadas duas vezes. Neste caso, o utilizador é solicitado a seleccionar as colunas nas quais as ligações devem ser adicionadas através de um menu drop-down.
 
-A operação Calcular Valores Acumulados calcula totais entre linhas para colunas de dados numéricos - uma função padrão em Excel. A operação tem estado disponível desde a introdução da função de processamento de dados no [SeaTable 2.1,](/pt/seatable-release-2-1/?lang=auto) mas foi agora adaptada com base no feedback do utilizador. Especificamente, o tratamento da primeira coluna foi criticado. Agora, após a revisão, a operação soma exclusivamente através da coluna de origem e escreve os resultados na coluna de resultados.
+A operação Calcular Valores Acumulados calcula totais entre linhas para colunas de dados numéricos - uma função padrão em Excel. A operação tem estado disponível desde a introdução da função de processamento de dados no [SeaTable 2.1,]({{< relref "posts/seatable-releases/seatable-release-2-1" >}}) mas foi agora adaptada com base no feedback do utilizador. Especificamente, o tratamento da primeira coluna foi criticado. Agora, após a revisão, a operação soma exclusivamente através da coluna de origem e escreve os resultados na coluna de resultados.
 
 ## Novas automatizações e gatilhos
 

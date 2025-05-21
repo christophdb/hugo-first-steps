@@ -12,7 +12,7 @@ This morning, [SeaTable Cloud](https://cloud.seatable.io) was updated to version
 
 ## Conditional formatting for columns
 
-Anyone who works regularly with [Excel](/en/die-besten-excel-alternativen-im-vergleich/) knows the conditional formatting function. With version 2.7, this function is now also available in SeaTable. With conditional formatting, you format or colour cells depending on their value (or the absence of such a value) and can thus carry out visual data structuring and data analysis.
+Anyone who works regularly with [Excel]({{< relref "pages/excel-alternative" >}}) knows the conditional formatting function. With version 2.7, this function is now also available in SeaTable. With conditional formatting, you format or colour cells depending on their value (or the absence of such a value) and can thus carry out visual data structuring and data analysis.
 
 For all columns, SeaTable offers rule-based conditional formatting. A rule is the description of a hypothetical content of a cell (e.g. value > 50 or date after 31.12.2021) and a formatting instruction. If the rule is fulfilled, the cell is formatted according to the instruction. Cleverly chosen rules can, among other things, make statistical outliers or unusual values easily recognisable. Of course, you can also define several rules per column to map demanding requirements.
 
@@ -58,4 +58,4 @@ Team administrators can now enforce 2-factor authentication for their team membe
 
 Until now, links from deleted and then restored rows remained lost. With version 2.7, links are also created again when a row is restored.
 
-The archive function introduced with [version 2.3](/en/seatable-release-2-3) has taken further steps towards productive use: entries can now be deleted from the archive and entries can also be edited. (Links, however, cannot yet be created or changed).
+The archive function introduced with [version 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) has taken further steps towards productive use: entries can now be deleted from the archive and entries can also be edited. (Links, however, cannot yet be created or changed).

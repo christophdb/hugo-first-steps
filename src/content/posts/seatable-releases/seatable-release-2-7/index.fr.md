@@ -11,7 +11,7 @@ Ce matin, [SeaTable Cloud](https://cloud.seatable.io) a été mis à jour à la 
 
 ## Mise en forme conditionnelle des colonnes
 
-Ceux qui travaillent régulièrement avec [Excel](/fr/die-besten-excel-alternativen-im-vergleich/) connaissent la fonction de mise en forme conditionnelle. Celle-ci fait désormais son entrée dans SeaTable avec la version 2.7. La mise en forme conditionnelle permet de formater ou de colorier des cellules en fonction de leur valeur (ou de l'absence de valeur), ce qui permet de structurer visuellement les données et de les analyser.
+Ceux qui travaillent régulièrement avec [Excel]({{< relref "pages/excel-alternative" >}}) connaissent la fonction de mise en forme conditionnelle. Celle-ci fait désormais son entrée dans SeaTable avec la version 2.7. La mise en forme conditionnelle permet de formater ou de colorier des cellules en fonction de leur valeur (ou de l'absence de valeur), ce qui permet de structurer visuellement les données et de les analyser.
 
 Pour toutes les colonnes, SeaTable propose une mise en forme conditionnelle basée sur des règles. Une règle est la description d'un contenu hypothétique d'une cellule (par exemple, valeur > 50 ou date postérieure au 31/12/2021) ainsi qu'une instruction de formatage. Si la règle est respectée, la cellule est formatée conformément à l'instruction. Des règles judicieusement choisies permettent entre autres de repérer facilement les valeurs statistiques aberrantes ou inhabituelles. Il est bien sûr possible de définir plusieurs règles par colonne afin de répondre à des exigences plus pointues.
 
@@ -57,4 +57,4 @@ Les administrateurs d'équipe peuvent dès à présent forcer l'authentification
 
 Jusqu'à présent, les raccourcis des lignes supprimées puis restaurées étaient perdus. Avec la version 2.7, les liens sont également recréés lors de la restauration d'une ligne.
 
-La fonction d'archivage introduite dans la [version 2.3](/fr/seatable-release-2-3) a fait de nouveaux pas en direction d'une utilisation productive : il est désormais possible de supprimer des entrées de l'archive et également de modifier des entrées. (Les liens ne peuvent cependant pas encore être créés ou modifiés).
+La fonction d'archivage introduite dans la [version 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) a fait de nouveaux pas en direction d'une utilisation productive : il est désormais possible de supprimer des entrées de l'archive et également de modifier des entrées. (Les liens ne peuvent cependant pas encore être créés ou modifiés).

@@ -11,7 +11,7 @@ Depuis quelques jours déjà, il était possible de télécharger les premières
 
 ## Bandeau-titre en couleur
 
-La couleur et la forme des icônes de la base sur la page d'accueil peuvent déjà être adaptées aux souhaits individuels depuis la [version 1.2](/fr/seatable-release-1-2/). La couleur de l'icône n'avait cependant aucun effet sur la couleur du bandeau-titre dans la base. Le bandeau-titre est resté orange.
+La couleur et la forme des icônes de la base sur la page d'accueil peuvent déjà être adaptées aux souhaits individuels depuis la [version 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}). La couleur de l'icône n'avait cependant aucun effet sur la couleur du bandeau-titre dans la base. Le bandeau-titre est resté orange.
 
 Dans la nouvelle version, nous avons éliminé cette lacune fonctionnelle. La couleur du bandeau-titre s'aligne désormais sur la couleur de l'icône de la base. Vous trouvez que le bleu vif de la capture d'écran est chic ? Eh bien, allons-y !
 
@@ -62,7 +62,7 @@ Jusqu'à présent, les données d'un enregistrement commun importé ne pouvaient
 
 De nombreuses autres améliorations méritent d'être mentionnées. Voici les plus importantes d'entre elles.
 
-La colonne de formules connaît deux nouvelles formules : Small() et Large() trouvent respectivement la valeur x la plus petite et la valeur x la plus grande dans une colonne. (Plus d'informations dans la [référence des formules](/fr/docs/handbuch/expertenwissen/formelreferenz/)).
+La colonne de formules connaît deux nouvelles formules : Small() et Large() trouvent respectivement la valeur x la plus petite et la valeur x la plus grande dans une colonne. (Plus d'informations dans la [référence des formules](https://seatable.io/fr/docs/handbuch/expertenwissen/formelreferenz/)).
 
 Pour les colonnes et les regroupements, il est désormais possible de calculer la médiane en plus de la somme, de la moyenne et des valeurs extrêmes.
 

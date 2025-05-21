@@ -21,7 +21,7 @@ Le plug-in de conception de page de SeaTable 3.4 permet pour la première fois l
 
 La nouvelle fonction "Adapter automatiquement le tableau au contenu" est disponible pour l'élément d'affichage "Toutes les entrées de la vue" ainsi que pour la représentation tabulaire des liens sous "Champs de tableau". Lorsque la fonction est activée, le caractère de remplacement pour l'élément de tableau (élément encadré en vert dans la capture d'écran) définit la longueur minimale du tableau à insérer. Si le tableau est plus long que le caractère de remplacement, celui-ci est automatiquement rallongé.
 
-L'ancienne fonction "Ajouter d'autres pages si la taille de l'espace réservé ne suffit pas à contenir toutes les entrées", introduite dans la [version 3.1](/fr/seatable-release-3-1), n'existe plus dans SeaTable 3.4 et est remplacée par une fonction plus puissante. Si elle était activée pour un modèle d'élément de tableau, la nouvelle fonction est automatiquement activée.
+L'ancienne fonction "Ajouter d'autres pages si la taille de l'espace réservé ne suffit pas à contenir toutes les entrées", introduite dans la [version 3.1]({{< relref "posts/seatable-releases/seatable-release-3-1" >}}), n'existe plus dans SeaTable 3.4 et est remplacée par une fonction plus puissante. Si elle était activée pour un modèle d'élément de tableau, la nouvelle fonction est automatiquement activée.
 
 ## Recherche sur plusieurs champs avec l'application Data Query
 
@@ -35,7 +35,7 @@ En présence de plusieurs champs de requête, un lien booléen ET s'applique tou
 
 ## Amélioration des formulaires web
 
-Dans [SeaTable 3.3](/fr/seatable-release-3-3/?lang=auto), nous avons fait évoluer l'éditeur de formulaires vers une conception en blocs. Il est ainsi possible d'organiser les champs dans n'importe quel ordre. Nous avons également introduit les éléments statiques que sont les annotations et les séparateurs. D'autres améliorations étaient en cours de développement, mais elles n'ont pas pu être intégrées dans la version de Noël. Nous nous en chargeons maintenant !
+Dans [SeaTable 3.3]({{< relref "posts/seatable-releases/seatable-release-3-3" >}}), nous avons fait évoluer l'éditeur de formulaires vers une conception en blocs. Il est ainsi possible d'organiser les champs dans n'importe quel ordre. Nous avons également introduit les éléments statiques que sont les annotations et les séparateurs. D'autres améliorations étaient en cours de développement, mais elles n'ont pas pu être intégrées dans la version de Noël. Nous nous en chargeons maintenant !
 
 L'éditeur de formulaires de SeaTable 3.4 offre la possibilité de définir un nom d'affichage pour chaque élément du formulaire, qui sera ensuite affiché dans le formulaire web au lieu du nom de la colonne. De cette manière, il est possible de nommer les colonnes du tableau indépendamment du formulaire Web : Les noms des colonnes peuvent être courts et concis, tandis que les noms des champs du formulaire peuvent être plus explicites pour faciliter l'utilisation. Cela vous donne encore plus de liberté dans la conception de vos formulaires web.
 

@@ -23,7 +23,7 @@ Et ce n'est pas tout ! Nous avons également étendu les options de format de la
 
 ## Type de colonne n° 20 : E-mail
 
-Le nouveau type de colonne E-mail permet de stocker les adresses électroniques. Un clic sur une cellule remplie ouvre automatiquement l'application Mail et copie l'adresse dans la ligne À :. Vous pouvez donc passer directement à la composition de l'e-mail. Les cellules de la colonne Email se comportent de manière très similaire à celles de la colonne Type d'URL introduite dans [SeaTable 1.4.](/fr/seatable-release-1-4/)
+Le nouveau type de colonne E-mail permet de stocker les adresses électroniques. Un clic sur une cellule remplie ouvre automatiquement l'application Mail et copie l'adresse dans la ligne À :. Vous pouvez donc passer directement à la composition de l'e-mail. Les cellules de la colonne Email se comportent de manière très similaire à celles de la colonne Type d'URL introduite dans [SeaTable 1.4.]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})
 
 ![Colonne de type email dans le formulaire web](images/Column_Type_Email_Form.jpg)
 

@@ -25,7 +25,7 @@ Of course, you should plan for more than the above-mentioned hard disk space in 
 
 It is not a prerequisite, but helpful, if the server can be reached via a static IPv4 address. This maximises the accessibility of the server while on the move. In Europe, there are still [mobile networks that do not yet support IPv6](https://www.datamate.org/status-der-ipv6-implementierung-in-mobilfunknetzen-in-dach/). Your SeaTable server cannot be reached via such a network if it does not have an IPv4 address.
 
-In case port 80 and/or 443 are already occupied on your server, you will find everything you need to know for the installation in your situation in the article [Installing SeaTable Enterprise on your own server behind a web server](/en/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren?lang=auto).
+In case port 80 and/or 443 are already occupied on your server, you will find everything you need to know for the installation in your situation in the article [Installing SeaTable Enterprise on your own server behind a web server]({{< relref "posts/seatable-installieren-webserver" >}}).
 
 You are ready? Let's go! We assume that you have a root shell open on your server.
 
@@ -114,7 +114,7 @@ You can find out more about integrating your own SSL certificate in the [SeaTabl
 
 You can use SeaTable Enterprise Edition with all functions without a paid licence with up to three users - privately as well as commercially and also permanently. For this reason, you do not need a licence to get started.
 
-However, if you want to create more than three users in SeaTable, SeaTable will refuse to do so. You can obtain a licence from [our sales department](/en/kontakt/?lang=auto). You can find more information about the prices of SeaTable Enterprise on our [pricing page](/en/preise/?lang=auto).
+However, if you want to create more than three users in SeaTable, SeaTable will refuse to do so. You can obtain a licence from [our sales department]({{< relref "pages/contact" >}}). You can find more information about the prices of SeaTable Enterprise on our [pricing page]({{< relref "pages/prices" >}}).
 
 To activate the licence, save the licence file, a TXT file, in the folder /opt/seatable/seatable-data/seatable and restart SeaTable:
 

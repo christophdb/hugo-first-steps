@@ -7,7 +7,7 @@ url: '/pt/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-inst
 color: '#eeeeee'
 ---
 
-No artigo [Instalando SeaTable Enterprise Edition sob Ubuntu Server 20.04 LTS](/pt/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren/?lang=auto) explicamos a instalação padrão de SeaTable Enterprise num servidor com Ubuntu Linux. Na instalação padrão, o SeaTable é instalado num servidor em que nenhuma outra aplicação web está em execução. Mas e se as portas 80 e 443 já estiverem ocupadas por outro serviço como um servidor web nginx ou Apache? Respondemos a esta pergunta neste artigo. Como verá, a resposta é encantadoramente simples.
+No artigo [Instalando SeaTable Enterprise Edition sob Ubuntu Server 20.04 LTS]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) explicamos a instalação padrão de SeaTable Enterprise num servidor com Ubuntu Linux. Na instalação padrão, o SeaTable é instalado num servidor em que nenhuma outra aplicação web está em execução. Mas e se as portas 80 e 443 já estiverem ocupadas por outro serviço como um servidor web nginx ou Apache? Respondemos a esta pergunta neste artigo. Como verá, a resposta é encantadoramente simples.
 
 ## Requisitos
 
@@ -29,7 +29,7 @@ SeaTable também pode ser criado num local diferente do directório /opt/seatabl
 
 ## Individualização de docker-compose.yml
 
-As instruções para a instalação padrão explicam a estrutura e função do ficheiro docker-compose. Isto não deve ser repetido aqui. Utilize [este link](/pt/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren/#Individualisierung_der_docker-composeyml?lang=auto) para saltar directamente para a parte relevante do artigo sobre a instalação padrão.
+As instruções para a instalação padrão explicam a estrutura e função do ficheiro docker-compose. Isto não deve ser repetido aqui. Utilize [este link]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) para saltar directamente para a parte relevante do artigo sobre a instalação padrão.
 
 No ficheiro YAML, é agora necessário fazer alguns ajustes, por um lado para ter em conta as suas próprias exigências, e por outro lado para permitir o funcionamento por detrás de um servidor web.
 

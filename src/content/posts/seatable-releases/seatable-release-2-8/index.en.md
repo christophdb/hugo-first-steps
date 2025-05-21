@@ -12,7 +12,7 @@ Early builds of SeaTable 2.8 have been available for download from [Docker](http
 
 ## Coloured title ribbon
 
-The colour and shape of the base icons on the homepage can already be adapted to individual wishes since [version 1.2.](/en/seatable-release-1-2/) However, the icon colour had no effect on the colour of the title band in Base. The title band remained orange.
+The colour and shape of the base icons on the homepage can already be adapted to individual wishes since [version 1.2.]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}) However, the icon colour had no effect on the colour of the title band in Base. The title band remained orange.
 
 In the new version we have eliminated this functional gap. The colour of the title band is now based on the colour of the base icon. You think the bright blue from the screenshot is chic? Well, go for it!
 
@@ -63,7 +63,7 @@ Until now, the data in an imported common data set could only be updated manuall
 
 There are numerous other improvements that deserve a mention. Here are the most important of them.
 
-The formula column knows two new formulas: Small() and Large() find the x-smallest or x-largest value in a column. (More in the [formula reference](/en/docs/handbuch/expertenwissen/formelreferenz/).)
+The formula column knows two new formulas: Small() and Large() find the x-smallest or x-largest value in a column. (More in the [formula reference](https://seatable.io/en/docs/handbuch/expertenwissen/formelreferenz/).)
 
 For columns and groupings, the median can now be calculated in addition to the sum, the average and the extreme values.
 

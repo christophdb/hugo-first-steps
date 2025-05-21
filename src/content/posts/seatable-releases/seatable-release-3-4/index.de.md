@@ -21,7 +21,7 @@ Das Seitendesign-Plugin in SeaTable 3.4 ermöglicht erstmals die dynamische Posi
 
 Die neue Funktion “Tabelle automatisch an Inhalt anpassen” gibt es für das Ansichtselement “Alle Einträge der Ansicht” sowie die tabellarische Darstellung von Verknüpfungen unter “Tabellenfelder”. Bei Aktivierung der Funktion definiert der Platzhalter für das Tabellenelement (grün umrahmtes Element im Screenshot) die Mindestlänge der einzufügenden Tabelle. Ist die Tabelle länger als der Platzhalter, wird dieser automatisch verlängert.
 
-Die bisherige Funktion “Weitere Seiten hinzufügen, wenn die Größe des Platzhalters nicht für alle Einträge ausreicht”, die in [Version 3.1](/seatable-release-3-1) eingeführt wurde, gibt es in SeaTable 3.4 nicht mehr und wird mit der leistungsfähigeren Funktion ersetzt. War sie bei einer Vorlage für ein Tabellenelement aktiviert, dann ist automatisch die neue Funktion aktiv.
+Die bisherige Funktion “Weitere Seiten hinzufügen, wenn die Größe des Platzhalters nicht für alle Einträge ausreicht”, die in [Version 3.1]({{< relref "posts/seatable-releases/seatable-release-3-1" >}}) eingeführt wurde, gibt es in SeaTable 3.4 nicht mehr und wird mit der leistungsfähigeren Funktion ersetzt. War sie bei einer Vorlage für ein Tabellenelement aktiviert, dann ist automatisch die neue Funktion aktiv.
 
 ## Suche über mehrere Felder mit der Data Query App
 
@@ -35,7 +35,7 @@ Bei mehreren Abfragefeldern gilt immer eine Boolesche UND-Verknüpfung, d.h. all
 
 ## Verbesserte Webformulare
 
-In [SeaTable 3.3](/seatable-release-3-3/?lang=auto) haben wir den Formular-Editor auf das Block-Design umgestellt. Dadurch wurde es möglich, Felder in beliebiger Reihenfolge anzuordnen. Ebenfalls neu eingeführt haben wir die statischen Elemente Anmerkungen und Trennlinie. In der Entwicklung waren tatsächlich noch weitere Verbesserungen, die es aber nicht mehr in das Weihnachtsrelease geschafft haben. Dies holen wir nun nach!
+In [SeaTable 3.3]({{< relref "posts/seatable-releases/seatable-release-3-3" >}}) haben wir den Formular-Editor auf das Block-Design umgestellt. Dadurch wurde es möglich, Felder in beliebiger Reihenfolge anzuordnen. Ebenfalls neu eingeführt haben wir die statischen Elemente Anmerkungen und Trennlinie. In der Entwicklung waren tatsächlich noch weitere Verbesserungen, die es aber nicht mehr in das Weihnachtsrelease geschafft haben. Dies holen wir nun nach!
 
 Der Formular-Editor von SeaTable 3.4 bietet die Option, für jedes Formularelement einen Anzeigenamen festzulegen, der dann im Webformular anstelle des Spaltennamens angezeigt wird. Auf diese Weise wird es möglich, die Spalten in der Tabelle losgelöst vom Webformular zu benennen: Die Spaltennamen können kurz und knapp sein, während die Namen der Formularfelder im Sinne der Benutzerfreundlichkeit etwas wortreicher ausfallen dürfen. So haben Sie noch mehr Freiheit bei der Gestaltung Ihrer Webformulare.
 

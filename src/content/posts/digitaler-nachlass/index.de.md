@@ -4,6 +4,7 @@ date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
 url: '/de/digitaler-nachlass'
+color: '#eeeeee'
 ---
 
 Im heutigen digitalen Zeitalter gewinnt unser **Online-Leben** immer weiter an Bedeutung: Wir kommunizieren über E-Mails, Messenger und soziale Medien, speichern wichtige Dateien und Fotos in der Cloud, betreiben Online-Banking und hinterlassen unzählige Spuren im Internet. Doch was passiert eigentlich mit all diesen Daten und Accounts, wenn man eines Tages stirbt? Stichwort: **digitaler Nachlass**.

@@ -40,7 +40,7 @@ HTML support is currently only implemented for emails sent via button. HTML emai
 
 ## Excel bulk import and export
 
-Thanks to the Big Data function introduced in [version 3.1,](/en/seatable-release-3-1/) you can permanently store millions of rows in one base. With version 3.3 you can now also conveniently fill this storage volume by importing data. Up to 500,000 rows can be imported in the new SeaTable version from an XLSX file directly into the Big Data storage and then also updated. And also in the other direction the new release enables the exchange of large amounts of data: Up to 250,000 rows can be exported to an Excel table in one go.
+Thanks to the Big Data function introduced in [version 3.1,]({{< relref "posts/seatable-releases/seatable-release-3-1" >}}) you can permanently store millions of rows in one base. With version 3.3 you can now also conveniently fill this storage volume by importing data. Up to 500,000 rows can be imported in the new SeaTable version from an XLSX file directly into the Big Data storage and then also updated. And also in the other direction the new release enables the exchange of large amounts of data: Up to 250,000 rows can be exported to an Excel table in one go.
 
 The bulk import is done directly into the Big Data store (or SeaTables component dtable-db). You can edit and analyze the data with all the functions available in a Big Data view. Up to the limit of 100,000 rows you can also move imported rows into the normal storage to collaborate on them in real time.
 

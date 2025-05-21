@@ -11,7 +11,7 @@ Esta mañana, [SeaTable Cloud](https://cloud.seatable.io) se ha actualizado a la
 
 ## Formato condicional de las columnas
 
-Cualquiera que trabaje habitualmente con [Excel](/es/die-besten-excel-alternativen-im-vergleich/) conoce la función de formato condicional. Con la versión 2.7, esta función también está disponible en SeaTable. Con el formato condicional, se formatean o colorean las celdas en función de su valor (o de la ausencia de dicho valor) y se puede realizar así una estructuración visual de los datos y un análisis de los mismos.
+Cualquiera que trabaje habitualmente con [Excel]({{< relref "pages/excel-alternative" >}}) conoce la función de formato condicional. Con la versión 2.7, esta función también está disponible en SeaTable. Con el formato condicional, se formatean o colorean las celdas en función de su valor (o de la ausencia de dicho valor) y se puede realizar así una estructuración visual de los datos y un análisis de los mismos.
 
 Para todas las columnas, SeaTable ofrece un formato condicional basado en reglas. Una regla es la descripción de un contenido hipotético de una celda (por ejemplo, valor > 50 o fecha posterior al 31.12.2021) y una instrucción de formato. Si la regla se cumple, la celda se formatea según la instrucción. Unas reglas bien elegidas pueden, entre otras cosas, hacer fácilmente reconocibles los valores estadísticos atípicos o inusuales. Por supuesto, también puede definir varias reglas por columna para asignar requisitos exigentes.
 
@@ -57,4 +57,4 @@ Los administradores de equipo pueden ahora imponer la autenticación de 2 factor
 
 Hasta ahora, los enlaces de las filas borradas y luego restauradas seguían perdiéndose. Con la versión 2.7, los enlaces también se vuelven a crear cuando se restaura una fila.
 
-La función de archivo introducida con la [versión 2.3](/es/seatable-release-2-3) ha dado un paso más hacia el uso productivo: ahora se pueden borrar entradas del archivo y también se pueden editar. (Los enlaces, sin embargo, aún no pueden ser creados o modificados).
+La función de archivo introducida con la [versión 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) ha dado un paso más hacia el uso productivo: ahora se pueden borrar entradas del archivo y también se pueden editar. (Los enlaces, sin embargo, aún no pueden ser creados o modificados).

@@ -21,7 +21,7 @@ El complemento de diseño de páginas de SeaTable 3.4 permite por primera vez el
 
 La nueva función "Adaptar automáticamente la tabla al contenido" está disponible para el elemento de la vista "Todas las entradas de la vista", así como para la representación tabular de los enlaces en "Campos de tabla". Cuando se activa la función, el marcador de posición del elemento tabla (elemento enmarcado en verde en la captura de pantalla) define la longitud mínima de la tabla que se va a insertar. Si la tabla es más larga que el marcador de posición, éste se amplía automáticamente.
 
-La función anterior "Añadir más páginas si el tamaño del marcador de posición no es suficiente para todas las entradas", que se introdujo en la [versión 3.1](/es/seatable-release-3-1), ya no existe en SeaTable 3.4 y se sustituye por la función más potente. Si se activó en una plantilla para un elemento de tabla, entonces la nueva función se activa automáticamente.
+La función anterior "Añadir más páginas si el tamaño del marcador de posición no es suficiente para todas las entradas", que se introdujo en la [versión 3.1]({{< relref "posts/seatable-releases/seatable-release-3-1" >}}), ya no existe en SeaTable 3.4 y se sustituye por la función más potente. Si se activó en una plantilla para un elemento de tabla, entonces la nueva función se activa automáticamente.
 
 ## Búsqueda en varios campos con la aplicación de consulta de datos
 
@@ -35,7 +35,7 @@ En el caso de múltiples campos de consulta, siempre se aplica una operación bo
 
 ## Formularios web mejorados
 
-En [SeaTable 3.](/es/seatable-release-3-3/?lang=auto) 3 cambiamos el editor de formularios a diseño de bloques. Esto hizo posible organizar los campos en cualquier orden. También introdujimos las anotaciones de elementos estáticos y la línea separadora. En realidad había otras mejoras en desarrollo, pero no llegaron a la versión de Navidad. Ahora estamos compensando esta carencia.
+En [SeaTable 3.]({{< relref "posts/seatable-releases/seatable-release-3-3" >}}) 3 cambiamos el editor de formularios a diseño de bloques. Esto hizo posible organizar los campos en cualquier orden. También introdujimos las anotaciones de elementos estáticos y la línea separadora. En realidad había otras mejoras en desarrollo, pero no llegaron a la versión de Navidad. Ahora estamos compensando esta carencia.
 
 El editor de formularios de SeaTable 3.4 ofrece la opción de definir un nombre para cada elemento del formulario, que se mostrará en el formulario web en lugar del nombre de la columna. De este modo es posible nombrar las columnas de la tabla independientemente del formulario web: Los nombres de las columnas pueden ser cortos y concisos, mientras que los nombres de los campos del formulario pueden ser algo más largos para facilitar su uso. Esto le da aún más libertad a la hora de diseñar sus formularios web.
 

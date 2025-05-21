@@ -11,13 +11,13 @@ SeaTable 2.5 ist da! Das neue Docker Image wurde bereits Ende letzter Woche auf 
 
 ## Überarbeitete Archivfunktion
 
-Seit Einführung des Archivs als Beta-Funktion in der [Version 2.3](/seatable-release-2-3/?lang=auto) haben unsere Entwickler pausenlos daran gearbeitet, die Archivfunktion für den Produktiveinsatz bereit zu machen. Mit der Version 2.5 haben wir dieses Ziel noch nicht ganz erreicht, die neue Version stellt aber einen riesigen Schritt in diese Richtung dar.
+Seit Einführung des Archivs als Beta-Funktion in der [Version 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) haben unsere Entwickler pausenlos daran gearbeitet, die Archivfunktion für den Produktiveinsatz bereit zu machen. Mit der Version 2.5 haben wir dieses Ziel noch nicht ganz erreicht, die neue Version stellt aber einen riesigen Schritt in diese Richtung dar.
 
 Die Archivfunktion unterstützt nun alle 24 Spalten, inklusive der drei Spaltentypen Formel, Verknüpfung und Formel für Verknüpfung. Der fehlende Schreibzugriff auf die Archivdaten bleibt auch in SeaTable 2.5 eine Einschränkung, diese drei Spalte sind aber Sonderfälle: Werte in den beiden Formel-Spalten werden dynamisch berechnet, je nach Spezifikation der Formel. Wenn eine Formel geändert wird, dann werden die Werte in den archivierten Zeilen neu berechnet. Ändert der Benutzer die Nachschlagespalte in einer Formel für Verknüpfungen, die Archivdaten reflektieren diese Änderung. Das Gleiche gilt für die Verknüpfungsspalte. Eine Umstellung der Anzeigespalte erfolgt gleichermaßen im gesamten Datenbestand, Archiv inklusive. Auf diese Weise bleiben die archivierte Daten vergleichbar mit den nicht-archivierten Daten.
 
 ![Die überarbeitete Archiv-Ansicht von SeaTable](https://seatable.io/wp-content/uploads/2021/11/archive-view.jpg)
 
-SeaTable 2.5 ergänzt darüber hinaus eine Druckfunktion für Archivansichten und erlaubt nun auch das Ausblenden einzelner Spalten in einer solchen Ansicht. Eine Suchfunktion und eine Excel Exportfunktion wurden schon in [SeaTable 2.4](/seatable-release-2-4/?lang=auto) implementiert.
+SeaTable 2.5 ergänzt darüber hinaus eine Druckfunktion für Archivansichten und erlaubt nun auch das Ausblenden einzelner Spalten in einer solchen Ansicht. Eine Suchfunktion und eine Excel Exportfunktion wurden schon in [SeaTable 2.4]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}) implementiert.
 
 ## Optimierte Datenverarbeitungsoperationen
 
@@ -25,7 +25,7 @@ SeaTables Datenverarbeitungsoperationen werden häufig für die Migration von Ex
 
 Die Vergleichen und verknüpfen Operation erstellt automatisiert Verknüpfungen zwischen ähnlichen Zeilen in zwei Tabellen. Mit ihr ist die Umwandlung von Excel Tabellen in eine relationale Datenbank im Handumdrehen erledigt. Nun neu in SeaTable 2.5 ist die Unterstützung aller wichtigen Spaltentypen (inkl. Einfachauswahlspalten) für die Definition der Vergleichsregel. Außerdem bietet die Operation nun auch mehr Flexibilität für den Fall, dass die Tabellen bereits doppelt verknüpft sind. In diesem Fall wird der Benutzer aufgefordert, die Spalten, in der die Verknüpfungen ergänzt werden sollen, über ein Dropdown-Menü auszuwählen.
 
-Die Kumulierte Werte berechnen Operation berechnet zeilenübergreifende Summen für Spalten mit numerischen Daten – eine Standardfunktion in Excel. Die Operation steht bereits seit der Einführung der Datenverarbeitungsfunktion in [SeaTable 2.1](/seatable-release-2-1/?lang=auto) zur Verfügung, wurde nun aber auf Basis von Benutzerfeedback angepasst. Konkret wurde das Handling der allerersten Spalte kritisiert. Nun nach der Überarbeitung summiert die Operation ausschließlich über die Quellspalte und schreibt die Ergebnisse in die Ergebnisspalte.
+Die Kumulierte Werte berechnen Operation berechnet zeilenübergreifende Summen für Spalten mit numerischen Daten – eine Standardfunktion in Excel. Die Operation steht bereits seit der Einführung der Datenverarbeitungsfunktion in [SeaTable 2.1]({{< relref "posts/seatable-releases/seatable-release-2-1" >}}) zur Verfügung, wurde nun aber auf Basis von Benutzerfeedback angepasst. Konkret wurde das Handling der allerersten Spalte kritisiert. Nun nach der Überarbeitung summiert die Operation ausschließlich über die Quellspalte und schreibt die Ergebnisse in die Ergebnisspalte.
 
 ## Neue Automationen und Trigger
 

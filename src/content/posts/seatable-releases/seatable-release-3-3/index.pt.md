@@ -39,7 +39,7 @@ O suporte HTML só é actualmente implementado para e-mails enviados por botão.
 
 ## Importação e exportação em massa de Excel
 
-Graças à função Big Data introduzida na [versão 3.1,](/pt/seatable-release-3-1/) é possível armazenar permanentemente milhões de filas numa base. Com a versão 3.3, pode agora também preencher convenientemente este volume de armazenamento através da importação de dados. Na nova versão SeaTable, até 500.000 linhas podem ser importadas de um ficheiro XLSX directamente para a memória dos Grandes Dados e depois também actualizadas. E a nova versão também permite a troca de grandes quantidades de dados na outra direcção: Até 250.000 filas podem ser exportadas para uma tabela Excel de uma só vez.
+Graças à função Big Data introduzida na [versão 3.1,]({{< relref "posts/seatable-releases/seatable-release-3-1" >}}) é possível armazenar permanentemente milhões de filas numa base. Com a versão 3.3, pode agora também preencher convenientemente este volume de armazenamento através da importação de dados. Na nova versão SeaTable, até 500.000 linhas podem ser importadas de um ficheiro XLSX directamente para a memória dos Grandes Dados e depois também actualizadas. E a nova versão também permite a troca de grandes quantidades de dados na outra direcção: Até 250.000 filas podem ser exportadas para uma tabela Excel de uma só vez.
 
 A importação em massa tem lugar directamente no armazenamento de Grandes Dados (ou componente SeaTables dtable-db). É possível processar e analisar os dados com todas as funções disponíveis numa vista de Grandes Dados. Até ao limite de 100.000 filas, também é possível mover filas importadas para a memória normal para trabalharem em conjunto em tempo real.
 

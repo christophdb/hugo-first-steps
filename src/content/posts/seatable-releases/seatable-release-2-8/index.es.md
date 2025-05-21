@@ -11,7 +11,7 @@ Las primeras versiones de SeaTable 2.8 están disponibles para su descarga en [D
 
 ## Cinta de color para el título
 
-El color y la forma de los iconos base de la página de inicio ya pueden adaptarse a los deseos individuales desde [la versión 1.2.](/es/seatable-release-1-2/) Sin embargo, el color del icono no afectaba al color de la banda del título en Base. La banda del título siguió siendo naranja.
+El color y la forma de los iconos base de la página de inicio ya pueden adaptarse a los deseos individuales desde [la versión 1.2.]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}) Sin embargo, el color del icono no afectaba al color de la banda del título en Base. La banda del título siguió siendo naranja.
 
 En la nueva versión hemos eliminado este vacío funcional. El color de la banda del título se basa ahora en el color del icono base. ¿Crees que el azul brillante de la captura de pantalla es elegante? Pues bien, ¡a por ello!
 
@@ -62,7 +62,7 @@ Anteriormente, los datos de un conjunto de datos comunes importados sólo podía
 
 Hay muchas otras mejoras que merecen ser mencionadas. Aquí están los más importantes.
 
-La columna de fórmulas conoce dos nuevas fórmulas: Small() y Large() encuentran el valor x-más pequeño o x-más grande de una columna. (Más en la [referencia de la fórmula](/es/docs/handbuch/expertenwissen/formelreferenz/)).
+La columna de fórmulas conoce dos nuevas fórmulas: Small() y Large() encuentran el valor x-más pequeño o x-más grande de una columna. (Más en la [referencia de la fórmula](https://seatable.io/es/docs/handbuch/expertenwissen/formelreferenz/)).
 
 Para las columnas y agrupaciones, ahora se puede calcular la mediana además de la suma, la media y los valores extremos.
 
