@@ -63,7 +63,7 @@ Until now, the data in an imported common data set could only be updated manuall
 
 There are numerous other improvements that deserve a mention. Here are the most important of them.
 
-The formula column knows two new formulas: Small() and Large() find the x-smallest or x-largest value in a column. (More in the [formula reference](/en/docs/handbuch/expertenwissen/formelreferenz/).)
+The formula column knows two new formulas: Small() and Large() find the x-smallest or x-largest value in a column. (More in the [formula reference](https://seatable.io/en/docs/handbuch/expertenwissen/formelreferenz/).)
 
 For columns and groupings, the median can now be calculated in addition to the sum, the average and the extreme values.
 

@@ -24,7 +24,7 @@ Por supuesto, debería prever más espacio en el disco duro que el mencionado pa
 
 No es un requisito previo, pero sí útil, que se pueda acceder al servidor a través de una dirección IPv4 estática. Esto maximiza la accesibilidad del servidor durante los desplazamientos. En Europa, todavía hay [redes móviles que no soportan IPv6](https://www.datamate.org/status-der-ipv6-implementierung-in-mobilfunknetzen-in-dach/). No se puede acceder a su servidor SeaTable a través de una red de este tipo si no tiene una dirección IPv4.
 
-En caso de que los puertos 80 y/o 443 ya estén ocupados en su servidor, encontrará todo lo que necesita saber para la instalación en su situación en el artículo [Instalación de SeaTable Enterprise en su propio servidor detrás de un servidor web](/es/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren?lang=auto).
+En caso de que los puertos 80 y/o 443 ya estén ocupados en su servidor, encontrará todo lo que necesita saber para la instalación en su situación en el artículo [Instalación de SeaTable Enterprise en su propio servidor detrás de un servidor web]({{< relref "posts/seatable-installieren-webserver" >}}).
 
 ¿Estás listo? ¡Vamos! Suponemos que tiene un shell de root abierto en su servidor.
 

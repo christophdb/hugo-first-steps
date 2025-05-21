@@ -24,7 +24,7 @@ url: '/ru/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren'
 
 Это не обязательное условие, но полезно, если до сервера можно добраться через статический адрес IPv4. Это обеспечивает максимальную доступность сервера в пути. В Европе все еще существуют [мобильные сети, которые пока не поддерживают IPv6](https://www.datamate.org/status-der-ipv6-implementierung-in-mobilfunknetzen-in-dach/). Ваш сервер SeaTable не может быть доступен через такую сеть, если у него нет адреса IPv4.
 
-Если на вашем сервере уже заняты порты 80 и/или 443, вы найдете все, что нужно знать для установки в вашей ситуации, в статье [Установка SeaTable Enterprise на собственном сервере за веб-сервером](/ru/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren?lang=auto).
+Если на вашем сервере уже заняты порты 80 и/или 443, вы найдете все, что нужно знать для установки в вашей ситуации, в статье [Установка SeaTable Enterprise на собственном сервере за веб-сервером]({{< relref "posts/seatable-installieren-webserver" >}}).
 
 Вы готовы? Поехали! Мы предполагаем, что на вашем сервере открыт root shell.
 

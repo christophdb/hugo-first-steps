@@ -7,7 +7,7 @@ url: '/de/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-inst
 color: '#eeeeee'
 ---
 
-Im Beitrag [SeaTable Enterprise Edition unter Ubuntu Server 20.04 LTS installieren](/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren/?lang=auto) haben wir die Standardinstallation von SeaTable Enterprise auf einem Server mit Ubuntu Linux erklärt. Bei der Standardinstallation erfolgt die Installation von SeaTable auf einem Server, auf dem keine weiteren Webanwendungen laufen. Was aber, wenn die Ports 80 und 443 bereits durch einen anderen Dienst wie z.B. einen nginx oder Apache Webserver belegt sind? Diese Frage beantworten wir in diesem Beitrag. Wie Sie sehen werden, ist die Antwort erfreulich einfach.
+Im Beitrag [SeaTable Enterprise Edition unter Ubuntu Server 20.04 LTS installieren]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) haben wir die Standardinstallation von SeaTable Enterprise auf einem Server mit Ubuntu Linux erklärt. Bei der Standardinstallation erfolgt die Installation von SeaTable auf einem Server, auf dem keine weiteren Webanwendungen laufen. Was aber, wenn die Ports 80 und 443 bereits durch einen anderen Dienst wie z.B. einen nginx oder Apache Webserver belegt sind? Diese Frage beantworten wir in diesem Beitrag. Wie Sie sehen werden, ist die Antwort erfreulich einfach.
 
 ## Voraussetzungen
 
@@ -29,7 +29,7 @@ SeaTable kann auch unter einem anderen Ort als dem Verzeichnis /opt/seatable ang
 
 ## Individualisierung der docker-compose.yml
 
-Die Anleitung für die Standardinstallation erklärt die Struktur und Funktionsweise der docker-compose Datei. Dies soll hier nicht wiederholt werden. Mit [diesem Link](/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren/#Individualisierung_der_docker-composeyml?lang=auto) springen Sie direkt zum relevanten Teil im Beitrag zur Standardinstallation.
+Die Anleitung für die Standardinstallation erklärt die Struktur und Funktionsweise der docker-compose Datei. Dies soll hier nicht wiederholt werden. Mit [diesem Link]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) springen Sie direkt zum relevanten Teil im Beitrag zur Standardinstallation.
 
 In der YAML-Datei gilt es nun ein paar Anpassungen vorzunehmen, einerseits zur Berücksichtigung der eigenen Anforderungen, andererseits um den Betrieb hinter einem Webserver zu ermöglichen.
 

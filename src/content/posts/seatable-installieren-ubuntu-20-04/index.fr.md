@@ -24,7 +24,7 @@ Natürlich sollten Sie mehr als den oben angegebenen Festplattenspeicher einplan
 
 Keine Voraussetzung, aber hilfreich, ist es, wenn der Server über eine statische IPv4-Adresse erreichbar ist. Damit maximieren Sie die Erreichbarkeit des Servers von unterwegs. In Europa gibt es noch [Mobilfunknetze, die noch kein IPv6 beherrschen.](https://www.datamate.org/status-der-ipv6-implementierung-in-mobilfunknetzen-in-dach/) Über ein solches Netz ist Ihr SeaTable Server nicht erreichbar, wenn er keine IPv4-Adresse hat.
 
-Für den Fall, dass auf Ihrem Server bereits Port 80 und/oder 443 belegt sind, finden Sie im Beitrag [SeaTable Enterprise auf dem eigenen Server hinter einem Webserver installieren](/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren?lang=auto) alles was Sie für die Installation in Ihrer Situation wissen müssen.
+Für den Fall, dass auf Ihrem Server bereits Port 80 und/oder 443 belegt sind, finden Sie im Beitrag [SeaTable Enterprise auf dem eigenen Server hinter einem Webserver installieren]({{< relref "posts/seatable-installieren-webserver" >}}) alles was Sie für die Installation in Ihrer Situation wissen müssen.
 
 Sie sind bereit? Los geht’s! Wir gehen davon aus, dass Sie eine Root Shell auf Ihrem Server offen haben.
 

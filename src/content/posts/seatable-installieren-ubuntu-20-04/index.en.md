@@ -25,7 +25,7 @@ Of course, you should plan for more than the above-mentioned hard disk space in 
 
 It is not a prerequisite, but helpful, if the server can be reached via a static IPv4 address. This maximises the accessibility of the server while on the move. In Europe, there are still [mobile networks that do not yet support IPv6](https://www.datamate.org/status-der-ipv6-implementierung-in-mobilfunknetzen-in-dach/). Your SeaTable server cannot be reached via such a network if it does not have an IPv4 address.
 
-In case port 80 and/or 443 are already occupied on your server, you will find everything you need to know for the installation in your situation in the article [Installing SeaTable Enterprise on your own server behind a web server](/en/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren?lang=auto).
+In case port 80 and/or 443 are already occupied on your server, you will find everything you need to know for the installation in your situation in the article [Installing SeaTable Enterprise on your own server behind a web server]({{< relref "posts/seatable-installieren-webserver" >}}).
 
 You are ready? Let's go! We assume that you have a root shell open on your server.
 

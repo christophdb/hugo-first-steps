@@ -7,7 +7,7 @@ url: '/es/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-inst
 color: '#eeeeee'
 ---
 
-En el artículo [Instalación de SeaTable Enterprise Edition en Ubuntu Server 20.04 LTS](/es/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren/?lang=auto) explicamos la instalación estándar de SeaTable Enterprise en un servidor con Ubuntu Linux. En la instalación estándar, SeaTable se instala en un servidor en el que no se ejecutan otras aplicaciones web. ¿Pero qué pasa si los puertos 80 y 443 ya están ocupados por otro servicio como un servidor web nginx o Apache? En este artículo responderemos a esta pregunta. Como verás, la respuesta es deliciosamente sencilla.
+En el artículo [Instalación de SeaTable Enterprise Edition en Ubuntu Server 20.04 LTS]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) explicamos la instalación estándar de SeaTable Enterprise en un servidor con Ubuntu Linux. En la instalación estándar, SeaTable se instala en un servidor en el que no se ejecutan otras aplicaciones web. ¿Pero qué pasa si los puertos 80 y 443 ya están ocupados por otro servicio como un servidor web nginx o Apache? En este artículo responderemos a esta pregunta. Como verás, la respuesta es deliciosamente sencilla.
 
 ## Requisitos
 
@@ -29,7 +29,7 @@ SeaTable también puede crearse en una ubicación distinta al directorio /opt/se
 
 ## Individualización de docker-compose.yml
 
-Las instrucciones de la instalación estándar explican la estructura y el funcionamiento del archivo docker-compose. Esto no debe repetirse aquí. Utilice [este enlace](/es/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren/#Individualisierung_der_docker-composeyml?lang=auto) para ir directamente a la parte correspondiente del artículo sobre la instalación estándar.
+Las instrucciones de la instalación estándar explican la estructura y el funcionamiento del archivo docker-compose. Esto no debe repetirse aquí. Utilice [este enlace]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) para ir directamente a la parte correspondiente del artículo sobre la instalación estándar.
 
 En el archivo YAML, ahora es necesario hacer algunos ajustes, por un lado para tener en cuenta sus propios requisitos, y por otro lado para permitir el funcionamiento detrás de un servidor web.
 

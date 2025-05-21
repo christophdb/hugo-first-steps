@@ -62,7 +62,7 @@ Anteriormente, los datos de un conjunto de datos comunes importados sólo podía
 
 Hay muchas otras mejoras que merecen ser mencionadas. Aquí están los más importantes.
 
-La columna de fórmulas conoce dos nuevas fórmulas: Small() y Large() encuentran el valor x-más pequeño o x-más grande de una columna. (Más en la [referencia de la fórmula](/es/docs/handbuch/expertenwissen/formelreferenz/)).
+La columna de fórmulas conoce dos nuevas fórmulas: Small() y Large() encuentran el valor x-más pequeño o x-más grande de una columna. (Más en la [referencia de la fórmula](https://seatable.io/es/docs/handbuch/expertenwissen/formelreferenz/)).
 
 Para las columnas y agrupaciones, ahora se puede calcular la mediana además de la suma, la media y los valores extremos.
 
