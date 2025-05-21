@@ -36,3 +36,46 @@ No confunda esta función con la función **Icono de bloqueo en las opciones de 
 {{< /warning >}}
 
 ![Icono de bloqueo para bloquear las vistas en las opciones de vista](images/Bildschirmfoto-2022-10-28-um-15.22.16.png)
+
+## Efectos del cierre
+
+Una vez bloqueada la cabecera de la tabla, ya no se pueden **añadir columnas** a la tabla correspondiente hasta que se vuelva a cancelar el bloqueo. El **+-símbolo** para [añadir una columna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) por lo tanto **no** se muestra en tablas con una cabecera de tabla bloqueada.
+
+![Falta el icono para añadir columnas en tablas con la cabecera bloqueada](images/tables-with-locked-table-head.png)
+
+Tampoco se pueden mover las columnas, lo que significa que la **estructura de columnas** sigue siendo la misma en cualquier caso hasta que finalice el bloqueo.
+
+Además, una vez bloqueada la cabecera de una tabla, ya no se pueden realizar **configuraciones** diversas en las columnas de la tabla. Esto afecta a las siguientes configuraciones de columna:
+
+- Renombrar columna
+- Añadir descripción de columna
+- Personalizar el tipo de columna
+- Duplicar columna
+- Insertar columna izquierda
+- Insertar columna derecha
+- Borrar columna
+
+Cuando la cabecera de la tabla está bloqueada, las opciones correspondientes aparecen **en gris** en la configuración de la columna.
+
+![Opciones de columna atenuadas y, por tanto, no disponibles cuando la cabecera de la tabla está bloqueada](images/ausgegraute-spalten-einstellungen.png)
+
+Sin embargo, el resto de **configuraciones de columna** no se ven afectadas por el bloqueo y pueden seguir editándose aunque la cabecera de la tabla esté bloqueada. Esto incluye las siguientes opciones:
+
+- Ajustes de formato
+- Editar autorizaciones de columna
+- Formatear celdas de columna
+- Ocultar
+- Orden ascendente
+- Ordenar de forma descendente
+
+## Desbloquear
+
+Para desbloquear una cabecera de tabla, basta con volver a hacer clic en el **bloqueo (rojo)** de la cabecera de la tabla.
+
+![Desbloquear una cabecera de tabla](images/unlock-the-table-head.jpg)
+
+Si el desbloqueo se ha realizado correctamente, aparecerá de nuevo un **cerrojo negro abierto**. A continuación, puede volver a añadir columnas a la tabla y editar las columnas existentes.
+
+Tenga en cuenta que la cabecera bloqueada de las tablas que pertenecen a un grupo sólo puede ser desbloqueada de nuevo por **propietarios** y **administradores** del grupo. Los simples miembros del grupo **no** están autorizados a desbloquear y verán el siguiente mensaje cuando hagan clic en el símbolo del candado:
+
+![Nota para los miembros de grupos simples que no están autorizados a desbloquear la cabecera de una mesa](images/no-permission-to-unlock-head-of-a-table.png)
