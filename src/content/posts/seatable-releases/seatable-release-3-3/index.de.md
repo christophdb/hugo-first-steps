@@ -39,7 +39,7 @@ HTML-Unterstützung gibt es aktuell nur für E-Mails, die per Schaltfläche vers
 
 ## Excel Massenimport und -export
 
-Dank der in [Version 3.1](/seatable-release-3-1/) eingeführten Big Data Funktion können Sie in einer Base Millionen von Zeilen dauerhaft speichern. Mit der Version 3.3 können Sie dieses Speichervolumen nun auch bequem durch einen Datenimport befüllen. Bis zu 500.000 Zeilen lassen sich in der neuen SeaTable Version aus einer XLSX-Datei direkt in den Big Data Speicher importieren und danach auch aktualisieren. Und auch in der anderen Richtung ermöglicht das neue Release den Austausch von großen Datenmengen: Bis zu 250.000 Zeilen lassen sich in einem Rutsch in eine Excel Tabelle exportieren.
+Dank der in [Version 3.1]({{< relref "posts/seatable-releases/seatable-release-3-1" >}}) eingeführten Big Data Funktion können Sie in einer Base Millionen von Zeilen dauerhaft speichern. Mit der Version 3.3 können Sie dieses Speichervolumen nun auch bequem durch einen Datenimport befüllen. Bis zu 500.000 Zeilen lassen sich in der neuen SeaTable Version aus einer XLSX-Datei direkt in den Big Data Speicher importieren und danach auch aktualisieren. Und auch in der anderen Richtung ermöglicht das neue Release den Austausch von großen Datenmengen: Bis zu 250.000 Zeilen lassen sich in einem Rutsch in eine Excel Tabelle exportieren.
 
 Der Massenimport erfolgt direkt in den Big Data Speicher (bzw. SeaTables Komponente dtable-db). Sie können die Daten mit alle Funktionen, die in einer Big Data Ansicht zur Verfügung stehen, bearbeiten und auswerten. Bis zum Limit von 100.000 Zeilen können Sie importiere Zeilen auch in den normalen Speicher verschieben, um an diesen in Echtzeit zusammen zu arbeiten.
 

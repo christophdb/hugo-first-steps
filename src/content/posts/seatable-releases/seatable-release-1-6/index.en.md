@@ -24,7 +24,7 @@ And we didn't stop there: We have also expanded the format settings of the formu
 
 ## Column type # 20: email
 
-The new email column type stores email addresses. When clicking on a cell filled with an address, your email app opens up, the email address is copied in To: and you can start typing your mail right away. Hence, it works in a similar fashion as the URL column introduced in [SeaTable 1.4](/en/seatable-release-1-4/).
+The new email column type stores email addresses. When clicking on a cell filled with an address, your email app opens up, the email address is copied in To: and you can start typing your mail right away. Hence, it works in a similar fashion as the URL column introduced in [SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}).
 
 ![Column type email in webform](images/Column_Type_Email_Form.jpg)
 

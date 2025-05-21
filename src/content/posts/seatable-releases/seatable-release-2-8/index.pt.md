@@ -11,7 +11,7 @@ As primeiras construções da SeaTable 2.8 estão disponíveis para download em 
 
 ## Fita de título colorida
 
-A cor e a forma dos ícones de base na página inicial já podem ser adaptadas aos desejos individuais desde a [versão 1.2](/pt/seatable-release-1-2/). No entanto, a cor do ícone não teve qualquer efeito sobre a cor da banda título na Base. A faixa de título permaneceu laranja.
+A cor e a forma dos ícones de base na página inicial já podem ser adaptadas aos desejos individuais desde a [versão 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}). No entanto, a cor do ícone não teve qualquer efeito sobre a cor da banda título na Base. A faixa de título permaneceu laranja.
 
 Na nova versão, eliminámos esta lacuna funcional. A cor da banda de título baseia-se agora na cor do ícone de base. Acha que o azul brilhante da imagem do ecrã é chique? Bem, avance!
 

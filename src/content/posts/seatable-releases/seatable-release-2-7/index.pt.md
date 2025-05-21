@@ -57,4 +57,4 @@ Os administradores de equipa podem agora impor a autenticação de 2 factores pa
 
 Até agora, as ligações das filas eliminadas e depois restauradas continuaram perdidas. Com a versão 2.7, são também criadas novamente ligações quando uma fila é restaurada.
 
-A função de arquivo introduzida com a [versão 2.3](/pt/seatable-release-2-3) deu mais passos para uma utilização produtiva: as entradas podem agora ser eliminadas do arquivo e as entradas podem também ser editadas. (As ligações, contudo, ainda não podem ser criadas ou alteradas).
+A função de arquivo introduzida com a [versão 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) deu mais passos para uma utilização produtiva: as entradas podem agora ser eliminadas do arquivo e as entradas podem também ser editadas. (As ligações, contudo, ainda não podem ser criadas ou alteradas).

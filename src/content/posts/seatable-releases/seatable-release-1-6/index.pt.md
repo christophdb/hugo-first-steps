@@ -23,7 +23,7 @@ E isso não é tudo! Também alargámos as opções de formato da coluna de fór
 
 ## Tipo de coluna # 20: E-mail
 
-O novo tipo de coluna E-mail armazena endereços de e-mail. Um clique numa célula cheia abre automaticamente a aplicação Mail e copia o endereço para a linha Para:. Pode, portanto, proceder directamente à composição do e-mail. As células da coluna Email comportam-se de forma muito semelhante às células da coluna do tipo URL introduzida no [SeaTable 1.4](/pt/seatable-release-1-4/).
+O novo tipo de coluna E-mail armazena endereços de e-mail. Um clique numa célula cheia abre automaticamente a aplicação Mail e copia o endereço para a linha Para:. Pode, portanto, proceder directamente à composição do e-mail. As células da coluna Email comportam-se de forma muito semelhante às células da coluna do tipo URL introduzida no [SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}).
 
 ![Tipo de coluna de correio electrónico em formato web](images/Column_Type_Email_Form.jpg)
 

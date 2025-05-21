@@ -11,7 +11,7 @@ Depuis quelques jours déjà, il était possible de télécharger les premières
 
 ## Bandeau-titre en couleur
 
-La couleur et la forme des icônes de la base sur la page d'accueil peuvent déjà être adaptées aux souhaits individuels depuis la [version 1.2](/fr/seatable-release-1-2/). La couleur de l'icône n'avait cependant aucun effet sur la couleur du bandeau-titre dans la base. Le bandeau-titre est resté orange.
+La couleur et la forme des icônes de la base sur la page d'accueil peuvent déjà être adaptées aux souhaits individuels depuis la [version 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}). La couleur de l'icône n'avait cependant aucun effet sur la couleur du bandeau-titre dans la base. Le bandeau-titre est resté orange.
 
 Dans la nouvelle version, nous avons éliminé cette lacune fonctionnelle. La couleur du bandeau-titre s'aligne désormais sur la couleur de l'icône de la base. Vous trouvez que le bleu vif de la capture d'écran est chic ? Eh bien, allons-y !
 

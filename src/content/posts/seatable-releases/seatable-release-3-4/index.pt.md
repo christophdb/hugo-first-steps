@@ -21,7 +21,7 @@ O plug-in de design da página no SeaTable 3.4 permite o posicionamento dinâmic
 
 A nova função "Adaptar automaticamente a tabela ao conteúdo" está disponível para o elemento de vista "Todas as entradas da vista", bem como para a representação tabular de ligações em "Campos de tabela". Quando a função é activada, o marcador de posição para o elemento de tabela (elemento com moldura verde na imagem) define o comprimento mínimo da tabela a inserir. Se a tabela for maior do que o marcador de posição, este último é automaticamente alargado.
 
-A função anterior "Adicionar mais páginas se o tamanho do espaço reservado não for suficiente para todas as entradas", que foi introduzida na [versão 3.1](/pt/seatable-release-3-1), já não existe no SeaTable 3.4 e foi substituída por uma função mais poderosa. Se tiver sido activada num modelo para um elemento de tabela, a nova função é automaticamente activada.
+A função anterior "Adicionar mais páginas se o tamanho do espaço reservado não for suficiente para todas as entradas", que foi introduzida na [versão 3.1]({{< relref "posts/seatable-releases/seatable-release-3-1" >}}), já não existe no SeaTable 3.4 e foi substituída por uma função mais poderosa. Se tiver sido activada num modelo para um elemento de tabela, a nova função é automaticamente activada.
 
 ## Pesquisa em múltiplos campos com o Data Query App
 
@@ -35,7 +35,7 @@ No caso de campos de consulta múltiplos, aplica-se sempre uma operação Boolea
 
 ## Formulários web melhorados
 
-No [SeaTable 3.3](/pt/seatable-release-3-3/?lang=auto) alterámos o editor de formulários para bloquear o desenho. Isto tornou possível a disposição dos campos em qualquer ordem. Introduzimos também as anotações dos elementos estáticos e a linha separadora. Na verdade, houve outras melhorias no desenvolvimento, mas não chegaram à versão de Natal. Estamos agora a compensar isto!
+No [SeaTable 3.3]({{< relref "posts/seatable-releases/seatable-release-3-3" >}}) alterámos o editor de formulários para bloquear o desenho. Isto tornou possível a disposição dos campos em qualquer ordem. Introduzimos também as anotações dos elementos estáticos e a linha separadora. Na verdade, houve outras melhorias no desenvolvimento, mas não chegaram à versão de Natal. Estamos agora a compensar isto!
 
 O editor de formulários do SeaTable 3.4 oferece a opção de definir um nome de exibição para cada elemento do formulário, que é então exibido no formulário web em vez do nome da coluna. Desta forma, torna-se possível nomear as colunas na tabela destacadas do formulário web: Os nomes das colunas podem ser curtos e concisos, enquanto que os nomes dos campos do formulário podem ser um pouco mais verbais, por uma questão de facilidade de utilização. Isto dá-lhe ainda mais liberdade na concepção dos seus formulários da web.
 

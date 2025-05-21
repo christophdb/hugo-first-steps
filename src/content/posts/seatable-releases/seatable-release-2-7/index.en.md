@@ -58,4 +58,4 @@ Team administrators can now enforce 2-factor authentication for their team membe
 
 Until now, links from deleted and then restored rows remained lost. With version 2.7, links are also created again when a row is restored.
 
-The archive function introduced with [version 2.3](/en/seatable-release-2-3) has taken further steps towards productive use: entries can now be deleted from the archive and entries can also be edited. (Links, however, cannot yet be created or changed).
+The archive function introduced with [version 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) has taken further steps towards productive use: entries can now be deleted from the archive and entries can also be edited. (Links, however, cannot yet be created or changed).

@@ -22,7 +22,7 @@ The page design plugin in SeaTable 3.4 enables dynamic positioning of elements o
 
 The new function "Automatically fit table to content" is available for the view element "All view entries" as well as the tabular representation of links under "Table fields". When the function is activated, the placeholder for the table element (green framed element in the screenshot) defines the minimum length of the table to be inserted. If the table is longer than the placeholder, the latter will be automatically extended.
 
-The previous function "Add more pages if the size of the placeholder is not enough for all entries", which was introduced in [version 3.1](/en/seatable-release-3-1), no longer exists in SeaTable 3.4 and is replaced with the more powerful function. If it was enabled in a template for a table element, then the new function is automatically active.
+The previous function "Add more pages if the size of the placeholder is not enough for all entries", which was introduced in [version 3.1]({{< relref "posts/seatable-releases/seatable-release-3-1" >}}), no longer exists in SeaTable 3.4 and is replaced with the more powerful function. If it was enabled in a template for a table element, then the new function is automatically active.
 
 ## Search across multiple fields with the Data Query App
 
@@ -36,7 +36,7 @@ In the case of multiple query fields, a Boolean AND operation always applies, i.
 
 ## Improved web forms
 
-In [SeaTable 3.3](/en/seatable-release-3-3/?lang=auto) we changed the form editor to block design. This made it possible to arrange fields in any order. We also introduced the static elements Annotations and Separator. There were actually some more improvements in development, but they didn't make it into the Christmas release. We are now making up for this!
+In [SeaTable 3.3]({{< relref "posts/seatable-releases/seatable-release-3-3" >}}) we changed the form editor to block design. This made it possible to arrange fields in any order. We also introduced the static elements Annotations and Separator. There were actually some more improvements in development, but they didn't make it into the Christmas release. We are now making up for this!
 
 The form editor of SeaTable 3.4 offers the option to specify a display name for each form element, which is then displayed in the web form instead of the column name. This way it becomes possible to name the columns in the table detached from the web form: The column names can be short and concise, while the form field names may be a bit more wordy for the sake of usability. This gives you even more freedom in designing your web forms.
 

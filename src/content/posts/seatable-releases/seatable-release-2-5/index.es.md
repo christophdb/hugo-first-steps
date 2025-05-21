@@ -11,13 +11,13 @@ color: '#eeeeee'
 
 ## Función de archivo revisada
 
-Desde la introducción del archivo como función beta en [la versión 2.3,](/es/seatable-release-2-3/?lang=auto) nuestros desarrolladores han trabajado sin descanso para que la función de archivo esté lista para un uso productivo. Con la versión 2.5 aún no hemos alcanzado este objetivo, pero la nueva versión representa un gran paso en esta dirección.
+Desde la introducción del archivo como función beta en [la versión 2.3,]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) nuestros desarrolladores han trabajado sin descanso para que la función de archivo esté lista para un uso productivo. Con la versión 2.5 aún no hemos alcanzado este objetivo, pero la nueva versión representa un gran paso en esta dirección.
 
 La función de archivo admite ahora las 24 columnas, incluidos los tres tipos de columnas: fórmula, enlace y fórmula para el enlace. La falta de acceso de escritura a los datos del archivo sigue siendo una limitación en SeaTable 2.5, pero estas tres columnas son casos especiales: Los valores de las dos columnas de la fórmula se calculan dinámicamente, en función de la especificación de la fórmula. Si se modifica una fórmula, se recalculan los valores de las filas archivadas. Si el usuario cambia la columna de búsqueda en una fórmula de enlaces, los datos archivados reflejan este cambio. Lo mismo ocurre con la columna de enlaces. Un cambio en la columna de visualización se produce por igual en todo el conjunto de datos, archivo incluido. De este modo, los datos archivados siguen siendo comparables con los no archivados.
 
 ![La vista de archivo revisada de SeaTable](https://seatable.io/wp-content/uploads/2021/11/archive-view.jpg)
 
-SeaTable 2.5 también añade una función de impresión para las vistas de archivo y ahora también permite ocultar columnas individuales en dicha vista. En la [versión 2.4 de SeaTable](/es/seatable-release-2-4/?lang=auto) ya se había implementado una función de búsqueda y una función de exportación a Excel.
+SeaTable 2.5 también añade una función de impresión para las vistas de archivo y ahora también permite ocultar columnas individuales en dicha vista. En la [versión 2.4 de SeaTable]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}) ya se había implementado una función de búsqueda y una función de exportación a Excel.
 
 ## Operaciones de procesamiento de datos optimizadas
 
@@ -25,7 +25,7 @@ Las operaciones de procesamiento de datos de SeaTable suelen ser necesarias para
 
 La operación de Comparación y Enlace crea automáticamente enlaces entre filas similares en dos tablas. Con él, la conversión de las tablas de Excel en una base de datos relacional se realiza en muy poco tiempo. La novedad de SeaTable 2.5 es el soporte de todos los tipos de columnas importantes (incluidas las columnas de selección simple) para la definición de la regla de comparación. Además, la operación ahora también ofrece más flexibilidad en el caso de que las tablas ya estén enlazadas dos veces. En este caso, se pide al usuario que seleccione las columnas en las que deben añadirse los enlaces mediante un menú desplegable.
 
-La operación Calcular Valores Acumulados calcula los totales a través de las filas para las columnas de datos numéricos - una función estándar en Excel. La operación ha estado disponible desde la introducción de la función de procesamiento de datos en [SeaTable 2.1,](/es/seatable-release-2-1/?lang=auto) pero ahora se ha adaptado en base a los comentarios de los usuarios. En concreto, se criticó la gestión de la primera columna. Ahora, tras la revisión, la operación suma exclusivamente a través de la columna de origen y escribe los resultados en la columna de resultado.
+La operación Calcular Valores Acumulados calcula los totales a través de las filas para las columnas de datos numéricos - una función estándar en Excel. La operación ha estado disponible desde la introducción de la función de procesamiento de datos en [SeaTable 2.1,]({{< relref "posts/seatable-releases/seatable-release-2-1" >}}) pero ahora se ha adaptado en base a los comentarios de los usuarios. En concreto, se criticó la gestión de la primera columna. Ahora, tras la revisión, la operación suma exclusivamente a través de la columna de origen y escribe los resultados en la columna de resultado.
 
 ## Nuevos automatismos y activadores
 

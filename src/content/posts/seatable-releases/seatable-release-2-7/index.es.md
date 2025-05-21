@@ -57,4 +57,4 @@ Los administradores de equipo pueden ahora imponer la autenticación de 2 factor
 
 Hasta ahora, los enlaces de las filas borradas y luego restauradas seguían perdiéndose. Con la versión 2.7, los enlaces también se vuelven a crear cuando se restaura una fila.
 
-La función de archivo introducida con la [versión 2.3](/es/seatable-release-2-3) ha dado un paso más hacia el uso productivo: ahora se pueden borrar entradas del archivo y también se pueden editar. (Los enlaces, sin embargo, aún no pueden ser creados o modificados).
+La función de archivo introducida con la [versión 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) ha dado un paso más hacia el uso productivo: ahora se pueden borrar entradas del archivo y también se pueden editar. (Los enlaces, sin embargo, aún no pueden ser creados o modificados).

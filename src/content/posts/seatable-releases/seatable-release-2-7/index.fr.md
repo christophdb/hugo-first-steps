@@ -57,4 +57,4 @@ Les administrateurs d'équipe peuvent dès à présent forcer l'authentification
 
 Jusqu'à présent, les raccourcis des lignes supprimées puis restaurées étaient perdus. Avec la version 2.7, les liens sont également recréés lors de la restauration d'une ligne.
 
-La fonction d'archivage introduite dans la [version 2.3](/fr/seatable-release-2-3) a fait de nouveaux pas en direction d'une utilisation productive : il est désormais possible de supprimer des entrées de l'archive et également de modifier des entrées. (Les liens ne peuvent cependant pas encore être créés ou modifiés).
+La fonction d'archivage introduite dans la [version 2.3]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}) a fait de nouveaux pas en direction d'une utilisation productive : il est désormais possible de supprimer des entrées de l'archive et également de modifier des entrées. (Les liens ne peuvent cependant pas encore être créés ou modifiés).

@@ -11,7 +11,7 @@ Schon seit einigen Tagen konnte man frühe Builds von SeaTable 2.8 von [Docker H
 
 ## Farbiges Titelband
 
-Farbe und Form der Base-Icons auf der Homepage lassen sich bereits seit der [Version 1.2](/seatable-release-1-2/) an individuelle Wünsche anpassen. Auf die Farbe des Titelbandes in der Base hatte die Icon-Farbe aber keine Auswirkung. Das Titelband blieb orange.
+Farbe und Form der Base-Icons auf der Homepage lassen sich bereits seit der [Version 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}) an individuelle Wünsche anpassen. Auf die Farbe des Titelbandes in der Base hatte die Icon-Farbe aber keine Auswirkung. Das Titelband blieb orange.
 
 In der neuen Version haben wir diese funktionale Lücke beseitigt. Die Farbe des Titelbandes richtet sich nun nach der Farbe des Base-Icons. Sie finden das knallige Blau aus dem Screenshot schick? Na, dann los!
 
