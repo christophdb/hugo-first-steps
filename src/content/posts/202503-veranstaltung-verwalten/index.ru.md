@@ -6,6 +6,8 @@ seo:
     description: 'Узнайте, как можно профессионально управлять даже крупными мероприятиями и как инструменты могут помочь вам в комплексном планировании.'
 date: 2025-03-23
 url: '/ru/event-management'
+aliases:
+    - /ru/veranstaltung-verwalten/
 tags:
     - 'Управление событиями'
 categories:

@@ -6,6 +6,8 @@ seo:
     description: 'Découvrez comment gérer de manière professionnelle même les événements les plus importants et comment les outils peuvent vous aider à planifier des événements complexes.'
 date: 2025-03-23
 url: '/fr/veranstaltung-verwalten'
+aliases:
+    - /fr/veranstaltung-verwalten/
 tags:
 categories:
 color: '#f7c1cf'
