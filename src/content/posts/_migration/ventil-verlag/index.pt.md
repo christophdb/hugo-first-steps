@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'cdb'
 url: '/pt/ventil-verlag'
 color: '#eeeeee'
+draft: true
 ---
 
 A Ventil Verlag necessita de uma ferramenta organizacional flexível para os seus processos de publicação interna. As diversas e pequenas tarefas organizacionais que não podem ser significativamente mapeadas em qualquer software padrão levaram a Ventil Verlag a SeaTable.

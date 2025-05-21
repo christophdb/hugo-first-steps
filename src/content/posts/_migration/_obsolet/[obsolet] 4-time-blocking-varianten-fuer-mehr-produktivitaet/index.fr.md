@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/fr/4-time-blocking-varianten-fuer-mehr-produktivitaet'
 color: '#eeeeee'
+draft: true
 ---
 
 La vie quotidienne au travail est souvent stressante et parfois, elle ne se déroule tout simplement pas comme vous l'aviez imaginé le matin. Vos plans pour la journée ont été complètement chamboulés par les appels téléphoniques, les réunions et les e-mails et vous vous demandez à la fin de la journée : qu'est-ce que j'ai vraiment réussi à faire ? Pour que de telles situations ne se reproduisent plus, vous devriez vous familiariser avec le Time Blocking.

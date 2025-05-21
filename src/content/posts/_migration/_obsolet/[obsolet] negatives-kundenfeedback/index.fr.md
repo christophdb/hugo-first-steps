@@ -5,6 +5,7 @@ lastmod: '2022-06-13'
 author: 'rbu'
 url: '/fr/negatives-kundenfeedback'
 color: '#eeeeee'
+draft: true
 ---
 
 Un feedback positif de la part des clients est souhaitable. Néanmoins, il peut arriver que, malgré tous vos efforts, vous receviez un feedback négatif. Mais le feedback négatif des clients n'est pas toujours mauvais. Vous pouvez en tirer des enseignements précieux pour l'amélioration de vos processus ou de votre produit. Pourquoi le feedback des clients est-il si important et comment gérer les avis négatifs des clients ? Nous vous donnons des conseils !

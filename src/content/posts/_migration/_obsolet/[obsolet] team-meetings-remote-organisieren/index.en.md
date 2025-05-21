@@ -6,6 +6,7 @@ coverImage: 'tyler-franta-iusJ25iYu1c-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/team-meetings-remote-organisieren'
 color: '#eeeeee'
+draft: true
 ---
 
 ## Organise your weekly team meetings with SeaTable

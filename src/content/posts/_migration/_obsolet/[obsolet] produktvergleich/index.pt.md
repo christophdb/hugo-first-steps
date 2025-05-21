@@ -5,6 +5,7 @@ lastmod: '2022-02-03'
 author: 'cdb'
 url: '/pt/produktvergleich'
 color: '#eeeeee'
+draft: true
 ---
 
 Não há nenhuma SeaTable, mas pode obter a SeaTable em três versões diferentes. A escolha do seu sistema SeaTable tem um grande impacto na rapidez com que pode começar, quanto tem de cuidar de si, o preço que paga e o controlo que tem sobre os seus próprios dados. Este artigo dar-lhe-á uma visão completa dos produtos que estão disponíveis e dos benefícios de cada produto. No final deste texto, saberá qual é o SeaTable adequado para si. Prometido.

@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/es/9-kostenlose-tools-fuer-ihr-business'
 color: '#eeeeee'
+draft: true
 ---
 
 ¿Herramientas empresariales gratuitas? Sí, ¡por favor! Para las empresas de nueva creación y las pequeñas empresas, las inversiones en herramientas de pago no suelen ser todavía viables. Los recursos son escasos y hay que tener mucho cuidado, porque el uso de software o herramientas rápidamente suma mucho al mes.

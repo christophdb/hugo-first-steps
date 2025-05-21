@@ -5,6 +5,7 @@ lastmod: '2022-06-14'
 author: 'pbr'
 url: '/pt/kontaktdatenerfassung-fuer-die-corona-nachverfolgung-in-der-gastronomie'
 color: '#eeeeee'
+draft: true
 ---
 
 A recolha de dados de contacto na indústria hoteleira para rastrear as cadeias de infecção Covid19 é um componente chave do pacote de medidas para conter a propagação do novo vírus Corona. O nosso Modelo de Registo de Convidados fornece uma solução simples e digital para acabar com a tediosa papelada envolvida na recolha de dados de contacto da Corona: Em vez de papel, o convidado insere os seus dados de contacto num formulário web no seu smartphone. Para abrir o formulário web, o seu convidado só tem de digitalizar um código QR com a câmara do seu telemóvel. As informações de contacto são armazenadas num centro de dados alemão e pode acompanhar a entrada das informações de contacto em tempo real através da sua conta de cliente SeaTable. Comece [agora](https://seatable.io/pt/registrierung/) gratuitamente com a solução tudo-em-um para captar dados de contacto em restaurantes, bares e cafés!

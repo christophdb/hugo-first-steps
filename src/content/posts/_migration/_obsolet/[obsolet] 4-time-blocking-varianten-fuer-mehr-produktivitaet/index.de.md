@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/de/4-time-blocking-varianten-fuer-mehr-produktivitaet'
 color: '#eeeeee'
+draft: true
 ---
 
 Der Arbeitsalltag ist oft stressig und manchmal verläuft er einfach nicht so, wie man es sich am Morgen vorgestellt hatte. Ihre Pläne für den Tag wurden durch Telefonanrufe, Meetings und Emails völlig durcheinander gebracht und Sie fragen sich am Ende des Tages: Was habe ich eigentlich überhaupt geschafft? Damit solche Situationen nicht mehr entstehen, sollten Sie sich mit Time Blocking bekannt machen.

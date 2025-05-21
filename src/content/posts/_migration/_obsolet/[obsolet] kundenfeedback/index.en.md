@@ -6,6 +6,7 @@ coverImage: 'flavio-amiel-kg11HbuQ5nU-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/kundenfeedback'
 color: '#eeeeee'
+draft: true
 ---
 
 Customer feedback is the basis for important decisions for many companies. No matter whether you are a start-up, an established company or work independently, feedback from your customers helps you to [constantly improve](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/) your [product](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/). With our [online tool](https://seatable.io/en/vorlage/ku9n1tyosmmho-8trn7rdg/), you get a comprehensive solution that enables you to:

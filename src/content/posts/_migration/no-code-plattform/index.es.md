@@ -5,6 +5,7 @@ lastmod: '2022-08-29'
 author: 'cdb'
 url: '/es/no-code-plattform'
 color: '#eeeeee'
+draft: true
 ---
 
 El desarrollo de software es siempre agotador, consume tiempo, es laborioso y requiere las habilidades de un desarrollador experimentado. No-Code es la promesa de acelerar y simplificar este laborioso proceso de desarrollo de software.

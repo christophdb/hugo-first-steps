@@ -5,6 +5,7 @@ lastmod: '2023-05-17'
 author: 'rbu'
 url: '/ru/seatable-plugins'
 color: '#eeeeee'
+draft: true
 ---
 
 ## Познакомьтесь с плагинами SeaTable

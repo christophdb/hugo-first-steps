@@ -6,6 +6,7 @@ coverImage: 'ventil-verlag.jpg'
 author: 'cdb'
 url: '/ventil-verlag'
 color: '#eeeeee'
+draft: true
 ---
 
 Ventil Verlag needs a flexible organisational tool for its internal publishing processes. The diverse and small organisational tasks that cannot be meaningfully mapped in any standard software led Ventil Verlag to SeaTable.

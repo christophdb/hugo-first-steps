@@ -6,6 +6,7 @@ coverImage: 'Mitarbeiterverzeichnis_AdobeStock_513255395.jpg'
 author: 'rdb'
 url: '/mitarbeiterverzeichnis'
 color: '#eeeeee'
+draft: true
 ---
 
 Who is the expert for which department? What is the colleague's e-mail address again? And who fits best into the team of the new [marketing project](https://seatable.io/en/vorlagen-projektplanung/)? The search for answers to these or similar questions can quickly become a time-consuming challenge. Unless your company has a well-maintained **employee directory**.

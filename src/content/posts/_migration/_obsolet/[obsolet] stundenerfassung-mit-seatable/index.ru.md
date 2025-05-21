@@ -5,6 +5,7 @@ lastmod: '2023-04-27'
 author: 'rbu'
 url: '/ru/stundenerfassung-mit-seatable'
 color: '#eeeeee'
+draft: true
 ---
 
 Электронный учет рабочего времени еще не является обязательным, но [если Федеральное министерство труда сделает свой выбор](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html), то скоро это произойдет. Простой [шаблон для учета рабочего времени](https://seatable.io/ru/arbeitszeiterfassung/) поможет вам решить эту проблему. С помощью SeaTable у вас есть форма для учета рабочего времени ваших сотрудников и в то же время наглядная таблица, в которой вы можете видеть все отработанные часы.

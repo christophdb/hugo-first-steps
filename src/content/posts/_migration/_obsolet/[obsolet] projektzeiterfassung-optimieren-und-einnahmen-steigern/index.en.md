@@ -6,6 +6,7 @@ coverImage: 'zeiterfassung-mit-seatable.jpg'
 author: 'ott'
 url: '/projektzeiterfassung-optimieren-und-einnahmen-steigern'
 color: '#eeeeee'
+draft: true
 ---
 
 Many service providers know and dread it: project time tracking. Time tracking is unpopular and, in most cases, is not carried out as meticulously as it perhaps should be. Yet the motto here is "time is money"! Designers, architects and agencies know this problem and sometimes find it difficult to find a remedy.

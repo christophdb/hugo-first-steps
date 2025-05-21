@@ -6,6 +6,7 @@ coverImage: 'eat-performance.jpg'
 author: 'cdb'
 url: '/eat-performance'
 color: '#eeeeee'
+draft: true
 ---
 
 SeaTable helps the Berlin-based food manufacturer eat Performance to coordinate the tasks in the team and to monitor the logistics processes. This allows the two founders to fully concentrate on the production and distribution of their healthy Paleo products.

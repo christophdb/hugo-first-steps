@@ -6,6 +6,7 @@ coverImage: 'Vorlagen-Projektplanung_AdobeStock_223684493_bearbeitet.jpg'
 author: 'cdb'
 url: '/vorlagen-projektplanung'
 color: '#eeeeee'
+draft: true
 ---
 
 **Project planning\*\***templates\*\* make it possible to start planning and implementing a project immediately. Gantt charts, Kanban boards or smart lists are used to manage project activities, deadlines, budgets and more. Below you will find various templates including sample data for creating your project plan.

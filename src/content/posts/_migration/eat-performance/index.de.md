@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'cdb'
 url: '/de/eat-performance'
 color: '#eeeeee'
+draft: true
 ---
 
 SeaTable hilft der Berliner Lebensmittel-Manufaktur eat Performance dabei, die Aufgaben im Team zu koordinieren und die Logistikprozesse zu überwachen. So können sich die beiden Gründer voll auf die Herstellung und den Vertrieb ihrer gesunden Paleo-Produkte konzentrieren.

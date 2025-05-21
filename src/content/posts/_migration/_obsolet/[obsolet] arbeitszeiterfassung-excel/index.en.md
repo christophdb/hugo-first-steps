@@ -6,6 +6,7 @@ coverImage: 'Arbeitszeiterfassung.jpg'
 author: 'ott'
 url: '/arbeitszeiterfassung-excel'
 color: '#eeeeee'
+draft: true
 ---
 
 Do you already know the [legal requirements](https://seatable.io/en/zeiterfassung-mitarbeiter/) for electronic working time recording? If so, you're probably looking for the best software solution for your needs right now. Options are a dime a dozen, but software licenses for each employee can quickly run into money - whether you're using specialized software like Personio or Clockodo or a spreadsheet like Microsoft Excel. In many companies that use Microsoft's Office package anyway, Excel is used to record working hours, although this has some disadvantages. In this article, you will therefore learn which cost-effective alternative is available and how it compares to Excel.

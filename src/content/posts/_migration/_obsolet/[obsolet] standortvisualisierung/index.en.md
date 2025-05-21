@@ -6,6 +6,7 @@ coverImage: 'simon-migaj-sa7KClvDBpo-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/standortvisualisierung'
 color: '#eeeeee'
+draft: true
 ---
 
 ## The map plugin from SeaTable

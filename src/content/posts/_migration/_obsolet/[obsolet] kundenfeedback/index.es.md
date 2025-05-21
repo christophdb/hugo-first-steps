@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/es/kundenfeedback'
 color: '#eeeeee'
+draft: true
 ---
 
 Las opiniones de los clientes son la base de importantes decisiones para muchas empresas. Tanto si se trata de una nueva empresa, como de una empresa consolidada o que trabaja de forma independiente, los comentarios de sus clientes le ayudan a [mejorar constantemente](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/) su [producto](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/). Con nuestra [herramienta en](https://seatable.io/es/vorlage/ku9n1tyosmmho-8trn7rdg/) línea, obtendrá una solución integral que le permitirá:

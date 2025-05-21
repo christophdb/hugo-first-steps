@@ -6,6 +6,7 @@ coverImage: 'stop-1.jpg'
 author: 'ott'
 url: '/4-time-blocking-varianten-fuer-mehr-produktivitaet'
 color: '#eeeeee'
+draft: true
 ---
 
 Everyday work is often stressful and sometimes it just doesn't go as you had imagined in the morning. Your plans for the day have been completely disrupted by phone calls, meetings and emails and at the end of the day you ask yourself: what did I actually manage to do? To prevent such situations from arising again, you should familiarise yourself with Time Blocking.

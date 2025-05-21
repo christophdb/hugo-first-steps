@@ -5,6 +5,7 @@ lastmod: '2022-08-08'
 author: 'rdb'
 url: '/ru/mitarbeiterverzeichnis'
 color: '#eeeeee'
+draft: true
 ---
 
 Wer ist der Experte für welchen Fachbereich? Wie lautet nochmal die Mailadresse der Kollegin? Und wer passt am besten ins Team des neuen [Marketingprojekts](https://seatable.io/vorlagen-projektplanung/)? Die Suche nach Antworten auf diese oder ähnliche Fragen kann sich schnell zu einer zeitlichen Herausforderung entwickeln. Es sei denn in Ihrem Unternehmen gibt es ein gut gepflegtes **Mitarbeiterverzeichnis**.

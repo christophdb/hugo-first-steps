@@ -5,6 +5,7 @@ lastmod: '2022-08-29'
 author: 'cdb'
 url: '/fr/no-code-plattform'
 color: '#eeeeee'
+draft: true
 ---
 
 Le développement de logiciels est toujours fatigant, chronophage, coûteux et requiert les compétences d'un développeur expérimenté. No-Code est la promesse d'accélérer et de simplifier ce processus laborieux qu'est le développement de logiciels.

@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/fr/krankmeldungen-verwalten'
 color: '#eeeeee'
+draft: true
 ---
 
 Il arrive régulièrement que les employés d'une entreprise doivent se faire porter pâle - cela ne disparaît pas. En particulier en période d'épidémie de grippe, des pénuries de personnel se produisent rapidement lorsqu'un nombre particulièrement élevé de personnes tombent malades en même temps. Heureusement, cette situation s'est grandement améliorée grâce à des mesures d'hygiène strictes, car les employés présentant des symptômes de maladie sont désormais beaucoup plus enclins à rester chez eux et à protéger ainsi leurs collègues.

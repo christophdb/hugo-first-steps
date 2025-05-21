@@ -5,6 +5,7 @@ lastmod: '2022-08-29'
 author: 'cdb'
 url: '/de/no-code-plattform'
 color: '#eeeeee'
+draft: true
 ---
 
 # Low Code, No Code und die Software-Entwicklung der Zukunft

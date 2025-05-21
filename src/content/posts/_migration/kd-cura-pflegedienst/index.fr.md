@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'cdb'
 url: '/fr/kd-cura-pflegedienst'
 color: '#eeeeee'
+draft: true
 ---
 
 Avec SeaTable, Norman Kolwitz, fondateur de KD-Cura, veut être un pionnier dans son secteur en numérisant les processus de son service de soins ambulatoires. Dans sa recherche d'un outil approprié, il est tombé sur SeaTable et trouve le système très "charmant".

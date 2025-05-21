@@ -6,6 +6,7 @@ coverImage: 'kostenlose-tools.jpg'
 author: 'ott'
 url: '/9-kostenlose-tools-fuer-ihr-business'
 color: '#eeeeee'
+draft: true
 ---
 
 Free business tools? Yes, please! For start-ups and small companies, investments in paid tools are often not yet feasible. Resources are scarce and they have to be managed very carefully, because the use of software or tools quickly adds up to quite a bit per month.

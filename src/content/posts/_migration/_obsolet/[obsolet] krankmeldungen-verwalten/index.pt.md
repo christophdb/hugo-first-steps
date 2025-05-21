@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/pt/krankmeldungen-verwalten'
 color: '#eeeeee'
+draft: true
 ---
 
 Acontece vezes sem conta que os empregados nas empresas têm de chamar doentes - simplesmente não desaparece. Especialmente nos tempos da epidemia de gripe, a escassez de pessoal ocorre rapidamente quando, em particular, muitos adoecem ao mesmo tempo. Felizmente, esta situação melhorou muito devido a medidas rigorosas de higiene, uma vez que os empregados com sintomas de doença têm agora muito mais probabilidades de ficar em casa e assim proteger os seus colegas.

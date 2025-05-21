@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/pt/9-kostenlose-tools-fuer-ihr-business'
 color: '#eeeeee'
+draft: true
 ---
 
 Ferramentas comerciais gratuitas? Sim, por favor! Para as empresas em fase de arranque e para as pequenas empresas, os investimentos em ferramentas pagas ainda não são, muitas vezes, viáveis. Os recursos são escassos e é preciso ter muito cuidado, porque a utilização de software ou de ferramentas rapidamente se torna muito dispendiosa por mês.

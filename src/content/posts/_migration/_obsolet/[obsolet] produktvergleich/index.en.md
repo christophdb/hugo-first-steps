@@ -6,6 +6,7 @@ coverImage: 'blog-editionsvergleich.jpg'
 author: 'cdb'
 url: '/produktvergleich'
 color: '#eeeeee'
+draft: true
 ---
 
 There is no one SeaTable, but you can get SeaTable in three different versions. The choice of your SeaTable system has a big impact on how quickly you can get started, how much you have to take care of yourself, the price you pay and the control you have over your own data. This article will give you a complete overview of what products are available to you and the benefits of each product. By the end of this text, you will know which SeaTable is right for you. Promised.

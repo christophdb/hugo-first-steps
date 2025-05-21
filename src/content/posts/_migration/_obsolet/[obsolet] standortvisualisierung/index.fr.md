@@ -5,6 +5,7 @@ lastmod: '2023-05-17'
 author: 'rbu'
 url: '/fr/standortvisualisierung'
 color: '#eeeeee'
+draft: true
 ---
 
 ## Le plugin de cartographie de SeaTable

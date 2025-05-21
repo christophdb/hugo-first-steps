@@ -6,6 +6,7 @@ coverImage: 'kontakt-template.jpg'
 author: 'ott'
 url: '/kundenzufriedenheit-steigern-kontaktformular'
 color: '#eeeeee'
+draft: true
 ---
 
 Increasing customer satisfaction is the be-all and end-all for business success these days. Without satisfied customers, there is no basis for personal recommendations and [word of mouth](https://www.sem-deutschland.de/inbound-marketing-agentur/online-marketing-glossar/was-ist-word-of-mouth-marketing/), one of the most important tools when it comes to building reach. Even worse, dissatisfied customers are much more likely to voice their opinions than satisfied customers. And bad reviews very quickly lead to longer-term image problems on the Internet.

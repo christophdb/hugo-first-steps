@@ -5,6 +5,7 @@ lastmod: '2022-08-08'
 author: 'rdb'
 url: '/fr/mitarbeiterverzeichnis'
 color: '#eeeeee'
+draft: true
 ---
 
 Qui est l'expert dans quel domaine ? Quelle est l'adresse e-mail de la collègue déjà ? Et qui s'intègre le mieux dans l'équipe du nouveau [projet de marketing](https://seatable.io/fr/vorlagen-projektplanung/)? La recherche de réponses à ces questions ou à des questions similaires peut rapidement devenir un défi en termes de temps. Sauf si votre entreprise dispose d'un **annuaire des collaborateurs** bien entretenu.

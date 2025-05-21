@@ -5,6 +5,7 @@ lastmod: '2022-06-20'
 author: 'rdb'
 url: '/de/teamadministration'
 color: '#eeeeee'
+draft: true
 ---
 
 Mit dem Upgrade der SeaTable Cloud auf die Version 3.0 profitieren Cloud Abonnenten nicht nur von den vielen neuen und verbesserten Funktionen des [Major Releases](/seatable-release-3-0), sondern auch von einer neuen Teamverwaltung, die das Management von kleinen und insbesondere größeren Teams vereinfacht. Neue Funktionen wurden ergänzt, bestehende Funktionen wurden erweitert und ein neues Design schafft mehr Übersicht und Nutzerfreundlichkeit. Wir freuen uns, Ihnen die neue Teamverwaltung und die wichtigsten Änderungen in diesem Betrag vorzustellen.

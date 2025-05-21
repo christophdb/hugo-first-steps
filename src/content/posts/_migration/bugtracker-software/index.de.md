@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/de/bugtracker-software'
 color: '#eeeeee'
+draft: true
 ---
 
 # Effektives Software Testing: So optimieren Sie die Fehlersuche

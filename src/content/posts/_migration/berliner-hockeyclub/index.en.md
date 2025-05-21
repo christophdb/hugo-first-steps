@@ -6,6 +6,7 @@ coverImage: 'berliner-hockeyclub-goes-digital.jpg'
 author: 'cdb'
 url: '/berliner-hockeyclub'
 color: '#eeeeee'
+draft: true
 ---
 
 As a manager of a sports club, there are many areas to keep track of and manage, be it general accounting, pitch bookings or task management for all members. The Berlin Hockey Club uses SeaTable to transfer the many individual systems that currently exist into a single system and thus digitise its processes.

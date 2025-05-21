@@ -5,6 +5,7 @@ lastmod: '2023-05-17'
 author: 'rbu'
 url: '/de/seatable-plugins'
 color: '#eeeeee'
+draft: true
 ---
 
 ## Lernen Sie die Plugins von SeaTable kennen

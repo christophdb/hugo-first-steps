@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'cdb'
 url: '/pt/eat-performance'
 color: '#eeeeee'
+draft: true
 ---
 
 A SeaTable ajuda o fabricante de alimentos berlinense eat Performance a coordenar as tarefas da equipa e a monitorizar os processos logísticos. Isto permite que os dois fundadores se concentrem totalmente na produção e distribuição dos seus produtos Paleo saudáveis.

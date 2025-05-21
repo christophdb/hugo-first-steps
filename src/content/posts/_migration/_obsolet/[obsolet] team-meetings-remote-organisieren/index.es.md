@@ -5,6 +5,7 @@ lastmod: '2022-06-13'
 author: 'rbu'
 url: '/es/team-meetings-remote-organisieren'
 color: '#eeeeee'
+draft: true
 ---
 
 ## Organice sus reuniones semanales de equipo con SeaTable

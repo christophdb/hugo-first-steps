@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'cdb'
 url: '/de/berliner-hockeyclub'
 color: '#eeeeee'
+draft: true
 ---
 
 Als Manager eines Sportvereins gilt es viele Bereiche zu überschauen und zu verwalten, sei es die allgemeine Buchhaltung, Platzbuchungen oder die Aufgabenverwaltung aller Mitglieder. Der Berliner Hockeyclub nutzt SeaTable, um die vielen einzelnen Systeme, die momentan existieren, in ein einziges System zu überführen und damit seine Prozesse zu digitalisieren.

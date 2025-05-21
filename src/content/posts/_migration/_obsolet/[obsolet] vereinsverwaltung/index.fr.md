@@ -5,6 +5,7 @@ lastmod: '2025-01-14'
 author: 'kgr'
 url: '/fr/vereinsverwaltung'
 color: '#eeeeee'
+draft: true
 ---
 
 Les solutions de gestion des associations sont légion. Toutes les solutions logicielles que nous avons testées promettent d'être rapides, simples et intuitives. Mais nous pensons qu'il manque à toutes ces solutions une caractéristique centrale. La flexibilité de s'adapter aux défis et à la situation individuelle de chaque association. Les logiciels de gestion d'associations comme [ClubDesk](https://www.clubdesk.de/), [easyVerein](https://easyverein.com/), [SEWOBE](https://www.sewobe.de/) ou [MTH](https://www.mth-software.de/), par exemple, prescrivent exactement à quoi doivent ressembler les processus et les procédures. Les masques de saisie et les textes sont inflexibles et ne peuvent que très rarement être adaptés.

@@ -6,6 +6,7 @@ coverImage: 'trent-erwin-UgA3Xvi3SkA-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/negatives-kundenfeedback'
 color: '#eeeeee'
+draft: true
 ---
 
 Positive customer feedback is desirable. Nevertheless, it also happens that you receive negative feedback despite all your efforts. However, negative customer feedback does not always have to be bad. It is precisely from this that you can gain valuable insights for improving your processes or your product. Why is customer feedback so important and how do you deal with negative customer feedback? We give you tips!

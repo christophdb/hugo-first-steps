@@ -5,6 +5,7 @@ lastmod: '2023-04-27'
 author: 'cdb'
 url: '/fr/zeiterfassung-excel-alternativen'
 color: '#eeeeee'
+draft: true
 ---
 
 Comment fonctionne la **saisie des temps dans Excel** et quelles sont les alternatives qui s'offrent à vous ? Vous apprendrez ci-dessous comment mettre en œuvre la saisie des temps avec Excel ou un outil alternatif. Découvrez également les avantages et les inconvénients des différentes solutions. Laquelle convient à votre entreprise ?

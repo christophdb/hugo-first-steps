@@ -6,6 +6,7 @@ coverImage: 'adam-jang-8pOTAtyd_Mc-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/kundenfeedback-verwerten'
 color: '#eeeeee'
+draft: true
 ---
 
 From qualitative raw data to a brand new product feature. It can take some time before a new feature emerges from a customer's comment. Nevertheless, the process is worthwhile and, with a suitable online tool, much easier than you might think.

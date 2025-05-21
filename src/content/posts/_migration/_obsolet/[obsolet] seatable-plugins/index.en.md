@@ -6,6 +6,7 @@ coverImage: 'ian-dooley-DJ7bWa-Gwks-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/seatable-plugins'
 color: '#eeeeee'
+draft: true
 ---
 
 ## Get to know the plugins of SeaTable

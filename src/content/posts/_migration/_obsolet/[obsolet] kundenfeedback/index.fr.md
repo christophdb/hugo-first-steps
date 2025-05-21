@@ -5,6 +5,7 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/fr/kundenfeedback'
 color: '#eeeeee'
+draft: true
 ---
 
 Le retour d'information des clients est à la base de décisions importantes pour de nombreuses entreprises. Que vous soyez une start-up, une entreprise établie ou que vous travailliez de manière indépendante, les commentaires de vos clients vous aident à [améliorer constamment](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/) votre [produit](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/). Avec notre [outil en ligne](https://seatable.io/fr/modele/ku9n1tyosmmho-8trn7rdg/), vous disposez d'une solution complète qui vous permet de :

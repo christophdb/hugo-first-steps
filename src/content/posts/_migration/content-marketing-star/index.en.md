@@ -6,6 +6,7 @@ coverImage: 'content-marketing-star-kunde-seatable.jpg'
 author: 'cdb'
 url: '/content-marketing-star'
 color: '#eeeeee'
+draft: true
 ---
 
 The full-service agency "Content Marketing Star" helps its clients gain new customers with the help of a content marketing strategy. SeaTable helps the agency to plan and structure all components of such a strategy in a database and to coordinate them with the customer.
