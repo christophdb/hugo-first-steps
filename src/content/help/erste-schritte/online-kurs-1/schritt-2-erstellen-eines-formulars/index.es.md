@@ -1,5 +1,5 @@
 ---
-title: 'Schritt 2: Erstellen eines Formulars'
+title: 'Paso 2: Crear un formulario - SeaTable'
 date: 2024-08-30
 lastmod: '2024-09-05'
 categories:
@@ -8,46 +8,46 @@ author: 'cdb'
 url: '/es/ayuda/schritt-2-erstellen-eines-formulars'
 ---
 
-Nachdem wir in Schritt 1 die notwendige Struktur Ihrer Ausgabenverwaltung angelegt haben, können Sie nun mithilfe Ihres Browsers jederzeit neue Ausgaben erfassen. Sie erinnern sich bestimmt: Jede Zeile steht für einen neuen Datensatz und in Ihrem Fall einen Bezahlvorgang.
+Ahora que hemos creado la estructura necesaria para su gestión de gastos en el paso 1, puede introducir nuevos gastos en cualquier momento utilizando su navegador. Probablemente lo recuerde: Cada línea representa un nuevo registro de datos y, en su caso, una operación de pago.
 
-Doch natürlich wäre es schön, wenn Sie auch von unterwegs über Ihr Handy weitere Ausgaben erfassen könnten. Oder Sie möchten auch die Ausgaben von Teamkollegen oder Familienmitgliedern erfassen. Für diese Fälle bietet sich ein Webformular an, welches Sie mit SeaTable ganz einfach erstellen können, da Sie durch die Spaltentypen ja quasi schon die Möglichkeiten des Eingabeformulars definiert haben. Aber was erkläre ich lange und umständlich. Lassen Sie uns das Formular einfach bauen und dann ausprobieren.
+Pero, por supuesto, estaría bien que también pudieras registrar otros gastos en tu teléfono móvil mientras estás fuera de casa. O también le gustaría registrar los gastos de compañeros de equipo o familiares. Para estos casos, lo ideal es un formulario web, que puede crear fácilmente con SeaTable, puesto que ya ha definido las posibilidades del formulario de entrada a través de los tipos de columna. Pero, ¿qué tengo que explicar largo y tendido? Construyamos el formulario y probémoslo.
 
-## Anlage des Webformulars
+## Adjuntar el formulario web
 
-Im Kopfbereich Ihrer Base finden Sie viele zusätzliche Funktionen. Hinter dem Knopf `Forms` bietet SeaTable Ihnen die Möglichkeit neue Webformulare zu erstellen.
+Encontrará muchas funciones adicionales en la zona de cabecera de su base. Detrás del botón `Forms` SeaTable le ofrece la posibilidad de crear nuevos formularios web.
 
 ![](images/level1-create-webform.png)
 
-1. Erstellen Sie ein neues Webformular mit dem Namen `Expense Tracking`. Eigentlich ist der Name egal, aber warum sollte man dem Formular nicht einen schönen Namen geben.
-2. Es öffnet sich eine neue Benutzeroberfläche, in der Sie das Webformular gestalten können.
-3. Ziehen Sie alle vier Tabellenfelder `Reason`, `Date`, `Amount` und `Category` per Drag-and-Drop in das Formular.
+1. Crear un nuevo formulario web con el nombre `Expense Tracking`. El nombre no importa, pero ¿por qué no ponerle un nombre bonito?
+2. Se abre una nueva interfaz de usuario en la que puede diseñar el formulario web.
+3. Arrastre los cuatro campos de la tabla `Reason`, `Date`, `Amount` y `Category` mediante arrastrar y soltar en el formulario.
 
 ![](images/level1-webform.png)
 
-## Weitere Einstellungen des Webformulars
+## Otros ajustes del formulario web
 
-Ihr Webformular ist fast fertig und kann bereits genutzt werden. Trotzdem gibt es noch drei Einstellungen, die ich Ihnen empfehlen würde. Um die Einstellungen eines Eingabefeldes anzupassen, müssen Sie im Formular auf das Eingabefeld klicken, wodurch unmittelbar auf der rechten Seite die Einstellungsmöglichkeiten dieses Eingabefelds angezeigt werden. Die Einstellungsmöglichkeiten variieren je nach Eingabefeld, welches Sie anklicken.
+Su formulario web está casi listo y ya se puede utilizar. Sin embargo, todavía hay tres ajustes que yo recomendaría. Para ajustar la configuración de un campo de entrada, debe hacer clic en el campo de entrada del formulario, lo que mostrará inmediatamente las opciones de configuración para este campo de entrada en el lado derecho. Las opciones de configuración varían en función del campo de entrada en el que haga clic.
 
-- `Category`: Die einzelnen Optionen sollen als **Liste** dargestellt werden
-- `Date`: Der aktuelle Tag soll bereits als **Standardwert** gesetzt werden
-- `Amount`: Die Eingabe dieses Feldes ist zwingend **erforderlich**
+- `Category`Las opciones individuales deben ser **Lista** mostrar
+- `Date`El día actual ya debería ser **Valor por defecto** ser fijado
+- `Amount`Campo obligatorio **obligatorio**
 
-Nun ist die Konfiguration des Webformulars abgeschlossen und wir können erste Datensätze darüber erfassen.
+La configuración del formulario web ya está completa y podemos utilizarlo para introducir los primeros registros de datos.
 
-## Ausprobieren des Webformulars
+## Probar el formulario web
 
-Über die orangen Schaltflächen in der oberen rechten Ecke erhalten Sie entweder die URL des Webformulars oder einen QR-Code.
+Utilice los botones naranjas de la esquina superior derecha para obtener la URL del formulario web o un código QR.
 
-Sie werden sehen, dass immer, wenn Sie das Formular absenden, unmittelbar ein neuer Datensatz in Ihre Base geschrieben wird. Sie müssen die Seite in Ihrem Browser nicht neu laden.
+Verás que cada vez que envías el formulario, se escribe inmediatamente un nuevo registro de datos en tu base. No es necesario recargar la página en el navegador.
 
-Experimentieren Sie ruhig ein paar Minuten mit dem Webformular und genießen Sie den Fortschritt, den Sie soeben erzielt haben: **Ab sofort können Sie und jeder andere, dem Sie den Link zu diesem Webformular mitteilen, neue Einträge in Ihrer Base erstellen.**
+Siéntete libre de experimentar con el formulario web durante unos minutos y disfruta de los progresos que acabas de hacer: **A partir de ahora, tú y cualquier otra persona con la que compartas el enlace a este formulario web podréis crear nuevas entradas en tu base.**
 
-Wichtig ist, dass über das Webformular nur neue Einträge erstellt werden können und man keine existierenden Einträge bearbeiten oder einsehen kann.
+Es importante señalar que sólo pueden crearse nuevas entradas a través del formulario web y que las entradas existentes no pueden editarse ni visualizarse.
 
-Nehmen Sie sich auch ein paar Minuten Zeit und erkunden Sie die zusätzlichen Möglichkeiten des Webformulars.
+Tómese unos minutos para explorar las posibilidades adicionales del formulario web.
 
-## Hilfeartikel mit weiteren Informationen
+## Artículo de ayuda con más información
 
-- [Webformulare im Allgemeinen]({{< relref "help/base-editor/webformulare/webformulare" >}})
-- [Anlegen eines Webformulars]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
-- [Konfigurationsmöglichkeiten eines Webformulars]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})
+- [Formularios web en general]({{< relref "help/base-editor/webformulare/webformulare" >}})
+- [Crear un formulario web]({{< relref "help/base-editor/webformulare/anlegen-eines-webformulars" >}})
+- [Opciones de configuración de un formulario web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})
