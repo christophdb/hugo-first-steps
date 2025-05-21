@@ -109,4 +109,4 @@ color: '#eeeeee'
 
 [В шаблон "CRM Дебиторская задолженность"](https://seatable.io/ru/vorlage/wsnf1ukarv6sp5omx6a2og/)  
 [Попробуйте SeaTable в облаке бесплатно прямо сейчас]({{< relref "pages/registration" >}})  
-[Или предпочитаете использовать SeaTable Enterprise в собственном центре обработки данных](/ru/get-enterprise-server/)
+[Или предпочитаете использовать SeaTable Enterprise в собственном центре обработки данных]({{< relref "pages/product/seatable-server" >}})

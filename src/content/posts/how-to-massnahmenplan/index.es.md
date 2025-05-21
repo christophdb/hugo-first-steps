@@ -7,7 +7,7 @@ url: '/es/how-to-massnahmenplan'
 color: '#eeeeee'
 ---
 
-Para que las empresas crezcan y se desarrollen, se fijan constantemente nuevos objetivos y trabajan para alcanzarlos con todos sus recursos. El plan de acción es un método de probada eficacia para alcanzar estos objetivos, por ejemplo en la [gestión de proyectos](/es/projekt-management/), las finanzas y el control y el [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
+Para que las empresas crezcan y se desarrollen, se fijan constantemente nuevos objetivos y trabajan para alcanzarlos con todos sus recursos. El plan de acción es un método de probada eficacia para alcanzar estos objetivos, por ejemplo en la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}), las finanzas y el control y el [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
 
 ## ¿Qué es un plan de acción?
 

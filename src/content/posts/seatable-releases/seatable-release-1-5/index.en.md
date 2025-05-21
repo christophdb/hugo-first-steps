@@ -28,7 +28,7 @@ The options menu in single and multiple select columns is another menu that we c
 
 ### Co-editing on tables
 
-[SeaTable 1.4](seatable-release-1-4/?lang=auto) introduced a new wizard to facilitate the linking of records. The wizard opens with a double-click in a cell with a link and presents all records in the linked column in an overlay. Clicking a record from the list posts it in the cell. The wizard made linking a record as simple as selecting a value from a dropdown menu.
+[SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) introduced a new wizard to facilitate the linking of records. The wizard opens with a double-click in a cell with a link and presents all records in the linked column in an overlay. Clicking a record from the list posts it in the cell. The wizard made linking a record as simple as selecting a value from a dropdown menu.
 
 SeaTable 1.5 now makes the wizard even more powerful by adding an edit to the existing display function! A click on a linked record opens the record's row details. Any edits made there are written to the linked table. If the linked table needs to be accessed, a link atop the record's details provides one-click access.
 
@@ -60,7 +60,7 @@ In the new version we introduce user-defined release permissions. Thanks to them
 
 ## More flexible forms
 
-SeaTable's powerful web forms have proven to be a very sought after feature in recent months. We are proud that countless restaurants, coffee shops and bars all across Europe have started using [SeaTable for registering guest contact information during the Corona pandemic](/en/corona-gaesteregistrierung/).
+SeaTable's powerful web forms have proven to be a very sought after feature in recent months. We are proud that countless restaurants, coffee shops and bars all across Europe have started using SeaTable for registering guest contact information during the Corona pandemic.
 
 Based on customer feedback and in hopes of helping this suffering industry, we have added three options to customize the web forms: First, custom "Thank you for your participation" messages can now be created. You want to send a special thank you to your guests or provide further information after they have answered the questions, SeaTable 1.5 allows you to do just that. Secondly, automatic forwarding has been a much requested feature. It is our pleasure to implement it in this new version as well. If a forwarding address is specified, SeaTable will automatically forward to that address. Thirdly, we have also made the hint functions more flexible. In addition to the form hint at the bottom of the form, there is now also the possibility to display a hint in front of the form fields.
 

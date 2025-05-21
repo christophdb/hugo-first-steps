@@ -142,4 +142,4 @@ In addition, you do not need a separate solution for each individual task area, 
 
 [To the "CRM offer management" template](https://seatable.io/en/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)  
 [Try SeaTable in the cloud for free now]({{< relref "pages/registration" >}})  
-[Or prefer to run SeaTable Enterprise in your own data centre](/en/get-enterprise-server/)
+[Or prefer to run SeaTable Enterprise in your own data centre]({{< relref "pages/product/seatable-server" >}})

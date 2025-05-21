@@ -80,7 +80,7 @@ Read all the details about the three SeaTable products in the following section.
 
 ## The SeaTable Cloud is ready for immediate use
 
-So far, this article has only talked about the SeaTable Cloud. In fact, there are three cloud offers called "Free", "Plus" and "Enterprise". These differ in price, the functions included and the usage limits. As the name suggests, the Free subscription is a free and at the same time functionally limited version. A maximum of 2,000 rows is available to your team with a Free subscription. With a Plus and Enterprise subscription, you pay a monthly fee and receive higher limits and more functions in return. For a full list of the exact differences between these subscription models, see the SeaTable Cloud [pricing page](/en/preise/).
+So far, this article has only talked about the SeaTable Cloud. In fact, there are three cloud offers called "Free", "Plus" and "Enterprise". These differ in price, the functions included and the usage limits. As the name suggests, the Free subscription is a free and at the same time functionally limited version. A maximum of 2,000 rows is available to your team with a Free subscription. With a Plus and Enterprise subscription, you pay a monthly fee and receive higher limits and more functions in return. For a full list of the exact differences between these subscription models, see the SeaTable Cloud [pricing page]({{< relref "pages/prices" >}}).
 
 The SeaTable Cloud is configured so that teams can be formed. Each team can include as many other members as desired, who can then work together, but at the same time the teams are logically separated from each other. Sharing across team boundaries is possible, but groups can only be formed within a team. The SeaTable software thus ensures that everyone can only access the information to which they should have access.
 
@@ -133,4 +133,4 @@ SeaTable Enterprise is installed via Docker on a Linux server. The operation is 
 - No internet connection required
 - Individual configuration of the system possible
 
-In addition to the Enterprise Edition, there is also the Developer Edition, which is functionally very limited and is primarily aimed at developers who want to use SeaTable as a flexible database with its own front end. Details on the two editions and the exact differences can be found in the blog article [SeaTable Enterprise and Developer Edition in comparison](/en/editionsvergleich/).
+In addition to the Enterprise Edition, there is also the Developer Edition, which is functionally very limited and is primarily aimed at developers who want to use SeaTable as a flexible database with its own front end. Details on the two editions and the exact differences can be found in the blog article [SeaTable Enterprise and Developer Edition in comparison]({{< relref "posts/editionsvergleich" >}}).

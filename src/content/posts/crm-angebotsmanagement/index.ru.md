@@ -141,4 +141,4 @@ CRM-система от SeaTable
 
 [К шаблону "Управление предложениями CRM"](https://seatable.io/ru/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)  
 [Попробуйте SeaTable в облаке бесплатно прямо сейчас]({{< relref "pages/registration" >}})  
-[Или предпочитаете использовать SeaTable Enterprise в собственном центре обработки данных](/ru/get-enterprise-server/)
+[Или предпочитаете использовать SeaTable Enterprise в собственном центре обработки данных]({{< relref "pages/product/seatable-server" >}})

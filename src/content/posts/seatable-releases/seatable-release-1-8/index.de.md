@@ -39,7 +39,7 @@ Für Sie als Vertriebsleiter ist die Aktualisierung des Produktkatalogs folglich
 
 Externe Links für Bases gehören schon seit der Version 1.0 von SeaTable zu den zentralen Sharing-Funktionen. Die nun neu eingeführten externen Links für Ansichten sind deren logische Erweiterung und erlauben einen granulareren Datenaustausch mit externen Dritten. Wie der Name sagt, ein externer Link für eine Ansicht ist eine URL, die – unabhängig vom einer SeaTable Anmeldung – Lesezugriff auf eine bestimmte Ansicht einer Tabelle gewährt. Die Zeilen und Spalten, die durch die Ansichtseinstellungen ausgeblendet werden, sowie die anderen Tabellen in der Base bleiben von den Besuchern des externen Links verborgen.
 
-Sie erstellen einen externen Link für eine Ansicht über das Kontextmenü einer Ansicht. Klicken Sie auf das Dreipunkte-Icon neben des Namens der Ansicht. Im “Ansicht teilen” Dialog können Sie den Link an Ihre Bedürfnisse anpassen. Mit “Erstellen” wird der Link erzeugt. Den Link können Sie auf jede erdenkliche Art teilen: per E-Mail, per Chat oder durch die Einbettung in einer Webseite (wie wir das beispielsweise auf unserer Seite [Newsroom](/unternehmen/newsroom/) gemacht haben).
+Sie erstellen einen externen Link für eine Ansicht über das Kontextmenü einer Ansicht. Klicken Sie auf das Dreipunkte-Icon neben des Namens der Ansicht. Im “Ansicht teilen” Dialog können Sie den Link an Ihre Bedürfnisse anpassen. Mit “Erstellen” wird der Link erzeugt. Den Link können Sie auf jede erdenkliche Art teilen: per E-Mail, per Chat oder durch die Einbettung in einer Webseite (wie wir das beispielsweise auf unserer Seite [Newsroom]({{< relref "pages/press" >}}) gemacht haben).
 
 ## E-Mail Versand
 

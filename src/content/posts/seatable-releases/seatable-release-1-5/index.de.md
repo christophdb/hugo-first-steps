@@ -9,7 +9,7 @@ color: '#eeeeee'
 
 Wir haben heute cloud.seatable.io auf die Version 1.5 von SeaTable aktualisiert. Mit dem nächsten Login profitieren alle Nutzer von spannenden neuen Features und einer Reihe von Verbesserungen an Interface und bestehenden Funktionen. Auf den ersten Blick werden die zahlreichen kleineren und größeren Änderungen am Tabelleneditor auffallen, die zu einer höheren Workfloweffizienz und verbesserten Benutzererfahrung führen. Die neuen benutzerdefinierten Freigabeberechtigungen bieten mehr Kontrolle und Flexibilität bei der gemeinsamen Arbeit an Bases. Erweiterte Individualisierungsoptionen machen SeaTables Webformulare ein noch vielseitigeres Werkzeug für die Datenerfassung.
 
-The vollständige Liste der Änderungen findet sich, wie immer, in [SeaTables Changelog](/docs/changelog/version-1-5/). Diese Release Note stellt die wichtigsten und spannendsten Änderungen dieser neuen Version vor.
+The vollständige Liste der Änderungen findet sich, wie immer, in [SeaTables Changelog](https://seatable.io/docs/changelog/version-1-5/). Diese Release Note stellt die wichtigsten und spannendsten Änderungen dieser neuen Version vor.
 
 ## Verbesserter Tabelleneditor
 
@@ -27,7 +27,7 @@ Das Optionenmenü der Einfach- und Mehrfachauswahlspalten ist ein weiteres Modal
 
 ### Gleichzeitige Bearbeitung mehrerer Tabellen
 
-[SeaTable 1.4](seatable-release-1-4/?lang=auto) führte einen neuen Assistenten ein, der die Verknüpfung von Einträgen erleichtert. Dieser Assistent öffnet sich mit einem Klick auf eine Verknüpfungszelle und stellt dann alle Einträge in der verknüpften Spalte in einem übersichtlichen Fenster dar. Ein weiterer Klick auf einen Eintrag erstellt die Verknüpfung zum Eintrag in der Zelle. Anders ausgedrückt: Mit dem neuen Assistenten wurde die Verknüpfung von Einträgen so einfach wie die Auswahl eines Werts aus einem Dropdown-Menü.
+[SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) führte einen neuen Assistenten ein, der die Verknüpfung von Einträgen erleichtert. Dieser Assistent öffnet sich mit einem Klick auf eine Verknüpfungszelle und stellt dann alle Einträge in der verknüpften Spalte in einem übersichtlichen Fenster dar. Ein weiterer Klick auf einen Eintrag erstellt die Verknüpfung zum Eintrag in der Zelle. Anders ausgedrückt: Mit dem neuen Assistenten wurde die Verknüpfung von Einträgen so einfach wie die Auswahl eines Werts aus einem Dropdown-Menü.
 
 SeaTable 1.5 macht diesen Assistenten nun noch leistungsfähiger: Einträge in der verknüpften Spalte lassen sich nun nicht nur anzeigen, sondern auch direkt editieren. Ein Klick auf einen verlinkten Eintrag öffnet dessen Details und alle hier vorgenommenen Änderungen werden direkt in die verlinkte Tabelle gespeichert. Wenn Sie in die verlinkte Tabelle abspringen wollen, dann können Sie dies mit dem Direktlink am oberen Ende der Details tun.
 

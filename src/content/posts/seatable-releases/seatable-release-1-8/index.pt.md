@@ -39,7 +39,7 @@ Para si, como gestor de vendas, a actualização do catálogo de produtos é con
 
 Ligações externas para bases têm feito parte das funções centrais de partilha desde a versão 1.0 do SeaTable. As ligações externas recentemente introduzidas para opiniões são a sua extensão lógica e permitem um intercâmbio de dados mais granular com terceiros externos. Como o nome implica, uma ligação externa para uma vista é um URL que - independentemente de um login SeaTable - concede acesso lido a uma vista específica de uma tabela. As linhas e colunas que estão ocultas pelas configurações de visualização, assim como as outras tabelas na base, permanecem ocultas aos visitantes da ligação externa.
 
-Cria-se uma ligação externa para uma vista através do menu de contexto de uma vista. Clique no ícone de três pontos junto ao nome da vista. Na caixa de diálogo "Partilhar vista", pode adaptar a ligação às suas necessidades. Clique em "Criar" para criar a ligação. Pode partilhar a ligação da forma que desejar: por correio eletrónico, por chat ou incorporando-a numa página Web (como fizemos na nossa página [Newsroom](/pt/unternehmen/newsroom/), por exemplo).
+Cria-se uma ligação externa para uma vista através do menu de contexto de uma vista. Clique no ícone de três pontos junto ao nome da vista. Na caixa de diálogo "Partilhar vista", pode adaptar a ligação às suas necessidades. Clique em "Criar" para criar a ligação. Pode partilhar a ligação da forma que desejar: por correio eletrónico, por chat ou incorporando-a numa página Web (como fizemos na nossa página [Newsroom]({{< relref "pages/press" >}}), por exemplo).
 
 ## Envio de e-mail
 

@@ -22,7 +22,7 @@ The more books you own, the more difficult it is to keep track of them all. It c
 
 You have more than one bookshelf and the locations of your books are spread over several rooms? Then it is also very helpful to catalog the books. With the right book app, you know exactly which book is where and don't have to search for it when you need it quickly.
 
-![Woman catalogs her books with book app.](images/Bücher-kataklgisieren_AdobeStock_189841022–bearbeitet-711x474.jpg)
+![Woman catalogs her books with book app.](images/buecher-katalogisieren-frau.jpg)
 
 Cataloging books © Viktoriia / Adobe Stock
 

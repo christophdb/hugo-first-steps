@@ -27,7 +27,7 @@ El menú de opciones de las columnas de selección simple y múltiple es otro mo
 
 ### Edición simultánea de varias tablas
 
-[SeaTable 1.4](seatable-release-1-4/?lang=auto) introdujo un nuevo asistente que facilita la vinculación de las entradas. Este asistente se abre con un clic en una celda de enlace y luego muestra todas las entradas de la columna vinculada en una ventana transparente. Otro clic en una entrada crea el enlace a la entrada en la celda. En otras palabras, con el nuevo asistente, vincular entradas se ha convertido en algo tan sencillo como seleccionar un valor de un menú desplegable.
+[SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) introdujo un nuevo asistente que facilita la vinculación de las entradas. Este asistente se abre con un clic en una celda de enlace y luego muestra todas las entradas de la columna vinculada en una ventana transparente. Otro clic en una entrada crea el enlace a la entrada en la celda. En otras palabras, con el nuevo asistente, vincular entradas se ha convertido en algo tan sencillo como seleccionar un valor de un menú desplegable.
 
 SeaTable 1.5 hace que este asistente sea aún más potente: ahora las entradas de la columna vinculada no sólo pueden visualizarse, sino también editarse directamente. Al hacer clic en una entrada vinculada se abren sus detalles y todos los cambios realizados aquí se guardan directamente en la tabla vinculada. Si quiere saltar a la tabla vinculada, puede hacerlo con el enlace directo en la parte superior de los detalles.
 

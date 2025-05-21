@@ -109,4 +109,4 @@ Grâce à son énorme flexibilité, SeaTable peut également faire fonctionner p
 
 [Vers le modèle "CRM Comptes clients".](https://seatable.io/fr/modele/wsnf1ukarv6sp5omx6a2og/)  
 [Essayez SeaTable dans le nuage gratuitement maintenant](/fr/enregistrement/)  
-[Ou vous préférez utiliser SeaTable Enterprise dans votre propre centre de données.](/fr/get-enterprise-server/)
+[Ou vous préférez utiliser SeaTable Enterprise dans votre propre centre de données.]({{< relref "pages/product/seatable-server" >}})

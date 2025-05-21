@@ -21,7 +21,7 @@ Je mehr Bücher Sie besitzen, umso schwieriger wird es, den genauen Überblick z
 
 Sie haben mehr als ein Bücherregal und die Standorte Ihrer Bücher verteilen sich auf mehrere Zimmer? Auch dann ist es sehr hilfreich, die Bücher zu katalogisieren. Mit der passenden Bücher-App wissen Sie so ganz genau, welches Buch wo steht, und müssen nicht lange suchen, wenn Sie es gerade einmal schnell zur Hand brauchen.
 
-![Frau katalogisiert mit Bücher-App ihre Bücher.](images/buecher-katalogisieren.jpg)
+![Frau katalogisiert mit Bücher-App ihre Bücher.](images/buecher-katalogisieren-frau.jpg)
 
 Bücher katalogisieren © Viktoriia / Adobe Stock
 

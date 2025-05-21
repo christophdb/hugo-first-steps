@@ -130,4 +130,4 @@ Qu'attendez-vous encore ? Votre nouvelle gestion de la chaîne d'approvisionneme
 
 [Accéder au modèle "Gestion de la chaîne d'approvisionnement".](https://seatable.io/fr/modele/lrtcit5zqratbf0rpidxlw/)  
 [Essayez maintenant SeaTable gratuitement dans le cloud.](/fr/enregistrement/)  
-[Ou plutôt exploiter SeaTable Enterprise dans votre propre centre de données](/fr/get-enterprise-server/)
+[Ou plutôt exploiter SeaTable Enterprise dans votre propre centre de données]({{< relref "pages/product/seatable-server" >}})

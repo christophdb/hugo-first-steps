@@ -109,4 +109,4 @@ Gracias a su enorme flexibilidad, SeaTable también puede hacer que su departame
 
 [A la plantilla "CRM Cuentas por Cobrar"](https://seatable.io/es/vorlage/wsnf1ukarv6sp5omx6a2og/)  
 [Pruebe ahora SeaTable en la nube de forma gratuita]({{< relref "pages/registration" >}})  
-[O prefiere ejecutar SeaTable Enterprise en su propio centro de datos](/es/get-enterprise-server/)
+[O prefiere ejecutar SeaTable Enterprise en su propio centro de datos]({{< relref "pages/product/seatable-server" >}})

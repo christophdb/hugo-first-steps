@@ -130,4 +130,4 @@ SeaTable создает место, где может сходиться вся 
 
 [К шаблону "Управление цепями поставок](https://seatable.io/ru/vorlage/lrtcit5zqratbf0rpidxlw/)  
 [Попробуйте SeaTable в облаке бесплатно прямо сейчас]({{< relref "pages/registration" >}})  
-[Или предпочитаете использовать SeaTable Enterprise в собственном центре обработки данных](/ru/get-enterprise-server/)
+[Или предпочитаете использовать SeaTable Enterprise в собственном центре обработки данных]({{< relref "pages/product/seatable-server" >}})

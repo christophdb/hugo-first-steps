@@ -27,7 +27,7 @@ Le menu d'options des colonnes de sélection unique et multiple est une autre mo
 
 ### Modification simultanée de plusieurs tableaux
 
-[SeaTable 1.4](seatable-release-1-4/?lang=auto) a introduit un nouvel assistant qui facilite la liaison des entrées. Cet assistant s'ouvre par un clic sur une cellule de lien et affiche ensuite toutes les entrées de la colonne liée dans une fenêtre claire. Un autre clic sur une entrée crée le lien vers l'entrée dans la cellule. En d'autres termes, avec le nouvel assistant, lier des entrées est devenu aussi facile que de sélectionner une valeur dans un menu déroulant.
+[SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) a introduit un nouvel assistant qui facilite la liaison des entrées. Cet assistant s'ouvre par un clic sur une cellule de lien et affiche ensuite toutes les entrées de la colonne liée dans une fenêtre claire. Un autre clic sur une entrée crée le lien vers l'entrée dans la cellule. En d'autres termes, avec le nouvel assistant, lier des entrées est devenu aussi facile que de sélectionner une valeur dans un menu déroulant.
 
 SeaTable 1.5 rend cet assistant encore plus puissant : les entrées dans la colonne liée peuvent maintenant être non seulement affichées mais aussi éditées directement. Un clic sur une entrée liée ouvre ses détails et toutes les modifications apportées ici sont enregistrées directement dans le tableau lié. Si vous voulez passer au tableau lié, vous pouvez le faire avec le lien direct en haut des détails.
 

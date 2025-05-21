@@ -132,4 +132,4 @@ SeaTable Enterprise s'installe sur un serveur Linux via Docker . Le fonctionneme
 - Pas de connexion Internet nécessaire
 - Possibilité de configurer le système de manière individuelle
 
-Outre l'édition Enterprise, il existe également l'édition Developer, dont les fonctionnalités sont fortement limitées et qui s'adresse en premier lieu aux développeurs souhaitant utiliser SeaTable comme base de données flexible avec son propre front-end. Vous trouverez des détails sur les deux éditions et les différences exactes dans l'article de blog [Comparaison des éditions Enterprise et Developer de SeaTable](/fr/editionsvergleich/).
+Outre l'édition Enterprise, il existe également l'édition Developer, dont les fonctionnalités sont fortement limitées et qui s'adresse en premier lieu aux développeurs souhaitant utiliser SeaTable comme base de données flexible avec son propre front-end. Vous trouverez des détails sur les deux éditions et les différences exactes dans l'article de blog [Comparaison des éditions Enterprise et Developer de SeaTable]({{< relref "posts/editionsvergleich" >}}).
