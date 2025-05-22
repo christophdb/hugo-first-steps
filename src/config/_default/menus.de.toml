@@ -11,11 +11,6 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Funktionen"
-pageRef = "pages/functions"
-weight = 10
-
-[[main]]
 name = "Produkte"
 pageRef = "#0"
 weight = 20
@@ -45,54 +40,96 @@ pageRef = "pages/product/seatable-server"
 weight = 24
 
 [[main]]
-name = "Branchenlösungen"
+name = "Lösungen"
 pageRef = "#0"
 weight = 30
 
 [[main]]
 name = "Marketing"
-parent = "Branchenlösungen"
+parent = "Lösungen"
 pageRef = "pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
 name = "Projektmanagement"
-parent = "Branchenlösungen"
+parent = "Lösungen"
 pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
 name = "HR"
-parent = "Branchenlösungen"
+parent = "Lösungen"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
 name = "Öffentlicher Dienst"
-parent = "Branchenlösungen"
+parent = "Lösungen"
 pageRef = "pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
 name = "Softwareentwicklung"
-parent = "Branchenlösungen"
+parent = "Lösungen"
 pageRef = "pages/industry-solutions/software-development"
 weight = 35
 
 [[main]]
 name = "Individuell"
-parent = "Branchenlösungen"
+parent = "Lösungen"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
-name = "Preise"
-pageRef = "pages/prices"
+name = "Hilfsmittel"
+pageRef = "#0"
 weight = 40
 
 [[main]]
-name = "Blog"
+name = "Funktionen"
+parent = "Hilfsmittel"
+pageRef = "pages/functions"
+weight = 41
+
+[[main]]
+name = "Vorlagen"
+parent = "Hilfsmittel"
+pageRef = "pages/functions"
+weight = 42
+
+[[main]]
+name = "Kurzanleitung"
+parent = "Hilfsmittel"
+pageRef = "pages/functions"
+weight = 43
+
+[[main]]
+name = "Online Kurse"
+parent = "Hilfsmittel"
 pageRef = "posts"
+weight = 44
+
+[[main]]
+name = "Hilfebereich"
+parent = "Hilfsmittel"
+pageRef = "posts"
+weight = 45
+
+[[main]]
+name = "Integrationen"
+parent = "Hilfsmittel"
+pageRef = "posts"
+weight = 46
+
+[[main]]
+name = "Inspirationen"
+parent = "Hilfsmittel"
+pageRef = "posts"
+weight = 47
+
+[[main]]
+name = "Preise"
+pageRef = "pages/prices"
 weight = 50
 
 # -- Footer Menu --
