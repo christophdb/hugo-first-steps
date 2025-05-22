@@ -1,7 +1,7 @@
 {{ define "main" }}
     {{/* Traverse up to the root section (e.g., /content/help/) */}}
     {{ $root := . }}
-    {{ range seq 5 }}
+    {{ range seq 4 }}
         {{/* Safety loop to prevent infinite recursion */}}
         {{ if $root.Parent.Parent }}
             {{/* Stop when parent is the homepage */}}
@@ -12,10 +12,64 @@
     {{ end }}
 
     {{ $currentPage := . }}
-    <section class="padding max-container my-8">
-        <div class="flex gap-8">
-            <!-- linke seite -->
-            <div class="root-categories w-1/4">
+
+
+    <section class="padding max-container my-8 max-lg:!pt-0">
+        <div class="flex flex-col gap-8 lg:flex-row">
+            <!-- HELP NAVIGATION - MOBILE RESOLUTION -->
+            <div class="root-categories block lg:hidden">
+                <!-- Main Sections Dropdown -->
+                <p class="pb-2 font-poppins text-base font-bold">{{ T "help_area.category" }}</p>
+                <div class="relative mb-4 w-full">
+                    <select
+                        class="block w-full appearance-none rounded-lg border border-gray-300 bg-gray-200 py-2 pl-3 pr-10 text-base font-medium text-gray-900 shadow-sm transition focus:border-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-500"
+                        @change="window.location = $event.target.value">
+                        {{ range $root.Sections }}
+                            <option value="{{ .RelPermalink }}" {{ if or (eq . $currentPage.CurrentSection) (.IsAncestor $currentPage.CurrentSection) }}selected{{ end }}>
+                                {{ .Title }}
+                            </option>
+                        {{ end }}
+                    </select>
+                    <span class="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-3" aria-hidden="true">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 10l5 5 5-5" />
+                        </svg>
+                    </span>
+                </div>
+
+                {{/* Find the currently selected main section */}}
+                {{ $activeSection := "" }}
+                {{ range $root.Sections }}
+                    {{ if or (eq . $currentPage.CurrentSection) (.IsAncestor $currentPage.CurrentSection) }}
+                        {{ $activeSection = . }}
+                    {{ end }}
+                {{ end }}
+
+
+                <!-- Pages Dropdown -->
+                <p class="pb-2 font-poppins text-base font-bold">{{ T "help_area.section" }}</p>
+                <div class="relative w-full">
+                    <select
+                        class="block w-full appearance-none rounded-lg border border-gray-300 bg-gray-200 py-2 pl-3 pr-10 text-base font-medium text-gray-900 shadow-sm transition focus:border-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-500"
+                        @change="window.location = $event.target.value">
+                        {{ with $activeSection }}
+                            {{ range .Pages }}
+                                <option value="{{ .RelPermalink }}" {{ if eq .RelPermalink $currentPage.RelPermalink }}selected{{ end }}>
+                                    {{ .Title }}
+                                </option>
+                            {{ end }}
+                        {{ end }}
+                    </select>
+                    <span class="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-3" aria-hidden="true">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 10l5 5 5-5" />
+                        </svg>
+                    </span>
+                </div>
+            </div>
+
+            <!-- HELP NAVIGATION - DESKTOP RESOLUTION -->
+            <div class="root-categories hidden w-full lg:block lg:w-1/4">
                 <!--<a href="{{ $root.RelPermalink }}">Zurück zur Hilfe-Startseite (später neben Logo)</a><br /><br />-->
                 {{/* Display sections under the root */}}
                 {{ range $root.Sections }}
@@ -49,7 +103,7 @@
             </div>
 
             <!-- rechte Seite ... -->
-            <div class="w-full max-w-3xl pl-12 lg:w-3/4">
+            <div class="w-full max-w-3xl lg:w-3/4 lg:pl-12">
                 <h2 class="text-4xl">{{ .Title }}</h2>
                 <p>{{ .Description }}</p>
 
