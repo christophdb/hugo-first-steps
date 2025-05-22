@@ -1,7 +1,7 @@
 {{ define "main" }}
     {{/* Traverse up to the root section (e.g., /content/help/) */}}
     {{ $root := . }}
-    {{ range seq 5 }}
+    {{ range seq 4 }}
         {{/* Safety loop to prevent infinite recursion */}}
         {{ if $root.Parent.Parent }}
             {{/* Stop when parent is the homepage */}}
@@ -12,10 +12,24 @@
     {{ end }}
 
     {{ $currentPage := . }}
+
+
     <section class="padding max-container my-8">
-        <div class="flex gap-8">
-            <!-- linke seite -->
-            <div class="root-categories w-1/4">
+        <div class="flex flex-col gap-8 lg:flex-row">
+            <!-- HELP NAVIGATION - MOBILE RESOLUTION -->
+            <div class="root-categories block lg:hidden">
+                <!-- Main Sections Dropdown -->
+                <select class="mb-3 w-full rounded border p-2" @change="window.location = $event.target.value">
+                    {{ range $root.Sections }}
+                        <option value="{{ .RelPermalink }}" {{ if or (eq . $currentPage.CurrentSection) (.IsAncestor $currentPage.CurrentSection) }}selected{{ end }}>
+                            {{ .Title }}
+                        </option>
+                    {{ end }}
+                </select>
+            </div>
+
+            <!-- HELP NAVIGATION - DESKTOP RESOLUTION -->
+            <div class="root-categories hidden w-full lg:block lg:w-1/4">
                 <!--<a href="{{ $root.RelPermalink }}">Zurück zur Hilfe-Startseite (später neben Logo)</a><br /><br />-->
                 {{/* Display sections under the root */}}
                 {{ range $root.Sections }}
@@ -49,7 +63,7 @@
             </div>
 
             <!-- rechte Seite ... -->
-            <div class="w-full max-w-3xl pl-12 lg:w-3/4">
+            <div class="w-full max-w-3xl lg:w-3/4 lg:pl-12">
                 <h2 class="text-4xl">{{ .Title }}</h2>
                 <p>{{ .Description }}</p>
 
