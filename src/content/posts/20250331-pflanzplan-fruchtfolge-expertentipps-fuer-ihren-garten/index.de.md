@@ -9,7 +9,9 @@ categories:
   - "Allgemein"
 tags:
 color: "#c4d69f"
-url: "/de/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten"
+url: "/de/pflanzplan-fruchtfolge"
+aliases: 
+  - /de/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten/
 ---
 
 ## Ein Pflanzplan für gelungene Beete
