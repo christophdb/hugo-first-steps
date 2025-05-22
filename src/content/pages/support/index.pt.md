@@ -1,5 +1,5 @@
 ---
-title: "Suporte"
+title: 'Suporte'
 date: '2025-04-03'
 url: '/pt/suporte'
 
@@ -22,7 +22,7 @@ sections:
           - curved
       buttons:
           - label: 'Fale conosco'
-            link: 'pages/support'
+            link: 'pages/contact'
             style: 'secondary'
 
     - name: price-3
