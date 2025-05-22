@@ -134,3 +134,7 @@ price_table:
     u25_y3: 'https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3'
     cloud: Cloud
     on-premises: On-Premises
+
+help_area:
+    category: 'Category'
+    section: 'Section'
