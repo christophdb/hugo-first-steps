@@ -3,7 +3,7 @@ title: 'Seguridad en SeaTable Cloud'
 description: ''
 date: 2024-10-28
 type: 'legal'
-url: '/seguridad'
+url: '/es/seguridad'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

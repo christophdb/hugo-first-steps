@@ -22,7 +22,7 @@ sections:
           - curved
       buttons:
           - label: 'Contact us'
-            link: 'pages/support'
+            link: 'pages/contact'
             style: 'secondary'
 
     - name: price-3

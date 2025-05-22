@@ -1,5 +1,5 @@
 ---
-title: "поддержка"
+title: 'поддержка'
 date: '2025-04-03'
 url: '/ru/podderzhka'
 
@@ -22,7 +22,7 @@ sections:
           - curved
       buttons:
           - label: 'Связаться с нами'
-            link: 'pages/support'
+            link: 'pages/contact'
             style: 'secondary'
 
     - name: price-3

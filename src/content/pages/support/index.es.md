@@ -1,9 +1,7 @@
 ---
-
-title: "Soporte"
+title: 'Soporte'
 date: '2025-04-03'
 url: '/es/soporte'
----
 
 sections:
     - name: hero-2
@@ -24,7 +22,7 @@ sections:
           - curved
       buttons:
           - label: 'Contáctanos'
-            link: 'pages/support'
+            link: 'pages/contact'
             style: 'secondary'
 
     - name: price-3
