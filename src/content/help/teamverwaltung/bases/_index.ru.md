@@ -1,5 +1,5 @@
 ---
 title: Bases
-url: /ru/help/teamverwaltung/bases
+url: '/ru/pomoshch/teamverwaltung/bases'
 weight: 3
 ---

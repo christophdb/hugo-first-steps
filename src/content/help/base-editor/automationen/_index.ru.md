@@ -1,4 +1,4 @@
 ---
 title: Automations
-url: /ru/help/base-editor/automationen
+url: '/ru/pomoshch/base-editor/automationen'
 ---

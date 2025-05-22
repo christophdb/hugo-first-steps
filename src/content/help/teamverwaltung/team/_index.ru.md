@@ -1,5 +1,5 @@
 ---
 title: Team
-url: /ru/help/teamverwaltung/team
+url: '/ru/pomoshch/teamverwaltung/team'
 weight: 2
 ---

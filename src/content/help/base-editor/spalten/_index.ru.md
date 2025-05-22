@@ -1,4 +1,4 @@
 ---
 title: Columns
-url: /ru/help/base-editor/columns
+url: '/ru/pomoshch/base-editor/columns'
 ---

@@ -1,4 +1,4 @@
 ---
 title: Plugins
-url: /ru/help/base-editor/plugins
+url: '/ru/pomoshch/base-editor/plugins'
 ---
