@@ -5,7 +5,7 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/ru/help/konfigurationsmoeglichkeiten-eines-webformulars'
+url: '/ru/pomoshch/konfigurationsmoeglichkeiten-eines-webformulars'
 ---
 
 Вы можете настроить внешний вид, содержание и функциональность веб-формы, настроив **параметры формы**, **параметры полей** и **цветовую схему**. Для последнего требуется подписка Enterprise.

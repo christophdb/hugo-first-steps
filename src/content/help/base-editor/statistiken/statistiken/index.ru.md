@@ -5,7 +5,7 @@ lastmod: '2024-03-18'
 categories:
     - 'statistiken-und-datenanalyse'
 author: 'cdb'
-url: '/ru/help/statistiken'
+url: '/ru/pomoshch/statistiken'
 ---
 
 Dank der Auswertungswerkzeuge **Filter, Sortierung und Gruppierung** lassen sich einfache Analysen mit wenigen Klicks ausführen. SeaTable kennt zudem verschiedene **Operationen zur Datenverarbeitung**, mit denen Sie beispielsweise kumulierte Werte errechnen oder Ranglisten erstellen können. Für detaillierte Auswertungen mit Pivot-Tabellen, Diagrammen und grafischen Darstellungen bietet SeaTable das **Statistik-Modul**.

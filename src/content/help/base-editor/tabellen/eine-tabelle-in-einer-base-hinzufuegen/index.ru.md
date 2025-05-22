@@ -5,7 +5,7 @@ lastmod: '2025-02-28'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/ru/help/eine-tabelle-in-einer-base-hinzufuegen'
+url: '/ru/pomoshch/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
 Базы состоят из одной или нескольких таблиц, которые, в свою очередь, могут содержать совершенно разные данные и связываться друг с другом. База может содержать до **200 столов**. Однако для большей ясности следует рассмотреть возможность разделения таблиц на несколько баз и синхронизации данных с помощью функции [Shared Data Sets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), если у вас более 20 таблиц.

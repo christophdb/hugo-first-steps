@@ -5,7 +5,7 @@ lastmod: '2023-03-02'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/help/deaktivierung-eines-webhooks-bei-fehlern'
+url: '/ru/pomoshch/deaktivierung-eines-webhooks-bei-fehlern'
 ---
 
 Если для базы SeaTable настроен веб-крючок, SeaTable отправляет _POST-запрос_ на целевой URL при каждом изменении. Обычно принимающая система возвращает сообщение о статусе в виде [трехзначного кода статуса](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), который SeaTable затем обрабатывает и при необходимости деактивирует веб-крючок.

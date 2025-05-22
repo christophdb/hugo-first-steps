@@ -5,7 +5,7 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/help/ausfuehrungslog-einer-automation-anzeigen'
+url: '/ru/pomoshch/ausfuehrungslog-einer-automation-anzeigen'
 ---
 
 {{< required-version "Предприятие" >}}

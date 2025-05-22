@@ -5,7 +5,7 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/help/aktivieren-des-big-data-backends-in-einer-base'
+url: '/ru/pomoshch/aktivieren-des-big-data-backends-in-einer-base'
 ---
 
 {{< required-version "Предприятие" >}}

@@ -5,7 +5,7 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'kgr'
-url: '/ru/help/benutzer-den-sie-einem-team-hinzufuegen-moechten-besteht-bereits'
+url: '/ru/pomoshch/benutzer-den-sie-einem-team-hinzufuegen-moechten-besteht-bereits'
 ---
 
 Вы хотите [добавить пользователя в свою команду](https://seatable.io/ru/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/), но получаете сообщение об ошибке, что такая учетная запись уже существует? Вот решение:

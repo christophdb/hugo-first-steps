@@ -5,7 +5,7 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/help/anleitung-zum-galerie-plugin'
+url: '/ru/pomoshch/anleitung-zum-galerie-plugin'
 ---
 
 **Плагин галереи** особенно хорошо подходит для отображения иллюстрированных записей, поскольку в первую очередь речь идет о содержимом [колонки изображений]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}).

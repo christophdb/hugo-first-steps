@@ -5,7 +5,7 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/ru/help/das-ausfuehrungslog-von-skripten'
+url: '/ru/pomoshch/das-ausfuehrungslog-von-skripten'
 ---
 
 С помощью скрипта в SeaTable можно делать большие вещи. Сценарии, созданные в ваших базах, имеют журнал выполнения, в котором вы можете найти полезную информацию о выполнении сценария.

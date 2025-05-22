@@ -5,7 +5,7 @@ lastmod: '2023-04-12'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/help/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
+url: '/ru/pomoshch/eintraege-in-andere-tabellen-per-automation-hinzufuegen'
 ---
 
 С помощью автоматизаций вам больше не придется вносить записи в другие таблицы вручную, эти действия могут выполняться автоматически. Большим преимуществом этого является то, что триггер не обязательно должен находиться в той же таблице, что и запускаемое действие.

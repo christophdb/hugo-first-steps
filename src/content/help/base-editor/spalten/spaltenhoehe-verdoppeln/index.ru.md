@@ -5,7 +5,7 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/ru/help/spaltenhoehe-verdoppeln'
+url: '/ru/pomoshch/spaltenhoehe-verdoppeln'
 ---
 
 Удвойте **высоту заголовка таблицы**, чтобы иметь возможность полностью прочитать длинные имена столбцов.

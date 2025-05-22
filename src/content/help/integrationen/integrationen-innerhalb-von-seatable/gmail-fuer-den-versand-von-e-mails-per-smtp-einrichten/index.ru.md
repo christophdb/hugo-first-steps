@@ -5,7 +5,7 @@ lastmod: '2025-03-07'
 categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'cdb'
-url: '/ru/help/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten'
+url: '/ru/pomoshch/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 ---
 
 Gmail, популярный почтовый сервис Google, можно использовать для отправки писем из SeaTable. Аутентификация с помощью аккаунта Google может осуществляться либо через пароль приложения, либо через OAuth. Метод OAuth предпочитает Google, но его гораздо сложнее настроить. (Аутентификация по имени пользователя и паролю невозможна в Gmail).

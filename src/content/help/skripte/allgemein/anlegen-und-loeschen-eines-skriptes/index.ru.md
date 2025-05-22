@@ -5,7 +5,7 @@ lastmod: '2023-07-21'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/ru/help/anlegen-und-loeschen-eines-skriptes'
+url: '/ru/pomoshch/anlegen-und-loeschen-eines-skriptes'
 ---
 
 Будь то сценарий JavaScript или Python, с помощью сценария в SeaTable можно делать большие вещи. В то время как JavaScript выполняется в браузере пользователя и предназначен для довольно простых манипуляций с файлами, сценарии Python выполняются непосредственно на сервере SeaTable и поэтому являются более мощными и универсальными. Просто попробуйте и создайте любой скрипт в базе.

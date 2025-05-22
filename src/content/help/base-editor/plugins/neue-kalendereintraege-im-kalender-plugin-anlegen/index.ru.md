@@ -5,7 +5,7 @@ lastmod: '2025-02-27'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/help/neue-kalendereintraege-im-kalender-plugin-anlegen'
+url: '/ru/pomoshch/neue-kalendereintraege-im-kalender-plugin-anlegen'
 ---
 
 У вас есть различные варианты добавления **новых записей** в календарь. Вы можете сделать это **в основной таблице**, создав там новую строку и введя в [столбец даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) встречу, которая затем также будет отображаться в плагине календаря.

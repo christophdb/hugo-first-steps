@@ -5,7 +5,7 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/help/loeschen-einer-ansicht'
+url: '/ru/pomoshch/loeschen-einer-ansicht'
 ---
 
 Вы можете удалить представления, которые были созданы неправильно или стали неактуальными в любое время, щелкнув меню представления и выбрав опцию **Удалить** представление.

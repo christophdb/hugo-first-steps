@@ -5,7 +5,7 @@ lastmod: '2022-12-19'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/help/freigabe-einer-ansicht-an-ein-teammitglied'
+url: '/ru/pomoshch/freigabe-einer-ansicht-an-ein-teammitglied'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

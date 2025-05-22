@@ -5,7 +5,7 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/help/externer-link-erklaert'
+url: '/ru/pomoshch/externer-link-erklaert'
 ---
 
 У вас есть данные, которыми вы хотите поделиться с большим количеством людей или даже сделать их общедоступными? Для таких случаев **внешние ссылки** - то, что нужно!

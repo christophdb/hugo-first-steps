@@ -5,7 +5,7 @@ lastmod: '2024-11-21'
 categories:
     - 'import-von-daten'
 author: 'fsa'
-url: '/ru/help/migration-von-airtable-bases-zu-seatable'
+url: '/ru/pomoshch/migration-von-airtable-bases-zu-seatable'
 ---
 
 Вы хотите перенести свои базы Airtable на SeaTable и боитесь, что это будет сложно? Не волнуйтесь! Даже базы со сложной структурой данных и многими тысячами записей могут быть быстро перенесены в SeaTable.

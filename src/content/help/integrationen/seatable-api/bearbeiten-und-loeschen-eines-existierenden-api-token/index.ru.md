@@ -5,7 +5,7 @@ lastmod: '2023-05-12'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/ru/help/bearbeiten-und-loeschen-eines-existierenden-api-token'
+url: '/ru/pomoshch/bearbeiten-und-loeschen-eines-existierenden-api-token'
 ---
 
 SeaTable позволяет генерировать любое количество API-токенов для базы. Поэтому рекомендуется создавать отдельный токен для каждого интерфейса, каждого приложения или каждой разработки. Эти токены могут быть удалены или их авторизация может быть изменена в любое время.

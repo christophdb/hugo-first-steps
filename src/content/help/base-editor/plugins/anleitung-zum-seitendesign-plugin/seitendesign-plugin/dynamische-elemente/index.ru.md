@@ -5,7 +5,7 @@ lastmod: '2023-02-08'
 categories:
     - 'seitendesign-plugin'
 author: 'vge'
-url: '/ru/help/dynamische-elemente'
+url: '/ru/pomoshch/dynamische-elemente'
 ---
 
 **Динамические элементы** изменяются в соответствии с определенными критериями, но не зависят от записей в вашей таблице. Эти поля **предварительно заполнены** и **автоматически** корректируют свои записи.

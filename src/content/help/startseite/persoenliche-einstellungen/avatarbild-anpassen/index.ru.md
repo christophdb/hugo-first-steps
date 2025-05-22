@@ -5,7 +5,7 @@ lastmod: '2023-03-09'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/ru/help/avatarbild-anpassen'
+url: '/ru/pomoshch/avatarbild-anpassen'
 ---
 
 Вы можете настроить **изображение** своего **аватара** всего за несколько шагов в **личных настройках** своей учетной записи.

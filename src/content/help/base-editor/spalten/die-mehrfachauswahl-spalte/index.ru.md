@@ -5,7 +5,7 @@ lastmod: '2023-04-27'
 categories:
     - 'auswahlspalten'
 author: 'nsc2'
-url: '/ru/help/die-mehrfachauswahl-spalte'
+url: '/ru/pomoshch/die-mehrfachauswahl-spalte'
 ---
 
 Столбец с множественным выбором идеально подходит, если вы хотите назначить своим строкам в столбце **несколько вариантов** из заданного списка. Опциям присваиваются красочные метки, которые можно использовать для маркировки записей и наглядности таблиц, например, для [фильтрации]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) по определенным опциям.

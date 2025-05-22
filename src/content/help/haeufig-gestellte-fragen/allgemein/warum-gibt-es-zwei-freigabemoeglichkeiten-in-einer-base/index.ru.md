@@ -5,7 +5,7 @@ lastmod: '2023-03-14'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/help/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
+url: '/ru/pomoshch/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 ---
 
 В ваших базах доступны два варианта совместного использования, позволяющие делиться либо **отдельными видами**, либо **всей базой**.

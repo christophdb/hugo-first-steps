@@ -5,7 +5,7 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/help/tipps-zum-arbeiten-mit-formeln'
+url: '/ru/pomoshch/tipps-zum-arbeiten-mit-formeln'
 ---
 
 Здесь Вы найдете помощь и советы, которые облегчат Вашу работу с формулами Seatable. Список всех доступных формул можно найти [здесь](https://seatable.io/ru/docs/formeln/formelreferenz/).

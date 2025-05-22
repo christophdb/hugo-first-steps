@@ -5,7 +5,7 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/help/warum-finde-ich-in-meiner-base-die-automationen-nicht'
+url: '/ru/pomoshch/warum-finde-ich-in-meiner-base-die-automationen-nicht'
 ---
 
 Вы не можете создать автоматизацию в своих базах? Одной из возможных причин может быть недостаточная [подписка](https://seatable.io/ru/docs/abo-abrechnung/abo-pakete/).

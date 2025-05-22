@@ -5,7 +5,7 @@ lastmod: '2024-12-13'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/help/tabellenseiten-in-universellen-apps'
+url: '/ru/pomoshch/tabellenseiten-in-universellen-apps'
 ---
 
 Вы можете использовать этот тип страницы, чтобы [добавить]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).

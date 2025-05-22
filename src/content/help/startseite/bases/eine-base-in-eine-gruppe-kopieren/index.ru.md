@@ -5,7 +5,7 @@ lastmod: '2024-05-16'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/eine-base-in-eine-gruppe-kopieren'
+url: '/ru/pomoshch/eine-base-in-eine-gruppe-kopieren'
 ---
 
 Вы можете легко **копировать** базы в SeaTable. Таким образом, вы можете переместить одну из своих баз в другую **группу** или скопировать базу из группы в рабочую область " **Мои базы"**.

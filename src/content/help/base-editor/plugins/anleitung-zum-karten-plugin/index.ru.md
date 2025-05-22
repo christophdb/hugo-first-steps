@@ -5,7 +5,7 @@ lastmod: '2023-06-29'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/help/anleitung-zum-karten-plugin'
+url: '/ru/pomoshch/anleitung-zum-karten-plugin'
 ---
 
 Если вы создали в таблице текстовую колонку с адресами или географическими названиями или использовали тип колонки [Geoposition](https://seatable.io/ru/docs/andere-spalten/die-geopositions-spalte/), вы можете использовать **Map Plugin** для отображения мест, введенных в колонку.

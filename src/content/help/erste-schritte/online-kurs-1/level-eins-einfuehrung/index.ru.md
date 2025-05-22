@@ -5,7 +5,7 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/help/level-eins-einfuehrung'
+url: '/ru/pomoshch/level-eins-einfuehrung'
 weight: 1
 ---
 

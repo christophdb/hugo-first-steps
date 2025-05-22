@@ -5,7 +5,7 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/help/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
+url: '/ru/pomoshch/was-ist-der-unterschied-zwischen-individuellen-freigaben-und-gemeinsamen-datensaetzen'
 ---
 
 В SeaTable вам доступны различные **индивидуальные общие ресурсы**. Например, у вас есть возможность открыть общий доступ к отдельным базам, таблицам и представлениям для отдельных пользователей или целых групп.

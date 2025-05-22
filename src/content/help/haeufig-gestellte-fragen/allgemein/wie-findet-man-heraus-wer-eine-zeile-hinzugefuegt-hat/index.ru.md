@@ -5,7 +5,7 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/ru/help/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
+url: '/ru/pomoshch/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 ---
 
 Хотите узнать, **кто** добавил строку? Тогда создайте столбец типа [Создатель]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}). Здесь **имя пользователя**, создавшего столбец, неизменно.

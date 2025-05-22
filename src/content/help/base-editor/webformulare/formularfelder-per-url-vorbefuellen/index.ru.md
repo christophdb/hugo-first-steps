@@ -5,7 +5,7 @@ lastmod: '2024-03-18'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/ru/help/formularfelder-per-url-vorbefuellen'
+url: '/ru/pomoshch/formularfelder-per-url-vorbefuellen'
 ---
 
 Для **предварительного заполнения веб-форм** у вас есть возможность определить значения по умолчанию в полях формы. Это можно сделать непосредственно в URL-адресе или с помощью удобной функции в SeaTable.

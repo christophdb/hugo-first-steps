@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/ein-teammitglied-zum-administrator-machen'
+url: '/ru/pomoshch/ein-teammitglied-zum-administrator-machen'
 ---
 
 В качестве администратора команды вы можете добавлять новых членов команды, а также **предоставлять им права администрирования**.

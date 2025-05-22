@@ -5,7 +5,7 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/wie-teammitglieder-die-abonnementkosten-beeinflussen'
+url: '/ru/pomoshch/wie-teammitglieder-die-abonnementkosten-beeinflussen'
 ---
 
 Всегда возникают вопросы о модели лицензирования SeaTable Cloud и стоимости для отдельных пользователей. Цель этой статьи - внести ясность в этот вопрос и ответить на все ваши вопросы.

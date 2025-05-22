@@ -5,7 +5,7 @@ lastmod: '2023-04-27'
 categories:
     - 'auswahlspalten'
 author: 'nsc2'
-url: '/ru/help/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte'
+url: '/ru/pomoshch/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte'
 ---
 
 В колонку с одним выбором можно добавить различные **параметры**, из которых затем можно выбирать при заполнении ячеек. В принципе, у вас есть **три** разных способа создания опций одиночного выбора.

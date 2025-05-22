@@ -5,7 +5,7 @@ lastmod: '2023-07-19'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/help/eine-gruppe-an-einen-anderen-benutzer-uebertragen'
+url: '/ru/pomoshch/eine-gruppe-an-einen-anderen-benutzer-uebertragen'
 ---
 
 Существующие группы могут быть переданы от владельца другому пользователю SeaTable. В этом случае выбранный пользователь становится новым владельцем группы, а первоначальный владелец отныне выступает только в качестве ее члена. Здесь вы можете узнать, как передать группу другому пользователю.

@@ -5,7 +5,7 @@ lastmod: '2022-12-29'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/ru/help/welche-import-formate-unterstuetzt-seatable'
+url: '/ru/pomoshch/welche-import-formate-unterstuetzt-seatable'
 ---
 
 SeaTable предлагает вам широкий выбор вариантов сбора данных: вы можете вводить данные в таблицы вручную, а также собирать данные через [веб-форму](https://seatable.io/ru/docs/seatable-nutzen/webformulare/) или с помощью автоматики.

@@ -5,7 +5,7 @@ lastmod: '2023-03-02'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/help/externe-links-und-einladungs-links-loeschen'
+url: '/ru/pomoshch/externe-links-und-einladungs-links-loeschen'
 ---
 
 Вы можете в любое время **удалить** как **внешние ссылки**, так и **пригласительные ссылки** двумя различными способами. Обратите внимание, какие последствия имеет удаление для доступа к вашим данным.

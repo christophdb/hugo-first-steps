@@ -5,7 +5,7 @@ lastmod: '2023-03-13'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/help/seatable-newsletter-bestellen-oder-abbestellen'
+url: '/ru/pomoshch/seatable-newsletter-bestellen-oder-abbestellen'
 ---
 
 Убедитесь, что вы получаете только важные для вас письма, изменив настройки подписки на электронную почту.

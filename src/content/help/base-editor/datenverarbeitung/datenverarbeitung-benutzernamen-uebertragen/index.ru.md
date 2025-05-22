@@ -5,7 +5,7 @@ lastmod: '2023-03-17'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/help/datenverarbeitung-benutzernamen-uebertragen'
+url: '/ru/pomoshch/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
 Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. **Перенос имен пользователей** - это операция, которая может копировать данные из столбцов типа [Сотрудник]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Создатель]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) в [текстовый столбец]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).

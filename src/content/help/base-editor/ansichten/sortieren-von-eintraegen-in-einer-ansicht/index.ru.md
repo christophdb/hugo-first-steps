@@ -5,7 +5,7 @@ lastmod: '2023-01-09'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/help/sortieren-von-eintraegen-in-einer-ansicht'
+url: '/ru/pomoshch/sortieren-von-eintraegen-in-einer-ansicht'
 ---
 
 Функция сортировки позволяет отображать неупорядоченные записи в таблице в **упорядоченной последовательности**.

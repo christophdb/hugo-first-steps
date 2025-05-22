@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/ist-seatable-kostenlos-kann-ich-das-plus-oder-enterprise-abo-testen'
+url: '/ru/pomoshch/ist-seatable-kostenlos-kann-ich-das-plus-oder-enterprise-abo-testen'
 ---
 
 SeaTable Cloud, онлайн-предложение SeaTable, поначалу является бесплатным для всех. Мы называем это нашей **бесплатной подпиской**, с помощью которой создается каждая команда.

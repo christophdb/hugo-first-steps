@@ -5,7 +5,7 @@ lastmod: '2023-11-30'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/ru/help/seitenberechtigungen-in-einer-universellen-app'
+url: '/ru/pomoshch/seitenberechtigungen-in-einer-universellen-app'
 ---
 
 Для точного контроля **доступа к данным** можно установить **индивидуальные разрешения** для каждой **страницы**, созданной в универсальном приложении. Редактирование разрешений осуществляется через настройки страницы.

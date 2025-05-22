@@ -5,7 +5,7 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/help/externen-link-fuer-eine-ansicht-erstellen'
+url: '/ru/pomoshch/externen-link-fuer-eine-ansicht-erstellen'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

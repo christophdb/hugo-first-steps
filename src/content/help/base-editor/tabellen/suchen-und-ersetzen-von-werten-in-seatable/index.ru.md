@@ -5,7 +5,7 @@ lastmod: '2023-01-02'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/ru/help/suchen-und-ersetzen-von-werten-in-seatable'
+url: '/ru/pomoshch/suchen-und-ersetzen-von-werten-in-seatable'
 ---
 
 SeaTable предлагает вам удобную функцию поиска всех записей специального значения в таблице и замены либо конкретных отдельных значений, либо всех сразу. Вы будете поражены тем, насколько это просто.

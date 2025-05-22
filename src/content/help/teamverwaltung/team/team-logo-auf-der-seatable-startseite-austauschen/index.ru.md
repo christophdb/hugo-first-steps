@@ -5,7 +5,7 @@ lastmod: '2023-06-27'
 categories:
     - 'teamverwaltung'
 author: 'nsc2'
-url: '/ru/help/team-logo-auf-der-seatable-startseite-austauschen'
+url: '/ru/pomoshch/team-logo-auf-der-seatable-startseite-austauschen'
 ---
 
 {{< required-version "Предприятие" >}}

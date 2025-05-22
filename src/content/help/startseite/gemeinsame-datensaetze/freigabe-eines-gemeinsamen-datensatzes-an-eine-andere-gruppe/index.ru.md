@@ -5,7 +5,7 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/help/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
+url: '/ru/pomoshch/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
 ---
 
 Общие записи данных можно использовать не только в той группе, в которой вы их создали, но и предоставлять их другим группам. Таким образом, другие пользователи могут получить доступ к данным в общей записи данных. Они могут работать с общей записью данных и создавать новые таблицы. Общая запись данных передается другой группе через стартовую страницу.

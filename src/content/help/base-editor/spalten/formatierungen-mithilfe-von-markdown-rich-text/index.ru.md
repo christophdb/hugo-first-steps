@@ -5,7 +5,7 @@ lastmod: '2023-08-21'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/ru/help/formatierungen-mithilfe-von-markdown-rich-text'
+url: '/ru/pomoshch/formatierungen-mithilfe-von-markdown-rich-text'
 ---
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) - это сильно упрощенный язык разметки, используемый для **форматирования текста**. SeaTable использует Markdown в различных местах для форматирования длинных текстов в визуально привлекательном виде.

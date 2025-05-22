@@ -5,7 +5,7 @@ lastmod: '2023-03-10'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/help/anlegen-einer-automation'
+url: '/ru/pomoshch/anlegen-einer-automation'
 ---
 
 {{< required-version "Предприятие" >}}

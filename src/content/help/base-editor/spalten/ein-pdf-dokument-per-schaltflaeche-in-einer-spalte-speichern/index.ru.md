@@ -5,7 +5,7 @@ lastmod: '2023-05-04'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/ru/help/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
+url: '/ru/pomoshch/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
 ---
 
 С помощью **кнопки** можно сохранять PDF-документы в колонках файлов. Необходимым условием для этого является настройка **плагина дизайна страниц** через базовые опции.

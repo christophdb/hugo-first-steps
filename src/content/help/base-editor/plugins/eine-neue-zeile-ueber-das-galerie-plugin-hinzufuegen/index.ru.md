@@ -5,7 +5,7 @@ lastmod: '2023-02-03'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/help/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
+url: '/ru/pomoshch/eine-neue-zeile-ueber-das-galerie-plugin-hinzufuegen'
 ---
 
 Обычно вы [создаете]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}}) новые строки в **представлении таблицы**. Однако в **плагине галереи** у вас есть и такая возможность. Вновь созданная строка отображается в галерее в виде **альбома** и вставляется в таблицу ниже всех остальных строк.

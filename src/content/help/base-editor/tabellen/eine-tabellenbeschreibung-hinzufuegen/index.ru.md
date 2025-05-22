@@ -5,7 +5,7 @@ lastmod: '2023-08-21'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/ru/help/eine-tabellenbeschreibung-hinzufuegen'
+url: '/ru/pomoshch/eine-tabellenbeschreibung-hinzufuegen'
 ---
 
 Вы можете добавить описание к каждой таблице в вашей базе. Этот краткий текст можно использовать, например, для пояснения содержимого таблицы.

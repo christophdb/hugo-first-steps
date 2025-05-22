@@ -5,7 +5,7 @@ lastmod: '2023-02-17'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/ru/help/typische-fehler-im-umgang-mit-der-seatable-api'
+url: '/ru/pomoshch/typische-fehler-im-umgang-mit-der-seatable-api'
 ---
 
 Иногда при вызовах API могут возникать ошибки. Цель этой статьи - объяснить и устранить наиболее распространенные ошибки или проблемы. Подробный список ошибок вы можете найти в нашей [документации по API](https://api.seatable.io).

@@ -5,7 +5,7 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/help/schritt-8-quiz'
+url: '/ru/pomoshch/schritt-8-quiz'
 ---
 
 **Вы сделали это!** Вы дошли до конца второго урока.

@@ -5,7 +5,7 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/help/farbliche-markierung-von-zeilen'
+url: '/ru/pomoshch/farbliche-markierung-von-zeilen'
 ---
 
 С помощью **инструмента форматирования линий** можно установить цветные метки в **начале строк**. Цветовая **маркировка строк** служит для быстрой идентификации определенных записей данных. Это не следует путать с [раскрашиванием ячеек]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), которое позволяет выделять отдельные ячейки.

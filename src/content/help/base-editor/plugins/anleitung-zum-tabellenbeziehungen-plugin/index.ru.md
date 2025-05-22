@@ -5,7 +5,7 @@ lastmod: '2024-08-01'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/ru/help/anleitung-zum-tabellenbeziehungen-plugin'
+url: '/ru/pomoshch/anleitung-zum-tabellenbeziehungen-plugin'
 ---
 
 Особенно когда в базе много таблиц с десятками столбцов, легко потерять представление о том, как они связаны друг с другом. Вы можете использовать плагин отношений таблиц, чтобы визуализировать, какие таблицы связаны друг с другом через какие столбцы.

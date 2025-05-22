@@ -5,7 +5,7 @@ lastmod: '2023-06-26'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/ein-teammitglied-sperren-oder-loeschen'
+url: '/ru/pomoshch/ein-teammitglied-sperren-oder-loeschen'
 ---
 
 Чтобы блокировать или удалять членов команды, вы должны обладать **правами администратора**.

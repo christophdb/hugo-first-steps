@@ -5,7 +5,7 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/ru/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
+url: '/ru/pomoshch/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 ---
 
 В универсальном приложении вы можете создавать сколько угодно **страниц** и **папок**, чтобы сделать данные в базе доступными для определенной группы пользователей, упорядочить их и представить в привлекательном виде. Существует множество [типов страниц]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), которые вы уже знаете в других местах SeaTable и можете создать в своем универсальном приложении всего несколькими щелчками мыши.

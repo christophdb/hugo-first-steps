@@ -5,7 +5,7 @@ lastmod: '2023-05-15'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/ru/help/erste-schritte-mit-seatable'
+url: '/ru/pomoshch/erste-schritte-mit-seatable'
 weight: 3
 ---
 

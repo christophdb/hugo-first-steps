@@ -5,7 +5,7 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/help/einladungs-link-erklaert'
+url: '/ru/pomoshch/einladungs-link-erklaert'
 ---
 
 Используя **ссылку приглашения**, вы можете поделиться базами с другим человеком в SeaTable без того, чтобы этот человек стал частью вашей команды.

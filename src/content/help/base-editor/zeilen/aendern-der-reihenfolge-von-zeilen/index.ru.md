@@ -5,7 +5,7 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/help/aendern-der-reihenfolge-von-zeilen'
+url: '/ru/pomoshch/aendern-der-reihenfolge-von-zeilen'
 ---
 
 Вы можете изменить порядок следования строк, **перетаскивая** их. При изменении порядка следования строк SeaTable автоматически корректирует нумерацию.

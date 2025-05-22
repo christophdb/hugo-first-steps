@@ -5,7 +5,7 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/help/zeilen-per-automation-sperren'
+url: '/ru/pomoshch/zeilen-per-automation-sperren'
 ---
 
 С помощью автоматизаций вам больше не придется блокировать строки в таблицах вручную, а можно блокировать [строки]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) автоматически. Это очень полезно, если вы всегда хотите предотвратить дальнейшее редактирование строки после определенного момента времени (например, когда операция завершена).

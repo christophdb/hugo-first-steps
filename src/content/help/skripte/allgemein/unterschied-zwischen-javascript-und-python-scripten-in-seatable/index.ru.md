@@ -5,7 +5,7 @@ lastmod: '2024-10-27'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/help/unterschied-zwischen-javascript-und-python-scripten-in-seatable'
+url: '/ru/pomoshch/unterschied-zwischen-javascript-und-python-scripten-in-seatable'
 ---
 
 SeaTable позволяет выполнять **сценарии JavaScript и Python** в базе. JavaScript подходит для простых манипуляций с данными, которые запускаются пользователем. Скрипты Python выполняются на стороне сервера и поэтому могут запускаться без участия пользователя. Благодаря многочисленным модулям Python, которые можно использовать, они также подходят для более сложных операций по обработке данных.

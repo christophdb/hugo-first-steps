@@ -5,7 +5,7 @@ lastmod: '2024-06-10'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/ru/help/eigenes-passwort-aendern'
+url: '/ru/pomoshch/eigenes-passwort-aendern'
 ---
 
 Хотите изменить собственный **пароль**? Нет проблем! Вы можете сделать это всего за несколько шагов в **личных настройках** вашей учетной записи.

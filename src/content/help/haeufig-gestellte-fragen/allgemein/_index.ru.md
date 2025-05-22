@@ -1,5 +1,5 @@
 ---
 title: 'General'
-url: '/ru/help/faq/general'
+url: '/ru/pomoshch/faq/general'
 weight: 1
 ---

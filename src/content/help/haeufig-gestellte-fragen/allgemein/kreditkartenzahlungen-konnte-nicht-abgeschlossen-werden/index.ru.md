@@ -5,7 +5,7 @@ lastmod: '2023-05-04'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/help/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
+url: '/ru/pomoshch/kreditkartenzahlungen-konnte-nicht-abgeschlossen-werden'
 ---
 
 Когда вы оформляете платную подписку на SeaTable, от вас обычно требуется дополнительная аутентификация в виде аутентификации 3D Secure в дополнение к предоставлению информации о вашей кредитной карте. 3D Secure - это дополнительный уровень аутентификации для операций с кредитными картами, который должен сделать платежи в интернете более безопасными. Этот механизм безопасности то и дело вызывает проблемы, поэтому желаемый платеж не может быть успешно осуществлен, и вы не можете перейти на SeaTable Plus или Enterprise.

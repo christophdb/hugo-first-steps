@@ -5,7 +5,7 @@ lastmod: '2024-09-05'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/help/navigieren-in-der-benutzeroberflaeche-von-seatable'
+url: '/ru/pomoshch/navigieren-in-der-benutzeroberflaeche-von-seatable'
 weight: 3
 ---
 

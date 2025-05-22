@@ -5,7 +5,7 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'kgr'
-url: '/ru/help/modus-farbe-und-icon-einer-universellen-app-einstellen'
+url: '/ru/pomoshch/modus-farbe-und-icon-einer-universellen-app-einstellen'
 ---
 
 Для каждого [универсального приложения]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) можно **задать визуальные настройки**, чтобы привести его в соответствие с вашими личными пожеланиями или корпоративным дизайном вашей компании. Параметры брендинга включают **режим**, **цвет** и **иконку** универсального приложения.

@@ -5,7 +5,7 @@ lastmod: '2023-02-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'vge'
-url: '/ru/help/spaltenpfeile-ausblenden'
+url: '/ru/pomoshch/spaltenpfeile-ausblenden'
 ---
 
 Вы можете **скрыть** **стрелки столбцов**, с помощью которых открывается **выпадающее меню параметров столбцов**. Это имеет смысл, например, если вы больше не хотите менять **готовую конфигурацию** колонн и хотите иметь более четкий вид.

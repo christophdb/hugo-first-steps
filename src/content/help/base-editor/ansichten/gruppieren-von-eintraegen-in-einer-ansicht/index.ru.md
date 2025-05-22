@@ -5,7 +5,7 @@ lastmod: '2023-01-13'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/help/gruppieren-von-eintraegen-in-einer-ansicht'
+url: '/ru/pomoshch/gruppieren-von-eintraegen-in-einer-ansicht'
 ---
 
 С помощью функции группировки можно объединить записи таблицы в **группы** и определить простые описательные статистики, такие как количество элементов или итоговые и средние значения числовых столбцов.

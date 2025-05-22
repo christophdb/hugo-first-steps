@@ -5,7 +5,7 @@ lastmod: '2024-08-02'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/ru/help/die-datei-spalte'
+url: '/ru/pomoshch/die-datei-spalte'
 ---
 
 В **колонке файла** можно сохранить один или несколько файлов и таким образом добавить документы в соответствующую строку.

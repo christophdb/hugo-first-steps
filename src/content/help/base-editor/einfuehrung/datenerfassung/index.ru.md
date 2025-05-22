@@ -5,7 +5,7 @@ lastmod: '2023-03-15'
 categories:
     - 'seatable-nutzen'
 author: 'kgr'
-url: '/ru/help/datenerfassung'
+url: '/ru/pomoshch/datenerfassung'
 ---
 
 В этой статье рассказывается о некоторых способах сбора данных в SeaTable.

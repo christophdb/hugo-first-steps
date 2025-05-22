@@ -5,7 +5,7 @@ lastmod: '2023-05-03'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/help/typische-fehler-beim-arbeiten-mit-formeln'
+url: '/ru/pomoshch/typische-fehler-beim-arbeiten-mit-formeln'
 ---
 
 Функция формул открывает новые возможности для работы с данными. С помощью _формул_ можно, например, связывать значения из разных столбцов и создавать различные функции на основе содержимого этих столбцов.  

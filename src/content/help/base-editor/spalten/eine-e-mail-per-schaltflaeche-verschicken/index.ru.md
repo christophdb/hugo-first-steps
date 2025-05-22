@@ -5,7 +5,7 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/ru/help/eine-e-mail-per-schaltflaeche-verschicken'
+url: '/ru/pomoshch/eine-e-mail-per-schaltflaeche-verschicken'
 ---
 
 С помощью **кнопки** в вашей строке вы можете отправлять электронные письма одному или нескольким адресатам. Все, что вам нужно сделать, это заранее добавить **учетную запись электронной почты** в SeaTable.

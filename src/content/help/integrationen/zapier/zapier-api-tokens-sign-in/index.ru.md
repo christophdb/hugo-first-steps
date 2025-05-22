@@ -5,7 +5,7 @@ lastmod: '2023-06-27'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/ru/help/zapier-api-tokens-sign-in'
+url: '/ru/pomoshch/zapier-api-tokens-sign-in'
 ---
 
 Как только вы используете приложение SeaTable в Zapier, вы должны разрешить Zapier доступ к одной из ваших баз. Для этого вы создаете [API-токен](https://seatable.io/ru/docs/seatable-api/erzeugen-eines-api-tokens/) в SeaTable и используете его в Zapier. В этой справочной статье показано, на что следует обратить внимание.

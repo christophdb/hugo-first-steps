@@ -5,7 +5,7 @@ lastmod: '2023-03-10'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/ru/help/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
+url: '/ru/pomoshch/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
 ---
 
 Уведомления являются важной частью совместной работы в SeaTable и информируют вас, среди прочего, о том, что в ваших базах сработали автоматики, комментарии были добавлены к строке или базы были переданы вам. Чтобы помочь вам отслеживать получаемые уведомления, вы можете получить к ним доступ с главной страницы, а также из ваших баз.

@@ -5,7 +5,7 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/help/kann-ich-seatable-offline-verwenden'
+url: '/ru/pomoshch/kann-ich-seatable-offline-verwenden'
 ---
 
 **SeaTable Cloud** - это сервис, доступ к которому вы получаете через интернет. Доступ без подключения к Интернету невозможен.

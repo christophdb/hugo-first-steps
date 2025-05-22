@@ -5,7 +5,7 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/ru/help/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
+url: '/ru/pomoshch/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum'
 ---
 
 Колонки **Last** Edited и **Edited Date** заполняются SeaTable исключительно **автоматически** и поэтому являются колонками специального типа. Они оказываются чрезвычайно полезными, если необходимо отследить, **когда** и **кем** была **отредактирована** запись.

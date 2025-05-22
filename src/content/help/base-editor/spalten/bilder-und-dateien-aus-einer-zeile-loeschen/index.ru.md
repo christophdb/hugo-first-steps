@@ -5,7 +5,7 @@ lastmod: '2023-06-29'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/ru/help/bilder-und-dateien-aus-einer-zeile-loeschen'
+url: '/ru/pomoshch/bilder-und-dateien-aus-einer-zeile-loeschen'
 ---
 
 SeaTable позволяет **удалять** **файлы** и **изображения** разными способами. Следующие инструкции относятся как к [столбцам]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), так и к [столбцам файлов]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}).

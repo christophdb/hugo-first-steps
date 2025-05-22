@@ -5,7 +5,7 @@ lastmod: '2023-09-26'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/plus-oder-enterprise-abonnement-buchen'
+url: '/ru/pomoshch/plus-oder-enterprise-abonnement-buchen'
 ---
 
 У вашей команды есть подписка SeaTable Free, и вы хотите перейти на Plus или Enterprise? Нет проблем! Просто воспользуйтесь вкладкой **Subscription** в **административном разделе команды** и забронируйте желаемый пакет подписки.

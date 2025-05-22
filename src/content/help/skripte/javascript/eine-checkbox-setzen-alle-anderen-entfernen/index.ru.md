@@ -5,7 +5,7 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/help/eine-checkbox-setzen-alle-anderen-entfernen'
+url: '/ru/pomoshch/eine-checkbox-setzen-alle-anderen-entfernen'
 ---
 
 Представьте, что вы хотите всегда активировать флажок ровно в одной строке базы. Если этот флажок активирован, то все остальные флажки, которые могут быть заполнены, должны быть деактивированы. Это можно легко сделать с помощью скрипта, например, через кнопку.

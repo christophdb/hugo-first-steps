@@ -5,7 +5,7 @@ lastmod: '2023-03-01'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/help/hinzufuegen-einer-zeile'
+url: '/ru/pomoshch/hinzufuegen-einer-zeile'
 ---
 
 Существует несколько способов добавления **нового ряда в** SeaTable. В этой статье вы узнаете о различных возможностях.

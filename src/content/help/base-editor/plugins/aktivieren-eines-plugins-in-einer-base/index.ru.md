@@ -5,7 +5,7 @@ lastmod: '2023-02-02'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/help/aktivieren-eines-plugins-in-einer-base'
+url: '/ru/pomoshch/aktivieren-eines-plugins-in-einer-base'
 ---
 
 **Плагины** предлагают вам широкий спектр возможностей для отображения данных в ваших таблицах в описательном виде. Установив плагин в Base, вы можете легко переключаться между **табличным представлением** и, например, **календарем или отображением канбан**.

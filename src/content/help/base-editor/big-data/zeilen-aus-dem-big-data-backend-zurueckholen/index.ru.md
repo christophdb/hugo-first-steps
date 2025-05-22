@@ -5,7 +5,7 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'nsc2'
-url: '/ru/help/zeilen-aus-dem-big-data-backend-zurueckholen'
+url: '/ru/pomoshch/zeilen-aus-dem-big-data-backend-zurueckholen'
 ---
 
 Для извлечения строк из памяти больших данных необходимо [представление больших данных]({{< relref "help/base-editor/zeilen/mehrere-zeilen-selektieren" >}}) нужные строки и переместить их обратно в **обычное представление**.

@@ -5,7 +5,7 @@ lastmod: '2024-06-11'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'kgr'
-url: '/ru/help/reimport-von-gemeinsamen-datensaetzen'
+url: '/ru/pomoshch/reimport-von-gemeinsamen-datensaetzen'
 ---
 
 Если вы [копируете]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) **базы**, в которые интегрированы записи общих данных, или [восстанавливаете их]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}), **связь с записями общих данных** теряется. Хотя данные затем доступны в обычной таблице, они больше не могут быть синхронизированы. Поэтому можно **повторно импортировать** записи общих данных в существующие таблицы, чтобы обеспечить **синхронизацию** с данными в них.

@@ -5,7 +5,7 @@ lastmod: '2023-04-06'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/ru/help/die-lookup-funktion'
+url: '/ru/pomoshch/die-lookup-funktion'
 ---
 
 Функция поиска позволяет отображать дополнительные значения из уже связанной таблицы в текущей таблице. Это позволит вам не вводить данные дважды, и в то же время вы сможете соотнести их друг с другом. В Excel эта функция известна как _VLOOKUP_ или _SVERWEIS_.

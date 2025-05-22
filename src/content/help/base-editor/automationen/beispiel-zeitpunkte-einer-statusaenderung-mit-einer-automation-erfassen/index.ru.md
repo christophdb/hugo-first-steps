@@ -5,7 +5,7 @@ lastmod: '2023-04-28'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/help/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
+url: '/ru/pomoshch/zeitpunkte-einer-statusaenderung-mit-einer-automation-erfassen'
 ---
 
 С помощью [автоматизации]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) вам больше не придется записывать время изменения статуса **вручную**, а можно поручить SeaTable делать это **автоматически**.

@@ -5,7 +5,7 @@ lastmod: '2023-05-09'
 categories:
     - 'import-von-daten'
 author: 'cdb'
-url: '/ru/help/dtable-dateiformat'
+url: '/ru/pomoshch/dtable-dateiformat'
 ---
 
 SeaTable экспортирует **базы** в файлы DTABLE. Это отдельный **формат экспорта**. Файлы DTABLE можно использовать для резервного копирования данных, а также для миграции из одной системы SeaTable в другую.

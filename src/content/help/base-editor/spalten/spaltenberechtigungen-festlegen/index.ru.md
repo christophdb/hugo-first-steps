@@ -5,7 +5,7 @@ lastmod: '2023-02-21'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/help/spaltenberechtigungen-festlegen'
+url: '/ru/pomoshch/spaltenberechtigungen-festlegen'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

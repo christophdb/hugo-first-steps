@@ -5,7 +5,7 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/help/der-geheime-schluessel-eines-webhooks'
+url: '/ru/pomoshch/der-geheime-schluessel-eines-webhooks'
 ---
 
 Если назначение веб-крючка общедоступно, то для входящих запросов необходимо убедиться, что они исходят от нужной системы-исходника. С помощью секретного ключа можно гарантировать происхождение веб-крючка.

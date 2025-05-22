@@ -5,7 +5,7 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/help/formelbeispiel-berechne-tage-bis-zu-einem-event'
+url: '/ru/pomoshch/formelbeispiel-berechne-tage-bis-zu-einem-event'
 ---
 
 Формулы SeaTable предлагают несколько способов работы с данными в таблицах. Один из них - вычисление количества **дней до будущего события**. Например, с помощью формулы можно рассчитать количество дней, оставшихся до тренинга, дня рождения или другого события.

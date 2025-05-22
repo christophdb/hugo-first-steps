@@ -5,7 +5,7 @@ lastmod: '2023-09-19'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/help/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
+url: '/ru/pomoshch/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten'
 ---
 
 Формулы SeaTable предлагают различные способы работы с данными в таблицах. Одним из них является условное заполнение значений с помощью **операторов if**.  

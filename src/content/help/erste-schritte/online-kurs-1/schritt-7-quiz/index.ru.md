@@ -5,7 +5,7 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/help/schritt-7-quiz'
+url: '/ru/pomoshch/schritt-7-quiz'
 ---
 
 **Вы сделали это!** Вы дошли до конца учебника.

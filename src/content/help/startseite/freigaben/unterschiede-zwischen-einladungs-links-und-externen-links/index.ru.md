@@ -5,7 +5,7 @@ lastmod: '2023-01-17'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/help/unterschiede-zwischen-einladungs-links-und-externen-links'
+url: '/ru/pomoshch/unterschiede-zwischen-einladungs-links-und-externen-links'
 ---
 
 Оба типа совместного доступа позволяют сотрудничать с **внешними людьми**, **не добавляя их в свою команду**.

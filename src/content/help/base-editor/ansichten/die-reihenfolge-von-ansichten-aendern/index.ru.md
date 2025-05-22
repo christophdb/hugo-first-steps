@@ -5,7 +5,7 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/help/die-reihenfolge-von-ansichten-aendern'
+url: '/ru/pomoshch/die-reihenfolge-von-ansichten-aendern'
 ---
 
 Вы можете изменить **порядок** перечисления представлений таблицы по своему усмотрению. Перемещение осуществляется удобным способом **перетаскивания**.

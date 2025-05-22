@@ -5,7 +5,7 @@ lastmod: '2024-02-20'
 categories:
     - 'andere-spalten'
 author: 'kgr'
-url: '/ru/help/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
+url: '/ru/pomoshch/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren'
 ---
 
 Вы можете использовать **кнопку** для **копирования строк в другие таблицы**. Это удобно, если вам нужны определенные записи данных в разных таблицах, но вы не хотите использовать [ссылку]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Следующие инструкции иллюстрируют этот вариант на примере.

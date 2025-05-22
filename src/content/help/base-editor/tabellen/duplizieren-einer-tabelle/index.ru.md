@@ -5,7 +5,7 @@ lastmod: '2024-02-20'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/ru/help/duplizieren-einer-tabelle'
+url: '/ru/pomoshch/duplizieren-einer-tabelle'
 ---
 
 Вам нужно, чтобы таблица в вашей базе несколько раз использовалась в несколько ином виде? Тогда вы можете продублировать ее всего несколькими щелчками мыши. Это так просто:

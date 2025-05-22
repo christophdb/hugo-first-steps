@@ -5,7 +5,7 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/ru/help/apps-bearbeiten'
+url: '/ru/pomoshch/apps-bearbeiten'
 ---
 
 Приложения, которые вы уже добавили в одну из своих баз, можно редактировать в любое время на одноименной вкладке в шапке базы.

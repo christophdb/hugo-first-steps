@@ -5,7 +5,7 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/ru/help/die-spalten-text-und-formatierter-text'
+url: '/ru/pomoshch/die-spalten-text-und-formatierter-text'
 ---
 
 SeaTable предоставляет два различных типа колонок для ввода **строк** и **текстов** любого вида: **Текст** и **Форматированный текст**. Но в чем именно заключается разница между этими двумя типами столбцов? И в каких случаях имеет смысл использовать колонку форматированного текста?

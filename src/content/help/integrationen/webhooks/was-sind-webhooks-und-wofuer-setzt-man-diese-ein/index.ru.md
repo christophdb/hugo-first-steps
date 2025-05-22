@@ -5,7 +5,7 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/help/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
+url: '/ru/pomoshch/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
 ---
 
 {{< required-version "Бесплатно" "Плюс" "Предприятие" >}}

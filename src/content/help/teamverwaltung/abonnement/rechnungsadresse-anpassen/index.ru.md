@@ -5,7 +5,7 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/rechnungsadresse-anpassen'
+url: '/ru/pomoshch/rechnungsadresse-anpassen'
 ---
 
 {{< required-version "Администраторы команд" >}}

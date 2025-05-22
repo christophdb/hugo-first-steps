@@ -5,7 +5,7 @@ lastmod: '2022-12-29'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/ru/help/daten-import-aus-microsoft-access-in-seatable'
+url: '/ru/pomoshch/daten-import-aus-microsoft-access-in-seatable'
 ---
 
 В следующей статье вы узнаете, как импортировать данные из Microsoft Access в SeaTable.

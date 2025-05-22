@@ -5,7 +5,7 @@ lastmod: '2023-04-18'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/help/das-duplizieren-von-ansichten'
+url: '/ru/pomoshch/das-duplizieren-von-ansichten'
 ---
 
 Чтобы создать точную копию вида и применить все настройки, можно **дублировать** вид. Затем можно настроить параметры дублированного представления по мере необходимости и [переименовать]({{< relref "help/base-editor/ansichten/umbenennen-einer-ansicht" >}}) представление.

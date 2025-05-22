@@ -5,7 +5,7 @@ lastmod: '2025-02-13'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/ru/help/universelle-app'
+url: '/ru/pomoshch/universelle-app'
 ---
 
 При создании **универсального приложения** вы можете дать волю своему творчеству. Приложение имеет ряд [типов страниц]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) **отдельную страницу**, вы можете создавать приборные панели с содержательной **статистикой** ваших данных, которыми вы можете поделиться с другими (внешними) пользователями.

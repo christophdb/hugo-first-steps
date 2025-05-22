@@ -5,7 +5,7 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'cdb'
-url: '/ru/help/ein-teammitglied-entsperren'
+url: '/ru/pomoshch/ein-teammitglied-entsperren'
 ---
 
 [Заблокированные члены команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) больше не смогут войти в систему и работать с вами. Однако, будучи **администратором команды**, вы можете разблокировать их.

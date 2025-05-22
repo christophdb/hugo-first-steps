@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/ein-support-ticket-eroeffnen'
+url: '/ru/pomoshch/ein-support-ticket-eroeffnen'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

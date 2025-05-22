@@ -5,7 +5,7 @@ lastmod: '2023-04-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/eigene-farben-in-einer-base-hinzufuegen'
+url: '/ru/pomoshch/eigene-farben-in-einer-base-hinzufuegen'
 ---
 
 {{< required-version "Предприятие" >}}

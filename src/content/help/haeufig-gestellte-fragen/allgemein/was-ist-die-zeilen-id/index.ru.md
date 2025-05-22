@@ -5,7 +5,7 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'vge'
-url: '/ru/help/was-ist-die-zeilen-id'
+url: '/ru/pomoshch/was-ist-die-zeilen-id'
 ---
 
 **Идентификатор строки** - это **уникальное обозначение строки**, которое, в отличие от нумерации по представлениям, не может быть изменено. Идентификатор строки обычно нужен при написании **сценариев** на JavaScript или Python.

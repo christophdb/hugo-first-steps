@@ -5,7 +5,7 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/help/benutzerdefinierte-freigabe-erstellen'
+url: '/ru/pomoshch/benutzerdefinierte-freigabe-erstellen'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

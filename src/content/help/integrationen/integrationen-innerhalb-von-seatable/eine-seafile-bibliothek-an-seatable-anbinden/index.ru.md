@@ -5,7 +5,7 @@ lastmod: '2023-06-27'
 categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'nsc2'
-url: '/ru/help/eine-seafile-bibliothek-an-seatable-anbinden'
+url: '/ru/pomoshch/eine-seafile-bibliothek-an-seatable-anbinden'
 ---
 
 Если вы храните в базе много больших файлов (например, изображений и видео), то со временем вы можете достичь [лимита хранения вашей подписки]({{< relref "pages/prices" >}}), и [экспортировать]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) размером более 100 МБ будет невозможно.

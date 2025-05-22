@@ -1,5 +1,5 @@
 ---
 title: 'Groups'
 description: ''
-url: '/ru/help/homepage/groups'
+url: '/ru/pomoshch/homepage/groups'
 ---

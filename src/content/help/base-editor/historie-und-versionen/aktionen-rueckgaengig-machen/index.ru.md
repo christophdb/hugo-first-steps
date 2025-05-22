@@ -5,7 +5,7 @@ lastmod: '2022-12-28'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/ru/help/aktionen-rueckgaengig-machen'
+url: '/ru/pomoshch/aktionen-rueckgaengig-machen'
 ---
 
 Вы можете отменить действия в SeaTable двумя различными способами. SeaTable поддерживает как привычную комбинацию клавиш {{< key "CTRL" >}}+{{< key "Z" >}} а также соответствующую опцию по щелчку мыши. Здесь вы можете узнать, как отменить свои последние действия и записи:

@@ -5,7 +5,7 @@ lastmod: '2023-01-02'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/help/ansichten-in-ordnern-gruppieren'
+url: '/ru/pomoshch/ansichten-in-ordnern-gruppieren'
 ---
 
 Помимо изменения порядка, вы также можете более четко упорядочить свои представления с помощью **папок**. Для этого создайте столько папок представлений, сколько вам нужно, и отсортируйте ваши представления.

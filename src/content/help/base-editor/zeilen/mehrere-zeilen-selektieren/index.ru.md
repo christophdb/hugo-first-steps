@@ -5,7 +5,7 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'cdb'
-url: '/ru/help/mehrere-zeilen-selektieren'
+url: '/ru/pomoshch/mehrere-zeilen-selektieren'
 ---
 
 Конечно, бывает так, что вы хотите [скопировать]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) для редактирования **несколько строк** одновременно. Чтобы выполнить эти действия, необходимо предварительно **выделить** нужные строки.

@@ -5,7 +5,7 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'nsc2'
-url: '/ru/help/die-signatur-spalte'
+url: '/ru/pomoshch/die-signatur-spalte'
 ---
 
 Цифровую подпись можно хранить в **столбце подписи**, который сохраняется в виде PNG-файла в файловом менеджере Base.

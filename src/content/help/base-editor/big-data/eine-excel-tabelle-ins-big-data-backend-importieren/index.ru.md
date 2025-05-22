@@ -5,7 +5,7 @@ lastmod: '2024-05-14'
 categories:
     - 'big-data'
 author: 'kgr'
-url: '/ru/help/eine-excel-tabelle-ins-big-data-backend-importieren'
+url: '/ru/pomoshch/eine-excel-tabelle-ins-big-data-backend-importieren'
 ---
 
 {{< required-version "Предприятие" >}}

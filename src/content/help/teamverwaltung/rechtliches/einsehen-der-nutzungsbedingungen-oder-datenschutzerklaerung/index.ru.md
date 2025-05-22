@@ -5,7 +5,7 @@ lastmod: '2023-01-20'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
+url: '/ru/pomoshch/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
 ---
 
 Как **администратор команды**, вы можете просмотреть несколько **юридических документов** в администрации команды SeaTable и загрузить их для своих записей. Здесь вы найдете, среди прочего, **условия использования** и **политику конфиденциальности**.

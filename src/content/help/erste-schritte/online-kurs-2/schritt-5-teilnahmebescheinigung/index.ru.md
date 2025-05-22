@@ -5,7 +5,7 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/help/schritt-5-teilnahmebescheinigung'
+url: '/ru/pomoshch/schritt-5-teilnahmebescheinigung'
 ---
 
 После завершения работы над сервисом вы хотите завершить процесс, отправив участникам заключительное письмо. Это письмо может иметь различное содержание, например

@@ -5,7 +5,7 @@ lastmod: '2024-03-18'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'cdb'
-url: '/ru/help/uebersicht-alle-spaltentypen'
+url: '/ru/pomoshch/uebersicht-alle-spaltentypen'
 ---
 
 В SeaTable вы можете сохранять информацию и данные в самых разных форматах.

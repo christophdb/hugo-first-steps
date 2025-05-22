@@ -5,7 +5,7 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/help/synchronisation-eines-gemeinsamen-datensatzes'
+url: '/ru/pomoshch/synchronisation-eines-gemeinsamen-datensatzes'
 ---
 
 Jede Tabelle, die Sie aus einem gemeinsamen Datensatz erstellt haben, können Sie **synchronisieren**. Dabei gleicht SeaTable die Daten des gemeinsamen Datensatzes mit den identischen Spalten in der Tabelle ab. Die Werte in diesen Spalten werden **überschrieben**, falls Sie oder Ihre Gruppenmitglieder seit der letzten Synchronisation **Veränderungen am gemeinsamen Datensatz** vorgenommen haben.

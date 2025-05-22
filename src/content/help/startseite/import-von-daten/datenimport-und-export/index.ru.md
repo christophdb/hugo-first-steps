@@ -5,7 +5,7 @@ lastmod: '2024-03-11'
 categories:
     - 'import-von-daten'
 author: 'cdb'
-url: '/ru/help/datenimport-und-export'
+url: '/ru/pomoshch/datenimport-und-export'
 ---
 
 Функции импорта SeaTable позволяют переходить от других решений к SeaTable без особых усилий. То же самое касается перехода от одной системы SeaTable к другой, например, при переходе от SeaTable Cloud к системе, размещаемой самостоятельно. Вы можете продолжать беспрепятственно работать с базой, которую вы импортировали из другого экземпляра SeaTable.

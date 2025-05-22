@@ -5,7 +5,7 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/help/schritt-7-zusammenfassung-ausblick'
+url: '/ru/pomoshch/schritt-7-zusammenfassung-ausblick'
 ---
 
 Поздравляем! Вы создали прочную основу, с помощью которой сможете эффективно управлять программой курса. Давайте подведем краткий итог тому, чего вы достигли:

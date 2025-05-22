@@ -5,7 +5,7 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/help/funktionsweise-von-automationen'
+url: '/ru/pomoshch/funktionsweise-von-automationen'
 ---
 
 {{< required-version "Предприятие" >}}

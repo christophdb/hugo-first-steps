@@ -5,7 +5,7 @@ lastmod: '2024-12-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/ru/help/einstellungen-einer-universellen-app-aendern'
+url: '/ru/pomoshch/einstellungen-einer-universellen-app-aendern'
 ---
 
 В **универсальном приложении** можно несколькими щелчками мыши задать различные **глобальные настройки**, которые влияют на конфигурацию и внешний вид всего приложения.

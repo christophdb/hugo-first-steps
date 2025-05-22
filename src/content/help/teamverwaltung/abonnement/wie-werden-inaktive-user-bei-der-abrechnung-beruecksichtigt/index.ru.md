@@ -5,7 +5,7 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
+url: '/ru/pomoshch/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt'
 ---
 
 Для того чтобы использовать SeaTable в вашей команде, лицензия должна быть приобретена отдельно для каждого пользователя.  

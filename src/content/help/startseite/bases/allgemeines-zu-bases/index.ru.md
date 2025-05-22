@@ -5,7 +5,7 @@ lastmod: '2023-05-03'
 categories:
     - 'arbeiten-mit-bases'
 author: 'cdb'
-url: '/ru/help/bases'
+url: '/ru/pomoshch/bases'
 ---
 
 Базы имеют центральное значение в SeaTable. Каждый раз, когда вы вводите, анализируете, редактируете или делитесь данными в SeaTable, вы находитесь в базе.

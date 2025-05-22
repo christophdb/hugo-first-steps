@@ -5,7 +5,7 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/help/die-basestruktur-exportieren'
+url: '/ru/pomoshch/die-basestruktur-exportieren'
 ---
 
 В следующей статье вы найдете сценарий Python, который позволяет вывести всю **структуру таблиц и столбцов базы** в виде обычного текста. Эта структура помогает, например, службе поддержки пользователей понять, когда вы задаете вопрос на форуме.

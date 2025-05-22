@@ -5,7 +5,7 @@ lastmod: '2023-02-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/help/das-loeschen-von-zeilen'
+url: '/ru/pomoshch/das-loeschen-von-zeilen'
 ---
 
 В этой статье вы узнаете, как **удалить** **одну строку**, **несколько строк** и **записи** из строки.

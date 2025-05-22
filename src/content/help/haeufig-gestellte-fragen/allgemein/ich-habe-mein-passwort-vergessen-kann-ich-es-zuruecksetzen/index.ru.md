@@ -5,7 +5,7 @@ lastmod: '2023-03-01'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/help/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen'
+url: '/ru/pomoshch/ich-habe-mein-passwort-vergessen-kann-ich-es-zuruecksetzen'
 ---
 
 Вы можете получить ссылку, отправленную на адрес электронной почты вашей учетной записи SeaTable, которая позволит вам переназначить пароль. Вы можете найти эту функцию на странице входа в SeaTable Cloud.

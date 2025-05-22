@@ -5,7 +5,7 @@ lastmod: '2023-01-19'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/bases-in-der-teamverwaltung'
+url: '/ru/pomoshch/bases-in-der-teamverwaltung'
 ---
 
 Если вы являетесь **администратором команды**, вы имеете доступ ко всем базам в вашей команде через **администрацию** команды. Вы можете вызвать детальный просмотр отдельных баз, просмотреть доли и ссылки баз или удалить базы.
