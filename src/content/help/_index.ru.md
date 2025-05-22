@@ -1,6 +1,6 @@
 ---
 title: Зона помощи
-url: /ru/pomoshch
+url: '/ru/pomoshch'
 type: help-start
 headline: 'Как мы можем помочь?'
 ---

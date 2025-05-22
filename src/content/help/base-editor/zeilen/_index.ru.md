@@ -1,4 +1,4 @@
 ---
 title: Rows
-url: /ru/help/base-editor/zeilen
+url: '/ru/pomoshch/base-editor/zeilen'
 ---

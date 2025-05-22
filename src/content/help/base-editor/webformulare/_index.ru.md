@@ -1,4 +1,4 @@
 ---
 title: Forms
-url: /ru/help/base-editor/webformulare
+url: '/ru/pomoshch/base-editor/webformulare'
 ---

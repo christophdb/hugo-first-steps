@@ -1,4 +1,4 @@
 ---
 title: 'Javascript'
-url: /ru/help/skripte/javascript
+url: '/ru/pomoshch/skripte/javascript'
 ---
