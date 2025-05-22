@@ -1,66 +1,68 @@
 ---
-title: 'Tipps für die Planung Ihrer Marketingkampagne'
+title: 'Consejos para planificar su campaña de marketing'
 date: 2022-08-05
 lastmod: '2022-07-25'
 author: 'rdb'
-url: '/es/marketing-kampagne-planung'
+url: '/es/planificacion-campamentos-marketing'
+aliases: 
+- /es/marketing-kampagne-planung/
 color: '#eeeeee'
 ---
 
-Wer sein Unternehmen richtig nach vorne bringen und sich deutlich vom Wettbewerb absetzen will, braucht vor allem eines: ein extrem gutes [Marketing](https://seatable.io/marketing/). Wie gut dieses tatsächlich ist, hängt von der jeweiligen Marketingkampagne und deren Planung ab. Und damit stellen sich direkt mehrere Fragen: Was ist überhaupt eine Marketingkampagne? Wann ist sie gut und wann nicht? Und wie lassen sich Umsetzung und Planung der Marketingkampagne optimal vereinen?
+Si quiere que su empresa avance de verdad y destaque entre la competencia, necesita una cosa por encima de todo: un [marketing extremadamente bueno](https://seatable.io/marketing/). El grado de calidad depende de cada campaña de marketing y de su planificación. Y esto plantea directamente varias preguntas: ¿Qué es una campaña de marketing? ¿Cuándo es buena y cuándo no? ¿Y cómo pueden combinarse de forma óptima la ejecución y la planificación de la campaña de marketing?
 
-Die Antworten sowie einen Überblick über die sechs besten Praxistipps für die Planung Ihrer Marketingkampagne gibt es in diesem Artikel.
+En este artículo encontrará las respuestas y un resumen de los seis mejores consejos prácticos para planificar su campaña de marketing.
 
-## Strategie vs. Kampagne – so unterscheidet sich eine Marketingkampagne von der Strategie
+## Estrategia vs. campaña: en qué se diferencia una campaña de marketing de una estrategia
 
-Ein großer und ganz entscheidender Unterschied zwischen Marketingstrategie und Marketingkampagne ist die zeitliche Komponente. Währende die Strategie ein langfristig angelegtes, planvolles Vorgehen zur Umsetzung der Marketingziele ist, handelt es sich bei der Kampagne um eine zeitlich begrenzte Aktion im Rahmen eben dieser Strategie. So kann eine Strategie über einen langen Zeitraum viele verschiedene Marketing- bzw. Werbekampagnen beinhalten. Das bedeutet: Planung und Umsetzung der Marketingkampagne finden immer unter dem Dach der Marketingstrategie statt.
+Una diferencia importante y crucial entre una estrategia de marketing y una campaña de marketing es el componente temporal. Mientras que una estrategia es un enfoque planificado a largo plazo para alcanzar los objetivos de marketing, una campaña es una acción limitada en el tiempo dentro del marco de la misma estrategia. Por lo tanto, una estrategia puede incluir muchas campañas de marketing y publicidad diferentes durante un largo periodo de tiempo. Esto significa que la planificación y la ejecución de la campaña de marketing siempre tienen lugar bajo el paraguas de la estrategia de marketing.
 
-![Mitarbeiterin übernimmt Marketing Kampagnen Planung.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![El empleado se encarga de planificar la campaña de marketing](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
 
-Marketing Kampagne Planung © Rawpixel / adobe stock
+Planificación de una campaña de marketing © Rawpixel / adobe stock
 
-## Wobei hilft eine Marketingkampagne?
+## ¿Cómo ayuda una campaña de marketing?
 
-So gut wie jedes erfolgreiche Unternehmen auf der Welt investiert eine Menge Zeit in die perfekte Organisation und Planung seiner Marketingkampagnen. Schließlich ist Marketing das optimale „Werkzeug“, um sich als Marke zu platzieren. So eignen sich Werbekampagnen sehr gut für Branding und Imagebuilding, Produkteinführungen oder aber um den Absatz rund um bestimmte kalendarische Ereignisse wie Weihnachten, Ostern oder Halloween zu fördern. Klassische Beispiele für erfolgreiche Marketingkampagnen sind die TV-Spots für den Lindt-Osterhasen oder die Weihnachtswerbung von Edeka.
+Casi todas las empresas de éxito del mundo invierten mucho tiempo en la perfecta organización y planificación de sus campañas de marketing. Al fin y al cabo, el marketing es la "herramienta" ideal para posicionar una marca. Por ello, las campañas publicitarias son ideales para la creación de marca e imagen, el lanzamiento de productos o para promover las ventas en torno a determinados acontecimientos del calendario, como Navidad, Semana Santa o Halloween. Ejemplos clásicos de campañas de marketing de éxito son los anuncios televisivos del conejo de Pascua de Lindt o la publicidad navideña de Edeka.
 
-Als umfassend angelegte, zeitlich begrenzte Aktion hilft eine Marketingkampagne dabei, Zielgruppen spezifisch anzusprechen und darüber Teile der Marketingstrategie erfolgreich umzusetzen. Der Erfolg einer Kampagne hängt dabei neben der Planung der zielgruppengerechten Ansprache und Aufbereitung auch davon ab, auf welchen Kanälen sie veröffentlicht wird.
+Como campaña global y limitada en el tiempo, una campaña de marketing ayuda a dirigirse específicamente a grupos objetivo y a aplicar con éxito partes de la estrategia de marketing. El éxito de una campaña no sólo depende de la planificación del enfoque orientado al grupo objetivo y de la preparación, sino también de los canales en los que se publica.
 
-Doch wie lässt sich die Planung einer Marketingkampagne effizient, unkompliziert und erfolgreich realisieren? Die folgenden sechs Praxis-Tipps helfen Ihnen auf dem Weg zu Ihrer perfekten Offline- und Online-Marketingkampagne.
+Pero, ¿cómo puede llevarse a cabo la planificación de una campaña de marketing de forma eficaz, sencilla y satisfactoria? Los siguientes seis consejos prácticos le ayudarán en el camino hacia su campaña de marketing offline y online perfecta.
 
-## Mit sechs Schritten zum Erfolg – so gelingt Ihnen die Planung Ihrer Marketingkampagne
+## Seis pasos hacia el éxito: cómo planificar con éxito su campaña de marketing
 
-### 1\. Klare Planung der Maßnahmen Ihrer Marketingkampagne
+### 1\. Planifique claramente las medidas de su campaña de marketing
 
-Bevor Sie direkt loslegen und sich voller Elan in die Umsetzung Ihrer Marketingkampagne stürzen, ist eine Sache ganz wichtig: Die Planung nimmt die meiste Zeit ein. Denn ohne eine solide Vorbereitung und eine detaillierte Erarbeitung aller Kampagnenschritte geht es nicht. Als allerersten Schritt sollten Sie deswegen ganz klar festlegen, welche Ziele Sie mit Ihrer Werbekampagne erreichen möchten.
+Una cosa es muy importante antes de lanzarse directamente a la realización de su campaña de marketing: la planificación ocupa la mayor parte de su tiempo. Porque sin una preparación sólida y una elaboración detallada de todos los pasos de la campaña, ésta no funcionará. Por lo tanto, el primer paso debería ser definir claramente los objetivos que quiere alcanzar con su campaña publicitaria.
 
-### 2\. Definition von Zielgruppe und Buyer Persona
+### 2\. Definición del grupo objetivo y del comprador persona
 
-Zweiter Schritt der Planung Ihrer Marketingkampagne: Zielgruppen festlegen und entsprechende Buyer Persona erstellen. Denn nur, wenn Sie Ihre Zielgruppen in- und auswendig kennen, wissen Sie, wie Sie diese richtig ansprechen. Je klarer dabei die Definition Ihrer potenziellen Kunden ist, um so genauer können Sie die Maßnahmen für Ihre Marketingkampagne festlegen und in die weitere Planung gehen.
+El segundo paso en la planificación de su campaña de marketing: definir los grupos objetivo y crear los correspondientes buyer personas. Porque sólo si conoce a fondo sus grupos objetivo sabrá cómo dirigirse a ellos correctamente. Cuanto más clara sea la definición de sus clientes potenciales, con mayor precisión podrá definir las medidas de su campaña de marketing y proceder a su posterior planificación.
 
-### 3\. Wettbewerb und Markt analysieren
+### 3\. Analice la competencia y el mercado
 
-Es gibt so gut wie keine Ideen, die nicht schon einmal gedacht worden sind. Soll heißen: Sie sind möglicherweise nicht das einzige Unternehmen auf dem Markt, das Produkte oder Dienstleistungen wie Ihre anbietet. Um sich von den anderen abzuheben und Ihre Zielgruppe auf sich aufmerksam zu machen, sind Wettbewerbs- und Marktanalyse ein absolut entscheidender Schritt für Ihre Marketingkampagne. Planung und Umsetzung funktionieren nicht ohne den Blick auf die Konkurrenz.
+Prácticamente no existen ideas en las que no se haya pensado antes. En otras palabras, es posible que no seas la única empresa del mercado que ofrece productos o servicios como los tuyos. Para destacar del resto y atraer la atención de su público objetivo, analizar la competencia y el mercado es un paso absolutamente crucial en su campaña de marketing. La planificación y la ejecución no funcionan sin analizar a la competencia.
 
-### 4\. Klare Zuständigkeiten und Timelines festlegen
+### 4\. Defina responsabilidades y plazos claros
 
-Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele](https://seatable.io/vorlagen-projektplanung/), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen](https://seatable.io/projektstrukturplan-vorlage/), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget](https://seatable.io/budgetplanung-vorlage/) einzuteilen.
+Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto](https://seatable.io/vorlagen-projektplanung/), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas](https://seatable.io/projektstrukturplan-vorlage/), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto](https://seatable.io/budgetplanung-vorlage/).
 
-![Marketing Team bespricht Vorgehensweise der Kampagnen Planung.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![El equipo de marketing debate el enfoque de la planificación de la campaña](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
-Marketing Kampagne Planung © REDPIXEL / adobe stock
+Planificación de una campaña de marketing © REDPIXEL / adobe stock
 
-### 5\. Bei der Planung der Marketingkampagne Maßnahmen und Inhalte zusammenbringen
+### 5\. Aunar medidas y contenidos al planificar la campaña de marketing
 
-Sind alle organisatorischen Aspekte erledigt, geht es an die inhaltliche Planung Ihrer Marketingkampagne. Zu diesem Schritt gehört, dass Sie gemeinsam mit dem Team entscheiden, [welche Inhalte in welchem Format auf welchen Kanälen](https://seatable.io/social-media-plan-vorlage/) gespielt werden sollen – immer mit Zielgruppe, Wettbewerb und Markt im Hinterkopf. Wichtig in diesem Zusammenhang sind auch die rechtlichen Aspekte. So sollten Sie bei jeder Kampagnenmaßnahme beachten, welche Urheberrechte bei verwendeten Fotos gelten, wann Werberichtlinien zu beachten sind und welche Vorgaben die verschiedenen genutzten Plattformen machen.
+Una vez abordados todos los aspectos organizativos, es hora de planificar el contenido de la campaña de marketing. Este paso implica decidir junto con el equipo [qué contenido debe reproducirse en qué formato y en qué canales](https://seatable.io/social-media-plan-vorlage/), siempre teniendo en cuenta el grupo objetivo, la competencia y el mercado. Los aspectos legales también son importantes en este contexto. Para cada medida de la campaña, hay que tener en cuenta qué derechos de autor se aplican a las fotos utilizadas, cuándo hay que respetar las directrices publicitarias y qué especificaciones hacen las distintas plataformas utilizadas.
 
-### 6\. Umsetzung, Monitoring und Erfolgskontrolle
+### 6\. Ejecución, seguimiento y control del éxito
 
-Sind alle Maßnahmen rund um die Marketingkampagne ausgearbeitet und die Planung abgeschlossen, geht es an die Umsetzung. In diesem letzten Schritt können Sie nun alle Trümpfe Ihrer perfekten Vorbereitung ausspielen und die Erfolge einheimsen. Apropos Erfolge – zu einer erfolgreichen Marketingkampagne gehören nicht nur Planung und Umsetzung. Ebenso wichtig sind ein tägliches Monitoring sowie Erfolgskontrolle und Analyse nach Beendigung der Kampagne. Wann letztere stattfinden, sollten Sie bereits im vierten Schritt (Klare Zuständigkeiten und Timelines festlegen) definiert haben. So werden diese wichtigen Punkte, die Ihnen bei der Planung späterer Werbekampagnen entscheidend helfen können, nicht vergessen.
+Una vez elaboradas todas las medidas relativas a la campaña de marketing y finalizada la planificación, llega el momento de la ejecución. En este último paso, ya puede jugar todas las bazas de su perfecta preparación y recoger los frutos. Hablando de éxitos: el éxito de una campaña de marketing no se limita a la planificación y la ejecución. Igualmente importantes son el seguimiento diario, el control del éxito y el análisis una vez finalizada la campaña. Ya debería haber definido cuándo tendrá lugar esto último en el cuarto paso (definir responsabilidades y plazos claros). De este modo, no se olvidará de estos importantes puntos, que pueden ayudarle decisivamente en la planificación de campañas publicitarias posteriores.
 
-## Sie möchten mehr? Diese Tools unterstützen Sie bei der Planung Ihrer Marketingkampagne
+## ¿Quieres más? Estas herramientas le ayudarán a planificar su campaña de marketing
 
-Stift und Papier sind super und sicher lässt sich eine Marketingkampagne damit planen, aber es geht auch einfacher. Denn ganz gleich, ob Offline- oder Online-Marketingkampagne – mit den passenden digitalen Tools werden Planung und Umsetzung noch unkomplizierter. So gibt es heute bereits etliche Programme, die Ihnen die [Projektplanung](https://seatable.io/vorlagen-projektplanung/) erleichtern und die Kampagnenumsetzung mittels automatisierter E-Mail-Aussendungen, Social-Media-Postings und vielen weiteren Features erleichtern.
+El bolígrafo y el papel están muy bien y sin duda pueden utilizarse para planificar una campaña de marketing, pero hay una forma más sencilla. Tanto si se trata de una campaña de marketing online como offline, las herramientas digitales adecuadas pueden facilitar aún más la planificación y la ejecución. Hoy en día ya existen varios programas que te facilitan la [planificación del proyecto](https://seatable.io/vorlagen-projektplanung/) y la ejecución de la campaña mediante envíos automáticos por correo electrónico, publicaciones en redes sociales y muchas otras funciones.
 
-Wie genau das aussehen kann, können Sie gerne am Beispiel unserer [TikTok-Kampagne](https://t3n.de/consent?redirecturl=%2Fnews%2Fseatable-tiktok-case-study-1477428%2F) nachvollziehen. Mit der richtigen Planung unserer Marketingkampagne auf dieser Plattform generieren wir mehr als eine halbe Million Views pro Woche – ein wahnsinniger Booster für die Bekanntheit der Marke und unsere Sichtbarkeit im Netz. Mit der richtigen Planung ist alles möglich!
+Nuestro ejemplo es nuestra [campaña TikTok](https://t3n.de/consent?redirecturl=%2Fnews%2Fseatable-tiktok-case-study-1477428%2F). Con la planificación adecuada de nuestra campaña de marketing en esta plataforma, generamos más de medio millón de visitas a la semana, lo que supone un impulso extraordinario para el conocimiento de nuestra marca y nuestra visibilidad en Internet. Con la planificación adecuada, ¡todo es posible!
 
-Bildquelle Titelbild: © tirachard/Adobe Stock
+Fuente de la imagen de portada: © tirachard/Adobe Stock
