@@ -28,48 +28,6 @@
         </div>
     </section>
 
-    <!-- hotspots erster test -->
-    <section class="max-container mx-auto hidden">
-        <div
-            class="relative"
-            x-data="{
-        hotspots: [
-            { x: 20, y: 30, label: 'Header', description: 'Header details go here.', link: '/manual/header', position: 'left' },
-            { x: 60, y: 90, label: 'Footer', description: 'Footer details go here asdf afafd afds asdf afd af .', link: '/manual/footer', position: 'right' }
-        ],
-        active: null
-    }">
-            <img src="/img/seatable-waves-background-scaled.jpg" alt="Screenshot" class="w-full" />
-
-            <!-- Overlay for click-away, only shown if a box is open -->
-            <div x-show="active !== null" @click="active = null" class="fixed inset-0 z-40" style="background: transparent"></div>
-
-            <template x-for="(spot, i) in hotspots" :key="spot.label">
-                <div class="absolute flex flex-col items-center" :style="`left: ${spot.x}%; top: ${spot.y}%; transform: translate(-50%, -50%);`">
-                    <button
-                        x-ref="'hotspot' + i"
-                        :class="[
-                    'z-50 mb-1 flex h-8 w-8 items-center justify-center rounded-full font-bold text-white transition-colors hover:bg-red-700 duration-200',
-                    active === i ? 'bg-red-700' : 'bg-red-500'
-                ]"
-                        @click.stop="active = i">
-                        {{ partial "icon.html" "search" }}
-                    </button>
-                    <!-- The fly-in box, anchored to the hotspot -->
-                    <div
-                        x-show="active === i"
-                        x-anchor="$refs['hotspot' + i].right"
-                        x-transition
-                        :class="`absolute z-50 min-w-[250px] rounded border bg-white p-4 shadow-lg ${spot.position === 'left' ? 'right-10' : 'left-10'}`">
-                        <h2 class="mb-2 font-bold" x-text="spot.label"></h2>
-                        <p class="mb-2" x-text="spot.description"></p>
-                        <a :href="spot.link" class="text-blue-600 underline">Go to manual entry</a>
-                    </div>
-                </div>
-            </template>
-        </div>
-    </section>
-
     <!--
     <section class="bg-gray-100 curved relative">
         <section class="max-container">

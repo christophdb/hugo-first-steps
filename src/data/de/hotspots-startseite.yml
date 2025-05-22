@@ -1,0 +1,41 @@
+- 'label': 'Bases'
+  'description': 'Eine Base ist eine Datenbank. Eine Base besteht aus einer oder mehreren Tabellen und kann viele Tausend Zeilen enthalten. Alle Bases, auf die ein Benutzer Zugriff hat, werden auf der Startseite angezeigt.'
+  'link': 'help/startseite/bases'
+  'position': 'right'
+  'x': 64
+  'y': 32
+
+- 'label': 'Benachrichtigungen'
+  'description': |
+      Eine Benachrichtigung ist eine Mitteilung innerhalb von SeaTable.<br><br>
+      Eine Benachrichtigung kann vom System erstellt werden oder durch Benutzer aktiv versendet werden.<br><br>
+      Wenn neue Benachrichtigungen vorliegen, dann wird dies durch eine Zahl am **Glocken-Icon** angezeigt.
+  'link': 'help/startseite/benachrichtigungen'
+  'position': 'left'
+  'x': 89.4
+  'y': 4
+
+- 'label': 'Persönliche Einstellungen'
+  'description': 'Hinter dem Avatar verbirgt sich ein Menu für die persönlichen Einstellungen, die Teamverwaltung und Ihre aktuellen Team-Limits.'
+  'link': 'help/startseite/persoenliche-einstellungen'
+  'position': 'left'
+  'x': 97
+  'y': 8
+
+- 'label': 'Gemeinsame Datensätze'
+  'description': |
+      Mithilfe von gemeinsamen Datensätzen ist es möglich, eine im Voraus definierte Tabellenansicht anderen Gruppen und Nutzern zur Verfügung zu stellen,
+      sodass diese in verschiedensten Kontexten und Abteilungen auf bestimmte Daten zugreifen können.
+  'link': 'help/startseite/gemeinsame-datensaetze'
+  'position': 'left'
+  'x': 20.3
+  'y': 29
+
+- 'label': 'Gruppen'
+  'description': |
+      Eine Gruppe besteht aus einem oder mehreren Teammitgliedern.<br><br>
+      Eine Gruppe ist somit ein Mittel, um Benutzer innerhalb eines Teams thematisch zu ordnen und einfach zusammenarbeiten zu lassen. Jede Gruppe wird über ihren Namen im Team eindeutig identifiziert.
+  'link': 'help/startseite/gruppen'
+  'position': 'left'
+  'x': 37
+  'y': 93
