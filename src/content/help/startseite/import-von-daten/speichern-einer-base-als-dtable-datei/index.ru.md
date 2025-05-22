@@ -5,7 +5,7 @@ lastmod: '2024-03-11'
 categories:
     - 'import-von-daten'
 author: 'kgr'
-url: '/ru/help/speichern-einer-base-als-dtable-datei'
+url: '/ru/pomoshch/speichern-einer-base-als-dtable-datei'
 ---
 
 Вы можете в любой момент экспортировать базу в файл DTABLE и таким образом сохранить на своем устройстве полную резервную копию. О том, как это работает и о чем следует помнить, вы узнаете из следующей статьи.

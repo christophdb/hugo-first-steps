@@ -5,7 +5,7 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/help/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
+url: '/ru/pomoshch/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
 ---
 
 Чтобы использовать общую запись в другой базе, вы можете импортировать соответствующее табличное представление общей записи в нужную базу. Для этого создайте новую таблицу в базе с соответствующим набором данных. Затем вы можете работать с данными общего набора данных или табличного представления, включая определенные условия фильтрации и сортировки, в выбранной базе.

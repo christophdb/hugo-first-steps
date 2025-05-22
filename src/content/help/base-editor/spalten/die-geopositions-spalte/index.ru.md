@@ -5,7 +5,7 @@ lastmod: '2023-01-24'
 categories:
     - 'andere-spalten'
 author: 'nsc2'
-url: '/ru/help/die-geopositions-spalte'
+url: '/ru/pomoshch/die-geopositions-spalte'
 ---
 
 С помощью колонки Геопозиции можно собрать долготу и широту любого места в ваших таблицах. Кроме того, вы можете использовать функцию поиска, чтобы найти страну или регион и добавить его в качестве записи.

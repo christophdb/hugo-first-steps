@@ -5,7 +5,7 @@ lastmod: '2024-05-15'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/ru/help/apps-zu-einer-base-hinzufuegen'
+url: '/ru/pomoshch/apps-zu-einer-base-hinzufuegen'
 ---
 
 Вы хотите добавить приложение в свою базу, чтобы иметь возможность еще более индивидуально адаптировать работу в SeaTable под конкретные группы пользователей и сценарии использования? Нет проблем! Это делается всего за несколько шагов.

@@ -5,7 +5,7 @@ lastmod: '2023-06-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/loeschen-einer-base'
+url: '/ru/pomoshch/loeschen-einer-base'
 ---
 
 Вы можете удалить свои **собственные базы** в SeaTable в любое время. Базы, принадлежащие **группе**, могут быть удалены только владельцем или администратором группы.

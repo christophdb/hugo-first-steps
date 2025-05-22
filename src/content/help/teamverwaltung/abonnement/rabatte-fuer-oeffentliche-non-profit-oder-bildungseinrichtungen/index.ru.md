@@ -5,7 +5,7 @@ lastmod: '2024-04-11'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
+url: '/ru/pomoshch/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
 ---
 
 Вы хотите использовать SeaTable и являетесь зарегистрированной ассоциацией, работаете в государственном учреждении или благотворительной некоммерческой организации? Тогда вы получите особые преимущества, потому что мы хотим поддержать людей, которые работают на общее благо - будь то социальная работа, гуманитарная помощь, экологические проекты или образование и исследования.

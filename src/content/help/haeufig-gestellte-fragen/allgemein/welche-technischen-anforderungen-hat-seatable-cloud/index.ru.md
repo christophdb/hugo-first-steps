@@ -5,7 +5,7 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/help/welche-technischen-anforderungen-hat-seatable-cloud'
+url: '/ru/pomoshch/welche-technischen-anforderungen-hat-seatable-cloud'
 ---
 
 Вы заинтересовались SeaTable Cloud, но все еще не уверены в **технических требованиях**? Нет проблем, в этой статье вы найдете всю техническую информацию о браузере, операционной системе и т.д., которую вы должны знать заранее.

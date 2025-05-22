@@ -5,7 +5,7 @@ lastmod: '2024-04-15'
 categories:
     - 'auswahlspalten'
 author: 'nsc2'
-url: '/ru/help/anlegen-einer-einfachauswahl-spalte'
+url: '/ru/pomoshch/anlegen-einer-einfachauswahl-spalte'
 ---
 
 Колонка с одним выбором идеально подходит, если вы хотите назначить строкам **ровно один вариант** из списка определяемых вариантов. Варианты снабжены красочными **ярлыками**, которые можно использовать для **категоризации** записей и наглядности таблиц.

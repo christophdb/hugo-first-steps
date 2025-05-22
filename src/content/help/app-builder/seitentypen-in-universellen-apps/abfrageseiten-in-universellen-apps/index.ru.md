@@ -5,7 +5,7 @@ lastmod: '2025-02-27'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/help/abfrageseiten-in-universellen-apps'
+url: '/ru/pomoshch/abfrageseiten-in-universellen-apps'
 ---
 
 С помощью этого типа страницы, который работает аналогично [приложению "Запрос данных]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) ", вы можете искать в записях данных определенные значения по определенным полям. Этот тип страницы особенно полезен для **обширных записей данных**, таких как каталоги товаров или библиотеки. Конкретным примером может быть, например, запрос справочника сотрудников.

@@ -5,7 +5,7 @@ lastmod: '2023-02-09'
 categories:
     - 'seitendesign-plugin'
 author: 'vge'
-url: '/ru/help/eintraege-und-seiten'
+url: '/ru/pomoshch/eintraege-und-seiten'
 ---
 
 При использовании [плагина дизайна страниц]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) важно понимать разницу между записями и страницами. В то время как дополнительные **страницы** расширяют документ независимо от содержимого таблицы, **записи** отображают различные записи из строк таблицы.

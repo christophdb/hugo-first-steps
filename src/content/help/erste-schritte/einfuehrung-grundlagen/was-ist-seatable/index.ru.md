@@ -5,7 +5,7 @@ lastmod: '2023-03-09'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/ru/help/was-ist-seatable'
+url: '/ru/pomoshch/was-ist-seatable'
 weight: 1
 ---
 

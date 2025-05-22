@@ -5,7 +5,7 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/help/zeilen-ins-big-data-backend-verschieben'
+url: '/ru/pomoshch/zeilen-ins-big-data-backend-verschieben'
 ---
 
 {{< required-version "Предприятие" >}}

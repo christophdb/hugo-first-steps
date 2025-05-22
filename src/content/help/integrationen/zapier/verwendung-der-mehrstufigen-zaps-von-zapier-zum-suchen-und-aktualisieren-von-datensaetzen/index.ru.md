@@ -5,7 +5,7 @@ lastmod: '2023-06-27'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/ru/help/verwendung-der-mehrstufigen-zaps-von-zapier-zum-suchen-und-aktualisieren-von-datensaetzen'
+url: '/ru/pomoshch/verwendung-der-mehrstufigen-zaps-von-zapier-zum-suchen-und-aktualisieren-von-datensaetzen'
 ---
 
 Zapier является ведущим поставщиком автоматизации без кода и интегрируется с более чем 5 000 приложений от таких партнеров, как Google, Salesforce и Microsoft. В этой статье вы узнаете, как разработать многоэтапный Zapier для создания интеграции, которая автоматизирует обновление существующих записей SeaTable. Это делается с помощью поиска в Zapier для определения нужных записей в SeaTable, а затем их соответствующего обновления.

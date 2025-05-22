@@ -5,7 +5,7 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/help/individuelle-seiten-in-universellen-apps'
+url: '/ru/pomoshch/individuelle-seiten-in-universellen-apps'
 ---
 
 С помощью этого типа страницы вы можете дать волю своему творчеству и создать **индивидуальную страницу** в соответствии с вашими пожеланиями. Добавьте на страницу **текст** и **изображения** или используйте **статистику** для создания содержательных **панелей** с данными из вашей базы.

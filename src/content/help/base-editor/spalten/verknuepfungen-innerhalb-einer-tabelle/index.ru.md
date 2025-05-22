@@ -5,7 +5,7 @@ lastmod: '2025-02-28'
 categories:
     - 'verknuepfungen'
 author: 'kgr'
-url: '/ru/help/verknuepfungen-innerhalb-einer-tabelle'
+url: '/ru/pomoshch/verknuepfungen-innerhalb-einer-tabelle'
 ---
 
 С помощью **столбца ссылок** в SeaTable можно не только [связать несколько таблиц]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), но и **соотнести записи данных в одной и той же таблице**.

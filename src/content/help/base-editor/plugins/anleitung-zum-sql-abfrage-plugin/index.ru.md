@@ -5,7 +5,7 @@ lastmod: '2023-05-15'
 categories:
     - 'plugins'
 author: 'nsc2'
-url: '/ru/help/anleitung-zum-sql-abfrage-plugin'
+url: '/ru/pomoshch/anleitung-zum-sql-abfrage-plugin'
 ---
 
 Плагин SQL-запросов отлично подходит для прямого **выполнения команд SQL** и поэтому в первую очередь интересен пользователям, которые уже имеют опыт работы с базами данных.

@@ -5,7 +5,7 @@ lastmod: '2023-03-09'
 categories:
     - 'persoenliche-einstellungen'
 author: 'cdb'
-url: '/ru/help/2-faktor-authentifizierung-aktivieren'
+url: '/ru/pomoshch/2-faktor-authentifizierung-aktivieren'
 ---
 
 Каждый пользователь SeaTable может активировать **двухфакторную аутентификацию (2FA)** для своей учетной записи. Как это сделать, вы можете узнать в этой статье.

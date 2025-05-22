@@ -5,7 +5,7 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/help/drucken-von-zeilendetails'
+url: '/ru/pomoshch/drucken-von-zeilendetails'
 ---
 
 У вас есть возможность распечатать **сведения о строках**, аналогично [представлению таблицы]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}). В отличие от представления таблицы, в детализации строк столбцы располагаются друг под другом (а не рядом друг с другом), что позволяет получить более четкую разбивку данных, введенных для строки.

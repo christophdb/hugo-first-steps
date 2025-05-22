@@ -5,7 +5,7 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/ru/help/eine-neue-gruppe-anlegen'
+url: '/ru/pomoshch/eine-neue-gruppe-anlegen'
 ---
 
 Организуйте свои базы в группы, как для лучшего обзора тем, так и для более удобного назначения прав доступа в команде. Здесь вы можете узнать, как создать новую группу в качестве члена команды или администратора команды:

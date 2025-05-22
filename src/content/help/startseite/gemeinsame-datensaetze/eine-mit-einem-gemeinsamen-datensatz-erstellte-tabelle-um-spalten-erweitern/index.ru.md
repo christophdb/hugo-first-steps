@@ -5,7 +5,7 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/help/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
+url: '/ru/pomoshch/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
 ---
 
 Таблицы, созданные с помощью записи общих данных, изначально содержат все столбцы и строки, которые также можно найти в табличном представлении записи общих данных. Конечно, у вас также есть возможность добавить **новые столбцы** в эти таблицы и заполнить их своими собственными данными. Преимущество: данные в столбцах, не связанных с общей записью данных, **не перезаписываются** при [синхронизации](https://seatable.io/ru/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).

@@ -5,7 +5,7 @@ lastmod: '2024-02-16'
 categories:
     - 'universelle-apps'
 author: 'kgr'
-url: '/ru/help/versionsverwaltung-und-snapshots-einer-universellen-app'
+url: '/ru/pomoshch/versionsverwaltung-und-snapshots-einer-universellen-app'
 ---
 
 Для сохранения текущей версии универсального приложения можно использовать **моментальные снимки**. Вы можете **создавать**, **просматривать**, **восстанавливать** и **удалять** снимки в управлении версиями в Universal App Builder. Вы также можете делать **заметки** на отдельных снимках, чтобы записать информацию о версии.

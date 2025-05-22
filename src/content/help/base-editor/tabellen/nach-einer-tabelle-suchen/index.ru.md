@@ -5,7 +5,7 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'kgr'
-url: '/ru/help/nach-einer-tabelle-suchen'
+url: '/ru/pomoshch/nach-einer-tabelle-suchen'
 ---
 
 Для баз с большим количеством таблиц не все **вкладки** могут быть отображены **в заголовке базы**. Даже [скрытые таблицы](https://seatable.io/ru/docs/arbeiten-in-tabellen/tabellen-ausblenden/) больше не могут быть найдены в заголовке базы. Поэтому SeaTable предлагает возможность поиска **таблицы**.

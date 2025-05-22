@@ -5,7 +5,7 @@ lastmod: '2025-03-08'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/einrichtung-eines-e-mail-kontos-in-einer-base'
+url: '/ru/pomoshch/einrichtung-eines-e-mail-kontos-in-einer-base'
 ---
 
 Одной из бесчисленных опций, доступных вам в SeaTable, является **отправка электронных писем** из ваших баз. Эта функция SeaTable сэкономит вам значительное количество времени, если вы всегда хотите отправлять определенные электронные письма в определенный момент процесса - например, напоминание об оплате, как только истечет срок оплаты счета.

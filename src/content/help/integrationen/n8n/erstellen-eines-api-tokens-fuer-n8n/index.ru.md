@@ -5,7 +5,7 @@ lastmod: '2023-10-11'
 categories:
     - 'n8n-integration'
 author: 'cdb'
-url: '/ru/help/erstellen-eines-api-tokens-fuer-n8n'
+url: '/ru/pomoshch/erstellen-eines-api-tokens-fuer-n8n'
 ---
 
 Как только вы используете приложение SeaTable в n8n, вы должны разрешить n8n доступ к одной из ваших баз. Для этого необходимо создать [API-токен](https://seatable.io/ru/docs/seatable-api/erzeugen-eines-api-tokens/) в SeaTable и использовать его в n8n. В этой справочной статье показано, на что следует обратить внимание.

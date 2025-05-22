@@ -5,7 +5,7 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'cdb'
-url: '/ru/help/ein-teammitglied-einer-gruppe-hinzufuegen'
+url: '/ru/pomoshch/ein-teammitglied-einer-gruppe-hinzufuegen'
 ---
 
 Владельцы и администраторы группы могут добавлять и удалять членов группы, а также изменять разрешения существующих членов группы. В этой статье вы узнаете о двух способах добавления членов команды в группу.

@@ -5,7 +5,7 @@ lastmod: '2023-01-27'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/help/sperren-einer-zeile'
+url: '/ru/pomoshch/sperren-einer-zeile'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

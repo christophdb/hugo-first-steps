@@ -5,7 +5,7 @@ lastmod: '2023-12-07'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/help/kanbanseiten-in-universellen-apps'
+url: '/ru/pomoshch/kanbanseiten-in-universellen-apps'
 ---
 
 Этот тип страницы работает аналогично [плагину Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}) и предлагает вам возможность отображать записи в виде индексных карточек на **доске Kanban**. Конкретным вариантом использования может быть, например, **визуализация рабочих процессов и хода выполнения проекта**.

@@ -5,7 +5,7 @@ lastmod: '2023-05-12'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/ru/help/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
+url: '/ru/pomoshch/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 ---
 
 Идентификатор пользователя лучше всего описать как **персональный идентификационный номер**. Идентификатор пользователя уникален в пределах команды и всегда принадлежит члену команды.

@@ -5,7 +5,7 @@ lastmod: '2023-03-20'
 categories:
     - 'datenverarbeitung'
 author: 'nsc2'
-url: '/ru/help/datenverarbeitung-vergleichen-und-verknuepfen'
+url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-verknuepfen'
 ---
 
 Функция обработки данных позволяет выполнять различные операции над столбцом. **Сравнение и связь** - это операция, которая позволяет связать записи в двух разных таблицах, если значение столбца в обеих таблицах одинаково.

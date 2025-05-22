@@ -5,7 +5,7 @@ lastmod: '2024-08-02'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/help/galerieseiten-in-universellen-apps'
+url: '/ru/pomoshch/galerieseiten-in-universellen-apps'
 ---
 
 Вы можете использовать этот тип страницы для отображения **изображений** и других данных, сохраненных в электронной таблице, в виде **галереи** в универсальном приложении. Например, вы можете использовать страницу галереи для наглядных **профилей ваших сотрудников**.

@@ -5,7 +5,7 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/help/verarbeitung-eines-webhooks-mit-hilfe-von-php'
+url: '/ru/pomoshch/verarbeitung-eines-webhooks-mit-hilfe-von-php'
 ---
 
 Обработка события webhooks может быть выполнена с помощью любого языка программирования и зависит от языка программирования. В следующем примере показана простая обработка с помощью PHP, которая может послужить основой для всех дальнейших разработок.

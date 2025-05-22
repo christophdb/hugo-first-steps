@@ -5,7 +5,7 @@ lastmod: '2024-02-14'
 categories:
     - 'datum-dauer-und-personen'
 author: 'ssc'
-url: '/ru/help/die-spalte-mitarbeiter'
+url: '/ru/pomoshch/die-spalte-mitarbeiter'
 ---
 
 В **столбце "Сотрудники** " вы можете назначить одного или нескольких **человек** в строке. SeaTable позволяет выбрать людей, которые в настоящее время имеют **доступ** к **базе**, а также всех остальных членов команды, не имеющих доступа.

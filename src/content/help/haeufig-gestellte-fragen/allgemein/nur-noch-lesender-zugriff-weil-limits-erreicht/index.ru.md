@@ -5,7 +5,7 @@ lastmod: '2023-05-12'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/help/nur-noch-lesender-zugriff-weil-limits-erreicht'
+url: '/ru/pomoshch/nur-noch-lesender-zugriff-weil-limits-erreicht'
 ---
 
 Вы имеете доступ к своим данным только для чтения и больше не можете их редактировать? Не волнуйтесь, ваши данные в безопасности. Вероятно, вы только достигли своих **лимитов**, которые доступны вам в вашей текущей **подписке на SeaTable**.

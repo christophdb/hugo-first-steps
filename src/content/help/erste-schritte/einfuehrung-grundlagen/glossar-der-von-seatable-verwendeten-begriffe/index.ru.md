@@ -5,7 +5,7 @@ lastmod: '2023-09-19'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/ru/help/glossar-der-von-seatable-verwendeten-begriffe'
+url: '/ru/pomoshch/glossar-der-von-seatable-verwendeten-begriffe'
 ---
 
 Для новичков терминология SeaTable не так проста: что такое **база**? В чем разница между **командой** и **группой**? Что такое представление и где находятся **опции представления**? В этом глоссарии мы объясняем термины и понятия, являющиеся центральными в SeaTable, и связываем их друг с другом. Для удобства это делается на примере различных элементов пользовательского интерфейса SeaTable.

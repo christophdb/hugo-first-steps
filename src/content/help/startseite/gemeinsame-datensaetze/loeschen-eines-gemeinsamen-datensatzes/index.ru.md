@@ -5,7 +5,7 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/help/loeschen-eines-gemeinsamen-datensatzes'
+url: '/ru/pomoshch/loeschen-eines-gemeinsamen-datensatzes'
 ---
 
 Если вам больше не нужны **общие записи**, которые вы создали в определенный момент времени, вы можете легко удалить их со стартовой страницы в любое время.

@@ -5,7 +5,7 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/ru/help/bedingte-anzeige-von-einzelnen-formularfeldern'
+url: '/ru/pomoshch/bedingte-anzeige-von-einzelnen-formularfeldern'
 ---
 
 При создании **веб-форм** можно установить, что определенные **поля** становятся видимыми только после выполнения **условия** в предыдущем поле. Это позволяет улучшить **впечатления пользователя** при заполнении формы.

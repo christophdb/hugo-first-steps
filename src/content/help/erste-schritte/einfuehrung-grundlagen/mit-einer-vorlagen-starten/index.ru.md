@@ -5,7 +5,7 @@ lastmod: '2023-05-15'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/ru/help/mit-einer-vorlagen-starten'
+url: '/ru/pomoshch/mit-einer-vorlagen-starten'
 ---
 
 В SeaTable имеются готовые шаблоны для многих случаев использования. С их помощью вы можете начать свою работу и использовать SeaTable еще быстрее и целенаправленнее.

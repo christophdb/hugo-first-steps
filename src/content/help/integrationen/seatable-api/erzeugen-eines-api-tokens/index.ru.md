@@ -5,7 +5,7 @@ lastmod: '2023-02-17'
 categories:
     - 'seatable-api'
 author: 'cdb'
-url: '/ru/help/erzeugen-eines-api-tokens'
+url: '/ru/pomoshch/erzeugen-eines-api-tokens'
 ---
 
 Чтобы взаимодействовать с базой через API SeaTable, сначала необходимо создать так называемый API-токен. API-токен позволяет получить доступ на чтение или запись только к одной базе.

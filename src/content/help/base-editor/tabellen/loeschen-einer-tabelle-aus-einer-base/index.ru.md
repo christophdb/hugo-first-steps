@@ -5,7 +5,7 @@ lastmod: '2023-08-16'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'nsc2'
-url: '/ru/help/loeschen-einer-tabelle-aus-einer-base'
+url: '/ru/pomoshch/loeschen-einer-tabelle-aus-einer-base'
 ---
 
 Вам больше не нужны отдельные таблицы из ваших баз? Затем вы можете удалить их всего несколькими щелчками мыши. Это так просто:

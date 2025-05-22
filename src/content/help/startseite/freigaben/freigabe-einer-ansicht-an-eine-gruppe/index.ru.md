@@ -5,7 +5,7 @@ lastmod: '2023-02-14'
 categories:
     - 'freigaben'
 author: 'kgr'
-url: '/ru/help/freigabe-einer-ansicht-an-eine-gruppe'
+url: '/ru/pomoshch/freigabe-einer-ansicht-an-eine-gruppe'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

@@ -5,7 +5,7 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/help/einzelne-tabellenblaetter-einer-base-freigeben'
+url: '/ru/pomoshch/einzelne-tabellenblaetter-einer-base-freigeben'
 ---
 
 Вы хотите **поделиться** не всей базой, а **отдельными таблицами**? Вы можете сделать это с помощью **пользовательского выпуска** для определенных [пользователей]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}).

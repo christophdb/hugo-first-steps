@@ -5,7 +5,7 @@ lastmod: '2023-07-20'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/help/eine-gruppe-umbenennen'
+url: '/ru/pomoshch/eine-gruppe-umbenennen'
 ---
 
 Существующие группы в SeaTable могут быть переименованы их владельцем в любое время. Однако администраторы групп и члены групп не имеют на это права.  

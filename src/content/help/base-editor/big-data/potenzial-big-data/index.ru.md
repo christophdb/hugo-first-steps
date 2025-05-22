@@ -5,7 +5,7 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/help/potenzial-big-data'
+url: '/ru/pomoshch/potenzial-big-data'
 ---
 
 {{< required-version "Предприятие" >}}

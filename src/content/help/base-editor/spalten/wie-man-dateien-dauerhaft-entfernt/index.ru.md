@@ -5,7 +5,7 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/ru/help/wie-man-dateien-dauerhaft-entfernt'
+url: '/ru/pomoshch/wie-man-dateien-dauerhaft-entfernt'
 ---
 
 **Dateien**, **Bilder** und **Signaturen**, die Sie in einer Tabelle **löschen**, sind weiterhin in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) der Base zu finden. Um diese endgültig zu entfernen, müssen Sie die Dateien auch aus der Dateiverwaltung löschen.

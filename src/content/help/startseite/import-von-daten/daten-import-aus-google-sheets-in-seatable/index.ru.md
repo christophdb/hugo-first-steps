@@ -5,7 +5,7 @@ lastmod: '2022-12-29'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/ru/help/daten-import-aus-google-sheets-in-seatable'
+url: '/ru/pomoshch/daten-import-aus-google-sheets-in-seatable'
 ---
 
 В следующей статье вы найдете инструкции о том, как импортировать данные из Google Sheets в SeaTable.

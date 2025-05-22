@@ -5,7 +5,7 @@ lastmod: '2023-05-12'
 categories:
     - 'formeln'
 author: 'cdb'
-url: '/ru/help/formelreferenz'
+url: '/ru/pomoshch/formelreferenz'
 ---
 
 ## Формульная колонка в SeaTable

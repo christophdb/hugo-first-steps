@@ -5,7 +5,7 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'vge'
-url: '/ru/help/die-e-mail-spalte-und-ihre-verwendung'
+url: '/ru/pomoshch/die-e-mail-spalte-und-ihre-verwendung'
 ---
 
 Колонка e-mail - это тип колонки, позволяющий вводить адреса электронной почты. В отличие от текстовой колонки, колонка email гарантирует, что запись имеет структуру действительного адреса электронной почты.

@@ -5,7 +5,7 @@ lastmod: '2022-12-27'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/help/die-reihenfolge-der-gruppen-aendern'
+url: '/ru/pomoshch/die-reihenfolge-der-gruppen-aendern'
 ---
 
 Чтобы настроить свое рабочее пространство, у вас есть возможность изменить порядок появления ваших групп на главной странице SeaTable. Узнать, как изменить порядок групп, можно здесь:

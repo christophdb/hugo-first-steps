@@ -5,7 +5,7 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/help/schritt-6-ansichten'
+url: '/ru/pomoshch/schritt-6-ansichten'
 ---
 
 Вы создали надежную систему управления расходами, которая уже автоматически подсчитывает общие расходы по категориям. Теперь вы познакомитесь с еще одной функцией SeaTable: **представлениями**.

@@ -5,7 +5,7 @@ lastmod: '2023-11-27'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/sicherheitseinstellungen-in-einer-base'
+url: '/ru/pomoshch/sicherheitseinstellungen-in-einer-base'
 ---
 
 В настройках безопасности вашей базы вы можете в любое время выполнить настройки, которые влияют на безопасность вашей базы и защиту содержащихся в ней данных. Настройки безопасности применяются конкретно к базе в целом и могут отличаться от базы к базе в зависимости от сделанных настроек.

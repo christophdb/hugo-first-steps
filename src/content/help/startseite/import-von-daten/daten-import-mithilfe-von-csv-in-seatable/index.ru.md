@@ -5,7 +5,7 @@ lastmod: '2024-08-07'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/ru/help/daten-import-mithilfe-von-csv-in-seatable'
+url: '/ru/pomoshch/daten-import-mithilfe-von-csv-in-seatable'
 ---
 
 Следующая статья служит обзором темы **импорта данных** с помощью **CSV** в SeaTable. В статье вы найдете подробные **инструкции о** том, как именно можно импортировать файлы CSV в SeaTable. Кроме того, мы познакомим вас с **особенностями**, о которых следует знать при импорте данных.

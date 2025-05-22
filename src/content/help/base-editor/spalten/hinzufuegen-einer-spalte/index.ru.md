@@ -5,7 +5,7 @@ lastmod: '2023-01-24'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/help/hinzufuegen-einer-spalte'
+url: '/ru/pomoshch/hinzufuegen-einer-spalte'
 ---
 
 Таблицы в SeaTable состоят из столбцов и строк. В рамках базы в таблицу можно добавить до 500 столбцов. Для каждого столбца у вас есть индивидуальная возможность выбрать подходящий тип **столбца** в зависимости от типа данных.

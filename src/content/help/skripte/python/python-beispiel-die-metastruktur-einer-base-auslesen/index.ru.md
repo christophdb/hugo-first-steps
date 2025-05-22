@@ -5,7 +5,7 @@ lastmod: '2023-07-25'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/help/python-beispiel-die-metastruktur-einer-base-auslesen'
+url: '/ru/pomoshch/python-beispiel-die-metastruktur-einer-base-auslesen'
 ---
 
 Эта статья знакомит вас с Python-скриптом, который выводит полную метаструктуру базы. Это полезно, например, если у вас возник вопрос о базе на [форуме сообщества](https://forum.seatable.io/) и вы хотите быстро и просто описать структуру базы без скриншотов.

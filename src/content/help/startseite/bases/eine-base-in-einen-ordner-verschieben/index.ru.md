@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/eine-base-in-einen-ordner-verschieben'
+url: '/ru/pomoshch/eine-base-in-einen-ordner-verschieben'
 ---
 
 Чтобы получить лучший обзор ваших баз, у вас есть возможность перемещать отдельные базы в папки и группировать их там, например, по темам или содержанию. Существует два способа перемещения базы в папку:

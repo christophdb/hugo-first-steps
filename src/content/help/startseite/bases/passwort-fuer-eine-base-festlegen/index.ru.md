@@ -5,7 +5,7 @@ lastmod: '2023-03-29'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/passwort-fuer-eine-base-festlegen'
+url: '/ru/pomoshch/passwort-fuer-eine-base-festlegen'
 ---
 
 Um Ihre Bases vor unerwünschten Fremdzugriffen zu schützen, können Sie für jede Base ein beliebiges **Passwort** festlegen, das von jedem Benutzer, einschließlich Ihnen, korrekt eingegeben werden muss, um die entsprechende Base zu öffnen und anschließend bearbeiten zu können.

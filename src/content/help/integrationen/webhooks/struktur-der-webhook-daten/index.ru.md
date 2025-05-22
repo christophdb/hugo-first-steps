@@ -5,7 +5,7 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/help/struktur-der-webhook-daten'
+url: '/ru/pomoshch/struktur-der-webhook-daten'
 ---
 
 Вебхук от SeaTable имеет четко определенную структуру. Это позволяет легко обрабатывать событие любым языком программирования. В этой статье представлена общая структура и возможные значения.

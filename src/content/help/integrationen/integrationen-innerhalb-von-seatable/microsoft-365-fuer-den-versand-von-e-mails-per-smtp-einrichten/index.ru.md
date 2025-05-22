@@ -5,7 +5,7 @@ lastmod: '2025-03-07'
 categories:
     - 'integrationen-innerhalb-von-seatable'
 author: 'nsc2'
-url: '/ru/help/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten'
+url: '/ru/pomoshch/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 ---
 
 **Microsoft 365**, популярный онлайн-сервис для приложений Microsoft Office, можно использовать для **отправки электронной почты из SeaTable**. Аутентификация в Microsoft 365 должна осуществляться с помощью современной аутентификации Microsoft. (Аутентификация по имени пользователя и паролю в Microsoft 365 невозможна).

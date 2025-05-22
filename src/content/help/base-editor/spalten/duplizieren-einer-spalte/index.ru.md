@@ -5,7 +5,7 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/help/duplizieren-einer-spalte'
+url: '/ru/pomoshch/duplizieren-einer-spalte'
 ---
 
 Конечно, вы можете дублировать колонки в SeaTable. Здесь вы можете узнать, как это сделать:

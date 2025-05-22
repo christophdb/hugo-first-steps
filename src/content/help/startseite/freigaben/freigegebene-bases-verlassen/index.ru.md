@@ -5,7 +5,7 @@ lastmod: '2023-03-28'
 categories:
     - 'freigaben'
 author: 'nsc2'
-url: '/ru/help/freigegebene-bases-verlassen'
+url: '/ru/pomoshch/freigegebene-bases-verlassen'
 ---
 
 Если другой пользователь освободил для вас базу, вы можете **оставить** это **освобождение самостоятельно**. Это возможно в любое время с помощью нескольких щелчков мыши на стартовой странице.

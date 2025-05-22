@@ -5,7 +5,7 @@ lastmod: '2022-12-29'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/wie-man-einer-base-eine-beschreibung-hinzufuegt'
+url: '/ru/pomoshch/wie-man-einer-base-eine-beschreibung-hinzufuegt'
 ---
 
 Если вы хотите дать другим пользователям "инструкцию по использованию" или записать дополнительную информацию о базе, вы можете добавить описание к базе в SeaTable. Описание открывается автоматически при первом открытии базы пользователем.

@@ -5,7 +5,7 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'cdb'
-url: '/ru/help/moeglichkeiten-der-datenwiederherstellung'
+url: '/ru/pomoshch/moeglichkeiten-der-datenwiederherstellung'
 ---
 
 Легко случайно удалить строки или значения из таблицы. Или вы хотите сравнить текущие данные с более ранней версией таблицы и при необходимости вернуться к более ранней версии. С помощью SeaTable восстановить удаленные данные и более ранние версии очень просто.

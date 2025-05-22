@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
+url: '/ru/pomoshch/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
 ---
 
 **Двухфакторная аутентификация** позволяет установить второй барьер безопасности в дополнение к личным паролям пользователей. Это также гарантирует, что только каждый член команды может лично получить доступ к своей учетной записи, даже если пароль знает другой человек.

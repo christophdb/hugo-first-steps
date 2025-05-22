@@ -5,7 +5,7 @@ lastmod: '2024-03-15'
 categories:
     - 'arbeiten-mit-spalten'
 author: 'nsc2'
-url: '/ru/help/wie-man-den-spaltentyp-anpasst'
+url: '/ru/pomoshch/wie-man-den-spaltentyp-anpasst'
 ---
 
 В зависимости от того, какие **значения** вы хотите записывать в SeaTable, вы можете назначить им различные **типы столбцов**. Обзор всех 25 типов столбцов в SeaTable можно найти [здесь]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).

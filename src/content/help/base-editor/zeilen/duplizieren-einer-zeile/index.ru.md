@@ -5,7 +5,7 @@ lastmod: '2023-01-05'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/help/duplizieren-einer-zeile'
+url: '/ru/pomoshch/duplizieren-einer-zeile'
 ---
 
 В SeaTable у вас есть различные возможности для дублирования строки. В этой статье вы можете узнать, какая процедура является лучшей в вашей ситуации.

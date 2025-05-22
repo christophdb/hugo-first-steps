@@ -5,7 +5,7 @@ lastmod: '2022-12-27'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/help/eine-gruppe-loeschen'
+url: '/ru/pomoshch/eine-gruppe-loeschen'
 ---
 
 Группы, которые больше не активны или не нужны по другим причинам, могут быть просто удалены владельцем. Администраторы групп и члены групп, однако, не уполномочены делать это.

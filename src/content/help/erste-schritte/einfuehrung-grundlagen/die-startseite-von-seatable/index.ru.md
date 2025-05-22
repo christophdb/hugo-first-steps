@@ -5,7 +5,7 @@ lastmod: '2023-07-19'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/ru/help/die-startseite-von-seatable'
+url: '/ru/pomoshch/die-startseite-von-seatable'
 ---
 
 После регистрации и входа в систему вы попадете на главную страницу SeaTable. В этой статье мы разделим различные разделы, чтобы помочь вам ориентироваться в различных областях продукта.

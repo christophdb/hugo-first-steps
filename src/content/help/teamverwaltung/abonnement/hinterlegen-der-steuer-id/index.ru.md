@@ -5,7 +5,7 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/hinterlegen-der-steuer-id'
+url: '/ru/pomoshch/hinterlegen-der-steuer-id'
 ---
 
 {{< required-version "Администраторы команд" >}}

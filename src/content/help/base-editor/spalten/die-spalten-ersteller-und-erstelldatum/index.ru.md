@@ -5,7 +5,7 @@ lastmod: '2023-08-04'
 categories:
     - 'datum-dauer-und-personen'
 author: 'nsc2'
-url: '/ru/help/die-spalten-ersteller-und-erstelldatum'
+url: '/ru/pomoshch/die-spalten-ersteller-und-erstelldatum'
 ---
 
 Колонки **Creator** и **Creation Date** заполняются SeaTable исключительно **автоматически** и поэтому представляют собой специальные типы колонок. В то время как SeaTable заполняет колонку "Создатель" **именем пользователя**, создавшего строку, в колонке "Дата создания" записывается **время** (дата и время), когда пользователь создал строку.

@@ -5,7 +5,7 @@ lastmod: '2023-02-28'
 categories:
     - 'webhooks'
 author: 'cdb'
-url: '/ru/help/anlegen-eines-webhooks'
+url: '/ru/pomoshch/anlegen-eines-webhooks'
 ---
 
 Для базы всегда создается веб-крючок. Как только веб-крючок настроен, каждое изменение содержимого базы отправляется на целевой URL.

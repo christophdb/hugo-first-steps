@@ -5,7 +5,7 @@ lastmod: '2023-01-11'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/ru/help/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
+url: '/ru/pomoshch/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
 ---
 
 Вы можете в любое время найти и восстановить удаленные таблицы, строки и столбцы в корзине соответствующей базы. Вам не нужно бояться потери данных, поскольку в базах удаленные таблицы, строки и столбцы остаются доступными неограниченное время.

@@ -5,7 +5,7 @@ lastmod: '2025-02-27'
 categories:
     - 'auswahlspalten'
 author: 'nsc2'
-url: '/ru/help/anlegen-einer-checkbox-spalte'
+url: '/ru/pomoshch/anlegen-einer-checkbox-spalte'
 ---
 
 В SeaTable есть возможность добавлять в таблицы **столбцы с флажками**. Они идеально подходят, например, для пометки задач как выполненных - т.е. для обзора выполнения строк по определенному **условию "да/нет"**. Таким образом, столбцы с флажками можно использовать для [фильтрации]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [сортировки]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) и [группировки]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).

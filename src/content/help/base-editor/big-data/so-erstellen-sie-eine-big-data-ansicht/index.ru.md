@@ -5,7 +5,7 @@ lastmod: '2024-05-13'
 categories:
     - 'big-data'
 author: 'cdb'
-url: '/ru/help/so-erstellen-sie-ein-big-data-ansicht'
+url: '/ru/pomoshch/so-erstellen-sie-ein-big-data-ansicht'
 ---
 
 {{< required-version "Предприятие" >}}

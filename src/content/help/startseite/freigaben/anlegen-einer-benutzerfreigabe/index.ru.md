@@ -5,7 +5,7 @@ lastmod: '2023-02-22'
 categories:
     - 'freigaben'
 author: 'vge'
-url: '/ru/help/anlegen-einer-benutzerfreigabe'
+url: '/ru/pomoshch/anlegen-einer-benutzerfreigabe'
 ---
 
 Вы можете предоставлять **общий доступ к базам другим пользователям** в вашей команде. Вы можете выбрать между **общим доступом для чтения** и **общим доступом для чтения и записи**.

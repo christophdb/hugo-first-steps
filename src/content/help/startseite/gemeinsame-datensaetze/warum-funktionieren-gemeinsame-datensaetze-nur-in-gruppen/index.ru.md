@@ -5,7 +5,7 @@ lastmod: '2022-12-15'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/help/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
+url: '/ru/pomoshch/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
 ---
 
 Общие наборы данных пока можно создавать **только** из представлений групповых баз. Это связано с **техническим ограничением**, которое может быть устранено в будущей версии SeaTable.

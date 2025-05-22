@@ -5,7 +5,7 @@ lastmod: '2023-07-03'
 categories:
     - 'zapier-integration'
 author: 'cdb'
-url: '/ru/help/haeufige-fragen-und-probleme-rund-um-zapier'
+url: '/ru/pomoshch/haeufige-fragen-und-probleme-rund-um-zapier'
 ---
 
 Zapier описывает себя как платформу, которая позволяет интуитивно создавать автоматизированные действия между более чем 5 000+ приложениями. Для определения необходимых триггеров и действий требуется всего несколько кликов в редакторе drag-and-drop.

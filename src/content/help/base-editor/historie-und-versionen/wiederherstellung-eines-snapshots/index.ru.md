@@ -5,7 +5,7 @@ lastmod: '2024-08-05'
 categories:
     - 'historie-und-versionen'
 author: 'nsc2'
-url: '/ru/help/wiederherstellung-eines-snapshots'
+url: '/ru/pomoshch/wiederherstellung-eines-snapshots'
 ---
 
 Снимок, созданный на основе базы, можно восстановить как новую базу в любое время. Перед восстановлением моментального снимка его можно сначала отобразить в отдельном представлении. Таким образом, вы всегда можете заранее узнать, как выглядела база в момент сохранения.

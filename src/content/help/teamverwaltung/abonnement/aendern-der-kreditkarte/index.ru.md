@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/aendern-der-kreditkarte'
+url: '/ru/pomoshch/aendern-der-kreditkarte'
 ---
 
 {{< required-version "Администраторы команд" >}}

@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/aendern-des-teamnamens'
+url: '/ru/pomoshch/aendern-des-teamnamens'
 ---
 
 {{< required-version "Администраторы команд" >}}

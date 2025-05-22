@@ -5,7 +5,7 @@ lastmod: '2023-01-24'
 categories:
     - 'auswahlspalten'
 author: 'nsc2'
-url: '/ru/help/kaskadierung-einer-einfachauswahl'
+url: '/ru/pomoshch/kaskadierung-einer-einfachauswahl'
 ---
 
 Благодаря опциям одиночного выбора SeaTable предоставляет вам важный инструмент для организации данных и наглядного представления таблиц. При использовании столбцов этого типа можно также задать каскадирование.

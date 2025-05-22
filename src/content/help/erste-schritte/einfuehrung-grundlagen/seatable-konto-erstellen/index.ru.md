@@ -5,7 +5,7 @@ lastmod: '2023-09-07'
 categories:
     - 'erste-schritte'
 author: 'cdb'
-url: '/ru/help/seatable-konto-erstellen'
+url: '/ru/pomoshch/seatable-konto-erstellen'
 weight: 2
 ---
 

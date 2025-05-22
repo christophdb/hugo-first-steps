@@ -5,7 +5,7 @@ lastmod: '2025-02-27'
 categories:
     - 'arbeiten-mit-zeilen'
 author: 'vge'
-url: '/ru/help/zeilen-kommentieren'
+url: '/ru/pomoshch/zeilen-kommentieren'
 ---
 
 В SeaTable вы можете комментировать строки, например, чтобы дать друг другу обратную связь в команде. Существует **два способа** доступа к этой функции.

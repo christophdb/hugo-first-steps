@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'javascript-python'
 author: 'cdb'
-url: '/ru/help/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
+url: '/ru/pomoshch/python-beispiel-ein-paar-zufaellige-eintraege-erstellen'
 ---
 
 {{< required-version "Предприятие" >}}

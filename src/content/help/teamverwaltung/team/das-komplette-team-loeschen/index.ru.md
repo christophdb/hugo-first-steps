@@ -5,7 +5,7 @@ lastmod: '2023-03-22'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/das-komplette-team-loeschen'
+url: '/ru/pomoshch/das-komplette-team-loeschen'
 ---
 
 Как **администратор команды**, вы можете **полностью удалить** свою команду со всеми ее членами, базами и данными.

@@ -5,7 +5,7 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/zahlungsmethoden-seatable'
+url: '/ru/pomoshch/zahlungsmethoden-seatable'
 ---
 
 {{< required-version "Администраторы команд" >}}

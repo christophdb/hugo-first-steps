@@ -5,7 +5,7 @@ lastmod: '2024-09-23'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/help/level-zwei-einfuehrung'
+url: '/ru/pomoshch/level-zwei-einfuehrung'
 weight: 1
 ---
 

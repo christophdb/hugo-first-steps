@@ -5,7 +5,7 @@ lastmod: '2025-02-13'
 categories:
     - 'universelle-apps'
 author: 'nsc2'
-url: '/ru/help/seitentypen-in-der-universellen-app'
+url: '/ru/pomoshch/seitentypen-in-der-universellen-app'
 weight: 1
 ---
 

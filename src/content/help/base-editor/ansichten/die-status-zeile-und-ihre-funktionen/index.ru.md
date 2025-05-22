@@ -5,7 +5,7 @@ lastmod: '2023-02-21'
 categories:
     - 'ansichtsoptionen'
 author: 'nsc2'
-url: '/ru/help/die-status-zeile-und-ihre-funktionen'
+url: '/ru/pomoshch/die-status-zeile-und-ihre-funktionen'
 ---
 
 **Строка состояния** расположена в нижней части ваших таблиц и в основном выполняет две различные функции, которые более подробно описаны в этой статье:

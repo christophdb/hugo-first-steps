@@ -5,7 +5,7 @@ lastmod: '2024-08-05'
 categories:
     - 'import-von-daten'
 author: 'nsc2'
-url: '/ru/help/import-von-excel-dateien-in-seatable'
+url: '/ru/pomoshch/import-von-excel-dateien-in-seatable'
 ---
 
 В следующей статье представлен обзор темы **импорта данных из файлов XLSX** в SeaTable. В статье вы найдете подробные **инструкции** о том, как именно можно импортировать таблицы Excel в SeaTable. Мы также представим **специальные функции**, о которых следует знать при импорте данных.

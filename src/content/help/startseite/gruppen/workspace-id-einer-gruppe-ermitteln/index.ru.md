@@ -5,7 +5,7 @@ lastmod: '2023-07-19'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/help/workspace-id-einer-gruppe-ermitteln'
+url: '/ru/pomoshch/workspace-id-einer-gruppe-ermitteln'
 ---
 
 Каждая группа в SeaTable имеет так называемый **идентификатор рабочего пространства**. Этот идентификатор нужен вам для того, чтобы иметь возможность выполнять некоторые [вызовы API](https://api.seatable.io). Здесь вы можете узнать, как определить идентификатор рабочего пространства группы через браузер.

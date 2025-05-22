@@ -5,7 +5,7 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/help/voraussetzungen-schaffen'
+url: '/ru/pomoshch/voraussetzungen-schaffen'
 weight: 2
 ---
 

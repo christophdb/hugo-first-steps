@@ -5,7 +5,7 @@ lastmod: '2024-08-01'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/help/alle-plugins-in-der-uebersicht'
+url: '/ru/pomoshch/alle-plugins-in-der-uebersicht'
 ---
 
 **Плагины** SeaTable позволяют взглянуть на данные с совершенно иной точки зрения. Визуализируйте встречи, задачи и местоположения, создавайте документы и профили на основе ваших данных. В следующей статье мы расскажем, какие плагины доступны в SeaTable и как их использовать.

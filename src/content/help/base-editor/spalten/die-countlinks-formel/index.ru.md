@@ -5,7 +5,7 @@ lastmod: '2023-01-24'
 categories:
     - 'verknuepfungen'
 author: 'vge'
-url: '/ru/help/die-countlinks-formel'
+url: '/ru/pomoshch/die-countlinks-formel'
 ---
 
 Формула Countlinks подсчитывает количество связанных записей столбца типа **Link с другими записями** в соответствующей строке.

@@ -5,7 +5,7 @@ lastmod: '2024-02-14'
 categories:
     - 'webformulare'
 author: 'vge'
-url: '/ru/help/anlegen-eines-webformulars'
+url: '/ru/pomoshch/anlegen-eines-webformulars'
 ---
 
 **Веб-форма** преобразует вашу таблицу в форму с открытыми полями. Столбец в таблице соответствует полю в связанной веб-форме.

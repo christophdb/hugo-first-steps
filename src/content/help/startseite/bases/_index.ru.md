@@ -1,6 +1,6 @@
 ---
 title: 'Bases'
 description: ''
-url: '/ru/help/startseite/bases'
+url: '/ru/pomoshch/startseite/bases'
 weight: 1
 ---

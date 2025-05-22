@@ -5,7 +5,7 @@ lastmod: '2023-01-18'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/alle-zugriffsberechtigungen-einer-base-einsehen'
+url: '/ru/pomoshch/alle-zugriffsberechtigungen-einer-base-einsehen'
 ---
 
 В **администрировании команды** можно просмотреть все **разрешения доступа к** базе, чтобы отслеживать, кто может видеть или редактировать данные.

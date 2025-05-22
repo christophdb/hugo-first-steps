@@ -5,7 +5,7 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/help/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
+url: '/ru/pomoshch/die-bestaetigungs-e-mail-kommt-nicht-an-was-nun'
 ---
 
 Вы не получили письмо с подтверждением регистрации в SeaTable? Не стоит беспокоиться! Просто выполните следующие шаги, и вскоре вы сможете продолжить регистрацию.

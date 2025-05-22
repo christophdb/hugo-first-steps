@@ -5,7 +5,7 @@ lastmod: '2023-08-14'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/help/anleitung-zum-kalender-plugin'
+url: '/ru/pomoshch/anleitung-zum-kalender-plugin'
 ---
 
 Плагин календаря показывает данные из таблицы в **виде календаря**. Вы можете получить обзор различных **временных периодов** (год, месяц, неделя, день).

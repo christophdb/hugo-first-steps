@@ -5,7 +5,7 @@ lastmod: '2023-03-28'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/einen-av-vertrag-beantragen'
+url: '/ru/pomoshch/einen-av-vertrag-beantragen'
 ---
 
 {{< required-version "Администраторы команд" >}}

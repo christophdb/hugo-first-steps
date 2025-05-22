@@ -5,7 +5,7 @@ lastmod: '2024-03-18'
 categories:
     - 'statistiken-und-datenanalyse'
 author: 'vge'
-url: '/ru/help/anleitung-zum-statistik-modul'
+url: '/ru/pomoshch/anleitung-zum-statistik-modul'
 ---
 
 **Модуль статистики** позволяет визуализировать данные из вашей таблицы в виде различных **графиков** и **диаграмм**. Это очень полезно для работы в SeaTable: благодаря **панелям инструментов** вы всегда будете иметь представление о цифрах и статистических изменениях в вашей базе.

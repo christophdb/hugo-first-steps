@@ -5,7 +5,7 @@ lastmod: '2023-02-10'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/ru/help/der-spaltentyp-automatische-nummer'
+url: '/ru/pomoshch/der-spaltentyp-automatische-nummer'
 ---
 
 Тип столбца **Automatic Number** генерирует автоматически увеличивающееся число для каждой новой строки. Этот тип столбца используется в тех случаях, когда вам нужен уникальный идентификатор для каждой записи.

@@ -5,7 +5,7 @@ lastmod: '2023-02-27'
 categories:
     - 'persoenliche-einstellungen'
 author: 'nsc2'
-url: '/ru/help/anpassen-der-oberflaechensprache'
+url: '/ru/pomoshch/anpassen-der-oberflaechensprache'
 ---
 
 Вы хотите изменить **язык** в SeaTable? Нет проблем! Вы можете в любое время изменить язык интерфейса всего за несколько шагов через **личные настройки** вашей учетной записи.

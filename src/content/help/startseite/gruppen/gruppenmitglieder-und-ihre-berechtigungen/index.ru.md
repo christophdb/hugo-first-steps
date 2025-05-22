@@ -5,7 +5,7 @@ lastmod: '2023-08-14'
 categories:
     - 'arbeiten-mit-gruppen'
 author: 'nsc2'
-url: '/ru/help/gruppenmitglieder-und-ihre-berechtigungen'
+url: '/ru/pomoshch/gruppenmitglieder-und-ihre-berechtigungen'
 ---
 
 В группе SeaTable существует три различные роли: **Владелец**, **Администратор** и **Член**. В зависимости от роли, которая может быть различной в разных группах, пользователи имеют право выполнять различные действия. В следующей **таблице** приведен обзор разрешений, которыми обладает каждая роль.

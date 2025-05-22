@@ -1,4 +1,4 @@
 ---
 title: 'Webhooks'
-url: '/ru/help/integration/webhooks'
+url: '/ru/pomoshch/integration/webhooks'
 ---

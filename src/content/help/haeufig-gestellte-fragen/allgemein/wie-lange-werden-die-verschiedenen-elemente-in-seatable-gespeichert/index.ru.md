@@ -5,7 +5,7 @@ lastmod: '2023-03-02'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/help/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert'
+url: '/ru/pomoshch/wie-lange-werden-die-verschiedenen-elemente-in-seatable-gespeichert'
 ---
 
 Конечно, SeaTable постоянно хранит введенную вами информацию. В то же время, однако, существует определенная информация, которая не хранится SeaTable постоянно. Здесь происходит регулярная очистка журнала. Следующий список дает вам представление о минимальном времени хранения различных элементов в SeaTable.

@@ -5,7 +5,7 @@ lastmod: '2023-03-31'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/ru/help/benachrichtigungen-per-automation-versenden'
+url: '/ru/pomoshch/benachrichtigungen-per-automation-versenden'
 ---
 
 {{< required-version "Предприятие" >}}

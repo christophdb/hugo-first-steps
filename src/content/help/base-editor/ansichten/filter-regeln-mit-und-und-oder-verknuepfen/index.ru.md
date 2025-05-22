@@ -5,7 +5,7 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/help/filter-regeln-mit-und-und-oder-verknuepfen'
+url: '/ru/pomoshch/filter-regeln-mit-und-und-oder-verknuepfen'
 ---
 
 При [фильтрации записей в представлении]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) можно также создать **несколько правил фильтрации** для уточнения условий и дальнейшего сужения применимых записей. Здесь проводится различие между **связью И** и **связью ИЛИ**. Можно также использовать **группы фильтров** для объединения логических связей И/ИЛИ.

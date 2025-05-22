@@ -5,7 +5,7 @@ lastmod: '2023-11-07'
 categories:
     - 'bekannte-probleme'
 author: 'cdb'
-url: '/ru/help/leere-seite-beim-page-design-plugin'
+url: '/ru/pomoshch/leere-seite-beim-page-design-plugin'
 ---
 
 {{< required-version "Исправлено в версии 3.4." >}}

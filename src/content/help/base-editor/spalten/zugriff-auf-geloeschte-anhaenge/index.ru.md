@@ -5,7 +5,7 @@ lastmod: '2024-03-18'
 categories:
     - 'dateien-und-bilder'
 author: 'vge'
-url: '/ru/help/zugriff-auf-geloeschte-anhaenge'
+url: '/ru/pomoshch/zugriff-auf-geloeschte-anhaenge'
 ---
 
 **Файлы** и **изображения**, которые вы удалили из [колонки]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) или [файлов](https://seatable.io/ru/docs/datei-und-bildanhaenge/die-datei-spalte/), **не удаляются окончательно**. Эти удаленные файлы остаются в [файловом менеджере](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base и могут быть **восстановлены** двумя различными способами.

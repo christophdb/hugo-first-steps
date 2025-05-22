@@ -5,7 +5,7 @@ lastmod: '2023-08-16'
 categories:
     - 'plugins'
 author: 'vge'
-url: '/ru/help/mehrere-kalender-fuer-eine-base-anlegen'
+url: '/ru/pomoshch/mehrere-kalender-fuer-eine-base-anlegen'
 ---
 
 Создав **несколько календарей** в базе, можно хранить конкретные встречи в разных календарях. Например, можно создать отдельные календари для разных проектов. Если в базе работают несколько человек, то каждый член команды может создавать отдельные календари.

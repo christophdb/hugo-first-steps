@@ -5,7 +5,7 @@ lastmod: '2023-02-16'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'cdb'
-url: '/ru/help/gibt-es-bei-seatable-auch-ein-dark-theme-dunkelmodus'
+url: '/ru/pomoshch/gibt-es-bei-seatable-auch-ein-dark-theme-dunkelmodus'
 ---
 
 К сожалению, нет. В настоящее время SeaTable Cloud не предлагает темный режим. Однако не исключено, что мы предложим его в будущем.

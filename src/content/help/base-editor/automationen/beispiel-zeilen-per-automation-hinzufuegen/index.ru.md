@@ -5,7 +5,7 @@ lastmod: '2023-03-31'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/help/zeilen-per-automation-hinzufuegen'
+url: '/ru/pomoshch/zeilen-per-automation-hinzufuegen'
 ---
 
 С помощью автоматизаций вам больше не придется вручную добавлять строки с определенными записями в таблицы, эти действия будут выполняться автоматически. Просто определите соответствующую автоматизацию для любого вида таблицы.

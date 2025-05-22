@@ -5,7 +5,7 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/ru/help/benachrichtigungsregel-erstellen'
+url: '/ru/pomoshch/benachrichtigungsregel-erstellen'
 ---
 
 С помощью **правил уведомлений** вы можете автоматически отправлять уведомления выбранным пользователям, как только в одной из ваших таблиц произойдет заранее определенное **триггерное событие**. Таким образом, правила уведомлений в принципе сравнимы с [автоматизациями]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), но в отличие от них они доступны уже при бесплатной подписке.

@@ -5,7 +5,7 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/help/zeitstrahlseiten-in-universellen-apps'
+url: '/ru/pomoshch/zeitstrahlseiten-in-universellen-apps'
 ---
 
 Этот тип страницы очень похож на [плагин timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) и позволяет отображать различные временные отрезки в виде **временной шкалы**. Поскольку такое представление данных показывает пересекающиеся даты, то, например, **планирование праздников в компании** может быть специфическим вариантом использования.

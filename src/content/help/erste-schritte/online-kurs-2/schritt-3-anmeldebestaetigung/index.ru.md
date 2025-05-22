@@ -5,7 +5,7 @@ lastmod: '2024-09-24'
 categories:
     - 'online-kurs-2'
 author: 'cdb'
-url: '/ru/help/schritt-3-anmeldebestaetigung'
+url: '/ru/pomoshch/schritt-3-anmeldebestaetigung'
 ---
 
 Теперь мы добавляем функцию, благодаря которой участники, зарегистрировавшиеся на курс, получат подтверждение регистрации и запрос на оплату по электронной почте.

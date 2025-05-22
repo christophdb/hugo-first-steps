@@ -5,7 +5,7 @@ lastmod: '2023-01-28'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/wo-finde-ich-meine-rechnungen'
+url: '/ru/pomoshch/wo-finde-ich-meine-rechnungen'
 ---
 
 Вы можете просматривать и загружать свои счета-фактуры всего несколькими щелчками мыши через администрацию команды. Вы можете найти их на вкладке Подписка.

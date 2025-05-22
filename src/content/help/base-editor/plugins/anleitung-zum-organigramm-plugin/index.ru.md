@@ -5,7 +5,7 @@ lastmod: '2025-02-28'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/ru/help/anleitung-zum-organigramm-plugin'
+url: '/ru/pomoshch/anleitung-zum-organigramm-plugin'
 ---
 
 Вы можете использовать плагин организационной диаграммы для отображения **иерархии** между записями данных в таблице. Это полезно, например, для визуализации должностей в компании или [вышестоящих и нижестоящих задач в проекте](https://seatable.io/ru/projektstrukturplan-vorlage/).

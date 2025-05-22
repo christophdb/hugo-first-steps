@@ -5,7 +5,7 @@ lastmod: '2023-02-23'
 categories:
     - 'benachrichtigungen'
 author: 'nsc2'
-url: '/ru/help/benachrichtigungsregeln-bearbeiten-und-entfernen'
+url: '/ru/pomoshch/benachrichtigungsregeln-bearbeiten-und-entfernen'
 ---
 
 Вы можете **редактировать** и **удалять** уже созданные правила уведомления в любое время. Обратите внимание, как это влияет на отправку уведомлений.

@@ -1,4 +1,4 @@
 ---
 title: 'API'
-url: '/ru/help/integration/api'
+url: '/ru/pomoshch/integration/api'
 ---

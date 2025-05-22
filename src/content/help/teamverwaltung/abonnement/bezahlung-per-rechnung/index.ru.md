@@ -5,7 +5,7 @@ lastmod: '2023-01-13'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/bezahlung-per-rechnung'
+url: '/ru/pomoshch/bezahlung-per-rechnung'
 ---
 
 В настоящее время SeaTable предлагает два способа оплаты для бронирования подписки Plus или Enterprise. **Кредитная карта** - это способ оплаты, используемый в подавляющем большинстве случаев. Благодаря поставщику платежных услуг Stripe мы принимаем платежи Visa, Mastercard, American Express, China UnionPay и Cartes Bancaires.

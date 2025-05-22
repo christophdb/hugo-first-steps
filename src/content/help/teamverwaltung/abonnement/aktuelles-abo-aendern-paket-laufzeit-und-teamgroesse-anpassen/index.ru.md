@@ -5,7 +5,7 @@ lastmod: '2023-09-26'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
+url: '/ru/pomoshch/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
 ---
 
 В администрировании команды вы, как **администратор команды**, можете в любой момент внести изменения в подписку. В этой статье описано, как вносить изменения, когда они вступают в силу и как влияют на продолжительность.

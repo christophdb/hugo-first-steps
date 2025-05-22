@@ -5,7 +5,7 @@ lastmod: '2023-02-08'
 categories:
     - 'seitendesign-plugin'
 author: 'vge'
-url: '/ru/help/tabellenfelder'
+url: '/ru/pomoshch/tabellenfelder'
 ---
 
 **Поля таблицы** содержат записи из столбца вашей таблицы. Поэтому в [плагине дизайна страницы]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) в полях таблицы перечислены **все столбцы** таблицы, данные из которых можно включить в страницу.

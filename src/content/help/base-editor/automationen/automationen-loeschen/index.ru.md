@@ -5,7 +5,7 @@ lastmod: '2023-02-01'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/help/automationen-loeschen'
+url: '/ru/pomoshch/automationen-loeschen'
 ---
 
 {{< required-version "Предприятие" >}}

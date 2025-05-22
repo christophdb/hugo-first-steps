@@ -5,7 +5,7 @@ lastmod: '2023-07-19'
 categories:
     - 'kurzanleitungen'
 author: 'cdb'
-url: '/ru/help/die-elemente-von-seatable-in-der-uebersicht'
+url: '/ru/pomoshch/die-elemente-von-seatable-in-der-uebersicht'
 ---
 
 Интуитивно понятная, но мощная платформа SeaTable с низким кодом дает возможность каждому создать собственное решение и ускорить рабочий процесс. В этой статье вы найдете обзор наиболее важных элементов и функций SeaTable, а также ссылки на дополнительную документацию по каждой области.

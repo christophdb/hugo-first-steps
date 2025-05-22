@@ -2,7 +2,7 @@
 title: 'Начало работы'
 description: ''
 weight: 1
-url: '/ru/help/first-steps'
+url: '/ru/pomoshch/first-steps'
 icon: 'lightbulb'
 color: bg-red-100
 ---

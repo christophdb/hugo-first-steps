@@ -5,7 +5,7 @@ lastmod: '2023-11-27'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'nsc2'
-url: '/ru/help/unterschiede-zwischen-privaten-und-normalen-ansichten'
+url: '/ru/pomoshch/unterschiede-zwischen-privaten-und-normalen-ansichten'
 ---
 
 {{< required-version "Предприятие" >}}

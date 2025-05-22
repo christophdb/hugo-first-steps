@@ -5,7 +5,7 @@ lastmod: '2023-03-10'
 categories:
     - 'javascript-python'
 author: 'nsc2'
-url: '/ru/help/import-und-export-eines-skriptes'
+url: '/ru/pomoshch/import-und-export-eines-skriptes'
 ---
 
 SeaTable позволяет вам выполнять отдельные сценарии JavaScript и Python в базе. Помимо возможности писать сценарии вручную в текстовом поле, у вас есть возможность импортировать сценарии в SeaTable, а также экспортировать существующие сценарии.

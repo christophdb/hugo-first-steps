@@ -5,7 +5,7 @@ lastmod: '2024-03-11'
 categories:
     - 'text-und-zahlen'
 author: 'nsc2'
-url: '/ru/help/validierung-der-eingabe-bei-textfeldern'
+url: '/ru/pomoshch/validierung-der-eingabe-bei-textfeldern'
 ---
 
 При использовании текстовых столбцов в таблицах у вас есть возможность проверки записей. С помощью валидации, которая поддерживает регулярные выражения, можно проверить значения ячеек и выделить ячейки с содержимым, отклоняющимся от допустимого формата.

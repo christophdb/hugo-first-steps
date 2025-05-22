@@ -5,7 +5,7 @@ lastmod: '2024-02-12'
 categories:
     - 'automationen'
 author: 'nsc2'
-url: '/ru/help/automations-trigger'
+url: '/ru/pomoshch/automations-trigger'
 ---
 
 {{< required-version "Предприятие" >}}

@@ -5,7 +5,7 @@ lastmod: '2023-08-09'
 categories:
     - 'arbeiten-in-tabellen'
 author: 'vge'
-url: '/ru/help/tabellenberechtigungen-setzen'
+url: '/ru/pomoshch/tabellenberechtigungen-setzen'
 ---
 
 {{< required-version "Плюс" "Предприятие" >}}

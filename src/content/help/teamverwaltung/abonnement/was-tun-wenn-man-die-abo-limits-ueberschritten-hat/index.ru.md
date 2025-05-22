@@ -5,7 +5,7 @@ lastmod: '2023-05-03'
 categories:
     - 'abo-abrechnung'
 author: 'nsc2'
-url: '/ru/help/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
+url: '/ru/pomoshch/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
 ---
 
 Если вы превысили лимиты, доступные вам в рамках вашей текущей подписки, есть два варианта, которые позволят вам снова полноценно работать с вашими данными:

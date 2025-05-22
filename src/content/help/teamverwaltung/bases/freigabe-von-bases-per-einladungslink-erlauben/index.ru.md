@@ -5,7 +5,7 @@ lastmod: '2023-02-14'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/freigabe-von-bases-per-einladungslink-erlauben'
+url: '/ru/pomoshch/freigabe-von-bases-per-einladungslink-erlauben'
 ---
 
 С помощью [пригласительной ссылки]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) вы можете предоставить **права на чтение и запись** **базы** людям, не входящим в вашу команду, но они должны войти в SeaTable.

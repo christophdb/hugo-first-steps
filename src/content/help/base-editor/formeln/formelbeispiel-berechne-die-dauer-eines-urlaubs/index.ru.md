@@ -5,7 +5,7 @@ lastmod: '2023-09-21'
 categories:
     - 'formeln'
 author: 'nsc2'
-url: '/ru/help/formelbeispiel-berechne-die-dauer-eines-urlaubs'
+url: '/ru/pomoshch/formelbeispiel-berechne-die-dauer-eines-urlaubs'
 ---
 
 Формулы SeaTable предлагают различные способы работы с данными в таблицах. Например, формулы могут использоваться для автоматического определения **времени между двумя датами**. Введя соответствующую формулу, можно, в частности, рассчитать продолжительность отпуска и добавить ее в столбец формулы в таблице.

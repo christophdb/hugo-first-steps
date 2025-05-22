@@ -5,7 +5,7 @@ lastmod: '2023-04-06'
 categories:
     - 'beispiel-automationen'
 author: 'nsc2'
-url: '/ru/help/verlinken-von-eintraegen-per-automation'
+url: '/ru/pomoshch/verlinken-von-eintraegen-per-automation'
 ---
 
 С помощью автоматизаций вам больше не придется связывать записи в таблицах вручную, эти действия могут выполняться автоматически. Просто определите соответствующую автоматизацию для любого табличного представления.

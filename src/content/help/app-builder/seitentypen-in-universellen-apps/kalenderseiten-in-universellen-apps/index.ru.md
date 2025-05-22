@@ -5,7 +5,7 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/help/kalenderseiten-in-universellen-apps'
+url: '/ru/pomoshch/kalenderseiten-in-universellen-apps'
 ---
 
 Этот тип страницы универсального приложения работает аналогично [плагину календаря]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) вашей таблицы в виде **календаря**. Конкретным вариантом использования может быть, например, отображение в календаре предстоящих **встреч**.

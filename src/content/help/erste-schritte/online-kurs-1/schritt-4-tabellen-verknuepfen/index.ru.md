@@ -5,7 +5,7 @@ lastmod: '2024-09-19'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/help/schritt-4-tabellen-verknuepfen'
+url: '/ru/pomoshch/schritt-4-tabellen-verknuepfen'
 ---
 
 В SeaTable можно связать несколько таблиц с помощью столбцов ссылок. Ниже мы добавим вторую таблицу с категориями расходов и свяжем обе таблицы вместе, чтобы продемонстрировать эту мощную функцию.

@@ -5,7 +5,7 @@ lastmod: '2025-02-25'
 categories:
     - 'ansichtsoptionen'
 author: 'vge'
-url: '/ru/help/einfaerben-von-zellen'
+url: '/ru/pomoshch/einfaerben-von-zellen'
 ---
 
 В отличие от Excel, в SeaTable вы не можете просто раскрасить ячейки по своему усмотрению, а должны раскрашивать их либо по установленным вами **правилам**, либо на основе **значений** в **столбце**. Звучит сложно? Но это не так.

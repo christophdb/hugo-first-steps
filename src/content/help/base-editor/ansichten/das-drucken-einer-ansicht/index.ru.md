@@ -5,7 +5,7 @@ lastmod: '2023-06-28'
 categories:
     - 'grundlagen-von-ansichten'
 author: 'vge'
-url: '/ru/help/das-drucken-einer-ansicht'
+url: '/ru/pomoshch/das-drucken-einer-ansicht'
 ---
 
 Различные **представления** могут облегчить работу с таблицами, содержащими большое количество информации. Вы также можете **распечатать** эти виды.

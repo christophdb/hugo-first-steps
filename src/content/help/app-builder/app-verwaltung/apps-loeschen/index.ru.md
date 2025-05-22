@@ -5,7 +5,7 @@ lastmod: '2024-02-16'
 categories:
     - 'apps'
 author: 'nsc2'
-url: '/ru/help/apps-loeschen'
+url: '/ru/pomoshch/apps-loeschen'
 ---
 
 Вы хотите удалить приложение из своей базы, которое вам больше не нужно? Ничего! Это можно сделать в любое время всего за несколько кликов.

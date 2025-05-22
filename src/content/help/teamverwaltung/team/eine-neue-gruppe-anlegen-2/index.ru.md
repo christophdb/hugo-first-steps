@@ -5,7 +5,7 @@ lastmod: '2023-01-09'
 categories:
     - 'teamverwaltung'
 author: 'vge'
-url: '/ru/help/eine-neue-gruppe-anlegen-2'
+url: '/ru/pomoshch/eine-neue-gruppe-anlegen-2'
 ---
 
 Как администратор команды, вы можете создавать новые группы в администрации команды. Следуйте этим инструкциям:

@@ -5,7 +5,7 @@ lastmod: '2024-06-12'
 categories:
     - 'gemeinsame-datensaetze'
 author: 'nsc2'
-url: '/ru/help/funktionsweise-von-gemeinsamen-datensaetzen'
+url: '/ru/pomoshch/funktionsweise-von-gemeinsamen-datensaetzen'
 ---
 
 Общие наборы данных позволяют совместно использовать предварительно определенное представление таблицы с другими группами и пользователями, чтобы они могли получить доступ к конкретным данным в различных контекстах и отделах. Общие наборы данных - это мощная и чрезвычайно полезная функция SeaTable, поскольку она может облегчить рабочий процесс в вашей команде.

@@ -5,7 +5,7 @@ lastmod: '2023-11-08'
 categories:
     - 'text-und-zahlen'
 author: 'ssc'
-url: '/ru/help/die-zahlen-spalte'
+url: '/ru/pomoshch/die-zahlen-spalte'
 ---
 
 В SeaTable вы можете использовать **колонку чисел** различными способами для работы с числами любого вида (например, количество товаров, расстояние до пунктов назначения, цена продукта и т.д.).

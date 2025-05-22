@@ -5,7 +5,7 @@ lastmod: '2024-04-15'
 categories:
     - 'auswahlspalten'
 author: 'nsc2'
-url: '/ru/help/aendern-der-reihenfolge-von-einfachauswahl-optionen'
+url: '/ru/pomoshch/aendern-der-reihenfolge-von-einfachauswahl-optionen'
 ---
 
 Порядок появления опций в колонке с одним выбором можно изменить впоследствии.

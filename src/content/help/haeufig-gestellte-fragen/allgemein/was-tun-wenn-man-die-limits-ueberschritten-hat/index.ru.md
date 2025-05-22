@@ -5,7 +5,7 @@ lastmod: '2023-03-21'
 categories:
     - 'haeufig-gestellte-fragen'
 author: 'nsc2'
-url: '/ru/help/was-tun-wenn-man-die-limits-ueberschritten-hat'
+url: '/ru/pomoshch/was-tun-wenn-man-die-limits-ueberschritten-hat'
 ---
 
 Вы имеете только **доступ на чтение к** своим базам и больше не можете добавлять данные? Тогда вы достигли **лимита подписки**. Не волнуйтесь, ваши данные в безопасности, просто вы больше не сможете их редактировать, пока не увеличите лимит подписки или не освободите место для хранения.

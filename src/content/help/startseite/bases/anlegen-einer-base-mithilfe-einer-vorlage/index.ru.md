@@ -5,7 +5,7 @@ lastmod: '2022-12-28'
 categories:
     - 'arbeiten-mit-bases'
 author: 'nsc2'
-url: '/ru/help/anlegen-einer-base-mithilfe-einer-vorlage'
+url: '/ru/pomoshch/anlegen-einer-base-mithilfe-einer-vorlage'
 ---
 
 Если вы еще не определились с дизайном базы или просто ищете новое вдохновение, в SeaTable у вас есть возможность быстро и легко создать базу на основе шаблона.
