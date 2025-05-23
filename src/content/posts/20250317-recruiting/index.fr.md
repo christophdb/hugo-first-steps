@@ -6,7 +6,7 @@ seo:
     description: "L'avenir du recrutement : découvrez les nouvelles technologies et les moyens innovants de trouver les meilleurs candidats et de les fidéliser à long terme"
 date: 2025-03-17
 categories:
-    - 'Général'
+    - 'General'
 tags:
     - 'Candidats & gestion des talents'
 color: '#d4a2ee'

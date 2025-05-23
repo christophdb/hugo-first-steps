@@ -6,7 +6,7 @@ seo:
     description: 'Processos de aquisição eficientes são a chave para o sucesso de uma empresa. Descubra estratégias para processos de compra e gestão de fornecedores'
 date: 2025-03-27
 categories:
-    - 'Informações gerais'
+    - 'General'
     - 'Melhores práticas'
 tags:
 color: '#a57956'

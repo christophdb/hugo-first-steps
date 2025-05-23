@@ -1,12 +1,12 @@
 ---
 title: 'Excel de graça? Cálculo em folhas de cálculo: programas em comparação'
-description: "Precisa de uma folha de cálculo poderosa mas tem dificuldades com o Excel? Ou tem preocupações com a proteção de dados da gigante americana Microsoft? Não há problema! Há muitos programas que, ao contrário do Excel, são gratuitos ou até oferecem mais funções. Mergulhe no mundo das soluções de folha de cálculo!"
+description: 'Precisa de uma folha de cálculo poderosa mas tem dificuldades com o Excel? Ou tem preocupações com a proteção de dados da gigante americana Microsoft? Não há problema! Há muitos programas que, ao contrário do Excel, são gratuitos ou até oferecem mais funções. Mergulhe no mundo das soluções de folha de cálculo!'
 seo:
-    title: "Excel grátis | Folhas de cálculo | Ferramentas em comparação"
-    description: "Gostaria de utilizar o Excel gratuitamente? Descubra alternativas inteligentes ao Excel na nossa publicação do blogue. Folhas de cálculo eficientes"
+    title: 'Excel grátis | Folhas de cálculo | Ferramentas em comparação'
+    description: 'Gostaria de utilizar o Excel gratuitamente? Descubra alternativas inteligentes ao Excel na nossa publicação do blogue. Folhas de cálculo eficientes'
 date: 2025-03-06
 categories:
-    - 'Informações gerais'
+    - 'General'
 tags:
     - 'Ferramentas e plugins'
 url: '/pt/excel-sem-custos'
@@ -29,14 +29,14 @@ No entanto, se necessitar da versão completa para ambiente de trabalho para Win
 
 Se quiser apenas ter uma visão geral, consulte a tabela seguinte, que compara os programas de folha de cálculo mais importantes. Segue-se uma descrição detalhada após uma categorização dos programas de folha de cálculo aqui considerados.
 
-| **Software** | **Desenvolvido por** | **Sistemas operativos** |
-| ------------- | ------------------------ | --------------------- |
-| Calc | LibreOffice / OpenOffice | Windows, Mac, Linux |
-| PlanMaker | SoftMaker | Windows, Mac, Linux |
-| Google Sheets | Google | Baseado em navegador |
-| Zoho Sheet | Zoho | Baseado em navegador |
-| Ethercalc | Projeto de código aberto | Baseado em navegador |
-| SeaTable | Seafile | Baseado em navegador
+| **Software**  | **Desenvolvido por**     | **Sistemas operativos** |
+| ------------- | ------------------------ | ----------------------- |
+| Calc          | LibreOffice / OpenOffice | Windows, Mac, Linux     |
+| PlanMaker     | SoftMaker                | Windows, Mac, Linux     |
+| Google Sheets | Google                   | Baseado em navegador    |
+| Zoho Sheet    | Zoho                     | Baseado em navegador    |
+| Ethercalc     | Projeto de código aberto | Baseado em navegador    |
+| SeaTable      | Seafile                  | Baseado em navegador    |
 
 Nesta comparação, apenas foram consideradas as aplicações locais que suportam pelo menos duas famílias de sistemas operativos. Por este motivo, o Apple Numbers, enquanto aplicação pura de folha de cálculo para MacOS/iOS, não está incluído, nem o Gnumeric, que é uma aplicação pura para Linux desde 2014.
 

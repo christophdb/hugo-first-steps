@@ -5,7 +5,7 @@ seo:
     title: 'Computação em nuvem | Dimensione as suas TI de forma económica'
     description: 'O que é a computação em nuvem e como pode ajudar a sua empresa? Descubra tudo o que precisa de saber sobre a tecnologia de nuvem.'
 categories:
-    - 'Informações gerais'
+    - 'General'
 tags:
     - 'Gestão e visualização de dados'
     - 'Transformação digital'

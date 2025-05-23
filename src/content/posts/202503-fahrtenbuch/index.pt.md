@@ -11,7 +11,7 @@ tags:
     - 'Ferramentas e plugins'
     - 'Gestão de frotas'
 categories:
-    - 'Informações gerais'
+    - 'General'
 color: '#f34b4c'
 text: 'white'
 ---

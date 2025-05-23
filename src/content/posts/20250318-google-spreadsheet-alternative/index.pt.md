@@ -6,7 +6,7 @@ seo:
     description: 'Solução de folha de cálculo mais flexível do que o Google Sheets. O nosso artigo do blogue mostra-lhe alternativas que oferecem mais opções de personalização'
 date: 2025-03-18
 categories:
-    - 'Informações gerais'
+    - 'General'
 tags:
     - 'Ferramentas e plugins'
 color: '#59c9a1'
