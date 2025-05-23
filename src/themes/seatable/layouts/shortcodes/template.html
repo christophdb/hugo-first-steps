@@ -1,7 +1,11 @@
 <div class="mb-8 mt-4">
     <iframe
         class="dtable-embed"
-        src="https://cloud.seatable.io/dtable/external-links/{{ .Get "id" }}/"
+        src="https://cloud.seatable.io/dtable/{{ if eq (.Get "view") "true" }}
+            view-external-links
+        {{ else }}
+            external-links
+        {{ end }}/{{ .Get "id" }}/"
         frameborder="0"
         width="100%"
         height="{{ .Get "height" | default "667" }}"
