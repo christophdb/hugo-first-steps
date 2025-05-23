@@ -1,36 +1,21 @@
 ---
-title: 'El Club de Hockey de Berlín se digitaliza con SeaTable - SeaTable'
+title: 'El Club de Hockey de Berlín se digitaliza con SeaTable'
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/es/berliner-hockeyclub'
 color: '#eeeeee'
-draft: true
 ---
 
 Como gestor de un club deportivo, hay muchas áreas que controlar y gestionar, ya sea la contabilidad general, la reserva de campos o la gestión de tareas para todos los socios. El Club de Hockey de Berlín utiliza SeaTable para transferir los numerosos sistemas individuales que existen actualmente a un único sistema y digitalizar así sus procesos.
 
 ## La asociación en un vistazo
 
-Nombre
-
-Club de Hockey de Berlín
-
-División
-
-Club deportivo
-
-Fundada
-
-1905
-
-Ubicación
-
-Berlín, Alemania
-
-Empleados
-
-1-10
+> Nombre: **Club de Hockey de Berlín**
+> División: **Club deportivo**
+> Fundada: **1905**
+> Ubicación: **Berlín, Alemania**
+> Empleados: **1-10**
 
 ## La amplia gama de tareas requiere una herramienta flexible
 
@@ -40,9 +25,9 @@ Las tareas diarias que se plantean en un club deportivo son múltiples. Como ger
 
 Con este amplio abanico de tareas, las exigencias a un sistema de apoyo aumentan de forma natural.
 
-He probado muchas aplicaciones, como Asana, Monday o Google Docs. Lo que más me ha gustado de SeaTable es la base de datos tipo Excel, ya que es mucho más atractiva que las otras herramientas. Los procesos se muestran con mayor claridad y los vínculos entre los conjuntos de datos son mucho más fáciles de crear.
-
-Timo Stephan, Director del Berliner Hockeyclub e.V.
+> He probado muchas aplicaciones, como Asana, Monday o Google Docs. Lo que más me ha gustado de SeaTable es la base de datos tipo Excel, ya que es mucho más atractiva que las otras herramientas. Los procesos se muestran con mayor claridad y los vínculos entre los conjuntos de datos son mucho más fáciles de crear.
+>
+> **Timo Stephan**, Director del Berliner Hockeyclub e.V.
 
 ## Tratamiento de datos sensibles y comunicación con los cargos honoríficos
 
@@ -51,6 +36,8 @@ Debido a la diversidad de las tareas, hasta ahora se han utilizado varias soluci
 Además, al director del club, Timo Stephan, le gustaría que se gestionaran mejor los datos sensibles. A menudo tiene que lidiar con estos datos en su trabajo diario. Ya sean los sueldos de los entrenadores o los datos de los contactos y las cuentas que deben compartirse de forma segura con las personas adecuadas.
 
 Muchos clubes deportivos se sostienen principalmente gracias al compromiso y el entusiasmo de los voluntarios. Como gerente del club, Timo Stephan les distribuye una gran variedad de tareas y también quiere estar siempre al tanto del estado de las tareas distribuidas. Ahora bien, los voluntarios no están in situ todos los días, lo que naturalmente dificulta la comunicación. Las llamadas telefónicas y los correos electrónicos se acumulan en la bandeja de entrada, y la visión de conjunto se pierde rápidamente. Hay que encontrar una solución móvil para integrar a todas estas personas.
+
+![Digitalización de un club deportivo con SeaTable](images/berliner-hockeyclub-goes-digital.jpg)
 
 ## SeaTable para unas estructuras más claras y una mejor comunicación
 
@@ -62,9 +49,9 @@ Gracias a la flexibilidad de la base de datos SeaTable, todos los sistemas antes
 
 Timo Stephan está entusiasmado y está pensando en qué funciones puede seguir mapeando en SeaTable. Sin duda, SeaTable tiene potencial y seguirá probando con curiosidad cada nueva función de SeaTable para ver cómo puede utilizarla de forma provechosa para el Club de Hockey de Berlín. En cualquier caso, está contento de haber encontrado SeaTable.
 
-Como club deportivo, nuestros recursos económicos son limitados. Por eso me parece estupendo que podamos usar SeaTable gratis.
-
-Timo Stephan, Director del Berliner Hockeyclub e.V.
+> Como club deportivo, nuestros recursos económicos son limitados. Por eso me parece estupendo que podamos usar SeaTable gratis.
+>
+> **Timo Stephan**, Director del Berliner Hockeyclub e.V.
 
 ## Resumen
 

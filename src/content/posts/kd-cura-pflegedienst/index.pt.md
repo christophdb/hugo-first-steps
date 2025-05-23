@@ -1,34 +1,19 @@
 ---
-title: 'Trabalho pioneiro digital no serviço de cuidados - SeaTable'
+title: 'Trabalho pioneiro digital no serviço de cuidados'
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/pt/kd-cura-pflegedienst'
 color: '#eeeeee'
-draft: true
 ---
 
 Com SeaTable, Norman Kolwitz, fundador da KD-Cura, quer ser pioneiro na sua indústria ao digitalizar processos no seu serviço de cuidados ambulatórios. Na sua busca de uma ferramenta adequada, deparou-se com o SeaTable e achou o sistema muito "encantador".
 
-Nome
-
-KD-Cura
-
-Divisão
-
-Cuidados
-
-Fundada em
-
-2017
-
-Localização
-
-Velden, Alemanha
-
-Dimensão da empresa
-
-10-50 empregados
+> Nome: **KD-Cura**
+> Divisão: **Cuidados**
+> Fundada em: **2017**
+> Localização: **Velden, Alemanha**
+> Dimensão da empresa: **10-50 empregados**
 
 ## SeaTable leva a digitalização aos cuidados
 
@@ -36,15 +21,17 @@ Dimensão da empresa
 
 A importância dos cuidados de saúde continuará a aumentar de forma constante nos próximos anos. O tema da digitalização ainda não chegou totalmente ao sector dos cuidados de saúde. Norman Kolwitz afirma que, atualmente, ainda é necessário emitir uma fatura analógica para as empresas de cuidados e de seguros de saúde, o que não está de acordo com os tempos actuais. A digitalização é um passo importante e necessário e tem de chegar finalmente ao sector dos cuidados de saúde. Norman Kolwitz quer fazer um trabalho pioneiro com o SeaTable e finalmente digitalizar os processos.
 
+![Digitalização de processos no atendimento ambulatorial com o SeaTable](images/KD-Cura-pionarbeit-in-der-pflege.jpg)
+
 ## O crescimento dos empregados e o desejo de expansão requerem estruturas e processos claros
 
 Com o aumento do número de pessoas que necessitam de cuidados, o número de empregados da empresa também aumenta. Com cada nova contratação, há alguns aspectos que têm de ser tidos em conta. Por exemplo, há que ter em conta diferentes salários por hora e estabelecer diferentes suplementos. Por conseguinte, os contratos de trabalho tornam-se mais individuais e já não podem ser agrupados. Antes da introdução do SeaTable, o empresário trabalhava com listas e folhas de papel.
 
 Além disso, a empresa quer crescer. Uma expansão dos cuidados ambulatórios para incluir a creche já estava firmemente planeada antes da Corona, mas foi agora adiada até 2022. A fim de poder expandir-se indefinidamente, talvez mesmo sob a forma de uma franquia, Normal Kolwitz vê a necessidade de desenvolver um sistema escalável. Isto requer processos digitais normalizados e aperfeiçoados.
 
-É importante optimizar os processos a fim de os poder explicar a pessoas que não são especialistas na matéria. Os processos têm de ser estruturados de tal forma que tornem o empresário mais ou menos substituível. SeaTable é exactamente a solução que eu procurava.
-
-Norman Kolwitz, fundador da KD-Cura
+> É importante optimizar os processos a fim de os poder explicar a pessoas que não são especialistas na matéria. Os processos têm de ser estruturados de tal forma que tornem o empresário mais ou menos substituível. SeaTable é exactamente a solução que eu procurava.
+>
+> **Norman Kolwitz**, fundador da KD-Cura
 
 ## Processos normalizados e aperfeiçoados são o pré-requisito para um sistema escalável
 
@@ -54,9 +41,9 @@ A gestão do pessoal é também muito mais fácil. Os ficheiros pessoais digitai
 
 Ao digitalizar os seus processos, o empresário espera ser um modelo para os outros e impulsionar o progresso no seu sector. Estamos satisfeitos pelo facto de a SeaTable poder apoiar a KD-Cura Pflegedienst neste processo!
 
-Acho o sistema muito encantador porque é mantido muito simples e posso mapear bem os meus processos com ele.
-
-Norman Kolwitz, Fundador KD Cura Pflegedienst
+> Acho o sistema muito encantador porque é mantido muito simples e posso mapear bem os meus processos com ele.
+>
+> **Norman Kolwitz**, Fundador KD Cura Pflegedienst
 
 ## Resumo
 

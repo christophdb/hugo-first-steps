@@ -1,34 +1,19 @@
 ---
-title: 'Pionnier du numérique dans les services de soins - SeaTable'
+title: 'Pionnier du numérique dans les services de soins'
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/fr/kd-cura-pflegedienst'
 color: '#eeeeee'
-draft: true
 ---
 
 Avec SeaTable, Norman Kolwitz, fondateur de KD-Cura, veut être un pionnier dans son secteur en numérisant les processus de son service de soins ambulatoires. Dans sa recherche d'un outil approprié, il est tombé sur SeaTable et trouve le système très "charmant".
 
-Nom
-
-KD-Cura
-
-Division
-
-Soins
-
-Fondée
-
-2017
-
-Localisation
-
-Velden, Allemagne
-
-Taille de l'entreprise
-
-10 à 50 employés
+> Nom: **KD-Cura**
+> Division: **Soins**
+> Fondée: **2017**
+> Localisation: **Velden, Allemagne**
+> Taille de l'entreprise: **10 à 50 employés**
 
 ## SeaTable apporte la numérisation aux soins infirmiers
 
@@ -36,15 +21,17 @@ Le [service de soins KD-Cura](https://www.kd-cura.de) sait comment rendre le mon
 
 L'importance des soins continuera d'augmenter régulièrement dans les années à venir. Le thème de la numérisation n'est pas encore complètement entré dans le secteur des soins. Norman Kolwitz raconte que pour les caisses de soins et d'assurance maladie, il faut actuellement encore établir une facture analogique, ce qui n'est pas dans l'air du temps. La numérisation est une étape importante et nécessaire et doit enfin arriver dans le secteur des soins. Norman Kolwitz souhaite faire œuvre de pionnier avec SeaTable et numériser enfin les processus.
 
+![Numérisation des processus dans les soins ambulatoires avec SeaTable](images/KD-Cura-pionarbeit-in-der-pflege.jpg)
+
 ## L'augmentation du personnel et le désir d'expansion nécessitent des structures et des processus clairs
 
 Lorsque le nombre de personnes nécessitant des soins augmente, le nombre de collaborateurs dans l'entreprise augmente également. Avec chaque nouvelle embauche, il faut tenir compte de certains éléments. Ainsi, il faut tenir compte des différents salaires horaires et fixer différents suppléments. Les contrats de travail sont donc plus personnalisés et ne peuvent plus être mis dans le même panier. Avant l'introduction de SeaTable, l'entrepreneur travaillait avec des listes papier et des fiches.
 
 De plus, l'entreprise souhaite se développer. Une extension des soins ambulatoires à un service de soins de jour était déjà fermement prévue avant Corona, mais elle a été repoussée à 2022. Pour pouvoir s'étendre indéfiniment, peut-être même sous la forme d'une franchise, Normal Kolwitz estime qu'il est nécessaire de développer un système évolutif. Pour ce faire, des processus numériques standardisés et perfectionnés sont nécessaires.
 
-Il est important d'optimiser les processus afin de pouvoir les expliquer à des personnes étrangères au domaine. Les processus doivent être conçus de telle sorte qu'ils rendent l'entrepreneur quasiment remplaçable. SeaTable est exactement la solution que je cherchais.
-
-Norman Kolwitz, fondateur de KD-Cura
+> Il est important d'optimiser les processus afin de pouvoir les expliquer à des personnes étrangères au domaine. Les processus doivent être conçus de telle sorte qu'ils rendent l'entrepreneur quasiment remplaçable. SeaTable est exactement la solution que je cherchais.
+>
+> **Norman Kolwitz**, fondateur de KD-Cura
 
 ## Des processus standardisés et perfectionnés sont la condition préalable à un système évolutif
 
@@ -54,9 +41,9 @@ La gestion du personnel est également nettement facilitée. Des dossiers person
 
 En numérisant ses processus, l'entrepreneur espère donner l'exemple aux autres et faire avancer le progrès dans son secteur. Nous sommes heureux que SeaTable puisse aider le service de soins KD-Cura dans cette démarche !
 
-Je trouve le système très charmant, car il est très simple et me permet de bien représenter mes processus.
-
-Norman Kolwitz, fondateur de KD Cura Pflegedienst
+> Je trouve le système très charmant, car il est très simple et me permet de bien représenter mes processus.
+>
+> **Norman Kolwitz**, fondateur de KD Cura Pflegedienst
 
 ## Résumé
 
