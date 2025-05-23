@@ -2,21 +2,28 @@
     <section class="max-container">
         <div class="mx-auto max-w-[800px]">
             <h1 class="gradient text-center font-poppins text-4xl font-bold">Taxonomies</h1>
+            <h3 class="mt-1 text-center text-xl">Posts only</h3>
 
             {{ range $taxonomyName, $taxonomy := site.Taxonomies }}
                 <h2 class="mt-12 text-2xl font-bold"><a href="{{ "/" | relLangURL }}{{ $taxonomyName | urlize }}">{{ $taxonomyName }}</a></h2>
                 <ul>
                     {{ range $term, $termData := $taxonomy }}
-                        <details>
-                            <summary class="cursor-pointer"><h3 class="mt-3 inline-block">{{ $term }} ({{ $termData.Pages.Len }})</h3></summary>
-                            <ul class="list-disc">
-                                {{ range $termData.Pages }}
-                                    <li class="ml-8">
-                                        <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-                                    </li>
-                                {{ end }}
-                            </ul>
-                        </details>
+                        <!-- Exclude posts from help section -->
+                        {{ $posts := where $termData.Pages "Section" "posts" }}
+
+                        {{ if gt (len $posts) 0 }}
+                            {{ $termPage := site.GetPage (printf "%s/%s" $taxonomyName $term) }}
+                            <details>
+                                <summary class="cursor-pointer"><h3 class="mt-3 inline-block">{{ $termPage.Title }} ({{ $posts.Len }})</h3></summary>
+                                <ul class="list-disc">
+                                    {{ range $posts }}
+                                        <li class="ml-8">
+                                            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+                                        </li>
+                                    {{ end }}
+                                </ul>
+                            </details>
+                        {{ end }}
                     {{ end }}
                 </ul>
             {{ end }}
