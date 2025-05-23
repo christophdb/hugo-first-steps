@@ -50,13 +50,13 @@ sections:
       items:
           - text: Registo de horas de trabalho
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt: Registo de horas de trabalho
+            image_alt: Registo de horas de trabalho
           - text: Integração de colaboradores
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt: Integração de colaboradores
+            image_alt: Integração de colaboradores
           - text: Recrutamento de pessoal
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt: Recrutamento de pessoal
+            image_alt: Recrutamento de pessoal
       buttons:
           - label: 'Descubra mais modelos de RH'
             link: 'https://seatable.io/vorlagen/?lang=auto'

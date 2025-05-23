@@ -147,31 +147,31 @@ sections:
       items:
           - text: Konkurrenzanalyse
             image: /images/Marketing_Competitor-Analysis_Template.png
-            alt: Behalten Sie Ihre Wettbewerber im Blick und analysieren Sie deren Aktivitäten.
+            image_alt: Behalten Sie Ihre Wettbewerber im Blick und analysieren Sie deren Aktivitäten.
           - text: Kampagnenplanung
             image: /images/Marketing_Content-Calendar_Template.png
-            alt: Planen Sie Ihre Marketingkampagnen von der ersten Idee bis zur Ausführung.
+            image_alt: Planen Sie Ihre Marketingkampagnen von der ersten Idee bis zur Ausführung.
           - text: Content Marketing Strategie
             image: /images/Marketing_Content-Marketing-Strategy_Template.png
-            alt: Erstellen und verwalten Sie Ihre Content-Marketing-Strategie an einer zentralen Stelle.
+            image_alt: Erstellen und verwalten Sie Ihre Content-Marketing-Strategie an einer zentralen Stelle.
           - text: Redaktionsplan
             image: /images/Marketing_Editorial-Plan_Template.png
-            alt: Verwalten Sie Ihren Content-Plan für Blogs, Social Media und andere Kanäle.
+            image_alt: Verwalten Sie Ihren Content-Plan für Blogs, Social Media und andere Kanäle.
           - text: Pressespiegel
             image: /images/Marketing_Pressespiegel_Template.png
-            alt: Sammeln und analysieren Sie Inhalte zu Ihren Themen in einem Pressespiegel.
+            image_alt: Sammeln und analysieren Sie Inhalte zu Ihren Themen in einem Pressespiegel.
           - text: Storyboard
             image: /images/Marketing_Storyboard_Template.png
-            alt: Visualisieren Sie kreative Ideen, planen Sie ganze Szenen und Kampagnen.
+            image_alt: Visualisieren Sie kreative Ideen, planen Sie ganze Szenen und Kampagnen.
           - text: Podcast Redaktionskalendar
             image: /images/Marketing_Podcast_Templat.png
-            alt: Planen Sie Ihre Podcast-Produktion und erstellen Sie ein Editorialboard.
+            image_alt: Planen Sie Ihre Podcast-Produktion und erstellen Sie ein Editorialboard.
           - text: Social Media Plan
             image: /images/Marketing_Social-Media_Template.png
-            alt: Organisieren Sie Ihre Social Media-Beiträge und planen Sie Veröffentlichungen.
+            image_alt: Organisieren Sie Ihre Social Media-Beiträge und planen Sie Veröffentlichungen.
           - text: Newsletter Anmeldung
             image: /images/Marketing_Newsletter_Subscription_Template.png
-            alt: Verwalten Sie Ihre Newsletter-Anmeldungen und analysieren Sie deren Erfolg.
+            image_alt: Verwalten Sie Ihre Newsletter-Anmeldungen und analysieren Sie deren Erfolg.
       buttons:
         - label: Alle Vorlagen entdecken
           link: "https://seatable.io/vorlagen/?lang=auto"

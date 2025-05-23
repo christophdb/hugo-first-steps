@@ -112,22 +112,22 @@ sections:
       items:
           - text: Software Testing
             image: /images/Software-Dev_-Software-Test_Template.png
-            alt: 'This template helps you organize test cases, create test plans, and track results. It can be easily expanded to include additional test types or checks.'
+            image_alt: 'This template helps you organize test cases, create test plans, and track results. It can be easily expanded to include additional test types or checks.'
           - text: Bug Tracker
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            alt: 'Keep track of software bugs at all times: This template lets you report, prioritize, and monitor the status of bug fixes in real-time.'
+            image_alt: 'Keep track of software bugs at all times: This template lets you report, prioritize, and monitor the status of bug fixes in real-time.'
           - text: Product Launch
             image: /images/Software-Dev_-Product-Launch_Template.png
-            alt: 'Efficiently plan and coordinate new product launches. This template helps you manage tasks, responsibilities, and deadlines.'
+            image_alt: 'Efficiently plan and coordinate new product launches. This template helps you manage tasks, responsibilities, and deadlines.'
           - text: Technology Roadmap
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            alt: 'Plan and coordinate new product introductions efficiently. This template helps you manage tasks, responsibilities, and deadlines.'
+            image_alt: 'Plan and coordinate new product introductions efficiently. This template helps you manage tasks, responsibilities, and deadlines.'
           - text: Feature Requests
             image: /images/Software-Dev_-Feature-Request_Template.png
-            alt: 'Collect, prioritize, and plan stakeholder feature requests. Customize the template to add additional criteria or rating systems.'
+            image_alt: 'Collect, prioritize, and plan stakeholder feature requests. Customize the template to add additional criteria or rating systems.'
           - text: Kanban Board
             image: /images/Software-Dev_-Kanban_Template.png
-            alt: 'Use a customizable Kanban board to track the progress of IT projects, tasks, and responsibilities.'
+            image_alt: 'Use a customizable Kanban board to track the progress of IT projects, tasks, and responsibilities.'
       buttons:
           - label: Discover All Templates
             link: https://seatable.io/vorlagen/?lang=auto

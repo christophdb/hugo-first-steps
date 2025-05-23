@@ -110,22 +110,22 @@ sections:
       items:
           - text: Tests logiciels
             image: /images/Software-Dev_-Software-Test_Template.png
-            alt: "Ce modèle vous permet d'organiser des cas de test, de créer des plans de test et de suivre les résultats. Il peut être étendu pour inclure des types de test supplémentaires."
+            image_alt: "Ce modèle vous permet d'organiser des cas de test, de créer des plans de test et de suivre les résultats. Il peut être étendu pour inclure des types de test supplémentaires."
           - text: Suivi des bogues
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            alt: 'Gardez le contrôle des bogues logiciels : ce modèle permet de signaler des bugs, de les prioriser et de suivre en temps réel leur correction.'
+            image_alt: 'Gardez le contrôle des bogues logiciels : ce modèle permet de signaler des bugs, de les prioriser et de suivre en temps réel leur correction.'
           - text: Lancement de produit
             image: /images/Software-Dev_-Product-Launch_Template.png
-            alt: 'Planifiez et coordonnez efficacement le lancement de nouveaux produits. Ce modèle aide à gérer les tâches, responsabilités et échéances.'
+            image_alt: 'Planifiez et coordonnez efficacement le lancement de nouveaux produits. Ce modèle aide à gérer les tâches, responsabilités et échéances.'
           - text: Feuille de route technologique
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            alt: "Planifiez l'implémentation de nouveaux produits. Ce modèle aide à gérer les tâches, responsabilités et échéances."
+            image_alt: "Planifiez l'implémentation de nouveaux produits. Ce modèle aide à gérer les tâches, responsabilités et échéances."
           - text: Demandes de fonctionnalités
             image: /images/Software-Dev_-Feature-Request_Template.png
-            alt: 'Collectez, priorisez et planifiez les demandes de fonctionnalités des parties prenantes. Personnalisez le modèle pour ajouter des critères.'
+            image_alt: 'Collectez, priorisez et planifiez les demandes de fonctionnalités des parties prenantes. Personnalisez le modèle pour ajouter des critères.'
           - text: Tableau Kanban
             image: /images/Software-Dev_-Kanban_Template.png
-            alt: "Utilisez un tableau Kanban personnalisable pour suivre l'avancement des projets IT et des responsabilités."
+            image_alt: "Utilisez un tableau Kanban personnalisable pour suivre l'avancement des projets IT et des responsabilités."
       buttons:
           - label: Découvrir tous les modèles
             link: https://seatable.io/vorlagen/?lang=auto

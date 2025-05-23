@@ -87,13 +87,13 @@ sections:
       items:
           - text: Project plan
             image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-            alt: ""
+            image_alt: ""
           - text: Project portfolio management
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-            alt: ""
+            image_alt: ""
           - text: Action plan
             image: /images/Projektmanagement_Action-Plan_Template_9.png
-            alt: ""
+            image_alt: ""
       buttons:
         - label: Browse our templates
           link: https://seatable.io/vorlagen/?lang=auto
