@@ -32,7 +32,7 @@ sections:
             link: pages/product/seatable-server
 
     - name: content-1
-      weight: 3
+      weight: 4
       title: 'Die sofort einsatzbereite Lösung'
       subtitle: 'SeaTable Cloud'
       description: Die SeaTable Cloud ist ideal für Unternehmen und Teams, die schnell starten möchten, ohne sich um die Wartung oder IT-Infrastruktur kümmern zu müssen. Sie bietet direkten Zugang zu allen SeaTable-Funktionen über die Cloud.
@@ -52,7 +52,7 @@ sections:
             link: 'pages/product/seatable-cloud'
 
     - name: content-12
-      weight: 4
+      weight: 5
       title: 'Ihre individuelle Instanz in der Cloud'
       subtitle: 'SeaTable Dedicated'
       description: Mit SeaTable Dedicated erhalten Sie eine dedizierte Instanz in der Cloud, die individuell auf Ihre Bedürfnisse zugeschnitten ist. Diese Option bietet Ihnen volle Kontrolle und erhöhte Sicherheit bei gleichzeitiger Nutzung der Cloud-Vorteile.
@@ -72,7 +72,7 @@ sections:
             link: 'pages/product/seatable-dedicated'
 
     - name: content-12
-      weight: 5
+      weight: 6
       classes:
           - bg-gray-100
           - curved
@@ -93,12 +93,12 @@ sections:
             link: 'pages/product/seatable-dedicated'
 
     - name: product-comparison-table
-      weight: 6
+      weight: 7
       title: Die drei Produkte von SeaTable im Überblick
       subtitle: Vergleich unserer Produkte
 
     - name: banner-4
-      weight: 7
+      weight: 8
       title: Faire Preisgestaltung für Forschung, Bildung und gemeinnützige Organisationen
       subtitle: 'Rabatte für den öffentlichen Sektor'
       text: SeaTable bietet eine faire und transparente Preisgestaltung für **Bildungseinrichtungen**, **Forschungseinrichtungen**, **öffentliche Institutionen** und **gemeinnützige Vereine** Zugang zu modernster Technologie haben, ohne ihr Budget zu überlasten. Profitieren Sie von leistungsstarken No-Code-Lösungen zu ermäßigten Preisen.
@@ -108,7 +108,7 @@ sections:
             style: primary
 
     - name: 'content-10'
-      weight: 10
+      weight: 9
       title: 'Individuelle Workflows und Automationen mit SeaTable'
       subtitle: 'Integration leicht gemacht'
       description: 'Mit SeaTable können Sie nicht nur individuelle Workflows erstellen, sondern auch Ihre bestehenden Systeme einfach integrieren und Automationen aufsetzen. Dank der Integration mit Tools wie n8n, Make und Zapier sowie der Möglichkeit, eigene Systeme über die API anzubinden, gestalten Sie Ihre Prozesse schnell und effizient.'
@@ -122,7 +122,7 @@ sections:
             link: 'https://seatable.io/integrationen/?lang=auto'
 
     - name: 'content-9'
-      weight: 11
+      weight: 10
       title: SeaTable im Vergleich zu Wettbewerbern
       subtitle: Vorteile
       description: Im Vergleich zu anderen Lösungen auf dem Markt bietet SeaTable entscheidende Vorteile in Bezug auf Flexibilität, Sicherheit und Preisgestaltung. Egal, ob Sie mit **Airtable**, **Asana** oder **Google Sheets** vergleichen – SeaTable bietet einzigartige Alleinstellungsmerkmale.
@@ -148,10 +148,10 @@ sections:
 
     # TODO: diesen Block noch bauen...
     #- name: content-99
-    #  weight: 12
+    #  weight: 11
 
     - name: content-22
-      weight: 13
+      weight: 12
       classes:
           - curved
           - bg-gray-100
@@ -163,7 +163,7 @@ sections:
             link: pages/support
 
     - name: content-22
-      weight: 40
+      weight: 3
       title: Starten Sie jetzt mit SeaTable
       subtitle: Wählen Sie die passende Lösung
       text: 'Entscheiden Sie sich für die Lösung, die Ihren Anforderungen am besten entspricht. Ob Cloud, Dedicated oder On-Premises – SeaTable bietet Ihnen die Flexibilität, Sicherheit und Leistung, die Sie für Ihr Unternehmen benötigen.'
