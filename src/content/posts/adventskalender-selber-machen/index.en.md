@@ -1,6 +1,6 @@
 ---
-title: 'Make your own advent calendar: 24 ideas for filling'
-description: 'In this article you will find out what you need to consider when planning your project, what you can use to fill the Advent calendar and pack the contents, and what digital alternatives are available.'
+title: "Make your own advent calendar: 24 ideas for filling"
+description: "In this article you will find out what you need to consider when planning your project, what you can use to fill the Advent calendar and pack the contents, and what digital alternatives are available."
 seo:
     title: "Make your own advent calendar: Creative ideas & instructions"
     description: "Learn how to create a unique Advent calendar. Discover inspiring suggestions and detailed descriptions for a festive season"

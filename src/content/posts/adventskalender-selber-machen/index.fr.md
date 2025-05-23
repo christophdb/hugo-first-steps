@@ -1,6 +1,6 @@
 ---
-title: 'Faire soi-même son calendrier de l'Avent - 24 idées pour le remplir'
-description: 'Dans cet article, vous découvrirez ce qu'il faut prendre en compte lors de la planification de votre projet, avec quoi vous pouvez remplir le calendrier de l'Avent et emballer son contenu, ainsi que les alternatives numériques disponibles.'
+title: "Faire soi-même son calendrier de l'Avent - 24 idées pour le remplir"
+description: "Dans cet article, vous découvrirez ce qu'il faut prendre en compte lors de la planification de votre projet, avec quoi vous pouvez remplir le calendrier de l'Avent et emballer son contenu, ainsi que les alternatives numériques disponibles."
 seo:
     title: "Fabriquer soi-même des calendriers de l'Avent : Idées créatives & instructions"
     description: "Apprends à créer un calendrier de l'Avent unique en son genre. Découvre des propositions inspirantes et des descriptions détaillées pour une période festive"

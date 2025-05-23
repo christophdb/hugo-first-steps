@@ -1,9 +1,9 @@
 ---
-title: 'Faça o seu próprio calendário do advento: 24 ideias para encher
-descrição: "Neste artigo, pode descobrir o que deve ter em conta ao planear o seu projeto, o que pode utilizar para encher o calendário do Advento e embalar o seu conteúdo e quais as alternativas digitais disponíveis.'
+title: "Faça o seu próprio calendário do advento: 24 ideias para encher"
+description: "Neste artigo, pode descobrir o que deve ter em conta ao planear o seu projeto, o que pode utilizar para encher o calendário do Advento e embalar o seu conteúdo e quais as alternativas digitais disponíveis."
 seo:
     title: "Faça o seu próprio calendário do advento: Ideias criativas e instruções"
-    description: "Saiba como criar um calendário do Advento único. Descubra sugestões inspiradoras e descrições pormenorizadas para uma época festiva "encher - SeaTable'
+    description: "Saiba como criar um calendário do Advento único. Descubra sugestões inspiradoras e descrições pormenorizadas para uma época festiva encher"
 date: 2024-10-28
 lastmod: '2024-10-28'
 author: 'lsc'

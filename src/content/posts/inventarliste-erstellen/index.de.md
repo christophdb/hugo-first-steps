@@ -1,12 +1,16 @@
 ---
-title: 'Inventarliste erstellen – mit kostenloser Vorlage, Excel oder Word'
+title: 'Inventar erstellen – so behalten Sie den Überblick!'
+description: 'Sie führen jedes Jahr oder sogar jeden Monat eine Inventur durch? Dann sind Sie hier genau richtig! In diesem Artikel erfahren Sie, wie Sie Ihre Inventarliste erstellen, den Prozess standardisieren und Ihre Inventur vereinfachen können.'
+seo:
+    title: "Inventarliste erstellen – Bestände präzise erfassen"
+    description: "Erfassen Sie Ihr Geschäftsinventar präzise! Sichern Sie sich volle Kontrolle über Ihre Vermögenswerte und optimieren Unternehmensprozesse"
 date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
 url: '/de/inventarliste-erstellen'
 ---
 
-Sie führen jedes Jahr oder sogar jeden Monat eine **Inventur** durch? Dann sind Sie hier genau richtig! In diesem Artikel erfahren Sie, wie Sie Ihre **Inventarliste erstellen**, den Prozess standardisieren und Ihre Inventur vereinfachen können. Dazu können Sie eine Inventarliste in Excel importieren oder Ihre eigene Vorlage in Word aufbauen. Außerdem finden Sie heraus, welche Vorteile eine kostenlose Datenbank wie **SeaTable gegenüber Excel und Word** bietet.
+Importieren Sie eine Inventarliste in Excel oder bauen Ihre eigene Vorlage in Word auf. Finden Sie heraus, welche Vorteile eine kostenlose Datenbank wie SeaTable gegenüber Excel und Word bietet.
 
 ## Was ist eine Inventarliste?
 

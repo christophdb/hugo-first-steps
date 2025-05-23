@@ -1,6 +1,6 @@
 ---
-title: 'Haz tu propio calendario de Adviento: 24 ideas para rellenarlo'
-description: 'En este artículo descubrirá qué debe tener en cuenta a la hora de planificar su proyecto, qué puede utilizar para rellenar el calendario de Adviento y empaquetar el contenido, y qué alternativas digitales existen.'
+title: "Haz tu propio calendario de Adviento: 24 ideas para rellenarlo"
+description: "En este artículo descubrirá qué debe tener en cuenta a la hora de planificar su proyecto, qué puede utilizar para rellenar el calendario de Adviento y empaquetar el contenido, y qué alternativas digitales existen."
 seo:
     title: "Haz tu propio calendario de adviento: Ideas creativas e instrucciones"
     description: "Aprenda a crear un calendario de Adviento único. Descubra sugerencias inspiradoras y descripciones detalladas para una temporada festiva."
