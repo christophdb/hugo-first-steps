@@ -46,12 +46,12 @@ RUN wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hug
     rm hugo.tar.gz
 
 # Set the working directory for Hugo projects
-#WORKDIR /hugo/src
+WORKDIR /hugo/src
 
 # Copy code
-#COPY . /hugo
+COPY . /hugo
 
-#RUN git config --global --add safe.directory /hugo
+RUN git config --global --add safe.directory /hugo
 
 # Clean up
 RUN apt-get remove -y wget && apt-get autoremove -y && apt-get clean
@@ -68,4 +68,4 @@ ENTRYPOINT ["entrypoint.sh"]
 
 # This starts hugo and tailwind in watch mode
 #CMD ["npm", "--prefix", "/hugo/src/themes/seatable", "run", "docker:watch"]
-CMD ["sh", "-c", "ENABLE_PAGEFIND=${ENABLE_PAGEFIND:-0} npm --prefix /workspaces/hugo-first-steps run docker:watch"]
+CMD ["sh", "-c", "ENABLE_PAGEFIND=${ENABLE_PAGEFIND:-0} npm --prefix /hugo/src/themes/seatable run docker:watch"]

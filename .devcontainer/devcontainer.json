@@ -4,6 +4,8 @@
         "context": "..",
         "dockerfile": "../Dockerfile"
     },
+    "workspaceMount": "source=${localWorkspaceFolder},target=/hugo,type=bind",
+    "workspaceFolder": "/hugo",
     // Use command specified in Dockerfile
     "overrideCommand": false,
     "containerEnv": {
