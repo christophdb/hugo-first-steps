@@ -1,9 +1,15 @@
 ---
-title: 'Faça o seu próprio calendário do advento: 24 ideias para encher - SeaTable'
+title: 'Faça o seu próprio calendário do advento: 24 ideias para encher
+descrição: "Neste artigo, pode descobrir o que deve ter em conta ao planear o seu projeto, o que pode utilizar para encher o calendário do Advento e embalar o seu conteúdo e quais as alternativas digitais disponíveis.'
+seo:
+    title: "Faça o seu próprio calendário do advento: Ideias criativas e instruções"
+    description: "Saiba como criar um calendário do Advento único. Descubra sugestões inspiradoras e descrições pormenorizadas para uma época festiva "encher - SeaTable'
 date: 2024-10-28
 lastmod: '2024-10-28'
 author: 'lsc'
-url: '/pt/adventskalender-selber-machen'
+url: '/pt/faca-o-seu-proprio-calendario-do-advento'
+aliases:
+    - /pt/adventskalender-selber-machen/
 ---
 
 Todos os anos, a **antecipação do Natal** é grande. O cheiro a biscoitos acabados de fazer paira no ar, a neve cai suavemente lá fora e a primeira porta do calendário do Advento já está à espera que a abra. Assim, todos os dias de dezembro são motivo de alegria. A alegria é ainda maior se fizeres **o teu próprio calendário do Advento** com muita dedicação e o ofereceres aos teus entes queridos como presente.

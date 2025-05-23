@@ -1,10 +1,16 @@
 ---
-title: 'Make your own advent calendar: 24 ideas for filling - SeaTable'
+title: 'Make your own advent calendar: 24 ideas for filling'
+description: 'In this article you will find out what you need to consider when planning your project, what you can use to fill the Advent calendar and pack the contents, and what digital alternatives are available.'
+seo:
+    title: "Make your own advent calendar: Creative ideas & instructions"
+    description: "Learn how to create a unique Advent calendar. Discover inspiring suggestions and detailed descriptions for a festive season"
 date: 2024-10-28
 lastmod: '2024-10-28'
 coverImage: 'Red-Simple-Christmas-Border-A4-2-e1718895318315.png'
 author: 'lsc'
-url: '/adventskalender-selber-machen'
+url: '/make-your-own-advent-calendar'
+aliases:
+    - /adventskalender-selber-machen/
 ---
 
 Every year, the **anticipation of Christmas** is great. The smell of freshly baked cookies is in the air, the snow is falling softly outside and the first door on the Advent calendar is already eagerly waiting for you to open it. So you have a reason to be happy every day in December. The joy is even greater if you **make your own Advent calendar** with a lot of dedication and give it to your loved ones as a gift.
