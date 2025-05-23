@@ -1,10 +1,12 @@
+{{ $url := "external-links" }}
+{{ if eq (lower (printf "%v" .view)) "true" }}
+    {{ $url = "view-external-links" }}
+{{ end }}
+
+
 <iframe
     class="dtable-embed"
-    src="https://cloud.seatable.io/dtable/{{ if eq (lower (printf "%v" .view)) "true" }}
-        view-external-links
-    {{ else }}
-        external-links
-    {{ end }}/{{ .id }}/"
+    src="https://cloud.seatable.io/dtable/{{ $url }}/{{ .id }}/"
     frameborder="0"
     width="100%"
     height="{{ .height | default "667" }}"
