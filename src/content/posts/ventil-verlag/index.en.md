@@ -1,35 +1,20 @@
 ---
-title: 'How Ventil Verlag is taking its internal processes to a new level - SeaTable'
+title: 'How Ventil Verlag is taking its internal processes to a new level'
 date: 2021-01-27
 lastmod: '2023-07-11'
 coverImage: 'ventil-verlag.jpg'
 author: 'cdb'
 url: '/ventil-verlag'
 color: '#eeeeee'
-draft: true
 ---
 
 Ventil Verlag needs a flexible organisational tool for its internal publishing processes. The diverse and small organisational tasks that cannot be meaningfully mapped in any standard software led Ventil Verlag to SeaTable.
 
-Name
-
-Valve publisher
-
-Division
-
-Book publisher
-
-Founded
-
-1999
-
-Location
-
-Mainz, Germany
-
-Employees
-
-10-50 employees
+> Name: **Valve publisher**
+> Division: **Book publisher**
+> Founded: **1999**
+> Location: **Mainz, Germany**
+> Employees: **10-50 employees**
 
 ## Flexible processes require flexible tools
 
@@ -37,9 +22,9 @@ Employees
 
 The challenges of a small publishing house are many. There is no huge organization with clearly defined roles and tasks. Instead, a small team has to react flexibly to the tasks at hand and find solutions. The core team of Ventil Verlag consists of just 6 people who are supported by external photographers, designers, editors, press staff or other freelancers. There are no fixed processes that are mapped in a publishing software, but you need a flexible software that adapts to changing requirements and processes.
 
-SeaTable is super easy to understand and was immediately well received by our team. People immediately understood how to work with it.
-
-Patrick Siegmund, Head of the Vegan Division at Ventil Verlag
+> SeaTable is super easy to understand and was immediately well received by our team. People immediately understood how to work with it.
+>
+> **Patrick Siegmund**, Head of the Vegan Division at Ventil Verlag
 
 ## Maintaining an overview is essential in publishing
 
@@ -49,15 +34,17 @@ In SeaTable, on the other hand, this is very simple. While all information about
 
 In addition, all of the publisher's books are recorded in SeaTable. No other solution can so naturally capture a wide variety of information such as title, author, category, program edition, project management, status of the manuscript, date of publication, number of pages, price, ISBN number, and the URL in the store, all of which can be easily edited at the same time. In addition, employees can easily filter out the titles that have already been published or sort them by projects that are still in progress.
 
+![Flexible processes in publishing thanks to SeaTable](images/ventil-verlag.jpg)
+
 ## SeaTable offers the necessary flexibility for the publisher
 
 The publisher receives exposés almost daily, which have to be sifted through and evaluated. A small publisher doesn't have the capacity to produce everything that sounds interesting. Instead, you have to develop a feeling for what interests readers and what can be produced well. Meanwhile, submitted synopses are managed in SeaTable, where they are given a status visible to everyone on the team. If a text is interesting, the author is contacted and work begins. If the script is not suitable, it is archived accordingly and not pursued further.
 
 Since the introduction of SeaTable, coordination and communication in the team has improved significantly. Less coordination is needed because everyone knows where to find the information that is relevant to them. This means that everyone in the team can concentrate more on their own topics.
 
-We used to try Trello and Google Sheets, but it just wasn't a good fit. Trello limited us too much and with Google Sheets we often lacked context. With SeaTable, we always have the perfect overview.
-
-Patrick Siegmund, Head of the Vegan Division at Ventil Verlag
+> We used to try Trello and Google Sheets, but it just wasn't a good fit. Trello limited us too much and with Google Sheets we often lacked context. With SeaTable, we always have the perfect overview.
+>
+> **Patrick Siegmund**, Head of the Vegan Division at Ventil Verlag
 
 ## Summary
 
