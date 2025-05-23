@@ -1,36 +1,21 @@
 ---
-title: 'Berliner Hockeyclub goes digital mit SeaTable - SeaTable'
+title: 'Berliner Hockeyclub goes digital mit SeaTable'
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/de/berliner-hockeyclub'
 color: '#eeeeee'
-draft: true
 ---
 
 Als Manager eines Sportvereins gilt es viele Bereiche zu überschauen und zu verwalten, sei es die allgemeine Buchhaltung, Platzbuchungen oder die Aufgabenverwaltung aller Mitglieder. Der Berliner Hockeyclub nutzt SeaTable, um die vielen einzelnen Systeme, die momentan existieren, in ein einziges System zu überführen und damit seine Prozesse zu digitalisieren.
 
 ## Der Verein im Überblick
 
-Name
-
-Berliner Hockeyclub
-
-Sparte
-
-Sportverein
-
-Gegründet
-
-1905
-
-Standort
-
-Berlin, Deutschland
-
-Mitarbeiter
-
-1-10
+> Name: **Berliner Hockeyclub**
+> Sparte: **Sportverein**
+> Gegründet: **1905**
+> Standort: **Berlin, Deutschland**
+> Mitarbeiter: **1-10**
 
 ## Das weitgefächerte Aufgabenspektrum erfordert ein flexibles Tool
 
@@ -40,9 +25,9 @@ Die täglichen Aufgaben, die in einem Sportverein anfallen, sind vielfältig. Al
 
 Mit diesem weiten Aufgabenspektrum wachsen die Anforderungen an ein unterstützendes System natürlich.
 
-Ich habe viele Apps ausprobiert, z. B. Asana, Monday oder Google Docs. Die Excel-ähnliche Datenbank hat mir bei SeaTable am besten gefallen, da sie hier einfach schöner abgebildet ist, als in den anderen Tools. Prozesse werden deutlicher dargestellt und die Verknüpfungen zwischen Datensätzen sind wesentlich leichter zu erstellen.
-
-Timo Stephan, Vereinsmanager des Berliner Hockeyclubs e.V.
+> Ich habe viele Apps ausprobiert, z. B. Asana, Monday oder Google Docs. Die Excel-ähnliche Datenbank hat mir bei SeaTable am besten gefallen, da sie hier einfach schöner abgebildet ist, als in den anderen Tools. Prozesse werden deutlicher dargestellt und die Verknüpfungen zwischen Datensätzen sind wesentlich leichter zu erstellen.
+>
+> **Timo Stephan**, Vereinsmanager des Berliner Hockeyclubs e.V.
 
 ## Handling sensibler Daten und die Kommunikation mit Ehrenämtern
 
@@ -51,6 +36,8 @@ Durch die Vielfältigkeit der Aufgaben wurde bislang mit mehren Lösungen gearbe
 Zudem wünschte sich der Vereinsmanager Timo Stephan ein besseres Handling sensibler Daten. Mit solchen hat er in seiner täglichen Arbeit oft zu tun. Seien es Trainergehälter oder Kontakt- und Kontodaten, die sicher mit entsprechenden Personen geteilt werden müssen.
 
 Viele Sportvereine werden vor allem durch das Engagement und die Begeisterung von Ehrenämtlern getragen. Als Vereinsmanager verteilt Timo Stephan unterschiedlichste Aufgaben an diese und möchte zudem stets den Überblick über den Status der verteilten Aufgaben behalten. Nun sind ehrenamtlich Arbeitende nicht jeden Tag vor Ort, was die Kommunikation natürlich erschwert. Telefonate und E-Mails im Postfach häufen sich, die Übersicht geht schnell verloren. Es muss eine mobile Lösung gefunden werden, um all diese Personen mit einbinden zu können.
+
+![Digitalisierung eines Sportvereins mit SeaTable](images/berliner-hockeyclub-goes-digital.jpg)
 
 ## SeaTable für klarere Strukturen und eine bessere Kommunikation
 
@@ -62,9 +49,9 @@ Durch die Flexibilität der SeaTable Datenbank lassen sich die bisher isolierten
 
 Timo Stephan ist begeistert und überlegt, welche Funktionen er noch in SeaTable abbilden kann. Das Potenzial hat SeaTable definitiv und er wird weiterhin neugierig jede neue Funktion von SeaTable testen, um zu überlegen, wie er diese gewinnbringend für den Berliner Hockeyclub verwenden kann. Er ist jedenfalls froh auf SeaTable gestoßen zu sein.
 
-Uns als Sportverein stehen nur begrenzte finanzielle Mittel zur Verfügung. Deshalb finde ich es großartig, dass wir SeaTable kostenlos nutzen können.
-
-Timo Stephan, Vereinsmanager des Berliner Hockeyclubs e.V.
+> Uns als Sportverein stehen nur begrenzte finanzielle Mittel zur Verfügung. Deshalb finde ich es großartig, dass wir SeaTable kostenlos nutzen können.
+>
+> **Timo Stephan**, Vereinsmanager des Berliner Hockeyclubs e.V.
 
 ## Zusammenfassung
 
