@@ -54,7 +54,7 @@ There are various definitions of content marketing, but the description with the
 
 ## Why pure kanban and process management tools are not suitable for content marketing
 
-It is important to understand that content marketing usually consists of many small puzzle pieces and that not one good article will bring the desired success. For example, the SEO agency creates [Content Marketing Star](/content-marketing-star/) even for small projects, a content pipeline with dozens, if not hundreds, of search terms, and then creates the appropriate content.
+It is important to understand that content marketing usually consists of many small puzzle pieces and that not one good article will bring the desired success. For example, the SEO agency creates _Content Marketing Star_ even for small projects, a content pipeline with dozens, if not hundreds, of search terms, and then creates the appropriate content.
 
 Content marketing requires a tool that provides an overview of this mass of information and allows targeted publication of planned content.
 
