@@ -1,5 +1,5 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><?xml-stylesheet type=\"text/xsl\" href=\"/main-sitemap.xsl\"?>" | safeHTML }}
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {{- $posts := where .Site.Pages "Section" "help" -}}
 
     {{- range $posts -}}
@@ -11,6 +11,16 @@
         <priority>{{ .Sitemap.Priority }}</priority>{{ end }}{{ if .IsTranslated }}{{ range .Translations }}
         <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />{{ end }}
         <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />{{ end }}
+
+    {{ $images := findRE `(?s)<img.+?>` .Content }}
+
+    <!-- Source: https://dariusz.wieckiewicz.org/en/add-and-use-an-image-sitemap-with-hugo/ -->
+    {{- range $images }}
+        <image:image>
+            <image:loc>{{ replaceRE `(?s).*src="(.+?)".*` "$1" . | absURL }}</image:loc>
+        </image:image>
+    {{ end }}
+
     </url>
         {{- end -}}
     {{- end }}
