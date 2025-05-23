@@ -86,13 +86,13 @@ sections:
       items:
           - text: Plano de projeto
             image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-            alt: ""
+            image_alt: ""
           - text: Gestão de portfólio de projetos
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-            alt: ""
+            image_alt: ""
           - text: Plano de ação
             image: /images/Projektmanagement_Action-Plan_Template_9.png
-            alt: ""
+            image_alt: ""
       buttons:
         - label: Navegue pelos nossos modelos
           link: https://seatable.io/vorlagen/?lang=auto

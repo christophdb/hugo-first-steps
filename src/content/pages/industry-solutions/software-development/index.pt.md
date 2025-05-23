@@ -111,22 +111,22 @@ sections:
       items:
           - text: Testes de Software
             image: /images/Software-Dev_-Software-Test_Template.png
-            alt: "Este modelo ajuda a organizar casos de teste, criar planos e acompanhar resultados. Pode ser expandido com tipos de teste adicionais."
+            image_alt: "Este modelo ajuda a organizar casos de teste, criar planos e acompanhar resultados. Pode ser expandido com tipos de teste adicionais."
           - text: Rastreador de Bugs
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            alt: "Acompanhe bugs de software: Este modelo permite reportar, priorizar e monitorar em tempo real o status de correções."
+            image_alt: "Acompanhe bugs de software: Este modelo permite reportar, priorizar e monitorar em tempo real o status de correções."
           - text: Lançamento de Produto
             image: /images/Software-Dev_-Product-Launch_Template.png
-            alt: "Planeje e coordene lançamentos de produtos eficientemente. Este modelo ajuda a gerenciar tarefas, responsabilidades e prazos."
+            image_alt: "Planeje e coordene lançamentos de produtos eficientemente. Este modelo ajuda a gerenciar tarefas, responsabilidades e prazos."
           - text: Roteiro Tecnológico
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            alt: "Planeje implementações de produtos. Este modelo ajuda a gerenciar tarefas, responsabilidades e prazos."
+            image_alt: "Planeje implementações de produtos. Este modelo ajuda a gerenciar tarefas, responsabilidades e prazos."
           - text: Solicitações de Recursos
             image: /images/Software-Dev_-Feature-Request_Template.png
-            alt: "Colete, priorize e planeje solicitações de stakeholders. Personalize o modelo para adicionar critérios."
+            image_alt: "Colete, priorize e planeje solicitações de stakeholders. Personalize o modelo para adicionar critérios."
           - text: Quadro Kanban
             image: /images/Software-Dev_-Kanban_Template.png
-            alt: "Use um quadro Kanban personalizável para monitorar projetos de TI e responsabilidades."
+            image_alt: "Use um quadro Kanban personalizável para monitorar projetos de TI e responsabilidades."
       buttons:
         - label: Descobrir todos os modelos
           link: https://seatable.io/vorlagen/?lang=auto

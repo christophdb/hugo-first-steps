@@ -141,31 +141,31 @@ sections:
       items:
           - text: Competitive Analysis
             image: /images/Marketing_Competitor-Analysis_Template.png
-            alt: Keep an eye on your competitors and analyze their activities.
+            image_alt: Keep an eye on your competitors and analyze their activities.
           - text: Campaign Planning
             image: /images/Marketing_Content-Calendar_Template.png
-            alt: Plan your marketing campaigns from the first idea to execution.
+            image_alt: Plan your marketing campaigns from the first idea to execution.
           - text: Content Marketing Strategy
             image: /images/Marketing_Content-Marketing-Strategy_Template.png
-            alt: Create and manage your content marketing strategy in one central place.
+            image_alt: Create and manage your content marketing strategy in one central place.
           - text: Editorial Calendar
             image: /images/Marketing_Editorial-Plan_Template.png
-            alt: Manage your content plan for blogs, social media, and other channels.
+            image_alt: Manage your content plan for blogs, social media, and other channels.
           - text: Press Review
             image: /images/Marketing_Pressespiegel_Template.png
-            alt: Collect and analyze content on your topics in a press review.
+            image_alt: Collect and analyze content on your topics in a press review.
           - text: Storyboard
             image: /images/Marketing_Storyboard_Template.png
-            alt: Visualize creative ideas, plan entire scenes and campaigns.
+            image_alt: Visualize creative ideas, plan entire scenes and campaigns.
           - text: Podcast Editorial Calendar
             image: /images/Marketing_Podcast_Templat.png
-            alt: Plan your podcast production and create an editorial board.
+            image_alt: Plan your podcast production and create an editorial board.
           - text: Social Media Plan
             image: /images/Marketing_Social-Media_Template.png
-            alt: Organize your social media posts and plan publications.
+            image_alt: Organize your social media posts and plan publications.
           - text: Newsletter Subscription
             image: /images/Marketing_Newsletter_Subscription_Template.png
-            alt: Manage your newsletter subscriptions and analyze their success.
+            image_alt: Manage your newsletter subscriptions and analyze their success.
       buttons:
           - label: Discover all templates
             link: 'https://seatable.io/vorlagen/?lang=auto'

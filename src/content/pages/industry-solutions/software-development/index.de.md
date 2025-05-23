@@ -114,22 +114,22 @@ sections:
       items:
           - text: Software-Tests
             image: /images/Software-Dev_-Software-Test_Template.png
-            alt: "Mit dieser Vorlage können Sie Testfälle organisieren, Testpläne erstellen und die Ergebnisse zu verfolgen. Sie lässt sich leicht um zusätzliche Testarten oder Prüfungen erweiterm."
+            image_alt: "Mit dieser Vorlage können Sie Testfälle organisieren, Testpläne erstellen und die Ergebnisse zu verfolgen. Sie lässt sich leicht um zusätzliche Testarten oder Prüfungen erweiterm."
           - text: Bug-Tracker
             image: /images/Software-Dev_-Bug-Tracker_Template.png
-            alt: "Behalten Sie stets den Überblick über Softwarefehler: Diese Vorlage ermöglicht es Ihnen, Bugs zu melden, zu priorisieren und den Status ihrer Behebung in Echtzeit zu verfolgen."
+            image_alt: "Behalten Sie stets den Überblick über Softwarefehler: Diese Vorlage ermöglicht es Ihnen, Bugs zu melden, zu priorisieren und den Status ihrer Behebung in Echtzeit zu verfolgen."
           - text: Produkteinführung
             image: /images/Software-Dev_-Product-Launch_Template.png
-            alt: "Planen und koordinieren Sie die Einführung neuer Produkte effizient. Diese Vorlage hilft Ihnen, Aufgaben, Verantwortlichkeiten und Deadlines zu verwalten."
+            image_alt: "Planen und koordinieren Sie die Einführung neuer Produkte effizient. Diese Vorlage hilft Ihnen, Aufgaben, Verantwortlichkeiten und Deadlines zu verwalten."
           - text: Technologie-Roadmap
             image: /images/Software-Dev_-Technology-Roadmap_Template.png
-            alt: "Planen und koordinieren Sie die Einführung neuer Produkte effizient. Diese Vorlage hilft Ihnen, Aufgaben, Verantwortlichkeiten und Deadlines zu verwalten."
+            image_alt: "Planen und koordinieren Sie die Einführung neuer Produkte effizient. Diese Vorlage hilft Ihnen, Aufgaben, Verantwortlichkeiten und Deadlines zu verwalten."
           - text: Feature-Wünsche
             image: /images/Software-Dev_-Feature-Request_Template.png
-            alt: "Sammeln, priorisieren und planen Sie Feature-Wünsche Ihrer Stakeholder. Passen Sie die Vorlage an, um zusätzliche Kriterien oder Bewertungssysteme hinzuzufügen."
+            image_alt: "Sammeln, priorisieren und planen Sie Feature-Wünsche Ihrer Stakeholder. Passen Sie die Vorlage an, um zusätzliche Kriterien oder Bewertungssysteme hinzuzufügen."
           - text: Kanban Board
             image: /images/Software-Dev_-Kanban_Template.png
-            alt: "Nutzen Sie ein anpassbares Kanban Board, um den Fortschritt von IT Projekten und Aufgaben sowie Verantwortlichkeiten im Auge zu behalten."
+            image_alt: "Nutzen Sie ein anpassbares Kanban Board, um den Fortschritt von IT Projekten und Aufgaben sowie Verantwortlichkeiten im Auge zu behalten."
       buttons:
         - label: Alle Vorlagen entdecken
           link: https://seatable.io/vorlagen/?lang=auto

@@ -53,13 +53,13 @@ sections:
       items:
           - text: Arbeitszeiterfassung
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt: Arbeitszeiterfassung
+            image_alt: Arbeitszeiterfassung
           - text: Mitarbeiter-Onboarding
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt: Mitarbeiter-Onboarding
+            image_alt: Mitarbeiter-Onboarding
           - text: Personalrekrutierung
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt: Personalrekrutierung
+            image_alt: Personalrekrutierung
       buttons:
           - label: "Entdecken Sie weitere HR Vorlagen"
             link: "https://seatable.io/vorlagen/?lang=auto"

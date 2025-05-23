@@ -10,6 +10,7 @@
   - text:
   - text:
   image:
+  image_alt:
   image_position: 
   (später) rounded? </code></pre>
     </div>
@@ -40,7 +41,7 @@
 
         {{ if .image }}
             <div class="basis-1/2 justify-center">
-                <img src="{{ .image }}" alt="placeholder" />
+                <img src="{{ .image }}" alt="{{ .image_alt }}" />
             </div>
         {{ end }}
     </section>

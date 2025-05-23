@@ -87,13 +87,13 @@ sections:
     items:
       - text: Plan de proyecto
         image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-        alt: ""
+        image_alt: ""
       - text: Gestión de la cartera de proyectos
         image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-        alt: ""
+        image_alt: ""
       - text: Plan de acción
         image: /images/Projektmanagement_Action-Plan_Template_9.png
-        alt: ""
+        image_alt: ""
     buttons:
       - label: Explore nuestras plantillas
         link: https://seatable.io/vorlagen/?lang=auto

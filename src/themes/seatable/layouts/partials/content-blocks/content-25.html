@@ -6,16 +6,13 @@
   title:
   subtitle:
   items:
-  - title: 
-    subtitle: 
-    text1: 
-    button:
-      label:
-      link:
-      style: 
-  - subtitle: 
-    title: 
-    text: </code></pre>
+  - headline:
+    text:
+  - headline:
+    text:
+    image:
+    image_alt:
+        </code></pre>
     </div>
 {{ end }}
 
@@ -38,7 +35,7 @@
                         <p class="mt-8 text-lg leading-normal">{{ .text | markdownify }}</p>
                     </div>
                     <div class="basis-1/2 justify-center">
-                        <img class="border shadow-xl rounded-xl p-4" src="{{ .image }}" alt="placeholder" />
+                        <img class="border shadow-xl rounded-xl p-4" src="{{ .image }}" alt="{{ .image_alt }}" />
                     </div>
                 </div>
             {{ end }}
