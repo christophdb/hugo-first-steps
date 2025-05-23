@@ -6,7 +6,7 @@ seo:
     description: "Planification efficace des congés en équipe : comment coordonner de manière optimale les absences des collaborateurs et éviter les goulets d'étranglement.conseils et modèles"
 date: 2025-03-24
 categories:
-    - 'Général'
+    - 'General'
     - 'Meilleures pratiques'
 color: '#fdf505'
 url: '/fr/urlaubsplanung'

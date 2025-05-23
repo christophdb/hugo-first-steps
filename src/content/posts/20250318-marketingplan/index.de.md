@@ -6,7 +6,7 @@ seo:
     description: 'Erfahren Sie, wie Sie einen effektiven Marketingplan erstellen, um Ihre Geschäftsziele zu erreichen, von der Analyse bis zur Umsetzung'
 date: 2025-03-18
 categories:
-    - 'Allgemein'
+    - 'General'
 tags:
     - 'Marketingplanung'
 color: '#509dfd'

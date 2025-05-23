@@ -6,7 +6,7 @@ seo:
     description: 'Dans cet article de blog, vous apprendrez à créer une feuille de route et à gagner du temps et des ressources en utilisant le bon modèle'
 date: 2025-03-24
 categories:
-    - 'Général'
+    - 'General'
     - 'Meilleures pratiques'
 tags:
     - 'Processus informatiques'

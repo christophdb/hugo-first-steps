@@ -2,11 +2,11 @@
 title: 'A empresa de instalações de construção desenvolve uma gestão eficiente de encomendas com o SeaTable'
 description: 'Uma empresa chinesa do sector da instalação de construção reorganizou o seu sistema de gestão de encomendas com o SeaTable, avançando com sucesso na sua transformação digital. O resultado é um sistema de gestão moderno e altamente eficiente com uma aplicação universal.'
 seo:
-    title: "História de um cliente Empresa chinesa de instalação de construção | SeaTable"
-    description: "Saiba como a SeaTable reorganizou a gestão de encomendas e iniciou a transformação digital numa empresa de instalações de construção"
+    title: 'História de um cliente Empresa chinesa de instalação de construção | SeaTable'
+    description: 'Saiba como a SeaTable reorganizou a gestão de encomendas e iniciou a transformação digital numa empresa de instalações de construção'
 date: 2025-03-21
 categories:
-    - 'Informações gerais'
+    - 'General'
     - 'Casos de clientes'
 tags:
     - 'Transformação digital'
