@@ -6,7 +6,7 @@ seo:
     description: "Découvrez comment SeaTable a permis à une entreprise d'installation de construction de revoir la gestion de ses commandes et d'entamer sa transformation numérique"
 date: 2025-03-21
 categories:
-    - 'Général'
+    - 'General'
     - 'Témoignage client'
 tags:
     - 'Transformation digitale'

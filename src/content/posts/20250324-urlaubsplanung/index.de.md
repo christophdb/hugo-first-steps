@@ -6,7 +6,7 @@ seo:
     description: 'Effiziente Urlaubsplanung im Team: So koordinieren Sie Mitarbeiterabwesenheiten optimal und vermeiden Engpässe.Tipps und Vorlagen'
 date: 2025-03-24
 categories:
-    - 'Allgemein'
+    - 'General'
     - 'Best Practice'
 tags:
     - 'Personalverwaltung'
