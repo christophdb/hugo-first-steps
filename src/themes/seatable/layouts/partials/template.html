@@ -1,6 +1,10 @@
 <iframe
     class="dtable-embed"
-    src="https://cloud.seatable.io/dtable/external-links/{{ .id }}/"
+    src="https://cloud.seatable.io/dtable/{{ if eq (lower (printf "%v" .view)) "true" }}
+        view-external-links
+    {{ else }}
+        external-links
+    {{ end }}/{{ .id }}/"
     frameborder="0"
     width="100%"
     height="{{ .height | default "667" }}"

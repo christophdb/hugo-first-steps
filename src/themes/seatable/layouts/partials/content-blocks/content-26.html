@@ -7,6 +7,7 @@
     - bg-[#ece5e2]
   title: 
   subtitle: 
+  anchor: 
   text: 
   buttons:
   - label:
@@ -23,26 +24,25 @@
 </div>
 
 <section class="padding">
-    <section id="customers" class="max-container">
-        <div class="mx-auto mb-8 max-w-[800px] text-center">
+    <section id="{{ .anchor }}" class="max-container content-26">
+        <div class="mx-auto mb-8">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
-            <h1 class="mt-1 text-5xl font-bold leading-[1.1em]">{{ .title }}</h1>
+            <h2 class="mt-1 text-5xl font-bold leading-[1.1em]">{{ .title }}</h2>
             {{ if .text }}
                 <p class="mt-12 text-lg leading-normal">{{ .text | markdownify }}</p>
             {{ end }}
+
+
+            <ul class="my-6 list-disc pl-8 text-lg">
+                {{ range .items }}
+                    <li class="my-4">{{ .text | markdownify }}</li>
+                {{ end }}
+            </ul>
         </div>
 
-        {{ if .buttons }}
-            <div class="mx-auto my-16 flex justify-center gap-4">
-                {{ range .buttons }}
-                    {{ partial "content-blocks/helpers/button.html" . }}
-                {{ end }}
-            </div>
-        {{ end }}
-
         {{ if .template }}
-            <div class="max-container relative max-h-[250px] w-full">
-                {{ partial "template.html" (dict "id" .template ) }}
+            <div class="max-container relative w-full">
+                {{ partial "template.html" (dict "id" .template "view" true ) }}
             </div>
         {{ end }}
 

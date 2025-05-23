@@ -1,0 +1,49 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  title: 
+  subtitle: 
+  text: 
+  items:
+  - icon: 
+    headline:
+    text: 
+    link: 
+  - icon: 
+    headline: 
+    text: 
+    link:
+    icon:</code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+{{ $defaultClasses := slice "curved" "bg-seatable-blue" }}
+{{ $classes := .classes | default $defaultClasses }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle | markdownify }}</p>
+            <h2 class="mt-1 text-4xl font-bold text-white">{{ .title | markdownify }}</h2>
+            <p class="mt-12 text-lg leading-normal text-white">{{ .text | markdownify }}</p>
+        </div>
+
+        {{ if .items }}
+            <div class="mt-12 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+                {{ range .items }}
+
+                    <div class="flex flex-col rounded-md bg-gray-100 p-8 hover:bg-orange-100">
+                        <a class="mt-auto" href="{{ .link }}">
+                            <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>
+                            <h3 class="mt-3 text-2xl font-bold">{{ .headline | markdownify }}</h3>
+                            <p class="mb-8 mt-4">{{ .text | markdownify }}</p>
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+        {{ end }}
+    </section>
+</section>
