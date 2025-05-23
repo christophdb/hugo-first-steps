@@ -53,7 +53,7 @@ Existen varias definiciones de marketing de contenidos, pero la descripción con
 
 ## Por qué las herramientas Kanban puras y de gestión de procesos no son adecuadas para el marketing de contenidos
 
-Es importante comprender que el marketing de contenidos suele constar de muchas pequeñas piezas del puzzle y que no basta con un buen artículo para lograr el éxito deseado. Por ejemplo, la agencia SEO crea [Content Marketing Star](/content-marketing-star/) incluso para proyectos pequeños, una canalización de contenidos con docenas, si no cientos, de términos de búsqueda, y luego crea el contenido apropiado.
+Es importante comprender que el marketing de contenidos suele constar de muchas pequeñas piezas del puzzle y que no basta con un buen artículo para lograr el éxito deseado. Por ejemplo, la agencia SEO crea _Content Marketing Star_ incluso para proyectos pequeños, una canalización de contenidos con docenas, si no cientos, de términos de búsqueda, y luego crea el contenido apropiado.
 
 El marketing de contenidos requiere una herramienta que ofrezca una visión general de esta masa de información y permita la publicación selectiva de los contenidos planificados.
 
