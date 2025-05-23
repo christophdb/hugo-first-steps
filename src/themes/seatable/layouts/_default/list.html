@@ -40,7 +40,7 @@
                             {{ if gt (len $pagesInPosts) 0 }}
                                 <li>
                                     <a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-lg text-blue-950"
-                                        href="{{ $taxonomy.Page.RelPermalink }}">{{ $cat }}<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">{{ len $pagesInPosts }}</span></a>
+                                        href="{{ $taxonomy.Page.RelPermalink }}">{{ $taxonomy.Page.Title }}<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">{{ len $pagesInPosts }}</span></a>
                                 </li>
                                 {{ end }}
                             {{ end }}
