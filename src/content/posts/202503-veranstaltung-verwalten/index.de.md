@@ -9,7 +9,7 @@ url: '/de/veranstaltung-verwalten'
 tags:
     - 'Eventmanagement'
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 color: '#f7c1cf'
 ---
 

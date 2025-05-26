@@ -6,7 +6,7 @@ seo:
     description: 'In diesem Blogartikel erfahren Sie, wie Sie eine Roadmap erstellen und dabei mit der richtigen Vorlage Zeit und Ressourcen sparen'
 date: 2025-03-24
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Projektmanagement'
 color: '#eee8ca'

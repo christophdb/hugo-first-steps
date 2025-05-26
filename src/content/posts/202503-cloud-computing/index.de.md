@@ -5,7 +5,7 @@ seo:
     title: 'Cloud Computing | Skalieren Sie kostengünstig Ihre IT'
     description: 'Was bedeutet Cloud Computing und wie bringt es Ihr Unternehmen voran? Erfahren Sie alles, was Sie über Cloud-Technologie wissen müssen'
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'IT Sicherheit & Datenschutz'
     - 'Datenmanagement & Visualisierung'

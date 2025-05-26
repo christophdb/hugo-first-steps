@@ -6,7 +6,7 @@ seo:
     description: 'Flexibleren Tabellenlösung als Google Sheets. Unser Blogbeitrag stellt dir Alternativen vor, die mehr Anpassungsmöglichkeiten bieten'
 date: 2025-03-18
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Toolings & Plugins'
     - 'Wenn Excel nicht mehr reicht'

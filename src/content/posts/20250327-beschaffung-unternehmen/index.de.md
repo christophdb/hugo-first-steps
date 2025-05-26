@@ -6,7 +6,7 @@ seo:
     description: 'Effiziente Beschaffungsprozesse sind das A und O für Unternehmenserfolg. Entdecke Strategien für Einkaufsabläufe & Lieferantenmanagement'
 date: 2025-03-27
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Beschaffung & Logistik'
     - 'Digitale Transformation'

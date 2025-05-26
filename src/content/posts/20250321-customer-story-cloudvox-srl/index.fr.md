@@ -6,8 +6,8 @@ seo:
     description: 'Découvrez comment SeaTable a aidé Cloudvox SRL à centraliser le stockage des données et à accélérer le travail collaboratif.'
 date: 2025-03-21
 categories:
-    - 'General'
-    - 'Témoignage client'
+    - 'general'
+    - 'customer-story'
 tags:
     - 'Transformation digitale'
     - 'Intégration & automatisation'

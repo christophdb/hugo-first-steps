@@ -6,7 +6,7 @@ seo:
     description: 'Dieser Artikel zeigt, wie Sie einen Pflanzplan für Gemüse, Hochbeete und Staudenbeete erstellen für eine langfristige gute Ernte'
 date: 2025-03-31
 categories:
-    - 'General'
+    - 'general'
 tags:
 color: '#c4d69f'
 url: '/de/pflanzplan-fruchtfolge'

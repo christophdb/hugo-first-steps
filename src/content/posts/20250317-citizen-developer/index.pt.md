@@ -6,7 +6,7 @@ seo:
     description: 'Desenvolva as suas próprias soluções de software com Citizen Developers! Este artigo mostra-lhe como utilizar os conhecimentos dos seus departamentos especializados'
 date: 2025-03-17
 categories:
-    - 'No Code / Low Code'
+    - 'low-code-no-code'
 tags:
     - 'No Code / Low Code'
     - 'Processos informáticos'

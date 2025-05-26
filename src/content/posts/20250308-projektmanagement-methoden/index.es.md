@@ -2,11 +2,11 @@
 title: 'Los 10 métodos de gestión de proyectos más populares de un vistazo'
 description: 'Elegir los métodos de gestión de proyectos adecuados suele ser crucial para el éxito de un proyecto. Al fin y al cabo, no todos los métodos son adecuados para todos los proyectos. Pero, ¿qué métodos existen realmente? ¿Y cuál es el más adecuado en cada caso? Eche un vistazo con nosotros a los 10 principales para determinar el enfoque adecuado para su proyecto.'
 seo:
-    title: "Métodos de gestión de proyectos: Ágil vs. Cascada y compañía"
-    description: "¿Qué método de gestión de proyectos le conviene más? Nuestra completa guía compara Scrum, Kanban, PRINCE2 y co."
+    title: 'Métodos de gestión de proyectos: Ágil vs. Cascada y compañía'
+    description: '¿Qué método de gestión de proyectos le conviene más? Nuestra completa guía compara Scrum, Kanban, PRINCE2 y co.'
 date: 2025-03-08
 categories:
-    - 'General'
+    - 'general'
 tags:
 color: '#fca86c'
 url: '/es/projektmanagement-methoden/'

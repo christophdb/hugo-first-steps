@@ -7,7 +7,7 @@ seo:
 date: 2025-03-18
 lastmod: 2025-04-05T01:14:54+01:00
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Ferramentas e plugins'
 color: '#1eb0e5'

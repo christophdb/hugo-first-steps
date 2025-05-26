@@ -6,7 +6,7 @@ seo:
     description: 'Com o SeaTable Server, a equipa beneficia de fluxos de trabalho eficientes e colaborativos e de uma gestão de dados em conformidade com o RGPD.'
 date: 2025-03-18
 categories:
-    - 'Casos de clientes'
+    - 'customer-story'
 tags:
     - 'Quando o Excel já não é suficiente'
     - 'Gestão e visualização de dados'

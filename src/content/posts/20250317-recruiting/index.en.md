@@ -6,7 +6,7 @@ seo:
     description: 'The future of recruiting: Learn about new technologies and innovative ways to find and retain top candidates'
 date: 2025-03-17
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Applicants & Talents Management'
 color: '#d4a2ee'

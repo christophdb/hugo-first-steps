@@ -6,7 +6,7 @@ seo:
     description: 'Simplify the organisation of your properties! Our blog provides you with insights for successful property management'
 date: 2025-03-18
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Public Sector'
     - 'Data Management & Visualisation'

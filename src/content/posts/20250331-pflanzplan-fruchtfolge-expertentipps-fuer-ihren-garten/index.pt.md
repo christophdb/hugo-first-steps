@@ -6,7 +6,7 @@ seo:
     description: 'Este artigo mostra-lhe como criar um plano de plantação de legumes, canteiros elevados e canteiros de plantas perenes para uma boa colheita a longo prazo'
 date: 2025-03-31
 categories:
-    - 'General'
+    - 'general'
 tags:
 color: '#c4d69f'
 url: '/pt/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
@@ -33,8 +33,7 @@ A rotação de culturas significa que as plantas num canteiro não crescem no me
 - As culturas de alto rendimento\*\* extraem uma grande quantidade de nutrientes do solo.
 - As culturas de rendimento médio\*\* necessitam de menos nutrientes do que as culturas de rendimento elevado.
 - As culturas fracas\*\* conseguem gerir-se com poucos nutrientes.
-- Os corretivos do solo\*\* enriquecem o solo com nutrientes, especialmente azoto.  
-
+- Os corretivos do solo\*\* enriquecem o solo com nutrientes, especialmente azoto.
 
 O truque consiste em **rotar as plantas** nos canteiros num ciclo de 3 a 4 anos. Isto mantém o solo fértil e permite-lhe reduzir a utilização de fertilizantes. Também ajuda a manter afastadas as pragas e as doenças das plantas, uma vez que as suas plantas hospedeiras favoritas não crescem permanentemente no mesmo sítio.
 
@@ -50,8 +49,7 @@ Para que a rotação de culturas de vegetais funcione, é necessário um plano c
    1 **Grupo de plantas de acordo com as necessidades nutricionais**: Classifique os seus vegetais em alimentadores pesados, alimentadores médios, alimentadores ligeiros e melhoradores do solo. Desta forma, saberá quais as plantas que devem crescer quando e onde.
    1 **Determinar o princípio de rotação**: Um sistema simples é o cultivo em 4 campos, no qual as plantas avançam uma fila de canteiros todos os anos. O procedimento exato é explicado abaixo.
    1 **Considerar o cultivo misto**: Nem todas as plantas se dão igualmente bem. Por isso, integre plantas companheiras que se reforcem mutuamente, como as cenouras e as cebolas, uma vez que as cebolas afastam as moscas das cenouras.
-   1 **Registar o plano de plantação e ajustá-lo anualmente**: Documentar a sequência de plantação para evitar erros e otimizar. Ferramentas digitais como o SeaTable ajudam-no a manter o controlo.  
-
+   1 **Registar o plano de plantação e ajustá-lo anualmente**: Documentar a sequência de plantação para evitar erros e otimizar. Ferramentas digitais como o SeaTable ajudam-no a manter o controlo.
 
 ![Melhoria do jardim criada com um plano de plantação](4.jpg)
 

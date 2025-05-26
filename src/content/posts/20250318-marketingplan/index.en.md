@@ -6,7 +6,7 @@ seo:
     description: 'Learn how to create an effective marketing plan to achieve your business goals, from analysis to implementation'
 date: 2025-03-18
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Marketing Planning'
 color: '#509dfd'

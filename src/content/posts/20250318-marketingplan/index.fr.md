@@ -7,8 +7,8 @@ seo:
 
 date: 2025-03-18
 categories:
-    - 'General'
-    - 'Meilleures pratiques'
+    - 'general'
+    - 'best-practice'
 tags:
     - 'planification du marketing'
 color: '#509dfd'

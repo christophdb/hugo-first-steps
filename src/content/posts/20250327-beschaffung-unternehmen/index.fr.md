@@ -6,8 +6,8 @@ seo:
     description: "Des processus d'achat efficaces sont essentiels à la réussite d'une entreprise. Découvre les stratégies pour les processus d'achat et la gestion des fournisseurs"
 date: 2025-03-27
 categories:
-    - 'General'
-    - 'Meilleures pratiques'
+    - 'general'
+    - 'best-practice'
 tags:
 color: '#a57956'
 url: '/fr/beschaffung-unternehmen/'

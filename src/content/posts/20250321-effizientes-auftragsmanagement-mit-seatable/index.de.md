@@ -6,8 +6,8 @@ seo:
     description: 'Erfahren Sie, wie SeaTable bei einer Bauinstallations-Firma die Auftragsverwaltung neu aufsetzte und die digitale Transformation einleitete'
 date: 2025-03-21
 categories:
-    - 'General'
-    - 'Customer Story'
+    - 'general'
+    - 'customer-story'
 tags:
     - 'Digitale Transformation'
 color: '#f7f0d6'

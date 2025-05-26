@@ -6,8 +6,8 @@ seo:
     description: 'Saiba como criar um plano de marketing eficaz para atingir os seus objectivos empresariais, desde a análise à implementação'
 date: 2025-03-18
 categories:
-    - 'General'
-    - 'Melhores práticas'
+    - 'general'
+    - 'best-practice'
 tags:
     - 'Planeamento de marketing'
 color: '#509dfd'

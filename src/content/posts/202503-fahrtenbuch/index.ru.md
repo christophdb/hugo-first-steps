@@ -11,7 +11,7 @@ tags:
     - 'Инструменты и плагины'
     - 'Управление автопарком'
 categories:
-    - 'General'
+    - 'general'
 color: '#f34b4c'
 text: 'white'
 ---

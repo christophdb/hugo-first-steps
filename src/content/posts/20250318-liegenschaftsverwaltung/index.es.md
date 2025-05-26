@@ -6,7 +6,7 @@ seo:
     description: '¡Simplifique la organización de sus propiedades! Nuestro blog le ofrece ideas para gestionar con éxito sus propiedades'
 date: 2025-03-18
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Administración pública'
 color: '#c4e8d8'

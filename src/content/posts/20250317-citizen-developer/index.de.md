@@ -6,7 +6,7 @@ seo:
     description: 'Entwickeln Sie eigene Softwarelösungen mit Citizen Developern! Dieser Artikel zeigt Ihnen, wie Sie das Know-how Ihrer Fachabteilungen nutzen'
 date: 2025-03-17
 categories:
-    - 'No Code / Low Code'
+    - 'low-code-no-code'
 tags:
     - 'IT Prozesse'
     - 'Low Code / No Code'

@@ -6,7 +6,7 @@ seo:
     description: "Cet article montre comment établir un plan de plantation pour les légumes, les plates-bandes surélevées et les massifs d'arbustes pour une bonne récolte à long terme"
 date: 2025-03-31
 categories:
-    - 'General'
+    - 'general'
 tags:
 color: '#c4d69f'
 url: '/fr/plan-de-plante-expert-en-rotation-de-cultures-pour-votre-jardin'
@@ -31,8 +31,7 @@ La rotation des cultures signifie que les plantes d'une plate-bande ne poussent 
 - **Les plantes à forte croissance** puisent beaucoup d'éléments nutritifs dans le sol.
 - **Les plantes à croissance moyenne** ont besoin de moins d'éléments nutritifs que les plantes à forte croissance.
 - **Les plantes à faible croissance** se contentent de peu d'éléments nutritifs.
-- **Les améliorateurs de sol** enrichissent le sol en éléments nutritifs, notamment en azote.  
-
+- **Les améliorateurs de sol** enrichissent le sol en éléments nutritifs, notamment en azote.
 
 L'astuce consiste à **faire tourner les plantes dans les plates-bandes tous les 3 à 4 ans**. Ainsi, le sol reste fertile et vous pouvez réduire l'utilisation d'engrais. En outre, cela permet de tenir les ravageurs et les maladies des plantes à distance, car leurs plantes hôtes préférées ne poussent pas en permanence au même endroit.
 

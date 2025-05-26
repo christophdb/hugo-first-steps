@@ -6,8 +6,8 @@ seo:
     description: 'En este artículo aprenderá a crear y aplicar con éxito un concepto estructurado de incorporación para los nuevos empleados'
 date: 2025-03-24
 categories:
-    - 'General'
-    - 'Mejores prácticas'
+    - 'general'
+    - 'best-practice'
 tags:
     - 'onboarding'
 color: '#d0e4e9'

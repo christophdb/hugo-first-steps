@@ -6,7 +6,7 @@ seo:
     description: 'More flexible spreadsheet solution than Google Sheets. Our blog post introduces you to alternatives that offer more customisation options'
 date: 2025-03-18
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'When Excel is no longer sufficient'
     - 'Tools & Plugins'

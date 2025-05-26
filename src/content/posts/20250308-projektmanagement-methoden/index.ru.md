@@ -6,7 +6,7 @@ seo:
     description: 'Какой метод управления проектами подходит вам больше всего? В нашем подробном руководстве сравниваются Scrum, Kanban, PRINCE2 и другие.'
 date: 2025-03-08
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Управление проектом'
 color: '#fca86c'

@@ -6,7 +6,7 @@ seo:
     description: 'Neste artigo, mostramos a diferença entre um sistema de informação de recursos humanos (HRIS) e um sistema de gestão de recursos humanos (HRMS)'
 date: 2025-03-17
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Gestão de recursos humanos'
     - 'Ferramentas e plugins'

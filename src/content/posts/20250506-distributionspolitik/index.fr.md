@@ -6,7 +6,7 @@ seo:
     description: 'Découvrez dans cet article comment utiliser la politique de distribution comme un levier pour vos ventes'
 date: 2025-05-06
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Distribution'
 url: '/fr/politique-de-distribution'

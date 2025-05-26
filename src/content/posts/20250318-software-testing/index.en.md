@@ -6,7 +6,7 @@ seo:
     description: 'Learn how software testing makes your application more stable and why it is essential for successful projects'
 date: 2025-03-18
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'IT Processes'
     - 'Tools & Plugins'

@@ -6,8 +6,8 @@ seo:
     description: 'Descubra como os testes de software tornam a sua aplicação mais estável e porque são essenciais para projectos bem sucedidos'
 date: 2025-03-18
 categories:
-    - 'General'
-    - 'Melhores práticas'
+    - 'general'
+    - 'best-practice'
 tags:
     - 'Processos informáticos'
     - 'Trabalho colaborativo'

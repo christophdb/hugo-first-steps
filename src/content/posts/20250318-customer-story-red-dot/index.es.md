@@ -6,7 +6,7 @@ seo:
     description: 'Con SeaTable Server, el equipo se beneficia de flujos de trabajo eficientes y colaborativos y de una gestión de datos conforme a la GDPR.'
 date: 2025-03-18
 categories:
-    - 'Historia de un cliente'
+    - 'customer-story'
 tags:
     - 'Planificación de marketing'
     - 'Herramientas y complementos'

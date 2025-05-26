@@ -6,7 +6,7 @@ seo:
     description: 'Lesen Sie in diesem Artikel, wie Sie die Distributionspolitik als Hebel für Ihren Vertrieb nutzen'
 date: 2025-05-06
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Distribution'
 url: '/de/distributionspolitik'

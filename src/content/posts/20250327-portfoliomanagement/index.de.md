@@ -6,7 +6,7 @@ seo:
     description: 'Projektportfoliomanagement oder Produktportfoliomanagement: in diesem Artikel erfahren Sie, wie Ihr Portfoliomanagement immer gelingt'
 date: 2025-03-27
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Projektmanagement'
     - 'Finanzen'

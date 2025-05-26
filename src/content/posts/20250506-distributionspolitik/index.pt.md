@@ -6,7 +6,7 @@ seo:
     description: 'Leia este artigo para saber como utilizar a política de distribuição como alavanca para a sua organização de vendas'
 date: 2025-05-06
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Distribuição'
 url: '/pt/politica-de-distribuição'

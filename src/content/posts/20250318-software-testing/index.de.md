@@ -6,7 +6,7 @@ seo:
     description: 'Erfahren Sie, wie Software-Tests Ihre Anwendung stabiler machen und warum sie für erfolgreiche Projekte unverzichtbar sind'
 date: 2025-03-18
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'IT Prozesse'
     - 'Toolings & Plugins'

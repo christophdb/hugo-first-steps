@@ -6,7 +6,7 @@ seo:
     description: 'Vereinfachen Sie die Organisation Ihrer Immobilien! Unser Blog liefert Ihnen Einblicke für eine erfolgreiche Liegenschaftsverwaltung'
 date: 2025-03-18
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Öffentliche Verwaltung'
     - 'Datenmanagement & Visualisierung'

@@ -5,7 +5,7 @@ seo:
     title: 'Cloud computing | Escala tu TI de forma rentable'
     description: '¿Qué es la computación en nube y cómo ayuda a su empresa? Descubre todo lo que necesitas saber sobre la tecnología en la nube'
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Transformación digital'
     - 'Seguridad informática y privacidad de datos'

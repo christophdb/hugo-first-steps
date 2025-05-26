@@ -6,7 +6,7 @@ seo:
     description: 'Gestion de portefeuille de projets ou gestion de portefeuille de produits : dans cet article, vous apprendrez comment réussir votre gestion de portefeuille à chaque fois'
 date: 2025-03-27
 categories:
-    - 'General'
+    - 'general'
 tags:
 color: '#bba9d3'
 url: '/fr/portfoliomanagement'
