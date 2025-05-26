@@ -6,8 +6,8 @@ seo:
     description: 'Planeamento eficiente das férias em equipa: como coordenar da melhor forma as ausências dos trabalhadores e evitar estrangulamentos Dicas e modelos'
 date: 2025-03-24
 categories:
-    - 'Informações gerais'
-    - 'Melhores práticas'
+    - 'general'
+    - 'best-practice'
 tags:
     - 'Administração de Recursos Humanos'
 color: '#fdf505'

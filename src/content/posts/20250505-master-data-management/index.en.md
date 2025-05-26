@@ -2,20 +2,18 @@
 title: 'Master data management: How to use master data to gain a better overview'
 description: "Everywhere in your company, you need up-to-date, correct and complete data records as a basis for analyses and strategic decisions. This is exactly what master data management does: it allows different departments to keep track of your company's products, customers and other master data."
 seo:
-    title: "Master Data Management for a Better Overview"
-    description: "Discover master data management and find out why your company benefits from efficient master data management processes"
+    title: 'Master Data Management for a Better Overview'
+    description: 'Discover master data management and find out why your company benefits from efficient master data management processes'
 date: 2025-05-05
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
-    - "Data Management & Visualisation"
+    - 'Data Management & Visualisation'
 url: '/master-data-management'
 color: '#0d75b4'
 ---
 
-
 ## What is master data management?
-
 
 Master data management is the **administration of a company's central, business-relevant information**. This includes, for example, employee and customer data, product information or key financial figures. Master data management ensures that there is only **one single master data record** for all this information, which is complete, up-to-date and error-free. This avoids inconsistencies and increases the efficiency of your business processes.
 
@@ -73,11 +71,11 @@ Master data is business-relevant data that you absolutely need for functioning c
 
 Examples of master data:
 
-* **Customer master data**: Whether e-mail or delivery address, accounts or purchase history: everything you need for business and payment processing with customers is hugely important. You should therefore extract this master data from webshops, ERP or CRM systems and merge it into a master data management system.
-* **Employee master data**: In addition to work-related data (e.g. name, position, educational qualifications and date of hire), this includes sensitive data such as tax class, bank details, social security, nationality, marital status, and emergency contacts. It is best to keep this HR master data well protected in an [HR database]({{< relref "posts/20250317-hris" >}}).
-* **Supplier master data**: This is about all the data you need for smooth procurement processes. This can be contractually agreed prices and delivery quantities, but also location and logistics data. Usually, an ERP system is the central data source for supply chain management.
-* **Product master data**: As your product data is relevant across departments (e.g. for marketing, sales, logistics, and product development), an up-to-date, centralized database is of the utmost importance. This includes unique product numbers, quantities and prices as well as attributes such as dimensions, color and material.
-* **Asset master data**: This refers to the assets of your company, which you usually record in an [inventory list](https://seatable.io/en/inventarliste-vorlagen/). Tangible assets can be real estate, machinery, vehicles, office furniture or financial resources, while intangible assets include patents or your company's master data.
+- **Customer master data**: Whether e-mail or delivery address, accounts or purchase history: everything you need for business and payment processing with customers is hugely important. You should therefore extract this master data from webshops, ERP or CRM systems and merge it into a master data management system.
+- **Employee master data**: In addition to work-related data (e.g. name, position, educational qualifications and date of hire), this includes sensitive data such as tax class, bank details, social security, nationality, marital status, and emergency contacts. It is best to keep this HR master data well protected in an [HR database]({{< relref "posts/20250317-hris" >}}).
+- **Supplier master data**: This is about all the data you need for smooth procurement processes. This can be contractually agreed prices and delivery quantities, but also location and logistics data. Usually, an ERP system is the central data source for supply chain management.
+- **Product master data**: As your product data is relevant across departments (e.g. for marketing, sales, logistics, and product development), an up-to-date, centralized database is of the utmost importance. This includes unique product numbers, quantities and prices as well as attributes such as dimensions, color and material.
+- **Asset master data**: This refers to the assets of your company, which you usually record in an [inventory list](https://seatable.io/en/inventarliste-vorlagen/). Tangible assets can be real estate, machinery, vehicles, office furniture or financial resources, while intangible assets include patents or your company's master data.
 
 ## Challenges in master data management and how to overcome them
 
@@ -91,11 +89,11 @@ Examples of master data:
 
 Master data management is a special case of data management, which in turn consists of several sub-areas. The most important tasks in master data management include
 
-* **Data governance** defines rules, standards and responsibilities for master data management.
-* **Data integration** enables the consolidation and synchronization of data across different systems.
-* **Data quality assurance** identifies and updates incorrect, outdated or incomplete data records.
-* **Data modeling** structures data so that it can be used more efficiently and quickly.
-* **Data security** protects sensitive data from unauthorized access or loss.
+- **Data governance** defines rules, standards and responsibilities for master data management.
+- **Data integration** enables the consolidation and synchronization of data across different systems.
+- **Data quality assurance** identifies and updates incorrect, outdated or incomplete data records.
+- **Data modeling** structures data so that it can be used more efficiently and quickly.
+- **Data security** protects sensitive data from unauthorized access or loss.
 
 You can find out more about this in our blog article on [data management]({{< relref "posts/20250317-datenmanagement" >}}).
 

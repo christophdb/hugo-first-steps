@@ -98,7 +98,7 @@ sections:
   - number: "4.6"
     text: "Calificación en Capterra"
   buttons:
-    - link: "categories/historia-de-un-cliente/"
+    - link: "categories/customer-story"
       label: "Leer más historias de éxito"
       id: es-homepage-customer-1
 

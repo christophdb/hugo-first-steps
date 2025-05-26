@@ -98,7 +98,7 @@ sections:
   - number: "4.6"
     text: "Évaluation sur Capterra"
   buttons:
-  - link: "categories/témoignage-client"
+  - link: "categories/customer-story"
     label: "Lesen Sie weitere Erfolgsgeschichten"
     id: fr-homepage-customer-1
 

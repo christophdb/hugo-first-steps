@@ -1,17 +1,17 @@
 ---
-title: "Gestión eficaz de datos en Hcéres con SeaTable"
-description: "LMás información sobre cómo una autoridad pública independiente utiliza SeaTable."
+title: 'Gestión eficaz de datos en Hcéres con SeaTable'
+description: 'LMás información sobre cómo una autoridad pública independiente utiliza SeaTable.'
 seo:
-    title: "Customer Story Hcéres: Gestión eficaz de datos | SeaTable"
-    description: "Descubra cómo SeaTable ha mejorado enormemente la colaboración con los departamentos de evaluación, haciéndola intuitiva, personalizable y segura"
+    title: 'Customer Story Hcéres: Gestión eficaz de datos | SeaTable'
+    description: 'Descubra cómo SeaTable ha mejorado enormemente la colaboración con los departamentos de evaluación, haciéndola intuitiva, personalizable y segura'
 date: 2024-10-21
-categories: 
-  - "Historia de un cliente"
-tags: 
-  - "Gestión de datos / visualización"
-  - "Administración pública"
-color: "#fbe337"
-url: "/es/effektive-datenverwaltung-beim-hceres-mit-seatable"
+categories:
+    - 'customer-story'
+tags:
+    - 'Gestión de datos / visualización'
+    - 'Administración pública'
+color: '#fbe337'
+url: '/es/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
 
 El Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) es una autoridad pública independiente en Francia regida por los artículos L. 114-3-1 a L. 114-3-6 y R. 114-1 a R. 114-23 del Código de Investigación francés. Las principales tareas del Hcéres son
@@ -19,7 +19,8 @@ El Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur
 - La evaluación de todas las instituciones de enseñanza superior y de investigación de Francia.
 - La validación de los procedimientos de evaluación propuestos por otros organismos.
 - La evaluación de las universidades privadas francesas y extranjeras que lo soliciten.  
-    
+
+
 Hcéres se enfrentaba al reto de hacer más eficientes sus complejos procesos de datos y cumplir los requisitos legales. Con SeaTable, Hcéres encontró una solución para centralizar la gestión de sus datos y mejorar la colaboración.
 
 ![La gestión de datos con carpetas es anticuada y tediosa - Transformación digital con SeaTable](pexels-anete-lusina-4792285-1.jpg)

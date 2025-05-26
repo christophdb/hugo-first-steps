@@ -1,17 +1,17 @@
 ---
-title: "Cómo crear una estructura de desglose del trabajo eficaz: plantilla y consejos"
-description: "Un plan de organización del trabajo es un método eficaz para visualizar y estructurar con claridad proyectos complejos. Aquí descubrirás cuándo debes crear una plantilla de plan de estructura del proyecto, cómo puedes proceder y qué herramientas pueden ayudarte a hacerlo."
+title: 'Cómo crear una estructura de desglose del trabajo eficaz: plantilla y consejos'
+description: 'Un plan de organización del trabajo es un método eficaz para visualizar y estructurar con claridad proyectos complejos. Aquí descubrirás cuándo debes crear una plantilla de plan de estructura del proyecto, cómo puedes proceder y qué herramientas pueden ayudarte a hacerlo.'
 seo:
-    title: "Crear estructura de desglose del trabajo | Herramientas y plantillas | SeaTable"
-    description: "¡No vuelvas a quedarte atascado en el caos de un proyecto! Descubra los beneficios de una estructura de desglose del trabajo bien pensada y cómo crear una."
+    title: 'Crear estructura de desglose del trabajo | Herramientas y plantillas | SeaTable'
+    description: '¡No vuelvas a quedarte atascado en el caos de un proyecto! Descubra los beneficios de una estructura de desglose del trabajo bien pensada y cómo crear una.'
 date: 2025-03-17
-categories: 
-  - "General"
-  - "Buenas prácticas"
-tags: 
-  - "Gestión de proyectos"
-color: "#67c3c4"
-url: "/es/projektstrukturplan"
+categories:
+    - 'general'
+    - 'best-practice'
+tags:
+    - 'Gestión de proyectos'
+color: '#67c3c4'
+url: '/es/projektstrukturplan'
 ---
 
 ## La estructura de desglose del trabajo: Un enfoque estructurado de los proyectos
@@ -56,9 +56,7 @@ Ahora es el momento de la ejecución propiamente dicha. Utilizaremos una reubica
 
 En un taller de lanzamiento con todos los participantes en el proyecto, se definen los objetivos del proyecto de acuerdo con los criterios **SMART** (específicos, medibles, atractivos, realistas y sujetos a plazos). O bien hay un único objetivo para todo el proyecto, o bien hay que desglosarlo en subproyectos. En nuestro caso, el objetivo general es trasladarnos a tiempo de la oficina anterior a la nueva.
 
-![Una estructura de desglose del trabajo le ayudará a alcanzar su objetivo](Gehen-Sie-Projekte-strukturiert-an.jpg "Una estructura de desglose del trabajo le ayudará a alcanzar su objetivo").
-
-
+![Una estructura de desglose del trabajo le ayudará a alcanzar su objetivo](Gehen-Sie-Projekte-strukturiert-an.jpg 'Una estructura de desglose del trabajo le ayudará a alcanzar su objetivo').
 
 ### 2\. Definir subtareas
 

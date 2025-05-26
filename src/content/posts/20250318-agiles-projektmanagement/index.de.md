@@ -2,11 +2,11 @@
 title: 'Agiles Projektmanagement: 10 praktische Tools im Vergleich'
 description: 'Agiles Projektmanagement ist aus der modernen Arbeitswelt nicht mehr wegzudenken. Welche Vorteile es bringt, wie es funktioniert und die wichtigsten Methoden stellen wir Ihnen hier vor. Außerdem: Die bekanntesten Tools für agiles Projektmanagement im Vergleich.'
 seo:
-    title: "Agiles Projektmanagement: Grundlagen und Methoden"
-    description: "Lerne die Grundlagen des agilen Projektmanagements kennen. Praktische Tipps und bewährte Strategien für flexible Projektsteuerung"
+    title: 'Agiles Projektmanagement: Grundlagen und Methoden'
+    description: 'Lerne die Grundlagen des agilen Projektmanagements kennen. Praktische Tipps und bewährte Strategien für flexible Projektsteuerung'
 date: 2025-03-18
 categories:
-    - 'Allgemein'
+    - 'general'
 tags:
     - 'Toolings & Plugins'
     - 'Projektmanagement'

@@ -6,7 +6,7 @@ seo:
     description: "Avec SeaTable Server, l'équipe bénéficie de flux de travail efficaces et collaboratifs et d'une gestion des données conforme au RGPD."
 date: 2025-03-18
 categories:
-    - 'témoignage client'
+    - 'customer-story'
 tags:
     - 'Planification du marketing'
     - 'Toolings & Plugins'

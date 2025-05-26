@@ -2,11 +2,11 @@
 title: 'Modernisierung öffentlicher Prozesse – Die Ziele des Conseil Départemental de la Manche'
 description: 'Der Conseil Départemental de la Manche hat es sich zum Ziel gesetzt, die Verwaltung und Modernisierung der Datenprozesse seiner Behörde zu optimieren. Um den wachsenden Anforderungen gerecht zu werden, arbeitete die Direktion für Informationssysteme und Modernisierung (DSIM) daran, effizientere Lösungen für die Datenverwaltung zu finden. Excel-Tabellen waren bisher ein zentrales Werkzeug, doch die zunehmenden Einschränkungen in der Zentralisierung und der Verwaltung von Zugriffsrechten machten eine neue Lösung notwendig.'
 seo:
-    title: "Customer Story Modernisierung öffentlicher Prozesse | SeaTable"
-    description: "Erfahren Sie, wie SeaTable in Frankreich die öffentlichen Prozesse der Conseil Départemental de la Manche moderniesierte und automatisierte."
+    title: 'Customer Story Modernisierung öffentlicher Prozesse | SeaTable'
+    description: 'Erfahren Sie, wie SeaTable in Frankreich die öffentlichen Prozesse der Conseil Départemental de la Manche moderniesierte und automatisierte.'
 date: 2024-10-21
 categories:
-    - 'Customer Story'
+    - 'customer-story'
 tags:
     - 'Datenmanagement & Visualisierung'
     - 'Digitale Transformation'

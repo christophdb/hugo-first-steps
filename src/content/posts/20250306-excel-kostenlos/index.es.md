@@ -2,11 +2,11 @@
 title: '¿Excel gratuito? Cálculo en hoja de cálculo: comparación de programas'
 description: '¿Necesitas una hoja de cálculo potente pero te cuesta manejar Excel? ¿O te preocupa la protección de datos del gigante estadounidense Microsoft? No hay problema. Hay un montón de programas que, a diferencia de Excel, son gratuitos o incluso ofrecen más funciones. Sumérgete en el mundo de las hojas de cálculo.'
 seo:
-    title: "Excel gratis | Hojas de cálculo | Herramientas en comparación"
-    description: "¿Quieres usar Excel gratis? Descubre alternativas inteligentes a Excel en nuestra entrada del blog. Hojas de cálculo eficientes"
+    title: 'Excel gratis | Hojas de cálculo | Herramientas en comparación'
+    description: '¿Quieres usar Excel gratis? Descubre alternativas inteligentes a Excel en nuestra entrada del blog. Hojas de cálculo eficientes'
 date: 2025-03-06
 categories:
-    - 'General'
+    - 'general'
 tags:
     - 'Toolings y plugins'
 url: '/es/excel-kostenlos'
@@ -29,7 +29,7 @@ Sin embargo, si en cambio necesitas la versión completa de escritorio para Wind
 
 Si sólo quieres tener una visión general rápida, echa un vistazo a la siguiente tabla, que compara los programas de hojas de cálculo más importantes. A continuación se ofrece una description: detallada tras una categorización de los programas de hojas de cálculo aquí considerados.
 
-**Software**    | **Desarrollado por**       | **Sistemas operativos** | 
+| **Software**  | **Desarrollado por**       | **Sistemas operativos** |
 | ------------- | -------------------------- | ----------------------- |
 | Calc          | LibreOffice / OpenOffice   | Windows, Mac, Linux     |
 | PlanMaker     | SoftMaker                  | Windows, Mac, Linux     |

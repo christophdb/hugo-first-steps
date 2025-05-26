@@ -1,20 +1,20 @@
 ---
-title: "Digitalización exitosa de la gestión de pedidos con SeaTable - un caso de uso de éolane"
-description: "El fabricante francés de electrónica éolane buscaba una solución que cumpliera con el GDPR para su cada vez más compleja gestión de pedidos. Encontraron SeaTable."
+title: 'Digitalización exitosa de la gestión de pedidos con SeaTable - un caso de uso de éolane'
+description: 'El fabricante francés de electrónica éolane buscaba una solución que cumpliera con el GDPR para su cada vez más compleja gestión de pedidos. Encontraron SeaTable.'
 seo:
-    title: "Customer story éolane: Digitalización de la gestión de pedidos"
-    description: "El fabricante francés de electrónica éolane buscaba una solución que cumpliera el GDPR para su cada vez más complejo sistema de gestión de pedidos"
+    title: 'Customer story éolane: Digitalización de la gestión de pedidos'
+    description: 'El fabricante francés de electrónica éolane buscaba una solución que cumpliera el GDPR para su cada vez más complejo sistema de gestión de pedidos'
 date: 2025-04-04
 categorías:
-  - "Historias de clientes"
-  - "Sin código / con poco código"
+    - 'customer-story'
+    - 'low-code-no-code'
 tags:
-  - "Gestión y visualización de datos"
-  - "Transformación digital"
-  - "Integración y automatización"
-  - "Bajo código / Sin código"
-color: "#469361"
-url: "/es/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane"
+    - 'Gestión y visualización de datos'
+    - 'Transformación digital'
+    - 'Integración y automatización'
+    - 'Bajo código / Sin código'
+color: '#469361'
+url: '/es/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
 ---
 
 ## éolane - líder en fabricación electrónica, en busca de una gestión de datos más eficaz

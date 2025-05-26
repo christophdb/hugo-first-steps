@@ -2,13 +2,13 @@
 title: 'Distribution policy – the underestimated lever for sales'
 description: 'Is the focus of your sales mainly on your products, prices and promotion? Then you should also take a look at your distribution policy. It is often neglected, but it determines whether a product successfully penetrates the market and reaches your customers. Read everything you need for a well thought-out distribution policy in this article.'
 seo:
-    title: "Distribution policy | Definition, channels, targets"
-    description: "Read this article to find out how to use distribution policy as a lever for your sales activities"
+    title: 'Distribution policy | Definition, channels, targets'
+    description: 'Read this article to find out how to use distribution policy as a lever for your sales activities'
 date: 2025-05-06
 categories:
-    - 'General'
+    - 'general'
 tags:
-   - "Distribution"
+    - 'Distribution'
 url: '/distribution-policy'
 color: '#e9d3b4'
 ---
@@ -24,6 +24,7 @@ Your distribution policy therefore determines **how your products or services re
 ## Objectives of the distribution policy
 
 In order to be able to offer your products or services at the lowest possible cost, efficient distribution is of great importance. If you explain distribution policy simply, you could say that the challenge is to make your products available in such a way that they are
+
 - in the best possible condition
 - in sufficient quantities
 - at different locations
@@ -45,7 +46,7 @@ Customer satisfaction |||
 Ensure stable supply chains and packaging so that your products reach the customer on time and undamaged.
 
 ---
-  
+
 Cost efficiency |||
 
 Optimize your distribution logistics to avoid overproduction, delivery bottlenecks, losses and complaints, and thus save costs.
@@ -66,7 +67,7 @@ Secure exclusive distribution channels and stay one step ahead of the competitio
 
 ## The role of distribution policy in the marketing mix
 
-Alongside product, price and promotion policy, distribution policy (or *place*) is one of the four elementary instruments of the marketing mix described by E. Jerome McCarthy back in the 1960s. A distinction is made between **physical and acquisition-based distribution**, i.e. logistical distribution and customer acquisition, which involves designing the distribution strategy and the distribution process.
+Alongside product, price and promotion policy, distribution policy (or _place_) is one of the four elementary instruments of the marketing mix described by E. Jerome McCarthy back in the 1960s. A distinction is made between **physical and acquisition-based distribution**, i.e. logistical distribution and customer acquisition, which involves designing the distribution strategy and the distribution process.
 
 ![Distribution logistics deals with physical distribution](Distribution.jpg)
 
@@ -86,9 +87,9 @@ One of the main characteristics of distribution channels is the **difference bet
 
 If your customers buy directly from you, this naturally brings a number of advantages:
 
-* You have **full control over the presentation and prices** of your products.
-* You can achieve **higher profit margins** without intermediaries.
-* You build a **close customer relationship** and have **valuable customer data** at your disposal.
+- You have **full control over the presentation and prices** of your products.
+- You can achieve **higher profit margins** without intermediaries.
+- You build a **close customer relationship** and have **valuable customer data** at your disposal.
 
 Direct distribution has the disadvantage that you have to take care of selling, storing and shipping the products yourself and require more internal resources (especially personnel) for sales and customer service. In addition, it usually takes longer to set up your own distribution channels than to use existing sales channels from retailers.
 
@@ -98,12 +99,11 @@ Direct distribution has the disadvantage that you have to take care of selling, 
 
 Accordingly, indirect distribution offers the following advantages for your distribution policy:
 
-* You benefit from existing networks and distribution channels as well as the **expertise of dealers** who know the market.
-* This enables you to distribute your products **quickly with a wide reach**.
-* Your **fixed costs are lower**, as you do not have to employ as many staff for sales and customer service and do not have to maintain your own stores or online stores.
+- You benefit from existing networks and distribution channels as well as the **expertise of dealers** who know the market.
+- This enables you to distribute your products **quickly with a wide reach**.
+- Your **fixed costs are lower**, as you do not have to employ as many staff for sales and customer service and do not have to maintain your own stores or online stores.
 
 Indirect distribution has a negative impact on price control and profit margin due to the **dependence on retailers**. In addition, you have less influence on brand presence and customer contact.
-
 
 ## Important sales channels of distribution policy simply explained
 
@@ -148,16 +148,16 @@ Most successful companies today rely on a clever mix of direct and indirect sale
 If you answer these fundamental strategic questions, you will be well equipped for your distribution policy:
 
 1. **What type of goods do you offer and what distribution logistics does it require?**
-   
-   Perishable or fragile products have completely different storage, packaging and transportation requirements than clothing, for example. Furthermore, different distribution channels make sense for capital goods that require explanation than for consumer goods, which generally reach consumers mainly indirectly via wholesalers and retailers.
+
+    Perishable or fragile products have completely different storage, packaging and transportation requirements than clothing, for example. Furthermore, different distribution channels make sense for capital goods that require explanation than for consumer goods, which generally reach consumers mainly indirectly via wholesalers and retailers.
 
 2. **Who are your competitors and what are their sales markets?**
-   
-   Thoroughly analyze the positioning and market power of your competitors, the number and characteristics of the competing products and the sales markets. Your sales strategy and the choice of your sales channels should match the market in which you want to sell your products.
+
+    Thoroughly analyze the positioning and market power of your competitors, the number and characteristics of the competing products and the sales markets. Your sales strategy and the choice of your sales channels should match the market in which you want to sell your products.
 
 3. **Where do your customers buy and which distribution channels do they use?**
-   
-   Identify as precisely as possible the points of sale where your products should be present in order to reach your target groups. The number of potential customers, the size of the sales area, the purchase frequency and the purchasing habits of the customers are relevant for the distribution channels.
+
+    Identify as precisely as possible the points of sale where your products should be present in order to reach your target groups. The number of potential customers, the size of the sales area, the purchase frequency and the purchasing habits of the customers are relevant for the distribution channels.
 
 ## Practical examples of successful distribution policy
 
@@ -167,14 +167,13 @@ Apple is a prime example of a successful distribution policy. Due to its name re
 
 Below are three fictitious examples of a balanced mix of direct and indirect sales:
 
-* A manufacturer of screws, plugs and nails sells its goods mainly through DIY stores, but also offers its range in the company's own online store so that tradesmen can order directly from it.
-* A manufacturer of frozen baked goods sells its products through a wholesaler who sells them on to supermarkets. The company operates a bakery at its headquarters, where visitors and employees can purchase the fresh baked goods. The company also relies on a sales force that acquires major customers such as hotels, cafés and canteens.
-* A start-up decides to sell its products directly via its own online shop. However, to facilitate market entry, it initially also offers its goods on e-commerce platforms.
+- A manufacturer of screws, plugs and nails sells its goods mainly through DIY stores, but also offers its range in the company's own online store so that tradesmen can order directly from it.
+- A manufacturer of frozen baked goods sells its products through a wholesaler who sells them on to supermarkets. The company operates a bakery at its headquarters, where visitors and employees can purchase the fresh baked goods. The company also relies on a sales force that acquires major customers such as hotels, cafés and canteens.
+- A start-up decides to sell its products directly via its own online shop. However, to facilitate market entry, it initially also offers its goods on e-commerce platforms.
 
 ## Conclusion: put your distribution policy to the test
 
 Even the best and most reasonably priced product is useless if it is not available at enough points of sale and is therefore difficult for potential customers to find. So regularly check and scrutinize the ways in which your products can reach your customers. A clever mix of different sales channels will diversify your distribution policy and lead to long-term success.
-
 
 ## Frequently asked questions about distribution policy
 

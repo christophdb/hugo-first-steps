@@ -6,7 +6,7 @@ seo:
     description: 'Eigene Apps erstellen leicht gemacht! Entdecke einfache Wege, individuelle Anwendungen ohne Programmierkenntnisse zu entwickeln'
 date: 2025-03-18
 categories:
-    - 'No Code / Low Code'
+    - 'low-code-no-code'
 tags:
     - 'Universal App'
     - 'Low Code / No Code'

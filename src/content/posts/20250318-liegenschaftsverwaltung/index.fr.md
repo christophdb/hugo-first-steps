@@ -6,7 +6,7 @@ seo:
     description: "Simplifiez l'organisation de vos biens immobiliers ! Notre blog vous donne un aperçu de la gestion immobilière."
 date: 2025-03-18
 categories:
-    - 'Général'
+    - 'general'
 tags:
     - 'Administration publique'
 color: '#c4e8d8'

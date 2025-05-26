@@ -6,8 +6,7 @@ seo:
     description: 'Neste artigo do blogue, ficará a saber como criar um roteiro e poupar tempo e recursos com o modelo certo'
 date: 2025-03-24
 categories:
-    - 'Melhores práticas'
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Processos informáticos'
     - 'Ferramentas e plugins'
