@@ -1,12 +1,13 @@
 ---
 title: 'Beerdigung planen – für einen würdevollen Abschied'
+description: Have you lost a loved one and want to ensure that the upcoming funeral goes smoothly? Or would you like to plan your own funeral to ease the burden on your loved ones after your death? This article provides you with all the important information you need to know about organizing a funeral.
 date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
 url: '/beerdigung-planen'
 seo:
-    title:
-    description:
+    title: Planning a funeral - for a dignified farewell
+    description: When someone dies, relatives often don't know how to plan a funeral. This article will help you to say goodbye with dignity.
 ---
 
 Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigung reibungslos hinter sich bringen? Oder Sie möchten Ihre eigene Beerdigung planen, um Ihre Angehörigen nach Ihrem Tod zu entlasten? Dieser Artikel liefert Ihnen alle wichtigen Informationen, was Sie rund um die Organisation einer Bestattung beachten sollten.
