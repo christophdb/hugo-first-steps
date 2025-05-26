@@ -64,8 +64,12 @@
 
 
     <!-- social ... -->
-    {{ template "_internal/opengraph.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
+    {{ if hugo.IsProduction }}
+        {{ template "_internal/opengraph.html" . }}
+        {{ template "_internal/twitter_cards.html" . }}
+    {{ else }}
+        {{ "<!-- OpenGraph and Twitter cards are not generated in development mode -->" | safeHTML }}
+    {{ end }}
 
     {{ partialCached "head/css.html" . }}
     {{ partialCached "head/js.html" . }}
