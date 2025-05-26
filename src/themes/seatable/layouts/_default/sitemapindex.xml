@@ -1,4 +1,4 @@
-{{ if hugo.IsProduction }}
+{{- if hugo.IsProduction -}}
   {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><?xml-stylesheet type=\"text/xsl\" href=\"/main-sitemap.xsl\"?>" | safeHTML }}
   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {{ range . }}
@@ -10,4 +10,4 @@
     </sitemap>
     {{ end }}
   </sitemapindex>
-{{ end }}
+{{- end -}}
