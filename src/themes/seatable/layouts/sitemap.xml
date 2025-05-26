@@ -1,25 +1,26 @@
+{{- if hugo.IsProduction -}}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><?xml-stylesheet type=\"text/xsl\" href=\"/main-sitemap.xsl\"?>" | safeHTML }}
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<sitemap>
-    <loc>{{ print .Site.BaseURL .Site.Language.Lang "/post-sitemap.xml" }}</loc>
-    {{- $posts := where .Site.Pages "Section" "posts" -}}
-    {{ range $posts.ByLastmod.Reverse | first 1 }}
-      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
-    {{ end }}
-	</sitemap>
-	<sitemap>
-    <loc>{{ print .Site.BaseURL .Site.Language.Lang "/page-sitemap.xml" }}</loc>
-    {{- $pages := where .Site.Pages "Section" "pages" -}}
-    {{ range $pages.ByLastmod.Reverse | first 1 }}
-      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
-    {{ end }}
-	</sitemap>
-  <sitemap>
-    <loc>{{ print .Site.BaseURL .Site.Language.Lang "/help-sitemap.xml" }}</loc>
-    {{- $pages := where .Site.Pages "Section" "help" -}}
-    {{ range $pages.ByLastmod.Reverse | first 1 }}
-      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
-    {{ end }}
-	</sitemap>
-</sitemapindex>
-
+  <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+      <loc>{{ print .Site.BaseURL .Site.Language.Lang "/post-sitemap.xml" }}</loc>
+      {{- $posts := where .Site.Pages "Section" "posts" -}}
+      {{ range $posts.ByLastmod.Reverse | first 1 }}
+        <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+      {{ end }}
+    </sitemap>
+    <sitemap>
+      <loc>{{ print .Site.BaseURL .Site.Language.Lang "/page-sitemap.xml" }}</loc>
+      {{- $pages := where .Site.Pages "Section" "pages" -}}
+      {{ range $pages.ByLastmod.Reverse | first 1 }}
+        <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+      {{ end }}
+    </sitemap>
+    <sitemap>
+      <loc>{{ print .Site.BaseURL .Site.Language.Lang "/help-sitemap.xml" }}</loc>
+      {{- $pages := where .Site.Pages "Section" "help" -}}
+      {{ range $pages.ByLastmod.Reverse | first 1 }}
+        <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+      {{ end }}
+    </sitemap>
+  </sitemapindex>
+{{- end -}}
