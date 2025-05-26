@@ -7,7 +7,7 @@ author: 'kgr'
 url: '/de/to-do-liste-online'
 seo:
     title: 'To do Liste mit App online erstellen'
-    description: 'Welche App eignet sich für Ihre To-do-Liste und wie können Sie Ihre To do Liste mit einer Vorlage online erstellen? Lesen Sie hier mehr.
+    description: 'Welche App eignet sich für Ihre To-do-Liste und wie können Sie Ihre To do Liste mit einer Vorlage online erstellen? Lesen Sie hier mehr.'
 ---
 
 Eine online nutzbare To do Liste mit einer App zu erstellen und zu verwalten bringt viele Vorteile mit sich. Denn eine **To-do-Liste** unterstützt Sie sowohl im Privatleben als auch im beruflichen Tagesgeschäft dabei, Ihre Aufgaben effizient zu meistern und im stressigen Alltag nichts zu vergessen. Lesen Sie in diesem Artikel, warum Sie für Ihre To do Liste eine **Vorlage** einsetzen sollten und welche **App** sich für eine To do Liste anbietet.
