@@ -45,54 +45,96 @@ pageRef = "pages/product/seatable-server"
 weight = 24
 
 [[main]]
-name = "Industry solutions"
+name = "Solutions"
 pageRef = "#0"
 weight = 30
 
 [[main]]
 name = "Marketing"
-parent = "Industry solutions"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
 name = "Project management"
-parent = "Industry solutions"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
 name = "HR"
-parent = "Industry solutions"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
 name = "Public service"
-parent = "Industry solutions"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
 name = "Software development"
-parent = "Industry solutions"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/software-development"
 weight = 35
 
 [[main]]
 name = "Individual"
-parent = "Industry solutions"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
-name = "Prices"
-pageRef = "pages/prices"
+name = "Resources"
+pageRef = "#0"
 weight = 40
+
+#[[main]]
+#name = "Templates"
+#parent = "Resources"
+#pageRef = "pages/functions"
+#weight = 42
+
+[[main]]
+name = "Getting started"
+parent = "Resources"
+pageRef = "pages/quick-guide"
+weight = 43
+
+[[main]]
+name = "Online Courses"
+parent = "Resources"
+pageRef = "help/erste-schritte"
+weight = 44
+
+[[main]]
+name = "Help"
+parent = "Resources"
+pageRef = "help"
+weight = 45
+
+#[[main]]
+#name = "Integrations"
+#parent = "Resources"
+#pageRef = "posts"
+#weight = 46
+
+[[main]]
+name = "Forum"
+parent = "Ressourcen"
+url = "https://forum.seatable.io"
+weight = 47
 
 [[main]]
 name = "Blog"
+parent = "Resources"
 pageRef = "posts"
+weight = 48
+
+[[main]]
+name = "Prices"
+pageRef = "pages/prices"
 weight = 50
 
 # -- Footer Menu --
