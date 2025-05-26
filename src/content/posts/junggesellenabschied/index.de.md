@@ -62,14 +62,10 @@ Egal, ob Sie eine spaßige Aktivität oder eine luxuriöse Location suchen – d
 
 ### Städtetrips
 
-Abstandshalter
-
 - Köln
 - Hamburg
 - Berlin
 - München
-
-Abstandshalter
 
 - Frankfurt
 - Düsseldorf
@@ -82,14 +78,10 @@ Städtetrips können schnell teuer werden, da sie Unterkunft, Verpflegung und Ak
 
 ### Kurzurlaub
 
-Abstandshalter
-
 - Las Vegas
 - Mallorca
 - Budapest
 - Barcelona
-
-Abstandshalter
 
 - Prag
 - Amsterdam
@@ -102,14 +94,10 @@ Immer mehr Junggesellenabschiede erstrecken sich über ein ganzes Wochenende, an
 
 ### Adrenalin und Abenteuer
 
-Abstandshalter
-
 - Bungee-Jumping
 - Jet-Ski oder Kanutour
 - Kletterpark
 - Freizeitpark
-
-Abstandshalter
 
 - Laser-Tag oder Paintball
 - Kart oder Quad fahren
@@ -122,14 +110,10 @@ Viele Freizeitparks bieten spezielle Gruppenrabatte an, was sie zu einer erschwi
 
 ### Entspannung und Wellness
 
-Abstandshalter
-
 - Spa
 - Yoga-Retreat
 - Meditationskurs
 - Thermalbad
-
-Abstandshalter
 
 - Kräuterwanderung
 - Weinprobe
@@ -142,14 +126,10 @@ In den letzten Jahren ist ein Trend zu gesünderen Junggesellenabschieden entsta
 
 ### Kreativ-Kurse
 
-Abstandshalter
-
 - Sushi-Kochkurs
 - Töpferwerkstatt
 - Cocktail-Mixen
 - Fotografie-Exkursion
-
-Abstandshalter
 
 - Street-Art-Workshop
 - Goldschmiedekurs

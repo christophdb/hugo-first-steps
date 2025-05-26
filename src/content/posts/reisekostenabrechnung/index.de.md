@@ -65,15 +65,11 @@ Die Berechnung der Fahrtkosten erfolgt üblicherweise entweder über eine **Kilo
 
 Neben den großen Kostenpunkten einer Dienstreise können auch kleinere Ausgaben anfallen, die oft übersehen werden – die Reisenebenkosten. Diese sollten Sie jedoch ebenso in Ihrer Reisekostenabrechnung berücksichtigen. Hierzu zählen unter anderem:
 
-Abstandshalter
-
 - Parkgebühren
 - Mautgebühren
 - Fährkosten
 - Kosten für berufliche Telefonate
 - Schadensersatzforderungen im Falle eines Verkehrsunfalls
-
-Abstandshalter
 
 - Trinkgelder
 - Gepäckgebühren
