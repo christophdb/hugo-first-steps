@@ -1,12 +1,13 @@
 ---
 title: 'CSR – die Grundlagen der Corporate Social Responsibility'
+description: 'In einer Zeit, in der sich der Trend zur Nachhaltigkeit zunehmend verstärkt, stehen Unternehmen vor der Herausforderung, den höheren Ansprüchen ihrer Kunden gerecht zu werden. Die steigende Nachfrage nach nachhaltigen Produkten spiegelt sich im Verhalten der Verbraucher wider, die zunehmend Wert auf Umweltverträglichkeit und soziale Verantwortung legen – Stichwort: Corporate Social Responsibility (CSR). Doch wie können Sie Nachhaltigkeit im Unternehmen erfolgreich umsetzen?'
 date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
 url: '/de/csr'
 seo:
-    title:
-    description:
+    title: 'CSR – die Grundlagen der Corporate Social Responsibility'
+    description: 'Entdecken Sie die Vorteile von Corporate Social Responsibility (CSR) für Ihr Unternehmen – mit kostenloser Vorlage und Beispielen!'
 ---
 
 In einer Zeit, in der sich der Trend zur **Nachhaltigkeit** zunehmend verstärkt, stehen Unternehmen vor der Herausforderung, den höheren Ansprüchen ihrer Kunden gerecht zu werden. Die steigende Nachfrage nach nachhaltigen Produkten spiegelt sich im Verhalten der Verbraucher wider, die zunehmend Wert auf Umweltverträglichkeit und soziale Verantwortung legen – Stichwort: **Corporate Social Responsibility (CSR)**.

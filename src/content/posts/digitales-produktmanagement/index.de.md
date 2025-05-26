@@ -1,13 +1,14 @@
 ---
-title: 'Wie Sie mit SeaTable ein digitales Produktmanagement schaffen - SeaTable'
+title: 'Wie Sie mit SeaTable ein digitales Produktmanagement schaffen'
+description: ''
 date: 2021-10-07
 lastmod: '2023-07-11'
 author: 'ott'
 url: '/de/digitales-produktmanagement'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 Digitales Produktmanagement ist im heutigen Zeitalter unabdingbar im Umgang mit Produkten. Denn digital ist vieles so viel einfacher, als es noch früher war. Dabei ist es ein Ziel, die verschiedenen Schnittstellen des ganzen Produktmanagements von Beginn bis Ende abzubilden und dabei alle Informationen vollständig und kompakt zusammen zu tragen. Oft wird dabei zwischen verschiedenen Programmen und Tools hin- und hergewechselt – mit SeaTable ist das nicht mehr nötig.

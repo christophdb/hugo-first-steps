@@ -1,13 +1,14 @@
 ---
 title: 'Digitaler Nachlass: So können Sie Ihre Zugangsdaten verwalten'
+description: 'Heutzutage hat jeder von uns dutzende Online-Accounts. Wir kommunizieren über E-Mails, Messenger und soziale Medien, speichern wichtige Dateien und Fotos in der Cloud, betreiben Online-Banking und hinterlassen unzählige Spuren im Internet. Doch was passiert eigentlich mit all diesen Daten und Accounts, wenn man eines Tages stirbt? Der folgende Artikel klärt die häufigsten Fragen rund um den digitalen Nachlass.'
 date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
 url: '/de/digitaler-nachlass'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Digitaler Nachlass: So können Sie Ihre Zugangsdaten verwalten'
+    description: 'Heutzutage hat jeder dutzende Online-Accounts. Umso wichtiger ist ein digitaler Nachlass, in dem Sie all Ihre Zugangsdaten dokumentieren.'
 ---
 
 Im heutigen digitalen Zeitalter gewinnt unser **Online-Leben** immer weiter an Bedeutung: Wir kommunizieren über E-Mails, Messenger und soziale Medien, speichern wichtige Dateien und Fotos in der Cloud, betreiben Online-Banking und hinterlassen unzählige Spuren im Internet. Doch was passiert eigentlich mit all diesen Daten und Accounts, wenn man eines Tages stirbt? Stichwort: **digitaler Nachlass**.
