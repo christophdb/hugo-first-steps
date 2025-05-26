@@ -134,7 +134,7 @@ weight = 20
 [[footer]]
 name = "Краткое руководство"
 parent = "Поддержка"
-url = "https://seatable.io/kurzanleitung/?lang=auto"
+pageref = "pages/quick-guide"
 weight = 21
 
 [[footer]]

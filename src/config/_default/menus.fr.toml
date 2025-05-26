@@ -134,7 +134,7 @@ weight = 20
 [[footer]]
 name = "Guide de démarrage rapide"
 parent = "Soutien"
-url = "https://seatable.io/kurzanleitung/?lang=auto"
+pageref = "pages/quick-guide"
 weight = 21
 
 [[footer]]

@@ -171,4 +171,46 @@ sections:
       image: '/quick-guide/step11-get-notifications.gif'
       image_alt: ''
       image_position: right
+
+    - name: 'content-12'
+      weight: 13
+      title: Erstellen Sie eine Automatisierung
+      description: |
+          Automatisieren Sie wiederkehrende Aufgaben und Tätigkeiten. So sparen Sie Zeit und Mühen.<br><br>
+          Diese Aktionen können Sie in SeaTable auslösen:
+      items:
+          - text: Zeile hinzufügen
+          - text: Eintrag ändern
+          - text: Eintrag sperren
+          - text: Links hinzufügen
+          - text: Benachrichtigung versenden
+          - text: E-Mail versenden
+          - text: Python-Skript ausführen
+      image: '/quick-guide/step12-automation-rules.gif'
+      image_alt: ''
+      image_position: left
+
+    - name: 'content-12'
+      weight: 14
+      title: Bauen Sie komplexe Prozesse
+      description: |
+          Verbinden Sie SeaTable mit all Ihren Lieblings-Apps, um automatische Workflows zu erstellen.<br><br>
+          Folgende Integrationen bietet SeaTable:
+      items:
+          - text: REST-API
+          - text: Zapier
+          - text: Make.com
+          - text: n8n
+      image: '/quick-guide/step13-build-business-processes.gif'
+      image_alt: ''
+      image_position: right
+
+    - name: 'content-10'
+      weight: 15
+      title: Viel Spaß!
+      description: Sie kennen nun die Grundlagen von SeaTable und können beginnen, Ihre Business-Prozesse damit abzubilden.
+      buttons:
+          - label: Jetzt mit SeaTable starten
+            link: 'pages/registration'
+            style: primary
 ---
