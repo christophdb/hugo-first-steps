@@ -1,4 +1,4 @@
 ---
-title: 'Mejores Prácticas'
+title: 'Mejores prácticas'
 url: 'categories/mejores-prácticas'
 ---
