@@ -1,5 +1,9 @@
 ---
-title: 'Adventskalender selber machen: 24 Ideen zum Befüllen - SeaTable'
+title: 'Adventskalender selber machen: 24 Ideen zum Befüllen'
+description: 'Was es bei der Planung Ihres Vorhabens zu beachten gilt, womit Sie den Adventskalender befüllen und die Inhalte verpacken können und welche digitalen Alternativen es gibt, erfahren Sie in diesem Artikel.'
+seo:
+    title: "Adventskalender selber machen: Kreative Ideen & Anleitungen"
+    description: "Lerne, wie du einen einzigartigen Adventskalender erstellen kannst. Entdecke inspirierende Vorschläge und detaillierte Beschreibungen für eine festliche Zeit"
 date: 2024-10-28
 lastmod: '2024-10-28'
 author: 'lsc'
@@ -8,7 +12,7 @@ url: '/de/adventskalender-selber-machen'
 
 Alle Jahre wieder ist die **Vorfreude auf Weihnachten** groß. Der Geruch von frisch gebackenen Plätzchen liegt in der Luft, draußen fällt leise der Schnee und das erste Türchen am Adventskalender wartet bereits sehnsüchtig darauf, dass Sie es öffnen. So haben Sie im Dezember jeden Tag einen Grund, sich zu freuen. Noch größer ist die Freude, wenn Sie mit viel Hingabe einen **Adventskalender selber machen** und an Ihre Liebsten verschenken.
 
-Was es bei der Planung Ihres Vorhabens zu beachten gilt, womit Sie den Adventskalender befüllen und die Inhalte verpacken können und welche digitalen Alternativen es gibt, erfahren Sie in diesem Artikel.
+
 
 ## Warum einen Adventskalender selber machen?
 

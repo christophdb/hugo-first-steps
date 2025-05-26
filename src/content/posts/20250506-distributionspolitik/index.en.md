@@ -8,7 +8,7 @@ date: 2025-05-06
 categories:
     - 'General'
 tags:
-- "Distribution"
+   - "Distribution"
 url: '/distribution-policy'
 color: '#e9d3b4'
 ---
