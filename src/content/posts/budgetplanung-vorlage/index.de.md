@@ -1,12 +1,13 @@
 ---
 title: 'Budgetplanung: Vorteile, Arten, Tipps und ein Beispiel mit Vorlage'
+description: 'Die Budgetplanung definiert, wie der Name schon vermuten lässt, den Rahmen für die Verteilung Ihres Budgets. Sie unterstützt Sie dabei, Geld und Ressourcen sinnvoll zu verteilen und so Ihre Geschäfts- und Projektziele zu erreichen. Durch die Budgetplanung sorgen Sie dafür, dass Führungskräfte Ziele klar definieren und Schritte zu deren Erreichung ergreifen. Lesen Sie, wie die effiziente Budgetplanung funktioniert.'
 date: 2023-12-13
 lastmod: '2025-02-03'
 author: 'rdb'
 url: '/de/budgetplanung-vorlage'
 seo:
-    title:
-    description:
+    title: 'Budgetplanung: Vorteile, Arten, Tipps und ein Beispiel mit Vorlage'
+    description: 'Wie funktioniert die effiziente Budgetplanung mit einer Vorlage und was gilt es zu beachten? Lesen Sie hier unsere Tipps inklusive Beispiel.'
 ---
 
 ## Vorteile, Arten, Tipps der Budgetplanung
