@@ -1,12 +1,13 @@
 ---
 title: 'Haushaltsbuch führen: Mit diesen 12 Tipps sparen Sie bares Geld'
+description: 'Die eigenen Ausgaben im Blick zu behalten ist manchmal gar nicht so leicht. Viel zu oft passiert es, dass das Geld am Ende des Monats einfach weg ist und man sich kaum erinnern kann, wofür man es eigentlich ausgegeben hat. Ein Haushaltsbuch hilft Ihnen, Ordnung in das Finanzchaos zu bringen!'
 date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
 url: '/de/haushaltsbuch-fuehren'
 seo:
-    title:
-    description:
+    title: 'Haushaltsbuch führen: Mit diesen 12 Tipps sparen Sie bares Geld'
+    description: 'Alle Ausgaben im Blick zu behalten ist manchmal gar nicht so leicht. Ein Haushaltsbuch hilft Ihnen, Ordnung in das Finanzchaos zu bringen!'
 ---
 
 Die eigenen Ausgaben im Blick zu behalten ist manchmal gar nicht so leicht. Viel zu oft passiert es, dass das Geld am Ende des Monats einfach weg ist und man sich kaum erinnern kann, wofür man es eigentlich ausgegeben hat. Genau dann schafft ein **Haushaltsbuch** Abhilfe und bringt Ordnung in das Finanzchaos!

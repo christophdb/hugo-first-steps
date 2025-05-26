@@ -1,12 +1,13 @@
 ---
 title: 'Hausverwaltung leicht gemacht: Immobilien professionell managen'
+description: 'Wenn Sie Immobilien vermieten, sollten Sie für eine gute Hausverwaltung sorgen – egal, ob Sie privat vermieten oder im großen Stil. Von der Betriebskostenabrechnung bis zur Kommunikation mit Mietern und Dienstleistern: Die Aufgaben der Hausverwaltung sind vielfältig. In diesem Artikel erfahren Sie, wie Sie den Überblick über alle Immobilien, Mieter, Zahlungen, Dokumente und Aufgaben behalten.'
 date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
 url: '/de/hausverwaltung'
 seo:
-    title:
-    description:
+    title: 'Hausverwaltung leicht gemacht: Immobilien professionell managen'
+    description: 'Wenn Sie Immobilien vermieten, sollten Sie für eine gute Hausverwaltung sorgen – egal, ob Sie privat vermieten oder im großen Stil.'
 ---
 
 Die **Vermietung von Immobilien** ist sowohl privat als auch für Unternehmen und Kommunen ein lohnendes Geschäft. Wenn Sie Immobilien bewirtschaften, müssen Sie aber eine funktionierende **Hausverwaltung** gewährleisten – egal, ob Sie privat einzelne Wohnungen vermieten oder im großen Stil mit einer Firma.
