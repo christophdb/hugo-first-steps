@@ -45,43 +45,43 @@ pageRef = "pages/product/seatable-server"
 weight = 24
 
 [[main]]
-name = "Solutions sectorielles"
+name = "Solutions"
 pageRef = "#0"
 weight = 30
 
 [[main]]
 name = "Marketing"
-parent = "Solutions sectorielles"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
 name = "Gestion de projet"
-parent = "Solutions sectorielles"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
 name = "RH"
-parent = "Solutions sectorielles"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
 name = "Service public"
-parent = "Solutions sectorielles"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
 name = "Développement de logiciels"
-parent = "Solutions sectorielles"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/software-development"
 weight = 35
 
 [[main]]
 name = "Individuel"
-parent = "Solutions sectorielles"
+parent = "Solutions"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
 
@@ -122,7 +122,7 @@ weight = 45
 
 [[main]]
 name = "Forum"
-parent = "Ressourcen"
+parent = "Ressources"
 url = "https://forum.seatable.io"
 weight = 47
 

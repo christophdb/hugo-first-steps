@@ -45,43 +45,43 @@ pageRef = "pages/product/seatable-server"
 weight = 24
 
 [[main]]
-name = "Soluções para o sector"
+name = "Soluções"
 pageRef = "#0"
 weight = 30
 
 [[main]]
 name = "Marketing"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
 name = "Gestão de projectos"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
 name = "Recursos humanos"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
 name = "Serviço público"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
 name = "Desenvolvimento de software"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/software-development"
 weight = 35
 
 [[main]]
 name = "Personalizado"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
 
