@@ -1,12 +1,13 @@
 ---
 title: 'Gender Reveal Party: So wird Ihre Babyparty ein Erfolg'
+description: 'Ein Baby ist auf dem Weg und Sie möchten das gebührend feiern? Dann ist eine Gender Reveal Party das Richtige für Sie. Bei diesem Trend aus den USA wird das Geschlecht des Babys auf imposante Weise enthüllt. Wenn Sie solch eine Babyparty organisieren möchten, müssen Sie genauestens planen, wie Sie Dekoration, Essen und Programm aufeinander abstimmen.'
 date: 2024-02-16
 lastmod: '2024-02-16'
 author: 'lsc'
 url: '/de/gender-reveal-party'
 seo:
-    title:
-    description:
+    title: 'Gender Reveal Party: So wird Ihre Babyparty ein Erfolg'
+    description: 'Ein Baby ist auf dem Weg und Sie möchten das mit einer Gender Reveal Party feiern? Hier erfahren Sie, wie Sie so eine Babyparty organisieren.'
 ---
 
 Ein Baby ist auf dem Weg und Sie möchten das gebührend feiern? Dann ist eine **Gender Reveal Party** das Richtige für Sie. Bei diesem Trend aus den USA wird das Geschlecht des Babys auf imposante Weise enthüllt. Wenn Sie solch eine **Babyparty** organisieren möchten, müssen Sie genauestens planen, wie Sie Dekoration, Essen und Programm aufeinander abstimmen.

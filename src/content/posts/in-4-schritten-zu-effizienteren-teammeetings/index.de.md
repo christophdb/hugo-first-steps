@@ -1,13 +1,14 @@
 ---
-title: 'In 4 Schritten zu effizienteren Teammeetings - SeaTable'
+title: 'In 4 Schritten zu effizienteren Teammeetings'
+description: ''
 date: 2021-10-21
 lastmod: '2024-08-09'
 author: 'ott'
 url: '/de/in-4-schritten-zu-effizienteren-teammeetings'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 Teammeetings sind ein essenzieller Bestandteil des täglichen Arbeitslebens. Projekte müssen abgestimmt, Texte freigegeben und Entscheidungen getroffen werden. Denn ohne regelmäßige Kommunikation geht nichts voran. Daher sind Meetings häufig in den Kalendern von Arbeitnehmern zu finden: [Mehr als 15 Stunden im Monat](https://news.it-matchmaker.com/meetings-zeitverschwendung-statt-erfolgsfaktor/) verbringen sie in Besprechungen aller Art – aber oft sind diese nicht sehr ergebnisreich. Fehlende Effizienz und somit Verschwendung wertvoller Arbeitszeit kann ein enormes Problem von Meetingkulturen sein.

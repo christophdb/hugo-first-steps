@@ -1,13 +1,14 @@
 ---
-title: 'Die perfekte Hochzeitsplanung mit SeaTable - SeaTable'
+title: 'Die perfekte Hochzeitsplanung mit SeaTable'
+description: ''
 date: 2021-07-22
 lastmod: '2023-07-11'
 author: 'rbu'
 url: '/de/hochzeitsplanung-wedding-planner'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 Einer der schönsten und wichtigsten Tage im Leben steht vor der Tür: die eigene Hochzeit. Hier soll auf keinen Fall etwas schief gehen, weshalb eine strukturierte Hochzeitsplanung von großer Bedeutung für die meisten Paare ist. Was muss man bereits 12 Monate vor der Hochzeit erledigen, was ist 5 Monate vor dem großen Tag alles zu tun? Hat man nicht die finanziellen Mittel, sich einen professionellen Hochzeitsplaner zu engagieren, oder hat man ganz einfach Spaß an der Planung der eigenen Hochzeit, so hilft SeaTable bei der Hochzeitsplanung nicht den Überblick zu verlieren.

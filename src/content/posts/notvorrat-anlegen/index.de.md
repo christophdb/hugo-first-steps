@@ -1,12 +1,13 @@
 ---
 title: 'Notvorrat anlegen: Was Sie immer zuhause haben sollten'
+description: 'Was würden Sie tun, wenn plötzlich flächendeckend die Strom- und Wasserversorgung ausfällt? In Deutschland ist das zwar sehr unwahrscheinlich, in anderen Teilen der Welt kommen Schäden an der Infrastruktur jedoch häufiger vor. Auf solche und andere Notsituationen sind viele nicht ausreichend vorbereitet. Deshalb ist es ratsam, für den Fall der Fälle optimal vorzusorgen und einen Notvorrat mit Nahrungsmitteln, Wasser, Hygieneartikeln und Medikamenten anzulegen. Im Artikel erfahren Sie alles, was Sie dazu wissen müssen.'
 date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
 url: '/de/notvorrat-anlegen'
 seo:
-    title:
-    description:
+    title: 'Notvorrat anlegen: Was Sie immer zuhause haben sollten'
+    description: 'Wenige Menschen sind auf eine Notsituation ausreichend vorbereitet. Hier erfahren Sie, was Sie für Ihren individuellen Notvorrat brauchen.'
 ---
 
 Was würden Sie tun, wenn plötzlich flächendeckend die Strom- und Wasserversorgung ausfällt? In Deutschland ist das zwar sehr unwahrscheinlich, in anderen Teilen der Welt kommen Schäden an der Infrastruktur jedoch häufiger vor. Auf solche und andere **Notsituationen** sind viele nicht ausreichend vorbereitet.

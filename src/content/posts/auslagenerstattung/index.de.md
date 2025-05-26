@@ -1,12 +1,13 @@
 ---
 title: 'Auslagenerstattung – Tipps für Arbeitgeber und Arbeitnehmer'
+description: Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der Auslagenerstattung zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung effizienter zu gestalten? Dann finden Sie im Artikel alles Wissenswerte und eine kostenlose Vorlage zur Auslagenerstattung in Ihrem Unternehmen.
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
 url: '/de/auslagenerstattung'
 seo:
-    title:
-    description:
+    title: Auslagenerstattung – Tipps für Arbeitgeber und Arbeitnehmer
+    description: Erfahren Sie alles, was Sie über Auslagenerstattung wissen müssen. Inklusive Tipps und kostenloser Vorlage!
 ---
 
 Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?

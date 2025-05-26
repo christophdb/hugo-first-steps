@@ -1,13 +1,14 @@
 ---
-title: 'Wie Sie eine Content Marketing Strategie entwickeln - SeaTable'
+title: 'Wie Sie eine Content Marketing Strategie entwickeln'
+description: 'Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren.'
 date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
 url: '/de/content-marketing'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Wie Sie eine Content Marketing Strategie entwickeln'
+    description: 'Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren.'
 ---
 
 Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren. Der grundsätzliche Gedanke hinter Content Marketing ist dabei denkbar einfach: Man erstellt Inhalte für seine Zielgruppe, publiziert diese und begeistert seine Kunden.
