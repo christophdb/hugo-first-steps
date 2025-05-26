@@ -98,7 +98,7 @@ sections:
           - number: '4.6'
             text: 'Рейтинг на Capterra'
       buttons:
-          - link: 'categories/Истории-клиентов/'
+          - link: 'categories/customer-story'
             label: 'Читать другие истории успеха'
             id: ru-homepage-customer-1
 
