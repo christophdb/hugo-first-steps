@@ -82,15 +82,11 @@ Stellen Sie sich vor, der langersehnte Urlaub steht bevor und Sie haben eine per
 
 ### Dokumente
 
-Abstandshalter
-
 - Reisepass
 - Personalausweis
 - Führerschein
 - Impfpass
 - Visum
-
-Abstandshalter
 
 - Krankenversichertenkarte
 - Auslandskrankenversicherung
@@ -104,15 +100,11 @@ Wichtige Dokumente können Sie vor Ihrem Urlaub kopieren, damit Sie abgesichert 
 
 ### Kleidung
 
-Abstandshalter
-
 - Pullover
 - Jacke
 - Hosen
 - T-Shirts
 - Je nach Urlaub Badesachen, Skikleidung etc.
-
-Abstandshalter
 
 - Mützen/Caps
 - Pyjama
@@ -126,15 +118,11 @@ Checken Sie vor Ihrer Reise, wie das Wetter an Ihrem Reiseort sein wird.
 
 ### Hygiene
 
-Abstandshalter
-
 - Haarbürste oder Kamm
 - Deo
 - Shampoo und Duschgel
 - Rasierer
 - Zahnbürste und Zahnpasta
-
-Abstandshalter
 
 - Schminkutensilien
 - Damenhygieneartikel
@@ -148,15 +136,11 @@ Informieren Sie sich im Vorfeld, ob Handtücher und andere Hygieneartikel inklus
 
 ### Arznei
 
-Abstandshalter
-
 - Schmerzmittel
 - Durchfallmedikamente
 - Fiebersenker
 - Reisetabletten
 - Sonnencreme
-
-Abstandshalter
 
 - (Blasen-)Pflaster
 - Mückenschutz
@@ -169,13 +153,9 @@ Um im Urlaub gegen alles gewappnet zu sein, sollten Sie an eine kleine Reiseapot
 
 ### Elektronik
 
-Abstandshalter
-
 - Handy
 - Kopfhörer
 - Laptop
-
-Abstandshalter
 
 - Ladekabel
 - Kamera
@@ -186,13 +166,9 @@ Achten Sie darauf, elektronische Geräte sicher zu verstauen, sodass nichts kapu
 
 ### Sonstiges
 
-Abstandshalter
-
 - Schlüssel
 - Schlafmaske
 - Ohrenstöpsel
-
-Abstandshalter
 
 - (Sonnen-)Brille oder Kontaktlinsen
 - Reiseproviant

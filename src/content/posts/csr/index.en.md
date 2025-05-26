@@ -73,15 +73,11 @@ Ziele im Bereich der Nachhaltigkeit können sich als **langwierig** erweisen und
 
 Im Rahmen ihrer Corporate Social Responsibility (CSR) haben Unternehmen die Möglichkeit, eine Vielzahl von Maßnahmen zu ergreifen. Diese Maßnahmen tragen dazu bei, einen positiven Beitrag zu leisten und das Unternehmen als sozial verantwortlich und nachhaltig zu positionieren. Hier sind einige konkrete Beispiele:
 
-Abstandshalter
-
 - Flexible Arbeitsmodelle
 - E-Autos als Firmenwagen
 - Spendenaktionen
 - Geschäftsreisen reduzieren
 - Recycling und Abfallvermeidung
-
-Abstandshalter
 
 - Erneuerbare Energien
 - Weiterbildung der Mitarbeiter
