@@ -5,6 +5,9 @@ lastmod: '2022-06-13'
 author: 'rbu'
 url: '/es/studentenplaner'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 El semestre de invierno de 2020 está a la vuelta de la esquina y ¿quieres empezar de verdad esta vez? SeaTable le ofrece la solución perfecta. Ahora puedes hacer un seguimiento de todos tus exámenes, entregas y otras tareas pendientes. siempre a la vista. Su planificador individual para estudiantes se adapta a sus necesidades en un abrir y cerrar de ojos. Veamos con más detalle la SeaTable ya preparada plantilla con más detalle:

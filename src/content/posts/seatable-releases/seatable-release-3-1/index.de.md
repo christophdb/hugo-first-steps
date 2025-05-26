@@ -5,6 +5,9 @@ lastmod: '2022-08-26'
 author: 'rdb'
 url: '/de/seatable-release-3-1'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Wir freuen uns, die neueste Version von SeaTable vorzustellen! Das Release ist zwar nur ein “Minor” Release, kommt aber ganz groß daher. Das erweiterte Seitendesign Plugin bietet nun mehr Optionen, um anspruchsvolle Vorlagen zu gestalten und zu verwalten. Neue Funktionen erlauben darüber hinaus ganz neue Einsatzszenarien. Das gleich tut auch das Big Data Backend, das mit der Version 3.1 Produktivreife erhält. Das Enterprise Feature sprengt SeaTables bisheriges Limit von 100.000 Zeilen pro Base und macht SeaTable damit bereit für größere Aufgaben. Größere Teams werden sich über die Möglichkeit freuen, Gruppen auf der Homepage sortieren und Ansichten in Bases kategorisieren zu können. Diese Highlights und ein paar weitere Neuerungen stellen wir in hier vor. Das Changelog enthält die vollständige Liste der Änderungen.

@@ -5,6 +5,9 @@ lastmod: '2024-01-15'
 coverImage: 'Workshops.jpg'
 author: 'kgr'
 url: '/workshop-planen'
+seo:
+    title: ''
+    description: ''
 ---
 
 Nowadays, lifelong learning is one of the most important things when it comes to **professional qualifications** and **personal development**. Whether it's a workshop, training or further education: As an employer, it is essential that you support your employees and offer them opportunities for further development. For many employees today, this is part of an attractive job and **your company benefits** in many ways from well-trained employees.

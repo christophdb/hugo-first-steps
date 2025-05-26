@@ -7,6 +7,9 @@ tags:
 color:
 url:
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ## Neues Design

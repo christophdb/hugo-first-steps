@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/fr/bugtracker-software'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Lors du développement de logiciels complexes, les erreurs sont inévitables. [Les bugs](https://www.arksolutions.de/gs/project/blog/bug-programmfehler) apparaissent toujours pendant la phase de développement et doivent donc être documentés et résolus dans un bugtracker. Sans un logiciel bien structuré, la recherche, le suivi et la surveillance des bugs peuvent vite devenir confus et faire perdre un temps précieux.

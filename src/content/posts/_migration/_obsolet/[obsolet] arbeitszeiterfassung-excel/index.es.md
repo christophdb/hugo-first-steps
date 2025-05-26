@@ -6,6 +6,9 @@ author: 'ott'
 url: '/es/arbeitszeiterfassung-excel'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ¿Conoce ya los [requisitos legales](https://seatable.io/es/zeiterfassung-mitarbeiter/) para el registro electrónico del tiempo de trabajo? Si es así, probablemente esté buscando la mejor solución de software para sus necesidades. Hay opciones para todos los gustos, pero las licencias de software para cada empleado pueden salir muy caras, ya sea con software especializado como Personio o Clockodo o con una hoja de cálculo como Microsoft Excel. De todos modos, en muchas empresas que utilizan el paquete Office de Microsoft, se utiliza Excel para registrar el tiempo de trabajo, aunque esto tiene algunas desventajas. Por lo tanto, en este artículo aprenderá qué alternativa rentable existe y cómo se compara con Excel.

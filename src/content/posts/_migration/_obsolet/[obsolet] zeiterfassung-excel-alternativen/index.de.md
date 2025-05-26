@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/de/zeiterfassung-excel-alternativen'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Wie funktioniert die **Zeiterfassung in Excel** und welche Alternativen bieten sich Ihnen? Im Folgenden erfahren Sie, wie Sie die Zeiterfassung mit Excel oder einem alternativen Tool umsetzen. Lernen Sie außerdem die Vor- und Nachteile der verschiedenen Lösungen kennen. Welche passt zu Ihrem Unternehmen?

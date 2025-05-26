@@ -5,6 +5,9 @@ lastmod: '2023-04-25'
 author: 'kgr'
 url: '/de/arbeitszeiterfassung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Wahrscheinlich haben Sie es bereits aus den Medien erfahren: Das Bundesarbeitsministerium plant für 2023 eine Reform des Arbeitszeitgesetzes. Doch was ändert sich dadurch für Sie und Ihr Unternehmen? Müssen Sie teure Zeiterfassungssysteme anschaffen oder reicht eine [kostenlose Software](https://seatable.io/arbeitszeiterfassung/)? In diesem Artikel zeigen wir Ihnen, wie Sie die Zeiterfassung Ihrer Mitarbeiter mit minimalem Verwaltungsaufwand umsetzen und dabei geltendes Recht einhalten.

@@ -5,6 +5,9 @@ lastmod: '2024-05-02'
 author: 'nsc'
 url: '/fr/lernplan-erstellen'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 De nombreux élèves et étudiants sont pris dans un tourbillon de procrastination et d'apprentissage de dernière minute. Peut-être que vous aussi, vous repoussez une fois de plus l'étude jusqu'à ce que, la dernière nuit avant l'examen, vous deviez bachoter pendant des heures pour acquérir tant bien que mal les connaissances nécessaires. Mais ne vous inquiétez pas, il existe une meilleure solution : établissez un **plan d'étude** efficace !

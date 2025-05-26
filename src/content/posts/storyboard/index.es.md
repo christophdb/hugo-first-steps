@@ -4,6 +4,9 @@ date: 2024-03-26
 lastmod: '2024-03-26'
 author: 'nsc'
 url: '/es/storyboard'
+seo:
+    title:
+    description:
 ---
 
 Tanto si estás creando un vídeo de imagen para tu empresa, un cortometraje para un festival de cine o la próxima superproducción de Hollywood, la creación de un guión **gráfico** puede marcar la diferencia. Un guión gráfico no es sólo una herramienta para estructurar tus **ideas creativas**, sino también para garantizar un **proceso de producción fluido**. En este artículo se explican la importancia y las ventajas de los guiones gráficos para proyectos cinematográficos de todo tipo y se presenta una plantilla de guión gráfico gratuita que le ayudará a dar vida a su visión.

@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'pbr'
 url: '/pt/supply-chain-management'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 O encadeamento de vários processos ao longo da cadeia de valor de um produto é muito complexo: desde a aquisição, passando pelo armazenamento, até ao cliente final. Os processos e procedimentos devem ser sempre eficazmente planeados, cumpridos e optimizados para que o cliente final também receba o produto desejado na altura certa, nomeadamente quando o desejar. O SeaTable dá-lhe a oportunidade de mapear de forma óptima a gestão da sua cadeia de abastecimento e de permanecer sempre no controlo de toda a cadeia de valor.

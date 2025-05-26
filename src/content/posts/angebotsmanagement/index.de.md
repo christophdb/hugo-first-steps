@@ -5,6 +5,9 @@ lastmod: '2022-07-27'
 author: 'rdb'
 url: '/de/angebotsmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Eine Sache ist entscheidend für eine erfolgreiche Vertriebsarbeit: das **Angebotsmanagement**. Doch worauf kommt es dabei an? Welche Fehler sollten auf keinen Fall auftauchen? Und was steckt überhaupt hinter dem Begriff „Angebotsmanagement“?

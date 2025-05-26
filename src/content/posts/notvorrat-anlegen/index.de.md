@@ -4,6 +4,9 @@ date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
 url: '/de/notvorrat-anlegen'
+seo:
+    title:
+    description:
 ---
 
 Was würden Sie tun, wenn plötzlich flächendeckend die Strom- und Wasserversorgung ausfällt? In Deutschland ist das zwar sehr unwahrscheinlich, in anderen Teilen der Welt kommen Schäden an der Infrastruktur jedoch häufiger vor. Auf solche und andere **Notsituationen** sind viele nicht ausreichend vorbereitet.

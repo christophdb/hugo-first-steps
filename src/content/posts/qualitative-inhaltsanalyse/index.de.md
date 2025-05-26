@@ -4,6 +4,9 @@ date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
 url: '/de/qualitative-inhaltsanalyse'
+seo:
+    title:
+    description:
 ---
 
 Ob in der Forschung oder in der Arbeitswelt: Eine **qualitative Inhaltsanalyse** hilft Ihnen, strukturiert Datenmaterial auszuwerten. Wie Sie dabei am besten vorgehen und worauf Sie achten sollten, erfahren Sie in diesem Artikel. Im Anschluss wird die Durchführung einer Inhaltsanalyse auch an einem **Pressespiegel** beleuchtet.

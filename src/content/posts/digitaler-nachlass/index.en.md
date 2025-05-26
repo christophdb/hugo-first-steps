@@ -5,6 +5,9 @@ lastmod: '2023-10-31'
 author: 'kgr'
 url: '/digitaler-nachlass'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 In today's digital age, our **online lives** are becoming increasingly important: we communicate via e-mail, messenger and social media, store important files and photos in the cloud, do online banking and leave countless traces on the Internet. But what actually happens to all this data and accounts when you die one day? Keyword: **digital estate**.

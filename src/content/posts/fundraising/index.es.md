@@ -4,6 +4,9 @@ date: 2024-04-16
 lastmod: '2024-04-16'
 author: 'nsc'
 url: '/es/fundraising'
+seo:
+    title:
+    description:
 ---
 
 La **recaudación de fondos** es algo más que una estrategia de financiación: es una forma de alcanzar objetivos en común. Desde el apoyo a **organizaciones sin ánimo de lucro** y **campañas políticas** hasta la financiación de **innovaciones empresariales**, impregna casi todos los ámbitos de la vida social. Se sirve de diversas estrategias para promover el compromiso y la solidaridad de las personas.

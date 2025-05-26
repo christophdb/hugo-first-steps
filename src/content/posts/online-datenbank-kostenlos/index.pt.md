@@ -5,6 +5,9 @@ lastmod: '2022-07-27'
 author: 'rdb'
 url: '/pt/online-datenbank-kostenlos'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Uma base de dados serve como base para a recolha, processamento e exibição de dados. Resumem a informação com características comuns e facilitam a gestão. Nem sempre é necessário ter conhecimentos de programação para criar e trabalhar com uma base de dados. Algumas bases de dados em linha têm a vantagem de serem simultaneamente gratuitas e fáceis de utilizar. Neste artigo comparámos as nove melhores bases de dados em linha gratuitas.

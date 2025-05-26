@@ -5,6 +5,9 @@ lastmod: '2023-11-06'
 author: 'cdb'
 url: '/de/immobilienverwaltung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Wir kümmern uns um Ihre Organisation – ganz egal, ob Sie Ihre Immobilien übersichtlich verwalten möchten, auf der Suche nach einer Wohnung sind oder bereits den nächsten Umzug planen.

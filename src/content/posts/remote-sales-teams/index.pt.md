@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/pt/remote-sales-teams'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e, consequentemente, [a produtividade](https://seatable.io/pt/homeoffice-tipps/) é muitas vezes [prejudicada](https://seatable.io/pt/homeoffice-tipps/). Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.

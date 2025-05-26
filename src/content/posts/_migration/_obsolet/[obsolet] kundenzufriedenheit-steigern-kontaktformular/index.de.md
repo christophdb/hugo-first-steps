@@ -6,6 +6,9 @@ author: 'ott'
 url: '/de/kundenzufriedenheit-steigern-kontaktformular'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Die Kundenzufriedenheit zu steigern ist heutzutage das A und O für den Erfolg von Unternehmen. Ohne zufriedene Kunden fehlt die Basis für persönliche Empfehlungen und [Word of Mouth](https://www.sem-deutschland.de/inbound-marketing-agentur/online-marketing-glossar/was-ist-word-of-mouth-marketing/), eine der wichtigsten Werkzeuge, wenn es um Reichweitenaufbau geht. Noch viel schlimmer: Unzufriedene Kunden äußern ihre Meinung viel eher, als zufriedene Kunden. Und schlechte Bewertungen führen im Internet sehr schnell zu längerfristigen Image-Problemen.

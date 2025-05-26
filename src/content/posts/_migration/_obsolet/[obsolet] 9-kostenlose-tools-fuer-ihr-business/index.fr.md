@@ -6,6 +6,9 @@ author: 'ott'
 url: '/fr/9-kostenlose-tools-fuer-ihr-business'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Des outils professionnels gratuits ? Yes, please ! Pour les start-ups et les petites entreprises, il n'est souvent pas encore possible d'investir dans des outils payants. Les ressources sont limitées et il faut gérer au plus près, car l'utilisation de logiciels ou d'outils représente rapidement une somme importante par mois.

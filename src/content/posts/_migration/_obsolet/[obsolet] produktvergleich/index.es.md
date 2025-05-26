@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/es/produktvergleich'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 No existe una única SeaTable, sino que se puede conseguir en tres versiones diferentes. La elección de su sistema SeaTable tiene una gran repercusión en la rapidez con la que puede empezar a trabajar, en la cantidad de tareas que debe realizar, en el precio que paga y en el control que tiene sobre sus propios datos. Este artículo le dará una visión completa de los productos que tiene a su disposición y de las ventajas de cada uno de ellos. Al final de este texto, sabrá qué SeaTable es la adecuada para usted. Prometido.

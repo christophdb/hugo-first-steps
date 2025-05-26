@@ -5,6 +5,9 @@ lastmod: '2022-07-27'
 author: 'cdb'
 url: '/es/incident-management'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 En el desarrollo de software, el seguimiento y la gestión de los errores y los problemas pueden resultar rápidamente confusos. Las herramientas apropiadas, denominadas **rastreadores** de errores y **problemas**, le ayudan a solucionar los errores de forma rápida y eficaz. Lea en este artículo qué programas pueden ayudarle en la gestión de bichos y cuáles son las diferencias.

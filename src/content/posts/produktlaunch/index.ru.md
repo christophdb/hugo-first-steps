@@ -5,6 +5,9 @@ lastmod: '2022-06-13'
 author: 'rbu'
 url: '/ru/produktlaunch'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Как только вы успешно завершили процесс разработки продукта, ничто не стоит на пути к его запуску.

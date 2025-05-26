@@ -6,6 +6,9 @@ author: 'pbr'
 url: '/fr/kontaktdatenerfassung-fuer-die-corona-nachverfolgung-in-der-gastronomie'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 La saisie des données de contact dans le secteur de la restauration pour le suivi des chaînes d'infection Covid19 est un élément central de l'ensemble des mesures visant à endiguer la propagation du nouveau virus Corona. Avec notre Guest Registration Template, vous disposez d'une solution numérique simple pour mettre fin à la gestion fastidieuse des fiches lors de la saisie des données de contact Corona : Au lieu d'écrire ses coordonnées sur papier, l'invité les saisit dans un formulaire web sur son smartphone. Pour ouvrir le formulaire web, il suffit à votre invité de scanner un code QR avec l'appareil photo de son téléphone portable. Le stockage des informations de contact se fait dans un centre de données allemand et vous pouvez suivre la saisie des informations de contact en temps réel via votre compte client SeaTable. Commencez [dès maintenant](https://seatable.io/fr/enregistrement/) à utiliser gratuitement la solution tout-en-un pour la saisie des données de contact dans les restaurants, bars et cafés !

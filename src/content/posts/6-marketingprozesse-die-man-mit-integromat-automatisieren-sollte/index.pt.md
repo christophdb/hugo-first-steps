@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'cdb'
 url: '/pt/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 O sucesso no marketing é muitas vezes o resultado de um trabalho consistente e persistente na relação com os clientes actuais e futuros. O departamento de marketing típico não se ocupa de um processo de marketing central, mas de muitos pequenos processos interligados que têm como objetivo criar interesse em potenciais clientes, melhorar a experiência do cliente ou participar em trocas regulares. É precisamente devido a esta pequenez e à constante repetição de tarefas que faz sentido automatizar todos os processos de marketing que podem ser automatizados. Desta forma, poupa tempo e pode concentrar-se no seu trabalho criativo. Porque é aqui que a verdadeira criação de valor do marketing tem lugar e este trabalho será difícil de automatizar no futuro.

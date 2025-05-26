@@ -6,6 +6,9 @@ author: 'ott'
 url: '/pt/4-time-blocking-varianten-fuer-mehr-produktivitaet'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 O trabalho diário é muitas vezes stressante e por vezes simplesmente não corre como se imaginava pela manhã. Os seus planos para o dia foram completamente perturbados por telefonemas, reuniões e e-mails e, no final do dia, pergunta-se: o que é que eu consegui realmente fazer? Para evitar que tais situações se repitam, deve familiarizar-se com o Bloqueio de Tempo.

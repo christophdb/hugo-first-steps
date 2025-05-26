@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/pt/hochzeitsplanung-wedding-planner'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Um dos dias mais bonitos e importantes da vida está mesmo ao virar da esquina: o seu próprio casamento. Nada deve correr mal aqui, e é por isso que o planeamento estruturado do casamento é de grande importância para a maioria dos casais. O que precisa de ser feito 12 meses antes do casamento, o que precisa de ser feito 5 meses antes do grande dia? Se não tiver meios financeiros para contratar um organizador de casamentos profissional, ou se simplesmente gostar de planear o seu próprio casamento, a SeaTable ajuda-o a não perder a visão geral ao planear o seu casamento.

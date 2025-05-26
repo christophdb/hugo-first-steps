@@ -6,6 +6,9 @@ coverImage: 'Bücher-katalogisieren_AdobeStock_144344997_bearbeitet-1.jpg'
 author: 'cdb'
 url: '/buecher-katalogisieren'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Do you love reading and can't get enough of books? That's wonderful, because there's no better way to immerse yourself in foreign worlds than with a book. But do you know exactly how many and which books you own right away? And where which book is currently located? If not, there is the perfect solution, because with the right apps you can catalog your books - easily, quickly and without much effort.

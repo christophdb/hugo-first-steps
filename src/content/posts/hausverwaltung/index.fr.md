@@ -4,6 +4,9 @@ date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
 url: '/fr/hausverwaltung'
+seo:
+    title:
+    description:
 ---
 
 La **location de biens immobiliers** est une activité rentable, tant pour les particuliers que pour les entreprises et les communes. Si vous gérez des biens immobiliers, vous devez toutefois garantir le bon fonctionnement de la **gestion immobilière**, que vous louiez des appartements individuels à titre privé ou à grande échelle avec une entreprise.

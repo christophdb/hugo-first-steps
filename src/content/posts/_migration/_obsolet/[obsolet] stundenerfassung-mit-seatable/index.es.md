@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/es/stundenerfassung-mit-seatable'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 El registro electrónico de las horas de trabajo aún no es obligatorio, pero [si el Ministerio Federal de Trabajo](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html) se sale con la suya, pronto lo será. Una sencilla [plantilla para el](https://seatable.io/es/arbeitszeiterfassung/) registro de las horas de trabajo le ofrece aquí un remedio. Con SeaTable tendrá a mano un formulario para registrar las horas de sus empleados y, al mismo tiempo, una tabla clara en la que podrá ver todas las horas trabajadas.

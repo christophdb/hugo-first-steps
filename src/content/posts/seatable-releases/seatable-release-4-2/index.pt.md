@@ -5,6 +5,9 @@ lastmod: '2023-11-22'
 author: 'kgr'
 url: '/pt/seatable-release-4-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 O **SeaTable 4.2** leva o desenvolvimento do Universal App Builder para o próximo nível: a nova **gestão de versões** permite-lhe reverter para versões anteriores de uma aplicação. Com a **verificação de duplicados** na página da tabela e do formulário, é possível impedir eficazmente a introdução de entradas idênticas. Agora também é possível duplicar páginas na aplicação universal e **suspender temporariamente as aplicações**.

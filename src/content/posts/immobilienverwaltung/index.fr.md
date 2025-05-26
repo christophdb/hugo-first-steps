@@ -5,6 +5,9 @@ lastmod: '2023-11-06'
 author: 'cdb'
 url: '/fr/immobilienverwaltung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Nous nous occupons de votre organisation, que vous souhaitiez gérer vos biens immobiliers de manière claire, que vous soyez à la recherche d'un logement ou que vous planifiiez déjà votre prochain déménagement.

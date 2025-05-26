@@ -4,6 +4,9 @@ date: 2024-03-07
 lastmod: '2024-03-07'
 author: 'nsc'
 url: '/es/event-planen'
+seo:
+    title:
+    description:
 ---
 
 Si quiere planificar el evento perfecto, hay mucho que tener en cuenta. Pero, ¿por dónde empezar si no está familiarizado con la gestión de eventos? ¿Y cómo evitar errores de planificación, conflictos de programación y cancelaciones?

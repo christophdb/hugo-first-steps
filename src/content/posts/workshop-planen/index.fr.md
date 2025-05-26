@@ -4,6 +4,9 @@ date: 2024-01-15
 lastmod: '2024-01-15'
 author: 'kgr'
 url: '/fr/workshop-planen'
+seo:
+    title:
+    description:
 ---
 
 L’apprentissage tout au long de la vie est l’une des choses les plus importantes de nos jours lorsqu’il s’agit de **qualifications professionnelles** et de **développement personnel** . Qu’il s’agisse d’un atelier, d’une formation ou d’une formation continue : en tant qu’employeur, il est essentiel que vous souteniez vos collaborateurs et leur offriez des possibilités de développement. Après tout, il s’agit d’un emploi attrayant pour de nombreux employés aujourd’hui et **votre entreprise bénéficie** à bien des égards d’employés bien formés.

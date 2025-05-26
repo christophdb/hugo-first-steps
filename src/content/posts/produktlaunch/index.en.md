@@ -6,6 +6,9 @@ coverImage: 'SeaTable-Product-Launch.jpg'
 author: 'rbu'
 url: '/produktlaunch'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Once you have successfully completed the product development process, nothing stands in the way of a product launch.

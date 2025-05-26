@@ -4,6 +4,9 @@ date: 2023-12-13
 lastmod: '2025-02-03'
 author: 'rdb'
 url: '/es/budgetplanung-vorlage'
+seo:
+    title:
+    description:
 ---
 
 ## Ventajas, tipos y consejos para planificar el presupuesto

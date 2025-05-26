@@ -6,6 +6,9 @@ coverImage: 'windows-MYomVPpR5FU-unsplash-scaled.jpg'
 author: 'nsc2'
 url: '/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Circumstances in 2020 have significantly changed the way work is done in organizations. According to a recent [Gallup poll](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 out of 10 remote workers want to maintain this way of working to some extent.

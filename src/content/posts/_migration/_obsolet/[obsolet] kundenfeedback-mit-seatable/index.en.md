@@ -7,6 +7,9 @@ author: 'rbu'
 url: '/kundenfeedback-mit-seatable'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 What excites your customers and what are you not at all satisfied with? Are you looking for the lowest price or is an exciting shopping experience more important to you? Customer feedback not only offers you insights into the characteristics of your target group, it also gives you a completely new perspective on your own product. Once the feedback has been collected, it needs to be properly evaluated.

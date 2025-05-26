@@ -6,6 +6,9 @@ author: 'ott'
 url: '/ru/kundenzufriedenheit-steigern-kontaktformular'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Повышение удовлетворенности клиентов - это залог успеха современного бизнеса. Без довольных клиентов нет основы для личных рекомендаций и " [сарафанного радио](https://www.sem-deutschland.de/inbound-marketing-agentur/online-marketing-glossar/was-ist-word-of-mouth-marketing/)" - одного из важнейших инструментов построения связей. Еще хуже то, что недовольные клиенты гораздо чаще высказывают свое мнение, чем довольные. А плохие отзывы очень быстро приводят к долгосрочным имиджевым проблемам в Интернете.

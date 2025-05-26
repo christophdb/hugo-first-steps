@@ -4,6 +4,9 @@ date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
 url: '/pt/auslagenerstattung'
+seo:
+    title:
+    description:
 ---
 
 Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?

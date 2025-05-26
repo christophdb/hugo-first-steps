@@ -5,6 +5,9 @@ lastmod: '2024-05-17'
 coverImage: 'Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg'
 author: 'rdb'
 url: '/literaturverwaltung'
+seo:
+    title:
+    description:
 ---
 
 Whether it's a thesis, dissertation or research report - a **reference management program** makes it easier for you to work on scientific projects. Creating **bibliographies** takes just as much time as finding, viewing and evaluating **sources**.

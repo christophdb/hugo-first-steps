@@ -5,6 +5,9 @@ lastmod: '2022-02-15'
 author: 'cdb'
 url: '/de/editionsvergleich'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable Server ist SeaTable für den eigenen Server. Durch die Installation von SeaTable in der eigenen Infratruktur haben Sie volle Kontrolle darüber, wo Ihre Daten liegen und wer darauf zugreift. Samit empfiehlt sich SeaTable auch für Anwendungsfälle, in denen Sie Ihre Daten nicht außer Haus geben wollen. Sie können SeaTable Server auch ausschließlich im lokalen Netzwerk ohne Zugriffsmöglichkeit über das Internet betreiben.

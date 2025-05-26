@@ -4,6 +4,9 @@ date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
 url: '/pt/qualitative-inhaltsanalyse'
+seo:
+    title:
+    description:
 ---
 
 Quer seja na investigação ou no mundo do trabalho: **a análise de conteúdo qualitativo** ajuda-o a analisar o material de dados de uma forma estruturada. Neste artigo, ficará a saber qual a melhor forma de proceder e a que é que deve prestar atenção. Posteriormente, a implementação de uma análise de conteúdo é também ilustrada através de uma **revista de imprensa**.

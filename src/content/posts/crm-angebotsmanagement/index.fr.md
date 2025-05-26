@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'pbr'
 url: '/fr/crm-angebotsmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Toute entreprise qui souhaite enregistrer et suivre ses clients plus efficacement ne peut se passer d'une bonne gestion de la relation client (CRM) ou, plus précisément, d'un système CRM.

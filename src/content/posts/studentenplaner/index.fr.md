@@ -5,6 +5,9 @@ lastmod: '2022-06-13'
 author: 'rbu'
 url: '/fr/studentenplaner'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Le semestre d'hiver 2020 approche à grands pas et tu veux vraiment te lancer cette fois-ci ? SeaTable t'offre la solution parfaite. Tu peux garder un œil sur tes examens, tes devoirs et autres tâches à effectuer. toujours à l'œil. Ton agenda d'étudiant individuel est adapté à tes besoins en un clin d'œil. Jetons un coup d'œil au modèle SeaTable. de plus près :

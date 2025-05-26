@@ -6,6 +6,9 @@ author: 'rdb'
 url: '/es/mitarbeiterverzeichnis'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ¿Quién es el experto en cada materia? ¿Cuál es la dirección de correo electrónico del colega? ¿Y quién encaja mejor en el equipo del nuevo [proyecto de marketing](https://seatable.io/es/vorlagen-projektplanung/)? La búsqueda de respuestas a estas preguntas o a otras similares puede convertirse rápidamente en un reto que requiere mucho tiempo. A menos que su empresa tenga un **directorio de empleados** bien mantenido.

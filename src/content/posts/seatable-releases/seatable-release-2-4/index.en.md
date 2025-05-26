@@ -6,6 +6,9 @@ coverImage: 'release-2.4-v3.jpg'
 author: 'rdb'
 url: '/seatable-release-2-4'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable 2.4 has seen the light of day! The latest incarnation of the SeaTable Server was uploaded to [Docker](https://hub.docker.com/u/seatable) Hub at the end of last week and SeaTable Cloud was updated this morning. The new version offers a number of improvements and new features: View navigation is now dockable, the Link to Other Entries column type offers enhanced settings, a new and improved data processing operation make quantitative analysis easier. In addition, a new conditional formatting offers help with large data sets. And these are just the features that stand out from the crowd. SeaTable 2.4 also offers much more. You will find the most important information about the new release in these release notes. You will find the complete list of changes - as always in the [changelog](https://seatable.io/en/docs/changelog/version-2-4/).

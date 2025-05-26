@@ -5,6 +5,9 @@ lastmod: '2023-11-06'
 author: 'cdb'
 url: '/pt/immobilienverwaltung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Nós tratamos da sua organização - independentemente de querer gerir claramente os seus imóveis, de estar à procura de um apartamento ou de já estar a planear a sua próxima mudança.

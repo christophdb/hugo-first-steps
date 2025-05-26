@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/ru/standortvisualisierung'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ## Плагин для карт SeaTable

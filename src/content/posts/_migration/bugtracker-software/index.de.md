@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/de/bugtracker-software'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 # Effektives Software Testing: So optimieren Sie die Fehlersuche

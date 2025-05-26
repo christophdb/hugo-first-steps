@@ -4,6 +4,9 @@ date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
 url: '/es/literaturverwaltung'
+seo:
+    title:
+    description:
 ---
 
 Ob Abschlussarbeit, Dissertation oder Forschungsbericht – ein **Literaturverwaltungsprogramm** erleichtert Ihnen die Arbeit an wissenschaftlichen Projekten. Genauso viel Zeit wie das Finden, Sichten und Auswerten von **Quellen** frisst dabei die Erstellung von **Literaturverzeichnissen**.

@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/ru/how-to-massnahmenplan'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Для того чтобы компании росли и развивались, они постоянно ставят перед собой новые цели и работают над их достижением всеми своими силами. План действий является проверенным методом достижения этих целей - например, в [управлении проектами]({{< relref "pages/industry-solutions/project-management" >}}), финансах и контроллинге и [маркетинге]({{< relref "pages/industry-solutions/marketing" >}}).

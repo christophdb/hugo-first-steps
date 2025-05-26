@@ -5,6 +5,9 @@ lastmod: '2023-06-26'
 author: 'cdb'
 url: '/es/content-marketing'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 El marketing de contenidos es un popular enfoque de marketing para colocar los propios productos entre los clientes y posibles interesados. La idea básica del marketing de contenidos es muy sencilla: creas contenidos para tu grupo objetivo, los publicas e inspiras a tus clientes.

@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/pt/no-code-plattform'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 O desenvolvimento de software é sempre exaustivo, demorado, trabalhoso e requer as competências de um programador experiente. No-Code é a promessa de acelerar e simplificar este laborioso processo de desenvolvimento de software.

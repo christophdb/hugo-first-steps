@@ -4,6 +4,9 @@ date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
 url: '/de/hausverwaltung'
+seo:
+    title:
+    description:
 ---
 
 Die **Vermietung von Immobilien** ist sowohl privat als auch für Unternehmen und Kommunen ein lohnendes Geschäft. Wenn Sie Immobilien bewirtschaften, müssen Sie aber eine funktionierende **Hausverwaltung** gewährleisten – egal, ob Sie privat einzelne Wohnungen vermieten oder im großen Stil mit einer Firma.

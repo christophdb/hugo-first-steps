@@ -4,6 +4,9 @@ date: 2021-01-23
 lastmod: '2024-01-19'
 author: 'rdb'
 url: '/es/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren'
+seo:
+    title:
+    description:
 ---
 
 Gracias a Docker , la instalación de SeaTable Enterprise Edition es muy sencilla y puede realizarse en unos instantes. Ubuntu Server, como sistema operativo Linux ampliamente utilizado y bien documentado, es una base excelente para SeaTable. Si ya tienes un servidor Ubuntu, puedes descubrir aquí cómo instalar SeaTable en él en 10 minutos.

@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/pt/bugtracker-software'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Quando se desenvolve software complexo, não há como contornar os erros. [Os erros](https://www.arksolutions.de/gs/project/blog/bug-programmfehler) ocorrem sempre durante a fase de desenvolvimento e têm de ser documentados e resolvidos num registo de erros. Sem um software bem estruturado, a procura, o acompanhamento e a monitorização de erros podem tornar-se rapidamente confusos e custar muito tempo valioso.

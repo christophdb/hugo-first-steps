@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/de/asana-alternative'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Wer Projekte erfolgreich managen möchte, braucht Organisation und Struktur. Um Fristen einzuhalten, effizient zu arbeiten und Ziele zu erreichen, ist die Nutzung digitaler [Projektmanagement-Tools](https://seatable.io/projekt-management-tool/) ein großer Vorteil. Viele Teams greifen dafür auf Asana zurück, obwohl es weitaus mehr und ebenso gute Tools gibt. Doch was ist die beste **Asana Alternative**?

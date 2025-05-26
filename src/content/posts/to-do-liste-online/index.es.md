@@ -4,6 +4,9 @@ date: 2024-04-03
 lastmod: '2024-04-03'
 author: 'kgr'
 url: '/es/to-do-liste-online'
+seo:
+    title:
+    description:
 ---
 
 Crear y gestionar una lista de tareas pendientes en línea con una aplicación tiene muchas ventajas. Esto se debe a que una lista de tareas **pendientes** te ayuda a gestionar tus tareas de forma eficiente tanto en tu vida privada como en tu día a día y a no olvidar nada en el estresante día a día. Lee este artículo para descubrir por qué deberías utilizar una **plantilla** para tu lista de tareas y qué **aplicación** es la mejor para una lista de tareas.

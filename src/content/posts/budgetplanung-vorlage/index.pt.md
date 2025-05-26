@@ -4,6 +4,9 @@ date: 2023-12-13
 lastmod: '2025-02-03'
 author: 'rdb'
 url: '/pt/budgetplanung-vorlage'
+seo:
+    title:
+    description:
 ---
 
 ## Vantagens, tipos, conselhos para o planeamento orçamental

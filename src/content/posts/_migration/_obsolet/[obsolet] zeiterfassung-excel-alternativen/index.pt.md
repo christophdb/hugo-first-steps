@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/pt/zeiterfassung-excel-alternativen'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Como funciona o **registo de horas no Excel** e que alternativas estão disponíveis? Em seguida, ficará a saber como implementar o registo de horas com o Excel ou com uma ferramenta alternativa. Ficará também a conhecer as vantagens e desvantagens das diferentes soluções. Qual delas se adequa à sua empresa?

@@ -4,6 +4,9 @@ date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
 url: '/es/csr'
+seo:
+    title:
+    description:
 ---
 
 En un momento en que la tendencia hacia **la sostenibilidad** está ganando impulso, las empresas se enfrentan al reto de satisfacer las mayores expectativas de sus clientes. La creciente demanda de productos sostenibles se refleja en el comportamiento de los consumidores, que valoran cada vez más la compatibilidad medioambiental y la responsabilidad social, palabra clave: **responsabilidad social de las empresas (RSE)**.

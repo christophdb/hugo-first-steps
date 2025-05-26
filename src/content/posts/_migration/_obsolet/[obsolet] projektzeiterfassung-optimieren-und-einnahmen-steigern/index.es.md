@@ -6,6 +6,9 @@ author: 'ott'
 url: '/es/projektzeiterfassung-optimieren-und-einnahmen-steigern'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Muchos proveedores de servicios lo conocen y lo temen: el seguimiento temporal de los proyectos. El control del tiempo es impopular y, en la mayoría de los casos, no se lleva a cabo con la meticulosidad que quizá debería. Sin embargo, el lema es "el tiempo es oro". Los diseñadores, arquitectos y agencias conocen este problema y a veces les cuesta encontrarle remedio.

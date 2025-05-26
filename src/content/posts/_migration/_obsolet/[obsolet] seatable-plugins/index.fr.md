@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/fr/seatable-plugins'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ## Découvrez les plug-ins de SeaTable

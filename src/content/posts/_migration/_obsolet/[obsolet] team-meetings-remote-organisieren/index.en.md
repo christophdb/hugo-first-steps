@@ -7,6 +7,9 @@ author: 'rbu'
 url: '/team-meetings-remote-organisieren'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ## Organise your weekly team meetings with SeaTable

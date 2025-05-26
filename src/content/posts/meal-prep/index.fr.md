@@ -4,6 +4,9 @@ date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
 url: '/fr/meal-prep'
+seo:
+    title:
+    description:
 ---
 
 Manger le moins cher et le plus sain possible en peu de temps - c'est exactement ce que promet une tendance venue des États-Unis. En effet, dans notre quotidien stressant, une **alimentation équilibrée** est souvent négligée. Au lieu de cela, nous avons souvent recours à la restauration rapide ou à des snacks malsains, par exemple pendant les pauses déjeuner, afin d'apaiser nos fringales. Dans cet article, vous découvrirez ce qu'est le Meal **Prep**, ce à quoi vous devez faire attention en faisant du Meal Prepping et comment vous pouvez établir un [plan hebdomadaire Meal Prep](https://seatable.io/fr/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) intelligent.

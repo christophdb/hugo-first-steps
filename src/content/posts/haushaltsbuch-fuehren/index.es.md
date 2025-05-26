@@ -4,6 +4,9 @@ date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
 url: '/es/haushaltsbuch-fuehren'
+seo:
+    title:
+    description:
 ---
 
 A veces no es fácil controlar los gastos. Ocurre con demasiada frecuencia que el dinero desaparece a final de mes y apenas se recuerda en qué se ha gastado. Es precisamente entonces cuando un **libro de** presupuestos viene al rescate y pone orden en el caos financiero.

@@ -5,6 +5,9 @@ lastmod: '2025-01-17'
 author: 'nsc'
 url: '/pt/reisekostenabrechnung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 A lei relativa ao imposto sobre o rendimento descreve três categorias de **despesas** que podem ser **reembolsadas** aos trabalhadores pelas suas empresas. Para além das encomendas feitas em nome da empresa e das despesas incorridas para cumprir uma encomenda, isto também se aplica às **viagens de negócios**. Quer se trate de uma viagem de negócios de vários dias, de uma reunião com um cliente distante ou de uma deslocação a uma feira comercial - as viagens de negócios fazem parte do quotidiano de muitos trabalhadores. No artigo que se segue, não só ficará a saber o que é um **relatório de despesas de viagem**, como também receberá dicas valiosas sobre como criar um.

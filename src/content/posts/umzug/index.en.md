@@ -4,6 +4,9 @@ date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
 url: '/umzug'
+seo:
+    title:
+    description:
 ---
 
 Finally, the time has come! You've found the perfect apartment for you and can't wait to move into your new home. The only thing that now separates you from your dream apartment is the move. What most people find a lot of stress and time-consuming, you can make easy for yourself with a structured **moving plan**. Find out here how you can plan your move as stress-free as possible and bring it to a successful conclusion.

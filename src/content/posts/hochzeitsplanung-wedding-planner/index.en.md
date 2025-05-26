@@ -6,6 +6,9 @@ coverImage: 'eliza-szablinska-TncriKEFStY-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/hochzeitsplanung-wedding-planner'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 One of the most beautiful and important days in life is just around the corner: your own wedding. Nothing should go wrong here, which is why structured wedding planning is of great importance for most couples. What needs to be done 12 months before the wedding, what needs to be done 5 months before the big day? If you don't have the financial means to hire a professional wedding planner, or if you simply enjoy planning your own wedding, SeaTable helps you not to lose the overview when planning your wedding.

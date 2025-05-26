@@ -6,6 +6,9 @@ author: 'ott'
 url: '/pt/kundenzufriedenheit-steigern-kontaktformular'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Aumentar a satisfação do cliente é a chave para o sucesso das empresas atualmente. Sem clientes satisfeitos, não há base para recomendações pessoais e propaganda boca [a boca](https://www.sem-deutschland.de/inbound-marketing-agentur/online-marketing-glossar/was-ist-word-of-mouth-marketing/), uma das ferramentas mais importantes quando se trata de construir alcance. Pior ainda: os clientes insatisfeitos têm muito mais probabilidades de expressar as suas opiniões do que os clientes satisfeitos. E as más críticas conduzem muito rapidamente a problemas de imagem a longo prazo na Internet.

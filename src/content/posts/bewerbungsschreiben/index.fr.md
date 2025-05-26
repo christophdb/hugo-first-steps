@@ -4,6 +4,9 @@ date: 2024-04-22
 lastmod: '2024-04-22'
 author: 'lsc'
 url: '/fr/bewerbungsschreiben'
+seo:
+    title:
+    description:
 ---
 
 Qu'il s'agisse d'un stage, d'une formation ou d'un emploi fixe, la première étape sur la voie du job de rêve est toujours une **candidature** réussie. Vous avez trouvé de nombreuses **offres d'emploi** intéressantes, mais la rédaction des candidatures vous donne du fil à retordre ? Ne vous inquiétez pas, vous n'êtes pas le seul. Pour beaucoup, la **lettre de motivation** est un obstacle majeur, car elle exige une auto-évaluation honnête et est liée à une formulation laborieuse de ses propres capacités.

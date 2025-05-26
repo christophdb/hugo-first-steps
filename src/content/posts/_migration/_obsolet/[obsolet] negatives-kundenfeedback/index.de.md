@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/de/negatives-kundenfeedback'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Positives Kundenfeedback ist wünschenswert. Nichts desto trotz kommt es auch vor, dass Sie trotz allen Bemühungen negatives Feedback erhalten. Negatives Kundenfeedback muss aber nicht immer nur schlecht sein. Gerade hieraus können Sie wertvolle Erkenntnisse für die Verbesserung Ihrer Prozesse oder Ihres Produktes erhalten. Warum ist Kundenfeedback so wichtig und wie geht man mit negativen Kundenstimmen um? Wir geben Ihnen Tipps!

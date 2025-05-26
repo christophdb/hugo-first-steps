@@ -5,6 +5,9 @@ lastmod: '2023-06-27'
 author: 'kgr'
 url: '/fr/seatable-release-4-0'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Alors que le soleil brûle dehors, nos développeurs ont gardé la tête froide et ont terminé la quatrième version majeure de SeaTable. La version 4.0 de SeaTable améliore les fonctions existantes, mais étanche également la soif de nouvelles fonctionnalités. Nouveautés de la version 4.0 : un type de colonne pour les signatures numériques, un gestionnaire de fichiers intégré pour faciliter la gestion des pièces jointes et - pour nos clients Cloud Enterprise - une fonction de logo personnalisé comme option de branding.

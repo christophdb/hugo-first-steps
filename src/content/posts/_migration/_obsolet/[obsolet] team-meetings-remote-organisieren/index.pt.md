@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/pt/team-meetings-remote-organisieren'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ## Organize as suas reuniões semanais de equipa com SeaTable

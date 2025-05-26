@@ -4,6 +4,9 @@ date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
 url: '/putzplan'
+seo:
+    title:
+    description:
 ---
 
 Anyone who lives with several people under one roof knows the situation: dirty dishes are piling up in the sink, the shower drain is clogged, and you really should vacuum again. But no one feels responsible and the annoying work remains undone. To put an end to the chaos, an individual cleaning plan for your household is the solution. Here you can find out everything you need to know to create your cleaning plan.

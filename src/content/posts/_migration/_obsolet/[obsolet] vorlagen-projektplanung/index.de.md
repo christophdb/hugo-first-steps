@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/de/vorlagen-projektplanung'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 **Vorlagen** der **Projektplanung** ermöglichen es, sofort mit der Planung und Durchführung eines Projekts zu beginnen. Es kommen Gantt-Diagramme, Kanban-Boards oder intelligente Listen zum Einsatz, um die Projektaktivitäten, Deadlines, Budgets und mehr zu verwalten. Im Folgenden finden Sie verschiedene Vorlagen inklusive Beispiel-Daten für die Erstellung Ihres Projektplans.

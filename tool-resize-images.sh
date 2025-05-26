@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./resize-images.sh /path/to/images
+# Usage: ./tool-resize-images.sh /path/to/images
 
 # Safety check: Require path argument
 if [ -z "$1" ]; then

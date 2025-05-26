@@ -4,6 +4,9 @@ date: 2024-02-16
 lastmod: '2024-02-16'
 author: 'lsc'
 url: '/pt/gender-reveal-party'
+seo:
+    title:
+    description:
 ---
 
 Um bebé está a caminho e quer festejar em grande estilo? Então, uma **festa de revelação** do sexo é a coisa certa para si. Esta tendência dos EUA envolve a revelação do sexo do bebé de uma forma impressionante. Se quiser organizar uma festa de revelação do sexo do **bebé**, tem de planear cuidadosamente como coordenar a decoração, a comida e o programa.

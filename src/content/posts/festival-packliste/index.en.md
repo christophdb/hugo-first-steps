@@ -6,6 +6,9 @@ coverImage: 'group-friends-having-fun-together.jpg'
 author: 'nsc'
 url: '/festival-packliste'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 When the festival season begins and the anticipation of good music and shared experiences with friends increases, it's time to pack your bags again. To ensure that your festival visit runs smoothly and is not overshadowed by problems and annoyances, **thorough preparation** is crucial.

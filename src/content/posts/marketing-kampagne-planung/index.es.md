@@ -7,6 +7,9 @@ url: '/es/planificacion-campamentos-marketing'
 aliases: 
 - /es/marketing-kampagne-planung/
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Si quiere que su empresa avance de verdad y destaque entre la competencia, necesita una cosa por encima de todo: un [marketing extremadamente bueno](https://seatable.io/marketing/). El grado de calidad depende de cada campaña de marketing y de su planificación. Y esto plantea directamente varias preguntas: ¿Qué es una campaña de marketing? ¿Cuándo es buena y cuándo no? ¿Y cómo pueden combinarse de forma óptima la ejecución y la planificación de la campaña de marketing?

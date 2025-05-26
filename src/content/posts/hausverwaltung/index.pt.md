@@ -4,6 +4,9 @@ date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
 url: '/pt/hausverwaltung'
+seo:
+    title:
+    description:
 ---
 
 **O arrendamento de imóveis** é um negócio lucrativo, tanto para particulares como para empresas e autarquias locais. No entanto, se gere propriedades, tem de garantir que a sua **gestão** funciona corretamente - independentemente de alugar apartamentos individuais a título particular ou em grande escala com uma empresa.

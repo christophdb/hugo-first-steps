@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'cdb'
 url: '/pt/seatable-release-1-0'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Temos o prazer de anunciar que a SeaTable 1.0 está finalmente pronta!

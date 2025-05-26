@@ -5,6 +5,9 @@ lastmod: '2025-02-20'
 author: 'cdb'
 url: '/de/kosten-nutzen-analyse-vorlage'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Im unternehmerischen Alltag ist es nicht immer leicht, die richtigen Entscheidungen zu treffen. Sie müssen viele Aspekte und Faktoren berücksichtigen und oft ohne Erfahrungswerte die Wirkung bestimmter Maßnahmen abschätzen. Wie erfolgreich Ihr Unternehmen dabei ist, hängt insbesondere von einer Sache ab: auf welcher Basis Ihre Entscheidungen fallen. Gut, dass Sie Ihre Entscheidungen mit einer **Kosten-Nutzen-Analyse** auf eine solide Grundlage stellen können.

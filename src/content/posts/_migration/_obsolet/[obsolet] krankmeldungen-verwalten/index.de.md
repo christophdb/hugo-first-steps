@@ -6,6 +6,9 @@ author: 'ott'
 url: '/de/krankmeldungen-verwalten'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Immer wieder kommt es vor, dass Mitarbeiter in Unternehmen sich krank melden müssen – das bleibt einfach nicht aus. Insbesondere in den Zeiten der Grippewelle kommt es schnell zu Personalmangel, wenn besonders viele gleichzeitig erkranken. Zum Glück hat sich diese Situation durch die strikten Hygienemaßnahmen stark gebessert, da Mitarbeiter mit Krankheitssymptomen nun viel eher zuhause bleiben und so ihre Kollegen schützen.

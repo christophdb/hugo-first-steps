@@ -4,6 +4,9 @@ date: 2023-07-17
 lastmod: '2023-08-18'
 author: 'cdb'
 url: '/de/patriot-act-vs-privacy-canada'
+seo:
+    title:
+    description:
 ---
 
 Die Daten von Millionen Kanadiern lagern auf US-Servern von Microsoft, Google, Amazon oder Airtable – zugleich erlaubt der sogenannte **Patriot Act** US-Behörden grundsätzlich all diese Daten abzuschöpfen. [Aus diesem Grund raten Datenschutzexperten schon seit Langem davon ab, personenbezogene Daten in US-Clouds zu speichern.](https://www.heise.de/select/ct/2017/9/1492964161648735) Auch die kanadische Provinz Quebec will dies ab September 2023 durch strengere Datenschutzgesetze unterbinden.

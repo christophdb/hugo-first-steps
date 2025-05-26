@@ -5,6 +5,9 @@ lastmod: '2021-01-07'
 author: 'rdb'
 url: '/de/seatable-release-1-6'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Wir beginnen das neue Jahr mit einem neuen SeaTable Release: Version 1.6 wurde heute auf [https://cloud.seatable.io](https://cloud.seatable.io) ausgerollt. Die Veröffentlichung auf Docker Hub wird in Kürze erfolgen. Die neue Version ist wieder mal voll mit neuen Funktionen und Verbesserungen. Auf den ersten Blick werden Ihnen die zwei neuen Spaltentypen und das überarbeitete Menü für die Spaltenkonfiguration auffallen. Bei genauerem Blick werden Sie eine Vielzahl weiterer User Interface Verbesserungen finden. In dieser Version haben wir auch große Anstrengungen in den Formelassistenten investiert. Neue Funktionen, Designverbesserungen und erweiterte Fehlermeldungen heben den Assistenten auf eine ganz neue Ebene.

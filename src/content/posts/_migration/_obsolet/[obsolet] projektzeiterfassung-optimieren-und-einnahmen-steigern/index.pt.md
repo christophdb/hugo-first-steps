@@ -6,6 +6,9 @@ author: 'ott'
 url: '/pt/projektzeiterfassung-optimieren-und-einnahmen-steigern'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Muitos prestadores de serviços conhecem-no e temem-no: o controlo do tempo dos projectos. O controlo do tempo é impopular e, na maioria dos casos, não é efectuado com a meticulosidade que talvez devesse. No entanto, o lema aqui é "tempo é dinheiro"! Designers, arquitectos e agências conhecem este problema e, por vezes, têm dificuldade em encontrar uma solução.

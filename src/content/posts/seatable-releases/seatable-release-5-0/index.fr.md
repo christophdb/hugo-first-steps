@@ -5,6 +5,9 @@ lastmod: '2024-07-15'
 author: 'kgr'
 url: '/fr/seatable-release-5-0'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 C'est parti : notre App-Builder est officiellement lancé ! Grâce à cette version de notre **base de données No-Code avec No-Code-App-Builder intégré**, tout le monde, programmeurs ou Citizen Developer, pourra désormais créer ses propres applications en toute simplicité ! Avec SeaTable 5.0, nous sommes prêts à occuper une position de leader sur le marché international de la transformation et de l'innovation numériques.

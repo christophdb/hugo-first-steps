@@ -5,6 +5,9 @@ lastmod: '2023-07-05'
 author: 'cdb'
 url: '/de/ausstellungs-und-kunstmanagement-museum-galerie'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Weltweit existieren rund [55.000 Museen](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) und unzählige weitere Galerien, Ausstellungen, Theater und Kunstbühnen. Jeder wird zustimmen, dass Kunst in ihren verschiedenen Formen eine wichtige Rolle in unserem Leben spielt. Ohne digitale Tools wäre die Verwaltung und das Betreiben einer solchen Kunsteinrichtung heutzutage kaum noch vorstellbar. Das Beantragen von öffentlichen Geldern, die Inventarisierung der Exponate und (insbesondere während der Corona-Pandemie) die Registrierung der Besucher – es gibt bestimmt einfachere Aufgaben als im Kunstmanagement.

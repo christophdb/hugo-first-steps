@@ -6,6 +6,9 @@ author: 'ott'
 url: '/de/projektzeiterfassung-optimieren-und-einnahmen-steigern'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Viele Dienstleister kennen und fürchten sie: die Projektzeiterfassung. Das Tracken der Zeit ist unbeliebt und wird in den meisten Fällen nicht so akribisch ausgeführt, wie sie es vielleicht sollte. Dabei lautet das Motto hier „Zeit ist Geld“! Designer, Architekten und Agenturen kennen dieses Problem und wissen sich manchmal nur schwer Abhilfe zu schaffen.

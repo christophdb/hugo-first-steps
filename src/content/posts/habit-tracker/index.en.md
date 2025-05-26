@@ -5,6 +5,9 @@ lastmod: '2024-01-25'
 coverImage: 'Purple-Colorful-Modern-Roadmap-Timeline-Infographic-e1701339213192.jpg'
 author: 'lsc'
 url: '/habit-tracker'
+seo:
+    title:
+    description:
 ---
 
 Making **good resolutions** for the new year has become a habit for many people. But every year we are disappointed when we fail to keep our resolutions. It takes a strong will to integrate new habits into our lives. **Habit trackers** are available to make this process easier.

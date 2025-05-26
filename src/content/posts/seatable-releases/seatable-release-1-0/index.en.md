@@ -6,6 +6,9 @@ coverImage: 'seatable-release-1_0.jpg'
 author: 'cdb'
 url: '/seatable-release-1-0'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 We are pleased to announce that SeaTable 1.0 is finally ready!

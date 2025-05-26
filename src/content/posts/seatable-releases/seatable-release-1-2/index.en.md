@@ -6,6 +6,9 @@ coverImage: 'seatable-release-1.2.jpg'
 author: 'mwu'
 url: '/seatable-release-1-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable is the ultimate solution for data management and online collaboration. With its rich field types, organization / group / team management and collaboration functions as well as various templates and plugins, SeaTable unleashes your team's full productive power with its automated data processing and workflow.

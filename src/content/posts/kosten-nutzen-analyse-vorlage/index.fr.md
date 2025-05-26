@@ -5,6 +5,9 @@ lastmod: '2025-02-20'
 author: 'cdb'
 url: '/fr/kosten-nutzen-analyse-vorlage'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Dans le quotidien d'une entreprise, il n'est pas toujours facile de prendre les bonnes décisions. Vous devez tenir compte de nombreux aspects et facteurs et, souvent, évaluer l'impact de certaines mesures sans disposer de données empiriques. Le succès de votre entreprise dépend en particulier d'une chose : sur quelle base vos décisions sont prises. Il est bon que vous puissiez fonder vos décisions sur une base solide grâce à une **analyse coûts-bénéfices**.

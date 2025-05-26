@@ -4,6 +4,9 @@ date: 2024-01-30
 lastmod: '2024-01-30'
 author: 'lsc'
 url: '/pt/tierhaltung'
+seo:
+    title:
+    description:
 ---
 
 O cão é o melhor amigo do homem - é o que se diz frequentemente quando se trata da relação entre o dono e o **animal de estimação**. O gato é o animal de estimação mais popular na Alemanha, à frente do cão, seguido dos roedores, peixes e répteis. Um animal de estimação traz-nos alegria, é uma alma gémea ou é simplesmente bonito de se ver. No entanto, **manter** um animal de estimação também implica trabalho, uma vez que nos comprometemos durante muito tempo e temos de ter em conta as necessidades dos nossos animais de estimação.

@@ -6,6 +6,9 @@ coverImage: 'markus-winkler-TRcaFMV5vk-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/homeoffice-tipps'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 The corona crisis is currently forcing millions of people to work from home. Some find it easy to adjust to the new situation, but many also struggle with it. Do you also not really know how to start in the morning? Do you keep forgetting your lunch break and instead eat your quickly made sandwiches in front of your PC? We will give you valuable tips and show you advantages that will definitely make the situation easier for you.

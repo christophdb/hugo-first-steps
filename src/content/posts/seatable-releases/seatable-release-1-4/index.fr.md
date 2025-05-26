@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rdb'
 url: '/fr/seatable-release-1-4'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Nous sommes heureux d'annoncer la sortie de SeaTable 1.4 ! Nous avons intégré un nouveau type de colonne, des fonctions de base de données améliorées, un chat en temps réel et de nombreuses autres améliorations dans cette nouvelle version. Organiser des données et collaborer en équipe n'a jamais été aussi facile et pratique ! Et surtout, chaque utilisateur bénéficie des nouvelles fonctionnalités, y compris l'abonnement gratuit.

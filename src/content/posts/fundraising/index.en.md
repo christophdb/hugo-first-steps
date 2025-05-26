@@ -5,6 +5,9 @@ lastmod: '2024-04-16'
 coverImage: 'charity-donations-fundraising-nonprofit-volunteer-concept.jpg'
 author: 'nsc'
 url: '/fundraising'
+seo:
+    title:
+    description:
 ---
 
 **Fundraising** is more than just a financing strategy: it is a way to achieve goals together. From supporting **non-profit organizations** and **political campaigns** to financing **entrepreneurial innovations**, it permeates almost all areas of social life. It draws on a variety of strategies to promote people's commitment and solidarity.

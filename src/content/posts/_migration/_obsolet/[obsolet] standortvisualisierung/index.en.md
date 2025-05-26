@@ -7,6 +7,9 @@ author: 'rbu'
 url: '/standortvisualisierung'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ## The map plugin from SeaTable

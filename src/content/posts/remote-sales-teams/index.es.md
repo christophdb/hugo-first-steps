@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/es/remote-sales-teams'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 La mayoría de las empresas toman medidas para permitir el trabajo desde casa y organizan seminarios en línea u otros eventos para sus empleados, además de las opciones de oficina en casa. Pero: se empieza a echar de menos hasta al colega más pesado y también falta la charla en la máquina de café. Con un equipo que trabaja casi exclusivamente a distancia, a veces es difícil mantenerse al día y [la productividad](https://seatable.io/es/homeoffice-tipps/) suele [resentirse](https://seatable.io/es/homeoffice-tipps/) por ello. Por suerte, existe un método que puede ayudarle a recuperar su productividad a distancia. Con reuniones diarias, puede mejorar la productividad de su equipo en muy poco tiempo.

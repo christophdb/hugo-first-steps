@@ -5,6 +5,9 @@ lastmod: '2024-05-15'
 author: 'kgr'
 url: '/de/seatable-release-4-4'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 In SeaTable 4.4 setzen wir die Entwicklung des Universal App Builders mit Verve fort. Viele neue Funktionen ermöglichen noch leistungsfähigere und komfortablere Webanwendungen. Darüber hinaus haben wir die Importfunktion und die gemeinsamen Datensätze aufpoliert. Die praktischen Standardwerte greifen nun universell.

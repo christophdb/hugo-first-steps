@@ -6,6 +6,9 @@ coverImage: 'corona-5124524_1920.jpg'
 author: 'rbu'
 url: '/remote-sales-teams'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Most companies take measures to enable working from home and organize online seminars or other events for their employees in addition to home office options. However: you start to miss even the most annoying colleague and the chat at the coffee machine is also missing. With a team that works almost exclusively remotely, it's sometimes difficult to stay up-to-date, and [productivity often suffers](https://seatable.io/en/homeoffice-tipps/) as a result. Luckily, there's a method that could help you reclaim your productivity remotely. With daily stand-ups, you'll improve your team's productivity in no time.

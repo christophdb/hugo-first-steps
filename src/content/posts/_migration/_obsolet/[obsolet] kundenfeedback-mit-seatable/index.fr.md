@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/fr/kundenfeedback-mit-seatable'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Qu'est-ce qui enthousiasme vos clients et qu'est-ce qui ne vous satisfait pas du tout ? Cherchez-vous le prix le plus bas ou une expérience d'achat passionnante ? Les commentaires des clients ne vous donnent pas seulement un aperçu des caractéristiques de votre groupe cible, ils vous permettent également de jeter un regard neuf sur votre propre produit. Une fois le feedback recueilli, il faut l'évaluer correctement.

@@ -5,6 +5,9 @@ lastmod: '2024-03-07'
 coverImage: 'pexels-matheus-bertelli-2608517.jpg'
 author: 'nsc'
 url: '/event-planen'
+seo:
+    title:
+    description:
 ---
 
 If you want to plan the perfect event, there's a lot to consider. But what's the best place to start if you're not familiar with event management? And how do you avoid planning errors, scheduling conflicts and cancellations?

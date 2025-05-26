@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/es/zeiterfassung-excel-alternativen'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 ¿Cómo funciona el registro de tiempos **en Excel** y qué alternativas tiene a su disposición? A continuación, aprenderá a implementar el registro de tiempos con Excel o con una herramienta alternativa. También conocerá las ventajas e inconvenientes de las distintas soluciones. ¿Cuál se adapta mejor a su empresa?

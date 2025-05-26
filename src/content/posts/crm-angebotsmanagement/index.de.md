@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'pbr'
 url: '/de/crm-angebotsmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Jedes Unternehmen, das seine Kunden effizienter erfassen und nachhalten möchte, kommt um ein gutes Customer Relationship Management (CRM) bzw. genauer gesagt um ein CRM-System nicht herum.

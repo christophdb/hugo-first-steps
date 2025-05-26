@@ -4,6 +4,9 @@ date: 2023-12-06
 lastmod: '2024-01-25'
 author: 'lsc'
 url: '/de/habit-tracker'
+seo:
+    title:
+    description:
 ---
 
 Sich **gute Vorsätze** für das neue Jahr vorzunehmen, ist für viele Menschen zur Gewohnheit geworden. Doch jedes Jahr ist man enttäuscht, wenn man es wieder nicht schafft, die guten Vorsätze durchzuziehen. Es erfordert nunmal einen starken Willen, neue Gewohnheiten in unser Leben zu integrieren. Um dieses Vorgehen zu erleichtern, gibt es **Habit Tracker**.

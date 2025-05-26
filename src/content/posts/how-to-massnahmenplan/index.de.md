@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/de/how-to-massnahmenplan'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue Ziele und arbeiten mit allen Ressourcen auf diese hin. Dabei ist der Maßnahmenplan eine bewährte Methode, um diese Ziele zu erreichen – etwa im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), im Bereich Finanzen & Controlling sowie im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}).

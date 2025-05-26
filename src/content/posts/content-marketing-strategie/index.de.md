@@ -5,6 +5,9 @@ lastmod: '2023-06-26'
 author: 'cdb'
 url: '/de/content-marketing'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren. Der grundsätzliche Gedanke hinter Content Marketing ist dabei denkbar einfach: Man erstellt Inhalte für seine Zielgruppe, publiziert diese und begeistert seine Kunden.

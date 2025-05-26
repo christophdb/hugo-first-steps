@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/de/no-code-plattform'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 # Low Code, No Code und die Software-Entwicklung der Zukunft

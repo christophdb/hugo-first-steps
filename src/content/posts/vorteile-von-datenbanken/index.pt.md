@@ -5,6 +5,9 @@ lastmod: '2024-03-22'
 author: 'cdb'
 url: '/pt/vorteile-von-datenbanken'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 A maioria das pessoas lida diariamente com dados que têm de ser geridos de forma eficaz. O proprietário de um supermercado tem de controlar os níveis de stock, um diretor editorial tem de vigiar todas as publicações e um cabeleireiro tem de gerir as marcações dos seus clientes. Os dados desempenham um papel importante em quase todas as profissões. A melhor forma de gerir grandes quantidades de informação é através de **bases de dados**. Mas o que é uma base de dados, quais são as vantagens das bases de dados e porque é que uma simples tabela não é suficiente na maioria dos casos?

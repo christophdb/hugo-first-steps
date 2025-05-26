@@ -5,6 +5,9 @@ lastmod: '2025-02-25'
 author: 'rdb'
 url: '/de/seatable-release-5-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Das zweite Minor Release der Version 5 von SeaTable enthält zahlreiche Bugfixes und Detailverbesserungen, um die Arbeit mit SeaTable noch einfacher zu machen und Ihre Anwendungsfälle noch besser zu unterstützen: In Bases ermöglichen die **neuen Filtergruppen** eine deutlich präzisere Selektion von Daten(sätzen). Spaltenübergreifende Filter in der bedingten Zeilen- und Zellformatierung erlauben eine bisher so nicht mögliche handlungsorientierte Hervorhebung von Daten. Im **App Builder** profitiert jeder Seitentyp von größeren und kleineren Verbesserungen unterschiedlicher Art – erweiterte Berechtigungen, bessere Usability und mehr Funktionen. Zu SeaTable 5.2 gehören auch ein neues **Whiteboard-Plugin** und Verbesserungen an den Plugins Seitendesign und Kalender. Im [Changelog](https://seatable.io/docs/changelog/version-5/) finden Sie – wie immer – die vollständige Liste der Änderungen.

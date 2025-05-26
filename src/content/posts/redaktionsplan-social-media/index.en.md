@@ -6,6 +6,9 @@ coverImage: 'Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg'
 author: 'rdb'
 url: '/redaktionsplan-social-media'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 To achieve measurable success on social media platforms, you need to continuously publish new content. And often several times a week for different channels, such as LinkedIn, Instagram, Facebook, X or YouTube. You need to **post interesting and entertaining content on time**. A **social media editorial plan** will help you with this. Read this article to find out how to develop a successful social media strategy with a social media plan.
