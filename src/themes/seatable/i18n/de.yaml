@@ -138,3 +138,12 @@ price_table:
 help_area:
     category: 'Kategorie'
     section: 'Abschnitt'
+
+templates:
+    all: 'Alle Templates'
+    categories: 'Kategorien'
+    categorie: 'Kategorie'
+    functions: 'Funktionen'
+    back: 'Zurück zur Übersicht'
+    use_template: 'Vorlage benutzen'
+    preview: 'Vorschau'

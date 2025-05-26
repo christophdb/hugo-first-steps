@@ -1,10 +1,18 @@
 ---
 title: 'To-Do-Liste'
 description: 'Strukturieren Sie Ihre Arbeit und vergessen Sie nie wieder wichtige To-dos.'
+date: 2024-08-30
 url: '/de/vorlage/to-do-liste'
 category: 'projekte'
+functions:
+    - Filterung
+    - Gruppierung
+    - Ansichten
+    - Sortierung
+    - Kanban (Plugin)
+    - Kalender (Plugin)
 seo:
-    title: ''
+    title: 'Vorlage: To-Do-Liste'
     description: ''
 template: '6381c036ff2649739c80'
 ---
@@ -19,4 +27,4 @@ Mehr hierzu lesen Sie in unserem Blog-Artikel "Wie Sie mit einer To-do-Liste den
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen steht Ihnen unser [Hilfebereich]({{< relref "help" >}}) jederzeit zur Verfügung.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen steht Ihnen unser [Hilfebereich]({{< relref "help" >}}) jederzeit zur Verfügung.
