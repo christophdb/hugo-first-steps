@@ -1,13 +1,14 @@
 ---
-title: 'SWOT Analyse Beispiel: Interne Stärken und Schwächen im Fokus'
+title: 'SWOT-Analyse: Beispiel und Best Practice für Ihr Unternehmen'
+description: 'Die SWOT-Analyse ist ein entscheidendes Werkzeug der strategischen Unternehmensplanung, da sie sowohl interne als auch externe Faktoren berücksichtigt. Dieser Artikel erklärt an einem Beispiel, wie Sie am besten vorgehen und wie Ihnen eine Vorlage bei der Umsetzung helfen kann.'
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
 url: '/de/swot-analyse'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'SWOT Analyse Beispiel: Interne Stärken und Schwächen im Fokus'
+    description: 'Lernen Sie an einem Beispiel, wie eine SWOT-Analyse Ihnen helfen kann, Stärken, Schwächen, Chancen und Risiken zu identifizieren.'
 ---
 
 Die **SWOT-Analyse** ist ein entscheidendes **Werkzeug der strategischen Unternehmensplanung**, da sie sowohl interne als auch externe Faktoren berücksichtigt. Dieser Artikel erklärt an einem SWOT Analyse Beispiel, wie Sie am besten vorgehen und wie Ihnen ein SWOT Analyse Template bei der Umsetzung helfen kann.

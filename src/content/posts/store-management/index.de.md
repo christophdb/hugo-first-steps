@@ -1,13 +1,14 @@
 ---
 title: 'Organisiertes Store Management mit SeaTable - SeaTable'
+description: ''
 date: 2021-10-21
 lastmod: '2023-07-11'
 author: 'rbu'
 url: '/de/store-management-mit-seatable'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 Mit der Eröffnung neuer Standorte wächst neben dem Umsatz auch der organisatorische Aufwand. Nun ist es wichtig, den Überblick zu behalten. Unser Store Management Template hilft Ihnen bei folgenden Fragen: Wo sind Ihre umsatzstärksten Filialen? Welche Filialen brauchen mehr Aufmerksamkeit, weil sie den prognostizierten Umsatz nicht erreicht haben? Wo werden neue Mitarbeiter gebraucht und wie ist die Qualität ihrer eingestellten Mitarbeiter? Welche Mitarbeiter können welche Fortbildungen gebrauchen?
