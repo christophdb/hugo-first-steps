@@ -1,13 +1,14 @@
 ---
 title: 'Festival Packliste: Must-haves für ein unvergessliches Erlebnis'
+description: 'Wenn die Festivalsaison beginnt und die Vorfreude auf gute Musik und gemeinsame Erlebnisse mit Freunden steigt, ist es wieder an der Zeit, das Gepäck zu schnüren. Damit Ihr Festivalbesuch reibungslos verläuft und nicht von Problemen und Ärgernissen überschattet wird, ist eine gründliche Vorbereitung entscheidend. Egal, ob Sie sich für das legendäre Wacken, das mitreißende Rock am Ring oder das energiegeladene Hurricane Festival rüsten – einige Must-haves sind auf jeder Festival Packliste Pflicht.'
 date: 2024-03-13
 lastmod: '2024-07-26'
 author: 'nsc'
 url: '/de/festival-packliste'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Festival Packliste: Must-haves für ein unvergessliches Erlebnis'
+    description: 'Entdecken Sie die ultimative Festival Packliste mit allen wichtigen Dingen, die Sie brauchen. Inklusive Festivalplaner und Checkliste!'
 ---
 
 Wenn die Festivalsaison beginnt und die Vorfreude auf gute Musik und gemeinsame Erlebnisse mit Freunden steigt, ist es wieder an der Zeit, das Gepäck zu schnüren. Damit Ihr Festivalbesuch reibungslos verläuft und nicht von Problemen und Ärgernissen überschattet wird, ist eine **gründliche Vorbereitung** entscheidend.
