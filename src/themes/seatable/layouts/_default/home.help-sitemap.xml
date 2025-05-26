@@ -1,3 +1,4 @@
+{{- if hugo.IsProduction -}}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><?xml-stylesheet type=\"text/xsl\" href=\"/main-sitemap.xsl\"?>" | safeHTML }}
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {{- $posts := where .Site.Pages "Section" "help" -}}
@@ -25,5 +26,6 @@
         {{- end -}}
     {{- end }}
 </urlset>
+{{- end -}}
 
 {{/* Source: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/_default/sitemap.xml */}}

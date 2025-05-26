@@ -15,7 +15,7 @@ filename = 'sitemap.xml'
 priority = 0.5
 
 [outputs]
-home = ["HTML", "RSS", "JSON", "post-sitemap", "page-sitemap", "help-sitemap"]
+home = ["HTML", "RSS", "post-sitemap", "page-sitemap", "help-sitemap"]
 
 [outputFormats.post-sitemap]
 baseName = 'post-sitemap'
