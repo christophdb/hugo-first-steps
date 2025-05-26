@@ -1,13 +1,14 @@
 ---
 title: 'Reisekostenabrechnung: Alles, was Sie wissen müssen'
+description: 'Ob mehrtägige Geschäftsreise, ein Meeting mit einem weit entfernten Kunden oder die Fahrt zur Messe – Dienstreisen gehören für viele Arbeitnehmer zum Alltag. Im folgenden Artikel erfahren Sie nicht nur, was eine Reisekostenabrechnung ist, sondern erhalten auch wertvolle Tipps, worauf Sie bei der Erstellung achten sollten.'
 date: 2025-01-17
 lastmod: '2025-01-17'
 author: 'nsc'
 url: '/de/reisekostenabrechnung'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Reisekostenabrechnung: Alles, was Sie wissen müssen'
+    description: 'Reisekostenabrechnung leicht gemacht: Erfahren Sie, wie Sie alles, was Sie wissen müssen. Inkl. kostenfreier Vorlage!'
 ---
 
 Im Einkommensteuergesetz werden drei Kategorien für **Auslagen** beschrieben, die sich Arbeitnehmer von ihren Unternehmen **erstatten** lassen können. Neben Bestellungen im Namen der Firma und Ausgaben, die getätigt werden, um einen Auftrag auszuführen, betrifft dies auch **Dienstreisen**. Ob mehrtägige Geschäftsreise, ein Meeting mit einem weit entfernten Kunden oder die Fahrt zur Messe – Dienstreisen sind Alltag für viele Arbeitnehmer. Im folgenden Artikel erfahren Sie nicht nur, was eine **Reisekostenabrechnung** ist, sondern erhalten auch wertvolle Tipps für die Erstellung.

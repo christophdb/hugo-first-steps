@@ -7,7 +7,7 @@ author: 'rdb'
 url: '/de/literaturverwaltung'
 seo:
     title: 'Literaturverwaltungsprogramm für mehr Durchblick'
-    description: 'Sorgen Sie für eine übersichtliche und fehlerfreie Literaturverwaltung. Hier gibt's Tipps im Umgang mit einem Literaturverwaltungsprogramm.'
+    description: 'Sorgen Sie für eine übersichtliche und fehlerfreie Literaturverwaltung. Hier gibt es Tipps im Umgang mit einem Literaturverwaltungsprogramm.'
 ---
 
 Ob Abschlussarbeit, Dissertation oder Forschungsbericht – ein **Literaturverwaltungsprogramm** erleichtert Ihnen die Arbeit an wissenschaftlichen Projekten. Genauso viel Zeit wie das Finden, Sichten und Auswerten von **Quellen** frisst dabei die Erstellung von **Literaturverzeichnissen**.

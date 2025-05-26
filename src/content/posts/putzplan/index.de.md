@@ -1,12 +1,13 @@
 ---
 title: 'Putzplan nach Ihren Wünschen erstellen: Vorlage und Tipps'
+description: 'Wer mit mehreren Menschen unter einem Dach lebt, kennt es: Das dreckige Geschirr stapelt sich im Waschbecken, der Duschabfluss ist verstopft und eigentlich müsste man mal wieder staubsaugen. Aber keiner fühlt sich zuständig und die lästige Arbeit bleibt liegen. Um dem Chaos ein Ende zu bereiten, ist ein individueller Putzplan für Ihren Haushalt die Lösung. Hier erfahren Sie alles, was Sie für die Erstellung Ihres Putzplans wissen müssen.'
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
 url: '/de/putzplan'
 seo:
-    title:
-    description:
+    title: 'Putzplan nach Ihren Wünschen erstellen: Vorlage und Tipps'
+    description: 'Um einen Haushalt mit mehreren Personen sauber zu halten, ist ein individuell erstellter Putzplan die richtige Lösung für Sie.'
 ---
 
 Wer mit mehreren Menschen unter einem Dach lebt, kennt es: Das dreckige Geschirr stapelt sich im Waschbecken, der Duschabfluss ist verstopft und eigentlich müsste man mal wieder staubsaugen. Aber keiner fühlt sich zuständig und die lästige Arbeit bleibt liegen. Um dem Chaos ein Ende zu bereiten, ist ein individueller Putzplan für Ihren Haushalt die Lösung. Hier erfahren Sie alles, was Sie für die Erstellung Ihres Reinigungsplans wissen müssen.
