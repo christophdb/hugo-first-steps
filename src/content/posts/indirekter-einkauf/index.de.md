@@ -1,13 +1,14 @@
 ---
-title: 'Indirekter Einkauf: einfach und kostensparend mit SeaTable - SeaTable'
+title: 'Indirekter Einkauf: einfach und kostensparend mit SeaTable'
+description: ''
 date: 2021-11-19
 lastmod: '2023-07-11'
 author: 'ott'
 url: '/de/indirekter-einkauf'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 In jedem Unternehmen ist er in irgendeiner Art und Weise vorhanden: indirekter Einkauf. Er umfasst die Beschaffung, Bestellung und das komplette Management aller Güter und Waren, die nicht weiterverkauft werden, sondern im Unternehmen verbleiben und für die internen Abläufe der Büroorganisation benötigt werden. Typische Beispiele für indirektes Material sind:

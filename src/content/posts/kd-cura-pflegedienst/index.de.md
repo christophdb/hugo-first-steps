@@ -1,13 +1,14 @@
 ---
 title: 'Digitale Pionierarbeit im Pflegedienst'
+description: 'Mit SeaTable möchte Norman Kolwitz, Gründer von KD-Cura, in seiner Branche Pionierarbeit leisten, indem er Prozesse in seinem ambulanten Pflegedienst digitalisiert. Auf der Suche nach einem geeigneten Tool ist er auf SeaTable gestoßen und findet das System sehr „charmant“.'
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/de/kd-cura-pflegedienst'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 Mit SeaTable möchte Norman Kolwitz, Gründer von KD-Cura, in seiner Branche Pionierarbeit leisten, indem er Prozesse in seinem ambulanten Pflegedienst digitalisiert. Auf der Suche nach einem geeigneten Tool ist er auf SeaTable gestoßen und findet das System sehr „charmant“.

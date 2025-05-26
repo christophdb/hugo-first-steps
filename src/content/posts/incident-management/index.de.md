@@ -1,13 +1,14 @@
 ---
 title: 'Bug- und Issuetracker im Vergleich'
+description: 'In der Softwareentwicklung kann das Überwachen und Verwalten von Bugs und Issues schnell unübersichtlich werden. Entsprechende Tools, sogenannte Bug- und Issuetracker, helfen Ihnen dabei, Fehler schnell und effizient zu beheben. Lesen Sie in diesem Artikel, welche Programme Sie bei der Fehlerverwaltung unterstützen können und worin die Unterschiede liegen.'
 date: 2022-04-22
 lastmod: '2022-07-27'
 author: 'cdb'
 url: '/de/incident-management'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Bug- und Issuetracker im Vergleich'
+    description: 'Wofür benötigen Sie einen Bug- oder Issuetracker, was können die smarten Lösungen und worin liegen die Unterschiede? Lesen Sie hier mehr.'
 ---
 
 In der Softwareentwicklung kann das Überwachen und Verwalten von Bugs und Issues schnell unübersichtlich werden. Entsprechende Tools, sogenannte Bug- und **Issuetracker**, helfen Ihnen dabei, Fehler schnell und effizient zu beheben. Lesen Sie in diesem Artikel, welche Programme Sie bei der Fehlerverwaltung unterstützen können und worin die Unterschiede liegen.

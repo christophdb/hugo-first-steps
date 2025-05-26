@@ -1,13 +1,14 @@
 ---
-title: 'Kundenzufriedenheit messen, auswerten und steigern - SeaTable'
-date: 2021-03-05
+title: 'Kundenzufriedenheit messen, auswerten und steigern'
+description: ''
+date: '2021-03-05'
 lastmod: '2023-06-28'
 author: 'cdb'
 url: '/de/kundenzufriedenheit'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Kundenzufriedenheit messen, auswerten und steigern'
+    description: 'SeaTable ist ein kostenloses Tool, um Kundenfeedback einzuholen, die Kundenzufriedenheit zu messen und die Daten anschließend auszuwerten.'
 ---
 
 Ist ein Kunde zufrieden, so wird dieser erneut bei Ihnen einkaufen und Ihr Unternehmen wahrscheinlich sogar weiterempfehlen. Löst Ihr Produkt das Problem des Kunden nicht wie erwartet, so haben Sie einen Kunden verloren und es hagelt im schlimmsten Fall schlechte Bewertungen. Die mangelnde Kundenzufriedenheit könnte dann wiederum andere potenzielle Neukunden abschrecken und zu Umsatzeinbußen führen.
