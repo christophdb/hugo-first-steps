@@ -45,48 +45,48 @@ pageRef = "pages/product/seatable-server"
 weight = 24
 
 [[main]]
-name = "Отраслевые решения"
+name = "Pешения"
 pageRef = "#0"
 weight = 30
 
 [[main]]
 name = "Маркетинг"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
 name = "Управление проектами"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
 name = "HR"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
 name = "Государственная служба"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
 name = "Разработка программного обеспечения"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/software-development"
 weight = 35
 
 [[main]]
 name = "На заказ"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
-name = "Pесурсы"
+name = "Ресурсы"
 pageRef = "#0"
 weight = 40
 
