@@ -86,13 +86,55 @@ pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
-name = "Prices"
-pageRef = "pages/prices"
+name = "Recursos"
+pageRef = "#0"
 weight = 40
+
+#[[main]]
+#name = "Templates"
+#parent = "Recursos"
+#pageRef = "pages/functions"
+#weight = 42
+
+[[main]]
+name = "Guia rápido"
+parent = "Recursos"
+pageRef = "pages/quick-guide"
+weight = 43
+
+[[main]]
+name = "Curso on-line"
+parent = "Recursos"
+pageRef = "help/erste-schritte"
+weight = 44
+
+[[main]]
+name = "Ajuda"
+parent = "Recursos"
+pageRef = "help"
+weight = 45
+
+#[[main]]
+#name = "Integrations"
+#parent = "Recursos"
+#pageRef = "posts"
+#weight = 46
+
+[[main]]
+name = "Fórum"
+parent = "Recursos"
+url = "https://forum.seatable.io"
+weight = 47
 
 [[main]]
 name = "Blogue"
+parent = "Recursos"
 pageRef = "posts"
+weight = 48
+
+[[main]]
+name = "Prices"
+pageRef = "pages/prices"
 weight = 50
 
 # -- Footer Menu --

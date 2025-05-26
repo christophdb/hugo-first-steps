@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+name = "Functions"
+pageRef = "pages/functions"
+weight = 10
+
+[[main]]
 name = "Products"
 pageRef = "#0"
 weight = 20
@@ -82,50 +87,50 @@ weight = 36
 
 [[main]]
 name = "Resources"
-pageRef = "pages/prices"
+pageRef = "#0"
 weight = 40
 
-[[main]]
-name = "Functions"
-parent = "Resources"
-pageRef = "pages/functions"
-weight = 41
-
-[[main]]
-name = "Templates"
-parent = "Resources"
-pageRef = "pages/functions"
-weight = 42
+#[[main]]
+#name = "Templates"
+#parent = "Resources"
+#pageRef = "pages/functions"
+#weight = 42
 
 [[main]]
 name = "Getting started"
 parent = "Resources"
-pageRef = "pages/functions"
+pageRef = "pages/quick-guide"
 weight = 43
 
 [[main]]
 name = "Online Courses"
 parent = "Resources"
-pageRef = "pages/functions"
+pageRef = "help/erste-schritte"
 weight = 44
 
 [[main]]
-name = "Help center"
+name = "Help"
 parent = "Resources"
-pageRef = "pages/functions"
+pageRef = "help"
 weight = 45
 
-[[main]]
-name = "Integrations"
-parent = "Resources"
-pageRef = "posts"
-weight = 46
+#[[main]]
+#name = "Integrations"
+#parent = "Resources"
+#pageRef = "posts"
+#weight = 46
 
 [[main]]
-name = "Inspiration"
+name = "Forum"
+parent = "Ressourcen"
+url = "https://forum.seatable.io"
+weight = 47
+
+[[main]]
+name = "Blog"
 parent = "Resources"
 pageRef = "posts"
-weight = 47
+weight = 48
 
 [[main]]
 name = "Prices"
