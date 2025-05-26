@@ -6,6 +6,9 @@ author: 'kgr'
 url: '/pt/vereinsverwaltung'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 As soluções de gestão de associações são um cêntimo a dúzia. Todas as soluções de software que testamos prometem ser rápidas, simples e intuitivas. Mas acreditamos que todas estas soluções carecem de uma característica chave. A flexibilidade para se adaptar aos desafios e à situação individual de cada clube. O software de gestão de associações como o [ClubDesk](https://www.clubdesk.de/), [easyVerein](https://easyverein.com/), [SEWOBE](https://www.sewobe.de/) ou [MTH](https://www.mth-software.de/), por exemplo, especifica exactamente como devem ser os processos e procedimentos. As máscaras de entrada e os textos são inflexíveis e só podem ser adaptados nos casos mais raros.

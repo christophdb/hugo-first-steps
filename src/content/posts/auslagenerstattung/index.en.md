@@ -4,6 +4,9 @@ date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
 url: '/auslagenerstattung'
+seo:
+    title:
+    description:
 ---
 
 Whether it's a business meal, train ticket or company cell phone - do you regularly make advance payments at work and want to know what you need to consider when **reimbursing expenses**? Or are you an employer yourself and looking for a way to make the expense reimbursement process more efficient for your employees?

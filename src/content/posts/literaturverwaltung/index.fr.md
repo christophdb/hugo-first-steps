@@ -4,6 +4,9 @@ date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
 url: '/fr/literaturverwaltung'
+seo:
+    title:
+    description:
 ---
 
 Qu'il s'agisse d'un travail de fin d'études, d'une thèse ou d'un rapport de recherche, un **programme de gestion de la littérature** vous facilite le travail sur les projets scientifiques. La création d'une **bibliographie** prend autant de temps que la recherche, la consultation et l'évaluation des **sources**.

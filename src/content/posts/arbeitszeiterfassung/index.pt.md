@@ -5,6 +5,9 @@ lastmod: '2023-04-25'
 author: 'kgr'
 url: '/pt/arbeitszeiterfassung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Provavelmente, já ouviu falar disso nos meios de comunicação social: O Ministério Federal do Trabalho está a planear uma reforma da lei sobre o horário de trabalho para 2023. Mas o que é que isso vai mudar para si e para a sua empresa? Terá de comprar sistemas de registo de tempo dispendiosos ou [o software gratuito](https://seatable.io/pt/arbeitszeiterfassung/) é suficiente? Neste artigo, mostrar-lhe-emos como implementar o registo de horas para os seus empregados com um esforço administrativo mínimo, cumprindo simultaneamente a legislação aplicável.

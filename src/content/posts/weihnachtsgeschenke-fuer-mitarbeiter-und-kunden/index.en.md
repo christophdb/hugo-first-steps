@@ -5,6 +5,9 @@ lastmod: '2024-11-20'
 coverImage: 'Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731.png'
 author: 'lsc'
 url: '/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
+seo:
+    title:
+    description:
 ---
 
 Christmas is just around the corner and you would like to give your employees, business partners or customers a small gift as a token of your **appreciation**. But what could be suitable Christmas gifts for employees and customers? A wealth of ideas and a sure instinct are required! In this article, you can find out which **Christmas gifts** will delight your employees and customers and what **budget** you can expect.

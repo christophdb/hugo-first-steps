@@ -6,6 +6,9 @@ coverImage: 'guests-with-suitcases-hotel-reception.jpg'
 author: 'nsc'
 url: '/reisekostenabrechnung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 The Income Tax Act describes three categories of **expenses** that employees can have **reimbursed** by their companies. In addition to orders placed on behalf of the company and expenses incurred to fulfill an order, this also applies to **business trips**. Whether it's a business trip lasting several days, a meeting with a distant customer or a trip to a trade fair - business trips are part of everyday life for many employees. In the following article, you will not only learn what a **travel expense report** is, but also receive valuable tips on how to create one.

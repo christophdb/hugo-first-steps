@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/de/produktmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Wenn Unternehmen ein Produkt oder eine Dienstleistung vertreiben, ist ein gutes Produktmanagement sehr wichtig für langfristigen Markterfolg. Denn was nützt ein super Produkt, das einfach nicht läuft? Wir zeigen, was es im Produktmanagement zu beachten gibt und welche nützlichen Funktionen die Arbeit mit SeaTable hier mit sich bringt.

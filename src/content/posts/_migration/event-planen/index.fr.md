@@ -4,6 +4,9 @@ date: 2024-03-07
 lastmod: '2024-03-07'
 author: 'nsc'
 url: '/fr/event-planen'
+seo:
+    title:
+    description:
 ---
 
 Si vous souhaitez organiser l'événement parfait, vous devez tenir compte de certaines choses. Mais par où commencer si l'on ne s'y connaît pas en gestion d'événements ? Et comment éviter les erreurs de planification, les collisions de dates et les annulations ?

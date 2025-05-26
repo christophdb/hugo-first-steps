@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/pt/kundenfeedback-verwerten'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Von qualitativen Rohdaten zum brandneuen Produktfeature. Bis aus der Anmerkung eines Kunden ein neues Feature entsteht, kann einige Zeit verstreichen. Trotzdem lohnt sich der Prozess und geht mit einem geeigneten Online-Tool auch viel leichter von der Hand, als Sie vielleicht gerade denken.

@@ -5,6 +5,9 @@ lastmod: '2024-05-02'
 author: 'nsc'
 url: '/pt/lernplan-erstellen'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Muitos alunos e estudantes são apanhados num turbilhão de procrastinação e de estudos de última hora. Talvez você também esteja a adiar o estudo até ter de estudar durante horas na última noite antes do exame para adquirir os conhecimentos necessários por um triz. Mas não se preocupe, há uma maneira melhor: criar um **plano de estudo** eficaz!

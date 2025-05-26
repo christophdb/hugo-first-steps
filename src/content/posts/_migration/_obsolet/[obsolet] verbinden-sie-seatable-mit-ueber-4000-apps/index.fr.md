@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/fr/verbinden-sie-seatable-mit-ueber-4000-apps'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 SeaTable est un outil formidable qui peut aider à collecter, structurer et travailler avec des données de différentes manières. Nous ne sommes donc pas surpris d'entendre régulièrement des personnes qui utilisent SeaTable d'une manière nouvelle et intéressante pour s'organiser, organiser leur vie et leur travail. Un artiste indien nous a dit qu'il avait utilisé SeaTable pour gérer l'ensemble de son travail, y compris les relations avec la presse, la liste des clients, les travaux commandés et un aperçu chronologique de ses œuvres, ce qui lui a permis de gagner en flexibilité et en liberté dans son travail. Ou encore une propriétaire de café à Berlin qui utilise SeaTable pour enregistrer les adresses de ses clients afin d'assurer le suivi des Corona.

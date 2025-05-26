@@ -5,6 +5,9 @@ lastmod: '2025-02-03'
 author: 'rdb'
 url: '/de/swot-analyse'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Die **SWOT-Analyse** ist ein entscheidendes **Werkzeug der strategischen Unternehmensplanung**, da sie sowohl interne als auch externe Faktoren berücksichtigt. Dieser Artikel erklärt an einem SWOT Analyse Beispiel, wie Sie am besten vorgehen und wie Ihnen ein SWOT Analyse Template bei der Umsetzung helfen kann.

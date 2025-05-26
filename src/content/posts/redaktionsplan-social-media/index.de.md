@@ -5,6 +5,9 @@ lastmod: '2025-01-17'
 author: 'rdb'
 url: '/de/redaktionsplan-social-media'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Um auf Social-Media-Plattformen messbare Erfolge zu erzielen, müssen Sie kontinuierlich neue Inhalte veröffentlichen. Und das oft mehrmals pro Woche für unterschiedliche Kanäle, wie LinkedIn, Instagram, Facebook, X oder Youtube. Es gilt, **termingerecht interessanten und unterhaltsamen Content zu posten**. Bei der Umsetzung hilft Ihnen ein **Social-Media Redaktionsplan**. Lesen Sie in diesem Artikel, wie Sie mit einem Social Media Plan eine erfolgreiche Social-Media-Strategie entwickeln.

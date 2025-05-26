@@ -4,6 +4,9 @@ date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
 url: '/de/junggesellenabschied'
+seo:
+    title:
+    description:
 ---
 
 Für den klassischen Junggesellenabschied gelten drei Dinge als unverzichtbar: auffällige **T-Shirts**, ein **Bauchladen** gefüllt mit allerlei Kuriositäten und ein **belebter Ort**. Doch warum sollte es nicht etwas Besonderes sein? Immerhin heiratet man meist nur einmal im Leben und der **Junggesellenabschied** kann ebenso einzigartig und unvergesslich sein wie die Hochzeit selbst.

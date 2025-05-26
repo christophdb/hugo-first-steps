@@ -5,6 +5,9 @@ lastmod: '2025-02-03'
 coverImage: 'Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg'
 author: 'rdb'
 url: '/budgetplanung-vorlage'
+seo:
+    title:
+    description:
 ---
 
 ## Advantages, types, tips for budget planning

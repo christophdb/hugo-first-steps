@@ -6,6 +6,9 @@ coverImage: 'seatable-version-3.5.jpg'
 author: 'kgr'
 url: '/seatable-release-3-5'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 April does what it wants - but SeaTable does what you want! With version 3.5, some long-cherished wishes of our users come true: The first column now also supports [formulas](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/) and via [automation](https://seatable.io/en/docs/automationen/uebersicht-ueber-automationen/) you can have two additional actions executed periodically. You gain more flexibility for demanding use cases with the conditional execution of [button actions](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) and the conditional [lookups](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/). Below we present these improvements in detail.

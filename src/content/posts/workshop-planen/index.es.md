@@ -4,6 +4,9 @@ date: 2024-01-15
 lastmod: '2024-01-15'
 author: 'kgr'
 url: '/es/workshop-planen'
+seo:
+    title:
+    description:
 ---
 
 Hoy en día, el aprendizaje permanente es una de las cosas más importantes cuando se trata de **cualificación profesional** y **desarrollo personal**. Ya se trate de un taller, de formación o de formación continua: Como empresario, es esencial que apoye a sus empleados y les ofrezca oportunidades de perfeccionamiento. Para muchos empleados de hoy en día, esto forma parte de un trabajo atractivo y **su empresa se beneficia** de muchas maneras de unos empleados bien formados.

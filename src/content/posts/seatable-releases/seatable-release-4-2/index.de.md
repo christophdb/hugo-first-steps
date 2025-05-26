@@ -5,6 +5,9 @@ lastmod: '2023-11-22'
 author: 'kgr'
 url: '/de/seatable-release-4-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 In **SeaTable 4.2** geht die Weiterentwicklung des Universal App Builders in die nächste Runde: Die neue **Versionsverwaltung** ermöglicht den Rücksprung auf frühere Versionsstände einer App. Mit der **Duplikatsprüfung** auf der Tabellen- und Formularseite können Sie wirksam die Erfassung identischer Einträge verhindern. Zudem ist es nun möglich, Seiten in der Universellen App zu duplizieren und **Apps zeitweise auszusetzen**.

@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/de/produktvergleich'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Es gibt nicht das eine SeaTable, sondern SeaTable können Sie in drei verschiedenen Ausführungen bekommen. Dabei hat die Wahl Ihres SeaTable-Systems große Auswirkungen darauf, wie schnell Sie loslegen können, um wie viel Sie sich selbst kümmern müssen, welchen Preis Sie zahlen und welche Kontrolle Sie über Ihre eigenen Daten haben. Dieser Artikel gibt Ihnen einen vollständigen Überblick darüber, welche Produkte Ihnen zur Verfügung stehen und welche Vorteile das jeweilige Produkt hat. Am Ende dieses Textes werden Sie wissen, welches SeaTable das Richtige für Sie ist. Versprochen.

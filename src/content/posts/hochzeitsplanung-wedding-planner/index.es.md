@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/es/hochzeitsplanung-wedding-planner'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Uno de los días más bonitos e importantes de la vida está a la vuelta de la esquina: tu propia boda. Nada debería salir mal aquí, por lo que la planificación estructurada de la boda es de gran importancia para la mayoría de las parejas. ¿Qué hay que hacer 12 meses antes de la boda, qué hay que hacer 5 meses antes del gran día? Si no dispone de medios económicos para contratar a un organizador de bodas profesional, o si simplemente le gusta planificar su propia boda, SeaTable le ayuda a no perder la visión de conjunto al planificar su boda.

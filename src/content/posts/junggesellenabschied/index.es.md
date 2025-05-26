@@ -4,6 +4,9 @@ date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
 url: '/es/junggesellenabschied'
+seo:
+    title:
+    description:
 ---
 
 Tres cosas se consideran indispensables para la clásica despedida de soltero: **camisetas** llamativas, una **bandeja de buhonero** llena de todo tipo de curiosidades y un **local animado**. Pero, ¿por qué no iba a ser algo especial? Al fin y al cabo, uno sólo se casa una vez en la vida y la **despedida de soltero** puede ser tan única e inolvidable como la propia boda.

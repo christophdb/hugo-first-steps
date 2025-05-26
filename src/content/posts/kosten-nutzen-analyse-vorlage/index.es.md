@@ -5,6 +5,9 @@ lastmod: '2025-02-20'
 author: 'cdb'
 url: '/es/kosten-nutzen-analyse-vorlage'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 En la vida cotidiana de las empresas, no siempre es fácil tomar las decisiones correctas. Hay que tener en cuenta muchos aspectos y factores y, a menudo, evaluar el efecto de determinadas medidas sin ningún valor empírico. El éxito de tu empresa depende de una cosa en particular: la base sobre la que se toman tus decisiones. Es bueno que puedas asentar tus decisiones sobre una base sólida con un **análisis coste-beneficio**.

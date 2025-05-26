@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/pt/indirekter-einkauf'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Está presente em todas as empresas, de uma forma ou de outra: as compras indirectas. Inclui a aquisição, a encomenda e a gestão completa de todos os bens e mercadorias que não são revendidos, mas que permanecem na empresa e são necessários para os processos internos da organização do escritório. Exemplos típicos de material indireto são:

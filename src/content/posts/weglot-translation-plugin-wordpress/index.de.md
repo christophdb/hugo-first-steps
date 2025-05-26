@@ -5,6 +5,9 @@ lastmod: '2022-04-05'
 author: 'cdb'
 url: '/de/weglot-translation-plugin-wordpress'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Weglot ist ein WordPress-Plugin zum automatischen Übersetzen der eigenen Webseite. Die Idee ist einfach und schnell erklärt. Man schreibt wie gewohnt alle Texte auf der eigenen Webseite in seiner Muttersprache und lässt Weglot alle Inhalte in eine oder mehrere andere Sprachen übersetzen. Der Webseitenbesucher wird automatisch auf die für ihn passende Sprache-Version umgeleitet und [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) übernimmt alle notwendigen Arbeiten für das internationale SEO. 

@@ -5,6 +5,9 @@ lastmod: '2025-01-17'
 author: 'rdb'
 url: '/fr/redaktionsplan-contentplan'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 De nos jours, une présence en ligne est essentielle pour le succès de votre entreprise. Il convient de publier régulièrement des contenus via les médias sociaux, votre site web, un blog ou des formats tels qu'un podcast. Il peut s'agir par exemple d'articles, de vidéos explicatives ou d'infographies. Un plan de contenu, également appelé plan éditorial, vous aide à **planifier et à créer tous vos contenus**.

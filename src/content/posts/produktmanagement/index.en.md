@@ -6,6 +6,9 @@ coverImage: 'pexels-lukas-669619.jpg'
 author: 'ott'
 url: '/produktmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 When companies market a product or service, good product management is very important for long-term market success. After all, what good is a great product that simply doesn't work? We show what needs to be considered in product management and which useful functions the work with SeaTable brings with it.

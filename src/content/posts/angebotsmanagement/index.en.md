@@ -6,6 +6,9 @@ coverImage: 'Angebotsmanagement_AdobeStock_62533714.jpg'
 author: 'rdb'
 url: '/angebotsmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 One thing is crucial for successful sales work: **offer management**. But what is important here? What mistakes should not be made under any circumstances? And what is behind the term "offer management" anyway?

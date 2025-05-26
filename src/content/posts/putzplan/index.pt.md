@@ -4,6 +4,9 @@ date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
 url: '/pt/putzplan'
+seo:
+    title:
+    description:
 ---
 
 Qualquer pessoa que viva com várias pessoas debaixo do mesmo teto conhece a situação: a loiça suja acumula-se no lava-loiça, o ralo do chuveiro está entupido e é preciso passar o aspirador outra vez. Mas ninguém se sente responsável e o trabalho incómodo continua por fazer. Para pôr fim ao caos, um plano de limpeza individual para a sua casa é a solução. Aqui pode encontrar tudo o que precisa de saber para criar o seu plano de limpeza.

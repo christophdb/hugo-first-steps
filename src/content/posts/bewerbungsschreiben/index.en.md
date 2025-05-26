@@ -5,6 +5,9 @@ lastmod: '2024-04-22'
 coverImage: 'Bewerbungsschreiben_02-e1713776597515.png'
 author: 'lsc'
 url: '/bewerbungsschreiben'
+seo:
+    title:
+    description:
 ---
 
 Whether it's an internship, apprenticeship or permanent position - the first step on the way to your dream job is always a successful **application**. Have you found lots of interesting **job vacancies**, but writing applications is giving you a headache? Don't worry, you're not alone. For many people, the **letter of application** is a major obstacle, as it requires an honest self-assessment and involves a lot of time-consuming formulation of your own skills.

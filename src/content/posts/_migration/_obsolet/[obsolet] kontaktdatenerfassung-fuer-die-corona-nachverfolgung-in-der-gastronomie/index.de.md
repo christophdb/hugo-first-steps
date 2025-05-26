@@ -6,6 +6,9 @@ author: 'pbr'
 url: '/de/kontaktdatenerfassung-fuer-die-corona-nachverfolgung-in-der-gastronomie'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Die Kontaktdatenerfassung in der Gastronomie für die Nachverfolgung von Covid19-Infektionsketten ist eine zentrale Komponente des Maßnahmenpakets, um die Ausbreitung des neuartigen Corona-Virus einzudämmen. Mit unserem Guest Registration Template erhalten Sie eine einfache, digitale Lösung, um die mühsame Zettelwirtschaft bei der Corona-Kontaktdatenerfassung zu beenden: Statt auf Papier trägt der Gast seine Kontaktdaten in ein Webformular auf seinem Smartphone ein. Um das Webformular zu öffnen, muss Ihr Gast nur einen QR-Code mit der Handykamera einscannen. Die Speicherung der Kontaktinformationen erfolgt in einem deutschen Rechenzentrum und Sie können die Eingabe der Kontaktdaten in Echtzeit über Ihr SeaTable Kundenkonto verfolgen. Starten Sie [jetzt]({{< relref "pages/registration" >}}) kostenlos mit der All-in-one Lösung für die Erfassung der Kontaktdaten in Restaurants, Bars und Cafés!

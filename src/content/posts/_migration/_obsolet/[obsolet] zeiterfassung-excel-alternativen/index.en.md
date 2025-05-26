@@ -7,6 +7,9 @@ author: 'cdb'
 url: '/zeiterfassung-excel-alternativen'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 How does time tracking work **in Excel** and what alternatives are available to you? In the following, you will learn how to implement time tracking with Excel or an alternative tool. Also learn about the advantages and disadvantages of the different solutions. Which one suits your company?

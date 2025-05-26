@@ -4,6 +4,9 @@ date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
 url: '/es/hausverwaltung'
+seo:
+    title:
+    description:
 ---
 
 El **alquiler de inmuebles** es un negocio lucrativo, tanto para particulares como para empresas y ayuntamientos. Sin embargo, si administra propiedades, debe asegurarse de que su **gestión inmobiliaria** funciona correctamente, independientemente de si alquila pisos individuales de forma privada o a gran escala con una empresa.

@@ -5,6 +5,9 @@ lastmod: '2022-07-27'
 author: 'cdb'
 url: '/fr/incident-management'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Dans le développement de logiciels, le suivi et la gestion des bugs et des issues peuvent vite devenir confus. Les outils correspondants, appelés **traqueurs de** bugs et **d'issues**, vous aident à corriger les erreurs rapidement et efficacement. Lisez dans cet article quels programmes peuvent vous aider à gérer les bugs et quelles sont les différences.

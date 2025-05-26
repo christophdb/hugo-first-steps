@@ -4,6 +4,9 @@ date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
 url: '/pt/inventarliste-erstellen'
+seo:
+    title:
+    description:
 ---
 
 Faz um **inventário** todos os anos ou mesmo todos os meses? Então veio ao sítio certo! Neste artigo, aprenderá a criar a sua **lista de inventário**, a normalizar o processo e a simplificar o seu inventário. Pode importar uma lista de inventário para o Excel ou criar o seu próprio modelo no Word. Descobrirá também as vantagens que uma base de dados gratuita como o **SeaTable** oferece **em relação ao Excel e ao Word**.

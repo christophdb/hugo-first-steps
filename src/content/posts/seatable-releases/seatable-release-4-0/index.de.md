@@ -5,6 +5,9 @@ lastmod: '2023-06-27'
 author: 'kgr'
 url: '/de/seatable-release-4-0'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Während draußen die Sonne brennt, haben unsere Entwickler einen kühlen Kopf behalten und das vierte Major Release von SeaTable fertiggestellt. SeaTable Version 4.0 verbessert bestehende Funktionen, stillt aber auch den Durst nach neuen Features. Neu in Version 4.0: ein Spaltentyp für digitale Unterschriften, ein integrierter Datei-Manager für die einfachere Verwaltung von Anhängen und – für unsere Cloud Enterprise Kunden – eine Custom-Logo-Funktion als Branding-Option.

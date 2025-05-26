@@ -5,6 +5,9 @@ lastmod: '2024-03-21'
 author: 'cdb'
 url: '/es/sammlung-verwalten'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Sus **colecciones** pueden **gestionarse** de forma óptima mediante programas y aplicaciones digitales. No importa si la colección consiste en objetos físicos o digitales. Entre los coleccionables más populares se encuentran monedas, sellos, zapatos, obras de arte, juguetes, cromos, fichas no fungibles (NFT), [libros](https://seatable.io/es/buecher-katalogisieren/), películas, música (en CD, discos) y mucho más. Cuando la pasión de coleccionista se apodera de uno, el mayor reto suele ser llevar la cuenta de todo. Aquí es donde entran en juego los programas que le permiten gestionar su colección, en su PC o con una aplicación.

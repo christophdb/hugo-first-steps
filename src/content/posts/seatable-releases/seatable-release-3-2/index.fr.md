@@ -5,6 +5,9 @@ lastmod: '2022-10-29'
 author: 'rdb'
 url: '/fr/seatable-release-3-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Bienvenue dans SeaTable 3.2 ! Dans cette nouvelle version, les types de colonnes de SeaTable sont sous les feux de la rampe : l'assistant de la colonne de formules est désormais interactif et offre une correction d'erreurs nettement améliorée. Les boutons du type de colonne du même nom permettent désormais d'effectuer plusieurs actions en un seul clic. De nouvelles fonctions dans la colonne des fichiers simplifient la gestion des fichiers et les colonnes de sélection offrent également une utilisation plus confortable. Mais les types de colonnes ne sont pas les seuls à en profiter. Les utilisateurs d'Enterprise, en particulier, peuvent se réjouir de l'amélioration des automatisations.

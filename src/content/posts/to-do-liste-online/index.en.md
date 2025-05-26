@@ -5,6 +5,9 @@ lastmod: '2024-04-03'
 coverImage: 'To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg'
 author: 'kgr'
 url: '/to-do-liste-online'
+seo:
+    title:
+    description:
 ---
 
 Creating and managing an online to-do list with an app has many advantages. This is because a **to-do list** helps you to manage your tasks efficiently both in your private life and in your day-to-day business and not forget anything in stressful everyday life. Read this article to find out why you should use a **template** for your to-do list and which **app** is best for a to-do list.

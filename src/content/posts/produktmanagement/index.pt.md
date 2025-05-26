@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/pt/produktmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Quando as empresas comercializam um produto ou serviço, uma boa gestão do produto é muito importante para o sucesso do mercado a longo prazo. Afinal de contas, de que serve um grande produto que simplesmente não funciona? Mostramos o que deve ser considerado na gestão do produto e quais as funções úteis que o trabalho com SeaTable traz consigo.

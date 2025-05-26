@@ -5,6 +5,9 @@ lastmod: '2025-02-03'
 author: 'rdb'
 url: '/fr/swot-analyse'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 L'**analyse SWOT** est un **outil** essentiel **de la planification stratégique d'entreprise**, car elle prend en compte les facteurs internes et externes. Cet article explique, à l'aide d'un exemple d'analyse SWOT, comment procéder au mieux et comment un modèle d'analyse SWOT peut vous aider à la mettre en œuvre.

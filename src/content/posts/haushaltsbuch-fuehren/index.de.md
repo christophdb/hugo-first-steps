@@ -4,6 +4,9 @@ date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
 url: '/de/haushaltsbuch-fuehren'
+seo:
+    title:
+    description:
 ---
 
 Die eigenen Ausgaben im Blick zu behalten ist manchmal gar nicht so leicht. Viel zu oft passiert es, dass das Geld am Ende des Monats einfach weg ist und man sich kaum erinnern kann, wofür man es eigentlich ausgegeben hat. Genau dann schafft ein **Haushaltsbuch** Abhilfe und bringt Ordnung in das Finanzchaos!

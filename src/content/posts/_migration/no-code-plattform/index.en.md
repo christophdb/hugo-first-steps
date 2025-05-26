@@ -7,6 +7,9 @@ author: 'cdb'
 url: '/no-code-plattform'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Software development is always exhausting, time-consuming, laborious and requires the skills of an experienced developer. No-Code is the promise to accelerate and simplify this laborious process of software development.

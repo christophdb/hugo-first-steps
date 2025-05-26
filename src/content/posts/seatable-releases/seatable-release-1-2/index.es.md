@@ -5,6 +5,9 @@ lastmod: '2023-07-27'
 author: 'mwu'
 url: '/es/seatable-release-1-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable es la solución definitiva para la gestión de datos y la colaboración en línea. Con sus múltiples tipos de campos, funciones de organización, grupo, gestión de equipos y colaboración, así como numerosas plantillas y plugins, SeaTable da rienda suelta a toda la productividad de su equipo.

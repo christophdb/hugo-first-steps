@@ -7,6 +7,9 @@ author: 'rbu'
 url: '/bugtracker-software'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 When developing complex software, there is no getting around errors. So-called [bugs](https://www.arksolutions.de/gs/project/blog/bug-programmfehler) always occur during the development phase and must be documented and resolved accordingly in a bug tracker. Without well-structured software, searching for, tracking and monitoring bugs can quickly become confusing and cost a lot of valuable time.

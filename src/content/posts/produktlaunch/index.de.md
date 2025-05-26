@@ -5,6 +5,9 @@ lastmod: '2022-06-13'
 author: 'rbu'
 url: '/de/produktlaunch'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Haben Sie den Prozess der Produktentwicklung erfolgreich abgeschlossen, steht einem Produktlaunch nichts mehr im Wege.

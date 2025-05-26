@@ -5,6 +5,9 @@ lastmod: '2024-02-16'
 author: 'kgr'
 url: '/de/seatable-release-4-3'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Die Karnevalszeit in Deutschland nähert sich ihrem Höhepunkt – und auch bei SeaTable knallen die Konfetti-Kanonen! Version 4.3 bringt einige lang ersehnte Funktionen und Verbesserungen mit sich.

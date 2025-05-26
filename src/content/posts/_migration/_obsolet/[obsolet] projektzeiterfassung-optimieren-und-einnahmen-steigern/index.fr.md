@@ -6,6 +6,9 @@ author: 'ott'
 url: '/fr/projektzeiterfassung-optimieren-und-einnahmen-steigern'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 De nombreux prestataires de services la connaissent et la redoutent : la saisie du temps de projet. Le suivi du temps n'est pas apprécié et, dans la plupart des cas, il n'est pas effectué aussi minutieusement qu'il le devrait peut-être. Pourtant, la devise ici est "le temps, c'est de l'argent" ! Les designers, les architectes et les agences connaissent ce problème et savent parfois difficilement comment y remédier.

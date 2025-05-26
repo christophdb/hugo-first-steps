@@ -5,6 +5,9 @@ lastmod: '2024-02-05'
 author: 'nsc'
 url: '/de/einkaufsliste'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Im hektischen Alltag kann der Gang zum Supermarkt zwischen all den beruflichen und privaten Verpflichtungen zu einer echten Herausforderung werden. An stressigen Tagen kommt es nicht selten vor, dass man auch noch die mühsam erstellte Einkaufsliste zu Hause vergisst. Doch keine Sorge – eine **digitale Einkaufsliste / App** kann in solchen Situationen effektiv Abhilfe schaffen.

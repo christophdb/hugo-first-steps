@@ -4,6 +4,9 @@ date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
 url: '/es/beerdigung-planen'
+seo:
+    title:
+    description:
 ---
 
 ¿Ha perdido a un ser querido y le gustaría que los funerales se celebraran sin complicaciones? ¿O le gustaría planificar su propio funeral para aliviar a sus familiares tras su muerte? En este artículo encontrará toda la información importante que necesita saber sobre la organización de un funeral.

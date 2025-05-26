@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/de/kundenfeedback-mit-seatable'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Was begeistert Ihre Kunden und womit sind Sie gar nicht zufrieden? Suchen Sie den günstigsten Preis oder ist Ihnen vielmehr ein spannendes Shopping Erlebnis wichtig? Kundenfeedback bietet Ihnen nicht nur Einblicke in die Charakteristika Ihrer Zielgruppe, sie erhalten auch einen ganz neuen Blick auf Ihre eigenes Produkt. Ist das Feedback erst mal eingeholt, gilt es dieses richtig auszuwerten.

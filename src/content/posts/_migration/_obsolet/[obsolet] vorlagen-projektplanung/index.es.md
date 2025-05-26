@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/es/vorlagen-projektplanung'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 **Las plantillas de** **planificación de proyectos** permiten empezar a planificar y ejecutar un proyecto inmediatamente. Los diagramas de Gantt, los tableros Kanban o las listas inteligentes se utilizan para gestionar las actividades del proyecto, los plazos y los presupuestos, entre otras cosas. A continuación encontrará varias plantillas con datos de muestra para crear su plan de proyecto.

@@ -5,6 +5,9 @@ lastmod: '2025-02-13'
 author: 'nsc'
 url: '/de/content-ideen'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Für einen erfolgreichen Auftritt in den sozialen Medien ist besonders eines wichtig: **regelmäßiges Posten** von Inhalten. Die Algorithmen von [Instagram](http://www.instagram.com) und Co. bestrafen Inaktivität sofort und schränken die Sichtbarkeit von Accounts ein, was durchaus fatal für Ihre **Reichweite** sein kann. Daher ist es wichtig, den Algorithmus regelmäßig zu füttern und Content-Ideen für Instagram, TikTok etc. zu sammeln.

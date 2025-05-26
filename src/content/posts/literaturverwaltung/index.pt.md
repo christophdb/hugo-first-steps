@@ -4,6 +4,9 @@ date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
 url: '/pt/literaturverwaltung'
+seo:
+    title:
+    description:
 ---
 
 Quer se trate de uma tese, dissertação ou relatório de investigação - um **programa de gestão de referências** facilita o trabalho em projectos científicos. A criação de **bibliografias** leva tanto tempo como a procura, visualização e análise de **fontes**.

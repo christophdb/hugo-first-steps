@@ -4,6 +4,9 @@ date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
 url: '/pt/junggesellenabschied'
+seo:
+    title:
+    description:
 ---
 
 Três coisas são consideradas indispensáveis para a despedida de solteiro clássica: **t-shirts** apelativas, um **tabuleiro de vendedores ambulantes** cheio de todo o tipo de curiosidades e um **local animado**. Mas porque é que não há-de ser algo especial? Afinal de contas, normalmente só se casa uma vez na vida e a **despedida** de **solteiro** pode ser tão única e inesquecível como o próprio casamento.

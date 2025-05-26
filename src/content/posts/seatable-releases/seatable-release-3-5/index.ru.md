@@ -5,6 +5,9 @@ lastmod: '2023-09-04'
 author: 'kgr'
 url: '/ru/seatable-release-3-5'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Апрель делает то, что хочет - но SeaTable делает то, что хотите вы! Версия 3.5 исполняет некоторые давние пожелания наших пользователей: первый столбец теперь также поддерживает [формулы](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/), а с помощью [автоматизации](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/) вы можете периодически выполнять два дополнительных действия. Вы получаете больше гибкости для более сложных случаев использования благодаря условному выполнению [действий кнопок](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) и условному [поиску](https://seatable.io/ru/docs/verknuepfungen/die-lookup-funktion/). Далее мы подробно расскажем об этих улучшениях.

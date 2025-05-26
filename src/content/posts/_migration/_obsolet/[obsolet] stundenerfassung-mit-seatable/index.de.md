@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/de/stundenerfassung-mit-seatable'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Die elektronische Erfassung der Arbeitszeiten ist bislang zwar noch keine Pflicht, soll aber, [wenn es nach dem Bundesarbeitsministerium geht](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html), bald kommen. Eine einfache [Vorlage zur Arbeitszeiterfassung](https://seatable.io/arbeitszeiterfassung/) verschafft Ihnen hier Abhilfe. Mit SeaTable haben Sie ein Formular zur Stundenerfassung für Ihre Mitarbeiter und gleichzeitig eine übersichtliche Tabelle zur Hand, in der Sie alle geleisteten Stunden sehen können.

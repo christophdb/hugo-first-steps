@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/es/kundenfeedback-verwerten'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 De los datos cualitativos en bruto a una nueva característica del producto. Puede pasar algún tiempo antes de que una nueva función surja de un comentario de un cliente. Sin embargo, el proceso merece la pena y, con una herramienta online adecuada, es mucho más fácil de lo que se piensa.

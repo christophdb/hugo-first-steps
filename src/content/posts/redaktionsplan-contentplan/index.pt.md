@@ -5,6 +5,9 @@ lastmod: '2025-01-17'
 author: 'rdb'
 url: '/pt/redaktionsplan-contentplan'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Atualmente, uma presença em linha é crucial para o sucesso da sua empresa. É necessário publicar regularmente conteúdos através das redes sociais, do seu sítio Web, de um blogue ou de formatos como um podcast. Podem ser artigos, vídeos explicativos ou infografias, por exemplo. Um plano de conteúdos, também conhecido como plano editorial, ajuda-o a **planear e a criar todos os seus conteúdos**.

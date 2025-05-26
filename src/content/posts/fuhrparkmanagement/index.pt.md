@@ -4,6 +4,9 @@ date: 2024-01-09
 lastmod: '2025-02-12'
 author: 'kgr'
 url: '/pt/fuhrparkmanagement'
+seo:
+    title:
+    description:
 ---
 
 Quer se trate de camiões, autocarros ou automóveis clássicos da empresa: a gestão de uma frota de veículos é uma tarefa multifacetada para empresas de todas as dimensões, e há muito a considerar. O artigo que se segue destina-se, portanto, a ajudar a esclarecer todas as suas dúvidas sobre a **gestão de frotas**.

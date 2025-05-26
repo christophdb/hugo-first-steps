@@ -7,6 +7,9 @@ author: 'rdb'
 url: '/teamadministration'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 With the upgrade of SeaTable Cloud to version 3.0, Cloud subscribers benefit not only from the many new and improved functions of the [major release]({{< relref "posts/seatable-releases/seatable-release-3-0" >}}, but also from a new team management that simplifies the management of small and especially larger teams. New functions have been added, existing functions have been expanded and a new design creates more clarity and user-friendliness. We are pleased to present the new team management and the most important changes in this article.

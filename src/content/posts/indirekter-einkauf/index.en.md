@@ -6,6 +6,9 @@ coverImage: 'indirect_procurement.jpg'
 author: 'ott'
 url: '/indirekter-einkauf'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 It is present in every company in one way or another: indirect purchasing. It includes the procurement, ordering and complete management of all goods and merchandise that are not resold, but remain within the company and are needed for the internal operations of the office organization. Typical examples of indirect material are:

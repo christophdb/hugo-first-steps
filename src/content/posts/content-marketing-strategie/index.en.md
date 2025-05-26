@@ -6,6 +6,9 @@ coverImage: 'content-marketing-with-seatable.jpg'
 author: 'cdb'
 url: '/content-marketing'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Content marketing is a popular marketing approach to place one's own products with customers and potential prospects. The basic idea behind content marketing is very simple: you create content for your target group, publish it and inspire your customers.

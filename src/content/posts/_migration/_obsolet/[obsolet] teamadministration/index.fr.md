@@ -6,6 +6,9 @@ author: 'rdb'
 url: '/fr/teamadministration'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Avec la mise à niveau de SeaTable Cloud vers la version 3.0, les abonnés Cloud bénéficient non seulement des nombreuses fonctions nouvelles et améliorées de la [version majeure]({{< relref "posts/seatable-releases/seatable-release-3-0" >}}, mais aussi d'une nouvelle gestion d'équipe qui simplifie la gestion des petites et surtout des grandes équipes. De nouvelles fonctions ont été ajoutées, les fonctions existantes ont été étendues et un nouveau design permet une meilleure vue d'ensemble et une plus grande convivialité. Nous sommes heureux de vous présenter la nouvelle gestion d'équipe et les principaux changements dans ce montant.

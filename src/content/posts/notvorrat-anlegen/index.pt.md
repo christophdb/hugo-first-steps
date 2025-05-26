@@ -4,6 +4,9 @@ date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
 url: '/pt/notvorrat-anlegen'
+seo:
+    title:
+    description:
 ---
 
 O que faria se a eletricidade e a água falhassem subitamente em todo o país? Na Alemanha isso é muito improvável, mas noutras partes do mundo os danos nas infra-estruturas são mais comuns. Muitas pessoas não estão suficientemente preparadas para estas e outras **situações de emergência**.

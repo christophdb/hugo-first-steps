@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/fr/kundenfeedback-verwerten'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Des données brutes qualitatives à la toute nouvelle fonctionnalité du produit. Il peut s'écouler un certain temps avant que la remarque d'un client ne débouche sur une nouvelle fonctionnalité. Néanmoins, le processus en vaut la peine et, avec un outil en ligne approprié, il est beaucoup plus facile que vous ne le pensez.

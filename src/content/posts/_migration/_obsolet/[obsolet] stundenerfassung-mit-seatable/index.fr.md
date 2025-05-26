@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/fr/stundenerfassung-mit-seatable'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 L'enregistrement électronique des heures de travail n'est pas encore obligatoire, mais il le deviendra bientôt, [si l'on en croit le ministère fédéral du Travail](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html). Un [modèle](https://seatable.io/fr/arbeitszeiterfassung/) simple [de saisie des heures de travail](https://seatable.io/fr/arbeitszeiterfassung/) vous permet d'y remédier. Avec SeaTable, vous disposez d'un formulaire de saisie des heures pour vos collaborateurs et d'un tableau clair dans lequel vous pouvez voir toutes les heures travaillées.

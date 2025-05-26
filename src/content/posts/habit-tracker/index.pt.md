@@ -4,6 +4,9 @@ date: 2023-12-06
 lastmod: '2024-01-25'
 author: 'lsc'
 url: '/pt/habit-tracker'
+seo:
+    title:
+    description:
 ---
 
 Tomar **resoluções** de Ano Novo tornou-se um hábito para muitas pessoas. Mas todos os anos ficamos desiludidos quando não conseguimos cumprir as nossas resoluções. É necessária uma forte vontade para integrar novos hábitos nas nossas vidas. Existem **rastreadores de hábitos** para tornar este processo mais fácil.

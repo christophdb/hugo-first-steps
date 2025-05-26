@@ -5,6 +5,9 @@ lastmod: '2023-11-22'
 author: 'kgr'
 url: '/seatable-release-4-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 **SeaTable 4.** 2 takes the further development of the Universal App Builder to the next level: The new **version management** allows you to revert to previous versions of an app. With the **duplicate check** on the table and form page, you can effectively prevent the entry of identical records. In addition, it is now possible to duplicate pages in the universal app and **temporarily suspend apps**.

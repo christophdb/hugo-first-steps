@@ -6,6 +6,9 @@ author: 'cdb'
 url: '/fr/vorlagen-projektplanung'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 **Les modèles** de **planification de projet** permettent de commencer immédiatement à planifier et à réaliser un projet. On utilise des diagrammes de Gantt, des tableaux Kanban ou des listes intelligentes pour gérer les activités du projet, les délais, les budgets et bien plus encore. Vous trouverez ci-dessous différents modèles, y compris des exemples de données, pour la création de votre plan de projet.

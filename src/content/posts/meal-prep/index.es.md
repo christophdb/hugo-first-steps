@@ -4,6 +4,9 @@ date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
 url: '/es/meal-prep'
+seo:
+    title:
+    description:
 ---
 
 Comer lo más barato y sano posible con el menor tiempo posible: una tendencia de EE.UU. promete exactamente eso. En el estresante día a día solemos descuidar una **dieta equilibrada**. En lugar de ello, a menudo recurrimos a la comida rápida o a tentempiés poco saludables durante las pausas para comer, por ejemplo, para satisfacer nuestros antojos. En este artículo descubrirá en qué consiste la **preparación** de comidas, qué debe tener en cuenta a la hora de prepararla y cómo crear un [plan semanal](https://seatable.io/es/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) inteligente.

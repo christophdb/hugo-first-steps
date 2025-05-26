@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/de/kundenfeedback'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Kundenfeedback ist für viele Unternehmen Grundlage wichtiger Entscheidungen. Egal ob Start-up, etabliertes Unternehmen oder selbstständig arbeitend, das Feedback von Ihren Kunden hilft Ihnen, Ihr [Produkt stetig zu verbessern](https://blog.ekomi.com/2019/10/24/6-schritte-zum-business-wachstum-durch-kundenfeedback/). Mit unserem [Onlinetool](https://seatable.io/vorlage/ku9n1tyosmmho-8trn7rdg/) erhalten Sie eine umfassende Lösung, die es Ihnen ermöglicht:

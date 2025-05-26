@@ -6,6 +6,9 @@ coverImage: 'release-notes-2.2-1.jpg'
 author: 'rdb'
 url: '/seatable-release-2-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable knows no summer break! We keep our monthly release cycle and so, beginning today, all [SeaTable Cloud](https://cloud.seatable.io) users benefit from the advantages of SeaTable 2.2. Automations and external apps are two new features introduced in this version. Other highlights of the new release include nested groups, cascading single select columns, as well as improved table permissions and data processing operations. These release notes describe all these new features. The much more comprehensive, complete list of changes can be found - as always - in the SeaTable changelog. On [Docker Hub](https://hub.docker.com/u/seatable/), SeaTable 2.2 - in both editions of SeaTable Server - will be available tomorrow.

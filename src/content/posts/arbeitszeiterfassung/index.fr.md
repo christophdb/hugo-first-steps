@@ -5,6 +5,9 @@ lastmod: '2023-04-25'
 author: 'kgr'
 url: '/fr/arbeitszeiterfassung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Vous l'avez probablement déjà appris par les médias : Le ministère fédéral du Travail prévoit une réforme de la loi sur le temps de travail pour 2023. Mais qu'est-ce que cela va changer pour vous et votre entreprise ? Devez-vous acquérir des systèmes de saisie du temps de travail coûteux ou un [logiciel gratuit](https://seatable.io/fr/arbeitszeiterfassung/) suffit-il ? Dans cet article, nous vous montrons comment mettre en œuvre la saisie des temps de vos collaborateurs avec un minimum de frais administratifs tout en respectant la législation en vigueur.

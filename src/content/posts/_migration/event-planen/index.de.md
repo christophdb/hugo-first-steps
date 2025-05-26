@@ -4,6 +4,9 @@ date: 2024-03-07
 lastmod: '2024-03-07'
 author: 'nsc'
 url: '/de/event-planen'
+seo:
+    title:
+    description:
 ---
 
 Wenn Sie das perfekte Event planen möchten, müssen Sie so einiges beachten. Doch wo fängt man am besten an, wenn man sich nicht mit Eventmanagement auskennt? Und wie verhindert man Fehlplanungen, Terminkollisionen und Absagen?

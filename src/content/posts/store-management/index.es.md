@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/es/store-management-mit-seatable'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Con la apertura de nuevos locales, no sólo crece el volumen de negocio, sino también el esfuerzo organizativo. Ahora es importante mantener una visión general. Nuestra plantilla de gestión de tiendas le ayuda con las siguientes preguntas: ¿Dónde están sus sucursales de mayor volumen de negocio? ¿Qué tiendas necesitan más atención porque no han alcanzado el volumen de negocio previsto? ¿Dónde se necesita nuevo personal y cuál es la calidad de su personal contratado? ¿Qué empleados podrían utilizar qué formación?

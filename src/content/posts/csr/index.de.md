@@ -4,6 +4,9 @@ date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
 url: '/de/csr'
+seo:
+    title:
+    description:
 ---
 
 In einer Zeit, in der sich der Trend zur **Nachhaltigkeit** zunehmend verstärkt, stehen Unternehmen vor der Herausforderung, den höheren Ansprüchen ihrer Kunden gerecht zu werden. Die steigende Nachfrage nach nachhaltigen Produkten spiegelt sich im Verhalten der Verbraucher wider, die zunehmend Wert auf Umweltverträglichkeit und soziale Verantwortung legen – Stichwort: **Corporate Social Responsibility (CSR)**.

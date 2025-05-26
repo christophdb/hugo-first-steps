@@ -5,6 +5,9 @@ lastmod: '2024-07-26'
 author: 'nsc'
 url: '/fr/festival-packliste'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Lorsque la saison des festivals commence et que l'on se réjouit de pouvoir écouter de la bonne musique et de partager des moments avec des amis, il est temps de boucler ses bagages. Pour que votre visite au festival se déroule sans accroc et ne soit pas assombrie par des problèmes et des contrariétés, une **préparation minutieuse** est essentielle.

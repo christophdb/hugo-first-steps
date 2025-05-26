@@ -6,6 +6,9 @@ coverImage: 'release-3.3-release-note.jpg'
 author: 'rdb'
 url: '/seatable-release-3-3'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable fans will receive their Christmas present today: version 3.3 of SeaTable with its numerous improvements and new features. The completely revised form editor in block design offers new freedoms and additional functions for the design and use of web forms. In addition to text e-mails, SeaTable now also sends formatted HTML e-mails. The extended editor for formatted text makes this a breeze. And payment columns now offer automatic data validation as already known from text columns. Also users who want to manage mass data in SeaTable will get their money's worth with SeaTable 3.3. From now on SeaTable can import hundreds of thousands of rows from an XLSX file directly into the Big Data store and export them again from there. Want to know more? Then read on!

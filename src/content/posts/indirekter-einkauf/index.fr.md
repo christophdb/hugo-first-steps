@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/fr/indirekter-einkauf'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Il est présent dans chaque entreprise d'une manière ou d'une autre : les achats indirects. Il comprend l'approvisionnement, la commande et la gestion complète de tous les biens et marchandises qui ne sont pas revendus, mais qui restent dans l'entreprise et sont nécessaires pour les processus internes de l'organisation de bureau. Voici des exemples typiques d'achats indirects :

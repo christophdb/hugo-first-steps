@@ -4,6 +4,9 @@ date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
 url: '/beerdigung-planen'
+seo:
+    title:
+    description:
 ---
 
 Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigung reibungslos hinter sich bringen? Oder Sie möchten Ihre eigene Beerdigung planen, um Ihre Angehörigen nach Ihrem Tod zu entlasten? Dieser Artikel liefert Ihnen alle wichtigen Informationen, was Sie rund um die Organisation einer Bestattung beachten sollten.

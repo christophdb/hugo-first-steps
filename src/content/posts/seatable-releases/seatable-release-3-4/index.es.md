@@ -5,6 +5,9 @@ lastmod: '2023-03-01'
 author: 'rdb'
 url: '/es/seatable-release-3-4'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 ¡El despertar de la primavera en SeaTable! Mientras en el exterior brotan las primeras flores, nosotros salimos de las vacaciones de invierno con SeaTable 3.4. Prepárese para una experiencia de usuario mejorada y aún más libertad de diseño. El plugin de diseño de páginas despliega ahora todo su potencial al igual que el editor de formularios web, con funciones ampliadas para el posicionamiento dinámico de elementos y otras opciones útiles. Descubra la nueva función de búsqueda al filtrar, ordenar y agrupar en los ajustes de vista y al crear opciones en columnas de selección. También se han introducido notables innovaciones en la aplicación de consulta de datos, que ahora permite realizar búsquedas refinadas en varios campos. El menú contextual de la fila también tiene más opciones y las entradas del registro de filas lucen un nuevo esplendor.

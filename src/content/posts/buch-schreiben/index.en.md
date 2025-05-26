@@ -6,6 +6,9 @@ coverImage: 'Tiny-male-author-or-screenwriter-writing-story-or-movie-script.jpg'
 author: 'nsc'
 url: '/buch-schreiben'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 For many, writing a book is a fascinating but also challenging process. From the initial idea to the finished **manuscript**, there are numerous hurdles to overcome and steps to take. At a time when digital tools and software solutions are playing an ever-increasing role in **the creative process**, it is crucial for authors to find the right software to bring their visions to life. This article takes a closer look at **7 tools** to help you write your book.

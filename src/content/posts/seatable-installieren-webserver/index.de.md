@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rdb'
 url: '/de/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Im Beitrag [SeaTable Enterprise Edition unter Ubuntu Server 20.04 LTS installieren]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) haben wir die Standardinstallation von SeaTable Enterprise auf einem Server mit Ubuntu Linux erklärt. Bei der Standardinstallation erfolgt die Installation von SeaTable auf einem Server, auf dem keine weiteren Webanwendungen laufen. Was aber, wenn die Ports 80 und 443 bereits durch einen anderen Dienst wie z.B. einen nginx oder Apache Webserver belegt sind? Diese Frage beantworten wir in diesem Beitrag. Wie Sie sehen werden, ist die Antwort erfreulich einfach.

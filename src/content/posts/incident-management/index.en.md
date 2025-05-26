@@ -6,6 +6,9 @@ coverImage: 'Issuetracker_AdobeStock_167160211_bearbeitet.jpg'
 author: 'cdb'
 url: '/incident-management'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 In software development, monitoring and managing bugs and issues can quickly become confusing. Appropriate tools, so-called bug and **issue trackers**, help you to fix bugs quickly and efficiently. Read in this article which programmes can support you in bug management and what the differences are.

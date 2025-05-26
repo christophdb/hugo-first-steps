@@ -6,6 +6,9 @@ coverImage: 'title-scaled-1.jpg'
 author: 'rdb'
 url: '/seatable-release-1-4'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 We are pleased to announce the release of SeaTable 1.4! We've packed a new column type, improved database features, realtime chat and many more improvements into this new release. Organising data and collaborating in a team has never been so easy and convenient! And best of all, every user benefits from the new features, including the free subscription.

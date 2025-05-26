@@ -5,6 +5,9 @@ lastmod: '2022-07-27'
 author: 'cdb'
 url: '/de/personalplanung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Personalplanung? Da nehme ich eine Excel-Vorlage. Kostenlos am besten. Einfach aus dem Internet laden und fertig. So oder ähnlich sehen es nach wie vor viele HR-Abteilungen – was für eine optimale Planung von Personal, Schichten und Urlauben alles andere als sinnvoll ist. Denn auch wenn die Personalplanung mit Excel weit verbreitet ist, so ist sie gleichzeitig extrem umständlich und fehleranfällig. Doch wie gelingt die **Personalplanung** ohne **Excel-Vorlage**, die auch noch **kostenlos** ist?

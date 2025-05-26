@@ -5,6 +5,9 @@ lastmod: '2023-07-05'
 author: 'cdb'
 url: '/es/ausstellungs-und-kunstmanagement-museum-galerie'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Hay unos [55.000 museos](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) en todo el mundo e innumerables galerías, exposiciones, teatros y escenarios artísticos. Todo el mundo estará de acuerdo en que el arte, en sus diversas formas, desempeña un papel importante en nuestras vidas. Sin las herramientas digitales, hoy en día sería casi inimaginable gestionar y hacer funcionar una institución artística de este tipo. Solicitar fondos públicos, hacer inventario de las exposiciones y (sobre todo durante la pandemia de Corona) registrar a los visitantes: sin duda hay tareas más fáciles que la gestión del arte.

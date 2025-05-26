@@ -6,6 +6,9 @@ coverImage: 'key-1504422_1920.jpg'
 author: 'ott'
 url: '/digitales-produktmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Digital product management is indispensable in dealing with products in today's age. Because digitally, many things are so much easier than they used to be. One goal is to map the various interfaces of the entire product management from start to finish and to compile all information completely and compactly. This often involves switching back and forth between different programmes and tools - with SeaTable, this is no longer necessary.

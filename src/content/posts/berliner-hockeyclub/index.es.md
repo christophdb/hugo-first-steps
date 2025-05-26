@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'cdb'
 url: '/es/berliner-hockeyclub'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Como gestor de un club deportivo, hay muchas áreas que controlar y gestionar, ya sea la contabilidad general, la reserva de campos o la gestión de tareas para todos los socios. El Club de Hockey de Berlín utiliza SeaTable para transferir los numerosos sistemas individuales que existen actualmente a un único sistema y digitalizar así sus procesos.

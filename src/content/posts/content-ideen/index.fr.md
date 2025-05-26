@@ -5,6 +5,9 @@ lastmod: '2025-02-13'
 author: 'nsc'
 url: '/fr/content-ideen'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Pour une présence réussie dans les médias sociaux, une chose est particulièrement importante : **publier régulièrement** des contenus. Les algorithmes d'[Instagram](http://www.instagram.com) et autres pénalisent immédiatement l'inactivité et limitent la visibilité des comptes, ce qui peut être tout à fait fatal pour votre **portée**. Il est donc important d'alimenter régulièrement l'algorithme et de collecter des idées de contenu pour Instagram, TikTok, etc.

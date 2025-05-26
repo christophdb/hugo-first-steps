@@ -4,6 +4,9 @@ date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
 url: '/es/putzplan'
+seo:
+    title:
+    description:
 ---
 
 Cualquiera que viva con varias personas bajo el mismo techo conoce la situación: los platos sucios se amontonan en el fregadero, el desagüe de la ducha está atascado y hay que volver a pasar la aspiradora. Pero nadie se siente responsable y el molesto trabajo sigue sin hacerse. Para acabar con el caos, la solución es un plan de limpieza individual para su hogar. Aquí encontrarás todo lo que necesitas saber para crear tu plan de limpieza.

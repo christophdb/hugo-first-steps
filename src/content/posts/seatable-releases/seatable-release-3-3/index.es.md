@@ -5,6 +5,9 @@ lastmod: '2022-12-15'
 author: 'rdb'
 url: '/es/seatable-release-3-3'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Los aficionados a SeaTable recibirán hoy su regalo de Navidad: la versión 3.3 de SeaTable con sus numerosas mejoras e innovaciones. El editor de formularios completamente revisado en diseño de bloques ofrece nueva libertad y funciones adicionales para el diseño y uso de formularios web. Además de correos electrónicos de texto, SeaTable ahora también envía correos electrónicos HTML formateados. El editor ampliado de texto formateado lo convierte en un juego de niños. Y las columnas de pago ofrecen ahora validación automática de datos, como ya se sabe de las columnas de texto. Los usuarios que gestionan o quieren gestionar datos masivos en SeaTable también sacan partido a su dinero con SeaTable 3.3. A partir de ahora, SeaTable puede importar cientos de miles de filas de un archivo XLSX directamente a la memoria de Big Data y volver a exportarlas desde allí. ¿Quiere saber más? Pues siga leyendo.

@@ -4,6 +4,9 @@ date: 2024-04-16
 lastmod: '2024-04-16'
 author: 'nsc'
 url: '/pt/fundraising'
+seo:
+    title:
+    description:
 ---
 
 **A angariação de fundos** é mais do que uma simples estratégia de financiamento: é uma forma de alcançar objectivos em conjunto. Desde o apoio a **organizações sem fins lucrativos** e **campanhas políticas** até ao financiamento de **inovações empresariais**, está presente em quase todos os domínios da vida social. Recorre a uma variedade de estratégias para promover o empenhamento e a solidariedade das pessoas.

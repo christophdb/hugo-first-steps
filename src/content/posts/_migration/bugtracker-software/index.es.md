@@ -6,6 +6,9 @@ author: 'rbu'
 url: '/es/bugtracker-software'
 color: '#eeeeee'
 draft: true
+seo:
+    title:
+    description:
 ---
 
 Bei der Entwicklung komplexer Software kommt man um Fehler nicht herum. Sogenannte [Bugs](https://www.arksolutions.de/gs/project/blog/bug-programmfehler) entstehen während der Entwicklungsphase immer und müssen dementsprechend in einem Bugtracker dokumentiert und gelöst werden. Ohne eine gut strukturierte Software, kann das Suchen, Tracken und Überwachen von Fehlern schnell unübersichtlich werden und viel wertvolle Zeit kosten.
