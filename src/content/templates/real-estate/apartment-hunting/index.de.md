@@ -1,0 +1,24 @@
+---
+title: 'Wohnungssuche'
+description: ''
+date: '2024-08-24'
+url: '/template/apartment-hunting'
+category: 'real-estate'
+functions:
+seo:
+    title: ''
+    description: ''
+template: '3ab08a59c6b34166b852'
+---
+
+Die Suche nach der passenden Wohnung kann schnell chaotisch werden – vor allem, wenn Sie mehrere Mietobjekte gleichzeitig im Visier haben. Mit diesem Template von SeaTable erfassen Sie alle Informationen zu den interessanten Mietobjekten strukturiert und einfach an einer Stelle.
+
+In der Vorlage können Sie Ihre individuellen Kriterien eintragen und auf einen Blick alle potenziellen Wohnungen vergleichen. Neben Bildern können Sie auch die Kontaktdaten der Vermieter sowie Besichtigungstermine einfügen. Nach jeder Besichtigung können Sie Ihren Eindruck notieren und so keine Details vergessen. Durch eine gute Organisation wird Ihnen die Wohnungssuche und die letztendliche Entscheidung für Ihre Traumwohnung leichter fallen.
+
+Tipps, wie Sie Ihre neue Wohnung finden und was Sie schon vor der Wohnungssuche beachten sollten, finden Sie in unseremBlog-Artikel.
+
+​
+
+## Interaktives Template
+
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen zu SeaTable empfehlen wir Ihnen, unserenHilfebereichzu nutzen.

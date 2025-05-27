@@ -10,3 +10,15 @@ seo:
     description: ''
 template: 'fc4bbfc83848400a8669'
 ---
+
+Moving can be very stressful, but we all have to go through it at least once in our lives. SeaTable's customizable moving plan will help you prepare ideally for your upcoming move and ensure a smooth process.
+
+Keep track of all tasks that need to be done before, during or after your move. Through different views you can prepare the data according to your wishes. For example, assign your tasks to different helpers who can enter their availability via an app form. The app helps you and your movers to update each other and to check off tasks independently.
+
+Record all your possessions in a table and document what you packed and where. In addition, you can collect all expenses and receipts in an expense sheet and create a list of contacts you should inform about your move. For more information on how to make your move your own and what to consider when planning, check out ourblog article.
+
+​
+
+## Interactive template
+
+Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. Ourhelp sectionprovides answers to any questions you may have.

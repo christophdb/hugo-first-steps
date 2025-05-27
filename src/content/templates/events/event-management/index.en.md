@@ -4,10 +4,6 @@ description: 'This tool allows you to keep an eye on all the important details w
 url: '/template/event-management'
 category: 'events'
 functions:
-    - Maps (Plugin)
-    - Page design (plugin)
-    - Timeline (Plugin)
-    - Gallery (Plugin)
 seo:
     title: 'Vorlage: Event Management'
     description: ''

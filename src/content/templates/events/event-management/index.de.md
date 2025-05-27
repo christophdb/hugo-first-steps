@@ -4,10 +4,6 @@ description: 'Mit diesem Tool behalten Sie alle wichtigen Details bei Ihrer Vera
 url: '/de/vorlage/event-management'
 category: 'ereignisse'
 functions:
-    - Karten (Plugin)
-    - Seitendesign (Plugin)
-    - Timeline (Plugin)
-    - Galerie (Plugin)
 seo:
     title: 'Vorlage: Event Management'
     description: ''
