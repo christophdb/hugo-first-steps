@@ -71,6 +71,6 @@
         {{ "<!-- OpenGraph and Twitter cards are not generated in development mode -->" | safeHTML }}
     {{ end }}
 
-    {{ partialCached "head/css.html" . }}
-    {{ partialCached "head/js.html" . }}
+    {{ partial "head/css.html" . }}
+    {{ partial "head/js.html" . }}
 </head>
