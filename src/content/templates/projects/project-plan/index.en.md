@@ -1,5 +1,5 @@
 ---
-title: 'Project Plan'
+title: 'Project Plan Template'
 description: ''
 date: '2025-03-07'
 url: '/template/project-plan'
