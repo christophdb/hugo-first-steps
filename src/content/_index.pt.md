@@ -242,7 +242,7 @@ sections:
       buttons:
           - link: 'pages/registration'
             label: 'Registre-se agora e comece'
-            id: pt-homepage-integrations-content-10
+            id: pt-homepage-registration-content-10
 
     - name: 'faq'
       weight: 14
@@ -277,7 +277,7 @@ sections:
           - label: 'Saiba mais sobre as diferentes versões'
             link: 'pages/product/overview'
             style: text
-            id: pt-homepage-integrations-content-10
+            id: pt-homepage-product-content-6
           - label: 'Conheça a oferta SeaTable On-Premise'
             link: 'pages/product/seatable-server'
             style: text
