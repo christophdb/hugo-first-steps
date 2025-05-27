@@ -4,11 +4,8 @@ description: 'Fassen Sie alle relevanten Informationen über Ihre Wettbewerber a
 url: '/de/vorlage/konkurrenzanalyse'
 category: 'marketing'
 functions:
-    - Gruppierung
-    - Statistiken
-    - Sortierung
 seo:
-    title: 'Vorlage: Konkurrenzanalyse'
+    title: ''
     description: ''
 template: 'c08760ae51e94e9e9632'
 ---

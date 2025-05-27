@@ -4,11 +4,8 @@ description: 'Combine all relevant information about your competitors in one pla
 url: '/template/competitor-analysis'
 category: 'marketing'
 functions:
-    - Grouping
-    - Statistics
-    - Sorting
 seo:
-    title: 'Template: Competitor Analysis'
+    title: ''
     description: ''
 template: 'c08760ae51e94e9e9632'
 ---
