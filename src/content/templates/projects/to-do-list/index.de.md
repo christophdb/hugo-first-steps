@@ -5,12 +5,6 @@ date: 2024-08-30
 url: '/de/vorlage/to-do-liste'
 category: 'projekte'
 functions:
-    - Filterung
-    - Gruppierung
-    - Ansichten
-    - Sortierung
-    - Kanban (Plugin)
-    - Kalender (Plugin)
 seo:
     title: 'Vorlage: To-Do-Liste'
     description: ''

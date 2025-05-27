@@ -5,12 +5,6 @@ date: 2024-08-30
 url: '/template/to-do-list'
 category: 'projects'
 functions:
-    - Filtering
-    - Grouping
-    - Views
-    - Sorting
-    - Kanban (Plugin)
-    - Calendar (Plugin)
 seo:
     title: 'Template: To-Do-List'
     description: ''
