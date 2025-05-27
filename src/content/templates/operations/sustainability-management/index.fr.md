@@ -2,8 +2,8 @@
 title: 'Gestion du développement durable'
 description: ''
 date: '2024-08-24'
-url: '/template/stock-price-monitoring'
-category: 'finance'
+url: '/template/sustainability-management'
+category: 'operations'
 functions:
 seo:
     title: ''
