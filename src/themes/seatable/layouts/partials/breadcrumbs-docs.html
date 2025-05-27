@@ -7,7 +7,7 @@
                 <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
                 {{ if ne . $last }}
                     <span class="-rotate-90">
-                        {{ partialCached "icon.html" "chevron-down" "chevron-down" }}
+                        {{ partial "icon.html" "chevron-down" "chevron-down" }}
                     </span>
                 {{ end }}
             {{ end }}

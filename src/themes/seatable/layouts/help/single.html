@@ -1,7 +1,7 @@
 {{ define "main" }}
     <section class="max-container padding mx-auto w-full" data-pagefind-body>
         <article class="">
-            {{ partialCached "breadcrumbs-docs.html" . .Section }}
+            {{ partial "breadcrumbs-docs.html" . .Section }}
 
 
             <h1 class="gradient mt-12 font-poppins text-4xl">{{ .Title }}</h1>
@@ -21,7 +21,7 @@
                             <a href="{{ .RelPermalink }}" class="group">
                                 <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
                                     <span class="flex-shrink-0 rotate-90">
-                                        {{ partialCached "icon.html" "chevron-down" "chevron-down" }}
+                                        {{ partial "icon.html" "chevron-down" "chevron-down" }}
                                     </span>
                                     <span class="min-w-0 max-w-72 text-sm font-normal tracking-tight">{{ .LinkTitle }}</span>
                                 </span>
@@ -33,7 +33,7 @@
                                 <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
                                     <span class="min-w-0 max-w-72 text-right text-sm font-normal tracking-tight">{{ .LinkTitle }}</span>
                                     <span class="flex-shrink-0 -rotate-90">
-                                        {{ partialCached "icon.html" "chevron-down" "chevron-down" }}
+                                        {{ partial "icon.html" "chevron-down" "chevron-down" }}
                                     </span>
                                 </span>
                             </a>

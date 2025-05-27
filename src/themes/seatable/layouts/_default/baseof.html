@@ -15,19 +15,19 @@
 
         {{ if hugo.IsProduction }}
         {{ else }}
-            {{ partialCached "tw-size-indicator.html" . }}
+            {{ partial "tw-size-indicator.html" . }}
             <div class="fixed left-10 top-1 z-10 flex gap-3">
-                <div><a href="/blocks/">{{ partialCached "icon.html" "palette" "palette" }}</a></div>
-                <div><a href="/de/style-guide/">{{ partialCached "icon.html" "heart" "hearth" }}</a></div>
-                <div><a href="/icons/">{{ partialCached "icon.html" "font-awesome" "font-aweseome" }}</a></div>
-                <div><a href="/taxonomies/">{{ partialCached "icon.html" "list" "list" }}</a></div>
+                <div><a href="/blocks/">{{ partial "icon.html" "palette" "palette" }}</a></div>
+                <div><a href="/de/style-guide/">{{ partial "icon.html" "heart" "hearth" }}</a></div>
+                <div><a href="/icons/">{{ partial "icon.html" "font-awesome" "font-aweseome" }}</a></div>
+                <div><a href="/taxonomies/">{{ partial "icon.html" "list" "list" }}</a></div>
             </div>
         {{ end }}
 
         {{ if or (eq .Type "help") (eq .Type "help-start") }}
-            {{ partialCached "header/basic-docs.html" . }}
+            {{ partial "header/basic-docs.html" . }}
         {{ else }}
-            {{ partialCached "header/basic.html" . }}
+            {{ partial "header/basic.html" . }}
         {{ end }}
 
 
@@ -37,7 +37,7 @@
         </main>
 
         <footer>
-            {{ partialCached "footer.html" . }}
+            {{ partial "footer.html" . }}
         </footer>
 
         <!-- formActions -->
@@ -104,16 +104,16 @@
                             .then((data) => {
                                 console.log(data);
                                 if (data.success) {
-                                    this.buttonText = '{{ partialCached "icon.html" "circle-check" }} {{ T "contact.success" }}';
+                                    this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "contact.success" }}';
                                 } else {
                                     this.errorMessage = data.error || 'error message'; // Show error message
-                                    this.buttonText = '{{ partialCached "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
+                                    this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
                                 }
                             })
                             .catch((error) => {
                                 console.error('Error:', error);
                                 this.errorMessage = error; // Show error message
-                                this.buttonText = '{{ partialCached "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "contact.error" }}'; // Reset button text
                             })
                             .finally(() => {
                                 //this.isSubmitting = false; // Enable the button again after completion
@@ -176,16 +176,16 @@
                             .then((response) => response.json())
                             .then((data) => {
                                 if (data.success) {
-                                    this.buttonText = '{{ partialCached "icon.html" "circle-check" }} {{ T "registration.success" }}';
+                                    this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "registration.success" }}';
                                 } else {
                                     this.errorMessage = data.error || 'error message'; // Show error message
-                                    this.buttonText = '{{ partialCached "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
+                                    this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
                                 }
                             })
                             .catch((error) => {
                                 console.error('Error:', error);
                                 this.errorMessage = error; // Show error message
-                                this.buttonText = '{{ partialCached "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "registration.error" }}'; // Reset button text
                             })
                             .finally(() => {
                                 //this.isSubmitting = false; // Enable the button again after completion
@@ -335,7 +335,7 @@
         <script src="{{ $alpine.RelPermalink }}" integrity="{{ $alpine.Data.Integrity }}" defer></script>
 
         <!-- matomo analytics -->
-        {{ partialCached "matomo-analytics.html" .Site.Params.Seo }}
+        {{ partial "matomo-analytics.html" .Site.Params.Seo }}
 
 
         <!-- AB-Split Tests -->
