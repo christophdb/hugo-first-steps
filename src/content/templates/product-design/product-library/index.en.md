@@ -10,3 +10,11 @@ seo:
     description: ''
 template: 'faf9c0823ac748b59ef5'
 ---
+
+This template has been developed for any company that has a product management department and needs reliable software to organise its products. In this directory you get all the information about your product lines, specific product data and your suppliers. Additionally, you can add sales in your shop if needed.
+
+​
+
+## Interactive template
+
+Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. Do you have any questions? Ourhelp sectionwill help you.

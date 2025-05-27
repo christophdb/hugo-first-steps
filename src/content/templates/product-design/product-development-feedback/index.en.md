@@ -10,3 +10,13 @@ seo:
     description: ''
 template: '9ea387bd5e6a43388286'
 ---
+
+Feedback from customers is elementarily important in product development in order to optimize the product. Even if you think you know your product very well, looking at and assessing the customers helps to focus on their wishes and needs.
+
+This important information is obtained through customer feedback in the form of interviews. The collected data can be used to draw conclusions about customer satisfaction, as well as to create evaluations of individual features and complaints. This template lays the foundation for a product development feedback tool.
+
+​
+
+## Interactive template
+
+Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions or uncertainties, we recommend ourhelp section.
