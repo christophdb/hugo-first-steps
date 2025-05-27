@@ -10,3 +10,13 @@ seo:
     description: ''
 template: '6f0bcf51bc7a47329e14'
 ---
+
+Are you a small business, café or restaurant and want to get an overview of your shift staffing? SeaTable can help you with this shift schedule template to plan your staff according to your needs and to staff each shift in advance. This way you always have an overview of which times are already covered by which employees.
+
+The shift schedule can be organised not only by yourself, but also by your employees directly by sharing the table with you. Entering shifts independently reduces the organisational effort and employees know themselves which times in the schedule still need to be filled. A good duty roster can help you plan your staffing needs ideally.
+
+​
+
+## Interactive template
+
+Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions, we recommend ourhelp section.
