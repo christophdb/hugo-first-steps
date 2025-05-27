@@ -2,7 +2,7 @@
 FROM debian:bookworm-slim
 
 # Set Versions
-ARG GOLANG_VERSION=1.24.1
+ARG GOLANG_VERSION=1.24.3
 ARG HUGO_VERSION=0.145.0
 
 # Update and install necessary packages
@@ -16,8 +16,6 @@ RUN apt-get update && \
 # Download and execute the NodeSource setup script
 RUN curl -fsSL https://deb.nodesource.com/setup_22.x -o nodesource_setup.sh
 RUN bash nodesource_setup.sh
-
-RUN echo "hello world"
 
 # Install Node22
 RUN apt-get update && \
@@ -37,7 +35,7 @@ ENV GOROOT=/usr/local/go
 ENV GOPATH=/go
 ENV PATH=$GOROOT/bin:$GOPATH/bin:$PATH
 ENV HUGO_BIND="0.0.0.0" \
-    HUGO_ENV="DEV" \
+    HUGO_ENV="development" \
     HUGO_EDITION="extended"
 
 # Download Hugo
