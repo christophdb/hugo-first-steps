@@ -5,7 +5,7 @@ weight = 5
 title = "SeaTable"
 
 [params]
-  displayName = "PT"
-  isoCode = "pt"
-  dateFormat = "2 January 2006"
-  logo = "/images/seatable-logo.svg"
+displayName = "PT"
+isoCode = "pt"
+dateFormat = "2 January 2006"
+logo = "/images/seatable-logo.svg"

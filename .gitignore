@@ -7,4 +7,8 @@ src/themes/seatable/static/css/styles.css
 **/.DS_Store
 .DS_Store
 
+# disable search
 .env
+
+# custom configuration to disable languages
+src/config/development/hugo.toml
