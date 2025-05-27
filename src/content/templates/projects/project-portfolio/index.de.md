@@ -4,17 +4,8 @@ description: 'Erstellen Sie eine Gesamtübersicht aller Projekte in Ihrem Untern
 url: '/de/vorlage/projektportfolio'
 category: 'projekte'
 functions:
-    - Filterung
-    - Gruppierung
-    - Ansichten
-    - Universal App
-    - Statistiken
-    - Timeline (Plugin)
-    - Sortierung
-    - Kanban (Plugin)
-    - Tree (Plugin)
 seo:
-    title: 'Vorlage: Projektportfolio'
+    title: ''
     description: ''
 template: '1acd19d97c8f4ed3ad38'
 ---

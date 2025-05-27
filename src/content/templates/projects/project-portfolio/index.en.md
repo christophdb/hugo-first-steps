@@ -4,17 +4,8 @@ description: 'Create an overview of all projects in your company.'
 url: '/template/project-portfolio'
 category: 'projects'
 functions:
-    - Filtering
-    - Grouping
-    - Universal App
-    - Views
-    - Statistics
-    - Timeline (Plugin)
-    - Sorting
-    - Kanban (Plugin)
-    - Tree (Plugin)
 seo:
-    title: 'Template: Project portfolio'
+    title: ''
     description: ''
 template: '1acd19d97c8f4ed3ad38'
 ---
