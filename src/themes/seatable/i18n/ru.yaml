@@ -134,3 +134,16 @@ price_table:
     u25_y3: 'https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3'
     cloud: Cloud
     on-premises: On-Premises
+
+help_area:
+    category: 'Категория'
+    section: 'Раздел'
+
+templates:
+    all: 'Bce шаблоны'
+    categories: 'Категории'
+    categorie: 'Категория'
+    functions: 'Функции'
+    back: 'Назад к обзору'
+    use_template: 'Использовать шаблон'
+    preview: 'Предпросмотр'

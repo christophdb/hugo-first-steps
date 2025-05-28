@@ -1,5 +1,5 @@
 ---
-title: 'Plan d\'action'
+title: "Plan d'action"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/action-plan'

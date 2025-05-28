@@ -1,5 +1,5 @@
 ---
-title: 'Modèle de liste d\'inventaire'
+title: "Modèle de liste d'inventaire"
 description: ''
 date: '2025-02-28'
 url: '/fr/modele/inventory-list'

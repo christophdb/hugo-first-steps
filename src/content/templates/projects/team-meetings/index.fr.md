@@ -1,5 +1,5 @@
 ---
-title: 'Réunions d\'équipe'
+title: "Réunions d'équipe"
 description: ''
 date: '2025-03-03'
 url: '/fr/modele/team-meetings'

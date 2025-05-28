@@ -32,16 +32,18 @@
                         <div class="mt-4">
                             <span class="rounded-lg border bg-gray-100 p-2">{{ .Params.category | humanize }}</span>
                         </div>
+                        <!--
                         <h3 class="mt-12">{{ T "templates.functions" }}</h3>
                         <div class="mt-2">
                             {{ with .Params.functions }}
-                                <div class="flex flex-wrap gap-2">
-                                    {{ range . }}
-                                        <span class="inline-block rounded-lg border bg-gray-100 p-2">{{ . | humanize }}</span>
-                                    {{ end }}
-                                </div>
-                            {{ end }}
+                            <div class="flex flex-wrap gap-2">
+                                {{ range . }}
+                                    <span class="inline-block rounded-lg border bg-gray-100 p-2">{{ . | humanize }}</span>
+                                {{ end }}
+                            </div>
+                        {{ end }}
                         </div>
+                    -->
                     </div>
                 </div>
             </div>

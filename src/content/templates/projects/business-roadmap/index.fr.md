@@ -1,5 +1,5 @@
 ---
-title: 'Plan d'affaires'
+title: "Plan d'affaires"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/business-roadmap'

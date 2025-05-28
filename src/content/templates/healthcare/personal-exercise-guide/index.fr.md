@@ -1,5 +1,5 @@
 ---
-title: 'Plan d'entraînement personnel'
+title: "Plan d'entraînement personnel"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/personal-exercise-guide'

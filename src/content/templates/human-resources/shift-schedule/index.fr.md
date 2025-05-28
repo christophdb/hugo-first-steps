@@ -1,5 +1,5 @@
 ---
-title: 'Plan d'équipes'
+title: "Plan d'équipes"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/shift-schedule'

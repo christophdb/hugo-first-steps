@@ -1,5 +1,5 @@
 ---
-title: 'Modèle d'analyse SWOT'
+title: "Modèle d'analyse SWOT"
 description: ''
 date: '2025-02-23'
 url: '/fr/modele/swot-analysis'

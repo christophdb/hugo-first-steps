@@ -1,5 +1,5 @@
 ---
-title: 'Plan d\'apprentissage'
+title: "Plan d'apprentissage"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/study-plan'

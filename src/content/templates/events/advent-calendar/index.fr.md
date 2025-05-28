@@ -1,5 +1,5 @@
 ---
-title: 'Calendrier de l\'Avent'
+title: "Calendrier de l'Avent"
 description: ''
 date: '2025-02-28'
 url: '/fr/modele/advent-calendar'

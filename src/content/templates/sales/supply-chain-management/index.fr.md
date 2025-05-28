@@ -1,5 +1,5 @@
 ---
-title: 'Gestion de la chaîne d\'approvisionnement'
+title: "Gestion de la chaîne d'approvisionnement"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/supply-chain-management'

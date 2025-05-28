@@ -1,5 +1,5 @@
 ---
-title: 'Planificateur d\'études'
+title: "Planificateur d'études"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/semester-schedule'

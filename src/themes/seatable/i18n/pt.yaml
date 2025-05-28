@@ -134,3 +134,16 @@ price_table:
     u25_y3: 'https://licenses.seatable.com/b/28o3eS1Stcfva2ccN3'
     cloud: Nuvem
     on-premises: No local
+
+help_area:
+    category: 'Categoria'
+    section: 'Seção'
+
+templates:
+    all: 'Todos os modelos'
+    categories: 'Categorias'
+    categorie: 'Categoria'
+    functions: 'Funções'
+    back: 'Voltar para a visão geral'
+    use_template: 'Usar modelo'
+    preview: 'Pré-visualização'

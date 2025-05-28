@@ -1,5 +1,5 @@
 ---
-title: 'Gestion de la galerie d'art'
+title: "Gestion de la galerie d'art"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/art-gallery-management'

@@ -1,5 +1,5 @@
 ---
-title: 'Liste d\'achats'
+title: "Liste d'achats"
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/shopping-list'
