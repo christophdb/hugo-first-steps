@@ -82,7 +82,7 @@ Nach der Definition der Ziele geht es darum, sich für die passenden Medien, Con
 
 ### 2\. Medium, Content-Art und -Format wählen
 
-Wichtige Medien für das Content Marketing sind üblicherweise **Ihre Webseite, Blogs, Suchmaschinen, Video- und Social-Media-Plattformen** wie zum Beispiel YouTube, Instagram, TikTok und Facebook. Welche Art von Beiträgen möchten Sie veröffentlichen? Wählen Sie zwischen **Text, Bild, Audio, Video** oder einem Mix aus mehreren Content-Arten. Je nachdem, welches Medium Sie wählen, ergeben sich daraus die möglichen Content-Formate. Zu den Content-Formaten zählen Blogartikel, YouTube-Videos, [Podcast-Episoden](https://seatable.io/vorlage/rxubtabas8wf5e25egmotw/), Social-Media-Posts, Präsentationen, Webinare, White Paper, Infografiken, Newsletter und mehr.
+Wichtige Medien für das Content Marketing sind üblicherweise **Ihre Webseite, Blogs, Suchmaschinen, Video- und Social-Media-Plattformen** wie zum Beispiel YouTube, Instagram, TikTok und Facebook. Welche Art von Beiträgen möchten Sie veröffentlichen? Wählen Sie zwischen **Text, Bild, Audio, Video** oder einem Mix aus mehreren Content-Arten. Je nachdem, welches Medium Sie wählen, ergeben sich daraus die möglichen Content-Formate. Zu den Content-Formaten zählen Blogartikel, YouTube-Videos, [Podcast-Episoden]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), Social-Media-Posts, Präsentationen, Webinare, White Paper, Infografiken, Newsletter und mehr.
 
 **Generell gilt:** Fokussieren Sie sich auf zwei bis drei Formate, in denen Sie besonders gut sind oder es werden möchten. Diese sollten auf die Nutzungsgewohnheiten und Erwartungen Ihrer Zielgruppe abgestimmt sein.
 
@@ -112,7 +112,7 @@ Hier geht es zum Beispiel um die **Anrede der Leser, Tonalität der Texte, Verwe
 
 ## Contentplan mit SeaTable erstellen
 
-Mit der kostenlosen [Contentplan Vorlage](https://seatable.io/vorlage/pohjjt9xttuc5t_xl_c19a/) von SeaTable können das Marketingteam, Content Creators, Agenturen und andere Beteiligte in einem Tool zusammenarbeiten. **In Ihrem Redaktionsplan können Sie alle Inhalte übersichtlich ordnen und leicht pflegen**. Zuständigkeiten werden festgelegt und Aufgaben verteilt.
+Mit der kostenlosen [Contentplan Vorlage]({{< relref "templates/marketing/editorial-plan" >}}) von SeaTable können das Marketingteam, Content Creators, Agenturen und andere Beteiligte in einem Tool zusammenarbeiten. **In Ihrem Redaktionsplan können Sie alle Inhalte übersichtlich ordnen und leicht pflegen**. Zuständigkeiten werden festgelegt und Aufgaben verteilt.
 
 ### 1\. Sinnvolle Strukturierung mit Kategorien
 

@@ -81,7 +81,7 @@ Une fois les objectifs définis, il s'agit de choisir les médias, les types de 
 
 ### 2\. choisir le média, le type et le format du contenu
 
-Les médias importants pour le marketing de contenu sont généralement **votre site web, les blogs, les moteurs de recherche, les plateformes de vidéos et de médias sociaux** comme par exemple YouTube, Instagram, TikTok et Facebook. Quel type de contribution souhaitez-vous publier ? Choisissez entre **texte, image, audio, vidéo** ou un mélange de plusieurs types de contenu. En fonction du média que vous choisissez, les formats de contenu possibles en découlent. Les formats de contenu comprennent les articles de blog, les vidéos YouTube, les [épisodes de podcast](https://seatable.io/fr/modele/rxubtabas8wf5e25egmotw/), les posts sur les réseaux sociaux, les présentations, les webinaires, les livres blancs, les infographies, les newsletters et bien d'autres.
+Les médias importants pour le marketing de contenu sont généralement **votre site web, les blogs, les moteurs de recherche, les plateformes de vidéos et de médias sociaux** comme par exemple YouTube, Instagram, TikTok et Facebook. Quel type de contribution souhaitez-vous publier ? Choisissez entre **texte, image, audio, vidéo** ou un mélange de plusieurs types de contenu. En fonction du média que vous choisissez, les formats de contenu possibles en découlent. Les formats de contenu comprennent les articles de blog, les vidéos YouTube, les [épisodes de podcast]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), les posts sur les réseaux sociaux, les présentations, les webinaires, les livres blancs, les infographies, les newsletters et bien d'autres.
 
 **En règle générale,** concentrez-vous sur deux ou trois formats dans lesquels vous êtes particulièrement bon ou souhaitez le devenir. Ceux-ci doivent être adaptés aux habitudes d'utilisation et aux attentes de votre groupe cible.
 
@@ -111,7 +111,7 @@ Il s'agit par exemple de la **manière de s'adresser aux lecteurs, du ton des te
 
 ## Créer un plan de contenu avec SeaTable
 
-Le [modèle de plan de contenu](https://seatable.io/fr/modele/pohjjt9xttuc5t_xl_c19a/) gratuit de SeaTable permet à l'équipe marketing, aux créateurs de contenu, aux agences et aux autres intervenants de travailler ensemble dans un seul outil. **Dans votre plan éditorial, vous pouvez organiser tous les contenus de manière claire et les gérer facilement**. Les responsabilités sont définies et les tâches sont réparties.
+Le [modèle de plan de contenu]({{< relref "templates/marketing/editorial-plan" >}}) gratuit de SeaTable permet à l'équipe marketing, aux créateurs de contenu, aux agences et aux autres intervenants de travailler ensemble dans un seul outil. **Dans votre plan éditorial, vous pouvez organiser tous les contenus de manière claire et les gérer facilement**. Les responsabilités sont définies et les tâches sont réparties.
 
 ### 1\. une structuration judicieuse avec des catégories
 

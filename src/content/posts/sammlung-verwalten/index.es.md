@@ -66,7 +66,7 @@ Aparte de los programas generales de colección de código abierto, hay un gran 
 
 ## SeaTable: Gestione colecciones con la potencia de una base de datos
 
-[SeaTable](https://de.wikipedia.org/wiki/SeaTable), por su parte, es una herramienta digital que no procede del sector del coleccionismo, pero es ideal para gestionar colecciones. En ella se pueden crear tablas claras, asignar etiquetas, cargar imágenes y documentos, gestionar contactos y registrar préstamos. La particularidad de esta solución es su uso a través de la web: no es necesario instalar ningún software o app, sino que basta con iniciar sesión en el sitio web. Además, sus datos se almacenan en centros de datos alemanes certificados. Puede encontrar la plantilla gratuita [aquí](https://seatable.io/es/vorlage/ebrr3endt7q2zfahahzihq/).
+[SeaTable](https://de.wikipedia.org/wiki/SeaTable), por su parte, es una herramienta digital que no procede del sector del coleccionismo, pero es ideal para gestionar colecciones. En ella se pueden crear tablas claras, asignar etiquetas, cargar imágenes y documentos, gestionar contactos y registrar préstamos. La particularidad de esta solución es su uso a través de la web: no es necesario instalar ningún software o app, sino que basta con iniciar sesión en el sitio web. Además, sus datos se almacenan en centros de datos alemanes certificados. Puede encontrar la plantilla gratuita [aquí]({{< relref "templates/everyday-life/sneaker-collection" >}}).
 
 Por ejemplo, si colecciona zapatos, su base de datos en SeaTable podría tener este aspecto:
 

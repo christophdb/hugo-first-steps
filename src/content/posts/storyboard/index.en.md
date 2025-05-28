@@ -85,8 +85,8 @@ To ensure that your storyboard really does make your project run more smoothly a
 
 ## Use the free template from SeaTable
 
-With the [free template](https://seatable.io/en/vorlage/k6o24najsho8oipbkwmo8g/) from SeaTable, you can not only easily create your storyboard, but also **share** it with others and **edit** it efficiently **together**.
+With the [free template]({{< relref "templates/marketing/storyboard" >}}) from SeaTable, you can not only easily create your storyboard, but also **share** it with others and **edit** it efficiently **together**.
 
 The storyboard template allows you to clearly plan the **plot**, **scenery**, **dialog** and **camera angles**. You can also easily add **characters**, **props** and **stage directions** to think through and record your story down to the smallest detail.
 
-If you would like to use [this template](https://seatable.io/en/vorlage/k6o24najsho8oipbkwmo8g/) from SeaTable for your film project, simply [register]({{< relref "pages/registration" >}}) for free with your e-mail address. This way you can start creating your individual storyboard in no time at all and effectively drive your film projects forward.
+If you would like to use [this template]({{< relref "templates/marketing/storyboard" >}}) from SeaTable for your film project, simply [register]({{< relref "pages/registration" >}}) for free with your e-mail address. This way you can start creating your individual storyboard in no time at all and effectively drive your film projects forward.

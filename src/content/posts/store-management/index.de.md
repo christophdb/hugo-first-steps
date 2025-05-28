@@ -13,7 +13,7 @@ seo:
 
 Mit der Eröffnung neuer Standorte wächst neben dem Umsatz auch der organisatorische Aufwand. Nun ist es wichtig, den Überblick zu behalten. Unser Store Management Template hilft Ihnen bei folgenden Fragen: Wo sind Ihre umsatzstärksten Filialen? Welche Filialen brauchen mehr Aufmerksamkeit, weil sie den prognostizierten Umsatz nicht erreicht haben? Wo werden neue Mitarbeiter gebraucht und wie ist die Qualität ihrer eingestellten Mitarbeiter? Welche Mitarbeiter können welche Fortbildungen gebrauchen?
 
-Zudem wird auch Ihr Sales-Team mit neuen Herausforderungen konfrontiert: Es gibt mehr Filialen, die in regelmäßigem Abstand geprüft werden müssen. Das heißt: Mehr Termine und wachsender Bedarf. Es gilt strukturiert zu arbeiten und Prozesse mithilfe unserer [Store Management Lösung](https://seatable.io/vorlage/d6nlvef8ram9wwbkjhziwa/) zu vereinfachen.
+Zudem wird auch Ihr Sales-Team mit neuen Herausforderungen konfrontiert: Es gibt mehr Filialen, die in regelmäßigem Abstand geprüft werden müssen. Das heißt: Mehr Termine und wachsender Bedarf. Es gilt strukturiert zu arbeiten und Prozesse mithilfe unserer [Store Management Lösung]({{< relref "templates/sales/store-management" >}}) zu vereinfachen.
 
 ## SeaTable als Organisationstool für Ihr Store Management
 
@@ -21,7 +21,7 @@ Im Store Management gibt es einiges zu beachten. Unsere Softwarelösung hilft Ih
 
 Das Timeline-Plugin auch alle anstehenden Termine an. Zu guter Letzt hilft Ihnen unser Store Management Template auch bei der Bestellung und Übersicht aller POS-Materialien in allen Filialen. Im Folgenden werden wir Ihnen erklären, wie genau das Template aufgebaut ist und wie Sie es benutzen können.
 
-[Hier gelangen Sie direkt zu unserem Template](https://seatable.io/vorlage/d6nlvef8ram9wwbkjhziwa/)
+[Hier gelangen Sie direkt zu unserem Template]({{< relref "templates/sales/store-management" >}})
 
 ## Behalten Sie den Überblick über alle Filialstandorte und deren Mitarbeiter
 
@@ -39,7 +39,7 @@ Unsere dritte Base “Trainings” verschafft Ihnen einen Überblick über die v
 
 Als Nächstes werden alle Mitarbeiter, die an der Weiterbildung teilnehmen sollen, durch eine verknüpfte Spalte eingetragen. Ist eine Weiterbildung ausgebucht, können Sie einen Haken in der nächsten Spalte setzen. Anschließend wird sich die Zeile von Grün in Rot einfärben, so sehen Sie direkt, welche Weiterbildungen noch verfügbar sind und welche für diesen Termin bereits ausgebucht sind. Zu guter Letzt können Sie noch einen Haken setzen, wenn alle Mitarbeiter bei der entsprechenden Weiterbildung angemeldet sind.
 
-Wenn Ihr Personalmanagement komplexer wird und die Zahl der Weiterbildungen wächst, können wir Ihnen [dieses Template](https://seatable.io/vorlage/kfsupdwhs9g5kgyqjemsea/) empfehlen. Hier dreht sich alles nur um Weiterbildungen und interne Workshops.
+Wenn Ihr Personalmanagement komplexer wird und die Zahl der Weiterbildungen wächst, können wir Ihnen [dieses Template]({{< relref "templates/human-resources/workshop-planner" >}}) empfehlen. Hier dreht sich alles nur um Weiterbildungen und interne Workshops.
 
 ## Behalten Sie den Überblick über Ihre Umsätze
 
@@ -123,4 +123,4 @@ Die Bestellung der Waren läuft wieder ganz einfach über ein Webformular. Die �
 
 ## Store Management leicht gemacht mit SeaTable
 
-Bringen Sie Ihren Workflow auf das nächste Level. Unser Store-Management Template finden Sie [hier](https://seatable.io/vorlage/d6nlvef8ram9wwbkjhziwa/). Melden Sie sich gleich an und starten Sie kostenlos mit Ihrem neuen Template durch!
+Bringen Sie Ihren Workflow auf das nächste Level. Unser Store-Management Template finden Sie [hier]({{< relref "templates/sales/store-management" >}}). Melden Sie sich gleich an und starten Sie kostenlos mit Ihrem neuen Template durch!

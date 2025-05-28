@@ -12,7 +12,7 @@ seo:
 
 Com a abertura de novos locais, não só cresce o volume de negócios, mas também o esforço organizacional. Agora é importante manter uma visão geral. O nosso Modelo de Gestão de Loja ajuda-o com as seguintes perguntas: Onde estão os seus ramos com maior rotatividade? Que lojas precisam de mais atenção porque ainda não atingiram o volume de negócios previsto? Onde é necessário pessoal novo e qual é a qualidade do seu pessoal recrutado? Que empregados poderiam utilizar que formação?
 
-Além disso, a sua equipa de vendas é também confrontada com novos desafios: Há mais ramos que precisam de ser auditados a intervalos regulares. Isto significa mais nomeações e uma procura crescente. É necessário trabalhar de forma estruturada e simplificar os processos com a ajuda da nossa [solução de gestão de lojas](https://seatable.io/pt/vorlage/d6nlvef8ram9wwbkjhziwa/).
+Além disso, a sua equipa de vendas é também confrontada com novos desafios: Há mais ramos que precisam de ser auditados a intervalos regulares. Isto significa mais nomeações e uma procura crescente. É necessário trabalhar de forma estruturada e simplificar os processos com a ajuda da nossa [solução de gestão de lojas]({{< relref "templates/sales/store-management" >}}).
 
 ## SeaTable como uma ferramenta organizacional para a gestão da sua loja
 
@@ -20,7 +20,7 @@ Há muitas coisas a considerar na gestão de lojas. A nossa solução de softwar
 
 O plug-in da linha do tempo também mostra todos os compromissos que se aproximam. Por último, mas não menos importante, o nosso Modelo de Gestão de Loja também o ajuda a encomendar e a acompanhar todos os materiais POS em todos os ramos. A seguir, explicaremos como o modelo está exactamente estruturado e como o pode utilizar.
 
-[Clique aqui para ir directamente para o nosso modelo](https://seatable.io/pt/vorlage/d6nlvef8ram9wwbkjhziwa/)
+[Clique aqui para ir directamente para o nosso modelo]({{< relref "templates/sales/store-management" >}})
 
 ## Manter uma visão geral de todas as filiais e dos seus empregados
 
@@ -38,7 +38,7 @@ A nossa terceira base "Formações" dá-lhe uma visão geral das várias necessi
 
 A seguir, todos os empregados que devem participar na formação são introduzidos através de uma coluna ligada. Se uma formação estiver totalmente reservada, pode colocar um tique na coluna seguinte. Depois, a fila mudará de cor de verde para vermelho, para que se possa ver directamente quais as formações que ainda estão disponíveis e quais as que já estão totalmente reservadas para esta data. Por último, mas não menos importante, pode assinalar a caixa se todos os empregados estiverem registados para a respectiva formação.
 
-Se a sua gestão de recursos humanos estiver a tornar-se mais complexa e o número de formações estiver a crescer, podemos recomendar [este modelo](https://seatable.io/pt/vorlage/kfsupdwhs9g5kgyqjemsea/). Aqui, tudo gira em torno de mais formação e workshops internos.
+Se a sua gestão de recursos humanos estiver a tornar-se mais complexa e o número de formações estiver a crescer, podemos recomendar [este modelo]({{< relref "templates/human-resources/workshop-planner" >}}). Aqui, tudo gira em torno de mais formação e workshops internos.
 
 ## Mantenha uma visão geral das suas vendas
 
@@ -122,4 +122,4 @@ Pode utilizar as Regras de Notificação para definir definições para notifica
 
 ## Gestão de loja facilitada com SeaTable
 
-Leve o seu fluxo de trabalho para o nível seguinte. Pode encontrar o nosso modelo de gestão de loja [aqui](https://seatable.io/pt/vorlage/d6nlvef8ram9wwbkjhziwa/). Registe-se agora e comece já a utilizar o seu novo modelo gratuitamente!
+Leve o seu fluxo de trabalho para o nível seguinte. Pode encontrar o nosso modelo de gestão de loja [aqui]({{< relref "templates/sales/store-management" >}}). Registe-se agora e comece já a utilizar o seu novo modelo gratuitamente!

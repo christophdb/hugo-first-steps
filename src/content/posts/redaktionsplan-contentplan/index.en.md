@@ -82,7 +82,7 @@ Once the objectives have been defined, the next step is to decide on the appropr
 
 ### 2\. select medium, content type and format
 
-Important media for content marketing are usually **your website, blogs, search engines, video and social media platforms** such as YouTube, Instagram, TikTok and Facebook. What type of content do you want to publish? Choose between **text, image, audio, video** or a mix of several content types. The possible content formats depend on which medium you choose. Content formats include blog articles, YouTube videos, [podcast episodes](https://seatable.io/en/vorlage/rxubtabas8wf5e25egmotw/), social media posts, presentations, webinars, white papers, infographics, newsletters and more.
+Important media for content marketing are usually **your website, blogs, search engines, video and social media platforms** such as YouTube, Instagram, TikTok and Facebook. What type of content do you want to publish? Choose between **text, image, audio, video** or a mix of several content types. The possible content formats depend on which medium you choose. Content formats include blog articles, YouTube videos, [podcast episodes]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), social media posts, presentations, webinars, white papers, infographics, newsletters and more.
 
 **As a general rule,** focus on two to three formats in which you are particularly good or would like to become particularly good. These should be tailored to the usage habits and expectations of your target group.
 
@@ -112,7 +112,7 @@ These include, for example, **how to address readers, the tonality of texts, the
 
 ## Create content plan with SeaTable
 
-With SeaTable's free [content plan template](https://seatable.io/en/vorlage/pohjjt9xttuc5t_xl_c19a/), the marketing team, content creators, agencies and other stakeholders can work together in one tool. **In your editorial plan, you can organize all content clearly and maintain it easily**. Responsibilities are defined and tasks distributed.
+With SeaTable's free [content plan template]({{< relref "templates/marketing/editorial-plan" >}}), the marketing team, content creators, agencies and other stakeholders can work together in one tool. **In your editorial plan, you can organize all content clearly and maintain it easily**. Responsibilities are defined and tasks distributed.
 
 ### 1\. meaningful structuring with categories
 

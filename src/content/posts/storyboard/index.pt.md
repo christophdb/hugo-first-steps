@@ -84,8 +84,8 @@ Para garantir que o seu storyboard faz realmente com que o seu projeto corra mel
 
 ## Utilize o modelo gratuito da SeaTable
 
-Com o [modelo gratuito](https://seatable.io/pt/vorlage/k6o24najsho8oipbkwmo8g/) da SeaTable, pode não só criar facilmente o seu storyboard, como também **partilhá-lo** com outras pessoas e **trabalhar em conjunto** de forma eficiente.
+Com o [modelo gratuito]({{< relref "templates/marketing/storyboard" >}}) da SeaTable, pode não só criar facilmente o seu storyboard, como também **partilhá-lo** com outras pessoas e **trabalhar em conjunto** de forma eficiente.
 
 O modelo de storyboard permite-lhe planear claramente o **enredo**, o **cenário**, o **diálogo** e **os ângulos de câmara**. Também pode adicionar facilmente **personagens**, **adereços** e **direcções de palco** para pensar e registar a sua história até ao mais ínfimo pormenor.
 
-Se quiser utilizar [este modelo](https://seatable.io/pt/vorlage/k6o24najsho8oipbkwmo8g/) do SeaTable para o seu projeto de filme, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de e-mail. Pode então começar a criar o seu storyboard individual num instante e fazer avançar eficazmente os seus projectos cinematográficos.
+Se quiser utilizar [este modelo]({{< relref "templates/marketing/storyboard" >}}) do SeaTable para o seu projeto de filme, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de e-mail. Pode então começar a criar o seu storyboard individual num instante e fazer avançar eficazmente os seus projectos cinematográficos.

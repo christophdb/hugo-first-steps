@@ -81,7 +81,7 @@ Uma vez definidos os objectivos, a etapa seguinte consiste em decidir quais os m
 
 ### 2\. selecionar o meio, o tipo de conteúdo e o formato
 
-Os meios de comunicação importantes para o marketing de conteúdos são normalmente **o seu sítio Web, blogues, motores de busca, vídeo e plataformas de redes sociais** como o YouTube, Instagram, TikTok e Facebook. Que tipo de conteúdo pretende publicar? Escolha entre **texto, imagem, áudio, vídeo** ou uma mistura de vários tipos de conteúdo. Os formatos de conteúdo possíveis dependem do meio que escolher. Os formatos de conteúdo incluem artigos de blogue, vídeos do YouTube, [episódios de podcast](https://seatable.io/pt/vorlage/rxubtabas8wf5e25egmotw/), publicações nas redes sociais, apresentações, webinars, livros brancos, infográficos, boletins informativos e muito mais.
+Os meios de comunicação importantes para o marketing de conteúdos são normalmente **o seu sítio Web, blogues, motores de busca, vídeo e plataformas de redes sociais** como o YouTube, Instagram, TikTok e Facebook. Que tipo de conteúdo pretende publicar? Escolha entre **texto, imagem, áudio, vídeo** ou uma mistura de vários tipos de conteúdo. Os formatos de conteúdo possíveis dependem do meio que escolher. Os formatos de conteúdo incluem artigos de blogue, vídeos do YouTube, [episódios de podcast]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), publicações nas redes sociais, apresentações, webinars, livros brancos, infográficos, boletins informativos e muito mais.
 
 **Regra geral,** concentre-se em dois ou três formatos em que é particularmente bom ou em que gostaria de se tornar particularmente bom. Estes devem ser adaptados aos hábitos de utilização e às expectativas do seu grupo-alvo.
 
@@ -111,7 +111,7 @@ Estas incluem, por exemplo, **a forma de se dirigir aos leitores, a tonalidade d
 
 ## Criar um plano de conteúdos com o SeaTable
 
-Com o [modelo de plano de conteúdos](https://seatable.io/pt/vorlage/pohjjt9xttuc5t_xl_c19a/) gratuito da SeaTable, a equipa de marketing, os criadores de conteúdos, as agências e outras partes interessadas podem trabalhar em conjunto numa única ferramenta. **Pode organizar claramente e manter facilmente todos os conteúdos no seu plano editorial**. As responsabilidades são definidas e as tarefas distribuídas.
+Com o [modelo de plano de conteúdos]({{< relref "templates/marketing/editorial-plan" >}}) gratuito da SeaTable, a equipa de marketing, os criadores de conteúdos, as agências e outras partes interessadas podem trabalhar em conjunto numa única ferramenta. **Pode organizar claramente e manter facilmente todos os conteúdos no seu plano editorial**. As responsabilidades são definidas e as tarefas distribuídas.
 
 ### 1\. estruturação significativa com categorias
 

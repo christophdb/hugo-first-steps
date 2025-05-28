@@ -41,7 +41,7 @@ La planificación, organización y gestión de talleres puede resultar confusa e
 
 Con SeaTable, siempre tendrá una visión general de sus talleres y programas de formación y podrá agrupar toda la información en un punto de recogida central. No solo gestiona sus talleres, sino también a los entrenadores, las inscripciones y los comentarios de los participantes.
 
-[Nuestra plantilla gratuita](https://seatable.io/es/vorlage/kfsupdwhs9g5kgyqjemsea/) contiene cuatro tablas diferentes que abarcan los procesos más importantes de la planificación de talleres.
+[Nuestra plantilla gratuita]({{< relref "templates/human-resources/workshop-planner" >}}) contiene cuatro tablas diferentes que abarcan los procesos más importantes de la planificación de talleres.
 
 ## Definir el grupo destinatario y determinar las necesidades
 
@@ -111,4 +111,4 @@ Puede **analizar** fácilmente los comentarios recogidos en SeaTable, por ejempl
 
 Con SeaTable, puede planificar todos los procesos relacionados con la planificación de talleres y gestionar todos los datos sin esfuerzo. El objetivo es siempre maximizar la eficiencia para usted, sus empleados y los demás participantes. También son posibles otras tablas y procesos, que puede añadir de forma flexible según sus necesidades, como la reserva de salas de reuniones o una lista de inventario de sus materiales.
 
-[Regístrese]({{< relref "pages/registration" >}}) gratis hoy mismo y pruebe nuestra plantilla [de](https://seatable.io/es/vorlage/kfsupdwhs9g5kgyqjemsea/) inmediato. Las funciones pueden utilizarse para otras muchas aplicaciones.
+[Regístrese]({{< relref "pages/registration" >}}) gratis hoy mismo y pruebe nuestra plantilla [de]({{< relref "templates/human-resources/workshop-planner" >}}) inmediato. Las funciones pueden utilizarse para otras muchas aplicaciones.
