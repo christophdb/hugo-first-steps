@@ -19,6 +19,8 @@ sections:
           - label: Jetzt loslegen
             link: 'pages/registration'
             style: primary
+            id: de-marketing-registration-4
+            id: de-marketing-registration
           - label: Funktionen kennenlernen
             link: pages/functions
 
@@ -122,6 +124,7 @@ sections:
       buttons:
           - label: Jetzt registrieren und loslegen
             link: pages/registration
+            id: de-marketing-registration-2
 
     - name: content-11
       weight: 8
@@ -240,6 +243,7 @@ sections:
       buttons:
           - label: Jetzt registrieren und loslegen
             link: pages/registration
+            id: de-marketing-registration-3
 
     - name: faq
       weight: 15

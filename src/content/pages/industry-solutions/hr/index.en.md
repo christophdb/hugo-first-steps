@@ -17,7 +17,7 @@ sections:
           - label: Get started now
             link: 'pages/registration'
             style: primary
-            id: en-hr-processes
+            id: en-hr-processes-registration
           - label: Get to know the functions
             link: pages/functions
 
@@ -42,6 +42,7 @@ sections:
       buttons:
           - label: Register now and get started
             link: 'pages/registration'
+            id: en-hr-processes-registration-2
 
     - name: 'content-8'
       weight: 4
@@ -93,6 +94,7 @@ sections:
       buttons:
           - label: Register now and get started
             link: 'pages/registration'
+            id: en-hr-processes-registration-3
 
     - name: content-22
       weight: 7
@@ -141,6 +143,7 @@ sections:
           - label: Register now
             link: 'pages/registration'
             style: primary
+            id: en-hr-processes-registration-4
           - label: Contact sales
             link: 'pages/contact'
             style: secondary

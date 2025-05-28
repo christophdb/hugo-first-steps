@@ -16,6 +16,7 @@ sections:
       - label: Empiece ahora
         link: 'pages/registration'
         style: primary
+        id: es-project-management-registration
       - label: Conozca las funciones
         link: pages/functions
 
@@ -104,6 +105,7 @@ sections:
     buttons:
       - label: Regístrese ahora y empiece
         link: pages/registration
+        id: es-project-management-registration-2
 
   - name: "content-9"
     weight: 26
@@ -169,6 +171,7 @@ sections:
     buttons:
       - label: Regístrese ahora y empiece
         link: pages/registration
+        id: es-project-management-registration-3
 
   - name: faq
     weight: 99

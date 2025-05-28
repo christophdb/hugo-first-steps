@@ -19,6 +19,7 @@ sections:
           - label: Jetzt loslegen
             link: 'pages/registration'
             style: primary
+            id: de-project-management-registration
           - label: Funktionen kennenlernen
             link: pages/functions
 
@@ -110,6 +111,7 @@ sections:
       buttons:
           - label: Jetzt registrieren und loslegen
             link: pages/registration
+            id: de-project-management-registration-2
 
     - name: "content-9"
       weight: 26
@@ -176,6 +178,7 @@ sections:
       buttons:
           - label: Jetzt registrieren und loslegen
             link: pages/registration
+            id: de-project-management-registration-3
 
     - name: faq
       weight: 99

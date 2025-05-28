@@ -20,6 +20,7 @@ sections:
           - label: Jetzt loslegen
             link: 'pages/registration'
             style: primary
+            id: de-hr-processes-registration
           - label: Funktionen kennenlernen
             link: pages/functions
 
@@ -44,6 +45,7 @@ sections:
       buttons:
           - label: Jetzt registrieren und loslegen
             link: 'pages/registration'
+            id: de-hr-processes-registration-2
 
     - name: 'content-8'
       weight: 4
@@ -95,6 +97,7 @@ sections:
       buttons:
         - label: Jetzt registrieren und loslegen
           link: pages/registration
+          id: de-hr-processes-registration-3
 
     - name: content-22
       weight: 7
@@ -143,6 +146,7 @@ sections:
           - label: Jetzt registrieren
             link: 'pages/registration'
             style: primary
+            id: de-hr-processes-registration-4
           - label: Vertrieb kontaktieren
             link: 'pages/contact'
             style: secondary

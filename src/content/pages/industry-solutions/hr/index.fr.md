@@ -17,6 +17,7 @@ sections:
           - label: Commencer maintenant
             link: 'pages/registration'
             style: primary
+            id: fr-hr-processes-registration
           - label: Découvrir les fonctions
             link: pages/functions
 
@@ -41,6 +42,7 @@ sections:
       buttons:
           - label: S’inscrire maintenant et démarrer
             link: 'pages/registration'
+            id: fr-hr-processes-registration-2
 
     - name: 'content-8'
       weight: 4
@@ -92,6 +94,7 @@ sections:
       buttons:
           - label: S’inscrire maintenant et démarrer
             link: 'pages/registration'
+            id: fr-hr-processes-registration-3
 
     - name: content-22
       weight: 7
@@ -140,6 +143,7 @@ sections:
           - label: S’inscrire maintenant
             link: 'pages/registration'
             style: primary
+            id: fr-hr-processes-registration-4
           - label: Contacter le service commercial
             link: 'pages/contact'
             style: secondary

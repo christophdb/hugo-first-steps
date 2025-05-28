@@ -16,6 +16,7 @@ sections:
           - label: Empiece ahora
             link: 'pages/registration'
             style: primary
+            id: es-marketing-registration
           - label: Descubra las funciones
             link: pages/functions
 
@@ -119,6 +120,7 @@ sections:
       buttons:
           - label: Regístrese ahora y comience
             link: pages/registration
+            id: es-marketing-registration-2
 
     - name: content-11
       weight: 8
@@ -233,6 +235,7 @@ sections:
       buttons:
           - label: Regístrese ahora y comience
             link: pages/registration
+            id: es-marketing-registration-3
 
     - name: faq
       weight: 15

@@ -16,6 +16,7 @@ sections:
           - label: Начать сейчас
             link: 'pages/registration'
             style: primary
+            id: ru-project-management-registration
           - label: Узнать о функциях
             link: pages/functions
 
@@ -103,6 +104,7 @@ sections:
       buttons:
           - label: Зарегистрируйтесь сейчас и начните
             link: pages/registration
+            id: ru-project-management-registration-2
 
     - name: "content-9"
       weight: 26
@@ -168,6 +170,7 @@ sections:
       buttons:
           - label: Зарегистрируйтесь сейчас и начните
             link: pages/registration
+            id: ru-project-management-registration-3
     - name: faq
       weight: 99
       title: FAQ – Управление проектами с помощью SeaTable
