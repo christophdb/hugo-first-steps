@@ -1,7 +1,7 @@
 ---
 title: 'Konkurrenzanalyse'
 description: 'Fassen Sie alle relevanten Informationen über Ihre Wettbewerber an einem Ort zusammen.'
-url: '/de/vorlage/konkurrenzanalyse'
+url: '/de/vorlage/competitor-analysis'
 category: 'marketing'
 functions:
 seo:
