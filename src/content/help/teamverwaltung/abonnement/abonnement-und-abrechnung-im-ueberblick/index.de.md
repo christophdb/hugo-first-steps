@@ -20,7 +20,7 @@ Das Free-Abonnement ist grundsätzlich für jeden kostenlos und bietet Ihnen ber
 
 SeaTable bietet verschiedene Abo-Pakete an, die je nach Preisstufe in Ihren Funktionen und Möglichkeiten variieren und somit ganz auf Ihre individuellen Bedürfnisse angepasst werden können.
 
-[Erfahren Sie mehr zu den verschiedenen Abo-Paketen in SeaTable.]({{< refref "help/teamverwaltung/abonnement/abo-pakete" >}})
+[Erfahren Sie mehr zu den verschiedenen Abo-Paketen in SeaTable.]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}})
 
 ## Abonnement Verwaltung
 
