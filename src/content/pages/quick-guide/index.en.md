@@ -1,6 +1,6 @@
 ---
 title: Quick Guide
-url: /quick-quide
+url: /quick-guide
 
 sections:
     - name: 'hero-2'
