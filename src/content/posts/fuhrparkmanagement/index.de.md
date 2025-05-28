@@ -90,7 +90,7 @@ Die Datenbank-Software **SeaTable** macht kostenloses Fuhrparkmanagement für kl
 
 ## Managen Sie Ihren Fuhrpark mit SeaTable
 
-Behalten Sie den Überblick über Ihre ganze Flotte! Mit unserer kostenlosen [Fuhrparkmanagement Software](https://seatable.io/vorlage/qsxitf8ktcojsuivrormnq/) können Sie Ihre Fahrzeuge katalogisieren und alle Fuhrparkmanagement Prozesse im Handumdrehen abwickeln. Dokumentieren Sie bequem und einfach Buchungen, Rückgaben, Reparaturen und Termine für Ihre Fahrzeuge.
+Behalten Sie den Überblick über Ihre ganze Flotte! Mit unserer kostenlosen [Fuhrparkmanagement Software]({{< relref "templates/operations/fleet-management" >}}) können Sie Ihre Fahrzeuge katalogisieren und alle Fuhrparkmanagement Prozesse im Handumdrehen abwickeln. Dokumentieren Sie bequem und einfach Buchungen, Rückgaben, Reparaturen und Termine für Ihre Fahrzeuge.
 
 SeaTable bietet Ihnen eine übersichtliche und intuitive Verwaltung Ihres Fuhrparks und der eintreffenden Buchungsanfragen. Damit haben Sie immer im Blick, welche Fahrzeuge zu welcher Zeit verfügbar sind und wie es um den Zustand Ihres Fuhrparks steht.
 

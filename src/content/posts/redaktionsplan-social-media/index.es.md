@@ -114,7 +114,7 @@ Otra opción son **las herramientas para redes sociales como Hootsuite, CoSchedu
 
 También existen **soluciones de bases de datos inteligentes** como SeaTable. En las tablas se puede introducir todo tipo de información, así como imágenes, documentos y listas de tareas. Esto permite agrupar todo el contenido en un solo lugar y trazar los procesos en un plan editorial con el que todos los **miembros del equipo** pueden **trabajar juntos en tiempo real**.
 
-Puede **estructurar y mostrar** los datos de su plan de redes sociales SeaTable **de diferentes maneras y analizarlos con estadísticas** para tener siempre a mano la información más importante. [Regístrese en línea]({{< relref "pages/registration" >}}) y empiece de inmediato. Aquí puede obtener la [plantilla](https://seatable.io/es/vorlage/lmmjwghgtye322iwdxvj7a/) gratuita [del plan editorial](https://seatable.io/es/vorlage/lmmjwghgtye322iwdxvj7a/), que puede personalizar según sus necesidades exactas.
+Puede **estructurar y mostrar** los datos de su plan de redes sociales SeaTable **de diferentes maneras y analizarlos con estadísticas** para tener siempre a mano la información más importante. [Regístrese en línea]({{< relref "pages/registration" >}}) y empiece de inmediato. Aquí puede obtener la [plantilla]({{< relref "templates/marketing/social-media-plan" >}}) gratuita [del plan editorial]({{< relref "templates/marketing/social-media-plan" >}}), que puede personalizar según sus necesidades exactas.
 
 ## Conclusión:
 

@@ -90,7 +90,7 @@ The database software **SeaTable** makes free fleet management possible for smal
 
 ## Manage your fleet with SeaTable
 
-Keep track of your entire fleet! With our free [fleet management software](https://seatable.io/en/vorlage/qsxitf8ktcojsuivrormnq/), you can catalog your vehicles and handle all fleet management processes in no time at all. Conveniently and easily document bookings, returns, repairs and appointments for your vehicles.
+Keep track of your entire fleet! With our free [fleet management software]({{< relref "templates/operations/fleet-management" >}}), you can catalog your vehicles and handle all fleet management processes in no time at all. Conveniently and easily document bookings, returns, repairs and appointments for your vehicles.
 
 SeaTable offers you clear and intuitive management of your fleet and incoming booking requests. This means you always have an overview of which vehicles are available at what time and the status of your fleet.
 

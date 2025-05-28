@@ -105,7 +105,7 @@ Social media tools automate many of the daily tasks involved in social media man
 
 ## Social media plan from SeaTable
 
-If you have many social media channels, it can be challenging to keep track of all posts and interactions. A structured approach in the form of a social media plan can help you manage this complexity. SeaTable's [free template](https://seatable.io/en/vorlage/lmmjwghgtye322iwdxvj7a/) allows you to record your posts individually and makes your social media management easier.
+If you have many social media channels, it can be challenging to keep track of all posts and interactions. A structured approach in the form of a social media plan can help you manage this complexity. SeaTable's [free template]({{< relref "templates/marketing/social-media-plan" >}}) allows you to record your posts individually and makes your social media management easier.
 
 Record your **ideas**, assign posts to specific **categories** with just a few clicks and tick off completed tasks in the **to-do list**. Save images, texts, tasks and KPIs in a **central location** that everyone in the team can access at any time. SeaTable's collaborative features make **working together** a breeze!
 

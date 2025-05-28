@@ -116,4 +116,4 @@ Viele nutzen für Ihre Budgetplanung [Excel-Tabellen](https://seatable.io/die-be
 
 Geben Sie Ihren Führungskräften Budgetverantwortung und nutzen Sie **SeaTable als Kollaborationstool**, um mit mehreren Abteilungen **gleichzeitig an der Budgetierung zu arbeiten**. So können Sie den Budgetplan im Laufe des Jahres anpassen, die **Erfassung der Ausgaben in Echtzeit verfolgen** und stets den Überblick über das aktuelle Budget behalten.
 
-Testen Sie unsere [kostenfreie Vorlage für die Budgetplanung](https://seatable.io/vorlage/eecso26xscgq2jzffzmwcq/) und entdecken Sie weitere spannende Anwendungsfälle, die Sie mit SeaTable umsetzen können.
+Testen Sie unsere [kostenfreie Vorlage für die Budgetplanung]({{< relref "templates/finance/budget-plan" >}}) und entdecken Sie weitere spannende Anwendungsfälle, die Sie mit SeaTable umsetzen können.

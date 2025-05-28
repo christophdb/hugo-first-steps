@@ -115,4 +115,4 @@ Mucha gente utiliza [hojas de cálculo Excel](https://seatable.io/es/die-beste-e
 
 Asigne a sus gestores la responsabilidad del presupuesto y utilice **SeaTable como herramienta de colaboración** para **trabajar en la elaboración del presupuesto** con varios departamentos **al mismo tiempo**. Esto le permite ajustar el plan presupuestario a lo largo del año, **hacer un seguimiento de los gastos en tiempo real** y tener siempre una visión general del presupuesto actual.
 
-Pruebe nuestra [plantilla gratuita de planificación presupuestaria](https://seatable.io/es/vorlage/eecso26xscgq2jzffzmwcq/) y descubra otros casos de uso interesantes que puede implementar con SeaTable.
+Pruebe nuestra [plantilla gratuita de planificación presupuestaria]({{< relref "templates/finance/budget-plan" >}}) y descubra otros casos de uso interesantes que puede implementar con SeaTable.

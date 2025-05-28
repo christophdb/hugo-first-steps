@@ -116,7 +116,7 @@ Relativamente ao conceito de conteúdo, é importante começar por desenvolver u
 
 **3\. Planear o seu orçamento**
 
-Para garantir que não gere eventos que excedam o seu orçamento, é crucial na gestão de eventos efetuar um [planeamento orçamental](https://seatable.io/pt/vorlage/eecso26xscgq2jzffzmwcq/) detalhado com antecedência. Ter em conta não só as despesas óbvias, mas também as menos óbvias, como as licenças, as despesas de deslocação, os convites, bem como as despesas de desmontagem e de limpeza.
+Para garantir que não gere eventos que excedam o seu orçamento, é crucial na gestão de eventos efetuar um [planeamento orçamental]({{< relref "templates/finance/budget-plan" >}}) detalhado com antecedência. Ter em conta não só as despesas óbvias, mas também as menos óbvias, como as licenças, as despesas de deslocação, os convites, bem como as despesas de desmontagem e de limpeza.
 
 As rubricas de custos mais importantes que devem ser tidas em conta:
 
@@ -156,7 +156,7 @@ Para tornar o seu programa social mais interessante e garantir que os seus convi
 
 Ao gerir eventos, os convites desempenham um papel crucial no seu sucesso. Ao utilizar convites personalizados, pode aumentar efetivamente o número de participantes. Além disso, o envio de notificações "Save the Date" durante a fase de planeamento pode ajudar a gerar interesse antecipadamente e garantir que os seus convidados mantêm a data livre.
 
-Não se esqueça de incluir nos convites informações importantes, como a data, a hora, o local e o programa. Para tornar o processo de reserva mais fácil para os seus convidados, é uma boa ideia integrar um sistema de reserva de bilhetes. Com um [formulário Web](https://seatable.io/pt/docs/webformulare/webformulare/) no [modelo](https://seatable.io/pt/vorlage/fewxqfzbsxocskxl7hikqq/) pronto a usar da SeaTable, pode implementar facilmente este passo e criar automaticamente uma lista de participantes.
+Não se esqueça de incluir nos convites informações importantes, como a data, a hora, o local e o programa. Para tornar o processo de reserva mais fácil para os seus convidados, é uma boa ideia integrar um sistema de reserva de bilhetes. Com um [formulário Web](https://seatable.io/pt/docs/webformulare/webformulare/) no [modelo]({{< relref "templates/events/event-management" >}}) pronto a usar da SeaTable, pode implementar facilmente este passo e criar automaticamente uma lista de participantes.
 
 ![Enviar convites com o SeaTable através de formulário Web](Einladungskommunikation.jpg)
 
@@ -170,7 +170,7 @@ Para eventos comerciais, como festivais, é boa ideia fazer publicidade direcion
 
 É importante iniciar as acções de publicidade atempadamente e apresentar as mensagens de forma apelativa e informativa, a fim de despertar o interesse do seu grupo-alvo e conseguir um elevado número de visitantes.
 
-Dica: Ao publicar destaques, fotografias e vídeos nas [redes sociais](https://seatable.io/pt/vorlage/lmmjwghgtye322iwdxvj7a/), pode prolongar a presença e o impacto do seu evento para além da data efectiva
+Dica: Ao publicar destaques, fotografias e vídeos nas [redes sociais]({{< relref "templates/marketing/social-media-plan" >}}), pode prolongar a presença e o impacto do seu evento para além da data efectiva
 
 **9\. Prestar atenção à segurança e às questões legais**
 

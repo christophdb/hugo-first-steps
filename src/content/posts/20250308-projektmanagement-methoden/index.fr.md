@@ -87,7 +87,7 @@ Deux autres méthodes de gestion de projet ont été développées à partir de 
 
 ### 5\. Kanban
 
-Au cœur de cette méthode se trouve ce que l'on appelle le [tableau Kanban](https://seatable.io/vorlage/cwp-nvmltq6chdlesuhfrw/) avec plusieurs colonnes représentant certaines phases de gestion de projet comme "To do", "Doing" et "Done". Les cartes Kanban avec les tâches commencent dans la colonne "à faire" et se déplacent vers la droite jusqu'à la colonne "terminé". Vous pouvez donner la priorité aux cartes de tâches afin d'influencer le déroulement de leur exécution.
+Au cœur de cette méthode se trouve ce que l'on appelle le [tableau Kanban]({{< relref "templates/projects/kanban-board" >}}) avec plusieurs colonnes représentant certaines phases de gestion de projet comme "To do", "Doing" et "Done". Les cartes Kanban avec les tâches commencent dans la colonne "à faire" et se déplacent vers la droite jusqu'à la colonne "terminé". Vous pouvez donner la priorité aux cartes de tâches afin d'influencer le déroulement de leur exécution.
 
 Lors de courtes réunions, les membres de l'équipe échangent quotidiennement sur les progrès, les obstacles et les réussites. La méthode Kanban convient donc aux projets qui bénéficient de nombreux processus de feedback réguliers et de boucles d'amélioration.
 

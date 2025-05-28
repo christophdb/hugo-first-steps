@@ -114,7 +114,7 @@ Se criar o seu diário de bordo utilizando um modelo Excel, este método é econ
 
 ## Modelo gratuito: Mantenha um diário de bordo digital e eficiente com o SeaTable
 
-Se procura uma aplicação de diário de bordo que seja gratuita e facilite o seu trabalho diário, o SeaTable é uma excelente escolha. O SeaTable oferece um [**modelo de diário de bordo flexível e personalizável**](https://seatable.io/pt/vorlage/gzggmm9nrqohu-ygi3fwrg/), que lhe permite registar digitalmente as suas viagens e geri-las convenientemente online.
+Se procura uma aplicação de diário de bordo que seja gratuita e facilite o seu trabalho diário, o SeaTable é uma excelente escolha. O SeaTable oferece um [**modelo de diário de bordo flexível e personalizável**]({{< relref "templates/finance/mileage-log" >}}), que lhe permite registar digitalmente as suas viagens e geri-las convenientemente online.
 
 O SeaTable tem uma pontuação elevada em termos de **proteção de dados** e oferece-lhe a escolha entre [nuvem]({{< relref "pages/product/seatable-cloud" >}}) e [alojamento no local]({{< relref "pages/product/seatable-server" >}}), para que possa decidir por si próprio onde guarda os seus dados. Outra vantagem: as entradas podem ser introduzidas rápida e facilmente utilizando o **formulário Web** integrado. Este formulário pode solicitar todas as informações necessárias, incluindo uma **assinatura digital**, o que torna o processo particularmente eficiente e seguro.
 
@@ -131,7 +131,7 @@ Depois de submeter o formulário, os condutores deixam de ter acesso às suas en
 - **Função de análise**: Análise exaustiva com pouco esforço
 - **Esforço manual**: Esforço moderado devido à introdução manual no formulário
 
-**Nota**: Com o SeaTable, pode não só manter um diário de bordo individual, mas também gerir eficazmente toda a sua [frota](https://seatable.io/pt/vorlage/qsxitf8ktcojsuivrormnq/).
+**Nota**: Com o SeaTable, pode não só manter um diário de bordo individual, mas também gerir eficazmente toda a sua [frota]({{< relref "templates/operations/fleet-management" >}}).
 
 Se pretender utilizar o diário de bordo digital do SeaTable, [basta registar-se]({{< relref "pages/registration" >}}) e começar com o modelo gratuito.
 

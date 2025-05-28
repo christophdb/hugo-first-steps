@@ -114,7 +114,7 @@ If you create your logbook using an Excel template, this is inexpensive and flex
 
 ## Free template: Keep a digital and efficient logbook with SeaTable
 
-If you're looking for a logbook app that's free and makes your day-to-day work easier, SeaTable is an excellent choice. SeaTable offers a **flexibly customizable** [logbook template](https://seatable.io/vorlage/gzggmm9nrqohu-ygi3fwrg/), allowing you to record your journeys digitally and manage them conveniently online.
+If you're looking for a logbook app that's free and makes your day-to-day work easier, SeaTable is an excellent choice. SeaTable offers a **flexibly customizable** [logbook template]({{< relref "templates/finance/mileage-log" >}}), allowing you to record your journeys digitally and manage them conveniently online.
 
 SeaTable scores highly in terms of **data protection** and offers you the choice between [cloud]({{< relref "pages/product/seatable-cloud" >}}) and [on-premises hosting]({{< relref "pages/product/seatable-server" >}}), so you can decide for yourself where you store your data. Another advantage: entries can be entered quickly and easily using the integrated **web form**. This form can request all the necessary information, including a **digital signature**, which makes the process particularly efficient and secure. 
 
@@ -131,7 +131,7 @@ After submitting the form, drivers no longer have access to their entries and th
 - **Analysis function**: Comprehensive analysis with little effort
 - **Manual effort**: Moderate effort due to manual entry in the form
 
-**Note:** With SeaTable you can not only keep an individual logbook, but also efficiently manage your entire [fleet](https://seatable.io/vorlage/qsxitf8ktcojsuivrormnq/).
+**Note:** With SeaTable you can not only keep an individual logbook, but also efficiently manage your entire [fleet]({{< relref "templates/operations/fleet-management" >}}).
 
 If you would like to use SeaTable's digital logbook, [simply register]({{< relref "pages/registration" >}}) and start with the free template.
 

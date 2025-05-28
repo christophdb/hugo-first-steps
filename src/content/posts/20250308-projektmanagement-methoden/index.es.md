@@ -87,7 +87,7 @@ A partir de la gestión ágil de proyectos se desarrollaron otros dos métodos d
 
 ### 5\. Kanban
 
-En el centro de este método se encuentra el llamado [tablero Kanban](https://seatable.io/es/vorlage/cwp-nvmltq6chdlesuhfrw/) con varias columnas que representan determinadas fases de la gestión de proyectos, como "Por hacer", "Haciendo" y "Hecho". Las tarjetas Kanban con las tareas comienzan en la columna "Por hacer" y se desplazan desde ahí hacia la derecha hasta "Hecho". Puede priorizar las tarjetas de tareas para influir en la secuencia de procesamiento.
+En el centro de este método se encuentra el llamado [tablero Kanban]({{< relref "templates/projects/kanban-board" >}}) con varias columnas que representan determinadas fases de la gestión de proyectos, como "Por hacer", "Haciendo" y "Hecho". Las tarjetas Kanban con las tareas comienzan en la columna "Por hacer" y se desplazan desde ahí hacia la derecha hasta "Hecho". Puede priorizar las tarjetas de tareas para influir en la secuencia de procesamiento.
 
 En breves reuniones, los miembros del equipo discuten diariamente los progresos, los obstáculos y los éxitos. El método Kanban es, por tanto, adecuado para proyectos que se benefician de muchos procesos regulares de retroalimentación y bucles de mejora.
 

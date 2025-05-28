@@ -109,7 +109,7 @@ Crear el diario de conducción con una plantilla de Excel es barato y flexible, 
 
 ## Plantilla gratuita: Lleve un diario de a bordo digital y eficiente con SeaTable
 
-Si busca una aplicación de cuaderno de bitácora que sea gratuita y le facilite el trabajo diario, SeaTable es una excelente elección. SeaTable ofrece una **plantilla de cuaderno de bitácora** flexible y personalizable (https://seatable.io/vorlage/gzggmm9nrqohu-ygi3fwrg/), que le permite registrar sus viajes digitalmente y gestionarlos cómodamente en línea.
+Si busca una aplicación de cuaderno de bitácora que sea gratuita y le facilite el trabajo diario, SeaTable es una excelente elección. SeaTable ofrece una **plantilla de cuaderno de bitácora** flexible y personalizable ({{< relref "templates/finance/mileage-log" >}}), que le permite registrar sus viajes digitalmente y gestionarlos cómodamente en línea.
 
 SeaTable tiene una alta puntuación en **protección de datos** y te ofrece la posibilidad de elegir entre alojamiento [cloud]({{< relref "pages/product/seatable-cloud" >}}) y [On-Premises]({{< relref "pages/product/seatable-server" >}}), para que puedas decidir tú mismo dónde guardas tus datos. Otra ventaja: el **formulario web** integrado te permite introducir entradas de forma rápida y sencilla. Este formulario puede solicitar toda la información necesaria, incluida una **firma digital**, lo que hace que el proceso sea especialmente eficaz y seguro.
 
@@ -126,7 +126,7 @@ Después de enviar el formulario, los conductores ya no tienen acceso a sus entr
   **Función de análisis**: Análisis exhaustivo con poco esfuerzo
   **Esfuerzo manual\*\*: Esfuerzo moderado debido a la introducción manual en el formulario
 
-**Nota:** Con SeaTable no sólo puede llevar un cuaderno de bitácora individual, sino también gestionar toda su [gestión de flotas](https://seatable.io/vorlage/qsxitf8ktcojsuivrormnq/) de forma eficiente.
+**Nota:** Con SeaTable no sólo puede llevar un cuaderno de bitácora individual, sino también gestionar toda su [gestión de flotas]({{< relref "templates/operations/fleet-management" >}}) de forma eficiente.
 
 Si desea utilizar el cuaderno de bitácora digital de SeaTable, [simplemente regístrese]({{< relref "pages/registration" >}}) y comience con la plantilla gratuita.
 

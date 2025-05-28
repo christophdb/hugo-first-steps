@@ -104,7 +104,7 @@ As ferramentas para as redes sociais automatizam muitas das tarefas diárias env
 
 ## Plano de redes sociais do SeaTable
 
-Se tiver muitos canais nas redes sociais, pode ser difícil acompanhar todas as publicações e interacções. Uma abordagem estruturada sob a forma de um plano para as redes sociais pode ajudá-lo a gerir esta complexidade. O [modelo gratuito](https://seatable.io/pt/vorlage/lmmjwghgtye322iwdxvj7a/) do SeaTable permite-lhe personalizar as suas publicações e facilita a gestão das redes sociais.
+Se tiver muitos canais nas redes sociais, pode ser difícil acompanhar todas as publicações e interacções. Uma abordagem estruturada sob a forma de um plano para as redes sociais pode ajudá-lo a gerir esta complexidade. O [modelo gratuito]({{< relref "templates/marketing/social-media-plan" >}}) do SeaTable permite-lhe personalizar as suas publicações e facilita a gestão das redes sociais.
 
 Registe as suas **ideias**, atribua mensagens a **categorias** específicas com apenas alguns cliques e assinale as tarefas concluídas na **lista de tarefas**. Guarde imagens, textos, tarefas e KPIs numa **localização central** a que todos os membros da equipa podem aceder em qualquer altura. As funcionalidades de colaboração do SeaTable tornam **o trabalho em equipa** muito fácil!
 

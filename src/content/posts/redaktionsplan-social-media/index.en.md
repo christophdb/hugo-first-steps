@@ -115,7 +115,7 @@ Another option are **social media tools such as Hootsuite, CoSchedule or Content
 
 There are also **intelligent database solutions** such as SeaTable. All kinds of information can be entered in the tables, as well as images, documents and to-do lists. This allows you to bundle all content in one place and map your processes in an editorial plan that all **team members** can **work** with **together in real time**.
 
-You can **structure and display** the data in your SeaTable social media plan **in different ways and analyze it with statistics** so that you always have the most important information at a glance. [Register online]({{< relref "pages/registration" >}}) and get started right away. Here you can get the free [editorial plan template](https://seatable.io/en/vorlage/lmmjwghgtye322iwdxvj7a/), which you can customize exactly to your needs.
+You can **structure and display** the data in your SeaTable social media plan **in different ways and analyze it with statistics** so that you always have the most important information at a glance. [Register online]({{< relref "pages/registration" >}}) and get started right away. Here you can get the free [editorial plan template]({{< relref "templates/marketing/social-media-plan" >}}), which you can customize exactly to your needs.
 
 ## Conclusion
 

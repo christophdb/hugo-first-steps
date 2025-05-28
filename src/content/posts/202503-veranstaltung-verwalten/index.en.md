@@ -116,7 +116,7 @@ For the content concept, it is first important to develop an event idea and, if 
 
 **3\. Plan your budget**
 
-To ensure that you do not manage events that exceed your budget, it is crucial in event management to carry out detailed [budget planning](https://seatable.io/vorlage/eecso26xscgq2jzffzmwcq/) in advance. Take into account not only obvious expenses, but also less obvious costs such as licenses, travel expenses, invitations as well as dismantling and cleaning costs.
+To ensure that you do not manage events that exceed your budget, it is crucial in event management to carry out detailed [budget planning]({{< relref "templates/finance/budget-plan" >}}) in advance. Take into account not only obvious expenses, but also less obvious costs such as licenses, travel expenses, invitations as well as dismantling and cleaning costs.
 
 The most important cost items that you should take into account:
 
@@ -156,7 +156,7 @@ To make your social program more interesting and ensure your guests have a good 
 
 When managing events, invitations play a crucial role in your success. By using personalized invitations, you can effectively increase the number of attendees. In addition, sending "Save the Date" notifications during the planning phase can help generate interest early and ensure your guests keep the date free.
 
-Don't forget to include important information such as date, time, location and program in the invitations. To make the booking process easier for your guests, it is a good idea to integrate a ticket booking system. With a [web form](https://seatable.io/docs/webformulare/webformulare/) in the ready-made [template](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/) from SeaTable, you can easily implement this step and automatically create a list of participants.
+Don't forget to include important information such as date, time, location and program in the invitations. To make the booking process easier for your guests, it is a good idea to integrate a ticket booking system. With a [web form](https://seatable.io/docs/webformulare/webformulare/) in the ready-made [template]({{< relref "templates/events/event-management" >}}) from SeaTable, you can easily implement this step and automatically create a list of participants.
 
 ![Send invitations with SeaTable via web form](Einladungskommunikation.jpg)
 
@@ -170,7 +170,7 @@ For commercial events such as festivals, targeted advertising via social media p
 
 It is important to start the advertising measures in good time and to present the messages in an appealing and informative way in order to arouse the interest of your target group and achieve a high number of visitors.
 
-tip: By posting highlights, photos and videos on [social media](https://seatable.io/vorlage/lmmjwghgtye322iwdxvj7a/), you can extend the presence and impact of your event beyond the actual date
+tip: By posting highlights, photos and videos on [social media]({{< relref "templates/marketing/social-media-plan" >}}), you can extend the presence and impact of your event beyond the actual date
 
 **9\. Pay attention to safety and legal matters**
 

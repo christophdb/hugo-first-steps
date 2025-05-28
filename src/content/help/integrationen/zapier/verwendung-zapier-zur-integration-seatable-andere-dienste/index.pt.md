@@ -26,7 +26,7 @@ Para criar um Zap com o SeaTable, é necessário [registar-se no Zapier](https:/
 
 ## Exemplo 1: Criar um Zap com o SeaTable como um gatilho para enviar uma mensagem do Slack
 
-Neste exemplo, usamos o modelo [CRM & Sales](https://seatable.io/pt/vorlage/pwl4sfutr06dstr9amtlag/). Usando o Zapier, queremos que uma mensagem seja publicada no nosso canal do Slack para cada nova entrada na tabela _Oportunidade_.
+Neste exemplo, usamos o modelo [CRM & Sales]({{< relref "templates/sales/crm-sales" >}}). Usando o Zapier, queremos que uma mensagem seja publicada no nosso canal do Slack para cada nova entrada na tabela _Oportunidade_.
 
 ### Passo 1: Criar o acionador (SeaTable)
 

@@ -88,7 +88,7 @@ Dois outros métodos de gestão de projectos foram desenvolvidos a partir da ges
 
 ### 5\. Kanban
 
-No centro deste método está o chamado [quadro Kanban](https://seatable.io/pt/vorlage/cwp-nvmltq6chdlesuhfrw/) com várias colunas que representam determinadas fases de gestão de projectos, como "A fazer", "A fazer" e "Feito". Os cartões Kanban com as tarefas começam na coluna "A fazer" e deslocam-se daí para a direita até "Concluído". Pode atribuir prioridades aos cartões de tarefas de modo a influenciar a sequência de processamento.
+No centro deste método está o chamado [quadro Kanban]({{< relref "templates/projects/kanban-board" >}}) com várias colunas que representam determinadas fases de gestão de projectos, como "A fazer", "A fazer" e "Feito". Os cartões Kanban com as tarefas começam na coluna "A fazer" e deslocam-se daí para a direita até "Concluído". Pode atribuir prioridades aos cartões de tarefas de modo a influenciar a sequência de processamento.
 
 Em reuniões curtas, os membros da equipa discutem diariamente os progressos, os obstáculos e os sucessos. O método Kanban é, portanto, adequado para projectos que beneficiam de muitos processos regulares de feedback e ciclos de melhoria.
 

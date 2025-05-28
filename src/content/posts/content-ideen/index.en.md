@@ -129,7 +129,7 @@ For example, post past successes of your company under the hashtag #throwbackthu
 
 ## Use SeaTable to plan your content ideas
 
-SeaTable gives you the opportunity to plan your content ideas perfectly. Our [social media plan](https://seatable.io/en/vorlage/lmmjwghgtye322iwdxvj7a/) can serve as inspiration for your content planning. Fill the pipeline for your social media presence so that you never run out of posts for Instagram, TikTok and co.
+SeaTable gives you the opportunity to plan your content ideas perfectly. Our [social media plan]({{< relref "templates/marketing/social-media-plan" >}}) can serve as inspiration for your content planning. Fill the pipeline for your social media presence so that you never run out of posts for Instagram, TikTok and co.
 
 In this template, you can create the 14 content ideas from this blog article as recurring formats with different thematic focuses, for example. Adapt the plan to your individual needs to collect your content ideas for social media and then implement them.
 

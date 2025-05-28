@@ -114,7 +114,7 @@ Für das inhaltliche Konzept ist es zunächst wichtig, eine Veranstaltungs-Idee
 
 **3\. Budget planen**
 
-Damit Sie keine Veranstaltungen verwalten, die Ihr Budget übersteigen, ist es in der Veranstaltungsverwaltung entscheidend, im Vorfeld eine detaillierte [Budgetplanung](https://seatable.io/vorlage/eecso26xscgq2jzffzmwcq/) durchzuführen. Berücksichtigen Sie dabei nicht nur offensichtliche Ausgaben, sondern auch weniger offensichtliche Kosten wie Lizenzen, Reisekosten, Einladungen sowie Abbau- und Reinigungskosten.
+Damit Sie keine Veranstaltungen verwalten, die Ihr Budget übersteigen, ist es in der Veranstaltungsverwaltung entscheidend, im Vorfeld eine detaillierte [Budgetplanung]({{< relref "templates/finance/budget-plan" >}}) durchzuführen. Berücksichtigen Sie dabei nicht nur offensichtliche Ausgaben, sondern auch weniger offensichtliche Kosten wie Lizenzen, Reisekosten, Einladungen sowie Abbau- und Reinigungskosten.
 
 Die wichtigsten Kostenpunkte, die Sie berücksichtigen sollten:
 
@@ -154,7 +154,7 @@ Um Ihr Rahmenprogramm interessanter zu gestalten und sicherzustellen, dass Ihre 
 
 Wenn Sie Veranstaltungen verwalten, spielen Einladungen eine entscheidende Rolle für Ihren Erfolg. Durch die Verwendung personalisierter Einladungen können Sie die Teilnehmerzahl effektiv steigern. Zudem kann das Versenden von “Save the Date”-Benachrichtigungen während der Planungsphase dazu beitragen, das Interesse frühzeitig zu wecken und sicherzustellen, dass Ihre Gäste den Termin freihalten.
 
-Vergessen Sie nicht, in den Einladungen wichtige Informationen wie Datum, Uhrzeit, Ort und Programm zu vermerken. Um den Buchungsprozess für Ihre Gäste zu erleichtern, bietet sich die Integration eines Ticket-Buchungssystems an. Mit einem [Webformular](https://seatable.io/docs/webformulare/webformulare/) im vorgefertigten [Template](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/) von SeaTable können Sie diesen Schritt einfach umsetzen und ganz automatisiert eine Teilnehmerliste erstellen.
+Vergessen Sie nicht, in den Einladungen wichtige Informationen wie Datum, Uhrzeit, Ort und Programm zu vermerken. Um den Buchungsprozess für Ihre Gäste zu erleichtern, bietet sich die Integration eines Ticket-Buchungssystems an. Mit einem [Webformular](https://seatable.io/docs/webformulare/webformulare/) im vorgefertigten [Template]({{< relref "templates/events/event-management" >}}) von SeaTable können Sie diesen Schritt einfach umsetzen und ganz automatisiert eine Teilnehmerliste erstellen.
 
 ![Einladungen versenden mit SeaTable via Webformular](Einladungskommunikation.jpg)
 
@@ -168,7 +168,7 @@ Bei kommerziellen Veranstaltungen wie Festivals ist eine gezielte Werbung über�
 
 Wichtig ist es, die Werbemaßnahmen rechtzeitig zu starten und die Botschaften ansprechend und informativ aufzubereiten, um das Interesse Ihrer Zielgruppe zu wecken und eine hohe Besucherzahl zu erreichen.
 
-_Tipp: Durch das Posten von Highlights, Fotos und Videos auf [Social Media](https://seatable.io/vorlage/lmmjwghgtye322iwdxvj7a/) können Sie die Präsenz und Wirkung Ihrer Veranstaltung über den eigentlichen Termin hinaus verlängern._
+_Tipp: Durch das Posten von Highlights, Fotos und Videos auf [Social Media]({{< relref "templates/marketing/social-media-plan" >}}) können Sie die Präsenz und Wirkung Ihrer Veranstaltung über den eigentlichen Termin hinaus verlängern._
 
 **9\. Sicherheit und Rechtliches beachten**
 

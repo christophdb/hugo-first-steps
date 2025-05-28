@@ -26,7 +26,7 @@ Um einen Zap mit SeaTable zu erstellen, müssen Sie sich bei [Zapier anmelden](h
 
 ## Beispiel 1: Erstellen eines Zaps mit SeaTable als Trigger zum Versenden einer Slack-Nachricht
 
-In diesem Beispiel verwenden wir die Vorlage [CRM & Verkäufe](https://seatable.io/vorlage/pwl4sfutr06dstr9amtlag/). Mithilfe von Zapier wollen wir, dass bei jedem neuen Eintrag in der Tabelle _Opportunity_ eine Nachricht in unserem Slack Channel gepostet wird.
+In diesem Beispiel verwenden wir die Vorlage [CRM & Verkäufe]({{< relref "templates/sales/crm-sales" >}}). Mithilfe von Zapier wollen wir, dass bei jedem neuen Eintrag in der Tabelle _Opportunity_ eine Nachricht in unserem Slack Channel gepostet wird.
 
 ### Schritt 1: Anlage des Triggers (SeaTable)
 

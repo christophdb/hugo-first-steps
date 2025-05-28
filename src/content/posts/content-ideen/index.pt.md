@@ -128,7 +128,7 @@ Por exemplo, publique sucessos passados da sua empresa com o hashtag #throwbackt
 
 ## Utilize o SeaTable para planear as suas ideias de conteúdos
 
-O SeaTable dá-lhe a oportunidade de planear perfeitamente as suas ideias de conteúdo. O nosso [plano para as](https://seatable.io/pt/vorlage/lmmjwghgtye322iwdxvj7a/) redes sociais pode servir de inspiração para o seu planeamento de conteúdos. Preencha o pipeline da sua presença nas redes sociais para que nunca fique sem publicações no Instagram, TikTok e outros.
+O SeaTable dá-lhe a oportunidade de planear perfeitamente as suas ideias de conteúdo. O nosso [plano para as]({{< relref "templates/marketing/social-media-plan" >}}) redes sociais pode servir de inspiração para o seu planeamento de conteúdos. Preencha o pipeline da sua presença nas redes sociais para que nunca fique sem publicações no Instagram, TikTok e outros.
 
 Neste modelo, pode criar as 14 ideias de conteúdo deste artigo do blogue como formatos recorrentes com diferentes focos temáticos, por exemplo. Personalize o plano de acordo com as suas necessidades individuais, a fim de recolher e implementar as suas ideias de conteúdo para as redes sociais.
 

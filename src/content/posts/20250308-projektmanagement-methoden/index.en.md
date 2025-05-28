@@ -88,7 +88,7 @@ Two other project management methods were developed from agile project managemen
 
 ### 5\. Kanban
 
-At the center of this method is the so-called [Kanban board](https://seatable.io/vorlage/cwp-nvmltq6chdlesuhfrw/) with several columns that represent certain project management phases such as "To do", "Doing" and "Done". The Kanban cards with the tasks start in the "To do" column and move from there to the right up to "Done". You can prioritize the task cards in order to influence the processing sequence.
+At the center of this method is the so-called [Kanban board]({{< relref "templates/projects/kanban-board" >}}) with several columns that represent certain project management phases such as "To do", "Doing" and "Done". The Kanban cards with the tasks start in the "To do" column and move from there to the right up to "Done". You can prioritize the task cards in order to influence the processing sequence.
 
 In short meetings, the team members discuss progress, obstacles and successes on a daily basis. The Kanban method is therefore suitable for projects that benefit from many regular feedback processes and improvement loops.
 
