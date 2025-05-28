@@ -1,0 +1,3 @@
+{{ range .CurrentSection.Pages.ByWeight }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}

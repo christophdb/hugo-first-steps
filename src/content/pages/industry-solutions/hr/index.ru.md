@@ -17,6 +17,7 @@ sections:
           - label: Начать сейчас
             link: 'pages/registration'
             style: primary
+            id: ru-hr-processes-registration
           - label: Узнать о функциях
             link: pages/functions
 
@@ -41,6 +42,7 @@ sections:
       buttons:
           - label: Зарегистрироваться сейчас и начать
             link: 'pages/registration'
+            id: ru-hr-processes-registration-2
 
     - name: 'content-8'
       weight: 4
@@ -50,13 +52,13 @@ sections:
       items:
           - text: Учет рабочего времени
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt: Учет рабочего времени
+            image_alt: Учет рабочего времени
           - text: Адаптация сотрудников
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt: Адаптация сотрудников
+            image_alt: Адаптация сотрудников
           - text: Подбор персонала
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt: Подбор персонала
+            image_alt: Подбор персонала
       buttons:
           - label: 'Откройте для себя другие HR-шаблоны'
             link: 'https://seatable.io/vorlagen/?lang=auto'
@@ -92,6 +94,7 @@ sections:
       buttons:
           - label: Зарегистрироваться сейчас и начать
             link: 'pages/registration'
+            id: ru-hr-processes-registration-4
 
     - name: content-22
       weight: 7
@@ -140,6 +143,7 @@ sections:
           - label: Зарегистрироваться сейчас
             link: 'pages/registration'
             style: primary
+            id: ru-hr-processes-registration-4
           - label: Связаться с отделом продаж
             link: 'pages/contact'
             style: secondary

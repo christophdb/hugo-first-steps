@@ -4,6 +4,9 @@ date: 2024-02-16
 lastmod: '2024-02-16'
 author: 'lsc'
 url: '/fr/gender-reveal-party'
+seo:
+    title:
+    description:
 ---
 
 Un bébé est en route et vous voulez fêter cela comme il se doit ? Dans ce cas, une **Gender Reveal Party** est faite pour vous. Cette tendance venue des États-Unis consiste à dévoiler le sexe du bébé de manière imposante. Si vous souhaitez organiser une telle **fête de bébé**, vous devez planifier minutieusement la manière dont vous allez coordonner la décoration, la nourriture et le programme.

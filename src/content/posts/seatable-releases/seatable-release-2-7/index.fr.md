@@ -5,6 +5,9 @@ lastmod: '2022-02-03'
 author: 'rdb'
 url: '/fr/seatable-release-2-7'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Ce matin, [SeaTable Cloud](https://cloud.seatable.io) a été mis à jour à la version 2.7. Ainsi, tous les utilisateurs de Cloud peuvent désormais profiter des nouvelles fonctions et améliorations de la nouvelle version, qui est déjà disponible depuis quelques jours en téléchargement pour les auto-hébergeurs sur Docker Hub. C'est l'éditeur de tableaux qui a le plus profité de ce changement de version : le formatage conditionnel des cellules, la nouvelle opération de traitement des données "Calculer le classement", la fixation avancée des colonnes et la fonction de valeur par défaut pour les colonnes de dates offrent une foule de nouvelles fonctionnalités. En dehors de l'éditeur de tableaux, les bases protégées par mot de passe constituent une amélioration importante. Toutes les modifications sont - comme toujours - disponibles dans le [changelog de SeaTable](https://seatable.io/fr/docs/changelog/version-2-7/).

@@ -1,12 +1,18 @@
 ---
-title: "Faire son propre calendrier de l'Avent : 24 idées pour le remplir - SeaTable"
+title: "Faire soi-même son calendrier de l'Avent - 24 idées pour le remplir"
+description: "Dans cet article, vous découvrirez ce qu'il faut prendre en compte lors de la planification de votre projet, avec quoi vous pouvez remplir le calendrier de l'Avent et emballer son contenu, ainsi que les alternatives numériques disponibles."
+seo:
+    title: "Fabriquer soi-même des calendriers de l'Avent : Idées créatives & instructions"
+    description: "Apprends à créer un calendrier de l'Avent unique en son genre. Découvre des propositions inspirantes et des descriptions détaillées pour une période festive"
 date: 2024-10-28
 lastmod: '2024-10-28'
 author: 'lsc'
-url: '/fr/adventskalender-selber-machen'
+url: '/fr/creez-votre-propre-calendrier-de-l-avent'
+aliases:
+    - /fr/adventskalender-selber-machen/
 ---
 
-Chaque année, l'**attente de Noël** est grande. L'odeur des biscuits fraîchement cuits flotte dans l'air, la neige tombe doucement dehors et la première porte du calendrier de l'Avent attend déjà avec impatience que vous l'ouvriez. Ainsi, en décembre, vous avez chaque jour une raison de vous réjouir. La joie est encore plus grande si vous **fabriquez vous-même** avec beaucoup de dévouement un **calendrier de l'Avent** et que vous l'offrez à vos proches.
+Chaque année, **l'attente de Noël** est grande. L'odeur des biscuits fraîchement cuits flotte dans l'air, la neige tombe doucement dehors et la première porte du calendrier de l'Avent attend déjà avec impatience que vous l'ouvriez. Ainsi, en décembre, vous avez chaque jour une raison de vous réjouir. La joie est encore plus grande si vous **fabriquez vous-même** avec beaucoup de dévouement un **calendrier de l'Avent** et que vous l'offrez à vos proches.
 
 Dans cet article, vous découvrirez ce qu'il faut prendre en compte lors de la planification de votre projet, avec quoi vous pouvez remplir le calendrier de l'Avent et emballer son contenu, ainsi que les alternatives numériques disponibles.
 

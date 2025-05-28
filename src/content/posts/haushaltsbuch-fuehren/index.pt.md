@@ -4,6 +4,9 @@ date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
 url: '/pt/haushaltsbuch-fuehren'
+seo:
+    title:
+    description:
 ---
 
 Por vezes, não é fácil controlar as nossas despesas. Acontece com demasiada frequência que, no final do mês, o dinheiro simplesmente desaparece e quase não nos lembramos em que é que o gastámos. É exatamente neste momento que um **livro de orçamento** vem em socorro e põe ordem no caos financeiro!

@@ -1,5 +1,5 @@
 ---
 title: 'General about scripts'
-url: /ru/help/skripte/allgemeines
+url: '/ru/pomoshch/skripte/allgemeines'
 weight: 1
 ---

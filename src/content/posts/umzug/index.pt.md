@@ -4,6 +4,9 @@ date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
 url: '/pt/umzug'
+seo:
+    title:
+    description:
 ---
 
 Finalmente, chegou o momento! Encontrou o apartamento perfeito para si e mal pode esperar para se mudar para a sua nova casa. A única coisa que agora o separa do seu apartamento de sonho é a mudança. O que para a maioria das pessoas é muito stressante e consome muito tempo, pode ser facilitado com um **plano de mudança** estruturado. Descubra aqui como planear a sua mudança sem stress e como levá-la a bom porto.

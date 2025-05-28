@@ -3,10 +3,10 @@ title: "Gestion de portefeuille : comment garder en permanence une vue d'ensembl
 description: "Gestion de portefeuille de projets, gestion de portefeuille de produits ou gestion de portefeuille informatique : quelle que soit la raison pour laquelle vous créez un portefeuille et quelle que soit la taille du portefeuille que vous souhaitez garder à l'œil, vous trouverez dans cet article comment réussir votre gestion de portefeuille."
 seo:
     title: "Gestion de portefeuille : Gardez une vue d'ensemble | SeaTable"
-    description: "Gestion de portefeuille de projets ou gestion de portefeuille de produits : dans cet article, vous apprendrez comment réussir votre gestion de portefeuille à chaque fois"
+    description: 'Gestion de portefeuille de projets ou gestion de portefeuille de produits : dans cet article, vous apprendrez comment réussir votre gestion de portefeuille à chaque fois'
 date: 2025-03-27
 categories:
-    - 'Général'
+    - 'general'
 tags:
 color: '#bba9d3'
 url: '/fr/portfoliomanagement'

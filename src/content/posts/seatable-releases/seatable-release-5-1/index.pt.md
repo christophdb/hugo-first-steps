@@ -5,6 +5,9 @@ lastmod: '2024-11-08'
 author: 'rdb'
 url: '/pt/seatable-release-5-1'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 O foco do SeaTable 5.1 está em melhorar as funções existentes e optimizá-las para casos de utilização prática. Em particular, o **App Builder**, que foi oficialmente lançado com a versão 5.0, recebeu atenção especial e agora permite aplicações web ainda mais poderosas. No entanto, os utilizadores do **Big Data Store** também beneficiam de extensas melhorias. O novo **plug-in Tree** oferece uma opção de visualização adicional para dados hierárquicos. Nas presentes notas de lançamento, apresentamos todas as novas funcionalidades importantes. Como sempre, encontrará a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-5-1/).

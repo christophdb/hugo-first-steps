@@ -5,6 +5,9 @@ lastmod: '2022-07-27'
 author: 'rdb'
 url: '/fr/angebotsmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Une chose est essentielle pour une vente réussie : la **gestion des offres**. Mais de quoi s'agit-il ? Quelles sont les erreurs à ne pas commettre ? Et qu'est-ce qui se cache derrière le terme "gestion des offres" ?

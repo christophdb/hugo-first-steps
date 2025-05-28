@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/fr/hochzeitsplanung-wedding-planner'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 L'un des plus beaux et des plus importants jours de la vie est sur le point d'arriver : le mariage. Il ne faut surtout pas que quelque chose se passe mal, c'est pourquoi un planning de mariage structuré est d'une grande importance pour la plupart des couples. Que faut-il faire 12 mois avant le mariage, que faut-il faire 5 mois avant le grand jour ? Si l'on n'a pas les moyens financiers d'engager un organisateur de mariage professionnel ou si l'on prend tout simplement plaisir à organiser son propre mariage, SeaTable permet de ne pas perdre la vue d'ensemble lors de l'organisation du mariage.

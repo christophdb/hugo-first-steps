@@ -1,10 +1,14 @@
 ---
-title: 'Produktlaunch- so funktioniert es garantiert | SeaTable'
+title: 'Produktlaunch- so funktioniert es garantiert'
+description: ''
 date: 2020-09-24
 lastmod: '2022-06-13'
 author: 'rbu'
 url: '/de/produktlaunch'
 color: '#eeeeee'
+seo:
+    title: 'Produktlaunch- so funktioniert es garantiert'
+    description: 'Egal ob Start-up-Unternehmer, Produktmanager oder Produktteam innerhalb eines großen Unternehmens. Testen Sie unser Produktlaunch Template!'
 ---
 
 Haben Sie den Prozess der Produktentwicklung erfolgreich abgeschlossen, steht einem Produktlaunch nichts mehr im Wege.

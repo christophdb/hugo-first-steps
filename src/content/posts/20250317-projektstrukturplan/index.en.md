@@ -2,11 +2,11 @@
 title: 'How to create an effective work breakdown structure - template and tips'
 description: 'A work breakdown structure is an efficient method for clearly presenting and structuring complex projects. Here you can find out when you should create a work breakdown structure template, how you can proceed and which tools can help you.'
 seo:
-    title: "Create work breakdown structure | Tools and templates | SeaTable"
-    description: "Never get bogged down in project chaos again! Discover the benefits of a well thought-out work breakdown structure and how to create one"
+    title: 'Create work breakdown structure | Tools and templates | SeaTable'
+    description: 'Never get bogged down in project chaos again! Discover the benefits of a well thought-out work breakdown structure and how to create one'
 date: 2025-03-17
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Project Management'
 color: '#67c3c4'

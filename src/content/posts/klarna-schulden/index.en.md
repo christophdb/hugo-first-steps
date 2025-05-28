@@ -6,6 +6,9 @@ coverImage: 'pexels-karolina-grabowska-5632397-scaled.jpg'
 author: 'nsc'
 url: '/klarna-schulden'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 **Klarna debts** are currently being discussed extensively on social media and yet are often underestimated. The convenience of **Klarna installment purchases** lures younger people in particular into a seemingly endless spiral of debt. Perhaps your Klarna bills are piling up and you, like many others, are facing a mountain of debt. But don't worry, with a little discipline you can get out of debt.

@@ -4,6 +4,9 @@ date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
 url: '/fr/beerdigung-planen'
+seo:
+    title:
+    description:
 ---
 
 Vous avez perdu un être cher et souhaitez que les funérailles à venir se déroulent sans encombre ? Ou vous souhaitez organiser vos propres funérailles afin de soulager vos proches après votre décès ? Cet article vous fournit toutes les informations importantes dont vous devez tenir compte pour l'organisation des obsèques.

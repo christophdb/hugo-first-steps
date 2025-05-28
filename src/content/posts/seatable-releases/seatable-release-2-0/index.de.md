@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rdb'
 url: '/de/seatable-release-2-0'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Am 1. Juli 2020 hat SeaTable in der Version 1.0 das Licht der Welt erblickt. Mehr als 100.000 Mal wurde es seitdem von Docker Hub heruntergeladen. Dieses überwältigende Interesse an SeaTable hat uns angetrieben und so sind wir jetzt glücklich und stolz darauf, einen weiteren Meilenstein in der Entwicklung von SeaTable bekannt zu geben: SeaTable 2.0 wurde heute auf [SeaTable Cloud](https://cloud.seatable.io) aufgespielt und auf [Docker Hub](https://hub.docker.com/u/seatable) für private Installationen veröffentlicht.

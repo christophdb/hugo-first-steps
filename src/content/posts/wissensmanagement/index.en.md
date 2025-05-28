@@ -4,6 +4,9 @@ date: 2024-08-09
 lastmod: '2024-08-09'
 author: 'lsc'
 url: '/wissensmanagement'
+seo:
+    title:
+    description:
 ---
 
 Knowledge is one of the most important resources in any company. It is not for nothing that knowledge is already cited as a [production factor](https://de.wikipedia.org/wiki/Produktionsfaktor) alongside land, capital and labor when it comes to the success of a company. But what does it take to make the knowledge of your employees available to others in your company? The answer: a functioning **knowledge management system**!

@@ -1,0 +1,67 @@
+{{ $lang := site.Language.Lang }}
+{{ $dataKey := .Get "data" | default "" }}
+{{ $hotspots := index site.Data $lang $dataKey }}
+
+
+<!-- support relref -->
+{{ $page := . }}
+{{ $hotspotsOut := slice }}
+{{ range $hotspot := $hotspots }}
+    {{ $link := $hotspot.link }}
+    {{ if $link }}
+        {{ $link = relref $page $link }}
+    {{ end }}
+    {{ $description_html := $hotspot.description | markdownify }}
+    {{ $hotspot = merge $hotspot (dict
+        "link" $link
+        "description" $description_html
+        )
+    }}
+    {{ $hotspotsOut = $hotspotsOut | append $hotspot }}
+{{ end }}
+
+{{ if $hotspotsOut }}
+    <section class="max-container mx-auto py-4">
+        <div
+            class="relative"
+            x-data="{
+            hotspots: {{ $hotspotsOut | jsonify }},
+            active: null
+        }">
+            <img src="{{ .Get "image" }}" alt="{{ .Get "alt" }}" class="w-full border" />
+
+            <!-- Overlay for click-away, only shown if a box is open -->
+            <div x-show="active !== null" @click="active = null" class="fixed inset-0" style="background: transparent"></div>
+
+            <template x-for="(spot, i) in hotspots" :key="spot.label">
+                <div class="absolute z-10 flex flex-col items-center" :style="`left: ${spot.x}%; top: ${spot.y}%; transform: translate(-50%, -50%);`">
+                    <button
+                        x-ref="'hotspot' + i"
+                        :class="[
+                        'z-10 mb-1 flex h-8 w-8 items-center justify-center rounded-full font-bold text-white transition-colors hover:bg-red-700 duration-200',
+                        active === i ? 'bg-red-700' : 'bg-red-500'
+                    ]"
+                        @click.stop="active = i">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 103.5 3.5a7.5 7.5 0 0013.15 13.15z" />
+                        </svg>
+                    </button>
+                    <div
+                        x-show="active === i"
+                        x-anchor="$refs['hotspot' + i].right"
+                        x-transition
+                        :class="`absolute z-50 min-w-[280px] rounded-lg border bg-white shadow-lg ${spot.position === 'left' ? 'right-10' : 'left-10'} hover:bg-gray-50 hover:shadow-xl`">
+                        <a
+                            :href="spot.link"
+                            class="block rounded-lg p-4 text-blue-600 underline hover:bg-gray-50 hover:shadow-xl focus:outline-none"
+                            style="text-decoration: none;"
+                            tabindex="0">
+                            <p class="mb-2 text-base font-bold" x-text="spot.label"></p>
+                            <p class="mb-2 text-sm" x-html="spot.description"></p>
+                        </a>
+                    </div>
+                </div>
+            </template>
+        </div>
+    </section>
+{{ end }}

@@ -1,10 +1,17 @@
 ---
-title: 'Create an inventory list - with a free template, Excel or Word'
+title: 'Creating an inventory - how to keep track'
+description: "Do you carry out an inventory every year or even every month? Then you've come to the right place! In this article, you will learn how to create your inventory list, standardise the process and simplify your inventory."
+seo:
+    title: 'Create an inventory list - record stocks accurately'
+    description: 'Record your business inventory accurately! Gain full control over your assets and optimise business processes'
 date: 2024-02-23
-lastmod: '2025-01-10'
-coverImage: 'Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg'
-author: 'kgr'
-url: '/inventarliste-erstellen'
+categories:
+    - 'general'
+tags:
+    - 'Distribution'
+url: '/inventory-list'
+aliases:
+    - /inventarliste-erstellen/
 ---
 
 Do you carry out an **inventory** every year or even every month? Then you've come to the right place! In this article, you will learn how to create your **inventory list**, standardize the process and simplify your inventory. You can import an inventory list into Excel or create your own template in Word. You will also find out what advantages a free database like **SeaTable** offers **over Excel and Word**.

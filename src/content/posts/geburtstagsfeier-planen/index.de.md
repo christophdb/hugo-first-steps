@@ -1,10 +1,14 @@
 ---
 title: 'Geburtstagsfeier planen – in 3 Schritten zur perfekten Party'
+description: 'Von der Auswahl des Termins und der Location über die Gästeliste bis hin zu Verpflegung und Musik – die frühzeitige Planung Ihrer Party schafft die perfekten Voraussetzungen für eine gelungene Geburtstagsfeier.'
 date: 2023-07-26
 lastmod: '2024-01-11'
 author: 'nsc2'
 url: '/de/geburtstagsfeier-planen'
 color: '#eeeeee'
+seo:
+    title: 'Geburtstagsfeier planen – in 3 Schritten zur perfekten Party'
+    description: 'In dieser Anleitung zeigen wir Ihnen, wie Sie in nur 3 Schritten eine unvergessliche Geburtstagsfeier planen können.'
 ---
 
 Sie feiern demnächst Ihren Geburtstag oder wollen für Ihre Liebsten eine Geburtstagsfeier planen? Damit Ihre Party einzigartig wird und bei Ihren Gästen noch lange in Erinnerung bleibt, ist eine detaillierte Planung unerlässlich. Von der Auswahl einer traumhaften Location bis hin zu Verpflegung und Musik – die frühzeitige Organisation aller wichtigen Aspekte Ihrer Party schafft die perfekten Voraussetzungen für eine gelungene Feier. Egal, ob runder Geburtstag, Mottoparty oder Kindergeburtstag: Mit unserer Anleitung können Sie jede Party organisieren und verwirklichen.

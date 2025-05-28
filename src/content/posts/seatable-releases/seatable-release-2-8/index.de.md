@@ -5,6 +5,9 @@ lastmod: '2022-06-27'
 author: 'rdb'
 url: '/de/seatable-release-2-8'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Schon seit einigen Tagen konnte man frühe Builds von SeaTable 2.8 von [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/tags) herunterladen. Der finale Build steht seit 1. April zum Download bereit. Wir freuen uns, mit dem heutigen Update auf SeaTable 2.8 dessen zahlreiche, neue Funktionen und Verbesserungen auch in SeaTable Cloud zur Verfügung zu stellen. Neu sind das farblich anpassbare Titelband und die Anzeige aller aktiven Benutzer in einer Base, Spaltenbeschreibungen und ein verbesserter Editor für formatierten Text. Darüber hinaus lassen sich gemeinsame Datensätze nun automatisch synchronisieren und umbenennen. Und dies sind nur die Highlights, die wir in diesen Release Notes ausführlicher vorstellen. Die vollständige Liste der Änderungen findet sich – wie immer – im [Changelog](https://seatable.io/docs/changelog/version-2-8/).

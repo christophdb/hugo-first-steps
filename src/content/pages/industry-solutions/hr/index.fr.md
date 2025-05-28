@@ -17,6 +17,7 @@ sections:
           - label: Commencer maintenant
             link: 'pages/registration'
             style: primary
+            id: fr-hr-processes-registration
           - label: Découvrir les fonctions
             link: pages/functions
 
@@ -41,6 +42,7 @@ sections:
       buttons:
           - label: S’inscrire maintenant et démarrer
             link: 'pages/registration'
+            id: fr-hr-processes-registration-2
 
     - name: 'content-8'
       weight: 4
@@ -50,13 +52,13 @@ sections:
       items:
           - text: Enregistrement du temps de travail
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt: Enregistrement du temps de travail
+            image_alt: Enregistrement du temps de travail
           - text: Intégration des employés
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt: Intégration des employés
+            image_alt: Intégration des employés
           - text: Recrutement de personnel
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt: Recrutement de personnel
+            image_alt: Recrutement de personnel
       buttons:
           - label: 'Découvrez d’autres modèles RH'
             link: 'https://seatable.io/vorlagen/?lang=auto'
@@ -92,6 +94,7 @@ sections:
       buttons:
           - label: S’inscrire maintenant et démarrer
             link: 'pages/registration'
+            id: fr-hr-processes-registration-3
 
     - name: content-22
       weight: 7
@@ -140,6 +143,7 @@ sections:
           - label: S’inscrire maintenant
             link: 'pages/registration'
             style: primary
+            id: fr-hr-processes-registration-4
           - label: Contacter le service commercial
             link: 'pages/contact'
             style: secondary

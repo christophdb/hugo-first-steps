@@ -6,6 +6,9 @@ coverImage: 'seatable-1.8-release-notes.jpg'
 author: 'rdb'
 url: '/seatable-release-1-8'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 We have deployed SeaTable 1.8 on [SeaTable Cloud](https://cloud.seatable.io) today, and we are confident that you'll agree with us: SeaTable 1.8 is a great new release! It is packed with new features and extensions of existing features as well as a great number of smaller improvements. As usual, this release note only highlights the most important changes and this time it was particularly difficult to choose those highlights. You'll find the complete list of changes - as always - in SeaTable's Changelog. We'll upload the new Docker images to Docker Hub within the next couple of days.

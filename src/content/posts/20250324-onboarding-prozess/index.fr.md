@@ -6,8 +6,8 @@ seo:
     description: "Dans cet article, vous apprendrez comment créer et mettre en œuvre avec succès un concept structuré d'onboarding pour les nouveaux collaborateurs"
 date: 2025-03-24
 categories:
-    - 'Général'
-    - 'Meilleures pratiques'
+    - 'general'
+    - 'best-practice'
 tags:
     - 'Accueil et intégration'
 color: '#d0e4e9'

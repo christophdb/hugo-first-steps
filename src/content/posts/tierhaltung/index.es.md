@@ -4,6 +4,9 @@ date: 2024-01-30
 lastmod: '2024-01-30'
 author: 'lsc'
 url: '/es/tierhaltung'
+seo:
+    title:
+    description:
 ---
 
 El perro es el mejor amigo del hombre: esto se dice a menudo cuando se trata de la relación entre amo y **mascota**. El gato es la mascota más popular en Alemania, por delante del perro, seguido de roedores, peces y reptiles. Una mascota da alegría, es un alma gemela o simplemente es bonita de ver. Sin embargo, **tener** un animal de compañía también implica trabajo, ya que te comprometes durante mucho tiempo y tienes que tener en cuenta las necesidades de tus mascotas.

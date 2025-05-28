@@ -5,6 +5,9 @@ lastmod: '2021-02-07'
 author: 'rdb'
 url: '/de/seatable-release-1-7'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Rund ein Monat ist seit dem Release von SeaTable 1.6 vergangen und so es wird Zeit für eine Neues. Gesagt, getan! Wir freuen uns, die Version 1.7 von SeaTable hiermit vorzustellen! Die neue Version wurde heute auf https://cloud.seatable.io ausgerollt. SeaTable Cloud User haben also schon angefangen, damit zu arbeiten. Nutzer der selbstgehosteten Version werden die neuste Version in Kürze von Docker Hub runterladen können.

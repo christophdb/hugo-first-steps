@@ -6,7 +6,7 @@ seo:
     description: 'Разрабатывайте собственные программные решения с помощью Citizen Developers! В этой статье рассказывается о том, как использовать опыт ваших специализированных отделов'
 date: 2025-03-17
 categories:
-    - 'No Code / Low Code'
+    - 'low-code-no-code'
 tags:
     - 'Low Code / No Code'
     - 'ИТ-процессы'

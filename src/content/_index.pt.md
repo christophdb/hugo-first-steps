@@ -68,21 +68,21 @@ sections:
       items:
           - text: 'Editor Base'
             image: '/images/template-content-marketing-strategie.png'
-            alt: 'Editor Base'
+            image_alt: 'Editor Base'
           - text: 'Galeria'
             image: '/images/galerie-plugin.png'
-            alt: 'Galeria'
+            image_alt: 'Galeria'
           - text: 'Kanban'
-            alt: ''
+            image_alt: ''
             image: '/images/kanban-plugin.png'
           - text: 'Linha do tempo'
-            alt: ''
+            image_alt: ''
             image: '/images/timeline-plugin.png'
           - text: 'Calendário'
-            alt: ''
+            image_alt: ''
             image: '/images/calendar-plugin.png'
           - text: 'Relacionamentos de tabela'
-            alt: ''
+            image_alt: ''
             image: '/images/table-relationship-plugin.png'
 
     - name: 'customer-1'
@@ -242,7 +242,7 @@ sections:
       buttons:
           - link: 'pages/registration'
             label: 'Registre-se agora e comece'
-            id: pt-homepage-integrations-content-10
+            id: pt-homepage-registration-content-10
 
     - name: 'faq'
       weight: 14
@@ -277,7 +277,7 @@ sections:
           - label: 'Saiba mais sobre as diferentes versões'
             link: 'pages/product/overview'
             style: text
-            id: pt-homepage-integrations-content-10
+            id: pt-homepage-product-content-6
           - label: 'Conheça a oferta SeaTable On-Premise'
             link: 'pages/product/seatable-server'
             style: text

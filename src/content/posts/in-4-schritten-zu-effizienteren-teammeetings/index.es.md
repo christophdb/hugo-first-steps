@@ -5,6 +5,9 @@ lastmod: '2024-08-09'
 author: 'ott'
 url: '/es/in-4-schritten-zu-effizienteren-teammeetings'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Las reuniones de equipo son una parte esencial de la vida laboral diaria. Hay que coordinar proyectos, aprobar textos y tomar decisiones. Sin una comunicación regular, nada avanza. Por eso las reuniones figuran a menudo en las agendas de los empleados: Pasan [más de 15 horas al mes](https://news.it-matchmaker.com/meetings-zeitverschwendung-statt-erfolgsfaktor/) en reuniones de todo tipo, pero a menudo éstas no son muy productivas en términos de resultados. La falta de eficacia y, por tanto, la pérdida de un valioso tiempo de trabajo puede ser un gran problema para las culturas de reuniones.

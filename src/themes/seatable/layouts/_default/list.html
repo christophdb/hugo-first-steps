@@ -33,14 +33,16 @@
                         <!-- Category-List -->
                         <div class="mt-14">
                             <ul class="flex flex-wrap flex-row gap-4 gap-y-10">
-                                <li><a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-lg border border-blue-950 text-blue-950"
-                                    href="#">All<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">{{ len (where .Site.RegularPages "Section" "posts") }}</span></a></li>
+                                {{ $isActive := eq page.RelPermalink (relref . "/posts") }}
+                                <li><a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-lg {{ if $isActive }}border border-blue-950{{ end }} text-blue-950"
+                                    href="{{ relref . "/posts" }}">All<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">{{ len (where .Site.RegularPages "Section" "posts") }}</span></a></li>
                             {{ range $cat, $taxonomy := .Site.Taxonomies.categories }}
                             {{ $pagesInPosts := where $taxonomy.Pages "Section" "posts" }}
                             {{ if gt (len $pagesInPosts) 0 }}
                                 <li>
-                                    <a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-lg text-blue-950"
-                                        href="{{ $taxonomy.Page.RelPermalink }}">{{ $cat }}<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">{{ len $pagesInPosts }}</span></a>
+                                    {{ $isActive := eq page.RelPermalink $taxonomy.Page.RelPermalink }}
+                                    <a class="bg-blue-200 px-6 py-3 rounded-xl font-poppins text-lg text-blue-950 {{ if $isActive }}border border-blue-950{{ end }}"
+                                        href="{{ $taxonomy.Page.RelPermalink }}">{{ $taxonomy.Page.Title }}<span class="ml-2 bg-gray-900 rounded-3xl px-3 py-1 text-base text-white">{{ len $pagesInPosts }}</span></a>
                                 </li>
                                 {{ end }}
                             {{ end }}

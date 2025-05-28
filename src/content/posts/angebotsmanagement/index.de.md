@@ -1,10 +1,14 @@
 ---
 title: 'Gutes Angebotsmanagement für bessere Sales-Performance'
+description: 'Eine Sache ist entscheidend für eine erfolgreiche Vertriebsarbeit: das Angebotsmanagement. Doch worauf kommt es dabei an? Welche Fehler sollten auf keinen Fall auftauchen? Und was steckt überhaupt hinter dem Begriff „Angebotsmanagement“? Die Antworten auf diese Fragen und warum sinnvolle Software und Online-Tools Ihnen entscheidend bei Ihrem Angebotsmanagement helfen können, erfahren Sie in diesem Artikel.'
 date: 2022-07-22
 lastmod: '2022-07-27'
 author: 'rdb'
 url: '/de/angebotsmanagement'
 color: '#eeeeee'
+seo:
+    title: Gutes Angebotsmanagement für bessere Sales-Performance
+    description: Der Erfolg Ihres Vertriebs hängt vom dem richtigen Angebotsmanagement ab. Diese Software-Tools helfen garantiert!
 ---
 
 Eine Sache ist entscheidend für eine erfolgreiche Vertriebsarbeit: das **Angebotsmanagement**. Doch worauf kommt es dabei an? Welche Fehler sollten auf keinen Fall auftauchen? Und was steckt überhaupt hinter dem Begriff „Angebotsmanagement“?

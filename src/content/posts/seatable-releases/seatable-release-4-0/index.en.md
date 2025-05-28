@@ -6,6 +6,9 @@ coverImage: 'seatable-release-4.0.jpg'
 author: 'kgr'
 url: '/seatable-release-4-0'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 While the sun is blazing outside, our developers have kept a cool head and finished the fourth major release of SeaTable. SeaTable version 4.0 improves existing features, but also quenches the thirst for new features. New in version 4.0: a column type for digital signatures, an integrated file manager for easier attachment management and - for our Cloud Enterprise customers - a custom logo feature as a branding option.

@@ -6,7 +6,7 @@ seo:
     description: 'Creating your own apps made easy! Discover simple ways to develop customised apps without programming knowledge'
 date: 2025-03-18
 categories:
-    - 'No Code / Low Code'
+    - 'low-code-no-code'
 tags:
     - 'Low Code / No Code'
     - 'Universal App Builder'

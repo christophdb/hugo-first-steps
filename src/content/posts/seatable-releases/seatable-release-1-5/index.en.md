@@ -6,6 +6,9 @@ coverImage: 'seatable-release-1.5.png'
 author: 'rdb'
 url: '/seatable-release-1-5'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Today we have updated cloud.seatable.io to version 1.5 of SeaTable. With the next login, all users will benefit from exciting new features and a number of interface and existing functionality improvements. At first glance, you will notice the numerous minor and major changes to the table editor, resulting in increased workflow efficiency and improved user experience. The new custom sharing permissions provide more control and flexibility when working collaboratively on bases. Enhanced customization options make SeaTable's web forms an even more versatile tool for data collection.

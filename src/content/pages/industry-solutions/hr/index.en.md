@@ -17,7 +17,7 @@ sections:
           - label: Get started now
             link: 'pages/registration'
             style: primary
-            id: en-hr-processes
+            id: en-hr-processes-registration
           - label: Get to know the functions
             link: pages/functions
 
@@ -42,6 +42,7 @@ sections:
       buttons:
           - label: Register now and get started
             link: 'pages/registration'
+            id: en-hr-processes-registration-2
 
     - name: 'content-8'
       weight: 4
@@ -51,13 +52,13 @@ sections:
       items:
           - text: Time tracking
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt: Time tracking
+            image_alt: Time tracking
           - text: New Employee onboarding
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt: New Employee onboarding
+            image_alt: New Employee onboarding
           - text: Personnel recruitment
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt: Personnel recruitment
+            image_alt: Personnel recruitment
       buttons:
           - label: 'Discover more HR templates'
             link: 'https://seatable.io/vorlagen/?lang=auto'
@@ -93,6 +94,7 @@ sections:
       buttons:
           - label: Register now and get started
             link: 'pages/registration'
+            id: en-hr-processes-registration-3
 
     - name: content-22
       weight: 7
@@ -141,6 +143,7 @@ sections:
           - label: Register now
             link: 'pages/registration'
             style: primary
+            id: en-hr-processes-registration-4
           - label: Contact sales
             link: 'pages/contact'
             style: secondary

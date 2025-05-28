@@ -5,6 +5,9 @@ lastmod: '2022-07-25'
 author: 'rdb'
 url: '/pt/marketing-kampagne-planung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Se quer realmente fazer avançar a sua empresa e destacar-se da concorrência, precisa acima de tudo de uma coisa: um [marketing](https://seatable.io/pt/marketing/) extremamente bom. O quão bom isto é na realidade depende da respectiva campanha de marketing e do seu planeamento. E isto levanta várias questões: Afinal, o que é uma campanha de marketing? Quando é bom e quando não é? E como é que a implementação e o planeamento da campanha de marketing podem ser combinados de forma óptima?

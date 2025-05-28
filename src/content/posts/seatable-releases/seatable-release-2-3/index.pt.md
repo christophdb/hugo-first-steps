@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rdb'
 url: '/pt/seatable-release-2-3'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 O SeaTable versão 2.3, disponível desde hoje, está a preparar-se para conquistar novos campos de aplicação. Com a função de arquivo, que é apresentada como um beta nesta versão, o SeaTable é agora também recomendado para casos de utilização intensiva de dados: As tabelas com milhões de registos de dados podem ser armazenadas e avaliadas em SeaTable. É o foco destas notas de lançamento. Outras inovações e melhorias são apresentadas numa visão geral. A lista completa de alterações pode ser encontrada - como sempre - no [SeaTable Changelog](https://seatable.io/pt/docs/changelog/version-2-3/).

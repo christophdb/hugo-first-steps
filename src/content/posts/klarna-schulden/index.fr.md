@@ -5,6 +5,9 @@ lastmod: '2024-04-19'
 author: 'nsc'
 url: '/fr/klarna-schulden'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Les **dettes Klarna** sont abondamment thématisées dans les médias sociaux et pourtant souvent sous-estimées. Le confort de l'**achat à tempérament Klarna** attire surtout les jeunes dans une spirale de dettes apparemment sans fin. Peut-être que chez vous aussi, les factures Klarna s'accumulent et que vous vous retrouvez comme beaucoup d'autres devant une montagne de dettes. Mais ne vous inquiétez pas, avec un peu de discipline, vous pourrez vous sortir de vos dettes.

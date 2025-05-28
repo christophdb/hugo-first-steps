@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rdb'
 url: '/pt/seatable-release-2-1'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Hoje, 6 de Julho de 2021, actualizámos o [SeaTable Cloud](https://cloud.seatable.io) para SeaTable 2.1 e carregámos a nova imagem Docker para Docker Hub. Os destaques do lançamento são as novas permissões de tabela e uma nova funcionalidade chamada Processamento de Dados. Além disso, melhorámos os tipos de colunas de selecção única e múltipla e a coluna da caixa de verificação. Nestas notas de lançamento apresentamos - como sempre - os principais desenvolvimentos e remetemos para o [SeaTable Changelog](https://seatable.io/pt/docs/changelog/version-2-1/) para a lista completa de alterações.

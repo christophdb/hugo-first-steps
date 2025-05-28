@@ -45,54 +45,96 @@ pageRef = "pages/product/seatable-server"
 weight = 24
 
 [[main]]
-name = "Soluções para o sector"
+name = "Soluções"
 pageRef = "#0"
 weight = 30
 
 [[main]]
 name = "Marketing"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
 name = "Gestão de projectos"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
 name = "Recursos humanos"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
 name = "Serviço público"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
 name = "Desenvolvimento de software"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/software-development"
 weight = 35
 
 [[main]]
 name = "Personalizado"
-parent = "Soluções para o sector"
+parent = "Soluções"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
-name = "Prices"
-pageRef = "pages/prices"
+name = "Recursos"
+pageRef = "#0"
 weight = 40
 
 [[main]]
+name = "Modelos"
+parent = "Recursos"
+pageRef = "templates"
+weight = 42
+
+[[main]]
+name = "Guia rápido"
+parent = "Recursos"
+pageRef = "pages/quick-guide"
+weight = 43
+
+[[main]]
+name = "Curso on-line"
+parent = "Recursos"
+pageRef = "help/erste-schritte"
+weight = 44
+
+[[main]]
+name = "Ajuda"
+parent = "Recursos"
+pageRef = "help"
+weight = 45
+
+#[[main]]
+#name = "Integrations"
+#parent = "Recursos"
+#pageRef = "posts"
+#weight = 46
+
+[[main]]
+name = "Fórum"
+parent = "Recursos"
+url = "https://forum.seatable.io"
+weight = 47
+
+[[main]]
 name = "Blogue"
+parent = "Recursos"
 pageRef = "posts"
+weight = 48
+
+[[main]]
+name = "Prices"
+pageRef = "pages/prices"
 weight = 50
 
 # -- Footer Menu --
@@ -134,7 +176,7 @@ weight = 20
 [[footer]]
 name = "Guia rápido"
 parent = "Apoio a"
-url = "https://seatable.io/kurzanleitung/?lang=auto"
+pageref = "pages/quick-guide"
 weight = 21
 
 [[footer]]
@@ -146,7 +188,7 @@ weight = 22
 [[footer]]
 name = "Modelos"
 parent = "Apoio a"
-url = "https://seatable.io/vorlagen/?lang=auto"
+pageRef = "templates"
 weight = 23
 
 [[footer]]

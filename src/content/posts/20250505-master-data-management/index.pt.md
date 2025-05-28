@@ -2,22 +2,20 @@
 title: 'Master Data Management: como utilizar os dados mestres para obter uma melhor visão geral'
 description: 'É necessário dispor de registos de dados actualizados, corretos e completos em toda a empresa, como base para análises e decisões estratégicas. É exatamente isso que a gestão de dados mestres faz: permite que vários departamentos acompanhem os produtos, clientes e outros dados mestre da sua empresa.'
 seo:
-    title: "Master Data Management | Gestão de dados mestres"
-    description: "Descubra o Master Data Management e saiba porque é que a sua empresa beneficia de uma gestão eficiente de dados mestres"
+    title: 'Master Data Management | Gestão de dados mestres'
+    description: 'Descubra o Master Data Management e saiba porque é que a sua empresa beneficia de uma gestão eficiente de dados mestres'
 date: 2025-05-05
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
-- "Gestão e visualização de dados"
+    - 'Gestão e visualização de dados'
 url: '/pt/master-data-management'
 color: '#0d75b4'
 ---
 
-
 ## O que é Master Data Management?
 
 A gestão de dados mestres, também conhecida como gestão de dados principais, é a **administração das informações centrais e relevantes para o negócio** de uma empresa. Isto inclui, por exemplo, dados de empregados e clientes, informações sobre produtos ou números financeiros importantes. A gestão de dados principais garante que existe apenas **um único registo de dados principais** para todas estas informações, que é completo, atualizado e isento de erros. Isto evita inconsistências e aumenta a eficiência dos seus processos empresariais.
-
 
 ## Porque é que a gestão de dados principais é tão importante?
 
@@ -73,11 +71,11 @@ Os dados principais são dados relevantes para a atividade que são absolutament
 
 Exemplos de dados mestre:
 
-* **Dados mestre do cliente**: Quer se trate do endereço de correio eletrónico ou de entrega, das contas ou do histórico de compras - tudo o que é necessário para o processamento comercial e de pagamentos com os clientes é extremamente importante. Por conseguinte, deve extrair estes dados principais das lojas Web, dos sistemas ERP ou CRM e integrá-los num sistema de gestão de dados principais.
-* **Dados mestre dos empregados**: Para além dos dados relacionados com o trabalho (por exemplo, nome, cargo, habilitações literárias e data de contratação), estes incluem dados sensíveis como a classe fiscal, dados bancários, segurança social, nacionalidade, estado civil e contactos de emergência. É preferível manter estes dados principais de RH bem protegidos numa [base de dados de RH]({{< relref "posts/20250317-hris" >}})
-* **Dados mestre do fornecedor**: Trata-se de todos os dados necessários para facilitar os processos de aquisição. Pode tratar-se de preços e quantidades de entrega acordados contratualmente, mas também de dados relativos à localização e à logística. Regra geral, um sistema ERP é a fonte central de dados para a gestão da cadeia de abastecimento.
-* **Dados mestre do produto**: Como os dados dos seus produtos são relevantes para todos os departamentos (por exemplo, marketing, vendas, logística e desenvolvimento de produtos), uma base de dados actualizada e centralizada é da maior importância. Isto inclui números únicos de produtos, quantidades e preços, bem como atributos como dimensões, cor e material.
-* **Dados mestre dos activos**: Referem-se aos activos da sua empresa, que normalmente são registados numa [lista de inventário] (https://seatable.io/inventarliste-vorlagen/). Os activos materiais podem ser imóveis, máquinas, veículos, mobiliário de escritório ou recursos financeiros, os activos intangíveis são, por exemplo, patentes ou os dados mestre da sua empresa.
+- **Dados mestre do cliente**: Quer se trate do endereço de correio eletrónico ou de entrega, das contas ou do histórico de compras - tudo o que é necessário para o processamento comercial e de pagamentos com os clientes é extremamente importante. Por conseguinte, deve extrair estes dados principais das lojas Web, dos sistemas ERP ou CRM e integrá-los num sistema de gestão de dados principais.
+- **Dados mestre dos empregados**: Para além dos dados relacionados com o trabalho (por exemplo, nome, cargo, habilitações literárias e data de contratação), estes incluem dados sensíveis como a classe fiscal, dados bancários, segurança social, nacionalidade, estado civil e contactos de emergência. É preferível manter estes dados principais de RH bem protegidos numa [base de dados de RH]({{< relref "posts/20250317-hris" >}})
+- **Dados mestre do fornecedor**: Trata-se de todos os dados necessários para facilitar os processos de aquisição. Pode tratar-se de preços e quantidades de entrega acordados contratualmente, mas também de dados relativos à localização e à logística. Regra geral, um sistema ERP é a fonte central de dados para a gestão da cadeia de abastecimento.
+- **Dados mestre do produto**: Como os dados dos seus produtos são relevantes para todos os departamentos (por exemplo, marketing, vendas, logística e desenvolvimento de produtos), uma base de dados actualizada e centralizada é da maior importância. Isto inclui números únicos de produtos, quantidades e preços, bem como atributos como dimensões, cor e material.
+- **Dados mestre dos activos**: Referem-se aos activos da sua empresa, que normalmente são registados numa [lista de inventário] (https://seatable.io/inventarliste-vorlagen/). Os activos materiais podem ser imóveis, máquinas, veículos, mobiliário de escritório ou recursos financeiros, os activos intangíveis são, por exemplo, patentes ou os dados mestre da sua empresa.
 
 ## Desafios na gestão de dados mestres e como superá-los
 
@@ -91,11 +89,11 @@ Exemplos de dados mestre:
 
 A gestão de dados principais é um caso especial de gestão de dados, que por sua vez consiste em várias sub-áreas. As tarefas mais importantes da gestão de dados principais incluem
 
-* **Governação de dados** - define regras, normas e responsabilidades para a gestão de dados principais.
-* **Integração de dados** - permite a consolidação e sincronização de dados em diferentes sistemas.
-* **Garantia da qualidade dos dados** - identifica e actualiza registos de dados incorrectos, desactualizados ou incompletos.
-* **Modelação de dados** - estrutura os dados para que possam ser utilizados de forma mais eficiente e rápida.
-* **Segurança dos dados** - protege os dados sensíveis contra o acesso não autorizado ou a perda.
+- **Governação de dados** - define regras, normas e responsabilidades para a gestão de dados principais.
+- **Integração de dados** - permite a consolidação e sincronização de dados em diferentes sistemas.
+- **Garantia da qualidade dos dados** - identifica e actualiza registos de dados incorrectos, desactualizados ou incompletos.
+- **Modelação de dados** - estrutura os dados para que possam ser utilizados de forma mais eficiente e rápida.
+- **Segurança dos dados** - protege os dados sensíveis contra o acesso não autorizado ou a perda.
 
 Pode obter mais informações sobre este assunto no artigo do nosso blogue sobre [gestão de dados]({{< relref "posts/20250317-datenmanagement" >}}).
 
@@ -137,7 +135,6 @@ Como o SeaTable não foi concebido apenas para a gestão de dados principais, os
 Outra vantagem que faz com que o SeaTable se destaque como uma ferramenta de gestão de dados principais é a livre escolha do tipo de implementação. Beneficie da conveniência e escalabilidade do [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) ou mantenha o controlo total e a soberania dos dados com uma instalação no local do [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). Em ambos os casos, o SeaTable cresce de forma flexível com a sua empresa.
 
 [Registe-se hoje]({{< relref "pages/registration" >}}), utilize a versão básica gratuita e só pague por funções, utilizadores ou recursos adicionais quando precisar deles.
-
 
 ## Conclusão: Utilize a gestão de dados principais como uma vantagem competitiva
 

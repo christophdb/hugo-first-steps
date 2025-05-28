@@ -1,17 +1,17 @@
 ---
-title: "Gestão eficaz de dados na Hcéres com o SeaTable"
-description: "Leia mais sobre como uma autoridade pública independente utiliza o SeaTable."
+title: 'Gestão eficaz de dados na Hcéres com o SeaTable'
+description: 'Leia mais sobre como uma autoridade pública independente utiliza o SeaTable.'
 seo:
-    title: "História de um cliente Hcéres: Gestão eficaz de dados | SeaTable"
-    description: "Saiba como o SeaTable tornou a colaboração com os departamentos de avaliação muito melhorada, intuitiva, personalizável e segura"
+    title: 'História de um cliente Hcéres: Gestão eficaz de dados | SeaTable'
+    description: 'Saiba como o SeaTable tornou a colaboração com os departamentos de avaliação muito melhorada, intuitiva, personalizável e segura'
 data: 2024-10-21
-categories: 
-  - "Casos de clientes"
-tags: 
-  - 'Gestão e visualização de dados'
-  - 'Setor público'
-color: "#fbe337"
-url: "/pt/gestão eficaz de dados em hceres com seatable"
+categories:
+    - 'customer-story'
+tags:
+    - 'Gestão e visualização de dados'
+    - 'Setor público'
+color: '#fbe337'
+url: '/pt/gestão eficaz de dados em hceres com seatable'
 ---
 
 O Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) é uma autoridade pública independente em França, regida pelos artigos L. 114-3-1 a L. 114-3-6 e R. 114-1 a R. 114-23 do Código da Investigação francês. As principais tarefas do Hcéres incluem
@@ -19,7 +19,8 @@ O Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur 
 - A avaliação de todas as instituições de ensino superior e de investigação em França.
 - A validação dos procedimentos de avaliação propostos por outras organizações.
 - A avaliação de universidades privadas em França e no estrangeiro, a pedido.  
-    
+
+
 A Hcéres foi confrontada com o desafio de tornar os seus complexos processos de dados mais eficientes e em conformidade com os requisitos legais. Com o SeaTable, a Hcéres encontrou uma solução para centralizar a sua gestão de dados e melhorar a colaboração.
 
 ![A gestão de dados com pastas está desactualizada e é entediante - Transformação digital com o SeaTable](pexels-anete-lusina-4792285-1.jpg)

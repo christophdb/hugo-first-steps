@@ -1,10 +1,14 @@
 ---
-title: 'Verzweifelt im Homeoffice? Mit diesen Tipps klappt es! | SeaTable'
+title: 'Verzweifelt im Homeoffice? Mit diesen Tipps klappt es!'
+description: ''
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
 url: '/de/homeoffice-tipps'
 color: '#eeeeee'
+seo:
+    title: 'Verzweifelt im Homeoffice? Mit diesen Tipps klappt es!'
+    description: 'Sie wissen morgens nicht wo sie anfangen sollen und die Mittagspause im Homeoffice ist schon wieder ausgefallen? Unsere Tipps helfen!'
 ---
 
 Die Coronakrise zwingt aktuell Millionen Menschen zum Arbeiten im Homeoffice. Die Umstellung auf die neue Situation fällt manchen leicht, viele haben jedoch auch damit zu kämpfen. Auch Sie wissen morgens nicht so richtig, wie sie anfangen sollen? Sie vergessen ständig die Mittagspause und essen stattdessen Ihre schnell geschmierten Brote vor dem PC? Wir geben Ihnen wertvolle Tipps und zeigen Ihnen Vorteile auf die Ihnen die Situation ganz bestimmt erleichtern.

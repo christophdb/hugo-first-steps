@@ -6,6 +6,9 @@ coverImage: 'pexels-prateekkatyal-2740956.jpg'
 author: 'nsc'
 url: '/lernplan-erstellen'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Many pupils and students are caught in a maelstrom of procrastination and last-minute studying. Perhaps you too are putting off studying until you have to cram for hours on the last night before the exam in order to acquire the necessary knowledge by the skin of your teeth. But don't worry, there is a better way: create an effective **study plan**!

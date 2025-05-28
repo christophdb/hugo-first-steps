@@ -1,20 +1,20 @@
 ---
-title: "Digitalização bem sucedida da gestão de encomendas com o SeaTable - um caso de utilização da éolane"
-description: "O fabricante francês de eletrónica éolane estava à procura de uma solução compatível com o RGPD para a sua gestão de encomendas cada vez mais complexa. Encontraram o SeaTable."
+title: 'Digitalização bem sucedida da gestão de encomendas com o SeaTable - um caso de utilização da éolane'
+description: 'O fabricante francês de eletrónica éolane estava à procura de uma solução compatível com o RGPD para a sua gestão de encomendas cada vez mais complexa. Encontraram o SeaTable.'
 seo:
-    title: "História de um cliente éolane: Digitalização da gestão de encomendas"
-    description: "O fabricante francês de produtos electrónicos éolane procurava uma solução compatível com o RGPD para o seu sistema de gestão de encomendas cada vez mais complexo"
+    title: 'História de um cliente éolane: Digitalização da gestão de encomendas'
+    description: 'O fabricante francês de produtos electrónicos éolane procurava uma solução compatível com o RGPD para o seu sistema de gestão de encomendas cada vez mais complexo'
 date: 2025-04-04
-categories: 
-  - "Caso de sucesso"
-  - "No Code / Low Code"
-tags: 
-  - "Gestão e visualização de dados"
-  - "Transformação digital"
-  - "Integrações e automatizações"
-  - "Low-Code / No-Code"
-color: "#469361"
-url: "/pt/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane"
+categories:
+    - 'customer-story'
+    - 'low-code-no-code'
+tags:
+    - 'Gestão e visualização de dados'
+    - 'Transformação digital'
+    - 'Integrações e automatizações'
+    - 'Low-Code / No-Code'
+color: '#469361'
+url: '/pt/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
 ---
 
 ## Éolane - líder no fabrico de produtos electrónicos, em busca de uma gestão de dados mais eficiente
@@ -57,10 +57,10 @@ Descubra como uma solução no-code personalizada pode revolucionar a sua gestã
 
 ## Resumo
 
-- Contexto:** A éolane, uma empresa tecnológica que fabrica placas de circuitos electrónicos, enfrentava desafios com as ferramentas de TI tradicionais.
-- Desafios:** Instabilidade e complexidade das ferramentas, distribuição de dados e gestão ineficiente de direitos.
-- Transição:** Bruno Vérilhac, responsável pelos fluxos de dados, testou dez ferramentas e escolheu finalmente o SeaTable, com o qual desenvolveu uma solução personalizada em dois meses.
-- Implementação:** Digitalização de todo o processo de gestão de encomendas em dois meses.
-- Resultados:** Maior estabilidade, gestão precisa dos direitos, maior flexibilidade e melhoria dos relatórios. Visualizações instantâneas para a elaboração de relatórios.
-- Feedback dos utilizadores:** Adoção rápida e entusiástica da ferramenta, melhoria dos fluxos de trabalho e aumento da segurança. Citação de Bruno: "Muitas vezes, introduz-se uma ferramenta porque traz benefícios para a empresa. Mas o utilizador pensa que lhe vai custar tempo - é essa a resistência à mudança. Mas se a ferramenta facilitar a vida quotidiana, os utilizadores aceitam-na com entusiasmo."
-- Conclusão:** Melhoria da colaboração e da gestão de dados na éolane graças ao SeaTable.
+- Contexto:\*\* A éolane, uma empresa tecnológica que fabrica placas de circuitos electrónicos, enfrentava desafios com as ferramentas de TI tradicionais.
+- Desafios:\*\* Instabilidade e complexidade das ferramentas, distribuição de dados e gestão ineficiente de direitos.
+- Transição:\*\* Bruno Vérilhac, responsável pelos fluxos de dados, testou dez ferramentas e escolheu finalmente o SeaTable, com o qual desenvolveu uma solução personalizada em dois meses.
+- Implementação:\*\* Digitalização de todo o processo de gestão de encomendas em dois meses.
+- Resultados:\*\* Maior estabilidade, gestão precisa dos direitos, maior flexibilidade e melhoria dos relatórios. Visualizações instantâneas para a elaboração de relatórios.
+- Feedback dos utilizadores:\*\* Adoção rápida e entusiástica da ferramenta, melhoria dos fluxos de trabalho e aumento da segurança. Citação de Bruno: "Muitas vezes, introduz-se uma ferramenta porque traz benefícios para a empresa. Mas o utilizador pensa que lhe vai custar tempo - é essa a resistência à mudança. Mas se a ferramenta facilitar a vida quotidiana, os utilizadores aceitam-na com entusiasmo."
+- Conclusão:\*\* Melhoria da colaboração e da gestão de dados na éolane graças ao SeaTable.

@@ -5,6 +5,9 @@ lastmod: '2023-08-23'
 author: 'kgr'
 url: '/pt/seatable-release-4-1'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 As férias de verão estão a chegar ao fim e esperamos que tenha aproveitado o tempo livre. Enquanto outros saltavam para a piscina ou punham os pés no chão, os nossos programadores trabalhavam arduamente e criaram **a versão 4.1 do SeaTable**.

@@ -5,6 +5,9 @@ lastmod: '2024-02-16'
 author: 'kgr'
 url: '/seatable-release-4-3'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 The carnival season in Germany is approaching its peak - and the confetti cannons are popping at SeaTable too! Version 4.3 brings with it some long-awaited functions and improvements.

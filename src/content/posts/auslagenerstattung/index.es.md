@@ -4,6 +4,9 @@ date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
 url: '/es/auslagenerstattung'
+seo:
+    title:
+    description:
 ---
 
 Ya se trate de una comida de negocios, un billete de tren o el teléfono móvil de la empresa, ¿realiza pagos por adelantado con regularidad en el trabajo y quiere saber qué debe tener en cuenta a la hora de **reembolsar gastos**? ¿O es usted empresario y busca la manera de que el proceso de reembolso de gastos sea más eficaz para sus empleados?

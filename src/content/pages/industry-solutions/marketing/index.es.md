@@ -16,6 +16,7 @@ sections:
           - label: Empiece ahora
             link: 'pages/registration'
             style: primary
+            id: es-marketing-registration
           - label: Descubra las funciones
             link: pages/functions
 
@@ -119,6 +120,7 @@ sections:
       buttons:
           - label: Regístrese ahora y comience
             link: pages/registration
+            id: es-marketing-registration-2
 
     - name: content-11
       weight: 8
@@ -141,31 +143,31 @@ sections:
       items:
           - text: Análisis de la competencia
             image: /images/Marketing_Competitor-Analysis_Template.png
-            alt: Vigile a sus competidores y analice sus actividades.
+            image_alt: Vigile a sus competidores y analice sus actividades.
           - text: Planificación de campañas
             image: /images/Marketing_Content-Calendar_Template.png
-            alt: Planifique sus campañas de marketing desde la primera idea hasta la ejecución.
+            image_alt: Planifique sus campañas de marketing desde la primera idea hasta la ejecución.
           - text: Estrategia de marketing de contenidos
             image: /images/Marketing_Content-Marketing-Strategy_Template.png
-            alt: Cree y gestione su estrategia de marketing de contenidos en un lugar central.
+            image_alt: Cree y gestione su estrategia de marketing de contenidos en un lugar central.
           - text: Calendario editorial
             image: /images/Marketing_Editorial-Plan_Template.png
-            alt: Gestione su plan de contenidos para blogs, redes sociales y otros canales.
+            image_alt: Gestione su plan de contenidos para blogs, redes sociales y otros canales.
           - text: Revisión de prensa
             image: /images/Marketing_Pressespiegel_Template.png
-            alt: Recopile y analice contenido sobre sus temas en una revisión de prensa.
+            image_alt: Recopile y analice contenido sobre sus temas en una revisión de prensa.
           - text: Guion gráfico
             image: /images/Marketing_Storyboard_Template.png
-            alt: Visualice ideas creativas, planifique escenas y campañas enteras.
+            image_alt: Visualice ideas creativas, planifique escenas y campañas enteras.
           - text: Calendario editorial de podcasts
             image: /images/Marketing_Podcast_Templat.png
-            alt: Planifique su producción de podcasts y cree un consejo editorial.
+            image_alt: Planifique su producción de podcasts y cree un consejo editorial.
           - text: Plan de redes sociales
             image: /images/Marketing_Social-Media_Template.png
-            alt: Organice sus publicaciones en redes sociales y planifique las publicaciones.
+            image_alt: Organice sus publicaciones en redes sociales y planifique las publicaciones.
           - text: Suscripción al boletín de noticias
             image: /images/Marketing_Newsletter_Subscription_Template.png
-            alt: Gestione sus suscripciones al boletín de noticias y analice su éxito.
+            image_alt: Gestione sus suscripciones al boletín de noticias y analice su éxito.
       buttons:
           - label: Descubra todas las plantillas
             link: 'https://seatable.io/vorlagen/?lang=auto'
@@ -233,6 +235,7 @@ sections:
       buttons:
           - label: Regístrese ahora y comience
             link: pages/registration
+            id: es-marketing-registration-3
 
     - name: faq
       weight: 15

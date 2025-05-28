@@ -6,6 +6,9 @@ coverImage: 'seatable-release-1.7.jpg'
 author: 'rdb'
 url: '/seatable-release-1-7'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 A month has passed since the release of SeaTable 1.6, so it's about time for a new release. Here it is: We proudly present SeaTable 1.7! It was rolled out today, so SeaTable Cloud users have already started using it. On-premises users will be able to download the newest version from Docker Hub shortly.

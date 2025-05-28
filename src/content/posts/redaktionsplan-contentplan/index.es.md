@@ -5,6 +5,9 @@ lastmod: '2025-01-17'
 author: 'rdb'
 url: '/es/redaktionsplan-contentplan'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Hoy en día, la presencia en Internet es crucial para el éxito de su empresa. Debe publicar contenidos con regularidad a través de las redes sociales, su sitio web, un blog o formatos como un podcast. Puede tratarse de artículos, vídeos explicativos o infografías, por ejemplo. Un plan de contenidos, también conocido como plan editorial, te ayuda a **planificar y crear todos tus contenidos**.

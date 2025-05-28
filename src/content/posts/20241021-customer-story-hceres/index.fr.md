@@ -1,17 +1,17 @@
 ---
-title: "Gestion efficace des données au Hcéres avec SeaTable"
+title: 'Gestion efficace des données au Hcéres avec SeaTable'
 description: "En savoir plus sur l'utilisation de SeaTable par une autorité publique indépendante."
 seo:
-    title : "Customer Story Hcéres : Gestion efficace des données | SeaTable"
+    title: 'Customer Story Hcéres : Gestion efficace des données | SeaTable'
     description: "Découvrez comment SeaTable a considérablement amélioré la collaboration avec les services d'évaluation, en la rendant intuitive, personnalisable et sécurisée"
 date: 2024-10-21
-categories: 
-  - "Témoignage client"
-tags: 
-  - "Gestion des données & visualisation"
-  - "Administration publique"
-color: "#fbe337"
-url: "/fr/effektive-datenverwaltung-beim-hceres-mit-seatable"
+categories:
+    - 'customer-story'
+tags:
+    - 'Gestion des données & visualisation'
+    - 'Administration publique'
+color: '#fbe337'
+url: '/fr/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
 
 Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) est une autorité publique indépendante en France, régie par les articles L. 114-3-1 à L. 114-3-6 et R. 114-1 à R. 114-23 du code de la recherche. Les principales missions du Hcéres sont les suivantes
@@ -19,7 +19,8 @@ Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur
 - L'évaluation de l'ensemble des établissements d'enseignement supérieur et de recherche en France.
 - La validation des procédures d'évaluation proposées par d'autres organismes.
 - L'évaluation des établissements privés d'enseignement supérieur en France et à l'étranger, sur demande.  
-    
+
+
 Hcéres était confronté au défi de rendre ses processus de données complexes plus efficaces et de se conformer aux exigences légales. Avec SeaTable, le Hcéres a trouvé une solution pour centraliser la gestion de ses données et améliorer la collaboration.
 
 ![La gestion des données par dossier est obsolète et fastidieuse - Transformation numérique avec SeaTable](pexels-anete-lusina-4792285-1.jpg)

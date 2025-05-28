@@ -6,7 +6,7 @@ seo:
     description: "Dans cet article, nous montrons la différence entre un système d'information sur les ressources humaines (SIRH) et un système de gestion des ressources humaines (SGRH)"
 date: 2025-03-17
 categories:
-    - 'Général'
+    - 'general'
 tags:
     - 'Gestion du personnel'
     - 'Toolings & Plugins'

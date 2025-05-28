@@ -6,7 +6,7 @@ seo:
     description: 'solution de tableau plus flexible que Google Sheets. Notre article de blog te présente des alternatives qui offrent davantage de possibilités de personnalisation.'
 date: 2025-03-18
 categories:
-    - 'Général'
+    - 'general'
 tags:
     - 'Outils & plugins'
 color: '#59c9a1'

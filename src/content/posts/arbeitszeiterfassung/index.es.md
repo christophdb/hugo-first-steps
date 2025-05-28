@@ -5,6 +5,9 @@ lastmod: '2023-04-25'
 author: 'kgr'
 url: '/es/arbeitszeiterfassung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Probablemente ya haya oído hablar de ello en los medios de comunicación: El Ministerio Federal de Trabajo está planeando una reforma de la Ley de Horarios Laborales para 2023. Pero, ¿qué cambiará esto para usted y su empresa? ¿Tiene que adquirir costosos sistemas de registro horario o le basta con [un software gratuito](https://seatable.io/es/arbeitszeiterfassung/)? En este artículo, le mostraremos cómo implementar el registro de tiempos para sus empleados con un mínimo esfuerzo administrativo y cumpliendo al mismo tiempo con la legislación aplicable.

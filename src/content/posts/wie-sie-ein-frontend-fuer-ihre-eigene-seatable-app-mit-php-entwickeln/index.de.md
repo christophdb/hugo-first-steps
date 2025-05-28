@@ -1,10 +1,14 @@
 ---
-title: 'Wie Sie ein Frontend für Ihre eigene SeaTable App mit PHP entwickeln - SeaTable'
+title: 'Wie Sie ein Frontend für Ihre eigene SeaTable App mit PHP entwickeln'
+description: ''
 date: 2022-09-27
 lastmod: '2022-09-27'
 author: 'cdb'
 url: '/de/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
 color: '#eeeeee'
+seo:
+    title: 'Wie Sie ein Frontend für Ihre eigene SeaTable App mit PHP entwickeln'
+    description: 'Dieser Artikel zeigt, wie Sie mithilfe der SeaTable PHP-API ein eigenes Frontend für Ihre SeaTable Apps entwickeln.'
 ---
 
 SeaTable ist eine unglaublich mächtige Low-Code-Plattform, mit der man in kürzester Zeit eigene Business Prozesse entwickeln kann. In einem meiner ersten YouTube-Anleitungen habe ich bereits gezeigt, wie man in weniger als einer Stunde ein eigenes **Customer Feeback Tool** nur mit den Funktionen und Bordmitteln von Seatable entwickeln kann. Falls Sie nicht wissen, wovon ich rede, empfehle ich Ihnen dieses [YouTube-Video](https://www.youtube.com/watch?v=HqtyeRL2qiY) zuerst anzusehen.

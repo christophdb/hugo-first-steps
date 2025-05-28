@@ -11,7 +11,7 @@ aliases:
 tags:
     - 'Gestão de eventos'
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 color: '#f7c1cf'
 ---
 

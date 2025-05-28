@@ -6,6 +6,9 @@ coverImage: 'SeaTable-3.1-Feature.jpg'
 author: 'rdb'
 url: '/seatable-release-3-1'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 We are happy to introduce the latest version of SeaTable! The release is only a "minor" release, but it comes along quite big. The advanced page design plugin now offers more options to design and manage sophisticated templates. New features also allow for completely new usage scenarios. The Big Data Backend, which goes live with version 3.1, does the same. The Enterprise feature breaks SeaTable's previous limit of 100,000 rows per base, making SeaTable ready for larger tasks. Larger teams will be pleased with the ability to sort groups on the home page and categorize views in Bases. These highlights and a few other new features are presented here. The changelog contains the complete list of changes.

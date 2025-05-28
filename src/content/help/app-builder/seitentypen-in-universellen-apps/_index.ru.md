@@ -1,4 +1,4 @@
 ---
 title: Page types
-url: /ru/help/app-builder/seitentypen-der-universelle-apps
+url: '/ru/pomoshch/app-builder/seitentypen-der-universelle-apps'
 ---

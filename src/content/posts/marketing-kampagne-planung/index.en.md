@@ -6,6 +6,9 @@ coverImage: 'Marketing-Kampagne-Planung_AdobeStock_439332312.jpg'
 author: 'rdb'
 url: '/marketing-kampagne-planung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 If you want to really push your company forward and clearly stand out from the competition, you need one thing above all: extremely good [marketing](https://seatable.io/en/marketing/). How good this actually is depends on the respective marketing campaign and its planning. And this raises several questions: What is a marketing campaign anyway? When is it good and when is it not? And how can the implementation and planning of the marketing campaign be optimally combined?

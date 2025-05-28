@@ -68,21 +68,21 @@ sections:
       items:
           - text: 'Редактор базы'
             image: '/images/template-content-marketing-strategie.png'
-            alt: 'Редактор базы'
+            image_alt: 'Редактор базы'
           - text: 'Галерея'
             image: '/images/galerie-plugin.png'
-            alt: 'Галерея'
+            image_alt: 'Галерея'
           - text: 'Канбан'
-            alt: ''
+            image_alt: ''
             image: '/images/kanban-plugin.png'
           - text: 'Таймлайн'
-            alt: ''
+            image_alt: ''
             image: '/images/timeline-plugin.png'
           - text: 'Календарь'
-            alt: ''
+            image_alt: ''
             image: '/images/calendar-plugin.png'
           - text: 'Связи таблиц'
-            alt: ''
+            image_alt: ''
             image: '/images/table-relationship-plugin.png'
 
     - name: 'customer-1'
@@ -98,7 +98,7 @@ sections:
           - number: '4.6'
             text: 'Рейтинг на Capterra'
       buttons:
-          - link: 'categories/Истории-клиентов/'
+          - link: 'categories/customer-story'
             label: 'Читать другие истории успеха'
             id: ru-homepage-customer-1
 

@@ -1,9 +1,13 @@
 ---
 title: 'Bewerbungsschreiben: Wie Sie jeden Personaler überzeugen'
+description: Egal, ob Praktikum, Ausbildung oder Festanstellung – der erste Schritt auf dem Weg zum Traumjob ist immer eine erfolgreiche Bewerbung. Sie haben viele interessante Stellenangebote gefunden, doch das Schreiben der Bewerbungen bereitet Ihnen Kopfzerbrechen? Keine Sorge, damit sind Sie nicht allein. Für viele ist das Bewerbungsschreiben ein großes Hindernis, denn es erfordert eine ehrliche Selbsteinschätzung und ist mit einer aufwändigen Formulierung der eigenen Fähigkeiten verbunden. Im Folgenden erfahren Sie, worauf Sie dabei achten sollten.
 date: 2024-04-22
 lastmod: '2024-04-22'
 author: 'lsc'
 url: '/de/bewerbungsschreiben'
+seo:
+    title: 'Bewerbungsschreiben: Wie Sie jeden Personaler überzeugen'
+    description: Der erste Schritt zum Traumjob ist das Bewerbungsschreiben. Hier erfahren Sie, mit welchen Tipps Ihnen das perfekte Anschreiben gelingt.
 ---
 
 Egal, ob Praktikum, Ausbildung oder Festanstellung – der erste Schritt auf dem Weg zum Traumjob ist immer eine erfolgreiche **Bewerbung**. Sie haben viele interessante **Stellenangebote** gefunden, doch das Schreiben der Bewerbungen bereitet Ihnen Kopfzerbrechen? Keine Sorge, damit sind Sie nicht allein. Für viele ist das **Bewerbungsschreiben** ein großes Hindernis, denn es erfordert eine ehrliche Selbsteinschätzung und ist mit einer aufwändigen Formulierung der eigenen Fähigkeiten verbunden.

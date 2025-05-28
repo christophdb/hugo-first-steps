@@ -4,6 +4,9 @@ date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
 url: '/fr/notvorrat-anlegen'
+seo:
+    title:
+    description:
 ---
 
 Que feriez-vous si l'approvisionnement en électricité et en eau était soudainement interrompu sur l'ensemble du territoire ? Bien que cela soit très improbable en Allemagne, les dommages aux infrastructures sont plus fréquents dans d'autres parties du monde. Nombreux sont ceux qui ne sont pas suffisamment préparés à de telles **situations d'urgence** ou à d'autres.

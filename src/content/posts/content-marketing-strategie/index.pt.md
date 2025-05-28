@@ -5,6 +5,9 @@ lastmod: '2023-06-26'
 author: 'cdb'
 url: '/pt/content-marketing'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 O marketing de conteúdos é uma abordagem de marketing popular para colocar os seus próprios produtos junto dos clientes e das potenciais partes interessadas. A ideia básica do marketing de conteúdos é muito simples: cria-se conteúdo para o grupo-alvo, publica-se e inspira-se os clientes.
@@ -53,7 +56,7 @@ Existem várias definições de marketing de conteúdos, mas a descrição com o
 
 ## Porque é que as ferramentas Kanban puras e de gestão de processos não são adequadas para o marketing de conteúdos
 
-É importante compreender que o marketing de conteúdos consiste normalmente em muitas pequenas peças do puzzle e que nem um bom artigo trará o sucesso desejado. Por exemplo, a agência de SEO cria [Content Marketing Star](/content-marketing-star/) mesmo para pequenos projectos, um pipeline de conteúdos com dezenas, se não centenas de termos de pesquisa, e depois cria o conteúdo adequado.
+É importante compreender que o marketing de conteúdos consiste normalmente em muitas pequenas peças do puzzle e que nem um bom artigo trará o sucesso desejado. Por exemplo, a agência de SEO cria _Content Marketing Star_ mesmo para pequenos projectos, um pipeline de conteúdos com dezenas, se não centenas de termos de pesquisa, e depois cria o conteúdo adequado.
 
 O marketing de conteúdos requer uma ferramenta que forneça uma visão geral desta massa de informação e permita a publicação direccionada de conteúdos planeados.
 

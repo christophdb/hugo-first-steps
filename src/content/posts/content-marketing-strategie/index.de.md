@@ -1,10 +1,14 @@
 ---
-title: 'Wie Sie eine Content Marketing Strategie entwickeln - SeaTable'
+title: 'Wie Sie eine Content Marketing Strategie entwickeln'
+description: 'Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren.'
 date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
 url: '/de/content-marketing'
 color: '#eeeeee'
+seo:
+    title: 'Wie Sie eine Content Marketing Strategie entwickeln'
+    description: 'Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren.'
 ---
 
 Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren. Der grundsätzliche Gedanke hinter Content Marketing ist dabei denkbar einfach: Man erstellt Inhalte für seine Zielgruppe, publiziert diese und begeistert seine Kunden.
@@ -53,7 +57,7 @@ Es gibt verschiedene Definitionen von Content Marketing, aber die Beschreibung m
 
 ## Warum reine Kanban- und Prozessmanagement-Tools nicht für das Content Marketing geeignet sind
 
-Es ist wichtig zu verstehen, dass Content Marketing üblicherweise aus vielen kleinen Puzzleteilen besteht und dass nicht ein einziger guter Artikel den gewünschten Erfolgt bringt. Beispielsweise erstellt die SEO-Agentur [Content Marketing Star](/content-marketing-star/) selbst bei kleinen Projekten eine Content Pipeline mit Dutzenden, wenn nicht sogar Hunderten Suchbegriffen, und erstellt dann den passenden Content.
+Es ist wichtig zu verstehen, dass Content Marketing üblicherweise aus vielen kleinen Puzzleteilen besteht und dass nicht ein einziger guter Artikel den gewünschten Erfolgt bringt. Beispielsweise erstellt die SEO-Agentur _Content Marketing Star_ selbst bei kleinen Projekten eine Content Pipeline mit Dutzenden, wenn nicht sogar Hunderten Suchbegriffen, und erstellt dann den passenden Content.
 
 Content Marketing erfordert ein Tool, das den Überblick über diese Masse an Informationen ermöglicht und eine zielgerichtete Veröffentlichung von geplanten Inhalten erlaubt.
 

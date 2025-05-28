@@ -6,6 +6,9 @@ coverImage: 'crm-product-catalog-offers-preview.jpg'
 author: 'pbr'
 url: '/crm-angebotsmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Any company that wants to record and track its customers more efficiently cannot do without good customer relationship management (CRM) or, more precisely, a CRM system.

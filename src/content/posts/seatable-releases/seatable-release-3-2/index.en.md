@@ -6,6 +6,9 @@ coverImage: 'seatable-release-3.2-blog.jpg'
 author: 'rdb'
 url: '/seatable-release-3-2'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Welcome SeaTable 3.2! In the new release SeaTable's column types are in the spotlight: The formula column wizard is now interactive and offers significantly improved error correction. Buttons in the column type of the same name now allow to perform multiple actions with one click. New functions in the file column simplify the management of files and the selection columns also offer more convenient use. But not only the column types have benefited. Enterprise users in particular can look forward to improved automations.

@@ -1,9 +1,13 @@
 ---
 title: 'Fuhrparkmanagement: Wie Sie Ihren Fuhrpark clever verwalten'
+description: 'Ob LKWs, Busse oder klassische Dienstwagen: Einen Fuhrpark zu verwalten ist für Unternehmen jeder Größe eine vielseitige Aufgabe, bei der es einiges zu beachten gilt. Deshalb soll der folgende Artikel dabei helfen, all Ihre Fragen rund um das Fuhrparkmanagement zu klären.'
 date: 2024-01-09
 lastmod: '2025-02-12'
 author: 'kgr'
 url: '/de/fuhrparkmanagement'
+seo:
+    title: 'Fuhrparkmanagement: Wie Sie Ihren Fuhrpark clever verwalten'
+    description: 'Erfahren Sie alles über effizientes Fuhrparkmanagement, um Ihre Fahrzeugflotte geschickt aufzubauen und mit minimalem Aufwand zu verwalten.'
 ---
 
 Ob LKWs, Busse oder klassische Dienstwagen: Einen Fuhrpark zu verwalten ist für Unternehmen jeder Größe eine vielseitige Aufgabe, bei der es einiges zu beachten gilt. Deshalb soll der folgende Artikel dabei helfen, all Ihre Fragen rund um das **Fuhrparkmanagement** zu klären.

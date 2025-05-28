@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rdb'
 url: '/pt/seatable-release-2-4'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 O SeaTable 2.4 viu a luz do dia! A última encarnação do SeaTable Server foi carregada em [Docker](https://hub.docker.com/u/seatable) Hub no final da semana passada e o SeaTable Cloud foi actualizado esta manhã. A nova versão oferece uma série de melhorias e novas funcionalidades: Ver navegação está agora acoplável, o tipo de coluna Link to Other Entries oferece configurações melhoradas, uma nova e melhorada operação de processamento de dados torna a análise quantitativa mais fácil. Além disso, uma nova formatação condicional oferece ajuda com grandes conjuntos de dados. E estas são apenas as características que se destacam da multidão. A SeaTable 2.4 também oferece muito mais. Encontrará as informações mais importantes sobre a nova versão nestas notas de lançamento. Encontrará a lista completa de alterações - como sempre no [changelog](https://seatable.io/pt/docs/changelog/version-2-4/).

@@ -5,6 +5,9 @@ lastmod: '2024-10-18'
 author: 'nsc'
 url: '/es/seadays-2024'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 **SeaDays 2024** ha concluido y podemos echar la vista atrás a dos días intensos e inspiradores en la Sala del Senado de la Universidad de Maguncia. Por segunda vez, alrededor de 50 participantes -entre administradores y gestores de proyectos- se reunieron para debatir los últimos avances en torno a Seafile y SeaTable y aportar sus comentarios.

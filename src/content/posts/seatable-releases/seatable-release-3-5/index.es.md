@@ -5,6 +5,9 @@ lastmod: '2023-09-04'
 author: 'kgr'
 url: '/es/seatable-release-3-5'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 April hace lo que quiere - ¡pero SeaTable hace lo que usted quiere! La versión 3.5 cumple algunos deseos largamente acariciados por nuestros usuarios: la primera columna ahora también soporta [fórmulas](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/) y mediante la [automatización](https://seatable.io/es/docs/automationen/uebersicht-ueber-automationen/) puede hacer que se ejecuten periódicamente dos acciones adicionales. Obtendrá más flexibilidad para casos de uso más exigentes con la ejecución condicional de las [acciones de los botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/) y las [búsquedas](https://seatable.io/es/docs/verknuepfungen/die-lookup-funktion/) condicionales. A continuación presentamos estas mejoras en detalle.

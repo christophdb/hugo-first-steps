@@ -45,54 +45,96 @@ pageRef = "pages/product/seatable-server"
 weight = 24
 
 [[main]]
-name = "Отраслевые решения"
+name = "Pешения"
 pageRef = "#0"
 weight = 30
 
 [[main]]
 name = "Маркетинг"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
 name = "Управление проектами"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
 name = "HR"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
 name = "Государственная служба"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
 name = "Разработка программного обеспечения"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/software-development"
 weight = 35
 
 [[main]]
 name = "На заказ"
-parent = "Отраслевые решения"
+parent = "Pешения"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
-name = "Цены"
-pageRef = "pages/prices"
+name = "Ресурсы"
+pageRef = "#0"
 weight = 40
 
 [[main]]
+name = "Шаблоны"
+parent = "Ресурсы"
+pageRef = "templates"
+weight = 42
+
+[[main]]
+name = "Краткое руководство"
+parent = "Ресурсы"
+pageRef = "pages/quick-guide"
+weight = 43
+
+[[main]]
+name = "Онлайн-курсы"
+parent = "Ресурсы"
+pageRef = "help/erste-schritte"
+weight = 44
+
+[[main]]
+name = "Pomoshch"
+parent = "Ресурсы"
+pageRef = "help"
+weight = 45
+
+#[[main]]
+#name = "Integrations"
+#parent = "Ресурсы"
+#pageRef = "posts"
+#weight = 46
+
+[[main]]
+name = "Форум"
+parent = "Ресурсы"
+url = "https://forum.seatable.io"
+weight = 47
+
+[[main]]
 name = "Блог"
+parent = "Ресурсы"
 pageRef = "posts"
+weight = 48
+
+[[main]]
+name = "Цены"
+pageRef = "pages/prices"
 weight = 50
 
 # -- Footer Menu --
@@ -134,7 +176,7 @@ weight = 20
 [[footer]]
 name = "Краткое руководство"
 parent = "Поддержка"
-url = "https://seatable.io/kurzanleitung/?lang=auto"
+pageref = "pages/quick-guide"
 weight = 21
 
 [[footer]]
@@ -146,7 +188,7 @@ weight = 22
 [[footer]]
 name = "Шаблоны"
 parent = "Поддержка"
-url = "https://seatable.io/vorlagen/?lang=auto"
+pageRef = "templates"
 weight = 23
 
 [[footer]]

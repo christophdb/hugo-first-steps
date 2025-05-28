@@ -6,6 +6,9 @@ coverImage: 'developer-or-enterprise-edition-1.jpg'
 author: 'cdb'
 url: '/editionsvergleich'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable Server is SeaTable for your own server. By installing SeaTable in your own infrastructure, you have full control over where your data is and who accesses it. SeaTable is also recommended for use cases where you do not want to take your data off-site. You can also operate SeaTable Server exclusively in the local network without access via the Internet.

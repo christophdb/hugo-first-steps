@@ -1,10 +1,14 @@
 ---
-title: '6 Tipps zu mehr Produktivität in Ihrem Remote-Team - SeaTable'
+title: '6 Tipps zu mehr Produktivität in Ihrem Remote-Team'
+description: ''
 date: 2021-10-07
 lastmod: '2023-07-11'
 author: 'rbu'
 url: '/de/remote-sales-teams'
 color: '#eeeeee'
+seo:
+    title: ''
+    description: ''
 ---
 
 Die meisten Unternehmen ergreifen Maßnahmen, die Arbeit von zu Hause aus zu ermöglichen und organisieren neben Homeoffice Möglichkeiten auch Online-Seminare oder sonstige Veranstaltungen für Ihre Mitarbeiter. Doch: Langsam vermissen Sie selbst den nervigsten Kollegen und der Plausch an der Kaffeemaschine fehlt Ihnen auch. Mit einem fast ausschließlich remote arbeitenden Team ist es manchmal schwierig, up-to-date zu bleiben und die [Produktivität leidet](https://seatable.io/homeoffice-tipps/) auch nicht selten darunter. Zum Glück gibt es da eine Methode, die Ihnen helfen könnte, Ihre Produktivität remote zurückzugewinnen. Mit täglichen Stand-ups verbessern Sie die Produktivität Ihres Teams im Handumdrehen.

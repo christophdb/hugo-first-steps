@@ -5,6 +5,9 @@ lastmod: '2023-10-31'
 author: 'kgr'
 url: '/es/digitaler-nachlass'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 En la era digital actual, nuestra **vida online** es cada vez más importante: nos comunicamos por correo electrónico, mensajería y redes sociales, almacenamos archivos y fotos importantes en la nube, hacemos operaciones bancarias online y dejamos innumerables rastros en Internet. Pero, ¿qué ocurre realmente con todos estos datos y cuentas cuando uno fallece algún día? Palabra clave: **patrimonio digital**.

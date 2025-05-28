@@ -4,6 +4,9 @@ date: 2024-08-09
 lastmod: '2024-08-09'
 author: 'lsc'
 url: '/es/wissensmanagement'
+seo:
+    title:
+    description:
 ---
 
 El conocimiento es uno de los recursos más importantes de cualquier empresa. No en vano ya se menciona el conocimiento como [factor de producción](https://de.wikipedia.org/wiki/Produktionsfaktor) junto con la tierra, el capital y la mano de obra cuando se trata del éxito de una empresa. Pero, ¿qué hace falta para que los conocimientos de sus empleados estén a disposición de los demás en su empresa? La respuesta: ¡un **sistema de gestión del conocimiento** que funcione!

@@ -11,7 +11,7 @@ tags:
     - 'Tools & Plugins'
     - 'Fleetmanagement'
 categories:
-    - 'General'
+    - 'general'
 color: '#f34b4c'
 text: 'white'
 ---

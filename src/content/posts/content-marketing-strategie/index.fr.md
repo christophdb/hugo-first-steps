@@ -5,6 +5,9 @@ lastmod: '2023-06-26'
 author: 'cdb'
 url: '/fr/content-marketing'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Le marketing de contenu est une approche marketing très appréciée pour placer ses produits auprès des clients et des prospects potentiels. L'idée de base du marketing de contenu est très simple : on crée des contenus pour son groupe cible, on les publie et on enthousiasme ses clients.
@@ -53,7 +56,7 @@ Il existe différentes définitions du marketing de contenu, mais la description
 
 ## Pourquoi les outils purement Kanban et de gestion des processus ne sont pas adaptés au marketing de contenu
 
-Il est important de comprendre que le marketing de contenu se compose généralement de nombreuses petites pièces de puzzle et qu'un seul bon article ne permet pas d'obtenir le résultat escompté. Par exemple, l'agence de référencement crée [Content Marketing Star](/content-marketing-star/) même pour les petits projets, un pipeline de contenu avec des dizaines, voire des centaines de termes de recherche, et crée ensuite le contenu approprié.
+Il est important de comprendre que le marketing de contenu se compose généralement de nombreuses petites pièces de puzzle et qu'un seul bon article ne permet pas d'obtenir le résultat escompté. Par exemple, l'agence de référencement crée _Content Marketing Star_ même pour les petits projets, un pipeline de contenu avec des dizaines, voire des centaines de termes de recherche, et crée ensuite le contenu approprié.
 
 Le marketing de contenu nécessite un outil qui permette d'avoir une vue d'ensemble de cette masse d'informations et de publier de manière ciblée les contenus prévus.
 

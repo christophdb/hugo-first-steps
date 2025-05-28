@@ -5,6 +5,9 @@ lastmod: '2022-06-27'
 author: 'rdb'
 url: '/fr/seatable-release-3-0'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 La version 3.0 de SeaTable est arrivée ! La troisième version majeure de SeaTable offre l'édition en ligne de documents Office, une validation automatique des données, davantage de fonctions pour les jeux de données partagés et un nouveau composant serveur pour un stockage plus efficace des bases. Comme toujours, le [changelog](https://seatable.io/docs/changelog/version-3-0/?lang=auto) fournit des informations sur les nombreuses autres améliorations détaillées et corrections de bugs de la nouvelle version. [Les utilisateurs de SeaTable Cloud](https://cloud.seatable.io/) peuvent accéder aux nouvelles fonctions dès maintenant. L'image de SeaTable 3.0 a été mise à disposition cette nuit sur [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  

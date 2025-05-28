@@ -16,6 +16,7 @@ sections:
       - label: Empiece ahora
         link: 'pages/registration'
         style: primary
+        id: es-project-management-registration
       - label: Conozca las funciones
         link: pages/functions
 
@@ -87,13 +88,13 @@ sections:
     items:
       - text: Plan de proyecto
         image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-        alt: ""
+        image_alt: ""
       - text: Gestión de la cartera de proyectos
         image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-        alt: ""
+        image_alt: ""
       - text: Plan de acción
         image: /images/Projektmanagement_Action-Plan_Template_9.png
-        alt: ""
+        image_alt: ""
     buttons:
       - label: Explore nuestras plantillas
         link: https://seatable.io/vorlagen/?lang=auto
@@ -104,6 +105,7 @@ sections:
     buttons:
       - label: Regístrese ahora y empiece
         link: pages/registration
+        id: es-project-management-registration-2
 
   - name: "content-9"
     weight: 26
@@ -169,6 +171,7 @@ sections:
     buttons:
       - label: Regístrese ahora y empiece
         link: pages/registration
+        id: es-project-management-registration-3
 
   - name: faq
     weight: 99

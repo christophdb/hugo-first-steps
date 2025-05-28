@@ -6,6 +6,9 @@ coverImage: 'hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg'
 author: 'cdb'
 url: '/vorteile-von-datenbanken'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Die meisten Menschen haben tagtäglich mit Daten zu tun, die effektiv verwaltet werden müssen. Der Inhaber eines Supermarktes muss den Überblick über den Warenbestand behalten, ein Redaktionsleiter alle Publikationen auf dem Schirm haben und ein Friseur die Termine seiner Kunden verwalten. In nahezu allen Berufen spielen Daten eine Rolle. Am besten verwalten Sie große Mengen an Informationen in **Datenbanken**. Aber was ist eine Datenbank, was sind die Vorteile von Datenbanken und wieso reicht eine einfache Tabelle in den meisten Fällen nicht aus?

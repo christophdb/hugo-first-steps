@@ -5,6 +5,9 @@ lastmod: '2022-07-27'
 author: 'rdb'
 url: '/es/angebotsmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Una cosa es crucial para el éxito de la labor de ventas: la **gestión de la oferta**. ¿Pero qué es lo importante aquí? ¿Qué errores no deben cometerse bajo ninguna circunstancia? ¿Y qué hay detrás del término "gestión de ofertas"?

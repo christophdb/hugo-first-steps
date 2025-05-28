@@ -5,6 +5,9 @@ lastmod: '2022-02-03'
 author: 'rdb'
 url: '/pt/seatable-release-2-7'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Esta manhã, o [SeaTable Cloud](https://cloud.seatable.io) foi actualizado para a versão 2.7. Isto significa que todos os utilizadores do Cloud podem agora também desfrutar das novas funções e melhorias da nova versão, que já está disponível para download para auto-gerentes em Docker Hub por alguns dias. O editor de tabela beneficiou mais com a mudança de versão: a formatação de célula condicional, a nova operação de processamento de dados "Calcular classificação", a fixação de coluna alargada e a função de valor por defeito para colunas de data oferecem muitas novas funcionalidades. Fora do editor de mesa, as bases protegidas por palavra-passe são uma melhoria importante. Todas as mudanças podem ser encontradas - como sempre - no [SeaTable changelog](https://seatable.io/pt/docs/changelog/version-2-7/).

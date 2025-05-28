@@ -2,15 +2,15 @@
 title: 'Portfolio management: How to keep track of your portfolio at all times'
 description: 'Project portfolio management, product portfolio management or IT portfolio management: no matter what you are creating a portfolio for and how large the portfolio is that you want to keep an eye on - in this article you will learn how to manage your portfolio successfully.'
 seo:
-    title: "Portfolio management: Keep the overview | SeaTable"
-    description: "Project portfolio management or product portfolio management: in this article you will learn how your portfolio management always succeeds"
+    title: 'Portfolio management: Keep the overview | SeaTable'
+    description: 'Project portfolio management or product portfolio management: in this article you will learn how your portfolio management always succeeds'
 
 date: 2025-03-27
 categories:
-    - 'General'
+    - 'general'
 tags:
-- "Finances"
-- "Project Management"
+    - 'Finances'
+    - 'Project Management'
 color: '#bba9d3'
 url: '/portfoliomanagement'
 ---
@@ -151,7 +151,7 @@ Regularly review your IT portfolio to ensure it stays on track and meets busines
 
 ## Portfolio management in the financial sector
 
-In the financial sector, portfolio management consists of managing and optimizing investments and assets in a portfolio. This involves **financial investments such as shares, bonds, funds, real estate or precious metals**. The aim of portfolio management is to make a strategic selection of assets in order to achieve the highest possible return** while minimizing risk through **balanced diversification**.
+In the financial sector, portfolio management consists of managing and optimizing investments and assets in a portfolio. This involves **financial investments such as shares, bonds, funds, real estate or precious metals**. The aim of portfolio management is to make a strategic selection of assets in order to achieve the highest possible return** while minimizing risk through **balanced diversification\*\*.
 
 ![Portfolio management in the financial sector](Finanzportfoliomanagement.jpg)
 

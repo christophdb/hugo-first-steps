@@ -1,0 +1,56 @@
+{{ define "main" }}
+    <section class="max-container padding mx-auto w-full">
+        <article class="">
+            <h1 class="gradient mt-12 font-poppins text-4xl">{{ .Title }}</h1>
+
+            <div class="mt-12">
+                <a
+                    class="bg-gradient rounded-xl px-5 py-3 text-center font-poppins text-lg !font-bold !text-white shadow-md"
+                    href="https://cloud.seatable.io/copy-template/?template_link_token={{ .Params.template }}"
+                    >{{ T "templates.use_template" }}</a
+                >
+                <a
+                    class="ml-4 rounded-xl border bg-white px-5 py-3 font-poppins text-lg font-bold text-black shadow-md"
+                    href="https://cloud.seatable.io/dtable/external-links/{{ .Params.template }}/"
+                    >{{ T "templates.preview" }}</a
+                >
+            </div>
+
+            <div class="justify-left post mt-16 flex w-full gap-12 md:flex-row">
+                <!-- max width of the blog posts is 768px -> image optimization -->
+                <div class="post-content w-full max-w-3xl lg:w-3/4">
+                    {{ .Content }}
+                </div>
+
+                <!-- Second section -->
+
+                <div class="toc post-toc win-w-[220px] hidden w-1/4 lg:block" data-pagefind-ignore>
+                    <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
+                        <a class="mb-6 block !text-blue-600" href="{{ relref . "templates" }}">{{ T "templates.back" }}</a>
+
+                        <h3>{{ T "templates.categorie" }}</h3>
+                        <div class="mt-4">
+                            <span class="rounded-lg border bg-gray-100 p-2">{{ .Params.category | humanize }}</span>
+                        </div>
+                        <!--
+                        <h3 class="mt-12">{{ T "templates.functions" }}</h3>
+                        <div class="mt-2">
+                            {{ with .Params.functions }}
+                            <div class="flex flex-wrap gap-2">
+                                {{ range . }}
+                                    <span class="inline-block rounded-lg border bg-gray-100 p-2">{{ . | humanize }}</span>
+                                {{ end }}
+                            </div>
+                        {{ end }}
+                        </div>
+                    -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-12">
+                {{ partial "template.html" (dict "id" .Params.template) }}
+            </div>
+        </article>
+    </section>
+{{ end }}

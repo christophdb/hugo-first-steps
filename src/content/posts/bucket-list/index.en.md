@@ -6,6 +6,9 @@ coverImage: 'aurora-1185464_1280.jpg'
 author: 'nsc'
 url: '/bucket-list'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Have you always wanted to try a parachute jump from an airplane? Have you dreamed of diving on the Great Barrier Reef in Australia since you were a child? Or would you like to spend a night in an igloo in Norway? Then put these destinations on your bucket list!

@@ -6,6 +6,9 @@ coverImage: 'seatable-immobilien-vorlagen.jpg'
 author: 'cdb'
 url: '/immobilienverwaltung'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 We take care of your organization - regardless of whether you want to manage your properties clearly, are looking for an apartment or are already planning your next move.

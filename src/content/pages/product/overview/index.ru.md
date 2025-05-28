@@ -32,7 +32,7 @@ sections:
             link: pages/product/seatable-server
 
     - name: content-1
-      weight: 3
+      weight: 4
       title: 'Готовое к использованию решение'
       subtitle: 'SeaTable Cloud'
       description: 'SeaTable Cloud идеально подходит для компаний и команд, которые хотят быстро начать работу, не беспокоясь об обслуживании или ИТ-инфраструктуре. Он предлагает прямой доступ ко всем функциям SeaTable через облако.'
@@ -52,7 +52,7 @@ sections:
             link: 'pages/product/seatable-cloud'
 
     - name: content-12
-      weight: 4
+      weight: 5
       title: 'Ваш индивидуальный экземпляр в облаке'
       subtitle: 'SeaTable Dedicated'
       description: 'С SeaTable Dedicated вы получаете выделенный экземпляр в облаке, который индивидуально адаптирован к вашим потребностям. Этот вариант дает вам полный контроль и повышенную безопасность, сохраняя при этом преимущества облака.'
@@ -72,7 +72,7 @@ sections:
             link: 'pages/product/seatable-dedicated'
 
     - name: content-12
-      weight: 5
+      weight: 6
       classes:
           - bg-gray-100
           - curved
@@ -93,12 +93,12 @@ sections:
             link: 'pages/product/seatable-dedicated'
 
     - name: product-comparison-table
-      weight: 6
+      weight: 7
       title: Три продукта SeaTable с первого взгляда
       subtitle: Сравнение наших продуктов
 
     - name: banner-4
-      weight: 7
+      weight: 8
       title: Справедливые цены для исследовательских, образовательных и некоммерческих организаций
       subtitle: 'Скидки для государственного сектора'
       text: 'SeaTable предлагает справедливые и прозрачные цены, чтобы **образовательные учреждения**, **исследовательские институты**, **государственные учреждения** и **некоммерческие организации** имели доступ к самым современным технологиям, не перегружая свой бюджет. Воспользуйтесь преимуществами мощных решений no-code по сниженным ценам.'
@@ -107,7 +107,7 @@ sections:
             link: 'pages/contact'
             style: primary
     - name: 'content-10'
-      weight: 10
+      weight: 9
       title: 'Индивидуальные рабочие процессы и автоматизация с SeaTable'
       subtitle: 'Простая интеграция'
       description: 'С SeaTable вы можете не только создавать собственные рабочие процессы, но и легко интегрировать существующие системы и настраивать автоматизацию. Благодаря интеграции с такими инструментами, как n8n, Make и Zapier, а также возможности подключения собственных систем через API, вы можете разрабатывать свои процессы быстро и эффективно.'
@@ -121,7 +121,7 @@ sections:
             link: 'https://seatable.io/integrationen/?lang=auto'
 
     - name: 'content-9'
-      weight: 11
+      weight: 10
       title: SeaTable по сравнению с конкурентами
       subtitle: Преимущества
       description: По сравнению с другими решениями на рынке, SeaTable предлагает важные преимущества с точки зрения гибкости, безопасности и ценообразования. Независимо от того, сравниваете ли вы с **Airtable**, **Asana** или **Google Sheets**, SeaTable предлагает уникальные преимущества.
@@ -146,10 +146,10 @@ sections:
             icon: shield-halved
 
     #- name: content-99
-    #  weight: 12
+    #  weight: 11
 
     - name: content-22
-      weight: 13
+      weight: 12
       classes:
           - curved
           - bg-gray-100
@@ -161,7 +161,7 @@ sections:
             link: pages/support
 
     - name: content-22
-      weight: 40
+      weight: 3
       title: Начните работу с SeaTable прямо сейчас
       subtitle: Выберите правильное решение
       text: 'Выберите решение, которое наилучшим образом соответствует вашим требованиям. Будь то Cloud, Dedicated или On-Premises — SeaTable предлагает вам гибкость, безопасность и производительность, необходимые вашей компании.'

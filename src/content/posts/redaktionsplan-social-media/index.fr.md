@@ -5,6 +5,9 @@ lastmod: '2025-01-17'
 author: 'rdb'
 url: '/fr/redaktionsplan-social-media'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Pour obtenir des résultats mesurables sur les plates-formes de médias sociaux, vous devez publier continuellement de nouveaux contenus. Et ce, souvent plusieurs fois par semaine pour différents canaux, comme LinkedIn, Instagram, Facebook, X ou Youtube. Il s'agit de **publier des contenus intéressants et divertissants dans les délais impartis**. Un **plan éditorial pour les médias sociaux** vous aidera à le mettre en œuvre. Découvrez dans cet article comment développer une stratégie de médias sociaux efficace grâce à un plan de médias sociaux.

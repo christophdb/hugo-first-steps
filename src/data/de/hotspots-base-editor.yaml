@@ -1,0 +1,55 @@
+- 'label': 'Tabellen'
+  'description': 'Tabellen sind die konstitutiven Elemente von Bases. Eine Tabelle besteht aus Spalten, Zeilen und Ansichten. Jede Tabelle wird in einer Base als Registerkarte angezeigt.'
+  'link': 'help/base-editor/tabellen'
+  'position': 'right'
+  'x': 44
+  'y': 9
+
+- 'label': 'Spalten'
+  'description': 'Eine Spalte erfasst Daten eines Typs. SeaTable bietet 25 unterschiedliche Spaltentypen, um so unterschiedliche Informationen wie Text, Datum, Zahlen, Bilder, Dateien, Checkboxen oder Formeln speichern zu können.'
+  'link': 'help/base-editor/spalten'
+  'position': 'right'
+  'x': 26
+  'y': 19.5
+
+- 'label': 'Statistiken'
+  'description': 'Eine Statistik ist eine quantitative Auswertung des Inhalts einer Tabelle. SeaTable stellt diverse (einfache und kombinierte) Diagrammtypen und Pivot-Tabellen als Statistiken zur Verfügung.'
+  'link': 'help/base-editor/statistiken'
+  'position': 'right'
+  'x': 76
+  'y': 0.5
+
+- 'label': 'Webformulare'
+  'description': 'Ein Formular ist eine Webseite, über die neue Datensätze angelegt werden können. SeaTable Formulare sind standardmäßig öffentlich, können aber auch zugriffsbeschränkt werden.'
+  'link': 'help/base-editor/webformulare'
+  'position': 'left'
+  'x': 68.6
+  'y': 7
+
+- 'label': 'Zeilen'
+  'description': |
+      Eine Zeile stellt einen Datensatz dar.<br><br>
+      Die Zeilendetails stellen alle (nicht ausgeblendeten) Spalten eines Datensatzes auf einer Seite dar. Schreibgeschützte Spalten sind durch einen grauen Hintergrund gekennzeichnet; alle anderen Spalten können Sie bearbeiten.
+  'link': 'help/base-editor/zeilen'
+  'position': 'right'
+  'x': 5
+  'y': 73
+
+- 'label': 'Plugins'
+  'description': 'Plugins sind Erweiterungen für SeaTable. Es gibt unterschiedliche Arten von Plugins. Plugins für die Datenvisualisierung sind die Galerie, der Kalender, die Karte, das Kanban- und das Timeline-Plugin. Das Seitendesign-Plugin ist ein Plugin, das die Gestaltung von Dokumenten ermöglicht. Mit der SQL-Abfrage und der Datendeduplizierung können Sie Datensätze suchen und löschen. Plugins lassen sich auch individuell entwickeln.'
+  'link': 'help/base-editor/plugins'
+  'position': 'left'
+  'x': 91
+  'y': 13
+
+- 'label': 'Ansichten'
+  'description': |
+      Eine Ansicht ist eine benutzerdefinierte Darstellung der Daten in einer Tabelle. Eine Ansicht wird durch die genutzten Sortierungen, Filter, Gruppierungen,
+      Spaltenausblendungen sowie weitere Ansichtseinstellungen definiert.<br><br>
+      Eine Tabelle kann eine oder mehrere Ansichten enthalten. Alle Ansichten einer Tabelle greifen auf den gleichen Datenbestand zu.
+      Das bedeutet: Wird ein Zellenwert in einer Ansicht geändert, dann wird der Wert in der zugrundeliegenden Tabelle geändert und damit auch in allen Ansichten der Tabelle.<br><br>
+      Wird eine Ansicht gesperrt, lassen sich die Ansichtseinstellungen nicht mehr ändern.
+  'link': 'help/base-editor/ansichten'
+  'position': 'right'
+  'x': 4
+  'y': 14

@@ -5,6 +5,9 @@ lastmod: '2022-06-13'
 author: 'rbu'
 url: '/es/produktlaunch'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Una vez que haya completado con éxito el proceso de desarrollo del producto, nada se interpone en el camino de su lanzamiento.

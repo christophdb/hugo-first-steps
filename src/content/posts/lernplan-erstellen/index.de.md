@@ -1,10 +1,14 @@
 ---
 title: 'Lernplan erstellen – in 7 Schritten zur Bestnote'
+description: 'Egal, ob es sich um Ihre Abiturprüfungen oder um Ihre Klausuren an der Uni handelt – ein gut durchdachter Lernplan kann den Unterschied zwischen Erfolg und Misserfolg machen. In diesem Artikel zeigen wir Ihnen in 7 einfachen Schritten, wie Sie einen effektiven Lernplan erstellen können, um stressfreier in die nächste Prüfungsphase zu starten.'
 date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
 url: '/de/lernplan-erstellen'
 color: '#eeeeee'
+seo:
+    title: 'Lernplan erstellen – in 7 Schritten zur Bestnote'
+    description: 'Erstellen Sie mit unseren Tipps und einer kostenlosen Vorlage Ihren Lernplan für harte Prüfungen und Klausuren im Abitur oder Studium!'
 ---
 
 Viele Schüler und Studenten sind in einem Strudel aus Prokrastination und Last-Minute-Lernen gefangen. Vielleicht schieben auch Sie mal wieder das Lernen vor sich her, bis Sie in der letzten Nacht vor der Prüfung stundenlang pauken müssen, um sich mit Ach und Krach das nötige Wissen anzueignen. Aber keine Sorge, es gibt eine bessere Möglichkeit: Erstellen Sie sich einen effektiven **Lernplan**!

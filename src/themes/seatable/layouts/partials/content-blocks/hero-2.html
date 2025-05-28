@@ -8,13 +8,10 @@
   title: 
   subtitle: 
   text: 
-  items:
-  - text:
-    image:
-    alt:
-  - text:
-    image:
-    alt:</code></pre>
+  image:
+  image_alt:
+  platform_selector:
+        </code></pre>
     </div>
 {{ end }}
 
@@ -36,7 +33,7 @@
         </div>
         {{ if .image }}
             <div class="max-container max-h-[300px] w-full">
-                <img src="{{ .image.src }}" alt="{{ .image.alt }}" class="" />
+                <img src="{{ .image }}" alt="{{ .image_alt }}" class="" />
             </div>
         {{ end }}
 

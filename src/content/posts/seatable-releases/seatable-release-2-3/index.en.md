@@ -6,6 +6,9 @@ coverImage: 'SeaTable-2-3.png'
 author: 'rdb'
 url: '/seatable-release-2-3'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable version 2.3, available since today, is getting ready to conquer new fields of application. With the archive function, which is presented as a beta in this release, SeaTable is now also recommended for data-intensive use cases: Tables with millions of data records can be stored and evaluated in SeaTable. It is the focus of these release notes. Further innovations and improvements are presented in an overview. The complete list of changes can be found - as always - in the [SeaTable Changelog](https://seatable.io/en/docs/changelog/version-2-3/).

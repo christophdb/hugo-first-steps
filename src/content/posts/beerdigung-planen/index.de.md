@@ -1,9 +1,14 @@
 ---
 title: 'Beerdigung planen – für einen würdevollen Abschied'
+description: Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigung reibungslos hinter sich bringen? Oder Sie möchten Ihre eigene Beerdigung planen, um Ihre Angehörigen nach Ihrem Tod zu entlasten? Dieser Artikel liefert Ihnen alle wichtigen Informationen, was Sie rund um die Organisation einer Bestattung beachten sollten.
 date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
+color: '#eeeeee'
 url: '/de/beerdigung-planen'
+seo:
+    title: Beerdigung planen – für einen würdevollen Abschied
+    description: Bei Todesfällen wissen Angehörige oft nicht, wie sie eine Beerdigung planen sollen. Dieser Artikel hilft Ihnen, in Würde Abschied zu nehmen.
 ---
 
 Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigung reibungslos hinter sich bringen? Oder Sie möchten Ihre eigene Beerdigung planen, um Ihre Angehörigen nach Ihrem Tod zu entlasten? Dieser Artikel liefert Ihnen alle wichtigen Informationen, was Sie rund um die Organisation einer Bestattung beachten sollten.

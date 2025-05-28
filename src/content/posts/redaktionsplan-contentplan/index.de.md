@@ -1,10 +1,14 @@
 ---
-title: 'Redaktionsplan | Contentplan erstellen: Tipps & Tricks mit Vorlage'
+title: '5 Schritte zum Contentplan für Ihr Marketing: Expertentipps und Checkliste'
+description: 'In der heutigen Zeit ist eine Online-Präsenz entscheidend für den Erfolg Ihres Unternehmens. Über Social Media, Ihre Webseite, einen Blog oder Formate wie einen Podcast gilt es, regelmäßig Inhalte zu veröffentlichen. Das können zum Beispiel Artikel, Erklärvideos oder Infografiken sein. Ein Contentplan, auch Redaktionsplan genannt, hilft Ihnen bei der Planung und Erstellung all dieser Inhalte. '
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
 url: '/de/redaktionsplan-contentplan'
 color: '#eeeeee'
+seo:
+    title: 'Redaktionsplan | Contentplan erstellen: Tipps & Tricks mit Vorlage'
+    description: 'Steigern Sie die Effizienz Ihrer Inhaltsproduktion mit einem Contentplan. Erfahren Sie, wie Sie Ihren Redaktionsplan optimal nutzen können.'
 ---
 
 In der heutigen Zeit ist eine Online-Präsenz entscheidend für den Erfolg Ihres Unternehmens. Über Social Media, Ihre Webseite, einen Blog oder Formate wie einen Podcast gilt es, regelmäßig Inhalte zu veröffentlichen. Das können zum Beispiel Artikel, Erklärvideos oder Infografiken sein. Ein Contentplan, auch Redaktionsplan genannt, hilft Ihnen bei der **Planung und Erstellung all Ihrer Inhalte**.

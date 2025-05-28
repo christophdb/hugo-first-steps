@@ -6,6 +6,9 @@ coverImage: 'pexels-artem-beliaikin-1036857.jpg'
 author: 'rbu'
 url: '/store-management-mit-seatable'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 With the opening of new locations, not only the turnover grows, but also the organisational effort. Now it is important to keep an overview. Our Store Management Template helps you with the following questions: Where are your highest-turnover branches? Which shops need more attention because they have not reached the projected turnover? Where are new staff needed and what is the quality of your recruited staff? Which employees could use which training?

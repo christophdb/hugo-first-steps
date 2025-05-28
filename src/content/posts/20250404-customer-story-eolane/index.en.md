@@ -1,20 +1,20 @@
 ---
-title: "Successful digitalization of order management with SeaTable - a use case from éolane"
-description: "French electronics manufacturer éolane was looking for a GDPR-compliant solution for their increasingly complex order management. They found SeaTable."
+title: 'Successful digitalization of order management with SeaTable - a use case from éolane'
+description: 'French electronics manufacturer éolane was looking for a GDPR-compliant solution for their increasingly complex order management. They found SeaTable.'
 seo:
-    title: "Customer story éolane: Digitalisation of order management"
-    description: "French electronics manufacturer éolane was looking for a GDPR-compliant solution for its increasingly complex order management system"
+    title: 'Customer story éolane: Digitalisation of order management'
+    description: 'French electronics manufacturer éolane was looking for a GDPR-compliant solution for its increasingly complex order management system'
 date: 2025-04-04
-categories: 
-  - "Customer Story"
-  - "No Code / Low Code"
-tags: 
-  - "Data Management & Visualisation"
-  - "Digital Transformation"
-  - "Integration & Automation"
-  - "Low Code / No Code"
-color: "#469361"
-url: "/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane"
+categories:
+    - 'customer-story'
+    - 'low-code-no-code'
+tags:
+    - 'Data Management & Visualisation'
+    - 'Digital Transformation'
+    - 'Integration & Automation'
+    - 'Low Code / No Code'
+color: '#469361'
+url: '/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
 ---
 
 ## éolane - a leader in electronics manufacturing, in search of more efficient data management

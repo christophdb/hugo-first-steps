@@ -6,6 +6,9 @@ coverImage: 'production-4408573_1920.jpg'
 author: 'pbr'
 url: '/supply-chain-management'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 The interlocking of several processes along the value chain of a product is very complex: from procurement to storage to the end customer. Processes and procedures must always be efficiently planned, adhered to and optimised so that the end customer also receives the desired product at the right time, namely when he wants it. SeaTable gives you the opportunity to optimally map your supply chain management and always remain in control of the entire value chain.

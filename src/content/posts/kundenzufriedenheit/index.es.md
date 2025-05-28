@@ -5,6 +5,9 @@ lastmod: '2023-06-28'
 author: 'cdb'
 url: '/es/kundenzufriedenheit'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Si un cliente está satisfecho, volverá a comprarle y probablemente incluso recomendará su empresa a otras personas. Si su producto no resuelve el problema del cliente como se esperaba, habrá perdido un cliente y, en el peor de los casos, recibirá malas críticas. La falta de satisfacción de los clientes podría, a su vez, ahuyentar a otros posibles nuevos clientes y provocar la pérdida de ventas.

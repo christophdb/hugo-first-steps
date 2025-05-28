@@ -1,9 +1,13 @@
 ---
 title: 'Wohnungssuche – 10 Tipps, wie Sie eine Wohnung finden'
+description: 'Ob die erste eigene Wohnung, die dritte WG in diesem Jahr oder ein neuer Rückzugsort für die ganze Familie - alle Menschen auf Wohnungssuche stehen vor der gleichen Herausforderung. Bezahlbare Wohnungen sind knapp, während die Mieten weiter steigen. Doch es werden auch immer wieder schöne Wohnungen frei oder alte Mietshäuser renoviert. Auf diese Chancen sollten Sie gut vorbereitet sein, um sich gegen Ihre zahlreichen Mitbewerber durchsetzen zu können. In diesem Artikel erfahren Sie 10 Tipps, die Sie bei der Wohnungssuche unbedingt beachten sollten.'
 date: 2023-12-18
 lastmod: '2023-12-18'
 author: 'nsc'
 url: '/de/wohnungssuche'
+seo:
+    title: 'Wohnungssuche – 10 Tipps, wie Sie eine Wohnung finden'
+    description: 'Organisieren Sie Ihre Wohnungssuche mit 10 nützlichen Tipps: Kriterien, Unterlagen, Besichtigungen und vieles mehr!'
 ---
 
 Ob die erste eigene Wohnung, die dritte WG in diesem Jahr oder ein neuer Rückzugsort für die ganze Familie – alle Menschen auf **Wohnungssuche** stehen vor der gleichen Herausforderung. Die Lage am Wohnungsmarkt ist angespannt: Bezahlbare Wohnungen sind knapp, während die Mieten weiter steigen. Doch es werden auch immer wieder schöne Wohnungen frei oder alte Mietshäuser renoviert. Auf diese Chancen sollten Sie gut vorbereitet sein, um sich gegen Ihre zahlreichen Mitbewerber durchsetzen zu können.

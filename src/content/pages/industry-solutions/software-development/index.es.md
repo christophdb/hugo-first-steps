@@ -111,22 +111,22 @@ sections:
     items:
       - text: Pruebas de Software
         image: /images/Software-Dev_-Software-Test_Template.png
-        alt: "Esta plantilla le permite organizar casos de prueba, crear planes de prueba y hacer seguimiento de resultados. Se puede ampliar fácilmente con tipos de prueba adicionales."
+        image_alt: "Esta plantilla le permite organizar casos de prueba, crear planes de prueba y hacer seguimiento de resultados. Se puede ampliar fácilmente con tipos de prueba adicionales."
       - text: Rastreador de Errores
         image: /images/Software-Dev_-Bug-Tracker_Template.png
-        alt: "Mantenga el control de los errores de software: Esta plantilla le permite reportar errores, priorizarlos y hacer seguimiento en tiempo real de su solución."
+        image_alt: "Mantenga el control de los errores de software: Esta plantilla le permite reportar errores, priorizarlos y hacer seguimiento en tiempo real de su solución."
       - text: Lanzamiento de Producto
         image: /images/Software-Dev_-Product-Launch_Template.png
-        alt: "Planee y coordine eficientemente el lanzamiento de nuevos productos. Esta plantilla le ayuda a gestionar tareas, responsabilidades y plazos."
+        image_alt: "Planee y coordine eficientemente el lanzamiento de nuevos productos. Esta plantilla le ayuda a gestionar tareas, responsabilidades y plazos."
       - text: Hoja de Ruta Tecnológica
         image: /images/Software-Dev_-Technology-Roadmap_Template.png
-        alt: "Planee y coordine la implementación de nuevos productos. Esta plantilla le ayuda a gestionar tareas, responsabilidades y plazos."
+        image_alt: "Planee y coordine la implementación de nuevos productos. Esta plantilla le ayuda a gestionar tareas, responsabilidades y plazos."
       - text: Solicitudes de Funciones
         image: /images/Software-Dev_-Feature-Request_Template.png
-        alt: "Recopile, priorice y planee solicitudes de funciones de sus stakeholders. Personalice la plantilla para añadir criterios adicionales."
+        image_alt: "Recopile, priorice y planee solicitudes de funciones de sus stakeholders. Personalice la plantilla para añadir criterios adicionales."
       - text: Tablero Kanban
         image: /images/Software-Dev_-Kanban_Template.png
-        alt: "Utilice un tablero Kanban personalizable para monitorear el progreso de proyectos TI y responsabilidades."
+        image_alt: "Utilice un tablero Kanban personalizable para monitorear el progreso de proyectos TI y responsabilidades."
     buttons:
     - label: Descubrir todas las plantillas
       link: https://seatable.io/vorlagen/?lang=auto

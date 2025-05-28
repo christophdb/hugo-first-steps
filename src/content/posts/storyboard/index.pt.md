@@ -4,6 +4,9 @@ date: 2024-03-26
 lastmod: '2024-03-26'
 author: 'nsc'
 url: '/pt/storyboard'
+seo:
+    title:
+    description:
 ---
 
 Quer esteja a criar um vídeo de imagem para a sua empresa, uma curta-metragem para um festival de cinema ou o próximo êxito de bilheteira de Hollywood, a criação de um **storyboard** pode fazer toda a diferença. Um storyboard não é apenas uma ferramenta para estruturar as suas **ideias criativas**, mas também para garantir um **processo de produção sem problemas**. Este artigo explica a importância e as vantagens dos storyboards para projectos cinematográficos de todos os tipos e apresenta um modelo de storyboard gratuito para o ajudar a dar vida à sua visão.

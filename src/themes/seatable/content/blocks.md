@@ -172,12 +172,12 @@ sections:
     items:
     - text: "Base Editor"
       image: "/images/template-content-marketing-strategie.png"
-      alt: "Base Editor"
+      image_alt: "Base Editor"
     - text: "Galerie"
       image: "/images/galerie-plugin.png"
-      alt: "Galerie"
+      image_alt: "Galerie"
     - text: "3 or more"
-      alt: ""
+      image_alt: ""
       image: "/images/kanban-plugin.png"
 
   - name: "content-9"

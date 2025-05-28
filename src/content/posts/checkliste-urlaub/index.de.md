@@ -1,10 +1,14 @@
 ---
-title: 'Checkliste Urlaub: Alles im Griff für die perfekte Reise | SeaTable'
+title: 'Checkliste Urlaub: Alles im Griff für die perfekte Reise'
+description: 'Die Sommerferien stehen vor der Tür und für viele Urlauber heißt das: Zeit zum Koffer packen! Doch wann genau ist eigentlich der richtige Zeitpunkt um den Koffer zu packen? Egal, ob Sie ein Last-Minute-Packer oder ein vorausschauender Planer sind, hier finden Sie eine ausführliche Checkliste für Ihren Urlaub und wertvolle Tipps, um Ihr Reisegepäck effizient und stressfrei zusammenzustellen.'
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
 url: '/de/checkliste-urlaub'
 color: '#eeeeee'
+seo:
+    title: 'Checkliste Urlaub: Alles im Griff für die perfekte Reise'
+    description: 'Planen Sie mit unserer Checkliste Ihren Urlaub – und Sie haben den Kopf frei für die schönen Dinge im Leben. Kostenlose App inklusive!'
 ---
 
 Die Sommerferien stehen vor der Tür und für viele Urlauber heißt das: Zeit zum **Koffer packen**! Doch wann genau ist eigentlich der richtige Zeitpunkt, um den Koffer zu packen? Gehören Sie zu denen, die in der Nacht vor der Abreise schnell alles zusammensuchen und in die nächstbeste Reisetasche werfen? Oder planen Sie lieber bereits Wochen im Voraus, was es auf Ihre **Checkliste für den Urlaub** schafft?
@@ -78,15 +82,11 @@ Stellen Sie sich vor, der langersehnte Urlaub steht bevor und Sie haben eine per
 
 ### Dokumente
 
-Abstandshalter
-
 - Reisepass
 - Personalausweis
 - Führerschein
 - Impfpass
 - Visum
-
-Abstandshalter
 
 - Krankenversichertenkarte
 - Auslandskrankenversicherung
@@ -100,15 +100,11 @@ Wichtige Dokumente können Sie vor Ihrem Urlaub kopieren, damit Sie abgesichert 
 
 ### Kleidung
 
-Abstandshalter
-
 - Pullover
 - Jacke
 - Hosen
 - T-Shirts
 - Je nach Urlaub Badesachen, Skikleidung etc.
-
-Abstandshalter
 
 - Mützen/Caps
 - Pyjama
@@ -122,15 +118,11 @@ Checken Sie vor Ihrer Reise, wie das Wetter an Ihrem Reiseort sein wird.
 
 ### Hygiene
 
-Abstandshalter
-
 - Haarbürste oder Kamm
 - Deo
 - Shampoo und Duschgel
 - Rasierer
 - Zahnbürste und Zahnpasta
-
-Abstandshalter
 
 - Schminkutensilien
 - Damenhygieneartikel
@@ -144,15 +136,11 @@ Informieren Sie sich im Vorfeld, ob Handtücher und andere Hygieneartikel inklus
 
 ### Arznei
 
-Abstandshalter
-
 - Schmerzmittel
 - Durchfallmedikamente
 - Fiebersenker
 - Reisetabletten
 - Sonnencreme
-
-Abstandshalter
 
 - (Blasen-)Pflaster
 - Mückenschutz
@@ -165,13 +153,9 @@ Um im Urlaub gegen alles gewappnet zu sein, sollten Sie an eine kleine Reiseapot
 
 ### Elektronik
 
-Abstandshalter
-
 - Handy
 - Kopfhörer
 - Laptop
-
-Abstandshalter
 
 - Ladekabel
 - Kamera
@@ -182,13 +166,9 @@ Achten Sie darauf, elektronische Geräte sicher zu verstauen, sodass nichts kapu
 
 ### Sonstiges
 
-Abstandshalter
-
 - Schlüssel
 - Schlafmaske
 - Ohrenstöpsel
-
-Abstandshalter
 
 - (Sonnen-)Brille oder Kontaktlinsen
 - Reiseproviant

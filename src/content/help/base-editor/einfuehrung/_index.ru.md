@@ -1,5 +1,5 @@
 ---
 title: Overview
-url: /ru/help/base-editor/seatable-nutzen
+url: '/ru/pomoshch/base-editor/seatable-nutzen'
 weight: 1
 ---

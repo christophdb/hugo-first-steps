@@ -1,9 +1,15 @@
 ---
-title: 'Haz tu propio calendario de adviento: 24 ideas para rellenarlo - SeaTable'
+title: "Haz tu propio calendario de Adviento: 24 ideas para rellenarlo"
+description: "En este artículo descubrirá qué debe tener en cuenta a la hora de planificar su proyecto, qué puede utilizar para rellenar el calendario de Adviento y empaquetar el contenido, y qué alternativas digitales existen."
+seo:
+    title: "Haz tu propio calendario de adviento: Ideas creativas e instrucciones"
+    description: "Aprenda a crear un calendario de Adviento único. Descubra sugerencias inspiradoras y descripciones detalladas para una temporada festiva."
 date: 2024-10-28
 lastmod: '2024-10-28'
 author: 'lsc'
-url: '/es/adventskalender-selber-machen'
+url: '/es/haz-tu-propio-calendario-de-adviento'
+aliases:
+    - /es/adventskalender-selber-machen/
 ---
 
 Cada año, **la anticipación de la Navidad** es grande. El olor a galletas recién horneadas está en el aire, la nieve cae suavemente fuera y la primera puerta del calendario de Adviento ya espera ansiosa a que la abras. Así que tienes un motivo para alegrarte todos los días de diciembre. La alegría es aún mayor si **haces tu propio calendario de Adviento** con mucha dedicación y se lo regalas a tus seres queridos.

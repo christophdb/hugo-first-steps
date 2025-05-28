@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rbu'
 url: '/pt/store-management-mit-seatable'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Com a abertura de novos locais, não só cresce o volume de negócios, mas também o esforço organizacional. Agora é importante manter uma visão geral. O nosso Modelo de Gestão de Loja ajuda-o com as seguintes perguntas: Onde estão os seus ramos com maior rotatividade? Que lojas precisam de mais atenção porque ainda não atingiram o volume de negócios previsto? Onde é necessário pessoal novo e qual é a qualidade do seu pessoal recrutado? Que empregados poderiam utilizar que formação?

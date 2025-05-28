@@ -2,11 +2,11 @@
 title: 'Wie Sie einen effektiven Projektstrukturplan erstellen – Vorlage und Tipps'
 description: 'Ein Projektstrukturplan ist eine effiziente Methode, um komplexe Projekte übersichtlich darzustellen und zu strukturieren. Wann Sie eine Projektstrukturplan Vorlage erstellen sollten, wie Sie dabei vorgehen können und welche Tools Sie dabei unterstützen, erfahren Sie hier.'
 seo:
-    title: "Projektstrukturplan erstellen | Tools und Vorlagen | SeaTable"
-    description: "Nie wieder im Projektchaos versinken! Entdecken Sie die Vorteile eines gut durchdachten Projektstrukturplans und wie Sie diesen erstellen"
+    title: 'Projektstrukturplan erstellen | Tools und Vorlagen | SeaTable'
+    description: 'Nie wieder im Projektchaos versinken! Entdecken Sie die Vorteile eines gut durchdachten Projektstrukturplans und wie Sie diesen erstellen'
 date: 2025-03-17
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Projektmanagement'
 color: '#67c3c4'

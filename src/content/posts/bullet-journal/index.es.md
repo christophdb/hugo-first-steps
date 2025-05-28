@@ -4,6 +4,9 @@ date: 2023-12-19
 lastmod: '2024-01-25'
 author: 'lsc'
 url: '/es/bullet-journal'
+seo:
+    title:
+    description:
 ---
 
 En una vida cotidiana a menudo estresante, es difícil hacer malabarismos con las tareas, las citas y los propios intereses. Para no perder de vista las cosas realmente importantes de la vida en el cúmulo diario de rutinas monótonas, es útil anotarlas. Para ello es ideal un **bullet journal**, en el que puedes anotar todo lo importante y dar rienda suelta a tu creatividad.

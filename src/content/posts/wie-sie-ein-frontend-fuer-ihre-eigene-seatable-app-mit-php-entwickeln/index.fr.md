@@ -5,6 +5,9 @@ lastmod: '2022-09-27'
 author: 'cdb'
 url: '/fr/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable est une plate-forme low-code incroyablement puissante qui permet de développer ses propres processus commerciaux en très peu de temps. Dans l'un de mes premiers tutoriels YouTube, j'ai déjà montré comment développer son propre **outil de retour client** en moins d'une heure en utilisant uniquement les fonctions et les outils de bord de Seatable. Si vous ne savez pas de quoi je parle, je vous recommande de regarder d'abord cette [vidéo YouTube](https://www.youtube.com/watch?v=HqtyeRL2qiY).

@@ -4,6 +4,9 @@ date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
 url: '/fr/junggesellenabschied'
+seo:
+    title:
+    description:
 ---
 
 Pour l'enterrement de vie de garçon classique, trois choses sont considérées comme indispensables : des **T-shirts** flamboyants, un **chariot** rempli de toutes sortes de curiosités et un **lieu animé**. Mais pourquoi ne pas faire quelque chose de spécial ? Après tout, on ne se marie généralement qu'une fois dans sa vie et l'**enterrement de vie de garçon** peut être aussi unique et inoubliable que le mariage lui-même.

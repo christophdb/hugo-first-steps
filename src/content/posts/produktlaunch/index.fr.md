@@ -5,6 +5,9 @@ lastmod: '2022-06-13'
 author: 'rbu'
 url: '/fr/produktlaunch'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Une fois le processus de développement du produit terminé avec succès, plus rien ne s'oppose au lancement du produit.

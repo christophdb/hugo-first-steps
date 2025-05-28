@@ -16,6 +16,7 @@ sections:
           - label: Начать сейчас
             link: 'pages/registration'
             style: primary
+            id: ru-marketing-registration
           - label: Узнать о функциях
             link: pages/functions
 
@@ -119,6 +120,7 @@ sections:
       buttons:
           - label: Зарегистрироваться сейчас и начать
             link: pages/registration
+            id: ru-marketing-registration-2
 
     - name: content-11
       weight: 8
@@ -141,31 +143,31 @@ sections:
       items:
           - text: Анализ конкурентов
             image: /images/Marketing_Competitor-Analysis_Template.png
-            alt: Следите за своими конкурентами и анализируйте их деятельность.
+            image_alt: Следите за своими конкурентами и анализируйте их деятельность.
           - text: Планирование кампаний
             image: /images/Marketing_Content-Calendar_Template.png
-            alt: Планируйте свои маркетинговые кампании от первой идеи до реализации.
+            image_alt: Планируйте свои маркетинговые кампании от первой идеи до реализации.
           - text: Стратегия контент-маркетинга
             image: /images/Marketing_Content-Marketing-Strategy_Template.png
-            alt: Создавайте и управляйте своей стратегией контент-маркетинга в одном центральном месте.
+            image_alt: Создавайте и управляйте своей стратегией контент-маркетинга в одном центральном месте.
           - text: Редакционный план
             image: /images/Marketing_Editorial-Plan_Template.png
-            alt: Управляйте своим планом контента для блогов, социальных сетей и других каналов.
+            image_alt: Управляйте своим планом контента для блогов, социальных сетей и других каналов.
           - text: Обзор прессы
             image: /images/Marketing_Pressespiegel_Template.png
-            alt: Собирайте и анализируйте контент по своим темам в обзоре прессы.
+            image_alt: Собирайте и анализируйте контент по своим темам в обзоре прессы.
           - text: Раскадровка
             image: /images/Marketing_Storyboard_Template.png
-            alt: Визуализируйте креативные идеи, планируйте целые сцены и кампании.
+            image_alt: Визуализируйте креативные идеи, планируйте целые сцены и кампании.
           - text: Редакционный календарь подкастов
             image: /images/Marketing_Podcast_Templat.png
-            alt: Планируйте производство своих подкастов и создайте редакционную коллегию.
+            image_alt: Планируйте производство своих подкастов и создайте редакционную коллегию.
           - text: План социальных сетей
             image: /images/Marketing_Social-Media_Template.png
-            alt: Организуйте свои публикации в социальных сетях и планируйте публикации.
+            image_alt: Организуйте свои публикации в социальных сетях и планируйте публикации.
           - text: Подписка на новостную рассылку
             image: /images/Marketing_Newsletter_Subscription_Template.png
-            alt: Управляйте своими подписками на новостную рассылку и анализируйте их успех.
+            image_alt: Управляйте своими подписками на новостную рассылку и анализируйте их успех.
       buttons:
           - label: Откройте для себя все шаблоны
             link: 'https://seatable.io/vorlagen/?lang=auto'
@@ -233,6 +235,7 @@ sections:
       buttons:
           - label: Зарегистрироваться сейчас и начать
             link: pages/registration
+            id: ru-marketing-registration-3
 
     - name: faq
       weight: 15

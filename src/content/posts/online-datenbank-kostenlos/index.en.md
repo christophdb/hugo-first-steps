@@ -6,6 +6,9 @@ coverImage: 'Online-Datenbank-kostenlos_AdobeStock_203168528_bearbeitet.jpg'
 author: 'rdb'
 url: '/online-datenbank-kostenlos'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 A database serves as a basis for collecting, processing and displaying data. They summarise information with common characteristics and facilitate management. You do not always need programming skills to create and work with a database. Some online databases have the advantage of being both free and easy to use. In this article we have compared the nine best free online databases.

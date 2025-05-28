@@ -6,6 +6,9 @@ coverImage: 'pexels-fauxels-3184638-scaled-1.jpg'
 author: 'ott'
 url: '/in-4-schritten-zu-effizienteren-teammeetings'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Team meetings are an essential part of daily working life. Projects have to be coordinated, texts approved and decisions made. Without regular communication, nothing progresses. This is why meetings are often on employees' calendars: They spend [more than 15 hours a month](https://news.it-matchmaker.com/meetings-zeitverschwendung-statt-erfolgsfaktor/) in meetings of all kinds - but often these are not very productive in terms of results. A lack of efficiency and therefore a waste of valuable working time can be a huge problem for meeting cultures.

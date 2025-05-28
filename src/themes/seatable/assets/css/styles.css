@@ -52,6 +52,10 @@
     scroll-behavior: smooth;
 }
 
+.content-26 a {
+    @apply text-blue-600;
+}
+
 #main-content p a {
     @apply no-underline;
     @apply text-blue-600;

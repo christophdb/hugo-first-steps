@@ -1,9 +1,13 @@
 ---
-title: 'Umzug planen mit Checkliste: Wie Sie stressfrei umziehen'
+title: 'Wie Sie Ihren Umzug stressfrei planen und durchführen'
+description: 'Sie haben die perfekte Wohnung für sich gefunden und können es kaum erwarten, in Ihr neues Heim einzuziehen. Das Einzige, was Sie jetzt noch von Ihrer Traumwohnung trennt, ist der Umzug. Was für die meisten Menschen viel Stress und Zeitaufwand bedeutet, können Sie sich mit einem strukturierten Umzugsplan leichtmachen. Wie Sie Ihren Umzug möglichst stressfrei planen und erfolgreich über die Bühne bringen, erfahren Sie hier.'
 date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
 url: '/de/umzug'
+seo:
+    title: 'Umzug planen mit Checkliste: Wie Sie stressfrei umziehen'
+    description: 'Umziehen kann stressig und zeitaufwändig sein. Aber es geht auch anders. Hier erfahren Sie, wie Sie Ihren Umzug stressfrei gestalten.'
 ---
 
 Endlich ist es so weit! Sie haben die perfekte Wohnung für sich gefunden und können es kaum erwarten, in Ihr neues Heim einzuziehen. Das Einzige, was Sie jetzt noch von Ihrer Traumwohnung trennt, ist der Umzug. Was für die meisten Menschen viel Stress und Zeitaufwand bedeutet, können Sie sich mit einem strukturierten **Umzugsplan** leichtmachen. Wie Sie Ihren Umzug möglichst stressfrei planen und erfolgreich über die Bühne bringen, erfahren Sie hier.

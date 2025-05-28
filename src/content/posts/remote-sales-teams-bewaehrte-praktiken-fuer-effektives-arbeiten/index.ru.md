@@ -5,6 +5,9 @@ lastmod: '2023-06-28'
 author: 'nsc2'
 url: '/ru/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Обстоятельства 2020 года существенно изменили способ работы в компаниях. Согласно недавнему [опросу Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 из 10 удаленных работников хотели бы в той или иной степени сохранить этот способ работы.

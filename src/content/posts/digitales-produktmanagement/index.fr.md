@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/fr/digitales-produktmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 La gestion numérique des produits est aujourd'hui indispensable pour gérer les produits. En effet, le numérique rend les choses beaucoup plus simples qu'auparavant. L'un des objectifs est de représenter les différentes interfaces de toute la gestion des produits, du début à la fin, et de rassembler toutes les informations de manière complète et compacte. Souvent, on passe d'un programme et d'un outil à l'autre, mais avec SeaTable, ce n'est plus nécessaire.

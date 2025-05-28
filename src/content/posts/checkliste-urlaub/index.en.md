@@ -6,6 +6,9 @@ coverImage: 'nattu-adnan-atSUvc1hMwk-unsplash-scaled.jpg'
 author: 'nsc'
 url: '/checkliste-urlaub'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 The summer vacations are just around the corner and for many vacationers that means it's time to pack their **suitcases**! But when exactly is the right time to pack your suitcase? Are you one of those people who quickly gather everything together the night before departure and throw it into the next best travel bag? Or do you prefer to plan weeks in advance what will make it onto your **vacation checklist**?

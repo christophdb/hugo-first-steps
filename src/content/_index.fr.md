@@ -68,21 +68,21 @@ sections:
   items:
   - text: "Éditeur de base"
     image: "/images/template-content-marketing-strategie.png"
-    alt: "Base Editor"
+    image_alt: "Base Editor"
   - text: "Galerie"
     image: "/images/galerie-plugin.png"
-    alt: "Galerie"
+    image_alt: "Galerie"
   - text: "Kanban"
-    alt: ""
+    image_alt: ""
     image: "/images/kanban-plugin.png"
   - text: "Ligne du temps"
-    alt: ""
+    image_alt: ""
     image: "/images/timeline-plugin.png"
   - text: "Calendrier"
-    alt: ""
+    image_alt: ""
     image: "/images/calendar-plugin.png"
   - text: "Relations entre les tables"
-    alt: ""
+    image_alt: ""
     image: "/images/table-relationship-plugin.png"
 
 - name: "customer-1"
@@ -98,7 +98,7 @@ sections:
   - number: "4.6"
     text: "Évaluation sur Capterra"
   buttons:
-  - link: "categories/témoignage-client"
+  - link: "categories/customer-story"
     label: "Lesen Sie weitere Erfolgsgeschichten"
     id: fr-homepage-customer-1
 

@@ -6,6 +6,9 @@ coverImage: 'Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg'
 author: 'cdb'
 url: '/kosten-nutzen-analyse-vorlage'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 In everyday business life, it is not always easy to make the right decisions. You have to consider many aspects and factors and often have to assess the effect of certain measures without any experience. How successful your company is depends on one thing in particular: the basis on which your decisions are made. It's good that you can put your decisions on a solid footing with a **cost-benefit analysis**.

@@ -5,6 +5,9 @@ lastmod: '2022-01-24'
 author: 'mwu'
 url: '/de/seatable-release-1-3'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Das September Release, das wir am 14. September hochgeladen haben, bietet eine beeindruckende Reihe neuer Features, Funktionalitäten und Verbesserungen für ALLE Benutzer. Die heißeste Ergänzung ist SeaTables Scripting Engine. Andere großartige, neue Features sind die nahtlose Integration unserer Templates, bedingte Zeilenformatierung, eine neue Druckfunktion und der neuer Spaltentyp automatische Nummer. Und das ist bei weitem noch nicht alles! Die vollständige Liste der Änderungen ist im [Changelog](https://seatable.io/docs/changelog/version-1-3/) verfügbar. SeaTable bleibt seinem Namen treu und bietet ein Meer voller Möglichkeiten. [Starten Sie jetzt]({{< relref "pages/registration" >}}) und spielen Sie mit den Wellen.

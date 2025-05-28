@@ -17,6 +17,7 @@ sections:
           - label: Comece agora
             link: 'pages/registration'
             style: primary
+            id: pt-hr-processes-registration
           - label: Conheça as funções
             link: pages/functions
 
@@ -41,6 +42,7 @@ sections:
       buttons:
           - label: Registe-se agora e comece
             link: 'pages/registration'
+            id: pt-hr-processes-registration-2
 
     - name: 'content-8'
       weight: 4
@@ -50,13 +52,13 @@ sections:
       items:
           - text: Registo de horas de trabalho
             image: /images/Landing-Page-HR_Template_Time-Tracking.png
-            alt: Registo de horas de trabalho
+            image_alt: Registo de horas de trabalho
           - text: Integração de colaboradores
             image: /images/Landing-Page-HR_Template_Onboarding.png
-            alt: Integração de colaboradores
+            image_alt: Integração de colaboradores
           - text: Recrutamento de pessoal
             image: /images/Landing-Page-HR_Template_Recruiting.png
-            alt: Recrutamento de pessoal
+            image_alt: Recrutamento de pessoal
       buttons:
           - label: 'Descubra mais modelos de RH'
             link: 'https://seatable.io/vorlagen/?lang=auto'
@@ -92,6 +94,7 @@ sections:
       buttons:
           - label: Registe-se agora e comece
             link: 'pages/registration'
+            id: pt-hr-processes-registration-3
 
     - name: content-22
       weight: 7
@@ -140,6 +143,7 @@ sections:
           - label: Registe-se agora
             link: 'pages/registration'
             style: primary
+            id: pt-hr-processes-registration-4
           - label: Contactar as vendas
             link: 'pages/contact'
             style: secondary

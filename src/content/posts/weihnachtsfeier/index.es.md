@@ -5,6 +5,9 @@ lastmod: '2024-07-09'
 author: 'nsc2'
 url: '/es/weihnachtsfeier'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Pronto llegará de nuevo esa época. Mientras algunos todavía están de luto por el verano pasado, los primeros panes de jengibre y galletas en los estantes de los supermercados ya nos recuerdan la próxima temporada navideña. Pero incluso si aún no tiene espíritu navideño: La próxima fiesta de Navidad de la empresa ya le está esperando. Para que su fiesta de Navidad 2024 sea inolvidable, no puede empezar a planificarla con suficiente antelación.

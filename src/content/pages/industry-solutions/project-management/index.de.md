@@ -19,6 +19,7 @@ sections:
           - label: Jetzt loslegen
             link: 'pages/registration'
             style: primary
+            id: de-project-management-registration
           - label: Funktionen kennenlernen
             link: pages/functions
 
@@ -93,13 +94,13 @@ sections:
       items:
           - text: Projektplan
             image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-            alt: ""
+            image_alt: ""
           - text: Projektportfoliomanagement
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-            alt: ""
+            image_alt: ""
           - text: Maßnahmenplan
             image: /images/Projektmanagement_Action-Plan_Template_9.png
-            alt: ""
+            image_alt: ""
       buttons:
         - label: Durchsuchen Sie unsere Vorlagen
           link: https://seatable.io/vorlagen/?lang=auto
@@ -110,6 +111,7 @@ sections:
       buttons:
           - label: Jetzt registrieren und loslegen
             link: pages/registration
+            id: de-project-management-registration-2
 
     - name: "content-9"
       weight: 26
@@ -176,6 +178,7 @@ sections:
       buttons:
           - label: Jetzt registrieren und loslegen
             link: pages/registration
+            id: de-project-management-registration-3
 
     - name: faq
       weight: 99

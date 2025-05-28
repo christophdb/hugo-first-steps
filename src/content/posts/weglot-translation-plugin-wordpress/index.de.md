@@ -1,10 +1,14 @@
 ---
-title: 'Wie Sie mit Weglot Ihre Webseite automatisch übersetzen können.'
+title: 'Weglot auf Seatable.io: unsere Erfahrungen mit dem Übersetzungs-Plugin für WordPress'
+description: 'Weglot ist ein Wordpress-Plugin zum automatischen Übersetzen der eigenen Webseite, welches wir auch auf seatable.io einsetzen. Die Idee ist einfach und schnell erklärt. Man schreibt wie gewohnt alle Texte in seiner Muttersprache und lässt Weglot alle Inhalte in eine oder mehrere andere Sprachen übersetzen. Der Webseitenbesucher wird automatisch auf die für ihn passende Sprache-Version umgeleitet und Weglot übernimmt alle notwendigen Arbeiten für das internationale SEO. Dieser Artikel ist ein Erfahrungsbericht nach zwei Jahren Weglot.'
 date: 2022-03-21
 lastmod: '2022-04-05'
 author: 'cdb'
 url: '/de/weglot-translation-plugin-wordpress'
 color: '#eeeeee'
+seo:
+    title: 'Wie Sie mit Weglot Ihre Webseite automatisch übersetzen können.'
+    description: 'Weglot ist ein Wordpress-Plugin, welches Ihre Webseite automatisch auf andere Sprachen übersetzt und so neue Zielgruppen erschließen.'
 ---
 
 Weglot ist ein WordPress-Plugin zum automatischen Übersetzen der eigenen Webseite. Die Idee ist einfach und schnell erklärt. Man schreibt wie gewohnt alle Texte auf der eigenen Webseite in seiner Muttersprache und lässt Weglot alle Inhalte in eine oder mehrere andere Sprachen übersetzen. Der Webseitenbesucher wird automatisch auf die für ihn passende Sprache-Version umgeleitet und [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) übernimmt alle notwendigen Arbeiten für das internationale SEO. 

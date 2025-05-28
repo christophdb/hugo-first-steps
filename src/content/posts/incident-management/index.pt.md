@@ -5,6 +5,9 @@ lastmod: '2022-07-27'
 author: 'cdb'
 url: '/pt/incident-management'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 No desenvolvimento de software, a monitorização e gestão de bugs e problemas pode rapidamente tornar-se confusa. Ferramentas apropriadas, os chamados "bug and **issue trackers"**, ajudam-no a corrigir bugs de forma rápida e eficiente. Leia neste artigo quais os programas que o podem apoiar na gestão de bugs e quais são as diferenças.

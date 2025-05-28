@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rdb'
 url: '/es/seatable-release-2-5'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 ¡SeaTable 2.5 ya está aquí! La nueva imagen Docker se puso a disposición en Docker Hub a finales de la semana pasada y esta mañana SeaTable Cloud se ha actualizado a la última versión. La nueva versión hace que muchas de las funciones de SeaTable sean aún mejores. La función de archivo, con su creciente gama de funciones, se recomienda para un número cada vez mayor de casos de uso, las funciones de procesamiento de datos disponibles se vuelven más flexibles y las automatizaciones integradas, así como la columna de calificación, ofrecen nuevas opciones. También merece una mención: las columnas de tipo de enlace y la fórmula para los enlaces son ahora totalmente compatibles con las vistas externas. Siga leyendo para saber más sobre estas nuevas funciones. La lista completa de cambios se puede encontrar - como siempre - en el [Changelog de SeaTable](https://seatable.io/docs/changelog/version-2-5/?lang=auto).

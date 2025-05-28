@@ -4,6 +4,9 @@ date: 2023-12-06
 lastmod: '2024-01-25'
 author: 'lsc'
 url: '/es/habit-tracker'
+seo:
+    title:
+    description:
 ---
 
 Hacer **propósitos** de Año Nuevo se ha convertido en un hábito para muchas personas. Pero todos los años nos decepcionamos cuando no cumplimos nuestros propósitos. Se necesita una gran voluntad para integrar nuevos hábitos en nuestras vidas. Existen **seguidores** de hábitos que facilitan este proceso.

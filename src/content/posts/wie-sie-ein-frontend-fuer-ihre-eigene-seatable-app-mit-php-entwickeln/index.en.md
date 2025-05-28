@@ -6,6 +6,9 @@ coverImage: 'develop-own-frontend-seatable-app.jpg'
 author: 'cdb'
 url: '/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 SeaTable is an incredibly powerful low-code platform that allows you to develop your own business processes in no time. In one of my first YouTube tutorials, I already showed how you can develop your own **Customer Feeback Tool** in less than an hour using only Seatable's features and on-boarding tools. If you don't know what I'm talking about, I recommend watching this [YouTube video](https://www.youtube.com/watch?v=HqtyeRL2qiY) first.

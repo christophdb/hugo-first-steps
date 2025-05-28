@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'ott'
 url: '/es/digitales-produktmanagement'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 La gestión digital de productos es indispensable para tratar los productos en la época actual. Porque digitalmente, muchas cosas son mucho más fáciles que antes. Uno de los objetivos es mapear las distintas interfaces de toda la gestión del producto de principio a fin y recopilar toda la información de forma completa y compacta. A menudo hay que cambiar de un programa a otro y de una herramienta a otra, pero con SeaTable esto ya no es necesario.

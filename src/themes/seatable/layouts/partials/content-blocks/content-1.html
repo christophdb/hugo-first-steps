@@ -21,6 +21,7 @@
     link:
     style: [primary,]
   image:
+  image_alt:
   image_position [left, right]</code></pre>
     </div>
 {{ end }}
@@ -49,7 +50,7 @@
             {{ end }}
         </div>
         <div class="basis-2/5 justify-center">
-            <img src="{{ .image }}" alt="placeholder" />
+            <img src="{{ .image }}" alt="{{ .image_alt }}" />
         </div>
     </section>
 </section>

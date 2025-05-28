@@ -5,6 +5,9 @@ lastmod: '2023-07-11'
 author: 'rdb'
 url: '/fr/seatable-release-1-8'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 Aujourd'hui, nous avons mis à disposition SeaTable 1.8 sur [SeaTable Cloud](https://cloud.seatable.io) et nous sommes convaincus que vous serez d'accord avec nous : SeaTable 1.8 est génial ! Elle regorge de nouvelles fonctions et d'ajouts de fonctionnalités, ainsi que d'un grand nombre d'améliorations mineures. Comme par le passé, nous présentons les principales nouveautés dans la note de mise à jour. Cette fois-ci, il a été particulièrement difficile de nous concentrer sur les cinq points forts. Comme toujours, vous trouverez la liste complète des modifications dans le changelog. Nous téléchargerons l'image Docker sur Docker Hub dans les prochains jours.

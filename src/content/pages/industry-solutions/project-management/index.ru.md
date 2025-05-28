@@ -16,6 +16,7 @@ sections:
           - label: Начать сейчас
             link: 'pages/registration'
             style: primary
+            id: ru-project-management-registration
           - label: Узнать о функциях
             link: pages/functions
 
@@ -86,13 +87,13 @@ sections:
       items:
           - text: План проекта
             image: /images/1-Projektmanagement_Project-Plan_Template_9.png
-            alt: ""
+            image_alt: ""
           - text: Управление портфелем проектов
             image: /images/Projektmanagement_Project-Portfolio_Template_9.png
-            alt: ""
+            image_alt: ""
           - text: План мероприятий
             image: /images/Projektmanagement_Action-Plan_Template_9.png
-            alt: ""
+            image_alt: ""
       buttons:
         - label: Просмотрите наши шаблоны
           link: https://seatable.io/vorlagen/?lang=auto
@@ -103,6 +104,7 @@ sections:
       buttons:
           - label: Зарегистрируйтесь сейчас и начните
             link: pages/registration
+            id: ru-project-management-registration-2
 
     - name: "content-9"
       weight: 26
@@ -168,6 +170,7 @@ sections:
       buttons:
           - label: Зарегистрируйтесь сейчас и начните
             link: pages/registration
+            id: ru-project-management-registration-3
     - name: faq
       weight: 99
       title: FAQ – Управление проектами с помощью SeaTable

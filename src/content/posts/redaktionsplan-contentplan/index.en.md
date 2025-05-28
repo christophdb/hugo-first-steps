@@ -6,6 +6,9 @@ coverImage: 'Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg'
 author: 'rdb'
 url: '/redaktionsplan-contentplan'
 color: '#eeeeee'
+seo:
+    title:
+    description:
 ---
 
 In today's world, an online presence is crucial for the success of your company. You need to publish content regularly via social media, your website, a blog or formats such as a podcast. This could be articles, explanatory videos or infographics, for example. A content plan, also known as an editorial plan, helps you to **plan and create all your content**.

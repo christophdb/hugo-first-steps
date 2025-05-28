@@ -6,7 +6,7 @@ seo:
     description: 'Создавать собственные приложения стало проще! Откройте для себя простые способы разработки пользовательских приложений без знания программирования'
 date: 2025-03-18
 categories:
-    - 'No Code / Low Code'
+    - 'low-code-no-code'
 tags:
     - 'Low Code / No Code'
     - 'Universal App Builder'

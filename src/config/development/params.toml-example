@@ -1,0 +1,2 @@
+disableLanguages = ['es', 'ru', 'pt']
+disableKinds = ['sitemap', 'rss']
