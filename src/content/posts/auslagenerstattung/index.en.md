@@ -11,7 +11,7 @@ seo:
 
 Whether it's a business meal, train ticket or company cell phone - do you regularly make advance payments at work and want to know what you need to consider when **reimbursing expenses**? Or are you an employer yourself and looking for a way to make the expense reimbursement process more efficient for your employees?
 
-This article not only provides you with everything you need to know about reimbursing expenses - it also offers you a free [template](https://seatable.io/en/vorlage/alhhthyxqbud1qqkxaormq/) that can make your day-to-day work easier.
+This article not only provides you with everything you need to know about reimbursing expenses - it also offers you a free [template]({{< relref "templates/human-resources/expenses-reimbursement" >}}) that can make your day-to-day work easier.
 
 ![Finances and bureaucracy](images/3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
@@ -80,8 +80,8 @@ Another advantage is the **increased transparency**. Companies can better unders
 
 ## Free template for reimbursement of expenses
 
-If you want to take the step from analog to digital expense reimbursement, SeaTable's [free template](https://seatable.io/en/vorlage/alhhthyxqbud1qqkxaormq/) is an excellent option for you.
+If you want to take the step from analog to digital expense reimbursement, SeaTable's [free template]({{< relref "templates/human-resources/expenses-reimbursement" >}}) is an excellent option for you.
 
 You can enter your expenses in the spreadsheet and **categorize** them by mouse click in **specially defined categories** such as office equipment, travel expenses or business meals. Employees can store **digital receipts and invoices** directly in the spreadsheet, ensuring that no more evidence is lost. You can also see at a glance which expenses you have already reimbursed and which are still outstanding. After reimbursement, you can easily create documents in which you confirm the reimbursement. Using the **statistics**, you can see at a glance which costs are incurred most frequently and which you may even be able to reduce.
 
-Register for [free]({{< relref "pages/registration" >}}) on SeaTable and use the template according to your wishes and needs. Keep track of your expense reimbursements and successfully minimize your day-to-day workload. [Click here to access the template.](https://seatable.io/en/vorlage/alhhthyxqbud1qqkxaormq/)
+Register for [free]({{< relref "pages/registration" >}}) on SeaTable and use the template according to your wishes and needs. Keep track of your expense reimbursements and successfully minimize your day-to-day workload. [Click here to access the template.]({{< relref "templates/human-resources/expenses-reimbursement" >}})

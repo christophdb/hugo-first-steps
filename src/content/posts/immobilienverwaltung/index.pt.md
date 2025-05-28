@@ -31,7 +31,7 @@ Gestão de propriedades com SeaTable
 
 Ainda hoje, as propriedades e todas as informações associadas, tais como inquilinos, ordens de reparação, facturas, pagamentos recebidos, etc., são muitas vezes geridas através de folhas de cálculo Excel. Poupe-se a este esforço tedioso e comece a utilizar o SeaTable hoje mesmo.
 
-No nosso [modelo para gerir as suas propriedades](https://seatable.io/pt/vorlage/ufyf6scpsgucxv8y0g9asw/), pode registar todas as informações de forma centralizada numa base de dados. Registe dados, fotografias e plantas das suas propriedades, lembre os inquilinos em falta por correio eletrónico se o dinheiro não tiver sido recebido e documente todos os trabalhos de manutenção e reparações numa tabela claramente organizada.
+No nosso [modelo para gerir as suas propriedades]({{< relref "templates/real-estate/property-management" >}}), pode registar todas as informações de forma centralizada numa base de dados. Registe dados, fotografias e plantas das suas propriedades, lembre os inquilinos em falta por correio eletrónico se o dinheiro não tiver sido recebido e documente todos os trabalhos de manutenção e reparações numa tabela claramente organizada.
 
 ## Manter as suas propriedades em ordem e coordenar os serviços de manutenção
 

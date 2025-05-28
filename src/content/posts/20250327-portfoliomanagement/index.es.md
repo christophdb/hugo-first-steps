@@ -78,7 +78,7 @@ Sin embargo, el software estándar de gestión de carteras, como Microsoft Proje
 
 {{< template id="1acd19d97c8f4ed3ad38" >}}
 
-[Aquí puedes descubrir cómo utilizar la plantilla de cartera de proyectos de SeaTable en tu beneficio](https://seatable.io/es/vorlage/ajlptlawq6-nyxqwyjfujq/)
+[Aquí puedes descubrir cómo utilizar la plantilla de cartera de proyectos de SeaTable en tu beneficio]({{< relref "templates/projects/project-portfolio" >}})
 
 #### 6\. Gestión de la calidad, la información y el conocimiento
 
@@ -96,7 +96,7 @@ El primer paso en la gestión de la cartera de productos es un análisis detalla
 
 ![Una cartera de productos ficticia en la matriz BCG](Grafik-BCG-Matrix.jpg)
 
-Una versión más avanzada de la matriz BCG, en la que usted evalúa sus productos en función de su atractivo en el mercado y sus ventajas competitivas, es la **cartera McKinsey.** Con un [análisis DAFO](https://seatable.io/es/vorlage/mldpcbsqsr2yifjof71qkg/) también puede identificar puntos fuertes, puntos débiles, oportunidades y amenazas con el fin de tomar decisiones estratégicas para productos individuales.
+Una versión más avanzada de la matriz BCG, en la que usted evalúa sus productos en función de su atractivo en el mercado y sus ventajas competitivas, es la **cartera McKinsey.** Con un [análisis DAFO]({{< relref "templates/operations/swot-analysis" >}}) también puede identificar puntos fuertes, puntos débiles, oportunidades y amenazas con el fin de tomar decisiones estratégicas para productos individuales.
 
 #### 2\. Evaluación estratégica y fijación de objetivos
 
@@ -160,7 +160,7 @@ Ya sea un propietario privado, una empresa o una asociación municipal de la viv
 
 {{< template id="6f9a2b4869804608978c" >}}
 
-[Aprenda a utilizar la plantilla de cartera de propiedades de SeaTable en su beneficio aquí](https://seatable.io/es/vorlage/ufyf6scpsgucxv8y0g9asw/)
+[Aprenda a utilizar la plantilla de cartera de propiedades de SeaTable en su beneficio aquí]({{< relref "templates/real-estate/property-management" >}})
 
 Encontrará más información en el artículo [Gestión de la propiedad](https://seatable.io/es/hausverwaltung/) para propietarios privados o en el artículo [Gestión de la propiedad](https://seatable.com/es/liegenschaftsverwaltung/) para empresas y organizaciones municipales.
 

@@ -1,9 +1,9 @@
 ---
-title: "Faça o seu próprio calendário do advento: 24 ideias para encher"
-description: "Neste artigo, pode descobrir o que deve ter em conta ao planear o seu projeto, o que pode utilizar para encher o calendário do Advento e embalar o seu conteúdo e quais as alternativas digitais disponíveis."
+title: 'Faça o seu próprio calendário do advento: 24 ideias para encher'
+description: 'Neste artigo, pode descobrir o que deve ter em conta ao planear o seu projeto, o que pode utilizar para encher o calendário do Advento e embalar o seu conteúdo e quais as alternativas digitais disponíveis.'
 seo:
-    title: "Faça o seu próprio calendário do advento: Ideias criativas e instruções"
-    description: "Saiba como criar um calendário do Advento único. Descubra sugestões inspiradoras e descrições pormenorizadas para uma época festiva encher"
+    title: 'Faça o seu próprio calendário do advento: Ideias criativas e instruções'
+    description: 'Saiba como criar um calendário do Advento único. Descubra sugestões inspiradoras e descrições pormenorizadas para uma época festiva encher'
 date: 2024-10-28
 lastmod: '2024-10-28'
 author: 'lsc'
@@ -50,7 +50,7 @@ Se não tiver a certeza do que a pessoa a quem vai oferecer o presente gosta, n�
 
 Menos de 10 euros, nenhuma despesa ou todo o dinheiro que precisar? Determine o seu orçamento antes de começar a planear o conteúdo e a embalagem.
 
-A quantia a gastar num calendário do Advento deve depender da pessoa que o recebe. Por exemplo, é possível gastar mais dinheiro com familiares e amigos do que com parentes distantes ou colegas de trabalho. Se se oferecerem calendários do Advento uns aos outros num grupo, é normalmente estabelecido um montante máximo. Uma opção gratuita é um calendário do Advento digital. Pode encontrar um modelo útil [aqui](https://seatable.io/pt/vorlage/si5fsu0nrny8wtabksc6iq/).
+A quantia a gastar num calendário do Advento deve depender da pessoa que o recebe. Por exemplo, é possível gastar mais dinheiro com familiares e amigos do que com parentes distantes ou colegas de trabalho. Se se oferecerem calendários do Advento uns aos outros num grupo, é normalmente estabelecido um montante máximo. Uma opção gratuita é um calendário do Advento digital. Pode encontrar um modelo útil [aqui]({{< relref "templates/events/advent-calendar" >}}).
 
 Assim que tiver determinado um valor aproximado, pode começar a planear mais.
 
@@ -162,7 +162,7 @@ Há muito para comprar e pouco tempo. Para ter a certeza de que tem tudo o que p
 
 ### Planear em linha o que encher os calendários do Advento
 
-Pode tornar-se rapidamente caótico, especialmente se estiver a fazer vários calendários do Advento. [A agenda em linha](https://seatable.io/pt/vorlage/si5fsu0nrny8wtabksc6iq/) personalizável [da SeaTable](https://seatable.io/pt/vorlage/si5fsu0nrny8wtabksc6iq/) ajudá-lo-á nos seus preparativos. Introduza o que precisa para os seus calendários do Advento e veja rapidamente quais as quantidades que precisa de comprar e quais os presentes que precisa de esconder atrás de que portas.
+Pode tornar-se rapidamente caótico, especialmente se estiver a fazer vários calendários do Advento. [A agenda em linha]({{< relref "templates/events/advent-calendar" >}}) personalizável [da SeaTable]({{< relref "templates/events/advent-calendar" >}}) ajudá-lo-á nos seus preparativos. Introduza o que precisa para os seus calendários do Advento e veja rapidamente quais as quantidades que precisa de comprar e quais os presentes que precisa de esconder atrás de que portas.
 
 Mesmo que encha uma dúzia de calendários de Advento privados, nunca perderá a visão geral graças às diferentes vistas, que estão organizadas por pessoa (quadros 2 e 3).
 
@@ -174,4 +174,4 @@ Pode utilizar o SeaTable para criar o seu calendário virtual do Advento. Crie u
 
 ![Calendário do Advento privado](images/Private-Advent-Calendar.png)
 
-Se quiser utilizar o SeaTable para criar calendários do Advento analógicos e/ou digitais, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de correio eletrónico. Também pode encontrar o modelo gratuito [aqui](https://seatable.io/pt/vorlage/si5fsu0nrny8wtabksc6iq/).
+Se quiser utilizar o SeaTable para criar calendários do Advento analógicos e/ou digitais, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de correio eletrónico. Também pode encontrar o modelo gratuito [aqui]({{< relref "templates/events/advent-calendar" >}}).

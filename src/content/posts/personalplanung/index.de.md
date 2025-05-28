@@ -57,6 +57,6 @@ So sind nicht nur alle immer auf dem gleichen Informationsstand, sondern der Org
 
 Personalplanung Excel Vorlage kostenlos © SeaTable
 
-Gleiches gilt für das Bewerbermanagement eines Unternehmens und das Onboarding neuer Mitarbeiter. Online-Tools helfen, den Überblick über alle offenen Stellen zu behalten, Bewerbungsgespräche zu planen und dabei immer den Kalender im Blick zu haben – Anpassungen in Echtzeit inklusive. Ob [Personalrekrutierung](https://seatable.io/vorlage/nmmouofjq5mw4cobogtgog/), [Einstellungsgespräche](https://seatable.io/vorlage/fg-byiujqtsxggm61en_ug/) oder [Einarbeitung](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/), mit dem passenden Online-Tool decken Sie alle Bereiche der Personalplanung ganz einfach ab. Und das sogar ohne kostenlose Excel-Vorlage.
+Gleiches gilt für das Bewerbermanagement eines Unternehmens und das Onboarding neuer Mitarbeiter. Online-Tools helfen, den Überblick über alle offenen Stellen zu behalten, Bewerbungsgespräche zu planen und dabei immer den Kalender im Blick zu haben – Anpassungen in Echtzeit inklusive. Ob [Personalrekrutierung](https://seatable.io/vorlage/nmmouofjq5mw4cobogtgog/), [Einstellungsgespräche](https://seatable.io/vorlage/fg-byiujqtsxggm61en_ug/) oder [Einarbeitung]({{< relref "templates/human-resources/employee-onboarding" >}}), mit dem passenden Online-Tool decken Sie alle Bereiche der Personalplanung ganz einfach ab. Und das sogar ohne kostenlose Excel-Vorlage.
 
 Bildquelle Titelbild: © Proxima Studio/Adobe Stock

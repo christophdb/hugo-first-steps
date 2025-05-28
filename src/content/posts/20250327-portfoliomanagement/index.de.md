@@ -80,7 +80,7 @@ Das Projektportfolio schläft nicht. Daher müssen auch Sie stets ein wachsames 
 
 {{< template id="1acd19d97c8f4ed3ad38" >}}
 
-[Hier erfahren Sie, wie Sie die Projektportfolio Vorlage von SeaTable gewinnbringend für sich nutzen.](https://seatable.io/vorlage/ajlptlawq6-nyxqwyjfujq/)
+[Hier erfahren Sie, wie Sie die Projektportfolio Vorlage von SeaTable gewinnbringend für sich nutzen.]({{< relref "templates/projects/project-portfolio" >}})
 
 #### 6\. Qualitäts-, Informations- und Wissensmanagement
 
@@ -98,7 +98,7 @@ Der erste Schritt im Produkt Portfolio Management ist eine detaillierte Analyse 
 
 ![Ein fiktives Produktportfolio in der BCG-Matrix](Grafik-BCG-Matrix.jpg)
 
-Eine weiterentwickelte Version der BCG-Matrix, bei der Sie Ihre Produkte anhand der Marktattraktivität und Wettbewerbsvorteile bewerten, ist das **McKinsey-Portfolio.** Mit einer [SWOT-Analyse](https://seatable.io/vorlage/mldpcbsqsr2yifjof71qkg/) können Sie zudem Stärken, Schwächen, Chancen und Risiken identifizieren, um strategische Entscheidungen für einzelne Produkte zu treffen.
+Eine weiterentwickelte Version der BCG-Matrix, bei der Sie Ihre Produkte anhand der Marktattraktivität und Wettbewerbsvorteile bewerten, ist das **McKinsey-Portfolio.** Mit einer [SWOT-Analyse]({{< relref "templates/operations/swot-analysis" >}}) können Sie zudem Stärken, Schwächen, Chancen und Risiken identifizieren, um strategische Entscheidungen für einzelne Produkte zu treffen.
 
 #### 2\. Strategische Bewertung und Zielsetzung
 
@@ -162,7 +162,7 @@ Egal, ob als Privateigentümer, Unternehmen oder kommunale Wohnungsgesellschaft:
 
 {{< template id="6f9a2b4869804608978c" >}}
 
-[Hier erfahren Sie, wie Sie die Immobilienportfolio Vorlage von SeaTable gewinnbringend für sich nutzen.](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/)
+[Hier erfahren Sie, wie Sie die Immobilienportfolio Vorlage von SeaTable gewinnbringend für sich nutzen.]({{< relref "templates/real-estate/property-management" >}})
 
 Weitere Informationen finden Sie entweder im Artikel [Hausverwaltung](https://seatable.io/hausverwaltung/) für private Eigentümer oder im Artikel [Liegenschaftsverwaltung](https://seatable.com/liegenschaftsverwaltung/) für Unternehmen und kommunale Träger.
 

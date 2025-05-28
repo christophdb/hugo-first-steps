@@ -56,6 +56,6 @@ Desta forma, não só todos estão sempre no mesmo nível de informação, como 
 
 Planeamento de Pessoal Excel Template Free © SeaTable
 
-O mesmo se aplica à gestão de uma empresa candidata e ao embarque de novos empregados. As ferramentas online ajudam a acompanhar todas as vagas, planear entrevistas e estar sempre de olho no calendário - incluindo ajustes em tempo real. Quer se trate de [recrutamento](https://seatable.io/pt/vorlage/nbmf4z3_rssykhs-3egoqa/), de [entrevistas](https://seatable.io/pt/vorlage/fg-byiujqtsxggm61en_ug/) ou de embarque, com a ferramenta online certa pode facilmente cobrir todas as áreas de planeamento de pessoal. E mesmo sem um modelo Excel gratuito.
+O mesmo se aplica à gestão de uma empresa candidata e ao embarque de novos empregados. As ferramentas online ajudam a acompanhar todas as vagas, planear entrevistas e estar sempre de olho no calendário - incluindo ajustes em tempo real. Quer se trate de [recrutamento]({{< relref "templates/human-resources/employee-onboarding" >}}), de [entrevistas](https://seatable.io/pt/vorlage/fg-byiujqtsxggm61en_ug/) ou de embarque, com a ferramenta online certa pode facilmente cobrir todas as áreas de planeamento de pessoal. E mesmo sem um modelo Excel gratuito.
 
 Fonte da imagem Imagem Imagem da capa: © Proxima Studio/Adobe Stock

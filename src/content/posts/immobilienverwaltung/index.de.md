@@ -32,7 +32,7 @@ Immobilienverwaltung mit SeaTable
 
 Auch heute werden Immobilien und alle dazugehörigen Informationen wie Mieter, Reparaturaufträge, Rechnungen, Zahlungseingänge etc. häufig noch mit Excel-Tabellen verwaltet. Ersparen Sie sich dieses mühsame Unterfangen und starten Sie noch heute mit SeaTable.
 
-In unserem [Template zur Verwaltung Ihrer Immobilien](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/) können Sie alle Informationen zentral in einer Datenbank erfassen. Erfassen Sie Daten, Fotos und Grundrisse Ihrer Immobilien, erinnern Sie säumige Mieter per E-Mail, wenn kein Geldeingang vorliegt, und dokumentieren Sie alle Instandsetzungsarbeiten und Reparaturen in einer übersichtlichen Tabelle.
+In unserem [Template zur Verwaltung Ihrer Immobilien]({{< relref "templates/real-estate/property-management" >}}) können Sie alle Informationen zentral in einer Datenbank erfassen. Erfassen Sie Daten, Fotos und Grundrisse Ihrer Immobilien, erinnern Sie säumige Mieter per E-Mail, wenn kein Geldeingang vorliegt, und dokumentieren Sie alle Instandsetzungsarbeiten und Reparaturen in einer übersichtlichen Tabelle.
 
 ## Halten Sie Ihre Immobilien in Ordnung und koordinieren Sie Hausmeisterdienste
 

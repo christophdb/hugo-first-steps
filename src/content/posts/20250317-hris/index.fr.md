@@ -97,13 +97,13 @@ Un système d'information des ressources humaines présente des avantages qui vo
 
 SeaTable est une base de données sans code qui convient parfaitement comme logiciel de gestion RH dans le cloud ou sur site. SeaTable offre une flexibilité et une évolutivité maximales - vous décidez vous-même de la manière dont vous souhaitez que vos processus soient représentés dans le logiciel et des fonctions dont vous avez besoin pour cela.
 
-Par exemple, vous pouvez commencer par un [modèle d'annuaire des employés](https://seatable.io/vorlage/ijapmslssfu7r-6q6x9boq/), qui représente une base de données RH dans sa forme la plus simple.
+Par exemple, vous pouvez commencer par un [modèle d'annuaire des employés]({{< relref "templates/human-resources/employee-directory" >}}), qui représente une base de données RH dans sa forme la plus simple.
 
 ![SIRH : Base de données des employés avec profils](Mitarbeiterdatenbank-mit-Profilen.jpg)
 
 Il s'agit d'un répertoire interne d'employés contenant des informations visibles par tous dans l'entreprise. Vous pourriez par exemple utiliser une telle liste d'employés pour les profils dans le système d'information du personnel ou pour créer des cartes de visite.
 
-Vous pouvez ensuite développer votre base de données RH à votre guise avec d'autres tableaux et fonctions. Que diriez-vous par exemple d'un [compte de temps de travail] interactif (https://seatable.io/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) pour enregistrer toutes les présences, les congés et les maladies ? Ou encore des dossiers personnels numériques dans lesquels tous les certificats, CV et bulletins de salaire peuvent être consultés ?
+Vous pouvez ensuite développer votre base de données RH à votre guise avec d'autres tableaux et fonctions. Que diriez-vous par exemple d'un [compte de temps de travail] interactif ({{< relref "templates/human-resources/recording-working-time" >}}) pour enregistrer toutes les présences, les congés et les maladies ? Ou encore des dossiers personnels numériques dans lesquels tous les certificats, CV et bulletins de salaire peuvent être consultés ?
 
 Au-delà des fonctions d'un SIRH, SeaTable vous permet également de mettre en œuvre le recrutement, la gestion des candidats et l'onboarding. Même le développement du personnel et la formation peuvent être organisés dans SeaTable. En tant que base de données RH allemande, SeaTable répond aux normes de protection des données les plus strictes (RGPD) et stocke toutes les données en toute sécurité dans des centres de données allemands. Il est donc difficile de croire que ce logiciel de gestion du personnel à part entière est gratuit.
 

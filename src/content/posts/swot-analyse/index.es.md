@@ -76,7 +76,7 @@ Preste también atención a los siguientes consejos a la hora de realizar su an�
 
 Al examinar los factores externos en un ejemplo de análisis DAFO, debe tener en cuenta que un análisis DAFO consiste simplemente en resolver dos problemas. ¿Cómo **puede seguir el ritmo de las tendencias del mercado** y **cómo puede predecirlas y ayudar a darles forma**? Al fin y al cabo, no sólo quiere seguir el ritmo, sino inspirar a sus clientes.
 
-También debería elegir una [plantilla de análisis DAFO](https://seatable.io/es/vorlage/mldpcbsqsr2yifjof71qkg/) para facilitarle el trabajo. El análisis comienza con la elección de la herramienta adecuada, y también debes pensar en reunir al equipo adecuado.
+También debería elegir una [plantilla de análisis DAFO]({{< relref "templates/operations/swot-analysis" >}}) para facilitarle el trabajo. El análisis comienza con la elección de la herramienta adecuada, y también debes pensar en reunir al equipo adecuado.
 
 El proceso de [inventario](https://seatable.io/es/inventarliste-vorlagen/) requiere mucho tiempo. ¿A quién puede liberar para las reuniones y talleres? También se necesitan expertos de varios departamentos. **¿Qué colegas tienen una visión de los puntos fuertes, los puntos débiles, las oportunidades y los riesgos de su empresa y su entorno empresarial?** Lo ideal sería formar un equipo de diez empleados.
 

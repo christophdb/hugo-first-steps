@@ -112,7 +112,7 @@ Tout est au même endroit et tout le monde est au même niveau : dans SeaTable, 
 
 Le plus grand avantage de SeaTable réside toutefois dans ses nombreuses possibilités de visualisation. Qu'il s'agisse de **calendriers**, de **timelines**, de **tableaux Kanban** ou de **organigrammes**, il y a tout ce que l'on peut désirer, et même plus : sur le **tableau blanc** séparé, vous pouvez esquisser librement votre organigramme de projet et créer des mindmaps similaires à celles de Miro. Vous pouvez également utiliser le tout nouveau **plugin Tree** pour afficher ou masquer à votre guise les différents niveaux de votre organigramme de projet.
 
-Vous trouverez le modèle d'organigramme technique de projet [ici](https://seatable.io/vorlage/ijkegrn3q-ym8arpcq8qia/). Avant de pouvoir l'utiliser, vous devez vous inscrire gratuitement avec votre adresse e-mail.
+Vous trouverez le modèle d'organigramme technique de projet [ici]({{< relref "templates/projects/work-breakdown-structure" >}}). Avant de pouvoir l'utiliser, vous devez vous inscrire gratuitement avec votre adresse e-mail.
 
 ## Créez maintenant votre organigramme technique de projet
 
@@ -120,4 +120,4 @@ Le concept autour de l'organigramme technique de projet semble simple - mais sel
 
 [Enregistrez-vous dès aujourd'hui]({{< relref "pages/registration" >}}), lancez votre prochain projet et faites-le aboutir grâce au modèle de planification de structure de projet gratuit de SeaTable.
 
-Vous avez encore besoin d'un plan de projet qui illustre la chronologie des phases ou des tâches du projet ? Alors découvrez ici [comment créer un plan de projet classique](https://seatable.io/vorlage/yio4sr0wrcwuv3-1m0zvkg/).
+Vous avez encore besoin d'un plan de projet qui illustre la chronologie des phases ou des tâches du projet ? Alors découvrez ici [comment créer un plan de projet classique]({{< relref "templates/projects/project-plan" >}}).

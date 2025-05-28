@@ -47,7 +47,7 @@ A gestão da cadeia de fornecimento cobre todos os processos e passos ao longo d
 
 O SeaTable cria um lugar onde toda a informação pode convergir. Isto permite-lhe mapear eficazmente a sua gestão da cadeia de abastecimento em apenas alguns passos e cliques. Registar todas as informações necessárias, tais como os seus fornecedores, sucursais, encomendas de entrada e saída, a sua carteira de produtos e manter um olho em todo o seu armazém. SeaTable oferece muitas possibilidades para adaptar flexivelmente os seus processos de cadeia de abastecimento às suas necessidades.
 
-[Clique aqui para ir diretamente para o nosso modelo de "Gestão da cadeia de abastecimento](https://seatable.io/pt/vorlage/lrtcit5zqratbf0rpidxlw/)
+[Clique aqui para ir diretamente para o nosso modelo de "Gestão da cadeia de abastecimento]({{< relref "templates/sales/supply-chain-management" >}})
 
 ### **Introduza os seus fornecedores e filiais em apenas alguns passos**
 
@@ -131,6 +131,6 @@ Este artigo deveria ter-lhe mostrado como o SeaTable pode ser utilizado de forma
 
 De que é que ainda estás à espera? A sua nova gestão da cadeia de abastecimento já se encontra nos blocos de partida.
 
-[Para o modelo "Supply Chain Management](https://seatable.io/pt/vorlage/lrtcit5zqratbf0rpidxlw/)  
+[Para o modelo "Supply Chain Management]({{< relref "templates/sales/supply-chain-management" >}})  
 [Experimente agora o SeaTable na nuvem de graça]({{< relref "pages/registration" >}})  
 [Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados]({{< relref "pages/product/seatable-server" >}})

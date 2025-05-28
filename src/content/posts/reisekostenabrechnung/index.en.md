@@ -106,6 +106,6 @@ A correct travel expense report requires certain information that must be includ
 
 Many people use an Excel template for their travel expense report - but that doesn't have to be the case! A more intuitive and clearer travel expense report template is available from SeaTable, for example. Let your employees submit all expenses and receipts digitally via web forms. The data is then automatically and neatly sorted in a spreadsheet so that you always have an overview and can regularly reimburse your employees for all expenses.
 
-You can find more information about SeaTable's travel expense report template [here](https://seatable.io/en/vorlage/alhhthyxqbud1qqkxaormq/).
+You can find more information about SeaTable's travel expense report template [here]({{< relref "templates/human-resources/expenses-reimbursement" >}}).
 
 [Simply register for free]({{< relref "pages/registration" >}}) with your e-mail address, try out SeaTable and customize the template according to your wishes to record the displays in your company the way you want!

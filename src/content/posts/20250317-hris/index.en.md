@@ -96,13 +96,13 @@ An HR information system has advantages that go far beyond the possibilities of 
 
 SeaTable is a no-code database that is ideal as HR management software for the cloud or on-premises. SeaTable offers maximum flexibility and scalability - you decide how you want to map your processes in the software and which functions you require.
 
-For example, you can start with an [employee directory template](https://seatable.io/vorlage/ijapmslssfu7r-6q6x9boq/), which represents an HR database in its simplest form.
+For example, you can start with an [employee directory template]({{< relref "templates/human-resources/employee-directory" >}}), which represents an HR database in its simplest form.
 
 ![HRIS: Employee database with profiles](Mitarbeiterdatenbank-mit-Profilen.jpg)
 
 This is an internal employee directory with information that is visible to everyone in the company. You could use such an employee list for profiles in the HR information system or to create business cards, for example.
 
-You can then expand your HR database with additional tables and functions as you wish. How about an interactive [working time account](https://seatable.io/vorlage/fyp0x2y-s-ut3m-wcbpzbq/), for example, to record all attendances, vacations and illnesses? Or with digital personnel files in which all certificates, CVs and payslips can be accessed?
+You can then expand your HR database with additional tables and functions as you wish. How about an interactive [working time account]({{< relref "templates/human-resources/recording-working-time" >}}), for example, to record all attendances, vacations and illnesses? Or with digital personnel files in which all certificates, CVs and payslips can be accessed?
 
 In addition to the functions of an HRIS, you can also use SeaTable to implement recruiting, applicant management and onboarding. Even personnel development and training can be organized in SeaTable. As a German HR database, SeaTable meets the highest data protection standards (GDPR) and stores all data securely in German data centers. So it's hard to believe that this fully-fledged HR management software is free.
 

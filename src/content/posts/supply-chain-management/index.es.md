@@ -47,7 +47,7 @@ La gestión de la cadena de suministro abarca todos los procesos y pasos de la c
 
 SeaTable crea un lugar donde toda la información puede converger. Esto le permite mapear eficientemente la gestión de su cadena de suministro en sólo unos pocos pasos y clics. Registre toda la información necesaria, como sus proveedores, sucursales, pedidos entrantes y salientes, su cartera de productos y vigile todo su almacén. SeaTable ofrece muchas posibilidades para adaptar con flexibilidad los procesos de su cadena de suministro a sus necesidades.
 
-[Haga clic aquí para ir directamente a nuestra plantilla "Gestión de la cadena de suministro".](https://seatable.io/es/vorlage/lrtcit5zqratbf0rpidxlw/)
+[Haga clic aquí para ir directamente a nuestra plantilla "Gestión de la cadena de suministro".]({{< relref "templates/sales/supply-chain-management" >}})
 
 ### **Introduzca sus proveedores y sucursales en pocos pasos**
 
@@ -131,6 +131,6 @@ Este artículo debería haberle mostrado la flexibilidad de uso de SeaTable. Con
 
 ¿A qué esperas todavía? Su nueva gestión de la cadena de suministro ya está en marcha.
 
-[A la plantilla "Gestión de la cadena de suministro](https://seatable.io/es/vorlage/lrtcit5zqratbf0rpidxlw/)  
+[A la plantilla "Gestión de la cadena de suministro]({{< relref "templates/sales/supply-chain-management" >}})  
 [Pruebe ahora SeaTable en la nube de forma gratuita]({{< relref "pages/registration" >}})  
 [O prefiere ejecutar SeaTable Enterprise en su propio centro de datos]({{< relref "pages/product/seatable-server" >}})

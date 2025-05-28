@@ -112,7 +112,7 @@ Todo en el mismo sitio y todos en la misma página: en SeaTable no hay diferente
 
 La mayor ventaja de SeaTable, sin embargo, es la amplia gama de opciones de visualización. Ya sean **calendarios**, **líneas de tiempo**, **tableros Kanban** u **organigramas** - hay todo lo que su corazón desea, e incluso más: en la **pizarra** separada puede esbozar libremente su estructura de desglose del trabajo y crear mapas mentales similares a los de Miro. O puede utilizar el nuevo plugin **Árbol** para mostrar y ocultar los diferentes niveles de su estructura de desglose del trabajo como desee.
 
-Puedes encontrar la plantilla de la estructura de desglose del trabajo [aquí](https://seatable.io/es/vorlage/ijkegrn3q-ym8arpcq8qia/). Antes de poder utilizarla, tienes que registrarte gratuitamente con tu dirección de correo electrónico.
+Puedes encontrar la plantilla de la estructura de desglose del trabajo [aquí]({{< relref "templates/projects/work-breakdown-structure" >}}). Antes de poder utilizarla, tienes que registrarte gratuitamente con tu dirección de correo electrónico.
 
 ## Cree ahora su plan de organización del trabajo
 
@@ -120,4 +120,4 @@ El concepto en el que se basa el plan de organización del trabajo parece sencil
 
 [Regístrese hoy]({{< relref "pages/registration" >}}), comience su próximo proyecto y conviértalo en un éxito con la plantilla gratuita de estructura de desglose del trabajo de SeaTable.
 
-¿Sigue necesitando un plan de proyecto que muestre la secuencia cronológica de las fases o tareas del proyecto? Entonces descúbralo aquí [cómo crear un plan de proyecto clásico](https://seatable.io/es/vorlage/yio4sr0wrcwuv3-1m0zvkg/).
+¿Sigue necesitando un plan de proyecto que muestre la secuencia cronológica de las fases o tareas del proyecto? Entonces descúbralo aquí [cómo crear un plan de proyecto clásico]({{< relref "templates/projects/project-plan" >}}).

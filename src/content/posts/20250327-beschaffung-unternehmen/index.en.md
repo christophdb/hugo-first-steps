@@ -100,7 +100,7 @@ The success of a company also depends on the individual departments working hand
 
 **Supplier management:** Create a central supplier database accessible to all, in which the relevant information flows together, e.g. prices and available products, previous deliveries, quality analysis, reliability and performance evaluation, outstanding complaints, etc. You can then use this information to bundle orders in a targeted manner.
 
-**Inventory management:** With effective inventory control, you can reduce storage costs, avoid duplicate orders and ensure the company's ability to deliver. Use modern systems to optimize your procurement process through precise demand forecasts. With the [supply chain management template](https://seatable.io/vorlage/lrtcit5zqratbf0rpidxlw/) of the no-code database solution SeaTable, you always have an overview of all stocks and outstanding deliveries.
+**Inventory management:** With effective inventory control, you can reduce storage costs, avoid duplicate orders and ensure the company's ability to deliver. Use modern systems to optimize your procurement process through precise demand forecasts. With the [supply chain management template]({{< relref "templates/sales/supply-chain-management" >}}) of the no-code database solution SeaTable, you always have an overview of all stocks and outstanding deliveries.
 
 **Performance and quality checks:** Establish systematic performance and quality measurements for suppliers. Define clear key figures, create dashboards and regularly monitor the performance of your suppliers. Use modern database solutions that provide statistics and dashboards to gain deeper insights into your data.
 

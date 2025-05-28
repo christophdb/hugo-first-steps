@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-Task management and task administration are key elements of successful project management. These skills require a high degree of organizational talent and the ability to **coordinate and distribute tasks effectively**. A powerful task management tool is essential to maintain an overview, meet deadlines and ensure the success of the project. As a [project portfolio tool](https://seatable.io/en/vorlage/ajlptlawq6-nyxqwyjfujq/), SeaTable offers the possibility of implementing agile project management and successfully completing projects. With SeaTable you can optimize your task management and cover all important aspects of task management.
+Task management and task administration are key elements of successful project management. These skills require a high degree of organizational talent and the ability to **coordinate and distribute tasks effectively**. A powerful task management tool is essential to maintain an overview, meet deadlines and ensure the success of the project. As a [project portfolio tool]({{< relref "templates/projects/project-portfolio" >}}), SeaTable offers the possibility of implementing agile project management and successfully completing projects. With SeaTable you can optimize your task management and cover all important aspects of task management.
 
 ## Basics of task management
 

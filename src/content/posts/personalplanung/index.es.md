@@ -56,6 +56,6 @@ De este modo, no sólo todo el mundo está siempre al mismo nivel de informació
 
 Plantilla de planificación de personal en Excel gratis © SeaTable
 
-Lo mismo ocurre con la gestión de los candidatos de una empresa y la incorporación de nuevos empleados. Las herramientas en línea ayudan a hacer un seguimiento de todas las vacantes, a planificar las entrevistas y a tener siempre a la vista el calendario, incluidos los ajustes en tiempo real. Ya se trate de la [contratación](https://seatable.io/es/vorlage/nbmf4z3_rssykhs-3egoqa/), las [entrevistas](https://seatable.io/es/vorlage/fg-byiujqtsxggm61en_ug/) o la incorporación, con la herramienta en línea adecuada podrá cubrir fácilmente todos los ámbitos de la planificación de personal. E incluso sin una plantilla de Excel gratuita.
+Lo mismo ocurre con la gestión de los candidatos de una empresa y la incorporación de nuevos empleados. Las herramientas en línea ayudan a hacer un seguimiento de todas las vacantes, a planificar las entrevistas y a tener siempre a la vista el calendario, incluidos los ajustes en tiempo real. Ya se trate de la [contratación]({{< relref "templates/human-resources/employee-onboarding" >}}), las [entrevistas](https://seatable.io/es/vorlage/fg-byiujqtsxggm61en_ug/) o la incorporación, con la herramienta en línea adecuada podrá cubrir fácilmente todos los ámbitos de la planificación de personal. E incluso sin una plantilla de Excel gratuita.
 
 Fuente de la imagen Imagen de portada: © Proxima Studio/Adobe Stock

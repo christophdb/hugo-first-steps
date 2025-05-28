@@ -76,7 +76,7 @@ Além disso, preste atenção às dicas a seguir ao conduzir sua análise.
 
 Ao analisar os factores externos num exemplo de análise SWOT, deve ter em conta que uma análise SWOT consiste simplesmente em resolver dois problemas. Como é que **pode acompanhar as tendências do mercado** e **como é que pode prever e ajudar a moldá-las**? Afinal de contas, o objetivo não é apenas acompanhar, mas também inspirar os seus clientes.
 
-Deve também escolher um [modelo de análise SWOT](https://seatable.io/pt/vorlage/mldpcbsqsr2yifjof71qkg/) para facilitar o seu trabalho. A análise começa com a escolha da ferramenta certa e deve também pensar em reunir a equipa certa.
+Deve também escolher um [modelo de análise SWOT]({{< relref "templates/operations/swot-analysis" >}}) para facilitar o seu trabalho. A análise começa com a escolha da ferramenta certa e deve também pensar em reunir a equipa certa.
 
 O processo [de balanço](https://seatable.io/pt/inventarliste-vorlagen/) é muito moroso. Quem pode ser destacado para as reuniões e seminários? São necessários conhecimentos especializados de vários departamentos. **Que colegas têm uma visão dos pontos fortes, pontos fracos, oportunidades e riscos da sua empresa e do seu ambiente de negócios?** O ideal seria reunir uma equipa de dez funcionários.
 

@@ -122,7 +122,7 @@ Se tiver várias propriedades, coordenar os comerciantes e as reparações pode 
 - Organizar tarefas e compromissos (por exemplo, visitas a apartamentos)?
 - guardar documentos importantes, como contratos e facturas de serviços públicos?
 
-Com o [modelo](https://seatable.io/pt/vorlage/ufyf6scpsgucxv8y0g9asw/) SeaTable [para a sua gestão imobiliária](https://seatable.io/pt/vorlage/ufyf6scpsgucxv8y0g9asw/), pode gerir facilmente todos estes assuntos relacionados com as suas propriedades. Basta guardar documentos contratuais, facturas, protocolos de entrega, plantas e fotografias na sua base de dados SeaTable.
+Com o [modelo]({{< relref "templates/real-estate/property-management" >}}) SeaTable [para a sua gestão imobiliária]({{< relref "templates/real-estate/property-management" >}}), pode gerir facilmente todos estes assuntos relacionados com as suas propriedades. Basta guardar documentos contratuais, facturas, protocolos de entrega, plantas e fotografias na sua base de dados SeaTable.
 
 ![Capturar fotografias e dados das suas propriedades](https://seatable.io/wp-content/uploads/2023/11/steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
 

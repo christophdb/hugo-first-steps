@@ -171,7 +171,7 @@ Agora que já domina as noções básicas da aplicação universal, porque não 
 
 **Dica**:
 
-Se quiser navegar um pouco mais e descobrir funções adicionais da aplicação, consulte os modelos [Controlo de tempo](https://seatable.io/pt/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) ou [Planeador de viagens](https://seatable.io/pt/vorlage/axq_85kkrjsriagmqpxehw/). Estes já contêm aplicações totalmente desenvolvidas que pode utilizar e personalizar imediatamente.
+Se quiser navegar um pouco mais e descobrir funções adicionais da aplicação, consulte os modelos [Controlo de tempo]({{< relref "templates/human-resources/recording-working-time" >}}) ou [Planeador de viagens]({{< relref "templates/events/travel-planner" >}}). Estes já contêm aplicações totalmente desenvolvidas que pode utilizar e personalizar imediatamente.
 
 ### Conclusão
 

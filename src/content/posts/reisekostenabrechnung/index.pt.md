@@ -105,6 +105,6 @@ Um relatório de despesas de viagem correto requer a inclusão de determinadas i
 
 Muitas pessoas utilizam um modelo Excel para o seu relatório de despesas de viagem - mas não tem de ser esse o caso! Um modelo de relatório de despesas de viagem mais intuitivo e mais claro está disponível no SeaTable, por exemplo. Permita que os seus empregados apresentem todas as despesas e recibos digitalmente através de formulários Web. Os dados são depois automática e ordenadamente organizados numa folha de cálculo, para que tenha sempre uma visão geral e possa reembolsar regularmente os seus empregados por todas as despesas.
 
-Pode encontrar mais informações sobre o modelo de relatório de despesas de viagem da SeaTable [aqui](https://seatable.io/pt/vorlage/alhhthyxqbud1qqkxaormq/).
+Pode encontrar mais informações sobre o modelo de relatório de despesas de viagem da SeaTable [aqui]({{< relref "templates/human-resources/expenses-reimbursement" >}}).
 
 [Basta registar-se gratuitamente]({{< relref "pages/registration" >}}) com o seu endereço de e-mail, experimentar o SeaTable e personalizar o modelo como desejar para registar as apresentações na sua empresa da forma que quiser!

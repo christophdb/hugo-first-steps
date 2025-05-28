@@ -57,6 +57,6 @@ Not only is everyone always on the same information level, but the organizationa
 
 Personnel Planning Excel Template Free © SeaTable
 
-The same applies to a company's applicant management and the onboarding of new employees. Online tools help you keep track of all open positions, schedule interviews, and always keep an eye on the calendar - including real-time adjustments. Whether it's [recruitment](https://seatable.io/en/vorlage/nmmouofjq5mw4cobogtgog/), [job](https://seatable.io/en/vorlage/nbmf4z3_rssykhs-3egoqa/) [interviews](https://seatable.io/en/vorlage/fg-byiujqtsxggm61en_ug/) or onboarding, with the right online tool you can easily cover all areas of personnel planning. And even without a free Excel template.
+The same applies to a company's applicant management and the onboarding of new employees. Online tools help you keep track of all open positions, schedule interviews, and always keep an eye on the calendar - including real-time adjustments. Whether it's [recruitment](https://seatable.io/en/vorlage/nmmouofjq5mw4cobogtgog/), [job]({{< relref "templates/human-resources/employee-onboarding" >}}) [interviews](https://seatable.io/en/vorlage/fg-byiujqtsxggm61en_ug/) or onboarding, with the right online tool you can easily cover all areas of personnel planning. And even without a free Excel template.
 
 Image source Cover image: © Proxima Studio/Adobe Stock

@@ -81,7 +81,7 @@ However, standard portfolio management software such as Microsoft Project, Asana
 
 {{< template id="1acd19d97c8f4ed3ad38" >}}
 
-[Here you can find out how to use SeaTable's project portfolio template to your advantage](https://seatable.io/vorlage/ajlptlawq6-nyxqwyjfujq/)
+[Here you can find out how to use SeaTable's project portfolio template to your advantage]({{< relref "templates/projects/project-portfolio" >}})
 
 #### 6\. Quality, information and knowledge management
 
@@ -99,7 +99,7 @@ The first step in product portfolio management is a detailed analysis of all exi
 
 ![A fictitious product portfolio in the BCG matrix](Grafik-BCG-Matrix.jpg)
 
-A more advanced version of the BCG matrix, in which you evaluate your products based on their market attractiveness and competitive advantages, is the **McKinsey portfolio.** With a [SWOT analysis](https://seatable.io/vorlage/mldpcbsqsr2yifjof71qkg/) you can also identify strengths, weaknesses, opportunities and threats in order to make strategic decisions for individual products.
+A more advanced version of the BCG matrix, in which you evaluate your products based on their market attractiveness and competitive advantages, is the **McKinsey portfolio.** With a [SWOT analysis]({{< relref "templates/operations/swot-analysis" >}}) you can also identify strengths, weaknesses, opportunities and threats in order to make strategic decisions for individual products.
 
 #### 2\. Strategic evaluation and goal setting
 
@@ -163,7 +163,7 @@ Whether you are a private owner, a company or a municipal housing association: i
 
 {{< template id="6f9a2b4869804608978c" >}}
 
-[Learn how to use SeaTable's real estate portfolio template to your advantage here](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/)
+[Learn how to use SeaTable's real estate portfolio template to your advantage here]({{< relref "templates/real-estate/property-management" >}})
 
 Further information can be found either in the article [Property management](https://seatable.io/hausverwaltung/) for private owners or in the article [Property management](https://seatable.com/liegenschaftsverwaltung/) for companies and municipal bodies.
 

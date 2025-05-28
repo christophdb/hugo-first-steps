@@ -32,7 +32,7 @@ Property management with SeaTable
 
 Even today, properties and all associated information such as tenants, repair orders, invoices, incoming payments, etc. are often still managed using Excel spreadsheets. Save yourself this tedious task and get started with SeaTable today.
 
-In our [template for managing your properties](https://seatable.io/en/vorlage/ufyf6scpsgucxv8y0g9asw/), you can record all information centrally in a database. Record data, photos and floor plans of your properties, remind defaulting tenants by e-mail if no money has been received, and document all maintenance work and repairs in a clear table.
+In our [template for managing your properties]({{< relref "templates/real-estate/property-management" >}}), you can record all information centrally in a database. Record data, photos and floor plans of your properties, remind defaulting tenants by e-mail if no money has been received, and document all maintenance work and repairs in a clear table.
 
 ## Keep your properties in order and coordinate janitor services
 

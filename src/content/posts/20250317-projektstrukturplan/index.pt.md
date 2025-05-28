@@ -112,7 +112,7 @@ Tudo num só lugar e todos na mesma página: Não existem versões diferentes da
 
 A maior vantagem do SeaTable é, no entanto, a vasta gama de opções de visualização. Quer se trate de **calendários**, **cronogramas**, **quadros Kanban** ou **gráficos organizacionais** - existe tudo o que deseja e ainda mais: No **quadro branco** separado, pode esboçar livremente a sua estrutura de divisão do trabalho e criar mapas mentais semelhantes aos do Miro. Ou pode utilizar o novíssimo plugin **Tree** para mostrar e ocultar os diferentes níveis da sua estrutura analítica de trabalho como desejar.
 
-Pode encontrar o modelo da estrutura analítica do trabalho [aqui](https://seatable.io/pt/vorlage/ijkegrn3q-ym8arpcq8qia/). Antes de o poder utilizar, tem de se registar gratuitamente com o seu endereço de correio eletrónico.
+Pode encontrar o modelo da estrutura analítica do trabalho [aqui]({{< relref "templates/projects/work-breakdown-structure" >}}). Antes de o poder utilizar, tem de se registar gratuitamente com o seu endereço de correio eletrónico.
 
 ## Crie o seu plano de trabalho agora
 
@@ -120,4 +120,4 @@ O conceito subjacente à estrutura analítica do trabalho parece simples, mas de
 
 [Registe-se hoje]({{< relref "pages/registration/" >}}), inicie o seu próximo projeto e torne-o um sucesso com o modelo de estrutura analítica de trabalho gratuito do SeaTable.
 
-Ainda precisa de um plano de projeto que mostre a sequência cronológica das fases ou tarefas do projeto? Então descubra aqui [como criar um plano de projeto clássico](https://seatable.io/pt/vorlage/yio4sr0wrcwuv3-1m0zvkg/).
+Ainda precisa de um plano de projeto que mostre a sequência cronológica das fases ou tarefas do projeto? Então descubra aqui [como criar um plano de projeto clássico]({{< relref "templates/projects/project-plan" >}}).

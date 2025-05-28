@@ -1,9 +1,9 @@
 ---
-title: "Make your own advent calendar: 24 ideas for filling"
-description: "In this article you will find out what you need to consider when planning your project, what you can use to fill the Advent calendar and pack the contents, and what digital alternatives are available."
+title: 'Make your own advent calendar: 24 ideas for filling'
+description: 'In this article you will find out what you need to consider when planning your project, what you can use to fill the Advent calendar and pack the contents, and what digital alternatives are available.'
 seo:
-    title: "Make your own advent calendar: Creative ideas & instructions"
-    description: "Learn how to create a unique Advent calendar. Discover inspiring suggestions and detailed descriptions for a festive season"
+    title: 'Make your own advent calendar: Creative ideas & instructions'
+    description: 'Learn how to create a unique Advent calendar. Discover inspiring suggestions and detailed descriptions for a festive season'
 date: 2024-10-28
 lastmod: '2024-10-28'
 coverImage: 'Red-Simple-Christmas-Border-A4-2-e1718895318315.png'
@@ -51,7 +51,7 @@ If you are not sure what the person you are giving the gift to likes, don't be a
 
 Under 10 euros, no expenses at all or as much money as you need? Determine your budget before you start planning content and packaging.
 
-How much you spend on an Advent calendar should depend on the person receiving it. For example, you can budget more money for family and friends than for distant relatives or work colleagues. If you are giving each other Advent calendars in a group, a maximum amount is usually set. A free option is a digital Advent calendar. You can find a helpful template [here](https://seatable.io/en/vorlage/si5fsu0nrny8wtabksc6iq/).
+How much you spend on an Advent calendar should depend on the person receiving it. For example, you can budget more money for family and friends than for distant relatives or work colleagues. If you are giving each other Advent calendars in a group, a maximum amount is usually set. A free option is a digital Advent calendar. You can find a helpful template [here]({{< relref "templates/events/advent-calendar" >}}).
 
 As soon as you have determined an approximate value, you can start with further planning.
 
@@ -163,7 +163,7 @@ There is a lot to get and little time. To make sure you get everything you need,
 
 ### Plan online what to fill your Advent calendars with
 
-Especially if you make several Advent calendars yourself, it can quickly become chaotic. [SeaTable's](https://seatable.io/en/vorlage/si5fsu0nrny8wtabksc6iq/) customizable [online planner](https://seatable.io/en/vorlage/si5fsu0nrny8wtabksc6iq/) will help you with your preparations. Enter what you need for your Advent calendars and see at a glance what quantities you need to buy and which presents you need to hide behind which doors.
+Especially if you make several Advent calendars yourself, it can quickly become chaotic. [SeaTable's]({{< relref "templates/events/advent-calendar" >}}) customizable [online planner]({{< relref "templates/events/advent-calendar" >}}) will help you with your preparations. Enter what you need for your Advent calendars and see at a glance what quantities you need to buy and which presents you need to hide behind which doors.
 
 Even if you fill a dozen private Advent calendars, you will never lose the overview thanks to the different views, which are organized by person (Table 2 & 3).
 
@@ -175,4 +175,4 @@ You can use SeaTable to create your virtual Advent calendar. Design a little doo
 
 ![Private Advent Calendar](images/Private-Advent-Calendar.png)
 
-If you would like to use SeaTable to create analog and/or digital Advent calendars, simply [register]({{< relref "pages/registration" >}}) for free with your e-mail address. You can also find the free template [here](https://seatable.io/en/vorlage/si5fsu0nrny8wtabksc6iq/).
+If you would like to use SeaTable to create analog and/or digital Advent calendars, simply [register]({{< relref "pages/registration" >}}) for free with your e-mail address. You can also find the free template [here]({{< relref "templates/events/advent-calendar" >}}).

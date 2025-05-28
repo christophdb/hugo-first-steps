@@ -77,7 +77,7 @@ Achten Sie zudem auf die folgenden Tipps, wenn Sie Ihre Analyse durchführen.
 
 Bei der Betrachtung der externen Faktoren in einem SWOT-Analyse Beispiel sollten Sie bedenken, dass es bei einer SWOT Analyse einfach erklärt um das Lösen zweier Probleme geht. Wie **können Sie mit den Markttrends Schritt halten** und **wie können Sie diese voraussagen und mitgestalten**? Sie möchten schließlich nicht nur mitschwimmen, sondern Ihre Kunden begeistern.
 
-Wählen Sie außerdem eine [SWOT Analyse Vorlage](https://seatable.io/vorlage/mldpcbsqsr2yifjof71qkg/), um sich die Arbeit zu erleichtern. Die Analyse startet mit der Wahl des richtigen Tools, zusätzlich sollten Sie sich Gedanken um die Zusammenstellung des passenden Teams machen.
+Wählen Sie außerdem eine [SWOT Analyse Vorlage]({{< relref "templates/operations/swot-analysis" >}}), um sich die Arbeit zu erleichtern. Die Analyse startet mit der Wahl des richtigen Tools, zusätzlich sollten Sie sich Gedanken um die Zusammenstellung des passenden Teams machen.
 
 Die [Bestandsaufnahme](https://seatable.io/inventarliste-vorlagen/) geht mit einem hohen zeitlichen Aufwand einher. Wen können Sie für die Meetings und Workshops freistellen? Des Weiteren werden Kompetenzen aus verschiedenen Abteilungen benötigt. **Welche Kollegen haben einen Einblick in die Stärken, Schwächen, Chancen und Risiken Ihres Unternehmens und Unternehmensumfelds?** Im Idealfall stellen Sie ein Team von zehn Mitarbeitern zusammen.
 
