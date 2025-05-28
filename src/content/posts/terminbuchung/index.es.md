@@ -18,7 +18,7 @@ Hoy en día, nada facilita más el manejo de datos que las posibilidades de la d
 
 ### Facilite la reserva de citas para usted y sus clientes.
 
-SeaTable ofrece aquí una solución sencilla y potente. Con nuestros formularios web, que hasta ahora puede haber utilizado para [encuestas a clientes](https://seatable.io/es/vorlage/ku9n1tyosmmho-8trn7rdg/), también puede crear fácilmente sistemas de reserva de citas en línea. Las citas fijadas aparecerán de forma totalmente automática en su mesa y podrá ver de un vistazo qué citas vencen y cuándo.
+SeaTable ofrece aquí una solución sencilla y potente. Con nuestros formularios web, que hasta ahora puede haber utilizado para [encuestas a clientes]({{< relref "templates/marketing/customer-feedback" >}}), también puede crear fácilmente sistemas de reserva de citas en línea. Las citas fijadas aparecerán de forma totalmente automática en su mesa y podrá ver de un vistazo qué citas vencen y cuándo.
 
 La creación de este sistema de reserva de citas está garantizada en menos de 30 minutos y sin necesidad de conocimientos previos. A continuación le explicamos paso a paso cómo crear un sistema digital de reservas de citas en SeaTable. De este modo, ya no necesitará un software de reserva de citas como [Calendly](https://calendly.com/de/).
 
@@ -30,7 +30,7 @@ Para crear un sistema de reserva de citas en SeaTable, utilizaremos la [función
 
 ## Creación de las dos tablas necesarias
 
-Necesita dos bases para su sistema de reserva de citas online. Puede insertar estas dos tablas en una base SeaTable existente o puede crear una nueva base. Por supuesto, también puede [copiar nuestras plantillas ya hechas **aquí**](https://seatable.io/es/vorlage/m1su2sncqwmgwfxs1x_jza/) y adaptarlas a sus necesidades si es necesario.
+Necesita dos bases para su sistema de reserva de citas online. Puede insertar estas dos tablas en una base SeaTable existente o puede crear una nueva base. Por supuesto, también puede [copiar nuestras plantillas ya hechas **aquí**]({{< relref "templates/sales/appointment-booking" >}}) y adaptarlas a sus necesidades si es necesario.
 
 En la **primera base** (Disponibilidad para Reuniones), se introducen todas las citas en las que está disponible libremente. La **segunda base** (Calendario de reuniones) contiene todas las reuniones o citas que ya han sido reservadas por sus clientes a través de los formularios. Aparecen automáticamente en la tabla después de enviar el formulario.
 
@@ -84,6 +84,6 @@ En los ajustes de notificación (tres puntos en la parte superior derecha) puede
 
 ## Enorme ahorro de tiempo gracias al flexible sistema de reserva de citas de SeaTable
 
-Puede ajustar su formulario en cualquier momento si observa que falta información importante. Una vez que un participante ha enviado su información, ésta aparece inmediatamente en la tabla "Programa de reuniones". En unos pocos pasos, habrá creado un sistema de reserva de citas sencillo y sin complicaciones que recopila automáticamente toda la información relevante en un único lugar. ¡Planificar citas se convierte en un juego de niños! [Nuestra plantilla](https://seatable.io/es/vorlage/m1su2sncqwmgwfxs1x_jza/) puede ayudarle a estructurar su sistema de reservas de citas.
+Puede ajustar su formulario en cualquier momento si observa que falta información importante. Una vez que un participante ha enviado su información, ésta aparece inmediatamente en la tabla "Programa de reuniones". En unos pocos pasos, habrá creado un sistema de reserva de citas sencillo y sin complicaciones que recopila automáticamente toda la información relevante en un único lugar. ¡Planificar citas se convierte en un juego de niños! [Nuestra plantilla]({{< relref "templates/sales/appointment-booking" >}}) puede ayudarle a estructurar su sistema de reservas de citas.
 
 En [nuestro tutorial de YouTube](https://www.youtube.com/watch?v=7Kgzeld0kDM), hemos vuelto a explicar en detalle cómo crear un formulario web con SeaTable. Esto se puede transferir fácilmente a un sistema de reserva de citas: [¡pruébelo]({{< relref "pages/registration" >}}) hoy mismo!

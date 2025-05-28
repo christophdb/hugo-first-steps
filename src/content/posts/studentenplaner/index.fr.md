@@ -42,4 +42,4 @@ SeaTable permet de cibler les informations nécessaires grâce à différentes v
 
 ## Prêt pour le nouveau semestre
 
-Avec ton nouveau [planning semestriel](https://seatable.io/fr/modele/cfpc_mw3qsspac81dbiefa/), plus rien ne t'empêchera de réussir ton semestre. SeaTable te permet de personnaliser ton planning étudiant et de l'adapter à tes besoins. Inscris-toi [gratuitement dès maintenant](https://seatable.io/fr/enregistrement/) et démarre le semestre d'hiver 2020 de manière productive !
+Avec ton nouveau [planning semestriel]({{< relref "templates/everyday-life/study-plann" >}}), plus rien ne t'empêchera de réussir ton semestre. SeaTable te permet de personnaliser ton planning étudiant et de l'adapter à tes besoins. Inscris-toi [gratuitement dès maintenant](https://seatable.io/fr/enregistrement/) et démarre le semestre d'hiver 2020 de manière productive !

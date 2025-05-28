@@ -203,4 +203,4 @@ Puede utilizar la plantilla para su cría de animales:
 - Organizar el cuidado de sus vacaciones y ausencias
 - Registro de gastos y cálculo de costes
 
-Si desea utilizar SeaTable para su cría de animales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí](https://seatable.io/es/vorlage/yhq088vxr8mtfpz_i_hmag/) encontrará la plantilla correspondiente con ejemplos de entradas.
+Si desea utilizar SeaTable para su cría de animales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/everyday-life/pet-care" >}}) encontrará la plantilla correspondiente con ejemplos de entradas.

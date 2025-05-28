@@ -204,4 +204,4 @@ Mit der Vorlage für Ihre Tierhaltung können Sie:
 - Betreuung für Ihre Urlaube und Abwesenheiten organisieren
 - Ausgaben erfassen und Kosten kalkulieren
 
-Wenn Sie SeaTable für Ihre Tierhaltung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage mit Beispiel-Einträgen finden Sie [hier](https://seatable.io/vorlage/yhq088vxr8mtfpz_i_hmag/).
+Wenn Sie SeaTable für Ihre Tierhaltung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage mit Beispiel-Einträgen finden Sie [hier]({{< relref "templates/everyday-life/pet-care" >}}).

@@ -18,7 +18,7 @@ De nos jours, rien ne facilite davantage le traitement des données que les poss
 
 ### Facilitez la réservation de rendez-vous pour vous et vos clients !
 
-SeaTable offre ici une solution simple et puissante. Nos formulaires web, que vous avez peut-être utilisés jusqu'à présent pour [des enquêtes auprès de vos clients](https://seatable.io/fr/modele/ku9n1tyosmmho-8trn7rdg/), permettent également de créer très facilement des systèmes de prise de rendez-vous en ligne. Les rendez-vous fixés apparaissent alors de manière entièrement automatique dans votre tableau et vous voyez d'un coup d'œil quels rendez-vous sont prévus.
+SeaTable offre ici une solution simple et puissante. Nos formulaires web, que vous avez peut-être utilisés jusqu'à présent pour [des enquêtes auprès de vos clients]({{< relref "templates/marketing/customer-feedback" >}}), permettent également de créer très facilement des systèmes de prise de rendez-vous en ligne. Les rendez-vous fixés apparaissent alors de manière entièrement automatique dans votre tableau et vous voyez d'un coup d'œil quels rendez-vous sont prévus.
 
 La création de ce système de réservation de rendez-vous est garantie en moins de 30 minutes sans connaissances préalables ! Nous vous expliquons ci-dessous comment créer un système de prise de rendez-vous numérique dans SeaTable, étape par étape. Vous n'aurez ainsi plus besoin d'un logiciel de prise de rendez-vous comme [Calendly](https://calendly.com/de/).
 
@@ -30,7 +30,7 @@ Pour créer un système de réservation de rendez-vous dans SeaTable, nous allon
 
 ## Création des deux tableaux dont vous avez besoin
 
-Pour votre système de prise de rendez-vous en ligne, vous avez besoin de deux bases. Vous pouvez insérer ces deux tableaux dans une base SeaTable déjà existante ou créer une nouvelle base. Vous pouvez bien sûr aussi [copier **ici** notre modèle prêt à **l'** emploi](https://seatable.io/fr/modele/m1su2sncqwmgwfxs1x_jza/) et l'adapter éventuellement à vos besoins.
+Pour votre système de prise de rendez-vous en ligne, vous avez besoin de deux bases. Vous pouvez insérer ces deux tableaux dans une base SeaTable déjà existante ou créer une nouvelle base. Vous pouvez bien sûr aussi [copier **ici** notre modèle prêt à **l'** emploi]({{< relref "templates/sales/appointment-booking" >}}) et l'adapter éventuellement à vos besoins.
 
 Dans la **première base** (Meeting Availability) sont saisies toutes les dates auxquelles vous êtes librement disponible. La **deuxième base** (Meeting Schedule) contient toutes les réunions ou rendez-vous qui ont déjà été réservés par vos clients via les formulaires. Ils apparaissent automatiquement dans le tableau après l'envoi du formulaire.
 
@@ -84,6 +84,6 @@ Vous pouvez installer vous-même un mécanisme de notification automatisé dans 
 
 ## Gain de temps considérable grâce au système de réservation de rendez-vous hautement flexible de SeaTable
 
-Vous pouvez à tout moment adapter votre formulaire si vous constatez qu'il manque des informations importantes. Une fois qu'un participant a envoyé ses informations, celles-ci apparaissent immédiatement dans le tableau "Meeting Schedule". Vous avez ainsi créé en quelques étapes un système de réservation de rendez-vous simple et facile qui rassemble automatiquement toutes les informations pertinentes en un seul endroit. La planification des rendez-vous devient ainsi un jeu d'enfant ! [Notre modèle](https://seatable.io/fr/modele/m1su2sncqwmgwfxs1x_jza/) peut vous aider à structurer votre système de réservation de rendez-vous.
+Vous pouvez à tout moment adapter votre formulaire si vous constatez qu'il manque des informations importantes. Une fois qu'un participant a envoyé ses informations, celles-ci apparaissent immédiatement dans le tableau "Meeting Schedule". Vous avez ainsi créé en quelques étapes un système de réservation de rendez-vous simple et facile qui rassemble automatiquement toutes les informations pertinentes en un seul endroit. La planification des rendez-vous devient ainsi un jeu d'enfant ! [Notre modèle]({{< relref "templates/sales/appointment-booking" >}}) peut vous aider à structurer votre système de réservation de rendez-vous.
 
 [Dans notre tutoriel YouTube](https://www.youtube.com/watch?v=7Kgzeld0kDM), nous avons expliqué en détail comment créer un formulaire web avec SeaTable. Il est très facile de l'appliquer à un système de réservation de rendez-vous - [essayez-le dès aujourd'hui](https://seatable.io/fr/enregistrement/)!
