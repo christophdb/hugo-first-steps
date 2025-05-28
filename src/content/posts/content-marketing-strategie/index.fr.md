@@ -130,7 +130,7 @@ Le tableau suivant présente une structure de base que vous pouvez adapter à vo
 
 ![Stratégie de marketing de contenu](images/content-marketing-strategie-seatable.png)
 
-Ce tableau de notre [modèle de stratégie de marketing de contenu]({{< relref "templates/marketing/content-marketing-strategie" >}}) semble certes assez volumineux au premier abord, mais il s'agit du minimum nécessaire pour un pipeline de contenu moyen afin de conserver la vue d'ensemble nécessaire. Prenez l'habitude de saisir ces données dès le premier jour et vous n'aurez aucun problème à garder une vue d'ensemble à tout moment.
+Ce tableau de notre [modèle de stratégie de marketing de contenu]({{< relref "templates/marketing/content-marketing-strategy" >}}) semble certes assez volumineux au premier abord, mais il s'agit du minimum nécessaire pour un pipeline de contenu moyen afin de conserver la vue d'ensemble nécessaire. Prenez l'habitude de saisir ces données dès le premier jour et vous n'aurez aucun problème à garder une vue d'ensemble à tout moment.
 
 ### Permettez un regard individuel sur les données
 
@@ -200,4 +200,4 @@ On peut se demander pourquoi tant d'entrepreneurs ont l'impression que leur mark
 
 Convainquez-vous que le content marketing est un moyen efficace et qu'il peut contribuer de manière décisive au succès de votre entreprise. Si vous voulez réussir, renoncez aux contenus interchangeables et aux outils de gestion de projet confus.
 
-Utilisez SeaTable pour définir vos personas, vos objectifs et votre contenu et suivez de près leur élaboration. Mettez en place un processus d'auto-amélioration et vous verrez comment le succès sera au rendez-vous. Commencez dès maintenant avec nos [modèles de marketing]({{< relref "templates/marketing/content-marketing-strategie" >}}) et adaptez-les à vos besoins.
+Utilisez SeaTable pour définir vos personas, vos objectifs et votre contenu et suivez de près leur élaboration. Mettez en place un processus d'auto-amélioration et vous verrez comment le succès sera au rendez-vous. Commencez dès maintenant avec nos [modèles de marketing]({{< relref "templates/marketing/content-marketing-strategy" >}}) et adaptez-les à vos besoins.

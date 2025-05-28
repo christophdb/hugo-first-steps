@@ -117,7 +117,7 @@ Holen Sie mit den Folgenden acht Tipps alles aus dem Programm heraus, welches Si
 
 Verlassen Sie sich nicht darauf, dass die Quellenangaben in Literaturprogrammen oder anderen wissenschaftlichen Arbeiten stimmen. Fehler passieren, die Daten können unvollständig sein oder im falschen Zitationsstil vorliegen. Beim Datenimport aus anderen Programmen oder per DOI kann es auch vorkommen, dass wichtige Informationen nicht übernommen werden. Das ist besonders ärgerlich, wenn Sie die Fehler erst beim Einfügen des Literaturverzeichnisses in Ihr Dokument bemerken.
 
-Kontrollieren Sie also direkt, ob die Literaturangaben korrekt sind, und ergänzen Sie diese gegebenenfalls. Möchten Sie sich diese Aufgabe bis zum Schluss aufheben, ist es hilfreich, sie in einer [To-do-Liste]({{< relref "templates/projects/to-do-liste" >}}) einzutragen, um es nicht zu vergessen.
+Kontrollieren Sie also direkt, ob die Literaturangaben korrekt sind, und ergänzen Sie diese gegebenenfalls. Möchten Sie sich diese Aufgabe bis zum Schluss aufheben, ist es hilfreich, sie in einer [To-do-Liste]({{< relref "templates/projects/to-do-list" >}}) einzutragen, um es nicht zu vergessen.
 
 ![Literaturverwaltung in Bibliothek mit Tablet.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 

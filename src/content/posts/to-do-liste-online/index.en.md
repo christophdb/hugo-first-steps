@@ -20,7 +20,7 @@ You can use a **status** to indicate whether a to-do is being processed or has b
 
 ### Your to-do list could look like this with a template:
 
-Would you like to work directly with this free template for your to-do list? [Then click here >>]({{< relref "templates/projects/to-do-liste" >}})
+Would you like to work directly with this free template for your to-do list? [Then click here >>]({{< relref "templates/projects/to-do-list" >}})
 
 ## Why you should use an app for your to-do list
 
@@ -100,7 +100,7 @@ Another interesting feature is that you can upload [files](https://seatable.io/e
 
 SeaTable has by far the **widest range of functions** of all the apps we looked at and impresses with a great deal of **flexibility**. You get everything you need for your to-do list in one app. Thanks to the many **collaborative functions** (comments, shared data records, synchronized work in real time, etc.), you can not only work on your own lists, but also collaborate successfully in a team.
 
-With SeaTable, you can get started right away with the [free version]({{< relref "pages/registration" >}}) and the [interactive template]({{< relref "templates/projects/to-do-liste" >}}). Additional features are available in the Plus version for €7 per user per month, the Enterprise version for €14 per user per month or a dedicated cloud solution.
+With SeaTable, you can get started right away with the [free version]({{< relref "pages/registration" >}}) and the [interactive template]({{< relref "templates/projects/to-do-list" >}}). Additional features are available in the Plus version for €7 per user per month, the Enterprise version for €14 per user per month or a dedicated cloud solution.
 
 {{< warning headline="GDPR and data sovereignty" text="The SeaTable Cloud servers are located in Germany, making the platform suitable for GDPR-compliant work with sensitive personal data. You also have the option of installing [SeaTable on-premises](https://seatable.io/en/on-premises/) on your own servers." />}}
 

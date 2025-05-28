@@ -117,7 +117,7 @@ Tire o máximo partido do programa que pretende utilizar para a gestão da sua l
 
 Não confie que as fontes dos programas de literatura ou de outros trabalhos científicos estejam correctas. Os erros acontecem, os dados podem estar incompletos ou no estilo de citação errado. Ao importar dados de outros programas ou através do DOI, também pode acontecer que informações importantes não sejam transferidas. Isto é particularmente incómodo se só se aperceber dos erros quando insere a bibliografia no seu documento.
 
-Por isso, verifique diretamente se as referências estão correctas e, se necessário, acrescente-as. Se quiser deixar esta tarefa para o fim, é útil inscrevê-la numa [lista de tarefas]({{< relref "templates/projects/to-do-liste" >}}) para não se esquecer dela.
+Por isso, verifique diretamente se as referências estão correctas e, se necessário, acrescente-as. Se quiser deixar esta tarefa para o fim, é útil inscrevê-la numa [lista de tarefas]({{< relref "templates/projects/to-do-list" >}}) para não se esquecer dela.
 
 ![Gestão de literatura em biblioteca com pastilha.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 

@@ -19,7 +19,7 @@ Puede utilizar un **estado** para indicar si una tarea se está procesando o se 
 
 ### Tu lista de tareas podría tener este aspecto con una plantilla:
 
-¿Quiere trabajar directamente con esta plantilla gratuita para su lista de tareas? [Entonces haz clic aquí >>]({{< relref "templates/projects/to-do-liste" >}})
+¿Quiere trabajar directamente con esta plantilla gratuita para su lista de tareas? [Entonces haz clic aquí >>]({{< relref "templates/projects/to-do-list" >}})
 
 ## Por qué debería utilizar una aplicación para su lista de tareas pendientes
 
@@ -99,7 +99,7 @@ Otra función interesante es que puedes subir [archivos](https://seatable.io/es/
 
 SeaTable es, con diferencia, la aplicación con más **funciones** de todas las que hemos analizado y destaca por su gran **flexibilidad**. Tienes todo lo que necesitas para tu lista de tareas en una sola aplicación. Gracias a las numerosas **funciones de colaboración** (comentarios, registros de datos compartidos, trabajo sincronizado en tiempo real, etc.), no sólo podrá trabajar en sus propias listas, sino también colaborar con éxito en equipo.
 
-Con SeaTable, puede empezar de inmediato con la [versión gratuita]({{< relref "pages/registration" >}}) y la [plantilla interactiva]({{< relref "templates/projects/to-do-liste" >}}). Las funciones adicionales están disponibles en la versión Plus por 7 € por usuario al mes, la versión Enterprise por 14 € por usuario al mes o una solución dedicada en la nube.
+Con SeaTable, puede empezar de inmediato con la [versión gratuita]({{< relref "pages/registration" >}}) y la [plantilla interactiva]({{< relref "templates/projects/to-do-list" >}}). Las funciones adicionales están disponibles en la versión Plus por 7 € por usuario al mes, la versión Enterprise por 14 € por usuario al mes o una solución dedicada en la nube.
 
 {{< warning headline="GDPR y soberanía de datos" text="Los servidores de SeaTable Cloud se encuentran en Alemania, por lo que la plataforma es adecuada para trabajar con datos personales sensibles de conformidad con la GDPR. También tiene la opción de instalar [SeaTable in situ](https://seatable.io/es/on-premises/) en sus propios servidores." />}}
 

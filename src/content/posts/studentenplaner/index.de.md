@@ -43,4 +43,4 @@ SeaTable ermöglicht durch unterschiedliche Ansichten einen gezielten Blick auf 
 
 ## Startklar für das neue Semester
 
-Mit deinem neuen [Semsterplaner]({{< relref "templates/everyday-life/study-plann" >}}) steht einem erfolgreichem Semester nichts mehr im Weg. Du kannst deinen Studentenplaner bei SeaTable ganz individuell gestalten und auf deine Bedürfnisse anpassen. [Melde dich gleich kostenlos an]({{< relref "pages/registration" >}}) und starte produktiv ins Wintersemester 2020!
+Mit deinem neuen [Semsterplaner]({{< relref "templates/everyday-life/study-plan" >}}) steht einem erfolgreichem Semester nichts mehr im Weg. Du kannst deinen Studentenplaner bei SeaTable ganz individuell gestalten und auf deine Bedürfnisse anpassen. [Melde dich gleich kostenlos an]({{< relref "pages/registration" >}}) und starte produktiv ins Wintersemester 2020!

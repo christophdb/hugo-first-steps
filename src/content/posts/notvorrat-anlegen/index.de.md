@@ -103,4 +103,4 @@ Damit Sie auf die nächste Notsituation ideal vorbereitet sind, hat das Team von
 
 ![Vorlage für Ihren Notvorrat](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
 
-Wenn Sie SeaTable zur Vorratshaltung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/everyday-life/shopping-liste" >}}).
+Wenn Sie SeaTable zur Vorratshaltung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/everyday-life/shopping-list" >}}).

@@ -118,7 +118,7 @@ Get the most out of the program you want to use for your literature management w
 
 Do not rely on the source information in literature programs or other scientific works being correct. Mistakes happen, the data may be incomplete or in the wrong citation style. When importing data from other programs or via DOI, it can also happen that important information is not transferred. This is particularly annoying if you only notice the errors when you insert the bibliography into your document.
 
-So check directly whether the references are correct and add to them if necessary. If you want to save this task until the end, it is helpful to enter it in a [to-do list]({{< relref "templates/projects/to-do-liste" >}}) so that you don't forget it.
+So check directly whether the references are correct and add to them if necessary. If you want to save this task until the end, it is helpful to enter it in a [to-do list]({{< relref "templates/projects/to-do-list" >}}) so that you don't forget it.
 
 ![Literature management in library with tablet.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 

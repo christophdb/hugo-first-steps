@@ -117,7 +117,7 @@ Les huit conseils suivants vous permettront de tirer le meilleur parti du progra
 
 Ne vous fiez pas à l'exactitude des sources indiquées dans les programmes de littérature ou autres travaux scientifiques. Des erreurs se produisent, les données peuvent être incomplètes ou présentées dans un style de citation incorrect. Lors de l'importation de données à partir d'autres programmes ou par DOI, il peut également arriver que des informations importantes ne soient pas reprises. C'est particulièrement ennuyeux si vous ne remarquez les erreurs qu'au moment d'insérer la bibliographie dans votre document.
 
-Contrôlez donc directement si les références bibliographiques sont correctes et complétez-les si nécessaire. Si vous souhaitez garder cette tâche pour la fin, il est utile de l'inscrire sur une [liste de choses à faire]({{< relref "templates/projects/to-do-liste" >}}) afin de ne pas l'oublier.
+Contrôlez donc directement si les références bibliographiques sont correctes et complétez-les si nécessaire. Si vous souhaitez garder cette tâche pour la fin, il est utile de l'inscrire sur une [liste de choses à faire]({{< relref "templates/projects/to-do-list" >}}) afin de ne pas l'oublier.
 
 ![Gestion de la littérature dans une bibliothèque avec une tablette.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
