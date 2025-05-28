@@ -1,4 +1,4 @@
 ---
 title: 'Gesundheit'
-url: '/vorlagen/gesundheit'
+url: '/de/vorlagen/gesundheit'
 ---

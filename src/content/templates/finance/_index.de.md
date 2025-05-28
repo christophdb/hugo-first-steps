@@ -1,4 +1,4 @@
 ---
 title: 'Finanzen'
-url: '/vorlagen/finanzen'
+url: '/de/vorlagen/finanzen'
 ---

@@ -1,4 +1,4 @@
 ---
 title: 'Produkt und Design'
-url: '/vorlagen/produkt-design'
+url: '/de/vorlagen/produkt-und-design'
 ---

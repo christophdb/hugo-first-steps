@@ -1,4 +1,4 @@
 ---
 title: 'Softwareentwicklung'
-url: '/vorlagen/softwareentwicklung'
+url: '/de/vorlagen/softwareentwicklung'
 ---

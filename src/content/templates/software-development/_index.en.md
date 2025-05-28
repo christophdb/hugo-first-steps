@@ -1,4 +1,4 @@
 ---
-title: 'Software Development'
+title: 'Software development'
 url: '/templates/software-development'
 ---

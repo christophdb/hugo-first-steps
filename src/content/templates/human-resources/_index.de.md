@@ -1,4 +1,4 @@
 ---
 title: 'Personalwesen'
-url: '/vorlagen/personalwesen'
+url: '/de/vorlagen/personalwesen'
 ---

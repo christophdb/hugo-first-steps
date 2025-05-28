@@ -1,4 +1,4 @@
 ---
-title: 'Human Resources'
+title: 'Human resources'
 url: '/templates/human-resources'
 ---

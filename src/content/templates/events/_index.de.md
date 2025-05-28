@@ -1,4 +1,4 @@
 ---
-title: Ereignisse
-url: /de/vorlagen/ereignisse
+title: 'Ereignisse'
+url: '/de/vorlagen/ereignisse'
 ---

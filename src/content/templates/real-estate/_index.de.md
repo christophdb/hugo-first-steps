@@ -1,4 +1,4 @@
 ---
 title: 'Immobilien'
-url: '/vorlagen/immobilien'
+url: '/de/vorlagen/immobilien'
 ---

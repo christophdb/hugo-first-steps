@@ -1,4 +1,4 @@
 ---
-title: Marketing
-url: /templates/marketing
+title: 'Marketing'
+url: '/templates/marketing'
 ---

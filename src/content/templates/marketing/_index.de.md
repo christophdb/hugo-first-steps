@@ -1,4 +1,4 @@
 ---
-title: Marketing
-url: /de/vorlagen/marketing
+title: 'Marketing'
+url: '/de/vorlagen/marketing'
 ---

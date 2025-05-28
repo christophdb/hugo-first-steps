@@ -1,4 +1,4 @@
 ---
-title: Projekte
-url: /de/vorlagen/projekte
+title: 'Projekte'
+url: '/de/vorlagen/projekte'
 ---

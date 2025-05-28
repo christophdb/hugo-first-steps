@@ -1,4 +1,4 @@
 ---
-title: Events
-url: /templates/events
+title: 'Events'
+url: '/templates/events'
 ---

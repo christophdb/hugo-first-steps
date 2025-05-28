@@ -1,4 +1,4 @@
 ---
 title: 'Rechtliches'
-url: '/vorlagen/rechtliches'
+url: '/de/vorlagen/rechtliches'
 ---

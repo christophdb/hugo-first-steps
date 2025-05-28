@@ -1,4 +1,4 @@
 ---
-title: 'Product & Design'
+title: 'Product and design'
 url: '/templates/product-design'
 ---

@@ -1,4 +1,4 @@
 ---
 title: 'Vertrieb'
-url: '/vorlagen/vertrieb'
+url: '/de/vorlagen/vertrieb'
 ---

@@ -1,4 +1,4 @@
 ---
-title: 'Healthcare'
-url: '/templates/healthcare'
+title: 'Health'
+url: '/templates/health'
 ---

@@ -1,4 +1,4 @@
 ---
-title: 'Sales'
-url: '/templates/sales'
+title: 'Distribution'
+url: '/templates/distribution'
 ---

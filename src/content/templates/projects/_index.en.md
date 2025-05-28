@@ -1,4 +1,4 @@
 ---
-title: Projects
-url: /templates/projekte
+title: 'Projects'
+url: '/templates/projects'
 ---
