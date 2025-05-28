@@ -128,7 +128,7 @@ Para empresas más grandes con muchos artículos y casos de uso más complejos, 
 
 ## Crear una lista de inventario con SeaTable
 
-El software de base de datos sin código **SeaTable** ya tiene preparada para usted una [plantilla de lista de inventario](https://seatable.io/es/vorlage/nwkbq-cmrxmcxv1k0sxoaw/). Para utilizarla **gratuitamente**, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) con su dirección de correo electrónico y crear una cuenta. Una vez que haya iniciado sesión, proceda como se indica a continuación:
+El software de base de datos sin código **SeaTable** ya tiene preparada para usted una [plantilla de lista de inventario]({{< relref "templates/operations/inventory-list" >}}). Para utilizarla **gratuitamente**, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) con su dirección de correo electrónico y crear una cuenta. Una vez que haya iniciado sesión, proceda como se indica a continuación:
 
 1. Añade la plantilla como **nueva base** en tu página de inicio. Puedes encontrar cómo hacerlo [en estas instrucciones](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 2. Haz clic en la base para **abrirla**.

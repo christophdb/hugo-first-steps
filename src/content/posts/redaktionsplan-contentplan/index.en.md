@@ -75,7 +75,7 @@ Define the goals you want to achieve with the editorial plan. The following opti
 - **Traffic**: More people should visit your website.
 - **Sales**: You want to gain more leads, subscribers or customers.
 - **Customer loyalty**: You want to strengthen the relationship with your customers and encourage them to recommend you to others.
-- **Unique position**: You want to stand out [from the competition](https://seatable.io/en/vorlage/rv0aemhnqjufipzfycgc8w/) with your content.
+- **Unique position**: You want to stand out [from the competition]({{< relref "templates/marketing/competitor-analysis" >}}) with your content.
 - **Expert status**: You want to make a name for yourself in the industry and become a sought-after expert on a specific topic.
 
 Once the objectives have been defined, the next step is to decide on the appropriate media, content types and formats.

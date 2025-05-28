@@ -13,7 +13,7 @@ seo:
 
 Haben Sie den Prozess der Produktentwicklung erfolgreich abgeschlossen, steht einem Produktlaunch nichts mehr im Wege.
 
-Während der Prozess der Entwicklung bei den meisten Unternehmen schon sehr gut strukturiert ist, wird dem Produkteinführungsprozess meist zu wenig Aufmerksamkeit geschenkt. Haben Sie wirklich alle notwendigen Schritte absolviert und nichts vergessen? Mit unserem [Template](https://seatable.io/vorlage/duhr9rqdqtcbfeonhxntca/) und diesen [5 Tipps](https://www.pressesprecher.com/nachrichten/fuenf-tipps-fuer-einen-gelungenen-produkt-launch-9837) steht einem erfolgreichen Produktlaunch nichts mehr im Wege!
+Während der Prozess der Entwicklung bei den meisten Unternehmen schon sehr gut strukturiert ist, wird dem Produkteinführungsprozess meist zu wenig Aufmerksamkeit geschenkt. Haben Sie wirklich alle notwendigen Schritte absolviert und nichts vergessen? Mit unserem [Template]({{< relref "templates/software-development/product-launch" >}}) und diesen [5 Tipps](https://www.pressesprecher.com/nachrichten/fuenf-tipps-fuer-einen-gelungenen-produkt-launch-9837) steht einem erfolgreichen Produktlaunch nichts mehr im Wege!
 
 ## Aufbau unseres Produktlaunch-Templates
 
@@ -33,4 +33,4 @@ Die Tabelle Newsletter dient speziell dem Kanal des E-Mail-Marketings. Neue Feat
 
 ## Mit SeaTable gelingt der Produktlaunch garantiert
 
-Mit unserem [Produktlaunch-Template](https://seatable.io/vorlage/duhr9rqdqtcbfeonhxntca/) behalten Sie stets den Überblick über Ihre To-dos vor dem finalen Produktlaunch. Wie jede Tabelle bei SeaTable ist auch diese individuell gestaltbar. Passen Sie das Template an Ihren Workflow an und teilen Sie die Tabelle mit Ihren Mitarbeitern. So kann jeder immer und überall auf die Tabelle zugreifen und wichtige Änderungen einsehen und eintragen.
+Mit unserem [Produktlaunch-Template]({{< relref "templates/software-development/product-launch" >}}) behalten Sie stets den Überblick über Ihre To-dos vor dem finalen Produktlaunch. Wie jede Tabelle bei SeaTable ist auch diese individuell gestaltbar. Passen Sie das Template an Ihren Workflow an und teilen Sie die Tabelle mit Ihren Mitarbeitern. So kann jeder immer und überall auf die Tabelle zugreifen und wichtige Änderungen einsehen und eintragen.

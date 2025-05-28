@@ -24,7 +24,7 @@ Parallèlement, on accorde habituellement beaucoup moins d'attention aux achats 
 
 Le défi de toute entreprise est de se procurer le matériel indirect de manière efficace et économique. D'une part, les consommables tels que les stylos, les grains de café et le papier d'imprimante doivent être commandés à temps, avant d'être épuisés. Ce sont des outils de travail soumis aux besoins quotidiens et qui nécessitent donc toujours un stock. D'autre part, certains postes doivent être commandés séparément et sur demande, comme par exemple les ordinateurs, les écouteurs antibruit ou les câbles informatiques. La solution pour un processus sans faille : une organisation bureautique centralisée de toutes les commandes internes de marchandises via SeaTable !
 
-Avec SeaTable, vous avez toutes les informations importantes, les produits et les commandes au même endroit. Vous y créez votre propre catalogue de produits pour vos achats internes, prenez des commandes via le formulaire web et effectuez les commandes en un seul clic. Vous n'avez pas besoin de partir de zéro, vous pouvez commencer directement avec notre [modèle de](https://seatable.io/fr/modele/cZ9GFdImRsiJRyyTD_5T9A/) la section Opérations.
+Avec SeaTable, vous avez toutes les informations importantes, les produits et les commandes au même endroit. Vous y créez votre propre catalogue de produits pour vos achats internes, prenez des commandes via le formulaire web et effectuez les commandes en un seul clic. Vous n'avez pas besoin de partir de zéro, vous pouvez commencer directement avec notre [modèle de]({{< relref "templates/operations/indirect-procurement" >}}) la section Opérations.
 
 ## Achats indirects : gardez une vue d'ensemble
 

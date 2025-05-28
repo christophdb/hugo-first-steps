@@ -128,7 +128,7 @@ Pour les grandes entreprises qui ont beaucoup d'objets et des cas d'application 
 
 ## Créer un inventaire avec SeaTable
 
-Le logiciel de base de données No-Code **SeaTable** met déjà à votre disposition un [modèle de liste d'inventaire](https://seatable.io/fr/modele/nwkbq-cmrxmcxv1k0sxoaw/). Pour l'**utiliser gratuitement**, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) avec votre adresse e-mail et de créer un compte. Une fois connecté, procédez comme suit :
+Le logiciel de base de données No-Code **SeaTable** met déjà à votre disposition un [modèle de liste d'inventaire]({{< relref "templates/operations/inventory-list" >}}). Pour l'**utiliser gratuitement**, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) avec votre adresse e-mail et de créer un compte. Une fois connecté, procédez comme suit :
 
 1. Ajoutez le modèle comme **nouvelle base** sur votre page d'accueil. Pour savoir comment procéder, [consultez ce guide](https://seatable.io/fr/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 2. Cliquez sur la base pour l'**ouvrir**.

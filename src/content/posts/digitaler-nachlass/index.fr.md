@@ -127,7 +127,7 @@ Un autre logiciel de base de données qui vous permet de gérer votre patrimoine
 
 Utilisez un gestionnaire de mots de passe pour documenter votre héritage numérique.
 
-Si vous souhaitez utiliser le gestionnaire de mots de passe de SeaTable pour votre héritage numérique, vous pouvez [consulter le modèle ici](https://seatable.io/fr/modele/a4269i5bs7olvut60dr5xq/). Si vous êtes intéressé, il vous suffit de vous [inscrire](https://seatable.io/fr/enregistrement/) gratuitement et de créer un aperçu avec vos propres données.
+Si vous souhaitez utiliser le gestionnaire de mots de passe de SeaTable pour votre héritage numérique, vous pouvez [consulter le modèle ici]({{< relref "templates/everyday-life/password-manager" >}}). Si vous êtes intéressé, il vous suffit de vous [inscrire](https://seatable.io/fr/enregistrement/) gratuitement et de créer un aperçu avec vos propres données.
 
 ## Conclusion : un héritage numérique est plus important que jamais
 

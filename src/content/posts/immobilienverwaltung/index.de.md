@@ -40,7 +40,7 @@ In unserem [Template zur Verwaltung Ihrer Immobilien]({{< relref "templates/real
 
 Hausmeisterdienste koordinieren mit SeaTable
 
-In jedem Gebäude geht mal etwas kaputt. Das können Sie nicht ändern. Was Sie aber ändern können, ist, dass Sie den Reparaturvorgang effizient abwickeln – mit unserer [Vorlage für Hausmeisterdienste](https://seatable.io/vorlage/og4b3ghdrlippbkd3itqfg/).
+In jedem Gebäude geht mal etwas kaputt. Das können Sie nicht ändern. Was Sie aber ändern können, ist, dass Sie den Reparaturvorgang effizient abwickeln – mit unserer [Vorlage für Hausmeisterdienste]({{< relref "templates/real-estate/janitorial-services" >}}).
 
 Mit SeaTable lassen Sie die Hausbewohner Reparaturaufträge bequem per [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) einreichen. Sie werden automatisch per E-Mail über neue gemeldete Schäden und Probleme informiert und können die Reparatur dem richtigen Hausmeister, Handwerker oder Mitarbeiter zuweisen. Dieser erhält alle notwendigen Informationen und kann die Reparatur direkt vor Ort in seiner SeaTable App dokumentieren. Arbeitsstunden und benötigte Verbrauchsmaterialien können einfach dokumentiert werden.
 
@@ -54,7 +54,7 @@ Wohnungssuche mit SeaTable – Überlassen Sie nichts dem Zufall.
 
 Die Suche nach einer neuen Wohnung ist bekanntermaßen vor allem in Ballungsgebieten schwierig. Oft stimmt das Wohnungsangebot, was Mietpreis, Lage, Räume und Ausstattung angeht, nicht mit den individuellen Wünschen überein. Spätestens nach der fünften Besichtigung beginnt man zudem den Überblick über die Immobilien zu verlieren. Notieren Sie sich daher alle Pro- und Kontra-Argumente zu den von Ihnen besichtigten Wohnungen an einem Ort, vergleichen Sie bestimmte Kriterien wie das [Preis-Leistungs-Verhältnis](https://de.wikipedia.org/wiki/Preis-Leistungs-Verhältnis) und Sie werden feststellen, dass Ihnen die Entscheidung am Ende leichter fällt.
 
-Mit unserer [Vorlage zur Wohnungssuche](https://seatable.io/vorlage/ggr4kqd4quazbz6fivljgg/) können Sie alle Informationen, Daten und Dokumente zu den Wohnungen einfach und strukturiert erfassen. Speichern Sie Fotos, Grundrisse, Wohnfläche, Mietpreis und alles, was Ihnen sonst noch während der Besichtigung der Immobilien aufgefallen ist, in einer übersichtlichen Tabelle. Vergeben Sie eine Bewertung und treffen Sie leichter, sicherer und schneller die richtige Entscheidung.
+Mit unserer [Vorlage zur Wohnungssuche]({{< relref "templates/real-estate/apartment-hunting" >}}) können Sie alle Informationen, Daten und Dokumente zu den Wohnungen einfach und strukturiert erfassen. Speichern Sie Fotos, Grundrisse, Wohnfläche, Mietpreis und alles, was Ihnen sonst noch während der Besichtigung der Immobilien aufgefallen ist, in einer übersichtlichen Tabelle. Vergeben Sie eine Bewertung und treffen Sie leichter, sicherer und schneller die richtige Entscheidung.
 
 ## Starten Sie mit der Planung Ihres nächsten Umzugs
 
@@ -64,7 +64,7 @@ Ihre nächste Umzugsplanung wird mit SeaTable zum Kinderspiel.
 
 Jeder von uns ist in seinem Leben schon umgezogen und weiß, wie nervenaufreibend so ein Umzug sein kann. Spätestens nach der dritten gepackten Kiste verliert man den Überblick darüber, was wo verpackt ist und verzettelt sich in unübersichtlichen To-do-Listen.
 
-Mit unserer [Vorlage für Ihren nächsten Umzug](https://seatable.io/vorlage/h3kzygydsysdrzun-h-fxq/) können Sie Ihr Stresslevel deutlich reduzieren. Die Vorlage hilft Ihnen genau zu erfassen, was Sie wo eingepackt haben und wie es von Ihrer alten zu Ihrer neuen Wohnung kommt.
+Mit unserer [Vorlage für Ihren nächsten Umzug]({{< relref "templates/real-estate/moving-plan" >}}) können Sie Ihr Stresslevel deutlich reduzieren. Die Vorlage hilft Ihnen genau zu erfassen, was Sie wo eingepackt haben und wie es von Ihrer alten zu Ihrer neuen Wohnung kommt.
 
 Zusätzlich bietet unsere Umzugsvorlage eine To-do-Liste für sonstige Tätigkeiten, die zu einem bestimmten Tag erledigt sein müssen. So vergessen Sie nicht, den Nachsendeantrag für die Post einzurichten oder Verträge rund um die alten Immobilien rechtzeitig zu kündigen. Probieren Sie es aus! Der nächste Umzug kommt bestimmt.
 

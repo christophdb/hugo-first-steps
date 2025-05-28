@@ -5,8 +5,8 @@ lastmod: '2023-12-18'
 author: 'nsc'
 url: '/pt/wohnungssuche'
 seo:
-    title: 
-    description: 
+    title:
+    description:
 ---
 
 Quer se trate da sua primeira casa, do seu terceiro apartamento partilhado este ano ou de um novo retiro para toda a família - todos os que **procuram casa** enfrentam o mesmo desafio. A situação no mercado da habitação é tensa: Os apartamentos a preços acessíveis escasseiam, enquanto as rendas continuam a subir. Mas há sempre bons apartamentos a ficarem disponíveis ou blocos de apartamentos antigos a serem renovados. Deve estar bem preparado para estas oportunidades, de modo a poder afirmar-se perante os seus numerosos concorrentes.
@@ -90,8 +90,8 @@ Não finja, mas apresente-se de **forma autêntica**. Isto dará ao senhorio uma
 
 ## 10\. manter uma visão global quando se procura um apartamento
 
-Manter uma visão geral da selva imobiliária não é assim tão fácil. Especialmente se estiver interessado em vários imóveis, é fácil confundir-se. Para evitar que se esqueça de um apartamento ou mesmo que o contacte acidentalmente duas vezes, vale a pena utilizar uma boa estrutura desde o início. O [modelo](https://seatable.io/pt/vorlage/ggr4kqd4quazbz6fivljgg/) gratuito [da SeaTable](https://seatable.io/pt/vorlage/ggr4kqd4quazbz6fivljgg/) é ideal para o efeito.
+Manter uma visão geral da selva imobiliária não é assim tão fácil. Especialmente se estiver interessado em vários imóveis, é fácil confundir-se. Para evitar que se esqueça de um apartamento ou mesmo que o contacte acidentalmente duas vezes, vale a pena utilizar uma boa estrutura desde o início. O [modelo]({{< relref "templates/real-estate/apartment-hunting" >}}) gratuito [da SeaTable]({{< relref "templates/real-estate/apartment-hunting" >}}) é ideal para o efeito.
 
 Pode introduzir os seus critérios no modelo e comparar todos os potenciais apartamentos num relance. Para além das fotografias, também pode adicionar os dados de contacto do proprietário e as datas. Depois de uma visita bem sucedida, pode tomar nota da sua impressão para não se esquecer de nenhum pormenor. Uma boa organização facilitará a sua procura de apartamento e a decisão final sobre o seu apartamento de sonho.
 
-Para utilizar o SeaTable, basta registar-se gratuitamente. Pode então adicionar [o modelo](https://seatable.io/pt/vorlage/ggr4kqd4quazbz6fivljgg/) à sua base e adicionar os seus próprios dados.
+Para utilizar o SeaTable, basta registar-se gratuitamente. Pode então adicionar [o modelo]({{< relref "templates/real-estate/apartment-hunting" >}}) à sua base e adicionar os seus próprios dados.

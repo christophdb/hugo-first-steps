@@ -74,7 +74,7 @@ Defina los objetivos que desea alcanzar con el plan editorial. Son posibles, por
 - **Tráfico**: Más gente debería visitar su sitio web.
 - **Ventas**: quiere conseguir más clientes potenciales, suscriptores o clientes.
 - **Fidelización de clientes**: quiere reforzar la relación con sus clientes y animarles a que le recomienden a otros.
-- **Posición única**: quiere destacar [entre la competencia](https://seatable.io/es/vorlage/rv0aemhnqjufipzfycgc8w/) con sus contenidos.
+- **Posición única**: quiere destacar [entre la competencia]({{< relref "templates/marketing/competitor-analysis" >}}) con sus contenidos.
 - **Estatus de experto**: quiere hacerse un nombre en el sector y convertirse en un experto solicitado en un tema específico.
 
 Una vez definidos los objetivos, el siguiente paso es decidir los medios, tipos de contenido y formatos adecuados.

@@ -39,7 +39,7 @@ Con SeaTable tiene la posibilidad de evitar este problema: Nuestro software es t
 
 Nuestra solución informática comienza con la agenda y permite una gestión completa y estructurada de las citas y los datos. También se utiliza para la documentación y el seguimiento de las reuniones. A continuación le explicamos exactamente cómo utilizar nuestra plantilla personalizada y qué funciones le esperan.
 
-[Haga clic aquí para ir directamente a la plantilla de las reuniones de equipo](https://seatable.io/es/vorlage/gumqbevcroszpprj6j4xyg/)
+[Haga clic aquí para ir directamente a la plantilla de las reuniones de equipo]({{< relref "templates/projects/team-meetings" >}})
 
 En las reuniones, es importante planificar con suficiente antelación el contenido que se va a tratar. Sin preparar el contenido, la reunión es azarosa, caótica y también inútil, porque el objetivo de las reuniones no es sólo llegar a un acuerdo mutuo, sino también avanzar en los proyectos. Deben tomarse decisiones que logren resultados. Si esto no ocurre, la reunión ha fracasado por completo en su propósito.
 
@@ -107,4 +107,4 @@ La segunda regla es una notificación de recordatorio fijada con una fecha lími
 
 Como puedes ver: Con SeaTable, organizar y llevar a cabo reuniones no es un truco de magia. La preparación óptima se consigue mediante las reglas de notificación, las vistas personalizadas, la función de chat y la agenda, mientras que la agenda invita al trabajo colaborativo durante la ejecución. Para el seguimiento, todos los detalles importantes se enumeran y se guardan en Base, de modo que todo puede ser rastreado y leído en cualquier momento. Nunca más te perderás una reunión.
 
-[Pruebe nuestra plantilla](https://seatable.io/es/vorlage/gumqbevcroszpprj6j4xyg/) hoy mismo y [regístrese]({{< relref "pages/registration" >}}) de forma totalmente gratuita.
+[Pruebe nuestra plantilla]({{< relref "templates/projects/team-meetings" >}}) hoy mismo y [regístrese]({{< relref "pages/registration" >}}) de forma totalmente gratuita.

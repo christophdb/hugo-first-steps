@@ -128,7 +128,7 @@ Postez par exemple sous le hashtag #throwbackthursday les succès passés de vot
 
 ## Utilisez SeaTable pour planifier vos idées de contenu
 
-Avec SeaTable, vous avez la possibilité de planifier parfaitement vos idées de contenu. Notre [plan pour les médias sociaux](https://seatable.io/fr/modele/lmmjwghgtye322iwdxvj7a/) peut vous servir d'inspiration pour la planification de votre contenu. Remplissez le pipeline de votre présence sur les médias sociaux afin de ne jamais être à court de posts pour Instagram, TikTok et autres.
+Avec SeaTable, vous avez la possibilité de planifier parfaitement vos idées de contenu. Notre [plan pour les médias sociaux]({{< relref "templates/marketing/social-media-plan" >}}) peut vous servir d'inspiration pour la planification de votre contenu. Remplissez le pipeline de votre présence sur les médias sociaux afin de ne jamais être à court de posts pour Instagram, TikTok et autres.
 
 Dans ce modèle, vous pouvez par exemple créer les 14 idées de contenu de cet article de blog sous forme de formats récurrents avec différents thèmes principaux. Adaptez le plan à vos besoins individuels pour rassembler vos idées de contenu pour les médias sociaux et les mettre ensuite en œuvre.
 

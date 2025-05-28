@@ -47,7 +47,7 @@ So there is every reason to create a budget book and check your expenses. It's u
 
 The no-code database SeaTable offers you an excellent way to create your budget book - with an intuitive user interface and many functions that go beyond a classic **spreadsheet** such as Excel. Not only can you easily access your data in the cloud from any device, but you can also use **statistics**, **formulas**, **groupings** and **filters** to analyze your data.
 
-You can easily enter all your expenses in your digital budget book. Using the example of a family of four, we have created a [free template](https://seatable.io/en/vorlage/kqecvuxbrganzgw0w1skgq/) that contains all the important points:
+You can easily enter all your expenses in your digital budget book. Using the example of a family of four, we have created a [free template]({{< relref "templates/finance/budget-book" >}}) that contains all the important points:
 
 - Category, frequency and type of output
 - Amount of the issue and upload of the invoice
@@ -55,7 +55,7 @@ You can easily enter all your expenses in your digital budget book. Using the ex
 
 Whether it's shopping, rent and utilities, car insurance or tutoring for your son - with SeaTable you can keep track of all your costs. With the help of [single-selection columns](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), you can **categorize**, **filter** and **group** your expenses individually. For a chronological order in your budget book, simply **sort** your expenses by [date](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/). You can list your monthly **income** and calculate your surplus **budget** in two additional tables.
 
-If you would like to use the template for your budget book, [simply register for free]({{< relref "pages/registration" >}}) in SeaTable. You can then import the [template](https://seatable.io/en/vorlage/kqecvuxbrganzgw0w1skgq/) into your workspace and adapt it flexibly to your needs.
+If you would like to use the template for your budget book, [simply register for free]({{< relref "pages/registration" >}}) in SeaTable. You can then import the [template]({{< relref "templates/finance/budget-book" >}}) into your workspace and adapt it flexibly to your needs.
 
 ## 12 tips to help you save money
 
@@ -83,7 +83,7 @@ In addition to entertainment subscriptions, **memberships to gyms, sports clubs 
 
 ### 4\. invite friends home
 
-Game nights, parties or cooking something delicious together: **Activities at home** are almost always cheaper than going out. Together with friends, you can easily save money by reducing visits to restaurants, bars and clubs and [organizing parties at](https://seatable.io/en/vorlage/cedsmqybrkwqohspoicw-a/) home instead, where each guest contributes a few snacks or drinks. You might even have more fun at home, you can choose the music and the guest list yourself and your budget will thank you for it.
+Game nights, parties or cooking something delicious together: **Activities at home** are almost always cheaper than going out. Together with friends, you can easily save money by reducing visits to restaurants, bars and clubs and [organizing parties at]({{< relref "templates/events/party-planner" >}}) home instead, where each guest contributes a few snacks or drinks. You might even have more fun at home, you can choose the music and the guest list yourself and your budget will thank you for it.
 
 ### 5\. rent out unused living or storage space
 
@@ -109,7 +109,7 @@ You don't necessarily have to buy new items for your home or closet. **Second-ha
 
 {{< warning headline="Attention: cost trap!" text="Old refrigerators, washing machines and other electrical appliances can often be bought very cheaply. But with these appliances in particular, it is important to consider the costs over their entire lifetime. An appliance that costs 200 euros more when new, but lasts ten years longer and uses 20 percent less electricity, can save you far more than 200 euros. It is therefore better to opt for high-quality electrical appliances. LED lamps also cost more to buy, but consume only around a tenth of the electricity of conventional light bulbs." />}}
 
-Also look out for **special offers** from retailers. A [price comparison](https://seatable.io/en/vorlage/fsbfwc4fqocgqed7vczq9g/) can be worthwhile, especially if you are considering an expensive new purchase.
+Also look out for **special offers** from retailers. A [price comparison]({{< relref "templates/finance/price-comparison" >}}) can be worthwhile, especially if you are considering an expensive new purchase.
 
 ### 8\. avoid impulse purchases
 

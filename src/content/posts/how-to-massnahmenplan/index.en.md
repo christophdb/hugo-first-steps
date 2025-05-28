@@ -56,7 +56,7 @@ An action plan can be a very good remedy for this. All these dates are noted the
 
 ## Action planning made easy with SeaTable
 
-With our [SeaTable template for an activity plan](https://seatable.io/en/vorlage/hntk-vocrksmyj-9746vka/), you always have every appointment and every activity in view. Design the plan according to your wishes and activity plans. You can link your measures to your (annual) goals in the same document in no time at all - so you have all the information in one place.
+With our [SeaTable template for an activity plan]({{< relref "templates/projects/action-plan" >}}), you always have every appointment and every activity in view. Design the plan according to your wishes and activity plans. You can link your measures to your (annual) goals in the same document in no time at all - so you have all the information in one place.
 
 Our template essentially consists of a 365-day calendar with marked weekends and holidays, in which you can easily enter everything related to your planning. This has the advantage that you can look at the days of the week and months in a holistic view. This gives a better overview of when and at what intervals a particular appointment or activity is to take place and makes annual planning easier. For detailed project planning, time, place, responsible persons and departments as well as important to-do's are integrated in the columns. In this way, the course of individual measures can be planned very precisely and important dates are always within reach with just a few clicks. You will see: With SeaTable, planning for the whole year is perfectly structured and organised.
 
@@ -72,4 +72,4 @@ Visualise and advance goals in your action plan
 
 With the flexibility of SeaTable and the many design options, creating an action plan is child's play. Goals can be linked across the board, as can annually recurring deadlines or measures. Use it to vision your strategy and implement your plans directly and effectively.
 
-Start directly and [download our template](https://seatable.io/en/vorlage/hntk-vocrksmyj-9746vka/) for an action plan into your cloud today! Benefit from the versatile functions of SeaTable. You will never lose sight of your goals and measures again!
+Start directly and [download our template]({{< relref "templates/projects/action-plan" >}}) for an action plan into your cloud today! Benefit from the versatile functions of SeaTable. You will never lose sight of your goals and measures again!

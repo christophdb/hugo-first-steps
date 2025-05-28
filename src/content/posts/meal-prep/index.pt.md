@@ -82,7 +82,7 @@ Stellen Sie sich zunächst die Frage, für wie viele Tage Sie vorkochen möchten
 
 ### 2\. Einkaufen
 
-Die Rezepte sind ausgewählt, jetzt fehlen Ihnen noch die **Zutaten**. Listen Sie auf, was Sie in welchen **Mengen** brauchen, damit Sie während Ihres Einkaufs den Überblick behalten. Außerdem hilft Ihnen eine [Einkaufsliste](https://seatable.io/vorlage/rw6cogmdrjyl-j0w3sjraw/) dabei, nur die Lebensmittel zu kaufen, welche Sie für Ihre Mahlzeiten wirklich benötigen. Achten Sie darauf, frische und leicht verderbliche Ware erst dann zu kaufen, wenn Sie sie sofort weiterverarbeiten können.
+Die Rezepte sind ausgewählt, jetzt fehlen Ihnen noch die **Zutaten**. Listen Sie auf, was Sie in welchen **Mengen** brauchen, damit Sie während Ihres Einkaufs den Überblick behalten. Außerdem hilft Ihnen eine [Einkaufsliste]({{< relref "templates/everyday-life/shopping-list" >}}) dabei, nur die Lebensmittel zu kaufen, welche Sie für Ihre Mahlzeiten wirklich benötigen. Achten Sie darauf, frische und leicht verderbliche Ware erst dann zu kaufen, wenn Sie sie sofort weiterverarbeiten können.
 
 ![Um Ihren Einkauf ohne mehr Ausgaben durchzuziehen, hilft Ihnen eine Einkaufsliste](https://seatable.io/wp-content/uploads/2023/11/torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
@@ -126,8 +126,8 @@ Durch die verschiedenen Gewürze verleihen Sie dem Gemüse an jedem Tag einen an
 
 ## Vorlage für Ihren Meal Prep Wochenplan
 
-Damit Sie Ihre Lieblingsrezepte immer griffbereit haben, können Sie eine Liste mit allen Meal Prep Gerichten anlegen und festhalten, auf welchen Webseiten Sie welches Gericht gefunden haben. Die [kostenlose Vorlage von SeaTable](https://seatable.io/vorlage/egzrna4wtbsuv7bbquzwsq/) eignet sich bestens, um Ihre Meal Prep Rezepte übersichtlich zu ordnen.
+Damit Sie Ihre Lieblingsrezepte immer griffbereit haben, können Sie eine Liste mit allen Meal Prep Gerichten anlegen und festhalten, auf welchen Webseiten Sie welches Gericht gefunden haben. Die [kostenlose Vorlage von SeaTable]({{< relref "templates/healthcare/recipes-meal-plan" >}}) eignet sich bestens, um Ihre Meal Prep Rezepte übersichtlich zu ordnen.
 
 Tragen Sie einfach den Tag ein, an dem Sie ein Gericht das nächste Mal kochen wollen, und erstellen Sie sich im Kalender immer wieder neue **Meal Prep Wochenpläne**. Laden Sie Fotos hoch und lassen Sie sich Woche für Woche von Ihrer Galerie an möglichen Gerichten inspirieren. In zwei weiteren Tabellen können Sie alle Zutaten in einer **Einkaufsliste** erfassen und die **Nährwerte** Ihrer Lieblingsgerichte vergleichen.
 
-Wenn Sie SeaTable für Ihren Meal Prep Wochenplan nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier](https://seatable.io/vorlage/egzrna4wtbsuv7bbquzwsq/). Löschen Sie die Beispielrezepte und passen Sie den Essensplan nach Belieben an Ihre Bedürfnisse an.
+Wenn Sie SeaTable für Ihren Meal Prep Wochenplan nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/healthcare/recipes-meal-plan" >}}). Löschen Sie die Beispielrezepte und passen Sie den Essensplan nach Belieben an Ihre Bedürfnisse an.

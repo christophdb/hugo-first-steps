@@ -169,4 +169,4 @@ Ao analisar o conteúdo, podem juntar-se muitos materiais e informações. É po
 
 Especialmente se trabalhar com vários programadores, uma **plataforma de colaboração** como o SeaTable tem vantagens imbatíveis. Pode armazenar todos os materiais centralmente numa base de dados e codificá-los, dando a cada codificador uma vista filtrada individualmente. Também pode avaliar facilmente os dados codificados e visualizá-los como estatísticas claras.
 
-Se pretender utilizar o SeaTable para a sua análise de conteúdo, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui](https://seatable.io/pt/vorlage/jaw90r-mtsgxsep3vkfd4q/).
+Se pretender utilizar o SeaTable para a sua análise de conteúdo, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui]({{< relref "templates/marketing/media-content-analysis" >}}).

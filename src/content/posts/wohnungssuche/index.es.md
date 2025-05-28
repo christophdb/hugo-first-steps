@@ -5,8 +5,8 @@ lastmod: '2023-12-18'
 author: 'nsc'
 url: '/es/wohnungssuche'
 seo:
-    title: 
-    description: 
+    title:
+    description:
 ---
 
 Ya sea su primera vivienda, su tercer piso compartido este año o un nuevo refugio para toda la familia, todos los **que buscan casa** se enfrentan al mismo reto. La situación del mercado inmobiliario es tensa: Los pisos asequibles escasean, mientras que los alquileres siguen subiendo. Pero siempre hay pisos bonitos disponibles o bloques de pisos antiguos que se renuevan. Debe estar bien preparado para estas oportunidades a fin de poder imponerse a sus numerosos competidores.
@@ -90,8 +90,8 @@ No finja, preséntese **con autenticidad**. Así el propietario se llevará una 
 
 ## 10\. mantener una visión de conjunto a la hora de buscar piso
 
-Mantener una visión de conjunto en la jungla inmobiliaria no es tan fácil. Sobre todo si le interesan varios inmuebles, es fácil confundirse. Para evitar olvidarse de un piso o incluso ponerse en contacto con él dos veces por accidente, merece la pena utilizar una buena estructura desde el principio. La [plantilla](https://seatable.io/es/vorlage/ggr4kqd4quazbz6fivljgg/) gratuita [de SeaTable](https://seatable.io/es/vorlage/ggr4kqd4quazbz6fivljgg/) es ideal para ello.
+Mantener una visión de conjunto en la jungla inmobiliaria no es tan fácil. Sobre todo si le interesan varios inmuebles, es fácil confundirse. Para evitar olvidarse de un piso o incluso ponerse en contacto con él dos veces por accidente, merece la pena utilizar una buena estructura desde el principio. La [plantilla]({{< relref "templates/real-estate/apartment-hunting" >}}) gratuita [de SeaTable]({{< relref "templates/real-estate/apartment-hunting" >}}) es ideal para ello.
 
 Puede introducir sus criterios en la plantilla y comparar todos los pisos potenciales de un vistazo. Además de las fotos, puedes añadir los datos de contacto del propietario y las fechas. Después de una visita, puedes anotar tus impresiones para no olvidar ningún detalle. Una buena organización le facilitará la búsqueda de piso y la decisión final sobre el piso de sus sueños.
 
-Para utilizar SeaTable, basta con registrarse gratuitamente. A continuación, puede añadir [la plantilla](https://seatable.io/es/vorlage/ggr4kqd4quazbz6fivljgg/) a su base y añadir sus propios datos.
+Para utilizar SeaTable, basta con registrarse gratuitamente. A continuación, puede añadir [la plantilla]({{< relref "templates/real-estate/apartment-hunting" >}}) a su base y añadir sus propios datos.

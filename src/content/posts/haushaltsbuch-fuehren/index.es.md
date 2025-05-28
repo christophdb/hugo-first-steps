@@ -46,7 +46,7 @@ Así que todo habla a favor de crear un libro de presupuesto y controlar tus gas
 
 La base de datos sin código SeaTable le ofrece una excelente oportunidad para crear su libro de presupuestos, con una interfaz de usuario intuitiva y muchas funciones que van más allá de una **hoja de cálculo** clásica como Excel. No solo puedes acceder fácilmente a tus datos en la nube desde cualquier dispositivo final, sino que también puedes utilizar **estadísticas**, **fórmulas**, **agrupaciones** y **filtros** para analizar tus datos.
 
-Puedes introducir fácilmente todos tus gastos en tu libro de presupuesto digital. Utilizando el ejemplo de una familia de cuatro miembros, hemos creado una [plantilla gratuita](https://seatable.io/es/vorlage/kqecvuxbrganzgw0w1skgq/) que contiene todos los puntos importantes:
+Puedes introducir fácilmente todos tus gastos en tu libro de presupuesto digital. Utilizando el ejemplo de una familia de cuatro miembros, hemos creado una [plantilla gratuita]({{< relref "templates/finance/budget-book" >}}) que contiene todos los puntos importantes:
 
 - Categoría, frecuencia y tipo de salida
 - Importe de la emisión y carga de la factura
@@ -54,7 +54,7 @@ Puedes introducir fácilmente todos tus gastos en tu libro de presupuesto digita
 
 Ya se trate de la compra, el alquiler y los servicios públicos, el seguro del coche o las clases particulares de su hijo, con SeaTable podrá llevar un registro de todos sus gastos. Con la ayuda de [columnas de selección única](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), puede **clasificar**, **filtrar** y **agrupar** sus gastos individualmente. Para un orden cronológico en su libro de presupuesto, simplemente **ordene** sus gastos por [fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/). En dos tablas adicionales puede enumerar sus **ingresos** mensuales y calcular su **presupuesto de** excedentes.
 
-Si desea utilizar la plantilla para su libro de presupuesto, [sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) en SeaTable. A continuación, podrá importar la [plantilla](https://seatable.io/es/vorlage/kqecvuxbrganzgw0w1skgq/) a su espacio de trabajo y personalizarla para adaptarla a sus necesidades.
+Si desea utilizar la plantilla para su libro de presupuesto, [sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) en SeaTable. A continuación, podrá importar la [plantilla]({{< relref "templates/finance/budget-book" >}}) a su espacio de trabajo y personalizarla para adaptarla a sus necesidades.
 
 ## 12 consejos para ahorrar
 
@@ -82,7 +82,7 @@ Además de las suscripciones a espectáculos, las **cuotas de gimnasios, clubes 
 
 ### 4\. invitar a amigos a casa
 
-Noches de juegos, fiestas o cocinar algo delicioso juntos: **Las actividades en casa** son casi siempre más baratas que salir. Junto con tus amigos, puedes ahorrar dinero fácilmente reduciendo las visitas a restaurantes, bares y discotecas y [organizando en su lugar fiestas en](https://seatable.io/es/vorlage/cedsmqybrkwqohspoicw-a/) casa en las que cada invitado contribuya con algunos aperitivos o bebidas. Puede que incluso te diviertas más en casa, tú mismo puedes elegir la música y la lista de invitados, y tu presupuesto te lo agradecerá.
+Noches de juegos, fiestas o cocinar algo delicioso juntos: **Las actividades en casa** son casi siempre más baratas que salir. Junto con tus amigos, puedes ahorrar dinero fácilmente reduciendo las visitas a restaurantes, bares y discotecas y [organizando en su lugar fiestas en]({{< relref "templates/events/party-planner" >}}) casa en las que cada invitado contribuya con algunos aperitivos o bebidas. Puede que incluso te diviertas más en casa, tú mismo puedes elegir la música y la lista de invitados, y tu presupuesto te lo agradecerá.
 
 ### 5\. Alquilar el espacio vital o de almacenamiento no utilizado.
 
@@ -108,7 +108,7 @@ No tiene por qué comprar cosas nuevas para su casa o su armario. Los **artícul
 
 {{< warning headline="Atención: ¡trampa de costes!" text="Los frigoríficos, lavadoras y otros electrodomésticos viejos suelen ser muy baratos. Pero en el caso de estos electrodomésticos en particular, es importante tener en cuenta los costes a lo largo de toda su vida útil. Un electrodoméstico que cuesta 200 euros más cuando es nuevo, pero dura diez años más y consume un 20% menos de electricidad, puede ahorrarle mucho más de 200 euros. Por tanto, es mejor optar por electrodomésticos de alta calidad. Las bombillas LED también son más caras, pero sólo consumen una décima parte de electricidad que las bombillas convencionales." />}}
 
-Busca también **ofertas especiales** de los comercios. [Comparar precios](https://seatable.io/es/vorlage/fsbfwc4fqocgqed7vczq9g/) puede merecer la pena, sobre todo si estás pensando en hacer una nueva compra cara.
+Busca también **ofertas especiales** de los comercios. [Comparar precios]({{< relref "templates/finance/price-comparison" >}}) puede merecer la pena, sobre todo si estás pensando en hacer una nueva compra cara.
 
 ### 8\. evitar las compras impulsivas
 

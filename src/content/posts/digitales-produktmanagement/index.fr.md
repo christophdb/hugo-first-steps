@@ -12,7 +12,7 @@ seo:
 
 La gestion numérique des produits est aujourd'hui indispensable pour gérer les produits. En effet, le numérique rend les choses beaucoup plus simples qu'auparavant. L'un des objectifs est de représenter les différentes interfaces de toute la gestion des produits, du début à la fin, et de rassembler toutes les informations de manière complète et compacte. Souvent, on passe d'un programme et d'un outil à l'autre, mais avec SeaTable, ce n'est plus nécessaire.
 
-SeaTable offre une excellente base pour la gestion numérique des produits, car ses fonctions polyvalentes permettent de représenter presque toutes les étapes du processus de développement de produits. Nous expliquons ci-dessous [le modèle que nous avons développé](https://seatable.io/fr/modele/lejzgk0brbo1piwmodvlsa/) et toutes les fonctions importantes qui sont essentielles dans le quotidien d'un chef de produit.
+SeaTable offre une excellente base pour la gestion numérique des produits, car ses fonctions polyvalentes permettent de représenter presque toutes les étapes du processus de développement de produits. Nous expliquons ci-dessous [le modèle que nous avons développé]({{< relref "templates/product-design/digital-product-management" >}}) et toutes les fonctions importantes qui sont essentielles dans le quotidien d'un chef de produit.
 
 ### Digression : qu'est-ce que la gestion de produits ?
 
@@ -26,7 +26,7 @@ La gestion numérique des produits bénéficie d'outils de gestion de produits a
 
 D'autre part, il existe également d'autres caractéristiques de produits qui ne sont pas destinées au public, comme l'épaisseur du matériau, le revêtement ou même des mélanges de couleurs ou des compositions de matériaux propres. Pour ces informations, il existe un catalogue interne détaillé de données sur les produits qui résume tout cela. Nous avons intégré les deux variantes dans notre modèle.
 
-[Cliquez ici pour accéder directement au modèle](https://seatable.io/fr/modele/lejzgk0brbo1piwmodvlsa/)
+[Cliquez ici pour accéder directement au modèle]({{< relref "templates/product-design/digital-product-management" >}})
 
 ### Plus de clarté avec le double regroupement
 
@@ -109,10 +109,10 @@ Les statistiques en bas à gauche montrent les chiffres de vente mensuels des ma
 
 Ceux qui souhaitent plus de flexibilité peuvent utiliser notre plugin "Statistiques avancées". L'avantage de ce plugin est l'agrandissement des statistiques à volonté dans l'aperçu et une disposition entièrement flexible et nouvelle des statistiques. Ces deux statistiques peuvent être agrandies ou réduites dans n'importe quelle direction avec le pointeur de la souris et peuvent ainsi être placées parfaitement côte à côte. Cela est particulièrement important dans les cas où des chiffres importants doivent être directement comparés.
 
-Les statistiques sont une fonctionnalité très puissante, intégrée dans chaque version de SeaTable. [Vous](https://seatable.io/fr/modele/lejzgk0brbo1piwmodvlsa/) pouvez télécharger [notre modèle ici](https://seatable.io/fr/modele/lejzgk0brbo1piwmodvlsa/)!
+Les statistiques sont une fonctionnalité très puissante, intégrée dans chaque version de SeaTable. [Vous]({{< relref "templates/product-design/digital-product-management" >}}) pouvez télécharger [notre modèle ici]({{< relref "templates/product-design/digital-product-management" >}})!
 
 ## Lancez-vous dans la gestion numérique de vos produits avec SeaTable
 
-Cet exemple d'application montre clairement à quel point SeaTable peut représenter une gestion numérique des produits et ainsi changer positivement votre façon de travailler. En tant que logiciel polyvalent et très flexible, SeaTable peut s'adapter entièrement à vos besoins et réagir à toute circonstance. Les différents types de colonnes et les plug-ins utiles permettent de mettre en œuvre les processus les plus divers : Que vous ayez [besoin](https://seatable.io/fr/modele/gnx7mg0dqkejp6p4e5c6-w/) d'un [outil de gestion CRM](https://seatable.io/fr/modele/gnx7mg0dqkejp6p4e5c6-w/) sophistiqué ou que vous souhaitiez [enregistrer]({{< relref "templates/human-resources/recording-working-time" >}}) et traiter les [heures de travail de vos collaborateurs]({{< relref "templates/human-resources/recording-working-time" >}}). Avec SeaTable, vous n'avez aucune limite !
+Cet exemple d'application montre clairement à quel point SeaTable peut représenter une gestion numérique des produits et ainsi changer positivement votre façon de travailler. En tant que logiciel polyvalent et très flexible, SeaTable peut s'adapter entièrement à vos besoins et réagir à toute circonstance. Les différents types de colonnes et les plug-ins utiles permettent de mettre en œuvre les processus les plus divers : Que vous ayez [besoin]({{< relref "templates/sales/crm-offer-management" >}}) d'un [outil de gestion CRM]({{< relref "templates/sales/crm-offer-management" >}}) sophistiqué ou que vous souhaitiez [enregistrer]({{< relref "templates/human-resources/recording-working-time" >}}) et traiter les [heures de travail de vos collaborateurs]({{< relref "templates/human-resources/recording-working-time" >}}). Avec SeaTable, vous n'avez aucune limite !
 
 [Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) et essayez nos fonctionnalités. Nous avons créé des modèles utiles qui peuvent vous aider à vous lancer dans certains sujets !

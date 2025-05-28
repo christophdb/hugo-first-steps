@@ -5,8 +5,8 @@ lastmod: '2023-12-18'
 author: 'nsc'
 url: '/fr/wohnungssuche'
 seo:
-    title: 
-    description: 
+    title:
+    description:
 ---
 
 Qu'il s'agisse du premier appartement à soi, de la troisième colocation de l'année ou d'un nouveau lieu de retraite pour toute la famille, toutes les personnes à la **recherche d'un logement** sont confrontées au même défi. La situation sur le marché du logement est tendue : Les logements abordables sont rares, tandis que les loyers continuent d'augmenter. Mais il y a toujours de beaux appartements qui se libèrent ou d'anciens immeubles locatifs qui sont rénovés. Vous devez être bien préparé à ces opportunités afin de pouvoir vous imposer face à vos nombreux concurrents.
@@ -90,8 +90,8 @@ Ne faites pas semblant, mais présentez-vous **de manière authentique**. Le bai
 
 ## 10\. garder une vue d'ensemble lors de la recherche d'un logement
 
-Garder une vue d'ensemble dans la jungle de l'immobilier n'est pas si facile. Surtout si l'on s'intéresse à plusieurs biens immobiliers, il est facile de s'y perdre. Pour éviter d'oublier un logement ou même de le contacter deux fois par inadvertance, il vaut la peine d'utiliser une bonne structure dès le départ. Le [modèle](https://seatable.io/fr/modele/ggr4kqd4quazbz6fivljgg/) gratuit [de SeaTable](https://seatable.io/fr/modele/ggr4kqd4quazbz6fivljgg/) s'y prête parfaitement.
+Garder une vue d'ensemble dans la jungle de l'immobilier n'est pas si facile. Surtout si l'on s'intéresse à plusieurs biens immobiliers, il est facile de s'y perdre. Pour éviter d'oublier un logement ou même de le contacter deux fois par inadvertance, il vaut la peine d'utiliser une bonne structure dès le départ. Le [modèle]({{< relref "templates/real-estate/apartment-hunting" >}}) gratuit [de SeaTable]({{< relref "templates/real-estate/apartment-hunting" >}}) s'y prête parfaitement.
 
 Dans le modèle, vous pouvez saisir vos critères et comparer en un coup d'œil tous les logements potentiels. Outre les photos, vous pouvez également insérer les coordonnées des propriétaires ainsi que les dates. Après une visite réussie, vous pouvez noter vos impressions et n'oublier ainsi aucun détail. Grâce à une bonne organisation, la recherche d'un logement et la décision finale concernant l'appartement de vos rêves vous seront plus faciles.
 
-Pour utiliser SeaTable, il vous suffit de vous inscrire gratuitement. Vous pouvez ensuite ajouter [le modèle](https://seatable.io/fr/modele/ggr4kqd4quazbz6fivljgg/) à votre base et y ajouter vos propres données.
+Pour utiliser SeaTable, il vous suffit de vous inscrire gratuitement. Vous pouvez ensuite ajouter [le modèle]({{< relref "templates/real-estate/apartment-hunting" >}}) à votre base et y ajouter vos propres données.

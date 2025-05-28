@@ -74,7 +74,7 @@ Définissez les objectifs que vous souhaitez atteindre avec le plan éditorial. 
 - **Trafic**: davantage de personnes doivent visiter votre site web.
 - **Ventes**: vous souhaitez acquérir davantage de leads, d'abonnés ou de clients.
 - **Fidélisation des clients**: vous souhaitez renforcer la relation avec vos clients et les inciter à vous recommander.
-- **Position unique**: vous souhaitez vous [démarquer de la concurrence](https://seatable.io/fr/modele/rv0aemhnqjufipzfycgc8w/) par le biais du contenu.
+- **Position unique**: vous souhaitez vous [démarquer de la concurrence]({{< relref "templates/marketing/competitor-analysis" >}}) par le biais du contenu.
 - **Statut d'expert**: vous souhaitez vous faire un nom dans le secteur et devenir un expert recherché sur un sujet particulier.
 
 Une fois les objectifs définis, il s'agit de choisir les médias, les types de contenus et les formats les plus appropriés.

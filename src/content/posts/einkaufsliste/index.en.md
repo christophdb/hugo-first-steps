@@ -167,7 +167,7 @@ The notes app as a shopping list
 
 ### 7 SeaTable
 
-SeaTable offers a [template](https://seatable.io/en/vorlage/rw6cogmdrjyl-j0w3sjraw/) that supplements the typical shopping list with many other functions. Here you can not only **tick off** your items, but also enter **recipes** and upload **pictures**.
+SeaTable offers a [template]({{< relref "templates/everyday-life/shopping-list" >}}) that supplements the typical shopping list with many other functions. Here you can not only **tick off** your items, but also enter **recipes** and upload **pictures**.
 
 The digital shopping list / app also helps you to keep a better eye on the financial aspects of your shopping. For example, you can assign products to specific categories or stores and **record prices**, which are added up for each supermarket and purchase. With the help of the integrated **statistics**, you can keep a clear overview of your spending.
 

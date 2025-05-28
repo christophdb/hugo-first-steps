@@ -15,7 +15,7 @@ Einer der schönsten und wichtigsten Tage im Leben steht vor der Tür: die eigen
 
 ## Checkliste Hochzeitsplanung mit über 200 To-dos
 
-Normalerweise startet die Planung einer Hochzeit ungefähr 13 Monate vor dem großen Tag. Wenn man eine beliebte Hochzeitslocation haben möchte, teilweise sogar noch früher. Wichtig ist, dass man bei der schieren Menge an Aufgaben nicht den Überblick verliert. Deshalb steht in Zentrum unseres Templates [Wedding Planner](https://seatable.io/vorlage/eso9hktaqnms333jjy0z9q/) die _Checkliste_ mit bereits über 200 vordefinierten Aufgaben. Zusätzlich wird in dieser Tabelle erfasst, wann das entsprechende To-do erledigt werden muss. Es gibt immer ein übergeordnetes To-do, welches mehrere einzelne Unterpunkte beinhaltet, um Sie durch den ganzen Prozess zu leiten. Die Spalte _Check_ ist eine [Checkbox-Spalte](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox), die dazu dient, erledigte To-dos abzuhaken.
+Normalerweise startet die Planung einer Hochzeit ungefähr 13 Monate vor dem großen Tag. Wenn man eine beliebte Hochzeitslocation haben möchte, teilweise sogar noch früher. Wichtig ist, dass man bei der schieren Menge an Aufgaben nicht den Überblick verliert. Deshalb steht in Zentrum unseres Templates [Wedding Planner]({{< relref "templates/events/wedding-planner" >}}) die _Checkliste_ mit bereits über 200 vordefinierten Aufgaben. Zusätzlich wird in dieser Tabelle erfasst, wann das entsprechende To-do erledigt werden muss. Es gibt immer ein übergeordnetes To-do, welches mehrere einzelne Unterpunkte beinhaltet, um Sie durch den ganzen Prozess zu leiten. Die Spalte _Check_ ist eine [Checkbox-Spalte](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox), die dazu dient, erledigte To-dos abzuhaken.
 
 ![Hochzeitplanung Checkliste](https://seatable.de/wp-content/uploads/2021/07/wedding-more-than-200-todos.png)
 
@@ -27,7 +27,7 @@ Um mit der Planung Ihrer eigenen Hochzeit zu beginnen, müssen Sie sich für ein
 
 Zusätzliche oder weitere To-dos können Sie an beliebiger Stelle in das Template einfügen. Wenn Sie ein neues _Parent To-do_ vergeben, wird automatisch eine neue Gruppe von Aufgaben angelegt. Die Sortierung der Aufgabengruppen erfolgt automatisch anhand der Vorlaufzeit zu Ihrer Hochzeit. Sie möchten die Aufgaben mit einem konkreten Datum versehen? Fügen Sie einfach eine neue [Datumsspalte](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) hinzu und versehen Sie jedes To-do mit einem Datum.
 
-[Hier geht es direkt zum Template für Ihre Hochzeitsplanung](https://seatable.io/vorlage/eso9hktaqnms333jjy0z9q/)
+[Hier geht es direkt zum Template für Ihre Hochzeitsplanung]({{< relref "templates/events/wedding-planner" >}})
 
 ## SeaTable hilft Ihnen wichtige Entscheidungen zu treffen
 

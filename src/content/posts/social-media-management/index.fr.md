@@ -104,7 +104,7 @@ Les outils de médias sociaux automatisent de nombreuses tâches qui sont effect
 
 ## Plan de médias sociaux de SeaTable
 
-Si vous utilisez de nombreux canaux de médias sociaux, il peut être difficile de garder une trace de toutes les publications et interactions. Une approche structurée sous la forme d'un plan pour les médias sociaux vous permet de mieux gérer cette complexité. Le [modèle gratuit](https://seatable.io/fr/modele/lmmjwghgtye322iwdxvj7a/) de SeaTable vous permet de saisir individuellement vos contributions et facilite votre gestion des médias sociaux.
+Si vous utilisez de nombreux canaux de médias sociaux, il peut être difficile de garder une trace de toutes les publications et interactions. Une approche structurée sous la forme d'un plan pour les médias sociaux vous permet de mieux gérer cette complexité. Le [modèle gratuit]({{< relref "templates/marketing/social-media-plan" >}}) de SeaTable vous permet de saisir individuellement vos contributions et facilite votre gestion des médias sociaux.
 
 Consignez vos **idées**, classez les contributions dans des **rubriques** spécifiques en quelques clics et cochez les tâches accomplies dans la **liste des choses à faire**. Enregistrez les images, les textes, les tâches et les indicateurs clés de performance à un **endroit central** auquel tous les membres de l'équipe peuvent accéder à tout moment. Les fonctions collaboratives de SeaTable font de la **collaboration** un jeu d'enfant !
 

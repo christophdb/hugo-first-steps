@@ -40,7 +40,7 @@ With SeaTable you have the possibility to avoid this problem: Our software is so
 
 Our software solution starts with the agenda and enables comprehensive and structured management of appointments and data. It is also used for the documentation and follow-up of meetings. Below we explain exactly how to use our self-created template and what features await you.
 
-[Click here to go directly to the template for team meetings](https://seatable.io/en/vorlage/gumqbevcroszpprj6j4xyg/)
+[Click here to go directly to the template for team meetings]({{< relref "templates/projects/team-meetings" >}})
 
 At meetings, it is important to plan the content to be discussed well in advance. Without preparing content, the meeting is haphazard, chaotic and also pointless, because the aim of meetings is not only to reach mutual agreement, but also to make progress in projects. Decisions should be made that achieve results. If this does not happen, then the meeting has completely missed its purpose.
 
@@ -108,4 +108,4 @@ The second rule is a reminder notification set with a deadline. One day before t
 
 As you can see: With SeaTable, organising and conducting meetings is no magic trick. Optimal preparation is achieved through notification rules, custom views, chat function and the agenda, while the agenda invites collaborative work during the execution. For follow-up, all important details are listed and saved in Base, so that everything can be tracked and read at any time. You'll never miss a meeting again!
 
-[Test our template](https://seatable.io/en/vorlage/gumqbevcroszpprj6j4xyg/) today and [register]({{< relref "pages/registration" >}}) completely free of charge.
+[Test our template]({{< relref "templates/projects/team-meetings" >}}) today and [register]({{< relref "pages/registration" >}}) completely free of charge.

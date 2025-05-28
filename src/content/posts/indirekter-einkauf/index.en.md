@@ -25,7 +25,7 @@ At the same time, much less attention is usually paid to indirect purchasing, in
 
 The challenge in any business is to procure indirect materials efficiently and cost-effectively. On the one hand, consumables such as pens, coffee beans and printer paper need to be reordered in time before they are used up. These are working materials that are subject to daily demand and therefore always need a supply. On the other hand, some items have to be ordered separately and on demand, such as computers, noise-cancelling earphones or IT cables. The solution for a smooth process: A central office organisation of all internal goods orders via SeaTable!
 
-With SeaTable you have all important information, products and orders in one place. Here you create your own product catalog for your internal purchasing, take orders via web form and execute orders with one click. You don't have to start from scratch, but can start directly with our [template](https://seatable.io/en/vorlage/cZ9GFdImRsiJRyyTD_5T9A/) from the Operations section.
+With SeaTable you have all important information, products and orders in one place. Here you create your own product catalog for your internal purchasing, take orders via web form and execute orders with one click. You don't have to start from scratch, but can start directly with our [template]({{< relref "templates/operations/indirect-procurement" >}}) from the Operations section.
 
 ## Indirect procurement: Keep the overview
 

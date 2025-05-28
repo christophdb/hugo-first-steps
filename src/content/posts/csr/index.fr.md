@@ -100,8 +100,8 @@ En produisant ces rapports, vous créez de **la transparence** et permettez à v
 
 ## Modèle de SeaTable
 
-Pour définir des objectifs concrets et suivre vos progrès, vous pouvez utiliser le [modèle](https://seatable.io/fr/modele/dzs1hkplqmurvmuwzhv0fa/) gratuit de SeaTable. Le modèle vous permet de saisir vos objectifs, de les répartir en catégories et de les attribuer à des départements. Outre les mesures à prendre, vous pouvez également attribuer des priorités et inscrire une date cible.
+Pour définir des objectifs concrets et suivre vos progrès, vous pouvez utiliser le [modèle]({{< relref "templates/operations/sustainability-management" >}}) gratuit de SeaTable. Le modèle vous permet de saisir vos objectifs, de les répartir en catégories et de les attribuer à des départements. Outre les mesures à prendre, vous pouvez également attribuer des priorités et inscrire une date cible.
 
 Un autre tableau vous permet de garder une vue d'ensemble de tous les chiffres importants et de voir en un coup d'œil les domaines dans lesquels vous avez déjà pu vous améliorer. Vous pouvez également documenter les certificats de durabilité que vous avez déjà obtenus ou pour lesquels vous travaillez et générer automatiquement la prochaine échéance pour une nouvelle demande.
 
-Pour utiliser SeaTable, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous pouvez ensuite ajouter le [modèle](https://seatable.io/fr/modele/dzs1hkplqmurvmuwzhv0fa/) à votre base et y ajouter vos propres données.
+Pour utiliser SeaTable, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous pouvez ensuite ajouter le [modèle]({{< relref "templates/operations/sustainability-management" >}}) à votre base et y ajouter vos propres données.

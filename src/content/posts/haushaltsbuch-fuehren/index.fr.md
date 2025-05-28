@@ -46,7 +46,7 @@ Tout plaide donc en faveur de l'établissement d'un livre de comptes et de la v�
 
 La base de données sans code SeaTable vous offre un excellent moyen de créer votre livre de comptes, avec une interface utilisateur intuitive et de nombreuses fonctions qui vont au-delà d'un **tableur** classique comme Excel. Non seulement vous accédez facilement à vos données dans le nuage à partir de n'importe quel terminal, mais vous utilisez également **des statistiques**, des **formules**, des **regroupements** et **des filtres** pour analyser vos données.
 
-Dans votre livre de comptes numérique, vous pouvez inscrire toutes vos dépenses en toute simplicité. En prenant l'exemple d'une famille de quatre personnes, nous avons construit un [modèle gratuit](https://seatable.io/fr/modele/kqecvuxbrganzgw0w1skgq/) qui contient tous les points importants :
+Dans votre livre de comptes numérique, vous pouvez inscrire toutes vos dépenses en toute simplicité. En prenant l'exemple d'une famille de quatre personnes, nous avons construit un [modèle gratuit]({{< relref "templates/finance/budget-book" >}}) qui contient tous les points importants :
 
 - Catégorie, fréquence et type de dépense
 - Montant de la dépense et téléchargement de la facture
@@ -54,7 +54,7 @@ Dans votre livre de comptes numérique, vous pouvez inscrire toutes vos dépense
 
 Qu'il s'agisse des achats, du loyer et des charges, de l'assurance automobile ou des cours particuliers pour votre fils, SeaTable vous permet de garder une vue d'ensemble de tous vos frais. Les [colonnes à sélection simple](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) vous permettent de **classer**, **filtrer** et **regrouper** vos dépenses de manière individuelle. Pour un ordre chronologique dans votre livre de comptes, il vous suffit de **trier** vos dépenses par [date](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/). Deux autres tableaux vous permettent de lister vos **revenus** mensuels et de calculer votre **budget** excédentaire.
 
-Si vous souhaitez utiliser le modèle pour votre livre de comptes, [il vous suffit de vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) dans SeaTable. Vous pourrez ensuite importer le [modèle](https://seatable.io/fr/modele/kqecvuxbrganzgw0w1skgq/) dans votre espace de travail et l'adapter de manière flexible à vos besoins.
+Si vous souhaitez utiliser le modèle pour votre livre de comptes, [il vous suffit de vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) dans SeaTable. Vous pourrez ensuite importer le [modèle]({{< relref "templates/finance/budget-book" >}}) dans votre espace de travail et l'adapter de manière flexible à vos besoins.
 
 ## 12 conseils pour économiser de l'argent
 
@@ -82,7 +82,7 @@ Outre les abonnements de divertissement, **les adhésions à des centres de fitn
 
 ### 4\. inviter des amis à la maison
 
-Des soirées de jeux, des fêtes ou cuisiner ensemble quelque chose de bon : **Les activités à la maison** sont presque toujours moins chères que les sorties. Avec vos amis, vous pouvez facilement économiser de l'argent en réduisant les visites dans les restaurants, les bars et les clubs et en [organisant des soirées à la](https://seatable.io/fr/modele/cedsmqybrkwqohspoicw-a/) maison, où chaque invité apporte quelques snacks ou boissons. Vous vous amuserez peut-être encore plus à la maison, vous pourrez choisir la musique et la liste des invités, et votre comptabilité budgétaire vous en remerciera.
+Des soirées de jeux, des fêtes ou cuisiner ensemble quelque chose de bon : **Les activités à la maison** sont presque toujours moins chères que les sorties. Avec vos amis, vous pouvez facilement économiser de l'argent en réduisant les visites dans les restaurants, les bars et les clubs et en [organisant des soirées à la]({{< relref "templates/events/party-planner" >}}) maison, où chaque invité apporte quelques snacks ou boissons. Vous vous amuserez peut-être encore plus à la maison, vous pourrez choisir la musique et la liste des invités, et votre comptabilité budgétaire vous en remerciera.
 
 ### 5\. louer des espaces de vie ou de rangement inutilisés
 
@@ -108,7 +108,7 @@ Vous n'êtes pas obligé d'acheter des objets neufs pour votre appartement ou vo
 
 {{< warning headline="Attention : piège des coûts !" text="Les vieux réfrigérateurs, machines à laver et autres appareils électriques peuvent souvent être achetés à très bas prix. Mais pour ces appareils en particulier, il est important de considérer les coûts sur toute leur durée de vie. Un appareil qui coûte 200 euros de plus à l'état neuf, mais qui dure dix ans de plus et consomme 20 % d'électricité en moins, peut vous faire économiser bien plus que 200 euros. Misez donc plutôt sur des appareils électriques de qualité. Les ampoules LED coûtent également plus cher à l'achat, mais ne consomment qu'un dixième environ de l'électricité utilisée par les ampoules à incandescence traditionnelles." />}}
 
-Faites également attention aux **offres spéciales** des détaillants. Si vous envisagez un nouvel achat coûteux, il peut être intéressant de [comparer les prix](https://seatable.io/fr/modele/fsbfwc4fqocgqed7vczq9g/).
+Faites également attention aux **offres spéciales** des détaillants. Si vous envisagez un nouvel achat coûteux, il peut être intéressant de [comparer les prix]({{< relref "templates/finance/price-comparison" >}}).
 
 ### 8\. éviter les achats impulsifs
 

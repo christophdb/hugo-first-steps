@@ -74,7 +74,7 @@ Defina os objectivos que pretende alcançar com o plano editorial. São possíve
 - **Tráfego**: Mais pessoas devem visitar o seu sítio Web.
 - **Vendas**: Pretende obter mais contactos, subscritores ou clientes.
 - **Fidelização dos clientes**: Pretende reforçar a relação com os seus clientes e incentivá-los a recomendá-lo a outros.
-- **Posição única**: Pretende destacar-se [da concorrência](https://seatable.io/pt/vorlage/rv0aemhnqjufipzfycgc8w/) com o seu conteúdo.
+- **Posição única**: Pretende destacar-se [da concorrência]({{< relref "templates/marketing/competitor-analysis" >}}) com o seu conteúdo.
 - **Estatuto de especialista**: Pretende tornar-se conhecido na indústria e tornar-se um especialista procurado num tópico específico.
 
 Uma vez definidos os objectivos, a etapa seguinte consiste em decidir quais os meios de comunicação, os tipos de conteúdo e os formatos adequados.

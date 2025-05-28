@@ -14,7 +14,7 @@ Il faut vérifier les paiements entrants, rappeler les paiements aux clients et,
 
 Avec [SeaTable](https://seatable.io/fr/enregistrement/?lang=auto), vous avez enfin toutes les factures ou créances dues par vos clients en un coup d'œil et vous connaissez exactement le statut de chacune d'entre elles. SeaTable permet à votre service des comptes débiteurs de gérer les créances de manière optimale et efficace. En outre, les informations peuvent être facilement échangées entre les différents départements de votre entreprise. Ainsi, tout le monde peut travailler avec des informations identiques et correctes et vous, en tant qu'entrepreneur, pouvez à nouveau dormir plus tranquillement.
 
-[Cliquez ici pour accéder directement à notre modèle "CRM-Comptabilité clients".](https://seatable.io/fr/modele/wsnf1ukarv6sp5omx6a2og/)
+[Cliquez ici pour accéder directement à notre modèle "CRM-Comptabilité clients".]({{< relref "templates/sales/crm-accounts-receivable" >}})
 
 ## Qu'est-ce que la comptabilité des comptes clients ?
 
@@ -110,6 +110,6 @@ Il n'est donc pas toujours nécessaire d'opter pour des logiciels de comptabilit
 
 Grâce à son énorme flexibilité, SeaTable peut également faire fonctionner parfaitement votre département des comptes clients. L'avantage évident que présente SeaTable est la diversité des utilisations possibles du produit lui-même. Outre les comptes clients, d'autres cas d'utilisation importants dans votre entreprise peuvent également être couverts. Vous pouvez en savoir plus à ce sujet sur notre [blog](https://seatable.io/fr/blog/?lang=auto) ou directement dans nos [modèles](https://seatable.io/fr/docs/templates/?lang=auto). Convainquez-vous de la feuille de calcul la plus puissante et la plus innovante et lancez-vous dès aujourd'hui dans la comptabilité des comptes clients.
 
-[Vers le modèle "CRM Comptes clients".](https://seatable.io/fr/modele/wsnf1ukarv6sp5omx6a2og/)  
+[Vers le modèle "CRM Comptes clients".]({{< relref "templates/sales/crm-accounts-receivable" >}})  
 [Essayez SeaTable dans le nuage gratuitement maintenant](/fr/enregistrement/)  
 [Ou vous préférez utiliser SeaTable Enterprise dans votre propre centre de données.]({{< relref "pages/product/seatable-server" >}})

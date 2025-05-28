@@ -39,7 +39,7 @@ En nuestra [plantilla para la gestión de sus]({{< relref "templates/real-estate
 
 Coordinar los servicios de conserjería con SeaTable
 
-Algo se rompe en todos los edificios. Eso no se puede cambiar. Lo que sí puede cambiar, sin embargo, es que puede gestionar el proceso de reparación de forma eficiente, con nuestra [plantilla para servicios de conserjería](https://seatable.io/es/vorlage/og4b3ghdrlippbkd3itqfg/).
+Algo se rompe en todos los edificios. Eso no se puede cambiar. Lo que sí puede cambiar, sin embargo, es que puede gestionar el proceso de reparación de forma eficiente, con nuestra [plantilla para servicios de conserjería]({{< relref "templates/real-estate/janitorial-services" >}}).
 
 Con SeaTable, puede permitir que los residentes envíen pedidos de reparación cómodamente a través de un [formulario web](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/). Se le informará automáticamente por correo electrónico de los nuevos daños y problemas notificados y podrá asignar la reparación al conserje, comerciante o empleado adecuado. Estos reciben toda la información necesaria y pueden documentar la reparación directamente in situ en su aplicación SeaTable. Las horas de trabajo y los consumibles necesarios pueden documentarse fácilmente.
 
@@ -53,7 +53,7 @@ Caza plana con SeaTable - No deje nada al azar.
 
 La búsqueda de un piso nuevo es notoriamente difícil, sobre todo en las zonas urbanas. A menudo, la oferta no se ajusta a las necesidades individuales en cuanto a alquiler, ubicación, habitaciones y mobiliario. Además, después de la quinta visita, como muy tarde, se empieza a perder la pista de los inmuebles. Por lo tanto, anote todos los pros y los contras de los pisos que vea en un solo lugar, compare determinados criterios, como la [relación calidad-precio](https://de.wikipedia.org/wiki/Preis-Leistungs-Verhältnis), y se dará cuenta de que al final la decisión le resultará más fácil.
 
-Con nuestra [plantilla de búsqueda de pisos](https://seatable.io/es/vorlage/ggr4kqd4quazbz6fivljgg/), podrá registrar toda la información, datos y documentos sobre los pisos de forma sencilla y estructurada. Guarde fotos, planos, superficie útil, precio de alquiler y todo lo que haya observado durante la visita al inmueble en una tabla claramente organizada. Asigne una puntuación y tome la decisión correcta de forma más fácil, segura y rápida.
+Con nuestra [plantilla de búsqueda de pisos]({{< relref "templates/real-estate/apartment-hunting" >}}), podrá registrar toda la información, datos y documentos sobre los pisos de forma sencilla y estructurada. Guarde fotos, planos, superficie útil, precio de alquiler y todo lo que haya observado durante la visita al inmueble en una tabla claramente organizada. Asigne una puntuación y tome la decisión correcta de forma más fácil, segura y rápida.
 
 ## Empiece a planificar su próximo traslado
 
@@ -63,7 +63,7 @@ Planificar su próximo movimiento es un juego de niños con SeaTable.
 
 Todos nos hemos mudado alguna vez y sabemos lo angustiosa que puede ser una mudanza. A partir de la tercera caja empaquetada, como muy tarde, pierdes la noción de qué está empaquetado y dónde, y te atascas en confusas listas de tareas pendientes.
 
-Puede reducir considerablemente sus niveles de estrés con nuestra [plantilla para su próxima mudanza](https://seatable.io/es/vorlage/h3kzygydsysdrzun-h-fxq/). La plantilla le ayuda a registrar exactamente qué ha empaquetado, dónde y cómo lo lleva de su antigua casa a la nueva.
+Puede reducir considerablemente sus niveles de estrés con nuestra [plantilla para su próxima mudanza]({{< relref "templates/real-estate/moving-plan" >}}). La plantilla le ayuda a registrar exactamente qué ha empaquetado, dónde y cómo lo lleva de su antigua casa a la nueva.
 
 Nuestra plantilla de reubicación también incluye una lista de tareas pendientes para otras tareas que deben completarse en una fecha determinada. Así, no olvide preparar a tiempo la solicitud de reenvío a la oficina de correos o cancelar los contratos relativos a la antigua vivienda. ¡Pruébelo! Seguro que la próxima mudanza llegará.
 

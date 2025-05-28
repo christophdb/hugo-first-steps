@@ -55,7 +55,7 @@ Un plan d'action peut très bien y remédier. Toutes ces dates y sont notées af
 
 ## Planification des mesures en toute simplicité avec SeaTable
 
-Avec notre [modèle de plan d'action SeaTable](https://seatable.io/fr/modele/hntk-vocrksmyj-9746vka/), vous avez toujours un œil sur chaque date et chaque action. Concevez le plan en fonction de vos souhaits et de la planification de vos activités. Ce faisant, vous pouvez relier en un clin d'œil vos mesures à vos objectifs (annuels) dans le même document - vous avez ainsi toutes les informations réunies en un seul endroit.
+Avec notre [modèle de plan d'action SeaTable]({{< relref "templates/projects/action-plan" >}}), vous avez toujours un œil sur chaque date et chaque action. Concevez le plan en fonction de vos souhaits et de la planification de vos activités. Ce faisant, vous pouvez relier en un clin d'œil vos mesures à vos objectifs (annuels) dans le même document - vous avez ainsi toutes les informations réunies en un seul endroit.
 
 Notre modèle se compose essentiellement d'un calendrier de 365 jours avec des week-ends et des jours fériés marqués, dans lequel vous pouvez facilement inscrire tout ce qui concerne votre planification. Cela a l'avantage de vous permettre d'avoir une vision globale des jours de la semaine et des mois. Cela permet d'avoir une meilleure vue d'ensemble sur la date et la fréquence d'un rendez-vous ou d'une action particulière et facilite la planification annuelle. Pour une planification détaillée du projet, les colonnes "Heure", "Lieu", "Personnes et services responsables" ainsi que "To-Do" importants sont intégrés. Ainsi, le déroulement des différentes mesures peut être planifié très précisément et les dates importantes sont toujours à portée de main en quelques clics. Vous allez voir : Avec SeaTable, la planification pour toute l'année est parfaitement structurée et organisée.
 
@@ -71,4 +71,4 @@ Visualiser les objectifs dans votre plan d'action et les faire progresser
 
 Grâce à la flexibilité de SeaTable et aux nombreuses possibilités de mise en page, la création d'un plan d'action est un jeu d'enfant. Les objectifs peuvent être reliés entre eux de manière transversale, tout comme les échéances ou les mesures qui se répètent chaque année. Vous pouvez ainsi définir votre stratégie et mettre en œuvre vos plans de manière directe et efficace.
 
-Commencez directement et [téléchargez notre modèle](https://seatable.io/fr/modele/hntk-vocrksmyj-9746vka/) de plan d'action dans votre cloud dès aujourd'hui ! Profitez des fonctions polyvalentes de SeaTable. Vous ne perdrez plus jamais de vue vos objectifs et vos mesures !
+Commencez directement et [téléchargez notre modèle]({{< relref "templates/projects/action-plan" >}}) de plan d'action dans votre cloud dès aujourd'hui ! Profitez des fonctions polyvalentes de SeaTable. Vous ne perdrez plus jamais de vue vos objectifs et vos mesures !

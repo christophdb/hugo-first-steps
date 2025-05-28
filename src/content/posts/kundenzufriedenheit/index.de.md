@@ -21,7 +21,7 @@ Um die Kundenzufriedenheit steigern zu können, müssen Sie über die aktuelle K
 
 Egal für welche Methode Sie sich entscheiden, Sie benötigen immer ein Tool, um das Kundenfeedback einzuholen, zu messen und im Anschluss auszuwerten. Dieser Vorgang sollte unkompliziert und ohne großen Aufwand jederzeit wiederholt werden können. Gleichzeitig muss die Auswertung auch bei großen Datenmengen übersichtlich bleiben. Diese Auswertung nennt man häufig auch _User Experience Research_ oder _UX Research_.
 
-Mit SeaTable geben wir Ihnen das perfekte Tool an die Hand. SeaTable hilft Ihnen mit einfach zu teilenden [Webformularen](https://seatable.io/docs/handbuch/datenmanagement/webformulare/) bei der Erhebung und mit [Statistikfunktionen](https://seatable.io/docs/handbuch/datenmanagement/statistiken/) beim Auswerten und Priorisieren des Kundenfeedbacks. Wir haben sogar ein [Template](https://seatable.io/vorlage/wcmmq-i4qp-euwa7zh52sg/) vorbereitet, das Ihnen erste Inspiration geben soll und mit dem Sie die folgenden drei Schritte durchführen können. Schauen Sie doch einfach mal rein.
+Mit SeaTable geben wir Ihnen das perfekte Tool an die Hand. SeaTable hilft Ihnen mit einfach zu teilenden [Webformularen](https://seatable.io/docs/handbuch/datenmanagement/webformulare/) bei der Erhebung und mit [Statistikfunktionen](https://seatable.io/docs/handbuch/datenmanagement/statistiken/) beim Auswerten und Priorisieren des Kundenfeedbacks. Wir haben sogar ein [Template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) vorbereitet, das Ihnen erste Inspiration geben soll und mit dem Sie die folgenden drei Schritte durchführen können. Schauen Sie doch einfach mal rein.
 
 ## Schritt 1: Daten zur Kundenzufriedenheit erheben
 
@@ -37,7 +37,7 @@ Wir haben bereits erfahren, dass es [einige Methoden](https://www.userlike.com/d
 
 ![Ein NPS Fragebogen mit SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-seatable.png)
 
-Ein mit SeaTable erstellter NPS-Fragebogen. Probieren Sie unser [NPS-Template](https://seatable.io/vorlage/wcmmq-i4qp-euwa7zh52sg/) einfach aus.
+Ein mit SeaTable erstellter NPS-Fragebogen. Probieren Sie unser [NPS-Template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) einfach aus.
 
 ### Berechnung des NPS (Net-Promoter-Score)
 
@@ -145,4 +145,4 @@ Nur ein Unternehmen, welches die Wünsche seiner Kunden ernst nimmt, kann auf la
 
 Passen Sie auf, dass Sie vor lauter Informationen nicht die wichtigen Themen aus den Augen verlieren. Priorisieren Sie deshalb Ihre Informationen und leiten Sie daraus Handlungsoptionen ab. Nehmen Sie sich Zeit, mit [negativem Feedback](https://seatable.io/negatives-kundenfeedback/) umzugehen.
 
-Wenn Sie vorhaben, die User Experience Ihrer Kunden dauerhaft zu verbessern, dann probieren Sie SeaTable aus. SeaTable gibt Ihnen das [notwendige Rüstzeug](https://seatable.io/vorlage/wcmmq-i4qp-euwa7zh52sg/) an die Hand, um die Zufriedenheit Ihrer Kunden zu steigern. Warten Sie nicht auf morgen, sondern etablieren Sie schon heute einen festen Prozess zur Erhebung Ihrer Kundenzufriedenheit!
+Wenn Sie vorhaben, die User Experience Ihrer Kunden dauerhaft zu verbessern, dann probieren Sie SeaTable aus. SeaTable gibt Ihnen das [notwendige Rüstzeug]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) an die Hand, um die Zufriedenheit Ihrer Kunden zu steigern. Warten Sie nicht auf morgen, sondern etablieren Sie schon heute einen festen Prozess zur Erhebung Ihrer Kundenzufriedenheit!

@@ -39,7 +39,7 @@ Avec SeaTable, vous avez la possibilité d'éviter ce problème : Notre logiciel
 
 Notre solution logicielle commence par l'agenda et permet une gestion complète et structurée des rendez-vous et des données. Elle permet également de documenter les réunions et d'en assurer le suivi. Ci-dessous, nous vous expliquons exactement comment utiliser notre modèle créé par nos soins et quelles fonctionnalités vous attendent.
 
-[Cliquez ici pour accéder directement au modèle de réunion d'équipe.](https://seatable.io/fr/modele/gumqbevcroszpprj6j4xyg/)
+[Cliquez ici pour accéder directement au modèle de réunion d'équipe.]({{< relref "templates/projects/team-meetings" >}})
 
 Lors des réunions, il est important de planifier à l'avance les contenus à discuter. Sans préparation des contenus, la réunion est sans plan, chaotique et aussi inutile, car l'objectif des réunions n'est pas seulement de se concerter, mais aussi de progresser dans les projets. Des décisions doivent être prises pour obtenir des résultats. Si ce n'est pas le cas, la réunion a complètement raté son objectif.
 
@@ -107,4 +107,4 @@ La deuxième règle est une notification de rappel qui a été paramétrée avec
 
 Comme vous pouvez le constater : Avec SeaTable, l'organisation et la tenue de réunions ne sont pas un casse-tête. La préparation optimale se fait grâce aux règles de notification, aux vues personnalisées, à la fonction de chat et à l'agenda, tandis que lors de la réalisation, l'agenda invite à la collaboration. Pour le suivi, tous les détails importants sont listés et enregistrés dans la base, de sorte que tout peut être suivi et relu à tout moment. Ainsi, vous ne manquerez plus aucune réunion !
 
-[Testez notre modèle](https://seatable.io/fr/modele/gumqbevcroszpprj6j4xyg/) dès aujourd'hui et [inscrivez-vous](/fr/enregistrement/) gratuitement.
+[Testez notre modèle]({{< relref "templates/projects/team-meetings" >}}) dès aujourd'hui et [inscrivez-vous](/fr/enregistrement/) gratuitement.

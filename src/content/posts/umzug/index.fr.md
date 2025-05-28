@@ -169,4 +169,4 @@ Pour que votre prochain déménagement se déroule sans stress, l'équipe de Sea
 
 ![Plan de déménagement](images/Umzugsplan.png)
 
-Si vous souhaitez utiliser SeaTable pour planifier votre déménagement, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici](https://seatable.io/fr/modele/h3kzygydsysdrzun-h-fxq/).
+Si vous souhaitez utiliser SeaTable pour planifier votre déménagement, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/real-estate/moving-plan" >}}).

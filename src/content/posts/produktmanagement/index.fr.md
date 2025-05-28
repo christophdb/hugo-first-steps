@@ -46,7 +46,7 @@ Une vue d'ensemble bien organisée facilite non seulement le processus de travai
 
 ## Gestion des produits avec SeaTable
 
-Rassemblez facilement toutes vos données en un seul endroit : avec SeaTable. [Notre modèle de gestion des produits](https://seatable.io/fr/modele/mo8j3bg_qqkig0v-xx2fmq/) est composé de plusieurs feuilles de calcul. Il y a d'abord un aperçu général des produits, suivi d'une fiche produit spécifique. Les données de contact des fournisseurs et des collaborateurs externes sont tout aussi importantes pour les informations sur les produits. Il ne faut pas non plus oublier : Les chiffres, tels que le chiffre d'affaires du produit, peuvent être parfaitement collectés et évalués avec SeaTable. Bien entendu, notre modèle est adaptable à vos besoins et à ceux de votre produit.
+Rassemblez facilement toutes vos données en un seul endroit : avec SeaTable. [Notre modèle de gestion des produits]({{< relref "templates/product-design/product-library" >}}) est composé de plusieurs feuilles de calcul. Il y a d'abord un aperçu général des produits, suivi d'une fiche produit spécifique. Les données de contact des fournisseurs et des collaborateurs externes sont tout aussi importantes pour les informations sur les produits. Il ne faut pas non plus oublier : Les chiffres, tels que le chiffre d'affaires du produit, peuvent être parfaitement collectés et évalués avec SeaTable. Bien entendu, notre modèle est adaptable à vos besoins et à ceux de votre produit.
 
 ### 1\. aperçu général des produits
 
@@ -84,4 +84,4 @@ Trier les chiffres de vente par région
 
 Les statistiques fournissent des informations précieuses sur les ventes de votre produit
 
-Le processus de développement de produits dans la gestion de produits ne doit pas être sous-estimé. De très nombreux postes doivent être pris en compte. Pour ne pas perdre la vue d'ensemble, nous proposons avec notre modèle de gestion de produits SeaTable une excellente possibilité de démarrer directement de manière organisée et structurée dans un nouveau type de gestion de produits. Découvrez des processus simples et une collecte de données efficace - [téléchargez](https://seatable.io/fr/modele/mo8j3bg_qqkig0v-xx2fmq/) simplement [le modèle ici](https://seatable.io/fr/modele/mo8j3bg_qqkig0v-xx2fmq/) et lancez-vous !
+Le processus de développement de produits dans la gestion de produits ne doit pas être sous-estimé. De très nombreux postes doivent être pris en compte. Pour ne pas perdre la vue d'ensemble, nous proposons avec notre modèle de gestion de produits SeaTable une excellente possibilité de démarrer directement de manière organisée et structurée dans un nouveau type de gestion de produits. Découvrez des processus simples et une collecte de données efficace - [téléchargez]({{< relref "templates/product-design/product-library" >}}) simplement [le modèle ici]({{< relref "templates/product-design/product-library" >}}) et lancez-vous !

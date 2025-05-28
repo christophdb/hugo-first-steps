@@ -102,4 +102,4 @@ So that you are ideally prepared for the next emergency situation, the SeaTable 
 
 ![Your Emergency Stock Template](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
 
-If you want to use SeaTable for stockpiling, just [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here](https://seatable.io/en/vorlage/xd246xzxtnuset-pxi0xsa/).
+If you want to use SeaTable for stockpiling, just [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here]({{< relref "templates/everyday-life/shopping-liste" >}}).

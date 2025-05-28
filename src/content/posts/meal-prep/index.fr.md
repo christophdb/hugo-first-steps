@@ -82,7 +82,7 @@ Demandez-vous d'abord pour combien de jours vous souhaitez cuisiner à l'avance.
 
 ### 2\. faire des achats
 
-Les recettes sont choisies, il vous manque encore les **ingrédients**. Listez ce dont vous avez besoin et en quelles **quantités** afin de garder une vue d'ensemble pendant vos achats. De plus, une [liste de courses](https://seatable.io/fr/modele/rw6cogmdrjyl-j0w3sjraw/) vous aide à n'acheter que les aliments dont vous avez vraiment besoin pour vos repas. Veillez à n'acheter des produits frais et périssables que si vous pouvez les utiliser immédiatement.
+Les recettes sont choisies, il vous manque encore les **ingrédients**. Listez ce dont vous avez besoin et en quelles **quantités** afin de garder une vue d'ensemble pendant vos achats. De plus, une [liste de courses]({{< relref "templates/everyday-life/shopping-list" >}}) vous aide à n'acheter que les aliments dont vous avez vraiment besoin pour vos repas. Veillez à n'acheter des produits frais et périssables que si vous pouvez les utiliser immédiatement.
 
 ![Pour faire vos courses sans dépenser plus, une liste de courses peut vous aider](https://seatable.io/wp-content/uploads/2023/11/torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
@@ -126,8 +126,8 @@ Grâce aux différentes épices, vous donnez aux légumes un goût différent ch
 
 ## Modèle pour votre plan hebdomadaire Meal Prep
 
-Pour que vos recettes préférées soient toujours à portée de main, vous pouvez créer une liste de tous les plats Meal Prep et noter sur quels sites web vous avez trouvé tel ou tel plat. Le [modèle gratuit de SeaTable](https://seatable.io/fr/modele/egzrna4wtbsuv7bbquzwsq/) est idéal pour classer vos recettes Meal Prep de manière claire.
+Pour que vos recettes préférées soient toujours à portée de main, vous pouvez créer une liste de tous les plats Meal Prep et noter sur quels sites web vous avez trouvé tel ou tel plat. Le [modèle gratuit de SeaTable]({{< relref "templates/healthcare/recipes-meal-plan" >}}) est idéal pour classer vos recettes Meal Prep de manière claire.
 
 Il vous suffit d'inscrire le jour où vous souhaitez cuisiner un plat la prochaine fois et de créer en permanence de nouveaux **plans hebdomadaires Meal Prep** dans le calendrier. Téléchargez des photos et laissez-vous inspirer semaine après semaine par votre galerie de plats possibles. Deux autres tableaux vous permettent d'enregistrer tous les ingrédients dans une **liste de courses** et de comparer les **valeurs nutritives** de vos plats préférés.
 
-Si vous souhaitez utiliser SeaTable pour votre plan hebdomadaire Meal Prep, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici](https://seatable.io/fr/modele/egzrna4wtbsuv7bbquzwsq/). Supprimez les exemples de recettes et adaptez le plan alimentaire à vos besoins.
+Si vous souhaitez utiliser SeaTable pour votre plan hebdomadaire Meal Prep, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/healthcare/recipes-meal-plan" >}}). Supprimez les exemples de recettes et adaptez le plan alimentaire à vos besoins.

@@ -114,9 +114,9 @@ Finally, the **reactivation of inactive donors** is important in order to reuse 
 
 ## Manage donations with SeaTable
 
-With SeaTable's [free template](https://seatable.io/en/vorlage/nzqrkmzcsle8vkesd-lmpw/), you can make fundraising and donation management as easy as possible in the future. Organize several projects in one place and stay on top of things.
+With SeaTable's [free template]({{< relref "templates/finance/donation-overview" >}}), you can make fundraising and donation management as easy as possible in the future. Organize several projects in one place and stay on top of things.
 
-In your [online database](https://seatable.io/en/vorlage/nzqrkmzcsle8vkesd-lmpw/), you can not only **collect and manage donations**, but also automatically calculate the difference between donations already made and the target amount. Create **donation receipts** with one click and keep track of your donors' **contact details**. You can see all the important facts and the **progress of your projects** at a glance on a clear Kanban board.
+In your [online database]({{< relref "templates/finance/donation-overview" >}}), you can not only **collect and manage donations**, but also automatically calculate the difference between donations already made and the target amount. Create **donation receipts** with one click and keep track of your donors' **contact details**. You can see all the important facts and the **progress of your projects** at a glance on a clear Kanban board.
 
 For smaller organizations, the features and storage limits of SeaTable Free (free version) should be sufficient. If you have larger plans, your non-profit organization will receive standard [discounts](https://seatable.io/en/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) on the cost of SeaTable Plus or Enterprise.
 

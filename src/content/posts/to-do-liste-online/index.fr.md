@@ -19,7 +19,7 @@ Un **statut** vous permet d'indiquer si une tâche est en cours ou terminée. Un
 
 ### Voici à quoi pourrait ressembler votre liste de choses à faire avec un modèle :
 
-Vous souhaitez travailler directement avec ce modèle gratuit pour votre liste de choses à faire ? [Alors cliquez ici >>.](https://seatable.io/fr/modele/bpvzkh-vrpwr4xylid6zeq/)
+Vous souhaitez travailler directement avec ce modèle gratuit pour votre liste de choses à faire ? [Alors cliquez ici >>.]({{< relref "templates/projects/to-do-liste" >}})
 
 ## Pourquoi utiliser une application pour votre liste de choses à faire ?
 
@@ -99,7 +99,7 @@ Il est également intéressant de noter que vous pouvez télécharger [des fichi
 
 Dans la comparaison de toutes les apps considérées, SeaTable a de loin **le plus grand nombre de fonctions** et convainc par sa grande **flexibilité**. Ainsi, vous obtenez en une seule application tout ce dont vous avez besoin pour votre liste de choses à faire. Grâce aux nombreuses **fonctions collaboratives** (commentaires, ensembles de données partagés, travail synchrone en temps réel, etc.), vous pouvez non seulement travailler sur vos propres listes, mais aussi collaborer avec succès en équipe.
 
-Avec SeaTable, vous pouvez commencer immédiatement avec la [version gratuite](https://seatable.io/fr/enregistrement/) et le [modèle interactif](https://seatable.io/fr/modele/bpvzkh-vrpwr4xylid6zeq/). D'autres fonctionnalités sont disponibles dans la version Plus pour 7 € par utilisateur et par mois, la version Enterprise pour 14 € par utilisateur et par mois ou une solution cloud dédiée.
+Avec SeaTable, vous pouvez commencer immédiatement avec la [version gratuite](https://seatable.io/fr/enregistrement/) et le [modèle interactif]({{< relref "templates/projects/to-do-liste" >}}). D'autres fonctionnalités sont disponibles dans la version Plus pour 7 € par utilisateur et par mois, la version Enterprise pour 14 € par utilisateur et par mois ou une solution cloud dédiée.
 
 {{< warning headline="RGPD et souveraineté des données" text="Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la plateforme est également adaptée au travail avec des données sensibles et personnelles, conformément au RGPD. Vous avez en outre la possibilité d'installer [SeaTable On-Premises](https://seatable.io/fr/on-premises/) sur vos propres serveurs." />}}
 

@@ -113,9 +113,9 @@ Enfin, il est important de **réactiver les donateurs inactifs** afin d'exploite
 
 ## Gérer les dons avec SeaTable
 
-Avec le [modèle gratuit](https://seatable.io/fr/modele/nzqrkmzcsle8vkesd-lmpw/) de SeaTable, vous pourrez à l'avenir faire de la collecte de fonds un jeu d'enfant et rendre la gestion de vos dons aussi simple que possible. Organisez plusieurs projets en un seul endroit et gardez le cap.
+Avec le [modèle gratuit]({{< relref "templates/finance/donation-overview" >}}) de SeaTable, vous pourrez à l'avenir faire de la collecte de fonds un jeu d'enfant et rendre la gestion de vos dons aussi simple que possible. Organisez plusieurs projets en un seul endroit et gardez le cap.
 
-Dans votre [base de données en ligne](https://seatable.io/fr/modele/nzqrkmzcsle8vkesd-lmpw/), vous pouvez non seulement **collecter et gérer les dons**, mais aussi calculer automatiquement la différence entre les dons déjà effectués et la somme cible. Créez **des reçus de dons** en un clic et gardez une vue d'ensemble des **coordonnées** de vos donateurs. Un tableau Kanban clair vous permet de voir d'un coup d'œil tous les faits importants et l'**avancement de vos projets**.
+Dans votre [base de données en ligne]({{< relref "templates/finance/donation-overview" >}}), vous pouvez non seulement **collecter et gérer les dons**, mais aussi calculer automatiquement la différence entre les dons déjà effectués et la somme cible. Créez **des reçus de dons** en un clic et gardez une vue d'ensemble des **coordonnées** de vos donateurs. Un tableau Kanban clair vous permet de voir d'un coup d'œil tous les faits importants et l'**avancement de vos projets**.
 
 Pour les petites associations, les fonctions et les limites de stockage de SeaTable Free (version gratuite) devraient suffire. Si vous avez des projets plus importants, votre organisation à but non lucratif bénéficiera par défaut de [réductions](https://seatable.io/fr/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) sur les coûts de SeaTable Plus ou Enterprise.
 

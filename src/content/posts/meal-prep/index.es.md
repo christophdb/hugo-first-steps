@@ -82,7 +82,7 @@ En primer lugar, pregúntate para cuántos días te gustaría cocinar con antela
 
 ### 2\. compras
 
-Las recetas ya están seleccionadas, ahora necesitas los **ingredientes**. Haz una lista de lo que necesitas y en qué **cantidades** para que puedas tenerlo todo controlado mientras haces la compra. Una [lista de la compra](https://seatable.io/es/vorlage/rw6cogmdrjyl-j0w3sjraw/) también te ayuda a comprar sólo los alimentos que realmente necesitas para tus comidas. Asegúrate de que sólo compras productos frescos y perecederos si puedes utilizarlos inmediatamente.
+Las recetas ya están seleccionadas, ahora necesitas los **ingredientes**. Haz una lista de lo que necesitas y en qué **cantidades** para que puedas tenerlo todo controlado mientras haces la compra. Una [lista de la compra]({{< relref "templates/everyday-life/shopping-list" >}}) también te ayuda a comprar sólo los alimentos que realmente necesitas para tus comidas. Asegúrate de que sólo compras productos frescos y perecederos si puedes utilizarlos inmediatamente.
 
 ![Una lista de la compra te ayudará a realizar tus compras sin gastar más dinero](https://seatable.io/wp-content/uploads/2023/11/torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
@@ -126,8 +126,8 @@ Las distintas especias dan a las verduras un sabor diferente cada día. Por supu
 
 ## Plantilla para su plan semanal de Meal Prep
 
-Para tener siempre a mano tus recetas favoritas, puedes crear una lista de todos tus platos preparados y anotar en qué sitios web has encontrado cada plato. La [plantilla gratuita de SeaTable](https://seatable.io/es/vorlage/egzrna4wtbsuv7bbquzwsq/) es ideal para organizar con claridad tus recetas de preparación de comidas.
+Para tener siempre a mano tus recetas favoritas, puedes crear una lista de todos tus platos preparados y anotar en qué sitios web has encontrado cada plato. La [plantilla gratuita de SeaTable]({{< relref "templates/healthcare/recipes-meal-plan" >}}) es ideal para organizar con claridad tus recetas de preparación de comidas.
 
 Sólo tienes que introducir el día en el que quieres cocinar un plato la próxima vez y crear nuevos **planes semanales de Meal Prep** en el calendario. Sube fotos e inspírate con tu galería de posibles platos semana tras semana. En dos tablas adicionales, puedes registrar todos los ingredientes de una **lista de la compra** y comparar los **valores nutricionales** de tus platos favoritos.
 
-Si desea utilizar SeaTable para su plan semanal de preparación de comidas, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí](https://seatable.io/es/vorlage/egzrna4wtbsuv7bbquzwsq/) encontrará la plantilla correspondiente. Elimine las recetas de muestra y personalice el plan de comidas según sus necesidades.
+Si desea utilizar SeaTable para su plan semanal de preparación de comidas, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/healthcare/recipes-meal-plan" >}}) encontrará la plantilla correspondiente. Elimine las recetas de muestra y personalice el plan de comidas según sus necesidades.

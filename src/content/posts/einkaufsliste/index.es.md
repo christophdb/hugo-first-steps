@@ -166,7 +166,7 @@ La aplicación de notas como lista de la compra
 
 ### 7 Mesa de mar
 
-SeaTable ofrece una [plantilla](https://seatable.io/es/vorlage/rw6cogmdrjyl-j0w3sjraw/) que complementa la típica lista de la compra con muchas otras funciones. Aquí no solo puedes **marcar** tus artículos, sino también introducir **recetas** y subir **fotos**.
+SeaTable ofrece una [plantilla]({{< relref "templates/everyday-life/shopping-list" >}}) que complementa la típica lista de la compra con muchas otras funciones. Aquí no solo puedes **marcar** tus artículos, sino también introducir **recetas** y subir **fotos**.
 
 La lista de la compra digital / app también te ayuda a controlar mejor los aspectos financieros de tus compras. Por ejemplo, puedes asignar productos a categorías o tiendas específicas y **registrar los precios**, que se suman para cada supermercado y compra. Con la ayuda de las **estadísticas** integradas, puedes tener una visión clara de tus gastos.
 

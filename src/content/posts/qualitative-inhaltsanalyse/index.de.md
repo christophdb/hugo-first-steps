@@ -172,4 +172,4 @@ Bei einer Inhaltsanalyse können viele Materialien und Informationen zusammenkom
 
 Vor allem wenn Sie mit mehreren Codierern arbeiten, hat eine **Kollaborationsplattform** wie SeaTable unschlagbare Vorteile. Dort können Sie alle Materialien zentral in einer Datenbank ablegen und codieren lassen, indem Sie jedem Codierer eine individuell gefilterte Ansicht freigeben. Außerdem können Sie die codierten Daten kinderleicht auswerten und als anschauliche Statistiken visualisieren.
 
-Wenn Sie SeaTable für Ihre Inhaltsanalyse nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier](https://seatable.io/vorlage/jaw90r-mtsgxsep3vkfd4q/).
+Wenn Sie SeaTable für Ihre Inhaltsanalyse nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier]({{< relref "templates/marketing/media-content-analysis" >}}).

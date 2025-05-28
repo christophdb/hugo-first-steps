@@ -100,4 +100,4 @@ Además del clásico análisis coste-beneficio, existen [otras formas y métodos
 
 También puede realizar el análisis coste-beneficio manualmente utilizando tablas sencillas, pero es más cómodo utilizar una base de datos inteligente que calcule automáticamente los valores deseados mediante fórmulas y enlaces.
 
-¿Le han convencido las ventajas de un análisis coste-beneficio? Entonces [aquí](https://seatable.io/es/vorlage/le5dfgmarq6nvyuzgyafwq/) encontrará la plantilla correspondiente. Si aún no tiene una cuenta en SeaTable, puede registrarse [gratuitamente]({{< relref "pages/registration" >}}). ¡Pruébelo!
+¿Le han convencido las ventajas de un análisis coste-beneficio? Entonces [aquí]({{< relref "templates/finance/cost-benefit-analysis" >}}) encontrará la plantilla correspondiente. Si aún no tiene una cuenta en SeaTable, puede registrarse [gratuitamente]({{< relref "pages/registration" >}}). ¡Pruébelo!

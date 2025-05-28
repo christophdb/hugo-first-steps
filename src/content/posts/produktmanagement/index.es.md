@@ -46,7 +46,7 @@ Una visión general bien organizada no sólo facilita el proceso de trabajo, sin
 
 ## Gestión de productos con SeaTable
 
-Recoge fácilmente todos tus datos en un solo lugar: con SeaTable. [Nuestra plantilla para la gestión de productos](https://seatable.io/es/vorlage/mo8j3bg_qqkig0v-xx2fmq/) se compone de varias hojas de cálculo. En primer lugar, hay una descripción general del producto, seguida de una ficha técnica específica del mismo. Igual de importante que la información sobre los productos son los datos de contacto de los proveedores y empleados externos. No hay que olvidarlo: Cifras como las ventas del producto pueden ser excelentemente recogidas y evaluadas con SeaTable. Por supuesto, nuestra plantilla se adapta con flexibilidad a sus necesidades y a las de su producto.
+Recoge fácilmente todos tus datos en un solo lugar: con SeaTable. [Nuestra plantilla para la gestión de productos]({{< relref "templates/product-design/product-library" >}}) se compone de varias hojas de cálculo. En primer lugar, hay una descripción general del producto, seguida de una ficha técnica específica del mismo. Igual de importante que la información sobre los productos son los datos de contacto de los proveedores y empleados externos. No hay que olvidarlo: Cifras como las ventas del producto pueden ser excelentemente recogidas y evaluadas con SeaTable. Por supuesto, nuestra plantilla se adapta con flexibilidad a sus necesidades y a las de su producto.
 
 ### 1\. descripción general del producto
 
@@ -84,4 +84,4 @@ Ordenar las cifras de ventas por regiones
 
 Las estadísticas proporcionan información valiosa sobre las cifras de ventas de su producto
 
-No hay que subestimar el proceso de desarrollo de productos en la gestión de productos. Hay que tener en cuenta muchos elementos. Para no perder la visión de conjunto, ofrecemos con nuestra plantilla de gestión de productos SeaTable una excelente posibilidad de empezar directamente a organizar y estructurar un nuevo tipo de gestión de productos. Experimente procesos sencillos y una recopilación de datos eficiente: simplemente [descargue la plantilla aquí](https://seatable.io/es/vorlage/mo8j3bg_qqkig0v-xx2fmq/) y comience.
+No hay que subestimar el proceso de desarrollo de productos en la gestión de productos. Hay que tener en cuenta muchos elementos. Para no perder la visión de conjunto, ofrecemos con nuestra plantilla de gestión de productos SeaTable una excelente posibilidad de empezar directamente a organizar y estructurar un nuevo tipo de gestión de productos. Experimente procesos sencillos y una recopilación de datos eficiente: simplemente [descargue la plantilla aquí]({{< relref "templates/product-design/product-library" >}}) y comience.

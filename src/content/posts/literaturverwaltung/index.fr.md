@@ -105,7 +105,7 @@ En outre, JabRef présente toutefois des points faibles. La gestion de la litté
 
 SeaTable vous offre une alternative, **sous forme de tableau**, aux programmes de gestion de la littérature déjà présentés. L'interface utilisateur est **intuitive** et vous offre de nombreuses fonctionnalités utiles pour structurer rapidement et facilement votre littérature.
 
-Ce [modèle](https://seatable.io/fr/modele/h9cf82deq2ms7eizc3nwgg/) vous donne un aperçu de la manière dont vous pouvez utiliser le programme et l'adapter à vos besoins. SeaTable est une base de données, où vous pouvez saisir vos données dans des tableaux, les associer à des tâches et les enrichir de documents. La **collaboration en équipe** est possible en **temps réel**.
+Ce [modèle]({{< relref "templates/projects/bibliography" >}}) vous donne un aperçu de la manière dont vous pouvez utiliser le programme et l'adapter à vos besoins. SeaTable est une base de données, où vous pouvez saisir vos données dans des tableaux, les associer à des tâches et les enrichir de documents. La **collaboration en équipe** est possible en **temps réel**.
 
 SeaTable est disponible **gratuitement en version cloud** ou en tant que programme pour votre propre serveur. Si vous souhaitez obtenir des fonctionnalités supplémentaires et collaborer avec davantage d'utilisateurs, il est possible d'effectuer des mises à niveau. La version Plus coûte 7 euros par utilisateur et par mois et la version Enterprise 14 euros par utilisateur et par mois.
 
@@ -117,7 +117,7 @@ Les huit conseils suivants vous permettront de tirer le meilleur parti du progra
 
 Ne vous fiez pas à l'exactitude des sources indiquées dans les programmes de littérature ou autres travaux scientifiques. Des erreurs se produisent, les données peuvent être incomplètes ou présentées dans un style de citation incorrect. Lors de l'importation de données à partir d'autres programmes ou par DOI, il peut également arriver que des informations importantes ne soient pas reprises. C'est particulièrement ennuyeux si vous ne remarquez les erreurs qu'au moment d'insérer la bibliographie dans votre document.
 
-Contrôlez donc directement si les références bibliographiques sont correctes et complétez-les si nécessaire. Si vous souhaitez garder cette tâche pour la fin, il est utile de l'inscrire sur une [liste de choses à faire](https://seatable.io/fr/modele/bpvzkh-vrpwr4xylid6zeq/) afin de ne pas l'oublier.
+Contrôlez donc directement si les références bibliographiques sont correctes et complétez-les si nécessaire. Si vous souhaitez garder cette tâche pour la fin, il est utile de l'inscrire sur une [liste de choses à faire]({{< relref "templates/projects/to-do-liste" >}}) afin de ne pas l'oublier.
 
 ![Gestion de la littérature dans une bibliothèque avec une tablette.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
@@ -194,6 +194,6 @@ Souvent, on consulte plus de sources que l'on n'en utilise finalement pour son t
 
 Le choix du programme de gestion de la littérature dépend des fonctions que vous souhaitez utiliser et du montant que vous êtes prêt à investir dans le programme. Il est également recommandé de tester les programmes gratuitement.
 
-SeaTable vous propose à cet effet un [modèle](https://seatable.io/fr/modele/h9cf82deq2ms7eizc3nwgg/) dans lequel vous pouvez trouver des exemples de littérature et suivre le processus, de l'insertion des sources à l'édition de la bibliographie. Vous pouvez adapter le modèle à vos besoins, y ajouter vos propres sources, le structurer et le visualiser à l'aide de nombreux outils utiles.
+SeaTable vous propose à cet effet un [modèle]({{< relref "templates/projects/bibliography" >}}) dans lequel vous pouvez trouver des exemples de littérature et suivre le processus, de l'insertion des sources à l'édition de la bibliographie. Vous pouvez adapter le modèle à vos besoins, y ajouter vos propres sources, le structurer et le visualiser à l'aide de nombreux outils utiles.
 
 Si vous souhaitez utiliser SeaTable comme outil de gestion de la documentation, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement.
